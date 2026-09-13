@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0142142TheMoonBeast = {
   ownLength: 2174,
   unit: "words",
   publishedAt: "2026-04-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3305284/142-the-moon-beast",
-  externalId: "3305284",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3305284",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3305284/142-the-moon-beast",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

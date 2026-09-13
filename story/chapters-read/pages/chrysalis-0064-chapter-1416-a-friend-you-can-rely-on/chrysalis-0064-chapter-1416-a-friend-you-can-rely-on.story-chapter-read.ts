@@ -12,9 +12,13 @@ export const chrysalis0064Chapter1416AFriendYouCanRelyOn = {
   unit: "words",
   completedAt: "2026-06-29T19:45:40.814Z",
   publishedAt: "2024-09-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1817224/chapter-1416-a-friend-you-can-rely-on",
-  externalId: "1817224",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1817224",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1817224/chapter-1416-a-friend-you-can-rely-on",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

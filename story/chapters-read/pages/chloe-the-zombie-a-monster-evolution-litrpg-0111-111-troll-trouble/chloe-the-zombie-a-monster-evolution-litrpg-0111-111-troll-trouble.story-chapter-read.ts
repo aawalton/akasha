@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0111111TrollTrouble = {
   ownLength: 1946,
   unit: "words",
   publishedAt: "2026-02-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3028842/111-troll-trouble",
-  externalId: "3028842",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3028842",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3028842/111-troll-trouble",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

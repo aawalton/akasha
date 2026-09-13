@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0149149TechnicallyThatIsABrain
   ownLength: 2019,
   unit: "words",
   publishedAt: "2026-05-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3371024/149-technically-that-is-a-brain",
-  externalId: "3371024",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3371024",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3371024/149-technically-that-is-a-brain",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

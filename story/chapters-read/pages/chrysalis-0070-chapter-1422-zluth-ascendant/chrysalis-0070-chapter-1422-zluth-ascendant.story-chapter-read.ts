@@ -12,9 +12,13 @@ export const chrysalis0070Chapter1422ZluthAscendant = {
   unit: "words",
   completedAt: "2026-06-29T19:45:54.253Z",
   publishedAt: "2024-10-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1830736/chapter-1422-zluth-ascendant",
-  externalId: "1830736",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1830736",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1830736/chapter-1422-zluth-ascendant",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

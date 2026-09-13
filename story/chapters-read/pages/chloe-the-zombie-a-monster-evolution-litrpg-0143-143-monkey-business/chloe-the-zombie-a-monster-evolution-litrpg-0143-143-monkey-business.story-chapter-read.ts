@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0143143MonkeyBusiness = {
   ownLength: 1811,
   unit: "words",
   publishedAt: "2026-04-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3313435/143-monkey-business",
-  externalId: "3313435",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3313435",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3313435/143-monkey-business",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

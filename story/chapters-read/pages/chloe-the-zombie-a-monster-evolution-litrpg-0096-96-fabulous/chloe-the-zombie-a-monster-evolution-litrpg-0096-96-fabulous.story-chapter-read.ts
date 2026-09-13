@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg009696Fabulous = {
   ownLength: 2079,
   unit: "words",
   publishedAt: "2026-01-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2913913/96-fabulous",
-  externalId: "2913913",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2913913",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2913913/96-fabulous",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

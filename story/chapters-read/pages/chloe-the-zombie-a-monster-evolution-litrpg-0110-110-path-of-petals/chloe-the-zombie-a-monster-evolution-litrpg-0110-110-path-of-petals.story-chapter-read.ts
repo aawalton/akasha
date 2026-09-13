@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0110110PathOfPetals = {
   ownLength: 2000,
   unit: "words",
   publishedAt: "2026-02-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3018776/110-path-of-petals",
-  externalId: "3018776",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3018776",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3018776/110-path-of-petals",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

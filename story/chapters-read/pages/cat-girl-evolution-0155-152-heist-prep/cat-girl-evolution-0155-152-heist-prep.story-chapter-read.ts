@@ -10,9 +10,13 @@ export const catGirlEvolution0155152HeistPrep = {
   ownLength: 2958,
   unit: "words",
   publishedAt: "2026-08-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3842087/152-heist-prep",
-  externalId: "3842087",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3842087",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3842087/152-heist-prep",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

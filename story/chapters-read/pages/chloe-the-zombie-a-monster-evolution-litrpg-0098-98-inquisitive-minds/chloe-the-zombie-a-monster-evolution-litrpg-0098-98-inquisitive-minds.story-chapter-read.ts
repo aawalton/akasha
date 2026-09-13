@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg009898InquisitiveMinds = {
   ownLength: 1864,
   unit: "words",
   publishedAt: "2026-01-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2926649/98-inquisitive-minds",
-  externalId: "2926649",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2926649",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2926649/98-inquisitive-minds",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -7,12 +7,16 @@ export const catGirlEvolution0163160TheStageIsSet = {
   position: 163,
   publishedAt: "2026-09-10",
   unit: "words",
-  externalId: "3937243",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3937243",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/yona-cat-girl-evolution/chapter/3937243/160-the-stage-is-set",
+    },
+  ],
   title: "160 - The Stage Is Set",
   story: "story-read/cat-girl-evolution",
   ownLength: 2960,
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/yona-cat-girl-evolution/chapter/3937243/160-the-stage-is-set",
   prose: "txt",
 } as const satisfies StoryChapterRead

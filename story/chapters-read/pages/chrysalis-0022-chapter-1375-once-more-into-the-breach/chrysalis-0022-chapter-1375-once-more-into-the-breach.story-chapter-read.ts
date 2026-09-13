@@ -12,9 +12,13 @@ export const chrysalis0022Chapter1375OnceMoreIntoTheBreach = {
   unit: "words",
   completedAt: "2026-06-29T19:44:21.482Z",
   publishedAt: "2024-07-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1728611/chapter-1375-once-more-into-the-breach",
-  externalId: "1728611",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1728611",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1728611/chapter-1375-once-more-into-the-breach",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

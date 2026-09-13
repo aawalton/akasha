@@ -12,9 +12,13 @@ export const chrysalis0014Chapter1367CleanUpInIsleFive = {
   unit: "words",
   completedAt: "2026-06-29T19:44:06.013Z",
   publishedAt: "2024-07-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1702623/chapter-1367-clean-up-in-isle-five",
-  externalId: "1702623",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1702623",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1702623/chapter-1367-clean-up-in-isle-five",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

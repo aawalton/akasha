@@ -12,9 +12,13 @@ export const chrysalis0118Chapter1470CaptureYourOwnEnd = {
   unit: "words",
   completedAt: "2026-06-29T19:47:51.012Z",
   publishedAt: "2024-12-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1948978/chapter-1470-capture-your-own-end",
-  externalId: "1948978",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1948978",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1948978/chapter-1470-capture-your-own-end",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

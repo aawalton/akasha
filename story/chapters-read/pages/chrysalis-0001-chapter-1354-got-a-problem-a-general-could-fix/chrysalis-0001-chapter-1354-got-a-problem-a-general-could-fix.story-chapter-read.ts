@@ -12,9 +12,13 @@ export const chrysalis0001Chapter1354GotAProblemAGeneralCouldFix = {
   unit: "words",
   completedAt: "2026-06-29T19:43:41.167Z",
   publishedAt: "2024-06-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1675979/chapter-1354-got-a-problem-a-general-could-fix",
-  externalId: "1675979",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1675979",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1675979/chapter-1354-got-a-problem-a-general-could-fix",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

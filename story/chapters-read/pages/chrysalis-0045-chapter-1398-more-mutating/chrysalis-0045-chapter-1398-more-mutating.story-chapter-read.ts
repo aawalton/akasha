@@ -12,9 +12,13 @@ export const chrysalis0045Chapter1398MoreMutating = {
   unit: "words",
   completedAt: "2026-06-29T19:45:04.511Z",
   publishedAt: "2024-08-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1778935/chapter-1398-more-mutating",
-  externalId: "1778935",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1778935",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1778935/chapter-1398-more-mutating",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

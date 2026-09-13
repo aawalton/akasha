@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0146146FiredUp = {
   ownLength: 1980,
   unit: "words",
   publishedAt: "2026-05-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3341326/146-fired-up",
-  externalId: "3341326",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3341326",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3341326/146-fired-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

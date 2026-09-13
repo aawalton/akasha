@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg006363OnBlackWings = {
   ownLength: 1568,
   unit: "words",
   publishedAt: "2025-11-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2728688/63-on-black-wings",
-  externalId: "2728688",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2728688",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2728688/63-on-black-wings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0141141PuzzleRoom = {
   ownLength: 2034,
   unit: "words",
   publishedAt: "2026-04-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3296793/141-puzzle-room",
-  externalId: "3296793",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3296793",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3296793/141-puzzle-room",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

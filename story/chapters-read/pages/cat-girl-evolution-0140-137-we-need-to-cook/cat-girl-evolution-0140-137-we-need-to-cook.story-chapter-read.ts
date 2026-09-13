@@ -10,9 +10,13 @@ export const catGirlEvolution0140137WeNeedToCook = {
   ownLength: 2303,
   unit: "words",
   publishedAt: "2026-07-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3647328/137-we-need-to-cook",
-  externalId: "3647328",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3647328",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3647328/137-we-need-to-cook",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

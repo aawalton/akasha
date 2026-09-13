@@ -12,9 +12,13 @@ export const chrysalis0015Chapter1368Invaders = {
   unit: "words",
   completedAt: "2026-06-29T19:44:07.917Z",
   publishedAt: "2024-07-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1703945/chapter-1368-invaders",
-  externalId: "1703945",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1703945",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1703945/chapter-1368-invaders",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

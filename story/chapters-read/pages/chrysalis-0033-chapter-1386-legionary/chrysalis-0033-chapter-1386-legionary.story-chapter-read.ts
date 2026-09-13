@@ -12,9 +12,13 @@ export const chrysalis0033Chapter1386Legionary = {
   unit: "words",
   completedAt: "2026-06-29T19:44:42.239Z",
   publishedAt: "2024-08-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1746556/chapter-1386-legionary",
-  externalId: "1746556",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1746556",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1746556/chapter-1386-legionary",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

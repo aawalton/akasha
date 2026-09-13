@@ -12,9 +12,13 @@ export const chrysalis0024Chapter1377TollyGoesHome = {
   unit: "words",
   completedAt: "2026-06-29T19:44:25.180Z",
   publishedAt: "2024-07-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1729736/chapter-1377-tolly-goes-home",
-  externalId: "1729736",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1729736",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1729736/chapter-1377-tolly-goes-home",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

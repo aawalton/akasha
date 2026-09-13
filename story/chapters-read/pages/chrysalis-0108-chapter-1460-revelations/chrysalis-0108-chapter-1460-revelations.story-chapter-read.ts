@@ -12,9 +12,13 @@ export const chrysalis0108Chapter1460Revelations = {
   unit: "words",
   completedAt: "2026-06-29T19:47:32.021Z",
   publishedAt: "2024-11-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1926356/chapter-1460-revelations",
-  externalId: "1926356",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1926356",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1926356/chapter-1460-revelations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg005050ChloesFirstMission = {
   ownLength: 2178,
   unit: "words",
   publishedAt: "2025-10-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2665997/50-chloes-first-mission",
-  externalId: "2665997",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2665997",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2665997/50-chloes-first-mission",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

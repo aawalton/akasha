@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0148148LightningCutter = {
   ownLength: 2160,
   unit: "words",
   publishedAt: "2026-05-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3362668/148-lightning-cutter",
-  externalId: "3362668",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3362668",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3362668/148-lightning-cutter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

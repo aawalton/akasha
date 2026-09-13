@@ -10,9 +10,13 @@ export const catGirlEvolution0159156FollowersOfLimos = {
   ownLength: 1758,
   unit: "words",
   publishedAt: "2026-08-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3888755/156-followers-of-limos",
-  externalId: "3888755",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3888755",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3888755/156-followers-of-limos",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

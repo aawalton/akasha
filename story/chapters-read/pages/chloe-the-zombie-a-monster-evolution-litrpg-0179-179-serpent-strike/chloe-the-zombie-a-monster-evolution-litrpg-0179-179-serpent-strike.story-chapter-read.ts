@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0179179SerpentStrike = {
   ownLength: 1916,
   unit: "words",
   publishedAt: "2026-07-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3689587/179-serpent-strike",
-  externalId: "3689587",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3689587",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3689587/179-serpent-strike",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

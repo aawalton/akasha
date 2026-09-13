@@ -10,9 +10,13 @@ export const catGirlEvolution0158155MeatPies = {
   ownLength: 2182,
   unit: "words",
   publishedAt: "2026-08-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3875662/155-meat-pies",
-  externalId: "3875662",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3875662",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3875662/155-meat-pies",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

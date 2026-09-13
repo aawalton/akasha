@@ -10,9 +10,13 @@ export const catGirlEvolution0131129AbbysMasterPlan = {
   ownLength: 2034,
   unit: "words",
   publishedAt: "2026-05-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3421380/129-abbys-master-plan",
-  externalId: "3421380",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3421380",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3421380/129-abbys-master-plan",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

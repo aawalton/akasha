@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg007676PrimalShenanigans = {
   ownLength: 2380,
   unit: "words",
   publishedAt: "2025-11-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2794923/76-primal-shenanigans",
-  externalId: "2794923",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2794923",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2794923/76-primal-shenanigans",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

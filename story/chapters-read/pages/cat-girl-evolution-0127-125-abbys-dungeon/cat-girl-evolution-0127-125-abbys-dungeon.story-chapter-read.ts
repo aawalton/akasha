@@ -10,9 +10,13 @@ export const catGirlEvolution0127125AbbysDungeon = {
   ownLength: 2193,
   unit: "words",
   publishedAt: "2026-05-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3381071/125-abbys-dungeon",
-  externalId: "3381071",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3381071",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3381071/125-abbys-dungeon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

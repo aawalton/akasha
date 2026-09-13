@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg008888TheTrialsOfChloeI = {
   ownLength: 2400,
   unit: "words",
   publishedAt: "2025-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2856106/88-the-trials-of-chloe-i",
-  externalId: "2856106",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2856106",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2856106/88-the-trials-of-chloe-i",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

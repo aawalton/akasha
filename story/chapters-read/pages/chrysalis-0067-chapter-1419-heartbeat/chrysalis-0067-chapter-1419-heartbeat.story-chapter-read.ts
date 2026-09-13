@@ -12,9 +12,13 @@ export const chrysalis0067Chapter1419Heartbeat = {
   unit: "words",
   completedAt: "2026-06-29T19:45:46.547Z",
   publishedAt: "2024-09-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1822205/chapter-1419-heartbeat",
-  externalId: "1822205",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1822205",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1822205/chapter-1419-heartbeat",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

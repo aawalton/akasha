@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg002626BurningMan = {
   ownLength: 2159,
   unit: "words",
   publishedAt: "2025-09-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2584557/26-burning-man",
-  externalId: "2584557",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2584557",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2584557/26-burning-man",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

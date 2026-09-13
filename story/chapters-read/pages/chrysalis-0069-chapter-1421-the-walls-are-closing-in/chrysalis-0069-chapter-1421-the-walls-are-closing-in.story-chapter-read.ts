@@ -12,9 +12,13 @@ export const chrysalis0069Chapter1421TheWallsAreClosingIn = {
   unit: "words",
   completedAt: "2026-06-29T19:45:50.505Z",
   publishedAt: "2024-10-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1829088/chapter-1421-the-walls-are-closing-in",
-  externalId: "1829088",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1829088",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1829088/chapter-1421-the-walls-are-closing-in",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

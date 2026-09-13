@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0124124Midnight = {
   ownLength: 1808,
   unit: "words",
   publishedAt: "2026-03-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3140403/124-midnight",
-  externalId: "3140403",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3140403",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3140403/124-midnight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0181181TheWitch = {
   ownLength: 1822,
   unit: "words",
   publishedAt: "2026-07-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3711209/181-the-witch",
-  externalId: "3711209",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3711209",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3711209/181-the-witch",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

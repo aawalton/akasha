@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg005555Bargaining = {
   ownLength: 3973,
   unit: "words",
   publishedAt: "2025-10-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2691150/55-bargaining",
-  externalId: "2691150",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2691150",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2691150/55-bargaining",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

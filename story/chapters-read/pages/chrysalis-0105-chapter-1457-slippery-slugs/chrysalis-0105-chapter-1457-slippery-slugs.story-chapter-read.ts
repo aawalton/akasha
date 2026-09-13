@@ -12,9 +12,13 @@ export const chrysalis0105Chapter1457SlipperySlugs = {
   unit: "words",
   completedAt: "2026-06-29T19:47:26.400Z",
   publishedAt: "2024-11-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1913600/chapter-1457-slippery-slugs",
-  externalId: "1913600",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1913600",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1913600/chapter-1457-slippery-slugs",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

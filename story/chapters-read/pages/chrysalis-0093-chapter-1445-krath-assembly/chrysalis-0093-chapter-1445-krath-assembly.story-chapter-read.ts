@@ -12,9 +12,13 @@ export const chrysalis0093Chapter1445KrathAssembly = {
   unit: "words",
   completedAt: "2026-06-29T19:47:01.231Z",
   publishedAt: "2024-11-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1883649/chapter-1445-krath-assembly",
-  externalId: "1883649",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1883649",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1883649/chapter-1445-krath-assembly",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

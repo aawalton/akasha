@@ -12,9 +12,13 @@ export const chrysalis0019Chapter1372TheTribuneAmongstTheColony = {
   unit: "words",
   completedAt: "2026-06-29T19:44:15.619Z",
   publishedAt: "2024-07-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1720790/chapter-1372-the-tribune-amongst-the-colony",
-  externalId: "1720790",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1720790",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1720790/chapter-1372-the-tribune-amongst-the-colony",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

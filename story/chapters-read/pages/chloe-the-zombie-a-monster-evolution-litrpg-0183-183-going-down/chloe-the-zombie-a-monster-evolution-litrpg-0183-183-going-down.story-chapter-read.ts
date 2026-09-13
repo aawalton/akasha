@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0183183GoingDown = {
   ownLength: 1872,
   unit: "words",
   publishedAt: "2026-07-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3732990/183-going-down",
-  externalId: "3732990",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3732990",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3732990/183-going-down",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

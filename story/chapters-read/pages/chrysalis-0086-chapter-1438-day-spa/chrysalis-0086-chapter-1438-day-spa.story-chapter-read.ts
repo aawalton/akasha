@@ -12,9 +12,13 @@ export const chrysalis0086Chapter1438DaySpa = {
   unit: "words",
   completedAt: "2026-06-29T19:46:38.940Z",
   publishedAt: "2024-10-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1865472/chapter-1438-day-spa",
-  externalId: "1865472",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1865472",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1865472/chapter-1438-day-spa",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

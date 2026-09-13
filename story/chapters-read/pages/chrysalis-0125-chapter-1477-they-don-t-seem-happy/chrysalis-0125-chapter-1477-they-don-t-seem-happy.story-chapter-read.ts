@@ -12,9 +12,13 @@ export const chrysalis0125Chapter1477TheyDonTSeemHappy = {
   unit: "words",
   completedAt: "2026-06-29T19:48:04.068Z",
   publishedAt: "2024-12-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1961975/chapter-1477-they-dont-seem-happy",
-  externalId: "1961975",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1961975",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1961975/chapter-1477-they-dont-seem-happy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

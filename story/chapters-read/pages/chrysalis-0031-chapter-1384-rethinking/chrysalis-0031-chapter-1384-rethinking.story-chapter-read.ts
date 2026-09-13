@@ -12,9 +12,13 @@ export const chrysalis0031Chapter1384Rethinking = {
   unit: "words",
   completedAt: "2026-06-29T19:44:38.599Z",
   publishedAt: "2024-08-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1741264/chapter-1384-rethinking",
-  externalId: "1741264",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1741264",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1741264/chapter-1384-rethinking",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

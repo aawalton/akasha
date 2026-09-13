@@ -12,9 +12,13 @@ export const chrysalis0016Chapter1369ASuccessfulTest = {
   unit: "words",
   completedAt: "2026-06-29T19:44:09.831Z",
   publishedAt: "2024-07-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1705216/chapter-1369-a-successful-test",
-  externalId: "1705216",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1705216",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1705216/chapter-1369-a-successful-test",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

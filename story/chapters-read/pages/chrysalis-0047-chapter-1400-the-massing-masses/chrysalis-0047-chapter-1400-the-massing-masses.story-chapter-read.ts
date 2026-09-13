@@ -12,9 +12,13 @@ export const chrysalis0047Chapter1400TheMassingMasses = {
   unit: "words",
   completedAt: "2026-06-29T19:45:08.347Z",
   publishedAt: "2024-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1784396/chapter-1400-the-massing-masses",
-  externalId: "1784396",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1784396",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1784396/chapter-1400-the-massing-masses",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

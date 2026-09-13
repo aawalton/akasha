@@ -10,9 +10,13 @@ export const catGirlEvolution0102100NewClass = {
   ownLength: 2653,
   unit: "words",
   publishedAt: "2026-03-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3168353/100-new-class",
-  externalId: "3168353",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3168353",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3168353/100-new-class",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

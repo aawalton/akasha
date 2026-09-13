@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg001919TheGuild = {
   ownLength: 2080,
   unit: "words",
   publishedAt: "2025-08-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2555230/19-the-guild",
-  externalId: "2555230",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2555230",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2555230/19-the-guild",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

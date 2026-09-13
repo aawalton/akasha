@@ -12,9 +12,13 @@ export const chrysalis0129Chapter1481ABreather = {
   unit: "words",
   completedAt: "2026-06-29T19:48:11.915Z",
   publishedAt: "2025-01-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1996102/chapter-1481-a-breather",
-  externalId: "1996102",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1996102",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1996102/chapter-1481-a-breather",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

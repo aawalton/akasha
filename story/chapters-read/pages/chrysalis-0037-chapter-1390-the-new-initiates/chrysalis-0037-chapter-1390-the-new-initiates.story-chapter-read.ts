@@ -12,9 +12,13 @@ export const chrysalis0037Chapter1390TheNewInitiates = {
   unit: "words",
   completedAt: "2026-06-29T19:44:49.728Z",
   publishedAt: "2024-08-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1754457/chapter-1390-the-new-initiates",
-  externalId: "1754457",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1754457",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1754457/chapter-1390-the-new-initiates",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

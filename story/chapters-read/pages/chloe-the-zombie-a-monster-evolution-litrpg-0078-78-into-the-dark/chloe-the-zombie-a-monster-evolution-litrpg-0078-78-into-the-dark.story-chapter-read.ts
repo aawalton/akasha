@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg007878IntoTheDark = {
   ownLength: 2292,
   unit: "words",
   publishedAt: "2025-11-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2806079/78-into-the-dark",
-  externalId: "2806079",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2806079",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2806079/78-into-the-dark",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

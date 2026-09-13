@@ -10,9 +10,13 @@ export const catGirlEvolution0114112Infiltration = {
   ownLength: 3459,
   unit: "words",
   publishedAt: "2026-04-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3254797/112-infiltration",
-  externalId: "3254797",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3254797",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3254797/112-infiltration",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

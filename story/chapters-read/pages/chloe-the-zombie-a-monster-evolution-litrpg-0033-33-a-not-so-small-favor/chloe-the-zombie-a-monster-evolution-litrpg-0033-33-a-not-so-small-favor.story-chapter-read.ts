@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg003333ANotSoSmallFavor = {
   ownLength: 2387,
   unit: "words",
   publishedAt: "2025-09-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2607639/33-a-not-so-small-favor",
-  externalId: "2607639",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2607639",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2607639/33-a-not-so-small-favor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

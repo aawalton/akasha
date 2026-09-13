@@ -12,9 +12,13 @@ export const chrysalis0109Chapter1461SlitheringInTheTunnels = {
   unit: "words",
   completedAt: "2026-06-29T19:47:33.950Z",
   publishedAt: "2024-11-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1926360/chapter-1461-slithering-in-the-tunnels",
-  externalId: "1926360",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1926360",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1926360/chapter-1461-slithering-in-the-tunnels",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0135Chapter1487TheBreachPt5 = {
   unit: "words",
   completedAt: "2026-06-29T19:56:42.904Z",
   publishedAt: "2025-01-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2010775/chapter-1487-the-breach-pt-5",
-  externalId: "2010775",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2010775",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2010775/chapter-1487-the-breach-pt-5",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

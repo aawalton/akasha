@@ -12,9 +12,13 @@ export const chrysalis0126Chapter1478ConstructionOnTheClock = {
   unit: "words",
   completedAt: "2026-06-29T19:48:05.986Z",
   publishedAt: "2024-12-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1963652/chapter-1478-construction-on-the-clock",
-  externalId: "1963652",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1963652",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1963652/chapter-1478-construction-on-the-clock",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0034Chapter1387BrilliantDeductions = {
   unit: "words",
   completedAt: "2026-06-29T19:44:44.081Z",
   publishedAt: "2024-08-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1747753/chapter-1387-brilliant-deductions",
-  externalId: "1747753",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1747753",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1747753/chapter-1387-brilliant-deductions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

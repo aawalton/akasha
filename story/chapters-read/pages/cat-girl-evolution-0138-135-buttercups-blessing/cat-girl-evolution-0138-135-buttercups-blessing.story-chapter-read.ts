@@ -10,9 +10,13 @@ export const catGirlEvolution0138135ButtercupsBlessing = {
   ownLength: 2597,
   unit: "words",
   publishedAt: "2026-07-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3625292/135-buttercups-blessing",
-  externalId: "3625292",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3625292",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3625292/135-buttercups-blessing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

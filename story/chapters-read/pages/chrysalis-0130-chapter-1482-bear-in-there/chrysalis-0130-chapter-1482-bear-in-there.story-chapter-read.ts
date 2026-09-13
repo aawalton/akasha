@@ -12,9 +12,13 @@ export const chrysalis0130Chapter1482BearInThere = {
   unit: "words",
   completedAt: "2026-06-29T19:56:33.642Z",
   publishedAt: "2025-01-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1997968/chapter-1482-bear-in-there",
-  externalId: "1997968",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1997968",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1997968/chapter-1482-bear-in-there",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

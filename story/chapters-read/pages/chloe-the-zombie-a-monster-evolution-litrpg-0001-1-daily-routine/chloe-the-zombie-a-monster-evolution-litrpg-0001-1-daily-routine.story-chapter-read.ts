@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg00011DailyRoutine = {
   ownLength: 3107,
   unit: "words",
   publishedAt: "2025-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2525468/1-daily-routine",
-  externalId: "2525468",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525468",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2525468/1-daily-routine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

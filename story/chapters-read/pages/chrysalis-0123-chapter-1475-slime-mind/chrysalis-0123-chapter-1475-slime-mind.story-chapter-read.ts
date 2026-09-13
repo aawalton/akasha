@@ -12,9 +12,13 @@ export const chrysalis0123Chapter1475SlimeMind = {
   unit: "words",
   completedAt: "2026-06-29T19:48:00.348Z",
   publishedAt: "2024-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1960480/chapter-1475-slime-mind",
-  externalId: "1960480",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1960480",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1960480/chapter-1475-slime-mind",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

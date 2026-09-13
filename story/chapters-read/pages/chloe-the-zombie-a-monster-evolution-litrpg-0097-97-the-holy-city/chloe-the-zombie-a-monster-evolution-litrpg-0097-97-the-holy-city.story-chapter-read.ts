@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg009797TheHolyCity = {
   ownLength: 2007,
   unit: "words",
   publishedAt: "2026-01-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2920383/97-the-holy-city",
-  externalId: "2920383",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2920383",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2920383/97-the-holy-city",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

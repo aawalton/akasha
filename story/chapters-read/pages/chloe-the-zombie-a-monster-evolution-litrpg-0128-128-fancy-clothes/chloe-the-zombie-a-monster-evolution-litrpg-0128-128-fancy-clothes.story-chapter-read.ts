@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0128128FancyClothes = {
   ownLength: 1859,
   unit: "words",
   publishedAt: "2026-03-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3173534/128-fancy-clothes",
-  externalId: "3173534",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3173534",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3173534/128-fancy-clothes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

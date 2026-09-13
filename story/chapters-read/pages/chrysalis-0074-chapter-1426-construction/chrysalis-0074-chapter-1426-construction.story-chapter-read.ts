@@ -12,9 +12,13 @@ export const chrysalis0074Chapter1426Construction = {
   unit: "words",
   completedAt: "2026-06-29T19:46:06.510Z",
   publishedAt: "2024-10-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1839769/chapter-1426-construction",
-  externalId: "1839769",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1839769",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1839769/chapter-1426-construction",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

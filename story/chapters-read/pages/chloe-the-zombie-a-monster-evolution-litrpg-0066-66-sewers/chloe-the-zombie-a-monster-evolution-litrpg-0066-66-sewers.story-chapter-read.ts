@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg006666Sewers = {
   ownLength: 2037,
   unit: "words",
   publishedAt: "2025-11-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2745882/66-sewers",
-  externalId: "2745882",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2745882",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2745882/66-sewers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

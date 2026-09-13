@@ -12,9 +12,13 @@ export const chrysalis0052Chapter1405TheFifthRevealsItself = {
   unit: "words",
   completedAt: "2026-06-29T19:45:17.771Z",
   publishedAt: "2024-09-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1796354/chapter-1405-the-fifth-reveals-itself",
-  externalId: "1796354",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1796354",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1796354/chapter-1405-the-fifth-reveals-itself",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

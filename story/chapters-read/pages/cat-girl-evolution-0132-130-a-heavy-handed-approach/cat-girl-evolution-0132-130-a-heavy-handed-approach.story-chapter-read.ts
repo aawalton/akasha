@@ -10,9 +10,13 @@ export const catGirlEvolution0132130AHeavyHandedApproach = {
   ownLength: 2746,
   unit: "words",
   publishedAt: "2026-05-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3430534/130-a-heavy-handed-approach",
-  externalId: "3430534",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3430534",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3430534/130-a-heavy-handed-approach",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

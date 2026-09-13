@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg007474FlyingHigh = {
   ownLength: 2027,
   unit: "words",
   publishedAt: "2025-11-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2786042/74-flying-high",
-  externalId: "2786042",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2786042",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2786042/74-flying-high",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

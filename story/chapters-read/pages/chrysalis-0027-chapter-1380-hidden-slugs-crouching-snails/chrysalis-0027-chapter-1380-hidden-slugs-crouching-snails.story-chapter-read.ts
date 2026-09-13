@@ -12,9 +12,13 @@ export const chrysalis0027Chapter1380HiddenSlugsCrouchingSnails = {
   unit: "words",
   completedAt: "2026-06-29T19:44:30.927Z",
   publishedAt: "2024-07-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1737514/chapter-1380-hidden-slugs-crouching-snails",
-  externalId: "1737514",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1737514",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1737514/chapter-1380-hidden-slugs-crouching-snails",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

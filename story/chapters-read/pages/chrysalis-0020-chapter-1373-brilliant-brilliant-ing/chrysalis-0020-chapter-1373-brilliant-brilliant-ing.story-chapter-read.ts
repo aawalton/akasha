@@ -12,9 +12,13 @@ export const chrysalis0020Chapter1373BrilliantBrilliantIng = {
   unit: "words",
   completedAt: "2026-06-29T19:44:17.539Z",
   publishedAt: "2024-07-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1721994/chapter-1373-brilliant-brilliant-ing",
-  externalId: "1721994",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1721994",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1721994/chapter-1373-brilliant-brilliant-ing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

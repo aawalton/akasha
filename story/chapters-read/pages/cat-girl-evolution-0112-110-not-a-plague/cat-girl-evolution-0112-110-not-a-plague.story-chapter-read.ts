@@ -10,9 +10,13 @@ export const catGirlEvolution0112110NotAPlague = {
   ownLength: 2492,
   unit: "words",
   publishedAt: "2026-04-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3237685/110-not-a-plague",
-  externalId: "3237685",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3237685",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3237685/110-not-a-plague",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

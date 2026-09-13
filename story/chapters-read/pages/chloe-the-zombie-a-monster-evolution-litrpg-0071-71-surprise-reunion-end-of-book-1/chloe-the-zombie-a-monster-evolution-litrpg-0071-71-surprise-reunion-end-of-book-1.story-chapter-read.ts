@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg007171SurpriseReunionEndOfBook
   ownLength: 2011,
   unit: "words",
   publishedAt: "2025-11-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2768855/71-surprise-reunion-end-of-book-1",
-  externalId: "2768855",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2768855",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2768855/71-surprise-reunion-end-of-book-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

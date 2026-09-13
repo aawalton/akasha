@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0185185PieceByPiece = {
   ownLength: 2238,
   unit: "words",
   publishedAt: "2026-08-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3763859/185-piece-by-piece",
-  externalId: "3763859",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3763859",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3763859/185-piece-by-piece",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0178178Sellouts = {
   ownLength: 2190,
   unit: "words",
   publishedAt: "2026-07-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3680721/178-sellouts",
-  externalId: "3680721",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3680721",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3680721/178-sellouts",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

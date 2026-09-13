@@ -12,9 +12,13 @@ export const chrysalis0106Chapter1458KrathAttack = {
   unit: "words",
   completedAt: "2026-06-29T19:47:28.318Z",
   publishedAt: "2024-11-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1915461/chapter-1458-krath-attack",
-  externalId: "1915461",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1915461",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1915461/chapter-1458-krath-attack",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

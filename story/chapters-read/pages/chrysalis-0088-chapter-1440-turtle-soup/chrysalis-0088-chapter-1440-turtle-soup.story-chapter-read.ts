@@ -12,9 +12,13 @@ export const chrysalis0088Chapter1440TurtleSoup = {
   unit: "words",
   completedAt: "2026-06-29T19:46:44.868Z",
   publishedAt: "2024-10-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1871701/chapter-1440-turtle-soup",
-  externalId: "1871701",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1871701",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1871701/chapter-1440-turtle-soup",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

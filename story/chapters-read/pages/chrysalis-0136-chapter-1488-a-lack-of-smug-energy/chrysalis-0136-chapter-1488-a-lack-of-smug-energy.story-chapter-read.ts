@@ -12,9 +12,13 @@ export const chrysalis0136Chapter1488ALackOfSmugEnergy = {
   unit: "words",
   completedAt: "2026-06-29T19:56:44.837Z",
   publishedAt: "2025-01-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2021392/chapter-1488-a-lack-of-smug-energy",
-  externalId: "2021392",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2021392",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2021392/chapter-1488-a-lack-of-smug-energy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

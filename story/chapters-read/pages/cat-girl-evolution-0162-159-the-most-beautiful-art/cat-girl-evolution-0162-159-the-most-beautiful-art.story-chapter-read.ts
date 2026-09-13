@@ -8,11 +8,15 @@ export const catGirlEvolution0162159TheMostBeautifulArt = {
   position: 162,
   publishedAt: "2026-09-07",
   unit: "words",
-  externalId: "3923643",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3923643",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/yona-cat-girl-evolution/chapter/3923643/159-the-most-beautiful-art",
+    },
+  ],
   title: "159 - The Most Beautiful Art",
   ownLength: 2683,
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/yona-cat-girl-evolution/chapter/3923643/159-the-most-beautiful-art",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0106106SanctumOfDawn = {
   ownLength: 1906,
   unit: "words",
   publishedAt: "2026-01-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2987915/106-sanctum-of-dawn",
-  externalId: "2987915",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2987915",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2987915/106-sanctum-of-dawn",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

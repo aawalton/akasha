@@ -10,9 +10,13 @@ export const catGirlEvolution009998PartyTime = {
   ownLength: 2596,
   unit: "words",
   publishedAt: "2026-03-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3132039/98-party-time",
-  externalId: "3132039",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3132039",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3132039/98-party-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

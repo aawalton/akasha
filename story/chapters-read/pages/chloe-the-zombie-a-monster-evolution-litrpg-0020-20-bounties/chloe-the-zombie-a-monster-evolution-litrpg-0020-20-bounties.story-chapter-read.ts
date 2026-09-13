@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg002020Bounties = {
   ownLength: 2650,
   unit: "words",
   publishedAt: "2025-08-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2557928/20-bounties",
-  externalId: "2557928",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2557928",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2557928/20-bounties",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

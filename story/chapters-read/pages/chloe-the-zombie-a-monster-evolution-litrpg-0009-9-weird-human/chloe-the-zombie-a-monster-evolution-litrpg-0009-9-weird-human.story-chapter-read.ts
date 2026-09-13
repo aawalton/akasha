@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg00099WeirdHuman = {
   ownLength: 2608,
   unit: "words",
   publishedAt: "2025-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2525616/9-weird-human",
-  externalId: "2525616",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525616",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2525616/9-weird-human",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

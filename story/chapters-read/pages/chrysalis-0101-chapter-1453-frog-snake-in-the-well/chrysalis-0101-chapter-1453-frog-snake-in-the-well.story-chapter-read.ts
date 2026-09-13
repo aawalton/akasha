@@ -12,9 +12,13 @@ export const chrysalis0101Chapter1453FrogSnakeInTheWell = {
   unit: "words",
   completedAt: "2026-06-29T19:47:18.658Z",
   publishedAt: "2024-11-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1902261/chapter-1453-frog-snake-in-the-well",
-  externalId: "1902261",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1902261",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1902261/chapter-1453-frog-snake-in-the-well",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0042Chapter1395TickleTimeIsOver = {
   unit: "words",
   completedAt: "2026-06-29T19:44:58.906Z",
   publishedAt: "2024-08-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1776043/chapter-1395-tickle-time-is-over",
-  externalId: "1776043",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1776043",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1776043/chapter-1395-tickle-time-is-over",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

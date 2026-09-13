@@ -12,9 +12,13 @@ export const chrysalis0114Chapter1466PressureIsRising = {
   unit: "words",
   completedAt: "2026-06-29T19:47:43.520Z",
   publishedAt: "2024-12-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1938549/chapter-1466-pressure-is-rising",
-  externalId: "1938549",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1938549",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1938549/chapter-1466-pressure-is-rising",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

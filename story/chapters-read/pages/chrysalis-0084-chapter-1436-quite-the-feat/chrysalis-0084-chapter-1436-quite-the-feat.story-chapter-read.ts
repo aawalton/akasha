@@ -12,9 +12,13 @@ export const chrysalis0084Chapter1436QuiteTheFeat = {
   unit: "words",
   completedAt: "2026-06-29T19:46:32.730Z",
   publishedAt: "2024-10-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1862421/chapter-1436-quite-the-feat",
-  externalId: "1862421",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1862421",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1862421/chapter-1436-quite-the-feat",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0119119LifeOfChloeIii = {
   ownLength: 1930,
   unit: "words",
   publishedAt: "2026-02-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3098445/119-life-of-chloe-iii",
-  externalId: "3098445",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3098445",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3098445/119-life-of-chloe-iii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

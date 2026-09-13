@@ -12,9 +12,13 @@ export const chrysalis0102Chapter1454ASlipperyFoe = {
   unit: "words",
   completedAt: "2026-06-29T19:47:20.618Z",
   publishedAt: "2024-11-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1904131/chapter-1454-a-slippery-foe",
-  externalId: "1904131",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1904131",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1904131/chapter-1454-a-slippery-foe",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

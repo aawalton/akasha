@@ -12,9 +12,13 @@ export const chrysalis0099Chapter1451SnakeAssault = {
   unit: "words",
   completedAt: "2026-06-29T19:47:14.849Z",
   publishedAt: "2024-11-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1898508/chapter-1451-snake-assault",
-  externalId: "1898508",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1898508",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1898508/chapter-1451-snake-assault",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0182182ToTheElevator = {
   ownLength: 1872,
   unit: "words",
   publishedAt: "2026-07-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3720153/182-to-the-elevator",
-  externalId: "3720153",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3720153",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3720153/182-to-the-elevator",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

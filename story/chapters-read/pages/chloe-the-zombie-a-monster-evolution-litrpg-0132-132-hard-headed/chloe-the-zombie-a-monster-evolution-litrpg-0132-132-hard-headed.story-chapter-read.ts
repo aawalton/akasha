@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0132132HardHeaded = {
   ownLength: 1850,
   unit: "words",
   publishedAt: "2026-03-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3210786/132-hard-headed",
-  externalId: "3210786",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3210786",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3210786/132-hard-headed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

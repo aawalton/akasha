@@ -12,9 +12,13 @@ export const chrysalis0044Chapter1397GettingIntoGear = {
   unit: "words",
   completedAt: "2026-06-29T19:45:02.606Z",
   publishedAt: "2024-08-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1777390/chapter-1397-getting-into-gear",
-  externalId: "1777390",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1777390",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1777390/chapter-1397-getting-into-gear",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

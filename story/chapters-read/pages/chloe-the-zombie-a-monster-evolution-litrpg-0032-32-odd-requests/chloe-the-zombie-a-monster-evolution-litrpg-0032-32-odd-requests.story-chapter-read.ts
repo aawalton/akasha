@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg003232OddRequests = {
   ownLength: 2628,
   unit: "words",
   publishedAt: "2025-09-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2604945/32-odd-requests",
-  externalId: "2604945",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2604945",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2604945/32-odd-requests",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

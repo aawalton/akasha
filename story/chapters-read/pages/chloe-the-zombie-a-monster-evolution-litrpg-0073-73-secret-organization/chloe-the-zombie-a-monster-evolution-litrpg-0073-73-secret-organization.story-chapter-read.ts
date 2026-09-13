@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg007373SecretOrganization = {
   ownLength: 1733,
   unit: "words",
   publishedAt: "2025-11-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2780540/73-secret-organization",
-  externalId: "2780540",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2780540",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2780540/73-secret-organization",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

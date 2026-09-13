@@ -12,9 +12,13 @@ export const chrysalis0060Chapter1412TheEggsThatWereLeftBehind = {
   unit: "words",
   completedAt: "2026-06-29T19:45:33.127Z",
   publishedAt: "2024-09-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1808163/chapter-1412-the-eggs-that-were-left-behind",
-  externalId: "1808163",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1808163",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1808163/chapter-1412-the-eggs-that-were-left-behind",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

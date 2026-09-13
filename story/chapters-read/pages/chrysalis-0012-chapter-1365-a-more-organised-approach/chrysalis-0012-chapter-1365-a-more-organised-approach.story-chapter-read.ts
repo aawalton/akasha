@@ -12,9 +12,13 @@ export const chrysalis0012Chapter1365AMoreOrganisedApproach = {
   unit: "words",
   completedAt: "2026-06-29T19:44:02.206Z",
   publishedAt: "2024-07-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1701522/chapter-1365-a-more-organised-approach",
-  externalId: "1701522",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1701522",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1701522/chapter-1365-a-more-organised-approach",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

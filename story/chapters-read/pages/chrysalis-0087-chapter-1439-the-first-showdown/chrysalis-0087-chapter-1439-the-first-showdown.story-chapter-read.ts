@@ -12,9 +12,13 @@ export const chrysalis0087Chapter1439TheFirstShowdown = {
   unit: "words",
   completedAt: "2026-06-29T19:46:42.951Z",
   publishedAt: "2024-10-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1867068/chapter-1439-the-first-showdown",
-  externalId: "1867068",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1867068",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1867068/chapter-1439-the-first-showdown",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

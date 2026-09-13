@@ -12,9 +12,13 @@ export const chrysalis0063Chapter1415WarInTheShadows = {
   unit: "words",
   completedAt: "2026-06-29T19:45:38.890Z",
   publishedAt: "2024-09-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1815656/chapter-1415-war-in-the-shadows",
-  externalId: "1815656",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1815656",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1815656/chapter-1415-war-in-the-shadows",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

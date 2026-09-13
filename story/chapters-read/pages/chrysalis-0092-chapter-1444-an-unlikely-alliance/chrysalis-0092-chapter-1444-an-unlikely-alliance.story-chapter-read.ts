@@ -12,9 +12,13 @@ export const chrysalis0092Chapter1444AnUnlikelyAlliance = {
   unit: "words",
   completedAt: "2026-06-29T19:46:57.020Z",
   publishedAt: "2024-11-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1878143/chapter-1444-an-unlikely-alliance",
-  externalId: "1878143",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1878143",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1878143/chapter-1444-an-unlikely-alliance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0173173MissingMan = {
   ownLength: 2125,
   unit: "words",
   publishedAt: "2026-07-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3627186/173-missing-man",
-  externalId: "3627186",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3627186",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3627186/173-missing-man",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

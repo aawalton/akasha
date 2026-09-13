@@ -12,9 +12,13 @@ export const chrysalis0006Chapter1359CatchingUp = {
   unit: "words",
   completedAt: "2026-06-29T19:43:50.854Z",
   publishedAt: "2024-06-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1686129/chapter-1359-catching-up",
-  externalId: "1686129",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1686129",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1686129/chapter-1359-catching-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

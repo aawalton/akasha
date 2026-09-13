@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg002121WellArmed = {
   ownLength: 1747,
   unit: "words",
   publishedAt: "2025-09-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2565610/21-well-armed",
-  externalId: "2565610",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2565610",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2565610/21-well-armed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

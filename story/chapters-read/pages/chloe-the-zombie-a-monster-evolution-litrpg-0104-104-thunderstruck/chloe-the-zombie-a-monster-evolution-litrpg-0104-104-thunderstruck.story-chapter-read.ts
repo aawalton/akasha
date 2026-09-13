@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0104104Thunderstruck = {
   ownLength: 1899,
   unit: "words",
   publishedAt: "2026-01-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2971338/104-thunderstruck",
-  externalId: "2971338",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2971338",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2971338/104-thunderstruck",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

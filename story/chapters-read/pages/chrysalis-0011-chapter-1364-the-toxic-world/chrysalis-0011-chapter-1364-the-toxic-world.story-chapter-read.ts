@@ -12,9 +12,13 @@ export const chrysalis0011Chapter1364TheToxicWorld = {
   unit: "words",
   completedAt: "2026-06-29T19:44:00.292Z",
   publishedAt: "2024-06-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1695776/chapter-1364-the-toxic-world",
-  externalId: "1695776",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1695776",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1695776/chapter-1364-the-toxic-world",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

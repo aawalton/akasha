@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0160160BlackHeart = {
   ownLength: 2048,
   unit: "words",
   publishedAt: "2026-06-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3487811/160-black-heart",
-  externalId: "3487811",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3487811",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3487811/160-black-heart",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

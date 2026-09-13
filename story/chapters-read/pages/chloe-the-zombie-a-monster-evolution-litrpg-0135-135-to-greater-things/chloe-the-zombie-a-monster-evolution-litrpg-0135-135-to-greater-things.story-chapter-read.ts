@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0135135ToGreaterThings = {
   ownLength: 1924,
   unit: "words",
   publishedAt: "2026-04-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3239140/135-to-greater-things",
-  externalId: "3239140",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3239140",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3239140/135-to-greater-things",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

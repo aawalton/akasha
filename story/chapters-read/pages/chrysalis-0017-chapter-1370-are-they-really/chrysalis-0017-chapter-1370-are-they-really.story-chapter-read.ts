@@ -12,9 +12,13 @@ export const chrysalis0017Chapter1370AreTheyReally = {
   unit: "words",
   completedAt: "2026-06-29T19:44:11.771Z",
   publishedAt: "2024-07-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1717870/chapter-1370-are-they-really",
-  externalId: "1717870",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1717870",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1717870/chapter-1370-are-they-really",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

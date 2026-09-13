@@ -10,9 +10,13 @@ export const catGirlEvolution0124122TheFirstEventBegins = {
   ownLength: 2386,
   unit: "words",
   publishedAt: "2026-05-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3352146/122-the-first-event-begins",
-  externalId: "3352146",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3352146",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3352146/122-the-first-event-begins",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0116116FragmentsOfDarkness = {
   ownLength: 1983,
   unit: "words",
   publishedAt: "2026-02-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3074505/116-fragments-of-darkness",
-  externalId: "3074505",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3074505",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3074505/116-fragments-of-darkness",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

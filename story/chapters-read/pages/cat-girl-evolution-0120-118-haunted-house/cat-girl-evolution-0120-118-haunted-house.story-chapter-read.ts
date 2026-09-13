@@ -10,9 +10,13 @@ export const catGirlEvolution0120118HauntedHouse = {
   ownLength: 2250,
   unit: "words",
   publishedAt: "2026-04-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3312072/118-haunted-house",
-  externalId: "3312072",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3312072",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3312072/118-haunted-house",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

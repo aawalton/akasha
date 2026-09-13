@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg009393TheBestReward = {
   ownLength: 1803,
   unit: "words",
   publishedAt: "2025-12-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2890010/93-the-best-reward",
-  externalId: "2890010",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2890010",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2890010/93-the-best-reward",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

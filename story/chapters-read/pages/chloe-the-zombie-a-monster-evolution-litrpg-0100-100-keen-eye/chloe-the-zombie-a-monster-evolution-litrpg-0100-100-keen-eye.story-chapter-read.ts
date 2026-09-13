@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0100100KeenEye = {
   ownLength: 1849,
   unit: "words",
   publishedAt: "2026-01-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2942258/100-keen-eye",
-  externalId: "2942258",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2942258",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2942258/100-keen-eye",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

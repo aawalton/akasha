@@ -10,9 +10,13 @@ export const catGirlEvolution0146143IVantToSuckYourBlood = {
   ownLength: 3135,
   unit: "words",
   publishedAt: "2026-07-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3731286/143-i-vant-to-suck-your-blood",
-  externalId: "3731286",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3731286",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3731286/143-i-vant-to-suck-your-blood",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

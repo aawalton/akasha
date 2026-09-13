@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0162162WalkingAndWalking = {
   ownLength: 1909,
   unit: "words",
   publishedAt: "2026-06-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3509725/162-walking-and-walking",
-  externalId: "3509725",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3509725",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3509725/162-walking-and-walking",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

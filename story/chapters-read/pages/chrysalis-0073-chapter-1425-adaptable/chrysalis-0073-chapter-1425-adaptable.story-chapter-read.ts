@@ -12,9 +12,13 @@ export const chrysalis0073Chapter1425Adaptable = {
   unit: "words",
   completedAt: "2026-06-29T19:46:02.120Z",
   publishedAt: "2024-10-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1838293/chapter-1425-adaptable",
-  externalId: "1838293",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1838293",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1838293/chapter-1425-adaptable",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const catGirlEvolution0137134HelpMeEatHim = {
   ownLength: 2295,
   unit: "words",
   publishedAt: "2026-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3615678/134-help-me-eat-him",
-  externalId: "3615678",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3615678",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3615678/134-help-me-eat-him",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0113Chapter1465ItBegins = {
   unit: "words",
   completedAt: "2026-06-29T19:47:41.611Z",
   publishedAt: "2024-12-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1938547/chapter-1465-it-begins",
-  externalId: "1938547",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1938547",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1938547/chapter-1465-it-begins",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

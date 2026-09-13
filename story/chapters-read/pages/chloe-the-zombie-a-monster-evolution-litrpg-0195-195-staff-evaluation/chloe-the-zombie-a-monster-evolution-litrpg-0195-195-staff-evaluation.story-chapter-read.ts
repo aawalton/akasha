@@ -8,11 +8,15 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0195195StaffEvaluation = {
   position: 195,
   publishedAt: "2026-09-07",
   unit: "words",
-  externalId: "3925374",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3925374",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3925374/195-staff-evaluation",
+    },
+  ],
   title: "195: Staff Evaluation",
   ownLength: 2179,
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3925374/195-staff-evaluation",
   prose: "txt",
 } as const satisfies StoryChapterRead

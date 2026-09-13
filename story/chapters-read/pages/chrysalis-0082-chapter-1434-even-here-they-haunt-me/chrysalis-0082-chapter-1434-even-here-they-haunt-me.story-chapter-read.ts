@@ -12,9 +12,13 @@ export const chrysalis0082Chapter1434EvenHereTheyHauntMe = {
   unit: "words",
   completedAt: "2026-06-29T19:46:26.074Z",
   publishedAt: "2024-10-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1855661/chapter-1434-even-here-they-haunt-me",
-  externalId: "1855661",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1855661",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1855661/chapter-1434-even-here-they-haunt-me",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

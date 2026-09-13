@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0176176SearchingForClues = {
   ownLength: 2006,
   unit: "words",
   publishedAt: "2026-07-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3658032/176-searching-for-clues",
-  externalId: "3658032",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3658032",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3658032/176-searching-for-clues",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

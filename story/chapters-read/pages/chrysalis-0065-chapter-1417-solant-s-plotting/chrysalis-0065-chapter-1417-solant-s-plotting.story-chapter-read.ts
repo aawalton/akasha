@@ -12,9 +12,13 @@ export const chrysalis0065Chapter1417SolantSPlotting = {
   unit: "words",
   completedAt: "2026-06-29T19:45:42.741Z",
   publishedAt: "2024-09-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1818861/chapter-1417-solants-plotting",
-  externalId: "1818861",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1818861",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1818861/chapter-1417-solants-plotting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const catGirlEvolution0111109TheSecondFloor = {
   ownLength: 2700,
   unit: "words",
   publishedAt: "2026-04-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3225458/109-the-second-floor",
-  externalId: "3225458",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3225458",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3225458/109-the-second-floor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0112Chapter1464PressureBuildsInTheTunnels = {
   unit: "words",
   completedAt: "2026-06-29T19:47:39.708Z",
   publishedAt: "2024-11-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1929549/chapter-1464-pressure-builds-in-the-tunnels",
-  externalId: "1929549",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1929549",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1929549/chapter-1464-pressure-builds-in-the-tunnels",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

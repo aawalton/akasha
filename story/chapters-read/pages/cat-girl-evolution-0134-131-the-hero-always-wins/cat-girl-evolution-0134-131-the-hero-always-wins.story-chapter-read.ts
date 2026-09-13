@@ -10,9 +10,13 @@ export const catGirlEvolution0134131TheHeroAlwaysWins = {
   ownLength: 2284,
   unit: "words",
   publishedAt: "2026-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3582982/131-the-hero-always-wins",
-  externalId: "3582982",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3582982",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3582982/131-the-hero-always-wins",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0119Chapter1471Pursuit = {
   unit: "words",
   completedAt: "2026-06-29T19:47:52.856Z",
   publishedAt: "2024-12-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1948986/chapter-1471-pursuit",
-  externalId: "1948986",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1948986",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1948986/chapter-1471-pursuit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

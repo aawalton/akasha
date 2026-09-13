@@ -10,9 +10,13 @@ export const catGirlEvolution0151148TheButler = {
   ownLength: 2823,
   unit: "words",
   publishedAt: "2026-08-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3803046/148-the-butler",
-  externalId: "3803046",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3803046",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3803046/148-the-butler",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

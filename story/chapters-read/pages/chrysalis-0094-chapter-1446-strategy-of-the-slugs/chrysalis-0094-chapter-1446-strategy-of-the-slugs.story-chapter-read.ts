@@ -12,9 +12,13 @@ export const chrysalis0094Chapter1446StrategyOfTheSlugs = {
   unit: "words",
   completedAt: "2026-06-29T19:47:03.034Z",
   publishedAt: "2024-11-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1885641/chapter-1446-strategy-of-the-slugs",
-  externalId: "1885641",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1885641",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1885641/chapter-1446-strategy-of-the-slugs",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

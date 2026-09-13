@@ -12,9 +12,13 @@ export const chrysalis0066Chapter1418Flow = {
   unit: "words",
   completedAt: "2026-06-29T19:45:44.645Z",
   publishedAt: "2024-09-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1820697/chapter-1418-flow",
-  externalId: "1820697",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1820697",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1820697/chapter-1418-flow",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

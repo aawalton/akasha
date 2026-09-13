@@ -12,9 +12,13 @@ export const chrysalis0076Chapter1427TheFinestCreation = {
   unit: "words",
   completedAt: "2026-06-29T19:46:12.556Z",
   publishedAt: "2024-10-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1842868/chapter-1427-the-finest-creation",
-  externalId: "1842868",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1842868",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1842868/chapter-1427-the-finest-creation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

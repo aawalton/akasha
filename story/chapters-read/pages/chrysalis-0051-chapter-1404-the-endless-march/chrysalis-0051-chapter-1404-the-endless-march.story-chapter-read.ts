@@ -12,9 +12,13 @@ export const chrysalis0051Chapter1404TheEndlessMarch = {
   unit: "words",
   completedAt: "2026-06-29T19:45:15.906Z",
   publishedAt: "2024-09-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1790235/chapter-1404-the-endless-march",
-  externalId: "1790235",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1790235",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1790235/chapter-1404-the-endless-march",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

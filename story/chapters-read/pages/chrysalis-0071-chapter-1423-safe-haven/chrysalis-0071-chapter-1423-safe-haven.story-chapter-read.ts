@@ -12,9 +12,13 @@ export const chrysalis0071Chapter1423SafeHaven = {
   unit: "words",
   completedAt: "2026-06-29T19:45:56.204Z",
   publishedAt: "2024-10-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1832301/chapter-1423-safe-haven",
-  externalId: "1832301",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1832301",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1832301/chapter-1423-safe-haven",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

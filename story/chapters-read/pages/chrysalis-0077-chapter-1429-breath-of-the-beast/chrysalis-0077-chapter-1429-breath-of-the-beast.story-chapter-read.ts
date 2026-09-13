@@ -12,9 +12,13 @@ export const chrysalis0077Chapter1429BreathOfTheBeast = {
   unit: "words",
   completedAt: "2026-06-29T19:46:14.468Z",
   publishedAt: "2024-10-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1844305/chapter-1429-breath-of-the-beast",
-  externalId: "1844305",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1844305",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1844305/chapter-1429-breath-of-the-beast",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0186186ChloeReassembled = {
   ownLength: 1846,
   unit: "words",
   publishedAt: "2026-08-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3782596/186-chloe-reassembled",
-  externalId: "3782596",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3782596",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3782596/186-chloe-reassembled",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

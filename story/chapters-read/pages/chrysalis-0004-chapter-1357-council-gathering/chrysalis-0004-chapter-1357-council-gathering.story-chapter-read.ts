@@ -12,9 +12,13 @@ export const chrysalis0004Chapter1357CouncilGathering = {
   unit: "words",
   completedAt: "2026-06-29T19:43:46.876Z",
   publishedAt: "2024-06-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1683190/chapter-1357-council-gathering",
-  externalId: "1683190",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1683190",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1683190/chapter-1357-council-gathering",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0009Chapter1362OnTheEdgeOfTheFifth = {
   unit: "words",
   completedAt: "2026-06-29T19:43:56.458Z",
   publishedAt: "2024-06-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1693178/chapter-1362-on-the-edge-of-the-fifth",
-  externalId: "1693178",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1693178",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1693178/chapter-1362-on-the-edge-of-the-fifth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

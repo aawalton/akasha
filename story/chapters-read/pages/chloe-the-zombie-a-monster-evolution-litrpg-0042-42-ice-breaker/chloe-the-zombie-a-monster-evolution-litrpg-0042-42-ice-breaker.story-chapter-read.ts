@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg004242IceBreaker = {
   ownLength: 2478,
   unit: "words",
   publishedAt: "2025-09-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2640681/42-ice-breaker",
-  externalId: "2640681",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2640681",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2640681/42-ice-breaker",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

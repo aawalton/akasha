@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0184184ExperimentalUnit = {
   ownLength: 1971,
   unit: "words",
   publishedAt: "2026-07-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3751188/184-experimental-unit",
-  externalId: "3751188",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3751188",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3751188/184-experimental-unit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

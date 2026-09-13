@@ -10,9 +10,13 @@ export const catGirlEvolution0152149TheFrogDilemma = {
   ownLength: 2353,
   unit: "words",
   publishedAt: "2026-08-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3811871/149-the-frog-dilemma",
-  externalId: "3811871",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3811871",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3811871/149-the-frog-dilemma",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

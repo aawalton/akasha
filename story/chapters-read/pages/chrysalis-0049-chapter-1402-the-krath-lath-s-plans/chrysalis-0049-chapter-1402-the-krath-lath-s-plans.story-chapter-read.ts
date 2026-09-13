@@ -12,9 +12,13 @@ export const chrysalis0049Chapter1402TheKrathLathSPlans = {
   unit: "words",
   completedAt: "2026-06-29T19:45:12.058Z",
   publishedAt: "2024-09-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1786026/chapter-1402-the-krathlaths-plans",
-  externalId: "1786026",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1786026",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1786026/chapter-1402-the-krathlaths-plans",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

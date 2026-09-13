@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg006565ZappyWolf = {
   ownLength: 1962,
   unit: "words",
   publishedAt: "2025-11-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2740471/65-zappy-wolf",
-  externalId: "2740471",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2740471",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2740471/65-zappy-wolf",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0030Chapter1383UniqueProblemsUniqueSolutions = {
   unit: "words",
   completedAt: "2026-06-29T19:44:36.686Z",
   publishedAt: "2024-08-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1740089/chapter-1383-unique-problems-unique-solutions",
-  externalId: "1740089",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1740089",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1740089/chapter-1383-unique-problems-unique-solutions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

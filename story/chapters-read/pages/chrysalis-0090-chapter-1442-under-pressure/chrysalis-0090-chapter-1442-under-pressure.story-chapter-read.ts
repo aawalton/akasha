@@ -12,9 +12,13 @@ export const chrysalis0090Chapter1442UnderPressure = {
   unit: "words",
   completedAt: "2026-06-29T19:46:51.131Z",
   publishedAt: "2024-10-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1874805/chapter-1442-under-pressure",
-  externalId: "1874805",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1874805",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1874805/chapter-1442-under-pressure",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

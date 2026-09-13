@@ -10,9 +10,13 @@ export const catGirlEvolution0142139SkarnTacos = {
   ownLength: 2121,
   unit: "words",
   publishedAt: "2026-07-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3687760/139-skarn-tacos",
-  externalId: "3687760",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3687760",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3687760/139-skarn-tacos",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

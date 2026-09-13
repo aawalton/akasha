@@ -12,9 +12,13 @@ export const chrysalis0029Chapter1382AThoughtForLeeroy = {
   unit: "words",
   completedAt: "2026-06-29T19:44:34.779Z",
   publishedAt: "2024-07-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1738740/chapter-1382-a-thought-for-leeroy",
-  externalId: "1738740",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1738740",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1738740/chapter-1382-a-thought-for-leeroy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

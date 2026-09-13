@@ -10,9 +10,13 @@ export const catGirlEvolution0105103TheGoddessOfFemaleDogsB2End = {
   ownLength: 2520,
   unit: "words",
   publishedAt: "2026-03-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3186721/103-the-goddess-of-female-dogs-b2-end",
-  externalId: "3186721",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3186721",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3186721/103-the-goddess-of-female-dogs-b2-end",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

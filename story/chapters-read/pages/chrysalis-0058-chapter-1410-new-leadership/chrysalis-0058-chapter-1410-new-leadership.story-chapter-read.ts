@@ -12,9 +12,13 @@ export const chrysalis0058Chapter1410NewLeadership = {
   unit: "words",
   completedAt: "2026-06-29T19:45:29.272Z",
   publishedAt: "2024-09-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1806969/chapter-1410-new-leadership",
-  externalId: "1806969",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1806969",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1806969/chapter-1410-new-leadership",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg007272HelloAndGoodbyeStartOfBo
   ownLength: 2075,
   unit: "words",
   publishedAt: "2025-11-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2774786/72-hello-and-goodbye-start-of-book-2",
-  externalId: "2774786",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2774786",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2774786/72-hello-and-goodbye-start-of-book-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

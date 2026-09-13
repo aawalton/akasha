@@ -12,9 +12,13 @@ export const chrysalis0072Chapter1424GatherTheTribes = {
   unit: "words",
   completedAt: "2026-06-29T19:46:00.336Z",
   publishedAt: "2024-10-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1833668/chapter-1424-gather-the-tribes",
-  externalId: "1833668",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1833668",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1833668/chapter-1424-gather-the-tribes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

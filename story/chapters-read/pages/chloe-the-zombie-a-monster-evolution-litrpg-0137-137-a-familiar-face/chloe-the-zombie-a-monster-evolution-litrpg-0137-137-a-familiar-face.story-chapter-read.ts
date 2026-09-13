@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0137137AFamiliarFace = {
   ownLength: 1817,
   unit: "words",
   publishedAt: "2026-04-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3256304/137-a-familiar-face",
-  externalId: "3256304",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3256304",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3256304/137-a-familiar-face",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

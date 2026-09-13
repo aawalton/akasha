@@ -12,9 +12,13 @@ export const chrysalis0026Chapter1379SlugStrife = {
   unit: "words",
   completedAt: "2026-06-29T19:44:29.010Z",
   publishedAt: "2024-07-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1732355/chapter-1379-slug-strife",
-  externalId: "1732355",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1732355",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1732355/chapter-1379-slug-strife",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

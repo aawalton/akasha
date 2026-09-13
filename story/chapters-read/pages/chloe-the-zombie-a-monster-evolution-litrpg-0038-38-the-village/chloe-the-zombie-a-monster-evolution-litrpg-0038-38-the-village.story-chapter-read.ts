@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg003838TheVillage = {
   ownLength: 2038,
   unit: "words",
   publishedAt: "2025-09-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2625456/38-the-village",
-  externalId: "2625456",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2625456",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2625456/38-the-village",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

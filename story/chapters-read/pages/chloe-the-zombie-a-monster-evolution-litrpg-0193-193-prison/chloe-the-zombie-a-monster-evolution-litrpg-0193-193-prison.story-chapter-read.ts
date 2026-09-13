@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0193193Prison = {
   ownLength: 2056,
   unit: "words",
   publishedAt: "2026-08-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3890625/193-prison",
-  externalId: "3890625",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3890625",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3890625/193-prison",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

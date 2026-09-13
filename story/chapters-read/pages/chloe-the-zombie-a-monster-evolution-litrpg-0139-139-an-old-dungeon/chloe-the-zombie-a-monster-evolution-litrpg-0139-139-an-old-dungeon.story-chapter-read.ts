@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0139139AnOldDungeon = {
   ownLength: 2209,
   unit: "words",
   publishedAt: "2026-04-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3277145/139-an-old-dungeon",
-  externalId: "3277145",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3277145",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3277145/139-an-old-dungeon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

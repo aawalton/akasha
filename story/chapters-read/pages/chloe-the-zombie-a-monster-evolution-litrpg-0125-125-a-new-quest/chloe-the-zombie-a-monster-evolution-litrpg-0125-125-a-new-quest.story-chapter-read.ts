@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0125125ANewQuest = {
   ownLength: 1931,
   unit: "words",
   publishedAt: "2026-03-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3147748/125-a-new-quest",
-  externalId: "3147748",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3147748",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3147748/125-a-new-quest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

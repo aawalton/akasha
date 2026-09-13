@@ -12,9 +12,13 @@ export const chrysalis0103Chapter1455ReportingBack = {
   unit: "words",
   completedAt: "2026-06-29T19:47:22.545Z",
   publishedAt: "2024-11-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1910064/chapter-1455-reporting-back",
-  externalId: "1910064",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1910064",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1910064/chapter-1455-reporting-back",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

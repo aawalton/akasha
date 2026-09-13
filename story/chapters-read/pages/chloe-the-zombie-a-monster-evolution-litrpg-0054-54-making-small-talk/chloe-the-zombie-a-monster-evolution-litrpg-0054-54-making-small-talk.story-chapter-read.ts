@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg005454MakingSmallTalk = {
   ownLength: 2205,
   unit: "words",
   publishedAt: "2025-10-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2688669/54-making-small-talk",
-  externalId: "2688669",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2688669",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2688669/54-making-small-talk",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

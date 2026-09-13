@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg009494MrWhite = {
   ownLength: 2100,
   unit: "words",
   publishedAt: "2025-12-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2895738/94-mr-white",
-  externalId: "2895738",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2895738",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2895738/94-mr-white",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

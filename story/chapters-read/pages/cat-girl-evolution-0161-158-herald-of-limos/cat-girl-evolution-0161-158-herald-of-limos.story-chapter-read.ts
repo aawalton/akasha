@@ -8,11 +8,15 @@ export const catGirlEvolution0161158HeraldOfLimos = {
   position: 161,
   publishedAt: "2026-09-04",
   unit: "words",
-  externalId: "3910089",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3910089",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/yona-cat-girl-evolution/chapter/3910089/158-herald-of-limos",
+    },
+  ],
   title: "158 - Herald of Limos",
   ownLength: 2395,
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/yona-cat-girl-evolution/chapter/3910089/158-herald-of-limos",
   prose: "txt",
 } as const satisfies StoryChapterRead

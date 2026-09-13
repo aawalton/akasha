@@ -10,9 +10,13 @@ export const catGirlEvolution0154151GoldStandard = {
   ownLength: 2405,
   unit: "words",
   publishedAt: "2026-08-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3833228/151-gold-standard",
-  externalId: "3833228",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3833228",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3833228/151-gold-standard",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

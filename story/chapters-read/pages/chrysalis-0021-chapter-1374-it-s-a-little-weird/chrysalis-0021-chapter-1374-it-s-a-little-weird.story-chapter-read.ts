@@ -12,9 +12,13 @@ export const chrysalis0021Chapter1374ItSALittleWeird = {
   unit: "words",
   completedAt: "2026-06-29T19:44:19.556Z",
   publishedAt: "2024-07-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1723238/chapter-1374-its-a-little-weird",
-  externalId: "1723238",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1723238",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1723238/chapter-1374-its-a-little-weird",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

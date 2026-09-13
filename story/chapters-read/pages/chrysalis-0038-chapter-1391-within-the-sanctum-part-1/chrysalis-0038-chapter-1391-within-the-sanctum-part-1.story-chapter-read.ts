@@ -12,9 +12,13 @@ export const chrysalis0038Chapter1391WithinTheSanctumPart1 = {
   unit: "words",
   completedAt: "2026-06-29T19:44:51.747Z",
   publishedAt: "2024-08-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1755950/chapter-1391-within-the-sanctum-part-1",
-  externalId: "1755950",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1755950",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1755950/chapter-1391-within-the-sanctum-part-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

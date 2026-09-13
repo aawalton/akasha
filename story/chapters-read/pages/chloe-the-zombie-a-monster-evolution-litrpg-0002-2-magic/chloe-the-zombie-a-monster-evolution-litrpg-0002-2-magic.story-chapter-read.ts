@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg00022Magic = {
   ownLength: 2369,
   unit: "words",
   publishedAt: "2025-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2525502/2-magic",
-  externalId: "2525502",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525502",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2525502/2-magic",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

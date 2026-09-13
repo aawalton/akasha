@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0122122MinutesToMidnightIi = {
   ownLength: 2144,
   unit: "words",
   publishedAt: "2026-03-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3123117/122-minutes-to-midnight-ii",
-  externalId: "3123117",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3123117",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3123117/122-minutes-to-midnight-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

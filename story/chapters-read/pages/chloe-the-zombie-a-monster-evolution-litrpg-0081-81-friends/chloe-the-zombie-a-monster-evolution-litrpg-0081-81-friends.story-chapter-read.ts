@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg008181Friends = {
   ownLength: 1731,
   unit: "words",
   publishedAt: "2025-12-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2821353/81-friends",
-  externalId: "2821353",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2821353",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2821353/81-friends",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

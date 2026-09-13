@@ -10,9 +10,13 @@ export const catGirlEvolution0156153BalloonLady = {
   ownLength: 2982,
   unit: "words",
   publishedAt: "2026-08-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3857080/153-balloon-lady",
-  externalId: "3857080",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3857080",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3857080/153-balloon-lady",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

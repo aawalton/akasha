@@ -12,9 +12,13 @@ export const chrysalis0124Chapter1476Unthinkable = {
   unit: "words",
   completedAt: "2026-06-29T19:48:02.119Z",
   publishedAt: "2024-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1960484/chapter-1476-unthinkable",
-  externalId: "1960484",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1960484",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1960484/chapter-1476-unthinkable",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

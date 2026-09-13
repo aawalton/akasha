@@ -12,9 +12,13 @@ export const chrysalis0097Chapter1449KickingIntoFullGear = {
   unit: "words",
   completedAt: "2026-06-29T19:47:11.000Z",
   publishedAt: "2024-11-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1891211/chapter-1449-kicking-into-full-gear",
-  externalId: "1891211",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1891211",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1891211/chapter-1449-kicking-into-full-gear",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg001111Mayhem = {
   ownLength: 2646,
   unit: "words",
   publishedAt: "2025-08-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2530818/11-mayhem",
-  externalId: "2530818",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2530818",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2530818/11-mayhem",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

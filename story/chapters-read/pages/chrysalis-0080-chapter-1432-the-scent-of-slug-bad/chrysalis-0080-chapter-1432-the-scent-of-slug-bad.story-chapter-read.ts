@@ -12,9 +12,13 @@ export const chrysalis0080Chapter1432TheScentOfSlugBad = {
   unit: "words",
   completedAt: "2026-06-29T19:46:22.372Z",
   publishedAt: "2024-10-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1852450/chapter-1432-the-scent-of-slug-bad",
-  externalId: "1852450",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1852450",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1852450/chapter-1432-the-scent-of-slug-bad",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

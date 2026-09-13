@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0163163TheGate = {
   ownLength: 2142,
   unit: "words",
   publishedAt: "2026-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3519817/163-the-gate",
-  externalId: "3519817",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3519817",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3519817/163-the-gate",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

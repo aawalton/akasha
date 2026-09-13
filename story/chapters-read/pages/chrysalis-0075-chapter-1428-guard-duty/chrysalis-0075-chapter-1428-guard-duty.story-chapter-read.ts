@@ -12,9 +12,13 @@ export const chrysalis0075Chapter1428GuardDuty = {
   unit: "words",
   completedAt: "2026-06-29T19:46:08.415Z",
   publishedAt: "2024-10-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1842748/chapter-1428-guard-duty",
-  externalId: "1842748",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1842748",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1842748/chapter-1428-guard-duty",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

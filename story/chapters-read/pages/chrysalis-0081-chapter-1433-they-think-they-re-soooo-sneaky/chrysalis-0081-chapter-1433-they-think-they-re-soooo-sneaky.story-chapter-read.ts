@@ -12,9 +12,13 @@ export const chrysalis0081Chapter1433TheyThinkTheyReSooooSneaky = {
   unit: "words",
   completedAt: "2026-06-29T19:46:24.291Z",
   publishedAt: "2024-10-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1854040/chapter-1433-they-think-theyre-soooo-sneaky",
-  externalId: "1854040",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1854040",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1854040/chapter-1433-they-think-theyre-soooo-sneaky",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

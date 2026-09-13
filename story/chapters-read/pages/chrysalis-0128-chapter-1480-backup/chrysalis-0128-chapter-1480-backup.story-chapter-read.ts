@@ -12,9 +12,13 @@ export const chrysalis0128Chapter1480Backup = {
   unit: "words",
   completedAt: "2026-06-29T19:48:09.996Z",
   publishedAt: "2025-01-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1994287/chapter-1480-backup",
-  externalId: "1994287",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1994287",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1994287/chapter-1480-backup",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

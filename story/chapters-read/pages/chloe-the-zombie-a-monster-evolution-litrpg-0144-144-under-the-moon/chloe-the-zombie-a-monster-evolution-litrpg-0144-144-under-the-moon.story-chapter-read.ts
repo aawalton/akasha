@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0144144UnderTheMoon = {
   ownLength: 1956,
   unit: "words",
   publishedAt: "2026-04-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3324943/144-under-the-moon",
-  externalId: "3324943",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3324943",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3324943/144-under-the-moon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

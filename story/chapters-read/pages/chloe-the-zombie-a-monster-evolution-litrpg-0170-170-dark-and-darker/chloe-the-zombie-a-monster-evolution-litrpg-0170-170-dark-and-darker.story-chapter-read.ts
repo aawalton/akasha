@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0170170DarkAndDarker = {
   ownLength: 2025,
   unit: "words",
   publishedAt: "2026-06-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3594468/170-dark-and-darker",
-  externalId: "3594468",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3594468",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3594468/170-dark-and-darker",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

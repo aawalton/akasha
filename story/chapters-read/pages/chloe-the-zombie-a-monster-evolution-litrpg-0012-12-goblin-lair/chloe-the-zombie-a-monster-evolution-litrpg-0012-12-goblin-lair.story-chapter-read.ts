@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg001212GoblinLair = {
   ownLength: 2535,
   unit: "words",
   publishedAt: "2025-08-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2533554/12-goblin-lair",
-  externalId: "2533554",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2533554",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2533554/12-goblin-lair",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

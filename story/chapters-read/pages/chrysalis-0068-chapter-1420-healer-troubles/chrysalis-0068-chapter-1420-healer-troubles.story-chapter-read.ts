@@ -12,9 +12,13 @@ export const chrysalis0068Chapter1420HealerTroubles = {
   unit: "words",
   completedAt: "2026-06-29T19:45:48.524Z",
   publishedAt: "2024-09-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1827139/chapter-1420-healer-troubles",
-  externalId: "1827139",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1827139",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1827139/chapter-1420-healer-troubles",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

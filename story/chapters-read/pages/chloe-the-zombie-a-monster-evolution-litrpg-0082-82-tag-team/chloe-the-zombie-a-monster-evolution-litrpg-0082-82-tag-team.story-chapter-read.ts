@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg008282TagTeam = {
   ownLength: 2311,
   unit: "words",
   publishedAt: "2025-12-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2827209/82-tag-team",
-  externalId: "2827209",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2827209",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2827209/82-tag-team",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

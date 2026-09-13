@@ -10,9 +10,13 @@ export const catGirlEvolution0133NotAChapterScheduleUpdateOtherNews = {
   ownLength: 783,
   unit: "words",
   publishedAt: "2026-06-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3535253/not-a-chapter-schedule-update-other-news",
-  externalId: "3535253",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3535253",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3535253/not-a-chapter-schedule-update-other-news",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0005Chapter1358TheFamilyAscendant = {
   unit: "words",
   completedAt: "2026-06-29T19:43:48.803Z",
   publishedAt: "2024-06-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1684763/chapter-1358-the-family-ascendant",
-  externalId: "1684763",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1684763",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1684763/chapter-1358-the-family-ascendant",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

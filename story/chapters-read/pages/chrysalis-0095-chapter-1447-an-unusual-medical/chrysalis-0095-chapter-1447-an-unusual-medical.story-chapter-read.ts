@@ -12,9 +12,13 @@ export const chrysalis0095Chapter1447AnUnusualMedical = {
   unit: "words",
   completedAt: "2026-06-29T19:47:07.271Z",
   publishedAt: "2024-11-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1887585/chapter-1447-an-unusual-medical",
-  externalId: "1887585",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1887585",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1887585/chapter-1447-an-unusual-medical",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

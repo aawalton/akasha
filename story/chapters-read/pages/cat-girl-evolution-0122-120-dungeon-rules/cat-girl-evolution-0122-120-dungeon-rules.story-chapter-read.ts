@@ -10,9 +10,13 @@ export const catGirlEvolution0122120DungeonRules = {
   ownLength: 2725,
   unit: "words",
   publishedAt: "2026-04-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3331951/120-dungeon-rules",
-  externalId: "3331951",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3331951",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3331951/120-dungeon-rules",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

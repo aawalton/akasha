@@ -12,9 +12,13 @@ export const chrysalis0028Chapter1381BattlingInTheFifth = {
   unit: "words",
   completedAt: "2026-06-29T19:44:32.851Z",
   publishedAt: "2024-07-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1737515/chapter-1381-battling-in-the-fifth",
-  externalId: "1737515",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1737515",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1737515/chapter-1381-battling-in-the-fifth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const catGirlEvolution0144141ThePrePaparazzi = {
   ownLength: 2464,
   unit: "words",
   publishedAt: "2026-07-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3709523/141-the-pre-paparazzi",
-  externalId: "3709523",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3709523",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3709523/141-the-pre-paparazzi",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

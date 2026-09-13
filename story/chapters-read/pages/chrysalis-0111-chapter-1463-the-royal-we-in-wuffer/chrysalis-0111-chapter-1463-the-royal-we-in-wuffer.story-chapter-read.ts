@@ -12,9 +12,13 @@ export const chrysalis0111Chapter1463TheRoyalWeInWuffer = {
   unit: "words",
   completedAt: "2026-06-29T19:47:37.810Z",
   publishedAt: "2024-11-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1928050/chapter-1463-the-royal-we-in-wuffer",
-  externalId: "1928050",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1928050",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1928050/chapter-1463-the-royal-we-in-wuffer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

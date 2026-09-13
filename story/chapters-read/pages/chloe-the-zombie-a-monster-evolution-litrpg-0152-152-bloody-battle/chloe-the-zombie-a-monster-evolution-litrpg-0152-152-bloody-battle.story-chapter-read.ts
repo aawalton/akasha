@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0152152BloodyBattle = {
   ownLength: 2124,
   unit: "words",
   publishedAt: "2026-05-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3399725/152-bloody-battle",
-  externalId: "3399725",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3399725",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3399725/152-bloody-battle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

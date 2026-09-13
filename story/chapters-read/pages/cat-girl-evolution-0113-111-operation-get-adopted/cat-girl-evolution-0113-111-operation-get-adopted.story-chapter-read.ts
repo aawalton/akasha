@@ -10,9 +10,13 @@ export const catGirlEvolution0113111OperationGetAdopted = {
   ownLength: 2674,
   unit: "words",
   publishedAt: "2026-04-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3246656/111-operation-get-adopted",
-  externalId: "3246656",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3246656",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3246656/111-operation-get-adopted",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

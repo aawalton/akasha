@@ -12,9 +12,13 @@ export const chrysalis0116Chapter1468ReturnOfTheSnake = {
   unit: "words",
   completedAt: "2026-06-29T19:47:47.320Z",
   publishedAt: "2024-12-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1940418/chapter-1468-return-of-the-snake",
-  externalId: "1940418",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1940418",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1940418/chapter-1468-return-of-the-snake",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

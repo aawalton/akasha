@@ -12,9 +12,13 @@ export const chrysalis0122Chapter1474OddCircumstances = {
   unit: "words",
   completedAt: "2026-06-29T19:47:58.561Z",
   publishedAt: "2024-12-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1953782/chapter-1474-odd-circumstances",
-  externalId: "1953782",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1953782",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1953782/chapter-1474-odd-circumstances",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

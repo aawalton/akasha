@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg008686Remnants = {
   ownLength: 1890,
   unit: "words",
   publishedAt: "2025-12-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2847264/86-remnants",
-  externalId: "2847264",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2847264",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2847264/86-remnants",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0115Chapter1467WheatHasLessFun = {
   unit: "words",
   completedAt: "2026-06-29T19:47:45.419Z",
   publishedAt: "2024-12-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1938551/chapter-1467-wheat-has-less-fun",
-  externalId: "1938551",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1938551",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1938551/chapter-1467-wheat-has-less-fun",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

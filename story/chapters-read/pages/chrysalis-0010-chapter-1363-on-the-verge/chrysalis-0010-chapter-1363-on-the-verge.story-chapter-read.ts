@@ -12,9 +12,13 @@ export const chrysalis0010Chapter1363OnTheVerge = {
   unit: "words",
   completedAt: "2026-06-29T19:43:58.368Z",
   publishedAt: "2024-06-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1694574/chapter-1363-on-the-verge",
-  externalId: "1694574",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1694574",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1694574/chapter-1363-on-the-verge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

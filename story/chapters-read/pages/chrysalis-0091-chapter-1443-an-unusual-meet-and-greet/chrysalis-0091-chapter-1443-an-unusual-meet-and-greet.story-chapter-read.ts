@@ -12,9 +12,13 @@ export const chrysalis0091Chapter1443AnUnusualMeetAndGreet = {
   unit: "words",
   completedAt: "2026-06-29T19:46:55.110Z",
   publishedAt: "2024-10-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1876566/chapter-1443-an-unusual-meet-and-greet",
-  externalId: "1876566",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1876566",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1876566/chapter-1443-an-unusual-meet-and-greet",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

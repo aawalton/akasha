@@ -12,9 +12,13 @@ export const chrysalis0056Chapter1409NestConstruction = {
   unit: "words",
   completedAt: "2026-06-29T19:45:25.450Z",
   publishedAt: "2024-09-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1800729/chapter-1409-nest-construction",
-  externalId: "1800729",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1800729",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1800729/chapter-1409-nest-construction",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

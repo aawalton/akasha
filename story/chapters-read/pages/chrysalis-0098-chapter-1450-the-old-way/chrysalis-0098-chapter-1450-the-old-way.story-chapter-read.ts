@@ -12,9 +12,13 @@ export const chrysalis0098Chapter1450TheOldWay = {
   unit: "words",
   completedAt: "2026-06-29T19:47:12.932Z",
   publishedAt: "2024-11-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1896469/chapter-1450-the-old-way",
-  externalId: "1896469",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1896469",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1896469/chapter-1450-the-old-way",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

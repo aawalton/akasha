@@ -12,9 +12,13 @@ export const chrysalis0089Chapter1441MaybeIShouldGetAShell = {
   unit: "words",
   completedAt: "2026-06-29T19:46:49.043Z",
   publishedAt: "2024-10-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1873233/chapter-1441-maybe-i-should-get-a-shell",
-  externalId: "1873233",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1873233",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1873233/chapter-1441-maybe-i-should-get-a-shell",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

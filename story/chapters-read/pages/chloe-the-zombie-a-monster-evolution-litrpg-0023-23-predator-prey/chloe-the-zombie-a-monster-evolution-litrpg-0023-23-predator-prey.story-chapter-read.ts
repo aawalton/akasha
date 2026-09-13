@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg002323PredatorPrey = {
   ownLength: 2295,
   unit: "words",
   publishedAt: "2025-09-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2571267/23-predator-prey",
-  externalId: "2571267",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2571267",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2571267/23-predator-prey",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0025Chapter1378TravellingInTheFourth = {
   unit: "words",
   completedAt: "2026-06-29T19:44:27.087Z",
   publishedAt: "2024-07-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1731080/chapter-1378-travelling-in-the-fourth",
-  externalId: "1731080",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1731080",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1731080/chapter-1378-travelling-in-the-fourth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

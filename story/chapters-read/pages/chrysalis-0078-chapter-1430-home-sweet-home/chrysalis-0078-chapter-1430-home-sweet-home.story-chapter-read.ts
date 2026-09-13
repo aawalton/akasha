@@ -12,9 +12,13 @@ export const chrysalis0078Chapter1430HomeSweetHome = {
   unit: "words",
   completedAt: "2026-06-29T19:46:18.631Z",
   publishedAt: "2024-10-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1851128/chapter-1430-home-sweet-home",
-  externalId: "1851128",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1851128",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1851128/chapter-1430-home-sweet-home",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

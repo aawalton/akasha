@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg005656OddBehavior = {
   ownLength: 1969,
   unit: "words",
   publishedAt: "2025-10-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2696429/56-odd-behavior",
-  externalId: "2696429",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2696429",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2696429/56-odd-behavior",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

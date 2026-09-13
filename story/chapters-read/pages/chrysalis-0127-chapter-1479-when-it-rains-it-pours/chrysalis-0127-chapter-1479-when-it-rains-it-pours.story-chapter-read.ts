@@ -12,9 +12,13 @@ export const chrysalis0127Chapter1479WhenItRainsItPours = {
   unit: "words",
   completedAt: "2026-06-29T19:48:07.917Z",
   publishedAt: "2024-12-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1965165/chapter-1479-when-it-rains-it-pours",
-  externalId: "1965165",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1965165",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1965165/chapter-1479-when-it-rains-it-pours",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

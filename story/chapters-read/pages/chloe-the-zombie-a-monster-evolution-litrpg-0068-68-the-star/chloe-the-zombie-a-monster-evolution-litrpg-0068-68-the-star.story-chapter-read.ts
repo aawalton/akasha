@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg006868TheStar = {
   ownLength: 2093,
   unit: "words",
   publishedAt: "2025-11-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2754747/68-the-star",
-  externalId: "2754747",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2754747",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2754747/68-the-star",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

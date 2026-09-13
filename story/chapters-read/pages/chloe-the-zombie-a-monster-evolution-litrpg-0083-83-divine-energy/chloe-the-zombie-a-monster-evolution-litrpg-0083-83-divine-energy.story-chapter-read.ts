@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg008383DivineEnergy = {
   ownLength: 1878,
   unit: "words",
   publishedAt: "2025-12-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2829899/83-divine-energy",
-  externalId: "2829899",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2829899",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2829899/83-divine-energy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

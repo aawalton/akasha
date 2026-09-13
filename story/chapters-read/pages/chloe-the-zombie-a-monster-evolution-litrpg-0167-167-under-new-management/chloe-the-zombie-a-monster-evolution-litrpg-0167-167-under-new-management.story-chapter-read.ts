@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0167167UnderNewManagement = {
   ownLength: 1857,
   unit: "words",
   publishedAt: "2026-06-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3561683/167-under-new-management",
-  externalId: "3561683",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3561683",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3561683/167-under-new-management",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

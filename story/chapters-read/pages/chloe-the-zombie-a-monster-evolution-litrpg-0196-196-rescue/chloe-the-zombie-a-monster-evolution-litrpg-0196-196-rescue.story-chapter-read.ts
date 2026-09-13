@@ -7,12 +7,16 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0196196Rescue = {
   position: 196,
   publishedAt: "2026-09-11",
   unit: "words",
-  externalId: "3944420",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3944420",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3944420/196-rescue",
+    },
+  ],
   title: "196: Rescue",
   story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   ownLength: 2209,
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3944420/196-rescue",
   prose: "txt",
 } as const satisfies StoryChapterRead

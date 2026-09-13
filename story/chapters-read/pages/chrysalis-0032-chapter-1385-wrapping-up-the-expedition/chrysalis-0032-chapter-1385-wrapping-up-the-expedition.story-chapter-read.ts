@@ -12,9 +12,13 @@ export const chrysalis0032Chapter1385WrappingUpTheExpedition = {
   unit: "words",
   completedAt: "2026-06-29T19:44:40.392Z",
   publishedAt: "2024-08-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1745176/chapter-1385-wrapping-up-the-expedition",
-  externalId: "1745176",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1745176",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1745176/chapter-1385-wrapping-up-the-expedition",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const catGirlEvolution0143140DungeonCoresAndSoulWeapons = {
   ownLength: 2984,
   unit: "words",
   publishedAt: "2026-07-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3700487/140-dungeon-cores-and-soul-weapons",
-  externalId: "3700487",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3700487",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3700487/140-dungeon-cores-and-soul-weapons",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

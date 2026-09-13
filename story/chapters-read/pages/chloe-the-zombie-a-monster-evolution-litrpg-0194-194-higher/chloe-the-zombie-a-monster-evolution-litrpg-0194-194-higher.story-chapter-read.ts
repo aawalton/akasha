@@ -8,11 +8,15 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0194194Higher = {
   position: 194,
   publishedAt: "2026-09-04",
   unit: "words",
-  externalId: "3911567",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3911567",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3911567/194-higher",
+    },
+  ],
   title: "194: Higher",
   ownLength: 1900,
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3911567/194-higher",
   prose: "txt",
 } as const satisfies StoryChapterRead

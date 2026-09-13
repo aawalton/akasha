@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg005353HorsingAround = {
   ownLength: 3109,
   unit: "words",
   publishedAt: "2025-10-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2683664/53-horsing-around",
-  externalId: "2683664",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2683664",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2683664/53-horsing-around",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const catGirlEvolution0103101NewMeal = {
   ownLength: 3305,
   unit: "words",
   publishedAt: "2026-03-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3176161/101-new-meal",
-  externalId: "3176161",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3176161",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3176161/101-new-meal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

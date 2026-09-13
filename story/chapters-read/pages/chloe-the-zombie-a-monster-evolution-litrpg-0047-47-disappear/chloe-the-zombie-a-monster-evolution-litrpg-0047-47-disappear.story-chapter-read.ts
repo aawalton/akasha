@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg004747Disappear = {
   ownLength: 2495,
   unit: "words",
   publishedAt: "2025-10-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2658415/47-disappear",
-  externalId: "2658415",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2658415",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2658415/47-disappear",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

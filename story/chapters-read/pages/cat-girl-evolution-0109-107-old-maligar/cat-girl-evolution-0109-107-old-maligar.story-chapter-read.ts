@@ -10,9 +10,13 @@ export const catGirlEvolution0109107OldMaligar = {
   ownLength: 2649,
   unit: "words",
   publishedAt: "2026-03-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3213383/107-old-maligar",
-  externalId: "3213383",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3213383",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3213383/107-old-maligar",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

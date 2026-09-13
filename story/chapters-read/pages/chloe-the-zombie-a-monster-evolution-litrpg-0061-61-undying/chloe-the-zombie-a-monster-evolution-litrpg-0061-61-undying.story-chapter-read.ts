@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg006161Undying = {
   ownLength: 2018,
   unit: "words",
   publishedAt: "2025-10-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2719843/61-undying",
-  externalId: "2719843",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2719843",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2719843/61-undying",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

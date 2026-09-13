@@ -10,9 +10,13 @@ export const catGirlEvolution0136133ButImSupposedToBeTheHero = {
   ownLength: 2708,
   unit: "words",
   publishedAt: "2026-06-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3606026/133-but-im-supposed-to-be-the-hero",
-  externalId: "3606026",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3606026",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3606026/133-but-im-supposed-to-be-the-hero",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

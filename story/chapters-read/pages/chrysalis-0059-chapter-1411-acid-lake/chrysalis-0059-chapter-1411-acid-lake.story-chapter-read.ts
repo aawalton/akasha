@@ -12,9 +12,13 @@ export const chrysalis0059Chapter1411AcidLake = {
   unit: "words",
   completedAt: "2026-06-29T19:45:31.208Z",
   publishedAt: "2024-09-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1806970/chapter-1411-acid-lake",
-  externalId: "1806970",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1806970",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1806970/chapter-1411-acid-lake",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0155155VeryCoolEvolutionsEndOf
   ownLength: 1938,
   unit: "words",
   publishedAt: "2026-05-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3432046/155-very-cool-evolutions-end-of-book-2",
-  externalId: "3432046",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3432046",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3432046/155-very-cool-evolutions-end-of-book-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

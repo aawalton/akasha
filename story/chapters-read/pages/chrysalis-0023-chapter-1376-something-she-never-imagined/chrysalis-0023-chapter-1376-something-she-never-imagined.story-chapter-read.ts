@@ -12,9 +12,13 @@ export const chrysalis0023Chapter1376SomethingSheNeverImagined = {
   unit: "words",
   completedAt: "2026-06-29T19:44:23.260Z",
   publishedAt: "2024-07-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1728614/chapter-1376-something-she-never-imagined",
-  externalId: "1728614",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1728614",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1728614/chapter-1376-something-she-never-imagined",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

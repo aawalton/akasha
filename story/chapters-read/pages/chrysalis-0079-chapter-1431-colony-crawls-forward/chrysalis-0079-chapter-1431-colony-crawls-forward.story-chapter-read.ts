@@ -12,9 +12,13 @@ export const chrysalis0079Chapter1431ColonyCrawlsForward = {
   unit: "words",
   completedAt: "2026-06-29T19:46:20.452Z",
   publishedAt: "2024-10-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1851129/chapter-1431-colony-crawls-forward",
-  externalId: "1851129",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1851129",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1851129/chapter-1431-colony-crawls-forward",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

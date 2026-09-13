@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg005959RunningOnWater = {
   ownLength: 2040,
   unit: "words",
   publishedAt: "2025-10-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2708924/59-running-on-water",
-  externalId: "2708924",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2708924",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2708924/59-running-on-water",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

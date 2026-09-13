@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg004444VeryCold = {
   ownLength: 2045,
   unit: "words",
   publishedAt: "2025-10-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2646191/44-very-cold",
-  externalId: "2646191",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2646191",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2646191/44-very-cold",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

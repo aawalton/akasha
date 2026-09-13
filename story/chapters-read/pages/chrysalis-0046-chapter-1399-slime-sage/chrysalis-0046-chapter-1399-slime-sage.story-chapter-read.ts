@@ -12,9 +12,13 @@ export const chrysalis0046Chapter1399SlimeSage = {
   unit: "words",
   completedAt: "2026-06-29T19:45:06.422Z",
   publishedAt: "2024-08-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1780186/chapter-1399-slime-sage",
-  externalId: "1780186",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1780186",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1780186/chapter-1399-slime-sage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

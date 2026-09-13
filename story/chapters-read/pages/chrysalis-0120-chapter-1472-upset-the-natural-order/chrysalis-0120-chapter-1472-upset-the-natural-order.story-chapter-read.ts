@@ -12,9 +12,13 @@ export const chrysalis0120Chapter1472UpsetTheNaturalOrder = {
   unit: "words",
   completedAt: "2026-06-29T19:47:54.790Z",
   publishedAt: "2024-12-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1950355/chapter-1472-upset-the-natural-order",
-  externalId: "1950355",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1950355",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1950355/chapter-1472-upset-the-natural-order",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

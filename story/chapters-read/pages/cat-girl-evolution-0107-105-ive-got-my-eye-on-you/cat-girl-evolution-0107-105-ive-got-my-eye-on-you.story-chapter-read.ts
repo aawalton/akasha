@@ -10,9 +10,13 @@ export const catGirlEvolution0107105IveGotMyEyeOnYou = {
   ownLength: 2192,
   unit: "words",
   publishedAt: "2026-03-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3202657/105-ive-got-my-eye-on-you",
-  externalId: "3202657",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3202657",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3202657/105-ive-got-my-eye-on-you",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

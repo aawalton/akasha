@@ -10,9 +10,13 @@ export const catGirlEvolution0108106Hypothetically = {
   ownLength: 2728,
   unit: "words",
   publishedAt: "2026-03-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3208075/106-hypothetically",
-  externalId: "3208075",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3208075",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3208075/106-hypothetically",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

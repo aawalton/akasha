@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg001818ASlightDelay = {
   ownLength: 2356,
   unit: "words",
   publishedAt: "2025-08-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2552553/18-a-slight-delay",
-  externalId: "2552553",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2552553",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2552553/18-a-slight-delay",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

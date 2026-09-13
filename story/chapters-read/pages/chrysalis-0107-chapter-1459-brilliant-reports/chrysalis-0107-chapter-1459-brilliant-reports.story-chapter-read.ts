@@ -12,9 +12,13 @@ export const chrysalis0107Chapter1459BrilliantReports = {
   unit: "words",
   completedAt: "2026-06-29T19:47:30.106Z",
   publishedAt: "2024-11-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1917170/chapter-1459-brilliant-reports",
-  externalId: "1917170",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1917170",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1917170/chapter-1459-brilliant-reports",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

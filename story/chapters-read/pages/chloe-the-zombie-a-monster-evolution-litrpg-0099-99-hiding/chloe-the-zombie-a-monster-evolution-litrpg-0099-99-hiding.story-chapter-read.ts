@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg009999Hiding = {
   ownLength: 1887,
   unit: "words",
   publishedAt: "2026-01-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2935608/99-hiding",
-  externalId: "2935608",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2935608",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2935608/99-hiding",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

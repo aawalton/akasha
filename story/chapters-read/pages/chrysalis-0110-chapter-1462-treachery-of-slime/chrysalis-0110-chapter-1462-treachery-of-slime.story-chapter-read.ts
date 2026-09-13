@@ -12,9 +12,13 @@ export const chrysalis0110Chapter1462TreacheryOfSlime = {
   unit: "words",
   completedAt: "2026-06-29T19:47:35.905Z",
   publishedAt: "2024-11-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1926363/chapter-1462-treachery-of-slime",
-  externalId: "1926363",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1926363",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1926363/chapter-1462-treachery-of-slime",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

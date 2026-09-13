@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg008484BiggerAndBetter = {
   ownLength: 2011,
   unit: "words",
   publishedAt: "2025-12-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2835945/84-bigger-and-better",
-  externalId: "2835945",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2835945",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2835945/84-bigger-and-better",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

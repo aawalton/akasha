@@ -12,9 +12,13 @@ export const chrysalis0002Chapter1355SetbackWhatSetback = {
   unit: "words",
   completedAt: "2026-06-29T19:43:43.088Z",
   publishedAt: "2024-06-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1679935/chapter-1355-setback-what-setback",
-  externalId: "1679935",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1679935",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1679935/chapter-1355-setback-what-setback",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

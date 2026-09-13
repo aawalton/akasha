@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0107107ImportantRules = {
   ownLength: 1866,
   unit: "words",
   publishedAt: "2026-01-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2994958/107-important-rules",
-  externalId: "2994958",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2994958",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2994958/107-important-rules",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

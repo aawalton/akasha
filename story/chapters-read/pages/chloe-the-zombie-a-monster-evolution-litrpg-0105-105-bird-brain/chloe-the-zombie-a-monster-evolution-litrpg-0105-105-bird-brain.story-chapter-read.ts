@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0105105BirdBrain = {
   ownLength: 1970,
   unit: "words",
   publishedAt: "2026-01-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2980985/105-bird-brain",
-  externalId: "2980985",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2980985",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2980985/105-bird-brain",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

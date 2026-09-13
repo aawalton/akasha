@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0164164TartarusAgain = {
   ownLength: 2019,
   unit: "words",
   publishedAt: "2026-06-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3529643/164-tartarus-again",
-  externalId: "3529643",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3529643",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3529643/164-tartarus-again",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

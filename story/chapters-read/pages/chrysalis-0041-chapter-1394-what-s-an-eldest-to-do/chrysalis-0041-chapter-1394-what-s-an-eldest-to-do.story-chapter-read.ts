@@ -12,9 +12,13 @@ export const chrysalis0041Chapter1394WhatSAnEldestToDo = {
   unit: "words",
   completedAt: "2026-06-29T19:44:57.108Z",
   publishedAt: "2024-08-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1760380/chapter-1394-whats-an-eldest-to-do",
-  externalId: "1760380",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1760380",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1760380/chapter-1394-whats-an-eldest-to-do",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

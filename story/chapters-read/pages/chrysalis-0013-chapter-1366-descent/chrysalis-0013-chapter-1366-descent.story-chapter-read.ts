@@ -12,9 +12,13 @@ export const chrysalis0013Chapter1366Descent = {
   unit: "words",
   completedAt: "2026-06-29T19:44:04.109Z",
   publishedAt: "2024-07-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1701532/chapter-1366-descent",
-  externalId: "1701532",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1701532",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1701532/chapter-1366-descent",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

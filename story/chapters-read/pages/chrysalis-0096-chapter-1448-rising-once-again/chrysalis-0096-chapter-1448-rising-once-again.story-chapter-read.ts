@@ -12,9 +12,13 @@ export const chrysalis0096Chapter1448RisingOnceAgain = {
   unit: "words",
   completedAt: "2026-06-29T19:47:09.055Z",
   publishedAt: "2024-11-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1889455/chapter-1448-rising-once-again",
-  externalId: "1889455",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1889455",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1889455/chapter-1448-rising-once-again",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0113113ThroughTheFog = {
   ownLength: 1994,
   unit: "words",
   publishedAt: "2026-02-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3050327/113-through-the-fog",
-  externalId: "3050327",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3050327",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3050327/113-through-the-fog",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

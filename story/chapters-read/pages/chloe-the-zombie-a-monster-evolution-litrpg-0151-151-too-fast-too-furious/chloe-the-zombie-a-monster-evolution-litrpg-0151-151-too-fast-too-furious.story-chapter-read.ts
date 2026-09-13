@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0151151TooFastTooFurious = {
   ownLength: 1920,
   unit: "words",
   publishedAt: "2026-05-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3390812/151-too-fast-too-furious",
-  externalId: "3390812",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3390812",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3390812/151-too-fast-too-furious",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

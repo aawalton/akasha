@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg007777Spectacle = {
   ownLength: 2166,
   unit: "words",
   publishedAt: "2025-11-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2800607/77-spectacle",
-  externalId: "2800607",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2800607",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2800607/77-spectacle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

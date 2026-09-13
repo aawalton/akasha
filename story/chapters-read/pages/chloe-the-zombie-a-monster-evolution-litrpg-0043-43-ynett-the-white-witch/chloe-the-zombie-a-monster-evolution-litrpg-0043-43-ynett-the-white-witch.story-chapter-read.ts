@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg004343YnettTheWhiteWitch = {
   ownLength: 2242,
   unit: "words",
   publishedAt: "2025-10-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2643659/43-ynett-the-white-witch",
-  externalId: "2643659",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2643659",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2643659/43-ynett-the-white-witch",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

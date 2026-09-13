@@ -10,9 +10,13 @@ export const catGirlEvolution0139136TheEndOfMaligar = {
   ownLength: 2864,
   unit: "words",
   publishedAt: "2026-07-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3638169/136-the-end-of-maligar",
-  externalId: "3638169",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3638169",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3638169/136-the-end-of-maligar",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

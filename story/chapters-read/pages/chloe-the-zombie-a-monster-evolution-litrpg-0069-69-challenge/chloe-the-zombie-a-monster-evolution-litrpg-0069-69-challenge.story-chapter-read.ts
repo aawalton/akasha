@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg006969Challenge = {
   ownLength: 2197,
   unit: "words",
   publishedAt: "2025-11-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2760529/69-challenge",
-  externalId: "2760529",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2760529",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2760529/69-challenge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

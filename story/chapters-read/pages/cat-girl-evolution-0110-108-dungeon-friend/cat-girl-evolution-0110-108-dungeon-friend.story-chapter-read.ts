@@ -10,9 +10,13 @@ export const catGirlEvolution0110108DungeonFriend = {
   ownLength: 2108,
   unit: "words",
   publishedAt: "2026-04-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3221361/108-dungeon-friend",
-  externalId: "3221361",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3221361",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3221361/108-dungeon-friend",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0104Chapter1456MorreliaAndTheLegion = {
   unit: "words",
   completedAt: "2026-06-29T19:47:24.467Z",
   publishedAt: "2024-11-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1911803/chapter-1456-morrelia-and-the-legion",
-  externalId: "1911803",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1911803",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1911803/chapter-1456-morrelia-and-the-legion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

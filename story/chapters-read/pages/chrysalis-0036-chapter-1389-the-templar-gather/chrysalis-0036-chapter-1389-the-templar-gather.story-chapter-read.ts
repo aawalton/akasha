@@ -12,9 +12,13 @@ export const chrysalis0036Chapter1389TheTemplarGather = {
   unit: "words",
   completedAt: "2026-06-29T19:44:47.951Z",
   publishedAt: "2024-08-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1750452/chapter-1389-the-templar-gather",
-  externalId: "1750452",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1750452",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1750452/chapter-1389-the-templar-gather",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

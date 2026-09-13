@@ -10,9 +10,13 @@ export const catGirlEvolution0157154PeopleWatcher = {
   ownLength: 2540,
   unit: "words",
   publishedAt: "2026-08-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3866367/154-people-watcher",
-  externalId: "3866367",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3866367",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3866367/154-people-watcher",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0161161Signal = {
   ownLength: 2134,
   unit: "words",
   publishedAt: "2026-06-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3496958/161-signal",
-  externalId: "3496958",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3496958",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3496958/161-signal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0103103BirdWatching = {
   ownLength: 1998,
   unit: "words",
   publishedAt: "2026-01-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2964518/103-bird-watching",
-  externalId: "2964518",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2964518",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2964518/103-bird-watching",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

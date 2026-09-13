@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0101101UncertainFuture = {
   ownLength: 2010,
   unit: "words",
   publishedAt: "2026-01-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2948867/101-uncertain-future",
-  externalId: "2948867",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2948867",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2948867/101-uncertain-future",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

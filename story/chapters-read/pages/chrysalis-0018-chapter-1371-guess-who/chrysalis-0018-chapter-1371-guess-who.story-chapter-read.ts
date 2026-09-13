@@ -12,9 +12,13 @@ export const chrysalis0018Chapter1371GuessWho = {
   unit: "words",
   completedAt: "2026-06-29T19:44:13.699Z",
   publishedAt: "2024-07-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1720788/chapter-1371-guess-who",
-  externalId: "1720788",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1720788",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1720788/chapter-1371-guess-who",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const catGirlEvolution0128126Catfight = {
   ownLength: 2300,
   unit: "words",
   publishedAt: "2026-05-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3389475/126-catfight",
-  externalId: "3389475",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3389475",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3389475/126-catfight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

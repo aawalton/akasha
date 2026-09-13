@@ -12,9 +12,13 @@ export const chrysalis0061Chapter1413IKnowThatSong = {
   unit: "words",
   completedAt: "2026-06-29T19:45:35.047Z",
   publishedAt: "2024-09-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1809701/chapter-1413-i-know-that-song",
-  externalId: "1809701",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1809701",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1809701/chapter-1413-i-know-that-song",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

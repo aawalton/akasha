@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0165165Boring = {
   ownLength: 2082,
   unit: "words",
   publishedAt: "2026-06-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3542991/165-boring",
-  externalId: "3542991",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3542991",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3542991/165-boring",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

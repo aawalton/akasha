@@ -12,9 +12,13 @@ export const chrysalis0083Chapter1435WhenItRainsItSMucus = {
   unit: "words",
   completedAt: "2026-06-29T19:46:30.810Z",
   publishedAt: "2024-10-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1862420/chapter-1435-when-it-rains-its-mucus",
-  externalId: "1862420",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1862420",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1862420/chapter-1435-when-it-rains-its-mucus",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

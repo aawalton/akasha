@@ -10,9 +10,13 @@ export const catGirlEvolution0115113Husks = {
   ownLength: 3603,
   unit: "words",
   publishedAt: "2026-04-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3266734/113-husks",
-  externalId: "3266734",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3266734",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3266734/113-husks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0003Chapter1356MotherIsnTImpressed = {
   unit: "words",
   completedAt: "2026-06-29T19:43:44.915Z",
   publishedAt: "2024-06-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1681482/chapter-1356-mother-isnt-impressed",
-  externalId: "1681482",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1681482",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1681482/chapter-1356-mother-isnt-impressed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const catGirlEvolution009796AVeryExcitingTrainingArc = {
   ownLength: 2514,
   unit: "words",
   publishedAt: "2026-03-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3114595/96-a-very-exciting-training-arc",
-  externalId: "3114595",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3114595",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3114595/96-a-very-exciting-training-arc",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

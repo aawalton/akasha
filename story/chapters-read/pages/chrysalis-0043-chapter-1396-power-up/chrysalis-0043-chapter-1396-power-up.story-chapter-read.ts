@@ -12,9 +12,13 @@ export const chrysalis0043Chapter1396PowerUp = {
   unit: "words",
   completedAt: "2026-06-29T19:45:00.675Z",
   publishedAt: "2024-08-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1776045/chapter-1396-power-up",
-  externalId: "1776045",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1776045",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1776045/chapter-1396-power-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

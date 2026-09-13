@@ -12,9 +12,13 @@ export const chrysalis0054Chapter1407SmashTheSlugs = {
   unit: "words",
   completedAt: "2026-06-29T19:45:21.612Z",
   publishedAt: "2024-09-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1797743/chapter-1407-smash-the-slugs",
-  externalId: "1797743",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1797743",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1797743/chapter-1407-smash-the-slugs",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

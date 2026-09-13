@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0156156NewNormalStartOfBook3 =
   ownLength: 1952,
   unit: "words",
   publishedAt: "2026-05-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3444243/156-new-normal-start-of-book-3",
-  externalId: "3444243",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3444243",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3444243/156-new-normal-start-of-book-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

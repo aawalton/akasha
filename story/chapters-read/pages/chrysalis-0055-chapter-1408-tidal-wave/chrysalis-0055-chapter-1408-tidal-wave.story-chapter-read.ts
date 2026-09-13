@@ -12,9 +12,13 @@ export const chrysalis0055Chapter1408TidalWave = {
   unit: "words",
   completedAt: "2026-06-29T19:45:23.529Z",
   publishedAt: "2024-09-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1799420/chapter-1408-tidal-wave",
-  externalId: "1799420",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1799420",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1799420/chapter-1408-tidal-wave",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

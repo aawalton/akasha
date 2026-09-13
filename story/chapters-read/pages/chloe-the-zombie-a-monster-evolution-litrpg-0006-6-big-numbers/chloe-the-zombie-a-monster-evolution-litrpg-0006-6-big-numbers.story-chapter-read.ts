@@ -10,9 +10,13 @@ export const chloeTheZombieAMonsterEvolutionLitrpg00066BigNumbers = {
   ownLength: 2558,
   unit: "words",
   publishedAt: "2025-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2525539/6-big-numbers",
-  externalId: "2525539",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525539",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2525539/6-big-numbers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
