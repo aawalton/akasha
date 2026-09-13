@@ -1,7 +1,4 @@
-import {
-  type LogicalModel,
-  parseModel,
-} from "akasha/agents/models/modules/vocab/model-vocab.module.code.ts"
+import { parseModel, toWireId } from "akasha/agents/models/modules/vocab/model-vocab.module.code.ts"
 import { writerIn } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import { akashaBesideOf } from "akasha/agents/seats/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { seatAbove } from "akasha/agents/subagents/modules/naming/subagent-naming.module.code.ts"
@@ -20,12 +17,7 @@ const ANY_MODEL = "Claude"
 
 const EXTENDED_SAID = " (1M context)"
 
-const NAMED: Readonly<Record<LogicalModel, string>> = {
-  fable: "Claude Fable 5",
-  opus: "Claude Opus 5",
-  sonnet: "Claude Sonnet 5",
-  haiku: "Claude Haiku 4.5",
-}
+const NUMBERED = /^[0-9]+$/
 
 const MODEL = "model"
 
@@ -34,11 +26,21 @@ export type Attribution = {
   readonly session: string | null
 }
 
+function titledAs(wire: string): string {
+  const words: string[] = []
+  const numbers: string[] = []
+  for (const part of wire.split("-")) {
+    if (NUMBERED.test(part)) numbers.push(part)
+    else words.push(part.charAt(0).toUpperCase() + part.slice(1))
+  }
+  if (numbers.length > 0) words.push(numbers.join("."))
+  return words.join(" ")
+}
+
 export function modelNamed(model: string | null): string {
-  if (model === null) return ANY_MODEL
-  const spec = parseModel(model)
+  const spec = model === null ? null : parseModel(model)
   if (spec === null) return ANY_MODEL
-  return `${NAMED[spec.logical]}${spec.extended ? EXTENDED_SAID : ""}`
+  return `${titledAs(toWireId(spec.logical))}${spec.extended ? EXTENDED_SAID : ""}`
 }
 
 export function attributionLines(held: Attribution): readonly string[] {
@@ -62,6 +64,19 @@ function keyIn(line: string): string | null {
   return TRAILER.test(said) ? keyOf(said) : null
 }
 
+function blockAt(lines: readonly string[]): number {
+  for (let at = lines.length - 1; at >= 0; at -= 1) {
+    if ((lines[at] ?? "").trim() === "") return at + 1
+  }
+  return 0
+}
+
+function trailersLast(lines: readonly string[]): boolean {
+  const at = blockAt(lines)
+  if (at === 0 || at >= lines.length) return false
+  return lines.slice(at).every((one) => keyIn(one) !== null)
+}
+
 export function attributed(message: string, held: Attribution): string {
   const body = message.replace(TRAILING, "")
   const lines = body.split("\n")
@@ -70,23 +85,24 @@ export function attributed(message: string, held: Attribution): string {
   if (left.length === 0) return message
   const said = left.join("\n")
   if (body === "") return said
-  const last = lines[lines.length - 1] ?? ""
-  return `${body}${keyIn(last) === null ? "\n\n" : "\n"}${said}`
+  return `${body}${trailersLast(lines) ? "\n" : "\n\n"}${said}`
 }
 
-function besideOf(agent: string): Record<string, unknown> | null {
-  const own = akashaBesideOf(agent)
-  if (own !== null) return own
+function besideAbove(agent: string): Record<string, unknown> | null {
   const above = seatAbove(agent)
   return above === null ? null : akashaBesideOf(above)
+}
+
+function modelHeldBy(agent: string): string | null {
+  const own = akashaBesideOf(agent) ?? besideAbove(agent)
+  const held = own?.[MODEL]
+  return typeof held === "string" && held !== "" ? held : null
 }
 
 function modelIn(env: Readonly<Record<string, string | undefined>>): string | null {
   try {
     const agent = writerIn(env)
-    if (agent === null) return null
-    const held = besideOf(agent)?.[MODEL]
-    return typeof held === "string" && held !== "" ? held : null
+    return agent === null ? null : modelHeldBy(agent)
   } catch {
     return null
   }

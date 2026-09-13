@@ -37,9 +37,19 @@ test("a message stating one key of the two gains only the other", () => {
   expect(attributed(message, HELD)).toBe(`${message}\n${SAID}`)
 })
 
-test("a message whose last line is a trailer takes the attribution with no blank line between", () => {
+test("a message whose last block is trailers takes the attribution with no blank line between", () => {
   const message = "the subject line\n\nChecks-bypassed: mid-refactor"
   expect(attributed(message, HELD)).toBe(`${message}\n${CO_AUTHORED}\n${SAID}`)
+})
+
+test("a message of one line holding a colon takes the attribution under a blank line", () => {
+  const message = "ember-ae5b35f9310c8752c: a subagent states the agent id it acts under"
+  expect(attributed(message, HELD)).toBe(`${message}\n\n${CO_AUTHORED}\n${SAID}`)
+})
+
+test("a message whose last block is prose holding a colon takes the attribution under a blank line", () => {
+  const message = "the subject line\n\nthe body says this: and that"
+  expect(attributed(message, HELD)).toBe(`${message}\n\n${CO_AUTHORED}\n${SAID}`)
 })
 
 test("the attribution lines come last", () => {

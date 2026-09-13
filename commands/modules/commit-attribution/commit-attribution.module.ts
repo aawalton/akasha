@@ -37,7 +37,16 @@ export const commitAttribution = {
     {
       invariantKind: "departure",
       statement:
-        "A message whose last line is a trailer takes the attribution with no blank line between.",
+        "A message whose last block is all trailers takes the attribution with no blank line.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subject line holding a colon is prose rather than a trailer.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A model is named as a reader reads it, worked out from the id rather than listed.",
     },
     {
       invariantKind: "departure",
