@@ -13,6 +13,15 @@ export const amyHarnessImprovements = {
     {
       statement: "A panel's top-level row is always expanded rather than collapsible.",
     },
+    {
+      statement: "alanwalton.com has no nav item other than Tasks and Temper Tasks.",
+    },
+    {
+      statement: "alanwalton.com has no view other than the views of Tasks and Temper Tasks.",
+    },
+    {
+      statement: "Temper Tasks has no All view.",
+    },
   ],
 
   constraints: [
