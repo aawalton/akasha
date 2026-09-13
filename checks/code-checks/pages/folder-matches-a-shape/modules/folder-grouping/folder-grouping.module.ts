@@ -47,7 +47,11 @@ export const folderGrouping = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder a change empties is dropped by the index rather than dropped here.",
+      statement: "A folder a change leaves holding no file and no folder is no folder here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder is holding nothing where every folder under it is holding nothing too.",
     },
     {
       invariantKind: "departure",

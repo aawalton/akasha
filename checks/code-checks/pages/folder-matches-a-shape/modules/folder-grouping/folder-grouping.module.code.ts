@@ -48,7 +48,7 @@ export function groupedOver(index: Answering, change: Change): Grouped {
   }
   const files = new Map<string, readonly string[]>()
   const folders = new Map<string, readonly string[]>()
-  return {
+  const grouped: Grouped = {
     at: (folder) => {
       const found = files.get(folder)
       if (found !== undefined) return found
@@ -64,11 +64,16 @@ export function groupedOver(index: Answering, change: Change): Grouped {
       if (found !== undefined) return found
       const held = new Set<string>(index.foldersIn(folder))
       for (const one of opened.get(folder) ?? []) held.add(one)
-      const made = [...held].sort()
+      const made = [...held].sort().filter((one) => !holdsNothing(grouped, one))
       folders.set(folder, made)
       return made
     },
   }
+  return grouped
+}
+
+export function holdsNothing(grouped: Grouped, folder: string): boolean {
+  return grouped.at(folder).length === 0 && grouped.foldersIn(folder).length === 0
 }
 
 export function segmentingOver(

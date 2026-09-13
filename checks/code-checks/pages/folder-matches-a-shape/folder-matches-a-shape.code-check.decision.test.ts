@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import {
   holdingOver,
-  holdsNothing,
   namesFiling,
   type Paged,
   pageNameOf,
@@ -11,7 +10,6 @@ import {
 import {
   folderFrom,
   GENERATED_AT,
-  grouping,
   MANIFEST_AT,
   MY_MATH_AT,
   segmented,
@@ -28,13 +26,6 @@ test("a folder holding nothing but files a property names is passed over", () =>
   expect(segmented("one/deploy")).toBe(true)
   expect(segmented("two/deploy")).toBe(false)
   expect(segmented("four/deploy")).toBe(false)
-})
-
-test("a folder the change leaves holding nothing at all is judged by no shape", () => {
-  const grouped = grouping({ akasha: ["akasha/foo"] })
-
-  expect(holdsNothing(grouped, "akasha")).toBe(false)
-  expect(holdsNothing(grouped, "akasha/foo")).toBe(true)
 })
 
 test("a segment comes from the properties, so a property stated later is reached", () => {

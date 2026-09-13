@@ -5,6 +5,7 @@ import type {
 } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts"
 import {
   type Grouped,
+  holdsNothing,
   segmentingOver,
 } from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"
 import {
@@ -327,10 +328,6 @@ export type Judging = {
   readonly holds: Holds
   readonly heldNames: ReadonlySet<string>
   readonly refusalsAt: (folders: Iterable<string>) => readonly Judged[]
-}
-
-export function holdsNothing(grouped: Grouped, folder: string): boolean {
-  return grouped.at(folder).length === 0 && grouped.foldersIn(folder).length === 0
 }
 
 export function judgingOver(given: Reading): Judging {
