@@ -8,18 +8,14 @@ import Foundation
 // wiring that fetches those two values out of `UserDefaults`.
 //
 // The case worth holding is the tile taken off the phone. iOS goes on asking such a tile for
-// a picture, so its reading stays fresh and its reloads stay noted, and under either of those
-// as the test it was still the answer the tile drew. The list of placed kinds is the only
-// thing that says it is gone, and turning that list into feeds is what these run.
+// a picture, so its reading stays fresh, and under that as the test it was still the answer
+// the tile drew. The list of placed kinds is the only thing that says it is gone, and turning
+// that list into feeds is what these run.
 enum FreshnessChecks {
     static let now = Date(timeIntervalSince1970: 1_760_000_000)
 
     private static func ago(_ seconds: Double) -> Date {
         now.addingTimeInterval(-seconds)
-    }
-
-    private static func notes(_ each: [(String, Double)]) -> [String] {
-        each.map { ReloadLog.spelling(ReloadLog.Noted(path: $0.0, at: ago($0.1))) }
     }
 
     static func run() -> [(String, Bool, String)] {
@@ -34,14 +30,10 @@ enum FreshnessChecks {
             placed: ["ClaudeUsageWidget", "SurplusWidget"], table: table)
 
         let taken = [live: ago(300), alsoLive: ago(900), gone: ago(1_560)]
-        let kept = notes([(live, 100), (live, 3600), (alsoLive, 200), (gone, 150)])
-        let read = FreshnessReading.reading(taken: taken, kept: kept, asking: asking, now: now)
+        let read = FreshnessReading.reading(taken: taken, asking: asking, now: now)
 
-        let noneUp = FreshnessReading.reading(taken: taken, kept: kept, asking: [], now: now)
-        let noMoment = FreshnessReading.reading(taken: [:], kept: kept, asking: asking, now: now)
-        let stale = notes([(live, 100_000), (alsoLive, 100_000)])
-        let allStale = FreshnessReading.reading(
-            taken: taken, kept: stale, asking: asking, now: now)
+        let noneUp = FreshnessReading.reading(taken: taken, asking: [], now: now)
+        let noMoment = FreshnessReading.reading(taken: [:], asking: asking, now: now)
 
         return [
             (
@@ -73,26 +65,13 @@ enum FreshnessChecks {
                 read.stalestName != "categorization", String(describing: read.stalestName)
             ),
             (
-                "a reload noted for a feed no placed tile asks for is not counted",
-                read.reloads == 3, String(read.reloads)
-            ),
-            (
-                "the band runs from the feed reloaded fewest to the feed reloaded most",
-                read.fewest == 1 && read.most == 2, "\(read.fewest)-\(read.most)"
-            ),
-            (
                 "no tile placed leaves no age and no count rather than every feed let in",
-                noneUp.tiles == 0 && noneUp.stalest == nil && noneUp.reloads == 0,
-                String(noneUp.tiles)
+                noneUp.tiles == 0 && noneUp.stalest == nil, String(noneUp.tiles)
             ),
             (
                 "a feed asked for but holding no moment is no age",
                 noMoment.stalest == nil && noMoment.stalestName == nil,
                 String(describing: noMoment.stalest)
-            ),
-            (
-                "a note older than the day counts for nothing",
-                allStale.reloads == 0 && allStale.fewest == 0, String(allStale.reloads)
             ),
             (
                 "a feed named by its path is named by the last part of that path",
@@ -103,20 +82,6 @@ enum FreshnessChecks {
                 "two feeds taken at one moment are told apart rather than chosen between",
                 Freshness.stalest(["/api/b": ago(60), "/api/a": ago(60)])?.path == "/api/a",
                 String(describing: Freshness.stalest(["/api/b": ago(60), "/api/a": ago(60)])?.path)
-            ),
-            (
-                "a note the tile made for itself is counted as the tile's own",
-                ReloadLog.perPath(
-                    ReloadLog.since(notes([(FreshnessReading.OWN_PATH, 60)]), ago(3600))
-                )[FreshnessReading.OWN_PATH] == 1,
-                "the tile notes itself"
-            ),
-            (
-                "the notes kept are the last two hundred and forty rather than every one",
-                ReloadLog.noting(
-                    Array(repeating: "x|1", count: 240), ReloadLog.Noted(path: live, at: now)
-                ).count == 240,
-                "two hundred and forty"
             ),
         ]
     }

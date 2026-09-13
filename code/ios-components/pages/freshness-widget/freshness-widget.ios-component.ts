@@ -25,7 +25,7 @@ export const freshnessWidget = {
     },
     {
       invariantKind: "departure",
-      statement: "A feed no placed tile asks for is left out of the age, the count and the band.",
+      statement: "A feed no placed tile asks for is left out of the age and out of the count.",
     },
     {
       invariantKind: "departure",
@@ -58,18 +58,6 @@ export const freshnessWidget = {
     {
       invariantKind: "departure",
       statement: "The whole tile is the button asking every tile of the app to reload.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Every reload a tile is granted is noted where this tile can count it.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The tile draws the day's reload count and the band from the fewest to the most.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "The notes kept are the last two hundred and forty rather than every one.",
     },
     {
       invariantKind: "absence",

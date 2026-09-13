@@ -2,68 +2,6 @@ import AppIntents
 import SwiftUI
 import WidgetKit
 
-// WHAT THE TILES THEMSELVES ARE DOING, WHICH NOTHING ELSE ON THE PHONE WRITES DOWN.
-//
-// WidgetKit grants a tile between forty and seventy reloads a day and never says which of the
-// ones asked for it honoured. `getTimeline` running is the one moment a tile learns it was
-// granted one, so that is where the note is made. The notes are kept so the grant can be read
-// off the phone rather than guessed at.
-//
-// Every tile of one app shares the extension's defaults, so a note one tile writes is a note
-// every other tile can read. The lines are spelled rather than archived because a store this
-// small is read by eye as often as by code.
-enum ReloadLog {
-    static let KEPT = 240
-    static let KEY = "reload-log"
-    static let PARTED: Character = "|"
-
-    struct Noted: Equatable {
-        let path: String
-        let at: Date
-    }
-
-    static func spelling(_ one: Noted) -> String {
-        one.path + String(PARTED) + String(Int(one.at.timeIntervalSince1970))
-    }
-
-    static func reading(_ line: String) -> Noted? {
-        guard let parted = line.lastIndex(of: PARTED) else { return nil }
-        let said = String(line[line.index(after: parted)...])
-        guard let seconds = Double(said), seconds > 0 else { return nil }
-        return Noted(path: String(line[..<parted]), at: Date(timeIntervalSince1970: seconds))
-    }
-
-    static func noting(_ kept: [String], _ one: Noted, keeping: Int = KEPT) -> [String] {
-        let grown = kept + [spelling(one)]
-        guard grown.count > keeping else { return grown }
-        return Array(grown.suffix(keeping))
-    }
-
-    static func since(_ kept: [String], _ moment: Date) -> [Noted] {
-        kept.compactMap(reading).filter { $0.at >= moment }
-    }
-
-    static func perPath(_ noted: [Noted]) -> [String: Int] {
-        var counted: [String: Int] = [:]
-        for one in noted { counted[one.path, default: 0] += 1 }
-        return counted
-    }
-
-    static func fewestAndMost(_ counted: [String: Int]) -> (fewest: Int, most: Int)? {
-        guard let fewest = counted.values.min(), let most = counted.values.max() else { return nil }
-        return (fewest, most)
-    }
-
-    static func note(_ path: String, at moment: Date = Date()) {
-        let kept = UserDefaults.standard.stringArray(forKey: KEY) ?? []
-        UserDefaults.standard.set(noting(kept, Noted(path: path, at: moment)), forKey: KEY)
-    }
-
-    static func kept() -> [String] {
-        UserDefaults.standard.stringArray(forKey: KEY) ?? []
-    }
-}
-
 // WHICH TILE ASKS FOR A FEED, SO A FEED CAN BE SET BESIDE THE TILES THE PHONE SAYS ARE UP.
 //
 // WidgetKit names the tiles a person has placed by kind, and a reading is held under the path
@@ -132,9 +70,6 @@ struct FreshnessEntry: TimelineEntry {
     let stalest: Date?
     let stalestName: String?
     let tiles: Int
-    let reloads: Int
-    let fewest: Int
-    let most: Int
 }
 
 // A HARNESS DRAWS THIS TILE FROM A BODY, SINCE THE STORE IT READS IS THE PHONE'S OWN.
@@ -142,43 +77,34 @@ struct FreshnessReadout: Decodable {
     let stalestSecondsAgo: Double?
     let stalestName: String?
     let tiles: Int
-    let reloads: Int
-    let fewest: Int
-    let most: Int
 }
 
 enum FreshnessReading {
-    static let OVER: TimeInterval = 24 * 60 * 60
     static let OWN_PATH = "/freshness"
     static let OWN_KIND = "FreshnessWidget"
 
     // A FEED IS THE APP'S WHILE A TILE OF THE APP IS PLACED FOR IT, AND NOT A MOMENT LONGER.
     //
     // A moment written for a feed stays written after the tile that wanted it is taken off the
-    // phone, and so do the notes of that tile's reloads, because iOS goes on asking a tile that
-    // is gone for a picture and each of those fetches is real. So neither a fresh reading nor a
-    // recent note says a tile is up, and a feed nobody was looking at became the answer under
-    // both. What says a tile is up is the list of kinds WidgetKit answers with, read every time
-    // this tile is worked out and turned into feeds through the table.
+    // phone, because iOS goes on asking a tile that is gone for a picture and each of those
+    // fetches is real. So a fresh reading does not say a tile is up, and a feed nobody was
+    // looking at became the answer. What says a tile is up is the list of kinds WidgetKit
+    // answers with, read every time this tile is worked out and turned into feeds through the
+    // table.
     static func reading(
-        taken: [String: Date], kept: [String], asking: Set<String>, now: Date
+        taken: [String: Date], asking: Set<String>, now: Date
     ) -> FreshnessEntry {
-        let noted = ReloadLog.since(kept, now.addingTimeInterval(-OVER))
-            .filter { asking.contains($0.path) }
-        let band = ReloadLog.fewestAndMost(ReloadLog.perPath(noted))
         let asked = taken.filter { asking.contains($0.key) }
         let oldest = Freshness.stalest(asked)
         return FreshnessEntry(
             date: now, stalest: oldest?.at, stalestName: oldest.map { Freshness.naming($0.path) },
-            tiles: asked.count, reloads: noted.count, fewest: band?.fewest ?? 0,
-            most: band?.most ?? 0)
+            tiles: asked.count)
     }
 
     static func made(_ readout: FreshnessReadout, at now: Date) -> FreshnessEntry {
         FreshnessEntry(
             date: now, stalest: readout.stalestSecondsAgo.map { now.addingTimeInterval(-$0) },
-            stalestName: readout.stalestName, tiles: readout.tiles, reloads: readout.reloads,
-            fewest: readout.fewest, most: readout.most)
+            stalestName: readout.stalestName, tiles: readout.tiles)
     }
 }
 
@@ -200,7 +126,7 @@ struct FreshnessProvider: TimelineProvider {
     func placeholder(in context: TimelineProviderContext) -> FreshnessEntry {
         FreshnessEntry(
             date: Date(), stalest: Date().addingTimeInterval(-420),
-            stalestName: "claude-usage", tiles: 8, reloads: 46, fewest: 4, most: 9)
+            stalestName: "claude-usage", tiles: 8)
     }
 
     func getSnapshot(
@@ -217,7 +143,6 @@ struct FreshnessProvider: TimelineProvider {
         in context: TimelineProviderContext, completion: @escaping (Timeline<FreshnessEntry>) -> Void
     ) {
         let now = Date()
-        ReloadLog.note(FreshnessReading.OWN_PATH, at: now)
         FeedKinds.pair(kind: FreshnessReading.OWN_KIND, path: FreshnessReading.OWN_PATH)
         asking {
             completion(
@@ -236,8 +161,7 @@ struct FreshnessProvider: TimelineProvider {
     }
 
     private func made(at now: Date, asking: Set<String>) -> FreshnessEntry {
-        FreshnessReading.reading(
-            taken: Freshness.nowTaken(), kept: ReloadLog.kept(), asking: asking, now: now)
+        FreshnessReading.reading(taken: Freshness.nowTaken(), asking: asking, now: now)
     }
 }
 
@@ -259,9 +183,6 @@ struct FreshnessHomeView: View {
                 }
                 Spacer()
                 Text(entry.tiles == 0 ? "no feed has answered yet" : "\(entry.tiles) feeds")
-                    .font(.caption2)
-                    .foregroundStyle(.secondary)
-                Text("24h \(entry.reloads) · \(entry.fewest)–\(entry.most) each")
                     .font(.caption2)
                     .foregroundStyle(.secondary)
             }

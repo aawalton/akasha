@@ -41,10 +41,6 @@ export const smilingjennyWidgetFeed = {
     },
     {
       invariantKind: "departure",
-      statement: "A reload this provider is granted is noted before the fetch is made.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A provider states the kind its tile is placed under.",
     },
     {

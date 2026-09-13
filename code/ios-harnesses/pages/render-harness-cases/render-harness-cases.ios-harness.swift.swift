@@ -23,12 +23,10 @@ func cases(now: Date) -> [RenderCase] {
     // The name carried is the longest any feed of either app has, since a name the tile has to
     // shrink is the case worth looking at.
     let freshness = """
-        {"stalestSecondsAgo":2730,"stalestName":"attribute-stoplights","tiles":8,\
-        "reloads":46,"fewest":4,"most":9}
+        {"stalestSecondsAgo":2730,"stalestName":"attribute-stoplights","tiles":8}
         """
     let freshnessNeverRead = """
-        {"stalestSecondsAgo":null,"stalestName":null,"tiles":0,"reloads":0,\
-        "fewest":0,"most":0}
+        {"stalestSecondsAgo":null,"stalestName":null,"tiles":0}
         """
     all.append(
         contentsOf: [
