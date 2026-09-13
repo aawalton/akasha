@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHZJUAAIBihhNA1ntQtZ7ULmC1C5gtQuYLULmC1C5gtEGjtRBWeUQVnlxEEx1sAAAHN0RayABNgAAANZABE8AggDUEgBAWEAKQAIAAQAACEAADJwArAGYADkABKA4oBFDJIFgjEQAwgAAACCMwHqAgQdKAADk4y6Neo1IsSZWPJllzJs7Po06te2fQo0qdTxVrLG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mAAAyDEEgawA",
+  "buildHash": "ATQHZJUAAIBihhNA1ntQtZ7ULmC1C5gtQuYLULmC1C5gtEGjtRBWeUQVnlJhEx2xEEx1sAAAHN0RayABNgAAANZABE8AggDUEgBAWEAKQAIAAQAACEAADJwArAGYADkABKA4oBFDJIFgjEQAwgAAACCMwHqAgQdKAADk4y6Neo1IsSZWPJllzJs7Po06te2fQo0qdTxVrLG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mAAAyDEEgaw",
   "gender": 1,
   "level": 50,
   "classId": 3,
@@ -9,6 +9,7 @@
   "className": "Nightblade",
   "classIcon": "/esoui/art/icons/class/class_nightblade.dds",
   "companionRapport": {
+    "1": 898,
     "13": 1555
   },
   "quests": [
@@ -4362,6 +4363,11 @@
       "52": {
         "1": 8
       },
+      "62": {
+        "1": 8,
+        "2": 5,
+        "3": 12
+      },
       "65": {
         "1": 3,
         "2": 4,
@@ -4477,7 +4483,8 @@
       "5": 57202,
       "6": 68255,
       "7": 68256,
-      "8": 68257
+      "8": 68257,
+      "9": 68257
     },
     "9": {
       "1": 33981,
@@ -4576,19 +4583,22 @@
     },
     "18": {
       "1": 118015,
-      "2": 115272,
-      "3": 115654
+      "2": 115287,
+      "3": 115654,
+      "4": 115650,
+      "5": 115654
     },
     "19": {
       "1": 115438,
       "2": 118048,
       "3": 125486,
       "4": 126696,
-      "5": 114356,
+      "5": 115274,
       "6": 114357,
       "7": 115360,
       "8": 116363,
-      "9": 117680
+      "9": 117680,
+      "10": 117680
     },
     "21": {
       "1": 118018,
@@ -4607,28 +4617,29 @@
       "14": 115306,
       "15": 115329,
       "16": 118185,
-      "17": 115644,
-      "18": 115373,
-      "19": 115357,
+      "17": 118185,
+      "18": 115644,
+      "19": 115373,
       "20": 116407,
       "21": 118047,
-      "22": 117997,
-      "23": 117701,
+      "22": 118047,
+      "23": 117997,
       "24": 117734,
       "25": 117745,
-      "26": 117670,
-      "27": 117669,
+      "26": 117745,
+      "27": 117670,
       "28": 117672,
       "29": 117943,
       "30": 120410,
-      "31": 117942,
+      "31": 120410,
       "32": 118030,
-      "33": 115562,
+      "33": 118030,
       "34": 139291,
       "35": 139298,
       "36": 151649,
       "37": 151656,
-      "38": 165792
+      "38": 165792,
+      "39": 165792
     },
     "22": {
       "1": 115184,
@@ -4642,7 +4653,9 @@
       "9": 115687,
       "10": 117710,
       "11": 117682,
-      "12": 115591
+      "12": 117710,
+      "13": 117682,
+      "14": 115591
     },
     "23": {
       "1": 115170,
@@ -4673,7 +4686,8 @@
       "10": 116414,
       "11": 117696,
       "12": 151739,
-      "13": 182241
+      "13": 182241,
+      "14": 182241
     },
     "25": {
       "1": 116379,
@@ -13159,8 +13173,8 @@
     "carryCapacity": 60
   },
   "dailyWrits": {
-    "date": "2026-09-12",
-    "completed": 7
+    "completed": 7,
+    "date": "2026-09-13"
   },
   "dailyWritStates": {
     "completed": {
@@ -13181,7 +13195,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-12"
+    "date": "2026-09-13"
   },
   "motifKnowledge": {
     "1": {
