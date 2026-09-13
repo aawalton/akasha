@@ -3,6 +3,7 @@ import {
   type ProcLivenessEntry,
 } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.code.ts"
 import { scanProcEntries } from "akasha/agents/modules/proc-scan/proc-scan.module.code.ts"
+import { takeOpenShells } from "akasha/agents/seats/observation/seat-turn/modules/turn-working/turn-working.module.code.ts"
 import {
   adoptInheritedProc,
   InheritedPidDeadError,
@@ -13,7 +14,6 @@ import type { ChildExitRuleSource } from "akasha/agents/seats/supervisors/module
 import { LOG } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
 import type { InheritedProc } from "akasha/agents/seats/supervisors/modules/supervisor-types/supervisor-types.module.code.ts"
 import { sweepSubagentPagesOf } from "akasha/agents/subagents/modules/page/subagent-page.module.code.ts"
-import { takeOpenShells } from "akasha/seat-system/seat-observation/seat-turn/modules/turn-working/turn-working.module.code.ts"
 import { enforceMemoryGuard } from "akasha/utils/system/modules/memory-guard/memory-guard.module.code.ts"
 
 export type ProcScan = () => { ok: boolean; entries: readonly ProcLivenessEntry[] }

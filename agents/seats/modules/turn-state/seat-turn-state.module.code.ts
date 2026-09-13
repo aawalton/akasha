@@ -13,7 +13,7 @@ import {
   anyWorkingRead,
   type TurnWorking,
   workingOf,
-} from "akasha/seat-system/seat-observation/seat-turn/modules/turn-working/turn-working.module.code.ts"
+} from "akasha/agents/seats/observation/seat-turn/modules/turn-working/turn-working.module.code.ts"
 
 export const SEAT_TURN_STATES = ["working", "idle-pending", "ready", "idle", "stopped"] as const
 

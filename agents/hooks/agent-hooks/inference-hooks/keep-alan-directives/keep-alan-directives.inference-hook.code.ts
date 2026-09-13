@@ -29,6 +29,11 @@ import { readOwnTranscriptTail } from "akasha/agents/modules/io-probe/io-probe.m
 import { lastAskedIn, lastSaidIn } from "akasha/agents/modules/last-said/last-said.module.code.ts"
 import { seatIn } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import { transcriptOf } from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"
+import {
+  anyLiveShell,
+  type TurnWorking,
+  workingOf,
+} from "akasha/agents/seats/observation/seat-turn/modules/turn-working/turn-working.module.code.ts"
 import { recorded } from "akasha/checks/modules/cost/check-cost.module.code.ts"
 import {
   createSubagentReader,
@@ -39,11 +44,6 @@ import {
   valuedAt,
   valuesOfType,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import {
-  anyLiveShell,
-  type TurnWorking,
-  workingOf,
-} from "akasha/seat-system/seat-observation/seat-turn/modules/turn-working/turn-working.module.code.ts"
 
 const HOOK = "keep-alan-directives"
 

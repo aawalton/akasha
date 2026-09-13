@@ -5,14 +5,14 @@ import {
 import { seatsPresent } from "akasha/agents/seats/modules/roster/seat-roster.module.code.ts"
 import type { TurnPendingComponent } from "akasha/agents/seats/modules/turn-pending/seat-turn-pending.module.code.ts"
 import {
+  anyLiveShell,
+  workingOf,
+} from "akasha/agents/seats/observation/seat-turn/modules/turn-working/turn-working.module.code.ts"
+import {
   pagesIn,
   type SubagentPage,
 } from "akasha/agents/subagents/modules/census/subagent-census.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import {
-  anyLiveShell,
-  workingOf,
-} from "akasha/seat-system/seat-observation/seat-turn/modules/turn-working/turn-working.module.code.ts"
 
 export interface SeatPending {
   readonly seat: string
