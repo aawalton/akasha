@@ -9,10 +9,14 @@ export const savageDivinity0490Chapter482Loyalties = {
   position: 490,
   ownLength: 4062,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/385110/chapter-482-loyalties",
-  externalId: "385110",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "385110",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/385110/chapter-482-loyalties",
+    },
+  ],
   publishedAt: "2019-07-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

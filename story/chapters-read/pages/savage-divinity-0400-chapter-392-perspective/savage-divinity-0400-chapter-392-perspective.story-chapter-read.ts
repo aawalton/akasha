@@ -9,10 +9,14 @@ export const savageDivinity0400Chapter392Perspective = {
   position: 400,
   ownLength: 3449,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/301814/chapter-392-perspective",
-  externalId: "301814",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "301814",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/301814/chapter-392-perspective",
+    },
+  ],
   publishedAt: "2018-10-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

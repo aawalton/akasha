@@ -9,10 +9,14 @@ export const savageDivinity0329Chapter321Unity = {
   position: 329,
   ownLength: 3672,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/207317/chapter-321-unity",
-  externalId: "207317",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "207317",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/207317/chapter-321-unity",
+    },
+  ],
   publishedAt: "2018-04-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

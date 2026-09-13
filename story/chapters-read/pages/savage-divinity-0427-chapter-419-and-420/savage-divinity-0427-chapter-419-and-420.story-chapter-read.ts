@@ -9,10 +9,14 @@ export const savageDivinity0427Chapter419And420 = {
   position: 427,
   ownLength: 7189,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/332987/chapter-419-and-420",
-  externalId: "332987",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "332987",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/332987/chapter-419-and-420",
+    },
+  ],
   publishedAt: "2019-02-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

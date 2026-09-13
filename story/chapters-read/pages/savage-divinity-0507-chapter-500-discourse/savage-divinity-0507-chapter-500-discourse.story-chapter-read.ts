@@ -9,10 +9,14 @@ export const savageDivinity0507Chapter500Discourse = {
   position: 507,
   ownLength: 3270,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/398280/chapter-500-discourse",
-  externalId: "398280",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "398280",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/398280/chapter-500-discourse",
+    },
+  ],
   publishedAt: "2019-09-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

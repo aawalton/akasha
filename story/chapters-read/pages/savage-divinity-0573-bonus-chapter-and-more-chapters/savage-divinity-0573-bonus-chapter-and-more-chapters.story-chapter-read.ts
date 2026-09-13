@@ -9,10 +9,14 @@ export const savageDivinity0573BonusChapterAndMoreChapters = {
   position: 573,
   ownLength: 685,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/475827/bonus-chapter-and-more-chapters",
-  externalId: "475827",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "475827",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/475827/bonus-chapter-and-more-chapters",
+    },
+  ],
   publishedAt: "2020-04-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

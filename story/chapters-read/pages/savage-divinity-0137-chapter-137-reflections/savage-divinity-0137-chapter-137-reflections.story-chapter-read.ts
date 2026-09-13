@@ -9,10 +9,14 @@ export const savageDivinity0137Chapter137Reflections = {
   position: 137,
   ownLength: 3196,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/100626/chapter-137-reflections",
-  externalId: "100626",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "100626",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/100626/chapter-137-reflections",
+    },
+  ],
   publishedAt: "2016-10-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

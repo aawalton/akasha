@@ -9,10 +9,14 @@ export const savageDivinity0523Chapter516Miracles = {
   position: 523,
   ownLength: 4315,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/416239/chapter-516-miracles",
-  externalId: "416239",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "416239",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/416239/chapter-516-miracles",
+    },
+  ],
   publishedAt: "2019-10-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

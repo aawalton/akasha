@@ -9,10 +9,14 @@ export const savageDivinity0325SavageDivinityTheFinalChapterAprilFoolsJoke = {
   position: 325,
   ownLength: 2357,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/205077/savage-divinity-the-final-chapter-april-fools",
-  externalId: "205077",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "205077",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/205077/savage-divinity-the-final-chapter-april-fools",
+    },
+  ],
   publishedAt: "2018-04-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const savageDivinity0417Chapter409Respite = {
   position: 417,
   ownLength: 3514,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/325469/chapter-409-respite",
-  externalId: "325469",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "325469",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/325469/chapter-409-respite",
+    },
+  ],
   publishedAt: "2019-01-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

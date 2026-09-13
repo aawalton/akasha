@@ -9,10 +9,14 @@ export const savageDivinity0434Chapter427Bottleneck = {
   position: 434,
   ownLength: 3475,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/338623/chapter-427-bottleneck",
-  externalId: "338623",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "338623",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/338623/chapter-427-bottleneck",
+    },
+  ],
   publishedAt: "2019-03-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

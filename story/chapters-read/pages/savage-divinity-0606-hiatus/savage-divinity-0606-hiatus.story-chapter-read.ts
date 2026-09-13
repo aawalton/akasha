@@ -9,9 +9,13 @@ export const savageDivinity0606Hiatus = {
   position: 606,
   ownLength: 220,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/512952/hiatus",
-  externalId: "512952",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "512952",
+      externalLink: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/512952/hiatus",
+    },
+  ],
   publishedAt: "2020-06-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

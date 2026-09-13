@@ -9,10 +9,14 @@ export const savageDivinity0345Chapter338Consort = {
   position: 345,
   ownLength: 3558,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/217909/chapter-338-consort",
-  externalId: "217909",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "217909",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/217909/chapter-338-consort",
+    },
+  ],
   publishedAt: "2018-05-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

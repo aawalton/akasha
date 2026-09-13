@@ -9,10 +9,14 @@ export const savageDivinity0311Chapter304Dichotomy = {
   position: 311,
   ownLength: 3106,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/197278/chapter-304-dichotomy",
-  externalId: "197278",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "197278",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/197278/chapter-304-dichotomy",
+    },
+  ],
   publishedAt: "2018-02-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

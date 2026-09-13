@@ -9,10 +9,14 @@ export const savageDivinity0373HateToDoThisToYouAllButItMustBeDone = {
   position: 373,
   ownLength: 172,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/284458/hate-to-do-this-to-you-all-but-it-must-be-done",
-  externalId: "284458",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "284458",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/284458/hate-to-do-this-to-you-all-but-it-must-be-done",
+    },
+  ],
   publishedAt: "2018-08-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

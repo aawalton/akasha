@@ -9,10 +9,14 @@ export const savageDivinity0544Chapter537Paths = {
   position: 544,
   ownLength: 4811,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/445832/chapter-537-paths",
-  externalId: "445832",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "445832",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/445832/chapter-537-paths",
+    },
+  ],
   publishedAt: "2020-01-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

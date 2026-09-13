@@ -9,10 +9,14 @@ export const savageDivinity0472Chapter464Turnabout = {
   position: 472,
   ownLength: 3800,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/368244/chapter-464-turnabout",
-  externalId: "368244",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "368244",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/368244/chapter-464-turnabout",
+    },
+  ],
   publishedAt: "2019-06-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

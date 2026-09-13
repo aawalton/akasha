@@ -9,10 +9,14 @@ export const savageDivinity0587Chapter579Prosper = {
   position: 587,
   ownLength: 6423,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/492506/chapter-579-prosper",
-  externalId: "492506",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "492506",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/492506/chapter-579-prosper",
+    },
+  ],
   publishedAt: "2020-05-06",
   prose: "txt",
 } as const satisfies StoryChapterRead
