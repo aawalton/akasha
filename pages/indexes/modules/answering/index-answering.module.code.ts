@@ -25,8 +25,6 @@ import { knownIn, type Shaped } from "akasha/pages/indexes/modules/reaching/reac
 import {
   everyOfType,
   everyPath,
-  filesIn,
-  foldersIn,
   idsNaming,
   importersOf,
   type Listed,
@@ -71,8 +69,6 @@ export type Answering = {
   readonly entryShapesAt: () => ReadonlySet<string>
   readonly everyOfType: (pageTypeSlug: string) => readonly Listed[]
   readonly everyPath: () => readonly string[]
-  readonly filesIn: (folder: string) => readonly string[]
-  readonly foldersIn: (folder: string) => readonly string[]
   readonly fileKeysAt: () => ReadonlyMap<string, string | null>
   readonly filePropertiesAt: () => FilePropertiesBy
   readonly folderPropertiesAt: () => FoldersBy
@@ -136,8 +132,6 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
     entryShapesAt: heldOnce(() => entryShapesAt(reading)),
     everyOfType: (pageTypeSlug) => everyOfType(reading, pageTypeSlug),
     everyPath: heldOnce(() => everyPath(reading)),
-    filesIn: (folder) => filesIn(reading, folder),
-    foldersIn: (folder) => foldersIn(reading, folder),
     fileKeysAt: heldOnce(() => fileKeysAt(reading)),
     filePropertiesAt: heldOnce(() => filePropertiesAt(reading)),
     folderPropertiesAt: heldOnce(() => folderPropertiesAt(reading)),

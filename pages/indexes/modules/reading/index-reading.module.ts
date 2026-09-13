@@ -19,14 +19,6 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The files sitting in one folder are one directory listed.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The folders sitting in one folder are that same directory listed.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A directory listed is one page type's own.",
     },
     {

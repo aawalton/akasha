@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
-import { dirname } from "node:path"
+import { existsSync } from "node:fs"
+import { join } from "node:path"
 import { changeFileCommand } from "akasha/changes/agent/file-content/change-file/change-file.change-agent.code.ts"
 import { replayed } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
@@ -120,13 +121,6 @@ test("a passage whose fence closed with no-newline loses no second character", a
 
 type Pair = { readonly written: string; readonly beside: string }
 
-function besideThere(folder: Iterable<string>, beside: string): boolean {
-  for (const one of folder) {
-    if (one === beside) return true
-  }
-  return false
-}
-
 const REPO = worldAt(ROOT, () => null, running)
 
 function firstPair(): Pair | null {
@@ -139,7 +133,7 @@ function firstPair(): Pair | null {
         if (value === null) continue
         const beside = groupAt(listed.path, group.slug)
         if (beside === null) continue
-        if (!besideThere(index.filesIn(dirname(listed.path)), beside)) continue
+        if (!existsSync(join(ROOT, beside))) continue
         const page = { path: listed.path, value }
         try {
           return { written: fileOf(reading, page, pageTypeSlug, group.propertySlug), beside }

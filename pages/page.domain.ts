@@ -119,7 +119,7 @@ export const page = {
     },
     {
       invariantKind: "departure",
-      statement: "A page's code that lists a folder lists what the index does not hold.",
+      statement: "A page's code that lists a folder lists that folder on disk.",
     },
   ],
 } as const satisfies Domain
