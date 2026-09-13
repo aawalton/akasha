@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHaIkAAIBighNC0OtQpQbULmC1C5gtQuYLULmC1C5gtoI7eogrPaDCJjtiIhjrYAAAObAAAAAAAAAAAAAAAAAABAOoJACAMAAEgAAABgBAEIAAETgBGAMwADIACEBhQACGSQKBGIgBhIgAAUAYAOQBAA4AAACBxl0a9RmRYkyseTLLmTZ2fRp1a9s-hRpU6niqsbK2Rs8fXL0DFkhaImyN07SJUyd-oUwVUJXHWGDhskbAlSwIwDCBQxk0HECTZwULGDRw8gRJHSYAIDIMQSBr",
+  "buildHash": "ATQHaIkAAIBighNC0OtQpQbULmC1C5gtQuYLULmC1C5gtEGjtRBWe0QVntBhEx2xEQx1sAAAHNgAAAAAAAAAAAAAAAAAAgHUEgBAGAACQAAAAwAgCEAACJwAjAGYABkABCAwoABDJIFAjEQAwkQAAKAMAHIAgAcAAABA4y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWNlbI2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBw2SNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpMAEBkGIJA1gA",
   "gender": 1,
   "level": 50,
   "classId": 3,
@@ -4287,6 +4287,9 @@
       }
     },
     "2": {
+      "3": {
+        "1": 20
+      },
       "7": {
         "1": 1,
         "2": 2,
@@ -4326,7 +4329,8 @@
         "10": 10,
         "11": 11,
         "12": 12,
-        "13": 13
+        "13": 13,
+        "14": 14
       },
       "23": {
         "1": 2,
@@ -4392,7 +4396,11 @@
         "1": 1,
         "2": 5,
         "3": 8,
-        "4": 12
+        "4": 12,
+        "5": 3,
+        "6": 10,
+        "7": 7,
+        "8": 13
       },
       "65": {
         "1": 3,
@@ -4453,7 +4461,8 @@
       "6": 57143,
       "7": 68239,
       "8": 68240,
-      "9": 68241
+      "9": 68241,
+      "10": 68241
     },
     "4": {
       "1": 28373,
@@ -4662,6 +4671,9 @@
       "11": 112439,
       "12": 120436,
       "13": 120762
+    },
+    "17": {
+      "1": 151659
     },
     "18": {
       "1": 115453,
@@ -13358,8 +13370,8 @@
     "carryCapacity": 60
   },
   "dailyWrits": {
-    "completed": 7,
-    "date": "2026-09-13"
+    "date": "2026-09-13",
+    "completed": 7
   },
   "dailyWritStates": {
     "completed": {
