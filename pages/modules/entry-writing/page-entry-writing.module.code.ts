@@ -20,12 +20,6 @@ export function lineFor(value: Value): string {
   return `${JSON.stringify(value)}${NEWLINE}`
 }
 
-export function textOver(values: Iterable<Value>): string {
-  let held = ""
-  for (const one of values) held += lineFor(one)
-  return held
-}
-
 export function* linesOver(values: Iterable<Value>): Iterable<string> {
   for (const one of values) yield lineFor(one)
 }
@@ -52,10 +46,6 @@ export function textsOverLines(lines: Iterable<string>, ceiling: number): Texts 
   }
   texts.push(held)
   return { texts }
-}
-
-export function textsOver(values: Iterable<Value>, ceiling: number): Texts {
-  return textsOverLines(linesOver(values), ceiling)
 }
 
 export function partsOverLines(

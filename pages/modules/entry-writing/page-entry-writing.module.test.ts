@@ -5,8 +5,6 @@ import {
   type Part,
   partsOver,
   partsOverLines,
-  textOver,
-  textsOver,
   textsOverLines,
 } from "akasha/pages/modules/entry-writing/page-entry-writing.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
@@ -16,7 +14,7 @@ const PAGE = "akasha/one/held.model-test.ts"
 const WIDE = 8 * 1024 * 1024
 
 function texted(values: readonly Value[], ceiling: number): readonly string[] {
-  const made = textsOver(values, ceiling)
+  const made = textsOverLines(values.map(lineFor), ceiling)
   if ("refused" in made) throw new Error(made.refused)
   return made.texts
 }
@@ -34,10 +32,6 @@ test("one value is one JSON object on one line closed by a newline", () => {
 test("a row's keys are written in the order the row carries them", () => {
   expect(lineFor({ z: 1, a: 2 })).toBe('{"z":1,"a":2}\n')
   expect(lineFor({ a: 2, z: 1 })).toBe('{"a":2,"z":1}\n')
-})
-
-test("the values of a property are written one to a line in the order handed over", () => {
-  expect(textOver([{ at: 1 }, { at: 2 }])).toBe('{"at":1}\n{"at":2}\n')
 })
 
 test("a property carrying no value is written as one file holding nothing", () => {
@@ -64,7 +58,7 @@ test("a ceiling is counted in bytes rather than in characters", () => {
 })
 
 test("one value running past the ceiling alone is refused rather than divided", () => {
-  const made = textsOver([{ at: 1 }], 4)
+  const made = textsOverLines([lineFor({ at: 1 })], 4)
 
   expect("refused" in made && made.refused).toContain("no value is divided")
 })
@@ -100,7 +94,7 @@ test("what is written here page-entries reads back in the order written", () => 
 
 test("a value carrying a nested record is read back as it was written", () => {
   const value: Value = { id: "a", held: { deep: [1, 2] }, said: "x" }
-  const back = entriesIn("held.jsonl", textOver([value]))
+  const back = entriesIn("held.jsonl", lineFor(value))
 
   expect("entries" in back && back.entries).toEqual([value])
 })
