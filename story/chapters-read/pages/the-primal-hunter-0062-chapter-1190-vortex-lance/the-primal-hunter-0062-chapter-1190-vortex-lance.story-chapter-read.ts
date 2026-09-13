@@ -9,10 +9,14 @@ export const thePrimalHunter0062Chapter1190VortexLance = {
   position: 62,
   ownLength: 2861,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2714541/chapter-1190-vortex-lance",
-  externalId: "2714541",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2714541",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2714541/chapter-1190-vortex-lance",
+    },
+  ],
   publishedAt: "2025-10-29",
   ownProgress: 2861,
   completedAt: "2026-06-29T19:31:13.742Z",

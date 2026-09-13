@@ -9,10 +9,14 @@ export const thePathOfAscension0127ThePathOfAscensionChapter428 = {
   position: 127,
   ownLength: 5059,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2435228/the-path-of-ascension-chapter-428",
-  externalId: "2435228",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2435228",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2435228/the-path-of-ascension-chapter-428",
+    },
+  ],
   publishedAt: "2025-07-14",
   ownProgress: 5059,
   completedAt: "2026-06-29T19:22:14.627Z",

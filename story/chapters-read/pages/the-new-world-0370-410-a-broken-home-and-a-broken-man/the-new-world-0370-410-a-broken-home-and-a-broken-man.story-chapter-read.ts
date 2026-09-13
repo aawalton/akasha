@@ -9,10 +9,14 @@ export const theNewWorld0370410ABrokenHomeAndABrokenMan = {
   position: 370,
   ownLength: 2957,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2190948/410-a-broken-home-and-a-broken-man",
-  externalId: "2190948",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2190948",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2190948/410-a-broken-home-and-a-broken-man",
+    },
+  ],
   publishedAt: "2025-04-10",
   ownProgress: 2957,
   completedAt: "2026-06-29T21:34:00.904Z",

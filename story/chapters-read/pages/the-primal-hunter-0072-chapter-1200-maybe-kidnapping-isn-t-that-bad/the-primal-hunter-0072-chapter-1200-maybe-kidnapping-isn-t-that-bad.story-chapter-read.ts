@@ -9,10 +9,14 @@ export const thePrimalHunter0072Chapter1200MaybeKidnappingIsnTThatBad = {
   position: 72,
   ownLength: 2568,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2754958/chapter-1200-maybe-kidnapping-isnt-that-bad",
-  externalId: "2754958",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2754958",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2754958/chapter-1200-maybe-kidnapping-isnt-that-bad",
+    },
+  ],
   publishedAt: "2025-11-12",
   ownProgress: 2568,
   completedAt: "2026-06-29T19:31:32.832Z",

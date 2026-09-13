@@ -9,10 +9,14 @@ export const thePrimalHunter0042Chapter1170ItSADate = {
   position: 42,
   ownLength: 2762,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2643406/chapter-1170-its-a-date",
-  externalId: "2643406",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2643406",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2643406/chapter-1170-its-a-date",
+    },
+  ],
   publishedAt: "2025-10-01",
   ownProgress: 2762,
   completedAt: "2026-06-29T19:30:35.428Z",

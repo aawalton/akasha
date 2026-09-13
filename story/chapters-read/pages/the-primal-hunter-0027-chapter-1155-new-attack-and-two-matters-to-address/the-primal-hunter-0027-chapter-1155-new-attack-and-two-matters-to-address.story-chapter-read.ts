@@ -9,10 +9,14 @@ export const thePrimalHunter0027Chapter1155NewAttackAndTwoMattersToAddress = {
   position: 27,
   ownLength: 2840,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2533603/chapter-1155-new-attack-two-matters-to-address",
-  externalId: "2533603",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2533603",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2533603/chapter-1155-new-attack-two-matters-to-address",
+    },
+  ],
   publishedAt: "2025-08-20",
   ownProgress: 2840,
   completedAt: "2026-06-29T19:30:06.787Z",

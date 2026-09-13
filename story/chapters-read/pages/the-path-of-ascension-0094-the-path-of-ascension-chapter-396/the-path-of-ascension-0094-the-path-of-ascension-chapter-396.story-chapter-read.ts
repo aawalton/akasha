@@ -9,10 +9,14 @@ export const thePathOfAscension0094ThePathOfAscensionChapter396 = {
   position: 94,
   ownLength: 4656,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2132885/the-path-of-ascension-chapter-396",
-  externalId: "2132885",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2132885",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2132885/the-path-of-ascension-chapter-396",
+    },
+  ],
   publishedAt: "2025-03-17",
   ownProgress: 4656,
   completedAt: "2026-06-29T19:20:59.023Z",

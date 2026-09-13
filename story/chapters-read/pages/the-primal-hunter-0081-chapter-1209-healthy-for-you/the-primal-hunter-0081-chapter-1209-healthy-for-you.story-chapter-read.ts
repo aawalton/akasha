@@ -9,10 +9,14 @@ export const thePrimalHunter0081Chapter1209HealthyForYou = {
   position: 81,
   ownLength: 2706,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2792194/chapter-1209-healthy-for-you",
-  externalId: "2792194",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2792194",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2792194/chapter-1209-healthy-for-you",
+    },
+  ],
   publishedAt: "2025-11-25",
   ownProgress: 2706,
   completedAt: "2026-06-29T19:31:50.081Z",

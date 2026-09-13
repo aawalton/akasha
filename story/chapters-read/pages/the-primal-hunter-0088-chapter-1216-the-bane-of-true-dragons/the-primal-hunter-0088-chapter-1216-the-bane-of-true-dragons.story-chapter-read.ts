@@ -9,10 +9,14 @@ export const thePrimalHunter0088Chapter1216TheBaneOfTrueDragons = {
   position: 88,
   ownLength: 2889,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2833145/chapter-1216-the-bane-of-true-dragons",
-  externalId: "2833145",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2833145",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2833145/chapter-1216-the-bane-of-true-dragons",
+    },
+  ],
   publishedAt: "2025-12-09",
   ownProgress: 2889,
   completedAt: "2026-06-29T19:32:03.193Z",

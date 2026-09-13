@@ -9,10 +9,14 @@ export const thePrimalHunter0009KeepReadingListeningOnAmazonSKindleKindleUnlimit
   position: 9,
   ownLength: 191,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/849411/keep-readinglistening-on-amazons-kindle-kindle",
-  externalId: "849411",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "849411",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/849411/keep-readinglistening-on-amazons-kindle-kindle",
+    },
+  ],
   publishedAt: "2022-02-20",
   ownProgress: 191,
   completedAt: "2026-06-29T19:29:32.253Z",

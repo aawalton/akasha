@@ -9,10 +9,14 @@ export const thePrimalHunter0058Chapter1186AMomentToBeHumbled = {
   position: 58,
   ownLength: 2879,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2698991/chapter-1186-a-moment-to-be-humbled",
-  externalId: "2698991",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2698991",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2698991/chapter-1186-a-moment-to-be-humbled",
+    },
+  ],
   publishedAt: "2025-10-23",
   ownProgress: 2879,
   completedAt: "2026-06-29T19:31:06.207Z",

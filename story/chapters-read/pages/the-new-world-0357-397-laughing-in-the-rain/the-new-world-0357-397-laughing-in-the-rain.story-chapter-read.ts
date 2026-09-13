@@ -9,10 +9,14 @@ export const theNewWorld0357397LaughingInTheRain = {
   position: 357,
   ownLength: 5749,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2129158/397-laughing-in-the-rain",
-  externalId: "2129158",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2129158",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2129158/397-laughing-in-the-rain",
+    },
+  ],
   publishedAt: "2025-03-16",
   ownProgress: 5749,
   completedAt: "2026-06-29T21:33:31.958Z",

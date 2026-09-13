@@ -9,10 +9,14 @@ export const thePrimalHunter0016Chapter1144TheFutureOfTheMultiverse = {
   position: 16,
   ownLength: 3144,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2494214/chapter-1144-the-future-of-the-multiverse",
-  externalId: "2494214",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2494214",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2494214/chapter-1144-the-future-of-the-multiverse",
+    },
+  ],
   publishedAt: "2025-08-05",
   ownProgress: 3144,
   completedAt: "2026-06-29T19:29:46.026Z",

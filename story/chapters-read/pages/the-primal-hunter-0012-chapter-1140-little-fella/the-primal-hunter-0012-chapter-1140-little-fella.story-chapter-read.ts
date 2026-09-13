@@ -9,10 +9,14 @@ export const thePrimalHunter0012Chapter1140LittleFella = {
   position: 12,
   ownLength: 2794,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2478783/chapter-1140-little-fella",
-  externalId: "2478783",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2478783",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2478783/chapter-1140-little-fella",
+    },
+  ],
   publishedAt: "2025-07-30",
   ownProgress: 2794,
   completedAt: "2026-06-29T19:29:38.636Z",

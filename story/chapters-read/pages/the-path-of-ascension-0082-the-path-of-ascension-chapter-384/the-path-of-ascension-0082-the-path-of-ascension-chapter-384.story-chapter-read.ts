@@ -9,10 +9,14 @@ export const thePathOfAscension0082ThePathOfAscensionChapter384 = {
   position: 82,
   ownLength: 4975,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2040782/the-path-of-ascension-chapter-384",
-  externalId: "2040782",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2040782",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2040782/the-path-of-ascension-chapter-384",
+    },
+  ],
   publishedAt: "2025-01-31",
   ownProgress: 4975,
   completedAt: "2026-06-29T19:20:30.588Z",

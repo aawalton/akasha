@@ -9,10 +9,14 @@ export const thePrimalHunter0013Chapter1141SecretsDisclosed = {
   position: 13,
   ownLength: 2747,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2481372/chapter-1141-secrets-disclosed",
-  externalId: "2481372",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2481372",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2481372/chapter-1141-secrets-disclosed",
+    },
+  ],
   publishedAt: "2025-07-31",
   ownProgress: 2747,
   completedAt: "2026-06-29T19:29:40.558Z",

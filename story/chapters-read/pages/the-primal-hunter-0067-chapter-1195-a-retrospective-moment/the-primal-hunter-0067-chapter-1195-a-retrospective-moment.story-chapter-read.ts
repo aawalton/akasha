@@ -9,10 +9,14 @@ export const thePrimalHunter0067Chapter1195ARetrospectiveMoment = {
   position: 67,
   ownLength: 2890,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2734898/chapter-1195-a-retrospective-moment",
-  externalId: "2734898",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2734898",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2734898/chapter-1195-a-retrospective-moment",
+    },
+  ],
   publishedAt: "2025-11-05",
   ownProgress: 2890,
   completedAt: "2026-06-29T19:31:23.374Z",

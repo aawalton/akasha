@@ -9,10 +9,14 @@ export const theNewWorld0354394AMiredPast = {
   position: 354,
   ownLength: 2717,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2122828/394-a-mired-past",
-  externalId: "2122828",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2122828",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2122828/394-a-mired-past",
+    },
+  ],
   publishedAt: "2025-03-12",
   ownProgress: 2717,
   completedAt: "2026-06-29T21:33:25.564Z",

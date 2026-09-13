@@ -9,10 +9,14 @@ export const thePrimalHunter0096Chapter1224DistractionConsolidationAndEnlightenm
   position: 96,
   ownLength: 2717,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2862024/chapter-1224-distraction-consolidation-enlightenment",
-  externalId: "2862024",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2862024",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2862024/chapter-1224-distraction-consolidation-enlightenment",
+    },
+  ],
   publishedAt: "2025-12-19",
   ownProgress: 2717,
   completedAt: "2026-06-29T19:32:18.323Z",

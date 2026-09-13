@@ -9,10 +9,14 @@ export const theNewWorld0428468ThePastPresentAndFuture = {
   position: 428,
   ownLength: 6395,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2567322/468-the-past-present-and-future",
-  externalId: "2567322",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2567322",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2567322/468-the-past-present-and-future",
+    },
+  ],
   publishedAt: "2025-09-02",
   ownProgress: 6395,
   completedAt: "2026-06-29T21:36:03.205Z",

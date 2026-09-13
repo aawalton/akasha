@@ -9,10 +9,14 @@ export const thePrimalHunter0046Chapter1174SomethingWorthCelebrating = {
   position: 46,
   ownLength: 3012,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2658437/chapter-1174-something-worth-celebrating",
-  externalId: "2658437",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2658437",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2658437/chapter-1174-something-worth-celebrating",
+    },
+  ],
   publishedAt: "2025-10-07",
   ownProgress: 3012,
   completedAt: "2026-06-29T19:30:43.142Z",

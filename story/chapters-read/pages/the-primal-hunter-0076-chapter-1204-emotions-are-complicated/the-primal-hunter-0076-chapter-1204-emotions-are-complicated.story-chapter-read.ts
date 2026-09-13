@@ -9,10 +9,14 @@ export const thePrimalHunter0076Chapter1204EmotionsAreComplicated = {
   position: 76,
   ownLength: 2805,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2772181/chapter-1204-emotions-are-complicated",
-  externalId: "2772181",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2772181",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2772181/chapter-1204-emotions-are-complicated",
+    },
+  ],
   publishedAt: "2025-11-18",
   ownProgress: 2805,
   completedAt: "2026-06-29T19:31:40.484Z",

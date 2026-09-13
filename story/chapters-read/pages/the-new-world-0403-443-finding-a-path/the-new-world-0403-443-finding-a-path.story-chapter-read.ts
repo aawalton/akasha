@@ -9,10 +9,14 @@ export const theNewWorld0403443FindingAPath = {
   position: 403,
   ownLength: 7697,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2388054/443-finding-a-path",
-  externalId: "2388054",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2388054",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2388054/443-finding-a-path",
+    },
+  ],
   publishedAt: "2025-06-26",
   ownProgress: 7697,
   completedAt: "2026-06-29T21:35:12.276Z",

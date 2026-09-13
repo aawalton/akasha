@@ -9,10 +9,14 @@ export const thePrimalHunter0036Chapter1164Relationship = {
   position: 36,
   ownLength: 3052,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2622837/chapter-1164-relationship",
-  externalId: "2622837",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2622837",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2622837/chapter-1164-relationship",
+    },
+  ],
   publishedAt: "2025-09-23",
   ownProgress: 3052,
   completedAt: "2026-06-29T19:30:24.134Z",

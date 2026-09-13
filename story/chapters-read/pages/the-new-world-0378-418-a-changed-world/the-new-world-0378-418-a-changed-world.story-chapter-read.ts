@@ -9,10 +9,14 @@ export const theNewWorld0378418AChangedWorld = {
   position: 378,
   ownLength: 3930,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2244728/418-a-changed-world",
-  externalId: "2244728",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2244728",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2244728/418-a-changed-world",
+    },
+  ],
   publishedAt: "2025-04-30",
   ownProgress: 3930,
   completedAt: "2026-06-29T21:34:17.813Z",

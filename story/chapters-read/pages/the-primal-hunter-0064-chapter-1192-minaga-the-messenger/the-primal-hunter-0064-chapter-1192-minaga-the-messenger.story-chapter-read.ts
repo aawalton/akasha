@@ -9,10 +9,14 @@ export const thePrimalHunter0064Chapter1192MinagaTheMessenger = {
   position: 64,
   ownLength: 2854,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2720197/chapter-1192-minaga-the-messenger",
-  externalId: "2720197",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2720197",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2720197/chapter-1192-minaga-the-messenger",
+    },
+  ],
   publishedAt: "2025-10-31",
   ownProgress: 2854,
   completedAt: "2026-06-29T19:31:17.784Z",

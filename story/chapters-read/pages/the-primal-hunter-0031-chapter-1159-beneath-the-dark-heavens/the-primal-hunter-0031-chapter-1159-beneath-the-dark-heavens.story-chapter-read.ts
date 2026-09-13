@@ -9,10 +9,14 @@ export const thePrimalHunter0031Chapter1159BeneathTheDarkHeavens = {
   position: 31,
   ownLength: 2759,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2604969/chapter-1159-beneath-the-dark-heavens",
-  externalId: "2604969",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2604969",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2604969/chapter-1159-beneath-the-dark-heavens",
+    },
+  ],
   publishedAt: "2025-09-16",
   ownProgress: 2759,
   completedAt: "2026-06-29T19:30:14.507Z",

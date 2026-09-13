@@ -9,10 +9,14 @@ export const thePrimalHunter0051Chapter1179ARitualPerformedInHaste = {
   position: 51,
   ownLength: 2948,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2676083/chapter-1179-a-ritual-performed-in-haste",
-  externalId: "2676083",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2676083",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2676083/chapter-1179-a-ritual-performed-in-haste",
+    },
+  ],
   publishedAt: "2025-10-14",
   ownProgress: 2948,
   completedAt: "2026-06-29T19:30:52.750Z",

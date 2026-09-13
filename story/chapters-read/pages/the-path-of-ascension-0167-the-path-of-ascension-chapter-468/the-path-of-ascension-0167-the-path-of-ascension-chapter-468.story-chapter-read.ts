@@ -9,10 +9,14 @@ export const thePathOfAscension0167ThePathOfAscensionChapter468 = {
   position: 167,
   ownLength: 8307,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2906201/the-path-of-ascension-chapter-468",
-  externalId: "2906201",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2906201",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2906201/the-path-of-ascension-chapter-468",
+    },
+  ],
   publishedAt: "2026-01-02",
   ownProgress: 8307,
   completedAt: "2026-06-29T19:33:29.985Z",

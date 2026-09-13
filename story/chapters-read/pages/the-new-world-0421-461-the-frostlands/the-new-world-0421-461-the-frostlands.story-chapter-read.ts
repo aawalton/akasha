@@ -9,10 +9,14 @@ export const theNewWorld0421461TheFrostlands = {
   position: 421,
   ownLength: 4668,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2508228/461-the-frostlands",
-  externalId: "2508228",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2508228",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2508228/461-the-frostlands",
+    },
+  ],
   publishedAt: "2025-08-11",
   ownProgress: 4668,
   completedAt: "2026-06-29T21:35:49.110Z",

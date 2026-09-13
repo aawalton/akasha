@@ -9,10 +9,14 @@ export const thePrimalHunter0037Chapter1165ASuccessfulDiplomaticMission = {
   position: 37,
   ownLength: 2898,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2625487/chapter-1165-a-successful-diplomatic-mission",
-  externalId: "2625487",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2625487",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2625487/chapter-1165-a-successful-diplomatic-mission",
+    },
+  ],
   publishedAt: "2025-09-24",
   ownProgress: 2898,
   completedAt: "2026-06-29T19:30:26.077Z",

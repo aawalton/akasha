@@ -9,10 +9,14 @@ export const thePrimalHunter0057Chapter1185IdealLearningEnvironment = {
   position: 57,
   ownLength: 2778,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2696448/chapter-1185-ideal-learning-environment",
-  externalId: "2696448",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2696448",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2696448/chapter-1185-ideal-learning-environment",
+    },
+  ],
   publishedAt: "2025-10-22",
   ownProgress: 2778,
   completedAt: "2026-06-29T19:31:04.288Z",

@@ -9,10 +9,14 @@ export const thePrimalHunter0082Chapter1210TheCalmBeforeTheLesson = {
   position: 82,
   ownLength: 2840,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2795110/chapter-1210-the-calm-before-the-lesson",
-  externalId: "2795110",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2795110",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2795110/chapter-1210-the-calm-before-the-lesson",
+    },
+  ],
   publishedAt: "2025-11-26",
   ownProgress: 2840,
   completedAt: "2026-06-29T19:31:51.863Z",

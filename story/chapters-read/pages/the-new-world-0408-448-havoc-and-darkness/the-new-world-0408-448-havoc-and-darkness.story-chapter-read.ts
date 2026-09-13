@@ -9,10 +9,14 @@ export const theNewWorld0408448HavocAndDarkness = {
   position: 408,
   ownLength: 5036,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2420121/448-havoc-and-darkness",
-  externalId: "2420121",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2420121",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2420121/448-havoc-and-darkness",
+    },
+  ],
   publishedAt: "2025-07-09",
   ownProgress: 5036,
   completedAt: "2026-06-29T21:35:23.391Z",

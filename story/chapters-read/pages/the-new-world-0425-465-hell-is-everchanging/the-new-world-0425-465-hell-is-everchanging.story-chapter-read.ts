@@ -9,10 +9,14 @@ export const theNewWorld0425465HellIsEverchanging = {
   position: 425,
   ownLength: 5823,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2532216/465-hell-is-everchanging",
-  externalId: "2532216",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2532216",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2532216/465-hell-is-everchanging",
+    },
+  ],
   publishedAt: "2025-08-20",
   ownProgress: 5823,
   completedAt: "2026-06-29T21:35:56.861Z",

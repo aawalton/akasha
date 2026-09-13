@@ -9,10 +9,14 @@ export const thePrimalHunter0032Chapter1160PerplexingPlotsAcrossTheMilkyWay = {
   position: 32,
   ownLength: 2630,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2607664/chapter-1160-perplexing-plots-across-the-milky",
-  externalId: "2607664",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2607664",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2607664/chapter-1160-perplexing-plots-across-the-milky",
+    },
+  ],
   publishedAt: "2025-09-17",
   ownProgress: 2630,
   completedAt: "2026-06-29T19:30:16.409Z",

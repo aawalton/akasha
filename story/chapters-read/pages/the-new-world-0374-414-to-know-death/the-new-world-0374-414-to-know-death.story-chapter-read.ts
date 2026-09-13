@@ -9,10 +9,14 @@ export const theNewWorld0374414ToKnowDeath = {
   position: 374,
   ownLength: 5693,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2216123/414-to-know-death",
-  externalId: "2216123",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2216123",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2216123/414-to-know-death",
+    },
+  ],
   publishedAt: "2025-04-20",
   ownProgress: 5693,
   completedAt: "2026-06-29T21:34:09.389Z",

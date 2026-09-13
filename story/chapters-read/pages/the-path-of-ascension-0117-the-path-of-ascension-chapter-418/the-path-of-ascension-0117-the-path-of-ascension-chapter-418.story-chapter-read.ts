@@ -9,10 +9,14 @@ export const thePathOfAscension0117ThePathOfAscensionChapter418 = {
   position: 117,
   ownLength: 5295,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2343309/the-path-of-ascension-chapter-418",
-  externalId: "2343309",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2343309",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2343309/the-path-of-ascension-chapter-418",
+    },
+  ],
   publishedAt: "2025-06-09",
   ownProgress: 5295,
   completedAt: "2026-06-29T19:21:51.992Z",

@@ -9,10 +9,14 @@ export const thePrimalHunter0017Chapter1145TwoSmallSprouts = {
   position: 17,
   ownLength: 3183,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2496970/chapter-1145-two-small-sprouts",
-  externalId: "2496970",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2496970",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2496970/chapter-1145-two-small-sprouts",
+    },
+  ],
   publishedAt: "2025-08-06",
   ownProgress: 3183,
   completedAt: "2026-06-29T19:29:47.937Z",

@@ -9,10 +9,14 @@ export const theNewWorld0426466FiramniaTheImplacable = {
   position: 426,
   ownLength: 5947,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2540476/466-firamnia-the-implacable",
-  externalId: "2540476",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2540476",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2540476/466-firamnia-the-implacable",
+    },
+  ],
   publishedAt: "2025-08-23",
   ownProgress: 5947,
   completedAt: "2026-06-29T21:35:58.786Z",

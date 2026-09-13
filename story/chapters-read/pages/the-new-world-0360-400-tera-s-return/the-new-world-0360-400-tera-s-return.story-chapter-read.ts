@@ -9,10 +9,14 @@ export const theNewWorld0360400TeraSReturn = {
   position: 360,
   ownLength: 4270,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2135435/400-teras-return",
-  externalId: "2135435",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2135435",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2135435/400-teras-return",
+    },
+  ],
   publishedAt: "2025-03-18",
   ownProgress: 4270,
   completedAt: "2026-06-29T21:33:38.241Z",

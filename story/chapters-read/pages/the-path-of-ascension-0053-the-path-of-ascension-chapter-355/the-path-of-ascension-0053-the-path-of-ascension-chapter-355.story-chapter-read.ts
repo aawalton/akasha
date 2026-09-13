@@ -9,10 +9,14 @@ export const thePathOfAscension0053ThePathOfAscensionChapter355 = {
   position: 53,
   ownLength: 6489,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1834969/the-path-of-ascension-chapter-355",
-  externalId: "1834969",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1834969",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1834969/the-path-of-ascension-chapter-355",
+    },
+  ],
   publishedAt: "2024-10-04",
   ownProgress: 6489,
   completedAt: "2026-06-29T19:19:23.541Z",

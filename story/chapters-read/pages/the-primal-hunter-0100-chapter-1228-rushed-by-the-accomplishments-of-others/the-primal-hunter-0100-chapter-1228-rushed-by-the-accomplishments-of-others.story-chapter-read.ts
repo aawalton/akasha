@@ -9,10 +9,14 @@ export const thePrimalHunter0100Chapter1228RushedByTheAccomplishmentsOfOthers = 
   position: 100,
   ownLength: 2871,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2920550/chapter-1228-rushed-by-the-accomplishments-of",
-  externalId: "2920550",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2920550",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2920550/chapter-1228-rushed-by-the-accomplishments-of",
+    },
+  ],
   publishedAt: "2026-01-07",
   ownProgress: 2871,
   completedAt: "2026-06-29T19:32:25.974Z",

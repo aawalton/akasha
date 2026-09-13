@@ -9,10 +9,14 @@ export const thePrimalHunter0069Chapter1197AnUnaVoidAbleGamble = {
   position: 69,
   ownLength: 2730,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2740651/chapter-1197-an-una-void-able-gamble",
-  externalId: "2740651",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2740651",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2740651/chapter-1197-an-una-void-able-gamble",
+    },
+  ],
   publishedAt: "2025-11-07",
   ownProgress: 2730,
   completedAt: "2026-06-29T19:31:27.190Z",

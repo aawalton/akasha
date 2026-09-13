@@ -9,10 +9,14 @@ export const thePrimalHunter0060Chapter1188APeculiarVisitor = {
   position: 60,
   ownLength: 2848,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2709174/chapter-1188-a-peculiar-visitor",
-  externalId: "2709174",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2709174",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2709174/chapter-1188-a-peculiar-visitor",
+    },
+  ],
   publishedAt: "2025-10-27",
   ownProgress: 2848,
   completedAt: "2026-06-29T19:31:09.910Z",

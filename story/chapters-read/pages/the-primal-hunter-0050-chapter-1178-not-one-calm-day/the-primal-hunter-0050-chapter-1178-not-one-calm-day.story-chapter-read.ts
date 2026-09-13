@@ -9,10 +9,14 @@ export const thePrimalHunter0050Chapter1178NotOneCalmDay = {
   position: 50,
   ownLength: 2799,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2673276/chapter-1178-not-one-calm-day",
-  externalId: "2673276",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2673276",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2673276/chapter-1178-not-one-calm-day",
+    },
+  ],
   publishedAt: "2025-10-13",
   ownProgress: 2799,
   completedAt: "2026-06-29T19:30:50.827Z",

@@ -9,10 +9,14 @@ export const thePrimalHunter0001Chapter1AnotherMondayMorning = {
   position: 1,
   ownLength: 1630,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/557051/chapter-1-another-monday-morning",
-  externalId: "557051",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "557051",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/557051/chapter-1-another-monday-morning",
+    },
+  ],
   publishedAt: "2020-09-19",
   ownProgress: 1630,
   completedAt: "2026-06-29T19:29:13.997Z",

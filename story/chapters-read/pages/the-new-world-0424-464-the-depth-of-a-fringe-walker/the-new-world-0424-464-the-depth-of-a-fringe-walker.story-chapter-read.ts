@@ -9,10 +9,14 @@ export const theNewWorld0424464TheDepthOfAFringeWalker = {
   position: 424,
   ownLength: 7815,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2526556/464-the-depth-of-a-fringe-walker",
-  externalId: "2526556",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2526556",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2526556/464-the-depth-of-a-fringe-walker",
+    },
+  ],
   publishedAt: "2025-08-18",
   ownProgress: 7815,
   completedAt: "2026-06-29T21:35:54.725Z",

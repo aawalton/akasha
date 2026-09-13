@@ -9,10 +9,14 @@ export const thePrimalHunter0010WebtoonIsOut = {
   position: 10,
   ownLength: 428,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/1446981/webtoon-is-out",
-  externalId: "1446981",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1446981",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/1446981/webtoon-is-out",
+    },
+  ],
   publishedAt: "2023-12-18",
   ownProgress: 428,
   completedAt: "2026-06-29T19:29:34.780Z",

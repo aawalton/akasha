@@ -9,10 +9,14 @@ export const thePrimalHunter0021Chapter1149ABurstOfVenom = {
   position: 21,
   ownLength: 2922,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2512400/chapter-1149-a-burst-of-venom",
-  externalId: "2512400",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2512400",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2512400/chapter-1149-a-burst-of-venom",
+    },
+  ],
   publishedAt: "2025-08-12",
   ownProgress: 2922,
   completedAt: "2026-06-29T19:29:55.216Z",

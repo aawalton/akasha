@@ -9,10 +9,14 @@ export const theNewWorld0418458RebirthAndOasis = {
   position: 418,
   ownLength: 2367,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2488090/458-rebirth-and-oasis",
-  externalId: "2488090",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2488090",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2488090/458-rebirth-and-oasis",
+    },
+  ],
   publishedAt: "2025-08-03",
   ownProgress: 2367,
   completedAt: "2026-06-29T21:35:43.388Z",

@@ -9,10 +9,14 @@ export const theNewWorld0380420TheShatteredSpires = {
   position: 380,
   ownLength: 4264,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2253318/420-the-shattered-spires",
-  externalId: "2253318",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2253318",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2253318/420-the-shattered-spires",
+    },
+  ],
   publishedAt: "2025-05-04",
   ownProgress: 4264,
   completedAt: "2026-06-29T21:34:21.833Z",

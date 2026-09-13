@@ -9,10 +9,14 @@ export const theNewWorld0367407OldTies = {
   position: 367,
   ownLength: 2424,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2172156/407-old-ties",
-  externalId: "2172156",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2172156",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2172156/407-old-ties",
+    },
+  ],
   publishedAt: "2025-04-03",
   ownProgress: 2424,
   completedAt: "2026-06-29T21:33:54.595Z",

@@ -9,9 +9,14 @@ export const theNewWorld0423463Stasis = {
   position: 423,
   ownLength: 4852,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2519203/463-stasis",
-  externalId: "2519203",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2519203",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2519203/463-stasis",
+    },
+  ],
   publishedAt: "2025-08-15",
   ownProgress: 4852,
   completedAt: "2026-06-29T21:35:52.831Z",

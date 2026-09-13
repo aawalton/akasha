@@ -9,10 +9,14 @@ export const thePathOfAscension0093ThePathOfAscensionChapter395 = {
   position: 93,
   ownLength: 5466,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2126665/the-path-of-ascension-chapter-395",
-  externalId: "2126665",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2126665",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2126665/the-path-of-ascension-chapter-395",
+    },
+  ],
   publishedAt: "2025-03-14",
   ownProgress: 5466,
   completedAt: "2026-06-29T19:20:56.526Z",

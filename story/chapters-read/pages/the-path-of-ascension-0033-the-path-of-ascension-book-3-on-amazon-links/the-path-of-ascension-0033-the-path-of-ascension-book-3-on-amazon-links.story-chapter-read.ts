@@ -9,10 +9,14 @@ export const thePathOfAscension0033ThePathOfAscensionBook3OnAmazonLinks = {
   position: 33,
   ownLength: 197,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1215967/the-path-of-ascension-book-3-on-amazon-links",
-  externalId: "1215967",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1215967",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1215967/the-path-of-ascension-book-3-on-amazon-links",
+    },
+  ],
   publishedAt: "2023-05-17",
   ownProgress: 197,
   completedAt: "2026-06-29T19:18:36.685Z",

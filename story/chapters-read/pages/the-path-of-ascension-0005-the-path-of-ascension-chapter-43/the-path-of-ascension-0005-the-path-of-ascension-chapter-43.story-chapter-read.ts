@@ -9,10 +9,14 @@ export const thePathOfAscension0005ThePathOfAscensionChapter43 = {
   position: 5,
   ownLength: 3380,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/705641/the-path-of-ascension-chapter-43",
-  externalId: "705641",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "705641",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/705641/the-path-of-ascension-chapter-43",
+    },
+  ],
   publishedAt: "2021-06-25",
   ownProgress: 3380,
   completedAt: "2026-06-29T19:17:34.490Z",

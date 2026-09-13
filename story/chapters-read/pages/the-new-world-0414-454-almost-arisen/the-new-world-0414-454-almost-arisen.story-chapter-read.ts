@@ -9,10 +9,14 @@ export const theNewWorld0414454AlmostArisen = {
   position: 414,
   ownLength: 3154,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2464165/454-almost-arisen",
-  externalId: "2464165",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2464165",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2464165/454-almost-arisen",
+    },
+  ],
   publishedAt: "2025-07-25",
   ownProgress: 3154,
   completedAt: "2026-06-29T21:35:35.580Z",

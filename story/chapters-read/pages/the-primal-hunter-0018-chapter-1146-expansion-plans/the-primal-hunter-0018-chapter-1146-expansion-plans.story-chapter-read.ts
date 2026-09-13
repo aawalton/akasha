@@ -9,10 +9,14 @@ export const thePrimalHunter0018Chapter1146ExpansionPlans = {
   position: 18,
   ownLength: 2657,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2499640/chapter-1146-expansion-plans",
-  externalId: "2499640",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2499640",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2499640/chapter-1146-expansion-plans",
+    },
+  ],
   publishedAt: "2025-08-07",
   ownProgress: 2657,
   completedAt: "2026-06-29T19:29:49.866Z",

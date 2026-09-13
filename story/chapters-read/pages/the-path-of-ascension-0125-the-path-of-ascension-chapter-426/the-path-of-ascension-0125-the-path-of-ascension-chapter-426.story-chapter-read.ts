@@ -9,10 +9,14 @@ export const thePathOfAscension0125ThePathOfAscensionChapter426 = {
   position: 125,
   ownLength: 6864,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2416852/the-path-of-ascension-chapter-426",
-  externalId: "2416852",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2416852",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2416852/the-path-of-ascension-chapter-426",
+    },
+  ],
   publishedAt: "2025-07-07",
   ownProgress: 6864,
   completedAt: "2026-06-29T19:22:09.917Z",

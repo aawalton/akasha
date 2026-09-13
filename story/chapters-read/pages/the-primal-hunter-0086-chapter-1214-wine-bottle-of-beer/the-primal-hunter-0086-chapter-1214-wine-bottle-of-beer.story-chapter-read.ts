@@ -9,10 +9,14 @@ export const thePrimalHunter0086Chapter1214WineBottleOfBeer = {
   position: 86,
   ownLength: 2675,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2821592/chapter-1214-wine-bottle-of-beer",
-  externalId: "2821592",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2821592",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2821592/chapter-1214-wine-bottle-of-beer",
+    },
+  ],
   publishedAt: "2025-12-05",
   ownProgress: 2675,
   completedAt: "2026-06-29T19:31:59.332Z",

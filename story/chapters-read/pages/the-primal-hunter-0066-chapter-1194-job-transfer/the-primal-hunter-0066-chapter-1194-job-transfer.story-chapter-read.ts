@@ -9,10 +9,14 @@ export const thePrimalHunter0066Chapter1194JobTransfer = {
   position: 66,
   ownLength: 2665,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2731997/chapter-1194-job-transfer",
-  externalId: "2731997",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2731997",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2731997/chapter-1194-job-transfer",
+    },
+  ],
   publishedAt: "2025-11-04",
   ownProgress: 2665,
   completedAt: "2026-06-29T19:31:21.477Z",

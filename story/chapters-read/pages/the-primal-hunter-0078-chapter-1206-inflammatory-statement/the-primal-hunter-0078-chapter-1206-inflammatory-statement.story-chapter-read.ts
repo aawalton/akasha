@@ -9,10 +9,14 @@ export const thePrimalHunter0078Chapter1206InflammatoryStatement = {
   position: 78,
   ownLength: 2813,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2777816/chapter-1206-inflammatory-statement",
-  externalId: "2777816",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2777816",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2777816/chapter-1206-inflammatory-statement",
+    },
+  ],
   publishedAt: "2025-11-20",
   ownProgress: 2813,
   completedAt: "2026-06-29T19:31:44.248Z",

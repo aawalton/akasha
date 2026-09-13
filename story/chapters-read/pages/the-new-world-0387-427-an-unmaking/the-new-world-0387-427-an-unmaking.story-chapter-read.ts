@@ -9,10 +9,14 @@ export const theNewWorld0387427AnUnmaking = {
   position: 387,
   ownLength: 2641,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2294373/427-an-unmaking",
-  externalId: "2294373",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2294373",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2294373/427-an-unmaking",
+    },
+  ],
   publishedAt: "2025-05-21",
   ownProgress: 2641,
   completedAt: "2026-06-29T21:34:37.265Z",

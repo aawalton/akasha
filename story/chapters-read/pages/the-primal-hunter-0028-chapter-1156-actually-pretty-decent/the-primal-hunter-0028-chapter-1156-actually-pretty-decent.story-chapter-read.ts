@@ -9,10 +9,14 @@ export const thePrimalHunter0028Chapter1156ActuallyPrettyDecent = {
   position: 28,
   ownLength: 2629,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2536165/chapter-1156-actually-pretty-decent",
-  externalId: "2536165",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2536165",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2536165/chapter-1156-actually-pretty-decent",
+    },
+  ],
   publishedAt: "2025-08-21",
   ownProgress: 2629,
   completedAt: "2026-06-29T19:30:08.719Z",

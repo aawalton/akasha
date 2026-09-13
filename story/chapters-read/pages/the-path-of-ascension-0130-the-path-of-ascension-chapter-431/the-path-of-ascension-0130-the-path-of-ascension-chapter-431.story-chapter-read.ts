@@ -9,10 +9,14 @@ export const thePathOfAscension0130ThePathOfAscensionChapter431 = {
   position: 130,
   ownLength: 5291,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2466148/the-path-of-ascension-chapter-431",
-  externalId: "2466148",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2466148",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2466148/the-path-of-ascension-chapter-431",
+    },
+  ],
   publishedAt: "2025-07-25",
   ownProgress: 5291,
   completedAt: "2026-06-29T19:33:53.111Z",

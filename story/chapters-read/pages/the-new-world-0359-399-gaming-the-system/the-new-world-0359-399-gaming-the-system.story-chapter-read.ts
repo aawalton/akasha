@@ -9,10 +9,14 @@ export const theNewWorld0359399GamingTheSystem = {
   position: 359,
   ownLength: 3236,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2133331/399-gaming-the-system",
-  externalId: "2133331",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2133331",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2133331/399-gaming-the-system",
+    },
+  ],
   publishedAt: "2025-03-17",
   ownProgress: 3236,
   completedAt: "2026-06-29T21:33:36.243Z",

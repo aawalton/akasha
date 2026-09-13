@@ -9,10 +9,14 @@ export const theNewWorld0392432ASweepingReform = {
   position: 392,
   ownLength: 3902,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2321133/432-a-sweeping-reform",
-  externalId: "2321133",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2321133",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2321133/432-a-sweeping-reform",
+    },
+  ],
   publishedAt: "2025-06-01",
   ownProgress: 3902,
   completedAt: "2026-06-29T21:34:48.676Z",

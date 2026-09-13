@@ -9,10 +9,14 @@ export const thePrimalHunter0091Chapter1219Gate = {
   position: 91,
   ownLength: 3086,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2841961/chapter-1219-gate",
-  externalId: "2841961",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2841961",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2841961/chapter-1219-gate",
+    },
+  ],
   publishedAt: "2025-12-12",
   ownProgress: 3086,
   completedAt: "2026-06-29T19:32:09.002Z",

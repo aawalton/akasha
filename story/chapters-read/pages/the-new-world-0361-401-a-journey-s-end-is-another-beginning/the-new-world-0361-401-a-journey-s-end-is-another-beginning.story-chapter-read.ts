@@ -9,10 +9,14 @@ export const theNewWorld0361401AJourneySEndIsAnotherBeginning = {
   position: 361,
   ownLength: 4664,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2140397/401-a-journeys-end-is-another-beginning",
-  externalId: "2140397",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2140397",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2140397/401-a-journeys-end-is-another-beginning",
+    },
+  ],
   publishedAt: "2025-03-21",
   ownProgress: 4664,
   completedAt: "2026-06-29T21:33:40.371Z",

@@ -9,10 +9,14 @@ export const thePathOfAscension0090ThePathOfAscensionChapter392 = {
   position: 90,
   ownLength: 4689,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2095558/the-path-of-ascension-chapter-392",
-  externalId: "2095558",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2095558",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2095558/the-path-of-ascension-chapter-392",
+    },
+  ],
   publishedAt: "2025-02-28",
   ownProgress: 4689,
   completedAt: "2026-06-29T19:20:49.476Z",

@@ -9,10 +9,14 @@ export const theNewWorld0394434ANewHome = {
   position: 394,
   ownLength: 5685,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2334217/434-a-new-home",
-  externalId: "2334217",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2334217",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2334217/434-a-new-home",
+    },
+  ],
   publishedAt: "2025-06-06",
   ownProgress: 5685,
   completedAt: "2026-06-29T21:34:53.014Z",

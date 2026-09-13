@@ -9,10 +9,14 @@ export const theNewWorld0411451AFrozenSea = {
   position: 411,
   ownLength: 3094,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2438625/451-a-frozen-sea",
-  externalId: "2438625",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2438625",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2438625/451-a-frozen-sea",
+    },
+  ],
   publishedAt: "2025-07-16",
   ownProgress: 3094,
   completedAt: "2026-06-29T21:35:29.565Z",

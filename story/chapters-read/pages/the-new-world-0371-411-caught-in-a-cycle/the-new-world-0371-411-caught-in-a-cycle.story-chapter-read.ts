@@ -9,10 +9,14 @@ export const theNewWorld0371411CaughtInACycle = {
   position: 371,
   ownLength: 3265,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2197600/411-caught-in-a-cycle",
-  externalId: "2197600",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2197600",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2197600/411-caught-in-a-cycle",
+    },
+  ],
   publishedAt: "2025-04-13",
   ownProgress: 3265,
   completedAt: "2026-06-29T21:34:03.009Z",

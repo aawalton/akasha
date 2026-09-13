@@ -9,10 +9,14 @@ export const theNewWorld0388428TrueOblivion = {
   position: 388,
   ownLength: 3230,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2299034/428-true-oblivion",
-  externalId: "2299034",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2299034",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2299034/428-true-oblivion",
+    },
+  ],
   publishedAt: "2025-05-23",
   ownProgress: 3230,
   completedAt: "2026-06-29T21:34:39.234Z",

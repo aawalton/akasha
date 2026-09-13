@@ -9,10 +9,14 @@ export const theNewWorld0396436ToForgeForAnEmpire = {
   position: 396,
   ownLength: 5078,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2346751/436-to-forge-for-an-empire",
-  externalId: "2346751",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2346751",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2346751/436-to-forge-for-an-empire",
+    },
+  ],
   publishedAt: "2025-06-11",
   ownProgress: 5078,
   completedAt: "2026-06-29T21:34:57.353Z",

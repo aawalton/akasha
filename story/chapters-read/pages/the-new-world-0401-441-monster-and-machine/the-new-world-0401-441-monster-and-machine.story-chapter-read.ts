@@ -9,10 +9,14 @@ export const theNewWorld0401441MonsterAndMachine = {
   position: 401,
   ownLength: 4128,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2375491/441-monster-and-machine",
-  externalId: "2375491",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2375491",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2375491/441-monster-and-machine",
+    },
+  ],
   publishedAt: "2025-06-22",
   ownProgress: 4128,
   completedAt: "2026-06-29T21:35:07.884Z",

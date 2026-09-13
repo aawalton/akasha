@@ -9,10 +9,14 @@ export const thePrimalHunter0090Chapter1218AMarchThroughNothingness = {
   position: 90,
   ownLength: 3206,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2838357/chapter-1218-a-march-through-nothingness",
-  externalId: "2838357",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2838357",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2838357/chapter-1218-a-march-through-nothingness",
+    },
+  ],
   publishedAt: "2025-12-11",
   ownProgress: 3206,
   completedAt: "2026-06-29T19:32:07.047Z",

@@ -9,10 +9,14 @@ export const thePrimalHunter0061Chapter1189DivineAndDangerousOddballs = {
   position: 61,
   ownLength: 2733,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2711816/chapter-1189-divine-dangerous-oddballs",
-  externalId: "2711816",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2711816",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2711816/chapter-1189-divine-dangerous-oddballs",
+    },
+  ],
   publishedAt: "2025-10-28",
   ownProgress: 2733,
   completedAt: "2026-06-29T19:31:11.825Z",

@@ -9,10 +9,14 @@ export const thePrimalHunter0041Chapter1169AnApplicationThatHasToBeTested = {
   position: 41,
   ownLength: 2851,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2640672/chapter-1169-an-application-that-has-to-be-tested",
-  externalId: "2640672",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2640672",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2640672/chapter-1169-an-application-that-has-to-be-tested",
+    },
+  ],
   publishedAt: "2025-09-30",
   ownProgress: 2851,
   completedAt: "2026-06-29T19:30:33.503Z",

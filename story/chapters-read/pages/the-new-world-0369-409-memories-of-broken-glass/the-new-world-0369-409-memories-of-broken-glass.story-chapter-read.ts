@@ -9,10 +9,14 @@ export const theNewWorld0369409MemoriesOfBrokenGlass = {
   position: 369,
   ownLength: 4245,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2186195/409-memories-of-broken-glass",
-  externalId: "2186195",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2186195",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2186195/409-memories-of-broken-glass",
+    },
+  ],
   publishedAt: "2025-04-09",
   ownProgress: 4245,
   completedAt: "2026-06-29T21:33:58.766Z",

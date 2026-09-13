@@ -9,10 +9,14 @@ export const thePrimalHunter0008Chapter8AWonderfulNight = {
   position: 8,
   ownLength: 2338,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/559926/chapter-8-a-wonderful-night",
-  externalId: "559926",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "559926",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/559926/chapter-8-a-wonderful-night",
+    },
+  ],
   publishedAt: "2020-09-25",
   ownProgress: 2338,
   completedAt: "2026-06-29T19:29:30.290Z",

@@ -9,10 +9,14 @@ export const thePrimalHunter0035Chapter1163RoyalDecree = {
   position: 35,
   ownLength: 2823,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2620180/chapter-1163-royal-decree",
-  externalId: "2620180",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2620180",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2620180/chapter-1163-royal-decree",
+    },
+  ],
   publishedAt: "2025-09-22",
   ownProgress: 2823,
   completedAt: "2026-06-29T19:30:22.176Z",

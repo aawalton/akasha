@@ -9,10 +9,14 @@ export const thePrimalHunter0079Chapter1207UnintentionalDisplayOfPower = {
   position: 79,
   ownLength: 2812,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2780746/chapter-1207-unintentional-display-of-power",
-  externalId: "2780746",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2780746",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2780746/chapter-1207-unintentional-display-of-power",
+    },
+  ],
   publishedAt: "2025-11-21",
   ownProgress: 2812,
   completedAt: "2026-06-29T19:31:46.270Z",

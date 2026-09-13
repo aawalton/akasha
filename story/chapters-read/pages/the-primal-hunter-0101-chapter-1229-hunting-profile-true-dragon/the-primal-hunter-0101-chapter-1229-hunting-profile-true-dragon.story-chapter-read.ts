@@ -9,10 +9,14 @@ export const thePrimalHunter0101Chapter1229HuntingProfileTrueDragon = {
   position: 101,
   ownLength: 2791,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2923731/chapter-1229-hunting-profile-true-dragon",
-  externalId: "2923731",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2923731",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2923731/chapter-1229-hunting-profile-true-dragon",
+    },
+  ],
   publishedAt: "2026-01-08",
   ownProgress: 2791,
   completedAt: "2026-06-29T19:32:27.903Z",

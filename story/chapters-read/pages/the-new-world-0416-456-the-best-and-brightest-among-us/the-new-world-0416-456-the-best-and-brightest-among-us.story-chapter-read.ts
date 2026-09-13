@@ -9,10 +9,14 @@ export const theNewWorld0416456TheBestAndBrightestAmongUs = {
   position: 416,
   ownLength: 6990,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2477000/456-the-best-and-brightest-among-us",
-  externalId: "2477000",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2477000",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2477000/456-the-best-and-brightest-among-us",
+    },
+  ],
   publishedAt: "2025-07-29",
   ownProgress: 6990,
   completedAt: "2026-06-29T21:35:39.487Z",

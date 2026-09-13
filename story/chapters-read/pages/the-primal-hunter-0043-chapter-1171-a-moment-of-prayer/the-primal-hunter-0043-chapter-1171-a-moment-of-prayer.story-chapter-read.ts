@@ -9,10 +9,14 @@ export const thePrimalHunter0043Chapter1171AMomentOfPrayer = {
   position: 43,
   ownLength: 2836,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2646026/chapter-1171-a-moment-of-prayer",
-  externalId: "2646026",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2646026",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2646026/chapter-1171-a-moment-of-prayer",
+    },
+  ],
   publishedAt: "2025-10-02",
   ownProgress: 2836,
   completedAt: "2026-06-29T19:30:37.341Z",

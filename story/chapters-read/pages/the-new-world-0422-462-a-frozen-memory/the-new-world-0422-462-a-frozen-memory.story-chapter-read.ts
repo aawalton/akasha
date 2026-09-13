@@ -9,10 +9,14 @@ export const theNewWorld0422462AFrozenMemory = {
   position: 422,
   ownLength: 3426,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2513765/462-a-frozen-memory",
-  externalId: "2513765",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2513765",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2513765/462-a-frozen-memory",
+    },
+  ],
   publishedAt: "2025-08-13",
   ownProgress: 3426,
   completedAt: "2026-06-29T21:35:50.918Z",

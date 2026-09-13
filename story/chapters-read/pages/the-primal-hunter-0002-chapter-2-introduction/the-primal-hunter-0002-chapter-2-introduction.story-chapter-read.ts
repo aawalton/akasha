@@ -9,10 +9,14 @@ export const thePrimalHunter0002Chapter2Introduction = {
   position: 2,
   ownLength: 3303,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/557071/chapter-2-introduction",
-  externalId: "557071",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "557071",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/557071/chapter-2-introduction",
+    },
+  ],
   publishedAt: "2020-09-19",
   ownProgress: 3303,
   completedAt: "2026-06-29T19:29:18.643Z",

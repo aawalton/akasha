@@ -9,10 +9,14 @@ export const theNewWorld0363403AHatefulHome = {
   position: 363,
   ownLength: 3683,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2150587/403-a-hateful-home",
-  externalId: "2150587",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2150587",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2150587/403-a-hateful-home",
+    },
+  ],
   publishedAt: "2025-03-25",
   ownProgress: 3683,
   completedAt: "2026-06-29T21:33:44.807Z",

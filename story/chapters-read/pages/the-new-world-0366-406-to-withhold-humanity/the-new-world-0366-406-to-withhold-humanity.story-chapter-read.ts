@@ -9,10 +9,14 @@ export const theNewWorld0366406ToWithholdHumanity = {
   position: 366,
   ownLength: 2816,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2167345/406-to-withhold-humanity",
-  externalId: "2167345",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2167345",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2167345/406-to-withhold-humanity",
+    },
+  ],
   publishedAt: "2025-04-02",
   ownProgress: 2816,
   completedAt: "2026-06-29T21:33:52.599Z",

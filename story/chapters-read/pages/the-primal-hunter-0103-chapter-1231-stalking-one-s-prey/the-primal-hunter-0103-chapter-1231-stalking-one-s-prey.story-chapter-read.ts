@@ -9,10 +9,14 @@ export const thePrimalHunter0103Chapter1231StalkingOneSPrey = {
   position: 103,
   ownLength: 3002,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2935877/chapter-1231-stalking-ones-prey",
-  externalId: "2935877",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2935877",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2935877/chapter-1231-stalking-ones-prey",
+    },
+  ],
   publishedAt: "2026-01-12",
   ownProgress: 3002,
   completedAt: "2026-06-29T19:32:31.809Z",

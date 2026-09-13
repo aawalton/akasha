@@ -9,10 +9,14 @@ export const theNewWorld0358398AHollowInvasion = {
   position: 358,
   ownLength: 4809,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2131081/398-a-hollow-invasion",
-  externalId: "2131081",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2131081",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2131081/398-a-hollow-invasion",
+    },
+  ],
   publishedAt: "2025-03-17",
   ownProgress: 4809,
   completedAt: "2026-06-29T21:33:34.117Z",

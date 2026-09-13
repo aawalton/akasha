@@ -9,10 +9,14 @@ export const thePrimalHunter0083Chapter1211AChosenSLesson = {
   position: 83,
   ownLength: 2834,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2812407/chapter-1211-a-chosens-lesson",
-  externalId: "2812407",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2812407",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2812407/chapter-1211-a-chosens-lesson",
+    },
+  ],
   publishedAt: "2025-12-02",
   ownProgress: 2834,
   completedAt: "2026-06-29T19:31:53.776Z",

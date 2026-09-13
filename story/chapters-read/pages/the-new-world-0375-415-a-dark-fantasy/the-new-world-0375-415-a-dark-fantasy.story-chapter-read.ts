@@ -9,10 +9,14 @@ export const theNewWorld0375415ADarkFantasy = {
   position: 375,
   ownLength: 4954,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2223599/415-a-dark-fantasy",
-  externalId: "2223599",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2223599",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2223599/415-a-dark-fantasy",
+    },
+  ],
   publishedAt: "2025-04-23",
   ownProgress: 4954,
   completedAt: "2026-06-29T21:34:11.477Z",

@@ -9,10 +9,14 @@ export const thePrimalHunter0098Chapter1226TheCuriosityOfAPrimordial = {
   position: 98,
   ownLength: 3065,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2914132/chapter-1226-the-curiosity-of-a-primordial",
-  externalId: "2914132",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2914132",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2914132/chapter-1226-the-curiosity-of-a-primordial",
+    },
+  ],
   publishedAt: "2026-01-05",
   ownProgress: 3065,
   completedAt: "2026-06-29T19:32:22.046Z",

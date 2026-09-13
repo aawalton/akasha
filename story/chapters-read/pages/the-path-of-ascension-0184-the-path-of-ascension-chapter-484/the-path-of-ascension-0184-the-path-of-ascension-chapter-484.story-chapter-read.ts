@@ -9,10 +9,14 @@ export const thePathOfAscension0184ThePathOfAscensionChapter484 = {
   position: 184,
   ownLength: 6265,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3211754/the-path-of-ascension-chapter-484",
-  externalId: "3211754",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3211754",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3211754/the-path-of-ascension-chapter-484",
+    },
+  ],
   publishedAt: "2026-03-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

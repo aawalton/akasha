@@ -9,10 +9,14 @@ export const theNewWorld0382422AChaseAcrossCosmos = {
   position: 382,
   ownLength: 5415,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2266131/422-a-chase-across-cosmos",
-  externalId: "2266131",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2266131",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2266131/422-a-chase-across-cosmos",
+    },
+  ],
   publishedAt: "2025-05-09",
   ownProgress: 5415,
   completedAt: "2026-06-29T21:34:26.255Z",

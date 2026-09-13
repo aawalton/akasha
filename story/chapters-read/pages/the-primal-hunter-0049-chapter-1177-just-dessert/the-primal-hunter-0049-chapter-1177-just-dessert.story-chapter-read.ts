@@ -9,10 +9,14 @@ export const thePrimalHunter0049Chapter1177JustDessert = {
   position: 49,
   ownLength: 2781,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2666021/chapter-1177-just-dessert",
-  externalId: "2666021",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2666021",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2666021/chapter-1177-just-dessert",
+    },
+  ],
   publishedAt: "2025-10-10",
   ownProgress: 2781,
   completedAt: "2026-06-29T19:30:48.893Z",

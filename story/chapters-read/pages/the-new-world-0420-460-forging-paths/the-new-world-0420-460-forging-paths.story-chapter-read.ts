@@ -9,10 +9,14 @@ export const theNewWorld0420460ForgingPaths = {
   position: 420,
   ownLength: 3468,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2500963/460-forging-paths",
-  externalId: "2500963",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2500963",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2500963/460-forging-paths",
+    },
+  ],
   publishedAt: "2025-08-08",
   ownProgress: 3468,
   completedAt: "2026-06-29T21:35:47.144Z",

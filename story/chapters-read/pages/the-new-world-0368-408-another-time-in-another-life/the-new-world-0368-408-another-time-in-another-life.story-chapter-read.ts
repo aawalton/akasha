@@ -9,10 +9,14 @@ export const theNewWorld0368408AnotherTimeInAnotherLife = {
   position: 368,
   ownLength: 4627,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2177905/408-another-time-in-another-life",
-  externalId: "2177905",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2177905",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2177905/408-another-time-in-another-life",
+    },
+  ],
   publishedAt: "2025-04-06",
   ownProgress: 4627,
   completedAt: "2026-06-29T21:33:56.627Z",

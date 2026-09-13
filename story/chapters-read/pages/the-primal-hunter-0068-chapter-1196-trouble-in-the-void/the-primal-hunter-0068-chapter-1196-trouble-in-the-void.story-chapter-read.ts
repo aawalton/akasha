@@ -9,10 +9,14 @@ export const thePrimalHunter0068Chapter1196TroubleInTheVoid = {
   position: 68,
   ownLength: 2840,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2737890/chapter-1196-trouble-in-the-void",
-  externalId: "2737890",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2737890",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2737890/chapter-1196-trouble-in-the-void",
+    },
+  ],
   publishedAt: "2025-11-06",
   ownProgress: 2840,
   completedAt: "2026-06-29T19:31:25.274Z",

@@ -9,10 +9,14 @@ export const theNewWorld0365405APalpableEncroach = {
   position: 365,
   ownLength: 4703,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2160510/405-a-palpable-encroach",
-  externalId: "2160510",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2160510",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2160510/405-a-palpable-encroach",
+    },
+  ],
   publishedAt: "2025-03-30",
   ownProgress: 4703,
   completedAt: "2026-06-29T21:33:50.497Z",

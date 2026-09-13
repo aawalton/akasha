@@ -9,10 +9,14 @@ export const thePathOfAscension0157ThePathOfAscensionChapter458 = {
   position: 157,
   ownLength: 6485,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2761385/the-path-of-ascension-chapter-458",
-  externalId: "2761385",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2761385",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2761385/the-path-of-ascension-chapter-458",
+    },
+  ],
   publishedAt: "2025-11-14",
   ownProgress: 6485,
   completedAt: "2026-06-29T19:33:09.372Z",

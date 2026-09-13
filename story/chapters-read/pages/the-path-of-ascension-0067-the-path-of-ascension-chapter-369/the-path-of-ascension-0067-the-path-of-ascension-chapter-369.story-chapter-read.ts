@@ -9,10 +9,14 @@ export const thePathOfAscension0067ThePathOfAscensionChapter369 = {
   position: 67,
   ownLength: 5536,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1936309/the-path-of-ascension-chapter-369",
-  externalId: "1936309",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1936309",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1936309/the-path-of-ascension-chapter-369",
+    },
+  ],
   publishedAt: "2024-12-02",
   ownProgress: 5536,
   completedAt: "2026-06-29T19:19:56.506Z",

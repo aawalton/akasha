@@ -9,10 +9,14 @@ export const thePathOfAscension0021ThePathOfAscensionChapter131 = {
   position: 21,
   ownLength: 5832,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/910789/the-path-of-ascension-chapter-131",
-  externalId: "910789",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "910789",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/910789/the-path-of-ascension-chapter-131",
+    },
+  ],
   publishedAt: "2022-05-20",
   ownProgress: 5832,
   completedAt: "2026-06-29T19:18:09.581Z",

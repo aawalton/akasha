@@ -9,10 +9,14 @@ export const theNewWorld0395435TheEthosOfTheUndead = {
   position: 395,
   ownLength: 7509,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2339008/435-the-ethos-of-the-undead",
-  externalId: "2339008",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2339008",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2339008/435-the-ethos-of-the-undead",
+    },
+  ],
   publishedAt: "2025-06-08",
   ownProgress: 7509,
   completedAt: "2026-06-29T21:34:55.132Z",

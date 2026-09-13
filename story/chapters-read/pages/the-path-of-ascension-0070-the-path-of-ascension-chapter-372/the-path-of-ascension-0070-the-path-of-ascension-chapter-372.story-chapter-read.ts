@@ -9,10 +9,14 @@ export const thePathOfAscension0070ThePathOfAscensionChapter372 = {
   position: 70,
   ownLength: 5214,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1955110/the-path-of-ascension-chapter-372",
-  externalId: "1955110",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1955110",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1955110/the-path-of-ascension-chapter-372",
+    },
+  ],
   publishedAt: "2024-12-13",
   ownProgress: 5214,
   completedAt: "2026-06-29T19:20:03.282Z",

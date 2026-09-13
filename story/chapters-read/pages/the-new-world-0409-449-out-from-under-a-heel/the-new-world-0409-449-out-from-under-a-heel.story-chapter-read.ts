@@ -9,10 +9,14 @@ export const theNewWorld0409449OutFromUnderAHeel = {
   position: 409,
   ownLength: 9191,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2425285/449-out-from-under-a-heel",
-  externalId: "2425285",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2425285",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2425285/449-out-from-under-a-heel",
+    },
+  ],
   publishedAt: "2025-07-10",
   ownProgress: 9191,
   completedAt: "2026-06-29T21:35:25.673Z",

@@ -9,10 +9,14 @@ export const thePrimalHunter0056Chapter1184CaughtAGoodOne = {
   position: 56,
   ownLength: 2788,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2693915/chapter-1184-caught-a-good-one",
-  externalId: "2693915",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2693915",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2693915/chapter-1184-caught-a-good-one",
+    },
+  ],
   publishedAt: "2025-10-21",
   ownProgress: 2788,
   completedAt: "2026-06-29T19:31:02.378Z",

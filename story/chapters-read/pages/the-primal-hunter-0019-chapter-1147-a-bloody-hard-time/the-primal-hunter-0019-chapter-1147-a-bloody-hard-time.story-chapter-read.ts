@@ -9,10 +9,14 @@ export const thePrimalHunter0019Chapter1147ABloodyHardTime = {
   position: 19,
   ownLength: 2793,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2502303/chapter-1147-a-bloody-hard-time",
-  externalId: "2502303",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2502303",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2502303/chapter-1147-a-bloody-hard-time",
+    },
+  ],
   publishedAt: "2025-08-08",
   ownProgress: 2793,
   completedAt: "2026-06-29T19:29:51.659Z",

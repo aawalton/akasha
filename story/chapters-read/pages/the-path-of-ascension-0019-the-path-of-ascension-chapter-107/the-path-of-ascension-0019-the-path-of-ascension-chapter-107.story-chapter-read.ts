@@ -9,10 +9,14 @@ export const thePathOfAscension0019ThePathOfAscensionChapter107 = {
   position: 19,
   ownLength: 8019,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/845683/the-path-of-ascension-chapter-107",
-  externalId: "845683",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "845683",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/845683/the-path-of-ascension-chapter-107",
+    },
+  ],
   publishedAt: "2022-02-14",
   ownProgress: 8019,
   completedAt: "2026-06-29T19:18:05.245Z",

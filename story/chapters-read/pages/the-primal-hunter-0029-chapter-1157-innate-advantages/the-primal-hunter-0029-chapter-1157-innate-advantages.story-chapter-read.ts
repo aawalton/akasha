@@ -9,10 +9,14 @@ export const thePrimalHunter0029Chapter1157InnateAdvantages = {
   position: 29,
   ownLength: 2687,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2538858/chapter-1157-innate-advantages",
-  externalId: "2538858",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2538858",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2538858/chapter-1157-innate-advantages",
+    },
+  ],
   publishedAt: "2025-08-22",
   ownProgress: 2687,
   completedAt: "2026-06-29T19:30:10.685Z",

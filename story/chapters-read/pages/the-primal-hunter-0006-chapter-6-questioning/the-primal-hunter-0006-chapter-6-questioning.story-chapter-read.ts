@@ -9,10 +9,14 @@ export const thePrimalHunter0006Chapter6Questioning = {
   position: 6,
   ownLength: 2514,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/558881/chapter-6-questioning",
-  externalId: "558881",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "558881",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/558881/chapter-6-questioning",
+    },
+  ],
   publishedAt: "2020-09-23",
   ownProgress: 2514,
   completedAt: "2026-06-29T19:29:26.536Z",

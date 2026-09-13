@@ -9,10 +9,14 @@ export const theNewWorld0417457TheMysteriesOfMana = {
   position: 417,
   ownLength: 2714,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2482839/457-the-mysteries-of-mana",
-  externalId: "2482839",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2482839",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2482839/457-the-mysteries-of-mana",
+    },
+  ],
   publishedAt: "2025-08-01",
   ownProgress: 2714,
   completedAt: "2026-06-29T21:35:41.433Z",

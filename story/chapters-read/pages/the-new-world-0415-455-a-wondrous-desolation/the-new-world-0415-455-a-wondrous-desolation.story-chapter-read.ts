@@ -9,10 +9,14 @@ export const theNewWorld0415455AWondrousDesolation = {
   position: 415,
   ownLength: 4695,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2471879/455-a-wondrous-desolation",
-  externalId: "2471879",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2471879",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2471879/455-a-wondrous-desolation",
+    },
+  ],
   publishedAt: "2025-07-28",
   ownProgress: 4695,
   completedAt: "2026-06-29T21:35:37.522Z",

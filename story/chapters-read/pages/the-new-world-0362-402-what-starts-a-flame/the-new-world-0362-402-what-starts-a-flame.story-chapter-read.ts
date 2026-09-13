@@ -9,10 +9,14 @@ export const theNewWorld0362402WhatStartsAFlame = {
   position: 362,
   ownLength: 4003,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2144374/402-what-starts-a-flame",
-  externalId: "2144374",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2144374",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2144374/402-what-starts-a-flame",
+    },
+  ],
   publishedAt: "2025-03-22",
   ownProgress: 4003,
   completedAt: "2026-06-29T21:33:42.588Z",

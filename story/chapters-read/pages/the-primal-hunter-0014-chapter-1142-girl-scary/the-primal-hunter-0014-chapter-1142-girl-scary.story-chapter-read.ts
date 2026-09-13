@@ -9,10 +9,14 @@ export const thePrimalHunter0014Chapter1142GirlScary = {
   position: 14,
   ownLength: 2695,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2484148/chapter-1142-girl-scary",
-  externalId: "2484148",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2484148",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2484148/chapter-1142-girl-scary",
+    },
+  ],
   publishedAt: "2025-08-01",
   ownProgress: 2695,
   completedAt: "2026-06-29T19:29:42.328Z",

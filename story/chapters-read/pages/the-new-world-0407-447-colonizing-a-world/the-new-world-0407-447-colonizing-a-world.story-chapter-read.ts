@@ -9,10 +9,14 @@ export const theNewWorld0407447ColonizingAWorld = {
   position: 407,
   ownLength: 6242,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2412597/447-colonizing-a-world",
-  externalId: "2412597",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2412597",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2412597/447-colonizing-a-world",
+    },
+  ],
   publishedAt: "2025-07-06",
   ownProgress: 6242,
   completedAt: "2026-06-29T21:35:21.463Z",

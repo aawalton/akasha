@@ -9,10 +9,14 @@ export const theNewWorld0391431LivingByTheSkinOfYourTeeth = {
   position: 391,
   ownLength: 4480,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2315933/431-living-by-the-skin-of-your-teeth",
-  externalId: "2315933",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2315933",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2315933/431-living-by-the-skin-of-your-teeth",
+    },
+  ],
   publishedAt: "2025-05-30",
   ownProgress: 4480,
   completedAt: "2026-06-29T21:34:46.585Z",

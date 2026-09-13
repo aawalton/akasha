@@ -9,10 +9,14 @@ export const theNewWorld0405445AHauntingPast = {
   position: 405,
   ownLength: 6018,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2401483/445-a-haunting-past",
-  externalId: "2401483",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2401483",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2401483/445-a-haunting-past",
+    },
+  ],
   publishedAt: "2025-07-01",
   ownProgress: 6018,
   completedAt: "2026-06-29T21:35:17.496Z",

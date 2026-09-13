@@ -9,10 +9,14 @@ export const theNewWorld0356396ToEmbraceTheEnd = {
   position: 356,
   ownLength: 4984,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2126871/396-to-embrace-the-end",
-  externalId: "2126871",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2126871",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2126871/396-to-embrace-the-end",
+    },
+  ],
   publishedAt: "2025-03-14",
   ownProgress: 4984,
   completedAt: "2026-06-29T21:33:29.855Z",

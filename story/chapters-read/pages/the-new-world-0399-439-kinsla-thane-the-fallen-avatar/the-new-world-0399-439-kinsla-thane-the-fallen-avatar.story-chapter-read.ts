@@ -9,10 +9,14 @@ export const theNewWorld0399439KinslaThaneTheFallenAvatar = {
   position: 399,
   ownLength: 3850,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2365025/439-kinsla-thane-the-fallen-avatar",
-  externalId: "2365025",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2365025",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2365025/439-kinsla-thane-the-fallen-avatar",
+    },
+  ],
   publishedAt: "2025-06-18",
   ownProgress: 3850,
   completedAt: "2026-06-29T21:35:03.606Z",

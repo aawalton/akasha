@@ -9,10 +9,14 @@ export const theNewWorld0402442AFracturedReality = {
   position: 402,
   ownLength: 4366,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2383331/442-a-fractured-reality",
-  externalId: "2383331",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2383331",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2383331/442-a-fractured-reality",
+    },
+  ],
   publishedAt: "2025-06-25",
   ownProgress: 4366,
   completedAt: "2026-06-29T21:35:10.176Z",

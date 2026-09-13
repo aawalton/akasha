@@ -9,10 +9,14 @@ export const thePrimalHunter0040Chapter1168InvocationExperimentation = {
   position: 40,
   ownLength: 2862,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2638063/chapter-1168-invocation-experimentation",
-  externalId: "2638063",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2638063",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2638063/chapter-1168-invocation-experimentation",
+    },
+  ],
   publishedAt: "2025-09-29",
   ownProgress: 2862,
   completedAt: "2026-06-29T19:30:31.711Z",

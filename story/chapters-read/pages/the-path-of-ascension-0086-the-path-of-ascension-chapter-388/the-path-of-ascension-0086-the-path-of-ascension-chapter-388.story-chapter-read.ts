@@ -9,10 +9,14 @@ export const thePathOfAscension0086ThePathOfAscensionChapter388 = {
   position: 86,
   ownLength: 5136,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2067428/the-path-of-ascension-chapter-388",
-  externalId: "2067428",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2067428",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2067428/the-path-of-ascension-chapter-388",
+    },
+  ],
   publishedAt: "2025-02-14",
   ownProgress: 5136,
   completedAt: "2026-06-29T19:20:39.623Z",

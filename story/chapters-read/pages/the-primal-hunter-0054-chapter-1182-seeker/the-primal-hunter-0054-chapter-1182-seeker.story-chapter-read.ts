@@ -9,10 +9,14 @@ export const thePrimalHunter0054Chapter1182Seeker = {
   position: 54,
   ownLength: 2608,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2683697/chapter-1182-seeker",
-  externalId: "2683697",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2683697",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2683697/chapter-1182-seeker",
+    },
+  ],
   publishedAt: "2025-10-17",
   ownProgress: 2608,
   completedAt: "2026-06-29T19:30:58.529Z",

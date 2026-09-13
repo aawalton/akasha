@@ -9,10 +9,14 @@ export const thePathOfAscension0028ThePathOfAscensionBook2OnAmazonLinks = {
   position: 28,
   ownLength: 201,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1108067/the-path-of-ascension-book-2-on-amazon-links",
-  externalId: "1108067",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1108067",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1108067/the-path-of-ascension-book-2-on-amazon-links",
+    },
+  ],
   publishedAt: "2023-02-07",
   ownProgress: 201,
   completedAt: "2026-06-29T19:18:25.254Z",

@@ -9,10 +9,14 @@ export const thePrimalHunter0063Chapter1191JasperABlessedLittleGuy = {
   position: 63,
   ownLength: 2613,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2717217/chapter-1191-jasper-a-blessed-little-guy",
-  externalId: "2717217",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2717217",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2717217/chapter-1191-jasper-a-blessed-little-guy",
+    },
+  ],
   publishedAt: "2025-10-30",
   ownProgress: 2613,
   completedAt: "2026-06-29T19:31:15.811Z",

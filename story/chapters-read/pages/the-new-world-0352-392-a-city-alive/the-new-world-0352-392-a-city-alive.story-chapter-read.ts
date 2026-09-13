@@ -9,10 +9,14 @@ export const theNewWorld0352392ACityAlive = {
   position: 352,
   ownLength: 4057,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2118331/392-a-city-alive",
-  externalId: "2118331",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2118331",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2118331/392-a-city-alive",
+    },
+  ],
   publishedAt: "2025-03-10",
   ownProgress: 4057,
   completedAt: "2026-06-29T21:33:21.401Z",

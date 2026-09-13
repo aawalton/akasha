@@ -9,10 +9,14 @@ export const theNewWorld0389429ExploringAChangedCity = {
   position: 389,
   ownLength: 7248,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2303650/429-exploring-a-changed-city",
-  externalId: "2303650",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2303650",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2303650/429-exploring-a-changed-city",
+    },
+  ],
   publishedAt: "2025-05-25",
   ownProgress: 7248,
   completedAt: "2026-06-29T21:34:41.456Z",

@@ -9,10 +9,14 @@ export const thePrimalHunter0026Chapter1154AProperReunionParty = {
   position: 26,
   ownLength: 2787,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2530846/chapter-1154-a-proper-reunion-party",
-  externalId: "2530846",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2530846",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2530846/chapter-1154-a-proper-reunion-party",
+    },
+  ],
   publishedAt: "2025-08-19",
   ownProgress: 2787,
   completedAt: "2026-06-29T19:30:04.878Z",

@@ -9,10 +9,14 @@ export const thePathOfAscension0047ThePathOfAscensionChapter349 = {
   position: 47,
   ownLength: 5062,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1801886/the-path-of-ascension-chapter-349",
-  externalId: "1801886",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1801886",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1801886/the-path-of-ascension-chapter-349",
+    },
+  ],
   publishedAt: "2024-09-13",
   ownProgress: 5062,
   completedAt: "2026-06-29T19:19:09.347Z",

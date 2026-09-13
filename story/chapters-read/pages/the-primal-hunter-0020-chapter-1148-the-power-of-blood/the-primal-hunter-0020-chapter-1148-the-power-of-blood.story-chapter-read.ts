@@ -9,10 +9,14 @@ export const thePrimalHunter0020Chapter1148ThePowerOfBlood = {
   position: 20,
   ownLength: 3076,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2509636/chapter-1148-the-power-of-blood",
-  externalId: "2509636",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2509636",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2509636/chapter-1148-the-power-of-blood",
+    },
+  ],
   publishedAt: "2025-08-11",
   ownProgress: 3076,
   completedAt: "2026-06-29T19:29:53.436Z",

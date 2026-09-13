@@ -9,10 +9,14 @@ export const thePathOfAscension0011PoaTheConceptOfDeathChapter3 = {
   position: 11,
   ownLength: 6068,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/766231/poa-the-concept-of-death-chapter-3",
-  externalId: "766231",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "766231",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/766231/poa-the-concept-of-death-chapter-3",
+    },
+  ],
   publishedAt: "2021-10-13",
   ownProgress: 6068,
   completedAt: "2026-06-29T19:17:46.790Z",

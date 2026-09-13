@@ -9,10 +9,14 @@ export const theNewWorld0419459ToConquerOneSDarkness = {
   position: 419,
   ownLength: 2605,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2495760/459-to-conquer-ones-darkness",
-  externalId: "2495760",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2495760",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2495760/459-to-conquer-ones-darkness",
+    },
+  ],
   publishedAt: "2025-08-06",
   ownProgress: 2605,
   completedAt: "2026-06-29T21:35:45.332Z",

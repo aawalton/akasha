@@ -9,10 +9,14 @@ export const theNewWorld0404444RitualsAndCultures = {
   position: 404,
   ownLength: 7243,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2392767/444-rituals-and-cultures",
-  externalId: "2392767",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2392767",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2392767/444-rituals-and-cultures",
+    },
+  ],
   publishedAt: "2025-06-28",
   ownProgress: 7243,
   completedAt: "2026-06-29T21:35:15.518Z",

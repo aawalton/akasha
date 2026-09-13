@@ -9,10 +9,14 @@ export const theNewWorld0372412ReforgingAMind = {
   position: 372,
   ownLength: 5395,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2205177/412-reforging-a-mind",
-  externalId: "2205177",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2205177",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2205177/412-reforging-a-mind",
+    },
+  ],
   publishedAt: "2025-04-15",
   ownProgress: 5395,
   completedAt: "2026-06-29T21:34:05.094Z",

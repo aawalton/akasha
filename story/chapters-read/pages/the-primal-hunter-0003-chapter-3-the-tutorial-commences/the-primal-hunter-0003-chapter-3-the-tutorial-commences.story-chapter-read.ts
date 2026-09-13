@@ -9,10 +9,14 @@ export const thePrimalHunter0003Chapter3TheTutorialCommences = {
   position: 3,
   ownLength: 2619,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/557447/chapter-3-the-tutorial-commences",
-  externalId: "557447",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "557447",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/557447/chapter-3-the-tutorial-commences",
+    },
+  ],
   publishedAt: "2020-09-20",
   ownProgress: 2619,
   completedAt: "2026-06-29T19:29:20.752Z",

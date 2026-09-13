@@ -9,10 +9,14 @@ export const theNewWorld0412452ToDevoteEverything = {
   position: 412,
   ownLength: 9389,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2444633/452-to-devote-everything",
-  externalId: "2444633",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2444633",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2444633/452-to-devote-everything",
+    },
+  ],
   publishedAt: "2025-07-18",
   ownProgress: 9389,
   completedAt: "2026-06-29T21:35:31.521Z",

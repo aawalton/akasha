@@ -9,10 +9,14 @@ export const theNewWorld0355395AShatteringMirror = {
   position: 355,
   ownLength: 2831,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2124670/395-a-shattering-mirror",
-  externalId: "2124670",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2124670",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2124670/395-a-shattering-mirror",
+    },
+  ],
   publishedAt: "2025-03-13",
   ownProgress: 2831,
   completedAt: "2026-06-29T21:33:27.912Z",

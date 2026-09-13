@@ -9,10 +9,14 @@ export const thePrimalHunter0074Chapter1202TheOlderAndWiserFriend = {
   position: 74,
   ownLength: 2761,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2760725/chapter-1202-the-older-wiser-friend",
-  externalId: "2760725",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2760725",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2760725/chapter-1202-the-older-wiser-friend",
+    },
+  ],
   publishedAt: "2025-11-14",
   ownProgress: 2761,
   completedAt: "2026-06-29T19:31:36.548Z",

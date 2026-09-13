@@ -9,10 +9,14 @@ export const theNewWorld0400440ToWieldAStar = {
   position: 400,
   ownLength: 3995,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2370305/440-to-wield-a-star",
-  externalId: "2370305",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2370305",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2370305/440-to-wield-a-star",
+    },
+  ],
   publishedAt: "2025-06-20",
   ownProgress: 3995,
   completedAt: "2026-06-29T21:35:05.741Z",

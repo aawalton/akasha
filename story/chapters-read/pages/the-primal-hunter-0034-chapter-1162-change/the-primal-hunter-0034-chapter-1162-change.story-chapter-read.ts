@@ -9,10 +9,14 @@ export const thePrimalHunter0034Chapter1162Change = {
   position: 34,
   ownLength: 2634,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2612920/chapter-1162-change",
-  externalId: "2612920",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2612920",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2612920/chapter-1162-change",
+    },
+  ],
   publishedAt: "2025-09-19",
   ownProgress: 2634,
   completedAt: "2026-06-29T19:30:20.376Z",

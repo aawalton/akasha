@@ -9,10 +9,14 @@ export const thePrimalHunter0099Chapter1227AFundamentalEvolutionaryDifference = 
   position: 99,
   ownLength: 2691,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2917574/chapter-1227-a-fundamental-evolutionary-difference",
-  externalId: "2917574",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2917574",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2917574/chapter-1227-a-fundamental-evolutionary-difference",
+    },
+  ],
   publishedAt: "2026-01-06",
   ownProgress: 2691,
   completedAt: "2026-06-29T19:32:24.044Z",

@@ -9,10 +9,14 @@ export const thePrimalHunter0085Chapter1213EvaluatingFeedback = {
   position: 85,
   ownLength: 2649,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2818491/chapter-1213-evaluating-feedback",
-  externalId: "2818491",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2818491",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2818491/chapter-1213-evaluating-feedback",
+    },
+  ],
   publishedAt: "2025-12-04",
   ownProgress: 2649,
   completedAt: "2026-06-29T19:31:57.548Z",

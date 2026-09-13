@@ -9,10 +9,14 @@ export const thePrimalHunter0087Chapter1215Light = {
   position: 87,
   ownLength: 3052,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2830118/chapter-1215-light",
-  externalId: "2830118",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2830118",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2830118/chapter-1215-light",
+    },
+  ],
   publishedAt: "2025-12-08",
   ownProgress: 3052,
   completedAt: "2026-06-29T19:32:01.245Z",

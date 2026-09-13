@@ -9,10 +9,14 @@ export const thePathOfAscension0158ThePathOfAscensionChapter459 = {
   position: 158,
   ownLength: 5439,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2769829/the-path-of-ascension-chapter-459",
-  externalId: "2769829",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2769829",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2769829/the-path-of-ascension-chapter-459",
+    },
+  ],
   publishedAt: "2025-11-17",
   ownProgress: 5439,
   completedAt: "2026-06-29T19:33:11.446Z",

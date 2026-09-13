@@ -9,10 +9,14 @@ export const theNewWorld0406446ToEvokeAwe = {
   position: 406,
   ownLength: 4520,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2407425/446-to-evoke-awe",
-  externalId: "2407425",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2407425",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2407425/446-to-evoke-awe",
+    },
+  ],
   publishedAt: "2025-07-04",
   ownProgress: 4520,
   completedAt: "2026-06-29T21:35:19.464Z",

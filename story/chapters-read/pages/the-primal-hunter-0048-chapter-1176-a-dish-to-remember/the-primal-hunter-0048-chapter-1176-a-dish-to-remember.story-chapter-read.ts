@@ -9,10 +9,14 @@ export const thePrimalHunter0048Chapter1176ADishToRemember = {
   position: 48,
   ownLength: 2877,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2663608/chapter-1176-a-dish-to-remember",
-  externalId: "2663608",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2663608",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2663608/chapter-1176-a-dish-to-remember",
+    },
+  ],
   publishedAt: "2025-10-09",
   ownProgress: 2877,
   completedAt: "2026-06-29T19:30:46.995Z",

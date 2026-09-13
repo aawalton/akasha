@@ -9,10 +9,14 @@ export const thePrimalHunter0030Chapter1158ADayInHolstredSLifeFullOfSurprises = 
   position: 30,
   ownLength: 3650,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2602332/chapter-1158-a-day-in-holstreds-life-full-of-surprises",
-  externalId: "2602332",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2602332",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2602332/chapter-1158-a-day-in-holstreds-life-full-of-surprises",
+    },
+  ],
   publishedAt: "2025-09-15",
   ownProgress: 3650,
   completedAt: "2026-06-29T19:30:12.589Z",

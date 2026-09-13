@@ -9,10 +9,14 @@ export const thePrimalHunter0102Chapter1230ALuckyMan = {
   position: 102,
   ownLength: 2599,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2926811/chapter-1230-a-lucky-man",
-  externalId: "2926811",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2926811",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2926811/chapter-1230-a-lucky-man",
+    },
+  ],
   publishedAt: "2026-01-09",
   ownProgress: 2599,
   completedAt: "2026-06-29T19:32:29.753Z",

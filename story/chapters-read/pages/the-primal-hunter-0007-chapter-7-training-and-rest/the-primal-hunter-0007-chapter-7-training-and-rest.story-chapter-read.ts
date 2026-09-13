@@ -9,10 +9,14 @@ export const thePrimalHunter0007Chapter7TrainingAndRest = {
   position: 7,
   ownLength: 2518,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/559412/chapter-7-training-rest",
-  externalId: "559412",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "559412",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/559412/chapter-7-training-rest",
+    },
+  ],
   publishedAt: "2020-09-24",
   ownProgress: 2518,
   completedAt: "2026-06-29T19:29:28.351Z",

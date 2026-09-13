@@ -9,10 +9,14 @@ export const thePrimalHunter0094Chapter1222APlanWithinAPlan = {
   position: 94,
   ownLength: 2640,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2856333/chapter-1222-a-plan-within-a-plan",
-  externalId: "2856333",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2856333",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2856333/chapter-1222-a-plan-within-a-plan",
+    },
+  ],
   publishedAt: "2025-12-17",
   ownProgress: 2640,
   completedAt: "2026-06-29T19:32:14.610Z",

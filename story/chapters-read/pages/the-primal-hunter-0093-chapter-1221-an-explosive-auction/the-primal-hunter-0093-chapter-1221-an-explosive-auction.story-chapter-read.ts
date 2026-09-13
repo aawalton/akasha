@@ -9,10 +9,14 @@ export const thePrimalHunter0093Chapter1221AnExplosiveAuction = {
   position: 93,
   ownLength: 3107,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2853356/chapter-1221-an-explosive-auction",
-  externalId: "2853356",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2853356",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2853356/chapter-1221-an-explosive-auction",
+    },
+  ],
   publishedAt: "2025-12-16",
   ownProgress: 3107,
   completedAt: "2026-06-29T19:32:12.698Z",

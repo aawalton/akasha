@@ -9,10 +9,14 @@ export const theNewWorld0390430AdventureCalls = {
   position: 390,
   ownLength: 4461,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2310465/430-adventure-calls",
-  externalId: "2310465",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2310465",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2310465/430-adventure-calls",
+    },
+  ],
   publishedAt: "2025-05-27",
   ownProgress: 4461,
   completedAt: "2026-06-29T21:34:43.637Z",

@@ -9,10 +9,14 @@ export const thePathOfAscension0023ThePathOfAscensionChapter170 = {
   position: 23,
   ownLength: 8761,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1008612/the-path-of-ascension-chapter-170",
-  externalId: "1008612",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1008612",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1008612/the-path-of-ascension-chapter-170",
+    },
+  ],
   publishedAt: "2022-10-04",
   ownProgress: 8761,
   completedAt: "2026-06-29T19:18:14.244Z",

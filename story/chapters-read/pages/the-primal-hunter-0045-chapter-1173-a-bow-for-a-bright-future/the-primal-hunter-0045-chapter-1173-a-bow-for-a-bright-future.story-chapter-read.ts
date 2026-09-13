@@ -9,10 +9,14 @@ export const thePrimalHunter0045Chapter1173ABowForABrightFuture = {
   position: 45,
   ownLength: 2969,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2655690/chapter-1173-a-bow-for-a-bright-future",
-  externalId: "2655690",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2655690",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2655690/chapter-1173-a-bow-for-a-bright-future",
+    },
+  ],
   publishedAt: "2025-10-06",
   ownProgress: 2969,
   completedAt: "2026-06-29T19:30:41.215Z",

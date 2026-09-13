@@ -9,10 +9,14 @@ export const thePrimalHunter0011Chapter1139FriendsInHighPlacesStartOfBook16 = {
   position: 11,
   ownLength: 2684,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2476024/chapter-1139-friends-in-high-places-start-of-book",
-  externalId: "2476024",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2476024",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2476024/chapter-1139-friends-in-high-places-start-of-book",
+    },
+  ],
   publishedAt: "2025-07-29",
   ownProgress: 2684,
   completedAt: "2026-06-29T19:29:36.719Z",

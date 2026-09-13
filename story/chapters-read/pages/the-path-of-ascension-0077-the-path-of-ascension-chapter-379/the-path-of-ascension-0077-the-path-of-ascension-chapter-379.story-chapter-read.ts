@@ -9,10 +9,14 @@ export const thePathOfAscension0077ThePathOfAscensionChapter379 = {
   position: 77,
   ownLength: 5304,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2008235/the-path-of-ascension-chapter-379",
-  externalId: "2008235",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2008235",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2008235/the-path-of-ascension-chapter-379",
+    },
+  ],
   publishedAt: "2025-01-13",
   ownProgress: 5304,
   completedAt: "2026-06-29T19:20:19.352Z",

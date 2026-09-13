@@ -9,10 +9,14 @@ export const thePrimalHunter0052Chapter1180TheResultOfTheRitual = {
   position: 52,
   ownLength: 2877,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2678518/chapter-1180-the-result-of-the-ritual",
-  externalId: "2678518",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2678518",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2678518/chapter-1180-the-result-of-the-ritual",
+    },
+  ],
   publishedAt: "2025-10-15",
   ownProgress: 2877,
   completedAt: "2026-06-29T19:30:54.691Z",

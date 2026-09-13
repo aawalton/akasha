@@ -9,10 +9,14 @@ export const thePrimalHunter0073Chapter1201KnowledgeGap = {
   position: 73,
   ownLength: 2992,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2757817/chapter-1201-knowledge-gap",
-  externalId: "2757817",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2757817",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2757817/chapter-1201-knowledge-gap",
+    },
+  ],
   publishedAt: "2025-11-13",
   ownProgress: 2992,
   completedAt: "2026-06-29T19:31:34.628Z",

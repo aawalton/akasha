@@ -9,10 +9,14 @@ export const theNewWorld0364404TheAbyssalChasm = {
   position: 364,
   ownLength: 4457,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2155600/404-the-abyssal-chasm",
-  externalId: "2155600",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2155600",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2155600/404-the-abyssal-chasm",
+    },
+  ],
   publishedAt: "2025-03-27",
   ownProgress: 4457,
   completedAt: "2026-06-29T21:33:48.416Z",

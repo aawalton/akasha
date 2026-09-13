@@ -9,10 +9,14 @@ export const thePrimalHunter0075Chapter1203ALongAwaitedConversation = {
   position: 75,
   ownLength: 2757,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2769097/chapter-1203-a-long-awaited-conversation",
-  externalId: "2769097",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2769097",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2769097/chapter-1203-a-long-awaited-conversation",
+    },
+  ],
   publishedAt: "2025-11-17",
   ownProgress: 2757,
   completedAt: "2026-06-29T19:31:38.525Z",

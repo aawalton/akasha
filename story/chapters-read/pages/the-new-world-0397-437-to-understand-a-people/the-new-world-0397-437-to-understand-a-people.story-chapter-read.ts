@@ -9,10 +9,14 @@ export const theNewWorld0397437ToUnderstandAPeople = {
   position: 397,
   ownLength: 4266,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2352421/437-to-understand-a-people",
-  externalId: "2352421",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2352421",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2352421/437-to-understand-a-people",
+    },
+  ],
   publishedAt: "2025-06-13",
   ownProgress: 4266,
   completedAt: "2026-06-29T21:34:59.489Z",

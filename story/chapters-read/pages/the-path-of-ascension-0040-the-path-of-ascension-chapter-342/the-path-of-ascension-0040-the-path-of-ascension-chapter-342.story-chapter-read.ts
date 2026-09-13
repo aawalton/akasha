@@ -9,10 +9,14 @@ export const thePathOfAscension0040ThePathOfAscensionChapter342 = {
   position: 40,
   ownLength: 5095,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1761579/the-path-of-ascension-chapter-342",
-  externalId: "1761579",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1761579",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1761579/the-path-of-ascension-chapter-342",
+    },
+  ],
   publishedAt: "2024-08-16",
   ownProgress: 5095,
   completedAt: "2026-06-29T19:18:53.128Z",

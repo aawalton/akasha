@@ -9,10 +9,14 @@ export const thePathOfAscension0172AsterPlushies = {
   position: 172,
   ownLength: 100,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3052315/aster-plushies",
-  externalId: "3052315",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3052315",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3052315/aster-plushies",
+    },
+  ],
   publishedAt: "2026-02-14",
   ownProgress: 100,
   completedAt: "2026-06-29T19:33:40.558Z",

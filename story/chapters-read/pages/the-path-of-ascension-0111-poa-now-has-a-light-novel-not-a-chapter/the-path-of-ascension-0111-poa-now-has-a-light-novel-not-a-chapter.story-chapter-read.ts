@@ -9,10 +9,14 @@ export const thePathOfAscension0111PoaNowHasALightNovelNotAChapter = {
   position: 111,
   ownLength: 120,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2294346/poa-now-has-a-light-novel-not-a-chapter",
-  externalId: "2294346",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2294346",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2294346/poa-now-has-a-light-novel-not-a-chapter",
+    },
+  ],
   publishedAt: "2025-05-21",
   ownProgress: 120,
   completedAt: "2026-06-29T19:21:38.443Z",

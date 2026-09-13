@@ -9,10 +9,14 @@ export const theNewWorld0381421ADefier = {
   position: 381,
   ownLength: 6173,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2261068/421-a-defier",
-  externalId: "2261068",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2261068",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2261068/421-a-defier",
+    },
+  ],
   publishedAt: "2025-05-07",
   ownProgress: 6173,
   completedAt: "2026-06-29T21:34:23.975Z",

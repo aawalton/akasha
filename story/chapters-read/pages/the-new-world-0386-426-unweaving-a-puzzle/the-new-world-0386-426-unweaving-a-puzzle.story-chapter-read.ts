@@ -9,10 +9,14 @@ export const theNewWorld0386426UnweavingAPuzzle = {
   position: 386,
   ownLength: 5212,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2287699/426-unweaving-a-puzzle",
-  externalId: "2287699",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2287699",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2287699/426-unweaving-a-puzzle",
+    },
+  ],
   publishedAt: "2025-05-18",
   ownProgress: 5212,
   completedAt: "2026-06-29T21:34:35.043Z",

@@ -9,10 +9,14 @@ export const thePrimalHunter0084Chapter1212MentalFortitudeTraining = {
   position: 84,
   ownLength: 2682,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2815445/chapter-1212-mental-fortitude-training",
-  externalId: "2815445",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2815445",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2815445/chapter-1212-mental-fortitude-training",
+    },
+  ],
   publishedAt: "2025-12-03",
   ownProgress: 2682,
   completedAt: "2026-06-29T19:31:55.636Z",

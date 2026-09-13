@@ -9,10 +9,14 @@ export const theNewWorld0385425AMomentBetween = {
   position: 385,
   ownLength: 2979,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2282522/425-a-moment-between",
-  externalId: "2282522",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2282522",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2282522/425-a-moment-between",
+    },
+  ],
   publishedAt: "2025-05-16",
   ownProgress: 2979,
   completedAt: "2026-06-29T21:34:32.802Z",

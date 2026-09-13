@@ -9,10 +9,14 @@ export const thePrimalHunter0039Chapter1167UndesiredRecognition = {
   position: 39,
   ownLength: 2839,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2630785/chapter-1167-undesired-recognition",
-  externalId: "2630785",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2630785",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2630785/chapter-1167-undesired-recognition",
+    },
+  ],
   publishedAt: "2025-09-26",
   ownProgress: 2839,
   completedAt: "2026-06-29T19:30:29.919Z",

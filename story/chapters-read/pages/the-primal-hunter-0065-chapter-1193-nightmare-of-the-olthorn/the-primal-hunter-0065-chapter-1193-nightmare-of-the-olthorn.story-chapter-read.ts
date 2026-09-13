@@ -9,10 +9,14 @@ export const thePrimalHunter0065Chapter1193NightmareOfTheOlthorn = {
   position: 65,
   ownLength: 2695,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2728892/chapter-1193-nightmare-of-the-olthorn",
-  externalId: "2728892",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2728892",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2728892/chapter-1193-nightmare-of-the-olthorn",
+    },
+  ],
   publishedAt: "2025-11-03",
   ownProgress: 2695,
   completedAt: "2026-06-29T19:31:19.563Z",

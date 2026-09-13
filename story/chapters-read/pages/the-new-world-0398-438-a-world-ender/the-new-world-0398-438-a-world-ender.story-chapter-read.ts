@@ -9,10 +9,14 @@ export const theNewWorld0398438AWorldEnder = {
   position: 398,
   ownLength: 3608,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2357731/438-a-world-ender",
-  externalId: "2357731",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2357731",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2357731/438-a-world-ender",
+    },
+  ],
   publishedAt: "2025-06-15",
   ownProgress: 3608,
   completedAt: "2026-06-29T21:35:01.538Z",

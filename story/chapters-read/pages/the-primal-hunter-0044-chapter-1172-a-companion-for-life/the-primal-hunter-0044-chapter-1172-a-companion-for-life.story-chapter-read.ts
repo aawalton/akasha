@@ -9,10 +9,14 @@ export const thePrimalHunter0044Chapter1172ACompanionForLife = {
   position: 44,
   ownLength: 3064,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2648791/chapter-1172-a-companion-for-life",
-  externalId: "2648791",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2648791",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2648791/chapter-1172-a-companion-for-life",
+    },
+  ],
   publishedAt: "2025-10-03",
   ownProgress: 3064,
   completedAt: "2026-06-29T19:30:39.288Z",

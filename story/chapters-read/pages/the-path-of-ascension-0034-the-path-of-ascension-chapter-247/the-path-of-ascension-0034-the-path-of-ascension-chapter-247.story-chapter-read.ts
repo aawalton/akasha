@@ -9,10 +9,14 @@ export const thePathOfAscension0034ThePathOfAscensionChapter247 = {
   position: 34,
   ownLength: 5268,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1299976/the-path-of-ascension-chapter-247",
-  externalId: "1299976",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1299976",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1299976/the-path-of-ascension-chapter-247",
+    },
+  ],
   publishedAt: "2023-08-04",
   ownProgress: 5268,
   completedAt: "2026-06-29T19:18:38.926Z",

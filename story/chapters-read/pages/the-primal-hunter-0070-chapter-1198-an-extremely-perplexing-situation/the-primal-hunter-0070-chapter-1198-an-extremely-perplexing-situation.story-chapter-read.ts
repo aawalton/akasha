@@ -9,10 +9,14 @@ export const thePrimalHunter0070Chapter1198AnExtremelyPerplexingSituation = {
   position: 70,
   ownLength: 2674,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2748897/chapter-1198-an-extremely-perplexing-situation",
-  externalId: "2748897",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2748897",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2748897/chapter-1198-an-extremely-perplexing-situation",
+    },
+  ],
   publishedAt: "2025-11-10",
   ownProgress: 2674,
   completedAt: "2026-06-29T19:31:29.104Z",

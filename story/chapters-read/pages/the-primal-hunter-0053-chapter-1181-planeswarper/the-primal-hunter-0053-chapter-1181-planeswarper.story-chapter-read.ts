@@ -9,10 +9,14 @@ export const thePrimalHunter0053Chapter1181Planeswarper = {
   position: 53,
   ownLength: 2814,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2681094/chapter-1181-planeswarper",
-  externalId: "2681094",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2681094",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2681094/chapter-1181-planeswarper",
+    },
+  ],
   publishedAt: "2025-10-16",
   ownProgress: 2814,
   completedAt: "2026-06-29T19:30:56.611Z",

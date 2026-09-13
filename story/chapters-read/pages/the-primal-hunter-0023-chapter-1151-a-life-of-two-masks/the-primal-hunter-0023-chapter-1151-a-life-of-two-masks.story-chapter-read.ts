@@ -9,10 +9,14 @@ export const thePrimalHunter0023Chapter1151ALifeOfTwoMasks = {
   position: 23,
   ownLength: 2813,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2517869/chapter-1151-a-life-of-two-masks",
-  externalId: "2517869",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2517869",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2517869/chapter-1151-a-life-of-two-masks",
+    },
+  ],
   publishedAt: "2025-08-14",
   ownProgress: 2813,
   completedAt: "2026-06-29T19:29:59.090Z",

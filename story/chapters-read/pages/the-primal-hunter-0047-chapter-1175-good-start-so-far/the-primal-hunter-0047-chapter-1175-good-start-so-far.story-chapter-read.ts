@@ -9,10 +9,14 @@ export const thePrimalHunter0047Chapter1175GoodStartSoFar = {
   position: 47,
   ownLength: 2777,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2660996/chapter-1175-good-start-so-far",
-  externalId: "2660996",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2660996",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2660996/chapter-1175-good-start-so-far",
+    },
+  ],
   publishedAt: "2025-10-08",
   ownProgress: 2777,
   completedAt: "2026-06-29T19:30:45.050Z",

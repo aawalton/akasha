@@ -9,10 +9,14 @@ export const thePrimalHunter0038Chapter1166Level320ProfessionSkillSelection = {
   position: 38,
   ownLength: 3068,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2628187/chapter-1166-level-320-profession-skill-selection",
-  externalId: "2628187",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2628187",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2628187/chapter-1166-level-320-profession-skill-selection",
+    },
+  ],
   publishedAt: "2025-09-25",
   ownProgress: 3068,
   completedAt: "2026-06-29T19:30:27.998Z",

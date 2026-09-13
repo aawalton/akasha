@@ -9,10 +9,14 @@ export const thePrimalHunter0095Chapter1223AnActOfGrandConsumption = {
   position: 95,
   ownLength: 2942,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2859104/chapter-1223-an-act-of-grand-consumption",
-  externalId: "2859104",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2859104",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2859104/chapter-1223-an-act-of-grand-consumption",
+    },
+  ],
   publishedAt: "2025-12-18",
   ownProgress: 2942,
   completedAt: "2026-06-29T19:32:16.400Z",

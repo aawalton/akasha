@@ -9,10 +9,14 @@ export const thePrimalHunter0097Chapter1225SacredMeditation = {
   position: 97,
   ownLength: 2827,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2868783/chapter-1225-sacred-meditation",
-  externalId: "2868783",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2868783",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2868783/chapter-1225-sacred-meditation",
+    },
+  ],
   publishedAt: "2025-12-22",
   ownProgress: 2827,
   completedAt: "2026-06-29T19:32:20.234Z",

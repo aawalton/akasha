@@ -9,10 +9,14 @@ export const theNewWorld0410450Preparations = {
   position: 410,
   ownLength: 3692,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2430733/450-preparations",
-  externalId: "2430733",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2430733",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2430733/450-preparations",
+    },
+  ],
   publishedAt: "2025-07-13",
   ownProgress: 3692,
   completedAt: "2026-06-29T21:35:27.626Z",

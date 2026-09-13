@@ -9,10 +9,14 @@ export const thePathOfAscension0161ThePathOfAscensionChapter462 = {
   position: 161,
   ownLength: 4573,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2822281/the-path-of-ascension-chapter-462",
-  externalId: "2822281",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2822281",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2822281/the-path-of-ascension-chapter-462",
+    },
+  ],
   publishedAt: "2025-12-05",
   ownProgress: 4573,
   completedAt: "2026-06-29T19:33:17.564Z",

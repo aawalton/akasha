@@ -9,10 +9,14 @@ export const thePrimalHunter0092Chapter1220AGambitForRecovery = {
   position: 92,
   ownLength: 2678,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2850297/chapter-1220-a-gambit-for-recovery",
-  externalId: "2850297",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2850297",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2850297/chapter-1220-a-gambit-for-recovery",
+    },
+  ],
   publishedAt: "2025-12-15",
   ownProgress: 2678,
   completedAt: "2026-06-29T19:32:10.782Z",

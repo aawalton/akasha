@@ -9,10 +9,14 @@ export const thePrimalHunter0080Chapter1208BackInTheSaddle = {
   position: 80,
   ownLength: 2729,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2789007/chapter-1208-back-in-the-saddle",
-  externalId: "2789007",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2789007",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2789007/chapter-1208-back-in-the-saddle",
+    },
+  ],
   publishedAt: "2025-11-24",
   ownProgress: 2729,
   completedAt: "2026-06-29T19:31:48.170Z",

@@ -9,10 +9,14 @@ export const thePathOfAscension0099ThePathOfAscensionChapter401 = {
   position: 99,
   ownLength: 4913,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2193780/the-path-of-ascension-chapter-401",
-  externalId: "2193780",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2193780",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2193780/the-path-of-ascension-chapter-401",
+    },
+  ],
   publishedAt: "2025-04-11",
   ownProgress: 4913,
   completedAt: "2026-06-29T19:21:10.310Z",

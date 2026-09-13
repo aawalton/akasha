@@ -9,10 +9,14 @@ export const theNewWorld0383423ABrokenFacade = {
   position: 383,
   ownLength: 4140,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2272040/423-a-broken-facade",
-  externalId: "2272040",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2272040",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2272040/423-a-broken-facade",
+    },
+  ],
   publishedAt: "2025-05-11",
   ownProgress: 4140,
   completedAt: "2026-06-29T21:34:28.539Z",

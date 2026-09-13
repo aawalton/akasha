@@ -9,10 +9,14 @@ export const thePrimalHunter0004Chapter4FirstBattle = {
   position: 4,
   ownLength: 2312,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/557914/chapter-4-first-battle",
-  externalId: "557914",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "557914",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/557914/chapter-4-first-battle",
+    },
+  ],
   publishedAt: "2020-09-21",
   ownProgress: 2312,
   completedAt: "2026-06-29T19:29:22.655Z",

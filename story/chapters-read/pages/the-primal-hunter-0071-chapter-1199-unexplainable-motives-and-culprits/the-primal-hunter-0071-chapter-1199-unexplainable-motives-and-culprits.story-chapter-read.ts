@@ -9,10 +9,14 @@ export const thePrimalHunter0071Chapter1199UnexplainableMotivesAndCulprits = {
   position: 71,
   ownLength: 2842,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2752049/chapter-1199-unexplainable-motives-culprits",
-  externalId: "2752049",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2752049",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2752049/chapter-1199-unexplainable-motives-culprits",
+    },
+  ],
   publishedAt: "2025-11-11",
   ownProgress: 2842,
   completedAt: "2026-06-29T19:31:30.907Z",

@@ -9,10 +9,14 @@ export const theNewWorld0384424AWarWaged = {
   position: 384,
   ownLength: 5530,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2277926/424-a-war-waged",
-  externalId: "2277926",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2277926",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2277926/424-a-war-waged",
+    },
+  ],
   publishedAt: "2025-05-14",
   ownProgress: 5530,
   completedAt: "2026-06-29T21:34:30.553Z",

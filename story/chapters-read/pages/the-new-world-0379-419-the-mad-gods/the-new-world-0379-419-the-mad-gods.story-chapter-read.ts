@@ -9,10 +9,14 @@ export const theNewWorld0379419TheMadGods = {
   position: 379,
   ownLength: 4339,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2248191/419-the-mad-gods",
-  externalId: "2248191",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2248191",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2248191/419-the-mad-gods",
+    },
+  ],
   publishedAt: "2025-05-02",
   ownProgress: 4339,
   completedAt: "2026-06-29T21:34:19.843Z",

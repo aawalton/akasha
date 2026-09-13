@@ -9,10 +9,14 @@ export const theNewWorld0377417AnAlienatingAscension = {
   position: 377,
   ownLength: 5387,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2234285/417-an-alienating-ascension",
-  externalId: "2234285",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2234285",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2234285/417-an-alienating-ascension",
+    },
+  ],
   publishedAt: "2025-04-27",
   ownProgress: 5387,
   completedAt: "2026-06-29T21:34:15.687Z",

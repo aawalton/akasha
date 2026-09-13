@@ -9,10 +9,14 @@ export const thePrimalHunter0059Chapter1187LongRangeArchery = {
   position: 59,
   ownLength: 3544,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2701436/chapter-1187-long-range-archery",
-  externalId: "2701436",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2701436",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2701436/chapter-1187-long-range-archery",
+    },
+  ],
   publishedAt: "2025-10-24",
   ownProgress: 3544,
   completedAt: "2026-06-29T19:31:08.120Z",

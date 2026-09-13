@@ -9,10 +9,14 @@ export const thePathOfAscension0096ThePathOfAscensionChapter398 = {
   position: 96,
   ownLength: 6200,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2148372/the-path-of-ascension-chapter-398",
-  externalId: "2148372",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2148372",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2148372/the-path-of-ascension-chapter-398",
+    },
+  ],
   publishedAt: "2025-03-24",
   ownProgress: 6200,
   completedAt: "2026-06-29T19:21:03.618Z",

@@ -9,10 +9,14 @@ export const thePrimalHunter0025Chapter1153AQuiteUniqueParty = {
   position: 25,
   ownLength: 2784,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2528138/chapter-1153-a-quite-unique-party",
-  externalId: "2528138",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2528138",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2528138/chapter-1153-a-quite-unique-party",
+    },
+  ],
   publishedAt: "2025-08-18",
   ownProgress: 2784,
   completedAt: "2026-06-29T19:30:02.968Z",

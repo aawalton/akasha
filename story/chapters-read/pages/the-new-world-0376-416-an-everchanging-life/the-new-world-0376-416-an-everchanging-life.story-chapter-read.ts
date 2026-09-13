@@ -9,10 +9,14 @@ export const theNewWorld0376416AnEverchangingLife = {
   position: 376,
   ownLength: 4895,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2228797/416-an-everchanging-life",
-  externalId: "2228797",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2228797",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2228797/416-an-everchanging-life",
+    },
+  ],
   publishedAt: "2025-04-25",
   ownProgress: 4895,
   completedAt: "2026-06-29T21:34:13.563Z",

@@ -9,10 +9,14 @@ export const thePrimalHunter0033Chapter1161LayingMuchGroundwork = {
   position: 33,
   ownLength: 2513,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2610242/chapter-1161-laying-much-groundwork",
-  externalId: "2610242",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2610242",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2610242/chapter-1161-laying-much-groundwork",
+    },
+  ],
   publishedAt: "2025-09-18",
   ownProgress: 2513,
   completedAt: "2026-06-29T19:30:18.461Z",

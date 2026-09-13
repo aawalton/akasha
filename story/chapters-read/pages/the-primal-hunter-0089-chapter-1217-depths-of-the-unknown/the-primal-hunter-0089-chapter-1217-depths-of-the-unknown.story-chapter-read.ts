@@ -9,10 +9,14 @@ export const thePrimalHunter0089Chapter1217DepthsOfTheUnknown = {
   position: 89,
   ownLength: 2903,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2836145/chapter-1217-depths-of-the-unknown",
-  externalId: "2836145",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2836145",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2836145/chapter-1217-depths-of-the-unknown",
+    },
+  ],
   publishedAt: "2025-12-10",
   ownProgress: 2903,
   completedAt: "2026-06-29T19:32:05.118Z",

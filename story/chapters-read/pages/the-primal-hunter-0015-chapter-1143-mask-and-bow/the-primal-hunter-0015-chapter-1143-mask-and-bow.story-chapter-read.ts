@@ -9,10 +9,14 @@ export const thePrimalHunter0015Chapter1143MaskAndBow = {
   position: 15,
   ownLength: 2937,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2491521/chapter-1143-mask-bow",
-  externalId: "2491521",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2491521",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2491521/chapter-1143-mask-bow",
+    },
+  ],
   publishedAt: "2025-08-04",
   ownProgress: 2937,
   completedAt: "2026-06-29T19:29:44.113Z",

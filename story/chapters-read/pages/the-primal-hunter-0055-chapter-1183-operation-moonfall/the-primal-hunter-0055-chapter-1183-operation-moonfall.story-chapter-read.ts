@@ -9,10 +9,14 @@ export const thePrimalHunter0055Chapter1183OperationMoonfall = {
   position: 55,
   ownLength: 3208,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2691172/chapter-1183-operation-moonfall",
-  externalId: "2691172",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2691172",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2691172/chapter-1183-operation-moonfall",
+    },
+  ],
   publishedAt: "2025-10-20",
   ownProgress: 3208,
   completedAt: "2026-06-29T19:31:00.435Z",

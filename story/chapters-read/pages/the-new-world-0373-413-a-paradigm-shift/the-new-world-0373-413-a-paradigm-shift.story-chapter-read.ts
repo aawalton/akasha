@@ -9,10 +9,14 @@ export const theNewWorld0373413AParadigmShift = {
   position: 373,
   ownLength: 5127,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2210976/413-a-paradigm-shift",
-  externalId: "2210976",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2210976",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2210976/413-a-paradigm-shift",
+    },
+  ],
   publishedAt: "2025-04-18",
   ownProgress: 5127,
   completedAt: "2026-06-29T21:34:07.181Z",

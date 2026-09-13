@@ -9,9 +9,14 @@ export const theNewWorld0413453Shatter = {
   position: 413,
   ownLength: 4348,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2457931/453-shatter",
-  externalId: "2457931",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2457931",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2457931/453-shatter",
+    },
+  ],
   publishedAt: "2025-07-22",
   ownProgress: 4348,
   completedAt: "2026-06-29T21:35:33.589Z",

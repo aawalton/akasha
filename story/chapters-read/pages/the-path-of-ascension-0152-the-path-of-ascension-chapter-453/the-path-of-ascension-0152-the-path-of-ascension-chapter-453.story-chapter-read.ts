@@ -9,10 +9,14 @@ export const thePathOfAscension0152ThePathOfAscensionChapter453 = {
   position: 152,
   ownLength: 5648,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2709661/the-path-of-ascension-chapter-453",
-  externalId: "2709661",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2709661",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2709661/the-path-of-ascension-chapter-453",
+    },
+  ],
   publishedAt: "2025-10-27",
   ownProgress: 5648,
   completedAt: "2026-06-29T19:22:56.706Z",

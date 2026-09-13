@@ -9,10 +9,14 @@ export const thePrimalHunter0024Chapter1152NevermorePartyPartyInvites = {
   position: 24,
   ownLength: 2781,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2520470/chapter-1152-nevermore-party-party-invites",
-  externalId: "2520470",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2520470",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2520470/chapter-1152-nevermore-party-party-invites",
+    },
+  ],
   publishedAt: "2025-08-15",
   ownProgress: 2781,
   completedAt: "2026-06-29T19:30:01.001Z",
