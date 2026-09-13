@@ -14,7 +14,10 @@ import {
 import {
   dedupeRecordings,
   extractGenres,
+  identitiesWith,
+  identityHeld,
   isSongWork,
+  mbArtistIdentity,
   mbArtistToFields,
   mbRecordingToSongFields,
   mbWorkToSongFields,
@@ -76,6 +79,8 @@ import { todayYYYYMMDD } from "akasha/utils/sync/modules/today/today.module.code
 const ARTIST = "artist"
 
 const SONG = "song"
+
+const MUSICBRAINZ = "musicbrainz"
 
 const TXT = "txt"
 
@@ -186,17 +191,27 @@ function catalogueIn(root: string): Catalogue {
   return { names: songNamesFrom(rows), held }
 }
 
+function flatlyHeld(held: Value, mbid: string): boolean {
+  return held["externalId"] === mbid && held["source"] === MUSICBRAINZ
+}
+
 function artistIn(
   root: string,
   mbid: string,
   name: string
 ): { readonly slug: string; readonly was: Value } {
   for (const one of valuesOfType(root, ARTIST)) {
-    if (one.value["externalId"] !== mbid) continue
+    const found = identityHeld(one.value["externalIdentity"], mbid) || flatlyHeld(one.value, mbid)
+    if (!found) continue
     const slug = textIn(one.value, "slug")
     if (slug !== null) return { slug, was: one.value }
   }
   return { slug: artistSlugOf(name), was: {} }
+}
+
+function withoutFlatIdentity(held: Value): Value {
+  const { externalId, externalLink, source, lastSyncedAt, ...rest } = held
+  return rest
 }
 
 function edited(put: Put): Asking {
@@ -359,13 +374,12 @@ export async function gathered(
       pageTypeSlug: ARTIST,
       slug: named.slug,
       values: {
-        ...named.was,
-        ...mbArtistToFields({
-          mbid: found,
-          name: artist.name,
-          genres: extractGenres(artist),
-          today,
-        }),
+        ...withoutFlatIdentity(named.was),
+        ...mbArtistToFields({ name: artist.name, genres: extractGenres(artist) }),
+        externalIdentity: identitiesWith(
+          named.was["externalIdentity"],
+          mbArtistIdentity({ mbid: found, today })
+        ),
         type: ARTIST,
         slug: named.slug,
       },

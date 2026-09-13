@@ -216,11 +216,14 @@ test("the artist page and a song page are composed from the works", async () => 
   )
 
   const artistBody = bodyAt(found, artistAt)
-  expect(artistBody).toContain(`externalId: "${MBID}"`)
-  expect(artistBody).toContain(`externalLink: "https://musicbrainz.org/artist/${MBID}"`)
+  expect(artistBody).toContain(`externalIdentity: [{source:"musicbrainz"`)
+  expect(artistBody).toContain(`externalId:"${MBID}"`)
+  expect(artistBody).toContain(`externalLink:"https://musicbrainz.org/artist/${MBID}"`)
+  expect(artistBody).toContain(`lastSyncedAt:"${TODAY}"`)
   expect(artistBody).toContain(`genre: ["folk","ambient"]`)
-  expect(artistBody).toContain(`lastSyncedAt: "${TODAY}"`)
   expect(artistBody).not.toContain("\n  id:")
+  expect(artistBody).not.toMatch(/\n {2}externalId:/)
+  expect(artistBody).not.toMatch(/\n {2}source:/)
 
   const songBody = bodyAt(found, firstAt)
   expect(songBody).toMatch(new RegExp(`(?:artist|artistSlug): "${ARTIST_SLUG}"`))

@@ -5,7 +5,10 @@ import {
   deriveSongTypeFromTitle,
   deriveWritten,
   extractGenres,
+  identitiesWith,
+  identityHeld,
   isSongWork,
+  mbArtistIdentity,
   mbArtistToFields,
   mbRecordingToSongFields,
   mbWorkToSongFields,
@@ -292,41 +295,75 @@ describe("dedupeRecordings", () => {
 
 describe("mbArtistToFields", () => {
   test("answers the fields an artist page carries", () => {
-    expect(
-      mbArtistToFields({
-        mbid: QUEEN,
-        name: "Queen",
-        genres: ["rock", "glam rock"],
-        today: "2026-09-02",
-      })
-    ).toEqual({
+    expect(mbArtistToFields({ name: "Queen", genres: ["rock", "glam rock"] })).toEqual({
       title: "Queen",
-      externalId: QUEEN,
-      externalLink: "https://musicbrainz.org/artist/mbid-queen",
-      source: "musicbrainz",
       genre: ["rock", "glam rock"],
-      lastSyncedAt: "2026-09-02",
     })
+  })
+
+  test("names no provider, which the identity carries instead", () => {
+    const fields = mbArtistToFields({ name: "Queen", genres: [] })
+    expect("externalId" in fields).toBe(false)
+    expect("source" in fields).toBe(false)
   })
 
   test("keeps the name MusicBrainz gave letter for letter", () => {
-    const fields = mbArtistToFields({
-      mbid: "mbid-sigur-ros",
-      name: "Sigur Rós",
-      genres: [],
-      today: "2026-09-02",
-    })
-    expect(fields.title).toBe("Sigur Rós")
+    expect(mbArtistToFields({ name: "Sigur Rós", genres: [] }).title).toBe("Sigur Rós")
   })
 
   test("keeps a name written in no Latin letter", () => {
-    const fields = mbArtistToFields({
-      mbid: "mbid-yorushika",
-      name: "ヨルシカ",
-      genres: [],
-      today: "2026-09-02",
+    expect(mbArtistToFields({ name: "ヨルシカ", genres: [] }).title).toBe("ヨルシカ")
+  })
+})
+
+describe("mbArtistIdentity", () => {
+  test("answers the one record MusicBrainz holds of an artist", () => {
+    expect(mbArtistIdentity({ mbid: QUEEN, today: "2026-09-02" })).toEqual({
+      source: "musicbrainz",
+      externalId: QUEEN,
+      externalLink: "https://musicbrainz.org/artist/mbid-queen",
+      lastSyncedAt: "2026-09-02",
     })
-    expect(fields.title).toBe("ヨルシカ")
+  })
+})
+
+describe("identityHeld", () => {
+  const held = [
+    { source: "spotify", externalId: "sp1" },
+    { source: "musicbrainz", externalId: QUEEN },
+  ]
+
+  test("finds the MusicBrainz id among the records a page holds", () => {
+    expect(identityHeld(held, QUEEN)).toBe(true)
+  })
+
+  test("answers false where another provider holds that id", () => {
+    expect(identityHeld(held, "sp1")).toBe(false)
+  })
+
+  test("answers false where the page holds no record at all", () => {
+    expect(identityHeld(undefined, QUEEN)).toBe(false)
+  })
+})
+
+describe("identitiesWith", () => {
+  const spotify = { source: "spotify", externalId: "sp1" } as const
+
+  test("keeps the records of every other provider", () => {
+    const held = identitiesWith([spotify], mbArtistIdentity({ mbid: QUEEN, today: "2026-09-02" }))
+    expect(held.map((one) => one.source)).toEqual(["musicbrainz", "spotify"])
+  })
+
+  test("writes over the record the same provider held", () => {
+    const was = [{ source: "musicbrainz", externalId: "stale" }, spotify]
+    const held = identitiesWith(was, mbArtistIdentity({ mbid: QUEEN, today: "2026-09-02" }))
+    expect(held.filter((one) => one.source === "musicbrainz")).toHaveLength(1)
+    expect(held.find((one) => one.source === "musicbrainz")?.externalId).toBe(QUEEN)
+  })
+
+  test("answers the one record where the page held none", () => {
+    const held = identitiesWith(undefined, mbArtistIdentity({ mbid: QUEEN, today: "2026-09-02" }))
+    expect(held).toHaveLength(1)
   })
 })
 

@@ -10,10 +10,9 @@ import type { Written } from "akasha/alan/music/catalog/songs/properties/written
 import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.ts"
 import { compareKey } from "akasha/utils/narrow/modules/compare-key/compare-key.module.code.ts"
 
-export type ArtistFields = Pick<
-  Artist,
-  "title" | "externalId" | "externalLink" | "source" | "lastSyncedAt" | "genre"
->
+export type ArtistFields = Pick<Artist, "title" | "genre">
+
+export type ArtistIdentity = NonNullable<Artist["externalIdentity"]>[number]
 
 export type SongFields = Pick<
   Song,
@@ -163,19 +162,45 @@ export function dedupeRecordings(recordings: readonly MbRecording[]): readonly D
 }
 
 export function mbArtistToFields(args: {
-  readonly mbid: string
   readonly name: string
   readonly genres: readonly string[]
-  readonly today: string
 }): ArtistFields {
   return {
     title: args.name,
+    genre: [...args.genres],
+  }
+}
+
+export function mbArtistIdentity(args: {
+  readonly mbid: string
+  readonly today: string
+}): ArtistIdentity {
+  return {
+    source: SOURCE,
     externalId: args.mbid,
     externalLink: artistExternalLink(args.mbid),
-    source: SOURCE,
-    genre: [...args.genres],
     lastSyncedAt: args.today,
   }
+}
+
+export function identityHeld(held: unknown, mbid: string): boolean {
+  if (Array.isArray(held)) {
+    return held.some(
+      (one) =>
+        typeof one === "object" &&
+        one !== null &&
+        (one as ArtistIdentity).source === SOURCE &&
+        (one as ArtistIdentity).externalId === mbid
+    )
+  }
+  return false
+}
+
+export function identitiesWith(held: unknown, fresh: ArtistIdentity): readonly ArtistIdentity[] {
+  const kept = Array.isArray(held)
+    ? (held as readonly ArtistIdentity[]).filter((one) => one.source !== fresh.source)
+    : []
+  return [...kept, fresh].sort((a, b) => (a.source < b.source ? -1 : a.source > b.source ? 1 : 0))
 }
 
 export function mbWorkToSongFields(args: {
