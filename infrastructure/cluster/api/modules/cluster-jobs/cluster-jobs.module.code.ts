@@ -116,36 +116,3 @@ export async function readJobPodLogs(namespace: string, jobName: string): Promis
   if (!response.ok) await refuse("readJobPodLogs", response)
   return await response.text()
 }
-
-const EventListSchema = z
-  .object({
-    items: z.array(
-      z
-        .object({
-          reason: z.string().optional(),
-          lastTimestamp: z.string().nullish(),
-          eventTime: z.string().nullish(),
-          reportingInstance: z.string().optional(),
-          source: z.object({ host: z.string().optional() }).passthrough().optional(),
-        })
-        .passthrough()
-    ),
-  })
-  .passthrough()
-
-export async function countOutOfCpuEvents(node: string, sinceMs: number): Promise<number> {
-  const response = await k8sFetch(
-    "/api/v1/events?fieldSelector=reason=OutOfcpu",
-    { method: "GET" },
-    getConfig()
-  )
-  if (!response.ok) await refuse("countOutOfCpuEvents", response)
-  const body = EventListSchema.parse(await response.json())
-  return body.items.filter((e) => {
-    const host = e.source?.host ?? e.reportingInstance ?? ""
-    if (host !== node) return false
-    const at = e.lastTimestamp ?? e.eventTime
-    if (at === null || at === undefined || at === "") return true
-    return Date.parse(at) >= sinceMs
-  }).length
-}

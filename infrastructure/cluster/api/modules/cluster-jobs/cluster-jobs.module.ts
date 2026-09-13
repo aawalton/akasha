@@ -23,9 +23,5 @@ export const clusterJobs = {
       invariantKind: "departure",
       statement: "A job that made no pod has an empty log.",
     },
-    {
-      invariantKind: "departure",
-      statement: "An out-of-cpu event is attributed to a node by the host the event names.",
-    },
   ],
 } as const satisfies Module
