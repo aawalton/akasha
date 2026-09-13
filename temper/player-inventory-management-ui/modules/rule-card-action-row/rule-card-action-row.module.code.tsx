@@ -33,7 +33,7 @@ import { CompanionTargetSelect } from "akasha/temper/player-inventory-management
 import { DeconstructScopeSelect } from "akasha/temper/player-inventory-management-ui/modules/deconstruct-scope-select/deconstruct-scope-select.module.code.tsx"
 import { DestinationCascade } from "akasha/temper/player-inventory-management-ui/modules/destination-cascade/destination-cascade.module.code.tsx"
 import { RuleCardDestinationChain } from "akasha/temper/player-inventory-management-ui/modules/rule-card-destination-chain/rule-card-destination-chain.module.code.tsx"
-import { StockScopeSelect } from "akasha/temper/player-inventory-management-ui/stock-scope-select/stock-scope-select.module.code.tsx"
+import { StockScopeSelect } from "akasha/temper/player-inventory-management-ui/modules/stock-scope-select/stock-scope-select.module.code.tsx"
 import type { DestinationOptions } from "akasha/temper/player-inventory-management-ui/use-destination-options/use-destination-options.module.code.ts"
 import { ChevronRight } from "lucide-react"
 

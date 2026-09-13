@@ -1,6 +1,6 @@
 import { classifyActionBarMessage } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import type { GameDisplayModules } from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
-import type { GameState } from "akasha/story/engine/core/state-schema/state-schema.module.code.ts"
+import type { GameState } from "akasha/story/engine/core/modules/state-schema/state-schema.module.code.ts"
 import type {
   PendingActionInput,
   SessionEnvelope,

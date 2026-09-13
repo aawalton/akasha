@@ -14,7 +14,7 @@ import {
 import {
   type GameState,
   HudSchema,
-} from "akasha/story/engine/core/state-schema/state-schema.module.code.ts"
+} from "akasha/story/engine/core/modules/state-schema/state-schema.module.code.ts"
 import { SystemWindowSchema } from "akasha/story/engine/core/system-window-schema/system-window-schema.module.code.ts"
 import type { ClientStoryChapter } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import { z } from "zod"

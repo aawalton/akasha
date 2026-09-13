@@ -17,7 +17,7 @@ import type { MetricId } from "akasha/temper/formula-framework/modules/metric-id
 import {
   type StatChangeNotification,
   StatChangesDescription,
-} from "akasha/temper/web/stat-changes-description/stat-changes-description.module.code.tsx"
+} from "akasha/temper/web/modules/stat-changes-description/stat-changes-description.module.code.tsx"
 import { useEffect, useRef } from "react"
 import { toast } from "sonner"
 

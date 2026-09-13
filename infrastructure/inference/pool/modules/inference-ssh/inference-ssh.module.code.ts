@@ -1,6 +1,6 @@
 import { spawn } from "node:child_process"
 import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { sshArgs } from "akasha/alan/harness/ssh-access/ssh-target/ssh-target.module.code.ts"
+import { sshArgs } from "akasha/alan/harness/ssh-access/modules/ssh-target/ssh-target.module.code.ts"
 import { expandTilde } from "akasha/utils/fs/modules/expand-tilde/expand-tilde.module.code.ts"
 
 export interface SshTarget {

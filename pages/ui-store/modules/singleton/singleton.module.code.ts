@@ -4,7 +4,7 @@ import type { PagesPersistencePort } from "akasha/pages/ui-store/collection/modu
 import {
   createPagesStore,
   type PagesStore,
-} from "akasha/pages/ui-store/collection/store/store.module.code.ts"
+} from "akasha/pages/ui-store/collection/modules/store/store.module.code.ts"
 import { emitStoreDiagnostic } from "akasha/pages/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 
 const HYDRATE_GATE_TIMEOUT_MS = 3_000

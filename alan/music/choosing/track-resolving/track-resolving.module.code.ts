@@ -6,8 +6,8 @@ import { selectCandidates } from "akasha/alan/music/choosing/track-candidate/tra
 import {
   getDevices,
   getPlaybackState,
-} from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
-import { search } from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
+} from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
+import { search } from "akasha/alan/music/spotify/modules/search/spotify-search.module.code.ts"
 import { requireMatchPositional } from "akasha/utils/narrow/modules/require-match-positional/require-match-positional.module.code.ts"
 import { z } from "zod"
 

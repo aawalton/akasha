@@ -25,7 +25,7 @@ import {
 import { slotKey } from "akasha/temper/items-addon/modules/inventory-slot-key/inventory-slot-key.module.code.ts"
 import { computeStockTierDeposit } from "akasha/temper/items-addon/modules/inventory-stock-deposit-decision/inventory-stock-deposit-decision.module.code.ts"
 import type { ItemAction } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { planStockChainVisit } from "akasha/temper/items-rules-core/stock-chain-visit/stock-chain-visit.module.code.ts"
+import { planStockChainVisit } from "akasha/temper/items-rules-core/modules/stock-chain-visit/stock-chain-visit.module.code.ts"
 import { isConsolidateDest } from "akasha/temper/items-rules-routing-core/modules/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
 
 const DEPOSIT_CHARACTER_PREFIX = "character:"

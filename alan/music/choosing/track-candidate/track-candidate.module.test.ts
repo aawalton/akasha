@@ -5,7 +5,7 @@ import {
   toCandidate,
   toCandidates,
 } from "akasha/alan/music/choosing/track-candidate/track-candidate.module.code.ts"
-import type { SearchItem } from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
+import type { SearchItem } from "akasha/alan/music/spotify/modules/search/spotify-search.module.code.ts"
 
 type Hit = {
   id: string | null

@@ -12,7 +12,7 @@ import { isNativeShell } from "akasha/alan/web/modules/capacitor-bridge/capacito
 import { createNativeFsContentPersistence } from "akasha/alan/web/modules/content-pages-fs/content-pages-fs.module.code.ts"
 import { readLocalPosition } from "akasha/alan/web/modules/offline-text/offline-text.module.code.ts"
 import { createNativeFsPagesPersistence } from "akasha/alan/web/modules/pages-persistence-fs/pages-persistence-fs.module.code.ts"
-import { StatusBarSync } from "akasha/alan/web/status-bar-sync/status-bar-sync.module.code.tsx"
+import { StatusBarSync } from "akasha/alan/web/modules/status-bar-sync/status-bar-sync.module.code.tsx"
 import { PageLayoutSkeleton } from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"

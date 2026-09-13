@@ -4,7 +4,7 @@ import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.modul
 import { PanelCard } from "akasha/design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"
 import { buildNodePath } from "akasha/design/interfaces/patterns/modules/path/path.module.code.ts"
 import type { SortDirection } from "akasha/design/interfaces/patterns/modules/sort-types/sort-types.module.code.ts"
-import { StatRow } from "akasha/design/interfaces/patterns/stat-row/stat-row.module.code.tsx"
+import { StatRow } from "akasha/design/interfaces/patterns/modules/stat-row/stat-row.module.code.tsx"
 import { useSetToggle } from "akasha/design/interfaces/patterns/use-set-toggle/use-set-toggle.module.code.ts"
 import {
   ACTIVITY_CATEGORIES,

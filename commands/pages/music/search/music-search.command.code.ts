@@ -3,8 +3,8 @@ import { selectCandidates } from "akasha/alan/music/choosing/track-candidate/tra
 import type {
   SearchParams,
   SearchResponse,
-} from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
-import { search } from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
+} from "akasha/alan/music/spotify/modules/search/spotify-search.module.code.ts"
+import { search } from "akasha/alan/music/spotify/modules/search/spotify-search.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { artist as artistArgument } from "akasha/commands/arguments/pages/artist.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"

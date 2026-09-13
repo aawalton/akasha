@@ -8,7 +8,7 @@ import {
   remoteScriptPath,
   rsyncSshTransport,
   sshConnectionOptions,
-} from "akasha/alan/harness/mobile-cli/ssh-delivery/ssh-delivery.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/modules/ssh-delivery/ssh-delivery.module.code.ts"
 import { expandTilde } from "akasha/utils/fs/modules/expand-tilde/expand-tilde.module.code.ts"
 
 export interface SshTarget {

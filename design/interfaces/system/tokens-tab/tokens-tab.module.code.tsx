@@ -6,7 +6,7 @@ import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.
 import { BordersPanel } from "akasha/design/interfaces/system/modules/borders/borders.module.code.tsx"
 import { GemstoneColorsPanel } from "akasha/design/interfaces/system/modules/gemstone-colors/gemstone-colors.module.code.tsx"
 import { SpacingRadiusPanel } from "akasha/design/interfaces/system/modules/spacing-radius/spacing-radius.module.code.tsx"
-import { StateLayersPanel } from "akasha/design/interfaces/system/state-layers/state-layers.module.code.tsx"
+import { StateLayersPanel } from "akasha/design/interfaces/system/modules/state-layers/state-layers.module.code.tsx"
 import { SurfaceElevationPanel } from "akasha/design/interfaces/system/surface-elevation/surface-elevation.module.code.tsx"
 import { TextColorsPanel } from "akasha/design/interfaces/system/text-colors/text-colors.module.code.tsx"
 import { TypographyPanel } from "akasha/design/interfaces/system/typography/typography.module.code.tsx"

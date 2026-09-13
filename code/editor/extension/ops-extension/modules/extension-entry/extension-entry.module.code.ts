@@ -17,7 +17,7 @@ import {
 } from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
 import * as pageTree from "akasha/code/editor/extension/modules/page-tree-panel/page-tree-panel.module.code.ts"
 import * as seatEnter from "akasha/code/editor/extension/modules/seat-terminal-enter/seat-terminal-enter.module.code.ts"
-import * as statusBar from "akasha/code/editor/extension/status-bar-panel/status-bar-panel.module.code.ts"
+import * as statusBar from "akasha/code/editor/extension/modules/status-bar-panel/status-bar-panel.module.code.ts"
 import * as terminalRename from "akasha/code/editor/extension/terminal-renaming/terminal-renaming.module.code.ts"
 import * as transcript from "akasha/code/editor/extension/transcript-panel/transcript-panel.module.code.ts"
 import { readProcess } from "akasha/code/editor/extension/window-identity/window-identity.module.code.ts"

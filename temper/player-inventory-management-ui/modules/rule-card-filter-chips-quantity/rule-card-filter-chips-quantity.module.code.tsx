@@ -11,7 +11,7 @@ import {
 } from "akasha/design/interfaces/primitives/modules/select-control/select-control.module.code.tsx"
 import { ALL_STOCKED_OPTIONS } from "akasha/temper/items-rules-core/modules/all-stocked-filter/all-stocked-filter.module.code.ts"
 import { KEEP_QUANTITY_OPTIONS } from "akasha/temper/items-rules-core/modules/keep-quantity-filter/keep-quantity-filter.module.code.ts"
-import { STOCK_THRESHOLD_OPTIONS } from "akasha/temper/items-rules-core/stock-threshold-filter/stock-threshold-filter.module.code.ts"
+import { STOCK_THRESHOLD_OPTIONS } from "akasha/temper/items-rules-core/modules/stock-threshold-filter/stock-threshold-filter.module.code.ts"
 import { TARGET_QUANTITY_OPTIONS } from "akasha/temper/items-rules-core/target-quantity-filter/target-quantity-filter.module.code.ts"
 import { ComparisonOpPicker } from "akasha/temper/player-inventory-management-ui/modules/comparison-op-picker/comparison-op-picker.module.code.tsx"
 import { EditableTextValue } from "akasha/temper/player-inventory-management-ui/modules/rule-card-filter-text/rule-card-filter-text.module.code.tsx"

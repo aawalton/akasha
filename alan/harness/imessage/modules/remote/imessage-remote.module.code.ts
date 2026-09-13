@@ -20,7 +20,7 @@ import {
   searchContacts,
 } from "akasha/alan/harness/imessage/modules/contacts-db/contacts-db.module.code.ts"
 import { MACBOOK } from "akasha/alan/harness/imessage/modules/host/imessage-host.module.code.ts"
-import { runSshCapture } from "akasha/alan/harness/ssh-access/ssh-reach/ssh-reach.module.code.ts"
+import { runSshCapture } from "akasha/alan/harness/ssh-access/modules/ssh-reach/ssh-reach.module.code.ts"
 
 export async function fetchMessages(sql: string): Promise<readonly ImessageMessage[]> {
   return parseMessageRows(await runSshCapture(MACBOOK, buildChatDbScript(sql)))

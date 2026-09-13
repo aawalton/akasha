@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import { getRecentlyPlayed } from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
+import { getRecentlyPlayed } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
 import type { Asking as Asked } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   landedMechanically,

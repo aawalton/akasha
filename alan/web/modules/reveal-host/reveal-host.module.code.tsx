@@ -6,7 +6,7 @@ import {
   getRevealSnapshot,
   subscribeReveal,
 } from "akasha/alan/web/modules/idle-reveal-store/idle-reveal-store.module.code.ts"
-import { StarRow } from "akasha/alan/web/star-row/star-row.module.code.tsx"
+import { StarRow } from "akasha/alan/web/modules/star-row/star-row.module.code.tsx"
 import { Icon } from "akasha/design/interfaces/patterns/modules/lucide-icon/lucide-icon.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"

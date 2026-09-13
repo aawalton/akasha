@@ -2,8 +2,8 @@ import { expect, test } from "bun:test"
 import type {
   SearchParams,
   SearchResponse,
-} from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
-import { searchResponseSchema } from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
+} from "akasha/alan/music/spotify/modules/search/spotify-search.module.code.ts"
+import { searchResponseSchema } from "akasha/alan/music/spotify/modules/search/spotify-search.module.code.ts"
 import type { Finding } from "akasha/commands/pages/music/search/music-search.command.code.ts"
 import { searchWith } from "akasha/commands/pages/music/search/music-search.command.code.ts"
 

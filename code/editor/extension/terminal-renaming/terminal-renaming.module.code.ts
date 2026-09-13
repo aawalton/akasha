@@ -1,4 +1,4 @@
-import { followState } from "akasha/alan/harness/code-editor/data-interfaces/state-reading/state-reading.module.code.ts"
+import { followState } from "akasha/alan/harness/code-editor/data-interfaces/modules/state-reading/state-reading.module.code.ts"
 import { akashaRoot } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
 import { newestWins } from "akasha/code/editor/extension/modules/newest-wins/newest-wins.module.code.ts"
 import {

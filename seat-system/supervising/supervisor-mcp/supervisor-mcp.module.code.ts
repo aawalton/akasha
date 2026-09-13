@@ -15,7 +15,7 @@ import {
   applyRefreshedSessionToStorageState,
   classifyPlaywrightStorageState,
   RefreshedTokensSchema,
-} from "akasha/code/browser/test-harness/storage-state-reading/storage-state-reading.module.code.ts"
+} from "akasha/code/browser/test-harness/modules/storage-state-reading/storage-state-reading.module.code.ts"
 import { planDisableReconcile } from "akasha/seat-system/supervising/modules/mcp-disable-reconcile/mcp-disable-reconcile.module.code.ts"
 import {
   getMcpServerRegistry,

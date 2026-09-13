@@ -4,7 +4,7 @@ import {
   answeredByOf,
   peopleStanding,
 } from "akasha/persons/modules/reading/person-reading.module.code.ts"
-import { stated } from "akasha/utils/narrow/stated/stated.module.code.ts"
+import { stated } from "akasha/utils/narrow/modules/stated/stated.module.code.ts"
 
 const JOINER = "-"
 

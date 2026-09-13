@@ -9,11 +9,11 @@ import {
   NOTHING_WRITTEN,
   released,
   releasedHeld,
-} from "akasha/alan/harness/code-editor/data-interfaces/state-cooldown/state-cooldown.module.code.ts"
+} from "akasha/alan/harness/code-editor/data-interfaces/modules/state-cooldown/state-cooldown.module.code.ts"
 import {
   statusBarLine,
   watchedFoldersIn,
-} from "akasha/alan/harness/code-editor/data-interfaces/status-bar-composing/status-bar-composing.module.code.ts"
+} from "akasha/alan/harness/code-editor/data-interfaces/modules/status-bar-composing/status-bar-composing.module.code.ts"
 import {
   agentTreeLine,
   commandTreeLine,

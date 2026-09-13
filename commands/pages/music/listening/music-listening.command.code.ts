@@ -1,13 +1,13 @@
-import type { TimeRange } from "akasha/alan/music/spotify/personalization/spotify-personalization.module.code.ts"
+import type { TimeRange } from "akasha/alan/music/spotify/modules/personalization/spotify-personalization.module.code.ts"
 import {
   getTopArtists,
   getTopTracks,
   TIME_RANGES,
-} from "akasha/alan/music/spotify/personalization/spotify-personalization.module.code.ts"
+} from "akasha/alan/music/spotify/modules/personalization/spotify-personalization.module.code.ts"
 import {
   getCurrentlyPlaying,
   getRecentlyPlayed,
-} from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
+} from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import { limit as limitArgument } from "akasha/commands/arguments/pages/limit.argument.ts"

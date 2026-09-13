@@ -8,7 +8,7 @@ import {
   getCPSkillDescription,
   getCPSkillDisplayName,
 } from "akasha/temper/characters-stats/modules/extract-champion-points/extract-champion-points.module.code.ts"
-import { StarSelectionDialog } from "akasha/temper/web/star-selection-dialog/star-selection-dialog.module.code.tsx"
+import { StarSelectionDialog } from "akasha/temper/web/modules/star-selection-dialog/star-selection-dialog.module.code.tsx"
 import { Hammer, Plus, Shield, Swords } from "lucide-react"
 import { useState } from "react"
 

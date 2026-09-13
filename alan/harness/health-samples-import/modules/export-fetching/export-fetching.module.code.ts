@@ -9,7 +9,7 @@ import { MACBOOK } from "akasha/alan/harness/health-samples-import/modules/lapto
 import {
   runSshCapture,
   streamSshLines,
-} from "akasha/alan/harness/ssh-access/ssh-reach/ssh-reach.module.code.ts"
+} from "akasha/alan/harness/ssh-access/modules/ssh-reach/ssh-reach.module.code.ts"
 
 export interface FetchOptions {
   readonly path: string | undefined
