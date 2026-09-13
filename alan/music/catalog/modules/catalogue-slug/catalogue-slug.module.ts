@@ -14,7 +14,7 @@ export const catalogueSlug = {
     },
     {
       invariantKind: "departure",
-      statement: "A song's slug is the artist's slug followed by the slugged title.",
+      statement: "A catalogue page's slug is the artist's slug followed by the slugged title.",
     },
     {
       invariantKind: "departure",
@@ -67,11 +67,11 @@ export const catalogueSlug = {
     },
     {
       invariantKind: "departure",
-      statement: "An existing song keeps the name the song already has.",
+      statement: "An existing page keeps the name that page already has.",
     },
     {
       invariantKind: "departure",
-      statement: "A song is recognised as existing by the external id the song was filed under.",
+      statement: "A page is recognised as existing by the external id that page was filed under.",
     },
     {
       invariantKind: "departure",
