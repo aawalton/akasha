@@ -12,7 +12,11 @@ export const swordArtOnlineS02 = {
   publishedAt: "2014-07-05",
   posterPath: "/eikzrWCrgaEuvNu8hcQHFeC3onR.jpg",
   voteAverage: 7.1,
-  source: "tmdb",
-  externalId: "62067",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/2",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "62067",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/2",
+    },
+  ],
 } as const satisfies Season

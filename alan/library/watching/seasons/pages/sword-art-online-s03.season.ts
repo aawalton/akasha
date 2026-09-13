@@ -12,7 +12,11 @@ export const swordArtOnlineS03 = {
   publishedAt: "2018-10-07",
   posterPath: "/vHYPL0ki5tevokmjOa2pofgpRxW.jpg",
   voteAverage: 8.1,
-  source: "tmdb",
-  externalId: "93494",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/3",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "93494",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/3",
+    },
+  ],
 } as const satisfies Season

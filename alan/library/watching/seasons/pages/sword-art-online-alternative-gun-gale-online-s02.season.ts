@@ -12,7 +12,11 @@ export const swordArtOnlineAlternativeGunGaleOnlineS02 = {
   publishedAt: "2024-10-04",
   posterPath: "/jfCmk1YBBXR4M1WzN3GHnNSekff.jpg",
   voteAverage: 7.4,
-  source: "tmdb",
-  externalId: "350207",
-  externalLink: "https://www.themoviedb.org/tv/78204/season/2",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "350207",
+      externalLink: "https://www.themoviedb.org/tv/78204/season/2",
+    },
+  ],
 } as const satisfies Season

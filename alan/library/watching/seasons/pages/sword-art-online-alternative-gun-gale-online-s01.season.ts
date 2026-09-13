@@ -12,7 +12,11 @@ export const swordArtOnlineAlternativeGunGaleOnlineS01 = {
   publishedAt: "2018-04-07",
   posterPath: "/qpFmNzqYXIpBxKCvfPNIocOQgPh.jpg",
   voteAverage: 8,
-  source: "tmdb",
-  externalId: "101127",
-  externalLink: "https://www.themoviedb.org/tv/78204/season/1",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "101127",
+      externalLink: "https://www.themoviedb.org/tv/78204/season/1",
+    },
+  ],
 } as const satisfies Season

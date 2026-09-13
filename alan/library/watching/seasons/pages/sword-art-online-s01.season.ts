@@ -12,7 +12,11 @@ export const swordArtOnlineS01 = {
   publishedAt: "2012-07-08",
   posterPath: "/is3J0fmMgmqVt3Shm6J5KtULTyq.jpg",
   voteAverage: 7.6,
-  source: "tmdb",
-  externalId: "54255",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/1",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "54255",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/1",
+    },
+  ],
 } as const satisfies Season

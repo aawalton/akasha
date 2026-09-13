@@ -12,7 +12,11 @@ export const swordArtOnlineS04 = {
   publishedAt: "2019-10-13",
   posterPath: "/zhOJXbvnJGs1eY91ezQaUrEjxtn.jpg",
   voteAverage: 8.5,
-  source: "tmdb",
-  externalId: "132606",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/4",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "132606",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/4",
+    },
+  ],
 } as const satisfies Season
