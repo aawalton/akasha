@@ -149,6 +149,9 @@ export type Changes = {
   "change-mechanical/add-file-page-type": Parameters<
     typeof import("akasha/changes/mechanical/file/add/add-file-page-type/add-file-page-type.change-mechanical.code.ts")["runChange"]
   >[1]
+  "change-mechanical/change-page-page-type": Parameters<
+    typeof import("akasha/changes/mechanical/file/change/change-page-page-type/change-page-page-type.change-mechanical.code.ts")["runChange"]
+  >[1]
   "change-mechanical/change-prose-pattern": Parameters<
     typeof import("akasha/changes/mechanical/prose/change/change-prose-pattern/change-prose-pattern.change-mechanical.code.ts")["runChange"]
   >[1]
