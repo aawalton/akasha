@@ -14,7 +14,7 @@ export const seatSystem = {
     "domain/seat-declaration",
     "domain/seat-observation",
     "domain/self-healing",
-    "domain/supervising",
+    "domain/seat-supervisors",
     "module/agent-name-bind",
     "module/compose-boot",
     "module/compose-seat-name",
