@@ -1,5 +1,7 @@
 import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
+export type ComponentPropertyGroupStated = Record<string, never>
+
 export const componentPropertyGroup = {
   id: "01a09c84-34f2-7b18-839c-48ef7ff084e7",
   type: "page-type",
