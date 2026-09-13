@@ -1,4 +1,5 @@
 import {
+  currentVisitGeneration,
   recordBankMoves,
   recordBankPhaseMs,
   recordStacking,
@@ -29,6 +30,8 @@ export function isDispatchingBank(): boolean {
   return dispatchingBank
 }
 
+const STACK_ARRIVAL_MS = 1500
+
 const STACK_SETTLE_MS = 2000
 
 function partialStackCount(this: void, bag: number): number {
@@ -55,23 +58,26 @@ function stackVisitedBags(this: void, bankingBag: number): undefined {
     return
   }
   const bags = bagsVisitStacks(bankingBag)
-  const counts: BankTraceStackingCount[] = []
-  for (const bag of bags) {
-    counts.push({ bag, partialsBefore: partialStackCount(bag) })
-    StackBag(bag)
-  }
-  recordStacking({ ran: true, bags, counts })
+  const generation = currentVisitGeneration()
   zo_callLater(function (this: void): undefined {
-    const settled: BankTraceStackingCount[] = []
-    for (const one of counts) {
-      settled.push({
-        bag: one.bag,
-        partialsBefore: one.partialsBefore,
-        partialsAfter: partialStackCount(one.bag),
-      })
+    const counts: BankTraceStackingCount[] = []
+    for (const bag of bags) {
+      counts.push({ bag, partialsBefore: partialStackCount(bag) })
+      StackBag(bag)
     }
-    recordStacking({ ran: true, bags, counts: settled })
-  }, STACK_SETTLE_MS)
+    recordStacking({ ran: true, bags, counts }, generation)
+    zo_callLater(function (this: void): undefined {
+      const settled: BankTraceStackingCount[] = []
+      for (const one of counts) {
+        settled.push({
+          bag: one.bag,
+          partialsBefore: one.partialsBefore,
+          partialsAfter: partialStackCount(one.bag),
+        })
+      }
+      recordStacking({ ran: true, bags, counts: settled }, generation)
+    }, STACK_SETTLE_MS)
+  }, STACK_ARRIVAL_MS)
 }
 
 export function onOpenBank(): undefined {

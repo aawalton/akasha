@@ -27,6 +27,14 @@ export const inventoryRulesDispatchBank = {
     },
     {
       invariantKind: "departure",
+      statement: "Stacking waits for the moves to arrive rather than only for them to leave.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stacking record reaching a later visit than the one it is of is dropped.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The setting that stacks the backpack at login is the setting that stacks here.",
     },
   ],

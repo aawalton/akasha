@@ -110,8 +110,13 @@ export function recordPacedDispatch(stats: BankTracePacedDispatch): undefined {
   }
 }
 
-export function recordStacking(stacking: BankTraceStacking): undefined {
+export function currentVisitGeneration(): number {
+  return visitGeneration
+}
+
+export function recordStacking(stacking: BankTraceStacking, generation?: number): undefined {
   if (activeTrace === undefined) return
+  if (generation !== undefined && generation !== visitGeneration) return
   activeTrace.stacking = stacking
 }
 
