@@ -13,6 +13,10 @@ export const fileRead = {
     },
     {
       invariantKind: "departure",
+      statement: "A narrow on a path asks for the property that path starts at.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every narrow is run again over the rows the answer has.",
     },
     {

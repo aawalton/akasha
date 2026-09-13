@@ -1,5 +1,9 @@
 import { kebabizeKey } from "akasha/pages/access/modules/file-rows/file-rows.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/access/modules/page-type-config/page-type-config.module.code.ts"
+import {
+  isPropertyPath,
+  reachedIn,
+} from "akasha/pages/core/filter/modules/property-path/property-path.module.code.ts"
 import type {
   Page,
   PageCondition,
@@ -58,13 +62,9 @@ function holds(value: unknown, wanted: string): boolean {
   return text?.toLowerCase().includes(wanted.toLowerCase()) === true
 }
 
-export function matches(
-  page: Page,
-  condition: PageCondition,
-  definitions: readonly PropertyDefinition[] = []
-): boolean {
-  if ("or" in condition) return condition.or.some((one) => matches(page, one, definitions))
-  const value = page[fieldFor(condition.key, definitions)]
+type KeyedCondition = Extract<PageCondition, { key: string }>
+
+function weighs(value: unknown, condition: KeyedCondition): boolean {
   if ("eq" in condition) return same(value, condition.eq)
   if ("neq" in condition) return !same(value, condition.neq)
   if ("lt" in condition) return value != null && ranked(value, condition.lt) < 0
@@ -81,6 +81,20 @@ export function matches(
   }
   if ("isEmpty" in condition) return empty(value)
   return !empty(value)
+}
+
+export function matches(
+  page: Page,
+  condition: PageCondition,
+  definitions: readonly PropertyDefinition[] = []
+): boolean {
+  if ("or" in condition) return condition.or.some((one) => matches(page, one, definitions))
+  if (isPropertyPath(condition.key)) {
+    const reached = reachedIn(page, condition.key)
+    if (reached.length === 0) return weighs(undefined, condition)
+    return reached.some((one) => weighs(one, condition))
+  }
+  return weighs(page[fieldFor(condition.key, definitions)], condition)
 }
 
 const SETTLED_BY_THE_REPO: ReadonlySet<string> = new Set(["userId"])
@@ -137,6 +151,7 @@ export function narrowing(
   const tests: Record<string, Test> = {}
   for (const condition of where) {
     if ("or" in condition) continue
+    if (isPropertyPath(condition.key)) continue
     const key = declaredAs(condition.key, definitions)
     if (key in tests) continue
     if ("eq" in condition && typeof condition.eq === "string") tests[key] = { is: condition.eq }

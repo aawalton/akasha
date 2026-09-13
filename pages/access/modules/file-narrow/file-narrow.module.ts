@@ -6,4 +6,14 @@ export const fileNarrow = {
   slug: "file-narrow",
   definition: "the narrows a file-backed page listing is asked by",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A narrow on a path holds where some value that path reaches holds it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A narrow on a path is weighed here rather than asked of the service.",
+    },
+  ],
 } as const satisfies Module

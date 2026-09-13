@@ -21,6 +21,7 @@ import type {
   PageOrder,
   PageSelect,
 } from "akasha/pages/access/modules/types/types.module.code.ts"
+import { headOf } from "akasha/pages/core/filter/modules/property-path/property-path.module.code.ts"
 import {
   asPage,
   type Page,
@@ -202,7 +203,7 @@ function narrowedKeys(
       narrowedKeys(condition.or, into, definitions)
       continue
     }
-    into.add(declaredAs(condition.key, definitions))
+    into.add(declaredAs(headOf(condition.key), definitions))
   }
 }
 
