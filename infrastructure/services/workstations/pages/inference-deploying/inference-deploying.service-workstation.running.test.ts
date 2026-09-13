@@ -23,7 +23,7 @@ mock.module(
 )
 
 const running = await import(
-  "akasha/infrastructure/services/workstations/pages/ios-app-deploying.service-workstation.running.code.ts"
+  "akasha/infrastructure/services/workstations/pages/inference-deploying/inference-deploying.service-workstation.running.code.ts"
 )
 
 test("the run is a function taking nothing, which is how the service runner calls it", () => {
@@ -35,11 +35,11 @@ test("the run is the only way into this file, so the service has one entry", () 
   expect(Object.keys(running)).toEqual(["runService"])
 })
 
-test("a run turns one tick over the ios app kind rather than any other", () => {
+test("a run turns one tick over the inference kind rather than any other", () => {
   TICKED.length = 0
-  answer = { said: ["put `atlas` up"], wrong: [] }
+  answer = { said: ["put `kokoro` up"], wrong: [] }
   running.runService()
-  expect(TICKED).toEqual(["ios-app"])
+  expect(TICKED).toEqual(["service-inference"])
 })
 
 test("a tick that went wrong is thrown, so a failed run is a failed unit", () => {

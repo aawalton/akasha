@@ -18,7 +18,7 @@ mock.module(
 )
 
 const running = await import(
-  "akasha/infrastructure/services/workstations/pages/orphaned-resources-sweep.service-workstation.running.code.ts"
+  "akasha/infrastructure/services/workstations/pages/orphaned-resources-sweep/orphaned-resources-sweep.service-workstation.running.code.ts"
 )
 
 test("the run is a function taking nothing, which is how the service runner calls it", () => {
