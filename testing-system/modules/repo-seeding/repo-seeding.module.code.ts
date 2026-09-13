@@ -29,6 +29,7 @@ import {
   pageFiled,
   valueTakenFrom,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { INDEX_AT } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { bytesOf as bytes } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import {
   ADMITS_CODE,
@@ -80,7 +81,7 @@ function builtAt(root: string, named: Readonly<Record<string, string>>): string 
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
   put(root, APPLY_AT, "export const changeApply = {}\n")
-  put(root, ".git/info/exclude", `${ADMITS_AT}\n`)
+  put(root, ".git/info/exclude", `${ADMITS_AT}\n${INDEX_AT}/\n`)
   checking(root, ADMITS, ADMITS_CODE)
   warrantsSeeded(root)
   pageFiled(root, AGENT, SEAT_AT)

@@ -51,5 +51,9 @@ export const repoSeeding = {
       invariantKind: "absence",
       statement: "Nothing here reaches the repository this repository is seeded from.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A seeded repository leaves its own index untracked, as a checkout does.",
+    },
   ],
 } as const satisfies Module
