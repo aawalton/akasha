@@ -1,10 +1,10 @@
-import type { AssistantMessage } from "akasha/agents/claude-code/session/modules/jsonl-schema/session-jsonl-schema.module.code.ts"
+import type { AssistantMessage } from "akasha/agents/claude-code/session/modules/session-jsonl-schema/session-jsonl-schema.module.code.ts"
 import {
   MODELED_CONTENT_BLOCK_TYPES,
   MODELED_TYPES,
   RawSessionLine,
   SessionMessage,
-} from "akasha/agents/claude-code/session/modules/jsonl-schema/session-jsonl-schema.module.code.ts"
+} from "akasha/agents/claude-code/session/modules/session-jsonl-schema/session-jsonl-schema.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const ResultSubtypePresence = shape.looseObject({ subtype: shape.string() })
