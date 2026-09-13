@@ -9,7 +9,7 @@ export const athenaCommandModules = {
   parent: "athena-commands-cleanup",
   intents: [
     {
-      statement: "One function builds a command's refusal.",
+      statement: "One function builds the answer a command hands back.",
       workingMemory:
         "`answeredWith` stays: it alone carries a report and refusals at once, and `model-test` `:64` answers non-zero refusing nothing, which no other builder can. `refusedBy` is that with the report fixed at `[]`. Three hand-built records inside `command-answering` went at `7f47d2c7396` and the rule's false invariant at `d4eab0a2dc5`, but that census read entries only: `model-gateway-swap` holds three more in its body. Alan's: `told`, and whether work doing nothing before throwing takes the list.\n",
     },
