@@ -1,7 +1,7 @@
 import {
   INITIAL_PROXY_LIVENESS_STATE,
   type ProxyLivenessState,
-} from "akasha/agents/seats/supervisors/modules/supervisor-proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts"
+} from "akasha/agents/seats/oauth-proxy/modules/supervisor-proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts"
 import type {
   ChildExitClassification,
   ChildExitObservation,

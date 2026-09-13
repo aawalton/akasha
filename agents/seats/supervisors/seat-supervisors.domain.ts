@@ -22,7 +22,5 @@ export const seatSupervisors = {
     "domain/supervisor-shutdown",
     "domain/supervisor-ticking",
     "domain/supervisor-tooling",
-    "module/supervisor-proxy-adoption-decide",
-    "module/supervisor-proxy-liveness-decide",
   ],
 } as const satisfies Domain

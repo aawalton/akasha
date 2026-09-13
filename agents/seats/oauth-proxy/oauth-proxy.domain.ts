@@ -7,8 +7,10 @@ export const oauthProxy = {
   definition: "the proxy a seat's client reaches Anthropic through",
   parts: [
     "module/seat-proxy-state",
+    "module/supervisor-proxy-adoption-decide",
     "module/supervisor-proxy-adoption-rule",
     "module/supervisor-proxy-liveness",
+    "module/supervisor-proxy-liveness-decide",
     "module/supervisor-proxy-liveness-rule",
     "module/supervisor-proxy-ownership",
     "module/supervisor-proxy-port-line",
