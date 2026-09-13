@@ -10,8 +10,12 @@ export const theLastHorizonTheKnight = {
   unit: "words",
   position: 2,
   ownLength: 101750,
-  source: "kindle",
-  externalId: "B0D45W6FWN",
-  externalLink: "https://www.amazon.com/dp/B0D45W6FWN",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D45W6FWN",
+      externalLink: "https://www.amazon.com/dp/B0D45W6FWN",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

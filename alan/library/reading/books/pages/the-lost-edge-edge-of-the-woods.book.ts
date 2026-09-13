@@ -11,7 +11,11 @@ export const theLostEdgeEdgeOfTheWoods = {
   position: 1,
   ownLength: 136250,
   publishedAt: "2023-09-12",
-  source: "kindle",
-  externalId: "B0C6V3BCV7",
-  externalLink: "https://amazon.com/dp/B0C6V3BCV7",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0C6V3BCV7",
+      externalLink: "https://amazon.com/dp/B0C6V3BCV7",
+    },
+  ],
 } as const satisfies Book

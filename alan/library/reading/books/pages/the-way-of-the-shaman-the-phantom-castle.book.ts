@@ -13,7 +13,11 @@ export const theWayOfTheShamanThePhantomCastle = {
   ownProgress: 148250,
   publishedAt: "2016-11-28",
   partOfCollections: ["book-series/the-way-of-the-shaman"],
-  source: "kindle",
-  externalId: "B01M8JW7DQ",
-  externalLink: "https://amazon.com/dp/B01M8JW7DQ",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01M8JW7DQ",
+      externalLink: "https://amazon.com/dp/B01M8JW7DQ",
+    },
+  ],
 } as const satisfies Book

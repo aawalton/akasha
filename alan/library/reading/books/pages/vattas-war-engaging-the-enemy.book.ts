@@ -10,8 +10,12 @@ export const vattasWarEngagingTheEnemy = {
   unit: "words",
   position: 2,
   ownLength: 104000,
-  source: "kindle",
-  externalId: "B000GCFCNW",
-  externalLink: "https://www.amazon.com/dp/B000GCFCNW",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000GCFCNW",
+      externalLink: "https://www.amazon.com/dp/B000GCFCNW",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

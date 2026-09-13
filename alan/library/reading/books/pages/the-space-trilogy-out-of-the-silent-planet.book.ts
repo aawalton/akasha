@@ -10,8 +10,12 @@ export const theSpaceTrilogyOutOfTheSilentPlanet = {
   unit: "words",
   ownLength: 45000,
   publishedAt: "2012-04-03",
-  source: "kindle",
-  externalId: "B006L8723I",
-  externalLink: "https://www.amazon.com/dp/B006L8723I",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B006L8723I",
+      externalLink: "https://www.amazon.com/dp/B006L8723I",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

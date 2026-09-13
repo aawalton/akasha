@@ -11,7 +11,11 @@ export const theGoodGuysBadToTheThrone = {
   position: 15,
   ownLength: 145000,
   publishedAt: "2024-06-08",
-  source: "kindle",
-  externalId: "B0C3NFX3CY",
-  externalLink: "https://amazon.com/dp/B0C3NFX3CY",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0C3NFX3CY",
+      externalLink: "https://amazon.com/dp/B0C3NFX3CY",
+    },
+  ],
 } as const satisfies Book

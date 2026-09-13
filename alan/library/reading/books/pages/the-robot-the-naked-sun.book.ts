@@ -10,8 +10,12 @@ export const theRobotTheNakedSun = {
   unit: "words",
   position: 1,
   ownLength: 64250,
-  source: "kindle",
-  externalId: "B004JHYRDQ",
-  externalLink: "https://www.amazon.com/dp/B004JHYRDQ",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B004JHYRDQ",
+      externalLink: "https://www.amazon.com/dp/B004JHYRDQ",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

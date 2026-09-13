@@ -10,8 +10,12 @@ export const warGodWindRidersOath = {
   unit: "words",
   position: 2,
   ownLength: 130500,
-  source: "kindle",
-  externalId: "B00AP91U82",
-  externalLink: "https://www.amazon.com/dp/B00AP91U82",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00AP91U82",
+      externalLink: "https://www.amazon.com/dp/B00AP91U82",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

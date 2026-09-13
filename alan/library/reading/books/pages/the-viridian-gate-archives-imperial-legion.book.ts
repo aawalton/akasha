@@ -11,7 +11,11 @@ export const theViridianGateArchivesImperialLegion = {
   ownLength: 93500,
   ownProgress: 93500,
   publishedAt: "2017-11-17",
-  source: "kindle",
-  externalId: "B077KSLZNQ",
-  externalLink: "https://amazon.com/dp/B077KSLZNQ",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B077KSLZNQ",
+      externalLink: "https://amazon.com/dp/B077KSLZNQ",
+    },
+  ],
 } as const satisfies Book

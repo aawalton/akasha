@@ -11,8 +11,12 @@ export const theLastHorizonTheEngineer = {
   position: 1,
   ownLength: 104750,
   publishedAt: "2023-12-05",
-  source: "kindle",
-  externalId: "B0CM6SG9WD",
-  externalLink: "https://www.amazon.com/dp/B0CM6SG9WD",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CM6SG9WD",
+      externalLink: "https://www.amazon.com/dp/B0CM6SG9WD",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

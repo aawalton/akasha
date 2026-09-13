@@ -9,8 +9,12 @@ export const theSpokenMageVoiceOfDominion = {
   unit: "words",
   position: 2,
   ownLength: 79500,
-  source: "kindle",
-  externalId: "B07MYPB5RN",
-  externalLink: "https://www.amazon.com/dp/B07MYPB5RN",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07MYPB5RN",
+      externalLink: "https://www.amazon.com/dp/B07MYPB5RN",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

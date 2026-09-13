@@ -13,8 +13,12 @@ export const wheelOfTimeTheFiresOfHeaven = {
   ownLength: 231500,
   ownProgress: 231500,
   publishedAt: "2010-02-10",
-  source: "kindle",
-  externalId: "B0037V18D2",
-  externalLink: "https://amazon.com/dp/B0037V18D2",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0037V18D2",
+      externalLink: "https://amazon.com/dp/B0037V18D2",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

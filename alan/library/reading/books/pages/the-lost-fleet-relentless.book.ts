@@ -10,8 +10,12 @@ export const theLostFleetRelentless = {
   unit: "words",
   position: 4,
   ownLength: 84500,
-  source: "kindle",
-  externalId: "B0020BUX0Y",
-  externalLink: "https://www.amazon.com/dp/B0020BUX0Y",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0020BUX0Y",
+      externalLink: "https://www.amazon.com/dp/B0020BUX0Y",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

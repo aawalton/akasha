@@ -10,7 +10,11 @@ export const theViridianGateArchivesEmpiricalEndgame = {
   position: 8,
   ownLength: 142250,
   publishedAt: "2022-01-04",
-  source: "kindle",
-  externalId: "B09KY95F7C",
-  externalLink: "https://amazon.com/dp/B09KY95F7C",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09KY95F7C",
+      externalLink: "https://amazon.com/dp/B09KY95F7C",
+    },
+  ],
 } as const satisfies Book

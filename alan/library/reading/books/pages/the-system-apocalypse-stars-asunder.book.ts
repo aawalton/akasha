@@ -13,7 +13,11 @@ export const theSystemApocalypseStarsAsunder = {
   ownProgress: 118000,
   publishedAt: "2020-07-01",
   partOfCollections: ["book-series/the-system-apocalypse"],
-  source: "kindle",
-  externalId: "B085HS8R2D",
-  externalLink: "https://amazon.com/dp/B085HS8R2D",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B085HS8R2D",
+      externalLink: "https://amazon.com/dp/B085HS8R2D",
+    },
+  ],
 } as const satisfies Book

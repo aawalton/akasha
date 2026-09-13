@@ -12,7 +12,11 @@ export const ultimateLevel1UltimateBoundaries = {
   ownLength: 133000,
   ownProgress: 133000,
   publishedAt: "2025-06-05",
-  source: "kindle",
-  externalId: "B0F4RX9HX5",
-  externalLink: "https://amazon.com/dp/B0F4RX9HX5",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0F4RX9HX5",
+      externalLink: "https://amazon.com/dp/B0F4RX9HX5",
+    },
+  ],
 } as const satisfies Book

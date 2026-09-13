@@ -12,7 +12,11 @@ export const theWayOfTheShamanTheKarmadontChessSet = {
   ownProgress: 126250,
   publishedAt: "2017-04-02",
   partOfCollections: ["book-series/the-way-of-the-shaman"],
-  source: "kindle",
-  externalId: "B01MR50Z43",
-  externalLink: "https://amazon.com/dp/B01MR50Z43",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01MR50Z43",
+      externalLink: "https://amazon.com/dp/B01MR50Z43",
+    },
+  ],
 } as const satisfies Book

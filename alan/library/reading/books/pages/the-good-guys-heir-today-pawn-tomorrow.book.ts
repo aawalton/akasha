@@ -11,8 +11,12 @@ export const theGoodGuysHeirTodayPawnTomorrow = {
   ownLength: 66500,
   ownProgress: 66500,
   publishedAt: "2018-10-25",
-  source: "kindle",
-  externalId: "B07HRZ9WB2",
-  externalLink: "https://amazon.com/dp/B07HRZ9WB2",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07HRZ9WB2",
+      externalLink: "https://amazon.com/dp/B07HRZ9WB2",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -12,7 +12,11 @@ export const theGoodGuysEatSlayLove = {
   ownLength: 97000,
   ownProgress: 97000,
   publishedAt: "2021-02-25",
-  source: "kindle",
-  externalId: "B089DPBM26",
-  externalLink: "https://amazon.com/dp/B089DPBM26",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B089DPBM26",
+      externalLink: "https://amazon.com/dp/B089DPBM26",
+    },
+  ],
 } as const satisfies Book

@@ -9,8 +9,12 @@ export const theSpokenMagePowerOfPenAndVoice = {
   unit: "words",
   position: 4,
   ownLength: 67500,
-  source: "kindle",
-  externalId: "B08G219MTL",
-  externalLink: "https://www.amazon.com/dp/B08G219MTL",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08G219MTL",
+      externalLink: "https://www.amazon.com/dp/B08G219MTL",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

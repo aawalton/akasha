@@ -10,8 +10,12 @@ export const theWideGreenWorldSeriesHorizon = {
   unit: "words",
   position: 3,
   ownLength: 111750,
-  source: "kindle",
-  externalId: "B001NLL8UG",
-  externalLink: "https://www.amazon.com/dp/B001NLL8UG",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B001NLL8UG",
+      externalLink: "https://www.amazon.com/dp/B001NLL8UG",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

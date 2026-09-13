@@ -13,8 +13,12 @@ export const wheelOfTimeWintersHeart = {
   ownLength: 176250,
   ownProgress: 176250,
   publishedAt: "2010-04-14",
-  source: "kindle",
-  externalId: "B003H3IOKU",
-  externalLink: "https://amazon.com/dp/B003H3IOKU",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B003H3IOKU",
+      externalLink: "https://amazon.com/dp/B003H3IOKU",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

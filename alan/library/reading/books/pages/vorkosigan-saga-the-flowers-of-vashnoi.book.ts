@@ -10,8 +10,12 @@ export const vorkosiganSagaTheFlowersOfVashnoi = {
   unit: "words",
   position: 5,
   ownLength: 22250,
-  source: "kindle",
-  externalId: "B07D4M7N3L",
-  externalLink: "https://www.amazon.com/dp/B07D4M7N3L",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07D4M7N3L",
+      externalLink: "https://www.amazon.com/dp/B07D4M7N3L",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

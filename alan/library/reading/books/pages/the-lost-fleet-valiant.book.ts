@@ -10,8 +10,12 @@ export const theLostFleetValiant = {
   unit: "words",
   position: 3,
   ownLength: 82750,
-  source: "kindle",
-  externalId: "B00125L88K",
-  externalLink: "https://www.amazon.com/dp/B00125L88K",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00125L88K",
+      externalLink: "https://www.amazon.com/dp/B00125L88K",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

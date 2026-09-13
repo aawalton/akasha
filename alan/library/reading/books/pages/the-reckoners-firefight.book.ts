@@ -11,7 +11,11 @@ export const theReckonersFirefight = {
   position: 2,
   ownLength: 106750,
   publishedAt: "2015-01-06",
-  source: "kindle",
-  externalId: "B00JNQMKSC",
-  externalLink: "https://amazon.com/dp/B00JNQMKSC",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00JNQMKSC",
+      externalLink: "https://amazon.com/dp/B00JNQMKSC",
+    },
+  ],
 } as const satisfies Book

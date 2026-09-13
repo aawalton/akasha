@@ -11,7 +11,11 @@ export const theLostEdgeEdgeOfTheDream = {
   position: 2,
   ownLength: 112500,
   publishedAt: "2025-11-25",
-  source: "kindle",
-  externalId: "B0FBHNGV8J",
-  externalLink: "https://amazon.com/dp/B0FBHNGV8J",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0FBHNGV8J",
+      externalLink: "https://amazon.com/dp/B0FBHNGV8J",
+    },
+  ],
 } as const satisfies Book

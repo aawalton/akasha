@@ -10,8 +10,12 @@ export const warGodTheWarGodsOwn = {
   unit: "words",
   position: 1,
   ownLength: 129750,
-  source: "kindle",
-  externalId: "B00BEQZT82",
-  externalLink: "https://www.amazon.com/dp/B00BEQZT82",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00BEQZT82",
+      externalLink: "https://www.amazon.com/dp/B00BEQZT82",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

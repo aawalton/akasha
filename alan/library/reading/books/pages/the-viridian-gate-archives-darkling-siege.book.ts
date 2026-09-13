@@ -11,7 +11,11 @@ export const theViridianGateArchivesDarklingSiege = {
   ownLength: 131250,
   ownProgress: 131250,
   publishedAt: "2020-01-28",
-  source: "kindle",
-  externalId: "B082WLZWLZ",
-  externalLink: "https://amazon.com/dp/B082WLZWLZ",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B082WLZWLZ",
+      externalLink: "https://amazon.com/dp/B082WLZWLZ",
+    },
+  ],
 } as const satisfies Book

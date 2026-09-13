@@ -12,7 +12,11 @@ export const worldTreeTrilogyWorldTreeOnline = {
   ownProgress: 123750,
   publishedAt: "2018-07-11",
   partOfCollections: ["book-series/world-tree-trilogy"],
-  source: "kindle",
-  externalId: "B07FK632GK",
-  externalLink: "https://amazon.com/dp/B07FK632GK",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07FK632GK",
+      externalLink: "https://amazon.com/dp/B07FK632GK",
+    },
+  ],
 } as const satisfies Book

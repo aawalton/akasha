@@ -12,7 +12,11 @@ export const theSystemApocalypseCitiesInChains = {
   ownProgress: 86500,
   publishedAt: "2018-06-01",
   partOfCollections: ["book-series/the-system-apocalypse"],
-  source: "kindle",
-  externalId: "B07DGJM4D6",
-  externalLink: "https://amazon.com/dp/B07DGJM4D6",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07DGJM4D6",
+      externalLink: "https://amazon.com/dp/B07DGJM4D6",
+    },
+  ],
 } as const satisfies Book

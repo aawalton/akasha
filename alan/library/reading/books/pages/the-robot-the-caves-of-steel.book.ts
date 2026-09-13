@@ -9,8 +9,12 @@ export const theRobotTheCavesOfSteel = {
   author: "Isaac Asimov",
   unit: "words",
   ownLength: 68000,
-  source: "kindle",
-  externalId: "B004JHYRAO",
-  externalLink: "https://www.amazon.com/dp/B004JHYRAO",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B004JHYRAO",
+      externalLink: "https://www.amazon.com/dp/B004JHYRAO",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

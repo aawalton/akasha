@@ -10,8 +10,12 @@ export const theExpansePersepolisRising = {
   unit: "words",
   position: 6,
   ownLength: 155500,
-  source: "kindle",
-  externalId: "B06XKN9G27",
-  externalLink: "https://www.amazon.com/dp/B06XKN9G27",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B06XKN9G27",
+      externalLink: "https://www.amazon.com/dp/B06XKN9G27",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

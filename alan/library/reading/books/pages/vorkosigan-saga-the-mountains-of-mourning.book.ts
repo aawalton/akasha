@@ -9,8 +9,12 @@ export const vorkosiganSagaTheMountainsOfMourning = {
   unit: "words",
   position: 1,
   ownLength: 25500,
-  source: "kindle",
-  externalId: "B004O4C13W",
-  externalLink: "https://www.amazon.com/dp/B004O4C13W",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B004O4C13W",
+      externalLink: "https://www.amazon.com/dp/B004O4C13W",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

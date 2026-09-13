@@ -13,8 +13,12 @@ export const wheelOfTimeTheEyeOfTheWorld = {
   ownLength: 188250,
   ownProgress: 188250,
   publishedAt: "2009-10-24",
-  source: "kindle",
-  externalId: "B002U3CCYM",
-  externalLink: "https://amazon.com/dp/B002U3CCYM",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B002U3CCYM",
+      externalLink: "https://amazon.com/dp/B002U3CCYM",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -11,7 +11,11 @@ export const theGoodGuysOneMansLaughter = {
   position: 16,
   ownLength: 144250,
   publishedAt: "2025-07-07",
-  source: "kindle",
-  externalId: "B0FH2MN1JP",
-  externalLink: "https://amazon.com/dp/B0FH2MN1JP",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0FH2MN1JP",
+      externalLink: "https://amazon.com/dp/B0FH2MN1JP",
+    },
+  ],
 } as const satisfies Book

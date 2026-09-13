@@ -12,7 +12,11 @@ export const ultimateLevel1UltimateTruths = {
   ownLength: 168750,
   ownProgress: 168750,
   publishedAt: "2025-04-02",
-  source: "kindle",
-  externalId: "B0DTGKM68P",
-  externalLink: "https://amazon.com/dp/B0DTGKM68P",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DTGKM68P",
+      externalLink: "https://amazon.com/dp/B0DTGKM68P",
+    },
+  ],
 } as const satisfies Book

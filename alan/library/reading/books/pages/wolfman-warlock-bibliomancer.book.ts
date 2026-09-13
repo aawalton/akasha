@@ -11,7 +11,11 @@ export const wolfmanWarlockBibliomancer = {
   ownLength: 98000,
   ownProgress: 98000,
   publishedAt: "2019-09-17",
-  source: "kindle",
-  externalId: "B07VFHH2N1",
-  externalLink: "https://amazon.com/dp/B07VFHH2N1",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07VFHH2N1",
+      externalLink: "https://amazon.com/dp/B07VFHH2N1",
+    },
+  ],
 } as const satisfies Book

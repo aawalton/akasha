@@ -11,7 +11,11 @@ export const theGoodGuysDukesAndLadders = {
   ownLength: 85000,
   ownProgress: 85000,
   publishedAt: "2019-04-11",
-  source: "kindle",
-  externalId: "B07NDPZ1VS",
-  externalLink: "https://amazon.com/dp/B07NDPZ1VS",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07NDPZ1VS",
+      externalLink: "https://amazon.com/dp/B07NDPZ1VS",
+    },
+  ],
 } as const satisfies Book

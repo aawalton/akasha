@@ -11,7 +11,11 @@ export const theFirebrandEmbersOfRebellion = {
   ownLength: 107000,
   ownProgress: 107000,
   publishedAt: "2019-04-11",
-  source: "kindle",
-  externalId: "B07Q34J1KW",
-  externalLink: "https://amazon.com/dp/B07Q34J1KW",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07Q34J1KW",
+      externalLink: "https://amazon.com/dp/B07Q34J1KW",
+    },
+  ],
 } as const satisfies Book

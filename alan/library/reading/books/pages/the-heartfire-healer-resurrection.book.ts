@@ -10,7 +10,11 @@ export const theHeartfireHealerResurrection = {
   position: 1,
   ownLength: 97000,
   publishedAt: "2021-06-15",
-  source: "kindle",
-  externalId: "B0947GTHFR",
-  externalLink: "https://amazon.com/dp/B0947GTHFR",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0947GTHFR",
+      externalLink: "https://amazon.com/dp/B0947GTHFR",
+    },
+  ],
 } as const satisfies Book

@@ -10,7 +10,11 @@ export const warbreaker = {
   unit: "words",
   position: 4,
   ownLength: 159500,
-  source: "kindle",
-  externalId: "B087JNJKMS",
-  externalLink: "https://www.amazon.com/dp/B087JNJKMS",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B087JNJKMS",
+      externalLink: "https://www.amazon.com/dp/B087JNJKMS",
+    },
+  ],
 } as const satisfies Book

@@ -10,8 +10,12 @@ export const theLostFleetCourageous = {
   unit: "words",
   position: 2,
   ownLength: 80500,
-  source: "kindle",
-  externalId: "B000UZNRXM",
-  externalLink: "https://www.amazon.com/dp/B000UZNRXM",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000UZNRXM",
+      externalLink: "https://www.amazon.com/dp/B000UZNRXM",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

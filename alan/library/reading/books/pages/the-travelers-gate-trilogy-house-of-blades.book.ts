@@ -8,8 +8,12 @@ export const theTravelersGateTrilogyHouseOfBlades = {
   status: "not-started",
   unit: "words",
   ownLength: 101500,
-  source: "kindle",
-  externalId: "B00D52X58Y",
-  externalLink: "https://www.amazon.com/dp/B00D52X58Y",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00D52X58Y",
+      externalLink: "https://www.amazon.com/dp/B00D52X58Y",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

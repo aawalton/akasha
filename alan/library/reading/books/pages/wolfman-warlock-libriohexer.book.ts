@@ -10,7 +10,11 @@ export const wolfmanWarlockLibriohexer = {
   position: 2,
   ownLength: 93250,
   publishedAt: "2021-10-27",
-  source: "kindle",
-  externalId: "B09HNGV1KW",
-  externalLink: "https://amazon.com/dp/B09HNGV1KW",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09HNGV1KW",
+      externalLink: "https://amazon.com/dp/B09HNGV1KW",
+    },
+  ],
 } as const satisfies Book

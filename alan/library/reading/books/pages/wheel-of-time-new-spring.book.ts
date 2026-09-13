@@ -12,7 +12,11 @@ export const wheelOfTimeNewSpring = {
   ownLength: 104250,
   ownProgress: 104250,
   publishedAt: "2011-07-29",
-  source: "kindle",
-  externalId: "B003K15PBK",
-  externalLink: "https://www.amazon.com/New-Spring-Novel-Wheel-Other-ebook/dp/B003K15PBK",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B003K15PBK",
+      externalLink: "https://www.amazon.com/New-Spring-Novel-Wheel-Other-ebook/dp/B003K15PBK",
+    },
+  ],
 } as const satisfies Book

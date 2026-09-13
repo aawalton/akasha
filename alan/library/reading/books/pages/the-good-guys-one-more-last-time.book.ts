@@ -12,7 +12,11 @@ export const theGoodGuysOneMoreLastTime = {
   ownLength: 81500,
   ownProgress: 81500,
   publishedAt: "2018-09-27",
-  source: "kindle",
-  externalId: "B07HS2MP8D",
-  externalLink: "https://amazon.com/dp/B07HS2MP8D",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07HS2MP8D",
+      externalLink: "https://amazon.com/dp/B07HS2MP8D",
+    },
+  ],
 } as const satisfies Book

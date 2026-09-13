@@ -10,7 +10,11 @@ export const theGoodGuysWildWildQuest = {
   position: 12,
   ownLength: 125750,
   publishedAt: "2021-07-30",
-  source: "kindle",
-  externalId: "B093CKCZM2",
-  externalLink: "https://amazon.com/dp/B093CKCZM2",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B093CKCZM2",
+      externalLink: "https://amazon.com/dp/B093CKCZM2",
+    },
+  ],
 } as const satisfies Book

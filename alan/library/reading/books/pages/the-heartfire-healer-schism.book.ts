@@ -10,7 +10,11 @@ export const theHeartfireHealerSchism = {
   position: 2,
   ownLength: 102000,
   publishedAt: "2021-08-17",
-  source: "kindle",
-  externalId: "B09BKC35GX",
-  externalLink: "https://amazon.com/dp/B09BKC35GX",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09BKC35GX",
+      externalLink: "https://amazon.com/dp/B09BKC35GX",
+    },
+  ],
 } as const satisfies Book

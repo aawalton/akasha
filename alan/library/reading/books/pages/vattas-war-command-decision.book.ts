@@ -10,8 +10,12 @@ export const vattasWarCommandDecision = {
   unit: "words",
   position: 3,
   ownLength: 96500,
-  source: "kindle",
-  externalId: "B000OI0G2U",
-  externalLink: "https://www.amazon.com/dp/B000OI0G2U",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000OI0G2U",
+      externalLink: "https://www.amazon.com/dp/B000OI0G2U",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -12,7 +12,11 @@ export const ultimateLevel1NewDreams = {
   ownLength: 121250,
   ownProgress: 121250,
   publishedAt: "2024-09-01",
-  source: "kindle",
-  externalId: "B0D5YPWPHQ",
-  externalLink: "https://amazon.com/dp/B0D5YPWPHQ",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D5YPWPHQ",
+      externalLink: "https://amazon.com/dp/B0D5YPWPHQ",
+    },
+  ],
 } as const satisfies Book

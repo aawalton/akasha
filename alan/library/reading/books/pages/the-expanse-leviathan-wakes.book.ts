@@ -9,8 +9,12 @@ export const theExpanseLeviathanWakes = {
   author: "James S. A. Corey",
   unit: "words",
   ownLength: 144250,
-  source: "kindle",
-  externalId: "B0047Y171G",
-  externalLink: "https://www.amazon.com/dp/B0047Y171G",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0047Y171G",
+      externalLink: "https://www.amazon.com/dp/B0047Y171G",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

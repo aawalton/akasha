@@ -10,8 +10,12 @@ export const theWideGreenWorldSeriesPassage = {
   unit: "words",
   position: 2,
   ownLength: 108750,
-  source: "kindle",
-  externalId: "B0010SKSWQ",
-  externalLink: "https://www.amazon.com/dp/B0010SKSWQ",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0010SKSWQ",
+      externalLink: "https://www.amazon.com/dp/B0010SKSWQ",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -9,8 +9,12 @@ export const vorkosiganSagaWinterfairGifts = {
   author: "Lois McMaster Bujold",
   unit: "words",
   ownLength: 22750,
-  source: "kindle",
-  externalId: "B004I6CZ28",
-  externalLink: "https://www.amazon.com/dp/B004I6CZ28",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B004I6CZ28",
+      externalLink: "https://www.amazon.com/dp/B004I6CZ28",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

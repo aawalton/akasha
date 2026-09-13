@@ -12,7 +12,11 @@ export const ultimateLevel1ShatteredLimits = {
   ownLength: 119750,
   ownProgress: 119750,
   publishedAt: "2024-04-23",
-  source: "kindle",
-  externalId: "B0CW6KV1DS",
-  externalLink: "https://amazon.com/dp/B0CW6KV1DS",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CW6KV1DS",
+      externalLink: "https://amazon.com/dp/B0CW6KV1DS",
+    },
+  ],
 } as const satisfies Book

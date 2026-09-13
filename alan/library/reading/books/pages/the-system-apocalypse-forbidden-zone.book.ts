@@ -12,7 +12,11 @@ export const theSystemApocalypseForbiddenZone = {
   ownProgress: 107500,
   publishedAt: "2021-09-01",
   partOfCollections: ["book-series/the-system-apocalypse"],
-  source: "kindle",
-  externalId: "B09B84Y15P",
-  externalLink: "https://amazon.com/dp/B09B84Y15P",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09B84Y15P",
+      externalLink: "https://amazon.com/dp/B09B84Y15P",
+    },
+  ],
 } as const satisfies Book

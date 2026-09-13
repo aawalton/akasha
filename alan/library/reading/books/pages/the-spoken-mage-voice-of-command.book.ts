@@ -9,8 +9,12 @@ export const theSpokenMageVoiceOfCommand = {
   unit: "words",
   position: 1,
   ownLength: 67000,
-  source: "kindle",
-  externalId: "B07LF8LHNW",
-  externalLink: "https://www.amazon.com/dp/B07LF8LHNW",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07LF8LHNW",
+      externalLink: "https://www.amazon.com/dp/B07LF8LHNW",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

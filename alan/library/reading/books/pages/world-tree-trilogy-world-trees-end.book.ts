@@ -13,7 +13,11 @@ export const worldTreeTrilogyWorldTreesEnd = {
   ownProgress: 118750,
   publishedAt: "2019-09-14",
   partOfCollections: ["book-series/world-tree-trilogy"],
-  source: "kindle",
-  externalId: "B07XM4ML2C",
-  externalLink: "https://amazon.com/dp/B07XM4ML2C",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07XM4ML2C",
+      externalLink: "https://amazon.com/dp/B07XM4ML2C",
+    },
+  ],
 } as const satisfies Book

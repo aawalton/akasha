@@ -13,8 +13,12 @@ export const theSystemApocalypseLifeInTheNorth = {
   ownProgress: 93000,
   publishedAt: "2017-07-02",
   partOfCollections: ["book-series/the-system-apocalypse"],
-  source: "kindle",
-  externalId: "B073PNL3BP",
-  externalLink: "https://amazon.com/dp/B073PNL3BP",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B073PNL3BP",
+      externalLink: "https://amazon.com/dp/B073PNL3BP",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -13,8 +13,12 @@ export const wheelOfTimeTowersOfMidnight = {
   ownLength: 216250,
   ownProgress: 216250,
   publishedAt: "2011-01-31",
-  source: "kindle",
-  externalId: "B003P8Q5QC",
-  externalLink: "https://amazon.com/dp/B003P8Q5QC",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B003P8Q5QC",
+      externalLink: "https://amazon.com/dp/B003P8Q5QC",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

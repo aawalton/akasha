@@ -12,7 +12,11 @@ export const theDivineDungeonDungeonCalamity = {
   ownLength: 100500,
   ownProgress: 100500,
   publishedAt: "2019-05-09",
-  source: "kindle",
-  externalId: "B07RTHDP7T",
-  externalLink: "https://amazon.com/dp/B07RTHDP7T",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07RTHDP7T",
+      externalLink: "https://amazon.com/dp/B07RTHDP7T",
+    },
+  ],
 } as const satisfies Book

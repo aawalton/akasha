@@ -11,8 +11,12 @@ export const theWarOfBrokenMirrorsStealingSorcery = {
   position: 1,
   ownLength: 155250,
   ownProgress: 155250,
-  source: "kindle",
-  externalId: "B016IPJ1R8",
-  externalLink: "https://www.amazon.com/dp/B016IPJ1R8",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B016IPJ1R8",
+      externalLink: "https://www.amazon.com/dp/B016IPJ1R8",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

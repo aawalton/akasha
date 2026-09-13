@@ -11,7 +11,11 @@ export const theDivineDungeonDungeonEternium = {
   ownLength: 82000,
   ownProgress: 82000,
   publishedAt: "2019-05-31",
-  source: "kindle",
-  externalId: "B07RPB6495",
-  externalLink: "https://amazon.com/dp/B07RPB6495",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07RPB6495",
+      externalLink: "https://amazon.com/dp/B07RPB6495",
+    },
+  ],
 } as const satisfies Book

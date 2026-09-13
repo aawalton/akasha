@@ -8,8 +8,12 @@ export const theElderEmpireSeaOfSeaAndShadow = {
   status: "not-started",
   unit: "words",
   ownLength: 107000,
-  source: "kindle",
-  externalId: "B00RE55XXS",
-  externalLink: "https://www.amazon.com/dp/B00RE55XXS",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00RE55XXS",
+      externalLink: "https://www.amazon.com/dp/B00RE55XXS",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

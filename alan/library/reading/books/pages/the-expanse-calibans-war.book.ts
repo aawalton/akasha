@@ -10,8 +10,12 @@ export const theExpanseCalibansWar = {
   unit: "words",
   position: 1,
   ownLength: 151250,
-  source: "kindle",
-  externalId: "B005SCRR1A",
-  externalLink: "https://www.amazon.com/dp/B005SCRR1A",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B005SCRR1A",
+      externalLink: "https://www.amazon.com/dp/B005SCRR1A",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

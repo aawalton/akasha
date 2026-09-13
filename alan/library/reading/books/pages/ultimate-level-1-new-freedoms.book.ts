@@ -12,7 +12,11 @@ export const ultimateLevel1NewFreedoms = {
   ownLength: 119250,
   ownProgress: 119250,
   publishedAt: "2024-11-01",
-  source: "kindle",
-  externalId: "B0DF5SFJ82",
-  externalLink: "https://amazon.com/dp/B0DF5SFJ82",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DF5SFJ82",
+      externalLink: "https://amazon.com/dp/B0DF5SFJ82",
+    },
+  ],
 } as const satisfies Book

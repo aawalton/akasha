@@ -12,7 +12,11 @@ export const theSystemApocalypseWorldUnbound = {
   ownProgress: 99250,
   publishedAt: "2019-01-01",
   partOfCollections: ["book-series/the-system-apocalypse"],
-  source: "kindle",
-  externalId: "B07LF675B1",
-  externalLink: "https://amazon.com/dp/B07LF675B1",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07LF675B1",
+      externalLink: "https://amazon.com/dp/B07LF675B1",
+    },
+  ],
 } as const satisfies Book

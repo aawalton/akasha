@@ -11,8 +11,12 @@ export const theRuthlessEliminationOfHurry = {
   unit: "words",
   ownLength: 76250,
   publishedAt: "2019-10-29",
-  source: "kindle",
-  externalId: "B07NCJB86S",
-  externalLink:
-    "https://www.amazon.com/Ruthless-Elimination-Hurry-Emotionally-Spiritually-ebook/dp/B07NCJB86S",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07NCJB86S",
+      externalLink:
+        "https://www.amazon.com/Ruthless-Elimination-Hurry-Emotionally-Spiritually-ebook/dp/B07NCJB86S",
+    },
+  ],
 } as const satisfies Book

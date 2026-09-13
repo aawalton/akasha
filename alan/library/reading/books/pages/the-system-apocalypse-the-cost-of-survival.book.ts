@@ -13,7 +13,11 @@ export const theSystemApocalypseTheCostOfSurvival = {
   ownProgress: 75750,
   publishedAt: "2018-01-24",
   partOfCollections: ["book-series/the-system-apocalypse"],
-  source: "kindle",
-  externalId: "B079B7B4GP",
-  externalLink: "https://amazon.com/dp/B079B7B4GP",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B079B7B4GP",
+      externalLink: "https://amazon.com/dp/B079B7B4GP",
+    },
+  ],
 } as const satisfies Book

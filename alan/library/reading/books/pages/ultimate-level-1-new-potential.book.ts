@@ -12,7 +12,11 @@ export const ultimateLevel1NewPotential = {
   ownLength: 120000,
   ownProgress: 120000,
   publishedAt: "2025-01-20",
-  source: "kindle",
-  externalId: "B0DL459C5W",
-  externalLink: "https://amazon.com/dp/B0DL459C5W",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DL459C5W",
+      externalLink: "https://amazon.com/dp/B0DL459C5W",
+    },
+  ],
 } as const satisfies Book

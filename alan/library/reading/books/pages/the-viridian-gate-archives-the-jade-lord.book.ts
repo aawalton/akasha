@@ -12,7 +12,11 @@ export const theViridianGateArchivesTheJadeLord = {
   ownLength: 90250,
   ownProgress: 90250,
   publishedAt: "2017-06-07",
-  source: "kindle",
-  externalId: "B071JV49FB",
-  externalLink: "https://amazon.com/dp/B071JV49FB",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B071JV49FB",
+      externalLink: "https://amazon.com/dp/B071JV49FB",
+    },
+  ],
 } as const satisfies Book

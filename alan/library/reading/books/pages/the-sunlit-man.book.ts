@@ -10,7 +10,11 @@ export const theSunlitMan = {
   unit: "words",
   position: 9,
   ownLength: 111500,
-  source: "kindle",
-  externalId: "B0BPN84MD5",
-  externalLink: "https://www.amazon.com/dp/B0BPN84MD5",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BPN84MD5",
+      externalLink: "https://www.amazon.com/dp/B0BPN84MD5",
+    },
+  ],
 } as const satisfies Book

@@ -12,7 +12,11 @@ export const theLegendOfRandidlyGhosthound11 = {
   ownProgress: 192000,
   publishedAt: "2025-05-21",
   partOfCollections: ["book-series/the-legend-of-randidly-ghosthound"],
-  source: "kindle",
-  externalId: "B0DT4WVCMS",
-  externalLink: "https://amazon.com/dp/B0DT4WVCMS",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DT4WVCMS",
+      externalLink: "https://amazon.com/dp/B0DT4WVCMS",
+    },
+  ],
 } as const satisfies Book

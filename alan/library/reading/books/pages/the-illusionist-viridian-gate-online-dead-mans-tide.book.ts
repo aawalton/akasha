@@ -11,7 +11,11 @@ export const theIllusionistViridianGateOnlineDeadMansTide = {
   ownLength: 100750,
   ownProgress: 100750,
   publishedAt: "2019-03-28",
-  source: "kindle",
-  externalId: "B07P189132",
-  externalLink: "https://amazon.com/dp/B07P189132",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07P189132",
+      externalLink: "https://amazon.com/dp/B07P189132",
+    },
+  ],
 } as const satisfies Book

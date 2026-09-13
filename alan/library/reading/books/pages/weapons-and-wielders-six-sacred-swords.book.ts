@@ -11,7 +11,11 @@ export const weaponsAndWieldersSixSacredSwords = {
   ownLength: 102000,
   ownProgress: 102000,
   publishedAt: "2019-02-08",
-  source: "kindle",
-  externalId: "B07NKBSZGF",
-  externalLink: "https://amazon.com/dp/B07NKBSZGF",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07NKBSZGF",
+      externalLink: "https://amazon.com/dp/B07NKBSZGF",
+    },
+  ],
 } as const satisfies Book

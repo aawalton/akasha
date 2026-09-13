@@ -13,8 +13,12 @@ export const wheelOfTimeKnifeOfDreams = {
   ownLength: 221500,
   ownProgress: 221500,
   publishedAt: "2010-04-21",
-  source: "kindle",
-  externalId: "B000SEH2NG",
-  externalLink: "https://amazon.com/dp/B000SEH2NG",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000SEH2NG",
+      externalLink: "https://amazon.com/dp/B000SEH2NG",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

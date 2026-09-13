@@ -10,7 +10,11 @@ export const theHeroOfAges = {
   unit: "words",
   position: 3,
   ownLength: 186750,
-  source: "kindle",
-  externalId: "B002LC8HF0",
-  externalLink: "https://www.amazon.com/dp/B002LC8HF0",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B002LC8HF0",
+      externalLink: "https://www.amazon.com/dp/B002LC8HF0",
+    },
+  ],
 } as const satisfies Book

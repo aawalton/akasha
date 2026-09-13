@@ -10,7 +10,11 @@ export const weaponsAndWieldersSoulbrand = {
   position: 3,
   ownLength: 190500,
   publishedAt: "2021-06-11",
-  source: "kindle",
-  externalId: "B094NVVNP4",
-  externalLink: "https://amazon.com/dp/B094NVVNP4",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B094NVVNP4",
+      externalLink: "https://amazon.com/dp/B094NVVNP4",
+    },
+  ],
 } as const satisfies Book

@@ -8,8 +8,12 @@ export const theSpokenMageVoiceOfPower = {
   status: "not-started",
   unit: "words",
   ownLength: 78500,
-  source: "kindle",
-  externalId: "B07LDST8NX",
-  externalLink: "https://www.amazon.com/dp/B07LDST8NX",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07LDST8NX",
+      externalLink: "https://www.amazon.com/dp/B07LDST8NX",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

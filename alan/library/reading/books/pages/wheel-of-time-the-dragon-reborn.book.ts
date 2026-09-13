@@ -13,8 +13,12 @@ export const wheelOfTimeTheDragonReborn = {
   ownLength: 168250,
   ownProgress: 168250,
   publishedAt: "2009-12-09",
-  source: "kindle",
-  externalId: "B0030AF5DO",
-  externalLink: "https://amazon.com/dp/B0030AF5DO",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0030AF5DO",
+      externalLink: "https://amazon.com/dp/B0030AF5DO",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -11,7 +11,11 @@ export const theViridianGateArchivesDoomForge = {
   ownLength: 82250,
   ownProgress: 82250,
   publishedAt: "2019-01-30",
-  source: "kindle",
-  externalId: "B07MWBP4M8",
-  externalLink: "https://amazon.com/dp/B07MWBP4M8",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07MWBP4M8",
+      externalLink: "https://amazon.com/dp/B07MWBP4M8",
+    },
+  ],
 } as const satisfies Book

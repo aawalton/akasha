@@ -12,7 +12,11 @@ export const theWhisperingCrystalsUntamedSpirit = {
   ownProgress: 128000,
   publishedAt: "2023-03-02",
   partOfCollections: ["book-series/the-whispering-crystals"],
-  source: "kindle",
-  externalId: "B0BX1TZ2TD",
-  externalLink: "https://amazon.com/dp/B0BX1TZ2TD",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BX1TZ2TD",
+      externalLink: "https://amazon.com/dp/B0BX1TZ2TD",
+    },
+  ],
 } as const satisfies Book

@@ -10,7 +10,11 @@ export const theGoodGuysKillingThemAwfully = {
   position: 11,
   ownLength: 84250,
   publishedAt: "2021-04-29",
-  source: "kindle",
-  externalId: "B08WLC89CY",
-  externalLink: "https://amazon.com/dp/B08WLC89CY",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08WLC89CY",
+      externalLink: "https://amazon.com/dp/B08WLC89CY",
+    },
+  ],
 } as const satisfies Book

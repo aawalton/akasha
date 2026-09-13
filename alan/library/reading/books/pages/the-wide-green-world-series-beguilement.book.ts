@@ -8,8 +8,12 @@ export const theWideGreenWorldSeriesBeguilement = {
   status: "not-started",
   unit: "words",
   ownLength: 97250,
-  source: "kindle",
-  externalId: "B000QCQ9RU",
-  externalLink: "https://www.amazon.com/dp/B000QCQ9RU",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000QCQ9RU",
+      externalLink: "https://www.amazon.com/dp/B000QCQ9RU",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

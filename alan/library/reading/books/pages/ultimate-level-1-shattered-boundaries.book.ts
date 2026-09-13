@@ -12,7 +12,11 @@ export const ultimateLevel1ShatteredBoundaries = {
   ownLength: 105000,
   ownProgress: 105000,
   publishedAt: "2024-07-01",
-  source: "kindle",
-  externalId: "B0D2DXC92Y",
-  externalLink: "https://amazon.com/dp/B0D2DXC92Y",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D2DXC92Y",
+      externalLink: "https://amazon.com/dp/B0D2DXC92Y",
+    },
+  ],
 } as const satisfies Book

@@ -10,7 +10,11 @@ export const whiteSandBrandonSandersonsWhiteSandVol2 = {
   position: 2,
   ownLength: 38000,
   publishedAt: "2018-02-21",
-  source: "kindle",
-  externalId: "B0759PD6ZW",
-  externalLink: "https://amazon.com/dp/B0759PD6ZW",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0759PD6ZW",
+      externalLink: "https://amazon.com/dp/B0759PD6ZW",
+    },
+  ],
 } as const satisfies Book

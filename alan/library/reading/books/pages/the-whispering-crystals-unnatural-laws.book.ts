@@ -12,7 +12,11 @@ export const theWhisperingCrystalsUnnaturalLaws = {
   ownProgress: 88500,
   publishedAt: "2020-11-03",
   partOfCollections: ["book-series/the-whispering-crystals"],
-  source: "kindle",
-  externalId: "B08MQTLMZ9",
-  externalLink: "https://amazon.com/dp/B08MQTLMZ9",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08MQTLMZ9",
+      externalLink: "https://amazon.com/dp/B08MQTLMZ9",
+    },
+  ],
 } as const satisfies Book

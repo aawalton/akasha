@@ -11,7 +11,11 @@ export const theGoodGuysTheBareHunt = {
   ownLength: 96500,
   ownProgress: 96500,
   publishedAt: "2019-12-14",
-  source: "kindle",
-  externalId: "B07YZT6Y44",
-  externalLink: "https://amazon.com/dp/B07YZT6Y44",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07YZT6Y44",
+      externalLink: "https://amazon.com/dp/B07YZT6Y44",
+    },
+  ],
 } as const satisfies Book

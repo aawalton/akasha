@@ -9,8 +9,12 @@ export const theSpokenMageVoiceOfLife = {
   unit: "words",
   position: 3,
   ownLength: 90500,
-  source: "kindle",
-  externalId: "B07QG113LM",
-  externalLink: "https://www.amazon.com/dp/B07QG113LM",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07QG113LM",
+      externalLink: "https://www.amazon.com/dp/B07QG113LM",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -13,8 +13,12 @@ export const wheelOfTimeLordOfChaos = {
   ownLength: 262250,
   ownProgress: 262250,
   publishedAt: "2010-03-11",
-  source: "kindle",
-  externalId: "B003BQZ80M",
-  externalLink: "https://amazon.com/dp/B003BQZ80M",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B003BQZ80M",
+      externalLink: "https://amazon.com/dp/B003BQZ80M",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

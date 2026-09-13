@@ -11,7 +11,11 @@ export const theLegendaryFool = {
   position: 1,
   ownLength: 106000,
   publishedAt: "2025-04-01",
-  source: "kindle",
-  externalId: "B0DHLNL26F",
-  externalLink: "https://amazon.com/dp/B0DHLNL26F",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DHLNL26F",
+      externalLink: "https://amazon.com/dp/B0DHLNL26F",
+    },
+  ],
 } as const satisfies Book

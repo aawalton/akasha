@@ -9,8 +9,12 @@ export const theElderEmpireSeaOfDawnAndDarkness = {
   unit: "words",
   position: 1,
   ownLength: 97000,
-  source: "kindle",
-  externalId: "B01915038I",
-  externalLink: "https://www.amazon.com/dp/B01915038I",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01915038I",
+      externalLink: "https://www.amazon.com/dp/B01915038I",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

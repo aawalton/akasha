@@ -12,7 +12,11 @@ export const theSystemApocalypseRebelStar = {
   ownProgress: 103750,
   publishedAt: "2019-12-01",
   partOfCollections: ["book-series/the-system-apocalypse"],
-  source: "kindle",
-  externalId: "B07Z9N8JKM",
-  externalLink: "https://amazon.com/dp/B07Z9N8JKM",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07Z9N8JKM",
+      externalLink: "https://amazon.com/dp/B07Z9N8JKM",
+    },
+  ],
 } as const satisfies Book

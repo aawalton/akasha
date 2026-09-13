@@ -9,8 +9,12 @@ export const theLastHorizonTheCaptain = {
   author: "Will Wight",
   unit: "words",
   ownLength: 105000,
-  source: "kindle",
-  externalId: "B0BXPYQD4D",
-  externalLink: "https://www.amazon.com/dp/B0BXPYQD4D",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BXPYQD4D",
+      externalLink: "https://www.amazon.com/dp/B0BXPYQD4D",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

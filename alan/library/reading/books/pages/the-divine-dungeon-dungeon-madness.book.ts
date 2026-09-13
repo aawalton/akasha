@@ -12,8 +12,12 @@ export const theDivineDungeonDungeonMadness = {
   ownLength: 97000,
   ownProgress: 97000,
   publishedAt: "2019-05-09",
-  source: "kindle",
-  externalId: "B07RP69LFQ",
-  externalLink: "https://amazon.com/dp/B07RP69LFQ",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07RP69LFQ",
+      externalLink: "https://amazon.com/dp/B07RP69LFQ",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

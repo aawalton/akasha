@@ -9,8 +9,12 @@ export const theElderEmpireShadowOfKillersAndKings = {
   unit: "words",
   position: 2,
   ownLength: 98000,
-  source: "kindle",
-  externalId: "B087N4L8JW",
-  externalLink: "https://www.amazon.com/dp/B087N4L8JW",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B087N4L8JW",
+      externalLink: "https://www.amazon.com/dp/B087N4L8JW",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

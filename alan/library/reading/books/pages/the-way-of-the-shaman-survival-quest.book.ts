@@ -13,7 +13,11 @@ export const theWayOfTheShamanSurvivalQuest = {
   ownProgress: 82000,
   publishedAt: "2015-04-20",
   partOfCollections: ["book-series/the-way-of-the-shaman"],
-  source: "kindle",
-  externalId: "B00VQRW14E",
-  externalLink: "https://amazon.com/dp/B00VQRW14E",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00VQRW14E",
+      externalLink: "https://amazon.com/dp/B00VQRW14E",
+    },
+  ],
 } as const satisfies Book

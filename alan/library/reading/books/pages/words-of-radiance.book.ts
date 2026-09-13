@@ -10,7 +10,11 @@ export const wordsOfRadiance = {
   unit: "words",
   position: 2,
   ownLength: 271750,
-  source: "kindle",
-  externalId: "B00DA6YEKS",
-  externalLink: "https://www.amazon.com/dp/B00DA6YEKS",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00DA6YEKS",
+      externalLink: "https://www.amazon.com/dp/B00DA6YEKS",
+    },
+  ],
 } as const satisfies Book

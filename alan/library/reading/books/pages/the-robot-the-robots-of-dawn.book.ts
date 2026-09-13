@@ -10,8 +10,12 @@ export const theRobotTheRobotsOfDawn = {
   unit: "words",
   position: 2,
   ownLength: 121750,
-  source: "kindle",
-  externalId: "B0024NP57Y",
-  externalLink: "https://www.amazon.com/dp/B0024NP57Y",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0024NP57Y",
+      externalLink: "https://www.amazon.com/dp/B0024NP57Y",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

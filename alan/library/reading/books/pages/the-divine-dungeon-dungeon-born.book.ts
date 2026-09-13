@@ -11,7 +11,11 @@ export const theDivineDungeonDungeonBorn = {
   ownLength: 92500,
   ownProgress: 92500,
   publishedAt: "2019-05-09",
-  source: "kindle",
-  externalId: "B07RR97GXF",
-  externalLink: "https://amazon.com/dp/B07RR97GXF",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07RR97GXF",
+      externalLink: "https://amazon.com/dp/B07RR97GXF",
+    },
+  ],
 } as const satisfies Book

@@ -9,8 +9,12 @@ export const vattasWarMarqueAndReprisal = {
   unit: "words",
   position: 1,
   ownLength: 100000,
-  source: "kindle",
-  externalId: "B000FC28UI",
-  externalLink: "https://www.amazon.com/dp/B000FC28UI",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000FC28UI",
+      externalLink: "https://www.amazon.com/dp/B000FC28UI",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -11,7 +11,11 @@ export const theGoodGuysEastboundAndTown = {
   ownLength: 91000,
   ownProgress: 91000,
   publishedAt: "2020-04-02",
-  source: "kindle",
-  externalId: "B082J9H95S",
-  externalLink: "https://amazon.com/dp/B082J9H95S",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B082J9H95S",
+      externalLink: "https://amazon.com/dp/B082J9H95S",
+    },
+  ],
 } as const satisfies Book

@@ -13,7 +13,11 @@ export const thePrimalHunter4 = {
   ownProgress: 188000,
   publishedAt: "2022-12-06",
   partOfCollections: ["book-series/the-primal-hunter"],
-  source: "kindle",
-  externalId: "B0B8FTNMS9",
-  externalLink: "https://amazon.com/dp/B0B8FTNMS9",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0B8FTNMS9",
+      externalLink: "https://amazon.com/dp/B0B8FTNMS9",
+    },
+  ],
 } as const satisfies Book

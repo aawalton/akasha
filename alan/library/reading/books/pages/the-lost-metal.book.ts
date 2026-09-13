@@ -10,7 +10,11 @@ export const theLostMetal = {
   unit: "words",
   position: 8,
   ownLength: 132000,
-  source: "kindle",
-  externalId: "B09MBS37W9",
-  externalLink: "https://www.amazon.com/dp/B09MBS37W9",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09MBS37W9",
+      externalLink: "https://www.amazon.com/dp/B09MBS37W9",
+    },
+  ],
 } as const satisfies Book

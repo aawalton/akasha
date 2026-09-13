@@ -10,7 +10,11 @@ export const theFrugalWizardsHandbookForSurvivingMedievalEngland = {
   unit: "words",
   position: 11,
   ownLength: 99750,
-  source: "kindle",
-  externalId: "B0BPN6KC4T",
-  externalLink: "https://www.amazon.com/dp/B0BPN6KC4T",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BPN6KC4T",
+      externalLink: "https://www.amazon.com/dp/B0BPN6KC4T",
+    },
+  ],
 } as const satisfies Book

@@ -11,7 +11,11 @@ export const theViridianGateArchivesCrimsonAlliance = {
   ownLength: 64000,
   ownProgress: 64000,
   publishedAt: "2017-02-24",
-  source: "kindle",
-  externalId: "B06WGVG67N",
-  externalLink: "https://amazon.com/dp/B06WGVG67N",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B06WGVG67N",
+      externalLink: "https://amazon.com/dp/B06WGVG67N",
+    },
+  ],
 } as const satisfies Book

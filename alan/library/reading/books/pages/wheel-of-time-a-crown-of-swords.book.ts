@@ -13,8 +13,12 @@ export const wheelOfTimeACrownOfSwords = {
   ownLength: 225500,
   ownProgress: 225500,
   publishedAt: "2010-04-14",
-  source: "kindle",
-  externalId: "B003H4I5G2",
-  externalLink: "https://amazon.com/dp/B003H4I5G2",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B003H4I5G2",
+      externalLink: "https://amazon.com/dp/B003H4I5G2",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

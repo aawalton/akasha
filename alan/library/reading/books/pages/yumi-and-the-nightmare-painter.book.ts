@@ -10,7 +10,11 @@ export const yumiAndTheNightmarePainter = {
   unit: "words",
   position: 8,
   ownLength: 119000,
-  source: "kindle",
-  externalId: "B0BPN9JT6M",
-  externalLink: "https://www.amazon.com/dp/B0BPN9JT6M",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BPN9JT6M",
+      externalLink: "https://www.amazon.com/dp/B0BPN9JT6M",
+    },
+  ],
 } as const satisfies Book

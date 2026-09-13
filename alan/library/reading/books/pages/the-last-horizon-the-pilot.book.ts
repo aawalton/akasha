@@ -11,7 +11,11 @@ export const theLastHorizonThePilot = {
   position: 4,
   ownLength: 105250,
   publishedAt: "2025-07-01",
-  source: "kindle",
-  externalId: "B0F9YV8BH6",
-  externalLink: "https://amazon.com/dp/B0F9YV8BH6",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0F9YV8BH6",
+      externalLink: "https://amazon.com/dp/B0F9YV8BH6",
+    },
+  ],
 } as const satisfies Book

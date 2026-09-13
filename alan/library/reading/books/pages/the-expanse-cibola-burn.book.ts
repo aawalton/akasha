@@ -10,8 +10,12 @@ export const theExpanseCibolaBurn = {
   unit: "words",
   position: 3,
   ownLength: 147750,
-  source: "kindle",
-  externalId: "B00FPQA4F0",
-  externalLink: "https://www.amazon.com/dp/B00FPQA4F0",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00FPQA4F0",
+      externalLink: "https://www.amazon.com/dp/B00FPQA4F0",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

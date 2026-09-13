@@ -8,8 +8,12 @@ export const warGodOathOfSwordsAndSwordBrother = {
   status: "not-started",
   unit: "words",
   ownLength: 128750,
-  source: "kindle",
-  externalId: "B00AP91O7Y",
-  externalLink: "https://www.amazon.com/dp/B00AP91O7Y",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00AP91O7Y",
+      externalLink: "https://www.amazon.com/dp/B00AP91O7Y",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

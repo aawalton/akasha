@@ -10,7 +10,11 @@ export const tressOfTheEmeraldSea = {
   unit: "words",
   position: 7,
   ownLength: 118750,
-  source: "kindle",
-  externalId: "B0BPNB19CL",
-  externalLink: "https://www.amazon.com/dp/B0BPNB19CL",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BPNB19CL",
+      externalLink: "https://www.amazon.com/dp/B0BPNB19CL",
+    },
+  ],
 } as const satisfies Book

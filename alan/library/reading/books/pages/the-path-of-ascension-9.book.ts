@@ -13,7 +13,11 @@ export const thePathOfAscension9 = {
   ownProgress: 136500,
   publishedAt: "2025-06-04",
   partOfCollections: ["book-series/the-path-of-ascension"],
-  source: "kindle",
-  externalId: "B0DV9Z333L",
-  externalLink: "https://amazon.com/dp/B0DV9Z333L",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DV9Z333L",
+      externalLink: "https://amazon.com/dp/B0DV9Z333L",
+    },
+  ],
 } as const satisfies Book

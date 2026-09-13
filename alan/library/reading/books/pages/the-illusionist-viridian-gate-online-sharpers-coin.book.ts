@@ -10,7 +10,11 @@ export const theIllusionistViridianGateOnlineSharpersCoin = {
   position: 4,
   ownLength: 94250,
   publishedAt: "2022-03-15",
-  source: "kindle",
-  externalId: "B09T1DJXHH",
-  externalLink: "https://amazon.com/dp/B09T1DJXHH",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09T1DJXHH",
+      externalLink: "https://amazon.com/dp/B09T1DJXHH",
+    },
+  ],
 } as const satisfies Book

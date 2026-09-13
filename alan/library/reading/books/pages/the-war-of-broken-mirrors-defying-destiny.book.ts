@@ -9,8 +9,12 @@ export const theWarOfBrokenMirrorsDefyingDestiny = {
   unit: "words",
   position: 2,
   ownLength: 134250,
-  source: "kindle",
-  externalId: "B07WWGQG8Q",
-  externalLink: "https://www.amazon.com/dp/B07WWGQG8Q",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07WWGQG8Q",
+      externalLink: "https://www.amazon.com/dp/B07WWGQG8Q",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

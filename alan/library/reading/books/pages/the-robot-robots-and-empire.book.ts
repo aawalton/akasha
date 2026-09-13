@@ -11,7 +11,11 @@ export const theRobotRobotsAndEmpire = {
   position: 5,
   ownLength: 110250,
   publishedAt: "2023-09-14",
-  source: "kindle",
-  externalId: "B07GKW24B9",
-  externalLink: "https://amazon.com/dp/B07GKW24B9",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07GKW24B9",
+      externalLink: "https://amazon.com/dp/B07GKW24B9",
+    },
+  ],
 } as const satisfies Book

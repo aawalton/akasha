@@ -13,7 +13,11 @@ export const theGam3OpeningMoves = {
   ownProgress: 110750,
   publishedAt: "2016-03-23",
   partOfCollections: ["book-series/the-gam3"],
-  source: "kindle",
-  externalId: "B01DFCNAPG",
-  externalLink: "https://amazon.com/dp/B01DFCNAPG",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01DFCNAPG",
+      externalLink: "https://amazon.com/dp/B01DFCNAPG",
+    },
+  ],
 } as const satisfies Book

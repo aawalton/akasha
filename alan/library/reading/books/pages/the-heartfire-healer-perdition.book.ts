@@ -10,7 +10,11 @@ export const theHeartfireHealerPerdition = {
   position: 3,
   ownLength: 104250,
   publishedAt: "2022-04-26",
-  source: "kindle",
-  externalId: "B09XCCLJ4R",
-  externalLink: "https://amazon.com/dp/B09XCCLJ4R",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09XCCLJ4R",
+      externalLink: "https://amazon.com/dp/B09XCCLJ4R",
+    },
+  ],
 } as const satisfies Book

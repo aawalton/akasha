@@ -10,8 +10,12 @@ export const theWarOfBrokenMirrorsForgingDivinity = {
   unit: "words",
   ownLength: 77500,
   ownProgress: 77500,
-  source: "kindle",
-  externalId: "B00TKFFR36",
-  externalLink: "https://www.amazon.com/dp/B00TKFFR36",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00TKFFR36",
+      externalLink: "https://www.amazon.com/dp/B00TKFFR36",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

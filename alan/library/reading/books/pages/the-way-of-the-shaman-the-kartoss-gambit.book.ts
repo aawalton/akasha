@@ -13,7 +13,11 @@ export const theWayOfTheShamanTheKartossGambit = {
   ownProgress: 128250,
   publishedAt: "2015-11-11",
   partOfCollections: ["book-series/the-way-of-the-shaman"],
-  source: "kindle",
-  externalId: "B017F71H6Q",
-  externalLink: "https://amazon.com/dp/B017F71H6Q",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B017F71H6Q",
+      externalLink: "https://amazon.com/dp/B017F71H6Q",
+    },
+  ],
 } as const satisfies Book

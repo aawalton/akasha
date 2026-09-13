@@ -13,7 +13,11 @@ export const theWayOfTheShamanTheSecretOfTheDarkForest = {
   ownProgress: 149000,
   publishedAt: "2016-07-04",
   partOfCollections: ["book-series/the-way-of-the-shaman"],
-  source: "kindle",
-  externalId: "B01HZ4TYDM",
-  externalLink: "https://amazon.com/dp/B01HZ4TYDM",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01HZ4TYDM",
+      externalLink: "https://amazon.com/dp/B01HZ4TYDM",
+    },
+  ],
 } as const satisfies Book

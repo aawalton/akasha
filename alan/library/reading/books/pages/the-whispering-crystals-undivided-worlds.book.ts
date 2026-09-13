@@ -12,7 +12,11 @@ export const theWhisperingCrystalsUndividedWorlds = {
   ownProgress: 118750,
   publishedAt: "2023-12-17",
   partOfCollections: ["book-series/the-whispering-crystals"],
-  source: "kindle",
-  externalId: "B0CQK6TNQ4",
-  externalLink: "https://amazon.com/dp/B0CQK6TNQ4",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CQK6TNQ4",
+      externalLink: "https://amazon.com/dp/B0CQK6TNQ4",
+    },
+  ],
 } as const satisfies Book

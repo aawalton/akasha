@@ -11,7 +11,11 @@ export const theStubbornSkillGrinderInATimeLoop3 = {
   ownLength: 5500,
   ownProgress: 5500,
   publishedAt: "2026-02-11",
-  source: "kindle",
-  externalId: "B0FL2M817P",
-  externalLink: "https://amazon.com/dp/B0FL2M817P",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0FL2M817P",
+      externalLink: "https://amazon.com/dp/B0FL2M817P",
+    },
+  ],
 } as const satisfies Book

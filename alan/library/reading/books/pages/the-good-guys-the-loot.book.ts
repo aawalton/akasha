@@ -11,7 +11,11 @@ export const theGoodGuysTheLoot = {
   ownLength: 69000,
   ownProgress: 69000,
   publishedAt: "2019-02-14",
-  source: "kindle",
-  externalId: "B07LCCV2HQ",
-  externalLink: "https://amazon.com/dp/B07LCCV2HQ",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07LCCV2HQ",
+      externalLink: "https://amazon.com/dp/B07LCCV2HQ",
+    },
+  ],
 } as const satisfies Book

@@ -10,8 +10,12 @@ export const theLostFleetFearless = {
   unit: "words",
   position: 1,
   ownLength: 76500,
-  source: "kindle",
-  externalId: "B000SEGULG",
-  externalLink: "https://www.amazon.com/dp/B000SEGULG",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000SEGULG",
+      externalLink: "https://www.amazon.com/dp/B000SEGULG",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

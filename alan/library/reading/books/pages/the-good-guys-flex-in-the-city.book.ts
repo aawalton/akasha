@@ -10,7 +10,11 @@ export const theGoodGuysFlexInTheCity = {
   position: 13,
   ownLength: 101750,
   publishedAt: "2022-04-08",
-  source: "kindle",
-  externalId: "B09B5C2L7N",
-  externalLink: "https://amazon.com/dp/B09B5C2L7N",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09B5C2L7N",
+      externalLink: "https://amazon.com/dp/B09B5C2L7N",
+    },
+  ],
 } as const satisfies Book

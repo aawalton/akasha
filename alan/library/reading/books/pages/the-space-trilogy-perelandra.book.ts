@@ -10,8 +10,12 @@ export const theSpaceTrilogyPerelandra = {
   unit: "words",
   position: 1,
   ownLength: 44750,
-  source: "kindle",
-  externalId: "B006L872Q0",
-  externalLink: "https://www.amazon.com/dp/B006L872Q0",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B006L872Q0",
+      externalLink: "https://www.amazon.com/dp/B006L872Q0",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

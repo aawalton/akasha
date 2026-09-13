@@ -11,7 +11,11 @@ export const weaponsAndWieldersDiamantine = {
   ownLength: 124500,
   ownProgress: 124500,
   publishedAt: "2020-01-18",
-  source: "kindle",
-  externalId: "B083P16YMR",
-  externalLink: "https://amazon.com/dp/B083P16YMR",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B083P16YMR",
+      externalLink: "https://amazon.com/dp/B083P16YMR",
+    },
+  ],
 } as const satisfies Book

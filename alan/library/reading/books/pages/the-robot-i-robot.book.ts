@@ -11,7 +11,11 @@ export const theRobotIRobot = {
   position: 1,
   ownLength: 76000,
   publishedAt: "2004-06-01",
-  source: "kindle",
-  externalId: "B000FC1PW0",
-  externalLink: "https://amazon.com/dp/B000FC1PW0",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000FC1PW0",
+      externalLink: "https://amazon.com/dp/B000FC1PW0",
+    },
+  ],
 } as const satisfies Book

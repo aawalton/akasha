@@ -11,7 +11,11 @@ export const theGoodGuysDungeonMauling = {
   ownLength: 83500,
   ownProgress: 83500,
   publishedAt: "2018-12-19",
-  source: "kindle",
-  externalId: "B07JL5YC25",
-  externalLink: "https://amazon.com/dp/B07JL5YC25",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07JL5YC25",
+      externalLink: "https://amazon.com/dp/B07JL5YC25",
+    },
+  ],
 } as const satisfies Book

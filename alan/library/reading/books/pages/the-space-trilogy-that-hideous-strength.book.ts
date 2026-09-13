@@ -10,8 +10,12 @@ export const theSpaceTrilogyThatHideousStrength = {
   unit: "words",
   position: 2,
   ownLength: 104250,
-  source: "kindle",
-  externalId: "B006L8768O",
-  externalLink: "https://www.amazon.com/dp/B006L8768O",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B006L8768O",
+      externalLink: "https://www.amazon.com/dp/B006L8768O",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

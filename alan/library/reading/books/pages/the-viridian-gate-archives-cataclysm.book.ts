@@ -12,7 +12,11 @@ export const theViridianGateArchivesCataclysm = {
   ownLength: 54750,
   ownProgress: 54750,
   publishedAt: "2016-12-23",
-  source: "kindle",
-  externalId: "B01MU0DYXW",
-  externalLink: "https://amazon.com/dp/B01MU0DYXW",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01MU0DYXW",
+      externalLink: "https://amazon.com/dp/B01MU0DYXW",
+    },
+  ],
 } as const satisfies Book

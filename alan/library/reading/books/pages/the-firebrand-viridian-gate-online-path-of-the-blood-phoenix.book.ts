@@ -11,7 +11,11 @@ export const theFirebrandViridianGateOnlinePathOfTheBloodPhoenix = {
   ownLength: 69500,
   ownProgress: 69500,
   publishedAt: "2019-08-20",
-  source: "kindle",
-  externalId: "B07WF2XR8S",
-  externalLink: "https://amazon.com/dp/B07WF2XR8S",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07WF2XR8S",
+      externalLink: "https://amazon.com/dp/B07WF2XR8S",
+    },
+  ],
 } as const satisfies Book

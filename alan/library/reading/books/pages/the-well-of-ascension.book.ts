@@ -11,7 +11,11 @@ export const theWellOfAscension = {
   position: 2,
   ownLength: 199250,
   ownProgress: 31250,
-  source: "kindle",
-  externalId: "B000UZQI0Q",
-  externalLink: "https://www.amazon.com/dp/B000UZQI0Q",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000UZQI0Q",
+      externalLink: "https://www.amazon.com/dp/B000UZQI0Q",
+    },
+  ],
 } as const satisfies Book

@@ -9,8 +9,12 @@ export const theLostFleetDauntless = {
   author: "Jack Campbell",
   unit: "words",
   ownLength: 76500,
-  source: "kindle",
-  externalId: "B000OZ0NXU",
-  externalLink: "https://www.amazon.com/dp/B000OZ0NXU",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000OZ0NXU",
+      externalLink: "https://www.amazon.com/dp/B000OZ0NXU",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

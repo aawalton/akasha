@@ -13,8 +13,12 @@ export const wheelOfTimeAMemoryOfLight = {
   ownLength: 256250,
   ownProgress: 256250,
   publishedAt: "2013-04-09",
-  source: "kindle",
-  externalId: "B00BMKDTNC",
-  externalLink: "https://amazon.com/dp/B00BMKDTNC",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00BMKDTNC",
+      externalLink: "https://amazon.com/dp/B00BMKDTNC",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

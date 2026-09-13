@@ -11,7 +11,11 @@ export const theFirebrandViridianGateOnline = {
   ownLength: 69500,
   ownProgress: 69500,
   publishedAt: "2019-02-26",
-  source: "kindle",
-  externalId: "B07NDYY91Y",
-  externalLink: "https://amazon.com/dp/B07NDYY91Y",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07NDYY91Y",
+      externalLink: "https://amazon.com/dp/B07NDYY91Y",
+    },
+  ],
 } as const satisfies Book

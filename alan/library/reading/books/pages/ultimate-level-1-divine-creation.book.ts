@@ -12,7 +12,11 @@ export const ultimateLevel1DivineCreation = {
   ownLength: 164500,
   ownProgress: 164500,
   publishedAt: "2025-11-06",
-  source: "kindle",
-  externalId: "B0FXJB3NR6",
-  externalLink: "https://amazon.com/dp/B0FXJB3NR6",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0FXJB3NR6",
+      externalLink: "https://amazon.com/dp/B0FXJB3NR6",
+    },
+  ],
 } as const satisfies Book

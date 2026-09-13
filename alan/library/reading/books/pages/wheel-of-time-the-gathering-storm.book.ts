@@ -13,8 +13,12 @@ export const wheelOfTimeTheGatheringStorm = {
   ownLength: 215250,
   ownProgress: 215250,
   publishedAt: "2009-10-27",
-  source: "kindle",
-  externalId: "B003K15O3E",
-  externalLink: "https://amazon.com/dp/B003K15O3E",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B003K15O3E",
+      externalLink: "https://amazon.com/dp/B003K15O3E",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

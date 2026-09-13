@@ -12,7 +12,11 @@ export const theGoodGuysHomeSiegeHome = {
   ownLength: 92500,
   ownProgress: 92500,
   publishedAt: "2019-06-13",
-  source: "kindle",
-  externalId: "B07QB5NX8S",
-  externalLink: "https://amazon.com/dp/B07QB5NX8S",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07QB5NX8S",
+      externalLink: "https://amazon.com/dp/B07QB5NX8S",
+    },
+  ],
 } as const satisfies Book

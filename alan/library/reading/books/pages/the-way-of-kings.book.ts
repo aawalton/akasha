@@ -11,7 +11,11 @@ export const theWayOfKings = {
   position: 1,
   ownLength: 301500,
   ownProgress: 83000,
-  source: "kindle",
-  externalId: "B003P2WO5E",
-  externalLink: "https://www.amazon.com/dp/B003P2WO5E",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B003P2WO5E",
+      externalLink: "https://www.amazon.com/dp/B003P2WO5E",
+    },
+  ],
 } as const satisfies Book

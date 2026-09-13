@@ -11,7 +11,11 @@ export const theIllusionistViridianGateOnlineInquisitorsFoil = {
   ownLength: 102250,
   ownProgress: 102250,
   publishedAt: "2019-07-30",
-  source: "kindle",
-  externalId: "B07VB5M5CK",
-  externalLink: "https://amazon.com/dp/B07VB5M5CK",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07VB5M5CK",
+      externalLink: "https://amazon.com/dp/B07VB5M5CK",
+    },
+  ],
 } as const satisfies Book

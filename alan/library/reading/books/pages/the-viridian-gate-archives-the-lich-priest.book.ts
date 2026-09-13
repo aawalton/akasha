@@ -11,7 +11,11 @@ export const theViridianGateArchivesTheLichPriest = {
   ownLength: 67250,
   ownProgress: 67250,
   publishedAt: "2018-04-05",
-  source: "kindle",
-  externalId: "B07BTL7LKT",
-  externalLink: "https://amazon.com/dp/B07BTL7LKT",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07BTL7LKT",
+      externalLink: "https://amazon.com/dp/B07BTL7LKT",
+    },
+  ],
 } as const satisfies Book

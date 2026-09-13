@@ -12,7 +12,11 @@ export const theWayOfTheShamanClansWar = {
   ownProgress: 138750,
   publishedAt: "2018-02-12",
   partOfCollections: ["book-series/the-way-of-the-shaman"],
-  source: "kindle",
-  externalId: "B079N9DBB9",
-  externalLink: "https://amazon.com/dp/B079N9DBB9",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B079N9DBB9",
+      externalLink: "https://amazon.com/dp/B079N9DBB9",
+    },
+  ],
 } as const satisfies Book

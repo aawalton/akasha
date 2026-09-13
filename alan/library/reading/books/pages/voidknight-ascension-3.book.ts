@@ -11,7 +11,11 @@ export const voidknightAscension3 = {
   ownLength: 135500,
   ownProgress: 135500,
   publishedAt: "2024-06-02",
-  source: "kindle",
-  externalId: "B0D5XFZBQP",
-  externalLink: "https://amazon.com/dp/B0D5XFZBQP",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D5XFZBQP",
+      externalLink: "https://amazon.com/dp/B0D5XFZBQP",
+    },
+  ],
 } as const satisfies Book

@@ -13,8 +13,12 @@ export const wheelOfTimeTheShadowRising = {
   ownLength: 262750,
   ownProgress: 262750,
   publishedAt: "2010-01-13",
-  source: "kindle",
-  externalId: "B00329UWL8",
-  externalLink: "https://amazon.com/dp/B00329UWL8",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00329UWL8",
+      externalLink: "https://amazon.com/dp/B00329UWL8",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

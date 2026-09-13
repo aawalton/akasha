@@ -12,8 +12,12 @@ export const theSystemApocalypseStarsAwoken = {
   ownProgress: 85500,
   publishedAt: "2019-06-01",
   partOfCollections: ["book-series/the-system-apocalypse"],
-  source: "kindle",
-  externalId: "B07RF21QNH",
-  externalLink: "https://amazon.com/dp/B07RF21QNH",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07RF21QNH",
+      externalLink: "https://amazon.com/dp/B07RF21QNH",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

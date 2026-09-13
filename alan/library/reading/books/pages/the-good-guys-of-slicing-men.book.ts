@@ -10,7 +10,11 @@ export const theGoodGuysOfSlicingMen = {
   position: 14,
   ownLength: 109500,
   publishedAt: "2023-04-30",
-  source: "kindle",
-  externalId: "B09X4D4QMY",
-  externalLink: "https://amazon.com/dp/B09X4D4QMY",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09X4D4QMY",
+      externalLink: "https://amazon.com/dp/B09X4D4QMY",
+    },
+  ],
 } as const satisfies Book

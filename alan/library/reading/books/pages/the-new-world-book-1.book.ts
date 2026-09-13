@@ -12,7 +12,11 @@ export const theNewWorldBook1 = {
   ownLength: 212250,
   ownProgress: 212250,
   publishedAt: "2023-05-09",
-  source: "kindle",
-  externalId: "B0BLMPN65G",
-  externalLink: "https://amazon.com/dp/B0BLMPN65G",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BLMPN65G",
+      externalLink: "https://amazon.com/dp/B0BLMPN65G",
+    },
+  ],
 } as const satisfies Book

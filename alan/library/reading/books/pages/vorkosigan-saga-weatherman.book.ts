@@ -9,8 +9,12 @@ export const vorkosiganSagaWeatherman = {
   unit: "words",
   position: 2,
   ownLength: 27250,
-  source: "kindle",
-  externalId: "B004U7LWQK",
-  externalLink: "https://www.amazon.com/dp/B004U7LWQK",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B004U7LWQK",
+      externalLink: "https://www.amazon.com/dp/B004U7LWQK",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -12,7 +12,11 @@ export const worldTreeTrilogyDemonLords = {
   ownProgress: 109750,
   publishedAt: "2019-02-07",
   partOfCollections: ["book-series/world-tree-trilogy"],
-  source: "kindle",
-  externalId: "B07NHLQP7F",
-  externalLink: "https://amazon.com/dp/B07NHLQP7F",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07NHLQP7F",
+      externalLink: "https://amazon.com/dp/B07NHLQP7F",
+    },
+  ],
 } as const satisfies Book

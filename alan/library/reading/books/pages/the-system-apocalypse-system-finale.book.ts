@@ -13,7 +13,11 @@ export const theSystemApocalypseSystemFinale = {
   ownProgress: 119000,
   publishedAt: "2022-03-01",
   partOfCollections: ["book-series/the-system-apocalypse"],
-  source: "kindle",
-  externalId: "B09DQSNMNB",
-  externalLink: "https://amazon.com/dp/B09DQSNMNB",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09DQSNMNB",
+      externalLink: "https://amazon.com/dp/B09DQSNMNB",
+    },
+  ],
 } as const satisfies Book

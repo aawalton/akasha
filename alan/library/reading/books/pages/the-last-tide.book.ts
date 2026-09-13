@@ -12,7 +12,11 @@ export const theLastTide = {
   position: 1,
   ownLength: 41250,
   ownProgress: 41250,
-  source: "kindle",
-  externalId: "B0BPDCQNL1",
-  externalLink: "https://www.amazon.com/gp/product/B0BPDCQNL1",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BPDCQNL1",
+      externalLink: "https://www.amazon.com/gp/product/B0BPDCQNL1",
+    },
+  ],
 } as const satisfies Book

@@ -13,7 +13,11 @@ export const theSystemApocalypseRedeemerOfTheDead = {
   ownProgress: 80250,
   publishedAt: "2017-10-24",
   partOfCollections: ["book-series/the-system-apocalypse"],
-  source: "kindle",
-  externalId: "B075NR9RCH",
-  externalLink: "https://amazon.com/dp/B075NR9RCH",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B075NR9RCH",
+      externalLink: "https://amazon.com/dp/B075NR9RCH",
+    },
+  ],
 } as const satisfies Book

@@ -11,7 +11,11 @@ export const theGoodGuysFourBeheadingsAndAFuneral = {
   ownLength: 105000,
   ownProgress: 105000,
   publishedAt: "2020-06-04",
-  source: "kindle",
-  externalId: "B086H8RNYM",
-  externalLink: "https://amazon.com/dp/B086H8RNYM",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B086H8RNYM",
+      externalLink: "https://amazon.com/dp/B086H8RNYM",
+    },
+  ],
 } as const satisfies Book

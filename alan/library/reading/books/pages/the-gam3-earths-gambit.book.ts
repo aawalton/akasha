@@ -13,7 +13,11 @@ export const theGam3EarthsGambit = {
   ownProgress: 102250,
   publishedAt: "2017-08-15",
   partOfCollections: ["book-series/the-gam3"],
-  source: "kindle",
-  externalId: "B074R284RB",
-  externalLink: "https://amazon.com/dp/B074R284RB",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074R284RB",
+      externalLink: "https://amazon.com/dp/B074R284RB",
+    },
+  ],
 } as const satisfies Book
