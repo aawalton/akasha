@@ -37,6 +37,7 @@ export const change = {
     "module/page-property-renaming",
     "module/page-property-splicing",
     "module/page-type-renaming",
+    "module/page-type-restating",
     "module/property-signature-renaming",
     "module/prose-splicing",
     "module/slug-renaming",

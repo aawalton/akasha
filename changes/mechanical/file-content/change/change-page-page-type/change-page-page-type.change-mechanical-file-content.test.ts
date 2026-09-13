@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import { runChange } from "akasha/changes/mechanical/file-content/change/change-page-page-type/change-page-page-type.change-mechanical-file-content.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   NOTHING_OVER,
   type World,
@@ -8,8 +9,6 @@ import {
 const AT = "one/kept.one-thing.ts"
 
 const TO = "two/two-thing.page-type.ts"
-
-const CHANGE_FILE_CONTENT = "change-mechanical-file-content/change-file-content"
 
 const IMPORTED = `import type { OneThing } from "../one-thing.page-type.ts"`
 
@@ -21,9 +20,9 @@ export const kept = {
 } as const satisfies OneThing
 `
 
-type Worked = { readonly at: string; readonly given: unknown }
+type Passage = { readonly at: string; readonly old: string; readonly new: string }
 
-function worldOf(text: string | null, worked: Worked[]): World {
+function worldHolding(text: string | null): World {
   return {
     root: "/nowhere",
     index: {} as World["index"],
@@ -32,34 +31,30 @@ function worldOf(text: string | null, worked: Worked[]): World {
     under: () => [],
     base: () => null,
     over: NOTHING_OVER,
-    reaching: (_world, at, given) => {
-      worked.push({ at, given })
-      return Promise.resolve(NOTHING_OVER)
-    },
   }
 }
 
-test("each passage is worked by the change this change reaches", async () => {
-  const worked: Worked[] = []
+function passagesOf(said: Answer): readonly Passage[] {
+  return said.edits.flatMap((one) =>
+    one.kind === "replace" ? [{ at: one.path, old: one.contentFrom, new: one.contentTo }] : []
+  )
+}
 
-  const said = await runChange(worldOf(BODY, worked), { at: AT, to: TO })
+test("each passage is answered as a replace rather than reached for", () => {
+  const said = runChange(worldHolding(BODY), { at: AT, to: TO })
+  const passages = passagesOf(said)
 
   expect(said.refused).toBe(null)
-  expect(worked.map((one) => one.at)).toEqual([
-    CHANGE_FILE_CONTENT,
-    CHANGE_FILE_CONTENT,
-    CHANGE_FILE_CONTENT,
-  ])
-  expect(worked[1]?.given).toEqual({ at: AT, old: "satisfies OneThing", new: "satisfies TwoThing" })
-  expect(worked[2]?.given).toEqual({
+  expect(passages).toHaveLength(3)
+  expect(passages[1]).toEqual({ at: AT, old: "satisfies OneThing", new: "satisfies TwoThing" })
+  expect(passages[2]).toEqual({
     at: AT,
     old: `pageTypeSlug: "one-thing"`,
     new: `pageTypeSlug: "two-thing"`,
   })
 })
 
-test("a body stating the page type under two keys has both restated", async () => {
-  const worked: Worked[] = []
+test("a body stating the page type under two keys has both restated", () => {
   const body = `${IMPORTED}
 
 export const kept = {
@@ -69,10 +64,10 @@ export const kept = {
 } as const satisfies OneThing
 `
 
-  const said = await runChange(worldOf(body, worked), { at: AT, to: TO })
+  const said = runChange(worldHolding(body), { at: AT, to: TO })
 
   expect(said.refused).toBe(null)
-  expect(worked.map((one) => one.given)).toEqual([
+  expect(passagesOf(said)).toEqual([
     {
       at: AT,
       old: IMPORTED,
@@ -84,65 +79,50 @@ export const kept = {
   ])
 })
 
-test("the import naming that type is restated to reach the page type named", async () => {
-  const worked: Worked[] = []
+test("the import naming that type is restated to reach the page type named", () => {
+  const said = runChange(worldHolding(BODY), { at: AT, to: TO })
 
-  await runChange(worldOf(BODY, worked), { at: AT, to: TO })
-
-  expect(worked[0]?.given).toEqual({
+  expect(passagesOf(said)[0]).toEqual({
     at: AT,
     old: IMPORTED,
     new: `import type { TwoThing } from "akasha/two/two-thing.page-type.ts"`,
   })
 })
 
-test("the import reaches the type file beside the page type where that page type has one", async () => {
-  const worked: Worked[] = []
-  const world: World = { ...worldOf(BODY, worked), bodyOf: () => "" }
+test("the import reaches the type file beside the page type where that page type has one", () => {
+  const world: World = { ...worldHolding(BODY), bodyOf: () => "" }
 
-  await runChange(world, { at: AT, to: TO })
+  const said = runChange(world, { at: AT, to: TO })
 
-  expect(worked[0]?.given).toEqual({
+  expect(passagesOf(said)[0]).toEqual({
     at: AT,
     old: IMPORTED,
     new: `import type { TwoThing } from "akasha/two/two-thing.page-type.types.ts"`,
   })
 })
 
-test("a body stating no page type is refused", async () => {
-  const said = await runChange(worldOf("export const kept = {}\n", []), { at: AT, to: TO })
+test("a body stating no page type is refused", () => {
+  const said = runChange(worldHolding("export const kept = {}\n"), { at: AT, to: TO })
 
   expect(said.refused).toBe(`\`${AT}\` states no \`type\`, so no page type is restated`)
 })
 
-test("a body stating the page type named already is refused", async () => {
-  const said = await runChange(worldOf(BODY, []), {
-    at: AT,
-    to: "two/one-thing.page-type.ts",
-  })
+test("a body stating the page type named already is refused", () => {
+  const said = runChange(worldHolding(BODY), { at: AT, to: "two/one-thing.page-type.ts" })
 
   expect(said.refused).toBe("`one-thing` is the page type the body states already")
 })
 
-test("a body importing no type named for the page type that body states is refused", async () => {
-  const said = await runChange(worldOf(BODY.slice(IMPORTED.length), []), { at: AT, to: TO })
+test("a body importing no type named for the page type that body states is refused", () => {
+  const said = runChange(worldHolding(BODY.slice(IMPORTED.length)), { at: AT, to: TO })
 
   expect(said.refused).toBe(
     `\`${AT}\` imports no type named \`OneThing\`, so no page type is restated`
   )
 })
 
-test("a path holding no body is refused", async () => {
-  const said = await runChange(worldOf(null, []), { at: AT, to: TO })
+test("a path holding no body is refused", () => {
+  const said = runChange(worldHolding(null), { at: AT, to: TO })
 
   expect(said.refused).toBe(`\`${AT}\` holds no body, so no page type is restated`)
-})
-
-test("a refusal from the change reached is the whole answer", async () => {
-  const world: World = {
-    ...worldOf(BODY, []),
-    reaching: () => Promise.resolve({ edits: [], refused: "no" }),
-  }
-
-  expect((await runChange(world, { at: AT, to: TO })).refused).toBe("no")
 })

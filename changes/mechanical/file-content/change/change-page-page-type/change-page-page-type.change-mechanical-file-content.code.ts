@@ -1,90 +1,12 @@
-import { gathered, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { importedFrom } from "akasha/pages/modules/body/page-body.module.code.ts"
-import { typedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
-import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import type { Said } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  pageTypeRestated,
+  type Asked as Restating,
+} from "akasha/changes/modules/page-type-restating/page-type-restating.module.code.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
-const CHANGE_FILE_CONTENT = "change-mechanical-file-content/change-file-content"
+export type Asked = Restating
 
-const TYPE_KEY = "type"
-
-const STATED = /^ {2}(type|pageTypeSlug): "([^"]*)",$/gm
-
-const CODE_ENDING = ".ts"
-
-const TYPES_ENDING = ".types.ts"
-
-export function typesBeside(to: string): string | null {
-  if (!to.endsWith(CODE_ENDING) || to.endsWith(TYPES_ENDING)) return null
-  return `${to.slice(0, -CODE_ENDING.length)}${TYPES_ENDING}`
-}
-
-export type Asked = {
-  readonly at: string
-  readonly to: string
-}
-
-export function importingFor(name: string): RegExp {
-  return new RegExp(`^import type \\{ ${name} \\} from "[^"]*"$`, "m")
-}
-
-export function passagesFor(
-  was: string,
-  now: string,
-  line: string,
-  imported: string,
-  keys: readonly string[]
-): readonly (readonly [string, string])[] {
-  return [
-    [line, imported],
-    [`satisfies ${typedAs(was)}`, `satisfies ${typedAs(now)}`],
-    ...keys.map(
-      (key) => [`${key}: ${JSON.stringify(was)}`, `${key}: ${JSON.stringify(now)}`] as const
-    ),
-  ]
-}
-
-export async function runChange(world: World, given: Asked): Promise<Answer> {
-  const type = partedIn(given.to)
-  if (type === null) {
-    return refusing(`\`${given.to}\` reads as no page file, so no page type is named`)
-  }
-  if (world.bodyOf(given.to) === null) {
-    return refusing(`\`${given.to}\` holds no body, so no page type is named`)
-  }
-  const text = world.textOf(given.at)
-  if (text === null) {
-    return refusing(`\`${given.at}\` holds no body, so no page type is restated`)
-  }
-  const stated = [...text.matchAll(STATED)]
-  const first = stated[0]
-  if (first === undefined) {
-    return refusing(`\`${given.at}\` states no \`${TYPE_KEY}\`, so no page type is restated`)
-  }
-  const was = first[2] ?? ""
-  const keys = stated.filter((one) => one[2] === was).map((one) => one[1] ?? TYPE_KEY)
-  if (was === type.slug) {
-    return refusing(`\`${was}\` is the page type the body states already`)
-  }
-  const name = typedAs(was)
-  const line = importingFor(name).exec(text)
-  if (line === null) {
-    return refusing(
-      `\`${given.at}\` imports no type named \`${name}\`, so no page type is restated`
-    )
-  }
-  const beside = typesBeside(given.to)
-  const declaring = beside !== null && world.bodyOf(beside) !== null ? beside : given.to
-  const spelled = importedFrom(declaring)
-  const imported = `import type { ${typedAs(type.slug)} } from ${JSON.stringify(spelled)}`
-  const carried: Answer[] = []
-  let over = world
-  for (const [old, next] of passagesFor(was, type.slug, line[0], imported, keys)) {
-    const answer = await reach(over, CHANGE_FILE_CONTENT, { at: given.at, old, new: next })
-    if (answer.said.refused !== null) return answer.said
-    carried.push(answer.said)
-    over = answer.world
-  }
-  return gathered(carried)
+export function runChange(world: World, given: Asked): Said {
+  return pageTypeRestated(world, given)
 }

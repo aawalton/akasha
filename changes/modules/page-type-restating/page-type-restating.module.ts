@@ -1,20 +1,11 @@
-import type { ChangeMechanicalFileContent } from "akasha/changes/mechanical/file-content/change-mechanical-file-content.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
-export const changePagePageType = {
-  id: "01a0827d-a3dc-77be-a528-3c5b25c83d95",
-  type: "change-mechanical-file-content",
-  slug: "change-page-page-type",
-  changeMode: "change-mode-change",
-  changeTargetType: "change-target-type/file-content",
-  changeTargetSubtype: "change-target-subtype/file-content-page",
+export const pageTypeRestating = {
+  id: "01a09c71-f017-713f-a7a3-8d4e8c6f13e8",
+  type: "module",
+  slug: "page-type-restating",
   definition: "the page type a body states, restated with the type that body satisfies",
   code: "ts",
-  test: "ts",
-  guards: [
-    "change-guard/import-reaches-a-file",
-    "change-guard/relation-reaches-a-page",
-    "change-guard/slug-names-one-property",
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -67,15 +58,11 @@ export const changePagePageType = {
     },
     {
       invariantKind: "departure",
-      statement: "The module restating a page type is called rather than reached through a rung.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Each passage is answered as a replace over the body rather than reached for.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here has a file.",
+      statement: "Nothing here reaches a change.",
     },
     {
       invariantKind: "absence",
@@ -86,5 +73,4 @@ export const changePagePageType = {
       statement: "Nothing here works out which files a page keeps beside it.",
     },
   ],
-  changeKind: "change-mechanical",
-} as const satisfies ChangeMechanicalFileContent
+} as const satisfies Module
