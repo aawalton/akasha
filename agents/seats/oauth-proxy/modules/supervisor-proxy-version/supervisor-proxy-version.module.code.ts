@@ -39,7 +39,6 @@ async function respawnProxy(
 let baseline: string | null = null
 let respawnFn: ((newVersion: string) => void) | null = null
 let unsubProxyVersion: (() => void) | null = null
-let pendingVersion: string | null = null
 
 function setProxyRespawnFn(fn: ((newVersion: string) => void) | null): undefined {
   respawnFn = fn
@@ -58,10 +57,6 @@ export function teardownProxyVersionSubscription(): undefined {
   }
 }
 
-export function getPendingProxyVersion(): string | null {
-  return pendingVersion
-}
-
 export function triggerProxySwap(): boolean {
   if (respawnFn == null) {
     console.error(`${LOG} proxy-swap requested but respawn fn not wired — skipping`)
@@ -70,15 +65,7 @@ export function triggerProxySwap(): boolean {
   const target = computeModelGatewayTreeVersion()
   console.log(`${LOG} Manual proxy-swap dispatched — swapping proxy to on-disk version ${target}`)
   respawnFn(target)
-  pendingVersion = null
   return true
-}
-
-export function resetProxyVersionStateForTesting(): undefined {
-  baseline = null
-  respawnFn = null
-  unsubProxyVersion = null
-  pendingVersion = null
 }
 
 export function handleProxyVersionUpdate(version: string | null): undefined {
@@ -91,10 +78,9 @@ export function handleProxyVersionUpdate(version: string | null): undefined {
   if (version === baseline) return
   console.log(
     `${LOG} New OAuth-proxy version detected: ${baseline} -> ${version} — ` +
-      `recorded as pending (auto-swap disarmed; apply via 'akasha model gateway swap')`
+      "auto-swap disarmed; apply via 'akasha model gateway swap'"
   )
   baseline = version
-  pendingVersion = version
 }
 
 export function installProxyVersionSubsystem(args: {
