@@ -53,5 +53,10 @@ export const oneAtATimeKept = {
       invariantKind: "absence",
       statement: "Nothing here judges a rule other than the one this test's code names.",
     },
+    {
+      invariantKind: "constraint",
+      statement:
+        "Two wordings alike but for two words refused none twice, and then one and two of 214.",
+    },
   ],
 } as const satisfies ModelTest
