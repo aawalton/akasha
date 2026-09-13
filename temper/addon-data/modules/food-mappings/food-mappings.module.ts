@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
-
-export const foodMappings = {
-  id: "01a06340-4914-7ea9-9806-2153d168e3ba",
-  type: "module",
-  slug: "food-mappings",
-  definition: "the food and drink index and id tables the capture addon reads",
-  code: "ts",
-} as const satisfies Module
