@@ -113,6 +113,9 @@ export type Changes = {
   "change-mechanical-page-type/add-property-to-every-page": Parameters<
     typeof import("akasha/changes/mechanical/page-type/add/add-property-to-every-page/add-property-to-every-page.change-mechanical-page-type.code.ts")["runChange"]
   >[1]
+  "change-mechanical-page-type/change-calculation-held-type": Parameters<
+    typeof import("akasha/changes/mechanical/page-type/change/change-calculation-held-type/change-calculation-held-type.change-mechanical-page-type.code.ts")["runChange"]
+  >[1]
   "change-mechanical-page-type/change-property-on-page-type": Parameters<
     typeof import("akasha/changes/mechanical/page-type/change/change-property-on-page-type/change-property-on-page-type.change-mechanical-page-type.code.ts")["runChange"]
   >[1]

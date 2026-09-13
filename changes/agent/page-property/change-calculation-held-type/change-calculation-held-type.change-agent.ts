@@ -10,7 +10,6 @@ export const changeCalculationHeldType = {
   definition: "every calculation naming its own property's type rather than restating that kind",
   code: "ts",
   test: "ts",
-  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -18,35 +17,7 @@ export const changeCalculationHeldType = {
     },
     {
       invariantKind: "departure",
-      statement: "A page whose type is written by nothing is passed over.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A calculation already naming that type is passed over.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The type named is the one written beside the property.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The page the calculation takes is left as the calculation names it.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The type is named beside whatever else the calculation takes that shape from.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A code file exporting no such calculation is refused rather than passed over.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "A slug making no type name refuses the change before any code is composed.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The path the type is imported from is written as the source spells a string.",
+      statement: "A folder named holds the change to the pages sitting under that folder.",
     },
     {
       invariantKind: "departure",
@@ -54,19 +25,31 @@ export const changeCalculationHeldType = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the page that drew the refusal.",
+      statement: "A refusal over a page names that page.",
     },
     {
       invariantKind: "departure",
-      statement: "Each page is reached over the edits the pages before it left.",
+      statement: "The edits are worked out by the change reached.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder named holds the change to the pages sitting under that folder.",
+      statement: "That change acts on a page type, as this one does.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That change is reached through the runner rather than by an import.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads what kind a property states.",
+      statement: "Nothing here works out a body of its own.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads a page's own body.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads the index.",
     },
   ],
   changeKind: "change-checked",
