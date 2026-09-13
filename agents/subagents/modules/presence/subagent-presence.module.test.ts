@@ -13,11 +13,6 @@ import {
   pathOf,
   slugOf,
 } from "akasha/agents/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
-import { refusalsSaid } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
-import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
-import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import { pageFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   asking,
   assignedTo,
@@ -30,7 +25,7 @@ import {
   took,
   WRITING,
   wrote,
-} from "akasha/seat-system/subagents/modules/presence/subagent-presence.module.code.ts"
+} from "akasha/agents/subagents/modules/presence/subagent-presence.module.code.ts"
 import {
   AGENT,
   ANOTHER,
@@ -72,7 +67,12 @@ import {
   WENT,
   WORKING,
   whyIn,
-} from "akasha/seat-system/subagents/modules/presence/subagent-presence.module.test-fixtures.ts"
+} from "akasha/agents/subagents/modules/presence/subagent-presence.module.test-fixtures.ts"
+import { refusalsSaid } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
+import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
+import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { pageFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 test("a stamp says the time to the millisecond, carrying the offset it was written at", () => {

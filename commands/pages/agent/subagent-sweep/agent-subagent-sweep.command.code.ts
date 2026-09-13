@@ -23,6 +23,10 @@ import {
   pagelessSaid,
 } from "akasha/agents/subagents/modules/pageless/subagent-pageless.module.code.ts"
 import {
+  leftWhereItIs,
+  seatPageIn,
+} from "akasha/agents/subagents/modules/presence/subagent-presence.module.code.ts"
+import {
   movedOnto,
   saidOf,
 } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
@@ -51,10 +55,6 @@ import {
   akashaHolderProcessOf,
   akashaSeatsThatExist,
 } from "akasha/seat-system/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
-import {
-  leftWhereItIs,
-  seatPageIn,
-} from "akasha/seat-system/subagents/modules/presence/subagent-presence.module.code.ts"
 
 export const TAKE = "change-mechanical/remove-file-of-any-kind"
 

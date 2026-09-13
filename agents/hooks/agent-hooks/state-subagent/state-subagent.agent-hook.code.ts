@@ -4,12 +4,12 @@ import {
   SCOPE_FLAG,
 } from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
 import { seatIn } from "akasha/agents/modules/read-record/read-record.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {
   puttingUp,
   seatNamedIn,
   takingDown,
-} from "akasha/seat-system/subagents/modules/presence/subagent-presence.module.code.ts"
+} from "akasha/agents/subagents/modules/presence/subagent-presence.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 
 const HOOK = "state-subagent"
 

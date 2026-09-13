@@ -11,6 +11,10 @@ import {
   slugOf,
 } from "akasha/agents/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
 import {
+  type Landing,
+  wrote,
+} from "akasha/agents/subagents/modules/presence/subagent-presence.module.code.ts"
+import {
   seatEditsAt,
   seatRefusalsAt,
 } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
@@ -23,10 +27,6 @@ import {
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { refreshedIn } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
-import {
-  type Landing,
-  wrote,
-} from "akasha/seat-system/subagents/modules/presence/subagent-presence.module.code.ts"
 import { declaringUnder } from "akasha/testing-system/modules/declaring/declaring.module.code.ts"
 import { keptAt, scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import {

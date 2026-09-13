@@ -6,11 +6,11 @@ import {
 } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.code.ts"
 import { SUBAGENT_MARK } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import { supervisorsRootDir } from "akasha/agents/seats/supervisors/modules/log-path/supervisor-log-path.module.code.ts"
+import { LOG_AT } from "akasha/agents/subagents/modules/presence/subagent-presence.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import { LOG_AT } from "akasha/seat-system/subagents/modules/presence/subagent-presence.module.code.ts"
 
 const SEAT = "principalSeatName"
 

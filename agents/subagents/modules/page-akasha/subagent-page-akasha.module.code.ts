@@ -2,6 +2,10 @@ import {
   pathsUnder,
   subagentsAt,
 } from "akasha/agents/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
+import {
+  sweeping,
+  tookUnder,
+} from "akasha/agents/subagents/modules/presence/subagent-presence.module.code.ts"
 import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
 import {
   AKASHA,
@@ -9,10 +13,6 @@ import {
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import type { Roots } from "akasha/pages/modules/markdown-page-at/markdown-page-at.module.code.ts"
-import {
-  sweeping,
-  tookUnder,
-} from "akasha/seat-system/subagents/modules/presence/subagent-presence.module.code.ts"
 
 export function akashaSubagentsDirIn(root: string): string {
   return `${root}/${subagentsAt(root)}`
