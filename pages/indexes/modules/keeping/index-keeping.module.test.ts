@@ -9,6 +9,7 @@ import {
   takenAway,
   wholeOf,
 } from "akasha/pages/indexes/modules/keeping/index-keeping.module.code.ts"
+import { indexAt } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
@@ -126,13 +127,13 @@ const ONE_FILE = {
 test("a filing is answered as the body the entry file would hold, under its own path", () => {
   const said = bodiesFrom(ONE_FILE, [{ at: AT, came: [], went: [] }])
 
-  expect([...said]).toEqual([[".git/indexes/held/one.jsonl", '{"a":1}\n{"b":1}\n']])
+  expect([...said]).toEqual([[indexAt(UNDER, "one.jsonl"), '{"a":1}\n{"b":1}\n']])
 })
 
 test("a filing holding no line is answered as a path carrying no body", () => {
   const said = bodiesFrom(ONE_FILE, [{ at: GONE, came: [], went: [] }])
 
-  expect(said.get(".git/indexes/held/gone.jsonl")).toBeNull()
+  expect(said.get(indexAt(UNDER, "gone.jsonl"))).toBeNull()
 })
 
 test("an entry file written by a delta keeps what stayed, drops what went and holds what came", () => {
