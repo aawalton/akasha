@@ -5,6 +5,7 @@ import {
   endingRuleIds,
   planSaid,
   temperInventoryPlan,
+  undecidedByItem,
   unmappedItems,
   unmappedSaid,
 } from "akasha/commands/pages/temper/inventory/plan/temper-inventory-plan.command.code.ts"
@@ -14,6 +15,7 @@ import {
 } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import { IMPLICIT_TERMINAL_RULE_ID } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { WalkOutcome } from "akasha/temper/items-rules-eval/modules/eval-result/eval-result.module.code.ts"
 import type { ManagementPlan } from "akasha/temper/items-rules-routing-core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 
 const GIVEN: Given = {
@@ -76,23 +78,96 @@ test("a plan with no venue stop says so rather than saying nothing", () => {
 })
 
 test("holdings every rule reaches are said as such rather than as an empty list", () => {
-  expect(unmappedSaid([])).toEqual([
+  expect(unmappedSaid({ unreached: [], undecided: [] })).toEqual([
     "[TemperInventory] Unmapped:",
     "  every item the holdings hold is reached by a rule.",
+    "  no item a rule reaches is left undecided.",
   ])
 })
 
 test("the items no rule reaches are counted by unit and by kind", () => {
   expect(
-    unmappedSaid([
-      { itemId: 1, itemName: "Dwarven Oil", units: 14 },
-      { itemId: 2, itemName: "Grand Repair Kit", units: 9 },
-    ])
+    unmappedSaid({
+      unreached: [
+        { itemId: 1, itemName: "Dwarven Oil", units: 14 },
+        { itemId: 2, itemName: "Grand Repair Kit", units: 9 },
+      ],
+      undecided: [],
+    })
   ).toEqual([
     "[TemperInventory] Unmapped:",
     "  no rule reaches 23 item(s) of 2 kind(s):",
     "    Dwarven Oil ×14",
     "    Grand Repair Kit ×9",
+    "  no item a rule reaches is left undecided.",
+  ])
+})
+
+function couldNotDecide(conditionKind: string, missingSignal: string): WalkOutcome {
+  return {
+    kind: "indeterminate",
+    indeterminateRules: [
+      {
+        index: 51,
+        categoryId: "all",
+        action: "deconstruct",
+        verdict: {
+          kind: "indeterminate",
+          reason: { kind: "condition-unknown", conditionKind, missingSignal },
+        },
+      },
+    ],
+  }
+}
+
+const DECIDED: WalkOutcome = { kind: "implicit-terminal", action: "nothing", label: "Nothing" }
+
+test("an item a rule could not decide is gathered by the item it is rather than by the stack", () => {
+  expect(
+    undecidedByItem([
+      {
+        itemId: 71779,
+        itemName: "Counterfeit Pardon Edict",
+        units: 10,
+        outcome: couldNotDecide("targetQuantity", "bankStock"),
+      },
+      {
+        itemId: 71779,
+        itemName: "Counterfeit Pardon Edict",
+        units: 9,
+        outcome: couldNotDecide("canInspire", "crafting:8796093041077793"),
+      },
+      { itemId: 1, itemName: "Dwarven Oil", units: 14, outcome: DECIDED },
+    ])
+  ).toEqual([
+    {
+      itemId: 71779,
+      itemName: "Counterfeit Pardon Edict",
+      units: 19,
+      missingSignals: ["bankStock", "crafting:8796093041077793"],
+    },
+  ])
+})
+
+test("the report tells an item no rule reaches from an item a rule could not decide", () => {
+  expect(
+    unmappedSaid({
+      unreached: [{ itemId: 1, itemName: "Dwarven Oil", units: 14 }],
+      undecided: [
+        {
+          itemId: 71779,
+          itemName: "Counterfeit Pardon Edict",
+          units: 84,
+          missingSignals: ["stock tier eligibility unknown"],
+        },
+      ],
+    })
+  ).toEqual([
+    "[TemperInventory] Unmapped:",
+    "  no rule reaches 14 item(s) of 1 kind(s):",
+    "    Dwarven Oil ×14",
+    "  a rule could not decide 84 item(s) of 1 kind(s):",
+    "    Counterfeit Pardon Edict ×84 — stock tier eligibility unknown",
   ])
 })
 

@@ -11,6 +11,7 @@ import {
 } from "akasha/temper/commands/modules/inventory-plan-inputs/inventory-plan-inputs.module.code.ts"
 import { classifyItemToNodeIds } from "akasha/temper/items-core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts"
 import { parseInventoryContent } from "akasha/temper/items-core/modules/inventory-parser/inventory-parser.module.code.ts"
+import { itemOutcomes } from "akasha/temper/items-rules-matcher/modules/inventory-item-outcomes/inventory-item-outcomes.module.code.ts"
 import { computeAllRuleAffectedItems } from "akasha/temper/items-rules-matcher/modules/inventory-rule-matcher/inventory-rule-matcher.module.code.ts"
 import { buildManagementPlan } from "akasha/temper/items-rules-routing/modules/inventory-management-plan/inventory-management-plan.module.code.ts"
 import {
@@ -29,6 +30,10 @@ interface PlanInputsModule {
 
 interface Matcher {
   readonly computeAllRuleAffectedItems: typeof computeAllRuleAffectedItems
+}
+
+interface ItemOutcomes {
+  readonly itemOutcomes: typeof itemOutcomes
 }
 
 interface CapacityFilter {
@@ -76,6 +81,10 @@ export function planInputs(): Promise<PlanInputsModule> {
 
 export function ruleMatcher(): Promise<Matcher> {
   return Promise.resolve({ computeAllRuleAffectedItems })
+}
+
+export function ruleOutcomes(): Promise<ItemOutcomes> {
+  return Promise.resolve({ itemOutcomes })
 }
 
 export function capacityFilter(): Promise<CapacityFilter> {

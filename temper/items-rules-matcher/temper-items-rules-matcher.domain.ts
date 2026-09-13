@@ -8,6 +8,7 @@ export const temperItemsRulesMatcher = {
   parts: [
     "module/compile-rules",
     "module/inventory-item-classifier",
+    "module/inventory-item-outcomes",
     "module/inventory-rule-matcher",
     "module/inventory-rule-matcher-allocators",
     "module/inventory-rule-matcher-cache",

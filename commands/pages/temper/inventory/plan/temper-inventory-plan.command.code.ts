@@ -32,6 +32,7 @@ import {
   planChecklist,
   planInputs,
   ruleMatcher,
+  ruleOutcomes,
 } from "akasha/temper/commands/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import type { ClassifiableItem } from "akasha/temper/items-core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
@@ -44,6 +45,10 @@ import type {
   ClassifiedInventoryItem,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import { ALL_CATEGORIES_ID } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type {
+  IndeterminateReason,
+  WalkOutcome,
+} from "akasha/temper/items-rules-eval/modules/eval-result/eval-result.module.code.ts"
 import type {
   CharacterSession,
   ManagementPlan,
@@ -143,17 +148,84 @@ export function planSaid(plan: ManagementPlan): readonly string[] {
   return lines
 }
 
-export function unmappedSaid(stacks: readonly TakenStack[]): readonly string[] {
-  if (stacks.length === 0) {
-    return [UNMAPPED_HEADER, "  every item the holdings hold is reached by a rule."]
+export interface UndecidedStack {
+  readonly itemId: number
+  readonly itemName: string
+  readonly units: number
+  readonly missingSignals: readonly string[]
+}
+
+export interface UnmappedReport {
+  readonly unreached: readonly TakenStack[]
+  readonly undecided: readonly UndecidedStack[]
+}
+
+export interface OutcomeForItem {
+  readonly itemId: number
+  readonly itemName: string
+  readonly units: number
+  readonly outcome: WalkOutcome
+}
+
+export function missingSignalOf(reason: IndeterminateReason): string {
+  switch (reason.kind) {
+    case "category-unknown":
+    case "condition-unknown":
+      return reason.missingSignal
+    case "condition-misshapen":
+      return `${reason.conditionKind} is misshapen`
+    case "destination-unknown":
+      return reason.detail ?? "the destination"
+    default:
+      return assertNever(reason)
   }
+}
+
+export function undecidedByItem(every: readonly OutcomeForItem[]): readonly UndecidedStack[] {
+  const gathered = new Map<number, { itemName: string; units: number; signals: Set<string> }>()
+  for (const one of every) {
+    if (one.outcome.kind !== "indeterminate") continue
+    let held = gathered.get(one.itemId)
+    if (held === undefined) {
+      held = { itemName: one.itemName, units: 0, signals: new Set<string>() }
+      gathered.set(one.itemId, held)
+    }
+    held.units += one.units
+    for (const rule of one.outcome.indeterminateRules) {
+      if (rule.verdict.kind !== "indeterminate") continue
+      held.signals.add(missingSignalOf(rule.verdict.reason))
+    }
+  }
+  return [...gathered]
+    .map(([itemId, held]) => ({
+      itemId,
+      itemName: held.itemName,
+      units: held.units,
+      missingSignals: [...held.signals].sort((a, b) => a.localeCompare(b)),
+    }))
+    .sort((a, b) => b.units - a.units || a.itemName.localeCompare(b.itemName))
+}
+
+function unreachedSaid(stacks: readonly TakenStack[]): readonly string[] {
+  if (stacks.length === 0) return ["  every item the holdings hold is reached by a rule."]
   const units = stacks.reduce((sum, one) => sum + one.units, 0)
-  const lines: string[] = [
-    UNMAPPED_HEADER,
+  return [
     `  no rule reaches ${units} item(s) of ${stacks.length} kind(s):`,
+    ...stacks.map((one) => `    ${one.itemName} ×${one.units}`),
   ]
-  for (const one of stacks) lines.push(`    ${one.itemName} ×${one.units}`)
-  return lines
+}
+
+function undecidedSaid(stacks: readonly UndecidedStack[]): readonly string[] {
+  if (stacks.length === 0) return ["  no item a rule reaches is left undecided."]
+  const units = stacks.reduce((sum, one) => sum + one.units, 0)
+  return [
+    `  a rule could not decide ${units} item(s) of ${stacks.length} kind(s):`,
+    ...stacks.map((one) => `    ${one.itemName} ×${one.units} — ${one.missingSignals.join(", ")}`),
+  ]
+}
+
+export function unmappedSaid(report: UnmappedReport): readonly string[] {
+  return [UNMAPPED_HEADER, ...unreachedSaid(report.unreached), ...undecidedSaid(report.undecided)]
 }
 
 const NO_CONDITION_KEYS = new Set(["id", "action", "destination", "categoryId", "active"])
@@ -258,10 +330,21 @@ export async function temperInventoryPlan(argv: readonly string[], given: Given)
       itemRules
     )
     if (taken.unmapped) {
-      const walked = [...orderedRules, IMPLICIT_TERMINAL_COMPILED_RULE]
-      const stacks = ordered(gatheredByItem(unmappedItems(matched.ruleMap, walked)))
-      if (taken.json) return told(JSON.stringify(stacks, null, SPACES).split("\n"))
-      return told(unmappedSaid(stacks))
+      const ending = [...orderedRules, IMPLICIT_TERMINAL_COMPILED_RULE]
+      const outcomes = (await ruleOutcomes()).itemOutcomes(orderedRules, classifiedItems, context)
+      const report: UnmappedReport = {
+        unreached: ordered(gatheredByItem(unmappedItems(matched.ruleMap, ending))),
+        undecided: undecidedByItem(
+          outcomes.map((one) => ({
+            itemId: one.item.item.itemId,
+            itemName: one.item.item.itemName,
+            units: one.item.item.stackCount,
+            outcome: one.outcome,
+          }))
+        ),
+      }
+      if (taken.json) return told(JSON.stringify(report, null, SPACES).split("\n"))
+      return told(unmappedSaid(report))
     }
     const filtered = filter.applyDestinationCapacityFilter(
       orderedRules,
