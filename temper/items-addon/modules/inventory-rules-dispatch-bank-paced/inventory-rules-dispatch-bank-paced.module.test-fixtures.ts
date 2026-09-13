@@ -6,6 +6,7 @@ const CLOSE_BANK_EVENT = 1
 const SLOT_UPDATE_EVENT = 2
 const STACK_MAX = 200
 const DEFAULT_LATENCY_MS = 40
+const DEFAULT_LATE_LATENCY_MS = 3000
 
 interface BankSlot {
   itemId: number
@@ -32,13 +33,22 @@ export interface IssuedStackMove {
 export interface BankSimOptions {
   readonly startMs?: number
   readonly latencyMs?: number
+  readonly lateLatencyMs?: number
   readonly closeBankAtMs?: number
+}
+
+export interface DepositPlan {
+  readonly moveCount: number
+  readonly firstSlot?: number
+  readonly stack?: number
+  readonly count?: number
 }
 
 export interface BankSim {
   readonly issued: IssuedStackMove[]
   readonly said: string[]
   readonly dropsEveryRequest: Set<number>
+  readonly answersLate: Set<number>
   readonly putStack: (
     bag: number,
     slot: number,
@@ -132,12 +142,14 @@ export function makeBankSim(options: BankSimOptions = {}): BankSim {
   let nowMs = options.startMs ?? 0
   let seq = 0
   const latencyMs = options.latencyMs ?? DEFAULT_LATENCY_MS
+  const lateLatencyMs = options.lateLatencyMs ?? DEFAULT_LATE_LATENCY_MS
   const timers: Timer[] = []
   const bags = new Map<number, BankSlot[]>()
   const handlers = new Map<number, Handler[]>()
   const issued: IssuedStackMove[] = []
   const said: string[] = []
   const dropsEveryRequest = new Set<number>()
+  const answersLate = new Set<number>()
 
   function bagOf(id: number): BankSlot[] {
     const found = bags.get(id)
@@ -228,7 +240,8 @@ export function makeBankSim(options: BankSimOptions = {}): BankSim {
     count: number
   ): undefined {
     issued.push({ atMs: nowMs, sourceSlot })
-    after(latencyMs, (): undefined => {
+    const answerMs = answersLate.has(sourceSlot) ? lateLatencyMs : latencyMs
+    after(answerMs, (): undefined => {
       applyMove(sourceBag, sourceSlot, targetBag, targetSlot, count)
     })
   }
@@ -240,6 +253,7 @@ export function makeBankSim(options: BankSimOptions = {}): BankSim {
       const next = timers.shift()
       if (next === undefined) return
       if (next.at > untilMs) {
+        timers.push(next)
         nowMs = untilMs
         return
       }
@@ -252,6 +266,7 @@ export function makeBankSim(options: BankSimOptions = {}): BankSim {
     issued,
     said,
     dropsEveryRequest,
+    answersLate,
     putStack,
     stackAt,
     requestMove,
@@ -272,18 +287,22 @@ export function makeBankSim(options: BankSimOptions = {}): BankSim {
   return core
 }
 
-export function cleanDeposits(sim: BankSim, moveCount: number): PacedBankStep[] {
+export function plannedDeposits(sim: BankSim, plan: DepositPlan): PacedBankStep[] {
+  const firstSlot = plan.firstSlot ?? 0
+  const stack = plan.stack ?? 1
+  const count = plan.count ?? 1
   const steps: PacedBankStep[] = []
-  for (let i = 0; i < moveCount; i++) {
-    sim.putStack(BACKPACK_BAG, i, 1000 + i, 1, STACK_MAX)
-    sim.putStack(BANK_BAG, i, 0, 0, 0)
+  for (let i = 0; i < plan.moveCount; i++) {
+    const slot = firstSlot + i
+    sim.putStack(BACKPACK_BAG, slot, 1000 + slot, stack, STACK_MAX)
+    sim.putStack(BANK_BAG, slot, 0, 0, 0)
     steps.push({
       kind: "move",
       sourceBag: BACKPACK_BAG,
-      sourceSlot: i,
+      sourceSlot: slot,
       targetBag: BANK_BAG,
-      targetSlot: i,
-      count: 1,
+      targetSlot: slot,
+      count,
     })
   }
   return steps
@@ -295,6 +314,24 @@ export function depositsLanded(sim: BankSim, moveCount: number): number {
   return landed
 }
 
+export function slotsHoldingMoreThan(
+  sim: BankSim,
+  firstSlot: number,
+  slotCount: number,
+  asked: number
+): number {
+  let over = 0
+  for (let i = firstSlot; i < firstSlot + slotCount; i++) {
+    if (sim.stackAt(BANK_BAG, i) > asked) over++
+  }
+  return over
+}
+
+export function timesAskedTwice(issued: readonly IssuedStackMove[]): number {
+  const asked = issued.map((one) => `${one.sourceSlot}@${one.atMs}`)
+  return asked.length - new Set(asked).size
+}
+
 export function busiestWindow(issued: readonly IssuedStackMove[], windowMs: number): number {
   const times = issued.map((one) => one.atMs).sort((a, b) => a - b)
   let busiest = 0
@@ -302,6 +339,21 @@ export function busiestWindow(issued: readonly IssuedStackMove[], windowMs: numb
     const end = times[i] ?? 0
     let held = 0
     for (let j = 0; j <= i; j++) if ((times[j] ?? 0) > end - windowMs) held++
+    if (held > busiest) busiest = held
+  }
+  return busiest
+}
+
+export function busiestWindowInclusive(
+  issued: readonly IssuedStackMove[],
+  windowMs: number
+): number {
+  const times = issued.map((one) => one.atMs).sort((a, b) => a - b)
+  let busiest = 0
+  for (let i = 0; i < times.length; i++) {
+    const end = times[i] ?? 0
+    let held = 0
+    for (let j = 0; j <= i; j++) if ((times[j] ?? 0) >= end - windowMs) held++
     if (held > busiest) busiest = held
   }
   return busiest

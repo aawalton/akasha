@@ -96,5 +96,28 @@ export const inventoryRulesDispatchBankPaced = {
       invariantKind: "departure",
       statement: "A chain the bank closed on tells its caller it settled all the same.",
     },
+    {
+      invariantKind: "constraint",
+      statement:
+        "Whether the game counts a move exactly ten seconds old is not knowable from outside the game.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A move is held against the budget for the ten seconds the game allows and a margin above them.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The margin is wide enough for a boundary counted either way and for the two clocks to differ.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A chain has one wake outstanding, and setting a wake ends the wake before it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A chain that has ended wakes for nothing, whatever visit is running by then.",
+    },
   ],
 } as const satisfies Module

@@ -17,6 +17,8 @@ import {
 const PACED_BANK_NS = `${ADDON_NAME}_PacedBank`
 const STACK_MOVE_LIMIT = 100
 const STACK_MOVE_WINDOW_MS = 10000
+const STACK_MOVE_WINDOW_MARGIN_MS = 500
+const STACK_MOVE_HELD_MS = STACK_MOVE_WINDOW_MS + STACK_MOVE_WINDOW_MARGIN_MS
 const PACED_BANK_CONFIRM_MS = 1500
 const MAX_PACED_BANK_ATTEMPTS = 4
 
@@ -110,10 +112,11 @@ export function startPacedBankChain(
   let firstIssueMs: number | undefined
   let sends: StackMoveSend[] = []
   let confirmedSinceIssue = 0
-  let settleSerial = 0
+  let wakeSerial = 0
   let inFlight: IssuedMove[] = []
 
   function cleanup(aborted: boolean): undefined {
+    wakeSerial++
     EVENT_MANAGER.UnregisterForEvent(PACED_BANK_NS, EVENT_CLOSE_BANK)
     EVENT_MANAGER.UnregisterForEvent(PACED_BANK_NS, EVENT_INVENTORY_SINGLE_SLOT_UPDATE)
     pacedBankRunning = false
@@ -136,12 +139,24 @@ export function startPacedBankChain(
     onSettled()
   }
 
+  function wakeLater(ms: number, run: (this: void) => undefined): undefined {
+    wakeSerial++
+    const serial = wakeSerial
+    zo_callLater(
+      function (this: void): undefined {
+        if (serial !== wakeSerial) return
+        run()
+      },
+      ms > 0 ? ms : 1
+    )
+  }
+
   function roomInWindow(): number {
     const now = GetGameTimeMilliseconds()
     const kept: StackMoveSend[] = []
     let sent = 0
     for (const send of sends) {
-      if (now - send.atMs >= STACK_MOVE_WINDOW_MS) continue
+      if (now - send.atMs >= STACK_MOVE_HELD_MS) continue
       kept[kept.length] = send
       sent += send.count
     }
@@ -152,13 +167,10 @@ export function startPacedBankChain(
   function waitForWindow(): undefined {
     const oldest = sends[0]
     const rest =
-      oldest === undefined ? 1 : STACK_MOVE_WINDOW_MS - (GetGameTimeMilliseconds() - oldest.atMs)
-    zo_callLater(
-      function (this: void): undefined {
-        issueBatch()
-      },
-      rest > 0 ? rest : 1
-    )
+      oldest === undefined ? 1 : STACK_MOVE_HELD_MS - (GetGameTimeMilliseconds() - oldest.atMs)
+    wakeLater(rest, function (this: void): undefined {
+      issueBatch()
+    })
   }
 
   function issueBatch(): undefined {
@@ -202,8 +214,6 @@ export function startPacedBankChain(
     sends[sends.length] = { atMs: issuedAt, count: batch.length }
     if (firstIssueMs === undefined) firstIssueMs = issuedAt
     confirmedSinceIssue = 0
-    settleSerial++
-    const serial = settleSerial
     for (const move of batch) {
       move.attempts++
       const [stackNow] = GetSlotStackSize(move.sourceBag, move.sourceSlot)
@@ -212,10 +222,9 @@ export function startPacedBankChain(
       bankMoveItem(move.sourceBag, move.sourceSlot, move.targetBag, move.targetSlot, move.count)
     }
     recordPacedDispatch(stats)
-    zo_callLater(function (this: void): undefined {
-      if (serial !== settleSerial) return
+    wakeLater(PACED_BANK_CONFIRM_MS, function (this: void): undefined {
       settleBatch()
-    }, PACED_BANK_CONFIRM_MS)
+    })
   }
 
   function confirmLanded(): undefined {
@@ -236,7 +245,6 @@ export function startPacedBankChain(
 
   function settleBatch(): undefined {
     if (!pacedBankRunning) return
-    settleSerial++
     const unsettled: IssuedMove[] = []
     const unconfirmed: BankTracePacedMove[] = []
     let retriedHere = 0
