@@ -24,11 +24,13 @@ export const agent = {
     "module/read-record",
     "module/refusals-keeping",
     "module/stray-process",
+    "module/stray-sweeping",
     "module/tool-access",
     "page-type/agent",
     "page-type/agent-settings",
     "page-type/claude-account",
     "page-type/role",
     "page-type/subagent",
+    "service-workstation/sweep-stray-processes",
   ],
 } as const satisfies Domain

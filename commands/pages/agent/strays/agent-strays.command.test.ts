@@ -1,10 +1,9 @@
 import { expect, test } from "bun:test"
+import type { TimesOf } from "akasha/agents/modules/stray-sweeping/stray-sweeping.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   agentStrays,
-  burnedTicksIn,
   reportOf,
-  type TimesOf,
 } from "akasha/commands/pages/agent/strays/agent-strays.command.code.ts"
 
 const GIVEN: Given = {
@@ -20,8 +19,6 @@ const ACTING = "01a09581-cb35-7000-b00f-7156d6b3ce13--a05867e64f733ddec"
 const TIMES: TimesOf = () => ({ ranMs: 4_200_000, burnedMs: 4_140_000 })
 
 const NOWHERE: TimesOf = () => null
-
-const STAT = "7 (bash) S 1 7 7 0 -1 4194304 100 0 0 0 300 60 0 0 20 0 1 0 999"
 
 test("a line names the process, its subagent, its times and its command line", () => {
   const said = reportOf(
@@ -55,11 +52,6 @@ test("a closing line says so where every subagent was read", () => {
   const said = reportOf({ strays: [], unread: [] }, TIMES)
 
   expect(said[said.length - 1]).toBe("every subagent a live process names was read")
-})
-
-test("the processor time a process took is read off its own line under /proc", () => {
-  expect(burnedTicksIn(STAT)).toBe(360)
-  expect(burnedTicksIn("no line like that")).toBe(null)
 })
 
 test("a word is refused, because this takes none", async () => {
