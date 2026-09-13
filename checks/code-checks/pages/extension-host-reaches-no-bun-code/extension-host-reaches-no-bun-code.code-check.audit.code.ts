@@ -9,14 +9,14 @@ import { fileKeysAt } from "akasha/pages/indexes/modules/entries/index-entries.m
 import { carryingOf } from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
 import {
   readingIn,
-  valuesByPath,
+  valueByPath,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 
 export function indexing(root: string): Indexing {
   const reading = readingIn(root)
   return {
     carryingOf: (named) => carryingOf(reading, named),
-    valuesByPath: (pageTypeSlug) => valuesByPath(reading, pageTypeSlug),
+    valueAt: (path) => valueByPath(reading, path),
     fileKeysAt: () => fileKeysAt(reading),
   }
 }

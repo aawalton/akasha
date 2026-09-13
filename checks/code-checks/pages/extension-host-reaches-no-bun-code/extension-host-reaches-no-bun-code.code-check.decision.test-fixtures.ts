@@ -120,7 +120,7 @@ export function stating(
   )
   return {
     carryingOf: () => ({ carrying }),
-    valuesByPath: () => valued,
+    valueAt: (path) => valued.get(path) ?? null,
     fileKeysAt: () => new Map([[MANIFEST_PROPERTY, named]]),
   }
 }

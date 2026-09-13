@@ -31,7 +31,7 @@ const UNKNOWN = "so what the host loads is unknown"
 
 export type Indexing = {
   readonly carryingOf: (named: string) => Carried
-  readonly valuesByPath: (pageTypeSlug: string) => ReadonlyMap<string, Value>
+  readonly valueAt: (path: string) => Value | null
   readonly fileKeysAt: () => ReadonlyMap<string, string | null>
 }
 
@@ -42,8 +42,8 @@ function linkedIn(index: Indexing): string {
   const found: string[] = []
   for (const one of carried.carrying) {
     if (dirname(one.path) !== ROOT) continue
-    const value = index.valuesByPath(one.pageTypeSlug).get(one.path)
-    if (value === undefined || typeof value[key] !== "string") continue
+    const value = index.valueAt(one.path)
+    if (value === null || typeof value[key] !== "string") continue
     if (!found.includes(one.path)) found.push(one.path)
   }
   const page = found[0]
