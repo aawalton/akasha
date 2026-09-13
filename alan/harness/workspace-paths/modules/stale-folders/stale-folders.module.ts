@@ -23,6 +23,10 @@ export const staleFolders = {
     },
     {
       invariantKind: "departure",
+      statement: "The index is no folder of that sort, and is left out.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A package with no workspaces of its own is not descended into.",
     },
     {
