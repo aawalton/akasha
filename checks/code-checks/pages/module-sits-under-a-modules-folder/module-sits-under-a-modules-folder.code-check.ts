@@ -5,11 +5,10 @@ export const moduleSitsUnderAModulesFolder = {
   type: "code-check",
   slug: "module-sits-under-a-modules-folder",
   definition: "the check refusing a module page whose folder sits under no modules folder",
-  runsOnChange: false,
-  runsOnDeploy: false,
-  runsOnWorktree: false,
-  runsOnAudit: false,
-  experimental: true,
+  runsOnChange: true,
+  runsOnDeploy: true,
+  runsOnWorktree: true,
+  runsOnAudit: true,
   invariants: [
     {
       invariantKind: "departure",
@@ -57,16 +56,7 @@ export const moduleSitsUnderAModulesFolder = {
     },
     {
       invariantKind: "departure",
-      statement: "This check judges at no phase while the folders it refuses are being nested.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Every phase returns to true where no module page sits outside a `modules` folder.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "`experimental` comes off this page with them.",
+      statement: "This check judges at every phase.",
     },
   ],
   check: { maxCpuSeconds: 5 },
