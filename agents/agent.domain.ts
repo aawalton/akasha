@@ -33,4 +33,18 @@ export const agent = {
     "page-type/subagent",
     "service-workstation/sweep-stray-processes",
   ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A process a departed agent left running is taken away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent has departed once its seat's transcript stops naming it as running.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A name exported inside a shell never reaches that shell's own environment.",
+    },
+  ],
 } as const satisfies Domain
