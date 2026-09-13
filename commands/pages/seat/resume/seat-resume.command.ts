@@ -36,12 +36,21 @@ export const seatResume = {
       invariantKind: "departure",
       statement: "A resume refused before it wrote anything is refused as the fault alone.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A notice named by slug is composed here into the first turn the seat takes up.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A notice slug no page carries is refused as the caller's fault.",
+    },
   ],
   name: "resume",
   arguments: [
     { argument: "argument/seat", required: true, saidAs: "word" },
     { argument: "argument/start-mode" },
-    { argument: "argument/seat-prompt" },
+    { argument: "argument/seat-prompt", notWith: ["argument/notice"] },
+    { argument: "argument/notice" },
     { argument: "argument/now" },
     { argument: "argument/force" },
   ],
