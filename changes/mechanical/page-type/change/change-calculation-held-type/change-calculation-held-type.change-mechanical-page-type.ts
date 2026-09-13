@@ -9,6 +9,8 @@ export const changeCalculationHeldType = {
   changeTargetSubtype: "change-target-subtype/page-type-page",
   definition: "every calculation naming its own property's type rather than restating that kind",
   code: "ts",
+  test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
