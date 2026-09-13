@@ -15,7 +15,7 @@ export const akashaFolderShape = {
     {
       statement: "The folder shapes are the fewest patterns that allow every folder in akasha.",
       workingMemory:
-        "Thirteen shapes; `the-workspace-root` went into `a-domain-with-its-parts`. Two judges are shared: `one-type-only` carries `modules-only`, `test-fixtures-only` and `scripts-only`, its page type, words and declared-parts policy handed in; `property-pages` carries what the two `properties` shapes said alike. Apart still: three `with-its-parts`, `pages-of-the-type-above`, two `sections`, the workstation. A page type extends domain, so `a-domain-with-its-parts` matches what `a-page-type` does.\n",
+        "Thirteen shapes; `the-workspace-root` went into `a-domain-with-its-parts`. Three judges are shared now: `one-type-only` carries `modules-only`, `test-fixtures-only` and `scripts-only`; `property-pages` carries what the two `properties` shapes said alike; `one-page-only` carries the page-selection, loose-file and naming blocks of the four `with-its-parts` shapes. Those four are exclusive by page type since `04d6899` and `7519d65`. Apart still: `pages-of-the-type-above` and the two `sections`.\n",
     },
 
     {
