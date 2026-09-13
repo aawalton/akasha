@@ -73,6 +73,14 @@ export const question = {
       statement: "The context a question was put in sits beside the page rather than in that page.",
     },
     {
+      invariantKind: "departure",
+      statement: "What a context claims is what one agent believed rather than what is so.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule a context cites is read from the page stating that rule or from nowhere.",
+    },
+    {
       invariantKind: "gap",
       statement:
         "The context a question was put in is an id here rather than a relation to that context.",
