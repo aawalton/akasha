@@ -69,6 +69,7 @@ describe("explainCapabilities", () => {
       "loadTemperCharactersFromPath",
       "loadTemperInventoryConfigFromPath",
       "locationConditionFromKeyAndBag",
+      "matchRules",
       "parseInventoryContent",
       "parseItemLink",
       "walkRules",

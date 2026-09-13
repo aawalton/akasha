@@ -12,7 +12,10 @@ import type {
 import { parseItemLink } from "akasha/temper/items-core/modules/item-link-parser/item-link-parser.module.code.ts"
 import { locationConditionFromKeyAndBag } from "akasha/temper/items-core/modules/location-condition/location-condition.module.code.ts"
 import { computeStockGroups } from "akasha/temper/items-rules-eval/modules/compute-stock-groups/compute-stock-groups.module.code.ts"
-import { walkRules } from "akasha/temper/items-rules-eval/modules/evaluator/evaluator.module.code.ts"
+import {
+  matchRules,
+  walkRules,
+} from "akasha/temper/items-rules-eval/modules/evaluator/evaluator.module.code.ts"
 
 export type LocationConditionId = ReturnType<typeof locationConditionFromKeyAndBag>
 
@@ -32,6 +35,7 @@ export interface ExplainCapabilities {
   readonly buildCliEvalEnv: typeof buildCliEvalEnv
   readonly computeStockGroups: typeof computeStockGroups
   readonly walkRules: typeof walkRules
+  readonly matchRules: typeof matchRules
   readonly loadTemperCharactersFromPath: typeof loadTemperCharactersFromPath
   readonly loadTemperInventoryConfigFromPath: typeof loadTemperInventoryConfigFromPath
 }
@@ -46,6 +50,7 @@ export async function explainCapabilities(): Promise<ExplainCapabilities> {
     buildCliEvalEnv,
     computeStockGroups,
     walkRules,
+    matchRules,
     loadTemperCharactersFromPath,
     loadTemperInventoryConfigFromPath,
   }

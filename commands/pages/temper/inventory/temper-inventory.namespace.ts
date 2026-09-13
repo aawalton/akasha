@@ -13,6 +13,7 @@ export const temperInventory = {
     "command/temper-inventory-explain",
     "command/temper-inventory-knowledge",
     "command/temper-inventory-lookup-item",
+    "command/temper-inventory-outcome-parity",
     "command/temper-inventory-parity",
     "command/temper-inventory-plan",
     "command/temper-inventory-replay-explain",
