@@ -21,11 +21,11 @@ const CARRIES_A_CODE: ReadonlySet<string> = new Set([
 ])
 
 export function refusedBy(said: readonly string[], code = INPUT): Answer {
-  return { report: [], refusals: said, code }
+  return answeredWith([], said, code)
 }
 
 export function told(report: readonly string[]): Answer {
-  return { report, refusals: [], code: OK }
+  return answeredWith(report, [], OK)
 }
 
 export function asJson(value: unknown): Answer {
