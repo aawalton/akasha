@@ -132,17 +132,6 @@ export async function resolveSeatTargetFromFlagOrEnv(
   return resolveSeatTargetCli(candidate)
 }
 
-export async function resolveSeatId(flagValue: string | undefined): Promise<string> {
-  const candidate = flagValue ?? fromEnv()
-  if (candidate === undefined) {
-    throw inputError(NONE_NAMED)
-  }
-  if (!lowerUuid(candidate.toLowerCase())) {
-    throw inputError(noSeatId(candidate))
-  }
-  return candidate
-}
-
 export async function resolveOptionalSeatId(flagValue: string | undefined): Promise<string | null> {
   const candidate = flagValue ?? fromEnv()
   if (candidate === undefined) return null
@@ -150,25 +139,4 @@ export async function resolveOptionalSeatId(flagValue: string | undefined): Prom
     throw inputError(noSeatId(candidate))
   }
   return candidate
-}
-
-export async function requireSenderInput(flagValue: string | undefined): Promise<string> {
-  const candidate = flagValue ?? fromEnv()
-  if (candidate === undefined) {
-    throw inputError(
-      "no sender is named, and the sender is named at `--from` or in `AGENT_ID` — " +
-        "the sender is who the message is from rather than who it is to"
-    )
-  }
-  return candidate
-}
-
-export async function resolveSenderTargetCli(candidate: string): Promise<string> {
-  const found = resolveSeatTarget(candidate)
-  if ("error" in found) {
-    throw inputError(
-      `${found.error}, and that name is who the message is from rather than who it is to`
-    )
-  }
-  return found.id
 }

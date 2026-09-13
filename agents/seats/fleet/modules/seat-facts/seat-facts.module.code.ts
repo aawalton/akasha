@@ -1,5 +1,4 @@
 import { seatWhoami } from "akasha/agents/seats/declaration/modules/seat-whoami/seat-whoami.module.code.ts"
-import { seatRoster } from "akasha/agents/seats/fleet/modules/seat-roster/seat-roster.module.code.ts"
 import {
   agentHolderProcess,
   agentPresence,
@@ -10,21 +9,6 @@ import {
 } from "akasha/agents/seats/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 
 const SEAT_MODE_INTERACTIVE = "interactive"
-
-export interface SeatFacts {
-  readonly name: string
-}
-
-export function readSeatFacts(sessionIds: readonly string[]): Map<string, SeatFacts> {
-  const wanted = new Set(sessionIds)
-  const found = new Map<string, SeatFacts>()
-  for (const seat of [...seatRoster(true), ...seatRoster(false)]) {
-    const session = seat.session
-    if (session === null || !wanted.has(session) || found.has(session)) continue
-    found.set(session, { name: seat.name ?? seat.id })
-  }
-  return found
-}
 
 export interface SeatRecord {
   readonly id: string
