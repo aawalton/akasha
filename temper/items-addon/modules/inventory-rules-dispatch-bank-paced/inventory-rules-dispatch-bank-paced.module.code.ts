@@ -60,6 +60,16 @@ export function startPacedBankChain(
   function cleanup(aborted: boolean): undefined {
     EVENT_MANAGER.UnregisterForEvent(PACED_BANK_NS, EVENT_CLOSE_BANK)
     pacedBankRunning = false
+    if (aborted) {
+      let unsent = 0
+      for (let i = index; i < queue.length; i++) {
+        const step = queue[i]
+        if (step !== undefined && step.kind === "move") unsent++
+      }
+      if (unsent > 0) {
+        d(`[${ADDON_NAME}] Bank closed — ${unsent} moves not sent`)
+      }
+    }
     inFlight = []
     stats.abortedEarly = aborted
     recordPacedDispatch(stats)
