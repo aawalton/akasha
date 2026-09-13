@@ -1,7 +1,4 @@
-import type { PidSnapshot } from "akasha/infrastructure/memory/reaping/modules/memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
 import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
-
-export const MAX_OWNER_HOPS = 32
 
 export type SeatBinding = {
   readonly agentId: string
@@ -34,23 +31,4 @@ export function seatBindingInArgv(
   const agentId = flagUuid(argv, "--agent-id")
   if (agentId === null) return null
   return { agentId, sessionId: flagUuid(argv, "--session-id"), pid, hops }
-}
-
-export function resolveSeatBinding(
-  victimPid: number,
-  snapshots: readonly PidSnapshot[],
-  readArgv: (pid: number) => readonly string[] | undefined
-): SeatBinding | null {
-  const ppidByPid = new Map(snapshots.map((s) => [s.pid, s.ppid]))
-  const seen = new Set<number>()
-  let cur: number | undefined = victimPid
-  let hops = 0
-  while (cur !== undefined && cur > 1 && !seen.has(cur) && hops < MAX_OWNER_HOPS) {
-    seen.add(cur)
-    const found = seatBindingInArgv(readArgv(cur) ?? [], cur, hops)
-    if (found !== null) return found
-    cur = ppidByPid.get(cur)
-    hops += 1
-  }
-  return null
 }

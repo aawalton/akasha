@@ -137,17 +137,6 @@ export function isContainerCgroup(cgroupContent: string): boolean {
   return /libpod-/.test(cgroupContent)
 }
 
-export function readRedactedArgv(pid: number): readonly string[] | undefined {
-  let raw: string
-  try {
-    raw = readFileSync(`/proc/${pid}/cmdline`, "utf8")
-  } catch {
-    return undefined
-  }
-  const argv = redactProcCmdline(raw)
-  return argv.length === 0 ? undefined : argv
-}
-
 export function readContainerPids(snapshots: readonly PidSnapshot[]): readonly number[] {
   const pids: number[] = []
   for (const s of snapshots) {

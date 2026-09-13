@@ -16,13 +16,5 @@ export const memoryReaperOwner = {
       invariantKind: "departure",
       statement: "An agent id that is no uuid names no seat.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The nearest ancestor naming a seat is the seat the process belongs to.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A walk up the process tree stops at a hop ceiling and at a pid seen twice.",
-    },
   ],
 } as const satisfies Module
