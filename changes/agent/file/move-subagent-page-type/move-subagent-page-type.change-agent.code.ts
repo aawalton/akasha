@@ -29,6 +29,7 @@ type Swept = {
 }
 
 async function sweep(world: World, at: string): Promise<Swept> {
+  if ([...world.under(at)].length === 0) return { said: gathered([]), world }
   const said = await reach(world, REMOVE_FOLDER, { at })
   if (said.said.refused !== null) return { said: gathered([]), world }
   return said
