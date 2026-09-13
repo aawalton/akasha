@@ -62,6 +62,9 @@ export type Changes = {
   "change-agent/copy-property-on-every-page": Parameters<
     typeof import("akasha/changes/agent/page-type/copy-property-on-every-page/copy-property-on-every-page.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/divide-file-code": Parameters<
+    typeof import("akasha/changes/agent/file/divide-file-code/divide-file-code.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/divide-page-property": Parameters<
     typeof import("akasha/changes/agent/file/divide-page-property/divide-page-property.change-agent.code.ts")["runChange"]
   >[1]

@@ -9,6 +9,7 @@ export const changeAgentFile = {
     "change-agent/add-binary-file",
     "change-agent/add-file",
     "change-agent/change-page-page-type",
+    "change-agent/divide-file-code",
     "change-agent/divide-page-property",
     "change-agent/move-page",
     "change-agent/move-pages",
