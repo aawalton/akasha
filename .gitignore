@@ -11,8 +11,7 @@
 
 # The indexes the pages are read through, which a refresh writes again from the
 # pages alone. Each checkout has its own, so a worktree reads the index of the
-# pages that worktree holds. A name here is also what grants the index its leave
-# to write outside a change, so taking one away takes that leave with it.
+# pages that worktree holds.
 .indexes/
 
 # Installed dependencies and compiled output.
