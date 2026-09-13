@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHD7TAAIBkyhVi0_lYtP5UMmC1iJgtQuYLUMmC1C5gtEKjtRBAqUQQKlJiTHWxEEx0sAAAHNgAAAcAAAAAAAAAAAAAAgDUUABAGAoTgAIAAQABCGCADJwAzCGVAB2ABCAwIQADJIBAjAxIwgSAQCAMAHIFgBcAAADA4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrGytkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDEEgaw",
+  "buildHash": "ATQHD8TAAIBkyhVi0_lYtP5UMmC1iJgtQuYLUMmC1C5gtEKjtRBAqUQQKlJiTHWxEEx0sAAAHNgAAAcAAAAAAAAAAAAAAgDUUABAGAoTgAIAAQABCGCADJwAzCGVAB2ABCAwIQADJIBAjAxIwgSAQCAMAHIFgBcAAADA4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrGytkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDEEgaw",
   "gender": 1,
   "level": 50,
   "classId": 117,
@@ -1128,7 +1128,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 22,
+            "numCompleted": 23,
             "numRequired": 30
           }
         }
@@ -3103,7 +3103,7 @@
           "atMorph": true,
           "morph2": {
             "name": "Arterial Burst",
-            "rank": 1
+            "rank": 2
           },
           "currentMorph": 2,
           "isUltimate": false,
@@ -12948,8 +12948,8 @@
     "carryCapacity": 60
   },
   "dailyWrits": {
-    "date": "2026-09-12",
-    "completed": 7
+    "completed": 7,
+    "date": "2026-09-13"
   },
   "dailyWritStates": {
     "completed": {
@@ -12970,7 +12970,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-12"
+    "date": "2026-09-13"
   },
   "motifKnowledge": {
     "4": {
