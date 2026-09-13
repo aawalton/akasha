@@ -59,31 +59,39 @@ function tailsIn(said: readonly string[], root: string): readonly string[] {
   return whole.startsWith(under) ? [whole.slice(under.length)] : []
 }
 
-function saidIn(path: string, text: string, root: string): readonly string[] {
-  if (typed(path)) return spelledIn(path, text).map((one) => one.text)
-  return runsIn(text).flatMap((one) => tailsIn(one.said, root))
+function saidIn(path: string, text: string, root: string): readonly (readonly string[])[] {
+  if (typed(path)) return spelledIn(path, text).map((one) => [one.text])
+  return runsIn(text).map((one) => tailsIn(one.said, root))
 }
 
 function spellingIn(
   path: string,
   text: string,
   folders: readonly string[],
-  root: string
+  root: string,
+  holding: ReadonlySet<string>
 ): string | null {
   if (!folders.some((one) => text.includes(one))) return null
-  for (const said of saidIn(path, text, root)) {
-    const at = namedBy(said, folders)
-    if (at === null) continue
-    return `\`${path}\` spells \`${said}\`, and \`${at}\` holds nothing after`
+  for (const run of saidIn(path, text, root)) {
+    if (run.some((one) => holding.has(one))) continue
+    for (const said of run) {
+      const at = namedBy(said, folders)
+      if (at === null) continue
+      return `\`${path}\` spells \`${said}\`, and \`${at}\` holds nothing after`
+    }
   }
   return null
 }
 
-function namingIn(given: Guarding, folders: readonly string[]): string | null {
+function namingIn(
+  given: Guarding,
+  folders: readonly string[],
+  holding: ReadonlySet<string>
+): string | null {
   const facing = facingHeld(given.before)
   for (const [path, text] of writtenIn(given)) {
     if (generatedIn(facing, path) || groupWrites(facing, path)) continue
-    const why = spellingIn(path, text, folders, given.before.root)
+    const why = spellingIn(path, text, folders, given.before.root, holding)
     if (why !== null) return why
   }
   return null
@@ -93,8 +101,9 @@ export function folderNotLeftNamed(given: Guarding): string | null {
   const gone = [...takingIn(given.said), ...carriedIn(given.said)]
   if (gone.length === 0) return null
   try {
-    const folders = emptiedIn(holdingIn(given.shadow.index.everyPath()), gone)
-    return folders.length === 0 ? null : namingIn(given, folders)
+    const holding = holdingIn(given.shadow.index.everyPath())
+    const folders = emptiedIn(holding, gone)
+    return folders.length === 0 ? null : namingIn(given, folders, holding)
   } catch (cause) {
     return unreadable(cause)
   }

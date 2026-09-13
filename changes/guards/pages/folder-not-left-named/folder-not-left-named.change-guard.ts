@@ -99,6 +99,11 @@ export const folderNotLeftNamed = {
       statement: "One rule judges a string a parser found and a run this guard found.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A run one reading of which names a folder holding something names no folder emptied.",
+    },
+    {
       invariantKind: "gap",
       statement:
         "A run that only looks like a path is read as one, and refuses where that run names the folder.",
