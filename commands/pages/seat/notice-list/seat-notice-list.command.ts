@@ -1,9 +1,9 @@
 import type { Command } from "akasha/commands/command.page-type.types.ts"
 
-export const seatComposeNotices = {
+export const seatNoticeList = {
   id: "01a0693b-42f9-7c87-95fd-2c7147ecd1f2",
   type: "command",
-  slug: "seat-compose-notices",
+  slug: "seat-notice-list",
   definition:
     "the command answering what a seat is told when it is put back to work, as one JSON object",
   code: "ts",
@@ -62,6 +62,6 @@ export const seatComposeNotices = {
         "A notice slug a caller names that no page carries is refused before a fleet meets it.",
     },
   ],
-  name: "compose-notices",
+  name: "notice-list",
   arguments: [{ argument: "argument/output" }],
 } as const satisfies Command

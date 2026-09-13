@@ -15,8 +15,8 @@ import { ROOT_NAMED, rootOf } from "akasha/commands/modules/rooting/rooting.modu
 import {
   pathOf,
   saidOf,
-  seatComposeNotices,
-} from "akasha/commands/pages/seat/compose-notices/seat-compose-notices.command.code.ts"
+  seatNoticeList,
+} from "akasha/commands/pages/seat/notice-list/seat-notice-list.command.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 
 const ROOT = rootOf(import.meta.dir)
@@ -87,7 +87,7 @@ test("a checkout the index answers nothing for is refused rather than answered a
 test("what the module refuses to compose is what the command refuses with", () => {
   const folder = scratch()
   try {
-    const said = underRoot(folder, () => seatComposeNotices([], givenIn(ROOT)))
+    const said = underRoot(folder, () => seatNoticeList([], givenIn(ROOT)))
 
     expect(said.code).toBe(OPERATIONAL)
     expect(said.report).toEqual([])
@@ -98,7 +98,7 @@ test("what the module refuses to compose is what the command refuses with", () =
 })
 
 test("a word this does not take refuses as a fault in the call", () => {
-  const said = seatComposeNotices(["--help-me"], givenIn(ROOT))
+  const said = seatNoticeList(["--help-me"], givenIn(ROOT))
 
   expect(said.code).toBe(INPUT)
   expect(said.report).toEqual([])
@@ -114,7 +114,7 @@ test("what is said is indented two spaces", () => {
 })
 
 test("the happy answer parses as the JSON the editor's revive reads, out of the real checkout", () => {
-  const said = seatComposeNotices([], givenIn(ROOT))
+  const said = seatNoticeList([], givenIn(ROOT))
 
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
@@ -134,7 +134,7 @@ test("named an output path it writes there and says nothing", () => {
   const folder = scratch()
   const at = join(folder, "notices.json")
   try {
-    const said = seatComposeNotices([output.said, at], givenIn(ROOT))
+    const said = seatNoticeList([output.said, at], givenIn(ROOT))
 
     expect(said.code).toBe(0)
     expect(said.report).toEqual([])
@@ -143,7 +143,7 @@ test("named an output path it writes there and says nothing", () => {
 
     expect(written.endsWith("\n")).toBe(true)
     expect(JSON.parse(written)).toEqual(
-      JSON.parse(seatComposeNotices([], givenIn(ROOT)).report[0] ?? "null")
+      JSON.parse(seatNoticeList([], givenIn(ROOT)).report[0] ?? "null")
     )
   } finally {
     rmSync(folder, { recursive: true, force: true })

@@ -1,4 +1,4 @@
-import { seatComposeNotices } from "akasha/commands/pages/seat/compose-notices/seat-compose-notices.command.ts"
+import { seatNoticeList } from "akasha/commands/pages/seat/notice-list/seat-notice-list.command.ts"
 import { seatReset } from "akasha/commands/pages/seat/reset/seat-reset.command.ts"
 import { seatResume } from "akasha/commands/pages/seat/resume/seat-resume.command.ts"
 import { seatSupervisorStop } from "akasha/commands/pages/seat/supervisor/stop/seat-supervisor-stop.command.ts"
@@ -22,7 +22,7 @@ function asking(one: { readonly slug: string }, args: readonly string[]): SeatCa
   return { slug: one.slug, exported: exportedAs(one.slug), args }
 }
 
-export const NOTICES_CALL: SeatCall = asking(seatComposeNotices, [])
+export const NOTICES_CALL: SeatCall = asking(seatNoticeList, [])
 
 export function stopCall(name: string): SeatCall {
   return asking(seatSupervisorStop, [name, FORCED])
