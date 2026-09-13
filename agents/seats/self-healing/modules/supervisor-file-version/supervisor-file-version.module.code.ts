@@ -1,5 +1,5 @@
 import { dirname, join, normalize } from "node:path"
-import { AGENT_SETTINGS_PATH } from "akasha/agents/seats/supervisors/child/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
+import { AGENT_SETTINGS_PATH } from "akasha/agents/seats/supervisors/supervisor-child/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
 import { listWorkspaceDirs } from "akasha/alan/harness/workspace-paths/modules/workspace-dirs/workspace-dirs.module.code.ts"
 import type { Naming } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import {

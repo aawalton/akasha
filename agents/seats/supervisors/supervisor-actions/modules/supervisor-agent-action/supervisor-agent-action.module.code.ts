@@ -1,7 +1,3 @@
-import type { IdleRuleSource } from "akasha/agents/seats/supervisors/idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
-import { LOG } from "akasha/agents/seats/supervisors/process/modules/supervisor-config/supervisor-config.module.code.ts"
-import { armDeferredRestart } from "akasha/agents/seats/supervisors/restarting/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"
-import type { DeferredRestartRuleSource } from "akasha/agents/seats/supervisors/restarting/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
 import { buildIdleGateArm } from "akasha/agents/seats/supervisors/supervisor-actions/modules/supervisor-agent-action-arm/supervisor-agent-action-arm.module.code.ts"
 import {
   clearBeforeSigterm,
@@ -12,6 +8,10 @@ import type {
   AgentActionSubsystem,
   PendingAgentAction,
 } from "akasha/agents/seats/supervisors/supervisor-actions/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
+import type { IdleRuleSource } from "akasha/agents/seats/supervisors/supervisor-idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+import { LOG } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
+import { armDeferredRestart } from "akasha/agents/seats/supervisors/supervisor-restarting/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"
+import type { DeferredRestartRuleSource } from "akasha/agents/seats/supervisors/supervisor-restarting/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
 
 export function buildAgentActionSubsystem(opts: {
   killProc: () => void

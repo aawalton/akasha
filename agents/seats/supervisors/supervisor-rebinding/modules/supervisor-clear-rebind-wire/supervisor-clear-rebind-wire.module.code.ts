@@ -1,0 +1,66 @@
+import {
+  setCurrentAgentIdForSelfHeal,
+  setCurrentSessionIdForSelfHeal,
+} from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
+import { rotatedOf } from "akasha/agents/seats/session/modules/seat-rotated-session/seat-rotated-session.module.code.ts"
+import type { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/modules/supervisor-console/supervisor-console.module.code.ts"
+import { clearSeatRotation } from "akasha/agents/seats/supervisors/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
+import { watchSeatRotation } from "akasha/agents/seats/supervisors/modules/supervisor-rotation-watch/supervisor-rotation-watch.module.code.ts"
+import { claimSeatSupervision } from "akasha/agents/seats/supervisors/supervisor-boot/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
+import type { AgentIdHandle } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
+import { setRestoreConsoleHandle } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
+import type { AgentProcess } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-types/supervisor-types.module.code.ts"
+import {
+  type ClearRebindHooks,
+  performClearRebind,
+} from "akasha/agents/seats/supervisors/supervisor-rebinding/modules/supervisor-rebind/supervisor-rebind.module.code.ts"
+import type { ClearRebindDeps } from "akasha/agents/seats/supervisors/supervisor-rebinding/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
+
+export function wireSessionRotatedWatcher(args: {
+  selectedAccount: string
+  projDir: string
+  deferredRestart: { cancel: (() => void) | null }
+  agentIdHandle: AgentIdHandle
+  agentLog: ReturnType<typeof buildAgentLogRedirect>
+  getAgentId: () => string | null
+  getAgentProc: () => AgentProcess | undefined
+  setLoopAgentId: (id: string) => void
+  setLoopSessionId: (id: string) => void
+  deps: ClearRebindDeps
+  startSessionWatch: ClearRebindHooks["startSessionWatch"]
+}): () => void {
+  const claimRotation = (): string | null => {
+    const live = args.getAgentId()
+    if (live === null) return null
+    const stated = rotatedOf(live)
+    if (stated === null) return null
+    clearSeatRotation(live)
+    return stated.value
+  }
+  return watchSeatRotation(claimRotation, (sessionId) => {
+    args.deferredRestart.cancel?.()
+    args.deferredRestart.cancel = null
+    return performClearRebind(
+      sessionId,
+      {
+        selectedAccount: args.selectedAccount,
+        projDir: args.projDir,
+        getAgentId: args.getAgentId,
+        getAgentProc: args.getAgentProc,
+        setAgentId: (id) => {
+          args.setLoopAgentId(id)
+          args.agentIdHandle.bind(id)
+          setCurrentAgentIdForSelfHeal(id)
+        },
+        setSessionId: (id) => {
+          args.setLoopSessionId(id)
+          setCurrentSessionIdForSelfHeal(id)
+          claimSeatSupervision(args.getAgentId())
+        },
+        applyConsoleRedirect: (id) => setRestoreConsoleHandle(args.agentLog.redirectTo(id)),
+        startSessionWatch: args.startSessionWatch,
+      },
+      args.deps
+    )
+  })
+}

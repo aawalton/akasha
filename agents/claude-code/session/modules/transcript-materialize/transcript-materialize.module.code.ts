@@ -5,7 +5,7 @@ import {
   readSessionObject,
   sessionObjectKeyFor,
 } from "akasha/agents/claude-code/session/modules/session-stream/session-stream.module.code.ts"
-import { sessionProjectDir } from "akasha/agents/seats/supervisors/process/modules/supervisor-session-project-dir/supervisor-session-project-dir.module.code.ts"
+import { sessionProjectDir } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-session-project-dir/supervisor-session-project-dir.module.code.ts"
 import { dataError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { seaweedFsMissingEnvVars } from "akasha/infrastructure/storage/object-store/modules/seaweedfs-config/seaweedfs-config.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"

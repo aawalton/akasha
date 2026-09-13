@@ -4,7 +4,7 @@ import { scanProcEntries } from "akasha/agents/modules/proc-scan/proc-scan.modul
 import { seatRecord } from "akasha/agents/seats/fleet/modules/seat-facts/seat-facts.module.code.ts"
 import { resolveSessionIdByAgentId } from "akasha/agents/seats/session/modules/resolve/seat-session-resolve.module.code.ts"
 import { decideKillTarget } from "akasha/agents/seats/stopping/modules/kill-target-plan/kill-target-plan.module.code.ts"
-import { SEAT_START_DIR } from "akasha/agents/seats/supervisors/process/modules/supervisor-config/supervisor-config.module.code.ts"
+import { SEAT_START_DIR } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   dataError,
   operationalError,
