@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0551Chapter551RescueMe = {
   ownLength: 2467,
   unit: "words",
   publishedAt: "2018-04-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/206919/chapter-551-rescue-me",
-  externalId: "206919",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "206919",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/206919/chapter-551-rescue-me",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

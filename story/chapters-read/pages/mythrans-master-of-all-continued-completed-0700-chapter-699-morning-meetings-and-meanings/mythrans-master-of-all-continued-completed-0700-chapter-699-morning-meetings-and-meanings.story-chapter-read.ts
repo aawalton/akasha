@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0700Chapter699MorningMeetingsA
   ownLength: 3262,
   unit: "words",
   publishedAt: "2018-09-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/289925/chapter-699-morning-meetings-and-meanings",
-  externalId: "289925",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "289925",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/289925/chapter-699-morning-meetings-and-meanings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0654Chapter653IfYouAdvertiseTh
   ownLength: 2717,
   unit: "words",
   publishedAt: "2018-07-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/239203/chapter-653-if-you-advertise-they-will-come",
-  externalId: "239203",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "239203",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/239203/chapter-653-if-you-advertise-they-will-come",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

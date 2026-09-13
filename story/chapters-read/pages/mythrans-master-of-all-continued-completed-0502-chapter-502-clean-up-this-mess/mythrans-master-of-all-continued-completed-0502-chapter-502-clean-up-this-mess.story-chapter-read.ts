@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0502Chapter502CleanUpThisMess 
   ownLength: 3290,
   unit: "words",
   publishedAt: "2018-02-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/192285/chapter-502-clean-up-this-mess",
-  externalId: "192285",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "192285",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/192285/chapter-502-clean-up-this-mess",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

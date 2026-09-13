@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0652Chapter651AreYouSureThatsT
   ownLength: 3020,
   unit: "words",
   publishedAt: "2018-07-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/238257/chapter-651-are-you-sure-thats-training",
-  externalId: "238257",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "238257",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/238257/chapter-651-are-you-sure-thats-training",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0583Chapter583ServingMyTime = 
   ownLength: 2969,
   unit: "words",
   publishedAt: "2018-05-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/214830/chapter-583-serving-my-time",
-  externalId: "214830",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "214830",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/214830/chapter-583-serving-my-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

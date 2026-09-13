@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0735Chapter734BundleOfTrouble 
   ownLength: 3278,
   unit: "words",
   publishedAt: "2018-10-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/299209/chapter-734-bundle-of-trouble",
-  externalId: "299209",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "299209",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/299209/chapter-734-bundle-of-trouble",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

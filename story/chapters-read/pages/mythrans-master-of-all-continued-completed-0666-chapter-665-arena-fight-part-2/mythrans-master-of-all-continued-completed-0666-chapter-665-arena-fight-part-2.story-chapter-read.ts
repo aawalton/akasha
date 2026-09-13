@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0666Chapter665ArenaFightPart2 
   ownLength: 4959,
   unit: "words",
   publishedAt: "2018-08-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/242661/chapter-665-arena-fight-part-2",
-  externalId: "242661",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "242661",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/242661/chapter-665-arena-fight-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

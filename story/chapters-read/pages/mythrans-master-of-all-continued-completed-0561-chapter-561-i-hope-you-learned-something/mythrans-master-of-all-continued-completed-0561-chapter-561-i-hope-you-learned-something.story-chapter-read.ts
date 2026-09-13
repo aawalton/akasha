@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0561Chapter561IHopeYouLearnedS
   ownLength: 2555,
   unit: "words",
   publishedAt: "2018-04-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/209266/chapter-561-i-hope-you-learned-something",
-  externalId: "209266",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "209266",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/209266/chapter-561-i-hope-you-learned-something",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

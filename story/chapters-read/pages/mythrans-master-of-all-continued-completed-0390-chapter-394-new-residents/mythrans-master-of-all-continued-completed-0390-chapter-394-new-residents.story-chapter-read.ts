@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0390Chapter394NewResidents = {
   ownLength: 4139,
   unit: "words",
   publishedAt: "2017-10-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/169234/chapter-394-new-residents",
-  externalId: "169234",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "169234",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/169234/chapter-394-new-residents",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

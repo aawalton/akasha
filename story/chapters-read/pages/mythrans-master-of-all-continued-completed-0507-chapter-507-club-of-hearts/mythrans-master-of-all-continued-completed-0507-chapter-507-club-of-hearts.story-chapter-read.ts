@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0507Chapter507ClubOfHearts = {
   ownLength: 3773,
   unit: "words",
   publishedAt: "2018-02-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/193460/chapter-507-club-of-hearts",
-  externalId: "193460",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "193460",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/193460/chapter-507-club-of-hearts",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

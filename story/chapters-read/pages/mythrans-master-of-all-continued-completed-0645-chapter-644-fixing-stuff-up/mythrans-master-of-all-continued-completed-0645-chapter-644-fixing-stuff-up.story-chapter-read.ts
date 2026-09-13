@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0645Chapter644FixingStuffUp = 
   ownLength: 2931,
   unit: "words",
   publishedAt: "2018-07-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/236021/chapter-644-fixing-stuff-up",
-  externalId: "236021",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "236021",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/236021/chapter-644-fixing-stuff-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0518Chapter518OutWeGo = {
   ownLength: 2370,
   unit: "words",
   publishedAt: "2018-02-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/196158/chapter-518-out-we-go",
-  externalId: "196158",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "196158",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/196158/chapter-518-out-we-go",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

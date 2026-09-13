@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0719Chapter718TheLastOne = {
   ownLength: 2618,
   unit: "words",
   publishedAt: "2018-10-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/295149/chapter-718-the-last-one",
-  externalId: "295149",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "295149",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/295149/chapter-718-the-last-one",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

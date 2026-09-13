@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0450Chapter450STheSStandsForSp
   ownLength: 2020,
   unit: "words",
   publishedAt: "2017-12-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/179994/chapter-450-s-the-s-stands-for-spoon",
-  externalId: "179994",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "179994",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/179994/chapter-450-s-the-s-stands-for-spoon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

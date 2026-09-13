@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0644Chapter643MarketShare = {
   ownLength: 3250,
   unit: "words",
   publishedAt: "2018-07-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/235686/chapter-643-market-share",
-  externalId: "235686",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "235686",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/235686/chapter-643-market-share",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

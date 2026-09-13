@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0438Chapter440XuunahRenHunter 
   ownLength: 3591,
   unit: "words",
   publishedAt: "2017-12-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/177947/chapter-440-xuunah-ren-hunter",
-  externalId: "177947",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "177947",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/177947/chapter-440-xuunah-ren-hunter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

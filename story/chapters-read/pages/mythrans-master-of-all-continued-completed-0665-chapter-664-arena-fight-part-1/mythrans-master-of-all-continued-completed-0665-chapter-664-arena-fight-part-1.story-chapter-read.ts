@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0665Chapter664ArenaFightPart1 
   ownLength: 3144,
   unit: "words",
   publishedAt: "2018-08-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/242407/chapter-664-arena-fight-part-1",
-  externalId: "242407",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "242407",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/242407/chapter-664-arena-fight-part-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

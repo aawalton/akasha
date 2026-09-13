@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0646Chapter645DinnerPlans = {
   ownLength: 2670,
   unit: "words",
   publishedAt: "2018-07-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/236351/chapter-645-dinner-plans",
-  externalId: "236351",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "236351",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/236351/chapter-645-dinner-plans",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

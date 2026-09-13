@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0530Chapter530FixingTheWall = 
   ownLength: 2360,
   unit: "words",
   publishedAt: "2018-03-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/199691/chapter-530-fixing-the-wall",
-  externalId: "199691",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "199691",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/199691/chapter-530-fixing-the-wall",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

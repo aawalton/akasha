@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0508Chapter508QualityTime = {
   ownLength: 3427,
   unit: "words",
   publishedAt: "2018-02-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/193691/chapter-508-quality-time",
-  externalId: "193691",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "193691",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/193691/chapter-508-quality-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

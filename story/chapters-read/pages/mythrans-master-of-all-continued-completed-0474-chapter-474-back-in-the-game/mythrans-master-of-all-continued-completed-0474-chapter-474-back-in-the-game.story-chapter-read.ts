@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0474Chapter474BackInTheGame = 
   ownLength: 3322,
   unit: "words",
   publishedAt: "2018-01-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/184881/chapter-474-back-in-the-game",
-  externalId: "184881",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "184881",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/184881/chapter-474-back-in-the-game",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

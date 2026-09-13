@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0479Chapter479GetTheBallRollin
   ownLength: 3116,
   unit: "words",
   publishedAt: "2018-01-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/185975/chapter-479-get-the-ball-rolling",
-  externalId: "185975",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "185975",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/185975/chapter-479-get-the-ball-rolling",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

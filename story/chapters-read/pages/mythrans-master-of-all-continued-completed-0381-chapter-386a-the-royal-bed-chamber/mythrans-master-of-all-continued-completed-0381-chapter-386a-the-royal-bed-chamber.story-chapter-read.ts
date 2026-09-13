@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0381Chapter386aTheRoyalBedCham
   ownLength: 2373,
   unit: "words",
   publishedAt: "2017-10-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167676/chapter-386a-the-royal-bed-chamber",
-  externalId: "167676",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "167676",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167676/chapter-386a-the-royal-bed-chamber",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

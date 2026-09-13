@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0622Chapter622IssacsShopAgain 
   ownLength: 2683,
   unit: "words",
   publishedAt: "2018-06-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/228567/chapter-622-issacs-shop-again",
-  externalId: "228567",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "228567",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/228567/chapter-622-issacs-shop-again",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

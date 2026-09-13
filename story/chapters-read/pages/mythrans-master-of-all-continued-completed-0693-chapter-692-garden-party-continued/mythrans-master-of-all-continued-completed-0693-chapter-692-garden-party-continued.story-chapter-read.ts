@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0693Chapter692GardenPartyConti
   ownLength: 3547,
   unit: "words",
   publishedAt: "2018-09-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/287998/chapter-692-garden-party-continued",
-  externalId: "287998",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "287998",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/287998/chapter-692-garden-party-continued",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

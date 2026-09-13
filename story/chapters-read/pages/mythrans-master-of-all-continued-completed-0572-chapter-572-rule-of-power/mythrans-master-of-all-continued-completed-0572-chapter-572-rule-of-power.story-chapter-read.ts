@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0572Chapter572RuleOfPower = {
   ownLength: 2548,
   unit: "words",
   publishedAt: "2018-04-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/212074/chapter-572-rule-of-power",
-  externalId: "212074",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "212074",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/212074/chapter-572-rule-of-power",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

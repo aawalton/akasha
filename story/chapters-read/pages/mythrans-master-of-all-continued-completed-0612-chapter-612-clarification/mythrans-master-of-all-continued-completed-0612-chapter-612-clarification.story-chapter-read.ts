@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0612Chapter612Clarification = 
   ownLength: 2672,
   unit: "words",
   publishedAt: "2018-06-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/225485/chapter-612-clarification",
-  externalId: "225485",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "225485",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/225485/chapter-612-clarification",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

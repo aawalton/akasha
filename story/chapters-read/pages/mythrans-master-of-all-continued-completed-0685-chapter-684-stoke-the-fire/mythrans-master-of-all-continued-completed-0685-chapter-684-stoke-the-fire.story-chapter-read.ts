@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0685Chapter684StokeTheFire = {
   ownLength: 2998,
   unit: "words",
   publishedAt: "2018-08-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/285908/chapter-684-stoke-the-fire",
-  externalId: "285908",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "285908",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/285908/chapter-684-stoke-the-fire",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0604Chapter604DianaDazzled = {
   ownLength: 3123,
   unit: "words",
   publishedAt: "2018-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/222906/chapter-604-diana-dazzled",
-  externalId: "222906",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "222906",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/222906/chapter-604-diana-dazzled",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

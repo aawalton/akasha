@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0503Chapter503GetThePartyGoing
   ownLength: 3295,
   unit: "words",
   publishedAt: "2018-02-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/192543/chapter-503-get-the-party-going",
-  externalId: "192543",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "192543",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/192543/chapter-503-get-the-party-going",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

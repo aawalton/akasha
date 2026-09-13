@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0413Chapter416WorkingThingsOut
   ownLength: 3956,
   unit: "words",
   publishedAt: "2017-11-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/173089/chapter-416-working-things-out",
-  externalId: "173089",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "173089",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/173089/chapter-416-working-things-out",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

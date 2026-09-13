@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0531Chapter531MopUpThisMess = 
   ownLength: 2258,
   unit: "words",
   publishedAt: "2018-03-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/199889/chapter-531-mop-up-this-mess",
-  externalId: "199889",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "199889",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/199889/chapter-531-mop-up-this-mess",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

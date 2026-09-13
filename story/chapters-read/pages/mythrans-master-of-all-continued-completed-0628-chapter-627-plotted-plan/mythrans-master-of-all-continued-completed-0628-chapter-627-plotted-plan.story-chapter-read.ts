@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0628Chapter627PlottedPlan = {
   ownLength: 2677,
   unit: "words",
   publishedAt: "2018-07-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/230198/chapter-627-plotted-plan",
-  externalId: "230198",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "230198",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/230198/chapter-627-plotted-plan",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

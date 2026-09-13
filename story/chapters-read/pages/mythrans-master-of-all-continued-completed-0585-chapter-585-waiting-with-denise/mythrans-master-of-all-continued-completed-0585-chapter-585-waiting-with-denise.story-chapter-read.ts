@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0585Chapter585WaitingWithDenis
   ownLength: 2682,
   unit: "words",
   publishedAt: "2018-05-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/215300/chapter-585-waiting-with-denise",
-  externalId: "215300",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "215300",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/215300/chapter-585-waiting-with-denise",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0426Chapter429Discovery = {
   ownLength: 3261,
   unit: "words",
   publishedAt: "2017-11-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/175811/chapter-429-discovery",
-  externalId: "175811",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "175811",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/175811/chapter-429-discovery",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

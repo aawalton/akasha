@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0388Chapter392BSexyButNotTooSe
   ownLength: 1663,
   unit: "words",
   publishedAt: "2017-10-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/168838/chapter-392-b-sexy-but-not-too-sexy",
-  externalId: "168838",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "168838",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/168838/chapter-392-b-sexy-but-not-too-sexy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

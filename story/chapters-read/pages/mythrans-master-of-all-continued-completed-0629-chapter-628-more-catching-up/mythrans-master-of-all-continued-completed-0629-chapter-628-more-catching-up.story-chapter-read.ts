@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0629Chapter628MoreCatchingUp =
   ownLength: 2541,
   unit: "words",
   publishedAt: "2018-07-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/230537/chapter-628-more-catching-up",
-  externalId: "230537",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "230537",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/230537/chapter-628-more-catching-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

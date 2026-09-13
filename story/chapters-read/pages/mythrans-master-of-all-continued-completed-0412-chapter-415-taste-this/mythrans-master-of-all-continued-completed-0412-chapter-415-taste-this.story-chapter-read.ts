@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0412Chapter415TasteThis = {
   ownLength: 3128,
   unit: "words",
   publishedAt: "2017-11-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/172865/chapter-415-taste-this",
-  externalId: "172865",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "172865",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/172865/chapter-415-taste-this",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

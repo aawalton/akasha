@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0620Chapter620WhatsGoingOn = {
   ownLength: 2799,
   unit: "words",
   publishedAt: "2018-06-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/227966/chapter-620-whats-going-on",
-  externalId: "227966",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "227966",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/227966/chapter-620-whats-going-on",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

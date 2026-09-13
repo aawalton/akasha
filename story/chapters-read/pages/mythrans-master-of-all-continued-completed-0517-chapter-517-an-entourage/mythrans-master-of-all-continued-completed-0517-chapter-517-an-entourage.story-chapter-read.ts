@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0517Chapter517AnEntourage = {
   ownLength: 2023,
   unit: "words",
   publishedAt: "2018-02-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/195942/chapter-517-an-entourage",
-  externalId: "195942",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "195942",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/195942/chapter-517-an-entourage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

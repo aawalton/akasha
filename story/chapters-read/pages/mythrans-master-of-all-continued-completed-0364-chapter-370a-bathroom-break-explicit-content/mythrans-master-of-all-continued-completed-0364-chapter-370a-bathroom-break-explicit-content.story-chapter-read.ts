@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0364Chapter370aBathroomBreakEx
   ownLength: 6127,
   unit: "words",
   publishedAt: "2017-09-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/164611/chapter-370a-bathroom-break-explicit-content",
-  externalId: "164611",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "164611",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/164611/chapter-370a-bathroom-break-explicit-content",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

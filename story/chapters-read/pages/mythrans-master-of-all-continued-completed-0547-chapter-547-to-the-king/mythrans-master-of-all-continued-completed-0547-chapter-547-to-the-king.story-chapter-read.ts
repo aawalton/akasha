@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0547Chapter547ToTheKing = {
   ownLength: 2729,
   unit: "words",
   publishedAt: "2018-04-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/205965/chapter-547-to-the-king",
-  externalId: "205965",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "205965",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/205965/chapter-547-to-the-king",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

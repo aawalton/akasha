@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0742Chapter741CaravanConundrum
   ownLength: 3017,
   unit: "words",
   publishedAt: "2018-10-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/300874/chapter-741-caravan-conundrum",
-  externalId: "300874",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "300874",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/300874/chapter-741-caravan-conundrum",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

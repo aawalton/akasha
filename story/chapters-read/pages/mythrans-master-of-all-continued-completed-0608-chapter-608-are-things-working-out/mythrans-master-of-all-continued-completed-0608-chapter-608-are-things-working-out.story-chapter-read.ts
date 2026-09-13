@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0608Chapter608AreThingsWorking
   ownLength: 2745,
   unit: "words",
   publishedAt: "2018-06-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/224214/chapter-608-are-things-working-out",
-  externalId: "224214",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "224214",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/224214/chapter-608-are-things-working-out",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

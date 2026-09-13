@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0636Chapter635MorningDiscussio
   ownLength: 2701,
   unit: "words",
   publishedAt: "2018-07-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/232909/chapter-635-morning-discussion",
-  externalId: "232909",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "232909",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/232909/chapter-635-morning-discussion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

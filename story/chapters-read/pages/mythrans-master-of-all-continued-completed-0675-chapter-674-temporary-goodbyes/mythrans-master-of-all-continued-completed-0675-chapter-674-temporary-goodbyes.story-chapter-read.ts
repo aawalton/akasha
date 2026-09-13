@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0675Chapter674TemporaryGoodbye
   ownLength: 2926,
   unit: "words",
   publishedAt: "2018-08-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/283075/chapter-674-temporary-goodbyes",
-  externalId: "283075",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "283075",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/283075/chapter-674-temporary-goodbyes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

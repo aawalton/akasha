@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0740Chapter739WrapThatUp = {
   ownLength: 2927,
   unit: "words",
   publishedAt: "2018-10-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/300373/chapter-739-wrap-that-up",
-  externalId: "300373",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "300373",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/300373/chapter-739-wrap-that-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

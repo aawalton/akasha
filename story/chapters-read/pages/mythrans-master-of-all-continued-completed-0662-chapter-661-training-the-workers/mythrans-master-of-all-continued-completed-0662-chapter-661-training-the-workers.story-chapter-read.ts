@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0662Chapter661TrainingTheWorke
   ownLength: 2984,
   unit: "words",
   publishedAt: "2018-08-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/241420/chapter-661-training-the-workers",
-  externalId: "241420",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "241420",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/241420/chapter-661-training-the-workers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

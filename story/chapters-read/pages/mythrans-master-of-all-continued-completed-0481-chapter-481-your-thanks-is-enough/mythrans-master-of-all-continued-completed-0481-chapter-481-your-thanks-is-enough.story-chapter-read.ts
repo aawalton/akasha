@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0481Chapter481YourThanksIsEnou
   ownLength: 3778,
   unit: "words",
   publishedAt: "2018-01-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/186409/chapter-481-your-thanks-is-enough",
-  externalId: "186409",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "186409",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/186409/chapter-481-your-thanks-is-enough",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0373Chapter379ClintsRanchAgain
   ownLength: 3898,
   unit: "words",
   publishedAt: "2017-10-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167066/chapter-379-clints-ranch-again",
-  externalId: "167066",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "167066",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167066/chapter-379-clints-ranch-again",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

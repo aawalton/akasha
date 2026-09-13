@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0710Chapter709TheNewSanctuary 
   ownLength: 3506,
   unit: "words",
   publishedAt: "2018-09-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/292959/chapter-709-the-new-sanctuary",
-  externalId: "292959",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "292959",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/292959/chapter-709-the-new-sanctuary",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

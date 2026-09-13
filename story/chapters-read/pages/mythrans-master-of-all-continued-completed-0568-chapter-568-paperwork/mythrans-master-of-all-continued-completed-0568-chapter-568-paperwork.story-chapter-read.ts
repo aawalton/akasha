@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0568Chapter568Paperwork = {
   ownLength: 3041,
   unit: "words",
   publishedAt: "2018-04-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/211153/chapter-568-paperwork",
-  externalId: "211153",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "211153",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/211153/chapter-568-paperwork",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

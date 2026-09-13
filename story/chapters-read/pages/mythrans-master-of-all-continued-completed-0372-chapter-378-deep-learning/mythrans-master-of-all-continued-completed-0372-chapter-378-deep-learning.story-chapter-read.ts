@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0372Chapter378DeepLearning = {
   ownLength: 3164,
   unit: "words",
   publishedAt: "2017-10-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/166089/chapter-378-deep-learning",
-  externalId: "166089",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "166089",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/166089/chapter-378-deep-learning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0731Chapter730CuddleSecrets = 
   ownLength: 2923,
   unit: "words",
   publishedAt: "2018-10-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/298124/chapter-730-cuddle-secrets",
-  externalId: "298124",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "298124",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/298124/chapter-730-cuddle-secrets",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

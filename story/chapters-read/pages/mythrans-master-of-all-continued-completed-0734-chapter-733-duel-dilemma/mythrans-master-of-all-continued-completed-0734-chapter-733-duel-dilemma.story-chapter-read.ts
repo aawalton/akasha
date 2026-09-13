@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0734Chapter733DuelDilemma = {
   ownLength: 3160,
   unit: "words",
   publishedAt: "2018-10-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/298936/chapter-733-duel-dilemma",
-  externalId: "298936",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "298936",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/298936/chapter-733-duel-dilemma",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

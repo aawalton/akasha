@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0565Chapter565BreakfastTimeAnd
   ownLength: 2926,
   unit: "words",
   publishedAt: "2018-04-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/210309/chapter-565-breakfast-time-and-a-half",
-  externalId: "210309",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "210309",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/210309/chapter-565-breakfast-time-and-a-half",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

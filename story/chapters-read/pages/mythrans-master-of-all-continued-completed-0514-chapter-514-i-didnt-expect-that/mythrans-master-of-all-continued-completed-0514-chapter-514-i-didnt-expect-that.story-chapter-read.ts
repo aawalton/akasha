@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0514Chapter514IDidntExpectThat
   ownLength: 3031,
   unit: "words",
   publishedAt: "2018-02-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/195080/chapter-514-i-didnt-expect-that",
-  externalId: "195080",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "195080",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/195080/chapter-514-i-didnt-expect-that",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

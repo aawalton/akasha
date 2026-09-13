@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0737Chapter736MoreToDo = {
   ownLength: 2837,
   unit: "words",
   publishedAt: "2018-10-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/299670/chapter-736-more-to-do",
-  externalId: "299670",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "299670",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/299670/chapter-736-more-to-do",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

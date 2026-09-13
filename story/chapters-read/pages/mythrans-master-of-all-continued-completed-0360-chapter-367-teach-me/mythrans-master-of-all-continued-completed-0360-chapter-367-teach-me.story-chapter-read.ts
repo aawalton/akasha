@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0360Chapter367TeachMe = {
   ownLength: 5136,
   unit: "words",
   publishedAt: "2017-09-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/163837/chapter-367-teach-me",
-  externalId: "163837",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "163837",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/163837/chapter-367-teach-me",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

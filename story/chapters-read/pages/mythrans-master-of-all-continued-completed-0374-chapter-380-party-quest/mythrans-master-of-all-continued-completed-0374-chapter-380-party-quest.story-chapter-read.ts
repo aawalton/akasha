@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0374Chapter380PartyQuest = {
   ownLength: 3345,
   unit: "words",
   publishedAt: "2017-10-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167075/chapter-380-party-quest",
-  externalId: "167075",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "167075",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167075/chapter-380-party-quest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

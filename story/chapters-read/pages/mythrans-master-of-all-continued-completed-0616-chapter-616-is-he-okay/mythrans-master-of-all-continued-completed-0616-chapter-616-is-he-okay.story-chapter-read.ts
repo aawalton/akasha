@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0616Chapter616IsHeOkay = {
   ownLength: 2950,
   unit: "words",
   publishedAt: "2018-06-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/226687/chapter-616-is-he-okay",
-  externalId: "226687",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "226687",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/226687/chapter-616-is-he-okay",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

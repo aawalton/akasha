@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0527Chapter527IsItOver = {
   ownLength: 2600,
   unit: "words",
   publishedAt: "2018-03-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/199010/chapter-527-is-it-over",
-  externalId: "199010",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "199010",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/199010/chapter-527-is-it-over",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

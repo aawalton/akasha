@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0485Chapter485IntoTheUnderworl
   ownLength: 3825,
   unit: "words",
   publishedAt: "2018-01-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/187440/chapter-485-into-the-underworld",
-  externalId: "187440",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "187440",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/187440/chapter-485-into-the-underworld",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

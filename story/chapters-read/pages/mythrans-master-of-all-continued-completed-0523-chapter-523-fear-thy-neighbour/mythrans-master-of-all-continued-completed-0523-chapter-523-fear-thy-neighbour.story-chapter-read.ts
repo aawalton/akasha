@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0523Chapter523FearThyNeighbour
   ownLength: 2097,
   unit: "words",
   publishedAt: "2018-02-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/197349/chapter-523-fear-thy-neighbour",
-  externalId: "197349",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "197349",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/197349/chapter-523-fear-thy-neighbour",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

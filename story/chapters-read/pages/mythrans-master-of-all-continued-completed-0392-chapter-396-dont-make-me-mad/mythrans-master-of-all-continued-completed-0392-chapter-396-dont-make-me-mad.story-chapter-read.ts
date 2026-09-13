@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0392Chapter396DontMakeMeMad = 
   ownLength: 3587,
   unit: "words",
   publishedAt: "2017-10-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/169487/chapter-396-dont-make-me-mad",
-  externalId: "169487",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "169487",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/169487/chapter-396-dont-make-me-mad",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

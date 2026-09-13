@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0617Chapter617CheckingHimOut =
   ownLength: 2814,
   unit: "words",
   publishedAt: "2018-06-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/226966/chapter-617-checking-him-out",
-  externalId: "226966",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "226966",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/226966/chapter-617-checking-him-out",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

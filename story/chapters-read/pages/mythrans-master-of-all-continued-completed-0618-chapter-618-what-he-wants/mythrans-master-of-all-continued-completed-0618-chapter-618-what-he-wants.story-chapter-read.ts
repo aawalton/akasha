@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0618Chapter618WhatHeWants = {
   ownLength: 2439,
   unit: "words",
   publishedAt: "2018-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/227251/chapter-618-what-he-wants",
-  externalId: "227251",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "227251",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/227251/chapter-618-what-he-wants",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

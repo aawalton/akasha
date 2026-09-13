@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0496Chapter496HoldYourHorses =
   ownLength: 3326,
   unit: "words",
   publishedAt: "2018-01-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/190705/chapter-496-hold-your-horses",
-  externalId: "190705",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "190705",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/190705/chapter-496-hold-your-horses",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

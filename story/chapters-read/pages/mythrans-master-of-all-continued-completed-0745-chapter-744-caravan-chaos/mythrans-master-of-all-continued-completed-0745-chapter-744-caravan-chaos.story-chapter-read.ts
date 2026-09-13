@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0745Chapter744CaravanChaos = {
   ownLength: 3285,
   unit: "words",
   publishedAt: "2018-10-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/301604/chapter-744-caravan-chaos",
-  externalId: "301604",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "301604",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/301604/chapter-744-caravan-chaos",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

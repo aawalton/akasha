@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0607Chapter607BackInTheFlow = 
   ownLength: 2932,
   unit: "words",
   publishedAt: "2018-06-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/223931/chapter-607-back-in-the-flow",
-  externalId: "223931",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "223931",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/223931/chapter-607-back-in-the-flow",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

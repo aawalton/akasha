@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0614Chapter614ComingToAHead = 
   ownLength: 2726,
   unit: "words",
   publishedAt: "2018-06-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/226059/chapter-614-coming-to-a-head",
-  externalId: "226059",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "226059",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/226059/chapter-614-coming-to-a-head",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

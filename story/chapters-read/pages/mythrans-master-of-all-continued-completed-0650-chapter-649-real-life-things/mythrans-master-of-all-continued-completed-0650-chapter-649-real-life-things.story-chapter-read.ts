@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0650Chapter649RealLifeThings =
   ownLength: 3270,
   unit: "words",
   publishedAt: "2018-07-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/237600/chapter-649-real-life-things",
-  externalId: "237600",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "237600",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/237600/chapter-649-real-life-things",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

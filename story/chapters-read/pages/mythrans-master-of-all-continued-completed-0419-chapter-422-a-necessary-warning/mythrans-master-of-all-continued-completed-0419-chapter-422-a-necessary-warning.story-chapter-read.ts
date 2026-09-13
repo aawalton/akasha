@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0419Chapter422ANecessaryWarnin
   ownLength: 3112,
   unit: "words",
   publishedAt: "2017-11-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/174406/chapter-422-a-necessary-warning",
-  externalId: "174406",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "174406",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/174406/chapter-422-a-necessary-warning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

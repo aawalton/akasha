@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0486Chapter486FixingMistakes =
   ownLength: 3677,
   unit: "words",
   publishedAt: "2018-01-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/187650/chapter-486-fixing-mistakes",
-  externalId: "187650",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "187650",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/187650/chapter-486-fixing-mistakes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0379Chapter385IAgree = {
   ownLength: 3810,
   unit: "words",
   publishedAt: "2017-10-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167345/chapter-385-i-agree",
-  externalId: "167345",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "167345",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167345/chapter-385-i-agree",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0698Chapter697TimeCanPassQuick
   ownLength: 3158,
   unit: "words",
   publishedAt: "2018-09-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/289347/chapter-697-time-can-pass-quickly",
-  externalId: "289347",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "289347",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/289347/chapter-697-time-can-pass-quickly",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

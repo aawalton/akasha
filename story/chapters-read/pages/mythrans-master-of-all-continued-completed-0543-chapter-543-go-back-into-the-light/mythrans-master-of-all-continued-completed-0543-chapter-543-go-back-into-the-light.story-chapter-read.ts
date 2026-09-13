@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0543Chapter543GoBackIntoTheLig
   ownLength: 2778,
   unit: "words",
   publishedAt: "2018-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/205005/chapter-543-go-back-into-the-light",
-  externalId: "205005",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "205005",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/205005/chapter-543-go-back-into-the-light",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

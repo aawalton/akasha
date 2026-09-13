@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0414Chapter417RestAndRelax = {
   ownLength: 3685,
   unit: "words",
   publishedAt: "2017-11-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/173268/chapter-417-rest-and-relax",
-  externalId: "173268",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "173268",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/173268/chapter-417-rest-and-relax",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

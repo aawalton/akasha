@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0455Chapter455NoOneToBlameButO
   ownLength: 3165,
   unit: "words",
   publishedAt: "2017-12-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/180943/chapter-455-no-one-to-blame-but-ourselves",
-  externalId: "180943",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "180943",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/180943/chapter-455-no-one-to-blame-but-ourselves",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

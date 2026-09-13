@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0669Chapter668WorkingOnIt = {
   ownLength: 3296,
   unit: "words",
   publishedAt: "2018-08-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/243577/chapter-668-working-on-it",
-  externalId: "243577",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "243577",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/243577/chapter-668-working-on-it",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

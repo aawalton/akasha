@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0444Chapter445ItWasDarkNowTher
   ownLength: 3231,
   unit: "words",
   publishedAt: "2017-12-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/178994/chapter-445-it-was-dark-now-theres-light",
-  externalId: "178994",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "178994",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/178994/chapter-445-it-was-dark-now-theres-light",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0506Chapter506ABitOfWhy = {
   ownLength: 3123,
   unit: "words",
   publishedAt: "2018-02-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/193192/chapter-506-a-bit-of-why",
-  externalId: "193192",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "193192",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/193192/chapter-506-a-bit-of-why",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0437Chapter439WorthAKiss = {
   ownLength: 3129,
   unit: "words",
   publishedAt: "2017-12-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/177749/chapter-439-worth-a-kiss",
-  externalId: "177749",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "177749",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/177749/chapter-439-worth-a-kiss",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

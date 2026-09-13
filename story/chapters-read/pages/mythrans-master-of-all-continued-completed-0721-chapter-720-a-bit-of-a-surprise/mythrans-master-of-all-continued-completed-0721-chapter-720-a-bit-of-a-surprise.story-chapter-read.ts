@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0721Chapter720ABitOfASurprise 
   ownLength: 2846,
   unit: "words",
   publishedAt: "2018-10-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/295625/chapter-720-a-bit-of-a-surprise",
-  externalId: "295625",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "295625",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/295625/chapter-720-a-bit-of-a-surprise",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

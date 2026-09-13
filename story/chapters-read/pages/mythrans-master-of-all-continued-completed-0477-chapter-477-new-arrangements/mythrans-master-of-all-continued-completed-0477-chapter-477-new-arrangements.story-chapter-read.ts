@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0477Chapter477NewArrangements 
   ownLength: 3454,
   unit: "words",
   publishedAt: "2018-01-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/185525/chapter-477-new-arrangements",
-  externalId: "185525",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "185525",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/185525/chapter-477-new-arrangements",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

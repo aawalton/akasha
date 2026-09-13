@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0582Chapter582Spawned = {
   ownLength: 2603,
   unit: "words",
   publishedAt: "2018-05-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/214625/chapter-582-spawned",
-  externalId: "214625",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "214625",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/214625/chapter-582-spawned",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

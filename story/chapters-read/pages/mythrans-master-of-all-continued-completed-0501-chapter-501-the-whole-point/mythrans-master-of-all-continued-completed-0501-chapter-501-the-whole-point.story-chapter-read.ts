@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0501Chapter501TheWholePoint = 
   ownLength: 3204,
   unit: "words",
   publishedAt: "2018-02-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/192016/chapter-501-the-whole-point",
-  externalId: "192016",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "192016",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/192016/chapter-501-the-whole-point",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

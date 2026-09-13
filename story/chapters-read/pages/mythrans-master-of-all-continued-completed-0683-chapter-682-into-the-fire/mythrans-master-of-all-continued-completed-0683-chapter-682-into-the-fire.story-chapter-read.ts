@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0683Chapter682IntoTheFire = {
   ownLength: 2813,
   unit: "words",
   publishedAt: "2018-08-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/285396/chapter-682-into-the-fire",
-  externalId: "285396",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "285396",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/285396/chapter-682-into-the-fire",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

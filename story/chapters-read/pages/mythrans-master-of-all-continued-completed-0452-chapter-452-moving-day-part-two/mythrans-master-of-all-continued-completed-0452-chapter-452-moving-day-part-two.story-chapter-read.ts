@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0452Chapter452MovingDayPartTwo
   ownLength: 3264,
   unit: "words",
   publishedAt: "2017-12-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/180331/chapter-452-moving-day-part-two",
-  externalId: "180331",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "180331",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/180331/chapter-452-moving-day-part-two",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

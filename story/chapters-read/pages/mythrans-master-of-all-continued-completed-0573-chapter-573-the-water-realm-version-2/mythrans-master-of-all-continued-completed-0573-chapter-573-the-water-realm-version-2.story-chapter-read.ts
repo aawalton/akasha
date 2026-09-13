@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0573Chapter573TheWaterRealmVer
   ownLength: 2769,
   unit: "words",
   publishedAt: "2018-05-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/212366/chapter-573-the-water-realm-version-2",
-  externalId: "212366",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "212366",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/212366/chapter-573-the-water-realm-version-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

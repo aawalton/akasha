@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0625Chapter624AArtemisRisingEx
   ownLength: 2938,
   unit: "words",
   publishedAt: "2018-07-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/229882/chapter-624-a-artemis-rising-explicit-content",
-  externalId: "229882",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "229882",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/229882/chapter-624-a-artemis-rising-explicit-content",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0428Chapter431HugsAreAlwaysWel
   ownLength: 3213,
   unit: "words",
   publishedAt: "2017-11-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/176180/chapter-431-hugs-are-always-welcome",
-  externalId: "176180",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "176180",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/176180/chapter-431-hugs-are-always-welcome",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

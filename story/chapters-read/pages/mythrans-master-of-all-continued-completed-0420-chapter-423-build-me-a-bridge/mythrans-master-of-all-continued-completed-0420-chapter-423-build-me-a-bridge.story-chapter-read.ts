@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0420Chapter423BuildMeABridge =
   ownLength: 3671,
   unit: "words",
   publishedAt: "2017-11-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/174590/chapter-423-build-me-a-bridge",
-  externalId: "174590",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "174590",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/174590/chapter-423-build-me-a-bridge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

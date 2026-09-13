@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0724Chapter723MakeAnException 
   ownLength: 3559,
   unit: "words",
   publishedAt: "2018-10-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/296387/chapter-723-make-an-exception",
-  externalId: "296387",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "296387",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/296387/chapter-723-make-an-exception",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

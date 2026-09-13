@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0494Chapter494ANewProblem = {
   ownLength: 2701,
   unit: "words",
   publishedAt: "2018-01-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/190155/chapter-494-a-new-problem",
-  externalId: "190155",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "190155",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/190155/chapter-494-a-new-problem",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0708Chapter707MakingThingsClea
   ownLength: 3038,
   unit: "words",
   publishedAt: "2018-09-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/292401/chapter-707-making-things-clear",
-  externalId: "292401",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "292401",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/292401/chapter-707-making-things-clear",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

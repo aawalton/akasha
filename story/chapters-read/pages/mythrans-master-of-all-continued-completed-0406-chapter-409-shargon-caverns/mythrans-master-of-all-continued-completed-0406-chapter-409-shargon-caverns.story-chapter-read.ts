@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0406Chapter409ShargonCaverns =
   ownLength: 3558,
   unit: "words",
   publishedAt: "2017-11-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/171651/chapter-409-shargon-caverns",
-  externalId: "171651",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "171651",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/171651/chapter-409-shargon-caverns",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

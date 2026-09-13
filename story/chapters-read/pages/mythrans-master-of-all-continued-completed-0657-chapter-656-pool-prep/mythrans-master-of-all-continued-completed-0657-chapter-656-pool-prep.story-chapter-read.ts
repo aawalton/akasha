@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0657Chapter656PoolPrep = {
   ownLength: 3030,
   unit: "words",
   publishedAt: "2018-08-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/240081/chapter-656-pool-prep",
-  externalId: "240081",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "240081",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/240081/chapter-656-pool-prep",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

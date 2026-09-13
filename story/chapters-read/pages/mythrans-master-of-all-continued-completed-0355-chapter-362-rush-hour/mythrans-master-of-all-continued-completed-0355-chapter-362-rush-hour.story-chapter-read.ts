@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0355Chapter362RushHour = {
   ownLength: 4486,
   unit: "words",
   publishedAt: "2017-09-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/163117/chapter-362-rush-hour",
-  externalId: "163117",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "163117",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/163117/chapter-362-rush-hour",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

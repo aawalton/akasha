@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0653Chapter652BackToWalinCount
   ownLength: 2924,
   unit: "words",
   publishedAt: "2018-07-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/238586/chapter-652-back-to-walin-county",
-  externalId: "238586",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "238586",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/238586/chapter-652-back-to-walin-county",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

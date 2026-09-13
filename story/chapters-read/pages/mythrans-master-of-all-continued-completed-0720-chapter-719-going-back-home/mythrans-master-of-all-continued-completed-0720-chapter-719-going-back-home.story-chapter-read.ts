@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0720Chapter719GoingBackHome = 
   ownLength: 3207,
   unit: "words",
   publishedAt: "2018-10-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/295398/chapter-719-going-back-home",
-  externalId: "295398",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "295398",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/295398/chapter-719-going-back-home",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

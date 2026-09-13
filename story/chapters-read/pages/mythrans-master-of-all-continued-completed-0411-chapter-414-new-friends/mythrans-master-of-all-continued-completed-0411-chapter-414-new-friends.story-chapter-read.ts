@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0411Chapter414NewFriends = {
   ownLength: 3322,
   unit: "words",
   publishedAt: "2017-11-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/172660/chapter-414-new-friends",
-  externalId: "172660",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "172660",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/172660/chapter-414-new-friends",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

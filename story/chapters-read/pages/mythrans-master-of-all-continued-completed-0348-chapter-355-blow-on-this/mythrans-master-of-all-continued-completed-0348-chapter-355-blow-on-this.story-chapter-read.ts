@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0348Chapter355BlowOnThis = {
   ownLength: 3621,
   unit: "words",
   publishedAt: "2017-09-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/160567/chapter-355-blow-on-this",
-  externalId: "160567",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "160567",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/160567/chapter-355-blow-on-this",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

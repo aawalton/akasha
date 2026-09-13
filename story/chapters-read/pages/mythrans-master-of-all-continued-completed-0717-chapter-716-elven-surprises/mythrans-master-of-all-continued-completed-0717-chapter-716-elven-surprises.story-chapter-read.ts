@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0717Chapter716ElvenSurprises =
   ownLength: 3450,
   unit: "words",
   publishedAt: "2018-09-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/294636/chapter-716-elven-surprises",
-  externalId: "294636",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "294636",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/294636/chapter-716-elven-surprises",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

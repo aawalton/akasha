@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0588Chapter588DenisesDate = {
   ownLength: 2764,
   unit: "words",
   publishedAt: "2018-05-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/216176/chapter-588-denises-date",
-  externalId: "216176",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "216176",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/216176/chapter-588-denises-date",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0549Chapter549MoreMeetings = {
   ownLength: 2612,
   unit: "words",
   publishedAt: "2018-04-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/206432/chapter-549-more-meetings",
-  externalId: "206432",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "206432",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/206432/chapter-549-more-meetings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

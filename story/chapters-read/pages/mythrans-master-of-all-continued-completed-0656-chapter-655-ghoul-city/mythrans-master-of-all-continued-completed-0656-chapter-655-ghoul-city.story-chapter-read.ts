@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0656Chapter655GhoulCity = {
   ownLength: 2681,
   unit: "words",
   publishedAt: "2018-08-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/239817/chapter-655-ghoul-city",
-  externalId: "239817",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "239817",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/239817/chapter-655-ghoul-city",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

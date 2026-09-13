@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0560Chapter560CookForMeBaby = 
   ownLength: 2594,
   unit: "words",
   publishedAt: "2018-04-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/209034/chapter-560-cook-for-me-baby",
-  externalId: "209034",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "209034",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/209034/chapter-560-cook-for-me-baby",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

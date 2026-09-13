@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0476Chapter476GhoulGrinding = 
   ownLength: 3096,
   unit: "words",
   publishedAt: "2018-01-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/185284/chapter-476-ghoul-grinding",
-  externalId: "185284",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "185284",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/185284/chapter-476-ghoul-grinding",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

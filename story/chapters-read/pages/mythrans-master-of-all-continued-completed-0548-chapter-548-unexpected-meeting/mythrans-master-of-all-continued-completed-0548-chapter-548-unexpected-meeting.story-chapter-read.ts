@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0548Chapter548UnexpectedMeetin
   ownLength: 2893,
   unit: "words",
   publishedAt: "2018-04-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/206184/chapter-548-unexpected-meeting",
-  externalId: "206184",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "206184",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/206184/chapter-548-unexpected-meeting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

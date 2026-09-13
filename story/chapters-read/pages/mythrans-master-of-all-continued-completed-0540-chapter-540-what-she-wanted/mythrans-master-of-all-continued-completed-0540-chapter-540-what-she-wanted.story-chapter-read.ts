@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0540Chapter540WhatSheWanted = 
   ownLength: 3061,
   unit: "words",
   publishedAt: "2018-03-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/204313/chapter-540-what-she-wanted",
-  externalId: "204313",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "204313",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/204313/chapter-540-what-she-wanted",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

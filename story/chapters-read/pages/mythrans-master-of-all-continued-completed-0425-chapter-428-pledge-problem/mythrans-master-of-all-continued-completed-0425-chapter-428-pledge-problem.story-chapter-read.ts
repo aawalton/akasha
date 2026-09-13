@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0425Chapter428PledgeProblem = 
   ownLength: 3268,
   unit: "words",
   publishedAt: "2017-11-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/175618/chapter-428-pledge-problem",
-  externalId: "175618",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "175618",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/175618/chapter-428-pledge-problem",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

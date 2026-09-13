@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0712Chapter711HotUnderTheColla
   ownLength: 2946,
   unit: "words",
   publishedAt: "2018-09-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/293467/chapter-711-hot-under-the-collar",
-  externalId: "293467",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "293467",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/293467/chapter-711-hot-under-the-collar",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

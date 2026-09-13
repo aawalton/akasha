@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0362Chapter369Teaser = {
   ownLength: 4567,
   unit: "words",
   publishedAt: "2017-09-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/164247/chapter-369-teaser",
-  externalId: "164247",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "164247",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/164247/chapter-369-teaser",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

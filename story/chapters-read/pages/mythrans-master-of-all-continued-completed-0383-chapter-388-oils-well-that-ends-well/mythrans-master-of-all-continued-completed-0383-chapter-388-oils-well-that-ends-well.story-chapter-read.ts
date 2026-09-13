@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0383Chapter388OilsWellThatEnds
   ownLength: 4231,
   unit: "words",
   publishedAt: "2017-10-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167922/chapter-388-oils-well-that-ends-well",
-  externalId: "167922",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "167922",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167922/chapter-388-oils-well-that-ends-well",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

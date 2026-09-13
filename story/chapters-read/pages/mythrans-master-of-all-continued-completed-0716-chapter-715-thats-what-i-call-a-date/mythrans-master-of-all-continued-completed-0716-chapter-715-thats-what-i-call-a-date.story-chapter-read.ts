@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0716Chapter715ThatsWhatICallAD
   ownLength: 2927,
   unit: "words",
   publishedAt: "2018-09-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/294453/chapter-715-thats-what-i-call-a-date",
-  externalId: "294453",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "294453",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/294453/chapter-715-thats-what-i-call-a-date",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

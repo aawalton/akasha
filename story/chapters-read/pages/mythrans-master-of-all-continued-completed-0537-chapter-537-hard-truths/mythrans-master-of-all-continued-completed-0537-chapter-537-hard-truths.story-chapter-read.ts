@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0537Chapter537HardTruths = {
   ownLength: 3399,
   unit: "words",
   publishedAt: "2018-03-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/203613/chapter-537-hard-truths",
-  externalId: "203613",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "203613",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/203613/chapter-537-hard-truths",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

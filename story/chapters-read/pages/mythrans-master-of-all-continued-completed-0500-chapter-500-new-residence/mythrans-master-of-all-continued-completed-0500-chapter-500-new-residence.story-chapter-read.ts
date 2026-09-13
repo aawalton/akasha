@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0500Chapter500NewResidence = {
   ownLength: 5127,
   unit: "words",
   publishedAt: "2018-02-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/191756/chapter-500-new-residence",
-  externalId: "191756",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "191756",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/191756/chapter-500-new-residence",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0385Chapter390GetThem = {
   ownLength: 3143,
   unit: "words",
   publishedAt: "2017-10-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/168435/chapter-390-get-them",
-  externalId: "168435",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "168435",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/168435/chapter-390-get-them",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

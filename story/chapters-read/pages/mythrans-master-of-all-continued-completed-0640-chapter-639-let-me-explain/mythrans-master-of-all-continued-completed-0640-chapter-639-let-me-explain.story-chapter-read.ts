@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0640Chapter639LetMeExplain = {
   ownLength: 2773,
   unit: "words",
   publishedAt: "2018-07-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/234259/chapter-639-let-me-explain",
-  externalId: "234259",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "234259",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/234259/chapter-639-let-me-explain",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

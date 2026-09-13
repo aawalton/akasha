@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0733Chapter732ANewKingdom = {
   ownLength: 3428,
   unit: "words",
   publishedAt: "2018-10-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/298673/chapter-732-a-new-kingdom",
-  externalId: "298673",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "298673",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/298673/chapter-732-a-new-kingdom",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

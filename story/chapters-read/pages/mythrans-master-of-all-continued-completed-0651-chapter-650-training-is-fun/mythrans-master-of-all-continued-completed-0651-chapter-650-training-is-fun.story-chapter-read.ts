@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0651Chapter650TrainingIsFun = 
   ownLength: 5862,
   unit: "words",
   publishedAt: "2018-07-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/237923/chapter-650-training-is-fun",
-  externalId: "237923",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "237923",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/237923/chapter-650-training-is-fun",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

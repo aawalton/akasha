@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0429Chapter432YouveGotTheTouch
   ownLength: 3909,
   unit: "words",
   publishedAt: "2017-11-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/176354/chapter-432-youve-got-the-touch",
-  externalId: "176354",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "176354",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/176354/chapter-432-youve-got-the-touch",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

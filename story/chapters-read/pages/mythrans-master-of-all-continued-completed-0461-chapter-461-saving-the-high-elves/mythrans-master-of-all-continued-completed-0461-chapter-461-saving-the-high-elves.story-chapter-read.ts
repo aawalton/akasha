@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0461Chapter461SavingTheHighElv
   ownLength: 3442,
   unit: "words",
   publishedAt: "2017-12-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/182135/chapter-461-saving-the-high-elves",
-  externalId: "182135",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "182135",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/182135/chapter-461-saving-the-high-elves",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

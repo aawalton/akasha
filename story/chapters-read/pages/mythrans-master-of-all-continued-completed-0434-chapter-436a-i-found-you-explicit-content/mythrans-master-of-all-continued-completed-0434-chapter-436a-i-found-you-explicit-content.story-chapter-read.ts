@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0434Chapter436aIFoundYouExplic
   ownLength: 3955,
   unit: "words",
   publishedAt: "2017-11-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/177280/chapter-436a-i-found-you-explicit-content",
-  externalId: "177280",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "177280",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/177280/chapter-436a-i-found-you-explicit-content",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

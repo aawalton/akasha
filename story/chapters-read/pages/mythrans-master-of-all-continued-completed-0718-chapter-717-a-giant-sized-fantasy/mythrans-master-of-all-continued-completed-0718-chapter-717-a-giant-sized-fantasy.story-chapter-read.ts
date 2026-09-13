@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0718Chapter717AGiantSizedFanta
   ownLength: 3502,
   unit: "words",
   publishedAt: "2018-10-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/294886/chapter-717-a-giant-sized-fantasy",
-  externalId: "294886",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "294886",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/294886/chapter-717-a-giant-sized-fantasy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

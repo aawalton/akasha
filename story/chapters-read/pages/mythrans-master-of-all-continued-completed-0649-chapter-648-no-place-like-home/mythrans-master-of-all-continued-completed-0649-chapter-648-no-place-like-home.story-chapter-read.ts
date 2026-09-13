@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0649Chapter648NoPlaceLikeHome 
   ownLength: 2827,
   unit: "words",
   publishedAt: "2018-07-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/237280/chapter-648-no-place-like-home",
-  externalId: "237280",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "237280",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/237280/chapter-648-no-place-like-home",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

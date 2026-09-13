@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0727Chapter726ACoupleMoreMeeti
   ownLength: 3109,
   unit: "words",
   publishedAt: "2018-10-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/297132/chapter-726-a-couple-more-meetings",
-  externalId: "297132",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "297132",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/297132/chapter-726-a-couple-more-meetings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

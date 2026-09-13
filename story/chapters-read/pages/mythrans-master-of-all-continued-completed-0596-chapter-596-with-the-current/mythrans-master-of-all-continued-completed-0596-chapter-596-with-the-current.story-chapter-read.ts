@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0596Chapter596WithTheCurrent =
   ownLength: 2831,
   unit: "words",
   publishedAt: "2018-05-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/218237/chapter-596-with-the-current",
-  externalId: "218237",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "218237",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/218237/chapter-596-with-the-current",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

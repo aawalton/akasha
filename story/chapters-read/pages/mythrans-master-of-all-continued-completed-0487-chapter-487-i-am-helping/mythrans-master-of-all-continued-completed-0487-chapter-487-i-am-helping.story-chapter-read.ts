@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0487Chapter487IAmHelping = {
   ownLength: 3584,
   unit: "words",
   publishedAt: "2018-01-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/187926/chapter-487-i-am-helping",
-  externalId: "187926",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "187926",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/187926/chapter-487-i-am-helping",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

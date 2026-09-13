@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0460Chapter460OnTheirWay = {
   ownLength: 3112,
   unit: "words",
   publishedAt: "2017-12-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/181942/chapter-460-on-their-way",
-  externalId: "181942",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "181942",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/181942/chapter-460-on-their-way",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

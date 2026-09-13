@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0376Chapter382TheHunt = {
   ownLength: 3611,
   unit: "words",
   publishedAt: "2017-10-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167087/chapter-382-the-hunt",
-  externalId: "167087",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "167087",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167087/chapter-382-the-hunt",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

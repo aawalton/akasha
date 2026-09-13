@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0602Chapter602FatedMeeting = {
   ownLength: 2887,
   unit: "words",
   publishedAt: "2018-05-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/219840/chapter-602-fated-meeting",
-  externalId: "219840",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "219840",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/219840/chapter-602-fated-meeting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

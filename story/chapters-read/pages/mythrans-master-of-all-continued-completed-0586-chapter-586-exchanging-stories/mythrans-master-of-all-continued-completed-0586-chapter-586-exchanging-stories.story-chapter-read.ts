@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0586Chapter586ExchangingStorie
   ownLength: 2879,
   unit: "words",
   publishedAt: "2018-05-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/215546/chapter-586-exchanging-stories",
-  externalId: "215546",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "215546",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/215546/chapter-586-exchanging-stories",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

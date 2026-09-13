@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0493Chapter493BuildingPlans = 
   ownLength: 3205,
   unit: "words",
   publishedAt: "2018-01-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/189902/chapter-493-building-plans",
-  externalId: "189902",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "189902",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/189902/chapter-493-building-plans",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

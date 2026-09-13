@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0677Chapter676Episode6Part2 = 
   ownLength: 2954,
   unit: "words",
   publishedAt: "2018-08-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/283685/chapter-676-episode-6-part-2",
-  externalId: "283685",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "283685",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/283685/chapter-676-episode-6-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

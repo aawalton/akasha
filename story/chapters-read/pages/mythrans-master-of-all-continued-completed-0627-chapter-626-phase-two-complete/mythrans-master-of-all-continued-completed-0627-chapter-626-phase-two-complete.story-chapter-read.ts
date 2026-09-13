@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0627Chapter626PhaseTwoComplete
   ownLength: 2752,
   unit: "words",
   publishedAt: "2018-07-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/229889/chapter-626-phase-two-complete",
-  externalId: "229889",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "229889",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/229889/chapter-626-phase-two-complete",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

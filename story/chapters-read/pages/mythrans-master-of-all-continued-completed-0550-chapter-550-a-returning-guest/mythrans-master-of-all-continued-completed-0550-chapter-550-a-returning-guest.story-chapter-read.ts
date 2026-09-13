@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0550Chapter550AReturningGuest 
   ownLength: 2680,
   unit: "words",
   publishedAt: "2018-04-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/206686/chapter-550-a-returning-guest",
-  externalId: "206686",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "206686",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/206686/chapter-550-a-returning-guest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

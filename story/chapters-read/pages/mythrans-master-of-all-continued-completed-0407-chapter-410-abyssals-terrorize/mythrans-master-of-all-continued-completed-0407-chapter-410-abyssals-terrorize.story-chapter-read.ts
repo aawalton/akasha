@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0407Chapter410AbyssalsTerroriz
   ownLength: 3329,
   unit: "words",
   publishedAt: "2017-11-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/171814/chapter-410-abyssals-terrorize",
-  externalId: "171814",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "171814",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/171814/chapter-410-abyssals-terrorize",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

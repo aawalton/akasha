@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0423Chapter426SweetNectar = {
   ownLength: 3594,
   unit: "words",
   publishedAt: "2017-11-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/175216/chapter-426-sweet-nectar",
-  externalId: "175216",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "175216",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/175216/chapter-426-sweet-nectar",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

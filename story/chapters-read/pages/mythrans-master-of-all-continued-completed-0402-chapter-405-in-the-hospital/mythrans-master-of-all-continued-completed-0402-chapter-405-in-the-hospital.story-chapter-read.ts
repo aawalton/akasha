@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0402Chapter405InTheHospital = 
   ownLength: 2846,
   unit: "words",
   publishedAt: "2017-10-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/170983/chapter-405-in-the-hospital",
-  externalId: "170983",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "170983",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/170983/chapter-405-in-the-hospital",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

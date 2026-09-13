@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0623Chapter623StartOfThePlan =
   ownLength: 2861,
   unit: "words",
   publishedAt: "2018-06-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/228901/chapter-623-start-of-the-plan",
-  externalId: "228901",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "228901",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/228901/chapter-623-start-of-the-plan",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

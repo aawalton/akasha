@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0714Chapter713ConflictOfIntere
   ownLength: 2559,
   unit: "words",
   publishedAt: "2018-09-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/293944/chapter-713-conflict-of-interest",
-  externalId: "293944",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "293944",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/293944/chapter-713-conflict-of-interest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0591Chapter591BusinessDealings
   ownLength: 2946,
   unit: "words",
   publishedAt: "2018-05-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/216981/chapter-591-business-dealings",
-  externalId: "216981",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "216981",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/216981/chapter-591-business-dealings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

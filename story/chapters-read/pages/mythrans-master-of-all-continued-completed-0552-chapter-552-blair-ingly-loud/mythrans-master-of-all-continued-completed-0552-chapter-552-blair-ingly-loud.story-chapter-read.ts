@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0552Chapter552BlairInglyLoud =
   ownLength: 2729,
   unit: "words",
   publishedAt: "2018-04-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/207182/chapter-552-blair-ingly-loud",
-  externalId: "207182",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "207182",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/207182/chapter-552-blair-ingly-loud",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

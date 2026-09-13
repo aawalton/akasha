@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0681Chapter680GoingForAStroll 
   ownLength: 3180,
   unit: "words",
   publishedAt: "2018-08-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/284871/chapter-680-going-for-a-stroll",
-  externalId: "284871",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "284871",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/284871/chapter-680-going-for-a-stroll",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

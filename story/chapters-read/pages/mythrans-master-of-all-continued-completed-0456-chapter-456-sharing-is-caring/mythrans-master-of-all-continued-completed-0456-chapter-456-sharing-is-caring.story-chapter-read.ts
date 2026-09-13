@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0456Chapter456SharingIsCaring 
   ownLength: 3698,
   unit: "words",
   publishedAt: "2017-12-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/181160/chapter-456-sharing-is-caring",
-  externalId: "181160",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "181160",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/181160/chapter-456-sharing-is-caring",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

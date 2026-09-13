@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0648Chapter647AfterDinnerParty
   ownLength: 3048,
   unit: "words",
   publishedAt: "2018-07-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/236964/chapter-647-after-dinner-party",
-  externalId: "236964",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "236964",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/236964/chapter-647-after-dinner-party",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

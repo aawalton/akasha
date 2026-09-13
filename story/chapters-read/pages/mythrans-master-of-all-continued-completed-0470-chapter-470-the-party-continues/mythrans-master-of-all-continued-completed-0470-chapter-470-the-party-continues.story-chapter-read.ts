@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0470Chapter470ThePartyContinue
   ownLength: 3290,
   unit: "words",
   publishedAt: "2018-01-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/184074/chapter-470-the-party-continues",
-  externalId: "184074",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "184074",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/184074/chapter-470-the-party-continues",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

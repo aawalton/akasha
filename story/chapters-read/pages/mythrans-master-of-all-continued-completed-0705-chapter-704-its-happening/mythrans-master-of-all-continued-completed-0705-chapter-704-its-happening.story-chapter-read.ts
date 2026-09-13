@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0705Chapter704ItsHappening = {
   ownLength: 3357,
   unit: "words",
   publishedAt: "2018-09-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/291384/chapter-704-its-happening",
-  externalId: "291384",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "291384",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/291384/chapter-704-its-happening",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

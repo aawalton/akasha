@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0709Chapter708SharingSomeTruth
   ownLength: 2928,
   unit: "words",
   publishedAt: "2018-09-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/292718/chapter-708-sharing-some-truths",
-  externalId: "292718",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "292718",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/292718/chapter-708-sharing-some-truths",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

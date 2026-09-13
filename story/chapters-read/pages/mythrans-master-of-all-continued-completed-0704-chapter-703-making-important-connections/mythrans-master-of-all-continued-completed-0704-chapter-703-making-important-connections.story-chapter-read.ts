@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0704Chapter703MakingImportantC
   ownLength: 3190,
   unit: "words",
   publishedAt: "2018-09-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/291109/chapter-703-making-important-connections",
-  externalId: "291109",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "291109",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/291109/chapter-703-making-important-connections",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

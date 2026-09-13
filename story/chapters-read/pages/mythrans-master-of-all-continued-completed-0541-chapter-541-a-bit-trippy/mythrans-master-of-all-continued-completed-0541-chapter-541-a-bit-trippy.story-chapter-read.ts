@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0541Chapter541ABitTrippy = {
   ownLength: 2622,
   unit: "words",
   publishedAt: "2018-03-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/204510/chapter-541-a-bit-trippy",
-  externalId: "204510",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "204510",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/204510/chapter-541-a-bit-trippy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

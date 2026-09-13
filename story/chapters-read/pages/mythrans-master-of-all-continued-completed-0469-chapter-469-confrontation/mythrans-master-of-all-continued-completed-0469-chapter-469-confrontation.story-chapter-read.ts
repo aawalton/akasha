@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0469Chapter469Confrontation = 
   ownLength: 3363,
   unit: "words",
   publishedAt: "2018-01-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/183866/chapter-469-confrontation",
-  externalId: "183866",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "183866",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/183866/chapter-469-confrontation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0356Chapter363HealingHands = {
   ownLength: 4932,
   unit: "words",
   publishedAt: "2017-09-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/163272/chapter-363-healing-hands",
-  externalId: "163272",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "163272",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/163272/chapter-363-healing-hands",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

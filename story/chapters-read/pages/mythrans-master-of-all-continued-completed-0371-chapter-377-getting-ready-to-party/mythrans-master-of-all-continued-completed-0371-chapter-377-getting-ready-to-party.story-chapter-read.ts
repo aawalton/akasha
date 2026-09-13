@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0371Chapter377GettingReadyToPa
   ownLength: 3677,
   unit: "words",
   publishedAt: "2017-10-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/165904/chapter-377-getting-ready-to-party",
-  externalId: "165904",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "165904",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/165904/chapter-377-getting-ready-to-party",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

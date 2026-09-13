@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0445Chapter446LikeAnAngel = {
   ownLength: 3202,
   unit: "words",
   publishedAt: "2017-12-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/179194/chapter-446-like-an-angel",
-  externalId: "179194",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "179194",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/179194/chapter-446-like-an-angel",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0458Chapter458ArmorMeUp = {
   ownLength: 3217,
   unit: "words",
   publishedAt: "2017-12-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/181558/chapter-458-armor-me-up",
-  externalId: "181558",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "181558",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/181558/chapter-458-armor-me-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

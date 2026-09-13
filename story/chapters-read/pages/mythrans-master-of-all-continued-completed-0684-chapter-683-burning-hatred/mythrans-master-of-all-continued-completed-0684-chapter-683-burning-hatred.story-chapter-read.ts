@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0684Chapter683BurningHatred = 
   ownLength: 2814,
   unit: "words",
   publishedAt: "2018-08-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/285660/chapter-683-burning-hatred",
-  externalId: "285660",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "285660",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/285660/chapter-683-burning-hatred",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

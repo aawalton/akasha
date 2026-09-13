@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0574Chapter574IfYouAskedMeTo =
   ownLength: 2622,
   unit: "words",
   publishedAt: "2018-05-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/212722/chapter-574-if-you-asked-me-to",
-  externalId: "212722",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "212722",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/212722/chapter-574-if-you-asked-me-to",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

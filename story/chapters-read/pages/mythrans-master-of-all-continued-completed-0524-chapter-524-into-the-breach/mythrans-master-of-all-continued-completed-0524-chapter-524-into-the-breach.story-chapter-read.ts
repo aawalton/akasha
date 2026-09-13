@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0524Chapter524IntoTheBreach = 
   ownLength: 2580,
   unit: "words",
   publishedAt: "2018-02-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/197533/chapter-524-into-the-breach",
-  externalId: "197533",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "197533",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/197533/chapter-524-into-the-breach",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

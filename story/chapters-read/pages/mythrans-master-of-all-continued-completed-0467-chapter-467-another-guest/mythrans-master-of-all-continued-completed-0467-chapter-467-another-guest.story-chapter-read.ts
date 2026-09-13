@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0467Chapter467AnotherGuest = {
   ownLength: 3186,
   unit: "words",
   publishedAt: "2017-12-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/183454/chapter-467-another-guest",
-  externalId: "183454",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "183454",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/183454/chapter-467-another-guest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

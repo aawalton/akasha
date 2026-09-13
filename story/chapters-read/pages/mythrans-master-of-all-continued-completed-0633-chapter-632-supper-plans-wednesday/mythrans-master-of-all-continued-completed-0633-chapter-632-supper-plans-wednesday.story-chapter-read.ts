@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0633Chapter632SupperPlansWedne
   ownLength: 3159,
   unit: "words",
   publishedAt: "2018-07-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/231980/chapter-632-supper-plans-wednesday",
-  externalId: "231980",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "231980",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/231980/chapter-632-supper-plans-wednesday",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0606Chapter606EndingTheDay = {
   ownLength: 2801,
   unit: "words",
   publishedAt: "2018-06-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/223621/chapter-606-ending-the-day",
-  externalId: "223621",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "223621",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/223621/chapter-606-ending-the-day",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

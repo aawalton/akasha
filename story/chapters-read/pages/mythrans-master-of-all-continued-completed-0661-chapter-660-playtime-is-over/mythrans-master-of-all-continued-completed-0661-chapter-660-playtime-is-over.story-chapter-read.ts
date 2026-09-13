@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0661Chapter660PlaytimeIsOver =
   ownLength: 3272,
   unit: "words",
   publishedAt: "2018-08-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/241394/chapter-660-playtime-is-over",
-  externalId: "241394",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "241394",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/241394/chapter-660-playtime-is-over",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0736Chapter735CodeDuello = {
   ownLength: 3950,
   unit: "words",
   publishedAt: "2018-10-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/299445/chapter-735-code-duello",
-  externalId: "299445",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "299445",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/299445/chapter-735-code-duello",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

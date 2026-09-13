@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0393Chapter397MonstrousTruth =
   ownLength: 3429,
   unit: "words",
   publishedAt: "2017-10-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/169654/chapter-397-monstrous-truth",
-  externalId: "169654",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "169654",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/169654/chapter-397-monstrous-truth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0743Chapter742CynicalCaravan =
   ownLength: 3096,
   unit: "words",
   publishedAt: "2018-10-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/301142/chapter-742-cynical-caravan",
-  externalId: "301142",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "301142",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/301142/chapter-742-cynical-caravan",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

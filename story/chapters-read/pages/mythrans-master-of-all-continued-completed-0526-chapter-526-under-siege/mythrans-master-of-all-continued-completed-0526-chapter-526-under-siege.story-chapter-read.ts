@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0526Chapter526UnderSiege = {
   ownLength: 3228,
   unit: "words",
   publishedAt: "2018-03-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/198878/chapter-526-under-siege",
-  externalId: "198878",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "198878",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/198878/chapter-526-under-siege",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

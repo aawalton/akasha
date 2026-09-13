@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0495Chapter495AQuickLibraryVis
   ownLength: 3082,
   unit: "words",
   publishedAt: "2018-01-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/190442/chapter-495-a-quick-library-visit",
-  externalId: "190442",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "190442",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/190442/chapter-495-a-quick-library-visit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

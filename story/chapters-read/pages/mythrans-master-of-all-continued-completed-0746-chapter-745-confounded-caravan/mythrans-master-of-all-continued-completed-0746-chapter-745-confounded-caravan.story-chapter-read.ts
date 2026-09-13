@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0746Chapter745ConfoundedCarava
   ownLength: 3392,
   unit: "words",
   publishedAt: "2018-10-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/301867/chapter-745-confounded-caravan",
-  externalId: "301867",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "301867",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/301867/chapter-745-confounded-caravan",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

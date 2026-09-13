@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0353Chapter360MoreThanWords = 
   ownLength: 3738,
   unit: "words",
   publishedAt: "2017-09-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/162721/chapter-360-more-than-words",
-  externalId: "162721",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "162721",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/162721/chapter-360-more-than-words",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

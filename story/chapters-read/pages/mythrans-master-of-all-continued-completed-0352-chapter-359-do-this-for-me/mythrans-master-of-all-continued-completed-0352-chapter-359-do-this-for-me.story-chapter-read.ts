@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0352Chapter359DoThisForMe = {
   ownLength: 3626,
   unit: "words",
   publishedAt: "2017-09-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/162532/chapter-359-do-this-for-me",
-  externalId: "162532",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "162532",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/162532/chapter-359-do-this-for-me",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

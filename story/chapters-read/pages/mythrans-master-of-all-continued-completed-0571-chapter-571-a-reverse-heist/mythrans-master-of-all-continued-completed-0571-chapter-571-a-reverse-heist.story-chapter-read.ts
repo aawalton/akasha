@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0571Chapter571AReverseHeist = 
   ownLength: 2850,
   unit: "words",
   publishedAt: "2018-04-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/211840/chapter-571-a-reverse-heist",
-  externalId: "211840",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "211840",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/211840/chapter-571-a-reverse-heist",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

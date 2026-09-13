@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0522Chapter522YouWantWhat = {
   ownLength: 2272,
   unit: "words",
   publishedAt: "2018-02-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/197112/chapter-522-you-want-what",
-  externalId: "197112",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "197112",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/197112/chapter-522-you-want-what",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0421Chapter424NowYouSeeMe = {
   ownLength: 3368,
   unit: "words",
   publishedAt: "2017-11-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/174753/chapter-424-now-you-see-me",
-  externalId: "174753",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "174753",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/174753/chapter-424-now-you-see-me",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

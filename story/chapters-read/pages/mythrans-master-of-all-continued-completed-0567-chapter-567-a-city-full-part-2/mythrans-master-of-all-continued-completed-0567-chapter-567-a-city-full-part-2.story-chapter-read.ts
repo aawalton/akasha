@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0567Chapter567ACityFullPart2 =
   ownLength: 3025,
   unit: "words",
   publishedAt: "2018-04-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/210876/chapter-567-a-city-full-part-2",
-  externalId: "210876",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "210876",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/210876/chapter-567-a-city-full-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

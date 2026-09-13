@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0534Chapter534BackInFullCapaci
   ownLength: 2845,
   unit: "words",
   publishedAt: "2018-03-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/202928/chapter-534-back-in-full-capacity",
-  externalId: "202928",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "202928",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/202928/chapter-534-back-in-full-capacity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

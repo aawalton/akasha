@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0378Chapter384HaveADrink = {
   ownLength: 3323,
   unit: "words",
   publishedAt: "2017-10-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167176/chapter-384-have-a-drink",
-  externalId: "167176",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "167176",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167176/chapter-384-have-a-drink",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

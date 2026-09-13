@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0536Chapter536ImHereForYou = {
   ownLength: 2874,
   unit: "words",
   publishedAt: "2018-03-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/203388/chapter-536-im-here-for-you",
-  externalId: "203388",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "203388",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/203388/chapter-536-im-here-for-you",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

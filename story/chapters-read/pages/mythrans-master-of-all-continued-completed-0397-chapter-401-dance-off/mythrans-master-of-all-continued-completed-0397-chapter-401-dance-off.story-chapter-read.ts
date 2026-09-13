@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0397Chapter401DanceOff = {
   ownLength: 5242,
   unit: "words",
   publishedAt: "2017-10-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/170251/chapter-401-dance-off",
-  externalId: "170251",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "170251",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/170251/chapter-401-dance-off",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

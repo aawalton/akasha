@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0448Chapter449Reassurances = {
   ownLength: 3229,
   unit: "words",
   publishedAt: "2017-12-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/179810/chapter-449-reassurances",
-  externalId: "179810",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "179810",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/179810/chapter-449-reassurances",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0395Chapter399GoodIntentions =
   ownLength: 3445,
   unit: "words",
   publishedAt: "2017-10-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/170071/chapter-399-good-intentions",
-  externalId: "170071",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "170071",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/170071/chapter-399-good-intentions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

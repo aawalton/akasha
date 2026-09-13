@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0603Chapter603MeetingWithThePr
   ownLength: 2851,
   unit: "words",
   publishedAt: "2018-06-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/222746/chapter-603-meeting-with-the-princess",
-  externalId: "222746",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "222746",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/222746/chapter-603-meeting-with-the-princess",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

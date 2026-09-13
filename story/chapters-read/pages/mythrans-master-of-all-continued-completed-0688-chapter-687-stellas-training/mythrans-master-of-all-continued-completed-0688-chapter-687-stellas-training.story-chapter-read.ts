@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0688Chapter687StellasTraining 
   ownLength: 3070,
   unit: "words",
   publishedAt: "2018-09-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/286728/chapter-687-stellas-training",
-  externalId: "286728",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "286728",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/286728/chapter-687-stellas-training",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

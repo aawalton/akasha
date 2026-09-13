@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0670Chapter669GoingSeparateWay
   ownLength: 3077,
   unit: "words",
   publishedAt: "2018-08-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/243874/chapter-669-going-separate-ways",
-  externalId: "243874",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "243874",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/243874/chapter-669-going-separate-ways",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

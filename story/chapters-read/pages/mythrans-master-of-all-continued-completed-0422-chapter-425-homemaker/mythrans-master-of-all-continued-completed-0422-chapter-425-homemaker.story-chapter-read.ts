@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0422Chapter425Homemaker = {
   ownLength: 3345,
   unit: "words",
   publishedAt: "2017-11-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/174995/chapter-425-homemaker",
-  externalId: "174995",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "174995",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/174995/chapter-425-homemaker",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

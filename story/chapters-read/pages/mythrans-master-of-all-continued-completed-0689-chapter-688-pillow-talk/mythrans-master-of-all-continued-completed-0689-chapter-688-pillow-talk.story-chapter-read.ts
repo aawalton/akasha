@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0689Chapter688PillowTalk = {
   ownLength: 2833,
   unit: "words",
   publishedAt: "2018-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/286998/chapter-688-pillow-talk",
-  externalId: "286998",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "286998",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/286998/chapter-688-pillow-talk",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

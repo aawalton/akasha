@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0641Chapter640AllThatSheWants 
   ownLength: 2734,
   unit: "words",
   publishedAt: "2018-07-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/234599/chapter-640-all-that-she-wants",
-  externalId: "234599",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "234599",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/234599/chapter-640-all-that-she-wants",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

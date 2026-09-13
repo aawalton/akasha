@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0642Chapter641PlannedResponse 
   ownLength: 2772,
   unit: "words",
   publishedAt: "2018-07-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/234993/chapter-641-planned-response",
-  externalId: "234993",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "234993",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/234993/chapter-641-planned-response",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

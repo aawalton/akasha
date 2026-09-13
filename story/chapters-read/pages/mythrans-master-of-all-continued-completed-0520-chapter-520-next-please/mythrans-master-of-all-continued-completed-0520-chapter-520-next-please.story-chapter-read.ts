@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0520Chapter520NextPlease = {
   ownLength: 2716,
   unit: "words",
   publishedAt: "2018-02-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/196600/chapter-520-next-please",
-  externalId: "196600",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "196600",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/196600/chapter-520-next-please",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

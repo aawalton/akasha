@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0443Chapter444MirrorMirror = {
   ownLength: 4290,
   unit: "words",
   publishedAt: "2017-12-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/178791/chapter-444-mirror-mirror",
-  externalId: "178791",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "178791",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/178791/chapter-444-mirror-mirror",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

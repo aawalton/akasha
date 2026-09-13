@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0396Chapter400PleasurePalace =
   ownLength: 4071,
   unit: "words",
   publishedAt: "2017-10-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/170250/chapter-400-pleasure-palace",
-  externalId: "170250",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "170250",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/170250/chapter-400-pleasure-palace",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

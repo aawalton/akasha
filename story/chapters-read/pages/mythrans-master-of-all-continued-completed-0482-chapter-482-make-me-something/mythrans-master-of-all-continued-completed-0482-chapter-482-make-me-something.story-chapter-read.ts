@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0482Chapter482MakeMeSomething 
   ownLength: 3433,
   unit: "words",
   publishedAt: "2018-01-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/186645/chapter-482-make-me-something",
-  externalId: "186645",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "186645",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/186645/chapter-482-make-me-something",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

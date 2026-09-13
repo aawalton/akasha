@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0643Chapter642QuestCompleted =
   ownLength: 2470,
   unit: "words",
   publishedAt: "2018-07-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/235376/chapter-642-quest-completed",
-  externalId: "235376",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "235376",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/235376/chapter-642-quest-completed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

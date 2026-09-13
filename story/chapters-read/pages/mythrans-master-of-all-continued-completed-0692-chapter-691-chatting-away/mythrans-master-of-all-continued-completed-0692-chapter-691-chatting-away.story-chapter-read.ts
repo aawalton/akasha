@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0692Chapter691ChattingAway = {
   ownLength: 3429,
   unit: "words",
   publishedAt: "2018-09-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/287681/chapter-691-chatting-away",
-  externalId: "287681",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "287681",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/287681/chapter-691-chatting-away",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

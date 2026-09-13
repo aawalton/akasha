@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0601Chapter601YouDealWithIt = 
   ownLength: 2819,
   unit: "words",
   publishedAt: "2018-05-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/219578/chapter-601-you-deal-with-it",
-  externalId: "219578",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "219578",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/219578/chapter-601-you-deal-with-it",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

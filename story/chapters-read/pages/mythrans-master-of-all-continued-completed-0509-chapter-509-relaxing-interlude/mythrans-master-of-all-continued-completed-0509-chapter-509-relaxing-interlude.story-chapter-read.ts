@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0509Chapter509RelaxingInterlud
   ownLength: 3326,
   unit: "words",
   publishedAt: "2018-02-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/193932/chapter-509-relaxing-interlude",
-  externalId: "193932",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "193932",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/193932/chapter-509-relaxing-interlude",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

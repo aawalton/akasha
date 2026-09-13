@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0715Chapter714GreetThePeople =
   ownLength: 3082,
   unit: "words",
   publishedAt: "2018-09-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/294173/chapter-714-greet-the-people",
-  externalId: "294173",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "294173",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/294173/chapter-714-greet-the-people",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

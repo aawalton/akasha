@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0499Chapter499HeDidItAgain = {
   ownLength: 3324,
   unit: "words",
   publishedAt: "2018-02-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/191465/chapter-499-he-did-it-again",
-  externalId: "191465",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "191465",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/191465/chapter-499-he-did-it-again",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

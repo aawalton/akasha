@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0593Chapter593ItGetsMurky = {
   ownLength: 2670,
   unit: "words",
   publishedAt: "2018-05-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/217482/chapter-593-it-gets-murky",
-  externalId: "217482",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "217482",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/217482/chapter-593-it-gets-murky",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

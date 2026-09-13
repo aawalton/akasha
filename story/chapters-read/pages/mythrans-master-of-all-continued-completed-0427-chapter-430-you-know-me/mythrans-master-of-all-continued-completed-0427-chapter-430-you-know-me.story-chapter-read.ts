@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0427Chapter430YouKnowMe = {
   ownLength: 3561,
   unit: "words",
   publishedAt: "2017-11-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/175977/chapter-430-you-know-me",
-  externalId: "175977",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "175977",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/175977/chapter-430-you-know-me",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

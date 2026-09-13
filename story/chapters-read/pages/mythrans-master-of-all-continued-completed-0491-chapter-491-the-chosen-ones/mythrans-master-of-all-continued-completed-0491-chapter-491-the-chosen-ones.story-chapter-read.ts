@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0491Chapter491TheChosenOnes = 
   ownLength: 3732,
   unit: "words",
   publishedAt: "2018-01-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/189430/chapter-491-the-chosen-ones",
-  externalId: "189430",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "189430",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/189430/chapter-491-the-chosen-ones",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

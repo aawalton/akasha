@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0621Chapter621IssacsShop = {
   ownLength: 2656,
   unit: "words",
   publishedAt: "2018-06-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/228312/chapter-621-issacs-shop",
-  externalId: "228312",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "228312",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/228312/chapter-621-issacs-shop",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

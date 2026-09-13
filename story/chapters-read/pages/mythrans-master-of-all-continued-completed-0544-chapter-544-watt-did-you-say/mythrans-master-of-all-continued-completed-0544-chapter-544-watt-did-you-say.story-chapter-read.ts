@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0544Chapter544WattDidYouSay = 
   ownLength: 3359,
   unit: "words",
   publishedAt: "2018-04-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/205247/chapter-544-watt-did-you-say",
-  externalId: "205247",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "205247",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/205247/chapter-544-watt-did-you-say",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0377Chapter383TheCause = {
   ownLength: 3743,
   unit: "words",
   publishedAt: "2017-10-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167170/chapter-383-the-cause",
-  externalId: "167170",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "167170",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167170/chapter-383-the-cause",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0408Chapter411HelloINeedInform
   ownLength: 3402,
   unit: "words",
   publishedAt: "2017-11-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/172010/chapter-411-hello-i-need-information",
-  externalId: "172010",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "172010",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/172010/chapter-411-hello-i-need-information",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0424Chapter427Kamikaze = {
   ownLength: 3228,
   unit: "words",
   publishedAt: "2017-11-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/175401/chapter-427-kamikaze",
-  externalId: "175401",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "175401",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/175401/chapter-427-kamikaze",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

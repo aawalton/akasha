@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0726Chapter725OtherReactions =
   ownLength: 2887,
   unit: "words",
   publishedAt: "2018-10-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/296894/chapter-725-other-reactions",
-  externalId: "296894",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "296894",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/296894/chapter-725-other-reactions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

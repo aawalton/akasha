@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0545Chapter545WhatWillYouChoos
   ownLength: 2538,
   unit: "words",
   publishedAt: "2018-04-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/205523/chapter-545-what-will-you-choose",
-  externalId: "205523",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "205523",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/205523/chapter-545-what-will-you-choose",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

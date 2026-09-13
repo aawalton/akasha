@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0439Chapter440aMerryGoRoundExp
   ownLength: 5245,
   unit: "words",
   publishedAt: "2017-12-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/178176/chapter-440a-merry-go-round-explicit",
-  externalId: "178176",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "178176",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/178176/chapter-440a-merry-go-round-explicit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

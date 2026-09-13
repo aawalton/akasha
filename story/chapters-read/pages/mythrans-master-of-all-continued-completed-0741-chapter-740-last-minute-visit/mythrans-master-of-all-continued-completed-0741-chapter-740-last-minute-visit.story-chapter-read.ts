@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0741Chapter740LastMinuteVisit 
   ownLength: 3378,
   unit: "words",
   publishedAt: "2018-10-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/300619/chapter-740-last-minute-visit",
-  externalId: "300619",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "300619",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/300619/chapter-740-last-minute-visit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

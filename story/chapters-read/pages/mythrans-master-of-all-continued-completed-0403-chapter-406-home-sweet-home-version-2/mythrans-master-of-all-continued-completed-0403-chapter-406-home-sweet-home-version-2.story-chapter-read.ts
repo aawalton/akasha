@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0403Chapter406HomeSweetHomeVer
   ownLength: 3442,
   unit: "words",
   publishedAt: "2017-10-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/171215/chapter-406-home-sweet-home-version-2",
-  externalId: "171215",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "171215",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/171215/chapter-406-home-sweet-home-version-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

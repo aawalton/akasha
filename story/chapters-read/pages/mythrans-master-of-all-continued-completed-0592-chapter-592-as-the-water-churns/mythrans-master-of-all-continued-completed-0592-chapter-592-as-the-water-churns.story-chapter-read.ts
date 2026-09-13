@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0592Chapter592AsTheWaterChurns
   ownLength: 2479,
   unit: "words",
   publishedAt: "2018-05-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/217245/chapter-592-as-the-water-churns",
-  externalId: "217245",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "217245",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/217245/chapter-592-as-the-water-churns",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

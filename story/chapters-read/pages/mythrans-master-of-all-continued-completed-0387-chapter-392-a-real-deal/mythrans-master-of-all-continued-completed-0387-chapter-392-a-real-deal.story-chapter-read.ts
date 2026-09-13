@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0387Chapter392ARealDeal = {
   ownLength: 3247,
   unit: "words",
   publishedAt: "2017-10-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/168836/chapter-392-a-real-deal",
-  externalId: "168836",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "168836",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/168836/chapter-392-a-real-deal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

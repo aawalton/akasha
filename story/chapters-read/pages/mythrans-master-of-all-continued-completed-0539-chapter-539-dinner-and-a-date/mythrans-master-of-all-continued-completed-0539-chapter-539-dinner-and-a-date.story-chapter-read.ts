@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0539Chapter539DinnerAndADate =
   ownLength: 2729,
   unit: "words",
   publishedAt: "2018-03-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/204054/chapter-539-dinner-and-a-date",
-  externalId: "204054",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "204054",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/204054/chapter-539-dinner-and-a-date",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

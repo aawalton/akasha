@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0370Chapter376EpisodeFour = {
   ownLength: 3207,
   unit: "words",
   publishedAt: "2017-10-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/165664/chapter-376-episode-four",
-  externalId: "165664",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "165664",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/165664/chapter-376-episode-four",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

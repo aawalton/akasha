@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0699Chapter698MorningSurprises
   ownLength: 2922,
   unit: "words",
   publishedAt: "2018-09-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/289607/chapter-698-morning-surprises",
-  externalId: "289607",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "289607",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/289607/chapter-698-morning-surprises",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

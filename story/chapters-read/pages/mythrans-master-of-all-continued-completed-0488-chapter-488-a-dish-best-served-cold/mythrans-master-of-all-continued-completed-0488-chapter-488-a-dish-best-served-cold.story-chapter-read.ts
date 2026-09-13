@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0488Chapter488ADishBestServedC
   ownLength: 4028,
   unit: "words",
   publishedAt: "2018-01-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/188661/chapter-488-a-dish-best-served-cold",
-  externalId: "188661",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "188661",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/188661/chapter-488-a-dish-best-served-cold",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

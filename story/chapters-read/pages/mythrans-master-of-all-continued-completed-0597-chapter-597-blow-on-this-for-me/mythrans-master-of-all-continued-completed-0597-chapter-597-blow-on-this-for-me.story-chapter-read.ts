@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0597Chapter597BlowOnThisForMe 
   ownLength: 2119,
   unit: "words",
   publishedAt: "2018-05-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/218506/chapter-597-blow-on-this-for-me",
-  externalId: "218506",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "218506",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/218506/chapter-597-blow-on-this-for-me",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

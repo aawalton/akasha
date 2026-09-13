@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0516Chapter516FinallyBackForTh
   ownLength: 3102,
   unit: "words",
   publishedAt: "2018-02-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/195718/chapter-516-finally-back-for-them",
-  externalId: "195718",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "195718",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/195718/chapter-516-finally-back-for-them",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

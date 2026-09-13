@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0466Chapter466NoOneTalksAboutF
   ownLength: 3195,
   unit: "words",
   publishedAt: "2017-12-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/183269/chapter-466-no-one-talks-about-fight-club",
-  externalId: "183269",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "183269",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/183269/chapter-466-no-one-talks-about-fight-club",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

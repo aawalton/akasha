@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0600Chapter600WhatCanIDo = {
   ownLength: 2694,
   unit: "words",
   publishedAt: "2018-05-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/219291/chapter-600-what-can-i-do",
-  externalId: "219291",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "219291",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/219291/chapter-600-what-can-i-do",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

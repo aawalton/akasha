@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0542Chapter542TheLightRealm = 
   ownLength: 2760,
   unit: "words",
   publishedAt: "2018-03-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/204773/chapter-542-the-light-realm",
-  externalId: "204773",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "204773",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/204773/chapter-542-the-light-realm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

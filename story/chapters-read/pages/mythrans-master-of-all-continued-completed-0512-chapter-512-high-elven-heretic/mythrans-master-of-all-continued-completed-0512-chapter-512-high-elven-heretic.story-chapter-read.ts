@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0512Chapter512HighElvenHeretic
   ownLength: 3176,
   unit: "words",
   publishedAt: "2018-02-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/194637/chapter-512-high-elven-heretic",
-  externalId: "194637",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "194637",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/194637/chapter-512-high-elven-heretic",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

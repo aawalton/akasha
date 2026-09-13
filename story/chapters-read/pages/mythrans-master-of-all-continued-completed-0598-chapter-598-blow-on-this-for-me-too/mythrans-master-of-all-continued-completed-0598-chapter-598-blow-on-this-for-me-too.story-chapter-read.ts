@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0598Chapter598BlowOnThisForMeT
   ownLength: 2413,
   unit: "words",
   publishedAt: "2018-05-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/218773/chapter-598-blow-on-this-for-me-too",
-  externalId: "218773",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "218773",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/218773/chapter-598-blow-on-this-for-me-too",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0626Chapter625ThePlanContinues
   ownLength: 2770,
   unit: "words",
   publishedAt: "2018-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/229545/chapter-625-the-plan-continues",
-  externalId: "229545",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "229545",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/229545/chapter-625-the-plan-continues",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

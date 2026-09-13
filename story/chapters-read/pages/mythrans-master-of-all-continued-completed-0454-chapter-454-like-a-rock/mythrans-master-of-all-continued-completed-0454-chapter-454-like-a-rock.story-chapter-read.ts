@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0454Chapter454LikeARock = {
   ownLength: 3898,
   unit: "words",
   publishedAt: "2017-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/180758/chapter-454-like-a-rock",
-  externalId: "180758",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "180758",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/180758/chapter-454-like-a-rock",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

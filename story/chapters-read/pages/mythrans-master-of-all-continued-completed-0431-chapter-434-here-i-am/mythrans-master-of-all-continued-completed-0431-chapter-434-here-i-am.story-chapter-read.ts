@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0431Chapter434HereIAm = {
   ownLength: 3977,
   unit: "words",
   publishedAt: "2017-11-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/176739/chapter-434-here-i-am",
-  externalId: "176739",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "176739",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/176739/chapter-434-here-i-am",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

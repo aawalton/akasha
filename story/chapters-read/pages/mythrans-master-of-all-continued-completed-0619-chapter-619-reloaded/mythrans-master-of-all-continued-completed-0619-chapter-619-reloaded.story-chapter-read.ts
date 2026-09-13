@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0619Chapter619Reloaded = {
   ownLength: 2756,
   unit: "words",
   publishedAt: "2018-06-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/227568/chapter-619-reloaded",
-  externalId: "227568",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "227568",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/227568/chapter-619-reloaded",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

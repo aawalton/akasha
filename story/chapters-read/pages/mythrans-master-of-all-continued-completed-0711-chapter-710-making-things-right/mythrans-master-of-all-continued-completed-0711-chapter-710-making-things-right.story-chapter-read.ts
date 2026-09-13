@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0711Chapter710MakingThingsRigh
   ownLength: 2989,
   unit: "words",
   publishedAt: "2018-09-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/293202/chapter-710-making-things-right",
-  externalId: "293202",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "293202",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/293202/chapter-710-making-things-right",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

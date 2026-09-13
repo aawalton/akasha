@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0702Chapter701Alterations = {
   ownLength: 3067,
   unit: "words",
   publishedAt: "2018-09-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/290498/chapter-701-alterations",
-  externalId: "290498",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "290498",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/290498/chapter-701-alterations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

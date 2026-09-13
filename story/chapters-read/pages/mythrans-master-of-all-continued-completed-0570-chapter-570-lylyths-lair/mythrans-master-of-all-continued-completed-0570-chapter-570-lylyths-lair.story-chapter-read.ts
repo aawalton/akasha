@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0570Chapter570LylythsLair = {
   ownLength: 3300,
   unit: "words",
   publishedAt: "2018-04-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/211637/chapter-570-lylyths-lair",
-  externalId: "211637",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "211637",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/211637/chapter-570-lylyths-lair",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

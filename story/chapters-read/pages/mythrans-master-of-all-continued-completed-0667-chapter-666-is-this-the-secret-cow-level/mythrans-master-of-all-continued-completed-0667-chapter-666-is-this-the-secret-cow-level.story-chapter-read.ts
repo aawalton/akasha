@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0667Chapter666IsThisTheSecretC
   ownLength: 5524,
   unit: "words",
   publishedAt: "2018-08-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/242957/chapter-666-is-this-the-secret-cow-level",
-  externalId: "242957",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "242957",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/242957/chapter-666-is-this-the-secret-cow-level",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

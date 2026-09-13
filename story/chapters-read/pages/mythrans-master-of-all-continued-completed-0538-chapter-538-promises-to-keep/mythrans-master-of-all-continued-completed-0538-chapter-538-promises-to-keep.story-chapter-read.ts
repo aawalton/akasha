@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0538Chapter538PromisesToKeep =
   ownLength: 3438,
   unit: "words",
   publishedAt: "2018-03-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/203864/chapter-538-promises-to-keep",
-  externalId: "203864",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "203864",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/203864/chapter-538-promises-to-keep",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

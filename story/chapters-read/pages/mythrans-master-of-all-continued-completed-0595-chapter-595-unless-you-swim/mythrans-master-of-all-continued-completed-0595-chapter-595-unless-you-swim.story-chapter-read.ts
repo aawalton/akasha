@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0595Chapter595UnlessYouSwim = 
   ownLength: 2735,
   unit: "words",
   publishedAt: "2018-05-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/217989/chapter-595-unless-you-swim",
-  externalId: "217989",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "217989",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/217989/chapter-595-unless-you-swim",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

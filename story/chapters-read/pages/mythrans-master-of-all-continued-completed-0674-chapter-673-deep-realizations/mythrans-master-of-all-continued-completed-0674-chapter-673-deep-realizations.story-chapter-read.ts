@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0674Chapter673DeepRealizations
   ownLength: 2962,
   unit: "words",
   publishedAt: "2018-08-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/282764/chapter-673-deep-realizations",
-  externalId: "282764",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "282764",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/282764/chapter-673-deep-realizations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

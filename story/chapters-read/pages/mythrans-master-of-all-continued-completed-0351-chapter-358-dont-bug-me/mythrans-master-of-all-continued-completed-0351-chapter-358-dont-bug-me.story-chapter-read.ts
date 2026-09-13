@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0351Chapter358DontBugMe = {
   ownLength: 3971,
   unit: "words",
   publishedAt: "2017-09-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/162336/chapter-358-dont-bug-me",
-  externalId: "162336",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "162336",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/162336/chapter-358-dont-bug-me",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

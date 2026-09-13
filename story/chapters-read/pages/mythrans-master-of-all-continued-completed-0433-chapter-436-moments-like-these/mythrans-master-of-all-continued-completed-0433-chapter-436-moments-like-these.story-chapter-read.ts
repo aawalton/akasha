@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0433Chapter436MomentsLikeThese
   ownLength: 3379,
   unit: "words",
   publishedAt: "2017-11-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/177099/chapter-436-moments-like-these",
-  externalId: "177099",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "177099",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/177099/chapter-436-moments-like-these",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

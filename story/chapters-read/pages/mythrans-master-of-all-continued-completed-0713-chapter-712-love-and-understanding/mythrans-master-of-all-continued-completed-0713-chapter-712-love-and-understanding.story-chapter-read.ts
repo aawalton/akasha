@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0713Chapter712LoveAndUnderstan
   ownLength: 3026,
   unit: "words",
   publishedAt: "2018-09-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/293698/chapter-712-love-and-understanding",
-  externalId: "293698",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "293698",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/293698/chapter-712-love-and-understanding",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

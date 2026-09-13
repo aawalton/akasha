@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0521Chapter521BackHomeToRest =
   ownLength: 2565,
   unit: "words",
   publishedAt: "2018-02-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/196854/chapter-521-back-home-to-rest",
-  externalId: "196854",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "196854",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/196854/chapter-521-back-home-to-rest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

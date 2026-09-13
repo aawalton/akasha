@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0672Chapter671SurpriseSurprise
   ownLength: 3192,
   unit: "words",
   publishedAt: "2018-08-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/282160/chapter-671-surprise-surprise-and-surprise",
-  externalId: "282160",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "282160",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/282160/chapter-671-surprise-surprise-and-surprise",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0738Chapter737PervarianInteres
   ownLength: 2719,
   unit: "words",
   publishedAt: "2018-10-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/299892/chapter-737-pervarian-interests",
-  externalId: "299892",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "299892",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/299892/chapter-737-pervarian-interests",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

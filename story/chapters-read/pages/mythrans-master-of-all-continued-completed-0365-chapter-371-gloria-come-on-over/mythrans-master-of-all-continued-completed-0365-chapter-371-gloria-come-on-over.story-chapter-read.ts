@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0365Chapter371GloriaComeOnOver
   ownLength: 3532,
   unit: "words",
   publishedAt: "2017-09-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/164612/chapter-371-gloria-come-on-over",
-  externalId: "164612",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "164612",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/164612/chapter-371-gloria-come-on-over",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

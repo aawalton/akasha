@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0529Chapter529DeckedOut = {
   ownLength: 3377,
   unit: "words",
   publishedAt: "2018-03-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/199434/chapter-529-decked-out",
-  externalId: "199434",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "199434",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/199434/chapter-529-decked-out",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

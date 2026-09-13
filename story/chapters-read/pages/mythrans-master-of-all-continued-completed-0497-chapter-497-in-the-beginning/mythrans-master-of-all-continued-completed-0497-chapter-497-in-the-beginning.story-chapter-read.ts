@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0497Chapter497InTheBeginning =
   ownLength: 3751,
   unit: "words",
   publishedAt: "2018-01-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/190966/chapter-497-in-the-beginning",
-  externalId: "190966",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "190966",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/190966/chapter-497-in-the-beginning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0535Chapter535ShareShareAlike 
   ownLength: 2863,
   unit: "words",
   publishedAt: "2018-03-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/203153/chapter-535-share-share-alike",
-  externalId: "203153",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "203153",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/203153/chapter-535-share-share-alike",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

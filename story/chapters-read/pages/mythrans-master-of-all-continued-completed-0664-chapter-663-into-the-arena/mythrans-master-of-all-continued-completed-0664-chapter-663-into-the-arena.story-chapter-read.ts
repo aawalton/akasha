@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0664Chapter663IntoTheArena = {
   ownLength: 3125,
   unit: "words",
   publishedAt: "2018-08-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/242094/chapter-663-into-the-arena",
-  externalId: "242094",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "242094",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/242094/chapter-663-into-the-arena",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

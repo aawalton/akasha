@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0367Chapter373JustAFriendlyVis
   ownLength: 3677,
   unit: "words",
   publishedAt: "2017-09-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/165038/chapter-373-just-a-friendly-visit",
-  externalId: "165038",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "165038",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/165038/chapter-373-just-a-friendly-visit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

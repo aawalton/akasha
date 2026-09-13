@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0504Chapter504BackToThePool = 
   ownLength: 3480,
   unit: "words",
   publishedAt: "2018-02-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/192755/chapter-504-back-to-the-pool",
-  externalId: "192755",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "192755",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/192755/chapter-504-back-to-the-pool",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

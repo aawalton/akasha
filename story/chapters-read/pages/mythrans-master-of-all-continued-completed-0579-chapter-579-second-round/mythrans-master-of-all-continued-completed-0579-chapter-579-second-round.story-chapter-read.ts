@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0579Chapter579SecondRound = {
   ownLength: 2686,
   unit: "words",
   publishedAt: "2018-05-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/213881/chapter-579-second-round",
-  externalId: "213881",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "213881",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/213881/chapter-579-second-round",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

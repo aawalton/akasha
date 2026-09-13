@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0528Chapter528YoureKidding = {
   ownLength: 2572,
   unit: "words",
   publishedAt: "2018-03-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/199216/chapter-528-youre-kidding",
-  externalId: "199216",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "199216",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/199216/chapter-528-youre-kidding",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

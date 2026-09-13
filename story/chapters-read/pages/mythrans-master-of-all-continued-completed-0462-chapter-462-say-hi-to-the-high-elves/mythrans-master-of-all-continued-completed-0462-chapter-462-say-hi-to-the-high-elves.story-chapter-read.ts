@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0462Chapter462SayHiToTheHighEl
   ownLength: 2996,
   unit: "words",
   publishedAt: "2017-12-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/182358/chapter-462-say-hi-to-the-high-elves",
-  externalId: "182358",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "182358",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/182358/chapter-462-say-hi-to-the-high-elves",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
