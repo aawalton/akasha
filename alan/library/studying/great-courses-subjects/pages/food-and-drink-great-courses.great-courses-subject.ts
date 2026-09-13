@@ -9,6 +9,7 @@ export const foodAndDrinkGreatCourses = {
   rank: "C",
   unit: "minutes",
   partOfCollections: ["great-courses-by-subject"],
-  source: "the-great-courses",
-  externalId: "great-courses-subject-food-drink",
+  externalIdentity: [
+    { source: "the-great-courses", externalId: "great-courses-subject-food-drink" },
+  ],
 } as const satisfies GreatCoursesSubject

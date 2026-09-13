@@ -8,6 +8,7 @@ export const professionalGrowthGreatCourses = {
   status: "paused",
   unit: "minutes",
   partOfCollections: ["great-courses-by-subject"],
-  source: "the-great-courses",
-  externalId: "great-courses-subject-professional-growth",
+  externalIdentity: [
+    { source: "the-great-courses", externalId: "great-courses-subject-professional-growth" },
+  ],
 } as const satisfies GreatCoursesSubject

@@ -8,6 +8,7 @@ export const healthAndMindfulnessGreatCourses = {
   status: "paused",
   unit: "minutes",
   partOfCollections: ["great-courses-by-subject"],
-  source: "the-great-courses",
-  externalId: "great-courses-subject-health-mindfulness",
+  externalIdentity: [
+    { source: "the-great-courses", externalId: "great-courses-subject-health-mindfulness" },
+  ],
 } as const satisfies GreatCoursesSubject

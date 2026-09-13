@@ -8,6 +8,5 @@ export const musicGreatCourses = {
   status: "paused",
   unit: "minutes",
   partOfCollections: ["great-courses-by-subject"],
-  source: "the-great-courses",
-  externalId: "great-courses-subject-music",
+  externalIdentity: [{ source: "the-great-courses", externalId: "great-courses-subject-music" }],
 } as const satisfies GreatCoursesSubject

@@ -8,6 +8,7 @@ export const hobbyAndPersonalPursuitsGreatCourses = {
   status: "paused",
   unit: "minutes",
   partOfCollections: ["great-courses-by-subject"],
-  source: "the-great-courses",
-  externalId: "great-courses-subject-hobby-personal-pursuits",
+  externalIdentity: [
+    { source: "the-great-courses", externalId: "great-courses-subject-hobby-personal-pursuits" },
+  ],
 } as const satisfies GreatCoursesSubject
