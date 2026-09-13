@@ -288,7 +288,7 @@ test("the scope says every push is refused, what answers instead, and what it mi
   expect(said).toContain("`akasha git push` answers in its place")
   expect(said).toContain("WHAT THE PUSH REFUSAL DOES NOT REACH")
   expect(said).toContain("`gp`")
-  expect(said).toContain("handOffPush")
+  expect(said).toContain("a push a program makes for itself")
 })
 
 test("the scope names the overlap with the other hook rather than hiding it", () => {
