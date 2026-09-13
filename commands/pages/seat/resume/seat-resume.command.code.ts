@@ -1,4 +1,5 @@
 import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
+import { force } from "akasha/commands/arguments/pages/force.argument.ts"
 import { now } from "akasha/commands/arguments/pages/now.argument.ts"
 import { seat } from "akasha/commands/arguments/pages/seat.argument.ts"
 import { seatPrompt } from "akasha/commands/arguments/pages/seat-prompt.argument.ts"
@@ -11,13 +12,14 @@ import { seatResume as page } from "akasha/commands/pages/seat/resume/seat-resum
 const TARGET = "--agent-id"
 
 export async function seatResume(argv: readonly string[], given: Given): Promise<Answer> {
-  const read = takenFor(argv, given.calledAs, page, [now, seatPrompt, seat, startMode])
+  const read = takenFor(argv, given.calledAs, page, [force, now, seatPrompt, seat, startMode])
   if ("refused" in read) return refusedBy(read.refused)
   const taken = read.taken
   const carried = [
     ...(taken.seatPrompt === undefined ? [] : [seatPrompt.said, taken.seatPrompt]),
     ...(taken.startMode === undefined ? [] : [startMode.said, taken.startMode]),
     ...(taken.now === true ? [now.said] : []),
+    ...(taken.force === true ? [force.said] : []),
   ]
   const { default: resuming } = await import(
     "akasha/agents/seats/modules/resume/seat-resume.module.code.ts"
