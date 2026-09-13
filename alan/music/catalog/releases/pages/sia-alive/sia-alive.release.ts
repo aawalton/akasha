@@ -12,7 +12,12 @@ export const siaAlive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-09-24",
-  externalId: "1dWhND56sMmlCvxdUytMxZ",
-  externalLink: "https://open.spotify.com/album/1dWhND56sMmlCvxdUytMxZ",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1dWhND56sMmlCvxdUytMxZ",
+      externalLink: "https://open.spotify.com/album/1dWhND56sMmlCvxdUytMxZ",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

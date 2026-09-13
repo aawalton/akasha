@@ -13,7 +13,12 @@ export const musicalTheaterWickedTheSoundtrack = {
   status: "completed",
   rank: "A",
   publishedAt: "2024-11-22",
-  externalId: "3JUrJP460nFIqwjxM19slT",
-  externalLink: "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT",
-  lastSyncedAt: "2026-01-08",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3JUrJP460nFIqwjxM19slT",
+      externalLink: "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT",
+      lastSyncedAt: "2026-01-08",
+    },
+  ],
 } as const satisfies Release

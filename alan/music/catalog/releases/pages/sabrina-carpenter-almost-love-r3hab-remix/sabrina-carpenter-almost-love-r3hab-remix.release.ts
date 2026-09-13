@@ -12,7 +12,12 @@ export const sabrinaCarpenterAlmostLoveR3habRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-07-13",
-  externalId: "1wLllFkWq0hxBsCJ8hmCUd",
-  externalLink: "https://open.spotify.com/album/1wLllFkWq0hxBsCJ8hmCUd",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1wLllFkWq0hxBsCJ8hmCUd",
+      externalLink: "https://open.spotify.com/album/1wLllFkWq0hxBsCJ8hmCUd",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

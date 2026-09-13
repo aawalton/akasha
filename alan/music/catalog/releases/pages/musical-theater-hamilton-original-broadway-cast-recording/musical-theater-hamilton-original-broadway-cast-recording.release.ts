@@ -13,7 +13,12 @@ export const musicalTheaterHamiltonOriginalBroadwayCastRecording = {
   status: "completed",
   rank: "A",
   publishedAt: "2015-09-25",
-  externalId: "1kCHru7uhxBUdzkm4gzRQc",
-  externalLink: "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1kCHru7uhxBUdzkm4gzRQc",
+      externalLink: "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

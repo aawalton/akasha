@@ -12,6 +12,11 @@ export const nsync2YoTeVoyAAmarThisIPromiseYou = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2000-09-19",
-  externalId: "5IjfaWjY2Suypd5xiDMLi5",
-  externalLink: "https://open.spotify.com/album/5IjfaWjY2Suypd5xiDMLi5",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5IjfaWjY2Suypd5xiDMLi5",
+      externalLink: "https://open.spotify.com/album/5IjfaWjY2Suypd5xiDMLi5",
+    },
+  ],
 } as const satisfies Release

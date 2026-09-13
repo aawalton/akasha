@@ -12,7 +12,12 @@ export const paulCardallFocusStudyWithPeacefulPianoMusicRemastered2025 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-10-03",
-  externalId: "3NSN9FGcnLlbQnwB23W4PM",
-  externalLink: "https://open.spotify.com/album/3NSN9FGcnLlbQnwB23W4PM",
-  lastSyncedAt: "2026-01-29",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3NSN9FGcnLlbQnwB23W4PM",
+      externalLink: "https://open.spotify.com/album/3NSN9FGcnLlbQnwB23W4PM",
+      lastSyncedAt: "2026-01-29",
+    },
+  ],
 } as const satisfies Release

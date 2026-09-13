@@ -12,7 +12,12 @@ export const sabrinaCarpenterAlienDarkHeartRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-04-13",
-  externalId: "4mswsu3o2Bt2vYkXK9nKtC",
-  externalLink: "https://open.spotify.com/album/4mswsu3o2Bt2vYkXK9nKtC",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4mswsu3o2Bt2vYkXK9nKtC",
+      externalLink: "https://open.spotify.com/album/4mswsu3o2Bt2vYkXK9nKtC",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

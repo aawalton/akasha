@@ -12,6 +12,11 @@ export const paulCardallMiraclesAJourneyOfHopeHealing = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2004-05-03",
-  externalId: "528gkSTdmuVzXaQtOWzioW",
-  externalLink: "https://open.spotify.com/album/528gkSTdmuVzXaQtOWzioW",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "528gkSTdmuVzXaQtOWzioW",
+      externalLink: "https://open.spotify.com/album/528gkSTdmuVzXaQtOWzioW",
+    },
+  ],
 } as const satisfies Release

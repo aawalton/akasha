@@ -12,6 +12,11 @@ export const paulCardallChillCollection = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2010-05-05",
-  externalId: "1Hnv3cvHjvxjr0w0VIJp5S",
-  externalLink: "https://open.spotify.com/album/1Hnv3cvHjvxjr0w0VIJp5S",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Hnv3cvHjvxjr0w0VIJp5S",
+      externalLink: "https://open.spotify.com/album/1Hnv3cvHjvxjr0w0VIJp5S",
+    },
+  ],
 } as const satisfies Release

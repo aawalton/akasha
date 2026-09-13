@@ -12,6 +12,11 @@ export const phoebeBridgersSpotifySingles = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-12-05",
-  externalId: "3k3IHMRB7BZEf9VEh4HZsm",
-  externalLink: "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3k3IHMRB7BZEf9VEh4HZsm",
+      externalLink: "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm",
+    },
+  ],
 } as const satisfies Release

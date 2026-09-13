@@ -12,7 +12,12 @@ export const sabrinaCarpenterOnMyWayDaTweekazRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-06-25",
-  externalId: "1ODOCRQWwjfJRqJ34RtrKa",
-  externalLink: "https://open.spotify.com/album/1ODOCRQWwjfJRqJ34RtrKa",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1ODOCRQWwjfJRqJ34RtrKa",
+      externalLink: "https://open.spotify.com/album/1ODOCRQWwjfJRqJ34RtrKa",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

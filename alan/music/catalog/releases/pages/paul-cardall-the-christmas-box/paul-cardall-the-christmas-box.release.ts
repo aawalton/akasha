@@ -12,6 +12,11 @@ export const paulCardallTheChristmasBox = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1997-01-01",
-  externalId: "13Gz376bMCKmwVUt3lzQHg",
-  externalLink: "https://open.spotify.com/album/13Gz376bMCKmwVUt3lzQHg",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "13Gz376bMCKmwVUt3lzQHg",
+      externalLink: "https://open.spotify.com/album/13Gz376bMCKmwVUt3lzQHg",
+    },
+  ],
 } as const satisfies Release

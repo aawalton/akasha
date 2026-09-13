@@ -12,7 +12,12 @@ export const siaButtons = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-01-01",
-  externalId: "7fosq6V3NqDCnwU5f3Wu4S",
-  externalLink: "https://open.spotify.com/album/7fosq6V3NqDCnwU5f3Wu4S",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7fosq6V3NqDCnwU5f3Wu4S",
+      externalLink: "https://open.spotify.com/album/7fosq6V3NqDCnwU5f3Wu4S",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

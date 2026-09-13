@@ -12,6 +12,11 @@ export const pentatonixPtxVol2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-11-05",
-  externalId: "12dPqNFIdjiVFSHvtsDmzJ",
-  externalLink: "https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "12dPqNFIdjiVFSHvtsDmzJ",
+      externalLink: "https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ",
+    },
+  ],
 } as const satisfies Release

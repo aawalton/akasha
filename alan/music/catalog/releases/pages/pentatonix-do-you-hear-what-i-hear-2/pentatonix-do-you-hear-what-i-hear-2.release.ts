@@ -12,6 +12,11 @@ export const pentatonixDoYouHearWhatIHear2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-12-09",
-  externalId: "2FJVY528PwIOfqDkAn25a4",
-  externalLink: "https://open.spotify.com/album/2FJVY528PwIOfqDkAn25a4",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2FJVY528PwIOfqDkAn25a4",
+      externalLink: "https://open.spotify.com/album/2FJVY528PwIOfqDkAn25a4",
+    },
+  ],
 } as const satisfies Release

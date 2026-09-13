@@ -13,7 +13,12 @@ export const musicalTheaterTheGreatestShowmanOriginalMotionPictureSoundtrack = {
   status: "completed",
   rank: "A",
   publishedAt: "2017-12-08",
-  externalId: "7ayBZIe1FHkNv0T5xFCX6F",
-  externalLink: "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7ayBZIe1FHkNv0T5xFCX6F",
+      externalLink: "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

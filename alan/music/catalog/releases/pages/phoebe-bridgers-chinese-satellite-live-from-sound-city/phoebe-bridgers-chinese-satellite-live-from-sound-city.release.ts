@@ -13,6 +13,11 @@ export const phoebeBridgersChineseSatelliteLiveFromSoundCity = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-03-11",
-  externalId: "5llvMUjEVcdJoqtqw7hLoR",
-  externalLink: "https://open.spotify.com/album/5llvMUjEVcdJoqtqw7hLoR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5llvMUjEVcdJoqtqw7hLoR",
+      externalLink: "https://open.spotify.com/album/5llvMUjEVcdJoqtqw7hLoR",
+    },
+  ],
 } as const satisfies Release

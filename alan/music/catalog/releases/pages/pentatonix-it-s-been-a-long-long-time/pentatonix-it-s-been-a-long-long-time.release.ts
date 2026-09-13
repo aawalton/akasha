@@ -12,6 +12,11 @@ export const pentatonixItSBeenALongLongTime = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-09-27",
-  externalId: "5CBhIk6ynI75VsLEjrpH77",
-  externalLink: "https://open.spotify.com/album/5CBhIk6ynI75VsLEjrpH77",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5CBhIk6ynI75VsLEjrpH77",
+      externalLink: "https://open.spotify.com/album/5CBhIk6ynI75VsLEjrpH77",
+    },
+  ],
 } as const satisfies Release

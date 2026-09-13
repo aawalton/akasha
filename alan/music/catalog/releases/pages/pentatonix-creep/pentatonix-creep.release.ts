@@ -12,6 +12,11 @@ export const pentatonixCreep = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-05-11",
-  externalId: "4N20DI57V9TX4VwBQwbkXq",
-  externalLink: "https://open.spotify.com/album/4N20DI57V9TX4VwBQwbkXq",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4N20DI57V9TX4VwBQwbkXq",
+      externalLink: "https://open.spotify.com/album/4N20DI57V9TX4VwBQwbkXq",
+    },
+  ],
 } as const satisfies Release

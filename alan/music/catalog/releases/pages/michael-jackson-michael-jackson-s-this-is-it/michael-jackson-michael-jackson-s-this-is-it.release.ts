@@ -13,7 +13,12 @@ export const michaelJacksonMichaelJacksonSThisIsIt = {
   status: "completed",
   rank: "C",
   publishedAt: "2009-10-26",
-  externalId: "7pMVCMwGykuEu9rzTHxLCm",
-  externalLink: "https://open.spotify.com/album/7pMVCMwGykuEu9rzTHxLCm",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7pMVCMwGykuEu9rzTHxLCm",
+      externalLink: "https://open.spotify.com/album/7pMVCMwGykuEu9rzTHxLCm",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

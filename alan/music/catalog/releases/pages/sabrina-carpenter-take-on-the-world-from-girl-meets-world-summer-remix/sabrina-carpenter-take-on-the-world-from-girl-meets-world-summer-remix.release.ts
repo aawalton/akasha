@@ -12,7 +12,12 @@ export const sabrinaCarpenterTakeOnTheWorldFromGirlMeetsWorldSummerRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-01-01",
-  externalId: "7mLfPG1jF81sZHksUSi4sD",
-  externalLink: "https://open.spotify.com/album/7mLfPG1jF81sZHksUSi4sD",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7mLfPG1jF81sZHksUSi4sD",
+      externalLink: "https://open.spotify.com/album/7mLfPG1jF81sZHksUSi4sD",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

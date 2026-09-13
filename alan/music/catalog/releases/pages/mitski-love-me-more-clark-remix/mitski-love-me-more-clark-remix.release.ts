@@ -13,6 +13,11 @@ export const mitskiLoveMeMoreClarkRemix = {
   status: "completed",
   rank: "C",
   publishedAt: "2022-01-26",
-  externalId: "6HdcSKeFXBOTJ83958WnXE",
-  externalLink: "https://open.spotify.com/album/6HdcSKeFXBOTJ83958WnXE",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6HdcSKeFXBOTJ83958WnXE",
+      externalLink: "https://open.spotify.com/album/6HdcSKeFXBOTJ83958WnXE",
+    },
+  ],
 } as const satisfies Release

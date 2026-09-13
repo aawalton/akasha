@@ -12,6 +12,11 @@ export const rockapellaRockAroundTheClockTellMeSomethingGood = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-04-11",
-  externalId: "1sLoy1MRJTRjsAdIF6duAW",
-  externalLink: "https://open.spotify.com/album/1sLoy1MRJTRjsAdIF6duAW",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1sLoy1MRJTRjsAdIF6duAW",
+      externalLink: "https://open.spotify.com/album/1sLoy1MRJTRjsAdIF6duAW",
+    },
+  ],
 } as const satisfies Release

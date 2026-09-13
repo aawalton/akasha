@@ -12,7 +12,12 @@ export const siaBornYesterday = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-04",
-  externalId: "7mjYTOjmcH4UHnCdct2xZi",
-  externalLink: "https://open.spotify.com/album/7mjYTOjmcH4UHnCdct2xZi",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7mjYTOjmcH4UHnCdct2xZi",
+      externalLink: "https://open.spotify.com/album/7mjYTOjmcH4UHnCdct2xZi",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

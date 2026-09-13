@@ -13,6 +13,11 @@ export const phoebeBridgersGoodbyeToLoveFromMinionsTheRiseOfGruSoundtrack = {
   status: "completed",
   rank: "C",
   publishedAt: "2022-07-01",
-  externalId: "6t1mm9i8L7rHsucCObxRbF",
-  externalLink: "https://open.spotify.com/album/6t1mm9i8L7rHsucCObxRbF",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6t1mm9i8L7rHsucCObxRbF",
+      externalLink: "https://open.spotify.com/album/6t1mm9i8L7rHsucCObxRbF",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const sabrinaCarpenterSkinnyDipping = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-09-09",
-  externalId: "2NbUBAN5Mv7KAacJHOtC49",
-  externalLink: "https://open.spotify.com/album/2NbUBAN5Mv7KAacJHOtC49",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2NbUBAN5Mv7KAacJHOtC49",
+      externalLink: "https://open.spotify.com/album/2NbUBAN5Mv7KAacJHOtC49",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

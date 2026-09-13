@@ -13,6 +13,11 @@ export const pentatonixPtx = {
   status: "completed",
   rank: "B",
   publishedAt: "2014-09-19",
-  externalId: "77RBn8pRsfXlZdfTQh221D",
-  externalLink: "https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "77RBn8pRsfXlZdfTQh221D",
+      externalLink: "https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D",
+    },
+  ],
 } as const satisfies Release

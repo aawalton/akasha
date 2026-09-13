@@ -12,7 +12,12 @@ export const siaDiamondEyesFeatSia = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-01",
-  externalId: "1Wz4TaOdgu0xzFcn4itx7M",
-  externalLink: "https://open.spotify.com/album/1Wz4TaOdgu0xzFcn4itx7M",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Wz4TaOdgu0xzFcn4itx7M",
+      externalLink: "https://open.spotify.com/album/1Wz4TaOdgu0xzFcn4itx7M",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

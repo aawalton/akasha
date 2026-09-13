@@ -12,6 +12,11 @@ export const pentatonixPretender = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-10-24",
-  externalId: "7sFY2qG2fa1fkcoftCFQ45",
-  externalLink: "https://open.spotify.com/album/7sFY2qG2fa1fkcoftCFQ45",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7sFY2qG2fa1fkcoftCFQ45",
+      externalLink: "https://open.spotify.com/album/7sFY2qG2fa1fkcoftCFQ45",
+    },
+  ],
 } as const satisfies Release

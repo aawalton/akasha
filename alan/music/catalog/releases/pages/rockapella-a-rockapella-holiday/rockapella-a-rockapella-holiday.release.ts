@@ -12,6 +12,11 @@ export const rockapellaARockapellaHoliday = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2011-11-15",
-  externalId: "1WCdcmjKznIqlpGrSzMKWO",
-  externalLink: "https://open.spotify.com/album/1WCdcmjKznIqlpGrSzMKWO",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1WCdcmjKznIqlpGrSzMKWO",
+      externalLink: "https://open.spotify.com/album/1WCdcmjKznIqlpGrSzMKWO",
+    },
+  ],
 } as const satisfies Release

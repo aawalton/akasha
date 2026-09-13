@@ -13,6 +13,11 @@ export const mitskiCopCar = {
   status: "completed",
   rank: "C",
   publishedAt: "2020-03-07",
-  externalId: "38W7WU8kz5SHqcNdx9ZtmC",
-  externalLink: "https://open.spotify.com/album/38W7WU8kz5SHqcNdx9ZtmC",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "38W7WU8kz5SHqcNdx9ZtmC",
+      externalLink: "https://open.spotify.com/album/38W7WU8kz5SHqcNdx9ZtmC",
+    },
+  ],
 } as const satisfies Release

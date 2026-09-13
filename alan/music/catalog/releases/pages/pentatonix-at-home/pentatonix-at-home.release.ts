@@ -12,6 +12,11 @@ export const pentatonixAtHome = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-06-24",
-  externalId: "1dprzJcVnHpH6PPUNs8O7k",
-  externalLink: "https://open.spotify.com/album/1dprzJcVnHpH6PPUNs8O7k",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1dprzJcVnHpH6PPUNs8O7k",
+      externalLink: "https://open.spotify.com/album/1dprzJcVnHpH6PPUNs8O7k",
+    },
+  ],
 } as const satisfies Release

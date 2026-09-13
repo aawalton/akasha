@@ -13,6 +13,11 @@ export const mitskiTheLandIsInhospitableAndSoAreWe = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-09-15",
-  externalId: "2Cn1d2KgbkAqbZCJ1RzdkA",
-  externalLink: "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Cn1d2KgbkAqbZCJ1RzdkA",
+      externalLink: "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA",
+    },
+  ],
 } as const satisfies Release

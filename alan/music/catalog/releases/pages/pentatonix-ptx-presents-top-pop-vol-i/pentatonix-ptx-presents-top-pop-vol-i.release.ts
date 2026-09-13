@@ -12,6 +12,11 @@ export const pentatonixPtxPresentsTopPopVolI = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-04-13",
-  externalId: "2viOlnLfhPLDgx7hvBqLwW",
-  externalLink: "https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2viOlnLfhPLDgx7hvBqLwW",
+      externalLink: "https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW",
+    },
+  ],
 } as const satisfies Release

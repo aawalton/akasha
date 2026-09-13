@@ -13,7 +13,12 @@ export const michaelJacksonDangerous = {
   status: "completed",
   rank: "C",
   publishedAt: "1991-11-13",
-  externalId: "0oX4SealMgNXrvRDhqqOKg",
-  externalLink: "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0oX4SealMgNXrvRDhqqOKg",
+      externalLink: "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const paulCardallChristmas = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-11-02",
-  externalId: "4wgqzyCxFkxl6Wo1HpackI",
-  externalLink: "https://open.spotify.com/album/4wgqzyCxFkxl6Wo1HpackI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4wgqzyCxFkxl6Wo1HpackI",
+      externalLink: "https://open.spotify.com/album/4wgqzyCxFkxl6Wo1HpackI",
+    },
+  ],
 } as const satisfies Release

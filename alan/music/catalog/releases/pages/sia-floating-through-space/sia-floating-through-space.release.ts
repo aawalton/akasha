@@ -12,7 +12,12 @@ export const siaFloatingThroughSpace = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-02-04",
-  externalId: "0BE9HxEf6RRDyni3SSvM6t",
-  externalLink: "https://open.spotify.com/album/0BE9HxEf6RRDyni3SSvM6t",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0BE9HxEf6RRDyni3SSvM6t",
+      externalLink: "https://open.spotify.com/album/0BE9HxEf6RRDyni3SSvM6t",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

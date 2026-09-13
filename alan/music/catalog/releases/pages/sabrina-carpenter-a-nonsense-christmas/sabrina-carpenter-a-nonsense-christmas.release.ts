@@ -12,7 +12,12 @@ export const sabrinaCarpenterANonsenseChristmas = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-12-07",
-  externalId: "2D2boDrCPl6idtxpJF6r38",
-  externalLink: "https://open.spotify.com/album/2D2boDrCPl6idtxpJF6r38",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2D2boDrCPl6idtxpJF6r38",
+      externalLink: "https://open.spotify.com/album/2D2boDrCPl6idtxpJF6r38",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

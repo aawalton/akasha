@@ -12,7 +12,12 @@ export const siaBeautifulPeopleMissMoniqueRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-06-06",
-  externalId: "6RbuWWX31va0m3FduVREQb",
-  externalLink: "https://open.spotify.com/album/6RbuWWX31va0m3FduVREQb",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6RbuWWX31va0m3FduVREQb",
+      externalLink: "https://open.spotify.com/album/6RbuWWX31va0m3FduVREQb",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

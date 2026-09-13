@@ -13,7 +13,12 @@ export const michaelJacksonBen = {
   status: "completed",
   rank: "C",
   publishedAt: "1972-08-04",
-  externalId: "3xo2soey9XEBI5DlmT4KlQ",
-  externalLink: "https://open.spotify.com/album/3xo2soey9XEBI5DlmT4KlQ",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3xo2soey9XEBI5DlmT4KlQ",
+      externalLink: "https://open.spotify.com/album/3xo2soey9XEBI5DlmT4KlQ",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

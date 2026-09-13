@@ -13,7 +13,12 @@ export const michaelJacksonMotownLegendsRockinRobin = {
   status: "completed",
   rank: "C",
   publishedAt: "1993-01-01",
-  externalId: "5TQvMc68HXdXX1RecI7V7x",
-  externalLink: "https://open.spotify.com/album/5TQvMc68HXdXX1RecI7V7x",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5TQvMc68HXdXX1RecI7V7x",
+      externalLink: "https://open.spotify.com/album/5TQvMc68HXdXX1RecI7V7x",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

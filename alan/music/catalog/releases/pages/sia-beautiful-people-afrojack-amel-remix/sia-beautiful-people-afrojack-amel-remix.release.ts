@@ -12,7 +12,12 @@ export const siaBeautifulPeopleAfrojackAmelRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-04-11",
-  externalId: "23WSlArFU40xOWaRjUYVX6",
-  externalLink: "https://open.spotify.com/album/23WSlArFU40xOWaRjUYVX6",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "23WSlArFU40xOWaRjUYVX6",
+      externalLink: "https://open.spotify.com/album/23WSlArFU40xOWaRjUYVX6",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

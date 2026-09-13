@@ -13,7 +13,12 @@ export const michaelJacksonTheOriginalSoulOfMichaelJackson = {
   status: "completed",
   rank: "C",
   publishedAt: "1987-10-01",
-  externalId: "1VDUI8iG0jUdMh4QI06qI5",
-  externalLink: "https://open.spotify.com/album/1VDUI8iG0jUdMh4QI06qI5",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1VDUI8iG0jUdMh4QI06qI5",
+      externalLink: "https://open.spotify.com/album/1VDUI8iG0jUdMh4QI06qI5",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

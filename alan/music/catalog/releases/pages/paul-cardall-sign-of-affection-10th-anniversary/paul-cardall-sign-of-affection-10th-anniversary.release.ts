@@ -12,6 +12,11 @@ export const paulCardallSignOfAffection10thAnniversary = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2006-01-01",
-  externalId: "6VSh7aoAeo35kOZ9xu6EOO",
-  externalLink: "https://open.spotify.com/album/6VSh7aoAeo35kOZ9xu6EOO",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6VSh7aoAeo35kOZ9xu6EOO",
+      externalLink: "https://open.spotify.com/album/6VSh7aoAeo35kOZ9xu6EOO",
+    },
+  ],
 } as const satisfies Release

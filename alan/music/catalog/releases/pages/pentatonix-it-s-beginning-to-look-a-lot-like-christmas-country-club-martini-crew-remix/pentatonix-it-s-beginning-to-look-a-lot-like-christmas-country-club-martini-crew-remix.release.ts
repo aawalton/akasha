@@ -12,6 +12,11 @@ export const pentatonixItSBeginningToLookALotLikeChristmasCountryClubMartiniCrew
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-12-14",
-  externalId: "1Hk4SnryAWYhwj64r3MeD0",
-  externalLink: "https://open.spotify.com/album/1Hk4SnryAWYhwj64r3MeD0",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Hk4SnryAWYhwj64r3MeD0",
+      externalLink: "https://open.spotify.com/album/1Hk4SnryAWYhwj64r3MeD0",
+    },
+  ],
 } as const satisfies Release

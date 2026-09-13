@@ -12,7 +12,12 @@ export const sabrinaCarpenterPleasePleasePlease2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-06-18",
-  externalId: "0IAo42WYRRTgBtaRUCSMK1",
-  externalLink: "https://open.spotify.com/album/0IAo42WYRRTgBtaRUCSMK1",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0IAo42WYRRTgBtaRUCSMK1",
+      externalLink: "https://open.spotify.com/album/0IAo42WYRRTgBtaRUCSMK1",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

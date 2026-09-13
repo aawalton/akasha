@@ -12,6 +12,11 @@ export const pentatonixDancingOnMyOwnRobynCover = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-08-01",
-  externalId: "3seQEEdIpwRzqntrQfnzM2",
-  externalLink: "https://open.spotify.com/album/3seQEEdIpwRzqntrQfnzM2",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3seQEEdIpwRzqntrQfnzM2",
+      externalLink: "https://open.spotify.com/album/3seQEEdIpwRzqntrQfnzM2",
+    },
+  ],
 } as const satisfies Release

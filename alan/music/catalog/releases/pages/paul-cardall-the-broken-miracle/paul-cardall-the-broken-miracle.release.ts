@@ -12,6 +12,11 @@ export const paulCardallTheBrokenMiracle = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-02-05",
-  externalId: "5QyZxY41tqeIlMok3tmscu",
-  externalLink: "https://open.spotify.com/album/5QyZxY41tqeIlMok3tmscu",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5QyZxY41tqeIlMok3tmscu",
+      externalLink: "https://open.spotify.com/album/5QyZxY41tqeIlMok3tmscu",
+    },
+  ],
 } as const satisfies Release

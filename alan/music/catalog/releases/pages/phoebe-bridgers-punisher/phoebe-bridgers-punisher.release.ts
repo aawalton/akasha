@@ -12,6 +12,11 @@ export const phoebeBridgersPunisher = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-06-18",
-  externalId: "6Pp6qGEywDdofgFC1oFbSH",
-  externalLink: "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Pp6qGEywDdofgFC1oFbSH",
+      externalLink: "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const musicalTheaterFrozenOriginalMotionPictureSoundtrackDeluxeEdition = 
   status: "completed",
   rank: "A",
   publishedAt: "2013-01-01",
-  externalId: "7lZs5r4oQV2nutddffLrg0",
-  externalLink: "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7lZs5r4oQV2nutddffLrg0",
+      externalLink: "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const siaEyeToEyeTheRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-06-04",
-  externalId: "2xScKoVCQzjHbRL7oKbTGn",
-  externalLink: "https://open.spotify.com/album/2xScKoVCQzjHbRL7oKbTGn",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2xScKoVCQzjHbRL7oKbTGn",
+      externalLink: "https://open.spotify.com/album/2xScKoVCQzjHbRL7oKbTGn",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

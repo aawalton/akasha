@@ -12,6 +12,11 @@ export const rockapellaSmilin = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2002-08-13",
-  externalId: "7bidRB2tHdPFVrgUAJF1sR",
-  externalLink: "https://open.spotify.com/album/7bidRB2tHdPFVrgUAJF1sR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7bidRB2tHdPFVrgUAJF1sR",
+      externalLink: "https://open.spotify.com/album/7bidRB2tHdPFVrgUAJF1sR",
+    },
+  ],
 } as const satisfies Release

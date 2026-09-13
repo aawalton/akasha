@@ -12,7 +12,12 @@ export const siaFloatingThroughSpaceFeatDavidGuettaJimOumaRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-09",
-  externalId: "4zk1FVSi3R3iS6xvoTg8ij",
-  externalLink: "https://open.spotify.com/album/4zk1FVSi3R3iS6xvoTg8ij",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4zk1FVSi3R3iS6xvoTg8ij",
+      externalLink: "https://open.spotify.com/album/4zk1FVSi3R3iS6xvoTg8ij",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

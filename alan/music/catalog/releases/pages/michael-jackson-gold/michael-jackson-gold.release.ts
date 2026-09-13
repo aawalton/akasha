@@ -13,7 +13,12 @@ export const michaelJacksonGold = {
   status: "completed",
   rank: "C",
   publishedAt: "2008-08-26",
-  externalId: "0Nuyo7SyvIC9l9zGhg20Mc",
-  externalLink: "https://open.spotify.com/album/0Nuyo7SyvIC9l9zGhg20Mc",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0Nuyo7SyvIC9l9zGhg20Mc",
+      externalLink: "https://open.spotify.com/album/0Nuyo7SyvIC9l9zGhg20Mc",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

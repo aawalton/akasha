@@ -12,6 +12,11 @@ export const paulCardallSacredPiano = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2009-08-18",
-  externalId: "3D82z6ou9OTYQHFrQwUb2j",
-  externalLink: "https://open.spotify.com/album/3D82z6ou9OTYQHFrQwUb2j",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3D82z6ou9OTYQHFrQwUb2j",
+      externalLink: "https://open.spotify.com/album/3D82z6ou9OTYQHFrQwUb2j",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const pentatonixPerfumeMedley = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-08-24",
-  externalId: "3PMe1M0mKrfKZhtdoJuwQy",
-  externalLink: "https://open.spotify.com/album/3PMe1M0mKrfKZhtdoJuwQy",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3PMe1M0mKrfKZhtdoJuwQy",
+      externalLink: "https://open.spotify.com/album/3PMe1M0mKrfKZhtdoJuwQy",
+    },
+  ],
 } as const satisfies Release

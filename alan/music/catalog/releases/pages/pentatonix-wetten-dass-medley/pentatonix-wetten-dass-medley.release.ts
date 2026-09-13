@@ -12,6 +12,11 @@ export const pentatonixWettenDassMedley = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-12-18",
-  externalId: "2KKMaBL8SBqWqRehaTn6YC",
-  externalLink: "https://open.spotify.com/album/2KKMaBL8SBqWqRehaTn6YC",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2KKMaBL8SBqWqRehaTn6YC",
+      externalLink: "https://open.spotify.com/album/2KKMaBL8SBqWqRehaTn6YC",
+    },
+  ],
 } as const satisfies Release

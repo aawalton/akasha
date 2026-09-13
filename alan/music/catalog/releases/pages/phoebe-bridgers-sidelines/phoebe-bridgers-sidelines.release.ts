@@ -13,6 +13,11 @@ export const phoebeBridgersSidelines = {
   status: "completed",
   rank: "C",
   publishedAt: "2022-04-15",
-  externalId: "7tCdWRuurBiq82DvVDCGgF",
-  externalLink: "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7tCdWRuurBiq82DvVDCGgF",
+      externalLink: "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF",
+    },
+  ],
 } as const satisfies Release

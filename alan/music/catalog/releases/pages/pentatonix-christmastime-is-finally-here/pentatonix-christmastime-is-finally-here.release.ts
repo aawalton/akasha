@@ -12,6 +12,11 @@ export const pentatonixChristmastimeIsFinallyHere = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-12-06",
-  externalId: "3jCJq21fBnhPscuMcEr9No",
-  externalLink: "https://open.spotify.com/album/3jCJq21fBnhPscuMcEr9No",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3jCJq21fBnhPscuMcEr9No",
+      externalLink: "https://open.spotify.com/album/3jCJq21fBnhPscuMcEr9No",
+    },
+  ],
 } as const satisfies Release

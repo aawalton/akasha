@@ -13,6 +13,11 @@ export const mitskiMitskiOnAudiotreeLive = {
   status: "completed",
   rank: "C",
   publishedAt: "2015-07-31",
-  externalId: "5lbEsVQlcvV5tT8KBllPdh",
-  externalLink: "https://open.spotify.com/album/5lbEsVQlcvV5tT8KBllPdh",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5lbEsVQlcvV5tT8KBllPdh",
+      externalLink: "https://open.spotify.com/album/5lbEsVQlcvV5tT8KBllPdh",
+    },
+  ],
 } as const satisfies Release

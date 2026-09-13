@@ -12,6 +12,11 @@ export const pentatonixWhenYouBelieveJohnJCCarrRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-12-21",
-  externalId: "7us6w26XtuwoaGlsVDMBOX",
-  externalLink: "https://open.spotify.com/album/7us6w26XtuwoaGlsVDMBOX",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7us6w26XtuwoaGlsVDMBOX",
+      externalLink: "https://open.spotify.com/album/7us6w26XtuwoaGlsVDMBOX",
+    },
+  ],
 } as const satisfies Release

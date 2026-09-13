@@ -13,6 +13,11 @@ export const phoebeBridgersThePartingGlass = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-11-17",
-  externalId: "4hC3PA7iYZp8VYpc1FKceV",
-  externalLink: "https://open.spotify.com/album/4hC3PA7iYZp8VYpc1FKceV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4hC3PA7iYZp8VYpc1FKceV",
+      externalLink: "https://open.spotify.com/album/4hC3PA7iYZp8VYpc1FKceV",
+    },
+  ],
 } as const satisfies Release

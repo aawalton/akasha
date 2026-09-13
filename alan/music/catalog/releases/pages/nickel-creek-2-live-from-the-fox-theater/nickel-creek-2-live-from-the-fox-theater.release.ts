@@ -12,6 +12,11 @@ export const nickelCreek2LiveFromTheFoxTheater = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-18",
-  externalId: "7lq39QANQUHMNp0DVNqscQ",
-  externalLink: "https://open.spotify.com/album/7lq39QANQUHMNp0DVNqscQ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7lq39QANQUHMNp0DVNqscQ",
+      externalLink: "https://open.spotify.com/album/7lq39QANQUHMNp0DVNqscQ",
+    },
+  ],
 } as const satisfies Release

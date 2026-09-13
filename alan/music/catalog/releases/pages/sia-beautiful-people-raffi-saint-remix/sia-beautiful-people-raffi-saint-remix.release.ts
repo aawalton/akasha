@@ -12,7 +12,12 @@ export const siaBeautifulPeopleRaffiSaintRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-28",
-  externalId: "3C3SbADiKJlGxMtBLMvhV9",
-  externalLink: "https://open.spotify.com/album/3C3SbADiKJlGxMtBLMvhV9",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3C3SbADiKJlGxMtBLMvhV9",
+      externalLink: "https://open.spotify.com/album/3C3SbADiKJlGxMtBLMvhV9",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

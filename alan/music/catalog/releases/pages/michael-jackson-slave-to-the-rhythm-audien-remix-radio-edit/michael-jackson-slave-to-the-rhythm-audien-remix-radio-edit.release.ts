@@ -13,7 +13,12 @@ export const michaelJacksonSlaveToTheRhythmAudienRemixRadioEdit = {
   status: "completed",
   rank: "C",
   publishedAt: "2014-08-12",
-  externalId: "64pX2ZupRbnsRz1cnox0ss",
-  externalLink: "https://open.spotify.com/album/64pX2ZupRbnsRz1cnox0ss",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "64pX2ZupRbnsRz1cnox0ss",
+      externalLink: "https://open.spotify.com/album/64pX2ZupRbnsRz1cnox0ss",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

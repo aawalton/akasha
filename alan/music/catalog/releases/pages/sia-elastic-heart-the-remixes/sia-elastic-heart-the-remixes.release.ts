@@ -12,7 +12,12 @@ export const siaElasticHeartTheRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-04-14",
-  externalId: "1bk1IYJzSEDqBxDaiqxO2S",
-  externalLink: "https://open.spotify.com/album/1bk1IYJzSEDqBxDaiqxO2S",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1bk1IYJzSEDqBxDaiqxO2S",
+      externalLink: "https://open.spotify.com/album/1bk1IYJzSEDqBxDaiqxO2S",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

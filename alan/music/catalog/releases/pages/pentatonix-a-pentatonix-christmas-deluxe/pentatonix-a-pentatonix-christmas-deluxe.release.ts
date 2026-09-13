@@ -12,6 +12,11 @@ export const pentatonixAPentatonixChristmasDeluxe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-12-06",
-  externalId: "3sId8sOH47yqOWopzbEtJn",
-  externalLink: "https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3sId8sOH47yqOWopzbEtJn",
+      externalLink: "https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn",
+    },
+  ],
 } as const satisfies Release

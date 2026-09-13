@@ -12,7 +12,12 @@ export const siaExhaleFeatSiaHookNSlingRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-10",
-  externalId: "52FgqulIXZc4i2Bu6bgt7A",
-  externalLink: "https://open.spotify.com/album/52FgqulIXZc4i2Bu6bgt7A",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "52FgqulIXZc4i2Bu6bgt7A",
+      externalLink: "https://open.spotify.com/album/52FgqulIXZc4i2Bu6bgt7A",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

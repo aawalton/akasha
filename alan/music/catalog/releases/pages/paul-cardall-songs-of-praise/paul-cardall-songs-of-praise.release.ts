@@ -12,6 +12,11 @@ export const paulCardallSongsOfPraise = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2007-01-01",
-  externalId: "07NBxNrDIfAxHsPlsSzd8K",
-  externalLink: "https://open.spotify.com/album/07NBxNrDIfAxHsPlsSzd8K",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "07NBxNrDIfAxHsPlsSzd8K",
+      externalLink: "https://open.spotify.com/album/07NBxNrDIfAxHsPlsSzd8K",
+    },
+  ],
 } as const satisfies Release

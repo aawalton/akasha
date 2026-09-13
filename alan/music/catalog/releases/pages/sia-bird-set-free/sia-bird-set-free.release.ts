@@ -12,7 +12,12 @@ export const siaBirdSetFree = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-11-04",
-  externalId: "4DRmZpoOLpnqRGX2dmfktM",
-  externalLink: "https://open.spotify.com/album/4DRmZpoOLpnqRGX2dmfktM",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4DRmZpoOLpnqRGX2dmfktM",
+      externalLink: "https://open.spotify.com/album/4DRmZpoOLpnqRGX2dmfktM",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const siaColourTheSmallOne = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2005-01-01",
-  externalId: "6uVUKJgirfLpW20hCk9cwb",
-  externalLink: "https://open.spotify.com/album/6uVUKJgirfLpW20hCk9cwb",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6uVUKJgirfLpW20hCk9cwb",
+      externalLink: "https://open.spotify.com/album/6uVUKJgirfLpW20hCk9cwb",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

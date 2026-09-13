@@ -12,7 +12,12 @@ export const sabrinaCarpenterEspressoWorkingLateRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-05-31",
-  externalId: "29UKCfgIX2fgBff2uSz6qV",
-  externalLink: "https://open.spotify.com/album/29UKCfgIX2fgBff2uSz6qV",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "29UKCfgIX2fgBff2uSz6qV",
+      externalLink: "https://open.spotify.com/album/29UKCfgIX2fgBff2uSz6qV",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

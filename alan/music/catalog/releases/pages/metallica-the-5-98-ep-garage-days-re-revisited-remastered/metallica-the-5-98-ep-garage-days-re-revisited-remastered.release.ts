@@ -12,6 +12,11 @@ export const metallicaThe598EpGarageDaysReRevisitedRemastered = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1987-08-21",
-  externalId: "2ob2V3qqYLyKUrQB5YNm4C",
-  externalLink: "https://open.spotify.com/album/2ob2V3qqYLyKUrQB5YNm4C",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2ob2V3qqYLyKUrQB5YNm4C",
+      externalLink: "https://open.spotify.com/album/2ob2V3qqYLyKUrQB5YNm4C",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const paulCardallMarySLament = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-08-09",
-  externalId: "0FaoSeFZuGesNhvWf4fewI",
-  externalLink: "https://open.spotify.com/album/0FaoSeFZuGesNhvWf4fewI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0FaoSeFZuGesNhvWf4fewI",
+      externalLink: "https://open.spotify.com/album/0FaoSeFZuGesNhvWf4fewI",
+    },
+  ],
 } as const satisfies Release

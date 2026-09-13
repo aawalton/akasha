@@ -13,6 +13,11 @@ export const mitskiSpotifySingles = {
   status: "completed",
   rank: "C",
   publishedAt: "2024-03-13",
-  externalId: "7424HIQbzV8bI0JSYwTFni",
-  externalLink: "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7424HIQbzV8bI0JSYwTFni",
+      externalLink: "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const mitskiRetiredFromSadNewCareerInBusiness = {
   status: "completed",
   rank: "C",
   publishedAt: "2013-08-01",
-  externalId: "7K4SuWzgUEweJScduBcC6f",
-  externalLink: "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7K4SuWzgUEweJScduBcC6f",
+      externalLink: "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f",
+    },
+  ],
 } as const satisfies Release

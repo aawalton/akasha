@@ -13,6 +13,11 @@ export const phoebeBridgersDayAfterTomorrow = {
   status: "completed",
   rank: "B",
   publishedAt: "2021-11-30",
-  externalId: "0nLUl1qxZ1CTd1fRGUg0G4",
-  externalLink: "https://open.spotify.com/album/0nLUl1qxZ1CTd1fRGUg0G4",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0nLUl1qxZ1CTd1fRGUg0G4",
+      externalLink: "https://open.spotify.com/album/0nLUl1qxZ1CTd1fRGUg0G4",
+    },
+  ],
 } as const satisfies Release

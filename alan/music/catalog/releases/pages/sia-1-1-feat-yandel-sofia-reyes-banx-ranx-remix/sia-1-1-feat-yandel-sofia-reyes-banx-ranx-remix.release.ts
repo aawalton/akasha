@@ -12,7 +12,12 @@ export const sia11FeatYandelSofiaReyesBanxRanxRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-08-06",
-  externalId: "2ds7l2UKWHAj3nKX2Pfmdz",
-  externalLink: "https://open.spotify.com/album/2ds7l2UKWHAj3nKX2Pfmdz",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2ds7l2UKWHAj3nKX2Pfmdz",
+      externalLink: "https://open.spotify.com/album/2ds7l2UKWHAj3nKX2Pfmdz",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

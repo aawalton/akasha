@@ -12,6 +12,11 @@ export const paulCardallNewMoonRising = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-01",
-  externalId: "3yP3aw60J3gTniESqLjTNR",
-  externalLink: "https://open.spotify.com/album/3yP3aw60J3gTniESqLjTNR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3yP3aw60J3gTniESqLjTNR",
+      externalLink: "https://open.spotify.com/album/3yP3aw60J3gTniESqLjTNR",
+    },
+  ],
 } as const satisfies Release

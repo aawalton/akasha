@@ -12,7 +12,12 @@ export const siaDuskTillDawnTheRemixesFeatSia = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-09-29",
-  externalId: "6mZVOi06uAl1fS1pvZnZ7K",
-  externalLink: "https://open.spotify.com/album/6mZVOi06uAl1fS1pvZnZ7K",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6mZVOi06uAl1fS1pvZnZ7K",
+      externalLink: "https://open.spotify.com/album/6mZVOi06uAl1fS1pvZnZ7K",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

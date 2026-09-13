@@ -12,7 +12,12 @@ export const siaExhaleFeatSia = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-06-24",
-  externalId: "0jN9u42ixbBaGnk8CFYl24",
-  externalLink: "https://open.spotify.com/album/0jN9u42ixbBaGnk8CFYl24",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0jN9u42ixbBaGnk8CFYl24",
+      externalLink: "https://open.spotify.com/album/0jN9u42ixbBaGnk8CFYl24",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const siaFlamesRemixes2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-05-25",
-  externalId: "6q755Y9Bfi7Y1o7hFdLhRQ",
-  externalLink: "https://open.spotify.com/album/6q755Y9Bfi7Y1o7hFdLhRQ",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6q755Y9Bfi7Y1o7hFdLhRQ",
+      externalLink: "https://open.spotify.com/album/6q755Y9Bfi7Y1o7hFdLhRQ",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

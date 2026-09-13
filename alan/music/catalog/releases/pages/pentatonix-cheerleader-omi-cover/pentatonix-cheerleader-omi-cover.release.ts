@@ -12,6 +12,11 @@ export const pentatonixCheerleaderOmiCover = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-08-21",
-  externalId: "3UUJUvagu5gi0yuTF6Xvft",
-  externalLink: "https://open.spotify.com/album/3UUJUvagu5gi0yuTF6Xvft",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3UUJUvagu5gi0yuTF6Xvft",
+      externalLink: "https://open.spotify.com/album/3UUJUvagu5gi0yuTF6Xvft",
+    },
+  ],
 } as const satisfies Release

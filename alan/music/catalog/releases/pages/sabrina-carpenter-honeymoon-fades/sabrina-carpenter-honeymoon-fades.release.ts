@@ -12,7 +12,12 @@ export const sabrinaCarpenterHoneymoonFades = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-02-14",
-  externalId: "1Jur7yH65lqd3d4IH66uEf",
-  externalLink: "https://open.spotify.com/album/1Jur7yH65lqd3d4IH66uEf",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Jur7yH65lqd3d4IH66uEf",
+      externalLink: "https://open.spotify.com/album/1Jur7yH65lqd3d4IH66uEf",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

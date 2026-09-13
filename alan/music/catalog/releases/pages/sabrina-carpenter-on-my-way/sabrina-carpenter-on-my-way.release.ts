@@ -12,7 +12,12 @@ export const sabrinaCarpenterOnMyWay = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-03-21",
-  externalId: "1bcvtuHyO79DNAOOhHEkEm",
-  externalLink: "https://open.spotify.com/album/1bcvtuHyO79DNAOOhHEkEm",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1bcvtuHyO79DNAOOhHEkEm",
+      externalLink: "https://open.spotify.com/album/1bcvtuHyO79DNAOOhHEkEm",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

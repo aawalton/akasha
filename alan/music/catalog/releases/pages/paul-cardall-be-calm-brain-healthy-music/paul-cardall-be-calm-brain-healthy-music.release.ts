@@ -12,6 +12,11 @@ export const paulCardallBeCalmBrainHealthyMusic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-03-03",
-  externalId: "1tNQPyt62C3OmZqkxHZ5Hp",
-  externalLink: "https://open.spotify.com/album/1tNQPyt62C3OmZqkxHZ5Hp",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1tNQPyt62C3OmZqkxHZ5Hp",
+      externalLink: "https://open.spotify.com/album/1tNQPyt62C3OmZqkxHZ5Hp",
+    },
+  ],
 } as const satisfies Release

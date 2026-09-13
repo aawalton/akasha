@@ -12,6 +12,11 @@ export const rockapellaMotownMore = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-03-15",
-  externalId: "4zGjOIzSS64HrZ5Kqy3WGE",
-  externalLink: "https://open.spotify.com/album/4zGjOIzSS64HrZ5Kqy3WGE",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4zGjOIzSS64HrZ5Kqy3WGE",
+      externalLink: "https://open.spotify.com/album/4zGjOIzSS64HrZ5Kqy3WGE",
+    },
+  ],
 } as const satisfies Release

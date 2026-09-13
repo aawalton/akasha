@@ -13,6 +13,11 @@ export const phoebeBridgersKyotoGlitchGumRemix = {
   status: "completed",
   rank: "D",
   publishedAt: "2021-08-19",
-  externalId: "3B83CmsoSCZUrzZfbt4RyX",
-  externalLink: "https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3B83CmsoSCZUrzZfbt4RyX",
+      externalLink: "https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX",
+    },
+  ],
 } as const satisfies Release

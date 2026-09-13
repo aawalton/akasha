@@ -12,7 +12,12 @@ export const siaDistractions = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2002-03-25",
-  externalId: "0LnqF2lMc6fB0VSuVy9W6R",
-  externalLink: "https://open.spotify.com/album/0LnqF2lMc6fB0VSuVy9W6R",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0LnqF2lMc6fB0VSuVy9W6R",
+      externalLink: "https://open.spotify.com/album/0LnqF2lMc6fB0VSuVy9W6R",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

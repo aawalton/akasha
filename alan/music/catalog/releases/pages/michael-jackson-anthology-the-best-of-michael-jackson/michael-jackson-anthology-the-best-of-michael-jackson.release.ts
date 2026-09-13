@@ -13,7 +13,12 @@ export const michaelJacksonAnthologyTheBestOfMichaelJackson = {
   status: "completed",
   rank: "C",
   publishedAt: "1986-11-14",
-  externalId: "36K3cD4i4TK0JkU1sU2wOD",
-  externalLink: "https://open.spotify.com/album/36K3cD4i4TK0JkU1sU2wOD",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "36K3cD4i4TK0JkU1sU2wOD",
+      externalLink: "https://open.spotify.com/album/36K3cD4i4TK0JkU1sU2wOD",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const phoebeBridgersCopycatKiller = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-20",
-  externalId: "7EnKDhVbHYKWOjTSQOjpRT",
-  externalLink: "https://open.spotify.com/album/7EnKDhVbHYKWOjTSQOjpRT",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7EnKDhVbHYKWOjTSQOjpRT",
+      externalLink: "https://open.spotify.com/album/7EnKDhVbHYKWOjTSQOjpRT",
+    },
+  ],
 } as const satisfies Release

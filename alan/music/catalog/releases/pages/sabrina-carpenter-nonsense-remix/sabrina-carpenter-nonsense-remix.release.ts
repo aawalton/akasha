@@ -12,7 +12,12 @@ export const sabrinaCarpenterNonsenseRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-03-23",
-  externalId: "1jTN0ud3pW7ATr45S1CdpL",
-  externalLink: "https://open.spotify.com/album/1jTN0ud3pW7ATr45S1CdpL",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1jTN0ud3pW7ATr45S1CdpL",
+      externalLink: "https://open.spotify.com/album/1jTN0ud3pW7ATr45S1CdpL",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const pentatonixItSBeginningToLookALotLikeChristmasCutmoreRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-12-14",
-  externalId: "5GBnDVv4fqsWUJxJUt6rC1",
-  externalLink: "https://open.spotify.com/album/5GBnDVv4fqsWUJxJUt6rC1",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5GBnDVv4fqsWUJxJUt6rC1",
+      externalLink: "https://open.spotify.com/album/5GBnDVv4fqsWUJxJUt6rC1",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const pentatonixHappyBirthdayBeautiful = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-08-17",
-  externalId: "3dQo0HpK7skdcan7h64LWq",
-  externalLink: "https://open.spotify.com/album/3dQo0HpK7skdcan7h64LWq",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3dQo0HpK7skdcan7h64LWq",
+      externalLink: "https://open.spotify.com/album/3dQo0HpK7skdcan7h64LWq",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const paulCardallBeThouMyVision = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-04-26",
-  externalId: "1zpeBbqlIIsyYxbMDcjvB2",
-  externalLink: "https://open.spotify.com/album/1zpeBbqlIIsyYxbMDcjvB2",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1zpeBbqlIIsyYxbMDcjvB2",
+      externalLink: "https://open.spotify.com/album/1zpeBbqlIIsyYxbMDcjvB2",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const michaelJacksonNumberOnes = {
   status: "completed",
   rank: "C",
   publishedAt: "1979-01-01",
-  externalId: "1jcYwZsN7JEve9xsq9BuUX",
-  externalLink: "https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1jcYwZsN7JEve9xsq9BuUX",
+      externalLink: "https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

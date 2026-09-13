@@ -12,6 +12,11 @@ export const pentatonixBestDays = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-01-21",
-  externalId: "5YlPDNMn5nCCBaI3YroCZN",
-  externalLink: "https://open.spotify.com/album/5YlPDNMn5nCCBaI3YroCZN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5YlPDNMn5nCCBaI3YroCZN",
+      externalLink: "https://open.spotify.com/album/5YlPDNMn5nCCBaI3YroCZN",
+    },
+  ],
 } as const satisfies Release

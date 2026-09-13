@@ -12,6 +12,11 @@ export const paulCardallFaithful = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2004-05-03",
-  externalId: "4reM22AiywSJDI40oyEcEf",
-  externalLink: "https://open.spotify.com/album/4reM22AiywSJDI40oyEcEf",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4reM22AiywSJDI40oyEcEf",
+      externalLink: "https://open.spotify.com/album/4reM22AiywSJDI40oyEcEf",
+    },
+  ],
 } as const satisfies Release

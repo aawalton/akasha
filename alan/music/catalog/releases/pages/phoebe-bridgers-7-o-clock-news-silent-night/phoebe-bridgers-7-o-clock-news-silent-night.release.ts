@@ -12,6 +12,11 @@ export const phoebeBridgers7OClockNewsSilentNight = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-12-12",
-  externalId: "43copJZSJKuxBmKbOG7lnn",
-  externalLink: "https://open.spotify.com/album/43copJZSJKuxBmKbOG7lnn",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "43copJZSJKuxBmKbOG7lnn",
+      externalLink: "https://open.spotify.com/album/43copJZSJKuxBmKbOG7lnn",
+    },
+  ],
 } as const satisfies Release

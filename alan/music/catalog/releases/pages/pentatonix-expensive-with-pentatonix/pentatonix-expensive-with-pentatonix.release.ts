@@ -12,6 +12,11 @@ export const pentatonixExpensiveWithPentatonix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-09-15",
-  externalId: "3tE3IijjKtogSzfkWfvRp0",
-  externalLink: "https://open.spotify.com/album/3tE3IijjKtogSzfkWfvRp0",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3tE3IijjKtogSzfkWfvRp0",
+      externalLink: "https://open.spotify.com/album/3tE3IijjKtogSzfkWfvRp0",
+    },
+  ],
 } as const satisfies Release

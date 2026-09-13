@@ -13,6 +13,11 @@ export const mitskiBeTheCowboy = {
   status: "completed",
   rank: "C",
   publishedAt: "2018-08-17",
-  externalId: "42cH7mrkfljkqkxA2Ip9Xq",
-  externalLink: "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "42cH7mrkfljkqkxA2Ip9Xq",
+      externalLink: "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq",
+    },
+  ],
 } as const satisfies Release

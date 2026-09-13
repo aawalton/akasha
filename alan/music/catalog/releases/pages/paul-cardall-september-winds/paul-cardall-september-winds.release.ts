@@ -12,6 +12,11 @@ export const paulCardallSeptemberWinds = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-09-10",
-  externalId: "3Qflkxt8CZCgRyR1dbL8cN",
-  externalLink: "https://open.spotify.com/album/3Qflkxt8CZCgRyR1dbL8cN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3Qflkxt8CZCgRyR1dbL8cN",
+      externalLink: "https://open.spotify.com/album/3Qflkxt8CZCgRyR1dbL8cN",
+    },
+  ],
 } as const satisfies Release

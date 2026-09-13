@@ -13,7 +13,12 @@ export const michaelJacksonForeverMichael = {
   status: "completed",
   rank: "C",
   publishedAt: "1975-01-16",
-  externalId: "6leeBdAohG7zhybC3Cmu8W",
-  externalLink: "https://open.spotify.com/album/6leeBdAohG7zhybC3Cmu8W",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6leeBdAohG7zhybC3Cmu8W",
+      externalLink: "https://open.spotify.com/album/6leeBdAohG7zhybC3Cmu8W",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

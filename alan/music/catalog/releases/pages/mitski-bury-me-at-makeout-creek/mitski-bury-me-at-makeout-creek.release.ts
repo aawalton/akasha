@@ -13,6 +13,11 @@ export const mitskiBuryMeAtMakeoutCreek = {
   status: "completed",
   rank: "C",
   publishedAt: "2014-11-11",
-  externalId: "3I2KkX13lHXuYqfBjSOopo",
-  externalLink: "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3I2KkX13lHXuYqfBjSOopo",
+      externalLink: "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo",
+    },
+  ],
 } as const satisfies Release

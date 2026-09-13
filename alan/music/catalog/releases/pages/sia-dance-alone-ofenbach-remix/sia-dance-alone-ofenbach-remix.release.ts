@@ -12,7 +12,12 @@ export const siaDanceAloneOfenbachRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-03-01",
-  externalId: "6umwUX0AZ2kh89048ghhL9",
-  externalLink: "https://open.spotify.com/album/6umwUX0AZ2kh89048ghhL9",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6umwUX0AZ2kh89048ghhL9",
+      externalLink: "https://open.spotify.com/album/6umwUX0AZ2kh89048ghhL9",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

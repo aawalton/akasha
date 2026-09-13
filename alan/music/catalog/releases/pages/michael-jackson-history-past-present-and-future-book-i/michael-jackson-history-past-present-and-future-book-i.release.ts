@@ -13,7 +13,12 @@ export const michaelJacksonHistoryPastPresentAndFutureBookI = {
   status: "completed",
   rank: "C",
   publishedAt: "1995-06-16",
-  externalId: "3OBhnTLrvkoEEETjFA3Qfk",
-  externalLink: "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3OBhnTLrvkoEEETjFA3Qfk",
+      externalLink: "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

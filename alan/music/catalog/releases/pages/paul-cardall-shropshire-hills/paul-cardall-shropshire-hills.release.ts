@@ -12,6 +12,11 @@ export const paulCardallShropshireHills = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-07-14",
-  externalId: "15ufELGSNAoBQBAtpSfO6B",
-  externalLink: "https://open.spotify.com/album/15ufELGSNAoBQBAtpSfO6B",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "15ufELGSNAoBQBAtpSfO6B",
+      externalLink: "https://open.spotify.com/album/15ufELGSNAoBQBAtpSfO6B",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const paulCardallDailyDevotions = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2002-10-08",
-  externalId: "4BZn3TJ67Hre0AL1hGAgEm",
-  externalLink: "https://open.spotify.com/album/4BZn3TJ67Hre0AL1hGAgEm",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4BZn3TJ67Hre0AL1hGAgEm",
+      externalLink: "https://open.spotify.com/album/4BZn3TJ67Hre0AL1hGAgEm",
+    },
+  ],
 } as const satisfies Release

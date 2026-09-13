@@ -12,6 +12,11 @@ export const rockapellaChristmasLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-12-01",
-  externalId: "4qq6lk5dA23eAKI7Dut0jV",
-  externalLink: "https://open.spotify.com/album/4qq6lk5dA23eAKI7Dut0jV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4qq6lk5dA23eAKI7Dut0jV",
+      externalLink: "https://open.spotify.com/album/4qq6lk5dA23eAKI7Dut0jV",
+    },
+  ],
 } as const satisfies Release

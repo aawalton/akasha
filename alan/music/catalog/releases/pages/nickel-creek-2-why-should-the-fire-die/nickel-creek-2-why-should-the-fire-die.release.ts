@@ -12,6 +12,11 @@ export const nickelCreek2WhyShouldTheFireDie = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2005-01-01",
-  externalId: "6l61p7zbizBUjQWY10LWmb",
-  externalLink: "https://open.spotify.com/album/6l61p7zbizBUjQWY10LWmb",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6l61p7zbizBUjQWY10LWmb",
+      externalLink: "https://open.spotify.com/album/6l61p7zbizBUjQWY10LWmb",
+    },
+  ],
 } as const satisfies Release

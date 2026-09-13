@@ -12,6 +12,11 @@ export const phoebeBridgersFuneral = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-09-13",
-  externalId: "0T7PCmREdhRHHUFCkdojyw",
-  externalLink: "https://open.spotify.com/album/0T7PCmREdhRHHUFCkdojyw",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0T7PCmREdhRHHUFCkdojyw",
+      externalLink: "https://open.spotify.com/album/0T7PCmREdhRHHUFCkdojyw",
+    },
+  ],
 } as const satisfies Release

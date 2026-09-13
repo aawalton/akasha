@@ -12,6 +12,11 @@ export const pentatonixLittleDrummerBoyLemaXSaviRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-12-01",
-  externalId: "5rVwzVWmqQLPMic0iQcpq6",
-  externalLink: "https://open.spotify.com/album/5rVwzVWmqQLPMic0iQcpq6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5rVwzVWmqQLPMic0iQcpq6",
+      externalLink: "https://open.spotify.com/album/5rVwzVWmqQLPMic0iQcpq6",
+    },
+  ],
 } as const satisfies Release

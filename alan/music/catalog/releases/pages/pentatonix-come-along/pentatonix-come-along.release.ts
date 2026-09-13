@@ -12,6 +12,11 @@ export const pentatonixComeAlong = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-03-22",
-  externalId: "0gGoGIF1hkBkVpcHYygHsm",
-  externalLink: "https://open.spotify.com/album/0gGoGIF1hkBkVpcHYygHsm",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0gGoGIF1hkBkVpcHYygHsm",
+      externalLink: "https://open.spotify.com/album/0gGoGIF1hkBkVpcHYygHsm",
+    },
+  ],
 } as const satisfies Release

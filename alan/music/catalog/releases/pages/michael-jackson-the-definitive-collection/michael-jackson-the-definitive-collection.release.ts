@@ -13,7 +13,12 @@ export const michaelJacksonTheDefinitiveCollection = {
   status: "completed",
   rank: "C",
   publishedAt: "2009-01-01",
-  externalId: "1taiwc7i9KsE0GklRJ42HS",
-  externalLink: "https://open.spotify.com/album/1taiwc7i9KsE0GklRJ42HS",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1taiwc7i9KsE0GklRJ42HS",
+      externalLink: "https://open.spotify.com/album/1taiwc7i9KsE0GklRJ42HS",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

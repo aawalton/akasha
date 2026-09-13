@@ -12,6 +12,11 @@ export const pentatonixHappyNow = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-08-14",
-  externalId: "5JmZwvs3mfGduPjumjiFvB",
-  externalLink: "https://open.spotify.com/album/5JmZwvs3mfGduPjumjiFvB",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5JmZwvs3mfGduPjumjiFvB",
+      externalLink: "https://open.spotify.com/album/5JmZwvs3mfGduPjumjiFvB",
+    },
+  ],
 } as const satisfies Release

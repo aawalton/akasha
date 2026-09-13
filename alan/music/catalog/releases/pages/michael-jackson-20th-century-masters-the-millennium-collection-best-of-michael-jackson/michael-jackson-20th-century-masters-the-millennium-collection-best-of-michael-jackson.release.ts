@@ -13,7 +13,12 @@ export const michaelJackson20thCenturyMastersTheMillenniumCollectionBestOfMichae
   status: "completed",
   rank: "C",
   publishedAt: "2000-01-01",
-  externalId: "5cKwhK6ChXbJE77TKnOx30",
-  externalLink: "https://open.spotify.com/album/5cKwhK6ChXbJE77TKnOx30",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5cKwhK6ChXbJE77TKnOx30",
+      externalLink: "https://open.spotify.com/album/5cKwhK6ChXbJE77TKnOx30",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

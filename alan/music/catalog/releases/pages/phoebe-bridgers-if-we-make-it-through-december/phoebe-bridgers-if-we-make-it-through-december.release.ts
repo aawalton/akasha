@@ -12,6 +12,11 @@ export const phoebeBridgersIfWeMakeItThroughDecember = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-24",
-  externalId: "5c7rZDAKYf6PsA3MUfNZXL",
-  externalLink: "https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5c7rZDAKYf6PsA3MUfNZXL",
+      externalLink: "https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const siaColdFeatSia = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-02",
-  externalId: "7J2EUjTRwOJkCExYxFTz0R",
-  externalLink: "https://open.spotify.com/album/7J2EUjTRwOJkCExYxFTz0R",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7J2EUjTRwOJkCExYxFTz0R",
+      externalLink: "https://open.spotify.com/album/7J2EUjTRwOJkCExYxFTz0R",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

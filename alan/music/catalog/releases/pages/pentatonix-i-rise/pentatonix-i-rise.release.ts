@@ -12,6 +12,11 @@ export const pentatonixIRise = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-08-11",
-  externalId: "2N3GoTPzZ81DIIujoxCYYP",
-  externalLink: "https://open.spotify.com/album/2N3GoTPzZ81DIIujoxCYYP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2N3GoTPzZ81DIIujoxCYYP",
+      externalLink: "https://open.spotify.com/album/2N3GoTPzZ81DIIujoxCYYP",
+    },
+  ],
 } as const satisfies Release

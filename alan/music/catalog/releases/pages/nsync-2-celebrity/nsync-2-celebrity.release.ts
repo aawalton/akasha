@@ -12,6 +12,11 @@ export const nsync2Celebrity = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2001-07-23",
-  externalId: "7zBue2Vuzg4Z3ncRXaIkJg",
-  externalLink: "https://open.spotify.com/album/7zBue2Vuzg4Z3ncRXaIkJg",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7zBue2Vuzg4Z3ncRXaIkJg",
+      externalLink: "https://open.spotify.com/album/7zBue2Vuzg4Z3ncRXaIkJg",
+    },
+  ],
 } as const satisfies Release

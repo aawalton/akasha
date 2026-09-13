@@ -12,7 +12,12 @@ export const siaButtonsCssFilterheadzRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-01-01",
-  externalId: "0Txr8gEa4Lrdy9qELw1pir",
-  externalLink: "https://open.spotify.com/album/0Txr8gEa4Lrdy9qELw1pir",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0Txr8gEa4Lrdy9qELw1pir",
+      externalLink: "https://open.spotify.com/album/0Txr8gEa4Lrdy9qELw1pir",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const paulCardallAscensus = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-05-23",
-  externalId: "6ZUz8GuEhTlA5t6zSm7FQa",
-  externalLink: "https://open.spotify.com/album/6ZUz8GuEhTlA5t6zSm7FQa",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6ZUz8GuEhTlA5t6zSm7FQa",
+      externalLink: "https://open.spotify.com/album/6ZUz8GuEhTlA5t6zSm7FQa",
+    },
+  ],
 } as const satisfies Release

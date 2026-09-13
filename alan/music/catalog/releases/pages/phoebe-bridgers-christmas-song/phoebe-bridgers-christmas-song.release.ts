@@ -12,6 +12,11 @@ export const phoebeBridgersChristmasSong = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-11-29",
-  externalId: "57QwFfafVAQLKXjBSLQwxC",
-  externalLink: "https://open.spotify.com/album/57QwFfafVAQLKXjBSLQwxC",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "57QwFfafVAQLKXjBSLQwxC",
+      externalLink: "https://open.spotify.com/album/57QwFfafVAQLKXjBSLQwxC",
+    },
+  ],
 } as const satisfies Release

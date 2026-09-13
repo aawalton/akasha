@@ -12,7 +12,12 @@ export const siaCheapThrillsRemixFeatNickyJam = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-06-17",
-  externalId: "3vKCCBYeYS6oE1gYSNlU5L",
-  externalLink: "https://open.spotify.com/album/3vKCCBYeYS6oE1gYSNlU5L",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3vKCCBYeYS6oE1gYSNlU5L",
+      externalLink: "https://open.spotify.com/album/3vKCCBYeYS6oE1gYSNlU5L",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

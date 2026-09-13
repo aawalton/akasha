@@ -12,6 +12,11 @@ export const pentatonixWhenYouBelieveBlackStereoFaithUndergroundMix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-12-21",
-  externalId: "79I4RXQcl8po9x4IRngzqR",
-  externalLink: "https://open.spotify.com/album/79I4RXQcl8po9x4IRngzqR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "79I4RXQcl8po9x4IRngzqR",
+      externalLink: "https://open.spotify.com/album/79I4RXQcl8po9x4IRngzqR",
+    },
+  ],
 } as const satisfies Release

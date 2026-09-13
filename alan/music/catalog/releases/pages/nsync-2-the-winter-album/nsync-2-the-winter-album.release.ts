@@ -12,6 +12,11 @@ export const nsync2TheWinterAlbum = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1998-11-13",
-  externalId: "5UwWX4vrHsxTYtjFFI2Dm3",
-  externalLink: "https://open.spotify.com/album/5UwWX4vrHsxTYtjFFI2Dm3",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5UwWX4vrHsxTYtjFFI2Dm3",
+      externalLink: "https://open.spotify.com/album/5UwWX4vrHsxTYtjFFI2Dm3",
+    },
+  ],
 } as const satisfies Release

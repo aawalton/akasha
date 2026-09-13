@@ -12,7 +12,12 @@ export const siaAudioCidRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-06-15",
-  externalId: "1BuWvOi9Z2Tmgv9eQdooR6",
-  externalLink: "https://open.spotify.com/album/1BuWvOi9Z2Tmgv9eQdooR6",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1BuWvOi9Z2Tmgv9eQdooR6",
+      externalLink: "https://open.spotify.com/album/1BuWvOi9Z2Tmgv9eQdooR6",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

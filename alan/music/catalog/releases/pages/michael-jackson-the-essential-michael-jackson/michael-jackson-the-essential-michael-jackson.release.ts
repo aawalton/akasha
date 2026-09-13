@@ -13,7 +13,12 @@ export const michaelJacksonTheEssentialMichaelJackson = {
   status: "completed",
   rank: "C",
   publishedAt: "2005-07-19",
-  externalId: "77dNyQA0z8dV33M4so4eRY",
-  externalLink: "https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "77dNyQA0z8dV33M4so4eRY",
+      externalLink: "https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

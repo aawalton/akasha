@@ -12,6 +12,11 @@ export const nickelCreek2WhenYouComeBackDownLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-21",
-  externalId: "28QYaRrqDwFu4PFpGMGwd8",
-  externalLink: "https://open.spotify.com/album/28QYaRrqDwFu4PFpGMGwd8",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "28QYaRrqDwFu4PFpGMGwd8",
+      externalLink: "https://open.spotify.com/album/28QYaRrqDwFu4PFpGMGwd8",
+    },
+  ],
 } as const satisfies Release

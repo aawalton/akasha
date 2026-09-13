@@ -12,6 +12,11 @@ export const phoebeBridgersWalkingOnAString = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-10-18",
-  externalId: "0pOJaR7bqllOb7vdoG3ikJ",
-  externalLink: "https://open.spotify.com/album/0pOJaR7bqllOb7vdoG3ikJ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0pOJaR7bqllOb7vdoG3ikJ",
+      externalLink: "https://open.spotify.com/album/0pOJaR7bqllOb7vdoG3ikJ",
+    },
+  ],
 } as const satisfies Release

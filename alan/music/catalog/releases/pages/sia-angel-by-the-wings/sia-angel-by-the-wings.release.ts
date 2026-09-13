@@ -12,7 +12,12 @@ export const siaAngelByTheWings = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-12-02",
-  externalId: "1diZXhFKWvBHJg6YMEZ74b",
-  externalLink: "https://open.spotify.com/album/1diZXhFKWvBHJg6YMEZ74b",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1diZXhFKWvBHJg6YMEZ74b",
+      externalLink: "https://open.spotify.com/album/1diZXhFKWvBHJg6YMEZ74b",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

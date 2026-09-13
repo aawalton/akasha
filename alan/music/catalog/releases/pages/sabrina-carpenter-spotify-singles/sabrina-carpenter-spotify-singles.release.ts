@@ -12,7 +12,12 @@ export const sabrinaCarpenterSpotifySingles = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-10-18",
-  externalId: "2kJnIPJHIRZlfOx0TZEKBP",
-  externalLink: "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2kJnIPJHIRZlfOx0TZEKBP",
+      externalLink: "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const michaelJacksonMichaelJacksonTheCompleteRemixSuite = {
   status: "completed",
   rank: "C",
   publishedAt: "2009-10-20",
-  externalId: "5GhKGrFaw4V1oSvnkHmn2s",
-  externalLink: "https://open.spotify.com/album/5GhKGrFaw4V1oSvnkHmn2s",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5GhKGrFaw4V1oSvnkHmn2s",
+      externalLink: "https://open.spotify.com/album/5GhKGrFaw4V1oSvnkHmn2s",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

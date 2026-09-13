@@ -12,6 +12,11 @@ export const rockapellaWhereInTheWorldIsCarmenSandiegoEp = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-23",
-  externalId: "6GbGSJdKJhhBKeHjlebt2j",
-  externalLink: "https://open.spotify.com/album/6GbGSJdKJhhBKeHjlebt2j",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6GbGSJdKJhhBKeHjlebt2j",
+      externalLink: "https://open.spotify.com/album/6GbGSJdKJhhBKeHjlebt2j",
+    },
+  ],
 } as const satisfies Release

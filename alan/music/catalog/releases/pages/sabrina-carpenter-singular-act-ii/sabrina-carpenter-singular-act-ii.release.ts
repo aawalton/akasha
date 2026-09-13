@@ -12,7 +12,12 @@ export const sabrinaCarpenterSingularActIi = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-07-19",
-  externalId: "19KilSbbeHRFFZM7ChwTdP",
-  externalLink: "https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "19KilSbbeHRFFZM7ChwTdP",
+      externalLink: "https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

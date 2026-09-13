@@ -13,7 +13,12 @@ export const musicalTheaterEncantoOriginalMotionPictureSoundtrack = {
   status: "completed",
   rank: "S",
   publishedAt: "2021-11-19",
-  externalId: "25L8ck3KGcmCo3901ztPzR",
-  externalLink: "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "25L8ck3KGcmCo3901ztPzR",
+      externalLink: "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

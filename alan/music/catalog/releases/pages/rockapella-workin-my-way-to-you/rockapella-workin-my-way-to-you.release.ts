@@ -12,6 +12,11 @@ export const rockapellaWorkinMyWayToYou = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-06-01",
-  externalId: "5Fzvio26F3pjamSTro8der",
-  externalLink: "https://open.spotify.com/album/5Fzvio26F3pjamSTro8der",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5Fzvio26F3pjamSTro8der",
+      externalLink: "https://open.spotify.com/album/5Fzvio26F3pjamSTro8der",
+    },
+  ],
 } as const satisfies Release

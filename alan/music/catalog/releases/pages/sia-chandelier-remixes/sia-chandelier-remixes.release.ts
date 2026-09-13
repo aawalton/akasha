@@ -12,7 +12,12 @@ export const siaChandelierRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-07-22",
-  externalId: "5uAPOOQKPlNKyjhp7Z4LQq",
-  externalLink: "https://open.spotify.com/album/5uAPOOQKPlNKyjhp7Z4LQq",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5uAPOOQKPlNKyjhp7Z4LQq",
+      externalLink: "https://open.spotify.com/album/5uAPOOQKPlNKyjhp7Z4LQq",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

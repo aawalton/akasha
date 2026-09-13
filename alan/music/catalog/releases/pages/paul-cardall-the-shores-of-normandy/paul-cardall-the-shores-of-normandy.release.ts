@@ -12,6 +12,11 @@ export const paulCardallTheShoresOfNormandy = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-02",
-  externalId: "76ErnhzN5N0srD2O7RuEtU",
-  externalLink: "https://open.spotify.com/album/76ErnhzN5N0srD2O7RuEtU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "76ErnhzN5N0srD2O7RuEtU",
+      externalLink: "https://open.spotify.com/album/76ErnhzN5N0srD2O7RuEtU",
+    },
+  ],
 } as const satisfies Release

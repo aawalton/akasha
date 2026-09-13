@@ -12,7 +12,12 @@ export const sabrinaCarpenterStandOutFromHowToBuildABetterBoy = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-08-12",
-  externalId: "3cfTPG7l0IBjJh7MVBqNdx",
-  externalLink: "https://open.spotify.com/album/3cfTPG7l0IBjJh7MVBqNdx",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3cfTPG7l0IBjJh7MVBqNdx",
+      externalLink: "https://open.spotify.com/album/3cfTPG7l0IBjJh7MVBqNdx",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

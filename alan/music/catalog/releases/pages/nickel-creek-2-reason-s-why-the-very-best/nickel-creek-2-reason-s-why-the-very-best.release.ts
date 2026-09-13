@@ -12,6 +12,11 @@ export const nickelCreek2ReasonSWhyTheVeryBest = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2006-01-01",
-  externalId: "5MasWnFP4tPyhHmgaV2fMs",
-  externalLink: "https://open.spotify.com/album/5MasWnFP4tPyhHmgaV2fMs",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5MasWnFP4tPyhHmgaV2fMs",
+      externalLink: "https://open.spotify.com/album/5MasWnFP4tPyhHmgaV2fMs",
+    },
+  ],
 } as const satisfies Release

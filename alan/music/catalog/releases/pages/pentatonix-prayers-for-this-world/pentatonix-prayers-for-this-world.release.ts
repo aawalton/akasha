@@ -12,6 +12,11 @@ export const pentatonixPrayersForThisWorld = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-09-23",
-  externalId: "6e4ASUu9fUIw2QBGppK4Qb",
-  externalLink: "https://open.spotify.com/album/6e4ASUu9fUIw2QBGppK4Qb",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6e4ASUu9fUIw2QBGppK4Qb",
+      externalLink: "https://open.spotify.com/album/6e4ASUu9fUIw2QBGppK4Qb",
+    },
+  ],
 } as const satisfies Release

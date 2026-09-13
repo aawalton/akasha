@@ -12,7 +12,12 @@ export const siaFlyMeToTheMoonInspiredByFinalFantasyXiv = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-12-02",
-  externalId: "0bOa1Uhm5O0U2egEoUojc6",
-  externalLink: "https://open.spotify.com/album/0bOa1Uhm5O0U2egEoUojc6",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0bOa1Uhm5O0U2egEoUojc6",
+      externalLink: "https://open.spotify.com/album/0bOa1Uhm5O0U2egEoUojc6",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

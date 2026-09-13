@@ -12,6 +12,11 @@ export const pentatonixAttention = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-03-23",
-  externalId: "6OMyQmPmiu4dKGC2gGd7pk",
-  externalLink: "https://open.spotify.com/album/6OMyQmPmiu4dKGC2gGd7pk",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6OMyQmPmiu4dKGC2gGd7pk",
+      externalLink: "https://open.spotify.com/album/6OMyQmPmiu4dKGC2gGd7pk",
+    },
+  ],
 } as const satisfies Release

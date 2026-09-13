@@ -12,7 +12,12 @@ export const sabrinaCarpenterThatSNotHowThisWorksFeatDanShaySabrinaCarpenterSabr
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-04-14",
-  externalId: "0TN8dXBkeIqDjVfUV3gPpc",
-  externalLink: "https://open.spotify.com/album/0TN8dXBkeIqDjVfUV3gPpc",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0TN8dXBkeIqDjVfUV3gPpc",
+      externalLink: "https://open.spotify.com/album/0TN8dXBkeIqDjVfUV3gPpc",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

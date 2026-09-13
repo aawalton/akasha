@@ -13,7 +13,12 @@ export const michaelJacksonGotToBeThere = {
   status: "completed",
   rank: "C",
   publishedAt: "1972-01-24",
-  externalId: "0F4XW0iBOhNFkbn1BuQ8cu",
-  externalLink: "https://open.spotify.com/album/0F4XW0iBOhNFkbn1BuQ8cu",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0F4XW0iBOhNFkbn1BuQ8cu",
+      externalLink: "https://open.spotify.com/album/0F4XW0iBOhNFkbn1BuQ8cu",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

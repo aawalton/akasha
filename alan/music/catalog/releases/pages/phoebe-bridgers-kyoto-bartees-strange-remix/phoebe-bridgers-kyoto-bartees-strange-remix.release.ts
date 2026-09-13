@@ -13,6 +13,11 @@ export const phoebeBridgersKyotoBarteesStrangeRemix = {
   status: "completed",
   rank: "C",
   publishedAt: "2021-08-19",
-  externalId: "6Cj9iyuugk7TrYqGKFXlOn",
-  externalLink: "https://open.spotify.com/album/6Cj9iyuugk7TrYqGKFXlOn",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Cj9iyuugk7TrYqGKFXlOn",
+      externalLink: "https://open.spotify.com/album/6Cj9iyuugk7TrYqGKFXlOn",
+    },
+  ],
 } as const satisfies Release

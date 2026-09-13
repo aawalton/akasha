@@ -12,6 +12,11 @@ export const pentatonixShallow = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-05-31",
-  externalId: "3LKj5a1ySvJZysPCkUXYfv",
-  externalLink: "https://open.spotify.com/album/3LKj5a1ySvJZysPCkUXYfv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3LKj5a1ySvJZysPCkUXYfv",
+      externalLink: "https://open.spotify.com/album/3LKj5a1ySvJZysPCkUXYfv",
+    },
+  ],
 } as const satisfies Release

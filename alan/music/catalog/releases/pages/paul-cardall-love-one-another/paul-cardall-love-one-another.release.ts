@@ -12,6 +12,11 @@ export const paulCardallLoveOneAnother = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-03-31",
-  externalId: "1VUpyrlgbc6TKYFNacYIpD",
-  externalLink: "https://open.spotify.com/album/1VUpyrlgbc6TKYFNacYIpD",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1VUpyrlgbc6TKYFNacYIpD",
+      externalLink: "https://open.spotify.com/album/1VUpyrlgbc6TKYFNacYIpD",
+    },
+  ],
 } as const satisfies Release

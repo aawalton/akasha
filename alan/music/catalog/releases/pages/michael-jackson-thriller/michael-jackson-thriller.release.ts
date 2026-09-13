@@ -13,7 +13,12 @@ export const michaelJacksonThriller = {
   status: "completed",
   rank: "C",
   publishedAt: "1982-11-30",
-  externalId: "2ANVost0y2y52ema1E9xAZ",
-  externalLink: "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2ANVost0y2y52ema1E9xAZ",
+      externalLink: "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

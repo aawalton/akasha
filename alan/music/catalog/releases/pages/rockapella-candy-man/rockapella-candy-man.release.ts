@@ -12,6 +12,11 @@ export const rockapellaCandyMan = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-02-09",
-  externalId: "4CuC17SpqvkUr8zO7bD0kc",
-  externalLink: "https://open.spotify.com/album/4CuC17SpqvkUr8zO7bD0kc",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4CuC17SpqvkUr8zO7bD0kc",
+      externalLink: "https://open.spotify.com/album/4CuC17SpqvkUr8zO7bD0kc",
+    },
+  ],
 } as const satisfies Release

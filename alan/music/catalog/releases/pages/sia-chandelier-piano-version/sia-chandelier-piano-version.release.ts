@@ -12,7 +12,12 @@ export const siaChandelierPianoVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-09-09",
-  externalId: "5jJssYihQiAJzdx3rgdbRz",
-  externalLink: "https://open.spotify.com/album/5jJssYihQiAJzdx3rgdbRz",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5jJssYihQiAJzdx3rgdbRz",
+      externalLink: "https://open.spotify.com/album/5jJssYihQiAJzdx3rgdbRz",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

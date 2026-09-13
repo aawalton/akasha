@@ -12,7 +12,12 @@ export const siaCheapThrillsFeatSeanPaul = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-02-11",
-  externalId: "4BTlXiDFjyJfpHjR7jlEJo",
-  externalLink: "https://open.spotify.com/album/4BTlXiDFjyJfpHjR7jlEJo",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4BTlXiDFjyJfpHjR7jlEJo",
+      externalLink: "https://open.spotify.com/album/4BTlXiDFjyJfpHjR7jlEJo",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

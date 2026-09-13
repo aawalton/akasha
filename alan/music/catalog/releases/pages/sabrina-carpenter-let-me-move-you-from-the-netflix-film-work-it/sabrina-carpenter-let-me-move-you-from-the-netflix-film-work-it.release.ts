@@ -12,7 +12,12 @@ export const sabrinaCarpenterLetMeMoveYouFromTheNetflixFilmWorkIt = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-24",
-  externalId: "3Ytt3q5EhvSCbvCTrVkz11",
-  externalLink: "https://open.spotify.com/album/3Ytt3q5EhvSCbvCTrVkz11",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3Ytt3q5EhvSCbvCTrVkz11",
+      externalLink: "https://open.spotify.com/album/3Ytt3q5EhvSCbvCTrVkz11",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

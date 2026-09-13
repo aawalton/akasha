@@ -12,6 +12,11 @@ export const paulCardallElizaSTheme = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-08-18",
-  externalId: "1Ys2GeBD9F8i0b5bDnh8yL",
-  externalLink: "https://open.spotify.com/album/1Ys2GeBD9F8i0b5bDnh8yL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Ys2GeBD9F8i0b5bDnh8yL",
+      externalLink: "https://open.spotify.com/album/1Ys2GeBD9F8i0b5bDnh8yL",
+    },
+  ],
 } as const satisfies Release

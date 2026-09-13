@@ -13,7 +13,12 @@ export const michaelJacksonOffTheWall = {
   status: "completed",
   rank: "C",
   publishedAt: "1979-08-10",
-  externalId: "2ZytN2cY4Zjrr9ukb2rqTP",
-  externalLink: "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2ZytN2cY4Zjrr9ukb2rqTP",
+      externalLink: "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

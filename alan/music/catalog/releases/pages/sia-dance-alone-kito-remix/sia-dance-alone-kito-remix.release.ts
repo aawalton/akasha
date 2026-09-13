@@ -12,7 +12,12 @@ export const siaDanceAloneKitoRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-03-08",
-  externalId: "0QPJ40cXdOLGrLDcLjVsmo",
-  externalLink: "https://open.spotify.com/album/0QPJ40cXdOLGrLDcLjVsmo",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0QPJ40cXdOLGrLDcLjVsmo",
+      externalLink: "https://open.spotify.com/album/0QPJ40cXdOLGrLDcLjVsmo",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

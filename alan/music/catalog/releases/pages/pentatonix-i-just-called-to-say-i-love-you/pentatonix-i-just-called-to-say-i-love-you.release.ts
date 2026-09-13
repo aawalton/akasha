@@ -12,6 +12,11 @@ export const pentatonixIJustCalledToSayILoveYou = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-01",
-  externalId: "7bka3HXnE5PRXwFWN0plgw",
-  externalLink: "https://open.spotify.com/album/7bka3HXnE5PRXwFWN0plgw",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7bka3HXnE5PRXwFWN0plgw",
+      externalLink: "https://open.spotify.com/album/7bka3HXnE5PRXwFWN0plgw",
+    },
+  ],
 } as const satisfies Release

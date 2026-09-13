@@ -12,6 +12,11 @@ export const phoebeBridgersLittleTroubleBWSleepwalkinDaydreaminVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-04-24",
-  externalId: "1goYC23kRdqkbm8KkcPi52",
-  externalLink: "https://open.spotify.com/album/1goYC23kRdqkbm8KkcPi52",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1goYC23kRdqkbm8KkcPi52",
+      externalLink: "https://open.spotify.com/album/1goYC23kRdqkbm8KkcPi52",
+    },
+  ],
 } as const satisfies Release

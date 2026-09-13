@@ -12,6 +12,11 @@ export const paulCardallNewLife = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-02-11",
-  externalId: "5QJOcbjUQN8xe4AFNORN7l",
-  externalLink: "https://open.spotify.com/album/5QJOcbjUQN8xe4AFNORN7l",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5QJOcbjUQN8xe4AFNORN7l",
+      externalLink: "https://open.spotify.com/album/5QJOcbjUQN8xe4AFNORN7l",
+    },
+  ],
 } as const satisfies Release

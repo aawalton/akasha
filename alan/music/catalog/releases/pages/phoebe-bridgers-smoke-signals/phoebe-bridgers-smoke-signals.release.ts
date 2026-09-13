@@ -12,6 +12,11 @@ export const phoebeBridgersSmokeSignals = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-01-13",
-  externalId: "6gouZs8Y2Tx6NVF1zr4hof",
-  externalLink: "https://open.spotify.com/album/6gouZs8Y2Tx6NVF1zr4hof",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6gouZs8Y2Tx6NVF1zr4hof",
+      externalLink: "https://open.spotify.com/album/6gouZs8Y2Tx6NVF1zr4hof",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const siaFloatingThroughSpaceFeatDavidGuettaHexSiaInSpaceMix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-30",
-  externalId: "6cRpVZpFEOMYuTlQLXWcMv",
-  externalLink: "https://open.spotify.com/album/6cRpVZpFEOMYuTlQLXWcMv",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6cRpVZpFEOMYuTlQLXWcMv",
+      externalLink: "https://open.spotify.com/album/6cRpVZpFEOMYuTlQLXWcMv",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const pentatonixHolidaysAroundTheWorld = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-28",
-  externalId: "73NpyNEQHBYey6oZZrFD6X",
-  externalLink: "https://open.spotify.com/album/73NpyNEQHBYey6oZZrFD6X",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "73NpyNEQHBYey6oZZrFD6X",
+      externalLink: "https://open.spotify.com/album/73NpyNEQHBYey6oZZrFD6X",
+    },
+  ],
 } as const satisfies Release

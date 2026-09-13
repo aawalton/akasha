@@ -12,6 +12,11 @@ export const paulCardallAscensusChristiAPianoRhapsody = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-04-04",
-  externalId: "11WI4gYV1kTzrr6SGil1gj",
-  externalLink: "https://open.spotify.com/album/11WI4gYV1kTzrr6SGil1gj",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "11WI4gYV1kTzrr6SGil1gj",
+      externalLink: "https://open.spotify.com/album/11WI4gYV1kTzrr6SGil1gj",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const michaelJacksonImmortal = {
   status: "completed",
   rank: "C",
   publishedAt: "2011-11-21",
-  externalId: "5ReKddpdZKgpVlecQhLnEH",
-  externalLink: "https://open.spotify.com/album/5ReKddpdZKgpVlecQhLnEH",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5ReKddpdZKgpVlecQhLnEH",
+      externalLink: "https://open.spotify.com/album/5ReKddpdZKgpVlecQhLnEH",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

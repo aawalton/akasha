@@ -12,6 +12,11 @@ export const pentatonixCruisinForABruisinInspiredByTeenBeachMovie = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-01-01",
-  externalId: "6gfPLNyKpIs8Aafvd8ajnD",
-  externalLink: "https://open.spotify.com/album/6gfPLNyKpIs8Aafvd8ajnD",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6gfPLNyKpIs8Aafvd8ajnD",
+      externalLink: "https://open.spotify.com/album/6gfPLNyKpIs8Aafvd8ajnD",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const pentatonixPleaseSantaPlease = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-09-25",
-  externalId: "4ERnwq2BFXL3tcq0LAhXj7",
-  externalLink: "https://open.spotify.com/album/4ERnwq2BFXL3tcq0LAhXj7",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4ERnwq2BFXL3tcq0LAhXj7",
+      externalLink: "https://open.spotify.com/album/4ERnwq2BFXL3tcq0LAhXj7",
+    },
+  ],
 } as const satisfies Release

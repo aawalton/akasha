@@ -12,6 +12,11 @@ export const nsync2HomeForChristmas = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1998-10-23",
-  externalId: "5nQhqsmAirtZqHID6tkcnh",
-  externalLink: "https://open.spotify.com/album/5nQhqsmAirtZqHID6tkcnh",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5nQhqsmAirtZqHID6tkcnh",
+      externalLink: "https://open.spotify.com/album/5nQhqsmAirtZqHID6tkcnh",
+    },
+  ],
 } as const satisfies Release

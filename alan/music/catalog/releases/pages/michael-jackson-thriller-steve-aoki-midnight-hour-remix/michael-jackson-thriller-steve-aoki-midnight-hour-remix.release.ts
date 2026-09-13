@@ -13,7 +13,12 @@ export const michaelJacksonThrillerSteveAokiMidnightHourRemix = {
   status: "completed",
   rank: "C",
   publishedAt: "2017-09-29",
-  externalId: "2op4ptUiy3MgFkEUgSWzO2",
-  externalLink: "https://open.spotify.com/album/2op4ptUiy3MgFkEUgSWzO2",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2op4ptUiy3MgFkEUgSWzO2",
+      externalLink: "https://open.spotify.com/album/2op4ptUiy3MgFkEUgSWzO2",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

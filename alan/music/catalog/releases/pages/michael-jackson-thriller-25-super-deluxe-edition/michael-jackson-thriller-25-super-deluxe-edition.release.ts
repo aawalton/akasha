@@ -13,7 +13,12 @@ export const michaelJacksonThriller25SuperDeluxeEdition = {
   status: "completed",
   rank: "C",
   publishedAt: "2008-02-08",
-  externalId: "1C2h7mLntPSeVYciMRTF4a",
-  externalLink: "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1C2h7mLntPSeVYciMRTF4a",
+      externalLink: "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

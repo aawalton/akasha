@@ -12,6 +12,11 @@ export const rockapellaSirGotalot = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-07-23",
-  externalId: "0Tr7A4kCojvq0AEcJWmTEb",
-  externalLink: "https://open.spotify.com/album/0Tr7A4kCojvq0AEcJWmTEb",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0Tr7A4kCojvq0AEcJWmTEb",
+      externalLink: "https://open.spotify.com/album/0Tr7A4kCojvq0AEcJWmTEb",
+    },
+  ],
 } as const satisfies Release

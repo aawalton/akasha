@@ -12,6 +12,11 @@ export const paulCardallAllISeeIsSnow = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-04",
-  externalId: "5Yd5YDAQLdqQV9R73dRPSX",
-  externalLink: "https://open.spotify.com/album/5Yd5YDAQLdqQV9R73dRPSX",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5Yd5YDAQLdqQV9R73dRPSX",
+      externalLink: "https://open.spotify.com/album/5Yd5YDAQLdqQV9R73dRPSX",
+    },
+  ],
 } as const satisfies Release

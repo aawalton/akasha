@@ -12,7 +12,12 @@ export const siaBeautifulPeopleKaazeRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-04-04",
-  externalId: "6WcmniYgzJOxahWNYODkmv",
-  externalLink: "https://open.spotify.com/album/6WcmniYgzJOxahWNYODkmv",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6WcmniYgzJOxahWNYODkmv",
+      externalLink: "https://open.spotify.com/album/6WcmniYgzJOxahWNYODkmv",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const pentatonixMeetMeNextChristmas = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-11-01",
-  externalId: "2VVfxBR6rxdMOyBPQZAyPx",
-  externalLink: "https://open.spotify.com/album/2VVfxBR6rxdMOyBPQZAyPx",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2VVfxBR6rxdMOyBPQZAyPx",
+      externalLink: "https://open.spotify.com/album/2VVfxBR6rxdMOyBPQZAyPx",
+    },
+  ],
 } as const satisfies Release

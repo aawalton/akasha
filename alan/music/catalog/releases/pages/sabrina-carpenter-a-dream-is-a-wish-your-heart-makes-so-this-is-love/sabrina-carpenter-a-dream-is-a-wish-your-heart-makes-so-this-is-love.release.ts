@@ -12,7 +12,12 @@ export const sabrinaCarpenterADreamIsAWishYourHeartMakesSoThisIsLove = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-08-26",
-  externalId: "3Es44cvPertgyqLdX7Shob",
-  externalLink: "https://open.spotify.com/album/3Es44cvPertgyqLdX7Shob",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3Es44cvPertgyqLdX7Shob",
+      externalLink: "https://open.spotify.com/album/3Es44cvPertgyqLdX7Shob",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

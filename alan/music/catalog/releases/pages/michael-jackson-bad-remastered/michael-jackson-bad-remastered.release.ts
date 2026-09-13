@@ -13,7 +13,12 @@ export const michaelJacksonBadRemastered = {
   status: "completed",
   rank: "C",
   publishedAt: "1987-08-31",
-  externalId: "3Us57CjssWnHjTUIXBuIeH",
-  externalLink: "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3Us57CjssWnHjTUIXBuIeH",
+      externalLink: "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const reneeRappNotMyFaultWithMeganTheeStallion = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-12-15",
-  externalId: "0CUn0aYLhWWL6LBMFSoaJj",
-  externalLink: "https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0CUn0aYLhWWL6LBMFSoaJj",
+      externalLink: "https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj",
+    },
+  ],
 } as const satisfies Release

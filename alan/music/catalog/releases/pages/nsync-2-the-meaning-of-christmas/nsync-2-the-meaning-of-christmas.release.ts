@@ -12,6 +12,11 @@ export const nsync2TheMeaningOfChristmas = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2002-10-05",
-  externalId: "7cEVTY4TRTMsM6F8RI8hXR",
-  externalLink: "https://open.spotify.com/album/7cEVTY4TRTMsM6F8RI8hXR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7cEVTY4TRTMsM6F8RI8hXR",
+      externalLink: "https://open.spotify.com/album/7cEVTY4TRTMsM6F8RI8hXR",
+    },
+  ],
 } as const satisfies Release

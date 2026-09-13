@@ -12,6 +12,11 @@ export const nickelCreek2Strangers = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-01-24",
-  externalId: "0Ko043n4FVz0uor1vl7fmK",
-  externalLink: "https://open.spotify.com/album/0Ko043n4FVz0uor1vl7fmK",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0Ko043n4FVz0uor1vl7fmK",
+      externalLink: "https://open.spotify.com/album/0Ko043n4FVz0uor1vl7fmK",
+    },
+  ],
 } as const satisfies Release

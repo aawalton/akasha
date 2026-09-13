@@ -12,6 +12,11 @@ export const pentatonixWavingThroughAWindow = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-05-22",
-  externalId: "1Lu19hxsgZSYrDFT7gGIK1",
-  externalLink: "https://open.spotify.com/album/1Lu19hxsgZSYrDFT7gGIK1",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Lu19hxsgZSYrDFT7gGIK1",
+      externalLink: "https://open.spotify.com/album/1Lu19hxsgZSYrDFT7gGIK1",
+    },
+  ],
 } as const satisfies Release

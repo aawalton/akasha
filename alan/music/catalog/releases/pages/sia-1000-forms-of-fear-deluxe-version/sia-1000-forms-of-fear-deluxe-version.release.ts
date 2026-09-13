@@ -12,7 +12,12 @@ export const sia1000FormsOfFearDeluxeVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-05-04",
-  externalId: "6FdNvoO5sF4EKwCX9je1MH",
-  externalLink: "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6FdNvoO5sF4EKwCX9je1MH",
+      externalLink: "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

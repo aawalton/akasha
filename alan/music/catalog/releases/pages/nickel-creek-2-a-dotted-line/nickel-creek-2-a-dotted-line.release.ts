@@ -12,6 +12,11 @@ export const nickelCreek2ADottedLine = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-03-28",
-  externalId: "3ujidZyCiCruwocS0bDmt2",
-  externalLink: "https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ujidZyCiCruwocS0bDmt2",
+      externalLink: "https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2",
+    },
+  ],
 } as const satisfies Release

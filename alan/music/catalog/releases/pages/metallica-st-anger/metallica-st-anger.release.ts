@@ -12,6 +12,11 @@ export const metallicaStAnger = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2003-06-05",
-  externalId: "4ljK2LVKvEPd5xPgUJn0Bs",
-  externalLink: "https://open.spotify.com/album/4ljK2LVKvEPd5xPgUJn0Bs",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4ljK2LVKvEPd5xPgUJn0Bs",
+      externalLink: "https://open.spotify.com/album/4ljK2LVKvEPd5xPgUJn0Bs",
+    },
+  ],
 } as const satisfies Release

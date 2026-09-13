@@ -12,7 +12,12 @@ export const paulCardallFatherSBlessing = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2026-01-30",
-  externalId: "65YCv8qtswBUKezJa52DNG",
-  externalLink: "https://open.spotify.com/album/65YCv8qtswBUKezJa52DNG",
-  lastSyncedAt: "2026-03-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "65YCv8qtswBUKezJa52DNG",
+      externalLink: "https://open.spotify.com/album/65YCv8qtswBUKezJa52DNG",
+      lastSyncedAt: "2026-03-01",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const pentatonixAuldLangSyne = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-18",
-  externalId: "2yrwigFwQa08Ty6HCovWqC",
-  externalLink: "https://open.spotify.com/album/2yrwigFwQa08Ty6HCovWqC",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2yrwigFwQa08Ty6HCovWqC",
+      externalLink: "https://open.spotify.com/album/2yrwigFwQa08Ty6HCovWqC",
+    },
+  ],
 } as const satisfies Release

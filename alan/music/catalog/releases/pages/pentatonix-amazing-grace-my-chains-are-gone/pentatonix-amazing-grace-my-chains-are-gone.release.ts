@@ -12,6 +12,11 @@ export const pentatonixAmazingGraceMyChainsAreGone = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-06",
-  externalId: "79lEnReHKSSddS0nGdXMKk",
-  externalLink: "https://open.spotify.com/album/79lEnReHKSSddS0nGdXMKk",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "79lEnReHKSSddS0nGdXMKk",
+      externalLink: "https://open.spotify.com/album/79lEnReHKSSddS0nGdXMKk",
+    },
+  ],
 } as const satisfies Release

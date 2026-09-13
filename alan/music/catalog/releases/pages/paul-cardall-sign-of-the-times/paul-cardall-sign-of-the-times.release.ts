@@ -12,6 +12,11 @@ export const paulCardallSignOfTheTimes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-06-23",
-  externalId: "4SBy8zVCZXxPgVy7mCcdBU",
-  externalLink: "https://open.spotify.com/album/4SBy8zVCZXxPgVy7mCcdBU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4SBy8zVCZXxPgVy7mCcdBU",
+      externalLink: "https://open.spotify.com/album/4SBy8zVCZXxPgVy7mCcdBU",
+    },
+  ],
 } as const satisfies Release

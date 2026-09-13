@@ -12,7 +12,12 @@ export const siaFameWonTLoveYouFeatParisHilton = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-04-19",
-  externalId: "7iRrjlIP9COrhuNaX65WZb",
-  externalLink: "https://open.spotify.com/album/7iRrjlIP9COrhuNaX65WZb",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7iRrjlIP9COrhuNaX65WZb",
+      externalLink: "https://open.spotify.com/album/7iRrjlIP9COrhuNaX65WZb",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

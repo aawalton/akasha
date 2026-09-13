@@ -12,7 +12,12 @@ export const siaBreatheMe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2004-01-01",
-  externalId: "0eNylNA3V93QmmxPM9S9XP",
-  externalLink: "https://open.spotify.com/album/0eNylNA3V93QmmxPM9S9XP",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0eNylNA3V93QmmxPM9S9XP",
+      externalLink: "https://open.spotify.com/album/0eNylNA3V93QmmxPM9S9XP",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

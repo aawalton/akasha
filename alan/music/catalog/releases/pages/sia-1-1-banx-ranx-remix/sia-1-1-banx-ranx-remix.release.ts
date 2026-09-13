@@ -12,7 +12,12 @@ export const sia11BanxRanxRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-07-23",
-  externalId: "43poJe5jB1V5sSYCRt587u",
-  externalLink: "https://open.spotify.com/album/43poJe5jB1V5sSYCRt587u",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "43poJe5jB1V5sSYCRt587u",
+      externalLink: "https://open.spotify.com/album/43poJe5jB1V5sSYCRt587u",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

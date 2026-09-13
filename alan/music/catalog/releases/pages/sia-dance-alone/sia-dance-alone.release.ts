@@ -12,7 +12,12 @@ export const siaDanceAlone = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-02-07",
-  externalId: "6VFvESDvhvsBjCSlIXpIXw",
-  externalLink: "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6VFvESDvhvsBjCSlIXpIXw",
+      externalLink: "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

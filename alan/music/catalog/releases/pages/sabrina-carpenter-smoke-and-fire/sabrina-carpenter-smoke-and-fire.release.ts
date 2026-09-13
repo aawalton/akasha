@@ -12,7 +12,12 @@ export const sabrinaCarpenterSmokeAndFire = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-02-19",
-  externalId: "6BNXa8shuN3ANF4P0J2ElP",
-  externalLink: "https://open.spotify.com/album/6BNXa8shuN3ANF4P0J2ElP",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6BNXa8shuN3ANF4P0J2ElP",
+      externalLink: "https://open.spotify.com/album/6BNXa8shuN3ANF4P0J2ElP",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const sabrinaCarpenterTakeOnTheWorldThemeSongFromGirlMeetsWorld = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-01-01",
-  externalId: "2gfzrQkA6WzsX13kOhf3wU",
-  externalLink: "https://open.spotify.com/album/2gfzrQkA6WzsX13kOhf3wU",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2gfzrQkA6WzsX13kOhf3wU",
+      externalLink: "https://open.spotify.com/album/2gfzrQkA6WzsX13kOhf3wU",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

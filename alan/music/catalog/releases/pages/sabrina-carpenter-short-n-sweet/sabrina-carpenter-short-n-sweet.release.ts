@@ -12,7 +12,12 @@ export const sabrinaCarpenterShortNSweet = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-08-23",
-  externalId: "3iPSVi54hsacKKl1xIR2eH",
-  externalLink: "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3iPSVi54hsacKKl1xIR2eH",
+      externalLink: "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

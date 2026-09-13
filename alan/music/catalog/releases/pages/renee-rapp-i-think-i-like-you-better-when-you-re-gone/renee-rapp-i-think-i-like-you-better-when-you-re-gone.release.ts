@@ -13,6 +13,11 @@ export const reneeRappIThinkILikeYouBetterWhenYouReGone = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-07-31",
-  externalId: "1l0MA9iQ6UAnSFKU9SDeyt",
-  externalLink: "https://open.spotify.com/album/1l0MA9iQ6UAnSFKU9SDeyt",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1l0MA9iQ6UAnSFKU9SDeyt",
+      externalLink: "https://open.spotify.com/album/1l0MA9iQ6UAnSFKU9SDeyt",
+    },
+  ],
 } as const satisfies Release

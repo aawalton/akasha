@@ -13,7 +13,12 @@ export const michaelJacksonScream = {
   status: "completed",
   rank: "C",
   publishedAt: "2017-09-27",
-  externalId: "2X8UOIkZQdcz2Hi5Ynt2uk",
-  externalLink: "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2X8UOIkZQdcz2Hi5Ynt2uk",
+      externalLink: "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

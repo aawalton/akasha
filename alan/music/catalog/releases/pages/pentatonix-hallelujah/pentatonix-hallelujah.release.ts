@@ -12,6 +12,11 @@ export const pentatonixHallelujah = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-01-06",
-  externalId: "1zwXAdIuszeLhNEhCEGC4y",
-  externalLink: "https://open.spotify.com/album/1zwXAdIuszeLhNEhCEGC4y",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1zwXAdIuszeLhNEhCEGC4y",
+      externalLink: "https://open.spotify.com/album/1zwXAdIuszeLhNEhCEGC4y",
+    },
+  ],
 } as const satisfies Release

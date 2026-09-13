@@ -12,7 +12,12 @@ export const siaCheapThrills = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-12-17",
-  externalId: "1ZMYMTP0S4hp9AlGkAWWjt",
-  externalLink: "https://open.spotify.com/album/1ZMYMTP0S4hp9AlGkAWWjt",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1ZMYMTP0S4hp9AlGkAWWjt",
+      externalLink: "https://open.spotify.com/album/1ZMYMTP0S4hp9AlGkAWWjt",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

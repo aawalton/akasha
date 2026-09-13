@@ -12,6 +12,11 @@ export const paulCardallPrimaryWorship = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2005-09-14",
-  externalId: "5O2gDJ3JsWX854qnmnDzyS",
-  externalLink: "https://open.spotify.com/album/5O2gDJ3JsWX854qnmnDzyS",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5O2gDJ3JsWX854qnmnDzyS",
+      externalLink: "https://open.spotify.com/album/5O2gDJ3JsWX854qnmnDzyS",
+    },
+  ],
 } as const satisfies Release

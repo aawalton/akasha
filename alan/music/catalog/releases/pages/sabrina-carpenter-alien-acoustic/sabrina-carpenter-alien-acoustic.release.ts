@@ -12,7 +12,12 @@ export const sabrinaCarpenterAlienAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-05-11",
-  externalId: "6lA3p7IHcwFXjdy08QkGWS",
-  externalLink: "https://open.spotify.com/album/6lA3p7IHcwFXjdy08QkGWS",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6lA3p7IHcwFXjdy08QkGWS",
+      externalLink: "https://open.spotify.com/album/6lA3p7IHcwFXjdy08QkGWS",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

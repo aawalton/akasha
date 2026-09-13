@@ -12,7 +12,12 @@ export const siaExhaleFeatSiaPinkPandaRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-31",
-  externalId: "4hlpb8S8WMJ3N5VEvn6Ijr",
-  externalLink: "https://open.spotify.com/album/4hlpb8S8WMJ3N5VEvn6Ijr",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4hlpb8S8WMJ3N5VEvn6Ijr",
+      externalLink: "https://open.spotify.com/album/4hlpb8S8WMJ3N5VEvn6Ijr",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

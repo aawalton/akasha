@@ -12,7 +12,12 @@ export const siaBeautifulPeopleJustusRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-28",
-  externalId: "2BmxliWwVK20rfXinPRghV",
-  externalLink: "https://open.spotify.com/album/2BmxliWwVK20rfXinPRghV",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2BmxliWwVK20rfXinPRghV",
+      externalLink: "https://open.spotify.com/album/2BmxliWwVK20rfXinPRghV",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

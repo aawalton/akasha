@@ -12,7 +12,12 @@ export const siaFloatingThroughSpaceFeatDavidGuettaHexHectorSRollerJamMix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-03-19",
-  externalId: "5T6J7csn58k9CxFIiJLBvs",
-  externalLink: "https://open.spotify.com/album/5T6J7csn58k9CxFIiJLBvs",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5T6J7csn58k9CxFIiJLBvs",
+      externalLink: "https://open.spotify.com/album/5T6J7csn58k9CxFIiJLBvs",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

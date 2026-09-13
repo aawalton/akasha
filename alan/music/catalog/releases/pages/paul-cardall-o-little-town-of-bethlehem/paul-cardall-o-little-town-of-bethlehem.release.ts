@@ -12,6 +12,11 @@ export const paulCardallOLittleTownOfBethlehem = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-24",
-  externalId: "1tAwMgWqxsk3iDVpioTUWM",
-  externalLink: "https://open.spotify.com/album/1tAwMgWqxsk3iDVpioTUWM",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1tAwMgWqxsk3iDVpioTUWM",
+      externalLink: "https://open.spotify.com/album/1tAwMgWqxsk3iDVpioTUWM",
+    },
+  ],
 } as const satisfies Release

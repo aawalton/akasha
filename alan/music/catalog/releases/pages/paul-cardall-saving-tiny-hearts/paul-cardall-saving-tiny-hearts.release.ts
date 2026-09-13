@@ -12,6 +12,11 @@ export const paulCardallSavingTinyHearts = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-11-11",
-  externalId: "5rmINAZz8JiUVDSvktSK4v",
-  externalLink: "https://open.spotify.com/album/5rmINAZz8JiUVDSvktSK4v",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5rmINAZz8JiUVDSvktSK4v",
+      externalLink: "https://open.spotify.com/album/5rmINAZz8JiUVDSvktSK4v",
+    },
+  ],
 } as const satisfies Release

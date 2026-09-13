@@ -12,7 +12,12 @@ export const sabrinaCarpenterNonsenseSpedUpVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-14",
-  externalId: "23eBqMqUmcb1wcxuXfYw6k",
-  externalLink: "https://open.spotify.com/album/23eBqMqUmcb1wcxuXfYw6k",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "23eBqMqUmcb1wcxuXfYw6k",
+      externalLink: "https://open.spotify.com/album/23eBqMqUmcb1wcxuXfYw6k",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

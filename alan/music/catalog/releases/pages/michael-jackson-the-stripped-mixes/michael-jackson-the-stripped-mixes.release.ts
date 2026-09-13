@@ -13,7 +13,12 @@ export const michaelJacksonTheStrippedMixes = {
   status: "completed",
   rank: "C",
   publishedAt: "2009-07-28",
-  externalId: "2MKcGeGM92x4d5lwpfjiPa",
-  externalLink: "https://open.spotify.com/album/2MKcGeGM92x4d5lwpfjiPa",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2MKcGeGM92x4d5lwpfjiPa",
+      externalLink: "https://open.spotify.com/album/2MKcGeGM92x4d5lwpfjiPa",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const sabrinaCarpenterILlBeHomeForChristmas = {
   unit: "minutes",
   status: "in-progress",
   publishedAt: "2012-12-19",
-  externalId: "0Ixya7yaDdNFbLpOCyEdvT",
-  externalLink: "https://open.spotify.com/album/0Ixya7yaDdNFbLpOCyEdvT",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0Ixya7yaDdNFbLpOCyEdvT",
+      externalLink: "https://open.spotify.com/album/0Ixya7yaDdNFbLpOCyEdvT",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

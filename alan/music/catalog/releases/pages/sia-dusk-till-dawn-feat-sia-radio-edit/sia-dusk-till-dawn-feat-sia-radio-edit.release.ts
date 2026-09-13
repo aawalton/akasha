@@ -12,7 +12,12 @@ export const siaDuskTillDawnFeatSiaRadioEdit = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-09-07",
-  externalId: "5l5gR4rh26QI3fijGFTDrp",
-  externalLink: "https://open.spotify.com/album/5l5gR4rh26QI3fijGFTDrp",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5l5gR4rh26QI3fijGFTDrp",
+      externalLink: "https://open.spotify.com/album/5l5gR4rh26QI3fijGFTDrp",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

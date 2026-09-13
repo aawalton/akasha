@@ -13,7 +13,12 @@ export const michaelJacksonLoveNeverFeltSoGoodFeddeLeGrandRemixRadioEdit = {
   status: "completed",
   rank: "C",
   publishedAt: "2014-05-19",
-  externalId: "6JXkWyhiS8cLHvXeF8kjtd",
-  externalLink: "https://open.spotify.com/album/6JXkWyhiS8cLHvXeF8kjtd",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6JXkWyhiS8cLHvXeF8kjtd",
+      externalLink: "https://open.spotify.com/album/6JXkWyhiS8cLHvXeF8kjtd",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

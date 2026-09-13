@@ -12,7 +12,12 @@ export const sabrinaCarpenterThumbsAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-04-21",
-  externalId: "2q3ZRR1ucbsr9XMcewLrU8",
-  externalLink: "https://open.spotify.com/album/2q3ZRR1ucbsr9XMcewLrU8",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2q3ZRR1ucbsr9XMcewLrU8",
+      externalLink: "https://open.spotify.com/album/2q3ZRR1ucbsr9XMcewLrU8",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const phoebeBridgersKyotoTheMariasRemix = {
   status: "completed",
   rank: "C",
   publishedAt: "2021-08-19",
-  externalId: "0xMkev5tjeicR9DwfCkBhf",
-  externalLink: "https://open.spotify.com/album/0xMkev5tjeicR9DwfCkBhf",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0xMkev5tjeicR9DwfCkBhf",
+      externalLink: "https://open.spotify.com/album/0xMkev5tjeicR9DwfCkBhf",
+    },
+  ],
 } as const satisfies Release

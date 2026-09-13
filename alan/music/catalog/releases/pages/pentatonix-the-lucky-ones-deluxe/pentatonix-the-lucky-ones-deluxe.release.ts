@@ -12,6 +12,11 @@ export const pentatonixTheLuckyOnesDeluxe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-09-10",
-  externalId: "2ryebd6mWqm1tI2Wr4ZbMp",
-  externalLink: "https://open.spotify.com/album/2ryebd6mWqm1tI2Wr4ZbMp",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2ryebd6mWqm1tI2Wr4ZbMp",
+      externalLink: "https://open.spotify.com/album/2ryebd6mWqm1tI2Wr4ZbMp",
+    },
+  ],
 } as const satisfies Release

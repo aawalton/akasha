@@ -13,7 +13,12 @@ export const michaelJacksonXscapeTrackByTrackCommentary = {
   status: "completed",
   rank: "C",
   publishedAt: "2014-05-09",
-  externalId: "54WFfZzds26NrwcmStfamd",
-  externalLink: "https://open.spotify.com/album/54WFfZzds26NrwcmStfamd",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "54WFfZzds26NrwcmStfamd",
+      externalLink: "https://open.spotify.com/album/54WFfZzds26NrwcmStfamd",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const phoebeBridgersGeorgiaLee = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-22",
-  externalId: "0H71hciQVDJq3azuJ3IIFz",
-  externalLink: "https://open.spotify.com/album/0H71hciQVDJq3azuJ3IIFz",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0H71hciQVDJq3azuJ3IIFz",
+      externalLink: "https://open.spotify.com/album/0H71hciQVDJq3azuJ3IIFz",
+    },
+  ],
 } as const satisfies Release

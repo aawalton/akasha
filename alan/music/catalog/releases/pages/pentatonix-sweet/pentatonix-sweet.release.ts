@@ -12,6 +12,11 @@ export const pentatonixSweet = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-22",
-  externalId: "47UYmpTcR2FzI3lWJagsoL",
-  externalLink: "https://open.spotify.com/album/47UYmpTcR2FzI3lWJagsoL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "47UYmpTcR2FzI3lWJagsoL",
+      externalLink: "https://open.spotify.com/album/47UYmpTcR2FzI3lWJagsoL",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const pentatonixThunderFromRyanSWorldTheMovieTitanUniverseAdventure = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-07-12",
-  externalId: "08ZPn9eysoME0txaUpYVEc",
-  externalLink: "https://open.spotify.com/album/08ZPn9eysoME0txaUpYVEc",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "08ZPn9eysoME0txaUpYVEc",
+      externalLink: "https://open.spotify.com/album/08ZPn9eysoME0txaUpYVEc",
+    },
+  ],
 } as const satisfies Release

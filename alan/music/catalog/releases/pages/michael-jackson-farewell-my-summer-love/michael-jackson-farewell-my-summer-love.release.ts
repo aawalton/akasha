@@ -13,7 +13,12 @@ export const michaelJacksonFarewellMySummerLove = {
   status: "completed",
   rank: "C",
   publishedAt: "1984-05-08",
-  externalId: "21KDELF4LP2L6EUGIi48qR",
-  externalLink: "https://open.spotify.com/album/21KDELF4LP2L6EUGIi48qR",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "21KDELF4LP2L6EUGIi48qR",
+      externalLink: "https://open.spotify.com/album/21KDELF4LP2L6EUGIi48qR",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

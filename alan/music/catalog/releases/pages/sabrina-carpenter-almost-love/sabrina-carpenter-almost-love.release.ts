@@ -12,7 +12,12 @@ export const sabrinaCarpenterAlmostLove = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-08-24",
-  externalId: "4AICAv06yCiu66i4TOPWgO",
-  externalLink: "https://open.spotify.com/album/4AICAv06yCiu66i4TOPWgO",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4AICAv06yCiu66i4TOPWgO",
+      externalLink: "https://open.spotify.com/album/4AICAv06yCiu66i4TOPWgO",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

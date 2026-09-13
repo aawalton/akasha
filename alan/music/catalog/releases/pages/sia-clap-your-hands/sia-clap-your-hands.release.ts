@@ -12,7 +12,12 @@ export const siaClapYourHands = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2010-05-25",
-  externalId: "3razBQg1Nq3dENB8pg70Pa",
-  externalLink: "https://open.spotify.com/album/3razBQg1Nq3dENB8pg70Pa",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3razBQg1Nq3dENB8pg70Pa",
+      externalLink: "https://open.spotify.com/album/3razBQg1Nq3dENB8pg70Pa",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

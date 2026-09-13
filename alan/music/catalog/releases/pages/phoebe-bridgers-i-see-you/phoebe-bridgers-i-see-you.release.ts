@@ -12,6 +12,11 @@ export const phoebeBridgersISeeYou = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-19",
-  externalId: "3ShsQlualbzfqeYZ3h1yQs",
-  externalLink: "https://open.spotify.com/album/3ShsQlualbzfqeYZ3h1yQs",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ShsQlualbzfqeYZ3h1yQs",
+      externalLink: "https://open.spotify.com/album/3ShsQlualbzfqeYZ3h1yQs",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const metallicaTheMetallicaBlacklist = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-09-10",
-  externalId: "73pUIoNvoi8m51Vg97CAKX",
-  externalLink: "https://open.spotify.com/album/73pUIoNvoi8m51Vg97CAKX",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "73pUIoNvoi8m51Vg97CAKX",
+      externalLink: "https://open.spotify.com/album/73pUIoNvoi8m51Vg97CAKX",
+    },
+  ],
 } as const satisfies Release

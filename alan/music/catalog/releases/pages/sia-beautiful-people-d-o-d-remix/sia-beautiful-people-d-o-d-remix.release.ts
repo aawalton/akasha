@@ -12,7 +12,12 @@ export const siaBeautifulPeopleDODRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-04-18",
-  externalId: "5TtDmiHI1cGumlfembDNx8",
-  externalLink: "https://open.spotify.com/album/5TtDmiHI1cGumlfembDNx8",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5TtDmiHI1cGumlfembDNx8",
+      externalLink: "https://open.spotify.com/album/5TtDmiHI1cGumlfembDNx8",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

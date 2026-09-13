@@ -12,6 +12,11 @@ export const nsync2NoStringsAttached = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2000-03-21",
-  externalId: "20RMokVwJ2wjQ0s8FOdOFC",
-  externalLink: "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "20RMokVwJ2wjQ0s8FOdOFC",
+      externalLink: "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC",
+    },
+  ],
 } as const satisfies Release

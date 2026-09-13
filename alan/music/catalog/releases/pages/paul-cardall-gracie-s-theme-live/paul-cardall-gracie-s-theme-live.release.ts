@@ -12,6 +12,11 @@ export const paulCardallGracieSThemeLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2010-05-15",
-  externalId: "23pcrIQJF11ZdqSVVVBMuv",
-  externalLink: "https://open.spotify.com/album/23pcrIQJF11ZdqSVVVBMuv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "23pcrIQJF11ZdqSVVVBMuv",
+      externalLink: "https://open.spotify.com/album/23pcrIQJF11ZdqSVVVBMuv",
+    },
+  ],
 } as const satisfies Release

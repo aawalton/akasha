@@ -12,7 +12,12 @@ export const siaBeautifulPeopleSethHillsRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-28",
-  externalId: "0X4kIs7U2I7HEL1DDNU8DM",
-  externalLink: "https://open.spotify.com/album/0X4kIs7U2I7HEL1DDNU8DM",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0X4kIs7U2I7HEL1DDNU8DM",
+      externalLink: "https://open.spotify.com/album/0X4kIs7U2I7HEL1DDNU8DM",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

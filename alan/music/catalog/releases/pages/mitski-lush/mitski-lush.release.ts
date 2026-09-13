@@ -13,6 +13,11 @@ export const mitskiLush = {
   status: "completed",
   rank: "C",
   publishedAt: "2012-01-31",
-  externalId: "22MICAVuz34zzqm4Se5Lga",
-  externalLink: "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "22MICAVuz34zzqm4Se5Lga",
+      externalLink: "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga",
+    },
+  ],
 } as const satisfies Release

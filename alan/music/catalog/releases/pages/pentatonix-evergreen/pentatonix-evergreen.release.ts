@@ -12,6 +12,11 @@ export const pentatonixEvergreen = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-29",
-  externalId: "7HgVH7ChzqayHdf1eAi9c1",
-  externalLink: "https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7HgVH7ChzqayHdf1eAi9c1",
+      externalLink: "https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1",
+    },
+  ],
 } as const satisfies Release

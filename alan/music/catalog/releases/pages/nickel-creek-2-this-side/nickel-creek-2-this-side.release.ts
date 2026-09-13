@@ -12,6 +12,11 @@ export const nickelCreek2ThisSide = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2002-01-01",
-  externalId: "22nQdZSid64plYdy5zRHew",
-  externalLink: "https://open.spotify.com/album/22nQdZSid64plYdy5zRHew",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "22nQdZSid64plYdy5zRHew",
+      externalLink: "https://open.spotify.com/album/22nQdZSid64plYdy5zRHew",
+    },
+  ],
 } as const satisfies Release

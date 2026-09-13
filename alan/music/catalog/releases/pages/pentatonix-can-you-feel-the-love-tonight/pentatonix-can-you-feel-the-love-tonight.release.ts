@@ -12,6 +12,11 @@ export const pentatonixCanYouFeelTheLoveTonight = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-07-18",
-  externalId: "06poQ7idFBLVrOIi18JlKo",
-  externalLink: "https://open.spotify.com/album/06poQ7idFBLVrOIi18JlKo",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "06poQ7idFBLVrOIi18JlKo",
+      externalLink: "https://open.spotify.com/album/06poQ7idFBLVrOIi18JlKo",
+    },
+  ],
 } as const satisfies Release

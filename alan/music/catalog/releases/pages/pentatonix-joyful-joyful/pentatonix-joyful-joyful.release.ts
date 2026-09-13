@@ -12,6 +12,11 @@ export const pentatonixJoyfulJoyful = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-10-24",
-  externalId: "208bCz548yflYMALLMh1kN",
-  externalLink: "https://open.spotify.com/album/208bCz548yflYMALLMh1kN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "208bCz548yflYMALLMh1kN",
+      externalLink: "https://open.spotify.com/album/208bCz548yflYMALLMh1kN",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const reneeRappTattoos = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-06-03",
-  externalId: "1KFTkdRgqz47SR6F9B1UwJ",
-  externalLink: "https://open.spotify.com/album/1KFTkdRgqz47SR6F9B1UwJ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1KFTkdRgqz47SR6F9B1UwJ",
+      externalLink: "https://open.spotify.com/album/1KFTkdRgqz47SR6F9B1UwJ",
+    },
+  ],
 } as const satisfies Release

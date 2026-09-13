@@ -12,6 +12,11 @@ export const pentatonixBahHumbug = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-09-24",
-  externalId: "14qiH7IopCWCBIiG5Dacqn",
-  externalLink: "https://open.spotify.com/album/14qiH7IopCWCBIiG5Dacqn",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "14qiH7IopCWCBIiG5Dacqn",
+      externalLink: "https://open.spotify.com/album/14qiH7IopCWCBIiG5Dacqn",
+    },
+  ],
 } as const satisfies Release

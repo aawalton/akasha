@@ -12,6 +12,11 @@ export const paulCardallHymnsVol2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2000-01-01",
-  externalId: "7hugRuQpQpL5GPhjlz8OgB",
-  externalLink: "https://open.spotify.com/album/7hugRuQpQpL5GPhjlz8OgB",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7hugRuQpQpL5GPhjlz8OgB",
+      externalLink: "https://open.spotify.com/album/7hugRuQpQpL5GPhjlz8OgB",
+    },
+  ],
 } as const satisfies Release

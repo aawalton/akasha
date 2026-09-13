@@ -13,7 +13,12 @@ export const michaelJacksonMusicAndMe = {
   status: "completed",
   rank: "C",
   publishedAt: "1973-08-13",
-  externalId: "19vhLDr0Fw8Lja1I8xVV09",
-  externalLink: "https://open.spotify.com/album/19vhLDr0Fw8Lja1I8xVV09",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "19vhLDr0Fw8Lja1I8xVV09",
+      externalLink: "https://open.spotify.com/album/19vhLDr0Fw8Lja1I8xVV09",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

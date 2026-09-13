@@ -12,7 +12,12 @@ export const sabrinaCarpenterFastTimes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-02-18",
-  externalId: "2rR0wpBcmvYpxQd77BWShd",
-  externalLink: "https://open.spotify.com/album/2rR0wpBcmvYpxQd77BWShd",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2rR0wpBcmvYpxQd77BWShd",
+      externalLink: "https://open.spotify.com/album/2rR0wpBcmvYpxQd77BWShd",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

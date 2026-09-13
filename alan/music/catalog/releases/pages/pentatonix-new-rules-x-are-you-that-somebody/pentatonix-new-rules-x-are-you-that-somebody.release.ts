@@ -12,6 +12,11 @@ export const pentatonixNewRulesXAreYouThatSomebody = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-03-09",
-  externalId: "57qvsk9xWdaqC9uEvV0KWT",
-  externalLink: "https://open.spotify.com/album/57qvsk9xWdaqC9uEvV0KWT",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "57qvsk9xWdaqC9uEvV0KWT",
+      externalLink: "https://open.spotify.com/album/57qvsk9xWdaqC9uEvV0KWT",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const pentatonixMadWorld = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-02",
-  externalId: "1ZulBNAFP9rXcTJmmncBae",
-  externalLink: "https://open.spotify.com/album/1ZulBNAFP9rXcTJmmncBae",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1ZulBNAFP9rXcTJmmncBae",
+      externalLink: "https://open.spotify.com/album/1ZulBNAFP9rXcTJmmncBae",
+    },
+  ],
 } as const satisfies Release

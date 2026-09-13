@@ -13,7 +13,12 @@ export const michaelJacksonXscape = {
   status: "completed",
   rank: "C",
   publishedAt: "2014-05-09",
-  externalId: "7pomP86PUhoJpY3fsC0WDQ",
-  externalLink: "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7pomP86PUhoJpY3fsC0WDQ",
+      externalLink: "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const siaEverydayIsChristmasSnowmanDeluxeEdition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-12-30",
-  externalId: "49kFmuCyxzpbtVfnpLcOP1",
-  externalLink: "https://open.spotify.com/album/49kFmuCyxzpbtVfnpLcOP1",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "49kFmuCyxzpbtVfnpLcOP1",
+      externalLink: "https://open.spotify.com/album/49kFmuCyxzpbtVfnpLcOP1",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

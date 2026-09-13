@@ -12,7 +12,12 @@ export const siaBeautifulPeople = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-07",
-  externalId: "41GrpCcoPSawyIVDbLRdLW",
-  externalLink: "https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "41GrpCcoPSawyIVDbLRdLW",
+      externalLink: "https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

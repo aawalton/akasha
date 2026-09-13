@@ -12,6 +12,11 @@ export const phoebeBridgersStrangerInTheAlps = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-09-22",
-  externalId: "0qWcLfCZ8wtcoOdX14oGNI",
-  externalLink: "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0qWcLfCZ8wtcoOdX14oGNI",
+      externalLink: "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI",
+    },
+  ],
 } as const satisfies Release

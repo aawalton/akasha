@@ -12,7 +12,12 @@ export const sabrinaCarpenterEmailsICanTSendFwd = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-03-17",
-  externalId: "2g4aJTa5ejGpp0O0GKzWAQ",
-  externalLink: "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2g4aJTa5ejGpp0O0GKzWAQ",
+      externalLink: "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

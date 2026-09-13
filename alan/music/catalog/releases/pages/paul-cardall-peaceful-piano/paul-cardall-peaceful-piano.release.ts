@@ -12,6 +12,11 @@ export const paulCardallPeacefulPiano = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-08-23",
-  externalId: "1ZU76GoozN90jflYqZM5qr",
-  externalLink: "https://open.spotify.com/album/1ZU76GoozN90jflYqZM5qr",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1ZU76GoozN90jflYqZM5qr",
+      externalLink: "https://open.spotify.com/album/1ZU76GoozN90jflYqZM5qr",
+    },
+  ],
 } as const satisfies Release

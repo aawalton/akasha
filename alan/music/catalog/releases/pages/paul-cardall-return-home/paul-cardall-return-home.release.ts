@@ -12,6 +12,11 @@ export const paulCardallReturnHome = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-09-08",
-  externalId: "4Kn0CJ1PiNc15vCbYCIrmY",
-  externalLink: "https://open.spotify.com/album/4Kn0CJ1PiNc15vCbYCIrmY",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4Kn0CJ1PiNc15vCbYCIrmY",
+      externalLink: "https://open.spotify.com/album/4Kn0CJ1PiNc15vCbYCIrmY",
+    },
+  ],
 } as const satisfies Release

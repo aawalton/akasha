@@ -12,6 +12,11 @@ export const paulCardallLivingForEden = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-08-07",
-  externalId: "3ensw9MfJd2Uw2RMlNiNUP",
-  externalLink: "https://open.spotify.com/album/3ensw9MfJd2Uw2RMlNiNUP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ensw9MfJd2Uw2RMlNiNUP",
+      externalLink: "https://open.spotify.com/album/3ensw9MfJd2Uw2RMlNiNUP",
+    },
+  ],
 } as const satisfies Release

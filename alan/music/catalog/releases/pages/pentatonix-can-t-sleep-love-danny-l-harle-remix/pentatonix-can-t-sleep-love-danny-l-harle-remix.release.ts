@@ -12,6 +12,11 @@ export const pentatonixCanTSleepLoveDannyLHarleRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-05-13",
-  externalId: "73shpBomHwCRwLworpdGK0",
-  externalLink: "https://open.spotify.com/album/73shpBomHwCRwLworpdGK0",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "73shpBomHwCRwLworpdGK0",
+      externalLink: "https://open.spotify.com/album/73shpBomHwCRwLworpdGK0",
+    },
+  ],
 } as const satisfies Release

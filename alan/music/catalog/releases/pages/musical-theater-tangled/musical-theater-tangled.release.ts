@@ -13,7 +13,12 @@ export const musicalTheaterTangled = {
   status: "completed",
   rank: "A",
   publishedAt: "2010-01-01",
-  externalId: "1l0aFrH24oPrQSqGtfeFyE",
-  externalLink: "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1l0aFrH24oPrQSqGtfeFyE",
+      externalLink: "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

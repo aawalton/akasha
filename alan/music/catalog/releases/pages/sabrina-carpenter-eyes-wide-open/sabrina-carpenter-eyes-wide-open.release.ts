@@ -12,7 +12,12 @@ export const sabrinaCarpenterEyesWideOpen = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-04-10",
-  externalId: "55huyEjfSVsk9nnmmKp5df",
-  externalLink: "https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "55huyEjfSVsk9nnmmKp5df",
+      externalLink: "https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

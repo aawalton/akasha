@@ -12,6 +12,11 @@ export const phoebeBridgersHaveYourselfAMerryLittleChristmas = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-09-20",
-  externalId: "5P6ipsN2cYH8Bp2DokqkHf",
-  externalLink: "https://open.spotify.com/album/5P6ipsN2cYH8Bp2DokqkHf",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5P6ipsN2cYH8Bp2DokqkHf",
+      externalLink: "https://open.spotify.com/album/5P6ipsN2cYH8Bp2DokqkHf",
+    },
+  ],
 } as const satisfies Release

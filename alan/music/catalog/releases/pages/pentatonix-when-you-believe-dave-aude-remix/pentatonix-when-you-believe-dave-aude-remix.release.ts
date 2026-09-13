@@ -12,6 +12,11 @@ export const pentatonixWhenYouBelieveDaveAudeRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-12-21",
-  externalId: "1sOijKdZkO38GIUDmAxQP2",
-  externalLink: "https://open.spotify.com/album/1sOijKdZkO38GIUDmAxQP2",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1sOijKdZkO38GIUDmAxQP2",
+      externalLink: "https://open.spotify.com/album/1sOijKdZkO38GIUDmAxQP2",
+    },
+  ],
 } as const satisfies Release

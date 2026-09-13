@@ -12,6 +12,11 @@ export const paulCardallReturnHomeSoloPianoVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-06",
-  externalId: "6YXk3jMGG67SnaUA2tvX2C",
-  externalLink: "https://open.spotify.com/album/6YXk3jMGG67SnaUA2tvX2C",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6YXk3jMGG67SnaUA2tvX2C",
+      externalLink: "https://open.spotify.com/album/6YXk3jMGG67SnaUA2tvX2C",
+    },
+  ],
 } as const satisfies Release

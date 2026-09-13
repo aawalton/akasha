@@ -12,6 +12,11 @@ export const pentatonixInvincibleFeatShreyaGhoshal = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-26",
-  externalId: "0hWZXbvK256SG6xGLaf9uA",
-  externalLink: "https://open.spotify.com/album/0hWZXbvK256SG6xGLaf9uA",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0hWZXbvK256SG6xGLaf9uA",
+      externalLink: "https://open.spotify.com/album/0hWZXbvK256SG6xGLaf9uA",
+    },
+  ],
 } as const satisfies Release

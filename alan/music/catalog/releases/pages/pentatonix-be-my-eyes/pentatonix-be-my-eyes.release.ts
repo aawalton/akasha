@@ -12,6 +12,11 @@ export const pentatonixBeMyEyes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-14",
-  externalId: "6Sa0akcBToQpENN4FY6SzQ",
-  externalLink: "https://open.spotify.com/album/6Sa0akcBToQpENN4FY6SzQ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Sa0akcBToQpENN4FY6SzQ",
+      externalLink: "https://open.spotify.com/album/6Sa0akcBToQpENN4FY6SzQ",
+    },
+  ],
 } as const satisfies Release

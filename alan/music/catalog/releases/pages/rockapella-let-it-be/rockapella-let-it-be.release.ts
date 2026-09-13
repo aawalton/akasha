@@ -12,6 +12,11 @@ export const rockapellaLetItBe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-01-31",
-  externalId: "0ACMjPgeuyAGTnGy8siePH",
-  externalLink: "https://open.spotify.com/album/0ACMjPgeuyAGTnGy8siePH",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0ACMjPgeuyAGTnGy8siePH",
+      externalLink: "https://open.spotify.com/album/0ACMjPgeuyAGTnGy8siePH",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const sabrinaCarpenterEvolution = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-10-14",
-  externalId: "7iOAJaGBmk67o337zaqt0R",
-  externalLink: "https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7iOAJaGBmk67o337zaqt0R",
+      externalLink: "https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const mitskiGlideCover = {
   status: "completed",
   rank: "C",
   publishedAt: "2021-07-08",
-  externalId: "7ocua9hYnh95mgXEibBKmc",
-  externalLink: "https://open.spotify.com/album/7ocua9hYnh95mgXEibBKmc",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7ocua9hYnh95mgXEibBKmc",
+      externalLink: "https://open.spotify.com/album/7ocua9hYnh95mgXEibBKmc",
+    },
+  ],
 } as const satisfies Release

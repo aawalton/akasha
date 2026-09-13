@@ -12,7 +12,12 @@ export const sabrinaCarpenterWhyAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-11-03",
-  externalId: "3oAvhwkc4AwieC8QHaEgVi",
-  externalLink: "https://open.spotify.com/album/3oAvhwkc4AwieC8QHaEgVi",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3oAvhwkc4AwieC8QHaEgVi",
+      externalLink: "https://open.spotify.com/album/3oAvhwkc4AwieC8QHaEgVi",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

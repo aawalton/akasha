@@ -13,6 +13,11 @@ export const rockapellaDonTTellMeYouDo = {
   status: "completed",
   rank: "B",
   publishedAt: "1998-03-04",
-  externalId: "0VLJJkdpnVMuTLxnqwhuue",
-  externalLink: "https://open.spotify.com/album/0VLJJkdpnVMuTLxnqwhuue",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0VLJJkdpnVMuTLxnqwhuue",
+      externalLink: "https://open.spotify.com/album/0VLJJkdpnVMuTLxnqwhuue",
+    },
+  ],
 } as const satisfies Release

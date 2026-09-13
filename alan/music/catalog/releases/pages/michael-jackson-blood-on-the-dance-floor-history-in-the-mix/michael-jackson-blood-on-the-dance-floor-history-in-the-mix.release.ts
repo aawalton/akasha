@@ -13,7 +13,12 @@ export const michaelJacksonBloodOnTheDanceFloorHistoryInTheMix = {
   status: "completed",
   rank: "D",
   publishedAt: "1997-05-11",
-  externalId: "0RNsFWWdiz1rrdLI1pwbvJ",
-  externalLink: "https://open.spotify.com/album/0RNsFWWdiz1rrdLI1pwbvJ",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0RNsFWWdiz1rrdLI1pwbvJ",
+      externalLink: "https://open.spotify.com/album/0RNsFWWdiz1rrdLI1pwbvJ",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

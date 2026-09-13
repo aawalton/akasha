@@ -12,7 +12,12 @@ export const siaEyeOfTheNeedle = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-06-03",
-  externalId: "70lLHdM8BVCqhGJ9W6FVSu",
-  externalLink: "https://open.spotify.com/album/70lLHdM8BVCqhGJ9W6FVSu",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "70lLHdM8BVCqhGJ9W6FVSu",
+      externalLink: "https://open.spotify.com/album/70lLHdM8BVCqhGJ9W6FVSu",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

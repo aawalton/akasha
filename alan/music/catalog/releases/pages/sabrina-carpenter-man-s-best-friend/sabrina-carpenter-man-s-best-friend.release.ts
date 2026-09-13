@@ -12,7 +12,12 @@ export const sabrinaCarpenterManSBestFriend = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-08-29",
-  externalId: "1aqg30bNvLSWgShZgX4oop",
-  externalLink: "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1aqg30bNvLSWgShZgX4oop",
+      externalLink: "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

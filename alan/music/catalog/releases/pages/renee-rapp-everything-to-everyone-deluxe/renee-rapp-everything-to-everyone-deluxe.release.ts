@@ -13,6 +13,11 @@ export const reneeRappEverythingToEveryoneDeluxe = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-02-24",
-  externalId: "1KSAqXIHFEWo73keoru7FX",
-  externalLink: "https://open.spotify.com/album/1KSAqXIHFEWo73keoru7FX",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1KSAqXIHFEWo73keoru7FX",
+      externalLink: "https://open.spotify.com/album/1KSAqXIHFEWo73keoru7FX",
+    },
+  ],
 } as const satisfies Release

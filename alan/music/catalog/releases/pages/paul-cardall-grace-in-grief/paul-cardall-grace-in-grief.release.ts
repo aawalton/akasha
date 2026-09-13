@@ -12,6 +12,11 @@ export const paulCardallGraceInGrief = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-10-04",
-  externalId: "055t2VuN4JyLSIcSgjVSFI",
-  externalLink: "https://open.spotify.com/album/055t2VuN4JyLSIcSgjVSFI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "055t2VuN4JyLSIcSgjVSFI",
+      externalLink: "https://open.spotify.com/album/055t2VuN4JyLSIcSgjVSFI",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const sabrinaCarpenterWhy = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-07-07",
-  externalId: "55QjSqhCofvsx559gCIMI7",
-  externalLink: "https://open.spotify.com/album/55QjSqhCofvsx559gCIMI7",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "55QjSqhCofvsx559gCIMI7",
+      externalLink: "https://open.spotify.com/album/55QjSqhCofvsx559gCIMI7",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

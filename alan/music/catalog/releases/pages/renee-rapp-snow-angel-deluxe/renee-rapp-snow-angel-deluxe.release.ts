@@ -13,6 +13,11 @@ export const reneeRappSnowAngelDeluxe = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-11-17",
-  externalId: "7pPV0OFuytqNj7ar82Hizf",
-  externalLink: "https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7pPV0OFuytqNj7ar82Hizf",
+      externalLink: "https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf",
+    },
+  ],
 } as const satisfies Release

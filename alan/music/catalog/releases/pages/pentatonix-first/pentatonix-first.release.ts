@@ -12,6 +12,11 @@ export const pentatonixFirst = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-05-09",
-  externalId: "4Xp506l5LAdPyMRW0xDdr0",
-  externalLink: "https://open.spotify.com/album/4Xp506l5LAdPyMRW0xDdr0",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4Xp506l5LAdPyMRW0xDdr0",
+      externalLink: "https://open.spotify.com/album/4Xp506l5LAdPyMRW0xDdr0",
+    },
+  ],
 } as const satisfies Release

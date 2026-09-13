@@ -12,6 +12,11 @@ export const paulCardallDecemberPianoStringEnsemble = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-12-03",
-  externalId: "7gPTqqmN9P8vPNjy7HJP5c",
-  externalLink: "https://open.spotify.com/album/7gPTqqmN9P8vPNjy7HJP5c",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7gPTqqmN9P8vPNjy7HJP5c",
+      externalLink: "https://open.spotify.com/album/7gPTqqmN9P8vPNjy7HJP5c",
+    },
+  ],
 } as const satisfies Release

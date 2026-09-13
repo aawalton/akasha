@@ -12,6 +12,11 @@ export const paulCardallPassingTime = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-02-12",
-  externalId: "0XBLI2qaipLjefHBfBIXGT",
-  externalLink: "https://open.spotify.com/album/0XBLI2qaipLjefHBfBIXGT",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0XBLI2qaipLjefHBfBIXGT",
+      externalLink: "https://open.spotify.com/album/0XBLI2qaipLjefHBfBIXGT",
+    },
+  ],
 } as const satisfies Release

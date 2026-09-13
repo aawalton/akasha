@@ -13,7 +13,12 @@ export const michaelJacksonMichaelJacksonXMarkRonsonDiamondsAreInvincible = {
   status: "completed",
   rank: "C",
   publishedAt: "2018-08-29",
-  externalId: "6ST7naJFCe9iBeOleU5Ccu",
-  externalLink: "https://open.spotify.com/album/6ST7naJFCe9iBeOleU5Ccu",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6ST7naJFCe9iBeOleU5Ccu",
+      externalLink: "https://open.spotify.com/album/6ST7naJFCe9iBeOleU5Ccu",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

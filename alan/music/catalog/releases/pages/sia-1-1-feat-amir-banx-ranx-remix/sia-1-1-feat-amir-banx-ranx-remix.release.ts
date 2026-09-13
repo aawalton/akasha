@@ -12,7 +12,12 @@ export const sia11FeatAmirBanxRanxRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-07-13",
-  externalId: "2ac5QfPyFu7gGY2BpzuqAc",
-  externalLink: "https://open.spotify.com/album/2ac5QfPyFu7gGY2BpzuqAc",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2ac5QfPyFu7gGY2BpzuqAc",
+      externalLink: "https://open.spotify.com/album/2ac5QfPyFu7gGY2BpzuqAc",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const pentatonixALittleSpaceFeatYunhoSanJonghoOfAteez = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-08-20",
-  externalId: "4SXsvcrYpEi6NYfjv2qIjA",
-  externalLink: "https://open.spotify.com/album/4SXsvcrYpEi6NYfjv2qIjA",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4SXsvcrYpEi6NYfjv2qIjA",
+      externalLink: "https://open.spotify.com/album/4SXsvcrYpEi6NYfjv2qIjA",
+    },
+  ],
 } as const satisfies Release

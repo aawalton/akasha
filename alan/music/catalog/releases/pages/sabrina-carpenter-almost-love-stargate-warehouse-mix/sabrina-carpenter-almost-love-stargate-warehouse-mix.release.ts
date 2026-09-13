@@ -12,7 +12,12 @@ export const sabrinaCarpenterAlmostLoveStargateWarehouseMix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-09-28",
-  externalId: "3lcQDXWOoIxMH8gEQzeETn",
-  externalLink: "https://open.spotify.com/album/3lcQDXWOoIxMH8gEQzeETn",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3lcQDXWOoIxMH8gEQzeETn",
+      externalLink: "https://open.spotify.com/album/3lcQDXWOoIxMH8gEQzeETn",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

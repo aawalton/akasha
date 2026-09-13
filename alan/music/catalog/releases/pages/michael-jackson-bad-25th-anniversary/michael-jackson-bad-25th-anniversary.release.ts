@@ -13,7 +13,12 @@ export const michaelJacksonBad25thAnniversary = {
   status: "completed",
   rank: "C",
   publishedAt: "2012-09-18",
-  externalId: "24TAupSNVWSAHL0R7n71vm",
-  externalLink: "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "24TAupSNVWSAHL0R7n71vm",
+      externalLink: "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

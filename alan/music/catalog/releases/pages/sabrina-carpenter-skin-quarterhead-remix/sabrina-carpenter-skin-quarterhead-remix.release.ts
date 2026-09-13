@@ -12,7 +12,12 @@ export const sabrinaCarpenterSkinQuarterheadRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-02-26",
-  externalId: "5kxJROPwGs1X92WrcMXkdt",
-  externalLink: "https://open.spotify.com/album/5kxJROPwGs1X92WrcMXkdt",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5kxJROPwGs1X92WrcMXkdt",
+      externalLink: "https://open.spotify.com/album/5kxJROPwGs1X92WrcMXkdt",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

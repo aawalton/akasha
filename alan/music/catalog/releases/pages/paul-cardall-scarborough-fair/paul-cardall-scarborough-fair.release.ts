@@ -12,6 +12,11 @@ export const paulCardallScarboroughFair = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-02-19",
-  externalId: "4v9KdXb60N63b97C6OQbw7",
-  externalLink: "https://open.spotify.com/album/4v9KdXb60N63b97C6OQbw7",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4v9KdXb60N63b97C6OQbw7",
+      externalLink: "https://open.spotify.com/album/4v9KdXb60N63b97C6OQbw7",
+    },
+  ],
 } as const satisfies Release

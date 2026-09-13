@@ -12,7 +12,12 @@ export const sabrinaCarpenterAlienM22Remix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-04-13",
-  externalId: "0960lqbJIkGdYJ97UGY9My",
-  externalLink: "https://open.spotify.com/album/0960lqbJIkGdYJ97UGY9My",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0960lqbJIkGdYJ97UGY9My",
+      externalLink: "https://open.spotify.com/album/0960lqbJIkGdYJ97UGY9My",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

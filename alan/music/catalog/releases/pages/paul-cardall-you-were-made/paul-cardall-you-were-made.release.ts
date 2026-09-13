@@ -12,7 +12,12 @@ export const paulCardallYouWereMade = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2026-02-27",
-  externalId: "0I1sTa6lzBH5gFOUdUfyg0",
-  externalLink: "https://open.spotify.com/album/0I1sTa6lzBH5gFOUdUfyg0",
-  lastSyncedAt: "2026-03-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0I1sTa6lzBH5gFOUdUfyg0",
+      externalLink: "https://open.spotify.com/album/0I1sTa6lzBH5gFOUdUfyg0",
+      lastSyncedAt: "2026-03-01",
+    },
+  ],
 } as const satisfies Release

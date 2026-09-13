@@ -12,6 +12,11 @@ export const paulCardallTheLookingGlass = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1999-01-01",
-  externalId: "31tc6XnhHUP3WOWSfC2AuX",
-  externalLink: "https://open.spotify.com/album/31tc6XnhHUP3WOWSfC2AuX",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "31tc6XnhHUP3WOWSfC2AuX",
+      externalLink: "https://open.spotify.com/album/31tc6XnhHUP3WOWSfC2AuX",
+    },
+  ],
 } as const satisfies Release

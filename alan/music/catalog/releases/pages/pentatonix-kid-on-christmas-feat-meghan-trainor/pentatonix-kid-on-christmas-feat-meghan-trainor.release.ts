@@ -12,6 +12,11 @@ export const pentatonixKidOnChristmasFeatMeghanTrainor = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-27",
-  externalId: "5PHAhfCFx2NRUfzYHLVuhm",
-  externalLink: "https://open.spotify.com/album/5PHAhfCFx2NRUfzYHLVuhm",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5PHAhfCFx2NRUfzYHLVuhm",
+      externalLink: "https://open.spotify.com/album/5PHAhfCFx2NRUfzYHLVuhm",
+    },
+  ],
 } as const satisfies Release

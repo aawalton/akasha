@@ -13,6 +13,11 @@ export const mitskiLaurelHell = {
   status: "completed",
   rank: "C",
   publishedAt: "2022-02-04",
-  externalId: "4rcinMUHEWOxpIwJo2sf22",
-  externalLink: "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4rcinMUHEWOxpIwJo2sf22",
+      externalLink: "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22",
+    },
+  ],
 } as const satisfies Release

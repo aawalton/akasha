@@ -12,7 +12,12 @@ export const siaBeautifulPeopleThembaRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-05-16",
-  externalId: "1Ts91jbAisF6dtLd74L7zU",
-  externalLink: "https://open.spotify.com/album/1Ts91jbAisF6dtLd74L7zU",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Ts91jbAisF6dtLd74L7zU",
+      externalLink: "https://open.spotify.com/album/1Ts91jbAisF6dtLd74L7zU",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

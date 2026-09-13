@@ -12,6 +12,11 @@ export const paulCardallWhereCanITurnForPeace = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-06-14",
-  externalId: "6bqJzuXO1nQtmzJIQzDtXt",
-  externalLink: "https://open.spotify.com/album/6bqJzuXO1nQtmzJIQzDtXt",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6bqJzuXO1nQtmzJIQzDtXt",
+      externalLink: "https://open.spotify.com/album/6bqJzuXO1nQtmzJIQzDtXt",
+    },
+  ],
 } as const satisfies Release

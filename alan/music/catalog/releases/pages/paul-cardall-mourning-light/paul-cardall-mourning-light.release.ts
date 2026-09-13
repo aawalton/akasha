@@ -12,6 +12,11 @@ export const paulCardallMourningLight = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-07-12",
-  externalId: "7373Owl7OvEKdntWLuSkJL",
-  externalLink: "https://open.spotify.com/album/7373Owl7OvEKdntWLuSkJL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7373Owl7OvEKdntWLuSkJL",
+      externalLink: "https://open.spotify.com/album/7373Owl7OvEKdntWLuSkJL",
+    },
+  ],
 } as const satisfies Release

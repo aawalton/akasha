@@ -12,6 +12,11 @@ export const rockapellaBetter2gether = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-04",
-  externalId: "1GNLyq4tFZx5tJpz3SKPTz",
-  externalLink: "https://open.spotify.com/album/1GNLyq4tFZx5tJpz3SKPTz",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1GNLyq4tFZx5tJpz3SKPTz",
+      externalLink: "https://open.spotify.com/album/1GNLyq4tFZx5tJpz3SKPTz",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const paulCardallAnEveningInParis = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-05-05",
-  externalId: "0bUCCiuzQAXVURSa8SjKES",
-  externalLink: "https://open.spotify.com/album/0bUCCiuzQAXVURSa8SjKES",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0bUCCiuzQAXVURSa8SjKES",
+      externalLink: "https://open.spotify.com/album/0bUCCiuzQAXVURSa8SjKES",
+    },
+  ],
 } as const satisfies Release

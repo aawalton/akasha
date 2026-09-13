@@ -12,6 +12,11 @@ export const rockapellaComfortJoy = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2002-11-12",
-  externalId: "2tMv57b5M2KxjuT3LFsrzz",
-  externalLink: "https://open.spotify.com/album/2tMv57b5M2KxjuT3LFsrzz",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2tMv57b5M2KxjuT3LFsrzz",
+      externalLink: "https://open.spotify.com/album/2tMv57b5M2KxjuT3LFsrzz",
+    },
+  ],
 } as const satisfies Release

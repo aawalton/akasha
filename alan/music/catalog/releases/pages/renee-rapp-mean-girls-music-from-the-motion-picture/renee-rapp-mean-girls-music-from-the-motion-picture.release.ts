@@ -13,6 +13,11 @@ export const reneeRappMeanGirlsMusicFromTheMotionPicture = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-01-12",
-  externalId: "1LJWyyP756YVEeIRa6DU74",
-  externalLink: "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1LJWyyP756YVEeIRa6DU74",
+      externalLink: "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74",
+    },
+  ],
 } as const satisfies Release

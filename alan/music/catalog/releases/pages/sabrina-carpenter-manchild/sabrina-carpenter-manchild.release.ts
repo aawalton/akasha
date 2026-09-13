@@ -12,7 +12,12 @@ export const sabrinaCarpenterManchild = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-06-05",
-  externalId: "3wRHV5fOeUcM5hvYzWZsic",
-  externalLink: "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3wRHV5fOeUcM5hvYzWZsic",
+      externalLink: "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

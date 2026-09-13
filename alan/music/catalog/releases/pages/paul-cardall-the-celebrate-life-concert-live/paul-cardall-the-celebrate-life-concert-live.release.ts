@@ -12,6 +12,11 @@ export const paulCardallTheCelebrateLifeConcertLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2010-09-09",
-  externalId: "5N3QPn6eIMFc73jfHxtCC1",
-  externalLink: "https://open.spotify.com/album/5N3QPn6eIMFc73jfHxtCC1",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5N3QPn6eIMFc73jfHxtCC1",
+      externalLink: "https://open.spotify.com/album/5N3QPn6eIMFc73jfHxtCC1",
+    },
+  ],
 } as const satisfies Release

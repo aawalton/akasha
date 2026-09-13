@@ -12,6 +12,11 @@ export const pentatonixGangnamStyleLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-07-15",
-  externalId: "3H3pn3fWzek2YkRHGl50xP",
-  externalLink: "https://open.spotify.com/album/3H3pn3fWzek2YkRHGl50xP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3H3pn3fWzek2YkRHGl50xP",
+      externalLink: "https://open.spotify.com/album/3H3pn3fWzek2YkRHGl50xP",
+    },
+  ],
 } as const satisfies Release

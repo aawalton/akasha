@@ -12,6 +12,11 @@ export const phoebeBridgersGardenSong = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-02-26",
-  externalId: "5RSEIqWnZsBKKYngHOkpuU",
-  externalLink: "https://open.spotify.com/album/5RSEIqWnZsBKKYngHOkpuU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5RSEIqWnZsBKKYngHOkpuU",
+      externalLink: "https://open.spotify.com/album/5RSEIqWnZsBKKYngHOkpuU",
+    },
+  ],
 } as const satisfies Release

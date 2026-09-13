@@ -12,6 +12,11 @@ export const nsync2GreatestHits = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2005-10-25",
-  externalId: "45gbCmUeq5ZMgXiDkPweRD",
-  externalLink: "https://open.spotify.com/album/45gbCmUeq5ZMgXiDkPweRD",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "45gbCmUeq5ZMgXiDkPweRD",
+      externalLink: "https://open.spotify.com/album/45gbCmUeq5ZMgXiDkPweRD",
+    },
+  ],
 } as const satisfies Release

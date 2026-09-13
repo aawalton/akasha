@@ -12,6 +12,11 @@ export const pentatonixWeNeedALittleChristmas = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-13",
-  externalId: "090o9kMZEhvkB5Vw211meV",
-  externalLink: "https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "090o9kMZEhvkB5Vw211meV",
+      externalLink: "https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV",
+    },
+  ],
 } as const satisfies Release

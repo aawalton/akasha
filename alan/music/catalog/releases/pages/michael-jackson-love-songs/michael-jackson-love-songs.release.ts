@@ -13,7 +13,12 @@ export const michaelJacksonLoveSongs = {
   status: "completed",
   rank: "C",
   publishedAt: "2002-01-01",
-  externalId: "00it4Y3J475KegT67qQ4o6",
-  externalLink: "https://open.spotify.com/album/00it4Y3J475KegT67qQ4o6",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "00it4Y3J475KegT67qQ4o6",
+      externalLink: "https://open.spotify.com/album/00it4Y3J475KegT67qQ4o6",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const paulCardallChristmasHymns = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2005-09-14",
-  externalId: "2QnRHd30duEv4dMAil8WPH",
-  externalLink: "https://open.spotify.com/album/2QnRHd30duEv4dMAil8WPH",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2QnRHd30duEv4dMAil8WPH",
+      externalLink: "https://open.spotify.com/album/2QnRHd30duEv4dMAil8WPH",
+    },
+  ],
 } as const satisfies Release

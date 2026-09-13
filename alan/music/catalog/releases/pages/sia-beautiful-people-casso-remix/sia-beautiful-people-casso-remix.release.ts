@@ -12,7 +12,12 @@ export const siaBeautifulPeopleCassoRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-21",
-  externalId: "3R9DDzJykPdc19JAFFPiEH",
-  externalLink: "https://open.spotify.com/album/3R9DDzJykPdc19JAFFPiEH",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3R9DDzJykPdc19JAFFPiEH",
+      externalLink: "https://open.spotify.com/album/3R9DDzJykPdc19JAFFPiEH",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

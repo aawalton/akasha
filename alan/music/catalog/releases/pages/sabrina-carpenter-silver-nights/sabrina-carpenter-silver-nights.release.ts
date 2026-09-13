@@ -12,7 +12,12 @@ export const sabrinaCarpenterSilverNights = {
   unit: "minutes",
   status: "in-progress",
   publishedAt: "2014-01-01",
-  externalId: "43yrS2rNyP9LGthAloWLZM",
-  externalLink: "https://open.spotify.com/album/43yrS2rNyP9LGthAloWLZM",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "43yrS2rNyP9LGthAloWLZM",
+      externalLink: "https://open.spotify.com/album/43yrS2rNyP9LGthAloWLZM",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

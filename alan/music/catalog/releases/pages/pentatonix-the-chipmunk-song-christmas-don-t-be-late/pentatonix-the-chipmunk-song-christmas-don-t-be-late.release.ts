@@ -12,6 +12,11 @@ export const pentatonixTheChipmunkSongChristmasDonTBeLate = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-12-17",
-  externalId: "4MXLtuKJuY9HnAjnJuyz7S",
-  externalLink: "https://open.spotify.com/album/4MXLtuKJuY9HnAjnJuyz7S",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4MXLtuKJuY9HnAjnJuyz7S",
+      externalLink: "https://open.spotify.com/album/4MXLtuKJuY9HnAjnJuyz7S",
+    },
+  ],
 } as const satisfies Release

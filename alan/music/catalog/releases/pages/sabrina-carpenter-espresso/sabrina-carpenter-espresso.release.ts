@@ -12,7 +12,12 @@ export const sabrinaCarpenterEspresso = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-04-12",
-  externalId: "5quMTd5zeI9yW5UDua8wS4",
-  externalLink: "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5quMTd5zeI9yW5UDua8wS4",
+      externalLink: "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

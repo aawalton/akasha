@@ -12,6 +12,11 @@ export const phoebeBridgersKyoto = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-10",
-  externalId: "7IgYjX0xQMqWEBwIjF8vjM",
-  externalLink: "https://open.spotify.com/album/7IgYjX0xQMqWEBwIjF8vjM",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7IgYjX0xQMqWEBwIjF8vjM",
+      externalLink: "https://open.spotify.com/album/7IgYjX0xQMqWEBwIjF8vjM",
+    },
+  ],
 } as const satisfies Release

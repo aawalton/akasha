@@ -13,7 +13,12 @@ export const michaelJacksonPureMichaelMotownACappella = {
   status: "completed",
   rank: "C",
   publishedAt: "2009-01-01",
-  externalId: "5NaoFCzy9TC9Y8e74ks72N",
-  externalLink: "https://open.spotify.com/album/5NaoFCzy9TC9Y8e74ks72N",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5NaoFCzy9TC9Y8e74ks72N",
+      externalLink: "https://open.spotify.com/album/5NaoFCzy9TC9Y8e74ks72N",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

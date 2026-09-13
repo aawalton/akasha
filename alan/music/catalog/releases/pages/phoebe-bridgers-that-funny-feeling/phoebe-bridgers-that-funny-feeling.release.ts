@@ -13,6 +13,11 @@ export const phoebeBridgersThatFunnyFeeling = {
   status: "completed",
   rank: "B",
   publishedAt: "2021-10-04",
-  externalId: "5XRNskxrXy1Q12hV59zkDr",
-  externalLink: "https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5XRNskxrXy1Q12hV59zkDr",
+      externalLink: "https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const phoebeBridgersSoMuchWine = {
   status: "completed",
   rank: "C",
   publishedAt: "2022-11-17",
-  externalId: "42iPQ0sFMyNdjTTPsEbjEC",
-  externalLink: "https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "42iPQ0sFMyNdjTTPsEbjEC",
+      externalLink: "https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC",
+    },
+  ],
 } as const satisfies Release

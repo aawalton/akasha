@@ -12,7 +12,12 @@ export const sabrinaCarpenterSkin = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-01-22",
-  externalId: "6JISV6SiJtQnIsNC6OVpUf",
-  externalLink: "https://open.spotify.com/album/6JISV6SiJtQnIsNC6OVpUf",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6JISV6SiJtQnIsNC6OVpUf",
+      externalLink: "https://open.spotify.com/album/6JISV6SiJtQnIsNC6OVpUf",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

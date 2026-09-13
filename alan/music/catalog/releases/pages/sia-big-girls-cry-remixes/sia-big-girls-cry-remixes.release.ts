@@ -12,7 +12,12 @@ export const siaBigGirlsCryRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-04-24",
-  externalId: "0oBxRMATabq8daezHD5UB4",
-  externalLink: "https://open.spotify.com/album/0oBxRMATabq8daezHD5UB4",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0oBxRMATabq8daezHD5UB4",
+      externalLink: "https://open.spotify.com/album/0oBxRMATabq8daezHD5UB4",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

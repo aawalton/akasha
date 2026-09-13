@@ -12,7 +12,12 @@ export const siaDynamiteRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-01-14",
-  externalId: "6t6hMOCSo4HcnUbr39Ys9V",
-  externalLink: "https://open.spotify.com/album/6t6hMOCSo4HcnUbr39Ys9V",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6t6hMOCSo4HcnUbr39Ys9V",
+      externalLink: "https://open.spotify.com/album/6t6hMOCSo4HcnUbr39Ys9V",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

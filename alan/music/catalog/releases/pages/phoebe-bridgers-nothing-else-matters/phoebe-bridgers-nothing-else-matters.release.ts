@@ -13,6 +13,11 @@ export const phoebeBridgersNothingElseMatters = {
   status: "completed",
   rank: "B",
   publishedAt: "2021-08-11",
-  externalId: "5cGlNs3L4C2mzMQiAfox41",
-  externalLink: "https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5cGlNs3L4C2mzMQiAfox41",
+      externalLink: "https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41",
+    },
+  ],
 } as const satisfies Release

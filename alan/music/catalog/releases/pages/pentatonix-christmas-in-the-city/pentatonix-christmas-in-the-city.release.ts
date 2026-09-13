@@ -12,7 +12,12 @@ export const pentatonixChristmasInTheCity = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-10-24",
-  externalId: "7xaP8xn3tGJYPg3xwcbe9s",
-  externalLink: "https://open.spotify.com/album/7xaP8xn3tGJYPg3xwcbe9s",
-  lastSyncedAt: "2026-01-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7xaP8xn3tGJYPg3xwcbe9s",
+      externalLink: "https://open.spotify.com/album/7xaP8xn3tGJYPg3xwcbe9s",
+      lastSyncedAt: "2026-01-09",
+    },
+  ],
 } as const satisfies Release

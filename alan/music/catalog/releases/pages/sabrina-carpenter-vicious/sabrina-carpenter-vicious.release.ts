@@ -12,7 +12,12 @@ export const sabrinaCarpenterVicious = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-01",
-  externalId: "7p3M1cRTouWTpmBDhlEAKS",
-  externalLink: "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7p3M1cRTouWTpmBDhlEAKS",
+      externalLink: "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

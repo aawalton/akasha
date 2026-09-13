@@ -12,7 +12,12 @@ export const sabrinaCarpenterFirstLoveRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-12-01",
-  externalId: "0PRCtct3H4TvrHdVBhKKxc",
-  externalLink: "https://open.spotify.com/album/0PRCtct3H4TvrHdVBhKKxc",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0PRCtct3H4TvrHdVBhKKxc",
+      externalLink: "https://open.spotify.com/album/0PRCtct3H4TvrHdVBhKKxc",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

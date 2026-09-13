@@ -12,6 +12,11 @@ export const phoebeBridgersMotionSickness = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-07-18",
-  externalId: "35SwvxbVW5F8uyRaOMvVTd",
-  externalLink: "https://open.spotify.com/album/35SwvxbVW5F8uyRaOMvVTd",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "35SwvxbVW5F8uyRaOMvVTd",
+      externalLink: "https://open.spotify.com/album/35SwvxbVW5F8uyRaOMvVTd",
+    },
+  ],
 } as const satisfies Release

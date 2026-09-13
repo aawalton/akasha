@@ -12,7 +12,12 @@ export const sabrinaCarpenterChristmasTheWholeYearRound = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-01-01",
-  externalId: "637asSTw4aLXrTD4ZLHSMV",
-  externalLink: "https://open.spotify.com/album/637asSTw4aLXrTD4ZLHSMV",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "637asSTw4aLXrTD4ZLHSMV",
+      externalLink: "https://open.spotify.com/album/637asSTw4aLXrTD4ZLHSMV",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

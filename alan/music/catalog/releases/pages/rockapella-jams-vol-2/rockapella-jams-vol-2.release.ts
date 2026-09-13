@@ -12,6 +12,11 @@ export const rockapellaJamsVol2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-12-05",
-  externalId: "6uOuhfI0ccods61CiF1Qxq",
-  externalLink: "https://open.spotify.com/album/6uOuhfI0ccods61CiF1Qxq",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6uOuhfI0ccods61CiF1Qxq",
+      externalLink: "https://open.spotify.com/album/6uOuhfI0ccods61CiF1Qxq",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const sabrinaCarpenterFruitcake = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-17",
-  externalId: "7EisdwWcodpmHxgpGVE5Pg",
-  externalLink: "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7EisdwWcodpmHxgpGVE5Pg",
+      externalLink: "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

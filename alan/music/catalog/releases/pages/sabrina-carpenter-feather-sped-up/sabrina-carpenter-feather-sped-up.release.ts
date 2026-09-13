@@ -12,7 +12,12 @@ export const sabrinaCarpenterFeatherSpedUp = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-08-04",
-  externalId: "0TCgFAC92fkbHe2lJkwZRF",
-  externalLink: "https://open.spotify.com/album/0TCgFAC92fkbHe2lJkwZRF",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0TCgFAC92fkbHe2lJkwZRF",
+      externalLink: "https://open.spotify.com/album/0TCgFAC92fkbHe2lJkwZRF",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const pentatonixTheGreatestShowBonusTrack = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-11-16",
-  externalId: "5WjXRSjfEKZ3WCJm68gznR",
-  externalLink: "https://open.spotify.com/album/5WjXRSjfEKZ3WCJm68gznR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5WjXRSjfEKZ3WCJm68gznR",
+      externalLink: "https://open.spotify.com/album/5WjXRSjfEKZ3WCJm68gznR",
+    },
+  ],
 } as const satisfies Release

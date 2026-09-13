@@ -12,7 +12,12 @@ export const sabrinaCarpenterSignOfTheTimes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-06-02",
-  externalId: "3ztD4sCnTmP4ntaIoAJTwC",
-  externalLink: "https://open.spotify.com/album/3ztD4sCnTmP4ntaIoAJTwC",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ztD4sCnTmP4ntaIoAJTwC",
+      externalLink: "https://open.spotify.com/album/3ztD4sCnTmP4ntaIoAJTwC",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

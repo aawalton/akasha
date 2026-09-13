@@ -12,7 +12,12 @@ export const siaCourageToChangeMichaelCalfanRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-03",
-  externalId: "01DUi2JC51Ers9bAypxDrk",
-  externalLink: "https://open.spotify.com/album/01DUi2JC51Ers9bAypxDrk",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "01DUi2JC51Ers9bAypxDrk",
+      externalLink: "https://open.spotify.com/album/01DUi2JC51Ers9bAypxDrk",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

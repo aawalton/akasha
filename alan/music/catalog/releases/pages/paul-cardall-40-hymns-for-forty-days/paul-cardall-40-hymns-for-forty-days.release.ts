@@ -12,6 +12,11 @@ export const paulCardall40HymnsForFortyDays = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-04-14",
-  externalId: "1Ymk0K20Sx1CJQkQ0q56CN",
-  externalLink: "https://open.spotify.com/album/1Ymk0K20Sx1CJQkQ0q56CN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Ymk0K20Sx1CJQkQ0q56CN",
+      externalLink: "https://open.spotify.com/album/1Ymk0K20Sx1CJQkQ0q56CN",
+    },
+  ],
 } as const satisfies Release

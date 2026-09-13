@@ -12,7 +12,12 @@ export const sabrinaCarpenterCloudsWithSabrinaCarpenter = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-09",
-  externalId: "6LGAFuDtpOFLOU2UhGGbg4",
-  externalLink: "https://open.spotify.com/album/6LGAFuDtpOFLOU2UhGGbg4",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6LGAFuDtpOFLOU2UhGGbg4",
+      externalLink: "https://open.spotify.com/album/6LGAFuDtpOFLOU2UhGGbg4",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

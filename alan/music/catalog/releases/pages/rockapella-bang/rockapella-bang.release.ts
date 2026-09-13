@@ -12,6 +12,11 @@ export const rockapellaBang = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2010-10-12",
-  externalId: "3y7Sk6v8mTAv1KPNKO4pMV",
-  externalLink: "https://open.spotify.com/album/3y7Sk6v8mTAv1KPNKO4pMV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3y7Sk6v8mTAv1KPNKO4pMV",
+      externalLink: "https://open.spotify.com/album/3y7Sk6v8mTAv1KPNKO4pMV",
+    },
+  ],
 } as const satisfies Release

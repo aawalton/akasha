@@ -12,6 +12,11 @@ export const paulCardallChristmasDreaming = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-12-01",
-  externalId: "2AYRJwJrnyCB7gyJZOSZeZ",
-  externalLink: "https://open.spotify.com/album/2AYRJwJrnyCB7gyJZOSZeZ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2AYRJwJrnyCB7gyJZOSZeZ",
+      externalLink: "https://open.spotify.com/album/2AYRJwJrnyCB7gyJZOSZeZ",
+    },
+  ],
 } as const satisfies Release

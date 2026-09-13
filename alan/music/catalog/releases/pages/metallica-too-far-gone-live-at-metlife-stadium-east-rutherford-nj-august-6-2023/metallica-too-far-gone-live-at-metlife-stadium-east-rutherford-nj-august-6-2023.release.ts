@@ -12,6 +12,11 @@ export const metallicaTooFarGoneLiveAtMetlifeStadiumEastRutherfordNjAugust62023 
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-09-15",
-  externalId: "4fd8mqhFEDpn8sJitGqS8k",
-  externalLink: "https://open.spotify.com/album/4fd8mqhFEDpn8sJitGqS8k",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4fd8mqhFEDpn8sJitGqS8k",
+      externalLink: "https://open.spotify.com/album/4fd8mqhFEDpn8sJitGqS8k",
+    },
+  ],
 } as const satisfies Release

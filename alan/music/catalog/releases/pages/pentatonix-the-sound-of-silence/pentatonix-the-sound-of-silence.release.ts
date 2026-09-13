@@ -12,6 +12,11 @@ export const pentatonixTheSoundOfSilence = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-02-15",
-  externalId: "2d5CHsmyOYGqfjDaPrdEzc",
-  externalLink: "https://open.spotify.com/album/2d5CHsmyOYGqfjDaPrdEzc",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2d5CHsmyOYGqfjDaPrdEzc",
+      externalLink: "https://open.spotify.com/album/2d5CHsmyOYGqfjDaPrdEzc",
+    },
+  ],
 } as const satisfies Release

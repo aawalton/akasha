@@ -12,6 +12,11 @@ export const nickelCreek2DestinationLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-04",
-  externalId: "6o8N3qkZhqEyivI7dJXCX5",
-  externalLink: "https://open.spotify.com/album/6o8N3qkZhqEyivI7dJXCX5",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6o8N3qkZhqEyivI7dJXCX5",
+      externalLink: "https://open.spotify.com/album/6o8N3qkZhqEyivI7dJXCX5",
+    },
+  ],
 } as const satisfies Release

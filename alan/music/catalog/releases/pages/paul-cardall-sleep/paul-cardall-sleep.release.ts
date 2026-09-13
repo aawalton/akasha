@@ -12,6 +12,11 @@ export const paulCardallSleep = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-03",
-  externalId: "7KmM2VWfvX26JwYaTbmucc",
-  externalLink: "https://open.spotify.com/album/7KmM2VWfvX26JwYaTbmucc",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7KmM2VWfvX26JwYaTbmucc",
+      externalLink: "https://open.spotify.com/album/7KmM2VWfvX26JwYaTbmucc",
+    },
+  ],
 } as const satisfies Release

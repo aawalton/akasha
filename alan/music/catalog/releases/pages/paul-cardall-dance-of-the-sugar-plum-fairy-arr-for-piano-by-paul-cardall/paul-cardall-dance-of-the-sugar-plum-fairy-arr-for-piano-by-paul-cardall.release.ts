@@ -12,6 +12,11 @@ export const paulCardallDanceOfTheSugarPlumFairyArrForPianoByPaulCardall = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-11-22",
-  externalId: "2gEb1BYQ3x2vQrFktHCdBe",
-  externalLink: "https://open.spotify.com/album/2gEb1BYQ3x2vQrFktHCdBe",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2gEb1BYQ3x2vQrFktHCdBe",
+      externalLink: "https://open.spotify.com/album/2gEb1BYQ3x2vQrFktHCdBe",
+    },
+  ],
 } as const satisfies Release

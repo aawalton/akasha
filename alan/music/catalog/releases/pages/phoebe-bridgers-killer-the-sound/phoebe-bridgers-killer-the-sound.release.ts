@@ -13,6 +13,11 @@ export const phoebeBridgersKillerTheSound = {
   status: "completed",
   rank: "B",
   publishedAt: "2018-04-28",
-  externalId: "0YkXSjRA7Zim0xIuZ26CRs",
-  externalLink: "https://open.spotify.com/album/0YkXSjRA7Zim0xIuZ26CRs",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0YkXSjRA7Zim0xIuZ26CRs",
+      externalLink: "https://open.spotify.com/album/0YkXSjRA7Zim0xIuZ26CRs",
+    },
+  ],
 } as const satisfies Release

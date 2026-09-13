@@ -12,6 +12,11 @@ export const paulCardallPachelbelSCanonInD = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-06-06",
-  externalId: "1N0GqM12n5Q6UReBGABubZ",
-  externalLink: "https://open.spotify.com/album/1N0GqM12n5Q6UReBGABubZ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1N0GqM12n5Q6UReBGABubZ",
+      externalLink: "https://open.spotify.com/album/1N0GqM12n5Q6UReBGABubZ",
+    },
+  ],
 } as const satisfies Release

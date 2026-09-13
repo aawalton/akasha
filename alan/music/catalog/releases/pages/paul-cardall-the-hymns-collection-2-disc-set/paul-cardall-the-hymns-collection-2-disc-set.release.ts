@@ -12,6 +12,11 @@ export const paulCardallTheHymnsCollection2DiscSet = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-01-01",
-  externalId: "5nMLSSi5QhzqRNAgpbLNFF",
-  externalLink: "https://open.spotify.com/album/5nMLSSi5QhzqRNAgpbLNFF",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5nMLSSi5QhzqRNAgpbLNFF",
+      externalLink: "https://open.spotify.com/album/5nMLSSi5QhzqRNAgpbLNFF",
+    },
+  ],
 } as const satisfies Release

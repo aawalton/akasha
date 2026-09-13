@@ -13,6 +13,11 @@ export const reneeRappBiteMe = {
   status: "completed",
   rank: "C",
   publishedAt: "2025-08-01",
-  externalId: "6ULnaZahd0zTGVUBVQO6mN",
-  externalLink: "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6ULnaZahd0zTGVUBVQO6mN",
+      externalLink: "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN",
+    },
+  ],
 } as const satisfies Release
