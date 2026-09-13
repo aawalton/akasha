@@ -36,6 +36,10 @@ const PAGE_TYPE = "type"
 
 const PRINCIPAL = "principalSeatName"
 
+export const LEFT_BY = "leftBy"
+
+export const CARRIED_AT = "carriedAt"
+
 export type Moved = {
   readonly edits: number
   readonly refusals: boolean
@@ -76,8 +80,19 @@ function appended(root: string, page: string, at: string, text: string): undefin
   return undefined
 }
 
-function editsSaid(lines: readonly string[]): string {
-  return lines.map((one) => `${one}\n`).join("")
+function markedIn(line: string, named: string, at: string): string {
+  let read: unknown
+  try {
+    read = JSON.parse(line)
+  } catch {
+    return line
+  }
+  if (typeof read !== "object" || read === null || Array.isArray(read)) return line
+  return JSON.stringify({ [LEFT_BY]: named, [CARRIED_AT]: at, ...(read as object) })
+}
+
+export function editsSaid(lines: readonly string[], named: string, at: string): string {
+  return lines.map((one) => `${markedIn(one, named, at)}\n`).join("")
 }
 
 export function refusalsSaid(named: string, held: string): string {
@@ -87,14 +102,15 @@ export function refusalsSaid(named: string, held: string): string {
 export function movedOnto(root: string, seatPage: string, subagentPage: string): Moved {
   const editsTo = seatEditsAt(seatPage)
   const refusalsTo = seatRefusalsAt(seatPage)
+  const named = namedAt(subagentPage)
   const lines = editsTo === null ? [] : linesIn(root, subagentPage)
   if (editsTo !== null && lines.length > 0) {
-    appended(root, seatPage, editsTo, editsSaid(lines))
+    appended(root, seatPage, editsTo, editsSaid(lines, named, new Date().toISOString()))
     droppedAll(root, subagentPage)
   }
   const refused = refusalsTo === null ? null : textAt(root, refusalsAt(subagentPage))
   if (refusalsTo !== null && refused !== null) {
-    appended(root, seatPage, refusalsTo, refusalsSaid(namedAt(subagentPage), refused))
+    appended(root, seatPage, refusalsTo, refusalsSaid(named, refused))
     refusalsKept(root, subagentPage, [])
   }
   return { edits: lines.length, refusals: refused !== null }

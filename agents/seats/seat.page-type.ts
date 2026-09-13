@@ -311,8 +311,16 @@ export const seat = {
         "Whether a kept record landed already is undecidable where its new text sits inside its old.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A record a seat keeps that way says which subagent left it and when.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The time a record says is when the seat took the record.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "A record the seat took before that says neither, and is left as it is.",
     },
     {
       invariantKind: "departure",

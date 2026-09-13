@@ -30,6 +30,27 @@ export const subagentRecovering = {
     },
     {
       invariantKind: "departure",
+      statement: "A line appended says which subagent left it and when the seat took it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The time a line says is when the seat took the line rather than when the edit was drafted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "When an edit was drafted is said by nothing this move reads.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every line one move appends says the same time.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line that reads as no object is appended unchanged.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A refusal appended is opened by the slug of the subagent whose refusal it was.",
     },
     {

@@ -6,7 +6,10 @@ import {
   refusalsKept,
 } from "akasha/agents/modules/refusals-keeping/refusals-keeping.module.code.ts"
 import {
+  CARRIED_AT,
   carriedOff,
+  editsSaid,
+  LEFT_BY,
   movedOnto,
   namedAt,
   refusalsSaid,
@@ -44,16 +47,46 @@ function folderFor(root: string, page: string): undefined {
   return undefined
 }
 
+function keptIn(root: string): readonly Record<string, string>[] {
+  return bodyAt(root, seatEditsAt(SEAT))
+    .split("\n")
+    .filter((one) => one !== "")
+    .map((one) => JSON.parse(one) as Record<string, string>)
+}
+
 test("the edits a subagent never landed are appended to the seat", () => {
   const root = scratch.rootFor("subagent-recovering-")
   appendEdits(root, UNDER, [ROW, OTHER])
 
   expect(movedOnto(root, SEAT, UNDER)).toEqual({ edits: 2, refusals: false })
-  expect(
-    bodyAt(root, seatEditsAt(SEAT))
-      .split("\n")
-      .filter((one) => one !== "")
-  ).toEqual([JSON.stringify(ROW), JSON.stringify(OTHER)])
+  expect(keptIn(root).map((one) => one.path)).toEqual(["one.md", "two.md"])
+})
+
+test("a line appended says which subagent left it and when the seat took it", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  appendEdits(root, UNDER, [ROW])
+  movedOnto(root, SEAT, UNDER)
+
+  const [one] = keptIn(root)
+  expect(one?.[LEFT_BY]).toBe("tester-abc")
+  const at = one?.[CARRIED_AT] ?? ""
+  expect(new Date(at).toISOString()).toBe(at)
+})
+
+test("every line one move appends says the same time", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  appendEdits(root, UNDER, [ROW, OTHER])
+  movedOnto(root, SEAT, UNDER)
+
+  const held = keptIn(root)
+  expect(held.length).toBe(2)
+  expect(held[0]?.[CARRIED_AT]).toBe(held[1]?.[CARRIED_AT] ?? "")
+})
+
+test("a line that reads as no object is appended unchanged", () => {
+  expect(editsSaid(["not an object"], "tester-abc", "2026-09-13T00:00:00.000Z")).toBe(
+    "not an object\n"
+  )
 })
 
 test("a second subagent's edits follow the first rather than replacing them", () => {
@@ -64,11 +97,8 @@ test("a second subagent's edits follow the first rather than replacing them", ()
   appendEdits(root, second, [OTHER])
   movedOnto(root, SEAT, second)
 
-  expect(
-    bodyAt(root, seatEditsAt(SEAT))
-      .split("\n")
-      .filter((one) => one !== "")
-  ).toEqual([JSON.stringify(ROW), JSON.stringify(OTHER)])
+  expect(keptIn(root).map((one) => one.path)).toEqual(["one.md", "two.md"])
+  expect(keptIn(root).map((one) => one[LEFT_BY])).toEqual(["tester-abc", "tester-def"])
 })
 
 test("what was moved is taken from beside the subagent rather than copied", () => {
@@ -88,11 +118,7 @@ test("a second move over the same subagent moves nothing", () => {
   movedOnto(root, SEAT, UNDER)
 
   expect(movedOnto(root, SEAT, UNDER)).toEqual({ edits: 0, refusals: false })
-  expect(
-    bodyAt(root, seatEditsAt(SEAT))
-      .split("\n")
-      .filter((one) => one !== "")
-  ).toEqual([JSON.stringify(ROW)])
+  expect(keptIn(root).map((one) => one.path)).toEqual(["one.md"])
 })
 
 test("a subagent with nothing beside it moves nothing", () => {
