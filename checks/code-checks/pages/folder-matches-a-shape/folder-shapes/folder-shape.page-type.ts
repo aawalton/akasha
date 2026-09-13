@@ -51,6 +51,7 @@ export const folderShape = {
     "folder-shape/scripts-only",
     "folder-shape/sections-of-the-book-above",
     "folder-shape/sections-of-the-section-beside",
+    "folder-shape/test-fixtures-only",
     "folder-shape/the-workspace-root",
   ],
   extends: ["page-type/module"],

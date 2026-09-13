@@ -6,6 +6,7 @@ import { HOLDS as HELD_BY_PROPERTIES_OF_THE_TYPE_ABOVE } from "akasha/checks/cod
 import { HOLDS as HELD_BY_PROPERTY_PAGES_ONLY } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/property-pages-only/property-pages-only.folder-shape.code.ts"
 import { HOLDS as HELD_BY_SCRIPTS_ONLY } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/scripts-only/scripts-only.folder-shape.code.ts"
 import { HOLDS as HELD_BY_SECTIONS_OF_THE_BOOK_ABOVE } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.code.ts"
+import { HOLDS as HELD_BY_TEST_FIXTURES_ONLY } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/test-fixtures-only/test-fixtures-only.folder-shape.code.ts"
 import {
   type Grouped,
   segmentingOver,
@@ -98,7 +99,14 @@ export const HELD_IN_TESTS = new Set<string>([
   ...HELD_BY_PROPERTY_PAGES_ONLY,
   ...HELD_BY_SCRIPTS_ONLY,
   ...HELD_BY_SECTIONS_OF_THE_BOOK_ABOVE,
+  ...HELD_BY_TEST_FIXTURES_ONLY,
 ])
+
+export const sameName: Standing["extending"] = (pageTypeSlug, wanted) => pageTypeSlug === wanted
+
+export function holdsFrom(named: Readonly<Record<string, readonly string[]>>): Standing["holds"] {
+  return (at) => named[at] ?? []
+}
 
 export function folderFrom(shaping: Shaping): (names: readonly string[]) => Standing {
   const extending = shaping.extending ?? ((): boolean => false)
