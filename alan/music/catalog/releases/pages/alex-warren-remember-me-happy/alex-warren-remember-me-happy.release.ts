@@ -12,7 +12,12 @@ export const alexWarrenRememberMeHappy = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-12-17",
-  externalId: "7MCGknTlNbWvCkzNjrqRDq",
-  externalLink: "https://open.spotify.com/album/7MCGknTlNbWvCkzNjrqRDq",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7MCGknTlNbWvCkzNjrqRDq",
+      externalLink: "https://open.spotify.com/album/7MCGknTlNbWvCkzNjrqRDq",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const byuVocalPointThePrayer = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-02-20",
-  externalId: "4x9WrhfSRO3PUJIBVFaO4D",
-  externalLink: "https://open.spotify.com/album/4x9WrhfSRO3PUJIBVFaO4D",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4x9WrhfSRO3PUJIBVFaO4D",
+      externalLink: "https://open.spotify.com/album/4x9WrhfSRO3PUJIBVFaO4D",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

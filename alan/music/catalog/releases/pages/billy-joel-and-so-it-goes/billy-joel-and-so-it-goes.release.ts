@@ -12,6 +12,11 @@ export const billyJoelAndSoItGoes = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-07-26",
-  externalId: "62feuYa3pcMI4JJjGjsUER",
-  externalLink: "https://open.spotify.com/album/62feuYa3pcMI4JJjGjsUER",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "62feuYa3pcMI4JJjGjsUER",
+      externalLink: "https://open.spotify.com/album/62feuYa3pcMI4JJjGjsUER",
+    },
+  ],
 } as const satisfies Release

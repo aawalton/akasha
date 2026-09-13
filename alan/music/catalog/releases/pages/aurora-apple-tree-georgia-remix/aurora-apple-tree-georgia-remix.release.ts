@@ -12,6 +12,11 @@ export const auroraAppleTreeGeorgiaRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-08-14",
-  externalId: "2Tdddwxt5OoIvLs8rl3t6N",
-  externalLink: "https://open.spotify.com/album/2Tdddwxt5OoIvLs8rl3t6N",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Tdddwxt5OoIvLs8rl3t6N",
+      externalLink: "https://open.spotify.com/album/2Tdddwxt5OoIvLs8rl3t6N",
+    },
+  ],
 } as const satisfies Release

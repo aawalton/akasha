@@ -12,7 +12,12 @@ export const arianaGrandeBoyfriend = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-08-02",
-  externalId: "3zVB99XMdbP9HTVNg0GJwV",
-  externalLink: "https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3zVB99XMdbP9HTVNg0GJwV",
+      externalLink: "https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

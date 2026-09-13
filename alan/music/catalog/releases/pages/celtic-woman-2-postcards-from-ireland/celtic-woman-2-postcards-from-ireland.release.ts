@@ -12,6 +12,11 @@ export const celticWoman2PostcardsFromIreland = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-29",
-  externalId: "6MEFNhfXzOAOiBjPLiPdhm",
-  externalLink: "https://open.spotify.com/album/6MEFNhfXzOAOiBjPLiPdhm",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6MEFNhfXzOAOiBjPLiPdhm",
+      externalLink: "https://open.spotify.com/album/6MEFNhfXzOAOiBjPLiPdhm",
+    },
+  ],
 } as const satisfies Release

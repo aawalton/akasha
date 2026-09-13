@@ -13,6 +13,11 @@ export const billieEilishWhatWasIMadeForFromTheMotionPictureBarbie = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-07-13",
-  externalId: "3AafSrFIbJPH6BJHiJm1Cd",
-  externalLink: "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3AafSrFIbJPH6BJHiJm1Cd",
+      externalLink: "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd",
+    },
+  ],
 } as const satisfies Release

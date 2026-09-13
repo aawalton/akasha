@@ -12,7 +12,12 @@ export const adeleHometownGlory = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-07-01",
-  externalId: "1uT2pOgyFOXic7AyGCRCwx",
-  externalLink: "https://open.spotify.com/album/1uT2pOgyFOXic7AyGCRCwx",
-  lastSyncedAt: "2026-02-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1uT2pOgyFOXic7AyGCRCwx",
+      externalLink: "https://open.spotify.com/album/1uT2pOgyFOXic7AyGCRCwx",
+      lastSyncedAt: "2026-02-09",
+    },
+  ],
 } as const satisfies Release

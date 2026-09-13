@@ -12,7 +12,12 @@ export const byuVocalPointTheChristmasSong = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-12-05",
-  externalId: "5y5WKx7u3bt53aa6XKTOd2",
-  externalLink: "https://open.spotify.com/album/5y5WKx7u3bt53aa6XKTOd2",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5y5WKx7u3bt53aa6XKTOd2",
+      externalLink: "https://open.spotify.com/album/5y5WKx7u3bt53aa6XKTOd2",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const celticWoman2MoGhileMearMyGallantStar = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-01-01",
-  externalId: "1g4lovWgZv3y1FPjzDKPLp",
-  externalLink: "https://open.spotify.com/album/1g4lovWgZv3y1FPjzDKPLp",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1g4lovWgZv3y1FPjzDKPLp",
+      externalLink: "https://open.spotify.com/album/1g4lovWgZv3y1FPjzDKPLp",
+    },
+  ],
 } as const satisfies Release

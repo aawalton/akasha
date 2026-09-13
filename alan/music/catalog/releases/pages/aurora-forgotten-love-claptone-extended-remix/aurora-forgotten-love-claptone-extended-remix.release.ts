@@ -12,6 +12,11 @@ export const auroraForgottenLoveClaptoneExtendedRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-10-25",
-  externalId: "1ECqWy3lEEZtOeuqwb0nLv",
-  externalLink: "https://open.spotify.com/album/1ECqWy3lEEZtOeuqwb0nLv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1ECqWy3lEEZtOeuqwb0nLv",
+      externalLink: "https://open.spotify.com/album/1ECqWy3lEEZtOeuqwb0nLv",
+    },
+  ],
 } as const satisfies Release

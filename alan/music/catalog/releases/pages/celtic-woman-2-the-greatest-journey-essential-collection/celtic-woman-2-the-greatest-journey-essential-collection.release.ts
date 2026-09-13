@@ -12,6 +12,11 @@ export const celticWoman2TheGreatestJourneyEssentialCollection = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-01-01",
-  externalId: "6Gcai6e7rxHo6nliZntVCs",
-  externalLink: "https://open.spotify.com/album/6Gcai6e7rxHo6nliZntVCs",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Gcai6e7rxHo6nliZntVCs",
+      externalLink: "https://open.spotify.com/album/6Gcai6e7rxHo6nliZntVCs",
+    },
+  ],
 } as const satisfies Release

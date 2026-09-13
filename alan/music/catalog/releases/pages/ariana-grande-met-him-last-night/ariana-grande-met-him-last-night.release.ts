@@ -12,7 +12,12 @@ export const arianaGrandeMetHimLastNight = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-01",
-  externalId: "3UIdh1xeV6hqlfhmimFkWx",
-  externalLink: "https://open.spotify.com/album/3UIdh1xeV6hqlfhmimFkWx",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3UIdh1xeV6hqlfhmimFkWx",
+      externalLink: "https://open.spotify.com/album/3UIdh1xeV6hqlfhmimFkWx",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

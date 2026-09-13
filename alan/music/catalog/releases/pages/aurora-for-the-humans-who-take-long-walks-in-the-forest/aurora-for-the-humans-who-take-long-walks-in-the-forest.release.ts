@@ -12,6 +12,11 @@ export const auroraForTheHumansWhoTakeLongWalksInTheForest = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-02-04",
-  externalId: "6Nc88XFETOtTJpQA4RqYGI",
-  externalLink: "https://open.spotify.com/album/6Nc88XFETOtTJpQA4RqYGI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Nc88XFETOtTJpQA4RqYGI",
+      externalLink: "https://open.spotify.com/album/6Nc88XFETOtTJpQA4RqYGI",
+    },
+  ],
 } as const satisfies Release

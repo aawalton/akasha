@@ -12,6 +12,11 @@ export const auroraRunningWithTheWolves2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-04-21",
-  externalId: "3yr0vKlEB437XLgCBrbSsi",
-  externalLink: "https://open.spotify.com/album/3yr0vKlEB437XLgCBrbSsi",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3yr0vKlEB437XLgCBrbSsi",
+      externalLink: "https://open.spotify.com/album/3yr0vKlEB437XLgCBrbSsi",
+    },
+  ],
 } as const satisfies Release

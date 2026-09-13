@@ -12,6 +12,11 @@ export const celticWoman2OHolyNight2020Version = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-01",
-  externalId: "3tvL7fXiSYfrJtymmq3YCC",
-  externalLink: "https://open.spotify.com/album/3tvL7fXiSYfrJtymmq3YCC",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3tvL7fXiSYfrJtymmq3YCC",
+      externalLink: "https://open.spotify.com/album/3tvL7fXiSYfrJtymmq3YCC",
+    },
+  ],
 } as const satisfies Release

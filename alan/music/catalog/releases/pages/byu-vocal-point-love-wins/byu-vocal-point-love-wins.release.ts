@@ -12,7 +12,12 @@ export const byuVocalPointLoveWins = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-08-23",
-  externalId: "3FbUWI8ThwTzEjl7VEJ72S",
-  externalLink: "https://open.spotify.com/album/3FbUWI8ThwTzEjl7VEJ72S",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3FbUWI8ThwTzEjl7VEJ72S",
+      externalLink: "https://open.spotify.com/album/3FbUWI8ThwTzEjl7VEJ72S",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

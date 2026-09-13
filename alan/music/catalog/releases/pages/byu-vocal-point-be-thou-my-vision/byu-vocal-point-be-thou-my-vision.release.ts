@@ -12,7 +12,12 @@ export const byuVocalPointBeThouMyVision = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-01-24",
-  externalId: "0ynrGOUQVnfvN934fKIYHA",
-  externalLink: "https://open.spotify.com/album/0ynrGOUQVnfvN934fKIYHA",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0ynrGOUQVnfvN934fKIYHA",
+      externalLink: "https://open.spotify.com/album/0ynrGOUQVnfvN934fKIYHA",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

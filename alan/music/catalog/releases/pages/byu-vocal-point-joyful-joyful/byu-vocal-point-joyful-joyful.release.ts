@@ -12,7 +12,12 @@ export const byuVocalPointJoyfulJoyful = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-11-07",
-  externalId: "1PGAJMZgLu6BRGEWHXY6JL",
-  externalLink: "https://open.spotify.com/album/1PGAJMZgLu6BRGEWHXY6JL",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1PGAJMZgLu6BRGEWHXY6JL",
+      externalLink: "https://open.spotify.com/album/1PGAJMZgLu6BRGEWHXY6JL",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

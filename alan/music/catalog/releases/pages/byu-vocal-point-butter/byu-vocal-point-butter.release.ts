@@ -12,7 +12,12 @@ export const byuVocalPointButter = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-08-29",
-  externalId: "274WqnE5mjFvmiSnabDfk4",
-  externalLink: "https://open.spotify.com/album/274WqnE5mjFvmiSnabDfk4",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "274WqnE5mjFvmiSnabDfk4",
+      externalLink: "https://open.spotify.com/album/274WqnE5mjFvmiSnabDfk4",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

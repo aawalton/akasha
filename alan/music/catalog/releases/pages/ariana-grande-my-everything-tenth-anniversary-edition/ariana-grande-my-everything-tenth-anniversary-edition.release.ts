@@ -12,7 +12,12 @@ export const arianaGrandeMyEverythingTenthAnniversaryEdition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-08-22",
-  externalId: "2uMTmPEFafKfKeobvdx5EE",
-  externalLink: "https://open.spotify.com/album/2uMTmPEFafKfKeobvdx5EE",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2uMTmPEFafKfKeobvdx5EE",
+      externalLink: "https://open.spotify.com/album/2uMTmPEFafKfKeobvdx5EE",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

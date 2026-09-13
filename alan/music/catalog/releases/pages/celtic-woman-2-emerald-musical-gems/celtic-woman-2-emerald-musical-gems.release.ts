@@ -12,6 +12,11 @@ export const celticWoman2EmeraldMusicalGems = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-01-01",
-  externalId: "7fa6mdn2l6gNvqmvZO6TIn",
-  externalLink: "https://open.spotify.com/album/7fa6mdn2l6gNvqmvZO6TIn",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7fa6mdn2l6gNvqmvZO6TIn",
+      externalLink: "https://open.spotify.com/album/7fa6mdn2l6gNvqmvZO6TIn",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const backstreetBoys2LetItBeMeSondrRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-10-18",
-  externalId: "7xnhFd9Dtw9dOkyhrpsEA4",
-  externalLink: "https://open.spotify.com/album/7xnhFd9Dtw9dOkyhrpsEA4",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7xnhFd9Dtw9dOkyhrpsEA4",
+      externalLink: "https://open.spotify.com/album/7xnhFd9Dtw9dOkyhrpsEA4",
+    },
+  ],
 } as const satisfies Release

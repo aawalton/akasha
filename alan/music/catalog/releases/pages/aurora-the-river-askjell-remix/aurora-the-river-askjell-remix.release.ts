@@ -12,6 +12,11 @@ export const auroraTheRiverAskjellRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-05-28",
-  externalId: "4MUYZFRBTzDnA8ResJefwA",
-  externalLink: "https://open.spotify.com/album/4MUYZFRBTzDnA8ResJefwA",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4MUYZFRBTzDnA8ResJefwA",
+      externalLink: "https://open.spotify.com/album/4MUYZFRBTzDnA8ResJefwA",
+    },
+  ],
 } as const satisfies Release

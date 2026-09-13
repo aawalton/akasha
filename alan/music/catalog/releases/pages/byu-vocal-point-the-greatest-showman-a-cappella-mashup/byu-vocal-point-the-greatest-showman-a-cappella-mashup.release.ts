@@ -12,7 +12,12 @@ export const byuVocalPointTheGreatestShowmanACappellaMashup = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-02-16",
-  externalId: "6qkrDV0oKSCsn3i2OLOL9U",
-  externalLink: "https://open.spotify.com/album/6qkrDV0oKSCsn3i2OLOL9U",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6qkrDV0oKSCsn3i2OLOL9U",
+      externalLink: "https://open.spotify.com/album/6qkrDV0oKSCsn3i2OLOL9U",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

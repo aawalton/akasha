@@ -13,7 +13,12 @@ export const alexandriaPixie = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-07-21",
-  externalId: "5UYJxiMfHEBiUCJymBofFD",
-  externalLink: "https://open.spotify.com/album/5UYJxiMfHEBiUCJymBofFD",
-  lastSyncedAt: "2025-10-18",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5UYJxiMfHEBiUCJymBofFD",
+      externalLink: "https://open.spotify.com/album/5UYJxiMfHEBiUCJymBofFD",
+      lastSyncedAt: "2025-10-18",
+    },
+  ],
 } as const satisfies Release

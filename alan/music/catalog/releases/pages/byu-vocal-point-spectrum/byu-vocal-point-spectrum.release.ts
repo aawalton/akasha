@@ -12,7 +12,12 @@ export const byuVocalPointSpectrum = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2014-04-08",
-  externalId: "2N0M8t3QUusPrgXfMHqP14",
-  externalLink: "https://open.spotify.com/album/2N0M8t3QUusPrgXfMHqP14",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2N0M8t3QUusPrgXfMHqP14",
+      externalLink: "https://open.spotify.com/album/2N0M8t3QUusPrgXfMHqP14",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

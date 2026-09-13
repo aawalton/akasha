@@ -12,6 +12,11 @@ export const celticWoman2VoicesOfAngels = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-18",
-  externalId: "7v803jrnOG2WmjlpUTzvi7",
-  externalLink: "https://open.spotify.com/album/7v803jrnOG2WmjlpUTzvi7",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7v803jrnOG2WmjlpUTzvi7",
+      externalLink: "https://open.spotify.com/album/7v803jrnOG2WmjlpUTzvi7",
+    },
+  ],
 } as const satisfies Release

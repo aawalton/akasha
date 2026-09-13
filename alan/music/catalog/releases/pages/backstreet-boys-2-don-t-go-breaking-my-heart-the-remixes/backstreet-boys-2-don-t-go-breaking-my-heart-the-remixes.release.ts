@@ -12,6 +12,11 @@ export const backstreetBoys2DonTGoBreakingMyHeartTheRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-07-13",
-  externalId: "75QKLQOZrGdp0Xj9R0KIKq",
-  externalLink: "https://open.spotify.com/album/75QKLQOZrGdp0Xj9R0KIKq",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "75QKLQOZrGdp0Xj9R0KIKq",
+      externalLink: "https://open.spotify.com/album/75QKLQOZrGdp0Xj9R0KIKq",
+    },
+  ],
 } as const satisfies Release

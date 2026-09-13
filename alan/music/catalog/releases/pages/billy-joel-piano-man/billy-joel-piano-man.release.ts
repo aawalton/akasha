@@ -12,6 +12,11 @@ export const billyJoelPianoMan = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1973-11-09",
-  externalId: "77ErLrVvYETIlQJHAwhfIH",
-  externalLink: "https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "77ErLrVvYETIlQJHAwhfIH",
+      externalLink: "https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const adeleEasyOnMe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-14",
-  externalId: "224jZ4sUX7OhAuMwaxp86S",
-  externalLink: "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S",
-  lastSyncedAt: "2026-02-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "224jZ4sUX7OhAuMwaxp86S",
+      externalLink: "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S",
+      lastSyncedAt: "2026-02-09",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const celticWoman2NollaigNaMban = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-10-24",
-  externalId: "64d5Z0kedNyjRs0OHFCyVc",
-  externalLink: "https://open.spotify.com/album/64d5Z0kedNyjRs0OHFCyVc",
-  lastSyncedAt: "2026-01-21",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "64d5Z0kedNyjRs0OHFCyVc",
+      externalLink: "https://open.spotify.com/album/64d5Z0kedNyjRs0OHFCyVc",
+      lastSyncedAt: "2026-01-21",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const arianaGrandeLoveMeHarder = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-08-22",
-  externalId: "42j6ji8hAqwHUpvw2H08SU",
-  externalLink: "https://open.spotify.com/album/42j6ji8hAqwHUpvw2H08SU",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "42j6ji8hAqwHUpvw2H08SU",
+      externalLink: "https://open.spotify.com/album/42j6ji8hAqwHUpvw2H08SU",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

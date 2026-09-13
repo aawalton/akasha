@@ -12,7 +12,12 @@ export const byuVocalPointDynamiteACappella = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-01-15",
-  externalId: "1G5BF0D9x6VO32uG6g3xb2",
-  externalLink: "https://open.spotify.com/album/1G5BF0D9x6VO32uG6g3xb2",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1G5BF0D9x6VO32uG6g3xb2",
+      externalLink: "https://open.spotify.com/album/1G5BF0D9x6VO32uG6g3xb2",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

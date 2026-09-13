@@ -12,6 +12,11 @@ export const billyJoelBillyJoelRebels = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-08-21",
-  externalId: "2VPTTDWY21MoxnZoSl8TWS",
-  externalLink: "https://open.spotify.com/album/2VPTTDWY21MoxnZoSl8TWS",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2VPTTDWY21MoxnZoSl8TWS",
+      externalLink: "https://open.spotify.com/album/2VPTTDWY21MoxnZoSl8TWS",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const alexWarrenYouLlBeAlrightKidChapter1 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-26",
-  externalId: "1eCGY9WJpYgtaFh1Lk2KNo",
-  externalLink: "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1eCGY9WJpYgtaFh1Lk2KNo",
+      externalLink: "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

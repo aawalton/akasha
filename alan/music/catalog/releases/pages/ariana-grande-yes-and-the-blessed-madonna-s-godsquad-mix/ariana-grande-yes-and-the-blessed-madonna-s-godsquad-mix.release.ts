@@ -12,7 +12,12 @@ export const arianaGrandeYesAndTheBlessedMadonnaSGodsquadMix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-01-12",
-  externalId: "61dUL51qxsxQJMdai6HiUH",
-  externalLink: "https://open.spotify.com/album/61dUL51qxsxQJMdai6HiUH",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "61dUL51qxsxQJMdai6HiUH",
+      externalLink: "https://open.spotify.com/album/61dUL51qxsxQJMdai6HiUH",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

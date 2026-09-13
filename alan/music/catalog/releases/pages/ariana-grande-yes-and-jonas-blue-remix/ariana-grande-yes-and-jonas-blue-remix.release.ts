@@ -12,7 +12,12 @@ export const arianaGrandeYesAndJonasBlueRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-01-12",
-  externalId: "0RhZMUvozZXn2at1sfSogT",
-  externalLink: "https://open.spotify.com/album/0RhZMUvozZXn2at1sfSogT",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0RhZMUvozZXn2at1sfSogT",
+      externalLink: "https://open.spotify.com/album/0RhZMUvozZXn2at1sfSogT",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

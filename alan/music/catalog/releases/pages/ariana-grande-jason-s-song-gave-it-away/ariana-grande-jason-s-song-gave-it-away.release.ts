@@ -12,7 +12,12 @@ export const arianaGrandeJasonSSongGaveItAway = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-09-16",
-  externalId: "3UriCAbU5UjggYgpOQYCQI",
-  externalLink: "https://open.spotify.com/album/3UriCAbU5UjggYgpOQYCQI",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3UriCAbU5UjggYgpOQYCQI",
+      externalLink: "https://open.spotify.com/album/3UriCAbU5UjggYgpOQYCQI",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

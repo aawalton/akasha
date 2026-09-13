@@ -12,7 +12,12 @@ export const arianaGrandeChristmasChill = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-12-18",
-  externalId: "5wJD60fqranwuUGvOGSiyt",
-  externalLink: "https://open.spotify.com/album/5wJD60fqranwuUGvOGSiyt",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5wJD60fqranwuUGvOGSiyt",
+      externalLink: "https://open.spotify.com/album/5wJD60fqranwuUGvOGSiyt",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

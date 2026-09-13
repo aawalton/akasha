@@ -12,6 +12,11 @@ export const celticWoman2BallroomOfRomance = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-08-27",
-  externalId: "6cmsz9QejTIg39cN6tpwfc",
-  externalLink: "https://open.spotify.com/album/6cmsz9QejTIg39cN6tpwfc",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6cmsz9QejTIg39cN6tpwfc",
+      externalLink: "https://open.spotify.com/album/6cmsz9QejTIg39cN6tpwfc",
+    },
+  ],
 } as const satisfies Release

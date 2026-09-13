@@ -12,7 +12,12 @@ export const byuVocalPointYouRaiseMeUp = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-08-14",
-  externalId: "2Dbp1m77QxbVBEcDLXd7h4",
-  externalLink: "https://open.spotify.com/album/2Dbp1m77QxbVBEcDLXd7h4",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Dbp1m77QxbVBEcDLXd7h4",
+      externalLink: "https://open.spotify.com/album/2Dbp1m77QxbVBEcDLXd7h4",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const billyJoelNewYorkStateOfMindEverybodyLovesYouNowLiveAtTheGreatAmeric
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-10-28",
-  externalId: "7jU3BKEYJi0c0hJrsW4fgE",
-  externalLink: "https://open.spotify.com/album/7jU3BKEYJi0c0hJrsW4fgE",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7jU3BKEYJi0c0hJrsW4fgE",
+      externalLink: "https://open.spotify.com/album/7jU3BKEYJi0c0hJrsW4fgE",
+    },
+  ],
 } as const satisfies Release

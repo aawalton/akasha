@@ -12,6 +12,11 @@ export const auroraThankU = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-23",
-  externalId: "4xTL6WvU1XquiSZ1ibPHyB",
-  externalLink: "https://open.spotify.com/album/4xTL6WvU1XquiSZ1ibPHyB",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4xTL6WvU1XquiSZ1ibPHyB",
+      externalLink: "https://open.spotify.com/album/4xTL6WvU1XquiSZ1ibPHyB",
+    },
+  ],
 } as const satisfies Release

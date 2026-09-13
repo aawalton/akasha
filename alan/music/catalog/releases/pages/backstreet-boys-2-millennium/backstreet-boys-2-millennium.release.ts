@@ -12,6 +12,11 @@ export const backstreetBoys2Millennium = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1999-05-18",
-  externalId: "5ySxm9hxBNss01WCL7GLyQ",
-  externalLink: "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5ySxm9hxBNss01WCL7GLyQ",
+      externalLink: "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ",
+    },
+  ],
 } as const satisfies Release

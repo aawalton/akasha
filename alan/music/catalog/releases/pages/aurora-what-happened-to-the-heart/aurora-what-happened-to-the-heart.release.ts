@@ -12,6 +12,11 @@ export const auroraWhatHappenedToTheHeart = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-06-07",
-  externalId: "6TVgUkZ0mlosNNcJYsgTeV",
-  externalLink: "https://open.spotify.com/album/6TVgUkZ0mlosNNcJYsgTeV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6TVgUkZ0mlosNNcJYsgTeV",
+      externalLink: "https://open.spotify.com/album/6TVgUkZ0mlosNNcJYsgTeV",
+    },
+  ],
 } as const satisfies Release

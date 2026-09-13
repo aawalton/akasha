@@ -12,6 +12,11 @@ export const billyJoelLiveAtYankeeStadium = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-11-04",
-  externalId: "3ZcQQSHbMn6hIoNboBJjbF",
-  externalLink: "https://open.spotify.com/album/3ZcQQSHbMn6hIoNboBJjbF",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ZcQQSHbMn6hIoNboBJjbF",
+      externalLink: "https://open.spotify.com/album/3ZcQQSHbMn6hIoNboBJjbF",
+    },
+  ],
 } as const satisfies Release

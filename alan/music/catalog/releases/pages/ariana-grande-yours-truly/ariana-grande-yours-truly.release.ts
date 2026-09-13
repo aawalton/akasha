@@ -12,7 +12,12 @@ export const arianaGrandeYoursTruly = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-01-01",
-  externalId: "5xSvNPstcxHtR4ap2vvN8A",
-  externalLink: "https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5xSvNPstcxHtR4ap2vvN8A",
+      externalLink: "https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

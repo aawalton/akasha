@@ -12,6 +12,11 @@ export const celticWoman2AncientLand = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-09-28",
-  externalId: "6JP6VJccHYWKPckmRpayOP",
-  externalLink: "https://open.spotify.com/album/6JP6VJccHYWKPckmRpayOP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6JP6VJccHYWKPckmRpayOP",
+      externalLink: "https://open.spotify.com/album/6JP6VJccHYWKPckmRpayOP",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const byuVocalPointCreameryOnNinth = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-08-29",
-  externalId: "4c2Pre75CBJwMlrgxS9w7t",
-  externalLink: "https://open.spotify.com/album/4c2Pre75CBJwMlrgxS9w7t",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4c2Pre75CBJwMlrgxS9w7t",
+      externalLink: "https://open.spotify.com/album/4c2Pre75CBJwMlrgxS9w7t",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

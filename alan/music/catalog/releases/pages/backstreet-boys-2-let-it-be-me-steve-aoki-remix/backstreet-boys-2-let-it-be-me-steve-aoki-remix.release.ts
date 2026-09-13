@@ -12,6 +12,11 @@ export const backstreetBoys2LetItBeMeSteveAokiRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-10-18",
-  externalId: "1yZVxhvozcv8eBz6gNkSdV",
-  externalLink: "https://open.spotify.com/album/1yZVxhvozcv8eBz6gNkSdV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1yZVxhvozcv8eBz6gNkSdV",
+      externalLink: "https://open.spotify.com/album/1yZVxhvozcv8eBz6gNkSdV",
+    },
+  ],
 } as const satisfies Release

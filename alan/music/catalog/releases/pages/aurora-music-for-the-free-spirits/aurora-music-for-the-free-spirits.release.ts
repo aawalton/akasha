@@ -12,6 +12,11 @@ export const auroraMusicForTheFreeSpirits = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-02-18",
-  externalId: "3rzTunDWgImuf8YQN5qlKc",
-  externalLink: "https://open.spotify.com/album/3rzTunDWgImuf8YQN5qlKc",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3rzTunDWgImuf8YQN5qlKc",
+      externalLink: "https://open.spotify.com/album/3rzTunDWgImuf8YQN5qlKc",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const byuVocalPointDragMeDownAsLongAsYouLoveMeMashupSingle = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2015-11-01",
-  externalId: "2y2HLvIPk6HD7MwUjBx5H0",
-  externalLink: "https://open.spotify.com/album/2y2HLvIPk6HD7MwUjBx5H0",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2y2HLvIPk6HD7MwUjBx5H0",
+      externalLink: "https://open.spotify.com/album/2y2HLvIPk6HD7MwUjBx5H0",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const auroraTheWomanIAm = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-04-04",
-  externalId: "2wxj6J6Ss8BbPQf2VJoEsr",
-  externalLink: "https://open.spotify.com/album/2wxj6J6Ss8BbPQf2VJoEsr",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2wxj6J6Ss8BbPQf2VJoEsr",
+      externalLink: "https://open.spotify.com/album/2wxj6J6Ss8BbPQf2VJoEsr",
+    },
+  ],
 } as const satisfies Release

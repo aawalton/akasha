@@ -12,6 +12,11 @@ export const celticWoman2AmidTheFallingSnow = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-10-04",
-  externalId: "7yWN3AxJLtzSl9unzlCekl",
-  externalLink: "https://open.spotify.com/album/7yWN3AxJLtzSl9unzlCekl",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7yWN3AxJLtzSl9unzlCekl",
+      externalLink: "https://open.spotify.com/album/7yWN3AxJLtzSl9unzlCekl",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const byuVocalPointAngelsWeHaveHeardOnHigh = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-12-19",
-  externalId: "39oL0bE8bxkIeJFZQ56HOh",
-  externalLink: "https://open.spotify.com/album/39oL0bE8bxkIeJFZQ56HOh",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "39oL0bE8bxkIeJFZQ56HOh",
+      externalLink: "https://open.spotify.com/album/39oL0bE8bxkIeJFZQ56HOh",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const auroraComeCloser = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2026-02-05",
-  externalId: "64FOGaSyhQfEBe8qJa8uBe",
-  externalLink: "https://open.spotify.com/album/64FOGaSyhQfEBe8qJa8uBe",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "64FOGaSyhQfEBe8qJa8uBe",
+      externalLink: "https://open.spotify.com/album/64FOGaSyhQfEBe8qJa8uBe",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

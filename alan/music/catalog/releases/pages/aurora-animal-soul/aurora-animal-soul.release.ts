@@ -12,6 +12,11 @@ export const auroraAnimalSoul = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-05-17",
-  externalId: "0uf9rINfXEDXVkgF2LjNDj",
-  externalLink: "https://open.spotify.com/album/0uf9rINfXEDXVkgF2LjNDj",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0uf9rINfXEDXVkgF2LjNDj",
+      externalLink: "https://open.spotify.com/album/0uf9rINfXEDXVkgF2LjNDj",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const celticWoman2OverTheRainbow = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-08-16",
-  externalId: "19ig22qPGuSgOoLoUwHYuH",
-  externalLink: "https://open.spotify.com/album/19ig22qPGuSgOoLoUwHYuH",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "19ig22qPGuSgOoLoUwHYuH",
+      externalLink: "https://open.spotify.com/album/19ig22qPGuSgOoLoUwHYuH",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const billieEilishHitMeHardAndSoft = {
   status: "completed",
   rank: "A",
   publishedAt: "2024-05-17",
-  externalId: "7aJuG4TFXa2hmE4z1yxc3n",
-  externalLink: "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7aJuG4TFXa2hmE4z1yxc3n",
+      externalLink: "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n",
+    },
+  ],
 } as const satisfies Release

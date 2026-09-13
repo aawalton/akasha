@@ -12,6 +12,11 @@ export const auroraQueendomRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-06-29",
-  externalId: "2rU4EzAu1medA9WOI3zDle",
-  externalLink: "https://open.spotify.com/album/2rU4EzAu1medA9WOI3zDle",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2rU4EzAu1medA9WOI3zDle",
+      externalLink: "https://open.spotify.com/album/2rU4EzAu1medA9WOI3zDle",
+    },
+  ],
 } as const satisfies Release

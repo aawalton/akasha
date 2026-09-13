@@ -12,7 +12,12 @@ export const arianaGrandeRainOnMeWithArianaGrande = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-22",
-  externalId: "4TqgXMSSTwP3RCo3MMSR6t",
-  externalLink: "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4TqgXMSSTwP3RCo3MMSR6t",
+      externalLink: "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

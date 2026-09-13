@@ -12,6 +12,11 @@ export const auroraToBeLoved = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-09-24",
-  externalId: "1RxibJSLV6FDm0TWyfA3mF",
-  externalLink: "https://open.spotify.com/album/1RxibJSLV6FDm0TWyfA3mF",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1RxibJSLV6FDm0TWyfA3mF",
+      externalLink: "https://open.spotify.com/album/1RxibJSLV6FDm0TWyfA3mF",
+    },
+  ],
 } as const satisfies Release

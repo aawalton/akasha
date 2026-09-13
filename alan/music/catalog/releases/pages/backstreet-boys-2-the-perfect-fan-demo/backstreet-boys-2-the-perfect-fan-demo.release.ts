@@ -12,6 +12,11 @@ export const backstreetBoys2ThePerfectFanDemo = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-05-23",
-  externalId: "5MgF2ZtXgJbdplkTvo8tu6",
-  externalLink: "https://open.spotify.com/album/5MgF2ZtXgJbdplkTvo8tu6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5MgF2ZtXgJbdplkTvo8tu6",
+      externalLink: "https://open.spotify.com/album/5MgF2ZtXgJbdplkTvo8tu6",
+    },
+  ],
 } as const satisfies Release

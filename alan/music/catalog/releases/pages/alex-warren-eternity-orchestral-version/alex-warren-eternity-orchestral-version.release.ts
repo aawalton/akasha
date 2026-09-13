@@ -12,7 +12,12 @@ export const alexWarrenEternityOrchestralVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-08-29",
-  externalId: "4PVrTYM62DSSUwTKX39wAR",
-  externalLink: "https://open.spotify.com/album/4PVrTYM62DSSUwTKX39wAR",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4PVrTYM62DSSUwTKX39wAR",
+      externalLink: "https://open.spotify.com/album/4PVrTYM62DSSUwTKX39wAR",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const billieEilishHappierThanEver = {
   status: "completed",
   rank: "B",
   publishedAt: "2021-07-30",
-  externalId: "0JGOiO34nwfUdDrD612dOp",
-  externalLink: "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0JGOiO34nwfUdDrD612dOp",
+      externalLink: "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp",
+    },
+  ],
 } as const satisfies Release

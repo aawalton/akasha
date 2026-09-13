@@ -12,6 +12,11 @@ export const celticWoman2Celebration = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-02-27",
-  externalId: "2M3UP3E3ZpozRA9Ys4YLJW",
-  externalLink: "https://open.spotify.com/album/2M3UP3E3ZpozRA9Ys4YLJW",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2M3UP3E3ZpozRA9Ys4YLJW",
+      externalLink: "https://open.spotify.com/album/2M3UP3E3ZpozRA9Ys4YLJW",
+    },
+  ],
 } as const satisfies Release

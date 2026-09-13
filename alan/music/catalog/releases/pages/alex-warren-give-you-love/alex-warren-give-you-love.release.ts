@@ -12,7 +12,12 @@ export const alexWarrenGiveYouLove = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-08",
-  externalId: "3qOjPBjcMHh2kmizz7qkOG",
-  externalLink: "https://open.spotify.com/album/3qOjPBjcMHh2kmizz7qkOG",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3qOjPBjcMHh2kmizz7qkOG",
+      externalLink: "https://open.spotify.com/album/3qOjPBjcMHh2kmizz7qkOG",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

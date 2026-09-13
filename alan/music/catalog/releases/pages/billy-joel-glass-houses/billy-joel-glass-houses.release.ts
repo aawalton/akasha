@@ -12,6 +12,11 @@ export const billyJoelGlassHouses = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1980-03-12",
-  externalId: "5sztejERqpktXEdemlUvU5",
-  externalLink: "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5sztejERqpktXEdemlUvU5",
+      externalLink: "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5",
+    },
+  ],
 } as const satisfies Release

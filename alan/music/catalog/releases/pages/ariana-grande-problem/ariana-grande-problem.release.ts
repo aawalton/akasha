@@ -12,7 +12,12 @@ export const arianaGrandeProblem = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-04-28",
-  externalId: "6YaOfJYBAlkWqI5Gfsgttp",
-  externalLink: "https://open.spotify.com/album/6YaOfJYBAlkWqI5Gfsgttp",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6YaOfJYBAlkWqI5Gfsgttp",
+      externalLink: "https://open.spotify.com/album/6YaOfJYBAlkWqI5Gfsgttp",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

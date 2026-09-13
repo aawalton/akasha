@@ -12,7 +12,12 @@ export const adeleSkyfall = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-10-04",
-  externalId: "6TwN6Lq9glwnG8kNp6chHY",
-  externalLink: "https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY",
-  lastSyncedAt: "2026-02-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6TwN6Lq9glwnG8kNp6chHY",
+      externalLink: "https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY",
+      lastSyncedAt: "2026-02-09",
+    },
+  ],
 } as const satisfies Release

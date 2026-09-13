@@ -12,6 +12,11 @@ export const auroraExistForLoveRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-17",
-  externalId: "0gRqP69J2rqJVmvIEhN9kb",
-  externalLink: "https://open.spotify.com/album/0gRqP69J2rqJVmvIEhN9kb",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0gRqP69J2rqJVmvIEhN9kb",
+      externalLink: "https://open.spotify.com/album/0gRqP69J2rqJVmvIEhN9kb",
+    },
+  ],
 } as const satisfies Release

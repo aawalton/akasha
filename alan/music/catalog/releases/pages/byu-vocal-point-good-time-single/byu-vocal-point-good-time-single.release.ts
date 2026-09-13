@@ -12,7 +12,12 @@ export const byuVocalPointGoodTimeSingle = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2013-03-05",
-  externalId: "69Maj1WdZU7whzbviBS3xI",
-  externalLink: "https://open.spotify.com/album/69Maj1WdZU7whzbviBS3xI",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "69Maj1WdZU7whzbviBS3xI",
+      externalLink: "https://open.spotify.com/album/69Maj1WdZU7whzbviBS3xI",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

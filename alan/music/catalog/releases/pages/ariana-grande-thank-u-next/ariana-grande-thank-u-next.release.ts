@@ -12,7 +12,12 @@ export const arianaGrandeThankUNext = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-02-08",
-  externalId: "2fYhqwDWXjbpjaIJPEfKFw",
-  externalLink: "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2fYhqwDWXjbpjaIJPEfKFw",
+      externalLink: "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

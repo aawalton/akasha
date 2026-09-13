@@ -12,7 +12,12 @@ export const alexWarrenOrdinaryWeddingVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-18",
-  externalId: "0GuyyL06PKQo3Yz43Nxdct",
-  externalLink: "https://open.spotify.com/album/0GuyyL06PKQo3Yz43Nxdct",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0GuyyL06PKQo3Yz43Nxdct",
+      externalLink: "https://open.spotify.com/album/0GuyyL06PKQo3Yz43Nxdct",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

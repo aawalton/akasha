@@ -13,6 +13,11 @@ export const billieEilishEverythingIWanted = {
   status: "completed",
   rank: "B",
   publishedAt: "2019-11-13",
-  externalId: "4i3rAwPw7Ln2YrKDusaWyT",
-  externalLink: "https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4i3rAwPw7Ln2YrKDusaWyT",
+      externalLink: "https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT",
+    },
+  ],
 } as const satisfies Release

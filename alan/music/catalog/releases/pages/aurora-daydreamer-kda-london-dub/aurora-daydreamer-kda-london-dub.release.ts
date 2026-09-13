@@ -12,6 +12,11 @@ export const auroraDaydreamerKdaLondonDub = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-01",
-  externalId: "7n5MsXEnd49U0yTt4JuQyI",
-  externalLink: "https://open.spotify.com/album/7n5MsXEnd49U0yTt4JuQyI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7n5MsXEnd49U0yTt4JuQyI",
+      externalLink: "https://open.spotify.com/album/7n5MsXEnd49U0yTt4JuQyI",
+    },
+  ],
 } as const satisfies Release

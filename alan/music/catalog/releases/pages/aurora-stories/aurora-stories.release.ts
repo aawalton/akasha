@@ -12,6 +12,11 @@ export const auroraStories = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-02-25",
-  externalId: "7Dwv4Z7wlHsLNtw6ISi4Q4",
-  externalLink: "https://open.spotify.com/album/7Dwv4Z7wlHsLNtw6ISi4Q4",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7Dwv4Z7wlHsLNtw6ISi4Q4",
+      externalLink: "https://open.spotify.com/album/7Dwv4Z7wlHsLNtw6ISi4Q4",
+    },
+  ],
 } as const satisfies Release

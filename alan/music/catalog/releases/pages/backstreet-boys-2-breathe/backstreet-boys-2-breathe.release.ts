@@ -12,6 +12,11 @@ export const backstreetBoys2Breathe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-01-18",
-  externalId: "3wkAyn5E9eDgKpTIAnEMFU",
-  externalLink: "https://open.spotify.com/album/3wkAyn5E9eDgKpTIAnEMFU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3wkAyn5E9eDgKpTIAnEMFU",
+      externalLink: "https://open.spotify.com/album/3wkAyn5E9eDgKpTIAnEMFU",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrack = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-12-07",
-  externalId: "5TtsKcqHI5MN7rtMR19tUL",
-  externalLink: "https://open.spotify.com/album/5TtsKcqHI5MN7rtMR19tUL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5TtsKcqHI5MN7rtMR19tUL",
+      externalLink: "https://open.spotify.com/album/5TtsKcqHI5MN7rtMR19tUL",
+    },
+  ],
 } as const satisfies Release

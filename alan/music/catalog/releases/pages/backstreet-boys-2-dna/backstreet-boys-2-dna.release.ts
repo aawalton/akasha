@@ -12,6 +12,11 @@ export const backstreetBoys2Dna = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-01-25",
-  externalId: "02FX4aLHDNacfV4bMnO9Kv",
-  externalLink: "https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "02FX4aLHDNacfV4bMnO9Kv",
+      externalLink: "https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv",
+    },
+  ],
 } as const satisfies Release

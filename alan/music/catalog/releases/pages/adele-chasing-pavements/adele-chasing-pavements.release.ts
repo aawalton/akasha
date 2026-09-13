@@ -12,7 +12,12 @@ export const adeleChasingPavements = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-01-21",
-  externalId: "5Kclo2Kmw2v94UqKwZam8F",
-  externalLink: "https://open.spotify.com/album/5Kclo2Kmw2v94UqKwZam8F",
-  lastSyncedAt: "2026-02-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5Kclo2Kmw2v94UqKwZam8F",
+      externalLink: "https://open.spotify.com/album/5Kclo2Kmw2v94UqKwZam8F",
+      lastSyncedAt: "2026-02-09",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const celticWoman2RedIsTheRose = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-05-09",
-  externalId: "6ORQwFm62ysiizXPqM1INp",
-  externalLink: "https://open.spotify.com/album/6ORQwFm62ysiizXPqM1INp",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6ORQwFm62ysiizXPqM1INp",
+      externalLink: "https://open.spotify.com/album/6ORQwFm62ysiizXPqM1INp",
+    },
+  ],
 } as const satisfies Release

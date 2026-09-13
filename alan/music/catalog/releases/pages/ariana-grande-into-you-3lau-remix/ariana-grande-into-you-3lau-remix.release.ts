@@ -12,7 +12,12 @@ export const arianaGrandeIntoYou3lauRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-08-19",
-  externalId: "3c5hq7WzAnJapzz9CNuuLl",
-  externalLink: "https://open.spotify.com/album/3c5hq7WzAnJapzz9CNuuLl",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3c5hq7WzAnJapzz9CNuuLl",
+      externalLink: "https://open.spotify.com/album/3c5hq7WzAnJapzz9CNuuLl",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

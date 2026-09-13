@@ -13,6 +13,11 @@ export const billieEilishOceanEyes = {
   status: "completed",
   rank: "A",
   publishedAt: "2016-11-18",
-  externalId: "2msN7XBgV3JCjQ7Tq3t7i9",
-  externalLink: "https://open.spotify.com/album/2msN7XBgV3JCjQ7Tq3t7i9",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2msN7XBgV3JCjQ7Tq3t7i9",
+      externalLink: "https://open.spotify.com/album/2msN7XBgV3JCjQ7Tq3t7i9",
+    },
+  ],
 } as const satisfies Release

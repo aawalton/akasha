@@ -12,6 +12,11 @@ export const celticWoman2SpancilHill = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-07-03",
-  externalId: "4vqPZ33aCyf4YmwYSrc0qd",
-  externalLink: "https://open.spotify.com/album/4vqPZ33aCyf4YmwYSrc0qd",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4vqPZ33aCyf4YmwYSrc0qd",
+      externalLink: "https://open.spotify.com/album/4vqPZ33aCyf4YmwYSrc0qd",
+    },
+  ],
 } as const satisfies Release

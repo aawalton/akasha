@@ -12,6 +12,11 @@ export const billyJoelKohueptLive = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1987-10-26",
-  externalId: "7nZUqUuVGjxoTRq8HcdrNv",
-  externalLink: "https://open.spotify.com/album/7nZUqUuVGjxoTRq8HcdrNv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7nZUqUuVGjxoTRq8HcdrNv",
+      externalLink: "https://open.spotify.com/album/7nZUqUuVGjxoTRq8HcdrNv",
+    },
+  ],
 } as const satisfies Release

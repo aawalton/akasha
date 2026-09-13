@@ -12,6 +12,11 @@ export const celticWoman2AsaSFancyRoxySNewShoes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-05-16",
-  externalId: "3xnUqubGdeoQOQzzU8HeHs",
-  externalLink: "https://open.spotify.com/album/3xnUqubGdeoQOQzzU8HeHs",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3xnUqubGdeoQOQzzU8HeHs",
+      externalLink: "https://open.spotify.com/album/3xnUqubGdeoQOQzzU8HeHs",
+    },
+  ],
 } as const satisfies Release

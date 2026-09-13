@@ -12,6 +12,11 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrack = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-14",
-  externalId: "6XVCLtMjubQa0VHm9UHsXN",
-  externalLink: "https://open.spotify.com/album/6XVCLtMjubQa0VHm9UHsXN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6XVCLtMjubQa0VHm9UHsXN",
+      externalLink: "https://open.spotify.com/album/6XVCLtMjubQa0VHm9UHsXN",
+    },
+  ],
 } as const satisfies Release

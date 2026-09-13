@@ -13,6 +13,11 @@ export const billieEilishDontSmileAtMe = {
   status: "completed",
   rank: "B",
   publishedAt: "2017-12-22",
-  externalId: "7fRrTyKvE4Skh93v97gtcU",
-  externalLink: "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7fRrTyKvE4Skh93v97gtcU",
+      externalLink: "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU",
+    },
+  ],
 } as const satisfies Release

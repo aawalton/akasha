@@ -12,6 +12,11 @@ export const celticWoman2WaterUnderTheBridge = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-06-23",
-  externalId: "3oLWsGeuaNChQ5cNwbZNe1",
-  externalLink: "https://open.spotify.com/album/3oLWsGeuaNChQ5cNwbZNe1",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3oLWsGeuaNChQ5cNwbZNe1",
+      externalLink: "https://open.spotify.com/album/3oLWsGeuaNChQ5cNwbZNe1",
+    },
+  ],
 } as const satisfies Release

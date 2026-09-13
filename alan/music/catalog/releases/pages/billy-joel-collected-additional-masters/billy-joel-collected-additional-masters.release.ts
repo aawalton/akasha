@@ -12,6 +12,11 @@ export const billyJoelCollectedAdditionalMasters = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2011-11-08",
-  externalId: "7aibAYQuwa2cU2OEmidqbt",
-  externalLink: "https://open.spotify.com/album/7aibAYQuwa2cU2OEmidqbt",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7aibAYQuwa2cU2OEmidqbt",
+      externalLink: "https://open.spotify.com/album/7aibAYQuwa2cU2OEmidqbt",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const chaislynAlreadyHadIt = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-11",
-  externalId: "270DEDp8yhMJI4lI1heuQg",
-  externalLink: "https://open.spotify.com/album/270DEDp8yhMJI4lI1heuQg",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "270DEDp8yhMJI4lI1heuQg",
+      externalLink: "https://open.spotify.com/album/270DEDp8yhMJI4lI1heuQg",
+    },
+  ],
 } as const satisfies Release

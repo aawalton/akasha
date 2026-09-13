@@ -13,6 +13,11 @@ export const billieEilishHotlineEdit = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-05-09",
-  externalId: "5iq9BytomHl2yBtORjUlzP",
-  externalLink: "https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5iq9BytomHl2yBtORjUlzP",
+      externalLink: "https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP",
+    },
+  ],
 } as const satisfies Release

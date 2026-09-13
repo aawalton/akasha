@@ -12,7 +12,12 @@ export const byuVocalPointInEveryThought = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-09-27",
-  externalId: "0cDXZ2LY9NR2EHGDFwL4Ch",
-  externalLink: "https://open.spotify.com/album/0cDXZ2LY9NR2EHGDFwL4Ch",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0cDXZ2LY9NR2EHGDFwL4Ch",
+      externalLink: "https://open.spotify.com/album/0cDXZ2LY9NR2EHGDFwL4Ch",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const arianaGrandeDangerousWoman = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-05-20",
-  externalId: "5X7x18kW3mVIvnuNeedM6b",
-  externalLink: "https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5X7x18kW3mVIvnuNeedM6b",
+      externalLink: "https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const byuVocalPointHomewardBound = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2015-05-05",
-  externalId: "4tZd1Uvx2sHHSLmSxrfK0J",
-  externalLink: "https://open.spotify.com/album/4tZd1Uvx2sHHSLmSxrfK0J",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4tZd1Uvx2sHHSLmSxrfK0J",
+      externalLink: "https://open.spotify.com/album/4tZd1Uvx2sHHSLmSxrfK0J",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

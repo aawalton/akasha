@@ -12,7 +12,12 @@ export const arianaGrandeGoodAsHellFeatArianaGrandeRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-01-01",
-  externalId: "1k1HuvFs562Z3CCiSYhtc1",
-  externalLink: "https://open.spotify.com/album/1k1HuvFs562Z3CCiSYhtc1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1k1HuvFs562Z3CCiSYhtc1",
+      externalLink: "https://open.spotify.com/album/1k1HuvFs562Z3CCiSYhtc1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const arianaGrandeSantaCanTYouHearMeLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-12-14",
-  externalId: "4xKjjV0sVc9PiJ1sPU9RiN",
-  externalLink: "https://open.spotify.com/album/4xKjjV0sVc9PiJ1sPU9RiN",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4xKjjV0sVc9PiJ1sPU9RiN",
+      externalLink: "https://open.spotify.com/album/4xKjjV0sVc9PiJ1sPU9RiN",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const billieEilishBellyacheMarianHillRemix = {
   status: "completed",
   rank: "B",
   publishedAt: "2017-05-05",
-  externalId: "2I9wpUTuzMT8aS6iVpM2EQ",
-  externalLink: "https://open.spotify.com/album/2I9wpUTuzMT8aS6iVpM2EQ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2I9wpUTuzMT8aS6iVpM2EQ",
+      externalLink: "https://open.spotify.com/album/2I9wpUTuzMT8aS6iVpM2EQ",
+    },
+  ],
 } as const satisfies Release

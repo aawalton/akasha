@@ -12,7 +12,12 @@ export const arianaGrande7RingsRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-02-01",
-  externalId: "6FK2NjcZxGIGmFjKfOkrNi",
-  externalLink: "https://open.spotify.com/album/6FK2NjcZxGIGmFjKfOkrNi",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6FK2NjcZxGIGmFjKfOkrNi",
+      externalLink: "https://open.spotify.com/album/6FK2NjcZxGIGmFjKfOkrNi",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

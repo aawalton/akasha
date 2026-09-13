@@ -12,6 +12,11 @@ export const billyJoelMyLives = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2005-11-22",
-  externalId: "5nWLdbqnLvx8z8vpzWuwcg",
-  externalLink: "https://open.spotify.com/album/5nWLdbqnLvx8z8vpzWuwcg",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5nWLdbqnLvx8z8vpzWuwcg",
+      externalLink: "https://open.spotify.com/album/5nWLdbqnLvx8z8vpzWuwcg",
+    },
+  ],
 } as const satisfies Release

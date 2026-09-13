@@ -12,7 +12,12 @@ export const adeleColdShoulder = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-04-21",
-  externalId: "4JjVwFhBHZTMJTSAIACvn4",
-  externalLink: "https://open.spotify.com/album/4JjVwFhBHZTMJTSAIACvn4",
-  lastSyncedAt: "2026-02-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4JjVwFhBHZTMJTSAIACvn4",
+      externalLink: "https://open.spotify.com/album/4JjVwFhBHZTMJTSAIACvn4",
+      lastSyncedAt: "2026-02-09",
+    },
+  ],
 } as const satisfies Release

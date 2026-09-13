@@ -12,6 +12,11 @@ export const celticWoman2MiseEire = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-08",
-  externalId: "4r0kLR8NN0zU3pt5chgG94",
-  externalLink: "https://open.spotify.com/album/4r0kLR8NN0zU3pt5chgG94",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4r0kLR8NN0zU3pt5chgG94",
+      externalLink: "https://open.spotify.com/album/4r0kLR8NN0zU3pt5chgG94",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const adeleSendMyLoveToYourNewLover = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-05-16",
-  externalId: "7hplTHLU8PAVs1forXE2NU",
-  externalLink: "https://open.spotify.com/album/7hplTHLU8PAVs1forXE2NU",
-  lastSyncedAt: "2026-02-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7hplTHLU8PAVs1forXE2NU",
+      externalLink: "https://open.spotify.com/album/7hplTHLU8PAVs1forXE2NU",
+      lastSyncedAt: "2026-02-09",
+    },
+  ],
 } as const satisfies Release

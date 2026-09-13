@@ -12,7 +12,12 @@ export const alexWarrenChangeYourMind = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-07-14",
-  externalId: "2m0JQF1MKvULQtsUWxGjdM",
-  externalLink: "https://open.spotify.com/album/2m0JQF1MKvULQtsUWxGjdM",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2m0JQF1MKvULQtsUWxGjdM",
+      externalLink: "https://open.spotify.com/album/2m0JQF1MKvULQtsUWxGjdM",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

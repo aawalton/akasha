@@ -12,7 +12,12 @@ export const arianaGrandeEternalSunshineSlightlyDeluxe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-03-11",
-  externalId: "5Csjy4XeA7KnizkhIvI7y2",
-  externalLink: "https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5Csjy4XeA7KnizkhIvI7y2",
+      externalLink: "https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const auroraAPotionForLove = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-29",
-  externalId: "54RiYX8ONUdOOxerMzADqA",
-  externalLink: "https://open.spotify.com/album/54RiYX8ONUdOOxerMzADqA",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "54RiYX8ONUdOOxerMzADqA",
+      externalLink: "https://open.spotify.com/album/54RiYX8ONUdOOxerMzADqA",
+    },
+  ],
 } as const satisfies Release

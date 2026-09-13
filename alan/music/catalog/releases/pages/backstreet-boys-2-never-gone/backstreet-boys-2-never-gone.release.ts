@@ -12,6 +12,11 @@ export const backstreetBoys2NeverGone = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2005-06-14",
-  externalId: "1Wz9PANLXjaOskUv575hRV",
-  externalLink: "https://open.spotify.com/album/1Wz9PANLXjaOskUv575hRV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Wz9PANLXjaOskUv575hRV",
+      externalLink: "https://open.spotify.com/album/1Wz9PANLXjaOskUv575hRV",
+    },
+  ],
 } as const satisfies Release

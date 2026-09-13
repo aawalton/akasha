@@ -13,6 +13,11 @@ export const billieEilishNoTimeToDie = {
   status: "completed",
   rank: "B",
   publishedAt: "2020-02-13",
-  externalId: "5sXSHscDjBez8VF20cSyad",
-  externalLink: "https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5sXSHscDjBez8VF20cSyad",
+      externalLink: "https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad",
+    },
+  ],
 } as const satisfies Release

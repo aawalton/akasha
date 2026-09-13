@@ -13,6 +13,11 @@ export const billieEilishLovelyWithKhalid = {
   status: "completed",
   rank: "B",
   publishedAt: "2018-04-19",
-  externalId: "2sBB17RXTamvj7Ncps15AK",
-  externalLink: "https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2sBB17RXTamvj7Ncps15AK",
+      externalLink: "https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK",
+    },
+  ],
 } as const satisfies Release

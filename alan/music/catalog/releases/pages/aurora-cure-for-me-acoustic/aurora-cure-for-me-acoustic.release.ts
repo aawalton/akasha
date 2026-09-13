@@ -12,6 +12,11 @@ export const auroraCureForMeAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-08-06",
-  externalId: "4W1FK6QtI8cY7j9aghTmbw",
-  externalLink: "https://open.spotify.com/album/4W1FK6QtI8cY7j9aghTmbw",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4W1FK6QtI8cY7j9aghTmbw",
+      externalLink: "https://open.spotify.com/album/4W1FK6QtI8cY7j9aghTmbw",
+    },
+  ],
 } as const satisfies Release

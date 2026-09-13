@@ -12,7 +12,12 @@ export const byuVocalPointOComeOComeEmmanuelSingle = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2013-10-24",
-  externalId: "6zY7q7NVnMTLpxahgfdqAU",
-  externalLink: "https://open.spotify.com/album/6zY7q7NVnMTLpxahgfdqAU",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6zY7q7NVnMTLpxahgfdqAU",
+      externalLink: "https://open.spotify.com/album/6zY7q7NVnMTLpxahgfdqAU",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

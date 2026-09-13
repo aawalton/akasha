@@ -12,7 +12,12 @@ export const arianaGrandeBreakFree = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-07-02",
-  externalId: "4WFgnJrj9Kb67y4NcFBaHo",
-  externalLink: "https://open.spotify.com/album/4WFgnJrj9Kb67y4NcFBaHo",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4WFgnJrj9Kb67y4NcFBaHo",
+      externalLink: "https://open.spotify.com/album/4WFgnJrj9Kb67y4NcFBaHo",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

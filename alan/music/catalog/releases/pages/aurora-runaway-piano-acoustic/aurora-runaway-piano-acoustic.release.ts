@@ -12,6 +12,11 @@ export const auroraRunawayPianoAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-03-11",
-  externalId: "08NTVF7UdKI2aCxgaOTY84",
-  externalLink: "https://open.spotify.com/album/08NTVF7UdKI2aCxgaOTY84",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "08NTVF7UdKI2aCxgaOTY84",
+      externalLink: "https://open.spotify.com/album/08NTVF7UdKI2aCxgaOTY84",
+    },
+  ],
 } as const satisfies Release

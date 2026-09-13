@@ -12,6 +12,11 @@ export const backstreetBoys2LetItBeMeDenisFirstRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-10-18",
-  externalId: "5vzjxB19gAyUkjAK23FEIY",
-  externalLink: "https://open.spotify.com/album/5vzjxB19gAyUkjAK23FEIY",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5vzjxB19gAyUkjAK23FEIY",
+      externalLink: "https://open.spotify.com/album/5vzjxB19gAyUkjAK23FEIY",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const byuVocalPointMagicThroughTime = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-08-26",
-  externalId: "1ImscFPpSGBa7wJ863vB3t",
-  externalLink: "https://open.spotify.com/album/1ImscFPpSGBa7wJ863vB3t",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1ImscFPpSGBa7wJ863vB3t",
+      externalLink: "https://open.spotify.com/album/1ImscFPpSGBa7wJ863vB3t",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

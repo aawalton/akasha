@@ -12,6 +12,11 @@ export const billyJoelSheSGotAWayLoveSongs = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2013-01-18",
-  externalId: "32wLA4tXwUwvyqclgZRijb",
-  externalLink: "https://open.spotify.com/album/32wLA4tXwUwvyqclgZRijb",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "32wLA4tXwUwvyqclgZRijb",
+      externalLink: "https://open.spotify.com/album/32wLA4tXwUwvyqclgZRijb",
+    },
+  ],
 } as const satisfies Release

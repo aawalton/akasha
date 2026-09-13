@@ -13,6 +13,11 @@ export const billieEilishSixFeetUnder = {
   status: "completed",
   rank: "A",
   publishedAt: "2016-11-17",
-  externalId: "74TRp3O8BRdGxc0XO0UzoY",
-  externalLink: "https://open.spotify.com/album/74TRp3O8BRdGxc0XO0UzoY",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "74TRp3O8BRdGxc0XO0UzoY",
+      externalLink: "https://open.spotify.com/album/74TRp3O8BRdGxc0XO0UzoY",
+    },
+  ],
 } as const satisfies Release

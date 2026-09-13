@@ -12,6 +12,11 @@ export const celticWoman2TheBestOfChristmas = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-11-17",
-  externalId: "3XcfEon36vdUaMmHWdU6BS",
-  externalLink: "https://open.spotify.com/album/3XcfEon36vdUaMmHWdU6BS",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3XcfEon36vdUaMmHWdU6BS",
+      externalLink: "https://open.spotify.com/album/3XcfEon36vdUaMmHWdU6BS",
+    },
+  ],
 } as const satisfies Release

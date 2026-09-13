@@ -12,7 +12,12 @@ export const alexWarrenChasingShadowsMkjRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-03-24",
-  externalId: "581A12sUOEPtkOfw5eDjYy",
-  externalLink: "https://open.spotify.com/album/581A12sUOEPtkOfw5eDjYy",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "581A12sUOEPtkOfw5eDjYy",
+      externalLink: "https://open.spotify.com/album/581A12sUOEPtkOfw5eDjYy",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

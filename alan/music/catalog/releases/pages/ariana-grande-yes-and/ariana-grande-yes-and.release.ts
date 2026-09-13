@@ -12,7 +12,12 @@ export const arianaGrandeYesAnd = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-01-18",
-  externalId: "6mNdtZhr5zcz2SLzyPxweY",
-  externalLink: "https://open.spotify.com/album/6mNdtZhr5zcz2SLzyPxweY",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6mNdtZhr5zcz2SLzyPxweY",
+      externalLink: "https://open.spotify.com/album/6mNdtZhr5zcz2SLzyPxweY",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

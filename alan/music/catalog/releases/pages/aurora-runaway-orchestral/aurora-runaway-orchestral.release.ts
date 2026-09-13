@@ -12,6 +12,11 @@ export const auroraRunawayOrchestral = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-02-27",
-  externalId: "42kpZzNwOI177DpbDyTwP7",
-  externalLink: "https://open.spotify.com/album/42kpZzNwOI177DpbDyTwP7",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "42kpZzNwOI177DpbDyTwP7",
+      externalLink: "https://open.spotify.com/album/42kpZzNwOI177DpbDyTwP7",
+    },
+  ],
 } as const satisfies Release

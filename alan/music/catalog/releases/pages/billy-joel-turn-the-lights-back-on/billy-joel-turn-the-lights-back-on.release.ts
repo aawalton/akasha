@@ -12,6 +12,11 @@ export const billyJoelTurnTheLightsBackOn = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-02-01",
-  externalId: "4csPGLYTb7kt85U377UCuC",
-  externalLink: "https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4csPGLYTb7kt85U377UCuC",
+      externalLink: "https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC",
+    },
+  ],
 } as const satisfies Release

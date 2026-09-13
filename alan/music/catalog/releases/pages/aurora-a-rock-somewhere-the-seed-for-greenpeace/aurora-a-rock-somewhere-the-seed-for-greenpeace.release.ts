@@ -13,6 +13,11 @@ export const auroraARockSomewhereTheSeedForGreenpeace = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-06-25",
-  externalId: "39zbaKAaOA8vmePCGaIoYP",
-  externalLink: "https://open.spotify.com/album/39zbaKAaOA8vmePCGaIoYP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "39zbaKAaOA8vmePCGaIoYP",
+      externalLink: "https://open.spotify.com/album/39zbaKAaOA8vmePCGaIoYP",
+    },
+  ],
 } as const satisfies Release

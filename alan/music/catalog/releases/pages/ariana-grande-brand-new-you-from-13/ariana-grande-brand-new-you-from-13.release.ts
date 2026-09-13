@@ -12,7 +12,12 @@ export const arianaGrandeBrandNewYouFrom13 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-11-20",
-  externalId: "48uMMsVHGfKipIsOuYcvjs",
-  externalLink: "https://open.spotify.com/album/48uMMsVHGfKipIsOuYcvjs",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "48uMMsVHGfKipIsOuYcvjs",
+      externalLink: "https://open.spotify.com/album/48uMMsVHGfKipIsOuYcvjs",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

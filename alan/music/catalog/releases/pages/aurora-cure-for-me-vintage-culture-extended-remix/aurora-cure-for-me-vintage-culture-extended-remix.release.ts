@@ -12,6 +12,11 @@ export const auroraCureForMeVintageCultureExtendedRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-08-27",
-  externalId: "0UNtyZcwlmvT5191LsCOaX",
-  externalLink: "https://open.spotify.com/album/0UNtyZcwlmvT5191LsCOaX",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0UNtyZcwlmvT5191LsCOaX",
+      externalLink: "https://open.spotify.com/album/0UNtyZcwlmvT5191LsCOaX",
+    },
+  ],
 } as const satisfies Release

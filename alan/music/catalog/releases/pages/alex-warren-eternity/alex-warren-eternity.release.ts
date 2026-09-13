@@ -12,7 +12,12 @@ export const alexWarrenEternity = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-12-05",
-  externalId: "1arG3K4COe0kCEU9NqPF5S",
-  externalLink: "https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1arG3K4COe0kCEU9NqPF5S",
+      externalLink: "https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const celticWoman2HomecomingLiveFromIreland = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-01-19",
-  externalId: "6knvXgcRqvxV5M46T05Rjv",
-  externalLink: "https://open.spotify.com/album/6knvXgcRqvxV5M46T05Rjv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6knvXgcRqvxV5M46T05Rjv",
+      externalLink: "https://open.spotify.com/album/6knvXgcRqvxV5M46T05Rjv",
+    },
+  ],
 } as const satisfies Release

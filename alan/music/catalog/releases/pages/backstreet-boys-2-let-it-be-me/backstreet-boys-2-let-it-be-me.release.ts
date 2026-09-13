@@ -12,6 +12,11 @@ export const backstreetBoys2LetItBeMe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-09-06",
-  externalId: "6nPJEALAjWKOE1jWPws7jj",
-  externalLink: "https://open.spotify.com/album/6nPJEALAjWKOE1jWPws7jj",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6nPJEALAjWKOE1jWPws7jj",
+      externalLink: "https://open.spotify.com/album/6nPJEALAjWKOE1jWPws7jj",
+    },
+  ],
 } as const satisfies Release

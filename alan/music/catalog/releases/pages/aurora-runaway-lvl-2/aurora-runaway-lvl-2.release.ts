@@ -12,6 +12,11 @@ export const auroraRunawayLvl2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-05-07",
-  externalId: "4MQrJZY0R1IAO4YhH7CzRZ",
-  externalLink: "https://open.spotify.com/album/4MQrJZY0R1IAO4YhH7CzRZ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4MQrJZY0R1IAO4YhH7CzRZ",
+      externalLink: "https://open.spotify.com/album/4MQrJZY0R1IAO4YhH7CzRZ",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const billyJoelStormFront = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1989-10-17",
-  externalId: "1Vw2uoVkLAJFVViJ1QyK1D",
-  externalLink: "https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Vw2uoVkLAJFVViJ1QyK1D",
+      externalLink: "https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const billyJoelGreatestHitsVolumeIVolumeIi = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1985-06-29",
-  externalId: "7hSjhZyFoR5DHEL8wcWFD5",
-  externalLink: "https://open.spotify.com/album/7hSjhZyFoR5DHEL8wcWFD5",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7hSjhZyFoR5DHEL8wcWFD5",
+      externalLink: "https://open.spotify.com/album/7hSjhZyFoR5DHEL8wcWFD5",
+    },
+  ],
 } as const satisfies Release

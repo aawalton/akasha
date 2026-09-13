@@ -12,6 +12,11 @@ export const auroraQueendomHarpVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-06-01",
-  externalId: "1vmPWNli0hFNGxkIvfVkGw",
-  externalLink: "https://open.spotify.com/album/1vmPWNli0hFNGxkIvfVkGw",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1vmPWNli0hFNGxkIvfVkGw",
+      externalLink: "https://open.spotify.com/album/1vmPWNli0hFNGxkIvfVkGw",
+    },
+  ],
 } as const satisfies Release

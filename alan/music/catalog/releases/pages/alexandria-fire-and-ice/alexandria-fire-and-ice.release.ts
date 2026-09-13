@@ -13,7 +13,12 @@ export const alexandriaFireAndIce = {
   status: "completed",
   rank: "A",
   publishedAt: "2025-09-19",
-  externalId: "0KfAqTp8Fljtk4Hqi7NhuB",
-  externalLink: "https://open.spotify.com/album/0KfAqTp8Fljtk4Hqi7NhuB",
-  lastSyncedAt: "2025-10-18",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0KfAqTp8Fljtk4Hqi7NhuB",
+      externalLink: "https://open.spotify.com/album/0KfAqTp8Fljtk4Hqi7NhuB",
+      lastSyncedAt: "2025-10-18",
+    },
+  ],
 } as const satisfies Release

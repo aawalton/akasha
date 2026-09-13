@@ -12,7 +12,12 @@ export const byuVocalPointUltimateACappellaMashup25Hits25YearsSingle = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2016-04-07",
-  externalId: "60y9qUaNJLqpGx0qvoWEvp",
-  externalLink: "https://open.spotify.com/album/60y9qUaNJLqpGx0qvoWEvp",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "60y9qUaNJLqpGx0qvoWEvp",
+      externalLink: "https://open.spotify.com/album/60y9qUaNJLqpGx0qvoWEvp",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

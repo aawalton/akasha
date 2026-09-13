@@ -12,7 +12,12 @@ export const adele30 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-19",
-  externalId: "21jF5jlMtzo94wbxmJ18aa",
-  externalLink: "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa",
-  lastSyncedAt: "2026-02-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "21jF5jlMtzo94wbxmJ18aa",
+      externalLink: "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa",
+      lastSyncedAt: "2026-02-09",
+    },
+  ],
 } as const satisfies Release

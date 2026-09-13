@@ -12,6 +12,11 @@ export const chaislynDreamsIForgotAbout = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-17",
-  externalId: "1pOhhl3FhhhcmSdK2SZ3xD",
-  externalLink: "https://open.spotify.com/album/1pOhhl3FhhhcmSdK2SZ3xD",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1pOhhl3FhhhcmSdK2SZ3xD",
+      externalLink: "https://open.spotify.com/album/1pOhhl3FhhhcmSdK2SZ3xD",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const auroraSouthernStarFeatAurora = {
   status: "completed",
   rank: "C",
   publishedAt: "2025-10-23",
-  externalId: "09ffeND0KDUNaU5UvzHioj",
-  externalLink: "https://open.spotify.com/album/09ffeND0KDUNaU5UvzHioj",
-  lastSyncedAt: "2025-10-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "09ffeND0KDUNaU5UvzHioj",
+      externalLink: "https://open.spotify.com/album/09ffeND0KDUNaU5UvzHioj",
+      lastSyncedAt: "2025-10-30",
+    },
+  ],
 } as const satisfies Release

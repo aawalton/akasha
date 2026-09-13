@@ -12,6 +12,11 @@ export const auroraStorm = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-16",
-  externalId: "5jV393Pygg0HSUH3DRv8fL",
-  externalLink: "https://open.spotify.com/album/5jV393Pygg0HSUH3DRv8fL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5jV393Pygg0HSUH3DRv8fL",
+      externalLink: "https://open.spotify.com/album/5jV393Pygg0HSUH3DRv8fL",
+    },
+  ],
 } as const satisfies Release

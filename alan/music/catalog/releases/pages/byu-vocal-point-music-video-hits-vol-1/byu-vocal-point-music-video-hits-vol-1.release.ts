@@ -12,7 +12,12 @@ export const byuVocalPointMusicVideoHitsVol1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2016-09-09",
-  externalId: "75anvZmaBM1s11fJsJAocW",
-  externalLink: "https://open.spotify.com/album/75anvZmaBM1s11fJsJAocW",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "75anvZmaBM1s11fJsJAocW",
+      externalLink: "https://open.spotify.com/album/75anvZmaBM1s11fJsJAocW",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

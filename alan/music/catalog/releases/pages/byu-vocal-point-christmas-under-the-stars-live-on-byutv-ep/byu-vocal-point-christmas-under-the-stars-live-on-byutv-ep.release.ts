@@ -12,7 +12,12 @@ export const byuVocalPointChristmasUnderTheStarsLiveOnByutvEp = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2017-02-17",
-  externalId: "5eTmlnGdl96PwATNzrZfFW",
-  externalLink: "https://open.spotify.com/album/5eTmlnGdl96PwATNzrZfFW",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5eTmlnGdl96PwATNzrZfFW",
+      externalLink: "https://open.spotify.com/album/5eTmlnGdl96PwATNzrZfFW",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

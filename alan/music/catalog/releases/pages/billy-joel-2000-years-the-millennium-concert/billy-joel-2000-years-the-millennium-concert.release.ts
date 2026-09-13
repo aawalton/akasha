@@ -12,6 +12,11 @@ export const billyJoel2000YearsTheMillenniumConcert = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2000-05-02",
-  externalId: "1Cd4dgqPV6aG4cuYVpJR6L",
-  externalLink: "https://open.spotify.com/album/1Cd4dgqPV6aG4cuYVpJR6L",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Cd4dgqPV6aG4cuYVpJR6L",
+      externalLink: "https://open.spotify.com/album/1Cd4dgqPV6aG4cuYVpJR6L",
+    },
+  ],
 } as const satisfies Release

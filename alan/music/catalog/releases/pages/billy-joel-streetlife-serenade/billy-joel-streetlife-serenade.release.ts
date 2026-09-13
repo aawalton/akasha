@@ -12,6 +12,11 @@ export const billyJoelStreetlifeSerenade = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1974-10-11",
-  externalId: "57nvMIu4PQLLXRbmKESigL",
-  externalLink: "https://open.spotify.com/album/57nvMIu4PQLLXRbmKESigL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "57nvMIu4PQLLXRbmKESigL",
+      externalLink: "https://open.spotify.com/album/57nvMIu4PQLLXRbmKESigL",
+    },
+  ],
 } as const satisfies Release

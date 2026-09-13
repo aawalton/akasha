@@ -13,6 +13,11 @@ export const billieEilishIlomiloLiveFromTheFilmBillieEilishTheWorldSALittleBlurr
   status: "completed",
   rank: "B",
   publishedAt: "2021-02-22",
-  externalId: "2AyexmwyUy1nZfBadyewL7",
-  externalLink: "https://open.spotify.com/album/2AyexmwyUy1nZfBadyewL7",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2AyexmwyUy1nZfBadyewL7",
+      externalLink: "https://open.spotify.com/album/2AyexmwyUy1nZfBadyewL7",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const auroraForTheMetalPeople = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-03-04",
-  externalId: "3wBRFm2OnYmxcXGCWHDf1T",
-  externalLink: "https://open.spotify.com/album/3wBRFm2OnYmxcXGCWHDf1T",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3wBRFm2OnYmxcXGCWHDf1T",
+      externalLink: "https://open.spotify.com/album/3wBRFm2OnYmxcXGCWHDf1T",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const auroraCureForMeFeatSilvanaEstradaLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-21",
-  externalId: "4DDaWo4xz93U8e9BTTaLGI",
-  externalLink: "https://open.spotify.com/album/4DDaWo4xz93U8e9BTTaLGI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4DDaWo4xz93U8e9BTTaLGI",
+      externalLink: "https://open.spotify.com/album/4DDaWo4xz93U8e9BTTaLGI",
+    },
+  ],
 } as const satisfies Release

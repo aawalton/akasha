@@ -12,6 +12,11 @@ export const backstreetBoys2WhatHurtsTheMost = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-05-02",
-  externalId: "2DZobefozyw6OtL3NNYK4w",
-  externalLink: "https://open.spotify.com/album/2DZobefozyw6OtL3NNYK4w",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2DZobefozyw6OtL3NNYK4w",
+      externalLink: "https://open.spotify.com/album/2DZobefozyw6OtL3NNYK4w",
+    },
+  ],
 } as const satisfies Release

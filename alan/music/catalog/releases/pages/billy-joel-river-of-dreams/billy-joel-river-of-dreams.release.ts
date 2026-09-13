@@ -12,6 +12,11 @@ export const billyJoelRiverOfDreams = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1993-08-10",
-  externalId: "4HPnwQJAEvTY910q4RNeOu",
-  externalLink: "https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4HPnwQJAEvTY910q4RNeOu",
+      externalLink: "https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const auroraMurderSong54321 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-09-04",
-  externalId: "3FsT7nfwI7tSgW02lCVjIv",
-  externalLink: "https://open.spotify.com/album/3FsT7nfwI7tSgW02lCVjIv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3FsT7nfwI7tSgW02lCVjIv",
+      externalLink: "https://open.spotify.com/album/3FsT7nfwI7tSgW02lCVjIv",
+    },
+  ],
 } as const satisfies Release

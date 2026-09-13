@@ -12,7 +12,12 @@ export const arianaGrandeYesAndFelixJaehnRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-01-12",
-  externalId: "1K9Kpjfdj7Y3MHxuq3M6TK",
-  externalLink: "https://open.spotify.com/album/1K9Kpjfdj7Y3MHxuq3M6TK",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1K9Kpjfdj7Y3MHxuq3M6TK",
+      externalLink: "https://open.spotify.com/album/1K9Kpjfdj7Y3MHxuq3M6TK",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

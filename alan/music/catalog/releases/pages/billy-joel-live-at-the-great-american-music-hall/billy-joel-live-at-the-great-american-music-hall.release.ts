@@ -12,6 +12,11 @@ export const billyJoelLiveAtTheGreatAmericanMusicHall = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-04-21",
-  externalId: "0lmuUnlD8af6RkHAtJa5gP",
-  externalLink: "https://open.spotify.com/album/0lmuUnlD8af6RkHAtJa5gP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0lmuUnlD8af6RkHAtJa5gP",
+      externalLink: "https://open.spotify.com/album/0lmuUnlD8af6RkHAtJa5gP",
+    },
+  ],
 } as const satisfies Release

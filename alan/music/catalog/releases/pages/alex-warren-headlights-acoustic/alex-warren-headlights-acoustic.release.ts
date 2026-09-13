@@ -12,7 +12,12 @@ export const alexWarrenHeadlightsAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-28",
-  externalId: "6Cc4zdNF2cCHgy8i5ROF2P",
-  externalLink: "https://open.spotify.com/album/6Cc4zdNF2cCHgy8i5ROF2P",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Cc4zdNF2cCHgy8i5ROF2P",
+      externalLink: "https://open.spotify.com/album/6Cc4zdNF2cCHgy8i5ROF2P",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

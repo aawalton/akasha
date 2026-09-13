@@ -12,7 +12,12 @@ export const alexWarrenBeforeYouLeaveMe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-02-16",
-  externalId: "5RFlSbyzgtiMtN7IzqLOhz",
-  externalLink: "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5RFlSbyzgtiMtN7IzqLOhz",
+      externalLink: "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

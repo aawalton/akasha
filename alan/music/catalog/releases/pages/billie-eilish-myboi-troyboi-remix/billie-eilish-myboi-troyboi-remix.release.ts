@@ -13,6 +13,11 @@ export const billieEilishMyboiTroyboiRemix = {
   status: "completed",
   rank: "B",
   publishedAt: "2018-03-09",
-  externalId: "5m9lO9SriYMPpXTrVIU8P5",
-  externalLink: "https://open.spotify.com/album/5m9lO9SriYMPpXTrVIU8P5",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5m9lO9SriYMPpXTrVIU8P5",
+      externalLink: "https://open.spotify.com/album/5m9lO9SriYMPpXTrVIU8P5",
+    },
+  ],
 } as const satisfies Release

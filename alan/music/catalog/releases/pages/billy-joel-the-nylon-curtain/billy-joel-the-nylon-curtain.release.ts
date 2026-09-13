@@ -12,6 +12,11 @@ export const billyJoelTheNylonCurtain = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1982-06-23",
-  externalId: "50bajZpetfL5T0iRCOR74J",
-  externalLink: "https://open.spotify.com/album/50bajZpetfL5T0iRCOR74J",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "50bajZpetfL5T0iRCOR74J",
+      externalLink: "https://open.spotify.com/album/50bajZpetfL5T0iRCOR74J",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const backstreetBoys2ChancesMarkRalphRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-12-21",
-  externalId: "00NuPxl4GeqEZORoP6Im0U",
-  externalLink: "https://open.spotify.com/album/00NuPxl4GeqEZORoP6Im0U",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "00NuPxl4GeqEZORoP6Im0U",
+      externalLink: "https://open.spotify.com/album/00NuPxl4GeqEZORoP6Im0U",
+    },
+  ],
 } as const satisfies Release

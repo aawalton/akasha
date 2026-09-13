@@ -12,7 +12,12 @@ export const alexWarrenCarryYouHome = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-05-31",
-  externalId: "42eRSINaWEzBXj7aqTB2cu",
-  externalLink: "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "42eRSINaWEzBXj7aqTB2cu",
+      externalLink: "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

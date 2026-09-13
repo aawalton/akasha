@@ -12,7 +12,12 @@ export const arianaGrandeSaveYourTearsRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-23",
-  externalId: "2fyOpT5c9kxR8zbDh6UtXh",
-  externalLink: "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2fyOpT5c9kxR8zbDh6UtXh",
+      externalLink: "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

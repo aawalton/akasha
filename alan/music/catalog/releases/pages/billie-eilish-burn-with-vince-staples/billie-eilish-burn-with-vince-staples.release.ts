@@ -13,6 +13,11 @@ export const billieEilishBurnWithVinceStaples = {
   status: "completed",
   rank: "B",
   publishedAt: "2017-12-15",
-  externalId: "6eQpKhYCtvD0TwXQVHsgC2",
-  externalLink: "https://open.spotify.com/album/6eQpKhYCtvD0TwXQVHsgC2",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6eQpKhYCtvD0TwXQVHsgC2",
+      externalLink: "https://open.spotify.com/album/6eQpKhYCtvD0TwXQVHsgC2",
+    },
+  ],
 } as const satisfies Release

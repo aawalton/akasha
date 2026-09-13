@@ -12,7 +12,12 @@ export const arianaGrandeSideToSideRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-02-03",
-  externalId: "6I3a9Dp8ZrsVWhbQja7xBz",
-  externalLink: "https://open.spotify.com/album/6I3a9Dp8ZrsVWhbQja7xBz",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6I3a9Dp8ZrsVWhbQja7xBz",
+      externalLink: "https://open.spotify.com/album/6I3a9Dp8ZrsVWhbQja7xBz",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

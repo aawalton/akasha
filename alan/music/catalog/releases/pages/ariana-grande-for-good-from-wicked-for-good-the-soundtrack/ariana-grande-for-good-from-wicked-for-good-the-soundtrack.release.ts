@@ -12,7 +12,12 @@ export const arianaGrandeForGoodFromWickedForGoodTheSoundtrack = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-11-20",
-  externalId: "6h0nkpR0KgZbat8CbOEctb",
-  externalLink: "https://open.spotify.com/album/6h0nkpR0KgZbat8CbOEctb",
-  lastSyncedAt: "2026-01-18",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6h0nkpR0KgZbat8CbOEctb",
+      externalLink: "https://open.spotify.com/album/6h0nkpR0KgZbat8CbOEctb",
+      lastSyncedAt: "2026-01-18",
+    },
+  ],
 } as const satisfies Release

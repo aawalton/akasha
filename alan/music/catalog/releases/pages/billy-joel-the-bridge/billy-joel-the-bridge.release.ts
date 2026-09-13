@@ -12,6 +12,11 @@ export const billyJoelTheBridge = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1986-07-28",
-  externalId: "2fRxSC6FtiAkhEDVZr2seH",
-  externalLink: "https://open.spotify.com/album/2fRxSC6FtiAkhEDVZr2seH",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2fRxSC6FtiAkhEDVZr2seH",
+      externalLink: "https://open.spotify.com/album/2fRxSC6FtiAkhEDVZr2seH",
+    },
+  ],
 } as const satisfies Release

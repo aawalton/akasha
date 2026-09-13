@@ -12,7 +12,12 @@ export const alexWarrenChasingShadows = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-12-02",
-  externalId: "5laO2TJ5lwhscYwdFB0sIX",
-  externalLink: "https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5laO2TJ5lwhscYwdFB0sIX",
+      externalLink: "https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

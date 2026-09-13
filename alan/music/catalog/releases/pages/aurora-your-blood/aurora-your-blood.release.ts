@@ -12,6 +12,11 @@ export const auroraYourBlood = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-08",
-  externalId: "6Mrbtd9OIIh1XPiTMqHaHC",
-  externalLink: "https://open.spotify.com/album/6Mrbtd9OIIh1XPiTMqHaHC",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Mrbtd9OIIh1XPiTMqHaHC",
+      externalLink: "https://open.spotify.com/album/6Mrbtd9OIIh1XPiTMqHaHC",
+    },
+  ],
 } as const satisfies Release

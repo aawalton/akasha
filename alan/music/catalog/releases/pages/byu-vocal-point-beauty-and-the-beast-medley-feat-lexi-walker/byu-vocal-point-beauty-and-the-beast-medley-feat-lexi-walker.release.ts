@@ -12,7 +12,12 @@ export const byuVocalPointBeautyAndTheBeastMedleyFeatLexiWalker = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2017-03-24",
-  externalId: "3uevHbR1sYlWlQ9ODVkHpX",
-  externalLink: "https://open.spotify.com/album/3uevHbR1sYlWlQ9ODVkHpX",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3uevHbR1sYlWlQ9ODVkHpX",
+      externalLink: "https://open.spotify.com/album/3uevHbR1sYlWlQ9ODVkHpX",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

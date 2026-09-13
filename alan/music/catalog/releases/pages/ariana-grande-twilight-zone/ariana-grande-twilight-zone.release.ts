@@ -12,7 +12,12 @@ export const arianaGrandeTwilightZone = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-06-20",
-  externalId: "2OqSK4OKrorvnUzYunU2lX",
-  externalLink: "https://open.spotify.com/album/2OqSK4OKrorvnUzYunU2lX",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2OqSK4OKrorvnUzYunU2lX",
+      externalLink: "https://open.spotify.com/album/2OqSK4OKrorvnUzYunU2lX",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

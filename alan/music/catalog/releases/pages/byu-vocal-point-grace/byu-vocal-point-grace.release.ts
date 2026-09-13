@@ -12,7 +12,12 @@ export const byuVocalPointGrace = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-04-02",
-  externalId: "0TtdgTi8CpXJSzmPYvMaIy",
-  externalLink: "https://open.spotify.com/album/0TtdgTi8CpXJSzmPYvMaIy",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0TtdgTi8CpXJSzmPYvMaIy",
+      externalLink: "https://open.spotify.com/album/0TtdgTi8CpXJSzmPYvMaIy",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const billyJoelColdSpringHarbor = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1971-11-01",
-  externalId: "274rMlKrr22086ohmwAJZA",
-  externalLink: "https://open.spotify.com/album/274rMlKrr22086ohmwAJZA",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "274rMlKrr22086ohmwAJZA",
+      externalLink: "https://open.spotify.com/album/274rMlKrr22086ohmwAJZA",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const byuVocalPointEdmACappellaMashup = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2017-08-29",
-  externalId: "3LLdmDTuuUZoZMkpLBMlCn",
-  externalLink: "https://open.spotify.com/album/3LLdmDTuuUZoZMkpLBMlCn",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3LLdmDTuuUZoZMkpLBMlCn",
+      externalLink: "https://open.spotify.com/album/3LLdmDTuuUZoZMkpLBMlCn",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

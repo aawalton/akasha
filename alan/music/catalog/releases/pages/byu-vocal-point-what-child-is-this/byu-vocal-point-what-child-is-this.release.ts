@@ -12,7 +12,12 @@ export const byuVocalPointWhatChildIsThis = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-12-07",
-  externalId: "3aQZ10ux9DWCMkmW8Er0b9",
-  externalLink: "https://open.spotify.com/album/3aQZ10ux9DWCMkmW8Er0b9",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3aQZ10ux9DWCMkmW8Er0b9",
+      externalLink: "https://open.spotify.com/album/3aQZ10ux9DWCMkmW8Er0b9",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

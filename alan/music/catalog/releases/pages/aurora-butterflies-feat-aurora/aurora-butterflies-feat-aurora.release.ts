@@ -12,6 +12,11 @@ export const auroraButterfliesFeatAurora = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-01-27",
-  externalId: "3399XMtHgSm7F0DClLiSsU",
-  externalLink: "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3399XMtHgSm7F0DClLiSsU",
+      externalLink: "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU",
+    },
+  ],
 } as const satisfies Release

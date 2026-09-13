@@ -12,7 +12,12 @@ export const arianaGrandeRainOnMeRalphiRosarioRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-17",
-  externalId: "7vAZjssOcIuksA5DxN5sM1",
-  externalLink: "https://open.spotify.com/album/7vAZjssOcIuksA5DxN5sM1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7vAZjssOcIuksA5DxN5sM1",
+      externalLink: "https://open.spotify.com/album/7vAZjssOcIuksA5DxN5sM1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

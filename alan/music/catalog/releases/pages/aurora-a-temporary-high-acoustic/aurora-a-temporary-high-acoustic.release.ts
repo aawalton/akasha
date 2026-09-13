@@ -12,6 +12,11 @@ export const auroraATemporaryHighAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-03-25",
-  externalId: "4W00PrH1IwkkllR7LhyJcr",
-  externalLink: "https://open.spotify.com/album/4W00PrH1IwkkllR7LhyJcr",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4W00PrH1IwkkllR7LhyJcr",
+      externalLink: "https://open.spotify.com/album/4W00PrH1IwkkllR7LhyJcr",
+    },
+  ],
 } as const satisfies Release

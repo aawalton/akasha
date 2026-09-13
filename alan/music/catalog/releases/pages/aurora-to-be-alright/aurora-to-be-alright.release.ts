@@ -12,6 +12,11 @@ export const auroraToBeAlright = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-05-31",
-  externalId: "5Ss70sGKkEU6rHOYSRsO3A",
-  externalLink: "https://open.spotify.com/album/5Ss70sGKkEU6rHOYSRsO3A",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5Ss70sGKkEU6rHOYSRsO3A",
+      externalLink: "https://open.spotify.com/album/5Ss70sGKkEU6rHOYSRsO3A",
+    },
+  ],
 } as const satisfies Release

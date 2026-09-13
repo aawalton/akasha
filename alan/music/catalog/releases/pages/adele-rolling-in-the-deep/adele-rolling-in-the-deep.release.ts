@@ -12,7 +12,12 @@ export const adeleRollingInTheDeep = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2011-01-17",
-  externalId: "636ekSSKYrhxvQEHCY07jv",
-  externalLink: "https://open.spotify.com/album/636ekSSKYrhxvQEHCY07jv",
-  lastSyncedAt: "2026-02-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "636ekSSKYrhxvQEHCY07jv",
+      externalLink: "https://open.spotify.com/album/636ekSSKYrhxvQEHCY07jv",
+      lastSyncedAt: "2026-02-09",
+    },
+  ],
 } as const satisfies Release

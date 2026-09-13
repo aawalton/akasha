@@ -12,6 +12,11 @@ export const backstreetBoys2IWantItThatWayReimagined = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-05-17",
-  externalId: "74JILVZuxtZLFyRl9AY7TV",
-  externalLink: "https://open.spotify.com/album/74JILVZuxtZLFyRl9AY7TV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "74JILVZuxtZLFyRl9AY7TV",
+      externalLink: "https://open.spotify.com/album/74JILVZuxtZLFyRl9AY7TV",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const billieEilishThereforeIAm = {
   status: "completed",
   rank: "A",
   publishedAt: "2020-11-12",
-  externalId: "5G58VVE9ub1KE01Mvbd8XM",
-  externalLink: "https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5G58VVE9ub1KE01Mvbd8XM",
+      externalLink: "https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM",
+    },
+  ],
 } as const satisfies Release

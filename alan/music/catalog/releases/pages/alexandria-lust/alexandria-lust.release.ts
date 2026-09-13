@@ -13,7 +13,12 @@ export const alexandriaLust = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-10-14",
-  externalId: "5nQalzcY5OAeEjf2AfpOu0",
-  externalLink: "https://open.spotify.com/album/5nQalzcY5OAeEjf2AfpOu0",
-  lastSyncedAt: "2025-10-18",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5nQalzcY5OAeEjf2AfpOu0",
+      externalLink: "https://open.spotify.com/album/5nQalzcY5OAeEjf2AfpOu0",
+      lastSyncedAt: "2025-10-18",
+    },
+  ],
 } as const satisfies Release

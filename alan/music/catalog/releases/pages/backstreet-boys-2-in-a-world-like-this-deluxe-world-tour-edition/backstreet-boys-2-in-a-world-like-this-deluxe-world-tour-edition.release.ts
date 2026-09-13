@@ -12,6 +12,11 @@ export const backstreetBoys2InAWorldLikeThisDeluxeWorldTourEdition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-04-15",
-  externalId: "7GvnIbjZfr09O1aV5ihPHm",
-  externalLink: "https://open.spotify.com/album/7GvnIbjZfr09O1aV5ihPHm",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7GvnIbjZfr09O1aV5ihPHm",
+      externalLink: "https://open.spotify.com/album/7GvnIbjZfr09O1aV5ihPHm",
+    },
+  ],
 } as const satisfies Release

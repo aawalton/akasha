@@ -12,7 +12,12 @@ export const byuVocalPointNewbornKing = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-11-13",
-  externalId: "6OcaT1cLsbeKvYyMWVYv8B",
-  externalLink: "https://open.spotify.com/album/6OcaT1cLsbeKvYyMWVYv8B",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6OcaT1cLsbeKvYyMWVYv8B",
+      externalLink: "https://open.spotify.com/album/6OcaT1cLsbeKvYyMWVYv8B",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const billyJoelAnInnocentMan = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1983-08-08",
-  externalId: "3R3x4zIabsvpD3yxqLaUpc",
-  externalLink: "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3R3x4zIabsvpD3yxqLaUpc",
+      externalLink: "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc",
+    },
+  ],
 } as const satisfies Release

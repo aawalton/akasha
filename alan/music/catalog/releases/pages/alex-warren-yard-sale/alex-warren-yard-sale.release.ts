@@ -12,7 +12,12 @@ export const alexWarrenYardSale = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-10",
-  externalId: "6NrKSg2op9PLJI9BjpwPXe",
-  externalLink: "https://open.spotify.com/album/6NrKSg2op9PLJI9BjpwPXe",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6NrKSg2op9PLJI9BjpwPXe",
+      externalLink: "https://open.spotify.com/album/6NrKSg2op9PLJI9BjpwPXe",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const arianaGrandeBangBangRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-09-26",
-  externalId: "3ONhXhn7uDBCAW3Jy6lQFX",
-  externalLink: "https://open.spotify.com/album/3ONhXhn7uDBCAW3Jy6lQFX",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ONhXhn7uDBCAW3Jy6lQFX",
+      externalLink: "https://open.spotify.com/album/3ONhXhn7uDBCAW3Jy6lQFX",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

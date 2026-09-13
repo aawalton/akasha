@@ -12,6 +12,11 @@ export const backstreetBoys2TheHitsChapterOne = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2001-10-23",
-  externalId: "1NslKOZobWxINFaFkLol3r",
-  externalLink: "https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1NslKOZobWxINFaFkLol3r",
+      externalLink: "https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r",
+    },
+  ],
 } as const satisfies Release

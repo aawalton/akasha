@@ -13,6 +13,11 @@ export const billieEilishBitchesBrokenHearts = {
   status: "completed",
   rank: "B",
   publishedAt: "2018-03-30",
-  externalId: "1Z0XtKcevvITZ5ydimkYcx",
-  externalLink: "https://open.spotify.com/album/1Z0XtKcevvITZ5ydimkYcx",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Z0XtKcevvITZ5ydimkYcx",
+      externalLink: "https://open.spotify.com/album/1Z0XtKcevvITZ5ydimkYcx",
+    },
+  ],
 } as const satisfies Release

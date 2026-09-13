@@ -12,7 +12,12 @@ export const arianaGrandePutYourHeartsUp = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2011-01-01",
-  externalId: "4tR7U06JWAgDcA1qfxtrD2",
-  externalLink: "https://open.spotify.com/album/4tR7U06JWAgDcA1qfxtrD2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4tR7U06JWAgDcA1qfxtrD2",
+      externalLink: "https://open.spotify.com/album/4tR7U06JWAgDcA1qfxtrD2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

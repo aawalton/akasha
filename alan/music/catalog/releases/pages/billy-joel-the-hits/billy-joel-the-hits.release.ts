@@ -12,6 +12,11 @@ export const billyJoelTheHits = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2010-01-01",
-  externalId: "2aeSW38RwAo9rVhAWwZBKP",
-  externalLink: "https://open.spotify.com/album/2aeSW38RwAo9rVhAWwZBKP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2aeSW38RwAo9rVhAWwZBKP",
+      externalLink: "https://open.spotify.com/album/2aeSW38RwAo9rVhAWwZBKP",
+    },
+  ],
 } as const satisfies Release

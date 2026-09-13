@@ -12,7 +12,12 @@ export const alexWarrenBurningDownAlexSVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-26",
-  externalId: "44SlAPqGthCRERcF5874so",
-  externalLink: "https://open.spotify.com/album/44SlAPqGthCRERcF5874so",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "44SlAPqGthCRERcF5874so",
+      externalLink: "https://open.spotify.com/album/44SlAPqGthCRERcF5874so",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

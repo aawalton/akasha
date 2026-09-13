@@ -13,6 +13,11 @@ export const billieEilishComeOutAndPlay = {
   status: "completed",
   rank: "B",
   publishedAt: "2018-11-20",
-  externalId: "0ifM8RTX9HjtCJtY9452bW",
-  externalLink: "https://open.spotify.com/album/0ifM8RTX9HjtCJtY9452bW",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0ifM8RTX9HjtCJtY9452bW",
+      externalLink: "https://open.spotify.com/album/0ifM8RTX9HjtCJtY9452bW",
+    },
+  ],
 } as const satisfies Release

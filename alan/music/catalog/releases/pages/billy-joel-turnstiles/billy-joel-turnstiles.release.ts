@@ -12,6 +12,11 @@ export const billyJoelTurnstiles = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1976-05-19",
-  externalId: "7GiLfxL1su3MSqz7pmKMZi",
-  externalLink: "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7GiLfxL1su3MSqz7pmKMZi",
+      externalLink: "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi",
+    },
+  ],
 } as const satisfies Release

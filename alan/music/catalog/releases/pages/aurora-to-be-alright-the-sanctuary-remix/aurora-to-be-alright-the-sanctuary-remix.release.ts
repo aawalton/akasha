@@ -12,6 +12,11 @@ export const auroraToBeAlrightTheSanctuaryRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-07-12",
-  externalId: "15gg0PgEyWNffQPkTvVySx",
-  externalLink: "https://open.spotify.com/album/15gg0PgEyWNffQPkTvVySx",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "15gg0PgEyWNffQPkTvVySx",
+      externalLink: "https://open.spotify.com/album/15gg0PgEyWNffQPkTvVySx",
+    },
+  ],
 } as const satisfies Release

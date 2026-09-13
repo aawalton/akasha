@@ -12,6 +12,11 @@ export const auroraMidasTouch = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-24",
-  externalId: "6WYWxbDRmg5FYVsNp0jhV7",
-  externalLink: "https://open.spotify.com/album/6WYWxbDRmg5FYVsNp0jhV7",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6WYWxbDRmg5FYVsNp0jhV7",
+      externalLink: "https://open.spotify.com/album/6WYWxbDRmg5FYVsNp0jhV7",
+    },
+  ],
 } as const satisfies Release

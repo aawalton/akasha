@@ -13,6 +13,11 @@ export const billieEilishOceanEyesTheRemixes = {
   status: "completed",
   rank: "B",
   publishedAt: "2017-01-13",
-  externalId: "44OSkEmvHwdTFhPBCewIks",
-  externalLink: "https://open.spotify.com/album/44OSkEmvHwdTFhPBCewIks",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "44OSkEmvHwdTFhPBCewIks",
+      externalLink: "https://open.spotify.com/album/44OSkEmvHwdTFhPBCewIks",
+    },
+  ],
 } as const satisfies Release

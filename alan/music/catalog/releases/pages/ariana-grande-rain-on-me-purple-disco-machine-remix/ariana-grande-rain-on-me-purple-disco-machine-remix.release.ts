@@ -12,7 +12,12 @@ export const arianaGrandeRainOnMePurpleDiscoMachineRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-17",
-  externalId: "42hbqXgvZ1dI3gQ1ZDnHA5",
-  externalLink: "https://open.spotify.com/album/42hbqXgvZ1dI3gQ1ZDnHA5",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "42hbqXgvZ1dI3gQ1ZDnHA5",
+      externalLink: "https://open.spotify.com/album/42hbqXgvZ1dI3gQ1ZDnHA5",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

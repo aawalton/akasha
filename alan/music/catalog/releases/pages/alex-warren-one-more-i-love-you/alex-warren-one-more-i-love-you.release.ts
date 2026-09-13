@@ -12,7 +12,12 @@ export const alexWarrenOneMoreILoveYou = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-06-11",
-  externalId: "0xhH21t4xL0EAQCOOsq5aG",
-  externalLink: "https://open.spotify.com/album/0xhH21t4xL0EAQCOOsq5aG",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0xhH21t4xL0EAQCOOsq5aG",
+      externalLink: "https://open.spotify.com/album/0xhH21t4xL0EAQCOOsq5aG",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

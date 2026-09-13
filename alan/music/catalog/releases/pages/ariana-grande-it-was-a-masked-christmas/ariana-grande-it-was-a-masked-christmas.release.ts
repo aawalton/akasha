@@ -12,7 +12,12 @@ export const arianaGrandeItWasAMaskedChristmas = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-12-07",
-  externalId: "7LsTjhsTKJA0Rfwwx1ppXs",
-  externalLink: "https://open.spotify.com/album/7LsTjhsTKJA0Rfwwx1ppXs",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7LsTjhsTKJA0Rfwwx1ppXs",
+      externalLink: "https://open.spotify.com/album/7LsTjhsTKJA0Rfwwx1ppXs",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

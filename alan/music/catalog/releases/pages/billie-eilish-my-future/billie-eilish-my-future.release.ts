@@ -13,6 +13,11 @@ export const billieEilishMyFuture = {
   status: "completed",
   rank: "B",
   publishedAt: "2020-07-30",
-  externalId: "3oxhQpF3Twbkl18oQYfnh5",
-  externalLink: "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3oxhQpF3Twbkl18oQYfnh5",
+      externalLink: "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5",
+    },
+  ],
 } as const satisfies Release

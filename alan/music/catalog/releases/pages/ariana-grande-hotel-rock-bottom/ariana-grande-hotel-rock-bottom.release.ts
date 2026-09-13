@@ -12,7 +12,12 @@ export const arianaGrandeHotelRockBottom = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-07-10",
-  externalId: "7CL6fVngqU6X5VYXHQtBis",
-  externalLink: "https://open.spotify.com/album/7CL6fVngqU6X5VYXHQtBis",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7CL6fVngqU6X5VYXHQtBis",
+      externalLink: "https://open.spotify.com/album/7CL6fVngqU6X5VYXHQtBis",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

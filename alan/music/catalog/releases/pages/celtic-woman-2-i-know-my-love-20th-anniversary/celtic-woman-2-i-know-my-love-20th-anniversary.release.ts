@@ -12,6 +12,11 @@ export const celticWoman2IKnowMyLove20thAnniversary = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-24",
-  externalId: "2Jj1H7oeZ1id0m9kOO1qVU",
-  externalLink: "https://open.spotify.com/album/2Jj1H7oeZ1id0m9kOO1qVU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Jj1H7oeZ1id0m9kOO1qVU",
+      externalLink: "https://open.spotify.com/album/2Jj1H7oeZ1id0m9kOO1qVU",
+    },
+  ],
 } as const satisfies Release

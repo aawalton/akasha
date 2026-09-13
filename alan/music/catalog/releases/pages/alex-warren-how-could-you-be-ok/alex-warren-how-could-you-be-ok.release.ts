@@ -12,7 +12,12 @@ export const alexWarrenHowCouldYouBeOk = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-09-08",
-  externalId: "4yW78CyYC4GNX5Wued5E3W",
-  externalLink: "https://open.spotify.com/album/4yW78CyYC4GNX5Wued5E3W",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4yW78CyYC4GNX5Wued5E3W",
+      externalLink: "https://open.spotify.com/album/4yW78CyYC4GNX5Wued5E3W",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

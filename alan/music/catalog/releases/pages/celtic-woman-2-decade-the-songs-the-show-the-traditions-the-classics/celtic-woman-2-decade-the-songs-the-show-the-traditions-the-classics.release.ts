@@ -12,6 +12,11 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassics = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-01-29",
-  externalId: "2SsSLomiMLQDeVfSTXGUi9",
-  externalLink: "https://open.spotify.com/album/2SsSLomiMLQDeVfSTXGUi9",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2SsSLomiMLQDeVfSTXGUi9",
+      externalLink: "https://open.spotify.com/album/2SsSLomiMLQDeVfSTXGUi9",
+    },
+  ],
 } as const satisfies Release

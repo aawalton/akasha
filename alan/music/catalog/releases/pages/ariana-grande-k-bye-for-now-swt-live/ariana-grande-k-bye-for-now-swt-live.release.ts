@@ -12,7 +12,12 @@ export const arianaGrandeKByeForNowSwtLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-12-23",
-  externalId: "5UACk85y1hNRSUtY0ss8pb",
-  externalLink: "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5UACk85y1hNRSUtY0ss8pb",
+      externalLink: "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

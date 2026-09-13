@@ -12,6 +12,11 @@ export const auroraMusicForTheFellowWitchesOutThere = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-02-11",
-  externalId: "31R3o5kDvOHm2QI7hXwIPv",
-  externalLink: "https://open.spotify.com/album/31R3o5kDvOHm2QI7hXwIPv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "31R3o5kDvOHm2QI7hXwIPv",
+      externalLink: "https://open.spotify.com/album/31R3o5kDvOHm2QI7hXwIPv",
+    },
+  ],
 } as const satisfies Release

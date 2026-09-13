@@ -12,6 +12,11 @@ export const celticWoman2ANewJourney = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2007-01-01",
-  externalId: "1og5dt9eliYqKQG8eBH9jf",
-  externalLink: "https://open.spotify.com/album/1og5dt9eliYqKQG8eBH9jf",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1og5dt9eliYqKQG8eBH9jf",
+      externalLink: "https://open.spotify.com/album/1og5dt9eliYqKQG8eBH9jf",
+    },
+  ],
 } as const satisfies Release

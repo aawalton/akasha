@@ -12,7 +12,12 @@ export const arianaGrandeIDonTKnowWhyIJustDo = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-26",
-  externalId: "4cCVfhdZyqipuaZ89KmMvi",
-  externalLink: "https://open.spotify.com/album/4cCVfhdZyqipuaZ89KmMvi",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4cCVfhdZyqipuaZ89KmMvi",
+      externalLink: "https://open.spotify.com/album/4cCVfhdZyqipuaZ89KmMvi",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

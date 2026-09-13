@@ -12,7 +12,12 @@ export const byuVocalPointHeIsBorn = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2015-10-09",
-  externalId: "63PQsDVKDO5F0db907qQKq",
-  externalLink: "https://open.spotify.com/album/63PQsDVKDO5F0db907qQKq",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "63PQsDVKDO5F0db907qQKq",
+      externalLink: "https://open.spotify.com/album/63PQsDVKDO5F0db907qQKq",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

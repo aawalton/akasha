@@ -12,7 +12,12 @@ export const arianaGrandeSympathyIsAKnifeFeaturingArianaGrande = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-10-10",
-  externalId: "0BL4n7JwPd0Ml4nhpjRCFv",
-  externalLink: "https://open.spotify.com/album/0BL4n7JwPd0Ml4nhpjRCFv",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0BL4n7JwPd0Ml4nhpjRCFv",
+      externalLink: "https://open.spotify.com/album/0BL4n7JwPd0Ml4nhpjRCFv",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

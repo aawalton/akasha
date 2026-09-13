@@ -12,6 +12,11 @@ export const auroraIntoTheUnknown = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-03-04",
-  externalId: "4iSXUMDfkZMFLIEnkAWWDL",
-  externalLink: "https://open.spotify.com/album/4iSXUMDfkZMFLIEnkAWWDL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4iSXUMDfkZMFLIEnkAWWDL",
+      externalLink: "https://open.spotify.com/album/4iSXUMDfkZMFLIEnkAWWDL",
+    },
+  ],
 } as const satisfies Release

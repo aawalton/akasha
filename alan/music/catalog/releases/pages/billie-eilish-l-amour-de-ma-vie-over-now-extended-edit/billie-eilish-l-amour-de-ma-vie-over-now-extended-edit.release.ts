@@ -13,6 +13,11 @@ export const billieEilishLAmourDeMaVieOverNowExtendedEdit = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-05-21",
-  externalId: "4YCeHlXgJTKlzuwHmvZZo8",
-  externalLink: "https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4YCeHlXgJTKlzuwHmvZZo8",
+      externalLink: "https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8",
+    },
+  ],
 } as const satisfies Release

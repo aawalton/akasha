@@ -13,6 +13,11 @@ export const auroraYouCanTRunFromYourselfFromKaijuNo8 = {
   status: "completed",
   rank: "C",
   publishedAt: "2025-07-18",
-  externalId: "4aF5iAJE2ssbjQ2rPrwscv",
-  externalLink: "https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4aF5iAJE2ssbjQ2rPrwscv",
+      externalLink: "https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv",
+    },
+  ],
 } as const satisfies Release

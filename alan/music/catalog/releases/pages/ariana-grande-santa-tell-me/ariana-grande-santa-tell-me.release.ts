@@ -12,7 +12,12 @@ export const arianaGrandeSantaTellMe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-11-24",
-  externalId: "27MNgBEnLCKoafz1g2Zu97",
-  externalLink: "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "27MNgBEnLCKoafz1g2Zu97",
+      externalLink: "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

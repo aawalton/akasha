@@ -12,6 +12,11 @@ export const billyJoelTheEssentialBillyJoel = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2001-10-02",
-  externalId: "7r36rel1M4gyBavfcJP6Yz",
-  externalLink: "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7r36rel1M4gyBavfcJP6Yz",
+      externalLink: "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const arianaGrandeChristmasKisses = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-01-01",
-  externalId: "5MfeQZrrNfMqcaq03U9qOr",
-  externalLink: "https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5MfeQZrrNfMqcaq03U9qOr",
+      externalLink: "https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

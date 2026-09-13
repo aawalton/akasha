@@ -12,6 +12,11 @@ export const auroraTheDevilIsHuman = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-08",
-  externalId: "39UyPPm0nKdFi4Vd9Hljzu",
-  externalLink: "https://open.spotify.com/album/39UyPPm0nKdFi4Vd9Hljzu",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "39UyPPm0nKdFi4Vd9Hljzu",
+      externalLink: "https://open.spotify.com/album/39UyPPm0nKdFi4Vd9Hljzu",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const auroraThroughTheEyesOfAChildFromAdolescence = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-01-01",
-  externalId: "4C3VG2uZOyX31YhVZWYzg9",
-  externalLink: "https://open.spotify.com/album/4C3VG2uZOyX31YhVZWYzg9",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4C3VG2uZOyX31YhVZWYzg9",
+      externalLink: "https://open.spotify.com/album/4C3VG2uZOyX31YhVZWYzg9",
+    },
+  ],
 } as const satisfies Release

@@ -11,7 +11,12 @@ export const aChristmasCarolOriginalSoundtrackFromTheHallmarkTvProduction = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2004-01-01",
-  externalId: "0MEzRJnEnebjH3wAnZeuwf",
-  externalLink: "https://open.spotify.com/album/0MEzRJnEnebjH3wAnZeuwf",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0MEzRJnEnebjH3wAnZeuwf",
+      externalLink: "https://open.spotify.com/album/0MEzRJnEnebjH3wAnZeuwf",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

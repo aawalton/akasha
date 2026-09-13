@@ -12,6 +12,11 @@ export const backstreetBoys2BlackBlue = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2000-11-21",
-  externalId: "41zXjyVr6dzmchWf8tv3UO",
-  externalLink: "https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "41zXjyVr6dzmchWf8tv3UO",
+      externalLink: "https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO",
+    },
+  ],
 } as const satisfies Release

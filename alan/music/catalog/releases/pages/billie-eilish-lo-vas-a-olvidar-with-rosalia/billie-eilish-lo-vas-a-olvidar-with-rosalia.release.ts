@@ -13,6 +13,11 @@ export const billieEilishLoVasAOlvidarWithRosalia = {
   status: "completed",
   rank: "B",
   publishedAt: "2021-01-21",
-  externalId: "4E8puNI8tw7cXz6YJkwMew",
-  externalLink: "https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4E8puNI8tw7cXz6YJkwMew",
+      externalLink: "https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew",
+    },
+  ],
 } as const satisfies Release

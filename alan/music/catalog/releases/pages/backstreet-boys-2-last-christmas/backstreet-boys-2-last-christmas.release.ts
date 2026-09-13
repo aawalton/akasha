@@ -12,6 +12,11 @@ export const backstreetBoys2LastChristmas = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-09-06",
-  externalId: "57qobMN07vG3C7XuvzZTsU",
-  externalLink: "https://open.spotify.com/album/57qobMN07vG3C7XuvzZTsU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "57qobMN07vG3C7XuvzZTsU",
+      externalLink: "https://open.spotify.com/album/57qobMN07vG3C7XuvzZTsU",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const arianaGrandeWeCanTBeFriendsWaitForYourLoveAcousticLiveFromJungleCit
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-08",
-  externalId: "65X8oNWJyq6abR094X1hlD",
-  externalLink: "https://open.spotify.com/album/65X8oNWJyq6abR094X1hlD",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "65X8oNWJyq6abR094X1hlD",
+      externalLink: "https://open.spotify.com/album/65X8oNWJyq6abR094X1hlD",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

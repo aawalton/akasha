@@ -12,6 +12,11 @@ export const billyJoelLiveThroughTheYears = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-05-03",
-  externalId: "17p560iAs05C7Nlvgd2jHq",
-  externalLink: "https://open.spotify.com/album/17p560iAs05C7Nlvgd2jHq",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "17p560iAs05C7Nlvgd2jHq",
+      externalLink: "https://open.spotify.com/album/17p560iAs05C7Nlvgd2jHq",
+    },
+  ],
 } as const satisfies Release

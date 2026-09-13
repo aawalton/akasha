@@ -12,7 +12,12 @@ export const byuVocalPointCircleOfLife = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-07-12",
-  externalId: "1Sklt4eUxYWpl6ZEE3kicq",
-  externalLink: "https://open.spotify.com/album/1Sklt4eUxYWpl6ZEE3kicq",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Sklt4eUxYWpl6ZEE3kicq",
+      externalLink: "https://open.spotify.com/album/1Sklt4eUxYWpl6ZEE3kicq",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

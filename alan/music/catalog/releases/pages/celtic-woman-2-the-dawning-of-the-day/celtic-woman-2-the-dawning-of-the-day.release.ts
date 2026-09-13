@@ -12,6 +12,11 @@ export const celticWoman2TheDawningOfTheDay = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-09-10",
-  externalId: "7hGwDgIOXOeyxX2116qiEM",
-  externalLink: "https://open.spotify.com/album/7hGwDgIOXOeyxX2116qiEM",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7hGwDgIOXOeyxX2116qiEM",
+      externalLink: "https://open.spotify.com/album/7hGwDgIOXOeyxX2116qiEM",
+    },
+  ],
 } as const satisfies Release

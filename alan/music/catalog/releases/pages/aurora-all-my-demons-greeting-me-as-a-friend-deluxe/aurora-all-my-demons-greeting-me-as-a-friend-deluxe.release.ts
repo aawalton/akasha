@@ -12,6 +12,11 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-03-11",
-  externalId: "24CyXZHXgFPncdizaeTnSq",
-  externalLink: "https://open.spotify.com/album/24CyXZHXgFPncdizaeTnSq",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "24CyXZHXgFPncdizaeTnSq",
+      externalLink: "https://open.spotify.com/album/24CyXZHXgFPncdizaeTnSq",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const byuVocalPointWickedMedley = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-11-22",
-  externalId: "0J8zQoSA3luDVK0d3paqNC",
-  externalLink: "https://open.spotify.com/album/0J8zQoSA3luDVK0d3paqNC",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0J8zQoSA3luDVK0d3paqNC",
+      externalLink: "https://open.spotify.com/album/0J8zQoSA3luDVK0d3paqNC",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

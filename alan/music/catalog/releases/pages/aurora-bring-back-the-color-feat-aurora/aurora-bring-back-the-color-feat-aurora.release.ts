@@ -12,6 +12,11 @@ export const auroraBringBackTheColorFeatAurora = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-02",
-  externalId: "5F3hrGQ5xXSg7ZxNvvDUxo",
-  externalLink: "https://open.spotify.com/album/5F3hrGQ5xXSg7ZxNvvDUxo",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5F3hrGQ5xXSg7ZxNvvDUxo",
+      externalLink: "https://open.spotify.com/album/5F3hrGQ5xXSg7ZxNvvDUxo",
+    },
+  ],
 } as const satisfies Release

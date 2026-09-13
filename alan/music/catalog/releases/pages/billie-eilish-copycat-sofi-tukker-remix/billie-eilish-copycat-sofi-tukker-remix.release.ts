@@ -13,6 +13,11 @@ export const billieEilishCopycatSofiTukkerRemix = {
   status: "completed",
   rank: "B",
   publishedAt: "2018-01-12",
-  externalId: "5XRJoC2QtsNbAubsCrBBbG",
-  externalLink: "https://open.spotify.com/album/5XRJoC2QtsNbAubsCrBBbG",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5XRJoC2QtsNbAubsCrBBbG",
+      externalLink: "https://open.spotify.com/album/5XRJoC2QtsNbAubsCrBBbG",
+    },
+  ],
 } as const satisfies Release

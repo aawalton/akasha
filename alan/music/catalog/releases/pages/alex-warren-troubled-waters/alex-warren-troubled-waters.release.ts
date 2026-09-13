@@ -12,7 +12,12 @@ export const alexWarrenTroubledWaters = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-06",
-  externalId: "54V4i5OLHNmaiXIgK7urCp",
-  externalLink: "https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "54V4i5OLHNmaiXIgK7urCp",
+      externalLink: "https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

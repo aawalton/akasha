@@ -13,6 +13,11 @@ export const billieEilishBadGuyWithJustinBieber = {
   status: "completed",
   rank: "B",
   publishedAt: "2019-07-11",
-  externalId: "6lMlX68jJrx67hiCqdiDvW",
-  externalLink: "https://open.spotify.com/album/6lMlX68jJrx67hiCqdiDvW",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6lMlX68jJrx67hiCqdiDvW",
+      externalLink: "https://open.spotify.com/album/6lMlX68jJrx67hiCqdiDvW",
+    },
+  ],
 } as const satisfies Release

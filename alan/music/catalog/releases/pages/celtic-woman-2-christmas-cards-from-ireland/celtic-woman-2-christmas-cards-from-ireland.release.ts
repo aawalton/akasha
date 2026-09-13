@@ -12,6 +12,11 @@ export const celticWoman2ChristmasCardsFromIreland = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-04",
-  externalId: "5GDc58Wzs5hS4N2OXAggzR",
-  externalLink: "https://open.spotify.com/album/5GDc58Wzs5hS4N2OXAggzR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5GDc58Wzs5hS4N2OXAggzR",
+      externalLink: "https://open.spotify.com/album/5GDc58Wzs5hS4N2OXAggzR",
+    },
+  ],
 } as const satisfies Release

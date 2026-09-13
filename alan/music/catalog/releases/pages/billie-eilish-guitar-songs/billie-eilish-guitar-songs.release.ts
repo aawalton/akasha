@@ -13,6 +13,11 @@ export const billieEilishGuitarSongs = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-07-21",
-  externalId: "1YPWxMpQEC8kcOuefgXbhj",
-  externalLink: "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1YPWxMpQEC8kcOuefgXbhj",
+      externalLink: "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj",
+    },
+  ],
 } as const satisfies Release

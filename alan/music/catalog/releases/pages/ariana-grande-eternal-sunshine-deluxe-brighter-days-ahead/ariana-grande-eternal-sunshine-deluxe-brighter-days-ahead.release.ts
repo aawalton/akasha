@@ -12,7 +12,12 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAhead = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-28",
-  externalId: "6cbwstHlsAIIWurIIXXBPd",
-  externalLink: "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6cbwstHlsAIIWurIIXXBPd",
+      externalLink: "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

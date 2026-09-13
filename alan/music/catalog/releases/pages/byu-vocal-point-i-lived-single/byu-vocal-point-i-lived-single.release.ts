@@ -12,7 +12,12 @@ export const byuVocalPointILivedSingle = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2015-03-03",
-  externalId: "5iVVpw1zS4Kcfky1X25GpG",
-  externalLink: "https://open.spotify.com/album/5iVVpw1zS4Kcfky1X25GpG",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5iVVpw1zS4Kcfky1X25GpG",
+      externalLink: "https://open.spotify.com/album/5iVVpw1zS4Kcfky1X25GpG",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

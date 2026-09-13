@@ -12,6 +12,11 @@ export const celticWoman2Solo = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-05-29",
-  externalId: "5sawspceoFQ3Hp596Mo9ub",
-  externalLink: "https://open.spotify.com/album/5sawspceoFQ3Hp596Mo9ub",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5sawspceoFQ3Hp596Mo9ub",
+      externalLink: "https://open.spotify.com/album/5sawspceoFQ3Hp596Mo9ub",
+    },
+  ],
 } as const satisfies Release

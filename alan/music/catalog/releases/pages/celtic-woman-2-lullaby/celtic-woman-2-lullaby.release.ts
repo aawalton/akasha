@@ -12,6 +12,11 @@ export const celticWoman2Lullaby = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2011-01-01",
-  externalId: "7pljjUZMChTDluIQVbdIXL",
-  externalLink: "https://open.spotify.com/album/7pljjUZMChTDluIQVbdIXL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7pljjUZMChTDluIQVbdIXL",
+      externalLink: "https://open.spotify.com/album/7pljjUZMChTDluIQVbdIXL",
+    },
+  ],
 } as const satisfies Release

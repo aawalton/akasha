@@ -12,6 +12,11 @@ export const auroraTheConflictOfTheMind = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-01-18",
-  externalId: "7bGzvyccrDzn32gieBu3tE",
-  externalLink: "https://open.spotify.com/album/7bGzvyccrDzn32gieBu3tE",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7bGzvyccrDzn32gieBu3tE",
+      externalLink: "https://open.spotify.com/album/7bGzvyccrDzn32gieBu3tE",
+    },
+  ],
 } as const satisfies Release

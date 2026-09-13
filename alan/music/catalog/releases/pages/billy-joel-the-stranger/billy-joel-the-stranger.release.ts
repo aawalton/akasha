@@ -12,6 +12,11 @@ export const billyJoelTheStranger = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1977-09-29",
-  externalId: "3IILMjMMnoN2sKzgesX8KV",
-  externalLink: "https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3IILMjMMnoN2sKzgesX8KV",
+      externalLink: "https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV",
+    },
+  ],
 } as const satisfies Release

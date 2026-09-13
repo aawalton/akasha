@@ -12,6 +12,11 @@ export const auroraRunningWithTheWolvesWolfwalkersEdition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-13",
-  externalId: "5or6BEa0TARnX9gupWiCEv",
-  externalLink: "https://open.spotify.com/album/5or6BEa0TARnX9gupWiCEv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5or6BEa0TARnX9gupWiCEv",
+      externalLink: "https://open.spotify.com/album/5or6BEa0TARnX9gupWiCEv",
+    },
+  ],
 } as const satisfies Release

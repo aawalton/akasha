@@ -12,7 +12,12 @@ export const celticWoman2GodRestYeMerryGentlemen = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-10-10",
-  externalId: "5560w0xSWHBj61MAULRoqw",
-  externalLink: "https://open.spotify.com/album/5560w0xSWHBj61MAULRoqw",
-  lastSyncedAt: "2026-01-21",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5560w0xSWHBj61MAULRoqw",
+      externalLink: "https://open.spotify.com/album/5560w0xSWHBj61MAULRoqw",
+      lastSyncedAt: "2026-01-21",
+    },
+  ],
 } as const satisfies Release

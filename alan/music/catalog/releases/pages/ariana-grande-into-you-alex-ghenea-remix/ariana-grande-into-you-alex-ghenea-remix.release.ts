@@ -12,7 +12,12 @@ export const arianaGrandeIntoYouAlexGheneaRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-08-19",
-  externalId: "6ec1HRowDGniTh3LVi6N8N",
-  externalLink: "https://open.spotify.com/album/6ec1HRowDGniTh3LVi6N8N",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6ec1HRowDGniTh3LVi6N8N",
+      externalLink: "https://open.spotify.com/album/6ec1HRowDGniTh3LVi6N8N",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

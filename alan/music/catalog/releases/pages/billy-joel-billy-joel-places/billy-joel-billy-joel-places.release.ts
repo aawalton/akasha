@@ -12,6 +12,11 @@ export const billyJoelBillyJoelPlaces = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-02-18",
-  externalId: "2AiwpBGTcAtAGanYlV7kzo",
-  externalLink: "https://open.spotify.com/album/2AiwpBGTcAtAGanYlV7kzo",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2AiwpBGTcAtAGanYlV7kzo",
+      externalLink: "https://open.spotify.com/album/2AiwpBGTcAtAGanYlV7kzo",
+    },
+  ],
 } as const satisfies Release

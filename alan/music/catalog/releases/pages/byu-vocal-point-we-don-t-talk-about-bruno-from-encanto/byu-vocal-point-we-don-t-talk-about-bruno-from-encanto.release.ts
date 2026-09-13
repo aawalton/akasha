@@ -12,7 +12,12 @@ export const byuVocalPointWeDonTTalkAboutBrunoFromEncanto = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-04-08",
-  externalId: "402NIAL7JA0OrTCXOOpic7",
-  externalLink: "https://open.spotify.com/album/402NIAL7JA0OrTCXOOpic7",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "402NIAL7JA0OrTCXOOpic7",
+      externalLink: "https://open.spotify.com/album/402NIAL7JA0OrTCXOOpic7",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const billyJoel50YearsOfThePianoMan = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-04-08",
-  externalId: "4nFLLh5qSlp2z2FuLpVERX",
-  externalLink: "https://open.spotify.com/album/4nFLLh5qSlp2z2FuLpVERX",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4nFLLh5qSlp2z2FuLpVERX",
+      externalLink: "https://open.spotify.com/album/4nFLLh5qSlp2z2FuLpVERX",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const auroraTheThing = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2026-01-15",
-  externalId: "3tMKgaUzzhqpoB7RxI5hDI",
-  externalLink: "https://open.spotify.com/album/3tMKgaUzzhqpoB7RxI5hDI",
-  lastSyncedAt: "2026-01-31",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3tMKgaUzzhqpoB7RxI5hDI",
+      externalLink: "https://open.spotify.com/album/3tMKgaUzzhqpoB7RxI5hDI",
+      lastSyncedAt: "2026-01-31",
+    },
+  ],
 } as const satisfies Release

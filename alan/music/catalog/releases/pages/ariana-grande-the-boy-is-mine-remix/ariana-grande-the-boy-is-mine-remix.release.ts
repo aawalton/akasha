@@ -12,7 +12,12 @@ export const arianaGrandeTheBoyIsMineRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-06-21",
-  externalId: "3AICoyb5EH2OBmQJnaPDIt",
-  externalLink: "https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3AICoyb5EH2OBmQJnaPDIt",
+      externalLink: "https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

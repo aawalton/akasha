@@ -12,7 +12,12 @@ export const arianaGrandeDieForYouRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-02-24",
-  externalId: "6Exo0MYoL3XammoTDeihFy",
-  externalLink: "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Exo0MYoL3XammoTDeihFy",
+      externalLink: "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

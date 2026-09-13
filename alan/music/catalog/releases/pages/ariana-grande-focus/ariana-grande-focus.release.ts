@@ -12,7 +12,12 @@ export const arianaGrandeFocus = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-10-30",
-  externalId: "3IGM1sXYke2UGII2DORrof",
-  externalLink: "https://open.spotify.com/album/3IGM1sXYke2UGII2DORrof",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3IGM1sXYke2UGII2DORrof",
+      externalLink: "https://open.spotify.com/album/3IGM1sXYke2UGII2DORrof",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

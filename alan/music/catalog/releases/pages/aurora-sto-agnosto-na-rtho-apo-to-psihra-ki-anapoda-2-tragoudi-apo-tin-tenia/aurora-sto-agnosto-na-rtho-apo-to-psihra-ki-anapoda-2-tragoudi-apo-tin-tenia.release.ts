@@ -12,6 +12,11 @@ export const auroraStoAgnostoNaRthoApoToPsihraKiAnapoda2TragoudiApoTinTenia = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-10",
-  externalId: "0y19fCEoUao4b8947RkFwM",
-  externalLink: "https://open.spotify.com/album/0y19fCEoUao4b8947RkFwM",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0y19fCEoUao4b8947RkFwM",
+      externalLink: "https://open.spotify.com/album/0y19fCEoUao4b8947RkFwM",
+    },
+  ],
 } as const satisfies Release

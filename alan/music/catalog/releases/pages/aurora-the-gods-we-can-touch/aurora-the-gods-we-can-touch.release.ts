@@ -12,6 +12,11 @@ export const auroraTheGodsWeCanTouch = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-01-21",
-  externalId: "5z1xjvymitc0DJETtvVmaX",
-  externalLink: "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5z1xjvymitc0DJETtvVmaX",
+      externalLink: "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX",
+    },
+  ],
 } as const satisfies Release

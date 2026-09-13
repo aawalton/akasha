@@ -12,6 +12,11 @@ export const auroraIWentTooFarMkRemixRadioVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-07-15",
-  externalId: "3mFS2gbmzMxnPtFQ8f9QVP",
-  externalLink: "https://open.spotify.com/album/3mFS2gbmzMxnPtFQ8f9QVP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3mFS2gbmzMxnPtFQ8f9QVP",
+      externalLink: "https://open.spotify.com/album/3mFS2gbmzMxnPtFQ8f9QVP",
+    },
+  ],
 } as const satisfies Release

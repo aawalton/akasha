@@ -12,7 +12,12 @@ export const byuVocalPointTrenches = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-04-12",
-  externalId: "55Iv8gAsNpccTlLc54Egug",
-  externalLink: "https://open.spotify.com/album/55Iv8gAsNpccTlLc54Egug",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "55Iv8gAsNpccTlLc54Egug",
+      externalLink: "https://open.spotify.com/album/55Iv8gAsNpccTlLc54Egug",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

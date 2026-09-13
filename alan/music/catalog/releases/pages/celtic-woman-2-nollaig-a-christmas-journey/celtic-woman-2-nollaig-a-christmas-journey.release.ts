@@ -12,7 +12,12 @@ export const celticWoman2NollaigAChristmasJourney = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-11-07",
-  externalId: "7txzCkE4yqkBKMQv0wk0r4",
-  externalLink: "https://open.spotify.com/album/7txzCkE4yqkBKMQv0wk0r4",
-  lastSyncedAt: "2026-01-21",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7txzCkE4yqkBKMQv0wk0r4",
+      externalLink: "https://open.spotify.com/album/7txzCkE4yqkBKMQv0wk0r4",
+      lastSyncedAt: "2026-01-21",
+    },
+  ],
 } as const satisfies Release

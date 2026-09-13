@@ -12,7 +12,12 @@ export const alexWarrenOnMyMind = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-06-27",
-  externalId: "128pqckLyL3mr3SJwpUZun",
-  externalLink: "https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "128pqckLyL3mr3SJwpUZun",
+      externalLink: "https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

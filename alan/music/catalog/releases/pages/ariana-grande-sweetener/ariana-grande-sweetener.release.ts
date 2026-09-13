@@ -12,7 +12,12 @@ export const arianaGrandeSweetener = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-08-17",
-  externalId: "3tx8gQqWbGwqIGZHqDNrGe",
-  externalLink: "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3tx8gQqWbGwqIGZHqDNrGe",
+      externalLink: "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

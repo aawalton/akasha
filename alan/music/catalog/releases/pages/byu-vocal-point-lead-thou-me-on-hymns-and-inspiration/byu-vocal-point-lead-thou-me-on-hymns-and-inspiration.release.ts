@@ -12,7 +12,12 @@ export const byuVocalPointLeadThouMeOnHymnsAndInspiration = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2014-05-20",
-  externalId: "2NDwy0grmMrfAYQ0bRRggC",
-  externalLink: "https://open.spotify.com/album/2NDwy0grmMrfAYQ0bRRggC",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2NDwy0grmMrfAYQ0bRRggC",
+      externalLink: "https://open.spotify.com/album/2NDwy0grmMrfAYQ0bRRggC",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const byuVocalPointBackInBlueMaximumACappella = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2011-03-08",
-  externalId: "1NN1oiGvnGRpm14HBDHrLo",
-  externalLink: "https://open.spotify.com/album/1NN1oiGvnGRpm14HBDHrLo",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1NN1oiGvnGRpm14HBDHrLo",
+      externalLink: "https://open.spotify.com/album/1NN1oiGvnGRpm14HBDHrLo",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

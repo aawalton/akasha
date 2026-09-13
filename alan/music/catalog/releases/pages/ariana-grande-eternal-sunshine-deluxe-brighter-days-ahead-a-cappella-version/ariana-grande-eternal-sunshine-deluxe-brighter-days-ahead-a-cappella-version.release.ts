@@ -12,7 +12,12 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersion 
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-27",
-  externalId: "2xqTa2dCR54yYHEcttiXyD",
-  externalLink: "https://open.spotify.com/album/2xqTa2dCR54yYHEcttiXyD",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2xqTa2dCR54yYHEcttiXyD",
+      externalLink: "https://open.spotify.com/album/2xqTa2dCR54yYHEcttiXyD",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

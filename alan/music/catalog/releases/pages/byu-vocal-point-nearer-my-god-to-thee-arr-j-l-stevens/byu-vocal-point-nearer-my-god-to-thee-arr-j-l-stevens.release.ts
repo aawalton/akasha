@@ -12,7 +12,12 @@ export const byuVocalPointNearerMyGodToTheeArrJLStevens = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2014-08-12",
-  externalId: "1sXxk0w0NcyUzYNMrUiUTa",
-  externalLink: "https://open.spotify.com/album/1sXxk0w0NcyUzYNMrUiUTa",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1sXxk0w0NcyUzYNMrUiUTa",
+      externalLink: "https://open.spotify.com/album/1sXxk0w0NcyUzYNMrUiUTa",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

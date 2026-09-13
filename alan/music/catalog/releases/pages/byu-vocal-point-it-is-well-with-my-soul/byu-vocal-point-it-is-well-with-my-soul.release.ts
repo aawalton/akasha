@@ -12,7 +12,12 @@ export const byuVocalPointItIsWellWithMySoul = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2017-02-17",
-  externalId: "5MUAjmccKfREZ5rdSN6vBu",
-  externalLink: "https://open.spotify.com/album/5MUAjmccKfREZ5rdSN6vBu",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5MUAjmccKfREZ5rdSN6vBu",
+      externalLink: "https://open.spotify.com/album/5MUAjmccKfREZ5rdSN6vBu",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

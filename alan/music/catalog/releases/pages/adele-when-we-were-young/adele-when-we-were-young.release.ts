@@ -12,7 +12,12 @@ export const adeleWhenWeWereYoung = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-02-05",
-  externalId: "5Uxy3eGrFAI1VpGRmZIkM7",
-  externalLink: "https://open.spotify.com/album/5Uxy3eGrFAI1VpGRmZIkM7",
-  lastSyncedAt: "2026-02-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5Uxy3eGrFAI1VpGRmZIkM7",
+      externalLink: "https://open.spotify.com/album/5Uxy3eGrFAI1VpGRmZIkM7",
+      lastSyncedAt: "2026-02-09",
+    },
+  ],
 } as const satisfies Release

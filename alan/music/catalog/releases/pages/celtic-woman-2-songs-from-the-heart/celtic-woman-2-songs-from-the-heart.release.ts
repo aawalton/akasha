@@ -12,6 +12,11 @@ export const celticWoman2SongsFromTheHeart = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2009-01-01",
-  externalId: "4isoRF5dFRCIE9kX6LVOfb",
-  externalLink: "https://open.spotify.com/album/4isoRF5dFRCIE9kX6LVOfb",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4isoRF5dFRCIE9kX6LVOfb",
+      externalLink: "https://open.spotify.com/album/4isoRF5dFRCIE9kX6LVOfb",
+    },
+  ],
 } as const satisfies Release

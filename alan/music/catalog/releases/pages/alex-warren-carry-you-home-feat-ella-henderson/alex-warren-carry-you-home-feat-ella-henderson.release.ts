@@ -12,7 +12,12 @@ export const alexWarrenCarryYouHomeFeatEllaHenderson = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-08-09",
-  externalId: "3oUielVpG8olEWWXY7Z4JS",
-  externalLink: "https://open.spotify.com/album/3oUielVpG8olEWWXY7Z4JS",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3oUielVpG8olEWWXY7Z4JS",
+      externalLink: "https://open.spotify.com/album/3oUielVpG8olEWWXY7Z4JS",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

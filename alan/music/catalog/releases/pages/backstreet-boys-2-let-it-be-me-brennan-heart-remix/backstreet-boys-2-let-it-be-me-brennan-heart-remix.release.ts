@@ -12,6 +12,11 @@ export const backstreetBoys2LetItBeMeBrennanHeartRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-08",
-  externalId: "66amYgzKWEUvBkZHN7sIkf",
-  externalLink: "https://open.spotify.com/album/66amYgzKWEUvBkZHN7sIkf",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "66amYgzKWEUvBkZHN7sIkf",
+      externalLink: "https://open.spotify.com/album/66amYgzKWEUvBkZHN7sIkf",
+    },
+  ],
 } as const satisfies Release

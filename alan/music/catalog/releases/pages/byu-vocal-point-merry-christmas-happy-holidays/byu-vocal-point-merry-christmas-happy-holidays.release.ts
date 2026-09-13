@@ -12,7 +12,12 @@ export const byuVocalPointMerryChristmasHappyHolidays = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-12-11",
-  externalId: "0KaweD1XtYJzzN9tFXGItZ",
-  externalLink: "https://open.spotify.com/album/0KaweD1XtYJzzN9tFXGItZ",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0KaweD1XtYJzzN9tFXGItZ",
+      externalLink: "https://open.spotify.com/album/0KaweD1XtYJzzN9tFXGItZ",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

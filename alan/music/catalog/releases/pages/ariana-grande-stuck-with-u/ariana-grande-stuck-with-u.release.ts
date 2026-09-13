@@ -12,7 +12,12 @@ export const arianaGrandeStuckWithU = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-08",
-  externalId: "5mUdh6YWnUvf0MfklEk1oi",
-  externalLink: "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5mUdh6YWnUvf0MfklEk1oi",
+      externalLink: "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

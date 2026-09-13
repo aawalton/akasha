@@ -12,7 +12,12 @@ export const arianaGrandePositions = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-30",
-  externalId: "3euz4vS7ezKGnNSwgyvKcd",
-  externalLink: "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3euz4vS7ezKGnNSwgyvKcd",
+      externalLink: "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const billyJoelBillyJoelMoods = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-07-20",
-  externalId: "142xn3meDPG005SmZv06Cj",
-  externalLink: "https://open.spotify.com/album/142xn3meDPG005SmZv06Cj",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "142xn3meDPG005SmZv06Cj",
+      externalLink: "https://open.spotify.com/album/142xn3meDPG005SmZv06Cj",
+    },
+  ],
 } as const satisfies Release

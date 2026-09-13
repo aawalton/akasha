@@ -12,7 +12,12 @@ export const arianaGrandeOneLastTime = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-08-22",
-  externalId: "2jU2AI6nKiV3y50cnlgAkx",
-  externalLink: "https://open.spotify.com/album/2jU2AI6nKiV3y50cnlgAkx",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2jU2AI6nKiV3y50cnlgAkx",
+      externalLink: "https://open.spotify.com/album/2jU2AI6nKiV3y50cnlgAkx",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

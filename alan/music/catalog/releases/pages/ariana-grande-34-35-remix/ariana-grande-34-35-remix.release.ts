@@ -12,7 +12,12 @@ export const arianaGrande3435Remix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-01-15",
-  externalId: "11X2d5C6rFBFZZUOCJLPt9",
-  externalLink: "https://open.spotify.com/album/11X2d5C6rFBFZZUOCJLPt9",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "11X2d5C6rFBFZZUOCJLPt9",
+      externalLink: "https://open.spotify.com/album/11X2d5C6rFBFZZUOCJLPt9",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

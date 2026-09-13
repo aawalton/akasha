@@ -12,6 +12,11 @@ export const auroraStarvationAnnaRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-10-03",
-  externalId: "651nEjooRVw6JJ78RAeoyK",
-  externalLink: "https://open.spotify.com/album/651nEjooRVw6JJ78RAeoyK",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "651nEjooRVw6JJ78RAeoyK",
+      externalLink: "https://open.spotify.com/album/651nEjooRVw6JJ78RAeoyK",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const alexWarrenBeforeYouLeaveMeTelykastRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-03-27",
-  externalId: "220lHt2TZTUYnR0HWLzK6J",
-  externalLink: "https://open.spotify.com/album/220lHt2TZTUYnR0HWLzK6J",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "220lHt2TZTUYnR0HWLzK6J",
+      externalLink: "https://open.spotify.com/album/220lHt2TZTUYnR0HWLzK6J",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

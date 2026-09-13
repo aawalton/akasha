@@ -12,7 +12,12 @@ export const arianaGrandeWickedTheSoundtrackCommentary = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-12-20",
-  externalId: "3SKe78ljCWiaGA2znAmGEs",
-  externalLink: "https://open.spotify.com/album/3SKe78ljCWiaGA2znAmGEs",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3SKe78ljCWiaGA2znAmGEs",
+      externalLink: "https://open.spotify.com/album/3SKe78ljCWiaGA2znAmGEs",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

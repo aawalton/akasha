@@ -12,7 +12,12 @@ export const alexWarrenScreamingUnderwater = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-09-10",
-  externalId: "1JoSKqExdKeh5no4AhPYan",
-  externalLink: "https://open.spotify.com/album/1JoSKqExdKeh5no4AhPYan",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1JoSKqExdKeh5no4AhPYan",
+      externalLink: "https://open.spotify.com/album/1JoSKqExdKeh5no4AhPYan",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

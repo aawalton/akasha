@@ -12,7 +12,12 @@ export const arianaGrandeMonopoly = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-04-01",
-  externalId: "0MbXjBEw6FrGtcglqEDHpb",
-  externalLink: "https://open.spotify.com/album/0MbXjBEw6FrGtcglqEDHpb",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0MbXjBEw6FrGtcglqEDHpb",
+      externalLink: "https://open.spotify.com/album/0MbXjBEw6FrGtcglqEDHpb",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const arianaGrandeJustLookUpFromDonTLookUp = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-12-03",
-  externalId: "1geA7d12ed5LXsBns7ONB4",
-  externalLink: "https://open.spotify.com/album/1geA7d12ed5LXsBns7ONB4",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1geA7d12ed5LXsBns7ONB4",
+      externalLink: "https://open.spotify.com/album/1geA7d12ed5LXsBns7ONB4",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

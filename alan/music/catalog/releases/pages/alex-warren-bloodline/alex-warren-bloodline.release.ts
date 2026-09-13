@@ -12,7 +12,12 @@ export const alexWarrenBloodline = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-05-22",
-  externalId: "2KoAn4MyptQWG1qBx7mu01",
-  externalLink: "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2KoAn4MyptQWG1qBx7mu01",
+      externalLink: "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

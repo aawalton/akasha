@@ -12,6 +12,11 @@ export const auroraUnderStars = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-12-02",
-  externalId: "1oo0Ro40bKv7UM8lj2g3VN",
-  externalLink: "https://open.spotify.com/album/1oo0Ro40bKv7UM8lj2g3VN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1oo0Ro40bKv7UM8lj2g3VN",
+      externalLink: "https://open.spotify.com/album/1oo0Ro40bKv7UM8lj2g3VN",
+    },
+  ],
 } as const satisfies Release

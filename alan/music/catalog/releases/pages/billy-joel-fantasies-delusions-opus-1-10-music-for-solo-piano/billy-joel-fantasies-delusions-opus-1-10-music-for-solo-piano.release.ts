@@ -12,6 +12,11 @@ export const billyJoelFantasiesDelusionsOpus110MusicForSoloPiano = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2001-10-02",
-  externalId: "1qnzflV3fkvsYgfsLmR5aQ",
-  externalLink: "https://open.spotify.com/album/1qnzflV3fkvsYgfsLmR5aQ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1qnzflV3fkvsYgfsLmR5aQ",
+      externalLink: "https://open.spotify.com/album/1qnzflV3fkvsYgfsLmR5aQ",
+    },
+  ],
 } as const satisfies Release

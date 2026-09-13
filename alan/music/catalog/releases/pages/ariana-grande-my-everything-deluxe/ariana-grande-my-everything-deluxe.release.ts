@@ -12,7 +12,12 @@ export const arianaGrandeMyEverythingDeluxe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-08-22",
-  externalId: "6EVYTRG1drKdO8OnIQBeEj",
-  externalLink: "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6EVYTRG1drKdO8OnIQBeEj",
+      externalLink: "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

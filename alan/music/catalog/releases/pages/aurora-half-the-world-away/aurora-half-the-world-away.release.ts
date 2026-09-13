@@ -12,6 +12,11 @@ export const auroraHalfTheWorldAway = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-07-11",
-  externalId: "0oqYmoUfMV93LzLxIzN3IF",
-  externalLink: "https://open.spotify.com/album/0oqYmoUfMV93LzLxIzN3IF",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0oqYmoUfMV93LzLxIzN3IF",
+      externalLink: "https://open.spotify.com/album/0oqYmoUfMV93LzLxIzN3IF",
+    },
+  ],
 } as const satisfies Release

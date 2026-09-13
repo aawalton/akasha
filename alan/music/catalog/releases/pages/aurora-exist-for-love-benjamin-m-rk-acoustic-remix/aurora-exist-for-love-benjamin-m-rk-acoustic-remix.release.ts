@@ -12,6 +12,11 @@ export const auroraExistForLoveBenjaminMRkAcousticRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-08-07",
-  externalId: "07WXtTeod8a4MHiWQJQrC8",
-  externalLink: "https://open.spotify.com/album/07WXtTeod8a4MHiWQJQrC8",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "07WXtTeod8a4MHiWQJQrC8",
+      externalLink: "https://open.spotify.com/album/07WXtTeod8a4MHiWQJQrC8",
+    },
+  ],
 } as const satisfies Release

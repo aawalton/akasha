@@ -12,6 +12,11 @@ export const auroraWhatHappenedToTheHeartDeluxe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-05-02",
-  externalId: "3W0VJHaitM1oDZ1QT5wFDx",
-  externalLink: "https://open.spotify.com/album/3W0VJHaitM1oDZ1QT5wFDx",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3W0VJHaitM1oDZ1QT5wFDx",
+      externalLink: "https://open.spotify.com/album/3W0VJHaitM1oDZ1QT5wFDx",
+    },
+  ],
 } as const satisfies Release

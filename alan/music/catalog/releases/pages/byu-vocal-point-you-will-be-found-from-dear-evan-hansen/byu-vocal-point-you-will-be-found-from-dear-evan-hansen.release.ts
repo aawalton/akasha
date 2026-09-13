@@ -12,7 +12,12 @@ export const byuVocalPointYouWillBeFoundFromDearEvanHansen = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2017-05-02",
-  externalId: "40a3re7JlVp079mHtpY5uq",
-  externalLink: "https://open.spotify.com/album/40a3re7JlVp079mHtpY5uq",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "40a3re7JlVp079mHtpY5uq",
+      externalLink: "https://open.spotify.com/album/40a3re7JlVp079mHtpY5uq",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

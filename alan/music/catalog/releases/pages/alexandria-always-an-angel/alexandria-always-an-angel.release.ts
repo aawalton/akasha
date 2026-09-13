@@ -13,7 +13,12 @@ export const alexandriaAlwaysAnAngel = {
   status: "completed",
   rank: "A",
   publishedAt: "2025-04-18",
-  externalId: "6H2T2QKndFkQuAZOdGOnpD",
-  externalLink: "https://open.spotify.com/album/6H2T2QKndFkQuAZOdGOnpD",
-  lastSyncedAt: "2025-10-18",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6H2T2QKndFkQuAZOdGOnpD",
+      externalLink: "https://open.spotify.com/album/6H2T2QKndFkQuAZOdGOnpD",
+      lastSyncedAt: "2025-10-18",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const auroraADifferentKindOfHumanStepIi = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-06-07",
-  externalId: "2xLOaAi985d5Xb4alPI8Hf",
-  externalLink: "https://open.spotify.com/album/2xLOaAi985d5Xb4alPI8Hf",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2xLOaAi985d5Xb4alPI8Hf",
+      externalLink: "https://open.spotify.com/album/2xLOaAi985d5Xb4alPI8Hf",
+    },
+  ],
 } as const satisfies Release

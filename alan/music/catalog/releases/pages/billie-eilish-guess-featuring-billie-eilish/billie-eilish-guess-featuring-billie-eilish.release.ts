@@ -13,6 +13,11 @@ export const billieEilishGuessFeaturingBillieEilish = {
   status: "completed",
   rank: "C",
   publishedAt: "2024-08-01",
-  externalId: "3ThlxfLSy4bfKzxWqmC7VN",
-  externalLink: "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ThlxfLSy4bfKzxWqmC7VN",
+      externalLink: "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const billieEilishWhenIWasOlderMusicInspiredByTheFilmRoma = {
   status: "completed",
   rank: "B",
   publishedAt: "2019-01-09",
-  externalId: "0LgnntyagLdfW5Dz2OSYHU",
-  externalLink: "https://open.spotify.com/album/0LgnntyagLdfW5Dz2OSYHU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0LgnntyagLdfW5Dz2OSYHU",
+      externalLink: "https://open.spotify.com/album/0LgnntyagLdfW5Dz2OSYHU",
+    },
+  ],
 } as const satisfies Release

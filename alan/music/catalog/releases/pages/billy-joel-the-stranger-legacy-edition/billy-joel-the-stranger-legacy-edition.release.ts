@@ -12,6 +12,11 @@ export const billyJoelTheStrangerLegacyEdition = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1977-01-01",
-  externalId: "1Mhn9VosyjtWn4dMPFlna6",
-  externalLink: "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Mhn9VosyjtWn4dMPFlna6",
+      externalLink: "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6",
+    },
+  ],
 } as const satisfies Release

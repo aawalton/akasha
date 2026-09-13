@@ -12,6 +12,11 @@ export const billyJoelGreatestHitsVolIii = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1997-06-13",
-  externalId: "3cJ6ZymbUcNGe1T8YZtGyE",
-  externalLink: "https://open.spotify.com/album/3cJ6ZymbUcNGe1T8YZtGyE",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3cJ6ZymbUcNGe1T8YZtGyE",
+      externalLink: "https://open.spotify.com/album/3cJ6ZymbUcNGe1T8YZtGyE",
+    },
+  ],
 } as const satisfies Release

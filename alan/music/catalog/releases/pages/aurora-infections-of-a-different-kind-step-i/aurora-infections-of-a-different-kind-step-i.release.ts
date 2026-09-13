@@ -12,6 +12,11 @@ export const auroraInfectionsOfADifferentKindStepI = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-09-28",
-  externalId: "3kFKPn3NLvalIpXRvE8Apg",
-  externalLink: "https://open.spotify.com/album/3kFKPn3NLvalIpXRvE8Apg",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3kFKPn3NLvalIpXRvE8Apg",
+      externalLink: "https://open.spotify.com/album/3kFKPn3NLvalIpXRvE8Apg",
+    },
+  ],
 } as const satisfies Release

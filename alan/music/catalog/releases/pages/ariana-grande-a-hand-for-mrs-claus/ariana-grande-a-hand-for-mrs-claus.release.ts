@@ -12,7 +12,12 @@ export const arianaGrandeAHandForMrsClaus = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-10-18",
-  externalId: "62OlfZyTDTwngT4QlTxiAo",
-  externalLink: "https://open.spotify.com/album/62OlfZyTDTwngT4QlTxiAo",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "62OlfZyTDTwngT4QlTxiAo",
+      externalLink: "https://open.spotify.com/album/62OlfZyTDTwngT4QlTxiAo",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const auroraSomeTypeOfSkinFeatAtarashiiGakko = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-02-14",
-  externalId: "2rfZFPB9om95kkhwbHnwa3",
-  externalLink: "https://open.spotify.com/album/2rfZFPB9om95kkhwbHnwa3",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2rfZFPB9om95kkhwbHnwa3",
+      externalLink: "https://open.spotify.com/album/2rfZFPB9om95kkhwbHnwa3",
+    },
+  ],
 } as const satisfies Release

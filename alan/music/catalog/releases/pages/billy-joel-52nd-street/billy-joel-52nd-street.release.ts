@@ -12,6 +12,11 @@ export const billyJoel52ndStreet = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1978-10-13",
-  externalId: "1HmCO8VK98AU6EXPOjGYyI",
-  externalLink: "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1HmCO8VK98AU6EXPOjGYyI",
+      externalLink: "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI",
+    },
+  ],
 } as const satisfies Release

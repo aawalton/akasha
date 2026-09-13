@@ -12,7 +12,12 @@ export const byuVocalPointBrillanRayosDeClemencia = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-10-14",
-  externalId: "4ldXycJdfpPV4gBLAGXldu",
-  externalLink: "https://open.spotify.com/album/4ldXycJdfpPV4gBLAGXldu",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4ldXycJdfpPV4gBLAGXldu",
+      externalLink: "https://open.spotify.com/album/4ldXycJdfpPV4gBLAGXldu",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

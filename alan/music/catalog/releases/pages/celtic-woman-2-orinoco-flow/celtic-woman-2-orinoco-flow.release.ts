@@ -12,6 +12,11 @@ export const celticWoman2OrinocoFlow = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-09-03",
-  externalId: "2dDDZ4pFNpUe6ilY0NE6ti",
-  externalLink: "https://open.spotify.com/album/2dDDZ4pFNpUe6ilY0NE6ti",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2dDDZ4pFNpUe6ilY0NE6ti",
+      externalLink: "https://open.spotify.com/album/2dDDZ4pFNpUe6ilY0NE6ti",
+    },
+  ],
 } as const satisfies Release

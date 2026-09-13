@@ -12,7 +12,12 @@ export const arianaGrandeWeCanTBeFriendsWaitForYourLove = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-03-08",
-  externalId: "1kY0kHkLtxqZb0tBqPsIx4",
-  externalLink: "https://open.spotify.com/album/1kY0kHkLtxqZb0tBqPsIx4",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1kY0kHkLtxqZb0tBqPsIx4",
+      externalLink: "https://open.spotify.com/album/1kY0kHkLtxqZb0tBqPsIx4",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

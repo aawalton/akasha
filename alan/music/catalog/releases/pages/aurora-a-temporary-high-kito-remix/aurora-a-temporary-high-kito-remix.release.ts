@@ -12,6 +12,11 @@ export const auroraATemporaryHighKitoRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-08-18",
-  externalId: "7A5pMZfyF8bQToPbSq0ZmH",
-  externalLink: "https://open.spotify.com/album/7A5pMZfyF8bQToPbSq0ZmH",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7A5pMZfyF8bQToPbSq0ZmH",
+      externalLink: "https://open.spotify.com/album/7A5pMZfyF8bQToPbSq0ZmH",
+    },
+  ],
 } as const satisfies Release

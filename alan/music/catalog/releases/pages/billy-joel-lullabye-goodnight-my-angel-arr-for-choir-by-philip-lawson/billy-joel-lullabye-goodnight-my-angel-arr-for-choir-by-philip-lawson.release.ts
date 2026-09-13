@@ -12,6 +12,11 @@ export const billyJoelLullabyeGoodnightMyAngelArrForChoirByPhilipLawson = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-06-20",
-  externalId: "5rAf6PJs2nbg8rLWYiVnFv",
-  externalLink: "https://open.spotify.com/album/5rAf6PJs2nbg8rLWYiVnFv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5rAf6PJs2nbg8rLWYiVnFv",
+      externalLink: "https://open.spotify.com/album/5rAf6PJs2nbg8rLWYiVnFv",
+    },
+  ],
 } as const satisfies Release

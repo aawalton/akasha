@@ -12,7 +12,12 @@ export const alexWarrenOrdinaryFeatLukeCombsLiveFromLollapalooza = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-08-07",
-  externalId: "4BvfHYlT6FmsyneFr18aL4",
-  externalLink: "https://open.spotify.com/album/4BvfHYlT6FmsyneFr18aL4",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4BvfHYlT6FmsyneFr18aL4",
+      externalLink: "https://open.spotify.com/album/4BvfHYlT6FmsyneFr18aL4",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const arianaGrandeSupernatural = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-09-04",
-  externalId: "4FuGDyTBy2UQFdkpfJgGK3",
-  externalLink: "https://open.spotify.com/album/4FuGDyTBy2UQFdkpfJgGK3",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4FuGDyTBy2UQFdkpfJgGK3",
+      externalLink: "https://open.spotify.com/album/4FuGDyTBy2UQFdkpfJgGK3",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Release

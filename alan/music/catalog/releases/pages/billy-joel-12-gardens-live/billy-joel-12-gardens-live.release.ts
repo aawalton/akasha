@@ -12,6 +12,11 @@ export const billyJoel12GardensLive = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2006-06-13",
-  externalId: "58UpluZ9XMHS7xSyX8E6D2",
-  externalLink: "https://open.spotify.com/album/58UpluZ9XMHS7xSyX8E6D2",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "58UpluZ9XMHS7xSyX8E6D2",
+      externalLink: "https://open.spotify.com/album/58UpluZ9XMHS7xSyX8E6D2",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const backstreetBoys2InAWorldLikeThisRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-10-29",
-  externalId: "037t7MAOKh2DHbf7ltfWUy",
-  externalLink: "https://open.spotify.com/album/037t7MAOKh2DHbf7ltfWUy",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "037t7MAOKh2DHbf7ltfWUy",
+      externalLink: "https://open.spotify.com/album/037t7MAOKh2DHbf7ltfWUy",
+    },
+  ],
 } as const satisfies Release

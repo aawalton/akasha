@@ -12,7 +12,12 @@ export const byuVocalPointWhenSheLovedMe = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2016-06-21",
-  externalId: "0YDdwa7PsHcEO0E7yVxhqG",
-  externalLink: "https://open.spotify.com/album/0YDdwa7PsHcEO0E7yVxhqG",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0YDdwa7PsHcEO0E7yVxhqG",
+      externalLink: "https://open.spotify.com/album/0YDdwa7PsHcEO0E7yVxhqG",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

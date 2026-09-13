@@ -12,7 +12,12 @@ export const byuVocalPointIStandAllAmazed = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2017-12-14",
-  externalId: "5PxswBW9Q4n1MAdTZuhAwW",
-  externalLink: "https://open.spotify.com/album/5PxswBW9Q4n1MAdTZuhAwW",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5PxswBW9Q4n1MAdTZuhAwW",
+      externalLink: "https://open.spotify.com/album/5PxswBW9Q4n1MAdTZuhAwW",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

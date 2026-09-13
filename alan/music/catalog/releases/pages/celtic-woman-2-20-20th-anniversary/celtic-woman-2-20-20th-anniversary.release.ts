@@ -12,6 +12,11 @@ export const celticWoman22020thAnniversary = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-01-26",
-  externalId: "3uAqoycvjKO32NMWswWJes",
-  externalLink: "https://open.spotify.com/album/3uAqoycvjKO32NMWswWJes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3uAqoycvjKO32NMWswWJes",
+      externalLink: "https://open.spotify.com/album/3uAqoycvjKO32NMWswWJes",
+    },
+  ],
 } as const satisfies Release

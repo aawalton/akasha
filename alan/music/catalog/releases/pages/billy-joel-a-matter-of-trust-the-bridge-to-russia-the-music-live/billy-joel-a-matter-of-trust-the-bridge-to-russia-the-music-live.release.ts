@@ -12,6 +12,11 @@ export const billyJoelAMatterOfTrustTheBridgeToRussiaTheMusicLive = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2014-05-19",
-  externalId: "0Zck2cwH8sMBTRoqIODlmu",
-  externalLink: "https://open.spotify.com/album/0Zck2cwH8sMBTRoqIODlmu",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0Zck2cwH8sMBTRoqIODlmu",
+      externalLink: "https://open.spotify.com/album/0Zck2cwH8sMBTRoqIODlmu",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const adeleMakeYouFeelMyLove = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-10-27",
-  externalId: "4K1tS9SCKWJX4NQCcMUcUx",
-  externalLink: "https://open.spotify.com/album/4K1tS9SCKWJX4NQCcMUcUx",
-  lastSyncedAt: "2026-02-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4K1tS9SCKWJX4NQCcMUcUx",
+      externalLink: "https://open.spotify.com/album/4K1tS9SCKWJX4NQCcMUcUx",
+      lastSyncedAt: "2026-02-09",
+    },
+  ],
 } as const satisfies Release

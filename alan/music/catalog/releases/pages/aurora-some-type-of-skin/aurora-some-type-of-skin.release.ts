@@ -12,6 +12,11 @@ export const auroraSomeTypeOfSkin = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-05-10",
-  externalId: "1kLM9sRXSaIxGRz18pE6DU",
-  externalLink: "https://open.spotify.com/album/1kLM9sRXSaIxGRz18pE6DU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1kLM9sRXSaIxGRz18pE6DU",
+      externalLink: "https://open.spotify.com/album/1kLM9sRXSaIxGRz18pE6DU",
+    },
+  ],
 } as const satisfies Release

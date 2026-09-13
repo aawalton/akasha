@@ -12,6 +12,11 @@ export const auroraParamourFeatAurora = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-19",
-  externalId: "79NhJfhqNZgDUJtwIn1V1k",
-  externalLink: "https://open.spotify.com/album/79NhJfhqNZgDUJtwIn1V1k",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "79NhJfhqNZgDUJtwIn1V1k",
+      externalLink: "https://open.spotify.com/album/79NhJfhqNZgDUJtwIn1V1k",
+    },
+  ],
 } as const satisfies Release

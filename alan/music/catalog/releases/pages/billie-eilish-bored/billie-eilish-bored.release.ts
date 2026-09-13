@@ -13,6 +13,11 @@ export const billieEilishBored = {
   status: "completed",
   rank: "B",
   publishedAt: "2017-03-30",
-  externalId: "4iyJ8i3eKbez8JXDbsHIdZ",
-  externalLink: "https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4iyJ8i3eKbez8JXDbsHIdZ",
+      externalLink: "https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ",
+    },
+  ],
 } as const satisfies Release

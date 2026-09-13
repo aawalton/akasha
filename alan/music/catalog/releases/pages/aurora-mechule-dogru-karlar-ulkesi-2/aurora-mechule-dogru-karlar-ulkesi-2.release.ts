@@ -12,6 +12,11 @@ export const auroraMechuleDogruKarlarUlkesi2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-02-21",
-  externalId: "66QFfJk00BbSgykQ80RbKl",
-  externalLink: "https://open.spotify.com/album/66QFfJk00BbSgykQ80RbKl",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "66QFfJk00BbSgykQ80RbKl",
+      externalLink: "https://open.spotify.com/album/66QFfJk00BbSgykQ80RbKl",
+    },
+  ],
 } as const satisfies Release

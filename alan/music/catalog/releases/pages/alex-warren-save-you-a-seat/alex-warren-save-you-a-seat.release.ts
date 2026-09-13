@@ -12,7 +12,12 @@ export const alexWarrenSaveYouASeat = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-03-29",
-  externalId: "0VPPrXduFjL2zke7XfDDPu",
-  externalLink: "https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0VPPrXduFjL2zke7XfDDPu",
+      externalLink: "https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

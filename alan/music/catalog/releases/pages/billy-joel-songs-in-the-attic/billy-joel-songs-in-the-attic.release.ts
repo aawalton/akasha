@@ -12,6 +12,11 @@ export const billyJoelSongsInTheAttic = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1981-09-14",
-  externalId: "2Vf4bohoWVk1YlPR2uNOFd",
-  externalLink: "https://open.spotify.com/album/2Vf4bohoWVk1YlPR2uNOFd",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Vf4bohoWVk1YlPR2uNOFd",
+      externalLink: "https://open.spotify.com/album/2Vf4bohoWVk1YlPR2uNOFd",
+    },
+  ],
 } as const satisfies Release

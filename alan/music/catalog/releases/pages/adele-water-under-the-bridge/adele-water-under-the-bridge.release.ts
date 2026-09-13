@@ -12,7 +12,12 @@ export const adeleWaterUnderTheBridge = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-04",
-  externalId: "4wrmR6foH3E5mv5pKtfi49",
-  externalLink: "https://open.spotify.com/album/4wrmR6foH3E5mv5pKtfi49",
-  lastSyncedAt: "2026-02-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4wrmR6foH3E5mv5pKtfi49",
+      externalLink: "https://open.spotify.com/album/4wrmR6foH3E5mv5pKtfi49",
+      lastSyncedAt: "2026-02-09",
+    },
+  ],
 } as const satisfies Release

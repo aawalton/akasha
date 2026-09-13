@@ -12,7 +12,12 @@ export const auroraRingTheAlarm = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-12-04",
-  externalId: "28NiaM4URrr1SBbJG0WcTV",
-  externalLink: "https://open.spotify.com/album/28NiaM4URrr1SBbJG0WcTV",
-  lastSyncedAt: "2025-12-31",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "28NiaM4URrr1SBbJG0WcTV",
+      externalLink: "https://open.spotify.com/album/28NiaM4URrr1SBbJG0WcTV",
+      lastSyncedAt: "2025-12-31",
+    },
+  ],
 } as const satisfies Release

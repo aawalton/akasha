@@ -12,7 +12,12 @@ export const byuVocalPointNonstop = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2008-03-25",
-  externalId: "29xGrZ25YFAuISXCTxK2oE",
-  externalLink: "https://open.spotify.com/album/29xGrZ25YFAuISXCTxK2oE",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "29xGrZ25YFAuISXCTxK2oE",
+      externalLink: "https://open.spotify.com/album/29xGrZ25YFAuISXCTxK2oE",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const auroraTheSeedFeatAnnaLapwoodLiveFromTheRoyalAlbertHall = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-10-31",
-  externalId: "2n2YOhcIkK6pIC46Y1X9lY",
-  externalLink: "https://open.spotify.com/album/2n2YOhcIkK6pIC46Y1X9lY",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2n2YOhcIkK6pIC46Y1X9lY",
+      externalLink: "https://open.spotify.com/album/2n2YOhcIkK6pIC46Y1X9lY",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const alexandriaFallenAngel = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-12-05",
-  externalId: "6Aq7AT4U1yZ4jjCXwA0Z5u",
-  externalLink: "https://open.spotify.com/album/6Aq7AT4U1yZ4jjCXwA0Z5u",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Aq7AT4U1yZ4jjCXwA0Z5u",
+      externalLink: "https://open.spotify.com/album/6Aq7AT4U1yZ4jjCXwA0Z5u",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

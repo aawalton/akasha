@@ -13,6 +13,11 @@ export const billieEilishBellyache = {
   status: "completed",
   rank: "A",
   publishedAt: "2017-02-24",
-  externalId: "25FGyvj0UnD6YYWLq0s9nl",
-  externalLink: "https://open.spotify.com/album/25FGyvj0UnD6YYWLq0s9nl",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "25FGyvj0UnD6YYWLq0s9nl",
+      externalLink: "https://open.spotify.com/album/25FGyvj0UnD6YYWLq0s9nl",
+    },
+  ],
 } as const satisfies Release

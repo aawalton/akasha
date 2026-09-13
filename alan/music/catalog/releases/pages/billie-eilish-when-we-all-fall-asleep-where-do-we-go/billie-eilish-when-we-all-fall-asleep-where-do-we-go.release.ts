@@ -13,6 +13,11 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGo = {
   status: "completed",
   rank: "A",
   publishedAt: "2019-03-29",
-  externalId: "0S0KGZnfBGSIssfF54WSJh",
-  externalLink: "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0S0KGZnfBGSIssfF54WSJh",
+      externalLink: "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh",
+    },
+  ],
 } as const satisfies Release

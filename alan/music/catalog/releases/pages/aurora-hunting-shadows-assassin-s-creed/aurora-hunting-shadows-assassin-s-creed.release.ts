@@ -12,6 +12,11 @@ export const auroraHuntingShadowsAssassinSCreed = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-09-09",
-  externalId: "6HzGOjwwke7sTbZrSf4Et9",
-  externalLink: "https://open.spotify.com/album/6HzGOjwwke7sTbZrSf4Et9",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6HzGOjwwke7sTbZrSf4Et9",
+      externalLink: "https://open.spotify.com/album/6HzGOjwwke7sTbZrSf4Et9",
+    },
+  ],
 } as const satisfies Release

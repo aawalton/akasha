@@ -12,6 +12,11 @@ export const billyJoelLiveAtSheaStadium = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2011-03-08",
-  externalId: "4zziqp3wOBkfWmxwlILVBZ",
-  externalLink: "https://open.spotify.com/album/4zziqp3wOBkfWmxwlILVBZ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4zziqp3wOBkfWmxwlILVBZ",
+      externalLink: "https://open.spotify.com/album/4zziqp3wOBkfWmxwlILVBZ",
+    },
+  ],
 } as const satisfies Release

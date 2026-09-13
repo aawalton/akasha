@@ -12,7 +12,12 @@ export const alexWarrenBurningDownWithJoeJonas = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-12-06",
-  externalId: "5sT7X6SG6Vc4jc68TbZKEp",
-  externalLink: "https://open.spotify.com/album/5sT7X6SG6Vc4jc68TbZKEp",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5sT7X6SG6Vc4jc68TbZKEp",
+      externalLink: "https://open.spotify.com/album/5sT7X6SG6Vc4jc68TbZKEp",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies Release

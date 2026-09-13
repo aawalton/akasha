@@ -12,6 +12,11 @@ export const auroraWalkingInTheAir = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-28",
-  externalId: "2fMBFV1ko7rH9ATaqkhnVB",
-  externalLink: "https://open.spotify.com/album/2fMBFV1ko7rH9ATaqkhnVB",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2fMBFV1ko7rH9ATaqkhnVB",
+      externalLink: "https://open.spotify.com/album/2fMBFV1ko7rH9ATaqkhnVB",
+    },
+  ],
 } as const satisfies Release
