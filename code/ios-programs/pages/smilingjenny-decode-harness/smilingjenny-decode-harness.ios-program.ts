@@ -10,6 +10,7 @@ export const smilingjennyDecodeHarness = {
     "ios-component/alanwalton-stoplight-ring",
     "ios-component/categorize-ring",
     "ios-component/falling-checks",
+    "ios-component/freshness-widget",
     "ios-component/ring",
     "ios-component/safety-ring",
     "ios-component/scale-checks",

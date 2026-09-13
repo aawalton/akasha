@@ -40,6 +40,10 @@ export const smilingjennyWidgetFeed = {
       statement: "The refresh stays fifteen minutes out however near the named moment is.",
     },
     {
+      invariantKind: "departure",
+      statement: "A reload this provider is granted is noted before the fetch is made.",
+    },
+    {
       invariantKind: "constraint",
       statement:
         "A surplus falling thirty-two an hour reaches the rung four under it in seven minutes.",

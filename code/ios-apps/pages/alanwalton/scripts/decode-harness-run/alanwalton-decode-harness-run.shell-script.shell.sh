@@ -30,6 +30,7 @@ COMPONENT_SWIFT=(
   "$AKASHA_ROOT/code/ios-components/pages/alanwalton-widget-feed/alanwalton-widget-feed.ios-component.swift.swift"
   "$AKASHA_ROOT/code/ios-components/pages/categorize-ring/categorize-ring.ios-component.swift.swift"
   "$AKASHA_ROOT/code/ios-components/pages/falling-checks/falling-checks.ios-component.swift.swift"
+  "$AKASHA_ROOT/code/ios-components/pages/freshness-widget/freshness-widget.ios-component.swift.swift"
   "$AKASHA_ROOT/code/ios-components/pages/ring/ring.ios-component.swift.swift"
   "$AKASHA_ROOT/code/ios-components/pages/safety-ring/safety-ring.ios-component.swift.swift"
   "$AKASHA_ROOT/code/ios-components/pages/scale-checks/scale-checks.ios-component.swift.swift"

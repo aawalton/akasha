@@ -166,6 +166,7 @@ struct FeedProvider<Feed: WidgetFeed>: TimelineProvider {
     func getTimeline(in context: TimelineProviderContext, completion: @escaping (Timeline<Entry>) -> Void) {
         Task {
             let now = Date()
+            ReloadLog.note(Feed.endpoint.path, at: now)
             let state = await currentState()
             let next = Calendar.current.date(byAdding: .minute, value: 15, to: now)
                 ?? now.addingTimeInterval(900)
