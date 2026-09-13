@@ -32,7 +32,6 @@ export const temperCraftingAddon = {
     "module/craft-cooking-lists",
     "module/craft-crafting",
     "module/craft-defined",
-    "module/craft-flask",
     "module/craft-furnisher",
     "module/craft-furnisher-early",
     "module/craft-furnisher-late",
