@@ -5,7 +5,7 @@ export const thePianoGuys3PicturesAtAnExhibition = {
   type: "release",
   slug: "the-piano-guys-3-pictures-at-an-exhibition",
   title: "Pictures at an Exhibition",
-  partOfCollections: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys"],
   position: 0,
   ownLength: 4.004167,
   ownProgress: 4.004167,

@@ -5,7 +5,7 @@ export const thePianoGuys3WayfaringStranger = {
   type: "release",
   slug: "the-piano-guys-3-wayfaring-stranger",
   title: "Wayfaring Stranger",
-  partOfCollections: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys"],
   position: 0,
   ownLength: 3.878083,
   ownProgress: 3.878083,

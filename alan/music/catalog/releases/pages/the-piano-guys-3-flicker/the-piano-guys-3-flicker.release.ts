@@ -5,7 +5,7 @@ export const thePianoGuys3Flicker = {
   type: "release",
   slug: "the-piano-guys-3-flicker",
   title: "Flicker",
-  partOfCollections: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys"],
   position: 0,
   ownLength: 3.27555,
   ownProgress: 3.27555,

@@ -1,9 +1,9 @@
 import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.types.ts"
 
-export const thePianoGuys3 = {
+export const thePianoGuys = {
   id: "01a06803-676c-700e-b0f5-195d07f0d4ea",
   type: "artist",
-  slug: "the-piano-guys-3",
+  slug: "the-piano-guys",
   title: "The Piano Guys",
   partOfCollections: ["artists"],
   position: 0,

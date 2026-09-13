@@ -5,7 +5,7 @@ export const thePianoGuys3Mistletoe = {
   type: "release",
   slug: "the-piano-guys-3-mistletoe",
   title: "Mistletoe",
-  partOfCollections: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys"],
   position: 0,
   ownLength: 4.781333,
   ownProgress: 4.781333,

@@ -5,7 +5,7 @@ export const thePianoGuys3LoveMeLikeIAm = {
   type: "release",
   slug: "the-piano-guys-3-love-me-like-i-am",
   title: "Love Me Like I Am",
-  partOfCollections: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys"],
   position: 0,
   ownLength: 7.7111,
   ownProgress: 7.7111,

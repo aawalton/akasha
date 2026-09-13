@@ -5,7 +5,7 @@ export const thePianoGuys3TheSnowQueenMoldau = {
   type: "release",
   slug: "the-piano-guys-3-the-snow-queen-moldau",
   title: "The Snow Queen (Moldau)",
-  partOfCollections: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys"],
   position: 0,
   ownLength: 4.925,
   ownProgress: 4.925,

@@ -5,7 +5,7 @@ export const thePianoGuys3WeddingSeason = {
   type: "release",
   slug: "the-piano-guys-3-wedding-season",
   title: "Wedding Season",
-  partOfCollections: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys"],
   position: 0,
   ownLength: 70.8394,
   ownProgress: 70.8394,

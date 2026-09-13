@@ -5,7 +5,7 @@ export const thePianoGuys3Landslide = {
   type: "release",
   slug: "the-piano-guys-3-landslide",
   title: "Landslide",
-  partOfCollections: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys"],
   position: 0,
   ownLength: 6.181483,
   ownProgress: 6.181483,
