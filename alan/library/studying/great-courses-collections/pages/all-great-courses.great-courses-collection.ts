@@ -9,5 +9,4 @@ export const allGreatCourses = {
   rank: "B",
   unit: "minutes",
   partOfCollections: ["the-great-courses"],
-  source: "the-great-courses",
 } as const satisfies GreatCoursesCollection
