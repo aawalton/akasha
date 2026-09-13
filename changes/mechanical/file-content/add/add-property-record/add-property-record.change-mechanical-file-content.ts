@@ -22,11 +22,8 @@ export const addPropertyRecord = {
     },
     {
       invariantKind: "departure",
-      statement: "A record is put after the records the property already has.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A record takes the indent the record above it has.",
+      statement:
+        "Where a record falls in the property is worked out by the module this change names.",
     },
     {
       invariantKind: "departure",
@@ -87,11 +84,6 @@ export const addPropertyRecord = {
     {
       invariantKind: "absence",
       statement: "Nothing here reads what the record means.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A list written on one line gains its record on that line rather than on a line of its own.",
     },
     {
       invariantKind: "departure",

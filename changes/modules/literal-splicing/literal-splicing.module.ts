@@ -41,6 +41,23 @@ export const literalSplicing = {
     },
     {
       invariantKind: "departure",
+      statement: "A record put into a list falls after the records that list already holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record takes the indent the record above it has.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A list written on one line gains its record on that line rather than on a line of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record put into a list holding none falls just inside the bracket.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "An entry put into an object holding no entry falls just inside the brace on its own line.",
     },

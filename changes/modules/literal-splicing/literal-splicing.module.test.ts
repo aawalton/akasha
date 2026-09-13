@@ -4,6 +4,7 @@ import {
   inOrder,
   without,
   withProperty,
+  withRecord,
   withValue,
 } from "akasha/changes/modules/literal-splicing/literal-splicing.module.code.ts"
 import { listIn, literalIn } from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
@@ -55,6 +56,16 @@ const EMPTY = ["export const held = {", "  partSlugs: [],", "} as const satisfie
 
 const BARE = ["export const held = {} as const satisfies Module", ""].join("\n")
 
+const RECORDS = [
+  "export const held = {",
+  "  properties: [",
+  '    { held: "one" },',
+  '    { held: "two" },',
+  "  ],",
+  "} as const satisfies Module",
+  "",
+].join("\n")
+
 const BARE_GAINED = [
   "export const held = {",
   '  slug: "held",',
@@ -88,6 +99,12 @@ function valueOrdered(text: string, key: string, put: string): string {
   const source = parsedAs(AT, text)
   const list = listIn(source, key)
   return list === null ? "" : splicedInto(text, inOrder(source, list, put))
+}
+
+function recordPut(text: string, key: string, put: string): string {
+  const source = parsedAs(AT, text)
+  const list = listIn(source, key)
+  return list === null ? "" : splicedInto(text, withRecord(text, source, list, put))
 }
 
 function propertyPut(text: string, put: string, after: string | undefined): string {
@@ -192,4 +209,18 @@ test("an index naming no entry answers a span holding nothing", () => {
 
 test("an entry goes out of an object as one goes out of a list", () => {
   expect(propertyGone(BODY, 1)).toBe(BODY.replace('  definition: "a page an edit falls in",\n', ""))
+})
+
+test("a record put into a list falls after the records that list already holds", () => {
+  expect(recordPut(RECORDS, "properties", "{ held: true }")).toBe(
+    RECORDS.replace('    { held: "two" },\n', '    { held: "two" },\n    { held: true },\n')
+  )
+})
+
+test("a list written on one line gains its record on that line", () => {
+  expect(recordPut(BODY, "partSlugs", '"module/three"')).toContain('"module/two", "module/three"]')
+})
+
+test("a record put into a list holding none falls just inside the bracket", () => {
+  expect(recordPut(EMPTY, "partSlugs", "{ held: true }")).toContain("partSlugs: [{ held: true }],")
 })

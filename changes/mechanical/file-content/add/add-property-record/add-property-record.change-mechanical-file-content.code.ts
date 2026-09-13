@@ -3,8 +3,11 @@ import {
   spliced,
   stating,
 } from "akasha/changes/modules/answer/change-answer.module.code.ts"
-import type { Said, Splice } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { withProperty } from "akasha/changes/modules/literal-splicing/literal-splicing.module.code.ts"
+import type { Said } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  withProperty,
+  withRecord,
+} from "akasha/changes/modules/literal-splicing/literal-splicing.module.code.ts"
 import {
   keyFaultIn,
   keyOf,
@@ -56,24 +59,6 @@ export function quotedKeyIn(one: ts.ObjectLiteralExpression): string | null {
     }
   }
   return null
-}
-
-export function withRecord(
-  text: string,
-  source: ts.SourceFile,
-  holding: ts.ArrayLiteralExpression,
-  record: string
-): Splice {
-  const last = holding.elements[holding.elements.length - 1]
-  if (last === undefined) {
-    const opened = holding.getStart(source) + 1
-    return { from: opened, to: opened, put: record }
-  }
-  const started = last.getStart(source)
-  const indent = text.slice(text.lastIndexOf("\n", started) + 1, started)
-  const ended = last.getEnd()
-  if (indent.trim() !== "") return { from: ended, to: ended, put: `, ${record}` }
-  return { from: ended, to: ended, put: `,\n${indent}${record}` }
 }
 
 export function addPropertyRecord(world: World, given: AddPropertyRecordAsked): Said {

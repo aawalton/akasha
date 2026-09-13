@@ -38,6 +38,24 @@ export function inOrder(
   return withValue(source, holding, put)
 }
 
+export function withRecord(
+  text: string,
+  source: ts.SourceFile,
+  holding: ts.ArrayLiteralExpression,
+  record: string
+): Splice {
+  const last = holding.elements[holding.elements.length - 1]
+  if (last === undefined) {
+    const opened = holding.getStart(source) + 1
+    return { from: opened, to: opened, put: record }
+  }
+  const started = last.getStart(source)
+  const indent = text.slice(text.lastIndexOf("\n", started) + 1, started)
+  const ended = last.getEnd()
+  if (indent.trim() !== "") return { from: ended, to: ended, put: `, ${record}` }
+  return { from: ended, to: ended, put: `,\n${indent}${record}` }
+}
+
 export function withProperty(
   text: string,
   source: ts.SourceFile,
