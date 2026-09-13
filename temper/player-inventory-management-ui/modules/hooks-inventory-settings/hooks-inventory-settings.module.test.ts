@@ -1,6 +1,8 @@
 import { expect, test } from "bun:test"
 import { heldFromRows } from "akasha/temper/items-rules-core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import {
+  isRulesUnreadWrite,
+  RULES_UNREAD_WRITE,
   useAutomationSettings,
   useBackpackSettings,
   useCraftBagAccess,
@@ -40,6 +42,13 @@ test("a rule short of a key names the key a reader has to mend", () => {
 
 test("rules that read cleanly say nothing was refused", () => {
   expect(saidFor([A_ROW])).toBe("nothing was refused")
+})
+
+test("a write refused for unread rules is told apart from a write that failed to save", () => {
+  expect(isRulesUnreadWrite(new Error(RULES_UNREAD_WRITE))).toBe(true)
+  expect(isRulesUnreadWrite(new Error("the network went away"))).toBe(false)
+  expect(isRulesUnreadWrite(RULES_UNREAD_WRITE)).toBe(false)
+  expect(isRulesUnreadWrite(undefined)).toBe(false)
 })
 
 test("what a reader is shown is text even where what was thrown is not an error", () => {

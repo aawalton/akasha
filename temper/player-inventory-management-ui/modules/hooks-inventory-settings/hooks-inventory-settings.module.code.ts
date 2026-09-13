@@ -198,6 +198,13 @@ export function useManagedGuildBanks() {
 
 const NO_RULES: InventoryRuleSettings = { version: 2, rules: [] }
 
+export const RULES_UNREAD_WRITE =
+  "the rules beside this account went unread, so writing now would put this over them"
+
+export function isRulesUnreadWrite(thrown: unknown): boolean {
+  return thrown instanceof Error && thrown.message === RULES_UNREAD_WRITE
+}
+
 export function useInventorySettings() {
   const { settings, userId } = useSettingsBlob()
   const { rows } = usePages({
@@ -250,11 +257,7 @@ export function useInventorySettings() {
   const updateInventorySettings = useCallback(
     async (next: InventoryRuleSettings) => {
       if (userId == null) return
-      if (rulesUnread !== null) {
-        throw new Error(
-          "the rules beside this account went unread, so writing now would put this over them"
-        )
-      }
+      if (rulesUnread !== null) throw new Error(RULES_UNREAD_WRITE)
       const { upserts, deletes } = writesFor(next.rules, heldRules, userId)
       if (upserts.length > 0) {
         await runUpserts({

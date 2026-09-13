@@ -5,7 +5,10 @@ import {
   patchFurnitureVaultDestination,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { useCraftBagAccess } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
+import {
+  isRulesUnreadWrite,
+  useCraftBagAccess,
+} from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { useInventoryRulesHandlers } from "akasha/temper/player-inventory-management-ui/modules/inventory-rules-handlers/inventory-rules-handlers.module.code.ts"
 import {
   rulesFingerprint,
@@ -53,8 +56,15 @@ export function useInventoryRulesSettingsState(): InventoryRulesSettingsState {
       localFingerprintRef.current = rulesFingerprint(next)
       setLocalSettings(next)
       persistServer(next, (err) => {
-        console.error("[inventory-rules] settings persist failed:", err)
-        toast.error("Couldn't save your rule change — reverting to the last saved version.")
+        if (isRulesUnreadWrite(err)) {
+          toast.warning("Nothing was saved, and nothing was lost.", {
+            description:
+              "One of your rules stopped being readable while this change was on its way, so it was not written. The rules panel says which rule.",
+          })
+        } else {
+          console.error("[inventory-rules] settings persist failed:", err)
+          toast.error("Couldn't save your rule change — reverting to the last saved version.")
+        }
         dirtyRef.current = false
         localFingerprintRef.current = rulesFingerprint(revertTo)
         setLocalSettings(revertTo)
