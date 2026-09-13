@@ -9,6 +9,7 @@ export const seatSupervisors = {
     "module/agent-hook-registration",
     "module/mcp-disable-reconcile",
     "module/mcp-registry",
+    "module/run-supervisor",
     "module/seat-supervisor-claim",
     "module/supervisor",
     "module/supervisor-account-config",
