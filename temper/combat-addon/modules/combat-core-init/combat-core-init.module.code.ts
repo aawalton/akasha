@@ -2,7 +2,6 @@ import { initializeActions } from "akasha/temper/combat-addon/modules/combat-act
 import {
   setInCombat,
   setInitialized,
-  setPlayername,
 } from "akasha/temper/combat-addon/modules/combat-addon-state/combat-addon-state.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/combat-addon/modules/combat-constants/combat-constants.module.code.ts"
 import {
@@ -45,7 +44,6 @@ export function initializeCore(): undefined {
     zo_callLater(initializeChat, 500)
   }
 
-  setPlayername(zo_strformat(SI_UNIT_NAME, GetUnitName("player")))
   setInCombat(IsUnitInCombat("player"))
 
   initializeUI()

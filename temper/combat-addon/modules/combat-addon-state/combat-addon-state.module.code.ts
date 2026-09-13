@@ -1,14 +1,4 @@
-let PLAYER_NAME = ""
 let IN_COMBAT = false
-
-export function getPlayername(): string {
-  return PLAYER_NAME
-}
-
-export function setPlayername(value: string): undefined {
-  PLAYER_NAME = value
-  return undefined
-}
 
 export function isInCombat(): boolean {
   return IN_COMBAT
