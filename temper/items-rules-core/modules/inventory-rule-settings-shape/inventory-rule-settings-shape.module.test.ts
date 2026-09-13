@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { InventoryRuleSettingsShape } from "akasha/temper/commands/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts"
+import { InventoryRuleSettingsShape } from "akasha/temper/items-rules-core/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts"
 
 const ONE_RULE = {
   version: 2,

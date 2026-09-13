@@ -30,7 +30,6 @@ export const temperCommands = {
     "module/inventory-rule-calling",
     "module/inventory-rule-flags",
     "module/inventory-rule-rows",
-    "module/inventory-rule-settings-shape",
     "module/inventory-settings-access",
     "module/inventory-settings-handle",
     "module/inventory-snapshot-reading",
