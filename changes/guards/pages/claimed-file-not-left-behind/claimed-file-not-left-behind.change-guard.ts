@@ -33,8 +33,11 @@ export const claimedFileNotLeftBehind = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Which pages claim a file after the answer is read from the index that answer leaves.",
+      statement: "Which page claims a file after the answer is composed out of that file's name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The folder that name is read against is the folder the answer leaves.",
     },
     {
       invariantKind: "departure",
