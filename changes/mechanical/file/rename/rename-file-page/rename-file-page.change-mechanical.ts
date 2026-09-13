@@ -127,6 +127,11 @@ export const renameFilePage = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The modules restating an address, a slug and an export are called rather than reached.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The address a page's slug names is restated wherever a body spells that address.",
     },
     {

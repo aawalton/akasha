@@ -1,6 +1,8 @@
 import { basename, dirname, join, relative } from "node:path"
+import { restatedIn } from "akasha/changes/modules/address-restating/address-restating.module.code.ts"
 import {
   gathered,
+  pathsIn,
   refusing,
   splicedIn,
   splicing,
@@ -11,14 +13,18 @@ import type {
   FileChange,
   Splice,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { exportRenamed } from "akasha/changes/modules/export-renaming/export-renaming.module.code.ts"
 import { spelledAnew } from "akasha/changes/modules/package-naming/package-naming.module.code.ts"
 import { statedIn } from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
 import {
+  carrying,
   holdingIn,
   reach,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { slugRenamed } from "akasha/changes/modules/slug-renaming/slug-renaming.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
+import { placingOver } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import { reachesIn } from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
 import { manifestsIn } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
 import type { Beside as Sidecar } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
@@ -43,13 +49,7 @@ import {
 import { dashEachCapital } from "akasha/utils/slug/modules/dash-each-capital/dash-each-capital.module.code.ts"
 import ts from "typescript"
 
-const RENAME_PAGE_SLUG = "change-mechanical-file-content/rename-page-slug"
-
 const MOVE_FILES = "change-mechanical/move-files"
-
-const RENAME_EXPORT = "change-mechanical-file-content/rename-export"
-
-const RENAME_PAGE_ADDRESS = "change-mechanical-file-content/rename-page-address"
 
 const TYPED = ".ts"
 
@@ -343,15 +343,13 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   const way = wayIn(world, new Map(moves.map((one) => [one.from, one.to])), held.slug, given.to)
   if (given.to !== held.slug && given.addressesRestated !== true) {
     const known = seen.index.knownIn()
-    const addressed = await reach(seen, RENAME_PAGE_ADDRESS, {
-      was: addressOf(known, held, held.slug),
-      now: addressOf(known, held, given.to),
-    })
-    if (addressed.said.refused !== null) return addressed.said
-    answers.push(addressed.said)
+    const was = addressOf(known, held, held.slug)
+    const addressed = restatedIn(seen, new Map([[was, addressOf(known, held, given.to)]]))
+    if (addressed.refused !== null) return addressed
+    answers.push(addressed)
     folded = gathered(answers)
     if (folded.refused !== null) return folded
-    seen = addressed.world
+    seen = carrying(seen, addressed)
   }
   const carried = await reach(seen, MOVE_FILES, {
     moved: Object.fromEntries(moves.map((one) => [one.from, one.to])),
@@ -363,27 +361,28 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   seen = carried.world
   if (given.to !== held.slug) {
     const level = tailOf(held.slug, held.said.get(NAME) ?? "", given.to)
-    const said = await reach(seen, RENAME_PAGE_SLUG, {
+    const said = slugRenamed(seen, {
       at: lands,
       to: given.to,
       plural: given.plural,
       name: level ?? undefined,
     })
-    if (said.said.refused !== null) return said.said
-    answers.push(said.said)
+    if (said.refused !== null) return said
+    answers.push(said)
     folded = gathered(answers)
     if (folded.refused !== null) return folded
-    seen = said.world
+    seen = carrying(seen, said)
     for (const one of spellingsIn(seen.textOf, lands, held.said, held.slug, given.to)) {
       const reading = importingOf(seen.index, new Map([[one.at, one.at]]))
       if ("unread" in reading) return refusing(reading.unread)
       const over = [one.at, ...reading.importers]
-      const spelled = await reach(seen, RENAME_EXPORT, { at: one.at, over, of: one.of, to: one.to })
-      if (spelled.said.refused !== null) return spelled.said
-      answers.push(spelled.said)
+      const placed = placingOver(pathsIn(seen.over), seen.textOf)
+      const spelled = exportRenamed(seen.root, one.at, over, one.of, one.to, seen.textOf, placed)
+      if (spelled.refused !== null) return spelled
+      answers.push(spelled)
       folded = gathered(answers)
       if (folded.refused !== null) return folded
-      seen = spelled.world
+      seen = carrying(seen, spelled)
     }
   }
   if (way !== null) {
