@@ -4,7 +4,7 @@ export const supervisorLoop = {
   id: "01a09c67-78aa-706e-8909-443bee147ea1",
   type: "domain",
   slug: "supervisor-loop",
-  definition: "a seat's run as repeated children, one pass at a time",
+  definition: "a seat's run as repeated children, one child at a time",
   parts: [
     "module/supervisor-interactive",
     "module/supervisor-interactive-iteration",
