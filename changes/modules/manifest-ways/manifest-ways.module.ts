@@ -1,12 +1,9 @@
-import type { ChangeMechanicalFileContent } from "akasha/changes/mechanical/file-content/change-mechanical-file-content.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
-export const changeManifestWays = {
-  id: "01a0798b-3398-71d0-ba4b-fa40530ad360",
-  type: "change-mechanical-file-content",
-  slug: "change-manifest-ways",
-  changeMode: "change-mode-change",
-  changeTargetType: "change-target-type/file-content",
-  changeTargetSubtype: "change-target-subtype/file-content-manifest",
+export const manifestWays = {
+  id: "01a09b81-967d-77b4-b2fa-dd03deb0986c",
+  type: "module",
+  slug: "manifest-ways",
   definition: "a manifest's ways in rewritten to follow the files those ways in name",
   code: "ts",
   test: "ts",
@@ -52,8 +49,12 @@ export const changeManifestWays = {
       statement: "Each passage answered runs over the ways in changed whose lines meet.",
     },
     {
+      invariantKind: "departure",
+      statement: "The body is read through the reader handed in rather than through a world.",
+    },
+    {
       invariantKind: "absence",
-      statement: "Nothing here looks for the manifests standing above a path that moved.",
+      statement: "Nothing here looks for the manifests above a path that moved.",
     },
     {
       invariantKind: "absence",
@@ -61,8 +62,7 @@ export const changeManifestWays = {
     },
     {
       invariantKind: "departure",
-      statement: "The ways in are worked out by the module rather than here.",
+      statement: "A change wanting these edits reads them here rather than from another change.",
     },
   ],
-  changeKind: "change-mechanical",
-} as const satisfies ChangeMechanicalFileContent
+} as const satisfies Module
