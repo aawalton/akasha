@@ -14,10 +14,5 @@ export const changeMechanicalFileContentMove = {
       invariantKind: "departure",
       statement: "A rung here carries a declaration out of one body and into another body.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "Such a rung reaches the changes for removing and for adding rather than writing a body.",
-    },
   ],
 } as const satisfies Domain
