@@ -8,7 +8,7 @@ import type {
 import { textIn } from "akasha/code/bodies/modules/body-text/body-text.module.code.ts"
 import { steppedFor } from "akasha/code/ios-components/pages/spacing/modules/stepping/spacing-stepping.module.code.ts"
 import { bodiesFor } from "akasha/code/module-property-groups/modules/group-writing/group-writing.module.code.ts"
-import { formattedBody } from "akasha/code/running/modules/format/code-format.module.code.ts"
+import { formattedBody } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
 import { globbedFor } from "akasha/code/stylesheets/modules/source-globbing/source-globbing.module.code.ts"
 import { lockingFor } from "akasha/code/workspaces/modules/manifest-locking/manifest-locking.module.code.ts"
 import { DATA } from "akasha/commands/modules/answering/command-answering.module.code.ts"

@@ -1,5 +1,5 @@
 import { tokensOf } from "akasha/code/reading/modules/tokens/code-tokens.module.code.ts"
-import { formattedBody } from "akasha/code/running/modules/format/code-format.module.code.ts"
+import { formattedBody } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
 import { textOf } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
 
 export type Interior = {
