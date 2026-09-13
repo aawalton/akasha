@@ -72,6 +72,11 @@ export const modelTest = {
       statement:
         "A sign named by description refuses about one clean case in two hundred, whatever the wording.",
     },
+    {
+      invariantKind: "constraint",
+      statement:
+        "Zero refusals over two runs of 214 clean cases bounds the rate under one in 140, not at zero.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
