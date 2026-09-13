@@ -1,1 +1,1 @@
-export const HOME_NAV_SLUG = "home"
+export const HOME_SCREEN_NAV_SLUG = "tasks"

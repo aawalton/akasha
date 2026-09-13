@@ -2,7 +2,7 @@
 
 import { reportError } from "akasha/alan/harness/errors-client/modules/error-reporting/error-reporting.module.code.ts"
 import { ALANWALTON_APP_SLUG } from "akasha/alan/web/modules/alan-app-id/alan-app-id.module.code.ts"
-import { HOME_NAV_SLUG } from "akasha/alan/web/modules/home-dni/home-dni.module.code.ts"
+import { HOME_SCREEN_NAV_SLUG } from "akasha/alan/web/modules/home-dni/home-dni.module.code.ts"
 import {
   PageLayout,
   PageLayoutSkeleton,
@@ -36,7 +36,7 @@ function homeUnresolvedBecause(args: {
   if (args.navRowCount === 0) {
     return `nothing answered for the '${NAV_SLUG}' page type`
   }
-  return `${args.navRowCount} '${NAV_SLUG}' pages answered and none of them is '${HOME_NAV_SLUG}'`
+  return `${args.navRowCount} '${NAV_SLUG}' pages answered and none of them is '${HOME_SCREEN_NAV_SLUG}'`
 }
 
 export default function CapacitorHome() {
@@ -47,13 +47,13 @@ export default function CapacitorHome() {
   })
 
   const navItemIdParam = useMemo(() => {
-    const home = rows.find((r) => r.slug === HOME_NAV_SLUG)
-    if (home === undefined) return null
+    const homeScreenNav = rows.find((r) => r.slug === HOME_SCREEN_NAV_SLUG)
+    if (homeScreenNav === undefined) return null
     return buildPageHrefParam({
       pageTypeSlug: NAV_SLUG,
-      slug: home.slug,
-      fallbackSlugSource: home.title,
-      id: home.id,
+      slug: homeScreenNav.slug,
+      fallbackSlugSource: homeScreenNav.title,
+      id: homeScreenNav.id,
     })
   }, [rows])
 
