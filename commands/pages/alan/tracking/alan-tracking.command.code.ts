@@ -10,6 +10,7 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { builtIn, VALUED } from "akasha/commands/modules/file-arguing/file-arguing.module.code.ts"
 import {
   BREAK_GLASS,
+  CONTENT_FILE,
   FILE_PATH,
   REMOVE,
   valuesOf,
@@ -17,6 +18,7 @@ import {
 import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { pathAt } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
+import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 
 const TAKES: readonly string[] = VALUED.filter((one) => one !== BREAK_GLASS)
 
@@ -33,6 +35,19 @@ export function strayIn(root: string, argv: readonly string[]): readonly string[
   return said
 }
 
+export function repeatedIn(argv: readonly string[]): readonly string[] {
+  const said: string[] = []
+  for (const flag of [FILE_PATH, CONTENT_FILE]) {
+    const many = valuesOf(argv, flag, TAKES)
+    if (many.length < 2) continue
+    said.push(
+      `one call writes one file, and this call says \`${flag}\` ${counted(many.length, "time")}` +
+        " — say each file in a call of its own"
+    )
+  }
+  return said
+}
+
 export type Landing = (
   done: string[],
   root: string,
@@ -45,6 +60,8 @@ export async function trackedBy(
   given: Given,
   landing: Landing = landingTracked
 ): Promise<Answer> {
+  const repeated = repeatedIn(argv)
+  if (repeated.length > 0) return mistaking(repeated)
   return await answering(async (done) => {
     const built = builtIn(argv, given, inputIn, MECHANICAL_KIND, TAKES, NO_BARE)
     if ("code" in built) return built

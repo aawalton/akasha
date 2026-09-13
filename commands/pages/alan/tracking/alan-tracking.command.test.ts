@@ -37,8 +37,6 @@ const ADDS = "change-mechanical/add-file-of-any-kind"
 
 const DAY = "the day this call composed\n"
 
-const ROW = '{"title":"Slept","startTime":"2026-09-01T12:00:00.000Z"}\n'
-
 const BANANA = "one banana\n"
 
 afterAll(scratch.sweep)
@@ -108,30 +106,36 @@ test("a stray path is refused before anything is composed", async () => {
   expect(said.refusals).toEqual([outsideTracked(STRAY_PAGE)])
 })
 
-test("a day and the rows beside it are named as the change adding a file, with the message said", () => {
+test("a day is named as the change adding a file, with the message said", () => {
   const root = scratch.rootFor("akasha-tracking-")
   const built = builtIn(
-    [
-      "--file-path",
-      AT,
-      "--content-file",
-      bodyAt(root, "day.txt", DAY),
-      "--file-path",
-      ROWS_AT,
-      "--content-file",
-      bodyAt(root, "rows.txt", ROW),
-      "--message",
-      "held",
-    ],
+    ["--file-path", AT, "--content-file", bodyAt(root, "day.txt", DAY), "--message", "held"],
     servingIn(root),
     inputIn,
     MECHANICAL
   )
   if ("code" in built) throw new Error(built.refusals.join("\n"))
   expect(built.message).toBe("held")
-  expect(askedFor(built.changes)).toEqual([
-    { at: ADDS, given: { at: AT, body: DAY } },
-    { at: ADDS, given: { at: ROWS_AT, body: ROW } },
+  expect(askedFor(built.changes)).toEqual([{ at: ADDS, given: { at: AT, body: DAY } }])
+})
+
+test("a second file path is refused, and the refusal says to make a call for each file", async () => {
+  const said = await alanTracking(["--file-path", AT, "--file-path", ROWS_AT], givenIn())
+  expect(said.refusals).toEqual([
+    "one call writes one file, and this call says `--file-path` 2 times" +
+      " — say each file in a call of its own",
+  ])
+  expect(said.code).toBe(1)
+})
+
+test("a second content file is refused the same way", async () => {
+  const said = await alanTracking(
+    ["--file-path", AT, "--content-file", "day.txt", "--content-file", "rows.txt"],
+    givenIn()
+  )
+  expect(said.refusals).toEqual([
+    "one call writes one file, and this call says `--content-file` 2 times" +
+      " — say each file in a call of its own",
   ])
 })
 
