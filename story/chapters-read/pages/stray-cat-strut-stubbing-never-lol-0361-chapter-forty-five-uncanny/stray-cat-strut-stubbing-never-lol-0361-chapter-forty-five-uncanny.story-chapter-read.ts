@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0361ChapterFortyFiveUncanny = {
   position: 361,
   ownLength: 1498,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1115785/chapter-forty-five-uncanny",
-  externalId: "1115785",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1115785",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1115785/chapter-forty-five-uncanny",
+    },
+  ],
   publishedAt: "2023-02-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

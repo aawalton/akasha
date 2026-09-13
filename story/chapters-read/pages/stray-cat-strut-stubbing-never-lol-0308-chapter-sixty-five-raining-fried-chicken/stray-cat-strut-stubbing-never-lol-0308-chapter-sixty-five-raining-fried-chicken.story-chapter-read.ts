@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0308ChapterSixtyFiveRainingFriedChicke
   position: 308,
   ownLength: 1500,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/963741/chapter-sixty-five-raining-fried-chicken",
-  externalId: "963741",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "963741",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/963741/chapter-sixty-five-raining-fried-chicken",
+    },
+  ],
   publishedAt: "2022-08-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

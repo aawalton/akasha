@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0262ChapterTwentyTwoJollyOldDayJob = {
   position: 262,
   ownLength: 1479,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/869019/chapter-twenty-two-jolly-old-day-job",
-  externalId: "869019",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "869019",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/869019/chapter-twenty-two-jolly-old-day-job",
+    },
+  ],
   publishedAt: "2022-03-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

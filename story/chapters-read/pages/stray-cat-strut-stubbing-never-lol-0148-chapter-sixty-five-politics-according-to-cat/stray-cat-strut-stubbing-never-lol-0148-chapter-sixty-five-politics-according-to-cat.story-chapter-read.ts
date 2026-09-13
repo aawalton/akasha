@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0148ChapterSixtyFivePoliticsAccordingT
   position: 148,
   ownLength: 1439,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/688146/chapter-sixty-five-politics-according-to-cat",
-  externalId: "688146",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "688146",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/688146/chapter-sixty-five-politics-according-to-cat",
+    },
+  ],
   publishedAt: "2021-05-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

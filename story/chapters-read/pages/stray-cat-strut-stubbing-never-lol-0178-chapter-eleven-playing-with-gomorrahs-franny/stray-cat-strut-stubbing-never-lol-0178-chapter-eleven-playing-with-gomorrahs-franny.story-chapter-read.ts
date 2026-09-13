@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0178ChapterElevenPlayingWithGomorrahsF
   position: 178,
   ownLength: 1457,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/718001/chapter-eleven-playing-with-gomorrahs-franny",
-  externalId: "718001",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "718001",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/718001/chapter-eleven-playing-with-gomorrahs-franny",
+    },
+  ],
   publishedAt: "2021-07-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

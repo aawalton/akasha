@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0244ChapterFourHowToStallTheEndOfTheWo
   position: 244,
   ownLength: 1536,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/840668/chapter-four-how-to-stall-the-end-of-the-world",
-  externalId: "840668",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "840668",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/840668/chapter-four-how-to-stall-the-end-of-the-world",
+    },
+  ],
   publishedAt: "2022-02-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

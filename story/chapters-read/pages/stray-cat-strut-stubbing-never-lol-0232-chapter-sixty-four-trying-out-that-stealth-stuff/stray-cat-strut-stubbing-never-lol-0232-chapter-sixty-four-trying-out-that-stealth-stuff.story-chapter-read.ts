@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0232ChapterSixtyFourTryingOutThatSteal
   position: 232,
   ownLength: 1573,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/819565/chapter-sixty-four-trying-out-that-stealth-stuff",
-  externalId: "819565",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "819565",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/819565/chapter-sixty-four-trying-out-that-stealth-stuff",
+    },
+  ],
   publishedAt: "2022-01-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

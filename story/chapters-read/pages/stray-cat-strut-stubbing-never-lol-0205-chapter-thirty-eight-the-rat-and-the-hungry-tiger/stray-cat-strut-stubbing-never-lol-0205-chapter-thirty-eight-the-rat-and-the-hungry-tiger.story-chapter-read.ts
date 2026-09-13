@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0205ChapterThirtyEightTheRatAndTheHung
   position: 205,
   ownLength: 1427,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/759388/chapter-thirty-eight-the-rat-and-the-hungry-tiger",
-  externalId: "759388",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "759388",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/759388/chapter-thirty-eight-the-rat-and-the-hungry-tiger",
+    },
+  ],
   publishedAt: "2021-09-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

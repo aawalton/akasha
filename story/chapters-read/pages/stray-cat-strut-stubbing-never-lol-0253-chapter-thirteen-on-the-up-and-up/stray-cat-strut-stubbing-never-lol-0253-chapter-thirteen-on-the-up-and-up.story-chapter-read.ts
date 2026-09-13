@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0253ChapterThirteenOnTheUpAndUp = {
   position: 253,
   ownLength: 1499,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/850943/chapter-thirteen-on-the-up-and-up",
-  externalId: "850943",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "850943",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/850943/chapter-thirteen-on-the-up-and-up",
+    },
+  ],
   publishedAt: "2022-02-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

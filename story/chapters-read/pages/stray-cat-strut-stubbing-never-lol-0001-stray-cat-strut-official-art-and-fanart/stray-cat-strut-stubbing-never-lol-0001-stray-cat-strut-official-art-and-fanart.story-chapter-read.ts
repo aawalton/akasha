@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0001StrayCatStrutOfficialArtAndFanart 
   position: 1,
   ownLength: 31,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/850960/stray-cat-strut-official-art-and-fanart",
-  externalId: "850960",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "850960",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/850960/stray-cat-strut-official-art-and-fanart",
+    },
+  ],
   publishedAt: "2022-02-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0279ChapterThirtyEightBasement = {
   position: 279,
   ownLength: 1439,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/905824/chapter-thirty-eight-basement",
-  externalId: "905824",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "905824",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/905824/chapter-thirty-eight-basement",
+    },
+  ],
   publishedAt: "2022-05-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

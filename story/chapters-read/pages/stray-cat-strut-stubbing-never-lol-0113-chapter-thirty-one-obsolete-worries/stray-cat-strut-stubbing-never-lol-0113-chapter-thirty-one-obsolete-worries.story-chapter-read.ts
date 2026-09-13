@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0113ChapterThirtyOneObsoleteWorries = 
   position: 113,
   ownLength: 1383,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/633214/chapter-thirty-one-obsolete-worries",
-  externalId: "633214",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "633214",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/633214/chapter-thirty-one-obsolete-worries",
+    },
+  ],
   publishedAt: "2021-02-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

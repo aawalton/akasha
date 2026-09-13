@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0363StrayCatStrutVolumeThreeIsOut = {
   position: 363,
   ownLength: 320,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1119439/stray-cat-strut-volume-three-is-out",
-  externalId: "1119439",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1119439",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1119439/stray-cat-strut-volume-three-is-out",
+    },
+  ],
   publishedAt: "2023-02-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

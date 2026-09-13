@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0225ChapterFiftySevenAssassination = {
   position: 225,
   ownLength: 1481,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/788776/chapter-fifty-seven-assassination",
-  externalId: "788776",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "788776",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/788776/chapter-fifty-seven-assassination",
+    },
+  ],
   publishedAt: "2021-11-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

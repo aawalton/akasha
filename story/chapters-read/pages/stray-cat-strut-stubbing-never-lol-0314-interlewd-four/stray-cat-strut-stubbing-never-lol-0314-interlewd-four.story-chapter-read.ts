@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0314InterlewdFour = {
   position: 314,
   ownLength: 2314,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/974902/interlewd-four",
-  externalId: "974902",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "974902",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/974902/interlewd-four",
+    },
+  ],
   publishedAt: "2022-08-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

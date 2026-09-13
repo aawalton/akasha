@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0328StrayCatStrutMyalisArtContest = {
   position: 328,
   ownLength: 38,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1018584/stray-cat-strut-myalis-art-contest",
-  externalId: "1018584",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1018584",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1018584/stray-cat-strut-myalis-art-contest",
+    },
+  ],
   publishedAt: "2022-10-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

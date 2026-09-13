@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0315ChapterOneGoodInvestments = {
   position: 315,
   ownLength: 1444,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/987874/chapter-one-good-investments",
-  externalId: "987874",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "987874",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/987874/chapter-one-good-investments",
+    },
+  ],
   publishedAt: "2022-09-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

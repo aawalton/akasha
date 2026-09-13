@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0327ChapterThirteenActuallyCool = {
   position: 327,
   ownLength: 1473,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1017914/chapter-thirteen-actually-cool",
-  externalId: "1017914",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1017914",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1017914/chapter-thirteen-actually-cool",
+    },
+  ],
   publishedAt: "2022-10-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

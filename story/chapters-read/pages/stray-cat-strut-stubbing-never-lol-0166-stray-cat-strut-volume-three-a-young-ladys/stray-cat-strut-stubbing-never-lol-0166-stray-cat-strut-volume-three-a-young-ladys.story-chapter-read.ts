@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0166StrayCatStrutVolumeThreeAYoungLady
   position: 166,
   ownLength: 91,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/707372/stray-cat-strut-volume-three-a-young-ladys-hopepunk",
-  externalId: "707372",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "707372",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/707372/stray-cat-strut-volume-three-a-young-ladys-hopepunk",
+    },
+  ],
   publishedAt: "2021-06-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

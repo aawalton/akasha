@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0224ChapterFiftySixSpeakingUp = {
   position: 224,
   ownLength: 1547,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/788391/chapter-fifty-six-speaking-up",
-  externalId: "788391",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "788391",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/788391/chapter-fifty-six-speaking-up",
+    },
+  ],
   publishedAt: "2021-11-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

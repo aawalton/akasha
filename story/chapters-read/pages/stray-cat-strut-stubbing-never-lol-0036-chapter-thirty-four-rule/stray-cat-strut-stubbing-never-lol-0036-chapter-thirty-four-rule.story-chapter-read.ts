@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0036ChapterThirtyFourRule = {
   position: 36,
   ownLength: 1045,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/538096/chapter-thirty-four-rule",
-  externalId: "538096",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "538096",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/538096/chapter-thirty-four-rule",
+    },
+  ],
   publishedAt: "2020-08-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

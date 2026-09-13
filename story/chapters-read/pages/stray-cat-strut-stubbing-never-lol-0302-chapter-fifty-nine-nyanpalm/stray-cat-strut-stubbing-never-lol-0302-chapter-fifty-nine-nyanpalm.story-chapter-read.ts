@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0302ChapterFiftyNineNyanpalm = {
   position: 302,
   ownLength: 1454,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/948847/chapter-fifty-nine-nyanpalm",
-  externalId: "948847",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "948847",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/948847/chapter-fifty-nine-nyanpalm",
+    },
+  ],
   publishedAt: "2022-07-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

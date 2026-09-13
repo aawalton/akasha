@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0094ChapterThirteenIHavePaws = {
   position: 94,
   ownLength: 1456,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/603267/chapter-thirteen-i-have-paws",
-  externalId: "603267",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "603267",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/603267/chapter-thirteen-i-have-paws",
+    },
+  ],
   publishedAt: "2020-12-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

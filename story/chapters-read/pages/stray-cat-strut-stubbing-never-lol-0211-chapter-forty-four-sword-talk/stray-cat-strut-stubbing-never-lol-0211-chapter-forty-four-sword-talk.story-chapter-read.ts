@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0211ChapterFortyFourSwordTalk = {
   position: 211,
   ownLength: 1452,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/769891/chapter-forty-four-sword-talk",
-  externalId: "769891",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "769891",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/769891/chapter-forty-four-sword-talk",
+    },
+  ],
   publishedAt: "2021-10-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

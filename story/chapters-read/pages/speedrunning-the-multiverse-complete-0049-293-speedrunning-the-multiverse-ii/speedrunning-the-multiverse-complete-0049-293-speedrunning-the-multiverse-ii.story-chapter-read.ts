@@ -9,10 +9,14 @@ export const speedrunningTheMultiverseComplete0049293SpeedrunningTheMultiverseIi
   position: 49,
   ownLength: 1800,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1322400/293-speedrunning-the-multiverse-ii",
-  externalId: "1322400",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1322400",
+      externalLink:
+        "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1322400/293-speedrunning-the-multiverse-ii",
+    },
+  ],
   publishedAt: "2023-08-26",
   ownProgress: 1800,
   completedAt: "2026-06-29T22:43:21.671Z",

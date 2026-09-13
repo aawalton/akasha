@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0317ChapterThreeANotSoQuietHomeLife = 
   position: 317,
   ownLength: 1496,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/993454/chapter-three-a-not-so-quiet-home-life",
-  externalId: "993454",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "993454",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/993454/chapter-three-a-not-so-quiet-home-life",
+    },
+  ],
   publishedAt: "2022-09-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

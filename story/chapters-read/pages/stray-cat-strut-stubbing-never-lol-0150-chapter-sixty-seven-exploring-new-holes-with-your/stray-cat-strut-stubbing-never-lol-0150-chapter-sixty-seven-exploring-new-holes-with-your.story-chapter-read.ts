@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0150ChapterSixtySevenExploringNewHoles
   position: 150,
   ownLength: 1447,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/689084/chapter-sixty-seven-exploring-new-holes-with-your",
-  externalId: "689084",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "689084",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/689084/chapter-sixty-seven-exploring-new-holes-with-your",
+    },
+  ],
   publishedAt: "2021-05-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0189ChapterTwentyTwoPiracyAcrossTheShi
   position: 189,
   ownLength: 1493,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/731672/chapter-twenty-two-piracy-across-the-shitty-seas",
-  externalId: "731672",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "731672",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/731672/chapter-twenty-two-piracy-across-the-shitty-seas",
+    },
+  ],
   publishedAt: "2021-08-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0004ChapterTwoWalkaboutPunks = {
   position: 4,
   ownLength: 1965,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/517882/chapter-two-walkabout-punks",
-  externalId: "517882",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "517882",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/517882/chapter-two-walkabout-punks",
+    },
+  ],
   publishedAt: "2020-06-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

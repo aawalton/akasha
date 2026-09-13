@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0037ChapterThirtyFiveDeathFlags = {
   position: 37,
   ownLength: 1009,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/538510/chapter-thirty-five-death-flags",
-  externalId: "538510",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "538510",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/538510/chapter-thirty-five-death-flags",
+    },
+  ],
   publishedAt: "2020-08-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

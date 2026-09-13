@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0146ChapterSixtyThreeRodOfGod = {
   position: 146,
   ownLength: 1428,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/686235/chapter-sixty-three-rod-of-god",
-  externalId: "686235",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "686235",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/686235/chapter-sixty-three-rod-of-god",
+    },
+  ],
   publishedAt: "2021-05-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

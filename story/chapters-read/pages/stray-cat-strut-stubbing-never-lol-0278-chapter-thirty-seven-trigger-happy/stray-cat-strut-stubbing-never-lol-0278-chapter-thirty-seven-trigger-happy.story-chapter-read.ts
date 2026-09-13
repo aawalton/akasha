@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0278ChapterThirtySevenTriggerHappy = {
   position: 278,
   ownLength: 1521,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/904456/chapter-thirty-seven-trigger-happy",
-  externalId: "904456",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "904456",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/904456/chapter-thirty-seven-trigger-happy",
+    },
+  ],
   publishedAt: "2022-05-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

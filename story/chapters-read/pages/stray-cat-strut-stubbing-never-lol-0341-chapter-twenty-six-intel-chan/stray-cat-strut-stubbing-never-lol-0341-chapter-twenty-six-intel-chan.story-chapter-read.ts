@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0341ChapterTwentySixIntelChan = {
   position: 341,
   ownLength: 1479,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1051793/chapter-twenty-six-intel-chan",
-  externalId: "1051793",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1051793",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1051793/chapter-twenty-six-intel-chan",
+    },
+  ],
   publishedAt: "2022-11-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

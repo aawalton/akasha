@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0121ChapterThirtyNineWhereThingsGo = {
   position: 121,
   ownLength: 1450,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/645233/chapter-thirty-nine-where-things-go",
-  externalId: "645233",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "645233",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/645233/chapter-thirty-nine-where-things-go",
+    },
+  ],
   publishedAt: "2021-03-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

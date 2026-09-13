@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0335ChapterTwentyNanomachinesSon = {
   position: 335,
   ownLength: 1547,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1035281/chapter-twenty-nanomachines-son",
-  externalId: "1035281",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1035281",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1035281/chapter-twenty-nanomachines-son",
+    },
+  ],
   publishedAt: "2022-11-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

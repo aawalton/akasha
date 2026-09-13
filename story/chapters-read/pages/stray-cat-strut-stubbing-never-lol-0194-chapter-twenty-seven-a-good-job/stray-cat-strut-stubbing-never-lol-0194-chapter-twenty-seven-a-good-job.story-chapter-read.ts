@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0194ChapterTwentySevenAGoodJob = {
   position: 194,
   ownLength: 1474,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/740478/chapter-twenty-seven-a-good-job",
-  externalId: "740478",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "740478",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/740478/chapter-twenty-seven-a-good-job",
+    },
+  ],
   publishedAt: "2021-08-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

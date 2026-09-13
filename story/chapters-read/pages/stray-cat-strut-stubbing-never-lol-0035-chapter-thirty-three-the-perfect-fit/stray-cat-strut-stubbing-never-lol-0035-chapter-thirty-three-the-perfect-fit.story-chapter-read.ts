@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0035ChapterThirtyThreeThePerfectFit = 
   position: 35,
   ownLength: 1102,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/537566/chapter-thirty-three-the-perfect-fit",
-  externalId: "537566",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "537566",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/537566/chapter-thirty-three-the-perfect-fit",
+    },
+  ],
   publishedAt: "2020-08-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

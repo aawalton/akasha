@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0084ChapterThreePostCoitalInterruption
   position: 84,
   ownLength: 1525,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/587288/chapter-three-post-coital-interruptions",
-  externalId: "587288",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "587288",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/587288/chapter-three-post-coital-interruptions",
+    },
+  ],
   publishedAt: "2020-11-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

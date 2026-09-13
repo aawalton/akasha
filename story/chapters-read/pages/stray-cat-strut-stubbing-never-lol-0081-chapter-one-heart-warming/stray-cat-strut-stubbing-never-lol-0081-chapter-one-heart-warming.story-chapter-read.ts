@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0081ChapterOneHeartWarming = {
   position: 81,
   ownLength: 1642,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/585806/chapter-one-heart-warming",
-  externalId: "585806",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "585806",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/585806/chapter-one-heart-warming",
+    },
+  ],
   publishedAt: "2020-11-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

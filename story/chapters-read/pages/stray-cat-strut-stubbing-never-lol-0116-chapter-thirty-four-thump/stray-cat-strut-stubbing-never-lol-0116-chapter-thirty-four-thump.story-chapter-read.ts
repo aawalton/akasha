@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0116ChapterThirtyFourThump = {
   position: 116,
   ownLength: 1541,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/637034/chapter-thirty-four-thump",
-  externalId: "637034",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "637034",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/637034/chapter-thirty-four-thump",
+    },
+  ],
   publishedAt: "2021-02-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

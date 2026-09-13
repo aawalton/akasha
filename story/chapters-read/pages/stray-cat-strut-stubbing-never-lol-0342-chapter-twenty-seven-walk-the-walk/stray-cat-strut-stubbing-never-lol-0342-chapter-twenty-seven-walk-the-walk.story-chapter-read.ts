@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0342ChapterTwentySevenWalkTheWalk = {
   position: 342,
   ownLength: 1475,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1053486/chapter-twenty-seven-walk-the-walk",
-  externalId: "1053486",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1053486",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1053486/chapter-twenty-seven-walk-the-walk",
+    },
+  ],
   publishedAt: "2022-12-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

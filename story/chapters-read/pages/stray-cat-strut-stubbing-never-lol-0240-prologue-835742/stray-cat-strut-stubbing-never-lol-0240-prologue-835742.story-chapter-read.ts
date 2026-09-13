@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0240Prologue835742 = {
   position: 240,
   ownLength: 1553,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/835742/prologue",
-  externalId: "835742",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "835742",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/835742/prologue",
+    },
+  ],
   publishedAt: "2022-01-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0006Streambomb = {
   position: 6,
   ownLength: 3146,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/130456/squid-girl-evolution-monster-girl-evolution-litrpg/chapter/2575543/streambomb",
-  externalId: "2575543",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2575543",
+      externalLink:
+        "https://www.royalroad.com/fiction/130456/squid-girl-evolution-monster-girl-evolution-litrpg/chapter/2575543/streambomb",
+    },
+  ],
   publishedAt: "2025-09-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

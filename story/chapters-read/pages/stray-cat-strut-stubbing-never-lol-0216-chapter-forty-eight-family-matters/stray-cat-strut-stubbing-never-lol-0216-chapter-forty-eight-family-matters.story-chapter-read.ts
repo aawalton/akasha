@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0216ChapterFortyEightFamilyMatters = {
   position: 216,
   ownLength: 1433,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/774926/chapter-forty-eight-family-matters",
-  externalId: "774926",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "774926",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/774926/chapter-forty-eight-family-matters",
+    },
+  ],
   publishedAt: "2021-10-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

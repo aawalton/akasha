@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0320ChapterSixOutrank = {
   position: 320,
   ownLength: 1464,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/999971/chapter-six-outrank",
-  externalId: "999971",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "999971",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/999971/chapter-six-outrank",
+    },
+  ],
   publishedAt: "2022-09-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

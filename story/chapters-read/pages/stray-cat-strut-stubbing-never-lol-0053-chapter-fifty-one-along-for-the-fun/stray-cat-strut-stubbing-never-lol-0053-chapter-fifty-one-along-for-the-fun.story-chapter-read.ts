@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0053ChapterFiftyOneAlongForTheFun = {
   position: 53,
   ownLength: 1447,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/552493/chapter-fifty-one-along-for-the-fun",
-  externalId: "552493",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "552493",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/552493/chapter-fifty-one-along-for-the-fun",
+    },
+  ],
   publishedAt: "2020-09-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

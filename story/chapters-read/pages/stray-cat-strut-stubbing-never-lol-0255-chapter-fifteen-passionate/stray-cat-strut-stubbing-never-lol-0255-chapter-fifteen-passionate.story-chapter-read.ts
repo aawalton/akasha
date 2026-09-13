@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0255ChapterFifteenPassionate = {
   position: 255,
   ownLength: 1462,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/853069/chapter-fifteen-passionate",
-  externalId: "853069",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "853069",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/853069/chapter-fifteen-passionate",
+    },
+  ],
   publishedAt: "2022-02-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

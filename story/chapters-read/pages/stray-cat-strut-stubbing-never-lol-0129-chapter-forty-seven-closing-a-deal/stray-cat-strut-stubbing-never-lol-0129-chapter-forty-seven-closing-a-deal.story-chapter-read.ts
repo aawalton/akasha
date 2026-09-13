@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0129ChapterFortySevenClosingADeal = {
   position: 129,
   ownLength: 1510,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/660751/chapter-forty-seven-closing-a-deal",
-  externalId: "660751",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "660751",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/660751/chapter-forty-seven-closing-a-deal",
+    },
+  ],
   publishedAt: "2021-04-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0140ChapterFiftySevenGreedyBits = {
   position: 140,
   ownLength: 1511,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/680584/chapter-fifty-seven-greedy-bits",
-  externalId: "680584",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "680584",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/680584/chapter-fifty-seven-greedy-bits",
+    },
+  ],
   publishedAt: "2021-05-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

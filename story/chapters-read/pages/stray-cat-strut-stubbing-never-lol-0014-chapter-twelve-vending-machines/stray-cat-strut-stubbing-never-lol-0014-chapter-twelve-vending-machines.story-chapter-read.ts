@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0014ChapterTwelveVendingMachines = {
   position: 14,
   ownLength: 1237,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/531590/chapter-twelve-vending-machines",
-  externalId: "531590",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "531590",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/531590/chapter-twelve-vending-machines",
+    },
+  ],
   publishedAt: "2020-07-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

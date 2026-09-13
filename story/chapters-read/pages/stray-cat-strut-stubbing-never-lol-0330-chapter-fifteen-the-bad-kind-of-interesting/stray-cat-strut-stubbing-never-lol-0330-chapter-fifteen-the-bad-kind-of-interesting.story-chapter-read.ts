@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0330ChapterFifteenTheBadKindOfInterest
   position: 330,
   ownLength: 1486,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1021078/chapter-fifteen-the-bad-kind-of-interesting",
-  externalId: "1021078",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1021078",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1021078/chapter-fifteen-the-bad-kind-of-interesting",
+    },
+  ],
   publishedAt: "2022-10-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0175ChapterEightTheBarAtTheBottomOfThe
   position: 175,
   ownLength: 1518,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/716186/chapter-eight-the-bar-at-the-bottom-of-the-city",
-  externalId: "716186",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "716186",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/716186/chapter-eight-the-bar-at-the-bottom-of-the-city",
+    },
+  ],
   publishedAt: "2021-07-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

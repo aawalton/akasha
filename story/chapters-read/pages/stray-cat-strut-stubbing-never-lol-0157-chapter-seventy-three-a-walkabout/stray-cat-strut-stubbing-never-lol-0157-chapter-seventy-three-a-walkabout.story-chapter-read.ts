@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0157ChapterSeventyThreeAWalkabout = {
   position: 157,
   ownLength: 1503,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/693807/chapter-seventy-three-a-walkabout",
-  externalId: "693807",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "693807",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/693807/chapter-seventy-three-a-walkabout",
+    },
+  ],
   publishedAt: "2021-06-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0304ChapterSixtyOneGoKillTheThing = {
   position: 304,
   ownLength: 1519,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/953329/chapter-sixty-one-go-kill-the-thing",
-  externalId: "953329",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "953329",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/953329/chapter-sixty-one-go-kill-the-thing",
+    },
+  ],
   publishedAt: "2022-07-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

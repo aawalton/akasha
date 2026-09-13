@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0072ChapterSeventyARespite = {
   position: 72,
   ownLength: 1582,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/572880/chapter-seventy-a-respite",
-  externalId: "572880",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "572880",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/572880/chapter-seventy-a-respite",
+    },
+  ],
   publishedAt: "2020-10-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

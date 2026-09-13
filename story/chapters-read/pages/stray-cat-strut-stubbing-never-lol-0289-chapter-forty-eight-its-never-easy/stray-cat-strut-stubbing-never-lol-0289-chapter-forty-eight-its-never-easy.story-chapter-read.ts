@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0289ChapterFortyEightItsNeverEasy = {
   position: 289,
   ownLength: 1452,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/927719/chapter-forty-eight-its-never-easy",
-  externalId: "927719",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "927719",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/927719/chapter-forty-eight-its-never-easy",
+    },
+  ],
   publishedAt: "2022-06-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

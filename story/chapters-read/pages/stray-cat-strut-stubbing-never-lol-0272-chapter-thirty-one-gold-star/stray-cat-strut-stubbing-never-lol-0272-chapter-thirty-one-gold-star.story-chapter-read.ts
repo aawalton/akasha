@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0272ChapterThirtyOneGoldStar = {
   position: 272,
   ownLength: 1452,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/889035/chapter-thirty-one-gold-star",
-  externalId: "889035",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "889035",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/889035/chapter-thirty-one-gold-star",
+    },
+  ],
   publishedAt: "2022-04-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

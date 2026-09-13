@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0311ChapterSixtyEightGettingHome = {
   position: 311,
   ownLength: 1549,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/971890/chapter-sixty-eight-getting-home",
-  externalId: "971890",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "971890",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/971890/chapter-sixty-eight-getting-home",
+    },
+  ],
   publishedAt: "2022-08-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

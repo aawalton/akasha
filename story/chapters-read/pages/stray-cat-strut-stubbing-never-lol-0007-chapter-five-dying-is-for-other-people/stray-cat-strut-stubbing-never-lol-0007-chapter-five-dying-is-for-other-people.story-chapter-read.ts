@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0007ChapterFiveDyingIsForOtherPeople =
   position: 7,
   ownLength: 1163,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/527782/chapter-five-dying-is-for-other-people",
-  externalId: "527782",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "527782",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/527782/chapter-five-dying-is-for-other-people",
+    },
+  ],
   publishedAt: "2020-07-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

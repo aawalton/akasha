@@ -9,10 +9,14 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0008Fleshmob = {
   position: 8,
   ownLength: 3187,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/130456/squid-girl-evolution-monster-girl-evolution-litrpg/chapter/2595628/fleshmob",
-  externalId: "2595628",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2595628",
+      externalLink:
+        "https://www.royalroad.com/fiction/130456/squid-girl-evolution-monster-girl-evolution-litrpg/chapter/2595628/fleshmob",
+    },
+  ],
   publishedAt: "2025-09-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

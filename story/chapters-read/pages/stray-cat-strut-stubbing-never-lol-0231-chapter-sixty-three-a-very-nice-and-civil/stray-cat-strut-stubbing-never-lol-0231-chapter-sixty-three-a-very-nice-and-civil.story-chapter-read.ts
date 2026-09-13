@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0231ChapterSixtyThreeAVeryNiceAndCivil
   position: 231,
   ownLength: 1441,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/818300/chapter-sixty-three-a-very-nice-and-civil-discussion",
-  externalId: "818300",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "818300",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/818300/chapter-sixty-three-a-very-nice-and-civil-discussion",
+    },
+  ],
   publishedAt: "2022-01-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0066ChapterSixtyFourTougherMeansMoreBo
   position: 66,
   ownLength: 1522,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/565401/chapter-sixty-four-tougher-means-more-boom",
-  externalId: "565401",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "565401",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/565401/chapter-sixty-four-tougher-means-more-boom",
+    },
+  ],
   publishedAt: "2020-10-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

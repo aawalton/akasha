@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0117ChapterThirtyFiveDogGoneWrong = {
   position: 117,
   ownLength: 1570,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/638214/chapter-thirty-five-dog-gone-wrong",
-  externalId: "638214",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "638214",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/638214/chapter-thirty-five-dog-gone-wrong",
+    },
+  ],
   publishedAt: "2021-02-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

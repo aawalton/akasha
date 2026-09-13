@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0356ChapterFortyAllAtOnce = {
   position: 356,
   ownLength: 1433,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1096255/chapter-forty-all-at-once",
-  externalId: "1096255",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1096255",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1096255/chapter-forty-all-at-once",
+    },
+  ],
   publishedAt: "2023-01-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0027ChapterTwentyFiveAPadOnTheWound = 
   position: 27,
   ownLength: 997,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/535166/chapter-twenty-five-a-pad-on-the-wound",
-  externalId: "535166",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "535166",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/535166/chapter-twenty-five-a-pad-on-the-wound",
+    },
+  ],
   publishedAt: "2020-08-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0023ChapterTwentyOneDescent = {
   position: 23,
   ownLength: 1211,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/534130/chapter-twenty-one-descent",
-  externalId: "534130",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "534130",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/534130/chapter-twenty-one-descent",
+    },
+  ],
   publishedAt: "2020-08-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

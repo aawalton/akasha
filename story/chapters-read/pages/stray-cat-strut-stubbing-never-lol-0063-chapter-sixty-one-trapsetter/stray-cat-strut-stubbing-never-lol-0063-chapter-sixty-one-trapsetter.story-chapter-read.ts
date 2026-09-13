@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0063ChapterSixtyOneTrapsetter = {
   position: 63,
   ownLength: 1569,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/561444/chapter-sixty-one-trapsetter",
-  externalId: "561444",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "561444",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/561444/chapter-sixty-one-trapsetter",
+    },
+  ],
   publishedAt: "2020-09-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

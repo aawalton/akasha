@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0271ChapterThirtyWhenTheTreesStartSpea
   position: 271,
   ownLength: 1471,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/886948/chapter-thirty-when-the-trees-start-speaking-plant",
-  externalId: "886948",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "886948",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/886948/chapter-thirty-when-the-trees-start-speaking-plant",
+    },
+  ],
   publishedAt: "2022-04-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

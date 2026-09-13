@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0338ChapterTwentyThreeCatThemedTowerDe
   position: 338,
   ownLength: 1478,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1043006/chapter-twenty-three-cat-themed-tower-defence",
-  externalId: "1043006",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1043006",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1043006/chapter-twenty-three-cat-themed-tower-defence",
+    },
+  ],
   publishedAt: "2022-11-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

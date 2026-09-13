@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0204ChapterThirtySevenHeadingForGreene
   position: 204,
   ownLength: 1572,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/758187/chapter-thirty-seven-heading-for-greener-pastures",
-  externalId: "758187",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "758187",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/758187/chapter-thirty-seven-heading-for-greener-pastures",
+    },
+  ],
   publishedAt: "2021-09-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

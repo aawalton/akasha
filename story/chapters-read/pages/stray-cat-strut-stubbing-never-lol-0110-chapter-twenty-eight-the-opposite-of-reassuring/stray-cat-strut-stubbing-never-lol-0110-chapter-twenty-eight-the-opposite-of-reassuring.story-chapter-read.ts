@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0110ChapterTwentyEightTheOppositeOfRea
   position: 110,
   ownLength: 1424,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/629313/chapter-twenty-eight-the-opposite-of-reassuring",
-  externalId: "629313",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "629313",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/629313/chapter-twenty-eight-the-opposite-of-reassuring",
+    },
+  ],
   publishedAt: "2021-02-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

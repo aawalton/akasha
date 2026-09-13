@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0174ChapterSevenKnockingOverTheBoard =
   position: 174,
   ownLength: 1473,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/715938/chapter-seven-knocking-over-the-board",
-  externalId: "715938",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "715938",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/715938/chapter-seven-knocking-over-the-board",
+    },
+  ],
   publishedAt: "2021-07-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

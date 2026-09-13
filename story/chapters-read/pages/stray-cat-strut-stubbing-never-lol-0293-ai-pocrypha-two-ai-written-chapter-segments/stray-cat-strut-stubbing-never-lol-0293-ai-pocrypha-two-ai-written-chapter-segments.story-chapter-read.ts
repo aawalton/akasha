@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0293AiPocryphaTwoAiWrittenChapterSegme
   position: 293,
   ownLength: 1500,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/929974/ai-pocrypha-two-ai-written-chapter-segments",
-  externalId: "929974",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "929974",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/929974/ai-pocrypha-two-ai-written-chapter-segments",
+    },
+  ],
   publishedAt: "2022-06-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

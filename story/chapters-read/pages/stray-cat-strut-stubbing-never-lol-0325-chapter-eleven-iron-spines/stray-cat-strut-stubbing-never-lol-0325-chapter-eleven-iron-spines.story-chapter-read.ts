@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0325ChapterElevenIronSpines = {
   position: 325,
   ownLength: 1458,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1014226/chapter-eleven-iron-spines",
-  externalId: "1014226",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1014226",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1014226/chapter-eleven-iron-spines",
+    },
+  ],
   publishedAt: "2022-10-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

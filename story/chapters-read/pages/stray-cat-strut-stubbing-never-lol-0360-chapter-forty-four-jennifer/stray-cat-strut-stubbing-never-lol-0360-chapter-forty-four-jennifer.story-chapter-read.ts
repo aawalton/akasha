@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0360ChapterFortyFourJennifer = {
   position: 360,
   ownLength: 1438,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1113995/chapter-forty-four-jennifer",
-  externalId: "1113995",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1113995",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1113995/chapter-forty-four-jennifer",
+    },
+  ],
   publishedAt: "2023-02-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

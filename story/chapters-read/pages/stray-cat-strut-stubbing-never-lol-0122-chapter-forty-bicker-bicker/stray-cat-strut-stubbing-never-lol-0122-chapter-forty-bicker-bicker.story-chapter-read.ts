@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0122ChapterFortyBickerBicker = {
   position: 122,
   ownLength: 1513,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/648043/chapter-forty-bicker-bicker",
-  externalId: "648043",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "648043",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/648043/chapter-forty-bicker-bicker",
+    },
+  ],
   publishedAt: "2021-03-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

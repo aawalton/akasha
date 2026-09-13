@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0171ChapterFourBelowTheCity = {
   position: 171,
   ownLength: 1489,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/712433/chapter-four-below-the-city",
-  externalId: "712433",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "712433",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/712433/chapter-four-below-the-city",
+    },
+  ],
   publishedAt: "2021-07-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

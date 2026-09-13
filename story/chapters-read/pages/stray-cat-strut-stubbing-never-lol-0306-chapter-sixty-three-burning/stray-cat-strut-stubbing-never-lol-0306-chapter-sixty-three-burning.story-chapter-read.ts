@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0306ChapterSixtyThreeBurning = {
   position: 306,
   ownLength: 1420,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/958473/chapter-sixty-three-burning",
-  externalId: "958473",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "958473",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/958473/chapter-sixty-three-burning",
+    },
+  ],
   publishedAt: "2022-07-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

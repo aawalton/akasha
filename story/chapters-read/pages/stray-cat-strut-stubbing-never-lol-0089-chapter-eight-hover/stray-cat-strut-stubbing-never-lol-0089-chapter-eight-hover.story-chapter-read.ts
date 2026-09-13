@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0089ChapterEightHover = {
   position: 89,
   ownLength: 1544,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/591655/chapter-eight-hover",
-  externalId: "591655",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "591655",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/591655/chapter-eight-hover",
+    },
+  ],
   publishedAt: "2020-11-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

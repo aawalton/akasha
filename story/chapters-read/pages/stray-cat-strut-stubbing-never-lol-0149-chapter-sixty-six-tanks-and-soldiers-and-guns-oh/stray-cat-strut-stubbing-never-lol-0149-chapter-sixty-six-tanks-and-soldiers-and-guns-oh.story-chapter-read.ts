@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0149ChapterSixtySixTanksAndSoldiersAnd
   position: 149,
   ownLength: 1522,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/688619/chapter-sixty-six-tanks-and-soldiers-and-guns",
-  externalId: "688619",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "688619",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/688619/chapter-sixty-six-tanks-and-soldiers-and-guns",
+    },
+  ],
   publishedAt: "2021-05-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

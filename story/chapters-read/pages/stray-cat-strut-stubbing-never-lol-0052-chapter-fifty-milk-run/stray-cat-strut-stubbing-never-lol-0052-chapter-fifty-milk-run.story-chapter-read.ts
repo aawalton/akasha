@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0052ChapterFiftyMilkRun = {
   position: 52,
   ownLength: 1459,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/551414/chapter-fifty-milk-run",
-  externalId: "551414",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "551414",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/551414/chapter-fifty-milk-run",
+    },
+  ],
   publishedAt: "2020-09-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

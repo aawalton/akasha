@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0082ChapterTwoASliceOfHappiness = {
   position: 82,
   ownLength: 1646,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/586419/chapter-two-a-slice-of-happiness",
-  externalId: "586419",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "586419",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/586419/chapter-two-a-slice-of-happiness",
+    },
+  ],
   publishedAt: "2020-11-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

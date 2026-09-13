@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0138ChapterFiftyFiveMakingAnEntrance =
   position: 138,
   ownLength: 1533,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/678248/chapter-fifty-five-making-an-entrance",
-  externalId: "678248",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "678248",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/678248/chapter-fifty-five-making-an-entrance",
+    },
+  ],
   publishedAt: "2021-05-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

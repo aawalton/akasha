@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0077ChapterSeventyFiveAFlockOfTrouble 
   position: 77,
   ownLength: 1534,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/578675/chapter-seventy-five-a-flock-of-trouble",
-  externalId: "578675",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "578675",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/578675/chapter-seventy-five-a-flock-of-trouble",
+    },
+  ],
   publishedAt: "2020-11-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

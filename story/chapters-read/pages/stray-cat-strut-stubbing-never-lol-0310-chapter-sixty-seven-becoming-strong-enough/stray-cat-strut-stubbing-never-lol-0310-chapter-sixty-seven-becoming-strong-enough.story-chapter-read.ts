@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0310ChapterSixtySevenBecomingStrongEno
   position: 310,
   ownLength: 1530,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/969129/chapter-sixty-seven-becoming-strong-enough",
-  externalId: "969129",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "969129",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/969129/chapter-sixty-seven-becoming-strong-enough",
+    },
+  ],
   publishedAt: "2022-08-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

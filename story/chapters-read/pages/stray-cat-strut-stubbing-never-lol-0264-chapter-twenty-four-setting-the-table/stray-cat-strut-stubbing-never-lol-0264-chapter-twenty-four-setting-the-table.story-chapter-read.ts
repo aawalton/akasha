@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0264ChapterTwentyFourSettingTheTable =
   position: 264,
   ownLength: 1527,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/873094/chapter-twenty-four-setting-the-table",
-  externalId: "873094",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "873094",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/873094/chapter-twenty-four-setting-the-table",
+    },
+  ],
   publishedAt: "2022-03-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

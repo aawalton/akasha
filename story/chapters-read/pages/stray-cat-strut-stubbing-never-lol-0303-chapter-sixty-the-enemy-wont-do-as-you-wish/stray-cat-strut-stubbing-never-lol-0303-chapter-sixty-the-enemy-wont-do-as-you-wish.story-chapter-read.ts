@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0303ChapterSixtyTheEnemyWontDoAsYouWis
   position: 303,
   ownLength: 1420,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/951897/chapter-sixty-the-enemy-wont-do-as-you-wish",
-  externalId: "951897",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "951897",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/951897/chapter-sixty-the-enemy-wont-do-as-you-wish",
+    },
+  ],
   publishedAt: "2022-07-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

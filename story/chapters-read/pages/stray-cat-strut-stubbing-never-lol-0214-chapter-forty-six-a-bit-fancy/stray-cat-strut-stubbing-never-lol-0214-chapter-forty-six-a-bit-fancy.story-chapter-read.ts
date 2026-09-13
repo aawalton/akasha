@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0214ChapterFortySixABitFancy = {
   position: 214,
   ownLength: 1464,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/772686/chapter-forty-six-a-bit-fancy",
-  externalId: "772686",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "772686",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/772686/chapter-forty-six-a-bit-fancy",
+    },
+  ],
   publishedAt: "2021-10-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

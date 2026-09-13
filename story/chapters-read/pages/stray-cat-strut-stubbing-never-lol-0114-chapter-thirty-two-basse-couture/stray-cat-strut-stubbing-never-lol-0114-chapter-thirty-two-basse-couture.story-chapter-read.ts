@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0114ChapterThirtyTwoBasseCouture = {
   position: 114,
   ownLength: 1474,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/634405/chapter-thirty-two-basse-couture",
-  externalId: "634405",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "634405",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/634405/chapter-thirty-two-basse-couture",
+    },
+  ],
   publishedAt: "2021-02-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

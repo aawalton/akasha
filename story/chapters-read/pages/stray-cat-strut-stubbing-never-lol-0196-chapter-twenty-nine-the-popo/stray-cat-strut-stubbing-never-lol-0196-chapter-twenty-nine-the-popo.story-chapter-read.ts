@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0196ChapterTwentyNineThePopo = {
   position: 196,
   ownLength: 1464,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/744134/chapter-twenty-nine-the-popo",
-  externalId: "744134",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "744134",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/744134/chapter-twenty-nine-the-popo",
+    },
+  ],
   publishedAt: "2021-09-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

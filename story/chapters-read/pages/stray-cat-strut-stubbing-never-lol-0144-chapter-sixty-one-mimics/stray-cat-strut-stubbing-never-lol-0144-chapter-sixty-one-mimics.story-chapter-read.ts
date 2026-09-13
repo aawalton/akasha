@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0144ChapterSixtyOneMimics = {
   position: 144,
   ownLength: 1524,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/684079/chapter-sixty-one-mimics",
-  externalId: "684079",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "684079",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/684079/chapter-sixty-one-mimics",
+    },
+  ],
   publishedAt: "2021-05-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

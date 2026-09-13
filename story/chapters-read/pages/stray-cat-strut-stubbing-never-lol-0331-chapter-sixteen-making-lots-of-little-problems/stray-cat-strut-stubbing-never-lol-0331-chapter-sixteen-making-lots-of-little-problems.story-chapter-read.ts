@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0331ChapterSixteenMakingLotsOfLittlePr
   position: 331,
   ownLength: 1488,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1023900/chapter-sixteen-making-lots-of-little-problems",
-  externalId: "1023900",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1023900",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1023900/chapter-sixteen-making-lots-of-little-problems",
+    },
+  ],
   publishedAt: "2022-10-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

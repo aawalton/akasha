@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0131ChapterFortyNineBeingHellaFancy = 
   position: 131,
   ownLength: 1501,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/664704/chapter-forty-nine-being-hella-fancy",
-  externalId: "664704",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "664704",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/664704/chapter-forty-nine-being-hella-fancy",
+    },
+  ],
   publishedAt: "2021-04-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

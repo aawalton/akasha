@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0159ChapterSeventyFiveTriggeringButThe
   position: 159,
   ownLength: 1439,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/696508/chapter-seventy-five-triggering-but-the-fun-sort",
-  externalId: "696508",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "696508",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/696508/chapter-seventy-five-triggering-but-the-fun-sort",
+    },
+  ],
   publishedAt: "2021-06-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

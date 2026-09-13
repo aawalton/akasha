@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0047ChapterFortyFiveAirSuperiority = {
   position: 47,
   ownLength: 1625,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/545419/chapter-forty-five-air-superiority",
-  externalId: "545419",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "545419",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/545419/chapter-forty-five-air-superiority",
+    },
+  ],
   publishedAt: "2020-08-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

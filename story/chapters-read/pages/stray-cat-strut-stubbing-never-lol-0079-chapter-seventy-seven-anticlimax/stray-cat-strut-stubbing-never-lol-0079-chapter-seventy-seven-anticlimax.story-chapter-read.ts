@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0079ChapterSeventySevenAnticlimax = {
   position: 79,
   ownLength: 1942,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/580345/chapter-seventy-seven-anticlimax",
-  externalId: "580345",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "580345",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/580345/chapter-seventy-seven-anticlimax",
+    },
+  ],
   publishedAt: "2020-11-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

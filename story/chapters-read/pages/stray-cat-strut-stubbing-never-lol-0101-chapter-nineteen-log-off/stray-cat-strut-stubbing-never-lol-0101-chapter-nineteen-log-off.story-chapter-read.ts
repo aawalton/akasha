@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0101ChapterNineteenLogOff = {
   position: 101,
   ownLength: 1350,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/614519/chapter-nineteen-log-off",
-  externalId: "614519",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "614519",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/614519/chapter-nineteen-log-off",
+    },
+  ],
   publishedAt: "2021-01-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

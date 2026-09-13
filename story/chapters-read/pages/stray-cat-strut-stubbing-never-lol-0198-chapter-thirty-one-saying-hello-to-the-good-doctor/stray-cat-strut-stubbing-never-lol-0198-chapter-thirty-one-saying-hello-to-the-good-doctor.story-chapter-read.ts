@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0198ChapterThirtyOneSayingHelloToTheGo
   position: 198,
   ownLength: 1524,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/747330/chapter-thirty-one-saying-hello-to-the-good-doctor",
-  externalId: "747330",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "747330",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/747330/chapter-thirty-one-saying-hello-to-the-good-doctor",
+    },
+  ],
   publishedAt: "2021-09-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

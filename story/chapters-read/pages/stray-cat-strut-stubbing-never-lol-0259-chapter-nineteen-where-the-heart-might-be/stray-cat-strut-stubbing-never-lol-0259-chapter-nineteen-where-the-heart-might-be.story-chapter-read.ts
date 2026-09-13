@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0259ChapterNineteenWhereTheHeartMightB
   position: 259,
   ownLength: 1514,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/862849/chapter-nineteen-where-the-heart-might-be",
-  externalId: "862849",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "862849",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/862849/chapter-nineteen-where-the-heart-might-be",
+    },
+  ],
   publishedAt: "2022-03-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

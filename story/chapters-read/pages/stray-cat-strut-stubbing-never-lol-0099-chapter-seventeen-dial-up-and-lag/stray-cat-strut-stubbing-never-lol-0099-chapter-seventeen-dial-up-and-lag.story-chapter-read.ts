@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0099ChapterSeventeenDialUpAndLag = {
   position: 99,
   ownLength: 1483,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/611251/chapter-seventeen-dial-up-and-lag",
-  externalId: "611251",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "611251",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/611251/chapter-seventeen-dial-up-and-lag",
+    },
+  ],
   publishedAt: "2021-01-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0297ChapterFiftyFourEssentiallyDoomed 
   position: 297,
   ownLength: 1632,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/937574/chapter-fifty-four-essentially-doomed",
-  externalId: "937574",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "937574",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/937574/chapter-fifty-four-essentially-doomed",
+    },
+  ],
   publishedAt: "2022-06-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0142ChapterFiftyNineCausePlayer = {
   position: 142,
   ownLength: 1518,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/681801/chapter-fifty-nine-cause-player",
-  externalId: "681801",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "681801",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/681801/chapter-fifty-nine-cause-player",
+    },
+  ],
   publishedAt: "2021-05-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

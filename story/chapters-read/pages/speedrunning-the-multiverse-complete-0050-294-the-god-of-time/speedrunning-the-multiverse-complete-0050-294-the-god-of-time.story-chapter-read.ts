@@ -9,10 +9,14 @@ export const speedrunningTheMultiverseComplete0050294TheGodOfTime = {
   position: 50,
   ownLength: 1535,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1323322/294-the-god-of-time",
-  externalId: "1323322",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1323322",
+      externalLink:
+        "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1323322/294-the-god-of-time",
+    },
+  ],
   publishedAt: "2023-08-27",
   ownProgress: 1535,
   completedAt: "2026-06-29T22:43:23.859Z",

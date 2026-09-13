@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0111ChapterTwentyNineSpiderCatSpiderCa
   position: 111,
   ownLength: 1520,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/630364/chapter-twenty-nine-spider-cat-spider-cat",
-  externalId: "630364",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "630364",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/630364/chapter-twenty-nine-spider-cat-spider-cat",
+    },
+  ],
   publishedAt: "2021-02-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

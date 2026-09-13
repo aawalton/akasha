@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0020ChapterEighteenGoingBackUp = {
   position: 20,
   ownLength: 1069,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/533355/chapter-eighteen-going-back-up",
-  externalId: "533355",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "533355",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/533355/chapter-eighteen-going-back-up",
+    },
+  ],
   publishedAt: "2020-08-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

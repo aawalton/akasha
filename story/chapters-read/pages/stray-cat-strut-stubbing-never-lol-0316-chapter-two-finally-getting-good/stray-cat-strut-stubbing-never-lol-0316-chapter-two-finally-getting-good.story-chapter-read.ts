@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0316ChapterTwoFinallyGettingGood = {
   position: 316,
   ownLength: 1471,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/989810/chapter-two-finally-getting-good",
-  externalId: "989810",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "989810",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/989810/chapter-two-finally-getting-good",
+    },
+  ],
   publishedAt: "2022-09-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

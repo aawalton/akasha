@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0128ChapterFortySixImpeccableMathemati
   position: 128,
   ownLength: 1543,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/659602/chapter-forty-six-impeccable-mathematics",
-  externalId: "659602",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "659602",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/659602/chapter-forty-six-impeccable-mathematics",
+    },
+  ],
   publishedAt: "2021-04-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

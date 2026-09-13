@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0228ChapterSixtyEmoting = {
   position: 228,
   ownLength: 1483,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/794331/chapter-sixty-emoting",
-  externalId: "794331",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "794331",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/794331/chapter-sixty-emoting",
+    },
+  ],
   publishedAt: "2021-11-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0056ChapterFiftyFourSettingToBoil = {
   position: 56,
   ownLength: 1439,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/554983/chapter-fifty-four-setting-to-boil",
-  externalId: "554983",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "554983",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/554983/chapter-fifty-four-setting-to-boil",
+    },
+  ],
   publishedAt: "2020-09-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

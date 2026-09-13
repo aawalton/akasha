@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0026ChapterTwentyFourDumbAndDumber = {
   position: 26,
   ownLength: 1058,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/534909/chapter-twenty-four-dumb-and-dumber",
-  externalId: "534909",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "534909",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/534909/chapter-twenty-four-dumb-and-dumber",
+    },
+  ],
   publishedAt: "2020-08-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

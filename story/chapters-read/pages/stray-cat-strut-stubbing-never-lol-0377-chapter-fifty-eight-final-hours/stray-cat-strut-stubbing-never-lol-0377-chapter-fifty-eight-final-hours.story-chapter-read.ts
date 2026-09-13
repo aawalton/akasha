@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0377ChapterFiftyEightFinalHours = {
   position: 377,
   ownLength: 1498,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1161603/chapter-fifty-eight-final-hours",
-  externalId: "1161603",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1161603",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1161603/chapter-fifty-eight-final-hours",
+    },
+  ],
   publishedAt: "2023-04-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

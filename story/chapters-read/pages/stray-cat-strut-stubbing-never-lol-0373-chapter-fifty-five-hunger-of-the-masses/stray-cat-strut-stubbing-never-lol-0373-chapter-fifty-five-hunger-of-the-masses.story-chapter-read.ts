@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0373ChapterFiftyFiveHungerOfTheMasses 
   position: 373,
   ownLength: 1479,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1146500/chapter-fifty-five-hunger-of-the-masses",
-  externalId: "1146500",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1146500",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1146500/chapter-fifty-five-hunger-of-the-masses",
+    },
+  ],
   publishedAt: "2023-03-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0065ChapterSixtyThreePeopleAreStupid =
   position: 65,
   ownLength: 1573,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/562971/chapter-sixty-three-people-are-stupid",
-  externalId: "562971",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "562971",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/562971/chapter-sixty-three-people-are-stupid",
+    },
+  ],
   publishedAt: "2020-10-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

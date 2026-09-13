@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0256ChapterSixteenItsTechnicallyNotANu
   position: 256,
   ownLength: 1540,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/855171/chapter-sixteen-its-technically-not-a-nuke",
-  externalId: "855171",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "855171",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/855171/chapter-sixteen-its-technically-not-a-nuke",
+    },
+  ],
   publishedAt: "2022-02-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0076ChapterSeventyFourThoughtsAndPraye
   position: 76,
   ownLength: 1584,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/578081/chapter-seventy-four-thoughts-and-prayers",
-  externalId: "578081",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "578081",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/578081/chapter-seventy-four-thoughts-and-prayers",
+    },
+  ],
   publishedAt: "2020-11-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0362ChapterFortySixMonsterInterrupt = 
   position: 362,
   ownLength: 1553,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1119425/chapter-forty-six-monster-interrupt",
-  externalId: "1119425",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1119425",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1119425/chapter-forty-six-monster-interrupt",
+    },
+  ],
   publishedAt: "2023-02-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

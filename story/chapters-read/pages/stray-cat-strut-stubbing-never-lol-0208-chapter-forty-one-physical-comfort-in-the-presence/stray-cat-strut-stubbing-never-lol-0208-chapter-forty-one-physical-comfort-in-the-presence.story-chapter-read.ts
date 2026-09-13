@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0208ChapterFortyOnePhysicalComfortInTh
   position: 208,
   ownLength: 1540,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/765575/chapter-forty-one-physical-comfort-in-the-presence",
-  externalId: "765575",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "765575",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/765575/chapter-forty-one-physical-comfort-in-the-presence",
+    },
+  ],
   publishedAt: "2021-10-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0265ChapterTwentyFiveDinnerIsServedAnd
   position: 265,
   ownLength: 1501,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/875215/chapter-twenty-five-dinner-is-served-and-its-you",
-  externalId: "875215",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "875215",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/875215/chapter-twenty-five-dinner-is-served-and-its-you",
+    },
+  ],
   publishedAt: "2022-04-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

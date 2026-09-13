@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0019ChapterSeventeenMallCops = {
   position: 19,
   ownLength: 1332,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/533098/chapter-seventeen-mall-cops",
-  externalId: "533098",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "533098",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/533098/chapter-seventeen-mall-cops",
+    },
+  ],
   publishedAt: "2020-08-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

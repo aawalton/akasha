@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0227ChapterFiftyNinePopularity = {
   position: 227,
   ownLength: 1472,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/792891/chapter-fifty-nine-popularity",
-  externalId: "792891",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "792891",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/792891/chapter-fifty-nine-popularity",
+    },
+  ],
   publishedAt: "2021-11-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

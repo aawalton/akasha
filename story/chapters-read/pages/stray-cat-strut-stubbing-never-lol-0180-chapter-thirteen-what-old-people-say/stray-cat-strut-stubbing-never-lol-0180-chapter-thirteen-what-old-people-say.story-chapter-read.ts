@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0180ChapterThirteenWhatOldPeopleSay = 
   position: 180,
   ownLength: 1503,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/719743/chapter-thirteen-what-old-people-say",
-  externalId: "719743",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "719743",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/719743/chapter-thirteen-what-old-people-say",
+    },
+  ],
   publishedAt: "2021-07-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

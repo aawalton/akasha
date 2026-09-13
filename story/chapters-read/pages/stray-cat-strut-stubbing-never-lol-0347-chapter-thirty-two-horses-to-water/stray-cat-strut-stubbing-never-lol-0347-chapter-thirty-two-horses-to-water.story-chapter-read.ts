@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0347ChapterThirtyTwoHorsesToWater = {
   position: 347,
   ownLength: 1428,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1072928/chapter-thirty-two-horses-to-water",
-  externalId: "1072928",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1072928",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1072928/chapter-thirty-two-horses-to-water",
+    },
+  ],
   publishedAt: "2022-12-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0350ChapterThirtyFourKnifeEdge = {
   position: 350,
   ownLength: 1472,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1077939/chapter-thirty-four-knife-edge",
-  externalId: "1077939",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1077939",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1077939/chapter-thirty-four-knife-edge",
+    },
+  ],
   publishedAt: "2023-01-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

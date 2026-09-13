@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0199ChapterThirtyTwoTheDoctorsInTheHou
   position: 199,
   ownLength: 1559,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/747837/chapter-thirty-two-the-doctors-in-the-house",
-  externalId: "747837",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "747837",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/747837/chapter-thirty-two-the-doctors-in-the-house",
+    },
+  ],
   publishedAt: "2021-09-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

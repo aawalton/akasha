@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0215ChapterFortySevenInWhichLucyDoesPo
   position: 215,
   ownLength: 1518,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/773850/chapter-forty-seven-in-which-lucy-does-politics",
-  externalId: "773850",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "773850",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/773850/chapter-forty-seven-in-which-lucy-does-politics",
+    },
+  ],
   publishedAt: "2021-10-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0230ChapterSixtyTwoAttemptingCommonSen
   position: 230,
   ownLength: 1540,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/817619/chapter-sixty-two-attempting-common-sense",
-  externalId: "817619",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "817619",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/817619/chapter-sixty-two-attempting-common-sense",
+    },
+  ],
   publishedAt: "2022-01-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

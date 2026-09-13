@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0103ChapterTwentyOneGodsRighteousFury 
   position: 103,
   ownLength: 1466,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/618172/chapter-twenty-one-gods-righteous-fury",
-  externalId: "618172",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "618172",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/618172/chapter-twenty-one-gods-righteous-fury",
+    },
+  ],
   publishedAt: "2021-01-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

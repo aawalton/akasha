@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0183ChapterSixteenFunInTheWashroom = {
   position: 183,
   ownLength: 1560,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/721475/chapter-sixteen-fun-in-the-washroom",
-  externalId: "721475",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "721475",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/721475/chapter-sixteen-fun-in-the-washroom",
+    },
+  ],
   publishedAt: "2021-07-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

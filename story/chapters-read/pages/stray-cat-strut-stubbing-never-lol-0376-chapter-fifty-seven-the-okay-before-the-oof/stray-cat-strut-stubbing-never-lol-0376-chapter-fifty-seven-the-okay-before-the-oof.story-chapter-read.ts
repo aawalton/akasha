@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0376ChapterFiftySevenTheOkayBeforeTheO
   position: 376,
   ownLength: 1536,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1157927/chapter-fifty-seven-the-okay-before-the-oof",
-  externalId: "1157927",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1157927",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1157927/chapter-fifty-seven-the-okay-before-the-oof",
+    },
+  ],
   publishedAt: "2023-04-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

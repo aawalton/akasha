@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0173ChapterSixQueenTakesPawn = {
   position: 173,
   ownLength: 1479,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/715405/chapter-six-queen-takes-pawn",
-  externalId: "715405",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "715405",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/715405/chapter-six-queen-takes-pawn",
+    },
+  ],
   publishedAt: "2021-07-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

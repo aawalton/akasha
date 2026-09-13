@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0038ChapterThirtySixAMatterOfTrust = {
   position: 38,
   ownLength: 1178,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/539018/chapter-thirty-six-a-matter-of-trust",
-  externalId: "539018",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "539018",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/539018/chapter-thirty-six-a-matter-of-trust",
+    },
+  ],
   publishedAt: "2020-08-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

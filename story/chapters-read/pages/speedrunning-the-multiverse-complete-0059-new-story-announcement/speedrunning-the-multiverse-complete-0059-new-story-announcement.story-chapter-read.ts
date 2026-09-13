@@ -9,10 +9,14 @@ export const speedrunningTheMultiverseComplete0059NewStoryAnnouncement = {
   position: 59,
   ownLength: 224,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1430785/new-story-announcement",
-  externalId: "1430785",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1430785",
+      externalLink:
+        "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1430785/new-story-announcement",
+    },
+  ],
   publishedAt: "2023-12-03",
   ownProgress: 8,
   prose: "txt",

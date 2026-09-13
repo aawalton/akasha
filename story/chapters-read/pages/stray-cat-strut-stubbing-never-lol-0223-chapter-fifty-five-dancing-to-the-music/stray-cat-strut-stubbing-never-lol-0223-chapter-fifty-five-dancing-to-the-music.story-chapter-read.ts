@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0223ChapterFiftyFiveDancingToTheMusic 
   position: 223,
   ownLength: 1533,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/784487/chapter-fifty-five-dancing-to-the-music",
-  externalId: "784487",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "784487",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/784487/chapter-fifty-five-dancing-to-the-music",
+    },
+  ],
   publishedAt: "2021-11-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

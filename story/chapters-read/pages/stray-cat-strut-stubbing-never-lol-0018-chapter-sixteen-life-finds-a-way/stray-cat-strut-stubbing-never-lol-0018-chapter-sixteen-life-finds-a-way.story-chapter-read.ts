@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0018ChapterSixteenLifeFindsAWay = {
   position: 18,
   ownLength: 1131,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/532731/chapter-sixteen-life-finds-a-way",
-  externalId: "532731",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "532731",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/532731/chapter-sixteen-life-finds-a-way",
+    },
+  ],
   publishedAt: "2020-08-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

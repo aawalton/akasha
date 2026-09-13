@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0226ChapterFiftyEightInterrogation = {
   position: 226,
   ownLength: 1484,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/789790/chapter-fifty-eight-interrogation",
-  externalId: "789790",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "789790",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/789790/chapter-fifty-eight-interrogation",
+    },
+  ],
   publishedAt: "2021-11-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

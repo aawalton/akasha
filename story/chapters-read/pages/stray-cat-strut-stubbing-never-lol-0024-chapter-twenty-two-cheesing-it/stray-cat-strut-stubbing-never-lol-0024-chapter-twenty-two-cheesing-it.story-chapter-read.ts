@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0024ChapterTwentyTwoCheesingIt = {
   position: 24,
   ownLength: 1226,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/534383/chapter-twenty-two-cheesing-it",
-  externalId: "534383",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "534383",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/534383/chapter-twenty-two-cheesing-it",
+    },
+  ],
   publishedAt: "2020-08-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

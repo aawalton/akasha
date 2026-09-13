@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0064ChapterSixtyTwoHonourAndFlames = {
   position: 64,
   ownLength: 1450,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/562078/chapter-sixty-two-honour-and-flames",
-  externalId: "562078",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "562078",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/562078/chapter-sixty-two-honour-and-flames",
+    },
+  ],
   publishedAt: "2020-09-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0015ChapterThirteenTalkingToYourself =
   position: 15,
   ownLength: 1115,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/531960/chapter-thirteen-talking-to-yourself",
-  externalId: "531960",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "531960",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/531960/chapter-thirteen-talking-to-yourself",
+    },
+  ],
   publishedAt: "2020-07-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

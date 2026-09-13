@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0195ChapterTwentyEightSteppingUpAndOut
   position: 195,
   ownLength: 1524,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/742972/chapter-twenty-eight-stepping-up-and-out",
-  externalId: "742972",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "742972",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/742972/chapter-twenty-eight-stepping-up-and-out",
+    },
+  ],
   publishedAt: "2021-08-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

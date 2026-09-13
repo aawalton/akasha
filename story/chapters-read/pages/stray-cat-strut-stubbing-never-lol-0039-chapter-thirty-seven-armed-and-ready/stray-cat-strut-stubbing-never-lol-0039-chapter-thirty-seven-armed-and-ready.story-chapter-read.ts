@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0039ChapterThirtySevenArmedAndReady = 
   position: 39,
   ownLength: 1122,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/539500/chapter-thirty-seven-armed-and-ready",
-  externalId: "539500",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "539500",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/539500/chapter-thirty-seven-armed-and-ready",
+    },
+  ],
   publishedAt: "2020-08-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

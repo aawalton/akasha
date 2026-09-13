@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0284ChapterFortyThreeDangerClose = {
   position: 284,
   ownLength: 1483,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/918679/chapter-forty-three-danger-close",
-  externalId: "918679",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "918679",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/918679/chapter-forty-three-danger-close",
+    },
+  ],
   publishedAt: "2022-06-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

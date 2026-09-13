@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0182ChapterFifteenTheCulturesBeneath =
   position: 182,
   ownLength: 1369,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/720907/chapter-fifteen-the-cultures-beneath",
-  externalId: "720907",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "720907",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/720907/chapter-fifteen-the-cultures-beneath",
+    },
+  ],
   publishedAt: "2021-07-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0134ChapterFiftyOneFashioningAHome = {
   position: 134,
   ownLength: 1497,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/668490/chapter-fifty-one-fashioning-a-home",
-  externalId: "668490",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "668490",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/668490/chapter-fifty-one-fashioning-a-home",
+    },
+  ],
   publishedAt: "2021-04-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

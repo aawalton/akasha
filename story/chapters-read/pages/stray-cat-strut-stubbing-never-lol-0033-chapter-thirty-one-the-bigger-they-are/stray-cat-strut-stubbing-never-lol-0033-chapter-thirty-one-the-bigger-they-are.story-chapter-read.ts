@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0033ChapterThirtyOneTheBiggerTheyAre =
   position: 33,
   ownLength: 1252,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/537190/chapter-thirty-one-the-bigger-they-are",
-  externalId: "537190",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "537190",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/537190/chapter-thirty-one-the-bigger-they-are",
+    },
+  ],
   publishedAt: "2020-08-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

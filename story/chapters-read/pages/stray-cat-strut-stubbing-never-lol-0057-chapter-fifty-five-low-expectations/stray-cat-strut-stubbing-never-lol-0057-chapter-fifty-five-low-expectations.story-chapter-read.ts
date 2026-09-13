@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0057ChapterFiftyFiveLowExpectations = 
   position: 57,
   ownLength: 1533,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/555959/chapter-fifty-five-low-expectations",
-  externalId: "555959",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "555959",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/555959/chapter-fifty-five-low-expectations",
+    },
+  ],
   publishedAt: "2020-09-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0049ChapterFortySevenShoppingSpree = {
   position: 49,
   ownLength: 1738,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/548966/chapter-forty-seven-shopping-spree",
-  externalId: "548966",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "548966",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/548966/chapter-forty-seven-shopping-spree",
+    },
+  ],
   publishedAt: "2020-09-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

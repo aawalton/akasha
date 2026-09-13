@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0291ChapterFortyNineThoseWhoLoveCannon
   position: 291,
   ownLength: 1497,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/928330/chapter-forty-nine-those-who-love-cannons",
-  externalId: "928330",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "928330",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/928330/chapter-forty-nine-those-who-love-cannons",
+    },
+  ],
   publishedAt: "2022-06-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

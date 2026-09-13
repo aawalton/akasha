@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0321ChapterSevenBigGunPolitics = {
   position: 321,
   ownLength: 1511,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1002312/chapter-seven-big-gun-politics",
-  externalId: "1002312",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1002312",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1002312/chapter-seven-big-gun-politics",
+    },
+  ],
   publishedAt: "2022-09-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

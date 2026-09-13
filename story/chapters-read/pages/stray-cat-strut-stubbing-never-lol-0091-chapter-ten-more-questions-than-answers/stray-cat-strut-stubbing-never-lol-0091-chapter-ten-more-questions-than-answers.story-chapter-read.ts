@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0091ChapterTenMoreQuestionsThanAnswers
   position: 91,
   ownLength: 1733,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/594181/chapter-ten-more-questions-than-answers",
-  externalId: "594181",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "594181",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/594181/chapter-ten-more-questions-than-answers",
+    },
+  ],
   publishedAt: "2020-12-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0006ChapterFourPoleDancing = {
   position: 6,
   ownLength: 1641,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/524391/chapter-four-pole-dancing",
-  externalId: "524391",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "524391",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/524391/chapter-four-pole-dancing",
+    },
+  ],
   publishedAt: "2020-07-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

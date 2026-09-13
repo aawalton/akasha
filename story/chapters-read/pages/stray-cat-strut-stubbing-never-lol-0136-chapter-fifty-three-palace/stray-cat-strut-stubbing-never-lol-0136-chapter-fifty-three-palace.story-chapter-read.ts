@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0136ChapterFiftyThreePalace = {
   position: 136,
   ownLength: 1496,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/675902/chapter-fifty-three-palace",
-  externalId: "675902",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "675902",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/675902/chapter-fifty-three-palace",
+    },
+  ],
   publishedAt: "2021-05-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

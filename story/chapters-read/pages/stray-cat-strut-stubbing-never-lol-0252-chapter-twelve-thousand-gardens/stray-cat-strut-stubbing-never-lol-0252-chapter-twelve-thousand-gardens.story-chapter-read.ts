@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0252ChapterTwelveThousandGardens = {
   position: 252,
   ownLength: 1456,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/850158/chapter-twelve-thousand-gardens",
-  externalId: "850158",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "850158",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/850158/chapter-twelve-thousand-gardens",
+    },
+  ],
   publishedAt: "2022-02-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

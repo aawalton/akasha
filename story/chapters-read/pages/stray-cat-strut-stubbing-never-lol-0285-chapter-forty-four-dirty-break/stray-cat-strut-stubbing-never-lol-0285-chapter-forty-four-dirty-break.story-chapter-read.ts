@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0285ChapterFortyFourDirtyBreak = {
   position: 285,
   ownLength: 1485,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/919327/chapter-forty-four-dirty-break",
-  externalId: "919327",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "919327",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/919327/chapter-forty-four-dirty-break",
+    },
+  ],
   publishedAt: "2022-06-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

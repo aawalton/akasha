@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0177ChapterTenTensions = {
   position: 177,
   ownLength: 1599,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/717643/chapter-ten-tensions",
-  externalId: "717643",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "717643",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/717643/chapter-ten-tensions",
+    },
+  ],
   publishedAt: "2021-07-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

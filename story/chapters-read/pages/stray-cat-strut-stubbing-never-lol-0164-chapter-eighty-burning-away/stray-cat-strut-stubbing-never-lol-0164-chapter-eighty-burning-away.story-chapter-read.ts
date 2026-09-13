@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0164ChapterEightyBurningAway = {
   position: 164,
   ownLength: 1498,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/703453/chapter-eighty-burning-away",
-  externalId: "703453",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "703453",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/703453/chapter-eighty-burning-away",
+    },
+  ],
   publishedAt: "2021-06-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

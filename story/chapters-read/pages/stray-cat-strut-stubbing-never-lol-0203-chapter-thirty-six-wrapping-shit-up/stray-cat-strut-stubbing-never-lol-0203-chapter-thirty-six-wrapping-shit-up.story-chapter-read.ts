@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0203ChapterThirtySixWrappingShitUp = {
   position: 203,
   ownLength: 1446,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/755389/chapter-thirty-six-wrapping-shit-up",
-  externalId: "755389",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "755389",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/755389/chapter-thirty-six-wrapping-shit-up",
+    },
+  ],
   publishedAt: "2021-09-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

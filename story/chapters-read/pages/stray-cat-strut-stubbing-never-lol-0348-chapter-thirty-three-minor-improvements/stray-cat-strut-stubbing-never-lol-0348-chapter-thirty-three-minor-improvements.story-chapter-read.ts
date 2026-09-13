@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0348ChapterThirtyThreeMinorImprovement
   position: 348,
   ownLength: 1466,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1074030/chapter-thirty-three-minor-improvements",
-  externalId: "1074030",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1074030",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1074030/chapter-thirty-three-minor-improvements",
+    },
+  ],
   publishedAt: "2022-12-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

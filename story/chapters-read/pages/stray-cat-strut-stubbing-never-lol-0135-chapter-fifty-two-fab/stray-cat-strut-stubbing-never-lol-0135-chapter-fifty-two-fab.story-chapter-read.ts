@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0135ChapterFiftyTwoFab = {
   position: 135,
   ownLength: 1475,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/672602/chapter-fifty-two-fab",
-  externalId: "672602",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "672602",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/672602/chapter-fifty-two-fab",
+    },
+  ],
   publishedAt: "2021-04-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

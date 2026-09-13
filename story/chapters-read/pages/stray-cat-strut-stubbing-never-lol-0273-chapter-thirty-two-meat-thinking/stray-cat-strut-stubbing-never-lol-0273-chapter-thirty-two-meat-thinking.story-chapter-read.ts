@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0273ChapterThirtyTwoMeatThinking = {
   position: 273,
   ownLength: 1497,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/892068/chapter-thirty-two-meat-thinking",
-  externalId: "892068",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "892068",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/892068/chapter-thirty-two-meat-thinking",
+    },
+  ],
   publishedAt: "2022-04-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

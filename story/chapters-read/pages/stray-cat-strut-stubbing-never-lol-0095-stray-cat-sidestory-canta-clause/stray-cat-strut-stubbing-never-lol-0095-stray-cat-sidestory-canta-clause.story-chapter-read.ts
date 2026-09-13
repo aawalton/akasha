@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0095StrayCatSidestoryCantaClause = {
   position: 95,
   ownLength: 1431,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/605035/stray-cat-sidestory-canta-clause",
-  externalId: "605035",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "605035",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/605035/stray-cat-sidestory-canta-clause",
+    },
+  ],
   publishedAt: "2020-12-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

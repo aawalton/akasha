@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0365ChapterFortyEightATimeForExplanati
   position: 365,
   ownLength: 1590,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1125196/chapter-forty-eight-a-time-for-explanations",
-  externalId: "1125196",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1125196",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1125196/chapter-forty-eight-a-time-for-explanations",
+    },
+  ],
   publishedAt: "2023-02-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0147ChapterSixtyFourAftermathButWereRe
   position: 147,
   ownLength: 1459,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/687896/chapter-sixty-four-aftermath-but-were-really-bad",
-  externalId: "687896",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "687896",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/687896/chapter-sixty-four-aftermath-but-were-really-bad",
+    },
+  ],
   publishedAt: "2021-05-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

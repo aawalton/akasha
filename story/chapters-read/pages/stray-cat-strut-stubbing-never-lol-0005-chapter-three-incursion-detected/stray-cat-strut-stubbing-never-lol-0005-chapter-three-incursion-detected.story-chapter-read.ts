@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0005ChapterThreeIncursionDetected = {
   position: 5,
   ownLength: 1830,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/521129/chapter-three-incursion-detected",
-  externalId: "521129",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "521129",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/521129/chapter-three-incursion-detected",
+    },
+  ],
   publishedAt: "2020-07-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

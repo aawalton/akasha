@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0137ChapterFiftyFourPhoenix = {
   position: 137,
   ownLength: 1584,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/676903/chapter-fifty-four-phoenix",
-  externalId: "676903",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "676903",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/676903/chapter-fifty-four-phoenix",
+    },
+  ],
   publishedAt: "2021-05-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

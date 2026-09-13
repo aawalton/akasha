@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0359ChapterFortyThreeAndIHaveKilledIt 
   position: 359,
   ownLength: 1460,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1103841/chapter-forty-three-and-i-have-killed-it",
-  externalId: "1103841",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1103841",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1103841/chapter-forty-three-and-i-have-killed-it",
+    },
+  ],
   publishedAt: "2023-02-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

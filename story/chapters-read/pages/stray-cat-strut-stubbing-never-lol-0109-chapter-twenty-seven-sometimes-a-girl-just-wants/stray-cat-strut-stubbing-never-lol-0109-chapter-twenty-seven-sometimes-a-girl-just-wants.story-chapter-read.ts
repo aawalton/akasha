@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0109ChapterTwentySevenSometimesAGirlJu
   position: 109,
   ownLength: 1492,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/628144/chapter-twenty-seven-sometimes-a-girl-just-wants",
-  externalId: "628144",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "628144",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/628144/chapter-twenty-seven-sometimes-a-girl-just-wants",
+    },
+  ],
   publishedAt: "2021-02-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

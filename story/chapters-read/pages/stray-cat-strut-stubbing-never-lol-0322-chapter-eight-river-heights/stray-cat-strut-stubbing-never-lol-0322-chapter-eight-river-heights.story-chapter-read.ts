@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0322ChapterEightRiverHeights = {
   position: 322,
   ownLength: 1523,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1003991/chapter-eight-river-heights",
-  externalId: "1003991",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1003991",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1003991/chapter-eight-river-heights",
+    },
+  ],
   publishedAt: "2022-09-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

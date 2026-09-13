@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0355ChapterThirtyNineGettingAClue = {
   position: 355,
   ownLength: 1478,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1091656/chapter-thirty-nine-getting-a-clue",
-  externalId: "1091656",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1091656",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1091656/chapter-thirty-nine-getting-a-clue",
+    },
+  ],
   publishedAt: "2023-01-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

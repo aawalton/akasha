@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0218ChapterFiftySansButLucratif = {
   position: 218,
   ownLength: 1529,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/777361/chapter-fifty-sans-but-lucratif",
-  externalId: "777361",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "777361",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/777361/chapter-fifty-sans-but-lucratif",
+    },
+  ],
   publishedAt: "2021-11-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

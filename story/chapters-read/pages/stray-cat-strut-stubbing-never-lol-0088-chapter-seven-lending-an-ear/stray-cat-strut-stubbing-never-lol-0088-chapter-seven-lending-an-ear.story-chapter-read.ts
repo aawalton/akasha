@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0088ChapterSevenLendingAnEar = {
   position: 88,
   ownLength: 1295,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/591231/chapter-seven-lending-an-ear",
-  externalId: "591231",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "591231",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/591231/chapter-seven-lending-an-ear",
+    },
+  ],
   publishedAt: "2020-11-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

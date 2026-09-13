@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0119ChapterThirtySevenCashMoney = {
   position: 119,
   ownLength: 1592,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/641449/chapter-thirty-seven-cash-money",
-  externalId: "641449",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "641449",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/641449/chapter-thirty-seven-cash-money",
+    },
+  ],
   publishedAt: "2021-03-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

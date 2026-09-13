@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0107ChapterTwentyFiveRamenBreak = {
   position: 107,
   ownLength: 1534,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/624995/chapter-twenty-five-ramen-break",
-  externalId: "624995",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "624995",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/624995/chapter-twenty-five-ramen-break",
+    },
+  ],
   publishedAt: "2021-02-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

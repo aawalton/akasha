@@ -9,10 +9,14 @@ export const speedrunningTheMultiverseComplete0058302Epilogue = {
   position: 58,
   ownLength: 867,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1329442/302-epilogue",
-  externalId: "1329442",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1329442",
+      externalLink:
+        "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1329442/302-epilogue",
+    },
+  ],
   publishedAt: "2023-09-01",
   ownProgress: 867,
   completedAt: "2026-06-29T22:43:41.216Z",

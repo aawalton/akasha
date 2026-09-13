@@ -9,10 +9,14 @@ export const speedrunningTheMultiverseComplete0052296FinaleIi = {
   position: 52,
   ownLength: 1640,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1325515/296-finale-ii",
-  externalId: "1325515",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1325515",
+      externalLink:
+        "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1325515/296-finale-ii",
+    },
+  ],
   publishedAt: "2023-08-29",
   ownProgress: 1640,
   completedAt: "2026-06-29T22:43:28.136Z",

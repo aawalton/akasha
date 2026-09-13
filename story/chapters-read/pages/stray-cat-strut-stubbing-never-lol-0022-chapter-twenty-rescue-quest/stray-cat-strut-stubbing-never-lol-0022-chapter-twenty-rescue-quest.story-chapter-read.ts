@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0022ChapterTwentyRescueQuest = {
   position: 22,
   ownLength: 1225,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/533915/chapter-twenty-rescue-quest",
-  externalId: "533915",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "533915",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/533915/chapter-twenty-rescue-quest",
+    },
+  ],
   publishedAt: "2020-08-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0192ChapterTwentyFiveSneakyGhillieLemo
   position: 192,
   ownLength: 1452,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/736547/chapter-twenty-five-sneaky-ghillie-lemon-squeezy",
-  externalId: "736547",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "736547",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/736547/chapter-twenty-five-sneaky-ghillie-lemon-squeezy",
+    },
+  ],
   publishedAt: "2021-08-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0258ChapterEighteenTheLowDown = {
   position: 258,
   ownLength: 1447,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/859744/chapter-eighteen-the-low-down",
-  externalId: "859744",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "859744",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/859744/chapter-eighteen-the-low-down",
+    },
+  ],
   publishedAt: "2022-03-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

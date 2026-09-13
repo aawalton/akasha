@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0078ChapterSeventySixTheBigPlayers = {
   position: 78,
   ownLength: 1344,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/579889/chapter-seventy-six-the-big-players",
-  externalId: "579889",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "579889",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/579889/chapter-seventy-six-the-big-players",
+    },
+  ],
   publishedAt: "2020-11-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

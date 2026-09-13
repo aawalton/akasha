@@ -9,10 +9,14 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0007BackToAlpheratz = {
   position: 7,
   ownLength: 1724,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/130456/squid-girl-evolution-monster-girl-evolution-litrpg/chapter/2582299/back-to-alpheratz",
-  externalId: "2582299",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2582299",
+      externalLink:
+        "https://www.royalroad.com/fiction/130456/squid-girl-evolution-monster-girl-evolution-litrpg/chapter/2582299/back-to-alpheratz",
+    },
+  ],
   publishedAt: "2025-09-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

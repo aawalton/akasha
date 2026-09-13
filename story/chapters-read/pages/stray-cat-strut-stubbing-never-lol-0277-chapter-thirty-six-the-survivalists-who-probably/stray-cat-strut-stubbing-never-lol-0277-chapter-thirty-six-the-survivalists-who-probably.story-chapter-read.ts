@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0277ChapterThirtySixTheSurvivalistsWho
   position: 277,
   ownLength: 1500,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/901088/chapter-thirty-six-the-survivalists-who-probably",
-  externalId: "901088",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "901088",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/901088/chapter-thirty-six-the-survivalists-who-probably",
+    },
+  ],
   publishedAt: "2022-05-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

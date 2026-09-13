@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0276ChapterThirtyFiveATerribleMistake 
   position: 276,
   ownLength: 1579,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/900005/chapter-thirty-five-a-terrible-mistake",
-  externalId: "900005",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "900005",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/900005/chapter-thirty-five-a-terrible-mistake",
+    },
+  ],
   publishedAt: "2022-05-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

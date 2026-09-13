@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0207ChapterFortyRealPolitics = {
   position: 207,
   ownLength: 1440,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/763259/chapter-forty-real-politics",
-  externalId: "763259",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "763259",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/763259/chapter-forty-real-politics",
+    },
+  ],
   publishedAt: "2021-10-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

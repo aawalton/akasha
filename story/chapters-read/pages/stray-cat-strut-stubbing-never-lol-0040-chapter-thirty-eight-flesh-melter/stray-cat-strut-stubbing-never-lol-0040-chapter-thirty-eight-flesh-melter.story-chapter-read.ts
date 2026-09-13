@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0040ChapterThirtyEightFleshMelter = {
   position: 40,
   ownLength: 1048,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/540574/chapter-thirty-eight-flesh-melter",
-  externalId: "540574",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "540574",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/540574/chapter-thirty-eight-flesh-melter",
+    },
+  ],
   publishedAt: "2020-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

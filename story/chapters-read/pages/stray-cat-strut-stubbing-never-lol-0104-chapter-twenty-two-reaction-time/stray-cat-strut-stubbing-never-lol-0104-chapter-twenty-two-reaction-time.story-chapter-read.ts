@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0104ChapterTwentyTwoReactionTime = {
   position: 104,
   ownLength: 1450,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/620607/chapter-twenty-two-reaction-time",
-  externalId: "620607",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "620607",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/620607/chapter-twenty-two-reaction-time",
+    },
+  ],
   publishedAt: "2021-01-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

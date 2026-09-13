@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0106ChapterTwentyFourChoosingToDie = {
   position: 106,
   ownLength: 1734,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/623699/chapter-twenty-four-choosing-to-die",
-  externalId: "623699",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "623699",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/623699/chapter-twenty-four-choosing-to-die",
+    },
+  ],
   publishedAt: "2021-02-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0201ChapterThirtyFourTheEdgeOfTheSword
   position: 201,
   ownLength: 1609,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/751711/chapter-thirty-four-the-edge-of-the-sword",
-  externalId: "751711",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "751711",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/751711/chapter-thirty-four-the-edge-of-the-sword",
+    },
+  ],
   publishedAt: "2021-09-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

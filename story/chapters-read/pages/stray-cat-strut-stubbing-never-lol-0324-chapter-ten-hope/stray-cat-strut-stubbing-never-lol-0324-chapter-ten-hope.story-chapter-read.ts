@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0324ChapterTenHope = {
   position: 324,
   ownLength: 1432,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1013209/chapter-ten-hope",
-  externalId: "1013209",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1013209",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1013209/chapter-ten-hope",
+    },
+  ],
   publishedAt: "2022-10-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

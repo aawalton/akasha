@@ -9,10 +9,14 @@ export const speedrunningTheMultiverseComplete0054298FinaleIv = {
   position: 54,
   ownLength: 1514,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1327749/298-finale-iv",
-  externalId: "1327749",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1327749",
+      externalLink:
+        "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1327749/298-finale-iv",
+    },
+  ],
   publishedAt: "2023-08-31",
   ownProgress: 1514,
   completedAt: "2026-06-29T22:43:32.685Z",

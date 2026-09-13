@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0028ChapterTwentySixMasksOn = {
   position: 28,
   ownLength: 1010,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/535365/chapter-twenty-six-masks-on",
-  externalId: "535365",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "535365",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/535365/chapter-twenty-six-masks-on",
+    },
+  ],
   publishedAt: "2020-08-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0043ChapterFortyOneAntiAir = {
   position: 43,
   ownLength: 1585,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/541858/chapter-forty-one-anti-air",
-  externalId: "541858",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "541858",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/541858/chapter-forty-one-anti-air",
+    },
+  ],
   publishedAt: "2020-08-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

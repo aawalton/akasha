@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0187ChapterTwentyUpShitsCreek = {
   position: 187,
   ownLength: 1540,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/727831/chapter-twenty-up-shits-creek",
-  externalId: "727831",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "727831",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/727831/chapter-twenty-up-shits-creek",
+    },
+  ],
   publishedAt: "2021-08-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

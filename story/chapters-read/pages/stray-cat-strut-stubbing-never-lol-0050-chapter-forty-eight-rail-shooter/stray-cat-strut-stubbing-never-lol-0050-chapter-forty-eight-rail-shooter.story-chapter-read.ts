@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0050ChapterFortyEightRailShooter = {
   position: 50,
   ownLength: 1418,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/549601/chapter-forty-eight-rail-shooter",
-  externalId: "549601",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "549601",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/549601/chapter-forty-eight-rail-shooter",
+    },
+  ],
   publishedAt: "2020-09-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0251ChapterElevenGettingReadyToGetHot 
   position: 251,
   ownLength: 1554,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/848101/chapter-eleven-getting-ready-to-get-hot",
-  externalId: "848101",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "848101",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/848101/chapter-eleven-getting-ready-to-get-hot",
+    },
+  ],
   publishedAt: "2022-02-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

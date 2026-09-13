@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0269ChapterTwentyEightWhatNewtonsGoodF
   position: 269,
   ownLength: 1511,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/881273/chapter-twenty-eight-what-newtons-good-for",
-  externalId: "881273",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "881273",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/881273/chapter-twenty-eight-what-newtons-good-for",
+    },
+  ],
   publishedAt: "2022-04-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

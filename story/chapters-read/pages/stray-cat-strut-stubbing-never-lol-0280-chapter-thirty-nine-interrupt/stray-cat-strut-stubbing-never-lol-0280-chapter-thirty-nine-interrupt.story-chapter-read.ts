@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0280ChapterThirtyNineInterrupt = {
   position: 280,
   ownLength: 1514,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/909089/chapter-thirty-nine-interrupt",
-  externalId: "909089",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "909089",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/909089/chapter-thirty-nine-interrupt",
+    },
+  ],
   publishedAt: "2022-05-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

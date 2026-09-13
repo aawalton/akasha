@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0160ChapterSeventySixFightFireWithFire
   position: 160,
   ownLength: 1477,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/697644/chapter-seventy-six-fight-fire-with-fire",
-  externalId: "697644",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "697644",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/697644/chapter-seventy-six-fight-fire-with-fire",
+    },
+  ],
   publishedAt: "2021-06-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

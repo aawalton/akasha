@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0058ChapterFiftySixLeavingAGiftBehind 
   position: 58,
   ownLength: 1491,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/556504/chapter-fifty-six-leaving-a-gift-behind",
-  externalId: "556504",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "556504",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/556504/chapter-fifty-six-leaving-a-gift-behind",
+    },
+  ],
   publishedAt: "2020-09-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

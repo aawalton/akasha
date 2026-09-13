@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0009ChapterSevenHummingbird = {
   position: 9,
   ownLength: 1177,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/530042/chapter-seven-hummingbird",
-  externalId: "530042",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "530042",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/530042/chapter-seven-hummingbird",
+    },
+  ],
   publishedAt: "2020-07-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

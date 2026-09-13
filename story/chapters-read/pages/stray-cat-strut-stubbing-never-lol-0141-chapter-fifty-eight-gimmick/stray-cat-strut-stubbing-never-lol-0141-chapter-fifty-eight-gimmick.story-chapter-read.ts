@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0141ChapterFiftyEightGimmick = {
   position: 141,
   ownLength: 1507,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/681252/chapter-fifty-eight-gimmick",
-  externalId: "681252",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "681252",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/681252/chapter-fifty-eight-gimmick",
+    },
+  ],
   publishedAt: "2021-05-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

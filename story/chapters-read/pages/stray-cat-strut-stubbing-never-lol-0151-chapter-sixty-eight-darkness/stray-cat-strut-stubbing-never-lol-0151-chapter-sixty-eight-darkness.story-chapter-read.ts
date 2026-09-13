@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0151ChapterSixtyEightDarkness = {
   position: 151,
   ownLength: 1554,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/689142/chapter-sixty-eight-darkness",
-  externalId: "689142",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "689142",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/689142/chapter-sixty-eight-darkness",
+    },
+  ],
   publishedAt: "2021-05-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

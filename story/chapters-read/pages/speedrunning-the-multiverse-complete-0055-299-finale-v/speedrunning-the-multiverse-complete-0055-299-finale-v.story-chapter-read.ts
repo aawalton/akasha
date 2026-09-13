@@ -9,10 +9,14 @@ export const speedrunningTheMultiverseComplete0055299FinaleV = {
   position: 55,
   ownLength: 1921,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1328236/299-finale-v",
-  externalId: "1328236",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1328236",
+      externalLink:
+        "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1328236/299-finale-v",
+    },
+  ],
   publishedAt: "2023-08-31",
   ownProgress: 1921,
   completedAt: "2026-06-29T22:43:34.854Z",

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0206ChapterThirtyNineMeetingusInterupt
   position: 206,
   ownLength: 1512,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/762062/chapter-thirty-nine-meetingus-interuptus",
-  externalId: "762062",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "762062",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/762062/chapter-thirty-nine-meetingus-interuptus",
+    },
+  ],
   publishedAt: "2021-10-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

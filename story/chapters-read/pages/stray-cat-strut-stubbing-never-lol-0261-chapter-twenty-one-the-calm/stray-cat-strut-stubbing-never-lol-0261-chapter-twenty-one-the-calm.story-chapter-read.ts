@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0261ChapterTwentyOneTheCalm = {
   position: 261,
   ownLength: 1504,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/867340/chapter-twenty-one-the-calm",
-  externalId: "867340",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "867340",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/867340/chapter-twenty-one-the-calm",
+    },
+  ],
   publishedAt: "2022-03-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

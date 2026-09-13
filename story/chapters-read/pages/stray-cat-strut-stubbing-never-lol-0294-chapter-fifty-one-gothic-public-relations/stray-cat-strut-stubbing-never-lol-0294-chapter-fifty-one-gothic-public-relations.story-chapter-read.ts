@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0294ChapterFiftyOneGothicPublicRelatio
   position: 294,
   ownLength: 1539,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/932756/chapter-fifty-one-gothic-public-relations",
-  externalId: "932756",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "932756",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/932756/chapter-fifty-one-gothic-public-relations",
+    },
+  ],
   publishedAt: "2022-06-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

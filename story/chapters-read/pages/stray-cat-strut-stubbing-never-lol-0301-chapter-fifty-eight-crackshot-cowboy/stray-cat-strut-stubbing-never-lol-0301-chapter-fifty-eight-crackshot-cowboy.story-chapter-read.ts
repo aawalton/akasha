@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0301ChapterFiftyEightCrackshotCowboy =
   position: 301,
   ownLength: 1454,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/947355/chapter-fifty-eight-crackshot-cowboy",
-  externalId: "947355",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "947355",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/947355/chapter-fifty-eight-crackshot-cowboy",
+    },
+  ],
   publishedAt: "2022-07-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

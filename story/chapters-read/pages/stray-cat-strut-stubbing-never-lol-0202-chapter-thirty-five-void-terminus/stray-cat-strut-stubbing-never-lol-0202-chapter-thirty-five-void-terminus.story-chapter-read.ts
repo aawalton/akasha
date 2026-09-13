@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0202ChapterThirtyFiveVoidTerminus = {
   position: 202,
   ownLength: 1431,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/754249/chapter-thirty-five-void-terminus",
-  externalId: "754249",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "754249",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/754249/chapter-thirty-five-void-terminus",
+    },
+  ],
   publishedAt: "2021-09-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

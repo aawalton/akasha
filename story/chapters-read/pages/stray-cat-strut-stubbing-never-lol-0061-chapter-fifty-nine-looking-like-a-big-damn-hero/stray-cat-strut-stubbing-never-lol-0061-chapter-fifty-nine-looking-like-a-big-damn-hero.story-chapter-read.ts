@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0061ChapterFiftyNineLookingLikeABigDam
   position: 61,
   ownLength: 1376,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/559418/chapter-fifty-nine-looking-like-a-big-damn-hero",
-  externalId: "559418",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "559418",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/559418/chapter-fifty-nine-looking-like-a-big-damn-hero",
+    },
+  ],
   publishedAt: "2020-09-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

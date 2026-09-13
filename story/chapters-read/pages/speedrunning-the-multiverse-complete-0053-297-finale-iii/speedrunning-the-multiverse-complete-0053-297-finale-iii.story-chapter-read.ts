@@ -9,10 +9,14 @@ export const speedrunningTheMultiverseComplete0053297FinaleIii = {
   position: 53,
   ownLength: 1680,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1326569/297-finale-iii",
-  externalId: "1326569",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1326569",
+      externalLink:
+        "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1326569/297-finale-iii",
+    },
+  ],
   publishedAt: "2023-08-30",
   ownProgress: 1680,
   completedAt: "2026-06-29T22:43:30.690Z",

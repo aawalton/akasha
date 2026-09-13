@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0062ChapterSixtyAUniqueCombatDoctrine 
   position: 62,
   ownLength: 1475,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/559899/chapter-sixty-a-unique-combat-doctrine",
-  externalId: "559899",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "559899",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/559899/chapter-sixty-a-unique-combat-doctrine",
+    },
+  ],
   publishedAt: "2020-09-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

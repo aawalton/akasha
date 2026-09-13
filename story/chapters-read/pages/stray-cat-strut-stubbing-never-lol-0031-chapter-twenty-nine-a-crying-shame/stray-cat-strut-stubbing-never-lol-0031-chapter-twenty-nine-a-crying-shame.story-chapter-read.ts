@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0031ChapterTwentyNineACryingShame = {
   position: 31,
   ownLength: 986,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/536077/chapter-twenty-nine-a-crying-shame",
-  externalId: "536077",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "536077",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/536077/chapter-twenty-nine-a-crying-shame",
+    },
+  ],
   publishedAt: "2020-08-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

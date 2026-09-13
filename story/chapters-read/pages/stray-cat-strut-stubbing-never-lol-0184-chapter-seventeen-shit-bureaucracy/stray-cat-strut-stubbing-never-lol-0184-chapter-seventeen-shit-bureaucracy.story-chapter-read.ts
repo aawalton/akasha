@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0184ChapterSeventeenShitBureaucracy = 
   position: 184,
   ownLength: 1511,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/723184/chapter-seventeen-shit-bureaucracy",
-  externalId: "723184",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "723184",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/723184/chapter-seventeen-shit-bureaucracy",
+    },
+  ],
   publishedAt: "2021-07-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

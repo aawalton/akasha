@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0067ChapterSixtyFiveAChangeInTactics =
   position: 67,
   ownLength: 1596,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/566370/chapter-sixty-five-a-change-in-tactics",
-  externalId: "566370",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "566370",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/566370/chapter-sixty-five-a-change-in-tactics",
+    },
+  ],
   publishedAt: "2020-10-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

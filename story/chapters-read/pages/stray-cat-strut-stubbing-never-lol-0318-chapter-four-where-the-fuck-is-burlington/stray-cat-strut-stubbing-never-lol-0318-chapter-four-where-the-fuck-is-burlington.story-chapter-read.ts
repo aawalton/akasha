@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0318ChapterFourWhereTheFuckIsBurlingto
   position: 318,
   ownLength: 1557,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/994963/chapter-four-where-the-fuck-is-burlington",
-  externalId: "994963",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "994963",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/994963/chapter-four-where-the-fuck-is-burlington",
+    },
+  ],
   publishedAt: "2022-09-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0354ChapterThirtyEightFireAndHammer = 
   position: 354,
   ownLength: 1543,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1089998/chapter-thirty-eight-fire-and-hammer",
-  externalId: "1089998",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1089998",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1089998/chapter-thirty-eight-fire-and-hammer",
+    },
+  ],
   publishedAt: "2023-01-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

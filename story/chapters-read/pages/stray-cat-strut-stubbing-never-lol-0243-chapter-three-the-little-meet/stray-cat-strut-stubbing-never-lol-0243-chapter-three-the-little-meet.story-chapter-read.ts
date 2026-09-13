@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0243ChapterThreeTheLittleMeet = {
   position: 243,
   ownLength: 1545,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/838401/chapter-three-the-little-meet",
-  externalId: "838401",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "838401",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/838401/chapter-three-the-little-meet",
+    },
+  ],
   publishedAt: "2022-02-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

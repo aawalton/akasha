@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0017ChapterFifteenWorm = {
   position: 17,
   ownLength: 1356,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/532484/chapter-fifteen-worm",
-  externalId: "532484",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "532484",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/532484/chapter-fifteen-worm",
+    },
+  ],
   publishedAt: "2020-07-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

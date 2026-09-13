@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0096ChapterFourteenMesh = {
   position: 96,
   ownLength: 1275,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/606883/chapter-fourteen-mesh",
-  externalId: "606883",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "606883",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/606883/chapter-fourteen-mesh",
+    },
+  ],
   publishedAt: "2020-12-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

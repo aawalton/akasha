@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0260ChapterTwentyPitbullsAndTacos = {
   position: 260,
   ownLength: 1521,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/864685/chapter-twenty-pitbulls-and-tacos",
-  externalId: "864685",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "864685",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/864685/chapter-twenty-pitbulls-and-tacos",
+    },
+  ],
   publishedAt: "2022-03-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

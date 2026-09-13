@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0372ChapterFiftyFourAllThatWealthIsGoo
   position: 372,
   ownLength: 1475,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1144335/chapter-fifty-four-all-that-wealth-is-good-for",
-  externalId: "1144335",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1144335",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1144335/chapter-fifty-four-all-that-wealth-is-good-for",
+    },
+  ],
   publishedAt: "2023-03-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

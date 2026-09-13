@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0283ChapterFortyTwoEarningTheTier = {
   position: 283,
   ownLength: 1519,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/918032/chapter-forty-two-earning-the-tier",
-  externalId: "918032",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "918032",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/918032/chapter-forty-two-earning-the-tier",
+    },
+  ],
   publishedAt: "2022-05-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

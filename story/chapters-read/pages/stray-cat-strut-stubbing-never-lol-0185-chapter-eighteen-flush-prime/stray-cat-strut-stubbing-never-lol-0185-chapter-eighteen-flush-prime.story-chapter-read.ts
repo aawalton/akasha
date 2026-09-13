@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0185ChapterEighteenFlushPrime = {
   position: 185,
   ownLength: 1460,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/724449/chapter-eighteen-flush-prime",
-  externalId: "724449",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "724449",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/724449/chapter-eighteen-flush-prime",
+    },
+  ],
   publishedAt: "2021-07-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

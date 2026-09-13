@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0351ChapterThirtyFiveWhenBusinessTakes
   position: 351,
   ownLength: 1532,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1080246/chapter-thirty-five-when-business-takes-care-of",
-  externalId: "1080246",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1080246",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1080246/chapter-thirty-five-when-business-takes-care-of",
+    },
+  ],
   publishedAt: "2023-01-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

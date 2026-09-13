@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0013ChapterElevenLikeSantaButWithGuns 
   position: 13,
   ownLength: 1146,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/531185/chapter-eleven-like-santa-but-with-guns",
-  externalId: "531185",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "531185",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/531185/chapter-eleven-like-santa-but-with-guns",
+    },
+  ],
   publishedAt: "2020-07-29",
   prose: "txt",
 } as const satisfies StoryChapterRead
