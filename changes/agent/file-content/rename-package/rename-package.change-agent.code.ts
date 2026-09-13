@@ -23,7 +23,7 @@ import {
   calledIn,
   objectIn,
 } from "akasha/code/modules/package-manifest/package-manifest.module.code.ts"
-import { typed } from "akasha/code/modules/typing/code-typing.module.code.ts"
+import { typed } from "akasha/code/reading/modules/typing/code-typing.module.code.ts"
 import { manifestsIn } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
 import { importingOf } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
 import { matchingIn } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"

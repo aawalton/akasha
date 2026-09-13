@@ -1,6 +1,6 @@
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
-import { typed } from "akasha/code/modules/typing/code-typing.module.code.ts"
+import { typed } from "akasha/code/reading/modules/typing/code-typing.module.code.ts"
 import { identityIn } from "akasha/pages/indexes/identity/index-identity.index.code.ts"
 import { importIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
 import { listedOf } from "akasha/pages/indexes/listing/index-listing.index.code.ts"
