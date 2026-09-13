@@ -4,8 +4,6 @@ import {
 } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { rotatedOf } from "akasha/agents/seats/session/modules/seat-rotated-session/seat-rotated-session.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/modules/supervisor-console/supervisor-console.module.code.ts"
-import { clearSeatRotation } from "akasha/agents/seats/supervisors/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
-import { watchSeatRotation } from "akasha/agents/seats/supervisors/modules/supervisor-rotation-watch/supervisor-rotation-watch.module.code.ts"
 import { claimSeatSupervision } from "akasha/agents/seats/supervisors/supervisor-boot/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
 import type { AgentIdHandle } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
 import { setRestoreConsoleHandle } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
@@ -15,6 +13,8 @@ import {
   performClearRebind,
 } from "akasha/agents/seats/supervisors/supervisor-rebinding/modules/supervisor-rebind/supervisor-rebind.module.code.ts"
 import type { ClearRebindDeps } from "akasha/agents/seats/supervisors/supervisor-rebinding/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
+import { clearSeatRotation } from "akasha/agents/seats/supervisors/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
+import { watchSeatRotation } from "akasha/agents/seats/supervisors/supervisor-ticking/modules/supervisor-rotation-watch/supervisor-rotation-watch.module.code.ts"
 
 export function wireSessionRotatedWatcher(args: {
   selectedAccount: string

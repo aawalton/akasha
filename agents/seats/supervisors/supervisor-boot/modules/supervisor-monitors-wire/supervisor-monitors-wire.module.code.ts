@@ -5,7 +5,6 @@ import { handleProxyVersionUpdate } from "akasha/agents/seats/oauth-proxy/module
 import { pollSupervisorFileVersion } from "akasha/agents/seats/self-healing/modules/supervisor-file-version/supervisor-file-version.module.code.ts"
 import { handleVersionUpdate } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal/supervisor-self-heal.module.code.ts"
 import { SUPERVISOR_SCRIPT } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import { buildHeartbeatMonitor } from "akasha/agents/seats/supervisors/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"
 import { pollAgentAction } from "akasha/agents/seats/supervisors/supervisor-actions/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
@@ -14,6 +13,7 @@ import {
 } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
 import { startLimitResumeMonitor } from "akasha/agents/seats/supervisors/supervisor-resuming/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"
 import { startWaitResumeMonitor } from "akasha/agents/seats/supervisors/supervisor-resuming/modules/supervisor-wait-resume/supervisor-wait-resume.module.code.ts"
+import { buildHeartbeatMonitor } from "akasha/agents/seats/supervisors/supervisor-ticking/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"
 
 export type PerAgentMonitors = {
   heartbeatTimer: ReturnType<typeof setInterval>

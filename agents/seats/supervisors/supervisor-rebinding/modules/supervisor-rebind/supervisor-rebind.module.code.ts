@@ -1,4 +1,3 @@
-import { keepSeatTranscript } from "akasha/agents/seats/supervisors/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import type { RowAgentLaunch } from "akasha/agents/seats/supervisors/supervisor-child/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
 import {
   AGENT_LAUNCH_OPENED,
@@ -11,6 +10,7 @@ import {
   carriedForSeat,
 } from "akasha/agents/seats/supervisors/supervisor-rebinding/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
 import type { ClearRebindDeps } from "akasha/agents/seats/supervisors/supervisor-rebinding/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
+import { keepSeatTranscript } from "akasha/agents/seats/supervisors/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 
 export type ClearRebindHooks = {
   selectedAccount: string

@@ -7,7 +7,6 @@ import {
   SUPERVISOR_SCRIPT,
   teardownVersionSubscription,
 } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import { takeSeatPage } from "akasha/agents/seats/supervisors/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import type { ChildExitRuleSource } from "akasha/agents/seats/supervisors/supervisor-child/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
@@ -22,6 +21,7 @@ import {
   killProcessesForShutdown,
   recordShutdownEvent,
 } from "akasha/agents/seats/supervisors/supervisor-shutdown/modules/supervisor-shutdown-procs/supervisor-shutdown-procs.module.code.ts"
+import { takeSeatPage } from "akasha/agents/seats/supervisors/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const SHUTDOWN_FORCE_EXIT_MS = 10_000

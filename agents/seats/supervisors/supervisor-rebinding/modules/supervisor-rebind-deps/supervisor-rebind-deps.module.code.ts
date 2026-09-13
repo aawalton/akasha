@@ -4,13 +4,13 @@ import { seatNameForAgent } from "akasha/agents/seats/observation/modules/seat-p
 import { akashaSeatIdForName } from "akasha/agents/seats/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { pageValuesOf } from "akasha/agents/seats/page/modules/values/seat-page-values.module.code.ts"
 import {
-  keepSeatSession,
-  takeSeatPage,
-} from "akasha/agents/seats/supervisors/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
-import {
   createAgent,
   type RowAgentLaunch,
 } from "akasha/agents/seats/supervisors/supervisor-child/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
+import {
+  keepSeatSession,
+  takeSeatPage,
+} from "akasha/agents/seats/supervisors/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"
 
 function nameOf(agentId: string): string | null {

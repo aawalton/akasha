@@ -1,5 +1,4 @@
 import { readTranscriptMtimeMs } from "akasha/agents/modules/io-probe/io-probe.module.code.ts"
-import { guardTick } from "akasha/agents/seats/supervisors/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
 import type { IdleObservation } from "akasha/agents/seats/supervisors/supervisor-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import {
   observeBusyChildDetails,
@@ -19,6 +18,7 @@ import type {
   DeferredRestartRuleSource,
   DeferredRestartState,
 } from "akasha/agents/seats/supervisors/supervisor-restarting/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
+import { guardTick } from "akasha/agents/seats/supervisors/supervisor-ticking/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
 
 const TICK_MS = 10_000
 

@@ -1,5 +1,4 @@
 import { readOwnTranscriptTail } from "akasha/agents/modules/io-probe/io-probe.module.code.ts"
-import { tickSaying } from "akasha/agents/seats/supervisors/modules/supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
 import { askSupervisorDecide } from "akasha/agents/seats/supervisors/supervisor-resuming/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
 import {
   ANNOUNCE,
@@ -20,6 +19,7 @@ import {
   CONNECTION_STATUS,
   classifyTurnEndErrorDeath,
 } from "akasha/agents/seats/supervisors/supervisor-resuming/modules/turn-end-error-death/turn-end-error-death.module.code.ts"
+import { tickSaying } from "akasha/agents/seats/supervisors/supervisor-ticking/modules/supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
 
 const WAIT_RESUME_INTERVAL_MS = 30_000

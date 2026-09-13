@@ -10,7 +10,6 @@ import {
   setCurrentSessionIdForSelfHeal,
 } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/modules/supervisor-console/supervisor-console.module.code.ts"
-import { keepSeatTranscript } from "akasha/agents/seats/supervisors/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import { claimSeatSupervision } from "akasha/agents/seats/supervisors/supervisor-boot/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
 import type {
   InteractiveOpts,
@@ -44,6 +43,7 @@ import {
   sendMessage,
   USER_SOURCE,
 } from "akasha/agents/seats/supervisors/supervisor-resuming/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
+import { keepSeatTranscript } from "akasha/agents/seats/supervisors/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
 
 export async function openIteration(args: {
