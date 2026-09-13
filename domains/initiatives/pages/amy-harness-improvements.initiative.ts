@@ -25,6 +25,16 @@ export const amyHarnessImprovements = {
     {
       statement: "A subagent is stopped from the agents panel, as a seat is.",
     },
+    {
+      statement:
+        "A line shift-enter opens in a terminal tab's Claude Code carries the indent of the line above.",
+    },
+    {
+      statement: "A line opened that way under a bullet starts a bullet.",
+    },
+    {
+      statement: "A line opened that way under a numbered item starts the next number.",
+    },
   ],
 
   constraints: [
