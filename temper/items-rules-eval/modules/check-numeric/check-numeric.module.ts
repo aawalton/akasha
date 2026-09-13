@@ -6,6 +6,7 @@ export const checkNumeric = {
   slug: "check-numeric",
   definition: "the condition check over an item's quality, level, and three value figures",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
