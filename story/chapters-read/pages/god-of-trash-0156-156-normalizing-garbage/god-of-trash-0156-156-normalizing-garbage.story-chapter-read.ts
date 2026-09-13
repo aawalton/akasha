@@ -10,9 +10,13 @@ export const godOfTrash0156156NormalizingGarbage = {
   ownLength: 2220,
   unit: "words",
   publishedAt: "2025-08-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2505442/156-normalizing-garbage",
-  externalId: "2505442",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2505442",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2505442/156-normalizing-garbage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

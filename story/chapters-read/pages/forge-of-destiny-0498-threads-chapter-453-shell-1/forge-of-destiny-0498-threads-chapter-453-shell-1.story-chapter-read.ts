@@ -10,9 +10,13 @@ export const forgeOfDestiny0498ThreadsChapter453Shell1 = {
   ownLength: 2237,
   unit: "words",
   publishedAt: "2025-06-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2352259/threads-chapter-453-shell-1",
-  externalId: "2352259",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2352259",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2352259/threads-chapter-453-shell-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash003131SeeItToTheEnd = {
   ownLength: 2282,
   unit: "words",
   publishedAt: "2025-03-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2150772/31-see-it-to-the-end",
-  externalId: "2150772",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2150772",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2150772/31-see-it-to-the-end",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

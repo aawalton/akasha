@@ -10,9 +10,13 @@ export const godOfTrash0129129ARemnantWeapon = {
   ownLength: 2151,
   unit: "words",
   publishedAt: "2025-07-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2432534/129-a-remnant-weapon",
-  externalId: "2432534",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2432534",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2432534/129-a-remnant-weapon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

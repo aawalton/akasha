@@ -10,9 +10,13 @@ export const forgeOfDestiny0466Threads422Shenglu1 = {
   ownLength: 1574,
   unit: "words",
   publishedAt: "2025-01-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2008875/threads-422-shenglu-1",
-  externalId: "2008875",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2008875",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2008875/threads-422-shenglu-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

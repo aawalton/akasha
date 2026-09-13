@@ -10,9 +10,13 @@ export const godOfTrash0159159Warpath = {
   ownLength: 2658,
   unit: "words",
   publishedAt: "2025-08-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2528880/159-warpath",
-  externalId: "2528880",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2528880",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2528880/159-warpath",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

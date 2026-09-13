@@ -11,9 +11,13 @@ export const gamerGirlEvolution005453WithinTheCastleWalls = {
   ownProgress: 765,
   unit: "words",
   publishedAt: "2026-04-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/3243876/53-within-the-castle-walls",
-  externalId: "3243876",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3243876",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/3243876/53-within-the-castle-walls",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

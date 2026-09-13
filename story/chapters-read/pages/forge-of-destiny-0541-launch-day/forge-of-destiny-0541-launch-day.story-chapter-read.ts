@@ -10,9 +10,13 @@ export const forgeOfDestiny0541LaunchDay = {
   ownLength: 119,
   unit: "words",
   publishedAt: "2026-01-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2961417/launch-day",
-  externalId: "2961417",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2961417",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2961417/launch-day",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

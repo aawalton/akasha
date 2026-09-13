@@ -10,9 +10,13 @@ export const forgeOfDestiny0556Threads507Ith1 = {
   ownLength: 2618,
   unit: "words",
   publishedAt: "2026-03-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3171432/threads-507-ith-1",
-  externalId: "3171432",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3171432",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3171432/threads-507-ith-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash007777DoubleDate = {
   ownLength: 2405,
   unit: "words",
   publishedAt: "2025-05-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2284485/77-double-date",
-  externalId: "2284485",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2284485",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2284485/77-double-date",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

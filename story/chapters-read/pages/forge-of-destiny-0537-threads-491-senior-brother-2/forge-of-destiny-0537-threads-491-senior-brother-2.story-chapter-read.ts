@@ -10,9 +10,13 @@ export const forgeOfDestiny0537Threads491SeniorBrother2 = {
   ownLength: 2462,
   unit: "words",
   publishedAt: "2026-01-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2925314/threads-491-senior-brother-2",
-  externalId: "2925314",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2925314",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2925314/threads-491-senior-brother-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

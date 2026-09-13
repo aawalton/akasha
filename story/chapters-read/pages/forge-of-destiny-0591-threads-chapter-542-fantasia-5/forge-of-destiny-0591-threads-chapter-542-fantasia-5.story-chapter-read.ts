@@ -10,9 +10,13 @@ export const forgeOfDestiny0591ThreadsChapter542Fantasia5 = {
   ownLength: 2364,
   unit: "words",
   publishedAt: "2026-09-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3893459/threads-chapter-542-fantasia-5",
-  externalId: "3893459",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3893459",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3893459/threads-chapter-542-fantasia-5",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

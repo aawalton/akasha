@@ -10,9 +10,13 @@ export const forgeOfDestiny0456Thread412TamingWinter1 = {
   ownLength: 1888,
   unit: "words",
   publishedAt: "2024-11-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1898412/thread-412--taming-winter-1",
-  externalId: "1898412",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1898412",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1898412/thread-412--taming-winter-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

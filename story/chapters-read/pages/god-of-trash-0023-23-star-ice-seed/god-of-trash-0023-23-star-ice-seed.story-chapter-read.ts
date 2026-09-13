@@ -10,9 +10,13 @@ export const godOfTrash002323StarIceSeed = {
   ownLength: 3803,
   unit: "words",
   publishedAt: "2025-03-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2132976/23-star-ice-seed",
-  externalId: "2132976",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2132976",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2132976/23-star-ice-seed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

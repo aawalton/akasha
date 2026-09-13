@@ -10,9 +10,13 @@ export const godOfTrash008080EnlighteningChips = {
   ownLength: 2003,
   unit: "words",
   publishedAt: "2025-05-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2291354/80-enlightening-chips",
-  externalId: "2291354",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2291354",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2291354/80-enlightening-chips",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

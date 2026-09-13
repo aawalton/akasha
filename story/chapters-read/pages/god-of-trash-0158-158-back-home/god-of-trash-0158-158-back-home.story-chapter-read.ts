@@ -10,9 +10,13 @@ export const godOfTrash0158158BackHome = {
   ownLength: 1998,
   unit: "words",
   publishedAt: "2025-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2526077/158-back-home",
-  externalId: "2526077",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2526077",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2526077/158-back-home",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

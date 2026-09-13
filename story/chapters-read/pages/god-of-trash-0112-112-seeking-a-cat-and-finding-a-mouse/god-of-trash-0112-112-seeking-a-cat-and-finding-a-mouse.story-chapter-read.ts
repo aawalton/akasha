@@ -10,9 +10,13 @@ export const godOfTrash0112112SeekingACatAndFindingAMouse = {
   ownLength: 2123,
   unit: "words",
   publishedAt: "2025-06-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2387773/112-seeking-a-cat-and-finding-a-mouse",
-  externalId: "2387773",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2387773",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2387773/112-seeking-a-cat-and-finding-a-mouse",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

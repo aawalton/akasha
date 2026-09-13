@@ -10,9 +10,13 @@ export const godOfTrash005252Skullduggery = {
   ownLength: 2879,
   unit: "words",
   publishedAt: "2025-04-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2205028/52-skullduggery",
-  externalId: "2205028",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2205028",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2205028/52-skullduggery",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

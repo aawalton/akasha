@@ -12,9 +12,13 @@ export const gamerGirlEvolution002323LetSTeachIngrid2 = {
   unit: "words",
   completedAt: "2026-06-29T20:06:19.269Z",
   publishedAt: "2025-10-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2711906/23-lets-teach-ingrid-2",
-  externalId: "2711906",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2711906",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2711906/23-lets-teach-ingrid-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

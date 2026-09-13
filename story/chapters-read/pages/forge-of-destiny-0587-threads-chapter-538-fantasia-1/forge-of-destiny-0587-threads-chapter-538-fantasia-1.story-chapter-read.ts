@@ -10,9 +10,13 @@ export const forgeOfDestiny0587ThreadsChapter538Fantasia1 = {
   ownLength: 2562,
   unit: "words",
   publishedAt: "2026-08-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3828426/threads-chapter-538-fantasia-1",
-  externalId: "3828426",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3828426",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3828426/threads-chapter-538-fantasia-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

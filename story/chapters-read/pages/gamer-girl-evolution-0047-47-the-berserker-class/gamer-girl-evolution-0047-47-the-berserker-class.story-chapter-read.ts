@@ -12,9 +12,13 @@ export const gamerGirlEvolution004747TheBerserkerClass = {
   unit: "words",
   completedAt: "2026-06-29T20:07:05.044Z",
   publishedAt: "2026-01-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2949219/47-the-berserker-class",
-  externalId: "2949219",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2949219",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2949219/47-the-berserker-class",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

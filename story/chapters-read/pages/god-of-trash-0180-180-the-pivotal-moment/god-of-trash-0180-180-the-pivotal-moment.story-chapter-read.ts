@@ -10,9 +10,13 @@ export const godOfTrash0180180ThePivotalMoment = {
   ownLength: 1962,
   unit: "words",
   publishedAt: "2025-09-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2585703/180-the-pivotal-moment",
-  externalId: "2585703",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2585703",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2585703/180-the-pivotal-moment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

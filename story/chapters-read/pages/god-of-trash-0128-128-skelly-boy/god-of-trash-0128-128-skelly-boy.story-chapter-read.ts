@@ -10,9 +10,13 @@ export const godOfTrash0128128SkellyBoy = {
   ownLength: 2193,
   unit: "words",
   publishedAt: "2025-07-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2430323/128-skelly-boy",
-  externalId: "2430323",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2430323",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2430323/128-skelly-boy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

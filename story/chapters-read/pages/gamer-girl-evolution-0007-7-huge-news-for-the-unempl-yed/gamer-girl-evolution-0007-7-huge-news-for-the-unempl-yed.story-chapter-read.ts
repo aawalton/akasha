@@ -12,9 +12,13 @@ export const gamerGirlEvolution00077HugeNewsForTheUnemplYed = {
   unit: "words",
   completedAt: "2026-06-29T20:05:49.008Z",
   publishedAt: "2025-09-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2620543/7-huge-news-for-the-unemplyed",
-  externalId: "2620543",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2620543",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2620543/7-huge-news-for-the-unemplyed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

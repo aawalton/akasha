@@ -10,9 +10,13 @@ export const godOfTrash0175175EverythingsSofterWhenItsWet = {
   ownLength: 2435,
   unit: "words",
   publishedAt: "2025-09-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2571947/175-everythings-softer-when-its-wet",
-  externalId: "2571947",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2571947",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2571947/175-everythings-softer-when-its-wet",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

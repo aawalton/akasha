@@ -10,9 +10,13 @@ export const forgeOfDestiny0586Threads537Duel3 = {
   ownLength: 2168,
   unit: "words",
   publishedAt: "2026-08-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3811352/threads-537-duel-3",
-  externalId: "3811352",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3811352",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3811352/threads-537-duel-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

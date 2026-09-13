@@ -10,9 +10,13 @@ export const forgeOfDestiny0533Threads488Ceremony2 = {
   ownLength: 3114,
   unit: "words",
   publishedAt: "2025-12-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2851966/threads-488-ceremony-2",
-  externalId: "2851966",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2851966",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2851966/threads-488-ceremony-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

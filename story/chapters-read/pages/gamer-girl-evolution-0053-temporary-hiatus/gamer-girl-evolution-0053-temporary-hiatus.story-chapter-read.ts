@@ -12,9 +12,13 @@ export const gamerGirlEvolution0053TemporaryHiatus = {
   unit: "words",
   completedAt: "2026-06-29T20:07:16.270Z",
   publishedAt: "2026-02-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/3005748/temporary-hiatus",
-  externalId: "3005748",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3005748",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/3005748/temporary-hiatus",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

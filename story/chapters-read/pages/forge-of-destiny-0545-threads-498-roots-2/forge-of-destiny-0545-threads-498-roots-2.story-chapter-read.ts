@@ -10,9 +10,13 @@ export const forgeOfDestiny0545Threads498Roots2 = {
   ownLength: 1895,
   unit: "words",
   publishedAt: "2026-02-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3007284/threads-498-roots-2",
-  externalId: "3007284",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3007284",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3007284/threads-498-roots-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

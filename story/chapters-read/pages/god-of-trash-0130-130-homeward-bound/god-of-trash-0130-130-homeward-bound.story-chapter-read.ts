@@ -10,9 +10,13 @@ export const godOfTrash0130130HomewardBound = {
   ownLength: 2982,
   unit: "words",
   publishedAt: "2025-07-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2435319/130-homeward-bound",
-  externalId: "2435319",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2435319",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2435319/130-homeward-bound",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

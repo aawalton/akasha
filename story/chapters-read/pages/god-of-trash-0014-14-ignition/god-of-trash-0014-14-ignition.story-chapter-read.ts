@@ -10,9 +10,13 @@ export const godOfTrash001414Ignition = {
   ownLength: 3716,
   unit: "words",
   publishedAt: "2025-03-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2114181/14-ignition",
-  externalId: "2114181",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2114181",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2114181/14-ignition",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

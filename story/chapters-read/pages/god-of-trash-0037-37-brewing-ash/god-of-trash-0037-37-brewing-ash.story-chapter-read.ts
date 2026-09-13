@@ -10,9 +10,13 @@ export const godOfTrash003737BrewingAsh = {
   ownLength: 2181,
   unit: "words",
   publishedAt: "2025-03-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2164185/37-brewing-ash",
-  externalId: "2164185",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2164185",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2164185/37-brewing-ash",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

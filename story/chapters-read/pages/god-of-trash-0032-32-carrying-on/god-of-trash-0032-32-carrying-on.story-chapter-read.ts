@@ -10,9 +10,13 @@ export const godOfTrash003232CarryingOn = {
   ownLength: 3302,
   unit: "words",
   publishedAt: "2025-03-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2152963/32-carrying-on",
-  externalId: "2152963",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2152963",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2152963/32-carrying-on",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

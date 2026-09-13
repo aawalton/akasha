@@ -10,9 +10,13 @@ export const forgeOfDestiny0553Threads504Mending1 = {
   ownLength: 1898,
   unit: "words",
   publishedAt: "2026-03-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3135485/threads-504-mending-1",
-  externalId: "3135485",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3135485",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3135485/threads-504-mending-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0111111GrandStrategy = {
   ownLength: 2230,
   unit: "words",
   publishedAt: "2025-06-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2385216/111-grand-strategy",
-  externalId: "2385216",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2385216",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2385216/111-grand-strategy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

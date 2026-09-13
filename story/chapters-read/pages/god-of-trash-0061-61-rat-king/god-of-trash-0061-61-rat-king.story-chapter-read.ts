@@ -10,9 +10,13 @@ export const godOfTrash006161RatKing = {
   ownLength: 2746,
   unit: "words",
   publishedAt: "2025-04-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2244517/61-rat-king",
-  externalId: "2244517",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2244517",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2244517/61-rat-king",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

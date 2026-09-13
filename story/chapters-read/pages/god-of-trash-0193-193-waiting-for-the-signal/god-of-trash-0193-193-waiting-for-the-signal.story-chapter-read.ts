@@ -10,9 +10,13 @@ export const godOfTrash0193193WaitingForTheSignal = {
   ownLength: 1467,
   unit: "words",
   publishedAt: "2025-09-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2618187/193-waiting-for-the-signal",
-  externalId: "2618187",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2618187",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2618187/193-waiting-for-the-signal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

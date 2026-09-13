@@ -10,9 +10,13 @@ export const forgeOfDestiny0517Threads472Glass2 = {
   ownLength: 2529,
   unit: "words",
   publishedAt: "2025-09-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2603733/threads-472-glass-2",
-  externalId: "2603733",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2603733",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2603733/threads-472-glass-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

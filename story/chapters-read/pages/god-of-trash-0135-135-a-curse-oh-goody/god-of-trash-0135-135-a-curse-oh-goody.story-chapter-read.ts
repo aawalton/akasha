@@ -10,9 +10,13 @@ export const godOfTrash0135135ACurseOhGoody = {
   ownLength: 2373,
   unit: "words",
   publishedAt: "2025-07-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2449727/135-a-curse-oh-goody",
-  externalId: "2449727",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2449727",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2449727/135-a-curse-oh-goody",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

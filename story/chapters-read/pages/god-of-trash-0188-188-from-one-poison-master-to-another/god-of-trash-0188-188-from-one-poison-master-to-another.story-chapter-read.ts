@@ -10,9 +10,13 @@ export const godOfTrash0188188FromOnePoisonMasterToAnother = {
   ownLength: 2107,
   unit: "words",
   publishedAt: "2025-09-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2605611/188-from-one-poison-master-to-another",
-  externalId: "2605611",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2605611",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2605611/188-from-one-poison-master-to-another",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

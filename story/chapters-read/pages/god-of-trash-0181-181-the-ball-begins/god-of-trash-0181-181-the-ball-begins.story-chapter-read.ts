@@ -10,9 +10,13 @@ export const godOfTrash0181181TheBallBegins = {
   ownLength: 2152,
   unit: "words",
   publishedAt: "2025-09-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2588112/181-the-ball-begins",
-  externalId: "2588112",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2588112",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2588112/181-the-ball-begins",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

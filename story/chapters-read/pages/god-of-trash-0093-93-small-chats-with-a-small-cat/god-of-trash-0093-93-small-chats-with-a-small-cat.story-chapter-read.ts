@@ -10,9 +10,13 @@ export const godOfTrash009393SmallChatsWithASmallCat = {
   ownLength: 2688,
   unit: "words",
   publishedAt: "2025-06-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2322752/93-small-chats-with-a-small-cat",
-  externalId: "2322752",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2322752",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2322752/93-small-chats-with-a-small-cat",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

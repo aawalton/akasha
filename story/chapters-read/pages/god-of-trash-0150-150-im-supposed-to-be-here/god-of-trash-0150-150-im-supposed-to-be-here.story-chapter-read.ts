@@ -10,9 +10,13 @@ export const godOfTrash0150150ImSupposedToBeHere = {
   ownLength: 2184,
   unit: "words",
   publishedAt: "2025-08-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2489521/150-im-supposed-to-be-here",
-  externalId: "2489521",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2489521",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2489521/150-im-supposed-to-be-here",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

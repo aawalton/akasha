@@ -10,9 +10,13 @@ export const forgeOfDestiny0492Threads448CathedralOfWinds7 = {
   ownLength: 2068,
   unit: "words",
   publishedAt: "2025-05-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2275465/threads-448-cathedral-of-winds-7",
-  externalId: "2275465",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2275465",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2275465/threads-448-cathedral-of-winds-7",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

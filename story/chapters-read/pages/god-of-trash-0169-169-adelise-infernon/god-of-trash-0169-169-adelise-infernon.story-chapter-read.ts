@@ -10,9 +10,13 @@ export const godOfTrash0169169AdeliseInfernon = {
   ownLength: 1979,
   unit: "words",
   publishedAt: "2025-08-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2555826/169-adelise-infernon",
-  externalId: "2555826",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2555826",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2555826/169-adelise-infernon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

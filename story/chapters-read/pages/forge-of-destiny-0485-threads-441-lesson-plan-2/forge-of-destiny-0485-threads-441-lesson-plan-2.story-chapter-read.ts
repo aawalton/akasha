@@ -10,9 +10,13 @@ export const forgeOfDestiny0485Threads441LessonPlan2 = {
   ownLength: 1716,
   unit: "words",
   publishedAt: "2025-04-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2172803/threads-441-lesson-plan-2",
-  externalId: "2172803",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2172803",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2172803/threads-441-lesson-plan-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

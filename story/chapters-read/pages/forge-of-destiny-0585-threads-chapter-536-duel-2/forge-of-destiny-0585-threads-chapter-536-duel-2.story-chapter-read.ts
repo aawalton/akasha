@@ -10,9 +10,13 @@ export const forgeOfDestiny0585ThreadsChapter536Duel2 = {
   ownLength: 1868,
   unit: "words",
   publishedAt: "2026-08-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3798110/threads-chapter-536-duel-2",
-  externalId: "3798110",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3798110",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3798110/threads-chapter-536-duel-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

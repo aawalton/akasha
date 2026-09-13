@@ -12,9 +12,13 @@ export const gamerGirlEvolution003232MoltenArena = {
   unit: "words",
   completedAt: "2026-06-29T20:06:36.390Z",
   publishedAt: "2025-11-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2798080/32-molten-arena",
-  externalId: "2798080",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2798080",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2798080/32-molten-arena",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

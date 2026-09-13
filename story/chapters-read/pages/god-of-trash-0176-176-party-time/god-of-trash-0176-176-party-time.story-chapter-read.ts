@@ -10,9 +10,13 @@ export const godOfTrash0176176PartyTime = {
   ownLength: 2156,
   unit: "words",
   publishedAt: "2025-09-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2574588/176-party-time",
-  externalId: "2574588",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2574588",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2574588/176-party-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0104104ItHadBegun = {
   ownLength: 2575,
   unit: "words",
   publishedAt: "2025-06-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2367148/104-it-had-begun",
-  externalId: "2367148",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2367148",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2367148/104-it-had-begun",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

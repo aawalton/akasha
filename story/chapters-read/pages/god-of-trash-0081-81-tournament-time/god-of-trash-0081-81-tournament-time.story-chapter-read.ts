@@ -10,9 +10,13 @@ export const godOfTrash008181TournamentTime = {
   ownLength: 2402,
   unit: "words",
   publishedAt: "2025-05-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2293756/81-tournament-time",
-  externalId: "2293756",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2293756",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2293756/81-tournament-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const gamerGirlEvolution002727SnappedSwordVsTheRiftToad1 = {
   unit: "words",
   completedAt: "2026-06-29T20:06:26.811Z",
   publishedAt: "2025-11-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2777895/27-snapped-sword-vs-the-rift-toad-1",
-  externalId: "2777895",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2777895",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2777895/27-snapped-sword-vs-the-rift-toad-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

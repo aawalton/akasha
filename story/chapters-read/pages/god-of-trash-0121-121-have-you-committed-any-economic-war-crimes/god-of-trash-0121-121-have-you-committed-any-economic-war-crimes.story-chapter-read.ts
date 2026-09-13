@@ -10,9 +10,13 @@ export const godOfTrash0121121HaveYouCommittedAnyEconomicWarCrimes = {
   ownLength: 2050,
   unit: "words",
   publishedAt: "2025-07-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2411974/121-have-you-committed-any-economic-war-crimes",
-  externalId: "2411974",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2411974",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2411974/121-have-you-committed-any-economic-war-crimes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

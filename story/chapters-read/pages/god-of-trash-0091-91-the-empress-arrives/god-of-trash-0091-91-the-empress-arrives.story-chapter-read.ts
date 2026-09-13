@@ -10,9 +10,13 @@ export const godOfTrash009191TheEmpressArrives = {
   ownLength: 2177,
   unit: "words",
   publishedAt: "2025-05-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2317834/91-the-empress-arrives",
-  externalId: "2317834",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2317834",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2317834/91-the-empress-arrives",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

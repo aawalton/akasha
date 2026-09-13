@@ -10,9 +10,13 @@ export const forgeOfDestiny0549Threads501Temple1 = {
   ownLength: 1901,
   unit: "words",
   publishedAt: "2026-02-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3072967/threads-501-temple-1",
-  externalId: "3072967",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3072967",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3072967/threads-501-temple-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

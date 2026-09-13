@@ -10,9 +10,13 @@ export const godOfTrash0166166CampingAndGlamping = {
   ownLength: 2314,
   unit: "words",
   publishedAt: "2025-08-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2547724/166-camping-and-glamping",
-  externalId: "2547724",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2547724",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2547724/166-camping-and-glamping",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

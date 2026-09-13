@@ -10,9 +10,13 @@ export const godOfTrash0139139WaterSyndicateVsTheSnackShack = {
   ownLength: 2332,
   unit: "words",
   publishedAt: "2025-07-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2460484/139-water-syndicate-vs-the-snack-shack",
-  externalId: "2460484",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2460484",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2460484/139-water-syndicate-vs-the-snack-shack",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

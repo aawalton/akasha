@@ -10,9 +10,13 @@ export const godOfTrash007979BellyOfTheBeast = {
   ownLength: 2407,
   unit: "words",
   publishedAt: "2025-05-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2289041/79-belly-of-the-beast",
-  externalId: "2289041",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2289041",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2289041/79-belly-of-the-beast",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

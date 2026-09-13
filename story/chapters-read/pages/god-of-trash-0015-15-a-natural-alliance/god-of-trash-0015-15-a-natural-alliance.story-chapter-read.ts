@@ -10,9 +10,13 @@ export const godOfTrash001515ANaturalAlliance = {
   ownLength: 2760,
   unit: "words",
   publishedAt: "2025-03-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2115909/15-a-natural-alliance",
-  externalId: "2115909",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2115909",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2115909/15-a-natural-alliance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

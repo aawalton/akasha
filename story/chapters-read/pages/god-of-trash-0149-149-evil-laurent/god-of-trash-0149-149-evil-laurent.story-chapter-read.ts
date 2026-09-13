@@ -10,9 +10,13 @@ export const godOfTrash0149149EvilLaurent = {
   ownLength: 2202,
   unit: "words",
   publishedAt: "2025-08-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2487284/149-evil-laurent",
-  externalId: "2487284",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2487284",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2487284/149-evil-laurent",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

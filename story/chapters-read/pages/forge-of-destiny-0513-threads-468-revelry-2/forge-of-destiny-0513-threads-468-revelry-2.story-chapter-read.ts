@@ -10,9 +10,13 @@ export const forgeOfDestiny0513Threads468Revelry2 = {
   ownLength: 1641,
   unit: "words",
   publishedAt: "2025-08-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2529589/threads-468-revelry-2",
-  externalId: "2529589",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2529589",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2529589/threads-468-revelry-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

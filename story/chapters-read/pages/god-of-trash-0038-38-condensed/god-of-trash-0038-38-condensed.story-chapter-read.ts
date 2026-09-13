@@ -10,9 +10,13 @@ export const godOfTrash003838Condensed = {
   ownLength: 3107,
   unit: "words",
   publishedAt: "2025-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2166770/38-condensed",
-  externalId: "2166770",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2166770",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2166770/38-condensed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

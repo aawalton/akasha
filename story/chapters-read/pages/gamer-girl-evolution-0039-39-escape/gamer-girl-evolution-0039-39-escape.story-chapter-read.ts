@@ -12,9 +12,13 @@ export const gamerGirlEvolution003939Escape = {
   unit: "words",
   completedAt: "2026-06-29T20:06:49.864Z",
   publishedAt: "2026-01-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2917658/39-escape",
-  externalId: "2917658",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2917658",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2917658/39-escape",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

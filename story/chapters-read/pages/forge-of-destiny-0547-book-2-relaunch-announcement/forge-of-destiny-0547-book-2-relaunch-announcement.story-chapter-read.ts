@@ -10,9 +10,13 @@ export const forgeOfDestiny0547Book2RelaunchAnnouncement = {
   ownLength: 139,
   unit: "words",
   publishedAt: "2026-02-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3037151/book-2-relaunch-announcement",
-  externalId: "3037151",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3037151",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3037151/book-2-relaunch-announcement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

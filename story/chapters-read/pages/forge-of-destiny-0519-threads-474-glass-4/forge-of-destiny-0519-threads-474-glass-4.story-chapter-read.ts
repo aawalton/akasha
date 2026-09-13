@@ -10,9 +10,13 @@ export const forgeOfDestiny0519Threads474Glass4 = {
   ownLength: 2022,
   unit: "words",
   publishedAt: "2025-09-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2622393/threads-474-glass-4",
-  externalId: "2622393",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2622393",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2622393/threads-474-glass-4",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

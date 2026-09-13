@@ -10,9 +10,13 @@ export const godOfTrash005151ForgingRobes = {
   ownLength: 2210,
   unit: "words",
   publishedAt: "2025-04-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2202230/51-forging-robes",
-  externalId: "2202230",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2202230",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2202230/51-forging-robes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

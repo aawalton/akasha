@@ -12,9 +12,13 @@ export const gamerGirlEvolution001111TheOpportunityOfALifetime = {
   unit: "words",
   completedAt: "2026-06-29T20:05:56.444Z",
   publishedAt: "2025-09-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2628711/11-the-opportunity-of-a-lifetime",
-  externalId: "2628711",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2628711",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2628711/11-the-opportunity-of-a-lifetime",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

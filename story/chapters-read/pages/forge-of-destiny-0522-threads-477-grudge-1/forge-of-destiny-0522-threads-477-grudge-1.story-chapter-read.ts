@@ -10,9 +10,13 @@ export const forgeOfDestiny0522Threads477Grudge1 = {
   ownLength: 1992,
   unit: "words",
   publishedAt: "2025-10-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2647198/threads-477-grudge-1",
-  externalId: "2647198",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2647198",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2647198/threads-477-grudge-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash002525PotionsAndThePit = {
   ownLength: 2573,
   unit: "words",
   publishedAt: "2025-03-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2137488/25-potions-and-the-pit",
-  externalId: "2137488",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2137488",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2137488/25-potions-and-the-pit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

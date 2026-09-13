@@ -10,9 +10,13 @@ export const godOfTrash0131131DisregardWomenAcquireSoda = {
   ownLength: 2212,
   unit: "words",
   publishedAt: "2025-07-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2438100/131-disregard-women-acquire-soda",
-  externalId: "2438100",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2438100",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2438100/131-disregard-women-acquire-soda",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

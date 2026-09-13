@@ -10,9 +10,13 @@ export const godOfTrash00044CashingIn = {
   ownLength: 3610,
   unit: "words",
   publishedAt: "2025-02-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2093403/4-cashing-in",
-  externalId: "2093403",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2093403",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2093403/4-cashing-in",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

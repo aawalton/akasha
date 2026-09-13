@@ -10,9 +10,13 @@ export const godOfTrash00099AForkInTheRoad = {
   ownLength: 4436,
   unit: "words",
   publishedAt: "2025-03-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2101810/9-a-fork-in-the-road",
-  externalId: "2101810",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2101810",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2101810/9-a-fork-in-the-road",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

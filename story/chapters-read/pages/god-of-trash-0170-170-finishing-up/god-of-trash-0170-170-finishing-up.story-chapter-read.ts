@@ -10,9 +10,13 @@ export const godOfTrash0170170FinishingUp = {
   ownLength: 2192,
   unit: "words",
   publishedAt: "2025-08-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2558709/170-finishing-up",
-  externalId: "2558709",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2558709",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2558709/170-finishing-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const forgeOfDestiny0540Threads494Reception3 = {
   ownLength: 1668,
   unit: "words",
   publishedAt: "2026-01-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2960085/threads-494-reception-3",
-  externalId: "2960085",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2960085",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2960085/threads-494-reception-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0103103CursedHoles = {
   ownLength: 2393,
   unit: "words",
   publishedAt: "2025-06-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2349126/103-cursed-holes",
-  externalId: "2349126",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2349126",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2349126/103-cursed-holes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const gamerGirlEvolution00088WeDoALittleBitOfTrolling = {
   unit: "words",
   completedAt: "2026-06-29T20:05:50.915Z",
   publishedAt: "2025-09-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2620548/8-we-do-a-little-bit-of-trolling",
-  externalId: "2620548",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2620548",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2620548/8-we-do-a-little-bit-of-trolling",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0192192HelloAgain = {
   ownLength: 1679,
   unit: "words",
   publishedAt: "2025-09-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2616130/192-hello-again",
-  externalId: "2616130",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2616130",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2616130/192-hello-again",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

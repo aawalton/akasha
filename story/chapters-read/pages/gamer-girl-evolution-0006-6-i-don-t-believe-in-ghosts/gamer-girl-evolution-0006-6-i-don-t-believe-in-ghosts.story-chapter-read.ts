@@ -12,9 +12,13 @@ export const gamerGirlEvolution00066IDonTBelieveInGhosts = {
   unit: "words",
   completedAt: "2026-06-29T20:05:47.157Z",
   publishedAt: "2025-09-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2620538/6-i-dont-believe-in-ghosts",
-  externalId: "2620538",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2620538",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2620538/6-i-dont-believe-in-ghosts",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

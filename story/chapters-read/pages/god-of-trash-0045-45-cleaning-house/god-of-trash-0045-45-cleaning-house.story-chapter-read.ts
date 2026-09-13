@@ -10,9 +10,13 @@ export const godOfTrash004545CleaningHouse = {
   ownLength: 3023,
   unit: "words",
   publishedAt: "2025-04-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2185655/45-cleaning-house",
-  externalId: "2185655",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2185655",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2185655/45-cleaning-house",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

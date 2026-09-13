@@ -10,9 +10,13 @@ export const godOfTrash003030Explosion = {
   ownLength: 2070,
   unit: "words",
   publishedAt: "2025-03-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2148464/30-explosion",
-  externalId: "2148464",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2148464",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2148464/30-explosion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

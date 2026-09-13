@@ -12,9 +12,13 @@ export const gamerGirlEvolution001313HeyCelicaWhatSANoob = {
   unit: "words",
   completedAt: "2026-06-29T20:06:00.242Z",
   publishedAt: "2025-10-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2643646/13-hey-celica-whats-a-noob",
-  externalId: "2643646",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2643646",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2643646/13-hey-celica-whats-a-noob",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

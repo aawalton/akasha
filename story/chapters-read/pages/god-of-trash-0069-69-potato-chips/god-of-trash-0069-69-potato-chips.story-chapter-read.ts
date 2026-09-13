@@ -10,9 +10,13 @@ export const godOfTrash006969PotatoChips = {
   ownLength: 3369,
   unit: "words",
   publishedAt: "2025-05-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2265322/69-potato-chips",
-  externalId: "2265322",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2265322",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2265322/69-potato-chips",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

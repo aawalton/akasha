@@ -12,9 +12,13 @@ export const gamerGirlEvolution00099NoobPartyAntics = {
   unit: "words",
   completedAt: "2026-06-29T20:05:52.743Z",
   publishedAt: "2025-09-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2620555/9-noob-party-antics",
-  externalId: "2620555",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2620555",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2620555/9-noob-party-antics",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

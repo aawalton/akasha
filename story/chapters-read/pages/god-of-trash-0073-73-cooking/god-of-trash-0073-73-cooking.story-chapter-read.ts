@@ -10,9 +10,13 @@ export const godOfTrash007373Cooking = {
   ownLength: 3150,
   unit: "words",
   publishedAt: "2025-05-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2274674/73-cooking",
-  externalId: "2274674",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2274674",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2274674/73-cooking",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

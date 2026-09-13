@@ -10,9 +10,13 @@ export const godOfTrash006464UnderTheMask = {
   ownLength: 3252,
   unit: "words",
   publishedAt: "2025-05-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2252513/64-under-the-mask",
-  externalId: "2252513",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2252513",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2252513/64-under-the-mask",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

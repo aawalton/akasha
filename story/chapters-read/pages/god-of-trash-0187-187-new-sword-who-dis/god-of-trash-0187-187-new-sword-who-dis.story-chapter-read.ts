@@ -10,9 +10,13 @@ export const godOfTrash0187187NewSwordWhoDis = {
   ownLength: 1928,
   unit: "words",
   publishedAt: "2025-09-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2603029/187-new-sword-who-dis",
-  externalId: "2603029",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2603029",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2603029/187-new-sword-who-dis",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

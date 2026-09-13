@@ -12,9 +12,13 @@ export const gamerGirlEvolution004444TrainWreck = {
   unit: "words",
   completedAt: "2026-06-29T20:06:59.210Z",
   publishedAt: "2026-01-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2939429/44-train-wreck",
-  externalId: "2939429",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2939429",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2939429/44-train-wreck",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

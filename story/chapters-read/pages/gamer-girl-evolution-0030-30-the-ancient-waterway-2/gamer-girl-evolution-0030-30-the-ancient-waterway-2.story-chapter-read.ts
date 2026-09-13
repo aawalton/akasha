@@ -12,9 +12,13 @@ export const gamerGirlEvolution003030TheAncientWaterway2 = {
   unit: "words",
   completedAt: "2026-06-29T20:06:32.567Z",
   publishedAt: "2025-11-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2792267/30-the-ancient-waterway-2",
-  externalId: "2792267",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2792267",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2792267/30-the-ancient-waterway-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

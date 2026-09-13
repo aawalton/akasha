@@ -10,9 +10,13 @@ export const godOfTrash0177177BallOrganizersHateThisOneNeatTrick = {
   ownLength: 2047,
   unit: "words",
   publishedAt: "2025-09-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2577495/177-ball-organizers-hate-this-one-neat-trick",
-  externalId: "2577495",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2577495",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2577495/177-ball-organizers-hate-this-one-neat-trick",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const gamerGirlEvolution004242AquaRiftCore = {
   unit: "words",
   completedAt: "2026-06-29T20:06:55.374Z",
   publishedAt: "2026-01-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2926923/42-aqua-rift-core",
-  externalId: "2926923",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2926923",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2926923/42-aqua-rift-core",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

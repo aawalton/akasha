@@ -12,9 +12,13 @@ export const gamerGirlEvolution003737TheEmpressOfTheNight = {
   unit: "words",
   completedAt: "2026-06-29T20:06:46.003Z",
   publishedAt: "2025-12-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2818574/37-the-empress-of-the-night",
-  externalId: "2818574",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2818574",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2818574/37-the-empress-of-the-night",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

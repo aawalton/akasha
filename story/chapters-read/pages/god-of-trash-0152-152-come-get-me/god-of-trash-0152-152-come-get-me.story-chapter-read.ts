@@ -10,9 +10,13 @@ export const godOfTrash0152152ComeGetMe = {
   ownLength: 2093,
   unit: "words",
   publishedAt: "2025-08-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2494956/152-come-get-me",
-  externalId: "2494956",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2494956",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2494956/152-come-get-me",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

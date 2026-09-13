@@ -10,9 +10,13 @@ export const gamerGirlEvolution005655AnotherDoorOpens = {
   ownLength: 1446,
   unit: "words",
   publishedAt: "2026-04-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/3256505/55-another-door-opens",
-  externalId: "3256505",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3256505",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/3256505/55-another-door-opens",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

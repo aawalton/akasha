@@ -10,9 +10,13 @@ export const godOfTrash0138138Calamity = {
   ownLength: 2075,
   unit: "words",
   publishedAt: "2025-07-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2457706/138-calamity",
-  externalId: "2457706",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2457706",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2457706/138-calamity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash004646CorporateInvestigation = {
   ownLength: 2981,
   unit: "words",
   publishedAt: "2025-04-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2188387/46-corporate-investigation",
-  externalId: "2188387",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2188387",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2188387/46-corporate-investigation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

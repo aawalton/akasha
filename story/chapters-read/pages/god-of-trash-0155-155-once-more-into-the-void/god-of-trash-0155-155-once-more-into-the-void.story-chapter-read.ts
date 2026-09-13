@@ -10,9 +10,13 @@ export const godOfTrash0155155OnceMoreIntoTheVoid = {
   ownLength: 2081,
   unit: "words",
   publishedAt: "2025-08-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2502992/155-once-more-into-the-void",
-  externalId: "2502992",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2502992",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2502992/155-once-more-into-the-void",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

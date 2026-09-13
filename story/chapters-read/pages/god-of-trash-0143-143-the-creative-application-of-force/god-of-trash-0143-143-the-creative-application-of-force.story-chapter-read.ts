@@ -10,9 +10,13 @@ export const godOfTrash0143143TheCreativeApplicationOfForce = {
   ownLength: 2394,
   unit: "words",
   publishedAt: "2025-07-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2471172/143-the-creative-application-of-force",
-  externalId: "2471172",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2471172",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2471172/143-the-creative-application-of-force",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

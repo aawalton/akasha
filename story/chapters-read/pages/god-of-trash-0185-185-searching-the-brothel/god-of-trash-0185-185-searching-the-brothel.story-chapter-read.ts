@@ -10,9 +10,13 @@ export const godOfTrash0185185SearchingTheBrothel = {
   ownLength: 2123,
   unit: "words",
   publishedAt: "2025-09-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2598158/185-searching-the-brothel",
-  externalId: "2598158",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2598158",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2598158/185-searching-the-brothel",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

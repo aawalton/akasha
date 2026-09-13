@@ -10,9 +10,13 @@ export const godOfTrash004242FilesAndCats = {
   ownLength: 2454,
   unit: "words",
   publishedAt: "2025-04-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2177468/42-files-and-cats",
-  externalId: "2177468",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2177468",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2177468/42-files-and-cats",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

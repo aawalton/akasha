@@ -10,9 +10,13 @@ export const godOfTrash002424DeliveringTheFlower = {
   ownLength: 2562,
   unit: "words",
   publishedAt: "2025-03-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2135332/24-delivering-the-flower",
-  externalId: "2135332",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2135332",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2135332/24-delivering-the-flower",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const forgeOfDestiny0479Threads435Green4 = {
   ownLength: 1839,
   unit: "words",
   publishedAt: "2025-03-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2125142/threads-435-green-4",
-  externalId: "2125142",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2125142",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2125142/threads-435-green-4",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash003434Cornered = {
   ownLength: 2591,
   unit: "words",
   publishedAt: "2025-03-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2157727/34-cornered",
-  externalId: "2157727",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2157727",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2157727/34-cornered",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

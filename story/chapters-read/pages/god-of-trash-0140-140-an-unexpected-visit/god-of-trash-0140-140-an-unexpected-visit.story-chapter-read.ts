@@ -10,9 +10,13 @@ export const godOfTrash0140140AnUnexpectedVisit = {
   ownLength: 2179,
   unit: "words",
   publishedAt: "2025-07-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2463227/140-an-unexpected-visit",
-  externalId: "2463227",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2463227",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2463227/140-an-unexpected-visit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

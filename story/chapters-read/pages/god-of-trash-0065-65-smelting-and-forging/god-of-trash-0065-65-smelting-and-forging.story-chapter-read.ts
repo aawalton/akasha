@@ -10,9 +10,13 @@ export const godOfTrash006565SmeltingAndForging = {
   ownLength: 2215,
   unit: "words",
   publishedAt: "2025-05-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2255078/65-smelting-and-forging",
-  externalId: "2255078",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2255078",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2255078/65-smelting-and-forging",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

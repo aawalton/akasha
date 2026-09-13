@@ -8,11 +8,15 @@ export const forgeOfDestiny0593Threads544Fantasia7 = {
   position: 593,
   publishedAt: "2026-09-08",
   unit: "words",
-  externalId: "3928325",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3928325",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3928325/threads-544-fantasia-7",
+    },
+  ],
   title: "Threads 544-Fantasia 7",
   ownLength: 2519,
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3928325/threads-544-fantasia-7",
   prose: "txt",
 } as const satisfies StoryChapterRead

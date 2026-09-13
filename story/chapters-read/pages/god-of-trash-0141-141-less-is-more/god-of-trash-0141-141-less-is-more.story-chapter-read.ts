@@ -10,9 +10,13 @@ export const godOfTrash0141141LessIsMore = {
   ownLength: 2068,
   unit: "words",
   publishedAt: "2025-07-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2466716/141-less-is-more",
-  externalId: "2466716",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2466716",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2466716/141-less-is-more",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const gamerGirlEvolution003535TheGraveDigger = {
   unit: "words",
   completedAt: "2026-06-29T20:06:42.122Z",
   publishedAt: "2025-12-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2812515/35-the-grave-digger",
-  externalId: "2812515",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2812515",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2812515/35-the-grave-digger",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

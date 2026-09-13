@@ -12,9 +12,13 @@ export const gamerGirlEvolution003434OceanSEmbrace = {
   unit: "words",
   completedAt: "2026-06-29T20:06:40.206Z",
   publishedAt: "2025-12-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2809370/34-oceans-embrace",
-  externalId: "2809370",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2809370",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2809370/34-oceans-embrace",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

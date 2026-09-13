@@ -10,9 +10,13 @@ export const gamerGirlEvolution005554WhenOneDoorCloses = {
   ownLength: 1584,
   unit: "words",
   publishedAt: "2026-04-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/3248297/54-when-one-door-closes",
-  externalId: "3248297",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3248297",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/3248297/54-when-one-door-closes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

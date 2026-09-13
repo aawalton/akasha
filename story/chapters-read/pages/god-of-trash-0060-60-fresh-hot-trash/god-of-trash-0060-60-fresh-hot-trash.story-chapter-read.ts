@@ -10,9 +10,13 @@ export const godOfTrash006060FreshHotTrash = {
   ownLength: 2647,
   unit: "words",
   publishedAt: "2025-04-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2241664/60-fresh-hot-trash",
-  externalId: "2241664",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2241664",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2241664/60-fresh-hot-trash",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

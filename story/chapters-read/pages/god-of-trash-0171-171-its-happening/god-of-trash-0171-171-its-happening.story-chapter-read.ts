@@ -10,9 +10,13 @@ export const godOfTrash0171171ItsHappening = {
   ownLength: 1976,
   unit: "words",
   publishedAt: "2025-08-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2561187/171-its-happening",
-  externalId: "2561187",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2561187",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2561187/171-its-happening",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

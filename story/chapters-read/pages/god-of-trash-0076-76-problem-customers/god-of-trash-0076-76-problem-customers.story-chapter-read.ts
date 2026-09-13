@@ -10,9 +10,13 @@ export const godOfTrash007676ProblemCustomers = {
   ownLength: 2904,
   unit: "words",
   publishedAt: "2025-05-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2281919/76-problem-customers",
-  externalId: "2281919",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2281919",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2281919/76-problem-customers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

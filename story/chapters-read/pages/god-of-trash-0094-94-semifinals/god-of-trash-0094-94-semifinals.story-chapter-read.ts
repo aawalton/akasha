@@ -10,9 +10,13 @@ export const godOfTrash009494Semifinals = {
   ownLength: 3095,
   unit: "words",
   publishedAt: "2025-06-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2325492/94-semifinals",
-  externalId: "2325492",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2325492",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2325492/94-semifinals",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0134134GrandOpening = {
   ownLength: 2358,
   unit: "words",
   publishedAt: "2025-07-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2446800/134-grand-opening",
-  externalId: "2446800",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2446800",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2446800/134-grand-opening",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

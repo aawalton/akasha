@@ -10,9 +10,13 @@ export const godOfTrash003535UpperPeak = {
   ownLength: 2672,
   unit: "words",
   publishedAt: "2025-03-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2160054/35-upper-peak",
-  externalId: "2160054",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2160054",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2160054/35-upper-peak",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

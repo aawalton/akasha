@@ -10,9 +10,13 @@ export const godOfTrash0114114TheSewersAndWhatDwellsWithin = {
   ownLength: 2583,
   unit: "words",
   publishedAt: "2025-06-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2393031/114-the-sewers-and-what-dwells-within",
-  externalId: "2393031",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2393031",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2393031/114-the-sewers-and-what-dwells-within",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

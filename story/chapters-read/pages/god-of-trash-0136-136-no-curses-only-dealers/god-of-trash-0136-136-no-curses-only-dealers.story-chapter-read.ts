@@ -10,9 +10,13 @@ export const godOfTrash0136136NoCursesOnlyDealers = {
   ownLength: 2472,
   unit: "words",
   publishedAt: "2025-07-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2452209/136-no-curses-only-dealers",
-  externalId: "2452209",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2452209",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2452209/136-no-curses-only-dealers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

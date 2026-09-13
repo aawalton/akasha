@@ -10,9 +10,13 @@ export const godOfTrash004343GuestTeacher = {
   ownLength: 2276,
   unit: "words",
   publishedAt: "2025-04-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2179913/43-guest-teacher",
-  externalId: "2179913",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2179913",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2179913/43-guest-teacher",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

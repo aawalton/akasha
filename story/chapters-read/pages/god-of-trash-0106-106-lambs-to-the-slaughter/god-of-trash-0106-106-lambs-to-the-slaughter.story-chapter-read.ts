@@ -10,9 +10,13 @@ export const godOfTrash0106106LambsToTheSlaughter = {
   ownLength: 2107,
   unit: "words",
   publishedAt: "2025-06-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2372460/106-lambs-to-the-slaughter",
-  externalId: "2372460",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2372460",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2372460/106-lambs-to-the-slaughter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0197197IntoTheDarkness = {
   ownLength: 2090,
   unit: "words",
   publishedAt: "2025-09-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2628802/197-into-the-darkness",
-  externalId: "2628802",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2628802",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2628802/197-into-the-darkness",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

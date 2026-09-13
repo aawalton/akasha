@@ -10,9 +10,13 @@ export const godOfTrash0117117AcquiringResources = {
   ownLength: 2222,
   unit: "words",
   publishedAt: "2025-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2401444/117-acquiring-resources",
-  externalId: "2401444",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2401444",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2401444/117-acquiring-resources",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

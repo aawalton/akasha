@@ -10,9 +10,13 @@ export const godOfTrash002222LibraryCat = {
   ownLength: 2828,
   unit: "words",
   publishedAt: "2025-03-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2130672/22-library-cat",
-  externalId: "2130672",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2130672",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2130672/22-library-cat",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

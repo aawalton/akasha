@@ -10,9 +10,13 @@ export const godOfTrash006767MakeAFix = {
   ownLength: 2479,
   unit: "words",
   publishedAt: "2025-05-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2260712/67-make-a-fix",
-  externalId: "2260712",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2260712",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2260712/67-make-a-fix",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

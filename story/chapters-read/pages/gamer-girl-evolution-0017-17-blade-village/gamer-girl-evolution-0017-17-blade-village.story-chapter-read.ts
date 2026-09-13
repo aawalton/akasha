@@ -12,9 +12,13 @@ export const gamerGirlEvolution001717BladeVillage = {
   unit: "words",
   completedAt: "2026-06-29T20:06:07.852Z",
   publishedAt: "2025-10-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2693981/17-blade-village",
-  externalId: "2693981",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2693981",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2693981/17-blade-village",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

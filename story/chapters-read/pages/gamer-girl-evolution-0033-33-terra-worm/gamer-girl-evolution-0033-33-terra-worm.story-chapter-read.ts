@@ -12,9 +12,13 @@ export const gamerGirlEvolution003333TerraWorm = {
   unit: "words",
   completedAt: "2026-06-29T20:06:38.301Z",
   publishedAt: "2025-11-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2800977/33-terra-worm",
-  externalId: "2800977",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2800977",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2800977/33-terra-worm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

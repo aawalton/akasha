@@ -10,9 +10,13 @@ export const forgeOfDestiny0551Volume3Relaunch = {
   ownLength: 92,
   unit: "words",
   publishedAt: "2026-02-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3091337/volume-3-relaunch",
-  externalId: "3091337",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3091337",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3091337/volume-3-relaunch",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash005656SurfaceBattle = {
   ownLength: 2299,
   unit: "words",
   publishedAt: "2025-04-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2215496/56-surface-battle",
-  externalId: "2215496",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2215496",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2215496/56-surface-battle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

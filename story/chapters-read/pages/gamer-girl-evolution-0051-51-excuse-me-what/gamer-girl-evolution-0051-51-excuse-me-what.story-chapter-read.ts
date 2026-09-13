@@ -12,9 +12,13 @@ export const gamerGirlEvolution005151ExcuseMeWhat = {
   unit: "words",
   completedAt: "2026-06-29T20:07:12.533Z",
   publishedAt: "2026-01-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2968315/51-excuse-me-what",
-  externalId: "2968315",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2968315",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2968315/51-excuse-me-what",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

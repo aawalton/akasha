@@ -10,9 +10,13 @@ export const godOfTrash0108108PitifulHeavens = {
   ownLength: 1523,
   unit: "words",
   publishedAt: "2025-06-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2377356/108-pitiful-heavens",
-  externalId: "2377356",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2377356",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2377356/108-pitiful-heavens",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

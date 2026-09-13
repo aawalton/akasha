@@ -12,9 +12,13 @@ export const gamerGirlEvolution001212ATaleOfTwoGamerGirls = {
   unit: "words",
   completedAt: "2026-06-29T20:05:58.351Z",
   publishedAt: "2025-09-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2634487/12-a-tale-of-two-gamer-girls",
-  externalId: "2634487",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2634487",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2634487/12-a-tale-of-two-gamer-girls",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

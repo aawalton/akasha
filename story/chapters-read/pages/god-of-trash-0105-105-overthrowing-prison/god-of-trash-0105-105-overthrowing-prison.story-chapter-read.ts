@@ -10,9 +10,13 @@ export const godOfTrash0105105OverthrowingPrison = {
   ownLength: 2113,
   unit: "words",
   publishedAt: "2025-06-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2369559/105-overthrowing-prison",
-  externalId: "2369559",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2369559",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2369559/105-overthrowing-prison",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

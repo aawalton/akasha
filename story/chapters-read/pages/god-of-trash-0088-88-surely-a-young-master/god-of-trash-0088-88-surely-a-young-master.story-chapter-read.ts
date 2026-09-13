@@ -10,9 +10,13 @@ export const godOfTrash008888SurelyAYoungMaster = {
   ownLength: 2118,
   unit: "words",
   publishedAt: "2025-05-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2310144/88-surely-a-young-master",
-  externalId: "2310144",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2310144",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2310144/88-surely-a-young-master",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const forgeOfDestiny0534Threads489Ceremony3 = {
   ownLength: 2727,
   unit: "words",
   publishedAt: "2025-12-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2859735/threads-489-ceremony-3",
-  externalId: "2859735",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2859735",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2859735/threads-489-ceremony-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

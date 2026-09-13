@@ -10,9 +10,13 @@ export const godOfTrash0178178Offloading = {
   ownLength: 1941,
   unit: "words",
   publishedAt: "2025-09-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2580154/178-offloading",
-  externalId: "2580154",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2580154",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2580154/178-offloading",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

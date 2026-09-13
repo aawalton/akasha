@@ -12,9 +12,13 @@ export const gamerGirlEvolution005050Clutch = {
   unit: "words",
   completedAt: "2026-06-29T20:07:10.664Z",
   publishedAt: "2026-01-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2964901/50-clutch",
-  externalId: "2964901",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2964901",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2964901/50-clutch",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

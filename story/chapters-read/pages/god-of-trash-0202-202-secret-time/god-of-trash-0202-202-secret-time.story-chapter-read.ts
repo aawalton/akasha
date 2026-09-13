@@ -10,9 +10,13 @@ export const godOfTrash0202202SecretTime = {
   ownLength: 1764,
   unit: "words",
   publishedAt: "2025-09-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2639458/202-secret-time",
-  externalId: "2639458",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2639458",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2639458/202-secret-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

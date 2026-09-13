@@ -12,9 +12,13 @@ export const gamerGirlEvolution004343BlingBlingMaxingTheSequel = {
   unit: "words",
   completedAt: "2026-06-29T20:06:57.287Z",
   publishedAt: "2026-01-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2936005/43-bling-bling-maxing-the-sequel",
-  externalId: "2936005",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2936005",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2936005/43-bling-bling-maxing-the-sequel",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

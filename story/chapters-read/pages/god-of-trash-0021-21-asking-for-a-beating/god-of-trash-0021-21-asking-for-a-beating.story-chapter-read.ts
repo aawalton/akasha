@@ -10,9 +10,13 @@ export const godOfTrash002121AskingForABeating = {
   ownLength: 2418,
   unit: "words",
   publishedAt: "2025-03-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2128746/21-asking-for-a-beating",
-  externalId: "2128746",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2128746",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2128746/21-asking-for-a-beating",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

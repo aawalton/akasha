@@ -10,9 +10,13 @@ export const godOfTrash005050PluckingADiamond = {
   ownLength: 1876,
   unit: "words",
   publishedAt: "2025-04-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2199348/50-plucking-a-diamond",
-  externalId: "2199348",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2199348",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2199348/50-plucking-a-diamond",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

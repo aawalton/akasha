@@ -12,9 +12,13 @@ export const gamerGirlEvolution003636OneShot = {
   unit: "words",
   completedAt: "2026-06-29T20:06:44.039Z",
   publishedAt: "2025-12-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2815596/36-one-shot",
-  externalId: "2815596",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2815596",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2815596/36-one-shot",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

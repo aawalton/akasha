@@ -10,9 +10,13 @@ export const godOfTrash002626DontPlayInTheAncientToxicTrashPit = {
   ownLength: 3815,
   unit: "words",
   publishedAt: "2025-03-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2139744/26-dont-play-in-the-ancient-toxic-trash-pit",
-  externalId: "2139744",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2139744",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2139744/26-dont-play-in-the-ancient-toxic-trash-pit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

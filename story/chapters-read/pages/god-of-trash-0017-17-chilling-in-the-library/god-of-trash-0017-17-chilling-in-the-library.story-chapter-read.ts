@@ -10,9 +10,13 @@ export const godOfTrash001717ChillingInTheLibrary = {
   ownLength: 2140,
   unit: "words",
   publishedAt: "2025-03-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2120409/17-chilling-in-the-library",
-  externalId: "2120409",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2120409",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2120409/17-chilling-in-the-library",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

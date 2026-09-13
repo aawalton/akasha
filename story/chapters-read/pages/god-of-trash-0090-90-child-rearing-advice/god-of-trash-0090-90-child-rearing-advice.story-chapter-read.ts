@@ -10,9 +10,13 @@ export const godOfTrash009090ChildRearingAdvice = {
   ownLength: 2853,
   unit: "words",
   publishedAt: "2025-05-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2315156/90-child-rearing-advice",
-  externalId: "2315156",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2315156",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2315156/90-child-rearing-advice",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

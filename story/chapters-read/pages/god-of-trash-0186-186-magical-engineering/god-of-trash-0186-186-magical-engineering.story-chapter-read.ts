@@ -10,9 +10,13 @@ export const godOfTrash0186186MagicalEngineering = {
   ownLength: 2400,
   unit: "words",
   publishedAt: "2025-09-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2600448/186-magical-engineering",
-  externalId: "2600448",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2600448",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2600448/186-magical-engineering",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

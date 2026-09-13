@@ -10,9 +10,13 @@ export const godOfTrash0164164TurningManaToTrash = {
   ownLength: 1974,
   unit: "words",
   publishedAt: "2025-08-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2542097/164-turning-mana-to-trash",
-  externalId: "2542097",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2542097",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2542097/164-turning-mana-to-trash",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

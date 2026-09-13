@@ -12,9 +12,13 @@ export const gamerGirlEvolution001515TheCyclopsMarsh1 = {
   unit: "words",
   completedAt: "2026-06-29T20:06:04.118Z",
   publishedAt: "2025-10-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2684541/15-the-cyclops-marsh-1",
-  externalId: "2684541",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2684541",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2684541/15-the-cyclops-marsh-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0154154FarmingShouldBeCriminal = {
   ownLength: 2506,
   unit: "words",
   publishedAt: "2025-08-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2500272/154-farming-should-be-criminal",
-  externalId: "2500272",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2500272",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2500272/154-farming-should-be-criminal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

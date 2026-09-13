@@ -10,9 +10,13 @@ export const godOfTrash0118118TheMostFunYouCanHaveOutsideOfALibrary = {
   ownLength: 2654,
   unit: "words",
   publishedAt: "2025-07-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2404074/118-the-most-fun-you-can-have-outside-of-a-library",
-  externalId: "2404074",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2404074",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2404074/118-the-most-fun-you-can-have-outside-of-a-library",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

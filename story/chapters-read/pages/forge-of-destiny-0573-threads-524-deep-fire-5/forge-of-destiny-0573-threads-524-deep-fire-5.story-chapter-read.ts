@@ -10,9 +10,13 @@ export const forgeOfDestiny0573Threads524DeepFire5 = {
   ownLength: 1836,
   unit: "words",
   publishedAt: "2026-06-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3481254/threads-524-deep-fire-5",
-  externalId: "3481254",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3481254",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3481254/threads-524-deep-fire-5",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

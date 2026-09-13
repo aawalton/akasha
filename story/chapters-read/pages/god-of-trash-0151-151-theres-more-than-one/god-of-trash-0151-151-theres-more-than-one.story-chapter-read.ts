@@ -10,9 +10,13 @@ export const godOfTrash0151151TheresMoreThanOne = {
   ownLength: 1960,
   unit: "words",
   publishedAt: "2025-08-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2492273/151-theres-more-than-one",
-  externalId: "2492273",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2492273",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2492273/151-theres-more-than-one",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash008989BattleOfAttrition = {
   ownLength: 2175,
   unit: "words",
   publishedAt: "2025-05-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2312577/89-battle-of-attrition",
-  externalId: "2312577",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2312577",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2312577/89-battle-of-attrition",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const forgeOfDestiny0579Threads530Lakeside5 = {
   ownLength: 1516,
   unit: "words",
   publishedAt: "2026-07-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3674022/threads-530-lakeside-5",
-  externalId: "3674022",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3674022",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3674022/threads-530-lakeside-5",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

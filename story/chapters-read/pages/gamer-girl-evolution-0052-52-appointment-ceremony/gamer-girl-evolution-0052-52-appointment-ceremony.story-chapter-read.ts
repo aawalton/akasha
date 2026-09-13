@@ -12,9 +12,13 @@ export const gamerGirlEvolution005252AppointmentCeremony = {
   unit: "words",
   completedAt: "2026-06-29T20:07:14.446Z",
   publishedAt: "2026-01-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2971751/52-appointment-ceremony",
-  externalId: "2971751",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2971751",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2971751/52-appointment-ceremony",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

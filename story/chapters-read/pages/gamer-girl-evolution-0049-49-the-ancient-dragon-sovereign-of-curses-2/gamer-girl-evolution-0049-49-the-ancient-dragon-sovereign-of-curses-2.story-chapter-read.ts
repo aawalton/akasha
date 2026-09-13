@@ -12,9 +12,13 @@ export const gamerGirlEvolution004949TheAncientDragonSovereignOfCurses2 = {
   unit: "words",
   completedAt: "2026-06-29T20:07:08.753Z",
   publishedAt: "2026-01-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2961586/49-the-ancient-dragon-sovereign-of-curses-2",
-  externalId: "2961586",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2961586",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2961586/49-the-ancient-dragon-sovereign-of-curses-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash004141SmallFavorsForWetWomen = {
   ownLength: 2619,
   unit: "words",
   publishedAt: "2025-04-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2174917/41-small-favors-for-wet-women",
-  externalId: "2174917",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2174917",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2174917/41-small-favors-for-wet-women",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

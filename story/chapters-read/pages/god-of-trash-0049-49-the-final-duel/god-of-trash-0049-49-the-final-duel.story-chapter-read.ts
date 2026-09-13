@@ -10,9 +10,13 @@ export const godOfTrash004949TheFinalDuel = {
   ownLength: 4136,
   unit: "words",
   publishedAt: "2025-04-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2196787/49-the-final-duel",
-  externalId: "2196787",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2196787",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2196787/49-the-final-duel",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

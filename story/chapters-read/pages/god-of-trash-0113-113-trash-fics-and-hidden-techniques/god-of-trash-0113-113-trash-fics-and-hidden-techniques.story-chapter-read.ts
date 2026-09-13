@@ -10,9 +10,13 @@ export const godOfTrash0113113TrashFicsAndHiddenTechniques = {
   ownLength: 2141,
   unit: "words",
   publishedAt: "2025-06-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2390544/113-trash-fics-and-hidden-techniques",
-  externalId: "2390544",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2390544",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2390544/113-trash-fics-and-hidden-techniques",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0100100BanquetHall = {
   ownLength: 2212,
   unit: "words",
   publishedAt: "2025-06-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2340717/100-banquet-hall",
-  externalId: "2340717",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2340717",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2340717/100-banquet-hall",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0153153TheFinalTwo = {
   ownLength: 1896,
   unit: "words",
   publishedAt: "2025-08-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2497602/153-the-final-two",
-  externalId: "2497602",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2497602",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2497602/153-the-final-two",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

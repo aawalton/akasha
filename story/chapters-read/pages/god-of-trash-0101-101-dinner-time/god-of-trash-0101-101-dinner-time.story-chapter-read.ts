@@ -10,9 +10,13 @@ export const godOfTrash0101101DinnerTime = {
   ownLength: 3471,
   unit: "words",
   publishedAt: "2025-06-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2343409/101-dinner-time",
-  externalId: "2343409",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2343409",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2343409/101-dinner-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

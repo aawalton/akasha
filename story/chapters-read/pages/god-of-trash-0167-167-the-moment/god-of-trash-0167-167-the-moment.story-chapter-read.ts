@@ -10,9 +10,13 @@ export const godOfTrash0167167TheMoment = {
   ownLength: 2513,
   unit: "words",
   publishedAt: "2025-08-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2550261/167-the-moment",
-  externalId: "2550261",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2550261",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2550261/167-the-moment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

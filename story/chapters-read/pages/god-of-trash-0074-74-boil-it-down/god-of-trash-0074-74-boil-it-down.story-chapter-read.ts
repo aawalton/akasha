@@ -10,9 +10,13 @@ export const godOfTrash007474BoilItDown = {
   ownLength: 3429,
   unit: "words",
   publishedAt: "2025-05-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2277205/74-boil-it-down",
-  externalId: "2277205",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2277205",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2277205/74-boil-it-down",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

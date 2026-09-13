@@ -10,9 +10,13 @@ export const godOfTrash002020Fireballs = {
   ownLength: 3095,
   unit: "words",
   publishedAt: "2025-03-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2126754/20-fireballs",
-  externalId: "2126754",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2126754",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2126754/20-fireballs",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

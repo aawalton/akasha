@@ -12,9 +12,13 @@ export const gamerGirlEvolution004040TheReturn = {
   unit: "words",
   completedAt: "2026-06-29T20:06:51.641Z",
   publishedAt: "2026-01-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2920656/40-the-return",
-  externalId: "2920656",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2920656",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2920656/40-the-return",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

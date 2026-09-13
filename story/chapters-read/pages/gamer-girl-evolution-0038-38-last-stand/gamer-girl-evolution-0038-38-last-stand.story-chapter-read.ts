@@ -12,9 +12,13 @@ export const gamerGirlEvolution003838LastStand = {
   unit: "words",
   completedAt: "2026-06-29T20:06:47.936Z",
   publishedAt: "2026-01-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2914272/38-last-stand",
-  externalId: "2914272",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2914272",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2914272/38-last-stand",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

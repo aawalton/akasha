@@ -10,9 +10,13 @@ export const forgeOfDestiny0497ThreadsChapter452CathedralOfWindsFinish = {
   ownLength: 1954,
   unit: "words",
   publishedAt: "2025-06-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2343838/threads-chapter-452-cathedral-of-winds-finish",
-  externalId: "2343838",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2343838",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2343838/threads-chapter-452-cathedral-of-winds-finish",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

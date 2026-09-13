@@ -10,9 +10,13 @@ export const godOfTrash0203203WakeUp = {
   ownLength: 2218,
   unit: "words",
   publishedAt: "2025-10-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2644206/203-wake-up",
-  externalId: "2644206",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2644206",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2644206/203-wake-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

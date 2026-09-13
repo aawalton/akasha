@@ -10,9 +10,13 @@ export const godOfTrash005353FromThePit = {
   ownLength: 2032,
   unit: "words",
   publishedAt: "2025-04-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2207760/53-from-the-pit",
-  externalId: "2207760",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2207760",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2207760/53-from-the-pit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

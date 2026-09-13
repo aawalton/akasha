@@ -10,9 +10,13 @@ export const forgeOfDestiny0503ThreadsChapter458Sincerity2 = {
   ownLength: 2206,
   unit: "words",
   publishedAt: "2025-07-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2408710/threads-chapter-458-sincerity-2",
-  externalId: "2408710",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2408710",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2408710/threads-chapter-458-sincerity-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash002828BurningImpurities = {
   ownLength: 3086,
   unit: "words",
   publishedAt: "2025-03-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2144289/28-burning-impurities",
-  externalId: "2144289",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2144289",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2144289/28-burning-impurities",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

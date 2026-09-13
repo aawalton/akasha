@@ -10,9 +10,13 @@ export const godOfTrash0200200MyriadRealmsInTheDark = {
   ownLength: 1396,
   unit: "words",
   publishedAt: "2025-09-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2636102/200-myriad-realms-in-the-dark",
-  externalId: "2636102",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2636102",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2636102/200-myriad-realms-in-the-dark",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

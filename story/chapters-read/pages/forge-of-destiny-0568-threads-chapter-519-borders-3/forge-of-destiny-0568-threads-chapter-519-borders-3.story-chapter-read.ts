@@ -10,9 +10,13 @@ export const forgeOfDestiny0568ThreadsChapter519Borders3 = {
   ownLength: 2158,
   unit: "words",
   publishedAt: "2026-05-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3397639/threads-chapter-519-borders-3",
-  externalId: "3397639",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3397639",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3397639/threads-chapter-519-borders-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

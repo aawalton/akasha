@@ -10,9 +10,13 @@ export const godOfTrash004444PolishATurd = {
   ownLength: 2435,
   unit: "words",
   publishedAt: "2025-04-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2182784/44-polish-a-turd",
-  externalId: "2182784",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2182784",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2182784/44-polish-a-turd",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

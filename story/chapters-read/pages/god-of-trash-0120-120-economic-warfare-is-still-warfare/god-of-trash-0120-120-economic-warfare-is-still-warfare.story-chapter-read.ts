@@ -10,9 +10,13 @@ export const godOfTrash0120120EconomicWarfareIsStillWarfare = {
   ownLength: 2816,
   unit: "words",
   publishedAt: "2025-07-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2409564/120-economic-warfare-is-still-warfare",
-  externalId: "2409564",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2409564",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2409564/120-economic-warfare-is-still-warfare",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

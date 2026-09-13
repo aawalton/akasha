@@ -10,9 +10,13 @@ export const forgeOfDestiny0501Threads456Geomancy1 = {
   ownLength: 2484,
   unit: "words",
   publishedAt: "2025-06-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2388509/threads-456-geomancy-1",
-  externalId: "2388509",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2388509",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2388509/threads-456-geomancy-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

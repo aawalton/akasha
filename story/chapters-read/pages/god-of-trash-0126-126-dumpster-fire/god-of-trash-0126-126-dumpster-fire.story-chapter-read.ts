@@ -10,9 +10,13 @@ export const godOfTrash0126126DumpsterFire = {
   ownLength: 2302,
   unit: "words",
   publishedAt: "2025-07-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2425029/126-dumpster-fire",
-  externalId: "2425029",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2425029",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2425029/126-dumpster-fire",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const gamerGirlEvolution002020LetSMeetup = {
   unit: "words",
   completedAt: "2026-06-29T20:06:13.585Z",
   publishedAt: "2025-10-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2699467/20-lets-meetup",
-  externalId: "2699467",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2699467",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2699467/20-lets-meetup",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const forgeOfDestiny0508Threads463MengDan2 = {
   ownLength: 1982,
   unit: "words",
   publishedAt: "2025-07-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2463883/threads-463-meng-dan-2",
-  externalId: "2463883",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2463883",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2463883/threads-463-meng-dan-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

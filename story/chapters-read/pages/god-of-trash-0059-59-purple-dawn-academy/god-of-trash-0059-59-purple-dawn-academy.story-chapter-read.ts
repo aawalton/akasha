@@ -10,9 +10,13 @@ export const godOfTrash005959PurpleDawnAcademy = {
   ownLength: 2766,
   unit: "words",
   publishedAt: "2025-04-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2238914/59-purple-dawn-academy",
-  externalId: "2238914",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2238914",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2238914/59-purple-dawn-academy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

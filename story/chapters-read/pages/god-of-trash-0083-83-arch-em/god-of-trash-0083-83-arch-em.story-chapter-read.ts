@@ -10,9 +10,13 @@ export const godOfTrash008383ArchEm = {
   ownLength: 1915,
   unit: "words",
   publishedAt: "2025-05-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2298327/83-arch-em",
-  externalId: "2298327",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2298327",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2298327/83-arch-em",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

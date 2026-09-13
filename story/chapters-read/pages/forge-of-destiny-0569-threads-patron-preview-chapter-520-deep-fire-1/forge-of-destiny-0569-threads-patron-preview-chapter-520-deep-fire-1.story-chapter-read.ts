@@ -10,9 +10,13 @@ export const forgeOfDestiny0569ThreadsPatronPreviewChapter520DeepFire1 = {
   ownLength: 1869,
   unit: "words",
   publishedAt: "2026-05-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3416591/threads-patron-preview-chapter-520-deep-fire-1",
-  externalId: "3416591",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3416591",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3416591/threads-patron-preview-chapter-520-deep-fire-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

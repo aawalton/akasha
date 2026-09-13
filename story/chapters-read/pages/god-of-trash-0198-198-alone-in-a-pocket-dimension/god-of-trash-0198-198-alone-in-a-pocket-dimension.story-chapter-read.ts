@@ -10,9 +10,13 @@ export const godOfTrash0198198AloneInAPocketDimension = {
   ownLength: 2146,
   unit: "words",
   publishedAt: "2025-09-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2631640/198-alone-in-a-pocket-dimension",
-  externalId: "2631640",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2631640",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2631640/198-alone-in-a-pocket-dimension",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

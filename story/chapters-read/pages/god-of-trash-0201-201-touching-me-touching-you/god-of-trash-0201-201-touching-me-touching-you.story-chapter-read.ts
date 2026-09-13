@@ -10,9 +10,13 @@ export const godOfTrash0201201TouchingMeTouchingYou = {
   ownLength: 1820,
   unit: "words",
   publishedAt: "2025-09-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2638798/201-touching-me-touching-you",
-  externalId: "2638798",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2638798",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2638798/201-touching-me-touching-you",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

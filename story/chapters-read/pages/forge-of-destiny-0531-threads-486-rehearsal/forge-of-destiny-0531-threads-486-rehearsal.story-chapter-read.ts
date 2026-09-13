@@ -10,9 +10,13 @@ export const forgeOfDestiny0531Threads486Rehearsal = {
   ownLength: 1729,
   unit: "words",
   publishedAt: "2025-12-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2810919/threads-486-rehearsal",
-  externalId: "2810919",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2810919",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2810919/threads-486-rehearsal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

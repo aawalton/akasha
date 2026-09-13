@@ -12,9 +12,13 @@ export const gamerGirlEvolution00055NoPartyMembersRequired = {
   unit: "words",
   completedAt: "2026-06-29T20:05:45.241Z",
   publishedAt: "2025-09-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2620528/5-no-party-members-required",
-  externalId: "2620528",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2620528",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2620528/5-no-party-members-required",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

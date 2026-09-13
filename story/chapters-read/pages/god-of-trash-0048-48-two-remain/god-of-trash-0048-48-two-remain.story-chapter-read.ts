@@ -10,9 +10,13 @@ export const godOfTrash004848TwoRemain = {
   ownLength: 3483,
   unit: "words",
   publishedAt: "2025-04-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2193942/48-two-remain",
-  externalId: "2193942",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2193942",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2193942/48-two-remain",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

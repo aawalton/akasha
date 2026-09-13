@@ -10,9 +10,13 @@ export const forgeOfDestiny0506ThreadsChapter461Roadtrip3 = {
   ownLength: 1851,
   unit: "words",
   publishedAt: "2025-07-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2444655/threads-chapter-461-roadtrip-3",
-  externalId: "2444655",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2444655",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2444655/threads-chapter-461-roadtrip-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

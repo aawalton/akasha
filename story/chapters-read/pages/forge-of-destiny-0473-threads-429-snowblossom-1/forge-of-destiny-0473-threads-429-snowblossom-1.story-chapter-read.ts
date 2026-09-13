@@ -10,9 +10,13 @@ export const forgeOfDestiny0473Threads429Snowblossom1 = {
   ownLength: 1667,
   unit: "words",
   publishedAt: "2025-02-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2065816/threads-429-snowblossom-1",
-  externalId: "2065816",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2065816",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2065816/threads-429-snowblossom-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

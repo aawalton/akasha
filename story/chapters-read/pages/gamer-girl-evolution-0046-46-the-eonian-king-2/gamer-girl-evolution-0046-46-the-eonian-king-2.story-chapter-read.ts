@@ -12,9 +12,13 @@ export const gamerGirlEvolution004646TheEonianKing2 = {
   unit: "words",
   completedAt: "2026-06-29T20:07:03.104Z",
   publishedAt: "2026-01-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2946018/46-the-eonian-king-2",
-  externalId: "2946018",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2946018",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2946018/46-the-eonian-king-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

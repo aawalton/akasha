@@ -10,9 +10,13 @@ export const godOfTrash0165165Whoops = {
   ownLength: 2304,
   unit: "words",
   publishedAt: "2025-08-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2544592/165-whoops",
-  externalId: "2544592",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2544592",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2544592/165-whoops",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

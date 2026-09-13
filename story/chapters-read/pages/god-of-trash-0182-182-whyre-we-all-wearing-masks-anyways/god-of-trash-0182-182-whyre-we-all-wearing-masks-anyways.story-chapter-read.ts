@@ -10,9 +10,13 @@ export const godOfTrash0182182WhyreWeAllWearingMasksAnyways = {
   ownLength: 2788,
   unit: "words",
   publishedAt: "2025-09-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2590798/182-whyre-we-all-wearing-masks-anyways",
-  externalId: "2590798",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2590798",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2590798/182-whyre-we-all-wearing-masks-anyways",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

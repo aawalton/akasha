@@ -12,9 +12,13 @@ export const gamerGirlEvolution001010TurningPointOne = {
   unit: "words",
   completedAt: "2026-06-29T20:05:54.525Z",
   publishedAt: "2025-09-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2620558/10-turning-point-one",
-  externalId: "2620558",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2620558",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2620558/10-turning-point-one",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

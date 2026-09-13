@@ -10,9 +10,13 @@ export const godOfTrash006666EveryoneShallBecomeTrash = {
   ownLength: 2958,
   unit: "words",
   publishedAt: "2025-05-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2257911/66-everyone-shall-become-trash",
-  externalId: "2257911",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2257911",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2257911/66-everyone-shall-become-trash",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

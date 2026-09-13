@@ -10,9 +10,13 @@ export const godOfTrash0172172WhoAreYou = {
   ownLength: 2182,
   unit: "words",
   publishedAt: "2025-08-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2563549/172-who-are-you",
-  externalId: "2563549",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2563549",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2563549/172-who-are-you",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

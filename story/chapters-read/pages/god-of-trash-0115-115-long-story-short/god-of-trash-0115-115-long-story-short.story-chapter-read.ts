@@ -10,9 +10,13 @@ export const godOfTrash0115115LongStoryShort = {
   ownLength: 2078,
   unit: "words",
   publishedAt: "2025-06-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2395391/115-long-story-short",
-  externalId: "2395391",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2395391",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2395391/115-long-story-short",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

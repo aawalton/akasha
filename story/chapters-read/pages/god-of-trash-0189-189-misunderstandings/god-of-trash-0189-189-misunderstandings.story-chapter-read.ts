@@ -10,9 +10,13 @@ export const godOfTrash0189189Misunderstandings = {
   ownLength: 1860,
   unit: "words",
   publishedAt: "2025-09-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2608327/189-misunderstandings",
-  externalId: "2608327",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2608327",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2608327/189-misunderstandings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

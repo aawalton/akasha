@@ -10,9 +10,13 @@ export const godOfTrash006868PohTayToes = {
   ownLength: 3611,
   unit: "words",
   publishedAt: "2025-05-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2263089/68-poh-tay-toes",
-  externalId: "2263089",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2263089",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2263089/68-poh-tay-toes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

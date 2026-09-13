@@ -10,9 +10,13 @@ export const godOfTrash004747FourOnOne = {
   ownLength: 3632,
   unit: "words",
   publishedAt: "2025-04-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2191097/47-four-on-one",
-  externalId: "2191097",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2191097",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2191097/47-four-on-one",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

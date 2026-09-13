@@ -10,9 +10,13 @@ export const forgeOfDestiny0527Threads482XiaLin2 = {
   ownLength: 1974,
   unit: "words",
   publishedAt: "2025-11-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2750532/threads-482-xia-lin-2",
-  externalId: "2750532",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2750532",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2750532/threads-482-xia-lin-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

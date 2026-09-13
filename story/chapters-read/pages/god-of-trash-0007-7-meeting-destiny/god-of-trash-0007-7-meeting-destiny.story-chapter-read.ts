@@ -10,9 +10,13 @@ export const godOfTrash00077MeetingDestiny = {
   ownLength: 3626,
   unit: "words",
   publishedAt: "2025-03-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2097601/7-meeting-destiny",
-  externalId: "2097601",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2097601",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2097601/7-meeting-destiny",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

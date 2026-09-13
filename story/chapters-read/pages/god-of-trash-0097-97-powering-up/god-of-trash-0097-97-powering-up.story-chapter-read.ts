@@ -10,9 +10,13 @@ export const godOfTrash009797PoweringUp = {
   ownLength: 2276,
   unit: "words",
   publishedAt: "2025-06-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2333403/97-powering-up",
-  externalId: "2333403",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2333403",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2333403/97-powering-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

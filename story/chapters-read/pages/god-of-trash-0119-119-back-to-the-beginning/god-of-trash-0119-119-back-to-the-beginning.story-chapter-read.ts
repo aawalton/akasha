@@ -10,9 +10,13 @@ export const godOfTrash0119119BackToTheBeginning = {
   ownLength: 1900,
   unit: "words",
   publishedAt: "2025-07-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2406776/119-back-to-the-beginning",
-  externalId: "2406776",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2406776",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2406776/119-back-to-the-beginning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

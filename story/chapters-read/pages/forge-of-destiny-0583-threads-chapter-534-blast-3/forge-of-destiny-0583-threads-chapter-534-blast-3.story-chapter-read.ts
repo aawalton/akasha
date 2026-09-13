@@ -10,9 +10,13 @@ export const forgeOfDestiny0583ThreadsChapter534Blast3 = {
   ownLength: 1915,
   unit: "words",
   publishedAt: "2026-07-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3735586/threads-chapter-534-blast-3",
-  externalId: "3735586",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3735586",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3735586/threads-chapter-534-blast-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

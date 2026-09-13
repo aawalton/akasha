@@ -10,9 +10,13 @@ export const godOfTrash0199199IGetWhyTheyDefeatedYou = {
   ownLength: 1826,
   unit: "words",
   publishedAt: "2025-09-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2633998/199-i-get-why-they-defeated-you",
-  externalId: "2633998",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2633998",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2633998/199-i-get-why-they-defeated-you",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

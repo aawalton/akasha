@@ -10,9 +10,13 @@ export const forgeOfDestiny0565Threads516Homecoming4 = {
   ownLength: 2595,
   unit: "words",
   publishedAt: "2026-04-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3311580/threads-516-homecoming-4",
-  externalId: "3311580",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3311580",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3311580/threads-516-homecoming-4",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

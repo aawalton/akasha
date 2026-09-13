@@ -10,9 +10,13 @@ export const godOfTrash001212SeparateYourBurnableTrash = {
   ownLength: 3224,
   unit: "words",
   publishedAt: "2025-03-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2108446/12-separate-your-burnable-trash",
-  externalId: "2108446",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2108446",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2108446/12-separate-your-burnable-trash",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

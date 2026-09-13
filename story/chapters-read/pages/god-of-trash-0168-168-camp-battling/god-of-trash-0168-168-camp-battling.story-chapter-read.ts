@@ -10,9 +10,13 @@ export const godOfTrash0168168CampBattling = {
   ownLength: 2329,
   unit: "words",
   publishedAt: "2025-08-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2553383/168-camp-battling",
-  externalId: "2553383",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2553383",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2553383/168-camp-battling",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

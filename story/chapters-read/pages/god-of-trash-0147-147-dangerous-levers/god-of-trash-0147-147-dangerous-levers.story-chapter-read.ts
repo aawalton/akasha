@@ -10,9 +10,13 @@ export const godOfTrash0147147DangerousLevers = {
   ownLength: 1699,
   unit: "words",
   publishedAt: "2025-07-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2482043/147-dangerous-levers",
-  externalId: "2482043",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2482043",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2482043/147-dangerous-levers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

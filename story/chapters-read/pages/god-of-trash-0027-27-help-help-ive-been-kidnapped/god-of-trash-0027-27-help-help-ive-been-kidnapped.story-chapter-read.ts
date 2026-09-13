@@ -10,9 +10,13 @@ export const godOfTrash002727HelpHelpIveBeenKidnapped = {
   ownLength: 3047,
   unit: "words",
   publishedAt: "2025-03-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2142259/27-help-help-ive-been-kidnapped",
-  externalId: "2142259",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2142259",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2142259/27-help-help-ive-been-kidnapped",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

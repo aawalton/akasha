@@ -10,9 +10,13 @@ export const godOfTrash009898TsunamiAndAPebble = {
   ownLength: 2160,
   unit: "words",
   publishedAt: "2025-06-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2336101/98-tsunami-and-a-pebble",
-  externalId: "2336101",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2336101",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2336101/98-tsunami-and-a-pebble",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

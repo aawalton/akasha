@@ -10,9 +10,13 @@ export const godOfTrash009595VsBast = {
   ownLength: 1537,
   unit: "words",
   publishedAt: "2025-06-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2328171/95-vs-bast",
-  externalId: "2328171",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2328171",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2328171/95-vs-bast",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

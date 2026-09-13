@@ -10,9 +10,13 @@ export const godOfTrash0160160TossingTension = {
   ownLength: 2025,
   unit: "words",
   publishedAt: "2025-08-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2531525/160-tossing-tension",
-  externalId: "2531525",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2531525",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2531525/160-tossing-tension",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0142142GoingOnTheOffensive = {
   ownLength: 2278,
   unit: "words",
   publishedAt: "2025-07-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2468835/142-going-on-the-offensive",
-  externalId: "2468835",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2468835",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2468835/142-going-on-the-offensive",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

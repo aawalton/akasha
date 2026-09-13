@@ -12,9 +12,13 @@ export const gamerGirlEvolution002626TheMistMilitaryOutpost3 = {
   unit: "words",
   completedAt: "2026-06-29T20:06:25.025Z",
   publishedAt: "2025-10-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2720297/26-the-mist-military-outpost-3",
-  externalId: "2720297",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2720297",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2720297/26-the-mist-military-outpost-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

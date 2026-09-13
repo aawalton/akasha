@@ -10,9 +10,13 @@ export const godOfTrash0190190RushingIntoDanger = {
   ownLength: 1903,
   unit: "words",
   publishedAt: "2025-09-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2610934/190-rushing-into-danger",
-  externalId: "2610934",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2610934",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2610934/190-rushing-into-danger",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

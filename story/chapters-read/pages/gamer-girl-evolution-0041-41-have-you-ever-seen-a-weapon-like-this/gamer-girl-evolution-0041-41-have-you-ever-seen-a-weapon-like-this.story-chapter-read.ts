@@ -12,9 +12,13 @@ export const gamerGirlEvolution004141HaveYouEverSeenAWeaponLikeThis = {
   unit: "words",
   completedAt: "2026-06-29T20:06:53.448Z",
   publishedAt: "2026-01-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2923795/41-have-you-ever-seen-a-weapon-like-this",
-  externalId: "2923795",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2923795",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2923795/41-have-you-ever-seen-a-weapon-like-this",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

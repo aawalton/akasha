@@ -10,9 +10,13 @@ export const forgeOfDestiny0530Threads485Market2 = {
   ownLength: 1651,
   unit: "words",
   publishedAt: "2025-11-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2790701/threads-485-market-2",
-  externalId: "2790701",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2790701",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2790701/threads-485-market-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

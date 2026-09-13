@@ -10,9 +10,13 @@ export const godOfTrash0184184CriminalCores = {
   ownLength: 1795,
   unit: "words",
   publishedAt: "2025-09-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2595881/184-criminal-cores",
-  externalId: "2595881",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2595881",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2595881/184-criminal-cores",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

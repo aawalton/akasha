@@ -10,9 +10,13 @@ export const godOfTrash008686ChampionMatch = {
   ownLength: 2930,
   unit: "words",
   publishedAt: "2025-05-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2305264/86-champion-match",
-  externalId: "2305264",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2305264",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2305264/86-champion-match",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

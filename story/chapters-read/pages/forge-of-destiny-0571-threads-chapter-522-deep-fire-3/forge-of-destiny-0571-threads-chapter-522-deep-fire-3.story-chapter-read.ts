@@ -10,9 +10,13 @@ export const forgeOfDestiny0571ThreadsChapter522DeepFire3 = {
   ownLength: 2253,
   unit: "words",
   publishedAt: "2026-05-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3446970/threads-chapter-522--deep-fire-3",
-  externalId: "3446970",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3446970",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3446970/threads-chapter-522--deep-fire-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

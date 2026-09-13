@@ -10,9 +10,13 @@ export const godOfTrash0133133OpenShop = {
   ownLength: 2655,
   unit: "words",
   publishedAt: "2025-07-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2443694/133-open-shop",
-  externalId: "2443694",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2443694",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2443694/133-open-shop",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

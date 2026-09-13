@@ -10,9 +10,13 @@ export const godOfTrash0162162PeerBattle = {
   ownLength: 2001,
   unit: "words",
   publishedAt: "2025-08-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2536809/162-peer-battle",
-  externalId: "2536809",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2536809",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2536809/162-peer-battle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
