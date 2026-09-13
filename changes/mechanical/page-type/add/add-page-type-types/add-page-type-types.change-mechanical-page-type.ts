@@ -9,6 +9,7 @@ export const addPageTypeTypes = {
   changeTargetSubtype: "change-target-subtype/page-type-page",
   definition: "one page type turned over to the code that writes its type",
   code: "ts",
+  test: "ts",
   guards: ["change-guard/import-not-left-hanging"],
   invariants: [
     {
