@@ -94,11 +94,6 @@ function assertSpelled(spelled: string): undefined {
   return undefined
 }
 
-export function lineFor(name: string, spelled: string, type: boolean): string {
-  assertSpelled(spelled)
-  return `import ${type ? "type " : ""}{ ${name} } from ${JSON.stringify(spelled)}`
-}
-
 export function everyFor(name: string, spelled: string): string {
   assertSpelled(spelled)
   return `import ${EVERY} as ${name} from ${JSON.stringify(spelled)}`
@@ -147,15 +142,6 @@ function keptIn(
   return `${head}{ ${kept.join(", ")} }${tail}`
 }
 
-export function withoutOne(
-  text: string,
-  one: ts.ImportDeclaration,
-  bound: ts.NamedImports,
-  gone: ts.ImportSpecifier
-): string {
-  return keptIn(text, one, bound, (each) => each === gone)
-}
-
 function wholeOut(text: string, source: ts.SourceFile, one: ts.ImportDeclaration): Taken {
   const ended = one.getEnd()
   const from = one.getStart(source)
@@ -195,10 +181,6 @@ export function withoutNames(
     if (taken !== null) found.push(taken)
   }
   return found
-}
-
-export function withoutName(text: string, source: ts.SourceFile, named: string): Taken | null {
-  return withoutNames(text, source, [named])[0] ?? null
 }
 
 export function withName(

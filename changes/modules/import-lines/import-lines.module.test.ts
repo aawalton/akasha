@@ -4,7 +4,6 @@ import {
   everyFor,
   everyIn,
   importsIn,
-  lineFor,
   linesOf,
   namedIn,
   namesIn,
@@ -12,9 +11,7 @@ import {
   namingsIn,
   openedIn,
   withName,
-  withoutName,
   withoutNames,
-  withoutOne,
 } from "akasha/changes/modules/import-lines/import-lines.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import ts from "typescript"
@@ -45,26 +42,6 @@ test("a name spelled as a key rather than reached is not among the names a node 
   expect(declared === undefined ? [] : [...namesIn(declared)]).toEqual(["heldOf", "one"])
 })
 
-test("an import line names a type only where what it names is a type", () => {
-  expect(lineFor("one", "./one.module.code.ts", false)).toBe(ONE)
-  expect(lineFor("Held", "./held.module.code.ts", true)).toBe(
-    'import type { Held } from "./held.module.code.ts"'
-  )
-})
-
-test("a name taken out of a line leaves the other names that line carries", () => {
-  const text = 'import { one, two } from "./held.module.code.ts"\n'
-  const line = lineAt(text, 0)
-  const bound = line === null ? null : namedIn(line)
-  const gone = bound?.elements.find((each) => each.name.text === "one")
-  const left =
-    line === null || bound === null || gone === undefined
-      ? "unfound"
-      : withoutOne(text, line, bound, gone)
-
-  expect(left).toBe('import { two } from "./held.module.code.ts"')
-})
-
 const EVERY_LINE = 'import * as held from "./held.module.code.ts"'
 
 test("a line naming everything a path exports is answered under the name it binds", () => {
@@ -76,17 +53,6 @@ test("a line naming everything a path exports is answered under the name it bind
 
 test("such a line is written from that name and that path", () => {
   expect(everyFor("held", "./held.module.code.ts")).toBe(EVERY_LINE)
-})
-
-test("taking the only name a line carries leaves no line", () => {
-  const one = `${ONE}\n${EVERY_LINE}\n`
-  const two = 'import { one, two } from "./held.module.code.ts"\n'
-
-  expect(withoutName(one, parsedAs(AT, one), "held")).toEqual({ old: `${EVERY_LINE}\n`, new: "" })
-  expect(withoutName(two, parsedAs(AT, two), "one")?.new).toBe(
-    'import { two } from "./held.module.code.ts"'
-  )
-  expect(withoutName(one, parsedAs(AT, one), "missing")).toBe(null)
 })
 
 test("a name imported under another name is answered by the name at its source", () => {
@@ -200,9 +166,8 @@ test("names taken out of one line together leave one passage rather than one for
 })
 
 test("a line spelling no path is refused rather than composed", () => {
-  expect(() => lineFor("one", "", false)).toThrow("spells no path")
-  expect(() => lineFor("Held", "   ", true)).toThrow("spells no path")
   expect(() => everyFor("held", "")).toThrow("spells no path")
+  expect(() => everyFor("held", "   ")).toThrow("spells no path")
   expect(() => linesOf([taking("one", "")])).toThrow("spells no path")
   expect(() => linesOf([taking("held", "", false, true)])).toThrow("spells no path")
 })
