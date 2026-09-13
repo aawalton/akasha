@@ -32,6 +32,10 @@ export const oneTypeOnly = {
       statement: "A folder above holding no page is asked for no part.",
     },
     {
+      invariantKind: "departure",
+      statement: "Whether the page above is asked for that part at all is handed in.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads the name of the folder it judges.",
     },

@@ -35,6 +35,10 @@ export const scriptsOnly = {
     },
     {
       invariantKind: "absence",
+      statement: "A script the page above declares nowhere is refused by nothing here.",
+    },
+    {
+      invariantKind: "absence",
       statement:
         "The other files a script's own folder holds are judged where that folder is judged.",
     },

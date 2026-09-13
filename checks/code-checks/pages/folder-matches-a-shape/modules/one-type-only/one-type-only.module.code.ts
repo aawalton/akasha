@@ -6,6 +6,7 @@ export type Wanted = {
   readonly pageTypeSlug: string
   readonly one: string
   readonly many: string
+  readonly declared?: boolean
 }
 
 export function ofOneTypeOnly(standing: Standing, wanted: Wanted): readonly string[] {
@@ -26,6 +27,7 @@ export function ofOneTypeOnly(standing: Standing, wanted: Wanted): readonly stri
       other.push(at)
       continue
     }
+    if (wanted.declared === false) continue
     if (holding.length > 0 && !held.some((one) => declared.has(one))) loose.push(at)
   }
   if (other.length > 0) {

@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { folderFrom } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.decision.test-fixtures.ts"
+import {
+  folderFrom,
+  sameName,
+} from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.decision.test-fixtures.ts"
 import { scriptsOnly } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/scripts-only/scripts-only.folder-shape.code.ts"
 
 const FOLDER = "akasha/code/ios-harnesses/scripts"
@@ -13,7 +16,13 @@ function holdsAt(at: string): readonly string[] {
 }
 
 function judged(deep: readonly string[], names: readonly string[]): readonly string[] {
-  const made = folderFrom({ folder: FOLDER, pageTypes: PAGE_TYPES, holds: holdsAt, deep })
+  const made = folderFrom({
+    folder: FOLDER,
+    pageTypes: PAGE_TYPES,
+    holds: holdsAt,
+    extending: sameName,
+    deep,
+  })
   return scriptsOnly(made(names))
 }
 
@@ -38,7 +47,7 @@ test("a subfolder holding a page that is no shell script is refused, and the rea
   const said = judged([...ONE_SCRIPT, "a-module/a-module.module.ts"], [])
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("a-module")
-  expect(said[0]).toContain("shell-script")
+  expect(said[0]).toContain("the folder of no script")
 })
 
 test("a subfolder holding no page at all is refused too", () => {
