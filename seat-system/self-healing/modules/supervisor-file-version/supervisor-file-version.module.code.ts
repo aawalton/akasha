@@ -1,6 +1,6 @@
 import { dirname, join, normalize } from "node:path"
 import { listWorkspaceDirs } from "akasha/alan/harness/workspace-paths/modules/workspace-dirs/workspace-dirs.module.code.ts"
-import type { Naming } from "akasha/code/reading/modules/specifier/code-specifier.module.code.ts"
+import type { Naming } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import {
   reachesIn,
   reachingOver,

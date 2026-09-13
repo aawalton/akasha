@@ -18,7 +18,7 @@ import {
   placedIn,
   specifierFor,
   spelledIn,
-} from "akasha/code/reading/modules/specifier/code-specifier.module.code.ts"
+} from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 
 const GENERATED = "+types"
 

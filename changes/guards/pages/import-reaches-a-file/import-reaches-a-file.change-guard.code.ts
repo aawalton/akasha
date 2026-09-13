@@ -11,7 +11,7 @@ import type {
 import {
   landingOf,
   placedIn,
-} from "akasha/code/reading/modules/specifier/code-specifier.module.code.ts"
+} from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import { objectIn } from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
 
 const CODE = new Set([".ts", ".tsx"])

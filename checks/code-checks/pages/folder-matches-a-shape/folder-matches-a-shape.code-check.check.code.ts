@@ -20,7 +20,7 @@ import type { Judged } from "akasha/checks/modules/judging/judging.module.code.t
 import {
   NAMING_NONE,
   type Naming,
-} from "akasha/code/reading/modules/specifier/code-specifier.module.code.ts"
+} from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import { edgesIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
 import { reachingOf } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"

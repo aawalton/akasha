@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import type { Naming } from "akasha/code/reading/modules/specifier/code-specifier.module.code.ts"
+import type { Naming } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import {
   reachesIn,
   reachingOver,

@@ -2,7 +2,7 @@ import type { Replacing } from "akasha/changes/modules/answer/change-answer.modu
 import { textOf } from "akasha/code/bodies/modules/body-text/body-text.module.code.ts"
 import { typeScripted } from "akasha/code/bodies/modules/file-kind/file-kind.module.code.ts"
 import { folderOf } from "akasha/code/paths/modules/code-path-between/code-path-between.module.code.ts"
-import type { Naming } from "akasha/code/reading/modules/specifier/code-specifier.module.code.ts"
+import type { Naming } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { edgesIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
 import {

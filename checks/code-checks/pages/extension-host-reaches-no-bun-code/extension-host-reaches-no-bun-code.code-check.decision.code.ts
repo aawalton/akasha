@@ -2,14 +2,14 @@ import { dirname, join, normalize } from "node:path"
 import { textIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import {
+  landingOf,
+  type Naming,
+} from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
+import {
   erasedExport,
   erasedImport,
   skimmedAs,
 } from "akasha/code/reading/modules/source/code-source.module.code.ts"
-import {
-  landingOf,
-  type Naming,
-} from "akasha/code/reading/modules/specifier/code-specifier.module.code.ts"
 import {
   reachesIn,
   reachingOver,

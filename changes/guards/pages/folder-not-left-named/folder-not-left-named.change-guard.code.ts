@@ -12,8 +12,8 @@ import type {
 import { facingHeld } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { namedBy } from "akasha/code/paths/modules/folder-spelling/folder-spelling.module.code.ts"
 import { runsIn } from "akasha/code/paths/modules/path-runs/path-runs.module.code.ts"
+import { spelledIn } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
-import { spelledIn } from "akasha/code/reading/modules/specifier/code-specifier.module.code.ts"
 import {
   generatedIn,
   groupWrites,

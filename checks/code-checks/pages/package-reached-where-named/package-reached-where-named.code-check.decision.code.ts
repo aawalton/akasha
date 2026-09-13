@@ -9,7 +9,7 @@ import type { Judged } from "akasha/checks/modules/judging/judging.module.code.t
 import {
   landingOf,
   specifiersIn,
-} from "akasha/code/reading/modules/specifier/code-specifier.module.code.ts"
+} from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import {
   calledIn,
   objectIn,
