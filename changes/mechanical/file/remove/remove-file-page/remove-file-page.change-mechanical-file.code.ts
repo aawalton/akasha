@@ -8,10 +8,12 @@ import type { Answer } from "akasha/changes/modules/answer/change-answer.module.
 import { claimedIn } from "akasha/changes/modules/page-claiming/page-claiming.module.code.ts"
 import { namersIn, pageIn } from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
 import {
+  carrying,
   type Reached,
   reach,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { valueRemoved } from "akasha/changes/modules/value-removing/value-removing.module.code.ts"
 import type { Named } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
@@ -20,8 +22,6 @@ const PARTS = "parts"
 const REMOVE_FILE = "change-mechanical-file/remove-file"
 
 const REMOVE_FILE_CODE = "change-mechanical/remove-file-code"
-
-const REMOVE_PROPERTY_VALUE = "change-mechanical-file-content/remove-property-value"
 
 const CODE = new Set([".ts", ".tsx"])
 
@@ -58,31 +58,23 @@ function ownLast(beside: readonly string[], at: string): readonly string[] {
   return [...beside.filter((one) => one !== at), at]
 }
 
-async function unnamingIn(world: World, at: string, parents: readonly Named[]): Promise<Reached> {
+function unnamingIn(world: World, at: string, parents: readonly Named[]): Reached {
   const said = partedIn(at)
   if (said === null) return { said: stating([]), world }
   const qualified = `${said.pageType}/${said.slug}`
   const answers: Answer[] = []
   let seen = world
   for (const parent of parents) {
-    const one = await reach(seen, REMOVE_PROPERTY_VALUE, {
-      at: parent.path,
-      key: PARTS,
-      value: qualified,
-    })
-    if (one.said.refused === null) {
-      answers.push(one.said)
-      seen = one.world
+    const one = valueRemoved(seen, { at: parent.path, key: PARTS, value: qualified })
+    if (one.refused === null) {
+      answers.push(one)
+      seen = carrying(seen, one)
       continue
     }
-    const bare = await reach(seen, REMOVE_PROPERTY_VALUE, {
-      at: parent.path,
-      key: PARTS,
-      value: said.slug,
-    })
-    if (bare.said.refused !== null) return { said: one.said, world: seen }
-    answers.push(bare.said)
-    seen = bare.world
+    const bare = valueRemoved(seen, { at: parent.path, key: PARTS, value: said.slug })
+    if (bare.refused !== null) return { said: one, world: seen }
+    answers.push(bare)
+    seen = carrying(seen, bare)
   }
   return { said: gathered(answers), world: seen }
 }
@@ -97,7 +89,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
     const why = cause instanceof Error ? cause.message : String(cause)
     return refusing(`${why}, so the files beside \`${given.at}\` were not worked out`)
   }
-  const unnamed = await unnamingIn(world, given.at, parentsOf(world, given.at))
+  const unnamed = unnamingIn(world, given.at, parentsOf(world, given.at))
   if (unnamed.said.refused !== null) return unnamed.said
   const taken: Answer[] = [unnamed.said]
   let seen = unnamed.world

@@ -71,7 +71,8 @@ export const removeFilePage = {
     },
     {
       invariantKind: "departure",
-      statement: "The page's entry in the parent's `parts` is dropped by `remove-property-value`.",
+      statement:
+        "The module taking a value away is called for the parent's `parts` rather than reached.",
     },
     {
       invariantKind: "departure",
