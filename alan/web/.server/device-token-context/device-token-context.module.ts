@@ -6,4 +6,18 @@ export const deviceTokenContext = {
   slug: "device-token-context",
   definition: "the account a push registration is made for, read out of the request",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A bearer token naming a user settles the account and the session is not read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A bearer token naming nobody leaves the session to settle the account.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A request carrying no bearer token is read from its session alone.",
+    },
+  ],
 } as const satisfies Module

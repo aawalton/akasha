@@ -13,8 +13,9 @@ async function resolveBearerContext(request: Request): Promise<DeviceTokenContex
   const token = parseBearerToken(request.headers.get("authorization"))
   if (token === null) return null
   const { user } = await getUserFromBearerToken(token)
-  if (user == null) return { authenticated: false, headers: new Headers() }
-  return { authenticated: true, userId: user.id, headers: new Headers() }
+  if (user != null) return { authenticated: true, userId: user.id, headers: new Headers() }
+  process.stderr.write("[device-token] the bearer token named nobody; reading the session\n")
+  return null
 }
 
 export async function resolveDeviceTokenContext(request: Request): Promise<DeviceTokenContext> {
