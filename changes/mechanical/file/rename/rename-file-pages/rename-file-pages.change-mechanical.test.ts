@@ -35,10 +35,6 @@ const SPELLER_PAGE = "akasha/speller.module.ts"
 
 const SPELLER_CODE = "akasha/speller.module.code.ts"
 
-const RESTATES = "change-mechanical-file-content/rename-page-addresses"
-
-const ONE_ADDRESS = "change-mechanical-file-content/rename-page-address"
-
 const RENAME_FILE_PAGE = "change-mechanical/rename-file-page"
 
 const TYPE_BODY = `export type Kept = { readonly id: string }
@@ -100,16 +96,15 @@ test("every page handed in is renamed and every address it carried is restated",
   )
 })
 
-test("every address is restated over one reading of the bodies before any page is renamed", async () => {
+test("the addresses are restated by the module before any page's rename is reached", async () => {
   const traced = tracing()
   const said = await runChange(worldIn(KEPT_ROOT, traced.runs), ASKED)
-  const restating = traced.reached.filter((one) => one.at === RESTATES)
   const renaming = traced.reached.filter((one) => one.at === RENAME_FILE_PAGE)
 
   expect(said.refused).toBe(null)
-  expect(restating.length).toBe(1)
-  expect(traced.reached[0]?.at).toBe(RESTATES)
-  expect(traced.reached.some((one) => one.at === ONE_ADDRESS)).toBe(false)
+  expect(traced.reached[0]?.at).toBe(RENAME_FILE_PAGE)
+  expect(traced.reached.some((one) => one.at.endsWith("/rename-page-addresses"))).toBe(false)
+  expect(traced.reached.some((one) => one.at.endsWith("/rename-page-address"))).toBe(false)
   expect(renaming.length).toBe(2)
 })
 

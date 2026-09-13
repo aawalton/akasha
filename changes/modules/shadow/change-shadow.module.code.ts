@@ -121,7 +121,7 @@ export type Reached = {
   readonly world: World
 }
 
-function carrying(world: World, said: Answer): World {
+export function carrying(world: World, said: Answer): World {
   return isLedger(world) ? addedTo(world, said) : worldOver(world, said)
 }
 

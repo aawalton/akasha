@@ -17,6 +17,10 @@ export const renameFilePages = {
     },
     {
       invariantKind: "departure",
+      statement: "The module restating addresses is called rather than reached through a rung.",
+    },
+    {
+      invariantKind: "departure",
       statement: "That restating comes before any page is renamed.",
     },
     {

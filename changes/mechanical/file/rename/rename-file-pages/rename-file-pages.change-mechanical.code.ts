@@ -1,12 +1,15 @@
+import { restatedIn } from "akasha/changes/modules/address-restating/address-restating.module.code.ts"
 import { gathered, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { statedIn } from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
-import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
+  carrying,
+  reach,
+  type World,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 
 const RENAME_FILE_PAGE = "change-mechanical/rename-file-page"
-
-const RENAME_PAGE_ADDRESSES = "change-mechanical-file-content/rename-page-addresses"
 
 const SLUG = "slug"
 
@@ -59,10 +62,10 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   const answers: Answer[] = []
   let seen = world
   if (Object.keys(addresses).length > 0) {
-    const restated = await reach(seen, RENAME_PAGE_ADDRESSES, { moved: addresses })
-    if (restated.said.refused !== null) return restated.said
-    answers.push(restated.said)
-    seen = restated.world
+    const restated = restatedIn(seen, new Map(Object.entries(addresses)))
+    if (restated.refused !== null) return restated
+    answers.push(restated)
+    seen = carrying(seen, restated)
   }
   for (const one of read.held) {
     const renamed = await reach(seen, RENAME_FILE_PAGE, {
