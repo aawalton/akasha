@@ -301,3 +301,19 @@ export function streamedUpstream(): Streamed {
     },
   }
 }
+
+export const OWN = "a70d67f8ee96115ae"
+
+export type StoppedTurn = {
+  readonly status: number
+  readonly turns: number
+  readonly line: string | undefined
+}
+
+export async function stoppedTurn(named: boolean): Promise<StoppedTurn> {
+  const rig = startedProxy({}, { stopped: { has: (own) => own === OWN } })
+  const headers: Record<string, string> = named ? { "x-claude-code-agent-id": OWN } : {}
+  const req = requested("/v1/messages", { method: "POST", body: "{}", headers })
+  const res = await rig.answering(0)(req, rig.listening(0))
+  return { status: res.status, turns: rig.turns.length, line: rig.lines[1] }
+}

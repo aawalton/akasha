@@ -7,6 +7,7 @@ import {
   SURFACE,
   startOAuthProxy,
 } from "akasha/agents/models/gateway/modules/proxy-serving/proxy-serving.module.code.ts"
+import { followingStops } from "akasha/agents/models/gateway/modules/subagent-stops/subagent-stops.module.code.ts"
 import { transportLogFlushed } from "akasha/agents/models/gateway/modules/transport-log/transport-log.module.code.ts"
 import {
   clearProxyState,
@@ -38,6 +39,7 @@ export function processSeams(): ProcessDoors {
     socketPathFor: (agentId) => supervisorSocketPath(agentId),
     consoleTo: consoleSentTo,
     started: (opts) => startOAuthProxy(opts, SURFACE),
+    stopsFollowed: (root, agentId) => followingStops(root, agentId),
     stateWritten: (agentId, state) => {
       writeProxyStateQuietly(agentId, state)
     },

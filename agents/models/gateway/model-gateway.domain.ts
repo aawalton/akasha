@@ -51,6 +51,8 @@ export const modelGateway = {
     "module/server-error",
     "module/server-error-retry",
     "module/sse-error-frame",
+    "module/subagent-stop-refusal",
+    "module/subagent-stops",
     "module/transport-log",
   ],
   invariants: [

@@ -1,5 +1,6 @@
 import type { RefreshOutcome } from "akasha/agents/claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
 import type { OAuthEffects } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
+import type { HeldSubagents } from "akasha/agents/models/gateway/modules/subagent-stop-refusal/subagent-stop-refusal.module.code.ts"
 
 export type OAuthProxy = {
   readonly port: number
@@ -18,4 +19,5 @@ export type StartOAuthProxyOptions = {
   readonly downstreamKeepaliveMs?: number
   readonly unixSocketPath?: string
   readonly oauth?: OAuthEffects
+  readonly stopped?: HeldSubagents | undefined
 }

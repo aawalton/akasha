@@ -47,6 +47,11 @@ export const proxyEntry = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The subagents held as stopped are followed under the root and the agent the boot settings name.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Going down waits on the rows the transport log has.",
     },
     {

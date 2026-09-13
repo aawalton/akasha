@@ -74,6 +74,23 @@ export const proxyProcess = {
     },
     {
       invariantKind: "departure",
+      statement: "A gateway is started with the subagents the following seam holds as stopped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The following is started before the gateway is started.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A process handed no following seam starts a gateway holding no subagent as stopped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Going down stops the following after the gateway is stopped.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The proxy state written names the process id.",
     },
     {

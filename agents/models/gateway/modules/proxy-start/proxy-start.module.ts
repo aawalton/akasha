@@ -62,6 +62,10 @@ export const proxyStart = {
       statement: "A unix socket path handed in is where remote control is listened for.",
     },
     {
+      invariantKind: "departure",
+      statement: "The subagents held as stopped may be handed in.",
+    },
+    {
       invariantKind: "constraint",
       statement:
         "A caller has the answer starting a gateway hands back for as long as that gateway runs.",

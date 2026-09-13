@@ -13,6 +13,7 @@ import {
   STUB_OAUTH,
   snapshotOf,
   startedProxy,
+  stoppedTurn,
   streamedUpstream,
   ticked,
 } from "akasha/agents/models/gateway/modules/proxy-serving/proxy-serving.module.test-fixtures.ts"
@@ -374,4 +375,12 @@ test("a turn runs through the pipeline named here where the caller hands none in
   const res = await rig.answering(0)(requested("/v1/messages", POSTED), rig.listening(0))
   expect(res.status).toBe(429)
   expect(rig.turns).toEqual([])
+})
+
+test("a stopped subagent's POST is refused, and one naming none is not", async () => {
+  const said = await stoppedTurn(true)
+  expect(said.status).toBe(400)
+  expect(said.turns).toBe(0)
+  expect(said.line).toBe("[oauth-proxy] res POST /v1/messages status=400 stopped-subagent")
+  expect((await stoppedTurn(false)).turns).toBe(1)
 })

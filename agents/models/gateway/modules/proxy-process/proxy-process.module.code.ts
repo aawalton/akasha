@@ -6,6 +6,7 @@ import type {
   OAuthProxy,
   StartOAuthProxyOptions,
 } from "akasha/agents/models/gateway/modules/proxy-start/proxy-start.module.code.ts"
+import type { StoppedSubagents } from "akasha/agents/models/gateway/modules/subagent-stops/subagent-stops.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 const LOG_PREFIX = "[oauth-proxy]"
@@ -29,6 +30,7 @@ export type ProcessDoors = {
   readonly socketPathFor: (agentId: string) => string
   readonly consoleTo: (logDir: string, agentId: string) => undefined
   readonly started: (opts: StartOAuthProxyOptions) => OAuthProxy
+  readonly stopsFollowed?: (root: string, agentId: string) => StoppedSubagents
   readonly stateWritten: (agentId: string, state: ProxyStateToWrite) => undefined
   readonly stateCleared: (agentId: string) => undefined
   readonly flushed: () => Promise<undefined>
@@ -47,7 +49,11 @@ function guarded(doors: ProcessDoors, line: string, work: () => undefined): unde
   }
 }
 
-function optionsFor(env: OAuthProxyBootEnv, doors: ProcessDoors): StartOAuthProxyOptions {
+function optionsFor(
+  env: OAuthProxyBootEnv,
+  doors: ProcessDoors,
+  stopped: StoppedSubagents | undefined
+): StartOAuthProxyOptions {
   return {
     port: env.port,
     root: doors.root,
@@ -56,6 +62,7 @@ function optionsFor(env: OAuthProxyBootEnv, doors: ProcessDoors): StartOAuthProx
     upstreamIdleTimeoutMs: env.upstreamIdleTimeoutMs,
     downstreamKeepaliveMs: env.downstreamKeepaliveMs,
     unixSocketPath: doors.socketPathFor(env.agentId),
+    stopped,
   }
 }
 
@@ -71,7 +78,8 @@ export function runGatewayProcess(doors: ProcessDoors): undefined {
 
   doors.consoleTo(env.logDir, env.agentId)
 
-  const proxy = doors.started(optionsFor(env, doors))
+  const stops = doors.stopsFollowed?.(doors.root, env.agentId)
+  const proxy = doors.started(optionsFor(env, doors, stops))
 
   doors.stateWritten(env.agentId, {
     pid: doors.pid,
@@ -89,6 +97,9 @@ export function runGatewayProcess(doors: ProcessDoors): undefined {
     })
     guarded(doors, `${LOG_PREFIX} the stop threw on ${signal}:`, () => {
       proxy.stop()
+    })
+    guarded(doors, `${LOG_PREFIX} stopping the following threw on ${signal}:`, () => {
+      stops?.stop()
     })
     guarded(doors, `${LOG_PREFIX} clearing the proxy state threw on ${signal}:`, () => {
       doors.stateCleared(env.agentId)

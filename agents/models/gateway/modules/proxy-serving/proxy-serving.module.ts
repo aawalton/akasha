@@ -243,6 +243,25 @@ export const proxyServing = {
       statement: "A pipeline handed in replaces the pipeline named here.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A POST naming a stopped subagent is refused rather than handed to the message handler.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A POST of a messages path naming no subagent reaches the message handler whatever is held.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The subagents held as stopped are handed in, and none is held where none is handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A turn refused as a stopped subagent's is written about as a 400.",
+    },
+    {
       invariantKind: "constraint",
       statement:
         "A caller has the proxy starting a gateway hands back for as long as that gateway runs.",

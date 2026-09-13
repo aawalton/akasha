@@ -43,6 +43,10 @@ import type {
 } from "akasha/agents/models/gateway/modules/proxy-start/proxy-start.module.code.ts"
 import { rateLimitResponse } from "akasha/agents/models/gateway/modules/rate-limit-refusal/rate-limit-refusal.module.code.ts"
 import {
+  NONE_HELD,
+  refusalFor,
+} from "akasha/agents/models/gateway/modules/subagent-stop-refusal/subagent-stop-refusal.module.code.ts"
+import {
   buildShutdownFlushRegistry,
   type TransportLogAt,
 } from "akasha/agents/models/gateway/modules/transport-log/transport-log.module.code.ts"
@@ -116,6 +120,10 @@ export type ServingDoors = ServingSurface & { readonly queuedIn?: QueuedIn | und
 function requestLine(logPrefix: string, req: Request, pathname: string): string {
   const auth = req.headers.has("authorization") ? "yes" : "no"
   return `${logPrefix} req ${req.method} ${pathname} auth=${auth}`
+}
+
+function stoppedLine(logPrefix: string, pathname: string): string {
+  return `${logPrefix} res POST ${pathname} status=400 stopped-subagent`
 }
 
 function listeningOf(server: Server<undefined>): Listening {
@@ -234,6 +242,7 @@ export function startOAuthProxy(opts: StartOAuthProxyOptions, doors: ServingDoor
   const inFlight = buildInFlightTracker()
   const rcConn = buildInFlightTracker()
   const holds = buildHoldRegistry()
+  const stopped = opts.stopped ?? NONE_HELD
 
   const forward = buildForward({
     idleTimeoutMs: opts.upstreamIdleTimeoutMs ?? 0,
@@ -327,6 +336,11 @@ export function startOAuthProxy(opts: StartOAuthProxyOptions, doors: ServingDoor
         return Response.json({ rcConnections: rcConn.getCount() })
       }
       if (req.method === "POST" && MESSAGES_PATHS.has(url.pathname)) {
+        const held = refusalFor(req, stopped)
+        if (held !== null) {
+          doors.said(stoppedLine(logPrefix, url.pathname))
+          return held
+        }
         return messaged(req, served)
       }
       return relayed(req, remoteControl)
