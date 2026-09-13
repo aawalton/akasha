@@ -5,7 +5,6 @@ import type {
   UncommittedBy,
 } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
-import { filesIn } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
 import {
   besideAt,
   pageOf,
@@ -325,8 +324,14 @@ function typesNaming(
   return found
 }
 
-function pagedOfTypeIn(root: string, folder: string, types: ReadonlySet<string>): string | null {
-  for (const one of filesIn(root, folder)) {
+export type Listing = (folder: string) => readonly string[]
+
+function pagedOfTypeIn(
+  listing: Listing,
+  folder: string,
+  types: ReadonlySet<string>
+): string | null {
+  for (const one of listing(folder)) {
     const said = partedIn(one)
     if (said === null || said.sections.length > 0 || said.held !== HELD) continue
     if (types.has(said.pageType)) return one
@@ -335,7 +340,7 @@ function pagedOfTypeIn(root: string, folder: string, types: ReadonlySet<string>)
 }
 
 export function claimantOf(
-  root: string,
+  listing: Listing,
   path: string,
   pageTypes: ReadonlySet<string>,
   fileProperties: FilePropertiesBy,
@@ -351,7 +356,7 @@ export function claimantOf(
     const named = folder === "" ? path : path.slice(folder.length + 1)
     const types = typesNaming(named, fileProperties, folders)
     if (types.size > 0) {
-      const found = pagedOfTypeIn(root, folder, types)
+      const found = pagedOfTypeIn(listing, folder, types)
       if (found !== null) return found
     }
     if (folder === "") return null

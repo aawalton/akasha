@@ -186,5 +186,13 @@ export const pathClaiming = {
       invariantKind: "departure",
       statement: "A folder holding no page of that type leaves the path claimed by nothing.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Which pages sit in a folder is handed in rather than read here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller judging an answer hands in the folder as that answer leaves it.",
+    },
   ],
 } as const satisfies Module
