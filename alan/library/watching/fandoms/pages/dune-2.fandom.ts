@@ -11,5 +11,4 @@ export const dune2 = {
   ownProgress: 0,
   unit: "words",
   status: "not-started",
-  lastSyncedAt: "2025-10-01",
 } as const satisfies Fandom

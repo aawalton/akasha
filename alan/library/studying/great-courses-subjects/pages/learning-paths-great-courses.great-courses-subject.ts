@@ -8,5 +8,4 @@ export const learningPathsGreatCourses = {
   status: "paused",
   unit: "minutes",
   partOfCollections: ["great-courses-by-subject"],
-  source: "the-great-courses",
 } as const satisfies GreatCoursesSubject

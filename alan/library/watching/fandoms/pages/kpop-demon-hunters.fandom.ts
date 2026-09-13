@@ -13,5 +13,4 @@ export const kpopDemonHunters = {
   status: "following",
   rank: "S",
   publishedAt: "2025-06-20",
-  lastSyncedAt: "2025-09-29",
 } as const satisfies Fandom

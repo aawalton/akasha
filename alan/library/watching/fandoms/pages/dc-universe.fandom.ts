@@ -11,5 +11,4 @@ export const dcUniverse = {
   ownProgress: 0,
   unit: "words",
   status: "paused",
-  lastSyncedAt: "2025-10-01",
 } as const satisfies Fandom

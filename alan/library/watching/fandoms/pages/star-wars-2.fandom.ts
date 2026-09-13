@@ -12,5 +12,4 @@ export const starWars2 = {
   unit: "words",
   status: "paused",
   rank: "B",
-  lastSyncedAt: "2025-10-01",
 } as const satisfies Fandom

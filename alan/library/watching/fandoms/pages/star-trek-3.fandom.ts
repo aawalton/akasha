@@ -12,5 +12,4 @@ export const starTrek3 = {
   unit: "words",
   status: "paused",
   rank: "A",
-  lastSyncedAt: "2025-10-01",
 } as const satisfies Fandom

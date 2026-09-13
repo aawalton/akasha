@@ -12,5 +12,4 @@ export const theWheelOfTime2 = {
   unit: "words",
   status: "not-started",
   rank: "B",
-  lastSyncedAt: "2025-10-01",
 } as const satisfies Fandom

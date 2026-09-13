@@ -11,5 +11,4 @@ export const theTwilightZone = {
   ownProgress: 0,
   unit: "minutes",
   status: "not-started",
-  lastSyncedAt: "2025-10-30",
 } as const satisfies ShowCollection

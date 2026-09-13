@@ -12,5 +12,4 @@ export const piratesOfTheCaribbean2 = {
   unit: "words",
   status: "paused",
   rank: "C",
-  lastSyncedAt: "2025-10-01",
 } as const satisfies Fandom

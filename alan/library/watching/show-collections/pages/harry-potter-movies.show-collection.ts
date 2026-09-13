@@ -12,5 +12,4 @@ export const harryPotterMovies = {
   unit: "minutes",
   status: "following",
   rank: "B",
-  lastSyncedAt: "2025-10-01",
 } as const satisfies ShowCollection

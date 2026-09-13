@@ -9,5 +9,4 @@ export const theEverythingParentsGuideToChildrenWithExecutiveFunctioningDisorder
   author: "Rebecca Branstetter",
   unit: "words",
   ownLength: 124500,
-  lastSyncedAt: "2025-10-11",
 } as const satisfies Book
