@@ -169,8 +169,9 @@ export const seat = {
       statement: "A command reaches what a seat keeps that way.",
     },
     {
-      invariantKind: "gap",
-      statement: "A command lands a record a seat keeps that way.",
+      invariantKind: "departure",
+      statement:
+        "A command takes a record a seat keeps that way into the seat's own edits, and an apply lands it.",
     },
     {
       invariantKind: "departure",
@@ -178,8 +179,20 @@ export const seat = {
     },
     {
       invariantKind: "departure",
+      statement: "Every record one path names is taken together, so such a chain is taken whole.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "Whether a kept record landed already is undecidable where its new text sits inside its old.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a record is named and held back rather than taken on a guess.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The agent that has read such a record says to take it, and nothing else does.",
     },
     {
       invariantKind: "departure",
