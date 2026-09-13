@@ -6,7 +6,6 @@ export const rynRootFolderShape = {
   slug: "ryn-root-folder-shape",
   domain: "domain/akasha",
   persona: "ryn",
-  parent: "initiative/akasha-folder-shape",
   intents: [
     {
       statement: "The root akasha folder matches its folder shape.",
