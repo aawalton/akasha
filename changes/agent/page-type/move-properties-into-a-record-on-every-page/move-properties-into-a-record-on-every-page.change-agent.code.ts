@@ -17,6 +17,8 @@ const TO = "to"
 
 const AT_MOST = "at-most"
 
+const ALSO = "also"
+
 const ADD_PROPERTY_RECORD = "change-mechanical-file-content/add-property-record"
 
 const REMOVE_PAGE_PROPERTY = "change-mechanical-file-content/remove-page-property"
@@ -25,6 +27,7 @@ export type RecordGatheringAsked = {
   readonly pageType: string
   readonly keys: readonly string[]
   readonly needs: readonly string[]
+  readonly also: Readonly<Record<string, string>>
   readonly to: string
   readonly atMost?: number | null
 }
@@ -43,11 +46,26 @@ export function keysIn(said: string): readonly string[] {
     .filter((one) => one !== "")
 }
 
+export function fieldsIn(said: string): Readonly<Record<string, string>> | string {
+  const held: Record<string, string> = {}
+  for (const one of keysIn(said)) {
+    const at = one.indexOf("=")
+    if (at < 1 || at === one.length - 1) {
+      return `\`${one}\` states no field, a field being written \`key=value\``
+    }
+    held[one.slice(0, at)] = one.slice(at + 1)
+  }
+  return held
+}
+
 export function recordSpelledAs(
   held: Readonly<Record<string, unknown>>,
-  keys: readonly string[]
+  keys: readonly string[],
+  also: Readonly<Record<string, string>> = {}
 ): string {
-  return `{ ${keys.map((key) => `${key}: ${JSON.stringify(held[key])}`).join(", ")} }`
+  const stated = Object.entries(also).map(([key, one]) => `${key}: ${JSON.stringify(one)}`)
+  const read = keys.map((key) => `${key}: ${JSON.stringify(held[key])}`)
+  return `{ ${[...stated, ...read].join(", ")} }`
 }
 
 export function gatheringIn(
@@ -61,7 +79,8 @@ export function gatheringIn(
   if (!into.many) {
     return `a \`${given.pageType}\` holds one \`${given.to}\`, and a record is one of many`
   }
-  const unknown = given.keys.find((key) => !carried.some((one) => one.key === key))
+  const stated = [...given.keys, ...Object.keys(given.also)]
+  const unknown = stated.find((key) => !carried.some((one) => one.key === key))
   if (unknown !== undefined) {
     return `a \`${given.pageType}\` has no property under \`${unknown}\``
   }
@@ -72,10 +91,11 @@ export function gatheringIn(
       if (atMost !== null && found.length >= atMost) return found
       if (value[given.to] !== undefined) continue
       if (given.needs.some((key) => value[key] === undefined)) continue
+      if (Object.keys(given.also).some((key) => value[key] !== undefined)) continue
       const keys = given.keys.filter((key) => value[key] !== undefined)
       const first = keys[0]
       if (first === undefined) continue
-      found.push({ path, record: recordSpelledAs(value, keys), after: first, keys })
+      found.push({ path, record: recordSpelledAs(value, keys, given.also), after: first, keys })
     }
   }
   return found
@@ -104,7 +124,7 @@ export async function movePropertiesIntoARecordOnEveryPage(
   return carrier.gatheredIn()
 }
 
-export const takes: readonly string[] = [PAGE_TYPE, KEYS, NEEDS, TO, AT_MOST]
+export const takes: readonly string[] = [PAGE_TYPE, KEYS, NEEDS, ALSO, TO, AT_MOST]
 
 export function recordAskedIn(given: Asked): RecordGatheringAsked | string {
   const pageType = given[PAGE_TYPE]
@@ -118,9 +138,11 @@ export function recordAskedIn(given: Asked): RecordGatheringAsked | string {
   const needs = keysIn(given[NEEDS] ?? "")
   const outside = needs.find((one) => !keys.includes(one))
   if (outside !== undefined) return `\`${outside}\` is needed and is no key gathered here`
+  const also = fieldsIn(given[ALSO] ?? "")
+  if (typeof also === "string") return also
   const atMost = atMostIn(given[AT_MOST])
   if (typeof atMost === "string") return atMost
-  return { pageType, keys, needs, to, atMost }
+  return { pageType, keys, needs, also, to, atMost }
 }
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {

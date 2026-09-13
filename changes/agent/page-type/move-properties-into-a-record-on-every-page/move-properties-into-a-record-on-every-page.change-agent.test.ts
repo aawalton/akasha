@@ -91,7 +91,15 @@ const GATHERING = {
   pageType: "release",
   keys: ["source", "externalId"],
   needs: ["source", "externalId"],
+  also: {},
   to: "externalIdentity",
+}
+
+const WITHOUT_SOURCE = {
+  ...GATHERING,
+  keys: ["externalId"],
+  needs: ["externalId"],
+  also: { source: "spotify" },
 }
 
 const RECORD = `externalIdentity: [{ source: "spotify", externalId: "a1" }]`
@@ -143,6 +151,44 @@ test("the record spells its fields in the order the keys are handed in", () => {
 
 test("a key the page states no value under is left out of the record", () => {
   expect(recordSpelledAs({ source: "spotify" }, ["source"])).toBe(`{ source: "spotify" }`)
+})
+
+test("a field handed in is written into the record before the keys gathered", async () => {
+  const values: Values = new Map([[ONE_AT, { slug: "one", externalId: "a1" }]])
+  const world = pagesIn(BODIES, DECLARED, values)
+
+  const said = await movePropertiesIntoARecordOnEveryPage(world, WITHOUT_SOURCE)
+
+  expect(said.refused).toBeNull()
+  expect(bodiesIn(said, world.base).get(ONE_AT) ?? "").toContain(RECORD)
+})
+
+test("a page already stating a field handed in is passed over rather than refused", async () => {
+  const said = await movePropertiesIntoARecordOnEveryPage(pagesIn(BODIES, DECLARED), WITHOUT_SOURCE)
+
+  expect(said.refused).toBeNull()
+  expect(said.edits).toEqual([])
+})
+
+test("a field handed in under no property of that page type is refused", async () => {
+  const said = await movePropertiesIntoARecordOnEveryPage(pagesIn(BODIES, [EXTERNAL_ID, HELD_BY]), {
+    ...WITHOUT_SOURCE,
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain("has no property under `source`")
+})
+
+test("text stating no field is refused", async () => {
+  const said = await runChange(pagesIn(BODIES, DECLARED), {
+    "page-type": "release",
+    keys: "externalId",
+    also: "spotify",
+    to: "externalIdentity",
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain("states no field")
 })
 
 test("a page missing a key named as needed is passed over rather than refused", async () => {

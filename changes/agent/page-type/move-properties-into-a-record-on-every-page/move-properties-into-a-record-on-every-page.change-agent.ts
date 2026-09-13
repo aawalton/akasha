@@ -44,6 +44,18 @@ export const movePropertiesIntoARecordOnEveryPage = {
     },
     {
       invariantKind: "departure",
+      statement: "A field handed in is written into every record before the keys gathered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page already stating a field handed in is passed over rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A field is handed in written `key=value`, and text stating no field is refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page stating none of the keys is passed over rather than refused.",
     },
     {
