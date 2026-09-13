@@ -56,14 +56,6 @@ export function getNewest(action: Action): Action {
   return walker
 }
 
-export function getOldest(action: Action): Action {
-  let walker = action
-  while (walker.oldAction !== undefined) {
-    walker = walker.oldAction
-  }
-  return walker
-}
-
 export function getGallopEffect(action: Action): Effect | undefined {
   for (const effect of action.effectList) {
     if (effect.ability.icon.includes(MAJOR_GALLOP_ICON)) {

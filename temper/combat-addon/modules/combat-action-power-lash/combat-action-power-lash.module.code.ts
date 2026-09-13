@@ -91,10 +91,6 @@ function sendPowerLashGuide(show: boolean): undefined {
   return undefined
 }
 
-export function isPowerLashReady(): boolean {
-  return GUIDE_STATE.lastGuideType === "show"
-}
-
 export function powerLashPoll(now: number): undefined {
   if (!isPlayerDragonknight()) {
     return undefined

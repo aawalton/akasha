@@ -101,12 +101,3 @@ function effectSortsBefore(a: Effect, b: Effect): boolean {
   }
   return a.endTime > b.endTime
 }
-
-export function recalcEffectLevels(action: Action, role: LfgRole): undefined {
-  for (const effect of action.effectList) {
-    effect.level = calcLevel(action, effect, role)
-    effect.levelIsLow = effect.level >= LEVEL_LOW_THRESHOLD
-  }
-  sortEffectList(action)
-  return undefined
-}

@@ -31,10 +31,6 @@ export function getAbilityFrequencyMs(this: void, abilityId: number): number {
   return GetAbilityFrequencyMS(abilityId, PLAYER_UNIT_TAG) ?? 0
 }
 
-export function isSlotToggled(this: void, slotNum: number, hotbarCategory: number): boolean {
-  return IsSlotToggled(slotNum, hotbarCategory)
-}
-
 export function getSelectedRole(this: void): LfgRole {
   const role = GetSelectedLFGRole()
   if (role === LFG_ROLE_TANK) {

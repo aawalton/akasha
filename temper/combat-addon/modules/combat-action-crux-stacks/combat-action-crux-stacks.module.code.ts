@@ -45,10 +45,6 @@ export function clearCrux(): undefined {
   return undefined
 }
 
-export function getCruxStacks(): number {
-  return STATE.stacks
-}
-
 export function isCruxConsumerIcon(icon: string): boolean {
   return icon.includes("arcanist_002") || icon.includes("arcanist_003_b")
 }
