@@ -176,7 +176,7 @@ test("a value a test names in a test-fixtures file is reached", () => {
   expect(said[0]).toContain("`spare`")
 })
 
-test("a value a test names in a test-fixtures page's code is reached", () => {
+test("a value a test names in a test-fixture page's code is reached", () => {
   const root = rooted()
   proving(root, takenText("held", FIXTURES_CODE_AT))
   importedAt(root, FIXTURES_CODE_AT, [PROVER])

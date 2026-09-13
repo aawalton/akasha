@@ -19,7 +19,7 @@ export const PROVER = "akasha/held.module.test.ts"
 
 export const FIXTURES_AT = "akasha/held.module.test-fixtures.ts"
 
-export const FIXTURES_CODE_AT = "akasha/held.test-fixtures.code.ts"
+export const FIXTURES_CODE_AT = "akasha/held.test-fixture.code.ts"
 
 export const HELD_TEXT = "export const held = 1\nexport const spare = 2\n"
 
@@ -119,7 +119,7 @@ export function rooted(): string {
   typed(root, "computed-property", "domain")
   typed(root, "change-guard", "domain")
   typed(root, "service-workstation", "domain")
-  typed(root, "test-fixtures", "domain")
+  typed(root, "test-fixture", "domain")
   typed(root, "code-check", "domain")
   typed(root, "manifest", "domain")
   typed(root, "performance", "domain")

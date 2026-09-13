@@ -73,7 +73,7 @@ export const noUnusedExports = {
     },
     {
       invariantKind: "departure",
-      statement: "A file beside a test-fixtures page is a test-fixtures file.",
+      statement: "A file beside a test-fixture page is a test-fixtures file.",
     },
     {
       invariantKind: "departure",
