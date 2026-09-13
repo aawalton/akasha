@@ -41,7 +41,6 @@ export const persona = {
     "page-type/persona-points-source",
     "page-type/persona-wallpaper",
     "page-type/persona-wallpaper-notification",
-    "page-type/question",
     "page-type/review-session",
     "persona/abby",
     "persona/aelwyn",
