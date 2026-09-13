@@ -4,7 +4,7 @@ export const aLiveWriterAppendsASeatsLogLinesUnderTheRootThoseLinesWereMovedOutO
   id: "01a09591-b374-75fb-9354-d734a8c435d8",
   type: "finding",
   slug: "a-live-writer-appends-a-seats-log-lines-under-the-root-those-lines-were-moved-out-of",
-  domain: "domain/seat-system",
+  domain: "page-type/seat",
   claim:
     "A writer that was running when `seats` and `seat-log-days` moved under `agents` still resolves its sidecar path against `seat-system`, so it appends a page's lines to a folder that holds no page. Nothing reads them, and the part numbering has forked: one `part2` is written at each root with different contents, and a `part3` exists only at the root the page left. The folders it writes into are three of the forty `folder-matches-a-shape` refuses, which is how this was seen.",
   evidence:
