@@ -15,7 +15,7 @@ export const subagentEditsActing = {
     },
     {
       invariantKind: "departure",
-      statement: "The agent's own edits are reached by another module and are not reached here.",
+      statement: "A record taken here is appended to the edits the calling agent keeps of its own.",
     },
     {
       invariantKind: "departure",
@@ -80,16 +80,73 @@ export const subagentEditsActing = {
         "A file a write leaves no line in is taken away and withdrawn from the path index.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here says whether a record landed already.",
+      invariantKind: "departure",
+      statement:
+        "Whether a record landed already is worked out here from the body that record names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record fits where the text it was drafted against is there to change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record has left its text where the body already holds what that record leaves.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record leaving no text behind is judged by what that record fits alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record that fits and has left its text cannot be judged landed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record that fits and has not left its text is taken.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record that fits nothing and has left its text reads as landed already.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record that fits nothing and has left no text reads as stale.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record that cannot be judged landed is taken only where the caller says so.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A record is judged against the bodies on disk with the edits this agent keeps replayed first.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The records are judged in the order the seat took them, each against what the one before leaves.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Every record a path names is taken, so a chain of records over one path is taken whole.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal names each record held back and why that record was held back.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A refusal over a record that cannot be judged names the call reading that record whole.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A take that refuses leaves every record where it is and keeps no edit.",
     },
     {
       invariantKind: "absence",
       statement: "Nothing here lands a record.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "Nothing here writes a record.",
     },
   ],
 } as const satisfies Module

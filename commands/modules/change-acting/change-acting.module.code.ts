@@ -188,7 +188,7 @@ export const DROP_WORDS = wording({
   missing: "names no edit kept beside this agent's page, so nothing went",
 })
 
-function pathsSaid(said: string, of: Words): readonly string[] | string {
+export function pathsSaid(said: string, of: Words): readonly string[] | string {
   const held: string[] = []
   let all = false
   for (const line of said.split("\n")) {

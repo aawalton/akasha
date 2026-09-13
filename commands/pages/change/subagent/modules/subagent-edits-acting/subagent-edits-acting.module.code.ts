@@ -5,8 +5,14 @@ import {
   LEFT_BY,
   seatEditsAt,
 } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { editStated } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { type BodyOf, expanded } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { FileChange, Held } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  appendEdits,
+  bodyIn,
+  editStated,
+  editsIn,
+} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
   OPERATIONAL,
   refusedBy,
@@ -16,6 +22,7 @@ import type { Answer } from "akasha/commands/modules/calling/calling.module.code
 import {
   missedIn,
   namedIn,
+  pathsSaid,
   rootedAt,
   saidOf,
   type Words,
@@ -26,6 +33,7 @@ import {
   ANSWER_CEILING,
   countLines,
 } from "akasha/commands/modules/long-body/long-body.module.code.ts"
+import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { exclusively } from "akasha/files/modules/exclusive/exclusive.module.code.ts"
 import { partFiled, partUnfiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
@@ -185,4 +193,200 @@ export function droppingRecords(root: string, page: string, said: readonly strin
   } catch (thrown) {
     return refusedBy([whyOf(thrown)], OPERATIONAL)
   }
+}
+
+const UNLANDED = "unlanded"
+
+const NOTHING_TAKEN = `${NOTHING_HELD}, so nothing was taken`
+
+const NO_EDIT_KEPT = "every record kept here reads as no edit, so nothing was taken"
+
+const TAKEN = "these records are kept beside this agent's page as edits of this agent's own"
+
+const APPLY_LANDS = "`akasha change apply` lands them"
+
+const UNDECIDED =
+  "the body holds both the text this record was drafted against and the text this record" +
+  " leaves, so whether it landed already is undecidable"
+
+const LANDED =
+  "the body holds the text this record leaves and not the text it was drafted against, so it" +
+  " reads as landed already"
+
+const STALE =
+  "the body holds neither the text this record was drafted against nor the text it leaves, so" +
+  " it fits nothing here"
+
+const READ_FIRST =
+  "`akasha change subagent show` reads one of these whole — where you read it and it has not" +
+  " landed, say `unlanded: true` beside the paths to take it even so"
+
+const DROP_INSTEAD = "`akasha change subagent drop` takes a record away without landing it"
+
+const NOTHING_WENT = "every record is left where it is, and this call keeps no edit"
+
+const UNLANDED_VALUE =
+  "`unlanded` takes `true` to take a record whose landing is undecidable, and no other value"
+
+export const TAKE_WORDS: Words = wording({
+  said: "take",
+  every: "reaches every record",
+  all: "reaches every record kept",
+  toDo: "reach every record kept",
+  missing: `${NO_RECORD_AT}, so nothing was taken`,
+})
+
+export type Verdict = "takes" | "undecidable" | "landed" | "stale"
+
+export type Judged = {
+  readonly record: KeptRecord
+  readonly verdict: Verdict
+}
+
+type Over = {
+  readonly body: BodyOf
+  readonly held: Map<string, Held | null>
+}
+
+function textOf(body: BodyOf, path: string): string | null {
+  const held = body(path)
+  return typeof held === "string" ? held : null
+}
+
+function leftAlready(one: FileChange, body: BodyOf): boolean {
+  if (one.kind === "replace") {
+    const text = textOf(body, one.path)
+    return one.contentTo !== "" && text !== null && text.includes(one.contentTo)
+  }
+  if (one.kind === "add") return textOf(body, one.path) === one.content
+  if (one.kind === "append") {
+    const text = textOf(body, one.path)
+    return one.content !== "" && text !== null && text.endsWith(one.content)
+  }
+  if (one.kind === "remove") return body(one.path) === null
+  if (one.kind === "move") return body(one.pathFrom) === null && body(one.pathTo) !== null
+  return false
+}
+
+function overIn(root: string): Over {
+  const held = new Map<string, Held | null>()
+  const under = bodyIn(root)
+  return { held, body: (path) => (held.has(path) ? (held.get(path) ?? null) : under(path)) }
+}
+
+function stepped(over: Over, one: FileChange): boolean {
+  const grown = expanded(one, over.body)
+  if ("refused" in grown) return false
+  if (grown.left.from !== undefined) over.held.set(grown.left.from, null)
+  over.held.set(grown.left.path, grown.left.body)
+  return true
+}
+
+function verdictOf(over: Over, one: FileChange): Verdict {
+  const left = leftAlready(one, over.body)
+  if (stepped(over, one)) return left ? "undecidable" : "takes"
+  return left ? "landed" : "stale"
+}
+
+export function judgingRecords(
+  root: string,
+  page: string,
+  records: readonly KeptRecord[]
+): readonly Judged[] {
+  const over = overIn(root)
+  const had = editsIn(root, page)
+  if (!("why" in had)) for (const one of had.rows) stepped(over, one)
+  const said: Judged[] = []
+  for (const record of records) {
+    if (record.edit === null) continue
+    said.push({ record, verdict: verdictOf(over, record.edit) })
+  }
+  return said
+}
+
+function whySaid(one: Judged): string {
+  if (one.verdict === "undecidable") return `${saidAbout(one.record)} — ${UNDECIDED}`
+  if (one.verdict === "landed") return `${saidAbout(one.record)} — ${LANDED}`
+  return `${saidAbout(one.record)} — ${STALE}`
+}
+
+function heldBack(every: readonly Judged[], unlanded: boolean): readonly string[] {
+  const asks = !unlanded && every.some((one) => one.verdict === "undecidable")
+  return [...every.map(whySaid), ...(asks ? [READ_FIRST] : []), DROP_INSTEAD, NOTHING_WENT]
+}
+
+function editsOf(every: readonly KeptRecord[]): readonly FileChange[] {
+  return every.flatMap((one) => (one.edit === null ? [] : [one.edit]))
+}
+
+function taken(
+  root: string,
+  page: string,
+  at: string,
+  paths: readonly string[],
+  unlanded: boolean
+): Answer {
+  const had = recordsKept(root, page)
+  if (had.length === 0) return told([NOTHING_TAKEN])
+  const bare = paths.length === 0
+  const went = had.filter((one) => one.edit !== null && (bare || namedIn(one.edit, paths)))
+  const missed = missedIn(paths, editsOf(went), TAKE_WORDS)
+  if (missed.length > 0) return mistaking(missed)
+  if (went.length === 0) return told([NO_EDIT_KEPT])
+  const back = judgingRecords(root, page, went).filter(
+    (one) => one.verdict !== "takes" && !(unlanded && one.verdict === "undecidable")
+  )
+  if (back.length > 0) return mistaking(heldBack(back, unlanded))
+  const kept = appendEdits(root, page, editsOf(went))
+  if ("why" in kept) return refusedBy([kept.why], OPERATIONAL)
+  const left = had.filter((one) => !went.includes(one))
+  put(
+    root,
+    page,
+    at,
+    left.map((one) => one.line)
+  )
+  const rest = left.length === 0 ? [] : [`${counted(left.length, "record")} ${STILL_KEPT}`]
+  return told([...went.map(saidAbout), TAKEN, ...rest, APPLY_LANDS])
+}
+
+export function takingRecords(
+  root: string,
+  page: string,
+  said: readonly string[],
+  unlanded: boolean
+): Answer {
+  const paths = rootedAt(root, said)
+  if (typeof paths === "string") return mistaking([paths])
+  const at = seatEditsAt(page)
+  if (at === null || !existsSync(join(root, at))) return told([NOTHING_TAKEN])
+  try {
+    return exclusively(join(root, at), (): Answer => taken(root, page, at, paths, unlanded))
+  } catch (thrown) {
+    return refusedBy([whyOf(thrown)], OPERATIONAL)
+  }
+}
+
+export type Asked = {
+  readonly paths: readonly string[]
+  readonly unlanded: boolean
+}
+
+export function askedIn(piping: Piping, of: Words): Asked | string {
+  const held = piping()
+  if ("unreadable" in held && held.part === true) return held.unreadable
+  if (!("bytes" in held) || held.bytes.byteLength === 0) return of.piped
+  const lines: string[] = []
+  let unlanded = false
+  for (const line of new TextDecoder().decode(held.bytes).split("\n")) {
+    const one = line.trim()
+    if (one.startsWith(`${UNLANDED}:`)) {
+      if (one.slice(UNLANDED.length + 1).trim() !== "true") return UNLANDED_VALUE
+      unlanded = true
+      continue
+    }
+    lines.push(line)
+  }
+  const paths = pathsSaid(lines.join("\n"), of)
+  return typeof paths === "string" ? paths : { paths, unlanded }
 }

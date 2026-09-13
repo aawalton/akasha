@@ -9,6 +9,7 @@ export const changeSubagent = {
     "command/change-subagent-drop",
     "command/change-subagent-list",
     "command/change-subagent-show",
+    "command/change-subagent-take",
     "module/subagent-edits-acting",
   ],
   name: "subagent",

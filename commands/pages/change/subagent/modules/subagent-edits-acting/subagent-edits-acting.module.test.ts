@@ -6,14 +6,19 @@ import {
   seatEditsAt,
 } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { appendEdits } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import {
+  appendEdits,
+  editsIn,
+} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
   droppingRecords,
   listingRecords,
   recordsKept,
   showingRecords,
+  takingRecords,
 } from "akasha/commands/pages/change/subagent/modules/subagent-edits-acting/subagent-edits-acting.module.code.ts"
 import { scratch } from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -25,11 +30,37 @@ const ONE: FileChange = { kind: "replace", path: "one.md", contentFrom: "was", c
 
 const TWO: FileChange = { kind: "remove", path: "two.md" }
 
+const AT = "one.md"
+
+const WAS: FileChange = { kind: "replace", path: AT, contentFrom: "was\n", contentTo: "now\n" }
+
+const THEN: FileChange = { kind: "replace", path: AT, contentFrom: "now\n", contentTo: "then\n" }
+
+const INSIDE: FileChange = {
+  kind: "replace",
+  path: AT,
+  contentFrom: "one\n",
+  contentTo: "one\ntwo\n",
+}
+
 function seatWith(rows: readonly FileChange[]): string {
   const root = scratch.rootFor("subagent-edits-acting-")
   appendEdits(root, UNDER, rows)
   movedOnto(root, SEAT, UNDER)
   return root
+}
+
+function seatOver(rows: readonly FileChange[], body: string): string {
+  const root = scratch.rootFor("subagent-edits-acting-")
+  put(root, AT, body)
+  appendEdits(root, UNDER, rows)
+  movedOnto(root, SEAT, UNDER)
+  return root
+}
+
+function ownEdits(root: string): readonly FileChange[] {
+  const held = editsIn(root, SEAT)
+  return "why" in held ? [] : held.rows
 }
 
 function fileAt(root: string): string {
@@ -134,4 +165,109 @@ test("a drop over an agent keeping no record is said rather than refused", () =>
   const root = scratch.rootFor("subagent-edits-acting-")
 
   expect(droppingRecords(root, SEAT, []).code).toBe(0)
+})
+
+test("a record the body fits and has not landed is taken into the edits this agent keeps", () => {
+  const root = seatOver([WAS], "was\n")
+
+  expect(takingRecords(root, SEAT, [AT], false).code).toBe(0)
+  expect(ownEdits(root)).toEqual([WAS])
+})
+
+test("a record taken is no longer kept for the subagent that left it", () => {
+  const root = seatOver([WAS], "was\n")
+
+  takingRecords(root, SEAT, [AT], false)
+  expect(recordsKept(root, SEAT)).toEqual([])
+})
+
+test("a take names the call that lands what that take kept", () => {
+  const root = seatOver([WAS], "was\n")
+
+  expect(takingRecords(root, SEAT, [AT], false).report).toContain(
+    "`akasha change apply` lands them"
+  )
+})
+
+test("a record whose old text sits inside its new cannot be judged landed", () => {
+  const root = seatOver([INSIDE], "one\ntwo\n")
+
+  const said = takingRecords(root, SEAT, [AT], false)
+  expect(said.code).not.toBe(0)
+  expect(said.refusals.join("\n")).toContain("undecidable")
+})
+
+test("a record that cannot be judged landed leaves every record kept and keeps no edit", () => {
+  const root = seatOver([INSIDE], "one\ntwo\n")
+
+  takingRecords(root, SEAT, [AT], false)
+  expect(recordsKept(root, SEAT).length).toBe(1)
+  expect(ownEdits(root)).toEqual([])
+})
+
+test("a record that cannot be judged landed names the call reading that record whole", () => {
+  const root = seatOver([INSIDE], "one\ntwo\n")
+
+  expect(takingRecords(root, SEAT, [AT], false).refusals.join("\n")).toContain(
+    "akasha change subagent show"
+  )
+})
+
+test("a record that cannot be judged landed is taken where the caller says it is unlanded", () => {
+  const root = seatOver([INSIDE], "one\ntwo\n")
+
+  expect(takingRecords(root, SEAT, [AT], true).code).toBe(0)
+  expect(ownEdits(root)).toEqual([INSIDE])
+})
+
+test("a record whose text the body already leaves reads as landed already", () => {
+  const root = seatOver([WAS], "now\n")
+
+  const said = takingRecords(root, SEAT, [AT], false)
+  expect(said.code).not.toBe(0)
+  expect(said.refusals.join("\n")).toContain("landed already")
+})
+
+test("a record the body fits nowhere and leaves nothing of reads as stale", () => {
+  const root = seatOver([WAS], "other\n")
+
+  const said = takingRecords(root, SEAT, [AT], false)
+  expect(said.code).not.toBe(0)
+  expect(said.refusals.join("\n")).toContain("fits nothing here")
+})
+
+test("a record said to be unlanded is held back all the same where it fits nothing", () => {
+  const root = seatOver([WAS], "other\n")
+
+  expect(takingRecords(root, SEAT, [AT], true).code).not.toBe(0)
+})
+
+test("a chain of records over one path is taken whole and in order", () => {
+  const root = seatOver([WAS, THEN], "was\n")
+
+  expect(takingRecords(root, SEAT, [AT], false).code).toBe(0)
+  expect(ownEdits(root)).toEqual([WAS, THEN])
+})
+
+test("a path naming no record refuses a take and leaves every record", () => {
+  const root = seatOver([WAS], "was\n")
+
+  expect(takingRecords(root, SEAT, ["three.md"], false).code).not.toBe(0)
+  expect(recordsKept(root, SEAT).length).toBe(1)
+})
+
+test("a record whose line reads as no edit is taken by nothing", () => {
+  const root = seatOver([WAS], "was\n")
+  const at = join(root, seatEditsAt(SEAT) ?? "")
+  mkdirSync(dirname(at), { recursive: true })
+  writeFileSync(at, `not an edit\n${JSON.stringify(WAS)}\n`)
+
+  expect(takingRecords(root, SEAT, [], false).code).toBe(0)
+  expect(recordsKept(root, SEAT).map((one) => one.line)).toEqual(["not an edit"])
+})
+
+test("a take over an agent keeping no record is said rather than refused", () => {
+  const root = scratch.rootFor("subagent-edits-acting-")
+
+  expect(takingRecords(root, SEAT, [], false).code).toBe(0)
 })
