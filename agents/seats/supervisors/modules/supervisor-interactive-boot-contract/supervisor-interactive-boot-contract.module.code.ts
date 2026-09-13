@@ -2,10 +2,10 @@ import type { ToolRestrictions } from "akasha/agents/modules/tool-access/tool-ac
 import type { resolveClaudeHandoff } from "akasha/agents/seats/supervisors/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
 import type { RowAgentLaunch } from "akasha/agents/seats/supervisors/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/modules/supervisor-console/supervisor-console.module.code.ts"
+import type { startPerAgentMonitors } from "akasha/agents/seats/supervisors/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts"
 import type { ProxyAdoptionRuleSource } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
 import type { ProxyLivenessRuleSource } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"
 import type { buildCredentialSubsystem } from "akasha/seat-system/seat-credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"
-import type { startPerAgentMonitors } from "akasha/seat-system/supervising/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts"
 import type { AgentIdHandle } from "akasha/seat-system/supervising/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
 
 export type InteractiveOpts = {

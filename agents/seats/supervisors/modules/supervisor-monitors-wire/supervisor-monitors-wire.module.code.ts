@@ -2,13 +2,13 @@ import { computeModelGatewayTreeVersion } from "akasha/agents/models/gateway/mod
 import { LOG } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
 import { buildHeartbeatMonitor } from "akasha/agents/seats/supervisors/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"
 import { startLimitResumeMonitor } from "akasha/agents/seats/supervisors/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"
+import { pollAgentAction } from "akasha/agents/seats/supervisors/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.code.ts"
 import { startProxyLivenessMonitor } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts"
 import type { ProxyLivenessRuleSource } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"
 import { handleProxyVersionUpdate } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { pollSupervisorFileVersion } from "akasha/seat-system/self-healing/modules/supervisor-file-version/supervisor-file-version.module.code.ts"
 import { handleVersionUpdate } from "akasha/seat-system/self-healing/modules/supervisor-self-heal/supervisor-self-heal.module.code.ts"
 import { SUPERVISOR_SCRIPT } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import { pollAgentAction } from "akasha/seat-system/supervising/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.code.ts"
 import {
   getAgentActionHandler,
   getOAuthProxyHandle,
