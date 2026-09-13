@@ -7,11 +7,5 @@ export const athenaCommandFolders = {
   domain: "page-type/command",
   persona: "athena",
   parent: "athena-commands-cleanup",
-  intents: [
-    {
-      statement: "A parts list is sorted, and no reader depends on the order it is written in.",
-      workingMemory:
-        "The panel no longer takes the written order: `ordered()` reads `sequence` as a membership set, ranking against kin sorted by slug, tested at `f1991bc10c0`. Two order-dependent readers are left, neither the panel: `command-leveling:66` lifts `parts` verbatim and `command-walking:84` takes `found[0]`, so written order settles which command an ambiguous word reaches. `mobile-app:180` first-wins. Sortedness is open too: `command.page-type.ts` is 1 of 750 unsorted and its check is `experimental`.\n",
-    },
-  ],
+  intents: [],
 } as const satisfies Initiative
