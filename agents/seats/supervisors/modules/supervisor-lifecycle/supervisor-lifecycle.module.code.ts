@@ -2,6 +2,10 @@ import type { ChildExitRuleSource } from "akasha/agents/seats/supervisors/module
 import { LOG } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
 import { takeSeatPage } from "akasha/agents/seats/supervisors/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import { shouldWriteTerminalStoppedStatus } from "akasha/agents/seats/supervisors/modules/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.code.ts"
+import {
+  killProcessesForShutdown,
+  recordShutdownEvent,
+} from "akasha/agents/seats/supervisors/modules/supervisor-shutdown-procs/supervisor-shutdown-procs.module.code.ts"
 import { teardownProxyVersionSubscription } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { attemptInPlaceReExec } from "akasha/seat-system/self-healing/modules/supervisor-reexec/supervisor-reexec.module.code.ts"
 import { resolveReExecArgv } from "akasha/seat-system/self-healing/modules/supervisor-self-heal/supervisor-self-heal.module.code.ts"
@@ -11,10 +15,6 @@ import {
   SUPERVISOR_SCRIPT,
   teardownVersionSubscription,
 } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import {
-  killProcessesForShutdown,
-  recordShutdownEvent,
-} from "akasha/seat-system/supervising/modules/supervisor-shutdown-procs/supervisor-shutdown-procs.module.code.ts"
 import {
   activeLifecycles,
   getObservedChildExit,

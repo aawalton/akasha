@@ -20,6 +20,12 @@ import type {
   InteractiveSessionBoot,
 } from "akasha/agents/seats/supervisors/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 import { startPerAgentMonitors } from "akasha/agents/seats/supervisors/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts"
+import {
+  AGENT_MODE_HEADLESS,
+  AGENT_MODE_INTERACTIVE,
+  stateSeatDefaults,
+} from "akasha/agents/seats/supervisors/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"
+import { createAgentIdHandle } from "akasha/agents/seats/supervisors/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
 import { installProxyVersionSubsystem } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { buildCredentialSubsystem } from "akasha/seat-system/seat-credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"
 import {
@@ -28,12 +34,6 @@ import {
   SUPERVISOR_HANDOFF_ENV_KEYS,
 } from "akasha/seat-system/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
 import { setProxyOwnerAgentIdForSelfHeal } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import {
-  AGENT_MODE_HEADLESS,
-  AGENT_MODE_INTERACTIVE,
-  stateSeatDefaults,
-} from "akasha/seat-system/supervising/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"
-import { createAgentIdHandle } from "akasha/seat-system/supervising/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
 import {
   setInheritedClaude,
   setOAuthProxyHandle,

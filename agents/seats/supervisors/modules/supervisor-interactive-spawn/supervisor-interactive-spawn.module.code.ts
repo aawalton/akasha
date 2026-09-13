@@ -24,11 +24,11 @@ import { armForceExitTimer } from "akasha/agents/seats/supervisors/modules/super
 import { resolveMcpConfig } from "akasha/agents/seats/supervisors/modules/supervisor-mcp/supervisor-mcp.module.code.ts"
 import type { CarriedAgentName } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
 import type { ClearRebindDeps } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
-import { isPendingReExec } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import {
   disallowedToolsForLaunch,
   resolveSubagentDefinitions,
-} from "akasha/seat-system/supervising/modules/supervisor-spawn-agents/supervisor-spawn-agents.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-spawn-agents/supervisor-spawn-agents.module.code.ts"
+import { isPendingReExec } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { materializeSpawnSettings } from "akasha/seat-system/supervising/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
 import { setOAuthProxyHandle } from "akasha/seat-system/supervising/modules/supervisor-state/supervisor-state.module.code.ts"
 import type { AgentProcess } from "akasha/seat-system/supervising/modules/supervisor-types/supervisor-types.module.code.ts"

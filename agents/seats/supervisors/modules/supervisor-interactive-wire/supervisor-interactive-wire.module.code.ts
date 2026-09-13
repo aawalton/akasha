@@ -15,8 +15,8 @@ import { startPreCliffRestartMonitor } from "akasha/agents/seats/supervisors/mod
 import { askPreCliffRestart } from "akasha/agents/seats/supervisors/modules/supervisor-precliff-restart-rule/supervisor-precliff-restart-rule.module.code.ts"
 import type { ClearRebindHooks } from "akasha/agents/seats/supervisors/modules/supervisor-rebind/supervisor-rebind.module.code.ts"
 import type { ClearRebindDeps } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
+import type { AgentIdHandle } from "akasha/agents/seats/supervisors/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
 import { triggerProxySwap } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
-import type { AgentIdHandle } from "akasha/seat-system/supervising/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
 import {
   isShuttingDown,
   setAgentActionHandler,
