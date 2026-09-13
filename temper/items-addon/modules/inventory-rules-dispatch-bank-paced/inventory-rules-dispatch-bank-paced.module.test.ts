@@ -231,4 +231,30 @@ describe("inventory-rules-dispatch-bank-paced", () => {
     expect(stats.issued).toBe(1)
     expect(stats.retries).toBe(0)
   })
+
+  test("a withdrawal into an empty slot is confirmed though the bank refilled the slot it left", () => {
+    const sim = makeBankSim()
+    sim.putStack(BANK_BAG, 204, 119020, 1, 200)
+    sim.putStack(BACKPACK_BAG, 3, 0, 0, 0)
+    sim.fillsOnEmptying.set(204, { itemId: 45898, stack: 1, max: 200 })
+    const { stats } = runVisit(
+      sim,
+      [
+        {
+          kind: "move",
+          sourceBag: BANK_BAG,
+          sourceSlot: 204,
+          targetBag: BACKPACK_BAG,
+          targetSlot: 3,
+          count: 1,
+        },
+      ],
+      60000
+    )
+    expect(sim.stackAt(BACKPACK_BAG, 3)).toBe(1)
+    expect(sim.stackAt(BANK_BAG, 204)).toBe(1)
+    expect(stats.confirmed).toBe(1)
+    expect(stats.issued).toBe(1)
+    expect(stats.retries).toBe(0)
+  })
 })
