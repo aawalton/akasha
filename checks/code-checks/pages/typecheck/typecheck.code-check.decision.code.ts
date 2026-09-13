@@ -9,7 +9,7 @@ import { textIn, textOf } from "akasha/code/bodies/modules/body-text/body-text.m
 import { lua50Config } from "akasha/code/lua-runtime-libraries/properties/lua50-config.file-property.ts"
 import { universalConfig } from "akasha/code/lua-runtime-libraries/properties/universal-config.file-property.ts"
 import { reachesIn } from "akasha/code/modules/package-manifest/package-manifest.module.code.ts"
-import { parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/reading/modules/source/code-source.module.code.ts"
 import { specifiersIn } from "akasha/code/reading/modules/specifier/code-specifier.module.code.ts"
 import {
   compiled,

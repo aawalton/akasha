@@ -6,12 +6,12 @@ import {
 } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { scoping } from "akasha/code/modules/source/code-source.module.code.ts"
 import {
   declaredNamed,
   declaredOn,
   exportsNamed,
 } from "akasha/code/reading/modules/naming/code-naming.module.code.ts"
+import { scoping } from "akasha/code/reading/modules/source/code-source.module.code.ts"
 import {
   placingOver,
   readingOf,

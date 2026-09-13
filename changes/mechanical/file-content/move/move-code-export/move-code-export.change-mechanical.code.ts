@@ -23,7 +23,7 @@ import {
   withoutOne,
 } from "akasha/changes/modules/import-lines/import-lines.module.code.ts"
 import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/reading/modules/source/code-source.module.code.ts"
 import {
   landingOf,
   type Naming,

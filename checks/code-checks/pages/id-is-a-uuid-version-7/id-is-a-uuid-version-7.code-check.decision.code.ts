@@ -1,4 +1,8 @@
-import { exported, lineOf, parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
+import {
+  exported,
+  lineOf,
+  parsedAs,
+} from "akasha/code/reading/modules/source/code-source.module.code.ts"
 import { statesVersionSeven } from "akasha/pages/ids/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import ts from "typescript"
 

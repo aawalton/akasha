@@ -19,7 +19,7 @@ import {
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { reachesIn } from "akasha/code/modules/package-manifest/package-manifest.module.code.ts"
-import { parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/reading/modules/source/code-source.module.code.ts"
 import { manifestsIn } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
 import type { Beside as Sidecar } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import { importingOf } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"

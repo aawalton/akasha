@@ -9,7 +9,7 @@ import {
   erasedExport,
   erasedImport,
   skimmedAs,
-} from "akasha/code/modules/source/code-source.module.code.ts"
+} from "akasha/code/reading/modules/source/code-source.module.code.ts"
 import {
   landingOf,
   type Naming,

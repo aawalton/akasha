@@ -1,5 +1,5 @@
 import { dirname } from "node:path"
-import { lineOf, parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
+import { lineOf, parsedAs } from "akasha/code/reading/modules/source/code-source.module.code.ts"
 import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
