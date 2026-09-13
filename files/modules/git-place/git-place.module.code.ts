@@ -16,8 +16,6 @@ export const DEPLOYS = "deploys"
 
 export const LANDING_LOCK = "akasha-landing.lock"
 
-export const HARNESS_LANDING_LOCK = "harness-landing.lock"
-
 export const STORES: readonly string[] = [CACHE, DEPLOYS, TREES]
 
 export const LEFT: readonly string[] = [DATA, HANDOFF, INDEXES]

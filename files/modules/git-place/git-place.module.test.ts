@@ -6,7 +6,6 @@ import {
   GIT_AT,
   gitIn,
   HANDOFF,
-  HARNESS_LANDING_LOCK,
   INDEXES,
   keptAt,
   LANDING_LOCK,
@@ -38,10 +37,6 @@ test("a store is answered both under a root and on its own", () => {
 test("a subtree is answered under a store, so what owns it never spells the store", () => {
   expect(storeAt(CACHE, "parse", "held")).toBe(".git/cache/parse/held")
   expect(storeIn("/repo", CACHE, "held")).toBe(`/repo/${storeAt(CACHE, "held")}`)
-})
-
-test("the akasha landing and the harness landing take holds of their own", () => {
-  expect(HARNESS_LANDING_LOCK).not.toBe(LANDING_LOCK)
 })
 
 test("a name akasha keeps sits directly under the folder git does not track", () => {
