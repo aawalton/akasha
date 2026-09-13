@@ -16,7 +16,15 @@ export const spotifySync = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The artists swept are the artists Alan follows.",
+      statement: "The artists swept are the artists Alan follows whose thirty days are up.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A day's run takes a share of them rather than all of them.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Spotify refuses an account for about a day once that account's quota is spent.",
     },
     {
       invariantKind: "constraint",
