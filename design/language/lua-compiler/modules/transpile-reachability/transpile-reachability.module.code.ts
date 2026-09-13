@@ -8,16 +8,6 @@ export interface ReachabilityResult {
   readonly reachableNames: ReadonlyMap<ts.SourceFile, ReadonlySet<string>>
 }
 
-export function isNameReached(
-  result: ReachabilityResult,
-  sourceFile: ts.SourceFile,
-  name: string
-): boolean {
-  const set = result.reachableNames.get(sourceFile)
-  if (!set) return false
-  return set.has(NAMESPACE_REACH) || set.has(name)
-}
-
 export function isFullyReached(result: ReachabilityResult, sourceFile: ts.SourceFile): boolean {
   return result.reachableNames.get(sourceFile)?.has(NAMESPACE_REACH) ?? false
 }
