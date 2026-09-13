@@ -129,7 +129,7 @@ export const readRecord = {
       statement: "A subagent begins with no reading its seat holds.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A subagent's readings outlive its page going and coming back.",
     },
     {
@@ -154,18 +154,26 @@ export const readRecord = {
       statement: "A reading a seat keeps that way answers nothing the seat itself is asked.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A subagent whose page comes back takes back the readings the seat kept for it.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement:
         "A reading goes back only to a page taken up under the agent id that reading was made by.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement:
         "A page composed fresh takes back no reading, whatever path that page is written at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading going back loses the agent id the seat kept it under.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading the seat keeps for another agent is left where it is.",
     },
     {
       invariantKind: "departure",

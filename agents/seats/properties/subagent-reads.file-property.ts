@@ -28,6 +28,14 @@ export const subagentReads = {
     },
     {
       invariantKind: "departure",
+      statement: "A line goes back to its subagent's own readings as that subagent's page does.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This file goes once the last line it holds has gone back.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Lines are kept outside the commit.",
     },
     {

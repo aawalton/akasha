@@ -76,7 +76,7 @@ export const subagent = {
       statement: "The readings a subagent made move onto that seat as its unlanded edits do.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A subagent whose page comes back out of history takes those readings back.",
     },
     {

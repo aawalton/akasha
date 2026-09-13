@@ -10,6 +10,7 @@ import {
   CARRIED_AT,
   carriedOff,
   editsSaid,
+  gaveBack,
   LEFT_BY,
   movedOnto,
   namedAt,
@@ -38,6 +39,8 @@ const ROW: FileChange = { kind: "remove", path: "one.md" }
 const OTHER: FileChange = { kind: "remove", path: "two.md" }
 
 const AGENT_ID = "01a09573-2604-7000-98dd-c04bec8e0696--abc"
+
+const AGENT_ID_TOO = "01a09573-2604-7000-98dd-c04bec8e0696--def"
 
 const READING = JSON.stringify({ path: "one.md", oid: "aaa", seenAt: 1, carriedOid: null })
 
@@ -263,4 +266,68 @@ test("a reading the seat keeps is beside the seat rather than among the seat's o
 
 test("a reading that reads as no object is appended unchanged", () => {
   expect(readsSaid(["not an object"], AGENT_ID)).toBe("not an object\n")
+})
+
+test("a subagent whose page comes back takes back the readings the seat kept for it", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  subagentPaged(root, UNDER, AGENT_ID)
+  readingsPut(root, UNDER, [READING, READING_TOO])
+  movedOnto(root, SEAT, UNDER)
+
+  expect(gaveBack(root, SEAT, UNDER, AGENT_ID)).toBe(2)
+  expect(bodyAt(root, readsBesideAt(UNDER))).toBe(`${READING}\n${READING_TOO}\n`)
+  expect(bodyAt(root, seatReadsAt(SEAT))).toBe("")
+})
+
+test("a reading going back loses the agent id the seat kept it under", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  subagentPaged(root, UNDER, AGENT_ID)
+  readingsPut(root, UNDER, [READING])
+  movedOnto(root, SEAT, UNDER)
+  gaveBack(root, SEAT, UNDER, AGENT_ID)
+
+  const line = JSON.parse(bodyAt(root, readsBesideAt(UNDER)).trim()) as object
+  expect(Object.hasOwn(line, READ_BY)).toBe(false)
+})
+
+test("a page taken up under another agent id takes back no reading", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  subagentPaged(root, UNDER, AGENT_ID)
+  readingsPut(root, UNDER, [READING])
+  movedOnto(root, SEAT, UNDER)
+
+  expect(gaveBack(root, SEAT, UNDER, AGENT_ID_TOO)).toBe(0)
+  expect(readingsKept(root).length).toBe(1)
+  expect(bodyAt(root, readsBesideAt(UNDER))).toBe("")
+})
+
+test("a reading the seat keeps under another agent id is left where it is", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  const second = "agents/subagents/pages/tester-def/tester-def.subagent.ts"
+  subagentPaged(root, UNDER, AGENT_ID)
+  readingsPut(root, UNDER, [READING])
+  subagentPaged(root, second, AGENT_ID_TOO)
+  readingsPut(root, second, [READING_TOO])
+  movedOnto(root, SEAT, UNDER)
+  movedOnto(root, SEAT, second)
+
+  expect(gaveBack(root, SEAT, UNDER, AGENT_ID)).toBe(1)
+  expect(readingsKept(root).map((one) => one[READ_BY])).toEqual([AGENT_ID_TOO])
+})
+
+test("a reading goes back before what the page already holds", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  subagentPaged(root, UNDER, AGENT_ID)
+  readingsPut(root, UNDER, [READING])
+  movedOnto(root, SEAT, UNDER)
+  readingsPut(root, UNDER, [READING_TOO])
+
+  gaveBack(root, SEAT, UNDER, AGENT_ID)
+  expect(bodyAt(root, readsBesideAt(UNDER))).toBe(`${READING}\n${READING_TOO}\n`)
+})
+
+test("a path that is no page gives nothing back", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+
+  expect(gaveBack(root, SEAT, "notes.md", AGENT_ID)).toBe(0)
 })

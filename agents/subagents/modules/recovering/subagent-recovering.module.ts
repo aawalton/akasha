@@ -4,7 +4,8 @@ export const subagentRecovering = {
   id: "01a08d67-3a64-7f77-bb80-0d2661de12d7",
   type: "module",
   slug: "subagent-recovering",
-  definition: "what a subagent left beside its page, moved onto the seat that dispatched it",
+  definition:
+    "what a subagent left beside its page, moved between that page and the seat that dispatched it",
   code: "ts",
   test: "ts",
   invariants: [
@@ -77,6 +78,27 @@ export const subagentRecovering = {
       invariantKind: "departure",
       statement: "A reading appended is beside the seat rather than among the seat's own readings.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A reading the seat keeps goes back to the page the agent id it says takes up.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading goes back without the agent id the seat kept it under.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading the seat keeps under another agent id is left where it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading goes back before what the page already holds rather than after it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The seat's file goes once the last reading it kept has gone back.",
+    },
+
     {
       invariantKind: "departure",
       statement: "A subagent with nothing beside it moves nothing.",

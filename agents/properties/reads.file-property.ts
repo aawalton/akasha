@@ -40,6 +40,10 @@ export const reads = {
     },
     {
       invariantKind: "departure",
+      statement: "A reading a seat kept comes back here as the page it was made under does.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Lines are kept outside the commit.",
     },
     {

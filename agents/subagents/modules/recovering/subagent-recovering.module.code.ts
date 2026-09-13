@@ -1,4 +1,4 @@
-import { appendFileSync, mkdirSync, readFileSync } from "node:fs"
+import { appendFileSync, existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
   readingsDropped,
@@ -17,7 +17,7 @@ import {
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { exclusively } from "akasha/files/modules/exclusive/exclusive.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
+import { partFiled, partUnfiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import {
   partedIn,
   uncommittedBesideAt,
@@ -96,15 +96,33 @@ function appended(root: string, page: string, at: string, text: string): undefin
   return undefined
 }
 
-function marked(line: string, said: Readonly<Record<string, string>>): string {
+function objectIn(line: string): Record<string, unknown> | null {
   let read: unknown
   try {
     read = JSON.parse(line)
   } catch {
-    return line
+    return null
   }
-  if (typeof read !== "object" || read === null || Array.isArray(read)) return line
-  return JSON.stringify({ ...said, ...(read as object) })
+  if (typeof read !== "object" || read === null || Array.isArray(read)) return null
+  return read as Record<string, unknown>
+}
+
+function marked(line: string, said: Readonly<Record<string, string>>): string {
+  const read = objectIn(line)
+  return read === null ? line : JSON.stringify({ ...said, ...read })
+}
+
+function readByIn(line: string): string | null {
+  const said = objectIn(line)?.[READ_BY]
+  return typeof said === "string" && said !== "" ? said : null
+}
+
+function readingSaid(line: string): string {
+  const read = objectIn(line)
+  if (read === null) return line
+  const held = { ...read }
+  delete held[READ_BY]
+  return JSON.stringify(held)
 }
 
 export function editsSaid(lines: readonly string[], named: string, at: string): string {
@@ -150,6 +168,56 @@ export function movedOnto(root: string, seatPage: string, subagentPage: string):
   }
   readingsMoved(root, seatPage, subagentPage)
   return { edits: lines.length, refusals: refused !== null }
+}
+
+function readingsPut(root: string, page: string, at: string, text: string): undefined {
+  const full = join(root, at)
+  mkdirSync(dirname(full), { recursive: true })
+  exclusively(full, (): undefined => {
+    writeFileSync(full, `${text}${textAt(root, at) ?? ""}`)
+    partFiled(root, page, at)
+    return undefined
+  })
+  return undefined
+}
+
+function readingsLeft(root: string, seatPage: string, at: string, text: string): undefined {
+  const full = join(root, at)
+  if (text === "") {
+    rmSync(full, { force: true })
+    partUnfiled(root, at)
+    return undefined
+  }
+  writeFileSync(full, text)
+  partFiled(root, seatPage, at)
+  return undefined
+}
+
+export function gaveBack(
+  root: string,
+  seatPage: string,
+  subagentPage: string,
+  agentId: string
+): number {
+  const from = seatReadsAt(seatPage)
+  const to = readsBesideAt(subagentPage)
+  if (from === null || to === null) return 0
+  const full = join(root, from)
+  if (!existsSync(full)) return 0
+  return exclusively(full, (): number => {
+    const held = textAt(root, from)
+    if (held === null) return 0
+    const mine: string[] = []
+    const left: string[] = []
+    for (const line of held.split("\n").filter((one) => one.trim() !== "")) {
+      if (readByIn(line) === agentId) mine.push(`${readingSaid(line)}\n`)
+      else left.push(`${line}\n`)
+    }
+    if (mine.length === 0) return 0
+    readingsPut(root, subagentPage, to, mine.join(""))
+    readingsLeft(root, seatPage, from, left.join(""))
+    return mine.length
+  })
 }
 
 export function carriedOff(root: string, at: string, value: Value): Moved | null {

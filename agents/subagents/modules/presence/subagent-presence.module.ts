@@ -44,6 +44,22 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
+      statement: "A page taken up takes back the readings its seat kept for it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page composed rather than taken up takes back no reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing that refused takes back no reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A put-up whose seat the index has no page for takes back no reading.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The commit says whether the page was taken up or composed.",
     },
     {

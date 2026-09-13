@@ -18,7 +18,10 @@ import {
   pathsUnder,
   slugOf,
 } from "akasha/agents/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
-import { movedOnto } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
+import {
+  gaveBack,
+  movedOnto,
+} from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
 import { subagentStarted } from "akasha/agents/subagents/properties/subagent-started.number-property.ts"
 import { subagentStopped } from "akasha/agents/subagents/properties/subagent-stopped.boolean-property.ts"
 import { editsWaiting } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
@@ -145,7 +148,7 @@ export async function wrote(
     }
   }
   const content = bodyOf(slug, seatName, assignmentSlug, kind, agentId, textAt(held, ID))
-  return wentBy(
+  const put = wentBy(
     await landing(
       done,
       root,
@@ -156,6 +159,11 @@ export async function wrote(
     ),
     done
   )
+  if (had !== null && !("why" in put)) {
+    const seat = seatPageIn(root, seatName)
+    if (seat !== null) gaveBack(root, seat, at, agentId)
+  }
+  return put
 }
 
 export function seatPageIn(root: string, seatName: string): string | null {
