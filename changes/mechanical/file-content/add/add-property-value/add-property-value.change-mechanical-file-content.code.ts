@@ -9,6 +9,7 @@ import {
   withProperty,
   withValue,
 } from "akasha/changes/modules/literal-splicing/literal-splicing.module.code.ts"
+import { sortedKey } from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
 import {
   keyFaultIn,
   keyOf,
@@ -17,8 +18,6 @@ import {
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { spelledAs } from "akasha/changes/modules/value-spelling/value-spelling.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
-import type { Shape } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
-import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import ts from "typescript"
 
 export type AddPropertyValueAsked = {
@@ -28,16 +27,6 @@ export type AddPropertyValueAsked = {
   readonly after?: string
   readonly single?: boolean
   readonly holds?: string
-}
-
-export function sortedKey(shapes: Iterable<Shape>, key: string): boolean {
-  let said = false
-  for (const one of shapes) {
-    if (exportedAs(one.propertySlug) !== key) continue
-    if (!one.sorted) return false
-    said = true
-  }
-  return said
 }
 
 export function addPropertyValue(world: World, given: AddPropertyValueAsked): Said {

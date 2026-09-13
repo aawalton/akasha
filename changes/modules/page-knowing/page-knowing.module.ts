@@ -97,5 +97,18 @@ export const pageKnowing = {
     },
     { invariantKind: "departure", statement: "A key the page already writes falls after nothing." },
     { invariantKind: "departure", statement: "No more than sixty-four of those pages are read." },
+    {
+      invariantKind: "departure",
+      statement: "Whether a key is sorted is read off the shapes the caller hands in.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A key several page properties answer to is sorted only where every one of them says so.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key no page property answers to is not sorted.",
+    },
   ],
 } as const satisfies Module

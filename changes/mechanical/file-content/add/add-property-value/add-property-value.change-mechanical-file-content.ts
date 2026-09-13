@@ -25,11 +25,6 @@ export const addPropertyValue = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A key several page properties answer to is sorted only where every one of them says so.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A value naming a page that is not there refuses the answer.",
     },
     {
@@ -99,12 +94,12 @@ export const addPropertyValue = {
     },
     {
       invariantKind: "departure",
-      statement: "Whether a key is sorted is read off the shapes the index has already distilled.",
+      statement: "Whether a key is sorted is worked out by the module this change names.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Those shapes are one answer held for the change rather than a page opened for each value.",
+        "The shapes are one answer held for the change rather than a page opened for each value.",
     },
     {
       invariantKind: "absence",

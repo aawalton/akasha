@@ -4,6 +4,7 @@ import {
   type Shaped,
 } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
 import type { Named } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import type { Shape } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import {
@@ -136,4 +137,14 @@ export function singleIn(world: World, value: Value, key: string): boolean {
   if (carried === null) return false
   const one = carried.find((each) => each.key === key)
   return one !== undefined && !one.many
+}
+
+export function sortedKey(shapes: Iterable<Shape>, key: string): boolean {
+  let said = false
+  for (const one of shapes) {
+    if (exportedAs(one.propertySlug) !== key) continue
+    if (!one.sorted) return false
+    said = true
+  }
+  return said
 }

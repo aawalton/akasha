@@ -5,6 +5,7 @@ import {
   pageIn,
   readFor,
   singleIn,
+  sortedKey,
   spelledIn,
   targetsIn,
 } from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
@@ -13,6 +14,7 @@ import {
   type World,
   worldAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import type { Shape } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import {
   HELD_CODE,
   HELD_PAGE,
@@ -195,4 +197,32 @@ test("a type the index cannot read answers no key for a slug", () => {
 
 test("a page saying no page type answers no key for a slug", () => {
   expect(spelledIn(worldDeclaring(DECLARED), { slug: "one" }, "transcript-path")).toBeNull()
+})
+
+function shaped(propertySlug: string, sorted: boolean): Shape {
+  return {
+    pageTypeSlug: "relation-property",
+    targetPageTypeSlug: null,
+    unique: null,
+    uniquePropertySlug: null,
+    slug: propertySlug,
+    propertySlug,
+    fileName: null,
+    folderName: null,
+    sorted,
+  }
+}
+
+test("a key whose one shape says its values are sorted is sorted", () => {
+  expect(sortedKey([shaped("part-slugs", true)], "partSlugs")).toBe(true)
+})
+
+test("a key several shapes answer to is sorted only where every one of them says so", () => {
+  const shapes = [shaped("part-slugs", true), shaped("part-slugs", false)]
+
+  expect(sortedKey(shapes, "partSlugs")).toBe(false)
+})
+
+test("a key no shape answers to is not sorted", () => {
+  expect(sortedKey([shaped("part-slugs", true)], "definition")).toBe(false)
 })
