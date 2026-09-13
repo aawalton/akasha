@@ -21,7 +21,7 @@ import {
 } from "akasha/temper/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { useCompletionCharacters } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
-import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
+import { usePlayer } from "akasha/temper/player-profile/modules/use-player/use-player.module.code.ts"
 import { CharacterEditorHeader } from "akasha/temper/web/modules/character-editor-header/character-editor-header.module.code.tsx"
 import { CharacterEditorTabsList } from "akasha/temper/web/modules/character-editor-tabs-list/character-editor-tabs-list.module.code.tsx"
 import { ClassChangeConfirmationDialog } from "akasha/temper/web/modules/class-change-confirmation-dialog/class-change-confirmation-dialog.module.code.tsx"
@@ -38,12 +38,12 @@ import {
   useCharacterMetadata,
 } from "akasha/temper/web/modules/use-character/use-character.module.code.ts"
 import { useClassChangeWithContext } from "akasha/temper/web/modules/use-class-change/use-class-change.module.code.ts"
-import { usePartnerBuildUrl } from "akasha/temper/web/use-partner-build-url/use-partner-build-url.module.code.ts"
+import { usePartnerBuildUrl } from "akasha/temper/web/modules/use-partner-build-url/use-partner-build-url.module.code.ts"
 import {
   PASSIVE_CATEGORY_FILTER_ITEMS,
   usePassiveFilter,
-} from "akasha/temper/web/use-passive-filter/use-passive-filter.module.code.ts"
-import { useSetTargetEntities } from "akasha/temper/web/use-set-target-entities/use-set-target-entities.module.code.ts"
+} from "akasha/temper/web/modules/use-passive-filter/use-passive-filter.module.code.ts"
+import { useSetTargetEntities } from "akasha/temper/web/modules/use-set-target-entities/use-set-target-entities.module.code.ts"
 import { useStatChangeNotifications } from "akasha/temper/web/use-stat-change-notifications/use-stat-change-notifications.module.code.tsx"
 import { useEffect, useState } from "react"
 import { toast } from "sonner"

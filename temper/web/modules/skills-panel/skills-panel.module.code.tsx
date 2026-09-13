@@ -15,7 +15,7 @@ import { SkillBarPanelCard } from "akasha/temper/web/modules/skill-bar-panel-car
 import { SkillLinesPanelCard } from "akasha/temper/web/modules/skill-lines-panel-card/skill-lines-panel-card.module.code.tsx"
 import { SkillSelectionDialog } from "akasha/temper/web/modules/skill-selection-dialog/skill-selection-dialog.module.code.tsx"
 import type { SkillsPanelProps } from "akasha/temper/web/modules/skills-types/skills-types.module.code.ts"
-import { useScribedSkills } from "akasha/temper/web/use-scribed-skills/use-scribed-skills.module.code.ts"
+import { useScribedSkills } from "akasha/temper/web/modules/use-scribed-skills/use-scribed-skills.module.code.ts"
 import { useSkillBars } from "akasha/temper/web/use-skill-bars/use-skill-bars.module.code.ts"
 import { useDeferredValue, useMemo } from "react"
 

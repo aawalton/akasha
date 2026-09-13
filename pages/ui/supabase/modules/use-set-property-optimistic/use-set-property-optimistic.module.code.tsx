@@ -5,7 +5,7 @@ import {
   patchPage,
 } from "akasha/pages/access/modules/patch/patch.module.code.ts"
 import type { InteractionToken } from "akasha/pages/ui/perf/modules/page-card-perf/page-card-perf.module.code.ts"
-import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
+import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import { isJson } from "akasha/utils/narrow/modules/is-json/is-json.module.code.ts"
 import { useCallback, useMemo } from "react"
 

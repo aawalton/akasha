@@ -10,7 +10,7 @@ import {
   SheetContent,
   SheetTrigger,
 } from "akasha/design/interfaces/primitives/modules/sheet/sheet.module.code.tsx"
-import { useIsMobile } from "akasha/design/interfaces/primitives/use-mobile/use-mobile.module.code.tsx"
+import { useIsMobile } from "akasha/design/interfaces/primitives/modules/use-mobile/use-mobile.module.code.tsx"
 import type * as React from "react"
 
 export interface ResponsiveOverlayProps {

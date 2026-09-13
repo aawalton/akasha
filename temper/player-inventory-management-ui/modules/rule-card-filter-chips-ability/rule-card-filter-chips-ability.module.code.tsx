@@ -15,7 +15,7 @@ import { CAN_OPEN_OPTIONS } from "akasha/temper/items-rules-core/modules/can-ope
 import { CAN_RESEARCH_OPTIONS } from "akasha/temper/items-rules-core/modules/can-research-filter/can-research-filter.module.code.ts"
 import { CAN_UNLOCK_OPTIONS } from "akasha/temper/items-rules-core/modules/can-unlock-filter/can-unlock-filter.module.code.ts"
 import { FilterLock } from "akasha/temper/player-inventory-management-ui/modules/rule-card-filter-lock/rule-card-filter-lock.module.code.tsx"
-import type { useRuleCard } from "akasha/temper/player-inventory-management-ui/use-rule-card/use-rule-card.module.code.ts"
+import type { useRuleCard } from "akasha/temper/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import type { ReactNode } from "react"
 

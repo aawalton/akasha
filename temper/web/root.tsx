@@ -3,7 +3,7 @@ import "akasha/temper/web/look/temper-web-look.stylesheet.styles.css"
 import "akasha/temper/web/modules/temper-declared-effects/temper-declared-effects.module.code.ts"
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/modules/error-capture-installer/error-capture-installer.module.code.tsx"
 import { reportError } from "akasha/alan/harness/errors-client/modules/error-reporting/error-reporting.module.code.ts"
-import { useReportRenderError } from "akasha/alan/harness/errors-client/use-report-render-error/use-report-render-error.module.code.ts"
+import { useReportRenderError } from "akasha/alan/harness/errors-client/modules/use-report-render-error/use-report-render-error.module.code.ts"
 import {
   type AuthRouteConfig,
   authGuard,

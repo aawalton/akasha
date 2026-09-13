@@ -7,7 +7,7 @@ import { usePagesUIRouter } from "akasha/pages/ui/modules/navigation-context/nav
 import {
   type Referrer,
   useReferrers,
-} from "akasha/pages/ui/supabase/use-referrers/use-referrers.module.code.ts"
+} from "akasha/pages/ui/supabase/modules/use-referrers/use-referrers.module.code.ts"
 import { buildPageHref } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
 import {
   type PageTypeSlug,

@@ -19,11 +19,11 @@ import { useAudioSeekAndPlay } from "akasha/pages/ui/media/modules/use-audio-see
 import { useAudioTimeSubscription } from "akasha/pages/ui/media/modules/use-audio-time-subscription/use-audio-time-subscription.module.code.ts"
 import { useAudioTransport } from "akasha/pages/ui/media/modules/use-audio-transport/use-audio-transport.module.code.ts"
 import { useCrossModePositionWrite } from "akasha/pages/ui/media/modules/use-cross-mode-position-write/use-cross-mode-position-write.module.code.ts"
-import { usePersistAudioSession } from "akasha/pages/ui/media/use-persist-audio-session/use-persist-audio-session.module.code.ts"
-import { usePersistentAudioContainer } from "akasha/pages/ui/media/use-persistent-audio-container/use-persistent-audio-container.module.code.ts"
-import type { MediaSrcResolver } from "akasha/pages/ui/media/use-shell-media-src/use-shell-media-src.module.code.ts"
+import { usePersistAudioSession } from "akasha/pages/ui/media/modules/use-persist-audio-session/use-persist-audio-session.module.code.ts"
+import { usePersistentAudioContainer } from "akasha/pages/ui/media/modules/use-persistent-audio-container/use-persistent-audio-container.module.code.ts"
+import type { MediaSrcResolver } from "akasha/pages/ui/media/modules/use-shell-media-src/use-shell-media-src.module.code.ts"
 import type { EnsureRenditionFn } from "akasha/pages/ui/media/use-webkit-read-aloud-ensure/use-webkit-read-aloud-ensure.module.code.ts"
-import { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
+import { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import {
   createContext,
   useCallback,

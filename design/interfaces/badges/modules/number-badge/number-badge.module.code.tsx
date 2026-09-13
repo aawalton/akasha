@@ -6,7 +6,7 @@ import {
 } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import { ButtonBadge } from "akasha/design/interfaces/badges/modules/button-badge/button-badge.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
-import { useNumberDraft } from "akasha/design/interfaces/primitives/use-number-draft/use-number-draft.module.code.ts"
+import { useNumberDraft } from "akasha/design/interfaces/primitives/modules/use-number-draft/use-number-draft.module.code.ts"
 import * as React from "react"
 
 interface NumberBadgeProps {

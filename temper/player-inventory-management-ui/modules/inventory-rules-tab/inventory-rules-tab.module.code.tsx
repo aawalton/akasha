@@ -39,7 +39,7 @@ import {
 import { useInventoryRulesSettingsState } from "akasha/temper/player-inventory-management-ui/modules/use-inventory-rules-settings-state/use-inventory-rules-settings-state.module.code.ts"
 import { useInventoryRulesTabAffectedItems } from "akasha/temper/player-inventory-management-ui/modules/use-inventory-rules-tab-affected-items/use-inventory-rules-tab-affected-items.module.code.ts"
 import { useInventoryRulesTabDescriptions } from "akasha/temper/player-inventory-management-ui/modules/use-inventory-rules-tab-descriptions/use-inventory-rules-tab-descriptions.module.code.ts"
-import { useRuleMatcherContext } from "akasha/temper/player-inventory-management-ui/use-rule-matcher-context/use-rule-matcher-context.module.code.ts"
+import { useRuleMatcherContext } from "akasha/temper/player-inventory-management-ui/modules/use-rule-matcher-context/use-rule-matcher-context.module.code.ts"
 import { Package } from "lucide-react"
 import { useMemo, useRef } from "react"
 

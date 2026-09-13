@@ -5,7 +5,7 @@ import {
   setErrorReportOrigin,
   setReleaseSha,
 } from "akasha/alan/harness/errors-client/modules/error-reporting/error-reporting.module.code.ts"
-import { useReportRenderError } from "akasha/alan/harness/errors-client/use-report-render-error/use-report-render-error.module.code.ts"
+import { useReportRenderError } from "akasha/alan/harness/errors-client/modules/use-report-render-error/use-report-render-error.module.code.ts"
 import { parseBuildSha } from "akasha/alan/harness/web-build-version/modules/build-sha/build-sha.module.code.ts"
 import { apiFetch } from "akasha/alan/web/modules/api-fetch/api-fetch.module.code.ts"
 import { isNativeShell } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"

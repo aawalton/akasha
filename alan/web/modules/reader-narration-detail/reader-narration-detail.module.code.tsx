@@ -2,7 +2,7 @@
 
 import type { SentenceMark } from "akasha/alan/harness/voice-core/modules/mark-schema/mark-schema.module.code.ts"
 import { PageDetailWithReadMark } from "akasha/alan/web/modules/page-detail-with-read-mark/page-detail-with-read-mark.module.code.tsx"
-import { useReaderActiveMarks } from "akasha/alan/web/use-reader-active-marks/use-reader-active-marks.module.code.ts"
+import { useReaderActiveMarks } from "akasha/alan/web/modules/use-reader-active-marks/use-reader-active-marks.module.code.ts"
 import {
   KOKORO_STREAM_VARIANT,
   STORED_READ_ALOUD_VARIANT,

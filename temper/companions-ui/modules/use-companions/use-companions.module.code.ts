@@ -5,10 +5,10 @@ import { deletePage } from "akasha/pages/access/modules/deleting/deleting.module
 import { patchPage } from "akasha/pages/access/modules/patch/patch.module.code.ts"
 import { NEVER_MATCH_VALUE } from "akasha/pages/access/modules/sentinels/sentinels.module.code.ts"
 import { usePagesUIRouter } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
-import { useOptimisticCreatePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
-import { useOptimisticDeletePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
-import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
-import { usePages } from "akasha/pages/ui/supabase/use-pages/use-pages.module.code.ts"
+import { usePages } from "akasha/pages/ui/supabase/modules/use-pages/use-pages.module.code.ts"
+import { useOptimisticCreatePage } from "akasha/pages/ui/supabase/mutations/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
+import { useOptimisticDeletePage } from "akasha/pages/ui/supabase/mutations/modules/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
+import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import {
   type CompanionBuildMetadata,

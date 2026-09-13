@@ -9,11 +9,11 @@ import {
   selectTransport,
   type Transport,
 } from "akasha/pages/ui/media/modules/transport-selection/transport-selection.module.code.ts"
-import { useNativeTtsTransport } from "akasha/pages/ui/media/use-native-tts-transport/use-native-tts-transport.module.code.ts"
+import { useNativeTtsTransport } from "akasha/pages/ui/media/modules/use-native-tts-transport/use-native-tts-transport.module.code.ts"
 import {
   type MediaSrcResolver,
   useShellMediaSrc,
-} from "akasha/pages/ui/media/use-shell-media-src/use-shell-media-src.module.code.ts"
+} from "akasha/pages/ui/media/modules/use-shell-media-src/use-shell-media-src.module.code.ts"
 import {
   type EnsureRenditionFn,
   useWebKitReadAloudDivert,

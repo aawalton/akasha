@@ -24,7 +24,7 @@ import type {
   ShoppingMarks,
   UpdateShoppingMarks,
 } from "akasha/temper/player-economics-ui/modules/shopping-optimizer-types/shopping-optimizer-types.module.code.ts"
-import { useShoppingList } from "akasha/temper/player-economics-ui/use-shopping-list/use-shopping-list.module.code.ts"
+import { useShoppingList } from "akasha/temper/player-economics-ui/modules/use-shopping-list/use-shopping-list.module.code.ts"
 import { Handshake, ShoppingCart } from "lucide-react"
 import { Suspense } from "react"
 

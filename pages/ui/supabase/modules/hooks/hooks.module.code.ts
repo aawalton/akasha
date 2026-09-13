@@ -21,7 +21,7 @@ import { getRelatedPagesByIdCoalesced } from "akasha/pages/ui/supabase/modules/r
 import {
   type UsePagesSupabaseOptions,
   usePages,
-} from "akasha/pages/ui/supabase/use-pages/use-pages.module.code.ts"
+} from "akasha/pages/ui/supabase/modules/use-pages/use-pages.module.code.ts"
 import {
   createIdSuffixPipeline,
   type IdSuffixResult,

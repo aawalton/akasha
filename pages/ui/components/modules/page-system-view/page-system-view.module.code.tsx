@@ -17,7 +17,7 @@ import { useBoardViewWiring } from "akasha/pages/ui/components/modules/use-board
 import { useCalendarViewWiring } from "akasha/pages/ui/components/modules/use-calendar-view-wiring/use-calendar-view-wiring.module.code.ts"
 import { useTimelineConfig } from "akasha/pages/ui/components/use-timeline-config/use-timeline-config.module.code.ts"
 import { useViewLocalConfig } from "akasha/pages/ui/components/use-view-local-config/use-view-local-config.module.code.ts"
-import { usePageView } from "akasha/pages/ui/components/view-engine/use-page-view/use-page-view.module.code.ts"
+import { usePageView } from "akasha/pages/ui/components/view-engine/modules/use-page-view/use-page-view.module.code.ts"
 import { usePageResolverOptional } from "akasha/pages/ui/contexts/modules/page-resolver-context/page-resolver-context.module.code.tsx"
 import { useCallback, useEffect, useMemo, useState } from "react"
 

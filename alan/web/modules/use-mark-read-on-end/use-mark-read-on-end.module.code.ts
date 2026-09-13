@@ -9,8 +9,8 @@ import {
 import { patchPage } from "akasha/pages/access/modules/patch/patch.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { useAllPages } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
-import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
-import { usePage } from "akasha/pages/ui/supabase/use-page/use-page.module.code.ts"
+import { usePage } from "akasha/pages/ui/supabase/modules/use-page/use-page.module.code.ts"
+import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useCallback } from "react"
 

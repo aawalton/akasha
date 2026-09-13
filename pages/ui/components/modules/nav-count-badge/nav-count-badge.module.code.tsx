@@ -11,8 +11,8 @@ import {
   useViewsForNavItem,
 } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { usePageViewQuery } from "akasha/pages/ui/supabase/modules/hooks-view-query/hooks-view-query.module.code.ts"
-import { useOptionListLookup } from "akasha/pages/ui/supabase/use-option-list-lookup/use-option-list-lookup.module.code.ts"
-import { usePageTypeDirectory } from "akasha/pages/ui/supabase/use-page-type-directory/use-page-type-directory.module.code.ts"
+import { useOptionListLookup } from "akasha/pages/ui/supabase/modules/use-option-list-lookup/use-option-list-lookup.module.code.ts"
+import { usePageTypeDirectory } from "akasha/pages/ui/supabase/modules/use-page-type-directory/use-page-type-directory.module.code.ts"
 import { viewDataOfPage } from "akasha/pages/ui/supabase/view-data-of-page/view-data-of-page.module.code.ts"
 import { useMemo } from "react"
 

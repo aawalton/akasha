@@ -13,7 +13,7 @@ import { PagesFilterBar } from "akasha/pages/ui/components/modules/page-filter-b
 import type { PageSystemTabContentProps } from "akasha/pages/ui/components/modules/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
 import { CreatePageButton } from "akasha/pages/ui/components/modules/page-system-view-helpers/page-system-view-helpers.module.code.tsx"
 import { ViewSettingsButton } from "akasha/pages/ui/components/modules/page-system-view-settings/page-system-view-settings.module.code.tsx"
-import type { UsePageViewResult } from "akasha/pages/ui/components/view-engine/use-page-view/use-page-view.module.code.ts"
+import type { UsePageViewResult } from "akasha/pages/ui/components/view-engine/modules/use-page-view/use-page-view.module.code.ts"
 import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import type { Dispatch, SetStateAction } from "react"
 

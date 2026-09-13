@@ -1,6 +1,6 @@
 "use client"
 
-import { useMarkReadOnEnd } from "akasha/alan/web/use-mark-read-on-end/use-mark-read-on-end.module.code.ts"
+import { useMarkReadOnEnd } from "akasha/alan/web/modules/use-mark-read-on-end/use-mark-read-on-end.module.code.ts"
 import { PageDetailContent } from "akasha/pages/ui/components/modules/page-detail-content/page-detail-content.module.code.tsx"
 import type { ComponentProps } from "react"
 

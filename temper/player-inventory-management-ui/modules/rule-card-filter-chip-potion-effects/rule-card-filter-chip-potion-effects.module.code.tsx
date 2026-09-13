@@ -19,7 +19,7 @@ import {
 } from "akasha/design/interfaces/primitives/modules/select-control/select-control.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/modules/text-body/text-body.module.code.tsx"
 import { POTION_EFFECTS_OPTIONS } from "akasha/temper/items-rules-core/modules/potion-effects-filter/potion-effects-filter.module.code.ts"
-import type { useRuleCard } from "akasha/temper/player-inventory-management-ui/use-rule-card/use-rule-card.module.code.ts"
+import type { useRuleCard } from "akasha/temper/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
 import type { ReactNode } from "react"
 
 type RuleCardState = ReturnType<typeof useRuleCard>

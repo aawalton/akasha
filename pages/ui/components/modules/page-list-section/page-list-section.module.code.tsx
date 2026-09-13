@@ -13,7 +13,7 @@ import { PageTable } from "akasha/pages/ui/components/modules/page-table/page-ta
 import type { PageTableColumn } from "akasha/pages/ui/components/modules/page-table-shared/page-table-shared.module.code.ts"
 import { withColumnWidths } from "akasha/pages/ui/components/modules/page-table-widths/page-table-widths.module.code.ts"
 import { SortableCardCollection } from "akasha/pages/ui/components/modules/sortable-card-collection/sortable-card-collection.module.code.tsx"
-import type { ReorderCardsHandler } from "akasha/pages/ui/components/use-reorder-view-wiring/use-reorder-view-wiring.module.code.ts"
+import type { ReorderCardsHandler } from "akasha/pages/ui/components/modules/use-reorder-view-wiring/use-reorder-view-wiring.module.code.ts"
 import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import type { ReactNode } from "react"
 

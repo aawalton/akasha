@@ -24,7 +24,7 @@ import type { GalleryCardSize } from "akasha/pages/core/view/modules/gallery/gal
 import { PageActionsMenu } from "akasha/pages/ui/components/modules/page-actions-menu/page-actions-menu.module.code.tsx"
 import { PageCardCover } from "akasha/pages/ui/components/modules/page-card-cover/page-card-cover.module.code.tsx"
 import { PageCardProperties } from "akasha/pages/ui/components/modules/page-card-properties/page-card-properties.module.code.tsx"
-import { useOverflowFade } from "akasha/pages/ui/components/use-overflow-fade/use-overflow-fade.module.code.ts"
+import { useOverflowFade } from "akasha/pages/ui/components/modules/use-overflow-fade/use-overflow-fade.module.code.ts"
 import { PagesUILink } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { CheckCircle2, Circle } from "lucide-react"
 import type * as React from "react"

@@ -25,7 +25,7 @@ import {
 } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { usePageViewQuery } from "akasha/pages/ui/supabase/modules/hooks-view-query/hooks-view-query.module.code.ts"
 import type { PageWithProperties } from "akasha/pages/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
-import { useOptionListLookup } from "akasha/pages/ui/supabase/use-option-list-lookup/use-option-list-lookup.module.code.ts"
+import { useOptionListLookup } from "akasha/pages/ui/supabase/modules/use-option-list-lookup/use-option-list-lookup.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useMemo } from "react"
 

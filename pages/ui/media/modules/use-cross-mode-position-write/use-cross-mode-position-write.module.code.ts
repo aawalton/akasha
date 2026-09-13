@@ -5,7 +5,7 @@ import {
 import { emitPositionWrite } from "akasha/pages/ui/components/modules/position-write-event/position-write-event.module.code.ts"
 import { computeReadProgress } from "akasha/pages/ui/components/modules/read-progress/read-progress.module.code.ts"
 import type { PlayingSessionState } from "akasha/pages/ui/media/modules/playing-session/playing-session.module.code.ts"
-import type { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
+import type { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import { type RefObject, useEffect } from "react"
 
 export function useCrossModePositionWrite(args: {

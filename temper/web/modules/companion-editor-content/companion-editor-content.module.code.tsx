@@ -25,7 +25,7 @@ import {
 } from "akasha/temper/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { useCompletionCompanions } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
-import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
+import { usePlayer } from "akasha/temper/player-profile/modules/use-player/use-player.module.code.ts"
 import { CompanionAutomationPanelCard } from "akasha/temper/web/modules/companion-automation-panel-card/companion-automation-panel-card.module.code.tsx"
 import { CompanionEditorHeader } from "akasha/temper/web/modules/companion-editor-header/companion-editor-header.module.code.tsx"
 import { CompanionEquipmentPanel } from "akasha/temper/web/modules/companion-equipment-panel/companion-equipment-panel.module.code.tsx"

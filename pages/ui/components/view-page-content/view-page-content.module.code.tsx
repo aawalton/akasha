@@ -22,9 +22,9 @@ import {
   usePageByIdSuffix,
   useViewsForNavItem,
 } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
-import { useOptionListLookup } from "akasha/pages/ui/supabase/use-option-list-lookup/use-option-list-lookup.module.code.ts"
-import { usePageTypeDirectory } from "akasha/pages/ui/supabase/use-page-type-directory/use-page-type-directory.module.code.ts"
-import { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
+import { useOptionListLookup } from "akasha/pages/ui/supabase/modules/use-option-list-lookup/use-option-list-lookup.module.code.ts"
+import { usePageTypeDirectory } from "akasha/pages/ui/supabase/modules/use-page-type-directory/use-page-type-directory.module.code.ts"
+import { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import { useSupabaseViewCallbacks } from "akasha/pages/ui/supabase/use-view-callbacks/use-view-callbacks.module.code.ts"
 import { viewDataOfPage } from "akasha/pages/ui/supabase/view-data-of-page/view-data-of-page.module.code.ts"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"

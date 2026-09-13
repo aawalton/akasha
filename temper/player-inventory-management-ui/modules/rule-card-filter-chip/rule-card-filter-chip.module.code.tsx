@@ -15,7 +15,7 @@ import {
   type QuantityFilterId,
   RuleCardFilterChipQuantity,
 } from "akasha/temper/player-inventory-management-ui/modules/rule-card-filter-chips-quantity/rule-card-filter-chips-quantity.module.code.tsx"
-import type { useRuleCard } from "akasha/temper/player-inventory-management-ui/use-rule-card/use-rule-card.module.code.ts"
+import type { useRuleCard } from "akasha/temper/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
 import type { ReactNode } from "react"
 
 type RuleCardState = ReturnType<typeof useRuleCard>

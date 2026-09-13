@@ -15,7 +15,7 @@ import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surfac
 import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import type { ProfileMetadata } from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import { useCraftBagAccess } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
-import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
+import { usePlayer } from "akasha/temper/player-profile/modules/use-player/use-player.module.code.ts"
 import {
   type CraftBagAccessValue,
   fromCraftBagAccessValue,

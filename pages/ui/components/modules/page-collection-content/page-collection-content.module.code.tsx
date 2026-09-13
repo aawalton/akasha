@@ -22,8 +22,8 @@ import { PagesFilteredContent } from "akasha/pages/ui/components/modules/pages-b
 import { PropertyBadge } from "akasha/pages/ui/components/modules/property-badge/property-badge.module.code.tsx"
 import { PagesUILink } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { useAllPages } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
-import { useResolvedDefinitions } from "akasha/pages/ui/supabase/use-option-list-lookup/use-option-list-lookup.module.code.ts"
-import { usePage } from "akasha/pages/ui/supabase/use-page/use-page.module.code.ts"
+import { useResolvedDefinitions } from "akasha/pages/ui/supabase/modules/use-option-list-lookup/use-option-list-lookup.module.code.ts"
+import { usePage } from "akasha/pages/ui/supabase/modules/use-page/use-page.module.code.ts"
 import {
   type PageTypeSlug,
   toPageTypeSlug,

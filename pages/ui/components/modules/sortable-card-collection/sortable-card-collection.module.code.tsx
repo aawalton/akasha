@@ -20,12 +20,12 @@ import {
 import { CSS } from "@dnd-kit/utilities"
 import { LoadMoreButton } from "akasha/design/interfaces/layout/modules/load-more-button/load-more-button.module.code.tsx"
 import { PanelDefaultOpenProvider } from "akasha/design/interfaces/layout/modules/panel-default-open-context/panel-default-open-context.module.code.tsx"
-import { useLoadMore } from "akasha/design/interfaces/layout/use-load-more/use-load-more.module.code.ts"
+import { useLoadMore } from "akasha/design/interfaces/layout/modules/use-load-more/use-load-more.module.code.ts"
 import {
   type GalleryCardSize,
   galleryCardMinWidth,
 } from "akasha/pages/core/view/modules/gallery/gallery.module.code.ts"
-import type { ReorderCardsHandler } from "akasha/pages/ui/components/use-reorder-view-wiring/use-reorder-view-wiring.module.code.ts"
+import type { ReorderCardsHandler } from "akasha/pages/ui/components/modules/use-reorder-view-wiring/use-reorder-view-wiring.module.code.ts"
 import { type ReactNode, useEffect, useMemo, useRef, useState } from "react"
 
 interface SortableCardCollectionProps<T> {

@@ -5,8 +5,8 @@ import { createPage } from "akasha/pages/access/modules/create/create.module.cod
 import { getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
 import { patchPage } from "akasha/pages/access/modules/patch/patch.module.code.ts"
 import { DEFAULT_ICON_NAME } from "akasha/pages/core/modules/icon/icon.module.code.ts"
-import { useOptimisticCreatePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
-import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
+import { useOptimisticCreatePage } from "akasha/pages/ui/supabase/mutations/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
+import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import { useCallback } from "react"
 
 const NAV_SLUG = "nav"

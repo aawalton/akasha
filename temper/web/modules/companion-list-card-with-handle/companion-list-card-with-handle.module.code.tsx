@@ -3,7 +3,7 @@
 import type { CompanionStatsResult } from "akasha/temper/companions-core/modules/companion-stats-result/companion-stats-result.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
 import type { CompanionId } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
-import { usePlayerByUserId } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
+import { usePlayerByUserId } from "akasha/temper/player-profile/modules/use-player/use-player.module.code.ts"
 import { CompanionListPanelCard } from "akasha/temper/web/modules/companion-list-panel-card/companion-list-panel-card.module.code.tsx"
 
 interface CompanionListCardWithHandleProps {

@@ -19,7 +19,7 @@ import {
   saveCachedRoute,
 } from "akasha/temper/player-economics-ui/modules/shopping-route-cache/shopping-route-cache.module.code.ts"
 import { readSSEStream } from "akasha/temper/player-economics-ui/modules/shopping-sse-reader/shopping-sse-reader.module.code.ts"
-import type { ShoppingList } from "akasha/temper/player-economics-ui/use-shopping-list/use-shopping-list.module.code.ts"
+import type { ShoppingList } from "akasha/temper/player-economics-ui/modules/use-shopping-list/use-shopping-list.module.code.ts"
 import type {
   PurchaseRecommendation,
   ShoppingItem,

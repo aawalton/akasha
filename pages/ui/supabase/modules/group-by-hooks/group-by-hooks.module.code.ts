@@ -26,7 +26,7 @@ import {
 import {
   type UsePagesSupabaseOptions,
   usePages,
-} from "akasha/pages/ui/supabase/use-pages/use-pages.module.code.ts"
+} from "akasha/pages/ui/supabase/modules/use-pages/use-pages.module.code.ts"
 import { viewFilterToCondition } from "akasha/pages/ui/supabase/view-filter-to-condition/view-filter-to-condition.module.code.ts"
 import { useMemo } from "react"
 

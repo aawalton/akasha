@@ -8,7 +8,7 @@ import {
   TabsList,
   TabsTrigger,
 } from "akasha/design/interfaces/patterns/modules/tabs/tabs.module.code.tsx"
-import { useSetToggle } from "akasha/design/interfaces/patterns/use-set-toggle/use-set-toggle.module.code.ts"
+import { useSetToggle } from "akasha/design/interfaces/patterns/modules/use-set-toggle/use-set-toggle.module.code.ts"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { formatGold } from "akasha/design/interfaces/primitives/modules/format-gold/format-gold.module.code.ts"
 import { ScrollArea } from "akasha/design/interfaces/primitives/modules/scroll-area/scroll-area.module.code.tsx"

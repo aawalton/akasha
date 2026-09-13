@@ -5,7 +5,7 @@ import type {
   PageCondition,
   PageWhere,
 } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
-import { useQuery } from "akasha/pages/ui/cache/use-query/use-query.module.code.ts"
+import { useQuery } from "akasha/pages/ui/cache/modules/use-query/use-query.module.code.ts"
 import {
   type PageWithProperties,
   toPageWithProperties,
