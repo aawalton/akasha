@@ -3,7 +3,7 @@ import type { Answer } from "akasha/changes/modules/answer/change-answer.module.
 import { guardedBy } from "akasha/changes/modules/guarding/change-guarding.module.code.ts"
 import type { Guard } from "akasha/changes/modules/guarding/change-guarding.module.types.ts"
 import { worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { textIn } from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
+import { textIn } from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 export function heldAt(root: string, path: string): (one: string) => string | null {
   const text = textIn(root)

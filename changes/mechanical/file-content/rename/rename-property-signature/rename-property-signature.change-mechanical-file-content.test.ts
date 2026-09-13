@@ -4,7 +4,7 @@ import {
   renamePropertySignature,
 } from "akasha/changes/mechanical/file-content/rename/rename-property-signature/rename-property-signature.change-mechanical-file-content.code.ts"
 import { worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { scratch } from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
+import { scratch } from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import ts from "typescript"
 
 function aliasIn(said: string): ts.TypeNode {

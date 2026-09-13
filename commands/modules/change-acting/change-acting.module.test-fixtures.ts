@@ -23,7 +23,7 @@ import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.mo
 import {
   indexedRepo,
   NAMER_CODE,
-} from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
+} from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 const PRESENCE_AT = "akasha/subagent-presence.module.ts"
 

@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratch } from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
+import { scratch } from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import {
   besideItsPage,
   endingRefused,

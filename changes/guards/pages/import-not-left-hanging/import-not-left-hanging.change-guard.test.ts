@@ -10,6 +10,10 @@ import {
 } from "akasha/changes/modules/guarding/change-guarding.module.test-fixtures.ts"
 import { worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
+  relationFiled,
+  shapeAdded,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import {
   bodyOf,
   HELD_CODE,
   idOf,
@@ -17,11 +21,7 @@ import {
   NAMER_CODE,
   pageOf,
   scratch,
-} from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
-import {
-  relationFiled,
-  shapeAdded,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import { NOT_WORKED_OUT } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)

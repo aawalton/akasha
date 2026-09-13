@@ -1,6 +1,9 @@
 import { cpSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { said } from "akasha/git/modules/running/git-running.module.code.ts"
+import { keepingIn } from "akasha/pages/indexes/modules/indexing/indexing.module.code.ts"
+import { refreshedIn } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import {
   aType,
   bodyOf,
@@ -8,10 +11,7 @@ import {
   idOf,
   type Named,
   VOCABULARY,
-} from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
-import { keepingIn } from "akasha/pages/indexes/modules/indexing/indexing.module.code.ts"
-import { refreshedIn } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
-import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+} from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { type Cast, shadowFor } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { put, there } from "akasha/testing-system/modules/putting/putting.module.code.ts"

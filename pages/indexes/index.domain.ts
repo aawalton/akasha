@@ -18,7 +18,7 @@ export const index = {
     "module/beside-turning",
     "module/extension-carrying",
     "module/file-appending",
-    "module/fixture-world",
+
     "module/generated-properties",
     "module/index-answering",
     "module/index-carrying",
@@ -39,6 +39,7 @@ export const index = {
     "module/reaching",
     "module/tree-reading",
     "page-type/index",
+    "test-fixture/fixture-world",
   ],
   invariants: [
     {

@@ -2,22 +2,6 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import {
-  aProperty,
-  aType,
-  bodyOf,
-  butTheStamp,
-  HELD_CODE,
-  HELD_PAGE,
-  IDENTIFIERS,
-  idOf,
-  indexedRepo,
-  NAMER_PAGE,
-  type Named,
-  put,
-  scratch,
-  textIn,
-} from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
-import {
   type Indexing,
   indexingAt,
   refreshedFrom,
@@ -32,6 +16,22 @@ import {
 } from "akasha/pages/indexes/modules/settling/index-settling.module.code.ts"
 import { overlaidOn } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
+import {
+  aProperty,
+  aType,
+  bodyOf,
+  butTheStamp,
+  HELD_CODE,
+  HELD_PAGE,
+  IDENTIFIERS,
+  idOf,
+  indexedRepo,
+  NAMER_PAGE,
+  type Named,
+  put,
+  scratch,
+  textIn,
+} from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import { valueIn } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { everyFileUnder } from "akasha/testing-system/modules/walking/walking.module.code.ts"
 

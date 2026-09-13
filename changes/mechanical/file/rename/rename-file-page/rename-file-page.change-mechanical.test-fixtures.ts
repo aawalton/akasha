@@ -9,7 +9,7 @@ import {
   bodyOf,
   indexedRepo,
   pageOf,
-} from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
+} from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 export function movesOf(said: Answer): readonly (readonly [string, string])[] {
   const found: (readonly [string, string])[] = []

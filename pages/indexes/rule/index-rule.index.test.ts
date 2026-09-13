@@ -1,5 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratch } from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
 import {
   unreadAfterRebuild,
   wholeAfterRebuild,
@@ -17,6 +16,7 @@ import {
   saidAt,
   saidOf,
 } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
+import { scratch } from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 afterAll(scratch.sweep, 5000)
 

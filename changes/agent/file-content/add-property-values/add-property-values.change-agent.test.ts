@@ -15,7 +15,7 @@ import {
   pageOf,
   scratch,
   textIn,
-} from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
+} from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 afterAll(scratch.sweep)

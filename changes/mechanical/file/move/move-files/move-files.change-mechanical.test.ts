@@ -5,7 +5,7 @@ import {
   HELD_CODE,
   NAMER_CODE,
   scratch,
-} from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
+} from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 

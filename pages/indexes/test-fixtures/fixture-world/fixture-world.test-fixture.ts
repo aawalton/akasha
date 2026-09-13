@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { TestFixture } from "akasha/testing-system/test-fixtures/test-fixture.page-type.types.ts"
 
 export const fixtureWorld = {
   id: "01a088b6-9456-73ee-9f1f-a92536a61b7b",
-  type: "module",
+  type: "test-fixture",
   slug: "fixture-world",
   definition: "the world of pages a test is set up with",
   code: "ts",
@@ -37,4 +37,4 @@ export const fixtureWorld = {
       statement: "A world built under a test overlay resolves no package name of its own.",
     },
   ],
-} as const satisfies Module
+} as const satisfies TestFixture

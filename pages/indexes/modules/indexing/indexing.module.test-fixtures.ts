@@ -2,6 +2,16 @@ import { mkdirSync, readFileSync, rmSync, symlinkSync } from "node:fs"
 import { join } from "node:path"
 import { typed as typedCode } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import {
+  type Indexing,
+  indexingAt,
+  refreshedFrom,
+} from "akasha/pages/indexes/modules/indexing/indexing.module.code.ts"
+import { shapesAt } from "akasha/pages/indexes/modules/property-shaping/property-shaping.module.code.ts"
+import { everyPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { settlingOver } from "akasha/pages/indexes/modules/settling/index-settling.module.code.ts"
+import { readingBuilding } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
+import { pathsRead, readerAt, ruleWhole } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
+import {
   aProperty,
   aType,
   bodyOf,
@@ -13,17 +23,7 @@ import {
   scratch,
   thePage,
   VOCABULARY,
-} from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
-import {
-  type Indexing,
-  indexingAt,
-  refreshedFrom,
-} from "akasha/pages/indexes/modules/indexing/indexing.module.code.ts"
-import { shapesAt } from "akasha/pages/indexes/modules/property-shaping/property-shaping.module.code.ts"
-import { everyPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { settlingOver } from "akasha/pages/indexes/modules/settling/index-settling.module.code.ts"
-import { readingBuilding } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
-import { pathsRead, readerAt, ruleWhole } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
+} from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
 import { everyFileUnder } from "akasha/testing-system/modules/walking/walking.module.code.ts"
