@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, readFileSync, rmSync } from "node:fs"
-import { join, resolve } from "node:path"
+import { join } from "node:path"
 import {
   notices,
   render,
@@ -11,7 +11,7 @@ import {
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { ROOT_NAMED } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { ROOT_NAMED, rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {
   pathOf,
   saidOf,
@@ -19,7 +19,7 @@ import {
 } from "akasha/commands/pages/seat/compose-notices/seat-compose-notices.command.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 
-const ROOT = resolve(import.meta.dir, "../../..")
+const ROOT = rootOf(import.meta.dir)
 
 function givenIn(root: string): Given {
   return { root, calledAs: "akasha seat compose-notices", from: root, writer: null, agentId: null }
