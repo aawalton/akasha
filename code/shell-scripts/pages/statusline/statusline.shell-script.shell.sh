@@ -9,11 +9,11 @@ set -euo pipefail
 # did not follow. Nothing said so: a seat reader at a path that is not there answers nothing, and
 # the line simply came out short. Walking up to the folder that holds the seats survives the move.
 AKASHA=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd -P)
-while [ "$AKASHA" != "/" ] && [ ! -d "$AKASHA/seat-system" ]; do
+while [ "$AKASHA" != "/" ] && [ ! -d "$AKASHA/agents" ]; do
   AKASHA=$(dirname "$AKASHA")
 done
-if [ ! -d "$AKASHA/seat-system" ]; then
-  printf 'statusline: no folder above this one holds seat-system\n' >&2
+if [ ! -d "$AKASHA/agents" ]; then
+  printf 'statusline: no folder above this one holds agents\n' >&2
   exit 1
 fi
 BUN_BIN=$(command -v bun || echo "$HOME/.bun/bin/bun")

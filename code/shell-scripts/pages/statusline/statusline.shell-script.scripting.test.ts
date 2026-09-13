@@ -12,7 +12,7 @@ const SCRIPT = "statusline.shell-script.shell.sh"
 
 const OWN = "statusline.shell-script.scripting.code.ts"
 
-const SEATS = "seat-system/"
+const SEATS = "agents/"
 
 test("the body written here is the script committed beside this test, byte for byte", () => {
   expect(bodyIn(ROOT)).toBe(readFileSync(join(HERE, SCRIPT), "utf8"))

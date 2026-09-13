@@ -9,7 +9,7 @@ const MODULE = "module"
 
 const CODE = "code"
 
-const SEATS = "seat-system"
+const SEATS = "agent"
 
 const READING = "seat-reading"
 
