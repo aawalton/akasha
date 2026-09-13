@@ -18,11 +18,11 @@ export const LANDING_LOCK = "akasha-landing.lock"
 
 export const HARNESS_LANDING_LOCK = "harness-landing.lock"
 
-export const STORES: readonly string[] = [CACHE, DATA, DEPLOYS, HANDOFF, INDEXES, TREES]
+export const STORES: readonly string[] = [CACHE, DATA, DEPLOYS, HANDOFF, TREES]
 
 export const KEPT: readonly string[] = [...STORES, LANDING_LOCK, HARNESS_LANDING_LOCK]
 
-export const LEFT: readonly string[] = [`${DATA}/reads/agent`]
+export const LEFT: readonly string[] = [`${DATA}/reads/agent`, INDEXES]
 
 export function keptAt(name: string): string {
   return join(GIT_AT, name)
