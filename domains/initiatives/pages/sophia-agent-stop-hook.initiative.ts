@@ -32,7 +32,7 @@ export const sophiaAgentStopHook = {
     {
       statement: "A case names every directive the turn breaks rather than one of them.",
       workingMemory:
-        "`case-against` holds one rule, so `keeping` reads a turn labelled against another rule as a turn breaking nothing. 165 of 413 cases are labelled that way, and one sentence lands on both sides of the key: `Next turn is step 3: cost.` breaches in one row and is clean in the next, as do `Say go and I'll land it` and `Two things worth flagging`. That contradiction is the ceiling on every judge's recall here, and it blocks Don't Stop! outright.\n",
+        "`case-against` holds one rule, so `keeping` reads a turn labelled against another rule as breaking nothing. A turn labelled NO with a rule named is a control saying it is clean of that rule, which is a second sense the one field carries. The contradiction that blocked Don't Stop! is settled rather than structural: Alan ruled that naming the next action and not doing it breaks Don't Stop!, and the rows landing on both sides of the key are being relabelled to it.",
     },
     {
       statement: "Every turn Eppie mined and labelled is a case.",
