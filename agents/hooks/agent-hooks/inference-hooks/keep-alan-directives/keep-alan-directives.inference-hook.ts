@@ -110,5 +110,9 @@ export const keepAlanDirectives = {
       statement:
         "A rule answered yes on is kept beside the test that asked it, turn and answer both.",
     },
+    {
+      invariantKind: "constraint",
+      statement: "Ten runs in ten reached a model with the gateway otherwise quiet.",
+    },
   ],
 } as const satisfies InferenceHook
