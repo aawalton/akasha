@@ -10,7 +10,7 @@ export const sophiaAgentStopHook = {
     {
       statement: "No clean turn Alan has labelled draws a refusal from the live judge.",
       workingMemory:
-        "Measured against the 413 cases rather than the pool they were mined from, which shares none of their ids and lacks 51 of the 214 clean turns. `no-commentary-kept` and `subagent-brief-kept` refuse none of the 214, over two runs each. `directive-kept` refuses one, the same one on three runs, reading a command's timeout as a limit of the agent's own. `one-at-a-time-kept` refuses one and then two. A fifth judge was taken off the hook for refusing two.\n",
+        "`no-commentary-kept` and `subagent-brief-kept` refuse none of the 214 over two runs each, and four more runs over the clean cases alone are measuring, which would bound them under one in 430. `directive-kept` and `one-at-a-time-kept` each refuse one or two, and no wording mends it: three clock wordings refused three different clean turns. Zero over two runs only bounds the rate under one in 140. One turn the key calls clean sizes unfinished work twice, so a correct judge is forced to look wrong.",
     },
     {
       statement:
