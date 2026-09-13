@@ -41,7 +41,12 @@ export const subagent = {
       many: false,
       uncommitted: true,
     },
-    { pageProperty: "boolean-property/subagent-stopped", required: false, many: false },
+    {
+      pageProperty: "boolean-property/subagent-stopped",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
   ],
   loadedBy: "module/agent-stated",
   invariants: [
@@ -170,6 +175,18 @@ export const subagent = {
       invariantKind: "departure",
       statement:
         "A subagent keeps edits only while the index files its seat by id and its own page by slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent has no process of its own for a stop to end.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent is stopped by refusing the model turns that subagent asks for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop reaches a subagent at its next model turn rather than at once.",
     },
   ],
   types: "ts",
