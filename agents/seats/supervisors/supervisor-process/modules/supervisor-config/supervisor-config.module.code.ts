@@ -11,21 +11,6 @@ export const REPO_ROOT = akashaRoot()
 export const SEAT_START_DIR = resolve(REPO_ROOT, "..")
 export const LOG = "[local]"
 
-function getAgentCacheDir(): string {
-  const cacheDir = shape.string().optional().parse(process.env.AGENT_CACHE_DIR)
-  if (cacheDir != null) return cacheDir
-  return shape.string().parse(process.env.HOME)
-}
-
-function getAgentCachePaths(baseDir: string) {
-  return {
-    bareRepoPath: `${baseDir}/bare-repo`,
-    worktreesPath: `${baseDir}/worktrees`,
-  } as const
-}
-
-export const CACHE_PATHS = getAgentCachePaths(getAgentCacheDir())
-
 export interface BootFile {
   readonly path: string
   readonly noun: string
