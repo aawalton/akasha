@@ -29,7 +29,7 @@ function surplusIn(world: World, pageTypes: ReadonlySet<string>, path: string): 
     world.index.importersOf(path),
     world.textOf
   )
-  const named = found.filter((one) => one.named && !one.proved).map((one) => one.name)
+  const named = found.filter((one) => one.named).map((one) => one.name)
   return droppableIn(path, text, named)
 }
 

@@ -61,7 +61,11 @@ export const noUnusedExports = {
     },
     {
       invariantKind: "departure",
-      statement: "A value nothing but a test names is unreached.",
+      statement: "A value its own file never names and only a test names is unreached.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value its own file names is reached even where only a test imports it.",
     },
     {
       invariantKind: "departure",

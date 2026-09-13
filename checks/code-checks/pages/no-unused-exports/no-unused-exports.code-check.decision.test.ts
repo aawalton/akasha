@@ -151,6 +151,17 @@ test("a test taking every name a file exports leaves each of them refused for th
   expect(said[0]).toContain("only a test names")
 })
 
+test("a value its own file names is reached even where only a test imports it", () => {
+  const root = rooted()
+  proving(root, readerText("held"))
+  importedBy(root, [PROVER])
+
+  const said = judging(landing(root, { [AT]: bytesOf(KEPT_TEXT) })).map((one) => one.reason)
+
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`spare`")
+})
+
 test("a value a test names in a test-fixtures file is reached", () => {
   const root = rooted()
   proving(root, takenText("held", FIXTURES_AT))

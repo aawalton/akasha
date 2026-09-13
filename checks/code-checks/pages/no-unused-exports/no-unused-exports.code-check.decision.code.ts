@@ -304,6 +304,7 @@ export function unreachedIn(
       named: here.has(one),
       proved: everyProved || proved.has(one),
     }))
+    .filter((one) => !one.proved || !one.named)
 }
 
 function reasonsFor(
