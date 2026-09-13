@@ -11,7 +11,7 @@ import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-
 import { getOptionalContinuationData } from "akasha/design/language/lua-compiler/modules/optional-chain-data/optional-chain-data.module.code.ts"
 import { transformInPrecedingStatementScope } from "akasha/design/language/lua-compiler/modules/preceding-statements/preceding-statements.module.code.ts"
 import { isValidLuaIdentifier } from "akasha/design/language/lua-compiler/modules/safe-names/safe-names.module.code.ts"
-import { unsupportedBuiltinOptionalCall } from "akasha/design/language/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+import { unsupportedBuiltinOptionalCall } from "akasha/design/language/lua-compiler/modules/transform-diagnostics/transform-diagnostics.module.code.ts"
 import {
   getCalledExpression,
   isExpressionWithEvaluationEffect,

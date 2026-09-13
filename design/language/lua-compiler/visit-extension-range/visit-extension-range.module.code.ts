@@ -3,7 +3,7 @@ import * as extensions from "akasha/design/language/lua-compiler/modules/languag
 import { getExtensionKindForNode } from "akasha/design/language/lua-compiler/modules/language-extension-kinds/language-extension-kinds.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
-import { invalidRangeControlVariable } from "akasha/design/language/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+import { invalidRangeControlVariable } from "akasha/design/language/lua-compiler/modules/transform-diagnostics/transform-diagnostics.module.code.ts"
 import { assert } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
 import { transformIdentifier } from "akasha/design/language/lua-compiler/visit-identifier/visit-identifier.module.code.ts"
 import { getVariableDeclarationBinding } from "akasha/design/language/lua-compiler/visit-utils/visit-utils.module.code.ts"

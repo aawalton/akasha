@@ -19,8 +19,8 @@ import {
   lualibPages,
   sourcesFrom,
 } from "akasha/design/language/lua-compiler/modules/lualib-pages/lualib-pages.module.code.ts"
-import type { EmitHost } from "akasha/design/language/lua-compiler/transpile-emit-host/transpile-emit-host.module.code.ts"
-import type { Plugin } from "akasha/design/language/lua-compiler/transpile-plugins/transpile-plugins.module.code.ts"
+import type { EmitHost } from "akasha/design/language/lua-compiler/modules/transpile-emit-host/transpile-emit-host.module.code.ts"
+import type { Plugin } from "akasha/design/language/lua-compiler/modules/transpile-plugins/transpile-plugins.module.code.ts"
 import { cast } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
 import { requireFirst } from "akasha/utils/narrow/modules/require-first/require-first.module.code.ts"
 import * as ts from "typescript"

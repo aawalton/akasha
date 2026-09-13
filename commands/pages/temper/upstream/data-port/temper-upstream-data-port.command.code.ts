@@ -15,7 +15,7 @@ import { temperUpstreamDataPort as page } from "akasha/commands/pages/temper/ups
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import { port as portHousing } from "akasha/temper/upstream-data/modules/housing-upstream-port/housing-upstream-port.module.code.ts"
 import { port as portMapData } from "akasha/temper/upstream-data/modules/map-data-upstream-port/map-data-upstream-port.module.code.ts"
-import { port as portTreasure } from "akasha/temper/upstream-data/treasure-upstream-port/treasure-upstream-port.module.code.ts"
+import { port as portTreasure } from "akasha/temper/upstream-data/modules/treasure-upstream-port/treasure-upstream-port.module.code.ts"
 import type { UpstreamLibrary } from "akasha/temper/upstream-data/upstream-libraries/upstream-libraries.module.code.ts"
 import {
   libraryNamed,

@@ -4,7 +4,7 @@ import {
   invalidMultiFunctionUse,
   invalidRangeUse,
   invalidVarargUse,
-} from "akasha/design/language/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/transform-diagnostics/transform-diagnostics.module.code.ts"
 import type * as ts from "typescript"
 
 const extensionKindToValueName: { [T in ExtensionKind]?: string } = {

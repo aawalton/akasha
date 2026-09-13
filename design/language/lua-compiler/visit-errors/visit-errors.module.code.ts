@@ -14,7 +14,7 @@ import {
 import {
   unsupportedForTarget,
   unsupportedForTargetButOverrideAvailable,
-} from "akasha/design/language/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/transform-diagnostics/transform-diagnostics.module.code.ts"
 import {
   isInAsyncFunction,
   isInGeneratorFunction,

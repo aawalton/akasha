@@ -4,11 +4,11 @@ const HANDED: (readonly string[])[] = []
 let FAILING: Error | null = null
 
 const polling = await import(
-  "akasha/alan/harness/monarch/transaction-polling/transaction-polling.module.code.ts"
+  "akasha/alan/harness/monarch/modules/transaction-polling/transaction-polling.module.code.ts"
 )
 
 mock.module(
-  "akasha/alan/harness/monarch/transaction-polling/transaction-polling.module.code.ts",
+  "akasha/alan/harness/monarch/modules/transaction-polling/transaction-polling.module.code.ts",
   () => ({
     ...polling,
     runTransactionPolling: (argv: readonly string[]) => {

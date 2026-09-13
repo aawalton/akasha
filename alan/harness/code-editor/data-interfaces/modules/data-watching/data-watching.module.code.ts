@@ -20,7 +20,7 @@ import {
   domainTreeLine,
   pageTreeLine,
   workTreeLine,
-} from "akasha/alan/harness/code-editor/data-interfaces/tree-drawing/tree-drawing.module.code.ts"
+} from "akasha/alan/harness/code-editor/data-interfaces/modules/tree-drawing/tree-drawing.module.code.ts"
 import {
   dirsOf,
   followFolders,

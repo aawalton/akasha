@@ -6,7 +6,7 @@ import { seatContextValue } from "akasha/code/editor/extension/modules/seat-togg
 import {
   filterTree,
   textMatches,
-} from "akasha/code/editor/extension/tree-filter/tree-filter.module.code.ts"
+} from "akasha/code/editor/extension/modules/tree-filter/tree-filter.module.code.ts"
 import {
   turnColorIn,
   turnStateSaid,

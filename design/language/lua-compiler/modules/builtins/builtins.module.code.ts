@@ -45,7 +45,7 @@ import { maybeWrapThisVoidAsAdapter } from "akasha/design/language/lua-compiler/
 import {
   unsupportedBuiltinOptionalCall,
   unsupportedProperty,
-} from "akasha/design/language/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/transform-diagnostics/transform-diagnostics.module.code.ts"
 import {
   getCalledExpression,
   isArrayType,

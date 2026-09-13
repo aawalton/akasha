@@ -8,7 +8,7 @@ import {
   type LuaLibModulesInfo,
   resolveRecursiveLualibFeatures,
 } from "akasha/design/language/lua-compiler/modules/lualib-features/lualib-features.module.code.ts"
-import type { EmitHost } from "akasha/design/language/lua-compiler/transpile-emit-host/transpile-emit-host.module.code.ts"
+import type { EmitHost } from "akasha/design/language/lua-compiler/modules/transpile-emit-host/transpile-emit-host.module.code.ts"
 import { requireGet } from "akasha/utils/narrow/modules/require-get/require-get.module.code.ts"
 import { z } from "zod"
 

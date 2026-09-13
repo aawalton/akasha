@@ -13,7 +13,7 @@ import {
   unsupportedForTarget,
   unsupportedProperty,
   unsupportedSelfFunctionConversion,
-} from "akasha/design/language/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/transform-diagnostics/transform-diagnostics.module.code.ts"
 import type * as ts from "typescript"
 
 export function transformFunctionPrototypeCall(

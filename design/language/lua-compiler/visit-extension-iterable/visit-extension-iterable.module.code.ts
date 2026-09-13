@@ -4,7 +4,7 @@ import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-
 import {
   invalidMultiIterableWithoutDestructuring,
   invalidPairsIterableWithoutDestructuring,
-} from "akasha/design/language/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/transform-diagnostics/transform-diagnostics.module.code.ts"
 import { isReferenceType } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
 import { cast } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
 import { isMultiReturnType } from "akasha/design/language/lua-compiler/visit-extension-multi/visit-extension-multi.module.code.ts"

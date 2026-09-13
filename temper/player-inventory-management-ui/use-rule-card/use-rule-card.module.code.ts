@@ -22,7 +22,7 @@ import { SET_SOURCE_TYPE_OPTIONS } from "akasha/temper/items-rules-core/modules/
 import {
   getTraitFamily,
   TRAIT_OPTIONS_BY_FAMILY,
-} from "akasha/temper/items-rules-core/traits-filter/traits-filter.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/traits-filter/traits-filter.module.code.ts"
 import {
   ACTION_OPTIONS,
   NOTHING_ACTION,

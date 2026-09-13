@@ -16,7 +16,7 @@ import {
   isBundleEnabled,
 } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
 import * as performance from "akasha/design/language/lua-compiler/modules/measure-performance/measure-performance.module.code.ts"
-import { createTranspiler } from "akasha/design/language/lua-compiler/transpile-transpiler/transpile-transpiler.module.code.ts"
+import { createTranspiler } from "akasha/design/language/lua-compiler/modules/transpile-transpiler/transpile-transpiler.module.code.ts"
 import * as ts from "typescript"
 
 const shouldBePretty = ({ pretty }: ts.CompilerOptions = {}) =>

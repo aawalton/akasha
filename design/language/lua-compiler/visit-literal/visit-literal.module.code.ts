@@ -13,7 +13,7 @@ import { trackSymbolReference } from "akasha/design/language/lua-compiler/module
 import {
   undefinedInArrayLiteral,
   unsupportedAccessorInObjectLiteral,
-} from "akasha/design/language/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/transform-diagnostics/transform-diagnostics.module.code.ts"
 import { isArrayType } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
 import { transformFunctionLikeDeclaration } from "akasha/design/language/lua-compiler/visit-function/visit-function.module.code.ts"
 import { transformIdentifierWithSymbol } from "akasha/design/language/lua-compiler/visit-identifier/visit-identifier.module.code.ts"

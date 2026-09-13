@@ -5,7 +5,7 @@ import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua
 import {
   unsupportedForTarget,
   unsupportedRightShiftOperator,
-} from "akasha/design/language/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/transform-diagnostics/transform-diagnostics.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import * as ts from "typescript"
 

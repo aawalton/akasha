@@ -2,7 +2,7 @@ import type { TransformationContext } from "akasha/design/language/lua-compiler/
 import {
   invalidMethodCallExtensionUse,
   invalidSpreadInCallExtension,
-} from "akasha/design/language/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/transform-diagnostics/transform-diagnostics.module.code.ts"
 import * as ts from "typescript"
 
 export const ExtensionKind = {

@@ -8,7 +8,7 @@ import type { PlayingSessionState } from "akasha/pages/ui/media/modules/playing-
 import {
   selectTransport,
   type Transport,
-} from "akasha/pages/ui/media/transport-selection/transport-selection.module.code.ts"
+} from "akasha/pages/ui/media/modules/transport-selection/transport-selection.module.code.ts"
 import { useNativeTtsTransport } from "akasha/pages/ui/media/use-native-tts-transport/use-native-tts-transport.module.code.ts"
 import {
   type MediaSrcResolver,

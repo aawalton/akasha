@@ -1,0 +1,26 @@
+import { assertSchemaMatchesPayload } from "akasha/temper/capture-host/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
+import type { TraitResearchCatalogCraftType } from "akasha/temper/capture-shapes/modules/trait-research-catalog/trait-research-catalog.module.code.ts"
+import { z } from "zod"
+
+const traitResearchCatalogTraitSchema = z.object({ name: z.string() }).strict()
+
+const traitResearchCatalogLineSchema = z
+  .object({
+    name: z.string(),
+    traits: z.record(z.coerce.number(), traitResearchCatalogTraitSchema),
+  })
+  .strict()
+
+const traitResearchCatalogCraftTypeSchema = z
+  .object({
+    name: z.string(),
+    lines: z.record(z.coerce.number(), traitResearchCatalogLineSchema),
+  })
+  .strict()
+
+const traitResearchCatalogSchema = z.record(z.coerce.number(), traitResearchCatalogCraftTypeSchema)
+
+assertSchemaMatchesPayload<
+  typeof traitResearchCatalogSchema,
+  Record<number, TraitResearchCatalogCraftType>
+>()

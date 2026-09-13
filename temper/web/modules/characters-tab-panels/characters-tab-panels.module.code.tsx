@@ -24,7 +24,7 @@ import { RecipesProgressPanelCard } from "akasha/temper/web/modules/recipes-prog
 import { ScribingKnowledgeProgressPanelCard } from "akasha/temper/web/modules/scribing-knowledge-progress-panel-card/scribing-knowledge-progress-panel-card.module.code.tsx"
 import { SkillLinesProgressPanelCard } from "akasha/temper/web/modules/skill-lines-progress-panel-card/skill-lines-progress-panel-card.module.code.tsx"
 import { SkillPointsProgressPanelCard } from "akasha/temper/web/modules/skill-points-progress-panel-card/skill-points-progress-panel-card.module.code.tsx"
-import { TraitResearchProgressPanelCard } from "akasha/temper/web/trait-research-progress-panel-card/trait-research-progress-panel-card.module.code.tsx"
+import { TraitResearchProgressPanelCard } from "akasha/temper/web/modules/trait-research-progress-panel-card/trait-research-progress-panel-card.module.code.tsx"
 import { ZoneCompletionProgressPanelCard } from "akasha/temper/web/zone-completion-progress-panel-card/zone-completion-progress-panel-card.module.code.tsx"
 
 interface CharactersTabPanelsProps {

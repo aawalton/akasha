@@ -10,7 +10,7 @@ import { LuaLibFeature } from "akasha/design/language/lua-compiler/modules/luali
 import {
   decoratorInvalidContext,
   incompleteFieldDecoratorWarning,
-} from "akasha/design/language/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/transform-diagnostics/transform-diagnostics.module.code.ts"
 import { isNonNull } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
 import {
   transformMemberExpressionOwnerName,

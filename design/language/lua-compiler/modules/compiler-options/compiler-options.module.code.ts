@@ -1,5 +1,5 @@
-import * as diagnosticFactories from "akasha/design/language/lua-compiler/transpile-diagnostics/transpile-diagnostics.module.code.ts"
-import type { Plugin } from "akasha/design/language/lua-compiler/transpile-plugins/transpile-plugins.module.code.ts"
+import * as diagnosticFactories from "akasha/design/language/lua-compiler/modules/transpile-diagnostics/transpile-diagnostics.module.code.ts"
+import type { Plugin } from "akasha/design/language/lua-compiler/modules/transpile-plugins/transpile-plugins.module.code.ts"
 import type * as ts from "typescript"
 import { JsxEmit } from "typescript"
 

@@ -15,7 +15,7 @@ import { temperUpstreamDataVerify as page } from "akasha/commands/pages/temper/u
 import { addonsDir } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { verifyHousing } from "akasha/temper/upstream-data/modules/housing-upstream-verify/housing-upstream-verify.module.code.ts"
 import { verifyMapData } from "akasha/temper/upstream-data/modules/map-data-upstream-verify/map-data-upstream-verify.module.code.ts"
-import { verifyTreasure } from "akasha/temper/upstream-data/treasure-upstream-verify/treasure-upstream-verify.module.code.ts"
+import { verifyTreasure } from "akasha/temper/upstream-data/modules/treasure-upstream-verify/treasure-upstream-verify.module.code.ts"
 import type {
   Ruling,
   UpstreamLibrary,

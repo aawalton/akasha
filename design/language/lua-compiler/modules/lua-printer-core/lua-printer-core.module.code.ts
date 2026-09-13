@@ -4,8 +4,8 @@ import * as luaCore from "akasha/design/language/lua-compiler/modules/lua-ast-co
 import type * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
 import type { SourceChunk } from "akasha/design/language/lua-compiler/modules/lua-printer-helpers/lua-printer-helpers.module.code.ts"
-import type { EmitHost } from "akasha/design/language/lua-compiler/transpile-emit-host/transpile-emit-host.module.code.ts"
-import { getEmitPath } from "akasha/design/language/lua-compiler/transpile-program-paths/transpile-program-paths.module.code.ts"
+import type { EmitHost } from "akasha/design/language/lua-compiler/modules/transpile-emit-host/transpile-emit-host.module.code.ts"
+import { getEmitPath } from "akasha/design/language/lua-compiler/modules/transpile-program-paths/transpile-program-paths.module.code.ts"
 import {
   intersperse,
   normalizeSlashes,

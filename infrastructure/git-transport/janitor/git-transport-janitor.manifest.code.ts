@@ -4,7 +4,7 @@ import { BUN_RUNTIME_IMAGE } from "akasha/infrastructure/cluster/k8s-types/modul
 import {
   NAMESPACE,
   RESOURCE_LABELS,
-} from "akasha/infrastructure/git-transport/transport-naming/transport-naming.module.code.ts"
+} from "akasha/infrastructure/git-transport/modules/transport-naming/transport-naming.module.code.ts"
 
 const JANITOR_NAME = "git-transport-janitor"
 const REPOSITORIES = "/data/git/repositories"

@@ -1,7 +1,7 @@
 import {
   type MaterializeTranscriptResult,
   materializeLocalTranscript,
-} from "akasha/agents/claude-code/session/transcript-materialize/transcript-materialize.module.code.ts"
+} from "akasha/agents/claude-code/session/modules/transcript-materialize/transcript-materialize.module.code.ts"
 import {
   type LaunchSeatOpts,
   type LaunchSeatResult,

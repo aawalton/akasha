@@ -5,7 +5,7 @@ import {
 } from "akasha/alan/harness/code-editor/data-interfaces/modules/state-reading/state-reading.module.code.ts"
 import { akashaRoot } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
 import { recordObservation } from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
-import { describedAs } from "akasha/code/editor/extension/tree-description/tree-description.module.code.ts"
+import { describedAs } from "akasha/code/editor/extension/modules/tree-description/tree-description.module.code.ts"
 import {
   deletingInitiative,
   deletingIntent,

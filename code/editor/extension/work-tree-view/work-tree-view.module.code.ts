@@ -2,7 +2,7 @@ import { relative } from "node:path"
 import {
   filterTree,
   textMatches,
-} from "akasha/code/editor/extension/tree-filter/tree-filter.module.code.ts"
+} from "akasha/code/editor/extension/modules/tree-filter/tree-filter.module.code.ts"
 import {
   TURN_SCHEME_PATH,
   turnColorIn,

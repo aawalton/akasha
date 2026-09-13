@@ -19,7 +19,7 @@ import * as pageTree from "akasha/code/editor/extension/modules/page-tree-panel/
 import * as seatEnter from "akasha/code/editor/extension/modules/seat-terminal-enter/seat-terminal-enter.module.code.ts"
 import * as statusBar from "akasha/code/editor/extension/modules/status-bar-panel/status-bar-panel.module.code.ts"
 import * as terminalRename from "akasha/code/editor/extension/modules/terminal-renaming/terminal-renaming.module.code.ts"
-import * as transcript from "akasha/code/editor/extension/transcript-panel/transcript-panel.module.code.ts"
+import * as transcript from "akasha/code/editor/extension/modules/transcript-panel/transcript-panel.module.code.ts"
 import { readProcess } from "akasha/code/editor/extension/window-identity/window-identity.module.code.ts"
 import * as workTree from "akasha/code/editor/extension/work-tree-panel/work-tree-panel.module.code.ts"
 import * as vscode from "vscode"

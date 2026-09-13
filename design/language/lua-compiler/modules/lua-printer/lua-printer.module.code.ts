@@ -23,7 +23,7 @@ import {
   loadImportedLualibFeatures,
   loadInlineLualibFeatures,
 } from "akasha/design/language/lua-compiler/modules/lualib-runtime/lualib-runtime.module.code.ts"
-import type { EmitHost } from "akasha/design/language/lua-compiler/transpile-emit-host/transpile-emit-host.module.code.ts"
+import type { EmitHost } from "akasha/design/language/lua-compiler/modules/transpile-emit-host/transpile-emit-host.module.code.ts"
 import { type Mapping, SourceMapGenerator, type SourceNode } from "source-map"
 import type * as ts from "typescript"
 

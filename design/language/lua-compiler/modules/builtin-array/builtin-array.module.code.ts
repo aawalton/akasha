@@ -9,7 +9,7 @@ import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua
 import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
 import { transformLuaLibFunction } from "akasha/design/language/lua-compiler/modules/lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "akasha/design/language/lua-compiler/modules/lualib-features/lualib-features.module.code.ts"
-import { unsupportedProperty } from "akasha/design/language/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+import { unsupportedProperty } from "akasha/design/language/lua-compiler/modules/transform-diagnostics/transform-diagnostics.module.code.ts"
 import {
   expressionResultIsUsed,
   typeAlwaysHasSomeOfFlags,

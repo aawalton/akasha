@@ -1,5 +1,5 @@
 import type { createLuaPrinter } from "akasha/design/language/lua-compiler/modules/lua-printer/lua-printer.module.code.ts"
-import type { createTranspiler } from "akasha/design/language/lua-compiler/transpile-transpiler/transpile-transpiler.module.code.ts"
+import type { createTranspiler } from "akasha/design/language/lua-compiler/modules/transpile-transpiler/transpile-transpiler.module.code.ts"
 
 export const lualibPrinterHolder: { fn: typeof createLuaPrinter | undefined } = {
   fn: undefined,

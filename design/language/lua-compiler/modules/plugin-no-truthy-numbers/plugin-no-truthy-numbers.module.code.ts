@@ -1,4 +1,4 @@
-import type { Plugin } from "akasha/design/language/lua-compiler/transpile-plugins/transpile-plugins.module.code.ts"
+import type { Plugin } from "akasha/design/language/lua-compiler/modules/transpile-plugins/transpile-plugins.module.code.ts"
 import * as ts from "typescript"
 
 type DiagnosticResult = ts.Diagnostic[] | undefined

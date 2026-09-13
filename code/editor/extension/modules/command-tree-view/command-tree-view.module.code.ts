@@ -1,7 +1,7 @@
 import {
   filterTree,
   textMatches,
-} from "akasha/code/editor/extension/tree-filter/tree-filter.module.code.ts"
+} from "akasha/code/editor/extension/modules/tree-filter/tree-filter.module.code.ts"
 import * as vscode from "vscode"
 
 const OPEN_COMMAND = "vscode.open"
