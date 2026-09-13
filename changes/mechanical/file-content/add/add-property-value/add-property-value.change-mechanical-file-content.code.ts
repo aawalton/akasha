@@ -11,6 +11,7 @@ import {
 } from "akasha/changes/modules/literal-splicing/literal-splicing.module.code.ts"
 import { sortedKey } from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
 import {
+  afterFaultIn,
   keyFaultIn,
   keyOf,
   literalIn,
@@ -47,6 +48,8 @@ export function addPropertyValue(world: World, given: AddPropertyValueAsked): Sa
     (each) => ts.isPropertyAssignment(each) && keyOf(each) === given.key
   )
   if (one === undefined || !ts.isPropertyAssignment(one)) {
+    const placed = afterFaultIn(owner, given.after)
+    if (placed !== null) return refusing(placed)
     const put = given.single === true ? `${given.key}: ${said}` : `${given.key}: [${said}]`
     return stating(spliced(given.at, text, withProperty(text, source, owner, put, given.after)))
   }

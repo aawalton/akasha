@@ -164,7 +164,7 @@ test("a page stating no such key gains that key after the property `after` names
   expect(bodyOf(said, () => BODY)).toBe(GAINED_AFTER_SLUG)
 })
 
-test("a key the page gains is written last where `after` names no such property", () => {
+test("an `after` naming no property the page states is refused rather than dropped", () => {
   const said = addPropertyValue(worldOf(BODY), {
     at: AT,
     key: "extendsSlug",
@@ -172,7 +172,8 @@ test("a key the page gains is written last where `after` names no such property"
     after: "definition",
   })
 
-  expect(bodyOf(said, () => BODY)).toBe(GAINED_LAST)
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("`definition` is stated nowhere, so `after` names no place")
 })
 
 test("a key the page gains is written last where no `after` is stated", () => {
