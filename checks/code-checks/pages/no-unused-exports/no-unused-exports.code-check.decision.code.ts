@@ -55,6 +55,10 @@ const GUARD = "change-guard"
 
 const RUN_GUARD = "runGuard"
 
+const SERVICE = "service-workstation"
+
+const RUN_SERVICE = "runService"
+
 const CHECK = "code-check"
 
 const MANIFEST = "manifest"
@@ -223,6 +227,7 @@ function luaNamed(path: string, said: Parted, bodyOf: Bodied): string | null {
 function reachedBeside(said: Parted): ReadonlySet<string> | null {
   if (besideCode(said, COMPUTED)) return new Set([WORK])
   if (besideCode(said, GUARD)) return new Set([RUN_GUARD])
+  if (besideCode(said, SERVICE)) return new Set([RUN_SERVICE])
   if (besideCode(said, MANIFEST)) return new Set([BUILD_ENV])
   if (besideCode(said, PERFORMANCE)) return new Set([MEASURED])
   if (besideCode(said, MODEL_TEST)) return new Set([ASKING, KEEPING, exportedAs(said.slug)])

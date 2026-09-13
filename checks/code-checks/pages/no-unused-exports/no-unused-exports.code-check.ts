@@ -138,6 +138,10 @@ export const noUnusedExports = {
     },
     {
       invariantKind: "departure",
+      statement: "The `runService` a service's running code exports is reached by its runner.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The name made from a check's slug is reached by the runner running that check.",
     },
     {

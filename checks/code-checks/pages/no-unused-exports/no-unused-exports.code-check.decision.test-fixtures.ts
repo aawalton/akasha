@@ -45,6 +45,10 @@ export const GUARD_AT = "akasha/held.change-guard.code.ts"
 
 export const GUARD_TEXT = "export const runGuard = (): number => 1\n\nexport const spare = 2\n"
 
+export const SERVICE_AT = "akasha/held.service-workstation.running.code.ts"
+
+export const SERVICE_TEXT = "export const runService = (): number => 1\n\nexport const spare = 2\n"
+
 export const CHECK_AT = "akasha/held-thing.code-check.check.code.ts"
 
 export const CHECK_TEXT = "export const heldThing = (): number => 1\n\nexport const spare = 2\n"
@@ -112,6 +116,7 @@ export function rooted(): string {
   typed(root, "command", "domain")
   typed(root, "computed-property", "domain")
   typed(root, "change-guard", "domain")
+  typed(root, "service-workstation", "domain")
   typed(root, "code-check", "domain")
   typed(root, "manifest", "domain")
   typed(root, "performance", "domain")

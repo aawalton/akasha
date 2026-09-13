@@ -44,6 +44,8 @@ import {
   readerText,
   reading,
   rooted,
+  SERVICE_AT,
+  SERVICE_TEXT,
   SPELLED,
   scratch,
   TUNNEL_AT,
@@ -196,6 +198,15 @@ test("the value a page's uncommitted body holds is spared and another beside it 
 
 test("the `runGuard` a change guard's code exports is spared", () => {
   const said = judging(landing(rooted(), { [GUARD_AT]: bytesOf(GUARD_TEXT) })).map(
+    (one) => one.reason
+  )
+
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`spare`")
+})
+
+test("the `runService` a service's running code exports is spared", () => {
+  const said = judging(landing(rooted(), { [SERVICE_AT]: bytesOf(SERVICE_TEXT) })).map(
     (one) => one.reason
   )
 
