@@ -26,8 +26,6 @@ export const PIN_TEMPLATE = "ZO_MapPin"
 
 export const PIN_NAME_PREFIX = "Pin"
 
-export const DEFAULT_ANGLE = 1
-
 export const UPDATE_THROTTLE_MS = 20
 
 export const COEFFICIENTS: readonly number[] = [

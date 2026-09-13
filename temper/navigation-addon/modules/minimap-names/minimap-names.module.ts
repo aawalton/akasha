@@ -4,6 +4,6 @@ export const minimapNames = {
   id: "01a06269-296d-783d-b75d-770ea87fa67f",
   type: "module",
   slug: "minimap-names",
-  definition: "what the minimap calls itself, where it saves and which map mode it owns",
+  definition: "where the minimap saves and which map mode it owns",
   code: "ts",
 } as const satisfies Module

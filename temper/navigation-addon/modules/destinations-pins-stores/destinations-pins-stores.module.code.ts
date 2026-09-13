@@ -90,10 +90,3 @@ export function rowNumber(row: (number | string)[], oneBasedIndex: number): numb
 export function rowString(row: (number | string)[], oneBasedIndex: number): string {
   return asString(row[oneBasedIndex - 1])
 }
-
-export function rowValue(
-  row: (number | string)[],
-  oneBasedIndex: number
-): number | string | undefined {
-  return row[oneBasedIndex - 1]
-}
