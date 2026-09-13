@@ -45,6 +45,13 @@ export const CHECK_AT = "akasha/held-thing.code-check.check.code.ts"
 
 export const CHECK_TEXT = "export const heldThing = (): number => 1\n\nexport const spare = 2\n"
 
+export const GENERATOR_AT = "akasha/held.page-type.type-generator.ts"
+
+export const GENERATOR_TEXT =
+  "export const generateTypes = (): number => 1\n" +
+  "export const couldTurn = (): number => 2\n\n" +
+  "export const spare = 3\n"
+
 export const MODEL_TEST_AT = "akasha/held-thing.model-test.code.ts"
 
 export const MODEL_TEST_TEXT =
@@ -105,6 +112,7 @@ export function rooted(): string {
   typed(root, "manifest", "domain")
   typed(root, "performance", "domain")
   typed(root, "model-test", "domain")
+  typed(root, "page-type", "domain")
   noImportersFiled(root)
   return root
 }

@@ -14,6 +14,8 @@ import {
   COMMAND_AT,
   COMMAND_TEXT,
   EVERY_TEXT,
+  GENERATOR_AT,
+  GENERATOR_TEXT,
   GUARD_AT,
   GUARD_TEXT,
   HELD_TEXT,
@@ -243,6 +245,15 @@ test("the `measured` a performance's code exports is spared and another beside i
 
 test("the three names a model test's code is reached by are spared and another is judged", () => {
   const said = judging(landing(rooted(), { [MODEL_TEST_AT]: bytesOf(MODEL_TEST_TEXT) })).map(
+    (one) => one.reason
+  )
+
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`spare`")
+})
+
+test("the names a type generator is loaded by are spared and another beside them is judged", () => {
+  const said = judging(landing(rooted(), { [GENERATOR_AT]: bytesOf(GENERATOR_TEXT) })).map(
     (one) => one.reason
   )
 

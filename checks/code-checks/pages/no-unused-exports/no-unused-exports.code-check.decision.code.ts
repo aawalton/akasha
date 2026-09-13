@@ -69,6 +69,12 @@ const ASKING = "asking"
 
 const KEEPING = "keeping"
 
+const PAGE_TYPE = "page-type"
+
+const GENERATOR = "type-generator"
+
+const GENERATED: ReadonlySet<string> = new Set(["couldTurn", "generateTypes"])
+
 const ROOT_ROUTE = "root.tsx"
 
 const APP_LAYOUT = "_app-layout.tsx"
@@ -190,6 +196,10 @@ function besideCode(said: Parted, pageType: string): boolean {
   return said.pageType === pageType && said.sections.length > 0
 }
 
+function besideProperty(said: Parted, pageType: string, property: string): boolean {
+  return said.pageType === pageType && said.sections.length === 1 && said.sections[0] === property
+}
+
 function fixedFor(path: string, said: Parted | null): ReadonlySet<string> | null {
   if (said !== null && besideCode(said, ROUTE)) return ROUTED
   return BY_FILE.get(basename(path)) ?? null
@@ -211,6 +221,7 @@ function reachedBeside(said: Parted): ReadonlySet<string> | null {
   if (besideCode(said, MANIFEST)) return new Set([BUILD_ENV])
   if (besideCode(said, PERFORMANCE)) return new Set([MEASURED])
   if (besideCode(said, MODEL_TEST)) return new Set([ASKING, KEEPING, exportedAs(said.slug)])
+  if (besideProperty(said, PAGE_TYPE, GENERATOR)) return GENERATED
   if (besideCode(said, COMMAND) || besideCode(said, CHECK)) return new Set([exportedAs(said.slug)])
   return null
 }

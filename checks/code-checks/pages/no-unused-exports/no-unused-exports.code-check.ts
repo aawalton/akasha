@@ -165,6 +165,11 @@ export const noUnusedExports = {
       statement:
         "The name made from a model test's slug is reached by the model check compiling it.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The `generateTypes` and `couldTurn` a type generator exports are reached by landing.",
+    },
   ],
   check: { maxCpuSeconds: 30 },
   audit: { maxCpuSeconds: 120 },
