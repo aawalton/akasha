@@ -6,6 +6,7 @@ export const inventoryPlanInputs = {
   slug: "inventory-plan-inputs",
   definition: "everything a rule walk needs, gathered from the two saved variables files",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -34,6 +35,11 @@ export const inventoryPlanInputs = {
     {
       invariantKind: "departure",
       statement: "The item rules the addon compiled are gathered beside the ordered rules.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The skill line ranks and the curse state a character captured reach the rules a plan runs.",
     },
   ],
 } as const satisfies Module

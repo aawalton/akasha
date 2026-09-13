@@ -17,6 +17,7 @@ import type { ClassifiedInventoryItem } from "akasha/temper/items-rules-core/mod
 import type { ItemRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { RuleMatcherContext } from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { luaStringsOrEmpty } from "akasha/temper/saved-variables/modules/lua-array/lua-array.module.code.ts"
+import { skillLines } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 
 export const DEFAULT_INVENTORY_PATH = savedVarsFile("TemperInventory.lua")
 export const DEFAULT_CHARACTERS_PATH = savedVarsFile("TemperCharacters.lua")
@@ -101,7 +102,25 @@ export function buildMatcherContext(
     openCooldowns: compileOpenCooldowns(db),
     transmuteCrystalCap: db.transmuteCrystalCap,
     transmuteCrystalAmount: db.transmuteCrystalAmount,
+    getCharacterSkillLineRanks: (charId, skillLineId) =>
+      skillLineRanksOf(charactersById, charId, skillLineId),
+    getCharacterCurseState: (charId) => charactersById.get(charId)?.curseState,
   }
+}
+
+function skillLineRanksOf(
+  charactersById: ReadonlyMap<string, CharacterKnowledge>,
+  charId: string,
+  skillLineId: string
+): { readonly currentRank: number; readonly maxRank: number } | undefined {
+  if (!skillLines.has(skillLineId)) return undefined
+  const template = skillLines.data[skillLineId]
+  if (template.esoSkillLineId <= 0) return undefined
+  const currentRank = charactersById
+    .get(charId)
+    ?.skillLineRanksByEsoLineId.get(template.esoSkillLineId)
+  if (currentRank === undefined) return undefined
+  return { currentRank, maxRank: template.maxRank }
 }
 
 function compileCraftingLevels(db: InventoryDatabase): Map<string, Map<number, number>> {
