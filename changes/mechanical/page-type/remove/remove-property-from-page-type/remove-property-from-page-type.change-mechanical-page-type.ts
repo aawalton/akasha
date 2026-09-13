@@ -9,6 +9,7 @@ export const removePropertyFromPageType = {
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
   definition: "one page property taken off one page type and out of that page type's parts",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
