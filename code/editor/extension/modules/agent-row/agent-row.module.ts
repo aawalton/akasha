@@ -9,11 +9,11 @@ export const agentRow = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A row is a seat or a subagent.",
+      statement: "A row is the top row, a seat, or a subagent.",
     },
     {
       invariantKind: "departure",
-      statement: "A row's children are rows of either kind.",
+      statement: "A row's children are rows of any kind.",
     },
     {
       invariantKind: "departure",

@@ -47,6 +47,18 @@ export const agentTreeDrawing = {
     },
     {
       invariantKind: "departure",
+      statement: "The top row has `root` as its context value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The top row's tooltip is the top row's own name and nothing else.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The top row takes no decoration and opens nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A click on a seat brings the terminal that seat is working in forward.",
     },
     {

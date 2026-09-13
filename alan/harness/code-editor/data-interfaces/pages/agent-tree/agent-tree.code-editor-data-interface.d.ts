@@ -1,5 +1,5 @@
 declare type AgentTreeRow = TreeRow & {
-  readonly kind: "seat" | "subagent"
+  readonly kind: "root" | "seat" | "subagent"
   readonly live: boolean
   readonly place: "interactive" | "headless" | null
   readonly state: string | null

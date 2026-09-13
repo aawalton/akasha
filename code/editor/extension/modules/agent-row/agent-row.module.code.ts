@@ -1,6 +1,6 @@
 import type { SeatMode } from "akasha/code/editor/extension/modules/seat-mode/seat-mode.module.code.ts"
 
-export type AgentKind = "seat" | "subagent"
+export type AgentKind = "root" | "seat" | "subagent"
 
 export interface AgentNode {
   readonly id: string

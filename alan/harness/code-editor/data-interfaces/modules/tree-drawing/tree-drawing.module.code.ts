@@ -189,7 +189,7 @@ export function agentTreeLine(root: string): string {
   for (const page of answer.subagents) {
     bySubagent.set(subagentKey(page.seat, page.own), join(root, page.at))
   }
-  const roots = assembleForest(
+  const under = assembleForest(
     rows,
     new Set(rows.filter((row) => row.live).map((row) => row.id)),
     subagentsBySeat(answer.subagents, rows),
@@ -198,10 +198,24 @@ export function agentTreeLine(root: string): string {
     root,
     { bySubagent }
   )
+  const roots: readonly AgentTreeRow[] = [
+    {
+      kind: "root",
+      key: "root",
+      label: "agents",
+      at: null,
+      color: null,
+      live: false,
+      place: null,
+      state: null,
+      waitingOn: null,
+      children: under.map((node) => agentRow(node as AgentNodeIn)),
+    },
+  ]
   return JSON.stringify({
-    roots: roots.map((node) => agentRow(node as AgentNodeIn)),
+    roots,
     alanPrincipalCount: rows.filter((row) => row.principal === ALAN).length,
-    runningCount: countRunning(roots),
+    runningCount: countRunning(under),
     unreadSeats: 0,
   } satisfies AgentTreeState)
 }

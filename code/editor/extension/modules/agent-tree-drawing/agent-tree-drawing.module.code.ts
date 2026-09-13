@@ -40,14 +40,16 @@ function buildTreeItem(element: AgentNode, filtering: boolean): vscode.TreeItem 
   item.count = element.children.length === 0 ? undefined : element.children.length
   item.iconPath = new vscode.ThemeIcon("blank")
   item.tooltip = (
-    element.kind === "subagent"
-      ? [element.name, element.at ?? "akasha holds no page for this subagent"]
-      : [
-          element.name,
-          `${element.live ? "Running" : "Stopped"}, ${element.place ?? "headless"}`,
-          turnStateSaid(element.state, element.waitingOn),
-          element.at ?? "akasha holds no page for this seat",
-        ]
+    element.kind === "root"
+      ? [element.name]
+      : element.kind === "subagent"
+        ? [element.name, element.at ?? "akasha holds no page for this subagent"]
+        : [
+            element.name,
+            `${element.live ? "Running" : "Stopped"}, ${element.place ?? "headless"}`,
+            turnStateSaid(element.state, element.waitingOn),
+            element.at ?? "akasha holds no page for this seat",
+          ]
   )
     .filter((line): line is string => line !== undefined)
     .join("\n")
@@ -59,7 +61,7 @@ function buildTreeItem(element: AgentNode, filtering: boolean): vscode.TreeItem 
           ? `/subagent/${element.id}`
           : `/subagent/${element.color}/${element.id}`,
     })
-  } else if (!element.live) {
+  } else if (element.kind === "seat" && !element.live) {
     item.resourceUri = vscode.Uri.from({
       scheme: AGENT_SCHEME,
       path:
@@ -67,16 +69,16 @@ function buildTreeItem(element: AgentNode, filtering: boolean): vscode.TreeItem 
           ? `/stopped/${element.id}`
           : `/stopped/${element.color}/${element.id}`,
     })
-  } else if (element.color !== undefined) {
+  } else if (element.kind === "seat" && element.color !== undefined) {
     item.resourceUri = vscode.Uri.from({
       scheme: AGENT_SCHEME,
       path: `/turn/${element.color}/${element.id}`,
     })
   }
   item.contextValue =
-    element.kind === "subagent"
-      ? "subagent"
-      : seatContextValue(element.live, element.place ?? "headless")
+    element.kind === "seat"
+      ? seatContextValue(element.live, element.place ?? "headless")
+      : element.kind
   if (element.kind === "seat") {
     const clicked: SeatClick = { id: element.id, name: element.name }
     item.command = {
