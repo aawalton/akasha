@@ -14,6 +14,7 @@ export const musicCatalog = {
     "module/musicbrainz-map",
     "module/musicbrainz-schema",
     "module/catalogue-slug",
+    "module/release-syncing",
     "page-type/artist",
     "page-type/artist-collection",
     "page-type/release",

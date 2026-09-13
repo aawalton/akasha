@@ -1,0 +1,301 @@
+import {
+  identitiesWith,
+  idFrom,
+} from "akasha/alan/collections/externals/modules/external-identity-reading/external-identity-reading.module.code.ts"
+import {
+  type CatalogueNames,
+  catalogueNamesFrom,
+  catalogueSlugFor,
+} from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
+import {
+  type Album,
+  type AlbumWithTracks,
+  albumMinutes,
+  getAlbum,
+  getArtistAlbums,
+} from "akasha/alan/music/spotify/modules/releases/spotify-releases.module.code.ts"
+import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import {
+  landedMechanically,
+  type runMechanicalChange,
+} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import {
+  textIn,
+  type Value,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  composedFor,
+  sourceFor,
+} from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
+import type { Source } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
+import { recordingRun } from "akasha/story/wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"
+import { todayYYYYMMDD } from "akasha/utils/sync/modules/today/today.module.code.ts"
+
+export const SOURCE = "spotify"
+
+export const WRITE = "change-mechanical/add-file-of-any-kind"
+
+const ARTIST = "artist"
+
+const RELEASE = "release"
+
+const FOLLOWING = "following"
+
+const MINUTES = "minutes"
+
+const NOT_STARTED = "not-started"
+
+const DAY = "day"
+
+const IDENTITY = "externalIdentity"
+
+const SAID = "[spotify-sync]"
+
+export type Landing = (
+  done: string[],
+  root: string,
+  changes: readonly Asking[],
+  message: string
+) => ReturnType<typeof runMechanicalChange>
+
+export type Reach = {
+  readonly getArtistAlbums: (artistId: string) => Promise<readonly Album[]>
+  readonly getAlbum: (albumId: string) => Promise<AlbumWithTracks>
+}
+
+export const REACHING: Reach = { getArtistAlbums, getAlbum }
+
+export type Counts = {
+  readonly created: number
+  readonly updated: number
+  readonly skipped: number
+  readonly failed: number
+}
+
+export type Followed = {
+  readonly slug: string
+  readonly title: string
+  readonly artistId: string
+  readonly was: Value
+}
+
+export type Filed = {
+  readonly names: CatalogueNames
+  readonly held: ReadonlyMap<string, Value>
+}
+
+export type Asked = {
+  readonly album: Album
+  readonly slug: string
+  readonly was: Value
+}
+
+export type Taken = {
+  readonly only: string | null
+  readonly limit: number | null
+  readonly dryRun: boolean
+}
+
+export function taken(argv: readonly string[]): Taken {
+  const named = argv.indexOf("--only")
+  const capped = argv.indexOf("--limit")
+  const said = capped === -1 ? null : Number(argv[capped + 1])
+  return {
+    only: named === -1 ? null : (argv[named + 1] ?? null),
+    limit: said === null || !Number.isInteger(said) || said < 1 ? null : said,
+    dryRun: argv.includes("--dry-run"),
+  }
+}
+
+export function followedIn(root: string): readonly Followed[] {
+  const rows: Followed[] = []
+  for (const one of valuesOfType(root, ARTIST)) {
+    if (textIn(one.value, "status") !== FOLLOWING) continue
+    const slug = textIn(one.value, "slug")
+    const artistId = idFrom(one.value[IDENTITY], SOURCE)
+    if (slug === null || artistId === null) continue
+    rows.push({ slug, title: textIn(one.value, "title") ?? slug, artistId, was: one.value })
+  }
+  return [...rows].sort((a, b) => (a.slug < b.slug ? -1 : a.slug > b.slug ? 1 : 0))
+}
+
+export function filedIn(root: string): Filed {
+  const rows: { readonly slug: string; readonly externalId: string | null }[] = []
+  const held = new Map<string, Value>()
+  for (const one of valuesOfType(root, RELEASE)) {
+    const slug = textIn(one.value, "slug")
+    if (slug === null) continue
+    rows.push({ slug, externalId: idFrom(one.value[IDENTITY], SOURCE) })
+    held.set(slug, one.value)
+  }
+  return { names: catalogueNamesFrom(rows), held }
+}
+
+export function unfiledIn(
+  filed: Filed,
+  artistSlug: string,
+  albums: readonly Album[],
+  room: number | null
+): { readonly asked: readonly Asked[]; readonly skipped: number } {
+  const asked: Asked[] = []
+  let skipped = 0
+  for (const album of albums) {
+    const slug = catalogueSlugFor(filed.names, artistSlug, album.name, album.id)
+    const was = filed.held.get(slug)
+    if (was !== undefined && idFrom(was[IDENTITY], SOURCE) === album.id) {
+      skipped += 1
+      continue
+    }
+    if (room !== null && asked.length >= room) break
+    asked.push({ album, slug, was: was ?? {} })
+  }
+  return { asked, skipped }
+}
+
+export function publishedDayOf(album: Album): string | null {
+  return album.release_date_precision === DAY ? album.release_date : null
+}
+
+export function releaseValues(args: {
+  readonly artistSlug: string
+  readonly slug: string
+  readonly album: AlbumWithTracks
+  readonly was: Value
+  readonly today: string
+}): Value {
+  const day = publishedDayOf(args.album)
+  return {
+    ...args.was,
+    ...(args.was["status"] === undefined ? { status: NOT_STARTED } : {}),
+    ...(args.was["ownProgress"] === undefined ? { ownProgress: 0 } : {}),
+    ...(day === null ? {} : { publishedAt: day }),
+    title: args.album.name,
+    partOfCollections: [args.artistSlug],
+    position: 0,
+    ownLength: albumMinutes(args.album),
+    unit: MINUTES,
+    externalIdentity: identitiesWith(args.was[IDENTITY], {
+      source: SOURCE,
+      externalId: args.album.id,
+      externalLink: args.album.external_urls.spotify,
+      lastSyncedAt: args.today,
+    }),
+    type: RELEASE,
+    slug: args.slug,
+  }
+}
+
+export function artistValues(one: Followed, today: string): Value {
+  return {
+    ...one.was,
+    externalIdentity: identitiesWith(one.was[IDENTITY], {
+      source: SOURCE,
+      externalId: one.artistId,
+      externalLink: `https://open.spotify.com/artist/${one.artistId}`,
+      lastSyncedAt: today,
+    }),
+    type: ARTIST,
+    slug: one.slug,
+  }
+}
+
+function composedEdit(
+  root: string,
+  pageTypeSlug: string,
+  slug: string,
+  values: Value,
+  source: Source
+): Asking {
+  const composed = composedFor(root, { pageTypeSlug, slug, values }, source)
+  if ("refused" in composed) {
+    throw new Error(`\`${pageTypeSlug}/${slug}\` went uncomposed: ${composed.refused}`)
+  }
+  return { at: WRITE, given: { at: composed.put.path, body: composed.put.content } }
+}
+
+export async function syncReleases(
+  root: string,
+  held: Taken,
+  reach: Reach,
+  landing: Landing | null,
+  today: string
+): Promise<Counts> {
+  const every = followedIn(root)
+  if (every.length === 0) {
+    throw new Error(
+      `no \`${ARTIST}\` is both followed and named by \`${SOURCE}\`, which no catalogue of Alan's is true of`
+    )
+  }
+  const sweeping = held.only === null ? every : every.filter((one) => one.slug === held.only)
+  if (sweeping.length === 0) {
+    throw new Error(`\`--only\` names \`${held.only}\`, and no followed artist is filed under it`)
+  }
+  const filed = filedIn(root)
+  const source = sourceFor(root)
+  let created = 0
+  let updated = 0
+  let skipped = 0
+  let failed = 0
+  for (const one of sweeping) {
+    const room = held.limit === null ? null : held.limit - created
+    if (room !== null && room <= 0) break
+    try {
+      const albums = await reach.getArtistAlbums(one.artistId)
+      const unfiled = unfiledIn(filed, one.slug, albums, room)
+      const changes: Asking[] = [
+        composedEdit(root, ARTIST, one.slug, artistValues(one, today), source),
+      ]
+      for (const asked of unfiled.asked) {
+        const whole = await reach.getAlbum(asked.album.id)
+        changes.push(
+          composedEdit(
+            root,
+            RELEASE,
+            asked.slug,
+            releaseValues({
+              artistSlug: one.slug,
+              slug: asked.slug,
+              album: whole,
+              was: asked.was,
+              today,
+            }),
+            source
+          )
+        )
+      }
+      if (landing !== null) {
+        const landed = await landing(
+          [],
+          root,
+          changes,
+          `file ${unfiled.asked.length} spotify release(s) for ${one.title}`
+        )
+        const wrong = "refusals" in landed ? landed.refusals : landed.wrong
+        if (wrong.length > 0) throw new Error(wrong.join("; "))
+      }
+      created += unfiled.asked.length
+      skipped += unfiled.skipped
+      updated += 1
+    } catch (thrown) {
+      failed += 1
+      console.error(`${SAID} ${one.slug}:`, thrown instanceof Error ? thrown.message : thrown)
+    }
+  }
+  return { created, updated, skipped, failed }
+}
+
+export async function main(argv: readonly string[]): Promise<number> {
+  const root = akashaRoot()
+  const held = taken(argv)
+  const running = (): Promise<Counts> =>
+    syncReleases(root, held, REACHING, held.dryRun ? null : landedMechanically, todayYYYYMMDD())
+  const counts = held.dryRun ? await running() : await recordingRun(SOURCE, running)
+  console.log(
+    `${SAID} created ${counts.created} · swept ${counts.updated} · already filed ${counts.skipped} · failed ${counts.failed}`
+  )
+  return counts.failed > 0 ? 1 : 0
+}
+
+if (import.meta.main) process.exit(await main(process.argv.slice(2)))
