@@ -60,11 +60,25 @@ export const temperInventoryPlan = {
     },
     {
       invariantKind: "gap",
+      statement: "The holdings are read from a stored snapshot rather than from the workstation.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An item a rule could not decide is told apart from an item no rule reaches.",
     },
     {
-      invariantKind: "gap",
-      statement: "The holdings are read from a stored snapshot rather than from the workstation.",
+      invariantKind: "departure",
+      statement:
+        "An item is left undecided where a rule reaching it before the rule taking it could not be decided.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An item left undecided is named with every signal the rules were missing over that item.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run finding no undecided item says no item a rule reaches is left undecided.",
     },
   ],
   name: "plan",
