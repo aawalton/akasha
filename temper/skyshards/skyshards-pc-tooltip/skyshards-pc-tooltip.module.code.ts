@@ -4,7 +4,7 @@ import {
   SKYSHARDS_PINDATA_LOCY,
   SKYSHARDS_PINDATA_MOREINFO,
   SKYSHARDS_PINDATA_ZONEGUIDEINDEX,
-} from "akasha/temper/skyshards/skyshards-constants/skyshards-constants.module.code.ts"
+} from "akasha/temper/skyshards/modules/skyshards-constants/skyshards-constants.module.code.ts"
 import {
   field,
   getSkyshardIdByCriteria,

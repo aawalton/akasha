@@ -7,7 +7,7 @@ import {
   SKYSHARDS_PINDATA_MOREINFO,
   SKYSHARDS_PINDATA_ON_CITY_MAP,
   SKYSHARDS_PINDATA_UNDER_GROUND,
-} from "akasha/temper/skyshards/skyshards-constants/skyshards-constants.module.code.ts"
+} from "akasha/temper/skyshards/modules/skyshards-constants/skyshards-constants.module.code.ts"
 import { shouldDisplaySkyshards } from "akasha/temper/skyshards/skyshards-pc-immersive/skyshards-pc-immersive.module.code.ts"
 import {
   field,

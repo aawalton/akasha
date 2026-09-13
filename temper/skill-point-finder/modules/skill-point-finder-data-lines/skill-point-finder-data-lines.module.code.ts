@@ -3,18 +3,18 @@ import {
   LIST_DATA_TYPE,
   LIST_SEPARATOR_TYPE,
 } from "akasha/temper/skill-point-finder/modules/skill-point-finder-constants/skill-point-finder-constants.module.code.ts"
-import { setupData } from "akasha/temper/skill-point-finder/skill-point-finder-points/skill-point-finder-points.module.code.ts"
+import { setupData } from "akasha/temper/skill-point-finder/modules/skill-point-finder-points/skill-point-finder-points.module.code.ts"
 import {
   requireGui,
   requireOptions,
   STATE,
-} from "akasha/temper/skill-point-finder/skill-point-finder-state/skill-point-finder-state.module.code.ts"
+} from "akasha/temper/skill-point-finder/modules/skill-point-finder-state/skill-point-finder-state.module.code.ts"
 import {
   getTooltipCharacterTotal,
   getTooltipGDTotal,
   getTooltipPDTotal,
   getTooltipZoneTotal,
-} from "akasha/temper/skill-point-finder/skill-point-finder-tooltips/skill-point-finder-tooltips.module.code.ts"
+} from "akasha/temper/skill-point-finder/modules/skill-point-finder-tooltips/skill-point-finder-tooltips.module.code.ts"
 
 export interface ListLine {
   header?: boolean

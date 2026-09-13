@@ -1,5 +1,5 @@
-import { alterPointsDisplay } from "akasha/temper/skills-panel/skills-panel-points/skills-panel-points.module.code.ts"
-import { getAchievementIDs } from "akasha/temper/skyshards/skyshards-data-accessors/skyshards-data-accessors.module.code.ts"
+import { alterPointsDisplay } from "akasha/temper/skills-panel/modules/skills-panel-points/skills-panel-points.module.code.ts"
+import { getAchievementIDs } from "akasha/temper/skyshards/modules/skyshards-data-accessors/skyshards-data-accessors.module.code.ts"
 import { SKILL_POINT_TOTAL } from "akasha/temper/skyshards/skyshards-skill-point-total/skyshards-skill-point-total.module.code.ts"
 
 const GAMEPAD_SKYSHARD_SKILLSPANEL_FORMAT_DETAILED = "|cffffff<<1>>/<<2>>|r"

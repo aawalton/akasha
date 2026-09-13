@@ -5,7 +5,7 @@ import {
   PINS_COMPASS,
   PINS_UNKNOWN,
   SAVED_VARIABLES_NAME,
-} from "akasha/temper/skyshards/skyshards-constants/skyshards-constants.module.code.ts"
+} from "akasha/temper/skyshards/modules/skyshards-constants/skyshards-constants.module.code.ts"
 import { registerCompassPins } from "akasha/temper/skyshards/skyshards-pc-compass/skyshards-pc-compass.module.code.ts"
 import {
   buildMapPinLayouts,

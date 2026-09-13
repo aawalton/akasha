@@ -4,8 +4,8 @@ import {
   SKYSHARDS_PINDATA_LOCX,
   SKYSHARDS_PINDATA_LOCY,
   SKYSHARDS_PINDATA_ZONEGUIDEINDEX,
-} from "akasha/temper/skyshards/skyshards-constants/skyshards-constants.module.code.ts"
-import { getLocalData } from "akasha/temper/skyshards/skyshards-data-accessors/skyshards-data-accessors.module.code.ts"
+} from "akasha/temper/skyshards/modules/skyshards-constants/skyshards-constants.module.code.ts"
+import { getLocalData } from "akasha/temper/skyshards/modules/skyshards-data-accessors/skyshards-data-accessors.module.code.ts"
 import type { SkyshardPin } from "akasha/temper/skyshards/skyshards-types/skyshards-types.module.code.ts"
 
 export function field(this: void, pin: SkyshardPin, index: number): number {

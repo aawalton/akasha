@@ -56,7 +56,7 @@ import {
   initializeSavedVariables,
   pruneDeletedCharacters,
 } from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
-import { initializeSkillPointFinder } from "akasha/temper/skill-point-finder/skill-point-finder-init/skill-point-finder-init.module.code.ts"
+import { initializeSkillPointFinder } from "akasha/temper/skill-point-finder/modules/skill-point-finder-init/skill-point-finder-init.module.code.ts"
 
 const FIRST_READ_DELAY_MS = 3000
 

@@ -35,7 +35,7 @@ import {
   type SignatureScriptId,
   signatureScripts,
 } from "akasha/temper/skill-kinds/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
-import type { PendingScriptEdits } from "akasha/temper/web/skills-types/skills-types.module.code.ts"
+import type { PendingScriptEdits } from "akasha/temper/web/modules/skills-types/skills-types.module.code.ts"
 import { useMemo } from "react"
 
 interface ScriptEditDialogProps {

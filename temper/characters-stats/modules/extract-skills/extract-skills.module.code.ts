@@ -2,8 +2,8 @@ import { skills } from "akasha/temper/character-skills/modules/character-skills/
 import { createScribedSkillSource } from "akasha/temper/character-skills/modules/scribed-skill-source/scribed-skill-source.module.code.ts"
 import type { PipelineStage } from "akasha/temper/characters-stats/modules/pipeline-types/pipeline-types.module.code.ts"
 import type { Effect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
-import type { SkillSource } from "akasha/temper/formula-framework/skill-source/skill-source.module.code.ts"
-import { skillSlots } from "akasha/temper/skill-kinds/skill-slots/skill-slots.module.code.ts"
+import type { SkillSource } from "akasha/temper/formula-framework/modules/skill-source/skill-source.module.code.ts"
+import { skillSlots } from "akasha/temper/skill-kinds/modules/skill-slots/skill-slots.module.code.ts"
 
 export const extractSkills: PipelineStage = (build, context) => {
   const sources: SkillSource[] = []

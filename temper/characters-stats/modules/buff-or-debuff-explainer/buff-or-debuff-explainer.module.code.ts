@@ -12,7 +12,7 @@ import {
   type MetricEffect,
 } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 import type { EffectSource } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
-import type { SkillSource } from "akasha/temper/formula-framework/skill-source/skill-source.module.code.ts"
+import type { SkillSource } from "akasha/temper/formula-framework/modules/skill-source/skill-source.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 function isSkillSource(source: EffectSource): source is SkillSource {

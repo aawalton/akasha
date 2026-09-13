@@ -10,7 +10,7 @@ import type { CharacterMetadata } from "akasha/temper/web/modules/character-cont
 import { CharacterPanel } from "akasha/temper/web/modules/character-panel/character-panel.module.code.tsx"
 import { EquipmentPanel } from "akasha/temper/web/modules/equipment-panel/equipment-panel.module.code.tsx"
 import { GeneralPanel } from "akasha/temper/web/modules/general-panel/general-panel.module.code.tsx"
-import { SkillsPanel } from "akasha/temper/web/skills-panel/skills-panel.module.code.tsx"
+import { SkillsPanel } from "akasha/temper/web/modules/skills-panel/skills-panel.module.code.tsx"
 
 interface EditorTabPanelsProps {
   build: CharacterState

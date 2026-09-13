@@ -18,7 +18,7 @@ import {
 import {
   type SkillSlotId,
   skillSlots,
-} from "akasha/temper/skill-kinds/skill-slots/skill-slots.module.code.ts"
+} from "akasha/temper/skill-kinds/modules/skill-slots/skill-slots.module.code.ts"
 import {
   getSkillLineIdsForClass,
   type SkillLineId,

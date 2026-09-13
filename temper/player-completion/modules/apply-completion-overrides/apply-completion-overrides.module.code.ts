@@ -3,10 +3,10 @@ import {
   emptySkillPointProgress,
 } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
 import type { CompletionOverride } from "akasha/temper/player-completion/modules/completion-override/completion-override.module.code.ts"
-import { SKILL_POINT_GENERAL_SOURCES } from "akasha/temper/player-completion/skill-point-general-sources/skill-point-general-sources.module.code.ts"
-import { SKILL_POINT_GROUP_DUNGEON_SOURCES } from "akasha/temper/player-completion/skill-point-group-dungeons/skill-point-group-dungeons.module.code.ts"
-import { SKILL_POINT_PUBLIC_DUNGEON_SOURCES } from "akasha/temper/player-completion/skill-point-public-dungeons/skill-point-public-dungeons.module.code.ts"
-import { SKILL_POINT_ZONE_SOURCES } from "akasha/temper/player-completion/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
+import { SKILL_POINT_GENERAL_SOURCES } from "akasha/temper/player-completion/modules/skill-point-general-sources/skill-point-general-sources.module.code.ts"
+import { SKILL_POINT_GROUP_DUNGEON_SOURCES } from "akasha/temper/player-completion/modules/skill-point-group-dungeons/skill-point-group-dungeons.module.code.ts"
+import { SKILL_POINT_PUBLIC_DUNGEON_SOURCES } from "akasha/temper/player-completion/modules/skill-point-public-dungeons/skill-point-public-dungeons.module.code.ts"
+import { SKILL_POINT_ZONE_SOURCES } from "akasha/temper/player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
 
 type SkillPointCompletion = Pick<CharacterCompletion, "skillPoints">
 

@@ -2,12 +2,12 @@ import { updateDataLines } from "akasha/temper/skill-point-finder/modules/skill-
 import {
   calculateTotalPoints,
   setupData,
-} from "akasha/temper/skill-point-finder/skill-point-finder-points/skill-point-finder-points.module.code.ts"
+} from "akasha/temper/skill-point-finder/modules/skill-point-finder-points/skill-point-finder-points.module.code.ts"
 import {
   requireSVar,
   STATE,
-} from "akasha/temper/skill-point-finder/skill-point-finder-state/skill-point-finder-state.module.code.ts"
-import type { CharInfo } from "akasha/temper/skill-point-finder/skill-point-finder-types/skill-point-finder-types.module.code.ts"
+} from "akasha/temper/skill-point-finder/modules/skill-point-finder-state/skill-point-finder-state.module.code.ts"
+import type { CharInfo } from "akasha/temper/skill-point-finder/modules/skill-point-finder-types/skill-point-finder-types.module.code.ts"
 
 function setSelectedChar(this: void, charName: string): undefined {
   for (const char of STATE.charData) {

@@ -9,7 +9,7 @@ import {
   PINS_COLLECTED,
   PINS_COMPASS,
   PINS_UNKNOWN,
-} from "akasha/temper/skyshards/skyshards-constants/skyshards-constants.module.code.ts"
+} from "akasha/temper/skyshards/modules/skyshards-constants/skyshards-constants.module.code.ts"
 import {
   getDb,
   getMainworldColor,

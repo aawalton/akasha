@@ -10,7 +10,7 @@ import {
 } from "akasha/temper/characters-stats/modules/passive-eligibility/passive-eligibility.module.code.ts"
 import type { PipelineStage } from "akasha/temper/characters-stats/modules/pipeline-types/pipeline-types.module.code.ts"
 import type { Effect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
-import type { SkillSource } from "akasha/temper/formula-framework/skill-source/skill-source.module.code.ts"
+import type { SkillSource } from "akasha/temper/formula-framework/modules/skill-source/skill-source.module.code.ts"
 
 export const extractPassives: PipelineStage = (build, context) => {
   const sources: SkillSource[] = []
