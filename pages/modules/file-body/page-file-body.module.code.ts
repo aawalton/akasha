@@ -1,8 +1,14 @@
 import { readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
 import { FILE_PROPERTY } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
-import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { partsOf } from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"
+import {
+  besideAt,
+  uncommittedBesideAt,
+} from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import {
+  partsOf,
+  uncommittedPartsOf,
+} from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const UNKNOWN = "so what the page holds there is unknown rather than nothing"
@@ -42,8 +48,12 @@ function joined(found: readonly Uint8Array[]): Uint8Array<ArrayBuffer> {
   return whole
 }
 
-export function bytesAt(root: string, page: string, propertySlug: string, held: string): Bytes {
-  const first = besideAt(page, propertySlug, held)
+function bytesOver(
+  root: string,
+  page: string,
+  first: string | null,
+  naming: (there: (at: string) => boolean) => readonly string[]
+): Bytes {
   if (first === null) return { refused: `'${page}' is no page file, ${UNKNOWN}` }
   if (!filed(root, first)) {
     return {
@@ -51,10 +61,25 @@ export function bytesAt(root: string, page: string, propertySlug: string, held: 
     }
   }
   const found: Uint8Array[] = []
-  for (const at of partsOf(page, propertySlug, held, (one) => filed(root, one))) {
-    found.push(readFileSync(join(root, at)))
-  }
+  for (const at of naming((one) => filed(root, one))) found.push(readFileSync(join(root, at)))
   return { bytes: joined(found) }
+}
+
+export function bytesAt(root: string, page: string, propertySlug: string, held: string): Bytes {
+  return bytesOver(root, page, besideAt(page, propertySlug, held), (there) =>
+    partsOf(page, propertySlug, held, there)
+  )
+}
+
+export function uncommittedBytesAt(
+  root: string,
+  page: string,
+  propertySlug: string,
+  held: string
+): Bytes {
+  return bytesOver(root, page, uncommittedBesideAt(page, propertySlug, held), (there) =>
+    uncommittedPartsOf(page, propertySlug, held, there)
+  )
 }
 
 export function bodyAt(root: string, page: string, propertySlug: string, held: string): Body {

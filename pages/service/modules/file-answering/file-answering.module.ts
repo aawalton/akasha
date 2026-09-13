@@ -34,7 +34,23 @@ export const fileAnswering = {
     },
     {
       invariantKind: "departure",
-      statement: "A property held outside the commit is refused rather than answered.",
+      statement: "A property held outside the commit is answered off the checkout.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No page states a value for a property held outside the commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The ending such a file is named by is read from the property's own page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property naming more than one ending is refused where its page states none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value the page states binds over the ending the property names.",
     },
     {
       invariantKind: "departure",

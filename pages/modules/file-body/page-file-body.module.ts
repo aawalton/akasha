@@ -48,6 +48,15 @@ export const pageFileBody = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A property held outside the commit keeps its body in a file named apart from the rest.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a file is named by the caller asking for it as one held that way.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A property's body may be kept in the numbered files beside the page.",
     },
     {

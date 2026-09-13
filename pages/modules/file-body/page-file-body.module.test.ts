@@ -6,6 +6,7 @@ import {
   bytesAt,
   filedAmong,
   filedValue,
+  uncommittedBytesAt,
 } from "akasha/pages/modules/file-body/page-file-body.module.code.ts"
 
 const PORTRAIT = { key: "portrait", propertySlug: "portrait", pageTypeSlug: "file-property" }
@@ -34,6 +35,7 @@ mkdirSync(join(scratch, "holder"), { recursive: true })
 writeFileSync(join(scratch, A_PAGE_AT), "export const holder = {}\n")
 writeFileSync(join(scratch, A_PORTRAIT_AT), A_PORTRAIT)
 writeFileSync(join(scratch, "holder/holder.persona.mobile-wallpaper.png"), A_PICTURE)
+writeFileSync(join(scratch, "holder/holder.persona.parser-weights.uncommitted.onnx"), A_PICTURE)
 
 afterAll(() => {
   rmSync(scratch, { recursive: true, force: true })
@@ -102,5 +104,17 @@ test("the same body decoded as text loses the bytes no encoding admits", () => {
 
 test("a picture read as bytes is refused where no file sits beside the page", () => {
   const said = bytesAt(scratch, A_PAGE_AT, "mobile-wallpaper", "jpg")
+  expect("refused" in said && said.refused).toContain("no file is there")
+})
+
+test("a property held outside the commit is read from the file named for that", () => {
+  const said = uncommittedBytesAt(scratch, A_PAGE_AT, "parser-weights", "onnx")
+  expect("bytes" in said).toBe(true)
+  if (!("bytes" in said)) return
+  expect(Array.from(said.bytes)).toEqual(Array.from(A_PICTURE))
+})
+
+test("the same property looked for in the commit's own naming is refused", () => {
+  const said = bytesAt(scratch, A_PAGE_AT, "parser-weights", "onnx")
   expect("refused" in said && said.refused).toContain("no file is there")
 })

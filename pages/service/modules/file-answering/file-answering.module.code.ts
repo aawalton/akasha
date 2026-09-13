@@ -1,9 +1,16 @@
 import { FILE_PROPERTY } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { bytesAt } from "akasha/pages/modules/file-body/page-file-body.module.code.ts"
+import {
+  bytesAt,
+  uncommittedBytesAt,
+} from "akasha/pages/modules/file-body/page-file-body.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
-import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  textAt,
+  textsAt,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { carriedFor } from "akasha/pages/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
+import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 
 export type Named = {
   readonly pageTypeSlug: string
@@ -17,6 +24,18 @@ export type Filed =
 
 function namedIn(asked: Named): string {
   return `${asked.pageTypeSlug}/${asked.slug}`
+}
+
+const EXTENSIONS = "extensions"
+
+function endingFor(root: string, carried: Carried): string | null {
+  const listed = listedAt(root, carried.pageTypeSlug, carried.pagePropertySlug)
+  const first = listed.length === 1 ? listed[0] : undefined
+  if (first === undefined) return null
+  const value = valueAt(first.path, root)
+  if (value === null) return null
+  const held = textsAt(value, EXTENSIONS)
+  return held !== null && held.length === 1 ? (held[0] ?? null) : null
 }
 
 function listing(root: string, asked: Named): readonly { readonly path: string }[] | string {
@@ -36,7 +55,6 @@ export function filing(root: string, asked: Named): Filed {
     return { refused: `\`${asked.key}\` names no file property, so no file beside a page holds it` }
   }
   if (carried.secret) return { refused: `\`${asked.key}\` is held secret` }
-  if (carried.uncommitted) return { refused: `\`${asked.key}\` is held outside the commit` }
   const listed = listing(root, asked)
   if (typeof listed === "string") return { refused: listed }
   if (listed.length > 1) {
@@ -46,9 +64,12 @@ export function filing(root: string, asked: Named): Filed {
   if (first === undefined) return { refused: `\`${namedIn(asked)}\` is no page here` }
   const value = valueAt(first.path, root)
   if (value === null) return { refused: `\`${namedIn(asked)}\` would not load` }
-  const held = textAt(value, asked.key)
+  const stated = textAt(value, asked.key)
+  const held = stated ?? (carried.uncommitted ? endingFor(root, carried) : null)
   if (held === null) return { refused: `\`${namedIn(asked)}\` states no \`${asked.key}\`` }
-  const read = bytesAt(root, first.path, carried.propertySlug, held)
+  const read = carried.uncommitted
+    ? uncommittedBytesAt(root, first.path, carried.propertySlug, held)
+    : bytesAt(root, first.path, carried.propertySlug, held)
   if ("refused" in read) return read
   return { bytes: read.bytes, path: first.path }
 }

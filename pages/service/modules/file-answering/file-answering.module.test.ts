@@ -30,9 +30,10 @@ test("a key naming a property that keeps no file is refused", () => {
   expect("refused" in said && said.refused).toContain("names no file property")
 })
 
-test("a file property held outside the commit is refused", () => {
+test("a file property held outside the commit is named by the ending its property states", () => {
   const said = filing(ROOT, { pageTypeSlug: "code-check", slug: "typecheck", key: "entries" })
-  expect("refused" in said && said.refused).toContain("outside the commit")
+  const named = "typecheck.code-check.entries.uncommitted.jsonl"
+  expect("refused" in said && said.refused).toContain(named)
 })
 
 test("a property outside the commit that keeps no file is refused for keeping no file", () => {
