@@ -6,7 +6,7 @@ export type Changes = {
     typeof import("akasha/changes/agent/file/add-file/add-file.change-agent.code.ts")["runChange"]
   >[1]
   "change-agent/add-file-property-extensions": Parameters<
-    typeof import("akasha/changes/agent/page-property/add-file-property-extensions/add-file-property-extensions.change-agent.code.ts")["runChange"]
+    typeof import("akasha/changes/agent/page-type/add-file-property-extensions/add-file-property-extensions.change-agent.code.ts")["runChange"]
   >[1]
   "change-agent/add-page-property-types": Parameters<
     typeof import("akasha/changes/agent/page-property/add-page-property-types/add-page-property-types.change-agent.code.ts")["runChange"]

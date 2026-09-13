@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   addFilePropertyExtensions,
   runChange,
-} from "akasha/changes/agent/page-property/add-file-property-extensions/add-file-property-extensions.change-agent.code.ts"
+} from "akasha/changes/agent/page-type/add-file-property-extensions/add-file-property-extensions.change-agent.code.ts"
 import { ledgerAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   type Caught,
