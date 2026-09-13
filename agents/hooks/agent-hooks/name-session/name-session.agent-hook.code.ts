@@ -8,7 +8,7 @@ import {
 } from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
 import { readOwnTranscriptTail } from "akasha/agents/modules/io-probe/io-probe.module.code.ts"
 import { seatIn } from "akasha/agents/modules/read-record/read-record.module.code.ts"
-import { seatNameForAgent } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
+import { seatNameForAgent } from "akasha/agents/seats/observation/modules/presence-read/seat-presence-read.module.code.ts"
 import { transcriptRecordOf } from "akasha/agents/seats/session/modules/transcript-path/seat-transcript-path.module.code.ts"
 
 const HOOK = "name-session"

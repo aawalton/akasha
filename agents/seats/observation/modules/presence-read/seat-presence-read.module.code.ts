@@ -3,7 +3,7 @@ import {
   parseSeatProcKey,
   type SeatPresence,
   statedProcessPresence,
-} from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
+} from "akasha/agents/seats/observation/modules/proc-key/seat-proc-key.module.code.ts"
 import {
   akashaHolderProcessOf,
   akashaSeatIdForName,

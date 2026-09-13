@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
-import type { SeatPresence } from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
 import {
   readSeatTurn,
   type SeatTurnRecords,
 } from "akasha/agents/seats/modules/turn-state/seat-turn-state.module.code.ts"
+import type { SeatPresence } from "akasha/agents/seats/observation/modules/proc-key/seat-proc-key.module.code.ts"
 
 const AT = Date.parse("2026-09-04T00:00:00.000Z")
 

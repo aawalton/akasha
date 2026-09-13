@@ -1,11 +1,11 @@
-import { agentHolderProcess } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
+import { agentHolderProcess } from "akasha/agents/seats/observation/modules/presence-read/seat-presence-read.module.code.ts"
 import {
   formatSeatProcKey,
   parseSeatProcKey,
   readSeatProcKey,
   type SeatPresence,
   statedProcessPresence,
-} from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
+} from "akasha/agents/seats/observation/modules/proc-key/seat-proc-key.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
 
 export interface SeatSupervisionInput {

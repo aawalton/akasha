@@ -10,12 +10,12 @@ import {
 } from "akasha/agents/seats/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
 import { DEFAULT_ACCOUNT } from "akasha/agents/seats/launching/modules/launching/seat-launching.module.code.ts"
 import { SEAT_MODE_HEADLESS } from "akasha/agents/seats/launching/modules/modes/seat-modes.module.code.ts"
-import type { SeatPresence } from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
 import {
   decideSpawnGuard,
   type SpawnGuardDecision,
   type SpawnGuardInput,
 } from "akasha/agents/seats/name-claiming/modules/spawn-guard/spawn-guard.module.code.ts"
+import type { SeatPresence } from "akasha/agents/seats/observation/modules/proc-key/seat-proc-key.module.code.ts"
 import { terminatePriorAgentTree } from "akasha/agents/seats/reviving/modules/recovery/seat-recovery.module.code.ts"
 import { resolveRelaunchTarget } from "akasha/agents/seats/reviving/modules/relaunch-target/seat-relaunch-target.module.code.ts"
 import { decideReviveLaunch } from "akasha/agents/seats/reviving/modules/revive-launch-decide/seat-revive-launch-decide.module.code.ts"

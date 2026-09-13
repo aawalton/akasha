@@ -1,5 +1,5 @@
 import { unclaimedTo } from "akasha/agents/messaging/modules/message-file/message-file.module.code.ts"
-import { seatNameForAgent } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
+import { seatNameForAgent } from "akasha/agents/seats/observation/modules/presence-read/seat-presence-read.module.code.ts"
 
 export interface InboundMessageRow {
   readonly sender_agent_id: string | null

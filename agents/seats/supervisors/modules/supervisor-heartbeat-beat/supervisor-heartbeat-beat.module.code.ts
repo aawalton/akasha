@@ -1,10 +1,10 @@
 import { join } from "node:path"
 import { runningModeIn } from "akasha/agents/seats/launching/modules/modes/seat-modes.module.code.ts"
+import { composedNameOf } from "akasha/agents/seats/name/modules/rename/seat-rename.module.code.ts"
 import {
   formatSeatProcKey,
   readSeatProcKey,
-} from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
-import { composedNameOf } from "akasha/agents/seats/name/modules/rename/seat-rename.module.code.ts"
+} from "akasha/agents/seats/observation/modules/proc-key/seat-proc-key.module.code.ts"
 import { keepBeside } from "akasha/agents/seats/page/modules/beside/seat-beside.module.code.ts"
 import {
   type BeatReport,

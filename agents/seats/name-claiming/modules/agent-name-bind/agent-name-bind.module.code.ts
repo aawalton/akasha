@@ -1,14 +1,14 @@
 import { readFileSync } from "node:fs"
-import { agentHolderProcess } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
-import {
-  parseSeatProcKey,
-  seatProcKeyPresence,
-} from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
 import {
   addressableByName,
   type Claiming,
   type Presence,
 } from "akasha/agents/seats/name-claiming/modules/name-claim/seat-name-claim.module.code.ts"
+import { agentHolderProcess } from "akasha/agents/seats/observation/modules/presence-read/seat-presence-read.module.code.ts"
+import {
+  parseSeatProcKey,
+  seatProcKeyPresence,
+} from "akasha/agents/seats/observation/modules/proc-key/seat-proc-key.module.code.ts"
 
 const ANCESTRY_DEPTH_LIMIT = 32
 

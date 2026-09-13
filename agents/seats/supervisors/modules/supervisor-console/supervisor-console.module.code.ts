@@ -12,7 +12,7 @@ import {
   type LogWriter,
   logWriter,
 } from "akasha/agents/seats/log-days/modules/log-day-writing/log-day-writing.module.code.ts"
-import { seatNameForAgent } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
+import { seatNameForAgent } from "akasha/agents/seats/observation/modules/presence-read/seat-presence-read.module.code.ts"
 import { supervisorsRootDir } from "akasha/agents/seats/supervisors/modules/supervisor-log-path/supervisor-log-path.module.code.ts"
 
 export type RotationOptions = {

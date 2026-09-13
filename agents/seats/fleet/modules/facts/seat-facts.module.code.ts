@@ -3,11 +3,11 @@ import { seatRoster } from "akasha/agents/seats/fleet/modules/roster/seat-roster
 import {
   agentHolderProcess,
   agentPresence,
-} from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
+} from "akasha/agents/seats/observation/modules/presence-read/seat-presence-read.module.code.ts"
 import {
   parseSeatProcKey,
   type SeatPresence,
-} from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
+} from "akasha/agents/seats/observation/modules/proc-key/seat-proc-key.module.code.ts"
 
 const SEAT_MODE_INTERACTIVE = "interactive"
 

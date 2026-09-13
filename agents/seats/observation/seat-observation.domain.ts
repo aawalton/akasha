@@ -5,7 +5,13 @@ export const seatObservation = {
   type: "domain",
   slug: "seat-observation",
   definition: "what a seat has because somebody looked",
-  parts: ["domain/seat-turn", "list/idle-live-seat"],
+  parts: [
+    "domain/seat-turn",
+    "list/idle-live-seat",
+    "module/seat-attached",
+    "module/seat-presence-read",
+    "module/seat-proc-key",
+  ],
   invariants: [
     { invariantKind: "departure", statement: "Nobody could have settled an observation." },
     { invariantKind: "departure", statement: "An observation is whatever happened." },

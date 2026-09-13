@@ -15,7 +15,7 @@ import type {
 import { seatIdentityForName } from "akasha/agents/messaging/recipient-resolving/modules/seat-identity/seat-identity.module.code.ts"
 import type { CommsInput } from "akasha/agents/messaging/recipient-resolving/modules/seat-wake-rules/seat-wake-rules.module.code.ts"
 import { wakeCommsInput } from "akasha/agents/messaging/recipient-resolving/modules/wake-comms-input/wake-comms-input.module.code.ts"
-import { agentPresence } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
+import { agentPresence } from "akasha/agents/seats/observation/modules/presence-read/seat-presence-read.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
 import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
