@@ -4,17 +4,18 @@ export const changeMechanicalPageTypeAdd = {
   id: "01a09c5c-dc1b-77e2-a464-b112c07559a1",
   type: "domain",
   slug: "change-mechanical-page-type-add",
-  definition: "a mechanical change putting a key on every page of one page type",
+  definition: "a mechanical change putting a key on one page type or on every page of it",
   parts: [
     "change-mechanical-page-type/add-file-property-extensions",
     "change-mechanical-page-type/add-page-property-types",
     "change-mechanical-page-type/add-property-to-every-page",
+    "change-mechanical-page-type/add-property-to-page-type",
     "change-mechanical-page-type/copy-property-on-every-page",
   ],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A rung here answers for every page of the page type at once.",
+      statement: "A rung here answers the whole scope of one act in one answer.",
     },
     {
       invariantKind: "absence",
