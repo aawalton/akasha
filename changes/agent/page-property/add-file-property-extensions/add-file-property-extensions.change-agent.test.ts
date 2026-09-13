@@ -3,123 +3,47 @@ import {
   addFilePropertyExtensions,
   runChange,
 } from "akasha/changes/agent/page-property/add-file-property-extensions/add-file-property-extensions.change-agent.code.ts"
-import type { Reaching, World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { ledgerAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
+  type Caught,
   catching,
-  refusingAt,
-  worldOf,
 } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { listing } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 
-const KIND = "file-property"
+const RUNG = "change-mechanical-page-type/add-file-property-extensions"
 
-const AT = "held/ones/properties/code.file-property.ts"
+const NOWHERE = "/nowhere"
 
-const APART = "apart/ones/properties/code.file-property.ts"
+test("the one change reached is the mechanical change acting on a page type", async () => {
+  const seen: string[] = []
 
-const STATED = "change-mechanical-file-content/add-page-property"
-
-const BODY = `export type Code = "ts" | "tsx"
-
-export const code = { slug: "code" } as const
-`
-
-const LOOSE = `export type Code = string
-
-export const code = { slug: "code" } as const
-`
-
-function worldFor(
-  reaching: Reaching,
-  kinds: readonly string[],
-  bodies: Readonly<Record<string, string>>,
-  stated: Record<string, unknown> = {}
-): World {
-  const paths = Object.keys(bodies)
-  return {
-    ...worldOf(bodies),
-    index: {
-      kindsUnder: () => new Set(kinds),
-      everyOfType: () => paths.map((path) => ({ path })),
-      pageByPath: () => ({ pageTypeSlug: KIND, slug: "code", ...stated }),
-    } as never,
-    reaching,
-  }
-}
-
-test("a file property gains the endings the type beside it names", async () => {
-  const seen: { at: string; given: Record<string, unknown> }[] = []
-
-  const said = await addFilePropertyExtensions(worldFor(catching(seen), [KIND], { [AT]: BODY }), {})
+  const said = await addFilePropertyExtensions(
+    ledgerAt(NOWHERE, () => null, listing(seen)),
+    {}
+  )
 
   expect(said.refused).toBeNull()
-  expect(seen[0]).toEqual({
-    at: STATED,
-    given: { after: "definition", at: AT, key: "extensions", value: '["ts","tsx"]' },
-  })
+  expect(seen).toEqual([RUNG])
 })
 
-test("a page stating its endings already is passed over rather than stating them twice", async () => {
-  const seen: { at: string; given: Record<string, unknown> }[] = []
+test("the folder named is handed on to the change reached", async () => {
+  const seen: Caught[] = []
 
-  const said = await addFilePropertyExtensions(
-    worldFor(catching(seen), [KIND], { [AT]: BODY }, { extensions: ["ts"] }),
+  await runChange(
+    ledgerAt(NOWHERE, () => null, catching(seen)),
+    { under: "held/" }
+  )
+
+  expect(seen).toEqual([{ at: RUNG, given: { under: "held/" } }])
+})
+
+test("a run naming no folder hands no folder on", async () => {
+  const seen: Caught[] = []
+
+  await runChange(
+    ledgerAt(NOWHERE, () => null, catching(seen)),
     {}
   )
 
-  expect(said.refused ?? "").toMatch(/states its endings already/)
-  expect(seen).toEqual([])
-})
-
-test("a type that is no run of quoted endings is refused", async () => {
-  const seen: { at: string; given: Record<string, unknown> }[] = []
-
-  const said = await addFilePropertyExtensions(
-    worldFor(catching(seen), [KIND], { [AT]: LOOSE }),
-    {}
-  )
-
-  expect(said.refused ?? "").toMatch(/no run of endings/)
-  expect(said.refused ?? "").toContain(AT)
-  expect(seen).toEqual([])
-})
-
-test("a page type no page is of refuses, and nothing is reached", async () => {
-  const seen: { at: string; given: Record<string, unknown> }[] = []
-
-  const said = await addFilePropertyExtensions(worldFor(catching(seen), [], { [AT]: BODY }), {})
-
-  expect(said.refused ?? "").toMatch(/no page is a/)
-  expect(seen).toEqual([])
-})
-
-test("a refusal from the change stating the key names the page", async () => {
-  const seen: { at: string; given: Record<string, unknown> }[] = []
-
-  const said = await addFilePropertyExtensions(
-    worldFor(refusingAt(seen, STATED), [KIND], { [AT]: BODY }),
-    {}
-  )
-
-  expect(said.refused ?? "").toContain(AT)
-})
-
-test("every page is reached rather than the first alone", async () => {
-  const seen: { at: string; given: Record<string, unknown> }[] = []
-
-  await addFilePropertyExtensions(
-    worldFor(catching(seen), [KIND], { [AT]: BODY, [APART]: BODY }),
-    {}
-  )
-
-  expect(seen).toHaveLength(2)
-})
-
-test("a folder named holds the change to the pages sitting under that folder", async () => {
-  const seen: { at: string; given: Record<string, unknown> }[] = []
-
-  await runChange(worldFor(catching(seen), [KIND], { [AT]: BODY, [APART]: BODY }), {
-    under: "held/",
-  })
-
-  expect(seen).toHaveLength(1)
+  expect(seen).toEqual([{ at: RUNG, given: {} }])
 })

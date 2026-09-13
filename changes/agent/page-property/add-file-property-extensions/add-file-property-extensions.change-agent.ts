@@ -17,20 +17,7 @@ export const addFilePropertyExtensions = {
     },
     {
       invariantKind: "departure",
-      statement: "The endings stated are the ones the type beside that property already names.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A type that is no run of quoted endings is refused rather than passed over.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A page stating its endings already is passed over rather than stating them twice.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The endings are written after the page's definition.",
+      statement: "A folder named holds the change to the pages sitting under that folder.",
     },
     {
       invariantKind: "departure",
@@ -38,19 +25,31 @@ export const addFilePropertyExtensions = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the page that drew the refusal.",
+      statement: "A refusal over a page names that page.",
     },
     {
       invariantKind: "departure",
-      statement: "Each page is reached over the edits the pages before it left.",
+      statement: "The edits are worked out by the change reached.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder named holds the change to the pages sitting under that folder.",
+      statement: "That change acts on a page type, as this one does.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That change is reached through the runner rather than by an import.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes the type those endings make.",
+      statement: "Nothing here works out a body of its own.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads a page's own body.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads the index.",
     },
   ],
   changeKind: "change-checked",

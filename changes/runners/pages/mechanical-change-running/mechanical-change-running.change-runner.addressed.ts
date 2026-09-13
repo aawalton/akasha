@@ -104,6 +104,9 @@ export type Changes = {
   "change-mechanical-folder/remove-folder-package": Parameters<
     typeof import("akasha/changes/mechanical/folder/remove/remove-folder-package/remove-folder-package.change-mechanical-folder.code.ts")["runChange"]
   >[1]
+  "change-mechanical-page-type/add-file-property-extensions": Parameters<
+    typeof import("akasha/changes/mechanical/page-type/add/add-file-property-extensions/add-file-property-extensions.change-mechanical-page-type.code.ts")["runChange"]
+  >[1]
   "change-mechanical-page-type/add-property-to-every-page": Parameters<
     typeof import("akasha/changes/mechanical/page-type/add/add-property-to-every-page/add-property-to-every-page.change-mechanical-page-type.code.ts")["runChange"]
   >[1]
