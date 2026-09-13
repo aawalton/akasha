@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   addPagePropertyTypes,
   runChange,
-} from "akasha/changes/agent/page-property/add-page-property-types/add-page-property-types.change-agent.code.ts"
+} from "akasha/changes/agent/page-type/add-page-property-types/add-page-property-types.change-agent.code.ts"
 import { ledgerAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   type Caught,

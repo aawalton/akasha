@@ -7,6 +7,7 @@ export const changeAgentPageType = {
   definition: "a change an agent reaches acting on every page of one page type",
   parts: [
     "change-agent/add-file-property-extensions",
+    "change-agent/add-page-property-types",
     "change-agent/add-page-type-types",
     "change-agent/add-property-to-every-page",
     "change-agent/add-property-to-page-type",
