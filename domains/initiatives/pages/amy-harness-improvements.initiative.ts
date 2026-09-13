@@ -8,12 +8,6 @@ export const amyHarnessImprovements = {
   persona: "amy",
   intents: [
     {
-      statement: "Every panel in the editor extension has one top-level row.",
-    },
-    {
-      statement: "A panel's top-level row is always expanded rather than collapsible.",
-    },
-    {
       statement: "alanwalton.com has no nav item other than Tasks and Temper Tasks.",
     },
     {
