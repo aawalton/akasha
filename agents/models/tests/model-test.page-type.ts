@@ -62,6 +62,11 @@ export const modelTest = {
       invariantKind: "departure",
       statement: "A test's code picks what the code judges rather than the prompt saying so.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A prompt is measured against the cases rather than what the cases were mined from.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
