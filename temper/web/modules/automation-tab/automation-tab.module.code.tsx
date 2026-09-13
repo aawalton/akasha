@@ -12,7 +12,7 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from "akasha/design/interfaces/primitives/modules/popover/popover.module.code.tsx"
-import { Switch } from "akasha/design/interfaces/primitives/switch-control/switch-control.module.code.tsx"
+import { Switch } from "akasha/design/interfaces/primitives/modules/switch-control/switch-control.module.code.tsx"
 import type {
   CharacterAutomationToggles,
   CompanionAutomationToggles,

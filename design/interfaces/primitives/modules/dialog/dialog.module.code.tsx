@@ -10,8 +10,8 @@ import {
   restoringOpenChange,
   scheduleRestoreStuckBodyPointerEvents,
 } from "akasha/design/interfaces/primitives/modules/restore-body-pointer-events/restore-body-pointer-events.module.code.ts"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
-import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
+import { SurfaceProvider } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { XIcon } from "lucide-react"
 import * as React from "react"
 

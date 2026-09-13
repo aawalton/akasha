@@ -9,7 +9,7 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from "akasha/design/interfaces/primitives/modules/popover/popover.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import type { FilterOperator } from "akasha/pages/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import type { PageFilterDimension } from "akasha/pages/core/view/modules/generate-filter-dimensions/generate-filter-dimensions.module.code.ts"

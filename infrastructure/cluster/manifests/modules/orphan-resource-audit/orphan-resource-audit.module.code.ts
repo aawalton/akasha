@@ -1,6 +1,6 @@
 import { relative } from "node:path"
-import { discoverSynthFiles } from "akasha/infrastructure/cluster/k8s-synth/synth-discovery/synth-discovery.module.code.ts"
-import { loadSynthOutputs } from "akasha/infrastructure/cluster/k8s-synth/synth-loading/synth-loading.module.code.ts"
+import { discoverSynthFiles } from "akasha/infrastructure/cluster/k8s-synth/modules/synth-discovery/synth-discovery.module.code.ts"
+import { loadSynthOutputs } from "akasha/infrastructure/cluster/k8s-synth/modules/synth-loading/synth-loading.module.code.ts"
 import { NAMESPACE_NAMES } from "akasha/infrastructure/cluster/manifests/app-namespaces-synth/app-namespaces-synth.manifest.code.ts"
 import {
   AUDITED_KINDS,

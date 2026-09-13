@@ -34,7 +34,7 @@ import {
   SheetTitle,
   SheetTrigger,
 } from "akasha/design/interfaces/primitives/modules/sheet/sheet.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import {
   formatCompact,
   formatFull,
@@ -50,7 +50,7 @@ import {
   TableRowLabel,
   TableTotalCell,
   TableValue,
-} from "akasha/design/interfaces/primitives/table/table.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/table/table.module.code.tsx"
 
 export function ComponentsOverlayPanels() {
   return (

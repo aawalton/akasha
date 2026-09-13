@@ -8,8 +8,8 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from "akasha/design/interfaces/primitives/modules/popover/popover.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { DegradingImage } from "akasha/pages/ui/components/modules/degrading-image/degrading-image.module.code.tsx"
 import { ImagePlus, Pencil, Trash2 } from "lucide-react"
 import { useState } from "react"

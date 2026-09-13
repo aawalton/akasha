@@ -11,7 +11,7 @@ import {
   logError,
   retryWithBackoff,
   toError,
-} from "akasha/alan/collections/great-courses/sync-outcome/sync-outcome.module.code.ts"
+} from "akasha/alan/collections/great-courses/modules/sync-outcome/sync-outcome.module.code.ts"
 import { JSDOM, VirtualConsole } from "jsdom"
 
 const SOURCE_URL = "https://plus.thegreatcourses.com/allprograms"

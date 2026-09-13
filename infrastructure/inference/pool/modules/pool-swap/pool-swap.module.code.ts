@@ -15,7 +15,7 @@ import {
   waitForPort,
   waitForPortFree,
 } from "akasha/infrastructure/inference/pool/modules/port-readiness/port-readiness.module.code.ts"
-import { decideSwap } from "akasha/infrastructure/inference/pool/swap-decision/swap-decision.module.code.ts"
+import { decideSwap } from "akasha/infrastructure/inference/pool/modules/swap-decision/swap-decision.module.code.ts"
 
 type PortPollOpts = { readonly timeoutMs: number; readonly intervalMs: number }
 

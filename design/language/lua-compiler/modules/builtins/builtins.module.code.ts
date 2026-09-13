@@ -40,7 +40,7 @@ import {
   transformLuaLibFunction,
 } from "akasha/design/language/lua-compiler/modules/lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "akasha/design/language/lua-compiler/modules/lualib-features/lualib-features.module.code.ts"
-import { getIdentifierSymbolId } from "akasha/design/language/lua-compiler/symbols/symbols.module.code.ts"
+import { getIdentifierSymbolId } from "akasha/design/language/lua-compiler/modules/symbols/symbols.module.code.ts"
 import { maybeWrapThisVoidAsAdapter } from "akasha/design/language/lua-compiler/this-void-adapter/this-void-adapter.module.code.ts"
 import {
   unsupportedBuiltinOptionalCall,

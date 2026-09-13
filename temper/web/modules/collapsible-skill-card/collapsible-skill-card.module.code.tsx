@@ -10,11 +10,11 @@ import { HorizontalScrollFade } from "akasha/design/interfaces/primitives/module
 import {
   clampSurfaceLevel,
   surfaceClass,
-} from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+} from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import {
   SurfaceProvider,
   useSurface,
-} from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { ChevronDown } from "lucide-react"
 import { type ReactNode, useState } from "react"
 

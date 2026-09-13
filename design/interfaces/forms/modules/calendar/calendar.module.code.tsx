@@ -5,8 +5,8 @@ import {
   buttonVariants,
 } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { ChevronDownIcon, ChevronLeftIcon, ChevronRightIcon } from "lucide-react"
 import * as React from "react"
 import { type DayButton, DayPicker, getDefaultClassNames } from "react-day-picker"

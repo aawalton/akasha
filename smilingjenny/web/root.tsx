@@ -1,7 +1,7 @@
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/modules/error-capture-installer/error-capture-installer.module.code.tsx"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/use-report-render-error/use-report-render-error.module.code.ts"
 import { rootNonceLoader } from "akasha/code/router-apps/modules/root-nonce-loader/root-nonce-loader.module.code.ts"
-import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+import { SurfaceProvider } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { PushRegistrationSync } from "akasha/smilingjenny/web/modules/jenny-push-registration-sync/jenny-push-registration-sync.module.code.tsx"
 import type React from "react"
 import {

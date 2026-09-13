@@ -3,9 +3,9 @@ import { expect, mock, test } from "bun:test"
 const HANDED: (readonly string[])[] = []
 let CODE = 0
 
-const syncing = await import("akasha/story/wandering-inn/syncing/syncing.module.code.ts")
+const syncing = await import("akasha/story/wandering-inn/modules/syncing/syncing.module.code.ts")
 
-mock.module("akasha/story/wandering-inn/syncing/syncing.module.code.ts", () => ({
+mock.module("akasha/story/wandering-inn/modules/syncing/syncing.module.code.ts", () => ({
   ...syncing,
   main: (argv: readonly string[]) => {
     HANDED.push(argv)
@@ -42,7 +42,7 @@ test("the run is handed no arguments, as the unit's command line hands none", as
 
 test("a sync that could not run is carried out rather than swallowed, so a failed run is a failed unit", async () => {
   const why = new Error("the site could not be read")
-  mock.module("akasha/story/wandering-inn/syncing/syncing.module.code.ts", () => ({
+  mock.module("akasha/story/wandering-inn/modules/syncing/syncing.module.code.ts", () => ({
     ...syncing,
     main: () => Promise.reject(why),
   }))

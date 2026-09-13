@@ -11,7 +11,7 @@ import {
   TableHead,
   TableHeader,
   TableRow,
-} from "akasha/design/interfaces/primitives/table/table.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/table/table.module.code.tsx"
 import type {
   PageDataJSON,
   PropertyDefinition,

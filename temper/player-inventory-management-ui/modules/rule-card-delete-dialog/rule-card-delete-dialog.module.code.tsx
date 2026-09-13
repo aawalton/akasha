@@ -10,8 +10,8 @@ import {
   AlertDialogHeader,
   AlertDialogTitle,
 } from "akasha/design/interfaces/primitives/modules/alert-dialog/alert-dialog.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import type { CategoryRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { getActionLabel } from "akasha/temper/player-inventory-management-ui/modules/action-options/action-options.module.code.ts"
 

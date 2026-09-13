@@ -1,7 +1,7 @@
 "use client"
 
 import { parseBuildSha } from "akasha/alan/harness/web-build-version/modules/build-sha/build-sha.module.code.ts"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import {
   buildVersionedReloadUrl,
   liveVersionIn,

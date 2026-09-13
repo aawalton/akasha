@@ -35,7 +35,7 @@ import {
   ResizablePanel,
   ResizablePanelGroup,
 } from "akasha/design/interfaces/primitives/modules/resizable/resizable.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import {
   Calculator,
   Calendar as CalendarIcon,

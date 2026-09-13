@@ -25,7 +25,7 @@ import { fail } from "akasha/commands/modules/failing/command-failing.module.cod
 import {
   computeReExecJitterMs,
   resolveMaxReExecJitterMs,
-} from "akasha/seat-system/self-healing/supervisor-self-heal-jitter-decide/supervisor-self-heal-jitter-decide.module.code.ts"
+} from "akasha/seat-system/self-healing/modules/supervisor-self-heal-jitter-decide/supervisor-self-heal-jitter-decide.module.code.ts"
 import {
   classifyChildExit,
   collapseChildExitStatus,

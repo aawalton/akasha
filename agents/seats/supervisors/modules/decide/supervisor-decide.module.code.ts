@@ -27,11 +27,11 @@ import {
   planRestartNotice,
   type ResumeNotices,
 } from "akasha/seat-system/supervising/modules/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.code.ts"
-import { decideUncertainBlockBatch } from "akasha/seat-system/supervising/supervisor-uncertain-wait-decide/supervisor-uncertain-wait-decide.module.code.ts"
+import { decideUncertainBlockBatch } from "akasha/seat-system/supervising/modules/supervisor-uncertain-wait-decide/supervisor-uncertain-wait-decide.module.code.ts"
 import {
   decideWaitResume,
   type WaitResumeDecision,
-} from "akasha/seat-system/supervising/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts"
+} from "akasha/seat-system/supervising/modules/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts"
 
 const NUDGE_NOTICE = "limit-resume-nudge"
 const WAIT_NUDGE_NOTICE = "wait-resume-nudge"

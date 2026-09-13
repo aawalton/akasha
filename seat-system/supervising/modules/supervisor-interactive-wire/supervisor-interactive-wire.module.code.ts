@@ -16,16 +16,16 @@ import { startPreCliffRestartMonitor } from "akasha/seat-system/supervising/modu
 import { askPreCliffRestart } from "akasha/seat-system/supervising/modules/supervisor-precliff-restart-rule/supervisor-precliff-restart-rule.module.code.ts"
 import type { ClearRebindHooks } from "akasha/seat-system/supervising/modules/supervisor-rebind/supervisor-rebind.module.code.ts"
 import type { ClearRebindDeps } from "akasha/seat-system/supervising/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
-import type { AgentIdHandle } from "akasha/seat-system/supervising/supervisor-self-identity/supervisor-self-identity.module.code.ts"
+import type { AgentIdHandle } from "akasha/seat-system/supervising/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
 import {
   isShuttingDown,
   setAgentActionHandler,
   setObservedChildExit,
-} from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
+} from "akasha/seat-system/supervising/modules/supervisor-state/supervisor-state.module.code.ts"
 import type {
   AgentProcess,
   InheritedProc,
-} from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
+} from "akasha/seat-system/supervising/modules/supervisor-types/supervisor-types.module.code.ts"
 
 export interface IterationWiring {
   actionSubsystem: ReturnType<typeof buildAgentActionSubsystem>

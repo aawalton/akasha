@@ -16,7 +16,7 @@ import type {
 } from "akasha/design/interfaces/patterns/modules/sort-types/sort-types.module.code.ts"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import { useState } from "react"
 
 const SORT_OPTIONS: SortOption[] = [

@@ -1,5 +1,5 @@
-import { syncGreatCourses } from "akasha/alan/collections/great-courses/sync/sync.module.code.ts"
-import { trackSyncRun } from "akasha/alan/collections/great-courses/sync-run/sync-run.module.code.ts"
+import { syncGreatCourses } from "akasha/alan/collections/great-courses/modules/sync/sync.module.code.ts"
+import { trackSyncRun } from "akasha/alan/collections/great-courses/modules/sync-run/sync-run.module.code.ts"
 
 const SOURCE = "the-great-courses"
 

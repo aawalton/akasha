@@ -14,7 +14,7 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from "akasha/design/interfaces/primitives/modules/popover/popover.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import {
   buildMonthGrid,

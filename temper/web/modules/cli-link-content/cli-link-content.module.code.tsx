@@ -2,11 +2,11 @@
 
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import {
   SurfaceProvider,
   useSurface,
-} from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import {
   type CliLinkFailure,
   describeCliLinkFailure,

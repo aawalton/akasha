@@ -29,7 +29,7 @@ import {
   createSafeName,
   hasUnsafeIdentifierName,
 } from "akasha/design/language/lua-compiler/modules/safe-names/safe-names.module.code.ts"
-import { getIdentifierSymbolId } from "akasha/design/language/lua-compiler/symbols/symbols.module.code.ts"
+import { getIdentifierSymbolId } from "akasha/design/language/lua-compiler/modules/symbols/symbols.module.code.ts"
 import { maybeWrapThisVoidAsAdapter } from "akasha/design/language/lua-compiler/this-void-adapter/this-void-adapter.module.code.ts"
 import { invalidCallExtensionUse } from "akasha/design/language/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
 import { isStandardLibraryType } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"

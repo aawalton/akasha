@@ -9,8 +9,8 @@ import {
   DialogTitle,
 } from "akasha/design/interfaces/primitives/modules/dialog/dialog.module.code.tsx"
 import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { explainBuff } from "akasha/temper/characters-stats/modules/buff-or-debuff-explainer/buff-or-debuff-explainer.module.code.ts"
 import type { BuffOrDebuffSource } from "akasha/temper/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import type { EffectSource } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"

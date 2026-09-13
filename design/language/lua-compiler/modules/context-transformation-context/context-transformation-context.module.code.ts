@@ -15,7 +15,7 @@ import type {
   Scope,
   ScopeType,
 } from "akasha/design/language/lua-compiler/modules/scope/scope.module.code.ts"
-import type { SymbolInfo } from "akasha/design/language/lua-compiler/symbols/symbols.module.code.ts"
+import type { SymbolInfo } from "akasha/design/language/lua-compiler/modules/symbols/symbols.module.code.ts"
 import type { ClassSuperInfo } from "akasha/design/language/lua-compiler/visitors-class/visitors-class.module.code.ts"
 import type * as ts from "typescript"
 

@@ -8,7 +8,7 @@ import {
   SPAWNED_FRESH,
   spawnOrAdoptChild,
 } from "akasha/seat-system/supervising/modules/supervisor-child-spawn/supervisor-child-spawn.module.code.ts"
-import type { InheritedProc } from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
+import type { InheritedProc } from "akasha/seat-system/supervising/modules/supervisor-types/supervisor-types.module.code.ts"
 
 const AGENT = "01a0683e-3dbe-7010-8b9f-e1ca56441ef8"
 

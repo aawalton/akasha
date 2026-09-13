@@ -3,8 +3,8 @@
 import { stripDisplayOnlyClasses } from "akasha/design/interfaces/forms/modules/display-only-classes/display-only-classes.module.code.ts"
 import { inlineEditKeyDown } from "akasha/design/interfaces/forms/modules/inline-edit-keys/inline-edit-keys.module.code.ts"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { useEffect, useRef, useState } from "react"
 
 interface InlineEditableTextProps {

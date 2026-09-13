@@ -11,7 +11,7 @@ import {
   TableHeader,
   TableRow,
   TableTotalCell,
-} from "akasha/design/interfaces/primitives/table/table.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/table/table.module.code.tsx"
 import type { CompanionBaseRoleId } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import { getBaseRoleName } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import {

@@ -6,7 +6,7 @@ import type { resolveClaudeHandoff } from "akasha/seat-system/supervising/module
 import type { RowAgentLaunch } from "akasha/seat-system/supervising/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/seat-system/supervising/modules/supervisor-console/supervisor-console.module.code.ts"
 import type { startPerAgentMonitors } from "akasha/seat-system/supervising/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts"
-import type { AgentIdHandle } from "akasha/seat-system/supervising/supervisor-self-identity/supervisor-self-identity.module.code.ts"
+import type { AgentIdHandle } from "akasha/seat-system/supervising/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
 
 export type InteractiveOpts = {
   resume: boolean

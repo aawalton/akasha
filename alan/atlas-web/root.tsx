@@ -6,7 +6,7 @@ import type { AuthRouteConfig } from "akasha/alan/harness/supabase-rr/modules/au
 import { guardedRootData } from "akasha/alan/harness/supabase-rr/modules/root-loader/root-loader.module.code.ts"
 import { CommandPalette } from "akasha/design/interfaces/primitives/modules/command-palette/command-palette.module.code.tsx"
 import { ShortcutSheet } from "akasha/design/interfaces/primitives/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"
-import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+import { SurfaceProvider } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { setStoreDiagnosticsSink } from "akasha/pages/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import type React from "react"
 import { useEffect } from "react"

@@ -8,7 +8,7 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from "akasha/design/interfaces/primitives/modules/popover/popover.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import type { IconName } from "akasha/pages/core/generated/modules/icon-search-index/icon-search-index.module.code.ts"
 import { resolveIconName, searchIcons } from "akasha/pages/core/modules/icon/icon.module.code.ts"
 import { ChevronLeft, ChevronRight, Search } from "lucide-react"

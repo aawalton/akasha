@@ -58,7 +58,7 @@ import {
   HoverCardContent,
   HoverCardTrigger,
 } from "akasha/design/interfaces/primitives/modules/hover-card/hover-card.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import { useState } from "react"
 
 export function ComponentsMenuPanels() {

@@ -1,5 +1,5 @@
 import { buildHandoffEnv } from "akasha/seat-system/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
-import { getProxyOwnerAgentIdForSelfHeal } from "akasha/seat-system/self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
+import { getProxyOwnerAgentIdForSelfHeal } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import {
   configDirForAccount,
   LOG,
@@ -11,7 +11,7 @@ import {
 import {
   getInheritedClaude,
   processes,
-} from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
+} from "akasha/seat-system/supervising/modules/supervisor-state/supervisor-state.module.code.ts"
 
 function collectClaudeHandoff(): {
   pid: number

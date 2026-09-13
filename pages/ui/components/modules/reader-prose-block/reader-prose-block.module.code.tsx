@@ -7,8 +7,8 @@ import {
   ContextMenuItem,
   ContextMenuTrigger,
 } from "akasha/design/interfaces/primitives/modules/context-menu/context-menu.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import {
   type ProseBlock,
   splitInlineEmphasis,

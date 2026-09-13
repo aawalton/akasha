@@ -3,7 +3,7 @@
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { Label } from "akasha/design/interfaces/primitives/modules/label/label.module.code.tsx"
 import { Separator } from "akasha/design/interfaces/primitives/modules/separator/separator.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import { cva, type VariantProps } from "class-variance-authority"
 
 function FieldSet({ className, ...props }: React.ComponentProps<"fieldset">) {

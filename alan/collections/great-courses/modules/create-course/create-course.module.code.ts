@@ -5,7 +5,7 @@ import {
   type SyncResult,
   safeUpdateResult,
   toError,
-} from "akasha/alan/collections/great-courses/sync-outcome/sync-outcome.module.code.ts"
+} from "akasha/alan/collections/great-courses/modules/sync-outcome/sync-outcome.module.code.ts"
 
 const GREAT_COURSE_SLUG = "great-course"
 

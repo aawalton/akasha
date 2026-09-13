@@ -47,7 +47,7 @@ import {
 import {
   READOUT_SLUG as SURPLUS_SLUG,
   takeReading as takeSurplus,
-} from "akasha/alan/harness/surplus/reading/surplus-reading.module.code.ts"
+} from "akasha/alan/harness/surplus/modules/reading/surplus-reading.module.code.ts"
 import { openedDayOf } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { DAY_PAGE_TYPE } from "akasha/alan/track/daily/modules/day-place/day-place.module.code.ts"
 import { followFolders } from "akasha/infrastructure/services/workstations/modules/file-following/file-following.module.code.ts"

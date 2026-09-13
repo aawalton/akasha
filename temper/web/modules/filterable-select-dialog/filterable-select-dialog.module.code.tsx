@@ -28,8 +28,8 @@ import {
   DialogTitle,
 } from "akasha/design/interfaces/primitives/modules/dialog/dialog.module.code.tsx"
 import { HorizontalScrollFade } from "akasha/design/interfaces/primitives/modules/horizontal-scroll-fade/horizontal-scroll-fade.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { formatEffects } from "akasha/temper/characters-stats/modules/format-effects/format-effects.module.code.ts"
 import type { Effect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 import { Check, ChevronDown, ChevronRight, X } from "lucide-react"

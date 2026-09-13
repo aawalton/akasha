@@ -10,8 +10,8 @@ import {
   CardTitle,
 } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import type { IconName } from "akasha/pages/core/generated/modules/icon-search-index/icon-search-index.module.code.ts"
 import type {
   PageDataJSON,

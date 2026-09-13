@@ -13,7 +13,7 @@ import { Button } from "akasha/design/interfaces/primitives/modules/button/butto
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
 import { Spinner } from "akasha/design/interfaces/primitives/modules/spinner/spinner.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import {
   Table,
   TableBody,
@@ -21,7 +21,7 @@ import {
   TableHead,
   TableHeader,
   TableRow,
-} from "akasha/design/interfaces/primitives/table/table.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/table/table.module.code.tsx"
 import { PatternsUxLayoutPanels } from "akasha/design/interfaces/system/modules/patterns-ux-layout-panels/patterns-ux-layout-panels.module.code.tsx"
 import { AlertCircle, FolderOpen, Search } from "lucide-react"
 

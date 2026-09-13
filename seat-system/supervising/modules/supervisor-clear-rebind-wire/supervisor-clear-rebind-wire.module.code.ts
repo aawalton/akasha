@@ -2,7 +2,7 @@ import { rotatedOf } from "akasha/seat-system/modules/seat-rotated-session/seat-
 import {
   setCurrentAgentIdForSelfHeal,
   setCurrentSessionIdForSelfHeal,
-} from "akasha/seat-system/self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
+} from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { claimSeatSupervision } from "akasha/seat-system/supervising/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/seat-system/supervising/modules/supervisor-console/supervisor-console.module.code.ts"
 import { clearSeatRotation } from "akasha/seat-system/supervising/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
@@ -11,10 +11,10 @@ import {
   performClearRebind,
 } from "akasha/seat-system/supervising/modules/supervisor-rebind/supervisor-rebind.module.code.ts"
 import type { ClearRebindDeps } from "akasha/seat-system/supervising/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
-import { watchSeatRotation } from "akasha/seat-system/supervising/supervisor-rotation-watch/supervisor-rotation-watch.module.code.ts"
-import type { AgentIdHandle } from "akasha/seat-system/supervising/supervisor-self-identity/supervisor-self-identity.module.code.ts"
-import { setRestoreConsoleHandle } from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
-import type { AgentProcess } from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
+import { watchSeatRotation } from "akasha/seat-system/supervising/modules/supervisor-rotation-watch/supervisor-rotation-watch.module.code.ts"
+import type { AgentIdHandle } from "akasha/seat-system/supervising/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
+import { setRestoreConsoleHandle } from "akasha/seat-system/supervising/modules/supervisor-state/supervisor-state.module.code.ts"
+import type { AgentProcess } from "akasha/seat-system/supervising/modules/supervisor-types/supervisor-types.module.code.ts"
 
 export function wireSessionRotatedWatcher(args: {
   selectedAccount: string

@@ -8,7 +8,7 @@ import { Button } from "akasha/design/interfaces/primitives/modules/button/butto
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
 import { Skeleton } from "akasha/design/interfaces/primitives/modules/skeleton/skeleton.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import { useState } from "react"
 
 const RADIUS_VARIANTS = ["sm", "md", "lg", "full"] as const

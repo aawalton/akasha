@@ -17,7 +17,7 @@ import {
   AGENT_SETTINGS_PATH,
   readAgentSettingsBase,
   refreshedSettings,
-} from "akasha/seat-system/supervising/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
+} from "akasha/seat-system/supervising/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
 
 const SETTINGS_FLAG = "--settings"
 

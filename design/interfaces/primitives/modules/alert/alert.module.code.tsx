@@ -1,8 +1,8 @@
 "use client"
 
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { cva, type VariantProps } from "class-variance-authority"
 import type * as React from "react"
 

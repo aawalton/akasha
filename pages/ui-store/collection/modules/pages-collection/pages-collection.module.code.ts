@@ -6,7 +6,7 @@ import {
 import {
   createPagesSyncController,
   type PagesSyncController,
-} from "akasha/pages/ui-store/collection/sync-controller/sync-controller.module.code.ts"
+} from "akasha/pages/ui-store/collection/modules/sync-controller/sync-controller.module.code.ts"
 
 export interface PagesCollectionHandle {
   readonly collection: Collection<PageRow, string>

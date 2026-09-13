@@ -22,8 +22,8 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "akasha/design/interfaces/primitives/modules/dropdown-menu/dropdown-menu.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
 import type { BuyRule } from "akasha/temper/items-rules-core/modules/buy-rule-types/buy-rule-types.module.code.ts"
 import { RuleNotesDialog } from "akasha/temper/player-inventory-management-ui/modules/rule-notes-dialog/rule-notes-dialog.module.code.tsx"

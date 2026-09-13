@@ -5,7 +5,7 @@ import { completionShapeOf } from "akasha/pages/core/task-lifecycle/task-lifecyc
 import { RenderBareListingCard } from "akasha/pages/ui/components/modules/bare-listing-card/bare-listing-card.module.code.tsx"
 import { PageSystemShell } from "akasha/pages/ui/components/modules/page-system-shell/page-system-shell.module.code.tsx"
 import { PageSystemTabContent } from "akasha/pages/ui/components/modules/page-system-view/page-system-view.module.code.tsx"
-import { viewConfigToListingParams } from "akasha/pages/ui/components/synthetic-config/synthetic-config.module.code.ts"
+import { viewConfigToListingParams } from "akasha/pages/ui/components/modules/synthetic-config/synthetic-config.module.code.ts"
 import { useGalleryViewProps } from "akasha/pages/ui/components/use-gallery-view-props/use-gallery-view-props.module.code.ts"
 import { useNotesViewProps } from "akasha/pages/ui/components/use-notes-view-props/use-notes-view-props.module.code.ts"
 import { usePagesFilteredHrefs } from "akasha/pages/ui/components/use-pages-filtered-hrefs/use-pages-filtered-hrefs.module.code.ts"

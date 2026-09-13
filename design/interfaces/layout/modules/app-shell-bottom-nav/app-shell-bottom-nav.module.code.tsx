@@ -15,7 +15,7 @@ import { selectBottomNavItems } from "akasha/design/interfaces/layout/modules/se
 import { selectDrawerGroups } from "akasha/design/interfaces/layout/modules/select-drawer-groups/select-drawer-groups.module.code.ts"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { Skeleton } from "akasha/design/interfaces/primitives/modules/skeleton/skeleton.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import { Ellipsis } from "lucide-react"
 import { useState } from "react"
 

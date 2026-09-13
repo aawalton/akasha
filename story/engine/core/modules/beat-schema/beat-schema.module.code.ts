@@ -1,4 +1,4 @@
-import { SystemWindowSchema } from "akasha/story/engine/core/system-window-schema/system-window-schema.module.code.ts"
+import { SystemWindowSchema } from "akasha/story/engine/core/modules/system-window-schema/system-window-schema.module.code.ts"
 import { PoolChangeSchema } from "akasha/story/engine/core/turn-package-schema/turn-package-schema.module.code.ts"
 import { z } from "zod"
 

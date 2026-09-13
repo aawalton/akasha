@@ -8,8 +8,8 @@ import {
   DialogTitle,
   DialogTrigger,
 } from "akasha/design/interfaces/primitives/modules/dialog/dialog.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
-import { TableHead } from "akasha/design/interfaces/primitives/table/table.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
+import { TableHead } from "akasha/design/interfaces/primitives/modules/table/table.module.code.tsx"
 import type { SkillSlotData } from "akasha/temper/companions-core/modules/companion-rotation-slot/companion-rotation-slot.module.code.ts"
 import type { CompanionFormulaStats } from "akasha/temper/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
 import { getEsoIconUrl } from "akasha/temper/formula-framework/modules/eso-icon-url/eso-icon-url.module.code.ts"

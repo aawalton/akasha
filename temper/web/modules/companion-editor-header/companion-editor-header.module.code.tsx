@@ -6,7 +6,7 @@ import { PAGE_TITLE_CLASSES } from "akasha/design/interfaces/layout/modules/page
 import { LayoutLink as Link } from "akasha/design/interfaces/layout/modules/router-context/router-context.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import type { BuildVisibility } from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import { BuildActionButtons } from "akasha/temper/web/modules/build-action-buttons/build-action-buttons.module.code.tsx"
 import { ChevronLeft, Copy, Eye, Search, Target } from "lucide-react"

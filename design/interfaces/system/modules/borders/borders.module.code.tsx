@@ -2,7 +2,7 @@
 
 import { PanelCard } from "akasha/design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"
 import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 
 export function BordersPanel() {
   return (

@@ -13,7 +13,7 @@ import type { ServerGroupedSection } from "akasha/pages/ui/components/modules/pa
 import {
   buildBaseFilters,
   buildSyntheticConfig,
-} from "akasha/pages/ui/components/synthetic-config/synthetic-config.module.code.ts"
+} from "akasha/pages/ui/components/modules/synthetic-config/synthetic-config.module.code.ts"
 import { useEffectiveListing } from "akasha/pages/ui/components/use-effective-listing/use-effective-listing.module.code.ts"
 import { useViewRowAggregates } from "akasha/pages/ui/components/view-engine/use-view-row-aggregates/use-view-row-aggregates.module.code.ts"
 import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"

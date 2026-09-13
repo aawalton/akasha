@@ -14,7 +14,7 @@ import {
   groupByLayerAndGroup,
   isChorded,
 } from "akasha/design/interfaces/primitives/modules/shortcut-surfaces/shortcut-surfaces.module.code.ts"
-import { Switch } from "akasha/design/interfaces/primitives/switch-control/switch-control.module.code.tsx"
+import { Switch } from "akasha/design/interfaces/primitives/modules/switch-control/switch-control.module.code.tsx"
 import {
   useKeyboardBinding,
   useKeyboardBindingDescriptors,

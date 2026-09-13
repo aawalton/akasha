@@ -3,11 +3,11 @@ import { expect, mock, test } from "bun:test"
 const RAN: string[] = []
 
 const notifying = await import(
-  "akasha/alan/harness/surplus/fall-notifying/surplus-fall-notifying.module.code.ts"
+  "akasha/alan/harness/surplus/modules/fall-notifying/surplus-fall-notifying.module.code.ts"
 )
 
 mock.module(
-  "akasha/alan/harness/surplus/fall-notifying/surplus-fall-notifying.module.code.ts",
+  "akasha/alan/harness/surplus/modules/fall-notifying/surplus-fall-notifying.module.code.ts",
   () => ({
     ...notifying,
     runSurplusFallNotifying: () => {

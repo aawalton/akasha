@@ -11,8 +11,8 @@ import {
   PopoverTrigger,
 } from "akasha/design/interfaces/primitives/modules/popover/popover.module.code.tsx"
 import { SubView } from "akasha/design/interfaces/primitives/modules/sub-view/sub-view.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { GalleryOptionsPicker } from "akasha/pages/ui/components/modules/gallery-options-picker/gallery-options-picker.module.code.tsx"
 import { GroupByPicker } from "akasha/pages/ui/components/modules/group-by-picker/group-by-picker.module.code.tsx"
 import { NotesOptionsPicker } from "akasha/pages/ui/components/modules/notes-options-picker/notes-options-picker.module.code.tsx"

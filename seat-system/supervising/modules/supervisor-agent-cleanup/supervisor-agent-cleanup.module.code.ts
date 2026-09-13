@@ -14,8 +14,8 @@ import {
   configDirForAccount,
   LOG,
 } from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
-import { processes } from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
-import type { AgentProcess } from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
+import { processes } from "akasha/seat-system/supervising/modules/supervisor-state/supervisor-state.module.code.ts"
+import type { AgentProcess } from "akasha/seat-system/supervising/modules/supervisor-types/supervisor-types.module.code.ts"
 
 const CREDENTIAL_PUSH_TIMEOUT_MS = 1_500
 

@@ -3,7 +3,7 @@ import { PageLayoutSkeleton } from "akasha/design/interfaces/layout/modules/page
 import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import { ShoppingPageContent } from "akasha/temper/player-economics-ui/modules/shopping-page-content/shopping-page-content.module.code.tsx"
 import { useShoppingMarks } from "akasha/temper/web/modules/player-settings/player-settings.module.code.ts"
-import { tabDefaultFor } from "akasha/temper/web/tab-defaults/tab-defaults.module.code.ts"
+import { tabDefaultFor } from "akasha/temper/web/modules/tab-defaults/tab-defaults.module.code.ts"
 import { Suspense } from "react"
 import { data, useSearchParams } from "react-router"
 

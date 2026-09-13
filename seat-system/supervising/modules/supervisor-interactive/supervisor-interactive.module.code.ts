@@ -1,7 +1,7 @@
 import { askProxyAdoption } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
 import { askProxyLiveness } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"
-import { askReExecJitterMs } from "akasha/seat-system/self-healing/supervisor-self-heal-jitter-rule/supervisor-self-heal-jitter-rule.module.code.ts"
-import { setSelfHealIdleProbe } from "akasha/seat-system/self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
+import { askReExecJitterMs } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-jitter-rule/supervisor-self-heal-jitter-rule.module.code.ts"
+import { setSelfHealIdleProbe } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import type { SeatResume } from "akasha/seat-system/supervising/modules/supervisor-args/supervisor-args.module.code.ts"
 import { decideBootResume } from "akasha/seat-system/supervising/modules/supervisor-args/supervisor-args.module.code.ts"
 import {
@@ -26,9 +26,9 @@ import {
 import { dispatchPostExitOutcome } from "akasha/seat-system/supervising/modules/supervisor-iteration-outcome/supervisor-iteration-outcome.module.code.ts"
 import { buildLoopState } from "akasha/seat-system/supervising/modules/supervisor-loop-state/supervisor-loop-state.module.code.ts"
 import type { CarriedAgentName } from "akasha/seat-system/supervising/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
-import { isShuttingDown } from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
-import { recordTermiosState } from "akasha/seat-system/supervising/supervisor-terminal/supervisor-terminal.module.code.ts"
-import type { AgentProcess } from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
+import { isShuttingDown } from "akasha/seat-system/supervising/modules/supervisor-state/supervisor-state.module.code.ts"
+import { recordTermiosState } from "akasha/seat-system/supervising/modules/supervisor-terminal/supervisor-terminal.module.code.ts"
+import type { AgentProcess } from "akasha/seat-system/supervising/modules/supervisor-types/supervisor-types.module.code.ts"
 
 export async function runInteractive(
   prompt: string,

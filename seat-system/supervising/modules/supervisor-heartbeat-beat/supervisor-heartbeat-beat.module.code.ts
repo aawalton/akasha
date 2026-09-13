@@ -24,7 +24,7 @@ import { clearRotated } from "akasha/seat-system/modules/seat-rotated-session/se
 import {
   getCurrentAgentIdForSelfHeal,
   getCurrentSessionIdForSelfHeal,
-} from "akasha/seat-system/self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
+} from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { LOG } from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 

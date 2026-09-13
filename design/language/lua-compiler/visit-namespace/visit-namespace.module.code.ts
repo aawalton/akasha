@@ -21,7 +21,7 @@ import {
   performHoisting,
   ScopeType,
 } from "akasha/design/language/lua-compiler/modules/scope/scope.module.code.ts"
-import { getSymbolIdOfSymbol } from "akasha/design/language/lua-compiler/symbols/symbols.module.code.ts"
+import { getSymbolIdOfSymbol } from "akasha/design/language/lua-compiler/modules/symbols/symbols.module.code.ts"
 import { transformIdentifier } from "akasha/design/language/lua-compiler/visit-identifier/visit-identifier.module.code.ts"
 import * as ts from "typescript"
 

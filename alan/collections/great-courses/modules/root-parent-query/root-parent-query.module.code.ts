@@ -6,7 +6,7 @@ import {
   classifyError,
   logError,
   toError,
-} from "akasha/alan/collections/great-courses/sync-outcome/sync-outcome.module.code.ts"
+} from "akasha/alan/collections/great-courses/modules/sync-outcome/sync-outcome.module.code.ts"
 
 const GREAT_COURSES_COLLECTION_SLUG = "great-courses-collection"
 const ROOT_TIMER_TITLE = "The Great Courses"

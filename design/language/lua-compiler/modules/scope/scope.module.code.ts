@@ -2,7 +2,7 @@ import type { TransformationContext } from "akasha/design/language/lua-compiler/
 import * as luaCore from "akasha/design/language/lua-compiler/modules/lua-ast-core/lua-ast-core.module.code.ts"
 import type * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
-import { getSymbolInfo } from "akasha/design/language/lua-compiler/symbols/symbols.module.code.ts"
+import { getSymbolInfo } from "akasha/design/language/lua-compiler/modules/symbols/symbols.module.code.ts"
 import {
   findFirstNodeAbove,
   getFirstDeclarationInFile,

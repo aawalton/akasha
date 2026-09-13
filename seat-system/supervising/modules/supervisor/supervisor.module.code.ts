@@ -14,8 +14,8 @@ import {
   processes,
   setRestoreConsoleHandle,
   setShutdownSinkGetter,
-} from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
-import { installSupervisorTerminalGuard } from "akasha/seat-system/supervising/supervisor-terminal/supervisor-terminal.module.code.ts"
+} from "akasha/seat-system/supervising/modules/supervisor-state/supervisor-state.module.code.ts"
+import { installSupervisorTerminalGuard } from "akasha/seat-system/supervising/modules/supervisor-terminal/supervisor-terminal.module.code.ts"
 
 async function supervisorMain(seams: RunInteractiveSeams): Promise<void> {
   const agentLog = buildAgentLogRedirect()

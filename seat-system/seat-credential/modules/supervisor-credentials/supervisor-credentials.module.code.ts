@@ -19,7 +19,7 @@ import type { ProxyAdoptionRuleSource } from "akasha/seat-system/oauth-proxy/mod
 import {
   type SupervisorOAuthProxyHandle,
   spawnOrAdoptOAuthProxy,
-} from "akasha/seat-system/oauth-proxy/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
+} from "akasha/seat-system/oauth-proxy/modules/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
 import {
   isAccountTerminal,
   markAccountTerminal,
@@ -33,7 +33,7 @@ import {
   LOG,
 } from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
 import { guardTick } from "akasha/seat-system/supervising/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
-import { writePacingSnapshot } from "akasha/seat-system/supervising/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"
+import { writePacingSnapshot } from "akasha/seat-system/supervising/modules/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"
 
 async function runCredentialPullTick(args: {
   account: string

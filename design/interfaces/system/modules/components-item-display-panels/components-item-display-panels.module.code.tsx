@@ -13,7 +13,7 @@ import {
   ScrollArea,
   ScrollBar,
 } from "akasha/design/interfaces/primitives/modules/scroll-area/scroll-area.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import { useState } from "react"
 
 export function ComponentsItemDisplayPanels() {

@@ -3,8 +3,8 @@
 import { InputPanelCard } from "akasha/design/interfaces/patterns/modules/input-panel-card/input-panel-card.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { Input } from "akasha/design/interfaces/primitives/modules/input/input.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { capitalize } from "akasha/utils/text/modules/capitalize/capitalize.module.code.ts"
 import { Maximize2 } from "lucide-react"
 

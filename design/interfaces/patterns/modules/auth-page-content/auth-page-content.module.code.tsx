@@ -11,7 +11,7 @@ import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.cod
 import { Input } from "akasha/design/interfaces/primitives/modules/input/input.module.code.tsx"
 import { Label } from "akasha/design/interfaces/primitives/modules/label/label.module.code.tsx"
 import { Spinner } from "akasha/design/interfaces/primitives/modules/spinner/spinner.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import type { ReactNode } from "react"
 import { useState } from "react"
 

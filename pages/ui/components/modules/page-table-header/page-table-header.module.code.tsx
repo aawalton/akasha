@@ -17,7 +17,7 @@ import {
   TableHead,
   TableHeader,
   TableRow,
-} from "akasha/design/interfaces/primitives/table/table.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/table/table.module.code.tsx"
 import { PageTableColGroup } from "akasha/pages/ui/components/modules/page-table-colgroup/page-table-colgroup.module.code.tsx"
 import {
   applyColumnDrop,

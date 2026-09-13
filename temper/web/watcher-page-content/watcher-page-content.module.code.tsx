@@ -11,8 +11,8 @@ import {
   CardContent,
 } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
 import type { WatcherBuildSummary } from "akasha/temper/web/watcher-build-status/watcher-build-status.module.code.ts"
 import { WatcherBuildStatusCard } from "akasha/temper/web/watcher-build-status-card/watcher-build-status-card.module.code.tsx"

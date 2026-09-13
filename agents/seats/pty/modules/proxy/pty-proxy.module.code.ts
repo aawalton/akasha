@@ -15,7 +15,7 @@ import { createTerminalDeathController } from "akasha/agents/seats/pty/modules/t
 import {
   applySttySane,
   TERMINAL_MODE_RESET,
-} from "akasha/seat-system/supervising/supervisor-terminal/supervisor-terminal.module.code.ts"
+} from "akasha/seat-system/supervising/modules/supervisor-terminal/supervisor-terminal.module.code.ts"
 
 const TERMINAL_DEATH_GRACE_MS = 15_000
 
