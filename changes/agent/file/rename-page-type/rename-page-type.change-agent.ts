@@ -5,6 +5,8 @@ export const renamePageType = {
   type: "change-agent",
   slug: "rename-page-type",
   changeMode: "change-mode-rename",
+  changeTargetType: "change-target-type/file",
+  changeTargetSubtype: "change-target-subtype/file-page-type",
   definition: "one page type renamed, by the partial change renaming a page type",
   code: "ts",
   test: "ts",

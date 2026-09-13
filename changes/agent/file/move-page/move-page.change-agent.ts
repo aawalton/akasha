@@ -5,6 +5,8 @@ export const movePage = {
   type: "change-agent",
   slug: "move-page",
   changeMode: "change-mode-move",
+  changeTargetType: "change-target-type/file",
+  changeTargetSubtype: "change-target-subtype/file-page",
   definition: "one page and the files beside that page moved into another folder",
   code: "ts",
   test: "ts",

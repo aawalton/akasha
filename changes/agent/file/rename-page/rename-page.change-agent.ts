@@ -5,6 +5,8 @@ export const renamePage = {
   type: "change-agent",
   slug: "rename-page",
   changeMode: "change-mode-rename",
+  changeTargetType: "change-target-type/file",
+  changeTargetSubtype: "change-target-subtype/file-page",
   definition: "a page renamed and carried to where its slug says, in the data and in every name",
   code: "ts",
   test: "ts",

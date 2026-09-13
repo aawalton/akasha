@@ -5,6 +5,8 @@ export const addBinaryFile = {
   type: "change-agent",
   slug: "add-binary-file",
   changeMode: "change-mode-add",
+  changeTargetType: "change-target-type/file",
+  changeTargetSubtype: "change-target-subtype/file",
   definition: "one body the tree already holds, landed at the path that body sits at",
   code: "ts",
   test: "ts",

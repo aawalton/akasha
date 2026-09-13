@@ -5,6 +5,8 @@ export const dividePageProperty = {
   type: "change-agent",
   slug: "divide-page-property",
   changeMode: "change-mode-divide",
+  changeTargetType: "change-target-type/file",
+  changeTargetSubtype: "change-target-subtype/file-page-property",
   definition: "one page property's rows laid out again across the files the ceiling takes",
   code: "ts",
   test: "ts",

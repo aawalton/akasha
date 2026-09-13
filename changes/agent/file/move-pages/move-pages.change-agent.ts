@@ -5,6 +5,8 @@ export const movePages = {
   type: "change-agent",
   slug: "move-pages",
   changeMode: "change-mode-move",
+  changeTargetType: "change-target-type/file",
+  changeTargetSubtype: "change-target-subtype/file-page",
   definition: "many pages carried into the folders their lines name, in one call",
   code: "ts",
   test: "ts",

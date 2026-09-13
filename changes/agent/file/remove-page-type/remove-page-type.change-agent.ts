@@ -5,6 +5,8 @@ export const removePageType = {
   type: "change-agent",
   slug: "remove-page-type",
   changeMode: "change-mode-remove",
+  changeTargetType: "change-target-type/file",
+  changeTargetSubtype: "change-target-subtype/file-page-type",
   definition: "one page type taken away, by the partial change taking a page type away",
   code: "ts",
   test: "ts",

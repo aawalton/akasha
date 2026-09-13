@@ -5,6 +5,8 @@ export const removePackageManifest = {
   type: "change-agent",
   slug: "remove-package-manifest",
   changeMode: "change-mode-remove",
+  changeTargetType: "change-target-type/file",
+  changeTargetSubtype: "change-target-subtype/file-manifest",
   definition:
     "a package's manifest taken away, with the package above taking what that manifest named",
   code: "ts",

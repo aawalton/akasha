@@ -5,6 +5,8 @@ export const addFile = {
   type: "change-agent",
   slug: "add-file",
   changeMode: "change-mode-add",
+  changeTargetType: "change-target-type/file",
+  changeTargetSubtype: "change-target-subtype/file",
   definition: "one body written at one path, judged by the checks a landing runs",
   code: "ts",
   test: "ts",
