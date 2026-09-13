@@ -12,7 +12,12 @@ export const tinyHeist = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-01-10",
-  externalId: "trakt-season-208557",
-  externalLink: "https://trakt.tv/shows/dimension-20/seasons/4",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-208557",
+      externalLink: "https://trakt.tv/shows/dimension-20/seasons/4",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

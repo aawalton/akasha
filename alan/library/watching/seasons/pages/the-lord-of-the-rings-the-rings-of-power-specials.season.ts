@@ -12,7 +12,12 @@ export const theLordOfTheRingsTheRingsOfPowerSpecials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2022-09-03",
-  externalId: "trakt-season-304683",
-  externalLink: "https://trakt.tv/shows/the-lord-of-the-rings-the-rings-of-power/seasons/0",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-304683",
+      externalLink: "https://trakt.tv/shows/the-lord-of-the-rings-the-rings-of-power/seasons/0",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

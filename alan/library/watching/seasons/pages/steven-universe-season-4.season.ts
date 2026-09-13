@@ -12,7 +12,12 @@ export const stevenUniverseSeason4 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2016-08-11",
-  externalId: "trakt-season-131912",
-  externalLink: "https://trakt.tv/shows/steven-universe/seasons/4",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-131912",
+      externalLink: "https://trakt.tv/shows/steven-universe/seasons/4",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

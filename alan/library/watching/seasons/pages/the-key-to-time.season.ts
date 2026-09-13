@@ -12,7 +12,12 @@ export const theKeyToTime = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1978-09-02",
-  externalId: "trakt-season-436",
-  externalLink: "https://trakt.tv/shows/doctor-who/seasons/16",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-436",
+      externalLink: "https://trakt.tv/shows/doctor-who/seasons/16",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

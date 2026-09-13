@@ -12,7 +12,12 @@ export const theUnsleepingCity = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-07-09",
-  externalId: "trakt-season-194725",
-  externalLink: "https://trakt.tv/shows/dimension-20/seasons/3",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-194725",
+      externalLink: "https://trakt.tv/shows/dimension-20/seasons/3",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const theMentalistSeason3 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2010-09-24",
-  externalId: "3",
-  externalLink: "https://trakt.tv/shows/the-mentalist/seasons/3",
-  lastSyncedAt: "2026-01-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "3",
+      externalLink: "https://trakt.tv/shows/the-mentalist/seasons/3",
+      lastSyncedAt: "2026-01-01",
+    },
+  ],
 } as const satisfies Season

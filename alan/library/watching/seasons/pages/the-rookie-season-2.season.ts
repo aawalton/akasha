@@ -12,7 +12,12 @@ export const theRookieSeason2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-09-30",
-  externalId: "trakt-season-194138",
-  externalLink: "https://trakt.tv/shows/the-rookie-2018/seasons/2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-194138",
+      externalLink: "https://trakt.tv/shows/the-rookie-2018/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

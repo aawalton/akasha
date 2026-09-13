@@ -12,7 +12,12 @@ export const theOfficeSeason1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2005-03-24",
-  externalId: "trakt-season-7609",
-  externalLink: "https://trakt.tv/shows/the-office/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-7609",
+      externalLink: "https://trakt.tv/shows/the-office/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

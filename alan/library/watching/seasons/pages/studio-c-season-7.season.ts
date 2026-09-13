@@ -12,7 +12,12 @@ export const studioCSeason7 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-10-02",
-  externalId: "trakt-season-132293",
-  externalLink: "https://trakt.tv/shows/studio-c/seasons/7",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-132293",
+      externalLink: "https://trakt.tv/shows/studio-c/seasons/7",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

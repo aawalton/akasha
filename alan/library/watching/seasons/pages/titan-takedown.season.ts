@@ -12,7 +12,12 @@ export const titanTakedown = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-04-02",
-  externalId: "trakt-season-449707",
-  externalLink: "https://trakt.tv/shows/dimension-20/seasons/25",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-449707",
+      externalLink: "https://trakt.tv/shows/dimension-20/seasons/25",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

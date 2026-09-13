@@ -12,7 +12,12 @@ export const youngSheldonSeason5 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-10-08",
-  externalId: "trakt-season-265164",
-  externalLink: "https://trakt.tv/shows/young-sheldon/seasons/5",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-265164",
+      externalLink: "https://trakt.tv/shows/young-sheldon/seasons/5",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

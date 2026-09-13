@@ -12,7 +12,12 @@ export const theLoneGunmenSpecials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2002-04-22",
-  externalId: "0",
-  externalLink: "https://trakt.tv/shows/the-lone-gunmen/seasons/0",
-  lastSyncedAt: "2025-10-22",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "0",
+      externalLink: "https://trakt.tv/shows/the-lone-gunmen/seasons/0",
+      lastSyncedAt: "2025-10-22",
+    },
+  ],
 } as const satisfies Season

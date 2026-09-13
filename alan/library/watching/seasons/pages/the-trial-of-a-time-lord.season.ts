@@ -12,7 +12,12 @@ export const theTrialOfATimeLord = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1986-09-06",
-  externalId: "trakt-season-443",
-  externalLink: "https://trakt.tv/shows/doctor-who/seasons/23",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-443",
+      externalLink: "https://trakt.tv/shows/doctor-who/seasons/23",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

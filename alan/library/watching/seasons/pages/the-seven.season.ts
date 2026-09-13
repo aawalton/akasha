@@ -12,7 +12,12 @@ export const theSeven = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-08-18",
-  externalId: "trakt-season-267049",
-  externalLink: "https://trakt.tv/shows/dimension-20/seasons/11",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-267049",
+      externalLink: "https://trakt.tv/shows/dimension-20/seasons/11",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

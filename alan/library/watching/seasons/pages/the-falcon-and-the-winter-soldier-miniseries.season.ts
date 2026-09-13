@@ -12,7 +12,12 @@ export const theFalconAndTheWinterSoldierMiniseries = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-03-19",
-  externalId: "trakt-season-236220",
-  externalLink: "https://trakt.tv/shows/the-falcon-and-the-winter-soldier/seasons/1",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-236220",
+      externalLink: "https://trakt.tv/shows/the-falcon-and-the-winter-soldier/seasons/1",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const wednesdaySeason1 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-23",
-  externalId: "trakt-season-244939",
-  externalLink: "https://trakt.tv/shows/wednesday/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-244939",
+      externalLink: "https://trakt.tv/shows/wednesday/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

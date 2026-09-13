@@ -12,7 +12,12 @@ export const theLegendOfKorraSpecials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2013-08-10",
-  externalId: "trakt-season-45515",
-  externalLink: "https://trakt.tv/shows/the-legend-of-korra/seasons/0",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-45515",
+      externalLink: "https://trakt.tv/shows/the-legend-of-korra/seasons/0",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

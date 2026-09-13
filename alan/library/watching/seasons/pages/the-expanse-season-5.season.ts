@@ -12,7 +12,12 @@ export const theExpanseSeason5 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-12-17",
-  externalId: "trakt-season-230724",
-  externalLink: "https://trakt.tv/shows/the-expanse/seasons/5",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-230724",
+      externalLink: "https://trakt.tv/shows/the-expanse/seasons/5",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const talesOfTheTardisSeason1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-11-01",
-  externalId: "trakt-season-339622",
-  externalLink: "https://trakt.tv/shows/tales-of-the-tardis/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-339622",
+      externalLink: "https://trakt.tv/shows/tales-of-the-tardis/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const stargateUniverseSpecials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2009-10-03",
-  externalId: "trakt-season-15503",
-  externalLink: "https://trakt.tv/shows/stargate-universe/seasons/0",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-15503",
+      externalLink: "https://trakt.tv/shows/stargate-universe/seasons/0",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

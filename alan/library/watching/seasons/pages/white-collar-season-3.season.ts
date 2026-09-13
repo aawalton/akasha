@@ -12,7 +12,12 @@ export const whiteCollarSeason3 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2011-06-08",
-  externalId: "trakt-season-31977",
-  externalLink: "https://trakt.tv/shows/white-collar/seasons/3",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-31977",
+      externalLink: "https://trakt.tv/shows/white-collar/seasons/3",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

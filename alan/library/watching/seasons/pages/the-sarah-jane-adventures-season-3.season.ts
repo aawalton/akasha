@@ -12,7 +12,12 @@ export const theSarahJaneAdventuresSeason3 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2009-10-15",
-  externalId: "trakt-season-762",
-  externalLink: "https://trakt.tv/shows/the-sarah-jane-adventures/seasons/3",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-762",
+      externalLink: "https://trakt.tv/shows/the-sarah-jane-adventures/seasons/3",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

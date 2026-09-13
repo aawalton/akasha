@@ -12,7 +12,12 @@ export const theMandalorianSeason3 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-03-01",
-  externalId: "trakt-season-303219",
-  externalLink: "https://trakt.tv/shows/the-mandalorian/seasons/3",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-303219",
+      externalLink: "https://trakt.tv/shows/the-mandalorian/seasons/3",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

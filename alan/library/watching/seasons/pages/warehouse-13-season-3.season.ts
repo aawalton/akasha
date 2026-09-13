@@ -12,7 +12,12 @@ export const warehouse13Season3 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2011-07-12",
-  externalId: "3",
-  externalLink: "https://trakt.tv/shows/warehouse-13/seasons/3",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "3",
+      externalLink: "https://trakt.tv/shows/warehouse-13/seasons/3",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

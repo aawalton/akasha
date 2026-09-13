@@ -12,7 +12,12 @@ export const theTwilightZoneSeason13 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-04-01",
-  externalId: "1",
-  externalLink: "https://trakt.tv/shows/the-twilight-zone-2019/seasons/1",
-  lastSyncedAt: "2025-10-30",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "1",
+      externalLink: "https://trakt.tv/shows/the-twilight-zone-2019/seasons/1",
+      lastSyncedAt: "2025-10-30",
+    },
+  ],
 } as const satisfies Season

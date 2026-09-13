@@ -12,7 +12,12 @@ export const theTwilightZoneSeason5 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1963-09-28",
-  externalId: "5",
-  externalLink: "https://trakt.tv/shows/the-twilight-zone-1959/seasons/5",
-  lastSyncedAt: "2025-10-30",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "5",
+      externalLink: "https://trakt.tv/shows/the-twilight-zone-1959/seasons/5",
+      lastSyncedAt: "2025-10-30",
+    },
+  ],
 } as const satisfies Season

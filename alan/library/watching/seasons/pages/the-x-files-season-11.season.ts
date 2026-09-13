@@ -12,7 +12,12 @@ export const theXFilesSeason11 = {
   unit: "minutes",
   status: "in-progress",
   publishedAt: "2018-01-04",
-  externalId: "11",
-  externalLink: "https://trakt.tv/shows/the-x-files/seasons/11",
-  lastSyncedAt: "2025-10-22",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "11",
+      externalLink: "https://trakt.tv/shows/the-x-files/seasons/11",
+      lastSyncedAt: "2025-10-22",
+    },
+  ],
 } as const satisfies Season

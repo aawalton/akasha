@@ -12,7 +12,12 @@ export const theWheelOfTimeSeason3 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-03-13",
-  externalId: "trakt-season-434203",
-  externalLink: "https://trakt.tv/shows/the-wheel-of-time/seasons/3",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-434203",
+      externalLink: "https://trakt.tv/shows/the-wheel-of-time/seasons/3",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const swordArtOnlineAlternativeGunGaleOnlineSeason2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-10-04",
-  externalId: "2",
-  externalLink: "https://trakt.tv/shows/sword-art-online-alternative-gun-gale-online/seasons/2",
-  lastSyncedAt: "2025-10-13",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "2",
+      externalLink: "https://trakt.tv/shows/sword-art-online-alternative-gun-gale-online/seasons/2",
+      lastSyncedAt: "2025-10-13",
+    },
+  ],
 } as const satisfies Season

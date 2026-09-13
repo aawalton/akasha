@@ -12,7 +12,12 @@ export const theXFilesSpecials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "1998-06-20",
-  externalId: "0",
-  externalLink: "https://trakt.tv/shows/the-x-files/seasons/0",
-  lastSyncedAt: "2025-10-22",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "0",
+      externalLink: "https://trakt.tv/shows/the-x-files/seasons/0",
+      lastSyncedAt: "2025-10-22",
+    },
+  ],
 } as const satisfies Season

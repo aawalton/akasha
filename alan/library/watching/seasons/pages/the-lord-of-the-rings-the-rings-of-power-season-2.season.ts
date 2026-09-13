@@ -12,7 +12,12 @@ export const theLordOfTheRingsTheRingsOfPowerSeason2 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-08-29",
-  externalId: "trakt-season-370434",
-  externalLink: "https://trakt.tv/shows/the-lord-of-the-rings-the-rings-of-power/seasons/2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-370434",
+      externalLink: "https://trakt.tv/shows/the-lord-of-the-rings-the-rings-of-power/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

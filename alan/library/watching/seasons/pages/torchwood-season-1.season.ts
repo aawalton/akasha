@@ -12,7 +12,12 @@ export const torchwoodSeason1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2006-10-22",
-  externalId: "trakt-season-1387",
-  externalLink: "https://trakt.tv/shows/torchwood/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-1387",
+      externalLink: "https://trakt.tv/shows/torchwood/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

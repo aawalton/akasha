@@ -12,7 +12,12 @@ export const strangerThings2 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2017-10-27",
-  externalId: "trakt-season-131692",
-  externalLink: "https://trakt.tv/shows/stranger-things/seasons/2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-131692",
+      externalLink: "https://trakt.tv/shows/stranger-things/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

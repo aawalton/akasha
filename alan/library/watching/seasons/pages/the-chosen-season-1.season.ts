@@ -12,7 +12,12 @@ export const theChosenSeason1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-04-21",
-  externalId: "trakt-season-204073",
-  externalLink: "https://trakt.tv/shows/the-chosen/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-204073",
+      externalLink: "https://trakt.tv/shows/the-chosen/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

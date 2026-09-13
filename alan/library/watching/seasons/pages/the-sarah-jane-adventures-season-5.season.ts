@@ -12,7 +12,12 @@ export const theSarahJaneAdventuresSeason5 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2011-10-03",
-  externalId: "trakt-season-764",
-  externalLink: "https://trakt.tv/shows/the-sarah-jane-adventures/seasons/5",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-764",
+      externalLink: "https://trakt.tv/shows/the-sarah-jane-adventures/seasons/5",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

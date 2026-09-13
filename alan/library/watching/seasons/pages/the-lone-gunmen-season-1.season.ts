@@ -12,7 +12,12 @@ export const theLoneGunmenSeason1 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2001-03-05",
-  externalId: "1",
-  externalLink: "https://trakt.tv/shows/the-lone-gunmen/seasons/1",
-  lastSyncedAt: "2025-10-22",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "1",
+      externalLink: "https://trakt.tv/shows/the-lone-gunmen/seasons/1",
+      lastSyncedAt: "2025-10-22",
+    },
+  ],
 } as const satisfies Season

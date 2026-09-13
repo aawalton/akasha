@@ -12,7 +12,12 @@ export const theBigBangTheorySeason9 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2015-09-22",
-  externalId: "trakt-season-110698",
-  externalLink: "https://trakt.tv/shows/the-big-bang-theory/seasons/9",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-110698",
+      externalLink: "https://trakt.tv/shows/the-big-bang-theory/seasons/9",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

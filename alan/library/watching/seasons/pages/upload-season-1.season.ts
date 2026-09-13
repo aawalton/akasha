@@ -12,7 +12,12 @@ export const uploadSeason1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-05-01",
-  externalId: "trakt-season-213521",
-  externalLink: "https://trakt.tv/shows/upload/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-213521",
+      externalLink: "https://trakt.tv/shows/upload/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

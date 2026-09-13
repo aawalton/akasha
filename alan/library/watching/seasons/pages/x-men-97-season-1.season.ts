@@ -12,7 +12,12 @@ export const xMen97Season1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-03-20",
-  externalId: "trakt-season-279652",
-  externalLink: "https://trakt.tv/shows/x-men-97/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-279652",
+      externalLink: "https://trakt.tv/shows/x-men-97/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

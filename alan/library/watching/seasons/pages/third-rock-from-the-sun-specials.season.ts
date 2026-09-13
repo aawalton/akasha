@@ -12,7 +12,12 @@ export const thirdRockFromTheSunSpecials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "1996-01-09",
-  externalId: "0",
-  externalLink: "https://trakt.tv/shows/3rd-rock-from-the-sun/seasons/0",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "0",
+      externalLink: "https://trakt.tv/shows/3rd-rock-from-the-sun/seasons/0",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const theBookOfBobaFettMiniseries = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-12-29",
-  externalId: "trakt-season-237250",
-  externalLink: "https://trakt.tv/shows/the-book-of-boba-fett/seasons/1",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-237250",
+      externalLink: "https://trakt.tv/shows/the-book-of-boba-fett/seasons/1",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season
