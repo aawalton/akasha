@@ -5,7 +5,7 @@ import {
   setRequestedAction,
   waitForActionCleared,
 } from "akasha/agents/seats/modules/action/seat-action.module.code.ts"
-import { readProxyState } from "akasha/agents/seats/modules/proxy-state/seat-proxy-state.module.code.ts"
+import { readProxyState } from "akasha/agents/seats/oauth-proxy/modules/proxy-state/seat-proxy-state.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { fleet } from "akasha/commands/arguments/pages/fleet.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"

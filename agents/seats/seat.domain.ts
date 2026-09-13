@@ -25,7 +25,6 @@ export const seat = {
     "domain/self-healing",
     "module/seat-action",
     "module/seat-control",
-    "module/seat-proxy-state",
     "module/window-duration",
     "page-type/log-source",
     "page-type/seat",
