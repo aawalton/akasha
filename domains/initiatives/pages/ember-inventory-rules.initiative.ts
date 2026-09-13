@@ -11,7 +11,7 @@ export const emberInventoryRules = {
       statement:
         "A visit to the banker moves every item the rules send there, however many there are.",
       workingMemory:
-        "The game allows a hundred stack moves per ten seconds, withdrawals and deposits together. A batch of 26 was confirming 23 and aborting at 5096ms; 23 now go in 769ms with no retry, since 5ae05aa offers a partial slot only where it takes the whole move and b4855e82 re-issues a move only where it could land. 7bc8d00 leaves a chain one wake, and cbcf34e keeps what the bank was told across visits, so closing and reopening inside ten seconds spends one budget. Left: a real batch past the hundred.\n",
+        "The game allows a hundred stack moves per ten seconds, withdrawals and deposits together. A batch of 150 goes out over two rounds with no retry, and two visits inside the ten seconds spend one budget. A slot holds one item, so a move onto a slot holding another item is sent once and left, and a move is confirmed by the item that left its source slot rather than by what that slot holds. Left: a real batch past the hundred, and why a withdrawal is aimed at a slot another item has taken.\n",
     },
   ],
   constraints: [
