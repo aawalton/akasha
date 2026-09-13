@@ -28,10 +28,6 @@ export function openingInstantOn(roots: Roots, dayStr: string): string {
   return openedDayWindow(roots, dayStr).from
 }
 
-export function openingInstantAt(roots: Roots, at: number): string {
-  return openingInstantOn(roots, getEsoDayStr(new Date(at)))
-}
-
 function recordedOpeningAt(roots: Roots, dayStr: string): number | null {
   const opening = recordedOpeningOn(rootFor(roots, AKASHA), dayStr)
   return "refused" in opening ? null : opening.getTime()
