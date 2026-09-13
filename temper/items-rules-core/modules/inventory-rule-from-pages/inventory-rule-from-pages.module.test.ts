@@ -148,19 +148,23 @@ const A_ROW = {
 
 test("a row carrying every key a rule needs becomes a held rule", () => {
   const held = heldFromRow({ ...A_ROW, title: "a title" })
-  expect(held?.page.slug).toBe("rule-one")
-  expect(held?.page.displayOrder).toBe(3)
-  expect(held?.page.title).toBe("a title")
+  expect(held.page.slug).toBe("rule-one")
+  expect(held.page.displayOrder).toBe(3)
+  expect(held.page.title).toBe("a title")
 })
 
-test("a row short of a key every rule carries is no rule", () => {
-  expect(heldFromRow({ ...A_ROW, categoryId: undefined })).toBeNull()
-  expect(heldFromRow({ ...A_ROW, displayOrder: "3" })).toBeNull()
+test("a row short of a key every rule carries stops the read naming the rule and the key", () => {
+  expect(() => heldFromRow({ ...A_ROW, categoryId: undefined })).toThrow(
+    "rule `rule-one` is unread — the page states no `categoryId`"
+  )
+  expect(() => heldFromRow({ ...A_ROW, action: undefined })).toThrow("states no `action`")
+  expect(() => heldFromRow({ ...A_ROW, updatedAt: undefined })).toThrow("states no `updatedAt`")
+  expect(() => heldFromRow({ ...A_ROW, displayOrder: "3" })).toThrow("states no `displayOrder`")
 })
 
 test("a row saying nothing about being switched on is read as switched on", () => {
-  expect(heldFromRow(A_ROW)?.page.active).toBe(true)
-  expect(heldFromRow({ ...A_ROW, active: false })?.page.active).toBe(false)
+  expect(heldFromRow(A_ROW).page.active).toBe(true)
+  expect(heldFromRow({ ...A_ROW, active: false }).page.active).toBe(false)
 })
 
 test("the rows beside a page come back under their own keys", () => {
@@ -169,17 +173,55 @@ test("the rows beside a page come back under their own keys", () => {
     conditions: [{ id: "an-id", conditionField: "known", conditionValue: "known" }],
     destinationChain: [{ destination: "bank", targetQuantity: 2 }],
   })
-  expect(held?.conditions).toEqual([{ conditionField: "known", conditionValue: "known" }])
-  expect(held?.chain).toEqual([{ destination: "bank", targetQuantity: 2 }])
+  expect(held.conditions).toEqual([{ conditionField: "known", conditionValue: "known" }])
+  expect(held.chain).toEqual([{ destination: "bank", targetQuantity: 2 }])
 })
 
-test("a row beside the page short of a field its shape declares is left out", () => {
-  const held = heldFromRow({ ...A_ROW, conditions: [{ conditionField: "known" }] })
-  expect(held?.conditions).toEqual([])
+test("a rule keeps none of its action where a condition beside it is short of a field", () => {
+  expect(() => heldFromRow({ ...A_ROW, conditions: [{ conditionField: "known" }] })).toThrow(
+    "states no `conditionValue`"
+  )
+  expect(() => heldFromRow({ ...A_ROW, conditions: [{ conditionValue: "known" }] })).toThrow(
+    "states no `conditionField`"
+  )
 })
 
-test("a row that is no rule is left out of the many", () => {
-  expect(heldFromRows([A_ROW, { slug: "rule-two" }]).map((one) => one.page.slug)).toEqual([
+test("dropping a condition would widen the rule, and the refusal says so", () => {
+  expect(() => heldFromRow({ ...A_ROW, conditions: [{ conditionField: "known" }] })).toThrow(
+    "the rule would match more than it says"
+  )
+})
+
+test("a tier of the chain short of a destination stops the read", () => {
+  expect(() =>
+    heldFromRow({ ...A_ROW, destinationChain: [{ destination: "bank" }, { targetQuantity: 2 }] })
+  ).toThrow("states no `destination`")
+})
+
+test("rows beside the page that are no rows at all stop the read", () => {
+  expect(() => heldFromRow({ ...A_ROW, conditions: "known" })).toThrow(
+    "`conditions` is a string rather than the rows beside the page"
+  )
+  expect(() => heldFromRow({ ...A_ROW, conditions: ["known"] })).toThrow(
+    "a row under `conditions` is a string rather than a row"
+  )
+})
+
+test("a row that is no rule stops the read of the many rather than going missing from them", () => {
+  expect(() => heldFromRows([A_ROW, { slug: "rule-two" }])).toThrow(
+    "rule `rule-two` is unread — the page states no `categoryId`"
+  )
+})
+
+test("a row naming no rule at all stops the read", () => {
+  expect(() => heldFromRows([{ categoryId: "scripts" }])).toThrow("a rule row states no `slug`")
+})
+
+test("every rule a read carries comes back, so a count is the count", () => {
+  const rows = [A_ROW, { ...A_ROW, slug: "rule-two" }, { ...A_ROW, slug: "rule-three" }]
+  expect(heldFromRows(rows).map((one) => one.page.slug)).toEqual([
     "rule-one",
+    "rule-two",
+    "rule-three",
   ])
 })

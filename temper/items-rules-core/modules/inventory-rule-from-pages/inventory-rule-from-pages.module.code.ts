@@ -64,6 +64,10 @@ function epochOf(instant: string): number {
   return at
 }
 
+function unread(slug: string, why: string): Error {
+  return new Error(`inventoryRuleFromPages: rule \`${slug}\` is unread — ${why}`)
+}
+
 function conditionsOf(
   entries: readonly ConditionEntry[],
   slug: string
@@ -73,9 +77,7 @@ function conditionsOf(
   for (const entry of entries) held[keyOf(entry.conditionField)] = spelt(entry.conditionValue)
   const read = conditionsTaken(held)
   if ("wrong" in read) {
-    throw new Error(
-      `inventoryRuleFromPages: rule \`${slug}\` is unread — ${read.wrong.map(saidWrong).join("; ")}`
-    )
+    throw unread(slug, read.wrong.map(saidWrong).join("; "))
   }
   return read.taken
 }
@@ -96,30 +98,55 @@ function textAt(row: Record<string, unknown>, key: string): string | undefined {
   return typeof value === "string" ? value : undefined
 }
 
-function rowsAt(row: Record<string, unknown>, key: string): readonly Record<string, unknown>[] {
+function rowsAt(
+  row: Record<string, unknown>,
+  key: string,
+  slug: string
+): readonly Record<string, unknown>[] {
   const value = row[key]
-  if (!Array.isArray(value)) return []
-  return value.filter((one): one is Record<string, unknown> => {
-    return typeof one === "object" && one !== null && !Array.isArray(one)
-  })
+  if (value === undefined || value === null) return []
+  if (!Array.isArray(value)) {
+    throw unread(slug, `\`${key}\` is a ${typeof value} rather than the rows beside the page`)
+  }
+  const out: Record<string, unknown>[] = []
+  for (const one of value) {
+    if (typeof one !== "object" || one === null || Array.isArray(one)) {
+      throw unread(slug, `a row under \`${key}\` is a ${typeof one} rather than a row`)
+    }
+    out.push(one as Record<string, unknown>)
+  }
+  return out
 }
 
-function conditionRowsIn(row: Record<string, unknown>): readonly ConditionEntry[] {
+function conditionRowsIn(row: Record<string, unknown>, slug: string): readonly ConditionEntry[] {
   const out: ConditionEntry[] = []
-  for (const one of rowsAt(row, "conditions")) {
+  for (const one of rowsAt(row, "conditions", slug)) {
     const conditionField = textAt(one, "conditionField")
     const conditionValue = textAt(one, "conditionValue")
-    if (conditionField === undefined || conditionValue === undefined) continue
+    if (conditionField === undefined || conditionValue === undefined) {
+      const short = conditionField === undefined ? "conditionField" : "conditionValue"
+      throw unread(
+        slug,
+        `a condition beside the page states no \`${short}\`, and leaving it out would keep the ` +
+          `rule its action with one condition fewer, so the rule would match more than it says`
+      )
+    }
     out.push({ conditionField, conditionValue })
   }
   return out
 }
 
-function chainRowsIn(row: Record<string, unknown>): readonly ChainEntry[] {
+function chainRowsIn(row: Record<string, unknown>, slug: string): readonly ChainEntry[] {
   const out: ChainEntry[] = []
-  for (const one of rowsAt(row, "destinationChain")) {
+  for (const one of rowsAt(row, "destinationChain", slug)) {
     const destination = textAt(one, "destination")
-    if (destination === undefined) continue
+    if (destination === undefined) {
+      throw unread(
+        slug,
+        "a tier of the destination chain states no `destination`, and leaving it out would send " +
+          "what that tier held on to the tier below it"
+      )
+    }
     const targetQuantity = one.targetQuantity
     const charEligibility = textAt(one, "charEligibility")
     out.push({
@@ -131,14 +158,26 @@ function chainRowsIn(row: Record<string, unknown>): readonly ChainEntry[] {
   return out
 }
 
-export function heldFromRow(row: Record<string, unknown>): HeldRule | null {
+export function heldFromRow(row: Record<string, unknown>): HeldRule {
   const slug = textAt(row, "slug")
+  if (slug === undefined) {
+    throw new Error(
+      "inventoryRuleFromPages: a rule row states no `slug`, so which rule it is cannot be said"
+    )
+  }
   const categoryId = textAt(row, "categoryId")
   const action = textAt(row, "action")
   const updatedAt = textAt(row, "updatedAt")
   const displayOrder = row.displayOrder
-  if (slug === undefined || categoryId === undefined || action === undefined) return null
-  if (updatedAt === undefined || typeof displayOrder !== "number") return null
+  if (categoryId === undefined) throw unread(slug, "the page states no `categoryId`")
+  if (action === undefined) throw unread(slug, "the page states no `action`")
+  if (updatedAt === undefined) throw unread(slug, "the page states no `updatedAt`")
+  if (typeof displayOrder !== "number") {
+    throw unread(
+      slug,
+      "the page states no `displayOrder`, so where the rule falls among the rules is unread"
+    )
+  }
   const page: RulePage = {
     slug,
     ...(textAt(row, "accountPage") === undefined
@@ -162,16 +201,11 @@ export function heldFromRow(row: Record<string, unknown>): HeldRule | null {
       ? {}
       : { stockScope: textAt(row, "stockScope") as string }),
   }
-  return { page, conditions: conditionRowsIn(row), chain: chainRowsIn(row) }
+  return { page, conditions: conditionRowsIn(row, slug), chain: chainRowsIn(row, slug) }
 }
 
 export function heldFromRows(rows: readonly Record<string, unknown>[]): readonly HeldRule[] {
-  const out: HeldRule[] = []
-  for (const row of rows) {
-    const held = heldFromRow(row)
-    if (held !== null) out.push(held)
-  }
-  return out
+  return rows.map((row) => heldFromRow(row))
 }
 
 export function ruleFromPage(held: HeldRule): CategoryRule {

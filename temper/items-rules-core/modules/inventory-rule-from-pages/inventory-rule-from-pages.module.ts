@@ -38,11 +38,15 @@ export const inventoryRuleFromPages = {
     },
     {
       invariantKind: "departure",
-      statement: "A row short of a key every rule has is no rule and is left out.",
+      statement: "A row short of a key every rule has stops the read naming the rule and the key.",
     },
     {
       invariantKind: "departure",
-      statement: "A row beside the page short of a field its shape declares is left out.",
+      statement: "A row beside the page short of a field its shape declares stops the read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every rule a read was handed is in what that read returns.",
     },
     {
       invariantKind: "gap",
