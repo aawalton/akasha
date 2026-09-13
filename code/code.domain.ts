@@ -17,6 +17,7 @@ export const code = {
     "domain/shell",
     "page-type/app-routes",
     "page-type/component",
+    "page-type/component-property-group",
     "page-type/container-recipe",
     "page-type/eso-addon",
     "page-type/eso-interface",
