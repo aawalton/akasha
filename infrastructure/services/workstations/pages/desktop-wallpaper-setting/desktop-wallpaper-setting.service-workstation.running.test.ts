@@ -22,7 +22,7 @@ mock.module(
 )
 
 const running = await import(
-  "akasha/infrastructure/services/workstations/pages/desktop-wallpaper-setting.service-workstation.running.code.ts"
+  "akasha/infrastructure/services/workstations/pages/desktop-wallpaper-setting/desktop-wallpaper-setting.service-workstation.running.code.ts"
 )
 
 test("the run is a function taking nothing, which is how the service runner calls it", () => {
