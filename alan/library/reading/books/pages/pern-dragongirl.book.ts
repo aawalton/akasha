@@ -10,8 +10,12 @@ export const pernDragongirl = {
   unit: "words",
   position: 9,
   ownLength: 128250,
-  source: "kindle",
-  externalId: "B0036S4CAC",
-  externalLink: "https://www.amazon.com/dp/B0036S4CAC",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0036S4CAC",
+      externalLink: "https://www.amazon.com/dp/B0036S4CAC",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

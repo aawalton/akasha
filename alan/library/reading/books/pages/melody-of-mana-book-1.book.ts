@@ -13,7 +13,11 @@ export const melodyOfManaBook1 = {
   ownProgress: 87250,
   publishedAt: "2022-07-19",
   partOfCollections: ["book-series/melody-of-mana"],
-  source: "kindle",
-  externalId: "B0B42YGVJW",
-  externalLink: "https://amazon.com/dp/B0B42YGVJW",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0B42YGVJW",
+      externalLink: "https://amazon.com/dp/B0B42YGVJW",
+    },
+  ],
 } as const satisfies Book

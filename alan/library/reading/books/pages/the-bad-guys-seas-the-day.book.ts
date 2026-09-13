@@ -12,7 +12,11 @@ export const theBadGuysSeasTheDay = {
   ownLength: 106500,
   ownProgress: 106500,
   publishedAt: "2020-10-22",
-  source: "kindle",
-  externalId: "B08F6YVCDB",
-  externalLink: "https://amazon.com/dp/B08F6YVCDB",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08F6YVCDB",
+      externalLink: "https://amazon.com/dp/B08F6YVCDB",
+    },
+  ],
 } as const satisfies Book

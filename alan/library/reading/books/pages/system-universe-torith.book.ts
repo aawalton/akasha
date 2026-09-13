@@ -11,8 +11,12 @@ export const systemUniverseTorith = {
   ownLength: 126750,
   ownProgress: 126750,
   publishedAt: "2023-02-14",
-  source: "kindle",
-  externalId: "B0BKNSTM49",
-  externalLink: "https://amazon.com/dp/B0BKNSTM49",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BKNSTM49",
+      externalLink: "https://amazon.com/dp/B0BKNSTM49",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -10,8 +10,12 @@ export const robertLangdonTheLostSymbol = {
   unit: "words",
   position: 2,
   ownLength: 164500,
-  source: "kindle",
-  externalId: "B002KQ6BT6",
-  externalLink: "https://www.amazon.com/dp/B002KQ6BT6",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B002KQ6BT6",
+      externalLink: "https://www.amazon.com/dp/B002KQ6BT6",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -12,8 +12,12 @@ export const somniaOnlineDissonance = {
   ownProgress: 88500,
   publishedAt: "2019-02-15",
   partOfCollections: ["book-series/somnia-online"],
-  source: "kindle",
-  externalId: "B07ND2XV5V",
-  externalLink: "https://amazon.com/dp/B07ND2XV5V",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07ND2XV5V",
+      externalLink: "https://amazon.com/dp/B07ND2XV5V",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

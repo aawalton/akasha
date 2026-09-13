@@ -10,8 +10,12 @@ export const pernTheMasterharperOfPern = {
   unit: "words",
   position: 14,
   ownLength: 108000,
-  source: "kindle",
-  externalId: "B000FBFOSC",
-  externalLink: "https://www.amazon.com/dp/B000FBFOSC",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000FBFOSC",
+      externalLink: "https://www.amazon.com/dp/B000FBFOSC",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

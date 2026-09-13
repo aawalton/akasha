@@ -9,8 +9,12 @@ export const rcnSeriesThoughHellShouldBarTheWay = {
   unit: "words",
   position: 11,
   ownLength: 97750,
-  source: "kindle",
-  externalId: "B07BK8ZBKV",
-  externalLink: "https://www.amazon.com/dp/B07BK8ZBKV",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07BK8ZBKV",
+      externalLink: "https://www.amazon.com/dp/B07BK8ZBKV",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

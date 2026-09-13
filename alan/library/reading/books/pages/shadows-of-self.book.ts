@@ -10,7 +10,11 @@ export const shadowsOfSelf = {
   unit: "words",
   position: 6,
   ownLength: 90250,
-  source: "kindle",
-  externalId: "B00R697CGS",
-  externalLink: "https://www.amazon.com/dp/B00R697CGS",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00R697CGS",
+      externalLink: "https://www.amazon.com/dp/B00R697CGS",
+    },
+  ],
 } as const satisfies Book

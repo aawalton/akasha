@@ -11,7 +11,11 @@ export const riseOfTheDevourerDragonWarrior = {
   ownLength: 110750,
   publishedAt: "2024-07-03",
   partOfCollections: ["book-series/rise-of-the-devourer"],
-  source: "kindle",
-  externalId: "B0CSL7F49D",
-  externalLink: "https://amazon.com/dp/B0CSL7F49D",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CSL7F49D",
+      externalLink: "https://amazon.com/dp/B0CSL7F49D",
+    },
+  ],
 } as const satisfies Book

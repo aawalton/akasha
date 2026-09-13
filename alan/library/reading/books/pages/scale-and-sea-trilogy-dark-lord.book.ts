@@ -11,7 +11,11 @@ export const scaleAndSeaTrilogyDarkLord = {
   ownLength: 119500,
   ownProgress: 119500,
   publishedAt: "2025-07-31",
-  source: "kindle",
-  externalId: "B0F8PYTK9C",
-  externalLink: "https://amazon.com/dp/B0F8PYTK9C",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0F8PYTK9C",
+      externalLink: "https://amazon.com/dp/B0F8PYTK9C",
+    },
+  ],
 } as const satisfies Book

@@ -12,7 +12,11 @@ export const infinityBladeAwakening = {
   position: 1,
   ownLength: 37500,
   ownProgress: 37500,
-  source: "kindle",
-  externalId: "B005SFRJ6K",
-  externalLink: "https://www.amazon.com/dp/B005SFRJ6K",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B005SFRJ6K",
+      externalLink: "https://www.amazon.com/dp/B005SFRJ6K",
+    },
+  ],
 } as const satisfies Book

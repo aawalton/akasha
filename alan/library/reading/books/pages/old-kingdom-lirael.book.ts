@@ -10,8 +10,12 @@ export const oldKingdomLirael = {
   unit: "words",
   position: 1,
   ownLength: 180000,
-  source: "kindle",
-  externalId: "B000FC12L4",
-  externalLink: "https://www.amazon.com/dp/B000FC12L4",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000FC12L4",
+      externalLink: "https://www.amazon.com/dp/B000FC12L4",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

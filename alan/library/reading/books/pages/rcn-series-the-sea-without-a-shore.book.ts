@@ -9,8 +9,12 @@ export const rcnSeriesTheSeaWithoutAShore = {
   unit: "words",
   position: 9,
   ownLength: 115500,
-  source: "kindle",
-  externalId: "B00JQEDABC",
-  externalLink: "https://www.amazon.com/dp/B00JQEDABC",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00JQEDABC",
+      externalLink: "https://www.amazon.com/dp/B00JQEDABC",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

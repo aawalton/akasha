@@ -10,8 +10,12 @@ export const pernTheChroniclesOfPernFirstFall = {
   unit: "words",
   position: 2,
   ownLength: 84000,
-  source: "kindle",
-  externalId: "B000FBFOPK",
-  externalLink: "https://www.amazon.com/dp/B000FBFOPK",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000FBFOPK",
+      externalLink: "https://www.amazon.com/dp/B000FBFOPK",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

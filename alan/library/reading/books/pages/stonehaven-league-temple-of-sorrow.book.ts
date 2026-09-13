@@ -12,7 +12,11 @@ export const stonehavenLeagueTempleOfSorrow = {
   ownProgress: 95500,
   publishedAt: "2018-04-24",
   partOfCollections: ["book-series/stonehaven-league"],
-  source: "kindle",
-  externalId: "B07CJPX61L",
-  externalLink: "https://amazon.com/dp/B07CJPX61L",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07CJPX61L",
+      externalLink: "https://amazon.com/dp/B07CJPX61L",
+    },
+  ],
 } as const satisfies Book

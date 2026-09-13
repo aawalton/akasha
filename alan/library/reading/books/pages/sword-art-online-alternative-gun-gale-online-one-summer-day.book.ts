@@ -11,7 +11,11 @@ export const swordArtOnlineAlternativeGunGaleOnlineOneSummerDay = {
   position: 6,
   ownLength: 56000,
   publishedAt: "2020-02-25",
-  source: "kindle",
-  externalId: "B07WYYWTXP",
-  externalLink: "https://amazon.com/dp/B07WYYWTXP",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07WYYWTXP",
+      externalLink: "https://amazon.com/dp/B07WYYWTXP",
+    },
+  ],
 } as const satisfies Book

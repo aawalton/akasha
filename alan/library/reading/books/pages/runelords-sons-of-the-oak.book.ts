@@ -10,8 +10,12 @@ export const runelordsSonsOfTheOak = {
   unit: "words",
   position: 4,
   ownLength: 96000,
-  source: "kindle",
-  externalId: "B000Q9ISOU",
-  externalLink: "https://www.amazon.com/dp/B000Q9ISOU",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000Q9ISOU",
+      externalLink: "https://www.amazon.com/dp/B000Q9ISOU",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

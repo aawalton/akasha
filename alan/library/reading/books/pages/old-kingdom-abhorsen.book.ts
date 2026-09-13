@@ -10,8 +10,12 @@ export const oldKingdomAbhorsen = {
   unit: "words",
   position: 2,
   ownLength: 132000,
-  source: "kindle",
-  externalId: "B000FC10IO",
-  externalLink: "https://www.amazon.com/dp/B000FC10IO",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000FC10IO",
+      externalLink: "https://www.amazon.com/dp/B000FC10IO",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

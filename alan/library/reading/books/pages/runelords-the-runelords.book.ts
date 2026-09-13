@@ -9,8 +9,12 @@ export const runelordsTheRunelords = {
   author: "David Farland",
   unit: "words",
   ownLength: 157000,
-  source: "kindle",
-  externalId: "B00FO74WIK",
-  externalLink: "https://www.amazon.com/dp/B00FO74WIK",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00FO74WIK",
+      externalLink: "https://www.amazon.com/dp/B00FO74WIK",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

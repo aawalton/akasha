@@ -11,7 +11,11 @@ export const scaleAndSeaTrilogyGloamtideGuild = {
   ownLength: 119250,
   ownProgress: 119250,
   publishedAt: "2025-05-31",
-  source: "kindle",
-  externalId: "B0F8P8ZF19",
-  externalLink: "https://amazon.com/dp/B0F8P8ZF19",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0F8P8ZF19",
+      externalLink: "https://amazon.com/dp/B0F8P8ZF19",
+    },
+  ],
 } as const satisfies Book

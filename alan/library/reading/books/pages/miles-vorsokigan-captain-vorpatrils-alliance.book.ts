@@ -9,8 +9,12 @@ export const milesVorsokiganCaptainVorpatrilsAlliance = {
   unit: "words",
   position: 14,
   ownLength: 133500,
-  source: "kindle",
-  externalId: "B00AERRKHA",
-  externalLink: "https://www.amazon.com/dp/B00AERRKHA",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00AERRKHA",
+      externalLink: "https://www.amazon.com/dp/B00AERRKHA",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

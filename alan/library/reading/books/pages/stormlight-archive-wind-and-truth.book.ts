@@ -11,7 +11,11 @@ export const stormlightArchiveWindAndTruth = {
   position: 5,
   ownLength: 329000,
   publishedAt: "2024-12-06",
-  source: "kindle",
-  externalId: "B0CPWQZNQB",
-  externalLink: "https://amazon.com/dp/B0CPWQZNQB",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CPWQZNQB",
+      externalLink: "https://amazon.com/dp/B0CPWQZNQB",
+    },
+  ],
 } as const satisfies Book

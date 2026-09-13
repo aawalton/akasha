@@ -10,8 +10,12 @@ export const pernAllTheWeyrsOfPern = {
   unit: "words",
   position: 22,
   ownLength: 112000,
-  source: "kindle",
-  externalId: "B000FBFOKA",
-  externalLink: "https://www.amazon.com/dp/B000FBFOKA",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000FBFOKA",
+      externalLink: "https://www.amazon.com/dp/B000FBFOKA",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

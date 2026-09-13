@@ -11,7 +11,11 @@ export const robertLangdonTheSecretOfSecrets = {
   position: 6,
   ownLength: 169500,
   publishedAt: "2025-09-09",
-  source: "kindle",
-  externalId: "B0DTT5LV77",
-  externalLink: "https://amazon.com/dp/B0DTT5LV77",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DTT5LV77",
+      externalLink: "https://amazon.com/dp/B0DTT5LV77",
+    },
+  ],
 } as const satisfies Book

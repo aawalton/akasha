@@ -11,7 +11,11 @@ export const systemUniverseTrialsOfCydaria = {
   ownLength: 109500,
   ownProgress: 109500,
   publishedAt: "2023-08-15",
-  source: "kindle",
-  externalId: "B0C4G3LPX1",
-  externalLink: "https://amazon.com/dp/B0C4G3LPX1",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0C4G3LPX1",
+      externalLink: "https://amazon.com/dp/B0C4G3LPX1",
+    },
+  ],
 } as const satisfies Book

@@ -11,8 +11,12 @@ export const pernTheWhiteDragon = {
   position: 20,
   ownLength: 117000,
   publishedAt: "2002-02-26",
-  source: "kindle",
-  externalId: "B000FBFOD2",
-  externalLink: "https://www.amazon.com/dp/B000FBFOD2",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000FBFOD2",
+      externalLink: "https://www.amazon.com/dp/B000FBFOD2",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

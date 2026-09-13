@@ -9,8 +9,12 @@ export const rcnSeriesTheWayToGlory = {
   unit: "words",
   position: 3,
   ownLength: 106000,
-  source: "kindle",
-  externalId: "B00AP9CPCM",
-  externalLink: "https://www.amazon.com/dp/B00AP9CPCM",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00AP9CPCM",
+      externalLink: "https://www.amazon.com/dp/B00AP9CPCM",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

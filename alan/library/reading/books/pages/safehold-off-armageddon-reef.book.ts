@@ -9,8 +9,12 @@ export const safeholdOffArmageddonReef = {
   author: "David Weber",
   unit: "words",
   ownLength: 200000,
-  source: "kindle",
-  externalId: "B000Q67KJ2",
-  externalLink: "https://www.amazon.com/dp/B000Q67KJ2",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000Q67KJ2",
+      externalLink: "https://www.amazon.com/dp/B000Q67KJ2",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

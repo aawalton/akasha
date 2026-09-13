@@ -10,7 +10,11 @@ export const oathbringer = {
   unit: "words",
   position: 4,
   ownLength: 310500,
-  source: "kindle",
-  externalId: "B01NAWAH85",
-  externalLink: "https://www.amazon.com/dp/B01NAWAH85",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01NAWAH85",
+      externalLink: "https://www.amazon.com/dp/B01NAWAH85",
+    },
+  ],
 } as const satisfies Book

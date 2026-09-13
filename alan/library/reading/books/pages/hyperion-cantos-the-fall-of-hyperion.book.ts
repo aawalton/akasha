@@ -10,8 +10,12 @@ export const hyperionCantosTheFallOfHyperion = {
   unit: "words",
   position: 1,
   ownLength: 169000,
-  source: "kindle",
-  externalId: "B004G60FWM",
-  externalLink: "https://www.amazon.com/dp/B004G60FWM",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B004G60FWM",
+      externalLink: "https://www.amazon.com/dp/B004G60FWM",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

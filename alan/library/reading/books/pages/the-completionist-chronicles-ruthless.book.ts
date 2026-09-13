@@ -11,8 +11,12 @@ export const theCompletionistChroniclesRuthless = {
   ownLength: 106250,
   ownProgress: 106250,
   publishedAt: "2022-09-16",
-  source: "kindle",
-  externalId: "B0BFM7238Z",
-  externalLink: "https://amazon.com/dp/B0BFM7238Z",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BFM7238Z",
+      externalLink: "https://amazon.com/dp/B0BFM7238Z",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

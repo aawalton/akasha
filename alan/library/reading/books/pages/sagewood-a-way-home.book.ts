@@ -11,8 +11,12 @@ export const sagewoodAWayHome = {
   ownLength: 96000,
   publishedAt: "2024-12-04",
   partOfCollections: ["book-series/sagewood"],
-  source: "kindle",
-  externalId: "B0DDQHN65Y",
-  externalLink: "https://amazon.com/dp/B0DDQHN65Y",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DDQHN65Y",
+      externalLink: "https://amazon.com/dp/B0DDQHN65Y",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

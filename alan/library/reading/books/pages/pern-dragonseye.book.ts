@@ -10,8 +10,12 @@ export const pernDragonseye = {
   unit: "words",
   position: 3,
   ownLength: 104000,
-  source: "kindle",
-  externalId: "B000FBFOPU",
-  externalLink: "https://www.amazon.com/dp/B000FBFOPU",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000FBFOPU",
+      externalLink: "https://www.amazon.com/dp/B000FBFOPU",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

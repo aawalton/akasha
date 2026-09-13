@@ -10,8 +10,12 @@ export const safeholdAMightyFortress = {
   unit: "words",
   position: 3,
   ownLength: 286750,
-  source: "kindle",
-  externalId: "B0035FZJ9O",
-  externalLink: "https://www.amazon.com/dp/B0035FZJ9O",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0035FZJ9O",
+      externalLink: "https://www.amazon.com/dp/B0035FZJ9O",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

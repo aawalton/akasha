@@ -11,7 +11,11 @@ export const swordArtOnlineAlternativeCloversRegret3 = {
   position: 1,
   ownLength: 68750,
   publishedAt: "2024-08-20",
-  source: "kindle",
-  externalId: "B0CWGS9PXN",
-  externalLink: "https://amazon.com/dp/B0CWGS9PXN",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CWGS9PXN",
+      externalLink: "https://amazon.com/dp/B0CWGS9PXN",
+    },
+  ],
 } as const satisfies Book

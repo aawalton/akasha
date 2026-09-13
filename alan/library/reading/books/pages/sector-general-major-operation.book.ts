@@ -11,7 +11,11 @@ export const sectorGeneralMajorOperation = {
   position: 3,
   ownLength: 10000,
   publishedAt: "1981-04-12",
-  source: "kindle",
-  externalId: "0345293819",
-  externalLink: "https://amazon.com/dp/0345293819",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "0345293819",
+      externalLink: "https://amazon.com/dp/0345293819",
+    },
+  ],
 } as const satisfies Book

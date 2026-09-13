@@ -10,7 +10,11 @@ export const theBadGuys2Lies2Thrones = {
   position: 11,
   ownLength: 99500,
   publishedAt: "2024-04-21",
-  source: "kindle",
-  externalId: "B0CC3TCW7W",
-  externalLink: "https://amazon.com/dp/B0CC3TCW7W",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CC3TCW7W",
+      externalLink: "https://amazon.com/dp/B0CC3TCW7W",
+    },
+  ],
 } as const satisfies Book

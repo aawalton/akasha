@@ -11,7 +11,11 @@ export const theConnectedSystemWarbreakersRise = {
   ownLength: 161000,
   publishedAt: "2024-03-05",
   partOfCollections: ["book-series/the-connected-system"],
-  source: "kindle",
-  externalId: "B0CL9RV9GB",
-  externalLink: "https://amazon.com/dp/B0CL9RV9GB",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CL9RV9GB",
+      externalLink: "https://amazon.com/dp/B0CL9RV9GB",
+    },
+  ],
 } as const satisfies Book

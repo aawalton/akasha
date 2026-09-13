@@ -11,7 +11,11 @@ export const swordArtOnline16 = {
   position: 16,
   ownLength: 54250,
   publishedAt: "2019-05-21",
-  source: "kindle",
-  externalId: "B07L2XWHWP",
-  externalLink: "https://amazon.com/dp/B07L2XWHWP",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07L2XWHWP",
+      externalLink: "https://amazon.com/dp/B07L2XWHWP",
+    },
+  ],
 } as const satisfies Book

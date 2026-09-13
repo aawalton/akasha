@@ -12,7 +12,11 @@ export const soulGuardianBook1 = {
   ownLength: 89250,
   ownProgress: 89250,
   publishedAt: "2025-01-27",
-  source: "kindle",
-  externalId: "B0DTGFR768",
-  externalLink: "https://amazon.com/dp/B0DTGFR768",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DTGFR768",
+      externalLink: "https://amazon.com/dp/B0DTGFR768",
+    },
+  ],
 } as const satisfies Book

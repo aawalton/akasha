@@ -9,8 +9,12 @@ export const rcnSeriesWhenTheTideRises = {
   unit: "words",
   position: 5,
   ownLength: 97750,
-  source: "kindle",
-  externalId: "B00AP91V0Y",
-  externalLink: "https://www.amazon.com/dp/B00AP91V0Y",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00AP91V0Y",
+      externalLink: "https://www.amazon.com/dp/B00AP91V0Y",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

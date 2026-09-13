@@ -9,8 +9,12 @@ export const rcnSeriesSomeGoldenHarbor = {
   unit: "words",
   position: 4,
   ownLength: 117000,
-  source: "kindle",
-  externalId: "B00APA4CCC",
-  externalLink: "https://www.amazon.com/dp/B00APA4CCC",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00APA4CCC",
+      externalLink: "https://www.amazon.com/dp/B00APA4CCC",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

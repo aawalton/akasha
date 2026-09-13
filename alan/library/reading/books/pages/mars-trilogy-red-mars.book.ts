@@ -9,8 +9,12 @@ export const marsTrilogyRedMars = {
   author: "Kim Stanley Robinson",
   unit: "words",
   ownLength: 152000,
-  source: "kindle",
-  externalId: "B000QCS914",
-  externalLink: "https://www.amazon.com/dp/B000QCS914",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000QCS914",
+      externalLink: "https://www.amazon.com/dp/B000QCS914",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

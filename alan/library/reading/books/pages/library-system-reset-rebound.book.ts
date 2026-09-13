@@ -10,7 +10,11 @@ export const librarySystemResetRebound = {
   position: 3,
   ownLength: 183750,
   publishedAt: "2024-11-18",
-  source: "kindle",
-  externalId: "B0D7SW1ZL6",
-  externalLink: "https://amazon.com/dp/B0D7SW1ZL6",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D7SW1ZL6",
+      externalLink: "https://amazon.com/dp/B0D7SW1ZL6",
+    },
+  ],
 } as const satisfies Book

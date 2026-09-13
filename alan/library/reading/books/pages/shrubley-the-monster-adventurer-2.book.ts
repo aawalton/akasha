@@ -12,7 +12,11 @@ export const shrubleyTheMonsterAdventurer2 = {
   ownLength: 130000,
   ownProgress: 130000,
   publishedAt: "2024-07-05",
-  source: "kindle",
-  externalId: "B0D7Y9F5J1",
-  externalLink: "https://amazon.com/dp/B0D7Y9F5J1",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D7Y9F5J1",
+      externalLink: "https://amazon.com/dp/B0D7Y9F5J1",
+    },
+  ],
 } as const satisfies Book

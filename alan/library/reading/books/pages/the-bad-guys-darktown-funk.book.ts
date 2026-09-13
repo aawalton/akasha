@@ -10,8 +10,12 @@ export const theBadGuysDarktownFunk = {
   position: 9,
   ownLength: 98750,
   publishedAt: "2022-07-01",
-  source: "kindle",
-  externalId: "B09QZXVXHZ",
-  externalLink: "https://amazon.com/dp/B09QZXVXHZ",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09QZXVXHZ",
+      externalLink: "https://amazon.com/dp/B09QZXVXHZ",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

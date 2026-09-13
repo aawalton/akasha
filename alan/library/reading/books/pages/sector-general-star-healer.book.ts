@@ -11,7 +11,11 @@ export const sectorGeneralStarHealer = {
   position: 6,
   ownLength: 54250,
   publishedAt: "1985-01-01",
-  source: "kindle",
-  externalId: "0345320891",
-  externalLink: "https://amazon.com/dp/0345320891",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "0345320891",
+      externalLink: "https://amazon.com/dp/0345320891",
+    },
+  ],
 } as const satisfies Book

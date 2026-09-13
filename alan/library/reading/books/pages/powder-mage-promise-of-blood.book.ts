@@ -9,8 +9,12 @@ export const powderMagePromiseOfBlood = {
   author: "Brian McClellan",
   unit: "words",
   ownLength: 138250,
-  source: "kindle",
-  externalId: "B0092XHPIG",
-  externalLink: "https://www.amazon.com/dp/B0092XHPIG",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0092XHPIG",
+      externalLink: "https://www.amazon.com/dp/B0092XHPIG",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

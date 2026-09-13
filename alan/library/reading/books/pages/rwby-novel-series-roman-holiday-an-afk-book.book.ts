@@ -10,7 +10,11 @@ export const rwbyNovelSeriesRomanHolidayAnAfkBook = {
   position: 3,
   ownLength: 63500,
   publishedAt: "2021-09-07",
-  source: "kindle",
-  externalId: "B08XMNNGL3",
-  externalLink: "https://amazon.com/dp/B08XMNNGL3",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08XMNNGL3",
+      externalLink: "https://amazon.com/dp/B08XMNNGL3",
+    },
+  ],
 } as const satisfies Book

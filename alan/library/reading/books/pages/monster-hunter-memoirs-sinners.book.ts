@@ -10,8 +10,12 @@ export const monsterHunterMemoirsSinners = {
   unit: "words",
   position: 1,
   ownLength: 64500,
-  source: "kindle",
-  externalId: "B01N5CUEA7",
-  externalLink: "https://www.amazon.com/dp/B01N5CUEA7",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01N5CUEA7",
+      externalLink: "https://www.amazon.com/dp/B01N5CUEA7",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

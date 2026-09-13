@@ -11,7 +11,11 @@ export const theAlchemicWeaponeerViridianGateOnlineAbsolution = {
   ownLength: 101750,
   ownProgress: 101750,
   publishedAt: "2019-06-05",
-  source: "kindle",
-  externalId: "B07STDQQ9Z",
-  externalLink: "https://amazon.com/dp/B07STDQQ9Z",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07STDQQ9Z",
+      externalLink: "https://amazon.com/dp/B07STDQQ9Z",
+    },
+  ],
 } as const satisfies Book

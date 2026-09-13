@@ -10,7 +10,11 @@ export const theBandsOfMourning = {
   unit: "words",
   position: 7,
   ownLength: 111750,
-  source: "kindle",
-  externalId: "B00R697BC8",
-  externalLink: "https://www.amazon.com/dp/B00R697BC8",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00R697BC8",
+      externalLink: "https://www.amazon.com/dp/B00R697BC8",
+    },
+  ],
 } as const satisfies Book

@@ -11,7 +11,11 @@ export const millennialMageFlockbound = {
   ownLength: 203750,
   ownProgress: 203750,
   publishedAt: "2025-12-10",
-  source: "kindle",
-  externalId: "B0FMJZZ16X",
-  externalLink: "https://amazon.com/dp/B0FMJZZ16X",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0FMJZZ16X",
+      externalLink: "https://amazon.com/dp/B0FMJZZ16X",
+    },
+  ],
 } as const satisfies Book

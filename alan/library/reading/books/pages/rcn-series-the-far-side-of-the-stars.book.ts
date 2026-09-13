@@ -9,8 +9,12 @@ export const rcnSeriesTheFarSideOfTheStars = {
   unit: "words",
   position: 2,
   ownLength: 125750,
-  source: "kindle",
-  externalId: "B00BCLCPLI",
-  externalLink: "https://www.amazon.com/dp/B00BCLCPLI",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00BCLCPLI",
+      externalLink: "https://www.amazon.com/dp/B00BCLCPLI",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

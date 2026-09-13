@@ -11,7 +11,11 @@ export const sectorGeneralHospitalStation = {
   position: 1,
   ownLength: 47750,
   publishedAt: "1979-08-12",
-  source: "kindle",
-  externalId: "0345283538",
-  externalLink: "https://amazon.com/dp/0345283538",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "0345283538",
+      externalLink: "https://amazon.com/dp/0345283538",
+    },
+  ],
 } as const satisfies Book

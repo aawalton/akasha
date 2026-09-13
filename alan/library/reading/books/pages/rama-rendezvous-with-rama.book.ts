@@ -9,8 +9,12 @@ export const ramaRendezvousWithRama = {
   author: "Arthur C. Clarke",
   unit: "words",
   ownLength: 65250,
-  source: "kindle",
-  externalId: "B07XD75HGV",
-  externalLink: "https://www.amazon.com/dp/B07XD75HGV",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07XD75HGV",
+      externalLink: "https://www.amazon.com/dp/B07XD75HGV",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

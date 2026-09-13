@@ -9,8 +9,12 @@ export const oldKingdomSabriel = {
   author: "Garth Nix",
   unit: "words",
   ownLength: 124000,
-  source: "kindle",
-  externalId: "B000FC13MM",
-  externalLink: "https://www.amazon.com/dp/B000FC13MM",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000FC13MM",
+      externalLink: "https://www.amazon.com/dp/B000FC13MM",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

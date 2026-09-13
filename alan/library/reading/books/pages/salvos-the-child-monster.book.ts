@@ -11,7 +11,11 @@ export const salvosTheChildMonster = {
   ownLength: 114000,
   publishedAt: "2024-04-02",
   partOfCollections: ["book-series/salvos"],
-  source: "kindle",
-  externalId: "B0CM825NXK",
-  externalLink: "https://amazon.com/dp/B0CM825NXK",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CM825NXK",
+      externalLink: "https://amazon.com/dp/B0CM825NXK",
+    },
+  ],
 } as const satisfies Book

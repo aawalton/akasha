@@ -11,7 +11,11 @@ export const theBadGuysOnAThroneOfLies = {
   position: 10,
   ownLength: 108750,
   publishedAt: "2023-07-22",
-  source: "kindle",
-  externalId: "B0B53WKS1P",
-  externalLink: "https://amazon.com/dp/B0B53WKS1P",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0B53WKS1P",
+      externalLink: "https://amazon.com/dp/B0B53WKS1P",
+    },
+  ],
 } as const satisfies Book

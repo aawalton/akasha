@@ -11,7 +11,11 @@ export const systemUniverseRequirements = {
   ownLength: 168000,
   ownProgress: 168000,
   publishedAt: "2024-12-11",
-  source: "kindle",
-  externalId: "B0D71QNNZY",
-  externalLink: "https://amazon.com/dp/B0D71QNNZY",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D71QNNZY",
+      externalLink: "https://amazon.com/dp/B0D71QNNZY",
+    },
+  ],
 } as const satisfies Book

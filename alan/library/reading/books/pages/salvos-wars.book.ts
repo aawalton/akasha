@@ -12,7 +12,11 @@ export const salvosWars = {
   ownLength: 110250,
   publishedAt: "2024-11-15",
   partOfCollections: ["book-series/salvos"],
-  source: "kindle",
-  externalId: "B0D1WNPTCC",
-  externalLink: "https://amazon.com/dp/B0D1WNPTCC",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D1WNPTCC",
+      externalLink: "https://amazon.com/dp/B0D1WNPTCC",
+    },
+  ],
 } as const satisfies Book

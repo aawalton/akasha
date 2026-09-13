@@ -10,8 +10,12 @@ export const hyperionCantosEndymion = {
   unit: "words",
   position: 2,
   ownLength: 144500,
-  source: "kindle",
-  externalId: "B004G606I0",
-  externalLink: "https://www.amazon.com/dp/B004G606I0",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B004G606I0",
+      externalLink: "https://www.amazon.com/dp/B004G606I0",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

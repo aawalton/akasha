@@ -10,7 +10,11 @@ export const theCompletionistChroniclesThunderplump = {
   position: 11,
   ownLength: 94000,
   publishedAt: "2023-12-05",
-  source: "kindle",
-  externalId: "B0CGMJ18J9",
-  externalLink: "https://amazon.com/dp/B0CGMJ18J9",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CGMJ18J9",
+      externalLink: "https://amazon.com/dp/B0CGMJ18J9",
+    },
+  ],
 } as const satisfies Book

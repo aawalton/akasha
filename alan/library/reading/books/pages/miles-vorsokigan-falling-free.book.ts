@@ -9,8 +9,12 @@ export const milesVorsokiganFallingFree = {
   unit: "words",
   position: 3,
   ownLength: 75000,
-  source: "kindle",
-  externalId: "B005SHX1CE",
-  externalLink: "https://www.amazon.com/dp/B005SHX1CE",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B005SHX1CE",
+      externalLink: "https://www.amazon.com/dp/B005SHX1CE",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

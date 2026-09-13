@@ -10,7 +10,11 @@ export const shatteredLegacyPhantomChamber = {
   position: 2,
   ownLength: 130750,
   publishedAt: "2023-10-17",
-  source: "kindle",
-  externalId: "B0C2VYJRST",
-  externalLink: "https://amazon.com/dp/B0C2VYJRST",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0C2VYJRST",
+      externalLink: "https://amazon.com/dp/B0C2VYJRST",
+    },
+  ],
 } as const satisfies Book

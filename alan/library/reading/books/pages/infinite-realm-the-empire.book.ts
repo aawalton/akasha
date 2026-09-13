@@ -11,7 +11,11 @@ export const infiniteRealmTheEmpire = {
   position: 4,
   ownLength: 275750,
   publishedAt: "2022-07-13",
-  source: "kindle",
-  externalId: "B0B622P4J8",
-  externalLink: "https://amazon.com/dp/B0B622P4J8",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0B622P4J8",
+      externalLink: "https://amazon.com/dp/B0B622P4J8",
+    },
+  ],
 } as const satisfies Book

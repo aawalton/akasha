@@ -9,8 +9,12 @@ export const honorHarringtonWorldsOfHonorTheServiceOfTheSword = {
   unit: "words",
   position: 3,
   ownLength: 126000,
-  source: "kindle",
-  externalId: "B00AP9XNPK",
-  externalLink: "https://www.amazon.com/dp/B00AP9XNPK",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00AP9XNPK",
+      externalLink: "https://www.amazon.com/dp/B00AP9XNPK",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -9,8 +9,12 @@ export const honorHarringtonWorldsOfHonorWhatPriceVictory = {
   unit: "words",
   position: 6,
   ownLength: 100000,
-  source: "kindle",
-  externalId: "B0BF79Z5HF",
-  externalLink: "https://www.amazon.com/dp/B0BF79Z5HF",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BF79Z5HF",
+      externalLink: "https://www.amazon.com/dp/B0BF79Z5HF",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

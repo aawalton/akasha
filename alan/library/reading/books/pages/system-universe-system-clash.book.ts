@@ -12,7 +12,11 @@ export const systemUniverseSystemClash = {
   ownLength: 186000,
   ownProgress: 186000,
   publishedAt: "2025-11-19",
-  source: "kindle",
-  externalId: "B0DNNKHZ7X",
-  externalLink: "https://amazon.com/dp/B0DNNKHZ7X",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DNNKHZ7X",
+      externalLink: "https://amazon.com/dp/B0DNNKHZ7X",
+    },
+  ],
 } as const satisfies Book

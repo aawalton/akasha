@@ -9,8 +9,12 @@ export const marchUpcountry = {
   author: "David Weber, John Ringo",
   unit: "words",
   ownLength: 135000,
-  source: "kindle",
-  externalId: "B00BEQP3K6",
-  externalLink: "https://www.amazon.com/dp/B00BEQP3K6",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00BEQP3K6",
+      externalLink: "https://www.amazon.com/dp/B00BEQP3K6",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

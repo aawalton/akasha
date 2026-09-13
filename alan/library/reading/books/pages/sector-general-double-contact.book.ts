@@ -10,8 +10,12 @@ export const sectorGeneralDoubleContact = {
   unit: "words",
   position: 11,
   ownLength: 79750,
-  source: "kindle",
-  externalId: "B016VCHZ1M",
-  externalLink: "https://www.amazon.com/dp/B016VCHZ1M",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B016VCHZ1M",
+      externalLink: "https://www.amazon.com/dp/B016VCHZ1M",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

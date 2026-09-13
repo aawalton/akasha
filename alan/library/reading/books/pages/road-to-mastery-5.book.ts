@@ -13,7 +13,11 @@ export const roadToMastery5 = {
   ownProgress: 138000,
   publishedAt: "2024-10-09",
   partOfCollections: ["book-series/road-to-mastery"],
-  source: "kindle",
-  externalId: "B0D6GP6GQ4",
-  externalLink: "https://amazon.com/dp/B0D6GP6GQ4",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D6GP6GQ4",
+      externalLink: "https://amazon.com/dp/B0D6GP6GQ4",
+    },
+  ],
 } as const satisfies Book

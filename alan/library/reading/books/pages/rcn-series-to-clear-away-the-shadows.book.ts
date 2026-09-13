@@ -9,8 +9,12 @@ export const rcnSeriesToClearAwayTheShadows = {
   unit: "words",
   position: 12,
   ownLength: 63750,
-  source: "kindle",
-  externalId: "B07RWFTVTX",
-  externalLink: "https://www.amazon.com/dp/B07RWFTVTX",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07RWFTVTX",
+      externalLink: "https://www.amazon.com/dp/B07RWFTVTX",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -11,7 +11,11 @@ export const librarySystemResetLimiter = {
   position: 4,
   ownLength: 155250,
   publishedAt: "2025-04-18",
-  source: "kindle",
-  externalId: "B0DNCJ4GTN",
-  externalLink: "https://amazon.com/dp/B0DNCJ4GTN",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DNCJ4GTN",
+      externalLink: "https://amazon.com/dp/B0DNCJ4GTN",
+    },
+  ],
 } as const satisfies Book

@@ -10,7 +10,11 @@ export const shatteredLegacyCrystalAwakening = {
   position: 1,
   ownLength: 105750,
   publishedAt: "2022-11-29",
-  source: "kindle",
-  externalId: "B0BC9WGKX6",
-  externalLink: "https://amazon.com/dp/B0BC9WGKX6",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BC9WGKX6",
+      externalLink: "https://amazon.com/dp/B0BC9WGKX6",
+    },
+  ],
 } as const satisfies Book

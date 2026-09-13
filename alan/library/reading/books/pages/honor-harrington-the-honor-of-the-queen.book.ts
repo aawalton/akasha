@@ -10,8 +10,12 @@ export const honorHarringtonTheHonorOfTheQueen = {
   unit: "words",
   position: 1,
   ownLength: 122000,
-  source: "kindle",
-  externalId: "B00BBIAB0Y",
-  externalLink: "https://www.amazon.com/dp/B00BBIAB0Y",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00BBIAB0Y",
+      externalLink: "https://www.amazon.com/dp/B00BBIAB0Y",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

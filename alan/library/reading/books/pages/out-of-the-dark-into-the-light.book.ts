@@ -10,8 +10,12 @@ export const outOfTheDarkIntoTheLight = {
   unit: "words",
   position: 1,
   ownLength: 125750,
-  source: "kindle",
-  externalId: "B08BKLY24N",
-  externalLink: "https://www.amazon.com/dp/B08BKLY24N",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08BKLY24N",
+      externalLink: "https://www.amazon.com/dp/B08BKLY24N",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

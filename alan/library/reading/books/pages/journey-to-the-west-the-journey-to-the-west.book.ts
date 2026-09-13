@@ -11,7 +11,11 @@ export const journeyToTheWestTheJourneyToTheWest = {
   position: 3,
   ownLength: 110000,
   publishedAt: "2013-04-05",
-  source: "kindle",
-  externalId: "B00C85V7DE",
-  externalLink: "https://amazon.com/dp/B00C85V7DE",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00C85V7DE",
+      externalLink: "https://amazon.com/dp/B00C85V7DE",
+    },
+  ],
 } as const satisfies Book

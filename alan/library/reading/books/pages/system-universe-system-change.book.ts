@@ -12,7 +12,11 @@ export const systemUniverseSystemChange = {
   ownLength: 105500,
   ownProgress: 105500,
   publishedAt: "2022-11-15",
-  source: "kindle",
-  externalId: "B0B61RJ929",
-  externalLink: "https://amazon.com/dp/B0B61RJ929",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0B61RJ929",
+      externalLink: "https://amazon.com/dp/B0B61RJ929",
+    },
+  ],
 } as const satisfies Book

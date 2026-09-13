@@ -10,7 +10,11 @@ export const infiniteRealmMonstersAndLegends = {
   position: 1,
   ownLength: 275500,
   publishedAt: "2021-01-12",
-  source: "kindle",
-  externalId: "B08SC8QRPH",
-  externalLink: "https://amazon.com/dp/B08SC8QRPH",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08SC8QRPH",
+      externalLink: "https://amazon.com/dp/B08SC8QRPH",
+    },
+  ],
 } as const satisfies Book

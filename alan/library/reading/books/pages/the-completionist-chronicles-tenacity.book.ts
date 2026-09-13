@@ -10,7 +10,11 @@ export const theCompletionistChroniclesTenacity = {
   position: 9,
   ownLength: 92000,
   publishedAt: "2023-10-03",
-  source: "kindle",
-  externalId: "B0CGMJ78T6",
-  externalLink: "https://amazon.com/dp/B0CGMJ78T6",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CGMJ78T6",
+      externalLink: "https://amazon.com/dp/B0CGMJ78T6",
+    },
+  ],
 } as const satisfies Book

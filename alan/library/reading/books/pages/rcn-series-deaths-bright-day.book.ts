@@ -9,8 +9,12 @@ export const rcnSeriesDeathsBrightDay = {
   unit: "words",
   position: 10,
   ownLength: 76250,
-  source: "kindle",
-  externalId: "B01FRAHOCO",
-  externalLink: "https://www.amazon.com/dp/B01FRAHOCO",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01FRAHOCO",
+      externalLink: "https://www.amazon.com/dp/B01FRAHOCO",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

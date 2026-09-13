@@ -10,8 +10,12 @@ export const runelordsBrotherhoodOfTheWolf = {
   unit: "words",
   position: 1,
   ownLength: 168750,
-  source: "kindle",
-  externalId: "B003J5UJIQ",
-  externalLink: "https://www.amazon.com/dp/B003J5UJIQ",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B003J5UJIQ",
+      externalLink: "https://www.amazon.com/dp/B003J5UJIQ",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

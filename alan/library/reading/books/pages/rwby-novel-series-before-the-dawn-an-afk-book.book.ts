@@ -10,7 +10,11 @@ export const rwbyNovelSeriesBeforeTheDawnAnAfkBook = {
   position: 2,
   ownLength: 75750,
   publishedAt: "2020-07-21",
-  source: "kindle",
-  externalId: "B07VZ1J662",
-  externalLink: "https://amazon.com/dp/B07VZ1J662",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07VZ1J662",
+      externalLink: "https://amazon.com/dp/B07VZ1J662",
+    },
+  ],
 } as const satisfies Book

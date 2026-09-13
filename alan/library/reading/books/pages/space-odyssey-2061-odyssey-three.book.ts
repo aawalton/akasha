@@ -10,8 +10,12 @@ export const spaceOdyssey2061OdysseyThree = {
   unit: "words",
   position: 2,
   ownLength: 77000,
-  source: "kindle",
-  externalId: "B07XF9ZZWG",
-  externalLink: "https://www.amazon.com/dp/B07XF9ZZWG",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07XF9ZZWG",
+      externalLink: "https://www.amazon.com/dp/B07XF9ZZWG",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

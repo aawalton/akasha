@@ -12,7 +12,11 @@ export const mistbornTheFinalEmpire = {
   position: 1,
   ownLength: 167250,
   ownProgress: 167250,
-  source: "kindle",
-  externalId: "B002GYI9C4",
-  externalLink: "https://www.amazon.com/dp/B002GYI9C4",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B002GYI9C4",
+      externalLink: "https://www.amazon.com/dp/B002GYI9C4",
+    },
+  ],
 } as const satisfies Book

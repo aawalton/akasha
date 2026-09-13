@@ -10,7 +10,11 @@ export const theCompletionistChroniclesUntapped = {
   position: 12,
   ownLength: 138000,
   publishedAt: "2025-08-11",
-  source: "kindle",
-  externalId: "B0FH5NTTNP",
-  externalLink: "https://amazon.com/dp/B0FH5NTTNP",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0FH5NTTNP",
+      externalLink: "https://amazon.com/dp/B0FH5NTTNP",
+    },
+  ],
 } as const satisfies Book

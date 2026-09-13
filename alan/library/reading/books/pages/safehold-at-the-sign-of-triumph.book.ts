@@ -10,8 +10,12 @@ export const safeholdAtTheSignOfTriumph = {
   unit: "words",
   position: 8,
   ownLength: 191250,
-  source: "kindle",
-  externalId: "B01CXNZCZ4",
-  externalLink: "https://www.amazon.com/dp/B01CXNZCZ4",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01CXNZCZ4",
+      externalLink: "https://www.amazon.com/dp/B01CXNZCZ4",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

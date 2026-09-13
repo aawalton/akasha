@@ -10,8 +10,12 @@ export const safeholdBySchismRentAsunder = {
   unit: "words",
   position: 1,
   ownLength: 184250,
-  source: "kindle",
-  externalId: "B0011UGLSS",
-  externalLink: "https://www.amazon.com/dp/B0011UGLSS",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0011UGLSS",
+      externalLink: "https://www.amazon.com/dp/B0011UGLSS",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

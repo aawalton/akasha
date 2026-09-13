@@ -9,8 +9,12 @@ export const monsterHunterMemoirsGrunge = {
   author: "Larry Correia, John Ringo, Oliver Wyman",
   unit: "words",
   ownLength: 66500,
-  source: "kindle",
-  externalId: "B01II8CQLG",
-  externalLink: "https://www.amazon.com/dp/B01II8CQLG",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01II8CQLG",
+      externalLink: "https://www.amazon.com/dp/B01II8CQLG",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

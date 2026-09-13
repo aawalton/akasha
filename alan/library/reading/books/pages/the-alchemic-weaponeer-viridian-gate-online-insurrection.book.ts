@@ -11,7 +11,11 @@ export const theAlchemicWeaponeerViridianGateOnlineInsurrection = {
   ownLength: 108000,
   ownProgress: 108000,
   publishedAt: "2020-03-10",
-  source: "kindle",
-  externalId: "B0842BY6PC",
-  externalLink: "https://amazon.com/dp/B0842BY6PC",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0842BY6PC",
+      externalLink: "https://amazon.com/dp/B0842BY6PC",
+    },
+  ],
 } as const satisfies Book

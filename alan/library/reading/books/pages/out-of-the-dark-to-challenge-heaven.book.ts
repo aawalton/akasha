@@ -9,8 +9,12 @@ export const outOfTheDarkToChallengeHeaven = {
   unit: "words",
   position: 2,
   ownLength: 69000,
-  source: "kindle",
-  externalId: "B0C1X7LNMP",
-  externalLink: "https://www.amazon.com/dp/B0C1X7LNMP",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0C1X7LNMP",
+      externalLink: "https://www.amazon.com/dp/B0C1X7LNMP",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

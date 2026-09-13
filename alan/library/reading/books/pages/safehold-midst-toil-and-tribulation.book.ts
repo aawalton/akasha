@@ -10,8 +10,12 @@ export const safeholdMidstToilAndTribulation = {
   unit: "words",
   position: 5,
   ownLength: 152000,
-  source: "kindle",
-  externalId: "B007RMY4GA",
-  externalLink: "https://www.amazon.com/dp/B007RMY4GA",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B007RMY4GA",
+      externalLink: "https://www.amazon.com/dp/B007RMY4GA",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

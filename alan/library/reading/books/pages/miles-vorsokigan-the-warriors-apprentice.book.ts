@@ -9,8 +9,12 @@ export const milesVorsokiganTheWarriorsApprentice = {
   unit: "words",
   position: 1,
   ownLength: 93000,
-  source: "kindle",
-  externalId: "B005DNGSUU",
-  externalLink: "https://www.amazon.com/dp/B005DNGSUU",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B005DNGSUU",
+      externalLink: "https://www.amazon.com/dp/B005DNGSUU",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

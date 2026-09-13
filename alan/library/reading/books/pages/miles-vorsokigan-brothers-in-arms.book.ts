@@ -9,8 +9,12 @@ export const milesVorsokiganBrothersInArms = {
   unit: "words",
   position: 4,
   ownLength: 83000,
-  source: "kindle",
-  externalId: "B005S4FLCK",
-  externalLink: "https://www.amazon.com/dp/B005S4FLCK",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B005S4FLCK",
+      externalLink: "https://www.amazon.com/dp/B005S4FLCK",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

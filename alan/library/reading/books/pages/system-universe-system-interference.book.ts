@@ -12,7 +12,11 @@ export const systemUniverseSystemInterference = {
   ownLength: 103000,
   ownProgress: 103000,
   publishedAt: "2024-02-14",
-  source: "kindle",
-  externalId: "B0CDJ566WS",
-  externalLink: "https://amazon.com/dp/B0CDJ566WS",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CDJ566WS",
+      externalLink: "https://amazon.com/dp/B0CDJ566WS",
+    },
+  ],
 } as const satisfies Book

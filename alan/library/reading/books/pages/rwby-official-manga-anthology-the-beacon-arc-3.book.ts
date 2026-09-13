@@ -10,7 +10,11 @@ export const rwbyOfficialMangaAnthologyTheBeaconArc3 = {
   position: 3,
   ownLength: 66000,
   publishedAt: "2021-06-15",
-  source: "kindle",
-  externalId: "B096DGNBDP",
-  externalLink: "https://amazon.com/dp/B096DGNBDP",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B096DGNBDP",
+      externalLink: "https://amazon.com/dp/B096DGNBDP",
+    },
+  ],
 } as const satisfies Book

@@ -10,8 +10,12 @@ export const safeholdThroughFieryTrials = {
   unit: "words",
   position: 9,
   ownLength: 172500,
-  source: "kindle",
-  externalId: "B07C75P1R8",
-  externalLink: "https://www.amazon.com/dp/B07C75P1R8",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07C75P1R8",
+      externalLink: "https://www.amazon.com/dp/B07C75P1R8",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

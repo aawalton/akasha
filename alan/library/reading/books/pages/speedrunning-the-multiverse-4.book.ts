@@ -11,7 +11,11 @@ export const speedrunningTheMultiverse4 = {
   ownLength: 103750,
   ownProgress: 103750,
   publishedAt: "2024-04-24",
-  source: "kindle",
-  externalId: "B0CSTVJ7GC",
-  externalLink: "https://amazon.com/dp/B0CSTVJ7GC",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CSTVJ7GC",
+      externalLink: "https://amazon.com/dp/B0CSTVJ7GC",
+    },
+  ],
 } as const satisfies Book

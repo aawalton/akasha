@@ -10,7 +10,11 @@ export const strayCatStrutAYoungLadysJourneyToBecomingAPopUpSamurai = {
   position: 1,
   ownLength: 135000,
   publishedAt: "2021-04-12",
-  source: "kindle",
-  externalId: "B092FRRLGQ",
-  externalLink: "https://amazon.com/dp/B092FRRLGQ",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B092FRRLGQ",
+      externalLink: "https://amazon.com/dp/B092FRRLGQ",
+    },
+  ],
 } as const satisfies Book

@@ -11,7 +11,11 @@ export const systemUniverseIndaria = {
   ownLength: 113000,
   ownProgress: 113000,
   publishedAt: "2024-06-19",
-  source: "kindle",
-  externalId: "B0CV28VP2W",
-  externalLink: "https://amazon.com/dp/B0CV28VP2W",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CV28VP2W",
+      externalLink: "https://amazon.com/dp/B0CV28VP2W",
+    },
+  ],
 } as const satisfies Book

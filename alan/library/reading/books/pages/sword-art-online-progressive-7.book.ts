@@ -11,7 +11,11 @@ export const swordArtOnlineProgressive7 = {
   position: 7,
   ownLength: 58750,
   publishedAt: "2022-01-18",
-  source: "kindle",
-  externalId: "B098NHJGXW",
-  externalLink: "https://amazon.com/dp/B098NHJGXW",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B098NHJGXW",
+      externalLink: "https://amazon.com/dp/B098NHJGXW",
+    },
+  ],
 } as const satisfies Book

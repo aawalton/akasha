@@ -9,8 +9,12 @@ export const manticoreAscendantSeriesACallToDuty = {
   author: "Timothy Zahn, David Weber, Eric Michael Summerer",
   unit: "words",
   ownLength: 121000,
-  source: "kindle",
-  externalId: "B00NMNR5Q4",
-  externalLink: "https://www.amazon.com/dp/B00NMNR5Q4",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00NMNR5Q4",
+      externalLink: "https://www.amazon.com/dp/B00NMNR5Q4",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

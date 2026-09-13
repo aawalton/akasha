@@ -10,8 +10,12 @@ export const marsTrilogyBlueMars = {
   unit: "words",
   position: 2,
   ownLength: 187000,
-  source: "kindle",
-  externalId: "B00165EXI8",
-  externalLink: "https://www.amazon.com/dp/B00165EXI8",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00165EXI8",
+      externalLink: "https://www.amazon.com/dp/B00165EXI8",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

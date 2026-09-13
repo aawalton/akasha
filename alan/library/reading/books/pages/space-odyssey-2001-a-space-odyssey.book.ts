@@ -9,8 +9,12 @@ export const spaceOdyssey2001ASpaceOdyssey = {
   author: "Arthur C. Clarke",
   unit: "words",
   ownLength: 63750,
-  source: "kindle",
-  externalId: "B01A6E8EQ6",
-  externalLink: "https://www.amazon.com/dp/B01A6E8EQ6",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01A6E8EQ6",
+      externalLink: "https://www.amazon.com/dp/B01A6E8EQ6",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

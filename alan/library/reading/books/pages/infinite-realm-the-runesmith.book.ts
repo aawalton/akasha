@@ -10,7 +10,11 @@ export const infiniteRealmTheRunesmith = {
   position: 6,
   ownLength: 328250,
   publishedAt: "2024-06-24",
-  source: "kindle",
-  externalId: "B0D678QW9F",
-  externalLink: "https://amazon.com/dp/B0D678QW9F",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D678QW9F",
+      externalLink: "https://amazon.com/dp/B0D678QW9F",
+    },
+  ],
 } as const satisfies Book

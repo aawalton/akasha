@@ -10,8 +10,12 @@ export const ramaTheGardenOfRama = {
   unit: "words",
   position: 2,
   ownLength: 132500,
-  source: "kindle",
-  externalId: "B07NMKJM7M",
-  externalLink: "https://www.amazon.com/dp/B07NMKJM7M",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07NMKJM7M",
+      externalLink: "https://www.amazon.com/dp/B07NMKJM7M",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

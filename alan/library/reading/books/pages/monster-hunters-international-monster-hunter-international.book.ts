@@ -9,8 +9,12 @@ export const monsterHuntersInternationalMonsterHunterInternational = {
   author: "Larry Correia",
   unit: "words",
   ownLength: 162500,
-  source: "kindle",
-  externalId: "B00XLQ9PF6",
-  externalLink: "https://www.amazon.com/dp/B00XLQ9PF6",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00XLQ9PF6",
+      externalLink: "https://www.amazon.com/dp/B00XLQ9PF6",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

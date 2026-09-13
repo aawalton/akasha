@@ -9,8 +9,12 @@ export const monsterHuntersInternationalMonsterHunterBloodlines = {
   unit: "words",
   position: 7,
   ownLength: 74250,
-  source: "kindle",
-  externalId: "B09BRC4M48",
-  externalLink: "https://www.amazon.com/dp/B09BRC4M48",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09BRC4M48",
+      externalLink: "https://www.amazon.com/dp/B09BRC4M48",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

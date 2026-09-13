@@ -12,7 +12,11 @@ export const somniaOnlineFragments = {
   ownProgress: 88750,
   publishedAt: "2018-11-09",
   partOfCollections: ["book-series/somnia-online"],
-  source: "kindle",
-  externalId: "B07KCZ7HN3",
-  externalLink: "https://amazon.com/dp/B07KCZ7HN3",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07KCZ7HN3",
+      externalLink: "https://amazon.com/dp/B07KCZ7HN3",
+    },
+  ],
 } as const satisfies Book

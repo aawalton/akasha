@@ -9,8 +9,12 @@ export const milesVorsokiganEthanOfAthos = {
   unit: "words",
   position: 2,
   ownLength: 59500,
-  source: "kindle",
-  externalId: "B0055EFASI",
-  externalLink: "https://www.amazon.com/dp/B0055EFASI",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0055EFASI",
+      externalLink: "https://www.amazon.com/dp/B0055EFASI",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

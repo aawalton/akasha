@@ -12,7 +12,11 @@ export const secondAgeOfRethraTheDesperateQuest = {
   ownLength: 79500,
   ownProgress: 79500,
   publishedAt: "2017-09-14",
-  source: "kindle",
-  externalId: "B075HNYDFV",
-  externalLink: "https://amazon.com/dp/B075HNYDFV",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B075HNYDFV",
+      externalLink: "https://amazon.com/dp/B075HNYDFV",
+    },
+  ],
 } as const satisfies Book

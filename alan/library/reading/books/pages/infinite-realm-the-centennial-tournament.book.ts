@@ -10,8 +10,12 @@ export const infiniteRealmTheCentennialTournament = {
   position: 3,
   ownLength: 294750,
   publishedAt: "2021-10-26",
-  source: "kindle",
-  externalId: "B09G5C3BRD",
-  externalLink: "https://amazon.com/dp/B09G5C3BRD",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09G5C3BRD",
+      externalLink: "https://amazon.com/dp/B09G5C3BRD",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

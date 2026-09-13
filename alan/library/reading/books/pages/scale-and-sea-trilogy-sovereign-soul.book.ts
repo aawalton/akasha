@@ -12,7 +12,11 @@ export const scaleAndSeaTrilogySovereignSoul = {
   ownLength: 170000,
   ownProgress: 170000,
   publishedAt: "2023-02-28",
-  source: "kindle",
-  externalId: "B0BRFNMRTJ",
-  externalLink: "https://amazon.com/dp/B0BRFNMRTJ",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BRFNMRTJ",
+      externalLink: "https://amazon.com/dp/B0BRFNMRTJ",
+    },
+  ],
 } as const satisfies Book

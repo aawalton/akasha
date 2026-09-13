@@ -11,7 +11,11 @@ export const markOfTheCrijikGestiSky = {
   ownLength: 112000,
   publishedAt: "2023-05-02",
   partOfCollections: ["book-series/mark-of-the-crijik"],
-  source: "kindle",
-  externalId: "B0BT6JWBL3",
-  externalLink: "https://amazon.com/dp/B0BT6JWBL3",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BT6JWBL3",
+      externalLink: "https://amazon.com/dp/B0BT6JWBL3",
+    },
+  ],
 } as const satisfies Book

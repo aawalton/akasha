@@ -11,7 +11,11 @@ export const theCalamitousBobBlackManaGambit = {
   ownLength: 96000,
   ownProgress: 96000,
   publishedAt: "2024-05-22",
-  source: "kindle",
-  externalId: "B0D4ZXWFLF",
-  externalLink: "https://amazon.com/dp/B0D4ZXWFLF",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D4ZXWFLF",
+      externalLink: "https://amazon.com/dp/B0D4ZXWFLF",
+    },
+  ],
 } as const satisfies Book

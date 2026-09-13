@@ -9,8 +9,12 @@ export const milesVorsokiganMemory = {
   unit: "words",
   position: 9,
   ownLength: 121000,
-  source: "kindle",
-  externalId: "B005LI3W9W",
-  externalLink: "https://www.amazon.com/dp/B005LI3W9W",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B005LI3W9W",
+      externalLink: "https://www.amazon.com/dp/B005LI3W9W",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

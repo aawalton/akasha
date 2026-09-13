@@ -11,7 +11,11 @@ export const swordArtOnlineAlternativeGunGaleOnlineFiveOrdeals = {
   position: 10,
   ownLength: 73500,
   publishedAt: "2021-11-09",
-  source: "kindle",
-  externalId: "B093ZN3YZF",
-  externalLink: "https://amazon.com/dp/B093ZN3YZF",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B093ZN3YZF",
+      externalLink: "https://amazon.com/dp/B093ZN3YZF",
+    },
+  ],
 } as const satisfies Book

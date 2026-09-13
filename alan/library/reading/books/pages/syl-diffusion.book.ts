@@ -12,7 +12,11 @@ export const sylDiffusion = {
   ownLength: 155750,
   ownProgress: 155750,
   publishedAt: "2025-06-16",
-  source: "kindle",
-  externalId: "B0F5BV583P",
-  externalLink: "https://amazon.com/dp/B0F5BV583P",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0F5BV583P",
+      externalLink: "https://amazon.com/dp/B0F5BV583P",
+    },
+  ],
 } as const satisfies Book

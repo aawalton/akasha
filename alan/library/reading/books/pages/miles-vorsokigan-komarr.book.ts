@@ -9,8 +9,12 @@ export const milesVorsokiganKomarr = {
   unit: "words",
   position: 10,
   ownLength: 83000,
-  source: "kindle",
-  externalId: "B005FRGCZA",
-  externalLink: "https://www.amazon.com/dp/B005FRGCZA",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B005FRGCZA",
+      externalLink: "https://www.amazon.com/dp/B005FRGCZA",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

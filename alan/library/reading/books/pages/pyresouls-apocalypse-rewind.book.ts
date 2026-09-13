@@ -11,7 +11,11 @@ export const pyresoulsApocalypseRewind = {
   ownLength: 114500,
   ownProgress: 114500,
   publishedAt: "2020-08-23",
-  source: "kindle",
-  externalId: "B08GL233F2",
-  externalLink: "https://amazon.com/dp/B08GL233F2",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08GL233F2",
+      externalLink: "https://amazon.com/dp/B08GL233F2",
+    },
+  ],
 } as const satisfies Book

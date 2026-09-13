@@ -11,8 +11,12 @@ export const theBadGuysHighGloom = {
   ownLength: 121000,
   ownProgress: 121000,
   publishedAt: "2020-12-22",
-  source: "kindle",
-  externalId: "B08LDWBZHC",
-  externalLink: "https://amazon.com/dp/B08LDWBZHC",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08LDWBZHC",
+      externalLink: "https://amazon.com/dp/B08LDWBZHC",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

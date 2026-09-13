@@ -9,8 +9,12 @@ export const manticoreAscendantSeriesACallToVengeance = {
   unit: "words",
   position: 2,
   ownLength: 151750,
-  source: "kindle",
-  externalId: "B079P9R3YF",
-  externalLink: "https://www.amazon.com/dp/B079P9R3YF",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B079P9R3YF",
+      externalLink: "https://www.amazon.com/dp/B079P9R3YF",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

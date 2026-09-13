@@ -11,7 +11,11 @@ export const theCompletionistChroniclesRitualist = {
   ownLength: 87500,
   ownProgress: 87500,
   publishedAt: "2022-09-16",
-  source: "kindle",
-  externalId: "B0BFMB1X6Y",
-  externalLink: "https://amazon.com/dp/B0BFMB1X6Y",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BFMB1X6Y",
+      externalLink: "https://amazon.com/dp/B0BFMB1X6Y",
+    },
+  ],
 } as const satisfies Book

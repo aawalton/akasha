@@ -10,8 +10,12 @@ export const runelordsTheLairOfBones = {
   unit: "words",
   position: 3,
   ownLength: 110500,
-  source: "kindle",
-  externalId: "B003J5UJ5Y",
-  externalLink: "https://www.amazon.com/dp/B003J5UJ5Y",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B003J5UJ5Y",
+      externalLink: "https://www.amazon.com/dp/B003J5UJ5Y",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -11,8 +11,12 @@ export const marchUpcountryMarchToTheSea = {
   position: 1,
   ownLength: 139000,
   publishedAt: "2001-05-01",
-  source: "kindle",
-  externalId: "B00C9GFSW8",
-  externalLink: "https://www.amazon.com/dp/B00C9GFSW8",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00C9GFSW8",
+      externalLink: "https://www.amazon.com/dp/B00C9GFSW8",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -12,7 +12,11 @@ export const secondAgeOfRethraTheLuckless = {
   ownLength: 67000,
   ownProgress: 67000,
   publishedAt: "2017-07-19",
-  source: "kindle",
-  externalId: "B073VSFNKL",
-  externalLink: "https://amazon.com/dp/B073VSFNKL",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B073VSFNKL",
+      externalLink: "https://amazon.com/dp/B073VSFNKL",
+    },
+  ],
 } as const satisfies Book

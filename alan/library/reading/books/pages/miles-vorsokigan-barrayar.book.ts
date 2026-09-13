@@ -9,8 +9,12 @@ export const milesVorsokiganBarrayar = {
   unit: "words",
   position: 6,
   ownLength: 96000,
-  source: "kindle",
-  externalId: "B005BFIH7M",
-  externalLink: "https://www.amazon.com/dp/B005BFIH7M",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B005BFIH7M",
+      externalLink: "https://www.amazon.com/dp/B005BFIH7M",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

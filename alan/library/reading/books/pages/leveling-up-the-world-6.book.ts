@@ -13,8 +13,12 @@ export const levelingUpTheWorld6 = {
   ownProgress: 184500,
   publishedAt: "2024-01-17",
   partOfCollections: ["book-series/leveling-up-the-world"],
-  source: "kindle",
-  externalId: "B0CKXY8VBQ",
-  externalLink: "https://amazon.com/dp/B0CKXY8VBQ",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CKXY8VBQ",
+      externalLink: "https://amazon.com/dp/B0CKXY8VBQ",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

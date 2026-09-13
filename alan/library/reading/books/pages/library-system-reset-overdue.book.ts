@@ -11,7 +11,11 @@ export const librarySystemResetOverdue = {
   position: 1,
   ownLength: 147750,
   publishedAt: "2024-07-02",
-  source: "kindle",
-  externalId: "B0D3N46VWX",
-  externalLink: "https://amazon.com/dp/B0D3N46VWX",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D3N46VWX",
+      externalLink: "https://amazon.com/dp/B0D3N46VWX",
+    },
+  ],
 } as const satisfies Book

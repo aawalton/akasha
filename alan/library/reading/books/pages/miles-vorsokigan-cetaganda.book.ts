@@ -9,8 +9,12 @@ export const milesVorsokiganCetaganda = {
   unit: "words",
   position: 8,
   ownLength: 77500,
-  source: "kindle",
-  externalId: "B007XFJDYO",
-  externalLink: "https://www.amazon.com/dp/B007XFJDYO",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B007XFJDYO",
+      externalLink: "https://www.amazon.com/dp/B007XFJDYO",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

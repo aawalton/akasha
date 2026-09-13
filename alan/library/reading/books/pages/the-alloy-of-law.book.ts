@@ -10,7 +10,11 @@ export const theAlloyOfLaw = {
   unit: "words",
   position: 5,
   ownLength: 77750,
-  source: "kindle",
-  externalId: "B00540QR7Q",
-  externalLink: "https://www.amazon.com/dp/B00540QR7Q",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00540QR7Q",
+      externalLink: "https://www.amazon.com/dp/B00540QR7Q",
+    },
+  ],
 } as const satisfies Book

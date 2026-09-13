@@ -11,7 +11,11 @@ export const theCalamitousBobWelcomeToHarrak = {
   ownLength: 91750,
   ownProgress: 91750,
   publishedAt: "2023-06-03",
-  source: "kindle",
-  externalId: "B0C72T3YXR",
-  externalLink: "https://amazon.com/dp/B0C72T3YXR",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0C72T3YXR",
+      externalLink: "https://amazon.com/dp/B0C72T3YXR",
+    },
+  ],
 } as const satisfies Book

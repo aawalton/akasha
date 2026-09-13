@@ -11,7 +11,11 @@ export const riseOfTheDevourerAbyssalRift = {
   ownLength: 142000,
   publishedAt: "2024-01-24",
   partOfCollections: ["book-series/rise-of-the-devourer"],
-  source: "kindle",
-  externalId: "B0CKZHJDF4",
-  externalLink: "https://amazon.com/dp/B0CKZHJDF4",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CKZHJDF4",
+      externalLink: "https://amazon.com/dp/B0CKZHJDF4",
+    },
+  ],
 } as const satisfies Book

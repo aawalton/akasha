@@ -10,8 +10,12 @@ export const runelordsChaosbound = {
   unit: "words",
   position: 7,
   ownLength: 88000,
-  source: "kindle",
-  externalId: "B003JBICOS",
-  externalLink: "https://www.amazon.com/dp/B003JBICOS",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B003JBICOS",
+      externalLink: "https://www.amazon.com/dp/B003JBICOS",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

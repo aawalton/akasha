@@ -10,8 +10,12 @@ export const safeholdHowFirmAFoundation = {
   unit: "words",
   position: 4,
   ownLength: 152000,
-  source: "kindle",
-  externalId: "B004V9O59I",
-  externalLink: "https://www.amazon.com/dp/B004V9O59I",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B004V9O59I",
+      externalLink: "https://www.amazon.com/dp/B004V9O59I",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

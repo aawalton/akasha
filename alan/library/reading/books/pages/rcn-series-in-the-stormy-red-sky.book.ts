@@ -9,8 +9,12 @@ export const rcnSeriesInTheStormyRedSky = {
   unit: "words",
   position: 6,
   ownLength: 120500,
-  source: "kindle",
-  externalId: "B00APAHZY4",
-  externalLink: "https://www.amazon.com/dp/B00APAHZY4",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00APAHZY4",
+      externalLink: "https://www.amazon.com/dp/B00APAHZY4",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

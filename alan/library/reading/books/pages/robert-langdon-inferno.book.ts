@@ -10,8 +10,12 @@ export const robertLangdonInferno = {
   unit: "words",
   position: 3,
   ownLength: 144500,
-  source: "kindle",
-  externalId: "B00AXIZ4TQ",
-  externalLink: "https://www.amazon.com/dp/B00AXIZ4TQ",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00AXIZ4TQ",
+      externalLink: "https://www.amazon.com/dp/B00AXIZ4TQ",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

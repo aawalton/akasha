@@ -9,8 +9,12 @@ export const milesVorsokiganCryoburn = {
   unit: "words",
   position: 13,
   ownLength: 92000,
-  source: "kindle",
-  externalId: "B00514K032",
-  externalLink: "https://www.amazon.com/dp/B00514K032",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00514K032",
+      externalLink: "https://www.amazon.com/dp/B00514K032",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

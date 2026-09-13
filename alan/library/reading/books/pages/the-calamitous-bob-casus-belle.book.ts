@@ -11,8 +11,12 @@ export const theCalamitousBobCasusBelle = {
   ownLength: 115500,
   ownProgress: 115500,
   publishedAt: "2025-01-28",
-  source: "kindle",
-  externalId: "B0DVC5Q16S",
-  externalLink: "https://amazon.com/dp/B0DVC5Q16S",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DVC5Q16S",
+      externalLink: "https://amazon.com/dp/B0DVC5Q16S",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

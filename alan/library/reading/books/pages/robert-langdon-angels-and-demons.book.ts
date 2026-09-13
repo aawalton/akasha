@@ -9,8 +9,12 @@ export const robertLangdonAngelsAndDemons = {
   author: "Dan Brown",
   unit: "words",
   ownLength: 184000,
-  source: "kindle",
-  externalId: "B000FBJFSM",
-  externalLink: "https://www.amazon.com/dp/B000FBJFSM",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000FBJFSM",
+      externalLink: "https://www.amazon.com/dp/B000FBJFSM",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

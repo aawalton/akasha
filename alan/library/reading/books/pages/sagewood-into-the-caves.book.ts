@@ -11,7 +11,11 @@ export const sagewoodIntoTheCaves = {
   ownLength: 99000,
   publishedAt: "2024-09-04",
   partOfCollections: ["book-series/sagewood"],
-  source: "kindle",
-  externalId: "B0D5J34DKD",
-  externalLink: "https://amazon.com/dp/B0D5J34DKD",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D5J34DKD",
+      externalLink: "https://amazon.com/dp/B0D5J34DKD",
+    },
+  ],
 } as const satisfies Book

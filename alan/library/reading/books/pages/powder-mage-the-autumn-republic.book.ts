@@ -10,8 +10,12 @@ export const powderMageTheAutumnRepublic = {
   unit: "words",
   position: 2,
   ownLength: 154750,
-  source: "kindle",
-  externalId: "B00KVK33AI",
-  externalLink: "https://www.amazon.com/dp/B00KVK33AI",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00KVK33AI",
+      externalLink: "https://www.amazon.com/dp/B00KVK33AI",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

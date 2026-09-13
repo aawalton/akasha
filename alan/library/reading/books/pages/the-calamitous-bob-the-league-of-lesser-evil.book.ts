@@ -11,7 +11,11 @@ export const theCalamitousBobTheLeagueOfLesserEvil = {
   ownLength: 139000,
   ownProgress: 139000,
   publishedAt: "2024-08-02",
-  source: "kindle",
-  externalId: "B0DC45FV5V",
-  externalLink: "https://amazon.com/dp/B0DC45FV5V",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DC45FV5V",
+      externalLink: "https://amazon.com/dp/B0DC45FV5V",
+    },
+  ],
 } as const satisfies Book

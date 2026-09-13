@@ -11,7 +11,11 @@ export const theBadGuysBackToOne = {
   position: 7,
   ownLength: 93000,
   publishedAt: "2021-09-11",
-  source: "kindle",
-  externalId: "B08QQ6J1LH",
-  externalLink: "https://amazon.com/dp/B08QQ6J1LH",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08QQ6J1LH",
+      externalLink: "https://amazon.com/dp/B08QQ6J1LH",
+    },
+  ],
 } as const satisfies Book

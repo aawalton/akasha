@@ -10,7 +10,11 @@ export const infiniteRealmThePriceOfPower = {
   position: 2,
   ownLength: 287750,
   publishedAt: "2021-05-24",
-  source: "kindle",
-  externalId: "B08YRNYZW3",
-  externalLink: "https://amazon.com/dp/B08YRNYZW3",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08YRNYZW3",
+      externalLink: "https://amazon.com/dp/B08YRNYZW3",
+    },
+  ],
 } as const satisfies Book

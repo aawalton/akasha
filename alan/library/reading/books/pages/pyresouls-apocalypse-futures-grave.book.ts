@@ -11,7 +11,11 @@ export const pyresoulsApocalypseFuturesGrave = {
   ownLength: 103750,
   ownProgress: 103750,
   publishedAt: "2021-07-01",
-  source: "kindle",
-  externalId: "B0979XDBH5",
-  externalLink: "https://amazon.com/dp/B0979XDBH5",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0979XDBH5",
+      externalLink: "https://amazon.com/dp/B0979XDBH5",
+    },
+  ],
 } as const satisfies Book

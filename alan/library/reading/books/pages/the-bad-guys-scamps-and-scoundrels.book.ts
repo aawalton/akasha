@@ -11,7 +11,11 @@ export const theBadGuysScampsAndScoundrels = {
   ownLength: 114250,
   ownProgress: 114250,
   publishedAt: "2019-08-15",
-  source: "kindle",
-  externalId: "B07SQHZB29",
-  externalLink: "https://amazon.com/dp/B07SQHZB29",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07SQHZB29",
+      externalLink: "https://amazon.com/dp/B07SQHZB29",
+    },
+  ],
 } as const satisfies Book

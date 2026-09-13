@@ -10,8 +10,12 @@ export const safeholdHellsFoundationsQuiver = {
   unit: "words",
   position: 7,
   ownLength: 196250,
-  source: "kindle",
-  externalId: "B00TOA8L26",
-  externalLink: "https://www.amazon.com/dp/B00TOA8L26",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00TOA8L26",
+      externalLink: "https://www.amazon.com/dp/B00TOA8L26",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

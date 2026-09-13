@@ -12,7 +12,11 @@ export const stonehavenLeagueCavernOfSpirits = {
   ownProgress: 99000,
   publishedAt: "2018-09-20",
   partOfCollections: ["book-series/stonehaven-league"],
-  source: "kindle",
-  externalId: "B07HB6L6X9",
-  externalLink: "https://amazon.com/dp/B07HB6L6X9",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07HB6L6X9",
+      externalLink: "https://amazon.com/dp/B07HB6L6X9",
+    },
+  ],
 } as const satisfies Book

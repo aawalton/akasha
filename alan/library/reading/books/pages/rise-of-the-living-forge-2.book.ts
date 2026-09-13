@@ -12,7 +12,11 @@ export const riseOfTheLivingForge2 = {
   ownProgress: 140000,
   publishedAt: "2025-01-15",
   partOfCollections: ["book-series/rise-of-the-living-forge"],
-  source: "kindle",
-  externalId: "B0DFDSWVRL",
-  externalLink: "https://amazon.com/dp/B0DFDSWVRL",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DFDSWVRL",
+      externalLink: "https://amazon.com/dp/B0DFDSWVRL",
+    },
+  ],
 } as const satisfies Book

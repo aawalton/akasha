@@ -11,7 +11,11 @@ export const theCompletionistChroniclesRaze = {
   ownLength: 91250,
   ownProgress: 91250,
   publishedAt: "2022-09-16",
-  source: "kindle",
-  externalId: "B0BFM9N2K2",
-  externalLink: "https://amazon.com/dp/B0BFM9N2K2",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BFM9N2K2",
+      externalLink: "https://amazon.com/dp/B0BFM9N2K2",
+    },
+  ],
 } as const satisfies Book

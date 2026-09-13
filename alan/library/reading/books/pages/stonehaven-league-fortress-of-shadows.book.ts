@@ -12,7 +12,11 @@ export const stonehavenLeagueFortressOfShadows = {
   ownProgress: 96000,
   publishedAt: "2018-06-16",
   partOfCollections: ["book-series/stonehaven-league"],
-  source: "kindle",
-  externalId: "B07DT62F48",
-  externalLink: "https://amazon.com/dp/B07DT62F48",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07DT62F48",
+      externalLink: "https://amazon.com/dp/B07DT62F48",
+    },
+  ],
 } as const satisfies Book

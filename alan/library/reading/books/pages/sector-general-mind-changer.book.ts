@@ -10,8 +10,12 @@ export const sectorGeneralMindChanger = {
   unit: "words",
   position: 10,
   ownLength: 76000,
-  source: "kindle",
-  externalId: "B004UNCRV8",
-  externalLink: "https://www.amazon.com/dp/B004UNCRV8",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B004UNCRV8",
+      externalLink: "https://www.amazon.com/dp/B004UNCRV8",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

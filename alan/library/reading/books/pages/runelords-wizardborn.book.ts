@@ -10,8 +10,12 @@ export const runelordsWizardborn = {
   unit: "words",
   position: 2,
   ownLength: 111000,
-  source: "kindle",
-  externalId: "B003J5UIBO",
-  externalLink: "https://www.amazon.com/dp/B003J5UIBO",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B003J5UIBO",
+      externalLink: "https://www.amazon.com/dp/B003J5UIBO",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

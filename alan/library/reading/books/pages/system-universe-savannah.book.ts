@@ -12,7 +12,11 @@ export const systemUniverseSavannah = {
   ownLength: 122500,
   ownProgress: 122500,
   publishedAt: "2023-05-31",
-  source: "kindle",
-  externalId: "B0BT5WF624",
-  externalLink: "https://amazon.com/dp/B0BT5WF624",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BT5WF624",
+      externalLink: "https://amazon.com/dp/B0BT5WF624",
+    },
+  ],
 } as const satisfies Book

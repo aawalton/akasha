@@ -8,8 +8,12 @@ export const honorHarringtonWorldsOfHonorMoreThanHonor = {
   status: "not-started",
   unit: "words",
   ownLength: 97000,
-  source: "kindle",
-  externalId: "B00APACV0C",
-  externalLink: "https://www.amazon.com/dp/B00APACV0C",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00APACV0C",
+      externalLink: "https://www.amazon.com/dp/B00APACV0C",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

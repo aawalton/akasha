@@ -8,8 +8,12 @@ export const rcnSeriesWithTheLightnings = {
   status: "not-started",
   unit: "words",
   ownLength: 105000,
-  source: "kindle",
-  externalId: "B00B4HARJM",
-  externalLink: "https://www.amazon.com/dp/B00B4HARJM",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00B4HARJM",
+      externalLink: "https://www.amazon.com/dp/B00B4HARJM",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

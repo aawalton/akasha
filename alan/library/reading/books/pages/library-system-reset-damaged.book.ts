@@ -11,7 +11,11 @@ export const librarySystemResetDamaged = {
   position: 2,
   ownLength: 160750,
   publishedAt: "2024-09-10",
-  source: "kindle",
-  externalId: "B0D88PNTZ7",
-  externalLink: "https://amazon.com/dp/B0D88PNTZ7",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D88PNTZ7",
+      externalLink: "https://amazon.com/dp/B0D88PNTZ7",
+    },
+  ],
 } as const satisfies Book

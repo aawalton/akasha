@@ -10,8 +10,12 @@ export const powderMageTheCrimsonCampaign = {
   unit: "words",
   position: 1,
   ownLength: 157000,
-  source: "kindle",
-  externalId: "B00CO7FI36",
-  externalLink: "https://www.amazon.com/dp/B00CO7FI36",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00CO7FI36",
+      externalLink: "https://www.amazon.com/dp/B00CO7FI36",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

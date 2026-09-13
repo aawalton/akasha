@@ -10,8 +10,12 @@ export const spaceOdyssey3001TheFinalOdyssey = {
   unit: "words",
   position: 3,
   ownLength: 73000,
-  source: "kindle",
-  externalId: "B07X8ZR72R",
-  externalLink: "https://www.amazon.com/dp/B07X8ZR72R",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07X8ZR72R",
+      externalLink: "https://www.amazon.com/dp/B07X8ZR72R",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

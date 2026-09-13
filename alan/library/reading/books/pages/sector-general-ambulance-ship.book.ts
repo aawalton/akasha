@@ -11,7 +11,11 @@ export const sectorGeneralAmbulanceShip = {
   position: 4,
   ownLength: 46000,
   publishedAt: "1979-09-12",
-  source: "kindle",
-  externalId: "0345285131",
-  externalLink: "https://amazon.com/dp/0345285131",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "0345285131",
+      externalLink: "https://amazon.com/dp/0345285131",
+    },
+  ],
 } as const satisfies Book

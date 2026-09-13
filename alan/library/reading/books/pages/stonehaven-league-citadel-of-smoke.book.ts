@@ -12,7 +12,11 @@ export const stonehavenLeagueCitadelOfSmoke = {
   ownProgress: 104500,
   publishedAt: "2018-12-04",
   partOfCollections: ["book-series/stonehaven-league"],
-  source: "kindle",
-  externalId: "B07KWHZ69V",
-  externalLink: "https://amazon.com/dp/B07KWHZ69V",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07KWHZ69V",
+      externalLink: "https://amazon.com/dp/B07KWHZ69V",
+    },
+  ],
 } as const satisfies Book

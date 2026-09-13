@@ -10,7 +10,11 @@ export const theCompletionistChroniclesUnmapped = {
   position: 13,
   ownLength: 500000,
   publishedAt: "2026-01-28",
-  source: "kindle",
-  externalId: "B0FLYR1DDN",
-  externalLink: "https://amazon.com/dp/B0FLYR1DDN",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0FLYR1DDN",
+      externalLink: "https://amazon.com/dp/B0FLYR1DDN",
+    },
+  ],
 } as const satisfies Book

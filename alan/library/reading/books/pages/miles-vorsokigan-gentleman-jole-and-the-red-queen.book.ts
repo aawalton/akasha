@@ -9,8 +9,12 @@ export const milesVorsokiganGentlemanJoleAndTheRedQueen = {
   unit: "words",
   position: 15,
   ownLength: 95500,
-  source: "kindle",
-  externalId: "B01BGTZ5EY",
-  externalLink: "https://www.amazon.com/dp/B01BGTZ5EY",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01BGTZ5EY",
+      externalLink: "https://www.amazon.com/dp/B01BGTZ5EY",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

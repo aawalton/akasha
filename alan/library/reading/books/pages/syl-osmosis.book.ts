@@ -12,8 +12,12 @@ export const sylOsmosis = {
   ownLength: 137500,
   ownProgress: 137500,
   publishedAt: "2025-04-07",
-  source: "kindle",
-  externalId: "B0DWLMGRHQ",
-  externalLink: "https://amazon.com/dp/B0DWLMGRHQ",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DWLMGRHQ",
+      externalLink: "https://amazon.com/dp/B0DWLMGRHQ",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

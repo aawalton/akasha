@@ -11,7 +11,11 @@ export const infiniteRealmTheAspects = {
   position: 5,
   ownLength: 299000,
   publishedAt: "2023-03-31",
-  source: "kindle",
-  externalId: "B0BXJLKRHH",
-  externalLink: "https://amazon.com/dp/B0BXJLKRHH",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BXJLKRHH",
+      externalLink: "https://amazon.com/dp/B0BXJLKRHH",
+    },
+  ],
 } as const satisfies Book

@@ -11,7 +11,11 @@ export const legionSkinDeep = {
   position: 2,
   ownLength: 38750,
   publishedAt: "2014-11-24",
-  source: "kindle",
-  externalId: "B00PYBILPG",
-  externalLink: "https://amazon.com/dp/B00PYBILPG",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00PYBILPG",
+      externalLink: "https://amazon.com/dp/B00PYBILPG",
+    },
+  ],
 } as const satisfies Book

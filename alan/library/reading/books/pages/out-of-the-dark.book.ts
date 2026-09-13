@@ -9,8 +9,12 @@ export const outOfTheDark = {
   author: "David Weber",
   unit: "words",
   ownLength: 132250,
-  source: "kindle",
-  externalId: "B003P8Q5LM",
-  externalLink: "https://www.amazon.com/dp/B003P8Q5LM",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B003P8Q5LM",
+      externalLink: "https://www.amazon.com/dp/B003P8Q5LM",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

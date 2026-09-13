@@ -10,8 +10,12 @@ export const monsterHuntersInternationalMonsterHunterAlpha = {
   unit: "words",
   position: 2,
   ownLength: 127750,
-  source: "kindle",
-  externalId: "B00APAR3SM",
-  externalLink: "https://www.amazon.com/dp/B00APAR3SM",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00APAR3SM",
+      externalLink: "https://www.amazon.com/dp/B00APAR3SM",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

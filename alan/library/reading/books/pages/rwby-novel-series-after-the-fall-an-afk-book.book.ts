@@ -10,7 +10,11 @@ export const rwbyNovelSeriesAfterTheFallAnAfkBook = {
   position: 1,
   ownLength: 65250,
   publishedAt: "2019-06-25",
-  source: "kindle",
-  externalId: "B07HPF3N9S",
-  externalLink: "https://amazon.com/dp/B07HPF3N9S",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07HPF3N9S",
+      externalLink: "https://amazon.com/dp/B07HPF3N9S",
+    },
+  ],
 } as const satisfies Book

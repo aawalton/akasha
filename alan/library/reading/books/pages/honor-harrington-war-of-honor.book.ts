@@ -10,8 +10,12 @@ export const honorHarringtonWarOfHonor = {
   unit: "words",
   position: 9,
   ownLength: 278500,
-  source: "kindle",
-  externalId: "B00AP91YH4",
-  externalLink: "https://www.amazon.com/dp/B00AP91YH4",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00AP91YH4",
+      externalLink: "https://www.amazon.com/dp/B00AP91YH4",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

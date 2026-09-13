@@ -10,8 +10,12 @@ export const runelordsTheWyrmlingHorde = {
   unit: "words",
   position: 6,
   ownLength: 93000,
-  source: "kindle",
-  externalId: "B001652HRM",
-  externalLink: "https://www.amazon.com/dp/B001652HRM",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B001652HRM",
+      externalLink: "https://www.amazon.com/dp/B001652HRM",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

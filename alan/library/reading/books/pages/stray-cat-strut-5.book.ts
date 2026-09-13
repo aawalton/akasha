@@ -10,7 +10,11 @@ export const strayCatStrut5 = {
   position: 5,
   ownLength: 75000,
   publishedAt: "2023-12-12",
-  source: "kindle",
-  externalId: "B0CHTTQ4T5",
-  externalLink: "https://amazon.com/dp/B0CHTTQ4T5",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CHTTQ4T5",
+      externalLink: "https://amazon.com/dp/B0CHTTQ4T5",
+    },
+  ],
 } as const satisfies Book

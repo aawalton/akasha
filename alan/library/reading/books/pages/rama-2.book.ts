@@ -10,8 +10,12 @@ export const rama2 = {
   unit: "words",
   position: 1,
   ownLength: 127500,
-  source: "kindle",
-  externalId: "B07X8ZQKJQ",
-  externalLink: "https://www.amazon.com/dp/B07X8ZQKJQ",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07X8ZQKJQ",
+      externalLink: "https://www.amazon.com/dp/B07X8ZQKJQ",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

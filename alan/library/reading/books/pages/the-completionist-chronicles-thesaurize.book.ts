@@ -10,7 +10,11 @@ export const theCompletionistChroniclesThesaurize = {
   position: 10,
   ownLength: 90500,
   publishedAt: "2023-11-07",
-  source: "kindle",
-  externalId: "B0CGMHKZRY",
-  externalLink: "https://amazon.com/dp/B0CGMHKZRY",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CGMHKZRY",
+      externalLink: "https://amazon.com/dp/B0CGMHKZRY",
+    },
+  ],
 } as const satisfies Book

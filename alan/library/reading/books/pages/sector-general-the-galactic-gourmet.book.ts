@@ -11,7 +11,11 @@ export const sectorGeneralTheGalacticGourmet = {
   position: 9,
   ownLength: 78000,
   publishedAt: "1997-01-01",
-  source: "kindle",
-  externalId: "0812562674",
-  externalLink: "https://amazon.com/dp/0812562674",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "0812562674",
+      externalLink: "https://amazon.com/dp/0812562674",
+    },
+  ],
 } as const satisfies Book

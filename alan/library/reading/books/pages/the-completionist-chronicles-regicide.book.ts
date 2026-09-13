@@ -11,7 +11,11 @@ export const theCompletionistChroniclesRegicide = {
   ownLength: 97500,
   ownProgress: 97500,
   publishedAt: "2022-09-16",
-  source: "kindle",
-  externalId: "B0BFMCHQQ4",
-  externalLink: "https://amazon.com/dp/B0BFMCHQQ4",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BFMCHQQ4",
+      externalLink: "https://amazon.com/dp/B0BFMCHQQ4",
+    },
+  ],
 } as const satisfies Book

@@ -13,8 +13,12 @@ export const motherOfLearning4 = {
   ownProgress: 150250,
   publishedAt: "2023-04-04",
   partOfCollections: ["book-series/mother-of-learning"],
-  source: "kindle",
-  externalId: "B0BWSCYLRQ",
-  externalLink: "https://amazon.com/dp/B0BWSCYLRQ",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BWSCYLRQ",
+      externalLink: "https://amazon.com/dp/B0BWSCYLRQ",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

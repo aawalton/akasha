@@ -13,7 +13,11 @@ export const markOfTheFool3 = {
   ownProgress: 181500,
   publishedAt: "2023-04-12",
   partOfCollections: ["book-series/mark-of-the-fool"],
-  source: "kindle",
-  externalId: "B0BRJRD65K",
-  externalLink: "https://amazon.com/dp/B0BRJRD65K",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BRJRD65K",
+      externalLink: "https://amazon.com/dp/B0BRJRD65K",
+    },
+  ],
 } as const satisfies Book

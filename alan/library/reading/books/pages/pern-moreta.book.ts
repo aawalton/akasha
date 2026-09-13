@@ -10,8 +10,12 @@ export const pernMoreta = {
   unit: "words",
   position: 12,
   ownLength: 96000,
-  source: "kindle",
-  externalId: "B000FBFODW",
-  externalLink: "https://www.amazon.com/dp/B000FBFODW",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000FBFODW",
+      externalLink: "https://www.amazon.com/dp/B000FBFODW",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

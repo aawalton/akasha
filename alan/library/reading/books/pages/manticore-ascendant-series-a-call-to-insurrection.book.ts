@@ -9,8 +9,12 @@ export const manticoreAscendantSeriesACallToInsurrection = {
   unit: "words",
   position: 3,
   ownLength: 120000,
-  source: "kindle",
-  externalId: "B09PZ8M4D1",
-  externalLink: "https://www.amazon.com/dp/B09PZ8M4D1",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09PZ8M4D1",
+      externalLink: "https://www.amazon.com/dp/B09PZ8M4D1",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

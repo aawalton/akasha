@@ -12,7 +12,11 @@ export const stonehavenLeagueEchoesOfTheSystem = {
   ownProgress: 68250,
   publishedAt: "2019-12-24",
   partOfCollections: ["book-series/stonehaven-league"],
-  source: "kindle",
-  externalId: "B082RH3RP7",
-  externalLink: "https://amazon.com/dp/B082RH3RP7",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B082RH3RP7",
+      externalLink: "https://amazon.com/dp/B082RH3RP7",
+    },
+  ],
 } as const satisfies Book

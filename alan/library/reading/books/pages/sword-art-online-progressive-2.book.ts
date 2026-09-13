@@ -12,8 +12,12 @@ export const swordArtOnlineProgressive2 = {
   ownLength: 58500,
   ownProgress: 58500,
   publishedAt: "2017-06-20",
-  source: "kindle",
-  externalId: "B06XZY4XBH",
-  externalLink: "https://amazon.com/dp/B06XZY4XBH",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B06XZY4XBH",
+      externalLink: "https://amazon.com/dp/B06XZY4XBH",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -11,7 +11,11 @@ export const millennialMageEskau = {
   ownLength: 198250,
   ownProgress: 198250,
   publishedAt: "2024-05-02",
-  source: "kindle",
-  externalId: "B0D2WLDH7R",
-  externalLink: "https://amazon.com/dp/B0D2WLDH7R",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D2WLDH7R",
+      externalLink: "https://amazon.com/dp/B0D2WLDH7R",
+    },
+  ],
 } as const satisfies Book

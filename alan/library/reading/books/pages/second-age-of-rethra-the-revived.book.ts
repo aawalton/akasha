@@ -12,7 +12,11 @@ export const secondAgeOfRethraTheRevived = {
   ownLength: 106500,
   ownProgress: 106500,
   publishedAt: "2018-09-14",
-  source: "kindle",
-  externalId: "B07H78W9WR",
-  externalLink: "https://amazon.com/dp/B07H78W9WR",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07H78W9WR",
+      externalLink: "https://amazon.com/dp/B07H78W9WR",
+    },
+  ],
 } as const satisfies Book

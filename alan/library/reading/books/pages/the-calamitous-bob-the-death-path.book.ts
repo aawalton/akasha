@@ -11,7 +11,11 @@ export const theCalamitousBobTheDeathPath = {
   ownLength: 98000,
   ownProgress: 98000,
   publishedAt: "2022-10-24",
-  source: "kindle",
-  externalId: "B0BKH6XXJS",
-  externalLink: "https://amazon.com/dp/B0BKH6XXJS",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BKH6XXJS",
+      externalLink: "https://amazon.com/dp/B0BKH6XXJS",
+    },
+  ],
 } as const satisfies Book

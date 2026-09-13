@@ -11,7 +11,11 @@ export const theCalamitousBobWarOfTheAscendedTheCalamitousBobFinalBook = {
   ownLength: 192750,
   ownProgress: 192750,
   publishedAt: "2025-07-21",
-  source: "kindle",
-  externalId: "B0FJGT5Z7M",
-  externalLink: "https://amazon.com/dp/B0FJGT5Z7M",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0FJGT5Z7M",
+      externalLink: "https://amazon.com/dp/B0FJGT5Z7M",
+    },
+  ],
 } as const satisfies Book

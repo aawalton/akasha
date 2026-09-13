@@ -11,8 +11,12 @@ export const millennialMageVoidbound = {
   ownLength: 180750,
   ownProgress: 180750,
   publishedAt: "2025-08-20",
-  source: "kindle",
-  externalId: "B0F4PZD4D9",
-  externalLink: "https://amazon.com/dp/B0F4PZD4D9",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0F4PZD4D9",
+      externalLink: "https://amazon.com/dp/B0F4PZD4D9",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

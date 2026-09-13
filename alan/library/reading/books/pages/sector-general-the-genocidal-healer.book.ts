@@ -11,7 +11,11 @@ export const sectorGeneralTheGenocidalHealer = {
   position: 8,
   ownLength: 54750,
   publishedAt: "1992-01-13",
-  source: "kindle",
-  externalId: "0345371097",
-  externalLink: "https://amazon.com/dp/0345371097",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "0345371097",
+      externalLink: "https://amazon.com/dp/0345371097",
+    },
+  ],
 } as const satisfies Book

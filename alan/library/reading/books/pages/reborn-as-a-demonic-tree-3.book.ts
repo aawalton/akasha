@@ -12,7 +12,11 @@ export const rebornAsADemonicTree3 = {
   ownProgress: 180500,
   publishedAt: "2024-05-22",
   partOfCollections: ["book-series/reborn-as-a-demonic-tree"],
-  source: "kindle",
-  externalId: "B0CVKQP3ZZ",
-  externalLink: "https://amazon.com/dp/B0CVKQP3ZZ",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CVKQP3ZZ",
+      externalLink: "https://amazon.com/dp/B0CVKQP3ZZ",
+    },
+  ],
 } as const satisfies Book

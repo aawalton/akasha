@@ -11,7 +11,11 @@ export const sylNucleus = {
   ownLength: 165250,
   ownProgress: 165250,
   publishedAt: "2024-11-08",
-  source: "kindle",
-  externalId: "B0DJY8MXZW",
-  externalLink: "https://amazon.com/dp/B0DJY8MXZW",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DJY8MXZW",
+      externalLink: "https://amazon.com/dp/B0DJY8MXZW",
+    },
+  ],
 } as const satisfies Book

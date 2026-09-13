@@ -10,8 +10,12 @@ export const marchUpcountryMarchToTheStars = {
   unit: "words",
   position: 2,
   ownLength: 109000,
-  source: "kindle",
-  externalId: "B00APAD2F0",
-  externalLink: "https://www.amazon.com/dp/B00APAD2F0",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00APAD2F0",
+      externalLink: "https://www.amazon.com/dp/B00APAD2F0",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

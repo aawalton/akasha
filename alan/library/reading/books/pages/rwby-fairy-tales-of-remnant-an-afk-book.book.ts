@@ -9,7 +9,11 @@ export const rwbyFairyTalesOfRemnantAnAfkBook = {
   unit: "words",
   ownLength: 35250,
   publishedAt: "2020-09-15",
-  source: "kindle",
-  externalId: "B083JV4N8J",
-  externalLink: "https://www.amazon.com/Fairy-Tales-Remnant-RWBY-Myers-ebook/dp/B083JV4N8J",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B083JV4N8J",
+      externalLink: "https://www.amazon.com/Fairy-Tales-Remnant-RWBY-Myers-ebook/dp/B083JV4N8J",
+    },
+  ],
 } as const satisfies Book

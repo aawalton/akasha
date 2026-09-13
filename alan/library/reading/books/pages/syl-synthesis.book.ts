@@ -11,7 +11,11 @@ export const sylSynthesis = {
   ownLength: 161500,
   ownProgress: 161500,
   publishedAt: "2025-12-29",
-  source: "kindle",
-  externalId: "B0G2KMDCN9",
-  externalLink: "https://amazon.com/dp/B0G2KMDCN9",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0G2KMDCN9",
+      externalLink: "https://amazon.com/dp/B0G2KMDCN9",
+    },
+  ],
 } as const satisfies Book

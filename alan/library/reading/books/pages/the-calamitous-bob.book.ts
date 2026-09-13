@@ -11,7 +11,11 @@ export const theCalamitousBob = {
   ownLength: 97250,
   ownProgress: 97250,
   publishedAt: "2021-12-13",
-  source: "kindle",
-  externalId: "B09NMHNW8R",
-  externalLink: "https://amazon.com/dp/B09NMHNW8R",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09NMHNW8R",
+      externalLink: "https://amazon.com/dp/B09NMHNW8R",
+    },
+  ],
 } as const satisfies Book

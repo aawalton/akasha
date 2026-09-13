@@ -10,8 +10,12 @@ export const pernDragonHarper = {
   unit: "words",
   position: 6,
   ownLength: 96500,
-  source: "kindle",
-  externalId: "B000W93AEM",
-  externalLink: "https://www.amazon.com/dp/B000W93AEM",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000W93AEM",
+      externalLink: "https://www.amazon.com/dp/B000W93AEM",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

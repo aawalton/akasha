@@ -11,8 +11,12 @@ export const pernDragonflight = {
   position: 15,
   ownLength: 80000,
   ownProgress: 1500,
-  source: "kindle",
-  externalId: "B000FBFOCI",
-  externalLink: "https://www.amazon.com/dp/B000FBFOCI",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000FBFOCI",
+      externalLink: "https://www.amazon.com/dp/B000FBFOCI",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

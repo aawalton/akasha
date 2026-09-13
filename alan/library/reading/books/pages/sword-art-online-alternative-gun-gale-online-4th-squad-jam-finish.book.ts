@@ -11,7 +11,11 @@ export const swordArtOnlineAlternativeGunGaleOnline4thSquadJamFinish = {
   position: 9,
   ownLength: 93250,
   publishedAt: "2021-06-22",
-  source: "kindle",
-  externalId: "B08ZMVGTY2",
-  externalLink: "https://amazon.com/dp/B08ZMVGTY2",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08ZMVGTY2",
+      externalLink: "https://amazon.com/dp/B08ZMVGTY2",
+    },
+  ],
 } as const satisfies Book

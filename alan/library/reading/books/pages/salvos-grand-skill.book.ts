@@ -11,7 +11,11 @@ export const salvosGrandSkill = {
   ownLength: 132000,
   publishedAt: "2022-06-02",
   partOfCollections: ["book-series/salvos"],
-  source: "kindle",
-  externalId: "B09Y3GKGMW",
-  externalLink: "https://amazon.com/dp/B09Y3GKGMW",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09Y3GKGMW",
+      externalLink: "https://amazon.com/dp/B09Y3GKGMW",
+    },
+  ],
 } as const satisfies Book

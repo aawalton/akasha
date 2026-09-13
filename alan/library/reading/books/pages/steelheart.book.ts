@@ -11,7 +11,11 @@ export const steelheart = {
   position: 1,
   ownLength: 96500,
   ownProgress: 9500,
-  source: "kindle",
-  externalId: "B00ARHAAZ6",
-  externalLink: "https://www.amazon.com/dp/B00ARHAAZ6",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00ARHAAZ6",
+      externalLink: "https://www.amazon.com/dp/B00ARHAAZ6",
+    },
+  ],
 } as const satisfies Book

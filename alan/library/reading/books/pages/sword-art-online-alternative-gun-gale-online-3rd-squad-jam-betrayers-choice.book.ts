@@ -10,7 +10,11 @@ export const swordArtOnlineAlternativeGunGaleOnline3rdSquadJamBetrayersChoice = 
   position: 4,
   ownLength: 47000,
   publishedAt: "2019-07-30",
-  source: "kindle",
-  externalId: "B07MLR9KK4",
-  externalLink: "https://amazon.com/dp/B07MLR9KK4",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07MLR9KK4",
+      externalLink: "https://amazon.com/dp/B07MLR9KK4",
+    },
+  ],
 } as const satisfies Book

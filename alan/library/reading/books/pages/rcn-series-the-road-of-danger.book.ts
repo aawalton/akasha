@@ -9,8 +9,12 @@ export const rcnSeriesTheRoadOfDanger = {
   unit: "words",
   position: 8,
   ownLength: 112750,
-  source: "kindle",
-  externalId: "B00APA1C7K",
-  externalLink: "https://www.amazon.com/dp/B00APA1C7K",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00APA1C7K",
+      externalLink: "https://www.amazon.com/dp/B00APA1C7K",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

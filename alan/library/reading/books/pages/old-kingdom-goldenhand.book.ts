@@ -11,8 +11,12 @@ export const oldKingdomGoldenhand = {
   position: 4,
   ownLength: 90250,
   publishedAt: "2016-10-04",
-  source: "kindle",
-  externalId: "B01ARJSYDI",
-  externalLink: "https://www.amazon.com/dp/B01ARJSYDI",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01ARJSYDI",
+      externalLink: "https://www.amazon.com/dp/B01ARJSYDI",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -10,7 +10,11 @@ export const theCompletionistChroniclesImplode = {
   position: 8,
   ownLength: 97500,
   publishedAt: "2022-10-05",
-  source: "kindle",
-  externalId: "B0BFM9J6CG",
-  externalLink: "https://amazon.com/dp/B0BFM9J6CG",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BFM9J6CG",
+      externalLink: "https://amazon.com/dp/B0BFM9J6CG",
+    },
+  ],
 } as const satisfies Book

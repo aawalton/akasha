@@ -11,7 +11,11 @@ export const sectorGeneralCodeBlueEmergency = {
   position: 7,
   ownLength: 70000,
   publishedAt: "1987-06-12",
-  source: "kindle",
-  externalId: "0345341724",
-  externalLink: "https://amazon.com/dp/0345341724",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "0345341724",
+      externalLink: "https://amazon.com/dp/0345341724",
+    },
+  ],
 } as const satisfies Book

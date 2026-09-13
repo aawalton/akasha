@@ -11,7 +11,11 @@ export const theCalamitousBobInKazar = {
   ownLength: 90000,
   ownProgress: 90000,
   publishedAt: "2022-06-05",
-  source: "kindle",
-  externalId: "B0B3874Y1C",
-  externalLink: "https://amazon.com/dp/B0B3874Y1C",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0B3874Y1C",
+      externalLink: "https://amazon.com/dp/B0B3874Y1C",
+    },
+  ],
 } as const satisfies Book

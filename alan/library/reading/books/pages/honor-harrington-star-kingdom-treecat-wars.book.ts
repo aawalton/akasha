@@ -9,8 +9,12 @@ export const honorHarringtonStarKingdomTreecatWars = {
   unit: "words",
   position: 2,
   ownLength: 60750,
-  source: "kindle",
-  externalId: "B00F8N8GOG",
-  externalLink: "https://www.amazon.com/dp/B00F8N8GOG",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00F8N8GOG",
+      externalLink: "https://www.amazon.com/dp/B00F8N8GOG",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

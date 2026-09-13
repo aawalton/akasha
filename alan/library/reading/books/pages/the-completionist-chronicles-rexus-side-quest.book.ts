@@ -11,7 +11,11 @@ export const theCompletionistChroniclesRexusSideQuest = {
   ownLength: 50000,
   ownProgress: 50000,
   publishedAt: "2022-09-16",
-  source: "kindle",
-  externalId: "B0BFM8Q85M",
-  externalLink: "https://amazon.com/dp/B0BFM8Q85M",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BFM8Q85M",
+      externalLink: "https://amazon.com/dp/B0BFM8Q85M",
+    },
+  ],
 } as const satisfies Book

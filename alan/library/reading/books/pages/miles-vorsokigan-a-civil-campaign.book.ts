@@ -9,8 +9,12 @@ export const milesVorsokiganACivilCampaign = {
   unit: "words",
   position: 11,
   ownLength: 107000,
-  source: "kindle",
-  externalId: "B005FSI1IK",
-  externalLink: "https://www.amazon.com/dp/B005FSI1IK",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B005FSI1IK",
+      externalLink: "https://www.amazon.com/dp/B005FSI1IK",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -10,7 +10,11 @@ export const rhythmOfWar = {
   unit: "words",
   position: 6,
   ownLength: 307500,
-  source: "kindle",
-  externalId: "B0826NKZHR",
-  externalLink: "https://www.amazon.com/dp/B0826NKZHR",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0826NKZHR",
+      externalLink: "https://www.amazon.com/dp/B0826NKZHR",
+    },
+  ],
 } as const satisfies Book

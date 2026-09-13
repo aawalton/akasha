@@ -12,7 +12,11 @@ export const readyPlayerOneReadyPlayerTwo = {
   ownLength: 91750,
   publishedAt: "2020-11-24",
   partOfCollections: ["book-series/ready-player-one"],
-  source: "kindle",
-  externalId: "B08BYWH6CS",
-  externalLink: "https://amazon.com/dp/B08BYWH6CS",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08BYWH6CS",
+      externalLink: "https://amazon.com/dp/B08BYWH6CS",
+    },
+  ],
 } as const satisfies Book

@@ -10,7 +10,11 @@ export const legionLiesOfTheBeholder = {
   unit: "words",
   position: 3,
   ownLength: 37000,
-  source: "kindle",
-  externalId: "B084V2FF6Q",
-  externalLink: "https://www.amazon.com/dp/B084V2FF6Q",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B084V2FF6Q",
+      externalLink: "https://www.amazon.com/dp/B084V2FF6Q",
+    },
+  ],
 } as const satisfies Book

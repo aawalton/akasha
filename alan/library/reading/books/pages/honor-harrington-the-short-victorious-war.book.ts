@@ -10,8 +10,12 @@ export const honorHarringtonTheShortVictoriousWar = {
   unit: "words",
   position: 2,
   ownLength: 90000,
-  source: "kindle",
-  externalId: "B00AP9XIK0",
-  externalLink: "https://www.amazon.com/dp/B00AP9XIK0",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00AP9XIK0",
+      externalLink: "https://www.amazon.com/dp/B00AP9XIK0",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

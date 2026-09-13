@@ -8,8 +8,12 @@ export const milesVorsokiganShardsOfHonor = {
   status: "not-started",
   unit: "words",
   ownLength: 73750,
-  source: "kindle",
-  externalId: "B005BH9T86",
-  externalLink: "https://www.amazon.com/dp/B005BH9T86",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B005BH9T86",
+      externalLink: "https://www.amazon.com/dp/B005BH9T86",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

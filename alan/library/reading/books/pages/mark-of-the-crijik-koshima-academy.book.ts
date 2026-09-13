@@ -11,7 +11,11 @@ export const markOfTheCrijikKoshimaAcademy = {
   ownLength: 160500,
   publishedAt: "2023-01-31",
   partOfCollections: ["book-series/mark-of-the-crijik"],
-  source: "kindle",
-  externalId: "B0BKN5S6L7",
-  externalLink: "https://amazon.com/dp/B0BKN5S6L7",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BKN5S6L7",
+      externalLink: "https://amazon.com/dp/B0BKN5S6L7",
+    },
+  ],
 } as const satisfies Book

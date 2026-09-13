@@ -11,7 +11,11 @@ export const millennialMageBound = {
   ownLength: 105250,
   ownProgress: 105250,
   publishedAt: "2023-06-28",
-  source: "kindle",
-  externalId: "B0C6489HRC",
-  externalLink: "https://amazon.com/dp/B0C6489HRC",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0C6489HRC",
+      externalLink: "https://amazon.com/dp/B0C6489HRC",
+    },
+  ],
 } as const satisfies Book

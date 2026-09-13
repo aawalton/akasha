@@ -11,7 +11,11 @@ export const salvosADemonsPride = {
   ownLength: 173250,
   publishedAt: "2021-04-12",
   partOfCollections: ["book-series/salvos"],
-  source: "kindle",
-  externalId: "B092DQJNTT",
-  externalLink: "https://amazon.com/dp/B092DQJNTT",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B092DQJNTT",
+      externalLink: "https://amazon.com/dp/B092DQJNTT",
+    },
+  ],
 } as const satisfies Book

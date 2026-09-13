@@ -10,8 +10,12 @@ export const marchUpcountryWeFew = {
   unit: "words",
   position: 3,
   ownLength: 120750,
-  source: "kindle",
-  externalId: "B00AP91W76",
-  externalLink: "https://www.amazon.com/dp/B00AP91W76",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00AP91W76",
+      externalLink: "https://www.amazon.com/dp/B00AP91W76",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -10,7 +10,11 @@ export const legion = {
   unit: "words",
   position: 1,
   ownLength: 23750,
-  source: "kindle",
-  externalId: "B0099D4KEG",
-  externalLink: "https://www.amazon.com/dp/B0099D4KEG",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0099D4KEG",
+      externalLink: "https://www.amazon.com/dp/B0099D4KEG",
+    },
+  ],
 } as const satisfies Book

@@ -11,7 +11,11 @@ export const markOfTheCrijikTheBurningLake = {
   ownLength: 113500,
   publishedAt: "2023-10-04",
   partOfCollections: ["book-series/mark-of-the-crijik"],
-  source: "kindle",
-  externalId: "B0C3LDKWTC",
-  externalLink: "https://amazon.com/dp/B0C3LDKWTC",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0C3LDKWTC",
+      externalLink: "https://amazon.com/dp/B0C3LDKWTC",
+    },
+  ],
 } as const satisfies Book

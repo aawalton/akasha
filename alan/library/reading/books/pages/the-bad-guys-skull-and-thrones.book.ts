@@ -12,7 +12,11 @@ export const theBadGuysSkullAndThrones = {
   ownLength: 104000,
   ownProgress: 104000,
   publishedAt: "2020-02-06",
-  source: "kindle",
-  externalId: "B07YZWJ2ZC",
-  externalLink: "https://amazon.com/dp/B07YZWJ2ZC",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07YZWJ2ZC",
+      externalLink: "https://amazon.com/dp/B07YZWJ2ZC",
+    },
+  ],
 } as const satisfies Book
