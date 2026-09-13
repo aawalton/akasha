@@ -1,4 +1,3 @@
-import { aliasIn } from "akasha/changes/mechanical/file-content/add/add-type-member/add-type-member.change-mechanical-file-content.code.ts"
 import {
   refusing,
   splicedIn,
@@ -7,6 +6,7 @@ import {
 import type { Said, Splice } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { without } from "akasha/changes/modules/literal-splicing/literal-splicing.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { aliasIn } from "akasha/changes/modules/type-literal/type-literal.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import ts from "typescript"
 

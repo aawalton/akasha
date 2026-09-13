@@ -31,6 +31,7 @@ export const change = {
     "module/page-type-renaming",
     "module/target-kinding",
     "module/target-narrowing",
+    "module/type-literal",
     "module/value-carrying",
     "number-property/change-max-cpu-seconds",
     "page-type/change-agent",

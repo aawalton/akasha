@@ -9,6 +9,7 @@ import {
   spelledBare,
 } from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { aliasIn } from "akasha/changes/modules/type-literal/type-literal.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import ts from "typescript"
 
@@ -19,23 +20,6 @@ export type AddTypeMemberAsked = {
   readonly held: string
   readonly from: string
   readonly optional?: boolean
-}
-
-function literalOf(held: ts.TypeNode): ts.TypeLiteralNode | null {
-  if (ts.isTypeLiteralNode(held)) return held
-  if (!ts.isIntersectionTypeNode(held)) return null
-  for (const one of held.types) {
-    const found = literalOf(one)
-    if (found !== null) return found
-  }
-  return null
-}
-
-export function aliasIn(source: ts.SourceFile, named: string): ts.TypeLiteralNode | null {
-  for (const one of source.statements) {
-    if (ts.isTypeAliasDeclaration(one) && one.name.text === named) return literalOf(one.type)
-  }
-  return null
 }
 
 export function carries(holding: ts.TypeLiteralNode, key: string): boolean {
