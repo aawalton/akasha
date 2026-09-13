@@ -128,6 +128,9 @@ export type Changes = {
   "change-mechanical-page-type/remove-property-from-every-page": Parameters<
     typeof import("akasha/changes/mechanical/page-type/remove/remove-property-from-every-page/remove-property-from-every-page.change-mechanical-page-type.code.ts")["runChange"]
   >[1]
+  "change-mechanical-page-type/remove-property-from-page-type": Parameters<
+    typeof import("akasha/changes/mechanical/page-type/remove/remove-property-from-page-type/remove-property-from-page-type.change-mechanical-page-type.code.ts")["runChange"]
+  >[1]
   "change-mechanical-page-type/rename-page-type": Parameters<
     typeof import("akasha/changes/mechanical/page-type/rename/rename-page-type/rename-page-type.change-mechanical-page-type.code.ts")["runChange"]
   >[1]
