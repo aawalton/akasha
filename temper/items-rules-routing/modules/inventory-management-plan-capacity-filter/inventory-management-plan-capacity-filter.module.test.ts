@@ -1,6 +1,4 @@
 import { describe, expect, test } from "bun:test"
-import { compileCategoryRuleToOrdered } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler/inventory-rule-compiler.module.code.ts"
-import type { CategoryRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { buildManagementPlan } from "akasha/temper/items-rules-routing/modules/inventory-management-plan/inventory-management-plan.module.code.ts"
 import { applyDestinationCapacityFilter } from "akasha/temper/items-rules-routing/modules/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"
 import {
@@ -9,14 +7,11 @@ import {
   buildStackableBypassScenario,
   CAPACITY_BOUNDED_ACTIONS,
   EQUIP_SPEC_LIST_ARB,
+  ordered,
   STACK_COUNT_ARB,
   sumPlanStackCount,
 } from "akasha/temper/items-rules-routing/modules/inventory-management-plan-property-fixtures/inventory-management-plan-property-fixtures.module.code.ts"
 import fc from "fast-check"
-
-function ordered(rule: CategoryRule) {
-  return [rule].map(compileCategoryRuleToOrdered)
-}
 
 describe("An item dropped for want of room is recorded against the rule sending the item.", () => {
   test("a move-to rule plans as many as the bank has room for and no more", () => {
