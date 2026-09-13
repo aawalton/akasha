@@ -9,6 +9,15 @@ import {
 import { parseSeatProcKey } from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
 import { transcriptOf } from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"
 import {
+  censusOf,
+  type Judged,
+  judgedOver,
+  pagesIn,
+  type SubagentPage,
+  seenIn,
+  staleAmong,
+} from "akasha/agents/subagents/modules/census/subagent-census.module.code.ts"
+import {
   pagelessAmong,
   pagelessSaid,
 } from "akasha/agents/subagents/modules/pageless/subagent-pageless.module.code.ts"
@@ -20,15 +29,6 @@ import {
   movedOnto,
   saidOf,
 } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
-import {
-  censusOf,
-  type Judged,
-  judgedOver,
-  pagesIn,
-  type SubagentPage,
-  seenIn,
-  staleAmong,
-} from "akasha/agents/subagents/modules/subagent-census/subagent-census.module.code.ts"
 import {
   clientStartedAt,
   outlivedAmong,
