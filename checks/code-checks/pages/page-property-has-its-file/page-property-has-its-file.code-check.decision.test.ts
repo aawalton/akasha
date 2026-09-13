@@ -207,10 +207,10 @@ test("the pages to judge are the pages in the change and the pages the index say
   expect(touched(over(root, ["akasha/a/loose.txt"], {}), pageTypes)).toEqual([])
 })
 
-test("a page the index says carries a changed path is judged though the change never names it", () => {
+test("a page carrying a changed path is judged though the change never names that page", () => {
   const root = rooted()
   landed(root)
-  expect(touched(over(root, [CODE], {}), new Set<string>())).toEqual([PAGE])
+  expect(touched(over(root, [CODE], {}), new Set(["module"]))).toEqual([PAGE])
 })
 
 test("the label on a refusal is the property and the value the page states", () => {
@@ -246,11 +246,11 @@ test("a page stating a file its property names, standing nowhere, is refused by 
   ])
 })
 
-test("the check reads the index under the root it was given, and no other", () => {
+test("the page a changed path names is read from that name rather than from what a root filed", () => {
   const named = rooted()
   landed(named)
   const bare = rooted()
   const bodies = { [PAGE]: body(', code: "ts"'), [CODE]: null }
   expect(judged(over(named, [CODE], bodies))).toHaveLength(1)
-  expect(judged(over(bare, [CODE], bodies))).toEqual([])
+  expect(judged(over(bare, [CODE], bodies))).toHaveLength(1)
 })

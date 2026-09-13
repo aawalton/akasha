@@ -6,9 +6,14 @@ import type {
   FilePropertiesBy,
   UncommittedBy,
 } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
-import { filesClaimedIn } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
+import {
+  claimantOf,
+  filesClaimedIn,
+  type Listing,
+} from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
+import { filesIn } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
-import { pageNamed } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { pageNamed, typeSlugIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { valueIn } from "akasha/pages/modules/value/page-value.module.code.ts"
 
@@ -19,10 +24,19 @@ export function pagesTouchedBy(
   pageTypes: ReadonlySet<string>,
   index: Answering
 ): readonly string[] {
+  const listing: Listing = (folder) => filesIn(change.root, folder)
+  const fileProperties = index.filePropertiesAt()
+  const folders = index.folderPropertiesAt()
+  const kinds = new Set(pageTypes)
+  for (const path of change.changed) {
+    const slug = typeSlugIn(path)
+    if (slug !== null && change.after(path) !== null) kinds.add(slug)
+  }
   const found = new Set<string>()
   for (const path of change.changed) {
-    if (pageNamed(path, pageTypes)) found.add(path)
-    for (const one of index.listedByPath(path)) found.add(one.path)
+    if (pageNamed(path, kinds)) found.add(path)
+    const one = claimantOf(listing, path, kinds, fileProperties, folders)
+    if (one !== null) found.add(one)
   }
   return [...found].sort()
 }

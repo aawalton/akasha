@@ -55,12 +55,15 @@ export const pagePropertyHasItsFile = {
     {
       invariantKind: "departure",
       statement:
-        "A page the index says has a changed path is judged even when the change never names that page.",
+        "A page having a changed path is judged even when the change never names that page.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Which pages the index says have a changed path is read from the index as the index stands.",
+      statement: "Which page has a changed path is composed out of that path's own name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type the change itself writes names pages here as a landed one does.",
     },
     {
       invariantKind: "departure",
