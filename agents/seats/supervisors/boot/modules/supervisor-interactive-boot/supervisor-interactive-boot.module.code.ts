@@ -8,7 +8,12 @@ import {
   SUPERVISOR_HANDOFF_ENV_KEYS,
 } from "akasha/agents/seats/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
 import { setProxyOwnerAgentIdForSelfHeal } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import { claimSeatSupervision } from "akasha/agents/seats/supervisors/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
+import { claimSeatSupervision } from "akasha/agents/seats/supervisors/boot/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
+import type {
+  InteractiveBootArgs,
+  InteractiveSessionBoot,
+} from "akasha/agents/seats/supervisors/boot/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
+import { startPerAgentMonitors } from "akasha/agents/seats/supervisors/boot/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts"
 import {
   reconcileAgentBootFiles,
   resolveClaudeHandoff,
@@ -19,11 +24,6 @@ import {
   AGENT_LAUNCH_OPENED,
   AGENT_LAUNCH_SPAWNED,
 } from "akasha/agents/seats/supervisors/modules/supervisor-env/supervisor-env.module.code.ts"
-import type {
-  InteractiveBootArgs,
-  InteractiveSessionBoot,
-} from "akasha/agents/seats/supervisors/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
-import { startPerAgentMonitors } from "akasha/agents/seats/supervisors/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts"
 import {
   AGENT_MODE_HEADLESS,
   AGENT_MODE_INTERACTIVE,

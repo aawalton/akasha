@@ -1,6 +1,12 @@
 import { buildInteractiveCLIArgs } from "akasha/agents/claude-code/modules/claude-launch-args/claude-launch-args.module.code.ts"
 import { seatNameForAgent } from "akasha/agents/seats/observation/modules/presence-read/seat-presence-read.module.code.ts"
 import { isPendingReExec } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
+import { materializeBootPrompt } from "akasha/agents/seats/supervisors/boot/modules/supervisor-boot-prompt/supervisor-boot-prompt.module.code.ts"
+import { stage } from "akasha/agents/seats/supervisors/boot/modules/supervisor-boot-stage/supervisor-boot-stage.module.code.ts"
+import type {
+  InteractiveOpts,
+  InteractiveSessionBoot,
+} from "akasha/agents/seats/supervisors/boot/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 import {
   resolveAgentEffortLevel,
   resolveAutoCompactWindow,
@@ -13,12 +19,6 @@ import {
 } from "akasha/agents/seats/supervisors/modules/supervisor-account-config/supervisor-account-config.module.code.ts"
 import type { spawnClaudeChild } from "akasha/agents/seats/supervisors/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
 import { processCleanup } from "akasha/agents/seats/supervisors/modules/supervisor-agent-cleanup/supervisor-agent-cleanup.module.code.ts"
-import { materializeBootPrompt } from "akasha/agents/seats/supervisors/modules/supervisor-boot-prompt/supervisor-boot-prompt.module.code.ts"
-import { stage } from "akasha/agents/seats/supervisors/modules/supervisor-boot-stage/supervisor-boot-stage.module.code.ts"
-import type {
-  InteractiveOpts,
-  InteractiveSessionBoot,
-} from "akasha/agents/seats/supervisors/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 import { resolveMcpConfig } from "akasha/agents/seats/supervisors/modules/supervisor-mcp/supervisor-mcp.module.code.ts"
 import type { CarriedAgentName } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
 import type { ClearRebindDeps } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
