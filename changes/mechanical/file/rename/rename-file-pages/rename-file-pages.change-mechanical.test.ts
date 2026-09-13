@@ -1,26 +1,16 @@
 import { afterAll, expect, test } from "bun:test"
-import { runChange as moveFile } from "akasha/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
-import { runChange as moveFileCode } from "akasha/changes/mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"
-import { runChange as moveFiles } from "akasha/changes/mechanical/file/move/move-files/move-files.change-mechanical.code.ts"
-import { runChange as renameFilePage } from "akasha/changes/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts"
 import {
   addressesIn,
   runChange,
 } from "akasha/changes/mechanical/file/rename/rename-file-pages/rename-file-pages.change-mechanical.code.ts"
-import { runChange as changeManifestWays } from "akasha/changes/mechanical/file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.code.ts"
-import { runChange as changePageProperty } from "akasha/changes/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
-import { runChange as changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
-import { runChange as renameExport } from "akasha/changes/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
-import { runChange as renamePageAddress } from "akasha/changes/mechanical/file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts"
-import { runChange as renamePageAddresses } from "akasha/changes/mechanical/file-content/rename/rename-page-addresses/rename-page-addresses.change-mechanical-file-content.code.ts"
-import { runChange as renamePageSlug } from "akasha/changes/mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
-import { pathsIn, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
   type Reaching,
   type World,
   worldAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
   idOf,
   indexedRepo,
@@ -61,43 +51,6 @@ ${pageOf({
   extends: ["page-type/page"],
 })}`
 
-const RUNS: Reaching = async (world, at, given) => {
-  if (at === RENAME_FILE_PAGE) {
-    return await renameFilePage(world, given as Parameters<typeof renameFilePage>[1])
-  }
-  if (at === "change-mechanical/move-file-code") {
-    return await moveFileCode(world, given as Parameters<typeof moveFileCode>[1])
-  }
-  if (at === "change-mechanical-file/move-file") {
-    return moveFile(world, given as Parameters<typeof moveFile>[1])
-  }
-  if (at === "change-mechanical/move-files") {
-    return moveFiles(world, given as Parameters<typeof moveFiles>[1])
-  }
-  if (at === ONE_ADDRESS) {
-    return await renamePageAddress(world, given as Parameters<typeof renamePageAddress>[1])
-  }
-  if (at === RESTATES) {
-    return await renamePageAddresses(world, given as Parameters<typeof renamePageAddresses>[1])
-  }
-  if (at === "change-mechanical-file-content/rename-page-slug") {
-    return await renamePageSlug(world, given as Parameters<typeof renamePageSlug>[1])
-  }
-  if (at === "change-mechanical-file-content/rename-export") {
-    return renameExport(world, given as Parameters<typeof renameExport>[1])
-  }
-  if (at === "change-mechanical-file-content/change-imports") {
-    return changeImports(world, given as Parameters<typeof changeImports>[1])
-  }
-  if (at === "change-mechanical-file-content/change-manifest-ways") {
-    return changeManifestWays(world, given as Parameters<typeof changeManifestWays>[1])
-  }
-  if (at === "change-mechanical-file-content/change-page-page-property") {
-    return changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
-  }
-  return refusing(`\`${at}\` is reached by nothing here`)
-}
-
 function repoIn(): string {
   return indexedRepo({
     [KEPT_TYPE]: TYPE_BODY,
@@ -113,7 +66,7 @@ function repoIn(): string {
   })
 }
 
-function worldIn(root: string, reaching: Reaching = RUNS): World {
+function worldIn(root: string, reaching: Reaching = running): World {
   return worldAt(root, textIn(root), reaching)
 }
 
@@ -124,7 +77,7 @@ function tracing(): { readonly runs: Reaching; readonly reached: readonly Traced
   return {
     runs: async (world, at, given) => {
       reached.push({ at, given })
-      return await RUNS(world, at, given)
+      return await running(world, at, given)
     },
     reached,
   }
