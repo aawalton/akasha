@@ -17,6 +17,19 @@ export const narrowKey = {
       invariantKind: "departure",
       statement: "A key is spelled as the page with the key spells the key.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A key parted by dots reaches a field inside the property its first segment names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page meets such a key where some value that key reaches meets the narrow.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property holding many records is entered one record at a time.",
+    },
   ],
   types: "ts",
 } as const satisfies TextProperty
