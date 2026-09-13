@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   busyTrail,
   logPastCliffOverride,
-} from "akasha/seat-system/supervising/modules/supervisor-deferred-restart-log/supervisor-deferred-restart-log.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-deferred-restart-log/supervisor-deferred-restart-log.module.code.ts"
 
 test("an unchanged busy reason is said once rather than on every tick", () => {
   const said: string[] = []

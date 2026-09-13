@@ -14,8 +14,8 @@ import {
   HOME_DIR,
   LOG,
 } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
+import { buildSupervisorEnv } from "akasha/agents/seats/supervisors/modules/supervisor-env/supervisor-env.module.code.ts"
 import type { SupervisorHandoff } from "akasha/seat-system/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
-import { buildSupervisorEnv } from "akasha/seat-system/supervising/modules/supervisor-env/supervisor-env.module.code.ts"
 import {
   isProcessAlive,
   signalPid,

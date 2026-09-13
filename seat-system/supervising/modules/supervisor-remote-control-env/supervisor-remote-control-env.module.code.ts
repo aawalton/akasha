@@ -1,8 +1,8 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import type { RemoteControlEnv } from "akasha/agents/seats/supervisors/modules/supervisor-env/supervisor-env.module.code.ts"
 import { harnessSettingsAt } from "akasha/agents/settings/modules/harness-settings-reading/harness-settings-reading.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import type { RemoteControlEnv } from "akasha/seat-system/supervising/modules/supervisor-env/supervisor-env.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const CREDENTIAL_FILE_SCHEMA = shape
