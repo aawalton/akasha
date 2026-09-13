@@ -193,6 +193,14 @@ export const serviceWorkstation = {
     },
     {
       invariantKind: "departure",
+      statement: "A landing rewrites a unit from the checkout without moving the tree it names.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A unit's path and the tree that unit runs from come from one commit.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A service whose work lands in rounds is asked for a round by whoever needs one.",
     },
     {
