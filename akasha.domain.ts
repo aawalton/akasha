@@ -20,7 +20,6 @@ export const akasha = {
     "domain/page",
     "domain/persona",
     "domain/products",
-    "domain/smilingjenny",
     "domain/story",
     "domain/technology",
     "domain/temper",
