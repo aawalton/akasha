@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0119Chapter195ChangingTheWays = {
   position: 119,
   ownLength: 5069,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2095064/chapter-195-changing-the-ways",
-  externalId: "2095064",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2095064",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2095064/chapter-195-changing-the-ways",
+    },
+  ],
   publishedAt: "2025-02-28",
   ownProgress: 5069,
   completedAt: "2026-06-29T21:18:53.852Z",

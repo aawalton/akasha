@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0126Chapter201Elemental = {
   position: 126,
   ownLength: 5558,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2194668/chapter-201-elemental",
-  externalId: "2194668",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2194668",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2194668/chapter-201-elemental",
+    },
+  ],
   publishedAt: "2025-04-12",
   ownProgress: 5558,
   completedAt: "2026-06-29T21:19:09.207Z",

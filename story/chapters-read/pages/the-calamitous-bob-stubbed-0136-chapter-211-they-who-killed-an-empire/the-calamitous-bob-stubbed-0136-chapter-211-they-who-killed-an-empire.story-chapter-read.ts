@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0136Chapter211TheyWhoKilledAnEmpire = {
   position: 136,
   ownLength: 8019,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2371961/chapter-211-they-who-killed-an-empire",
-  externalId: "2371961",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2371961",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2371961/chapter-211-they-who-killed-an-empire",
+    },
+  ],
   publishedAt: "2025-06-20",
   ownProgress: 8019,
   completedAt: "2026-06-29T21:20:39.414Z",

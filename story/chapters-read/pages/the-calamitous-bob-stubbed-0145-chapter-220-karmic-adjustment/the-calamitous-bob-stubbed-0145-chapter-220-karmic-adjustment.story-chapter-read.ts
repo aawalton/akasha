@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0145Chapter220KarmicAdjustment = {
   position: 145,
   ownLength: 4133,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2595351/chapter-220-karmic-adjustment",
-  externalId: "2595351",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2595351",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2595351/chapter-220-karmic-adjustment",
+    },
+  ],
   publishedAt: "2025-09-12",
   ownProgress: 4133,
   completedAt: "2026-06-29T21:19:35.283Z",

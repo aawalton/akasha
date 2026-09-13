@@ -9,10 +9,14 @@ export const theGiftOfLoot0006Chapter6ForewarnedIsForearmed = {
   position: 6,
   ownLength: 2253,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3239797/chapter-6-forewarned-is-forearmed",
-  externalId: "3239797",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3239797",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3239797/chapter-6-forewarned-is-forearmed",
+    },
+  ],
   publishedAt: "2026-04-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0137Chapter212AWorldAtPeace = {
   position: 137,
   ownLength: 4866,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2389790/chapter-212-a-world-at-peace",
-  externalId: "2389790",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2389790",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2389790/chapter-212-a-world-at-peace",
+    },
+  ],
   publishedAt: "2025-06-27",
   ownProgress: 4866,
   completedAt: "2026-06-29T21:19:17.694Z",

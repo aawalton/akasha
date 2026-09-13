@@ -9,10 +9,14 @@ export const theGiftOfLoot0073Chapter73ThomasDecidesWhoLives = {
   position: 73,
   ownLength: 2995,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3868400/chapter-73-thomas-decides-who-lives",
-  externalId: "3868400",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3868400",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3868400/chapter-73-thomas-decides-who-lives",
+    },
+  ],
   publishedAt: "2026-08-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

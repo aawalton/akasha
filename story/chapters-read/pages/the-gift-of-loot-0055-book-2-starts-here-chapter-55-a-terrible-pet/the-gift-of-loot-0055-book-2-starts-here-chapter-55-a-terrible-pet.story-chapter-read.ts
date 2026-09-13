@@ -9,10 +9,14 @@ export const theGiftOfLoot0055Book2StartsHereChapter55ATerriblePet = {
   position: 55,
   ownLength: 2336,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3672148/book-2-starts-here-chapter-55-a-terrible-pet",
-  externalId: "3672148",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3672148",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3672148/book-2-starts-here-chapter-55-a-terrible-pet",
+    },
+  ],
   publishedAt: "2026-07-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

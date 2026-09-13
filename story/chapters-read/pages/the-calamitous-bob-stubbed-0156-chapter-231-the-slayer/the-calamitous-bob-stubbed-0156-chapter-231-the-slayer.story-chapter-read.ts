@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0156Chapter231TheSlayer = {
   position: 156,
   ownLength: 4158,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2748135/chapter-231-the-slayer",
-  externalId: "2748135",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2748135",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2748135/chapter-231-the-slayer",
+    },
+  ],
   publishedAt: "2025-11-10",
   ownProgress: 4158,
   completedAt: "2026-06-29T21:20:00.377Z",

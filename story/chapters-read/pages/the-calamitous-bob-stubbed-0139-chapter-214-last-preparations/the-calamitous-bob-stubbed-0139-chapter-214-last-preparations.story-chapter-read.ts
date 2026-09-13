@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0139Chapter214LastPreparations = {
   position: 139,
   ownLength: 5313,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2427499/chapter-214-last-preparations",
-  externalId: "2427499",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2427499",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2427499/chapter-214-last-preparations",
+    },
+  ],
   publishedAt: "2025-07-11",
   ownProgress: 5313,
   completedAt: "2026-06-29T21:19:22.232Z",

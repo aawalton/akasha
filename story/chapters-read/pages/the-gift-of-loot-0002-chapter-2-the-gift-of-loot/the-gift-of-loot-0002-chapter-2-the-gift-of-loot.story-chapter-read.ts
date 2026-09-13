@@ -9,10 +9,14 @@ export const theGiftOfLoot0002Chapter2TheGiftOfLoot = {
   position: 2,
   ownLength: 3038,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3223167/chapter-2-the-gift-of-loot",
-  externalId: "3223167",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3223167",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3223167/chapter-2-the-gift-of-loot",
+    },
+  ],
   publishedAt: "2026-04-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

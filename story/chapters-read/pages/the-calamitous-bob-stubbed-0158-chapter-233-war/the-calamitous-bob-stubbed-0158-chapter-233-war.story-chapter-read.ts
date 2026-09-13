@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0158Chapter233War = {
   position: 158,
   ownLength: 5689,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2754136/chapter-233-war",
-  externalId: "2754136",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2754136",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2754136/chapter-233-war",
+    },
+  ],
   publishedAt: "2025-11-12",
   ownProgress: 5689,
   completedAt: "2026-06-29T21:20:04.704Z",

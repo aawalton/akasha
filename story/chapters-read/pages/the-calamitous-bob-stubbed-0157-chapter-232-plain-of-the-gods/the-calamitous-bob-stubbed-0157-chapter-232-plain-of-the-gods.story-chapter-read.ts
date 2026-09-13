@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0157Chapter232PlainOfTheGods = {
   position: 157,
   ownLength: 5389,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2751190/chapter-232-plain-of-the-gods",
-  externalId: "2751190",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2751190",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2751190/chapter-232-plain-of-the-gods",
+    },
+  ],
   publishedAt: "2025-11-11",
   ownProgress: 5389,
   completedAt: "2026-06-29T21:20:02.479Z",

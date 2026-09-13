@@ -9,10 +9,14 @@ export const theGiftOfLoot0059Chapter59HailMary = {
   position: 59,
   ownLength: 2211,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3711806/chapter-59-hail-mary",
-  externalId: "3711806",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3711806",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3711806/chapter-59-hail-mary",
+    },
+  ],
   publishedAt: "2026-07-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

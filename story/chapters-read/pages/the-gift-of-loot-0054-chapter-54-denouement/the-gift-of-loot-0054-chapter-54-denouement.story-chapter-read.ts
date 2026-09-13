@@ -9,10 +9,14 @@ export const theGiftOfLoot0054Chapter54Denouement = {
   position: 54,
   ownLength: 480,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3667164/chapter-54-denouement",
-  externalId: "3667164",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3667164",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3667164/chapter-54-denouement",
+    },
+  ],
   publishedAt: "2026-07-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0129Chapter204ThroughTheWaves = {
   position: 129,
   ownLength: 4403,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2248693/chapter-204-through-the-waves",
-  externalId: "2248693",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2248693",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2248693/chapter-204-through-the-waves",
+    },
+  ],
   publishedAt: "2025-05-02",
   ownProgress: 4403,
   completedAt: "2026-06-29T21:19:15.522Z",

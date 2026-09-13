@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0163Chapter238TheCalamitousViv = {
   position: 163,
   ownLength: 6666,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2767888/chapter-238-the-calamitous-viv",
-  externalId: "2767888",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2767888",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2767888/chapter-238-the-calamitous-viv",
+    },
+  ],
   publishedAt: "2025-11-17",
   ownProgress: 6666,
   completedAt: "2026-06-29T21:20:16.671Z",

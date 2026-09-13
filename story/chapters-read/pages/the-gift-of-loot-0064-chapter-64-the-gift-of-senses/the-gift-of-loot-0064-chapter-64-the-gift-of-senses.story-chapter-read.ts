@@ -9,10 +9,14 @@ export const theGiftOfLoot0064Chapter64TheGiftOfSenses = {
   position: 64,
   ownLength: 3604,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3764563/chapter-64-the-gift-of-senses",
-  externalId: "3764563",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3764563",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3764563/chapter-64-the-gift-of-senses",
+    },
+  ],
   publishedAt: "2026-08-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

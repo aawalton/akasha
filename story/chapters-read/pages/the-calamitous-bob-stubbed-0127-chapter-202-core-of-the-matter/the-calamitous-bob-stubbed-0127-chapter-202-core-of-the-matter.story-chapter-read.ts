@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0127Chapter202CoreOfTheMatter = {
   position: 127,
   ownLength: 5807,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2212118/chapter-202-core-of-the-matter",
-  externalId: "2212118",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2212118",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2212118/chapter-202-core-of-the-matter",
+    },
+  ],
   publishedAt: "2025-04-18",
   ownProgress: 5807,
   completedAt: "2026-06-29T21:19:11.279Z",

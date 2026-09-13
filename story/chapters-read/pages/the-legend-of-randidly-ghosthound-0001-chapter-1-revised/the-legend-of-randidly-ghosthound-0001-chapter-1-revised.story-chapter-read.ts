@@ -9,10 +9,14 @@ export const theLegendOfRandidlyGhosthound0001Chapter1Revised = {
   position: 1,
   ownLength: 2033,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/127131/chapter-1-revised",
-  externalId: "127131",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "127131",
+      externalLink:
+        "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/127131/chapter-1-revised",
+    },
+  ],
   publishedAt: "2017-03-31",
   ownProgress: 2033,
   completedAt: "2026-06-29T21:36:31.187Z",

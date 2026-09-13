@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0130Chapter205TheLandOfTheDead = {
   position: 130,
   ownLength: 5849,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2268545/chapter-205-the-land-of-the-dead",
-  externalId: "2268545",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2268545",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2268545/chapter-205-the-land-of-the-dead",
+    },
+  ],
   publishedAt: "2025-05-10",
   ownProgress: 5849,
   completedAt: "2026-06-29T21:20:25.362Z",

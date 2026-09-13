@@ -9,10 +9,14 @@ export const theLegendOfRandidlyGhosthound0013Book1Release = {
   position: 13,
   ownLength: 134,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/783642/book-1-release",
-  externalId: "783642",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "783642",
+      externalLink:
+        "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/783642/book-1-release",
+    },
+  ],
   publishedAt: "2021-11-10",
   ownProgress: 134,
   completedAt: "2026-06-29T21:36:56.128Z",

@@ -9,10 +9,14 @@ export const theGiftOfLoot0015Chapter15ChipmunkFireDungeon = {
   position: 15,
   ownLength: 3487,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3363515/chapter-15-chipmunk-fire-dungeon",
-  externalId: "3363515",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3363515",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3363515/chapter-15-chipmunk-fire-dungeon",
+    },
+  ],
   publishedAt: "2026-05-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

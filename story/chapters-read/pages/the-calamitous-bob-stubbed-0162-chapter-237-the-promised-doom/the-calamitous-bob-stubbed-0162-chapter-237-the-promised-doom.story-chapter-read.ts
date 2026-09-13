@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0162Chapter237ThePromisedDoom = {
   position: 162,
   ownLength: 6767,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2765771/chapter-237-the-promised-doom",
-  externalId: "2765771",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2765771",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2765771/chapter-237-the-promised-doom",
+    },
+  ],
   publishedAt: "2025-11-16",
   ownProgress: 6767,
   completedAt: "2026-06-29T21:20:13.886Z",

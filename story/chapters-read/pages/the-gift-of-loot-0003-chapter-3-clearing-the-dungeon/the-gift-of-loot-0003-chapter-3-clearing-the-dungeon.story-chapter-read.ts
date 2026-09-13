@@ -9,10 +9,14 @@ export const theGiftOfLoot0003Chapter3ClearingTheDungeon = {
   position: 3,
   ownLength: 2602,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3227799/chapter-3-clearing-the-dungeon",
-  externalId: "3227799",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3227799",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3227799/chapter-3-clearing-the-dungeon",
+    },
+  ],
   publishedAt: "2026-04-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

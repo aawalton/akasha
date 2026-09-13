@@ -9,10 +9,14 @@ export const theGiftOfLoot0051Chapter51ShoppingSpree = {
   position: 51,
   ownLength: 3926,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3640633/chapter-51-shopping-spree",
-  externalId: "3640633",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3640633",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3640633/chapter-51-shopping-spree",
+    },
+  ],
   publishedAt: "2026-07-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

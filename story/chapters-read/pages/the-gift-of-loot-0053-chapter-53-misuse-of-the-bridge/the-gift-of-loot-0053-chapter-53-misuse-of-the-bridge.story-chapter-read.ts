@@ -9,10 +9,14 @@ export const theGiftOfLoot0053Chapter53MisuseOfTheBridge = {
   position: 53,
   ownLength: 3556,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3658743/chapter-53-misuse-of-the-bridge",
-  externalId: "3658743",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3658743",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3658743/chapter-53-misuse-of-the-bridge",
+    },
+  ],
   publishedAt: "2026-07-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

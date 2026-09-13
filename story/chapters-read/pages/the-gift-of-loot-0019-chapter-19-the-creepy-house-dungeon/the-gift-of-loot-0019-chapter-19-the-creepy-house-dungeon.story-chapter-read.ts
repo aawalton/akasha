@@ -9,10 +9,14 @@ export const theGiftOfLoot0019Chapter19TheCreepyHouseDungeon = {
   position: 19,
   ownLength: 2926,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3379121/chapter-19-the-creepy-house-dungeon",
-  externalId: "3379121",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3379121",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3379121/chapter-19-the-creepy-house-dungeon",
+    },
+  ],
   publishedAt: "2026-05-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

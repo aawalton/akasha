@@ -9,10 +9,14 @@ export const theGiftOfLoot0031Chapter31BearMarketBehavior = {
   position: 31,
   ownLength: 2212,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3438009/chapter-31-bear-market-behavior",
-  externalId: "3438009",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3438009",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3438009/chapter-31-bear-market-behavior",
+    },
+  ],
   publishedAt: "2026-05-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

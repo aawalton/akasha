@@ -9,10 +9,14 @@ export const theGiftOfLoot0052Chapter52ItS1000ATrap = {
   position: 52,
   ownLength: 3749,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3649675/chapter-52-its-1000-a-trap",
-  externalId: "3649675",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3649675",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3649675/chapter-52-its-1000-a-trap",
+    },
+  ],
   publishedAt: "2026-07-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

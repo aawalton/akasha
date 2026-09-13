@@ -9,10 +9,14 @@ export const theGiftOfLoot0021Chapter21Upgrade = {
   position: 21,
   ownLength: 2351,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3384523/chapter-21-upgrade",
-  externalId: "3384523",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3384523",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3384523/chapter-21-upgrade",
+    },
+  ],
   publishedAt: "2026-05-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

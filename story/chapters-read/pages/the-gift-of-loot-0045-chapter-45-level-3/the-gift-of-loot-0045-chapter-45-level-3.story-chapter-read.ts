@@ -9,10 +9,14 @@ export const theGiftOfLoot0045Chapter45Level3 = {
   position: 45,
   ownLength: 2947,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3575881/chapter-45-level-3",
-  externalId: "3575881",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3575881",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3575881/chapter-45-level-3",
+    },
+  ],
   publishedAt: "2026-06-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

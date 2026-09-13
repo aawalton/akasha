@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0125Chapter200TheScars = {
   position: 125,
   ownLength: 3528,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2176190/chapter-200-the-scars",
-  externalId: "2176190",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2176190",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2176190/chapter-200-the-scars",
+    },
+  ],
   publishedAt: "2025-04-05",
   ownProgress: 3528,
   completedAt: "2026-06-29T21:19:07.104Z",

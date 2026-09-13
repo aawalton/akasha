@@ -9,10 +9,14 @@ export const theGiftOfLoot0044Chapter44HealingTank = {
   position: 44,
   ownLength: 3665,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3562412/chapter-44-healing-tank",
-  externalId: "3562412",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3562412",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3562412/chapter-44-healing-tank",
+    },
+  ],
   publishedAt: "2026-06-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theGiftOfLoot0042Chapter42AThirstySword = {
   position: 42,
   ownLength: 2471,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3543686/chapter-42-a-thirsty-sword",
-  externalId: "3543686",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3543686",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3543686/chapter-42-a-thirsty-sword",
+    },
+  ],
   publishedAt: "2026-06-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

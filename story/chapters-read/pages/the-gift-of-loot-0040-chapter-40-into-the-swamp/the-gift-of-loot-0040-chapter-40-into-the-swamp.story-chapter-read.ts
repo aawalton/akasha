@@ -9,10 +9,14 @@ export const theGiftOfLoot0040Chapter40IntoTheSwamp = {
   position: 40,
   ownLength: 3095,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3520552/chapter-40-into-the-swamp",
-  externalId: "3520552",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3520552",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3520552/chapter-40-into-the-swamp",
+    },
+  ],
   publishedAt: "2026-06-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

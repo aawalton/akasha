@@ -9,10 +9,14 @@ export const theGiftOfLoot0039Chapter39LetSStartARiot = {
   position: 39,
   ownLength: 3595,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3510488/chapter-39-lets-start-a-riot",
-  externalId: "3510488",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3510488",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3510488/chapter-39-lets-start-a-riot",
+    },
+  ],
   publishedAt: "2026-06-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

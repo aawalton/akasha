@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0149Chapter224Rout = {
   position: 149,
   ownLength: 5374,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2666198/chapter-224-rout",
-  externalId: "2666198",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2666198",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2666198/chapter-224-rout",
+    },
+  ],
   publishedAt: "2025-10-10",
   ownProgress: 5374,
   completedAt: "2026-06-29T21:19:43.779Z",

@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0166MecanimusSigningOff = {
   position: 166,
   ownLength: 369,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2771794/mecanimus-signing-off",
-  externalId: "2771794",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2771794",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2771794/mecanimus-signing-off",
+    },
+  ],
   publishedAt: "2025-11-18",
   ownProgress: 369,
   completedAt: "2026-06-29T21:20:23.242Z",

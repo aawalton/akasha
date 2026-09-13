@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0141Chapter216VivGetsHerJustDesert = {
   position: 141,
   ownLength: 5977,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2457335/chapter-216-viv-gets-her-just-desert",
-  externalId: "2457335",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2457335",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2457335/chapter-216-viv-gets-her-just-desert",
+    },
+  ],
   publishedAt: "2025-07-22",
   ownProgress: 5977,
   completedAt: "2026-06-29T21:19:26.386Z",

@@ -9,10 +9,14 @@ export const theGiftOfLoot0018Chapter18ShakingDownTheNationalGuard = {
   position: 18,
   ownLength: 3792,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3375920/chapter-18-shaking-down-the-national-guard",
-  externalId: "3375920",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3375920",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3375920/chapter-18-shaking-down-the-national-guard",
+    },
+  ],
   publishedAt: "2026-05-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

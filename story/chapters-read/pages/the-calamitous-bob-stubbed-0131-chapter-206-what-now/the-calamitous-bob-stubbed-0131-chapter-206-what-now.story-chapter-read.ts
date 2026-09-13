@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0131Chapter206WhatNow = {
   position: 131,
   ownLength: 5241,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2284050/chapter-206-what-now",
-  externalId: "2284050",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2284050",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2284050/chapter-206-what-now",
+    },
+  ],
   publishedAt: "2025-05-16",
   ownProgress: 5241,
   completedAt: "2026-06-29T21:20:27.667Z",

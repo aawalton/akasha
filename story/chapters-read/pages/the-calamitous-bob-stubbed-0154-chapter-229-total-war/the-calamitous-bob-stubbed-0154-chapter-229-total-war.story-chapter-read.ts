@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0154Chapter229TotalWar = {
   position: 154,
   ownLength: 6299,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2743118/chapter-229-total-war",
-  externalId: "2743118",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2743118",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2743118/chapter-229-total-war",
+    },
+  ],
   publishedAt: "2025-11-08",
   ownProgress: 6299,
   completedAt: "2026-06-29T21:19:55.977Z",

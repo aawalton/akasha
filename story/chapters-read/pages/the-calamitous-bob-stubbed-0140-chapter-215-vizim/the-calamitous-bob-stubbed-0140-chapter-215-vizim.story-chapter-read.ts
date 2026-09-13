@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0140Chapter215Vizim = {
   position: 140,
   ownLength: 6461,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2445692/chapter-215-vizim",
-  externalId: "2445692",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2445692",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2445692/chapter-215-vizim",
+    },
+  ],
   publishedAt: "2025-07-18",
   ownProgress: 6461,
   completedAt: "2026-06-29T21:19:24.275Z",

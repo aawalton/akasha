@@ -9,10 +9,14 @@ export const theGiftOfLoot0072Chapter72StarEyed = {
   position: 72,
   ownLength: 3957,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3859490/chapter-72-star-eyed",
-  externalId: "3859490",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3859490",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3859490/chapter-72-star-eyed",
+    },
+  ],
   publishedAt: "2026-08-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theGiftOfLoot0016Chapter16TheBurningBoss = {
   position: 16,
   ownLength: 2942,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3367691/chapter-16-the-burning-boss",
-  externalId: "3367691",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3367691",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3367691/chapter-16-the-burning-boss",
+    },
+  ],
   publishedAt: "2026-05-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

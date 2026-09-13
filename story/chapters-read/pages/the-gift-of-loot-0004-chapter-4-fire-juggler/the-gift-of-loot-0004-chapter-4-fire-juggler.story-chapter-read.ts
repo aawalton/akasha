@@ -9,10 +9,14 @@ export const theGiftOfLoot0004Chapter4FireJuggler = {
   position: 4,
   ownLength: 2016,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3231933/chapter-4-fire-juggler",
-  externalId: "3231933",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3231933",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3231933/chapter-4-fire-juggler",
+    },
+  ],
   publishedAt: "2026-04-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

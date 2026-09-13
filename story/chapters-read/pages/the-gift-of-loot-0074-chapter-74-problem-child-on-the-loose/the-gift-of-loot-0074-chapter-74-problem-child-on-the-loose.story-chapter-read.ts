@@ -9,10 +9,14 @@ export const theGiftOfLoot0074Chapter74ProblemChildOnTheLoose = {
   position: 74,
   ownLength: 3162,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3877841/chapter-74-problem-child-on-the-loose",
-  externalId: "3877841",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3877841",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3877841/chapter-74-problem-child-on-the-loose",
+    },
+  ],
   publishedAt: "2026-08-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

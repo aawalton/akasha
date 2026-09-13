@@ -9,10 +9,14 @@ export const theGiftOfLoot0030Chapter30LoadingForBear = {
   position: 30,
   ownLength: 2611,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3428794/chapter-30-loading-for-bear",
-  externalId: "3428794",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3428794",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3428794/chapter-30-loading-for-bear",
+    },
+  ],
   publishedAt: "2026-05-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

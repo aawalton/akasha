@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0164NewspapersExtractsFromTheHarrakanGazette
   position: 164,
   ownLength: 908,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2771768/newspapers-extracts-from-the-harrakan-gazette",
-  externalId: "2771768",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2771768",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2771768/newspapers-extracts-from-the-harrakan-gazette",
+    },
+  ],
   publishedAt: "2025-11-18",
   ownProgress: 908,
   completedAt: "2026-06-29T21:20:19.174Z",

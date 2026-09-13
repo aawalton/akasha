@@ -9,10 +9,14 @@ export const theGiftOfLoot0017Chapter17TheRenoAuction = {
   position: 17,
   ownLength: 3984,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3372253/chapter-17-the-reno-auction",
-  externalId: "3372253",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3372253",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3372253/chapter-17-the-reno-auction",
+    },
+  ],
   publishedAt: "2026-05-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

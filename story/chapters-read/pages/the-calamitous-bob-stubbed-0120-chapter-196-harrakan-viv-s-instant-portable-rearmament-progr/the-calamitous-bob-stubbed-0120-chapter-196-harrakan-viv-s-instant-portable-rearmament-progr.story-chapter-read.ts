@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0120Chapter196HarrakanVivSInstantPortableRea
   position: 120,
   ownLength: 5551,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2113781/chapter-196-harrakan-vivs-instant-portable-rearmament",
-  externalId: "2113781",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2113781",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2113781/chapter-196-harrakan-vivs-instant-portable-rearmament",
+    },
+  ],
   publishedAt: "2025-03-08",
   ownProgress: 5551,
   completedAt: "2026-06-29T21:18:55.989Z",

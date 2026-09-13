@@ -9,10 +9,14 @@ export const theGiftOfLoot0032Chapter32AnUnBearAbleDecision = {
   position: 32,
   ownLength: 3413,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3441813/chapter-32-an-un-bear-able-decision",
-  externalId: "3441813",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3441813",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3441813/chapter-32-an-un-bear-able-decision",
+    },
+  ],
   publishedAt: "2026-05-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

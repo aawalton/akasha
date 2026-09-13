@@ -9,10 +9,14 @@ export const theGiftOfLoot0060Chapter60Purge = {
   position: 60,
   ownLength: 3309,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3720757/chapter-60-purge",
-  externalId: "3720757",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3720757",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3720757/chapter-60-purge",
+    },
+  ],
   publishedAt: "2026-07-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

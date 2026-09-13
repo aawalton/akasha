@@ -9,10 +9,14 @@ export const theGiftOfLoot0027Chapter27SchwarzeneggerCouldNever = {
   position: 27,
   ownLength: 2887,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3407802/chapter-27-schwarzenegger-could-never",
-  externalId: "3407802",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3407802",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3407802/chapter-27-schwarzenegger-could-never",
+    },
+  ],
   publishedAt: "2026-05-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

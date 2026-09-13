@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0132Chapter207PickingBones = {
   position: 132,
   ownLength: 7471,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2300701/chapter-207-picking-bones",
-  externalId: "2300701",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2300701",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2300701/chapter-207-picking-bones",
+    },
+  ],
   publishedAt: "2025-05-23",
   ownProgress: 7471,
   completedAt: "2026-06-29T21:20:29.755Z",

@@ -9,10 +9,14 @@ export const theGiftOfLoot0047Chapter47HealThyself = {
   position: 47,
   ownLength: 3684,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3595193/chapter-47-heal-thyself",
-  externalId: "3595193",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3595193",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3595193/chapter-47-heal-thyself",
+    },
+  ],
   publishedAt: "2026-06-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

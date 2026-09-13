@@ -9,10 +9,14 @@ export const theGiftOfLoot0075Chapter75OfficiallyTheTeamPartyBus = {
   position: 75,
   ownLength: 2970,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3891397/chapter-75-officially-the-team-party-bus",
-  externalId: "3891397",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3891397",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3891397/chapter-75-officially-the-team-party-bus",
+    },
+  ],
   publishedAt: "2026-08-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

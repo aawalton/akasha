@@ -9,10 +9,14 @@ export const theGiftOfLoot0034Chapter34GrinAndBearIt = {
   position: 34,
   ownLength: 2497,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3451321/chapter-34-grin-and-bear-it",
-  externalId: "3451321",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3451321",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3451321/chapter-34-grin-and-bear-it",
+    },
+  ],
   publishedAt: "2026-05-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theGiftOfLoot0049Chapter49TheHardSell = {
   position: 49,
   ownLength: 4121,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3618165/chapter-49-the-hard-sell",
-  externalId: "3618165",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3618165",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3618165/chapter-49-the-hard-sell",
+    },
+  ],
   publishedAt: "2026-07-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0123Chapter199SpeedDemon = {
   position: 123,
   ownLength: 6057,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2156900/chapter-199-speed-demon",
-  externalId: "2156900",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2156900",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2156900/chapter-199-speed-demon",
+    },
+  ],
   publishedAt: "2025-03-28",
   ownProgress: 6057,
   completedAt: "2026-06-29T21:19:02.401Z",

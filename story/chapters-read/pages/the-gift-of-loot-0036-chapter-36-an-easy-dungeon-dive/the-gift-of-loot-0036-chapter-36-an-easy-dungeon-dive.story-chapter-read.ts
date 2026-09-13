@@ -9,10 +9,14 @@ export const theGiftOfLoot0036Chapter36AnEasyDungeonDive = {
   position: 36,
   ownLength: 3715,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3479267/chapter-36-an-easy-dungeon-dive",
-  externalId: "3479267",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3479267",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3479267/chapter-36-an-easy-dungeon-dive",
+    },
+  ],
   publishedAt: "2026-06-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theGiftOfLoot0024Chapter24CheeseTheHellOutOfTheDungeon = {
   position: 24,
   ownLength: 2176,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3395583/chapter-24-cheese-the-hell-out-of-the-dungeon",
-  externalId: "3395583",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3395583",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3395583/chapter-24-cheese-the-hell-out-of-the-dungeon",
+    },
+  ],
   publishedAt: "2026-05-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

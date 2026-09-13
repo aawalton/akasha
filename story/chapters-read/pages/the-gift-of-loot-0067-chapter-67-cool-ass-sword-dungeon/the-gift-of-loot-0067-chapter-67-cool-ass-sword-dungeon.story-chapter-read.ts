@@ -9,10 +9,14 @@ export const theGiftOfLoot0067Chapter67CoolAssSwordDungeon = {
   position: 67,
   ownLength: 2874,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3796427/chapter-67-cool-ass-sword-dungeon",
-  externalId: "3796427",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3796427",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3796427/chapter-67-cool-ass-sword-dungeon",
+    },
+  ],
   publishedAt: "2026-08-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

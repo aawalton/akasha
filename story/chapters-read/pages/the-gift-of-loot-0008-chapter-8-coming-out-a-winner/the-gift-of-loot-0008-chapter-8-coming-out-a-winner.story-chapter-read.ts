@@ -9,10 +9,14 @@ export const theGiftOfLoot0008Chapter8ComingOutAWinner = {
   position: 8,
   ownLength: 1517,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3248589/chapter-8-coming-out-a-winner",
-  externalId: "3248589",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3248589",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3248589/chapter-8-coming-out-a-winner",
+    },
+  ],
   publishedAt: "2026-04-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

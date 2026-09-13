@@ -9,10 +9,14 @@ export const theGiftOfLoot0022Chapter22FindingBalanceAndLoot = {
   position: 22,
   ownLength: 3098,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3387112/chapter-22-finding-balance-and-loot",
-  externalId: "3387112",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3387112",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3387112/chapter-22-finding-balance-and-loot",
+    },
+  ],
   publishedAt: "2026-05-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

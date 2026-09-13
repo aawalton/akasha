@@ -9,10 +9,14 @@ export const theGiftOfLoot0033Chapter33BearSerkerPotion = {
   position: 33,
   ownLength: 2793,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3446007/chapter-33-bear-serker-potion",
-  externalId: "3446007",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3446007",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3446007/chapter-33-bear-serker-potion",
+    },
+  ],
   publishedAt: "2026-05-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0151Chapter226TheNightOfFire = {
   position: 151,
   ownLength: 4282,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2701468/chapter-226-the-night-of-fire",
-  externalId: "2701468",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2701468",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2701468/chapter-226-the-night-of-fire",
+    },
+  ],
   publishedAt: "2025-10-24",
   ownProgress: 4282,
   completedAt: "2026-06-29T21:19:49.208Z",

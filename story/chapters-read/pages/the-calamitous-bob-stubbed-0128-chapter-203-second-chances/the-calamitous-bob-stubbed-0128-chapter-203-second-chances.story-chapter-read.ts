@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0128Chapter203SecondChances = {
   position: 128,
   ownLength: 6503,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2231652/chapter-203-second-chances",
-  externalId: "2231652",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2231652",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2231652/chapter-203-second-chances",
+    },
+  ],
   publishedAt: "2025-04-26",
   ownProgress: 6503,
   completedAt: "2026-06-29T21:19:13.370Z",

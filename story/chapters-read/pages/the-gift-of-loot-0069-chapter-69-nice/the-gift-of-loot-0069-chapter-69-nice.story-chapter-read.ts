@@ -9,10 +9,14 @@ export const theGiftOfLoot0069Chapter69Nice = {
   position: 69,
   ownLength: 3814,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3826562/chapter-69-nice",
-  externalId: "3826562",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3826562",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3826562/chapter-69-nice",
+    },
+  ],
   publishedAt: "2026-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

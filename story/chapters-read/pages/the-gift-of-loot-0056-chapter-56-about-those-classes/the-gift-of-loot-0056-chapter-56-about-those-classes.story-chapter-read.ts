@@ -9,10 +9,14 @@ export const theGiftOfLoot0056Chapter56AboutThoseClasses = {
   position: 56,
   ownLength: 2204,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3681380/chapter-56-about-those-classes",
-  externalId: "3681380",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3681380",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3681380/chapter-56-about-those-classes",
+    },
+  ],
   publishedAt: "2026-07-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

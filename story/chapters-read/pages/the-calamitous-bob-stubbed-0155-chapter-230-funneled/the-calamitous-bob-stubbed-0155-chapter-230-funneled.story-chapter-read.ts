@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0155Chapter230Funneled = {
   position: 155,
   ownLength: 5262,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2745625/chapter-230-funneled",
-  externalId: "2745625",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2745625",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2745625/chapter-230-funneled",
+    },
+  ],
   publishedAt: "2025-11-09",
   ownProgress: 5262,
   completedAt: "2026-06-29T21:19:58.257Z",

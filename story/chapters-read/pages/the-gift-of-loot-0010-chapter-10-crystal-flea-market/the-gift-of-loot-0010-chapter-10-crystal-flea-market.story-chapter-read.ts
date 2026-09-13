@@ -9,10 +9,14 @@ export const theGiftOfLoot0010Chapter10CrystalFleaMarket = {
   position: 10,
   ownLength: 2441,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3269347/chapter-10-crystal-flea-market",
-  externalId: "3269347",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3269347",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3269347/chapter-10-crystal-flea-market",
+    },
+  ],
   publishedAt: "2026-04-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

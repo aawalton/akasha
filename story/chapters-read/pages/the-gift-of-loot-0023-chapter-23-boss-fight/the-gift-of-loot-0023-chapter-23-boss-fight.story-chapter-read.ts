@@ -9,10 +9,14 @@ export const theGiftOfLoot0023Chapter23BossFight = {
   position: 23,
   ownLength: 3554,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3391343/chapter-23-boss-fight",
-  externalId: "3391343",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3391343",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3391343/chapter-23-boss-fight",
+    },
+  ],
   publishedAt: "2026-05-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

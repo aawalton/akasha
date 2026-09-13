@@ -9,10 +9,14 @@ export const theGiftOfLoot0001Chapter1FirstDungeon = {
   position: 1,
   ownLength: 2149,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3219287/chapter-1-first-dungeon",
-  externalId: "3219287",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3219287",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3219287/chapter-1-first-dungeon",
+    },
+  ],
   publishedAt: "2026-04-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0124ChapterNonCanonCannonVampire = {
   position: 124,
   ownLength: 1347,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2166297/chapter-non-canon-cannon-vampire",
-  externalId: "2166297",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2166297",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2166297/chapter-non-canon-cannon-vampire",
+    },
+  ],
   publishedAt: "2025-04-01",
   ownProgress: 1347,
   completedAt: "2026-06-29T21:19:04.969Z",

@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0165Epilogue = {
   position: 165,
   ownLength: 973,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2771774/epilogue",
-  externalId: "2771774",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2771774",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2771774/epilogue",
+    },
+  ],
   publishedAt: "2025-11-18",
   ownProgress: 973,
   completedAt: "2026-06-29T21:20:21.194Z",

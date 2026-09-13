@@ -9,10 +9,14 @@ export const theGiftOfLoot0050Chapter50BuyingAlliesDonTComeCheap = {
   position: 50,
   ownLength: 2330,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3627953/chapter-50-buying-allies-dont-come-cheap",
-  externalId: "3627953",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3627953",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3627953/chapter-50-buying-allies-dont-come-cheap",
+    },
+  ],
   publishedAt: "2026-07-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

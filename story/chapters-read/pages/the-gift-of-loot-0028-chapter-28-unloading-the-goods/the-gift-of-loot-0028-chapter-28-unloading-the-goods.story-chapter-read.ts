@@ -9,10 +9,14 @@ export const theGiftOfLoot0028Chapter28UnloadingTheGoods = {
   position: 28,
   ownLength: 2640,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3415949/chapter-28-unloading-the-goods",
-  externalId: "3415949",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3415949",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3415949/chapter-28-unloading-the-goods",
+    },
+  ],
   publishedAt: "2026-05-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

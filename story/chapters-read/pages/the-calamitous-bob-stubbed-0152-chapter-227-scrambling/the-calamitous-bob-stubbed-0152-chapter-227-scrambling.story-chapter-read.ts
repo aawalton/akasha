@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0152Chapter227Scrambling = {
   position: 152,
   ownLength: 5086,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2717146/chapter-227-scrambling",
-  externalId: "2717146",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2717146",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2717146/chapter-227-scrambling",
+    },
+  ],
   publishedAt: "2025-10-30",
   ownProgress: 5086,
   completedAt: "2026-06-29T21:19:51.614Z",

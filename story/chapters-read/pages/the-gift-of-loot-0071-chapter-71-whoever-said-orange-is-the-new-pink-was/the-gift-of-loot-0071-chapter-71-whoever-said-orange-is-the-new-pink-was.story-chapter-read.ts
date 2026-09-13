@@ -9,10 +9,14 @@ export const theGiftOfLoot0071Chapter71WhoeverSaidOrangeIsTheNewPinkWas = {
   position: 71,
   ownLength: 3847,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3844389/chapter-71-whoever-said-orange-is-the-new-pink",
-  externalId: "3844389",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3844389",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3844389/chapter-71-whoever-said-orange-is-the-new-pink",
+    },
+  ],
   publishedAt: "2026-08-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

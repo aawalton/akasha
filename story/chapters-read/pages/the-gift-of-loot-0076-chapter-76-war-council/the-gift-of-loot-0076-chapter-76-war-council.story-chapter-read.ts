@@ -9,10 +9,14 @@ export const theGiftOfLoot0076Chapter76WarCouncil = {
   position: 76,
   ownLength: 2563,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3901218/chapter-76-war-council",
-  externalId: "3901218",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3901218",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3901218/chapter-76-war-council",
+    },
+  ],
   publishedAt: "2026-09-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

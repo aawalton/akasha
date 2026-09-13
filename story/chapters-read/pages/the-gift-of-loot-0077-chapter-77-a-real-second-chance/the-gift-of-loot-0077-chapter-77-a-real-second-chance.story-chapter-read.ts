@@ -8,11 +8,15 @@ export const theGiftOfLoot0077Chapter77ARealSecondChance = {
   position: 77,
   publishedAt: "2026-09-04",
   unit: "words",
-  externalId: "3912180",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3912180",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3912180/chapter-77-a-real-second-chance",
+    },
+  ],
   title: "Chapter 77: A Real Second Chance",
   ownLength: 1203,
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3912180/chapter-77-a-real-second-chance",
   prose: "txt",
 } as const satisfies StoryChapterRead

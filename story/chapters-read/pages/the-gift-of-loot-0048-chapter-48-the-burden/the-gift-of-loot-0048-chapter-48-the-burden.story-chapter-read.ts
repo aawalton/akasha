@@ -9,10 +9,14 @@ export const theGiftOfLoot0048Chapter48TheBurden = {
   position: 48,
   ownLength: 3101,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3608456/chapter-48-the-burden",
-  externalId: "3608456",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3608456",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3608456/chapter-48-the-burden",
+    },
+  ],
   publishedAt: "2026-06-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

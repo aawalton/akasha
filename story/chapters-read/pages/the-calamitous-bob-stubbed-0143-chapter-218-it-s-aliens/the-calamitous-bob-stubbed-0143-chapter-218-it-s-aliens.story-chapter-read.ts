@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0143Chapter218ItSAliens = {
   position: 143,
   ownLength: 5321,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2558280/chapter-218-its-aliens",
-  externalId: "2558280",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2558280",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2558280/chapter-218-its-aliens",
+    },
+  ],
   publishedAt: "2025-08-29",
   ownProgress: 5321,
   completedAt: "2026-06-29T21:19:30.667Z",

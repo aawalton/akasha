@@ -9,10 +9,14 @@ export const theGiftOfLoot0046Chapter46WorstElviraCosplayEver = {
   position: 46,
   ownLength: 3039,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3585425/chapter-46-worst-elvira-cosplay-ever",
-  externalId: "3585425",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3585425",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3585425/chapter-46-worst-elvira-cosplay-ever",
+    },
+  ],
   publishedAt: "2026-06-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

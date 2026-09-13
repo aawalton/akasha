@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0122Chapter198KarkDiplomacy = {
   position: 122,
   ownLength: 5661,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2143754/chapter-198-kark-diplomacy",
-  externalId: "2143754",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2143754",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2143754/chapter-198-kark-diplomacy",
+    },
+  ],
   publishedAt: "2025-03-22",
   ownProgress: 5661,
   completedAt: "2026-06-29T21:19:00.186Z",

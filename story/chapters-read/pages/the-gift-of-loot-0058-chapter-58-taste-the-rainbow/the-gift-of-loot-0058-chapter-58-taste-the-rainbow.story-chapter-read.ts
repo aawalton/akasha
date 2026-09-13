@@ -9,10 +9,14 @@ export const theGiftOfLoot0058Chapter58TasteTheRainbow = {
   position: 58,
   ownLength: 6266,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3702890/chapter-58-taste-the-rainbow",
-  externalId: "3702890",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3702890",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3702890/chapter-58-taste-the-rainbow",
+    },
+  ],
   publishedAt: "2026-07-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

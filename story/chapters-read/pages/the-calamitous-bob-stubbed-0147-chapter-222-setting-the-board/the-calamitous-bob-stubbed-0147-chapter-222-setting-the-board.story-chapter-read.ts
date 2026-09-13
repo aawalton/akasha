@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0147Chapter222SettingTheBoard = {
   position: 147,
   ownLength: 5574,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2629963/chapter-222-setting-the-board",
-  externalId: "2629963",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2629963",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2629963/chapter-222-setting-the-board",
+    },
+  ],
   publishedAt: "2025-09-26",
   ownProgress: 5574,
   completedAt: "2026-06-29T21:19:39.462Z",

@@ -9,10 +9,14 @@ export const theGiftOfLoot0013Chapter13GiveTheManAHand = {
   position: 13,
   ownLength: 2229,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3291572/chapter-13-give-the-man-a-hand",
-  externalId: "3291572",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3291572",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3291572/chapter-13-give-the-man-a-hand",
+    },
+  ],
   publishedAt: "2026-04-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

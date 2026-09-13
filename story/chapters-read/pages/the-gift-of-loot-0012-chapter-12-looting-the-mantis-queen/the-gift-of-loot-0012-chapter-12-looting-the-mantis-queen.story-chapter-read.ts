@@ -9,10 +9,14 @@ export const theGiftOfLoot0012Chapter12LootingTheMantisQueen = {
   position: 12,
   ownLength: 3070,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3278664/chapter-12-looting-the-mantis-queen",
-  externalId: "3278664",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3278664",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3278664/chapter-12-looting-the-mantis-queen",
+    },
+  ],
   publishedAt: "2026-04-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

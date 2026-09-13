@@ -9,10 +9,14 @@ export const theGiftOfLoot0037Chapter37LeadOnALevel3Dungeon = {
   position: 37,
   ownLength: 2046,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3488485/chapter-37-lead-on-a-level-3-dungeon",
-  externalId: "3488485",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3488485",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3488485/chapter-37-lead-on-a-level-3-dungeon",
+    },
+  ],
   publishedAt: "2026-06-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

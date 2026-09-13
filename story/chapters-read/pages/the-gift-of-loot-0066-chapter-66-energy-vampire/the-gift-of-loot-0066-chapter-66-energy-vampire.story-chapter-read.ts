@@ -9,10 +9,14 @@ export const theGiftOfLoot0066Chapter66EnergyVampire = {
   position: 66,
   ownLength: 3046,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3783266/chapter-66-energy-vampire",
-  externalId: "3783266",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3783266",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3783266/chapter-66-energy-vampire",
+    },
+  ],
   publishedAt: "2026-08-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

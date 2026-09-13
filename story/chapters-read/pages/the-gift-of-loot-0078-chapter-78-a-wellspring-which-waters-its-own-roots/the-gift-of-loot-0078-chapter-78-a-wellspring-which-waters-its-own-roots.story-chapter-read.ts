@@ -8,11 +8,15 @@ export const theGiftOfLoot0078Chapter78AWellspringWhichWatersItsOwnRoots = {
   position: 78,
   publishedAt: "2026-09-07",
   unit: "words",
-  externalId: "3926026",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3926026",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3926026/chapter-78-a-wellspring-which-waters-its-own-roots",
+    },
+  ],
   title: "Chapter 78: A Wellspring Which Waters Its Own Roots",
   ownLength: 3552,
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3926026/chapter-78-a-wellspring-which-waters-its-own-roots",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theLegendOfRandidlyGhosthound0014PauseWeek = {
   position: 14,
   ownLength: 263,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/788514/pause-week",
-  externalId: "788514",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "788514",
+      externalLink:
+        "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/788514/pause-week",
+    },
+  ],
   publishedAt: "2021-11-17",
   ownProgress: 263,
   completedAt: "2026-06-29T21:36:58.132Z",

@@ -9,10 +9,14 @@ export const theGiftOfLoot0061Chapter61ManaTalk = {
   position: 61,
   ownLength: 3820,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3733696/chapter-61-mana-talk",
-  externalId: "3733696",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3733696",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3733696/chapter-61-mana-talk",
+    },
+  ],
   publishedAt: "2026-07-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

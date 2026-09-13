@@ -9,10 +9,14 @@ export const theGiftOfLoot0026Chapter26TrainingMontage = {
   position: 26,
   ownLength: 3492,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3404089/chapter-26-training-montage",
-  externalId: "3404089",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3404089",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3404089/chapter-26-training-montage",
+    },
+  ],
   publishedAt: "2026-05-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

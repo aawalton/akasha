@@ -9,10 +9,14 @@ export const theGiftOfLoot0009Chapter9FirstStepToLevel2 = {
   position: 9,
   ownLength: 2172,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3252763/chapter-9-first-step-to-level-2",
-  externalId: "3252763",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3252763",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3252763/chapter-9-first-step-to-level-2",
+    },
+  ],
   publishedAt: "2026-04-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0161Chapter236GenocidalManiac = {
   position: 161,
   ownLength: 7412,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2762957/chapter-236-genocidal-maniac",
-  externalId: "2762957",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2762957",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2762957/chapter-236-genocidal-maniac",
+    },
+  ],
   publishedAt: "2025-11-15",
   ownProgress: 7412,
   completedAt: "2026-06-29T21:20:11.478Z",

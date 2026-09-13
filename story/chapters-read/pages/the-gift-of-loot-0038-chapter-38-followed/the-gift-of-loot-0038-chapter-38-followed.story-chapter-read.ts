@@ -9,10 +9,14 @@ export const theGiftOfLoot0038Chapter38Followed = {
   position: 38,
   ownLength: 3387,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3497576/chapter-38-followed",
-  externalId: "3497576",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3497576",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3497576/chapter-38-followed",
+    },
+  ],
   publishedAt: "2026-06-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

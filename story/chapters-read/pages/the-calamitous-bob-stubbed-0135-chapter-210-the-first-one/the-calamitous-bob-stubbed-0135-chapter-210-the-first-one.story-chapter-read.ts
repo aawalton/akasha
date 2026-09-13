@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0135Chapter210TheFirstOne = {
   position: 135,
   ownLength: 5199,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2353869/chapter-210-the-first-one",
-  externalId: "2353869",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2353869",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2353869/chapter-210-the-first-one",
+    },
+  ],
   publishedAt: "2025-06-13",
   ownProgress: 5199,
   completedAt: "2026-06-29T21:20:36.952Z",

@@ -9,10 +9,14 @@ export const theGiftOfLoot0070Chapter70CullSkill = {
   position: 70,
   ownLength: 2670,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3835360/chapter-70-cull-skill",
-  externalId: "3835360",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3835360",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3835360/chapter-70-cull-skill",
+    },
+  ],
   publishedAt: "2026-08-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0144Chapter219MercySPrerequisite = {
   position: 144,
   ownLength: 5281,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2576709/chapter-219-mercys-prerequisite",
-  externalId: "2576709",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2576709",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2576709/chapter-219-mercys-prerequisite",
+    },
+  ],
   publishedAt: "2025-09-05",
   ownProgress: 5281,
   completedAt: "2026-06-29T21:19:33.084Z",

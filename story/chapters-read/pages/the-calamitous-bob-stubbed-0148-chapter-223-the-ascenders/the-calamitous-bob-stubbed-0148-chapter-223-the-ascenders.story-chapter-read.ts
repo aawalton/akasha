@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0148Chapter223TheAscenders = {
   position: 148,
   ownLength: 5202,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2648783/chapter-223-the-ascenders",
-  externalId: "2648783",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2648783",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2648783/chapter-223-the-ascenders",
+    },
+  ],
   publishedAt: "2025-10-03",
   ownProgress: 5202,
   completedAt: "2026-06-29T21:19:41.582Z",

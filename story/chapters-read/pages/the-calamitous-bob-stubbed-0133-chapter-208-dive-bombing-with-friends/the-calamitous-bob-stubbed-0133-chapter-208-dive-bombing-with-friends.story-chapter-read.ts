@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0133Chapter208DiveBombingWithFriends = {
   position: 133,
   ownLength: 4570,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2317642/chapter-208-dive-bombing-with-friends",
-  externalId: "2317642",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2317642",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2317642/chapter-208-dive-bombing-with-friends",
+    },
+  ],
   publishedAt: "2025-05-30",
   ownProgress: 4570,
   completedAt: "2026-06-29T21:20:32.135Z",

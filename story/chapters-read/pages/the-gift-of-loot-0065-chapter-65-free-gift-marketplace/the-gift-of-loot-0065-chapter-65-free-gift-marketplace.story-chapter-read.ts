@@ -9,10 +9,14 @@ export const theGiftOfLoot0065Chapter65FreeGiftMarketplace = {
   position: 65,
   ownLength: 3391,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3774089/chapter-65-free-gift-marketplace",
-  externalId: "3774089",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3774089",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3774089/chapter-65-free-gift-marketplace",
+    },
+  ],
   publishedAt: "2026-08-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

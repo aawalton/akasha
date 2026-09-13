@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0121Chapter197TheLegendOfTheSneakyKark = {
   position: 121,
   ownLength: 3415,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2126111/chapter-197-the-legend-of-the-sneaky-kark",
-  externalId: "2126111",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2126111",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2126111/chapter-197-the-legend-of-the-sneaky-kark",
+    },
+  ],
   publishedAt: "2025-03-14",
   ownProgress: 3415,
   completedAt: "2026-06-29T21:18:58.159Z",

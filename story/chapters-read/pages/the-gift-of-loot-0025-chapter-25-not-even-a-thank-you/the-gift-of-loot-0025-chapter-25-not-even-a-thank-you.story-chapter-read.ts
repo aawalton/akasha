@@ -9,10 +9,14 @@ export const theGiftOfLoot0025Chapter25NotEvenAThankYou = {
   position: 25,
   ownLength: 2465,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3400677/chapter-25-not-even-a-thank-you",
-  externalId: "3400677",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3400677",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3400677/chapter-25-not-even-a-thank-you",
+    },
+  ],
   publishedAt: "2026-05-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theGiftOfLoot0057Chapter57Farming101 = {
   position: 57,
   ownLength: 3766,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3690283/chapter-57-farming-101",
-  externalId: "3690283",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3690283",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3690283/chapter-57-farming-101",
+    },
+  ],
   publishedAt: "2026-07-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

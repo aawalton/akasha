@@ -9,10 +9,14 @@ export const theGiftOfLoot0063Chapter63RegisterAct = {
   position: 63,
   ownLength: 2799,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3751931/chapter-63-register-act",
-  externalId: "3751931",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3751931",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3751931/chapter-63-register-act",
+    },
+  ],
   publishedAt: "2026-07-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

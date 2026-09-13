@@ -9,10 +9,14 @@ export const theGiftOfLoot0020Chapter20Burn = {
   position: 20,
   ownLength: 1510,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3383071/chapter-20-burn",
-  externalId: "3383071",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3383071",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3383071/chapter-20-burn",
+    },
+  ],
   publishedAt: "2026-05-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

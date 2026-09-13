@@ -9,10 +9,14 @@ export const theGiftOfLoot0041Chapter41AllTheSmallThings = {
   position: 41,
   ownLength: 2042,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3530318/chapter-41-all-the-small-things",
-  externalId: "3530318",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3530318",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3530318/chapter-41-all-the-small-things",
+    },
+  ],
   publishedAt: "2026-06-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

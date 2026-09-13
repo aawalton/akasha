@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0146Chapter221DiplomaticBbq = {
   position: 146,
   ownLength: 4558,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2612287/chapter-221-diplomatic-bbq",
-  externalId: "2612287",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2612287",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2612287/chapter-221-diplomatic-bbq",
+    },
+  ],
   publishedAt: "2025-09-19",
   ownProgress: 4558,
   completedAt: "2026-06-29T21:19:37.402Z",

@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0150Chapter225TheTricksterRun = {
   position: 150,
   ownLength: 5849,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2684111/chapter-225-the-trickster-run",
-  externalId: "2684111",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2684111",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2684111/chapter-225-the-trickster-run",
+    },
+  ],
   publishedAt: "2025-10-17",
   ownProgress: 5849,
   completedAt: "2026-06-29T21:19:46.782Z",

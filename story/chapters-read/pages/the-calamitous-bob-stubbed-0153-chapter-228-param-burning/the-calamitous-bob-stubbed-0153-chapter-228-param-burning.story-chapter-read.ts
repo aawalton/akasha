@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0153Chapter228ParamBurning = {
   position: 153,
   ownLength: 6665,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2739901/chapter-228-param-burning",
-  externalId: "2739901",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2739901",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2739901/chapter-228-param-burning",
+    },
+  ],
   publishedAt: "2025-11-07",
   ownProgress: 6665,
   completedAt: "2026-06-29T21:19:53.697Z",

@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0142Chapter217ETComesHomeOrElse = {
   position: 142,
   ownLength: 6903,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2465660/chapter-217-et-comes-home-or-else",
-  externalId: "2465660",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2465660",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2465660/chapter-217-et-comes-home-or-else",
+    },
+  ],
   publishedAt: "2025-07-25",
   ownProgress: 6903,
   completedAt: "2026-06-29T21:19:28.576Z",

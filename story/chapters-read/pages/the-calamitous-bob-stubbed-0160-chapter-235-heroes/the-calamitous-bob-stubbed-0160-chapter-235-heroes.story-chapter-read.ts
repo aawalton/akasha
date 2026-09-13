@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0160Chapter235Heroes = {
   position: 160,
   ownLength: 5460,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2759736/chapter-235-heroes",
-  externalId: "2759736",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2759736",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2759736/chapter-235-heroes",
+    },
+  ],
   publishedAt: "2025-11-14",
   ownProgress: 5460,
   completedAt: "2026-06-29T21:20:09.276Z",

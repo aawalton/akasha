@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0134Chapter209TheLongNight = {
   position: 134,
   ownLength: 6683,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2335623/chapter-209-the-long-night",
-  externalId: "2335623",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2335623",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2335623/chapter-209-the-long-night",
+    },
+  ],
   publishedAt: "2025-06-06",
   ownProgress: 6683,
   completedAt: "2026-06-29T21:20:34.609Z",

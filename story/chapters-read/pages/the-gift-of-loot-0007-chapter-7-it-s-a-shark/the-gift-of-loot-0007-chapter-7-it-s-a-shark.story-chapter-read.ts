@@ -9,10 +9,14 @@ export const theGiftOfLoot0007Chapter7ItSAShark = {
   position: 7,
   ownLength: 2058,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3244231/chapter-7-its-a-shark",
-  externalId: "3244231",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3244231",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3244231/chapter-7-its-a-shark",
+    },
+  ],
   publishedAt: "2026-04-07",
   prose: "txt",
 } as const satisfies StoryChapterRead
