@@ -5,7 +5,7 @@ export const nickelCreek2ADottedLine = {
   type: "release",
   slug: "nickel-creek-2-a-dotted-line",
   title: "A Dotted Line",
-  partOfCollections: ["nickel-creek-2"],
+  partOfCollections: ["nickel-creek"],
   position: 0,
   ownLength: 37.926633,
   ownProgress: 37.926633,

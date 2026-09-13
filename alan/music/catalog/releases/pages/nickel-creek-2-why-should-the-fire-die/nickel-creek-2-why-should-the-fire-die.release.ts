@@ -5,7 +5,7 @@ export const nickelCreek2WhyShouldTheFireDie = {
   type: "release",
   slug: "nickel-creek-2-why-should-the-fire-die",
   title: "Why Should The Fire Die?",
-  partOfCollections: ["nickel-creek-2"],
+  partOfCollections: ["nickel-creek"],
   position: 0,
   ownLength: 47.34125,
   ownProgress: 47.34125,

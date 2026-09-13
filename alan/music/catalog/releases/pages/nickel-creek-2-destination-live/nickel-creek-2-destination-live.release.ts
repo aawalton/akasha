@@ -5,7 +5,7 @@ export const nickelCreek2DestinationLive = {
   type: "release",
   slug: "nickel-creek-2-destination-live",
   title: "Destination (Live)",
-  partOfCollections: ["nickel-creek-2"],
+  partOfCollections: ["nickel-creek"],
   position: 0,
   ownLength: 9.34765,
   ownProgress: 9.34765,

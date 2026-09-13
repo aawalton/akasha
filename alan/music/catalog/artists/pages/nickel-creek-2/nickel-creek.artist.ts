@@ -1,9 +1,9 @@
 import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.types.ts"
 
-export const nickelCreek2 = {
+export const nickelCreek = {
   id: "01a06803-676c-7000-abea-c3af47f95595",
   type: "artist",
-  slug: "nickel-creek-2",
+  slug: "nickel-creek",
   title: "Nickel Creek",
   partOfCollections: ["artists"],
   position: 0,

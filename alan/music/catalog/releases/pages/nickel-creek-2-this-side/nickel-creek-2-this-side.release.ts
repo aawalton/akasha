@@ -5,7 +5,7 @@ export const nickelCreek2ThisSide = {
   type: "release",
   slug: "nickel-creek-2-this-side",
   title: "This Side",
-  partOfCollections: ["nickel-creek-2"],
+  partOfCollections: ["nickel-creek"],
   position: 0,
   ownLength: 50.0882,
   ownProgress: 50.0882,
