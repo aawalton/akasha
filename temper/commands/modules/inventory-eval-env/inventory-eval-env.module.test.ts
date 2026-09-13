@@ -3,6 +3,7 @@ import type { CharacterKnowledge } from "akasha/temper/commands/modules/inventor
 import { buildCliEvalEnv } from "akasha/temper/commands/modules/inventory-eval-env/inventory-eval-env.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
+import { TOTAL_SCRIPT_COUNT } from "akasha/temper/items-rules-core/modules/scribing-total-script-count/scribing-total-script-count.module.code.ts"
 
 const STYLED = 1
 
@@ -303,4 +304,9 @@ test("bank stock is answered unknown where no inventory capture was handed in", 
     wantedConsumables: {},
   })
   expect(env.getBankStock(64509)).toBe("unknown")
+})
+
+test("how many scripts there are comes from the table rather than reading unknown", () => {
+  expect(envOf(knowing({})).getTotalScriptCount()).toBe(TOTAL_SCRIPT_COUNT)
+  expect(TOTAL_SCRIPT_COUNT).toBeGreaterThan(0)
 })

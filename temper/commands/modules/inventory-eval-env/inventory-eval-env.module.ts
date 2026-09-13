@@ -77,5 +77,9 @@ export const inventoryEvalEnv = {
       statement:
         "A figure the capture holds is answered unknown only where no capture was handed in.",
     },
+    {
+      invariantKind: "departure",
+      statement: "How many scribing scripts there are comes from the table both readings share.",
+    },
   ],
 } as const satisfies Module

@@ -7,6 +7,7 @@ import { findCooldownGroup } from "akasha/temper/items-core/modules/cooldown-gro
 import { isCraftingRankBelowCap } from "akasha/temper/items-core/modules/crafting-passive-ranks/crafting-passive-ranks.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
+import { TOTAL_SCRIPT_COUNT } from "akasha/temper/items-rules-core/modules/scribing-total-script-count/scribing-total-script-count.module.code.ts"
 import type { ItemKey } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 import type { EvalEnv } from "akasha/temper/items-rules-eval/modules/eval-env/eval-env.module.code.ts"
 import { luaStringsOrEmpty } from "akasha/temper/saved-variables/modules/lua-array/lua-array.module.code.ts"
@@ -73,7 +74,7 @@ export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
       if (held === undefined) return new Set<number>()
       return held.unlockedScriptIds
     },
-    getTotalScriptCount: () => UNKNOWN,
+    getTotalScriptCount: () => TOTAL_SCRIPT_COUNT,
 
     isCraftingRankBelowCap: (charId, craftingType) => {
       const ranks = db?.craftingLevels?.[charId]
