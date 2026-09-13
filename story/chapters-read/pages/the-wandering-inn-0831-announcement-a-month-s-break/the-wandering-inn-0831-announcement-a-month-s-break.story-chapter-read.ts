@@ -10,6 +10,11 @@ export const theWanderingInn0831AnnouncementAMonthSBreak = {
   ownLength: 545,
   unit: "words",
   publishedAt: "2026-08-29",
-  externalLink: "https://wanderinginn.com/2026/08/29/announcement-a-months-break/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2026/08/29/announcement-a-months-break/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

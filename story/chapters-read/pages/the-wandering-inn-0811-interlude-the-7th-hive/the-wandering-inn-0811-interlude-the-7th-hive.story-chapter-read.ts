@@ -10,6 +10,11 @@ export const theWanderingInn0811InterludeThe7thHive = {
   ownLength: 7040,
   unit: "words",
   publishedAt: "2026-03-14",
-  externalLink: "https://wanderinginn.com/2026/03/14/interlude-the-7th-hive/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2026/03/14/interlude-the-7th-hive/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

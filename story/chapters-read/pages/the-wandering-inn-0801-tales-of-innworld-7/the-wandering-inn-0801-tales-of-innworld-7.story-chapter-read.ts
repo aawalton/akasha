@@ -10,6 +10,11 @@ export const theWanderingInn0801TalesOfInnworld7 = {
   ownLength: 0,
   unit: "words",
   publishedAt: "2025-12-07",
-  externalLink: "https://wanderinginn.com/2025/12/07/tales-of-innworld-7/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2025/12/07/tales-of-innworld-7/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

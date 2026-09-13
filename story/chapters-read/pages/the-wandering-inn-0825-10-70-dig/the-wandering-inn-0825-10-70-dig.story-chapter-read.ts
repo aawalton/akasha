@@ -10,6 +10,8 @@ export const theWanderingInn08251070Dig = {
   ownLength: 66376,
   unit: "words",
   publishedAt: "2026-07-12",
-  externalLink: "https://wanderinginn.com/2026/07/12/10-70-dig/",
+  externalIdentity: [
+    { source: "the-wandering-inn", externalLink: "https://wanderinginn.com/2026/07/12/10-70-dig/" },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

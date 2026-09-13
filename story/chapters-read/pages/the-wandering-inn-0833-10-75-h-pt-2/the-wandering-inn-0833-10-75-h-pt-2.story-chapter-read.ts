@@ -10,6 +10,11 @@ export const theWanderingInn08331075HPt2 = {
   unit: "words",
   title: "10.75 H (Pt. 2)",
   ownLength: 34230,
-  externalLink: "https://wanderinginn.com/2026/09/02/10-75-pt-2/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2026/09/02/10-75-pt-2/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

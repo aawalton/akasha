@@ -10,6 +10,8 @@ export const theWanderingInn08031053Ueg = {
   ownLength: 62412,
   unit: "words",
   publishedAt: "2025-12-21",
-  externalLink: "https://wanderinginn.com/2025/12/21/10-53-ueg/",
+  externalIdentity: [
+    { source: "the-wandering-inn", externalLink: "https://wanderinginn.com/2025/12/21/10-53-ueg/" },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

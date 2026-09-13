@@ -10,6 +10,11 @@ export const theWanderingInn0817InterludeLiska = {
   ownLength: 51808,
   unit: "words",
   publishedAt: "2026-05-09",
-  externalLink: "https://wanderinginn.com/2026/05/09/interlude-liska/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2026/05/09/interlude-liska/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

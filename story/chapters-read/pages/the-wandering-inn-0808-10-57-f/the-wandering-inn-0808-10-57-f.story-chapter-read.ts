@@ -10,6 +10,8 @@ export const theWanderingInn08081057F = {
   ownLength: 43859,
   unit: "words",
   publishedAt: "2026-02-21",
-  externalLink: "https://wanderinginn.com/2026/02/21/10-57-f/",
+  externalIdentity: [
+    { source: "the-wandering-inn", externalLink: "https://wanderinginn.com/2026/02/21/10-57-f/" },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
