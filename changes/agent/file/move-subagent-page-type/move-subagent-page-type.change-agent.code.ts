@@ -37,7 +37,9 @@ export async function moveSubagentPageType(
   const to = join(given.to, basename(given.at))
   const moved = await reach(swept.world, MOVE_FILE, { from: given.at, to })
   if (moved.said.refused !== null) return moved.said
-  return gathered([emptied.said, swept.said, moved.said])
+  const born = await reach(moved.world, REMOVE_FOLDER, { at: given.gone })
+  if (born.said.refused !== null) return born.said
+  return gathered([emptied.said, swept.said, moved.said, born.said])
 }
 
 export type Asked = Readonly<Record<string, string>>
