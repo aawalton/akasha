@@ -15,8 +15,12 @@ export const swordArtOnlineTheMovieOrdinalScale = {
   genres: ["Animation", "Action", "Adventure", "Fantasy", "Science Fiction"],
   posterPath: "/2szdEK0Mr0RG0nWGFVTseNQHbnP.jpg",
   voteAverage: 7.694,
-  source: "tmdb",
-  externalId: "413594",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "413594",
+      externalLink: "https://www.themoviedb.org/movie/413594",
+    },
+  ],
   imdbId: "tt5544384",
-  externalLink: "https://www.themoviedb.org/movie/413594",
 } as const satisfies Movie

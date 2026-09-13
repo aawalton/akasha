@@ -15,8 +15,12 @@ export const swordArtOnlineTheMovieProgressiveScherzoOfDeepNight = {
   genres: ["Animation", "Action", "Fantasy", "Science Fiction"],
   posterPath: "/a8B3bagkYRULdmnhgKMcxXaVcFm.jpg",
   voteAverage: 7.7,
-  source: "tmdb",
-  externalId: "893712",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "893712",
+      externalLink: "https://www.themoviedb.org/movie/893712",
+    },
+  ],
   imdbId: "tt15830702",
-  externalLink: "https://www.themoviedb.org/movie/893712",
 } as const satisfies Movie

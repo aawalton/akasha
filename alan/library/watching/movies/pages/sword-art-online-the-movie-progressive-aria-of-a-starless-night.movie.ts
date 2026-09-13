@@ -15,8 +15,12 @@ export const swordArtOnlineTheMovieProgressiveAriaOfAStarlessNight = {
   genres: ["Animation", "Action", "Fantasy", "Science Fiction"],
   posterPath: "/yD9RhgIVydQNBK7OLEbCWYcWMUd.jpg",
   voteAverage: 7.9,
-  source: "tmdb",
-  externalId: "761898",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "761898",
+      externalLink: "https://www.themoviedb.org/movie/761898",
+    },
+  ],
   imdbId: "tt13424422",
-  externalLink: "https://www.themoviedb.org/movie/761898",
 } as const satisfies Movie
