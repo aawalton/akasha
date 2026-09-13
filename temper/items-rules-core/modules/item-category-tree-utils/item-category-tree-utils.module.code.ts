@@ -69,14 +69,6 @@ export function getNodeChildren(
   return []
 }
 
-export function getCategoryAncestorIds(
-  nodeId: string,
-  categories: Record<string, ItemCategoryNode>
-): Set<string> {
-  if (nodeId === ALL_CATEGORIES_ID) return new Set([ALL_CATEGORIES_ID])
-  return new Set(getNodePath(nodeId, categories).map((n) => n.id))
-}
-
 export function getCategoryDescendantIds(
   nodeId: string,
   categories: Record<string, ItemCategoryNode>

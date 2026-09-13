@@ -9,10 +9,6 @@ export const itemCategoryTreeUtils = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A node's ancestors are the nodes above the node on the path to the root.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A node absent from the tree has no path.",
     },
   ],

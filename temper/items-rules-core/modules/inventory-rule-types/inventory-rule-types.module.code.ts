@@ -183,11 +183,3 @@ export interface InventoryRuleSettings {
   itemRules?: readonly ItemRule[]
   buyRules?: readonly BuyRule[]
 }
-
-export const IMPLICIT_TERMINAL_CATEGORY_RULE: Readonly<CategoryRule> = {
-  id: IMPLICIT_TERMINAL_RULE_ID,
-  categoryId: ALL_CATEGORIES_ID,
-  action: "nothing",
-  active: true,
-  locked: true,
-}
