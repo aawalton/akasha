@@ -325,6 +325,23 @@ export const landing = {
       statement: "A path taken away that is a folder is taken away as a folder.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A subagent's page taken away leaves the edits kept beside it on that subagent's seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Those edits move before the uncommitted files beside that page are swept.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing refused after that move leaves what moved reachable from the seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change kept beside a page to draft onto moves nothing off any page.",
+    },
+    {
       invariantKind: "absence",
       statement: "A refusal answered here carries no saying of its own.",
     },

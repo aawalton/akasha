@@ -11,17 +11,30 @@ import {
   linesIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { exclusively } from "akasha/files/modules/exclusive/exclusive.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import {
   partedIn,
   uncommittedBesideAt,
 } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import {
+  textAt as statedIn,
+  type Value,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const EDITS_HELD = "jsonl"
 
 const REFUSALS_HELD = "txt"
 
 const PARTED = "\n\n"
+
+const SEAT = "seat"
+
+const SUBAGENT = "subagent"
+
+const PAGE_TYPE = "type"
+
+const PRINCIPAL = "principalSeatName"
 
 export type Moved = {
   readonly edits: number
@@ -85,6 +98,15 @@ export function movedOnto(root: string, seatPage: string, subagentPage: string):
     refusalsKept(root, subagentPage, [])
   }
   return { edits: lines.length, refusals: refused !== null }
+}
+
+export function carriedOff(root: string, at: string, value: Value): Moved | null {
+  if (statedIn(value, PAGE_TYPE) !== SUBAGENT) return null
+  const seatName = statedIn(value, PRINCIPAL)
+  if (seatName === null) return null
+  const seatPage = listedAt(root, SEAT, seatName)[0]?.path
+  if (seatPage === undefined) return null
+  return movedOnto(root, seatPage, at)
 }
 
 export function saidOf(named: string, moved: Moved): readonly string[] {

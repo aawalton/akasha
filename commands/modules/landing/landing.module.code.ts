@@ -2,12 +2,16 @@ import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { dirname, join } from "node:path"
 import type { Reading as AsRead } from "akasha/agents/modules/read-record/read-record.module.code.ts"
+import { carriedOff } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
 import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { textIn, textOf } from "akasha/code/bodies/modules/body-text/body-text.module.code.ts"
 import { DATA, INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { sweptOff } from "akasha/commands/modules/beside-sweeping/beside-sweeping.module.code.ts"
+import {
+  sweptOff,
+  takenIn,
+} from "akasha/commands/modules/beside-sweeping/beside-sweeping.module.code.ts"
 import {
   commitNamed,
   unfresh,
@@ -69,6 +73,7 @@ import {
 import { committed, whileIndexFrees } from "akasha/git/modules/committing/committing.module.code.ts"
 import { holding } from "akasha/git/modules/holding/holding.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
+import { valueByPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { underIndex } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { partUnfiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
@@ -224,6 +229,16 @@ function indexed(
   return held.settle()
 }
 
+function carryingOff(root: string, changes: readonly FileChange[]): undefined {
+  for (const at of takenIn(changes)) {
+    try {
+      const value = valueByPath(root, at)
+      if (value !== null) carriedOff(root, at, value)
+    } catch {}
+  }
+  return undefined
+}
+
 export function landing(
   root: string,
   changes: readonly FileChange[],
@@ -292,6 +307,7 @@ export async function landing(
     return draftedBy(root, drafting.page, changes, named, asRead)
   }
   const judgedAt = baseOf(root)
+  carryingOff(root, changes)
   const swept = sweptOff(root, changes)
   const carried = swept.length === 0 ? changes : [...changes, ...swept]
   const { edits, moves } = splitIn(root, carried)

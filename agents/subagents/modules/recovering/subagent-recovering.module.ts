@@ -66,6 +66,18 @@ export const subagentRecovering = {
         "The paths written are the ones the seat page type names rather than spelled here.",
     },
     {
+      invariantKind: "departure",
+      statement: "A page taken away that is no subagent moves nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The seat a subagent's edits move onto is the seat that subagent's page names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent whose seat the index files no page for moves nothing.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here takes a page away.",
     },

@@ -6,6 +6,7 @@ import {
   refusalsKept,
 } from "akasha/agents/modules/refusals-keeping/refusals-keeping.module.code.ts"
 import {
+  carriedOff,
   movedOnto,
   namedAt,
   refusalsSaid,
@@ -127,6 +128,22 @@ test("the seat keeps each kind beside its own page under the name its property s
   expect(seatRefusalsAt(SEAT)).toBe(
     "agents/seats/pages/tester/tester.seat.subagent-refusals.uncommitted.txt"
   )
+})
+
+test("a page taken away that is no subagent moves nothing", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  appendEdits(root, UNDER, [ROW])
+
+  expect(carriedOff(root, UNDER, { type: "module", slug: "tester-abc" })).toBe(null)
+  expect(linesIn(root, UNDER)).toEqual([JSON.stringify(ROW)])
+})
+
+test("a subagent page naming no seat moves nothing", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  appendEdits(root, UNDER, [ROW])
+
+  expect(carriedOff(root, UNDER, { type: "subagent", slug: "tester-abc" })).toBe(null)
+  expect(linesIn(root, UNDER)).toEqual([JSON.stringify(ROW)])
 })
 
 test("a path that is no page keeps nothing", () => {
