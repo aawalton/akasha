@@ -8,7 +8,6 @@ export const temper = {
   parts: [
     "domain/temper-addon-build",
     "domain/temper-addon-color",
-    "domain/temper-addon-data",
     "domain/temper-addon-generators",
     "domain/temper-addon-init",
     "domain/temper-addon-library-types",
