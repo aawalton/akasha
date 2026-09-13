@@ -66,5 +66,10 @@ export const directiveKept = {
       statement:
         "Carving out one clean turn this refuses leaves a different clean turn refused instead.",
     },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A case the key calls clean sizes unfinished work twice, so no wording here reaches zero.",
+    },
   ],
 } as const satisfies ModelTest
