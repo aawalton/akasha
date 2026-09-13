@@ -14,12 +14,13 @@ export const testingSystem = {
     "module/dom-guarding",
     "module/dom-registering",
     "module/minting",
-    "module/page-holding",
+
     "module/putting",
 
     "module/waiting",
     "module/walking",
     "page-type/test-fixture",
+    "test-fixture/page-holding",
     "test-fixture/repo-seeding",
   ],
   invariants: [
