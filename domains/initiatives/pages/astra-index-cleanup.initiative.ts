@@ -8,11 +8,6 @@ export const astraIndexCleanup = {
   persona: "astra",
   intents: [
     {
-      statement: "Git tracks the identity index and the relation index.",
-      workingMemory:
-        "A change queues its identity and relation entries among its file changes and the landing lock applies them like any other, which `11673dbbb` and `3d38574db` both show carrying their own rows. `.gitignore` names the six untracked trees rather than `.indexes/`, and the two tracked ones say `tracked: true`. What is left is `git add .indexes/identity .indexes/relation`, which is Alan's: `block-git-writes` refuses it, and an apply would pay one `hash-object` per body across 251,445 files.\n",
-    },
-    {
       statement: "A change lands the index entries its own file changes imply, and no others.",
       workingMemory:
         "`index-answers-are-level-with-the-change` landed at `3d38574db` and judges at no phase, so the rule is stated and binds nobody until Alan turns it on. It reads both ways off `shadow.filed()` against `change.carried`, so nothing is built again. The hazard it does not reach is the one relation carries: a change to a page type turns answers for every page of that type, far outside the files that change has, and those are left out.\n",
