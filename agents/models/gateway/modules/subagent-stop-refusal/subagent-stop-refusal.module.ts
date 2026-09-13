@@ -53,6 +53,18 @@ export const subagentStopRefusal = {
       statement: "A response is sent as json.",
     },
     {
+      invariantKind: "departure",
+      statement: "A refused turn asks for that subagent's page to be taken away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A turn nobody stopped asks for no page to be taken away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A held set naming no take-down refuses the turn all the same.",
+    },
+    {
       invariantKind: "constraint",
       statement: "A seat's own turns carry no such header, so a seat is never refused here.",
     },

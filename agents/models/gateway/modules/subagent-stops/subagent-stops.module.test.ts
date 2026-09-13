@@ -116,3 +116,58 @@ test("a stop written after the start is held once the change settles", async () 
     rmSync(root, { recursive: true, force: true })
   }
 })
+
+test("a stopped subagent stays held after its page goes", () => {
+  const root = rootWith(`${SEAT}--${OWN}`)
+  mergeUncommitted(root, PAGE, { stopped: true })
+  let pages: readonly string[] = [PAGE]
+  const stops = followingStops(
+    root,
+    SEAT,
+    () => pages,
+    SETTLE_MS,
+    () => undefined
+  )
+  try {
+    expect(stops.has(OWN)).toBe(true)
+    pages = []
+    rmSync(join(root, PAGE), { force: true })
+    const fresh = followingStops(
+      root,
+      SEAT,
+      () => pages,
+      SETTLE_MS,
+      () => undefined
+    )
+    expect(fresh.has(OWN)).toBe(false)
+    expect(stops.has(OWN)).toBe(true)
+    fresh.stop()
+  } finally {
+    stops.stop()
+    rmSync(root, { recursive: true, force: true })
+  }
+})
+
+test("a seat no name is read for asks for no page", () => {
+  const root = rootWith(`${SEAT}--${OWN}`)
+  const asked: string[] = []
+  mergeUncommitted(root, PAGE, { stopped: true })
+  const stops = followingStops(
+    root,
+    SEAT,
+    () => [PAGE],
+    SETTLE_MS,
+    (_root, _name, _seat, own) => {
+      asked.push(own)
+      return undefined
+    }
+  )
+  try {
+    stops.taken?.(OWN)
+    stops.taken?.(OWN)
+    expect(asked).toEqual([])
+  } finally {
+    stops.stop()
+    rmSync(root, { recursive: true, force: true })
+  }
+})

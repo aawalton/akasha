@@ -20,6 +20,7 @@ import {
 } from "akasha/agents/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
 import { movedOnto } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
 import { subagentStarted } from "akasha/agents/subagents/properties/subagent-started.number-property.ts"
+import { subagentStopped } from "akasha/agents/subagents/properties/subagent-stopped.boolean-property.ts"
 import { editsWaiting } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
   type Asking,
@@ -63,6 +64,8 @@ const ADD_PAGE = "change-mechanical/add-file-of-any-kind"
 const TAKE_PAGE = "change-mechanical-file/remove-file-page"
 
 const STARTED = subagentStarted.propertySlug
+
+const STOPPED = subagentStopped.propertySlug
 
 export type Landing = (
   done: string[],
@@ -164,6 +167,10 @@ export function startedIn(root: string, page: string, startedAt: number | null):
   mergeUncommitted(root, page, { [STARTED]: startedAt })
 }
 
+export function stoppedBeside(root: string, page: string): boolean {
+  return uncommittedIn(root, page)?.[STOPPED] === true
+}
+
 function startedAfter(root: string, page: string, stoppedAt: number | null): boolean {
   if (stoppedAt === null) return false
   const held = asNumber(uncommittedIn(root, page)?.[STARTED])
@@ -200,12 +207,16 @@ export async function took(
   const at = pathIn(root, slug)
   if (!existsSync(join(root, at))) return WENT
   if (startedAfter(root, at, stoppedAt)) return WENT
-  const read = await reading(root, at, own)
-  if (read.liveness === "working") return WENT
-  if (read.liveness !== "returned") return { why: `${at} is left where it is — ${read.why}` }
+  const stopped = stoppedBeside(root, at)
+  if (!stopped) {
+    const read = await reading(root, at, own)
+    if (read.liveness === "working") return WENT
+    if (read.liveness !== "returned") return { why: `${at} is left where it is — ${read.why}` }
+  }
   const moved = movingOff(root, seatName, at)
   if ("why" in moved) return moved
-  const why = `${slug} is done, so its page goes; what it was is in this repository's history`
+  const said = stopped ? "was stopped from the agents panel" : "is done"
+  const why = `${slug} ${said}, so its page goes; what it was is in this repository's history`
   return wentBy(await landing(done, root, [{ at: TAKE_PAGE, given: { at } }], why), done)
 }
 

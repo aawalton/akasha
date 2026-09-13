@@ -48,6 +48,10 @@ export const agentSubagentStop = {
       invariantKind: "absence",
       statement: "Nothing here takes the subagent's page away.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The page goes as the gateway refuses the turn that stop ends the subagent on.",
+    },
   ],
   name: "subagent-stop",
   arguments: [{ argument: "argument/subagent", required: true, saidAs: "word" }],

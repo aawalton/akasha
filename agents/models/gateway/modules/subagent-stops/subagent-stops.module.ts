@@ -51,6 +51,34 @@ export const subagentStops = {
     },
     {
       invariantKind: "departure",
+      statement: "A subagent once held stays held for the life of this gateway.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent whose page has gone stays held, so a stop outlives its page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refused turn asks the take-down for that subagent's page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page of one subagent is asked for once however many turns are refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat no name is read for asks for no page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An index that will not answer leaves the turn refused and asks for no page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The take-down is handed in so a test spawns nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Stopping the following closes every watcher.",
     },
     {

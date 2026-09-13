@@ -8,6 +8,7 @@ const STOPPED_ERROR_TYPE = "invalid_request_error"
 
 export type HeldSubagents = {
   readonly has: (own: string) => boolean
+  readonly taken?: (own: string) => undefined
 }
 
 export const NONE_HELD: HeldSubagents = { has: () => false }
@@ -46,5 +47,7 @@ export function stoppedResponse(own: string): Response {
 export function refusalFor(req: Request, held: HeldSubagents): Response | null {
   const own = subagentIn(req)
   if (own === null) return null
-  return held.has(own) ? stoppedResponse(own) : null
+  if (!held.has(own)) return null
+  held.taken?.(own)
+  return stoppedResponse(own)
 }

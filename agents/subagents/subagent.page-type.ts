@@ -197,6 +197,18 @@ export const subagent = {
       invariantKind: "departure",
       statement: "A stop reaches a subagent at its next model turn rather than at once.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A subagent stopped from the agents panel has its page taken away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page goes as the refused turn ends the subagent rather than before.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop outlives the page that stop was written beside.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType

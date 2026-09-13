@@ -1,6 +1,10 @@
 import { join } from "node:path"
 import type { HeldSubagents } from "akasha/agents/models/gateway/modules/subagent-stop-refusal/subagent-stop-refusal.module.code.ts"
 import { SUBAGENT_MARK } from "akasha/agents/modules/read-record/read-record.module.code.ts"
+import {
+  seatNamedIn,
+  takingDown,
+} from "akasha/agents/subagents/modules/presence/subagent-presence.module.code.ts"
 import { subagentStopped } from "akasha/agents/subagents/properties/subagent-stopped.boolean-property.ts"
 import {
   dirsOf,
@@ -27,6 +31,8 @@ const SETTLE_MS = 100
 export type StoppedSubagents = HeldSubagents & { readonly stop: () => undefined }
 
 export type PagesOf = (root: string) => readonly string[]
+
+export type Taking = (root: string, seatName: string, seatId: string, own: string) => undefined
 
 export function subagentPagesIn(root: string): readonly string[] {
   return everyOfType(root, SUBAGENT).map((one) => one.path)
@@ -56,6 +62,14 @@ export function stoppedOwnIdsIn(
   return held
 }
 
+export function seatNameOr(root: string, seatId: string): string | null {
+  try {
+    return seatNamedIn(root, seatId)
+  } catch {
+    return null
+  }
+}
+
 export function foldersOf(root: string, pages: readonly string[]): ReadonlySet<string> {
   const folders = new Set<string>([join(root, indexNamed(), indexValue.name)])
   for (const one of dirsOf(pages.map((page) => join(root, page)))) folders.add(one)
@@ -66,13 +80,17 @@ export function followingStops(
   root: string,
   seatId: string,
   pagesOf: PagesOf = subagentPagesIn,
-  settleMs: number = SETTLE_MS
+  settleMs: number = SETTLE_MS,
+  taking: Taking = takingDown
 ): StoppedSubagents {
   let held: ReadonlySet<string> = new Set()
   let following: Following | null = null
   let watched = ""
+  const ever = new Set<string>()
+  const asked = new Set<string>()
   const reread = (): undefined => {
     held = stoppedOwnIdsIn(root, seatId, pagesOf(root))
+    for (const own of held) ever.add(own)
   }
   const refollow = (): undefined => {
     const folders = foldersOf(root, pagesOf(root))
@@ -92,7 +110,15 @@ export function followingStops(
   reread()
   refollow()
   return {
-    has: (own) => held.has(own),
+    has: (own) => held.has(own) || ever.has(own),
+    taken: (own) => {
+      if (asked.has(own)) return undefined
+      const seatName = seatNameOr(root, seatId)
+      if (seatName === null) return undefined
+      asked.add(own)
+      taking(root, seatName, seatId, own)
+      return undefined
+    },
     stop: () => {
       following?.stop()
       following = null

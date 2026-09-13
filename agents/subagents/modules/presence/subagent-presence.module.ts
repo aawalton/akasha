@@ -192,6 +192,14 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
+      statement: "A page a stop is written beside goes without the transcript being read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The commit says a page went because the subagent was stopped from the panel.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A seat stating no transcript leaves the page where it is.",
     },
     {

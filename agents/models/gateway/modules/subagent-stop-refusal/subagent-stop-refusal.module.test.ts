@@ -74,3 +74,36 @@ test("a refusal says every later turn of that subagent is refused too", () => {
 test("a response body is the body built for the same subagent", async () => {
   expect(await stoppedResponse(OWN).json()).toEqual(stoppedBody(OWN))
 })
+
+function recording(has: (own: string) => boolean): {
+  readonly held: { has: (own: string) => boolean; taken: (own: string) => undefined }
+  readonly asked: readonly string[]
+} {
+  const asked: string[] = []
+  return {
+    held: {
+      has,
+      taken: (own): undefined => {
+        asked.push(own)
+        return undefined
+      },
+    },
+    asked,
+  }
+}
+
+test("a refused turn asks for that subagent's page to be taken", () => {
+  const held = recording((own) => own === OWN)
+  refusalFor(posted({ [SUBAGENT_HEADER]: OWN }), held.held)
+  expect(held.asked).toEqual([OWN])
+})
+
+test("a turn nobody stopped asks for no page to be taken", () => {
+  const held = recording(() => false)
+  refusalFor(posted({ [SUBAGENT_HEADER]: OWN }), held.held)
+  expect(held.asked).toEqual([])
+})
+
+test("a held set naming no take-down refuses the turn all the same", () => {
+  expect(refusalFor(posted({ [SUBAGENT_HEADER]: OWN }), ONLY_OWN)?.status).toBe(400)
+})

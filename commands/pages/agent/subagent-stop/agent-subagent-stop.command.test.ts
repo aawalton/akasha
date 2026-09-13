@@ -2,11 +2,9 @@ import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { pathIn } from "akasha/agents/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
+import { stoppedBeside } from "akasha/agents/subagents/modules/presence/subagent-presence.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import {
-  agentSubagentStop,
-  stoppedAlready,
-} from "akasha/commands/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts"
+import { agentSubagentStop } from "akasha/commands/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts"
 import { uncommittedIn } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { SCRATCH_AT } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
@@ -50,7 +48,7 @@ test("a stop is written beside the subagent's page", () => {
     expect(said.report[0]).toContain("is stopped")
     expect(said.report[0]).toContain("next model turn")
     expect(uncommittedIn(root, pathIn(root, NAME))?.stopped).toBe(true)
-    expect(stoppedAlready(root, pathIn(root, NAME))).toBe(true)
+    expect(stoppedBeside(root, pathIn(root, NAME))).toBe(true)
   } finally {
     rmSync(root, { recursive: true, force: true })
   }
@@ -71,7 +69,7 @@ test("a subagent stopped already is left as it is, and the run says so", () => {
 test("a page nobody stopped is not stopped already", () => {
   const root = rootWithPage()
   try {
-    expect(stoppedAlready(root, pathIn(root, NAME))).toBe(false)
+    expect(stoppedBeside(root, pathIn(root, NAME))).toBe(false)
   } finally {
     rmSync(root, { recursive: true, force: true })
   }
