@@ -11,6 +11,7 @@ export const agent = {
   parts: [
     "file-property/audit-refusals",
     "file-property/edits",
+    "file-property/reads",
     "file-property/refusals",
     "one-of-property/assignment-slug",
     "relation-property/principal-seat-name",
@@ -43,6 +44,13 @@ export const agent = {
       many: false,
       uncommitted: true,
       default: "txt",
+    },
+    {
+      pageProperty: "file-property/reads",
+      required: false,
+      many: false,
+      uncommitted: true,
+      default: "jsonl",
     },
   ],
   invariants: [
