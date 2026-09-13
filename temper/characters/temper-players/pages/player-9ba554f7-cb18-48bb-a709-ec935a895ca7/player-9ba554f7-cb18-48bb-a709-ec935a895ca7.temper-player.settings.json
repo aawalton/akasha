@@ -1188,31 +1188,38 @@
     "buyRules": [
       {
         "id": "0e353660-3bf3-427e-85e4-79c825c695a7",
-        "active": true,
         "itemId": 30357,
-        "source": "merchant",
         "itemName": "Lockpick",
-        "updatedAt": 1780316148618,
-        "targetQuantity": 4000
+        "targetQuantity": 4000,
+        "source": "merchant",
+        "active": true,
+        "updatedAt": 1780316148618
       }
     ],
     "itemRules": [
       {
+        "id": "1fabea21-87f9-412c-b390-443802c845c1",
+        "itemId": 999000111,
+        "itemName": "Landing Two Round Trip Probe",
+        "action": "nothing",
+        "updatedAt": 1789315567118
+      },
+      {
         "id": "32c22942-9127-47a9-9754-f877b356132b",
-        "action": "stock",
-        "active": true,
         "itemId": 87697,
         "itemName": "Witchmother's Potent Brew",
+        "action": "stock",
+        "active": true,
         "updatedAt": 1783274045504,
         "destination": "character:by-priority",
         "stockQuantity": 100
       },
       {
         "id": "9aea8293-0e8d-4c8b-a95a-eea8fcfe36bb",
-        "action": "stock",
-        "active": true,
         "itemId": 120763,
         "itemName": "Dubious Camoran Throne",
+        "action": "stock",
+        "active": true,
         "updatedAt": 1783274039791,
         "destination": "character:by-priority",
         "stockQuantity": 100
