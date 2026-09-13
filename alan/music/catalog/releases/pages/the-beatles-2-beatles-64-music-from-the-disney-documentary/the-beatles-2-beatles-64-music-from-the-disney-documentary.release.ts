@@ -5,7 +5,7 @@ export const theBeatles2Beatles64MusicFromTheDisneyDocumentary = {
   type: "release",
   slug: "the-beatles-2-beatles-64-music-from-the-disney-documentary",
   title: "Beatles '64 (Music from the Disney+ Documentary)",
-  partOfCollections: ["the-beatles-2"],
+  partOfCollections: ["the-beatles"],
   position: 0,
   ownLength: 50.3904,
   ownProgress: 50.3904,

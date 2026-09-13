@@ -5,7 +5,7 @@ export const theBeatles2MagicalMysteryTourRemastered = {
   type: "release",
   slug: "the-beatles-2-magical-mystery-tour-remastered",
   title: "Magical Mystery Tour (Remastered)",
-  partOfCollections: ["the-beatles-2"],
+  partOfCollections: ["the-beatles"],
   position: 0,
   ownLength: 36.547033,
   ownProgress: 36.547033,

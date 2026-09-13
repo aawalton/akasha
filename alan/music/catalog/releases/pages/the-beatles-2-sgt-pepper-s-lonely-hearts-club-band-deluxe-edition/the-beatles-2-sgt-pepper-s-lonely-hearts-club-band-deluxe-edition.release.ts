@@ -5,7 +5,7 @@ export const theBeatles2SgtPepperSLonelyHeartsClubBandDeluxeEdition = {
   type: "release",
   slug: "the-beatles-2-sgt-pepper-s-lonely-hearts-club-band-deluxe-edition",
   title: "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
-  partOfCollections: ["the-beatles-2"],
+  partOfCollections: ["the-beatles"],
   position: 0,
   ownLength: 100.151217,
   ownProgress: 100.151217,

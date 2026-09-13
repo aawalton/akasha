@@ -5,7 +5,7 @@ export const theBeatles2LetItBeRemastered = {
   type: "release",
   slug: "the-beatles-2-let-it-be-remastered",
   title: "Let It Be (Remastered)",
-  partOfCollections: ["the-beatles-2"],
+  partOfCollections: ["the-beatles"],
   position: 0,
   ownLength: 35.172817,
   ownProgress: 35.172817,

@@ -5,7 +5,7 @@ export const theBeatles2TheBeatles = {
   type: "release",
   slug: "the-beatles-2-the-beatles",
   title: "The Beatles",
-  partOfCollections: ["the-beatles-2"],
+  partOfCollections: ["the-beatles"],
   position: 0,
   ownLength: 327.317133,
   ownProgress: 327.317133,

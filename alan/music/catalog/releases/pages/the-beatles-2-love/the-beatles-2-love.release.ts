@@ -5,7 +5,7 @@ export const theBeatles2Love = {
   type: "release",
   slug: "the-beatles-2-love",
   title: "Love",
-  partOfCollections: ["the-beatles-2"],
+  partOfCollections: ["the-beatles"],
   position: 0,
   ownLength: 86.901183,
   ownProgress: 86.901183,

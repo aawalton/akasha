@@ -1,9 +1,9 @@
 import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.types.ts"
 
-export const theBeatles2 = {
+export const theBeatles = {
   id: "01a06803-676c-700c-9dae-14c7db84f5b7",
   type: "artist",
-  slug: "the-beatles-2",
+  slug: "the-beatles",
   title: "The Beatles",
   partOfCollections: ["artists"],
   position: 0,

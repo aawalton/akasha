@@ -5,7 +5,7 @@ export const theBeatles2TheBeatles19671970Remastered = {
   type: "release",
   slug: "the-beatles-2-the-beatles-1967-1970-remastered",
   title: "The Beatles 1967 - 1970 (Remastered)",
-  partOfCollections: ["the-beatles-2"],
+  partOfCollections: ["the-beatles"],
   position: 0,
   ownLength: 99.9107,
   ownProgress: 99.9107,
