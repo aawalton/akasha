@@ -7,7 +7,7 @@ export const seatConditionsCurrent = {
   model: "opus",
   subagentModel: "none",
   fallbackModel: "fable",
-  autoCompactWindow: 400000,
+  autoCompactWindow: 1000000,
   effortLevel: "none",
   subagentSpawnDepth: 5,
   toolTimeout: 600000,
