@@ -1,11 +1,6 @@
-import { runChange as changeFileContent } from "akasha/changes/mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
-import { refusing, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import {
-  NOTHING_OVER,
-  type Reaching,
-  type World,
-} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { ledgerAt, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 
 export const FROM = "akasha/one/one.held.ts"
 
@@ -239,26 +234,12 @@ export function changeOf(one: string): string {
 }
 `
 
-type Passage = { at: string; old: string; new: string }
-
-type Adding = { at: string; body: string }
-
-const RUNS: Reaching = (world, at, given) => {
-  if (at === "change-mechanical-file-content/change-file-content") {
-    return Promise.resolve(changeFileContent(world, given as Passage))
-  }
-  if (at === "change-mechanical/add-file-code") {
-    const asked = given as Adding
-    return Promise.resolve(stating([{ kind: "add", path: asked.at, content: asked.body }]))
-  }
-  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
-}
-
 function indexOf(importers: readonly string[]): World["index"] {
   return {
     importersOf: () => importers,
     fileKeysAt: () => new Map(),
     manifestsBeside: () => [NAMED_AT, ROOT_AT],
+    entryShapesAt: () => new Set<string>(),
   } as never
 }
 
@@ -266,16 +247,11 @@ export function worldOf(
   held: Readonly<Record<string, string>>,
   importers: readonly string[] = []
 ): World {
-  return {
-    root: "/nowhere",
-    index: indexOf(importers),
-    textOf: (path) => held[path] ?? null,
-    bodyOf: (path) => held[path] ?? null,
-    under: () => [],
-    base: (path) => held[path] ?? null,
-    over: NOTHING_OVER,
-    reaching: RUNS,
-  }
+  const ledger = ledgerAt("/nowhere", (path) => held[path] ?? null, running)
+  return Object.defineProperty(ledger, "index", {
+    value: indexOf(importers),
+    enumerable: true,
+  })
 }
 
 export function addedAt(said: Answer, path: string): string {
