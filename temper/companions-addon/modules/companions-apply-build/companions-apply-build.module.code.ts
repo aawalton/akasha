@@ -13,7 +13,6 @@ import {
   type CompanionBuildData,
   JEWELRY_SLOTS,
   SKILL_SLOT_INDICES,
-  WEAPON_SLOTS,
 } from "akasha/temper/companions-addon/modules/companions-codec/companions-codec.module.code.ts"
 import { decodeCompanionBuild } from "akasha/temper/companions-addon/modules/companions-decoder/companions-decoder.module.code.ts"
 import {
@@ -70,70 +69,6 @@ export function applyBuild(companionId: number, hash: string): undefined {
     d("[Temper] Target build applied")
     TemperCharacters.TabManager.RefreshActivePanel()
   }, 500)
-}
-
-export function clearCompanionBuild(): undefined {
-  if (!HasActiveCompanion()) return
-  if (IsUnitInCombat("player")) {
-    d("[Temper] Cannot clear build while in combat")
-    return
-  }
-
-  const gen = ++APPLY_GENERATION
-
-  const slotsToUnequip: number[] = []
-  for (const slot of ARMOR_SLOTS) {
-    if (GetItemLink(BAG_COMPANION_WORN, slot, LINK_STYLE_DEFAULT) !== "") {
-      slotsToUnequip.push(slot)
-    }
-  }
-  for (const slot of JEWELRY_SLOTS) {
-    if (GetItemLink(BAG_COMPANION_WORN, slot, LINK_STYLE_DEFAULT) !== "") {
-      slotsToUnequip.push(slot)
-    }
-  }
-  for (const slot of WEAPON_SLOTS) {
-    if (GetItemLink(BAG_COMPANION_WORN, slot, LINK_STYLE_DEFAULT) !== "") {
-      slotsToUnequip.push(slot)
-    }
-  }
-
-  const frameDelay = 200
-  for (let i = 0; i < slotsToUnequip.length; i++) {
-    const slot = slotsToUnequip[i]
-    if (i === 0) {
-      RequestUnequipItem(BAG_COMPANION_WORN, slot)
-    } else {
-      zo_callLater(() => {
-        if (gen !== APPLY_GENERATION) return
-        RequestUnequipItem(BAG_COMPANION_WORN, slot)
-      }, i * frameDelay)
-    }
-  }
-
-  const skillDelay = slotsToUnequip.length * frameDelay + 100
-  zo_callLater(() => {
-    if (gen !== APPLY_GENERATION) return
-    PrepareSkillPointAllocationRequest(
-      SKILL_POINT_ALLOCATION_MODE_PURCHASE_ONLY,
-      RESPEC_PAYMENT_TYPE_GOLD
-    )
-    for (const slotIndex of SKILL_SLOT_INDICES) {
-      AddHotbarSlotChangeToAllocationRequest(
-        slotIndex,
-        HOTBAR_CATEGORY_COMPANION,
-        ACTION_TYPE_NOTHING,
-        0
-      )
-    }
-    SendSkillPointAllocationRequest()
-    d("[Temper] Build cleared")
-  }, skillDelay)
-
-  zo_callLater(() => {
-    if (gen !== APPLY_GENERATION) return
-    TemperCharacters.TabManager.RefreshActivePanel()
-  }, skillDelay + 500)
 }
 
 export function applySkills(build: CompanionBuildData): undefined {

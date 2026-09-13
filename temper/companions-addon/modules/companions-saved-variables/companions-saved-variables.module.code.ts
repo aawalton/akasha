@@ -122,10 +122,6 @@ export function getSavedVariables(): SavedVariablesData {
   return requireSavedVariables(savedVarsInstance)
 }
 
-export function setSavedVarsInstanceForTesting(value: SavedVariablesData | undefined): undefined {
-  savedVarsInstance = value
-}
-
 export function ensureCompanionEntry(companionId: number): SavedCompanionEntry {
   const savedVars = getSavedVariables()
   let entry = savedVars.companions[companionId]

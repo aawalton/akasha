@@ -4,7 +4,7 @@ export const companionsConstants = {
   id: "01a0611d-84d2-779b-a879-d2363a90342d",
   type: "module",
   slug: "companions-constants",
-  definition: "the add-on's name and version, and the shape its saved variables start out as",
+  definition: "the add-on's name and the shape its saved variables start out as",
   code: "ts",
   invariants: [
     {

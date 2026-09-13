@@ -5,7 +5,6 @@ import {
   JEWELRY_TRAIT_TO_INDEX,
   QUALITY_TO_INDEX,
   WEAPON_TRAIT_TO_INDEX,
-  WEAPON_TYPE_TO_INDEX,
 } from "akasha/temper/bit-codec/modules/equipment-mappings/equipment-mappings.module.code.ts"
 import { SKILL_ABILITY_ID_TO_INDEX } from "akasha/temper/companions-addon/modules/companions-skill-map/companions-skill-map.module.code.ts"
 
@@ -91,14 +90,6 @@ for (const [esoConstStr, idx] of Object.entries(WEAPON_TRAIT_TO_INDEX)) {
   }
 }
 
-const INDEX_TO_WEAPON_TYPE_CONST: number[] = []
-for (const [esoConstStr, idx] of Object.entries(WEAPON_TYPE_TO_INDEX)) {
-  const esoConst = tonumber(esoConstStr)
-  if (esoConst !== undefined) {
-    INDEX_TO_WEAPON_TYPE_CONST[idx] = esoConst
-  }
-}
-
 const INDEX_TO_QUALITY: number[] = []
 for (const [esoConstStr, idx] of Object.entries(QUALITY_TO_INDEX)) {
   const esoConst = tonumber(esoConstStr)
@@ -121,10 +112,6 @@ export function getJewelryTraitFromIndex(idx: number): number {
 
 export function getWeaponTraitFromIndex(idx: number): number {
   return INDEX_TO_WEAPON_TRAIT[idx] ?? ITEM_TRAIT_TYPE_NONE
-}
-
-export function getWeaponTypeFromIndex(idx: number): number {
-  return INDEX_TO_WEAPON_TYPE_CONST[idx] ?? WEAPONTYPE_NONE
 }
 
 export function getQualityFromIndex(idx: number): number {
