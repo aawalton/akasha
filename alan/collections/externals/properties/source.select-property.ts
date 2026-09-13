@@ -14,12 +14,9 @@ export const source = {
     "the-great-courses",
     "the-wandering-inn",
     "tmdb",
+    "spotify",
   ],
   invariants: [
-    {
-      invariantKind: "absence",
-      statement: "No page names `spotify` as a source.",
-    },
     {
       invariantKind: "departure",
       statement: "A provider is named here before a page may state that provider.",
