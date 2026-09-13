@@ -2,7 +2,7 @@
 
 import { PageTabHeader } from "akasha/design/interfaces/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
-import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
+import { TabsContent } from "akasha/design/interfaces/patterns/modules/tabs/tabs.module.code.tsx"
 import { ComponentsCompoundNavPanels } from "akasha/design/interfaces/system/modules/components-compound-nav-panels/components-compound-nav-panels.module.code.tsx"
 import { ComponentsCompoundPanels } from "akasha/design/interfaces/system/modules/components-compound-panels/components-compound-panels.module.code.tsx"
 import { ComponentsCorePanels } from "akasha/design/interfaces/system/modules/components-core-panels/components-core-panels.module.code.tsx"

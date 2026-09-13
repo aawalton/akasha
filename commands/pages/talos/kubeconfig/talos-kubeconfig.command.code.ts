@@ -13,7 +13,7 @@ import {
   clusterKubeconfigPath,
   clusterTalosconfigPath,
 } from "akasha/infrastructure/cluster/provisioning/talos/modules/paths/paths.module.code.ts"
-import { runTalosctl } from "akasha/infrastructure/cluster/provisioning/talos/talosctl/talosctl.module.code.ts"
+import { runTalosctl } from "akasha/infrastructure/cluster/provisioning/talos/modules/talosctl/talosctl.module.code.ts"
 
 export type Named = {
   readonly ip: string

@@ -1,5 +1,6 @@
 "use client"
 
+import { completionShapeOf } from "akasha/pages/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import { parseListingConfig } from "akasha/pages/core/schema/modules/listing-config/listing-config.module.code.ts"
 import {
   isLocked,
@@ -7,7 +8,6 @@ import {
   type ViewDataJSON,
 } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import type { LockedFacet } from "akasha/pages/core/schema/view-data-locked/view-data-locked.module.code.ts"
-import { completionShapeOf } from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
 import { PageCardRenderer } from "akasha/pages/ui/components/modules/page-card-renderer/page-card-renderer.module.code.tsx"
 import { pageRowToPageDataJSON } from "akasha/pages/ui/components/modules/page-data-json/page-data-json.module.code.ts"
 import { PageSystemTabContent } from "akasha/pages/ui/components/modules/page-system-view/page-system-view.module.code.tsx"

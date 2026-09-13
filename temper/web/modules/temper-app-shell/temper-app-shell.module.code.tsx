@@ -19,7 +19,7 @@ import {
 import {
   TEMPER_APP_ID,
   TEMPER_APP_SLUG,
-} from "akasha/temper/web/temper-app-id/temper-app-id.module.code.ts"
+} from "akasha/temper/web/modules/temper-app-id/temper-app-id.module.code.ts"
 import { LogOut } from "lucide-react"
 import { useMemo } from "react"
 

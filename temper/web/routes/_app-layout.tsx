@@ -2,8 +2,8 @@ import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/aut
 import { getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
 import { AuthProviderWrapper } from "akasha/temper/web/modules/auth-provider-wrapper/auth-provider-wrapper.module.code.tsx"
 import { usePathTracking } from "akasha/temper/web/modules/path-tracker/path-tracker.module.code.ts"
-import { TEMPER_APP_SLUG } from "akasha/temper/web/temper-app-id/temper-app-id.module.code.ts"
-import { AppShell } from "akasha/temper/web/temper-app-shell/temper-app-shell.module.code.tsx"
+import { TEMPER_APP_SLUG } from "akasha/temper/web/modules/temper-app-id/temper-app-id.module.code.ts"
+import { AppShell } from "akasha/temper/web/modules/temper-app-shell/temper-app-shell.module.code.tsx"
 import { data, Outlet } from "react-router"
 import type { Route } from "./+types/_app-layout"
 

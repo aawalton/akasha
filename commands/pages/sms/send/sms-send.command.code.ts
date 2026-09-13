@@ -1,8 +1,8 @@
-import type { TelnyxSendRequest } from "akasha/alan/harness/sms-core/telnyx-send/telnyx-send.module.code.ts"
+import type { TelnyxSendRequest } from "akasha/alan/harness/sms-core/modules/telnyx-send/telnyx-send.module.code.ts"
 import {
   buildTelnyxSendRequest,
   parseTelnyxSendResponse,
-} from "akasha/alan/harness/sms-core/telnyx-send/telnyx-send.module.code.ts"
+} from "akasha/alan/harness/sms-core/modules/telnyx-send/telnyx-send.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { baseUrl } from "akasha/commands/arguments/pages/base-url.argument.ts"
 import { fromNumber } from "akasha/commands/arguments/pages/from-number.argument.ts"

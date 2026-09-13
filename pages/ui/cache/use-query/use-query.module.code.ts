@@ -5,7 +5,7 @@ import type { Page } from "akasha/pages/core/modules/page-types/page-types.modul
 import {
   useAcquireSlug,
   usePipelineLive,
-} from "akasha/pages/ui/cache/tanstack-live/tanstack-live.module.code.ts"
+} from "akasha/pages/ui/cache/modules/tanstack-live/tanstack-live.module.code.ts"
 import {
   createRegularPipeline,
   type RegularResult,

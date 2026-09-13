@@ -2,7 +2,7 @@
 
 import type { IconName } from "akasha/pages/core/generated/modules/icon-search-index/icon-search-index.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
-import { completionShapeOf } from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
+import { completionShapeOf } from "akasha/pages/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import { PageCard } from "akasha/pages/ui/components/modules/page-card/page-card.module.code.tsx"
 import { PageCardNotes } from "akasha/pages/ui/components/modules/page-card-notes/page-card-notes.module.code.tsx"
 import { pageRowToPageDataJSON } from "akasha/pages/ui/components/modules/page-data-json/page-data-json.module.code.ts"

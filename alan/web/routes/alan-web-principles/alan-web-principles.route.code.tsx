@@ -10,7 +10,7 @@ import {
   Tabs,
   TabsContent,
   TabsList,
-} from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
+} from "akasha/design/interfaces/patterns/modules/tabs/tabs.module.code.tsx"
 import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
 import { List } from "lucide-react"
 

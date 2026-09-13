@@ -1,8 +1,8 @@
 import type {
   BoundaryClassifier,
   BoundaryLens,
-} from "akasha/story/engine/core/tally-catalog/tally-catalog.module.code.ts"
-import { TallyCatalogError } from "akasha/story/engine/core/tally-catalog/tally-catalog.module.code.ts"
+} from "akasha/story/engine/core/modules/tally-catalog/tally-catalog.module.code.ts"
+import { TallyCatalogError } from "akasha/story/engine/core/modules/tally-catalog/tally-catalog.module.code.ts"
 
 export interface TallyDistribution {
   readonly mean: number

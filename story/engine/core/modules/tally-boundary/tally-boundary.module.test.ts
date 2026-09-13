@@ -4,9 +4,9 @@ import {
   compileBoundary,
   distribution,
   rollupBoundary,
-} from "akasha/story/engine/core/tally-boundary/tally-boundary.module.code.ts"
-import type { BoundaryLens } from "akasha/story/engine/core/tally-catalog/tally-catalog.module.code.ts"
-import { TallyCatalogError } from "akasha/story/engine/core/tally-catalog/tally-catalog.module.code.ts"
+} from "akasha/story/engine/core/modules/tally-boundary/tally-boundary.module.code.ts"
+import type { BoundaryLens } from "akasha/story/engine/core/modules/tally-catalog/tally-catalog.module.code.ts"
+import { TallyCatalogError } from "akasha/story/engine/core/modules/tally-catalog/tally-catalog.module.code.ts"
 
 const LENS: BoundaryLens = {
   runThreshold: 2,

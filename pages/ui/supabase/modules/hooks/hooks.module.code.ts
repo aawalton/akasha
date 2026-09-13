@@ -7,7 +7,7 @@ import { readTargetPageTypeId } from "akasha/pages/core/property-types/modules/r
 import {
   useAcquireSlug,
   usePipelineLive,
-} from "akasha/pages/ui/cache/tanstack-live/tanstack-live.module.code.ts"
+} from "akasha/pages/ui/cache/modules/tanstack-live/tanstack-live.module.code.ts"
 import {
   collectRelatedIds,
   RELATED_IDS_PER_PROPERTY_CAP,

@@ -4,7 +4,7 @@ import {
   emptyTail,
   foldTail,
   type Tail,
-} from "akasha/code/editor/extension/tail-fold/tail-fold.module.code.ts"
+} from "akasha/code/editor/extension/modules/tail-fold/tail-fold.module.code.ts"
 import {
   type Entry,
   type EntryFold,

@@ -1,7 +1,7 @@
 "use client"
 
 import { Icon } from "akasha/design/interfaces/patterns/modules/lucide-icon/lucide-icon.module.code.tsx"
-import { MenuTabsTrigger } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
+import { MenuTabsTrigger } from "akasha/design/interfaces/patterns/modules/tabs/tabs.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import {
   Dialog,

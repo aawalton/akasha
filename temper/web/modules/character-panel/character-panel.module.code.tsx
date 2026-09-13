@@ -8,7 +8,7 @@ import { CharacterAutomationPanelCard } from "akasha/temper/web/modules/automati
 import { ConsumablesPanelCard } from "akasha/temper/web/modules/consumables-panel-card/consumables-panel-card.module.code.tsx"
 import { IdentityPanelCard } from "akasha/temper/web/modules/identity-panel-card/identity-panel-card.module.code.tsx"
 import { OtherPanelCard } from "akasha/temper/web/modules/other-panel-card/other-panel-card.module.code.tsx"
-import { TargetPanelCard } from "akasha/temper/web/target-panel-card/target-panel-card.module.code.tsx"
+import { TargetPanelCard } from "akasha/temper/web/modules/target-panel-card/target-panel-card.module.code.tsx"
 import { useCharacterMetadata } from "akasha/temper/web/use-character/use-character.module.code.ts"
 
 interface CharacterPanelProps {

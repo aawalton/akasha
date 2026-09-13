@@ -19,7 +19,7 @@ import {
   Tabs,
   TabsContent,
   TabsList,
-} from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
+} from "akasha/design/interfaces/patterns/modules/tabs/tabs.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { PagesUILink as Link } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { COMPANION_ENGINE_METHODOLOGY_PANELS } from "akasha/temper/web/modules/companion-engine-methodology/companion-engine-methodology.module.code.tsx"

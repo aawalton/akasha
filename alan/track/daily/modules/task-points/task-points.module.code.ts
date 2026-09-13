@@ -1,4 +1,4 @@
-import { loadDayHealthTaskPoints } from "akasha/alan/track/daily/task-completions/task-completions.module.code.ts"
+import { loadDayHealthTaskPoints } from "akasha/alan/track/daily/modules/task-completions/task-completions.module.code.ts"
 import {
   type WriteOutcome,
   writeTaskPoints,

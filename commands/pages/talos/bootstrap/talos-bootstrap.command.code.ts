@@ -12,7 +12,7 @@ import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { talosBootstrap as page } from "akasha/commands/pages/talos/bootstrap/talos-bootstrap.command.ts"
 import { clusterTalosconfigPath } from "akasha/infrastructure/cluster/provisioning/talos/modules/paths/paths.module.code.ts"
-import { runTalosctl } from "akasha/infrastructure/cluster/provisioning/talos/talosctl/talosctl.module.code.ts"
+import { runTalosctl } from "akasha/infrastructure/cluster/provisioning/talos/modules/talosctl/talosctl.module.code.ts"
 
 export type Named = { readonly ip: string; readonly cluster: string }
 

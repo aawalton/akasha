@@ -1,7 +1,7 @@
 "use client"
 
+import { completionShapeOf } from "akasha/pages/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import type { ViewConfig } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
-import { completionShapeOf } from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
 import { RenderBareListingCard } from "akasha/pages/ui/components/modules/bare-listing-card/bare-listing-card.module.code.tsx"
 import { PageSystemShell } from "akasha/pages/ui/components/modules/page-system-shell/page-system-shell.module.code.tsx"
 import { PageSystemTabContent } from "akasha/pages/ui/components/modules/page-system-view/page-system-view.module.code.tsx"

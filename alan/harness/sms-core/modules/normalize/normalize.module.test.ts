@@ -5,7 +5,7 @@ import {
   inboundToCommsInput,
 } from "akasha/alan/harness/sms-core/modules/normalize/normalize.module.code.ts"
 import type { SmsRouteDecision } from "akasha/alan/harness/sms-core/modules/sms-identity/sms-identity.module.code.ts"
-import type { TelnyxInboundSms } from "akasha/alan/harness/sms-core/telnyx-inbound/telnyx-inbound.module.code.ts"
+import type { TelnyxInboundSms } from "akasha/alan/harness/sms-core/modules/telnyx-inbound/telnyx-inbound.module.code.ts"
 
 function sms(text: string): TelnyxInboundSms {
   return {

@@ -8,7 +8,7 @@ import {
   type CompletionShape,
   completionValues,
   uncompletionValues,
-} from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
+} from "akasha/pages/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import { useCallback, useMemo } from "react"
 

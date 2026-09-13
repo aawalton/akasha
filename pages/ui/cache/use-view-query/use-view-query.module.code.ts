@@ -7,7 +7,7 @@ import {
   useAcquireSlug,
   useAcquireSlugs,
   usePipelineLive,
-} from "akasha/pages/ui/cache/tanstack-live/tanstack-live.module.code.ts"
+} from "akasha/pages/ui/cache/modules/tanstack-live/tanstack-live.module.code.ts"
 import { useCoreDefinitionsReady } from "akasha/pages/ui/cache/use-core-definitions-ready/use-core-definitions-ready.module.code.ts"
 import {
   createViewPipeline,

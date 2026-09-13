@@ -1,7 +1,7 @@
 import type { Page } from "akasha/temper/addon-generators/modules/addon-data-page/addon-data-page.module.code.ts"
 import { DO_NOT_EDIT } from "akasha/temper/addon-generators/modules/do-not-edit/do-not-edit.module.code.ts"
 import { ranksOf } from "akasha/temper/addon-generators/modules/rank-by-key/rank-by-key.module.code.ts"
-import { targetTypes } from "akasha/temper/skill-kinds/target-types/target-types.module.code.ts"
+import { targetTypes } from "akasha/temper/skill-kinds/modules/target-types/target-types.module.code.ts"
 import { z } from "zod"
 
 const TARGET_TYPE_EAV_SCHEMA = z

@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import {
   buildTelnyxSendRequest,
   parseTelnyxSendResponse,
-} from "akasha/alan/harness/sms-core/telnyx-send/telnyx-send.module.code.ts"
+} from "akasha/alan/harness/sms-core/modules/telnyx-send/telnyx-send.module.code.ts"
 import { z } from "zod"
 
 const SENT_BODY = z.strictObject({

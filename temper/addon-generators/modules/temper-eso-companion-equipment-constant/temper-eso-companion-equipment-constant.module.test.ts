@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { faultSaid, parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
 import { asPage } from "akasha/temper/addon-generators/modules/addon-data-page/addon-data-page.module.code.ts"
-import { generateTemperEsoCompanionEquipmentConstant } from "akasha/temper/addon-generators/temper-eso-companion-equipment-constant/temper-eso-companion-equipment-constant.module.code.ts"
+import { generateTemperEsoCompanionEquipmentConstant } from "akasha/temper/addon-generators/modules/temper-eso-companion-equipment-constant/temper-eso-companion-equipment-constant.module.code.ts"
 
 const AT = "companion-equipment-constants.generated.ts"
 

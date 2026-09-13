@@ -9,7 +9,7 @@ import { prewarmDevServer } from "akasha/code/browser/test-harness/modules/prewa
 import {
   decideTargetGuard,
   isLocalhostTarget,
-} from "akasha/code/browser/test-harness/target-guard/target-guard.module.code.ts"
+} from "akasha/code/browser/test-harness/modules/target-guard/target-guard.module.code.ts"
 import { readWorktreeGitFacts } from "akasha/code/browser/test-harness/worktree-git-facts/worktree-git-facts.module.code.ts"
 import { type Browser, type BrowserContext, chromium, type Page } from "playwright-core"
 

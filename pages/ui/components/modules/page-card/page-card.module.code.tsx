@@ -17,8 +17,8 @@ import type {
   PageDataJSON,
   PropertyDefinition,
 } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
-import type { CompletionShape } from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
-import { readsAsDone } from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
+import type { CompletionShape } from "akasha/pages/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
+import { readsAsDone } from "akasha/pages/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import { expandDateMentions } from "akasha/pages/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
 import type { GalleryCardSize } from "akasha/pages/core/view/modules/gallery/gallery.module.code.ts"
 import { PageActionsMenu } from "akasha/pages/ui/components/modules/page-actions-menu/page-actions-menu.module.code.tsx"

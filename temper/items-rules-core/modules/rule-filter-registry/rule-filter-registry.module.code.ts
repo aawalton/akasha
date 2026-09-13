@@ -33,7 +33,7 @@ import { SET_SOURCES_FILTER } from "akasha/temper/items-rules-core/modules/set-s
 import { STACK_FULLNESS_FILTER } from "akasha/temper/items-rules-core/modules/stack-fullness-filter/stack-fullness-filter.module.code.ts"
 import { STOCK_THRESHOLD_FILTER } from "akasha/temper/items-rules-core/modules/stock-threshold-filter/stock-threshold-filter.module.code.ts"
 import { STOLEN_FILTER } from "akasha/temper/items-rules-core/modules/stolen-filter/stolen-filter.module.code.ts"
-import { TARGET_QUANTITY_FILTER } from "akasha/temper/items-rules-core/target-quantity-filter/target-quantity-filter.module.code.ts"
+import { TARGET_QUANTITY_FILTER } from "akasha/temper/items-rules-core/modules/target-quantity-filter/target-quantity-filter.module.code.ts"
 import { TRAITS_FILTER } from "akasha/temper/items-rules-core/traits-filter/traits-filter.module.code.ts"
 import { TRANSMUTED_FILTER } from "akasha/temper/items-rules-core/transmuted-filter/transmuted-filter.module.code.ts"
 import { VALUE_FILTER } from "akasha/temper/items-rules-core/value-filter/value-filter.module.code.ts"

@@ -5,7 +5,7 @@ import type {
   PageDataJSON,
   PropertyDefinition,
 } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
-import { completionShapeOf } from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
+import { completionShapeOf } from "akasha/pages/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import {
   type GalleryCardSize,
   resolveGalleryCoverUrl,

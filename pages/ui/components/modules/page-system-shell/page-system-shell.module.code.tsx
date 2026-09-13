@@ -15,7 +15,7 @@ import {
   PageTabsTrigger,
   Tabs,
   TabsList,
-} from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
+} from "akasha/design/interfaces/patterns/modules/tabs/tabs.module.code.tsx"
 import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import { deriveShellEmptyState } from "akasha/pages/ui/components/modules/page-system-shell-helpers/page-system-shell-helpers.module.code.ts"
 import type { ViewTabItem } from "akasha/pages/ui/components/view-tab-context-menu/view-tab-context-menu.module.code.tsx"

@@ -4,7 +4,7 @@ import {
   GmPolicySchema,
 } from "akasha/story/engine/core/modules/gm-context-schema/gm-context-schema.module.code.ts"
 import { SheetEntryTemplateSchema } from "akasha/story/engine/core/modules/sheet-template/sheet-template.module.code.ts"
-import { TallyCatalogSchema } from "akasha/story/engine/core/tally-catalog/tally-catalog.module.code.ts"
+import { TallyCatalogSchema } from "akasha/story/engine/core/modules/tally-catalog/tally-catalog.module.code.ts"
 import { z } from "zod"
 
 export const DOCTRINE_POLICY_ID_PREFIX = "doctrine:"

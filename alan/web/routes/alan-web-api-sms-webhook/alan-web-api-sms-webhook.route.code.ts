@@ -11,7 +11,7 @@ import {
 import {
   extractInboundSms,
   telnyxWebhookSchema,
-} from "akasha/alan/harness/sms-core/telnyx-inbound/telnyx-inbound.module.code.ts"
+} from "akasha/alan/harness/sms-core/modules/telnyx-inbound/telnyx-inbound.module.code.ts"
 import { verifyTelnyxSignature } from "akasha/alan/harness/sms-core/verify-signature/verify-signature.module.code.ts"
 import {
   askingFor,

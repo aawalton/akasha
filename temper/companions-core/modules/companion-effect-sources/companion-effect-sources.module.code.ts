@@ -1,4 +1,4 @@
-import { targetArmor } from "akasha/temper/character-sources/target-armors/target-armors.module.code.ts"
+import { targetArmor } from "akasha/temper/character-sources/modules/target-armors/target-armors.module.code.ts"
 import { getCompanionArmorBaseValue } from "akasha/temper/companions-core/modules/companion-armor-base-values/companion-armor-base-values.module.code.ts"
 import { companionArmorSlots } from "akasha/temper/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
 import { companionJewelrySlots } from "akasha/temper/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"

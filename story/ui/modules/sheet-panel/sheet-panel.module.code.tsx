@@ -3,7 +3,7 @@ import {
   TabsContent,
   TabsList,
   TabsTrigger,
-} from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
+} from "akasha/design/interfaces/patterns/modules/tabs/tabs.module.code.tsx"
 import {
   Popover,
   PopoverContent,

@@ -12,7 +12,7 @@ import {
   Tabs,
   TabsContent,
   TabsList,
-} from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
+} from "akasha/design/interfaces/patterns/modules/tabs/tabs.module.code.tsx"
 import { useFilterPersistence } from "akasha/design/interfaces/patterns/use-filter-persistence/use-filter-persistence.module.code.ts"
 import {
   type CompanionEquipmentQualityId,
