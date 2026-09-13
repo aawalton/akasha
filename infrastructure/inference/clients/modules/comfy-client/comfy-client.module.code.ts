@@ -196,16 +196,6 @@ export async function runComfyGraph(req: ComfyRunRequest): Promise<ComfyRunResul
   }
 }
 
-export async function freeComfyMemory(baseUrl: string): Promise<void> {
-  const res = await fetch(`${baseUrl}/free`, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ unload_models: true, free_memory: true }),
-    signal: AbortSignal.timeout(30_000),
-  })
-  if (!res.ok) throw new Error(`ComfyUI /free ${res.status}: ${await res.text()}`)
-}
-
 export async function fetchImage(baseUrl: string, image: ImageRef): Promise<Uint8Array> {
   const q = new URLSearchParams({
     filename: image.filename,

@@ -3,7 +3,6 @@ import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-c
 import { z } from "zod"
 
 export const MLX_VLM_MODEL = "mlx-community/Qwen3-VL-30B-A3B-Instruct-4bit"
-export const DEFAULT_FRAMES = 16
 const VIDEO_QA_MAX_TOKENS = 1024
 
 export function selectFrameIndices(total: number, want: number): readonly number[] {
