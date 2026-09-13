@@ -13,6 +13,11 @@ export const onePiece = {
   status: "paused",
   rank: "B",
   publishedAt: "1999-10-20",
-  externalLink: "https://trakt.tv/shows/one-piece",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/one-piece",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Fandom
