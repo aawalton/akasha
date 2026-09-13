@@ -4,7 +4,7 @@ export const theNoPageRefusalReadsTwoIndexEntriesAndAssertsMoreThanItRead = {
   id: "01a09635-8758-7ba1-be72-bdf7c15420bf",
   type: "finding",
   slug: "the-no-page-refusal-reads-two-index-entries-and-asserts-more-than-it-read",
-  domain: "domain/seat-system",
+  domain: "page-type/seat",
   claim:
     "The refusal `this call names no agent whose page the edits would be kept beside` is decided by `agentPathOf` alone, which reads two index files: the seat's id entry, and the subagent's page filed by slug under that seat's name. It reads neither the subagent page's own id entry nor the page file on disk. Its advice asserted that the next dispatch or resume writes the page again, which is more than the guard read; that clause is gone, and the refusal now says it read the index and no file on disk. The failure is asymmetric too, because a slug entry naming a path whose page file is gone refuses nothing, and edits are then kept beside a page that is not there.",
   evidence:
