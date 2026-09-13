@@ -143,10 +143,6 @@ export const extension = {
       invariantKind: "departure",
       statement: "A panel's top row carries how many rows hang directly beneath it.",
     },
-    {
-      invariantKind: "gap",
-      statement: "A panel's top row cannot be closed.",
-    },
   ],
   typescriptConfig: "json",
 } as const satisfies Domain
