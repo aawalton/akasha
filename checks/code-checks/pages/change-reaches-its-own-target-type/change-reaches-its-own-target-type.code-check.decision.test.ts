@@ -4,6 +4,7 @@ import {
   ALSO_CROSS,
   AT,
   BUILT,
+  BUILT_TABLE,
   CODE_AT,
   CONSTED,
   CROSS,
@@ -18,6 +19,7 @@ import {
   SAME,
   SPIN,
   scratch,
+  TABLED,
   TAP,
 } from "akasha/checks/code-checks/pages/change-reaches-its-own-target-type/change-reaches-its-own-target-type.code-check.decision.test-fixtures.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
@@ -75,6 +77,22 @@ test("an address spelled through a const the body declares is read as written le
 
 test("an address built out of something other than written letters is refused", () => {
   const said = judged(rooted(), { [CODE_AT]: BUILT })
+
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(AT)
+  expect(said[0]?.reason).toContain("written letters")
+})
+
+test("every address a const table of written letters holds is read and judged", () => {
+  const said = judged(rooted(), { [CODE_AT]: TABLED })
+
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(AT)
+  expect(said[0]?.reason).toContain(`\`${CROSS}\``)
+})
+
+test("a table holding a value built as the body runs is refused", () => {
+  const said = judged(rooted(), { [CODE_AT]: BUILT_TABLE })
 
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe(AT)

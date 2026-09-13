@@ -35,7 +35,28 @@ export const changeReachesItsOwnTargetType = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "An address picked out of a const table of written letters is read as written letters.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A table handed on by a function the body declares is read through that function.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every address such a table holds is judged rather than the one picked.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An address built out of anything but written letters is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A table holding a value built as the body runs is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal for an address that cannot be read names the line spelling it.",
     },
     {
       invariantKind: "departure",

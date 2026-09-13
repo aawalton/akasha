@@ -79,6 +79,29 @@ export const CONSTED = bodied(["  await reach(world, HELD, {})"], [`const HELD =
 
 export const BUILT = bodied(["  await reach(world, addressFor(world), {})"])
 
+const PICKS = [
+  "function addressFor(world: World): string {",
+  "  return ADDRESSES[picked(world)]",
+  "}",
+  "",
+]
+
+export const TABLED = bodied(
+  ["  await reach(world, addressFor(world), {})"],
+  [
+    `const HELD = "${SAME}"`,
+    "",
+    `const ADDRESSES = { one: "${CROSS}", two: HELD } as const`,
+    "",
+    ...PICKS,
+  ]
+)
+
+export const BUILT_TABLE = bodied(
+  ["  await reach(world, addressFor(world), {})"],
+  [`const ADDRESSES = { one: "${CROSS}", two: picked() } as const`, "", ...PICKS]
+)
+
 export const QUIET = "export const held = 1\n"
 
 function staged(root: string, slug: string, kind: string, target: string, tail: string): undefined {
