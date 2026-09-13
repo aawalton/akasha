@@ -6,7 +6,6 @@ export const vuldranni = {
   slug: "vuldranni",
   title: "Vuldranni",
   world: "vuldranni",
-  source: "kindle",
   rank: "B",
   tags: ["Comedy"],
   unit: "words",

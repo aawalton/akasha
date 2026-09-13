@@ -6,7 +6,6 @@ export const shardruneUniverse = {
   slug: "shardrune-universe",
   title: "Shardrune Universe",
   world: "shardrune-universe",
-  source: "kindle",
   rank: "B",
   following: true,
   unit: "words",

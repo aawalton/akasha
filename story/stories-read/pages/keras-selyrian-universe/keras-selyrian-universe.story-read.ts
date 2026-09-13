@@ -6,6 +6,5 @@ export const kerasSelyrianUniverse = {
   slug: "keras-selyrian-universe",
   title: "Keras Selyrian Universe",
   world: "keras-selyrian-universe",
-  source: "kindle",
   unit: "words",
 } as const satisfies StoryRead
