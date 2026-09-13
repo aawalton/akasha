@@ -2,7 +2,9 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { blobIdOf, recordRead } from "akasha/agents/modules/read-record/read-record.module.code.ts"
+import { agentPaged } from "akasha/agents/modules/read-record/read-record.module.test-fixtures.ts"
 import { owing } from "akasha/commands/pages/read/modules/body-owing/body-owing.module.code.ts"
+import { nothingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
@@ -20,6 +22,8 @@ const BODY = "one\n"
 
 function rooted(): string {
   const root = scratch.rootFor("body-owing-")
+  nothingFiled(root)
+  agentPaged(root, AGENT)
   for (const at of [ONE, TWO]) {
     const said = join(root, at)
     mkdirSync(said.slice(0, said.lastIndexOf("/")), { recursive: true })

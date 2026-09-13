@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { readingIn, recordRead } from "akasha/agents/modules/read-record/read-record.module.code.ts"
+import { agentPaged } from "akasha/agents/modules/read-record/read-record.module.test-fixtures.ts"
 import {
   isAgentProcess,
   killTarget,
@@ -28,6 +29,7 @@ import type { Asking } from "akasha/changes/runners/pages/mechanical-change-runn
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { nothingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
@@ -175,6 +177,8 @@ const world = scratchWorld()
 
 function heldIn(): { root: string; oid: string } {
   const root = world.rootFor("seat-stopping-")
+  nothingFiled(root)
+  agentPaged(root, AGENT)
   return { root, oid: writing(root, HELD_AT, HELD_BODY) }
 }
 
