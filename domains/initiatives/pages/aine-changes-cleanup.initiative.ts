@@ -6,4 +6,18 @@ export const aineChangesCleanup = {
   slug: "aine-changes-cleanup",
   domain: "domain/change",
   persona: "aine",
+  intents: [
+    {
+      statement: "Every change states the target type and the target subtype that change acts on.",
+    },
+    {
+      statement: "A change reaches another change only through a runner.",
+    },
+    {
+      statement: "A change reaches only changes acting on the target type that change acts on.",
+    },
+    {
+      statement: "Every target type, subtype and mode that together make sense has a change.",
+    },
+  ],
 } as const satisfies Initiative
