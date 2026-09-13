@@ -12,6 +12,22 @@ export const royalRoadSyncing = {
       statement: "A story is followed by the royal road id the story states.",
     },
     {
+      invariantKind: "departure",
+      statement: "That id is read off the story's record of royal road.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A story stating no such record is followed by the flat id it states instead.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A story whose flat id another provider gave is not followed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A chapter filed here states its id and link as one record of royal road.",
+    },
+    {
       invariantKind: "absence",
       statement: "No story page is created here.",
     },

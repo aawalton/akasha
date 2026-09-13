@@ -1,3 +1,7 @@
+import {
+  idFrom,
+  linkFrom,
+} from "akasha/alan/collections/externals/modules/external-identity-reading/external-identity-reading.module.code.ts"
 import type { RawChapter } from "akasha/alan/collections/royal-road/modules/pages/royal-road-pages.module.code.ts"
 import {
   fetchHtml,
@@ -30,6 +34,7 @@ const PROSE = "prose"
 const TXT = "txt"
 const WORDS = "words"
 const STORY = "story"
+const IDENTITY = "externalIdentity"
 const REQUEST_DELAY_MS = 1500
 const POSITION_DIGITS = 4
 const BATCH_CEILING = 50
@@ -86,30 +91,28 @@ export interface Story {
   readonly tags: readonly string[]
 }
 
+export function royalRoadIdIn(row: Row): string | null {
+  const held = idFrom(row[IDENTITY], SOURCE)
+  if (held !== null) return held
+  return textAt(row, "source") === SOURCE ? textAt(row, "externalId") : null
+}
+
 export function readStories(only: string | undefined): readonly Story[] {
   const asked = asking(ROOT, {
     pageTypeSlug: STORY_PAGE_TYPE,
-    where: { source: { is: SOURCE } },
-    keys: ["slug", "externalId", "world", "publicationStatus", "externalTags"],
+    keys: ["slug", "externalId", IDENTITY, "source", "world", "publicationStatus", "externalTags"],
   })
   if ("refused" in asked)
     throw new SyncRefused(`the stories to follow went unread: ${asked.refused}`)
-  if (asked.rows.length === 0) {
-    throw new SyncRefused(
-      `${STORY_PAGE_TYPE} answered with no story read from ${SOURCE}. An empty answer is a ` +
-        `broken read rather than an empty shelf.`
-    )
-  }
   const out: Story[] = []
+  let found = 0
   for (const row of asked.rows) {
+    const externalId = royalRoadIdIn(row)
+    if (externalId === null) continue
+    found += 1
     const slug = textAt(row, "slug")
     if (slug === null) continue
     if (only !== undefined && slug !== only) continue
-    const externalId = textAt(row, "externalId")
-    if (externalId === null) {
-      console.log(`skip ${slug}: no externalId`)
-      continue
-    }
     out.push({
       slug,
       externalId,
@@ -117,6 +120,12 @@ export function readStories(only: string | undefined): readonly Story[] {
       status: textAt(row, "publicationStatus"),
       tags: listIn(row, "externalTags"),
     })
+  }
+  if (found === 0) {
+    throw new SyncRefused(
+      `${STORY_PAGE_TYPE} answered with no story read from ${SOURCE}. An empty answer is a ` +
+        `broken read rather than an empty shelf.`
+    )
   }
   return out
 }
@@ -134,16 +143,18 @@ export interface Held {
 }
 
 export function chapterIdIn(row: Row): string | null {
+  const held = idFrom(row[IDENTITY], SOURCE)
+  if (held !== null) return held
   const id = textAt(row, "externalId")
   if (id !== null) return id
-  const link = textAt(row, "externalLink")
+  const link = linkFrom(row[IDENTITY], SOURCE) ?? textAt(row, "externalLink")
   return link === null ? null : (CHAPTER_AT.exec(link)?.[1] ?? null)
 }
 
 export function heldChapters(): Held {
   const asked = asking(ROOT, {
     pageTypeSlug: CHAPTER_PAGE_TYPE,
-    keys: ["slug", "externalId", "externalLink", STORY],
+    keys: ["slug", "externalId", "externalLink", IDENTITY, STORY],
   })
   if ("refused" in asked) {
     throw new SyncRefused(
@@ -200,9 +211,9 @@ export function filedChapter(
     position,
     ownLength: wordCount,
     unit: WORDS,
-    externalLink: royalRoadUrl(chapter.url),
-    externalId: chapter.id,
-    source: SOURCE,
+    externalIdentity: [
+      { source: SOURCE, externalId: chapter.id, externalLink: royalRoadUrl(chapter.url) },
+    ],
     prose: TXT,
   }
   const day = chapter.date.slice(0, 10)
