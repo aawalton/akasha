@@ -6,12 +6,16 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg = {
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg",
   rank: "C",
   unit: "words",
-  externalId: "129182",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-monster-evo-litrpg",
   title: "The Magpie and The Archmage",
   world: "the-magpie-and-the-archmage-monster-evo-litrpg",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "129182",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-monster-evo-litrpg",
+    },
+  ],
   externalTags: [
     "LitRPG",
     "Portal Fantasy / Isekai",

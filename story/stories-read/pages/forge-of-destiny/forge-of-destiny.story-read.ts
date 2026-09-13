@@ -6,7 +6,13 @@ export const forgeOfDestiny = {
   slug: "forge-of-destiny",
   title: "Forge of Destiny",
   world: "forge-of-destiny",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "21188",
+      externalLink: "https://www.royalroad.com/fiction/21188/forge-of-destiny",
+    },
+  ],
   rank: "C",
   externalTags: [
     "Cultivation",
@@ -21,6 +27,4 @@ export const forgeOfDestiny = {
   ],
   ownProgress: 1264154,
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/21188/forge-of-destiny",
-  externalId: "21188",
 } as const satisfies StoryRead

@@ -6,11 +6,15 @@ export const theRunesmith = {
   slug: "the-runesmith",
   rank: "C",
   unit: "words",
-  externalId: "31474",
-  externalLink: "https://www.royalroad.com/fiction/31474/the-runesmith",
   title: "The Runesmith",
   world: "the-runesmith",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "31474",
+      externalLink: "https://www.royalroad.com/fiction/31474/the-runesmith",
+    },
+  ],
   externalTags: [
     "GameLit",
     "Reincarnation",

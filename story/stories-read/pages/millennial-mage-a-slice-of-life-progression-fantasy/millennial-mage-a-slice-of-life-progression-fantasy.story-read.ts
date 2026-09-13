@@ -6,7 +6,14 @@ export const millennialMageASliceOfLifeProgressionFantasy = {
   slug: "millennial-mage-a-slice-of-life-progression-fantasy",
   title: "Millennial Mage (A Slice of Life, Progression Fantasy)",
   world: "millennial-mage-a-slice-of-life-progression-fantasy",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "47826",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy",
+    },
+  ],
   author: "JLMullins",
   rank: "A",
   following: true,
@@ -23,8 +30,5 @@ export const millennialMageASliceOfLifeProgressionFantasy = {
     "Supernatural",
   ],
   unit: "words",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy",
-  externalId: "47826",
   prose: "txt",
 } as const satisfies StoryRead

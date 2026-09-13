@@ -6,7 +6,13 @@ export const roadToMasteryALitrpgApocalypse = {
   slug: "road-to-mastery-a-litrpg-apocalypse",
   title: "Road to Mastery: A LitRPG Apocalypse",
   world: "road-to-mastery-a-litrpg-apocalypse",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "61041",
+      externalLink: "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse",
+    },
+  ],
   author: "Valerios",
   following: true,
   externalTags: [
@@ -25,7 +31,5 @@ export const roadToMasteryALitrpgApocalypse = {
     "Supernatural",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse",
-  externalId: "61041",
   prose: "txt",
 } as const satisfies StoryRead

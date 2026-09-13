@@ -6,7 +6,13 @@ export const sherlyTheMostVirtuousHolyCow = {
   slug: "sherly-the-most-virtuous-holy-cow",
   title: "Sherly",
   world: "sherly-the-most-virtuous-holy-cow",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "129185",
+      externalLink: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow",
+    },
+  ],
   rank: "C",
   externalTags: [
     "LitRPG",
@@ -25,6 +31,4 @@ export const sherlyTheMostVirtuousHolyCow = {
     "Mythos",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow",
-  externalId: "129185",
 } as const satisfies StoryRead

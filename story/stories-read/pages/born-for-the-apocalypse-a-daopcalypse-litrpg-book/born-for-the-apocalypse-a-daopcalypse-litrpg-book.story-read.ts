@@ -6,7 +6,14 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook = {
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   title: "Born for the Apocalypse",
   world: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "64122",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+    },
+  ],
   rank: "C",
   externalTags: [
     "LitRPG",
@@ -23,7 +30,4 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook = {
   ],
   ownProgress: 124025,
   unit: "words",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
-  externalId: "64122",
 } as const satisfies StoryRead

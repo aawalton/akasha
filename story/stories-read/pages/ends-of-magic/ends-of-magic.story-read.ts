@@ -6,7 +6,13 @@ export const endsOfMagic = {
   slug: "ends-of-magic",
   title: "Ends of Magic",
   world: "ends-of-magic",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "57697",
+      externalLink: "https://www.royalroad.com/fiction/57697/ends-of-magic",
+    },
+  ],
   author: "Alexander Olson",
   rank: "B",
   following: true,
@@ -24,7 +30,5 @@ export const endsOfMagic = {
     "Technologically Engineered",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/57697/ends-of-magic",
-  externalId: "57697",
   prose: "txt",
 } as const satisfies StoryRead

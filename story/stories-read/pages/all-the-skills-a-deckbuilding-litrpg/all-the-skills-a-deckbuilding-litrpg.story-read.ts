@@ -6,7 +6,13 @@ export const allTheSkillsADeckbuildingLitrpg = {
   slug: "all-the-skills-a-deckbuilding-litrpg",
   title: "All The Skills - A Deckbuilding LitRPG",
   world: "all-the-skills-a-deckbuilding-litrpg",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "55687",
+      externalLink: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg",
+    },
+  ],
   author: "HonourRae",
   rank: "B",
   following: true,
@@ -24,7 +30,5 @@ export const allTheSkillsADeckbuildingLitrpg = {
     "Magic",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg",
-  externalId: "55687",
   prose: "txt",
 } as const satisfies StoryRead

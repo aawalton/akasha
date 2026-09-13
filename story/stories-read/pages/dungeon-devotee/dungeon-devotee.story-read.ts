@@ -6,7 +6,13 @@ export const dungeonDevotee = {
   slug: "dungeon-devotee",
   title: "Dungeon Devotee",
   world: "dungeon-devotee",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "51358",
+      externalLink: "https://www.royalroad.com/fiction/51358/dungeon-devotee",
+    },
+  ],
   author: "Nixia",
   rank: "C",
   following: true,
@@ -25,7 +31,5 @@ export const dungeonDevotee = {
     "Magic",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/51358/dungeon-devotee",
-  externalId: "51358",
   prose: "txt",
 } as const satisfies StoryRead

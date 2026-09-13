@@ -6,7 +6,13 @@ export const rebornAsADemonicTree = {
   slug: "reborn-as-a-demonic-tree",
   title: "Reborn as a Demonic Tree",
   world: "reborn-as-a-demonic-tree",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "62881",
+      externalLink: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree",
+    },
+  ],
   author: "XKARNATION",
   rank: "B",
   following: true,
@@ -31,7 +37,5 @@ export const rebornAsADemonicTree = {
     "Villainous Lead",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree",
-  externalId: "62881",
   prose: "txt",
 } as const satisfies StoryRead

@@ -6,7 +6,14 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg = {
   slug: "squid-girl-evolution-monster-girl-evolution-litrpg",
   title: "Squid Girl Evolution",
   world: "squid-girl-evolution-monster-girl-evolution-litrpg",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "130456",
+      externalLink:
+        "https://www.royalroad.com/fiction/130456/squid-girl-evolution-monster-girl-evolution-litrpg",
+    },
+  ],
   rank: "C",
   externalTags: [
     "LitRPG",
@@ -26,7 +33,4 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg = {
     "Strong Lead",
   ],
   unit: "words",
-  externalLink:
-    "https://www.royalroad.com/fiction/130456/squid-girl-evolution-monster-girl-evolution-litrpg",
-  externalId: "130456",
 } as const satisfies StoryRead

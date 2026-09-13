@@ -6,7 +6,13 @@ export const succulentGirlEvolution = {
   slug: "succulent-girl-evolution",
   title: "Succulent Girl Evolution",
   world: "succulent-girl-evolution",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "129183",
+      externalLink: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution",
+    },
+  ],
   rank: "C",
   externalTags: [
     "LitRPG",
@@ -19,6 +25,4 @@ export const succulentGirlEvolution = {
     "Magic",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution",
-  externalId: "129183",
 } as const satisfies StoryRead

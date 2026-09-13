@@ -6,7 +6,13 @@ export const emieAscended = {
   slug: "emie-ascended",
   title: "Emie Ascended",
   world: "emie-ascended",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "170179",
+      externalLink: "https://www.royalroad.com/fiction/170179/emie-ascended",
+    },
+  ],
   author: "Braided Sky",
   following: true,
   publicationStatus: "ongoing",
@@ -26,7 +32,5 @@ export const emieAscended = {
     "Romance Subplot",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/170179/emie-ascended",
-  externalId: "170179",
   prose: "txt",
 } as const satisfies StoryRead

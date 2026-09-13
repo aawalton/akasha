@@ -6,7 +6,14 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding = {
   slug: "demonic-city-builder-litrpg-city-kingdom-building",
   title: "Demonic City Builder [LitRPG, City & Kingdom Building]",
   world: "demonic-city-builder-litrpg-city-kingdom-building",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "168862",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building",
+    },
+  ],
   author: "Cattacomb",
   publicationStatus: "ongoing",
   externalTags: [
@@ -29,8 +36,5 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding = {
     "Survival",
   ],
   unit: "words",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building",
-  externalId: "168862",
   prose: "txt",
 } as const satisfies StoryRead

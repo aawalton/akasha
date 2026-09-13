@@ -6,7 +6,13 @@ export const bunnyGirlEvolution = {
   slug: "bunny-girl-evolution",
   title: "Bunny Girl Evolution",
   world: "bunny-girl-evolution",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "90435",
+      externalLink: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution",
+    },
+  ],
   author: "Bedivere the Mad",
   rank: "B",
   following: true,
@@ -35,7 +41,5 @@ export const bunnyGirlEvolution = {
     "Supernatural",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution",
-  externalId: "90435",
   prose: "txt",
 } as const satisfies StoryRead

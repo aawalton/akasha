@@ -6,7 +6,13 @@ export const journeyToVeresavirFantasyLitrpg = {
   slug: "journey-to-veresavir-fantasy-litrpg",
   title: "Journey to Veresavir [Fantasy LitRPG]",
   world: "journey-to-veresavir-fantasy-litrpg",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "137228",
+      externalLink: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg",
+    },
+  ],
   author: "Rhaegar",
   publicationStatus: "ongoing",
   externalTags: [
@@ -20,7 +26,5 @@ export const journeyToVeresavirFantasyLitrpg = {
     "Magic",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg",
-  externalId: "137228",
   prose: "txt",
 } as const satisfies StoryRead

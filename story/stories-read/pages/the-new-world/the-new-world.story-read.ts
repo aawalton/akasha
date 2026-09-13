@@ -6,7 +6,13 @@ export const theNewWorld = {
   slug: "the-new-world",
   title: "The New World",
   world: "the-new-world",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "12024",
+      externalLink: "https://www.royalroad.com/fiction/12024/the-new-world",
+    },
+  ],
   author: "Monsoon117",
   rank: "C",
   following: true,
@@ -21,7 +27,5 @@ export const theNewWorld = {
     "Magic",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world",
-  externalId: "12024",
   prose: "txt",
 } as const satisfies StoryRead

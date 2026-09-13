@@ -6,7 +6,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg = {
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   title: "Zero-Day Saint — I Cheat Smarter — [Shapeshifter litRPG][Vol 1 Complete]",
   world: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "164273",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol",
+    },
+  ],
   author: "Lilly Fox",
   publicationStatus: "ongoing",
   externalTags: [
@@ -23,8 +30,5 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg = {
     "System Invasion",
   ],
   unit: "words",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol",
-  externalId: "164273",
   prose: "txt",
 } as const satisfies StoryRead

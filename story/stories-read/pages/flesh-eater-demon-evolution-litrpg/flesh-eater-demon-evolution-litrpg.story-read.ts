@@ -6,11 +6,15 @@ export const fleshEaterDemonEvolutionLitrpg = {
   slug: "flesh-eater-demon-evolution-litrpg",
   rank: "C",
   unit: "words",
-  externalId: "129187",
-  externalLink: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg",
   title: "Flesh Eater",
   world: "flesh-eater-demon-evolution-litrpg",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "129187",
+      externalLink: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg",
+    },
+  ],
   externalTags: [
     "LitRPG",
     "Reincarnation",

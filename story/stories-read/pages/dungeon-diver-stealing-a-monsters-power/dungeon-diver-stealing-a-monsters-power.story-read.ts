@@ -6,7 +6,14 @@ export const dungeonDiverStealingAMonstersPower = {
   slug: "dungeon-diver-stealing-a-monsters-power",
   title: "Dungeon Diver: Stealing A Monster’s Power",
   world: "dungeon-diver-stealing-a-monsters-power",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "64223",
+      externalLink:
+        "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power",
+    },
+  ],
   author: "KaeNovels",
   rank: "C",
   publicationStatus: "completed",
@@ -28,7 +35,5 @@ export const dungeonDiverStealingAMonstersPower = {
     "Strong Lead",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power",
-  externalId: "64223",
   prose: "txt",
 } as const satisfies StoryRead

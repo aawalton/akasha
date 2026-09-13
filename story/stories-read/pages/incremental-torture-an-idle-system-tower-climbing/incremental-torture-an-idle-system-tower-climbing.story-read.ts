@@ -6,7 +6,14 @@ export const incrementalTortureAnIdleSystemTowerClimbing = {
   slug: "incremental-torture-an-idle-system-tower-climbing",
   title: "Incremental Torture",
   world: "incremental-torture-an-idle-system-tower-climbing",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "83133",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing",
+    },
+  ],
   rank: "C",
   externalTags: [
     "LitRPG",
@@ -20,7 +27,4 @@ export const incrementalTortureAnIdleSystemTowerClimbing = {
   ],
   ownProgress: 136760,
   unit: "words",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing",
-  externalId: "83133",
 } as const satisfies StoryRead

@@ -6,7 +6,13 @@ export const justAddMana = {
   slug: "just-add-mana",
   title: "Just Add Mana",
   world: "just-add-mana",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "125163",
+      externalLink: "https://www.royalroad.com/fiction/125163/just-add-mana",
+    },
+  ],
   author: "SilverLinings",
   rank: "B",
   following: true,
@@ -28,7 +34,5 @@ export const justAddMana = {
     "Strong Lead",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/125163/just-add-mana",
-  externalId: "125163",
   prose: "txt",
 } as const satisfies StoryRead

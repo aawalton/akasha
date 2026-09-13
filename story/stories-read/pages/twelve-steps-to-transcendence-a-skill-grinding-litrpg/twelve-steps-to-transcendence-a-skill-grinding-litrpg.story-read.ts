@@ -6,7 +6,14 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg = {
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   title: "12 Steps to Transcendence: A Skill-Grinding LitRPG",
   world: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "181591",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg",
+    },
+  ],
   author: "Mishri",
   publicationStatus: "ongoing",
   externalTags: [
@@ -26,8 +33,5 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg = {
     "Survival",
   ],
   unit: "words",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg",
-  externalId: "181591",
   prose: "txt",
 } as const satisfies StoryRead

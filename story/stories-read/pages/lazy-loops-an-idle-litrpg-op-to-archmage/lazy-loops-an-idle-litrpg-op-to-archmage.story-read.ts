@@ -6,12 +6,17 @@ export const lazyLoopsAnIdleLitrpgOpToArchmage = {
   slug: "lazy-loops-an-idle-litrpg-op-to-archmage",
   title: "Lazy Loops: An Idle LitRPG [OP to Archmage]",
   world: "lazy-loops-an-idle-litrpg-op-to-archmage",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "168961",
+      externalLink:
+        "https://www.royalroad.com/fiction/168961/lazy-loops-an-idle-litrpg-op-to-archmage",
+    },
+  ],
   author: "Fiddlesoup",
   publicationStatus: "ongoing",
   externalTags: ["LitRPG", "Time Loop", "Action", "Adventure", "Fantasy", "School Life"],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/168961/lazy-loops-an-idle-litrpg-op-to-archmage",
-  externalId: "168961",
   prose: "txt",
 } as const satisfies StoryRead

@@ -6,13 +6,17 @@ export const phoenixHealer = {
   slug: "phoenix-healer",
   title: "Phoenix Healer",
   world: "phoenix-healer",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "96871",
+      externalLink: "https://www.royalroad.com/fiction/96871/phoenix-healer",
+    },
+  ],
   author: "Maeve McCarthy",
   following: true,
   publicationStatus: "hiatus",
   externalTags: ["LitRPG", "Female Lead", "Action", "Adventure", "Fantasy", "Magic"],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/96871/phoenix-healer",
-  externalId: "96871",
   prose: "txt",
 } as const satisfies StoryRead

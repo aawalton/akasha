@@ -6,7 +6,13 @@ export const melodyOfMana = {
   slug: "melody-of-mana",
   title: "Melody of Mana",
   world: "melody-of-mana",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "43974",
+      externalLink: "https://www.royalroad.com/fiction/43974/melody-of-mana",
+    },
+  ],
   author: "Wandering Agent",
   rank: "C",
   publicationStatus: "completed",
@@ -20,7 +26,5 @@ export const melodyOfMana = {
     "Reincarnation",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/43974/melody-of-mana",
-  externalId: "43974",
   prose: "txt",
 } as const satisfies StoryRead

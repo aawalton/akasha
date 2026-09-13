@@ -6,7 +6,14 @@ export const ultimateLevel1LitrpgBook11Stubs310 = {
   slug: "ultimate-level-1-litrpg-book-11-stubs-310",
   title: "Ultimate Level 1 LitRPG - Book 11 Stubs 3/10",
   world: "ultimate-level-1-litrpg-book-11-stubs-310",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "76259",
+      externalLink:
+        "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310",
+    },
+  ],
   author: "Dads Bedtime Stories",
   rank: "B",
   following: true,
@@ -23,7 +30,5 @@ export const ultimateLevel1LitrpgBook11Stubs310 = {
     "Dungeon Crawler",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310",
-  externalId: "76259",
   prose: "txt",
 } as const satisfies StoryRead

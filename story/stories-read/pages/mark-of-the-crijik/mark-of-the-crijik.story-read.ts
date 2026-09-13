@@ -6,7 +6,13 @@ export const markOfTheCrijik = {
   slug: "mark-of-the-crijik",
   title: "Mark of the Crijik",
   world: "mark-of-the-crijik",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "50243",
+      externalLink: "https://www.royalroad.com/fiction/50243/mark-of-the-crijik",
+    },
+  ],
   author: "ThinkTwice",
   rank: "C",
   following: true,
@@ -22,7 +28,5 @@ export const markOfTheCrijik = {
     "School Life",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/50243/mark-of-the-crijik",
-  externalId: "50243",
   prose: "txt",
 } as const satisfies StoryRead

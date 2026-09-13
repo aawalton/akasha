@@ -6,7 +6,13 @@ export const manaDevourerLitrpgmanaCultivation = {
   slug: "mana-devourer-litrpgmana-cultivation",
   title: "Mana Devourer",
   world: "mana-devourer-litrpgmana-cultivation",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "89231",
+      externalLink: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation",
+    },
+  ],
   rank: "C",
   externalTags: [
     "LitRPG",
@@ -22,6 +28,4 @@ export const manaDevourerLitrpgmanaCultivation = {
   ],
   ownProgress: 180090,
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation",
-  externalId: "89231",
 } as const satisfies StoryRead

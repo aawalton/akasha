@@ -6,7 +6,13 @@ export const salvos = {
   slug: "salvos",
   title: "Salvos",
   world: "salvos",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "37438",
+      externalLink: "https://www.royalroad.com/fiction/37438/salvos",
+    },
+  ],
   rank: "C",
   externalTags: [
     "LitRPG",
@@ -23,6 +29,4 @@ export const salvos = {
     "Magic",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/37438/salvos",
-  externalId: "37438",
 } as const satisfies StoryRead

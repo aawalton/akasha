@@ -6,7 +6,13 @@ export const thePathOfAscension = {
   slug: "the-path-of-ascension",
   title: "The Path of Ascension",
   world: "the-path-of-ascension",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "40920",
+      externalLink: "https://www.royalroad.com/fiction/40920/the-path-of-ascension",
+    },
+  ],
   author: "C_Mantis",
   rank: "A",
   following: true,
@@ -28,7 +34,5 @@ export const thePathOfAscension = {
     "Soft Sci-fi",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/40920/the-path-of-ascension",
-  externalId: "40920",
   prose: "txt",
 } as const satisfies StoryRead

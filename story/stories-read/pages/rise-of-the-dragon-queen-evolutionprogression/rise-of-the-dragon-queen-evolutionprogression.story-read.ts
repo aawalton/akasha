@@ -6,7 +6,14 @@ export const riseOfTheDragonQueenEvolutionprogression = {
   slug: "rise-of-the-dragon-queen-evolutionprogression",
   title: "Rise Of The Dragon Queen",
   world: "rise-of-the-dragon-queen-evolutionprogression",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "129546",
+      externalLink:
+        "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression",
+    },
+  ],
   rank: "C",
   externalTags: [
     "LitRPG",
@@ -23,7 +30,4 @@ export const riseOfTheDragonQueenEvolutionprogression = {
     "Strong Lead",
   ],
   unit: "words",
-  externalLink:
-    "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression",
-  externalId: "129546",
 } as const satisfies StoryRead

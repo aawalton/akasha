@@ -7,12 +7,16 @@ export const massProducedMagicLitrpgActionCrafterTech = {
   ownProgress: 141498,
   rank: "C",
   unit: "words",
-  externalId: "98671",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech",
   title: "Mass Produced Magic",
   world: "mass-produced-magic-litrpg-action-crafter-tech",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "98671",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech",
+    },
+  ],
   externalTags: [
     "LitRPG",
     "Portal Fantasy / Isekai",

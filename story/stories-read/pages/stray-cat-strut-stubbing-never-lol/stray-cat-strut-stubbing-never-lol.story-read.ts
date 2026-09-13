@@ -7,11 +7,15 @@ export const strayCatStrutStubbingNeverLol = {
   ownProgress: 10375,
   rank: "C",
   unit: "words",
-  externalId: "33600",
-  externalLink: "https://www.royalroad.com/fiction/33600/stray-cat-strut-stubbing-never-lol",
   title: "Stray Cat Strut",
   world: "stray-cat-strut-stubbing-never-lol",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "33600",
+      externalLink: "https://www.royalroad.com/fiction/33600/stray-cat-strut-stubbing-never-lol",
+    },
+  ],
   externalTags: [
     "LitRPG",
     "Progression",

@@ -6,7 +6,13 @@ export const heavenPiercingGiraffeOpMcXianxia = {
   slug: "heaven-piercing-giraffe-op-mc-xianxia",
   title: "Heaven-Piercing Giraffe",
   world: "heaven-piercing-giraffe-op-mc-xianxia",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "172357",
+      externalLink: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe",
+    },
+  ],
   author: "A4 bAnAnA",
   publicationStatus: "ongoing",
   externalTags: [
@@ -23,7 +29,5 @@ export const heavenPiercingGiraffeOpMcXianxia = {
     "Strong Lead",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe",
-  externalId: "172357",
   prose: "txt",
 } as const satisfies StoryRead

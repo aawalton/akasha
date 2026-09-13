@@ -6,12 +6,16 @@ export const blindChaosTalesBeneathTheDragoneyeMoons = {
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons",
   rank: "C",
   unit: "words",
-  externalId: "96185",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons",
   title: "Blind Chaos",
   world: "blind-chaos-tales-beneath-the-dragoneye-moons",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "96185",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons",
+    },
+  ],
   externalTags: [
     "LitRPG",
     "Reincarnation",

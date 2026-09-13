@@ -7,11 +7,15 @@ export const godOfTrash = {
   ownProgress: 23215,
   rank: "C",
   unit: "words",
-  externalId: "107252",
-  externalLink: "https://www.royalroad.com/fiction/107252/god-of-trash",
   title: "God of Trash",
   world: "god-of-trash",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "107252",
+      externalLink: "https://www.royalroad.com/fiction/107252/god-of-trash",
+    },
+  ],
   externalTags: [
     "LitRPG",
     "Portal Fantasy / Isekai",

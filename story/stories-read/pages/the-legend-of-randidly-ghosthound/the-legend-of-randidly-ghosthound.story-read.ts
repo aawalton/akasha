@@ -6,13 +6,17 @@ export const theLegendOfRandidlyGhosthound = {
   slug: "the-legend-of-randidly-ghosthound",
   title: "The Legend of Randidly Ghosthound",
   world: "the-legend-of-randidly-ghosthound",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "11209",
+      externalLink: "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound",
+    },
+  ],
   author: "puddles4263",
   rank: "C",
   following: true,
   externalTags: ["LitRPG", "Action", "Fantasy"],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound",
-  externalId: "11209",
   prose: "txt",
 } as const satisfies StoryRead

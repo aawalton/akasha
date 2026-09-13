@@ -6,7 +6,13 @@ export const chrysalis = {
   slug: "chrysalis",
   title: "Chrysalis",
   world: "chrysalis",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "22518",
+      externalLink: "https://www.royalroad.com/fiction/22518/chrysalis",
+    },
+  ],
   author: "RinoZ",
   rank: "A",
   following: true,
@@ -20,7 +26,5 @@ export const chrysalis = {
     "Magic",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/22518/chrysalis",
-  externalId: "22518",
   prose: "txt",
 } as const satisfies StoryRead

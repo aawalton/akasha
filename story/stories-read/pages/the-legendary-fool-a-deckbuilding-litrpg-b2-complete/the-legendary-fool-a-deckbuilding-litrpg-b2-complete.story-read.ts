@@ -6,7 +6,14 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete = {
   slug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   title: "The Legendary Fool",
   world: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "60890",
+      externalLink:
+        "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
+    },
+  ],
   rank: "C",
   externalTags: [
     "LitRPG",
@@ -20,7 +27,4 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete = {
     "Secret Identity",
   ],
   unit: "words",
-  externalLink:
-    "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
-  externalId: "60890",
 } as const satisfies StoryRead

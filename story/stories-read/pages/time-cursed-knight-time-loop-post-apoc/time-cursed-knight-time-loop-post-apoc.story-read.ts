@@ -6,7 +6,14 @@ export const timeCursedKnightTimeLoopPostApoc = {
   slug: "time-cursed-knight-time-loop-post-apoc",
   title: "Time Cursed Knight [Time Loop • Post Apoc]",
   world: "time-cursed-knight-time-loop-post-apoc",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "160012",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc",
+    },
+  ],
   author: "GCLopes",
   publicationStatus: "ongoing",
   externalTags: [
@@ -25,7 +32,5 @@ export const timeCursedKnightTimeLoopPostApoc = {
     "Magitech",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc",
-  externalId: "160012",
   prose: "txt",
 } as const satisfies StoryRead

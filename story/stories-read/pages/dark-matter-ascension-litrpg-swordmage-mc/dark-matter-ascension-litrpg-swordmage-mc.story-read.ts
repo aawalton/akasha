@@ -6,7 +6,14 @@ export const darkMatterAscensionLitrpgSwordmageMc = {
   slug: "dark-matter-ascension-litrpg-swordmage-mc",
   title: "Dark Matter Ascension",
   world: "dark-matter-ascension-litrpg-swordmage-mc",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "99657",
+      externalLink:
+        "https://www.royalroad.com/fiction/99657/dark-matter-ascension-litrpg-swordmage-mc",
+    },
+  ],
   rank: "C",
   externalTags: [
     "LitRPG",
@@ -33,6 +40,4 @@ export const darkMatterAscensionLitrpgSwordmageMc = {
   ],
   ownProgress: 83325,
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/99657/dark-matter-ascension-litrpg-swordmage-mc",
-  externalId: "99657",
 } as const satisfies StoryRead

@@ -6,7 +6,13 @@ export const breakerOfHorizons = {
   slug: "breaker-of-horizons",
   title: "Breaker of Horizons",
   world: "breaker-of-horizons",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "32123",
+      externalLink: "https://www.royalroad.com/fiction/32123/breaker-of-horizons",
+    },
+  ],
   rank: "C",
   externalTags: [
     "Urban Fantasy",
@@ -21,6 +27,4 @@ export const breakerOfHorizons = {
     "School Life",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/32123/breaker-of-horizons",
-  externalId: "32123",
 } as const satisfies StoryRead

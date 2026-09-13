@@ -6,11 +6,15 @@ export const phoenixAscensionCultivationLitrpg = {
   slug: "phoenix-ascension-cultivation-litrpg",
   rank: "C",
   unit: "words",
-  externalId: "129188",
-  externalLink: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg",
   title: "Phoenix Ascension",
   world: "phoenix-ascension-cultivation-litrpg",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "129188",
+      externalLink: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg",
+    },
+  ],
   externalTags: [
     "LitRPG",
     "Reincarnation",

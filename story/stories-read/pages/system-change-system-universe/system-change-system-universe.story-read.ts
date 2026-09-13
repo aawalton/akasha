@@ -6,7 +6,13 @@ export const systemChangeSystemUniverse = {
   slug: "system-change-system-universe",
   title: "System Change (System Universe)",
   world: "system-change-system-universe",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "35372",
+      externalLink: "https://www.royalroad.com/fiction/35372/system-change-system-universe",
+    },
+  ],
   author: "SunriseCV",
   rank: "B",
   following: true,
@@ -25,7 +31,5 @@ export const systemChangeSystemUniverse = {
     "Slice of Life",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/35372/system-change-system-universe",
-  externalId: "35372",
   prose: "txt",
 } as const satisfies StoryRead

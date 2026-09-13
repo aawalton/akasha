@@ -6,7 +6,13 @@ export const hellDifficultyTutorial = {
   slug: "hell-difficulty-tutorial",
   title: "Hell Difficulty Tutorial",
   world: "hell-difficulty-tutorial",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "64916",
+      externalLink: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial",
+    },
+  ],
   rank: "C",
   externalTags: [
     "LitRPG",
@@ -25,6 +31,4 @@ export const hellDifficultyTutorial = {
     "System Invasion",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial",
-  externalId: "64916",
 } as const satisfies StoryRead

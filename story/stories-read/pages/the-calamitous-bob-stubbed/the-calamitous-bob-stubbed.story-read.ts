@@ -6,7 +6,13 @@ export const theCalamitousBobStubbed = {
   slug: "the-calamitous-bob-stubbed",
   title: "The Calamitous Bob (stubbed)",
   world: "the-calamitous-bob-stubbed",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "44132",
+      externalLink: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed",
+    },
+  ],
   author: "Mecanimus",
   rank: "A",
   externalTags: [
@@ -21,7 +27,5 @@ export const theCalamitousBobStubbed = {
     "Magic",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed",
-  externalId: "44132",
   prose: "txt",
 } as const satisfies StoryRead

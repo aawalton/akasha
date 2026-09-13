@@ -6,7 +6,13 @@ export const metaworldHopecore = {
   slug: "metaworld-hopecore",
   title: "Metaworld HopeCore",
   world: "metaworld-hopecore",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "166359",
+      externalLink: "https://www.royalroad.com/fiction/166359/metaworld-hopecore",
+    },
+  ],
   author: "Wutosama",
   following: true,
   publicationStatus: "ongoing",
@@ -24,7 +30,5 @@ export const metaworldHopecore = {
     "Slice of Life",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/166359/metaworld-hopecore",
-  externalId: "166359",
   prose: "txt",
 } as const satisfies StoryRead

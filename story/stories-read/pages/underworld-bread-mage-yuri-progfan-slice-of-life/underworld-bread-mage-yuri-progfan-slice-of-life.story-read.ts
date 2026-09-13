@@ -6,7 +6,14 @@ export const underworldBreadMageYuriProgfanSliceOfLife = {
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life",
   title: "Underworld Bread Mage [Yuri, Progfan, Slice of Life]",
   world: "underworld-bread-mage-yuri-progfan-slice-of-life",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "179650",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life",
+    },
+  ],
   author: "SnowySnow",
   publicationStatus: "ongoing",
   externalTags: [
@@ -24,8 +31,5 @@ export const underworldBreadMageYuriProgfanSliceOfLife = {
     "Slice of Life",
   ],
   unit: "words",
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life",
-  externalId: "179650",
   prose: "txt",
 } as const satisfies StoryRead

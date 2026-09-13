@@ -6,7 +6,14 @@ export const fiveElementOverlordICanUpgradeEverything = {
   slug: "five-element-overlord-i-can-upgrade-everything",
   title: "Five Element Overlord: I Can Upgrade Everything!",
   world: "five-element-overlord-i-can-upgrade-everything",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "159989",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything",
+    },
+  ],
   author: "KaeNovels",
   following: true,
   publicationStatus: "ongoing",
@@ -26,8 +33,5 @@ export const fiveElementOverlordICanUpgradeEverything = {
     "Secret Identity",
   ],
   unit: "words",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything",
-  externalId: "159989",
   prose: "txt",
 } as const satisfies StoryRead

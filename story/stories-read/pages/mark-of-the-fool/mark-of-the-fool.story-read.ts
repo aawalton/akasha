@@ -6,7 +6,13 @@ export const markOfTheFool = {
   slug: "mark-of-the-fool",
   title: "Mark of the Fool",
   world: "mark-of-the-fool",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "41618",
+      externalLink: "https://www.royalroad.com/fiction/41618/mark-of-the-fool",
+    },
+  ],
   author: "J.M. Clarke (U Juggernaut)",
   rank: "B",
   externalTags: [
@@ -24,7 +30,5 @@ export const markOfTheFool = {
     "Strong Lead",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/41618/mark-of-the-fool",
-  externalId: "41618",
   prose: "txt",
 } as const satisfies StoryRead

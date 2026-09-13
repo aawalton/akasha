@@ -6,12 +6,16 @@ export const azarinthHealer = {
   slug: "azarinth-healer",
   title: "Azarinth Healer",
   world: "azarinth-healer",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "16946",
+      externalLink: "https://www.royalroad.com/fiction/16946/azarinth-healer",
+    },
+  ],
   author: "Rhaegar",
   rank: "B",
   externalTags: ["LitRPG", "Female Lead", "Action", "Adventure", "Fantasy", "Magic"],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/16946/azarinth-healer",
-  externalId: "16946",
   prose: "txt",
 } as const satisfies StoryRead

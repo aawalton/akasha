@@ -6,7 +6,13 @@ export const lightCleric = {
   slug: "light-cleric",
   title: "Light Cleric",
   world: "light-cleric",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "38443",
+      externalLink: "https://www.royalroad.com/fiction/38443/light-cleric",
+    },
+  ],
   author: "Ira Creasman",
   following: true,
   publicationStatus: "completed",
@@ -21,7 +27,5 @@ export const lightCleric = {
     "Magic",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/38443/light-cleric",
-  externalId: "38443",
   prose: "txt",
 } as const satisfies StoryRead

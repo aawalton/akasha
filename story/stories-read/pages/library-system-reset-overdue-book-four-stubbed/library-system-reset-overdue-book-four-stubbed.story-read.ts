@@ -6,7 +6,14 @@ export const librarySystemResetOverdueBookFourStubbed = {
   slug: "library-system-reset-overdue-book-four-stubbed",
   title: "Library System Reset",
   world: "library-system-reset-overdue-book-four-stubbed",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "75802",
+      externalLink:
+        "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-book-four-stubbed",
+    },
+  ],
   rank: "C",
   externalTags: [
     "LitRPG",
@@ -21,7 +28,4 @@ export const librarySystemResetOverdueBookFourStubbed = {
     "Magic",
   ],
   unit: "words",
-  externalLink:
-    "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-book-four-stubbed",
-  externalId: "75802",
 } as const satisfies StoryRead

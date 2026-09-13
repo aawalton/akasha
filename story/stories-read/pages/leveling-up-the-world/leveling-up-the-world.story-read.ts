@@ -6,12 +6,16 @@ export const levelingUpTheWorld = {
   slug: "leveling-up-the-world",
   title: "Leveling up the World",
   world: "leveling-up-the-world",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "39026",
+      externalLink: "https://www.royalroad.com/fiction/39026/leveling-up-the-world",
+    },
+  ],
   author: "Lise Eclaire",
   rank: "C",
   externalTags: ["GameLit", "Portal Fantasy / Isekai", "Male Lead", "Action", "Adventure"],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/39026/leveling-up-the-world",
-  externalId: "39026",
   prose: "txt",
 } as const satisfies StoryRead

@@ -6,7 +6,13 @@ export const hellHorizonHealer = {
   slug: "hell-horizon-healer",
   title: "Hell Horizon: Healer",
   world: "hell-horizon-healer",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "173331",
+      externalLink: "https://www.royalroad.com/fiction/173331/hell-horizon-healer",
+    },
+  ],
   author: "Freeid",
   publicationStatus: "ongoing",
   externalTags: [
@@ -26,7 +32,5 @@ export const hellHorizonHealer = {
     "Tower",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/173331/hell-horizon-healer",
-  externalId: "173331",
   prose: "txt",
 } as const satisfies StoryRead

@@ -5,11 +5,15 @@ export const bookboundBunny = {
   type: "story-read",
   slug: "bookbound-bunny",
   unit: "words",
-  externalId: "104261",
-  externalLink: "https://www.royalroad.com/fiction/104261/bookbound-bunny",
   title: "Bookbound Bunny",
   world: "bookbound-bunny",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "104261",
+      externalLink: "https://www.royalroad.com/fiction/104261/bookbound-bunny",
+    },
+  ],
   externalTags: [
     "Progression",
     "Strategy",

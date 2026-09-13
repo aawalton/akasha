@@ -6,7 +6,13 @@ export const speedrunningTheMultiverseComplete = {
   slug: "speedrunning-the-multiverse-complete",
   title: "Speedrunning the Multiverse [COMPLETE]",
   world: "speedrunning-the-multiverse-complete",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "46319",
+      externalLink: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete",
+    },
+  ],
   author: "adastra339",
   rank: "B",
   externalTags: [
@@ -20,7 +26,5 @@ export const speedrunningTheMultiverseComplete = {
     "Martial Arts",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete",
-  externalId: "46319",
   prose: "txt",
 } as const satisfies StoryRead

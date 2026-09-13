@@ -6,7 +6,13 @@ export const heWhoFightsWithMonsters = {
   slug: "he-who-fights-with-monsters",
   title: "He Who Fights With Monsters",
   world: "he-who-fights-with-monsters",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "26294",
+      externalLink: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters",
+    },
+  ],
   author: "Shirtaloon (Travis Deverell)",
   rank: "A",
   following: true,
@@ -23,7 +29,5 @@ export const heWhoFightsWithMonsters = {
     "Magic",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters",
-  externalId: "26294",
   prose: "txt",
 } as const satisfies StoryRead

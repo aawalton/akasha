@@ -6,7 +6,13 @@ export const riseOfTheLivingForge = {
   slug: "rise-of-the-living-forge",
   title: "Rise of the Living Forge",
   world: "rise-of-the-living-forge",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "79094",
+      externalLink: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge",
+    },
+  ],
   author: "Actus",
   rank: "B",
   following: true,
@@ -26,7 +32,5 @@ export const riseOfTheLivingForge = {
     "Strong Lead",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge",
-  externalId: "79094",
   prose: "txt",
 } as const satisfies StoryRead

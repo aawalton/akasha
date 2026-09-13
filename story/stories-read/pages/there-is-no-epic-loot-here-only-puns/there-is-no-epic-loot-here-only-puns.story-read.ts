@@ -7,11 +7,15 @@ export const thereIsNoEpicLootHereOnlyPuns = {
   ownProgress: 718536,
   rank: "C",
   unit: "words",
-  externalId: "15935",
-  externalLink: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns",
   title: "There is no Epic Loot here, Only Puns",
   world: "there-is-no-epic-loot-here-only-puns",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "15935",
+      externalLink: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns",
+    },
+  ],
   externalTags: [
     "LitRPG",
     "Comedy",

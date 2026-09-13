@@ -6,7 +6,13 @@ export const deathHealer = {
   slug: "death-healer",
   title: "Death Healer",
   world: "death-healer",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "115399",
+      externalLink: "https://www.royalroad.com/fiction/115399/death-healer",
+    },
+  ],
   rank: "C",
   externalTags: [
     "LitRPG",
@@ -23,6 +29,4 @@ export const deathHealer = {
   ],
   ownProgress: 151064,
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/115399/death-healer",
-  externalId: "115399",
 } as const satisfies StoryRead

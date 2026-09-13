@@ -6,7 +6,13 @@ export const gamerGirlEvolution = {
   slug: "gamer-girl-evolution",
   title: "Gamer Girl Evolution",
   world: "gamer-girl-evolution",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "130828",
+      externalLink: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution",
+    },
+  ],
   author: "Silva Sensei",
   rank: "C",
   following: true,
@@ -30,7 +36,5 @@ export const gamerGirlEvolution = {
     "Strong Lead",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution",
-  externalId: "130828",
   prose: "txt",
 } as const satisfies StoryRead

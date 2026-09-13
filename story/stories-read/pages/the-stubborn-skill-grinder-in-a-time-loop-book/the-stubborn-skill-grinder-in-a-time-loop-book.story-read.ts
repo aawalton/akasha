@@ -6,7 +6,14 @@ export const theStubbornSkillGrinderInATimeLoopBook = {
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book",
   title: "The Stubborn Skill-Grinder In A Time Loop (Book 4 Stubbed)",
   world: "the-stubborn-skill-grinder-in-a-time-loop-book",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "83294",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book",
+    },
+  ],
   author: "X-RHODEN-X",
   rank: "B",
   following: true,
@@ -23,8 +30,5 @@ export const theStubbornSkillGrinderInATimeLoopBook = {
     "Magic",
   ],
   unit: "words",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book",
-  externalId: "83294",
   prose: "txt",
 } as const satisfies StoryRead

@@ -6,11 +6,15 @@ export const delve = {
   slug: "delve",
   rank: "C",
   unit: "words",
-  externalId: "25225",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve",
   title: "Delve",
   world: "delve",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "25225",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve",
+    },
+  ],
   externalTags: [
     "LitRPG",
     "Portal Fantasy / Isekai",

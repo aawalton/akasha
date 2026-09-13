@@ -6,7 +6,14 @@ export const passiveAggressiveReversePortalInvasionLitrpg = {
   slug: "passive-aggressive-reverse-portal-invasion-litrpg",
   title: "Passive Aggressive [Reverse portal invasion LitRPG with a broken build]",
   world: "passive-aggressive-reverse-portal-invasion-litrpg",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "170563",
+      externalLink:
+        "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg",
+    },
+  ],
   author: "N Conceivable",
   following: true,
   publicationStatus: "ongoing",
@@ -24,8 +31,5 @@ export const passiveAggressiveReversePortalInvasionLitrpg = {
     "Survival",
   ],
   unit: "words",
-  externalLink:
-    "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg",
-  externalId: "170563",
   prose: "txt",
 } as const satisfies StoryRead

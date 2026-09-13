@@ -6,13 +6,17 @@ export const motherOfLearning = {
   slug: "mother-of-learning",
   title: "Mother of Learning",
   world: "mother-of-learning",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "21220",
+      externalLink: "https://www.royalroad.com/fiction/21220/mother-of-learning",
+    },
+  ],
   author: "nobody103",
   rank: "B",
   publicationStatus: "completed",
   externalTags: ["Time Loop", "Adventure", "Fantasy", "Mystery", "Magic"],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/21220/mother-of-learning",
-  externalId: "21220",
   prose: "txt",
 } as const satisfies StoryRead

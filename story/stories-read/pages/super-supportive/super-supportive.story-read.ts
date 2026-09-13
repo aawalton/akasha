@@ -6,7 +6,13 @@ export const superSupportive = {
   slug: "super-supportive",
   title: "Super Supportive",
   world: "super-supportive",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "63759",
+      externalLink: "https://www.royalroad.com/fiction/63759/super-supportive",
+    },
+  ],
   author: "Sleyca",
   following: true,
   publicationStatus: "ongoing",
@@ -24,7 +30,5 @@ export const superSupportive = {
     "Soft Sci-fi",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/63759/super-supportive",
-  externalId: "63759",
   prose: "txt",
 } as const satisfies StoryRead

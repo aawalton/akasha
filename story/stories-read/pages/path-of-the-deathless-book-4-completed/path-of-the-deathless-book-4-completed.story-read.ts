@@ -5,11 +5,16 @@ export const pathOfTheDeathlessBook4Completed = {
   type: "story-read",
   slug: "path-of-the-deathless-book-4-completed",
   unit: "words",
-  externalId: "122502",
-  externalLink: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-4-completed",
   title: "Path of The Deathless",
   world: "path-of-the-deathless-book-4-completed",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "122502",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-4-completed",
+    },
+  ],
   externalTags: [
     "LitRPG",
     "Progression",

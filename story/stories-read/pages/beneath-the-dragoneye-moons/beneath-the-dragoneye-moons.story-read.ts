@@ -6,7 +6,13 @@ export const beneathTheDragoneyeMoons = {
   slug: "beneath-the-dragoneye-moons",
   title: "Beneath the Dragoneye Moons",
   world: "beneath-the-dragoneye-moons",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "36299",
+      externalLink: "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons",
+    },
+  ],
   author: "Selkie",
   rank: "A",
   externalTags: [
@@ -26,7 +32,5 @@ export const beneathTheDragoneyeMoons = {
     "Supernatural",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons",
-  externalId: "36299",
   prose: "txt",
 } as const satisfies StoryRead

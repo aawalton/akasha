@@ -6,7 +6,13 @@ export const newGam3Plus = {
   slug: "new-gam3-plus",
   title: "New Gam3 Plus",
   world: "new-gam3-plus",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "45382",
+      externalLink: "https://www.royalroad.com/fiction/45382/new-gam3-plus",
+    },
+  ],
   author: "Ephemerality",
   following: true,
   externalTags: [
@@ -23,7 +29,5 @@ export const newGam3Plus = {
     "Technologically Engineered",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/45382/new-gam3-plus",
-  externalId: "45382",
   prose: "txt",
 } as const satisfies StoryRead

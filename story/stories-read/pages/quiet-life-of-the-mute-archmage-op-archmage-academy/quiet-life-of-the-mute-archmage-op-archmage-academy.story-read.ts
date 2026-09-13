@@ -6,12 +6,16 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy = {
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   author: "P_Magno",
   unit: "words",
-  externalId: "167476",
-  externalLink:
-    "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy",
   title: "Quiet Life Of The Mute Archmage (OP Archmage/ Academy/ XianXia/ LITRPG/ Mute MC)",
   world: "quiet-life-of-the-mute-archmage-op-archmage-academy",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "167476",
+      externalLink:
+        "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy",
+    },
+  ],
   externalTags: [
     "LitRPG",
     "Progression",

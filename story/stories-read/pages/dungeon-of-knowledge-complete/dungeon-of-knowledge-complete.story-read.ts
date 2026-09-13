@@ -6,7 +6,13 @@ export const dungeonOfKnowledgeComplete = {
   slug: "dungeon-of-knowledge-complete",
   title: "Dungeon of Knowledge [Complete]",
   world: "dungeon-of-knowledge-complete",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "80744",
+      externalLink: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete",
+    },
+  ],
   author: "timewalk",
   rank: "A",
   following: true,
@@ -27,7 +33,5 @@ export const dungeonOfKnowledgeComplete = {
     "Non-Human Lead",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete",
-  externalId: "80744",
   prose: "txt",
 } as const satisfies StoryRead

@@ -6,7 +6,13 @@ export const sylASlimeMonsterEvolutionLitrpg = {
   slug: "syl-a-slime-monster-evolution-litrpg",
   title: "Syl [A Slime Monster Evolution LitRPG]",
   world: "syl-a-slime-monster-evolution-litrpg",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "77972",
+      externalLink: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg",
+    },
+  ],
   author: "Lunadea",
   rank: "B",
   following: true,
@@ -26,7 +32,5 @@ export const sylASlimeMonsterEvolutionLitrpg = {
     "Strong Lead",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg",
-  externalId: "77972",
   prose: "txt",
 } as const satisfies StoryRead

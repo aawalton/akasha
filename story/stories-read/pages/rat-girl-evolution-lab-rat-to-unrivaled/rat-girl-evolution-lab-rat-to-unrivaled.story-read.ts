@@ -6,7 +6,14 @@ export const ratGirlEvolutionLabRatToUnrivaled = {
   slug: "rat-girl-evolution-lab-rat-to-unrivaled",
   title: "Rat Girl Evolution",
   world: "rat-girl-evolution-lab-rat-to-unrivaled",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "131412",
+      externalLink:
+        "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled",
+    },
+  ],
   rank: "C",
   externalTags: [
     "LitRPG",
@@ -26,6 +33,4 @@ export const ratGirlEvolutionLabRatToUnrivaled = {
     "Technologically Engineered",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled",
-  externalId: "131412",
 } as const satisfies StoryRead

@@ -7,7 +7,14 @@ export const sovereignSightProgressionFantasyCultivation = {
   title:
     "Sovereign Sight [Progression Fantasy, Cultivation, Clever Strategist, High Perception MC]",
   world: "sovereign-sight-progression-fantasy-cultivation",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "171595",
+      externalLink:
+        "https://www.royalroad.com/fiction/171595/sovereign-sight-progression-fantasy-cultivation",
+    },
+  ],
   author: "Nicoli Gonnella",
   publicationStatus: "ongoing",
   externalTags: [
@@ -20,8 +27,5 @@ export const sovereignSightProgressionFantasyCultivation = {
     "Fantasy",
   ],
   unit: "words",
-  externalLink:
-    "https://www.royalroad.com/fiction/171595/sovereign-sight-progression-fantasy-cultivation",
-  externalId: "171595",
   prose: "txt",
 } as const satisfies StoryRead

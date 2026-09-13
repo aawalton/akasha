@@ -6,7 +6,14 @@ export const crimsonEternalAnImmortalDeathMageLitrpg = {
   slug: "crimson-eternal-an-immortal-death-mage-litrpg",
   title: "Crimson Eternal: An Immortal Death Mage LitRPG Apocalypse (Book 1 Stubbing in October)",
   world: "crimson-eternal-an-immortal-death-mage-litrpg",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "79141",
+      externalLink:
+        "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg",
+    },
+  ],
   author: "WolfShine",
   rank: "C",
   following: true,
@@ -26,8 +33,5 @@ export const crimsonEternalAnImmortalDeathMageLitrpg = {
     "System Invasion",
   ],
   unit: "words",
-  externalLink:
-    "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg",
-  externalId: "79141",
   prose: "txt",
 } as const satisfies StoryRead

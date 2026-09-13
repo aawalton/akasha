@@ -6,7 +6,13 @@ export const rockFallsEveryoneDies = {
   slug: "rock-falls-everyone-dies",
   title: "Rock falls, everyone dies",
   world: "rock-falls-everyone-dies",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "55418",
+      externalLink: "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies",
+    },
+  ],
   author: "zechamp",
   rank: "C",
   publicationStatus: "completed",
@@ -25,7 +31,5 @@ export const rockFallsEveryoneDies = {
     "Villainous Lead",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies",
-  externalId: "55418",
   prose: "txt",
 } as const satisfies StoryRead

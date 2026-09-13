@@ -6,7 +6,13 @@ export const defianceOfTheFall = {
   slug: "defiance-of-the-fall",
   title: "Defiance of the Fall",
   world: "defiance-of-the-fall",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "24709",
+      externalLink: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall",
+    },
+  ],
   rank: "C",
   externalTags: [
     "LitRPG",
@@ -22,6 +28,4 @@ export const defianceOfTheFall = {
     "Supernatural",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall",
-  externalId: "24709",
 } as const satisfies StoryRead

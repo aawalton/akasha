@@ -6,7 +6,13 @@ export const shapeshifterANonHumanLitrpg = {
   slug: "shapeshifter-a-non-human-litrpg",
   title: "\\nFaceless Hunter",
   world: "shapeshifter-a-non-human-litrpg",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "123277",
+      externalLink: "https://www.royalroad.com/fiction/123277/shapeshifter-a-non-human-litrpg",
+    },
+  ],
   rank: "C",
   externalTags: [
     "LitRPG",
@@ -30,6 +36,4 @@ export const shapeshifterANonHumanLitrpg = {
     "Survival",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/123277/shapeshifter-a-non-human-litrpg",
-  externalId: "123277",
 } as const satisfies StoryRead

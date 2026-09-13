@@ -6,7 +6,13 @@ export const bewareOfChicken = {
   slug: "beware-of-chicken",
   title: "Beware Of Chicken",
   world: "beware-of-chicken",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "39408",
+      externalLink: "https://www.royalroad.com/fiction/39408/beware-of-chicken",
+    },
+  ],
   author: "Casualfarmer",
   rank: "A",
   following: true,
@@ -22,7 +28,5 @@ export const bewareOfChicken = {
     "Romance Subplot",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/39408/beware-of-chicken",
-  externalId: "39408",
   prose: "txt",
 } as const satisfies StoryRead

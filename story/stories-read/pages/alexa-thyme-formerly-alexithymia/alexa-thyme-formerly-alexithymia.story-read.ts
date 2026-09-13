@@ -6,7 +6,13 @@ export const alexaThymeFormerlyAlexithymia = {
   slug: "alexa-thyme-formerly-alexithymia",
   title: "Alexa Thyme (Formerly ALEXiThymiA)",
   world: "alexa-thyme-formerly-alexithymia",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "60450",
+      externalLink: "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia",
+    },
+  ],
   author: "Lykanthropy",
   following: true,
   externalTags: [
@@ -20,7 +26,5 @@ export const alexaThymeFormerlyAlexithymia = {
     "Dungeon Crawler",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia",
-  externalId: "60450",
   prose: "txt",
 } as const satisfies StoryRead

@@ -6,7 +6,14 @@ export const delverDungeonDivingAndMagicLitrpg = {
   slug: "delver-dungeon-diving-and-magic-litrpg",
   title: "Delver [Dungeon Diving and Magic LitRPG]",
   world: "delver-dungeon-diving-and-magic-litrpg",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "169341",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg",
+    },
+  ],
   author: "Corwin Benedict",
   publicationStatus: "ongoing",
   externalTags: [
@@ -23,7 +30,5 @@ export const delverDungeonDivingAndMagicLitrpg = {
     "Mythos",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg",
-  externalId: "169341",
   prose: "txt",
 } as const satisfies StoryRead

@@ -6,7 +6,13 @@ export const arkendrithyst = {
   slug: "arkendrithyst",
   title: "Ar'Kendrithyst",
   world: "arkendrithyst",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "26727",
+      externalLink: "https://www.royalroad.com/fiction/26727/arkendrithyst",
+    },
+  ],
   author: "Arcs",
   rank: "C",
   publicationStatus: "completed",
@@ -20,7 +26,5 @@ export const arkendrithyst = {
     "Magic",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/26727/arkendrithyst",
-  externalId: "26727",
   prose: "txt",
 } as const satisfies StoryRead

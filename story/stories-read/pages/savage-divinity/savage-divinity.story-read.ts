@@ -7,11 +7,15 @@ export const savageDivinity = {
   ownProgress: 495270,
   rank: "C",
   unit: "words",
-  externalId: "5701",
-  externalLink: "https://www.royalroad.com/fiction/5701/savage-divinity",
   title: "Savage Divinity",
   world: "savage-divinity",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "5701",
+      externalLink: "https://www.royalroad.com/fiction/5701/savage-divinity",
+    },
+  ],
   externalTags: [
     "Martial Arts",
     "Slice of Life",

@@ -6,7 +6,14 @@ export const myLordPleaseACharacterDrivenKingdomBuilding = {
   slug: "my-lord-please-a-character-driven-kingdom-building",
   title: "My Lord! Please! (A Character Driven Kingdom Building Novel)",
   world: "my-lord-please-a-character-driven-kingdom-building",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "159068",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building",
+    },
+  ],
   author: "Animas",
   publicationStatus: "ongoing",
   externalTags: [
@@ -23,8 +30,5 @@ export const myLordPleaseACharacterDrivenKingdomBuilding = {
     "Strategy",
   ],
   unit: "words",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building",
-  externalId: "159068",
   prose: "txt",
 } as const satisfies StoryRead

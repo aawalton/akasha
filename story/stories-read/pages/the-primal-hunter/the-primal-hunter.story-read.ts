@@ -6,7 +6,13 @@ export const thePrimalHunter = {
   slug: "the-primal-hunter",
   title: "The Primal Hunter",
   world: "the-primal-hunter",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "36049",
+      externalLink: "https://www.royalroad.com/fiction/36049/the-primal-hunter",
+    },
+  ],
   author: "Zogarth",
   rank: "B",
   following: true,
@@ -28,7 +34,5 @@ export const thePrimalHunter = {
     "Supernatural",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/36049/the-primal-hunter",
-  externalId: "36049",
   prose: "txt",
 } as const satisfies StoryRead

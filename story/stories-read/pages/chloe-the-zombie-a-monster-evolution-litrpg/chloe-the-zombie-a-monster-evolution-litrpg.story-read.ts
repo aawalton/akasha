@@ -6,12 +6,16 @@ export const chloeTheZombieAMonsterEvolutionLitrpg = {
   slug: "chloe-the-zombie-a-monster-evolution-litrpg",
   rank: "C",
   unit: "words",
-  externalId: "129189",
-  externalLink:
-    "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg",
   title: "Chloe the Zombie",
   world: "chloe-the-zombie-a-monster-evolution-litrpg",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "129189",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg",
+    },
+  ],
   externalTags: [
     "LitRPG",
     "Progression",

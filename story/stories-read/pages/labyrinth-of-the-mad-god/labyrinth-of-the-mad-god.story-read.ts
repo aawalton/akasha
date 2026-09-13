@@ -6,7 +6,13 @@ export const labyrinthOfTheMadGod = {
   slug: "labyrinth-of-the-mad-god",
   title: "Labyrinth of the Mad God",
   world: "labyrinth-of-the-mad-god",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "73673",
+      externalLink: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god",
+    },
+  ],
   rank: "C",
   externalTags: [
     "LitRPG",
@@ -27,6 +33,4 @@ export const labyrinthOfTheMadGod = {
   ],
   ownProgress: 103604,
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god",
-  externalId: "73673",
 } as const satisfies StoryRead

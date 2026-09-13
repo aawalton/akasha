@@ -6,12 +6,16 @@ export const systemGirlSystemMcWorldHoppingComedy = {
   slug: "system-girl-system-mc-world-hopping-comedy",
   rank: "C",
   unit: "words",
-  externalId: "131265",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy",
   title: "System Girl",
   world: "system-girl-system-mc-world-hopping-comedy",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "131265",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy",
+    },
+  ],
   externalTags: [
     "LitRPG",
     "Portal Fantasy / Isekai",

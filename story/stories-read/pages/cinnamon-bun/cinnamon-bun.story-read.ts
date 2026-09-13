@@ -7,11 +7,15 @@ export const cinnamonBun = {
   ownProgress: 746879,
   rank: "C",
   unit: "words",
-  externalId: "31429",
-  externalLink: "https://www.royalroad.com/fiction/31429/cinnamon-bun",
   title: "Cinnamon Bun",
   world: "cinnamon-bun",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "31429",
+      externalLink: "https://www.royalroad.com/fiction/31429/cinnamon-bun",
+    },
+  ],
   externalTags: [
     "LitRPG",
     "Portal Fantasy / Isekai",

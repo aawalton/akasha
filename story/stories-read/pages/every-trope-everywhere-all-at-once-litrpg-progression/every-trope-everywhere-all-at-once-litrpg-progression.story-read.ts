@@ -6,7 +6,14 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression = {
   slug: "every-trope-everywhere-all-at-once-litrpg-progression",
   title: "Every Trope Everywhere All At Once [LitRPG, Progression, Comedy, Adventure]",
   world: "every-trope-everywhere-all-at-once-litrpg-progression",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "166757",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression",
+    },
+  ],
   author: "WritingMonocle",
   publicationStatus: "ongoing",
   externalTags: [
@@ -24,8 +31,5 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression = {
     "Strong Lead",
   ],
   unit: "words",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression",
-  externalId: "166757",
   prose: "txt",
 } as const satisfies StoryRead

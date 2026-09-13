@@ -6,7 +6,13 @@ export const hellHoundEvolutionLitrpg = {
   slug: "hell-hound-evolution-litrpg",
   title: "Hell Hound Evolution",
   world: "hell-hound-evolution-litrpg",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "129179",
+      externalLink: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-litrpg",
+    },
+  ],
   rank: "C",
   externalTags: [
     "LitRPG",
@@ -36,6 +42,4 @@ export const hellHoundEvolutionLitrpg = {
     "Villainous Lead",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-litrpg",
-  externalId: "129179",
 } as const satisfies StoryRead

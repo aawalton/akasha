@@ -6,7 +6,13 @@ export const theGiftOfLoot = {
   slug: "the-gift-of-loot",
   title: "The Gift of Loot",
   world: "the-gift-of-loot",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "160377",
+      externalLink: "https://www.royalroad.com/fiction/160377/the-gift-of-loot",
+    },
+  ],
   author: "Jack_Golightly",
   following: true,
   publicationStatus: "ongoing",
@@ -26,7 +32,5 @@ export const theGiftOfLoot = {
     "System Invasion",
   ],
   unit: "words",
-  externalLink: "https://www.royalroad.com/fiction/160377/the-gift-of-loot",
-  externalId: "160377",
   prose: "txt",
 } as const satisfies StoryRead

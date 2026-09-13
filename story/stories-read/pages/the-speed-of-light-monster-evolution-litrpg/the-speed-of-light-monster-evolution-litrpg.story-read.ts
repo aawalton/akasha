@@ -6,7 +6,14 @@ export const theSpeedOfLightMonsterEvolutionLitrpg = {
   slug: "the-speed-of-light-monster-evolution-litrpg",
   title: "The Speed of Light",
   world: "the-speed-of-light-monster-evolution-litrpg",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "129181",
+      externalLink:
+        "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg",
+    },
+  ],
   rank: "C",
   externalTags: [
     "LitRPG",
@@ -25,7 +32,4 @@ export const theSpeedOfLightMonsterEvolutionLitrpg = {
     "Strong Lead",
   ],
   unit: "words",
-  externalLink:
-    "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg",
-  externalId: "129181",
 } as const satisfies StoryRead

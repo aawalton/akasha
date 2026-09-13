@@ -6,11 +6,15 @@ export const catGirlEvolution = {
   slug: "cat-girl-evolution",
   rank: "C",
   unit: "words",
-  externalId: "129180",
-  externalLink: "https://www.royalroad.com/fiction/129180/cat-girl-evolution",
   title: "Cat Girl Evolution",
   world: "cat-girl-evolution",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "129180",
+      externalLink: "https://www.royalroad.com/fiction/129180/cat-girl-evolution",
+    },
+  ],
   externalTags: [
     "LitRPG",
     "Portal Fantasy / Isekai",
