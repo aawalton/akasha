@@ -6,7 +6,10 @@ import {
 import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import { bodiesIn, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { worldOfType } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
-import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
+import {
+  listing,
+  running,
+} from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 
 const ONE_AT = "alan/books/one.book-section.ts"
@@ -173,8 +176,16 @@ test("a key the pages' type requires is refused rather than taken away", async (
   })
 
   expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toContain(ONE_AT)
-  expect(said.refused ?? "").toContain("is required, so taking it away is a retype")
+  expect(said.refused).toBe("a `book-section` requires `slug`, so taking it away is a retype")
+})
+
+test("the one change reached is the mechanical change acting on a page type", async () => {
+  const seen: string[] = []
+  const world = worldOfType("book-section", BODIES, [DECLARED], new Map(), listing(seen))
+
+  await removePropertyFromEveryPage(world, { pageType: "book-section", key: "sectionOfSlug" })
+
+  expect(seen).toEqual(["change-mechanical-page-type/remove-property-from-every-page"])
 })
 
 test("an argument this change was handed no value for is refused by the key", async () => {

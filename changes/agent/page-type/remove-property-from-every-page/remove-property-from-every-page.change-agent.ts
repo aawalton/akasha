@@ -36,31 +36,31 @@ export const removePropertyFromEveryPage = {
     },
     {
       invariantKind: "departure",
+      statement: "A key the page type requires is refused rather than taken away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page holding no such key is passed over rather than written.",
+    },
+    {
+      invariantKind: "departure",
       statement: "One page refused refuses the whole change.",
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the page that drew the refusal.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Each page is reached over the edits the pages before it left.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Taking the key out is left to the mechanical change taking one key away.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Whether a required key may go at all is left to that mechanical change.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page holding no such key is passed over rather than reached at all.",
+      statement: "A refusal over a page names that page.",
     },
     {
       invariantKind: "departure",
       statement: "A key mistyped is caught here by no page of that page type holding the key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The edits are worked out by the change reached.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That change acts on a page type, as this one does.",
     },
     {
       invariantKind: "departure",
@@ -73,6 +73,10 @@ export const removePropertyFromEveryPage = {
     {
       invariantKind: "absence",
       statement: "Nothing here reads a page's own body.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads the index.",
     },
   ],
   changeKind: "change-checked",
