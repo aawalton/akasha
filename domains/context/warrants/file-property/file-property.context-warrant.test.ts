@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { blobIdOf, recordRead } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import {
   knowingIn,
-  unreadIn,
+  owedIn,
   type Warrant,
 } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import {
@@ -220,7 +220,7 @@ test("a property not read is refused, and the refusal says the property is owed"
   const every = statingWorld(root)
   const oid = stating(root, PATH, ["id", "pageTypeSlug", "slug", "definition"])
   recordRead(root, AGENT, { path: PATH, oid, seenAt: 1, carriedOid: null })
-  const said = unreadIn(root, AGENT, [PATH])
+  const said = owedIn(root, AGENT, [PATH])
   expect(said.length).toBe(every.length)
   expect(said[0]).toContain(PROPERTY)
 })

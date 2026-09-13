@@ -332,16 +332,6 @@ function unreadOwing(
   return said
 }
 
-export function unreadIn(
-  root: string,
-  agentId: string | null,
-  paths: readonly string[],
-  changing?: Changing
-): readonly string[] {
-  if (agentId === null) return [NO_AGENT]
-  return heldTo(root, agentId, termFirst(unreadOwing(root, agentId, paths, changing)))
-}
-
 export function seatPathOf(root: string, agentId: string): string | null {
   const listed = listedById(root, agentId)
   if (listed === null) return null
@@ -370,11 +360,6 @@ function unheldOwing(root: string, agentId: string): readonly Owing[] {
   const page = agentPathOf(root, agentId)
   if (page === null) return []
   return owingOf(root, agentId, warrantsIn(root, page, "write", knowingIn(root)), new Set([page]))
-}
-
-export function unheldIn(root: string, agentId: string | null): readonly string[] {
-  if (agentId === null) return []
-  return heldTo(root, agentId, termFirst(unheldOwing(root, agentId)))
 }
 
 export function owedIn(

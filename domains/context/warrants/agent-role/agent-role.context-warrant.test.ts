@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { blobIdOf, recordRead } from "akasha/agents/modules/read-record/read-record.module.code.ts"
-import { unreadIn } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
+import { owedIn } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import {
   domainListed,
   pageTypeListed,
@@ -90,7 +90,7 @@ test("a role page type not read is refused, and the refusal says why it is owed"
   const held = pageTypeListed(root, "role", ["domain"])
   const oid = writing(root, SUB_AT, SUB_BODY)
   recordRead(root, AGENT, { path: SUB_AT, oid, seenAt: 1, carriedOid: null })
-  const said = unreadIn(root, AGENT, [SUB_AT])
+  const said = owedIn(root, AGENT, [SUB_AT])
   expect(said.length).toBe(1)
   expect(said[0]).toContain(ROLE_TYPE)
   expect(said[0]).toContain(held)

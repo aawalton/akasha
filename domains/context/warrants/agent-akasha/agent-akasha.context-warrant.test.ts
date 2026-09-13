@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { blobIdOf, recordRead } from "akasha/agents/modules/read-record/read-record.module.code.ts"
-import { unreadIn } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
+import { owedIn } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import {
   domainListed,
   pathsOf,
@@ -88,7 +88,7 @@ test("an akasha domain not read is refused, and the refusal says why it is owed"
   const at = seatListed(root, "one", STATED)
   const oid = writing(root, at, `export const one = { ${STATED} }\n`)
   recordRead(root, AGENT, { path: at, oid, seenAt: 1, carriedOid: null })
-  const said = unreadIn(root, AGENT, [at])
+  const said = owedIn(root, AGENT, [at])
   expect(said.length).toBe(1)
   expect(said[0]).toContain(AKASHA)
   expect(said[0]).toContain(held.path)

@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { blobIdOf, recordRead } from "akasha/agents/modules/read-record/read-record.module.code.ts"
-import { unreadIn } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
+import { owedIn } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import {
   domainListed,
   type Listed,
@@ -141,7 +141,7 @@ test("a naming page not read is refused, and the refusal says why it is owed", (
   namesPart(root, whole, part)
   const oid = writing(root, part.path, "one\n")
   recordRead(root, AGENT, { path: part.path, oid, seenAt: 1, carriedOid: null })
-  const said = unreadIn(root, AGENT, [part.path])
+  const said = owedIn(root, AGENT, [part.path])
   expect(said.length).toBe(1)
   expect(said[0]).toContain(WHOLE)
   expect(said[0]).toContain(whole.path)

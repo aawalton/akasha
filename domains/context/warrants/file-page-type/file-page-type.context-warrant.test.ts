@@ -5,7 +5,7 @@ import { blobIdOf, recordRead } from "akasha/agents/modules/read-record/read-rec
 import { agentPaged } from "akasha/agents/modules/read-record/read-record.module.test-fixtures.ts"
 import {
   knowingIn,
-  unreadIn,
+  owedIn,
   type Warrant,
 } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import {
@@ -117,7 +117,7 @@ test("a type not read is refused, and the refusal says the type is owed", () => 
   typeWorld(root)
   const oid = writing(root, PATH, "one\n")
   recordRead(root, AGENT, { path: PATH, oid, seenAt: 1, carriedOid: null })
-  const said = unreadIn(root, AGENT, [PATH])
+  const said = owedIn(root, AGENT, [PATH])
   expect(said.length).toBe(1)
   expect(said[0]).toContain(TYPE)
 })
@@ -136,5 +136,5 @@ test("one reading of a type answers for every path of that type", () => {
       carriedOid: null,
     })
   }
-  expect(unreadIn(root, AGENT, [PATH, other]).length).toBe(1)
+  expect(owedIn(root, AGENT, [PATH, other]).length).toBe(1)
 })
