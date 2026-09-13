@@ -4,7 +4,7 @@ import type {
   Marking,
   Refusal,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
-import { lineOf } from "akasha/code/reading/modules/source/code-source.module.code.ts"
+import { lineOf } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import ts from "typescript"
 
 export type Word = string | null

@@ -1,4 +1,4 @@
-import { parsedAs } from "akasha/code/reading/modules/source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import {
   exportedAs,
   typedAs,

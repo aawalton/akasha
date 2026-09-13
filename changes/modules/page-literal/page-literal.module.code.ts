@@ -1,4 +1,7 @@
-import { exported, literalOf } from "akasha/code/reading/modules/source/code-source.module.code.ts"
+import {
+  exported,
+  literalOf,
+} from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import ts from "typescript"
 

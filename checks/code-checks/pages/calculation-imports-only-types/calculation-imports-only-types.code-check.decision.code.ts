@@ -1,4 +1,7 @@
-import { lineOf, parsedAs } from "akasha/code/reading/modules/source/code-source.module.code.ts"
+import {
+  lineOf,
+  parsedAs,
+} from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import ts from "typescript"
 
 const CALCULATED = ".computed-property.code.ts"

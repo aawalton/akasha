@@ -17,7 +17,10 @@ import {
   refusingAt,
   worldOf,
 } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
-import { faultSaid, parsedAs } from "akasha/code/reading/modules/source/code-source.module.code.ts"
+import {
+  faultSaid,
+  parsedAs,
+} from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 
 const KIND = "computed-property"
 

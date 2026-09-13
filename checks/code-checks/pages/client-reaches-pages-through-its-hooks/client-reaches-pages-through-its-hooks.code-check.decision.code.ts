@@ -1,6 +1,9 @@
 import { join } from "node:path"
+import {
+  lineOf,
+  parsedAs,
+} from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { landingOf } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
-import { lineOf, parsedAs } from "akasha/code/reading/modules/source/code-source.module.code.ts"
 import { calledIn } from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
 import ts from "typescript"
 

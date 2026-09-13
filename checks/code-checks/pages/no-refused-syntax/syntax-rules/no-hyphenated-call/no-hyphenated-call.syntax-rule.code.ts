@@ -6,7 +6,7 @@ import type {
 import {
   lineOf,
   literalPartIn,
-} from "akasha/code/reading/modules/source/code-source.module.code.ts"
+} from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { type Naming, pathOf } from "akasha/commands/modules/walking/command-walking.module.code.ts"
 import ts from "typescript"
 

@@ -1,5 +1,8 @@
 import { join } from "node:path"
-import { lineOf, parsedAs } from "akasha/code/reading/modules/source/code-source.module.code.ts"
+import {
+  lineOf,
+  parsedAs,
+} from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { makeSentence } from "akasha/domains/plain-language/modules/dependency-graph/dependency-graph.module.code.ts"
 import { loadParser } from "akasha/domains/plain-language/modules/onnx-parsing/onnx-parsing.module.code.ts"
 import type { ShapePredicate } from "akasha/domains/plain-language/modules/shape-predicate/shape-predicate.module.code.ts"

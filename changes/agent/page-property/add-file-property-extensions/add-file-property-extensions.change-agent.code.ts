@@ -7,7 +7,7 @@ import {
   reach,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { parsedAs } from "akasha/code/reading/modules/source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { typedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import ts from "typescript"
