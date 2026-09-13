@@ -23,6 +23,11 @@ export const emberInventoryRules = {
       workingMemory:
         "Alan asked for batches of fifty five seconds apart, and 6db0e2e batches inventory-rules-dispatch-bank-paced that way, carrying an unlanded move forward up to four attempts. e136999 then takes the per-visit count of fifty off both loops: a visit withdraws until the configured backpack buffer or a full backpack, deposits until storage has no room, and each prints on stopping. 1edea38 says what a closed bank left unsent. Left: Alan to confirm one trip does it.",
     },
+    {
+      statement: "An Experience Commendation the character carries reaches the bank.",
+      workingMemory:
+        "Alan handed the link for Major Experience Commendation (224714, scrolls) and asked for Move to Bank for now. fe8bd926 is that rule: scrolls whose name holds `commendation`, non-stolen, to bank. 298663dd narrows the automation cascade from `experience` to `experience scroll`, so a commendation is no longer claimed as a scroll. Left: fe8bd926 sits behind 263273e9, which takes every non-stolen scroll, and `rule reorder` runs past its 120s ceiling.",
+    },
   ],
   constraints: [
     "The rules are compiled outside the game, so a fix reaches the game only once the addon is built and deployed.",
