@@ -42,6 +42,14 @@ export const unitLanding = {
     },
     {
       invariantKind: "departure",
+      statement: "A unit naming a path that tree has not got is left as the installed one is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The deploy that moves the tree writes that unit, so the two move together.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A systemctl that refuses is said as wrong rather than thrown.",
     },
     {

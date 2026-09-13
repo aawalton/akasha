@@ -37,6 +37,18 @@ export type Weighing = {
 
 const NOTHING_WEIGHED: Weighing = { drifts: [], wrong: [] }
 
+const QUOTED = /^['"]+|['"]+$/g
+
+export function treeHolds(text: string, under: string): boolean {
+  if (under === "") return true
+  for (const word of text.split(/\s+/)) {
+    const at = word.replace(QUOTED, "")
+    if (!at.startsWith(under)) continue
+    if (!existsSync(at)) return false
+  }
+  return true
+}
+
 export function installedText(home: string, unit: string): string | null {
   const at = join(stagingDir(home), unit)
   if (!existsSync(at)) return null
@@ -69,6 +81,7 @@ export function weighedIn(root: string, home: string): Weighing {
     for (const [unit, text] of textFor(one)) {
       if (!owned.has(unit)) continue
       if (installedText(home, unit) === text) continue
+      if (!treeHolds(text, under)) continue
       drifts.push({ unit, page: one.pagePath, text })
     }
   }

@@ -1,10 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { readFileSync } from "node:fs"
+import { readFileSync, writeFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
 import {
   installedText,
   landedOver,
+  treeHolds,
   treeInstalled,
   unitsLanded,
   type Weighing,
@@ -104,6 +105,16 @@ test("the tree the installed units name is the tree the runs are spelled under",
   expect(treeInstalled(plain, [UNIT], at)).toBe("")
   expect(treeInstalled(plain, [UNIT], null)).toBe("")
   expect(treeInstalled(pinned, [UNIT], at)).toBe(at)
+})
+
+test("a unit naming a path the tree has not got is left as the installed one is", () => {
+  const under = rooted()
+  const held = join(under, "one.ts")
+  writeFileSync(held, "")
+
+  expect(treeHolds(without(WAS, "bun one.ts", `bun ${held}`), under)).toBe(true)
+  expect(treeHolds(without(WAS, "bun one.ts", `bun ${join(under, "gone.ts")}`), under)).toBe(false)
+  expect(treeHolds(WAS, "")).toBe(true)
 })
 
 test("no unit of akasha's installed is nothing weighed and nothing asked of systemd", () => {
