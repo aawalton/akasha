@@ -8,15 +8,6 @@ export const amyHarnessImprovements = {
   persona: "amy",
   intents: [
     {
-      statement: "alanwalton.com has no nav item other than Tasks and Temper Tasks.",
-    },
-    {
-      statement: "alanwalton.com has no view other than the views of Tasks and Temper Tasks.",
-    },
-    {
-      statement: "Temper Tasks has no All view.",
-    },
-    {
       statement: "A subagent is stopped from the agents panel, as a seat is.",
     },
     {
