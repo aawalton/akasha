@@ -10,7 +10,7 @@ export const emberInventoryRules = {
     {
       statement: "A merchant or a banker opens without a wait Alan notices.",
       workingMemory:
-        "Optimization, not regression. cf2ac8b stops a rule run at the first match and took the open handler from 3559ms to about 950ms. What is left divides as scanBankBags 50ms, the item browser refresh 208-403ms, and the withdraw phase 470-585ms, which judges every bank item to withdraw none. Never cache a slot's verdict across the three runs over the bank: the first locks the slot it judged, so the second must judge it afresh, and a cache would withdraw every lockable item.",
+        "cf2ac8b stops a rule run at the first match; 0e0adca deletes a second whole judgement of every bank slot inside the withdraw sweep. evaluateRules n=695 is exactly backpack 215 plus bank 240 plus 240, so the counts name the walks. refreshPanel 208-403ms is the bank action panel, not the item browser, and is a third full walk of both bank bags to render one summary line. Never cache a slot's verdict across sweeps: the first locks the slot it judged, so the second must judge it afresh.",
     },
     {
       statement: "A banker stacks what the bags hold that will stack.",
