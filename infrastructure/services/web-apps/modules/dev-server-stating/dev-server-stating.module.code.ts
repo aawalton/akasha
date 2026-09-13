@@ -2,7 +2,11 @@ import type { Dirent } from "node:fs"
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import {
+  listedAt,
+  slugsOfType,
+  valueByPath,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   numberAt,
   textAt,
@@ -45,8 +49,6 @@ export interface DevServerApp {
 
 const WEB_APP = "web-app"
 
-const SLUG = "slug"
-
 const SOURCE_DIRECTORY = "sourceDirectory"
 
 const BASE_PORT = "basePort"
@@ -59,22 +61,20 @@ type Stated = {
   readonly secretResource: string | null
 }
 
-function statedIn(root: string): ReadonlyMap<string, Stated> {
-  const found = new Map<string, Stated>()
-  for (const one of valuesOfType(root, WEB_APP)) {
-    const slug = textAt(one.value, SLUG)
-    if (slug === null) continue
-    found.set(slug, {
-      packagePath: textAt(one.value, SOURCE_DIRECTORY),
-      basePort: numberAt(one.value, BASE_PORT),
-      secretResource: textAt(one.value, SECRET_RESOURCE),
-    })
+function statedAt(root: string, slug: string): Stated | null {
+  const listed = listedAt(root, WEB_APP, slug)[0]
+  if (listed === undefined) return null
+  const value = valueByPath(root, listed.path)
+  if (value === null) return null
+  return {
+    packagePath: textAt(value, SOURCE_DIRECTORY),
+    basePort: numberAt(value, BASE_PORT),
+    secretResource: textAt(value, SECRET_RESOURCE),
   }
-  return found
 }
 
 export function appNamesIn(root: string): readonly string[] {
-  return [...statedIn(root).keys()].sort()
+  return slugsOfType(root, WEB_APP)
 }
 
 export function namingApps(
@@ -87,11 +87,9 @@ export function namingApps(
 }
 
 export function lookupApp(root: string, name: string): DevServerApp {
-  const stated = statedIn(root)
-  const said = stated.get(name)
-  if (said === undefined) {
-    const known = [...stated.keys()].sort().join(", ")
-    throw new InputError(`unknown app: ${name} (known: ${known})`)
+  const said = statedAt(root, name)
+  if (said === null) {
+    throw new InputError(`unknown app: ${name} (known: ${appNamesIn(root).join(", ")})`)
   }
   if (said.packagePath === null) {
     throw new InputError(`${name} states no source directory, so nothing says what a server runs`)
