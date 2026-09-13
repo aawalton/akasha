@@ -7,8 +7,12 @@ export const unknownSeries22 = {
   title: "Unknown Series",
   status: "following",
   unit: "words",
-  source: "kindle",
-  externalId: "B0947MNPH3",
-  externalLink: "https://www.amazon.com/The-Heartfire-Healer-Series/dp/B0947MNPH3",
-  lastSyncedAt: "2025-11-22",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0947MNPH3",
+      externalLink: "https://www.amazon.com/The-Heartfire-Healer-Series/dp/B0947MNPH3",
+      lastSyncedAt: "2025-11-22",
+    },
+  ],
 } as const satisfies BookSeries

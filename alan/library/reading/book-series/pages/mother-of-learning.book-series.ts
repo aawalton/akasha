@@ -7,8 +7,12 @@ export const motherOfLearning = {
   title: "Mother of Learning",
   status: "completed",
   unit: "words",
-  source: "kindle",
-  externalId: "B0CHSJ19J9",
-  externalLink: "https://www.amazon.com/dp/B0CHSJ19J9",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CHSJ19J9",
+      externalLink: "https://www.amazon.com/dp/B0CHSJ19J9",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

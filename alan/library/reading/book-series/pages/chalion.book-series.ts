@@ -7,8 +7,12 @@ export const chalion = {
   title: "Chalion",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B0BHTDLHS7",
-  externalLink: "https://www.amazon.com/dp/B0BHTDLHS7",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BHTDLHS7",
+      externalLink: "https://www.amazon.com/dp/B0BHTDLHS7",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

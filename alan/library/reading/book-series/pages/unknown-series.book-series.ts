@@ -10,8 +10,12 @@ export const unknownSeries = {
   unit: "words",
   position: 2,
   maturityRating: "PG",
-  source: "kindle",
-  externalId: "B077LJWQGP",
-  externalLink: "https://www.amazon.com/dp/B077LJWQGP",
-  lastSyncedAt: "2025-10-15",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B077LJWQGP",
+      externalLink: "https://www.amazon.com/dp/B077LJWQGP",
+      lastSyncedAt: "2025-10-15",
+    },
+  ],
 } as const satisfies BookSeries

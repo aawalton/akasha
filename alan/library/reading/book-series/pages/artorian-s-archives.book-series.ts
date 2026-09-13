@@ -7,8 +7,12 @@ export const artorianSArchives = {
   title: "Artorian's Archives",
   status: "following",
   unit: "words",
-  source: "kindle",
-  externalId: "B081JZFVGS",
-  externalLink: "https://www.amazon.com/dp/B081JZFVGS",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B081JZFVGS",
+      externalLink: "https://www.amazon.com/dp/B081JZFVGS",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

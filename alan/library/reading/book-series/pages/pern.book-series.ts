@@ -7,8 +7,12 @@ export const pern = {
   title: "Pern",
   status: "paused",
   unit: "words",
-  source: "kindle",
-  externalId: "B07XM3RM3J",
-  externalLink: "https://www.amazon.com/dp/B07XM3RM3J",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07XM3RM3J",
+      externalLink: "https://www.amazon.com/dp/B07XM3RM3J",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

@@ -7,8 +7,12 @@ export const theLostFleet = {
   title: "The Lost Fleet",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B074C49BPW",
-  externalLink: "https://www.amazon.com/dp/B074C49BPW",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074C49BPW",
+      externalLink: "https://www.amazon.com/dp/B074C49BPW",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

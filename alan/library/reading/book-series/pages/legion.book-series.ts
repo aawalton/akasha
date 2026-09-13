@@ -8,8 +8,12 @@ export const legion = {
   status: "not-started",
   unit: "words",
   position: 6,
-  source: "kindle",
-  externalId: "B074CDV13D",
-  externalLink: "https://www.amazon.com/dp/B074CDV13D",
-  lastSyncedAt: "2025-10-15",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074CDV13D",
+      externalLink: "https://www.amazon.com/dp/B074CDV13D",
+      lastSyncedAt: "2025-10-15",
+    },
+  ],
 } as const satisfies BookSeries

@@ -7,8 +7,12 @@ export const salvos = {
   title: "Salvos",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B08SQJBMRV",
-  externalLink: "https://www.amazon.com/dp/B08SQJBMRV",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08SQJBMRV",
+      externalLink: "https://www.amazon.com/dp/B08SQJBMRV",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

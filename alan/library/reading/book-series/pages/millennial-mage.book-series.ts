@@ -7,8 +7,12 @@ export const millennialMage = {
   title: "Millennial Mage",
   status: "following",
   unit: "words",
-  source: "kindle",
-  externalId: "B0BX4S6LJG",
-  externalLink: "https://www.amazon.com/dp/B0BX4S6LJG",
-  lastSyncedAt: "2026-02-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BX4S6LJG",
+      externalLink: "https://www.amazon.com/dp/B0BX4S6LJG",
+      lastSyncedAt: "2026-02-14",
+    },
+  ],
 } as const satisfies BookSeries

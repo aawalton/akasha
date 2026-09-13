@@ -7,8 +7,12 @@ export const milesVorsokigan = {
   title: "Miles Vorsokigan",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B07W9LXSYG",
-  externalLink: "https://www.amazon.com/dp/B07W9LXSYG",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07W9LXSYG",
+      externalLink: "https://www.amazon.com/dp/B07W9LXSYG",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

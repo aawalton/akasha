@@ -7,8 +7,12 @@ export const rebornAsADemonicTree = {
   title: "Reborn as a Demonic Tree",
   status: "following",
   unit: "words",
-  source: "kindle",
-  externalId: "B0CM9TSCHP",
-  externalLink: "https://www.amazon.com/dp/B0CM9TSCHP",
-  lastSyncedAt: "2026-03-23",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CM9TSCHP",
+      externalLink: "https://www.amazon.com/dp/B0CM9TSCHP",
+      lastSyncedAt: "2026-03-23",
+    },
+  ],
 } as const satisfies BookSeries

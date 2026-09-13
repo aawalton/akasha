@@ -7,8 +7,12 @@ export const annalsOfDrakis = {
   title: "Annals of Drakis",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B074CL6K8M",
-  externalLink: "https://www.amazon.com/dp/B074CL6K8M",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074CL6K8M",
+      externalLink: "https://www.amazon.com/dp/B074CL6K8M",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

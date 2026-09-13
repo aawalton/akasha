@@ -7,8 +7,12 @@ export const bewareOfChicken = {
   title: "Beware of Chicken",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B0BPX1DX87",
-  externalLink: "https://www.amazon.com/dp/B0BPX1DX87",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BPX1DX87",
+      externalLink: "https://www.amazon.com/dp/B0BPX1DX87",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

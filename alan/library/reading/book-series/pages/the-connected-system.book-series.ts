@@ -7,8 +7,12 @@ export const theConnectedSystem = {
   title: "The Connected System",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B0CW19LKFJ",
-  externalLink: "https://www.amazon.com/dp/B0CW19LKFJ",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CW19LKFJ",
+      externalLink: "https://www.amazon.com/dp/B0CW19LKFJ",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

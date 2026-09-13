@@ -9,8 +9,12 @@ export const awakenOnlineTarot = {
   rank: "B",
   unit: "words",
   maturityRating: "R",
-  source: "kindle",
-  externalId: "B086D7NPNK",
-  externalLink: "https://www.amazon.com/dp/B086D7NPNK",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B086D7NPNK",
+      externalLink: "https://www.amazon.com/dp/B086D7NPNK",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

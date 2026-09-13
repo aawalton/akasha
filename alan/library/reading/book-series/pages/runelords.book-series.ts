@@ -7,8 +7,12 @@ export const runelords = {
   title: "Runelords",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B0841YMSN9",
-  externalLink: "https://www.amazon.com/dp/B0841YMSN9",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0841YMSN9",
+      externalLink: "https://www.amazon.com/dp/B0841YMSN9",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

@@ -7,8 +7,12 @@ export const honorHarrington = {
   title: "Honor Harrington",
   status: "paused",
   unit: "words",
-  source: "kindle",
-  externalId: "B074C161MH",
-  externalLink: "https://www.amazon.com/dp/B074C161MH",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074C161MH",
+      externalLink: "https://www.amazon.com/dp/B074C161MH",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

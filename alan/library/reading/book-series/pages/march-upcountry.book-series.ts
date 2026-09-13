@@ -7,8 +7,12 @@ export const marchUpcountry = {
   title: "March Upcountry",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B0CDCNP369",
-  externalLink: "https://www.amazon.com/dp/B0CDCNP369",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CDCNP369",
+      externalLink: "https://www.amazon.com/dp/B0CDCNP369",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

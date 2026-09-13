@@ -7,8 +7,12 @@ export const unknownSeries20 = {
   title: "Unknown Series",
   status: "following",
   unit: "words",
-  source: "kindle",
-  externalId: "B07SHW8NRV",
-  externalLink: "https://www.amazon.com/The-Alchemic-Weaponeer/dp/B07SHW8NRV",
-  lastSyncedAt: "2025-11-22",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07SHW8NRV",
+      externalLink: "https://www.amazon.com/The-Alchemic-Weaponeer/dp/B07SHW8NRV",
+      lastSyncedAt: "2025-11-22",
+    },
+  ],
 } as const satisfies BookSeries

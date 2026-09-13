@@ -7,8 +7,12 @@ export const worldTreeTrilogy = {
   title: "World-Tree Trilogy",
   status: "completed",
   unit: "words",
-  source: "kindle",
-  externalId: "B07PGLH5GW",
-  externalLink: "https://www.amazon.com/dp/B07PGLH5GW",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07PGLH5GW",
+      externalLink: "https://www.amazon.com/dp/B07PGLH5GW",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

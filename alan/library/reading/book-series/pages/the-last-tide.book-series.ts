@@ -8,8 +8,12 @@ export const theLastTide = {
   status: "completed",
   unit: "words",
   position: 1,
-  source: "kindle",
-  externalId: "B0BRHFXNVN",
-  externalLink: "https://www.amazon.com/dp/B0BRHFXNVN",
-  lastSyncedAt: "2025-10-15",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BRHFXNVN",
+      externalLink: "https://www.amazon.com/dp/B0BRHFXNVN",
+      lastSyncedAt: "2025-10-15",
+    },
+  ],
 } as const satisfies BookSeries

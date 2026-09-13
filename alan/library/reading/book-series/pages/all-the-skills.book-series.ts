@@ -7,8 +7,12 @@ export const allTheSkills = {
   title: "All The Skills",
   status: "following",
   unit: "words",
-  source: "kindle",
-  externalId: "B0CHXGPPG4",
-  externalLink: "https://www.amazon.com/dp/B0CHXGPPG4",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CHXGPPG4",
+      externalLink: "https://www.amazon.com/dp/B0CHXGPPG4",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

@@ -7,8 +7,12 @@ export const defianceOfTheFall = {
   title: "Defiance of the Fall",
   status: "following",
   unit: "words",
-  source: "kindle",
-  externalId: "B0916H6FBX",
-  externalLink: "https://www.amazon.com/dp/B0916H6FBX",
-  lastSyncedAt: "2026-02-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0916H6FBX",
+      externalLink: "https://www.amazon.com/dp/B0916H6FBX",
+      lastSyncedAt: "2026-02-14",
+    },
+  ],
 } as const satisfies BookSeries

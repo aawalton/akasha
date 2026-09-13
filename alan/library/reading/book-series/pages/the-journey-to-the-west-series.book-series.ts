@@ -7,8 +7,12 @@ export const theJourneyToTheWestSeries = {
   title: "The Journey to the West Series",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B087G3G8GT",
-  externalLink: "https://www.amazon.com/dp/B087G3G8GT",
-  lastSyncedAt: "2025-12-17",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B087G3G8GT",
+      externalLink: "https://www.amazon.com/dp/B087G3G8GT",
+      lastSyncedAt: "2025-12-17",
+    },
+  ],
 } as const satisfies BookSeries

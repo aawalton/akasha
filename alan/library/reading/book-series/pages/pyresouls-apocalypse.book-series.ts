@@ -9,8 +9,12 @@ export const pyresoulsApocalypse = {
   rank: "B",
   unit: "words",
   maturityRating: "R",
-  source: "kindle",
-  externalId: "B08GPPNPCG",
-  externalLink: "https://www.amazon.com/dp/B08GPPNPCG",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08GPPNPCG",
+      externalLink: "https://www.amazon.com/dp/B08GPPNPCG",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

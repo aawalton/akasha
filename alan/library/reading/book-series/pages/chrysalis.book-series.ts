@@ -7,8 +7,12 @@ export const chrysalis = {
   title: "Chrysalis",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B0B2CM6GXM",
-  externalLink: "https://www.amazon.com/dp/B0B2CM6GXM",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0B2CM6GXM",
+      externalLink: "https://www.amazon.com/dp/B0B2CM6GXM",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

@@ -7,8 +7,12 @@ export const somniaOnline = {
   title: "Somnia Online",
   status: "completed",
   unit: "words",
-  source: "kindle",
-  externalId: "B07GVDX3G8",
-  externalLink: "https://www.amazon.com/dp/B07GVDX3G8",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07GVDX3G8",
+      externalLink: "https://www.amazon.com/dp/B07GVDX3G8",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

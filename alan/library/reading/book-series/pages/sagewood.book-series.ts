@@ -7,8 +7,12 @@ export const sagewood = {
   title: "Sagewood",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B0D5J7G9ZN",
-  externalLink: "https://www.amazon.com/dp/B0D5J7G9ZN",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D5J7G9ZN",
+      externalLink: "https://www.amazon.com/dp/B0D5J7G9ZN",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

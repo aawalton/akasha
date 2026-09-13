@@ -9,8 +9,12 @@ export const swordArtOnlineProgressive = {
   rank: "A",
   unit: "words",
   maturityRating: "PG-13",
-  source: "kindle",
-  externalId: "B083757RNN",
-  externalLink: "https://www.amazon.com/dp/B083757RNN",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B083757RNN",
+      externalLink: "https://www.amazon.com/dp/B083757RNN",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

@@ -8,8 +8,12 @@ export const chaosSeeds = {
   status: "completed",
   rank: "C",
   unit: "words",
-  source: "kindle",
-  externalId: "B074C4RFZN",
-  externalLink: "https://www.amazon.com/dp/B074C4RFZN",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074C4RFZN",
+      externalLink: "https://www.amazon.com/dp/B074C4RFZN",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

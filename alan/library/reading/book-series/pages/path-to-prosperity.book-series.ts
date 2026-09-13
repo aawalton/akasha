@@ -7,8 +7,12 @@ export const pathToProsperity = {
   title: "Path to Prosperity",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B0FL3K5NDN",
-  externalLink: "https://www.amazon.com/dp/B0FL3K5NDN",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0FL3K5NDN",
+      externalLink: "https://www.amazon.com/dp/B0FL3K5NDN",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

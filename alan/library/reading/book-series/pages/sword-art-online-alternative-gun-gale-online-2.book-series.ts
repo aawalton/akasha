@@ -7,8 +7,12 @@ export const swordArtOnlineAlternativeGunGaleOnline2 = {
   title: "Sword Art Online Alternative Gun Gale Online",
   status: "following",
   unit: "words",
-  source: "kindle",
-  externalId: "B0896XDLSC",
-  externalLink: "https://www.amazon.com/dp/B0896XDLSC",
-  lastSyncedAt: "2026-02-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0896XDLSC",
+      externalLink: "https://www.amazon.com/dp/B0896XDLSC",
+      lastSyncedAt: "2026-02-14",
+    },
+  ],
 } as const satisfies BookSeries

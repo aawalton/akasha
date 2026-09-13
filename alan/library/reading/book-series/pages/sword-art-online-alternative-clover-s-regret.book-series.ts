@@ -7,8 +7,12 @@ export const swordArtOnlineAlternativeCloverSRegret = {
   title: "Sword Art Online Alternative Clover's Regret",
   status: "following",
   unit: "words",
-  source: "kindle",
-  externalId: "B0DCMN7GWF",
-  externalLink: "https://www.amazon.com/dp/B0DCMN7GWF",
-  lastSyncedAt: "2026-03-03",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DCMN7GWF",
+      externalLink: "https://www.amazon.com/dp/B0DCMN7GWF",
+      lastSyncedAt: "2026-03-03",
+    },
+  ],
 } as const satisfies BookSeries

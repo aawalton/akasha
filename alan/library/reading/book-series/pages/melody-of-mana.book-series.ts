@@ -7,8 +7,12 @@ export const melodyOfMana = {
   title: "Melody of Mana",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B0B4X17PLH",
-  externalLink: "https://www.amazon.com/dp/B0B4X17PLH",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0B4X17PLH",
+      externalLink: "https://www.amazon.com/dp/B0B4X17PLH",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

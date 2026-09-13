@@ -8,8 +8,12 @@ export const theStormlightArchive = {
   status: "paused",
   unit: "words",
   position: 2,
-  source: "kindle",
-  externalId: "B074CBP9DY",
-  externalLink: "https://www.amazon.com/dp/B074CBP9DY",
-  lastSyncedAt: "2025-10-15",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074CBP9DY",
+      externalLink: "https://www.amazon.com/dp/B074CBP9DY",
+      lastSyncedAt: "2025-10-15",
+    },
+  ],
 } as const satisfies BookSeries

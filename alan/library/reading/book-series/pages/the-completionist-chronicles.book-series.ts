@@ -7,8 +7,12 @@ export const theCompletionistChronicles = {
   title: "The Completionist Chronicles",
   status: "following",
   unit: "words",
-  source: "kindle",
-  externalId: "B0BFM8RBTM",
-  externalLink: "https://www.amazon.com/dp/B0BFM8RBTM",
-  lastSyncedAt: "2026-02-23",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BFM8RBTM",
+      externalLink: "https://www.amazon.com/dp/B0BFM8RBTM",
+      lastSyncedAt: "2026-02-23",
+    },
+  ],
 } as const satisfies BookSeries

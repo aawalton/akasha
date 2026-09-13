@@ -7,8 +7,12 @@ export const robertLangdon = {
   title: "Robert Langdon",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B075V6WJ9X",
-  externalLink: "https://www.amazon.com/dp/B075V6WJ9X",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B075V6WJ9X",
+      externalLink: "https://www.amazon.com/dp/B075V6WJ9X",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

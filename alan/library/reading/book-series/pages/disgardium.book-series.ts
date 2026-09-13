@@ -7,8 +7,12 @@ export const disgardium = {
   title: "Disgardium",
   status: "following",
   unit: "words",
-  source: "kindle",
-  externalId: "B07Q6M246J",
-  externalLink: "https://www.amazon.com/dp/B07Q6M246J",
-  lastSyncedAt: "2026-02-20",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07Q6M246J",
+      externalLink: "https://www.amazon.com/dp/B07Q6M246J",
+      lastSyncedAt: "2026-02-20",
+    },
+  ],
 } as const satisfies BookSeries

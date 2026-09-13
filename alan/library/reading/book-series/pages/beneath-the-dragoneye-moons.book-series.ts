@@ -7,8 +7,12 @@ export const beneathTheDragoneyeMoons = {
   title: "Beneath the Dragoneye Moons",
   status: "completed",
   unit: "words",
-  source: "kindle",
-  externalId: "B0DT7G27HH",
-  externalLink: "https://www.amazon.com/B0DT7G27HH",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DT7G27HH",
+      externalLink: "https://www.amazon.com/B0DT7G27HH",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

@@ -7,8 +7,12 @@ export const theSpaceTrilogy = {
   title: "The Space Trilogy",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B09RFD1VBZ",
-  externalLink: "https://www.amazon.com/dp/B09RFD1VBZ",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09RFD1VBZ",
+      externalLink: "https://www.amazon.com/dp/B09RFD1VBZ",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

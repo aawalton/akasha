@@ -7,8 +7,12 @@ export const bookSeries1Lifesteal = {
   title: "1% Lifesteal",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B0DGWCJ6JP",
-  externalLink: "https://www.amazon.com/dp/B0DGWCJ6JP",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DGWCJ6JP",
+      externalLink: "https://www.amazon.com/dp/B0DGWCJ6JP",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

@@ -7,8 +7,12 @@ export const spaceOdyssey = {
   title: "Space Odyssey",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B08437B8LM",
-  externalLink: "https://www.amazon.com/dp/B08437B8LM",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08437B8LM",
+      externalLink: "https://www.amazon.com/dp/B08437B8LM",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

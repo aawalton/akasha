@@ -7,8 +7,12 @@ export const theSystemApocalypse = {
   title: "The System Apocalypse",
   status: "completed",
   unit: "words",
-  source: "kindle",
-  externalId: "B077LNLSZ7",
-  externalLink: "https://www.amazon.com/dp/B077LNLSZ7",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B077LNLSZ7",
+      externalLink: "https://www.amazon.com/dp/B077LNLSZ7",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

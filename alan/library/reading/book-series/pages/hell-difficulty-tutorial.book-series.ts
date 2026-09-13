@@ -7,8 +7,12 @@ export const hellDifficultyTutorial = {
   title: "Hell Difficulty Tutorial",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B0CRT37F6S",
-  externalLink: "https://www.amazon.com/dp/B0CRT37F6S",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CRT37F6S",
+      externalLink: "https://www.amazon.com/dp/B0CRT37F6S",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

@@ -7,8 +7,12 @@ export const bushidoOnline = {
   title: "Bushido Online",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B07959MGTF",
-  externalLink: "https://www.amazon.com/dp/B07959MGTF",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07959MGTF",
+      externalLink: "https://www.amazon.com/dp/B07959MGTF",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

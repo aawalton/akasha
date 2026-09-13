@@ -8,8 +8,12 @@ export const elantris = {
   status: "not-started",
   unit: "words",
   position: 6,
-  source: "kindle",
-  externalId: "B074CG7212",
-  externalLink: "https://www.amazon.com/dp/B074CG7212",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074CG7212",
+      externalLink: "https://www.amazon.com/dp/B074CG7212",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

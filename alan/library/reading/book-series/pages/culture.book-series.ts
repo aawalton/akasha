@@ -7,8 +7,12 @@ export const culture = {
   title: "Culture",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B07WLZZ9WV",
-  externalLink: "https://www.amazon.com/dp/B07WLZZ9WV",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07WLZZ9WV",
+      externalLink: "https://www.amazon.com/dp/B07WLZZ9WV",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

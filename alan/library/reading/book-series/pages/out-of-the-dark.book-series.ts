@@ -7,8 +7,12 @@ export const outOfTheDark = {
   title: "Out of the Dark",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B08BTJBGQ4",
-  externalLink: "https://www.amazon.com/dp/B08BTJBGQ4",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08BTJBGQ4",
+      externalLink: "https://www.amazon.com/dp/B08BTJBGQ4",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

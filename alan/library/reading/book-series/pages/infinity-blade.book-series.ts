@@ -8,8 +8,12 @@ export const infinityBlade = {
   status: "completed",
   unit: "words",
   position: 8,
-  source: "kindle",
-  externalId: "B074CGRSN4",
-  externalLink: "https://www.amazon.com/dp/B074CGRSN4",
-  lastSyncedAt: "2025-10-15",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074CGRSN4",
+      externalLink: "https://www.amazon.com/dp/B074CGRSN4",
+      lastSyncedAt: "2025-10-15",
+    },
+  ],
 } as const satisfies BookSeries

@@ -7,8 +7,12 @@ export const heWhoFightsWithMonsters = {
   title: "He Who Fights with Monsters",
   status: "following",
   unit: "words",
-  source: "kindle",
-  externalId: "B08WF8SB71",
-  externalLink: "https://www.amazon.com/dp/B08WF8SB71",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08WF8SB71",
+      externalLink: "https://www.amazon.com/dp/B08WF8SB71",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

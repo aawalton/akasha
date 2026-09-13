@@ -8,8 +8,12 @@ export const mistborn = {
   status: "paused",
   unit: "words",
   position: 1,
-  source: "kindle",
-  externalId: "B0B4N71QWS",
-  externalLink: "https://www.amazon.com/dp/B0B4N71QWS",
-  lastSyncedAt: "2025-10-15",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0B4N71QWS",
+      externalLink: "https://www.amazon.com/dp/B0B4N71QWS",
+      lastSyncedAt: "2025-10-15",
+    },
+  ],
 } as const satisfies BookSeries

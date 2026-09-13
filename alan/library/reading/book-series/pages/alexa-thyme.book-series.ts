@@ -7,8 +7,12 @@ export const alexaThyme = {
   title: "Alexa Thyme",
   status: "following",
   unit: "words",
-  source: "kindle",
-  externalId: "B0CP5J7K9Y",
-  externalLink: "https://www.amazon.com/dp/B0CP5J7K9Y",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CP5J7K9Y",
+      externalLink: "https://www.amazon.com/dp/B0CP5J7K9Y",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

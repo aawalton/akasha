@@ -7,8 +7,12 @@ export const thePathOfAscension = {
   title: "The Path of Ascension",
   status: "following",
   unit: "words",
-  source: "kindle",
-  externalId: "B0BG68Y746",
-  externalLink: "https://www.amazon.com/dp/B0BG68Y746",
-  lastSyncedAt: "2026-03-23",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BG68Y746",
+      externalLink: "https://www.amazon.com/dp/B0BG68Y746",
+      lastSyncedAt: "2026-03-23",
+    },
+  ],
 } as const satisfies BookSeries

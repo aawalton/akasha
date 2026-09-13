@@ -7,8 +7,12 @@ export const alien2 = {
   title: "Alien",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B074CJPQ3X",
-  externalLink: "https://www.amazon.com/dp/B074CJPQ3X",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074CJPQ3X",
+      externalLink: "https://www.amazon.com/dp/B074CJPQ3X",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

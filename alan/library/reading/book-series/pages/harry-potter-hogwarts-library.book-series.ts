@@ -8,8 +8,13 @@ export const harryPotterHogwartsLibrary = {
   status: "not-started",
   unit: "words",
   position: 3,
-  source: "kindle",
-  externalId: "B09DCNLCJJ",
-  externalLink: "https://www.amazon.com/Harry-Potter-Hogwarts-Library-3-book-series/dp/B09DCNLCJJ",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09DCNLCJJ",
+      externalLink:
+        "https://www.amazon.com/Harry-Potter-Hogwarts-Library-3-book-series/dp/B09DCNLCJJ",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

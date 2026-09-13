@@ -7,8 +7,12 @@ export const markOfTheFool = {
   title: "Mark of the Fool",
   status: "completed",
   unit: "words",
-  source: "kindle",
-  externalId: "B0BD696T86",
-  externalLink: "https://www.amazon.com/dp/B0BD696T86",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BD696T86",
+      externalLink: "https://www.amazon.com/dp/B0BD696T86",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

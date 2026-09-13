@@ -7,8 +7,12 @@ export const thePrimalHunter = {
   title: "The Primal Hunter",
   status: "following",
   unit: "words",
-  source: "kindle",
-  externalId: "B09MV5TTSM",
-  externalLink: "https://www.amazon.com/dp/B09MV5TTSM",
-  lastSyncedAt: "2026-02-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09MV5TTSM",
+      externalLink: "https://www.amazon.com/dp/B09MV5TTSM",
+      lastSyncedAt: "2026-02-14",
+    },
+  ],
 } as const satisfies BookSeries

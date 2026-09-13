@@ -7,8 +7,12 @@ export const theExpanse2 = {
   title: "The Expanse",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B09DD17H3N",
-  externalLink: "https://www.amazon.com/dp/B09DD17H3N",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09DD17H3N",
+      externalLink: "https://www.amazon.com/dp/B09DD17H3N",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

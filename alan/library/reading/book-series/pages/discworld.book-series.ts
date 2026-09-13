@@ -7,8 +7,12 @@ export const discworld = {
   title: "Discworld",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B07TYGGG76",
-  externalLink: "https://www.amazon.com/dp/B07TYGGG76",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07TYGGG76",
+      externalLink: "https://www.amazon.com/dp/B07TYGGG76",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

@@ -7,8 +7,12 @@ export const honorHarringtonSaganamiIsland = {
   title: "Honor Harrington: Saganami Island",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B0C3ZWGVHG",
-  externalLink: "https://www.amazon.com/dp/B0C3ZWGVHG",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0C3ZWGVHG",
+      externalLink: "https://www.amazon.com/dp/B0C3ZWGVHG",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

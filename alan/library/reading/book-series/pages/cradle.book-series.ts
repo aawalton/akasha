@@ -7,8 +7,12 @@ export const cradle = {
   title: "Cradle",
   status: "completed",
   unit: "words",
-  source: "kindle",
-  externalId: "B0753FP6SP",
-  externalLink: "https://www.amazon.com/dp/B0753FP6SP",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0753FP6SP",
+      externalLink: "https://www.amazon.com/dp/B0753FP6SP",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

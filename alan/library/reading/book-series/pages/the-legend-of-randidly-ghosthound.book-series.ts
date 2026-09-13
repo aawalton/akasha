@@ -7,8 +7,12 @@ export const theLegendOfRandidlyGhosthound = {
   title: "The Legend of Randidly Ghosthound",
   status: "completed",
   unit: "words",
-  source: "kindle",
-  externalId: "B09BNYN665",
-  externalLink: "https://www.amazon.com/dp/B09BNYN665",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09BNYN665",
+      externalLink: "https://www.amazon.com/dp/B09BNYN665",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

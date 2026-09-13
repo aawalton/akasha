@@ -7,8 +7,12 @@ export const bunnyGirlEvolution = {
   title: "Bunny Girl Evolution",
   status: "following",
   unit: "words",
-  source: "kindle",
-  externalId: "B0FJ6TCNWN",
-  externalLink: "https://www.amazon.com/dp/B0FJ6TCNWN",
-  lastSyncedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0FJ6TCNWN",
+      externalLink: "https://www.amazon.com/dp/B0FJ6TCNWN",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
 } as const satisfies BookSeries

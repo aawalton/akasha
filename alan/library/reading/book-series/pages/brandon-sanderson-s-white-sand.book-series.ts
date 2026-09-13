@@ -8,8 +8,12 @@ export const brandonSandersonSWhiteSand = {
   status: "not-started",
   unit: "words",
   position: 5,
-  source: "kindle",
-  externalId: "B07JHPRWN1",
-  externalLink: "https://www.amazon.com/dp/B07JHPRWN1",
-  lastSyncedAt: "2025-10-15",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07JHPRWN1",
+      externalLink: "https://www.amazon.com/dp/B07JHPRWN1",
+      lastSyncedAt: "2025-10-15",
+    },
+  ],
 } as const satisfies BookSeries

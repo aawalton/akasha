@@ -7,8 +7,12 @@ export const strayCatStrut = {
   title: "Stray Cat Strut",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B0BJD2ZL4S",
-  externalLink: "https://www.amazon.com/dp/B0BJD2ZL4S",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BJD2ZL4S",
+      externalLink: "https://www.amazon.com/dp/B0BJD2ZL4S",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

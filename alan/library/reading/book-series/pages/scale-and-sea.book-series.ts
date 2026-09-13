@@ -7,8 +7,12 @@ export const scaleAndSea = {
   title: "Scale & Sea",
   status: "completed",
   unit: "words",
-  source: "kindle",
-  externalId: "B0BYMQSCGC",
-  externalLink: "https://www.amazon.com/dp/B0BYMQSCGC",
-  lastSyncedAt: "2025-11-22",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BYMQSCGC",
+      externalLink: "https://www.amazon.com/dp/B0BYMQSCGC",
+      lastSyncedAt: "2025-11-22",
+    },
+  ],
 } as const satisfies BookSeries

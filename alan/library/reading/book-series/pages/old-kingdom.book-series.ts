@@ -7,8 +7,12 @@ export const oldKingdom = {
   title: "Old Kingdom",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B0841YQ8MP",
-  externalLink: "https://www.amazon.com/dp/B0841YQ8MP",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0841YQ8MP",
+      externalLink: "https://www.amazon.com/dp/B0841YQ8MP",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

@@ -10,8 +10,12 @@ export const harryPotter2 = {
   unit: "words",
   position: 1,
   maturityRating: "PG-13",
-  source: "kindle",
-  externalId: "B074BYZBPD",
-  externalLink: "https://www.amazon.com/Harry-Potter-7-book-series/dp/B074BYZBPD",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074BYZBPD",
+      externalLink: "https://www.amazon.com/Harry-Potter-7-book-series/dp/B074BYZBPD",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

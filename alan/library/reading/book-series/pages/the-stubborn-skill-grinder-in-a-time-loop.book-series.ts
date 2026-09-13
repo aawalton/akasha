@@ -7,8 +7,12 @@ export const theStubbornSkillGrinderInATimeLoop = {
   title: "The Stubborn Skill-Grinder In A Time Loop",
   status: "completed",
   unit: "words",
-  source: "kindle",
-  externalId: "B0D9KGGQRZ",
-  externalLink: "https://www.amazon.com/dp/B0D9KGGQRZ",
-  lastSyncedAt: "2026-02-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D9KGGQRZ",
+      externalLink: "https://www.amazon.com/dp/B0D9KGGQRZ",
+      lastSyncedAt: "2026-02-14",
+    },
+  ],
 } as const satisfies BookSeries

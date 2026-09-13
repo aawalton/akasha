@@ -7,8 +7,12 @@ export const azarinthHealer = {
   title: "Azarinth Healer",
   status: "completed",
   unit: "words",
-  source: "kindle",
-  externalId: "B0BN9N91J7",
-  externalLink: "https://www.amazon.com/dp/B0BN9N91J7",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BN9N91J7",
+      externalLink: "https://www.amazon.com/dp/B0BN9N91J7",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

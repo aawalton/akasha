@@ -7,8 +7,12 @@ export const dragonHeart = {
   title: "Dragon Heart",
   status: "following",
   unit: "words",
-  source: "kindle",
-  externalId: "B07TXD7F8V",
-  externalLink: "https://www.amazon.com/dp/B07TXD7F8V",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07TXD7F8V",
+      externalLink: "https://www.amazon.com/dp/B07TXD7F8V",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

@@ -7,8 +7,12 @@ export const infiniteRealm = {
   title: "Infinite Realm",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B08SCFZWP5",
-  externalLink: "https://www.amazon.com/dp/B08SCFZWP5",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08SCFZWP5",
+      externalLink: "https://www.amazon.com/dp/B08SCFZWP5",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

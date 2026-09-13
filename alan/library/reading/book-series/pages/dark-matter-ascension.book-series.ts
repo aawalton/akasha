@@ -7,8 +7,12 @@ export const darkMatterAscension = {
   title: "Dark Matter Ascension",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B0F4M11Y85",
-  externalLink: "https://www.amazon.com/dp/B0F4M11Y85",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0F4M11Y85",
+      externalLink: "https://www.amazon.com/dp/B0F4M11Y85",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

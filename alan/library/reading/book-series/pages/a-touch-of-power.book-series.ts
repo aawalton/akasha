@@ -7,8 +7,12 @@ export const aTouchOfPower = {
   title: "A Touch of Power",
   status: "following",
   unit: "words",
-  source: "kindle",
-  externalId: "B0FFT68QFH",
-  externalLink: "https://www.amazon.com/dp/B0FFT68QFH",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0FFT68QFH",
+      externalLink: "https://www.amazon.com/dp/B0FFT68QFH",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

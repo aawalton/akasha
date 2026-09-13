@@ -7,8 +7,12 @@ export const warGod = {
   title: "War God",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B074CFMFBP",
-  externalLink: "https://www.amazon.com/dp/B074CFMFBP",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074CFMFBP",
+      externalLink: "https://www.amazon.com/dp/B074CFMFBP",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

@@ -7,8 +7,12 @@ export const theSpokenMage = {
   title: "The Spoken Mage",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B07MB9K2GY",
-  externalLink: "https://www.amazon.com/dp/B07MB9K2GY",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07MB9K2GY",
+      externalLink: "https://www.amazon.com/dp/B07MB9K2GY",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

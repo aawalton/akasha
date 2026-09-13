@@ -9,8 +9,12 @@ export const awakenOnline = {
   rank: "A",
   unit: "words",
   maturityRating: "R",
-  source: "kindle",
-  externalId: "B074CC5NDX",
-  externalLink: "https://www.amazon.com/dp/B074CC5NDX",
-  lastSyncedAt: "2026-03-23",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074CC5NDX",
+      externalLink: "https://www.amazon.com/dp/B074CC5NDX",
+      lastSyncedAt: "2026-03-23",
+    },
+  ],
 } as const satisfies BookSeries

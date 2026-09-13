@@ -7,8 +7,12 @@ export const honorHarringtonCrownOfSlaves = {
   title: "Honor Harrington - Crown of Slaves",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B0C3ZWM1MW",
-  externalLink: "https://www.amazon.com/dp/B0C3ZWM1MW",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0C3ZWM1MW",
+      externalLink: "https://www.amazon.com/dp/B0C3ZWM1MW",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

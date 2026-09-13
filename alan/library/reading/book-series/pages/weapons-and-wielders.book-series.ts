@@ -7,8 +7,12 @@ export const weaponsAndWielders = {
   title: "Weapons and Wielders",
   status: "following",
   unit: "words",
-  source: "kindle",
-  externalId: "B0848WRBZW",
-  externalLink: "https://www.amazon.com/Weapons-and-Wielders/dp/B0848WRBZW",
-  lastSyncedAt: "2025-11-22",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0848WRBZW",
+      externalLink: "https://www.amazon.com/Weapons-and-Wielders/dp/B0848WRBZW",
+      lastSyncedAt: "2025-11-22",
+    },
+  ],
 } as const satisfies BookSeries

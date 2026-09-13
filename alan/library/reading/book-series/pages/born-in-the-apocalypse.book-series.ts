@@ -7,8 +7,12 @@ export const bornInTheApocalypse = {
   title: "Born in the Apocalypse",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B075VHSR7V",
-  externalLink: "https://www.amazon.com/dp/B075VHSR7V",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B075VHSR7V",
+      externalLink: "https://www.amazon.com/dp/B075VHSR7V",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

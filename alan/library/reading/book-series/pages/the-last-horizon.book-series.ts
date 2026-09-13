@@ -7,8 +7,12 @@ export const theLastHorizon = {
   title: "The Last Horizon",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B0C11YDHB8",
-  externalLink: "https://www.amazon.com/dp/B0C11YDHB8",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0C11YDHB8",
+      externalLink: "https://www.amazon.com/dp/B0C11YDHB8",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

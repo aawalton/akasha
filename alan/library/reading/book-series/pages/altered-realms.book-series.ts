@@ -7,8 +7,12 @@ export const alteredRealms = {
   title: "Altered Realms",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B0881H29XP",
-  externalLink: "https://www.amazon.com/dp/B0881H29XP",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0881H29XP",
+      externalLink: "https://www.amazon.com/dp/B0881H29XP",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

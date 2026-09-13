@@ -7,8 +7,12 @@ export const apocalypseHealer = {
   title: "Apocalypse Healer",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B0F1BDPJXS",
-  externalLink: "https://www.amazon.com/dp/B0F1BDPJXS",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0F1BDPJXS",
+      externalLink: "https://www.amazon.com/dp/B0F1BDPJXS",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

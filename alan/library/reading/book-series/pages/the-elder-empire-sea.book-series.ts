@@ -7,8 +7,12 @@ export const theElderEmpireSea = {
   title: "The Elder Empire - Sea",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B074C78XPJ",
-  externalLink: "https://www.amazon.com/dp/B074C78XPJ",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074C78XPJ",
+      externalLink: "https://www.amazon.com/dp/B074C78XPJ",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

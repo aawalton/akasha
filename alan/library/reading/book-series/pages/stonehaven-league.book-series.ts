@@ -7,8 +7,12 @@ export const stonehavenLeague = {
   title: "Stonehaven League",
   status: "completed",
   unit: "words",
-  source: "kindle",
-  externalId: "B07DYF99N1",
-  externalLink: "https://www.amazon.com/dp/B07DYF99N1",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07DYF99N1",
+      externalLink: "https://www.amazon.com/dp/B07DYF99N1",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

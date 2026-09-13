@@ -7,8 +7,12 @@ export const galacticEmpire = {
   title: "Galactic Empire",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B08972D26X",
-  externalLink: "https://www.amazon.com/dp/B08972D26X",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08972D26X",
+      externalLink: "https://www.amazon.com/dp/B08972D26X",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

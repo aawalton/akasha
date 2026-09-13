@@ -7,8 +7,12 @@ export const theWayOfTheShaman = {
   title: "The Way of the Shaman",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B074C9P3YF",
-  externalLink: "https://www.amazon.com/dp/B074C9P3YF",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074C9P3YF",
+      externalLink: "https://www.amazon.com/dp/B074C9P3YF",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

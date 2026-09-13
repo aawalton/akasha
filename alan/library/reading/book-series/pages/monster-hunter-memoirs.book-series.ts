@@ -7,8 +7,12 @@ export const monsterHunterMemoirs = {
   title: "Monster Hunter Memoirs",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B074C1RQ16",
-  externalLink: "https://www.amazon.com/dp/B074C1RQ16",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074C1RQ16",
+      externalLink: "https://www.amazon.com/dp/B074C1RQ16",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

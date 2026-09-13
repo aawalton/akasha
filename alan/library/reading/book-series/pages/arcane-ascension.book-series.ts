@@ -7,8 +7,12 @@ export const arcaneAscension = {
   title: "Arcane Ascension",
   status: "following",
   unit: "words",
-  source: "kindle",
-  externalId: "B07P6T5K3Y",
-  externalLink: "https://www.amazon.com/Arcane-Ascension/dp/B07P6T5K3Y",
-  lastSyncedAt: "2025-11-22",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07P6T5K3Y",
+      externalLink: "https://www.amazon.com/Arcane-Ascension/dp/B07P6T5K3Y",
+      lastSyncedAt: "2025-11-22",
+    },
+  ],
 } as const satisfies BookSeries

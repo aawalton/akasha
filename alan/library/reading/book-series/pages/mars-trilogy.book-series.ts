@@ -7,8 +7,12 @@ export const marsTrilogy = {
   title: "Mars Trilogy",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B075V8LBPP",
-  externalLink: "https://www.amazon.com/dp/B075V8LBPP",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B075V8LBPP",
+      externalLink: "https://www.amazon.com/dp/B075V8LBPP",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

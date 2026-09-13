@@ -8,8 +8,12 @@ export const theReckoners = {
   status: "paused",
   unit: "words",
   position: 2,
-  source: "kindle",
-  externalId: "B09C1YZTSV",
-  externalLink: "https://www.amazon.com/dp/B09C1YZTSV",
-  lastSyncedAt: "2025-10-15",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09C1YZTSV",
+      externalLink: "https://www.amazon.com/dp/B09C1YZTSV",
+      lastSyncedAt: "2025-10-15",
+    },
+  ],
 } as const satisfies BookSeries

@@ -7,8 +7,12 @@ export const daemon = {
   title: "Daemon",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B074CDHK46",
-  externalLink: "https://www.amazon.com/dp/B074CDHK46",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074CDHK46",
+      externalLink: "https://www.amazon.com/dp/B074CDHK46",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

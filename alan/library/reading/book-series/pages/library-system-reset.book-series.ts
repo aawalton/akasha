@@ -7,8 +7,12 @@ export const librarySystemReset = {
   title: "Library System Reset",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B0D4RD1LC1",
-  externalLink: "https://www.amazon.com/dp/B0D4RD1LC1",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D4RD1LC1",
+      externalLink: "https://www.amazon.com/dp/B0D4RD1LC1",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

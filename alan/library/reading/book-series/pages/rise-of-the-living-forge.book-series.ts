@@ -7,8 +7,12 @@ export const riseOfTheLivingForge = {
   title: "Rise of the Living Forge",
   status: "following",
   unit: "words",
-  source: "kindle",
-  externalId: "B0D8XWFGDG",
-  externalLink: "https://www.amazon.com/dp/B0D8XWFGDG",
-  lastSyncedAt: "2026-03-23",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D8XWFGDG",
+      externalLink: "https://www.amazon.com/dp/B0D8XWFGDG",
+      lastSyncedAt: "2026-03-23",
+    },
+  ],
 } as const satisfies BookSeries

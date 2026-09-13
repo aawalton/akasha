@@ -9,8 +9,12 @@ export const beastborne = {
   rank: "B",
   unit: "words",
   maturityRating: "R",
-  source: "kindle",
-  externalId: "B0CHR81MLP",
-  externalLink: "https://www.amazon.com/dp/B0CHR81MLP",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CHR81MLP",
+      externalLink: "https://www.amazon.com/dp/B0CHR81MLP",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

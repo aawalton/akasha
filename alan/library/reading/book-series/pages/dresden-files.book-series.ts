@@ -7,8 +7,12 @@ export const dresdenFiles = {
   title: "Dresden Files",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B074CF4JMZ",
-  externalLink: "https://www.amazon.com/dp/B074CF4JMZ",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074CF4JMZ",
+      externalLink: "https://www.amazon.com/dp/B074CF4JMZ",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

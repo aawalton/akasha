@@ -7,8 +7,12 @@ export const readyPlayerOne = {
   title: "Ready Player One",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B083977FTN",
-  externalLink: "https://www.amazon.com/dp/B083977FTN",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B083977FTN",
+      externalLink: "https://www.amazon.com/dp/B083977FTN",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

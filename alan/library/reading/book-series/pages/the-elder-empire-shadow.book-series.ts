@@ -7,8 +7,12 @@ export const theElderEmpireShadow = {
   title: "The Elder Empire - Shadow",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B074CCVM2J",
-  externalLink: "https://www.amazon.com/dp/B074CCVM2J",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074CCVM2J",
+      externalLink: "https://www.amazon.com/dp/B074CCVM2J",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

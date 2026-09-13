@@ -7,8 +7,12 @@ export const theWhisperingCrystals = {
   title: "The Whispering Crystals",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B08MTFM6S5",
-  externalLink: "https://www.amazon.com/dp/B08MTFM6S5",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08MTFM6S5",
+      externalLink: "https://www.amazon.com/dp/B08MTFM6S5",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

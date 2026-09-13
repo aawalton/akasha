@@ -7,8 +7,12 @@ export const systemUniverse = {
   title: "System Universe",
   status: "following",
   unit: "words",
-  source: "kindle",
-  externalId: "B0B6215Z5F",
-  externalLink: "https://www.amazon.com/dp/B0B6215Z5F",
-  lastSyncedAt: "2026-02-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0B6215Z5F",
+      externalLink: "https://www.amazon.com/dp/B0B6215Z5F",
+      lastSyncedAt: "2026-02-14",
+    },
+  ],
 } as const satisfies BookSeries

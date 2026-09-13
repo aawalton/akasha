@@ -7,8 +7,12 @@ export const honorHarringtonWorldsOfHonor = {
   title: "Honor Harrington - Worlds of Honor",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B0DBVS4JMV",
-  externalLink: "https://www.amazon.com/dp/B0DBVS4JMV",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DBVS4JMV",
+      externalLink: "https://www.amazon.com/dp/B0DBVS4JMV",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

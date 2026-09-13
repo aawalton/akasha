@@ -7,8 +7,12 @@ export const honorHarringtonStarKingdom = {
   title: "Honor Harrington - Star Kingdom",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B0C3ZXFN8C",
-  externalLink: "https://www.amazon.com/dp/B0C3ZXFN8C",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0C3ZXFN8C",
+      externalLink: "https://www.amazon.com/dp/B0C3ZXFN8C",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

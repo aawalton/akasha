@@ -7,8 +7,12 @@ export const amelia = {
   title: "Amelia",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B0C6YLNM8J",
-  externalLink: "https://www.amazon.com/dp/B0C6YLNM8J",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0C6YLNM8J",
+      externalLink: "https://www.amazon.com/dp/B0C6YLNM8J",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

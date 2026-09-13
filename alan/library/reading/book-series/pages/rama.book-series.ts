@@ -7,8 +7,12 @@ export const rama = {
   title: "Rama",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B074CFVLTD",
-  externalLink: "https://www.amazon.com/dp/B074CFVLTD",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074CFVLTD",
+      externalLink: "https://www.amazon.com/dp/B074CFVLTD",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

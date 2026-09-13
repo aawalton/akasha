@@ -7,8 +7,12 @@ export const theTravelerSGateTrilogy = {
   title: "The Traveler's Gate Trilogy",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B074CCBXYZ",
-  externalLink: "https://www.amazon.com/dp/B074CCBXYZ",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074CCBXYZ",
+      externalLink: "https://www.amazon.com/dp/B074CCBXYZ",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

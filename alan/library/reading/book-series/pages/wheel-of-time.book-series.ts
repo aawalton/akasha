@@ -9,8 +9,12 @@ export const wheelOfTime = {
   rank: "B",
   unit: "words",
   maturityRating: "PG-13",
-  source: "kindle",
-  externalId: "B07F7MLR2R",
-  externalLink: "https://www.amazon.com/dp/B07F7MLR2R",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07F7MLR2R",
+      externalLink: "https://www.amazon.com/dp/B07F7MLR2R",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

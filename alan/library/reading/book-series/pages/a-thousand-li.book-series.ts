@@ -7,8 +7,12 @@ export const aThousandLi = {
   title: "A Thousand Li",
   status: "completed",
   unit: "words",
-  source: "kindle",
-  externalId: "B07VXJFRFV",
-  externalLink: "https://www.amazon.com/dp/B07VXJFRFV",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07VXJFRFV",
+      externalLink: "https://www.amazon.com/dp/B07VXJFRFV",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries

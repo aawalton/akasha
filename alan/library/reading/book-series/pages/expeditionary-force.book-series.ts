@@ -7,8 +7,12 @@ export const expeditionaryForce = {
   title: "Expeditionary Force",
   status: "not-started",
   unit: "words",
-  source: "kindle",
-  externalId: "B07F7T8NPK",
-  externalLink: "https://www.amazon.com/dp/B07F7T8NPK",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07F7T8NPK",
+      externalLink: "https://www.amazon.com/dp/B07F7T8NPK",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies BookSeries
