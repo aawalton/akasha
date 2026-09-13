@@ -25,8 +25,8 @@ export const inventoryBankTrace = {
         "A closed session takes the settling that follows it for five seconds and no more.",
     },
     {
-      invariantKind: "gap",
-      statement: "A session the game never says closed stops taking what follows it.",
+      invariantKind: "departure",
+      statement: "Another venue opening ends the bank session's hold on what follows it.",
     },
   ],
 } as const satisfies Module

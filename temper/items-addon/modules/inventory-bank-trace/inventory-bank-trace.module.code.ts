@@ -101,6 +101,10 @@ export function markBankClosed(): undefined {
   }, TRAILING_SCAN_WINDOW_MS)
 }
 
+export function releaseBankTrace(): undefined {
+  activeTrace = undefined
+}
+
 function pastTrailingWindow(): boolean {
   return (
     closedAtMs !== undefined && GetGameTimeMilliseconds() - closedAtMs > TRAILING_SCAN_WINDOW_MS
