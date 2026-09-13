@@ -6,7 +6,13 @@ export const theGoodGuys = {
   slug: "the-good-guys",
   title: "The Good Guys",
   world: "the-good-guys",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07JX4TF1Y",
+      externalLink: "https://www.amazon.com/dp/B07JX4TF1Y",
+    },
+  ],
   rank: "B",
   tags: ["Comedy"],
   unit: "words",

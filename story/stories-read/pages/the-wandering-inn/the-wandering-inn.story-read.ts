@@ -6,7 +6,12 @@ export const theWanderingInn = {
   slug: "the-wandering-inn",
   title: "The Wandering Inn",
   world: "the-wandering-inn",
-  source: "the-wandering-inn",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/",
+    },
+  ],
   rank: "S",
   tags: ["litrpg", "fantasy", "slice-of-life"],
   unit: "words",

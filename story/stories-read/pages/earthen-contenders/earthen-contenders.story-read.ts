@@ -6,7 +6,13 @@ export const earthenContenders = {
   slug: "earthen-contenders",
   title: "Earthen Contenders",
   world: "earthen-contenders",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CV85WPH7",
+      externalLink: "https://www.amazon.com/dp/B0CV85WPH7",
+    },
+  ],
   rank: "C",
   following: true,
   tags: ["System Apocalypse"],

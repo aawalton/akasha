@@ -6,7 +6,13 @@ export const viridianGateOnline = {
   slug: "viridian-gate-online",
   title: "Viridian Gate Online",
   world: "viridian-gate-online",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0753JVZSM",
+      externalLink: "https://www.amazon.com/dp/B0753JVZSM",
+    },
+  ],
   rank: "B",
   tags: ["VRMMO"],
   unit: "words",

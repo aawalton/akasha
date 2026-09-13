@@ -6,7 +6,13 @@ export const secondAgeOfRetha = {
   slug: "second-age-of-retha",
   title: "Second Age of Retha",
   world: "second-age-of-retha",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B077LJWQGP",
+      externalLink: "https://www.amazon.com/dp/B077LJWQGP",
+    },
+  ],
   following: true,
   unit: "words",
 } as const satisfies StoryRead

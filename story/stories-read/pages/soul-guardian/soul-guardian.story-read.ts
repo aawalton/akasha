@@ -6,7 +6,13 @@ export const soulGuardian = {
   slug: "soul-guardian",
   title: "Soul Guardian",
   world: "soul-guardian",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DTGF4TKM",
+      externalLink: "https://www.amazon.com/dp/B0DTGF4TKM",
+    },
+  ],
   rank: "B",
   following: true,
   tags: ["Slice-Of-Life"],
