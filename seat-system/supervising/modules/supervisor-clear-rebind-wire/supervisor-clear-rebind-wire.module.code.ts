@@ -1,4 +1,4 @@
-import { rotatedOf } from "akasha/seat-system/modules/seat-rotated-session/seat-rotated-session.module.code.ts"
+import { rotatedOf } from "akasha/agents/seats/modules/rotated-session/seat-rotated-session.module.code.ts"
 import {
   setCurrentAgentIdForSelfHeal,
   setCurrentSessionIdForSelfHeal,

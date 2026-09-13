@@ -7,6 +7,7 @@ import {
   writeSeatPage,
 } from "akasha/agents/seats/modules/page-writing/seat-page-writing.module.code.ts"
 import { composedNameOf } from "akasha/agents/seats/modules/rename/seat-rename.module.code.ts"
+import { rotatedOf } from "akasha/agents/seats/modules/rotated-session/seat-rotated-session.module.code.ts"
 import {
   keepSession,
   sessionRecordOf,
@@ -25,7 +26,6 @@ import { rotatedTranscriptFor } from "akasha/agents/seats/modules/transcript-rot
 import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
 import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
 import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { rotatedOf } from "akasha/seat-system/modules/seat-rotated-session/seat-rotated-session.module.code.ts"
 
 export interface BeatReport {
   readonly outcome: Outcome
