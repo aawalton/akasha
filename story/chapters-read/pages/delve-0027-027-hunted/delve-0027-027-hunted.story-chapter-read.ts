@@ -10,8 +10,12 @@ export const delve0027027Hunted = {
   ownLength: 2087,
   unit: "words",
   publishedAt: "2019-07-14",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/381684/027-hunted",
-  externalId: "381684",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "381684",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/381684/027-hunted",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

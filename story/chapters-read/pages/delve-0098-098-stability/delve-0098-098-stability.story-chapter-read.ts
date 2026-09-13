@@ -10,8 +10,12 @@ export const delve0098098Stability = {
   ownLength: 12120,
   unit: "words",
   publishedAt: "2020-06-07",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/506785/098-stability",
-  externalId: "506785",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "506785",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/506785/098-stability",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,12 @@ export const delve0141141Descent = {
   ownLength: 5009,
   unit: "words",
   publishedAt: "2021-04-04",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/657870/141-descent",
-  externalId: "657870",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "657870",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/657870/141-descent",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

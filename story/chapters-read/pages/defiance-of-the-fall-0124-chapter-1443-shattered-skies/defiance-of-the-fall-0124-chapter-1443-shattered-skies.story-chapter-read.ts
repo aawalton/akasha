@@ -10,9 +10,13 @@ export const defianceOfTheFall0124Chapter1443ShatteredSkies = {
   ownLength: 3017,
   unit: "words",
   publishedAt: "2026-08-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3778710/chapter-1443-shattered-skies",
-  externalId: "3778710",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3778710",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3778710/chapter-1443-shattered-skies",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

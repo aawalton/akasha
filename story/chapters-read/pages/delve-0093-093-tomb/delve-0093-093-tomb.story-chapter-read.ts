@@ -10,8 +10,12 @@ export const delve0093093Tomb = {
   ownLength: 7149,
   unit: "words",
   publishedAt: "2020-05-03",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/491104/093-tomb",
-  externalId: "491104",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "491104",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/491104/093-tomb",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

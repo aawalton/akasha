@@ -10,8 +10,12 @@ export const delve0121121Restraint = {
   ownLength: 6581,
   unit: "words",
   publishedAt: "2020-11-15",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/585212/121-restraint",
-  externalId: "585212",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "585212",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/585212/121-restraint",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

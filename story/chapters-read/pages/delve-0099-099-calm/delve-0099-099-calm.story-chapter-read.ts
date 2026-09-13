@@ -10,8 +10,12 @@ export const delve0099099Calm = {
   ownLength: 9059,
   unit: "words",
   publishedAt: "2020-06-14",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/510359/099-calm",
-  externalId: "510359",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "510359",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/510359/099-calm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

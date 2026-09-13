@@ -10,8 +10,12 @@ export const delve0170170Daybreak = {
   ownLength: 6571,
   unit: "words",
   publishedAt: "2021-11-07",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/781148/170-daybreak",
-  externalId: "781148",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "781148",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/781148/170-daybreak",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

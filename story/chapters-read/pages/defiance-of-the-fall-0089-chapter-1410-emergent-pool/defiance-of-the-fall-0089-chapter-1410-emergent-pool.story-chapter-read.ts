@@ -10,9 +10,13 @@ export const defianceOfTheFall0089Chapter1410EmergentPool = {
   ownLength: 2816,
   unit: "words",
   publishedAt: "2026-03-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3163202/chapter-1410-emergent-pool",
-  externalId: "3163202",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3163202",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3163202/chapter-1410-emergent-pool",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

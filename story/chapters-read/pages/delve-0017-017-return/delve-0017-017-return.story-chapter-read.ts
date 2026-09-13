@@ -10,8 +10,12 @@ export const delve0017017Return = {
   ownLength: 5484,
   unit: "words",
   publishedAt: "2019-06-08",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/370125/017-return",
-  externalId: "370125",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "370125",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/370125/017-return",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

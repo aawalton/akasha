@@ -10,8 +10,12 @@ export const delve0003003Pothole = {
   ownLength: 2151,
   unit: "words",
   publishedAt: "2019-06-02",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/368060/003-pothole",
-  externalId: "368060",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "368060",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/368060/003-pothole",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

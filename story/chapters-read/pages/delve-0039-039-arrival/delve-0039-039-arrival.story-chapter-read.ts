@@ -10,8 +10,12 @@ export const delve0039039Arrival = {
   ownLength: 4730,
   unit: "words",
   publishedAt: "2019-09-01",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/398036/039-arrival",
-  externalId: "398036",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "398036",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/398036/039-arrival",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

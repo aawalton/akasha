@@ -10,9 +10,13 @@ export const defianceOfTheFall0110Chapter1430Mummy = {
   ownLength: 3195,
   unit: "words",
   publishedAt: "2026-05-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3359028/chapter-1430-mummy",
-  externalId: "3359028",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3359028",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3359028/chapter-1430-mummy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

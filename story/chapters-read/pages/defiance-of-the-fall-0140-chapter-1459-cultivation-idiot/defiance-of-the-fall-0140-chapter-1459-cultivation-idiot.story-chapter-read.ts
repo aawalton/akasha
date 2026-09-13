@@ -7,12 +7,16 @@ export const defianceOfTheFall0140Chapter1459CultivationIdiot = {
   position: 140,
   publishedAt: "2026-09-13",
   unit: "words",
-  externalId: "3953620",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3953620",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3953620/chapter-1459-cultivation-idiot",
+    },
+  ],
   title: "Chapter 1,459 - Cultivation Idiot",
   story: "story-read/defiance-of-the-fall",
   ownLength: 2907,
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3953620/chapter-1459-cultivation-idiot",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const defianceOfTheFall0130Chapter1449Apex = {
   ownLength: 3218,
   unit: "words",
   publishedAt: "2026-08-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3839758/chapter-1449-apex",
-  externalId: "3839758",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3839758",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3839758/chapter-1449-apex",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

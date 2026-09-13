@@ -10,8 +10,12 @@ export const delve0002002OneOnOne = {
   ownLength: 3452,
   unit: "words",
   publishedAt: "2019-06-02",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/368033/002-one-on-one",
-  externalId: "368033",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "368033",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/368033/002-one-on-one",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

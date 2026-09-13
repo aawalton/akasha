@@ -10,8 +10,12 @@ export const delve0024024Answers = {
   ownLength: 3498,
   unit: "words",
   publishedAt: "2019-07-01",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/377564/024-answers",
-  externalId: "377564",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "377564",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/377564/024-answers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

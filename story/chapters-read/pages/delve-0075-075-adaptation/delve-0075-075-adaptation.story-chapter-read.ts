@@ -10,8 +10,12 @@ export const delve0075075Adaptation = {
   ownLength: 6342,
   unit: "words",
   publishedAt: "2020-01-26",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/449907/075-adaptation",
-  externalId: "449907",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "449907",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/449907/075-adaptation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

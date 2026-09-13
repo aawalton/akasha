@@ -10,9 +10,13 @@ export const defianceOfTheFall0123Chapter1442TimeAndSpace = {
   ownLength: 2806,
   unit: "words",
   publishedAt: "2026-08-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3769657/chapter-1442-time-and-space",
-  externalId: "3769657",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3769657",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3769657/chapter-1442-time-and-space",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

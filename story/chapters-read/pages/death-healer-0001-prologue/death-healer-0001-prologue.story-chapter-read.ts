@@ -10,8 +10,13 @@ export const deathHealer0001Prologue = {
   ownLength: 3142,
   unit: "words",
   publishedAt: "2025-05-04",
-  externalLink: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2253605/prologue",
-  externalId: "2253605",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2253605",
+      externalLink:
+        "https://www.royalroad.com/fiction/115399/death-healer/chapter/2253605/prologue",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

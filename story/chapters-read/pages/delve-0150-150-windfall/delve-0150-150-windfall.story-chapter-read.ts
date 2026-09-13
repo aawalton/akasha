@@ -10,8 +10,12 @@ export const delve0150150Windfall = {
   ownLength: 7217,
   unit: "words",
   publishedAt: "2021-06-13",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/698510/150-windfall",
-  externalId: "698510",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "698510",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/698510/150-windfall",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,12 @@ export const delve0048048Crucible = {
   ownLength: 3010,
   unit: "words",
   publishedAt: "2019-09-29",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/408177/048-crucible",
-  externalId: "408177",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "408177",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/408177/048-crucible",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

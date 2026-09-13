@@ -10,8 +10,12 @@ export const delve0044044Beast = {
   ownLength: 2043,
   unit: "words",
   publishedAt: "2019-09-18",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/403797/044-beast",
-  externalId: "403797",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "403797",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/403797/044-beast",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

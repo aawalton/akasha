@@ -12,9 +12,13 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0326B5HorsemanIntermission =
   unit: "words",
   completedAt: "2026-06-29T19:16:54.172Z",
   publishedAt: "2025-12-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2863052/b5-horseman-intermission",
-  externalId: "2863052",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2863052",
+      externalLink:
+        "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2863052/b5-horseman-intermission",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

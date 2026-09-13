@@ -10,8 +10,12 @@ export const delve0088088Casualties = {
   ownLength: 7667,
   unit: "words",
   publishedAt: "2020-03-29",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/474340/088-casualties",
-  externalId: "474340",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "474340",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/474340/088-casualties",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

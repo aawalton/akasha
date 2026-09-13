@@ -10,8 +10,12 @@ export const delve0071071Perspective = {
   ownLength: 4906,
   unit: "words",
   publishedAt: "2020-01-08",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/443407/071-perspective",
-  externalId: "443407",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "443407",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/443407/071-perspective",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

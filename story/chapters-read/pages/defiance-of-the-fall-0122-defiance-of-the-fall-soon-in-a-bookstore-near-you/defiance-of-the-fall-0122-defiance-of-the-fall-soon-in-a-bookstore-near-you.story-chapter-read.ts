@@ -10,9 +10,13 @@ export const defianceOfTheFall0122DefianceOfTheFallSoonInABookstoreNearYou = {
   ownLength: 515,
   unit: "words",
   publishedAt: "2026-06-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3547108/defiance-of-the-fall-soon-in-a-bookstore-near",
-  externalId: "3547108",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3547108",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3547108/defiance-of-the-fall-soon-in-a-bookstore-near",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

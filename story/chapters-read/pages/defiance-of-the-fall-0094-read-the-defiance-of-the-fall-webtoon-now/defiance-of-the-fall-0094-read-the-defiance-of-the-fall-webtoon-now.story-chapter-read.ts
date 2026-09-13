@@ -10,9 +10,13 @@ export const defianceOfTheFall0094ReadTheDefianceOfTheFallWebtoonNow = {
   ownLength: 93,
   unit: "words",
   publishedAt: "2026-03-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3205694/read-the-defiance-of-the-fall-webtoon-now",
-  externalId: "3205694",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3205694",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3205694/read-the-defiance-of-the-fall-webtoon-now",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,12 @@ export const delve0157157Speculation = {
   ownLength: 6180,
   unit: "words",
   publishedAt: "2021-08-08",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/730133/157-speculation",
-  externalId: "730133",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "730133",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/730133/157-speculation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

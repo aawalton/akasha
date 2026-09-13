@@ -10,8 +10,12 @@ export const delve0086086Explosion = {
   ownLength: 4711,
   unit: "words",
   publishedAt: "2020-03-15",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/468473/086-explosion",
-  externalId: "468473",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "468473",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/468473/086-explosion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

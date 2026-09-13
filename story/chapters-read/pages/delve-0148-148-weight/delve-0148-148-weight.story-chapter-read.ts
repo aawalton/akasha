@@ -10,8 +10,12 @@ export const delve0148148Weight = {
   ownLength: 5419,
   unit: "words",
   publishedAt: "2021-05-30",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/690548/148-weight",
-  externalId: "690548",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "690548",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/690548/148-weight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,12 @@ export const delve0035035Dream = {
   ownLength: 2378,
   unit: "words",
   publishedAt: "2019-08-25",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/395970/035-dream",
-  externalId: "395970",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "395970",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/395970/035-dream",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

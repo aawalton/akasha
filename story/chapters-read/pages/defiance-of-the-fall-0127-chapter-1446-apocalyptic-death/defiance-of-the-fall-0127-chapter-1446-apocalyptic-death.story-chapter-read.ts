@@ -10,9 +10,13 @@ export const defianceOfTheFall0127Chapter1446ApocalypticDeath = {
   ownLength: 3134,
   unit: "words",
   publishedAt: "2026-08-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3809717/chapter-1446-apocalyptic-death",
-  externalId: "3809717",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3809717",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3809717/chapter-1446-apocalyptic-death",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

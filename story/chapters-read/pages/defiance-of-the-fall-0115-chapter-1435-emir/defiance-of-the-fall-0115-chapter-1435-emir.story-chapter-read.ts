@@ -10,9 +10,13 @@ export const defianceOfTheFall0115Chapter1435Emir = {
   ownLength: 3090,
   unit: "words",
   publishedAt: "2026-05-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3408334/chapter-1435-emir",
-  externalId: "3408334",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3408334",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3408334/chapter-1435-emir",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

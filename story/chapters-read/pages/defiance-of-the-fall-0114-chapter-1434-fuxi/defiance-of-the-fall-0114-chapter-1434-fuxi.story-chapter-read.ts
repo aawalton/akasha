@@ -10,9 +10,13 @@ export const defianceOfTheFall0114Chapter1434Fuxi = {
   ownLength: 3083,
   unit: "words",
   publishedAt: "2026-05-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3396267/chapter-1434-fuxi",
-  externalId: "3396267",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3396267",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3396267/chapter-1434-fuxi",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

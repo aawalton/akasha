@@ -10,8 +10,12 @@ export const delve0050050Baggage = {
   ownLength: 3553,
   unit: "words",
   publishedAt: "2019-10-06",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/410382/050-baggage",
-  externalId: "410382",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "410382",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/410382/050-baggage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

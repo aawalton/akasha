@@ -10,9 +10,13 @@ export const defianceOfTheFall0132Chapter1451Invasion = {
   ownLength: 3198,
   unit: "words",
   publishedAt: "2026-08-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3864266/chapter-1451-invasion",
-  externalId: "3864266",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3864266",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3864266/chapter-1451-invasion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

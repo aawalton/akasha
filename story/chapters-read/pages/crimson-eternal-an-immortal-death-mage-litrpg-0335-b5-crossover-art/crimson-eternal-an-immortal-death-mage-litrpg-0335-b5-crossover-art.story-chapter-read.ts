@@ -12,9 +12,13 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0335B5CrossoverArt = {
   unit: "words",
   completedAt: "2026-06-29T19:17:11.268Z",
   publishedAt: "2026-02-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3071828/b5-crossover-art",
-  externalId: "3071828",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3071828",
+      externalLink:
+        "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3071828/b5-crossover-art",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

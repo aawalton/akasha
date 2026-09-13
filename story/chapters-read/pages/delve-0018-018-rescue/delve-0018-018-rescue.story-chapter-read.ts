@@ -10,8 +10,12 @@ export const delve0018018Rescue = {
   ownLength: 4924,
   unit: "words",
   publishedAt: "2019-06-13",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/371935/018-rescue",
-  externalId: "371935",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "371935",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/371935/018-rescue",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

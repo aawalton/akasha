@@ -10,8 +10,12 @@ export const delve0145145Monkeys = {
   ownLength: 7933,
   unit: "words",
   publishedAt: "2021-05-02",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/674873/145-monkeys",
-  externalId: "674873",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "674873",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/674873/145-monkeys",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

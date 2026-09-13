@@ -10,8 +10,12 @@ export const delve0060060Snow = {
   ownLength: 4718,
   unit: "words",
   publishedAt: "2019-11-10",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/422054/060-snow",
-  externalId: "422054",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "422054",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/422054/060-snow",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

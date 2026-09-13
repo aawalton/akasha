@@ -10,8 +10,12 @@ export const delve0143143Care = {
   ownLength: 7073,
   unit: "words",
   publishedAt: "2021-04-18",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/666660/143-care",
-  externalId: "666660",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "666660",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/666660/143-care",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const defianceOfTheFall0103Chapter1423DesperateMeasures = {
   ownLength: 2950,
   unit: "words",
   publishedAt: "2026-04-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3282290/chapter-1423-desperate-measures",
-  externalId: "3282290",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3282290",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3282290/chapter-1423-desperate-measures",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,12 @@ export const delve0092092Fracture = {
   ownLength: 4211,
   unit: "words",
   publishedAt: "2020-04-26",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/487810/092-fracture",
-  externalId: "487810",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "487810",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/487810/092-fracture",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

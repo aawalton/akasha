@@ -10,9 +10,13 @@ export const defianceOfTheFall0087Chapter1408HistoryRepeatingItself = {
   ownLength: 2989,
   unit: "words",
   publishedAt: "2026-03-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3130476/chapter-1408-history-repeating-itself",
-  externalId: "3130476",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3130476",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3130476/chapter-1408-history-repeating-itself",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

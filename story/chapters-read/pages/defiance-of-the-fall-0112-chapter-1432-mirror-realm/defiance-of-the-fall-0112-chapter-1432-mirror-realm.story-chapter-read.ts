@@ -10,9 +10,13 @@ export const defianceOfTheFall0112Chapter1432MirrorRealm = {
   ownLength: 3074,
   unit: "words",
   publishedAt: "2026-05-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3379343/chapter-1432-mirror-realm",
-  externalId: "3379343",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3379343",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3379343/chapter-1432-mirror-realm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

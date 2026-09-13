@@ -10,8 +10,12 @@ export const delve0019019Succor = {
   ownLength: 2677,
   unit: "words",
   publishedAt: "2019-06-13",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/371955/019-succor",
-  externalId: "371955",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "371955",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/371955/019-succor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,12 @@ export const delve0168168Escape = {
   ownLength: 5685,
   unit: "words",
   publishedAt: "2021-10-24",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/771918/168-escape",
-  externalId: "771918",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "771918",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/771918/168-escape",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

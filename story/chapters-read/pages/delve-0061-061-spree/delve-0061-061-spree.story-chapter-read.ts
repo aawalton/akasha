@@ -10,8 +10,12 @@ export const delve0061061Spree = {
   ownLength: 4660,
   unit: "words",
   publishedAt: "2019-11-13",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/423316/061-spree",
-  externalId: "423316",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "423316",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/423316/061-spree",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

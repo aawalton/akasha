@@ -10,9 +10,13 @@ export const defianceOfTheFall0095Chapter1415TheLastRayOfHope = {
   ownLength: 2969,
   unit: "words",
   publishedAt: "2026-03-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3207704/chapter-1415-the-last-ray-of-hope",
-  externalId: "3207704",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3207704",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3207704/chapter-1415-the-last-ray-of-hope",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

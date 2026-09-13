@@ -10,9 +10,13 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0355NewStoryReleaseToPrepare
   ownLength: 308,
   unit: "words",
   publishedAt: "2026-07-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3642038/new-story-release-to-prepare-for-reapers-resurgence",
-  externalId: "3642038",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3642038",
+      externalLink:
+        "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3642038/new-story-release-to-prepare-for-reapers-resurgence",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

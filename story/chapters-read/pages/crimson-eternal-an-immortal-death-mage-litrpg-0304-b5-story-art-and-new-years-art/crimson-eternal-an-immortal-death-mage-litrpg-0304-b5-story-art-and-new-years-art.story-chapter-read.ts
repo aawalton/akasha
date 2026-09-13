@@ -12,9 +12,13 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0304B5StoryArtAndNewYearsArt
   unit: "words",
   completedAt: "2026-06-29T19:16:09.338Z",
   publishedAt: "2025-09-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2590609/b5-story-art-and-new-years-art",
-  externalId: "2590609",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2590609",
+      externalLink:
+        "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2590609/b5-story-art-and-new-years-art",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

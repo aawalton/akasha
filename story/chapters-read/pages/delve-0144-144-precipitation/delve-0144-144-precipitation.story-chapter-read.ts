@@ -10,8 +10,13 @@ export const delve0144144Precipitation = {
   ownLength: 4412,
   unit: "words",
   publishedAt: "2021-04-25",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/670533/144-precipitation",
-  externalId: "670533",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "670533",
+      externalLink:
+        "https://www.royalroad.com/fiction/25225/delve/chapter/670533/144-precipitation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

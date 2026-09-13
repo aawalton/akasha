@@ -10,8 +10,12 @@ export const delve0090090Buried = {
   ownLength: 4847,
   unit: "words",
   publishedAt: "2020-04-12",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/481076/090-buried",
-  externalId: "481076",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "481076",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/481076/090-buried",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,12 @@ export const delve0124124Engage = {
   ownLength: 6002,
   unit: "words",
   publishedAt: "2020-12-06",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/595875/124-engage",
-  externalId: "595875",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "595875",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/595875/124-engage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0332B5Chapter29 = {
   unit: "words",
   completedAt: "2026-06-29T19:17:05.642Z",
   publishedAt: "2026-01-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2999925/b5-chapter-29",
-  externalId: "2999925",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2999925",
+      externalLink:
+        "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2999925/b5-chapter-29",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

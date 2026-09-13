@@ -10,8 +10,12 @@ export const delve0116116Squall = {
   ownLength: 6075,
   unit: "words",
   publishedAt: "2020-10-11",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/567579/116-squall",
-  externalId: "567579",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "567579",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/567579/116-squall",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

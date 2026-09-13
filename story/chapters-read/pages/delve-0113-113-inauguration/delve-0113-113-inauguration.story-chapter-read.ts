@@ -10,8 +10,12 @@ export const delve0113113Inauguration = {
   ownLength: 8939,
   unit: "words",
   publishedAt: "2020-09-20",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/557320/113-inauguration",
-  externalId: "557320",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "557320",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/557320/113-inauguration",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

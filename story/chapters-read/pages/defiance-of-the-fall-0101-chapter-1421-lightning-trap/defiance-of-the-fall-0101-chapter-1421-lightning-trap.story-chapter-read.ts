@@ -10,9 +10,13 @@ export const defianceOfTheFall0101Chapter1421LightningTrap = {
   ownLength: 2915,
   unit: "words",
   publishedAt: "2026-04-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3264926/chapter-1421-lightning-trap",
-  externalId: "3264926",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3264926",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3264926/chapter-1421-lightning-trap",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const defianceOfTheFall0116Chapter1436SeverOrInvite = {
   ownLength: 3177,
   unit: "words",
   publishedAt: "2026-05-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3419298/chapter-1436-sever-or-invite",
-  externalId: "3419298",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3419298",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3419298/chapter-1436-sever-or-invite",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

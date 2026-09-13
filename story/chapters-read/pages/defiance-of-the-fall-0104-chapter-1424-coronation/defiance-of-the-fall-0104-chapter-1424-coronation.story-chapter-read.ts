@@ -10,9 +10,13 @@ export const defianceOfTheFall0104Chapter1424Coronation = {
   ownLength: 3023,
   unit: "words",
   publishedAt: "2026-04-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3293515/chapter-1424-coronation",
-  externalId: "3293515",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3293515",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3293515/chapter-1424-coronation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,12 @@ export const delve0007007Slime = {
   ownLength: 3132,
   unit: "words",
   publishedAt: "2019-06-02",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/368184/007-slime",
-  externalId: "368184",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "368184",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/368184/007-slime",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

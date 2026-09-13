@@ -10,9 +10,13 @@ export const defianceOfTheFall0097Chapter1417Interment = {
   ownLength: 3349,
   unit: "words",
   publishedAt: "2026-04-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3227976/chapter-1417-interment",
-  externalId: "3227976",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3227976",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3227976/chapter-1417-interment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

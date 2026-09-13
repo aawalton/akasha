@@ -10,8 +10,12 @@ export const delve0031031Gear = {
   ownLength: 3499,
   unit: "words",
   publishedAt: "2019-08-09",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/390594/031-gear",
-  externalId: "390594",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "390594",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/390594/031-gear",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

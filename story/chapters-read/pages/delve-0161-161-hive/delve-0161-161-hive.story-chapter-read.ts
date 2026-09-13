@@ -10,8 +10,12 @@ export const delve0161161Hive = {
   ownLength: 3303,
   unit: "words",
   publishedAt: "2021-09-05",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/745378/161-hive",
-  externalId: "745378",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "745378",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/745378/161-hive",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

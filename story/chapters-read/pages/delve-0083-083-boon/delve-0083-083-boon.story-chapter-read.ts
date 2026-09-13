@@ -10,8 +10,12 @@ export const delve0083083Boon = {
   ownLength: 7118,
   unit: "words",
   publishedAt: "2020-03-01",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/463202/083-boon",
-  externalId: "463202",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "463202",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/463202/083-boon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

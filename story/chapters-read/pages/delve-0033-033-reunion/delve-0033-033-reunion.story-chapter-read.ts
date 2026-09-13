@@ -10,8 +10,12 @@ export const delve0033033Reunion = {
   ownLength: 3371,
   unit: "words",
   publishedAt: "2019-08-17",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/393326/033-reunion",
-  externalId: "393326",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "393326",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/393326/033-reunion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

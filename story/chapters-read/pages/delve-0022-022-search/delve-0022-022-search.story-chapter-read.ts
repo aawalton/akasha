@@ -10,8 +10,12 @@ export const delve0022022Search = {
   ownLength: 2733,
   unit: "words",
   publishedAt: "2019-06-24",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/375272/022-search",
-  externalId: "375272",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "375272",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/375272/022-search",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

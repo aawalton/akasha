@@ -10,8 +10,12 @@ export const delve0025025Clay = {
   ownLength: 3298,
   unit: "words",
   publishedAt: "2019-07-05",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/378683/025-clay",
-  externalId: "378683",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "378683",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/378683/025-clay",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

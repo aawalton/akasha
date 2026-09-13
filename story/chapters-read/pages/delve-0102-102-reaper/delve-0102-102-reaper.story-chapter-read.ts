@@ -10,8 +10,12 @@ export const delve0102102Reaper = {
   ownLength: 5389,
   unit: "words",
   publishedAt: "2020-07-05",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/519908/102-reaper",
-  externalId: "519908",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "519908",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/519908/102-reaper",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,12 @@ export const delve0006006Skill = {
   ownLength: 2953,
   unit: "words",
   publishedAt: "2019-06-02",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/368135/006-skill",
-  externalId: "368135",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "368135",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/368135/006-skill",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

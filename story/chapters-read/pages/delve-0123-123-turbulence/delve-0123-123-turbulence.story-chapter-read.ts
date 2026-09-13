@@ -10,8 +10,12 @@ export const delve0123123Turbulence = {
   ownLength: 6116,
   unit: "words",
   publishedAt: "2020-11-29",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/592297/123-turbulence",
-  externalId: "592297",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "592297",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/592297/123-turbulence",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

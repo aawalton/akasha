@@ -10,8 +10,12 @@ export const delve0062062Complication = {
   ownLength: 5129,
   unit: "words",
   publishedAt: "2019-11-17",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/424497/062-complication",
-  externalId: "424497",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "424497",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/424497/062-complication",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

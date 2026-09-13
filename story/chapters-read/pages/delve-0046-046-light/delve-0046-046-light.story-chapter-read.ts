@@ -10,8 +10,12 @@ export const delve0046046Light = {
   ownLength: 1688,
   unit: "words",
   publishedAt: "2019-09-25",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/407039/046-light",
-  externalId: "407039",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "407039",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/407039/046-light",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

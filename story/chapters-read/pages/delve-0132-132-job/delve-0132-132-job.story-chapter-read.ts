@@ -10,8 +10,12 @@ export const delve0132132Job = {
   ownLength: 7116,
   unit: "words",
   publishedAt: "2021-01-31",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/623046/132-job",
-  externalId: "623046",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "623046",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/623046/132-job",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

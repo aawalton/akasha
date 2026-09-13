@@ -10,8 +10,12 @@ export const delve0119119Worry = {
   ownLength: 4581,
   unit: "words",
   publishedAt: "2020-11-01",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/577539/119-worry",
-  externalId: "577539",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "577539",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/577539/119-worry",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

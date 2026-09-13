@@ -10,8 +10,12 @@ export const delve0055055Armored = {
   ownLength: 5636,
   unit: "words",
   publishedAt: "2019-10-22",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/415574/055-armored",
-  externalId: "415574",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "415574",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/415574/055-armored",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

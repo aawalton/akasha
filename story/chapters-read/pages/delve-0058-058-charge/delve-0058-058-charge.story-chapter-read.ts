@@ -10,8 +10,12 @@ export const delve0058058Charge = {
   ownLength: 4246,
   unit: "words",
   publishedAt: "2019-11-03",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/419522/058-charge",
-  externalId: "419522",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "419522",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/419522/058-charge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

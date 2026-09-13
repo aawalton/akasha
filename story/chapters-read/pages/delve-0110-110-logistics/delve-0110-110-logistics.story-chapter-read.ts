@@ -10,8 +10,12 @@ export const delve0110110Logistics = {
   ownLength: 5700,
   unit: "words",
   publishedAt: "2020-08-30",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/546548/110-logistics",
-  externalId: "546548",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "546548",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/546548/110-logistics",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

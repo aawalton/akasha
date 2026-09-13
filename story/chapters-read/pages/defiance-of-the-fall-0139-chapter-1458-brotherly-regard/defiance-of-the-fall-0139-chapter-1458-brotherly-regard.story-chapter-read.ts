@@ -7,12 +7,16 @@ export const defianceOfTheFall0139Chapter1458BrotherlyRegard = {
   position: 139,
   publishedAt: "2026-09-10",
   unit: "words",
-  externalId: "3940362",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3940362",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3940362/chapter-1458-brotherly-regard",
+    },
+  ],
   title: "Chapter 1,458 - Brotherly Regard",
   story: "story-read/defiance-of-the-fall",
   ownLength: 3003,
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3940362/chapter-1458-brotherly-regard",
   prose: "txt",
 } as const satisfies StoryChapterRead

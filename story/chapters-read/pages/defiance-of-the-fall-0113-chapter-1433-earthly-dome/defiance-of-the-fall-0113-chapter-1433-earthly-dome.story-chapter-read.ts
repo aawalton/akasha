@@ -10,9 +10,13 @@ export const defianceOfTheFall0113Chapter1433EarthlyDome = {
   ownLength: 2887,
   unit: "words",
   publishedAt: "2026-05-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3387310/chapter-1433-earthly-dome",
-  externalId: "3387310",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3387310",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3387310/chapter-1433-earthly-dome",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

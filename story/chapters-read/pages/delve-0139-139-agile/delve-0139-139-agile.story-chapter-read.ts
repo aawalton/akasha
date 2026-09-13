@@ -10,8 +10,12 @@ export const delve0139139Agile = {
   ownLength: 6602,
   unit: "words",
   publishedAt: "2021-03-21",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/650193/139-agile",
-  externalId: "650193",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "650193",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/650193/139-agile",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,12 @@ export const delve0169169Holdout = {
   ownLength: 4838,
   unit: "words",
   publishedAt: "2021-10-31",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/775829/169-holdout",
-  externalId: "775829",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "775829",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/775829/169-holdout",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

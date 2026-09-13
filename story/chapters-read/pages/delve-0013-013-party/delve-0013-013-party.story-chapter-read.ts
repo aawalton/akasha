@@ -10,8 +10,12 @@ export const delve0013013Party = {
   ownLength: 3890,
   unit: "words",
   publishedAt: "2019-06-08",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/369920/013-party",
-  externalId: "369920",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "369920",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/369920/013-party",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

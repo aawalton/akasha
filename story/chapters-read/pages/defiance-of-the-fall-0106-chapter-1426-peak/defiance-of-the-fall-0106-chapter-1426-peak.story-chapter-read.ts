@@ -10,9 +10,13 @@ export const defianceOfTheFall0106Chapter1426Peak = {
   ownLength: 3189,
   unit: "words",
   publishedAt: "2026-04-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3321831/chapter-1426-peak",
-  externalId: "3321831",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3321831",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3321831/chapter-1426-peak",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

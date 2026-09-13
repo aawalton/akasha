@@ -10,8 +10,12 @@ export const delve0059059King = {
   ownLength: 5313,
   unit: "words",
   publishedAt: "2019-11-07",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/420911/059-king",
-  externalId: "420911",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "420911",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/420911/059-king",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

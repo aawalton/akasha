@@ -10,8 +10,12 @@ export const delve0109109Inception = {
   ownLength: 5858,
   unit: "words",
   publishedAt: "2020-08-23",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/543017/109-inception",
-  externalId: "543017",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "543017",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/543017/109-inception",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

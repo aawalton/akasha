@@ -10,9 +10,13 @@ export const defianceOfTheFall0096Chapter1416LordOfTheUnderworld = {
   ownLength: 3261,
   unit: "words",
   publishedAt: "2026-03-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3215343/chapter-1416-lord-of-the-underworld",
-  externalId: "3215343",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3215343",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3215343/chapter-1416-lord-of-the-underworld",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

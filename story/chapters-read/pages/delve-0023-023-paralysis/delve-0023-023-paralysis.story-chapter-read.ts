@@ -10,8 +10,12 @@ export const delve0023023Paralysis = {
   ownLength: 3909,
   unit: "words",
   publishedAt: "2019-06-27",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/376480/023-paralysis",
-  externalId: "376480",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "376480",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/376480/023-paralysis",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

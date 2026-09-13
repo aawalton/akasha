@@ -10,8 +10,12 @@ export const delve0112112Revelation = {
   ownLength: 6237,
   unit: "words",
   publishedAt: "2020-09-13",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/553912/112-revelation",
-  externalId: "553912",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "553912",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/553912/112-revelation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

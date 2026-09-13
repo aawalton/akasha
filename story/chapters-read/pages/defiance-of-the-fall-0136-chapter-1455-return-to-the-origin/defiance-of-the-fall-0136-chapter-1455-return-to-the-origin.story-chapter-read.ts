@@ -8,11 +8,15 @@ export const defianceOfTheFall0136Chapter1455ReturnToTheOrigin = {
   position: 136,
   publishedAt: "2026-09-03",
   unit: "words",
-  externalId: "3905723",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3905723",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3905723/chapter-1455-return-to-the-origin",
+    },
+  ],
   title: "Chapter 1,455 - Return to the Origin",
   ownLength: 2662,
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3905723/chapter-1455-return-to-the-origin",
   prose: "txt",
 } as const satisfies StoryChapterRead

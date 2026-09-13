@@ -10,8 +10,12 @@ export const delve0152152Compression = {
   ownLength: 6475,
   unit: "words",
   publishedAt: "2021-06-27",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/706444/152-compression",
-  externalId: "706444",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "706444",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/706444/152-compression",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

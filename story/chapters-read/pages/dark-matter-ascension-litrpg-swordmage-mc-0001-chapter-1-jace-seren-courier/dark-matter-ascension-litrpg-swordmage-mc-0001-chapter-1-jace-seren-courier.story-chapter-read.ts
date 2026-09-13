@@ -10,9 +10,13 @@ export const darkMatterAscensionLitrpgSwordmageMc0001Chapter1JaceSerenCourier = 
   ownLength: 2353,
   unit: "words",
   publishedAt: "2024-12-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/99657/dark-matter-ascension-stub/chapter/1935565/chapter-1-jace-seren-courier",
-  externalId: "1935565",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1935565",
+      externalLink:
+        "https://www.royalroad.com/fiction/99657/dark-matter-ascension-stub/chapter/1935565/chapter-1-jace-seren-courier",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

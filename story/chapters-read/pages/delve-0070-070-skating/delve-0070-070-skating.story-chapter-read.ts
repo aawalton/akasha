@@ -10,8 +10,12 @@ export const delve0070070Skating = {
   ownLength: 6699,
   unit: "words",
   publishedAt: "2020-01-05",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/442058/070-skating",
-  externalId: "442058",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "442058",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/442058/070-skating",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

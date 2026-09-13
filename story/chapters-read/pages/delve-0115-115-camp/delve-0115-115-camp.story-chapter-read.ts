@@ -10,8 +10,12 @@ export const delve0115115Camp = {
   ownLength: 5843,
   unit: "words",
   publishedAt: "2020-10-04",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/564178/115-camp",
-  externalId: "564178",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "564178",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/564178/115-camp",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,12 @@ export const delve0127127Staredown = {
   ownLength: 5888,
   unit: "words",
   publishedAt: "2020-12-27",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/605615/127-staredown",
-  externalId: "605615",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "605615",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/605615/127-staredown",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

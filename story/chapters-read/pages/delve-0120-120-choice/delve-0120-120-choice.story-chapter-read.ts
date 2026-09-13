@@ -10,8 +10,12 @@ export const delve0120120Choice = {
   ownLength: 7320,
   unit: "words",
   publishedAt: "2020-11-08",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/581221/120-choice",
-  externalId: "581221",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "581221",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/581221/120-choice",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

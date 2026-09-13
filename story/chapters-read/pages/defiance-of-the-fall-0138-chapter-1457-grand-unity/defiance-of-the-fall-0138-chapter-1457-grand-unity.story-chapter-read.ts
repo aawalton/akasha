@@ -8,11 +8,15 @@ export const defianceOfTheFall0138Chapter1457GrandUnity = {
   position: 138,
   publishedAt: "2026-09-08",
   unit: "words",
-  externalId: "3930931",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3930931",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3930931/chapter-1457-grand-unity",
+    },
+  ],
   title: "Chapter 1,457 - Grand Unity",
   ownLength: 2903,
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3930931/chapter-1457-grand-unity",
   prose: "txt",
 } as const satisfies StoryChapterRead

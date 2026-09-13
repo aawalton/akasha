@@ -10,8 +10,12 @@ export const delve0164164Deluge = {
   ownLength: 3851,
   unit: "words",
   publishedAt: "2021-09-26",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/756806/164-deluge",
-  externalId: "756806",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "756806",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/756806/164-deluge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

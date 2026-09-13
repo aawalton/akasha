@@ -10,8 +10,12 @@ export const delve0077077Chill = {
   ownLength: 4554,
   unit: "words",
   publishedAt: "2020-02-01",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/452279/077-chill",
-  externalId: "452279",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "452279",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/452279/077-chill",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,12 @@ export const delve0151151Forethought = {
   ownLength: 8075,
   unit: "words",
   publishedAt: "2021-06-20",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/702469/151-forethought",
-  externalId: "702469",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "702469",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/702469/151-forethought",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

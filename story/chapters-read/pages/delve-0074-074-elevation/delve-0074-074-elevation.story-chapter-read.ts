@@ -10,8 +10,12 @@ export const delve0074074Elevation = {
   ownLength: 5207,
   unit: "words",
   publishedAt: "2020-01-22",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/448586/074-elevation",
-  externalId: "448586",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "448586",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/448586/074-elevation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

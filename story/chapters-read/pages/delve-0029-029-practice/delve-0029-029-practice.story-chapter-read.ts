@@ -10,8 +10,12 @@ export const delve0029029Practice = {
   ownLength: 3210,
   unit: "words",
   publishedAt: "2019-07-28",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/386369/029-practice",
-  externalId: "386369",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "386369",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/386369/029-practice",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

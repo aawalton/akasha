@@ -10,9 +10,13 @@ export const defianceOfTheFall0090Chapter1411Servants = {
   ownLength: 3348,
   unit: "words",
   publishedAt: "2026-03-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3170297/chapter-1411-servants",
-  externalId: "3170297",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3170297",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3170297/chapter-1411-servants",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

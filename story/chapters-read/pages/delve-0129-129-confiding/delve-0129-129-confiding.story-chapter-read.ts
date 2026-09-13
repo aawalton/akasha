@@ -10,8 +10,12 @@ export const delve0129129Confiding = {
   ownLength: 5539,
   unit: "words",
   publishedAt: "2021-01-10",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/612397/129-confiding",
-  externalId: "612397",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "612397",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/612397/129-confiding",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

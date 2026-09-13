@@ -10,8 +10,12 @@ export const delve0175175Improbable = {
   ownLength: 4748,
   unit: "words",
   publishedAt: "2021-12-19",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/809053/175-improbable",
-  externalId: "809053",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "809053",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/809053/175-improbable",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

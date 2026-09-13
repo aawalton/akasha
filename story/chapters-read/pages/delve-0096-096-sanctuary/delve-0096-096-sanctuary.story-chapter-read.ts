@@ -10,8 +10,12 @@ export const delve0096096Sanctuary = {
   ownLength: 7132,
   unit: "words",
   publishedAt: "2020-05-24",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/500585/096-sanctuary",
-  externalId: "500585",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "500585",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/500585/096-sanctuary",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

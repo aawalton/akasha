@@ -10,8 +10,12 @@ export const delve0040040Lair = {
   ownLength: 5312,
   unit: "words",
   publishedAt: "2019-09-04",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/399191/040-lair",
-  externalId: "399191",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "399191",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/399191/040-lair",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

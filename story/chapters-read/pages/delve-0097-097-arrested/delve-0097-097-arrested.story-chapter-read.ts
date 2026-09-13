@@ -10,8 +10,12 @@ export const delve0097097Arrested = {
   ownLength: 9725,
   unit: "words",
   publishedAt: "2020-05-31",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/503597/097-arrested",
-  externalId: "503597",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "503597",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/503597/097-arrested",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

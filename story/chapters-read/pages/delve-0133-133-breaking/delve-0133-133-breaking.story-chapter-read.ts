@@ -10,8 +10,12 @@ export const delve0133133Breaking = {
   ownLength: 6080,
   unit: "words",
   publishedAt: "2021-02-07",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/627111/133-breaking",
-  externalId: "627111",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "627111",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/627111/133-breaking",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

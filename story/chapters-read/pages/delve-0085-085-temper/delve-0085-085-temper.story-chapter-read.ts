@@ -10,8 +10,12 @@ export const delve0085085Temper = {
   ownLength: 5891,
   unit: "words",
   publishedAt: "2020-03-11",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/467297/085-temper",
-  externalId: "467297",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "467297",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/467297/085-temper",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

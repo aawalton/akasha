@@ -10,8 +10,12 @@ export const delve0064064Exposition = {
   ownLength: 9717,
   unit: "words",
   publishedAt: "2019-11-24",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/427026/064-exposition",
-  externalId: "427026",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "427026",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/427026/064-exposition",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

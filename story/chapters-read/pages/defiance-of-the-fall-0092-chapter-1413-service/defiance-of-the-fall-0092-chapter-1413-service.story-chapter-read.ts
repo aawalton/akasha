@@ -10,9 +10,13 @@ export const defianceOfTheFall0092Chapter1413Service = {
   ownLength: 3360,
   unit: "words",
   publishedAt: "2026-03-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3189167/chapter-1413-service",
-  externalId: "3189167",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3189167",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3189167/chapter-1413-service",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,12 @@ export const delve0016016Cleanup = {
   ownLength: 2055,
   unit: "words",
   publishedAt: "2019-06-08",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/370111/016-cleanup",
-  externalId: "370111",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "370111",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/370111/016-cleanup",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

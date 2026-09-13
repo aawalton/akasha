@@ -10,8 +10,12 @@ export const delve0009009Commerce = {
   ownLength: 4167,
   unit: "words",
   publishedAt: "2019-06-04",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/368622/009-commerce",
-  externalId: "368622",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "368622",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/368622/009-commerce",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

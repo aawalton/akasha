@@ -10,8 +10,12 @@ export const delve0065065Ring = {
   ownLength: 4103,
   unit: "words",
   publishedAt: "2019-12-01",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/429737/065-ring",
-  externalId: "429737",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "429737",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/429737/065-ring",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

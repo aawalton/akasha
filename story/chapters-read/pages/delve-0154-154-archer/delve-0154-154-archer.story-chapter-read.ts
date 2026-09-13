@@ -10,8 +10,12 @@ export const delve0154154Archer = {
   ownLength: 6316,
   unit: "words",
   publishedAt: "2021-07-11",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/714480/154-archer",
-  externalId: "714480",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "714480",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/714480/154-archer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

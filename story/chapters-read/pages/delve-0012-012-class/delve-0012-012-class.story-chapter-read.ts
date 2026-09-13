@@ -10,8 +10,12 @@ export const delve0012012Class = {
   ownLength: 3248,
   unit: "words",
   publishedAt: "2019-06-07",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/369623/012-class",
-  externalId: "369623",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "369623",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/369623/012-class",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,12 @@ export const delve0106106Imprint = {
   ownLength: 6002,
   unit: "words",
   publishedAt: "2020-08-02",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/533069/106-imprint",
-  externalId: "533069",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "533069",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/533069/106-imprint",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

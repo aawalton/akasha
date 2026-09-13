@@ -8,11 +8,15 @@ export const defianceOfTheFall0137Chapter1456Return = {
   position: 137,
   publishedAt: "2026-09-06",
   unit: "words",
-  externalId: "3921302",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3921302",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3921302/chapter-1456-return",
+    },
+  ],
   title: "Chapter 1,456 - Return",
   ownLength: 2907,
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3921302/chapter-1456-return",
   prose: "txt",
 } as const satisfies StoryChapterRead

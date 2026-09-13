@@ -10,8 +10,12 @@ export const delve0165165Shake = {
   ownLength: 5894,
   unit: "words",
   publishedAt: "2021-10-03",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/760686/165-shake",
-  externalId: "760686",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "760686",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/760686/165-shake",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

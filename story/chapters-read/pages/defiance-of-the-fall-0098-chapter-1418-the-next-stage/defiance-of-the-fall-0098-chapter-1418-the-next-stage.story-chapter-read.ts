@@ -10,9 +10,13 @@ export const defianceOfTheFall0098Chapter1418TheNextStage = {
   ownLength: 3116,
   unit: "words",
   publishedAt: "2026-04-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3235606/chapter-1418-the-next-stage",
-  externalId: "3235606",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3235606",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3235606/chapter-1418-the-next-stage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

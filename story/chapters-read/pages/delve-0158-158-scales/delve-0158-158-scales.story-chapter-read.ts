@@ -10,8 +10,12 @@ export const delve0158158Scales = {
   ownLength: 7379,
   unit: "words",
   publishedAt: "2021-08-15",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/734088/158-scales",
-  externalId: "734088",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "734088",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/734088/158-scales",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

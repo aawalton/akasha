@@ -10,8 +10,12 @@ export const delve0137137Geometry = {
   ownLength: 6229,
   unit: "words",
   publishedAt: "2021-03-07",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/642716/137-geometry",
-  externalId: "642716",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "642716",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/642716/137-geometry",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

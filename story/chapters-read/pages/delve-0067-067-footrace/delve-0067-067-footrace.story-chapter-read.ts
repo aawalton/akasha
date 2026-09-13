@@ -10,8 +10,12 @@ export const delve0067067Footrace = {
   ownLength: 5347,
   unit: "words",
   publishedAt: "2019-12-15",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/434964/067-footrace",
-  externalId: "434964",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "434964",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/434964/067-footrace",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

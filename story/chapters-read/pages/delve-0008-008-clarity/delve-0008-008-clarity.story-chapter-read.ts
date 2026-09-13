@@ -10,8 +10,12 @@ export const delve0008008Clarity = {
   ownLength: 3175,
   unit: "words",
   publishedAt: "2019-06-02",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/368189/008-clarity",
-  externalId: "368189",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "368189",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/368189/008-clarity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

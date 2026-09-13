@@ -10,8 +10,12 @@ export const delve0104104Mind = {
   ownLength: 9342,
   unit: "words",
   publishedAt: "2020-07-19",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/526411/104-mind",
-  externalId: "526411",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "526411",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/526411/104-mind",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

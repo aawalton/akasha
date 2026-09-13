@@ -10,8 +10,12 @@ export const delve0138138Metal = {
   ownLength: 5388,
   unit: "words",
   publishedAt: "2021-03-14",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/646571/138-metal",
-  externalId: "646571",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "646571",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/646571/138-metal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

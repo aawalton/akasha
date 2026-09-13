@@ -10,9 +10,13 @@ export const defianceOfTheFall0118Chapter1438Interference = {
   ownLength: 3156,
   unit: "words",
   publishedAt: "2026-05-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3440541/chapter-1438-interference",
-  externalId: "3440541",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3440541",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3440541/chapter-1438-interference",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

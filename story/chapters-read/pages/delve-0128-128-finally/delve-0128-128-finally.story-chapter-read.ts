@@ -10,8 +10,12 @@ export const delve0128128Finally = {
   ownLength: 3777,
   unit: "words",
   publishedAt: "2021-01-03",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/608931/128-finally",
-  externalId: "608931",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "608931",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/608931/128-finally",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

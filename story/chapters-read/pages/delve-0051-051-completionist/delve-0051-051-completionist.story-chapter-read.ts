@@ -10,8 +10,13 @@ export const delve0051051Completionist = {
   ownLength: 5943,
   unit: "words",
   publishedAt: "2019-10-07",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/410986/051-completionist",
-  externalId: "410986",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "410986",
+      externalLink:
+        "https://www.royalroad.com/fiction/25225/delve/chapter/410986/051-completionist",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

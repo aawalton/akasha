@@ -10,8 +10,12 @@ export const delve0136136Resolve = {
   ownLength: 9121,
   unit: "words",
   publishedAt: "2021-02-28",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/638918/136-resolve",
-  externalId: "638918",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "638918",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/638918/136-resolve",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

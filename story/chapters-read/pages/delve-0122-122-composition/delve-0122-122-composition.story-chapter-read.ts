@@ -10,8 +10,12 @@ export const delve0122122Composition = {
   ownLength: 6983,
   unit: "words",
   publishedAt: "2020-11-22",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/588742/122-composition",
-  externalId: "588742",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "588742",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/588742/122-composition",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

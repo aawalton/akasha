@@ -10,8 +10,12 @@ export const delve0087087Pet = {
   ownLength: 6750,
   unit: "words",
   publishedAt: "2020-03-22",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/471204/087-pet",
-  externalId: "471204",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "471204",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/471204/087-pet",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

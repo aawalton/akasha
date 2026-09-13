@@ -10,8 +10,12 @@ export const delve0160160Spelunking = {
   ownLength: 5133,
   unit: "words",
   publishedAt: "2021-08-29",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/741736/160-spelunking",
-  externalId: "741736",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "741736",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/741736/160-spelunking",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

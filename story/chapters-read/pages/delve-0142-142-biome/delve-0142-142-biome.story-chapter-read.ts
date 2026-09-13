@@ -10,8 +10,12 @@ export const delve0142142Biome = {
   ownLength: 4843,
   unit: "words",
   publishedAt: "2021-04-11",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/662369/142-biome",
-  externalId: "662369",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "662369",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/662369/142-biome",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,12 @@ export const delve0004004Statistics = {
   ownLength: 5605,
   unit: "words",
   publishedAt: "2019-06-02",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/368068/004-statistics",
-  externalId: "368068",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "368068",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/368068/004-statistics",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

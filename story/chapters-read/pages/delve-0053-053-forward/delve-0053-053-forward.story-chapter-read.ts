@@ -10,8 +10,12 @@ export const delve0053053Forward = {
   ownLength: 4276,
   unit: "words",
   publishedAt: "2019-10-15",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/413569/053-forward",
-  externalId: "413569",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "413569",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/413569/053-forward",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

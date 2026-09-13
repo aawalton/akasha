@@ -12,9 +12,13 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0293B4Intermission4 = {
   unit: "words",
   completedAt: "2026-06-29T19:15:46.175Z",
   publishedAt: "2025-07-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2476186/b4-intermission-4",
-  externalId: "2476186",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2476186",
+      externalLink:
+        "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2476186/b4-intermission-4",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

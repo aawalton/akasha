@@ -10,9 +10,13 @@ export const defianceOfTheFall0093Chapter1414Avci = {
   ownLength: 2790,
   unit: "words",
   publishedAt: "2026-03-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3197157/chapter-1414-avici",
-  externalId: "3197157",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3197157",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3197157/chapter-1414-avici",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

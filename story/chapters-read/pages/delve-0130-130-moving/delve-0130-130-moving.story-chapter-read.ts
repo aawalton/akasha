@@ -10,8 +10,12 @@ export const delve0130130Moving = {
   ownLength: 5828,
   unit: "words",
   publishedAt: "2021-01-17",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/616019/130-moving",
-  externalId: "616019",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "616019",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/616019/130-moving",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const delve0052052Specialization = {
   ownLength: 2622,
   unit: "words",
   publishedAt: "2019-10-13",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/412697/052-specialization",
-  externalId: "412697",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "412697",
+      externalLink:
+        "https://www.royalroad.com/fiction/25225/delve/chapter/412697/052-specialization",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

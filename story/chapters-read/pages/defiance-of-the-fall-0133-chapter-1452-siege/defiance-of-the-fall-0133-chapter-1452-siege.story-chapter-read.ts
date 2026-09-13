@@ -10,9 +10,13 @@ export const defianceOfTheFall0133Chapter1452Siege = {
   ownLength: 2812,
   unit: "words",
   publishedAt: "2026-08-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3873030/chapter-1452-siege",
-  externalId: "3873030",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3873030",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3873030/chapter-1452-siege",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

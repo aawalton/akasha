@@ -10,8 +10,12 @@ export const delve0111111Pickup = {
   ownLength: 5063,
   unit: "words",
   publishedAt: "2020-09-06",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/550244/111-pickup",
-  externalId: "550244",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "550244",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/550244/111-pickup",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,12 @@ export const delve0166166Tumbling = {
   ownLength: 4618,
   unit: "words",
   publishedAt: "2021-10-10",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/764413/166-tumbling",
-  externalId: "764413",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "764413",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/764413/166-tumbling",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,12 @@ export const delve0167167Cracked = {
   ownLength: 3927,
   unit: "words",
   publishedAt: "2021-10-17",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/767941/167-cracked",
-  externalId: "767941",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "767941",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/767941/167-cracked",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,12 @@ export const delve0107107Interface = {
   ownLength: 5533,
   unit: "words",
   publishedAt: "2020-08-09",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/536374/107-interface",
-  externalId: "536374",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "536374",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/536374/107-interface",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
