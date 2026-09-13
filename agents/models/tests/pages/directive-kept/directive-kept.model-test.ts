@@ -64,7 +64,7 @@ export const directiveKept = {
     {
       invariantKind: "constraint",
       statement:
-        "This refuses none of the 208 clean cases, over two runs, once the key's own errors are mended.",
+        "This refuses none of the 164 clean cases, over two runs, against the key as Alan has ruled it.",
     },
   ],
 } as const satisfies ModelTest
