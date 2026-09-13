@@ -56,7 +56,7 @@ function owing(said: Record<string, unknown>): Reading | null {
   }
 }
 
-function stated(said: unknown): FileChange | null {
+export function editStated(said: unknown): FileChange | null {
   if (typeof said !== "object" || said === null) return null
   const one = said as Record<string, unknown>
   const owed = owing(one)
@@ -110,7 +110,7 @@ function rowsIn(text: string): Kept {
     const line = lines[at]
     if (line === undefined || line === "") continue
     const read = parsed(line)
-    const one = stated(read)
+    const one = editStated(read)
     if (one === null) return { why: `line ${String(at + 1)} ${NO_ROW}` }
     said.push(one)
   }

@@ -143,7 +143,7 @@ export function stalling(root: string, had: readonly FileChange[], thrown: unkno
   )
 }
 
-function namedIn(one: FileChange, at: readonly string[]): boolean {
+export function namedIn(one: FileChange, at: readonly string[]): boolean {
   if (one.kind === "move") return at.includes(one.pathTo) || at.includes(one.pathFrom)
   return at.includes(one.path)
 }
@@ -161,7 +161,7 @@ export type Words = {
   readonly missing: string
 }
 
-function wording(one: {
+export function wording(one: {
   readonly said: string
   readonly every: string
   readonly all: string
@@ -214,7 +214,7 @@ export function pipedPathsIn(piping: Piping, of: Words): readonly string[] | str
   return pathsSaid(new TextDecoder().decode(held.bytes), of)
 }
 
-function rootedAt(root: string, said: readonly string[]): readonly string[] | string {
+export function rootedAt(root: string, said: readonly string[]): readonly string[] | string {
   const at: string[] = []
   for (const one of said) {
     const path = pathAt(root, one)
@@ -224,7 +224,7 @@ function rootedAt(root: string, said: readonly string[]): readonly string[] | st
   return at
 }
 
-function missedIn(
+export function missedIn(
   at: readonly string[],
   went: readonly FileChange[],
   of: Words

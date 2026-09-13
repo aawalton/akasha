@@ -12,6 +12,7 @@ export const change = {
     "command/change-list",
     "command/change-repeat",
     "command/change-show",
+    "namespace/change-subagent",
   ],
   name: "change",
   directives: [

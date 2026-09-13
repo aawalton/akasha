@@ -165,8 +165,12 @@ export const seat = {
         "What a seat keeps that way is beside the seat rather than in the seat's own edits.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A command reaches what a seat keeps that way.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A command lands a record a seat keeps that way.",
     },
     {
       invariantKind: "departure",
