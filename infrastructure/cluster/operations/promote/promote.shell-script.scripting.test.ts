@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { runsIn } from "akasha/code/modules/path-runs/path-runs.module.code.ts"
+import { runsIn } from "akasha/code/paths/modules/path-runs/path-runs.module.code.ts"
 import { bodyIn } from "akasha/infrastructure/cluster/operations/promote/promote.shell-script.scripting.code.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 

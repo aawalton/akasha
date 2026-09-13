@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   landedAt,
   namedBy,
-} from "akasha/code/modules/folder-spelling/folder-spelling.module.code.ts"
+} from "akasha/code/paths/modules/folder-spelling/folder-spelling.module.code.ts"
 
 const FOLDER = "widget-root"
 
