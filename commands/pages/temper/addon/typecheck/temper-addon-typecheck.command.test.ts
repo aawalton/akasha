@@ -4,7 +4,10 @@ import { join } from "node:path"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { temperAddonTypecheck } from "akasha/commands/pages/temper/addon/typecheck/temper-addon-typecheck.command.code.ts"
 import { valueAlsoFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import { nothingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import {
+  listedAndValued,
+  nothingFiled,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import { manifestFor } from "akasha/temper/commands/modules/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
@@ -59,12 +62,23 @@ type Held = {
   readonly declares?: string
 }
 
+let minted = 0
+
+function idFor(): string {
+  minted = minted + 1
+  return `01a09208-0000-7000-8000-${String(minted).padStart(12, "0")}`
+}
+
 function addonIn(root: string, name: string, held: Held): string {
   const at = `akasha/temper/${held.folder}`
   const dir = join(root, at)
   const value =
     held.entry === null ? { slug: held.folder } : { slug: held.folder, bundleEntry: held.entry }
   valueAlsoFiled(root, "eso-addon", [{ path: `${at}/${held.folder}.eso-addon.ts`, value }])
+  if (held.entry !== null) {
+    const page = `${at}/${held.entry}/${held.entry}.module.ts`
+    listedAndValued(root, "module", held.entry, page, idFor())
+  }
   mkdirSync(dir, { recursive: true })
   writeFileSync(join(dir, "addon.json"), manifestFor(name))
   writeFileSync(
