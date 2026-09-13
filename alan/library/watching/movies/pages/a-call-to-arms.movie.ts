@@ -12,7 +12,12 @@ export const aCallToArms = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1999-01-03",
-  externalId: "babylon-5-a-call-to-arms-1999",
-  externalLink: "https://trakt.tv/movies/babylon-5-a-call-to-arms-1999",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "babylon-5-a-call-to-arms-1999",
+      externalLink: "https://trakt.tv/movies/babylon-5-a-call-to-arms-1999",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Movie

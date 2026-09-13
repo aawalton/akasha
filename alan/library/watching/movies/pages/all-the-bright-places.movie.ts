@@ -12,7 +12,12 @@ export const allTheBrightPlaces = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-02-28",
-  externalId: "all-the-bright-places-2020",
-  externalLink: "https://app.trakt.tv/movies/all-the-bright-places-2020",
-  lastSyncedAt: "2025-11-06",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "all-the-bright-places-2020",
+      externalLink: "https://app.trakt.tv/movies/all-the-bright-places-2020",
+      lastSyncedAt: "2025-11-06",
+    },
+  ],
 } as const satisfies Movie

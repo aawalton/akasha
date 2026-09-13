@@ -12,7 +12,12 @@ export const theXFilesIWantToBelieve2008 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-07-25",
-  externalId: "the-x-files-i-want-to-believe-2008",
-  externalLink: "https://trakt.tv/movies/the-x-files-i-want-to-believe-2008",
-  lastSyncedAt: "2025-10-22",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "the-x-files-i-want-to-believe-2008",
+      externalLink: "https://trakt.tv/movies/the-x-files-i-want-to-believe-2008",
+      lastSyncedAt: "2025-10-22",
+    },
+  ],
 } as const satisfies Movie

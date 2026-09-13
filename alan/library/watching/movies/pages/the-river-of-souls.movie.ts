@@ -12,7 +12,12 @@ export const theRiverOfSouls = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1998-11-08",
-  externalId: "babylon-5-the-river-of-souls-1998",
-  externalLink: "https://trakt.tv/movies/babylon-5-the-river-of-souls-1998",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "babylon-5-the-river-of-souls-1998",
+      externalLink: "https://trakt.tv/movies/babylon-5-the-river-of-souls-1998",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Movie

@@ -13,7 +13,12 @@ export const accelWorldInfiniteBurst = {
   status: "completed",
   rank: "B",
   publishedAt: "2016-07-23",
-  externalId: "accel-world-infinite-burst-2016",
-  externalLink: "https://trakt.tv/movies/accel-world-infinite-burst-2016",
-  lastSyncedAt: "2025-10-13",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "accel-world-infinite-burst-2016",
+      externalLink: "https://trakt.tv/movies/accel-world-infinite-burst-2016",
+      lastSyncedAt: "2025-10-13",
+    },
+  ],
 } as const satisfies Movie

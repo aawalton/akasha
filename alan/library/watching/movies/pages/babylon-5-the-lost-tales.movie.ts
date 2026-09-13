@@ -12,7 +12,12 @@ export const babylon5TheLostTales = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2007-07-31",
-  externalId: "babylon-5-the-lost-tales-voices-in-the-dark-2007",
-  externalLink: "https://trakt.tv/movies/babylon-5-the-lost-tales-voices-in-the-dark-2007",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "babylon-5-the-lost-tales-voices-in-the-dark-2007",
+      externalLink: "https://trakt.tv/movies/babylon-5-the-lost-tales-voices-in-the-dark-2007",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Movie

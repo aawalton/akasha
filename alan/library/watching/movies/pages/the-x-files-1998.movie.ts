@@ -12,7 +12,12 @@ export const theXFiles1998 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1998-06-19",
-  externalId: "the-x-files-1998",
-  externalLink: "https://trakt.tv/movies/the-x-files-1998",
-  lastSyncedAt: "2025-12-22",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "the-x-files-1998",
+      externalLink: "https://trakt.tv/movies/the-x-files-1998",
+      lastSyncedAt: "2025-12-22",
+    },
+  ],
 } as const satisfies Movie

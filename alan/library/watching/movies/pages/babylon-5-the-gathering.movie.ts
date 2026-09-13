@@ -12,7 +12,12 @@ export const babylon5TheGathering = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1993-02-22",
-  externalId: "babylon-5-the-gathering-1993",
-  externalLink: "https://trakt.tv/movies/babylon-5-the-gathering-1993",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "babylon-5-the-gathering-1993",
+      externalLink: "https://trakt.tv/movies/babylon-5-the-gathering-1993",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Movie

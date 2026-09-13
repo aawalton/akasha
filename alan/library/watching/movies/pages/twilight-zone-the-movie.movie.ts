@@ -12,7 +12,12 @@ export const twilightZoneTheMovie = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1983-06-24",
-  externalId: "twilight-zone-the-movie-1983",
-  externalLink: "https://trakt.tv/movies/twilight-zone-the-movie-1983",
-  lastSyncedAt: "2025-10-30",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "twilight-zone-the-movie-1983",
+      externalLink: "https://trakt.tv/movies/twilight-zone-the-movie-1983",
+      lastSyncedAt: "2025-10-30",
+    },
+  ],
 } as const satisfies Movie

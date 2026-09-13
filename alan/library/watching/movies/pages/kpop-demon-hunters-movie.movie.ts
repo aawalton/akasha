@@ -13,7 +13,12 @@ export const kpopDemonHuntersMovie = {
   status: "completed",
   rank: "S",
   publishedAt: "2025-06-20",
-  externalId: "kpop-demon-hunters-2025",
-  externalLink: "https://app.trakt.tv/movies/kpop-demon-hunters-2025",
-  lastSyncedAt: "2025-10-13",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "kpop-demon-hunters-2025",
+      externalLink: "https://app.trakt.tv/movies/kpop-demon-hunters-2025",
+      lastSyncedAt: "2025-10-13",
+    },
+  ],
 } as const satisfies Movie

@@ -12,7 +12,12 @@ export const babylon5TheRoadHome = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-08-15",
-  externalId: "babylon-5-the-road-home-2023",
-  externalLink: "https://trakt.tv/movies/babylon-5-the-road-home-2023",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "babylon-5-the-road-home-2023",
+      externalLink: "https://trakt.tv/movies/babylon-5-the-road-home-2023",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Movie
