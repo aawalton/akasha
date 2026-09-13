@@ -2,6 +2,7 @@ import { deletePages } from "akasha/pages/access/modules/deleting/deleting.modul
 import { getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
 import { upsertPage, upsertPages } from "akasha/pages/access/modules/upsert/upsert.module.code.ts"
 import { askComposed } from "akasha/pages/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
+import { InventoryRuleSettingsShape } from "akasha/temper/commands/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts"
 import { AutomationSettingsShape } from "akasha/temper/inventory-automation/modules/automation-settings-shape/automation-settings-shape.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/inventory-automation/modules/automation-toggles/automation-toggles.module.code.ts"
 import type { HeldRule } from "akasha/temper/items-rules-core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
@@ -24,6 +25,10 @@ const RULES_AT_MOST = 500
 const INDENT = 2
 
 const SETTINGS = "settings"
+
+const INVENTORY_SLICE = "inventory"
+
+const RULES = "rules"
 
 const ENDING = "json"
 
@@ -118,18 +123,33 @@ async function readHeldRules(accountUserId: string): Promise<readonly HeldRule[]
   return heldFromRows(rows.map((row) => ({ ...row })))
 }
 
+async function readInventorySlice(
+  accountUserId: string,
+  caller: string
+): Promise<Record<string, unknown>> {
+  const settings = await readSettings(accountUserId, caller)
+  const slice = extractSliceValue(settings, INVENTORY_SLICE)
+  return isPlainObject(slice) ? slice : {}
+}
+
 export async function readInventoryRuleSettings(
   accountUserId: string
 ): Promise<InventoryRuleSettings> {
+  const slice = await readInventorySlice(accountUserId, "readInventoryRuleSettings")
   const rules = rulesFromPages(await readHeldRules(accountUserId))
-  return { ...createDefaultRuleSettings(), rules }
+  return InventoryRuleSettingsShape.parse({ ...createDefaultRuleSettings(), ...slice, rules })
 }
 
-function blobKindsIn(next: InventoryRuleSettings): readonly string[] {
-  const named: string[] = []
-  if ((next.itemRules ?? []).length > 0) named.push(`${(next.itemRules ?? []).length} item rule(s)`)
-  if ((next.buyRules ?? []).length > 0) named.push(`${(next.buyRules ?? []).length} buy rule(s)`)
-  return named
+export function besidePages(
+  kept: Record<string, unknown>,
+  next: InventoryRuleSettings
+): Record<string, unknown> {
+  const out: Record<string, unknown> = { ...kept }
+  for (const [key, value] of Object.entries(next)) {
+    if (key === RULES) continue
+    if (value !== undefined) out[key] = value
+  }
+  return out
 }
 
 export async function writeInventoryRuleSettings(
@@ -138,13 +158,6 @@ export async function writeInventoryRuleSettings(
 ): Promise<undefined> {
   if (!isJson(next)) {
     throw new Error("writeInventoryRuleSettings: next is not JSON-serializable")
-  }
-  const blobbed = blobKindsIn(next)
-  if (blobbed.length > 0) {
-    throw new Error(
-      `writeInventoryRuleSettings: ${blobbed.join(" and ")} are kept in the settings file beside ` +
-        `\`${PLAYER_PAGE_TYPE_SLUG}\`, and only a rule is a page yet, so those went unkept`
-    )
   }
   const held = await readHeldRules(accountUserId)
   const { upserts, deletes } = writesFor(next.rules, held, accountUserId)
@@ -163,6 +176,13 @@ export async function writeInventoryRuleSettings(
       where: [{ key: "slug", in: [...deletes] }],
     })
   }
+  const kept = await readInventorySlice(accountUserId, "writeInventoryRuleSettings")
+  await writeSlice(
+    accountUserId,
+    INVENTORY_SLICE,
+    besidePages(kept, next),
+    "writeInventoryRuleSettings"
+  )
   return undefined
 }
 

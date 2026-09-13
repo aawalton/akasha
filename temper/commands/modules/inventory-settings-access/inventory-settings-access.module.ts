@@ -6,6 +6,7 @@ export const inventorySettingsAccess = {
   slug: "inventory-settings-access",
   definition: "the inventory and automation settings a command reads and writes for a player",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -29,8 +30,15 @@ export const inventorySettingsAccess = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A write with an item rule or a buy rule is refused naming how many rules the write has.",
+      statement: "A player's item rules and buy rules are read from the settings blob.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read is checked against the settings shape.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write lands every settings key but the rules in the blob beside the page.",
     },
     {
       invariantKind: "departure",
