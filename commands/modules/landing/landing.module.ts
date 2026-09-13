@@ -345,5 +345,10 @@ export const landing = {
       statement:
         "A change is judged over its own files rather than over the index answers it carries.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "Those answers are named on the change as the files carried beside the ones judged.",
+    },
   ],
 } as const satisfies Module

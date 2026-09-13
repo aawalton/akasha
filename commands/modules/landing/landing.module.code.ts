@@ -295,11 +295,12 @@ export async function landing(
   const swept = sweptOff(root, changes)
   const carried = swept.length === 0 ? changes : [...changes, ...swept]
   const { edits, moves } = splitIn(root, carried)
+  const filed = carried.filter((one) => pathsOf(one).every(underIndex))
   const judgedOver = carried.filter((one) => !pathsOf(one).every(underIndex))
   const change =
     over !== null && moves.length === 0 && swept.length === 0
       ? over
-      : changeOf(root, judgedAt, judgedOver)
+      : changeOf(root, judgedAt, judgedOver, filed)
   const said = await judged(judging, change)
   const orphaned = orphaningIn(change, absentAfter(edits, moves))
   if (orphaned.length > 0) {

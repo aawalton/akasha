@@ -77,15 +77,21 @@ export function baseOf(root: string): string {
   return gitIn(root, ["rev-parse", "HEAD"]).trim()
 }
 
-export function changeOf(root: string, base: string, changes: readonly FileChange[]): Change {
+export function changeOf(
+  root: string,
+  base: string,
+  changes: readonly FileChange[],
+  filed: readonly FileChange[] = []
+): Change {
   const held = new Map<string, Uint8Array | null>()
   const came = new Map<string, string>()
-  for (const one of changes) {
+  const every = [...changes, ...filed]
+  for (const one of every) {
     if (one.kind !== "move") continue
     held.set(one.pathFrom, null)
     came.set(one.pathTo, one.pathFrom)
   }
-  for (const one of changes) {
+  for (const one of every) {
     if (one.kind === "move") continue
     const body = bodiedOf(root, one, held)
     held.set(body.path, body.body)
@@ -102,6 +108,7 @@ export function changeOf(root: string, base: string, changes: readonly FileChang
   return {
     root,
     changed: [...new Set(changes.flatMap(pathsOf))].sort(),
+    carried: [...new Set(filed.flatMap(pathsOf))].sort(),
     before: based,
     after: (path) => {
       const said = held.get(path)

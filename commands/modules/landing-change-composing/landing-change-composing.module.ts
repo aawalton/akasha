@@ -39,5 +39,14 @@ export const landingChangeComposing = {
       invariantKind: "absence",
       statement: "Nothing here writes a file or commits.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A row carried beside the judged rows leaves its body readable as a judged row's is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a row's path is named apart from the files the change is judged over.",
+    },
   ],
 } as const satisfies Module
