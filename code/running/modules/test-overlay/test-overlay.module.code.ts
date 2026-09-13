@@ -3,6 +3,7 @@ import { homedir } from "node:os"
 import { dirname, isAbsolute, join, normalize } from "node:path"
 import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 
 export const HOLD = "/var/tmp"
 
@@ -45,6 +46,43 @@ export type Bodies = Readonly<Record<string, Body>>
 
 function linked(body: Body): body is Link {
   return body !== null && typeof body !== "string" && !(body instanceof Uint8Array)
+}
+
+export type Absent = {
+  readonly path: string
+  readonly why: string
+}
+
+const REMOVED = "the overlay carried a removal for it"
+
+const UNCARRIED = "the overlay carried no body for it, and the checkout under the overlay has none"
+
+export function absentFrom(
+  root: string,
+  named: readonly string[],
+  bodies: Bodies
+): readonly Absent[] {
+  const found: Absent[] = []
+  for (const one of named) {
+    const body = bodies[one]
+    if (body === null) found.push({ path: one, why: REMOVED })
+    else if (body === undefined && !existsSync(join(root, one))) {
+      found.push({ path: one, why: UNCARRIED })
+    }
+  }
+  return found
+}
+
+const RENAMING =
+  "A filter naming no file is answered `had no matches`, which reads as a file misnamed. The name is right and the tree was short, so renaming the file mends nothing. `akasha change list` names the edits kept, and `akasha change show` answers the body a path would have once they land."
+
+export function absentlyOf(each: readonly Absent[]): string {
+  const held = each.map((one) => `${one.path} — ${one.why}`).join("\n")
+  const was = each.length === 1 ? "was" : "were"
+  return (
+    `${counted(each.length, "test file")} the run named ${was} nowhere in the tree the tests ` +
+    `ran over:\n${held}\n\n${RENAMING}\n\n`
+  )
 }
 
 export type Overlay = {

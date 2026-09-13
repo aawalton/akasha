@@ -321,6 +321,24 @@ export const testsPass = {
       statement:
         "The bodies the overlay carries are the ones the change names as carried, or the changed ones.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A test file the run named that the tree the run read has nowhere is refused by naming that file.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "That refusal says whether the overlay carried a removal for the file or carried no body for it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal says the name is right and renaming the file mends nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal is filed against the first file the tree had nowhere.",
+    },
   ],
   check: {},
   audit: {},

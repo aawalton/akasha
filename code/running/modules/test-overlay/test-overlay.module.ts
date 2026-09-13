@@ -99,5 +99,22 @@ export const testOverlay = {
       invariantKind: "departure",
       statement: "The run inside is root in that namespace.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Which of the paths a run names the mounted tree has nowhere is answered here.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path answered that way says whether a removal was carried for it or no body was carried at all.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The reading of those paths says renaming the file mends nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That reading names the call answering what the edits kept would leave.",
+    },
   ],
 } as const satisfies Module

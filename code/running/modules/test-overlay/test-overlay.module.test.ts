@@ -2,6 +2,8 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
+  absentFrom,
+  absentlyOf,
   type Bodies,
   HOLD,
   insideOf,
@@ -130,6 +132,50 @@ test("a path inside the checkout is told from one reaching out of it", () => {
   expect(insideOf("./two.txt")).toBe(true)
   expect(insideOf("../two.txt")).toBe(false)
   expect(insideOf("/two.txt")).toBe(false)
+})
+
+test("a named path the overlay carries a body for is in the tree that mount makes", () => {
+  const root = checkout()
+  expect(absentFrom(root, ["one.txt"], { "one.txt": "carried\n" })).toEqual([])
+})
+
+test("a named path the overlay carries a removal for is named as taken away", () => {
+  const root = checkout()
+  expect(absentFrom(root, ["one.txt"], { "one.txt": null })).toEqual([
+    { path: "one.txt", why: "the overlay carried a removal for it" },
+  ])
+})
+
+test("a named path the overlay carries nothing for is read off the checkout under it", () => {
+  const root = checkout()
+  expect(absentFrom(root, ["deep/two.txt"], {})).toEqual([])
+  expect(absentFrom(root, ["deep/three.txt"], {})).toEqual([
+    {
+      path: "deep/three.txt",
+      why: "the overlay carried no body for it, and the checkout under the overlay has none",
+    },
+  ])
+})
+
+test("a path the mount leaves out is really absent, as the reading of it says", () => {
+  const root = checkout()
+  const bodies: Bodies = { "one.txt": null }
+  expect(absentFrom(root, ["one.txt"], bodies).length).toBe(1)
+  expect(inside(root, bodies, ["test", "-e", "one.txt"]).code).not.toBe(0)
+})
+
+test("the reading of an absent path says renaming that path mends nothing", () => {
+  const said = absentlyOf([{ path: "one.module.test.ts", why: "held" }])
+  expect(said).toContain("1 test file the run named was nowhere in the tree the tests ran over")
+  expect(said).toContain("one.module.test.ts — held")
+  expect(said).toContain("renaming the file mends nothing")
+  expect(said).toContain("akasha change list")
+  expect(
+    absentlyOf([
+      { path: "one", why: "a" },
+      { path: "two", why: "b" },
+    ])
+  ).toContain("2 test files the run named were nowhere")
 })
 
 test("what a mount wrote to is gone once that mount is swept", () => {

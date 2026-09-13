@@ -17,10 +17,12 @@ import {
   spentOver,
   testsBesideOf,
 } from "akasha/code/running/modules/code-tests/code-tests.module.code.ts"
-import type {
-  Bodies,
-  Body,
-  Link,
+import {
+  absentFrom,
+  absentlyOf,
+  type Bodies,
+  type Body,
+  type Link,
 } from "akasha/code/running/modules/test-overlay/test-overlay.module.code.ts"
 import { calledIn } from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
@@ -259,5 +261,9 @@ export function refusalsOver(given: Change, shadow: Shadow): readonly Judged[] {
   costsKept(change.root, found.spent)
   if (found.verdict === "pass") return []
   const said = { ...found, output: spelledIn(found.output, change.root) }
-  return [refusedOf(said, named, first)]
+  const judged = refusedOf(said, named, first)
+  const absent = absentFrom(change.root, named, bodies)
+  const blamed = absent[0]
+  if (blamed === undefined) return [judged]
+  return [{ path: blamed.path, reason: `${absentlyOf(absent)}${judged.reason}` }]
 }
