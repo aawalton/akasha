@@ -8,6 +8,7 @@ export const changeMechanical = {
   pluralSlug: "change-mechanical",
   extends: ["page-type/change"],
   parts: [
+    "domain/change-mechanical-page-property",
     "domain/change-mechanical-prose",
     "page-type/change-mechanical-file",
     "page-type/change-mechanical-file-content",
@@ -37,12 +38,9 @@ export const changeMechanical = {
       statement: "A mechanical change is filed under the sub-type naming the thing acted on.",
     },
     {
-      invariantKind: "absence",
-      statement: "No mechanical change acts on a page property.",
-    },
-    {
       invariantKind: "departure",
-      statement: "An agent change reaches both by composing the rungs beneath.",
+      statement:
+        "A mechanical change acting on a page property answers for every page carrying that property.",
     },
     {
       invariantKind: "departure",
