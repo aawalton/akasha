@@ -54,6 +54,7 @@
       { "command": "opsAgentTree.copySeatName", "category": "Ops Agents", "title": "Copy Seat Name" },
       { "command": "opsAgentTree.openPage", "category": "Ops Agents", "title": "Open Page" },
       { "command": "opsAgentTree.enterInSeatTerminal", "category": "Ops Agents", "title": "Submit In Seat Terminal" },
+      { "command": "opsAgentTree.openLineInSeatTerminal", "category": "Ops Agents", "title": "Open Line In Seat Terminal" },
       { "command": "opsWorkTree.deleteIntent", "category": "Ops Work", "title": "Delete" },
       { "command": "opsWorkTree.deleteInitiative", "category": "Ops Work", "title": "Delete" }
     ],
@@ -61,6 +62,11 @@
       {
         "key": "enter",
         "command": "opsAgentTree.enterInSeatTerminal",
+        "when": "terminalFocus && opsAgentTree.seatTerminalFocused"
+      },
+      {
+        "key": "shift+enter",
+        "command": "opsAgentTree.openLineInSeatTerminal",
         "when": "terminalFocus && opsAgentTree.seatTerminalFocused"
       }
     ],

@@ -54,6 +54,7 @@ export const extension = {
     "module/seat-showing",
     "module/seat-tab-context",
     "module/seat-terminal-enter",
+    "module/seat-terminal-open-line",
     "module/seat-terminals",
     "module/seat-toggles",
     "module/service-tree-ids",

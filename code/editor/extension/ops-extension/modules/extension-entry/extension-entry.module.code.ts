@@ -17,6 +17,7 @@ import {
 } from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
 import * as pageTree from "akasha/code/editor/extension/modules/page-tree-panel/page-tree-panel.module.code.ts"
 import * as seatEnter from "akasha/code/editor/extension/modules/seat-terminal-enter/seat-terminal-enter.module.code.ts"
+import * as seatOpenLine from "akasha/code/editor/extension/modules/seat-terminal-open-line/seat-terminal-open-line.module.code.ts"
 import * as serviceTree from "akasha/code/editor/extension/modules/service-tree-panel/service-tree-panel.module.code.ts"
 import * as statusBar from "akasha/code/editor/extension/modules/status-bar-panel/status-bar-panel.module.code.ts"
 import * as terminalRename from "akasha/code/editor/extension/modules/terminal-renaming/terminal-renaming.module.code.ts"
@@ -42,6 +43,10 @@ const features = (
   { name: "status-bar", start: async () => statusBar.activate(context) },
   { name: "editor-layout", start: async () => editorLayout.activate(context) },
   { name: "seat-terminal-enter", start: async () => seatEnter.activate(vscode, context, say) },
+  {
+    name: "seat-terminal-open-line",
+    start: async () => seatOpenLine.activate(vscode, context, say),
+  },
 ]
 
 export async function activate(context: vscode.ExtensionContext): Promise<void> {
