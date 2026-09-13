@@ -10,17 +10,17 @@ export const theaChecksSystem = {
     {
       statement: "The check passes over a value a runner reaches by path rather than by import.",
       workingMemory:
-        "Seven are settled. React Router's names are spared in a route module — a route's code, `root.tsx` and `_app-layout.tsx` — and nothing else. A lualib page's `lua-export`, a computed property's `work` and a change guard's `runGuard` are spared by name. A command's code and a check's code keep the name made from their slug. Left: `tunnel-routes.ts` holds `routes`, a manifest holds `BUILD_ENV`, a type generator holds `generateTypes`, and a readout, a model test and a change runner hold more.",
+        "Eleven are settled and nothing is open here. A route module keeps React Router's names — a route's code, `root.tsx`, `_app-layout.tsx`. Spared by name: a lualib page's `lua-export`, a computed property's `work`, a change guard's `runGuard`, a manifest's `BUILD_ENV`, a performance's `measured`, a type generator's `generateTypes` and `couldTurn`, a tunnel file's `routes`. A command, a check and a model test keep the name made from their slug, and a model test keeps `asking` and `keeping` too.\n",
     },
     {
       statement: "No module exports a value nothing names.",
       workingMemory:
-        "872 refusals sit in `*.module.code.ts`, where no file imports the value and the file exporting it does not name it. These are the removal candidates, and none is removed before Alan settles it. `agents/models/modules/vocab/model-vocab.module.code.ts` exports `toDisplay`, `toWireId`, `isExtendedWire` and `stripExtendedWire`; `alan/harness/monarch/modules/files/monarch-files.module.code.ts` exports `DIRECTION_FOLDER`, `MERCHANT_FOLDER`, `directionPages` and `merchantPages`.",
+        "855 refusals sit in `*.module.code.ts` over 479 files, where no file imports the value and the file exporting it does not name it. These are the removal candidates, and none is removed before Alan settles it. 336 files hold exactly one. The head is temper constants tables: `companions-codec-constants` holds 38, `housing-constants` 24, `inventory-management-plan-property-fixtures` 17.\n",
     },
     {
       statement: "No file the broad unexport run left alone still publishes a value only it names.",
       workingMemory:
-        "7 refusals over 5 files. `introduced-property-is-a-part`'s decision has a test red at HEAD from a regression in `pages/types/modules/declared-properties`, and holds three. `check-cost`, `code-tests`, `temper-inventory-plan` and `subagent-page-naming` hold one each and came after the run. The lualib shims and the atlas route files fell away once a lua export and a route's code stopped being judged.",
+        "8 refusals over 6 files. `introduced-property-is-a-part`'s decision has a test red at HEAD from a regression in `pages/types/modules/declared-properties`, and holds three. `check-cost`, `code-tests`, `alan-tracking`, `temper-inventory-plan` and `subagent-page-naming` hold one each and came after the run.\n",
     },
     {
       statement: "Every uncommitted body beside a page exports the name that page's writer makes.",
