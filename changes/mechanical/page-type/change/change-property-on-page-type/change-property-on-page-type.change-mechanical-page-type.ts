@@ -79,8 +79,24 @@ export const changePropertyOnPageType = {
       statement: "No rung beneath is reached.",
     },
     {
-      invariantKind: "absence",
-      statement: "A default is the value a page gains rather than a field the declaration states.",
+      invariantKind: "departure",
+      statement: "A default is written on the declaration and gained by a page stating no value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A default is spelled as text on the declaration and as its own kind on a page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A default the property's kind cannot hold is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A declaration holding many values is refused a default.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A default is taken off the declaration where the caller states none.",
     },
   ],
   changeKind: "change-mechanical",

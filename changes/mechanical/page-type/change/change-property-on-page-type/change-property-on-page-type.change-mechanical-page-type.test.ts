@@ -22,7 +22,19 @@ const SINGLE = `{ pageProperty: "${PROPERTY}", required: false, many: false }`
 
 const MANY = `{ pageProperty: "${PROPERTY}", required: false, many: true, maxCount: null }`
 
-const SAID = JSON.stringify("beta")
+const SAID = "beta"
+
+const SPELLED = JSON.stringify(SAID)
+
+const DEFAULTED = `{ pageProperty: "${PROPERTY}", required: true, many: false, default: "alpha" }`
+
+const BOOLEAN = "boolean-property"
+
+const FLAG = "boolean-property/kept-flag"
+
+const FLAG_KEY = "keptFlag"
+
+const FLAGGED = `{ pageProperty: "${FLAG}", required: false, many: false }`
 
 function typeBody(record: string): string {
   return `export const keptThing = {
@@ -65,6 +77,16 @@ function valuedAt(slug: string, held: Value): Value {
   return { pageTypeSlug: TYPE, slug, ...held }
 }
 
+function flagDeclared(): Declared {
+  return {
+    ...declared(false, false),
+    pagePropertySlug: "kept-flag",
+    pageTypeSlug: BOOLEAN,
+    propertySlug: "kept-flag",
+    key: FLAG_KEY,
+  }
+}
+
 function worldFor(
   record: string,
   pages: Readonly<Record<string, string>>,
@@ -74,6 +96,15 @@ function worldFor(
 ): World {
   const bodies = { [TYPE_AT]: typeBody(record), ...pages }
   return worldOfType(TYPE, bodies, carried, values, listing(seen))
+}
+
+function worldOfFlag(
+  record: string,
+  pages: Readonly<Record<string, string>>,
+  values: ReadonlyMap<string, Value>
+): World {
+  const bodies = { [TYPE_AT]: typeBody(record), ...pages }
+  return worldOfType(BOOLEAN, bodies, [flagDeclared()], values, listing([]))
 }
 
 test("a declaration narrowing to one value unwraps every page's list in this one answer", () => {
@@ -177,8 +208,8 @@ test("a property becoming required puts the default on every page stating none",
   expect(said.refused).toBeNull()
   expect(said.edits).toHaveLength(2)
   const bodies = bodiesIn(said, world.base)
-  expect(bodies.get(TYPE_AT) ?? "").toContain("required: true, many: false }")
-  expect(bodies.get(ONE_AT) ?? "").toContain(`${KEY}: ${SAID},`)
+  expect(bodies.get(TYPE_AT) ?? "").toContain(`required: true, many: false, default: ${SPELLED} }`)
+  expect(bodies.get(ONE_AT) ?? "").toContain(`${KEY}: ${SPELLED},`)
 })
 
 test("a property becoming required with no default is refused by the page stating none", () => {
@@ -242,4 +273,117 @@ test("a page type the index does not name is refused here", () => {
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${TYPE}\` names no page type`)
+})
+
+test("a default already on the declaration is restated", () => {
+  const world = worldFor(
+    DEFAULTED,
+    { [ONE_AT]: pageBody("one", `  ${KEY}: "alpha",\n`) },
+    new Map([[ONE_AT, valuedAt("one", { [KEY]: "alpha" })]]),
+    [declared(true, false)],
+    []
+  )
+
+  const said = changePropertyOnPageType(world, {
+    at: TYPE_AT,
+    property: PROPERTY,
+    required: true,
+    many: false,
+    default: SAID,
+  })
+
+  expect(said.refused).toBeNull()
+  expect(said.edits).toHaveLength(1)
+  expect(bodiesIn(said, world.base).get(TYPE_AT) ?? "").toContain(`default: ${SPELLED} }`)
+})
+
+test("a default goes from the declaration where the caller states none", () => {
+  const world = worldFor(DEFAULTED, {}, new Map(), [declared(true, false)], [])
+
+  const said = changePropertyOnPageType(world, {
+    at: TYPE_AT,
+    property: PROPERTY,
+    required: false,
+    many: false,
+  })
+
+  expect(said.refused).toBeNull()
+  expect(said.edits).toHaveLength(1)
+  const body = bodiesIn(said, world.base).get(TYPE_AT) ?? ""
+  expect(body).toContain("required: false, many: false }")
+  expect(body).not.toContain("default")
+})
+
+test("a declaration turning to one value takes a default where the count was", () => {
+  const world = worldFor(
+    MANY,
+    { [ONE_AT]: pageBody("one", `  ${KEY}: ["alpha"],\n`) },
+    new Map([[ONE_AT, valuedAt("one", { [KEY]: ["alpha"] })]]),
+    [declared(false, true)],
+    []
+  )
+
+  const said = changePropertyOnPageType(world, {
+    at: TYPE_AT,
+    property: PROPERTY,
+    required: true,
+    many: false,
+    default: SAID,
+  })
+
+  expect(said.refused).toBeNull()
+  const body = bodiesIn(said, world.base).get(TYPE_AT) ?? ""
+  expect(body).toContain(`required: true, many: false, default: ${SPELLED} }`)
+  expect(body).not.toContain("maxCount")
+})
+
+test("a declaration holding many values is refused a default", () => {
+  const world = worldFor(MANY, {}, new Map(), [declared(false, true)], [])
+
+  const said = changePropertyOnPageType(world, {
+    at: TYPE_AT,
+    property: PROPERTY,
+    required: false,
+    many: true,
+    default: SAID,
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain("no default")
+})
+
+test("a default a boolean holds is spelled bare on a page and as text on the declaration", () => {
+  const world = worldOfFlag(
+    FLAGGED,
+    { [ONE_AT]: pageBody("one", "") },
+    new Map([[ONE_AT, valuedAt("one", {})]])
+  )
+
+  const said = changePropertyOnPageType(world, {
+    at: TYPE_AT,
+    property: FLAG,
+    required: true,
+    many: false,
+    default: "false",
+  })
+
+  expect(said.refused).toBeNull()
+  const bodies = bodiesIn(said, world.base)
+  expect(bodies.get(TYPE_AT) ?? "").toContain(`default: "false" }`)
+  expect(bodies.get(ONE_AT) ?? "").toContain(`${FLAG_KEY}: false,`)
+})
+
+test("a default the property's kind cannot hold is refused", () => {
+  const world = worldOfFlag(FLAGGED, {}, new Map())
+
+  const said = changePropertyOnPageType(world, {
+    at: TYPE_AT,
+    property: FLAG,
+    required: false,
+    many: false,
+    default: SAID,
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain("no boolean")
 })

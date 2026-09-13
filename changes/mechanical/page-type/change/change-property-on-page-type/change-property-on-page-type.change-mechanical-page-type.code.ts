@@ -10,7 +10,7 @@ import type {
   Splice,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { without } from "akasha/changes/modules/literal-splicing/literal-splicing.module.code.ts"
-import { afterIn } from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
+import { afterIn, holdsIn } from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
 import {
   listIn,
   literalIn,
@@ -23,6 +23,7 @@ import {
   type Written,
 } from "akasha/changes/modules/page-property-splicing/page-property-splicing.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { spelledAs } from "akasha/changes/modules/value-spelling/value-spelling.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { typeSlugIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
@@ -39,6 +40,8 @@ const MANY = "many"
 
 const MAX_COUNT = "maxCount"
 
+const DEFAULT = "default"
+
 const NOTHING = "null"
 
 export type Asked = {
@@ -53,6 +56,8 @@ export type Asked = {
 type Turned = { readonly path: string; readonly many: boolean }
 
 type Carried = { readonly puts: readonly Page[]; readonly turned: readonly Turned[] }
+
+type Spelled = { readonly said: string | null; readonly held: string | null }
 
 function placedIn(
   text: string,
@@ -89,26 +94,63 @@ function fieldIn(
   return { from: held.initializer.getStart(source), to: held.initializer.getEnd(), put }
 }
 
+function besideAt(record: ts.ObjectLiteralExpression): number {
+  const count = placeOf(record, MAX_COUNT)
+  return count >= 0 ? count : placeOf(record, DEFAULT)
+}
+
+function wantedIn(given: Asked, said: string | null): readonly [string, string] | null {
+  if (given.many) return [MAX_COUNT, given.maxCount ?? NOTHING]
+  return said === null ? null : [DEFAULT, said]
+}
+
+function besideAnew(
+  text: string,
+  source: ts.SourceFile,
+  record: ts.ObjectLiteralExpression,
+  wanted: readonly [string, string] | null
+): readonly Splice[] {
+  const at = besideAt(record)
+  if (wanted === null) {
+    return at < 0 ? [] : [without(text, source, record, record.properties, at)]
+  }
+  const held = record.properties[at]
+  const put = `${wanted[0]}: ${wanted[1]}`
+  if (held === undefined) return [placedIn(text, source, record, MANY, put)]
+  return [{ from: held.getStart(source), to: held.getEnd(), put }]
+}
+
 function statedAnew(
   text: string,
   source: ts.SourceFile,
   record: ts.ObjectLiteralExpression,
-  given: Asked
+  given: Asked,
+  said: string | null
 ): readonly Splice[] {
-  const found: Splice[] = [
+  return [
     fieldIn(text, source, record, REQUIRED, String(given.required), PAGE_PROPERTY),
     fieldIn(text, source, record, MANY, String(given.many), REQUIRED),
+    ...besideAnew(text, source, record, wantedIn(given, said)),
   ]
-  if (given.many) {
-    found.push(fieldIn(text, source, record, MAX_COUNT, given.maxCount ?? NOTHING, MANY))
-    return found
-  }
-  const at = placeOf(record, MAX_COUNT)
-  if (at >= 0) found.push(without(text, source, record, record.properties, at))
-  return found
 }
 
-function declaredAnew(world: World, given: Asked): readonly FileChange[] | string {
+function spelledFor(world: World, given: Asked, slug: string, key: string): Spelled | string {
+  const said = given.default
+  if (said === undefined) return { said: null, held: null }
+  if (given.many) {
+    return `\`${key}\` holds many values, and a declaration holding many states no default`
+  }
+  const holds = holdsIn(world, { type: slug }, key)
+  const held = spelledAs(said, holds ?? undefined)
+  if (held === null) return `\`${said}\` is no ${holds}, so \`${key}\` gains no default`
+  return { said: JSON.stringify(said), held }
+}
+
+function declaredAnew(
+  world: World,
+  given: Asked,
+  said: string | null
+): readonly FileChange[] | string {
   const text = world.textOf(given.at)
   if (text === null) return `\`${given.at}\` could not be read`
   const source = parsedAs(given.at, text)
@@ -119,38 +161,42 @@ function declaredAnew(world: World, given: Asked): readonly FileChange[] | strin
   if (record === undefined || !ts.isObjectLiteralExpression(record)) {
     return `\`${given.at}\` declares no \`${given.property}\``
   }
-  return splicedIn(given.at, text, statedAnew(text, source, record, given))
+  return splicedIn(given.at, text, statedAnew(text, source, record, given, said))
 }
 
 function defaultIn(
   world: World,
-  given: Asked,
+  gains: string | null,
   value: Value,
   key: string,
   path: string
 ): readonly Page[] | string {
-  if (!given.required) return []
-  const said = given.default
-  if (said === undefined) {
+  if (gains === null) {
     return `\`${path}\` states no \`${key}\`, and \`${key}\` becomes required with no default said`
   }
   const after = afterIn(world, value, key)
-  const put = given.many ? `[${said}]` : said
   const written: Written =
     after === null
-      ? { written: "put", key, value: put }
-      : { written: "put", key, value: put, after }
+      ? { written: "put", key, value: gains }
+      : { written: "put", key, value: gains, after }
   return [{ path, written: [written] }]
 }
 
-function carriedIn(world: World, given: Asked, slug: string, key: string): Carried | string {
+function carriedIn(
+  world: World,
+  given: Asked,
+  slug: string,
+  key: string,
+  gains: string | null
+): Carried | string {
   const puts: Page[] = []
   const turned: Turned[] = []
   for (const kind of world.index.kindsUnder(slug)) {
     for (const [path, value] of world.index.valuesByPath(kind)) {
       const held = value[key]
       if (held === undefined) {
-        const made = defaultIn(world, given, value, key, path)
+        if (!given.required) continue
+        const made = defaultIn(world, gains, value, key, path)
         if (typeof made === "string") return made
         puts.push(...made)
         continue
@@ -205,9 +251,11 @@ export function changePropertyOnPageType(world: World, given: Asked): Said {
   if (carried === null) return refusing(`\`${slug}\` names no page type`)
   const one = carried.find((each) => identityOf(each) === given.property)
   if (one === undefined) return refusing(`a \`${slug}\` carries no \`${given.property}\``)
-  const own = declaredAnew(world, given)
+  const spelled = spelledFor(world, given, slug, one.key)
+  if (typeof spelled === "string") return refusing(spelled)
+  const own = declaredAnew(world, given, spelled.said)
   if (typeof own === "string") return refusing(own)
-  const held = carriedIn(world, given, slug, one.key)
+  const held = carriedIn(world, given, slug, one.key, spelled.held)
   if (typeof held === "string") return refusing(held)
   const made = editsOver(world, held.puts)
   if (typeof made === "string") return refusing(made)
