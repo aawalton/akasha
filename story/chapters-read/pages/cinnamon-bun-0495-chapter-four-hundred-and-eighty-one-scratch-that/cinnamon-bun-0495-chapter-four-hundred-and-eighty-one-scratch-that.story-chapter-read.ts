@@ -10,9 +10,13 @@ export const cinnamonBun0495ChapterFourHundredAndEightyOneScratchThat = {
   ownLength: 1558,
   unit: "words",
   publishedAt: "2024-03-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1569311/chapter-four-hundred-and-eighty-one-scratch-that",
-  externalId: "1569311",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1569311",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1569311/chapter-four-hundred-and-eighty-one-scratch-that",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

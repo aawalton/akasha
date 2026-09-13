@@ -10,9 +10,13 @@ export const cinnamonBun0571ChapterFiveHundredAndFiftySixEdgeOfAn = {
   ownLength: 1497,
   unit: "words",
   publishedAt: "2025-10-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2644244/chapter-five-hundred-and-fifty-six-edge-of-an",
-  externalId: "2644244",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2644244",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2644244/chapter-five-hundred-and-fifty-six-edge-of-an",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

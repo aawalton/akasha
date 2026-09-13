@@ -10,9 +10,13 @@ export const cinnamonBun0599ChapterFiveHundredAndEightyThreeCloudwrack = {
   ownLength: 1465,
   unit: "words",
   publishedAt: "2026-04-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3334271/chapter-five-hundred-and-eighty-three-cloudwrack",
-  externalId: "3334271",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3334271",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3334271/chapter-five-hundred-and-eighty-three-cloudwrack",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

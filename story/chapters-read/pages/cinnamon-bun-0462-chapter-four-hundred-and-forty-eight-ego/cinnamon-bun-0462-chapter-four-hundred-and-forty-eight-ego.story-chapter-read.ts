@@ -10,9 +10,13 @@ export const cinnamonBun0462ChapterFourHundredAndFortyEightEgo = {
   ownLength: 1604,
   unit: "words",
   publishedAt: "2023-11-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1419924/chapter-four-hundred-and-forty-eight-ego",
-  externalId: "1419924",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1419924",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1419924/chapter-four-hundred-and-forty-eight-ego",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

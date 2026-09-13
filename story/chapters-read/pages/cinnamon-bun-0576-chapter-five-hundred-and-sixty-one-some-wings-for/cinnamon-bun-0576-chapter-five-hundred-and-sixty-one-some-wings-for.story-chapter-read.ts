@@ -10,9 +10,13 @@ export const cinnamonBun0576ChapterFiveHundredAndSixtyOneSomeWingsFor = {
   ownLength: 1519,
   unit: "words",
   publishedAt: "2025-11-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2756298/chapter-five-hundred-and-sixty-one-some-wings",
-  externalId: "2756298",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2756298",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2756298/chapter-five-hundred-and-sixty-one-some-wings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

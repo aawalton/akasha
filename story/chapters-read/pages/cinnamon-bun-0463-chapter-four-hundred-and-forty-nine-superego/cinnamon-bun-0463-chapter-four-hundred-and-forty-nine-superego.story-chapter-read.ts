@@ -10,9 +10,13 @@ export const cinnamonBun0463ChapterFourHundredAndFortyNineSuperego = {
   ownLength: 1529,
   unit: "words",
   publishedAt: "2023-11-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1425542/chapter-four-hundred-and-forty-nine-superego",
-  externalId: "1425542",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1425542",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1425542/chapter-four-hundred-and-forty-nine-superego",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

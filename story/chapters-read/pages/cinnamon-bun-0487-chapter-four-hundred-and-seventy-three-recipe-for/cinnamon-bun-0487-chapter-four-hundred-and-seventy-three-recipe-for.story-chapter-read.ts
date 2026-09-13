@@ -10,9 +10,13 @@ export const cinnamonBun0487ChapterFourHundredAndSeventyThreeRecipeFor = {
   ownLength: 1480,
   unit: "words",
   publishedAt: "2024-02-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1527979/chapter-four-hundred-and-seventy-three-recipe",
-  externalId: "1527979",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1527979",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1527979/chapter-four-hundred-and-seventy-three-recipe",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0551ChapterFiveHundredAndThirtySixTheDevilsIn = {
   ownLength: 1632,
   unit: "words",
   publishedAt: "2025-05-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2262186/chapter-five-hundred-and-thirty-six-the-devils",
-  externalId: "2262186",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2262186",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2262186/chapter-five-hundred-and-thirty-six-the-devils",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

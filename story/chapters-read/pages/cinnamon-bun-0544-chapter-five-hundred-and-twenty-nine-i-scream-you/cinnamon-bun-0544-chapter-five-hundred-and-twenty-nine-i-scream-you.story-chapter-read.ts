@@ -10,9 +10,13 @@ export const cinnamonBun0544ChapterFiveHundredAndTwentyNineIScreamYou = {
   ownLength: 1610,
   unit: "words",
   publishedAt: "2025-03-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2136431/chapter-five-hundred-and-twenty-nine-i-scream",
-  externalId: "2136431",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2136431",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2136431/chapter-five-hundred-and-twenty-nine-i-scream",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

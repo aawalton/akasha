@@ -10,9 +10,13 @@ export const cinnamonBun0606ChapterFiveHundredAndNinetyBackFromBlack = {
   ownLength: 1537,
   unit: "words",
   publishedAt: "2026-06-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3553682/chapter-five-hundred-and-ninety-back-from-black",
-  externalId: "3553682",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3553682",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3553682/chapter-five-hundred-and-ninety-back-from-black",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

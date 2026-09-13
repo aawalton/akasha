@@ -10,9 +10,13 @@ export const cinnamonBun0595ChapterFiveHundredAndSeventyNineExperimental = {
   ownLength: 1482,
   unit: "words",
   publishedAt: "2026-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3218540/chapter-five-hundred-and-seventy-nine-experimental",
-  externalId: "3218540",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3218540",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3218540/chapter-five-hundred-and-seventy-nine-experimental",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

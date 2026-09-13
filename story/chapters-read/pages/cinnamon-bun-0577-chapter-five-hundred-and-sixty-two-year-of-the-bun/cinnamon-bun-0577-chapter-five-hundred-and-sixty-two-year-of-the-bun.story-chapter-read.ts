@@ -10,9 +10,13 @@ export const cinnamonBun0577ChapterFiveHundredAndSixtyTwoYearOfTheBun = {
   ownLength: 1478,
   unit: "words",
   publishedAt: "2025-11-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2774996/chapter-five-hundred-and-sixty-two-year-of-the",
-  externalId: "2774996",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2774996",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2774996/chapter-five-hundred-and-sixty-two-year-of-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

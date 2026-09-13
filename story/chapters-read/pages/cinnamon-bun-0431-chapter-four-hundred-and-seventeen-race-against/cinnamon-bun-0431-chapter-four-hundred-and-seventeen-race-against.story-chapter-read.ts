@@ -10,9 +10,13 @@ export const cinnamonBun0431ChapterFourHundredAndSeventeenRaceAgainst = {
   ownLength: 2063,
   unit: "words",
   publishedAt: "2023-07-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1276272/chapter-four-hundred-and-seventeen-race-against",
-  externalId: "1276272",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1276272",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1276272/chapter-four-hundred-and-seventeen-race-against",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

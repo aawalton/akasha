@@ -12,9 +12,13 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0094B2LukTarWarMaps = {
   unit: "words",
   completedAt: "2026-06-29T19:09:08.100Z",
   publishedAt: "2024-02-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1513465/b2-luktar-war-maps",
-  externalId: "1513465",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1513465",
+      externalLink:
+        "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1513465/b2-luktar-war-maps",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

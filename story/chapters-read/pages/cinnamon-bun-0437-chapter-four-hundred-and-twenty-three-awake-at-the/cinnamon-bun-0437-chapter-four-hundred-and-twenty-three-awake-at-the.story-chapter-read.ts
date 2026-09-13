@@ -10,9 +10,13 @@ export const cinnamonBun0437ChapterFourHundredAndTwentyThreeAwakeAtThe = {
   ownLength: 2027,
   unit: "words",
   publishedAt: "2023-08-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1298983/chapter-four-hundred-and-twenty-three-awake-at",
-  externalId: "1298983",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1298983",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1298983/chapter-four-hundred-and-twenty-three-awake-at",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

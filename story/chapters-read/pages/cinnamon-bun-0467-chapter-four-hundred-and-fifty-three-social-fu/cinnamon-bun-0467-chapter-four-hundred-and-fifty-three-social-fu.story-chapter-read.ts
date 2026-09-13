@@ -10,9 +10,13 @@ export const cinnamonBun0467ChapterFourHundredAndFiftyThreeSocialFu = {
   ownLength: 1600,
   unit: "words",
   publishedAt: "2023-12-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1441351/chapter-four-hundred-and-fifty-three-social-fu",
-  externalId: "1441351",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1441351",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1441351/chapter-four-hundred-and-fifty-three-social-fu",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

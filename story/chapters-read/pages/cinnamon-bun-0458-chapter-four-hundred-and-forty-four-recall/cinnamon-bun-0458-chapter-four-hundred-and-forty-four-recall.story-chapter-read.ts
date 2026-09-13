@@ -10,9 +10,13 @@ export const cinnamonBun0458ChapterFourHundredAndFortyFourRecall = {
   ownLength: 1592,
   unit: "words",
   publishedAt: "2023-11-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1402552/chapter-four-hundred-and-forty-four-recall",
-  externalId: "1402552",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1402552",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1402552/chapter-four-hundred-and-forty-four-recall",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0565ChapterFiveHundredAndFiftySlowOnTheUptake = {
   ownLength: 1386,
   unit: "words",
   publishedAt: "2025-08-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2534626/chapter-five-hundred-and-fifty-slow-on-the-uptake",
-  externalId: "2534626",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2534626",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2534626/chapter-five-hundred-and-fifty-slow-on-the-uptake",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

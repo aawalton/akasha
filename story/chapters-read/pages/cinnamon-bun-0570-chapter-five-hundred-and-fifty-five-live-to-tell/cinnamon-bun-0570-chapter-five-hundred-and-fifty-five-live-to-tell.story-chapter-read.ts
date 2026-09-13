@@ -10,9 +10,13 @@ export const cinnamonBun0570ChapterFiveHundredAndFiftyFiveLiveToTell = {
   ownLength: 1585,
   unit: "words",
   publishedAt: "2025-09-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2627088/chapter-five-hundred-and-fifty-five-live-to-tell",
-  externalId: "2627088",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2627088",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2627088/chapter-five-hundred-and-fifty-five-live-to-tell",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0490ChapterFourHundredAndSeventySixBegone = {
   ownLength: 1504,
   unit: "words",
   publishedAt: "2024-03-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1543230/chapter-four-hundred-and-seventy-six-begone-troublemakers",
-  externalId: "1543230",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1543230",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1543230/chapter-four-hundred-and-seventy-six-begone-troublemakers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

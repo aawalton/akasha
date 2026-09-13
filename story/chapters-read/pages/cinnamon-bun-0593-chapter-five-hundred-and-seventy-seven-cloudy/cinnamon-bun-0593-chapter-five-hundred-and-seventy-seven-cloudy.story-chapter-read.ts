@@ -10,9 +10,13 @@ export const cinnamonBun0593ChapterFiveHundredAndSeventySevenCloudy = {
   ownLength: 1555,
   unit: "words",
   publishedAt: "2026-03-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3167130/chapter-five-hundred-and-seventy-seven-cloudy",
-  externalId: "3167130",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3167130",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3167130/chapter-five-hundred-and-seventy-seven-cloudy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

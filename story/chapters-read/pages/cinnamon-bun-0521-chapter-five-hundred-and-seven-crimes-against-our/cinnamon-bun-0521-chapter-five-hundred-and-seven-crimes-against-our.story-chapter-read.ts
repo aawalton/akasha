@@ -10,9 +10,13 @@ export const cinnamonBun0521ChapterFiveHundredAndSevenCrimesAgainstOur = {
   ownLength: 1622,
   unit: "words",
   publishedAt: "2024-09-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1819458/chapter-five-hundred-and-seven-crimes-against",
-  externalId: "1819458",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1819458",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1819458/chapter-five-hundred-and-seven-crimes-against",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

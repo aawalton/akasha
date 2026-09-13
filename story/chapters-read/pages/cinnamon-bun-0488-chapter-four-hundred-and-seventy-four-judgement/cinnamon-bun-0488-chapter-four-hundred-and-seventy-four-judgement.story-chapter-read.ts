@@ -10,9 +10,13 @@ export const cinnamonBun0488ChapterFourHundredAndSeventyFourJudgement = {
   ownLength: 1511,
   unit: "words",
   publishedAt: "2024-02-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1534111/chapter-four-hundred-and-seventy-four-judgement",
-  externalId: "1534111",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1534111",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1534111/chapter-four-hundred-and-seventy-four-judgement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

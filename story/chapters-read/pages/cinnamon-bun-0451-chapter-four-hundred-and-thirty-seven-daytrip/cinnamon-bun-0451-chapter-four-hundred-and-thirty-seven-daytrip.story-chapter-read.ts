@@ -10,9 +10,13 @@ export const cinnamonBun0451ChapterFourHundredAndThirtySevenDaytrip = {
   ownLength: 1973,
   unit: "words",
   publishedAt: "2023-09-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1357402/chapter-four-hundred-and-thirty-seven-daytrip",
-  externalId: "1357402",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1357402",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1357402/chapter-four-hundred-and-thirty-seven-daytrip",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

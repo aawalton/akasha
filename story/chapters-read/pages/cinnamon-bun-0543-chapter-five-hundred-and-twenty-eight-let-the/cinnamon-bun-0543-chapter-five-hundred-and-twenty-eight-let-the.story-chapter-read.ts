@@ -10,9 +10,13 @@ export const cinnamonBun0543ChapterFiveHundredAndTwentyEightLetThe = {
   ownLength: 1846,
   unit: "words",
   publishedAt: "2025-03-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2122478/chapter-five-hundred-and-twenty-eight-let-the",
-  externalId: "2122478",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2122478",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2122478/chapter-five-hundred-and-twenty-eight-let-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0557ChapterFiveHundredAndFortyTwoComeHereAlive = {
   ownLength: 1541,
   unit: "words",
   publishedAt: "2025-06-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2385427/chapter-five-hundred-and-forty-two-come-here-alive",
-  externalId: "2385427",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2385427",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2385427/chapter-five-hundred-and-forty-two-come-here-alive",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

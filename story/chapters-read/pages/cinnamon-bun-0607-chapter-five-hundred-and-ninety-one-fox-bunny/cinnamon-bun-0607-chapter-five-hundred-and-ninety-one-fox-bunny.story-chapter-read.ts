@@ -10,9 +10,13 @@ export const cinnamonBun0607ChapterFiveHundredAndNinetyOneFoxBunny = {
   ownLength: 1524,
   unit: "words",
   publishedAt: "2026-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3586352/chapter-five-hundred-and-ninety-one-fox-bunny",
-  externalId: "3586352",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3586352",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3586352/chapter-five-hundred-and-ninety-one-fox-bunny",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

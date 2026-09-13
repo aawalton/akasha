@@ -12,9 +12,13 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0190B3UpdatedDreadEmpireAndG
   unit: "words",
   completedAt: "2026-06-29T19:12:10.956Z",
   publishedAt: "2024-08-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1745866/b3-updated-dread-empire-and-grand-silvanian-empire",
-  externalId: "1745866",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1745866",
+      externalLink:
+        "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1745866/b3-updated-dread-empire-and-grand-silvanian-empire",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

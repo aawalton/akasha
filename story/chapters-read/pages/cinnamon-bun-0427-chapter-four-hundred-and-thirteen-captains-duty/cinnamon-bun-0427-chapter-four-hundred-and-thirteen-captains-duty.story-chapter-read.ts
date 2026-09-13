@@ -10,9 +10,13 @@ export const cinnamonBun0427ChapterFourHundredAndThirteenCaptainsDuty = {
   ownLength: 2152,
   unit: "words",
   publishedAt: "2023-06-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1252567/chapter-four-hundred-and-thirteen-captains-duty",
-  externalId: "1252567",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1252567",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1252567/chapter-four-hundred-and-thirteen-captains-duty",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

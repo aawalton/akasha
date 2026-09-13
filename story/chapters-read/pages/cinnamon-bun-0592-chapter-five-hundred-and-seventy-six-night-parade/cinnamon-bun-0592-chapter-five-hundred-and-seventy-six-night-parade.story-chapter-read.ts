@@ -10,9 +10,13 @@ export const cinnamonBun0592ChapterFiveHundredAndSeventySixNightParade = {
   ownLength: 1453,
   unit: "words",
   publishedAt: "2026-03-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3140453/chapter-five-hundred-and-seventy-six-night-parade",
-  externalId: "3140453",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3140453",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3140453/chapter-five-hundred-and-seventy-six-night-parade",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

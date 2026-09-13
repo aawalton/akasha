@@ -10,9 +10,13 @@ export const cinnamonBun0430ChapterFourHundredAndSixteenTalkingShop = {
   ownLength: 2172,
   unit: "words",
   publishedAt: "2023-07-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1274024/chapter-four-hundred-and-sixteen-talking-shop",
-  externalId: "1274024",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1274024",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1274024/chapter-four-hundred-and-sixteen-talking-shop",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

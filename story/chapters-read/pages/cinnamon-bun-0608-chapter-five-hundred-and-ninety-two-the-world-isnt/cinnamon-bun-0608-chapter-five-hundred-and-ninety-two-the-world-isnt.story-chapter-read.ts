@@ -10,9 +10,13 @@ export const cinnamonBun0608ChapterFiveHundredAndNinetyTwoTheWorldIsnt = {
   ownLength: 1553,
   unit: "words",
   publishedAt: "2026-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3617652/chapter-five-hundred-and-ninety-two-the-world",
-  externalId: "3617652",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3617652",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3617652/chapter-five-hundred-and-ninety-two-the-world",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

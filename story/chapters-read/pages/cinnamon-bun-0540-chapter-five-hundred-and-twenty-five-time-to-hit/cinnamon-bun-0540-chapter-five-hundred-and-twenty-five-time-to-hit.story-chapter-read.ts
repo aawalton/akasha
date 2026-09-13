@@ -10,9 +10,13 @@ export const cinnamonBun0540ChapterFiveHundredAndTwentyFiveTimeToHit = {
   ownLength: 1474,
   unit: "words",
   publishedAt: "2025-02-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2077491/chapter-five-hundred-and-twenty-five-time-to-hit",
-  externalId: "2077491",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2077491",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2077491/chapter-five-hundred-and-twenty-five-time-to-hit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

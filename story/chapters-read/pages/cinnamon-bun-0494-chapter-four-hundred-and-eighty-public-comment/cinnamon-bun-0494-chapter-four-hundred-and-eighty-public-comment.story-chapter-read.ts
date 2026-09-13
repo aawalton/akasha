@@ -10,9 +10,13 @@ export const cinnamonBun0494ChapterFourHundredAndEightyPublicComment = {
   ownLength: 1490,
   unit: "words",
   publishedAt: "2024-03-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1563053/chapter-four-hundred-and-eighty-public-comment",
-  externalId: "1563053",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1563053",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1563053/chapter-four-hundred-and-eighty-public-comment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

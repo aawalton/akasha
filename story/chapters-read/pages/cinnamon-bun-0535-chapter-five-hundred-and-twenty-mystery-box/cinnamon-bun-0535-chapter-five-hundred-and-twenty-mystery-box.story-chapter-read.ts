@@ -10,9 +10,13 @@ export const cinnamonBun0535ChapterFiveHundredAndTwentyMysteryBox = {
   ownLength: 1516,
   unit: "words",
   publishedAt: "2025-01-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1998903/chapter-five-hundred-and-twenty-mystery-box",
-  externalId: "1998903",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1998903",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1998903/chapter-five-hundred-and-twenty-mystery-box",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

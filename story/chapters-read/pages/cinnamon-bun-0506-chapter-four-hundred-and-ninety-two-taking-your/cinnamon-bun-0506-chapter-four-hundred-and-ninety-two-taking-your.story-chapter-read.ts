@@ -10,9 +10,13 @@ export const cinnamonBun0506ChapterFourHundredAndNinetyTwoTakingYour = {
   ownLength: 1541,
   unit: "words",
   publishedAt: "2024-06-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1664682/chapter-four-hundred-and-ninety-two-taking-your",
-  externalId: "1664682",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1664682",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1664682/chapter-four-hundred-and-ninety-two-taking-your",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -11,9 +11,13 @@ export const cinnamonBun0541ChapterFiveHundredAndTwentySixBroccoliBunch = {
   ownLength: 1479,
   unit: "words",
   publishedAt: "2025-02-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2090870/chapter-five-hundred-and-twenty-six-broccoli-bunch",
-  externalId: "2090870",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2090870",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2090870/chapter-five-hundred-and-twenty-six-broccoli-bunch",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

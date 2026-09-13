@@ -11,9 +11,13 @@ export const cinnamonBun0600ChapterFiveHundredAndEightyFourThunderAnd = {
   ownLength: 1513,
   unit: "words",
   publishedAt: "2026-05-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3362406/chapter-five-hundred-and-eighty-four-thunder-and",
-  externalId: "3362406",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3362406",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3362406/chapter-five-hundred-and-eighty-four-thunder-and",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

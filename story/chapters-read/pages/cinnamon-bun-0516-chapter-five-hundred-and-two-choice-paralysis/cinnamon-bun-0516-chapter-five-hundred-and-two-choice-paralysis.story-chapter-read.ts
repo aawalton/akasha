@@ -10,9 +10,13 @@ export const cinnamonBun0516ChapterFiveHundredAndTwoChoiceParalysis = {
   ownLength: 1681,
   unit: "words",
   publishedAt: "2024-08-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1768866/chapter-five-hundred-and-two-choice-paralysis",
-  externalId: "1768866",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1768866",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1768866/chapter-five-hundred-and-two-choice-paralysis",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

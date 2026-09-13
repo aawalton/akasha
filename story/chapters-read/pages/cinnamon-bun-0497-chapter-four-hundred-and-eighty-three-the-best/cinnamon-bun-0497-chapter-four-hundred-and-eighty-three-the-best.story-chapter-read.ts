@@ -10,9 +10,13 @@ export const cinnamonBun0497ChapterFourHundredAndEightyThreeTheBest = {
   ownLength: 1486,
   unit: "words",
   publishedAt: "2024-04-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1577554/chapter-four-hundred-and-eighty-three-the-best",
-  externalId: "1577554",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1577554",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1577554/chapter-four-hundred-and-eighty-three-the-best",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

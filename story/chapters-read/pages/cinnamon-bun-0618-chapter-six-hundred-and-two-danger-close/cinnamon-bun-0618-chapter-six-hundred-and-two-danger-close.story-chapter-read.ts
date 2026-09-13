@@ -7,12 +7,16 @@ export const cinnamonBun0618ChapterSixHundredAndTwoDangerClose = {
   position: 618,
   publishedAt: "2026-09-09",
   unit: "words",
-  externalId: "3935131",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3935131",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3935131/chapter-six-hundred-and-two-danger-close",
+    },
+  ],
   title: "Chapter Six Hundred and Two - Danger Close",
   story: "story-read/cinnamon-bun",
   ownLength: 2120,
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3935131/chapter-six-hundred-and-two-danger-close",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0596ChapterFiveHundredAndEightyBelowTheHorizon = {
   ownLength: 1665,
   unit: "words",
   publishedAt: "2026-04-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3248658/chapter-five-hundred-and-eighty-below-the-horizon",
-  externalId: "3248658",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3248658",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3248658/chapter-five-hundred-and-eighty-below-the-horizon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

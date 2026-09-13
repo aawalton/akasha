@@ -10,9 +10,13 @@ export const cinnamonBun0566ChapterFiveHundredAndFiftyOneBecomeThe = {
   ownLength: 1573,
   unit: "words",
   publishedAt: "2025-08-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2552684/chapter-five-hundred-and-fifty-one-become-the",
-  externalId: "2552684",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2552684",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2552684/chapter-five-hundred-and-fifty-one-become-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

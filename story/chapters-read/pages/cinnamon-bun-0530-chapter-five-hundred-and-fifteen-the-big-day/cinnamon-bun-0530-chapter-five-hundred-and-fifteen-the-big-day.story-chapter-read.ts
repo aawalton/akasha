@@ -10,9 +10,13 @@ export const cinnamonBun0530ChapterFiveHundredAndFifteenTheBigDay = {
   ownLength: 1514,
   unit: "words",
   publishedAt: "2024-11-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1927844/chapter-five-hundred-and-fifteen-the-big-day",
-  externalId: "1927844",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1927844",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1927844/chapter-five-hundred-and-fifteen-the-big-day",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

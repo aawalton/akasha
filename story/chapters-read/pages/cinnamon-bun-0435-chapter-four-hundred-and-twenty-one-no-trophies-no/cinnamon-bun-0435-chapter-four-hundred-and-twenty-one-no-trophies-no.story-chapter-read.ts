@@ -11,9 +11,13 @@ export const cinnamonBun0435ChapterFourHundredAndTwentyOneNoTrophiesNo = {
   ownLength: 1970,
   unit: "words",
   publishedAt: "2023-07-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1291562/chapter-four-hundred-and-twenty-one-no-trophies",
-  externalId: "1291562",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1291562",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1291562/chapter-four-hundred-and-twenty-one-no-trophies",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

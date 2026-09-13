@@ -10,9 +10,13 @@ export const cinnamonBun0526AwensHalloweenSpecial = {
   ownLength: 1334,
   unit: "words",
   publishedAt: "2024-10-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1876903/awens-halloween-special",
-  externalId: "1876903",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1876903",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1876903/awens-halloween-special",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

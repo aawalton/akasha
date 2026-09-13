@@ -10,9 +10,13 @@ export const cinnamonBun0572ChapterFiveHundredAndFiftySevenOutside = {
   ownLength: 1509,
   unit: "words",
   publishedAt: "2025-10-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2662081/chapter-five-hundred-and-fifty-seven-outside-context",
-  externalId: "2662081",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2662081",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2662081/chapter-five-hundred-and-fifty-seven-outside-context",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

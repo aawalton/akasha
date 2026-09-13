@@ -10,9 +10,13 @@ export const cinnamonBun0439ChapterFourHundredAndTwentyFiveFull = {
   ownLength: 1940,
   unit: "words",
   publishedAt: "2023-08-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1306676/chapter-four-hundred-and-twenty-five-full-broadside",
-  externalId: "1306676",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1306676",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1306676/chapter-four-hundred-and-twenty-five-full-broadside",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

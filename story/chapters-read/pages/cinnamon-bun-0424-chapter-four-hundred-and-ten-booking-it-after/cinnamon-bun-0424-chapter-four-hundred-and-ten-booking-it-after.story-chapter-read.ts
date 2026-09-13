@@ -10,9 +10,13 @@ export const cinnamonBun0424ChapterFourHundredAndTenBookingItAfter = {
   ownLength: 2045,
   unit: "words",
   publishedAt: "2023-06-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1239700/chapter-four-hundred-and-ten-booking-it-after",
-  externalId: "1239700",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1239700",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1239700/chapter-four-hundred-and-ten-booking-it-after",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

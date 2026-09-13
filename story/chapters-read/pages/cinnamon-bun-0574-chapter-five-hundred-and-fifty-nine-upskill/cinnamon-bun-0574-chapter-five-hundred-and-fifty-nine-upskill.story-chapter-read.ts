@@ -10,9 +10,13 @@ export const cinnamonBun0574ChapterFiveHundredAndFiftyNineUpskill = {
   ownLength: 1506,
   unit: "words",
   publishedAt: "2025-10-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2718327/chapter-five-hundred-and-fifty-nine-upskill",
-  externalId: "2718327",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2718327",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2718327/chapter-five-hundred-and-fifty-nine-upskill",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

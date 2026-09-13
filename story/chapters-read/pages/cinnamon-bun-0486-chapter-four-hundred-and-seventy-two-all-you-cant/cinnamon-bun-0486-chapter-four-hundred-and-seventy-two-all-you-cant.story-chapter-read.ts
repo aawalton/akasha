@@ -10,9 +10,13 @@ export const cinnamonBun0486ChapterFourHundredAndSeventyTwoAllYouCant = {
   ownLength: 1508,
   unit: "words",
   publishedAt: "2024-02-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1525896/chapter-four-hundred-and-seventy-two-all-you-cant",
-  externalId: "1525896",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1525896",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1525896/chapter-four-hundred-and-seventy-two-all-you-cant",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0517ChapterFiveHundredAndThreeCoreWeakness = {
   ownLength: 1469,
   unit: "words",
   publishedAt: "2024-08-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1778104/chapter-five-hundred-and-three-core-weakness",
-  externalId: "1778104",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1778104",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1778104/chapter-five-hundred-and-three-core-weakness",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

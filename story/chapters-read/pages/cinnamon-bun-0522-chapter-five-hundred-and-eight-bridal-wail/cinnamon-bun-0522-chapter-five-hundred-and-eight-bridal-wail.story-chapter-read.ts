@@ -10,9 +10,13 @@ export const cinnamonBun0522ChapterFiveHundredAndEightBridalWail = {
   ownLength: 1467,
   unit: "words",
   publishedAt: "2024-10-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1831464/chapter-five-hundred-and-eight-bridal-wail",
-  externalId: "1831464",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1831464",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1831464/chapter-five-hundred-and-eight-bridal-wail",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

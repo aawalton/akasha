@@ -10,9 +10,13 @@ export const cinnamonBun0504ChapterFourHundredAndNinetySanitySplash = {
   ownLength: 1449,
   unit: "words",
   publishedAt: "2024-05-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1647097/chapter-four-hundred-and-ninety-sanity-splash",
-  externalId: "1647097",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1647097",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1647097/chapter-four-hundred-and-ninety-sanity-splash",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

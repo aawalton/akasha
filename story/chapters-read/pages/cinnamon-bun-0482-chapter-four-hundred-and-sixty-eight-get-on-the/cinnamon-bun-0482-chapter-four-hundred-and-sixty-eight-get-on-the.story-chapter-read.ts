@@ -10,9 +10,13 @@ export const cinnamonBun0482ChapterFourHundredAndSixtyEightGetOnThe = {
   ownLength: 1509,
   unit: "words",
   publishedAt: "2024-02-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1508673/chapter-four-hundred-and-sixty-eight-get-on-the",
-  externalId: "1508673",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1508673",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1508673/chapter-four-hundred-and-sixty-eight-get-on-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

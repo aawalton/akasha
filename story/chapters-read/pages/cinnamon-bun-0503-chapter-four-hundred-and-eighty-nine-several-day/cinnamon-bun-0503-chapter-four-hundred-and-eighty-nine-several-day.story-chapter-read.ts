@@ -10,9 +10,13 @@ export const cinnamonBun0503ChapterFourHundredAndEightyNineSeveralDay = {
   ownLength: 1490,
   unit: "words",
   publishedAt: "2024-05-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1638611/chapter-four-hundred-and-eighty-nine-several-day",
-  externalId: "1638611",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1638611",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1638611/chapter-four-hundred-and-eighty-nine-several-day",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

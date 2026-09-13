@@ -10,9 +10,13 @@ export const cinnamonBun0483ChapterFourHundredAndSixtyNineDragonEscort = {
   ownLength: 1506,
   unit: "words",
   publishedAt: "2024-02-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1511304/chapter-four-hundred-and-sixty-nine-dragon-escort",
-  externalId: "1511304",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1511304",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1511304/chapter-four-hundred-and-sixty-nine-dragon-escort",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

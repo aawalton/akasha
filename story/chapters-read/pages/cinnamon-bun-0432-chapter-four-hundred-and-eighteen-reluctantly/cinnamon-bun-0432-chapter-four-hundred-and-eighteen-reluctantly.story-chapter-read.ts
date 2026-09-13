@@ -10,9 +10,13 @@ export const cinnamonBun0432ChapterFourHundredAndEighteenReluctantly = {
   ownLength: 2020,
   unit: "words",
   publishedAt: "2023-07-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1281322/chapter-four-hundred-and-eighteen-reluctantly",
-  externalId: "1281322",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1281322",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1281322/chapter-four-hundred-and-eighteen-reluctantly",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

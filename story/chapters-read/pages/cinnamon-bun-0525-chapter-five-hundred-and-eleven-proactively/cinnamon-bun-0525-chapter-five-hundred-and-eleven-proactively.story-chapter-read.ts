@@ -11,9 +11,13 @@ export const cinnamonBun0525ChapterFiveHundredAndElevenProactively = {
   ownLength: 1469,
   unit: "words",
   publishedAt: "2024-10-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1874924/chapter-five-hundred-and-eleven-proactively-circling",
-  externalId: "1874924",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1874924",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1874924/chapter-five-hundred-and-eleven-proactively-circling",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

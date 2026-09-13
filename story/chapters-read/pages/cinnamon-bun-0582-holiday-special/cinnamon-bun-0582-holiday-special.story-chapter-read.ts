@@ -10,9 +10,13 @@ export const cinnamonBun0582HolidaySpecial = {
   ownLength: 1034,
   unit: "words",
   publishedAt: "2025-12-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2877304/holiday-special",
-  externalId: "2877304",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2877304",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2877304/holiday-special",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

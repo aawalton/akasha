@@ -10,9 +10,13 @@ export const cinnamonBun0472ChapterFourHundredAndFiftyEightTailsFromA = {
   ownLength: 1489,
   unit: "words",
   publishedAt: "2024-01-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1462919/chapter-four-hundred-and-fifty-eight-tails-from",
-  externalId: "1462919",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1462919",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1462919/chapter-four-hundred-and-fifty-eight-tails-from",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0603ChapterFiveHundredAndEightySevenConfirmation = {
   ownLength: 1451,
   unit: "words",
   publishedAt: "2026-05-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3458017/chapter-five-hundred-and-eighty-seven-confirmation",
-  externalId: "3458017",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3458017",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3458017/chapter-five-hundred-and-eighty-seven-confirmation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

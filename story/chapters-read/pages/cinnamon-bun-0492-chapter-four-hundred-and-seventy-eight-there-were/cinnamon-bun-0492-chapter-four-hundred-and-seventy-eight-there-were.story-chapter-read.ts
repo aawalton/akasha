@@ -10,9 +10,13 @@ export const cinnamonBun0492ChapterFourHundredAndSeventyEightThereWere = {
   ownLength: 1514,
   unit: "words",
   publishedAt: "2024-03-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1551579/chapter-four-hundred-and-seventy-eight-there-were",
-  externalId: "1551579",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1551579",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1551579/chapter-four-hundred-and-seventy-eight-there-were",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

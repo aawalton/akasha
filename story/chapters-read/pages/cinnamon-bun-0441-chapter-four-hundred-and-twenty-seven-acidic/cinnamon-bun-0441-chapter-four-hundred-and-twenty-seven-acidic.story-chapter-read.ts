@@ -10,9 +10,13 @@ export const cinnamonBun0441ChapterFourHundredAndTwentySevenAcidic = {
   ownLength: 1989,
   unit: "words",
   publishedAt: "2023-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1313868/chapter-four-hundred-and-twenty-seven-acidic-reaction",
-  externalId: "1313868",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1313868",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1313868/chapter-four-hundred-and-twenty-seven-acidic-reaction",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

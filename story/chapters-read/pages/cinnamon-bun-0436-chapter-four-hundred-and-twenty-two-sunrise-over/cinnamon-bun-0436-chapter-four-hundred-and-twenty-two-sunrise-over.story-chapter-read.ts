@@ -10,9 +10,13 @@ export const cinnamonBun0436ChapterFourHundredAndTwentyTwoSunriseOver = {
   ownLength: 1978,
   unit: "words",
   publishedAt: "2023-08-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1296455/chapter-four-hundred-and-twenty-two-sunrise-over",
-  externalId: "1296455",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1296455",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1296455/chapter-four-hundred-and-twenty-two-sunrise-over",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0499ChapterFourHundredAndEightyFiveMoneyTalks = {
   ownLength: 1461,
   unit: "words",
   publishedAt: "2024-04-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1600472/chapter-four-hundred-and-eighty-five-money-talks",
-  externalId: "1600472",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1600472",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1600472/chapter-four-hundred-and-eighty-five-money-talks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

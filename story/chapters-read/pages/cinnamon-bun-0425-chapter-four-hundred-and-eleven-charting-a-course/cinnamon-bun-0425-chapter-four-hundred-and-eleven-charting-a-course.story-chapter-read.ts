@@ -10,9 +10,13 @@ export const cinnamonBun0425ChapterFourHundredAndElevenChartingACourse = {
   ownLength: 2205,
   unit: "words",
   publishedAt: "2023-06-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1237449/chapter-four-hundred-and-eleven-charting-a-course",
-  externalId: "1237449",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1237449",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1237449/chapter-four-hundred-and-eleven-charting-a-course",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

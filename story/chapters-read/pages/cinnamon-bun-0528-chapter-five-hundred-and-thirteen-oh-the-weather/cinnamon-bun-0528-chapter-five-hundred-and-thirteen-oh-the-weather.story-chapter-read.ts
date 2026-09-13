@@ -10,9 +10,13 @@ export const cinnamonBun0528ChapterFiveHundredAndThirteenOhTheWeather = {
   ownLength: 1639,
   unit: "words",
   publishedAt: "2024-11-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1901960/chapter-five-hundred-and-thirteen-oh-the-weather",
-  externalId: "1901960",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1901960",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1901960/chapter-five-hundred-and-thirteen-oh-the-weather",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

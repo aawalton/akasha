@@ -10,9 +10,13 @@ export const cinnamonBun0604ChapterFiveHundredAndEightyEightTheWhy = {
   ownLength: 1532,
   unit: "words",
   publishedAt: "2026-06-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3487793/chapter-five-hundred-and-eighty-eight-the-why",
-  externalId: "3487793",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3487793",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3487793/chapter-five-hundred-and-eighty-eight-the-why",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

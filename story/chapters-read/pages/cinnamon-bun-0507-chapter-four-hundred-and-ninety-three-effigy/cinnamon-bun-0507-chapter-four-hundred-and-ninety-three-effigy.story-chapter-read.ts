@@ -10,9 +10,13 @@ export const cinnamonBun0507ChapterFourHundredAndNinetyThreeEffigy = {
   ownLength: 1552,
   unit: "words",
   publishedAt: "2024-06-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1672385/chapter-four-hundred-and-ninety-three-effigy",
-  externalId: "1672385",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1672385",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1672385/chapter-four-hundred-and-ninety-three-effigy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

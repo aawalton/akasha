@@ -10,9 +10,13 @@ export const cinnamonBun0480ChapterFourHundredAndSixtySixOperationLevel = {
   ownLength: 1529,
   unit: "words",
   publishedAt: "2024-01-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1500206/chapter-four-hundred-and-sixty-six-operation-level-up",
-  externalId: "1500206",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1500206",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1500206/chapter-four-hundred-and-sixty-six-operation-level-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

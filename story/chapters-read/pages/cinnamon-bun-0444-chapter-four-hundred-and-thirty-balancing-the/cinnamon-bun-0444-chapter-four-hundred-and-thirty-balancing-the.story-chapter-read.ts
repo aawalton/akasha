@@ -10,9 +10,13 @@ export const cinnamonBun0444ChapterFourHundredAndThirtyBalancingThe = {
   ownLength: 1950,
   unit: "words",
   publishedAt: "2023-08-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1328169/chapter-four-hundred-and-thirty-balancing-the",
-  externalId: "1328169",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1328169",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1328169/chapter-four-hundred-and-thirty-balancing-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

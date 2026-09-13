@@ -11,9 +11,13 @@ export const cinnamonBun0545ChapterFiveHundredAndThirtyWellIfItIsnt = {
   ownLength: 1485,
   unit: "words",
   publishedAt: "2025-03-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2152270/chapter-five-hundred-and-thirty-well-if-it-isnt",
-  externalId: "2152270",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2152270",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2152270/chapter-five-hundred-and-thirty-well-if-it-isnt",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

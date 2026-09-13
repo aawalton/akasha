@@ -10,9 +10,13 @@ export const cinnamonBun0598ChapterFiveHundredAndEightyTwoAddADashOf = {
   ownLength: 1591,
   unit: "words",
   publishedAt: "2026-04-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3306142/chapter-five-hundred-and-eighty-two-add-a-dash",
-  externalId: "3306142",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3306142",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3306142/chapter-five-hundred-and-eighty-two-add-a-dash",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

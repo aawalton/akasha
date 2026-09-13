@@ -10,9 +10,13 @@ export const cinnamonBun0575ChapterFiveHundredAndSixtySocialSkills = {
   ownLength: 1325,
   unit: "words",
   publishedAt: "2025-11-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2736396/chapter-five-hundred-and-sixty-social-skills",
-  externalId: "2736396",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2736396",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2736396/chapter-five-hundred-and-sixty-social-skills",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

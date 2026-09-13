@@ -10,9 +10,13 @@ export const cinnamonBun0527ChapterFiveHundredAndTwelveCleaningUpThe = {
   ownLength: 1606,
   unit: "words",
   publishedAt: "2024-11-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1888141/chapter-five-hundred-and-twelve-cleaning-up-the",
-  externalId: "1888141",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1888141",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1888141/chapter-five-hundred-and-twelve-cleaning-up-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

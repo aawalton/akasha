@@ -10,9 +10,13 @@ export const cinnamonBun0434ChapterFourHundredAndTwentySpeedThroughThe = {
   ownLength: 2033,
   unit: "words",
   publishedAt: "2023-07-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1289353/chapter-four-hundred-and-twenty-speed-through",
-  externalId: "1289353",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1289353",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1289353/chapter-four-hundred-and-twenty-speed-through",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

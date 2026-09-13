@@ -10,9 +10,13 @@ export const cinnamonBun0500ChapterFourHundredAndEightySixWhereDo = {
   ownLength: 1488,
   unit: "words",
   publishedAt: "2024-04-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1609496/chapter-four-hundred-and-eighty-six-where-do-babies",
-  externalId: "1609496",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1609496",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1609496/chapter-four-hundred-and-eighty-six-where-do-babies",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

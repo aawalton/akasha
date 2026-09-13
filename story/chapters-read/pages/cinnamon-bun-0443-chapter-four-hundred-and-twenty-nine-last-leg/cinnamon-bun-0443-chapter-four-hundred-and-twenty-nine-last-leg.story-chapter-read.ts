@@ -10,9 +10,13 @@ export const cinnamonBun0443ChapterFourHundredAndTwentyNineLastLeg = {
   ownLength: 1927,
   unit: "words",
   publishedAt: "2023-08-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1326523/chapter-four-hundred-and-twenty-nine-last-leg",
-  externalId: "1326523",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1326523",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1326523/chapter-four-hundred-and-twenty-nine-last-leg",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

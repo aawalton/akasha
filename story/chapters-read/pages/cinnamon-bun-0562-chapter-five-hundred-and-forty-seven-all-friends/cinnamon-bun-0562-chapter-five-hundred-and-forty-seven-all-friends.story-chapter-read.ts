@@ -10,9 +10,13 @@ export const cinnamonBun0562ChapterFiveHundredAndFortySevenAllFriends = {
   ownLength: 1502,
   unit: "words",
   publishedAt: "2025-07-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2479721/chapter-five-hundred-and-forty-seven-all-friends",
-  externalId: "2479721",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2479721",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2479721/chapter-five-hundred-and-forty-seven-all-friends",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

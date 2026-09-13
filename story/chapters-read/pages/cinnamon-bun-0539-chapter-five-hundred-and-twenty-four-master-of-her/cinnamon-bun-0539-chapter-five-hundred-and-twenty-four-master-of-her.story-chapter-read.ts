@@ -10,9 +10,13 @@ export const cinnamonBun0539ChapterFiveHundredAndTwentyFourMasterOfHer = {
   ownLength: 1510,
   unit: "words",
   publishedAt: "2025-02-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2062996/chapter-five-hundred-and-twenty-four-master-of",
-  externalId: "2062996",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2062996",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2062996/chapter-five-hundred-and-twenty-four-master-of",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0046B1StoryArt3 = {
   unit: "words",
   completedAt: "2026-06-29T19:07:26.845Z",
   publishedAt: "2024-01-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1489219/b1-story-art-3",
-  externalId: "1489219",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1489219",
+      externalLink:
+        "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1489219/b1-story-art-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

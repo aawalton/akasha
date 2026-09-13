@@ -10,9 +10,13 @@ export const cinnamonBun0617ChapterSixHundredAndOneTheMonstersAndThe = {
   ownLength: 2050,
   unit: "words",
   publishedAt: "2026-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3900833/chapter-six-hundred-and-one-the-monsters-and-the",
-  externalId: "3900833",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3900833",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3900833/chapter-six-hundred-and-one-the-monsters-and-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

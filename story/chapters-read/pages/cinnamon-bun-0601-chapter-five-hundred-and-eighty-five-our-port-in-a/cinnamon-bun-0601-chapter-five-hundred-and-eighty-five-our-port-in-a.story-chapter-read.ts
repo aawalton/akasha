@@ -10,9 +10,13 @@ export const cinnamonBun0601ChapterFiveHundredAndEightyFiveOurPortInA = {
   ownLength: 1665,
   unit: "words",
   publishedAt: "2026-05-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3390422/chapter-five-hundred-and-eighty-five-our-port",
-  externalId: "3390422",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3390422",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3390422/chapter-five-hundred-and-eighty-five-our-port",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

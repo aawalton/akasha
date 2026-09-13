@@ -10,9 +10,13 @@ export const cinnamonBun0542ChapterFiveHundredAndTwentySevenHeadToHead = {
   ownLength: 1469,
   unit: "words",
   publishedAt: "2025-03-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2105973/chapter-five-hundred-and-twenty-seven-head-to-head",
-  externalId: "2105973",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2105973",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2105973/chapter-five-hundred-and-twenty-seven-head-to-head",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

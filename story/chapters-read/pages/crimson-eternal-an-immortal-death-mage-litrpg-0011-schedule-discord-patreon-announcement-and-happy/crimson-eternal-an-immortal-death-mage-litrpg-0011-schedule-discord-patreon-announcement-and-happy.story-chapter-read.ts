@@ -13,9 +13,13 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0011ScheduleDiscordPatreonAn
     unit: "words",
     completedAt: "2026-06-29T19:06:12.578Z",
     publishedAt: "2024-01-01",
-    externalLink:
-      "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1462379/schedule-discord-patreon-announcement-and-happy",
-    externalId: "1462379",
-    source: "royal-road",
+    externalIdentity: [
+      {
+        source: "royal-road",
+        externalId: "1462379",
+        externalLink:
+          "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1462379/schedule-discord-patreon-announcement-and-happy",
+      },
+    ],
     prose: "txt",
   } as const satisfies StoryChapterRead

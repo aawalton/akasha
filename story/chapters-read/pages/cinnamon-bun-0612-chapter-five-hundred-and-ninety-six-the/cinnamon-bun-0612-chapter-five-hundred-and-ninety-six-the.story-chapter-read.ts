@@ -10,9 +10,13 @@ export const cinnamonBun0612ChapterFiveHundredAndNinetySixThe = {
   ownLength: 1439,
   unit: "words",
   publishedAt: "2026-07-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3741554/chapter-five-hundred-and-ninety-six-the-stormpiercer",
-  externalId: "3741554",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3741554",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3741554/chapter-five-hundred-and-ninety-six-the-stormpiercer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

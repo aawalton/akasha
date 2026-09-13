@@ -10,9 +10,13 @@ export const cinnamonBun0531ChapterFiveHundredAndSixteenVows = {
   ownLength: 1954,
   unit: "words",
   publishedAt: "2024-12-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1939381/chapter-five-hundred-and-sixteen-vows",
-  externalId: "1939381",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1939381",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1939381/chapter-five-hundred-and-sixteen-vows",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

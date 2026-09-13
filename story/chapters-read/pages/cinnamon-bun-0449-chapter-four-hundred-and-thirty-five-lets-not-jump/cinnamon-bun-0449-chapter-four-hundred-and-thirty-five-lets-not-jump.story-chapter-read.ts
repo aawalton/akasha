@@ -10,9 +10,13 @@ export const cinnamonBun0449ChapterFourHundredAndThirtyFiveLetsNotJump = {
   ownLength: 2015,
   unit: "words",
   publishedAt: "2023-09-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1350389/chapter-four-hundred-and-thirty-five-lets-not",
-  externalId: "1350389",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1350389",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1350389/chapter-four-hundred-and-thirty-five-lets-not",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

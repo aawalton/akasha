@@ -10,9 +10,13 @@ export const cinnamonBun0518ChapterFiveHundredAndFourLighter = {
   ownLength: 1586,
   unit: "words",
   publishedAt: "2024-09-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1788368/chapter-five-hundred-and-four-lighter",
-  externalId: "1788368",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1788368",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1788368/chapter-five-hundred-and-four-lighter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0460ChapterFourHundredAndFortySixPsychoanalysis = {
   ownLength: 1654,
   unit: "words",
   publishedAt: "2023-11-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1412207/chapter-four-hundred-and-forty-six-psychoanalysis",
-  externalId: "1412207",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1412207",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1412207/chapter-four-hundred-and-forty-six-psychoanalysis",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0501ChapterFourHundredAndEightySevenThisSounds = {
   ownLength: 1496,
   unit: "words",
   publishedAt: "2024-05-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1619484/chapter-four-hundred-and-eighty-seven-this-sounds",
-  externalId: "1619484",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1619484",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1619484/chapter-four-hundred-and-eighty-seven-this-sounds",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0536ChapterFiveHundredAndTwentyOneTimeAndBride = {
   ownLength: 1549,
   unit: "words",
   publishedAt: "2025-01-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2011831/chapter-five-hundred-and-twenty-one-time-and-bride",
-  externalId: "2011831",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2011831",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2011831/chapter-five-hundred-and-twenty-one-time-and-bride",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

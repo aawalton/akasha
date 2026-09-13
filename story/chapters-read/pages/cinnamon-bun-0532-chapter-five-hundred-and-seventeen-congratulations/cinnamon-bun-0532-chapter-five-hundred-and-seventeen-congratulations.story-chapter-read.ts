@@ -10,9 +10,13 @@ export const cinnamonBun0532ChapterFiveHundredAndSeventeenCongratulations = {
   ownLength: 1592,
   unit: "words",
   publishedAt: "2024-12-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1951729/chapter-five-hundred-and-seventeen-congratulations",
-  externalId: "1951729",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1951729",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1951729/chapter-five-hundred-and-seventeen-congratulations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0616ChapterSixHundredDifferencesOfOpinion = {
   ownLength: 2121,
   unit: "words",
   publishedAt: "2026-08-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3868450/chapter-six-hundred-differences-of-opinion",
-  externalId: "3868450",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3868450",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3868450/chapter-six-hundred-differences-of-opinion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0514ChapterFiveHundredWorldOfDarknessBunOf = {
   ownLength: 3273,
   unit: "words",
   publishedAt: "2024-08-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1749160/chapter-five-hundred-world-of-darkness-bun-of",
-  externalId: "1749160",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1749160",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1749160/chapter-five-hundred-world-of-darkness-bun-of",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

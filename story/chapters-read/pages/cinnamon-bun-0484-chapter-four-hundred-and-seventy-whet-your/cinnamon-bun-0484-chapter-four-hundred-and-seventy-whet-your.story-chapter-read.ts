@@ -10,9 +10,13 @@ export const cinnamonBun0484ChapterFourHundredAndSeventyWhetYour = {
   ownLength: 1613,
   unit: "words",
   publishedAt: "2024-02-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1517218/chapter-four-hundred-and-seventy-whet-your-appetite",
-  externalId: "1517218",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1517218",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1517218/chapter-four-hundred-and-seventy-whet-your-appetite",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

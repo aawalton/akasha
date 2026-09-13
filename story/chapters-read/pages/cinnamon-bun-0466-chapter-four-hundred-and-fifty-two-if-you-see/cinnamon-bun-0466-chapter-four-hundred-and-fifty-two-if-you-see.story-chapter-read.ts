@@ -10,9 +10,13 @@ export const cinnamonBun0466ChapterFourHundredAndFiftyTwoIfYouSee = {
   ownLength: 1555,
   unit: "words",
   publishedAt: "2023-12-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1435737/chapter-four-hundred-and-fifty-two-if-you-see",
-  externalId: "1435737",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1435737",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1435737/chapter-four-hundred-and-fifty-two-if-you-see",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

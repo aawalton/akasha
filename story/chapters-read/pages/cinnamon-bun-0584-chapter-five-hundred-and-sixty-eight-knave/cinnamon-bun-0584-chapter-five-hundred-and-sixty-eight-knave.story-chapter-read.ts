@@ -10,9 +10,13 @@ export const cinnamonBun0584ChapterFiveHundredAndSixtyEightKnave = {
   ownLength: 1485,
   unit: "words",
   publishedAt: "2026-01-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2920574/chapter-five-hundred-and-sixty-eight-knave",
-  externalId: "2920574",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2920574",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2920574/chapter-five-hundred-and-sixty-eight-knave",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

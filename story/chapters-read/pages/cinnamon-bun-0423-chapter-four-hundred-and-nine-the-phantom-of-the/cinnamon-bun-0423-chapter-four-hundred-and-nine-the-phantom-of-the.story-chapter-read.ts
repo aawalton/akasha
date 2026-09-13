@@ -10,9 +10,13 @@ export const cinnamonBun0423ChapterFourHundredAndNineThePhantomOfThe = {
   ownLength: 1996,
   unit: "words",
   publishedAt: "2023-05-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1229786/chapter-four-hundred-and-nine-the-phantom-of-the",
-  externalId: "1229786",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1229786",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1229786/chapter-four-hundred-and-nine-the-phantom-of-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

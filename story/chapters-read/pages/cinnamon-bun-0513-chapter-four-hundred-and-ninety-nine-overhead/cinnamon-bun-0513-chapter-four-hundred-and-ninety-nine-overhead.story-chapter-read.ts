@@ -10,9 +10,13 @@ export const cinnamonBun0513ChapterFourHundredAndNinetyNineOverhead = {
   ownLength: 1462,
   unit: "words",
   publishedAt: "2024-07-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1739986/chapter-four-hundred-and-ninety-nine-overhead",
-  externalId: "1739986",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1739986",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1739986/chapter-four-hundred-and-ninety-nine-overhead",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

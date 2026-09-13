@@ -12,9 +12,13 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0080B2FullStoryArtThusFar = 
   unit: "words",
   completedAt: "2026-06-29T19:08:39.667Z",
   publishedAt: "2024-02-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1504812/b2-full-story-art-thus-far",
-  externalId: "1504812",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1504812",
+      externalLink:
+        "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1504812/b2-full-story-art-thus-far",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0573ChapterFiveHundredAndFiftyEightLunchAnd = {
   ownLength: 1400,
   unit: "words",
   publishedAt: "2025-10-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2679525/chapter-five-hundred-and-fifty-eight-lunch-and",
-  externalId: "2679525",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2679525",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2679525/chapter-five-hundred-and-fifty-eight-lunch-and",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

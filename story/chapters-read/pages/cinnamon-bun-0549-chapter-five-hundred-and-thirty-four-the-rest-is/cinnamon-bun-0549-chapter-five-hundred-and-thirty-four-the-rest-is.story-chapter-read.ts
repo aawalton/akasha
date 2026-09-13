@@ -10,9 +10,13 @@ export const cinnamonBun0549ChapterFiveHundredAndThirtyFourTheRestIs = {
   ownLength: 1457,
   unit: "words",
   publishedAt: "2025-04-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2224474/chapter-five-hundred-and-thirty-four-the-rest",
-  externalId: "2224474",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2224474",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2224474/chapter-five-hundred-and-thirty-four-the-rest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

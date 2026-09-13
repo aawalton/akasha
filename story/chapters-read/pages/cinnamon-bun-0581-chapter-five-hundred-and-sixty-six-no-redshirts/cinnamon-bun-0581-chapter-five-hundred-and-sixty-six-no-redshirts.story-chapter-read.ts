@@ -10,9 +10,13 @@ export const cinnamonBun0581ChapterFiveHundredAndSixtySixNoRedshirts = {
   ownLength: 1442,
   unit: "words",
   publishedAt: "2025-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2856467/chapter-five-hundred-and-sixty-six-no-redshirts",
-  externalId: "2856467",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2856467",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2856467/chapter-five-hundred-and-sixty-six-no-redshirts",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

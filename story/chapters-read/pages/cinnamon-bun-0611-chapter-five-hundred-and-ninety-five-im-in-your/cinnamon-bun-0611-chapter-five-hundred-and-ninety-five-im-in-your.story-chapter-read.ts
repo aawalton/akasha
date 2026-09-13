@@ -10,9 +10,13 @@ export const cinnamonBun0611ChapterFiveHundredAndNinetyFiveImInYour = {
   ownLength: 1536,
   unit: "words",
   publishedAt: "2026-07-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3710902/chapter-five-hundred-and-ninety-five-im-in-your",
-  externalId: "3710902",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3710902",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3710902/chapter-five-hundred-and-ninety-five-im-in-your",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

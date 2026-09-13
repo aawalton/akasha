@@ -10,9 +10,13 @@ export const cinnamonBun0563ChapterFiveHundredAndFortyEightWaterInThe = {
   ownLength: 1470,
   unit: "words",
   publishedAt: "2025-08-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2497429/chapter-five-hundred-and-forty-eight-water-in",
-  externalId: "2497429",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2497429",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2497429/chapter-five-hundred-and-forty-eight-water-in",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

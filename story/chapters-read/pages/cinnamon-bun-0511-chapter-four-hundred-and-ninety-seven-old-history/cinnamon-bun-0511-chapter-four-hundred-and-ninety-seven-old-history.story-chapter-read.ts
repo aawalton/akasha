@@ -10,9 +10,13 @@ export const cinnamonBun0511ChapterFourHundredAndNinetySevenOldHistory = {
   ownLength: 1454,
   unit: "words",
   publishedAt: "2024-07-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1721916/chapter-four-hundred-and-ninety-seven-old-history",
-  externalId: "1721916",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1721916",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1721916/chapter-four-hundred-and-ninety-seven-old-history",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

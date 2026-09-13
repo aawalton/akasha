@@ -10,9 +10,13 @@ export const cinnamonBun0512ChapterFourHundredAndNinetyEightHoldUp = {
   ownLength: 1496,
   unit: "words",
   publishedAt: "2024-07-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1731575/chapter-four-hundred-and-ninety-eight-hold-up",
-  externalId: "1731575",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1731575",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1731575/chapter-four-hundred-and-ninety-eight-hold-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

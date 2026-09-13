@@ -10,9 +10,13 @@ export const cinnamonBun0469ChapterFourHundredAndFiftyFiveChargeOfThe = {
   ownLength: 1457,
   unit: "words",
   publishedAt: "2023-12-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1447997/chapter-four-hundred-and-fifty-five-charge-of",
-  externalId: "1447997",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1447997",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1447997/chapter-four-hundred-and-fifty-five-charge-of",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

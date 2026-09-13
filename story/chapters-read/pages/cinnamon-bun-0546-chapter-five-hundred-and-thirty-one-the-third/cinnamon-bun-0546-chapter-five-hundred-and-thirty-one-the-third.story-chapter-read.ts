@@ -10,9 +10,13 @@ export const cinnamonBun0546ChapterFiveHundredAndThirtyOneTheThird = {
   ownLength: 1482,
   unit: "words",
   publishedAt: "2025-04-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2169074/chapter-five-hundred-and-thirty-one-the-third",
-  externalId: "2169074",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2169074",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2169074/chapter-five-hundred-and-thirty-one-the-third",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

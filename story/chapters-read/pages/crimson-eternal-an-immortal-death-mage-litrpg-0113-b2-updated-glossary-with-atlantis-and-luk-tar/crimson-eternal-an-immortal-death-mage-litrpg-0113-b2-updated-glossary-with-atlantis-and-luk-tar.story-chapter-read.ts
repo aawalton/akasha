@@ -12,9 +12,13 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0113B2UpdatedGlossaryWithAtl
   unit: "words",
   completedAt: "2026-06-29T19:09:47.772Z",
   publishedAt: "2024-02-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1534237/b2-updated-glossary-with-atlantis-and-luktar",
-  externalId: "1534237",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1534237",
+      externalLink:
+        "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1534237/b2-updated-glossary-with-atlantis-and-luktar",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0450ChapterFourHundredAndThirtySixDrawTheParty = {
   ownLength: 2037,
   unit: "words",
   publishedAt: "2023-09-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1355150/chapter-four-hundred-and-thirty-six-draw-the-party",
-  externalId: "1355150",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1355150",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1355150/chapter-four-hundred-and-thirty-six-draw-the-party",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0465ChapterFourHundredAndFiftyOnePersonality = {
   ownLength: 1547,
   unit: "words",
   publishedAt: "2023-12-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1433354/chapter-four-hundred-and-fifty-one-personality",
-  externalId: "1433354",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1433354",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1433354/chapter-four-hundred-and-fifty-one-personality",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

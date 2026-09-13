@@ -10,9 +10,13 @@ export const cinnamonBun0510ChapterFourHundredAndNinetySixTheUnnatural = {
   ownLength: 1559,
   unit: "words",
   publishedAt: "2024-07-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1713058/chapter-four-hundred-and-ninety-six-the-unnatural",
-  externalId: "1713058",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1713058",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1713058/chapter-four-hundred-and-ninety-six-the-unnatural",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0474ChapterFourHundredAndSixtySpeedrunners = {
   ownLength: 1549,
   unit: "words",
   publishedAt: "2024-01-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1471234/chapter-four-hundred-and-sixty-speedrunners",
-  externalId: "1471234",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1471234",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1471234/chapter-four-hundred-and-sixty-speedrunners",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

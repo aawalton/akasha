@@ -10,9 +10,13 @@ export const cinnamonBun0579ChapterFiveHundredAndSixtyFourDoesntLook = {
   ownLength: 1471,
   unit: "words",
   publishedAt: "2025-12-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2815116/chapter-five-hundred-and-sixty-four-doesnt-look",
-  externalId: "2815116",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2815116",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2815116/chapter-five-hundred-and-sixty-four-doesnt-look",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

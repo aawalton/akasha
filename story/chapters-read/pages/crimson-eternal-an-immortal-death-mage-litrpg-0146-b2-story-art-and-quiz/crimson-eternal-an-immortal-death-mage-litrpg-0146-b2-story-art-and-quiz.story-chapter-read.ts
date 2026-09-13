@@ -12,9 +12,13 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0146B2StoryArtAndQuiz = {
   unit: "words",
   completedAt: "2026-06-29T19:10:40.894Z",
   publishedAt: "2024-04-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1603891/b2-story-art-and-quiz",
-  externalId: "1603891",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1603891",
+      externalLink:
+        "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1603891/b2-story-art-and-quiz",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

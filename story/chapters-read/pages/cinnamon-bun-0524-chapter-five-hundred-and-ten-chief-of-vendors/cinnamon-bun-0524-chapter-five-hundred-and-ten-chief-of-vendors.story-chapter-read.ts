@@ -10,9 +10,13 @@ export const cinnamonBun0524ChapterFiveHundredAndTenChiefOfVendors = {
   ownLength: 1457,
   unit: "words",
   publishedAt: "2024-10-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1865122/chapter-five-hundred-and-ten-chief-of-vendors",
-  externalId: "1865122",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1865122",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1865122/chapter-five-hundred-and-ten-chief-of-vendors",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

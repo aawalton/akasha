@@ -10,9 +10,13 @@ export const cinnamonBun0454ChapterFourHundredAndFortyModernDraconic = {
   ownLength: 1940,
   unit: "words",
   publishedAt: "2023-10-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1372241/chapter-four-hundred-and-forty-modern-draconic",
-  externalId: "1372241",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1372241",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1372241/chapter-four-hundred-and-forty-modern-draconic",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

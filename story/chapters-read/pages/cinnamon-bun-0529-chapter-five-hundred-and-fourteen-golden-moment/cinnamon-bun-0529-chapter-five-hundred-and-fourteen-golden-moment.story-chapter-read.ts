@@ -10,9 +10,13 @@ export const cinnamonBun0529ChapterFiveHundredAndFourteenGoldenMoment = {
   ownLength: 1469,
   unit: "words",
   publishedAt: "2024-11-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1915069/chapter-five-hundred-and-fourteen-golden-moment",
-  externalId: "1915069",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1915069",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1915069/chapter-five-hundred-and-fourteen-golden-moment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0491ChapterFourHundredAndSeventySevenLike = {
   ownLength: 1578,
   unit: "words",
   publishedAt: "2024-03-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1545146/chapter-four-hundred-and-seventy-seven-like-shooting",
-  externalId: "1545146",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1545146",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1545146/chapter-four-hundred-and-seventy-seven-like-shooting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0428ChapterFourHundredAndFourteenCanYouSay = {
   ownLength: 1992,
   unit: "words",
   publishedAt: "2023-07-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1266913/chapter-four-hundred-and-fourteen-can-you-say",
-  externalId: "1266913",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1266913",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1266913/chapter-four-hundred-and-fourteen-can-you-say",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

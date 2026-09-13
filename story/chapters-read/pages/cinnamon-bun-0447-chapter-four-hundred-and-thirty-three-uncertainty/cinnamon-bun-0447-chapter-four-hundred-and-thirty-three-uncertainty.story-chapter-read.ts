@@ -10,9 +10,13 @@ export const cinnamonBun0447ChapterFourHundredAndThirtyThreeUncertainty = {
   ownLength: 2021,
   unit: "words",
   publishedAt: "2023-09-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1342961/chapter-four-hundred-and-thirty-three-uncertainty",
-  externalId: "1342961",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1342961",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1342961/chapter-four-hundred-and-thirty-three-uncertainty",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0455ChapterFourHundredAndFortyOneTheCrackOf = {
   ownLength: 1982,
   unit: "words",
   publishedAt: "2023-10-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1384660/chapter-four-hundred-and-forty-one-the-crack-of",
-  externalId: "1384660",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1384660",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1384660/chapter-four-hundred-and-forty-one-the-crack-of",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

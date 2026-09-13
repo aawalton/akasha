@@ -10,9 +10,13 @@ export const cinnamonBun0520ChapterFiveHundredAndSixThatsSoMetal = {
   ownLength: 1594,
   unit: "words",
   publishedAt: "2024-09-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1808598/chapter-five-hundred-and-six-thats-so-metal",
-  externalId: "1808598",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1808598",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1808598/chapter-five-hundred-and-six-thats-so-metal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

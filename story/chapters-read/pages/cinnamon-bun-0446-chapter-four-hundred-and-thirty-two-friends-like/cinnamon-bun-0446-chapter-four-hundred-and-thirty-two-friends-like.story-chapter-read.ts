@@ -10,9 +10,13 @@ export const cinnamonBun0446ChapterFourHundredAndThirtyTwoFriendsLike = {
   ownLength: 1975,
   unit: "words",
   publishedAt: "2023-09-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1340700/chapter-four-hundred-and-thirty-two-friends-like",
-  externalId: "1340700",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1340700",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1340700/chapter-four-hundred-and-thirty-two-friends-like",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
