@@ -44,3 +44,13 @@ test("a sequence naming what is no child of this parent numbers only the childre
   ])
   expect(shape(tree.roots)).toEqual(["alpha:-", "  bravo:1", "  delta:2", "zulu:-"])
 })
+
+test("a child's number is its place among the children rather than its place in the sequence", () => {
+  const tree = championTree([
+    row("alpha", null, ["delta", "bravo"]),
+    row("bravo", "alpha", []),
+    row("charlie", "alpha", []),
+    row("delta", "alpha", []),
+  ])
+  expect(shape(tree.roots)).toEqual(["alpha:-", "  bravo:1", "  delta:2", "  charlie:-"])
+})

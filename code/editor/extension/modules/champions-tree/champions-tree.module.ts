@@ -34,5 +34,10 @@ export const championsTree = {
       statement:
         "A node whose descent reaches no persona names no champion rather than an empty champion.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A child's number is its place among the children rather than its place in the sequence.",
+    },
   ],
 } as const satisfies Module

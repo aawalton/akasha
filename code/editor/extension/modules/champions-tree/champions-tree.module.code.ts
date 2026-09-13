@@ -26,16 +26,14 @@ export interface ChampionTree {
 
 function ordered(parent: DomainRow, kin: readonly string[]): readonly Placed[] {
   if (parent.sequence.length === 0) return kin.map((slug) => ({ slug, position: null }))
-  const kinship = new Set(kin)
-  const placed = new Map<string, number>()
-  for (const slug of parent.sequence) {
-    if (!kinship.has(slug) || placed.has(slug)) continue
-    placed.set(slug, placed.size + 1)
+  const named = new Set(parent.sequence)
+  const placed: Placed[] = []
+  const unplaced: Placed[] = []
+  for (const slug of kin) {
+    if (named.has(slug)) placed.push({ slug, position: placed.length + 1 })
+    else unplaced.push({ slug, position: null })
   }
-  return [
-    ...[...placed].map(([slug, position]) => ({ slug, position })),
-    ...kin.filter((one) => !placed.has(one)).map((slug) => ({ slug, position: null })),
-  ]
+  return [...placed, ...unplaced]
 }
 
 export function championTree(rows: readonly DomainRow[]): ChampionTree {
