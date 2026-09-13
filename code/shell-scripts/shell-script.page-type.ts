@@ -11,6 +11,7 @@ export const shellScript = {
     "code-file-property/shell",
     "module-property-group/scripting",
     "service-workstation/repos-empty-dir-purge",
+    "shell-script/bash-call-weighing",
     "shell-script/bash-env",
     "shell-script/repos-empty-dir-purge",
     "shell-script/statusline",
