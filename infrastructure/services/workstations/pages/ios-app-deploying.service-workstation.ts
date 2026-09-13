@@ -6,6 +6,7 @@ export const iosAppDeploying = {
   slug: "ios-app-deploying",
   definition: "the service putting the ios app kind up once a commit changes what it is built from",
   enabled: true,
+  needsSecrets: true,
   systemd: {
     schedule: "*:*:00",
     jitterSeconds: 10,
@@ -28,6 +29,10 @@ export const iosAppDeploying = {
     {
       invariantKind: "departure",
       statement: "Each ios app states the hour it waits before a tick hands Apple another build.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An ios build wants secrets from Alan's file, so this service reads that file.",
     },
     {
       invariantKind: "departure",
