@@ -8,7 +8,7 @@ import {
   opened,
   seatScopeIn,
   turnedOn,
-} from "akasha/agents/seats/launching/modules/grouping/seat-grouping.module.code.ts"
+} from "akasha/agents/seats/launching/modules/seat-grouping/seat-grouping.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

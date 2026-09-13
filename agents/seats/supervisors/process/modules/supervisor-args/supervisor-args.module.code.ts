@@ -1,4 +1,4 @@
-import { HEADLESS_FLAG } from "akasha/agents/seats/launching/modules/modes/seat-modes.module.code.ts"
+import { HEADLESS_FLAG } from "akasha/agents/seats/launching/modules/seat-modes/seat-modes.module.code.ts"
 import type { SeatResumeDriver } from "akasha/agents/seats/reviving/modules/resume-driver/seat-resume-driver.module.code.ts"
 
 export type ParsedArgs = {

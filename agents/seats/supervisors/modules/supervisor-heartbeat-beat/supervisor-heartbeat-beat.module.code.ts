@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import { runningModeIn } from "akasha/agents/seats/launching/modules/modes/seat-modes.module.code.ts"
+import { runningModeIn } from "akasha/agents/seats/launching/modules/seat-modes/seat-modes.module.code.ts"
 import { composedNameOf } from "akasha/agents/seats/name/modules/rename/seat-rename.module.code.ts"
 import {
   formatSeatProcKey,

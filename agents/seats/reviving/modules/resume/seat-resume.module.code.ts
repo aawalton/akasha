@@ -17,7 +17,7 @@ import {
   SEAT_MODE_HEADLESS,
   SEAT_MODE_INTERACTIVE,
   SEAT_MODES,
-} from "akasha/agents/seats/launching/modules/modes/seat-modes.module.code.ts"
+} from "akasha/agents/seats/launching/modules/seat-modes/seat-modes.module.code.ts"
 import { parseWindowDuration } from "akasha/agents/seats/modules/window-duration/window-duration.module.code.ts"
 import { sweepSupersededAgentTrees } from "akasha/agents/seats/reviving/modules/recovery/seat-recovery.module.code.ts"
 import {

@@ -3,7 +3,7 @@ import {
   ptyProxyRel,
   seatResumeRel,
   supervisorRel,
-} from "akasha/agents/seats/launching/modules/entry-paths/seat-entry-paths.module.code.ts"
+} from "akasha/agents/seats/launching/modules/seat-entry-paths/seat-entry-paths.module.code.ts"
 import {
   akashaCommand,
   proxy,

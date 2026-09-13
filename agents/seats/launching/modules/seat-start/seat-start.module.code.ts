@@ -18,7 +18,7 @@ import {
   SEAT_MODE_HEADLESS,
   SEAT_MODE_INTERACTIVE,
   SEAT_MODES,
-} from "akasha/agents/seats/launching/modules/modes/seat-modes.module.code.ts"
+} from "akasha/agents/seats/launching/modules/seat-modes/seat-modes.module.code.ts"
 import {
   type StatedIdentity,
   spawnSeat,
