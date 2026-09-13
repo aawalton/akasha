@@ -16,7 +16,7 @@ export const sophiaAgentStopHook = {
       statement:
         "Each of the five directives Alan's page states has a judge that misfires on nothing.",
       workingMemory:
-        "Three of five have judges. Over the 413 cases, `directive-kept` catches 15 of 34 for Neither Clock Nor Meter and `one-at-a-time-kept` 13 of 24, and each refuses a clean turn. No Commentary is judged by two signs whose union catches 14 of 64 and refuses nothing clean. A third sign for it, a wait restated, is landed and off the hook: the key labels three turns carrying its mark clean and nine like them breaches.\n",
+        "Three of five have judges. Over the 413 cases, `directive-kept` catches 15 and 18 of 34 for Neither Clock Nor Meter with the machine-ceiling carve-out landed, and `one-at-a-time-kept` 13 of 24; each refuses a clean turn. No Commentary is judged by two signs whose union catches 14 of 64 and refuses nothing clean. Wordings that trade recall away do not buy precision: at 2 and 3 of 24 the One At A Time misfires only fell inside the noise, and a two-word change brought them back.",
     },
     {
       statement:
