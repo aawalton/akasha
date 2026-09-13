@@ -5,7 +5,7 @@ export const changeMechanicalPageTypeRemove = {
   type: "domain",
   slug: "change-mechanical-page-type-remove",
   definition: "a mechanical change taking a key off every page of one page type",
-  parts: [],
+  parts: ["change-mechanical-page-type/remove-property-from-every-page"],
   invariants: [
     {
       invariantKind: "departure",
