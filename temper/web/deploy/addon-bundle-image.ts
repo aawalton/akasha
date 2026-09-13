@@ -1,5 +1,5 @@
 export const ADDON_BUNDLE_CONTENT_HASH =
-  "620af31a9ee3109b3ed5d985fe4c18a9d0e11fee650ba7b1d14b554a6e73cbb3"
+  "cfbf635f36d9ee7bb8204744a31347ea5674df25e10513adf516cbfce53b8d01"
 
 export const ADDON_BUNDLE_IMAGE =
-  "registry.registry.svc.cluster.local:5000/cluster/temper-addons:620af31a9ee3109b3ed5d985fe4c18a9d0e11fee650ba7b1d14b554a6e73cbb3"
+  "registry.registry.svc.cluster.local:5000/cluster/temper-addons:cfbf635f36d9ee7bb8204744a31347ea5674df25e10513adf516cbfce53b8d01"
