@@ -10,17 +10,6 @@ import { stretchStart } from "akasha/commands/arguments/pages/stretch-start.argu
 import { title } from "akasha/commands/arguments/pages/title.argument.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { trackSessionLog as page } from "akasha/commands/pages/track/session/log/track-session-log.command.ts"
-import {
-  landed,
-  standingFor,
-  taggingFor,
-  telling,
-} from "akasha/commands/pages/track/session/session-acting/session-acting.module.code.ts"
-import {
-  taggedFor,
-  taggingOf,
-} from "akasha/commands/pages/track/session/session-relationships/session-relationships.module.code.ts"
 import {
   anchoredIn,
   faultsIn,
@@ -30,7 +19,18 @@ import {
   type Row,
   sayingFor,
   shownOf,
-} from "akasha/commands/pages/track/session-rows/session-rows.module.code.ts"
+} from "akasha/commands/pages/track/modules/session-rows/session-rows.module.code.ts"
+import { trackSessionLog as page } from "akasha/commands/pages/track/session/log/track-session-log.command.ts"
+import {
+  landed,
+  standingFor,
+  taggingFor,
+  telling,
+} from "akasha/commands/pages/track/session/modules/session-acting/session-acting.module.code.ts"
+import {
+  taggedFor,
+  taggingOf,
+} from "akasha/commands/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"
 
 const NAMED = [dryRun, day, safety, difficulty, title, stretchStart, stretchEnd, relationship]
 

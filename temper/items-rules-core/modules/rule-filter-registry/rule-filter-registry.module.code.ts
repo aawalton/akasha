@@ -29,7 +29,7 @@ import { REQUIRED_SKILL_LINES_FILTER } from "akasha/temper/items-rules-core/modu
 import type { InventoryRuleFilter } from "akasha/temper/items-rules-core/modules/rule-filter-types/rule-filter-types.module.code.ts"
 import { ITEM_NAME_FILTER } from "akasha/temper/items-rules-core/modules/rule-item-name-filter/rule-item-name-filter.module.code.ts"
 import { QUALITY_FILTER } from "akasha/temper/items-rules-core/modules/rule-quality-filter/rule-quality-filter.module.code.ts"
-import { SET_SOURCES_FILTER } from "akasha/temper/items-rules-core/set-sources-filter/set-sources-filter.module.code.ts"
+import { SET_SOURCES_FILTER } from "akasha/temper/items-rules-core/modules/set-sources-filter/set-sources-filter.module.code.ts"
 import { STACK_FULLNESS_FILTER } from "akasha/temper/items-rules-core/stack-fullness-filter/stack-fullness-filter.module.code.ts"
 import { STOCK_THRESHOLD_FILTER } from "akasha/temper/items-rules-core/stock-threshold-filter/stock-threshold-filter.module.code.ts"
 import { STOLEN_FILTER } from "akasha/temper/items-rules-core/stolen-filter/stolen-filter.module.code.ts"

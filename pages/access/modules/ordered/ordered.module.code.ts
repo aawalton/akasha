@@ -3,7 +3,7 @@ import { getSequenceConfig } from "akasha/pages/access/modules/page-type-config/
 import { applySelect } from "akasha/pages/access/modules/routing-core/routing-core.module.code.ts"
 import type { PageSelect } from "akasha/pages/access/types/types.module.code.ts"
 import type { Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
-import type { SequenceConfig } from "akasha/pages/core/schema/sequence-config/sequence-config.module.code.ts"
+import type { SequenceConfig } from "akasha/pages/core/schema/modules/sequence-config/sequence-config.module.code.ts"
 import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
 
 const SEQUENCE_PAGE_SIZE = 500

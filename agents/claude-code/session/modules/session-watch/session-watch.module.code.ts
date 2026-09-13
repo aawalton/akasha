@@ -1,6 +1,6 @@
 import { existsSync, readdirSync, unwatchFile, watchFile } from "node:fs"
 import { stat } from "node:fs/promises"
-import { readTranscriptSessionId } from "akasha/agents/claude-code/session/jsonl/session-jsonl.module.code.ts"
+import { readTranscriptSessionId } from "akasha/agents/claude-code/session/modules/jsonl/session-jsonl.module.code.ts"
 import {
   getDefaultObjectStore,
   sessionObjectKeyFor,

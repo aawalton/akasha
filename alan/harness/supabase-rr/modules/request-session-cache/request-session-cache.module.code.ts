@@ -4,7 +4,7 @@ import { createRequestMemo } from "akasha/alan/harness/supabase-rr/modules/reque
 import {
   createServerClient,
   type SupabaseServerClient,
-} from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
+} from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
 
 export type RequestServerClient = { supabase: SupabaseServerClient; headers: Headers }
 

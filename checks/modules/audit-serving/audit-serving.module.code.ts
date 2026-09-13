@@ -33,8 +33,8 @@ import { runGit } from "akasha/git/modules/answering/git-answering.module.code.t
 import {
   championing,
   passedOn,
-} from "akasha/infrastructure/services/workstations/service-alerting/service-alerting.module.code.ts"
-import { checkoutAt } from "akasha/infrastructure/services/workstations/service-checkout/service-checkout.module.code.ts"
+} from "akasha/infrastructure/services/workstations/modules/service-alerting/service-alerting.module.code.ts"
+import { checkoutAt } from "akasha/infrastructure/services/workstations/modules/service-checkout/service-checkout.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { type Shadow, shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
 import { requireEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"

@@ -6,9 +6,9 @@ import type {
 import {
   createSetSource,
   type SetSource,
-} from "akasha/temper/characters-equipment/set-source/set-source.module.code.ts"
+} from "akasha/temper/characters-equipment/modules/set-source/set-source.module.code.ts"
 import type { PipelineStage } from "akasha/temper/characters-stats/modules/pipeline-types/pipeline-types.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/equipment/modules/set-ids/set-ids.module.code.ts"
 import {
   type EquipmentQualityId,
   resolveQuality,

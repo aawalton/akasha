@@ -3,13 +3,13 @@ import { day } from "akasha/commands/arguments/pages/day.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { trackSessionList as page } from "akasha/commands/pages/track/session/list/track-session-list.command.ts"
-import { telling } from "akasha/commands/pages/track/session/session-acting/session-acting.module.code.ts"
 import {
   dayNow,
   heldFor,
   shownOf,
-} from "akasha/commands/pages/track/session-rows/session-rows.module.code.ts"
+} from "akasha/commands/pages/track/modules/session-rows/session-rows.module.code.ts"
+import { trackSessionList as page } from "akasha/commands/pages/track/session/list/track-session-list.command.ts"
+import { telling } from "akasha/commands/pages/track/session/modules/session-acting/session-acting.module.code.ts"
 
 const NAMED = [json, day]
 

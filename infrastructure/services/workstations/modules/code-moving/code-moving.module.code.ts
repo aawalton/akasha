@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { join, sep } from "node:path"
 import { gitIn, storeIn, TREES } from "akasha/files/modules/git-place/git-place.module.code.ts"
-import { checkoutAt } from "akasha/infrastructure/services/workstations/service-checkout/service-checkout.module.code.ts"
+import { checkoutAt } from "akasha/infrastructure/services/workstations/modules/service-checkout/service-checkout.module.code.ts"
 import { RESTART_EXIT } from "akasha/infrastructure/services/workstations/unit-writing/unit-writing.module.code.ts"
 
 const WORKTREES = "worktrees"

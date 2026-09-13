@@ -1,6 +1,6 @@
 import { PageLayout } from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
 import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
-import { Separator } from "akasha/design/interfaces/primitives/separator/separator.module.code.tsx"
+import { Separator } from "akasha/design/interfaces/primitives/modules/separator/separator.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
 import { ResourceList } from "akasha/products/audhdalan/web/modules/resource-list/resource-list.module.code.tsx"
 import { SubscribeForm } from "akasha/products/audhdalan/web/subscribe-form/subscribe-form.module.code.tsx"

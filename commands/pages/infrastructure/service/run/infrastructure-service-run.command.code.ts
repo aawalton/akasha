@@ -11,7 +11,7 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { allowedThrough } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
 import { infrastructureServiceRun as page } from "akasha/commands/pages/infrastructure/service/run/infrastructure-service-run.command.ts"
-import { reachedFor } from "akasha/infrastructure/services/workstations/service-running/service-running.module.code.ts"
+import { reachedFor } from "akasha/infrastructure/services/workstations/modules/service-running/service-running.module.code.ts"
 
 export type Running = (done: string[]) => void | Promise<void>
 

@@ -10,7 +10,7 @@ import { mundus } from "akasha/temper/character-sources/modules/mundus-source/mu
 import { vampireStages } from "akasha/temper/character-sources/vampire-stages/vampire-stages.module.code.ts"
 import { armorEnchants } from "akasha/temper/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"
 import { jewelryEnchants } from "akasha/temper/characters-equipment/modules/jewelry-enchants/jewelry-enchants.module.code.ts"
-import { setsAll } from "akasha/temper/characters-equipment/sets-all/sets-all.module.code.ts"
+import { setsAll } from "akasha/temper/characters-equipment/modules/sets-all/sets-all.module.code.ts"
 import { weaponEnchantments } from "akasha/temper/characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
 import { classes } from "akasha/temper/classes/modules/character-class/character-class.module.code.ts"

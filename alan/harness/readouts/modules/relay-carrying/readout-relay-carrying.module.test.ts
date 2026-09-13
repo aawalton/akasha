@@ -43,11 +43,11 @@ const composing = await import(
 )
 
 const checkout = await import(
-  "akasha/infrastructure/services/workstations/service-checkout/service-checkout.module.code.ts"
+  "akasha/infrastructure/services/workstations/modules/service-checkout/service-checkout.module.code.ts"
 )
 
 mock.module(
-  "akasha/infrastructure/services/workstations/service-checkout/service-checkout.module.code.ts",
+  "akasha/infrastructure/services/workstations/modules/service-checkout/service-checkout.module.code.ts",
   () => ({
     ...checkout,
     checkoutAt: () => {

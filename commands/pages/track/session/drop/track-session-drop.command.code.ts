@@ -8,17 +8,17 @@ import { mend } from "akasha/commands/arguments/pages/mend.argument.ts"
 import { open } from "akasha/commands/arguments/pages/open.argument.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import {
+  addressed,
+  faultsIn,
+  shownOf,
+} from "akasha/commands/pages/track/modules/session-rows/session-rows.module.code.ts"
 import { trackSessionDrop as page } from "akasha/commands/pages/track/session/drop/track-session-drop.command.ts"
 import {
   landed,
   standingFor,
   telling,
-} from "akasha/commands/pages/track/session/session-acting/session-acting.module.code.ts"
-import {
-  addressed,
-  faultsIn,
-  shownOf,
-} from "akasha/commands/pages/track/session-rows/session-rows.module.code.ts"
+} from "akasha/commands/pages/track/session/modules/session-acting/session-acting.module.code.ts"
 
 const NAMED = [dryRun, day, at, id, open, last, mend]
 

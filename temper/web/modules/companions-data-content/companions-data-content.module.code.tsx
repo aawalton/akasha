@@ -22,7 +22,7 @@ import { CompanionsBuildBrowseTab } from "akasha/temper/web/modules/companions-b
 import type { FilterValues } from "akasha/temper/web/modules/companions-filter-types/companions-filter-types.module.code.ts"
 import { CompanionsLeaderboardTab } from "akasha/temper/web/modules/companions-leaderboard-tab/companions-leaderboard-tab.module.code.tsx"
 import { CompanionsPlanTab } from "akasha/temper/web/modules/companions-plan-tab/companions-plan-tab.module.code.tsx"
-import { SetTargetConfirmDialog } from "akasha/temper/web/set-target-confirm-dialog/set-target-confirm-dialog.module.code.tsx"
+import { SetTargetConfirmDialog } from "akasha/temper/web/modules/set-target-confirm-dialog/set-target-confirm-dialog.module.code.tsx"
 import { usePlanEntities } from "akasha/temper/web/use-companion-plan-entities/use-companion-plan-entities.module.code.ts"
 import { useFilteredBuilds } from "akasha/temper/web/use-filtered-builds/use-filtered-builds.module.code.ts"
 import { usePlanSetTarget } from "akasha/temper/web/use-plan-set-target/use-plan-set-target.module.code.ts"

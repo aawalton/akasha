@@ -10,7 +10,7 @@ import { generatePotionMappings } from "akasha/temper/addon-data/modules/potion-
 import { generateRaceMappings } from "akasha/temper/addon-data/modules/race-mappings/race-mappings.module.code.ts"
 import { generatePlayerEquipmentMappings } from "akasha/temper/addon-data/modules/render-equipment-mappings/render-equipment-mappings.module.code.ts"
 import { generateScribingMappings } from "akasha/temper/addon-data/modules/scribing-mappings/scribing-mappings.module.code.ts"
-import { generateSetMappings } from "akasha/temper/addon-data/set-mappings/set-mappings.module.code.ts"
+import { generateSetMappings } from "akasha/temper/addon-data/modules/set-mappings/set-mappings.module.code.ts"
 
 export type MappingRender = {
   readonly rendered: string

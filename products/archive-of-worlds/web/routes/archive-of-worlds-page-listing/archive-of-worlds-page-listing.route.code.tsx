@@ -1,4 +1,4 @@
-import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
+import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
 import { getPageTypeByPluralSlug } from "akasha/pages/access/modules/page-type/page-type.module.code.ts"
 import { PagesFilteredContent } from "akasha/pages/ui/components/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
 import { toPageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"

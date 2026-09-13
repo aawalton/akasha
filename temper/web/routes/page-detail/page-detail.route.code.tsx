@@ -1,5 +1,5 @@
 import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
-import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
+import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
 import { getPageByIdSuffix, getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
 import { PageDetailContent } from "akasha/pages/ui/components/modules/page-detail-content/page-detail-content.module.code.tsx"
 import { ViewPageContent } from "akasha/pages/ui/components/view-page-content/view-page-content.module.code.tsx"
@@ -21,7 +21,7 @@ import { toBuildVisibility } from "akasha/temper/build-support/modules/build-vis
 import { createEmptyCharacter } from "akasha/temper/character-build/modules/build-factory/build-factory.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import { skills } from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
-import { setsAll } from "akasha/temper/characters-equipment/sets-all/sets-all.module.code.ts"
+import { setsAll } from "akasha/temper/characters-equipment/modules/sets-all/sets-all.module.code.ts"
 import {
   decodeCompanion,
   encodeCompanion,

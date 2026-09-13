@@ -9,7 +9,7 @@ import {
 } from "akasha/design/interfaces/primitives/modules/popover/popover.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
 import { LOCATION_OPTIONS } from "akasha/temper/items-rules-core/modules/location-filter/location-filter.module.code.ts"
-import { SET_SOURCE_TYPE_OPTIONS } from "akasha/temper/items-rules-core/set-sources-filter/set-sources-filter.module.code.ts"
+import { SET_SOURCE_TYPE_OPTIONS } from "akasha/temper/items-rules-core/modules/set-sources-filter/set-sources-filter.module.code.ts"
 import type { RuleCardState } from "akasha/temper/player-inventory-management-ui/modules/rule-card-filter-chips-item-filter-id/rule-card-filter-chips-item-filter-id.module.code.ts"
 import type { ReactNode } from "react"
 

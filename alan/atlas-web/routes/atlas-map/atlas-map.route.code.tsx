@@ -1,6 +1,6 @@
 import { LocationMap } from "akasha/alan/atlas-web/modules/location-map/location-map.module.code.tsx"
 import { toPins } from "akasha/alan/atlas-web/modules/pins/pins.module.code.ts"
-import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
+import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
 import {
   PageLayout,
   PageTitle,

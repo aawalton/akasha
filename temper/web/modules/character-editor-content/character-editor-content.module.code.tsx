@@ -28,8 +28,8 @@ import { ClassChangeConfirmationDialog } from "akasha/temper/web/modules/class-c
 import { EDITOR_TAB_LABELS } from "akasha/temper/web/modules/editor-tab-labels/editor-tab-labels.module.code.ts"
 import { EditorTabPanels } from "akasha/temper/web/modules/editor-tab-panels/editor-tab-panels.module.code.tsx"
 import { GlobalSetBulkEditTags } from "akasha/temper/web/modules/global-set-bulk-edit-tags/global-set-bulk-edit-tags.module.code.tsx"
-import { SetTargetConfirmDialog } from "akasha/temper/web/set-target-confirm-dialog/set-target-confirm-dialog.module.code.tsx"
-import { SetTargetDialog } from "akasha/temper/web/set-target-dialog/set-target-dialog.module.code.tsx"
+import { SetTargetConfirmDialog } from "akasha/temper/web/modules/set-target-confirm-dialog/set-target-confirm-dialog.module.code.tsx"
+import { SetTargetDialog } from "akasha/temper/web/modules/set-target-dialog/set-target-dialog.module.code.tsx"
 import { StatsPanel } from "akasha/temper/web/stats-panel/stats-panel.module.code.tsx"
 import { UnderConstructionDialog } from "akasha/temper/web/under-construction-dialog/under-construction-dialog.module.code.tsx"
 import {

@@ -26,7 +26,7 @@ import {
   armorTraits as armorTraitsData,
 } from "akasha/temper/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import type { StandardArmorWeightId } from "akasha/temper/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/equipment/modules/set-ids/set-ids.module.code.ts"
 import {
   type ArmorSlotId,
   armorSlots,

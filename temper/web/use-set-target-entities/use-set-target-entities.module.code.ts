@@ -21,7 +21,7 @@ import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/c
 import { useCompletionCharacters } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
 import { races } from "akasha/temper/races/modules/races/races.module.code.ts"
-import type { SetTargetEntity } from "akasha/temper/web/set-target-dialog/set-target-dialog.module.code.tsx"
+import type { SetTargetEntity } from "akasha/temper/web/modules/set-target-dialog/set-target-dialog.module.code.tsx"
 import { useMemo, useState, useTransition } from "react"
 
 interface UseSetTargetEntitiesParams {

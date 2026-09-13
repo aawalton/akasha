@@ -32,7 +32,7 @@ import {
   buildQueryScript,
   parseActualState,
 } from "akasha/infrastructure/inference/pool/modules/provision-script/provision-script.module.code.ts"
-import { foldServiceManifest } from "akasha/infrastructure/inference/pool/service-hash/service-hash.module.code.ts"
+import { foldServiceManifest } from "akasha/infrastructure/inference/pool/modules/service-hash/service-hash.module.code.ts"
 import {
   everyInference,
   type Inference,

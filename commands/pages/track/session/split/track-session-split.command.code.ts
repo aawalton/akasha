@@ -13,18 +13,6 @@ import { title } from "akasha/commands/arguments/pages/title.argument.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import {
-  landed,
-  standingFor,
-  taggingFor,
-  telling,
-} from "akasha/commands/pages/track/session/session-acting/session-acting.module.code.ts"
-import {
-  carriedIn,
-  taggedFor,
-  taggingOf,
-} from "akasha/commands/pages/track/session/session-relationships/session-relationships.module.code.ts"
-import { trackSessionSplit as page } from "akasha/commands/pages/track/session/split/track-session-split.command.ts"
-import {
   addressed,
   anchoredIn,
   faultsIn,
@@ -32,7 +20,19 @@ import {
   mintedAt,
   type Row,
   shownOf,
-} from "akasha/commands/pages/track/session-rows/session-rows.module.code.ts"
+} from "akasha/commands/pages/track/modules/session-rows/session-rows.module.code.ts"
+import {
+  landed,
+  standingFor,
+  taggingFor,
+  telling,
+} from "akasha/commands/pages/track/session/modules/session-acting/session-acting.module.code.ts"
+import {
+  carriedIn,
+  taggedFor,
+  taggingOf,
+} from "akasha/commands/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"
+import { trackSessionSplit as page } from "akasha/commands/pages/track/session/split/track-session-split.command.ts"
 
 const NAMED = [dryRun, day, at, id, open, last, title, safety, difficulty, relationship]
 

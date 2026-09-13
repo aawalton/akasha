@@ -69,8 +69,8 @@ import {
   appliedWorkload,
   servableNamed,
 } from "akasha/infrastructure/services/clusters/workload-applying/workload-applying.module.code.ts"
-import { putUpEvery } from "akasha/infrastructure/services/workstations/service-putting-up/service-putting-up.module.code.ts"
-import { provingFor } from "akasha/infrastructure/services/workstations/service-running/service-running.module.code.ts"
+import { putUpEvery } from "akasha/infrastructure/services/workstations/modules/service-putting-up/service-putting-up.module.code.ts"
+import { provingFor } from "akasha/infrastructure/services/workstations/modules/service-running/service-running.module.code.ts"
 
 const PUT_UP = "deploy"
 const TAKES = [dryRun, deploySubject, noUpload, ref, measured, simulator, device]

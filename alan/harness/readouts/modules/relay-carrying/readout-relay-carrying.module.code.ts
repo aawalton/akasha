@@ -5,7 +5,7 @@ import {
   statedIn,
 } from "akasha/alan/harness/readouts/modules/relay/readout-relay.module.code.ts"
 import { pathOf } from "akasha/infrastructure/services/workstations/modules/run-composing/run-composing.module.code.ts"
-import { checkoutAt } from "akasha/infrastructure/services/workstations/service-checkout/service-checkout.module.code.ts"
+import { checkoutAt } from "akasha/infrastructure/services/workstations/modules/service-checkout/service-checkout.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 export type Carry = {

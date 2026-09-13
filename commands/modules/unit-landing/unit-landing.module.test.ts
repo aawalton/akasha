@@ -26,7 +26,7 @@ import {
 import {
   type Ran,
   stagingDir,
-} from "akasha/infrastructure/services/workstations/service-installing/service-installing.module.code.ts"
+} from "akasha/infrastructure/services/workstations/modules/service-installing/service-installing.module.code.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 afterAll(sweep)

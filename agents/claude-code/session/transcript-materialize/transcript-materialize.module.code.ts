@@ -1,5 +1,5 @@
 import { existsSync, mkdirSync, readFileSync, statSync, writeFileSync } from "node:fs"
-import { sanitizeTranscriptForResume } from "akasha/agents/claude-code/session/jsonl/session-jsonl.module.code.ts"
+import { sanitizeTranscriptForResume } from "akasha/agents/claude-code/session/modules/jsonl/session-jsonl.module.code.ts"
 import {
   getDefaultObjectStore,
   readSessionObject,

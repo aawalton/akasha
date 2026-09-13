@@ -3,11 +3,11 @@ import { expect, mock, test } from "bun:test"
 const RAN: string[] = []
 
 const watching = await import(
-  "akasha/infrastructure/services/workstations/service-watching/service-watching.module.code.ts"
+  "akasha/infrastructure/services/workstations/modules/service-watching/service-watching.module.code.ts"
 )
 
 mock.module(
-  "akasha/infrastructure/services/workstations/service-watching/service-watching.module.code.ts",
+  "akasha/infrastructure/services/workstations/modules/service-watching/service-watching.module.code.ts",
   () => ({
     ...watching,
     runServiceWatching: () => {
@@ -40,7 +40,7 @@ test("a round that could not read the services is carried out rather than swallo
   RAN.length = 0
   const why = new Error("service-watching: the services could not be read, so nothing is judged")
   mock.module(
-    "akasha/infrastructure/services/workstations/service-watching/service-watching.module.code.ts",
+    "akasha/infrastructure/services/workstations/modules/service-watching/service-watching.module.code.ts",
     () => ({ ...watching, runServiceWatching: () => Promise.reject(why) })
   )
   await expect(running.runService()).rejects.toThrow("could not be read")

@@ -3,7 +3,7 @@ import type {
   WeaponSlot,
   WeaponSlotItem,
 } from "akasha/temper/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
-import type { SetId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
+import type { SetId } from "akasha/temper/equipment/modules/set-ids/set-ids.module.code.ts"
 import { keysOf } from "akasha/temper/formula-framework/modules/record-parts/record-parts.module.code.ts"
 
 export function clearIncompatibleSets(

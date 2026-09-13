@@ -3,7 +3,7 @@ import { dryRun } from "akasha/commands/arguments/pages/dry-run.argument.ts"
 import { workstationService } from "akasha/commands/arguments/pages/workstation-service.argument.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { asked } from "akasha/commands/pages/infrastructure/service/service-unit-asking/service-unit-asking.module.code.ts"
+import { asked } from "akasha/commands/pages/infrastructure/service/modules/service-unit-asking/service-unit-asking.module.code.ts"
 import { infrastructureServiceStart as page } from "akasha/commands/pages/infrastructure/service/start/infrastructure-service-start.command.ts"
 
 const STARTS = "start"

@@ -9,15 +9,15 @@ import {
   systemctl,
   textFor,
   writeUnit,
-} from "akasha/infrastructure/services/workstations/service-installing/service-installing.module.code.ts"
+} from "akasha/infrastructure/services/workstations/modules/service-installing/service-installing.module.code.ts"
 import {
   everyService,
   SERVICE_PAGE_TYPE,
-} from "akasha/infrastructure/services/workstations/service-reading/service-reading.module.code.ts"
+} from "akasha/infrastructure/services/workstations/modules/service-reading/service-reading.module.code.ts"
 import {
   asked,
   type Running,
-} from "akasha/infrastructure/services/workstations/service-restarting/service-restarting.module.code.ts"
+} from "akasha/infrastructure/services/workstations/modules/service-restarting/service-restarting.module.code.ts"
 import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 
 const A_UNIT = "unit"

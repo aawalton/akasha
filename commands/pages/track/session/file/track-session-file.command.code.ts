@@ -7,29 +7,29 @@ import { fromFile } from "akasha/commands/arguments/pages/from-file.argument.ts"
 import { relationship } from "akasha/commands/arguments/pages/relationship.argument.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { trackSessionFile as page } from "akasha/commands/pages/track/session/file/track-session-file.command.ts"
-import {
-  landed,
-  standingFor,
-  taggingFor,
-  telling,
-} from "akasha/commands/pages/track/session/session-acting/session-acting.module.code.ts"
-import {
-  taggedFor,
-  taggingOf,
-} from "akasha/commands/pages/track/session/session-relationships/session-relationships.module.code.ts"
 import {
   difficultyForTitle,
   readDifficulty,
   readSafety,
-} from "akasha/commands/pages/track/session-leveling/session-leveling.module.code.ts"
+} from "akasha/commands/pages/track/modules/session-leveling/session-leveling.module.code.ts"
 import {
   anchoredIn,
   faultsIn,
   mintedAt,
   type Row,
   shownOf,
-} from "akasha/commands/pages/track/session-rows/session-rows.module.code.ts"
+} from "akasha/commands/pages/track/modules/session-rows/session-rows.module.code.ts"
+import { trackSessionFile as page } from "akasha/commands/pages/track/session/file/track-session-file.command.ts"
+import {
+  landed,
+  standingFor,
+  taggingFor,
+  telling,
+} from "akasha/commands/pages/track/session/modules/session-acting/session-acting.module.code.ts"
+import {
+  taggedFor,
+  taggingOf,
+} from "akasha/commands/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"
 
 const LINE = /^(\S+)\s+(.+?)(?:\s+s(-?[\d.]+)d([\d.]+))?$/
 

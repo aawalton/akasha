@@ -1,6 +1,6 @@
 import { isEffectivelyAuthenticated } from "akasha/alan/harness/supabase-rr/modules/effective-auth/effective-auth.module.code.ts"
-import { hasSessionCookie } from "akasha/alan/harness/supabase-rr/session-cookie/session-cookie.module.code.ts"
-import { refreshSession } from "akasha/alan/harness/supabase-rr/session-refresh/session-refresh.module.code.ts"
+import { hasSessionCookie } from "akasha/alan/harness/supabase-rr/modules/session-cookie/session-cookie.module.code.ts"
+import { refreshSession } from "akasha/alan/harness/supabase-rr/modules/session-refresh/session-refresh.module.code.ts"
 import { safeInternalPath } from "akasha/pages/url/modules/safe-target/safe-target.module.code.ts"
 import { redirect } from "react-router"
 

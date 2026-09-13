@@ -1,6 +1,6 @@
 import { ESO_ADDON } from "akasha/commands/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
 import { ticked } from "akasha/infrastructure/services/modules/deploy-looping/deploy-looping.module.code.ts"
-import { checkoutAt } from "akasha/infrastructure/services/workstations/service-checkout/service-checkout.module.code.ts"
+import { checkoutAt } from "akasha/infrastructure/services/workstations/modules/service-checkout/service-checkout.module.code.ts"
 
 export function runService(): undefined {
   const done = ticked(checkoutAt(), ESO_ADDON)

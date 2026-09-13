@@ -2,7 +2,7 @@ import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/pag
 import { detailConfigSchema } from "akasha/pages/core/schema/modules/detail-config/detail-config.module.code.ts"
 import { listingConfigSchema } from "akasha/pages/core/schema/modules/listing-config/listing-config.module.code.ts"
 import { mediaConfigSchema } from "akasha/pages/core/schema/modules/media-config/media-config.module.code.ts"
-import { sequenceConfigSchema } from "akasha/pages/core/schema/sequence-config/sequence-config.module.code.ts"
+import { sequenceConfigSchema } from "akasha/pages/core/schema/modules/sequence-config/sequence-config.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 import * as z from "zod"
 

@@ -6,7 +6,7 @@ import type {
 import {
   narrowSendUpdates,
   SEND_UPDATES,
-} from "akasha/alan/google/calendar/send-updates-narrowing/send-updates-narrowing.module.code.ts"
+} from "akasha/alan/google/calendar/modules/send-updates-narrowing/send-updates-narrowing.module.code.ts"
 import {
   answering,
   asIndentedJson,

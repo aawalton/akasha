@@ -1,5 +1,5 @@
 import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
-import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
+import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
 import { createPage } from "akasha/pages/access/modules/create/create.module.code.ts"
 import { getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
 import { patchPage } from "akasha/pages/access/modules/patch/patch.module.code.ts"

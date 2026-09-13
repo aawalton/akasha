@@ -29,7 +29,7 @@ import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityVariant,
 } from "akasha/temper/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/equipment/modules/set-ids/set-ids.module.code.ts"
 import {
   type WeaponTraitId,
   weaponTraitsBuildList,

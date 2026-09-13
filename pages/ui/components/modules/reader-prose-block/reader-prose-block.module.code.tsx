@@ -17,7 +17,7 @@ import type {
   BlockSentenceLayout,
   SentenceRun,
 } from "akasha/pages/ui/components/modules/reader-sentence-layout/reader-sentence-layout.module.code.ts"
-import { useSentenceNarration } from "akasha/pages/ui/media/sentence-narration-context/sentence-narration-context.module.code.tsx"
+import { useSentenceNarration } from "akasha/pages/ui/media/modules/sentence-narration-context/sentence-narration-context.module.code.tsx"
 import { Fragment } from "react"
 
 const SENTENCE_SPAN_CLASS =

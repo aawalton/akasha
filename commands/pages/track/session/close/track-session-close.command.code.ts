@@ -4,19 +4,19 @@ import { day } from "akasha/commands/arguments/pages/day.argument.ts"
 import { dryRun } from "akasha/commands/arguments/pages/dry-run.argument.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import {
+  faultsIn,
+  instantIn,
+  sayingFor,
+  shownOf,
+} from "akasha/commands/pages/track/modules/session-rows/session-rows.module.code.ts"
 import { trackSessionClose as page } from "akasha/commands/pages/track/session/close/track-session-close.command.ts"
 import {
   endingIn,
   landed,
   standingFor,
   telling,
-} from "akasha/commands/pages/track/session/session-acting/session-acting.module.code.ts"
-import {
-  faultsIn,
-  instantIn,
-  sayingFor,
-  shownOf,
-} from "akasha/commands/pages/track/session-rows/session-rows.module.code.ts"
+} from "akasha/commands/pages/track/session/modules/session-acting/session-acting.module.code.ts"
 
 const NAMED = [dryRun, day, at]
 

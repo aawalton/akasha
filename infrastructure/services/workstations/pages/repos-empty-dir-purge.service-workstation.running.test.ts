@@ -1,5 +1,5 @@
 import { expect, mock, test } from "bun:test"
-import { checkoutAt } from "akasha/infrastructure/services/workstations/service-checkout/service-checkout.module.code.ts"
+import { checkoutAt } from "akasha/infrastructure/services/workstations/modules/service-checkout/service-checkout.module.code.ts"
 
 const HANDED: string[][] = []
 

@@ -1,4 +1,4 @@
-import { SETS_DATA_000 } from "akasha/temper/characters-equipment/sets-data-000/sets-data-000.module.code.ts"
+import { SETS_DATA_000 } from "akasha/temper/characters-equipment/modules/sets-data-000/sets-data-000.module.code.ts"
 import { SETS_DATA_001 } from "akasha/temper/characters-equipment/sets-data-001/sets-data-001.module.code.ts"
 import { SETS_DATA_002 } from "akasha/temper/characters-equipment/sets-data-002/sets-data-002.module.code.ts"
 import { SETS_DATA_003 } from "akasha/temper/characters-equipment/sets-data-003/sets-data-003.module.code.ts"
@@ -60,7 +60,7 @@ import { SETS_DATA_058 } from "akasha/temper/characters-equipment/sets-data-058/
 import { SETS_DATA_059 } from "akasha/temper/characters-equipment/sets-data-059/sets-data-059.module.code.ts"
 import { SETS_DATA_060 } from "akasha/temper/characters-equipment/sets-data-060/sets-data-060.module.code.ts"
 import { SETS_DATA_061 } from "akasha/temper/characters-equipment/sets-data-061/sets-data-061.module.code.ts"
-import type { SetTemplate } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
+import type { SetTemplate } from "akasha/temper/equipment/modules/set-template/set-template.module.code.ts"
 
 export const SETS_ROWS_FIRST: readonly SetTemplate[] = [
   ...SETS_DATA_000,

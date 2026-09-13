@@ -8,7 +8,7 @@ import {
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { dayNow } from "akasha/commands/pages/track/session-rows/session-rows.module.code.ts"
+import { dayNow } from "akasha/commands/pages/track/modules/session-rows/session-rows.module.code.ts"
 import { trackWeight as page } from "akasha/commands/pages/track/weight/track-weight.command.ts"
 
 export function poundsIn(said: string): number | string {

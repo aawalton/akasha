@@ -25,7 +25,7 @@ import {
   getValidSetsForSlot,
   getValidTypesForSet,
   isShieldValidForSet,
-} from "akasha/temper/characters-equipment/set-pattern-matcher/set-pattern-matcher.module.code.ts"
+} from "akasha/temper/characters-equipment/modules/set-pattern-matcher/set-pattern-matcher.module.code.ts"
 import {
   type WeaponEnchantmentId,
   weaponEnchantments,
@@ -43,8 +43,8 @@ import {
   armorTraits,
   armorTraitsBuildList,
 } from "akasha/temper/equipment/modules/armor-traits/armor-traits.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
-import type { SetTemplate as SetsAll } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/equipment/modules/set-ids/set-ids.module.code.ts"
+import type { SetTemplate as SetsAll } from "akasha/temper/equipment/modules/set-template/set-template.module.code.ts"
 import {
   type WeaponTraitId,
   weaponTraits,
@@ -61,7 +61,7 @@ import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/c
 import {
   getSetById,
   SetSelectDialog,
-} from "akasha/temper/web/set-select-dialog/set-select-dialog.module.code.tsx"
+} from "akasha/temper/web/modules/set-select-dialog/set-select-dialog.module.code.tsx"
 import { useMemo, useState } from "react"
 
 interface WeaponCardProps {

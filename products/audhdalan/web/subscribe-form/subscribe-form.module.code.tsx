@@ -1,7 +1,7 @@
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
 import { Input } from "akasha/design/interfaces/primitives/modules/input/input.module.code.tsx"
-import { Separator } from "akasha/design/interfaces/primitives/separator/separator.module.code.tsx"
+import { Separator } from "akasha/design/interfaces/primitives/modules/separator/separator.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
 import { useId, useState } from "react"
 import { z } from "zod"

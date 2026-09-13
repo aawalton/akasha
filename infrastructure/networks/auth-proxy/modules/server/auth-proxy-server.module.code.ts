@@ -11,7 +11,7 @@ import {
   buildStubResponse,
   fetchOrBadGateway,
 } from "akasha/infrastructure/networks/auth-proxy/modules/proxy-core/proxy-core.module.code.ts"
-import { validateSession } from "akasha/infrastructure/networks/auth-proxy/session-identity/session-identity.module.code.ts"
+import { validateSession } from "akasha/infrastructure/networks/auth-proxy/modules/session-identity/session-identity.module.code.ts"
 import {
   buildTargetUrl,
   closeOutbound,

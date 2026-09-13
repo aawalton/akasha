@@ -17,7 +17,7 @@ import {
 import {
   MEDIA_VARIANT_PATTERN,
   mediaPageExists,
-} from "akasha/pages/ui/media/serve-media/serve-media.module.code.ts"
+} from "akasha/pages/ui/media/modules/serve-media/serve-media.module.code.ts"
 
 const SEGMENT_PATTERN = /^seg[0-9]{5}\.mp3$/
 

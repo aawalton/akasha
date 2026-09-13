@@ -41,7 +41,7 @@ import type { MediaVariant } from "akasha/pages/ui/media/modules/page-media-play
 import {
   SentenceNarrationProvider,
   type SentenceNarrationValue,
-} from "akasha/pages/ui/media/sentence-narration-context/sentence-narration-context.module.code.tsx"
+} from "akasha/pages/ui/media/modules/sentence-narration-context/sentence-narration-context.module.code.tsx"
 import type { PageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { type ReactNode, useCallback, useMemo, useRef } from "react"
 

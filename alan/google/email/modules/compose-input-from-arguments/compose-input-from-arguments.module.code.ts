@@ -1,6 +1,6 @@
 import type { ComposeInput } from "akasha/alan/google/email/modules/email-shapes/email-shapes.module.code.ts"
 import { loadAttachmentFile } from "akasha/alan/google/email/modules/gmail-attachments/gmail-attachments.module.code.ts"
-import { parseSender } from "akasha/alan/harness/email-inbound/sender/sender.module.code.ts"
+import { parseSender } from "akasha/alan/harness/email-inbound/modules/sender/sender.module.code.ts"
 
 interface NamedSender {
   readonly name: string

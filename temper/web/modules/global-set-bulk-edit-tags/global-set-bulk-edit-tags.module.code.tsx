@@ -22,8 +22,8 @@ import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityVariant,
 } from "akasha/temper/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
-import type { SetTemplate as SetsAll } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/equipment/modules/set-ids/set-ids.module.code.ts"
+import type { SetTemplate as SetsAll } from "akasha/temper/equipment/modules/set-template/set-template.module.code.ts"
 import { armorSlots } from "akasha/temper/equipment-kinds/modules/armor-slots/armor-slots.module.code.ts"
 import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import { jewelrySlots } from "akasha/temper/equipment-kinds/modules/jewelry-slots/jewelry-slots.module.code.ts"

@@ -2,12 +2,12 @@ import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argu
 import { day } from "akasha/commands/arguments/pages/day.argument.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { faultsIn } from "akasha/commands/pages/track/modules/session-rows/session-rows.module.code.ts"
 import { trackSessionCheck as page } from "akasha/commands/pages/track/session/check/track-session-check.command.ts"
 import {
   standingFor,
   telling,
-} from "akasha/commands/pages/track/session/session-acting/session-acting.module.code.ts"
-import { faultsIn } from "akasha/commands/pages/track/session-rows/session-rows.module.code.ts"
+} from "akasha/commands/pages/track/session/modules/session-acting/session-acting.module.code.ts"
 
 const NAMED = [day]
 

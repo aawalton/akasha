@@ -7,7 +7,7 @@ import {
 import {
   createBearerScopedClient,
   createServerClient,
-} from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
+} from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
 
 export type AuthenticatedRequestContext = {
   authenticated: true

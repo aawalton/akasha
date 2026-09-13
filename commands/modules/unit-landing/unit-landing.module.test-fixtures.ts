@@ -5,7 +5,7 @@ import {
   type Ran,
   stagingDir,
   systemdDir,
-} from "akasha/infrastructure/services/workstations/service-installing/service-installing.module.code.ts"
+} from "akasha/infrastructure/services/workstations/modules/service-installing/service-installing.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

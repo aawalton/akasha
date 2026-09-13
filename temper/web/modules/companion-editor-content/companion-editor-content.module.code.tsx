@@ -35,7 +35,7 @@ import { CompanionSkillsPanel } from "akasha/temper/web/modules/companion-skills
 import { CompanionStatsPanel } from "akasha/temper/web/modules/companion-stats-panel/companion-stats-panel.module.code.tsx"
 import { CompanionTargetPanelCard } from "akasha/temper/web/modules/companion-target-panel-card/companion-target-panel-card.module.code.tsx"
 import { GlobalCompanionBulkEditTags } from "akasha/temper/web/modules/global-companion-bulk-edit-tags/global-companion-bulk-edit-tags.module.code.tsx"
-import { SetTargetConfirmDialog } from "akasha/temper/web/set-target-confirm-dialog/set-target-confirm-dialog.module.code.tsx"
+import { SetTargetConfirmDialog } from "akasha/temper/web/modules/set-target-confirm-dialog/set-target-confirm-dialog.module.code.tsx"
 import { UnderConstructionDialog } from "akasha/temper/web/under-construction-dialog/under-construction-dialog.module.code.tsx"
 import {
   useCompanion,

@@ -3,7 +3,7 @@ import {
   validateSkillLinesForClass,
 } from "akasha/temper/character-skills/skill-line-queries/skill-line-queries.module.code.ts"
 import { clearIncompatibleSets } from "akasha/temper/characters-equipment/modules/clear-incompatible-sets/clear-incompatible-sets.module.code.ts"
-import { getSetIdsClassCannotEquip } from "akasha/temper/characters-equipment/set-class-restrictions/set-class-restrictions.module.code.ts"
+import { getSetIdsClassCannotEquip } from "akasha/temper/characters-equipment/modules/set-class-restrictions/set-class-restrictions.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 import {
   useCharacter,

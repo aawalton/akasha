@@ -5,7 +5,7 @@ import {
 import {
   parseSequenceConfig,
   type SequenceConfig,
-} from "akasha/pages/core/schema/sequence-config/sequence-config.module.code.ts"
+} from "akasha/pages/core/schema/modules/sequence-config/sequence-config.module.code.ts"
 import { slugsIn } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import type {
   Asked,

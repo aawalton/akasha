@@ -1,7 +1,7 @@
 import {
   createServiceRoleClient,
   type SupabaseServiceRoleClient,
-} from "akasha/alan/harness/supabase-server/service-role/service-role.module.code.ts"
+} from "akasha/alan/harness/supabase-server/modules/service-role/service-role.module.code.ts"
 
 let client: SupabaseServiceRoleClient | null = null
 

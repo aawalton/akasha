@@ -5,7 +5,7 @@ import {
   timeBucket,
 } from "akasha/alan/atlas-web/modules/pin-time-color/pin-time-color.module.code.ts"
 import { type LocationPin, toPins } from "akasha/alan/atlas-web/modules/pins/pins.module.code.ts"
-import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
+import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
 import {
   PageLayout,
   PageTitle,

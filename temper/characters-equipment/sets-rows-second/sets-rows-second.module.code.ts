@@ -60,7 +60,7 @@ import { SETS_DATA_120 } from "akasha/temper/characters-equipment/sets-data-120/
 import { SETS_DATA_121 } from "akasha/temper/characters-equipment/sets-data-121/sets-data-121.module.code.ts"
 import { SETS_DATA_122 } from "akasha/temper/characters-equipment/sets-data-122/sets-data-122.module.code.ts"
 import { SETS_DATA_123 } from "akasha/temper/characters-equipment/sets-data-123/sets-data-123.module.code.ts"
-import type { SetTemplate } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
+import type { SetTemplate } from "akasha/temper/equipment/modules/set-template/set-template.module.code.ts"
 
 export const SETS_ROWS_SECOND: readonly SetTemplate[] = [
   ...SETS_DATA_062,

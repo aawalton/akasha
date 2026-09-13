@@ -15,7 +15,7 @@ import {
 import {
   htmlCacheControl,
   serveClientStatic,
-} from "akasha/alan/harness/web-static-assets/serve-static/serve-static.module.code.ts"
+} from "akasha/alan/harness/web-static-assets/modules/serve-static/serve-static.module.code.ts"
 import { randomId } from "akasha/pages/ids/modules/random-id/random-id.module.code.ts"
 import type { ServerBuild } from "react-router"
 import { createRequestHandler } from "react-router"

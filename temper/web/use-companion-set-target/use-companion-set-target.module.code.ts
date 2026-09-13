@@ -19,7 +19,7 @@ import {
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { useCompletionCompanions } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
-import type { SetTargetEntity } from "akasha/temper/web/set-target-dialog/set-target-dialog.module.code.tsx"
+import type { SetTargetEntity } from "akasha/temper/web/modules/set-target-dialog/set-target-dialog.module.code.tsx"
 import { useMemo, useState, useTransition } from "react"
 
 interface UseCompanionSetTargetArgs {

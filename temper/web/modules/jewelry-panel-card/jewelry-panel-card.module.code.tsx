@@ -23,7 +23,7 @@ import {
   jewelryTraits,
   jewelryTraitsBuildList,
 } from "akasha/temper/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/equipment/modules/set-ids/set-ids.module.code.ts"
 import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import {
   type JewelrySlotId,

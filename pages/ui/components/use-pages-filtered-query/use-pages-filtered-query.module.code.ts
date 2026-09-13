@@ -1,6 +1,6 @@
 "use client"
 
-import { NEVER_MATCH_VALUE } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
+import { NEVER_MATCH_VALUE } from "akasha/pages/access/modules/sentinels/sentinels.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { resolveDefinitionOptions } from "akasha/pages/core/schema/modules/resolve-select-options/resolve-select-options.module.code.ts"
