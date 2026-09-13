@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0164Chapter837TheBoysRemainUndefeated = {
   ownLength: 2471,
   unit: "words",
   publishedAt: "2026-06-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3609561/chapter-837-the-boys-remain-undefeated",
-  externalId: "3609561",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3609561",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3609561/chapter-837-the-boys-remain-undefeated",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

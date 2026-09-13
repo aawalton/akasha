@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0011011AmalgamatedHorror
   ownLength: 2102,
   unit: "words",
   publishedAt: "2024-04-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1585676/011-amalgamated-horror",
-  externalId: "1585676",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1585676",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1585676/011-amalgamated-horror",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

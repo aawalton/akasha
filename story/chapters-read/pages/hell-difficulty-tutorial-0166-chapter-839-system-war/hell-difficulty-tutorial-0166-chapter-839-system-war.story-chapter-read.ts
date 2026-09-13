@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0166Chapter839SystemWar = {
   ownLength: 2796,
   unit: "words",
   publishedAt: "2026-07-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3682400/chapter-839-system-war",
-  externalId: "3682400",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3682400",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3682400/chapter-839-system-war",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

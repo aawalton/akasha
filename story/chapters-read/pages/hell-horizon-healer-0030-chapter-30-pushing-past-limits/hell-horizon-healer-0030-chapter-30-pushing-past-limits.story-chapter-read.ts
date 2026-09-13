@@ -10,9 +10,13 @@ export const hellHorizonHealer0030Chapter30PushingPastLimits = {
   ownLength: 1118,
   unit: "words",
   publishedAt: "2026-07-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3628132/chapter-30-pushing-past-limits",
-  externalId: "3628132",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3628132",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3628132/chapter-30-pushing-past-limits",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

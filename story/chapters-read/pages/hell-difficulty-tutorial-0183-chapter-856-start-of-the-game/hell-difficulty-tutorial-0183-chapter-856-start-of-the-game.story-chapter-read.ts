@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0183Chapter856StartOfTheGame = {
   ownLength: 2397,
   unit: "words",
   publishedAt: "2026-08-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3792764/chapter-856-start-of-the-game",
-  externalId: "3792764",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3792764",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3792764/chapter-856-start-of-the-game",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

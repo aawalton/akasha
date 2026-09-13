@@ -10,9 +10,13 @@ export const hellHorizonHealer0031Chapter31Hiding = {
   ownLength: 1845,
   unit: "words",
   publishedAt: "2026-07-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3711959/chapter-31-hiding",
-  externalId: "3711959",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3711959",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3711959/chapter-31-hiding",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

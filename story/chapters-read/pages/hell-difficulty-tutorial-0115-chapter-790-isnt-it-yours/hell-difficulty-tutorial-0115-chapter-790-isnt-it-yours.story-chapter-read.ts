@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0115Chapter790IsntItYours = {
   ownLength: 2960,
   unit: "words",
   publishedAt: "2026-04-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3253585/chapter-790-isnt-it-yours",
-  externalId: "3253585",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3253585",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3253585/chapter-790-isnt-it-yours",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0035035QuickThinking = {
   ownLength: 2186,
   unit: "words",
   publishedAt: "2024-05-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1625359/035-quick-thinking",
-  externalId: "1625359",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1625359",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1625359/035-quick-thinking",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

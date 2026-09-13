@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0116Chapter791Internships = {
   ownLength: 2530,
   unit: "words",
   publishedAt: "2026-04-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3265518/chapter-791-internships",
-  externalId: "3265518",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3265518",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3265518/chapter-791-internships",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

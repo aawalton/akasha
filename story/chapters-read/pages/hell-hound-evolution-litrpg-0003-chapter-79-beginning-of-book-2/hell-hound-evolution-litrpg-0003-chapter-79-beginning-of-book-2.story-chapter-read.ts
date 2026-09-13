@@ -10,9 +10,13 @@ export const hellHoundEvolutionLitrpg0003Chapter79BeginningOfBook2 = {
   ownLength: 3299,
   unit: "words",
   publishedAt: "2026-01-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/2964708/chapter-79-beginning-of-book-2",
-  externalId: "2964708",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2964708",
+      externalLink:
+        "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/2964708/chapter-79-beginning-of-book-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

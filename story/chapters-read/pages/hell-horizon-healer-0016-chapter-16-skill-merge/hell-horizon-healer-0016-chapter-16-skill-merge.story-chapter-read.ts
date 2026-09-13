@@ -10,9 +10,13 @@ export const hellHorizonHealer0016Chapter16SkillMerge = {
   ownLength: 1879,
   unit: "words",
   publishedAt: "2026-06-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3539114/chapter-16-skill-merge",
-  externalId: "3539114",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3539114",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3539114/chapter-16-skill-merge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

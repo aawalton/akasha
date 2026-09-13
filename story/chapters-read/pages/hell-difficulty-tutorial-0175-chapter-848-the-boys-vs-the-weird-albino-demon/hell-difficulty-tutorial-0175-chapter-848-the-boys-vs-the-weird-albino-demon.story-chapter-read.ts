@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0175Chapter848TheBoysVsTheWeirdAlbinoDemon = 
   ownLength: 2661,
   unit: "words",
   publishedAt: "2026-07-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3739090/chapter-848-the-boys-vs-the-weird-albino-demon",
-  externalId: "3739090",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3739090",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3739090/chapter-848-the-boys-vs-the-weird-albino-demon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

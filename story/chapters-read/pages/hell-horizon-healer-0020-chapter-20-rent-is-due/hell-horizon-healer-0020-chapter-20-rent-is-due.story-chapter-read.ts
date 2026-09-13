@@ -10,9 +10,13 @@ export const hellHorizonHealer0020Chapter20RentIsDue = {
   ownLength: 1495,
   unit: "words",
   publishedAt: "2026-06-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3557788/chapter-20-rent-is-due",
-  externalId: "3557788",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3557788",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3557788/chapter-20-rent-is-due",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

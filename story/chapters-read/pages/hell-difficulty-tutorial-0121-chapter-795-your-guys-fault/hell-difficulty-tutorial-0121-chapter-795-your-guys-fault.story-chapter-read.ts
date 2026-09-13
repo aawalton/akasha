@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0121Chapter795YourGuysFault = {
   ownLength: 2074,
   unit: "words",
   publishedAt: "2026-04-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3282957/chapter-795-your-guys-fault",
-  externalId: "3282957",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3282957",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3282957/chapter-795-your-guys-fault",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

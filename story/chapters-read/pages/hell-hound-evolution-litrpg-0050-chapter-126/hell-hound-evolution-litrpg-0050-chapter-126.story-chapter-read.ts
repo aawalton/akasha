@@ -10,9 +10,13 @@ export const hellHoundEvolutionLitrpg0050Chapter126 = {
   ownLength: 3052,
   unit: "words",
   publishedAt: "2026-05-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3453309/chapter-126",
-  externalId: "3453309",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3453309",
+      externalLink:
+        "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3453309/chapter-126",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

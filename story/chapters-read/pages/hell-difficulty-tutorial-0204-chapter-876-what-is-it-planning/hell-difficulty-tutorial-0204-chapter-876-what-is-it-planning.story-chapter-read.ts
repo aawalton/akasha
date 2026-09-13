@@ -8,11 +8,15 @@ export const hellDifficultyTutorial0204Chapter876WhatIsItPlanning = {
   position: 204,
   publishedAt: "2026-09-06",
   unit: "words",
-  externalId: "3922110",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3922110",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3922110/chapter-876-what-is-it-planning",
+    },
+  ],
   title: "Chapter 876 - What is it planning?",
   ownLength: 2998,
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3922110/chapter-876-what-is-it-planning",
   prose: "txt",
 } as const satisfies StoryChapterRead

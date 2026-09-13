@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0045045FlamesOfMystery =
   ownLength: 2175,
   unit: "words",
   publishedAt: "2024-05-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1647453/045-flames-of-mystery",
-  externalId: "1647453",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1647453",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1647453/045-flames-of-mystery",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

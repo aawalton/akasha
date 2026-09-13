@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0127Chapter801YouWillBeMine = {
   ownLength: 2374,
   unit: "words",
   publishedAt: "2026-05-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3379967/chapter-801-you-will-be-mine",
-  externalId: "3379967",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3379967",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3379967/chapter-801-you-will-be-mine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

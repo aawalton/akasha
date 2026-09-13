@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0145Chapter818IsThatBad = {
   ownLength: 2199,
   unit: "words",
   publishedAt: "2026-06-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3484788/chapter-818-is-that-bad",
-  externalId: "3484788",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3484788",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3484788/chapter-818-is-that-bad",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

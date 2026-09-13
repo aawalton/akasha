@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0136Chapter810SmallTalkOnly = {
   ownLength: 3370,
   unit: "words",
   publishedAt: "2026-05-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3429237/chapter-810-small-talk-only",
-  externalId: "3429237",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3429237",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3429237/chapter-810-small-talk-only",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

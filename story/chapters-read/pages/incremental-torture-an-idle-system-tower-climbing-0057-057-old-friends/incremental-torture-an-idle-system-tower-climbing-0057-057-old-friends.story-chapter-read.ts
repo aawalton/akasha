@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0057057OldFriends = {
   ownLength: 2268,
   unit: "words",
   publishedAt: "2024-06-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1683743/057-old-friends",
-  externalId: "1683743",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1683743",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1683743/057-old-friends",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

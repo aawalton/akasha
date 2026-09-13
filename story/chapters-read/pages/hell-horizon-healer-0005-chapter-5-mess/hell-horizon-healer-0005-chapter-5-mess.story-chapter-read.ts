@@ -10,9 +10,13 @@ export const hellHorizonHealer0005Chapter5Mess = {
   ownLength: 1830,
   unit: "words",
   publishedAt: "2026-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3520454/chapter-5-mess",
-  externalId: "3520454",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3520454",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3520454/chapter-5-mess",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0190Chapter862GlassHouse = {
   ownLength: 2194,
   unit: "words",
   publishedAt: "2026-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3827532/chapter-862-glass-house",
-  externalId: "3827532",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3827532",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3827532/chapter-862-glass-house",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

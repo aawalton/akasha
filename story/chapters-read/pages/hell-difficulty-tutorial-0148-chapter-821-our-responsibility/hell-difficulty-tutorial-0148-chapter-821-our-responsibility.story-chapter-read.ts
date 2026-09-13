@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0148Chapter821OurResponsibility = {
   ownLength: 1918,
   unit: "words",
   publishedAt: "2026-06-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3507058/chapter-821-our-responsibility",
-  externalId: "3507058",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3507058",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3507058/chapter-821-our-responsibility",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0161Chapter834Negotiations = {
   ownLength: 2484,
   unit: "words",
   publishedAt: "2026-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3586487/chapter-834-negotiations",
-  externalId: "3586487",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3586487",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3586487/chapter-834-negotiations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

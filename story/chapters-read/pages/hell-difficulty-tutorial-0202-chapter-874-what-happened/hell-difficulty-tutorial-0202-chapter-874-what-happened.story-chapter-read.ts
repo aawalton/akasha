@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0202Chapter874WhatHappened = {
   ownLength: 2151,
   unit: "words",
   publishedAt: "2026-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3902299/chapter-874-what-happened",
-  externalId: "3902299",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3902299",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3902299/chapter-874-what-happened",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

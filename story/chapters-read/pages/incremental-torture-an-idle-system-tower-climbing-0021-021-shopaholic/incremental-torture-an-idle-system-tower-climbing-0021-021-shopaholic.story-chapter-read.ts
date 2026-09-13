@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0021021Shopaholic = {
   ownLength: 2370,
   unit: "words",
   publishedAt: "2024-04-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1603409/021-shopaholic",
-  externalId: "1603409",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1603409",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1603409/021-shopaholic",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0184Chapter857TheViewersHaveVoted = {
   ownLength: 2424,
   unit: "words",
   publishedAt: "2026-08-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3797407/chapter-857-the-viewers-have-voted",
-  externalId: "3797407",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3797407",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3797407/chapter-857-the-viewers-have-voted",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

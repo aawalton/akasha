@@ -12,9 +12,13 @@ export const justAddMana0004Chapter4RoommateEtiquettePt1 = {
   unit: "words",
   completedAt: "2026-06-29T18:47:39.471Z",
   publishedAt: "2025-07-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2442676/chapter-4-roommate-etiquette-pt-1",
-  externalId: "2442676",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2442676",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2442676/chapter-4-roommate-etiquette-pt-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

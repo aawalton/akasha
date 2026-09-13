@@ -8,11 +8,15 @@ export const hellDifficultyTutorial0205Chapter877FourRequirements = {
   position: 205,
   publishedAt: "2026-09-07",
   unit: "words",
-  externalId: "3927234",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3927234",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3927234/chapter-877-four-requirements",
+    },
+  ],
   title: "Chapter 877 - Four requirements",
   ownLength: 2168,
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3927234/chapter-877-four-requirements",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const journeyToVeresavirFantasyLitrpg0060Chapter60 = {
   ownLength: 3743,
   unit: "words",
   publishedAt: "2026-08-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/3813762/chapter-60",
-  externalId: "3813762",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3813762",
+      externalLink:
+        "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/3813762/chapter-60",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

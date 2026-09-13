@@ -10,9 +10,13 @@ export const hellHorizonHealer0037Chapter37TheAdventuresOfHannaAndPom = {
   ownLength: 1411,
   unit: "words",
   publishedAt: "2026-08-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3783481/chapter-37-the-adventures-of-hanna-and-pom",
-  externalId: "3783481",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3783481",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3783481/chapter-37-the-adventures-of-hanna-and-pom",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

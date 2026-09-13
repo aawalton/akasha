@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0178Chapter851TheBoysNoMore = {
   ownLength: 2390,
   unit: "words",
   publishedAt: "2026-08-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3760764/chapter-851-the-boys-no-more",
-  externalId: "3760764",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3760764",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3760764/chapter-851-the-boys-no-more",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

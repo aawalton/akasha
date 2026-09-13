@@ -10,9 +10,13 @@ export const hellHoundEvolutionLitrpg0001Chapter1WakingUp = {
   ownLength: 2160,
   unit: "words",
   publishedAt: "2025-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/2525423/chapter-1-waking-up",
-  externalId: "2525423",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525423",
+      externalLink:
+        "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/2525423/chapter-1-waking-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

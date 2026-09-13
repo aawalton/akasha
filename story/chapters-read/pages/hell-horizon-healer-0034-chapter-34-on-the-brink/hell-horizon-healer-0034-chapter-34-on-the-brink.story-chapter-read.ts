@@ -10,9 +10,13 @@ export const hellHorizonHealer0034Chapter34OnTheBrink = {
   ownLength: 1709,
   unit: "words",
   publishedAt: "2026-07-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3752105/chapter-34-on-the-brink",
-  externalId: "3752105",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3752105",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3752105/chapter-34-on-the-brink",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

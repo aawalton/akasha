@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0081081UseYourHead = {
   ownLength: 1629,
   unit: "words",
   publishedAt: "2024-08-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1769372/081-use-your-head",
-  externalId: "1769372",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1769372",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1769372/081-use-your-head",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

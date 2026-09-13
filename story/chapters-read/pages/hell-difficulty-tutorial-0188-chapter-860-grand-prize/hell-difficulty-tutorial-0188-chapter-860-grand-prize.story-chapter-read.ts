@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0188Chapter860GrandPrize = {
   ownLength: 2234,
   unit: "words",
   publishedAt: "2026-08-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3810559/chapter-860-grand-prize",
-  externalId: "3810559",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3810559",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3810559/chapter-860-grand-prize",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

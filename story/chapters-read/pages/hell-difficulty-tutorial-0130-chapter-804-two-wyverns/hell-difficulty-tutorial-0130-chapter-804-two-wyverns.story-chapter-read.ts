@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0130Chapter804TwoWyverns = {
   ownLength: 2565,
   unit: "words",
   publishedAt: "2026-05-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3392422/chapter-804-two-wyverns",
-  externalId: "3392422",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3392422",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3392422/chapter-804-two-wyverns",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

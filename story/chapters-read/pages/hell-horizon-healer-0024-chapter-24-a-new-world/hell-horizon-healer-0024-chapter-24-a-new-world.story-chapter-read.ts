@@ -10,9 +10,13 @@ export const hellHorizonHealer0024Chapter24ANewWorld = {
   ownLength: 1750,
   unit: "words",
   publishedAt: "2026-06-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3590208/chapter-24-a-new-world",
-  externalId: "3590208",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3590208",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3590208/chapter-24-a-new-world",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

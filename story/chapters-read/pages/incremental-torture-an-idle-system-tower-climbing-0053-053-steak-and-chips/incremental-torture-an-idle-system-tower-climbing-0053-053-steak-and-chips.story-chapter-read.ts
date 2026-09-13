@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0053053SteakAndChips = {
   ownLength: 2281,
   unit: "words",
   publishedAt: "2024-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1671114/053-steak-and-chips",
-  externalId: "1671114",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1671114",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1671114/053-steak-and-chips",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

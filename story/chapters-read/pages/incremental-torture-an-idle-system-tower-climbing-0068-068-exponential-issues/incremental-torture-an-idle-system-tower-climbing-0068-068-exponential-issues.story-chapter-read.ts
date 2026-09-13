@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0068068ExponentialIssues
   ownLength: 2354,
   unit: "words",
   publishedAt: "2024-07-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1712320/068-exponential-issues",
-  externalId: "1712320",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1712320",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1712320/068-exponential-issues",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

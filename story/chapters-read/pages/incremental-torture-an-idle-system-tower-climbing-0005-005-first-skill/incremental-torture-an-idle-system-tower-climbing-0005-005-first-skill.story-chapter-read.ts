@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0005005FirstSkill = {
   ownLength: 2161,
   unit: "words",
   publishedAt: "2024-03-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1572181/005-first-skill",
-  externalId: "1572181",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1572181",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1572181/005-first-skill",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

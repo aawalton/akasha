@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0149Chapter822AGun = {
   ownLength: 2530,
   unit: "words",
   publishedAt: "2026-06-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3511462/chapter-822-a-gun",
-  externalId: "3511462",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3511462",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3511462/chapter-822-a-gun",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

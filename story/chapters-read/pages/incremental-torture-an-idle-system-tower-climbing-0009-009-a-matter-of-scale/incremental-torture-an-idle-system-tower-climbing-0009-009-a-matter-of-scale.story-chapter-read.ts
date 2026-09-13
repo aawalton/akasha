@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0009009AMatterOfScale = 
   ownLength: 2158,
   unit: "words",
   publishedAt: "2024-04-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1583146/009-a-matter-of-scale",
-  externalId: "1583146",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1583146",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1583146/009-a-matter-of-scale",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

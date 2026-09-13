@@ -12,9 +12,13 @@ export const justAddMana0001Chapter1ManaOverload = {
   unit: "words",
   completedAt: "2026-06-29T18:47:33.159Z",
   publishedAt: "2025-07-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2442662/chapter-1-mana-overload",
-  externalId: "2442662",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2442662",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2442662/chapter-1-mana-overload",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

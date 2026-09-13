@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0123Chapter797Empathy = {
   ownLength: 2531,
   unit: "words",
   publishedAt: "2026-05-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3355529/chapter-797-empathy",
-  externalId: "3355529",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3355529",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3355529/chapter-797-empathy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

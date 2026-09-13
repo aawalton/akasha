@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0048048Worldshaker = {
   ownLength: 1986,
   unit: "words",
   publishedAt: "2024-05-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1655435/048-worldshaker",
-  externalId: "1655435",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1655435",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1655435/048-worldshaker",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

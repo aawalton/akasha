@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0069069Invasion = {
   ownLength: 2186,
   unit: "words",
   publishedAt: "2024-07-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1714783/069-invasion",
-  externalId: "1714783",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1714783",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1714783/069-invasion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

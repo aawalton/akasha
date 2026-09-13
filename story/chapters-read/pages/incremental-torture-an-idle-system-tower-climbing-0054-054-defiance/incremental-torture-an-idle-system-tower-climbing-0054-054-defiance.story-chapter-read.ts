@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0054054Defiance = {
   ownLength: 2127,
   unit: "words",
   publishedAt: "2024-06-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1673790/054-defiance",
-  externalId: "1673790",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1673790",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1673790/054-defiance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

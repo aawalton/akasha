@@ -7,12 +7,16 @@ export const hellDifficultyTutorial0208Chapter880IKnewYouWouldDoThat = {
   position: 208,
   publishedAt: "2026-09-10",
   unit: "words",
-  externalId: "3941228",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3941228",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3941228/chapter-880-i-knew-you-would-do-that",
+    },
+  ],
   title: "Chapter 880 - I knew you would do that",
   story: "story-read/hell-difficulty-tutorial",
   ownLength: 2275,
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3941228/chapter-880-i-knew-you-would-do-that",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0120Chapter794NewTrait = {
   ownLength: 2279,
   unit: "words",
   publishedAt: "2026-04-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3278740/chapter-794-new-trait",
-  externalId: "3278740",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3278740",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3278740/chapter-794-new-trait",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

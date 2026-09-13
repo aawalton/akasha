@@ -10,9 +10,13 @@ export const hellHorizonHealer0003Chapter3WellThatCanTBeGood = {
   ownLength: 1356,
   unit: "words",
   publishedAt: "2026-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3519744/chapter-3-well-that-cant-be-good",
-  externalId: "3519744",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3519744",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3519744/chapter-3-well-that-cant-be-good",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

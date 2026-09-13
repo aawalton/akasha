@@ -10,9 +10,13 @@ export const hellHorizonHealer0009Chapter9NowhereToRun = {
   ownLength: 1609,
   unit: "words",
   publishedAt: "2026-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3521378/chapter-9-nowhere-to-run",
-  externalId: "3521378",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3521378",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3521378/chapter-9-nowhere-to-run",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

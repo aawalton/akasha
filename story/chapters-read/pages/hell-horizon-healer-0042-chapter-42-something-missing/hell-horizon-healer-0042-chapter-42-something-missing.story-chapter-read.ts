@@ -10,9 +10,13 @@ export const hellHorizonHealer0042Chapter42SomethingMissing = {
   ownLength: 1377,
   unit: "words",
   publishedAt: "2026-08-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3860178/chapter-42-something-missing",
-  externalId: "3860178",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3860178",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3860178/chapter-42-something-missing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

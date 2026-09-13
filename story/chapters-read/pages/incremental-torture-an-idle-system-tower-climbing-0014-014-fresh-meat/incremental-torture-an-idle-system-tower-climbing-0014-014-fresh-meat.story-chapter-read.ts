@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0014014FreshMeat = {
   ownLength: 2059,
   unit: "words",
   publishedAt: "2024-04-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1591721/014-fresh-meat",
-  externalId: "1591721",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1591721",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1591721/014-fresh-meat",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

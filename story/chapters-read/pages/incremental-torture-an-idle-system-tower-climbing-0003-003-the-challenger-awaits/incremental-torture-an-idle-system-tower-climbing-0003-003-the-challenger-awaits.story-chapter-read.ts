@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0003003TheChallengerAwai
   ownLength: 2075,
   unit: "words",
   publishedAt: "2024-03-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1563825/003-the-challenger-awaits",
-  externalId: "1563825",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1563825",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1563825/003-the-challenger-awaits",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

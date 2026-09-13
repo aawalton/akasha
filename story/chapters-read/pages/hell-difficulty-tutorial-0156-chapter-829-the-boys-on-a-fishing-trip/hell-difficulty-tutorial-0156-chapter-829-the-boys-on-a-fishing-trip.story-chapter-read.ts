@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0156Chapter829TheBoysOnAFishingTrip = {
   ownLength: 2874,
   unit: "words",
   publishedAt: "2026-06-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3554227/chapter-829-the-boys-on-a-fishing-trip",
-  externalId: "3554227",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3554227",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3554227/chapter-829-the-boys-on-a-fishing-trip",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

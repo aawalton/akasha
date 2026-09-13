@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0135Chapter809Vlad = {
   ownLength: 2262,
   unit: "words",
   publishedAt: "2026-05-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3424582/chapter-809-vlad",
-  externalId: "3424582",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3424582",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3424582/chapter-809-vlad",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

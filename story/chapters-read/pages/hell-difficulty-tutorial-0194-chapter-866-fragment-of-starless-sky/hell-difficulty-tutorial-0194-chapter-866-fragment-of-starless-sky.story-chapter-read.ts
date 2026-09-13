@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0194Chapter866FragmentOfStarlessSky = {
   ownLength: 3442,
   unit: "words",
   publishedAt: "2026-08-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3855553/chapter-866-fragment-of-starless-sky",
-  externalId: "3855553",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3855553",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3855553/chapter-866-fragment-of-starless-sky",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellHorizonHealer0025Chapter25WhatUseIsAShieldThatCanTDefend = {
   ownLength: 1877,
   unit: "words",
   publishedAt: "2026-06-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3595445/chapter-25-what-use-is-a-shield-that-cant-defend",
-  externalId: "3595445",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3595445",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3595445/chapter-25-what-use-is-a-shield-that-cant-defend",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

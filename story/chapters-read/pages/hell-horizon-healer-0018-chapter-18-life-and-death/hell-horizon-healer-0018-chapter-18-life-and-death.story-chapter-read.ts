@@ -10,9 +10,13 @@ export const hellHorizonHealer0018Chapter18LifeAndDeath = {
   ownLength: 1996,
   unit: "words",
   publishedAt: "2026-06-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3548737/chapter-18-life-and-death",
-  externalId: "3548737",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3548737",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3548737/chapter-18-life-and-death",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

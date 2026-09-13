@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0132Chapter80611thFloor = {
   ownLength: 2098,
   unit: "words",
   publishedAt: "2026-05-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3411175/chapter-806-11th-floor",
-  externalId: "3411175",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3411175",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3411175/chapter-806-11th-floor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

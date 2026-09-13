@@ -8,11 +8,15 @@ export const hellDifficultyTutorial0203Chapter875OurModusOperandi = {
   position: 203,
   publishedAt: "2026-09-03",
   unit: "words",
-  externalId: "3906565",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3906565",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3906565/chapter-875-our-modus-operandi",
+    },
+  ],
   title: "Chapter 875 - Our modus operandi",
   ownLength: 2468,
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3906565/chapter-875-our-modus-operandi",
   prose: "txt",
 } as const satisfies StoryChapterRead

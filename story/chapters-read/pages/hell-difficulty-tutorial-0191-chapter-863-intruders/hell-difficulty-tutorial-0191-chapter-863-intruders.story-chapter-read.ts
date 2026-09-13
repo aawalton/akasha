@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0191Chapter863Intruders = {
   ownLength: 2442,
   unit: "words",
   publishedAt: "2026-08-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3831859/chapter-863-intruders",
-  externalId: "3831859",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3831859",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3831859/chapter-863-intruders",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0125Chapter799VaultNumber2 = {
   ownLength: 2173,
   unit: "words",
   publishedAt: "2026-05-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3364086/chapter-799-vault-number-2",
-  externalId: "3364086",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3364086",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3364086/chapter-799-vault-number-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const justAddMana0021Chapter21GhostsInTheDarkPt4 = {
   unit: "words",
   completedAt: "2026-06-29T18:48:14.626Z",
   publishedAt: "2025-08-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2517694/chapter-21-ghosts-in-the-dark-pt-4",
-  externalId: "2517694",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2517694",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2517694/chapter-21-ghosts-in-the-dark-pt-4",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

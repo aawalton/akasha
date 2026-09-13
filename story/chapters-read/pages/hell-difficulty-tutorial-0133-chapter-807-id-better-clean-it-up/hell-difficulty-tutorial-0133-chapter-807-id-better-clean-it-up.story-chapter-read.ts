@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0133Chapter807IdBetterCleanItUp = {
   ownLength: 2563,
   unit: "words",
   publishedAt: "2026-05-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3415849/chapter-807-id-better-clean-it-up",
-  externalId: "3415849",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3415849",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3415849/chapter-807-id-better-clean-it-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

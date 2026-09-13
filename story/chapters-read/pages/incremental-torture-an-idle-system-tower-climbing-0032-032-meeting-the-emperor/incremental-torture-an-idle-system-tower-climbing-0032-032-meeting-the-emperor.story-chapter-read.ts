@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0032032MeetingTheEmperor
   ownLength: 2066,
   unit: "words",
   publishedAt: "2024-05-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1621348/032-meeting-the-emperor",
-  externalId: "1621348",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1621348",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1621348/032-meeting-the-emperor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

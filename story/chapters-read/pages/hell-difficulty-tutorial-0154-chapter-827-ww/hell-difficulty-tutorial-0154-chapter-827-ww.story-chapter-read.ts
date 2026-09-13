@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0154Chapter827Ww = {
   ownLength: 2286,
   unit: "words",
   publishedAt: "2026-06-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3544802/chapter-827-wdegodegw",
-  externalId: "3544802",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3544802",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3544802/chapter-827-wdegodegw",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

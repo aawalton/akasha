@@ -10,9 +10,13 @@ export const hellHorizonHealer0039Chapter39Monster = {
   ownLength: 1670,
   unit: "words",
   publishedAt: "2026-08-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3805419/chapter-39-monster",
-  externalId: "3805419",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3805419",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3805419/chapter-39-monster",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

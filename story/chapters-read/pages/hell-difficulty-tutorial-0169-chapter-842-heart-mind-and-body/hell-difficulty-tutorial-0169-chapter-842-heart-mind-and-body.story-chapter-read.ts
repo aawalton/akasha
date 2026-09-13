@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0169Chapter842HeartMindAndBody = {
   ownLength: 2378,
   unit: "words",
   publishedAt: "2026-07-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3703936/chapter-842-heart-mind-and-body",
-  externalId: "3703936",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3703936",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3703936/chapter-842-heart-mind-and-body",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

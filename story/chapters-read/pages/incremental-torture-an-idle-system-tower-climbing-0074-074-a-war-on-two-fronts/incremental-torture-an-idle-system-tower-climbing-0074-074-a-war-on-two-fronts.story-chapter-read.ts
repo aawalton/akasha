@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0074074AWarOnTwoFronts =
   ownLength: 2037,
   unit: "words",
   publishedAt: "2024-07-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1730203/074-a-war-on-two-fronts",
-  externalId: "1730203",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1730203",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1730203/074-a-war-on-two-fronts",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

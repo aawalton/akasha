@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0141Chapter814BoysTrip = {
   ownLength: 2181,
   unit: "words",
   publishedAt: "2026-05-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3457652/chapter-814-boys-trip",
-  externalId: "3457652",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3457652",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3457652/chapter-814-boys-trip",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

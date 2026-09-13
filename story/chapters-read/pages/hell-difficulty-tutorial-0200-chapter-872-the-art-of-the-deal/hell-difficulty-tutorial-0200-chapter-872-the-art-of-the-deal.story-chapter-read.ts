@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0200Chapter872TheArtOfTheDeal = {
   ownLength: 2510,
   unit: "words",
   publishedAt: "2026-08-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3892631/chapter-872-the-art-of-the-deal",
-  externalId: "3892631",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3892631",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3892631/chapter-872-the-art-of-the-deal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

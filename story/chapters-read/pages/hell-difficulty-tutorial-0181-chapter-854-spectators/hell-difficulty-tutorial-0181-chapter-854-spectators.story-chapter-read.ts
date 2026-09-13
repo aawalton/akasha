@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0181Chapter854Spectators = {
   ownLength: 2434,
   unit: "words",
   publishedAt: "2026-08-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3775175/chapter-854-spectators",
-  externalId: "3775175",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3775175",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3775175/chapter-854-spectators",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

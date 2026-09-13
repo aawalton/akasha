@@ -12,9 +12,13 @@ export const justAddMana0024Chapter24MagicalGeographyPt2 = {
   unit: "words",
   completedAt: "2026-06-29T18:48:21.429Z",
   publishedAt: "2025-08-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2535992/chapter-24-magical-geography-pt-2",
-  externalId: "2535992",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2535992",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2535992/chapter-24-magical-geography-pt-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

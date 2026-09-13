@@ -10,9 +10,13 @@ export const hellHorizonHealer0028Chapter28LifeInHellDifficulty = {
   ownLength: 1636,
   unit: "words",
   publishedAt: "2026-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3618342/chapter-28-life-in-hell-difficulty",
-  externalId: "3618342",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3618342",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3618342/chapter-28-life-in-hell-difficulty",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

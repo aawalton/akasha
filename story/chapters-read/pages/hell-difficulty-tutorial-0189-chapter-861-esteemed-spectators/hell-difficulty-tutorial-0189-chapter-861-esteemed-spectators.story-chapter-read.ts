@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0189Chapter861EsteemedSpectators = {
   ownLength: 2306,
   unit: "words",
   publishedAt: "2026-08-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3822897/chapter-861-esteemed-spectators",
-  externalId: "3822897",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3822897",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3822897/chapter-861-esteemed-spectators",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

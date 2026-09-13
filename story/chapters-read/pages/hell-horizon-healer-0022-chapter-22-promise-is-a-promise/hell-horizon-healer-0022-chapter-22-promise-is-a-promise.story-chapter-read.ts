@@ -10,9 +10,13 @@ export const hellHorizonHealer0022Chapter22PromiseIsAPromise = {
   ownLength: 2058,
   unit: "words",
   publishedAt: "2026-06-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3580872/chapter-22-promise-is-a-promise",
-  externalId: "3580872",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3580872",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3580872/chapter-22-promise-is-a-promise",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

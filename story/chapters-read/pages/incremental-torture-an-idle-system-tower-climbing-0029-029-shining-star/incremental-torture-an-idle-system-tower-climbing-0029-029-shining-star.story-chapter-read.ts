@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0029029ShiningStar = {
   ownLength: 2109,
   unit: "words",
   publishedAt: "2024-04-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1615520/029-shining-star",
-  externalId: "1615520",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1615520",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1615520/029-shining-star",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

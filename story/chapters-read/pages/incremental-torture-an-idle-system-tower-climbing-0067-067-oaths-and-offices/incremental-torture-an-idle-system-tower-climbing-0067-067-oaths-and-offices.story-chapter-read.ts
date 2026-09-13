@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0067067OathsAndOffices =
   ownLength: 1961,
   unit: "words",
   publishedAt: "2024-07-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1709538/067-oaths-and-offices",
-  externalId: "1709538",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1709538",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1709538/067-oaths-and-offices",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

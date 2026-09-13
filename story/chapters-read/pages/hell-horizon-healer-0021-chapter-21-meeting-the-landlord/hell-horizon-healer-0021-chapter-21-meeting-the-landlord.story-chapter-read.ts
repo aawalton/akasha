@@ -10,9 +10,13 @@ export const hellHorizonHealer0021Chapter21MeetingTheLandlord = {
   ownLength: 1607,
   unit: "words",
   publishedAt: "2026-06-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3576172/chapter-21-meeting-the-landlord",
-  externalId: "3576172",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3576172",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3576172/chapter-21-meeting-the-landlord",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellHorizonHealer0006Chapter6APrice = {
   ownLength: 1573,
   unit: "words",
   publishedAt: "2026-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3520763/chapter-6-a-price",
-  externalId: "3520763",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3520763",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3520763/chapter-6-a-price",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

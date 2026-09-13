@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0138SideStoryNonCanonANyaToRemember = {
   ownLength: 2474,
   unit: "words",
   publishedAt: "2026-05-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3444325/side-story-non-canon-a-nya-to-remember",
-  externalId: "3444325",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3444325",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3444325/side-story-non-canon-a-nya-to-remember",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

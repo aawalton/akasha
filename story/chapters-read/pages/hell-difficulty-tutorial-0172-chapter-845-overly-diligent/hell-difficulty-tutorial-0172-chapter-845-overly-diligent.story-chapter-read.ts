@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0172Chapter845OverlyDiligent = {
   ownLength: 2962,
   unit: "words",
   publishedAt: "2026-07-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3716663/chapter-845-overly-diligent",
-  externalId: "3716663",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3716663",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3716663/chapter-845-overly-diligent",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

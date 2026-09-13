@@ -10,9 +10,13 @@ export const hellHorizonHealer0038Chapter38TwoSuns = {
   ownLength: 1579,
   unit: "words",
   publishedAt: "2026-08-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3797275/chapter-38-two-suns",
-  externalId: "3797275",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3797275",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3797275/chapter-38-two-suns",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

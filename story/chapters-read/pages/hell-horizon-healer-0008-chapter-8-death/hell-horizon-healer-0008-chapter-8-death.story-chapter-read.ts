@@ -10,9 +10,13 @@ export const hellHorizonHealer0008Chapter8Death = {
   ownLength: 1441,
   unit: "words",
   publishedAt: "2026-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3521176/chapter-8-death",
-  externalId: "3521176",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3521176",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3521176/chapter-8-death",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

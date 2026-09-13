@@ -12,9 +12,13 @@ export const justAddMana0015Chapter15IntroductionToTheStandardArrayPt5 = {
   unit: "words",
   completedAt: "2026-06-29T18:48:01.975Z",
   publishedAt: "2025-08-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2483915/chapter-15-introduction-to-the-standard-array",
-  externalId: "2483915",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2483915",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2483915/chapter-15-introduction-to-the-standard-array",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

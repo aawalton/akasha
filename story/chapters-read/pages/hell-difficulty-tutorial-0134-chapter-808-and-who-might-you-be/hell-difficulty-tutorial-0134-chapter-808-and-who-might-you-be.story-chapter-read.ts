@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0134Chapter808AndWhoMightYouBe = {
   ownLength: 2247,
   unit: "words",
   publishedAt: "2026-05-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3420370/chapter-808-and-who-might-you-be",
-  externalId: "3420370",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3420370",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3420370/chapter-808-and-who-might-you-be",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

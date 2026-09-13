@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0168Chapter841KeepYourselfTogether = {
   ownLength: 2530,
   unit: "words",
   publishedAt: "2026-07-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3699020/chapter-841-keep-yourself-together",
-  externalId: "3699020",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3699020",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3699020/chapter-841-keep-yourself-together",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

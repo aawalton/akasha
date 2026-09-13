@@ -12,9 +12,13 @@ export const justAddMana0003Chapter3TheArtOfAttunementPt2 = {
   unit: "words",
   completedAt: "2026-06-29T18:47:37.291Z",
   publishedAt: "2025-07-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2442672/chapter-3-the-art-of-attunement-pt-2",
-  externalId: "2442672",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2442672",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2442672/chapter-3-the-art-of-attunement-pt-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

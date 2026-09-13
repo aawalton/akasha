@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0126Chapter800EveryoneAboard = {
   ownLength: 2531,
   unit: "words",
   publishedAt: "2026-05-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3368266/chapter-800-everyone-aboard",
-  externalId: "3368266",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3368266",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3368266/chapter-800-everyone-aboard",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

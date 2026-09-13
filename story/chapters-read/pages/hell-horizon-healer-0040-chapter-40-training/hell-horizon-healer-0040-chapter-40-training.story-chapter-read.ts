@@ -10,9 +10,13 @@ export const hellHorizonHealer0040Chapter40Training = {
   ownLength: 1568,
   unit: "words",
   publishedAt: "2026-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3826706/chapter-40-training",
-  externalId: "3826706",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3826706",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3826706/chapter-40-training",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellHorizonHealer0007Chapter7SystemVendingMachine = {
   ownLength: 2168,
   unit: "words",
   publishedAt: "2026-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3521000/chapter-7-system-vending-machine",
-  externalId: "3521000",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3521000",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3521000/chapter-7-system-vending-machine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

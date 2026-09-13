@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0171Chapter844Figurines = {
   ownLength: 2155,
   unit: "words",
   publishedAt: "2026-07-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3712711/chapter-844-figurines",
-  externalId: "3712711",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3712711",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3712711/chapter-844-figurines",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -11,9 +11,13 @@ export const hellHorizonHealer0029Chapter29Ptsd = {
   ownProgress: 181,
   unit: "words",
   publishedAt: "2026-07-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3623016/chapter-29-ptsd",
-  externalId: "3623016",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3623016",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3623016/chapter-29-ptsd",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

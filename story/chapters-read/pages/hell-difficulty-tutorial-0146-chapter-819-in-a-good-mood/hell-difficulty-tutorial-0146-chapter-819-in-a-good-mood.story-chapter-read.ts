@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0146Chapter819InAGoodMood = {
   ownLength: 2158,
   unit: "words",
   publishedAt: "2026-06-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3489467/chapter-819-in-a-good-mood",
-  externalId: "3489467",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3489467",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3489467/chapter-819-in-a-good-mood",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

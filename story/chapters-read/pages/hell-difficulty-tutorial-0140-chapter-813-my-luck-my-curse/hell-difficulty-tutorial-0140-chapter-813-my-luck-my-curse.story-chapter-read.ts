@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0140Chapter813MyLuckMyCurse = {
   ownLength: 2916,
   unit: "words",
   publishedAt: "2026-05-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3450898/chapter-813-my-luck-my-curse",
-  externalId: "3450898",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3450898",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3450898/chapter-813-my-luck-my-curse",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

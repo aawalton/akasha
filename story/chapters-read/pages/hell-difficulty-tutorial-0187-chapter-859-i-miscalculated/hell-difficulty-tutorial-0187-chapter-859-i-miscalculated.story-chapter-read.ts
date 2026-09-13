@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0187Chapter859IMiscalculated = {
   ownLength: 2704,
   unit: "words",
   publishedAt: "2026-08-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3806101/chapter-859-i-miscalculated",
-  externalId: "3806101",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3806101",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3806101/chapter-859-i-miscalculated",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

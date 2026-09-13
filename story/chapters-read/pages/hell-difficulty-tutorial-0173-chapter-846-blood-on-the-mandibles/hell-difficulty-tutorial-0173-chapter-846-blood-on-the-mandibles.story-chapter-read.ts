@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0173Chapter846BloodOnTheMandibles = {
   ownLength: 2528,
   unit: "words",
   publishedAt: "2026-07-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3729965/chapter-846-blood-on-the-mandibles",
-  externalId: "3729965",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3729965",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3729965/chapter-846-blood-on-the-mandibles",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

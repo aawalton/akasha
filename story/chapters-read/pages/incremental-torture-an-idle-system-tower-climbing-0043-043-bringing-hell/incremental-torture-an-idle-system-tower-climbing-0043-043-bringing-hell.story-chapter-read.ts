@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0043043BringingHell = {
   ownLength: 2070,
   unit: "words",
   publishedAt: "2024-05-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1641106/043-bringing-hell",
-  externalId: "1641106",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1641106",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1641106/043-bringing-hell",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

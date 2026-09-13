@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0158Chapter831TrulyARoyalGift = {
   ownLength: 2489,
   unit: "words",
   publishedAt: "2026-06-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3571971/chapter-831-truly-a-royal-gift",
-  externalId: "3571971",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3571971",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3571971/chapter-831-truly-a-royal-gift",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

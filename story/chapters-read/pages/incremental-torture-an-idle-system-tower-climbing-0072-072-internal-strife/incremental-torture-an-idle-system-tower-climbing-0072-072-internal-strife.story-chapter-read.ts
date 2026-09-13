@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0072072InternalStrife = 
   ownLength: 1903,
   unit: "words",
   publishedAt: "2024-07-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1723691/072-internal-strife",
-  externalId: "1723691",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1723691",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1723691/072-internal-strife",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

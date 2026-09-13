@@ -12,9 +12,13 @@ export const justAddMana0008Chapter8AncientArtifactsPt3 = {
   unit: "words",
   completedAt: "2026-06-29T18:47:47.655Z",
   publishedAt: "2025-07-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2454114/chapter-8-ancient-artifacts-pt-3",
-  externalId: "2454114",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2454114",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2454114/chapter-8-ancient-artifacts-pt-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

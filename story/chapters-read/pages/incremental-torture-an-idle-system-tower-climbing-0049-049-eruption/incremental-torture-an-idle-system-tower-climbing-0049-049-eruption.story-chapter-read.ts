@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0049049Eruption = {
   ownLength: 2123,
   unit: "words",
   publishedAt: "2024-05-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1658111/049-eruption",
-  externalId: "1658111",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1658111",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1658111/049-eruption",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

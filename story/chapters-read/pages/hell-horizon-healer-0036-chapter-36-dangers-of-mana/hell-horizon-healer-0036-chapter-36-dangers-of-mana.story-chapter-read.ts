@@ -10,9 +10,13 @@ export const hellHorizonHealer0036Chapter36DangersOfMana = {
   ownLength: 1145,
   unit: "words",
   publishedAt: "2026-08-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3774274/chapter-36-dangers-of-mana",
-  externalId: "3774274",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3774274",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3774274/chapter-36-dangers-of-mana",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

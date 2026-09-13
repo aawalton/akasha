@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0153Chapter826VisitingDuncan = {
   ownLength: 2068,
   unit: "words",
   publishedAt: "2026-06-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3539717/chapter-826-visiting-duncan",
-  externalId: "3539717",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3539717",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3539717/chapter-826-visiting-duncan",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0131Chapter805ForAFewMoreMinutes = {
   ownLength: 2050,
   unit: "words",
   publishedAt: "2026-05-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3396872/chapter-805-for-a-few-more-minutes",
-  externalId: "3396872",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3396872",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3396872/chapter-805-for-a-few-more-minutes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0046046ReturnToSimplicit
   ownLength: 2152,
   unit: "words",
   publishedAt: "2024-05-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1648677/046-return-to-simplicity",
-  externalId: "1648677",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1648677",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1648677/046-return-to-simplicity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

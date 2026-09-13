@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0176Chapter849AgainstNyssaVolare = {
   ownLength: 1938,
   unit: "words",
   publishedAt: "2026-07-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3743721/chapter-849-against-nyssa-volare",
-  externalId: "3743721",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3743721",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3743721/chapter-849-against-nyssa-volare",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

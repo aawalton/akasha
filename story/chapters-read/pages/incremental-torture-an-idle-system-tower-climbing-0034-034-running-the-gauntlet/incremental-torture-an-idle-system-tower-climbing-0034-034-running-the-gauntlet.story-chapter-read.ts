@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0034034RunningTheGauntle
   ownLength: 2163,
   unit: "words",
   publishedAt: "2024-05-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1624206/034-running-the-gauntlet",
-  externalId: "1624206",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1624206",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1624206/034-running-the-gauntlet",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

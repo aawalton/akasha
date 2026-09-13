@@ -10,9 +10,13 @@ export const hellHorizonHealer0035Chapter35OldSoldierVsNew = {
   ownLength: 1672,
   unit: "words",
   publishedAt: "2026-08-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3764737/chapter-35-old-soldier-vs-new",
-  externalId: "3764737",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3764737",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3764737/chapter-35-old-soldier-vs-new",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const justAddMana0016Chapter16AlinaTheLunchladyArchdemonOfShelves = {
   unit: "words",
   completedAt: "2026-06-29T18:48:04.097Z",
   publishedAt: "2025-08-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2486545/chapter-16-alina-the-lunchlady-archdemon-of-shelves",
-  externalId: "2486545",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2486545",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2486545/chapter-16-alina-the-lunchlady-archdemon-of-shelves",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0167Chapter840AFleetingNuisance = {
   ownLength: 4676,
   unit: "words",
   publishedAt: "2026-07-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3686404/chapter-840-a-fleeting-nuisance",
-  externalId: "3686404",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3686404",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3686404/chapter-840-a-fleeting-nuisance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

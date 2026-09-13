@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0122Chapter796SirElydor = {
   ownLength: 2337,
   unit: "words",
   publishedAt: "2026-05-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3350855/chapter-796-sir-elydor",
-  externalId: "3350855",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3350855",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3350855/chapter-796-sir-elydor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

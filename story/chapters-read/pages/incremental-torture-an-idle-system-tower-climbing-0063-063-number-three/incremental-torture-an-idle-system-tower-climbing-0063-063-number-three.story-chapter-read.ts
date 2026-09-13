@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0063063NumberThree = {
   ownLength: 2069,
   unit: "words",
   publishedAt: "2024-06-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1696500/063-number-three",
-  externalId: "1696500",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1696500",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1696500/063-number-three",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellHorizonHealer0015Chapter15Focus = {
   ownLength: 1667,
   unit: "words",
   publishedAt: "2026-06-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3535048/chapter-15-focus",
-  externalId: "3535048",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3535048",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3535048/chapter-15-focus",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

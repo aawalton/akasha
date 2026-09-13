@@ -10,9 +10,13 @@ export const hellHorizonHealer0012Chapter12Tension = {
   ownLength: 1602,
   unit: "words",
   publishedAt: "2026-06-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3522023/chapter-12-tension",
-  externalId: "3522023",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3522023",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3522023/chapter-12-tension",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

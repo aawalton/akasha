@@ -10,9 +10,13 @@ export const hellHorizonHealer0014Chapter14ForThoseAwake = {
   ownLength: 1808,
   unit: "words",
   publishedAt: "2026-06-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3530489/chapter-14-for-those-awake",
-  externalId: "3530489",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3530489",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3530489/chapter-14-for-those-awake",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

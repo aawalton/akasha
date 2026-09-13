@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0024024Solitude = {
   ownLength: 2148,
   unit: "words",
   publishedAt: "2024-04-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1608726/024-solitude",
-  externalId: "1608726",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1608726",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1608726/024-solitude",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

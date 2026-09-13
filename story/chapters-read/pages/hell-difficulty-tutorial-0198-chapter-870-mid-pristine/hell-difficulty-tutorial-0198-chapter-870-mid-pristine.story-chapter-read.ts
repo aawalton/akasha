@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0198Chapter870MidPristine = {
   ownLength: 2316,
   unit: "words",
   publishedAt: "2026-08-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3874051/chapter-870-mid-pristine",
-  externalId: "3874051",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3874051",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3874051/chapter-870-mid-pristine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellHorizonHealer0032Chapter32WhatIsNormal = {
   ownLength: 1395,
   unit: "words",
   publishedAt: "2026-07-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3720993/chapter-32-what-is-normal",
-  externalId: "3720993",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3720993",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3720993/chapter-32-what-is-normal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

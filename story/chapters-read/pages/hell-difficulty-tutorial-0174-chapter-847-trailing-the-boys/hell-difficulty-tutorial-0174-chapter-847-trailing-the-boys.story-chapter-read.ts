@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0174Chapter847TrailingTheBoys = {
   ownLength: 2311,
   unit: "words",
   publishedAt: "2026-07-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3734714/chapter-847-trailing-the-boys",
-  externalId: "3734714",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3734714",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3734714/chapter-847-trailing-the-boys",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

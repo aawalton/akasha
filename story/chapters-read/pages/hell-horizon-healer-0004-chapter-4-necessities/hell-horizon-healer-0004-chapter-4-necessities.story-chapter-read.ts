@@ -10,9 +10,13 @@ export const hellHorizonHealer0004Chapter4Necessities = {
   ownLength: 1718,
   unit: "words",
   publishedAt: "2026-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3520072/chapter-4-necessities",
-  externalId: "3520072",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3520072",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3520072/chapter-4-necessities",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

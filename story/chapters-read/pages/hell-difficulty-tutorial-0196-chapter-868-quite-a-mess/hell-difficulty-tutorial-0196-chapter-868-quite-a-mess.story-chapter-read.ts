@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0196Chapter868QuiteAMess = {
   ownLength: 2255,
   unit: "words",
   publishedAt: "2026-08-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3864934/chapter-868-quite-a-mess",
-  externalId: "3864934",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3864934",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3864934/chapter-868-quite-a-mess",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

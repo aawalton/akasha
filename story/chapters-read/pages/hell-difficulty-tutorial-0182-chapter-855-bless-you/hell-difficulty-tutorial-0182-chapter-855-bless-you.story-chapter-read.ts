@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0182Chapter855BlessYou = {
   ownLength: 2704,
   unit: "words",
   publishedAt: "2026-08-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3779487/chapter-855-bless-you",
-  externalId: "3779487",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3779487",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3779487/chapter-855-bless-you",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

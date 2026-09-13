@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0010010FindingCommonGrou
   ownLength: 2087,
   unit: "words",
   publishedAt: "2024-04-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1584454/010-finding-common-ground",
-  externalId: "1584454",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1584454",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1584454/010-finding-common-ground",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

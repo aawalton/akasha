@@ -10,9 +10,13 @@ export const hellHorizonHealer0019Chapter19TheCalmAfterTheStorm = {
   ownLength: 1867,
   unit: "words",
   publishedAt: "2026-06-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3553405/chapter-19-the-calm-after-the-storm",
-  externalId: "3553405",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3553405",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3553405/chapter-19-the-calm-after-the-storm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

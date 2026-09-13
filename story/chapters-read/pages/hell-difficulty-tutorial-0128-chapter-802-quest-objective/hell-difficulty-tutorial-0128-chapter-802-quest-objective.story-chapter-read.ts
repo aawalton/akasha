@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0128Chapter802QuestObjective = {
   ownLength: 2297,
   unit: "words",
   publishedAt: "2026-05-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3384182/chapter-802-quest-objective",
-  externalId: "3384182",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3384182",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3384182/chapter-802-quest-objective",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

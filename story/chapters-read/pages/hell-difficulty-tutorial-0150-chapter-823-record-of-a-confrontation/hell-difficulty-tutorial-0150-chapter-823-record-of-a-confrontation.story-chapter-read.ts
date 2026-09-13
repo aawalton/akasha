@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0150Chapter823RecordOfAConfrontation = {
   ownLength: 2381,
   unit: "words",
   publishedAt: "2026-06-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3516372/chapter-823-record-of-a-confrontation",
-  externalId: "3516372",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3516372",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3516372/chapter-823-record-of-a-confrontation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

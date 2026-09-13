@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0008008ChangeOfPace = {
   ownLength: 2044,
   unit: "words",
   publishedAt: "2024-04-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1581552/008-change-of-pace",
-  externalId: "1581552",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1581552",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1581552/008-change-of-pace",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

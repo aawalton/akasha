@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0197Chapter869CorporateOwnedDeathDesert = {
   ownLength: 2160,
   unit: "words",
   publishedAt: "2026-08-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3869445/chapter-869-corporate-owned-death-desert",
-  externalId: "3869445",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3869445",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3869445/chapter-869-corporate-owned-death-desert",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

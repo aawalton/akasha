@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0144Chapter817BoysVsAWeirdSpider = {
   ownLength: 2315,
   unit: "words",
   publishedAt: "2026-06-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3480337/chapter-817-boys-vs-a-weird-spider",
-  externalId: "3480337",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3480337",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3480337/chapter-817-boys-vs-a-weird-spider",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

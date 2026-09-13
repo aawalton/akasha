@@ -10,9 +10,13 @@ export const hellHorizonHealer0010Chapter10VerdantExpanse = {
   ownLength: 1644,
   unit: "words",
   publishedAt: "2026-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3521610/chapter-10-verdant-expanse",
-  externalId: "3521610",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3521610",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3521610/chapter-10-verdant-expanse",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

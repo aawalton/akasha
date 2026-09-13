@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0139Chapter812ABunchOfDrunkenLosers = {
   ownLength: 2358,
   unit: "words",
   publishedAt: "2026-05-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3446057/chapter-812-a-bunch-of-drunken-losers",
-  externalId: "3446057",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3446057",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3446057/chapter-812-a-bunch-of-drunken-losers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

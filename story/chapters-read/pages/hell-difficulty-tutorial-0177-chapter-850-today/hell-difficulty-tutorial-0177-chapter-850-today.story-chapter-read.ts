@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0177Chapter850Today = {
   ownLength: 2565,
   unit: "words",
   publishedAt: "2026-07-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3748196/chapter-850-today",
-  externalId: "3748196",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3748196",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3748196/chapter-850-today",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

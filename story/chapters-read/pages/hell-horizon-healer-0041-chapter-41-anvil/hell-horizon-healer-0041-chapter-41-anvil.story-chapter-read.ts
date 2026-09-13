@@ -10,9 +10,13 @@ export const hellHorizonHealer0041Chapter41Anvil = {
   ownLength: 1694,
   unit: "words",
   publishedAt: "2026-08-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3835660/chapter-41-anvil",
-  externalId: "3835660",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3835660",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3835660/chapter-41-anvil",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

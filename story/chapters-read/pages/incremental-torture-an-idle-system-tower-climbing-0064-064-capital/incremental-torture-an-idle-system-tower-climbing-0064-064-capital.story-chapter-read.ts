@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0064064Capital = {
   ownLength: 1891,
   unit: "words",
   publishedAt: "2024-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1700278/064-capital",
-  externalId: "1700278",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1700278",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1700278/064-capital",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

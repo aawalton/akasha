@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0044044AnImpossibleTrial
   ownLength: 2139,
   unit: "words",
   publishedAt: "2024-05-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1646081/044-an-impossible-trial",
-  externalId: "1646081",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1646081",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1646081/044-an-impossible-trial",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0199Chapter871ProprietarySomething = {
   ownLength: 2672,
   unit: "words",
   publishedAt: "2026-08-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3887346/chapter-871-proprietary-something",
-  externalId: "3887346",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3887346",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3887346/chapter-871-proprietary-something",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

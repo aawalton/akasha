@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0012012SteadyProgress = 
   ownLength: 2354,
   unit: "words",
   publishedAt: "2024-04-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1588694/012-steady-progress",
-  externalId: "1588694",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1588694",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1588694/012-steady-progress",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

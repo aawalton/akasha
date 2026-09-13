@@ -7,12 +7,16 @@ export const hellHoundEvolutionLitrpg0090NewStoryAnnouncementWanderingMage = {
   position: 90,
   publishedAt: "2026-09-09",
   unit: "words",
-  externalId: "3934487",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3934487",
+      externalLink:
+        "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3934487/new-story-announcement-wandering-mage",
+    },
+  ],
   title: "New Story Announcement! - Wandering Mage",
   story: "story-read/hell-hound-evolution-litrpg",
   ownLength: 264,
-  externalLink:
-    "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3934487/new-story-announcement-wandering-mage",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0078078RegainingGround =
   ownLength: 2066,
   unit: "words",
   publishedAt: "2024-08-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1745679/078-regaining-ground",
-  externalId: "1745679",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1745679",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1745679/078-regaining-ground",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

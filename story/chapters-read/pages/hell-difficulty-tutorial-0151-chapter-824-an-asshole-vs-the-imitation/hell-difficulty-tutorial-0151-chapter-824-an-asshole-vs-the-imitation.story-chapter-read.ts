@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0151Chapter824AnAssholeVsTheImitation = {
   ownLength: 2298,
   unit: "words",
   publishedAt: "2026-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3521595/chapter-824-an-asshole-vs-the-imitation",
-  externalId: "3521595",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3521595",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3521595/chapter-824-an-asshole-vs-the-imitation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

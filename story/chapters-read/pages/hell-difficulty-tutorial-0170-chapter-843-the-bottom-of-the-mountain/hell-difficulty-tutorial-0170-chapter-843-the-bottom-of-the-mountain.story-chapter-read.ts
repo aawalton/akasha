@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0170Chapter843TheBottomOfTheMountain = {
   ownLength: 2232,
   unit: "words",
   publishedAt: "2026-07-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3708209/chapter-843-the-bottom-of-the-mountain",
-  externalId: "3708209",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3708209",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3708209/chapter-843-the-bottom-of-the-mountain",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

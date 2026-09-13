@@ -10,9 +10,13 @@ export const hellHorizonHealer0011Chapter11PeaceOrTheCalmBeforeTheStorm = {
   ownLength: 1805,
   unit: "words",
   publishedAt: "2026-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3521832/chapter-11-peace-or-the-calm-before-the-storm",
-  externalId: "3521832",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3521832",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3521832/chapter-11-peace-or-the-calm-before-the-storm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -7,12 +7,16 @@ export const hellDifficultyTutorial0207Chapter879ITotallyForgotAbout = {
   position: 207,
   publishedAt: "2026-09-09",
   unit: "words",
-  externalId: "3936687",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3936687",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3936687/chapter-879-i-totally-forgot-about",
+    },
+  ],
   title: "Chapter 879 - I totally forgot about",
   story: "story-read/hell-difficulty-tutorial",
   ownLength: 2435,
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3936687/chapter-879-i-totally-forgot-about",
   prose: "txt",
 } as const satisfies StoryChapterRead

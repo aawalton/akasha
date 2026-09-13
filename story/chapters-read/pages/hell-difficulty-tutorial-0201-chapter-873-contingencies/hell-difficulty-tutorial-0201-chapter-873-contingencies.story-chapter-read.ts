@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0201Chapter873Contingencies = {
   ownLength: 2212,
   unit: "words",
   publishedAt: "2026-09-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3897672/chapter-873-contingencies",
-  externalId: "3897672",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3897672",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3897672/chapter-873-contingencies",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

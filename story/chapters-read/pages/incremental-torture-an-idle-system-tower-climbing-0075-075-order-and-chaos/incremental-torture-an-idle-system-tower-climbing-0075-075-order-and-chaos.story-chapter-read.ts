@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0075075OrderAndChaos = {
   ownLength: 1944,
   unit: "words",
   publishedAt: "2024-07-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1732811/075-order-and-chaos",
-  externalId: "1732811",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1732811",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1732811/075-order-and-chaos",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

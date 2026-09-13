@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0001001ScaredAndAlone = 
   ownLength: 2266,
   unit: "words",
   publishedAt: "2024-03-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1555189/001-scared-and-alone",
-  externalId: "1555189",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1555189",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1555189/001-scared-and-alone",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellHorizonHealer0027Chapter27FallenApe = {
   ownLength: 1526,
   unit: "words",
   publishedAt: "2026-06-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3613641/chapter-27-fallen-ape",
-  externalId: "3613641",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3613641",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3613641/chapter-27-fallen-ape",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0129Chapter803NotABadRun = {
   ownLength: 2129,
   unit: "words",
   publishedAt: "2026-05-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3388136/chapter-803-not-a-bad-run",
-  externalId: "3388136",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3388136",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3388136/chapter-803-not-a-bad-run",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

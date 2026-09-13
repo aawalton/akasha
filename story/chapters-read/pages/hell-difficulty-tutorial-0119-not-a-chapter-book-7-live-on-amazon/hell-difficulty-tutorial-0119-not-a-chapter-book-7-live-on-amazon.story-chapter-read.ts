@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0119NotAChapterBook7LiveOnAmazon = {
   ownLength: 319,
   unit: "words",
   publishedAt: "2026-04-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3278155/not-a-chapter-book-7-live-on-amazon",
-  externalId: "3278155",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3278155",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3278155/not-a-chapter-book-7-live-on-amazon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

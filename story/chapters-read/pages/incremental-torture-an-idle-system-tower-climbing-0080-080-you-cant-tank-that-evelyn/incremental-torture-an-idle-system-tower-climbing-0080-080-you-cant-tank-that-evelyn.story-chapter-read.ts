@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0080080YouCantTankThatEv
   ownLength: 1601,
   unit: "words",
   publishedAt: "2024-08-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1759515/080-you-cant-tank-that-evelyn",
-  externalId: "1759515",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1759515",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1759515/080-you-cant-tank-that-evelyn",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

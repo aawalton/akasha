@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0079079AnchorOfTheWorld 
   ownLength: 1979,
   unit: "words",
   publishedAt: "2024-08-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1752642/079-anchor-of-the-world",
-  externalId: "1752642",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1752642",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1752642/079-anchor-of-the-world",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0185Chapter858WhyWouldThatCrazyAssholeDoThat 
   ownLength: 2253,
   unit: "words",
   publishedAt: "2026-08-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3801639/chapter-858-why-would-that-crazy-asshole-do-that",
-  externalId: "3801639",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3801639",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3801639/chapter-858-why-would-that-crazy-asshole-do-that",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

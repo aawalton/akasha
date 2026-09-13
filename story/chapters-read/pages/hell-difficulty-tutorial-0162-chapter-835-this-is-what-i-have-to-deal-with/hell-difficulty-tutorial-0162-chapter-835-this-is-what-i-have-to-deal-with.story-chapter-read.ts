@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0162Chapter835ThisIsWhatIHaveToDealWith = {
   ownLength: 3058,
   unit: "words",
   publishedAt: "2026-06-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3591075/chapter-835-this-is-what-i-have-to-deal-with",
-  externalId: "3591075",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3591075",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3591075/chapter-835-this-is-what-i-have-to-deal-with",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

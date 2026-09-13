@@ -10,9 +10,13 @@ export const incrementalTortureAnIdleSystemTowerClimbing0020020ClashOfTheTitans 
   ownLength: 2217,
   unit: "words",
   publishedAt: "2024-04-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1601988/020-clash-of-the-titans",
-  externalId: "1601988",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1601988",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1601988/020-clash-of-the-titans",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
