@@ -6,10 +6,19 @@ export const inventoryRuleMatcherExclude = {
   slug: "inventory-rule-matcher-exclude",
   definition: "which matched items are set aside, and which already lie where the rule sends them",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
+      statement: "Where a rule sends an item is read off that rule's action and destination.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An item already at its destination is marked rather than moved.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An affected item carries the item, where it lies, and whether it is there.",
     },
     {
       invariantKind: "departure",
