@@ -368,6 +368,12 @@ export function valuedAt(given: string | Reading, pageTypeSlug: string, slug: st
   return { path: listed.path, value }
 }
 
+export function slugFoldersOf(given: string | Reading, pageTypeSlug: string): readonly string[] {
+  return answered(given, ROOT, `where the \`${pageTypeSlug}\` slugs are filed`, (reading) =>
+    slugFolders(reading, pageTypeSlug).map((at) => join(INDEX_AT, at))
+  )
+}
+
 export function slugsOfType(given: string | Reading, pageTypeSlug: string): readonly string[] {
   return answered(given, ROOT, `which slugs the \`${pageTypeSlug}\` pages carry`, (reading) => {
     const found = new Set<string>()

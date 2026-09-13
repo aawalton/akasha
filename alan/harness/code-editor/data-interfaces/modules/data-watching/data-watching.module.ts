@@ -50,15 +50,27 @@ export const dataWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "A picture built out of the index says so rather than naming a file in the index.",
+      statement: "A picture states the page types that picture draws.",
     },
     {
       invariantKind: "departure",
-      statement: "Such a picture is taken again on any event under the index.",
+      statement: "A picture is taken again where the index files the slugs of one of those types.",
     },
     {
       invariantKind: "departure",
-      statement: "The index is followed for those events rather than read at each event.",
+      statement: "A page coming into being, going, or being renamed is what writes there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Where a page type's slugs are filed is asked of the index rather than spelled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Those folders are followed one picture at a time rather than across pictures.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No folder the repository leaves untracked is followed for such an event.",
     },
     {
       invariantKind: "gap",

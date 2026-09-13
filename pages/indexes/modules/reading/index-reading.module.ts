@@ -35,6 +35,14 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
+      statement: "Those folders are answered to a caller wanting to watch where a type is filed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder answered that way is a path under the repository root.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A directory listed grows with that type and not with the pages.",
     },
     {
