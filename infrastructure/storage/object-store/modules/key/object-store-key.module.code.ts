@@ -62,11 +62,3 @@ export function hlsSegmentObjectKey(
 ): string {
   return `${hlsSegmentPrefix(pageId, opts)}${segmentName}`
 }
-
-export function voiceReferenceObjectKey(pageId: string): string {
-  return `persona-voices/${pageId}.reference.wav`
-}
-
-export function voiceCentroidObjectKey(pageId: string): string {
-  return `persona-voices/${pageId}.centroid.json`
-}
