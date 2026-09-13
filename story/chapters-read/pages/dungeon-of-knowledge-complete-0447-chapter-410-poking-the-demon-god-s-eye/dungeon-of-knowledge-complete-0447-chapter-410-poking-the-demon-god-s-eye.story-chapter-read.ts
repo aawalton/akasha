@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0447Chapter410PokingTheDemonGodSEye = {
   unit: "words",
   completedAt: "2026-06-29T20:27:17.264Z",
   publishedAt: "2025-10-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2678314/chapter-410-poking-the-demon-gods-eye",
-  externalId: "2678314",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2678314",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2678314/chapter-410-poking-the-demon-gods-eye",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

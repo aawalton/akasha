@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0449Chapter412Ravager = {
   unit: "words",
   completedAt: "2026-06-29T20:27:21.509Z",
   publishedAt: "2025-10-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2683461/chapter-412-ravager",
-  externalId: "2683461",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2683461",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2683461/chapter-412-ravager",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

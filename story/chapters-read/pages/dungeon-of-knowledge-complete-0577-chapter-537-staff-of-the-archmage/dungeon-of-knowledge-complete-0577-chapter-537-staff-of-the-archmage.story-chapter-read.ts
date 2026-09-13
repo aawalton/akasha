@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0577Chapter537StaffOfTheArchmage = {
   unit: "words",
   completedAt: "2026-06-29T20:31:59.401Z",
   publishedAt: "2026-02-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3053694/chapter-537-staff-of-the-archmage",
-  externalId: "3053694",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3053694",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3053694/chapter-537-staff-of-the-archmage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

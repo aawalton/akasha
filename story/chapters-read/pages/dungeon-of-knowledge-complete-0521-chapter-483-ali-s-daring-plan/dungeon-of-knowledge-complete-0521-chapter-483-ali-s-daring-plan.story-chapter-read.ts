@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0521Chapter483AliSDaringPlan = {
   unit: "words",
   completedAt: "2026-06-29T20:29:56.342Z",
   publishedAt: "2025-12-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2870070/chapter-483-alis-daring-plan",
-  externalId: "2870070",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2870070",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2870070/chapter-483-alis-daring-plan",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

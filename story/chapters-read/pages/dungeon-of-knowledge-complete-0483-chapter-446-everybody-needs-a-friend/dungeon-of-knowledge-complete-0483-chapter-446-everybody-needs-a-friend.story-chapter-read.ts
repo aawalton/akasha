@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0483Chapter446EverybodyNeedsAFriend = {
   unit: "words",
   completedAt: "2026-06-29T20:28:35.179Z",
   publishedAt: "2025-11-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2771813/chapter-446-everybody-needs-a-friend",
-  externalId: "2771813",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2771813",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2771813/chapter-446-everybody-needs-a-friend",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0431Chapter394AMotherSWoes = {
   unit: "words",
   completedAt: "2026-06-29T20:26:38.429Z",
   publishedAt: "2025-09-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2637869/chapter-394-a-mothers-woes",
-  externalId: "2637869",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2637869",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2637869/chapter-394-a-mothers-woes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

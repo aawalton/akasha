@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0360Chapter323ForgingRaidGroupsPart3 = {
   unit: "words",
   completedAt: "2026-06-29T20:22:47.055Z",
   publishedAt: "2025-07-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2467959/chapter-323-forging-raid-groups-part-3",
-  externalId: "2467959",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2467959",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2467959/chapter-323-forging-raid-groups-part-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

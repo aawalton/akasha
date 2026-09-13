@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0372Chapter335CurseProliferation = {
   unit: "words",
   completedAt: "2026-06-29T20:23:13.061Z",
   publishedAt: "2025-08-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2488707/chapter-335-curse-proliferation",
-  externalId: "2488707",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2488707",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2488707/chapter-335-curse-proliferation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

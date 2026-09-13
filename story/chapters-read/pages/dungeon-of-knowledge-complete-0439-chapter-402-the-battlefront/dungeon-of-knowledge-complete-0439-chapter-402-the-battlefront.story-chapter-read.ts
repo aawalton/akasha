@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0439Chapter402TheBattlefront = {
   unit: "words",
   completedAt: "2026-06-29T20:26:55.329Z",
   publishedAt: "2025-10-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2658250/chapter-402-the-battlefront",
-  externalId: "2658250",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2658250",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2658250/chapter-402-the-battlefront",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

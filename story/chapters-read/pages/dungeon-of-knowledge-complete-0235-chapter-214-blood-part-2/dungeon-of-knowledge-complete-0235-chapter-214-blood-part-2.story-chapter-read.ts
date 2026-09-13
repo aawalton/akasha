@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0235Chapter214BloodPart2 = {
   unit: "words",
   completedAt: "2026-06-29T20:19:07.959Z",
   publishedAt: "2025-03-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2145541/chapter-214-blood-part-2",
-  externalId: "2145541",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2145541",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2145541/chapter-214-blood-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

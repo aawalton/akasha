@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0330Chapter295ADeftTwistOfMana = {
   unit: "words",
   completedAt: "2026-06-29T20:22:30.958Z",
   publishedAt: "2025-06-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2394602/chapter-295-a-deft-twist-of-mana",
-  externalId: "2394602",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2394602",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2394602/chapter-295-a-deft-twist-of-mana",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

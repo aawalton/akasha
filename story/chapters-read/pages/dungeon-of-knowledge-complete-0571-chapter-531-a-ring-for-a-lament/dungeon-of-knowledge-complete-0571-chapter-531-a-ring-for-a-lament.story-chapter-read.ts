@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0571Chapter531ARingForALament = {
   unit: "words",
   completedAt: "2026-06-29T20:31:45.522Z",
   publishedAt: "2026-02-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3024989/chapter-531-a-ring-for-a-lament",
-  externalId: "3024989",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3024989",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3024989/chapter-531-a-ring-for-a-lament",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

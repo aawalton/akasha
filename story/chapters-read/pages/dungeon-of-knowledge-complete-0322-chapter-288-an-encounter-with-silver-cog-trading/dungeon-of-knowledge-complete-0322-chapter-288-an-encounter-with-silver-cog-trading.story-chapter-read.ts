@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0322Chapter288AnEncounterWithSilverCogTra
   unit: "words",
   completedAt: "2026-06-29T20:22:14.149Z",
   publishedAt: "2025-06-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2376494/chapter-288-an-encounter-with-silver-cog-trading",
-  externalId: "2376494",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2376494",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2376494/chapter-288-an-encounter-with-silver-cog-trading",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

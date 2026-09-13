@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0333Chapter298TheElementalShapeshifter = 
   unit: "words",
   completedAt: "2026-06-29T20:22:37.479Z",
   publishedAt: "2025-07-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2403160/chapter-298-the-elemental-shapeshifter",
-  externalId: "2403160",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2403160",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2403160/chapter-298-the-elemental-shapeshifter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

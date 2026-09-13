@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0415Chapter378ATattooForNaia = {
   unit: "words",
   completedAt: "2026-06-29T20:26:04.857Z",
   publishedAt: "2025-09-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2602036/chapter-378-a-tattoo-for-naia",
-  externalId: "2602036",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2602036",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2602036/chapter-378-a-tattoo-for-naia",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

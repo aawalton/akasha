@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0535Chapter495TheLichSEye = {
   unit: "words",
   completedAt: "2026-06-29T20:30:26.629Z",
   publishedAt: "2026-01-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2908241/chapter-495-the-lichs-eye",
-  externalId: "2908241",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2908241",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2908241/chapter-495-the-lichs-eye",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

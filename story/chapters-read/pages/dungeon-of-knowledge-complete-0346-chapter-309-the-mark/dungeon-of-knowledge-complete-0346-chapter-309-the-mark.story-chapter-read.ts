@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0346Chapter309TheMark = {
   unit: "words",
   completedAt: "2026-06-29T20:22:17.754Z",
   publishedAt: "2025-07-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2431789/chapter-309-the-mark",
-  externalId: "2431789",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2431789",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2431789/chapter-309-the-mark",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0298Chapter266AbundantHealing = {
   unit: "words",
   completedAt: "2026-06-29T20:21:22.192Z",
   publishedAt: "2025-06-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2324377/chapter-266-abundant-healing",
-  externalId: "2324377",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2324377",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2324377/chapter-266-abundant-healing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

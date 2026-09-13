@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0363Chapter326RemoteRaiding = {
   unit: "words",
   completedAt: "2026-06-29T20:22:53.609Z",
   publishedAt: "2025-07-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2472839/chapter-326-remote-raiding",
-  externalId: "2472839",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2472839",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2472839/chapter-326-remote-raiding",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

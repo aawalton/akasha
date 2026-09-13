@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0581Chapter541CelestialRelicOfABygoneAge 
   unit: "words",
   completedAt: "2026-06-29T20:32:08.277Z",
   publishedAt: "2026-02-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3067987/chapter-541-celestial-relic-of-a-bygone-age",
-  externalId: "3067987",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3067987",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3067987/chapter-541-celestial-relic-of-a-bygone-age",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

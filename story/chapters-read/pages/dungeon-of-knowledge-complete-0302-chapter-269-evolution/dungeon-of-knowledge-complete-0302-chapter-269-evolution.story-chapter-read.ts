@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0302Chapter269Evolution = {
   unit: "words",
   completedAt: "2026-06-29T20:21:30.607Z",
   publishedAt: "2025-06-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2332526/chapter-269-evolution",
-  externalId: "2332526",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2332526",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2332526/chapter-269-evolution",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

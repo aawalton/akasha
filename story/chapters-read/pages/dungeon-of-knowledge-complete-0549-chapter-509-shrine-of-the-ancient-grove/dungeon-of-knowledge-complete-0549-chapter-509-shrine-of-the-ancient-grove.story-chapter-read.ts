@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0549Chapter509ShrineOfTheAncientGrove = {
   unit: "words",
   completedAt: "2026-06-29T20:30:56.910Z",
   publishedAt: "2026-01-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2952118/chapter-509-shrine-of-the-ancient-grove",
-  externalId: "2952118",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2952118",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2952118/chapter-509-shrine-of-the-ancient-grove",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

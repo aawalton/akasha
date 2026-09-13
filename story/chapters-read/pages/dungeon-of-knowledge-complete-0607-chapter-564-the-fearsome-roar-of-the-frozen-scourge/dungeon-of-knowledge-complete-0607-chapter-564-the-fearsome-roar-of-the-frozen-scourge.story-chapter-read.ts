@@ -10,9 +10,13 @@ export const dungeonOfKnowledgeComplete0607Chapter564TheFearsomeRoarOfTheFrozenS
   ownLength: 2718,
   unit: "words",
   publishedAt: "2026-03-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3143707/chapter-564-the-fearsome-roar-of-the-frozen-scourge",
-  externalId: "3143707",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3143707",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3143707/chapter-564-the-fearsome-roar-of-the-frozen-scourge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

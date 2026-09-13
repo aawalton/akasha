@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0486Chapter449SlimeLord = {
   unit: "words",
   completedAt: "2026-06-29T20:28:41.587Z",
   publishedAt: "2025-11-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2780485/chapter-449-slime-lord",
-  externalId: "2780485",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2780485",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2780485/chapter-449-slime-lord",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

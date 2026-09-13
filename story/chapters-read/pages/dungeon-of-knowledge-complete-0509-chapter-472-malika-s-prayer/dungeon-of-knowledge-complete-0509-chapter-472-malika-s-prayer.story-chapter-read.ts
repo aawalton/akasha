@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0509Chapter472MalikaSPrayer = {
   unit: "words",
   completedAt: "2026-06-29T20:29:30.988Z",
   publishedAt: "2025-12-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2838827/chapter-472-malikas-prayer",
-  externalId: "2838827",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2838827",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2838827/chapter-472-malikas-prayer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0400Chapter363SparklyInk = {
   unit: "words",
   completedAt: "2026-06-29T20:25:33.020Z",
   publishedAt: "2025-08-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2562713/chapter-363-sparkly-ink",
-  externalId: "2562713",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2562713",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2562713/chapter-363-sparkly-ink",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

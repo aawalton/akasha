@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0495Chapter458TheGuildReport = {
   unit: "words",
   completedAt: "2026-06-29T20:29:00.952Z",
   publishedAt: "2025-11-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2800532/chapter-458-the-guild-report",
-  externalId: "2800532",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2800532",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2800532/chapter-458-the-guild-report",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

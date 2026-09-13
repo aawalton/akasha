@@ -10,9 +10,13 @@ export const dungeonOfKnowledgeComplete0615Chapter571TheCounselOfTheWorldTree = 
   ownLength: 2822,
   unit: "words",
   publishedAt: "2026-03-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3165514/chapter-571-the-counsel-of-the-world-tree",
-  externalId: "3165514",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3165514",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3165514/chapter-571-the-counsel-of-the-world-tree",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

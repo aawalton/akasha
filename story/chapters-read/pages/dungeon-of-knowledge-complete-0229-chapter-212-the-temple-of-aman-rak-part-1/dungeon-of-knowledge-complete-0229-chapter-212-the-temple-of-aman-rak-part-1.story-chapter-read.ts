@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0229Chapter212TheTempleOfAmanRakPart1 = {
   unit: "words",
   completedAt: "2026-06-29T20:18:55.172Z",
   publishedAt: "2025-03-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2132133/chapter-212-the-temple-of-aman-rak-part-1",
-  externalId: "2132133",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2132133",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2132133/chapter-212-the-temple-of-aman-rak-part-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

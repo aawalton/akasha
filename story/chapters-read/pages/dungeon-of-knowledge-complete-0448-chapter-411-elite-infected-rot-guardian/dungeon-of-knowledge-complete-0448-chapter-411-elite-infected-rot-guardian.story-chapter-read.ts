@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0448Chapter411EliteInfectedRotGuardian = 
   unit: "words",
   completedAt: "2026-06-29T20:27:19.360Z",
   publishedAt: "2025-10-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2680926/chapter-411-elite-infected-rot-guardian",
-  externalId: "2680926",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2680926",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2680926/chapter-411-elite-infected-rot-guardian",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

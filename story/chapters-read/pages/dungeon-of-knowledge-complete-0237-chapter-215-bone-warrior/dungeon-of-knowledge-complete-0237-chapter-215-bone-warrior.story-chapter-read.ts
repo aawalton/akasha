@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0237Chapter215BoneWarrior = {
   unit: "words",
   completedAt: "2026-06-29T20:19:12.218Z",
   publishedAt: "2025-03-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2149990/chapter-215-bone-warrior",
-  externalId: "2149990",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2149990",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2149990/chapter-215-bone-warrior",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

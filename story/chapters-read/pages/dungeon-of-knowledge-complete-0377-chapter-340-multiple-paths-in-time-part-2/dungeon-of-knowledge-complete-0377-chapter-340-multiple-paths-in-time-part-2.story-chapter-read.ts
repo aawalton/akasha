@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0377Chapter340MultiplePathsInTimePart2 = 
   unit: "words",
   completedAt: "2026-06-29T20:23:23.397Z",
   publishedAt: "2025-08-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2502047/chapter-340-multiple-paths-in-time-part-2",
-  externalId: "2502047",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2502047",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2502047/chapter-340-multiple-paths-in-time-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

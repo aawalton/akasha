@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0525Chapter486CursedRunes = {
   unit: "words",
   completedAt: "2026-06-29T20:30:04.843Z",
   publishedAt: "2025-12-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2879277/chapter-486-cursed-runes",
-  externalId: "2879277",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2879277",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2879277/chapter-486-cursed-runes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

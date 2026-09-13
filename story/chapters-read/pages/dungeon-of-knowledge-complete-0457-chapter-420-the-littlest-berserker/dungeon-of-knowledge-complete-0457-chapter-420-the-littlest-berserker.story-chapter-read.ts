@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0457Chapter420TheLittlestBerserker = {
   unit: "words",
   completedAt: "2026-06-29T20:27:38.432Z",
   publishedAt: "2025-10-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2703820/chapter-420-the-littlest-berserker",
-  externalId: "2703820",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2703820",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2703820/chapter-420-the-littlest-berserker",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

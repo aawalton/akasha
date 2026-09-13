@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0254Chapter223GhoulishContagionPart2 = {
   unit: "words",
   completedAt: "2026-06-29T20:19:47.391Z",
   publishedAt: "2025-04-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2201156/chapter-223-ghoulish-contagion-part-2",
-  externalId: "2201156",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2201156",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2201156/chapter-223-ghoulish-contagion-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0458Chapter421MaalgarothSDemise = {
   unit: "words",
   completedAt: "2026-06-29T20:27:40.457Z",
   publishedAt: "2025-10-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2706061/chapter-421-maalgaroths-demise",
-  externalId: "2706061",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2706061",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2706061/chapter-421-maalgaroths-demise",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

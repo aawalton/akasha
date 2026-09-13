@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0275Chapter243MokFrejaSGlacialOrb = {
   unit: "words",
   completedAt: "2026-06-29T20:20:32.893Z",
   publishedAt: "2025-05-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2264604/chapter-243-mokfrejas-glacial-orb",
-  externalId: "2264604",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2264604",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2264604/chapter-243-mokfrejas-glacial-orb",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

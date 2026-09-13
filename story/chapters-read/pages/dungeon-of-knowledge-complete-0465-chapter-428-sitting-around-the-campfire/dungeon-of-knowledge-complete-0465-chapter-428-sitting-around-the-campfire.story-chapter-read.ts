@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0465Chapter428SittingAroundTheCampfire = 
   unit: "words",
   completedAt: "2026-06-29T20:27:56.440Z",
   publishedAt: "2025-11-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2725761/chapter-428-sitting-around-the-campfire",
-  externalId: "2725761",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2725761",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2725761/chapter-428-sitting-around-the-campfire",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

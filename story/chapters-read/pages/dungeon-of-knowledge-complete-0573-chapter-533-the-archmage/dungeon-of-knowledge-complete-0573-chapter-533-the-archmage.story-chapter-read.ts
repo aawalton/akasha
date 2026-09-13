@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0573Chapter533TheArchmage = {
   unit: "words",
   completedAt: "2026-06-29T20:31:50.592Z",
   publishedAt: "2026-02-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3033111/chapter-533-the-archmage",
-  externalId: "3033111",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3033111",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3033111/chapter-533-the-archmage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

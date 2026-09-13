@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0532Chapter493FrozenStormArmor = {
   unit: "words",
   completedAt: "2026-06-29T20:30:20.162Z",
   publishedAt: "2026-01-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2898352/chapter-493-frozen-storm-armor",
-  externalId: "2898352",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2898352",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2898352/chapter-493-frozen-storm-armor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

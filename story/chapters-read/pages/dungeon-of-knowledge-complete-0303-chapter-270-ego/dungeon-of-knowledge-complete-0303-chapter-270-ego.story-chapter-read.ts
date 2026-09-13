@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0303Chapter270Ego = {
   unit: "words",
   completedAt: "2026-06-29T20:21:32.843Z",
   publishedAt: "2025-06-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2335139/chapter-270-ego",
-  externalId: "2335139",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2335139",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2335139/chapter-270-ego",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

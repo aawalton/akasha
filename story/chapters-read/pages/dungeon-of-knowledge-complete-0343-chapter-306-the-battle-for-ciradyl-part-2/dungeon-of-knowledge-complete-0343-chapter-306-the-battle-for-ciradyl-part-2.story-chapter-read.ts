@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0343Chapter306TheBattleForCiradylPart2 = 
   unit: "words",
   completedAt: "2026-06-29T20:22:10.791Z",
   publishedAt: "2025-07-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2424184/chapter-306-the-battle-for-ciradyl-part-2",
-  externalId: "2424184",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2424184",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2424184/chapter-306-the-battle-for-ciradyl-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

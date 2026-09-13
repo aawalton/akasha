@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0265Chapter233InstantaneousStep = {
   unit: "words",
   completedAt: "2026-06-29T20:20:12.060Z",
   publishedAt: "2025-04-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2232917/chapter-233-instantaneous-step",
-  externalId: "2232917",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2232917",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2232917/chapter-233-instantaneous-step",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

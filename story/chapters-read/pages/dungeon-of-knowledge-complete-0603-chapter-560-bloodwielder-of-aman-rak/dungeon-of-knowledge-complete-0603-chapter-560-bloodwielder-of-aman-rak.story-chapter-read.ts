@@ -10,9 +10,13 @@ export const dungeonOfKnowledgeComplete0603Chapter560BloodwielderOfAmanRak = {
   ownLength: 4623,
   unit: "words",
   publishedAt: "2026-03-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3133016/chapter-560-bloodwielder-of-aman-rak",
-  externalId: "3133016",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3133016",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3133016/chapter-560-bloodwielder-of-aman-rak",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0321Chapter287ShrineOfTheEmberforgeMines 
   unit: "words",
   completedAt: "2026-06-29T20:22:12.127Z",
   publishedAt: "2025-06-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2374124/chapter-287-shrine-of-the-emberforge-mines",
-  externalId: "2374124",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2374124",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2374124/chapter-287-shrine-of-the-emberforge-mines",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

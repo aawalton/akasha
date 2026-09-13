@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0258Chapter226TheTempleOfContagionPart2 =
   unit: "words",
   completedAt: "2026-06-29T20:19:57.050Z",
   publishedAt: "2025-04-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2212039/chapter-226-the-temple-of-contagion-part-2",
-  externalId: "2212039",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2212039",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2212039/chapter-226-the-temple-of-contagion-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

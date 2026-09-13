@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0373Chapter336ADesperatePleaForHelp = {
   unit: "words",
   completedAt: "2026-06-29T20:23:15.128Z",
   publishedAt: "2025-08-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2488719/chapter-336-a-desperate-plea-for-help",
-  externalId: "2488719",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2488719",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2488719/chapter-336-a-desperate-plea-for-help",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

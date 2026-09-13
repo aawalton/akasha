@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0466Chapter429ReturnToMyrinSKeep = {
   unit: "words",
   completedAt: "2026-06-29T20:27:58.586Z",
   publishedAt: "2025-11-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2728622/chapter-429-return-to-myrins-keep",
-  externalId: "2728622",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2728622",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2728622/chapter-429-return-to-myrins-keep",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

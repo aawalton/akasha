@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0582Chapter542TheFlightOfTheDireBear = {
   unit: "words",
   completedAt: "2026-06-29T20:32:10.363Z",
   publishedAt: "2026-02-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3071226/chapter-542-the-flight-of-the-dire-bear",
-  externalId: "3071226",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3071226",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3071226/chapter-542-the-flight-of-the-dire-bear",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

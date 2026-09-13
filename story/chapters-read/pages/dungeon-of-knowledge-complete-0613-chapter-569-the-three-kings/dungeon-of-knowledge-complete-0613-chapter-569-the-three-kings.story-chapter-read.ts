@@ -10,9 +10,13 @@ export const dungeonOfKnowledgeComplete0613Chapter569TheThreeKings = {
   ownLength: 3957,
   unit: "words",
   publishedAt: "2026-03-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3161907/chapter-569-the-three-kings",
-  externalId: "3161907",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3161907",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3161907/chapter-569-the-three-kings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

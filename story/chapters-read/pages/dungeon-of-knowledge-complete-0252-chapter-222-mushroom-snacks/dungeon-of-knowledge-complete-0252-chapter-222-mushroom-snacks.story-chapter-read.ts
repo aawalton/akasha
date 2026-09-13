@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0252Chapter222MushroomSnacks = {
   unit: "words",
   completedAt: "2026-06-29T20:19:43.236Z",
   publishedAt: "2025-04-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2195848/chapter-222-mushroom-snacks",
-  externalId: "2195848",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2195848",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2195848/chapter-222-mushroom-snacks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

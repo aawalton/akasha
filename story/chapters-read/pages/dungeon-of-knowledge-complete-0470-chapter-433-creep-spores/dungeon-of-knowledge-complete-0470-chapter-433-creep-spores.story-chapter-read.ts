@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0470Chapter433CreepSpores = {
   unit: "words",
   completedAt: "2026-06-29T20:28:07.621Z",
   publishedAt: "2025-11-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2740393/chapter-433-creep-spores",
-  externalId: "2740393",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2740393",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2740393/chapter-433-creep-spores",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

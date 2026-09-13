@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0263Chapter231IceInTheJungle = {
   unit: "words",
   completedAt: "2026-06-29T20:20:07.746Z",
   publishedAt: "2025-04-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2227392/chapter-231-ice-in-the-jungle",
-  externalId: "2227392",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2227392",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2227392/chapter-231-ice-in-the-jungle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

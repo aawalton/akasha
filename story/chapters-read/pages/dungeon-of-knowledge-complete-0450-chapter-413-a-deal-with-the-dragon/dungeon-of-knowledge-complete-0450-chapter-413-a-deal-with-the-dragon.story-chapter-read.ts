@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0450Chapter413ADealWithTheDragon = {
   unit: "words",
   completedAt: "2026-06-29T20:27:23.668Z",
   publishedAt: "2025-10-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2686203/chapter-413-a-deal-with-the-dragon",
-  externalId: "2686203",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2686203",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2686203/chapter-413-a-deal-with-the-dragon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

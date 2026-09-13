@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0301MapNewDaria = {
   unit: "words",
   completedAt: "2026-06-29T20:21:28.157Z",
   publishedAt: "2025-06-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2332514/map-new-daria",
-  externalId: "2332514",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2332514",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2332514/map-new-daria",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

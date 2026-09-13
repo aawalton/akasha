@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0295Chapter263SoulNet = {
   unit: "words",
   completedAt: "2026-06-29T20:21:15.785Z",
   publishedAt: "2025-05-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2314439/chapter-263-soul-net",
-  externalId: "2314439",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2314439",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2314439/chapter-263-soul-net",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

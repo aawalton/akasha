@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0270Chapter238MokFrejaIceQueenPart2 = {
   unit: "words",
   completedAt: "2026-06-29T20:20:22.450Z",
   publishedAt: "2025-05-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2249092/chapter-238-mokfreja-ice-queen-part-2",
-  externalId: "2249092",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2249092",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2249092/chapter-238-mokfreja-ice-queen-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

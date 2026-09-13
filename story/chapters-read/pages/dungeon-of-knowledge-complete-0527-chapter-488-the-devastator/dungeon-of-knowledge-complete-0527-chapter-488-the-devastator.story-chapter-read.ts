@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0527Chapter488TheDevastator = {
   unit: "words",
   completedAt: "2026-06-29T20:30:09.430Z",
   publishedAt: "2025-12-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2884790/chapter-488-the-devastator",
-  externalId: "2884790",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2884790",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2884790/chapter-488-the-devastator",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

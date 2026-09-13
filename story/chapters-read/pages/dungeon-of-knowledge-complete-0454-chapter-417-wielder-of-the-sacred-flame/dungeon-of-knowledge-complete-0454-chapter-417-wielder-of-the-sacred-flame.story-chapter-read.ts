@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0454Chapter417WielderOfTheSacredFlame = {
   unit: "words",
   completedAt: "2026-06-29T20:27:32.369Z",
   publishedAt: "2025-10-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2696214/chapter-417-wielder-of-the-sacred-flame",
-  externalId: "2696214",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2696214",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2696214/chapter-417-wielder-of-the-sacred-flame",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

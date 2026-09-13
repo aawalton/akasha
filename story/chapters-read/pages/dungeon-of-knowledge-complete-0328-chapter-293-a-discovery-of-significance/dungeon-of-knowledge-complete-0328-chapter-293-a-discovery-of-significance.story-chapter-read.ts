@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0328Chapter293ADiscoveryOfSignificance = 
   unit: "words",
   completedAt: "2026-06-29T20:22:27.012Z",
   publishedAt: "2025-06-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2389555/chapter-293-a-discovery-of-significance",
-  externalId: "2389555",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2389555",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2389555/chapter-293-a-discovery-of-significance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

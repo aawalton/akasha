@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0514Chapter477FashionShopping = {
   unit: "words",
   completedAt: "2026-06-29T20:29:41.546Z",
   publishedAt: "2025-12-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2853131/chapter-477-fashion-shopping",
-  externalId: "2853131",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2853131",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2853131/chapter-477-fashion-shopping",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

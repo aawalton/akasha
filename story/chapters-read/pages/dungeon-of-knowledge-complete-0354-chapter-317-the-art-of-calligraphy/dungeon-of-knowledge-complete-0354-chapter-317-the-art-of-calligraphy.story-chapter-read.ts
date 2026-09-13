@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0354Chapter317TheArtOfCalligraphy = {
   unit: "words",
   completedAt: "2026-06-29T20:22:34.858Z",
   publishedAt: "2025-07-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2451426/chapter-317-the-art-of-calligraphy",
-  externalId: "2451426",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2451426",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2451426/chapter-317-the-art-of-calligraphy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

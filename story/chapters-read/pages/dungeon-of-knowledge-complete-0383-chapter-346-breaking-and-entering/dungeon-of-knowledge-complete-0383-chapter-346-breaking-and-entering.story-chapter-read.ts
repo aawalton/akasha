@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0383Chapter346BreakingAndEntering = {
   unit: "words",
   completedAt: "2026-06-29T20:24:55.812Z",
   publishedAt: "2025-08-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2517676/chapter-346-breaking-and-entering",
-  externalId: "2517676",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2517676",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2517676/chapter-346-breaking-and-entering",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

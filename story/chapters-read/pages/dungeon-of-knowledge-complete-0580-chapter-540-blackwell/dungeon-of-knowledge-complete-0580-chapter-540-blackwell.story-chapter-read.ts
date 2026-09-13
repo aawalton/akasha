@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0580Chapter540Blackwell = {
   unit: "words",
   completedAt: "2026-06-29T20:32:05.675Z",
   publishedAt: "2026-02-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3063043/chapter-540-blackwell",
-  externalId: "3063043",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3063043",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3063043/chapter-540-blackwell",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

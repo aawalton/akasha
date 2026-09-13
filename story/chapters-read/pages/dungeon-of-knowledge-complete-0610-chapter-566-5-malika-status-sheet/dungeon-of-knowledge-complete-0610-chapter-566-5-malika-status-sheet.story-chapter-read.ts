@@ -10,9 +10,13 @@ export const dungeonOfKnowledgeComplete0610Chapter5665MalikaStatusSheet = {
   ownLength: 1428,
   unit: "words",
   publishedAt: "2026-03-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3151191/chapter-5665-malika-status-sheet",
-  externalId: "3151191",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3151191",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3151191/chapter-5665-malika-status-sheet",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

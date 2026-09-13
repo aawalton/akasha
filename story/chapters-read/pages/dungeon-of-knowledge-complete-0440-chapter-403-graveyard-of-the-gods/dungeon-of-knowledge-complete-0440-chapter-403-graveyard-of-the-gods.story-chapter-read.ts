@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0440Chapter403GraveyardOfTheGods = {
   unit: "words",
   completedAt: "2026-06-29T20:26:57.523Z",
   publishedAt: "2025-10-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2660733/chapter-403-graveyard-of-the-gods",
-  externalId: "2660733",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2660733",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2660733/chapter-403-graveyard-of-the-gods",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

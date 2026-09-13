@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0396Chapter359GuildPlans = {
   unit: "words",
   completedAt: "2026-06-29T20:25:23.778Z",
   publishedAt: "2025-08-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2552375/chapter-359-guild-plans",
-  externalId: "2552375",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2552375",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2552375/chapter-359-guild-plans",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

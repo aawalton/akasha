@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0453Chapter416TheWisdomInAGoodPairOfBoots
   unit: "words",
   completedAt: "2026-06-29T20:27:30.168Z",
   publishedAt: "2025-10-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2693711/chapter-416-the-wisdom-in-a-good-pair-of-boots",
-  externalId: "2693711",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2693711",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2693711/chapter-416-the-wisdom-in-a-good-pair-of-boots",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

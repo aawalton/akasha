@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0299Chapter267TheFallOfAmanRak = {
   unit: "words",
   completedAt: "2026-06-29T20:21:24.285Z",
   publishedAt: "2025-06-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2327216/chapter-267-the-fall-of-aman-rak",
-  externalId: "2327216",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2327216",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2327216/chapter-267-the-fall-of-aman-rak",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

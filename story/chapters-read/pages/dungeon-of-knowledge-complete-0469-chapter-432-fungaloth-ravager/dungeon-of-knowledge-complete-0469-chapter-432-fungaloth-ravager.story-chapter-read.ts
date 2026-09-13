@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0469Chapter432FungalothRavager = {
   unit: "words",
   completedAt: "2026-06-29T20:28:04.973Z",
   publishedAt: "2025-11-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2737607/chapter-432-fungaloth-ravager",
-  externalId: "2737607",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2737607",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2737607/chapter-432-fungaloth-ravager",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0575Chapter535ToPeerIntoTheEldritchNight 
   unit: "words",
   completedAt: "2026-06-29T20:31:55.155Z",
   publishedAt: "2026-02-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3039928/chapter-535-to-peer-into-the-eldritch-night",
-  externalId: "3039928",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3039928",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3039928/chapter-535-to-peer-into-the-eldritch-night",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0476Chapter439TheOverwhelmingTidesOfDeath
   unit: "words",
   completedAt: "2026-06-29T20:28:19.988Z",
   publishedAt: "2025-11-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2754677/chapter-439-the-overwhelming-tides-of-death",
-  externalId: "2754677",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2754677",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2754677/chapter-439-the-overwhelming-tides-of-death",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

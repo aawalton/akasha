@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0423Chapter386ThePathOfTheElderPart1 = {
   unit: "words",
   completedAt: "2026-06-29T20:26:22.149Z",
   publishedAt: "2025-09-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2617485/chapter-386-the-path-of-the-elder-part-1",
-  externalId: "2617485",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2617485",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2617485/chapter-386-the-path-of-the-elder-part-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const dungeonOfKnowledgeComplete0600Chapter558ThirdTierBalance = {
   ownLength: 2320,
   unit: "words",
   publishedAt: "2026-03-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3126625/chapter-558-third-tier-balance",
-  externalId: "3126625",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3126625",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3126625/chapter-558-third-tier-balance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

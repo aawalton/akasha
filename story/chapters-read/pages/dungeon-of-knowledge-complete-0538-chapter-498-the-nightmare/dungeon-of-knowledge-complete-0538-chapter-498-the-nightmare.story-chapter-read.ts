@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0538Chapter498TheNightmare = {
   unit: "words",
   completedAt: "2026-06-29T20:30:33.123Z",
   publishedAt: "2026-01-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2917332/chapter-498-the-nightmare",
-  externalId: "2917332",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2917332",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2917332/chapter-498-the-nightmare",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

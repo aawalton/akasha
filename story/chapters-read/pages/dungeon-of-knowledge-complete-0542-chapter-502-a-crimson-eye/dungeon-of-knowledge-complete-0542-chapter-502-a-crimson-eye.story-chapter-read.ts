@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0542Chapter502ACrimsonEye = {
   unit: "words",
   completedAt: "2026-06-29T20:30:42.003Z",
   publishedAt: "2026-01-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2929994/chapter-502-a-crimson-eye",
-  externalId: "2929994",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2929994",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2929994/chapter-502-a-crimson-eye",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

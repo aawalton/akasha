@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0478Chapter441ARingInTheForest = {
   unit: "words",
   completedAt: "2026-06-29T20:28:24.535Z",
   publishedAt: "2025-11-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2757601/chapter-441-a-ring-in-the-forest",
-  externalId: "2757601",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2757601",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2757601/chapter-441-a-ring-in-the-forest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

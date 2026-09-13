@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0260Chapter228TheLeatherworkerPart2 = {
   unit: "words",
   completedAt: "2026-06-29T20:20:01.102Z",
   publishedAt: "2025-04-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2216955/chapter-228-the-leatherworker-part-2",
-  externalId: "2216955",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2216955",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2216955/chapter-228-the-leatherworker-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

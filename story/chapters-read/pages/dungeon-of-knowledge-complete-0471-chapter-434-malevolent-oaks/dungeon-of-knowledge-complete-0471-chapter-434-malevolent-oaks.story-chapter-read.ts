@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0471Chapter434MalevolentOaks = {
   unit: "words",
   completedAt: "2026-06-29T20:28:09.728Z",
   publishedAt: "2025-11-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2743327/chapter-434-malevolent-oaks",
-  externalId: "2743327",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2743327",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2743327/chapter-434-malevolent-oaks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

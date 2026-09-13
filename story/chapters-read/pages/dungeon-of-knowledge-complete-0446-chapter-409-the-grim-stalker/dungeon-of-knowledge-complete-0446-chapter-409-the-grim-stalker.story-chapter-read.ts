@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0446Chapter409TheGrimStalker = {
   unit: "words",
   completedAt: "2026-06-29T20:27:15.165Z",
   publishedAt: "2025-10-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2675855/chapter-409-the-grim-stalker",
-  externalId: "2675855",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2675855",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2675855/chapter-409-the-grim-stalker",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

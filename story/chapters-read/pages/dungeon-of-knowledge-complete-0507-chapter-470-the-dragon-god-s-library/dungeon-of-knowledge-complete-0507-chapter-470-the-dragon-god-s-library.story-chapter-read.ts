@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0507Chapter470TheDragonGodSLibrary = {
   unit: "words",
   completedAt: "2026-06-29T20:29:26.660Z",
   publishedAt: "2025-12-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2832871/chapter-470-the-dragon-gods-library",
-  externalId: "2832871",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2832871",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2832871/chapter-470-the-dragon-gods-library",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

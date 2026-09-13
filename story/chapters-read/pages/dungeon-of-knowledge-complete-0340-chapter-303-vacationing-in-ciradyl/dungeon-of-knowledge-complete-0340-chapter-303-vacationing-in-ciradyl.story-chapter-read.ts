@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0340Chapter303VacationingInCiradyl = {
   unit: "words",
   completedAt: "2026-06-29T20:22:04.852Z",
   publishedAt: "2025-07-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2416073/chapter-303-vacationing-in-ciradyl",
-  externalId: "2416073",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2416073",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2416073/chapter-303-vacationing-in-ciradyl",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

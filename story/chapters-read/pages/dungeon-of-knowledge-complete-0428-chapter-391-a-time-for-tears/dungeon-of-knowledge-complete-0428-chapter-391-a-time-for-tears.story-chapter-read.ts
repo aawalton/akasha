@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0428Chapter391ATimeForTears = {
   unit: "words",
   completedAt: "2026-06-29T20:26:32.040Z",
   publishedAt: "2025-09-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2630492/chapter-391-a-time-for-tears",
-  externalId: "2630492",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2630492",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2630492/chapter-391-a-time-for-tears",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0456Chapter419MaalgarothTheCorruptor = {
   unit: "words",
   completedAt: "2026-06-29T20:27:36.504Z",
   publishedAt: "2025-10-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2701231/chapter-419-maalgaroth-the-corruptor",
-  externalId: "2701231",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2701231",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2701231/chapter-419-maalgaroth-the-corruptor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

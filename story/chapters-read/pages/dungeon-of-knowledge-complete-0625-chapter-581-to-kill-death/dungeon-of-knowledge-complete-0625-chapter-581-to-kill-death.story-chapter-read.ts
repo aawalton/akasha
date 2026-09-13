@@ -10,9 +10,13 @@ export const dungeonOfKnowledgeComplete0625Chapter581ToKillDeath = {
   ownLength: 3532,
   unit: "words",
   publishedAt: "2026-03-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3183617/chapter-581-to-kill-death",
-  externalId: "3183617",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3183617",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3183617/chapter-581-to-kill-death",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

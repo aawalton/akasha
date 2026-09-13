@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0529Chapter490BattleShopping = {
   unit: "words",
   completedAt: "2026-06-29T20:30:13.795Z",
   publishedAt: "2025-12-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2889961/chapter-490-battle-shopping",
-  externalId: "2889961",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2889961",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2889961/chapter-490-battle-shopping",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0566Chapter526JustInTime = {
   unit: "words",
   completedAt: "2026-06-29T20:31:33.686Z",
   publishedAt: "2026-02-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3008581/chapter-526-just-in-time",
-  externalId: "3008581",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3008581",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3008581/chapter-526-just-in-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

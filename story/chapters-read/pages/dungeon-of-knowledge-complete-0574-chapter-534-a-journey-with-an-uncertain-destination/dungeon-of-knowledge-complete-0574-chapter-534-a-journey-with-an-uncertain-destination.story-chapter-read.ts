@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0574Chapter534AJourneyWithAnUncertainDest
   unit: "words",
   completedAt: "2026-06-29T20:31:52.852Z",
   publishedAt: "2026-02-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3036536/chapter-534-a-journey-with-an-uncertain-destination",
-  externalId: "3036536",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3036536",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3036536/chapter-534-a-journey-with-an-uncertain-destination",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

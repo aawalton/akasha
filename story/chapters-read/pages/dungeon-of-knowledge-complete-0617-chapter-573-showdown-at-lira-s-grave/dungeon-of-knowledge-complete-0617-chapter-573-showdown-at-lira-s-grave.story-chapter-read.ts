@@ -10,9 +10,13 @@ export const dungeonOfKnowledgeComplete0617Chapter573ShowdownAtLiraSGrave = {
   ownLength: 4044,
   unit: "words",
   publishedAt: "2026-03-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3169228/chapter-573-showdown-at-liras-grave",
-  externalId: "3169228",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3169228",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3169228/chapter-573-showdown-at-liras-grave",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0307Chapter273PerspectivesPart2 = {
   unit: "words",
   completedAt: "2026-06-29T20:21:41.271Z",
   publishedAt: "2025-06-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2339990/chapter-273-perspectives-part-2",
-  externalId: "2339990",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2339990",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2339990/chapter-273-perspectives-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

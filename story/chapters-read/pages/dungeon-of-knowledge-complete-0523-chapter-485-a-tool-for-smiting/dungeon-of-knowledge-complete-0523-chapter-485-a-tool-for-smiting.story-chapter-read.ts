@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0523Chapter485AToolForSmiting = {
   unit: "words",
   completedAt: "2026-06-29T20:30:00.373Z",
   publishedAt: "2025-12-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2876366/chapter-485-a-tool-for-smiting",
-  externalId: "2876366",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2876366",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2876366/chapter-485-a-tool-for-smiting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

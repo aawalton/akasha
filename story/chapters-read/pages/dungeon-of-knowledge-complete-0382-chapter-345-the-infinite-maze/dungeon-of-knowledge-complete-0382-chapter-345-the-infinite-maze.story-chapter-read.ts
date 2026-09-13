@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0382Chapter345TheInfiniteMaze = {
   unit: "words",
   completedAt: "2026-06-29T20:23:34.067Z",
   publishedAt: "2025-08-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2514923/chapter-345-the-infinite-maze",
-  externalId: "2514923",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2514923",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2514923/chapter-345-the-infinite-maze",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

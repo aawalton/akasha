@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0595Chapter554TheLichAwakens = {
   unit: "words",
   completedAt: "2026-06-29T20:31:12.090Z",
   publishedAt: "2026-03-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3111851/chapter-554-the-lich-awakens",
-  externalId: "3111851",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3111851",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3111851/chapter-554-the-lich-awakens",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

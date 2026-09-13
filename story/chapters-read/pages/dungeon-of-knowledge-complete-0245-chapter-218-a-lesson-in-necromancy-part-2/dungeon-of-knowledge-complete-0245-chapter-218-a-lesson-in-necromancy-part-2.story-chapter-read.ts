@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0245Chapter218ALessonInNecromancyPart2 = 
   unit: "words",
   completedAt: "2026-06-29T20:19:28.666Z",
   publishedAt: "2025-04-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2171151/chapter-218-a-lesson-in-necromancy-part-2",
-  externalId: "2171151",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2171151",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2171151/chapter-218-a-lesson-in-necromancy-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

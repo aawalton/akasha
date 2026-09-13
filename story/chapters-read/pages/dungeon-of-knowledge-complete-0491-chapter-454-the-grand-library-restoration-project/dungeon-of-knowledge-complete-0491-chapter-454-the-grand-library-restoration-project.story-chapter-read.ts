@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0491Chapter454TheGrandLibraryRestorationP
   unit: "words",
   completedAt: "2026-06-29T20:28:51.885Z",
   publishedAt: "2025-11-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2791981/chapter-454-the-grand-library-restoration-project",
-  externalId: "2791981",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2791981",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2791981/chapter-454-the-grand-library-restoration-project",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

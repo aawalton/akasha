@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0467Chapter430SylvanArcher = {
   unit: "words",
   completedAt: "2026-06-29T20:28:00.688Z",
   publishedAt: "2025-11-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2731728/chapter-430-sylvan-archer",
-  externalId: "2731728",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2731728",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2731728/chapter-430-sylvan-archer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

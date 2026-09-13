@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0314Chapter280TheCraftersConundrum = {
   unit: "words",
   completedAt: "2026-06-29T20:21:56.666Z",
   publishedAt: "2025-06-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2358420/chapter-280-the-crafters-conundrum",
-  externalId: "2358420",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2358420",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2358420/chapter-280-the-crafters-conundrum",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0498Chapter461MaalgarothVersusTheSandwyrm
   unit: "words",
   completedAt: "2026-06-29T20:29:07.787Z",
   publishedAt: "2025-12-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2808978/chapter-461-maalgaroth-versus-the-sandwyrm",
-  externalId: "2808978",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2808978",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2808978/chapter-461-maalgaroth-versus-the-sandwyrm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

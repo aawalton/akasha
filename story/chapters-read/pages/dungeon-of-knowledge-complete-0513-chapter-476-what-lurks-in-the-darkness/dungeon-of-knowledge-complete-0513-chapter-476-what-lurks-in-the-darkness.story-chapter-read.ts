@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0513Chapter476WhatLurksInTheDarkness = {
   unit: "words",
   completedAt: "2026-06-29T20:29:39.621Z",
   publishedAt: "2025-12-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2849987/chapter-476-what-lurks-in-the-darkness",
-  externalId: "2849987",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2849987",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2849987/chapter-476-what-lurks-in-the-darkness",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

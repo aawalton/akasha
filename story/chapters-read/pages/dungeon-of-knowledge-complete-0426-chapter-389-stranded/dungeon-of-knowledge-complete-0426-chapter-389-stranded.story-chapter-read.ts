@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0426Chapter389Stranded = {
   unit: "words",
   completedAt: "2026-06-29T20:26:28.136Z",
   publishedAt: "2025-09-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2625253/chapter-389-stranded",
-  externalId: "2625253",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2625253",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2625253/chapter-389-stranded",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

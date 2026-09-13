@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0567Chapter527SiegeOfTheDead = {
   unit: "words",
   completedAt: "2026-06-29T20:31:36.838Z",
   publishedAt: "2026-02-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3011838/chapter-527-siege-of-the-dead",
-  externalId: "3011838",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3011838",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3011838/chapter-527-siege-of-the-dead",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

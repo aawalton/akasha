@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0541Chapter501TheFrozenScourge = {
   unit: "words",
   completedAt: "2026-06-29T20:30:39.870Z",
   publishedAt: "2026-01-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2926541/chapter-501-the-frozen-scourge",
-  externalId: "2926541",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2926541",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2926541/chapter-501-the-frozen-scourge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

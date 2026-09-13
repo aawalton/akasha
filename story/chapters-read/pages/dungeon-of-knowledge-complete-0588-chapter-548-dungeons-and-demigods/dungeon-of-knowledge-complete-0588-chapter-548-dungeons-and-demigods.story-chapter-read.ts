@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0588Chapter548DungeonsAndDemigods = {
   unit: "words",
   completedAt: "2026-06-29T20:32:23.749Z",
   publishedAt: "2026-02-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3091175/chapter-548-dungeons-and-demigods",
-  externalId: "3091175",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3091175",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3091175/chapter-548-dungeons-and-demigods",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

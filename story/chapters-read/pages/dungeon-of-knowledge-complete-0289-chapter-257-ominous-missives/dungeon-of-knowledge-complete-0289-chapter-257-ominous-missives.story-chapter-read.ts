@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0289Chapter257OminousMissives = {
   unit: "words",
   completedAt: "2026-06-29T20:21:03.158Z",
   publishedAt: "2025-05-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2302539/chapter-257-ominous-missives",
-  externalId: "2302539",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2302539",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2302539/chapter-257-ominous-missives",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

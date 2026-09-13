@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0564Chapter524BootToTheHead = {
   unit: "words",
   completedAt: "2026-06-29T20:31:29.497Z",
   publishedAt: "2026-02-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3001686/chapter-524-boot-to-the-head",
-  externalId: "3001686",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3001686",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3001686/chapter-524-boot-to-the-head",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

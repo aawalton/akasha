@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0520Chapter482HastedLightningEnchantedSta
   unit: "words",
   completedAt: "2026-06-29T20:29:54.155Z",
   publishedAt: "2025-12-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2867311/chapter-482-hasted-lightning-enchanted-stabbing",
-  externalId: "2867311",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2867311",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2867311/chapter-482-hasted-lightning-enchanted-stabbing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

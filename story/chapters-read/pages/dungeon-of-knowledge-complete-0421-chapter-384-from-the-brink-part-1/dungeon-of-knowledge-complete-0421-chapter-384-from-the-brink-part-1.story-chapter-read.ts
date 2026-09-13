@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0421Chapter384FromTheBrinkPart1 = {
   unit: "words",
   completedAt: "2026-06-29T20:26:18.032Z",
   publishedAt: "2025-09-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2615332/chapter-384-from-the-brink-part-1",
-  externalId: "2615332",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2615332",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2615332/chapter-384-from-the-brink-part-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

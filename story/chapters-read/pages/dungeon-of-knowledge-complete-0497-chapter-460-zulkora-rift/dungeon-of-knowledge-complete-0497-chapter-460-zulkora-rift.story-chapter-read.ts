@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0497Chapter460ZulkoraRift = {
   unit: "words",
   completedAt: "2026-06-29T20:29:05.515Z",
   publishedAt: "2025-11-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2806031/chapter-460-zulkora-rift",
-  externalId: "2806031",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2806031",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2806031/chapter-460-zulkora-rift",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0435Chapter398ScionOfAzryet = {
   unit: "words",
   completedAt: "2026-06-29T20:26:46.800Z",
   publishedAt: "2025-10-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2648518/chapter-398-scion-of-azryet",
-  externalId: "2648518",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2648518",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2648518/chapter-398-scion-of-azryet",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

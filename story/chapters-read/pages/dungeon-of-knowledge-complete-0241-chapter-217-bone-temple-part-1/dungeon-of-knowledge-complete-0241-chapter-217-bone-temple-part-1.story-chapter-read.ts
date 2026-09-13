@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0241Chapter217BoneTemplePart1 = {
   unit: "words",
   completedAt: "2026-06-29T20:19:20.170Z",
   publishedAt: "2025-03-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2161334/chapter-217-bone-temple-part-1",
-  externalId: "2161334",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2161334",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2161334/chapter-217-bone-temple-part-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

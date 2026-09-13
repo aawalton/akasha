@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0493Chapter456AVisitorForHavok = {
   unit: "words",
   completedAt: "2026-06-29T20:28:56.182Z",
   publishedAt: "2025-11-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2797680/chapter-456-a-visitor-for-havok",
-  externalId: "2797680",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2797680",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2797680/chapter-456-a-visitor-for-havok",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

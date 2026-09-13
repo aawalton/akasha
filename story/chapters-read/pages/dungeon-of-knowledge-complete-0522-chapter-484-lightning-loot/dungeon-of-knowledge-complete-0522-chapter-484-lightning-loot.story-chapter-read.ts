@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0522Chapter484LightningLoot = {
   unit: "words",
   completedAt: "2026-06-29T20:29:58.359Z",
   publishedAt: "2025-12-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2873407/chapter-484-lightning-loot",
-  externalId: "2873407",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2873407",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2873407/chapter-484-lightning-loot",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

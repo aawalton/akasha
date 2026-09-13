@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0369Chapter332HeroesOfTheCrimsonBladePart
   unit: "words",
   completedAt: "2026-06-29T20:23:06.868Z",
   publishedAt: "2025-08-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2483885/chapter-332-heroes-of-the-crimson-blade-part-3",
-  externalId: "2483885",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2483885",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2483885/chapter-332-heroes-of-the-crimson-blade-part-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

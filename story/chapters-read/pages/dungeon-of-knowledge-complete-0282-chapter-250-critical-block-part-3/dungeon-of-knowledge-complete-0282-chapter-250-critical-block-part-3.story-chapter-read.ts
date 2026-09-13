@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0282Chapter250CriticalBlockPart3 = {
   unit: "words",
   completedAt: "2026-06-29T20:20:47.768Z",
   publishedAt: "2025-05-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2281196/chapter-250-critical-block-part-3",
-  externalId: "2281196",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2281196",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2281196/chapter-250-critical-block-part-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

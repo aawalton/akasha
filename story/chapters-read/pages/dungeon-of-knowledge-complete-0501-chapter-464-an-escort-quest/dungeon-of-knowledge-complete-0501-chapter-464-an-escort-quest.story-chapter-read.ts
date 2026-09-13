@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0501Chapter464AnEscortQuest = {
   unit: "words",
   completedAt: "2026-06-29T20:29:14.134Z",
   publishedAt: "2025-12-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2818126/chapter-464-an-escort-quest",
-  externalId: "2818126",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2818126",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2818126/chapter-464-an-escort-quest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

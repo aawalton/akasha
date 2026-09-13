@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0583Chapter543TheCityOfLight = {
   unit: "words",
   completedAt: "2026-06-29T20:32:12.548Z",
   publishedAt: "2026-02-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3074424/chapter-543-the-city-of-light",
-  externalId: "3074424",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3074424",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3074424/chapter-543-the-city-of-light",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

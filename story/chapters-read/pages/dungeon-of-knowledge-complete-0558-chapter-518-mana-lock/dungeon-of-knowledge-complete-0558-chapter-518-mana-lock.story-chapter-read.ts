@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0558Chapter518ManaLock = {
   unit: "words",
   completedAt: "2026-06-29T20:31:16.469Z",
   publishedAt: "2026-01-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2980903/chapter-518-mana-lock",
-  externalId: "2980903",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2980903",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2980903/chapter-518-mana-lock",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

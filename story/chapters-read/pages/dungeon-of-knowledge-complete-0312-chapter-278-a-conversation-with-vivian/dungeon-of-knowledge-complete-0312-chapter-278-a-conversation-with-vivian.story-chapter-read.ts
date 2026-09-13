@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0312Chapter278AConversationWithVivian = {
   unit: "words",
   completedAt: "2026-06-29T20:21:52.166Z",
   publishedAt: "2025-06-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2356189/chapter-278-a-conversation-with-vivian",
-  externalId: "2356189",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2356189",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2356189/chapter-278-a-conversation-with-vivian",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

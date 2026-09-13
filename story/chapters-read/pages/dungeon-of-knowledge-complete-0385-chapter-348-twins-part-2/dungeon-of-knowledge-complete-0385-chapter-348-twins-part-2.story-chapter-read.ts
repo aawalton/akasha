@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0385Chapter348TwinsPart2 = {
   unit: "words",
   completedAt: "2026-06-29T20:25:00.073Z",
   publishedAt: "2025-08-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2522917/chapter-348-twins-part-2",
-  externalId: "2522917",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2522917",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2522917/chapter-348-twins-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

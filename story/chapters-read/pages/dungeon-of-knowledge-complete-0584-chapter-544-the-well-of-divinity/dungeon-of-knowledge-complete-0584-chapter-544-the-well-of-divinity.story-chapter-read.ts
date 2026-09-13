@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0584Chapter544TheWellOfDivinity = {
   unit: "words",
   completedAt: "2026-06-29T20:32:14.746Z",
   publishedAt: "2026-02-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3077874/chapter-544-the-well-of-divinity",
-  externalId: "3077874",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3077874",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3077874/chapter-544-the-well-of-divinity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

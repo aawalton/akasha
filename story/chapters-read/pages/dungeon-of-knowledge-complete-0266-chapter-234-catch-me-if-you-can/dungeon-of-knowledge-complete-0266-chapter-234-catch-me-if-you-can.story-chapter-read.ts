@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0266Chapter234CatchMeIfYouCan = {
   unit: "words",
   completedAt: "2026-06-29T20:20:14.070Z",
   publishedAt: "2025-04-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2235128/chapter-234-catch-me-if-you-can",
-  externalId: "2235128",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2235128",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2235128/chapter-234-catch-me-if-you-can",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0540Chapter500HiddenChapel = {
   unit: "words",
   completedAt: "2026-06-29T20:30:37.850Z",
   publishedAt: "2026-01-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2923463/chapter-500-hidden-chapel",
-  externalId: "2923463",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2923463",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2923463/chapter-500-hidden-chapel",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

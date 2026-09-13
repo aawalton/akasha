@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0442Chapter405AProbingAttack = {
   unit: "words",
   completedAt: "2026-06-29T20:27:01.769Z",
   publishedAt: "2025-10-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2665795/chapter-405-a-probing-attack",
-  externalId: "2665795",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2665795",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2665795/chapter-405-a-probing-attack",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

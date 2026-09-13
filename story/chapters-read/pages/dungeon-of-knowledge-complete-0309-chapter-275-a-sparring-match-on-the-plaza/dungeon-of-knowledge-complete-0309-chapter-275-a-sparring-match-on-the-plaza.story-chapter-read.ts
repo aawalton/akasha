@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0309Chapter275ASparringMatchOnThePlaza = 
   unit: "words",
   completedAt: "2026-06-29T20:21:45.853Z",
   publishedAt: "2025-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2345354/chapter-275-a-sparring-match-on-the-plaza",
-  externalId: "2345354",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2345354",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2345354/chapter-275-a-sparring-match-on-the-plaza",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

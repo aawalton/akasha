@@ -10,9 +10,13 @@ export const dungeonOfKnowledgeComplete0602Chapter559DivineArchonVersusHaverron 
   ownLength: 2250,
   unit: "words",
   publishedAt: "2026-03-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3129562/chapter-559-divine-archon-versus-haverron",
-  externalId: "3129562",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3129562",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3129562/chapter-559-divine-archon-versus-haverron",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

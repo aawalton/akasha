@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0591Chapter550AHolyTribute = {
   unit: "words",
   completedAt: "2026-06-29T20:32:30.469Z",
   publishedAt: "2026-02-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3098348/chapter-550-a-holy-tribute",
-  externalId: "3098348",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3098348",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3098348/chapter-550-a-holy-tribute",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

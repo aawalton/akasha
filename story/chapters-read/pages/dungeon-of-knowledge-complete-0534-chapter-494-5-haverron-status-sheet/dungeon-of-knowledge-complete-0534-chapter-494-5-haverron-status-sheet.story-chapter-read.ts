@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0534Chapter4945HaverronStatusSheet = {
   unit: "words",
   completedAt: "2026-06-29T20:30:24.588Z",
   publishedAt: "2026-01-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2905242/chapter-4945-haverron-status-sheet",
-  externalId: "2905242",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2905242",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2905242/chapter-4945-haverron-status-sheet",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0533Chapter494TiersOfSkill = {
   unit: "words",
   completedAt: "2026-06-29T20:30:22.496Z",
   publishedAt: "2026-01-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2905201/chapter-494-tiers-of-skill",
-  externalId: "2905201",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2905201",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2905201/chapter-494-tiers-of-skill",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

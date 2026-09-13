@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0251Chapter221SpiritRealmPart2 = {
   unit: "words",
   completedAt: "2026-06-29T20:19:41.081Z",
   publishedAt: "2025-04-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2192852/chapter-221-spirit-realm-part-2",
-  externalId: "2192852",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2192852",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2192852/chapter-221-spirit-realm-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

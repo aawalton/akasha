@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0485Chapter448DownTheGullet = {
   unit: "words",
   completedAt: "2026-06-29T20:28:39.438Z",
   publishedAt: "2025-11-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2777588/chapter-448-down-the-gullet",
-  externalId: "2777588",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2777588",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2777588/chapter-448-down-the-gullet",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

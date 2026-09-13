@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0324Chapter290RealmHunter = {
   unit: "words",
   completedAt: "2026-06-29T20:22:18.556Z",
   publishedAt: "2025-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2381761/chapter-290-realm-hunter",
-  externalId: "2381761",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2381761",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2381761/chapter-290-realm-hunter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

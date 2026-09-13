@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0388Chapter351TeaCookiesAndAncientMemorie
   unit: "words",
   completedAt: "2026-06-29T20:25:06.673Z",
   publishedAt: "2025-08-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2530628/chapter-351-tea-cookies-and-ancient-memories",
-  externalId: "2530628",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2530628",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2530628/chapter-351-tea-cookies-and-ancient-memories",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

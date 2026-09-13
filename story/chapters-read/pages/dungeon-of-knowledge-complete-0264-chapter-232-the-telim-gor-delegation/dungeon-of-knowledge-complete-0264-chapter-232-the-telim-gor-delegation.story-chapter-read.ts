@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0264Chapter232TheTelimGorDelegation = {
   unit: "words",
   completedAt: "2026-06-29T20:20:09.890Z",
   publishedAt: "2025-04-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2230105/chapter-232-the-telim-gor-delegation",
-  externalId: "2230105",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2230105",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2230105/chapter-232-the-telim-gor-delegation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

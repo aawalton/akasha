@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0316Chapter282Crafting = {
   unit: "words",
   completedAt: "2026-06-29T20:22:00.984Z",
   publishedAt: "2025-06-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2360781/chapter-282-crafting",
-  externalId: "2360781",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2360781",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2360781/chapter-282-crafting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

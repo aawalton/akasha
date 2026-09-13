@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0592Chapter551WhileTheLichSlumbers = {
   unit: "words",
   completedAt: "2026-06-29T20:32:32.756Z",
   publishedAt: "2026-02-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3101848/chapter-551-while-the-lich-slumbers",
-  externalId: "3101848",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3101848",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3101848/chapter-551-while-the-lich-slumbers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

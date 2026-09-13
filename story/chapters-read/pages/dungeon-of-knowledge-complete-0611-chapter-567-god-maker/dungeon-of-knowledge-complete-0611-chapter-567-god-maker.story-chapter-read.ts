@@ -10,9 +10,13 @@ export const dungeonOfKnowledgeComplete0611Chapter567GodMaker = {
   ownLength: 2956,
   unit: "words",
   publishedAt: "2026-03-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3154391/chapter-567-god-maker",
-  externalId: "3154391",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3154391",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3154391/chapter-567-god-maker",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0537Chapter497Parasites = {
   unit: "words",
   completedAt: "2026-06-29T20:30:30.749Z",
   publishedAt: "2026-01-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2913851/chapter-497-parasites",
-  externalId: "2913851",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2913851",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2913851/chapter-497-parasites",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

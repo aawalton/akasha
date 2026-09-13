@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0418Chapter381WhenDeathComesKnocking = {
   unit: "words",
   completedAt: "2026-06-29T20:26:11.310Z",
   publishedAt: "2025-09-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2610018/chapter-381-when-death-comes-knocking",
-  externalId: "2610018",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2610018",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2610018/chapter-381-when-death-comes-knocking",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

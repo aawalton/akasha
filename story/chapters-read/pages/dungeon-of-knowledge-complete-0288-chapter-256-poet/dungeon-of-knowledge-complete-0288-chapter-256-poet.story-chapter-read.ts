@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0288Chapter256Poet = {
   unit: "words",
   completedAt: "2026-06-29T20:21:00.900Z",
   publishedAt: "2025-05-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2297537/chapter-256-poet",
-  externalId: "2297537",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2297537",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2297537/chapter-256-poet",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

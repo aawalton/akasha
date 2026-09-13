@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0348Chapter311ShrinePaths = {
   unit: "words",
   completedAt: "2026-06-29T20:22:22.289Z",
   publishedAt: "2025-07-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2434364/chapter-311-shrine-paths",
-  externalId: "2434364",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2434364",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2434364/chapter-311-shrine-paths",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0361Chapter324TeharissaEvensong = {
   unit: "words",
   completedAt: "2026-06-29T20:22:48.951Z",
   publishedAt: "2025-07-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2467991/chapter-324-teharissa-evensong",
-  externalId: "2467991",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2467991",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2467991/chapter-324-teharissa-evensong",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

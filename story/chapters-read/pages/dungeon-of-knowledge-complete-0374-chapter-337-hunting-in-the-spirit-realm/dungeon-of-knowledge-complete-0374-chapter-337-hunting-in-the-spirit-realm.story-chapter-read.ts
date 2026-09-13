@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0374Chapter337HuntingInTheSpiritRealm = {
   unit: "words",
   completedAt: "2026-06-29T20:23:17.068Z",
   publishedAt: "2025-08-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2493996/chapter-337-hunting-in-the-spirit-realm",
-  externalId: "2493996",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2493996",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2493996/chapter-337-hunting-in-the-spirit-realm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

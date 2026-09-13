@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0579Chapter539DalMohra = {
   unit: "words",
   completedAt: "2026-06-29T20:32:03.487Z",
   publishedAt: "2026-02-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3059540/chapter-539-dalmohra",
-  externalId: "3059540",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3059540",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3059540/chapter-539-dalmohra",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0472Chapter435AChanceEncounterADoorOpens 
   unit: "words",
   completedAt: "2026-06-29T20:28:11.703Z",
   publishedAt: "2025-11-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2745803/chapter-435-a-chance-encounter-a-door-opens",
-  externalId: "2745803",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2745803",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2745803/chapter-435-a-chance-encounter-a-door-opens",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

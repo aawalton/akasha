@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0387Chapter350AMagicalBloodline = {
   unit: "words",
   completedAt: "2026-06-29T20:25:04.569Z",
   publishedAt: "2025-08-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2527921/chapter-350-a-magical-bloodline",
-  externalId: "2527921",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2527921",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2527921/chapter-350-a-magical-bloodline",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0240Chapter216KirMoganPart3 = {
   unit: "words",
   completedAt: "2026-06-29T20:19:18.156Z",
   publishedAt: "2025-03-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2159337/chapter-216-kirmogan-part-3",
-  externalId: "2159337",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2159337",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2159337/chapter-216-kirmogan-part-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

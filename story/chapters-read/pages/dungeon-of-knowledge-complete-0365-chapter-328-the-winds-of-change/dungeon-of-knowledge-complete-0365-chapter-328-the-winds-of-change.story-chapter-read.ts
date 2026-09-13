@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0365Chapter328TheWindsOfChange = {
   unit: "words",
   completedAt: "2026-06-29T20:22:58.442Z",
   publishedAt: "2025-07-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2478553/chapter-328-the-winds-of-change",
-  externalId: "2478553",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2478553",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2478553/chapter-328-the-winds-of-change",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const dungeonOfKnowledgeComplete0614Chapter570AegisAndAuthority = {
   ownLength: 2677,
   unit: "words",
   publishedAt: "2026-03-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3161942/chapter-570-aegis-and-authority",
-  externalId: "3161942",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3161942",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3161942/chapter-570-aegis-and-authority",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0473Chapter436RingingTheDoorbellPart1 = {
   unit: "words",
   completedAt: "2026-06-29T20:28:13.658Z",
   publishedAt: "2025-11-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2748648/chapter-436-ringing-the-doorbell-part-1",
-  externalId: "2748648",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2748648",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2748648/chapter-436-ringing-the-doorbell-part-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

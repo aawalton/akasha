@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0451Chapter414DomainArchitect = {
   unit: "words",
   completedAt: "2026-06-29T20:27:25.976Z",
   publishedAt: "2025-10-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2688516/chapter-414-domain-architect",
-  externalId: "2688516",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2688516",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2688516/chapter-414-domain-architect",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

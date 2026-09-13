@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0551Chapter511TheRiseOfCuddlesAndTheHolyF
   unit: "words",
   completedAt: "2026-06-29T20:31:01.553Z",
   publishedAt: "2026-01-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2957882/chapter-511-the-rise-of-cuddles-and-the-holy-fire",
-  externalId: "2957882",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2957882",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2957882/chapter-511-the-rise-of-cuddles-and-the-holy-fire",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

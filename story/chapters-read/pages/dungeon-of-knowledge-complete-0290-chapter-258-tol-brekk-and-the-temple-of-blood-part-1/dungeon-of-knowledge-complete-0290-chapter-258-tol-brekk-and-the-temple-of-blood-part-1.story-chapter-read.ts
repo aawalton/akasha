@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0290Chapter258TolBrekkAndTheTempleOfBlood
   unit: "words",
   completedAt: "2026-06-29T20:21:05.264Z",
   publishedAt: "2025-05-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2304575/chapter-258-tolbrekk-and-the-temple-of-blood-part",
-  externalId: "2304575",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2304575",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2304575/chapter-258-tolbrekk-and-the-temple-of-blood-part",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

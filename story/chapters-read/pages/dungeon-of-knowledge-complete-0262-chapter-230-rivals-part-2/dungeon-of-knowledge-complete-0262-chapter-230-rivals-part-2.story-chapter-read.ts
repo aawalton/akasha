@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0262Chapter230RivalsPart2 = {
   unit: "words",
   completedAt: "2026-06-29T20:20:05.180Z",
   publishedAt: "2025-04-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2224761/chapter-230-rivals-part-2",
-  externalId: "2224761",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2224761",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2224761/chapter-230-rivals-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

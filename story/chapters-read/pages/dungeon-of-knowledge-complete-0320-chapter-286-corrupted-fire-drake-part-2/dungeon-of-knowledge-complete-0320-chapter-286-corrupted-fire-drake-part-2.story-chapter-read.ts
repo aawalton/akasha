@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0320Chapter286CorruptedFireDrakePart2 = {
   unit: "words",
   completedAt: "2026-06-29T20:22:09.927Z",
   publishedAt: "2025-06-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2371460/chapter-286-corrupted-fire-drake-part-2",
-  externalId: "2371460",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2371460",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2371460/chapter-286-corrupted-fire-drake-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

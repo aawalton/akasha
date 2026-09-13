@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0408Chapter371TheBattleForLytonRuinsPart3
   unit: "words",
   completedAt: "2026-06-29T20:25:50.457Z",
   publishedAt: "2025-09-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2584383/chapter-371-the-battle-for-lyton-ruins-part-3",
-  externalId: "2584383",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2584383",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2584383/chapter-371-the-battle-for-lyton-ruins-part-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

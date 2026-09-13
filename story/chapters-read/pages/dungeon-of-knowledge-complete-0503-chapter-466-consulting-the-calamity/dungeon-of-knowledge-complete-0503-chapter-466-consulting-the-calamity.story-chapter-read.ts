@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0503Chapter466ConsultingTheCalamity = {
   unit: "words",
   completedAt: "2026-06-29T20:29:18.169Z",
   publishedAt: "2025-12-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2821257/chapter-466-consulting-the-calamity",
-  externalId: "2821257",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2821257",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2821257/chapter-466-consulting-the-calamity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

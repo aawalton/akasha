@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0405Chapter368ACrazyPlan = {
   unit: "words",
   completedAt: "2026-06-29T20:25:44.068Z",
   publishedAt: "2025-09-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2576454/chapter-368-a-crazy-plan",
-  externalId: "2576454",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2576454",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2576454/chapter-368-a-crazy-plan",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

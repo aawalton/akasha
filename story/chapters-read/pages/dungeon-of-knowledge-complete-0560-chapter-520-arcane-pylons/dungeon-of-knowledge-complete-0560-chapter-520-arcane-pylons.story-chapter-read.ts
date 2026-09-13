@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0560Chapter520ArcanePylons = {
   unit: "words",
   completedAt: "2026-06-29T20:31:21.364Z",
   publishedAt: "2026-01-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2987831/chapter-520-arcane-pylons",
-  externalId: "2987831",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2987831",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2987831/chapter-520-arcane-pylons",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

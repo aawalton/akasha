@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0310Chapter276ChallengeArena = {
   unit: "words",
   completedAt: "2026-06-29T20:21:48.044Z",
   publishedAt: "2025-06-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2348123/chapter-276-challenge-arena",
-  externalId: "2348123",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2348123",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2348123/chapter-276-challenge-arena",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

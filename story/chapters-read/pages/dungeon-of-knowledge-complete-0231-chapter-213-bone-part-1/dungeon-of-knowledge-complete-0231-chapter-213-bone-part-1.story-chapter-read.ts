@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0231Chapter213BonePart1 = {
   unit: "words",
   completedAt: "2026-06-29T20:18:59.361Z",
   publishedAt: "2025-03-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2136731/chapter-213-bone-part-1",
-  externalId: "2136731",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2136731",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2136731/chapter-213-bone-part-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

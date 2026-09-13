@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0276Chapter244WinterSDesolateCelerity = {
   unit: "words",
   completedAt: "2026-06-29T20:20:35.001Z",
   publishedAt: "2025-05-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2266791/chapter-244-winters-desolate-celerity",
-  externalId: "2266791",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2266791",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2266791/chapter-244-winters-desolate-celerity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

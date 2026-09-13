@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0528Chapter489ForgingAPlan = {
   unit: "words",
   completedAt: "2026-06-29T20:30:11.577Z",
   publishedAt: "2025-12-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2887317/chapter-489-forging-a-plan",
-  externalId: "2887317",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2887317",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2887317/chapter-489-forging-a-plan",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

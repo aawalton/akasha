@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0517Chapter479DevastationKnight = {
   unit: "words",
   completedAt: "2026-06-29T20:29:47.736Z",
   publishedAt: "2025-12-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2858877/chapter-479-devastation-knight",
-  externalId: "2858877",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2858877",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2858877/chapter-479-devastation-knight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

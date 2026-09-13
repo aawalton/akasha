@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0586Chapter546FruitOfTheWorldTree = {
   unit: "words",
   completedAt: "2026-06-29T20:32:19.071Z",
   publishedAt: "2026-02-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3083968/chapter-546-fruit-of-the-world-tree",
-  externalId: "3083968",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3083968",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3083968/chapter-546-fruit-of-the-world-tree",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

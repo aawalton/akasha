@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0565Chapter525SneakAttack = {
   unit: "words",
   completedAt: "2026-06-29T20:31:31.531Z",
   publishedAt: "2026-02-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3004874/chapter-525-sneak-attack",
-  externalId: "3004874",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3004874",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3004874/chapter-525-sneak-attack",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

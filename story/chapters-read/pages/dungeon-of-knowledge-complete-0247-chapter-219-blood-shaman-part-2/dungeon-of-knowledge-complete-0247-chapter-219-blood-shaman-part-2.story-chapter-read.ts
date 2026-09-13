@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0247Chapter219BloodShamanPart2 = {
   unit: "words",
   completedAt: "2026-06-29T20:19:32.904Z",
   publishedAt: "2025-04-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2179105/chapter-219-blood-shaman-part-2",
-  externalId: "2179105",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2179105",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2179105/chapter-219-blood-shaman-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

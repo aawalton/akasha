@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0572Chapter532TheCorruptionOfTheWell = {
   unit: "words",
   completedAt: "2026-06-29T20:31:48.572Z",
   publishedAt: "2026-02-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3028772/chapter-532-the-corruption-of-the-well",
-  externalId: "3028772",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3028772",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3028772/chapter-532-the-corruption-of-the-well",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

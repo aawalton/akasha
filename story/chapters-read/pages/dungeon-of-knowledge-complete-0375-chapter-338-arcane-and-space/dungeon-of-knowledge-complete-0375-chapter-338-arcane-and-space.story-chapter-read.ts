@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0375Chapter338ArcaneAndSpace = {
   unit: "words",
   completedAt: "2026-06-29T20:23:19.163Z",
   publishedAt: "2025-08-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2496749/chapter-338-arcane-and-space",
-  externalId: "2496749",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2496749",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2496749/chapter-338-arcane-and-space",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

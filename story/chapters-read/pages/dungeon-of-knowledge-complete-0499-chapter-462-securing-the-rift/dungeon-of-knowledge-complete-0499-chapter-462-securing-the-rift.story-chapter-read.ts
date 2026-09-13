@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0499Chapter462SecuringTheRift = {
   unit: "words",
   completedAt: "2026-06-29T20:29:10.005Z",
   publishedAt: "2025-12-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2812137/chapter-462-securing-the-rift",
-  externalId: "2812137",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2812137",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2812137/chapter-462-securing-the-rift",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

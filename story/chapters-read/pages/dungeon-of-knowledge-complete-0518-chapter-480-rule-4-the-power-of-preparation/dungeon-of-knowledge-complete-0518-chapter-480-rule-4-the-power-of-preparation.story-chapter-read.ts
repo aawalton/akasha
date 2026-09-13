@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0518Chapter480Rule4ThePowerOfPreparation 
   unit: "words",
   completedAt: "2026-06-29T20:29:49.757Z",
   publishedAt: "2025-12-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2861705/chapter-480-rule-4-the-power-of-preparation",
-  externalId: "2861705",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2861705",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2861705/chapter-480-rule-4-the-power-of-preparation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

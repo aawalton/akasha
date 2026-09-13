@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0353Chapter316ToUnwindFate = {
   unit: "words",
   completedAt: "2026-06-29T20:22:32.687Z",
   publishedAt: "2025-07-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2448788/chapter-316-to-unwind-fate",
-  externalId: "2448788",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2448788",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2448788/chapter-316-to-unwind-fate",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

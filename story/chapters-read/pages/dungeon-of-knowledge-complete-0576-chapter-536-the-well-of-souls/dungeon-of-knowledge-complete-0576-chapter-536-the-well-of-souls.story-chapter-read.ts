@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0576Chapter536TheWellOfSouls = {
   unit: "words",
   completedAt: "2026-06-29T20:31:57.338Z",
   publishedAt: "2026-02-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3050237/chapter-536-the-well-of-souls",
-  externalId: "3050237",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3050237",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3050237/chapter-536-the-well-of-souls",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

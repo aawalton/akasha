@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0590Chapter549TierThree = {
   unit: "words",
   completedAt: "2026-06-29T20:32:28.288Z",
   publishedAt: "2026-02-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3094809/chapter-549-tier-three",
-  externalId: "3094809",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3094809",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3094809/chapter-549-tier-three",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

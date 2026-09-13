@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0399Chapter362JewelryIsADungeonSBestFrien
   unit: "words",
   completedAt: "2026-06-29T20:25:30.918Z",
   publishedAt: "2025-08-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2560436/chapter-362-jewelry-is-a-dungeons-best-friend",
-  externalId: "2560436",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2560436",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2560436/chapter-362-jewelry-is-a-dungeons-best-friend",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

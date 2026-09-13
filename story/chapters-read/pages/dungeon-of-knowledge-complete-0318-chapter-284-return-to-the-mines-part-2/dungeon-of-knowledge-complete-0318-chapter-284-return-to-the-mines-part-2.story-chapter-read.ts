@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0318Chapter284ReturnToTheMinesPart2 = {
   unit: "words",
   completedAt: "2026-06-29T20:22:05.642Z",
   publishedAt: "2025-06-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2366099/chapter-284-return-to-the-mines-part-2",
-  externalId: "2366099",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2366099",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2366099/chapter-284-return-to-the-mines-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0398Chapter361ASpotOfShadeForAli = {
   unit: "words",
   completedAt: "2026-06-29T20:25:28.591Z",
   publishedAt: "2025-08-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2557666/chapter-361-a-spot-of-shade-for-ali",
-  externalId: "2557666",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2557666",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2557666/chapter-361-a-spot-of-shade-for-ali",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

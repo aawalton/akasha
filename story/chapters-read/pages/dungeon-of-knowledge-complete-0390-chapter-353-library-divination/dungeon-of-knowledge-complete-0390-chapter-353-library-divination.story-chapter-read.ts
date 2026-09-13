@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0390Chapter353LibraryDivination = {
   unit: "words",
   completedAt: "2026-06-29T20:25:10.725Z",
   publishedAt: "2025-08-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2535974/chapter-353-library-divination",
-  externalId: "2535974",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2535974",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2535974/chapter-353-library-divination",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

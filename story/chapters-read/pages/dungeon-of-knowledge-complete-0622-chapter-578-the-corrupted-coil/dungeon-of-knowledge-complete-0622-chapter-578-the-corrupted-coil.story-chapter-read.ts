@@ -10,9 +10,13 @@ export const dungeonOfKnowledgeComplete0622Chapter578TheCorruptedCoil = {
   ownLength: 3592,
   unit: "words",
   publishedAt: "2026-03-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3177021/chapter-578-the-corrupted-coil",
-  externalId: "3177021",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3177021",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3177021/chapter-578-the-corrupted-coil",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

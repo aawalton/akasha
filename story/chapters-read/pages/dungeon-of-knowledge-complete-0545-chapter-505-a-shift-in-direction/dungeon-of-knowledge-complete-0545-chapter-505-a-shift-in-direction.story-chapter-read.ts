@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0545Chapter505AShiftInDirection = {
   unit: "words",
   completedAt: "2026-06-29T20:30:48.334Z",
   publishedAt: "2026-01-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2938957/chapter-505-a-shift-in-direction",
-  externalId: "2938957",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2938957",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2938957/chapter-505-a-shift-in-direction",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0459Chapter422Reunions = {
   unit: "words",
   completedAt: "2026-06-29T20:27:43.521Z",
   publishedAt: "2025-10-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2708636/chapter-422-reunions",
-  externalId: "2708636",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2708636",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2708636/chapter-422-reunions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

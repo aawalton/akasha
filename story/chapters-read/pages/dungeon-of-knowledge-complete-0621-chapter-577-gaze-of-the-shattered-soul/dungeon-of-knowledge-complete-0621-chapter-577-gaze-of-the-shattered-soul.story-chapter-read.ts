@@ -10,9 +10,13 @@ export const dungeonOfKnowledgeComplete0621Chapter577GazeOfTheShatteredSoul = {
   ownLength: 2189,
   unit: "words",
   publishedAt: "2026-03-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3176977/chapter-577-gaze-of-the-shattered-soul",
-  externalId: "3176977",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3176977",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3176977/chapter-577-gaze-of-the-shattered-soul",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

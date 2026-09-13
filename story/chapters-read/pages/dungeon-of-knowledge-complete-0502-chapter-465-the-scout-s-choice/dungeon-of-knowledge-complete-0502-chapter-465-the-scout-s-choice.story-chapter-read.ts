@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0502Chapter465TheScoutSChoice = {
   unit: "words",
   completedAt: "2026-06-29T20:29:16.165Z",
   publishedAt: "2025-12-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2818166/chapter-465-the-scouts-choice",
-  externalId: "2818166",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2818166",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2818166/chapter-465-the-scouts-choice",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

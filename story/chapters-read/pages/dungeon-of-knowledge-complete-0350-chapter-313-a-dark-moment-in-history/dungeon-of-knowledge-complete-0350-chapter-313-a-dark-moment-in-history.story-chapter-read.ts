@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0350Chapter313ADarkMomentInHistory = {
   unit: "words",
   completedAt: "2026-06-29T20:22:26.475Z",
   publishedAt: "2025-07-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2439797/chapter-313-a-dark-moment-in-history",
-  externalId: "2439797",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2439797",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2439797/chapter-313-a-dark-moment-in-history",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

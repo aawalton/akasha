@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0554Chapter514FirstRing = {
   unit: "words",
   completedAt: "2026-06-29T20:31:08.311Z",
   publishedAt: "2026-01-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2967930/chapter-514-first-ring",
-  externalId: "2967930",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2967930",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2967930/chapter-514-first-ring",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

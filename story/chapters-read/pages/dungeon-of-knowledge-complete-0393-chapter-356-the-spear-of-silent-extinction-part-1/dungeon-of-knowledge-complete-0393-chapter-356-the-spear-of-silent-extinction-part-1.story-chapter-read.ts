@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0393Chapter356TheSpearOfSilentExtinctionP
   unit: "words",
   completedAt: "2026-06-29T20:25:17.003Z",
   publishedAt: "2025-08-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2543824/chapter-356-the-spear-of-silent-extinction-part",
-  externalId: "2543824",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2543824",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2543824/chapter-356-the-spear-of-silent-extinction-part",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

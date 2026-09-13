@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0296Chapter264TrackerOfTheDead = {
   unit: "words",
   completedAt: "2026-06-29T20:21:17.981Z",
   publishedAt: "2025-05-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2319513/chapter-264-tracker-of-the-dead",
-  externalId: "2319513",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2319513",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2319513/chapter-264-tracker-of-the-dead",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0425Chapter388Evacuation = {
   unit: "words",
   completedAt: "2026-06-29T20:26:26.131Z",
   publishedAt: "2025-09-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2622620/chapter-388-evacuation",
-  externalId: "2622620",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2622620",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2622620/chapter-388-evacuation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

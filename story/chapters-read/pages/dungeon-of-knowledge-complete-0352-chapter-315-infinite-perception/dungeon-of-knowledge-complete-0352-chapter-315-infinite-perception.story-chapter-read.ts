@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0352Chapter315InfinitePerception = {
   unit: "words",
   completedAt: "2026-06-29T20:22:30.635Z",
   publishedAt: "2025-07-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2445754/chapter-315-infinite-perception",
-  externalId: "2445754",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2445754",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2445754/chapter-315-infinite-perception",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

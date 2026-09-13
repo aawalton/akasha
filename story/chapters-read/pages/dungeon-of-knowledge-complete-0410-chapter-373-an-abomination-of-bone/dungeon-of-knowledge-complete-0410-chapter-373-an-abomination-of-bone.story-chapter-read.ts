@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0410Chapter373AnAbominationOfBone = {
   unit: "words",
   completedAt: "2026-06-29T20:25:54.541Z",
   publishedAt: "2025-09-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2589828/chapter-373-an-abomination-of-bone",
-  externalId: "2589828",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2589828",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2589828/chapter-373-an-abomination-of-bone",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

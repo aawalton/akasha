@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0480Chapter443TheCycleOfRebirth = {
   unit: "words",
   completedAt: "2026-06-29T20:28:28.856Z",
   publishedAt: "2025-11-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2763358/chapter-443-the-cycle-of-rebirth",
-  externalId: "2763358",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2763358",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2763358/chapter-443-the-cycle-of-rebirth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0543Chapter503AGift = {
   unit: "words",
   completedAt: "2026-06-29T20:30:44.126Z",
   publishedAt: "2026-01-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2932562/chapter-503-a-gift",
-  externalId: "2932562",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2932562",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2932562/chapter-503-a-gift",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

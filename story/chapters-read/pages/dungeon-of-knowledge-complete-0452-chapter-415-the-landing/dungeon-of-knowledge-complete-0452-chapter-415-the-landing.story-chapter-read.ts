@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0452Chapter415TheLanding = {
   unit: "words",
   completedAt: "2026-06-29T20:27:28.043Z",
   publishedAt: "2025-10-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2690948/chapter-415-the-landing",
-  externalId: "2690948",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2690948",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2690948/chapter-415-the-landing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

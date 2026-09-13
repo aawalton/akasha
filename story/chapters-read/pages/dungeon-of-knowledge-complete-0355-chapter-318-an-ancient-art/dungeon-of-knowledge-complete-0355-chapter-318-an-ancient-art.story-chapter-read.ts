@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0355Chapter318AnAncientArt = {
   unit: "words",
   completedAt: "2026-06-29T20:22:36.882Z",
   publishedAt: "2025-07-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2454095/chapter-318-an-ancient-art",
-  externalId: "2454095",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2454095",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2454095/chapter-318-an-ancient-art",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

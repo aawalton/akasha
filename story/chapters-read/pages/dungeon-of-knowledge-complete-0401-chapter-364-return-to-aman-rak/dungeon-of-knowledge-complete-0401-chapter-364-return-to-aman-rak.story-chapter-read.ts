@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0401Chapter364ReturnToAmanRak = {
   unit: "words",
   completedAt: "2026-06-29T20:25:35.438Z",
   publishedAt: "2025-09-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2565402/chapter-364-return-to-aman-rak",
-  externalId: "2565402",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2565402",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2565402/chapter-364-return-to-aman-rak",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

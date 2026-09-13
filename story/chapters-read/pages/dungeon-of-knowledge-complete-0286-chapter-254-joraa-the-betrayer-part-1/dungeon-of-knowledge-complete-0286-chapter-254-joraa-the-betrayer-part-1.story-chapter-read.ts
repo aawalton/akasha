@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0286Chapter254JoraaTheBetrayerPart1 = {
   unit: "words",
   completedAt: "2026-06-29T20:20:55.949Z",
   publishedAt: "2025-05-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2292874/chapter-254-joraa-the-betrayer-part-1",
-  externalId: "2292874",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2292874",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2292874/chapter-254-joraa-the-betrayer-part-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

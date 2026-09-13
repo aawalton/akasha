@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0420Chapter383FleeingThroughAnAngryForest
   unit: "words",
   completedAt: "2026-06-29T20:26:15.942Z",
   publishedAt: "2025-09-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2612725/chapter-383-fleeing-through-an-angry-forest",
-  externalId: "2612725",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2612725",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2612725/chapter-383-fleeing-through-an-angry-forest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

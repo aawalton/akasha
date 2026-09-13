@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0391Chapter354NewImprints = {
   unit: "words",
   completedAt: "2026-06-29T20:25:12.720Z",
   publishedAt: "2025-08-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2538643/chapter-354-new-imprints",
-  externalId: "2538643",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2538643",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2538643/chapter-354-new-imprints",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

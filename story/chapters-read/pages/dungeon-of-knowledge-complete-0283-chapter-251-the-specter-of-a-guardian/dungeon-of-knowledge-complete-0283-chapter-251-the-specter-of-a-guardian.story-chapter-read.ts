@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0283Chapter251TheSpecterOfAGuardian = {
   unit: "words",
   completedAt: "2026-06-29T20:20:49.646Z",
   publishedAt: "2025-05-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2286243/chapter-251-the-specter-of-a-guardian",
-  externalId: "2286243",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2286243",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2286243/chapter-251-the-specter-of-a-guardian",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0547Chapter507IntoTheDangerZone = {
   unit: "words",
   completedAt: "2026-06-29T20:30:52.383Z",
   publishedAt: "2026-01-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2945535/chapter-507-into-the-danger-zone",
-  externalId: "2945535",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2945535",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2945535/chapter-507-into-the-danger-zone",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

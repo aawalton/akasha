@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0484Chapter447ObsidianSandwyrm = {
   unit: "words",
   completedAt: "2026-06-29T20:28:37.292Z",
   publishedAt: "2025-11-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2774732/chapter-447-obsidian-sandwyrm",
-  externalId: "2774732",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2774732",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2774732/chapter-447-obsidian-sandwyrm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

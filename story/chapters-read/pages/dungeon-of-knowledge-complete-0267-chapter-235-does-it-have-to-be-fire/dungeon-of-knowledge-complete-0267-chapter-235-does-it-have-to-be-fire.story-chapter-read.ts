@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0267Chapter235DoesItHaveToBeFire = {
   unit: "words",
   completedAt: "2026-06-29T20:20:16.205Z",
   publishedAt: "2025-04-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2237857/chapter-235-does-it-have-to-be-fire",
-  externalId: "2237857",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2237857",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2237857/chapter-235-does-it-have-to-be-fire",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

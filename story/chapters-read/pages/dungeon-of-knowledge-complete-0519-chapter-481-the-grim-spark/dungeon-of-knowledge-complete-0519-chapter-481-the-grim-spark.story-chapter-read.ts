@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0519Chapter481TheGrimSpark = {
   unit: "words",
   completedAt: "2026-06-29T20:29:51.921Z",
   publishedAt: "2025-12-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2864796/chapter-481-the-grim-spark",
-  externalId: "2864796",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2864796",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2864796/chapter-481-the-grim-spark",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

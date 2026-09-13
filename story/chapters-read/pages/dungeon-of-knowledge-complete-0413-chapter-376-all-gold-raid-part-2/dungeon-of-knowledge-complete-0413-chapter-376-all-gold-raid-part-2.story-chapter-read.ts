@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0413Chapter376AllGoldRaidPart2 = {
   unit: "words",
   completedAt: "2026-06-29T20:26:00.754Z",
   publishedAt: "2025-09-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2597364/chapter-376-all-gold-raid-part-2",
-  externalId: "2597364",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2597364",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2597364/chapter-376-all-gold-raid-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

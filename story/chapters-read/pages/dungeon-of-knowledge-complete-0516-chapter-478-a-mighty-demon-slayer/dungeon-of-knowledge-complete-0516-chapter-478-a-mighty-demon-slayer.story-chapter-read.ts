@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0516Chapter478AMightyDemonSlayer = {
   unit: "words",
   completedAt: "2026-06-29T20:29:45.608Z",
   publishedAt: "2025-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2856023/chapter-478-a-mighty-demon-slayer",
-  externalId: "2856023",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2856023",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2856023/chapter-478-a-mighty-demon-slayer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

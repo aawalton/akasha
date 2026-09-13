@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0285Chapter253BloodBerserkerPart2 = {
   unit: "words",
   completedAt: "2026-06-29T20:20:53.770Z",
   publishedAt: "2025-05-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2290526/chapter-253-blood-berserker-part-2",
-  externalId: "2290526",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2290526",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2290526/chapter-253-blood-berserker-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0300Chapter268SaviorOfAmanRak = {
   unit: "words",
   completedAt: "2026-06-29T20:21:26.252Z",
   publishedAt: "2025-06-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2329774/chapter-268-savior-of-aman-rak",
-  externalId: "2329774",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2329774",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2329774/chapter-268-savior-of-aman-rak",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

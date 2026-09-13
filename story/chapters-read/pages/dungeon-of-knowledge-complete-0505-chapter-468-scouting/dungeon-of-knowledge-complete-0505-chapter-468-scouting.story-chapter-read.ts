@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0505Chapter468Scouting = {
   unit: "words",
   completedAt: "2026-06-29T20:29:22.257Z",
   publishedAt: "2025-12-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2827160/chapter-468-scouting",
-  externalId: "2827160",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2827160",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2827160/chapter-468-scouting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

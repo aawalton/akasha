@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0345Chapter308CarnageBerserker = {
   unit: "words",
   completedAt: "2026-06-29T20:22:15.464Z",
   publishedAt: "2025-07-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2429509/chapter-308-carnage-berserker",
-  externalId: "2429509",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2429509",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2429509/chapter-308-carnage-berserker",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0443Chapter406EyeOfAgnor = {
   unit: "words",
   completedAt: "2026-06-29T20:27:08.860Z",
   publishedAt: "2025-10-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2668468/chapter-406-eye-of-agnor",
-  externalId: "2668468",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2668468",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2668468/chapter-406-eye-of-agnor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

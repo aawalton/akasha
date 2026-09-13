@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0463Chapter426GuildEvolutions = {
   unit: "words",
   completedAt: "2026-06-29T20:27:52.187Z",
   publishedAt: "2025-10-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2719600/chapter-426-guild-evolutions",
-  externalId: "2719600",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2719600",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2719600/chapter-426-guild-evolutions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

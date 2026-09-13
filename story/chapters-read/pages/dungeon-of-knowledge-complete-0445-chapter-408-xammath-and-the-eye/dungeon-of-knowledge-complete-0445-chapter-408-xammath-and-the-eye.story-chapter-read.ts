@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0445Chapter408XammathAndTheEye = {
   unit: "words",
   completedAt: "2026-06-29T20:27:13.036Z",
   publishedAt: "2025-10-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2673010/chapter-408-xammath-and-the-eye",
-  externalId: "2673010",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2673010",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2673010/chapter-408-xammath-and-the-eye",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

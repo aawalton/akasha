@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0344Chapter307TheAshesOfCiradyl = {
   unit: "words",
   completedAt: "2026-06-29T20:22:13.334Z",
   publishedAt: "2025-07-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2426709/chapter-307-the-ashes-of-ciradyl",
-  externalId: "2426709",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2426709",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2426709/chapter-307-the-ashes-of-ciradyl",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0496Chapter459VisitingTheShrine = {
   unit: "words",
   completedAt: "2026-06-29T20:29:03.057Z",
   publishedAt: "2025-11-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2803451/chapter-459-visiting-the-shrine",
-  externalId: "2803451",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2803451",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2803451/chapter-459-visiting-the-shrine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

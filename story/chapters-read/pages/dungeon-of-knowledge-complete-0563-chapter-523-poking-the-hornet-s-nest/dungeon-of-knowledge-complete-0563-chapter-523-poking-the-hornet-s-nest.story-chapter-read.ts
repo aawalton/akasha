@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0563Chapter523PokingTheHornetSNest = {
   unit: "words",
   completedAt: "2026-06-29T20:31:27.342Z",
   publishedAt: "2026-01-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2998585/chapter-523-poking-the-hornets-nest",
-  externalId: "2998585",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2998585",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2998585/chapter-523-poking-the-hornets-nest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

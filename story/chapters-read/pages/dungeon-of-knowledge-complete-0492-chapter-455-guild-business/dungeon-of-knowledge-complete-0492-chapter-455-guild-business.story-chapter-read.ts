@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0492Chapter455GuildBusiness = {
   unit: "words",
   completedAt: "2026-06-29T20:28:54.006Z",
   publishedAt: "2025-11-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2794840/chapter-455-guild-business",
-  externalId: "2794840",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2794840",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2794840/chapter-455-guild-business",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0325Chapter2905CalenStatusSheet = {
   unit: "words",
   completedAt: "2026-06-29T20:22:20.757Z",
   publishedAt: "2025-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2381792/chapter-2905-calen-status-sheet",
-  externalId: "2381792",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2381792",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2381792/chapter-2905-calen-status-sheet",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

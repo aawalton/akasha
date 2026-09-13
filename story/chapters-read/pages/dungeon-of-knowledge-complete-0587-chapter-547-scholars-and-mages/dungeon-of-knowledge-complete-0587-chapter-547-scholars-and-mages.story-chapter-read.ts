@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0587Chapter547ScholarsAndMages = {
   unit: "words",
   completedAt: "2026-06-29T20:32:21.355Z",
   publishedAt: "2026-02-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3087752/chapter-547-scholars-and-mages",
-  externalId: "3087752",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3087752",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3087752/chapter-547-scholars-and-mages",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

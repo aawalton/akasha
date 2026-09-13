@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0462Chapter425RecoveringTheShrine = {
   unit: "words",
   completedAt: "2026-06-29T20:27:50.097Z",
   publishedAt: "2025-10-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2716809/chapter-425-recovering-the-shrine",
-  externalId: "2716809",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2716809",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2716809/chapter-425-recovering-the-shrine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

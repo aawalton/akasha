@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0357Chapter320RallyingTheGuild = {
   unit: "words",
   completedAt: "2026-06-29T20:22:40.735Z",
   publishedAt: "2025-07-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2459528/chapter-320-rallying-the-guild",
-  externalId: "2459528",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2459528",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2459528/chapter-320-rallying-the-guild",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

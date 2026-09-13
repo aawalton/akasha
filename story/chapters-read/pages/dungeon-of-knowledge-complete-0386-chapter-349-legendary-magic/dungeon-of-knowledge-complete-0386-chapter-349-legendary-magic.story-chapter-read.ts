@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0386Chapter349LegendaryMagic = {
   unit: "words",
   completedAt: "2026-06-29T20:25:02.643Z",
   publishedAt: "2025-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2525172/chapter-349-legendary-magic",
-  externalId: "2525172",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525172",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2525172/chapter-349-legendary-magic",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

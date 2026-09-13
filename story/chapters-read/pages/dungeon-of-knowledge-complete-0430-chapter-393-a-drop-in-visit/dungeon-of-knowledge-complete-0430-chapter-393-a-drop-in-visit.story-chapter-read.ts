@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0430Chapter393ADropInVisit = {
   unit: "words",
   completedAt: "2026-06-29T20:26:36.183Z",
   publishedAt: "2025-09-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2635323/chapter-393-a-drop-in-visit",
-  externalId: "2635323",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2635323",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2635323/chapter-393-a-drop-in-visit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0524Chapter4855MatoStatusSheetTreeForm = 
   unit: "words",
   completedAt: "2026-06-29T20:30:02.865Z",
   publishedAt: "2025-12-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2876399/chapter-4855-mato-status-sheet-tree-form",
-  externalId: "2876399",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2876399",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2876399/chapter-4855-mato-status-sheet-tree-form",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

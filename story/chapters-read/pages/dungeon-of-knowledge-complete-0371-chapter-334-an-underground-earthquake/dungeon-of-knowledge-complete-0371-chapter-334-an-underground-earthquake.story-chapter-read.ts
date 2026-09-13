@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0371Chapter334AnUndergroundEarthquake = {
   unit: "words",
   completedAt: "2026-06-29T20:23:10.968Z",
   publishedAt: "2025-08-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2488683/chapter-334-an-underground-earthquake",
-  externalId: "2488683",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2488683",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2488683/chapter-334-an-underground-earthquake",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

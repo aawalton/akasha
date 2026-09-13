@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0552Chapter512CalhedronPart1 = {
   unit: "words",
   completedAt: "2026-06-29T20:31:03.570Z",
   publishedAt: "2026-01-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2961223/chapter-512-calhedron-part-1",
-  externalId: "2961223",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2961223",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2961223/chapter-512-calhedron-part-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

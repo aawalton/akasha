@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0336Chapter300EyesOfTheSoul = {
   unit: "words",
   completedAt: "2026-06-29T20:22:45.067Z",
   publishedAt: "2025-07-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2408532/chapter-300-eyes-of-the-soul",
-  externalId: "2408532",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2408532",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2408532/chapter-300-eyes-of-the-soul",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

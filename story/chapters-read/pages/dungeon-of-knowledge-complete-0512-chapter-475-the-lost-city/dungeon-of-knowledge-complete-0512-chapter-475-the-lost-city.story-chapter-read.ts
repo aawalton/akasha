@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0512Chapter475TheLostCity = {
   unit: "words",
   completedAt: "2026-06-29T20:29:37.681Z",
   publishedAt: "2025-12-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2847199/chapter-475-the-lost-city",
-  externalId: "2847199",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2847199",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2847199/chapter-475-the-lost-city",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

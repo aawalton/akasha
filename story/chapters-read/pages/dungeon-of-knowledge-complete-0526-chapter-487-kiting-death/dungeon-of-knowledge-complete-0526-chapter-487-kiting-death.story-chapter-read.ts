@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0526Chapter487KitingDeath = {
   unit: "words",
   completedAt: "2026-06-29T20:30:06.874Z",
   publishedAt: "2025-12-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2881949/chapter-487-kiting-death",
-  externalId: "2881949",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2881949",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2881949/chapter-487-kiting-death",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

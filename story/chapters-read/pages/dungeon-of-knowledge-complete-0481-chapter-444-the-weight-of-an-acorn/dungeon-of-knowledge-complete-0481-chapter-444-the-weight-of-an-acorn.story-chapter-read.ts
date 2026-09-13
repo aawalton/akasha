@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0481Chapter444TheWeightOfAnAcorn = {
   unit: "words",
   completedAt: "2026-06-29T20:28:30.983Z",
   publishedAt: "2025-11-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2766057/chapter-444-the-weight-of-an-acorn",
-  externalId: "2766057",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2766057",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2766057/chapter-444-the-weight-of-an-acorn",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

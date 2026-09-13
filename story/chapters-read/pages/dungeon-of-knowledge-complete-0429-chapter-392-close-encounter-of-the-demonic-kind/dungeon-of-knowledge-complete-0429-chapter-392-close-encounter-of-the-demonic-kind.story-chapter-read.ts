@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0429Chapter392CloseEncounterOfTheDemonicK
   unit: "words",
   completedAt: "2026-06-29T20:26:34.073Z",
   publishedAt: "2025-09-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2633258/chapter-392-close-encounter-of-the-demonic-kind",
-  externalId: "2633258",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2633258",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2633258/chapter-392-close-encounter-of-the-demonic-kind",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

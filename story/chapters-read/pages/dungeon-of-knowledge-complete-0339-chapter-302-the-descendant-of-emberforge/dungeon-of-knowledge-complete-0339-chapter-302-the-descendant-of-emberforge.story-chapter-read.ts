@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0339Chapter302TheDescendantOfEmberforge =
   unit: "words",
   completedAt: "2026-06-29T20:22:02.760Z",
   publishedAt: "2025-07-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2413532/chapter-302-the-descendant-of-emberforge",
-  externalId: "2413532",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2413532",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2413532/chapter-302-the-descendant-of-emberforge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

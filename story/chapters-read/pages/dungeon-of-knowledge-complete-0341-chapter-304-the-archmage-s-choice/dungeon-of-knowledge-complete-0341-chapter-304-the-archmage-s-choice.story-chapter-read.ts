@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0341Chapter304TheArchmageSChoice = {
   unit: "words",
   completedAt: "2026-06-29T20:22:06.940Z",
   publishedAt: "2025-07-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2418705/chapter-304-the-archmages-choice",
-  externalId: "2418705",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2418705",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2418705/chapter-304-the-archmages-choice",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

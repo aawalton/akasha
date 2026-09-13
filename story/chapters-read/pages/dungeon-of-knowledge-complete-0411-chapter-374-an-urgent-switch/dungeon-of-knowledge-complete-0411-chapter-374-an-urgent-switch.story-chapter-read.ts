@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0411Chapter374AnUrgentSwitch = {
   unit: "words",
   completedAt: "2026-06-29T20:25:56.646Z",
   publishedAt: "2025-09-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2592492/chapter-374-an-urgent-switch",
-  externalId: "2592492",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2592492",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2592492/chapter-374-an-urgent-switch",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

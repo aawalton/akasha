@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0349Chapter312LoomingVengeance = {
   unit: "words",
   completedAt: "2026-06-29T20:22:24.378Z",
   publishedAt: "2025-07-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2437107/chapter-312-looming-vengeance",
-  externalId: "2437107",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2437107",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2437107/chapter-312-looming-vengeance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

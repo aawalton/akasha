@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0274Chapter242TempleOfIcePart3 = {
   unit: "words",
   completedAt: "2026-06-29T20:20:30.803Z",
   publishedAt: "2025-05-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2259917/chapter-242-temple-of-ice-part-3",
-  externalId: "2259917",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2259917",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2259917/chapter-242-temple-of-ice-part-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

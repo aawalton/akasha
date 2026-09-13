@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0506Chapter469AnvilOfTheEmberforge = {
   unit: "words",
   completedAt: "2026-06-29T20:29:24.545Z",
   publishedAt: "2025-12-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2829827/chapter-469-anvil-of-the-emberforge",
-  externalId: "2829827",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2829827",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2829827/chapter-469-anvil-of-the-emberforge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

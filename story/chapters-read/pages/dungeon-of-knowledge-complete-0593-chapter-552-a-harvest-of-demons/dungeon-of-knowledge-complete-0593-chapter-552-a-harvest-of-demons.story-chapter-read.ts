@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0593Chapter552AHarvestOfDemons = {
   unit: "words",
   completedAt: "2026-06-29T20:32:34.825Z",
   publishedAt: "2026-03-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3104674/chapter-552-a-harvest-of-demons",
-  externalId: "3104674",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3104674",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3104674/chapter-552-a-harvest-of-demons",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

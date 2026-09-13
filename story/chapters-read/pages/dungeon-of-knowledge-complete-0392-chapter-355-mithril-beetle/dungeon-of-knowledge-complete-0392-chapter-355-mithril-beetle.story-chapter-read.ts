@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0392Chapter355MithrilBeetle = {
   unit: "words",
   completedAt: "2026-06-29T20:25:14.781Z",
   publishedAt: "2025-08-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2541282/chapter-355-mithril-beetle",
-  externalId: "2541282",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2541282",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2541282/chapter-355-mithril-beetle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

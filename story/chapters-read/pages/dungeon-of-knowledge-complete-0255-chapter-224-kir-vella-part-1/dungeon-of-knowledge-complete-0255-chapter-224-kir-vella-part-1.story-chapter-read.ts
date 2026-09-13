@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0255Chapter224KirVellaPart1 = {
   unit: "words",
   completedAt: "2026-06-29T20:19:50.733Z",
   publishedAt: "2025-04-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2204133/chapter-224-kirvella-part-1",
-  externalId: "2204133",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2204133",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2204133/chapter-224-kirvella-part-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

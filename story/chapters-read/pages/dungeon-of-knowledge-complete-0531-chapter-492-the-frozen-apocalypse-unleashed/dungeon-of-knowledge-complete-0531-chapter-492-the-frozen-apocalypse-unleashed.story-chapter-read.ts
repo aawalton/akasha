@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0531Chapter492TheFrozenApocalypseUnleashe
   unit: "words",
   completedAt: "2026-06-29T20:30:18.058Z",
   publishedAt: "2025-12-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2895675/chapter-492-the-frozen-apocalypse-unleashed",
-  externalId: "2895675",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2895675",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2895675/chapter-492-the-frozen-apocalypse-unleashed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

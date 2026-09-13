@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0489Chapter452LevelingAssist = {
   unit: "words",
   completedAt: "2026-06-29T20:28:47.756Z",
   publishedAt: "2025-11-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2788698/chapter-452-leveling-assist",
-  externalId: "2788698",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2788698",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2788698/chapter-452-leveling-assist",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

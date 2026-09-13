@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0305Chapter2715AliandraStatusSheet = {
   unit: "words",
   completedAt: "2026-06-29T20:21:37.052Z",
   publishedAt: "2025-06-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2337683/chapter-2715-aliandra-status-sheet",
-  externalId: "2337683",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2337683",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2337683/chapter-2715-aliandra-status-sheet",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

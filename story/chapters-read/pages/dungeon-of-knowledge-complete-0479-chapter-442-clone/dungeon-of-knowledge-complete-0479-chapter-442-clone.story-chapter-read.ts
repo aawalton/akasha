@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0479Chapter442Clone = {
   unit: "words",
   completedAt: "2026-06-29T20:28:26.643Z",
   publishedAt: "2025-11-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2760447/chapter-442-clone",
-  externalId: "2760447",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2760447",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2760447/chapter-442-clone",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

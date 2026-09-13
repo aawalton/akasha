@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0335Chapter299TheMonkSPath = {
   unit: "words",
   completedAt: "2026-06-29T20:22:42.999Z",
   publishedAt: "2025-07-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2405852/chapter-299-the-monks-path",
-  externalId: "2405852",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2405852",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2405852/chapter-299-the-monks-path",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

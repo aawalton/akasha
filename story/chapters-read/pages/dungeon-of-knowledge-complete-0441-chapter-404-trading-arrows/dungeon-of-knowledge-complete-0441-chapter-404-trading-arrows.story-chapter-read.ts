@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0441Chapter404TradingArrows = {
   unit: "words",
   completedAt: "2026-06-29T20:26:59.807Z",
   publishedAt: "2025-10-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2663408/chapter-404-trading-arrows",
-  externalId: "2663408",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2663408",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2663408/chapter-404-trading-arrows",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0329Chapter294RiftGuardian = {
   unit: "words",
   completedAt: "2026-06-29T20:22:29.064Z",
   publishedAt: "2025-06-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2392134/chapter-294-rift-guardian",
-  externalId: "2392134",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2392134",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2392134/chapter-294-rift-guardian",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

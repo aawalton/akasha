@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0279Chapter247LastStandPart2 = {
   unit: "words",
   completedAt: "2026-06-29T20:20:41.482Z",
   publishedAt: "2025-05-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2273712/chapter-247-last-stand-part-2",
-  externalId: "2273712",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2273712",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2273712/chapter-247-last-stand-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

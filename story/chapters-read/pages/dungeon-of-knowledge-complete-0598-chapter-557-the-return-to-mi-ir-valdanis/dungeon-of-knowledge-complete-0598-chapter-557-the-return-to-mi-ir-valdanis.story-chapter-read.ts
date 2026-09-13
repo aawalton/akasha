@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0598Chapter557TheReturnToMiIrValdanis = {
   unit: "words",
   completedAt: "2026-06-29T20:31:19.689Z",
   publishedAt: "2026-03-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3123036/chapter-557-the-return-to-miir-valdanis",
-  externalId: "3123036",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3123036",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3123036/chapter-557-the-return-to-miir-valdanis",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

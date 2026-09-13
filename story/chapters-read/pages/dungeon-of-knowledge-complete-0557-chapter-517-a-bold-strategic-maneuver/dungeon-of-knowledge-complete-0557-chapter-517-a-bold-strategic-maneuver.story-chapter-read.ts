@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0557Chapter517ABoldStrategicManeuver = {
   unit: "words",
   completedAt: "2026-06-29T20:31:14.528Z",
   publishedAt: "2026-01-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2977619/chapter-517-a-bold-strategic-maneuver",
-  externalId: "2977619",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2977619",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2977619/chapter-517-a-bold-strategic-maneuver",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

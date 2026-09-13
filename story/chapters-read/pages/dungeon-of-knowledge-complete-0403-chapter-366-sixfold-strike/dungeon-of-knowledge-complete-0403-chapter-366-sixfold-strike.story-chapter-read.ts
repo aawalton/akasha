@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0403Chapter366SixfoldStrike = {
   unit: "words",
   completedAt: "2026-06-29T20:25:39.691Z",
   publishedAt: "2025-09-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2571053/chapter-366-sixfold-strike",
-  externalId: "2571053",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2571053",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2571053/chapter-366-sixfold-strike",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0539Chapter499TheWellOfEternity = {
   unit: "words",
   completedAt: "2026-06-29T20:30:35.350Z",
   publishedAt: "2026-01-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2920323/chapter-499-the-well-of-eternity",
-  externalId: "2920323",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2920323",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2920323/chapter-499-the-well-of-eternity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

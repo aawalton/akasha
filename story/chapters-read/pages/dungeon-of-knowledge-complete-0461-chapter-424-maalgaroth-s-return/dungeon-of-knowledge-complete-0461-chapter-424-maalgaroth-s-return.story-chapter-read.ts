@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0461Chapter424MaalgarothSReturn = {
   unit: "words",
   completedAt: "2026-06-29T20:27:47.882Z",
   publishedAt: "2025-10-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2714125/chapter-424-maalgaroths-return",
-  externalId: "2714125",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2714125",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2714125/chapter-424-maalgaroths-return",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0364Chapter327PlagueGhoul = {
   unit: "words",
   completedAt: "2026-06-29T20:22:55.668Z",
   publishedAt: "2025-07-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2475762/chapter-327-plague-ghoul",
-  externalId: "2475762",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2475762",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2475762/chapter-327-plague-ghoul",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

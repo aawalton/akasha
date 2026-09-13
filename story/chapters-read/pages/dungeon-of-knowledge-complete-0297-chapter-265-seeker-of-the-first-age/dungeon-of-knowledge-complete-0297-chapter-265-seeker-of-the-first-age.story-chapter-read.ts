@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0297Chapter265SeekerOfTheFirstAge = {
   unit: "words",
   completedAt: "2026-06-29T20:21:20.188Z",
   publishedAt: "2025-06-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2321917/chapter-265-seeker-of-the-first-age",
-  externalId: "2321917",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2321917",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2321917/chapter-265-seeker-of-the-first-age",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

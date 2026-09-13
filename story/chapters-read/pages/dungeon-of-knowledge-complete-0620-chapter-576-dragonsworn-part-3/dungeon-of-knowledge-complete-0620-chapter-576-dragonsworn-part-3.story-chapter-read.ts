@@ -10,9 +10,13 @@ export const dungeonOfKnowledgeComplete0620Chapter576DragonswornPart3 = {
   ownLength: 1815,
   unit: "words",
   publishedAt: "2026-03-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3173159/chapter-576-dragonsworn-part-3",
-  externalId: "3173159",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3173159",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3173159/chapter-576-dragonsworn-part-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

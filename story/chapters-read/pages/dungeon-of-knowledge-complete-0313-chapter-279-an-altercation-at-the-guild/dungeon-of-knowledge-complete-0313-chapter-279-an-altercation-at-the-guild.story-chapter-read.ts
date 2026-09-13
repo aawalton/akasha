@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0313Chapter279AnAltercationAtTheGuild = {
   unit: "words",
   completedAt: "2026-06-29T20:21:54.359Z",
   publishedAt: "2025-06-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2356226/chapter-279-an-altercation-at-the-guild",
-  externalId: "2356226",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2356226",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2356226/chapter-279-an-altercation-at-the-guild",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

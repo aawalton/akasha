@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0417Chapter380TheManaEater = {
   unit: "words",
   completedAt: "2026-06-29T20:26:09.447Z",
   publishedAt: "2025-09-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2607475/chapter-380-the-mana-eater",
-  externalId: "2607475",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2607475",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2607475/chapter-380-the-mana-eater",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

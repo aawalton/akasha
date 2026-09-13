@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0378Chapter341KingsAndEmperorsPart1 = {
   unit: "words",
   completedAt: "2026-06-29T20:23:25.552Z",
   publishedAt: "2025-08-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2504699/chapter-341-kings-and-emperors-part-1",
-  externalId: "2504699",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2504699",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2504699/chapter-341-kings-and-emperors-part-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

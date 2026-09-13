@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0536Chapter496DarkAndTormentedSouls = {
   unit: "words",
   completedAt: "2026-06-29T20:30:28.701Z",
   publishedAt: "2026-01-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2910829/chapter-496-dark-and-tormented-souls",
-  externalId: "2910829",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2910829",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2910829/chapter-496-dark-and-tormented-souls",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

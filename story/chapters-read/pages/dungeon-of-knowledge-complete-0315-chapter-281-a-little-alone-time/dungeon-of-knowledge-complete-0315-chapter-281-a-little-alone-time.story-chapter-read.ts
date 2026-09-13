@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0315Chapter281ALittleAloneTime = {
   unit: "words",
   completedAt: "2026-06-29T20:21:58.883Z",
   publishedAt: "2025-06-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2358442/chapter-281-a-little-alone-time",
-  externalId: "2358442",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2358442",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2358442/chapter-281-a-little-alone-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

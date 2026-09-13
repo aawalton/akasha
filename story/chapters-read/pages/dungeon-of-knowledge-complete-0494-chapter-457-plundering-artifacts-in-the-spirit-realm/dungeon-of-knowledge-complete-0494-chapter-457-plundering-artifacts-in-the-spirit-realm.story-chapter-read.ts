@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0494Chapter457PlunderingArtifactsInTheSpi
   unit: "words",
   completedAt: "2026-06-29T20:28:58.789Z",
   publishedAt: "2025-11-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2797721/chapter-457-plundering-artifacts-in-the-spirit",
-  externalId: "2797721",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2797721",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2797721/chapter-457-plundering-artifacts-in-the-spirit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

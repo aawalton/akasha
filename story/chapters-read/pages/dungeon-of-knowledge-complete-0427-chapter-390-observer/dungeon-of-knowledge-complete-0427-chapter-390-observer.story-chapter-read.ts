@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0427Chapter390Observer = {
   unit: "words",
   completedAt: "2026-06-29T20:26:30.055Z",
   publishedAt: "2025-09-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2627965/chapter-390-observer",
-  externalId: "2627965",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2627965",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2627965/chapter-390-observer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

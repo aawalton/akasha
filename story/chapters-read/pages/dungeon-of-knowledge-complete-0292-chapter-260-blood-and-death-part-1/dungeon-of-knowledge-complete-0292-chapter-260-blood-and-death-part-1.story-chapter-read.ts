@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0292Chapter260BloodAndDeathPart1 = {
   unit: "words",
   completedAt: "2026-06-29T20:21:09.653Z",
   publishedAt: "2025-05-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2309333/chapter-260-blood-and-death-part-1",
-  externalId: "2309333",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2309333",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2309333/chapter-260-blood-and-death-part-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

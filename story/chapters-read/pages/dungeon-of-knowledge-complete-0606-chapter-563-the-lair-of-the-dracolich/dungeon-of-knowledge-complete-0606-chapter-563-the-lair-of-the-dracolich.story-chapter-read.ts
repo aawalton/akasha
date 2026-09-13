@@ -10,9 +10,13 @@ export const dungeonOfKnowledgeComplete0606Chapter563TheLairOfTheDracolich = {
   ownLength: 3621,
   unit: "words",
   publishedAt: "2026-03-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3143659/chapter-563-the-lair-of-the-dracolich",
-  externalId: "3143659",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3143659",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3143659/chapter-563-the-lair-of-the-dracolich",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

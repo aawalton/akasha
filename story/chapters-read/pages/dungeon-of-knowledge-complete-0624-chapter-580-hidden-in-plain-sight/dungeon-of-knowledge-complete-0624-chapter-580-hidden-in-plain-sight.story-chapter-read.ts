@@ -10,9 +10,13 @@ export const dungeonOfKnowledgeComplete0624Chapter580HiddenInPlainSight = {
   ownLength: 2429,
   unit: "words",
   publishedAt: "2026-03-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3180119/chapter-580-hidden-in-plain-sight",
-  externalId: "3180119",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3180119",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3180119/chapter-580-hidden-in-plain-sight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

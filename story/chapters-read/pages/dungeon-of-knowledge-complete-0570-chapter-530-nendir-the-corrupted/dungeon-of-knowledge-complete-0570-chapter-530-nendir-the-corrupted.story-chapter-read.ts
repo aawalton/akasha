@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0570Chapter530NendirTheCorrupted = {
   unit: "words",
   completedAt: "2026-06-29T20:31:43.502Z",
   publishedAt: "2026-02-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3022046/chapter-530-nendir-the-corrupted",
-  externalId: "3022046",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3022046",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3022046/chapter-530-nendir-the-corrupted",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0596Chapter555StealthArmy = {
   unit: "words",
   completedAt: "2026-06-29T20:31:14.402Z",
   publishedAt: "2026-03-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3115682/chapter-555-stealth-army",
-  externalId: "3115682",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3115682",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3115682/chapter-555-stealth-army",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

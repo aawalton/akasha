@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0487Chapter450ShrinePartyWithTheOozeOverl
   unit: "words",
   completedAt: "2026-06-29T20:28:43.779Z",
   publishedAt: "2025-11-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2783555/chapter-450-shrine-party-with-the-ooze-overlord",
-  externalId: "2783555",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2783555",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2783555/chapter-450-shrine-party-with-the-ooze-overlord",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

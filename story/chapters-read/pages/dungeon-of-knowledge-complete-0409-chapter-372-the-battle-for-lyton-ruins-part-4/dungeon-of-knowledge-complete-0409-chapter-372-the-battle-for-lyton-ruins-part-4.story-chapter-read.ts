@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0409Chapter372TheBattleForLytonRuinsPart4
   unit: "words",
   completedAt: "2026-06-29T20:25:52.543Z",
   publishedAt: "2025-09-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2587242/chapter-372-the-battle-for-lyton-ruins-part-4",
-  externalId: "2587242",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2587242",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2587242/chapter-372-the-battle-for-lyton-ruins-part-4",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

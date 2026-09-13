@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0434Chapter397TheCathedral = {
   unit: "words",
   completedAt: "2026-06-29T20:26:44.663Z",
   publishedAt: "2025-10-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2645841/chapter-397-the-cathedral",
-  externalId: "2645841",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2645841",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2645841/chapter-397-the-cathedral",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

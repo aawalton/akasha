@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0277Chapter245SnowGlobe = {
   unit: "words",
   completedAt: "2026-06-29T20:20:37.255Z",
   publishedAt: "2025-05-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2269277/chapter-245-snow-globe",
-  externalId: "2269277",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2269277",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2269277/chapter-245-snow-globe",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

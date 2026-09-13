@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0569Chapter529TheInnerRing = {
   unit: "words",
   completedAt: "2026-06-29T20:31:41.224Z",
   publishedAt: "2026-02-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3018674/chapter-529-the-inner-ring",
-  externalId: "3018674",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3018674",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3018674/chapter-529-the-inner-ring",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

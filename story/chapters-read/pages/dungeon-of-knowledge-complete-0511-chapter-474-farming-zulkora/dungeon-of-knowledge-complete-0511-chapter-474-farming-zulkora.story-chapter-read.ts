@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0511Chapter474FarmingZulkora = {
   unit: "words",
   completedAt: "2026-06-29T20:29:35.661Z",
   publishedAt: "2025-12-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2844615/chapter-474-farming-zulkora",
-  externalId: "2844615",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2844615",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2844615/chapter-474-farming-zulkora",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0323Chapter289ThePathOfTheWanderer = {
   unit: "words",
   completedAt: "2026-06-29T20:22:16.450Z",
   publishedAt: "2025-06-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2379107/chapter-289-the-path-of-the-wanderer",
-  externalId: "2379107",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2379107",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2379107/chapter-289-the-path-of-the-wanderer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

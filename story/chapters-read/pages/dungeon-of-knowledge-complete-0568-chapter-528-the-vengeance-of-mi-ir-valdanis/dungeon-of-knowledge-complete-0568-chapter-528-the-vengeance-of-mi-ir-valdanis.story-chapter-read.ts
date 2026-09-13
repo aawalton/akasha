@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0568Chapter528TheVengeanceOfMiIrValdanis 
   unit: "words",
   completedAt: "2026-06-29T20:31:38.974Z",
   publishedAt: "2026-02-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3015141/chapter-528-the-vengeance-of-miir-valdanis",
-  externalId: "3015141",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3015141",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3015141/chapter-528-the-vengeance-of-miir-valdanis",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

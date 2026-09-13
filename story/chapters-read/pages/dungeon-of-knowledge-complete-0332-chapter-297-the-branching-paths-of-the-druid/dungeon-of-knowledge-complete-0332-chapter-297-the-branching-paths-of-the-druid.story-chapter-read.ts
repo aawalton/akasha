@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0332Chapter297TheBranchingPathsOfTheDruid
   unit: "words",
   completedAt: "2026-06-29T20:22:35.363Z",
   publishedAt: "2025-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2400466/chapter-297-the-branching-paths-of-the-druid",
-  externalId: "2400466",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2400466",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2400466/chapter-297-the-branching-paths-of-the-druid",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

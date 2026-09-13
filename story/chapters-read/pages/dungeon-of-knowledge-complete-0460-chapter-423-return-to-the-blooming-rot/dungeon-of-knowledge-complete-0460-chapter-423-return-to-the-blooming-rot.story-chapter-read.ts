@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0460Chapter423ReturnToTheBloomingRot = {
   unit: "words",
   completedAt: "2026-06-29T20:27:45.682Z",
   publishedAt: "2025-10-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2711444/chapter-423-return-to-the-blooming-rot",
-  externalId: "2711444",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2711444",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2711444/chapter-423-return-to-the-blooming-rot",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

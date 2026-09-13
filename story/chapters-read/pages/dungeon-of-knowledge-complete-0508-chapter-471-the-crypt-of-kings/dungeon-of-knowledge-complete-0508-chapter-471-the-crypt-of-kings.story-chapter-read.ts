@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0508Chapter471TheCryptOfKings = {
   unit: "words",
   completedAt: "2026-06-29T20:29:28.861Z",
   publishedAt: "2025-12-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2835882/chapter-471-the-crypt-of-kings",
-  externalId: "2835882",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2835882",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2835882/chapter-471-the-crypt-of-kings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

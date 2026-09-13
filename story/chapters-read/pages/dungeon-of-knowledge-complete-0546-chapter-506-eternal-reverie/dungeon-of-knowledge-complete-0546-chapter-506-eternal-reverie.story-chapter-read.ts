@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0546Chapter506EternalReverie = {
   unit: "words",
   completedAt: "2026-06-29T20:30:50.252Z",
   publishedAt: "2026-01-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2942182/chapter-506-eternal-reverie",
-  externalId: "2942182",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2942182",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2942182/chapter-506-eternal-reverie",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

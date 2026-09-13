@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0455Chapter418RiftChamber = {
   unit: "words",
   completedAt: "2026-06-29T20:27:34.432Z",
   publishedAt: "2025-10-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2698775/chapter-418-rift-chamber",
-  externalId: "2698775",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2698775",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2698775/chapter-418-rift-chamber",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

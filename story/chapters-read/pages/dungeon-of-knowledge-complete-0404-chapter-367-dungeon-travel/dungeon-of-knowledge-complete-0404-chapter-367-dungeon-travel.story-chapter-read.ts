@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0404Chapter367DungeonTravel = {
   unit: "words",
   completedAt: "2026-06-29T20:25:41.893Z",
   publishedAt: "2025-09-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2573701/chapter-367-dungeon-travel",
-  externalId: "2573701",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2573701",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2573701/chapter-367-dungeon-travel",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0338Chapter301ATrollSRegret = {
   unit: "words",
   completedAt: "2026-06-29T20:22:00.538Z",
   publishedAt: "2025-07-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2411227/chapter-301-a-trolls-regret",
-  externalId: "2411227",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2411227",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2411227/chapter-301-a-trolls-regret",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

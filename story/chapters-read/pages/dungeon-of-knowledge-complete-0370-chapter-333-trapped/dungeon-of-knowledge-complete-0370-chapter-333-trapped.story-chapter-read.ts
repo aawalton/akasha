@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0370Chapter333Trapped = {
   unit: "words",
   completedAt: "2026-06-29T20:23:08.884Z",
   publishedAt: "2025-08-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2486533/chapter-333-trapped",
-  externalId: "2486533",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2486533",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2486533/chapter-333-trapped",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

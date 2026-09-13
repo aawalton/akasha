@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0464Chapter427DefenderOfMyrinSKeep = {
   unit: "words",
   completedAt: "2026-06-29T20:27:54.260Z",
   publishedAt: "2025-11-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2722877/chapter-427-defender-of-myrins-keep",
-  externalId: "2722877",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2722877",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2722877/chapter-427-defender-of-myrins-keep",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

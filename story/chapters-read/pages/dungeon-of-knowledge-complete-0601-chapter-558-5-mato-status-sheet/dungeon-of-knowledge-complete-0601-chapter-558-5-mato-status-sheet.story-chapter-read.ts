@@ -10,9 +10,13 @@ export const dungeonOfKnowledgeComplete0601Chapter5585MatoStatusSheet = {
   ownLength: 1861,
   unit: "words",
   publishedAt: "2026-03-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3126666/chapter-5585-mato-status-sheet",
-  externalId: "3126666",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3126666",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3126666/chapter-5585-mato-status-sheet",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
