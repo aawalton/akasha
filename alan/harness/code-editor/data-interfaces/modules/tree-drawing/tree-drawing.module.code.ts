@@ -61,7 +61,19 @@ function workRow(root: string, node: WorkNode): WorkTreeRow {
 }
 
 export function workTreeLine(root: string): string {
-  const roots = treeIn(root).map((node) => workRow(root, node as WorkNode))
+  const under = treeIn(root).map((node) => workRow(root, node as WorkNode))
+  const roots: readonly WorkTreeRow[] = [
+    {
+      kind: "root",
+      key: "root",
+      label: "work",
+      at: null,
+      color: null,
+      detail: null,
+      note: null,
+      children: under,
+    },
+  ]
   return JSON.stringify({ roots } satisfies WorkTreeState)
 }
 

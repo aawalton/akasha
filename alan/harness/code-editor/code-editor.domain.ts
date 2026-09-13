@@ -103,11 +103,11 @@ export const codeEditor = {
     },
     {
       invariantKind: "departure",
-      statement: "The work panel's roots are the initiatives under no other initiative.",
+      statement: "The work panel's top row holds the initiatives under no other initiative.",
     },
     {
       invariantKind: "departure",
-      statement: "The work panel's roots are ordered alphabetically by slug.",
+      statement: "The initiatives under that top row are ordered alphabetically by slug.",
     },
     {
       invariantKind: "departure",
@@ -200,7 +200,8 @@ export const codeEditor = {
     },
     {
       invariantKind: "departure",
-      statement: "A row in the work panel is an initiative or an intent that initiative has.",
+      statement:
+        "A row in the work panel is the top row, an initiative, or an intent that initiative has.",
     },
     {
       invariantKind: "departure",

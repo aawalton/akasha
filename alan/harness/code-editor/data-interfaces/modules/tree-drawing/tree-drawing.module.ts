@@ -43,7 +43,23 @@ export const treeDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "A work row has the kind that row is among the work tree's two kinds.",
+      statement: "A work row has the kind that row is among the work tree's three kinds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tree whose rows reach no single row of their own is given one to hang under.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The row given that way is keyed `root` and carries the kind `root`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The row given that way is labelled by what the panel holding it is named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The row given that way opens no document and has no color.",
     },
     {
       invariantKind: "departure",
