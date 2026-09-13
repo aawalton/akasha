@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   refuseStatedParent,
   STATED_PARENT,
-} from "akasha/agents/seats/name-claiming/modules/stated-parent-refusal/seat-stated-parent-refusal.module.code.ts"
+} from "akasha/agents/seats/name-claiming/modules/seat-stated-parent-refusal/seat-stated-parent-refusal.module.code.ts"
 
 const ID = "0199a1b2-c3d4-7e5f-8091-a2b3c4d5e6f7"
 

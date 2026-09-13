@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { refuseStatedName } from "akasha/agents/seats/name-claiming/modules/stated-name-refusal/seat-stated-name-refusal.module.code.ts"
+import { refuseStatedName } from "akasha/agents/seats/name-claiming/modules/seat-stated-name-refusal/seat-stated-name-refusal.module.code.ts"
 
 function refusalOf(said: string): string {
   return `\`${said}\` is no argument \`akasha seat start\` takes — it takes \`--persona\``

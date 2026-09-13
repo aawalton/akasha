@@ -4,7 +4,7 @@ import { gatherAgentNameBindInput } from "akasha/agents/seats/name-claiming/modu
 import {
   claimed,
   type Presence,
-} from "akasha/agents/seats/name-claiming/modules/name-claim/seat-name-claim.module.code.ts"
+} from "akasha/agents/seats/name-claiming/modules/seat-name-claim/seat-name-claim.module.code.ts"
 import { inputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 
 export interface SetAgentNameBind {

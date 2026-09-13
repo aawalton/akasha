@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   decideRelaunchName,
   RELAUNCH_NAME_OUTCOMES,
-} from "akasha/agents/seats/name-claiming/modules/relaunch-name-decide/seat-relaunch-name-decide.module.code.ts"
+} from "akasha/agents/seats/name-claiming/modules/seat-relaunch-name-decide/seat-relaunch-name-decide.module.code.ts"
 
 test("a name already on the row is the name the seat comes back under", () => {
   expect(decideRelaunchName({ rowName: "scribe", providedName: null })).toEqual({

@@ -3,7 +3,7 @@ import {
   addressableByName,
   type Claiming,
   type Presence,
-} from "akasha/agents/seats/name-claiming/modules/name-claim/seat-name-claim.module.code.ts"
+} from "akasha/agents/seats/name-claiming/modules/seat-name-claim/seat-name-claim.module.code.ts"
 import { agentHolderProcess } from "akasha/agents/seats/observation/modules/presence-read/seat-presence-read.module.code.ts"
 import {
   parseSeatProcKey,

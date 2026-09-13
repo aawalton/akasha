@@ -15,9 +15,9 @@ import {
   personaDefaultsOf,
 } from "akasha/agents/seats/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { composedNameOf } from "akasha/agents/seats/name/modules/rename/seat-rename.module.code.ts"
-import { mintNamedAgent } from "akasha/agents/seats/name-claiming/modules/name-bind/seat-name-bind.module.code.ts"
-import { refuseHeldName } from "akasha/agents/seats/name-claiming/modules/name-held-refusal/seat-name-held-refusal.module.code.ts"
-import { refuseParentless } from "akasha/agents/seats/name-claiming/modules/parentless-refusal/seat-parentless-refusal.module.code.ts"
+import { mintNamedAgent } from "akasha/agents/seats/name-claiming/modules/seat-name-bind/seat-name-bind.module.code.ts"
+import { refuseHeldName } from "akasha/agents/seats/name-claiming/modules/seat-name-held-refusal/seat-name-held-refusal.module.code.ts"
+import { refuseParentless } from "akasha/agents/seats/name-claiming/modules/seat-parentless-refusal/seat-parentless-refusal.module.code.ts"
 import {
   decideSkillTokenGuard,
   DECLARING_MODULE as SKILL_TOKEN_GUARD_DECLARING,
