@@ -14,6 +14,7 @@ export const codeCheck = {
     "code-check/browser-code-reads-the-environment-by-a-name",
     "code-check/calculation-imports-only-types",
     "code-check/change-is-reached-through-a-runner",
+    "code-check/change-reaches-its-own-target-type",
     "code-check/check-reaches-a-path-through-the-index",
     "code-check/client-reaches-a-server-module-through-a-route",
     "code-check/client-reaches-pages-through-its-hooks",
