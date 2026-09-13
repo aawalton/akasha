@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
-
-export const temperArmorEnchant = {
-  id: "01a0607b-153f-79e1-8c93-beae9f0efba2",
-  type: "module",
-  slug: "temper-armor-enchant",
-  definition: "the armor enchants data file, rendered from pages",
-  code: "ts",
-} as const satisfies Module

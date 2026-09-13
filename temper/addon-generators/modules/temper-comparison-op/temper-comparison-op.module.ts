@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
-
-export const temperComparisonOp = {
-  id: "01a0607b-1546-79f6-8895-872da7a3e3ec",
-  type: "module",
-  slug: "temper-comparison-op",
-  definition: "the comparison ops data file, rendered from pages",
-  code: "ts",
-} as const satisfies Module
