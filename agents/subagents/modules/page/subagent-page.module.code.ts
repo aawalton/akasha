@@ -1,10 +1,10 @@
 import { seatNameForAgent } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
-import type { StandingSubagent } from "akasha/agents/subagents/modules/guard/subagent-guard.module.code.ts"
 import {
   akashaSubagentPathsOf,
   removeAkashaSubagentPagesOf,
   sweepingAkashaSubagentPagesOf,
 } from "akasha/agents/subagents/modules/page-akasha/subagent-page-akasha.module.code.ts"
+import type { StandingSubagent } from "akasha/agents/subagents/modules/subagent-guard/subagent-guard.module.code.ts"
 import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
 import {
   AKASHA,
