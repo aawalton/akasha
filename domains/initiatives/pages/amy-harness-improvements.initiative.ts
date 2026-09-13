@@ -30,6 +30,16 @@ export const amyHarnessImprovements = {
     {
       statement: "Each editor panel opens by Ctrl+Alt and the first letter of that panel's name.",
     },
+    {
+      statement: "A colored row takes that color on its name and nowhere else.",
+    },
+    {
+      statement:
+        "A row whose children carry colors counts those children by color, after the whole count.",
+    },
+    {
+      statement: "A count for a color carries that color rather than a label naming it.",
+    },
   ],
 
   constraints: [
