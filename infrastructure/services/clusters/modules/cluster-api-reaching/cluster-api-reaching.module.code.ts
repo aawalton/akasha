@@ -52,10 +52,6 @@ function getConfig(): K8sAdminConfig {
   return cachedConfig
 }
 
-export async function apiFetch(path: string): Promise<Response> {
-  return k8sFetch(path, getConfig())
-}
-
 export async function proxyFetch(
   namespace: string,
   service: string,
