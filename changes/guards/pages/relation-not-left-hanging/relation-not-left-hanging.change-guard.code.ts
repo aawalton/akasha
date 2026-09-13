@@ -11,6 +11,9 @@ import {
 } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
 import type { Named } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { pageNamed, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+
+const ID = "id"
 
 function hangingOn(path: string, namer: Named): string {
   const names = `\`${namer.path}\` names \`${path}\` as its \`${namer.propertySlug}\``
@@ -54,10 +57,11 @@ function hangingIn(given: Guarding, taken: readonly string[]): string | null {
     if (!pageNamed(path, pageTypes)) continue
     const own = partedIn(path)?.pageType
     if (own === undefined || known.mortal(own)) continue
-    for (const one of given.before.index.listedByPath(path)) {
-      const namer = namerIn(given, one.id, known, written)
-      if (namer !== undefined) return hangingOn(path, namer)
-    }
+    const page = given.before.index.pageByPath(path)
+    const id = page === null ? null : textAt(page, ID)
+    if (id === null) continue
+    const namer = namerIn(given, id, known, written)
+    if (namer !== undefined) return hangingOn(path, namer)
   }
   return null
 }
