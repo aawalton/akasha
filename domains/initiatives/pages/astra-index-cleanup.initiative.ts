@@ -7,6 +7,11 @@ export const astraIndexCleanup = {
   domain: "domain/index",
   persona: "astra",
   intents: [
+    {
+      statement: "Every worktree has its own identity index and relation index.",
+      workingMemory:
+        "`indexIn` hops through `gitFolderIn` to the main repository in `index-surface`, so all six `.git/trees/*` worktrees read one index. `<repoRoot>/.index` kills that hop, and a worktree with no index refuses every read `answered` guards, so whatever makes a worktree builds it — 19 s for 71,151 pages. `.index` is skipped by `tree-reading`, `code-tests`, `stale-folders`, `.dockerignore` and `biome.json`, and stays in `.gitignore`, which is also what lets the indexer write it.",
+    },
     { statement: "Alan holds the value index's structure correct." },
     { statement: "Alan holds the path index's structure correct." },
     { statement: "Alan holds the listing index's structure correct." },
