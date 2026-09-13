@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0026Chapter25TheArenaOfTheTitan
   position: 26,
   ownLength: 2478,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2659042/chapter-25-the-arena-of-the-titans",
-  externalId: "2659042",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2659042",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2659042/chapter-25-the-arena-of-the-titans",
+    },
+  ],
   publishedAt: "2025-10-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

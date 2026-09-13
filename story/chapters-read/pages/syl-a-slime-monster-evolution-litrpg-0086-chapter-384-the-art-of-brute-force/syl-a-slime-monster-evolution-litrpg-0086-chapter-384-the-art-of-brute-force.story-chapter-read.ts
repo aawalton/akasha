@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0086Chapter384TheArtOfBruteForce = {
   position: 86,
   ownLength: 2522,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3452074/chapter-384-the-art-of-brute-force",
-  externalId: "3452074",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3452074",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3452074/chapter-384-the-art-of-brute-force",
+    },
+  ],
   publishedAt: "2026-05-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0097Chapter395GolemTide = {
   position: 97,
   ownLength: 2702,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3582885/chapter-395-golem-tide",
-  externalId: "3582885",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3582885",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3582885/chapter-395-golem-tide",
+    },
+  ],
   publishedAt: "2026-06-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

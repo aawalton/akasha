@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0088Chapter166TheVote = {
   position: 88,
   ownLength: 6600,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1658434/chapter-166-the-vote",
-  externalId: "1658434",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1658434",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1658434/chapter-166-the-vote",
+    },
+  ],
   publishedAt: "2024-05-31",
   ownProgress: 6600,
   completedAt: "2026-06-29T21:17:49.897Z",

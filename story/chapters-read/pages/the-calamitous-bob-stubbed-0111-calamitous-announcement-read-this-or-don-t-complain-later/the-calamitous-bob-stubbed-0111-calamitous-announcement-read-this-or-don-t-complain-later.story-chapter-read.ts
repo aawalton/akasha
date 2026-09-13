@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0111CalamitousAnnouncementReadThisOrDonTComp
   position: 111,
   ownLength: 260,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2004348/calamitous-announcement-read-this-or-dont-complain",
-  externalId: "2004348",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2004348",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2004348/calamitous-announcement-read-this-or-dont-complain",
+    },
+  ],
   publishedAt: "2025-01-11",
   ownProgress: 260,
   completedAt: "2026-06-29T21:18:35.938Z",

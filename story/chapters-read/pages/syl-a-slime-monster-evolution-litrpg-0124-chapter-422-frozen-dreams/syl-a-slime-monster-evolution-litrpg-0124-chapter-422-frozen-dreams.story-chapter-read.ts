@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0124Chapter422FrozenDreams = {
   position: 124,
   ownLength: 2299,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-book-5-stub-sep-9th/chapter/3898943/chapter-422-frozen-dreams",
-  externalId: "3898943",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3898943",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-book-5-stub-sep-9th/chapter/3898943/chapter-422-frozen-dreams",
+    },
+  ],
   publishedAt: "2026-09-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0050Chapter130Conscripted = {
   position: 50,
   ownLength: 4787,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1306814/chapter-130-conscripted",
-  externalId: "1306814",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1306814",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1306814/chapter-130-conscripted",
+    },
+  ],
   publishedAt: "2023-08-11",
   ownProgress: 4787,
   completedAt: "2026-06-29T21:16:28.094Z",

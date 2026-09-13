@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0046Chapter624JustTheStart = {
   position: 46,
   ownLength: 2124,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2986240/chapter-624-just-the-start",
-  externalId: "2986240",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2986240",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2986240/chapter-624-just-the-start",
+    },
+  ],
   publishedAt: "2026-01-28",
   ownProgress: 2124,
   completedAt: "2026-06-29T19:58:12.558Z",

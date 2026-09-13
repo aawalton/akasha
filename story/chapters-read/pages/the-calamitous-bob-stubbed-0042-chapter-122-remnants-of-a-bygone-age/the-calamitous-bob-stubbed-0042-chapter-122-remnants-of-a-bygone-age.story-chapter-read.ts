@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0042Chapter122RemnantsOfABygoneAge = {
   position: 42,
   ownLength: 6877,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1248095/chapter-122-remnants-of-a-bygone-age",
-  externalId: "1248095",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1248095",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1248095/chapter-122-remnants-of-a-bygone-age",
+    },
+  ],
   publishedAt: "2023-06-16",
   ownProgress: 6877,
   completedAt: "2026-06-29T21:16:10.810Z",

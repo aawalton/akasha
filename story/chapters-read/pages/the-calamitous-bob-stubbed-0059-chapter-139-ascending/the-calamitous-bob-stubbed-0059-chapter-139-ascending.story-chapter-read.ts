@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0059Chapter139Ascending = {
   position: 59,
   ownLength: 5962,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1387144/chapter-139-ascending",
-  externalId: "1387144",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1387144",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1387144/chapter-139-ascending",
+    },
+  ],
   publishedAt: "2023-10-27",
   ownProgress: 5962,
   completedAt: "2026-06-29T21:16:48.376Z",

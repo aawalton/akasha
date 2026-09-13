@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0093Chapter171SardanalSCradle = {
   position: 93,
   ownLength: 4464,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1751221/chapter-171-sardanals-cradle",
-  externalId: "1751221",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1751221",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1751221/chapter-171-sardanals-cradle",
+    },
+  ],
   publishedAt: "2024-08-09",
   ownProgress: 4464,
   completedAt: "2026-06-29T21:17:59.169Z",

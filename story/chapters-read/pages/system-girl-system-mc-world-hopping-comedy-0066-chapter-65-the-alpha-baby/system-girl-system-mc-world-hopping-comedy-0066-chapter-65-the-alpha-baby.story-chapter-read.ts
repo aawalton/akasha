@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0066Chapter65TheAlphaBaby = {
   position: 66,
   ownLength: 2319,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3175918/chapter-65-the-alpha-baby",
-  externalId: "3175918",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3175918",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3175918/chapter-65-the-alpha-baby",
+    },
+  ],
   publishedAt: "2026-03-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

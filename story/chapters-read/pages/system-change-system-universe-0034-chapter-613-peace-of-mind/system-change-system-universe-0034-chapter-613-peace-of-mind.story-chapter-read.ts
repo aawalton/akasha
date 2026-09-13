@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0034Chapter613PeaceOfMind = {
   position: 34,
   ownLength: 2144,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2860191/chapter-613-peace-of-mind",
-  externalId: "2860191",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2860191",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2860191/chapter-613-peace-of-mind",
+    },
+  ],
   publishedAt: "2025-12-19",
   ownProgress: 2144,
   completedAt: "2026-06-29T19:57:49.771Z",

@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0009Chapter9TheUpgradePath = {
   position: 9,
   ownLength: 1811,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2590719/chapter-9-the-upgrade-path",
-  externalId: "2590719",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2590719",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2590719/chapter-9-the-upgrade-path",
+    },
+  ],
   publishedAt: "2025-09-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

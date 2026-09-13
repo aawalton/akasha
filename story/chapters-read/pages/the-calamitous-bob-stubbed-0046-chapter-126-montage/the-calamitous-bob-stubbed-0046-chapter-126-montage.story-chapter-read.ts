@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0046Chapter126Montage = {
   position: 46,
   ownLength: 4955,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1276824/chapter-126-montage",
-  externalId: "1276824",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1276824",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1276824/chapter-126-montage",
+    },
+  ],
   publishedAt: "2023-07-14",
   ownProgress: 4955,
   completedAt: "2026-06-29T21:16:19.619Z",

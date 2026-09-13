@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0069Chapter68TheMythOfTheMichel
   position: 69,
   ownLength: 2228,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3228146/chapter-68-the-myth-of-the-michelin-duck",
-  externalId: "3228146",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3228146",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3228146/chapter-68-the-myth-of-the-michelin-duck",
+    },
+  ],
   publishedAt: "2026-04-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

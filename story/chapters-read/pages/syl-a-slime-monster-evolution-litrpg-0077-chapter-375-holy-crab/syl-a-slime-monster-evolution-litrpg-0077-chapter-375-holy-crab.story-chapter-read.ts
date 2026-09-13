@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0077Chapter375HolyCrab = {
   position: 77,
   ownLength: 2279,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3295197/chapter-375-holy-crab",
-  externalId: "3295197",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3295197",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3295197/chapter-375-holy-crab",
+    },
+  ],
   publishedAt: "2026-04-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

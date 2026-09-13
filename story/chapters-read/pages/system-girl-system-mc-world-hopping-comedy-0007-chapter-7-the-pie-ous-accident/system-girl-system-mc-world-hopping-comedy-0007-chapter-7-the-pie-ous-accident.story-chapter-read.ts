@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0007Chapter7ThePieOusAccident =
   position: 7,
   ownLength: 1584,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2583226/chapter-7-the-pie-ous-accident",
-  externalId: "2583226",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2583226",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2583226/chapter-7-the-pie-ous-accident",
+    },
+  ],
   publishedAt: "2025-09-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

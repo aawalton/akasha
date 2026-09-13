@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0116Chapter192IsWimdy = {
   position: 116,
   ownLength: 5254,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2053654/chapter-192-is-wimdy",
-  externalId: "2053654",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2053654",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2053654/chapter-192-is-wimdy",
+    },
+  ],
   publishedAt: "2025-02-07",
   ownProgress: 5254,
   completedAt: "2026-06-29T21:18:47.014Z",

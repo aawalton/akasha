@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0109Chapter407SlimeSwarm = {
   position: 109,
   ownLength: 2399,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3717855/chapter-407-slime-swarm",
-  externalId: "3717855",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3717855",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3717855/chapter-407-slime-swarm",
+    },
+  ],
   publishedAt: "2026-07-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

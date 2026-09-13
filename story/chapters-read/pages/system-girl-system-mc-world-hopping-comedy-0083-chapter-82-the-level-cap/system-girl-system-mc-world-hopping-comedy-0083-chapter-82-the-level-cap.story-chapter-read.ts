@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0083Chapter82TheLevelCap = {
   position: 83,
   ownLength: 2559,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3493326/chapter-82-the-level-cap",
-  externalId: "3493326",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3493326",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3493326/chapter-82-the-level-cap",
+    },
+  ],
   publishedAt: "2026-06-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

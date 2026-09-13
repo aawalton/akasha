@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0095Chapter173Arachnomachia = {
   position: 95,
   ownLength: 5174,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1771472/chapter-173-arachnomachia",
-  externalId: "1771472",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1771472",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1771472/chapter-173-arachnomachia",
+    },
+  ],
   publishedAt: "2024-08-23",
   ownProgress: 5174,
   completedAt: "2026-06-29T21:18:02.889Z",

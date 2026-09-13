@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0066Chapter644WhatThe = {
   position: 66,
   ownLength: 2121,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3330893/chapter-644-what-the",
-  externalId: "3330893",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3330893",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3330893/chapter-644-what-the",
+    },
+  ],
   publishedAt: "2026-04-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

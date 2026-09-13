@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0087AnnouncementAnotherBookOut = {
   position: 87,
   ownLength: 154,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1649065/announcement-another-book-out",
-  externalId: "1649065",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1649065",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1649065/announcement-another-book-out",
+    },
+  ],
   publishedAt: "2024-05-24",
   ownProgress: 154,
   completedAt: "2026-06-29T21:17:47.944Z",

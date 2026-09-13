@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0107Chapter405CorruptionBarriers = {
   position: 107,
   ownLength: 2690,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3700385/chapter-405-corruption-barriers",
-  externalId: "3700385",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3700385",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3700385/chapter-405-corruption-barriers",
+    },
+  ],
   publishedAt: "2026-07-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

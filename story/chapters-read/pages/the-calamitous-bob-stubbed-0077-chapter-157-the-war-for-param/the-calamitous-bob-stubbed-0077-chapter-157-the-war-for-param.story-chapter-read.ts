@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0077Chapter157TheWarForParam = {
   position: 77,
   ownLength: 5945,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1564195/chapter-157-the-war-for-param",
-  externalId: "1564195",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1564195",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1564195/chapter-157-the-war-for-param",
+    },
+  ],
   publishedAt: "2024-03-22",
   ownProgress: 5945,
   completedAt: "2026-06-29T21:17:29.170Z",

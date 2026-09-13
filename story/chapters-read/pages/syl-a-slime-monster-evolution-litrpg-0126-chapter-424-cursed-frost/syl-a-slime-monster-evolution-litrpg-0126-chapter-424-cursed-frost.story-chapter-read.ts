@@ -8,11 +8,15 @@ export const sylASlimeMonsterEvolutionLitrpg0126Chapter424CursedFrost = {
   position: 126,
   publishedAt: "2026-09-07",
   unit: "words",
-  externalId: "3923518",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3923518",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-book-5-stub-sep-9th/chapter/3923518/chapter-424-cursed-frost",
+    },
+  ],
   title: "Chapter 424 : Cursed Frost",
   ownLength: 2234,
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-book-5-stub-sep-9th/chapter/3923518/chapter-424-cursed-frost",
   prose: "txt",
 } as const satisfies StoryChapterRead

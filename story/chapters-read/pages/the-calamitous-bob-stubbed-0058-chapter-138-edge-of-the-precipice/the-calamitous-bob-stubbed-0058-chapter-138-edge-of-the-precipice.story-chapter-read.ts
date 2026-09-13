@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0058Chapter138EdgeOfThePrecipice = {
   position: 58,
   ownLength: 6247,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1380246/chapter-138-edge-of-the-precipice",
-  externalId: "1380246",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1380246",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1380246/chapter-138-edge-of-the-precipice",
+    },
+  ],
   publishedAt: "2023-10-20",
   ownProgress: 6247,
   completedAt: "2026-06-29T21:16:46.103Z",

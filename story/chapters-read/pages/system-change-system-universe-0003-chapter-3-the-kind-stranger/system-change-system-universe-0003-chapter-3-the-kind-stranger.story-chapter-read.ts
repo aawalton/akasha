@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0003Chapter3TheKindStranger = {
   position: 3,
   ownLength: 2047,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/548007/chapter-3-the-kind-stranger",
-  externalId: "548007",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "548007",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/548007/chapter-3-the-kind-stranger",
+    },
+  ],
   publishedAt: "2020-09-01",
   ownProgress: 2047,
   completedAt: "2026-06-29T19:56:50.758Z",

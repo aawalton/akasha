@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0090Chapter668TierIiiVip = {
   position: 90,
   ownLength: 2206,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3708521/chapter-668-tier-iii-vip",
-  externalId: "3708521",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3708521",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3708521/chapter-668-tier-iii-vip",
+    },
+  ],
   publishedAt: "2026-07-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

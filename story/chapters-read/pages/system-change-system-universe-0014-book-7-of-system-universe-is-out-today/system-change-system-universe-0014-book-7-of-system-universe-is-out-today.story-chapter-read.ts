@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0014Book7OfSystemUniverseIsOutToday = {
   position: 14,
   ownLength: 475,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1951201/book-7-of-system-universe-is-out-today",
-  externalId: "1951201",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1951201",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1951201/book-7-of-system-universe-is-out-today",
+    },
+  ],
   publishedAt: "2024-12-11",
   ownProgress: 475,
   completedAt: "2026-06-29T19:57:11.519Z",

@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0054Chapter53TheRoutineOfAMerch
   position: 54,
   ownLength: 2296,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2973739/chapter-53-the-routine-of-a-merchant-lord",
-  externalId: "2973739",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2973739",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2973739/chapter-53-the-routine-of-a-merchant-lord",
+    },
+  ],
   publishedAt: "2026-01-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0068Chapter148HarrakIsBack = {
   position: 68,
   ownLength: 7144,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1474858/chapter-148-harrak-is-back",
-  externalId: "1474858",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1474858",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1474858/chapter-148-harrak-is-back",
+    },
+  ],
   publishedAt: "2024-01-12",
   ownProgress: 7144,
   completedAt: "2026-06-29T21:17:08.459Z",

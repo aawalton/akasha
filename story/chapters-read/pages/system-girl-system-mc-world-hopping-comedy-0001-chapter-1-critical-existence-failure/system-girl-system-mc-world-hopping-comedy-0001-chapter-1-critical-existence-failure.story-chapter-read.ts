@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0001Chapter1CriticalExistenceFa
   position: 1,
   ownLength: 1502,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2568655/chapter-1-critical-existence-failure",
-  externalId: "2568655",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2568655",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2568655/chapter-1-critical-existence-failure",
+    },
+  ],
   publishedAt: "2025-09-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

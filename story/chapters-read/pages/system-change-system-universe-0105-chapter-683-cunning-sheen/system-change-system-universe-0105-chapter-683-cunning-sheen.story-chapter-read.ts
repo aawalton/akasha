@@ -8,11 +8,15 @@ export const systemChangeSystemUniverse0105Chapter683CunningSheen = {
   position: 105,
   publishedAt: "2026-09-08",
   unit: "words",
-  externalId: "3932198",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3932198",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3932198/chapter-683-cunning-sheen",
+    },
+  ],
   title: "Chapter 683: Cunning Sheen",
   ownLength: 2658,
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3932198/chapter-683-cunning-sheen",
   prose: "txt",
 } as const satisfies StoryChapterRead

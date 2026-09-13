@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0115Chapter191ControlledGrowth = {
   position: 115,
   ownLength: 5301,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2040566/chapter-191-controlled-growth",
-  externalId: "2040566",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2040566",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2040566/chapter-191-controlled-growth",
+    },
+  ],
   publishedAt: "2025-01-31",
   ownProgress: 5301,
   completedAt: "2026-06-29T21:18:44.710Z",

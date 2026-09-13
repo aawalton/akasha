@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0076Chapter156TheWeaversOfFate = {
   position: 76,
   ownLength: 7063,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1556443/chapter-156-the-weavers-of-fate",
-  externalId: "1556443",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1556443",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1556443/chapter-156-the-weavers-of-fate",
+    },
+  ],
   publishedAt: "2024-03-16",
   ownProgress: 7063,
   completedAt: "2026-06-29T21:17:27.224Z",

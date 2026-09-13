@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0061Chapter141TheLeagueConspires = {
   position: 61,
   ownLength: 5455,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1404054/chapter-141-the-league-conspires",
-  externalId: "1404054",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1404054",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1404054/chapter-141-the-league-conspires",
+    },
+  ],
   publishedAt: "2023-11-10",
   ownProgress: 5455,
   completedAt: "2026-06-29T21:16:52.872Z",

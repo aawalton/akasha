@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0033Chapter113FindingHerMarks = {
   position: 33,
   ownLength: 5673,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1161423/chapter-113-finding-her-marks",
-  externalId: "1161423",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1161423",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1161423/chapter-113-finding-her-marks",
+    },
+  ],
   publishedAt: "2023-04-07",
   ownProgress: 5673,
   completedAt: "2026-06-29T21:15:51.567Z",

@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0122Chapter420TravelTraining = {
   position: 122,
   ownLength: 2316,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3866229/chapter-420-travel-training",
-  externalId: "3866229",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3866229",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3866229/chapter-420-travel-training",
+    },
+  ],
   publishedAt: "2026-08-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

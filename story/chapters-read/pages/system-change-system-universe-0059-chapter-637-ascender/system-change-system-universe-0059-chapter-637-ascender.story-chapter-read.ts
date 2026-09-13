@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0059Chapter637Ascender = {
   position: 59,
   ownLength: 2141,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3171002/chapter-637-ascender",
-  externalId: "3171002",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3171002",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3171002/chapter-637-ascender",
+    },
+  ],
   publishedAt: "2026-03-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

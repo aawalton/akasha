@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0058Chapter636OriginSystemOath = {
   position: 58,
   ownLength: 2122,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3163763/chapter-636-origin-system-oath",
-  externalId: "3163763",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3163763",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3163763/chapter-636-origin-system-oath",
+    },
+  ],
   publishedAt: "2026-03-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0101Chapter100TheBrokenCage = {
   position: 101,
   ownLength: 2515,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3882327/chapter-100-the-broken-cage",
-  externalId: "3882327",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3882327",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3882327/chapter-100-the-broken-cage",
+    },
+  ],
   publishedAt: "2026-08-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

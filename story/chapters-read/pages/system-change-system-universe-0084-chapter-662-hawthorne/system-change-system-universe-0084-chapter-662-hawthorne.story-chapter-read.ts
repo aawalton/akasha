@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0084Chapter662Hawthorne = {
   position: 84,
   ownLength: 2032,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3614513/chapter-662-hawthorne",
-  externalId: "3614513",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3614513",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3614513/chapter-662-hawthorne",
+    },
+  ],
   publishedAt: "2026-06-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

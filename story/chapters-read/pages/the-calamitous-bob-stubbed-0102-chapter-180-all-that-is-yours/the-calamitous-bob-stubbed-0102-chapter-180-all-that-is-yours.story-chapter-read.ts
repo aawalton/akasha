@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0102Chapter180AllThatIsYours = {
   position: 102,
   ownLength: 6037,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1856842/chapter-180-all-that-is-yours",
-  externalId: "1856842",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1856842",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1856842/chapter-180-all-that-is-yours",
+    },
+  ],
   publishedAt: "2024-10-18",
   ownProgress: 6037,
   completedAt: "2026-06-29T21:18:16.655Z",

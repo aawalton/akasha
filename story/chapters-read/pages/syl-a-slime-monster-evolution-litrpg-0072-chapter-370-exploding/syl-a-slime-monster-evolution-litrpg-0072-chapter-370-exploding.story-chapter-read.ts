@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0072Chapter370Exploding = {
   position: 72,
   ownLength: 2366,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3246566/chapter-370-exploding",
-  externalId: "3246566",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3246566",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3246566/chapter-370-exploding",
+    },
+  ],
   publishedAt: "2026-04-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

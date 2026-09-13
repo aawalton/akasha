@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0107Chapter185TheWallsOfGlastia = {
   position: 107,
   ownLength: 5674,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1918395/chapter-185-the-walls-of-glastia",
-  externalId: "1918395",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1918395",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1918395/chapter-185-the-walls-of-glastia",
+    },
+  ],
   publishedAt: "2024-11-22",
   ownProgress: 5674,
   completedAt: "2026-06-29T21:18:27.378Z",

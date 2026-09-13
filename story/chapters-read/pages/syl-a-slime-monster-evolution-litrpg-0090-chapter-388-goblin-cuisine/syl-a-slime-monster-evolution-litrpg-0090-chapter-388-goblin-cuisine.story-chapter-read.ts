@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0090Chapter388GoblinCuisine = {
   position: 90,
   ownLength: 2409,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3508279/chapter-388-goblin-cuisine",
-  externalId: "3508279",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3508279",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3508279/chapter-388-goblin-cuisine",
+    },
+  ],
   publishedAt: "2026-06-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

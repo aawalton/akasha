@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0081Chapter659Windscar = {
   position: 81,
   ownLength: 2168,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3558841/chapter-659-windscar",
-  externalId: "3558841",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3558841",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3558841/chapter-659-windscar",
+    },
+  ],
   publishedAt: "2026-06-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

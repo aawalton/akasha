@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0073Chapter371Scratch = {
   position: 73,
   ownLength: 2354,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3254720/chapter-371-scratch",
-  externalId: "3254720",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3254720",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3254720/chapter-371-scratch",
+    },
+  ],
   publishedAt: "2026-04-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

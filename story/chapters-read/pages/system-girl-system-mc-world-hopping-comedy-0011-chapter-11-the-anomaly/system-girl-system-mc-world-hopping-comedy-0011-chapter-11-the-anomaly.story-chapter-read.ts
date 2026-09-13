@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0011Chapter11TheAnomaly = {
   position: 11,
   ownLength: 1432,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2595767/chapter-11-the-anomaly",
-  externalId: "2595767",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2595767",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2595767/chapter-11-the-anomaly",
+    },
+  ],
   publishedAt: "2025-09-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

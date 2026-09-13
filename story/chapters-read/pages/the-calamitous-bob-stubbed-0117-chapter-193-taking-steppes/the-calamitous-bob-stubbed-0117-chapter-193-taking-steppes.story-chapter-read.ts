@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0117Chapter193TakingSteppes = {
   position: 117,
   ownLength: 6495,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2067167/chapter-193-taking-steppes",
-  externalId: "2067167",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2067167",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2067167/chapter-193-taking-steppes",
+    },
+  ],
   publishedAt: "2025-02-14",
   ownProgress: 6495,
   completedAt: "2026-06-29T21:18:49.458Z",

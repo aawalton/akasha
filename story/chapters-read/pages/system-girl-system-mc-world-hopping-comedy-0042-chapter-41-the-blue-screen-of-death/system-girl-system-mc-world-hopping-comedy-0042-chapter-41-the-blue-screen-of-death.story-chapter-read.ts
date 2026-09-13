@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0042Chapter41TheBlueScreenOfDea
   position: 42,
   ownLength: 1819,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2806933/chapter-41-the-blue-screen-of-death",
-  externalId: "2806933",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2806933",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2806933/chapter-41-the-blue-screen-of-death",
+    },
+  ],
   publishedAt: "2025-11-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0068Chapter646HePointedIShot = {
   position: 68,
   ownLength: 2126,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3360021/chapter-646-he-pointed-i-shot",
-  externalId: "3360021",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3360021",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3360021/chapter-646-he-pointed-i-shot",
+    },
+  ],
   publishedAt: "2026-05-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

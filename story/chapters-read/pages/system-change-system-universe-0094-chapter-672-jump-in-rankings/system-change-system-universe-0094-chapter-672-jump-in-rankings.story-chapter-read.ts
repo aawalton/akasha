@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0094Chapter672JumpInRankings = {
   position: 94,
   ownLength: 2146,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3770723/chapter-672-jump-in-rankings",
-  externalId: "3770723",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3770723",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3770723/chapter-672-jump-in-rankings",
+    },
+  ],
   publishedAt: "2026-08-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0105Chapter183Crumbling = {
   position: 105,
   ownLength: 8041,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1893923/chapter-183-crumbling",
-  externalId: "1893923",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1893923",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1893923/chapter-183-crumbling",
+    },
+  ],
   publishedAt: "2024-11-09",
   ownProgress: 8041,
   completedAt: "2026-06-29T21:18:22.982Z",

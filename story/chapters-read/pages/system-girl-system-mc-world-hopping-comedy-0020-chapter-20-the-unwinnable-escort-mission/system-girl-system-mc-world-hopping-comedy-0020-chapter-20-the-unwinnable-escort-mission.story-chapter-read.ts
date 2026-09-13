@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0020Chapter20TheUnwinnableEscor
   position: 20,
   ownLength: 2251,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2631538/chapter-20-the-unwinnable-escort-mission",
-  externalId: "2631538",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2631538",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2631538/chapter-20-the-unwinnable-escort-mission",
+    },
+  ],
   publishedAt: "2025-09-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

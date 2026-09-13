@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0017Chapter597IToldYouAll = {
   position: 17,
   ownLength: 2083,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2712862/chapter-597-i-told-you-all",
-  externalId: "2712862",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2712862",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2712862/chapter-597-i-told-you-all",
+    },
+  ],
   publishedAt: "2025-10-28",
   ownProgress: 2083,
   completedAt: "2026-06-29T19:57:17.487Z",

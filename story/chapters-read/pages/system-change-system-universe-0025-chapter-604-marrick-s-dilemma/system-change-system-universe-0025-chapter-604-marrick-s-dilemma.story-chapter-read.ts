@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0025Chapter604MarrickSDilemma = {
   position: 25,
   ownLength: 2099,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2773258/chapter-604-marricks-dilemma",
-  externalId: "2773258",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2773258",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2773258/chapter-604-marricks-dilemma",
+    },
+  ],
   publishedAt: "2025-11-19",
   ownProgress: 2099,
   completedAt: "2026-06-29T19:57:32.922Z",

@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0031Chapter610NotInMyCity = {
   position: 31,
   ownLength: 2258,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2834283/chapter-610-not-in-my-city",
-  externalId: "2834283",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2834283",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2834283/chapter-610-not-in-my-city",
+    },
+  ],
   publishedAt: "2025-12-10",
   ownProgress: 2258,
   completedAt: "2026-06-29T19:57:43.933Z",

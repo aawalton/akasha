@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0097Chapter675OriginUpgrades101 = {
   position: 97,
   ownLength: 2111,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3801931/chapter-675-origin-upgrades-101",
-  externalId: "3801931",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3801931",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3801931/chapter-675-origin-upgrades-101",
+    },
+  ],
   publishedAt: "2026-08-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

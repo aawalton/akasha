@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0071Chapter70TheEmpireAndTheFir
   position: 71,
   ownLength: 2245,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3264688/chapter-70-the-empire-and-the-first-scrape",
-  externalId: "3264688",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3264688",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3264688/chapter-70-the-empire-and-the-first-scrape",
+    },
+  ],
   publishedAt: "2026-04-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

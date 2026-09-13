@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0005Chapter86LooseEnds = {
   position: 5,
   ownLength: 5102,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/979976/chapter-86-loose-ends",
-  externalId: "979976",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "979976",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/979976/chapter-86-loose-ends",
+    },
+  ],
   publishedAt: "2022-08-26",
   ownProgress: 5102,
   completedAt: "2026-06-29T21:14:49.349Z",

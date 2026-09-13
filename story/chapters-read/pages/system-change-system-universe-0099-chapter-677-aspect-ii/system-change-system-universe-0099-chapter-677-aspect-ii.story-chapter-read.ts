@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0099Chapter677AspectIi = {
   position: 99,
   ownLength: 2476,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3832165/chapter-677-aspect-ii",
-  externalId: "3832165",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3832165",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3832165/chapter-677-aspect-ii",
+    },
+  ],
   publishedAt: "2026-08-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

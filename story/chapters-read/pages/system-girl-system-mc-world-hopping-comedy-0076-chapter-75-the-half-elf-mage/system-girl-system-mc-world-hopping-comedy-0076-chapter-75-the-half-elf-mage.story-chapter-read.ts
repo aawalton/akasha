@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0076Chapter75TheHalfElfMage = {
   position: 76,
   ownLength: 2030,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3358908/chapter-75-the-half-elf-mage",
-  externalId: "3358908",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3358908",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3358908/chapter-75-the-half-elf-mage",
+    },
+  ],
   publishedAt: "2026-05-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

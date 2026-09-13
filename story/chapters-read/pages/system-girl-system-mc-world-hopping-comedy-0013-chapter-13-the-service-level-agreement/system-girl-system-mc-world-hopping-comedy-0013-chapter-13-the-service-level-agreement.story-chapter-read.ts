@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0013Chapter13TheServiceLevelAgr
   position: 13,
   ownLength: 1510,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2600406/chapter-13-the-service-level-agreement",
-  externalId: "2600406",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2600406",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2600406/chapter-13-the-service-level-agreement",
+    },
+  ],
   publishedAt: "2025-09-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

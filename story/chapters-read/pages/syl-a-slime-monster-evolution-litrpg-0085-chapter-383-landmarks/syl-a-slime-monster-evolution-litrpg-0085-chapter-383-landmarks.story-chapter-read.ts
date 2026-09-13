@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0085Chapter383Landmarks = {
   position: 85,
   ownLength: 2357,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3442485/chapter-383-landmarks",
-  externalId: "3442485",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3442485",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3442485/chapter-383-landmarks",
+    },
+  ],
   publishedAt: "2026-05-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

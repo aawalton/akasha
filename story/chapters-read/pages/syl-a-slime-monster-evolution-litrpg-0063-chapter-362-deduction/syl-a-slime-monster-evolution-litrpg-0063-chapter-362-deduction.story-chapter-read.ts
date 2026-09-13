@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0063Chapter362Deduction = {
   position: 63,
   ownLength: 2400,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3164551/chapter-362-deduction",
-  externalId: "3164551",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3164551",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3164551/chapter-362-deduction",
+    },
+  ],
   publishedAt: "2026-03-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

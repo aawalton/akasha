@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0039Chapter38ADangerousEscalati
   position: 39,
   ownLength: 2568,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2774805/chapter-38-a-dangerous-escalation",
-  externalId: "2774805",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2774805",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2774805/chapter-38-a-dangerous-escalation",
+    },
+  ],
   publishedAt: "2025-11-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

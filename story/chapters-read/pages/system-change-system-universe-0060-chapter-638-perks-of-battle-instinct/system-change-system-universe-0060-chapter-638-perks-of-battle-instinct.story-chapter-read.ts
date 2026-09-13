@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0060Chapter638PerksOfBattleInstinct = {
   position: 60,
   ownLength: 2096,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3189910/chapter-638-perks-of-battle-instinct",
-  externalId: "3189910",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3189910",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3189910/chapter-638-perks-of-battle-instinct",
+    },
+  ],
   publishedAt: "2026-03-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

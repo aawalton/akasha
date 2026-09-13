@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0108Chapter186BeyondTheDisasterWall = {
   position: 108,
   ownLength: 5440,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1930632/chapter-186-beyond-the-disaster-wall",
-  externalId: "1930632",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1930632",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1930632/chapter-186-beyond-the-disaster-wall",
+    },
+  ],
   publishedAt: "2024-11-29",
   ownProgress: 5440,
   completedAt: "2026-06-29T21:18:29.460Z",

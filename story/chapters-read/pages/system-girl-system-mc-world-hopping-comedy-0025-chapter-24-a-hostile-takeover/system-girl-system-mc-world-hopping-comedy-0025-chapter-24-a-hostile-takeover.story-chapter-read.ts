@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0025Chapter24AHostileTakeover =
   position: 25,
   ownLength: 2348,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2653904/chapter-24-a-hostile-takeover",
-  externalId: "2653904",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2653904",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2653904/chapter-24-a-hostile-takeover",
+    },
+  ],
   publishedAt: "2025-10-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

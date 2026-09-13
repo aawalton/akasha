@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0078Chapter656Teleporter = {
   position: 78,
   ownLength: 2054,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3516691/chapter-656-teleporter",
-  externalId: "3516691",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3516691",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3516691/chapter-656-teleporter",
+    },
+  ],
   publishedAt: "2026-06-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

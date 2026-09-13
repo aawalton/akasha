@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0049Chapter129TheFindOutMoment = {
   position: 49,
   ownLength: 4349,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1299634/chapter-129-the-find-out-moment",
-  externalId: "1299634",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1299634",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1299634/chapter-129-the-find-out-moment",
+    },
+  ],
   publishedAt: "2023-08-04",
   ownProgress: 4349,
   completedAt: "2026-06-29T21:16:26.023Z",

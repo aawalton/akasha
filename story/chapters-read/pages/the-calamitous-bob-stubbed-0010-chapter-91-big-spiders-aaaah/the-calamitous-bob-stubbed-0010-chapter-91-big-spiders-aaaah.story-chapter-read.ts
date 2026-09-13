@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0010Chapter91BigSpidersAaaah = {
   position: 10,
   ownLength: 5366,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1005307/chapter-91-big-spiders-aaaah",
-  externalId: "1005307",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1005307",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1005307/chapter-91-big-spiders-aaaah",
+    },
+  ],
   publishedAt: "2022-09-30",
   ownProgress: 5366,
   completedAt: "2026-06-29T21:15:00.306Z",

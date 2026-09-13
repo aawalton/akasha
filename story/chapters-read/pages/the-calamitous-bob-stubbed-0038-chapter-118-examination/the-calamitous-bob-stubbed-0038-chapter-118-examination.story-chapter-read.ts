@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0038Chapter118Examination = {
   position: 38,
   ownLength: 5473,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1218004/chapter-118-examination",
-  externalId: "1218004",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1218004",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1218004/chapter-118-examination",
+    },
+  ],
   publishedAt: "2023-05-19",
   ownProgress: 5473,
   completedAt: "2026-06-29T21:16:02.270Z",

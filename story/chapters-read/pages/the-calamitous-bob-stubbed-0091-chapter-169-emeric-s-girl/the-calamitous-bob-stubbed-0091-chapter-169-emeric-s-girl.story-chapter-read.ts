@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0091Chapter169EmericSGirl = {
   position: 91,
   ownLength: 5260,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1686922/chapter-169-emerics-girl",
-  externalId: "1686922",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1686922",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1686922/chapter-169-emerics-girl",
+    },
+  ],
   publishedAt: "2024-06-21",
   ownProgress: 5260,
   completedAt: "2026-06-29T21:17:55.565Z",

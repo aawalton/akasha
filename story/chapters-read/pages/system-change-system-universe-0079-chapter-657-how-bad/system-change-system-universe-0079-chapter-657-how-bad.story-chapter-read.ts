@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0079Chapter657HowBad = {
   position: 79,
   ownLength: 2157,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3526446/chapter-657-how-bad",
-  externalId: "3526446",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3526446",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3526446/chapter-657-how-bad",
+    },
+  ],
   publishedAt: "2026-06-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

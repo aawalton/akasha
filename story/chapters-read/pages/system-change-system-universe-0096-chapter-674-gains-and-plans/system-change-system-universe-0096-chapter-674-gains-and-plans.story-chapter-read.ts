@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0096Chapter674GainsAndPlans = {
   position: 96,
   ownLength: 2175,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3779779/chapter-674-gains-and-plans",
-  externalId: "3779779",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3779779",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3779779/chapter-674-gains-and-plans",
+    },
+  ],
   publishedAt: "2026-08-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

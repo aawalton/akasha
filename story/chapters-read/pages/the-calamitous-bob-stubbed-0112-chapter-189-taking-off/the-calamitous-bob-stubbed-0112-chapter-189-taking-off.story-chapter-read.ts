@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0112Chapter189TakingOff = {
   position: 112,
   ownLength: 5948,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2016929/chapter-189-taking-off",
-  externalId: "2016929",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2016929",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2016929/chapter-189-taking-off",
+    },
+  ],
   publishedAt: "2025-01-18",
   ownProgress: 5948,
   completedAt: "2026-06-29T21:18:38.199Z",

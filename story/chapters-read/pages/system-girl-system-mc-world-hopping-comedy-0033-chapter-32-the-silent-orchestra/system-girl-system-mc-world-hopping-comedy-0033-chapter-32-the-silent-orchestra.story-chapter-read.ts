@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0033Chapter32TheSilentOrchestra
   position: 33,
   ownLength: 1996,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2712234/chapter-32-the-silent-orchestra",
-  externalId: "2712234",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2712234",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2712234/chapter-32-the-silent-orchestra",
+    },
+  ],
   publishedAt: "2025-10-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

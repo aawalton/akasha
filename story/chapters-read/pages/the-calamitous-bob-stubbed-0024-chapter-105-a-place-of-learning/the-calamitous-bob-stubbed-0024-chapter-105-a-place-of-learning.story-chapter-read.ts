@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0024Chapter105APlaceOfLearning = {
   position: 24,
   ownLength: 5111,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1110273/chapter-105-a-place-of-learning",
-  externalId: "1110273",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1110273",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1110273/chapter-105-a-place-of-learning",
+    },
+  ],
   publishedAt: "2023-02-10",
   ownProgress: 5111,
   completedAt: "2026-06-29T21:15:31.464Z",

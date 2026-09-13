@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0003Chapter3SystemInception = {
   position: 3,
   ownLength: 1501,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2572118/chapter-3-system-inception",
-  externalId: "2572118",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2572118",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2572118/chapter-3-system-inception",
+    },
+  ],
   publishedAt: "2025-09-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

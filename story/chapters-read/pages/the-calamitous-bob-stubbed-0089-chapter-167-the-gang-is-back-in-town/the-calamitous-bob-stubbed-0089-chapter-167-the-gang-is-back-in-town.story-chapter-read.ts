@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0089Chapter167TheGangIsBackInTown = {
   position: 89,
   ownLength: 7248,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1667668/chapter-167-the-gang-is-back-in-town",
-  externalId: "1667668",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1667668",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1667668/chapter-167-the-gang-is-back-in-town",
+    },
+  ],
   publishedAt: "2024-06-07",
   ownProgress: 7248,
   completedAt: "2026-06-29T21:17:51.819Z",

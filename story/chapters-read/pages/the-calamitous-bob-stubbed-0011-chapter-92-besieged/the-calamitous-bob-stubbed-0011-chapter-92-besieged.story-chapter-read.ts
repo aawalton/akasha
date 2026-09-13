@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0011Chapter92Besieged = {
   position: 11,
   ownLength: 6344,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1016034/chapter-92-besieged",
-  externalId: "1016034",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1016034",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1016034/chapter-92-besieged",
+    },
+  ],
   publishedAt: "2022-10-14",
   ownProgress: 6344,
   completedAt: "2026-06-29T21:15:02.475Z",

@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0002Chapter83GreenHell = {
   position: 2,
   ownLength: 5394,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/964111/chapter-83-green-hell",
-  externalId: "964111",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "964111",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/964111/chapter-83-green-hell",
+    },
+  ],
   publishedAt: "2022-08-05",
   ownProgress: 5394,
   completedAt: "2026-06-29T21:14:42.748Z",

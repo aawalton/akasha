@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0004Chapter85Inevitable = {
   position: 4,
   ownLength: 5259,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/974992/chapter-85-inevitable",
-  externalId: "974992",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "974992",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/974992/chapter-85-inevitable",
+    },
+  ],
   publishedAt: "2022-08-19",
   ownProgress: 5259,
   completedAt: "2026-06-29T21:14:47.171Z",

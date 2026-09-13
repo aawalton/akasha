@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0118Chapter194TheDarkestSide = {
   position: 118,
   ownLength: 6758,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2081196/chapter-194-the-darkest-side",
-  externalId: "2081196",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2081196",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2081196/chapter-194-the-darkest-side",
+    },
+  ],
   publishedAt: "2025-02-21",
   ownProgress: 6758,
   completedAt: "2026-06-29T21:18:51.768Z",

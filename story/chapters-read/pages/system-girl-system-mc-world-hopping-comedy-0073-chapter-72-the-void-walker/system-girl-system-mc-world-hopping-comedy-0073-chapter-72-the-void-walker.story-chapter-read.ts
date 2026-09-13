@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0073Chapter72TheVoidWalker = {
   position: 73,
   ownLength: 2544,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3305923/chapter-72-the-void-walker",
-  externalId: "3305923",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3305923",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3305923/chapter-72-the-void-walker",
+    },
+  ],
   publishedAt: "2026-04-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

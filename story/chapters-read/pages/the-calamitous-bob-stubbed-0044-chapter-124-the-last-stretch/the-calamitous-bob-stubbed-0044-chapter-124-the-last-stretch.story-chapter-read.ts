@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0044Chapter124TheLastStretch = {
   position: 44,
   ownLength: 5923,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1262799/chapter-124-the-last-stretch",
-  externalId: "1262799",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1262799",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1262799/chapter-124-the-last-stretch",
+    },
+  ],
   publishedAt: "2023-06-30",
   ownProgress: 5923,
   completedAt: "2026-06-29T21:16:15.459Z",

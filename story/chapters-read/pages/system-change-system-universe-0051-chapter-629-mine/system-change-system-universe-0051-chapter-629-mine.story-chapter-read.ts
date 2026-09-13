@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0051Chapter629Mine = {
   position: 51,
   ownLength: 2108,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3041603/chapter-629-mine",
-  externalId: "3041603",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3041603",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3041603/chapter-629-mine",
+    },
+  ],
   publishedAt: "2026-02-13",
   ownProgress: 2108,
   completedAt: "2026-06-29T19:58:21.896Z",

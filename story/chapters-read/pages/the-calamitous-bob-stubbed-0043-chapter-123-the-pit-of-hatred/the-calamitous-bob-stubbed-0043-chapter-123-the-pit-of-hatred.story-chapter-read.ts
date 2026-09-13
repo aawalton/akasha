@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0043Chapter123ThePitOfHatred = {
   position: 43,
   ownLength: 6114,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1255501/chapter-123-the-pit-of-hatred",
-  externalId: "1255501",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1255501",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1255501/chapter-123-the-pit-of-hatred",
+    },
+  ],
   publishedAt: "2023-06-23",
   ownProgress: 6114,
   completedAt: "2026-06-29T21:16:13.083Z",

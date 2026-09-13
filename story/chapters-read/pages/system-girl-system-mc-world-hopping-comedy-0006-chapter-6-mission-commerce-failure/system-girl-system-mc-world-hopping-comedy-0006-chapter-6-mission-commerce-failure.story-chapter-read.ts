@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0006Chapter6MissionCommerceFail
   position: 6,
   ownLength: 1748,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2580797/chapter-6-mission-commerce-failure",
-  externalId: "2580797",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2580797",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2580797/chapter-6-mission-commerce-failure",
+    },
+  ],
   publishedAt: "2025-09-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

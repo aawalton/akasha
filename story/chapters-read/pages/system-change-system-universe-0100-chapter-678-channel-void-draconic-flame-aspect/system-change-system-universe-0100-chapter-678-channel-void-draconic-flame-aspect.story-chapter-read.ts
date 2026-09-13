@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0100Chapter678ChannelVoidDraconicFlameAsp
   position: 100,
   ownLength: 2330,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3840844/chapter-678-channel-void-draconic-flame-aspect",
-  externalId: "3840844",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3840844",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3840844/chapter-678-channel-void-draconic-flame-aspect",
+    },
+  ],
   publishedAt: "2026-08-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0012Chapter486WorldBoss = {
   position: 12,
   ownLength: 2114,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1950336/chapter-486-world-boss",
-  externalId: "1950336",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1950336",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1950336/chapter-486-world-boss",
+    },
+  ],
   publishedAt: "2024-12-11",
   ownProgress: 2114,
   completedAt: "2026-06-29T19:57:07.635Z",

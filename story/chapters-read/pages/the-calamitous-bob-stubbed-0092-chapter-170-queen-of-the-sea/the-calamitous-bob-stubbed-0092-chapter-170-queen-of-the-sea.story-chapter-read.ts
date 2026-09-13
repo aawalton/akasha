@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0092Chapter170QueenOfTheSea = {
   position: 92,
   ownLength: 5679,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1742966/chapter-170-queen-of-the-sea",
-  externalId: "1742966",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1742966",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1742966/chapter-170-queen-of-the-sea",
+    },
+  ],
   publishedAt: "2024-08-03",
   ownProgress: 5679,
   completedAt: "2026-06-29T21:17:57.363Z",

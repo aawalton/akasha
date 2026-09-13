@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0036Chapter615Easy = {
   position: 36,
   ownLength: 3021,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2880334/chapter-615-easy",
-  externalId: "2880334",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2880334",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2880334/chapter-615-easy",
+    },
+  ],
   publishedAt: "2025-12-25",
   ownProgress: 3021,
   completedAt: "2026-06-29T19:57:53.648Z",

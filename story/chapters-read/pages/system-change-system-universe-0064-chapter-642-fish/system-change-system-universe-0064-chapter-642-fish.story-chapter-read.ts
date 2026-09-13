@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0064Chapter642Fish = {
   position: 64,
   ownLength: 2073,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3302683/chapter-642-fish",
-  externalId: "3302683",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3302683",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3302683/chapter-642-fish",
+    },
+  ],
   publishedAt: "2026-04-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

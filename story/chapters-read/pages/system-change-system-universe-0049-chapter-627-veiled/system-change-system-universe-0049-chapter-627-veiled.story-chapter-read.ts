@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0049Chapter627Veiled = {
   position: 49,
   ownLength: 2203,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3016844/chapter-627-veiled",
-  externalId: "3016844",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3016844",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3016844/chapter-627-veiled",
+    },
+  ],
   publishedAt: "2026-02-06",
   ownProgress: 2203,
   completedAt: "2026-06-29T19:58:18.172Z",

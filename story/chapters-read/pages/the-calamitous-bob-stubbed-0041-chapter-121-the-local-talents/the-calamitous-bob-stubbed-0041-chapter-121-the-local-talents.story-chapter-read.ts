@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0041Chapter121TheLocalTalents = {
   position: 41,
   ownLength: 5786,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1240024/chapter-121-the-local-talents",
-  externalId: "1240024",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1240024",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1240024/chapter-121-the-local-talents",
+    },
+  ],
   publishedAt: "2023-06-09",
   ownProgress: 5786,
   completedAt: "2026-06-29T21:16:08.664Z",

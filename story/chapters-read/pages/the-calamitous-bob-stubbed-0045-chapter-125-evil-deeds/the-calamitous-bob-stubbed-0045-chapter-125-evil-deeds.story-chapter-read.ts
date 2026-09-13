@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0045Chapter125EvilDeeds = {
   position: 45,
   ownLength: 4563,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1269977/chapter-125-evil-deeds",
-  externalId: "1269977",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1269977",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1269977/chapter-125-evil-deeds",
+    },
+  ],
   publishedAt: "2023-07-07",
   ownProgress: 4563,
   completedAt: "2026-06-29T21:16:17.625Z",

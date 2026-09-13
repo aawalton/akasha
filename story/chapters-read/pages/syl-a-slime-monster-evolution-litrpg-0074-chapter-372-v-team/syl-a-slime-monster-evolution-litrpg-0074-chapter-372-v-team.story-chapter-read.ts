@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0074Chapter372VTeam = {
   position: 74,
   ownLength: 2373,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3266620/chapter-372-v-team",
-  externalId: "3266620",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3266620",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3266620/chapter-372-v-team",
+    },
+  ],
   publishedAt: "2026-04-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0085Chapter164Councils = {
   position: 85,
   ownLength: 6305,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1631164/chapter-164-councils",
-  externalId: "1631164",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1631164",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1631164/chapter-164-councils",
+    },
+  ],
   publishedAt: "2024-05-10",
   ownProgress: 6305,
   completedAt: "2026-06-29T21:17:44.122Z",

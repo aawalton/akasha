@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0029Chapter608DoYourJob = {
   position: 29,
   ownLength: 2182,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2813666/chapter-608-do-your-job",
-  externalId: "2813666",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2813666",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2813666/chapter-608-do-your-job",
+    },
+  ],
   publishedAt: "2025-12-03",
   ownProgress: 2182,
   completedAt: "2026-06-29T19:57:40.355Z",

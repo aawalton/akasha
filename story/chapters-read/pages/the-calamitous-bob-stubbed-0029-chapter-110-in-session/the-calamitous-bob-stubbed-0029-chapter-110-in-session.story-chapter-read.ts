@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0029Chapter110InSession = {
   position: 29,
   ownLength: 5142,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1140568/chapter-110-in-session",
-  externalId: "1140568",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1140568",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1140568/chapter-110-in-session",
+    },
+  ],
   publishedAt: "2023-03-17",
   ownProgress: 5142,
   completedAt: "2026-06-29T21:15:42.326Z",

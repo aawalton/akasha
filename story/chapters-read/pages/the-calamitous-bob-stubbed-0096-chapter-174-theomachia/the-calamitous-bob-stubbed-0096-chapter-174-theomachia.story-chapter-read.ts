@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0096Chapter174Theomachia = {
   position: 96,
   ownLength: 5419,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1782058/chapter-174-theomachia",
-  externalId: "1782058",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1782058",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1782058/chapter-174-theomachia",
+    },
+  ],
   publishedAt: "2024-08-31",
   ownProgress: 5419,
   completedAt: "2026-06-29T21:18:04.807Z",

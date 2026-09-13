@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0093Chapter671Rook = {
   position: 93,
   ownLength: 2106,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3748556/chapter-671-rook",
-  externalId: "3748556",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3748556",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3748556/chapter-671-rook",
+    },
+  ],
   publishedAt: "2026-07-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

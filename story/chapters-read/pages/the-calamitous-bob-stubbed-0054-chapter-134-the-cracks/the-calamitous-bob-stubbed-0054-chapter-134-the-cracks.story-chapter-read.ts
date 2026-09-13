@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0054Chapter134TheCracks = {
   position: 54,
   ownLength: 4948,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1336548/chapter-134-the-cracks",
-  externalId: "1336548",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1336548",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1336548/chapter-134-the-cracks",
+    },
+  ],
   publishedAt: "2023-09-08",
   ownProgress: 4948,
   completedAt: "2026-06-29T21:16:36.881Z",

@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0041Chapter620YouKnew = {
   position: 41,
   ownLength: 2605,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2940654/chapter-620-you-knew",
-  externalId: "2940654",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2940654",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2940654/chapter-620-you-knew",
+    },
+  ],
   publishedAt: "2026-01-14",
   ownProgress: 2605,
   completedAt: "2026-06-29T19:58:03.309Z",

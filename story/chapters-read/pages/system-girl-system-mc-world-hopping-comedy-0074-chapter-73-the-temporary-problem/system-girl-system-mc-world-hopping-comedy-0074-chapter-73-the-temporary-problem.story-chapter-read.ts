@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0074Chapter73TheTemporaryProble
   position: 74,
   ownLength: 2558,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3322053/chapter-73-the-temporary-problem",
-  externalId: "3322053",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3322053",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3322053/chapter-73-the-temporary-problem",
+    },
+  ],
   publishedAt: "2026-04-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0037Chapter616DaveSIrritation = {
   position: 37,
   ownLength: 2201,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2894209/chapter-616-daves-irritation",
-  externalId: "2894209",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2894209",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2894209/chapter-616-daves-irritation",
+    },
+  ],
   publishedAt: "2025-12-31",
   ownProgress: 2201,
   completedAt: "2026-06-29T19:57:55.443Z",

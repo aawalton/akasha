@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0004Chapter4TheAbTest = {
   position: 4,
   ownLength: 1948,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2574475/chapter-4-the-ab-test",
-  externalId: "2574475",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2574475",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2574475/chapter-4-the-ab-test",
+    },
+  ],
   publishedAt: "2025-09-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

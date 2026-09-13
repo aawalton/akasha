@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0087Chapter385Bullying = {
   position: 87,
   ownLength: 2540,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3476625/chapter-385-bullying",
-  externalId: "3476625",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3476625",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3476625/chapter-385-bullying",
+    },
+  ],
   publishedAt: "2026-06-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

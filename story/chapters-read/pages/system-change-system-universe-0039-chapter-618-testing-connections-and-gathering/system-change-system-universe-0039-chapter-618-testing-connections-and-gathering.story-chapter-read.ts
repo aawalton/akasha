@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0039Chapter618TestingConnectionsAndGather
   position: 39,
   ownLength: 2339,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2918872/chapter-618-testing-connections-and-gathering",
-  externalId: "2918872",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2918872",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2918872/chapter-618-testing-connections-and-gathering",
+    },
+  ],
   publishedAt: "2026-01-07",
   ownProgress: 2339,
   completedAt: "2026-06-29T19:57:59.143Z",

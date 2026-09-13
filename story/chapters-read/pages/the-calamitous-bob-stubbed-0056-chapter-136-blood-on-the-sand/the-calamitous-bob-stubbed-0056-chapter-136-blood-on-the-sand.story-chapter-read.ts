@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0056Chapter136BloodOnTheSand = {
   position: 56,
   ownLength: 7170,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1350897/chapter-136-blood-on-the-sand",
-  externalId: "1350897",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1350897",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1350897/chapter-136-blood-on-the-sand",
+    },
+  ],
   publishedAt: "2023-09-22",
   ownProgress: 7170,
   completedAt: "2026-06-29T21:16:41.508Z",

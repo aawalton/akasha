@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0024ASpecialChapter1 = {
   position: 24,
   ownLength: 930,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2649434/a-special-chapter-1",
-  externalId: "2649434",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2649434",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2649434/a-special-chapter-1",
+    },
+  ],
   publishedAt: "2025-10-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

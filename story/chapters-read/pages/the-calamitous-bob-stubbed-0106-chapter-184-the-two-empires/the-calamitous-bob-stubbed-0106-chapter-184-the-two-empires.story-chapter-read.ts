@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0106Chapter184TheTwoEmpires = {
   position: 106,
   ownLength: 5790,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1906411/chapter-184-the-two-empires",
-  externalId: "1906411",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1906411",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1906411/chapter-184-the-two-empires",
+    },
+  ],
   publishedAt: "2024-11-16",
   ownProgress: 5790,
   completedAt: "2026-06-29T21:18:25.268Z",

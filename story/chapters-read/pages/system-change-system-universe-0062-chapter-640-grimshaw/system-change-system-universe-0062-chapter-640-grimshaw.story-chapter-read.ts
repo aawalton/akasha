@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0062Chapter640Grimshaw = {
   position: 62,
   ownLength: 2316,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3274680/chapter-640-grimshaw",
-  externalId: "3274680",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3274680",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3274680/chapter-640-grimshaw",
+    },
+  ],
   publishedAt: "2026-04-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

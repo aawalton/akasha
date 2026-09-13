@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0048Chapter128FourthStepCaster = {
   position: 48,
   ownLength: 6137,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1292037/chapter-128-fourth-step-caster",
-  externalId: "1292037",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1292037",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1292037/chapter-128-fourth-step-caster",
+    },
+  ],
   publishedAt: "2023-07-28",
   ownProgress: 6137,
   completedAt: "2026-06-29T21:16:23.850Z",

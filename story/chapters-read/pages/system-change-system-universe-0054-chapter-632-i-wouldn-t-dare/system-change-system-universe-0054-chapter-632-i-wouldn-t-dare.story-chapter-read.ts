@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0054Chapter632IWouldnTDare = {
   position: 54,
   ownLength: 2217,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3089564/chapter-632-i-wouldnt-dare",
-  externalId: "3089564",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3089564",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3089564/chapter-632-i-wouldnt-dare",
+    },
+  ],
   publishedAt: "2026-02-25",
   ownProgress: 2217,
   completedAt: "2026-06-29T19:58:27.542Z",

@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0067Chapter147OhNeriadICanTChange = {
   position: 67,
   ownLength: 7749,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1466500/chapter-147-oh-neriad-i-cant-change",
-  externalId: "1466500",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1466500",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1466500/chapter-147-oh-neriad-i-cant-change",
+    },
+  ],
   publishedAt: "2024-01-05",
   ownProgress: 7749,
   completedAt: "2026-06-29T21:17:06.170Z",

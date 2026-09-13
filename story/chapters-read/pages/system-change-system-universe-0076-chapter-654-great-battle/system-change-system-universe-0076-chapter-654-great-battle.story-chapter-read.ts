@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0076Chapter654GreatBattle = {
   position: 76,
   ownLength: 2089,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3485061/chapter-654-great-battle",
-  externalId: "3485061",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3485061",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3485061/chapter-654-great-battle",
+    },
+  ],
   publishedAt: "2026-06-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

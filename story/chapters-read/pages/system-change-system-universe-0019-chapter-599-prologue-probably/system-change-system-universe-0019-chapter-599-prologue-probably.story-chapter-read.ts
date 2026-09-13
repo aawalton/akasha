@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0019Chapter599PrologueProbably = {
   position: 19,
   ownLength: 2752,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2733117/chapter-599-prologue-probably",
-  externalId: "2733117",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2733117",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2733117/chapter-599-prologue-probably",
+    },
+  ],
   publishedAt: "2025-11-05",
   ownProgress: 2752,
   completedAt: "2026-06-29T19:57:21.348Z",

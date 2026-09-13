@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0083Chapter162RoaringHarrak = {
   position: 83,
   ownLength: 5149,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1612715/chapter-162-roaring-harrak",
-  externalId: "1612715",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1612715",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1612715/chapter-162-roaring-harrak",
+    },
+  ],
   publishedAt: "2024-04-27",
   ownProgress: 5149,
   completedAt: "2026-06-29T21:17:40.391Z",

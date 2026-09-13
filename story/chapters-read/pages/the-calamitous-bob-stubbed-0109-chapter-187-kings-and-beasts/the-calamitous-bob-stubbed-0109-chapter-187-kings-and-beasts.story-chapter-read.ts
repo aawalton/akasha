@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0109Chapter187KingsAndBeasts = {
   position: 109,
   ownLength: 5254,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1946463/chapter-187-kings-and-beasts",
-  externalId: "1946463",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1946463",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1946463/chapter-187-kings-and-beasts",
+    },
+  ],
   publishedAt: "2024-12-08",
   ownProgress: 5254,
   completedAt: "2026-06-29T21:18:31.664Z",

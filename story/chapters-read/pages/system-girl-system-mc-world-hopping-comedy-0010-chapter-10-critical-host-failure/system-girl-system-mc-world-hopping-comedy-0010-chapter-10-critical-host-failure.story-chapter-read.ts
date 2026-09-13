@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0010Chapter10CriticalHostFailur
   position: 10,
   ownLength: 1376,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2593195/chapter-10-critical-host-failure",
-  externalId: "2593195",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2593195",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2593195/chapter-10-critical-host-failure",
+    },
+  ],
   publishedAt: "2025-09-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

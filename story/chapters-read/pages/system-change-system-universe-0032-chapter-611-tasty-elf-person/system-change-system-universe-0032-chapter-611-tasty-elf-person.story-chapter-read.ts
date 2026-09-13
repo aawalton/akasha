@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0032Chapter611TastyElfPerson = {
   position: 32,
   ownLength: 2240,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2840187/chapter-611-tasty-elf-person",
-  externalId: "2840187",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2840187",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2840187/chapter-611-tasty-elf-person",
+    },
+  ],
   publishedAt: "2025-12-12",
   ownProgress: 2240,
   completedAt: "2026-06-29T19:57:45.932Z",

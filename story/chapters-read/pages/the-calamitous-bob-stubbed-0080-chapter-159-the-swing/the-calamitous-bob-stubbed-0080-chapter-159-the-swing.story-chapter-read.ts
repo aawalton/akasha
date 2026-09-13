@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0080Chapter159TheSwing = {
   position: 80,
   ownLength: 4664,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1581904/chapter-159-the-swing",
-  externalId: "1581904",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1581904",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1581904/chapter-159-the-swing",
+    },
+  ],
   publishedAt: "2024-04-05",
   ownProgress: 4664,
   completedAt: "2026-06-29T21:17:34.722Z",

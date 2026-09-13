@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0115Chapter413RemoteWork = {
   position: 115,
   ownLength: 2579,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3793929/chapter-413-remote-work",
-  externalId: "3793929",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3793929",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3793929/chapter-413-remote-work",
+    },
+  ],
   publishedAt: "2026-08-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

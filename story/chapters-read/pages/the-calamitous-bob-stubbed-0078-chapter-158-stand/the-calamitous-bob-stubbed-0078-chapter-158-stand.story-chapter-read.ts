@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0078Chapter158Stand = {
   position: 78,
   ownLength: 7399,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1573914/chapter-158-stand",
-  externalId: "1573914",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1573914",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1573914/chapter-158-stand",
+    },
+  ],
   publishedAt: "2024-03-30",
   ownProgress: 7399,
   completedAt: "2026-06-29T21:17:30.970Z",

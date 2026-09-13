@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0047Chapter46TheDuckTheDataAndT
   position: 47,
   ownLength: 3651,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2862676/chapter-46-the-duck-the-data-and-the-disaster",
-  externalId: "2862676",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2862676",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2862676/chapter-46-the-duck-the-data-and-the-disaster",
+    },
+  ],
   publishedAt: "2025-12-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

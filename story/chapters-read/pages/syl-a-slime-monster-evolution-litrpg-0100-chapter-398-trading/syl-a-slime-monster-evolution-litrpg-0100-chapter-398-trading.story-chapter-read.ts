@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0100Chapter398Trading = {
   position: 100,
   ownLength: 2167,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3625196/chapter-398-trading",
-  externalId: "3625196",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3625196",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3625196/chapter-398-trading",
+    },
+  ],
   publishedAt: "2026-07-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

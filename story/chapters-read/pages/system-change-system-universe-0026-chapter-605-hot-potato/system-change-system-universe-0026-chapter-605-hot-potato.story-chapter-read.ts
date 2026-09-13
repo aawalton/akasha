@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0026Chapter605HotPotato = {
   position: 26,
   ownLength: 2262,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2778930/chapter-605-hot-potato",
-  externalId: "2778930",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2778930",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2778930/chapter-605-hot-potato",
+    },
+  ],
   publishedAt: "2025-11-21",
   ownProgress: 2262,
   completedAt: "2026-06-29T19:57:34.845Z",

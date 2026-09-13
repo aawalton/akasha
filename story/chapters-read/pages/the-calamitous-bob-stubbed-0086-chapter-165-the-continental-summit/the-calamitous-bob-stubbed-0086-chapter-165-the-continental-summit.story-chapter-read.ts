@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0086Chapter165TheContinentalSummit = {
   position: 86,
   ownLength: 6056,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1639845/chapter-165-the-continental-summit",
-  externalId: "1639845",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1639845",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1639845/chapter-165-the-continental-summit",
+    },
+  ],
   publishedAt: "2024-05-17",
   ownProgress: 6056,
   completedAt: "2026-06-29T21:17:46.040Z",

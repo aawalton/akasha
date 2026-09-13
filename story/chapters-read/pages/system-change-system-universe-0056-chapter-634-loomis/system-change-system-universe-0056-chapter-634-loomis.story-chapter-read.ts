@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0056Chapter634Loomis = {
   position: 56,
   ownLength: 2093,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3138362/chapter-634-loomis",
-  externalId: "3138362",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3138362",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3138362/chapter-634-loomis",
+    },
+  ],
   publishedAt: "2026-03-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

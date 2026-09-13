@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0060Chapter359TearsAndFolds = {
   position: 60,
   ownLength: 2658,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3139183/chapter-359-tears-and-folds",
-  externalId: "3139183",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3139183",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3139183/chapter-359-tears-and-folds",
+    },
+  ],
   publishedAt: "2026-03-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

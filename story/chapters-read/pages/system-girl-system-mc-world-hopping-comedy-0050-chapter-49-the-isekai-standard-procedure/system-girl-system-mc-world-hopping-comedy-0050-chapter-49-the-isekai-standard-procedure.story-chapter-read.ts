@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0050Chapter49TheIsekaiStandardP
   position: 50,
   ownLength: 1952,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2907192/chapter-49-the-isekai-standard-procedure",
-  externalId: "2907192",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2907192",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2907192/chapter-49-the-isekai-standard-procedure",
+    },
+  ],
   publishedAt: "2026-01-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

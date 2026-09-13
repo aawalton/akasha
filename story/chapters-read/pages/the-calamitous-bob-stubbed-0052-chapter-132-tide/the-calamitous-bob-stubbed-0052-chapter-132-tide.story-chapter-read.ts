@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0052Chapter132Tide = {
   position: 52,
   ownLength: 5480,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1321526/chapter-132-tide",
-  externalId: "1321526",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1321526",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1321526/chapter-132-tide",
+    },
+  ],
   publishedAt: "2023-08-25",
   ownProgress: 5480,
   completedAt: "2026-06-29T21:16:32.433Z",

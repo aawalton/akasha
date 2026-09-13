@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0083Chapter381CleanSweep = {
   position: 83,
   ownLength: 3509,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3361101/chapter-381-clean-sweep",
-  externalId: "3361101",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3361101",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3361101/chapter-381-clean-sweep",
+    },
+  ],
   publishedAt: "2026-05-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

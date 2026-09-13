@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0047Chapter127TheGatesOfHell = {
   position: 47,
   ownLength: 5030,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1284739/chapter-127-the-gates-of-hell",
-  externalId: "1284739",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1284739",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1284739/chapter-127-the-gates-of-hell",
+    },
+  ],
   publishedAt: "2023-07-21",
   ownProgress: 5030,
   completedAt: "2026-06-29T21:16:21.646Z",

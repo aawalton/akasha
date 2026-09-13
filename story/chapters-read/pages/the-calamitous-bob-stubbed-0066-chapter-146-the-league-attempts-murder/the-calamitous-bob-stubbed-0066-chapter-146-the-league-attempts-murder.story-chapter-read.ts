@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0066Chapter146TheLeagueAttemptsMurder = {
   position: 66,
   ownLength: 6383,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1444028/chapter-146-the-league-attempts-murder",
-  externalId: "1444028",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1444028",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1444028/chapter-146-the-league-attempts-murder",
+    },
+  ],
   publishedAt: "2023-12-15",
   ownProgress: 6383,
   completedAt: "2026-06-29T21:17:03.952Z",

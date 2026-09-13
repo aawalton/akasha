@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0096Chapter95RoyalSchedules = {
   position: 96,
   ownLength: 1946,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3764978/chapter-95-royal-schedules",
-  externalId: "3764978",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3764978",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3764978/chapter-95-royal-schedules",
+    },
+  ],
   publishedAt: "2026-08-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

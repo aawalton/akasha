@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0067Chapter366SplittingAndSharing = 
   position: 67,
   ownLength: 2560,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3209230/chapter-366-splitting-and-sharing",
-  externalId: "3209230",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3209230",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3209230/chapter-366-splitting-and-sharing",
+    },
+  ],
   publishedAt: "2026-03-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

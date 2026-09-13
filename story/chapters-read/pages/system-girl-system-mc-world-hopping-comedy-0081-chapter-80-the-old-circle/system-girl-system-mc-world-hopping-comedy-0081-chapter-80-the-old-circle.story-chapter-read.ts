@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0081Chapter80TheOldCircle = {
   position: 81,
   ownLength: 2946,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3450697/chapter-80-the-old-circle",
-  externalId: "3450697",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3450697",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3450697/chapter-80-the-old-circle",
+    },
+  ],
   publishedAt: "2026-05-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

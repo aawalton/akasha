@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0080Chapter378SlimeInTheDark = {
   position: 80,
   ownLength: 2389,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3331853/chapter-378-slime-in-the-dark",
-  externalId: "3331853",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3331853",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3331853/chapter-378-slime-in-the-dark",
+    },
+  ],
   publishedAt: "2026-04-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

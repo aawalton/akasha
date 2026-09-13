@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0092Chapter390Relocation = {
   position: 92,
   ownLength: 2317,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3527384/chapter-390-relocation",
-  externalId: "3527384",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3527384",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3527384/chapter-390-relocation",
+    },
+  ],
   publishedAt: "2026-06-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

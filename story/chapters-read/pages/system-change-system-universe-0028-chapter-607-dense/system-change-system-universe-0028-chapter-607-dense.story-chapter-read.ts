@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0028Chapter607Dense = {
   position: 28,
   ownLength: 2593,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2798002/chapter-607-dense",
-  externalId: "2798002",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2798002",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2798002/chapter-607-dense",
+    },
+  ],
   publishedAt: "2025-11-27",
   ownProgress: 2593,
   completedAt: "2026-06-29T19:57:38.558Z",

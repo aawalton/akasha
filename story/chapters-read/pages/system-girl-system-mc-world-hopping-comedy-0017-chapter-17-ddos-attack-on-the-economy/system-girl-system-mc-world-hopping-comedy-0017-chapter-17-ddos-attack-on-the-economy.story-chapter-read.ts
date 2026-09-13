@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0017Chapter17DdosAttackOnTheEco
   position: 17,
   ownLength: 2171,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2613568/chapter-17-ddos-attack-on-the-economy",
-  externalId: "2613568",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2613568",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2613568/chapter-17-ddos-attack-on-the-economy",
+    },
+  ],
   publishedAt: "2025-09-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

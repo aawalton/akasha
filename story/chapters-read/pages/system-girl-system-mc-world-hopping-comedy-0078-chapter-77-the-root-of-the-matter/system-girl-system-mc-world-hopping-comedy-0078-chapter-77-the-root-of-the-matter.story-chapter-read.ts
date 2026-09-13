@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0078Chapter77TheRootOfTheMatter
   position: 78,
   ownLength: 2759,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3391535/chapter-77-the-root-of-the-matter",
-  externalId: "3391535",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3391535",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3391535/chapter-77-the-root-of-the-matter",
+    },
+  ],
   publishedAt: "2026-05-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

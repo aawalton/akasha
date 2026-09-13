@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0091Chapter389ConsentedAbduction = {
   position: 91,
   ownLength: 2216,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3517699/chapter-389-consented-abduction",
-  externalId: "3517699",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3517699",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3517699/chapter-389-consented-abduction",
+    },
+  ],
   publishedAt: "2026-06-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

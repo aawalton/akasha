@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0099Chapter177South = {
   position: 99,
   ownLength: 5214,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1812235/chapter-177-south",
-  externalId: "1812235",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1812235",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1812235/chapter-177-south",
+    },
+  ],
   publishedAt: "2024-09-20",
   ownProgress: 5214,
   completedAt: "2026-06-29T21:18:10.681Z",

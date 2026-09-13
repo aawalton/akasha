@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0027Chapter606SystemWatcher = {
   position: 27,
   ownLength: 2139,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2793343/chapter-606-system-watcher",
-  externalId: "2793343",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2793343",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2793343/chapter-606-system-watcher",
+    },
+  ],
   publishedAt: "2025-11-26",
   ownProgress: 2139,
   completedAt: "2026-06-29T19:57:36.768Z",

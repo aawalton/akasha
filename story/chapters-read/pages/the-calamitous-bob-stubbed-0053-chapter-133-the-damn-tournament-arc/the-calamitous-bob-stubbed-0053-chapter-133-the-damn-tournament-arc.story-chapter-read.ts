@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0053Chapter133TheDamnTournamentArc = {
   position: 53,
   ownLength: 6310,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1329375/chapter-133-the-damn-tournament-arc",
-  externalId: "1329375",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1329375",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1329375/chapter-133-the-damn-tournament-arc",
+    },
+  ],
   publishedAt: "2023-09-01",
   ownProgress: 6310,
   completedAt: "2026-06-29T21:16:34.762Z",

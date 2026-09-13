@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0088Chapter666PleaseNo = {
   position: 88,
   ownLength: 2047,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3677945/chapter-666-please-no",
-  externalId: "3677945",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3677945",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3677945/chapter-666-please-no",
+    },
+  ],
   publishedAt: "2026-07-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

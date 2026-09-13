@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0061Chapter60TheGoldenCoin = {
   position: 61,
   ownLength: 3063,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3088595/chapter-60-the-golden-coin",
-  externalId: "3088595",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3088595",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3088595/chapter-60-the-golden-coin",
+    },
+  ],
   publishedAt: "2026-02-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

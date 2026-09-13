@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0070Chapter150ImportantBusiness = {
   position: 70,
   ownLength: 6949,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1496445/chapter-150-important-business",
-  externalId: "1496445",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1496445",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1496445/chapter-150-important-business",
+    },
+  ],
   publishedAt: "2024-01-27",
   ownProgress: 6949,
   completedAt: "2026-06-29T21:17:13.098Z",

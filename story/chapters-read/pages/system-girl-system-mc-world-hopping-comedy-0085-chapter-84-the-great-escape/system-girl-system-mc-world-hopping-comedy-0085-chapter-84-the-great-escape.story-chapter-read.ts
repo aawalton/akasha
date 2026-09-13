@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0085Chapter84TheGreatEscape = {
   position: 85,
   ownLength: 2210,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3530913/chapter-84-the-great-escape",
-  externalId: "3530913",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3530913",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3530913/chapter-84-the-great-escape",
+    },
+  ],
   publishedAt: "2026-06-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

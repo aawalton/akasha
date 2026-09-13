@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0026Chapter107MeetInterestingPeopleKillThem 
   position: 26,
   ownLength: 6293,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1121985/chapter-107-meet-interesting-people-kill-them",
-  externalId: "1121985",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1121985",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1121985/chapter-107-meet-interesting-people-kill-them",
+    },
+  ],
   publishedAt: "2023-02-24",
   ownProgress: 6293,
   completedAt: "2026-06-29T21:15:35.772Z",

@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0023Chapter23ThePreFlightCheckl
   position: 23,
   ownLength: 2324,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2649429/chapter-23-the-pre-flight-checklist",
-  externalId: "2649429",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2649429",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2649429/chapter-23-the-pre-flight-checklist",
+    },
+  ],
   publishedAt: "2025-10-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0013Chapter487ConfrontationEpilogue = {
   position: 13,
   ownLength: 4209,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1951194/chapter-487-confrontationepilogue",
-  externalId: "1951194",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1951194",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1951194/chapter-487-confrontationepilogue",
+    },
+  ],
   publishedAt: "2024-12-11",
   ownProgress: 4209,
   completedAt: "2026-06-29T19:57:09.576Z",

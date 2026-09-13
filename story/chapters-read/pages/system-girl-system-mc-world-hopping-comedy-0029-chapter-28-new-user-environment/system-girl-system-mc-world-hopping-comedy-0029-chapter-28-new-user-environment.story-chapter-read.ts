@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0029Chapter28NewUserEnvironment
   position: 29,
   ownLength: 2322,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2676695/chapter-28-new-user-environment",
-  externalId: "2676695",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2676695",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2676695/chapter-28-new-user-environment",
+    },
+  ],
   publishedAt: "2025-10-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

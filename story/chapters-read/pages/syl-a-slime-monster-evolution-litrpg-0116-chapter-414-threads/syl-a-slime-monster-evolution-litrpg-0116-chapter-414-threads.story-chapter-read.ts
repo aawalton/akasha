@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0116Chapter414Threads = {
   position: 116,
   ownLength: 2176,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3802944/chapter-414-threads",
-  externalId: "3802944",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3802944",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3802944/chapter-414-threads",
+    },
+  ],
   publishedAt: "2026-08-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0068Chapter67TheSeaSpiderChroni
   position: 68,
   ownLength: 2399,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3207895/chapter-67-the-sea-spider-chronicles",
-  externalId: "3207895",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3207895",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3207895/chapter-67-the-sea-spider-chronicles",
+    },
+  ],
   publishedAt: "2026-03-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

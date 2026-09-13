@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0084Chapter382NoTimeForRestBook6 = {
   position: 84,
   ownLength: 3026,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3430429/chapter-382-no-time-for-rest-book-6",
-  externalId: "3430429",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3430429",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3430429/chapter-382-no-time-for-rest-book-6",
+    },
+  ],
   publishedAt: "2026-05-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

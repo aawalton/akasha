@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0037Chapter36ThePathOfNoMind = 
   position: 37,
   ownLength: 1825,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2752617/chapter-36-the-path-of-no-mind",
-  externalId: "2752617",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2752617",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2752617/chapter-36-the-path-of-no-mind",
+    },
+  ],
   publishedAt: "2025-11-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

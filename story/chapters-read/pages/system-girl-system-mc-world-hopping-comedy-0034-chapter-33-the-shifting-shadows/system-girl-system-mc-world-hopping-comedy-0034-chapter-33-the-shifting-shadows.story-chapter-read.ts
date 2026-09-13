@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0034Chapter33TheShiftingShadows
   position: 34,
   ownLength: 2173,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2720942/chapter-33-the-shifting-shadows",
-  externalId: "2720942",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2720942",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2720942/chapter-33-the-shifting-shadows",
+    },
+  ],
   publishedAt: "2025-10-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

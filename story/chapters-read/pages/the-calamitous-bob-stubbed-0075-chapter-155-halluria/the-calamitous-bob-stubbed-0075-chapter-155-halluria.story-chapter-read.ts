@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0075Chapter155Halluria = {
   position: 75,
   ownLength: 6038,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1538075/chapter-155-halluria",
-  externalId: "1538075",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1538075",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1538075/chapter-155-halluria",
+    },
+  ],
   publishedAt: "2024-03-01",
   ownProgress: 6038,
   completedAt: "2026-06-29T21:17:25.306Z",

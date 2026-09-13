@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0090Chapter89TheWeightOfLoyalty
   position: 90,
   ownLength: 2029,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3636172/chapter-89-the-weight-of-loyalty",
-  externalId: "3636172",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3636172",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3636172/chapter-89-the-weight-of-loyalty",
+    },
+  ],
   publishedAt: "2026-07-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

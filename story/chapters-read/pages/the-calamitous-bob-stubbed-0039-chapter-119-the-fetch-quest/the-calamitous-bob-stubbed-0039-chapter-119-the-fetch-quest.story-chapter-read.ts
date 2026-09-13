@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0039Chapter119TheFetchQuest = {
   position: 39,
   ownLength: 5789,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1226457/chapter-119-the-fetch-quest",
-  externalId: "1226457",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1226457",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1226457/chapter-119-the-fetch-quest",
+    },
+  ],
   publishedAt: "2023-05-27",
   ownProgress: 5789,
   completedAt: "2026-06-29T21:16:04.482Z",

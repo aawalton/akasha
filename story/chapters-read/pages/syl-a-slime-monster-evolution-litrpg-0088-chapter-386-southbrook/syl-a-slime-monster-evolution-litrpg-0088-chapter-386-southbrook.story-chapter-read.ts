@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0088Chapter386Southbrook = {
   position: 88,
   ownLength: 2042,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3486011/chapter-386-southbrook",
-  externalId: "3486011",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3486011",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3486011/chapter-386-southbrook",
+    },
+  ],
   publishedAt: "2026-06-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

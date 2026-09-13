@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0053Chapter631Help = {
   position: 53,
   ownLength: 2006,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3072704/chapter-631-help",
-  externalId: "3072704",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3072704",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3072704/chapter-631-help",
+    },
+  ],
   publishedAt: "2026-02-20",
   ownProgress: 2006,
   completedAt: "2026-06-29T19:58:25.754Z",

@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0055Chapter135FirstRounds = {
   position: 55,
   ownLength: 5535,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1343540/chapter-135-first-rounds",
-  externalId: "1343540",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1343540",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1343540/chapter-135-first-rounds",
+    },
+  ],
   publishedAt: "2023-09-15",
   ownProgress: 5535,
   completedAt: "2026-06-29T21:16:39.292Z",

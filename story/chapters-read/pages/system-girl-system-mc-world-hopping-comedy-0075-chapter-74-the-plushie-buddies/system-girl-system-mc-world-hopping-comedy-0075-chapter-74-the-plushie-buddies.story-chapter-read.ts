@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0075Chapter74ThePlushieBuddies 
   position: 75,
   ownLength: 2174,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3341795/chapter-74-the-plushie-buddies",
-  externalId: "3341795",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3341795",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3341795/chapter-74-the-plushie-buddies",
+    },
+  ],
   publishedAt: "2026-05-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

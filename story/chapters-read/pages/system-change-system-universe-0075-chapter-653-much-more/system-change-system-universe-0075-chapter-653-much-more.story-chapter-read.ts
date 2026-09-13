@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0075Chapter653MuchMore = {
   position: 75,
   ownLength: 2034,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3462501/chapter-653-much-more",
-  externalId: "3462501",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3462501",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3462501/chapter-653-much-more",
+    },
+  ],
   publishedAt: "2026-05-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

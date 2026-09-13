@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0001Chapter82ToQuellARebellion = {
   position: 1,
   ownLength: 5610,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/953871/chapter-82-to-quell-a-rebellion",
-  externalId: "953871",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "953871",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/953871/chapter-82-to-quell-a-rebellion",
+    },
+  ],
   publishedAt: "2022-07-22",
   ownProgress: 5610,
   completedAt: "2026-06-29T21:14:40.690Z",

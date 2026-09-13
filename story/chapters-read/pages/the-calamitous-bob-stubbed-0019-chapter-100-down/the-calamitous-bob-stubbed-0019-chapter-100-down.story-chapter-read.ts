@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0019Chapter100Down = {
   position: 19,
   ownLength: 4304,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1080427/chapter-100-down",
-  externalId: "1080427",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1080427",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1080427/chapter-100-down",
+    },
+  ],
   publishedAt: "2023-01-06",
   ownProgress: 4304,
   completedAt: "2026-06-29T21:15:20.833Z",

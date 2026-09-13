@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0074Chapter652TyrantLarva = {
   position: 74,
   ownLength: 2075,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3451202/chapter-652-tyrant-larva",
-  externalId: "3451202",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3451202",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3451202/chapter-652-tyrant-larva",
+    },
+  ],
   publishedAt: "2026-05-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

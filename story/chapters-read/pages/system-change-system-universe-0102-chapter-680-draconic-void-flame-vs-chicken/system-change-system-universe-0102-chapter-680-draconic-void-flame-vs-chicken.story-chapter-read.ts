@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0102Chapter680DraconicVoidFlameVsChicken 
   position: 102,
   ownLength: 2039,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3874478/chapter-680-draconic-void-flame-vs-chicken",
-  externalId: "3874478",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3874478",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3874478/chapter-680-draconic-void-flame-vs-chicken",
+    },
+  ],
   publishedAt: "2026-08-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

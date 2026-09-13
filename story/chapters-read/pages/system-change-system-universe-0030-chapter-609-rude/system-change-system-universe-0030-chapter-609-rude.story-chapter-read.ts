@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0030Chapter609Rude = {
   position: 30,
   ownLength: 2383,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2819690/chapter-609-rude",
-  externalId: "2819690",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2819690",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2819690/chapter-609-rude",
+    },
+  ],
   publishedAt: "2025-12-05",
   ownProgress: 2383,
   completedAt: "2026-06-29T19:57:42.144Z",

@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0002Chapter2IntoTheVoid = {
   position: 2,
   ownLength: 2121,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/544987/chapter-2-into-the-void",
-  externalId: "544987",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "544987",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/544987/chapter-2-into-the-void",
+    },
+  ],
   publishedAt: "2020-08-26",
   ownProgress: 2121,
   completedAt: "2026-06-29T19:56:48.832Z",

@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0051Chapter131MindLikeABearTrap = {
   position: 51,
   ownLength: 5754,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1314367/chapter-131-mind-like-a-bear-trap",
-  externalId: "1314367",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1314367",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1314367/chapter-131-mind-like-a-bear-trap",
+    },
+  ],
   publishedAt: "2023-08-18",
   ownProgress: 5754,
   completedAt: "2026-06-29T21:16:30.445Z",

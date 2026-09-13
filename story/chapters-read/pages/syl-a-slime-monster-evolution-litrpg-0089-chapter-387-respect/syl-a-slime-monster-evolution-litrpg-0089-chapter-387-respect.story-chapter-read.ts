@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0089Chapter387Respect = {
   position: 89,
   ownLength: 2095,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3495117/chapter-387-respect",
-  externalId: "3495117",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3495117",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3495117/chapter-387-respect",
+    },
+  ],
   publishedAt: "2026-06-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

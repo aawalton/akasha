@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0032MeanwhileTheSidekicks = {
   position: 32,
   ownLength: 1087,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1154416/meanwhile-the-sidekicks",
-  externalId: "1154416",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1154416",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1154416/meanwhile-the-sidekicks",
+    },
+  ],
   publishedAt: "2023-04-01",
   ownProgress: 1087,
   completedAt: "2026-06-29T21:15:48.634Z",

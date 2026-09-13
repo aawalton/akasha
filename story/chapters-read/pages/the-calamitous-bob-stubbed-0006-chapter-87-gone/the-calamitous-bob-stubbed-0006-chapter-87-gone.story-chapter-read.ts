@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0006Chapter87Gone = {
   position: 6,
   ownLength: 4465,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/984930/chapter-87-gone",
-  externalId: "984930",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "984930",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/984930/chapter-87-gone",
+    },
+  ],
   publishedAt: "2022-09-02",
   ownProgress: 4465,
   completedAt: "2026-06-29T21:14:51.454Z",

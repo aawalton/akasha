@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0108Chapter406HuntingTheHunter = {
   position: 108,
   ownLength: 2466,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3709421/chapter-406-hunting-the-hunter",
-  externalId: "3709421",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3709421",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3709421/chapter-406-hunting-the-hunter",
+    },
+  ],
   publishedAt: "2026-07-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

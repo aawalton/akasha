@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0013Chapter94GreenEdge = {
   position: 13,
   ownLength: 6322,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1026043/chapter-94-green-edge",
-  externalId: "1026043",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1026043",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1026043/chapter-94-green-edge",
+    },
+  ],
   publishedAt: "2022-10-28",
   ownProgress: 6322,
   completedAt: "2026-06-29T21:15:07.258Z",

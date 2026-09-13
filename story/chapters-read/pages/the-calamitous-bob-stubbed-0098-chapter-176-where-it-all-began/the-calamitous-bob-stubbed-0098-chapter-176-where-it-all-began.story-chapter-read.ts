@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0098Chapter176WhereItAllBegan = {
   position: 98,
   ownLength: 5025,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1801728/chapter-176-where-it-all-began",
-  externalId: "1801728",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1801728",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1801728/chapter-176-where-it-all-began",
+    },
+  ],
   publishedAt: "2024-09-13",
   ownProgress: 5025,
   completedAt: "2026-06-29T21:18:08.758Z",

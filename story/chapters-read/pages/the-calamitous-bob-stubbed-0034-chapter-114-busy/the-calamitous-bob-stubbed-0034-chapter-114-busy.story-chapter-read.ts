@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0034Chapter114Busy = {
   position: 34,
   ownLength: 3903,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1169658/chapter-114-busy",
-  externalId: "1169658",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1169658",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1169658/chapter-114-busy",
+    },
+  ],
   publishedAt: "2023-04-14",
   ownProgress: 3903,
   completedAt: "2026-06-29T21:15:53.744Z",

@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0066Chapter365TacitApproval = {
   position: 66,
   ownLength: 2474,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3191004/chapter-365-tacit-approval",
-  externalId: "3191004",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3191004",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3191004/chapter-365-tacit-approval",
+    },
+  ],
   publishedAt: "2026-03-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

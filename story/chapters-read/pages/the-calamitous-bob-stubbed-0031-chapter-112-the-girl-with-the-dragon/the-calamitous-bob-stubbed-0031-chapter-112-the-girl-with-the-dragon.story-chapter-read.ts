@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0031Chapter112TheGirlWithTheDragon = {
   position: 31,
   ownLength: 4904,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1153471/chapter-112-the-girl-with-the-dragon",
-  externalId: "1153471",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1153471",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1153471/chapter-112-the-girl-with-the-dragon",
+    },
+  ],
   publishedAt: "2023-03-31",
   ownProgress: 4904,
   completedAt: "2026-06-29T21:15:46.581Z",

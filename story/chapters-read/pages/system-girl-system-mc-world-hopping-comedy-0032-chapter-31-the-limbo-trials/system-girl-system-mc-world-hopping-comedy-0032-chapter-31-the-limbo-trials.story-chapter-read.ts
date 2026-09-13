@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0032Chapter31TheLimboTrials = {
   position: 32,
   ownLength: 2240,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2702144/chapter-31-the-limbo-trials",
-  externalId: "2702144",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2702144",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2702144/chapter-31-the-limbo-trials",
+    },
+  ],
   publishedAt: "2025-10-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

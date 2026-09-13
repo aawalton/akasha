@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0083Chapter661EpiloguePrologue = {
   position: 83,
   ownLength: 2512,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3591427/chapter-661-epilogueprologue",
-  externalId: "3591427",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3591427",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3591427/chapter-661-epilogueprologue",
+    },
+  ],
   publishedAt: "2026-06-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

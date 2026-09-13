@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0110Chapter188ThePush = {
   position: 110,
   ownLength: 6326,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2004345/chapter-188-the-push",
-  externalId: "2004345",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2004345",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2004345/chapter-188-the-push",
+    },
+  ],
   publishedAt: "2025-01-11",
   ownProgress: 6326,
   completedAt: "2026-06-29T21:18:33.953Z",

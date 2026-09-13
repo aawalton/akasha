@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0018Chapter598EpilogueBook8 = {
   position: 18,
   ownLength: 2225,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2718092/chapter-598-epilogue-book-8",
-  externalId: "2718092",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2718092",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2718092/chapter-598-epilogue-book-8",
+    },
+  ],
   publishedAt: "2025-10-30",
   ownProgress: 2225,
   completedAt: "2026-06-29T19:57:19.410Z",

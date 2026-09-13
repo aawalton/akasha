@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0101Chapter679PrimalFoundations = {
   position: 101,
   ownLength: 2162,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3865208/chapter-679-primal-foundations",
-  externalId: "3865208",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3865208",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3865208/chapter-679-primal-foundations",
+    },
+  ],
   publishedAt: "2026-08-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

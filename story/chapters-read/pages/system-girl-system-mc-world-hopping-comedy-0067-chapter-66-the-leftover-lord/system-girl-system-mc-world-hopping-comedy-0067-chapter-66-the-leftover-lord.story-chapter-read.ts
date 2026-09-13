@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0067Chapter66TheLeftoverLord = 
   position: 67,
   ownLength: 2290,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3189100/chapter-66-the-leftover-lord",
-  externalId: "3189100",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3189100",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3189100/chapter-66-the-leftover-lord",
+    },
+  ],
   publishedAt: "2026-03-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

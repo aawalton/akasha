@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0073Chapter153ExtraDiplomatic = {
   position: 73,
   ownLength: 6083,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1520866/chapter-153-extra-diplomatic",
-  externalId: "1520866",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1520866",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1520866/chapter-153-extra-diplomatic",
+    },
+  ],
   publishedAt: "2024-02-16",
   ownProgress: 6083,
   completedAt: "2026-06-29T21:17:19.896Z",

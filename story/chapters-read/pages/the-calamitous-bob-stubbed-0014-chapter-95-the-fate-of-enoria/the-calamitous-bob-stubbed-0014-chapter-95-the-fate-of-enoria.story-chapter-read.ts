@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0014Chapter95TheFateOfEnoria = {
   position: 14,
   ownLength: 6770,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1031830/chapter-95-the-fate-of-enoria",
-  externalId: "1031830",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1031830",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1031830/chapter-95-the-fate-of-enoria",
+    },
+  ],
   publishedAt: "2022-11-04",
   ownProgress: 6770,
   completedAt: "2026-06-29T21:15:09.551Z",

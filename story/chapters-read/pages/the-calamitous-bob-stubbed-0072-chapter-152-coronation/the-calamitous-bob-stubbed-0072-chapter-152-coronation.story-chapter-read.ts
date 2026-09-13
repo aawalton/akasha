@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0072Chapter152Coronation = {
   position: 72,
   ownLength: 6383,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1512381/chapter-152-coronation",
-  externalId: "1512381",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1512381",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1512381/chapter-152-coronation",
+    },
+  ],
   publishedAt: "2024-02-09",
   ownProgress: 6383,
   completedAt: "2026-06-29T21:17:17.695Z",

@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0062Chapter361Separation = {
   position: 62,
   ownLength: 2362,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3156798/chapter-361-separation",
-  externalId: "3156798",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3156798",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3156798/chapter-361-separation",
+    },
+  ],
   publishedAt: "2026-03-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0052Chapter51TheThermostatOfTea
   position: 52,
   ownLength: 2624,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2939871/chapter-51-the-thermostat-of-tears",
-  externalId: "2939871",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2939871",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2939871/chapter-51-the-thermostat-of-tears",
+    },
+  ],
   publishedAt: "2026-01-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

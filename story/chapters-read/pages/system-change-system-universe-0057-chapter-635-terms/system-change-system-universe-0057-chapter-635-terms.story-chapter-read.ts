@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0057Chapter635Terms = {
   position: 57,
   ownLength: 2014,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3145455/chapter-635-terms",
-  externalId: "3145455",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3145455",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3145455/chapter-635-terms",
+    },
+  ],
   publishedAt: "2026-03-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

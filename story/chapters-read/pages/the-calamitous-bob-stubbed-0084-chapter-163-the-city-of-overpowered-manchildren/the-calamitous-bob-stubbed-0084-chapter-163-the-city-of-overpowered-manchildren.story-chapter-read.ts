@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0084Chapter163TheCityOfOverpoweredManchildre
   position: 84,
   ownLength: 5037,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1622043/chapter-163-the-city-of-overpowered-manchildren",
-  externalId: "1622043",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1622043",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1622043/chapter-163-the-city-of-overpowered-manchildren",
+    },
+  ],
   publishedAt: "2024-05-03",
   ownProgress: 5037,
   completedAt: "2026-06-29T21:17:42.200Z",

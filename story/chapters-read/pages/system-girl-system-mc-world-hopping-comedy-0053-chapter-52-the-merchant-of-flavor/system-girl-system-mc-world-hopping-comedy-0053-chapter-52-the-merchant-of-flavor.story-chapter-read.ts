@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0053Chapter52TheMerchantOfFlavo
   position: 53,
   ownLength: 3062,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2955637/chapter-52-the-merchant-of-flavor",
-  externalId: "2955637",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2955637",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2955637/chapter-52-the-merchant-of-flavor",
+    },
+  ],
   publishedAt: "2026-01-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

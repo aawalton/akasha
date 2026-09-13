@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0120Chapter418CleanSpend = {
   position: 120,
   ownLength: 2878,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3841908/chapter-418-clean-spend",
-  externalId: "3841908",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3841908",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3841908/chapter-418-clean-spend",
+    },
+  ],
   publishedAt: "2026-08-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

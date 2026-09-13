@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0012Chapter12Decommissioning = 
   position: 12,
   ownLength: 1766,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2598091/chapter-12-decommissioning",
-  externalId: "2598091",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2598091",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2598091/chapter-12-decommissioning",
+    },
+  ],
   publishedAt: "2025-09-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

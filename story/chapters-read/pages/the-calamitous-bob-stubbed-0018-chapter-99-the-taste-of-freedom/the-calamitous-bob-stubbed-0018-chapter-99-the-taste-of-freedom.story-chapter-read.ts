@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0018Chapter99TheTasteOfFreedom = {
   position: 18,
   ownLength: 5568,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1059559/chapter-99-the-taste-of-freedom",
-  externalId: "1059559",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1059559",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1059559/chapter-99-the-taste-of-freedom",
+    },
+  ],
   publishedAt: "2022-12-09",
   ownProgress: 5568,
   completedAt: "2026-06-29T21:15:18.730Z",

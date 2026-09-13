@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0008Chapter89ThePullOfFate = {
   position: 8,
   ownLength: 4304,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/995460/chapter-89-the-pull-of-fate",
-  externalId: "995460",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "995460",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/995460/chapter-89-the-pull-of-fate",
+    },
+  ],
   publishedAt: "2022-09-16",
   ownProgress: 4304,
   completedAt: "2026-06-29T21:14:55.778Z",

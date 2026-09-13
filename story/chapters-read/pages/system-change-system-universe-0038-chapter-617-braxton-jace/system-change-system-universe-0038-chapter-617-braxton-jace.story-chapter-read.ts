@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0038Chapter617BraxtonJace = {
   position: 38,
   ownLength: 2598,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2899995/chapter-617-braxtonjace",
-  externalId: "2899995",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2899995",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2899995/chapter-617-braxtonjace",
+    },
+  ],
   publishedAt: "2026-01-02",
   ownProgress: 2598,
   completedAt: "2026-06-29T19:57:57.302Z",

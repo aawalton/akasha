@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0060Chapter59ThePuppiesOfDoom =
   position: 60,
   ownLength: 2224,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3077086/chapter-59-the-puppies-of-doom",
-  externalId: "3077086",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3077086",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3077086/chapter-59-the-puppies-of-doom",
+    },
+  ],
   publishedAt: "2026-02-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

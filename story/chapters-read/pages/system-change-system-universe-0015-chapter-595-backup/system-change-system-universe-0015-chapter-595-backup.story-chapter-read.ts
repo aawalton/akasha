@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0015Chapter595Backup = {
   position: 15,
   ownLength: 2207,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2694902/chapter-595-backup",
-  externalId: "2694902",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2694902",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2694902/chapter-595-backup",
+    },
+  ],
   publishedAt: "2025-10-21",
   ownProgress: 2207,
   completedAt: "2026-06-29T19:57:13.512Z",

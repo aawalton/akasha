@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0021Chapter601ContributorsAndSereph = {
   position: 21,
   ownLength: 2008,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2753273/chapter-601-contributors-and-sereph",
-  externalId: "2753273",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2753273",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2753273/chapter-601-contributors-and-sereph",
+    },
+  ],
   publishedAt: "2025-11-12",
   ownProgress: 2008,
   completedAt: "2026-06-29T19:57:25.226Z",

@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0093Chapter92TheWarOfAttrition 
   position: 93,
   ownLength: 2075,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3698149/chapter-92-the-war-of-attrition",
-  externalId: "3698149",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3698149",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3698149/chapter-92-the-war-of-attrition",
+    },
+  ],
   publishedAt: "2026-07-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

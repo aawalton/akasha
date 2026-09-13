@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0098Chapter97TheWalledGarden = 
   position: 98,
   ownLength: 2076,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3810014/chapter-97-the-walled-garden",
-  externalId: "3810014",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3810014",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3810014/chapter-97-the-walled-garden",
+    },
+  ],
   publishedAt: "2026-08-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

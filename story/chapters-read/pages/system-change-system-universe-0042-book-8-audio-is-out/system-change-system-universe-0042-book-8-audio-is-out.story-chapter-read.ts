@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0042Book8AudioIsOut = {
   position: 42,
   ownLength: 120,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2942157/book-8-audio-is-out",
-  externalId: "2942157",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2942157",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2942157/book-8-audio-is-out",
+    },
+  ],
   publishedAt: "2026-01-14",
   ownProgress: 120,
   completedAt: "2026-06-29T19:58:05.096Z",

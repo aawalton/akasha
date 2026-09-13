@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0112Chapter410DemonSGambit = {
   position: 112,
   ownLength: 2670,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3762122/chapter-410-demons-gambit",
-  externalId: "3762122",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3762122",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3762122/chapter-410-demons-gambit",
+    },
+  ],
   publishedAt: "2026-08-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

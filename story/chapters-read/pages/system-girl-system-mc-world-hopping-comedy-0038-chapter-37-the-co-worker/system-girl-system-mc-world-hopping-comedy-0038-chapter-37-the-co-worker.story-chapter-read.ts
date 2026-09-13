@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0038Chapter37TheCoWorker = {
   position: 38,
   ownLength: 2532,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2761259/chapter-37-the-co-worker",
-  externalId: "2761259",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2761259",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2761259/chapter-37-the-co-worker",
+    },
+  ],
   publishedAt: "2025-11-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

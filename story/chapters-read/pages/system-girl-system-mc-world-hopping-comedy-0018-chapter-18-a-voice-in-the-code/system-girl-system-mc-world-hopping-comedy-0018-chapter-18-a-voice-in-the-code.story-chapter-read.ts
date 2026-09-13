@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0018Chapter18AVoiceInTheCode = 
   position: 18,
   ownLength: 2567,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2618129/chapter-18-a-voice-in-the-code",
-  externalId: "2618129",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2618129",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2618129/chapter-18-a-voice-in-the-code",
+    },
+  ],
   publishedAt: "2025-09-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

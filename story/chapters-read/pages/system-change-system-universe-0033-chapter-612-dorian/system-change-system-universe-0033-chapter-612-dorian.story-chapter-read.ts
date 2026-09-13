@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0033Chapter612Dorian = {
   position: 33,
   ownLength: 2340,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2854641/chapter-612-dorian",
-  externalId: "2854641",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2854641",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2854641/chapter-612-dorian",
+    },
+  ],
   publishedAt: "2025-12-17",
   ownProgress: 2340,
   completedAt: "2026-06-29T19:57:47.866Z",

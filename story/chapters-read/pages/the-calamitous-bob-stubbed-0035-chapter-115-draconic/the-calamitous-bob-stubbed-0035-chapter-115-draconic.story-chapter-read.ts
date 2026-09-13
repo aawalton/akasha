@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0035Chapter115Draconic = {
   position: 35,
   ownLength: 6059,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1187869/chapter-115-draconic",
-  externalId: "1187869",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1187869",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1187869/chapter-115-draconic",
+    },
+  ],
   publishedAt: "2023-04-21",
   ownProgress: 6059,
   completedAt: "2026-06-29T21:15:55.754Z",

@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0087Chapter665HallMasterSheen = {
   position: 87,
   ownLength: 2132,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3655220/chapter-665-hall-master-sheen",
-  externalId: "3655220",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3655220",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3655220/chapter-665-hall-master-sheen",
+    },
+  ],
   publishedAt: "2026-07-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0044Chapter622FinalPiece = {
   position: 44,
   ownLength: 2055,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2962880/chapter-622-final-piece",
-  externalId: "2962880",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2962880",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2962880/chapter-622-final-piece",
+    },
+  ],
   publishedAt: "2026-01-21",
   ownProgress: 2055,
   completedAt: "2026-06-29T19:58:08.778Z",

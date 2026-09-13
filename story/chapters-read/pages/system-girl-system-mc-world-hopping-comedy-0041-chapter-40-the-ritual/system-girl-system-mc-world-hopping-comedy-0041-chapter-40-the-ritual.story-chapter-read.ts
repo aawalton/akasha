@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0041Chapter40TheRitual = {
   position: 41,
   ownLength: 1896,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2797443/chapter-40-the-ritual",
-  externalId: "2797443",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2797443",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2797443/chapter-40-the-ritual",
+    },
+  ],
   publishedAt: "2025-11-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

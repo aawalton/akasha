@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0020Chapter101Shipping = {
   position: 20,
   ownLength: 5354,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1086677/chapter-101-shipping",
-  externalId: "1086677",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1086677",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1086677/chapter-101-shipping",
+    },
+  ],
   publishedAt: "2023-01-13",
   ownProgress: 5354,
   completedAt: "2026-06-29T21:15:22.935Z",

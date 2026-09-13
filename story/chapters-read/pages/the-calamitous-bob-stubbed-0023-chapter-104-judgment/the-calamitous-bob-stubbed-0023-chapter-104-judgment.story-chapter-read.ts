@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0023Chapter104Judgment = {
   position: 23,
   ownLength: 5130,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1104864/chapter-104-judgment",
-  externalId: "1104864",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1104864",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1104864/chapter-104-judgment",
+    },
+  ],
   publishedAt: "2023-02-03",
   ownProgress: 5130,
   completedAt: "2026-06-29T21:15:29.346Z",

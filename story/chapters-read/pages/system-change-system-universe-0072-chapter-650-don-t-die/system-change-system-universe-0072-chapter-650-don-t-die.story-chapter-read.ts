@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0072Chapter650DonTDie = {
   position: 72,
   ownLength: 2086,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3420516/chapter-650-dont-die",
-  externalId: "3420516",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3420516",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3420516/chapter-650-dont-die",
+    },
+  ],
   publishedAt: "2026-05-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

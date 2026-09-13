@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0102Chapter400SlimeMethod = {
   position: 102,
   ownLength: 2492,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3647212/chapter-400-slime-method",
-  externalId: "3647212",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3647212",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3647212/chapter-400-slime-method",
+    },
+  ],
   publishedAt: "2026-07-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

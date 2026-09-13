@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0081Chapter160MightOfAContinent = {
   position: 81,
   ownLength: 7438,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1592417/chapter-160-might-of-a-continent",
-  externalId: "1592417",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1592417",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1592417/chapter-160-might-of-a-continent",
+    },
+  ],
   publishedAt: "2024-04-12",
   ownProgress: 7438,
   completedAt: "2026-06-29T21:17:36.656Z",

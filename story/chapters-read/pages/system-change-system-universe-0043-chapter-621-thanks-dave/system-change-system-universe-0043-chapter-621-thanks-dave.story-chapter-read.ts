@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0043Chapter621ThanksDave = {
   position: 43,
   ownLength: 2514,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2947200/chapter-621-thanks-dave",
-  externalId: "2947200",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2947200",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2947200/chapter-621-thanks-dave",
+    },
+  ],
   publishedAt: "2026-01-16",
   ownProgress: 2514,
   completedAt: "2026-06-29T19:58:06.992Z",

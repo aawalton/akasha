@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0070Chapter368Paths = {
   position: 70,
   ownLength: 2312,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3225328/chapter-368-paths",
-  externalId: "3225328",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3225328",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3225328/chapter-368-paths",
+    },
+  ],
   publishedAt: "2026-04-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0003Chapter84ConfluenceOfHatred = {
   position: 3,
   ownLength: 6221,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/969659/chapter-84-confluence-of-hatred",
-  externalId: "969659",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "969659",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/969659/chapter-84-confluence-of-hatred",
+    },
+  ],
   publishedAt: "2022-08-12",
   ownProgress: 6221,
   completedAt: "2026-06-29T21:14:44.861Z",

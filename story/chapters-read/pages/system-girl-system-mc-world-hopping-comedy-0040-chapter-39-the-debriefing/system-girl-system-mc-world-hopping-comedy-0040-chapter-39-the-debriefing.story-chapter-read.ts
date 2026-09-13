@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0040Chapter39TheDebriefing = {
   position: 40,
   ownLength: 1820,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2781279/chapter-39-the-debriefing",
-  externalId: "2781279",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2781279",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2781279/chapter-39-the-debriefing",
+    },
+  ],
   publishedAt: "2025-11-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

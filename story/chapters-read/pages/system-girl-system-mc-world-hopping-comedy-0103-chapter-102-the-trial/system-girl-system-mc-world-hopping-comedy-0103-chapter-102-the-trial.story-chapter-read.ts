@@ -8,11 +8,15 @@ export const systemGirlSystemMcWorldHoppingComedy0103Chapter102TheTrial = {
   position: 103,
   publishedAt: "2026-09-07",
   unit: "words",
-  externalId: "3926617",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3926617",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3926617/chapter-102-the-trial",
+    },
+  ],
   title: "Chapter 102: The Trial",
   ownLength: 2478,
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3926617/chapter-102-the-trial",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0076Chapter374CuttingFolds = {
   position: 76,
   ownLength: 2178,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3284037/chapter-374-cutting-folds",
-  externalId: "3284037",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3284037",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3284037/chapter-374-cutting-folds",
+    },
+  ],
   publishedAt: "2026-04-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

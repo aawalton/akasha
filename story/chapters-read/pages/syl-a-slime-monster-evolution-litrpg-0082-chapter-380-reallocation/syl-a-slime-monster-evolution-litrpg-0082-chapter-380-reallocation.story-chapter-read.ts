@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0082Chapter380Reallocation = {
   position: 82,
   ownLength: 2172,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3352005/chapter-380-reallocation",
-  externalId: "3352005",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3352005",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3352005/chapter-380-reallocation",
+    },
+  ],
   publishedAt: "2026-05-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

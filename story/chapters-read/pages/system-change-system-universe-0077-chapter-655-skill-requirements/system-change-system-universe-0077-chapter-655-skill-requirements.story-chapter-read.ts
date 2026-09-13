@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0077Chapter655SkillRequirements = {
   position: 77,
   ownLength: 2114,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3494102/chapter-655-skill-requirements",
-  externalId: "3494102",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3494102",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3494102/chapter-655-skill-requirements",
+    },
+  ],
   publishedAt: "2026-06-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

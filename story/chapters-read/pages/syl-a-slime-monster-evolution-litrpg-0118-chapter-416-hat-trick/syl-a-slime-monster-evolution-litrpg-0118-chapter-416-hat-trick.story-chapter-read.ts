@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0118Chapter416HatTrick = {
   position: 118,
   ownLength: 2225,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3824177/chapter-416-hat-trick",
-  externalId: "3824177",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3824177",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3824177/chapter-416-hat-trick",
+    },
+  ],
   publishedAt: "2026-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

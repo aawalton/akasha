@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0065Chapter64TheSpiceEmpire = {
   position: 65,
   ownLength: 1917,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3155966/chapter-64-the-spice-empire",
-  externalId: "3155966",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3155966",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3155966/chapter-64-the-spice-empire",
+    },
+  ],
   publishedAt: "2026-03-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

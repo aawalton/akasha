@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0071Chapter649ThatSWhy = {
   position: 71,
   ownLength: 2101,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3397132/chapter-649-thats-why",
-  externalId: "3397132",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3397132",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3397132/chapter-649-thats-why",
+    },
+  ],
   publishedAt: "2026-05-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

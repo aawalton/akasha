@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0057Chapter56ThePropertyHunt = 
   position: 57,
   ownLength: 2073,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3019719/chapter-56-the-property-hunt",
-  externalId: "3019719",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3019719",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3019719/chapter-56-the-property-hunt",
+    },
+  ],
   publishedAt: "2026-02-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

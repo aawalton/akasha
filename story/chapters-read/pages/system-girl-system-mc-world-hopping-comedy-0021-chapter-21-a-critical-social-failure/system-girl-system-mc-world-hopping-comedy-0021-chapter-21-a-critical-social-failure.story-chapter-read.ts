@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0021Chapter21ACriticalSocialFai
   position: 21,
   ownLength: 2205,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2635241/chapter-21-a-critical-social-failure",
-  externalId: "2635241",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2635241",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2635241/chapter-21-a-critical-social-failure",
+    },
+  ],
   publishedAt: "2025-09-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

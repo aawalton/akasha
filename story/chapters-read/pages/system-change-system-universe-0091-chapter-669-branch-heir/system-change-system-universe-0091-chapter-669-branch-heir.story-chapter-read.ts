@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0091Chapter669BranchHeir = {
   position: 91,
   ownLength: 2038,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3716948/chapter-669-branch-heir",
-  externalId: "3716948",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3716948",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3716948/chapter-669-branch-heir",
+    },
+  ],
   publishedAt: "2026-07-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

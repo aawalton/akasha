@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0048Chapter626Status = {
   position: 48,
   ownLength: 2083,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3010334/chapter-626-status",
-  externalId: "3010334",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3010334",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3010334/chapter-626-status",
+    },
+  ],
   publishedAt: "2026-02-04",
   ownProgress: 2083,
   completedAt: "2026-06-29T19:58:16.238Z",

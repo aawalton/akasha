@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0086Chapter85TheUrchins = {
   position: 86,
   ownLength: 2625,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3553901/chapter-85-the-urchins",
-  externalId: "3553901",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3553901",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3553901/chapter-85-the-urchins",
+    },
+  ],
   publishedAt: "2026-06-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -8,11 +8,15 @@ export const sylASlimeMonsterEvolutionLitrpg0125Chapter423MiniatureWonderland = 
   position: 125,
   publishedAt: "2026-09-04",
   unit: "words",
-  externalId: "3909959",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3909959",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-book-5-stub-sep-9th/chapter/3909959/chapter-423-miniature-wonderland",
+    },
+  ],
   title: "Chapter 423 : Miniature Wonderland",
   ownLength: 2503,
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-book-5-stub-sep-9th/chapter/3909959/chapter-423-miniature-wonderland",
   prose: "txt",
 } as const satisfies StoryChapterRead

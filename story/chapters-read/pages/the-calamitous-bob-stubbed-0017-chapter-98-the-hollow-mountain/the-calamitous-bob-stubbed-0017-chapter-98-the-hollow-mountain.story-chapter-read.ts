@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0017Chapter98TheHollowMountain = {
   position: 17,
   ownLength: 5771,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1054324/chapter-98-the-hollow-mountain",
-  externalId: "1054324",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1054324",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1054324/chapter-98-the-hollow-mountain",
+    },
+  ],
   publishedAt: "2022-12-02",
   ownProgress: 5771,
   completedAt: "2026-06-29T21:15:16.455Z",

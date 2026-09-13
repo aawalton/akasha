@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0123Chapter421LessonsAndThreads = {
   position: 123,
   ownLength: 2324,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-book-5-stub-sep-9th/chapter/3888640/chapter-421-lessons-and-threads",
-  externalId: "3888640",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3888640",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-book-5-stub-sep-9th/chapter/3888640/chapter-421-lessons-and-threads",
+    },
+  ],
   publishedAt: "2026-08-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

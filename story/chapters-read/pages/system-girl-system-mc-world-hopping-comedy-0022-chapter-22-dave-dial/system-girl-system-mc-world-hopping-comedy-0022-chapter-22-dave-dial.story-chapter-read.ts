@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0022Chapter22DaveDial = {
   position: 22,
   ownLength: 2356,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2641527/chapter-22-dave-dial",
-  externalId: "2641527",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2641527",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2641527/chapter-22-dave-dial",
+    },
+  ],
   publishedAt: "2025-09-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

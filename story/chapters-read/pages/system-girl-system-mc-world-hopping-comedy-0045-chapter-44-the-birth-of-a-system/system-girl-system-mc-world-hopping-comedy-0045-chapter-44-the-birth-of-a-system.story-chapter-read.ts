@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0045Chapter44TheBirthOfASystem 
   position: 45,
   ownLength: 1776,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2842506/chapter-44-the-birth-of-a-system",
-  externalId: "2842506",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2842506",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2842506/chapter-44-the-birth-of-a-system",
+    },
+  ],
   publishedAt: "2025-12-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

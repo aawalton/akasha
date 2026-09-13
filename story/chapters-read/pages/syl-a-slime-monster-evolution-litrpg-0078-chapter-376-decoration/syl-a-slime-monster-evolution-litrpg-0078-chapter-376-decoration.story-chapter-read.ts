@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0078Chapter376Decoration = {
   position: 78,
   ownLength: 2151,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3303617/chapter-376-decoration",
-  externalId: "3303617",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3303617",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3303617/chapter-376-decoration",
+    },
+  ],
   publishedAt: "2026-04-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0092Chapter91TheRoyalTaster = {
   position: 92,
   ownLength: 2514,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3677180/chapter-91-the-royal-taster",
-  externalId: "3677180",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3677180",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3677180/chapter-91-the-royal-taster",
+    },
+  ],
   publishedAt: "2026-07-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

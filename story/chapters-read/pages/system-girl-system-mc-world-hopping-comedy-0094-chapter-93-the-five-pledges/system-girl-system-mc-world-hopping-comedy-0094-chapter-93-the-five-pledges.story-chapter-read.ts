@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0094Chapter93TheFivePledges = {
   position: 94,
   ownLength: 1966,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3720488/chapter-93-the-five-pledges",
-  externalId: "3720488",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3720488",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3720488/chapter-93-the-five-pledges",
+    },
+  ],
   publishedAt: "2026-07-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0069Chapter647PunchingUp = {
   position: 69,
   ownLength: 2161,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3368579/chapter-647-punching-up",
-  externalId: "3368579",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3368579",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3368579/chapter-647-punching-up",
+    },
+  ],
   publishedAt: "2026-05-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

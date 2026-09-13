@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0011Chapter485Ignite = {
   position: 11,
   ownLength: 2913,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1942238/chapter-485-ignite",
-  externalId: "1942238",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1942238",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1942238/chapter-485-ignite",
+    },
+  ],
   publishedAt: "2024-12-06",
   ownProgress: 2913,
   completedAt: "2026-06-29T19:57:05.681Z",

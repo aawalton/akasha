@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0103Chapter681Protocol3 = {
   position: 103,
   ownLength: 2094,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3898000/chapter-681-protocol-3",
-  externalId: "3898000",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3898000",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3898000/chapter-681-protocol-3",
+    },
+  ],
   publishedAt: "2026-09-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

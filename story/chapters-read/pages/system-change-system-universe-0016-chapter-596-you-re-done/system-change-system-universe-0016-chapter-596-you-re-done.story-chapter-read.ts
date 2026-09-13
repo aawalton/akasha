@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0016Chapter596YouReDone = {
   position: 16,
   ownLength: 2248,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2699922/chapter-596-youre-done",
-  externalId: "2699922",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2699922",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2699922/chapter-596-youre-done",
+    },
+  ],
   publishedAt: "2025-10-23",
   ownProgress: 2248,
   completedAt: "2026-06-29T19:57:15.517Z",

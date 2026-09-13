@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0036Chapter116Consequences = {
   position: 36,
   ownLength: 5782,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1203173/chapter-116-consequences",
-  externalId: "1203173",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1203173",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1203173/chapter-116-consequences",
+    },
+  ],
   publishedAt: "2023-05-05",
   ownProgress: 5782,
   completedAt: "2026-06-29T21:15:57.872Z",

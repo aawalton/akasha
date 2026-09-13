@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0069Chapter149EconomyOfScale = {
   position: 69,
   ownLength: 6254,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1487141/chapter-149-economy-of-scale",
-  externalId: "1487141",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1487141",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1487141/chapter-149-economy-of-scale",
+    },
+  ],
   publishedAt: "2024-01-19",
   ownProgress: 6254,
   completedAt: "2026-06-29T21:17:10.672Z",

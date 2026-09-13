@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0096Chapter394Discovery = {
   position: 96,
   ownLength: 2379,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3573121/chapter-394-discovery",
-  externalId: "3573121",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3573121",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3573121/chapter-394-discovery",
+    },
+  ],
   publishedAt: "2026-06-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0057Chapter137RememberMe = {
   position: 57,
   ownLength: 6474,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1372841/chapter-137-remember-me",
-  externalId: "1372841",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1372841",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1372841/chapter-137-remember-me",
+    },
+  ],
   publishedAt: "2023-10-13",
   ownProgress: 6474,
   completedAt: "2026-06-29T21:16:43.885Z",

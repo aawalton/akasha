@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0015Chapter96IsekaiDayZero = {
   position: 15,
   ownLength: 5177,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1043964/chapter-96-isekai-day-zero",
-  externalId: "1043964",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1043964",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1043964/chapter-96-isekai-day-zero",
+    },
+  ],
   publishedAt: "2022-11-18",
   ownProgress: 5177,
   completedAt: "2026-06-29T21:15:11.844Z",

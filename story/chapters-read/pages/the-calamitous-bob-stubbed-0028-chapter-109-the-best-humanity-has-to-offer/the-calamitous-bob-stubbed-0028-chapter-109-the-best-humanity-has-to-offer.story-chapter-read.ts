@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0028Chapter109TheBestHumanityHasToOffer = {
   position: 28,
   ownLength: 4560,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1133953/chapter-109-the-best-humanity-has-to-offer",
-  externalId: "1133953",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1133953",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1133953/chapter-109-the-best-humanity-has-to-offer",
+    },
+  ],
   publishedAt: "2023-03-10",
   ownProgress: 4560,
   completedAt: "2026-06-29T21:15:40.187Z",

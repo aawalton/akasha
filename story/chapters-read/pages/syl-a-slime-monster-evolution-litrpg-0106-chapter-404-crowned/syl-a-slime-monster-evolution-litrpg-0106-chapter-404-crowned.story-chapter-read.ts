@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0106Chapter404Crowned = {
   position: 106,
   ownLength: 2232,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3687653/chapter-404-crowned",
-  externalId: "3687653",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3687653",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3687653/chapter-404-crowned",
+    },
+  ],
   publishedAt: "2026-07-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

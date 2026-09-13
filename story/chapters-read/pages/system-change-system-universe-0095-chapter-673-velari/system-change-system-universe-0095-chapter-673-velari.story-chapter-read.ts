@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0095Chapter673Velari = {
   position: 95,
   ownLength: 2218,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3770733/chapter-673-velari",
-  externalId: "3770733",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3770733",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3770733/chapter-673-velari",
+    },
+  ],
   publishedAt: "2026-08-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

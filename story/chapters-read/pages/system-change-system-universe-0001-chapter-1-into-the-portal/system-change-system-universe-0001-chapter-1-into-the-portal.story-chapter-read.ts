@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0001Chapter1IntoThePortal = {
   position: 1,
   ownLength: 1911,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/544906/chapter-1-into-the-portal",
-  externalId: "544906",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "544906",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/544906/chapter-1-into-the-portal",
+    },
+  ],
   publishedAt: "2020-08-26",
   ownProgress: 1911,
   completedAt: "2026-06-29T19:56:46.905Z",

@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0086Chapter664HallOfTheDeceased = {
   position: 86,
   ownLength: 2015,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3646269/chapter-664-hall-of-the-deceased",
-  externalId: "3646269",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3646269",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3646269/chapter-664-hall-of-the-deceased",
+    },
+  ],
   publishedAt: "2026-07-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

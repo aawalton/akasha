@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0085Chapter663Stalled = {
   position: 85,
   ownLength: 2040,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3624183/chapter-663-stalled",
-  externalId: "3624183",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3624183",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3624183/chapter-663-stalled",
+    },
+  ],
   publishedAt: "2026-07-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

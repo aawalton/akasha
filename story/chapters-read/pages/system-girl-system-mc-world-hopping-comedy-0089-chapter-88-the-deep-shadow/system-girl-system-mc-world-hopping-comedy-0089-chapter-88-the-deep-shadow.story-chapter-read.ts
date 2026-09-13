@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0089Chapter88TheDeepShadow = {
   position: 89,
   ownLength: 2250,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3614102/chapter-88-the-deep-shadow",
-  externalId: "3614102",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3614102",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3614102/chapter-88-the-deep-shadow",
+    },
+  ],
   publishedAt: "2026-06-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

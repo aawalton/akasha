@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0025Chapter106MakingAnEntranceExamination = 
   position: 25,
   ownLength: 5829,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1116061/chapter-106-making-an-entrance-examination",
-  externalId: "1116061",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1116061",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1116061/chapter-106-making-an-entrance-examination",
+    },
+  ],
   publishedAt: "2023-02-17",
   ownProgress: 5829,
   completedAt: "2026-06-29T21:15:33.569Z",

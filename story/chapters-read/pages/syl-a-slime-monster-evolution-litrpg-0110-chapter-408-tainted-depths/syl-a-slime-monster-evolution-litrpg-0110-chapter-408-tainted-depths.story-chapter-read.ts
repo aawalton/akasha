@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0110Chapter408TaintedDepths = {
   position: 110,
   ownLength: 2335,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3731172/chapter-408-tainted-depths",
-  externalId: "3731172",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3731172",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3731172/chapter-408-tainted-depths",
+    },
+  ],
   publishedAt: "2026-07-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

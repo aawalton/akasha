@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0070Chapter69TheFirstStepsOfAQu
   position: 70,
   ownLength: 2654,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3244668/chapter-69-the-first-steps-of-a-queen",
-  externalId: "3244668",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3244668",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3244668/chapter-69-the-first-steps-of-a-queen",
+    },
+  ],
   publishedAt: "2026-04-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

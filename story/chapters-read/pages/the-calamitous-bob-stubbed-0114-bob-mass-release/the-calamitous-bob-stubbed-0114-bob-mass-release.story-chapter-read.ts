@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0114BobMassRelease = {
   position: 114,
   ownLength: 210,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2035903/bob-mass-release",
-  externalId: "2035903",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2035903",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2035903/bob-mass-release",
+    },
+  ],
   publishedAt: "2025-01-29",
   ownProgress: 210,
   completedAt: "2026-06-29T21:18:42.571Z",

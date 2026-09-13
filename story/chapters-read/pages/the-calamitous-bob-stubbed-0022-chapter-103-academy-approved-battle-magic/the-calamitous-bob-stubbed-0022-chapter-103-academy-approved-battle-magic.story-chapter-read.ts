@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0022Chapter103AcademyApprovedBattleMagic = {
   position: 22,
   ownLength: 5947,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1098446/chapter-103-academy-approved-battle-magic",
-  externalId: "1098446",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1098446",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1098446/chapter-103-academy-approved-battle-magic",
+    },
+  ],
   publishedAt: "2023-01-27",
   ownProgress: 5947,
   completedAt: "2026-06-29T21:15:27.336Z",

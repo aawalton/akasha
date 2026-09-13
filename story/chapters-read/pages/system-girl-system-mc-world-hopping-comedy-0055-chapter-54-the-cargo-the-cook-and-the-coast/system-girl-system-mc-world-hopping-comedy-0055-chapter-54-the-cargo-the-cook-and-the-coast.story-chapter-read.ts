@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0055Chapter54TheCargoTheCookAnd
   position: 55,
   ownLength: 2819,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2985377/chapter-54-the-cargo-the-cook-and-the-coast",
-  externalId: "2985377",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2985377",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2985377/chapter-54-the-cargo-the-cook-and-the-coast",
+    },
+  ],
   publishedAt: "2026-01-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

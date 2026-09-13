@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0065Chapter643TooMuch = {
   position: 65,
   ownLength: 2229,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3311101/chapter-643-too-much",
-  externalId: "3311101",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3311101",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3311101/chapter-643-too-much",
+    },
+  ],
   publishedAt: "2026-04-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

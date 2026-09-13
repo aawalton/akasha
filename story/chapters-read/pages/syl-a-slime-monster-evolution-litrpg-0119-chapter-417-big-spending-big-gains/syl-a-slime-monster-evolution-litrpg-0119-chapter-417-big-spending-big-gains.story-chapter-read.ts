@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0119Chapter417BigSpendingBigGains = 
   position: 119,
   ownLength: 2416,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3833149/chapter-417-big-spending-big-gains",
-  externalId: "3833149",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3833149",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3833149/chapter-417-big-spending-big-gains",
+    },
+  ],
   publishedAt: "2026-08-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

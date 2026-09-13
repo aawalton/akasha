@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0099Chapter98TheRoyalAudit = {
   position: 99,
   ownLength: 3643,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3831362/chapter-98-the-royal-audit",
-  externalId: "3831362",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3831362",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3831362/chapter-98-the-royal-audit",
+    },
+  ],
   publishedAt: "2026-08-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

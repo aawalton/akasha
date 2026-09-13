@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0021Chapter102River = {
   position: 21,
   ownLength: 6368,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1092619/chapter-102-river",
-  externalId: "1092619",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1092619",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1092619/chapter-102-river",
+    },
+  ],
   publishedAt: "2023-01-20",
   ownProgress: 6368,
   completedAt: "2026-06-29T21:15:25.156Z",

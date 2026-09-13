@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0103Chapter181Slayers = {
   position: 103,
   ownLength: 7272,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1868143/chapter-181-slayers",
-  externalId: "1868143",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1868143",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1868143/chapter-181-slayers",
+    },
+  ],
   publishedAt: "2024-10-25",
   ownProgress: 7272,
   completedAt: "2026-06-29T21:18:18.752Z",

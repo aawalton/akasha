@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0098Chapter396EndlessSlime = {
   position: 98,
   ownLength: 2374,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3605894/chapter-396-endless-slime",
-  externalId: "3605894",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3605894",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3605894/chapter-396-endless-slime",
+    },
+  ],
   publishedAt: "2026-06-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

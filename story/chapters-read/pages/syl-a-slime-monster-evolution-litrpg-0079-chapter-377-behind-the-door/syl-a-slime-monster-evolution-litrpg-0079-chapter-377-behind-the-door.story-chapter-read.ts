@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0079Chapter377BehindTheDoor = {
   position: 79,
   ownLength: 2348,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3323504/chapter-377-behind-the-door",
-  externalId: "3323504",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3323504",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3323504/chapter-377-behind-the-door",
+    },
+  ],
   publishedAt: "2026-04-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

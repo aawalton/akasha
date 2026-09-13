@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0061Chapter639LeadTheWay = {
   position: 61,
   ownLength: 2071,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3197638/chapter-639-lead-the-way",
-  externalId: "3197638",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3197638",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3197638/chapter-639-lead-the-way",
+    },
+  ],
   publishedAt: "2026-03-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

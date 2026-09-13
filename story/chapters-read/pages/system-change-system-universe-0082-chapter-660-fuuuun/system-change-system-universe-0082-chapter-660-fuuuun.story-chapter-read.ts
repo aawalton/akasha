@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0082Chapter660Fuuuun = {
   position: 82,
   ownLength: 2450,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3581890/chapter-660-fuuuun",
-  externalId: "3581890",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3581890",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3581890/chapter-660-fuuuun",
+    },
+  ],
   publishedAt: "2026-06-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

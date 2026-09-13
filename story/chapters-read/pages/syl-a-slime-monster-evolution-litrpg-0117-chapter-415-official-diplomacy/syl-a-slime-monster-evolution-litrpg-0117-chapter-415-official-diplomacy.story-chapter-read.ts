@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0117Chapter415OfficialDiplomacy = {
   position: 117,
   ownLength: 2282,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3811784/chapter-415-official-diplomacy",
-  externalId: "3811784",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3811784",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3811784/chapter-415-official-diplomacy",
+    },
+  ],
   publishedAt: "2026-08-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

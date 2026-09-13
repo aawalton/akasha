@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0045Chapter623GoodbyeMyFriends = {
   position: 45,
   ownLength: 3268,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2969608/chapter-623-goodbye-my-friends",
-  externalId: "2969608",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2969608",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2969608/chapter-623-goodbye-my-friends",
+    },
+  ],
   publishedAt: "2026-01-23",
   ownProgress: 3268,
   completedAt: "2026-06-29T19:58:10.632Z",

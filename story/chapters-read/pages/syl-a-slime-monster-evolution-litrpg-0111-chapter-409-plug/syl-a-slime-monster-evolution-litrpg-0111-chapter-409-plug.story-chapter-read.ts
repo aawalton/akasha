@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0111Chapter409Plug = {
   position: 111,
   ownLength: 2611,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3740300/chapter-409-plug",
-  externalId: "3740300",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3740300",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3740300/chapter-409-plug",
+    },
+  ],
   publishedAt: "2026-07-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

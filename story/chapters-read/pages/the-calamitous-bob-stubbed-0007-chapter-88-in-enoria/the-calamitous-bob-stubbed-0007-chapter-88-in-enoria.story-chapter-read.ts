@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0007Chapter88InEnoria = {
   position: 7,
   ownLength: 5600,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/990619/chapter-88-in-enoria",
-  externalId: "990619",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "990619",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/990619/chapter-88-in-enoria",
+    },
+  ],
   publishedAt: "2022-09-09",
   ownProgress: 5600,
   completedAt: "2026-06-29T21:14:53.563Z",

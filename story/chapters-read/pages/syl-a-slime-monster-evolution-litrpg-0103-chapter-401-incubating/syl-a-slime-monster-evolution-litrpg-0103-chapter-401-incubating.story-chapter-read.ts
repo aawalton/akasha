@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0103Chapter401Incubating = {
   position: 103,
   ownLength: 2200,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3656131/chapter-401-incubating",
-  externalId: "3656131",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3656131",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3656131/chapter-401-incubating",
+    },
+  ],
   publishedAt: "2026-07-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

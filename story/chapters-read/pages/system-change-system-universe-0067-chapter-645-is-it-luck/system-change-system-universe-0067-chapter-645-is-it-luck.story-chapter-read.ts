@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0067Chapter645IsItLuck = {
   position: 67,
   ownLength: 2942,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3338719/chapter-645-is-it-luck",
-  externalId: "3338719",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3338719",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3338719/chapter-645-is-it-luck",
+    },
+  ],
   publishedAt: "2026-04-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

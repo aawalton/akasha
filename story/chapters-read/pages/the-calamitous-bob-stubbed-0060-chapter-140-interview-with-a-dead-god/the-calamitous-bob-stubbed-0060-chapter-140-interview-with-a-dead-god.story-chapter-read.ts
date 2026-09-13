@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0060Chapter140InterviewWithADeadGod = {
   position: 60,
   ownLength: 5610,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1395372/chapter-140-interview-with-a-dead-god",
-  externalId: "1395372",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1395372",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1395372/chapter-140-interview-with-a-dead-god",
+    },
+  ],
   publishedAt: "2023-11-03",
   ownProgress: 5610,
   completedAt: "2026-06-29T21:16:50.479Z",

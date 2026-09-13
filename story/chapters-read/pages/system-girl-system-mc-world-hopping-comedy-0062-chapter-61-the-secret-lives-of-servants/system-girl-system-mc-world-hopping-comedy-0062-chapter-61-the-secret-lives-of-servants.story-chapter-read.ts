@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0062Chapter61TheSecretLivesOfSe
   position: 62,
   ownLength: 2644,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3105976/chapter-61-the-secret-lives-of-servants",
-  externalId: "3105976",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3105976",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3105976/chapter-61-the-secret-lives-of-servants",
+    },
+  ],
   publishedAt: "2026-03-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0082Chapter81TheDullBlade = {
   position: 82,
   ownLength: 2278,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3474683/chapter-81-the-dull-blade",
-  externalId: "3474683",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3474683",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3474683/chapter-81-the-dull-blade",
+    },
+  ],
   publishedAt: "2026-05-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

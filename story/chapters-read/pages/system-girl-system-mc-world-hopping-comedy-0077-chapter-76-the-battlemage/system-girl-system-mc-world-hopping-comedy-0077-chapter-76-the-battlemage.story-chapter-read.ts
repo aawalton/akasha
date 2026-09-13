@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0077Chapter76TheBattlemage = {
   position: 77,
   ownLength: 2223,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3376589/chapter-76-the-battlemage",
-  externalId: "3376589",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3376589",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3376589/chapter-76-the-battlemage",
+    },
+  ],
   publishedAt: "2026-05-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

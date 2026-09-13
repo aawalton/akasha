@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0030Chapter111BasicMagicForDummies = {
   position: 30,
   ownLength: 4704,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1147296/chapter-111-basic-magic-for-dummies",
-  externalId: "1147296",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1147296",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1147296/chapter-111-basic-magic-for-dummies",
+    },
+  ],
   publishedAt: "2023-03-24",
   ownProgress: 4704,
   completedAt: "2026-06-29T21:15:44.443Z",

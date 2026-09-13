@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0009Chapter90Spiders = {
   position: 9,
   ownLength: 4290,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1000225/chapter-90-spiders",
-  externalId: "1000225",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1000225",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1000225/chapter-90-spiders",
+    },
+  ],
   publishedAt: "2022-09-23",
   ownProgress: 4290,
   completedAt: "2026-06-29T21:14:57.892Z",

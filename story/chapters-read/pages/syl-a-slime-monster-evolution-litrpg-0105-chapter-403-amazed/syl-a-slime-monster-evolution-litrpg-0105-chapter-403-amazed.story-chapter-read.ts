@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0105Chapter403Amazed = {
   position: 105,
   ownLength: 2164,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3678878/chapter-403-amazed",
-  externalId: "3678878",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3678878",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3678878/chapter-403-amazed",
+    },
+  ],
   publishedAt: "2026-07-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

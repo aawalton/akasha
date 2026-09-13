@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0047Chapter625WeHaveTime = {
   position: 47,
   ownLength: 2103,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2992982/chapter-625-we-have-time",
-  externalId: "2992982",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2992982",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2992982/chapter-625-we-have-time",
+    },
+  ],
   publishedAt: "2026-01-30",
   ownProgress: 2103,
   completedAt: "2026-06-29T19:58:14.364Z",

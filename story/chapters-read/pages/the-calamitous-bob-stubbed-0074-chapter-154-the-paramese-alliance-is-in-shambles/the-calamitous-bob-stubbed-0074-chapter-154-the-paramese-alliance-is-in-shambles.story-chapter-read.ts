@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0074Chapter154TheParameseAllianceIsInShamble
   position: 74,
   ownLength: 5777,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1529432/chapter-154-the-paramese-alliance-is-in-shambles",
-  externalId: "1529432",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1529432",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1529432/chapter-154-the-paramese-alliance-is-in-shambles",
+    },
+  ],
   publishedAt: "2024-02-23",
   ownProgress: 5777,
   completedAt: "2026-06-29T21:17:22.097Z",

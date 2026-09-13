@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0079Chapter78TheHungryShadows =
   position: 79,
   ownLength: 2695,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3411138/chapter-78-the-hungry-shadows",
-  externalId: "3411138",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3411138",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3411138/chapter-78-the-hungry-shadows",
+    },
+  ],
   publishedAt: "2026-05-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

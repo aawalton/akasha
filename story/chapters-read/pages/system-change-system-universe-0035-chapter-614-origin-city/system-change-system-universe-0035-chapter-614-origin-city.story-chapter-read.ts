@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0035Chapter614OriginCity = {
   position: 35,
   ownLength: 2191,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2874837/chapter-614-origin-city",
-  externalId: "2874837",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2874837",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2874837/chapter-614-origin-city",
+    },
+  ],
   publishedAt: "2025-12-24",
   ownProgress: 2191,
   completedAt: "2026-06-29T19:57:51.703Z",

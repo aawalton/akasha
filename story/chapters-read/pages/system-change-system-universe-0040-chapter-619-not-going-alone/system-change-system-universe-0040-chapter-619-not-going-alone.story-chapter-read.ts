@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0040Chapter619NotGoingAlone = {
   position: 40,
   ownLength: 2308,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2924985/chapter-619-not-going-alone",
-  externalId: "2924985",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2924985",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2924985/chapter-619-not-going-alone",
+    },
+  ],
   publishedAt: "2026-01-09",
   ownProgress: 2308,
   completedAt: "2026-06-29T19:58:01.397Z",

@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0102Chapter101TheTickingClock =
   position: 102,
   ownLength: 2293,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3901684/chapter-101-the-ticking-clock",
-  externalId: "3901684",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3901684",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3901684/chapter-101-the-ticking-clock",
+    },
+  ],
   publishedAt: "2026-09-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

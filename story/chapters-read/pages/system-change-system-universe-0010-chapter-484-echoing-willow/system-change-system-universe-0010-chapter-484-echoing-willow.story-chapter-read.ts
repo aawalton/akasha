@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0010Chapter484EchoingWillow = {
   position: 10,
   ownLength: 1993,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1938491/chapter-484-echoing-willow",
-  externalId: "1938491",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1938491",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1938491/chapter-484-echoing-willow",
+    },
+  ],
   publishedAt: "2024-12-04",
   ownProgress: 1993,
   completedAt: "2026-06-29T19:57:03.744Z",

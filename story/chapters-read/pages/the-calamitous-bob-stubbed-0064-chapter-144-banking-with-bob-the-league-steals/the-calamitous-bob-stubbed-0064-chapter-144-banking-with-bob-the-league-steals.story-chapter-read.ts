@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0064Chapter144BankingWithBobTheLeagueSteals 
   position: 64,
   ownLength: 4517,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1428544/chapter-144-banking-with-bob-the-league-steals",
-  externalId: "1428544",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1428544",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1428544/chapter-144-banking-with-bob-the-league-steals",
+    },
+  ],
   publishedAt: "2023-12-01",
   ownProgress: 4517,
   completedAt: "2026-06-29T21:16:59.536Z",

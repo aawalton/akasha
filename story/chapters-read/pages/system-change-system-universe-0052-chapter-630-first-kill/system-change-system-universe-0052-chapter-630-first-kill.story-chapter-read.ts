@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0052Chapter630FirstKill = {
   position: 52,
   ownLength: 2089,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3066303/chapter-630-first-kill",
-  externalId: "3066303",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3066303",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3066303/chapter-630-first-kill",
+    },
+  ],
   publishedAt: "2026-02-18",
   ownProgress: 2089,
   completedAt: "2026-06-29T19:58:23.820Z",

@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0080Chapter79ThePastaProposal =
   position: 80,
   ownLength: 2629,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3430224/chapter-79-the-pasta-proposal",
-  externalId: "3430224",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3430224",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3430224/chapter-79-the-pasta-proposal",
+    },
+  ],
   publishedAt: "2026-05-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

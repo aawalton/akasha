@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0055Chapter633FavoritePastime = {
   position: 55,
   ownLength: 2148,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3113921/chapter-633-favorite-pastime",
-  externalId: "3113921",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3113921",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3113921/chapter-633-favorite-pastime",
+    },
+  ],
   publishedAt: "2026-03-04",
   ownProgress: 375,
   prose: "txt",

@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0079ChapterATaleOfNiceTailsFeaturingACertain
   position: 79,
   ownLength: 8723,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1575605/chapter-a-tale-of-nice-tails-featuring-a-certain",
-  externalId: "1575605",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1575605",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1575605/chapter-a-tale-of-nice-tails-featuring-a-certain",
+    },
+  ],
   publishedAt: "2024-04-01",
   ownProgress: 8723,
   completedAt: "2026-06-29T21:17:32.777Z",

@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0040Chapter120FallCleaning = {
   position: 40,
   ownLength: 5231,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1232890/chapter-120-fall-cleaning",
-  externalId: "1232890",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1232890",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1232890/chapter-120-fall-cleaning",
+    },
+  ],
   publishedAt: "2023-06-02",
   ownProgress: 5231,
   completedAt: "2026-06-29T21:16:06.552Z",

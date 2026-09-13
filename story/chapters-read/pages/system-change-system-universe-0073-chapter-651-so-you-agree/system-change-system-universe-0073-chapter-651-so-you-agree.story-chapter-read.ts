@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0073Chapter651SoYouAgree = {
   position: 73,
   ownLength: 2213,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3429551/chapter-651-so-you-agree",
-  externalId: "3429551",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3429551",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3429551/chapter-651-so-you-agree",
+    },
+  ],
   publishedAt: "2026-05-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

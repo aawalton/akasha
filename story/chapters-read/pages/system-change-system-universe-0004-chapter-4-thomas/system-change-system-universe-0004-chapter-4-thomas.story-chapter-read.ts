@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0004Chapter4Thomas = {
   position: 4,
   ownLength: 2029,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/548773/chapter-4-thomas",
-  externalId: "548773",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "548773",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/548773/chapter-4-thomas",
+    },
+  ],
   publishedAt: "2020-09-03",
   ownProgress: 2029,
   completedAt: "2026-06-29T19:56:52.558Z",

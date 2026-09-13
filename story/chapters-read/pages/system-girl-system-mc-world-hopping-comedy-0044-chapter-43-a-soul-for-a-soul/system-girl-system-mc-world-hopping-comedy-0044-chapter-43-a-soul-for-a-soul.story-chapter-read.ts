@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0044Chapter43ASoulForASoul = {
   position: 44,
   ownLength: 1936,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2833584/chapter-43-a-soul-for-a-soul",
-  externalId: "2833584",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2833584",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2833584/chapter-43-a-soul-for-a-soul",
+    },
+  ],
   publishedAt: "2025-12-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

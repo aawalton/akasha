@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0070Chapter648NoIngredients = {
   position: 70,
   ownLength: 2063,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3388411/chapter-648-no-ingredients",
-  externalId: "3388411",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3388411",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3388411/chapter-648-no-ingredients",
+    },
+  ],
   publishedAt: "2026-05-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

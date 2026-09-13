@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0089Chapter667Backing = {
   position: 89,
   ownLength: 2195,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3686733/chapter-667-backing",
-  externalId: "3686733",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3686733",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3686733/chapter-667-backing",
+    },
+  ],
   publishedAt: "2026-07-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

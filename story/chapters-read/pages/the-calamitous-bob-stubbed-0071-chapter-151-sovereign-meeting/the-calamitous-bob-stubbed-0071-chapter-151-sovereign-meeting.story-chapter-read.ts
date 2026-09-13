@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0071Chapter151SovereignMeeting = {
   position: 71,
   ownLength: 6547,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1504061/chapter-151-sovereign-meeting",
-  externalId: "1504061",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1504061",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1504061/chapter-151-sovereign-meeting",
+    },
+  ],
   publishedAt: "2024-02-02",
   ownProgress: 6547,
   completedAt: "2026-06-29T21:17:15.491Z",

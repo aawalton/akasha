@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0081Chapter379ChasingShadows = {
   position: 81,
   ownLength: 2478,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3339680/chapter-379-chasing-shadows",
-  externalId: "3339680",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3339680",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3339680/chapter-379-chasing-shadows",
+    },
+  ],
   publishedAt: "2026-05-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

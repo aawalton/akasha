@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0005SystemChangeSystemUniverseBook1Announ
   position: 5,
   ownLength: 475,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1041040/system-change-system-universe-book-1-announcement",
-  externalId: "1041040",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1041040",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1041040/system-change-system-universe-book-1-announcement",
+    },
+  ],
   publishedAt: "2022-11-15",
   ownProgress: 475,
   completedAt: "2026-06-29T19:56:54.343Z",

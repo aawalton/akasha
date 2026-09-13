@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0101Chapter179HermitKingdom = {
   position: 101,
   ownLength: 5730,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1845739/chapter-179-hermit-kingdom",
-  externalId: "1845739",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1845739",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1845739/chapter-179-hermit-kingdom",
+    },
+  ],
   publishedAt: "2024-10-11",
   ownProgress: 5730,
   completedAt: "2026-06-29T21:18:14.569Z",

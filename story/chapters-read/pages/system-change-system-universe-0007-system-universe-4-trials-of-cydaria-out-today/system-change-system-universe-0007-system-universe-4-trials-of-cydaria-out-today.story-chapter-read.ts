@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0007SystemUniverse4TrialsOfCydariaOutToda
   position: 7,
   ownLength: 515,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1311258/system-universe-4-trials-of-cydaria-out-today",
-  externalId: "1311258",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1311258",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1311258/system-universe-4-trials-of-cydaria-out-today",
+    },
+  ],
   publishedAt: "2023-08-15",
   ownProgress: 515,
   completedAt: "2026-06-29T19:56:57.995Z",

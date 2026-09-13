@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0104Chapter182SandCastle = {
   position: 104,
   ownLength: 6331,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1879460/chapter-182-sand-castle",
-  externalId: "1879460",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1879460",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1879460/chapter-182-sand-castle",
+    },
+  ],
   publishedAt: "2024-11-01",
   ownProgress: 6331,
   completedAt: "2026-06-29T21:18:20.973Z",

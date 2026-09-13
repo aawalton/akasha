@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0095Chapter393GolemsGalore = {
   position: 95,
   ownLength: 2276,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3559799/chapter-393-golems-galore",
-  externalId: "3559799",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3559799",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3559799/chapter-393-golems-galore",
+    },
+  ],
   publishedAt: "2026-06-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

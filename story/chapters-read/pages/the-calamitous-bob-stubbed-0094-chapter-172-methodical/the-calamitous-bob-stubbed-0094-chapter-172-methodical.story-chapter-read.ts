@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0094Chapter172Methodical = {
   position: 94,
   ownLength: 5765,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1761321/chapter-172-methodical",
-  externalId: "1761321",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1761321",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1761321/chapter-172-methodical",
+    },
+  ],
   publishedAt: "2024-08-16",
   ownProgress: 5765,
   completedAt: "2026-06-29T21:18:01.095Z",

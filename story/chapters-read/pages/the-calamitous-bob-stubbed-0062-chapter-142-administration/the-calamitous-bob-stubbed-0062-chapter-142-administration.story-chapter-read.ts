@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0062Chapter142Administration = {
   position: 62,
   ownLength: 6175,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1412693/chapter-142-administration",
-  externalId: "1412693",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1412693",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1412693/chapter-142-administration",
+    },
+  ],
   publishedAt: "2023-11-17",
   ownProgress: 6175,
   completedAt: "2026-06-29T21:16:55.187Z",

@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0059Chapter58TheUnmasking = {
   position: 59,
   ownLength: 2566,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3057156/chapter-58-the-unmasking",
-  externalId: "3057156",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3057156",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3057156/chapter-58-the-unmasking",
+    },
+  ],
   publishedAt: "2026-02-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

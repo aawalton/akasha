@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0024Chapter603WeaponUpgrade = {
   position: 24,
   ownLength: 2104,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2758952/chapter-603-weapon-upgrade",
-  externalId: "2758952",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2758952",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2758952/chapter-603-weapon-upgrade",
+    },
+  ],
   publishedAt: "2025-11-14",
   ownProgress: 2104,
   completedAt: "2026-06-29T19:57:31.003Z",

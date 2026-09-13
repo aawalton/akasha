@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0050Chapter628Wasteland = {
   position: 50,
   ownLength: 2185,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3034735/chapter-628-wasteland",
-  externalId: "3034735",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3034735",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3034735/chapter-628-wasteland",
+    },
+  ],
   publishedAt: "2026-02-11",
   ownProgress: 2185,
   completedAt: "2026-06-29T19:58:19.956Z",

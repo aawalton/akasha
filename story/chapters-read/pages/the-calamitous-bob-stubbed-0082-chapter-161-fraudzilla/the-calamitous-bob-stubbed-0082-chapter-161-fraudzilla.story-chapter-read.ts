@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0082Chapter161Fraudzilla = {
   position: 82,
   ownLength: 5487,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1602548/chapter-161-fraudzilla",
-  externalId: "1602548",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1602548",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1602548/chapter-161-fraudzilla",
+    },
+  ],
   publishedAt: "2024-04-19",
   ownProgress: 5487,
   completedAt: "2026-06-29T21:17:38.474Z",

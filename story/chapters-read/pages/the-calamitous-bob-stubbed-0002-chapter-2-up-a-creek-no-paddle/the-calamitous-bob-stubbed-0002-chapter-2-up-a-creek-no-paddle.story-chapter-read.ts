@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0002Chapter2UpACreekNoPaddle = {
   position: 2,
   ownLength: 4958,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/700784/chapter-2-up-a-creek-no-paddle",
-  externalId: "700784",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "700784",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/700784/chapter-2-up-a-creek-no-paddle",
+    },
+  ],
   publishedAt: "2021-06-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

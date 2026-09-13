@@ -8,11 +8,15 @@ export const systemChangeSystemUniverse0104Chapter682Friend = {
   position: 104,
   publishedAt: "2026-09-03",
   unit: "words",
-  externalId: "3906913",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3906913",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3906913/chapter-682-friend",
+    },
+  ],
   title: "Chapter 682: Friend",
   ownLength: 2493,
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3906913/chapter-682-friend",
   prose: "txt",
 } as const satisfies StoryChapterRead

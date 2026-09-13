@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0020Chapter600PostInvasion = {
   position: 20,
   ownLength: 2079,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2739029/chapter-600-post-invasion",
-  externalId: "2739029",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2739029",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2739029/chapter-600-post-invasion",
+    },
+  ],
   publishedAt: "2025-11-07",
   ownProgress: 2079,
   completedAt: "2026-06-29T19:57:23.311Z",

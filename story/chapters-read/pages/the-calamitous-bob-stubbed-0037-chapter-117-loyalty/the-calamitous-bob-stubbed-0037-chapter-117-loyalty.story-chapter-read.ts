@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0037Chapter117Loyalty = {
   position: 37,
   ownLength: 5782,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1210610/chapter-117-loyalty",
-  externalId: "1210610",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1210610",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1210610/chapter-117-loyalty",
+    },
+  ],
   publishedAt: "2023-05-12",
   ownProgress: 5782,
   completedAt: "2026-06-29T21:16:00.092Z",

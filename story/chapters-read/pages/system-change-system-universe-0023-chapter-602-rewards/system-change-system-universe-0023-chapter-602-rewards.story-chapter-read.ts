@@ -9,10 +9,14 @@ export const systemChangeSystemUniverse0023Chapter602Rewards = {
   position: 23,
   ownLength: 2066,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2756067/chapter-602-rewards",
-  externalId: "2756067",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2756067",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2756067/chapter-602-rewards",
+    },
+  ],
   publishedAt: "2025-11-12",
   ownProgress: 2066,
   completedAt: "2026-06-29T19:57:29.082Z",

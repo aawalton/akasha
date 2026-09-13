@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0100Chapter178WeightOfThePast = {
   position: 100,
   ownLength: 6713,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1834241/chapter-178-weight-of-the-past",
-  externalId: "1834241",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1834241",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1834241/chapter-178-weight-of-the-past",
+    },
+  ],
   publishedAt: "2024-10-04",
   ownProgress: 6713,
   completedAt: "2026-06-29T21:18:12.601Z",

@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0051Chapter50TheForbiddenParcel
   position: 51,
   ownLength: 2477,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2926465/chapter-50-the-forbidden-parcel",
-  externalId: "2926465",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2926465",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2926465/chapter-50-the-forbidden-parcel",
+    },
+  ],
   publishedAt: "2026-01-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0059Chapter358Riftmancer = {
   position: 59,
   ownLength: 2445,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3131927/chapter-358-riftmancer",
-  externalId: "3131927",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3131927",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3131927/chapter-358-riftmancer",
+    },
+  ],
   publishedAt: "2026-03-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

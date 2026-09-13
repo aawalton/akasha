@@ -9,10 +9,14 @@ export const theCalamitousBobStubbed0012Chapter93WhatGoesAround = {
   position: 12,
   ownLength: 6713,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1021236/chapter-93-what-goes-around",
-  externalId: "1021236",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1021236",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1021236/chapter-93-what-goes-around",
+    },
+  ],
   publishedAt: "2022-10-21",
   ownProgress: 6713,
   completedAt: "2026-06-29T21:15:04.622Z",

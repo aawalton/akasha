@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0049Chapter48TheNewTown = {
   position: 49,
   ownLength: 1699,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2887924/chapter-48-the-new-town",
-  externalId: "2887924",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2887924",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2887924/chapter-48-the-new-town",
+    },
+  ],
   publishedAt: "2025-12-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

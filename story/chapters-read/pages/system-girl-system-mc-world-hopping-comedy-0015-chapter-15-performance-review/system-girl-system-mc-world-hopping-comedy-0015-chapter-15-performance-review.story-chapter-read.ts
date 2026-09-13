@@ -9,10 +9,14 @@ export const systemGirlSystemMcWorldHoppingComedy0015Chapter15PerformanceReview 
   position: 15,
   ownLength: 2980,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2605544/chapter-15-performance-review",
-  externalId: "2605544",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2605544",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2605544/chapter-15-performance-review",
+    },
+  ],
   publishedAt: "2025-09-16",
   prose: "txt",
 } as const satisfies StoryChapterRead
