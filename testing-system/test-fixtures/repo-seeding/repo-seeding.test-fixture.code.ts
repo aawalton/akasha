@@ -22,7 +22,10 @@ import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { warrantsSeeded } from "akasha/domains/context/modules/warranting/warranting.module.test-fixtures.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
-import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import {
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import {
   identitiesTakenFrom,
   noImportersFiled,
@@ -54,6 +57,10 @@ export const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
 const SEAT_AT = "akasha/agents/seats/pages/tester.seat.ts"
 
+const SEAT = "seat"
+
+const TESTER = "tester"
+
 const CHECK = "code-check"
 
 const ADMITS = "admits"
@@ -80,10 +87,7 @@ function builtAt(root: string, named: Readonly<Record<string, string>>): string 
   git(root, ["init", "--quiet"])
   git(root, ["config", "user.email", "held@nowhere"])
   git(root, ["config", "user.name", "Held"])
-  for (const [path, body] of Object.entries(named)) {
-    put(root, path, body)
-    recordRead(root, AGENT, { path, oid: blobIdOf(bytes(body)), seenAt: 1, carriedOid: null })
-  }
+  for (const [path, body] of Object.entries(named)) put(root, path, body)
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
   put(root, APPLY_AT, "export const changeApply = {}\n")
@@ -91,8 +95,15 @@ function builtAt(root: string, named: Readonly<Record<string, string>>): string 
   checking(root, ADMITS, ADMITS_CODE)
   warrantsSeeded(root)
   pageFiled(root, AGENT, SEAT_AT)
+  listedFiled(root, SEAT, TESTER, [{ path: SEAT_AT, id: AGENT }])
+  valueAlsoFiled(root, SEAT, [
+    { path: SEAT_AT, value: { id: AGENT, pageTypeSlug: SEAT, slug: TESTER } },
+  ])
   listedFiled(root, COMMAND, CHANGE_APPLY_SLUG, [{ path: APPLY_AT, id: APPLY_ID }])
   noImportersFiled(root)
+  for (const [path, body] of Object.entries(named)) {
+    recordRead(root, AGENT, { path, oid: blobIdOf(bytes(body)), seenAt: 1, carriedOid: null })
+  }
   return root
 }
 
