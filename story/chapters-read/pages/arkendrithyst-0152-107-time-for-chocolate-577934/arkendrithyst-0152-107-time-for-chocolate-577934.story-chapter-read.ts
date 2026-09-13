@@ -8,11 +8,15 @@ export const arkendrithyst0152107TimeForChocolate577934 = {
   position: 152,
   publishedAt: "2020-11-02",
   unit: "words",
-  externalId: "577934",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "577934",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/577934/107-time-for-chocolate",
+    },
+  ],
   title: "107 - Time for Chocolate!",
   ownLength: 16218,
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/577934/107-time-for-chocolate",
   prose: "txt",
 } as const satisfies StoryChapterRead

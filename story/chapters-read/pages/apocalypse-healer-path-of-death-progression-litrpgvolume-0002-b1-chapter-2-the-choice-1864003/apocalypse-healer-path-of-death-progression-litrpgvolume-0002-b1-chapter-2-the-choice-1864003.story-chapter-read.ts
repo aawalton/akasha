@@ -8,11 +8,15 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0002B1Chapter2The
   position: 2,
   publishedAt: "2024-10-23",
   unit: "words",
-  externalId: "1864003",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1864003",
+      externalLink:
+        "https://www.royalroad.com/fiction/96526/apocalypse-healer-progression-litrpg-complete/chapter/1864003/b1-chapter-2-the-choice",
+    },
+  ],
   title: "B1 Chapter 2 - The Choice",
   ownLength: 1999,
-  externalLink:
-    "https://www.royalroad.com/fiction/96526/apocalypse-healer-progression-litrpg-complete/chapter/1864003/b1-chapter-2-the-choice",
   prose: "txt",
 } as const satisfies StoryChapterRead

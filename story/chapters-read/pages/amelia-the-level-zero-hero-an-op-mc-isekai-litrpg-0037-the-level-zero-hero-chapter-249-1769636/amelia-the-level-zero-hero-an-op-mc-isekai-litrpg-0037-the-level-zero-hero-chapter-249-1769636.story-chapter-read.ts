@@ -8,11 +8,15 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0037TheLevelZeroHeroChapter
   position: 37,
   publishedAt: "2024-08-22",
   unit: "words",
-  externalId: "1769636",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1769636",
+      externalLink:
+        "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1769636/the-level-zero-hero-chapter-249",
+    },
+  ],
   title: "The Level Zero Hero Chapter 249",
   ownLength: 2710,
-  externalLink:
-    "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1769636/the-level-zero-hero-chapter-249",
   prose: "txt",
 } as const satisfies StoryChapterRead

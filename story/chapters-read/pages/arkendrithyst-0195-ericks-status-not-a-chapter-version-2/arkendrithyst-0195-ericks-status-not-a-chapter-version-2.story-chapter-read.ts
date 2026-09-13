@@ -8,11 +8,15 @@ export const arkendrithyst0195EricksStatusNotAChapterVersion2 = {
   position: 195,
   publishedAt: "2021-04-10",
   unit: "words",
-  externalId: "662195",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "662195",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/662195/ericks-status-not-a-chapter-version-2",
+    },
+  ],
   title: "Erick's Status (not a chapter) version 2!",
   ownLength: 6850,
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/662195/ericks-status-not-a-chapter-version-2",
   prose: "txt",
 } as const satisfies StoryChapterRead

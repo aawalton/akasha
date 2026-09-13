@@ -8,11 +8,15 @@ export const alexaThymeFormerlyAlexithymia0007Chapter124TheArrivalFourHoursEarli
   position: 7,
   publishedAt: "2023-03-23",
   unit: "words",
-  externalId: "1146570",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1146570",
+      externalLink:
+        "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1146570/chapter-124-the-arrival-four-hours-earlier",
+    },
+  ],
   title: "Chapter 124  The Arrival (Four Hours Earlier)",
   ownLength: 3037,
-  externalLink:
-    "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1146570/chapter-124-the-arrival-four-hours-earlier",
   prose: "txt",
 } as const satisfies StoryChapterRead

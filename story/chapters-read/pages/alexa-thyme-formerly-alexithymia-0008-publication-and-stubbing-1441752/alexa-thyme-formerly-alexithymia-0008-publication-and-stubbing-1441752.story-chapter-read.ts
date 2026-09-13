@@ -8,11 +8,15 @@ export const alexaThymeFormerlyAlexithymia0008PublicationAndStubbing1441752 = {
   position: 8,
   publishedAt: "2023-12-13",
   unit: "words",
-  externalId: "1441752",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1441752",
+      externalLink:
+        "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1441752/publication-and-stubbing",
+    },
+  ],
   title: "Publication and Stubbing",
   ownLength: 124,
-  externalLink:
-    "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1441752/publication-and-stubbing",
   prose: "txt",
 } as const satisfies StoryChapterRead

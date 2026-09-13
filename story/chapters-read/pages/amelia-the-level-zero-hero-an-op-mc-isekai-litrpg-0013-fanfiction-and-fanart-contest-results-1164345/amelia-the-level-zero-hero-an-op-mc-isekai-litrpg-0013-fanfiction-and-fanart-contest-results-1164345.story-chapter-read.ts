@@ -9,11 +9,15 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0013FanfictionAndFanartCont
     position: 13,
     publishedAt: "2023-04-10",
     unit: "words",
-    externalId: "1164345",
-    source: "royal-road",
+    externalIdentity: [
+      {
+        source: "royal-road",
+        externalId: "1164345",
+        externalLink:
+          "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1164345/fanfiction-and-fanart-contest-results",
+      },
+    ],
     title: "Fanfiction and Fanart Contest RESULTS",
     ownLength: 731,
-    externalLink:
-      "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1164345/fanfiction-and-fanart-contest-results",
     prose: "txt",
   } as const satisfies StoryChapterRead

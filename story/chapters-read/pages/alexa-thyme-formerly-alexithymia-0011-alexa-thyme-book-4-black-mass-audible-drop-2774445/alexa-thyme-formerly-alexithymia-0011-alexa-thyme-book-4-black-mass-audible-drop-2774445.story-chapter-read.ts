@@ -8,11 +8,15 @@ export const alexaThymeFormerlyAlexithymia0011AlexaThymeBook4BlackMassAudibleDro
   position: 11,
   publishedAt: "2025-11-19",
   unit: "words",
-  externalId: "2774445",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2774445",
+      externalLink:
+        "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/2774445/alexa-thyme-book-4-black-mass-audible-drop",
+    },
+  ],
   title: "Alexa Thyme Book 4  Black Mass Audible Drop",
   ownLength: 91,
-  externalLink:
-    "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/2774445/alexa-thyme-book-4-black-mass-audible-drop",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -8,11 +8,15 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0004B2Chapter1Ego
   position: 4,
   publishedAt: "2025-02-01",
   unit: "words",
-  externalId: "2041779",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2041779",
+      externalLink:
+        "https://www.royalroad.com/fiction/96526/apocalypse-healer-progression-litrpg-complete/chapter/2041779/b2-chapter-1-egoist",
+    },
+  ],
   title: "B2 Chapter 1 - Egoist",
   ownLength: 2003,
-  externalLink:
-    "https://www.royalroad.com/fiction/96526/apocalypse-healer-progression-litrpg-complete/chapter/2041779/b2-chapter-1-egoist",
   prose: "txt",
 } as const satisfies StoryChapterRead

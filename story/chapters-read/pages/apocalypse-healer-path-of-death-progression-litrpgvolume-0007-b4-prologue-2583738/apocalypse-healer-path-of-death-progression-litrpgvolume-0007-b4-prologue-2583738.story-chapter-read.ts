@@ -8,11 +8,15 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0007B4Prologue258
   position: 7,
   publishedAt: "2025-09-08",
   unit: "words",
-  externalId: "2583738",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2583738",
+      externalLink:
+        "https://www.royalroad.com/fiction/96526/apocalypse-healer-progression-litrpg-complete/chapter/2583738/b4-prologue",
+    },
+  ],
   title: "B4 Prologue",
   ownLength: 572,
-  externalLink:
-    "https://www.royalroad.com/fiction/96526/apocalypse-healer-progression-litrpg-complete/chapter/2583738/b4-prologue",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -8,11 +8,15 @@ export const arkendrithyst010008112StartOfBook4 = {
   position: 100,
   publishedAt: "2020-05-04",
   unit: "words",
-  externalId: "491499",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "491499",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/491499/081-12-start-of-book-4",
+    },
+  ],
   title: "081, 1/2 — Start of Book 4",
   ownLength: 9912,
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/491499/081-12-start-of-book-4",
   prose: "txt",
 } as const satisfies StoryChapterRead

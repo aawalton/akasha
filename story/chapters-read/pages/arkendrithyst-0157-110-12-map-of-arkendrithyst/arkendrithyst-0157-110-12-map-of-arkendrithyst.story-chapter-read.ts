@@ -8,11 +8,15 @@ export const arkendrithyst015711012MapOfArkendrithyst = {
   position: 157,
   publishedAt: "2020-11-23",
   unit: "words",
-  externalId: "589202",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "589202",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/589202/110-12-map-of-arkendrithyst",
+    },
+  ],
   title: "110, 1/2 + map of Ar'Kendrithyst",
   ownLength: 8046,
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/589202/110-12-map-of-arkendrithyst",
   prose: "txt",
 } as const satisfies StoryChapterRead

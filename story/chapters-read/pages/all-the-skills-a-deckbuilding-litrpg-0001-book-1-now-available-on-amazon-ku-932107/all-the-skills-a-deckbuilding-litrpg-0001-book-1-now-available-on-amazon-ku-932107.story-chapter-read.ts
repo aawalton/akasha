@@ -8,11 +8,15 @@ export const allTheSkillsADeckbuildingLitrpg0001Book1NowAvailableOnAmazonKu93210
   position: 1,
   publishedAt: "2022-06-21",
   unit: "words",
-  externalId: "932107",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "932107",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/932107/book-1-now-available-on-amazon-ku",
+    },
+  ],
   title: "Book 1 - Now Available on Amazon KU",
   ownLength: 70,
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/932107/book-1-now-available-on-amazon-ku",
   prose: "txt",
 } as const satisfies StoryChapterRead

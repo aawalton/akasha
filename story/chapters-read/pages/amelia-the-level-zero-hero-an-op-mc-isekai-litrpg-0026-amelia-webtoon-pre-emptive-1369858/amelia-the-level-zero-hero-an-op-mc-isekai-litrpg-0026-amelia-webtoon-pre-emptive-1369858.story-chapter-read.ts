@@ -8,11 +8,15 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0026AmeliaWebtoonPreEmptive
   position: 26,
   publishedAt: "2023-10-10",
   unit: "words",
-  externalId: "1369858",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1369858",
+      externalLink:
+        "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1369858/amelia-webtoon-pre-emptive-announcement-patreon",
+    },
+  ],
   title: "AMELIA WEBTOON (pre-emptive) ANNOUNCEMENT + Patreon tier updates",
   ownLength: 489,
-  externalLink:
-    "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1369858/amelia-webtoon-pre-emptive-announcement-patreon",
   prose: "txt",
 } as const satisfies StoryChapterRead

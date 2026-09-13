@@ -8,11 +8,15 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0001B1Chapter1Pan
   position: 1,
   publishedAt: "2024-10-23",
   unit: "words",
-  externalId: "1863998",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1863998",
+      externalLink:
+        "https://www.royalroad.com/fiction/96526/apocalypse-healer-progression-litrpg-complete/chapter/1863998/b1-chapter-1-pantheon",
+    },
+  ],
   title: "B1 Chapter 1 - Pantheon",
   ownLength: 2301,
-  externalLink:
-    "https://www.royalroad.com/fiction/96526/apocalypse-healer-progression-litrpg-complete/chapter/1863998/b1-chapter-1-pantheon",
   prose: "txt",
 } as const satisfies StoryChapterRead

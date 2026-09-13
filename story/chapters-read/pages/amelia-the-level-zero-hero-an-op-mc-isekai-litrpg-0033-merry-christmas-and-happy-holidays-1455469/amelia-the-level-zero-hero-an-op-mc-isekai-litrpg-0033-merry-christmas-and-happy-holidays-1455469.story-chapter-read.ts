@@ -8,11 +8,15 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0033MerryChristmasAndHappyH
   position: 33,
   publishedAt: "2023-12-26",
   unit: "words",
-  externalId: "1455469",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1455469",
+      externalLink:
+        "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1455469/merry-christmas-and-happy-holidays-small-update",
+    },
+  ],
   title: "Merry Christmas and Happy Holidays! + Small Update",
   ownLength: 284,
-  externalLink:
-    "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1455469/merry-christmas-and-happy-holidays-small-update",
   prose: "txt",
 } as const satisfies StoryChapterRead

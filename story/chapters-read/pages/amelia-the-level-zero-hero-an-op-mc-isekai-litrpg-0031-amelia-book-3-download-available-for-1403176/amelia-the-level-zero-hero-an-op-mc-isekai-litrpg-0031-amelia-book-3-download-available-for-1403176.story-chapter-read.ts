@@ -8,11 +8,15 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0031AmeliaBook3DownloadAvai
   position: 31,
   publishedAt: "2023-11-09",
   unit: "words",
-  externalId: "1403176",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1403176",
+      externalLink:
+        "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1403176/amelia-book-3-download-available-for-5-days",
+    },
+  ],
   title: "Amelia Book 3 Download (Available for 5 days)",
   ownLength: 73,
-  externalLink:
-    "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1403176/amelia-book-3-download-available-for-5-days",
   prose: "txt",
 } as const satisfies StoryChapterRead

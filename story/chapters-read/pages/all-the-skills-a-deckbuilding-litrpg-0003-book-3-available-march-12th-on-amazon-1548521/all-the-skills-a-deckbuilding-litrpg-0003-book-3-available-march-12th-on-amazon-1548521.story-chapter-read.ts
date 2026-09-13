@@ -8,11 +8,15 @@ export const allTheSkillsADeckbuildingLitrpg0003Book3AvailableMarch12thOnAmazon1
   position: 3,
   publishedAt: "2024-03-10",
   unit: "words",
-  externalId: "1548521",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1548521",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/1548521/book-3-available-march-12th-on-amazon",
+    },
+  ],
   title: "Book 3: Available March 12th on Amazon!",
   ownLength: 66,
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/1548521/book-3-available-march-12th-on-amazon",
   prose: "txt",
 } as const satisfies StoryChapterRead

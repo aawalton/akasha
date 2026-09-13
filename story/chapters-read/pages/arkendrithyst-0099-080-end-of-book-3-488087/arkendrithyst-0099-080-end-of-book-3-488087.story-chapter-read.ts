@@ -8,11 +8,15 @@ export const arkendrithyst0099080EndOfBook3488087 = {
   position: 99,
   publishedAt: "2020-04-26",
   unit: "words",
-  externalId: "488087",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "488087",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/488087/080-end-of-book-3",
+    },
+  ],
   title: "080 - End of Book 3",
   ownLength: 13038,
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/488087/080-end-of-book-3",
   prose: "txt",
 } as const satisfies StoryChapterRead

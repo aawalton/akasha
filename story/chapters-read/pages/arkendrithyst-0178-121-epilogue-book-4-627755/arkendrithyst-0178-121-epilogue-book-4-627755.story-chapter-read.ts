@@ -8,11 +8,15 @@ export const arkendrithyst0178121EpilogueBook4627755 = {
   position: 178,
   publishedAt: "2021-02-08",
   unit: "words",
-  externalId: "627755",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "627755",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/627755/121-epilogue-book-4",
+    },
+  ],
   title: "121 - Epilogue, Book 4",
   ownLength: 7937,
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/627755/121-epilogue-book-4",
   prose: "txt",
 } as const satisfies StoryChapterRead

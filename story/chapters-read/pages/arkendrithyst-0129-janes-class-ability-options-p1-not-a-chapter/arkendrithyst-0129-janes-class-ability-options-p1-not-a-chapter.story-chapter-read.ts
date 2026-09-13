@@ -8,11 +8,15 @@ export const arkendrithyst0129JanesClassAbilityOptionsP1NotAChapter = {
   position: 129,
   publishedAt: "2020-08-13",
   unit: "words",
-  externalId: "538304",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "538304",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/538304/janes-class-ability-options-p1-not-a-chapter",
+    },
+  ],
   title: "Jane's Class Ability Options p1 (not a chapter)",
   ownLength: 1140,
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/538304/janes-class-ability-options-p1-not-a-chapter",
   prose: "txt",
 } as const satisfies StoryChapterRead

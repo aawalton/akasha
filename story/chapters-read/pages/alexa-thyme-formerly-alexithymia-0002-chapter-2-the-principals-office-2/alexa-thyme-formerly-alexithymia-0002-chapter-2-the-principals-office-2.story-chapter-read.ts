@@ -8,11 +8,15 @@ export const alexaThymeFormerlyAlexithymia0002Chapter2ThePrincipalsOffice2 = {
   position: 2,
   publishedAt: "2022-11-03",
   unit: "words",
-  externalId: "1030489",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1030489",
+      externalLink:
+        "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1030489/chapter-2-the-principals-office-2",
+    },
+  ],
   title: "Chapter 2  The Principal’s Office (2)",
   ownLength: 2837,
-  externalLink:
-    "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1030489/chapter-2-the-principals-office-2",
   prose: "txt",
 } as const satisfies StoryChapterRead

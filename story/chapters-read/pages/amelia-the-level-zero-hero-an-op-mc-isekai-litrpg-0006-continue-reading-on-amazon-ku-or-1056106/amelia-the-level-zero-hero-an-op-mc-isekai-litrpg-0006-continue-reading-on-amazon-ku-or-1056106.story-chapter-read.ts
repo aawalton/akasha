@@ -8,11 +8,15 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0006ContinueReadingOnAmazon
   position: 6,
   publishedAt: "2022-12-05",
   unit: "words",
-  externalId: "1056106",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1056106",
+      externalLink:
+        "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1056106/continue-reading-on-amazon-ku-or-audible",
+    },
+  ],
   title: "Continue reading on Amazon KU or Audible!",
   ownLength: 84,
-  externalLink:
-    "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1056106/continue-reading-on-amazon-ku-or-audible",
   prose: "txt",
 } as const satisfies StoryChapterRead

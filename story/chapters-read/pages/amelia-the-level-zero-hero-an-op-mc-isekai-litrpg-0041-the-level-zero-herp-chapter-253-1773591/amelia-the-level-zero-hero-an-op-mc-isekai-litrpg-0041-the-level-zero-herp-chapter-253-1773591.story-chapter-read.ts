@@ -8,11 +8,15 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0041TheLevelZeroHerpChapter
   position: 41,
   publishedAt: "2024-08-25",
   unit: "words",
-  externalId: "1773591",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1773591",
+      externalLink:
+        "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1773591/the-level-zero-herp-chapter-253",
+    },
+  ],
   title: "The Level Zero Herp Chapter 253",
   ownLength: 1954,
-  externalLink:
-    "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1773591/the-level-zero-herp-chapter-253",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -8,11 +8,15 @@ export const arkendrithyst0038038EndOfBook1407565 = {
   position: 38,
   publishedAt: "2019-09-27",
   unit: "words",
-  externalId: "407565",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "407565",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/407565/038-end-of-book-1",
+    },
+  ],
   title: "038 - End of Book 1",
   ownLength: 3693,
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/407565/038-end-of-book-1",
   prose: "txt",
 } as const satisfies StoryChapterRead

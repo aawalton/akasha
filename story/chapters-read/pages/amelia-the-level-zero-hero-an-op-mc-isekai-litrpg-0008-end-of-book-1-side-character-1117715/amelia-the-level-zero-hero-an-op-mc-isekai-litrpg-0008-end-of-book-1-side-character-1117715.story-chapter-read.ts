@@ -8,11 +8,15 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0008EndOfBook1SideCharacter
   position: 8,
   publishedAt: "2023-02-19",
   unit: "words",
-  externalId: "1117715",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1117715",
+      externalLink:
+        "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1117715/end-of-book-1-side-character-popularity-poll",
+    },
+  ],
   title: "End of Book 1 Side Character Popularity Poll!",
   ownLength: 159,
-  externalLink:
-    "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1117715/end-of-book-1-side-character-popularity-poll",
   prose: "txt",
 } as const satisfies StoryChapterRead

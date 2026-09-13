@@ -8,11 +8,15 @@ export const alexaThymeFormerlyAlexithymia0005PrologueIii1083358 = {
   position: 5,
   publishedAt: "2023-01-09",
   unit: "words",
-  externalId: "1083358",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1083358",
+      externalLink:
+        "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1083358/prologue-iii",
+    },
+  ],
   title: "Prologue III",
   ownLength: 1588,
-  externalLink:
-    "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1083358/prologue-iii",
   prose: "txt",
 } as const satisfies StoryChapterRead
