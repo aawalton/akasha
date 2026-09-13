@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
-import type { SubagentPage } from "akasha/agents/subagents/modules/census/subagent-census.module.code.ts"
 import {
   NONE_PAGELESS,
   pagelessAmong,
   pagelessSaid,
 } from "akasha/agents/subagents/modules/pageless/subagent-pageless.module.code.ts"
+import type { SubagentPage } from "akasha/agents/subagents/modules/subagent-census/subagent-census.module.code.ts"
 
 const OWN = "a38f63805f9b94edf"
 

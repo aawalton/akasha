@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { pagesIn } from "akasha/agents/subagents/modules/census/subagent-census.module.code.ts"
 import { refusalsSaid } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
+import { pagesIn } from "akasha/agents/subagents/modules/subagent-census/subagent-census.module.code.ts"
 import {
   agentSubagentSweep,
   runningOwnIn,

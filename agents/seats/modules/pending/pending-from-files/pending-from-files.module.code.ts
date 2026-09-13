@@ -7,7 +7,7 @@ import type { TurnPendingComponent } from "akasha/agents/seats/modules/turn-pend
 import {
   pagesIn,
   type SubagentPage,
-} from "akasha/agents/subagents/modules/census/subagent-census.module.code.ts"
+} from "akasha/agents/subagents/modules/subagent-census/subagent-census.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   anyLiveShell,
