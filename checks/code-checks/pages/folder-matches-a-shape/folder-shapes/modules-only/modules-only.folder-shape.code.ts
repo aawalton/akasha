@@ -1,41 +1,10 @@
-import { dirname } from "node:path"
 import type { Standing } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts"
-import { saidInside } from "akasha/checks/modules/shape-saying/shape-saying.module.code.ts"
+import { ofOneTypeOnly } from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/one-type-only/one-type-only.module.code.ts"
 
 export const HOLDS = ["modules", ".server"]
 
-const MODULE = "module"
+const WANTED = { pageTypeSlug: "module", one: "module", many: "modules" }
 
 export function modulesOnly(standing: Standing): readonly string[] {
-  const said: string[] = []
-  if (standing.files.length > 0) {
-    said.push(
-      `${standing.files.length} files sit in it, and a module has a folder to itself: ${saidInside(standing.folder, standing.files)}`
-    )
-  }
-  const above = dirname(standing.folder)
-  const holding = standing.holds(above)
-  const declared = standing.declared(above)
-  const other: string[] = []
-  const loose: string[] = []
-  for (const at of standing.subfolders) {
-    const held = standing.holds(at)
-    if (!held.some((one) => standing.extending(one.split("/")[0] ?? "", MODULE))) {
-      other.push(at)
-      continue
-    }
-    if (holding.length > 0 && !held.some((one) => declared.has(one))) loose.push(at)
-  }
-  if (other.length > 0) {
-    said.push(
-      `${other.length} subfolders are the folder of no module: ${saidInside(standing.folder, other)}`
-    )
-  }
-  if (loose.length > 0) {
-    const slug = holding[0]?.split("/")[1] ?? ""
-    said.push(
-      `${loose.length} modules are no part \`${slug}\` declares: ${saidInside(standing.folder, loose)}`
-    )
-  }
-  return said
+  return ofOneTypeOnly(standing, WANTED)
 }
