@@ -16,7 +16,6 @@ import { scratch } from "akasha/commands/modules/landing/landing.module.test-fix
 import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
 import {
   alanTracking,
-  NO_GLASS,
   strayIn,
   trackedBy,
 } from "akasha/commands/pages/alan/tracking/alan-tracking.command.code.ts"
@@ -84,9 +83,9 @@ test("a value belonging to another flag is not read as a path", () => {
   expect(strayIn(ROOT, ["--message", "--file-path", "--file-path", AT])).toEqual([])
 })
 
-test("the glass is no flag this takes", async () => {
-  const said = await alanTracking(["--file-path", AT, "--break-the-glass", "because"], givenIn())
-  expect(said.refusals).toEqual([NO_GLASS])
+test("the glass is answered as a flag this takes no spelling of", async () => {
+  const said = await alanTracking(["--file-path", AT, "--break-the-glass"], givenIn())
+  expect(said.refusals[0]).toContain("`--break-the-glass` is no flag this takes.")
   expect(said.code).toBe(1)
 })
 

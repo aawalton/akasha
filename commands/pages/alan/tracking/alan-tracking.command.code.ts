@@ -18,8 +18,6 @@ import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { pathAt } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
 
-export const NO_GLASS = `${BREAK_GLASS} is no flag this takes: a body the checks refuse is a fault in the program that composed it`
-
 const TAKES: readonly string[] = VALUED.filter((one) => one !== BREAK_GLASS)
 
 export function strayIn(root: string, argv: readonly string[]): readonly string[] {
@@ -53,7 +51,6 @@ export async function trackedBy(
 }
 
 export async function alanTracking(argv: readonly string[], given: Given): Promise<Answer> {
-  if (argv.includes(BREAK_GLASS)) return mistaking([NO_GLASS])
   const stray = strayIn(given.root, argv)
   if (stray.length > 0) return mistaking(stray)
   return await trackedBy(argv, given)
