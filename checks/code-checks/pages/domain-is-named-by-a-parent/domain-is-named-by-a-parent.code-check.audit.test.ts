@@ -8,6 +8,7 @@ import {
   founded,
   pathFor,
   typed,
+  wrote,
 } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
@@ -35,10 +36,16 @@ function rooted(): string {
   return root
 }
 
+function bodyFor(kind: string, slug: string, id: string): string {
+  const said = { id, type: kind, slug }
+  return `export const held = ${JSON.stringify(said)}\n`
+}
+
 function holding(root: string, kind: string, slug: string, id: string): string {
   const at = pathFor(kind, slug)
   filing(root, kind, slug, id)
   claiming(root, at, at, id)
+  wrote(root, { [at]: bodyFor(kind, slug, id) })
   return at
 }
 

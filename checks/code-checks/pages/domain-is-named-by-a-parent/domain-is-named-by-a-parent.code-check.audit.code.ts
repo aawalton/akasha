@@ -7,6 +7,9 @@ import type { Judged } from "akasha/checks/modules/judging/judging.module.code.t
 import { everyPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { namedUnder } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
+import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+
+const ID = "id"
 
 export function domainIsNamedByAParent(root: string): readonly Judged[] {
   const shadow = shadowAt(root)
@@ -16,9 +19,10 @@ export function domainIsNamedByAParent(root: string): readonly Judged[] {
   for (const path of everyPath(root)) {
     const held = namedUnder(path, under)
     if (held === null || (held.pageTypeSlug === DOMAIN && held.slug === THE_WHOLE)) continue
-    const one = shadow.index.listedByPath(path).find((filed) => filed.path === path)
-    if (one === undefined) continue
-    const reason = judging(one.id, `${held.pageTypeSlug}/${held.slug}`)
+    const page = shadow.pageOf(path)
+    const id = page === null ? null : textAt(page, ID)
+    if (id === null) continue
+    const reason = judging(id, `${held.pageTypeSlug}/${held.slug}`)
     if (reason !== null) said.push({ path, reason })
   }
   return said
