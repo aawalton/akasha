@@ -12,7 +12,7 @@ export const ruleValuableNothing = {
   destination: "character:8796093022338107",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "all",
-  displayOrder: 39,
+  displayOrder: 40,
   action: "list",
   active: true,
   updatedAt: "2026-06-02T20:49:37.762Z",
