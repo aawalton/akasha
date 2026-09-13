@@ -30,7 +30,15 @@ export const deployTreePinning = {
     },
     {
       invariantKind: "departure",
+      statement: "A tree pinned at a commit carries the index the pages at that commit imply.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A tree git will not make or move is refused by naming the kind and the commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tree whose index will not build is refused the same way.",
     },
     {
       invariantKind: "absence",
