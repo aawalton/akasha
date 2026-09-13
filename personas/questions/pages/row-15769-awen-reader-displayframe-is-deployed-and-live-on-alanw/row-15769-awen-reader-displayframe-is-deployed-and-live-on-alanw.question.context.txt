@@ -1,1 +1,0 @@
-Auto-scroll (new turn snaps its start to top) needs a live turn to feel; also check the composer sits above the keyboard when typing, the jump-to-latest button, and the status drawer in the header menu. Row is parked at verification_user; your confirm + Awen's display sign-off close it. Reversible if anything's off.

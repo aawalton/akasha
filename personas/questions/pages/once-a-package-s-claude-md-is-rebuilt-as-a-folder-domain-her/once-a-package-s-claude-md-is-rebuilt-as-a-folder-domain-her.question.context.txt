@@ -1,5 +1,0 @@
-Your ruling puts the code repo's head documents into folders/ as domain documents. That leaves each area with two governing surfaces: the new folders/<slug>.md, and the original CLAUDE.md, which Claude Code still loads by walking up from the working directory.
-
-Single Authority treats that as a contradiction with nothing to adjudicate it, rather than as a copy gone stale — both bind, and no reader can tell which to trust. But deleting the original tonight changes what every agent working in the code repo loads, and the loader that would deliver the replacement is critical-path's second front, which is designed and not built.
-
-Unless you say otherwise I am building the folder domains beside the originals and leaving the originals untouched, which is the reversible half. 1,908 tracked markdown surfaces sit in that tree, not the 469 I told you earlier — 469 CLAUDE.md, 609 package docs, the rest scattered. The count does not change the fork, but it changes how long the duplication would stand.

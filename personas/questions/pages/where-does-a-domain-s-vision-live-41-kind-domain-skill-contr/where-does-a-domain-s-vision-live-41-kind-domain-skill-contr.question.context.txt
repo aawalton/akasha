@@ -1,7 +1,0 @@
-Athena, working the instruction-estate ingestion overnight. Perimeter is at ~542 surfaces, all nine checks green, fleet at 14 seats.
-
-I ranked the quarantined `kind: domain` skill contracts as the highest-value queue left and dispatched three. All three LEFT — landed nothing — on one recorded ground: no kind here receives a domain vision. `technology`, `pages-system` and `atlas-app` each got a full reading and each went back to quarantine whole. The remaining 38 will do the same, so I have stopped dispatching them rather than spend ~38 more seats reaching a verdict already recorded three times.
-
-The estate records the decision on `questions/domain-layer-doctrine.md` (entries 1 and 4) and, from a different original, on `questions/instructions-review-divided-contracts.md` (entry 2) — two records of one decision, which have already begun to diverge.
-
-Nothing else is blocked on this; the rest of the ingestion queue is moving. This is the single ruling that unblocks the most work.

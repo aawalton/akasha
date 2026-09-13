@@ -1,1 +1,0 @@
-Your Antiquity Leads dig-zone fix (#15795) is deployed and verified in the shipped bytes — getAntiquityDigZoneName now uses the dig/excavation zone unconditionally. This is just the felt confirmation of your original report; the project is already closed under assume-success, so if it's right there's nothing to do. If any header still shows the drop zone, I'll reopen.

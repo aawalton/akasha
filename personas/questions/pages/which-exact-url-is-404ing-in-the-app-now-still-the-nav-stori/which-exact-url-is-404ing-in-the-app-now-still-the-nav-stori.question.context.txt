@@ -1,1 +1,0 @@
-Build 134: banner fix passed (#15618 closed). The nav ?tab= fix was sim-verified data-agnostic, but your owner-scoped case still 404s — #15612 reopened. Your 'story chapter / maybe audio' clue suggests a different target than the original /nav URL; the exact failing URL pins the repro before I dispatch the worker (first work item: real-user read-only sim inject).
