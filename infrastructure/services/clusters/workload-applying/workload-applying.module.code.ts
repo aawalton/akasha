@@ -16,7 +16,7 @@ import {
   type Workload,
   wantingIn,
   workloadIn,
-} from "akasha/infrastructure/services/clusters/web-app-reading/web-app-reading.module.code.ts"
+} from "akasha/infrastructure/services/clusters/modules/web-app-reading/web-app-reading.module.code.ts"
 import {
   appliedOf,
   planFor,

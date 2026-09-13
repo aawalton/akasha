@@ -9,11 +9,11 @@ import {
   log,
   logError,
 } from "akasha/temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"
-import { toRuleSettings } from "akasha/temper/watcher/watcher-settings-consumables/watcher-settings-consumables.module.code.ts"
+import { toRuleSettings } from "akasha/temper/watcher/modules/watcher-settings-consumables/watcher-settings-consumables.module.code.ts"
 import {
   type SignedInReader,
   signedInUserId,
-} from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import {
   asRecord,
   asRecordOrEmpty,

@@ -1,5 +1,5 @@
 import type { SetBonusEntry } from "akasha/temper/items-core/modules/item-tooltip-types/item-tooltip-types.module.code.ts"
-import { validateWatcherToken } from "akasha/temper/watcher/watcher-token-check/watcher-token-check.module.code.ts"
+import { validateWatcherToken } from "akasha/temper/watcher/modules/watcher-token-check/watcher-token-check.module.code.ts"
 import {
   MINE_NAME,
   MINED_ITEM_PAGE_TYPE,

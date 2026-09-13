@@ -18,15 +18,15 @@ import {
 import {
   type SignedInReader,
   userIdFor,
-} from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import {
   readTaskCompletions,
   type TaskCompletionsRead,
-} from "akasha/temper/watcher/watcher-task-capture/watcher-task-capture.module.code.ts"
-import { landTaskValues } from "akasha/temper/watcher/watcher-task-landing/watcher-task-landing.module.code.ts"
-import type { TaskFacts } from "akasha/temper/watcher/watcher-task-progress/watcher-task-progress.module.code.ts"
-import { refreshTaskProgress } from "akasha/temper/watcher/watcher-task-progress-landing/watcher-task-progress-landing.module.code.ts"
-import { tasksThatRoll } from "akasha/temper/watcher/watcher-task-rolling/watcher-task-rolling.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-task-capture/watcher-task-capture.module.code.ts"
+import { landTaskValues } from "akasha/temper/watcher/modules/watcher-task-landing/watcher-task-landing.module.code.ts"
+import type { TaskFacts } from "akasha/temper/watcher/modules/watcher-task-progress/watcher-task-progress.module.code.ts"
+import { refreshTaskProgress } from "akasha/temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.code.ts"
+import { tasksThatRoll } from "akasha/temper/watcher/modules/watcher-task-rolling/watcher-task-rolling.module.code.ts"
 import { textIn } from "akasha/utils/narrow/modules/text-in/text-in.module.code.ts"
 
 const TASK_PAGE_TYPE_SLUG = "temper-task"

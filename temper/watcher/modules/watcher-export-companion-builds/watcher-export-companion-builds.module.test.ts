@@ -13,7 +13,7 @@ import {
 import type {
   SignedInAnswer,
   SignedInReader,
-} from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 const NOW = 1650000000000
 

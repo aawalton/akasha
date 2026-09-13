@@ -16,8 +16,8 @@ import {
   isShieldSlot,
   isWeaponSlot,
   shouldHideWeaponSlot,
-} from "akasha/temper/characters-equipment/weapon-slot-access/weapon-slot-access.module.code.ts"
-import { weaponTypes } from "akasha/temper/characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
+} from "akasha/temper/characters-equipment/modules/weapon-slot-access/weapon-slot-access.module.code.ts"
+import { weaponTypes } from "akasha/temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityVariant,
@@ -27,8 +27,8 @@ import type { SetTemplate as SetsAll } from "akasha/temper/equipment/modules/set
 import { armorSlots } from "akasha/temper/equipment-kinds/modules/armor-slots/armor-slots.module.code.ts"
 import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import { jewelrySlots } from "akasha/temper/equipment-kinds/modules/jewelry-slots/jewelry-slots.module.code.ts"
-import { weaponBars } from "akasha/temper/equipment-kinds/weapon-bars/weapon-bars.module.code.ts"
-import { weaponSlots } from "akasha/temper/equipment-kinds/weapon-slots/weapon-slots.module.code.ts"
+import { weaponBars } from "akasha/temper/equipment-kinds/modules/weapon-bars/weapon-bars.module.code.ts"
+import { weaponSlots } from "akasha/temper/equipment-kinds/modules/weapon-slots/weapon-slots.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 import { BulkEditTag } from "akasha/temper/web/modules/bulk-edit-tag/bulk-edit-tag.module.code.tsx"
 import { BulkSetEditTag } from "akasha/temper/web/modules/bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"

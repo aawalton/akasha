@@ -13,16 +13,16 @@ import { serializeLuaBlock } from "akasha/temper/saved-variables/modules/lua-ser
 import type { CharactersConfigFileInputs } from "akasha/temper/watcher/modules/watcher-config-file/watcher-config-file.module.code.ts"
 import { serializeCharactersConfigFile } from "akasha/temper/watcher/modules/watcher-config-file/watcher-config-file.module.code.ts"
 import { log } from "akasha/temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"
-import { compileCharacterPriority } from "akasha/temper/watcher/watcher-settings-consumables/watcher-settings-consumables.module.code.ts"
+import { compileCharacterPriority } from "akasha/temper/watcher/modules/watcher-settings-consumables/watcher-settings-consumables.module.code.ts"
 import {
   detectIndent,
   replaceOrInsertLuaBlock,
-} from "akasha/temper/watcher/watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts"
-import { writeSideFileIfChanged } from "akasha/temper/watcher/watcher-side-file/watcher-side-file.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts"
+import { writeSideFileIfChanged } from "akasha/temper/watcher/modules/watcher-side-file/watcher-side-file.module.code.ts"
 import {
   type SignedInReader,
   userIdFor,
-} from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import { stringAt } from "akasha/utils/narrow/modules/string-at/string-at.module.code.ts"
 
 export const TASK_PAGE_TYPE_SLUG = "temper-task"

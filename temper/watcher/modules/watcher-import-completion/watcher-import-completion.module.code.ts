@@ -32,13 +32,13 @@ import type {
   ReadFiles,
   ReadPages,
   WriteFiles,
-} from "akasha/temper/watcher/watcher-page-landing/watcher-page-landing.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
 import {
   besidePathsFor,
   contentIn,
   noPagePathWhy,
   PAGE_LANDING_WRITER,
-} from "akasha/temper/watcher/watcher-page-landing/watcher-page-landing.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
 import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
 import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
 

@@ -9,7 +9,7 @@ import {
   planCharacterImport,
   runImportCharacters,
 } from "akasha/temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.code.ts"
-import type { SignedInReader } from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+import type { SignedInReader } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 const REAL_HASH =
   "ATQHgAAAAABgAAf__AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALG0AAAAAAAAAKAAAAAAAAyA"

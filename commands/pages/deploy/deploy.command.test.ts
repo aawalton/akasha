@@ -17,7 +17,7 @@ import { recordedCommit } from "akasha/commands/pages/deploy/modules/commit-reco
 import {
   seededWorld,
   WEB_APPS_AT,
-} from "akasha/infrastructure/services/clusters/web-app-reading/web-app-reading.module.test-fixtures.ts"
+} from "akasha/infrastructure/services/clusters/modules/web-app-reading/web-app-reading.module.test-fixtures.ts"
 
 const WORLD = seededWorld()
 

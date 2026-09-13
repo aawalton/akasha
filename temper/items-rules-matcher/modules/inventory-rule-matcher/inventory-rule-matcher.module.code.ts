@@ -42,8 +42,8 @@ import {
 import {
   buildItemIdToCooldownGroup,
   buildWebEvalEnv,
-} from "akasha/temper/items-rules-matcher/web-eval-env/web-eval-env.module.code.ts"
-import { webItemFactsFromClassified } from "akasha/temper/items-rules-matcher/web-item-facts/web-item-facts.module.code.ts"
+} from "akasha/temper/items-rules-matcher/modules/web-eval-env/web-eval-env.module.code.ts"
+import { webItemFactsFromClassified } from "akasha/temper/items-rules-matcher/modules/web-item-facts/web-item-facts.module.code.ts"
 
 function ruleResultKey(rule: CompiledOrderedRule, idx: number): string {
   return rule.id ?? `rule#${idx}`

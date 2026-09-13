@@ -11,7 +11,7 @@ import {
 import {
   isUnitActive,
   unitMainPid,
-} from "akasha/temper/watcher/watcher-unit/watcher-unit.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-unit/watcher-unit.module.code.ts"
 
 const NAMED = [json]
 

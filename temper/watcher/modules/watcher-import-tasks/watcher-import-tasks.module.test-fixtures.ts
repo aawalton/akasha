@@ -6,7 +6,7 @@ import {
   seamsReady,
   type TaskPage,
 } from "akasha/temper/watcher/modules/watcher-import-tasks/watcher-import-tasks.module.code.ts"
-import type { SignedInReader } from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+import type { SignedInReader } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 export const NO_CLIENT: SignedInReader = {
   auth: {

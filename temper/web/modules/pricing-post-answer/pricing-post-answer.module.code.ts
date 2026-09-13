@@ -1,4 +1,4 @@
-import { validateWatcherToken } from "akasha/temper/watcher/watcher-token-check/watcher-token-check.module.code.ts"
+import { validateWatcherToken } from "akasha/temper/watcher/modules/watcher-token-check/watcher-token-check.module.code.ts"
 
 export async function answerPricingPost(
   request: Request,

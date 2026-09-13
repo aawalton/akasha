@@ -3,19 +3,19 @@ import type {
   WeaponBars,
 } from "akasha/temper/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
 import { isSetValidForSlot } from "akasha/temper/characters-equipment/modules/set-pattern-matcher/set-pattern-matcher.module.code.ts"
-import type { WeaponEnchantmentId } from "akasha/temper/characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
+import type { WeaponEnchantmentId } from "akasha/temper/characters-equipment/modules/weapon-enchants/weapon-enchants.module.code.ts"
 import {
   getWeaponItem,
   isWeaponSlot,
   shouldHideWeaponSlot,
-} from "akasha/temper/characters-equipment/weapon-slot-access/weapon-slot-access.module.code.ts"
-import { updateWeaponItem } from "akasha/temper/characters-equipment/weapon-slot-mutations/weapon-slot-mutations.module.code.ts"
+} from "akasha/temper/characters-equipment/modules/weapon-slot-access/weapon-slot-access.module.code.ts"
+import { updateWeaponItem } from "akasha/temper/characters-equipment/modules/weapon-slot-mutations/weapon-slot-mutations.module.code.ts"
 import type { SetId } from "akasha/temper/equipment/modules/set-ids/set-ids.module.code.ts"
 import type { SetTemplate } from "akasha/temper/equipment/modules/set-template/set-template.module.code.ts"
-import type { WeaponTraitId } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
+import type { WeaponTraitId } from "akasha/temper/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
 import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
-import { weaponBars } from "akasha/temper/equipment-kinds/weapon-bars/weapon-bars.module.code.ts"
-import { weaponSlots } from "akasha/temper/equipment-kinds/weapon-slots/weapon-slots.module.code.ts"
+import { weaponBars } from "akasha/temper/equipment-kinds/modules/weapon-bars/weapon-bars.module.code.ts"
+import { weaponSlots } from "akasha/temper/equipment-kinds/modules/weapon-slots/weapon-slots.module.code.ts"
 
 export function bulkUpdateWeaponTrait(
   equipment: Loadout,

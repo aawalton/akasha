@@ -1,0 +1,244 @@
+import { expect, test } from "bun:test"
+import type { LandingDeps } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
+import {
+  landTaskGone,
+  landTaskValues,
+  TASK_PAGE_TYPE_SLUG,
+  taskBodyWith,
+  taskPagePath,
+  taskProgressPath,
+} from "akasha/temper/watcher/modules/watcher-task-landing/watcher-task-landing.module.code.ts"
+
+const PAGE_PATH = "temper/progressions/temper-tasks/pages/held-task/held-task.temper-task.ts"
+
+const PROGRESS_PATH =
+  "temper/progressions/temper-tasks/pages/held-task/held-task.temper-task.progress.jsonl"
+
+const BODY =
+  'import type { TemperTask } from "../../temper-task.page-type.types.ts"\n\nexport const heldTask = {\n  id: "01a06381-0000-7000-8000-000000000001",\n  pageTypeSlug: "temper-task",\n  slug: "held-task",\n  title: "Held Task",\n  dueDate: "2026-03-05",\n} as const satisfies TemperTask\n'
+
+type Body = { readonly path: string; readonly content: string | null }
+
+function store(
+  bodies: readonly Body[],
+  answers: readonly ({ ok: true; at: string } | { ok: false; why: string })[]
+): { deps: LandingDeps; wrote: unknown[]; took: unknown[] } {
+  const wrote: unknown[] = []
+  const took: unknown[] = []
+  let at = 0
+  const answer = (): { ok: true; at: string } | { ok: false; why: string } => {
+    const one = answers[at] ?? { ok: false as const, why: "no answer was set up" }
+    at++
+    return one
+  }
+  const deps: LandingDeps = {
+    waiting: async () => undefined,
+    read: (async (paths: readonly string[]) => ({
+      ok: true,
+      at: "read-commit",
+      bodies: paths.map((path) => ({
+        path,
+        content: bodies.find((one) => one.path === path)?.content ?? null,
+      })),
+      unplaced: [],
+    })) as LandingDeps["read"],
+    write: (async (
+      given: unknown,
+      writer: string,
+      message: string,
+      _fetcher: unknown,
+      _rest: unknown,
+      read: string | null
+    ) => {
+      wrote.push({ given, writer, message, read })
+      return answer()
+    }) as LandingDeps["write"],
+    remove: (async (
+      paths: readonly string[],
+      writer: string,
+      message: string,
+      _fetcher: unknown,
+      _rest: unknown,
+      read: string | null
+    ) => {
+      took.push({ paths, writer, message, read })
+      return answer()
+    }) as LandingDeps["remove"],
+  }
+  return { deps, wrote, took }
+}
+
+test("a task names its page and the progress lines beside it", () => {
+  expect(taskPagePath("held-task")).toBe(PAGE_PATH)
+  expect(taskProgressPath("held-task")).toBe(PROGRESS_PATH)
+  expect(TASK_PAGE_TYPE_SLUG).toBe("temper-task")
+})
+
+test("a key the body already carries is restated in place", () => {
+  expect(taskBodyWith(BODY, { dueDate: "2026-03-12" })).toBe(
+    'import type { TemperTask } from "../../temper-task.page-type.types.ts"\n\nexport const heldTask = {\n  id: "01a06381-0000-7000-8000-000000000001",\n  pageTypeSlug: "temper-task",\n  slug: "held-task",\n  title: "Held Task",\n  dueDate: "2026-03-12",\n} as const satisfies TemperTask\n'
+  )
+})
+
+test("a key the body carries nowhere is added on the line before the closing", () => {
+  expect(taskBodyWith(BODY, { completedAt: "2026-03-05T13:57:43.192Z" })).toBe(
+    'import type { TemperTask } from "../../temper-task.page-type.types.ts"\n\nexport const heldTask = {\n  id: "01a06381-0000-7000-8000-000000000001",\n  pageTypeSlug: "temper-task",\n  slug: "held-task",\n  title: "Held Task",\n  dueDate: "2026-03-05",\n  completedAt: "2026-03-05T13:57:43.192Z",\n} as const satisfies TemperTask\n'
+  )
+})
+
+test("a key told null is taken off the body", () => {
+  expect(taskBodyWith(BODY, { dueDate: null })).toBe(
+    'import type { TemperTask } from "../../temper-task.page-type.types.ts"\n\nexport const heldTask = {\n  id: "01a06381-0000-7000-8000-000000000001",\n  pageTypeSlug: "temper-task",\n  slug: "held-task",\n  title: "Held Task",\n} as const satisfies TemperTask\n'
+  )
+})
+
+test("several keys are taken off, restated, and added in the order they were given", () => {
+  expect(
+    taskBodyWith(BODY, {
+      dueDate: null,
+      completedAt: "2026-03-05T13:57:43.192Z",
+      streak: 4,
+      paused: true,
+    })
+  ).toBe(
+    'import type { TemperTask } from "../../temper-task.page-type.types.ts"\n\nexport const heldTask = {\n  id: "01a06381-0000-7000-8000-000000000001",\n  pageTypeSlug: "temper-task",\n  slug: "held-task",\n  title: "Held Task",\n  completedAt: "2026-03-05T13:57:43.192Z",\n  streak: 4,\n  paused: true,\n} as const satisfies TemperTask\n'
+  )
+})
+
+test("a body nothing would move on is answered as nothing", () => {
+  expect(taskBodyWith(BODY, {})).toBeNull()
+  expect(taskBodyWith(BODY, { dueDate: "2026-03-05" })).toBeNull()
+  expect(taskBodyWith(BODY, { streak: null })).toBeNull()
+})
+
+test("a body carrying no closing line is refused where a key must be added", () => {
+  expect(taskBodyWith('export const x = {\n  id: "a",\n}\n', { streak: 1 })).toBeNull()
+})
+
+test("a body carrying no closing line still has a key it carries restated", () => {
+  expect(taskBodyWith('export const x = {\n  id: "a",\n}\n', { id: "b" })).toBe(
+    'export const x = {\n  id: "b",\n}\n'
+  )
+})
+
+test("only a key indented by two spaces is matched", () => {
+  const nested = 'export const x = {\n    dueDate: "2026-03-05",\n} as const satisfies TemperTask\n'
+  expect(taskBodyWith(nested, { dueDate: "2026-03-12" })).toBe(
+    'export const x = {\n    dueDate: "2026-03-05",\n  dueDate: "2026-03-12",\n} as const satisfies TemperTask\n'
+  )
+})
+
+test("a key that is no bare name refuses the call before any body is composed", () => {
+  expect(() => taskBodyWith(BODY, { "due-date": "2026-03-12" })).toThrow("no usable task key")
+  expect(() => taskBodyWith(BODY, { "due(date": "2026-03-12" })).toThrow()
+  expect(() => taskBodyWith(BODY, { "": "2026-03-12" })).toThrow()
+})
+
+test("a key carrying a pattern character matches no other key's line", () => {
+  expect(() => taskBodyWith(BODY, { "due.ate": "X" })).toThrow("no usable task key")
+})
+
+test("every key is judged before the first one is written", () => {
+  expect(() => taskBodyWith(BODY, { dueDate: "2026-03-12", "due-date": "X" })).toThrow(
+    "no usable task key"
+  )
+})
+
+test("a task's whole body goes back with the values the completion changes", async () => {
+  const { deps, wrote } = store([{ path: PAGE_PATH, content: BODY }], [{ ok: true, at: "c1" }])
+  const landed = await landTaskValues(
+    "held-task",
+    { dueDate: "2026-03-12" },
+    "temper: the held task came round again",
+    deps
+  )
+  expect(landed).toEqual({ outcome: "landed", at: "c1" })
+  expect(wrote).toEqual([
+    {
+      given: [{ path: PAGE_PATH, content: taskBodyWith(BODY, { dueDate: "2026-03-12" }) }],
+      writer: "temper watcher <watcher@alanwalton.com>",
+      message: "temper: the held task came round again",
+      read: "read-commit",
+    },
+  ])
+})
+
+test("a body already carrying these values counts as landed rather than as a refusal", async () => {
+  const { deps, wrote } = store([{ path: PAGE_PATH, content: BODY }], [])
+  expect(await landTaskValues("held-task", { dueDate: "2026-03-05" }, "no change", deps)).toEqual({
+    outcome: "already",
+    at: "read-commit",
+  })
+  expect(wrote).toEqual([])
+})
+
+test("a task the store holds no body for is refused, naming the path", async () => {
+  const { deps } = store([], [])
+  expect(await landTaskValues("held-task", { dueDate: "2026-03-12" }, "any", deps)).toEqual({
+    outcome: "refused",
+    why: `the store holds no body at ${PAGE_PATH}`,
+  })
+})
+
+test("a task and the files beside it are taken away together", async () => {
+  const { deps, took } = store(
+    [
+      { path: PAGE_PATH, content: BODY },
+      { path: PROGRESS_PATH, content: '{"id":"a"}\n' },
+    ],
+    [{ ok: true, at: "c1" }]
+  )
+  const landed = await landTaskGone(
+    "held-task",
+    [PROGRESS_PATH],
+    "temper: the held task will not come round again",
+    deps
+  )
+  expect(landed).toEqual({ outcome: "landed", at: "c1" })
+  expect(took).toEqual([
+    {
+      paths: [PAGE_PATH, PROGRESS_PATH],
+      writer: "temper watcher <watcher@alanwalton.com>",
+      message: "temper: the held task will not come round again",
+      read: "read-commit",
+    },
+  ])
+})
+
+test("a file beside a task the store holds nothing for is left out of the taking", async () => {
+  const { deps, took } = store([{ path: PAGE_PATH, content: BODY }], [{ ok: true, at: "c1" }])
+  await landTaskGone("held-task", [PROGRESS_PATH], "gone", deps)
+  expect(took).toEqual([
+    {
+      paths: [PAGE_PATH],
+      writer: "temper watcher <watcher@alanwalton.com>",
+      message: "gone",
+      read: "read-commit",
+    },
+  ])
+})
+
+test("a task already gone counts as taken away", async () => {
+  const { deps, took } = store([], [])
+  expect(await landTaskGone("held-task", [PROGRESS_PATH], "gone", deps)).toEqual({
+    outcome: "already",
+    at: "read-commit",
+  })
+  expect(took).toEqual([])
+})
+
+test("four takings the store turned back are refused, naming the last reason", async () => {
+  const { deps } = store(
+    [{ path: PAGE_PATH, content: BODY }],
+    [
+      { ok: false, why: "one" },
+      { ok: false, why: "two" },
+      { ok: false, why: "three" },
+      { ok: false, why: "four" },
+    ]
+  )
+  expect(await landTaskGone("held-task", [], "gone", deps)).toEqual({
+    outcome: "refused",
+    why: "four — 4 attempts were spent",
+  })
+})

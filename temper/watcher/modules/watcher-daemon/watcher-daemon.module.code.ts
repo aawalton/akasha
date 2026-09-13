@@ -7,7 +7,7 @@ import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.c
 import {
   watcherConfigDir,
   watcherLogDir,
-} from "akasha/temper/watcher/watcher-paths/watcher-paths.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-paths/watcher-paths.module.code.ts"
 import { pidAliveOrAssumeDead } from "akasha/utils/process/modules/pid-signal/pid-signal.module.code.ts"
 import { z } from "zod"
 

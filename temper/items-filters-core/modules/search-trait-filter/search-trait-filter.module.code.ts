@@ -11,7 +11,7 @@ import {
   PLAYER_WEAPON_TRAIT_TO_ESO,
 } from "akasha/temper/equipment/modules/eso-trait-map/eso-trait-map.module.code.ts"
 import { jewelryTraits } from "akasha/temper/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
-import { weaponTraits } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
+import { weaponTraits } from "akasha/temper/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
 import { runChecker } from "akasha/temper/items-filters-core/modules/search-eval-adapter/search-eval-adapter.module.code.ts"
 import type { FilterEditorOption } from "akasha/temper/items-filters-core/modules/search-filter-types/search-filter-types.module.code.ts"
 import { defineFilter } from "akasha/temper/items-filters-core/modules/search-filter-types/search-filter-types.module.code.ts"

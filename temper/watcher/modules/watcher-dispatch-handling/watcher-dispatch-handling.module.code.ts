@@ -5,27 +5,27 @@ import {
   log,
   logError,
 } from "akasha/temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"
-import { writeFileAtomicWithRetry } from "akasha/temper/watcher/watcher-retry/watcher-retry.module.code.ts"
+import { writeFileAtomicWithRetry } from "akasha/temper/watcher/modules/watcher-retry/watcher-retry.module.code.ts"
 import {
   preDispatchOperations,
   TARGET_OPERATIONS,
-} from "akasha/temper/watcher/watcher-run-observing/watcher-run-observing.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-run-observing/watcher-run-observing.module.code.ts"
 import {
   describeOperations,
   type SyncOperation,
-} from "akasha/temper/watcher/watcher-run-outcome/watcher-run-outcome.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-run-outcome/watcher-run-outcome.module.code.ts"
 import {
   hashContent,
   shouldSkipSelfWrite,
-} from "akasha/temper/watcher/watcher-self-write-guard/watcher-self-write-guard.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-self-write-guard/watcher-self-write-guard.module.code.ts"
 import {
   looksStructurallyComplete,
   matchesSnapshot,
   readFileWhenStable,
   type StableRead,
   type StatSnapshot,
-} from "akasha/temper/watcher/watcher-stable-read/watcher-stable-read.module.code.ts"
-import type { FileState } from "akasha/temper/watcher/watcher-state/watcher-state.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-stable-read/watcher-stable-read.module.code.ts"
+import type { FileState } from "akasha/temper/watcher/modules/watcher-state/watcher-state.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 export const DEBOUNCE_MS = 3000

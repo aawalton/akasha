@@ -15,25 +15,25 @@ import {
   logError as writeError,
   log as writeInfo,
 } from "akasha/temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"
-import { writeFileAtomicWithRetry } from "akasha/temper/watcher/watcher-retry/watcher-retry.module.code.ts"
-import type { SyncOperation } from "akasha/temper/watcher/watcher-run-outcome/watcher-run-outcome.module.code.ts"
-import { isSourceRuntime } from "akasha/temper/watcher/watcher-runtime/watcher-runtime.module.code.ts"
-import { hashContent } from "akasha/temper/watcher/watcher-self-write-guard/watcher-self-write-guard.module.code.ts"
-import { serverUrlFromEnv } from "akasha/temper/watcher/watcher-server-url/watcher-server-url.module.code.ts"
-import type { SignedInReader } from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+import { writeFileAtomicWithRetry } from "akasha/temper/watcher/modules/watcher-retry/watcher-retry.module.code.ts"
+import type { SyncOperation } from "akasha/temper/watcher/modules/watcher-run-outcome/watcher-run-outcome.module.code.ts"
+import { isSourceRuntime } from "akasha/temper/watcher/modules/watcher-runtime/watcher-runtime.module.code.ts"
+import { hashContent } from "akasha/temper/watcher/modules/watcher-self-write-guard/watcher-self-write-guard.module.code.ts"
+import { serverUrlFromEnv } from "akasha/temper/watcher/modules/watcher-server-url/watcher-server-url.module.code.ts"
+import type { SignedInReader } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import {
   looksStructurallyComplete,
   matchesSnapshot,
   readFileWhenStable,
   type StableRead,
   type StatSnapshot,
-} from "akasha/temper/watcher/watcher-stable-read/watcher-stable-read.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-stable-read/watcher-stable-read.module.code.ts"
 import {
   type FileState,
   initialWatcherState,
-} from "akasha/temper/watcher/watcher-state/watcher-state.module.code.ts"
-import { resolveWatcherToken } from "akasha/temper/watcher/watcher-token/watcher-token.module.code.ts"
-import { WATCHER_VERSION } from "akasha/temper/watcher/watcher-version/watcher-version.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-state/watcher-state.module.code.ts"
+import { resolveWatcherToken } from "akasha/temper/watcher/modules/watcher-token/watcher-token.module.code.ts"
+import { WATCHER_VERSION } from "akasha/temper/watcher/modules/watcher-version/watcher-version.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 const POLL_INTERVAL_MS = 2000

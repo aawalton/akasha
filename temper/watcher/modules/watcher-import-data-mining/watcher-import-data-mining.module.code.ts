@@ -10,11 +10,11 @@ import {
 import {
   detectIndent,
   replaceOrInsertLuaBlock,
-} from "akasha/temper/watcher/watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts"
 import {
   type UploadRetryOptions,
   withUploadRetry,
-} from "akasha/temper/watcher/watcher-upload-retry/watcher-upload-retry.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-upload-retry/watcher-upload-retry.module.code.ts"
 import { z } from "zod"
 
 const UPLOAD_BATCH_SIZE = 1000

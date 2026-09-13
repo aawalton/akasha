@@ -15,7 +15,7 @@ import {
   taskDataFrom,
   taskKey,
 } from "akasha/temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.code.ts"
-import type { SignedInReader } from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+import type { SignedInReader } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 const CONTENT = `TemperCharacters_SavedVariables =
 {

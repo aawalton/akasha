@@ -5,9 +5,11 @@ const WORKING_ON = "working on"
 const RAN: string[] = []
 const NEVER: Promise<number> = new Promise(() => {})
 
-const worker = await import("akasha/temper/watcher/watcher-running/watcher-running.module.code.ts")
+const worker = await import(
+  "akasha/temper/watcher/modules/watcher-running/watcher-running.module.code.ts"
+)
 
-mock.module("akasha/temper/watcher/watcher-running/watcher-running.module.code.ts", () => ({
+mock.module("akasha/temper/watcher/modules/watcher-running/watcher-running.module.code.ts", () => ({
   ...worker,
   runWatcherWorker: () => {
     RAN.push("worker")
@@ -49,11 +51,14 @@ test("a run does not answer while the worker is up, so the runner's process stay
 })
 
 test("a worker that could not be started is carried out rather than swallowed, so a second watcher is refused by name", async () => {
-  mock.module("akasha/temper/watcher/watcher-running/watcher-running.module.code.ts", () => ({
-    ...worker,
-    runWatcherWorker: () => {
-      throw new Error("a watcher worker is already running as pid 1234")
-    },
-  }))
+  mock.module(
+    "akasha/temper/watcher/modules/watcher-running/watcher-running.module.code.ts",
+    () => ({
+      ...worker,
+      runWatcherWorker: () => {
+        throw new Error("a watcher worker is already running as pid 1234")
+      },
+    })
+  )
   await expect(running.runService()).rejects.toThrow("a watcher worker is already running")
 })

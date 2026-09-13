@@ -39,7 +39,7 @@ import {
 import {
   namesWholeTask,
   parseTaskCompletions,
-} from "akasha/temper/watcher/watcher-task-capture/watcher-task-capture.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-task-capture/watcher-task-capture.module.code.ts"
 
 test("a saved-variables file reads back one entry for each numeric completion", () => {
   expect(

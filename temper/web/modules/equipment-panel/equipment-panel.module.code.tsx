@@ -5,7 +5,7 @@ import { getEquippedMythicSetId } from "akasha/temper/characters-equipment/modul
 import { ArmorPanelCard } from "akasha/temper/web/modules/armor-panel-card/armor-panel-card.module.code.tsx"
 import type { EquipmentPanelProps } from "akasha/temper/web/modules/equipment-types/equipment-types.module.code.ts"
 import { JewelryPanelCard } from "akasha/temper/web/modules/jewelry-panel-card/jewelry-panel-card.module.code.tsx"
-import { WeaponBarPanelCard } from "akasha/temper/web/weapon-bar-panel-card/weapon-bar-panel-card.module.code.tsx"
+import { WeaponBarPanelCard } from "akasha/temper/web/modules/weapon-bar-panel-card/weapon-bar-panel-card.module.code.tsx"
 import { useMemo } from "react"
 
 export function EquipmentPanel({

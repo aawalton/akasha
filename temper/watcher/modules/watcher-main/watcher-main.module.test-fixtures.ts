@@ -18,8 +18,8 @@ import {
   type WatcherStart,
   type WatcherStartOptions,
 } from "akasha/temper/watcher/modules/watcher-main/watcher-main.module.code.ts"
-import type { SignedInAnswer } from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
-import { initialFileState } from "akasha/temper/watcher/watcher-state/watcher-state.module.code.ts"
+import type { SignedInAnswer } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+import { initialFileState } from "akasha/temper/watcher/modules/watcher-state/watcher-state.module.code.ts"
 
 const SCRATCH_AT = "/var/tmp"
 

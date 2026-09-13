@@ -19,8 +19,8 @@ import {
   livePod,
   type Resolved,
   resolveBuildEnv,
-} from "akasha/infrastructure/services/clusters/web-app-building/web-app-building.module.code.ts"
-import { deployableNamed } from "akasha/infrastructure/services/clusters/web-app-reading/web-app-reading.module.code.ts"
+} from "akasha/infrastructure/services/clusters/modules/web-app-building/web-app-building.module.code.ts"
+import { deployableNamed } from "akasha/infrastructure/services/clusters/modules/web-app-reading/web-app-reading.module.code.ts"
 import {
   appliedOf,
   planFor,

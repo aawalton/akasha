@@ -9,7 +9,7 @@ import {
   WEB_APP,
   WORKSTATION_SERVICE,
 } from "akasha/commands/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
-import { writingUnder } from "akasha/infrastructure/services/clusters/web-app-reading/web-app-reading.module.test-fixtures.ts"
+import { writingUnder } from "akasha/infrastructure/services/clusters/modules/web-app-reading/web-app-reading.module.test-fixtures.ts"
 import {
   listedFiled,
   valueAlsoFiled,

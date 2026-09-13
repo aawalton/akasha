@@ -17,12 +17,12 @@ import {
 import {
   detectIndent,
   replaceOrInsertLuaBlock,
-} from "akasha/temper/watcher/watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts"
-import { writeSideFileIfChanged } from "akasha/temper/watcher/watcher-side-file/watcher-side-file.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts"
+import { writeSideFileIfChanged } from "akasha/temper/watcher/modules/watcher-side-file/watcher-side-file.module.code.ts"
 import {
   type SignedInReader,
   userIdFor,
-} from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 const COMPANION_PROGRESS_PAGE_TYPE = "temper-companion-progress"
 

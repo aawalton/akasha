@@ -28,17 +28,17 @@ import {
   skippedOperation,
   statMtimeMs,
   TARGET_OPERATIONS,
-} from "akasha/temper/watcher/watcher-run-observing/watcher-run-observing.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-run-observing/watcher-run-observing.module.code.ts"
 import {
   allSynced,
   isoFromMtimeMs,
   type SyncOperation,
-} from "akasha/temper/watcher/watcher-run-outcome/watcher-run-outcome.module.code.ts"
-import { reportRunOutcome } from "akasha/temper/watcher/watcher-run-reporting/watcher-run-reporting.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-run-outcome/watcher-run-outcome.module.code.ts"
+import { reportRunOutcome } from "akasha/temper/watcher/modules/watcher-run-reporting/watcher-run-reporting.module.code.ts"
 import {
   type SignedInReader,
   signedInUserId,
-} from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 const COMPLETION_TO_DO = "import this completion"

@@ -17,7 +17,7 @@ import { resolveAccountPageId } from "akasha/temper/watcher/modules/watcher-acco
 import {
   type SignedInReader,
   userIdFor,
-} from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
 
 const COMPANIONS_SAVED_VARIABLES_GLOBAL = "TemperCompanions_SavedVariables"

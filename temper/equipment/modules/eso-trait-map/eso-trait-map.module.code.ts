@@ -9,7 +9,7 @@ import {
 import {
   type WeaponTraitId,
   weaponTraits,
-} from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
+} from "akasha/temper/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
 
 const TEMPER_PLAYER_WEAPON_TRAIT_TO_ESO = {
   "no-trait": 0,

@@ -1,6 +1,6 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import type { Workload } from "akasha/infrastructure/services/clusters/web-app-reading/web-app-reading.module.code.ts"
+import type { Workload } from "akasha/infrastructure/services/clusters/modules/web-app-reading/web-app-reading.module.code.ts"
 import { ran as running } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const KUBECTL = "kubectl"

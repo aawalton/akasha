@@ -15,7 +15,7 @@ import type {
   ReadFiles,
   ReadPages,
   WriteFiles,
-} from "akasha/temper/watcher/watcher-page-landing/watcher-page-landing.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
 
 const WITH_STORED = `TemperCharacters_SavedVariables =
 { ["Default"] = { ["@alan"] = { ["$AccountWide"] = {

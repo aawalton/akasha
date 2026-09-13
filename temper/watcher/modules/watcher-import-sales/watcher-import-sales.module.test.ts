@@ -11,7 +11,7 @@ import {
   saleSoldAtIso,
   writeSaleImportPlan,
 } from "akasha/temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.code.ts"
-import type { SignedInReader } from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+import type { SignedInReader } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 interface UpsertCall {
   readonly pageTypeSlug: string

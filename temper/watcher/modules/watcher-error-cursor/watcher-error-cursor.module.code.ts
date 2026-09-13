@@ -1,6 +1,6 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { watcherLogDir } from "akasha/temper/watcher/watcher-paths/watcher-paths.module.code.ts"
+import { watcherLogDir } from "akasha/temper/watcher/modules/watcher-paths/watcher-paths.module.code.ts"
 import { z } from "zod"
 
 export const CURSOR_FILENAME = "temper-errors-cursor.json"

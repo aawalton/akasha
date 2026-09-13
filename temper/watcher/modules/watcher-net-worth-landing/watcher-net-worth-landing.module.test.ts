@@ -15,7 +15,7 @@ import {
   readingLine,
   snapshotsWith,
 } from "akasha/temper/watcher/modules/watcher-net-worth-landing/watcher-net-worth-landing.module.code.ts"
-import type { LandingDeps } from "akasha/temper/watcher/watcher-page-landing/watcher-page-landing.module.code.ts"
+import type { LandingDeps } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
 
 const FIRST_MS = 1777473705275
 

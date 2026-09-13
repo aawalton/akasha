@@ -1,5 +1,5 @@
 import { mobileApps } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
-import { pathsNamed } from "akasha/infrastructure/services/clusters/web-app-reading/web-app-reading.module.code.ts"
+import { pathsNamed } from "akasha/infrastructure/services/clusters/modules/web-app-reading/web-app-reading.module.code.ts"
 import {
   listedAt,
   slugsOfType,
