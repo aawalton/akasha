@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0112126IiCompetition = {
   position: 112,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2613984/126-ii-competition",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2613984/126-ii-competition",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

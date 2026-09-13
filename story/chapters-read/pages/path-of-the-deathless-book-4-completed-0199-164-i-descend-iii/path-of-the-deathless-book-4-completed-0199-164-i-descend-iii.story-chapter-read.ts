@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0199164IDescendIii = {
   position: 199,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2687264/164-i-descend-iii",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2687264/164-i-descend-iii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

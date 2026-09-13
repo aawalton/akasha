@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0261188IDecider = {
   position: 261,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2746990/188-i-decider",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2746990/188-i-decider",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

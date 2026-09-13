@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0115128IAnimatedI = {
   position: 115,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2616280/128-i-animated-i",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2616280/128-i-animated-i",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

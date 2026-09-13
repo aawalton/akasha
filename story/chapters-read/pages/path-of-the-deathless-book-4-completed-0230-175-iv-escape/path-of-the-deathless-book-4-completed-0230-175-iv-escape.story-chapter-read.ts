@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0230175IvEscape = {
   position: 230,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2717838/175-iv-escape",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2717838/175-iv-escape",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

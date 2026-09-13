@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed002585IiChronomancer = {
   position: 25,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2531773/85-ii-chronomancer",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2531773/85-ii-chronomancer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

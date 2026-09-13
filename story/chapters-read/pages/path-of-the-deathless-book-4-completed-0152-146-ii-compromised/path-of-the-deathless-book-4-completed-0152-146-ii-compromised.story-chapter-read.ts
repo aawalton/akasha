@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0152146IiCompromised = {
   position: 152,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2649276/146-ii-compromised",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2649276/146-ii-compromised",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

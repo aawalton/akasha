@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0105123IMinionsIii = {
   position: 105,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2608556/123-i-minions-iii",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2608556/123-i-minions-iii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

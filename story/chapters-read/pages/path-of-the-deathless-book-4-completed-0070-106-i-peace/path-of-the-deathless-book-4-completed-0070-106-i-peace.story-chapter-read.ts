@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0070106IPeace = {
   position: 70,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2577811/106-i-peace",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2577811/106-i-peace",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

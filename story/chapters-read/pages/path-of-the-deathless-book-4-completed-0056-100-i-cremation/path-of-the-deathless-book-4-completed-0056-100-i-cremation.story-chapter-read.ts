@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0056100ICremation = {
   position: 56,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2566121/100-i-cremation",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2566121/100-i-cremation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

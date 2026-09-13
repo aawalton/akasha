@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0211169ICell = {
   position: 211,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2701992/169-i-cell",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2701992/169-i-cell",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0063103IReforgeI = {
   position: 63,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2571953/103-i-reforge-i",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2571953/103-i-reforge-i",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

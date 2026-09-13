@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0147144ICaptureIi = {
   position: 147,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2644215/144-i-capture-ii",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2644215/144-i-capture-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

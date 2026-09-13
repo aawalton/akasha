@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0239179IiCouncilwoman = {
   position: 239,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2726416/179-ii-councilwoman",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2726416/179-ii-councilwoman",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

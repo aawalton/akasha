@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed000678IFavoredBook3Beginning = {
   position: 6,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2515868/78-i-favored-book-3-beginning",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2515868/78-i-favored-book-3-beginning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0176156IOrichalcum = {
   position: 176,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2669012/156-i-orichalcum",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2669012/156-i-orichalcum",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

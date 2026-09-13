@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0137139ILeveling = {
   position: 137,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2635866/139-i-leveling",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2635866/139-i-leveling",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

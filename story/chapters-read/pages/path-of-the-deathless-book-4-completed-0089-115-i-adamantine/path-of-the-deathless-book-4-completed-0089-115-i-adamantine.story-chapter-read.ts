@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0089115IAdamantine = {
   position: 89,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2595625/115-i-adamantine",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2595625/115-i-adamantine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

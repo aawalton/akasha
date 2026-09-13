@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed001080IHeartstopper = {
   position: 10,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2518656/80-i-heartstopper",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2518656/80-i-heartstopper",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

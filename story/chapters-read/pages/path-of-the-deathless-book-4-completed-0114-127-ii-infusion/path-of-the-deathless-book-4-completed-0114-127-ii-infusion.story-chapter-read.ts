@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0114127IiInfusion = {
   position: 114,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2616137/127-ii-infusion",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2616137/127-ii-infusion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

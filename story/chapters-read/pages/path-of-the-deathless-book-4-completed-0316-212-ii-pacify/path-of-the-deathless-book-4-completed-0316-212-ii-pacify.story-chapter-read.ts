@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0316212IiPacify = {
   position: 316,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2801351/212-ii-pacify",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2801351/212-ii-pacify",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

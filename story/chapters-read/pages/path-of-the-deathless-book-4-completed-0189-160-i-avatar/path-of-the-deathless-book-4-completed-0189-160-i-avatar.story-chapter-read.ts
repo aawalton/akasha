@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0189160IAvatar = {
   position: 189,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2679317/160-i-avatar",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2679317/160-i-avatar",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

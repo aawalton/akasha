@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0173155IiTarrasque = {
   position: 173,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2666510/155-ii-tarrasque",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2666510/155-ii-tarrasque",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0318213ITroubleshoot = {
   position: 318,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2801977/213-i-troubleshoot",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2801977/213-i-troubleshoot",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

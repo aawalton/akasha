@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed005599IiPlaguefueled = {
   position: 55,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2563751/99-ii-plaguefueled",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2563751/99-ii-plaguefueled",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

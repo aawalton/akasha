@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0298204IAcademyIi = {
   position: 298,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2784239/204-i-academy-ii",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2784239/204-i-academy-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

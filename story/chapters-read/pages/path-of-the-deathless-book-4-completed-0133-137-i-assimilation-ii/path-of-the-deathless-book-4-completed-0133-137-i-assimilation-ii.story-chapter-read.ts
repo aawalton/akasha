@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0133137IAssimilationIi = {
   position: 133,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2631911/137-i-assimilation-ii",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2631911/137-i-assimilation-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

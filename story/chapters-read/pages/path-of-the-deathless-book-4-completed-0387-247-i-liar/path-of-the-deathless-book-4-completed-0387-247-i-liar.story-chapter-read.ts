@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0387247ILiar = {
   position: 387,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2893358/247-i-liar",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2893358/247-i-liar",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

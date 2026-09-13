@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0289199IiCapital = {
   position: 289,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2775498/199-ii-capital",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2775498/199-ii-capital",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

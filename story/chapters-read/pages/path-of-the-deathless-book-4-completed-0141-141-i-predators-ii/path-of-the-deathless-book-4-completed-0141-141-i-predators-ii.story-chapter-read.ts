@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0141141IPredatorsIi = {
   position: 141,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2638791/141-i-predators-ii",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2638791/141-i-predators-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed003891IDeliberate = {
   position: 38,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2544377/91-i-deliberate",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2544377/91-i-deliberate",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

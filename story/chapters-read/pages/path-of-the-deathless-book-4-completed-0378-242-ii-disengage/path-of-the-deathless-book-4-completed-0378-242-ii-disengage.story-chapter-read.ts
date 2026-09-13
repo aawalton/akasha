@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0378242IiDisengage = {
   position: 378,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2880436/242-ii-disengage",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2880436/242-ii-disengage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

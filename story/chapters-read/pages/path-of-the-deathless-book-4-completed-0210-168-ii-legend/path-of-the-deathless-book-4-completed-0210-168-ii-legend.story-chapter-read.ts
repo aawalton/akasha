@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0210168IiLegend = {
   position: 210,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2699323/168-ii-legend",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2699323/168-ii-legend",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0183158IGrievanceI = {
   position: 183,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2674131/158-i-grievance-i",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2674131/158-i-grievance-i",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

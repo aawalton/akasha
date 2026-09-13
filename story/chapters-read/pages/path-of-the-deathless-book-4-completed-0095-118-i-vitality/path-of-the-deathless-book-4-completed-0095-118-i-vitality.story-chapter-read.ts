@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0095118IVitality = {
   position: 95,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2600257/118-i-vitality",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2600257/118-i-vitality",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

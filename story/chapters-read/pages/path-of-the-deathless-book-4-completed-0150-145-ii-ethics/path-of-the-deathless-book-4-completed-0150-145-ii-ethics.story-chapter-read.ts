@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0150145IiEthics = {
   position: 150,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2646648/145-ii-ethics",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2646648/145-ii-ethics",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

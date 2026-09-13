@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed00033Festival = {
   position: 3,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2390677/3-festival",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2390677/3-festival",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

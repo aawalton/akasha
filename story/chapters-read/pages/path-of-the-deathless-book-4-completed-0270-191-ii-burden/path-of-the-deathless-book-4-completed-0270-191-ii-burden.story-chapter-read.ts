@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0270191IiBurden = {
   position: 270,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2756047/191-ii-burden",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2756047/191-ii-burden",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

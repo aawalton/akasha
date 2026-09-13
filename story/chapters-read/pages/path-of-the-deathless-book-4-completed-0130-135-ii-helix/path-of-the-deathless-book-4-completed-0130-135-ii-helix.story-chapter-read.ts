@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0130135IiHelix = {
   position: 130,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2629166/135-ii-helix",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2629166/135-ii-helix",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

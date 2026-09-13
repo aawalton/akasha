@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed004293IReinforce = {
   position: 42,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2550016/93-i-reinforce",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2550016/93-i-reinforce",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

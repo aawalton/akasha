@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0330219IHeartbreak = {
   position: 330,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2816016/219-i-heartbreak",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2816016/219-i-heartbreak",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0360233IRage = {
   position: 360,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2859544/233-i-rage",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2859544/233-i-rage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

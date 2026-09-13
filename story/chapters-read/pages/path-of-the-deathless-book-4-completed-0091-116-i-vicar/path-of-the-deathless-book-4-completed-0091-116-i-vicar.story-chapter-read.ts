@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0091116IVicar = {
   position: 91,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2596116/116-i-vicar",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2596116/116-i-vicar",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

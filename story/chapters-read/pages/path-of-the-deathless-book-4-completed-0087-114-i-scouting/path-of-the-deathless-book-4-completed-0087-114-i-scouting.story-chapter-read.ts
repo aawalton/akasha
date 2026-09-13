@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0087114IScouting = {
   position: 87,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2593279/114-i-scouting",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2593279/114-i-scouting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

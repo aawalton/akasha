@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0373239CancerIi = {
   position: 373,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2877139/239-cancer-ii",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2877139/239-cancer-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

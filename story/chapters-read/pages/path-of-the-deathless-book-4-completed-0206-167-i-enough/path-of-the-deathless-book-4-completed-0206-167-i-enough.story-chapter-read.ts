@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0206167IEnough = {
   position: 206,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2694294/167-i-enough",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2694294/167-i-enough",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

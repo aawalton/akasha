@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed00011Pathless = {
   position: 1,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2390285/1-pathless",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2390285/1-pathless",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

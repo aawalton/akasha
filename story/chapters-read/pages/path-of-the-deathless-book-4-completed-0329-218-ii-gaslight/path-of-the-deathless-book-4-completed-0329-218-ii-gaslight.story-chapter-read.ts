@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0329218IiGaslight = {
   position: 329,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2813435/218-ii-gaslight",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2813435/218-ii-gaslight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

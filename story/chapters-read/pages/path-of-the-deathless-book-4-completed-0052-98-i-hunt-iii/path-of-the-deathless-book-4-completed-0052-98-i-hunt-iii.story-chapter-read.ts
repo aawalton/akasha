@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed005298IHuntIii = {
   position: 52,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2561393/98-i-hunt-iii",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2561393/98-i-hunt-iii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0369237CoverUpI = {
   position: 369,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2871575/237-cover-up-i",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2871575/237-cover-up-i",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

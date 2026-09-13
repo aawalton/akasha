@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0127134IMonstrosity = {
   position: 127,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2626560/134-i-monstrosity",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2626560/134-i-monstrosity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

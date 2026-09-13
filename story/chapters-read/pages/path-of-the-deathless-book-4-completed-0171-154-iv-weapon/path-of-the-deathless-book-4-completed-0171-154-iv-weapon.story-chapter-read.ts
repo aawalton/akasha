@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0171154IvWeapon = {
   position: 171,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2664235/154-iv-weapon",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2664235/154-iv-weapon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

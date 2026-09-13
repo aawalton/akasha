@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0191161IOverwhelmed = {
   position: 191,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2681459/161-i-overwhelmed",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2681459/161-i-overwhelmed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

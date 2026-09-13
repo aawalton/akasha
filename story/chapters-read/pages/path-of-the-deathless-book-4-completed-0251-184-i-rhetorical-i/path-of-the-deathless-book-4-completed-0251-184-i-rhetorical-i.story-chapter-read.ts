@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0251184IRhetoricalI = {
   position: 251,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2738601/184-i-rhetorical-i",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2738601/184-i-rhetorical-i",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

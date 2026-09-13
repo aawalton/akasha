@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0268190IiAnticipateIi = {
   position: 268,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2755500/190-ii-anticipate-ii",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2755500/190-ii-anticipate-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

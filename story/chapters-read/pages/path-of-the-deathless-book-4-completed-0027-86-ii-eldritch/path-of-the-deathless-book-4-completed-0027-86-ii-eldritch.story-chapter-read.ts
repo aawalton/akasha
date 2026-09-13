@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed002786IiEldritch = {
   position: 27,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2534285/86-ii-eldritch",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2534285/86-ii-eldritch",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

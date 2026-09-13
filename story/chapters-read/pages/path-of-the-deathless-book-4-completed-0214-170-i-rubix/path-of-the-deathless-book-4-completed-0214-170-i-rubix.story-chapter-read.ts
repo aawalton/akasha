@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0214170IRubix = {
   position: 214,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2704447/170-i-rubix",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2704447/170-i-rubix",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

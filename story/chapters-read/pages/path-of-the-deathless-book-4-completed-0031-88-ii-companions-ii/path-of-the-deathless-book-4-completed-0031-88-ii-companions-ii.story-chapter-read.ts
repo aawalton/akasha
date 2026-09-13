@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed003188IiCompanionsIi = {
   position: 31,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2537034/88-ii-companions-ii",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2537034/88-ii-companions-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

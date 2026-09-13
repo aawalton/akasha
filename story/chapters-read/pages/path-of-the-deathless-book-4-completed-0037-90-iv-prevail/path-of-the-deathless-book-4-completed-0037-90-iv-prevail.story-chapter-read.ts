@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed003790IvPrevail = {
   position: 37,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2542336/90-iv-prevail",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2542336/90-iv-prevail",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
