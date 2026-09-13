@@ -9,7 +9,7 @@ export const rule263273e9 = {
   destination: "house-storage:4677",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "scrolls",
-  displayOrder: 34,
+  displayOrder: 35,
   action: "move-to",
   active: true,
   updatedAt: "2026-06-01T22:02:02.448Z",
