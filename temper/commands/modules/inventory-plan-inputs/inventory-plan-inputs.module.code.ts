@@ -16,6 +16,7 @@ import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules
 import type { ClassifiedInventoryItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type { ItemRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { RuleMatcherContext } from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+import { luaStringsOrEmpty } from "akasha/temper/saved-variables/modules/lua-array/lua-array.module.code.ts"
 
 export const DEFAULT_INVENTORY_PATH = savedVarsFile("TemperInventory.lua")
 export const DEFAULT_CHARACTERS_PATH = savedVarsFile("TemperCharacters.lua")
@@ -132,19 +133,10 @@ function compileWantedConsumablesFromConfig(
   for (const [itemIdStr, value] of Object.entries(wanted)) {
     const itemId = Number(itemIdStr)
     if (!Number.isFinite(itemId)) continue
-    const charIds = toStringArray(value)
+    const charIds = luaStringsOrEmpty(value)
     if (charIds.length > 0) out.set(itemId, [...charIds])
   }
   return out
-}
-
-function toStringArray(value: unknown): readonly string[] {
-  const raw = Array.isArray(value)
-    ? value
-    : typeof value === "object" && value !== null
-      ? Object.values(value)
-      : []
-  return raw.filter((one): one is string => typeof one === "string")
 }
 
 function compileConsumableStock(

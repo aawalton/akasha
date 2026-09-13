@@ -5,6 +5,7 @@ import type { InventoryDatabase } from "akasha/temper/items-core/modules/invento
 import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
 import type { ItemKey } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 import type { EvalEnv } from "akasha/temper/items-rules-eval/modules/eval-env/eval-env.module.code.ts"
+import { luaStringsOrEmpty } from "akasha/temper/saved-variables/modules/lua-array/lua-array.module.code.ts"
 import { skillLines } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
@@ -101,12 +102,7 @@ function compileConsumableWanters(
   for (const [itemIdKey, value] of Object.entries(wanted)) {
     const itemId = Number(itemIdKey)
     if (!Number.isFinite(itemId)) continue
-    const charIds = Array.isArray(value)
-      ? value
-      : typeof value === "object" && value !== null
-        ? Object.values(value)
-        : []
-    const named = charIds.filter((one): one is string => typeof one === "string")
+    const named = luaStringsOrEmpty(value)
     if (named.length > 0) result.set(itemId, named)
   }
   return result

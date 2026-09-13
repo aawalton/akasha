@@ -4,7 +4,7 @@ export const luaArray = {
   id: "01a06053-3636-7157-ade2-a72c0d19b41c",
   type: "module",
   slug: "lua-array",
-  definition: "a schema reading a Lua list the file may have written keyed or unkeyed",
+  definition: "reading a Lua list the file may have written keyed or unkeyed",
   code: "ts",
   invariants: [
     {
@@ -18,6 +18,10 @@ export const luaArray = {
     {
       invariantKind: "constraint",
       statement: "One item failing fails the whole list.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value that is neither a list nor a record reads as an empty list.",
     },
   ],
 } as const satisfies Module

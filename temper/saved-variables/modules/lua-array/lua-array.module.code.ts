@@ -1,5 +1,14 @@
 import { z } from "zod"
 
+export function luaStringsOrEmpty(value: unknown): readonly string[] {
+  const raw = Array.isArray(value)
+    ? value
+    : typeof value === "object" && value !== null
+      ? Object.values(value)
+      : []
+  return raw.filter((one): one is string => typeof one === "string")
+}
+
 export function luaArrayOrEmpty<T extends z.ZodTypeAny>(itemSchema: T): z.ZodType<z.infer<T>[]> {
   return z.union([z.array(itemSchema), z.record(z.string(), z.unknown())]).transform((raw, ctx) => {
     if (Array.isArray(raw)) return raw
