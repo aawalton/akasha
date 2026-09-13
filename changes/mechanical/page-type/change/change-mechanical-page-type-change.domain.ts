@@ -5,7 +5,7 @@ export const changeMechanicalPageTypeChange = {
   type: "domain",
   slug: "change-mechanical-page-type-change",
   definition: "a mechanical change stating a page type's declaration of one property anew",
-  parts: [],
+  parts: ["change-mechanical-page-type/change-property-on-page-type"],
   invariants: [
     {
       invariantKind: "departure",
