@@ -10,6 +10,7 @@ import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.m
 import {
   sparedIn,
   unreachedIn,
+  writingGroupsIn,
 } from "akasha/checks/code-checks/pages/no-unused-exports/no-unused-exports.code-check.decision.code.ts"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 
@@ -19,13 +20,18 @@ const MOST = "most"
 
 const BUT = "but"
 
-function surplusIn(world: World, pageTypes: ReadonlySet<string>, path: string): readonly string[] {
+function surplusIn(
+  world: World,
+  pageTypes: ReadonlySet<string>,
+  groups: ReadonlySet<string>,
+  path: string
+): readonly string[] {
   const text = world.textOf(path)
   if (text === null) return []
   const found = unreachedIn(
     path,
     text,
-    sparedIn(path, pageTypes, world.textOf),
+    sparedIn(path, pageTypes, groups, world.textOf),
     world.index.importersOf(path),
     world.textOf
   )
@@ -39,11 +45,12 @@ export async function removeUnusedExportKeywords(
   but: ReadonlySet<string> = new Set()
 ): Promise<Answer> {
   const pageTypes = world.index.pageTypesIn()
+  const groups = writingGroupsIn(world.index)
   const answers: Answer[] = []
   for (const path of [...world.index.everyPath()].sort()) {
     if (answers.length >= most) break
     if (!typed(path) || but.has(path)) continue
-    const names = surplusIn(world, pageTypes, path)
+    const names = surplusIn(world, pageTypes, groups, path)
     if (names.length === 0) continue
     answers.push((await reach(world, DROP, { at: path, names })).said)
   }

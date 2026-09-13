@@ -6,8 +6,10 @@ import {
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { typeScripted } from "akasha/code/bodies/modules/file-kind/file-kind.module.code.ts"
+import { groupsIn } from "akasha/code/module-property-groups/modules/group-writing/group-writing.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { landingOf } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
+import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import {
@@ -80,6 +82,18 @@ const PAGE_TYPE = "page-type"
 const GENERATOR = "type-generator"
 
 const GENERATED: ReadonlySet<string> = new Set(["couldTurn", "generateTypes"])
+
+const RULE = "syntax-rule"
+
+const MARK = "mark"
+
+const SHAPE = "folder-shape"
+
+const HOLDS = "HOLDS"
+
+const CODE = "code"
+
+const WRITES = "bodyIn"
 
 const ROOT_ROUTE = "root.tsx"
 
@@ -236,13 +250,26 @@ function reachedBeside(said: Parted): ReadonlySet<string> | null {
   if (besideCode(said, PERFORMANCE)) return new Set([MEASURED])
   if (besideCode(said, MODEL_TEST)) return new Set([ASKING, KEEPING, exportedAs(said.slug)])
   if (besideProperty(said, PAGE_TYPE, GENERATOR)) return GENERATED
+  if (besideCode(said, RULE)) return new Set([MARK, exportedAs(said.slug)])
+  if (besideCode(said, SHAPE)) return new Set([HOLDS, exportedAs(said.slug)])
   if (besideCode(said, COMMAND) || besideCode(said, CHECK)) return new Set([exportedAs(said.slug)])
   return null
+}
+
+function groupCoded(said: Parted, groups: ReadonlySet<string>): boolean {
+  if (said.sections.length !== 2 || said.sections[1] !== CODE) return false
+  const group = said.sections[0]
+  return group !== undefined && groups.has(group)
+}
+
+export function writingGroupsIn(index: Answering): ReadonlySet<string> {
+  return new Set(groupsIn(index).map((one) => one.slug))
 }
 
 export function sparedIn(
   path: string,
   pageTypes: ReadonlySet<string>,
+  groups: ReadonlySet<string>,
   bodyOf: Bodied
 ): ReadonlySet<string> {
   const said = partedIn(path)
@@ -254,6 +281,7 @@ export function sparedIn(
   if (lua !== null) return new Set([lua])
   const beside = reachedBeside(said)
   if (beside !== null) return beside
+  if (groupCoded(said, groups)) return new Set([WRITES])
   return pageNamed(path, pageTypes) ? new Set([exportedAs(said.slug)]) : NOTHING
 }
 
@@ -333,12 +361,13 @@ function reasonsFor(
 
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
   const pageTypes = pageTypesFor(shadow)
+  const groups = writingGroupsIn(shadow.index)
   const judged: Judged[] = []
   for (const path of change.changed) {
     if (!typeScripted(path)) continue
     const text = textIn(change, path)
     if (text === null) continue
-    const spared = sparedIn(path, pageTypes, (at) => textIn(change, at))
+    const spared = sparedIn(path, pageTypes, groups, (at) => textIn(change, at))
     for (const reason of reasonsFor(path, text, change, shadow, spared)) {
       judged.push({ path, reason })
     }

@@ -161,6 +161,24 @@ export const noUnusedExports = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The `mark` and the name made from a syntax rule's slug are reached by its loader.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The `HOLDS` and the name made from a folder shape's slug are reached by its loader.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The `bodyIn` a group's code exports is reached by the group writing its file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which groups write a file is read from the index rather than listed here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A route's code, a root route and an app layout are route modules.",
     },
     {

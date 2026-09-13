@@ -24,6 +24,7 @@ const READER_TEXT =
 
 function worldOver(held: Readonly<Record<string, string>>, importers: readonly string[]): World {
   const index = {
+    everyOfType: () => [],
     everyPath: () => Object.keys(held),
     importersOf: () => importers,
     pageTypesIn: () => new Set<string>(),

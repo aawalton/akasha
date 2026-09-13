@@ -21,6 +21,7 @@ import {
   GENERATOR_TEXT,
   GUARD_AT,
   GUARD_TEXT,
+  grouped,
   HELD_TEXT,
   importedAt,
   importedBy,
@@ -44,11 +45,15 @@ import {
   ROOT_TEXT,
   ROUTE_AT,
   ROUTE_TEXT,
+  RULE_AT,
+  RULE_TEXT,
   readerText,
   reading,
   rooted,
   SERVICE_AT,
   SERVICE_TEXT,
+  SHAPE_AT,
+  SHAPE_TEXT,
   SPELLED,
   scratch,
   TUNNEL_AT,
@@ -56,6 +61,8 @@ import {
   takenText,
   WORK_AT,
   WORK_TEXT,
+  WRITING_AT,
+  WRITING_TEXT,
 } from "akasha/checks/code-checks/pages/no-unused-exports/no-unused-exports.code-check.decision.test-fixtures.ts"
 import {
   judgingBy,
@@ -264,6 +271,44 @@ test("the name made from a check's slug is spared in that check's code", () => {
 
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("`spare`")
+})
+
+test("the `mark` and the name made from a syntax rule's slug are spared in its code", () => {
+  const said = judging(landing(rooted(), { [RULE_AT]: bytesOf(RULE_TEXT) })).map(
+    (one) => one.reason
+  )
+
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`spare`")
+})
+
+test("the `HOLDS` and the name made from a folder shape's slug are spared in its code", () => {
+  const said = judging(landing(rooted(), { [SHAPE_AT]: bytesOf(SHAPE_TEXT) })).map(
+    (one) => one.reason
+  )
+
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`spare`")
+})
+
+test("the `bodyIn` a writing group's code exports is spared and another beside it is judged", () => {
+  const root = rooted()
+  grouped(root)
+
+  const said = judging(landing(root, { [WRITING_AT]: bytesOf(WRITING_TEXT) })).map(
+    (one) => one.reason
+  )
+
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`spare`")
+})
+
+test("the `bodyIn` a file exports under a group that writes no file is judged", () => {
+  const said = judging(landing(rooted(), { [WRITING_AT]: bytesOf(WRITING_TEXT) })).map(
+    (one) => one.reason
+  )
+
+  expect(said).toHaveLength(2)
 })
 
 test("the `work` a computed property's code exports is spared", () => {

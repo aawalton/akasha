@@ -1,4 +1,5 @@
 import {
+  edging,
   founded,
   pathFor,
   put,
@@ -7,6 +8,7 @@ import {
 import {
   importFiled,
   noImportersFiled,
+  pageFilingFrom,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
@@ -56,6 +58,24 @@ export const SERVICE_TEXT = "export const runService = (): number => 1\n\nexport
 export const CHECK_AT = "akasha/held-thing.code-check.check.code.ts"
 
 export const CHECK_TEXT = "export const heldThing = (): number => 1\n\nexport const spare = 2\n"
+
+export const RULE_AT = "akasha/held-thing.syntax-rule.code.ts"
+
+export const RULE_TEXT =
+  "export const heldThing = (): number => 1\n" +
+  "export const mark = (): boolean => true\n\n" +
+  "export const spare = 2\n"
+
+export const SHAPE_AT = "akasha/held-thing.folder-shape.code.ts"
+
+export const SHAPE_TEXT =
+  "export const heldThing = (): number => 1\n" +
+  'export const HOLDS = ["held"]\n\n' +
+  "export const spare = 2\n"
+
+export const WRITING_AT = "akasha/held.shell-script.scripting.code.ts"
+
+export const WRITING_TEXT = 'export const bodyIn = (): string => ""\n\nexport const spare = 2\n'
 
 export const GENERATOR_AT = "akasha/held.page-type.type-generator.ts"
 
@@ -110,6 +130,22 @@ export const ROUTE_TEXT =
 export const ROOT_TEXT =
   "export function Layout(): number {\n  return 1\n}\n\nexport const spare = 2\n"
 
+const GROUP = "module-property-group"
+
+const GROUP_SLUG = "scripting"
+
+const GROUP_PAGE_AT = `akasha/${GROUP_SLUG}.${GROUP}.ts`
+
+const WRITER = "code-file-property"
+
+const WRITER_SLUG = "shell"
+
+const WRITER_PAGE_AT = `akasha/${WRITER_SLUG}.${WRITER}.ts`
+
+const WRITES = "file-written-by"
+
+const MINTED_FROM = "01a0927a-1000-7001-8000-0000000000"
+
 export const scratch = scratchWorld()
 
 export function rooted(): string {
@@ -123,6 +159,9 @@ export function rooted(): string {
   typed(root, "service-workstation", "domain")
   typed(root, "test-fixture", "domain")
   typed(root, "code-check", "domain")
+  typed(root, "syntax-rule", "domain")
+  typed(root, "folder-shape", "domain")
+  typed(root, "shell-script", "domain")
   typed(root, "manifest", "domain")
   typed(root, "performance", "domain")
   typed(root, "model-test", "domain")
@@ -133,6 +172,17 @@ export function rooted(): string {
 
 export function lualibPaged(root: string): undefined {
   put(root, LUA_PAGE_AT, bytesOf(LUA_PAGE_TEXT))
+}
+
+export function grouped(root: string): undefined {
+  const filing = pageFilingFrom(root, MINTED_FROM)
+  const group = filing(GROUP, GROUP_SLUG, GROUP_PAGE_AT, { pageTypeSlug: GROUP, slug: GROUP_SLUG })
+  const writer = filing(WRITER, WRITER_SLUG, WRITER_PAGE_AT, {
+    pageTypeSlug: WRITER,
+    slug: WRITER_SLUG,
+    propertySlug: WRITER_SLUG,
+  })
+  edging(root, group, WRITES, writer, WRITER_PAGE_AT)
 }
 
 export function importedAt(root: string, at: string, paths: readonly string[]): undefined {
