@@ -14,7 +14,7 @@ import {
   TabsContent,
   TabsList,
 } from "akasha/design/interfaces/patterns/modules/tabs/tabs.module.code.tsx"
-import { useFilterPersistence } from "akasha/design/interfaces/patterns/use-filter-persistence/use-filter-persistence.module.code.ts"
+import { useFilterPersistence } from "akasha/design/interfaces/patterns/modules/use-filter-persistence/use-filter-persistence.module.code.ts"
 import {
   type ActiveStatusFilter,
   type FilterValues,

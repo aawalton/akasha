@@ -15,12 +15,12 @@ import type {
   ItemAction,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { planStockChainVisit } from "akasha/temper/items-rules-core/modules/stock-chain-visit/stock-chain-visit.module.code.ts"
-import { planUseDestinationsForStack } from "akasha/temper/items-rules-core/use-destination-resolver/use-destination-resolver.module.code.ts"
+import { planUseDestinationsForStack } from "akasha/temper/items-rules-core/modules/use-destination-resolver/use-destination-resolver.module.code.ts"
 import {
   type CharacterId,
   characterId,
   type ItemKey,
-} from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 
 const FLAT_STOCK_SURPLUS_SINK = "bank"
 

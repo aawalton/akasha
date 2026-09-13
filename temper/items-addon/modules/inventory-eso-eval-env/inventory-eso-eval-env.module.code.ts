@@ -14,7 +14,7 @@ import { buildGetCharacterSkillLineRanks } from "akasha/temper/items-addon/modul
 import { canCharacterLevelMorphs } from "akasha/temper/items-addon/modules/inventory-skill-morphs-progress/inventory-skill-morphs-progress.module.code.ts"
 import { getTemperCharactersData } from "akasha/temper/items-addon/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
 import { signatureMatchesItem } from "akasha/temper/items-core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
-import type { ItemKey } from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
+import type { ItemKey } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 import type { EvalEnv } from "akasha/temper/items-rules-eval/modules/eval-env/eval-env.module.code.ts"
 import { asObjectRecord } from "akasha/utils/narrow/modules/as-object-record/as-object-record.module.code.ts"
 

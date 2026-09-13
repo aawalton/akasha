@@ -3,7 +3,7 @@ import type { StockDestinationContext } from "akasha/temper/items-rules-core/mod
 import {
   type CharacterId,
   characterId,
-} from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 
 export function buildStockDestinationContext(context: RuleMatcherContext): StockDestinationContext {
   const readOne = (itemId: number, charId: CharacterId): number => {

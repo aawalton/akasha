@@ -15,7 +15,7 @@ import {
   useKeyboardBinding,
   useKeyboardBindingDescriptors,
   useShortcutsEnabled,
-} from "akasha/design/interfaces/primitives/use-keyboard-registry/use-keyboard-registry.module.code.ts"
+} from "akasha/design/interfaces/primitives/modules/use-keyboard-registry/use-keyboard-registry.module.code.ts"
 import type * as React from "react"
 import { useEffect, useRef, useState } from "react"
 

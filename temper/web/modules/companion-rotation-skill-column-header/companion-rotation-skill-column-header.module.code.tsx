@@ -18,7 +18,7 @@ import { CompanionSkillSelectDialog } from "akasha/temper/web/modules/companion-
 import {
   useCompanion,
   useCompanionActions,
-} from "akasha/temper/web/use-companion/use-companion.module.code.ts"
+} from "akasha/temper/web/modules/use-companion/use-companion.module.code.ts"
 import { Plus } from "lucide-react"
 import { useState } from "react"
 

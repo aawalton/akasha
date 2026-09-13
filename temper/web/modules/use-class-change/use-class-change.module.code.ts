@@ -9,7 +9,7 @@ import {
   useCharacter,
   useCharacterActions,
   useCharacterMetadata,
-} from "akasha/temper/web/use-character/use-character.module.code.ts"
+} from "akasha/temper/web/modules/use-character/use-character.module.code.ts"
 import { useState } from "react"
 
 export function useClassChangeWithContext() {

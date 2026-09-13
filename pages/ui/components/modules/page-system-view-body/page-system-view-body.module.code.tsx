@@ -4,7 +4,7 @@ import { createGenericLayout } from "akasha/design/interfaces/layout/modules/col
 import { LoadMoreButton } from "akasha/design/interfaces/layout/modules/load-more-button/load-more-button.module.code.tsx"
 import { ResponsiveColumnsSkeleton } from "akasha/design/interfaces/layout/modules/responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"
 import { CollapsibleGroupSection } from "akasha/design/interfaces/patterns/modules/collapsible-group-section/collapsible-group-section.module.code.tsx"
-import type { useCollapsedGroups } from "akasha/design/interfaces/patterns/use-collapsed-groups/use-collapsed-groups.module.code.ts"
+import type { useCollapsedGroups } from "akasha/design/interfaces/patterns/modules/use-collapsed-groups/use-collapsed-groups.module.code.ts"
 import { PageBoard } from "akasha/pages/ui/components/modules/page-board/page-board.module.code.tsx"
 import { PageCalendar } from "akasha/pages/ui/components/modules/page-calendar/page-calendar.module.code.tsx"
 import { PageListSection } from "akasha/pages/ui/components/modules/page-list-section/page-list-section.module.code.tsx"
@@ -17,8 +17,8 @@ import {
   TimelineLayoutBody,
 } from "akasha/pages/ui/components/modules/page-system-view-helpers/page-system-view-helpers.module.code.tsx"
 import type { withColumnWidths } from "akasha/pages/ui/components/modules/page-table-widths/page-table-widths.module.code.ts"
-import type { useBoardViewWiring } from "akasha/pages/ui/components/use-board-view-wiring/use-board-view-wiring.module.code.ts"
-import type { useCalendarViewWiring } from "akasha/pages/ui/components/use-calendar-view-wiring/use-calendar-view-wiring.module.code.ts"
+import type { useBoardViewWiring } from "akasha/pages/ui/components/modules/use-board-view-wiring/use-board-view-wiring.module.code.ts"
+import type { useCalendarViewWiring } from "akasha/pages/ui/components/modules/use-calendar-view-wiring/use-calendar-view-wiring.module.code.ts"
 import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import type { Dispatch, SetStateAction } from "react"
 

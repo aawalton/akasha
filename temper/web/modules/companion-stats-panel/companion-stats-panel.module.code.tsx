@@ -21,8 +21,8 @@ import {
 } from "akasha/temper/web/modules/companion-stats-panel-state/companion-stats-panel-state.module.code.ts"
 import { CompanionSuggestionsPanelCard } from "akasha/temper/web/modules/companion-suggestions-panel-card/companion-suggestions-panel-card.module.code.tsx"
 import { CompanionSurplusPanelCard } from "akasha/temper/web/modules/companion-surplus-panel-card/companion-surplus-panel-card.module.code.tsx"
-import { useCompanion } from "akasha/temper/web/use-companion/use-companion.module.code.ts"
-import { useCompanionStats } from "akasha/temper/web/use-companion-stats/use-companion-stats.module.code.ts"
+import { useCompanion } from "akasha/temper/web/modules/use-companion/use-companion.module.code.ts"
+import { useCompanionStats } from "akasha/temper/web/modules/use-companion-stats/use-companion-stats.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import { type ReactNode, useMemo, useState } from "react"
 

@@ -19,7 +19,7 @@ import { parseInlineTokens } from "akasha/pages/ui/components/quick-add/modules/
 import {
   type InlineCompletionSource,
   useInlineCompletion,
-} from "akasha/pages/ui/components/quick-add/use-inline-completion/use-inline-completion.module.code.ts"
+} from "akasha/pages/ui/components/quick-add/modules/use-inline-completion/use-inline-completion.module.code.ts"
 import type { PageWithProperties } from "akasha/pages/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import { useMemo, useRef, useState } from "react"
 

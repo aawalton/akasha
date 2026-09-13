@@ -2,7 +2,7 @@
 
 import type { RichDocument } from "akasha/pages/core/property-types/modules/rich-document/rich-document.module.code.ts"
 import { flattenBlockIds } from "akasha/pages/core/property-types/modules/rich-document-tree/rich-document-tree.module.code.ts"
-import type { FocusCaret } from "akasha/pages/ui/block-editor/use-block-keys/use-block-keys.module.code.ts"
+import type { FocusCaret } from "akasha/pages/ui/block-editor/modules/use-block-keys/use-block-keys.module.code.ts"
 import { type RefObject, useCallback, useEffect, useRef } from "react"
 
 function caretOffset(caret: FocusCaret, length: number): number {

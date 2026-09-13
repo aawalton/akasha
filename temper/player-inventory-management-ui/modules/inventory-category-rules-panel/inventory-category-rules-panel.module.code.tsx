@@ -20,7 +20,7 @@ import { ResetBadge } from "akasha/temper/player-inventory-management-ui/modules
 import type { InventoryRulesHandlers } from "akasha/temper/player-inventory-management-ui/modules/inventory-rules-handlers/inventory-rules-handlers.module.code.ts"
 import { RuleBulkActionBadge } from "akasha/temper/player-inventory-management-ui/modules/rule-bulk-action-badge/rule-bulk-action-badge.module.code.tsx"
 import { RuleCard } from "akasha/temper/player-inventory-management-ui/modules/rule-card/rule-card.module.code.tsx"
-import type { DestinationOptions } from "akasha/temper/player-inventory-management-ui/use-destination-options/use-destination-options.module.code.ts"
+import type { DestinationOptions } from "akasha/temper/player-inventory-management-ui/modules/use-destination-options/use-destination-options.module.code.ts"
 import { Plus } from "lucide-react"
 import { useCallback, useState } from "react"
 

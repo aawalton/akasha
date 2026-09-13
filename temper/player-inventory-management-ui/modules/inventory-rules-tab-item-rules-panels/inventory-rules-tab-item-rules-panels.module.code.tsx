@@ -14,7 +14,7 @@ import type {
 } from "akasha/temper/player-inventory-management-ui/modules/inventory-filter-types/inventory-filter-types.module.code.ts"
 import { ItemRulesPanel } from "akasha/temper/player-inventory-management-ui/modules/inventory-item-rules-panel/inventory-item-rules-panel.module.code.tsx"
 import type { InventoryRulesHandlers } from "akasha/temper/player-inventory-management-ui/modules/inventory-rules-handlers/inventory-rules-handlers.module.code.ts"
-import type { DestinationOptions } from "akasha/temper/player-inventory-management-ui/use-destination-options/use-destination-options.module.code.ts"
+import type { DestinationOptions } from "akasha/temper/player-inventory-management-ui/modules/use-destination-options/use-destination-options.module.code.ts"
 import type * as React from "react"
 
 interface RulePartition {

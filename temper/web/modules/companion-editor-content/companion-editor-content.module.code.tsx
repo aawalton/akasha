@@ -6,7 +6,7 @@ import { PageTabHeader } from "akasha/design/interfaces/layout/modules/page-tab-
 import { PanelToggleProvider } from "akasha/design/interfaces/layout/modules/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import { editorPageSkeleton } from "akasha/design/interfaces/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
-import { useColumnCount } from "akasha/design/interfaces/layout/use-column-count/use-column-count.module.code.tsx"
+import { useColumnCount } from "akasha/design/interfaces/layout/modules/use-column-count/use-column-count.module.code.tsx"
 import {
   PageTabsTrigger,
   Tabs,
@@ -22,9 +22,9 @@ import type { CompanionState } from "akasha/temper/companions-core/modules/compa
 import {
   useCompanionLifecycle,
   useCompanionList,
-} from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
+} from "akasha/temper/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
-import { useCompletionCompanions } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
+import { useCompletionCompanions } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
 import { CompanionAutomationPanelCard } from "akasha/temper/web/modules/companion-automation-panel-card/companion-automation-panel-card.module.code.tsx"
 import { CompanionEditorHeader } from "akasha/temper/web/modules/companion-editor-header/companion-editor-header.module.code.tsx"
@@ -41,10 +41,10 @@ import {
   useCompanion,
   useCompanionActions,
   useCompanionMetadata,
-} from "akasha/temper/web/use-companion/use-companion.module.code.ts"
-import { useCompanionPartnerBuildUrl } from "akasha/temper/web/use-companion-partner-build-url/use-companion-partner-build-url.module.code.ts"
-import { useCompanionSetTarget } from "akasha/temper/web/use-companion-set-target/use-companion-set-target.module.code.ts"
-import { useCompanionUpdate } from "akasha/temper/web/use-companion-update/use-companion-update.module.code.ts"
+} from "akasha/temper/web/modules/use-companion/use-companion.module.code.ts"
+import { useCompanionPartnerBuildUrl } from "akasha/temper/web/modules/use-companion-partner-build-url/use-companion-partner-build-url.module.code.ts"
+import { useCompanionSetTarget } from "akasha/temper/web/modules/use-companion-set-target/use-companion-set-target.module.code.ts"
+import { useCompanionUpdate } from "akasha/temper/web/modules/use-companion-update/use-companion-update.module.code.ts"
 import { BarChart3, Info, ShieldHalf, Swords, User } from "lucide-react"
 import { useEffect, useState } from "react"
 import { toast } from "sonner"

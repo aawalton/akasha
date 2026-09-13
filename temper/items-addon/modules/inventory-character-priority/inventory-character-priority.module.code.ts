@@ -2,7 +2,7 @@ import { getCompiledConfig } from "akasha/temper/items-addon/modules/inventory-r
 import {
   type CharacterId,
   characterId,
-} from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 export function buildCompiledCharacterPriority(
   currentChar: CharacterId
 ): ReadonlyArray<CharacterId> {

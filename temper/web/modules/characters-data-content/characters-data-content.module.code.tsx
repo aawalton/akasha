@@ -30,9 +30,9 @@ import { applyCharacterMetadata } from "akasha/temper/build-metadata/modules/bui
 import {
   useAllCharacterList,
   useCharacterLifecycle,
-} from "akasha/temper/characters-character-ui/use-characters/use-characters.module.code.ts"
+} from "akasha/temper/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
-import { useCompletionCharactersByUser } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
+import { useCompletionCharactersByUser } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import type { TabValue } from "akasha/temper/web/modules/build-page-tab/build-page-tab.module.code.ts"
 import {
   BuildsBrowseTab,

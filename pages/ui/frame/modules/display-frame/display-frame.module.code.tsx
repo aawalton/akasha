@@ -3,7 +3,7 @@
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import type { FrameConfig } from "akasha/pages/core/schema/modules/detail-config/detail-config.module.code.ts"
-import { useChromeToggle } from "akasha/pages/ui/components/use-chrome-toggle/use-chrome-toggle.module.code.ts"
+import { useChromeToggle } from "akasha/pages/ui/components/modules/use-chrome-toggle/use-chrome-toggle.module.code.ts"
 import {
   frameFollowMode,
   frameSupportsFocusMode,
@@ -14,7 +14,7 @@ import {
   type FrameHeader,
   FrameStickyHeader,
 } from "akasha/pages/ui/frame/modules/frame-sticky-header/frame-sticky-header.module.code.tsx"
-import { useFollowAnchor } from "akasha/pages/ui/frame/use-follow-anchor/use-follow-anchor.module.code.ts"
+import { useFollowAnchor } from "akasha/pages/ui/frame/modules/use-follow-anchor/use-follow-anchor.module.code.ts"
 import { ArrowDown } from "lucide-react"
 import { type ReactNode, type RefObject, useCallback } from "react"
 

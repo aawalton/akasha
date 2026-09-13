@@ -12,7 +12,7 @@ import type {
 import { CharacterTargetSelect } from "akasha/temper/player-inventory-management-ui/modules/character-target-select/character-target-select.module.code.tsx"
 import { DestinationCascade } from "akasha/temper/player-inventory-management-ui/modules/destination-cascade/destination-cascade.module.code.tsx"
 import { RuleCardDestinationTierEligibility } from "akasha/temper/player-inventory-management-ui/modules/rule-card-destination-tier-eligibility/rule-card-destination-tier-eligibility.module.code.tsx"
-import type { DestinationOptions } from "akasha/temper/player-inventory-management-ui/use-destination-options/use-destination-options.module.code.ts"
+import type { DestinationOptions } from "akasha/temper/player-inventory-management-ui/modules/use-destination-options/use-destination-options.module.code.ts"
 import { ArrowDown, ArrowUp, ChevronRight, Trash2 } from "lucide-react"
 
 interface RuleCardDestinationTierProps {

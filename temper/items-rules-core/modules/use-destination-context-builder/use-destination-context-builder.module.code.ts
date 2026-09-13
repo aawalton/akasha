@@ -17,7 +17,7 @@ import {
   characterId,
   type ItemKey,
   type UseDestinationContext,
-} from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export function inventoryItemUseKey(

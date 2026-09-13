@@ -5,7 +5,7 @@ import { PagesFilteredContent } from "akasha/pages/ui/components/modules/pages-b
 import { toPageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { CharactersPageContent } from "akasha/temper/web/modules/characters-page-content/characters-page-content.module.code.tsx"
 import { CompanionsPageContent } from "akasha/temper/web/modules/companions-page-content/companions-page-content.module.code.tsx"
-import { useImportErrorToast } from "akasha/temper/web/use-import-error-toast/use-import-error-toast.module.code.ts"
+import { useImportErrorToast } from "akasha/temper/web/modules/use-import-error-toast/use-import-error-toast.module.code.ts"
 import { Suspense } from "react"
 import { data, useSearchParams } from "react-router"
 

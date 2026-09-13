@@ -7,7 +7,7 @@ import {
 } from "akasha/alan/web/modules/alan-nav-items/alan-nav-items.module.code.ts"
 import type { AppNavItem } from "akasha/design/interfaces/layout/modules/nav-types/nav-types.module.code.ts"
 import { PALETTE_ONLY } from "akasha/design/interfaces/primitives/modules/keyboard-registry/keyboard-registry.module.code.ts"
-import { useKeyboardBinding } from "akasha/design/interfaces/primitives/use-keyboard-registry/use-keyboard-registry.module.code.ts"
+import { useKeyboardBinding } from "akasha/design/interfaces/primitives/modules/use-keyboard-registry/use-keyboard-registry.module.code.ts"
 import { useNavCommandBindings } from "akasha/pages/ui/components/use-nav-command-bindings/use-nav-command-bindings.module.code.ts"
 import { useNavigate } from "react-router"
 

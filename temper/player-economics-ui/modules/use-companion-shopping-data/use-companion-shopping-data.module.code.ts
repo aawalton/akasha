@@ -8,13 +8,13 @@ import {
   companions,
   getCompanionName,
 } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
-import { useAllCompanionList } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
+import { useAllCompanionList } from "akasha/temper/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import {
   type CompanionGearNeed,
   computeAllGearNeeds,
 } from "akasha/temper/items-core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"
-import { useCompletionCompanions } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
+import { useCompletionCompanions } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import {
   type BlendedPriceKey,
   buildBlendedPriceMap,

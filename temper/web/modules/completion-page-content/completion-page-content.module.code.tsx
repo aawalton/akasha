@@ -16,8 +16,8 @@ import {
   TabsList,
 } from "akasha/design/interfaces/patterns/modules/tabs/tabs.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
-import { useDebouncedValue } from "akasha/design/interfaces/primitives/use-debounced-value/use-debounced-value.module.code.ts"
-import { useKeyboardBinding } from "akasha/design/interfaces/primitives/use-keyboard-registry/use-keyboard-registry.module.code.ts"
+import { useDebouncedValue } from "akasha/design/interfaces/primitives/modules/use-debounced-value/use-debounced-value.module.code.ts"
+import { useKeyboardBinding } from "akasha/design/interfaces/primitives/modules/use-keyboard-registry/use-keyboard-registry.module.code.ts"
 import { PagesUILink as Link } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import {
   ACTIVITY_CATEGORIES,
@@ -52,8 +52,8 @@ import {
   type CompletionToolbarContextValue,
   CompletionToolbarProvider,
 } from "akasha/temper/web/modules/completion-toolbar-context/completion-toolbar-context.module.code.tsx"
-import { useCompletionFilters } from "akasha/temper/web/use-completion-filters/use-completion-filters.module.code.ts"
-import { useCompletionProgress } from "akasha/temper/web/use-completion-progress/use-completion-progress.module.code.ts"
+import { useCompletionFilters } from "akasha/temper/web/modules/use-completion-filters/use-completion-filters.module.code.ts"
+import { useCompletionProgress } from "akasha/temper/web/modules/use-completion-progress/use-completion-progress.module.code.ts"
 import { ChevronLeft, Globe, Handshake, LayoutDashboard, Swords } from "lucide-react"
 import { useCallback, useEffect, useMemo, useRef } from "react"
 

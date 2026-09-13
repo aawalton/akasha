@@ -22,7 +22,7 @@ import {
 import {
   type IdleActions,
   useIdleActions,
-} from "akasha/alan/web/use-idle-actions/use-idle-actions.module.code.ts"
+} from "akasha/alan/web/modules/use-idle-actions/use-idle-actions.module.code.ts"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import {
   Dialog,

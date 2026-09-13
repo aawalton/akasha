@@ -10,7 +10,7 @@ import type {
   LockStatusFilter,
 } from "akasha/temper/player-inventory-management-ui/modules/inventory-filter-types/inventory-filter-types.module.code.ts"
 import type { InventoryRulesHandlers } from "akasha/temper/player-inventory-management-ui/modules/inventory-rules-handlers/inventory-rules-handlers.module.code.ts"
-import type { DestinationOptions } from "akasha/temper/player-inventory-management-ui/use-destination-options/use-destination-options.module.code.ts"
+import type { DestinationOptions } from "akasha/temper/player-inventory-management-ui/modules/use-destination-options/use-destination-options.module.code.ts"
 import type * as React from "react"
 
 interface RulePartition {

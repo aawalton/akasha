@@ -18,7 +18,7 @@ import { useAudioAutoAdvance } from "akasha/pages/ui/media/modules/use-audio-aut
 import { useAudioSeekAndPlay } from "akasha/pages/ui/media/modules/use-audio-seek-and-play/use-audio-seek-and-play.module.code.ts"
 import { useAudioTimeSubscription } from "akasha/pages/ui/media/modules/use-audio-time-subscription/use-audio-time-subscription.module.code.ts"
 import { useAudioTransport } from "akasha/pages/ui/media/modules/use-audio-transport/use-audio-transport.module.code.ts"
-import { useCrossModePositionWrite } from "akasha/pages/ui/media/use-cross-mode-position-write/use-cross-mode-position-write.module.code.ts"
+import { useCrossModePositionWrite } from "akasha/pages/ui/media/modules/use-cross-mode-position-write/use-cross-mode-position-write.module.code.ts"
 import { usePersistAudioSession } from "akasha/pages/ui/media/use-persist-audio-session/use-persist-audio-session.module.code.ts"
 import { usePersistentAudioContainer } from "akasha/pages/ui/media/use-persistent-audio-container/use-persistent-audio-container.module.code.ts"
 import type { MediaSrcResolver } from "akasha/pages/ui/media/use-shell-media-src/use-shell-media-src.module.code.ts"

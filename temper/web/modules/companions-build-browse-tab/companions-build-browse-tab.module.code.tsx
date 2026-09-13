@@ -35,7 +35,7 @@ import {
 import type { FilterValues } from "akasha/temper/web/modules/companions-filter-types/companions-filter-types.module.code.ts"
 import { NewCompanionButton } from "akasha/temper/web/modules/new-companion-button/new-companion-button.module.code.tsx"
 import { NewCompanionPanelCard } from "akasha/temper/web/modules/new-companion-panel-card/new-companion-panel-card.module.code.tsx"
-import type { useFilteredBuilds } from "akasha/temper/web/use-filtered-builds/use-filtered-builds.module.code.ts"
+import type { useFilteredBuilds } from "akasha/temper/web/modules/use-filtered-builds/use-filtered-builds.module.code.ts"
 import { FolderOpen, Search } from "lucide-react"
 import { type ReactNode, useCallback, useMemo } from "react"
 

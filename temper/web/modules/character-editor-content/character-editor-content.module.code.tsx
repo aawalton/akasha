@@ -6,7 +6,7 @@ import { PageLayout } from "akasha/design/interfaces/layout/modules/page-layout/
 import { PageTabHeader } from "akasha/design/interfaces/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import { editorPageSkeleton } from "akasha/design/interfaces/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
-import { useColumnCount } from "akasha/design/interfaces/layout/use-column-count/use-column-count.module.code.tsx"
+import { useColumnCount } from "akasha/design/interfaces/layout/modules/use-column-count/use-column-count.module.code.tsx"
 import { FilterButton } from "akasha/design/interfaces/patterns/modules/filter-button/filter-button.module.code.tsx"
 import { SearchButton } from "akasha/design/interfaces/patterns/modules/search-button/search-button.module.code.tsx"
 import { SearchSortFilterRow } from "akasha/design/interfaces/patterns/modules/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
@@ -18,9 +18,9 @@ import { characterUrl } from "akasha/temper/build-support/modules/build-url/buil
 import {
   useCharacterLifecycle,
   useCharacterList,
-} from "akasha/temper/characters-character-ui/use-characters/use-characters.module.code.ts"
+} from "akasha/temper/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
-import { useCompletionCharacters } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
+import { useCompletionCharacters } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
 import { CharacterEditorHeader } from "akasha/temper/web/modules/character-editor-header/character-editor-header.module.code.tsx"
 import { CharacterEditorTabsList } from "akasha/temper/web/modules/character-editor-tabs-list/character-editor-tabs-list.module.code.tsx"
@@ -36,8 +36,8 @@ import {
   useCharacter,
   useCharacterActions,
   useCharacterMetadata,
-} from "akasha/temper/web/use-character/use-character.module.code.ts"
-import { useClassChangeWithContext } from "akasha/temper/web/use-class-change/use-class-change.module.code.ts"
+} from "akasha/temper/web/modules/use-character/use-character.module.code.ts"
+import { useClassChangeWithContext } from "akasha/temper/web/modules/use-class-change/use-class-change.module.code.ts"
 import { usePartnerBuildUrl } from "akasha/temper/web/use-partner-build-url/use-partner-build-url.module.code.ts"
 import {
   PASSIVE_CATEGORY_FILTER_ITEMS,

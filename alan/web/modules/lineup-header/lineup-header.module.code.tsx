@@ -5,7 +5,7 @@ import {
   applyDrop,
   pickerCandidates,
 } from "akasha/alan/web/modules/lineup-slots-draft/lineup-slots-draft.module.code.ts"
-import type { IdleActions } from "akasha/alan/web/use-idle-actions/use-idle-actions.module.code.ts"
+import type { IdleActions } from "akasha/alan/web/modules/use-idle-actions/use-idle-actions.module.code.ts"
 
 export function AddSeatPicker({ state, actions }: { state: GameState; actions: IdleActions }) {
   const active = state.activeTeam ?? []

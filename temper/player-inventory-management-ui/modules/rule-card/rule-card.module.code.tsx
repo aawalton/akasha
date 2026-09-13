@@ -14,7 +14,7 @@ import { RuleCardFilters } from "akasha/temper/player-inventory-management-ui/mo
 import { RuleCardHeaderRow } from "akasha/temper/player-inventory-management-ui/modules/rule-card-header-row/rule-card-header-row.module.code.tsx"
 import { RuleCardPriorityRow } from "akasha/temper/player-inventory-management-ui/modules/rule-card-priority-row/rule-card-priority-row.module.code.tsx"
 import { RuleNotesDialog } from "akasha/temper/player-inventory-management-ui/modules/rule-notes-dialog/rule-notes-dialog.module.code.tsx"
-import type { DestinationOptions } from "akasha/temper/player-inventory-management-ui/use-destination-options/use-destination-options.module.code.ts"
+import type { DestinationOptions } from "akasha/temper/player-inventory-management-ui/modules/use-destination-options/use-destination-options.module.code.ts"
 import type { RuleCardOnUpdate } from "akasha/temper/player-inventory-management-ui/use-rule-card/use-rule-card.module.code.ts"
 import { useRuleCard } from "akasha/temper/player-inventory-management-ui/use-rule-card/use-rule-card.module.code.ts"
 import { memo, useEffect, useState } from "react"

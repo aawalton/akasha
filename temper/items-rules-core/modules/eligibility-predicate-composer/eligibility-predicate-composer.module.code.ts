@@ -5,7 +5,7 @@ import type { RequiredCurseStateCondition } from "akasha/temper/items-rules-core
 import { characterPassesRequiredSkillLines } from "akasha/temper/items-rules-core/modules/required-skill-lines-filter/required-skill-lines-filter.module.code.ts"
 import type { RequiredSkillLinesCondition } from "akasha/temper/items-rules-core/modules/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
 import type { RuleMatcherContext } from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
-import type { CharacterId } from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
+import type { CharacterId } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 
 export interface CharEligibilityConditions {
   readonly requiredSkillLines?: RequiredSkillLinesCondition

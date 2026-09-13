@@ -12,7 +12,7 @@ import {
 import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { toBuildVisibility } from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
-import { useCharacterMetadata } from "akasha/temper/web/use-character/use-character.module.code.ts"
+import { useCharacterMetadata } from "akasha/temper/web/modules/use-character/use-character.module.code.ts"
 import { useEffect, useState } from "react"
 
 interface BuildInfoPanelCardProps {

@@ -26,7 +26,7 @@ import type {
   ItemAction,
   StockScope,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import type { CharacterId } from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
+import type { CharacterId } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 import { computeStockGroups } from "akasha/temper/items-rules-eval/modules/compute-stock-groups/compute-stock-groups.module.code.ts"
 import type { EvalContext } from "akasha/temper/items-rules-eval/modules/eval-env/eval-env.module.code.ts"
 import {

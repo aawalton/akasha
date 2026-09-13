@@ -26,7 +26,7 @@ import {
   characterId,
   type ItemKey,
   type UseDestinationContext,
-} from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 import type { EvalContext } from "akasha/temper/items-rules-eval/modules/eval-env/eval-env.module.code.ts"
 import type {
   RuleEvalResult,

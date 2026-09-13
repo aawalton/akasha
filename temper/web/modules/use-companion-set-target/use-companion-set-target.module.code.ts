@@ -15,9 +15,9 @@ import { companions as companionsData } from "akasha/temper/companions-core/modu
 import {
   useCompanionLifecycle,
   useCompanionList,
-} from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
+} from "akasha/temper/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
-import { useCompletionCompanions } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
+import { useCompletionCompanions } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
 import type { SetTargetEntity } from "akasha/temper/web/modules/set-target-dialog/set-target-dialog.module.code.tsx"
 import { useMemo, useState, useTransition } from "react"

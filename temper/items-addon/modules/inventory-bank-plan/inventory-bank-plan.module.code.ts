@@ -6,7 +6,7 @@ import {
 } from "akasha/temper/items-addon/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"
 import { isSavedVariablesReady } from "akasha/temper/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { addToTally } from "akasha/temper/items-addon/modules/inventory-tally/inventory-tally.module.code.ts"
-import type { CharacterId } from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
+import type { CharacterId } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 export interface BankTransitionSummary {
   totalUnits: number
   characters: Array<{ label: string; count: number }>

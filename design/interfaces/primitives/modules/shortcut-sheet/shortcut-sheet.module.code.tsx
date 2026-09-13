@@ -19,7 +19,7 @@ import {
   useKeyboardBinding,
   useKeyboardBindingDescriptors,
   useShortcutsEnabled,
-} from "akasha/design/interfaces/primitives/use-keyboard-registry/use-keyboard-registry.module.code.ts"
+} from "akasha/design/interfaces/primitives/modules/use-keyboard-registry/use-keyboard-registry.module.code.ts"
 import { useState } from "react"
 
 const DISABLE_TOGGLE_ID = "disable-keyboard-shortcuts"

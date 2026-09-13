@@ -14,9 +14,9 @@ import type { StockDestinationContext } from "akasha/temper/items-rules-core/mod
 import {
   buildUseDestinationContext,
   inventoryItemUseKey,
-} from "akasha/temper/items-rules-core/use-destination-context-builder/use-destination-context-builder.module.code.ts"
-import { planUseDestinationsForStack } from "akasha/temper/items-rules-core/use-destination-resolver/use-destination-resolver.module.code.ts"
-import type { CharacterId } from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/use-destination-context-builder/use-destination-context-builder.module.code.ts"
+import { planUseDestinationsForStack } from "akasha/temper/items-rules-core/modules/use-destination-resolver/use-destination-resolver.module.code.ts"
+import type { CharacterId } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 
 export function fillUseAllocationsInPlace(
   rules: readonly CompiledOrderedRule[],

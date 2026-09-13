@@ -10,8 +10,8 @@ import {
 import { computeSoothingHealingDone } from "akasha/temper/companions-core/modules/companion-soothing-healing/companion-soothing-healing.module.code.ts"
 import type { CompanionScalingMetricId } from "akasha/temper/companions-core/modules/companion-value-formula/companion-value-formula.module.code.ts"
 import type { RotationResult } from "akasha/temper/companions-core/modules/rotation-types/rotation-types.module.code.ts"
-import { useCompanion } from "akasha/temper/web/use-companion/use-companion.module.code.ts"
-import { useCompanionStatsCalculation } from "akasha/temper/web/use-companion-stats-calculation/use-companion-stats-calculation.module.code.ts"
+import { useCompanion } from "akasha/temper/web/modules/use-companion/use-companion.module.code.ts"
+import { useCompanionStatsCalculation } from "akasha/temper/web/modules/use-companion-stats-calculation/use-companion-stats-calculation.module.code.ts"
 import { createContext, type ReactNode, useMemo } from "react"
 
 export interface CompanionStatsContextValue {

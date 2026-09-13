@@ -13,7 +13,7 @@ import {
   encodeCompanion,
 } from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
-import { useCompanion as useCompanionZero } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
+import { useCompanion as useCompanionZero } from "akasha/temper/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { CompanionAction } from "akasha/temper/web/modules/companion-actions/companion-actions.module.code.ts"
@@ -26,7 +26,7 @@ import {
 } from "akasha/temper/web/modules/companion-contexts/companion-contexts.module.code.ts"
 import { companionReducer } from "akasha/temper/web/modules/companion-reducer/companion-reducer.module.code.ts"
 import { CompanionStatsProvider } from "akasha/temper/web/modules/companion-stats-context/companion-stats-context.module.code.tsx"
-import { useBuildSync } from "akasha/temper/web/use-build-sync/use-build-sync.module.code.ts"
+import { useBuildSync } from "akasha/temper/web/modules/use-build-sync/use-build-sync.module.code.ts"
 import { type ReactNode, useCallback, useReducer } from "react"
 
 interface CompanionProviderProps {

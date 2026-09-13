@@ -1,7 +1,7 @@
 "use client"
 
 import { PanelToggleProvider } from "akasha/design/interfaces/layout/modules/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
-import { useCollapsedGroups } from "akasha/design/interfaces/patterns/use-collapsed-groups/use-collapsed-groups.module.code.ts"
+import { useCollapsedGroups } from "akasha/design/interfaces/patterns/modules/use-collapsed-groups/use-collapsed-groups.module.code.ts"
 import type { ViewFilter } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import { applySearch } from "akasha/pages/core/view/modules/apply-search/apply-search.module.code.ts"
 import {
@@ -13,8 +13,8 @@ import { PageSystemViewBody } from "akasha/pages/ui/components/modules/page-syst
 import { PageSystemViewHeader } from "akasha/pages/ui/components/modules/page-system-view-header/page-system-view-header.module.code.tsx"
 import { sortServerGrouped } from "akasha/pages/ui/components/modules/page-system-view-helpers/page-system-view-helpers.module.code.tsx"
 import { withColumnWidths } from "akasha/pages/ui/components/modules/page-table-widths/page-table-widths.module.code.ts"
-import { useBoardViewWiring } from "akasha/pages/ui/components/use-board-view-wiring/use-board-view-wiring.module.code.ts"
-import { useCalendarViewWiring } from "akasha/pages/ui/components/use-calendar-view-wiring/use-calendar-view-wiring.module.code.ts"
+import { useBoardViewWiring } from "akasha/pages/ui/components/modules/use-board-view-wiring/use-board-view-wiring.module.code.ts"
+import { useCalendarViewWiring } from "akasha/pages/ui/components/modules/use-calendar-view-wiring/use-calendar-view-wiring.module.code.ts"
 import { useTimelineConfig } from "akasha/pages/ui/components/use-timeline-config/use-timeline-config.module.code.ts"
 import { useViewLocalConfig } from "akasha/pages/ui/components/use-view-local-config/use-view-local-config.module.code.ts"
 import { usePageView } from "akasha/pages/ui/components/view-engine/use-page-view/use-page-view.module.code.ts"

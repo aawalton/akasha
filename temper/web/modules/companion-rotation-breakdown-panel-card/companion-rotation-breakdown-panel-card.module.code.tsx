@@ -13,8 +13,8 @@ import type { RotationResult } from "akasha/temper/companions-core/modules/rotat
 import { SkillBreakdownTable } from "akasha/temper/web/modules/companion-rotation-breakdown-table/companion-rotation-breakdown-table.module.code.tsx"
 import { getPrimaryRows } from "akasha/temper/web/modules/companion-rotation-breakdown-types/companion-rotation-breakdown-types.module.code.ts"
 import { deriveCompanionRotationOutcome } from "akasha/temper/web/modules/companion-rotation-outcome/companion-rotation-outcome.module.code.ts"
-import { useCompanion } from "akasha/temper/web/use-companion/use-companion.module.code.ts"
-import { useCompanionStats } from "akasha/temper/web/use-companion-stats/use-companion-stats.module.code.ts"
+import { useCompanion } from "akasha/temper/web/modules/use-companion/use-companion.module.code.ts"
+import { useCompanionStats } from "akasha/temper/web/modules/use-companion-stats/use-companion-stats.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 interface CompanionRotationBreakdownPanelCardProps {

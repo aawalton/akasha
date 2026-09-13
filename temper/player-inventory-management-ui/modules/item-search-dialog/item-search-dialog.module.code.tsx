@@ -15,7 +15,7 @@ import {
   DialogHeader,
   DialogTitle,
 } from "akasha/design/interfaces/primitives/modules/dialog/dialog.module.code.tsx"
-import { useDebouncedValue } from "akasha/design/interfaces/primitives/use-debounced-value/use-debounced-value.module.code.ts"
+import { useDebouncedValue } from "akasha/design/interfaces/primitives/modules/use-debounced-value/use-debounced-value.module.code.ts"
 import type { MinedItemSearchResult } from "akasha/temper/items-core/modules/item-tooltip-types/item-tooltip-types.module.code.ts"
 import { useEffect, useState } from "react"
 

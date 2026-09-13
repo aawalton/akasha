@@ -16,13 +16,13 @@ import { parseMotifBookName } from "akasha/temper/items-core/modules/motif-name-
 import {
   claimItemForCharacter,
   resolveUseDestination,
-} from "akasha/temper/items-rules-core/use-destination-resolver/use-destination-resolver.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/use-destination-resolver/use-destination-resolver.module.code.ts"
 import {
   type CharacterId,
   characterId,
   type ItemKey,
   type UseDestinationContext,
-} from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 import { asObjectRecord } from "akasha/utils/narrow/modules/as-object-record/as-object-record.module.code.ts"
 export function findInspireCharacterIdByPriority(itemLink: string): string | undefined {
   const craftingType = inferDeconCraftingType(itemLink)

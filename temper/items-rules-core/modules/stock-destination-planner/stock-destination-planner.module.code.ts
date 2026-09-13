@@ -5,7 +5,7 @@ import {
 } from "akasha/temper/items-rules-core/modules/eligibility-predicate-composer/eligibility-predicate-composer.module.code.ts"
 import type { DestinationChain } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { StockDestinationContext } from "akasha/temper/items-rules-core/modules/stock-destination-types/stock-destination-types.module.code.ts"
-import type { CharacterId } from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
+import type { CharacterId } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 
 function readGroupStock(
   ctx: StockDestinationContext,
