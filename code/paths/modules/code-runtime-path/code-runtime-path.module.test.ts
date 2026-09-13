@@ -5,7 +5,7 @@ import {
   type Patch,
   readsRuntimePaths,
   runtimePatches,
-} from "akasha/code/paths/modules/runtime-path/code-runtime-path.module.code.ts"
+} from "akasha/code/paths/modules/code-runtime-path/code-runtime-path.module.code.ts"
 
 const ROOT = "/"
 

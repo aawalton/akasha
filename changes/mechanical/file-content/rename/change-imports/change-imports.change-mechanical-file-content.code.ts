@@ -7,12 +7,12 @@ import {
 } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Said, Splice } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { landedAt } from "akasha/code/paths/modules/folder-spelling/folder-spelling.module.code.ts"
-import { runsIn } from "akasha/code/paths/modules/path-runs/path-runs.module.code.ts"
 import {
   readsRuntimePaths,
   runtimePatches,
-} from "akasha/code/paths/modules/runtime-path/code-runtime-path.module.code.ts"
+} from "akasha/code/paths/modules/code-runtime-path/code-runtime-path.module.code.ts"
+import { landedAt } from "akasha/code/paths/modules/folder-spelling/folder-spelling.module.code.ts"
+import { runsIn } from "akasha/code/paths/modules/path-runs/path-runs.module.code.ts"
 import {
   landingOf,
   placedIn,
