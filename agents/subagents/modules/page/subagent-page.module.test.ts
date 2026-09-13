@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { bodyOf } from "akasha/agents/subagents/modules/body/subagent-body.module.code.ts"
 import {
   committed,
   filedNow,
@@ -11,7 +12,6 @@ import {
   seeing,
   tookAway,
 } from "akasha/agents/subagents/modules/page/subagent-page.module.test-fixtures.ts"
-import { bodyOf } from "akasha/seat-system/subagents/modules/body/subagent-body.module.code.ts"
 import {
   agentIdOf,
   pathOf,

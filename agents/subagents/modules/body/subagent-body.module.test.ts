@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { bodyOf } from "akasha/seat-system/subagents/modules/body/subagent-body.module.code.ts"
+import { bodyOf } from "akasha/agents/subagents/modules/body/subagent-body.module.code.ts"
 
 const HELD_ID = "01a06d00-0000-7000-8000-000000000001"
 
