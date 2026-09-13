@@ -7,7 +7,12 @@ export const ruleMatcherContextCurseState = {
   definition:
     "which characters are vampires or werewolves, compiled into a reader the matcher calls",
   code: "ts",
+  test: "ts",
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A curse the game named is kept under the character bearing it.",
+    },
     {
       invariantKind: "departure",
       statement: "A character with neither curse answers as nothing.",
