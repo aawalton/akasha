@@ -83,9 +83,6 @@ export type Changes = {
   "change-agent/move-pages": Parameters<
     typeof import("akasha/changes/agent/file/move-pages/move-pages.change-agent.code.ts")["runChange"]
   >[1]
-  "change-agent/move-properties-into-a-record-on-every-page": Parameters<
-    typeof import("akasha/changes/agent/page-type/move-properties-into-a-record-on-every-page/move-properties-into-a-record-on-every-page.change-agent.code.ts")["runChange"]
-  >[1]
   "change-agent/move-property-on-every-page": Parameters<
     typeof import("akasha/changes/agent/page-type/move-property-on-every-page/move-property-on-every-page.change-agent.code.ts")["runChange"]
   >[1]

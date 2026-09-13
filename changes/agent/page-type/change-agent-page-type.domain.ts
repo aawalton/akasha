@@ -10,7 +10,6 @@ export const changeAgentPageType = {
     "change-agent/add-property-to-every-page",
     "change-agent/add-property-to-page-type",
     "change-agent/copy-property-on-every-page",
-    "change-agent/move-properties-into-a-record-on-every-page",
     "change-agent/move-property-on-every-page",
     "change-agent/remove-every-page-of-a-type",
     "change-agent/remove-property-from-every-page",
