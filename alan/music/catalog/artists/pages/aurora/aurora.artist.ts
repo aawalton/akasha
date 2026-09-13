@@ -5,11 +5,12 @@ export const aurora = {
   type: "artist",
   slug: "aurora",
   title: "AURORA",
-  externalId: "484a4e90-6899-4e4b-a948-a2255d365340",
-  externalLink: "https://musicbrainz.org/artist/484a4e90-6899-4e4b-a948-a2255d365340",
+  partOfCollections: ["artists"],
+  position: 0,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "minutes",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  status: "following",
   genre: [
     "indie pop",
     "art pop",
@@ -21,5 +22,20 @@ export const aurora = {
     "afro house",
   ],
   rank: "A+",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "484a4e90-6899-4e4b-a948-a2255d365340",
+      externalLink: "https://musicbrainz.org/artist/484a4e90-6899-4e4b-a948-a2255d365340",
+      lastSyncedAt: "2026-06-08",
+    },
+    {
+      source: "spotify",
+      externalId: "1WgXqy2Dd70QQOU7Ay074N",
+      externalLink: "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
+  tags: ["Indie Pop Storyteller"],
   reaction: "txt",
 } as const satisfies Artist
