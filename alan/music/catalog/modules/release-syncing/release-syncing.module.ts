@@ -22,6 +22,14 @@ export const releaseSyncing = {
     },
     {
       invariantKind: "departure",
+      statement: "A release Spotify gives a new id is the release already filed under its title.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Spotify lists an artist's release under an id other than the id first filed.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A release nothing is filed under is read once for the length of its tracks.",
     },
     {

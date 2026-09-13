@@ -6,6 +6,7 @@ import {
   type CatalogueNames,
   catalogueNamesFrom,
   catalogueSlugFor,
+  slugifyName,
 } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
 import {
   type Album,
@@ -84,6 +85,7 @@ export type Followed = {
 export type Filed = {
   readonly names: CatalogueNames
   readonly held: ReadonlyMap<string, Value>
+  readonly byTitle: ReadonlyMap<string, string>
 }
 
 export type Asked = {
@@ -121,16 +123,34 @@ export function followedIn(root: string): readonly Followed[] {
   return [...rows].sort((a, b) => (a.slug < b.slug ? -1 : a.slug > b.slug ? 1 : 0))
 }
 
+export function titleKey(artistSlug: string, title: string): string {
+  return `${artistSlug}|${slugifyName(title)}`
+}
+
 export function filedIn(root: string): Filed {
   const rows: { readonly slug: string; readonly externalId: string | null }[] = []
   const held = new Map<string, Value>()
+  const byTitle = new Map<string, string>()
   for (const one of valuesOfType(root, RELEASE)) {
     const slug = textIn(one.value, "slug")
     if (slug === null) continue
     rows.push({ slug, externalId: idFrom(one.value[IDENTITY], SOURCE) })
     held.set(slug, one.value)
+    const artistSlug = textIn(one.value, "partOfCollections")
+    const title = textIn(one.value, "title")
+    if (artistSlug === null || title === null) continue
+    const key = titleKey(artistSlug, title)
+    if (!byTitle.has(key)) byTitle.set(key, slug)
   }
-  return { names: catalogueNamesFrom(rows), held }
+  return { names: catalogueNamesFrom(rows), held, byTitle }
+}
+
+export function slugFor(filed: Filed, artistSlug: string, album: Album): string {
+  const byId = filed.names.filed.get(album.id)
+  if (byId !== undefined) return byId
+  const byTitle = filed.byTitle.get(titleKey(artistSlug, album.name))
+  if (byTitle !== undefined) return byTitle
+  return catalogueSlugFor(filed.names, artistSlug, album.name, album.id)
 }
 
 export function unfiledIn(
@@ -142,7 +162,7 @@ export function unfiledIn(
   const asked: Asked[] = []
   let skipped = 0
   for (const album of albums) {
-    const slug = catalogueSlugFor(filed.names, artistSlug, album.name, album.id)
+    const slug = slugFor(filed, artistSlug, album)
     const was = filed.held.get(slug)
     if (was !== undefined && idFrom(was[IDENTITY], SOURCE) === album.id) {
       skipped += 1
@@ -275,9 +295,9 @@ export async function syncReleases(
         const wrong = "refusals" in landed ? landed.refusals : landed.wrong
         if (wrong.length > 0) throw new Error(wrong.join("; "))
       }
-      created += unfiled.asked.length
+      created += unfiled.asked.filter((each) => Object.keys(each.was).length === 0).length
+      updated += unfiled.asked.filter((each) => Object.keys(each.was).length > 0).length
       skipped += unfiled.skipped
-      updated += 1
     } catch (thrown) {
       failed += 1
       console.error(`${SAID} ${one.slug}:`, thrown instanceof Error ? thrown.message : thrown)
@@ -293,7 +313,7 @@ export async function main(argv: readonly string[]): Promise<number> {
     syncReleases(root, held, REACHING, held.dryRun ? null : landedMechanically, todayYYYYMMDD())
   const counts = held.dryRun ? await running() : await recordingRun(SOURCE, running)
   console.log(
-    `${SAID} created ${counts.created} · swept ${counts.updated} · already filed ${counts.skipped} · failed ${counts.failed}`
+    `${SAID} filed ${counts.created} · restamped ${counts.updated} · already filed ${counts.skipped} · failed ${counts.failed}`
   )
   return counts.failed > 0 ? 1 : 0
 }

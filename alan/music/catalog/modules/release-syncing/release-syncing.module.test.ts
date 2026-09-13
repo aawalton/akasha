@@ -6,6 +6,7 @@ import {
   publishedDayOf,
   releaseValues,
   taken,
+  titleKey,
   unfiledIn,
 } from "akasha/alan/music/catalog/modules/release-syncing/release-syncing.module.code.ts"
 import type {
@@ -37,14 +38,19 @@ function whole(one: Album, ms: readonly number[]): AlbumWithTracks {
 
 function filedWith(rows: readonly { slug: string; was: Value }[]): Filed {
   const held = new Map<string, Value>()
+  const byTitle = new Map<string, string>()
   const named: { slug: string; externalId: string | null }[] = []
   for (const row of rows) {
     held.set(row.slug, row.was)
     const stated = row.was["externalIdentity"]
     const first = Array.isArray(stated) ? (stated[0] as { externalId?: string }) : undefined
     named.push({ slug: row.slug, externalId: first?.externalId ?? null })
+    const artistSlug = row.was["partOfCollections"]
+    const title = row.was["title"]
+    if (typeof title !== "string" || !Array.isArray(artistSlug)) continue
+    byTitle.set(titleKey(String(artistSlug[0]), title), row.slug)
   }
-  return { names: catalogueNamesFrom(named), held }
+  return { names: catalogueNamesFrom(named), held, byTitle }
 }
 
 test("a sweep over nothing filed asks for every album", () => {
@@ -173,4 +179,45 @@ test("the flags a run is given are read off what it was handed", () => {
 test("a limit that is no whole number of one or more is read as no limit", () => {
   expect(taken(["--limit", "0"]).limit).toBeNull()
   expect(taken(["--limit", "half"]).limit).toBeNull()
+})
+
+test("a release Spotify gives a new id is the release already filed under its title", () => {
+  const filed = filedWith([
+    {
+      slug: "sylvia-daley-secure",
+      was: {
+        slug: "sylvia-daley-secure",
+        title: "Secure",
+        partOfCollections: ["sylvia-daley"],
+        ownProgress: 3,
+        status: "completed",
+        externalIdentity: [{ source: "spotify", externalId: "an-older-id" }],
+      },
+    },
+  ])
+  const found = unfiledIn(filed, "sylvia-daley", [album("a-newer-id", "Secure")], null)
+  expect(found.asked).toHaveLength(1)
+  expect(found.asked[0]?.slug).toBe("sylvia-daley-secure")
+  expect(found.asked[0]?.was["ownProgress"]).toBe(3)
+  expect(found.skipped).toBe(0)
+})
+
+test("a release of another artist under the same title is filed on its own", () => {
+  const filed = filedWith([
+    {
+      slug: "sylvia-daley-secure",
+      was: {
+        slug: "sylvia-daley-secure",
+        title: "Secure",
+        partOfCollections: ["sylvia-daley"],
+        externalIdentity: [{ source: "spotify", externalId: "an-older-id" }],
+      },
+    },
+  ])
+  const found = unfiledIn(filed, "another-artist", [album("a-newer-id", "Secure")], null)
+  expect(found.asked[0]?.slug).toBe("another-artist-secure")
+})
+
+test("an artist and a title together name one filed release", () => {
+  expect(titleKey("sylvia-daley", "Rubik's Cube")).toBe("sylvia-daley|rubik-s-cube")
 })
