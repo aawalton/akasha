@@ -4,7 +4,7 @@ export const inventoryBankTrace = {
   id: "01a06258-b528-744f-9bd2-f905f500edb0",
   type: "module",
   slug: "inventory-bank-trace",
-  definition: "the timing traces kept over recent bank sessions, phase by phase",
+  definition: "the timing traces kept over recent visits to a venue, phase by phase",
   code: "ts",
   invariants: [
     {
@@ -26,7 +26,21 @@ export const inventoryBankTrace = {
     },
     {
       invariantKind: "departure",
-      statement: "Another venue opening ends the bank session's hold on what follows it.",
+      statement:
+        "One venue's visit is traced at a time, and opening a venue ends the visit before.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A merchant and a fence are traced as a banker is, into a ring of their own.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A venue with no instrument ends the traced visit rather than taking its settling.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The spend inside a venue's own open handler is attributed.",
     },
   ],
 } as const satisfies Module

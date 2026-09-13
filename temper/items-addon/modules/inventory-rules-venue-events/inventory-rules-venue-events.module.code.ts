@@ -1,4 +1,9 @@
-import { releaseBankTrace } from "akasha/temper/items-addon/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
+import {
+  beginVenueTrace,
+  finishVenueOpenHandler,
+  markVenueClosed,
+  releaseBankTrace,
+} from "akasha/temper/items-addon/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
 import {
   flushJunkGate,
   openJunkGate,
@@ -23,9 +28,10 @@ export function registerVenueDispatchEvents(ns: string): undefined {
     `${ns}_OpenStore`,
     EVENT_OPEN_STORE,
     function (this: void): undefined {
-      releaseBankTrace()
+      beginVenueTrace("store", 0)
       openJunkGate()
       onOpenStore()
+      finishVenueOpenHandler()
     }
   )
 
@@ -38,9 +44,10 @@ export function registerVenueDispatchEvents(ns: string): undefined {
       allowSell: boolean,
       allowLaunder: boolean
     ): undefined {
-      releaseBankTrace()
+      beginVenueTrace("fence", 0)
       openJunkGate()
       onOpenFence(allowSell, allowLaunder)
+      finishVenueOpenHandler()
     }
   )
 
@@ -83,6 +90,7 @@ export function registerVenueDispatchEvents(ns: string): undefined {
     `${ns}_CloseStore`,
     EVENT_CLOSE_STORE,
     function (this: void): undefined {
+      markVenueClosed()
       flushJunkGate()
       releaseConfirmDialog()
     }

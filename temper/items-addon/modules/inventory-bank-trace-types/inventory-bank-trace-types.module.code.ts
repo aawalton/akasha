@@ -35,9 +35,12 @@ export interface BankTracePacedDispatch {
   abortedEarly: boolean
 }
 
+export type VenueKind = "bank" | "store" | "fence"
+
 export interface BankTrace {
   schemaVersion: number
   timestamp: number
+  venue?: VenueKind
   bankingBag: number
   scanBankBagsMs?: number
   refreshPanelMs?: number

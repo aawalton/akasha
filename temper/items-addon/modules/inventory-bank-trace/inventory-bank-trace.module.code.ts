@@ -9,6 +9,7 @@ import type {
   BankTrace,
   BankTraceCraftingStats,
   BankTracePacedDispatch,
+  VenueKind,
 } from "akasha/temper/items-addon/modules/inventory-bank-trace-types/inventory-bank-trace-types.module.code.ts"
 import { getSavedVariables } from "akasha/temper/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/modules/is-object-record/is-object-record.module.code.ts"
@@ -25,14 +26,19 @@ let craftingAtOpen: BankTraceCraftingStats | undefined
 let visitGeneration = 0
 
 export function beginBankTrace(bankingBag: number): undefined {
+  beginVenueTrace("bank", bankingBag)
+}
+
+export function beginVenueTrace(venue: VenueKind, bankingBag: number): undefined {
   openAnchorMs = GetGameTimeMilliseconds()
   closedAtMs = undefined
   openHandlerDone = false
   visitGeneration += 1
   craftingAtOpen = readCraftingSlotHandlerStats()
   const trace: BankTrace = {
-    schemaVersion: 4,
+    schemaVersion: 5,
     timestamp: GetTimeStamp(),
+    venue,
     bankingBag,
     netWorth: emptyNetWorthStats(),
     settling: emptySettlingStats(),
@@ -40,13 +46,21 @@ export function beginBankTrace(bankingBag: number): undefined {
   activeTrace = trace
   const sv = getSavedVariables()
   if (sv.diagnostics === undefined) sv.diagnostics = {}
-  sv.diagnostics.lastBankTrace = trace
-  const ring = sv.diagnostics.bankTraces ?? []
+  if (venue === "bank") {
+    sv.diagnostics.lastBankTrace = trace
+    sv.diagnostics.bankTraces = keptWith(sv.diagnostics.bankTraces, trace)
+    return
+  }
+  sv.diagnostics.storeTraces = keptWith(sv.diagnostics.storeTraces, trace)
+}
+
+function keptWith(kept: BankTrace[] | undefined, trace: BankTrace): BankTrace[] {
+  const ring = kept ?? []
   ring[ring.length] = trace
   while (ring.length > BANK_TRACE_RING_MAX) {
     ring.splice(0, 1)
   }
-  sv.diagnostics.bankTraces = ring
+  return ring
 }
 
 export type BankTracePhase = "scanBankBags" | "refreshPanel" | "withdraw" | "deposit"
@@ -87,6 +101,14 @@ export function finishBankOpenHandler(): undefined {
   if (activeTrace === undefined) return
   activeTrace.openHandlerMs = GetGameTimeMilliseconds() - openAnchorMs
   openHandlerDone = true
+}
+
+export function finishVenueOpenHandler(): undefined {
+  finishBankOpenHandler()
+}
+
+export function markVenueClosed(): undefined {
+  markBankClosed()
 }
 
 export function markBankClosed(): undefined {

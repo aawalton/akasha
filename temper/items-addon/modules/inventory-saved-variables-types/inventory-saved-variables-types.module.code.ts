@@ -154,6 +154,7 @@ export interface DiagnosticsData {
   lastBuyExplain?: BuyExplainTrace
   lastBankTrace?: BankTrace
   bankTraces?: BankTrace[]
+  storeTraces?: BankTrace[]
   lastBankProfile?: BankProfile
   lastGateEval?: SkillGateEval
   lastMasterWritProbe?: MasterWritProbe
