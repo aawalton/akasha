@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { renameSlug } from "akasha/changes/mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
+import { runChange as renameSlug } from "akasha/changes/mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   bodiesIn,
@@ -222,7 +222,7 @@ test("the plural is stated anew beside the slug", async () => {
   expect(bodyAfter(said, world, HELD_PAGE)).toContain(`"slug": "${KEPT}"`)
 })
 
-test("the plural and the export rename are reached at their own addresses", async () => {
+test("the plural and the export rename are answered by the module, reaching nothing", async () => {
   const reached: string[] = []
   const root = indexedRepo()
   const text = textIn(root)
@@ -232,12 +232,12 @@ test("the plural and the export rename are reached at their own addresses", asyn
   )
   const world = worldAt(root, (path) => (path === HELD_PAGE ? held : text(path)), listing(reached))
 
-  await renameSlug(world, { at: HELD_PAGE, to: KEPT, plural: "kepts" })
+  const said = await renameSlug(world, { at: HELD_PAGE, to: KEPT, plural: "kepts" })
 
-  expect(reached).toEqual([
-    "change-mechanical-file-content/change-page-page-property",
-    "change-mechanical-file-content/rename-export",
-  ])
+  expect(said.refused).toBe(null)
+  expect(reached).toEqual([])
+  expect(bodyAfter(said, world, HELD_PAGE)).toContain(`"pluralSlug": "kepts"`)
+  expect(bodyAfter(said, world, HELD_PAGE)).toContain(`export const ${KEPT} =`)
 })
 
 const KEYED_PROPERTY = "module-held-note"

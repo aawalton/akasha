@@ -39,6 +39,7 @@ export const change = {
     "module/page-type-renaming",
     "module/property-signature-renaming",
     "module/prose-splicing",
+    "module/slug-renaming",
     "module/target-kinding",
     "module/target-narrowing",
     "module/type-literal",

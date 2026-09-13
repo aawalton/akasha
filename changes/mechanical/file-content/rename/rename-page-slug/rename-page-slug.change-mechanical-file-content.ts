@@ -21,11 +21,7 @@ export const renamePageSlug = {
     },
     {
       invariantKind: "departure",
-      statement: "A rung this change reaches reads the splices this change answers.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Those splices are settled onto the ledger rather than onto a world made here.",
+      statement: "The module renaming a slug is called rather than reached through a rung.",
     },
     {
       invariantKind: "departure",
