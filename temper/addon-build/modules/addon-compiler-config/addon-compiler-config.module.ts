@@ -7,7 +7,6 @@ export const addonCompilerConfig = {
   definition: "the transpiler settings a build reads for an addon whose folder has no tsconfig",
   code: "ts",
   test: "ts",
-  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -83,7 +82,11 @@ export const addonCompilerConfig = {
     },
     {
       invariantKind: "constraint",
-      statement: "An addon page naming a bundle entry the folder does not hold refuses the call.",
+      statement: "An addon page naming a bundle entry no module page carries refuses the call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Where a bundle entry's code sits is asked of the index rather than spelled.",
     },
     {
       invariantKind: "departure",

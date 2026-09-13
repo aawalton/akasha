@@ -1,6 +1,9 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import {
+  valuedAt,
+  valuesOfType,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { addonManifestPathIn } from "akasha/temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
 
@@ -9,6 +12,8 @@ export const TSCONFIG_NAME = "tsconfig.json"
 const ESO_ADDON_TYPE = "eso-addon"
 
 const DECLARATION_TYPE = "type-declaration"
+
+const MODULE_TYPE = "module"
 
 const CODE_SUFFIX = ".module.code.ts"
 
@@ -152,9 +157,10 @@ function slugBareOf(slug: string): string {
   return mark === -1 ? slug : slug.slice(mark + 1)
 }
 
-export function bundleEntryPathIn(addonDir: string, entrySlug: string): string {
+export function bundleEntryPathIn(repoRoot: string, entrySlug: string): string {
   const bare = slugBareOf(entrySlug)
-  return join(addonDir, bare, `${bare}${CODE_SUFFIX}`)
+  const page = valuedAt(repoRoot, MODULE_TYPE, bare)
+  return join(repoRoot, dirname(page.path), `${bare}${CODE_SUFFIX}`)
 }
 
 export type CompilerConfigAsked = {
@@ -212,7 +218,7 @@ export async function compilerConfigPathFor(
   if (existsSync(beside)) return beside
   const page = readEsoAddonPage(repoRoot, addonDir)
   if (page === null || page.bundleEntry === null) return null
-  const entryPath = bundleEntryPathIn(addonDir, page.bundleEntry)
+  const entryPath = bundleEntryPathIn(repoRoot, page.bundleEntry)
   if (!existsSync(entryPath)) {
     throw new Error(
       `compilerConfigPathFor: the page in ${addonDir} names "${page.bundleEntry}" as the bundle entry, and ${entryPath} is not there`

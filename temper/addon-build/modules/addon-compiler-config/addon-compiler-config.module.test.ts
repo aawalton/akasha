@@ -1,7 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { valueAlsoFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import {
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import {
   bundleEntryPathIn,
   compilerConfigBody,
@@ -10,10 +13,6 @@ import {
   esoAddonPagePathIn,
   reachedAddonDirs,
 } from "akasha/temper/addon-build/modules/addon-compiler-config/addon-compiler-config.module.code.ts"
-import {
-  ASYNC_MAIN_AT,
-  INTERFACE_ENTRY_AT,
-} from "akasha/temper/addon-build/modules/addon-compiler-config/addon-compiler-config.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const SCRATCH = scratchWorld()
@@ -28,13 +27,27 @@ const NAMING_LEAF = "temper-lib-table-functions"
 
 const ENTRY_LEAF = "table-functions-entry"
 
+const MODULE = "module"
+
 const NAMING_PAGE = `akasha/temper/${NAMING_LEAF}/${NAMING_LEAF}.eso-addon.ts`
+
+const ENTRY_UNDER = `akasha/temper/${NAMING_LEAF}/modules/${ENTRY_LEAF}`
+
+const ENTRY_PAGE = `${ENTRY_UNDER}/${ENTRY_LEAF}.module.ts`
+
+const ENTRY_CODE = `${ENTRY_UNDER}/${ENTRY_LEAF}.module.code.ts`
+
+const ENTRY_ID = "01a09600-0000-7000-8000-000000000001"
 
 function addonFolderNaming(entrySlug: string | null): { root: string; dir: string } {
   const root = SCRATCH.rootFor("temper-addon-compiler-")
   const dir = join(root, `akasha/temper/${NAMING_LEAF}`)
-  mkdirSync(join(dir, ENTRY_LEAF), { recursive: true })
-  writeFileSync(bundleEntryPathIn(dir, ENTRY_LEAF), "export const ONE = 1\n")
+  mkdirSync(join(root, ENTRY_UNDER), { recursive: true })
+  listedFiled(root, MODULE, ENTRY_LEAF, [{ path: ENTRY_PAGE, id: ENTRY_ID }])
+  valueAlsoFiled(root, MODULE, [
+    { path: ENTRY_PAGE, value: { id: ENTRY_ID, slug: ENTRY_LEAF, code: "ts" } },
+  ])
+  writeFileSync(join(root, ENTRY_CODE), "export const ONE = 1\n")
   const value =
     entrySlug === null ? { slug: NAMING_LEAF } : { slug: NAMING_LEAF, bundleEntry: entrySlug }
   valueAlsoFiled(root, ESO_ADDON, [{ path: NAMING_PAGE, value }])
@@ -47,8 +60,9 @@ test("an addon page beside the manifest is found by its own file name", () => {
   expect(esoAddonPagePathIn(root, join(dir, "gone"))).toBeNull()
 })
 
-test("a bundle entry slug becomes the path of that module's code", () => {
-  expect(bundleEntryPathIn("/a/temper-lib-async", "async-main")).toBe(ASYNC_MAIN_AT)
+test("a bundle entry slug becomes the path the index answers for that module's code", () => {
+  const { root } = addonFolderNaming(ENTRY_LEAF)
+  expect(bundleEntryPathIn(root, ENTRY_LEAF)).toBe(join(root, ENTRY_CODE))
 })
 
 test("the written settings name the entry, the bundle and the repository root", () => {
@@ -105,12 +119,11 @@ test("an addon page naming no bundle entry answers that nothing can be built", a
 })
 
 test("a slug naming a page drops the page type spelled ahead of the slug", () => {
-  expect(bundleEntryPathIn("/a/temper-interface-addon", "module/interface-entry")).toBe(
-    INTERFACE_ENTRY_AT
-  )
+  const { root } = addonFolderNaming(`${MODULE}/${ENTRY_LEAF}`)
+  expect(bundleEntryPathIn(root, `${MODULE}/${ENTRY_LEAF}`)).toBe(join(root, ENTRY_CODE))
 })
 
-test("an addon page naming a bundle entry the folder does not hold refuses the call", async () => {
+test("an addon page naming a bundle entry no module page carries refuses the call", async () => {
   const { root, dir } = addonFolderNaming("gone-entry")
   await expect(compilerConfigPathFor(root, dir, "TemperTableFunctions")).rejects.toThrow(
     "gone-entry"
