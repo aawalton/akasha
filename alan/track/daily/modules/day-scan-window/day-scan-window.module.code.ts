@@ -1,20 +1,3 @@
-import { getEsoDayStrOffset as esoDayStrOffset } from "akasha/alan/harness/day/modules/eso-day/eso-day.module.code.ts"
-
-export const SOURCE_POINTS_FIELD = "sourcePoints"
-
-export const WRITER = "daily-tracking"
-
-const TRACKING_SCAN_DAYS = 14
-
-export const TRACKING_SCAN_DAY_OFFSETS: readonly number[] = Array.from(
-  { length: TRACKING_SCAN_DAYS },
-  (_, index) => index - (TRACKING_SCAN_DAYS - 1)
-)
-
-export function trackingScanFloorDayStr(now: Date): string {
-  return esoDayStrOffset(now, -(TRACKING_SCAN_DAYS - 1))
-}
-
 export function numberOf(value: unknown): number | undefined {
   if (typeof value === "number") return Number.isFinite(value) ? value : undefined
   if (typeof value !== "string") return undefined
