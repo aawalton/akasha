@@ -88,15 +88,6 @@ export function playwrightStorageStatePath(): string {
   return path
 }
 
-export function messagesMcpPath(): string {
-  const args = getMcpServerRegistry().messages
-  const spawned = args?.type === "stdio" ? args.args[1] : undefined
-  if (spawned === undefined) {
-    throw new Error(`${declaredAt()} states no script for \`messages\``)
-  }
-  return spawned
-}
-
 export function getMcpServerRegistry(): Record<string, McpServerConfig> {
   const registry: Record<string, McpServerConfig> = {}
   for (const [name, declared] of Object.entries(declaration())) {
