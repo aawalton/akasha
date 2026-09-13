@@ -15,13 +15,13 @@ export const emberInventoryRules = {
     {
       statement: "A banker stacks what the bags hold that will stack.",
       workingMemory:
-        "StackBag(bagId) is the whole of what the game exposes. d29b73b stacks the backpack and the storage the visit opened, both bank bags where Alan subscribes, once the paced chain drains. A bank closed early now stacks too: cleanup leaves no plan holding a slot index, and the backpack is already stacked after every zone load. Whether StackBag reaches a bank bag after close is unproven, so bfcfbfd counts partial stacks either side of each call and a dozen visits settle it.",
+        "StackBag(bagId) is the whole of what the game exposes. A visit stacks the backpack and the storage it opened, both bank bags where Alan subscribes, and a bank closed early stacks too. e14fb69 waits for the moves to arrive first: the settle watched only the source shrinking, so StackBag could run before the items reached the backpack, once, with nothing retrying it. bfcfbfd counts partial stacks either side of each call, so whether StackBag reaches a bank bag after close is now answerable.",
     },
     {
       statement:
         "A visit to the banker moves every item the rules send there, however many there are.",
       workingMemory:
-        "Alan asked for batches of fifty five seconds apart and 6db0e2e batches that way; e136999 takes the per-visit cap of fifty off both loops. His 37-move visit: planned 37, issued 40, confirmed 36, 3 retries, span 17009ms, closed at 22749ms still unsettled. everyMoveLanded is unanimous, so one stuck move denies the other 36 their early settle and then takes four attempts of five seconds alone. That cooldown says how fast to send and is wrong as the timeout for calling a move failed.",
+        "Alan asked for fifty moves every five seconds. fa24233 makes the cooldown mean that: a cap on moves sent per window rather than one batch per window, so re-sending a straggler no longer waits out a window it does not fill. Calling a move failed is its own shorter deadline, so four attempts cost six seconds rather than twenty. Moves confirm one at a time as their updates arrive, so one laggard no longer denies the rest their early settle. 34ec9ce says what each settle round cost.",
     },
     {
       statement: "An Experience Commendation the character carries reaches the bank.",
