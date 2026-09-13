@@ -74,9 +74,10 @@ function keeping(at: string, mark: string, lines: readonly string[]): undefined 
   if (width > HELD_AT_MOST) return
   HELD.set(at, { mark, lines })
   HOLDING.width += width
-  for (const one of [...HELD.keys()]) {
-    if (HOLDING.width <= HELD_AT_MOST) return
-    if (one !== at) forgotten(one)
+  while (HOLDING.width > HELD_AT_MOST) {
+    const oldest = HELD.keys().next()
+    if (oldest.done === true || oldest.value === at) return
+    forgotten(oldest.value)
   }
 }
 
