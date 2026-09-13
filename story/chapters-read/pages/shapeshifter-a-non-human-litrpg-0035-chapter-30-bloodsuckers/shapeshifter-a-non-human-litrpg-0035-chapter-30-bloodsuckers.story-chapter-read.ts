@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0035Chapter30Bloodsuckers = {
   position: 35,
   ownLength: 2008,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3706230/chapter-30-bloodsuckers",
-  externalId: "3706230",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3706230",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3706230/chapter-30-bloodsuckers",
+    },
+  ],
   publishedAt: "2026-07-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

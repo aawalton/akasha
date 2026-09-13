@@ -9,10 +9,14 @@ export const speedrunningTheMultiverseComplete0032276TheGoddessOfLightIii = {
   position: 32,
   ownLength: 1793,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1297955/276-the-goddess-of-light-iii",
-  externalId: "1297955",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1297955",
+      externalLink:
+        "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1297955/276-the-goddess-of-light-iii",
+    },
+  ],
   publishedAt: "2023-08-03",
   ownProgress: 1793,
   completedAt: "2026-06-29T22:42:45.958Z",

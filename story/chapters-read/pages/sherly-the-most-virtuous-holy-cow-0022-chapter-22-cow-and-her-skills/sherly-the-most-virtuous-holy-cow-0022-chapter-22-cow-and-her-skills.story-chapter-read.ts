@@ -9,10 +9,14 @@ export const sherlyTheMostVirtuousHolyCow0022Chapter22CowAndHerSkills = {
   position: 22,
   ownLength: 1748,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2693970/chapter-22-cow-and-her-skills",
-  externalId: "2693970",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2693970",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2693970/chapter-22-cow-and-her-skills",
+    },
+  ],
   publishedAt: "2025-10-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

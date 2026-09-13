@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0038Chapter33LivingInTheShadows = {
   position: 38,
   ownLength: 1965,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3745964/chapter-33-living-in-the-shadows",
-  externalId: "3745964",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3745964",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3745964/chapter-33-living-in-the-shadows",
+    },
+  ],
   publishedAt: "2026-07-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

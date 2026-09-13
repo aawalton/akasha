@@ -7,12 +7,16 @@ export const shapeshifterANonHumanLitrpg0045Chapter40GatheringIntel = {
   position: 45,
   publishedAt: "2026-09-10",
   unit: "words",
-  externalId: "3938574",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3938574",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3938574/chapter-40-gathering-intel",
+    },
+  ],
   title: "Chapter 40: Gathering Intel",
   story: "story-read/shapeshifter-a-non-human-litrpg",
   ownLength: 1666,
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3938574/chapter-40-gathering-intel",
   prose: "txt",
 } as const satisfies StoryChapterRead

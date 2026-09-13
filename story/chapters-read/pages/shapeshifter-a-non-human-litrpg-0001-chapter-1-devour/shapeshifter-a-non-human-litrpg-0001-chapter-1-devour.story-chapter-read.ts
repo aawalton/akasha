@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0001Chapter1Devour = {
   position: 1,
   ownLength: 2571,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/2405412/chapter-1-devour",
-  externalId: "2405412",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2405412",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/2405412/chapter-1-devour",
+    },
+  ],
   publishedAt: "2025-07-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

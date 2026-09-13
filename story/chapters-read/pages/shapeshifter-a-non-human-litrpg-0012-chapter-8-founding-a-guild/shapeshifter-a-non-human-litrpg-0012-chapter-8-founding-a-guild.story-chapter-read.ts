@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0012Chapter8FoundingAGuild = {
   position: 12,
   ownLength: 2269,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3272344/chapter-8-founding-a-guild",
-  externalId: "3272344",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3272344",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3272344/chapter-8-founding-a-guild",
+    },
+  ],
   publishedAt: "2026-04-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

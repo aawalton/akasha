@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0003Chapter3Conversation = {
   position: 3,
   ownLength: 1487,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/2405560/chapter-3-conversation",
-  externalId: "2405560",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2405560",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/2405560/chapter-3-conversation",
+    },
+  ],
   publishedAt: "2025-07-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

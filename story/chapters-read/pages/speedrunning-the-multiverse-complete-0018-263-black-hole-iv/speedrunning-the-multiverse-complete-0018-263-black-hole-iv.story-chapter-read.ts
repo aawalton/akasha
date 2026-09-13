@@ -9,10 +9,14 @@ export const speedrunningTheMultiverseComplete0018263BlackHoleIv = {
   position: 18,
   ownLength: 2040,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1277700/263-black-hole-iv",
-  externalId: "1277700",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1277700",
+      externalLink:
+        "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1277700/263-black-hole-iv",
+    },
+  ],
   publishedAt: "2023-07-15",
   ownProgress: 2040,
   completedAt: "2026-06-29T22:42:17.170Z",

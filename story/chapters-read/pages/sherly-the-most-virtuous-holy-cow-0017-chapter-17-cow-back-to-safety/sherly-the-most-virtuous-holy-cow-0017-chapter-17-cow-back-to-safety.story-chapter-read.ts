@@ -9,10 +9,14 @@ export const sherlyTheMostVirtuousHolyCow0017Chapter17CowBackToSafety = {
   position: 17,
   ownLength: 2500,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2605043/chapter-17-cow-back-to-safety",
-  externalId: "2605043",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2605043",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2605043/chapter-17-cow-back-to-safety",
+    },
+  ],
   publishedAt: "2025-09-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

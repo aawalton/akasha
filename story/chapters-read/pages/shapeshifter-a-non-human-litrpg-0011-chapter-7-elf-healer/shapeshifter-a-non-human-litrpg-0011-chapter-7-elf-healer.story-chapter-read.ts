@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0011Chapter7ElfHealer = {
   position: 11,
   ownLength: 2267,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3251578/chapter-7-elf-healer",
-  externalId: "3251578",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3251578",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3251578/chapter-7-elf-healer",
+    },
+  ],
   publishedAt: "2026-04-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

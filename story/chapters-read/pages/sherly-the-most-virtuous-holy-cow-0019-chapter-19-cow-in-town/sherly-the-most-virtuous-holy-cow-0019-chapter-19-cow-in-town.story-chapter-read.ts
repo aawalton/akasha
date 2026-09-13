@@ -9,10 +9,14 @@ export const sherlyTheMostVirtuousHolyCow0019Chapter19CowInTown = {
   position: 19,
   ownLength: 2078,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2628288/chapter-19-cow-in-town",
-  externalId: "2628288",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2628288",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2628288/chapter-19-cow-in-town",
+    },
+  ],
   publishedAt: "2025-09-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const savageDivinity0733Chapter725Volume40Tba = {
   position: 733,
   ownLength: 6859,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/731818/chapter-725-volume-40-tba",
-  externalId: "731818",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "731818",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/731818/chapter-725-volume-40-tba",
+    },
+  ],
   publishedAt: "2021-08-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

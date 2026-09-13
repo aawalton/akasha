@@ -9,10 +9,14 @@ export const savageDivinity0678Chapter670Volume37Tba = {
   position: 678,
   ownLength: 5232,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/629012/chapter-670-volume-37-tba",
-  externalId: "629012",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "629012",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/629012/chapter-670-volume-37-tba",
+    },
+  ],
   publishedAt: "2021-02-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

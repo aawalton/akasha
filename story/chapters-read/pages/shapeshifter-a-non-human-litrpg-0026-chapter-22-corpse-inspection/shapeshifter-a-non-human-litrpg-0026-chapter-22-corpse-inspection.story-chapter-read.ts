@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0026Chapter22CorpseInspection = {
   position: 26,
   ownLength: 1710,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3523890/chapter-22-corpse-inspection",
-  externalId: "3523890",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3523890",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3523890/chapter-22-corpse-inspection",
+    },
+  ],
   publishedAt: "2026-06-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

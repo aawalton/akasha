@@ -9,10 +9,14 @@ export const sherlyTheMostVirtuousHolyCow0028Chapter28CowVersusShervisvile = {
   position: 28,
   ownLength: 2007,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2831386/chapter-28-cow-versus-shervisvile",
-  externalId: "2831386",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2831386",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2831386/chapter-28-cow-versus-shervisvile",
+    },
+  ],
   publishedAt: "2025-12-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0031Chapter27LyingInWait = {
   position: 31,
   ownLength: 1780,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3612004/chapter-27-lying-in-wait",
-  externalId: "3612004",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3612004",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3612004/chapter-27-lying-in-wait",
+    },
+  ],
   publishedAt: "2026-06-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

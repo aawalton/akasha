@@ -9,10 +9,14 @@ export const savageDivinity0696Chapter688Volume38Tba = {
   position: 696,
   ownLength: 6954,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/668262/chapter-688-volume-38-tba",
-  externalId: "668262",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "668262",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/668262/chapter-688-volume-38-tba",
+    },
+  ],
   publishedAt: "2021-04-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

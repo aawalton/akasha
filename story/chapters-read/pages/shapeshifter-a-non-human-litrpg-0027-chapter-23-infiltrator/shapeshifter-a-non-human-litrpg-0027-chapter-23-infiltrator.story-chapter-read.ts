@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0027Chapter23Infiltrator = {
   position: 27,
   ownLength: 1370,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3547425/chapter-23-infiltrator",
-  externalId: "3547425",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3547425",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3547425/chapter-23-infiltrator",
+    },
+  ],
   publishedAt: "2026-06-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

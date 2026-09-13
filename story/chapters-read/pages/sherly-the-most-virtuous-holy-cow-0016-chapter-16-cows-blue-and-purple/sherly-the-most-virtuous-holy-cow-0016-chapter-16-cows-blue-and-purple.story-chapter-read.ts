@@ -9,10 +9,14 @@ export const sherlyTheMostVirtuousHolyCow0016Chapter16CowsBlueAndPurple = {
   position: 16,
   ownLength: 2998,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2587549/chapter-16-cows-blue-and-purple",
-  externalId: "2587549",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2587549",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2587549/chapter-16-cows-blue-and-purple",
+    },
+  ],
   publishedAt: "2025-09-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

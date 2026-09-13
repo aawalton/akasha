@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0017Chapter13ThornfinLurker = {
   position: 17,
   ownLength: 2094,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3386212/chapter-13-thornfin-lurker",
-  externalId: "3386212",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3386212",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3386212/chapter-13-thornfin-lurker",
+    },
+  ],
   publishedAt: "2026-05-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

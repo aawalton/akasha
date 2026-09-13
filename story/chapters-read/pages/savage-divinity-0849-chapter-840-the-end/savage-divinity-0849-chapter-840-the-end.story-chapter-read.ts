@@ -9,10 +9,14 @@ export const savageDivinity0849Chapter840TheEnd = {
   position: 849,
   ownLength: 9596,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/1000695/chapter-840-the-end",
-  externalId: "1000695",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1000695",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/1000695/chapter-840-the-end",
+    },
+  ],
   publishedAt: "2022-09-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

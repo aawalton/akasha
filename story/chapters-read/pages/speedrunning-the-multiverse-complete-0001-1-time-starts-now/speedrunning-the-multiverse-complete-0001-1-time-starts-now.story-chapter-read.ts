@@ -9,10 +9,14 @@ export const speedrunningTheMultiverseComplete00011TimeStartsNow = {
   position: 1,
   ownLength: 2759,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/745468/1-time-starts-now",
-  externalId: "745468",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "745468",
+      externalLink:
+        "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/745468/1-time-starts-now",
+    },
+  ],
   publishedAt: "2021-09-05",
   ownProgress: 2759,
   completedAt: "2026-06-29T22:41:38.994Z",

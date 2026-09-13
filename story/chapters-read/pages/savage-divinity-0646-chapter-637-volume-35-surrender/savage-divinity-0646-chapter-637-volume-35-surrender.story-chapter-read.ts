@@ -9,10 +9,14 @@ export const savageDivinity0646Chapter637Volume35Surrender = {
   position: 646,
   ownLength: 8198,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/569752/chapter-637-volume-35-surrender",
-  externalId: "569752",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "569752",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/569752/chapter-637-volume-35-surrender",
+    },
+  ],
   publishedAt: "2020-10-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0039Chapter34AbyssalCarapace = {
   position: 39,
   ownLength: 2150,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3767987/chapter-34-abyssal-carapace",
-  externalId: "3767987",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3767987",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3767987/chapter-34-abyssal-carapace",
+    },
+  ],
   publishedAt: "2026-08-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

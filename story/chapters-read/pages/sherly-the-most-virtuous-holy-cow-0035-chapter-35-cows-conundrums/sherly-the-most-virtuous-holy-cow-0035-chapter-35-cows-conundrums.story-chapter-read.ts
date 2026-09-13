@@ -9,10 +9,14 @@ export const sherlyTheMostVirtuousHolyCow0035Chapter35CowsConundrums = {
   position: 35,
   ownLength: 1752,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/3053280/chapter-35-cows-conundrums",
-  externalId: "3053280",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3053280",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/3053280/chapter-35-cows-conundrums",
+    },
+  ],
   publishedAt: "2026-02-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

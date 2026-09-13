@@ -9,10 +9,14 @@ export const sherlyTheMostVirtuousHolyCow0020Chapter20CowsArmorAndSword = {
   position: 20,
   ownLength: 2021,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2643547/chapter-20-cows-armor-and-sword",
-  externalId: "2643547",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2643547",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2643547/chapter-20-cows-armor-and-sword",
+    },
+  ],
   publishedAt: "2025-10-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

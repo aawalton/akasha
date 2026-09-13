@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0020Chapter16TruePower = {
   position: 20,
   ownLength: 1672,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3427349/chapter-16-true-power",
-  externalId: "3427349",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3427349",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3427349/chapter-16-true-power",
+    },
+  ],
   publishedAt: "2026-05-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

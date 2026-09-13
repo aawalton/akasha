@@ -9,10 +9,14 @@ export const speedrunningTheMultiverseComplete0009254TheGodhunterVi = {
   position: 9,
   ownLength: 1882,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1266283/254-the-godhunter-vi",
-  externalId: "1266283",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1266283",
+      externalLink:
+        "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1266283/254-the-godhunter-vi",
+    },
+  ],
   publishedAt: "2023-07-04",
   ownProgress: 1882,
   completedAt: "2026-06-29T22:41:58.284Z",

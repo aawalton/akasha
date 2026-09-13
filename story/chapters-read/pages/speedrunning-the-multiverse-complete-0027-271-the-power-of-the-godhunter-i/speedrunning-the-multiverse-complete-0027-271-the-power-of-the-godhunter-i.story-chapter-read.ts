@@ -9,10 +9,14 @@ export const speedrunningTheMultiverseComplete0027271ThePowerOfTheGodhunterI = {
   position: 27,
   ownLength: 1847,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1290464/271-the-power-of-the-godhunter-i",
-  externalId: "1290464",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1290464",
+      externalLink:
+        "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1290464/271-the-power-of-the-godhunter-i",
+    },
+  ],
   publishedAt: "2023-07-27",
   ownProgress: 1847,
   completedAt: "2026-06-29T22:42:35.457Z",

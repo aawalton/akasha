@@ -9,10 +9,14 @@ export const sherlyTheMostVirtuousHolyCow0034Chapter34CowByTheBladesOfGrass = {
   position: 34,
   ownLength: 1841,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/3018887/chapter-34-cow-by-the-blades-of-grass",
-  externalId: "3018887",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3018887",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/3018887/chapter-34-cow-by-the-blades-of-grass",
+    },
+  ],
   publishedAt: "2026-02-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

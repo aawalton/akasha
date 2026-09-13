@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0030Chapter26ReturnOfGhostwire = {
   position: 30,
   ownLength: 1825,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3588846/chapter-26-return-of-ghostwire",
-  externalId: "3588846",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3588846",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3588846/chapter-26-return-of-ghostwire",
+    },
+  ],
   publishedAt: "2026-06-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -8,11 +8,15 @@ export const shapeshifterANonHumanLitrpg0044Chapter39StatDifference = {
   position: 44,
   publishedAt: "2026-09-08",
   unit: "words",
-  externalId: "3929467",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3929467",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3929467/chapter-39-stat-difference",
+    },
+  ],
   title: "Chapter 39: Stat Difference",
   ownLength: 1664,
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3929467/chapter-39-stat-difference",
   prose: "txt",
 } as const satisfies StoryChapterRead

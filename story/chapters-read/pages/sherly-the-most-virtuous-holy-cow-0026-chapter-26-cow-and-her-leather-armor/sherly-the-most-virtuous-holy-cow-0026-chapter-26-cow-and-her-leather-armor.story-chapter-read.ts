@@ -9,10 +9,14 @@ export const sherlyTheMostVirtuousHolyCow0026Chapter26CowAndHerLeatherArmor = {
   position: 26,
   ownLength: 2060,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2768999/chapter-26-cow-and-her-leather-armor",
-  externalId: "2768999",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2768999",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2768999/chapter-26-cow-and-her-leather-armor",
+    },
+  ],
   publishedAt: "2025-11-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

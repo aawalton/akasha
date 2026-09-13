@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0016Chapter12CanopyStalker = {
   position: 16,
   ownLength: 1785,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3328749/chapter-12-canopy-stalker",
-  externalId: "3328749",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3328749",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3328749/chapter-12-canopy-stalker",
+    },
+  ],
   publishedAt: "2026-04-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

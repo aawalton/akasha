@@ -9,10 +9,14 @@ export const speedrunningTheMultiverseComplete0015260BlackHoleI = {
   position: 15,
   ownLength: 1924,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1274428/260-black-hole-i",
-  externalId: "1274428",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1274428",
+      externalLink:
+        "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1274428/260-black-hole-i",
+    },
+  ],
   publishedAt: "2023-07-12",
   ownProgress: 1924,
   completedAt: "2026-06-29T22:42:10.890Z",

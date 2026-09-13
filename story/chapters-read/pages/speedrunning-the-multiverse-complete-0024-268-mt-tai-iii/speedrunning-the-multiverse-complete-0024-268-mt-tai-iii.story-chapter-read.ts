@@ -9,10 +9,14 @@ export const speedrunningTheMultiverseComplete0024268MtTaiIii = {
   position: 24,
   ownLength: 2218,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1285273/268-mt-tai-iii",
-  externalId: "1285273",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1285273",
+      externalLink:
+        "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1285273/268-mt-tai-iii",
+    },
+  ],
   publishedAt: "2023-07-22",
   ownProgress: 2218,
   completedAt: "2026-06-29T22:42:28.938Z",

@@ -9,10 +9,14 @@ export const sherlyTheMostVirtuousHolyCow0030Chapter30CowSkydiving = {
   position: 30,
   ownLength: 2050,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2853288/chapter-30-cow-skydiving",
-  externalId: "2853288",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2853288",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2853288/chapter-30-cow-skydiving",
+    },
+  ],
   publishedAt: "2025-12-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

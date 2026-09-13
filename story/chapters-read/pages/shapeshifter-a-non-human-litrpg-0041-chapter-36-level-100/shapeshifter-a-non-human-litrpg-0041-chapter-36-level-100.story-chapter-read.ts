@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0041Chapter36Level100 = {
   position: 41,
   ownLength: 2155,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3870898/chapter-36-level-100",
-  externalId: "3870898",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3870898",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3870898/chapter-36-level-100",
+    },
+  ],
   publishedAt: "2026-08-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

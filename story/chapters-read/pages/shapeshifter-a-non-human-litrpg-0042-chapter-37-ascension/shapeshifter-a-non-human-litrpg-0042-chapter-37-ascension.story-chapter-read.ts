@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0042Chapter37Ascension = {
   position: 42,
   ownLength: 1872,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3894466/chapter-37-ascension",
-  externalId: "3894466",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3894466",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3894466/chapter-37-ascension",
+    },
+  ],
   publishedAt: "2026-09-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

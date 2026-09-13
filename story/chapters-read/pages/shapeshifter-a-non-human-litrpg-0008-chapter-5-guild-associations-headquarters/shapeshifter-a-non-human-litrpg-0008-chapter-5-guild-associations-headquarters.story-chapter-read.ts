@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0008Chapter5GuildAssociationsHeadquarter
   position: 8,
   ownLength: 1510,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3222200/chapter-5-guild-associations-headquarters",
-  externalId: "3222200",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3222200",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3222200/chapter-5-guild-associations-headquarters",
+    },
+  ],
   publishedAt: "2026-04-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

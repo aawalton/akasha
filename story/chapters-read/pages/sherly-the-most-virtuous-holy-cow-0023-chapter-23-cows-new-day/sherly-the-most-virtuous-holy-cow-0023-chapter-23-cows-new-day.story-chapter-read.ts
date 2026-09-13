@@ -9,10 +9,14 @@ export const sherlyTheMostVirtuousHolyCow0023Chapter23CowsNewDay = {
   position: 23,
   ownLength: 2153,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2709043/chapter-23-cows-new-day",
-  externalId: "2709043",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2709043",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2709043/chapter-23-cows-new-day",
+    },
+  ],
   publishedAt: "2025-10-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0010Chapter6GuildRegistration = {
   position: 10,
   ownLength: 2006,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3243207/chapter-6-guild-registration",
-  externalId: "3243207",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3243207",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3243207/chapter-6-guild-registration",
+    },
+  ],
   publishedAt: "2026-04-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

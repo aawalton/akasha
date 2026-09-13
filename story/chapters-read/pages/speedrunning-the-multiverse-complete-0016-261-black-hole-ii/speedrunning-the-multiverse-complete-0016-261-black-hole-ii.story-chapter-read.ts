@@ -9,10 +9,14 @@ export const speedrunningTheMultiverseComplete0016261BlackHoleIi = {
   position: 16,
   ownLength: 1978,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1275514/261-black-hole-ii",
-  externalId: "1275514",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1275514",
+      externalLink:
+        "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1275514/261-black-hole-ii",
+    },
+  ],
   publishedAt: "2023-07-13",
   ownProgress: 1978,
   completedAt: "2026-06-29T22:42:12.897Z",

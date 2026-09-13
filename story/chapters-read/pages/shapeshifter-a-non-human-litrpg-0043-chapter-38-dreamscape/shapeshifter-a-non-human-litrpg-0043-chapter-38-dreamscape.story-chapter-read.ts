@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0043Chapter38Dreamscape = {
   position: 43,
   ownLength: 1964,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3903749/chapter-38-dreamscape",
-  externalId: "3903749",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3903749",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3903749/chapter-38-dreamscape",
+    },
+  ],
   publishedAt: "2026-09-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const sherlyTheMostVirtuousHolyCow0032Chapter32CowVersusTreantcap = {
   position: 32,
   ownLength: 1907,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2945771/chapter-32-cow-versus-treantcap",
-  externalId: "2945771",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2945771",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2945771/chapter-32-cow-versus-treantcap",
+    },
+  ],
   publishedAt: "2026-01-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

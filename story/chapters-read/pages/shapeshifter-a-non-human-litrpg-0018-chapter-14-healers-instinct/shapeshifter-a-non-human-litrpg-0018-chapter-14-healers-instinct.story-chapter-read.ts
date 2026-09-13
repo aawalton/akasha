@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0018Chapter14HealersInstinct = {
   position: 18,
   ownLength: 2161,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3394590/chapter-14-healers-instinct",
-  externalId: "3394590",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3394590",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3394590/chapter-14-healers-instinct",
+    },
+  ],
   publishedAt: "2026-05-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

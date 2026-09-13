@@ -9,10 +9,14 @@ export const savageDivinity0855Epilogue6LinLin = {
   position: 855,
   ownLength: 7129,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/1662655/epilogue-6-lin-lin",
-  externalId: "1662655",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1662655",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/1662655/epilogue-6-lin-lin",
+    },
+  ],
   publishedAt: "2024-06-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

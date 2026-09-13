@@ -9,10 +9,14 @@ export const savageDivinity0852Epilogue3LuoLuo = {
   position: 852,
   ownLength: 7170,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/1662652/epilogue-3-luo-luo",
-  externalId: "1662652",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1662652",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/1662652/epilogue-3-luo-luo",
+    },
+  ],
   publishedAt: "2024-06-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

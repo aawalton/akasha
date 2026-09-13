@@ -9,10 +9,14 @@ export const sherlyTheMostVirtuousHolyCow0029Chapter29CowOnTheGap = {
   position: 29,
   ownLength: 2178,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2841868/chapter-29-cow-on-the-gap",
-  externalId: "2841868",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2841868",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2841868/chapter-29-cow-on-the-gap",
+    },
+  ],
   publishedAt: "2025-12-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

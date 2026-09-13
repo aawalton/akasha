@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0006Chapter3ImAGirlNowSoWhat = {
   position: 6,
   ownLength: 1951,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3195633/chapter-3-im-a-girl-now-so-what",
-  externalId: "3195633",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3195633",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3195633/chapter-3-im-a-girl-now-so-what",
+    },
+  ],
   publishedAt: "2026-03-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

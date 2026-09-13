@@ -9,10 +9,14 @@ export const sherlyTheMostVirtuousHolyCow0010Chapter10CowMisunderstandings = {
   position: 10,
   ownLength: 2079,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2536230/chapter-10-cow-misunderstandings",
-  externalId: "2536230",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2536230",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2536230/chapter-10-cow-misunderstandings",
+    },
+  ],
   publishedAt: "2025-08-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const sherlyTheMostVirtuousHolyCow0008Chapter8CowInTheNight = {
   position: 8,
   ownLength: 1930,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2525766/chapter-8-cow-in-the-night",
-  externalId: "2525766",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525766",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2525766/chapter-8-cow-in-the-night",
+    },
+  ],
   publishedAt: "2025-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

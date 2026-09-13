@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0028Chapter24AbyssalRift = {
   position: 28,
   ownLength: 1720,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3556464/chapter-24-abyssal-rift",
-  externalId: "3556464",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3556464",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3556464/chapter-24-abyssal-rift",
+    },
+  ],
   publishedAt: "2026-06-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

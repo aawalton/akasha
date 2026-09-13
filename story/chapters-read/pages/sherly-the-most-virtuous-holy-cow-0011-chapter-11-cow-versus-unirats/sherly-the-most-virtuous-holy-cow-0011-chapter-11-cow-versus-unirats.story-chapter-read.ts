@@ -9,10 +9,14 @@ export const sherlyTheMostVirtuousHolyCow0011Chapter11CowVersusUnirats = {
   position: 11,
   ownLength: 2412,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2541580/chapter-11-cow-versus-unirats",
-  externalId: "2541580",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2541580",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2541580/chapter-11-cow-versus-unirats",
+    },
+  ],
   publishedAt: "2025-08-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

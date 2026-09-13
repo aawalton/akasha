@@ -9,10 +9,14 @@ export const speedrunningTheMultiverseComplete0021Book1KindleAudibleLaunch = {
   position: 21,
   ownLength: 150,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1282277/book-1-kindle-audible-launch",
-  externalId: "1282277",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1282277",
+      externalLink:
+        "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1282277/book-1-kindle-audible-launch",
+    },
+  ],
   publishedAt: "2023-07-19",
   ownProgress: 150,
   completedAt: "2026-06-29T22:42:23.328Z",

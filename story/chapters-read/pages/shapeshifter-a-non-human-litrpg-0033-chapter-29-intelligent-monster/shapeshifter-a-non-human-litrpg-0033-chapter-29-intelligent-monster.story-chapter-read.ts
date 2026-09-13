@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0033Chapter29IntelligentMonster = {
   position: 33,
   ownLength: 1621,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3684623/chapter-29-intelligent-monster",
-  externalId: "3684623",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3684623",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3684623/chapter-29-intelligent-monster",
+    },
+  ],
   publishedAt: "2026-07-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

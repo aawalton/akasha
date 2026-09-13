@@ -9,10 +9,14 @@ export const sovereignSightProgressionFantasyCultivation0039Chapter039 = {
   position: 39,
   ownLength: 2644,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/171595/sovereign-sight-progression-fantasy-cultivation/chapter/3733285/chapter-039",
-  externalId: "3733285",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3733285",
+      externalLink:
+        "https://www.royalroad.com/fiction/171595/sovereign-sight-progression-fantasy-cultivation/chapter/3733285/chapter-039",
+    },
+  ],
   publishedAt: "2026-07-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

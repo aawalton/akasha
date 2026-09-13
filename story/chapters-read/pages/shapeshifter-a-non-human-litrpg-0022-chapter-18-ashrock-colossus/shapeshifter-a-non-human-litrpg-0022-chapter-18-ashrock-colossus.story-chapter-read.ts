@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0022Chapter18AshrockColossus = {
   position: 22,
   ownLength: 2098,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3460129/chapter-18-ashrock-colossus",
-  externalId: "3460129",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3460129",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3460129/chapter-18-ashrock-colossus",
+    },
+  ],
   publishedAt: "2026-05-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

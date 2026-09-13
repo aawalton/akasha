@@ -9,10 +9,14 @@ export const savageDivinity0856Epilogue7FallingRain = {
   position: 856,
   ownLength: 14789,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/1662656/epilogue-7-falling-rain",
-  externalId: "1662656",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1662656",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/1662656/epilogue-7-falling-rain",
+    },
+  ],
   publishedAt: "2024-06-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

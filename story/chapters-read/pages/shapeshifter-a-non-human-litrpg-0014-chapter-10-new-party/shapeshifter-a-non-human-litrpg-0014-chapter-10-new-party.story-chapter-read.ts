@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0014Chapter10NewParty = {
   position: 14,
   ownLength: 1481,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3303004/chapter-10-new-party",
-  externalId: "3303004",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3303004",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3303004/chapter-10-new-party",
+    },
+  ],
   publishedAt: "2026-04-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0013Chapter9FuturePlans = {
   position: 13,
   ownLength: 1901,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3281055/chapter-9-future-plans",
-  externalId: "3281055",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3281055",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3281055/chapter-9-future-plans",
+    },
+  ],
   publishedAt: "2026-04-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

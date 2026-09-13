@@ -9,10 +9,14 @@ export const sherlyTheMostVirtuousHolyCow0031Chapter31CowMeteor = {
   position: 31,
   ownLength: 1879,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2920450/chapter-31-cow-meteor",
-  externalId: "2920450",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2920450",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2920450/chapter-31-cow-meteor",
+    },
+  ],
   publishedAt: "2026-01-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const sherlyTheMostVirtuousHolyCow0001Chapter1CowOnTheRun = {
   position: 1,
   ownLength: 2545,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2525463/chapter-1-cow-on-the-run",
-  externalId: "2525463",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525463",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2525463/chapter-1-cow-on-the-run",
+    },
+  ],
   publishedAt: "2025-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

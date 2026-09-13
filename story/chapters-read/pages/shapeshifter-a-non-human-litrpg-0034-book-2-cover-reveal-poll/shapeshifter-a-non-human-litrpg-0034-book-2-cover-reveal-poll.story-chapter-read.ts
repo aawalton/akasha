@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0034Book2CoverRevealPoll = {
   position: 34,
   ownLength: 1449,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3695869/book-2-cover-reveal-poll",
-  externalId: "3695869",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3695869",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3695869/book-2-cover-reveal-poll",
+    },
+  ],
   publishedAt: "2026-07-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0007Chapter4PoliceAtTheDoor = {
   position: 7,
   ownLength: 2005,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3214183/chapter-4-police-at-the-door",
-  externalId: "3214183",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3214183",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3214183/chapter-4-police-at-the-door",
+    },
+  ],
   publishedAt: "2026-03-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

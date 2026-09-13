@@ -9,10 +9,14 @@ export const savageDivinity0753NoChapterTonight = {
   position: 753,
   ownLength: 105,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/781762/no-chapter-tonight",
-  externalId: "781762",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "781762",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/781762/no-chapter-tonight",
+    },
+  ],
   publishedAt: "2021-11-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

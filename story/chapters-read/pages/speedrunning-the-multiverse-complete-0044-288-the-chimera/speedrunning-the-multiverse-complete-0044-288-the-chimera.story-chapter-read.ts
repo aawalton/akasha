@@ -9,10 +9,14 @@ export const speedrunningTheMultiverseComplete0044288TheChimera = {
   position: 44,
   ownLength: 1552,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1315204/288-the-chimera",
-  externalId: "1315204",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1315204",
+      externalLink:
+        "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1315204/288-the-chimera",
+    },
+  ],
   publishedAt: "2023-08-19",
   ownProgress: 1552,
   completedAt: "2026-06-29T22:43:11.170Z",

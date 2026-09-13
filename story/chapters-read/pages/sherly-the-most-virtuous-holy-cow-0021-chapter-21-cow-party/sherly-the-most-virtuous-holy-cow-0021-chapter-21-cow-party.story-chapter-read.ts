@@ -9,10 +9,14 @@ export const sherlyTheMostVirtuousHolyCow0021Chapter21CowParty = {
   position: 21,
   ownLength: 2423,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2688725/chapter-21-cow-party",
-  externalId: "2688725",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2688725",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2688725/chapter-21-cow-party",
+    },
+  ],
   publishedAt: "2025-10-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

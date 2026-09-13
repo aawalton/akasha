@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0036Chapter31Obliteration = {
   position: 36,
   ownLength: 1417,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3714712/chapter-31-obliteration",
-  externalId: "3714712",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3714712",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3714712/chapter-31-obliteration",
+    },
+  ],
   publishedAt: "2026-07-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

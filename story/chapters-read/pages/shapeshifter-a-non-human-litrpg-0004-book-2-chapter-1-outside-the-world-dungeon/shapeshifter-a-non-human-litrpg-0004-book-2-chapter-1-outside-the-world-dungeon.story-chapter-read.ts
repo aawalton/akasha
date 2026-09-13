@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0004Book2Chapter1OutsideTheWorldDungeon 
   position: 4,
   ownLength: 2085,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3169084/book-2-chapter-1-outside-the-world-dungeon",
-  externalId: "3169084",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3169084",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3169084/book-2-chapter-1-outside-the-world-dungeon",
+    },
+  ],
   publishedAt: "2026-03-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

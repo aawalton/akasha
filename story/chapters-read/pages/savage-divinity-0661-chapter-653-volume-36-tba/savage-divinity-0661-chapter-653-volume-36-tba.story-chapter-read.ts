@@ -9,10 +9,14 @@ export const savageDivinity0661Chapter653Volume36Tba = {
   position: 661,
   ownLength: 6423,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/590367/chapter-653-volume-36-tba",
-  externalId: "590367",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "590367",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/590367/chapter-653-volume-36-tba",
+    },
+  ],
   publishedAt: "2020-11-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,9 +9,14 @@ export const savageDivinity0659Chapter650 = {
   position: 659,
   ownLength: 6339,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/586596/chapter-650",
-  externalId: "586596",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "586596",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/586596/chapter-650",
+    },
+  ],
   publishedAt: "2020-11-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

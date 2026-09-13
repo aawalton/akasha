@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0029Chapter25LevelingParadise = {
   position: 29,
   ownLength: 2194,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3579541/chapter-25-leveling-paradise",
-  externalId: "3579541",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3579541",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3579541/chapter-25-leveling-paradise",
+    },
+  ],
   publishedAt: "2026-06-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

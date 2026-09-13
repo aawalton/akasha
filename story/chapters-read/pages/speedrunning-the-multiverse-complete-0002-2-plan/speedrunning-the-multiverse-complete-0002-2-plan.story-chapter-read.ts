@@ -9,10 +9,14 @@ export const speedrunningTheMultiverseComplete00022Plan = {
   position: 2,
   ownLength: 2325,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/745992/2-plan",
-  externalId: "745992",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "745992",
+      externalLink:
+        "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/745992/2-plan",
+    },
+  ],
   publishedAt: "2021-09-06",
   ownProgress: 2325,
   completedAt: "2026-06-29T22:41:41.266Z",

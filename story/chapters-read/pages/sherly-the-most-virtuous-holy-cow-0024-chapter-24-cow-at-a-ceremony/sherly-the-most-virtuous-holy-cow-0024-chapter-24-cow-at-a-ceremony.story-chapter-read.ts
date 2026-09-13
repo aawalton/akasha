@@ -9,10 +9,14 @@ export const sherlyTheMostVirtuousHolyCow0024Chapter24CowAtACeremony = {
   position: 24,
   ownLength: 1875,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2717149/chapter-24-cow-at-a-ceremony",
-  externalId: "2717149",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2717149",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2717149/chapter-24-cow-at-a-ceremony",
+    },
+  ],
   publishedAt: "2025-10-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

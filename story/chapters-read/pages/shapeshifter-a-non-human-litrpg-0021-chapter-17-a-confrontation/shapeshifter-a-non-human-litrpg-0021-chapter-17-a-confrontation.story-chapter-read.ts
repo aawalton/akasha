@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0021Chapter17AConfrontation = {
   position: 21,
   ownLength: 2098,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3448420/chapter-17-a-confrontation",
-  externalId: "3448420",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3448420",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3448420/chapter-17-a-confrontation",
+    },
+  ],
   publishedAt: "2026-05-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

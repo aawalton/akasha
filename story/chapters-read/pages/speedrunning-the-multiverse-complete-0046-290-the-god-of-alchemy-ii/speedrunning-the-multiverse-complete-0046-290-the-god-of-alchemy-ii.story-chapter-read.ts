@@ -9,10 +9,14 @@ export const speedrunningTheMultiverseComplete0046290TheGodOfAlchemyIi = {
   position: 46,
   ownLength: 1696,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1319139/290-the-god-of-alchemy-ii",
-  externalId: "1319139",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1319139",
+      externalLink:
+        "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1319139/290-the-god-of-alchemy-ii",
+    },
+  ],
   publishedAt: "2023-08-23",
   ownProgress: 1696,
   completedAt: "2026-06-29T22:43:15.562Z",

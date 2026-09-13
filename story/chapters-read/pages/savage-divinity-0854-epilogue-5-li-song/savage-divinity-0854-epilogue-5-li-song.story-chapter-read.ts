@@ -9,10 +9,14 @@ export const savageDivinity0854Epilogue5LiSong = {
   position: 854,
   ownLength: 7108,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/1662654/epilogue-5-li-song",
-  externalId: "1662654",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1662654",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/1662654/epilogue-5-li-song",
+    },
+  ],
   publishedAt: "2024-06-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

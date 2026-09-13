@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0015Chapter11BackIntoTheDungeon = {
   position: 15,
   ownLength: 1997,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3308975/chapter-11-back-into-the-dungeon",
-  externalId: "3308975",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3308975",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3308975/chapter-11-back-into-the-dungeon",
+    },
+  ],
   publishedAt: "2026-04-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

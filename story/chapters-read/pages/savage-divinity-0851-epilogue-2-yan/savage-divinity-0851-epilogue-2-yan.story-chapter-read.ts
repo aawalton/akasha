@@ -9,10 +9,14 @@ export const savageDivinity0851Epilogue2Yan = {
   position: 851,
   ownLength: 7254,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/1662651/epilogue-2-yan",
-  externalId: "1662651",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1662651",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/1662651/epilogue-2-yan",
+    },
+  ],
   publishedAt: "2024-06-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const sherlyTheMostVirtuousHolyCow0027Chapter27CowOnAnotherRoad = {
   position: 27,
   ownLength: 2226,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2780655/chapter-27-cow-on-another-road",
-  externalId: "2780655",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2780655",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2780655/chapter-27-cow-on-another-road",
+    },
+  ],
   publishedAt: "2025-11-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

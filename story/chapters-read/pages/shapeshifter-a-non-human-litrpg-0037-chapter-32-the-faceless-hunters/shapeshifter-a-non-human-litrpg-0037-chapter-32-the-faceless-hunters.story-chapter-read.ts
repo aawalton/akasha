@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0037Chapter32TheFacelessHunters = {
   position: 37,
   ownLength: 1985,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3736979/chapter-32-the-faceless-hunters",
-  externalId: "3736979",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3736979",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3736979/chapter-32-the-faceless-hunters",
+    },
+  ],
   publishedAt: "2026-07-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

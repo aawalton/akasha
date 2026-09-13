@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0025Chapter21Changeling = {
   position: 25,
   ownLength: 2345,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3514229/chapter-21-changeling",
-  externalId: "3514229",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3514229",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3514229/chapter-21-changeling",
+    },
+  ],
   publishedAt: "2026-06-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

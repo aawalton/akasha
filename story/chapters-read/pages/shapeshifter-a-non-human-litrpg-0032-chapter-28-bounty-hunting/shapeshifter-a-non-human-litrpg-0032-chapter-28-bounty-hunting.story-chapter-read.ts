@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0032Chapter28BountyHunting = {
   position: 32,
   ownLength: 1937,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3621649/chapter-28-bounty-hunting",
-  externalId: "3621649",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3621649",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3621649/chapter-28-bounty-hunting",
+    },
+  ],
   publishedAt: "2026-07-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

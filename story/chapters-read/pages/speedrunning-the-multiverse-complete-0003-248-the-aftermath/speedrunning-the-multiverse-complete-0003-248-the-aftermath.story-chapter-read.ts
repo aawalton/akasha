@@ -9,10 +9,14 @@ export const speedrunningTheMultiverseComplete0003248TheAftermath = {
   position: 3,
   ownLength: 1817,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1256080/248-the-aftermath",
-  externalId: "1256080",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1256080",
+      externalLink:
+        "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1256080/248-the-aftermath",
+    },
+  ],
   publishedAt: "2023-06-24",
   ownProgress: 1817,
   completedAt: "2026-06-29T22:41:43.590Z",

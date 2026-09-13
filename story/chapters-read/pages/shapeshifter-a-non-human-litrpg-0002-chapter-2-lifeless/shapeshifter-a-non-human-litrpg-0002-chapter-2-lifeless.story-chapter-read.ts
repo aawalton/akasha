@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0002Chapter2Lifeless = {
   position: 2,
   ownLength: 1110,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/2405556/chapter-2-lifeless",
-  externalId: "2405556",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2405556",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/2405556/chapter-2-lifeless",
+    },
+  ],
   publishedAt: "2025-07-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

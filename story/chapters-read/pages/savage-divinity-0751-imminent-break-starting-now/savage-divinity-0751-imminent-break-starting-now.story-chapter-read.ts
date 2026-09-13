@@ -9,10 +9,14 @@ export const savageDivinity0751ImminentBreakStartingNow = {
   position: 751,
   ownLength: 350,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/757784/imminent-break-starting-now",
-  externalId: "757784",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "757784",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/757784/imminent-break-starting-now",
+    },
+  ],
   publishedAt: "2021-09-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

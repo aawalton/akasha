@@ -9,10 +9,14 @@ export const sherlyTheMostVirtuousHolyCow0007Chapter7CowAndTheFirstTown = {
   position: 7,
   ownLength: 2210,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2525748/chapter-7-cow-and-the-first-town",
-  externalId: "2525748",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525748",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2525748/chapter-7-cow-and-the-first-town",
+    },
+  ],
   publishedAt: "2025-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

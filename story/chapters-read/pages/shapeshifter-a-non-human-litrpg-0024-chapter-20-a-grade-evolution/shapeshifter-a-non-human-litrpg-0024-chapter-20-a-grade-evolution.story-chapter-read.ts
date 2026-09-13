@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0024Chapter20AGradeEvolution = {
   position: 24,
   ownLength: 1535,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3491844/chapter-20-a-grade-evolution",
-  externalId: "3491844",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3491844",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3491844/chapter-20-a-grade-evolution",
+    },
+  ],
   publishedAt: "2026-06-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

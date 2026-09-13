@@ -9,10 +9,14 @@ export const shapeshifterANonHumanLitrpg0005Chapter2CharlieTheCat = {
   position: 5,
   ownLength: 2041,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3187501/chapter-2-charlie-the-cat",
-  externalId: "3187501",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3187501",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3187501/chapter-2-charlie-the-cat",
+    },
+  ],
   publishedAt: "2026-03-24",
   prose: "txt",
 } as const satisfies StoryChapterRead
