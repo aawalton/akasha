@@ -15,7 +15,7 @@ export const akashaFolderShape = {
     {
       statement: "The folder shapes are the fewest patterns that allow every folder in akasha.",
       workingMemory:
-        "No pair of the twelve judges differs only in `HOLDS`. `judgedBy` in `shape-loading` does the name check before a judge runs, so `HOLDS` is already a parameter, and five shapes publish none. The judges differ in control flow rather than in data: three predicates for a page type, a three-valued empty-folder policy, five subfolder policies. The two shapes holding `properties` stay two, because `folder-shape.page-type.ts:60` makes one folder matching two a departure.\n",
+        "Thirteen shapes; `the-workspace-root` went into `a-domain-with-its-parts`. Two judges are shared: `one-type-only` carries `modules-only`, `test-fixtures-only` and `scripts-only`, its page type, words and declared-parts policy handed in; `property-pages` carries what the two `properties` shapes said alike. Apart still: three `with-its-parts`, `pages-of-the-type-above`, two `sections`, the workstation. A page type extends domain, so `a-domain-with-its-parts` matches what `a-page-type` does.\n",
     },
 
     {
