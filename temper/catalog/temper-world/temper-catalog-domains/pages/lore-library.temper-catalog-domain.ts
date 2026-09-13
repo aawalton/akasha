@@ -8,7 +8,7 @@ export const loreLibrary = {
   icon: "file-text",
   apiVersion: "eso.live.12.0.8.3288357",
   manifestApiVersion: 101050,
-  capturedAt: "2026-09-13T13:52:48.863Z",
+  capturedAt: "2026-09-13T14:14:39.752Z",
   generatorRanForVersion: "eso.live.12.0.6.3274791",
   generatorRanForManifestApiVersion: 101050,
 } as const satisfies TemperCatalogDomain
