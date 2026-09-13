@@ -7,7 +7,7 @@ export const testingSystem = {
   definition: "what a test sets up to try something, and what it takes away after",
   parts: [
     "domain/test",
-    "domain/test-fixture",
+
     "module/bodying",
     "module/declaring",
     "module/dom-guard-setting",
@@ -19,6 +19,7 @@ export const testingSystem = {
     "module/repo-seeding",
     "module/waiting",
     "module/walking",
+    "page-type/test-fixture",
   ],
   invariants: [
     {
