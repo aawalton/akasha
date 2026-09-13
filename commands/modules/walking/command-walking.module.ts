@@ -128,8 +128,7 @@ export const commandWalking = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A word naming more than one part steps into the first part the level above states.",
+      statement: "A word naming more than one part ends the walk and steps into none of them.",
     },
   ],
 } as const satisfies Module

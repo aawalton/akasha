@@ -89,7 +89,7 @@ test("a name more than one level under one level states is carried out whole", (
   expect(walkingIn(["command/held"], ["held"], twice)?.found.length).toBe(2)
 })
 
-test("a word naming more than one part steps into the first part the level above states", () => {
+test("a word naming more than one part ends the walk and steps into none of them", () => {
   const twins: Readonly<Record<string, Level>> = {
     "namespace/pick": level("namespace", "pick", "pick", [
       "command/pick-first",
@@ -104,14 +104,16 @@ test("a word naming more than one part steps into the first part the level above
     const one = twins[part]
     return one === undefined ? [] : [one]
   }
-  expect(walkingIn(["namespace/pick"], ["pick", "twin"], among)?.found.length).toBe(2)
+  const both = ["pick-first", "pick-second"]
+  const twin = walkingIn(["namespace/pick"], ["pick", "twin"], among)
+  expect(twin?.found.map((one) => one.slug)).toEqual(both)
   const near = walkingIn(["namespace/pick"], ["pick", "twin", "near"], among)
-  expect(near?.held).toBe(3)
-  expect(near?.found[0]?.slug).toBe("pick-first-near")
-  expect(near?.above.map((one) => one.slug)).toEqual(["pick", "pick-first"])
+  expect(near?.held).toBe(2)
+  expect(near?.found.map((one) => one.slug)).toEqual(both)
+  expect(near?.above.map((one) => one.slug)).toEqual(["pick"])
   const far = walkingIn(["namespace/pick"], ["pick", "twin", "far"], among)
   expect(far?.held).toBe(2)
-  expect(far?.found[0]?.slug).toBe("pick-first")
+  expect(far?.found.map((one) => one.slug)).toEqual(both)
 })
 
 test("the words taken down end at the first word that could be no slug", () => {

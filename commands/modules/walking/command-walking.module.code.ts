@@ -85,6 +85,7 @@ export function walkingIn(
     if (one === undefined) return reached
     held = held + 1
     reached = { held, found, above: [...above] }
+    if (found.length > 1) return reached
     above.push(one)
     under = one.parts
   }
