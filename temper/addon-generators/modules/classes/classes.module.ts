@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
-
-export const classes = {
-  id: "01a0607b-153c-7351-90d3-51613cae2967",
-  type: "module",
-  slug: "classes",
-  definition: "the classes data file, rendered from pages",
-  code: "ts",
-} as const satisfies Module
