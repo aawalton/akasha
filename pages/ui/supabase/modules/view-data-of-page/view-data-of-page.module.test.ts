@@ -53,7 +53,7 @@ test("a narrow over many values keeps every value", () => {
 
 test("a narrow over one value takes that value rather than the list holding it", () => {
   const data = viewDataOfPage({
-    nav: "stories",
+    nav: "books",
     narrows: [{ key: "partOf", comparison: "is", values: ["the-wandering-inn"] }],
   })
   expect(data?.filters).toEqual([
@@ -63,7 +63,7 @@ test("a narrow over one value takes that value rather than the list holding it",
 
 test("a narrow key holding a dot keeps its dot and camels each segment", () => {
   const data = viewDataOfPage({
-    nav: "stories",
+    nav: "books",
     narrows: [{ key: "external-identity.source", comparison: "is", values: ["royal-road"] }],
   })
   expect(data?.filters).toEqual([
@@ -88,7 +88,7 @@ test("a view's sorts keep their order and their direction", () => {
 })
 
 test("a cross-type view is read by the predicate it names", () => {
-  const data = viewDataOfPage({ nav: "home", viewPredicate: "favorites" })
+  const data = viewDataOfPage({ nav: "tasks", viewPredicate: "favorites" })
   expect(data?.crossTypeSource).toEqual({ predicateKey: "favorites" })
 })
 
