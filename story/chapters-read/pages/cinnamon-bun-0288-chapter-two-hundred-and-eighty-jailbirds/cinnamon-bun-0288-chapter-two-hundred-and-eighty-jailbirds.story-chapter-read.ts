@@ -10,9 +10,13 @@ export const cinnamonBun0288ChapterTwoHundredAndEightyJailbirds = {
   ownLength: 1923,
   unit: "words",
   publishedAt: "2022-02-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/836301/chapter-two-hundred-and-eighty-jailbirds",
-  externalId: "836301",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "836301",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/836301/chapter-two-hundred-and-eighty-jailbirds",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

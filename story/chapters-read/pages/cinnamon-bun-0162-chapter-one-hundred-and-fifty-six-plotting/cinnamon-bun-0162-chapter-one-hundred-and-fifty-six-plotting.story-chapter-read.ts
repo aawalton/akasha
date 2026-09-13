@@ -10,9 +10,13 @@ export const cinnamonBun0162ChapterOneHundredAndFiftySixPlotting = {
   ownLength: 1901,
   unit: "words",
   publishedAt: "2021-02-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/624351/chapter-one-hundred-and-fifty-six-plotting",
-  externalId: "624351",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "624351",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/624351/chapter-one-hundred-and-fifty-six-plotting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

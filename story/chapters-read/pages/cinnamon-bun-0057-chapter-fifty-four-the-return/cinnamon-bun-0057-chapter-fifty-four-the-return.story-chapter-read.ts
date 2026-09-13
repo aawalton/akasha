@@ -10,9 +10,13 @@ export const cinnamonBun0057ChapterFiftyFourTheReturn = {
   ownLength: 2003,
   unit: "words",
   publishedAt: "2020-07-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/519278/chapter-fifty-four-the-return",
-  externalId: "519278",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "519278",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/519278/chapter-fifty-four-the-return",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

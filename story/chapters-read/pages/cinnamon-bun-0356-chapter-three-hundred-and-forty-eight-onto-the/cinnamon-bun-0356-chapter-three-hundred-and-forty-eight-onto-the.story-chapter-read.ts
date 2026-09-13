@@ -10,9 +10,13 @@ export const cinnamonBun0356ChapterThreeHundredAndFortyEightOntoThe = {
   ownLength: 2107,
   unit: "words",
   publishedAt: "2022-09-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1005403/chapter-three-hundred-and-forty-eight-onto-the",
-  externalId: "1005403",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1005403",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1005403/chapter-three-hundred-and-forty-eight-onto-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

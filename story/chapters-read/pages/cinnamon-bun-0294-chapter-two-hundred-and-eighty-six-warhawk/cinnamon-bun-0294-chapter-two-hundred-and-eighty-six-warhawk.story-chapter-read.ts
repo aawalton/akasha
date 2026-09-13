@@ -10,9 +10,13 @@ export const cinnamonBun0294ChapterTwoHundredAndEightySixWarhawk = {
   ownLength: 2126,
   unit: "words",
   publishedAt: "2022-02-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/850977/chapter-two-hundred-and-eighty-six-warhawk",
-  externalId: "850977",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "850977",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/850977/chapter-two-hundred-and-eighty-six-warhawk",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0276ChapterTwoHundredAndSixtyEightTakingA = {
   ownLength: 2007,
   unit: "words",
   publishedAt: "2021-11-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/792889/chapter-two-hundred-and-sixty-eight-taking-a-friendtrip",
-  externalId: "792889",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "792889",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/792889/chapter-two-hundred-and-sixty-eight-taking-a-friendtrip",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

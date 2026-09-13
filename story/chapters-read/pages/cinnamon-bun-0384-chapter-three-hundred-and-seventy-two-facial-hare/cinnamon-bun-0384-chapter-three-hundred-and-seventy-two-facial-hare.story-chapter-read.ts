@@ -10,9 +10,13 @@ export const cinnamonBun0384ChapterThreeHundredAndSeventyTwoFacialHare = {
   ownLength: 1972,
   unit: "words",
   publishedAt: "2023-01-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1077953/chapter-three-hundred-and-seventy-two-facial-hare",
-  externalId: "1077953",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1077953",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1077953/chapter-three-hundred-and-seventy-two-facial-hare",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

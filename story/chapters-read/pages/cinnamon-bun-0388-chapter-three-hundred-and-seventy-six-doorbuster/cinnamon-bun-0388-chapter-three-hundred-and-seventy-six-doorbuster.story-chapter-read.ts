@@ -10,9 +10,13 @@ export const cinnamonBun0388ChapterThreeHundredAndSeventySixDoorbuster = {
   ownLength: 2056,
   unit: "words",
   publishedAt: "2023-01-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1089989/chapter-three-hundred-and-seventy-six-doorbuster",
-  externalId: "1089989",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1089989",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1089989/chapter-three-hundred-and-seventy-six-doorbuster",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

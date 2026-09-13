@@ -10,9 +10,13 @@ export const cinnamonBun0205ChapterOneHundredAndNinetyEightEverybunyWas = {
   ownLength: 1943,
   unit: "words",
   publishedAt: "2021-05-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/689144/chapter-one-hundred-and-ninety-eight-everybuny",
-  externalId: "689144",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "689144",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/689144/chapter-one-hundred-and-ninety-eight-everybuny",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

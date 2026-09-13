@@ -10,9 +10,13 @@ export const cinnamonBun0089ChapterEightySixBroccoliOnIce = {
   ownLength: 1979,
   unit: "words",
   publishedAt: "2020-08-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/545876/chapter-eighty-six-broccoli-on-ice",
-  externalId: "545876",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "545876",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/545876/chapter-eighty-six-broccoli-on-ice",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

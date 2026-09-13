@@ -10,9 +10,13 @@ export const cinnamonBun0293ChapterTwoHundredAndEightyFiveIntoThinAir = {
   ownLength: 2058,
   unit: "words",
   publishedAt: "2022-02-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/847439/chapter-two-hundred-and-eighty-five-into-thin",
-  externalId: "847439",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "847439",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/847439/chapter-two-hundred-and-eighty-five-into-thin",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

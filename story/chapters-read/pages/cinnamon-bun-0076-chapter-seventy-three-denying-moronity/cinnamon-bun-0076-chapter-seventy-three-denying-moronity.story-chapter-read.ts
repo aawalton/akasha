@@ -10,9 +10,13 @@ export const cinnamonBun0076ChapterSeventyThreeDenyingMoronity = {
   ownLength: 1937,
   unit: "words",
   publishedAt: "2020-08-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/537560/chapter-seventy-three-denying-moronity",
-  externalId: "537560",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "537560",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/537560/chapter-seventy-three-denying-moronity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

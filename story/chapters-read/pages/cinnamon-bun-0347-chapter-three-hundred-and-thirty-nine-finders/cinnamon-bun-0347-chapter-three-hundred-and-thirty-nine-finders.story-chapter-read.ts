@@ -10,9 +10,13 @@ export const cinnamonBun0347ChapterThreeHundredAndThirtyNineFinders = {
   ownLength: 2014,
   unit: "words",
   publishedAt: "2022-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/984663/chapter-three-hundred-and-thirty-nine-finders",
-  externalId: "984663",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "984663",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/984663/chapter-three-hundred-and-thirty-nine-finders",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

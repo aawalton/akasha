@@ -10,9 +10,13 @@ export const cinnamonBun0165ChapterOneHundredAndFiftyNineGeomagnetic = {
   ownLength: 1962,
   unit: "words",
   publishedAt: "2021-02-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/629831/chapter-one-hundred-and-fifty-nine-geomagnetic",
-  externalId: "629831",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "629831",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/629831/chapter-one-hundred-and-fifty-nine-geomagnetic",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

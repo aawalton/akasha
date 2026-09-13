@@ -10,9 +10,13 @@ export const cinnamonBun0413ChapterFourHundredInnToTheCity = {
   ownLength: 1962,
   unit: "words",
   publishedAt: "2023-04-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1192776/chapter-four-hundred-inn-to-the-city",
-  externalId: "1192776",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1192776",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1192776/chapter-four-hundred-inn-to-the-city",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

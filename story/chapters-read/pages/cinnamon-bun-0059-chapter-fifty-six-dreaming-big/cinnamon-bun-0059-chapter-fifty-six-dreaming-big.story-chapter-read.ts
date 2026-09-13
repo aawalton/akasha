@@ -10,9 +10,13 @@ export const cinnamonBun0059ChapterFiftySixDreamingBig = {
   ownLength: 1885,
   unit: "words",
   publishedAt: "2020-07-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/521597/chapter-fifty-six-dreaming-big",
-  externalId: "521597",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "521597",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/521597/chapter-fifty-six-dreaming-big",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

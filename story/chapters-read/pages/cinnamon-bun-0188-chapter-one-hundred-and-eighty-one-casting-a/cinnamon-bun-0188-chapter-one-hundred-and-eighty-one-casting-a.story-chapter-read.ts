@@ -10,9 +10,13 @@ export const cinnamonBun0188ChapterOneHundredAndEightyOneCastingA = {
   ownLength: 1941,
   unit: "words",
   publishedAt: "2021-04-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/668492/chapter-one-hundred-and-eighty-one-casting-a-shadow",
-  externalId: "668492",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "668492",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/668492/chapter-one-hundred-and-eighty-one-casting-a-shadow",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

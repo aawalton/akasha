@@ -10,9 +10,13 @@ export const cinnamonBun0141ChapterOneHundredAndThirtySixRelationshipOf = {
   ownLength: 1879,
   unit: "words",
   publishedAt: "2020-11-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/591651/chapter-one-hundred-and-thirty-six-relationship",
-  externalId: "591651",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "591651",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/591651/chapter-one-hundred-and-thirty-six-relationship",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

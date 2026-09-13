@@ -10,9 +10,13 @@ export const cinnamonBun0311ChapterThreeHundredAndThreeOutOfTheDark = {
   ownLength: 2012,
   unit: "words",
   publishedAt: "2022-04-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/889841/chapter-three-hundred-and-three-out-of-the-dark",
-  externalId: "889841",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "889841",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/889841/chapter-three-hundred-and-three-out-of-the-dark",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

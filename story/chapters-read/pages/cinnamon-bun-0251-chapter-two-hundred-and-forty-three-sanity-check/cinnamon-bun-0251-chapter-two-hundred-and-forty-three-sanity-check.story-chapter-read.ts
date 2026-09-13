@@ -10,9 +10,13 @@ export const cinnamonBun0251ChapterTwoHundredAndFortyThreeSanityCheck = {
   ownLength: 1987,
   unit: "words",
   publishedAt: "2021-09-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/746696/chapter-two-hundred-and-forty-three-sanity-check",
-  externalId: "746696",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "746696",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/746696/chapter-two-hundred-and-forty-three-sanity-check",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

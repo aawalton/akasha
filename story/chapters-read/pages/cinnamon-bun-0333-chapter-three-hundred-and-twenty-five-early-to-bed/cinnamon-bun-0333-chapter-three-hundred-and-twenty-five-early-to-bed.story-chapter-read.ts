@@ -10,9 +10,13 @@ export const cinnamonBun0333ChapterThreeHundredAndTwentyFiveEarlyToBed = {
   ownLength: 1960,
   unit: "words",
   publishedAt: "2022-07-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/948840/chapter-three-hundred-and-twenty-five-early-to",
-  externalId: "948840",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "948840",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/948840/chapter-three-hundred-and-twenty-five-early-to",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

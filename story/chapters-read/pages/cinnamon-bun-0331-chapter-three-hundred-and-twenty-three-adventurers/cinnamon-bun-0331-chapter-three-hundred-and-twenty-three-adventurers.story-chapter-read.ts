@@ -10,9 +10,13 @@ export const cinnamonBun0331ChapterThreeHundredAndTwentyThreeAdventurers = {
   ownLength: 1990,
   unit: "words",
   publishedAt: "2022-07-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/943067/chapter-three-hundred-and-twenty-three-adventurers",
-  externalId: "943067",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "943067",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/943067/chapter-three-hundred-and-twenty-three-adventurers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

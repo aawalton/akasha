@@ -10,9 +10,13 @@ export const cinnamonBun0353ChapterThreeHundredAndFortyFiveDiplomatsIn = {
   ownLength: 2037,
   unit: "words",
   publishedAt: "2022-09-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/999969/chapter-three-hundred-and-forty-five-diplomats",
-  externalId: "999969",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "999969",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/999969/chapter-three-hundred-and-forty-five-diplomats",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

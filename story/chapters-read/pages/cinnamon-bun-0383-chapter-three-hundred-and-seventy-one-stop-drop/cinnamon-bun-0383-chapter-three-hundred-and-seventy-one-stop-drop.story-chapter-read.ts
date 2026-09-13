@@ -10,9 +10,13 @@ export const cinnamonBun0383ChapterThreeHundredAndSeventyOneStopDrop = {
   ownLength: 2065,
   unit: "words",
   publishedAt: "2022-12-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1074010/chapter-three-hundred-and-seventy-one-stop-drop",
-  externalId: "1074010",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1074010",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1074010/chapter-three-hundred-and-seventy-one-stop-drop",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

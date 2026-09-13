@@ -10,9 +10,13 @@ export const cinnamonBun0101ChapterNinetyEightBunOfHerWord = {
   ownLength: 1966,
   unit: "words",
   publishedAt: "2020-09-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/559895/chapter-ninety-eight-bun-of-her-word",
-  externalId: "559895",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "559895",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/559895/chapter-ninety-eight-bun-of-her-word",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0025ChapterTwentyThreeFriendmaking = {
   ownLength: 2004,
   unit: "words",
   publishedAt: "2020-05-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/496411/chapter-twenty-three-friendmaking",
-  externalId: "496411",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "496411",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/496411/chapter-twenty-three-friendmaking",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

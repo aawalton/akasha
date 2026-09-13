@@ -10,9 +10,13 @@ export const cinnamonBun0303ChapterTwoHundredAndNinetyFiveInThisSolemn = {
   ownLength: 2092,
   unit: "words",
   publishedAt: "2022-03-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/870859/chapter-two-hundred-and-ninety-five-in-this-solemn",
-  externalId: "870859",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "870859",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/870859/chapter-two-hundred-and-ninety-five-in-this-solemn",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

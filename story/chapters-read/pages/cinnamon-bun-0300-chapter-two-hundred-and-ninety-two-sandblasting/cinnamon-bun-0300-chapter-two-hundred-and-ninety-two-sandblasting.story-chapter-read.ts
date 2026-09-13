@@ -10,9 +10,13 @@ export const cinnamonBun0300ChapterTwoHundredAndNinetyTwoSandblasting = {
   ownLength: 1985,
   unit: "words",
   publishedAt: "2022-03-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/865397/chapter-two-hundred-and-ninety-two-sandblasting",
-  externalId: "865397",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "865397",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/865397/chapter-two-hundred-and-ninety-two-sandblasting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

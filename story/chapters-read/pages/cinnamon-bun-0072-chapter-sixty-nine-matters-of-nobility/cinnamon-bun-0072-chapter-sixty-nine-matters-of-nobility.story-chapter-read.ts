@@ -10,9 +10,13 @@ export const cinnamonBun0072ChapterSixtyNineMattersOfNobility = {
   ownLength: 2068,
   unit: "words",
   publishedAt: "2020-08-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/534609/chapter-sixty-nine-matters-of-nobility",
-  externalId: "534609",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "534609",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/534609/chapter-sixty-nine-matters-of-nobility",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

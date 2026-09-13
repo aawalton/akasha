@@ -10,9 +10,13 @@ export const cinnamonBun0114ChapterOneHundredAndNineCivility = {
   ownLength: 1990,
   unit: "words",
   publishedAt: "2020-10-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/568350/chapter-one-hundred-and-nine-civility",
-  externalId: "568350",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "568350",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/568350/chapter-one-hundred-and-nine-civility",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

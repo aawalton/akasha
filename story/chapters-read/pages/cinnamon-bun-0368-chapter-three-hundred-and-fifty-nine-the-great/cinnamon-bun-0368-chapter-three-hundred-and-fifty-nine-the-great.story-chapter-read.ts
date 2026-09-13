@@ -10,9 +10,13 @@ export const cinnamonBun0368ChapterThreeHundredAndFiftyNineTheGreat = {
   ownLength: 2124,
   unit: "words",
   publishedAt: "2022-11-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1037046/chapter-three-hundred-and-fifty-nine-the-great",
-  externalId: "1037046",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1037046",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1037046/chapter-three-hundred-and-fifty-nine-the-great",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

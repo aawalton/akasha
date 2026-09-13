@@ -10,9 +10,13 @@ export const cinnamonBun0308ChapterThreeHundredTheWorldIsDiseasedAndI = {
   ownLength: 1951,
   unit: "words",
   publishedAt: "2022-04-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/880538/chapter-three-hundred-the-world-is-diseased-and",
-  externalId: "880538",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "880538",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/880538/chapter-three-hundred-the-world-is-diseased-and",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

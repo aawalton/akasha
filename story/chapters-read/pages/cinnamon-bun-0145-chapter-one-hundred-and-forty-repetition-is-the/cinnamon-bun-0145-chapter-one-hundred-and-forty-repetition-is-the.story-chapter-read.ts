@@ -10,9 +10,13 @@ export const cinnamonBun0145ChapterOneHundredAndFortyRepetitionIsThe = {
   ownLength: 1906,
   unit: "words",
   publishedAt: "2020-12-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/595346/chapter-one-hundred-and-forty-repetition-is-the",
-  externalId: "595346",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "595346",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/595346/chapter-one-hundred-and-forty-repetition-is-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

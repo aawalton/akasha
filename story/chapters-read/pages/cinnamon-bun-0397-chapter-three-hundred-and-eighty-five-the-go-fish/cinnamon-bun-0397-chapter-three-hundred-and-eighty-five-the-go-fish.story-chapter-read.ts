@@ -10,9 +10,13 @@ export const cinnamonBun0397ChapterThreeHundredAndEightyFiveTheGoFish = {
   ownLength: 1960,
   unit: "words",
   publishedAt: "2023-02-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1121262/chapter-three-hundred-and-eighty-five-the-go-fish",
-  externalId: "1121262",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1121262",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1121262/chapter-three-hundred-and-eighty-five-the-go-fish",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

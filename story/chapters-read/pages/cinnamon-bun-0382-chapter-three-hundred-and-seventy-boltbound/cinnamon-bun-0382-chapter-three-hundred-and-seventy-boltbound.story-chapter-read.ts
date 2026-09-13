@@ -10,9 +10,13 @@ export const cinnamonBun0382ChapterThreeHundredAndSeventyBoltbound = {
   ownLength: 1957,
   unit: "words",
   publishedAt: "2022-12-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1072927/chapter-three-hundred-and-seventy-boltbound",
-  externalId: "1072927",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1072927",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1072927/chapter-three-hundred-and-seventy-boltbound",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

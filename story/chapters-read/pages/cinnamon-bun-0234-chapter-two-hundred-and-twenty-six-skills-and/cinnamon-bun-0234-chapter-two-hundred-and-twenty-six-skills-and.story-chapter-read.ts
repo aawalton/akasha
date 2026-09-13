@@ -10,9 +10,13 @@ export const cinnamonBun0234ChapterTwoHundredAndTwentySixSkillsAnd = {
   ownLength: 1944,
   unit: "words",
   publishedAt: "2021-07-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/719740/chapter-two-hundred-and-twenty-six-skills-and",
-  externalId: "719740",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "719740",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/719740/chapter-two-hundred-and-twenty-six-skills-and",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

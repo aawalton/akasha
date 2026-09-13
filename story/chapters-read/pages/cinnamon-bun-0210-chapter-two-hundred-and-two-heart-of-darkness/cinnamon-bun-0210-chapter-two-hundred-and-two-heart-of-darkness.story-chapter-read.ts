@@ -10,9 +10,13 @@ export const cinnamonBun0210ChapterTwoHundredAndTwoHeartOfDarkness = {
   ownLength: 1980,
   unit: "words",
   publishedAt: "2021-06-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/692540/chapter-two-hundred-and-two-heart-of-darkness",
-  externalId: "692540",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "692540",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/692540/chapter-two-hundred-and-two-heart-of-darkness",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

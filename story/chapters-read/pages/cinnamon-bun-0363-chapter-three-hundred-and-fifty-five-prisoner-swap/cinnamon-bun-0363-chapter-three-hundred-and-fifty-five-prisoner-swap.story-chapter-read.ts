@@ -10,9 +10,13 @@ export const cinnamonBun0363ChapterThreeHundredAndFiftyFivePrisonerSwap = {
   ownLength: 2013,
   unit: "words",
   publishedAt: "2022-10-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1025360/chapter-three-hundred-and-fifty-five-prisoner",
-  externalId: "1025360",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1025360",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1025360/chapter-three-hundred-and-fifty-five-prisoner",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

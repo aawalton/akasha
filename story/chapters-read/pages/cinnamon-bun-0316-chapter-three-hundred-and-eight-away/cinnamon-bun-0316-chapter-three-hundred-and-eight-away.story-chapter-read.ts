@@ -10,9 +10,13 @@ export const cinnamonBun0316ChapterThreeHundredAndEightAway = {
   ownLength: 2043,
   unit: "words",
   publishedAt: "2022-05-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/901081/chapter-three-hundred-and-eight-away",
-  externalId: "901081",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "901081",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/901081/chapter-three-hundred-and-eight-away",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

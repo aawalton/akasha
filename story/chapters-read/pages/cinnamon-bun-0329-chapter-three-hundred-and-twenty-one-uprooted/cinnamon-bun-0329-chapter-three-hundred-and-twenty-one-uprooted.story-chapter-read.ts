@@ -10,9 +10,13 @@ export const cinnamonBun0329ChapterThreeHundredAndTwentyOneUprooted = {
   ownLength: 1982,
   unit: "words",
   publishedAt: "2022-06-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/933298/chapter-three-hundred-and-twenty-one-uprooted",
-  externalId: "933298",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "933298",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/933298/chapter-three-hundred-and-twenty-one-uprooted",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

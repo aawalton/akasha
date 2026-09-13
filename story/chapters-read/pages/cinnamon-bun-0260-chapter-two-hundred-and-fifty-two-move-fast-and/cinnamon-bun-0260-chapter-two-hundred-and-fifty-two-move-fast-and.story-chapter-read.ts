@@ -10,9 +10,13 @@ export const cinnamonBun0260ChapterTwoHundredAndFiftyTwoMoveFastAnd = {
   ownLength: 1943,
   unit: "words",
   publishedAt: "2021-10-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/762079/chapter-two-hundred-and-fifty-two-move-fast-and",
-  externalId: "762079",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "762079",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/762079/chapter-two-hundred-and-fifty-two-move-fast-and",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

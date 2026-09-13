@@ -10,9 +10,13 @@ export const cinnamonBun0224ChapterTwoHundredAndSixteenImposterSyndrome = {
   ownLength: 2020,
   unit: "words",
   publishedAt: "2021-07-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/711117/chapter-two-hundred-and-sixteen-imposter-syndrome",
-  externalId: "711117",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "711117",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/711117/chapter-two-hundred-and-sixteen-imposter-syndrome",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

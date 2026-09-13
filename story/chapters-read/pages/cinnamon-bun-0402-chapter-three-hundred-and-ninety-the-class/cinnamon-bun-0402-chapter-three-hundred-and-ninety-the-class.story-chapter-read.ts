@@ -10,9 +10,13 @@ export const cinnamonBun0402ChapterThreeHundredAndNinetyTheClass = {
   ownLength: 1906,
   unit: "words",
   publishedAt: "2023-03-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1137715/chapter-three-hundred-and-ninety-the-class-struggle",
-  externalId: "1137715",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1137715",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1137715/chapter-three-hundred-and-ninety-the-class-struggle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

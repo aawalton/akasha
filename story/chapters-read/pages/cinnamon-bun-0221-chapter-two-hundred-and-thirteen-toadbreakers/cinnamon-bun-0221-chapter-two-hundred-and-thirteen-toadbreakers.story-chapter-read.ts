@@ -10,9 +10,13 @@ export const cinnamonBun0221ChapterTwoHundredAndThirteenToadbreakers = {
   ownLength: 1938,
   unit: "words",
   publishedAt: "2021-06-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/707360/chapter-two-hundred-and-thirteen-toadbreakers",
-  externalId: "707360",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "707360",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/707360/chapter-two-hundred-and-thirteen-toadbreakers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

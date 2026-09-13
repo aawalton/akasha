@@ -10,9 +10,13 @@ export const cinnamonBun0136ChapterOneHundredAndThirtyOneFastTravel = {
   ownLength: 2089,
   unit: "words",
   publishedAt: "2020-11-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/585814/chapter-one-hundred-and-thirty-one-fast-travel",
-  externalId: "585814",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "585814",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/585814/chapter-one-hundred-and-thirty-one-fast-travel",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

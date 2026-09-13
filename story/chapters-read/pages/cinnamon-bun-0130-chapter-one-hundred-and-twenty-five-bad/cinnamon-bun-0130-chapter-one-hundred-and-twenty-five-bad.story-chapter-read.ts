@@ -10,9 +10,13 @@ export const cinnamonBun0130ChapterOneHundredAndTwentyFiveBad = {
   ownLength: 1978,
   unit: "words",
   publishedAt: "2020-11-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/578082/chapter-one-hundred-and-twenty-five-bad-implications",
-  externalId: "578082",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "578082",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/578082/chapter-one-hundred-and-twenty-five-bad-implications",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

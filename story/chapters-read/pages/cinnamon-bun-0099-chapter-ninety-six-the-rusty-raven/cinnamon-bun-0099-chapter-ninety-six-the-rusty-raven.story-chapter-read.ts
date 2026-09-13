@@ -10,9 +10,13 @@ export const cinnamonBun0099ChapterNinetySixTheRustyRaven = {
   ownLength: 1977,
   unit: "words",
   publishedAt: "2020-09-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/557768/chapter-ninety-six-the-rusty-raven",
-  externalId: "557768",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "557768",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/557768/chapter-ninety-six-the-rusty-raven",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

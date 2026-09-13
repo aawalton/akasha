@@ -10,9 +10,13 @@ export const cinnamonBun0200ChapterOneHundredAndNinetyThreeCleanThe = {
   ownLength: 1963,
   unit: "words",
   publishedAt: "2021-05-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/686251/chapter-one-hundred-and-ninety-three-clean-the",
-  externalId: "686251",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "686251",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/686251/chapter-one-hundred-and-ninety-three-clean-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

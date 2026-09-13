@@ -10,9 +10,13 @@ export const cinnamonBun0053ChapterFiftyAmbush = {
   ownLength: 2007,
   unit: "words",
   publishedAt: "2020-06-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/516044/chapter-fifty-ambush",
-  externalId: "516044",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "516044",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/516044/chapter-fifty-ambush",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

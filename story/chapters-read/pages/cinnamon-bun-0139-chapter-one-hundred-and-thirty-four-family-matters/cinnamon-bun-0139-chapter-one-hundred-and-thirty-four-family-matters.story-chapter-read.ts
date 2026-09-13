@@ -10,9 +10,13 @@ export const cinnamonBun0139ChapterOneHundredAndThirtyFourFamilyMatters = {
   ownLength: 1989,
   unit: "words",
   publishedAt: "2020-11-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/589737/chapter-one-hundred-and-thirty-four-family-matters",
-  externalId: "589737",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "589737",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/589737/chapter-one-hundred-and-thirty-four-family-matters",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

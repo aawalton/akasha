@@ -10,9 +10,13 @@ export const cinnamonBun0295ChapterTwoHundredAndEightySevenPolitical = {
   ownLength: 1957,
   unit: "words",
   publishedAt: "2022-02-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/852341/chapter-two-hundred-and-eighty-seven-political",
-  externalId: "852341",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "852341",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/852341/chapter-two-hundred-and-eighty-seven-political",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

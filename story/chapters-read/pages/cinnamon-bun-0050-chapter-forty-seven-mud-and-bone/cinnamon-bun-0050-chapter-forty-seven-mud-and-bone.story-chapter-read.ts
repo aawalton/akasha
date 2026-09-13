@@ -10,9 +10,13 @@ export const cinnamonBun0050ChapterFortySevenMudAndBone = {
   ownLength: 1959,
   unit: "words",
   publishedAt: "2020-06-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/514648/chapter-forty-seven-mud-and-bone",
-  externalId: "514648",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "514648",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/514648/chapter-forty-seven-mud-and-bone",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

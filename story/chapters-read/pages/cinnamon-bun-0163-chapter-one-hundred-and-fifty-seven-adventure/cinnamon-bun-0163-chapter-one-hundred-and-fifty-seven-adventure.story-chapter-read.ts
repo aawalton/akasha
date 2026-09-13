@@ -10,9 +10,13 @@ export const cinnamonBun0163ChapterOneHundredAndFiftySevenAdventure = {
   ownLength: 1893,
   unit: "words",
   publishedAt: "2021-02-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/625523/chapter-one-hundred-and-fifty-seven-adventure",
-  externalId: "625523",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "625523",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/625523/chapter-one-hundred-and-fifty-seven-adventure",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

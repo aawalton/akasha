@@ -10,9 +10,13 @@ export const cinnamonBun0394ChapterThreeHundredAndEightyTwoSouthbound = {
   ownLength: 1989,
   unit: "words",
   publishedAt: "2023-02-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1113993/chapter-three-hundred-and-eighty-two-southbound",
-  externalId: "1113993",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1113993",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1113993/chapter-three-hundred-and-eighty-two-southbound",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

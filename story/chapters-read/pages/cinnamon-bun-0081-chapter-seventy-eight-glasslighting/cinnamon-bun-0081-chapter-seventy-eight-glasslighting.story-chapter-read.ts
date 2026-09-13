@@ -10,9 +10,13 @@ export const cinnamonBun0081ChapterSeventyEightGlasslighting = {
   ownLength: 2341,
   unit: "words",
   publishedAt: "2020-08-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/540977/chapter-seventy-eight-glasslighting",
-  externalId: "540977",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "540977",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/540977/chapter-seventy-eight-glasslighting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0170ChapterOneHundredAndSixtyFourTreeTime = {
   ownLength: 1968,
   unit: "words",
   publishedAt: "2021-03-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/639536/chapter-one-hundred-and-sixty-four-tree-time",
-  externalId: "639536",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "639536",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/639536/chapter-one-hundred-and-sixty-four-tree-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

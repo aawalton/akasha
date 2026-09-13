@@ -10,9 +10,13 @@ export const cinnamonBun0335ChapterThreeHundredAndTwentySevenFlightOf = {
   ownLength: 1970,
   unit: "words",
   publishedAt: "2022-07-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/953323/chapter-three-hundred-and-twenty-seven-flight",
-  externalId: "953323",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "953323",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/953323/chapter-three-hundred-and-twenty-seven-flight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

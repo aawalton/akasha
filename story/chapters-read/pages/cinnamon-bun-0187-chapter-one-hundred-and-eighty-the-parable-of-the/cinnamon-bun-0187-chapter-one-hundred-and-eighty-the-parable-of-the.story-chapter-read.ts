@@ -10,9 +10,13 @@ export const cinnamonBun0187ChapterOneHundredAndEightyTheParableOfThe = {
   ownLength: 1992,
   unit: "words",
   publishedAt: "2021-04-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/664640/chapter-one-hundred-and-eighty-the-parable-of",
-  externalId: "664640",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "664640",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/664640/chapter-one-hundred-and-eighty-the-parable-of",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

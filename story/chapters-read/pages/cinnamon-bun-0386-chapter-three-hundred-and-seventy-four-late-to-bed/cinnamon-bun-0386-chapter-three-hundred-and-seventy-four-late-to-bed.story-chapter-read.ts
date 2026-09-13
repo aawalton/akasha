@@ -10,9 +10,13 @@ export const cinnamonBun0386ChapterThreeHundredAndSeventyFourLateToBed = {
   ownLength: 1944,
   unit: "words",
   publishedAt: "2023-01-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1083962/chapter-three-hundred-and-seventy-four-late-to",
-  externalId: "1083962",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1083962",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1083962/chapter-three-hundred-and-seventy-four-late-to",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

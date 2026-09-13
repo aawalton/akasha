@@ -10,9 +10,13 @@ export const cinnamonBun0065ChapterSixtyTwoTheDungeonBook = {
   ownLength: 2126,
   unit: "words",
   publishedAt: "2020-07-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/528178/chapter-sixty-two-the-dungeon-book",
-  externalId: "528178",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "528178",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/528178/chapter-sixty-two-the-dungeon-book",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0211ChapterTwoHundredAndThreeDoScienceToIt = {
   ownLength: 2059,
   unit: "words",
   publishedAt: "2021-06-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/693809/chapter-two-hundred-and-three-do-science-to-it",
-  externalId: "693809",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "693809",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/693809/chapter-two-hundred-and-three-do-science-to-it",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

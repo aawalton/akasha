@@ -10,9 +10,13 @@ export const cinnamonBun0058ChapterFiftyFiveRevelations = {
   ownLength: 2004,
   unit: "words",
   publishedAt: "2020-07-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/520579/chapter-fifty-five-revelations",
-  externalId: "520579",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "520579",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/520579/chapter-fifty-five-revelations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

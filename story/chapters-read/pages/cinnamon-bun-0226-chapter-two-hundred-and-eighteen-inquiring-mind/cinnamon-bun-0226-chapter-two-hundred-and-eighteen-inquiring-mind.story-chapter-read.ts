@@ -10,9 +10,13 @@ export const cinnamonBun0226ChapterTwoHundredAndEighteenInquiringMind = {
   ownLength: 1867,
   unit: "words",
   publishedAt: "2021-07-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/713633/chapter-two-hundred-and-eighteen-inquiring-mind",
-  externalId: "713633",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "713633",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/713633/chapter-two-hundred-and-eighteen-inquiring-mind",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

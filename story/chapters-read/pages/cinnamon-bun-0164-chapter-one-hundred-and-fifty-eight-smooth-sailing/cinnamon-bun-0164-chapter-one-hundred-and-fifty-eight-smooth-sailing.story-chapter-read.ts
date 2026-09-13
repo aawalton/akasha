@@ -10,9 +10,13 @@ export const cinnamonBun0164ChapterOneHundredAndFiftyEightSmoothSailing = {
   ownLength: 1877,
   unit: "words",
   publishedAt: "2021-02-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/628725/chapter-one-hundred-and-fifty-eight-smooth-sailing",
-  externalId: "628725",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "628725",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/628725/chapter-one-hundred-and-fifty-eight-smooth-sailing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0172ChapterOneHundredAndSixtySixDiplomatreeIi = {
   ownLength: 2013,
   unit: "words",
   publishedAt: "2021-03-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/641976/chapter-one-hundred-and-sixty-six-diplomatree",
-  externalId: "641976",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "641976",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/641976/chapter-one-hundred-and-sixty-six-diplomatree",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

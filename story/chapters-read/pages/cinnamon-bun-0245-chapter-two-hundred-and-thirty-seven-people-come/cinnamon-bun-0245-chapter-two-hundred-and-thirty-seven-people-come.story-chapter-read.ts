@@ -10,9 +10,13 @@ export const cinnamonBun0245ChapterTwoHundredAndThirtySevenPeopleCome = {
   ownLength: 1945,
   unit: "words",
   publishedAt: "2021-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/735480/chapter-two-hundred-and-thirty-seven-people-come",
-  externalId: "735480",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "735480",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/735480/chapter-two-hundred-and-thirty-seven-people-come",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

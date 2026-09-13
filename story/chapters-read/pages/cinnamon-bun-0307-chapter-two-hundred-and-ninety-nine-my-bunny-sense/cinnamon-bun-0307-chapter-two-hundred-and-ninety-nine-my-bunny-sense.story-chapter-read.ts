@@ -10,9 +10,13 @@ export const cinnamonBun0307ChapterTwoHundredAndNinetyNineMyBunnySense = {
   ownLength: 2057,
   unit: "words",
   publishedAt: "2022-04-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/879751/chapter-two-hundred-and-ninety-nine-my-bunny-sense",
-  externalId: "879751",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "879751",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/879751/chapter-two-hundred-and-ninety-nine-my-bunny-sense",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

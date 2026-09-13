@@ -10,9 +10,13 @@ export const cinnamonBun0027ChapterTwentyFiveTheHopOnInn = {
   ownLength: 2111,
   unit: "words",
   publishedAt: "2020-05-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/498147/chapter-twenty-five-the-hop-on-inn",
-  externalId: "498147",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "498147",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/498147/chapter-twenty-five-the-hop-on-inn",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0083ChapterEightyPathOfBrokenReflections = {
   ownLength: 2082,
   unit: "words",
   publishedAt: "2020-08-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/541878/chapter-eighty-path-of-broken-reflections",
-  externalId: "541878",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "541878",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/541878/chapter-eighty-path-of-broken-reflections",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

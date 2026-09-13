@@ -10,9 +10,13 @@ export const cinnamonBun0201ChapterOneHundredAndNinetyFourTheDeadOn = {
   ownLength: 2001,
   unit: "words",
   publishedAt: "2021-05-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/687889/chapter-one-hundred-and-ninety-four-the-dead-on",
-  externalId: "687889",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "687889",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/687889/chapter-one-hundred-and-ninety-four-the-dead-on",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

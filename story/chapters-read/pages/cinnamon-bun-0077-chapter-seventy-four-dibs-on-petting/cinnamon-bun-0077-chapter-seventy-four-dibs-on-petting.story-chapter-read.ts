@@ -10,9 +10,13 @@ export const cinnamonBun0077ChapterSeventyFourDibsOnPetting = {
   ownLength: 2001,
   unit: "words",
   publishedAt: "2020-08-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/538098/chapter-seventy-four-dibs-on-petting",
-  externalId: "538098",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "538098",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/538098/chapter-seventy-four-dibs-on-petting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

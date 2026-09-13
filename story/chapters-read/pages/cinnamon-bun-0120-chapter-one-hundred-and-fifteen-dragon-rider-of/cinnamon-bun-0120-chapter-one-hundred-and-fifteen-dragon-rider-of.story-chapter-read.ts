@@ -10,9 +10,13 @@ export const cinnamonBun0120ChapterOneHundredAndFifteenDragonRiderOf = {
   ownLength: 2036,
   unit: "words",
   publishedAt: "2020-10-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/571404/chapter-one-hundred-and-fifteen-dragon-rider-of",
-  externalId: "571404",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "571404",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/571404/chapter-one-hundred-and-fifteen-dragon-rider-of",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

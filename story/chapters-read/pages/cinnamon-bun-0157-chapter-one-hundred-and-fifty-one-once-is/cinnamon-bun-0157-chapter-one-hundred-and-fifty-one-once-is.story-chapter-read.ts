@@ -10,9 +10,13 @@ export const cinnamonBun0157ChapterOneHundredAndFiftyOneOnceIs = {
   ownLength: 1966,
   unit: "words",
   publishedAt: "2021-01-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/614520/chapter-one-hundred-and-fifty-one-once-is-happenstance",
-  externalId: "614520",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "614520",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/614520/chapter-one-hundred-and-fifty-one-once-is-happenstance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

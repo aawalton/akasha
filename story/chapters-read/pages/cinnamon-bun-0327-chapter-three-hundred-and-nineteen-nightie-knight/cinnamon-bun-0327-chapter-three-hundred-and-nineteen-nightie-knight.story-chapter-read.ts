@@ -10,9 +10,13 @@ export const cinnamonBun0327ChapterThreeHundredAndNineteenNightieKnight = {
   ownLength: 2029,
   unit: "words",
   publishedAt: "2022-06-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/929178/chapter-three-hundred-and-nineteen-nightie-knight",
-  externalId: "929178",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "929178",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/929178/chapter-three-hundred-and-nineteen-nightie-knight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0168ChapterOneHundredAndSixtyTwoDineAnotherDay = {
   ownLength: 2016,
   unit: "words",
   publishedAt: "2021-02-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/636538/chapter-one-hundred-and-sixty-two-dine-another",
-  externalId: "636538",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "636538",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/636538/chapter-one-hundred-and-sixty-two-dine-another",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

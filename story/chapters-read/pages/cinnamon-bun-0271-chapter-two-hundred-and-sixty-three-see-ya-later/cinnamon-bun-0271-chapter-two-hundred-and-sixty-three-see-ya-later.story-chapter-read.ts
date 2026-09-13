@@ -10,9 +10,13 @@ export const cinnamonBun0271ChapterTwoHundredAndSixtyThreeSeeYaLater = {
   ownLength: 1980,
   unit: "words",
   publishedAt: "2021-11-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/778950/chapter-two-hundred-and-sixty-three-see-ya-later",
-  externalId: "778950",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "778950",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/778950/chapter-two-hundred-and-sixty-three-see-ya-later",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

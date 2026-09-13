@@ -10,9 +10,13 @@ export const cinnamonBun0274ChapterTwoHundredAndSixtySixTheGuildhouse = {
   ownLength: 1936,
   unit: "words",
   publishedAt: "2021-11-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/788385/chapter-two-hundred-and-sixty-six-the-guildhouse",
-  externalId: "788385",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "788385",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/788385/chapter-two-hundred-and-sixty-six-the-guildhouse",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

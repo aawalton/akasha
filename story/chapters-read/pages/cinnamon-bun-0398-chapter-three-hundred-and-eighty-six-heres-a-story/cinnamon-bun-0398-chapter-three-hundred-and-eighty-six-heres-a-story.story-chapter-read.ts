@@ -11,9 +11,13 @@ export const cinnamonBun0398ChapterThreeHundredAndEightySixHeresAStory = {
   ownLength: 2001,
   unit: "words",
   publishedAt: "2023-02-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1125217/chapter-three-hundred-and-eighty-six-heres-a-story",
-  externalId: "1125217",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1125217",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1125217/chapter-three-hundred-and-eighty-six-heres-a-story",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

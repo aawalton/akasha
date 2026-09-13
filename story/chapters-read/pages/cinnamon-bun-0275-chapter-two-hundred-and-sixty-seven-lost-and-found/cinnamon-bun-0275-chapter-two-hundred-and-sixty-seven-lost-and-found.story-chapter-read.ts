@@ -10,9 +10,13 @@ export const cinnamonBun0275ChapterTwoHundredAndSixtySevenLostAndFound = {
   ownLength: 1954,
   unit: "words",
   publishedAt: "2021-11-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/789813/chapter-two-hundred-and-sixty-seven-lost-and-found",
-  externalId: "789813",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "789813",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/789813/chapter-two-hundred-and-sixty-seven-lost-and-found",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0256ChapterTwoHundredAndFortyEightDiggyDiggy = {
   ownLength: 1878,
   unit: "words",
   publishedAt: "2021-09-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/754248/chapter-two-hundred-and-forty-eight-diggy-diggy",
-  externalId: "754248",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "754248",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/754248/chapter-two-hundred-and-forty-eight-diggy-diggy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

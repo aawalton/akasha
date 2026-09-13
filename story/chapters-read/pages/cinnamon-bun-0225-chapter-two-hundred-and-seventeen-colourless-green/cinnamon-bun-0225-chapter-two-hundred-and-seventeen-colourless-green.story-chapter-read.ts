@@ -10,9 +10,13 @@ export const cinnamonBun0225ChapterTwoHundredAndSeventeenColourlessGreen = {
   ownLength: 1952,
   unit: "words",
   publishedAt: "2021-07-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/712450/chapter-two-hundred-and-seventeen-colourless-green",
-  externalId: "712450",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "712450",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/712450/chapter-two-hundred-and-seventeen-colourless-green",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

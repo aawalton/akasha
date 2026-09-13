@@ -10,9 +10,13 @@ export const cinnamonBun0048ChapterFortyFiveUpskirtDown = {
   ownLength: 2071,
   unit: "words",
   publishedAt: "2020-06-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/512788/chapter-forty-five-upskirt-down",
-  externalId: "512788",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "512788",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/512788/chapter-forty-five-upskirt-down",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

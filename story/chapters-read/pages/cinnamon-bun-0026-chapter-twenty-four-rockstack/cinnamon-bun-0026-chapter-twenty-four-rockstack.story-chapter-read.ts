@@ -10,9 +10,13 @@ export const cinnamonBun0026ChapterTwentyFourRockstack = {
   ownLength: 1983,
   unit: "words",
   publishedAt: "2020-05-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/496816/chapter-twenty-four-rockstack",
-  externalId: "496816",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "496816",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/496816/chapter-twenty-four-rockstack",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

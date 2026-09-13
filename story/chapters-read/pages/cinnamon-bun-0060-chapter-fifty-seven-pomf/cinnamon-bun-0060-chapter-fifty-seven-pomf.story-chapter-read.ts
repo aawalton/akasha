@@ -10,9 +10,13 @@ export const cinnamonBun0060ChapterFiftySevenPomf = {
   ownLength: 1983,
   unit: "words",
   publishedAt: "2020-07-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/522646/chapter-fifty-seven-pomf",
-  externalId: "522646",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "522646",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/522646/chapter-fifty-seven-pomf",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

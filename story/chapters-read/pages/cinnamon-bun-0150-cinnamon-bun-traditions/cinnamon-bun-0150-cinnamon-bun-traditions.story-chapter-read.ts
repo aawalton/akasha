@@ -10,9 +10,13 @@ export const cinnamonBun0150CinnamonBunTraditions = {
   ownLength: 1802,
   unit: "words",
   publishedAt: "2020-12-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/605029/cinnamon-bun-traditions",
-  externalId: "605029",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "605029",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/605029/cinnamon-bun-traditions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

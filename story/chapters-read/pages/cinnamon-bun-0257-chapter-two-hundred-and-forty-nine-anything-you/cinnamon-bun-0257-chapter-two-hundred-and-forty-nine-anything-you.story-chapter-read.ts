@@ -11,9 +11,13 @@ export const cinnamonBun0257ChapterTwoHundredAndFortyNineAnythingYou = {
   ownLength: 1940,
   unit: "words",
   publishedAt: "2021-09-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/755370/chapter-two-hundred-and-forty-nine-anything-you",
-  externalId: "755370",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "755370",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/755370/chapter-two-hundred-and-forty-nine-anything-you",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

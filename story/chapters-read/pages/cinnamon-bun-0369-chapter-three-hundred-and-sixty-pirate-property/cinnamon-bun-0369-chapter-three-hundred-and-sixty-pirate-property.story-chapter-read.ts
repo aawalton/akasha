@@ -10,9 +10,13 @@ export const cinnamonBun0369ChapterThreeHundredAndSixtyPirateProperty = {
   ownLength: 2084,
   unit: "words",
   publishedAt: "2022-11-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1041396/chapter-three-hundred-and-sixty-pirate-property",
-  externalId: "1041396",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1041396",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1041396/chapter-three-hundred-and-sixty-pirate-property",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0213ChapterTwoHundredAndFiveVictorySleep = {
   ownLength: 1356,
   unit: "words",
   publishedAt: "2021-06-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/696510/chapter-two-hundred-and-five-victory-sleep",
-  externalId: "696510",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "696510",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/696510/chapter-two-hundred-and-five-victory-sleep",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

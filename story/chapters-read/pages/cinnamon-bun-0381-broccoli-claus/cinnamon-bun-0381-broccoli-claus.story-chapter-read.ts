@@ -10,9 +10,13 @@ export const cinnamonBun0381BroccoliClaus = {
   ownLength: 461,
   unit: "words",
   publishedAt: "2022-12-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1071405/broccoli-claus",
-  externalId: "1071405",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1071405",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1071405/broccoli-claus",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

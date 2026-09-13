@@ -10,9 +10,13 @@ export const cinnamonBun0106BonusChapterTheOtherPossibilities = {
   ownLength: 2010,
   unit: "words",
   publishedAt: "2020-10-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/563489/bonus-chapter-the-other-possibilities",
-  externalId: "563489",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "563489",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/563489/bonus-chapter-the-other-possibilities",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

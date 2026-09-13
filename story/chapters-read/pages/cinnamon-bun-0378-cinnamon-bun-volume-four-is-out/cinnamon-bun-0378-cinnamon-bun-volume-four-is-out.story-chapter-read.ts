@@ -10,9 +10,13 @@ export const cinnamonBun0378CinnamonBunVolumeFourIsOut = {
   ownLength: 249,
   unit: "words",
   publishedAt: "2022-12-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1067971/cinnamon-bun-volume-four-is-out",
-  externalId: "1067971",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1067971",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1067971/cinnamon-bun-volume-four-is-out",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

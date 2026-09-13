@@ -10,9 +10,13 @@ export const cinnamonBun0144ChapterOneHundredAndThirtyNineThePartyBoat = {
   ownLength: 1866,
   unit: "words",
   publishedAt: "2020-12-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/594716/chapter-one-hundred-and-thirty-nine-the-party",
-  externalId: "594716",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "594716",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/594716/chapter-one-hundred-and-thirty-nine-the-party",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

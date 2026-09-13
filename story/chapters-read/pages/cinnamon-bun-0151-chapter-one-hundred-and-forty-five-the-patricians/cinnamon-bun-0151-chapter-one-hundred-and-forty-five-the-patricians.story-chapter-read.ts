@@ -10,9 +10,13 @@ export const cinnamonBun0151ChapterOneHundredAndFortyFiveThePatricians = {
   ownLength: 1942,
   unit: "words",
   publishedAt: "2020-12-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/606424/chapter-one-hundred-and-forty-five-the-patricians",
-  externalId: "606424",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "606424",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/606424/chapter-one-hundred-and-forty-five-the-patricians",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

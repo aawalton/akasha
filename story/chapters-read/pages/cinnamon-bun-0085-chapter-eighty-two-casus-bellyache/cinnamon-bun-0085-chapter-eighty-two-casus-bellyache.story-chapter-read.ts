@@ -10,9 +10,13 @@ export const cinnamonBun0085ChapterEightyTwoCasusBellyache = {
   ownLength: 1934,
   unit: "words",
   publishedAt: "2020-08-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/543883/chapter-eighty-two-casus-bellyache",
-  externalId: "543883",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "543883",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/543883/chapter-eighty-two-casus-bellyache",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

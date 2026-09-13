@@ -10,9 +10,13 @@ export const cinnamonBun0317ChapterThreeHundredAndNineWeedbaneThe = {
   ownLength: 1982,
   unit: "words",
   publishedAt: "2022-05-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/904460/chapter-three-hundred-and-nine-weedbane-the-dandelion",
-  externalId: "904460",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "904460",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/904460/chapter-three-hundred-and-nine-weedbane-the-dandelion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

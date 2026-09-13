@@ -10,9 +10,13 @@ export const cinnamonBun0355ChapterThreeHundredAndFortySevenProvisioning = {
   ownLength: 1879,
   unit: "words",
   publishedAt: "2022-09-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1004006/chapter-three-hundred-and-forty-seven-provisioning",
-  externalId: "1004006",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1004006",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1004006/chapter-three-hundred-and-forty-seven-provisioning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

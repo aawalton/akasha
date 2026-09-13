@@ -10,9 +10,13 @@ export const cinnamonBun0284ChapterTwoHundredAndSeventySixHaveYouTried = {
   ownLength: 1999,
   unit: "words",
   publishedAt: "2022-01-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/827068/chapter-two-hundred-and-seventy-six-have-you-tried",
-  externalId: "827068",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "827068",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/827068/chapter-two-hundred-and-seventy-six-have-you-tried",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

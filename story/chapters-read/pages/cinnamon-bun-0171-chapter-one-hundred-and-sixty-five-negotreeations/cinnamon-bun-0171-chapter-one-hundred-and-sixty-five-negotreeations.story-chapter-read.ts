@@ -10,9 +10,13 @@ export const cinnamonBun0171ChapterOneHundredAndSixtyFiveNegotreeations = {
   ownLength: 2021,
   unit: "words",
   publishedAt: "2021-03-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/640931/chapter-one-hundred-and-sixty-five-negotreeations",
-  externalId: "640931",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "640931",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/640931/chapter-one-hundred-and-sixty-five-negotreeations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

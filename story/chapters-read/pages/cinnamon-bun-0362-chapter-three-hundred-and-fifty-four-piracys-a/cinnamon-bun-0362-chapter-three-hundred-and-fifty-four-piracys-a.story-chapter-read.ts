@@ -10,9 +10,13 @@ export const cinnamonBun0362ChapterThreeHundredAndFiftyFourPiracysA = {
   ownLength: 2121,
   unit: "words",
   publishedAt: "2022-10-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1023898/chapter-three-hundred-and-fifty-four-piracys-a",
-  externalId: "1023898",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1023898",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1023898/chapter-three-hundred-and-fifty-four-piracys-a",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

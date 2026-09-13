@@ -10,9 +10,13 @@ export const cinnamonBun0055ChapterFiftyTwoHardToIgnore = {
   ownLength: 1933,
   unit: "words",
   publishedAt: "2020-06-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/517857/chapter-fifty-two-hard-to-ignore",
-  externalId: "517857",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "517857",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/517857/chapter-fifty-two-hard-to-ignore",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

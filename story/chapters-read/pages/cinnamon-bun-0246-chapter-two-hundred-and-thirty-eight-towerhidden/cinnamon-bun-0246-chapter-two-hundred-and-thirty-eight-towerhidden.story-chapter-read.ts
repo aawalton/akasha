@@ -10,9 +10,13 @@ export const cinnamonBun0246ChapterTwoHundredAndThirtyEightTowerhidden = {
   ownLength: 1939,
   unit: "words",
   publishedAt: "2021-08-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/736545/chapter-two-hundred-and-thirty-eight-towerhidden",
-  externalId: "736545",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "736545",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/736545/chapter-two-hundred-and-thirty-eight-towerhidden",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

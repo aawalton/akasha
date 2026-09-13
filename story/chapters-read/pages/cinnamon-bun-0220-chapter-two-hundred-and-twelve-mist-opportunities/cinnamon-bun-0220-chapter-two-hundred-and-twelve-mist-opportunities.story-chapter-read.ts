@@ -10,9 +10,13 @@ export const cinnamonBun0220ChapterTwoHundredAndTwelveMistOpportunities = {
   ownLength: 1960,
   unit: "words",
   publishedAt: "2021-06-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/705510/chapter-two-hundred-and-twelve-mist-opportunities",
-  externalId: "705510",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "705510",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/705510/chapter-two-hundred-and-twelve-mist-opportunities",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

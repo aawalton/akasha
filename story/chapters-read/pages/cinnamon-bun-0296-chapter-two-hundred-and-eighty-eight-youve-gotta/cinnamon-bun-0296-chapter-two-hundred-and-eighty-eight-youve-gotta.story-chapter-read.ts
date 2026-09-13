@@ -10,9 +10,13 @@ export const cinnamonBun0296ChapterTwoHundredAndEightyEightYouveGotta = {
   ownLength: 1823,
   unit: "words",
   publishedAt: "2022-03-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/855932/chapter-two-hundred-and-eighty-eight-youve-gotta",
-  externalId: "855932",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "855932",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/855932/chapter-two-hundred-and-eighty-eight-youve-gotta",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

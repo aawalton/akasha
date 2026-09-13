@@ -10,9 +10,13 @@ export const cinnamonBun0215ChapterTwoHundredAndSevenReciprocation = {
   ownLength: 2099,
   unit: "words",
   publishedAt: "2021-06-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/699389/chapter-two-hundred-and-seven-reciprocation",
-  externalId: "699389",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "699389",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/699389/chapter-two-hundred-and-seven-reciprocation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

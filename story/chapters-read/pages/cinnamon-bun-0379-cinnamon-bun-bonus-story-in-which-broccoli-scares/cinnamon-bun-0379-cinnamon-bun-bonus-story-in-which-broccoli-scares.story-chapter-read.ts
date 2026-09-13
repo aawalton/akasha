@@ -10,9 +10,13 @@ export const cinnamonBun0379CinnamonBunBonusStoryInWhichBroccoliScares = {
   ownLength: 2157,
   unit: "words",
   publishedAt: "2022-12-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1067974/cinnamon-bun-bonus-story-in-which-broccoli-scares",
-  externalId: "1067974",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1067974",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1067974/cinnamon-bun-bonus-story-in-which-broccoli-scares",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

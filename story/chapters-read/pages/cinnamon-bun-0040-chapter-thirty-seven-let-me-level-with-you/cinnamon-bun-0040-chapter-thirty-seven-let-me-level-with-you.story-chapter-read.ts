@@ -10,9 +10,13 @@ export const cinnamonBun0040ChapterThirtySevenLetMeLevelWithYou = {
   ownLength: 2012,
   unit: "words",
   publishedAt: "2020-06-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/508062/chapter-thirty-seven-let-me-level-with-you",
-  externalId: "508062",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "508062",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/508062/chapter-thirty-seven-let-me-level-with-you",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

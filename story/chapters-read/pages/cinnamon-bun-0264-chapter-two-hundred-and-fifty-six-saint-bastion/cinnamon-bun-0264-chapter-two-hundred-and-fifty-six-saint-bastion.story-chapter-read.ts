@@ -10,9 +10,13 @@ export const cinnamonBun0264ChapterTwoHundredAndFiftySixSaintBastion = {
   ownLength: 1914,
   unit: "words",
   publishedAt: "2021-10-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/769258/chapter-two-hundred-and-fifty-six-saint-bastion",
-  externalId: "769258",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "769258",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/769258/chapter-two-hundred-and-fifty-six-saint-bastion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

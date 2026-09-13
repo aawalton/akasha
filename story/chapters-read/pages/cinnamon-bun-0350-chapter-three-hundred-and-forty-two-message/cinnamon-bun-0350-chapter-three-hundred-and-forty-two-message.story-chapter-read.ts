@@ -10,9 +10,13 @@ export const cinnamonBun0350ChapterThreeHundredAndFortyTwoMessage = {
   ownLength: 2019,
   unit: "words",
   publishedAt: "2022-09-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/993466/chapter-three-hundred-and-forty-two-message-delivered",
-  externalId: "993466",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "993466",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/993466/chapter-three-hundred-and-forty-two-message-delivered",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

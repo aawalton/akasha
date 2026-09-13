@@ -10,9 +10,13 @@ export const cinnamonBun0138ChapterOneHundredAndThirtyThreeOfCourseYou = {
   ownLength: 2099,
   unit: "words",
   publishedAt: "2020-11-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/587856/chapter-one-hundred-and-thirty-three-of-course",
-  externalId: "587856",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "587856",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/587856/chapter-one-hundred-and-thirty-three-of-course",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

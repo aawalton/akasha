@@ -10,9 +10,13 @@ export const cinnamonBun0038ChapterThirtyFiveASparkInTheNight = {
   ownLength: 2010,
   unit: "words",
   publishedAt: "2020-06-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/506192/chapter-thirty-five-a-spark-in-the-night",
-  externalId: "506192",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "506192",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/506192/chapter-thirty-five-a-spark-in-the-night",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

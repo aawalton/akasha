@@ -10,9 +10,13 @@ export const cinnamonBun0354ChapterThreeHundredAndFortySixFusionMode = {
   ownLength: 1854,
   unit: "words",
   publishedAt: "2022-09-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1002322/chapter-three-hundred-and-forty-six-fusion-mode",
-  externalId: "1002322",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1002322",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1002322/chapter-three-hundred-and-forty-six-fusion-mode",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

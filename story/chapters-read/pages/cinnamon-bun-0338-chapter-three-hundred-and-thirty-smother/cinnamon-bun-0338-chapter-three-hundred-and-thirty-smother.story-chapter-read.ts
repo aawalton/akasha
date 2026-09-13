@@ -10,9 +10,13 @@ export const cinnamonBun0338ChapterThreeHundredAndThirtySmother = {
   ownLength: 1951,
   unit: "words",
   publishedAt: "2022-08-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/962233/chapter-three-hundred-and-thirty-smother",
-  externalId: "962233",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "962233",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/962233/chapter-three-hundred-and-thirty-smother",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0207ChapterTwoHundredStrongholdStranglehold = {
   ownLength: 1980,
   unit: "words",
   publishedAt: "2021-05-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/690123/chapter-two-hundred-stronghold-stranglehold",
-  externalId: "690123",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "690123",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/690123/chapter-two-hundred-stronghold-stranglehold",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

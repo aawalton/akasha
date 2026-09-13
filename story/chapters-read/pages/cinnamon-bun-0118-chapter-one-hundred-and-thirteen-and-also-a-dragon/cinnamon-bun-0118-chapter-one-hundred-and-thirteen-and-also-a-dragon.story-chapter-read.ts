@@ -10,9 +10,13 @@ export const cinnamonBun0118ChapterOneHundredAndThirteenAndAlsoADragon = {
   ownLength: 1947,
   unit: "words",
   publishedAt: "2020-10-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/569943/chapter-one-hundred-and-thirteen-and-also-a-dragon",
-  externalId: "569943",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "569943",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/569943/chapter-one-hundred-and-thirteen-and-also-a-dragon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

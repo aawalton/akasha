@@ -10,9 +10,13 @@ export const cinnamonBun0155ChapterOneHundredAndFortyNinePreludeTo = {
   ownLength: 1975,
   unit: "words",
   publishedAt: "2021-01-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/612590/chapter-one-hundred-and-forty-nine-prelude-to",
-  externalId: "612590",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "612590",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/612590/chapter-one-hundred-and-forty-nine-prelude-to",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

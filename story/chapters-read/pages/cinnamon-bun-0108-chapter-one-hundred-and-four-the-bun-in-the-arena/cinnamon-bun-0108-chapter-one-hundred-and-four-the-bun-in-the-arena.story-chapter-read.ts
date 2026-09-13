@@ -10,9 +10,13 @@ export const cinnamonBun0108ChapterOneHundredAndFourTheBunInTheArena = {
   ownLength: 2045,
   unit: "words",
   publishedAt: "2020-10-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/565406/chapter-one-hundred-and-four-the-bun-in-the-arena",
-  externalId: "565406",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "565406",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/565406/chapter-one-hundred-and-four-the-bun-in-the-arena",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

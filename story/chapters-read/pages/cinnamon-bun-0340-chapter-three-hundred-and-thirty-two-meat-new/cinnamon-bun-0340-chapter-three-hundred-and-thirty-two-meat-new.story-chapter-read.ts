@@ -10,9 +10,13 @@ export const cinnamonBun0340ChapterThreeHundredAndThirtyTwoMeatNew = {
   ownLength: 1923,
   unit: "words",
   publishedAt: "2022-08-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/967277/chapter-three-hundred-and-thirty-two-meat-new",
-  externalId: "967277",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "967277",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/967277/chapter-three-hundred-and-thirty-two-meat-new",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0407MeanwhileTheSidekicks = {
   ownLength: 1266,
   unit: "words",
   publishedAt: "2023-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1154407/meanwhile-the-sidekicks",
-  externalId: "1154407",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1154407",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1154407/meanwhile-the-sidekicks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

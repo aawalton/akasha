@@ -10,9 +10,13 @@ export const cinnamonBun0102ChapterNinetyNineWhatIsANormalAdventurer = {
   ownLength: 1962,
   unit: "words",
   publishedAt: "2020-09-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/561428/chapter-ninety-nine-what-is-a-normal-adventurer",
-  externalId: "561428",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "561428",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/561428/chapter-ninety-nine-what-is-a-normal-adventurer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

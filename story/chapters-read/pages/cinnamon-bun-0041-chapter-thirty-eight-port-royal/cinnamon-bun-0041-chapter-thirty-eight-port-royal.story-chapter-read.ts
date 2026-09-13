@@ -10,9 +10,13 @@ export const cinnamonBun0041ChapterThirtyEightPortRoyal = {
   ownLength: 2105,
   unit: "words",
   publishedAt: "2020-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/508479/chapter-thirty-eight-port-royal",
-  externalId: "508479",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "508479",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/508479/chapter-thirty-eight-port-royal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

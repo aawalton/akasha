@@ -10,9 +10,13 @@ export const cinnamonBun0393ChapterThreeHundredAndEightyOneBeautyAnd = {
   ownLength: 1966,
   unit: "words",
   publishedAt: "2023-02-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1103836/chapter-three-hundred-and-eighty-one-beauty-and",
-  externalId: "1103836",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1103836",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1103836/chapter-three-hundred-and-eighty-one-beauty-and",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

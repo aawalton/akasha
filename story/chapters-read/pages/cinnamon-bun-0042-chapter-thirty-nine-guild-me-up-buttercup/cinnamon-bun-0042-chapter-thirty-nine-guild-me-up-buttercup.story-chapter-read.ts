@@ -10,9 +10,13 @@ export const cinnamonBun0042ChapterThirtyNineGuildMeUpButtercup = {
   ownLength: 2011,
   unit: "words",
   publishedAt: "2020-06-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/508995/chapter-thirty-nine-guild-me-up-buttercup",
-  externalId: "508995",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "508995",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/508995/chapter-thirty-nine-guild-me-up-buttercup",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

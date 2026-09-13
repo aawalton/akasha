@@ -10,9 +10,13 @@ export const cinnamonBun0103ChapterOneHundredNoStringsAttached = {
   ownLength: 3597,
   unit: "words",
   publishedAt: "2020-09-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/562576/chapter-one-hundred-no-strings-attached",
-  externalId: "562576",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "562576",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/562576/chapter-one-hundred-no-strings-attached",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

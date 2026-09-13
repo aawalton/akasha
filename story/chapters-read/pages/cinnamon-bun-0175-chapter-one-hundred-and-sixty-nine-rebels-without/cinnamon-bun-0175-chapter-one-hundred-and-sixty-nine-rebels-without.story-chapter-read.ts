@@ -10,9 +10,13 @@ export const cinnamonBun0175ChapterOneHundredAndSixtyNineRebelsWithout = {
   ownLength: 1996,
   unit: "words",
   publishedAt: "2021-03-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/645809/chapter-one-hundred-and-sixty-nine-rebels-without",
-  externalId: "645809",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "645809",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/645809/chapter-one-hundred-and-sixty-nine-rebels-without",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

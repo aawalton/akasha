@@ -10,9 +10,13 @@ export const cinnamonBun0096ChapterNinetyThreeBuzzyBeeBoogie = {
   ownLength: 1958,
   unit: "words",
   publishedAt: "2020-09-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/554591/chapter-ninety-three-buzzy-bee-boogie",
-  externalId: "554591",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "554591",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/554591/chapter-ninety-three-buzzy-bee-boogie",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

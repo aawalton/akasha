@@ -10,9 +10,13 @@ export const cinnamonBun0194ChapterOneHundredAndEightySevenCuterThanA = {
   ownLength: 1964,
   unit: "words",
   publishedAt: "2021-05-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/680589/chapter-one-hundred-and-eighty-seven-cuter-than",
-  externalId: "680589",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "680589",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/680589/chapter-one-hundred-and-eighty-seven-cuter-than",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

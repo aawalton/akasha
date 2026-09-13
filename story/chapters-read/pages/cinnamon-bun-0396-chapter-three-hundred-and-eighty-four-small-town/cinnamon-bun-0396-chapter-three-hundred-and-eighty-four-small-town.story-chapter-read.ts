@@ -10,9 +10,13 @@ export const cinnamonBun0396ChapterThreeHundredAndEightyFourSmallTown = {
   ownLength: 2011,
   unit: "words",
   publishedAt: "2023-02-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1119414/chapter-three-hundred-and-eighty-four-small-town",
-  externalId: "1119414",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1119414",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1119414/chapter-three-hundred-and-eighty-four-small-town",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0339ChapterThreeHundredAndThirtyOneFortune = {
   ownLength: 1955,
   unit: "words",
   publishedAt: "2022-08-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/963726/chapter-three-hundred-and-thirty-one-fortune-seeker",
-  externalId: "963726",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "963726",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/963726/chapter-three-hundred-and-thirty-one-fortune-seeker",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

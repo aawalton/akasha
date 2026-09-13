@@ -10,9 +10,13 @@ export const cinnamonBun0079ChapterSeventySixHowDroll = {
   ownLength: 1978,
   unit: "words",
   publishedAt: "2020-08-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/539030/chapter-seventy-six-how-droll",
-  externalId: "539030",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "539030",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/539030/chapter-seventy-six-how-droll",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

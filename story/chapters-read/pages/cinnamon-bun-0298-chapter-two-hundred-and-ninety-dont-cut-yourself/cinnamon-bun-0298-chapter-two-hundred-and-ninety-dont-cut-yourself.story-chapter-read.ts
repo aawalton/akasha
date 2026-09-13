@@ -10,9 +10,13 @@ export const cinnamonBun0298ChapterTwoHundredAndNinetyDontCutYourself = {
   ownLength: 2273,
   unit: "words",
   publishedAt: "2022-03-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/860576/chapter-two-hundred-and-ninety-dont-cut-yourself",
-  externalId: "860576",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "860576",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/860576/chapter-two-hundred-and-ninety-dont-cut-yourself",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

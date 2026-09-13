@@ -10,9 +10,13 @@ export const cinnamonBun0302ChapterTwoHundredAndNinetyFourToTheVictor = {
   ownLength: 1983,
   unit: "words",
   publishedAt: "2022-03-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/869710/chapter-two-hundred-and-ninety-four-to-the-victor",
-  externalId: "869710",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "869710",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/869710/chapter-two-hundred-and-ninety-four-to-the-victor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

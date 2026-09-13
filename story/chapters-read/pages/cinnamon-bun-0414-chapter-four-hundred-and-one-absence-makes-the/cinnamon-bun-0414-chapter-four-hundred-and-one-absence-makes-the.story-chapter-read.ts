@@ -10,9 +10,13 @@ export const cinnamonBun0414ChapterFourHundredAndOneAbsenceMakesThe = {
   ownLength: 2014,
   unit: "words",
   publishedAt: "2023-04-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1194868/chapter-four-hundred-and-one-absence-makes-the",
-  externalId: "1194868",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1194868",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1194868/chapter-four-hundred-and-one-absence-makes-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

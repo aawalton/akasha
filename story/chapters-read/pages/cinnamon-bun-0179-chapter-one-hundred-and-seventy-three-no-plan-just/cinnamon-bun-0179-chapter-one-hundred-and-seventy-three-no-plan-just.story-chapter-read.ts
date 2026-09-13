@@ -10,9 +10,13 @@ export const cinnamonBun0179ChapterOneHundredAndSeventyThreeNoPlanJust = {
   ownLength: 1977,
   unit: "words",
   publishedAt: "2021-03-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/650840/chapter-one-hundred-and-seventy-three-no-plan",
-  externalId: "650840",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "650840",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/650840/chapter-one-hundred-and-seventy-three-no-plan",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0080ChapterSeventySevenTheBestPack = {
   ownLength: 2020,
   unit: "words",
   publishedAt: "2020-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/540576/chapter-seventy-seven-the-best-pack",
-  externalId: "540576",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "540576",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/540576/chapter-seventy-seven-the-best-pack",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0104ChapterOneHundredAndOneEvolution = {
   ownLength: 2029,
   unit: "words",
   publishedAt: "2020-10-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/562981/chapter-one-hundred-and-one-evolution",
-  externalId: "562981",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "562981",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/562981/chapter-one-hundred-and-one-evolution",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

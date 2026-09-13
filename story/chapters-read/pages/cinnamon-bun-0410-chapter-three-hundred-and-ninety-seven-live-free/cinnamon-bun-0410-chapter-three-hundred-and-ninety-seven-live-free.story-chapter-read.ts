@@ -10,9 +10,13 @@ export const cinnamonBun0410ChapterThreeHundredAndNinetySevenLiveFree = {
   ownLength: 1952,
   unit: "words",
   publishedAt: "2023-04-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1167812/chapter-three-hundred-and-ninety-seven-live-free",
-  externalId: "1167812",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1167812",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1167812/chapter-three-hundred-and-ninety-seven-live-free",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

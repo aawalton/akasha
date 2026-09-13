@@ -10,9 +10,13 @@ export const cinnamonBun0116ChapterOneHundredAndElevenSeizeTheDate = {
   ownLength: 1971,
   unit: "words",
   publishedAt: "2020-10-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/569013/chapter-one-hundred-and-eleven-seize-the-date",
-  externalId: "569013",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "569013",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/569013/chapter-one-hundred-and-eleven-seize-the-date",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

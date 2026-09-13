@@ -10,9 +10,13 @@ export const cinnamonBun0196ChapterOneHundredAndEightyNineSuperSmash = {
   ownLength: 2070,
   unit: "words",
   publishedAt: "2021-05-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/681797/chapter-one-hundred-and-eighty-nine-super-smash",
-  externalId: "681797",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "681797",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/681797/chapter-one-hundred-and-eighty-nine-super-smash",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

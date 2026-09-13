@@ -10,9 +10,13 @@ export const cinnamonBun0087ChapterEightyFourPsychohazard = {
   ownLength: 1975,
   unit: "words",
   publishedAt: "2020-08-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/544851/chapter-eighty-four-psychohazard",
-  externalId: "544851",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "544851",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/544851/chapter-eighty-four-psychohazard",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

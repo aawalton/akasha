@@ -10,9 +10,13 @@ export const cinnamonBun0385ChapterThreeHundredAndSeventyThreeDressUp = {
   ownLength: 1956,
   unit: "words",
   publishedAt: "2023-01-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1080233/chapter-three-hundred-and-seventy-three-dress-up",
-  externalId: "1080233",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1080233",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1080233/chapter-three-hundred-and-seventy-three-dress-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

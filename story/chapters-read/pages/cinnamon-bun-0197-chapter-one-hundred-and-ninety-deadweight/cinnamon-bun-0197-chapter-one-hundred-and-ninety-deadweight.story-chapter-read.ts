@@ -10,9 +10,13 @@ export const cinnamonBun0197ChapterOneHundredAndNinetyDeadweight = {
   ownLength: 2047,
   unit: "words",
   publishedAt: "2021-05-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/682366/chapter-one-hundred-and-ninety-deadweight",
-  externalId: "682366",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "682366",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/682366/chapter-one-hundred-and-ninety-deadweight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

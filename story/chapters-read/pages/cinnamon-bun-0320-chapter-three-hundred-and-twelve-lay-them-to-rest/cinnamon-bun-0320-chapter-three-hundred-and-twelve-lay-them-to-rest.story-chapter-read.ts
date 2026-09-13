@@ -10,9 +10,13 @@ export const cinnamonBun0320ChapterThreeHundredAndTwelveLayThemToRest = {
   ownLength: 1957,
   unit: "words",
   publishedAt: "2022-05-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/910320/chapter-three-hundred-and-twelve-lay-them-to-rest",
-  externalId: "910320",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "910320",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/910320/chapter-three-hundred-and-twelve-lay-them-to-rest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

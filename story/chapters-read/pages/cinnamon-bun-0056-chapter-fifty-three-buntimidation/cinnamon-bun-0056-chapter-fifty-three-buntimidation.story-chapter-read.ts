@@ -10,9 +10,13 @@ export const cinnamonBun0056ChapterFiftyThreeBuntimidation = {
   ownLength: 2042,
   unit: "words",
   publishedAt: "2020-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/518347/chapter-fifty-three-buntimidation",
-  externalId: "518347",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "518347",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/518347/chapter-fifty-three-buntimidation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0034SidestoryAnnouncementOakATreesQuest = {
   ownLength: 168,
   unit: "words",
   publishedAt: "2020-06-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/504423/sidestory-announcement-oak-a-trees-quest",
-  externalId: "504423",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "504423",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/504423/sidestory-announcement-oak-a-trees-quest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

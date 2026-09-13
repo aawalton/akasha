@@ -10,9 +10,13 @@ export const cinnamonBun0182ChapterOneHundredAndSeventySixPickingUp = {
   ownLength: 1914,
   unit: "words",
   publishedAt: "2021-03-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/653019/chapter-one-hundred-and-seventy-six-picking-up",
-  externalId: "653019",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "653019",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/653019/chapter-one-hundred-and-seventy-six-picking-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

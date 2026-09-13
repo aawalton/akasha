@@ -10,9 +10,13 @@ export const cinnamonBun0128ChapterOneHundredAndTwentyThreeAnOldName = {
   ownLength: 1989,
   unit: "words",
   publishedAt: "2020-10-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/576138/chapter-one-hundred-and-twenty-three-an-old-name",
-  externalId: "576138",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "576138",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/576138/chapter-one-hundred-and-twenty-three-an-old-name",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0332ChapterThreeHundredAndTwentyFourBroccoli = {
   ownLength: 2073,
   unit: "words",
   publishedAt: "2022-07-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/947349/chapter-three-hundred-and-twenty-four-broccoli",
-  externalId: "947349",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "947349",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/947349/chapter-three-hundred-and-twenty-four-broccoli",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

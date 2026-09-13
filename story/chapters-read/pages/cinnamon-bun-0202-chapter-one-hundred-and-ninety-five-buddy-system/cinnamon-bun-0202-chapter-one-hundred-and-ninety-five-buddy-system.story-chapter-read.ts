@@ -10,9 +10,13 @@ export const cinnamonBun0202ChapterOneHundredAndNinetyFiveBuddySystem = {
   ownLength: 1959,
   unit: "words",
   publishedAt: "2021-05-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/688131/chapter-one-hundred-and-ninety-five-buddy-system",
-  externalId: "688131",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "688131",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/688131/chapter-one-hundred-and-ninety-five-buddy-system",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

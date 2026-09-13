@@ -10,9 +10,13 @@ export const cinnamonBun0287ChapterTwoHundredAndSeventyNineGangingUp = {
   ownLength: 2084,
   unit: "words",
   publishedAt: "2022-01-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/833212/chapter-two-hundred-and-seventy-nine-ganging-up",
-  externalId: "833212",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "833212",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/833212/chapter-two-hundred-and-seventy-nine-ganging-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

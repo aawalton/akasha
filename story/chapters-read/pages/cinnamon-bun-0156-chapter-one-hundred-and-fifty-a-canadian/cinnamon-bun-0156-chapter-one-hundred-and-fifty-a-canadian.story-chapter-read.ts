@@ -10,9 +10,13 @@ export const cinnamonBun0156ChapterOneHundredAndFiftyACanadian = {
   ownLength: 2012,
   unit: "words",
   publishedAt: "2021-01-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/613571/chapter-one-hundred-and-fifty-a-canadian-riftwalker",
-  externalId: "613571",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "613571",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/613571/chapter-one-hundred-and-fifty-a-canadian-riftwalker",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

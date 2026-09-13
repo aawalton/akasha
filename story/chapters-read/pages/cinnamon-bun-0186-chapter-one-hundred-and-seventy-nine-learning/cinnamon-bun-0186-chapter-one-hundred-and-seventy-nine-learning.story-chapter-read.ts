@@ -10,9 +10,13 @@ export const cinnamonBun0186ChapterOneHundredAndSeventyNineLearning = {
   ownLength: 2114,
   unit: "words",
   publishedAt: "2021-04-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/660264/chapter-one-hundred-and-seventy-nine-learning",
-  externalId: "660264",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "660264",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/660264/chapter-one-hundred-and-seventy-nine-learning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

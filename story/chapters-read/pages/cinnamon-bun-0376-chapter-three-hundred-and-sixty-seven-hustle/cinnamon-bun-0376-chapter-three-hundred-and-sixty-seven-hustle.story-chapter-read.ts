@@ -10,9 +10,13 @@ export const cinnamonBun0376ChapterThreeHundredAndSixtySevenHustle = {
   ownLength: 1962,
   unit: "words",
   publishedAt: "2022-12-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1058690/chapter-three-hundred-and-sixty-seven-hustle-bustle",
-  externalId: "1058690",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1058690",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1058690/chapter-three-hundred-and-sixty-seven-hustle-bustle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

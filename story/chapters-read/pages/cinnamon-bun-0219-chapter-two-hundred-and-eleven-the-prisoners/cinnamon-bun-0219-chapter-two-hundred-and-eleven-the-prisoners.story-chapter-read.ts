@@ -10,9 +10,13 @@ export const cinnamonBun0219ChapterTwoHundredAndElevenThePrisoners = {
   ownLength: 1980,
   unit: "words",
   publishedAt: "2021-06-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/704215/chapter-two-hundred-and-eleven-the-prisoners-dilemma",
-  externalId: "704215",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "704215",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/704215/chapter-two-hundred-and-eleven-the-prisoners-dilemma",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

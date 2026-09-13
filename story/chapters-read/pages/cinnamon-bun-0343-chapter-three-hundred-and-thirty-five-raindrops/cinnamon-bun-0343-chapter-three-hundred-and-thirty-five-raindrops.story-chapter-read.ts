@@ -10,9 +10,13 @@ export const cinnamonBun0343ChapterThreeHundredAndThirtyFiveRaindrops = {
   ownLength: 1994,
   unit: "words",
   publishedAt: "2022-08-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/974551/chapter-three-hundred-and-thirty-five-raindrops",
-  externalId: "974551",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "974551",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/974551/chapter-three-hundred-and-thirty-five-raindrops",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

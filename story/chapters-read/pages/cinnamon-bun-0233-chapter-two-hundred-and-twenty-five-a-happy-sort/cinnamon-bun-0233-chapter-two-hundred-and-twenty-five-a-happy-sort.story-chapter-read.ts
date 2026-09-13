@@ -10,9 +10,13 @@ export const cinnamonBun0233ChapterTwoHundredAndTwentyFiveAHappySort = {
   ownLength: 1962,
   unit: "words",
   publishedAt: "2021-07-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/718983/chapter-two-hundred-and-twenty-five-a-happy-sort",
-  externalId: "718983",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "718983",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/718983/chapter-two-hundred-and-twenty-five-a-happy-sort",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

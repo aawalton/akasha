@@ -10,9 +10,13 @@ export const cinnamonBun0315ChapterThreeHundredAndSevenHiringA = {
   ownLength: 1952,
   unit: "words",
   publishedAt: "2022-05-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/900002/chapter-three-hundred-and-seven-hiring-a-professional",
-  externalId: "900002",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "900002",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/900002/chapter-three-hundred-and-seven-hiring-a-professional",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

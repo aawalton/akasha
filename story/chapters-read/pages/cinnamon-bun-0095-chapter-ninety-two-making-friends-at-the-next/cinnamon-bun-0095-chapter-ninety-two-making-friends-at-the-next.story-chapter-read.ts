@@ -10,9 +10,13 @@ export const cinnamonBun0095ChapterNinetyTwoMakingFriendsAtTheNext = {
   ownLength: 1919,
   unit: "words",
   publishedAt: "2020-09-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/553040/chapter-ninety-two-making-friends-at-the-next",
-  externalId: "553040",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "553040",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/553040/chapter-ninety-two-making-friends-at-the-next",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

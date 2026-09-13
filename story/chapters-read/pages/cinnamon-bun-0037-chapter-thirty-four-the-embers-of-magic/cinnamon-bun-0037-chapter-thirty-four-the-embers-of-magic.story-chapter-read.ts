@@ -10,9 +10,13 @@ export const cinnamonBun0037ChapterThirtyFourTheEmbersOfMagic = {
   ownLength: 2734,
   unit: "words",
   publishedAt: "2020-06-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/505742/chapter-thirty-four-the-embers-of-magic",
-  externalId: "505742",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "505742",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/505742/chapter-thirty-four-the-embers-of-magic",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

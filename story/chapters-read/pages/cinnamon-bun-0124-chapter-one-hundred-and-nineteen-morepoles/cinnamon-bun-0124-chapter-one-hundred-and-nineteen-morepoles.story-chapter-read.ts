@@ -10,9 +10,13 @@ export const cinnamonBun0124ChapterOneHundredAndNineteenMorepoles = {
   ownLength: 1956,
   unit: "words",
   publishedAt: "2020-10-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/573307/chapter-one-hundred-and-nineteen-morepoles",
-  externalId: "573307",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "573307",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/573307/chapter-one-hundred-and-nineteen-morepoles",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

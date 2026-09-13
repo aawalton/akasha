@@ -10,9 +10,13 @@ export const cinnamonBun0419ChapterFourHundredAndSixBookmouse = {
   ownLength: 1949,
   unit: "words",
   publishedAt: "2023-05-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1217461/chapter-four-hundred-and-six-bookmouse",
-  externalId: "1217461",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1217461",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1217461/chapter-four-hundred-and-six-bookmouse",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

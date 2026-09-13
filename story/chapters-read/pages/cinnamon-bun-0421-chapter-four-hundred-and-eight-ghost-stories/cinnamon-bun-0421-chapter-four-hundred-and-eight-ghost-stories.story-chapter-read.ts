@@ -10,9 +10,13 @@ export const cinnamonBun0421ChapterFourHundredAndEightGhostStories = {
   ownLength: 1971,
   unit: "words",
   publishedAt: "2023-05-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1224730/chapter-four-hundred-and-eight-ghost-stories",
-  externalId: "1224730",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1224730",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1224730/chapter-four-hundred-and-eight-ghost-stories",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

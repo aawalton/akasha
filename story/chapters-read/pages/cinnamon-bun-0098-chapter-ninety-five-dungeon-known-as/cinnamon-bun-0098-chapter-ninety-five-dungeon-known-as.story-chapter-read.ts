@@ -10,9 +10,13 @@ export const cinnamonBun0098ChapterNinetyFiveDungeonKnownAs = {
   ownLength: 1988,
   unit: "words",
   publishedAt: "2020-09-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/556502/chapter-ninety-five-dungeon-known-as",
-  externalId: "556502",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "556502",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/556502/chapter-ninety-five-dungeon-known-as",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

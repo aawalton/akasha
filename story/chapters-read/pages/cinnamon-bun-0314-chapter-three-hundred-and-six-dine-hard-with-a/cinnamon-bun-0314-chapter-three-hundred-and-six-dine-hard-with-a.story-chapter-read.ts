@@ -10,9 +10,13 @@ export const cinnamonBun0314ChapterThreeHundredAndSixDineHardWithA = {
   ownLength: 1984,
   unit: "words",
   publishedAt: "2022-04-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/896436/chapter-three-hundred-and-six-dine-hard-with-a",
-  externalId: "896436",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "896436",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/896436/chapter-three-hundred-and-six-dine-hard-with-a",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

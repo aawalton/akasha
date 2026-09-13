@@ -10,9 +10,13 @@ export const cinnamonBun0253ChapterTwoHundredAndFortyFiveBunivers = {
   ownLength: 1971,
   unit: "words",
   publishedAt: "2021-09-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/747836/chapter-two-hundred-and-forty-five-bunivers-travels",
-  externalId: "747836",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "747836",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/747836/chapter-two-hundred-and-forty-five-bunivers-travels",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

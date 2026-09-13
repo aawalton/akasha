@@ -10,9 +10,13 @@ export const cinnamonBun0070ChapterSixtySevenFairness = {
   ownLength: 2054,
   unit: "words",
   publishedAt: "2020-08-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/533652/chapter-sixty-seven-fairness",
-  externalId: "533652",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "533652",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/533652/chapter-sixty-seven-fairness",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

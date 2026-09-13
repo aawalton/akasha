@@ -10,9 +10,13 @@ export const cinnamonBun0357ChapterThreeHundredAndFortyNineFoodFor = {
   ownLength: 1998,
   unit: "words",
   publishedAt: "2022-10-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1013226/chapter-three-hundred-and-forty-nine-food-for",
-  externalId: "1013226",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1013226",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1013226/chapter-three-hundred-and-forty-nine-food-for",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

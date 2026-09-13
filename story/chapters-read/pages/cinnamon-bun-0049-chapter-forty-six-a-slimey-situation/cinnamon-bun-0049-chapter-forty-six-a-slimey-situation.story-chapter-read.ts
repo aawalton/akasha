@@ -10,9 +10,13 @@ export const cinnamonBun0049ChapterFortySixASlimeySituation = {
   ownLength: 2044,
   unit: "words",
   publishedAt: "2020-06-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/514141/chapter-forty-six-a-slimey-situation",
-  externalId: "514141",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "514141",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/514141/chapter-forty-six-a-slimey-situation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

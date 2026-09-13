@@ -10,9 +10,13 @@ export const cinnamonBun0404ChapterThreeHundredAndNinetyTwoUpperLevels = {
   ownLength: 1936,
   unit: "words",
   publishedAt: "2023-03-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1144330/chapter-three-hundred-and-ninety-two-upper-levels",
-  externalId: "1144330",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1144330",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1144330/chapter-three-hundred-and-ninety-two-upper-levels",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

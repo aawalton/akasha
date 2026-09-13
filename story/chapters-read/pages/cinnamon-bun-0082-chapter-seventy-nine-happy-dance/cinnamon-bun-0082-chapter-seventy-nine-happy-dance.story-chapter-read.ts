@@ -10,9 +10,13 @@ export const cinnamonBun0082ChapterSeventyNineHappyDance = {
   ownLength: 1959,
   unit: "words",
   publishedAt: "2020-08-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/541494/chapter-seventy-nine-happy-dance",
-  externalId: "541494",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "541494",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/541494/chapter-seventy-nine-happy-dance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

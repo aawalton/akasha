@@ -10,9 +10,13 @@ export const cinnamonBun0325ChapterThreeHundredAndSeventeenCountingSheep = {
   ownLength: 2012,
   unit: "words",
   publishedAt: "2022-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/924237/chapter-three-hundred-and-seventeen-counting-sheep",
-  externalId: "924237",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "924237",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/924237/chapter-three-hundred-and-seventeen-counting-sheep",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

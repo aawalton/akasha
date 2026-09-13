@@ -10,9 +10,13 @@ export const cinnamonBun0232ChapterTwoHundredAndTwentyFourCelebrating = {
   ownLength: 1983,
   unit: "words",
   publishedAt: "2021-07-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/717989/chapter-two-hundred-and-twenty-four-celebrating",
-  externalId: "717989",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "717989",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/717989/chapter-two-hundred-and-twenty-four-celebrating",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0328ChapterThreeHundredAndTwentyTheRootOfThe = {
   ownLength: 2071,
   unit: "words",
   publishedAt: "2022-06-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/932750/chapter-three-hundred-and-twenty-the-root-of-the",
-  externalId: "932750",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "932750",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/932750/chapter-three-hundred-and-twenty-the-root-of-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

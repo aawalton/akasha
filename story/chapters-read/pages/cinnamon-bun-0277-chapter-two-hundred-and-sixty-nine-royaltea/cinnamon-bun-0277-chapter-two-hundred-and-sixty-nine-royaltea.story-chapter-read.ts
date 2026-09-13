@@ -10,9 +10,13 @@ export const cinnamonBun0277ChapterTwoHundredAndSixtyNineRoyaltea = {
   ownLength: 2012,
   unit: "words",
   publishedAt: "2021-11-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/794310/chapter-two-hundred-and-sixty-nine-royaltea",
-  externalId: "794310",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "794310",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/794310/chapter-two-hundred-and-sixty-nine-royaltea",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

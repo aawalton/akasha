@@ -10,9 +10,13 @@ export const cinnamonBun0140ChapterOneHundredAndThirtyFiveGreatBallsOf = {
   ownLength: 2159,
   unit: "words",
   publishedAt: "2020-11-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/590687/chapter-one-hundred-and-thirty-five-great-balls",
-  externalId: "590687",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "590687",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/590687/chapter-one-hundred-and-thirty-five-great-balls",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

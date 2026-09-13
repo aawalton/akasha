@@ -10,9 +10,13 @@ export const cinnamonBun0054ChapterFiftyOneFetchingHelp = {
   ownLength: 1971,
   unit: "words",
   publishedAt: "2020-06-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/517291/chapter-fifty-one-fetching-help",
-  externalId: "517291",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "517291",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/517291/chapter-fifty-one-fetching-help",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

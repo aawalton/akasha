@@ -10,9 +10,13 @@ export const cinnamonBun0109ChapterOneHundredAndFiveAlteringTheDeal = {
   ownLength: 1995,
   unit: "words",
   publishedAt: "2020-10-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/565913/chapter-one-hundred-and-five-altering-the-deal",
-  externalId: "565913",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "565913",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/565913/chapter-one-hundred-and-five-altering-the-deal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

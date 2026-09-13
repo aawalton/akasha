@@ -10,9 +10,13 @@ export const cinnamonBun0208StrayBunArtContest = {
   ownLength: 154,
   unit: "words",
   publishedAt: "2021-05-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/679999/stray-bun-art-contest",
-  externalId: "679999",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "679999",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/679999/stray-bun-art-contest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

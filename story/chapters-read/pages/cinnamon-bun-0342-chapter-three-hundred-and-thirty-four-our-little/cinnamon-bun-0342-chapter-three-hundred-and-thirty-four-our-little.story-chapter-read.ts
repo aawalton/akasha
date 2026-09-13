@@ -10,9 +10,13 @@ export const cinnamonBun0342ChapterThreeHundredAndThirtyFourOurLittle = {
   ownLength: 1979,
   unit: "words",
   publishedAt: "2022-08-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/972707/chapter-three-hundred-and-thirty-four-our-little",
-  externalId: "972707",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "972707",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/972707/chapter-three-hundred-and-thirty-four-our-little",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

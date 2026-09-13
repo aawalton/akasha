@@ -10,9 +10,13 @@ export const cinnamonBun0305ChapterTwoHundredAndNinetySevenHugsAnd = {
   ownLength: 1953,
   unit: "words",
   publishedAt: "2022-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/875223/chapter-two-hundred-and-ninety-seven-hugs-and",
-  externalId: "875223",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "875223",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/875223/chapter-two-hundred-and-ninety-seven-hugs-and",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

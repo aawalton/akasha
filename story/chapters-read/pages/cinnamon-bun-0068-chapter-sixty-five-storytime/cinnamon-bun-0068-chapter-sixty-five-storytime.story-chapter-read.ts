@@ -10,9 +10,13 @@ export const cinnamonBun0068ChapterSixtyFiveStorytime = {
   ownLength: 1920,
   unit: "words",
   publishedAt: "2020-07-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/531326/chapter-sixty-five-storytime",
-  externalId: "531326",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "531326",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/531326/chapter-sixty-five-storytime",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

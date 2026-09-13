@@ -10,9 +10,13 @@ export const cinnamonBun0222ChapterTwoHundredAndFourteenPlanningCommitea = {
   ownLength: 1921,
   unit: "words",
   publishedAt: "2021-06-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/708222/chapter-two-hundred-and-fourteen-planning-commitea",
-  externalId: "708222",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "708222",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/708222/chapter-two-hundred-and-fourteen-planning-commitea",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

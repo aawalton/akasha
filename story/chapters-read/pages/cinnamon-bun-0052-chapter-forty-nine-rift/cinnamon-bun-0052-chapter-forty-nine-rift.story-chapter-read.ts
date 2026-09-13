@@ -10,9 +10,13 @@ export const cinnamonBun0052ChapterFortyNineRift = {
   ownLength: 2023,
   unit: "words",
   publishedAt: "2020-06-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/515467/chapter-forty-nine-rift",
-  externalId: "515467",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "515467",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/515467/chapter-forty-nine-rift",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

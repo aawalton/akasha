@@ -10,9 +10,13 @@ export const cinnamonBun0365ChapterThreeHundredAndFiftySixEmployee = {
   ownLength: 2124,
   unit: "words",
   publishedAt: "2022-11-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1029078/chapter-three-hundred-and-fifty-six-employee-retention",
-  externalId: "1029078",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1029078",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1029078/chapter-three-hundred-and-fifty-six-employee-retention",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

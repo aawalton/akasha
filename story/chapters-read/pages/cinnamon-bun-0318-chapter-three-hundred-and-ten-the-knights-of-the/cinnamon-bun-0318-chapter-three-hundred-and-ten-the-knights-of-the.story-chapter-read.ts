@@ -10,9 +10,13 @@ export const cinnamonBun0318ChapterThreeHundredAndTenTheKnightsOfThe = {
   ownLength: 1978,
   unit: "words",
   publishedAt: "2022-05-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/905821/chapter-three-hundred-and-ten-the-knights-of-the",
-  externalId: "905821",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "905821",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/905821/chapter-three-hundred-and-ten-the-knights-of-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

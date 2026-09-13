@@ -10,9 +10,13 @@ export const cinnamonBun0051ChapterFortyEightAGoodBoy = {
   ownLength: 1974,
   unit: "words",
   publishedAt: "2020-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/515164/chapter-forty-eight-a-good-boy",
-  externalId: "515164",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "515164",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/515164/chapter-forty-eight-a-good-boy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

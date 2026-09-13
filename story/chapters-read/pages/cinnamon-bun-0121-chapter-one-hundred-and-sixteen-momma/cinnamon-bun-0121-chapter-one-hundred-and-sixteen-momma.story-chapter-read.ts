@@ -10,9 +10,13 @@ export const cinnamonBun0121ChapterOneHundredAndSixteenMomma = {
   ownLength: 1961,
   unit: "words",
   publishedAt: "2020-10-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/572034/chapter-one-hundred-and-sixteen-momma",
-  externalId: "572034",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "572034",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/572034/chapter-one-hundred-and-sixteen-momma",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

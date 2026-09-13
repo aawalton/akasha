@@ -10,9 +10,13 @@ export const cinnamonBun0032ChapterThirtyAVeryHandsomeTree = {
   ownLength: 1990,
   unit: "words",
   publishedAt: "2020-05-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/503050/chapter-thirty-a-very-handsome-tree",
-  externalId: "503050",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "503050",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/503050/chapter-thirty-a-very-handsome-tree",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

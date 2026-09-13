@@ -10,9 +10,13 @@ export const cinnamonBun0166ChapterOneHundredAndSixtyYoureGroundedYoung = {
   ownLength: 1935,
   unit: "words",
   publishedAt: "2021-02-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/632735/chapter-one-hundred-and-sixty-youre-grounded-young",
-  externalId: "632735",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "632735",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/632735/chapter-one-hundred-and-sixty-youre-grounded-young",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

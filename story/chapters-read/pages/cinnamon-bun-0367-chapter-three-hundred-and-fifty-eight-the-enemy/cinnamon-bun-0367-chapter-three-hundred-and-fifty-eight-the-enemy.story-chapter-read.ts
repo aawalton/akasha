@@ -10,9 +10,13 @@ export const cinnamonBun0367ChapterThreeHundredAndFiftyEightTheEnemy = {
   ownLength: 1960,
   unit: "words",
   publishedAt: "2022-11-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1035255/chapter-three-hundred-and-fifty-eight-the-enemy",
-  externalId: "1035255",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1035255",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1035255/chapter-three-hundred-and-fifty-eight-the-enemy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

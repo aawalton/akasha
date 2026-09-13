@@ -10,9 +10,13 @@ export const cinnamonBun0230ChapterTwoHundredAndTwentyTwoDownWithThe = {
   ownLength: 1953,
   unit: "words",
   publishedAt: "2021-07-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/716966/chapter-two-hundred-and-twenty-two-down-with-the",
-  externalId: "716966",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "716966",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/716966/chapter-two-hundred-and-twenty-two-down-with-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

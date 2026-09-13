@@ -10,9 +10,13 @@ export const cinnamonBun0084ChapterEightyOneInCaseOfPuzzleBreakGlass = {
   ownLength: 1886,
   unit: "words",
   publishedAt: "2020-08-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/542383/chapter-eighty-one-in-case-of-puzzle-break-glass",
-  externalId: "542383",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "542383",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/542383/chapter-eighty-one-in-case-of-puzzle-break-glass",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

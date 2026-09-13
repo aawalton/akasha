@@ -10,9 +10,13 @@ export const cinnamonBun0024ChapterTwentyTwoALongTalkOffAShortPier = {
   ownLength: 1949,
   unit: "words",
   publishedAt: "2020-05-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/495831/chapter-twenty-two-a-long-talk-off-a-short-pier",
-  externalId: "495831",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "495831",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/495831/chapter-twenty-two-a-long-talk-off-a-short-pier",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

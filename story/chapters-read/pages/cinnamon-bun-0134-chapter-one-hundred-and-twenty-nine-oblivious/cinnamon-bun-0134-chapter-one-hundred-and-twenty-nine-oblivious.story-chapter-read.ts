@@ -10,9 +10,13 @@ export const cinnamonBun0134ChapterOneHundredAndTwentyNineOblivious = {
   ownLength: 2085,
   unit: "words",
   publishedAt: "2020-11-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/583147/chapter-one-hundred-and-twenty-nine-oblivious",
-  externalId: "583147",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "583147",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/583147/chapter-one-hundred-and-twenty-nine-oblivious",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

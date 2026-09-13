@@ -10,9 +10,13 @@ export const cinnamonBun0227ChapterTwoHundredAndNineteenGuilt = {
   ownLength: 2162,
   unit: "words",
   publishedAt: "2021-07-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/715399/chapter-two-hundred-and-nineteen-guilt",
-  externalId: "715399",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "715399",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/715399/chapter-two-hundred-and-nineteen-guilt",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0094ChapterNinetyOneCoreValues = {
   ownLength: 1973,
   unit: "words",
   publishedAt: "2020-09-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/551983/chapter-ninety-one-core-values",
-  externalId: "551983",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "551983",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/551983/chapter-ninety-one-core-values",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

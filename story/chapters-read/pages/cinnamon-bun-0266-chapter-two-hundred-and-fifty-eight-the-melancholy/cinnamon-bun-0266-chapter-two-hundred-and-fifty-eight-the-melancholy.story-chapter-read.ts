@@ -10,9 +10,13 @@ export const cinnamonBun0266ChapterTwoHundredAndFiftyEightTheMelancholy = {
   ownLength: 1984,
   unit: "words",
   publishedAt: "2021-10-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/773303/chapter-two-hundred-and-fifty-eight-the-melancholy",
-  externalId: "773303",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "773303",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/773303/chapter-two-hundred-and-fifty-eight-the-melancholy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

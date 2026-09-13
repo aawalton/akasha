@@ -10,9 +10,13 @@ export const cinnamonBun0112ChapterOneHundredAndSevenBringingAKnifeTo = {
   ownLength: 1989,
   unit: "words",
   publishedAt: "2020-10-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/566397/chapter-one-hundred-and-seven-bringing-a-knife",
-  externalId: "566397",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "566397",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/566397/chapter-one-hundred-and-seven-bringing-a-knife",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

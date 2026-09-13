@@ -10,9 +10,13 @@ export const cinnamonBun0255ChapterTwoHundredAndFortySevenDamItAll = {
   ownLength: 1937,
   unit: "words",
   publishedAt: "2021-09-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/751706/chapter-two-hundred-and-forty-seven-dam-it-all",
-  externalId: "751706",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "751706",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/751706/chapter-two-hundred-and-forty-seven-dam-it-all",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

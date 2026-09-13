@@ -10,9 +10,13 @@ export const cinnamonBun0310ChapterThreeHundredAndTwoSomeoneSetUpUs = {
   ownLength: 1935,
   unit: "words",
   publishedAt: "2022-04-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/886046/chapter-three-hundred-and-two-someone-set-up-us",
-  externalId: "886046",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "886046",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/886046/chapter-three-hundred-and-two-someone-set-up-us",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

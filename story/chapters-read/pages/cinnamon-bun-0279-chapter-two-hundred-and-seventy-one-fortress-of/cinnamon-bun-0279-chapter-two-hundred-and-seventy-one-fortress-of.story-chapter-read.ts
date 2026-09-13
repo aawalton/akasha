@@ -10,9 +10,13 @@ export const cinnamonBun0279ChapterTwoHundredAndSeventyOneFortressOf = {
   ownLength: 1967,
   unit: "words",
   publishedAt: "2022-01-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/817612/chapter-two-hundred-and-seventy-one-fortress-of",
-  externalId: "817612",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "817612",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/817612/chapter-two-hundred-and-seventy-one-fortress-of",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0391ChapterThreeHundredAndSeventyNinePolite = {
   ownLength: 1967,
   unit: "words",
   publishedAt: "2023-01-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1098049/chapter-three-hundred-and-seventy-nine-polite",
-  externalId: "1098049",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1098049",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1098049/chapter-three-hundred-and-seventy-nine-polite",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

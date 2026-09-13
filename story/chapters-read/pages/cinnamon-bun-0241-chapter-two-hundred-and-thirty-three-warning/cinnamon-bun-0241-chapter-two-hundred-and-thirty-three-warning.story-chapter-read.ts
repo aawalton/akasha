@@ -10,9 +10,13 @@ export const cinnamonBun0241ChapterTwoHundredAndThirtyThreeWarning = {
   ownLength: 1941,
   unit: "words",
   publishedAt: "2021-08-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/727824/chapter-two-hundred-and-thirty-three-warning-rocket",
-  externalId: "727824",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "727824",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/727824/chapter-two-hundred-and-thirty-three-warning-rocket",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

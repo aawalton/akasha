@@ -10,9 +10,13 @@ export const cinnamonBun0204ChapterOneHundredAndNinetySevenAshesTo = {
   ownLength: 1966,
   unit: "words",
   publishedAt: "2021-05-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/689091/chapter-one-hundred-and-ninety-seven-ashes-to",
-  externalId: "689091",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "689091",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/689091/chapter-one-hundred-and-ninety-seven-ashes-to",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

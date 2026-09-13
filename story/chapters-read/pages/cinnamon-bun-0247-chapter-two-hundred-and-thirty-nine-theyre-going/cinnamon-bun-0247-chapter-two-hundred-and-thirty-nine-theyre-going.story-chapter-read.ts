@@ -10,9 +10,13 @@ export const cinnamonBun0247ChapterTwoHundredAndThirtyNineTheyreGoing = {
   ownLength: 2045,
   unit: "words",
   publishedAt: "2021-08-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/739385/chapter-two-hundred-and-thirty-nine-theyre-going",
-  externalId: "739385",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "739385",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/739385/chapter-two-hundred-and-thirty-nine-theyre-going",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

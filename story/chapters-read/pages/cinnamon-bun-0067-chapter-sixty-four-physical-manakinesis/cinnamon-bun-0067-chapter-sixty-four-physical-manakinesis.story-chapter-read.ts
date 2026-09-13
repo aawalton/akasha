@@ -10,9 +10,13 @@ export const cinnamonBun0067ChapterSixtyFourPhysicalManakinesis = {
   ownLength: 1978,
   unit: "words",
   publishedAt: "2020-07-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/530255/chapter-sixty-four-physical-manakinesis",
-  externalId: "530255",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "530255",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/530255/chapter-sixty-four-physical-manakinesis",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0235ChapterTwoHundredAndTwentySevenAHuffy = {
   ownLength: 1925,
   unit: "words",
   publishedAt: "2021-07-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/720256/chapter-two-hundred-and-twenty-seven-a-huffy-afternoon",
-  externalId: "720256",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "720256",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/720256/chapter-two-hundred-and-twenty-seven-a-huffy-afternoon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

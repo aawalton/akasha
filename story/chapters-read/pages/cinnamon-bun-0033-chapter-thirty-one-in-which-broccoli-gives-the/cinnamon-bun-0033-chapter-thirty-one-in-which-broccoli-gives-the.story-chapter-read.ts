@@ -10,9 +10,13 @@ export const cinnamonBun0033ChapterThirtyOneInWhichBroccoliGivesThe = {
   ownLength: 1959,
   unit: "words",
   publishedAt: "2020-06-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/504280/chapter-thirty-one-in-which-broccoli-gives-the",
-  externalId: "504280",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "504280",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/504280/chapter-thirty-one-in-which-broccoli-gives-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

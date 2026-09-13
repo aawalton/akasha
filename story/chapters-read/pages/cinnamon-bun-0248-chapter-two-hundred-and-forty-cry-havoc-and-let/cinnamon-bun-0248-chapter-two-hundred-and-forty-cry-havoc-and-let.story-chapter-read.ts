@@ -10,9 +10,13 @@ export const cinnamonBun0248ChapterTwoHundredAndFortyCryHavocAndLet = {
   ownLength: 1961,
   unit: "words",
   publishedAt: "2021-08-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/740485/chapter-two-hundred-and-forty-cry-havoc-and-let",
-  externalId: "740485",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "740485",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/740485/chapter-two-hundred-and-forty-cry-havoc-and-let",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

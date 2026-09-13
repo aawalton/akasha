@@ -10,9 +10,13 @@ export const cinnamonBun0313ChapterThreeHundredAndFiveAleaIactaQuest = {
   ownLength: 1916,
   unit: "words",
   publishedAt: "2022-04-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/895008/chapter-three-hundred-and-five-alea-iacta-quest",
-  externalId: "895008",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "895008",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/895008/chapter-three-hundred-and-five-alea-iacta-quest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

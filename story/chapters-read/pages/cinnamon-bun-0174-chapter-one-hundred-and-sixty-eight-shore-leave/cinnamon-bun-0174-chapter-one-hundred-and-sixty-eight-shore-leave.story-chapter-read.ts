@@ -10,9 +10,13 @@ export const cinnamonBun0174ChapterOneHundredAndSixtyEightShoreLeave = {
   ownLength: 1967,
   unit: "words",
   publishedAt: "2021-03-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/644702/chapter-one-hundred-and-sixty-eight-shore-leave",
-  externalId: "644702",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "644702",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/644702/chapter-one-hundred-and-sixty-eight-shore-leave",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

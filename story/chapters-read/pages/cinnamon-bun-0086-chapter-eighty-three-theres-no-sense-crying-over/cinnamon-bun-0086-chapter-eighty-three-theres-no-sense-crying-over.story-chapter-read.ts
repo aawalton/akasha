@@ -10,9 +10,13 @@ export const cinnamonBun0086ChapterEightyThreeTheresNoSenseCryingOver = {
   ownLength: 2029,
   unit: "words",
   publishedAt: "2020-08-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/544270/chapter-eighty-three-theres-no-sense-crying-over",
-  externalId: "544270",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "544270",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/544270/chapter-eighty-three-theres-no-sense-crying-over",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

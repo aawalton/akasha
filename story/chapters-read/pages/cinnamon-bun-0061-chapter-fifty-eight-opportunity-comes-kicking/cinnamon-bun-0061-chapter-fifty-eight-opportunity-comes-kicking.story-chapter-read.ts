@@ -10,9 +10,13 @@ export const cinnamonBun0061ChapterFiftyEightOpportunityComesKicking = {
   ownLength: 2017,
   unit: "words",
   publishedAt: "2020-07-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/524016/chapter-fifty-eight-opportunity-comes-kicking",
-  externalId: "524016",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "524016",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/524016/chapter-fifty-eight-opportunity-comes-kicking",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

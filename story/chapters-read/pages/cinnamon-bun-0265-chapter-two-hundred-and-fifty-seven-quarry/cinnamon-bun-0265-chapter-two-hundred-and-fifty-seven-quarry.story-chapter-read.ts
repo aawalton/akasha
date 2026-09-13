@@ -10,9 +10,13 @@ export const cinnamonBun0265ChapterTwoHundredAndFiftySevenQuarry = {
   ownLength: 2060,
   unit: "words",
   publishedAt: "2021-10-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/770332/chapter-two-hundred-and-fifty-seven-quarry",
-  externalId: "770332",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "770332",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/770332/chapter-two-hundred-and-fifty-seven-quarry",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

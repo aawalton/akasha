@@ -10,9 +10,13 @@ export const cinnamonBun0183ChapterOneHundredAndSeventySevenDoubleTime = {
   ownLength: 1923,
   unit: "words",
   publishedAt: "2021-03-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/654495/chapter-one-hundred-and-seventy-seven-double-time",
-  externalId: "654495",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "654495",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/654495/chapter-one-hundred-and-seventy-seven-double-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

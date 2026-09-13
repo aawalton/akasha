@@ -10,9 +10,13 @@ export const cinnamonBun0126ChapterOneHundredAndTwentyOneGangstaBun = {
   ownLength: 2033,
   unit: "words",
   publishedAt: "2020-10-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/575206/chapter-one-hundred-and-twenty-one-gangsta-bun",
-  externalId: "575206",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "575206",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/575206/chapter-one-hundred-and-twenty-one-gangsta-bun",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

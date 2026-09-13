@@ -10,9 +10,13 @@ export const cinnamonBun0373ChapterThreeHundredAndSixtyFourFrom = {
   ownLength: 1910,
   unit: "words",
   publishedAt: "2022-11-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1051785/chapter-three-hundred-and-sixty-four-from-sylphfree",
-  externalId: "1051785",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1051785",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1051785/chapter-three-hundred-and-sixty-four-from-sylphfree",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

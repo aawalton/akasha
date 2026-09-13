@@ -10,9 +10,13 @@ export const cinnamonBun0066ChapterSixtyThreeTheShadyLady = {
   ownLength: 2027,
   unit: "words",
   publishedAt: "2020-07-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/528882/chapter-sixty-three-the-shady-lady",
-  externalId: "528882",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "528882",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/528882/chapter-sixty-three-the-shady-lady",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

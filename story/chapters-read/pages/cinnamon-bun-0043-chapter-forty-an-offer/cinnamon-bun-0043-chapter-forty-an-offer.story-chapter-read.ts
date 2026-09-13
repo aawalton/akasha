@@ -10,9 +10,13 @@ export const cinnamonBun0043ChapterFortyAnOffer = {
   ownLength: 1950,
   unit: "words",
   publishedAt: "2020-06-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/509569/chapter-forty-an-offer",
-  externalId: "509569",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "509569",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/509569/chapter-forty-an-offer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0309ChapterThreeHundredAndOneTrueColours = {
   ownLength: 2034,
   unit: "words",
   publishedAt: "2022-04-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/884462/chapter-three-hundred-and-one-true-colours",
-  externalId: "884462",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "884462",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/884462/chapter-three-hundred-and-one-true-colours",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

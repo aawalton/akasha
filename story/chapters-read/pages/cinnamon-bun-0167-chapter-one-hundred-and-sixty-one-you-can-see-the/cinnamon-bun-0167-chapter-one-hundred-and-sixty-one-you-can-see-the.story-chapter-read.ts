@@ -11,9 +11,13 @@ export const cinnamonBun0167ChapterOneHundredAndSixtyOneYouCanSeeThe = {
   ownLength: 1959,
   unit: "words",
   publishedAt: "2021-02-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/633760/chapter-one-hundred-and-sixty-one-you-can-see",
-  externalId: "633760",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "633760",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/633760/chapter-one-hundred-and-sixty-one-you-can-see",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

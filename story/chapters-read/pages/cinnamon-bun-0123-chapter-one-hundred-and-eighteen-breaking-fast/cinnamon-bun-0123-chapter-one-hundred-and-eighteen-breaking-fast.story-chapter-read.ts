@@ -10,9 +10,13 @@ export const cinnamonBun0123ChapterOneHundredAndEighteenBreakingFast = {
   ownLength: 2011,
   unit: "words",
   publishedAt: "2020-10-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/572883/chapter-one-hundred-and-eighteen-breaking-fast",
-  externalId: "572883",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "572883",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/572883/chapter-one-hundred-and-eighteen-breaking-fast",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0217ChapterTwoHundredAndNineNotTheHeroWeNeed = {
   ownLength: 1883,
   unit: "words",
   publishedAt: "2021-06-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/701639/chapter-two-hundred-and-nine-not-the-hero-we-need",
-  externalId: "701639",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "701639",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/701639/chapter-two-hundred-and-nine-not-the-hero-we-need",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

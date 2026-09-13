@@ -10,9 +10,13 @@ export const cinnamonBun0071ChapterSixtyEightACureForHysteriaAnd = {
   ownLength: 2145,
   unit: "words",
   publishedAt: "2020-08-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/534197/chapter-sixty-eight-a-cure-for-hysteria-and-loneliness",
-  externalId: "534197",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "534197",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/534197/chapter-sixty-eight-a-cure-for-hysteria-and-loneliness",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

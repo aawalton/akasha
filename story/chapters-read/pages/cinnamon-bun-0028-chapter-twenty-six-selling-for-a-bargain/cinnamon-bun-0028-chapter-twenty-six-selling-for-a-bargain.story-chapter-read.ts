@@ -10,9 +10,13 @@ export const cinnamonBun0028ChapterTwentySixSellingForABargain = {
   ownLength: 2086,
   unit: "words",
   publishedAt: "2020-05-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/499075/chapter-twenty-six-selling-for-a-bargain",
-  externalId: "499075",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "499075",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/499075/chapter-twenty-six-selling-for-a-bargain",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

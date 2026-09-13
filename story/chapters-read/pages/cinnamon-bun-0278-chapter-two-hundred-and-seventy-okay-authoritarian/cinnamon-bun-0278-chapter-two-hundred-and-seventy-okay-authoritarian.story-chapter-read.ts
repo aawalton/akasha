@@ -10,9 +10,13 @@ export const cinnamonBun0278ChapterTwoHundredAndSeventyOkayAuthoritarian = {
   ownLength: 1949,
   unit: "words",
   publishedAt: "2021-11-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/797439/chapter-two-hundred-and-seventy-okay-authoritarian",
-  externalId: "797439",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "797439",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/797439/chapter-two-hundred-and-seventy-okay-authoritarian",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

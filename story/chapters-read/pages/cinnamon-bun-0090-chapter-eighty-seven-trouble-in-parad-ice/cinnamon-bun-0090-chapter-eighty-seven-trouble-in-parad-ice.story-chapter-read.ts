@@ -10,9 +10,13 @@ export const cinnamonBun0090ChapterEightySevenTroubleInParadIce = {
   ownLength: 2001,
   unit: "words",
   publishedAt: "2020-08-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/547416/chapter-eighty-seven--trouble-in-parad-ice",
-  externalId: "547416",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "547416",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/547416/chapter-eighty-seven--trouble-in-parad-ice",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0092ChapterEightyNineDownToEarth = {
   ownLength: 2016,
   unit: "words",
   publishedAt: "2020-09-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/549598/chapter-eighty-nine-down-to-earth",
-  externalId: "549598",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "549598",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/549598/chapter-eighty-nine-down-to-earth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

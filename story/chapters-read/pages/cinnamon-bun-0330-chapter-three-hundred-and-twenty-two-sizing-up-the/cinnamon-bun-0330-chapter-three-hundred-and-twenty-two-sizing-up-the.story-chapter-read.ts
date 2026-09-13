@@ -10,9 +10,13 @@ export const cinnamonBun0330ChapterThreeHundredAndTwentyTwoSizingUpThe = {
   ownLength: 1755,
   unit: "words",
   publishedAt: "2022-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/934278/chapter-three-hundred-and-twenty-two-sizing-up",
-  externalId: "934278",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "934278",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/934278/chapter-three-hundred-and-twenty-two-sizing-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

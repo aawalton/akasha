@@ -10,9 +10,13 @@ export const cinnamonBun0324ChapterThreeHundredAndSixteenPastTense = {
   ownLength: 2047,
   unit: "words",
   publishedAt: "2022-06-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/922740/chapter-three-hundred-and-sixteen-past-tense",
-  externalId: "922740",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "922740",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/922740/chapter-three-hundred-and-sixteen-past-tense",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

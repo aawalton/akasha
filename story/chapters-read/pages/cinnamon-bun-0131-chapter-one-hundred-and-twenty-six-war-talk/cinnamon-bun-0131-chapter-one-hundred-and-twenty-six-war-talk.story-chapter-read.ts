@@ -10,9 +10,13 @@ export const cinnamonBun0131ChapterOneHundredAndTwentySixWarTalk = {
   ownLength: 1948,
   unit: "words",
   publishedAt: "2020-11-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/579351/chapter-one-hundred-and-twenty-six-war-talk",
-  externalId: "579351",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "579351",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/579351/chapter-one-hundred-and-twenty-six-war-talk",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

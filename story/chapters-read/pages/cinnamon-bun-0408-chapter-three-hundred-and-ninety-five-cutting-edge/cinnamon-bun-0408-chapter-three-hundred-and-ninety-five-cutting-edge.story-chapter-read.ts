@@ -10,9 +10,13 @@ export const cinnamonBun0408ChapterThreeHundredAndNinetyFiveCuttingEdge = {
   ownLength: 1996,
   unit: "words",
   publishedAt: "2023-04-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1157985/chapter-three-hundred-and-ninety-five-cutting",
-  externalId: "1157985",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1157985",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1157985/chapter-three-hundred-and-ninety-five-cutting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

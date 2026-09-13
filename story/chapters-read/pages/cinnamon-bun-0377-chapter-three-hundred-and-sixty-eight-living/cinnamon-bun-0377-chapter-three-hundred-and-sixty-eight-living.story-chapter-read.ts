@@ -10,9 +10,13 @@ export const cinnamonBun0377ChapterThreeHundredAndSixtyEightLiving = {
   ownLength: 1972,
   unit: "words",
   publishedAt: "2022-12-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1063403/chapter-three-hundred-and-sixty-eight-living-history",
-  externalId: "1063403",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1063403",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1063403/chapter-three-hundred-and-sixty-eight-living-history",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

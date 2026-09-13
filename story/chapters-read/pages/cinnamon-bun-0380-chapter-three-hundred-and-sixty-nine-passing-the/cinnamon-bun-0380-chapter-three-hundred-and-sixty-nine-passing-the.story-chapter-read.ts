@@ -10,9 +10,13 @@ export const cinnamonBun0380ChapterThreeHundredAndSixtyNinePassingThe = {
   ownLength: 2059,
   unit: "words",
   publishedAt: "2022-12-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1068233/chapter-three-hundred-and-sixty-nine-passing-the",
-  externalId: "1068233",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1068233",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1068233/chapter-three-hundred-and-sixty-nine-passing-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

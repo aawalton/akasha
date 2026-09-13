@@ -10,9 +10,13 @@ export const cinnamonBun0088ChapterEightyFiveFunhouse = {
   ownLength: 1945,
   unit: "words",
   publishedAt: "2020-08-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/545427/chapter-eighty-five-funhouse",
-  externalId: "545427",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "545427",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/545427/chapter-eighty-five-funhouse",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

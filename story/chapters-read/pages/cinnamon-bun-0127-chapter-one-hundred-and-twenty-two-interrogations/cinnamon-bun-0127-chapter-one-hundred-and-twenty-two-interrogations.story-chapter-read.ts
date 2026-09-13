@@ -10,9 +10,13 @@ export const cinnamonBun0127ChapterOneHundredAndTwentyTwoInterrogations = {
   ownLength: 2038,
   unit: "words",
   publishedAt: "2020-10-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/575732/chapter-one-hundred-and-twenty-two-interrogations",
-  externalId: "575732",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "575732",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/575732/chapter-one-hundred-and-twenty-two-interrogations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

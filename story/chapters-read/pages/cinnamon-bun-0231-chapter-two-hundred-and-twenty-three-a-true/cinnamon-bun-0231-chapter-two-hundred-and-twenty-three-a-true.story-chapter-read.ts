@@ -10,9 +10,13 @@ export const cinnamonBun0231ChapterTwoHundredAndTwentyThreeATrue = {
   ownLength: 1894,
   unit: "words",
   publishedAt: "2021-07-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/717636/chapter-two-hundred-and-twenty-three-a-true-captain",
-  externalId: "717636",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "717636",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/717636/chapter-two-hundred-and-twenty-three-a-true-captain",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

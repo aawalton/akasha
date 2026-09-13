@@ -10,9 +10,13 @@ export const cinnamonBun0319ChapterThreeHundredAndElevenAFullBedspread = {
   ownLength: 1984,
   unit: "words",
   publishedAt: "2022-05-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/909083/chapter-three-hundred-and-eleven-a-full-bedspread",
-  externalId: "909083",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "909083",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/909083/chapter-three-hundred-and-eleven-a-full-bedspread",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

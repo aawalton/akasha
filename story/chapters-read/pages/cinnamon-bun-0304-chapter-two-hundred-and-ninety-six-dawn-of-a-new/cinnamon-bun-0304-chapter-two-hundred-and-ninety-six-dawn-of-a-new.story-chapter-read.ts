@@ -10,9 +10,13 @@ export const cinnamonBun0304ChapterTwoHundredAndNinetySixDawnOfANew = {
   ownLength: 1980,
   unit: "words",
   publishedAt: "2022-03-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/873736/chapter-two-hundred-and-ninety-six-dawn-of-a-new",
-  externalId: "873736",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "873736",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/873736/chapter-two-hundred-and-ninety-six-dawn-of-a-new",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0212ChapterTwoHundredAndFourImmuneSystem = {
   ownLength: 1956,
   unit: "words",
   publishedAt: "2021-06-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/695354/chapter-two-hundred-and-four-immune-system",
-  externalId: "695354",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "695354",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/695354/chapter-two-hundred-and-four-immune-system",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

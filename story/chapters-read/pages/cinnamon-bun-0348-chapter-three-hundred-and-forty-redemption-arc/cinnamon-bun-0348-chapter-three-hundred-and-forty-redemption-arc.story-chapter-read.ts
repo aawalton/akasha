@@ -10,9 +10,13 @@ export const cinnamonBun0348ChapterThreeHundredAndFortyRedemptionArc = {
   ownLength: 2001,
   unit: "words",
   publishedAt: "2022-09-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/987884/chapter-three-hundred-and-forty-redemption-arc",
-  externalId: "987884",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "987884",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/987884/chapter-three-hundred-and-forty-redemption-arc",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0180ChapterOneHundredAndSeventyFourChaosAnd = {
   ownLength: 2141,
   unit: "words",
   publishedAt: "2021-03-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/651723/chapter-one-hundred-and-seventy-four-chaos-and",
-  externalId: "651723",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "651723",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/651723/chapter-one-hundred-and-seventy-four-chaos-and",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

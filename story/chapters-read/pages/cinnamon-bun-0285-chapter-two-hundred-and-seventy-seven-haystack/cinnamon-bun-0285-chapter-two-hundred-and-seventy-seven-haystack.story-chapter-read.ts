@@ -10,9 +10,13 @@ export const cinnamonBun0285ChapterTwoHundredAndSeventySevenHaystack = {
   ownLength: 1926,
   unit: "words",
   publishedAt: "2022-01-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/828570/chapter-two-hundred-and-seventy-seven-haystack",
-  externalId: "828570",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "828570",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/828570/chapter-two-hundred-and-seventy-seven-haystack",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

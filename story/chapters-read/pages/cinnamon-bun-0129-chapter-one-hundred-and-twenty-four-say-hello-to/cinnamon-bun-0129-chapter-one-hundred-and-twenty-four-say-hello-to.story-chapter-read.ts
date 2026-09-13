@@ -10,9 +10,13 @@ export const cinnamonBun0129ChapterOneHundredAndTwentyFourSayHelloTo = {
   ownLength: 2027,
   unit: "words",
   publishedAt: "2020-10-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/576775/chapter-one-hundred-and-twenty-four-say-hello",
-  externalId: "576775",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "576775",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/576775/chapter-one-hundred-and-twenty-four-say-hello",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0269ChapterTwoHundredAndSixtyOneAirtimeNaptime = {
   ownLength: 2083,
   unit: "words",
   publishedAt: "2021-11-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/777368/chapter-two-hundred-and-sixty-one-airtime-naptime",
-  externalId: "777368",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "777368",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/777368/chapter-two-hundred-and-sixty-one-airtime-naptime",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

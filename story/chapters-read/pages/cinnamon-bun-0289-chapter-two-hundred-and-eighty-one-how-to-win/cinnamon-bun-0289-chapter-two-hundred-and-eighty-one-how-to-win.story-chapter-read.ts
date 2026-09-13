@@ -10,9 +10,13 @@ export const cinnamonBun0289ChapterTwoHundredAndEightyOneHowToWin = {
   ownLength: 2064,
   unit: "words",
   publishedAt: "2022-02-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/837702/chapter-two-hundred-and-eighty-one-how-to-win",
-  externalId: "837702",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "837702",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/837702/chapter-two-hundred-and-eighty-one-how-to-win",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

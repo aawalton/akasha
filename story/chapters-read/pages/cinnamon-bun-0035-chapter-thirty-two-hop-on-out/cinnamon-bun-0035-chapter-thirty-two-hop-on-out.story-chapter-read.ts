@@ -10,9 +10,13 @@ export const cinnamonBun0035ChapterThirtyTwoHopOnOut = {
   ownLength: 1972,
   unit: "words",
   publishedAt: "2020-06-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/504789/chapter-thirty-two-hop-on-out",
-  externalId: "504789",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "504789",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/504789/chapter-thirty-two-hop-on-out",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

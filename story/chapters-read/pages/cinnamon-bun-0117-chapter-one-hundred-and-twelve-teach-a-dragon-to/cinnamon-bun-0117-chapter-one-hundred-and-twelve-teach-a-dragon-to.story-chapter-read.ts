@@ -10,9 +10,13 @@ export const cinnamonBun0117ChapterOneHundredAndTwelveTeachADragonTo = {
   ownLength: 2049,
   unit: "words",
   publishedAt: "2020-10-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/569507/chapter-one-hundred-and-twelve-teach-a-dragon",
-  externalId: "569507",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "569507",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/569507/chapter-one-hundred-and-twelve-teach-a-dragon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

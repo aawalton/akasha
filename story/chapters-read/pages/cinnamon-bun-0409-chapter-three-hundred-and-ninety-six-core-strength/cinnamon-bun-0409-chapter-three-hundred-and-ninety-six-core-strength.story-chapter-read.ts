@@ -10,9 +10,13 @@ export const cinnamonBun0409ChapterThreeHundredAndNinetySixCoreStrength = {
   ownLength: 2047,
   unit: "words",
   publishedAt: "2023-04-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1161611/chapter-three-hundred-and-ninety-six-core-strength",
-  externalId: "1161611",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1161611",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1161611/chapter-three-hundred-and-ninety-six-core-strength",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

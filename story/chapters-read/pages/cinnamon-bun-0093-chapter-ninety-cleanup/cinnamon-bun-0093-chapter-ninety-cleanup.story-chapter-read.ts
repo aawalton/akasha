@@ -10,9 +10,13 @@ export const cinnamonBun0093ChapterNinetyCleanup = {
   ownLength: 2152,
   unit: "words",
   publishedAt: "2020-09-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/551078/chapter-ninety-cleanup",
-  externalId: "551078",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "551078",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/551078/chapter-ninety-cleanup",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0158ChapterOneHundredAndFiftyTwoPeaceThrough = {
   ownLength: 1933,
   unit: "words",
   publishedAt: "2021-01-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/617199/chapter-one-hundred-and-fifty-two-peace-through",
-  externalId: "617199",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "617199",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/617199/chapter-one-hundred-and-fifty-two-peace-through",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

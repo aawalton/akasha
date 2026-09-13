@@ -10,9 +10,13 @@ export const cinnamonBun0110ChapterOneHundredAndSixGitGood = {
   ownLength: 1979,
   unit: "words",
   publishedAt: "2020-10-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/566380/chapter-one-hundred-and-six-git-good",
-  externalId: "566380",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "566380",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/566380/chapter-one-hundred-and-six-git-good",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

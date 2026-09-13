@@ -10,9 +10,13 @@ export const cinnamonBun0417ChapterFourHundredAndFourMushy = {
   ownLength: 1950,
   unit: "words",
   publishedAt: "2023-05-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1210072/chapter-four-hundred-and-four-mushy",
-  externalId: "1210072",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1210072",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1210072/chapter-four-hundred-and-four-mushy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

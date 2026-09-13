@@ -10,9 +10,13 @@ export const cinnamonBun0364SpookimonBooN = {
   ownLength: 1739,
   unit: "words",
   publishedAt: "2022-10-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1027862/spookimon-boo-n",
-  externalId: "1027862",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1027862",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1027862/spookimon-boo-n",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

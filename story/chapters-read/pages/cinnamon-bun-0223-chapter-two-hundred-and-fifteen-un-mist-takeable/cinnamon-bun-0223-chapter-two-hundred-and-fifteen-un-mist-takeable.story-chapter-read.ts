@@ -10,9 +10,13 @@ export const cinnamonBun0223ChapterTwoHundredAndFifteenUnMistTakeable = {
   ownLength: 1998,
   unit: "words",
   publishedAt: "2021-07-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/709423/chapter-two-hundred-and-fifteen-un-mist-takeable",
-  externalId: "709423",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "709423",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/709423/chapter-two-hundred-and-fifteen-un-mist-takeable",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0091ChapterEightyEightWyvern = {
   ownLength: 1973,
   unit: "words",
   publishedAt: "2020-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/548495/chapter-eighty-eight-wyvern",
-  externalId: "548495",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "548495",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/548495/chapter-eighty-eight-wyvern",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0063ChapterSixtyPrettyDresses = {
   ownLength: 2210,
   unit: "words",
   publishedAt: "2020-07-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/525815/chapter-sixty-pretty-dresses",
-  externalId: "525815",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "525815",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/525815/chapter-sixty-pretty-dresses",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

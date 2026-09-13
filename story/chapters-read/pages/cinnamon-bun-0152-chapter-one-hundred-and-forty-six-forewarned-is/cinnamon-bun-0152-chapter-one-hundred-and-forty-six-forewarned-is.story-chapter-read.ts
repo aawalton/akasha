@@ -10,9 +10,13 @@ export const cinnamonBun0152ChapterOneHundredAndFortySixForewarnedIs = {
   ownLength: 2026,
   unit: "words",
   publishedAt: "2020-12-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/607315/chapter-one-hundred-and-forty-six-forewarned-is",
-  externalId: "607315",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "607315",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/607315/chapter-one-hundred-and-forty-six-forewarned-is",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0169ChapterOneHundredAndSixtyThreeHello = {
   ownLength: 1985,
   unit: "words",
   publishedAt: "2021-02-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/637580/chapter-one-hundred-and-sixty-three-hello-darkwoods",
-  externalId: "637580",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "637580",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/637580/chapter-one-hundred-and-sixty-three-hello-darkwoods",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

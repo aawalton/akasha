@@ -10,9 +10,13 @@ export const cinnamonBun0073ChapterSeventyInWhichBroccoliKidnapsTheCute = {
   ownLength: 1940,
   unit: "words",
   publishedAt: "2020-08-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/535167/chapter-seventy-in-which-broccoli-kidnaps-the",
-  externalId: "535167",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "535167",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/535167/chapter-seventy-in-which-broccoli-kidnaps-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0387ChapterThreeHundredAndSeventyFiveAbomination = {
   ownLength: 1947,
   unit: "words",
   publishedAt: "2023-01-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1085622/chapter-three-hundred-and-seventy-five-abomination",
-  externalId: "1085622",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1085622",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1085622/chapter-three-hundred-and-seventy-five-abomination",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

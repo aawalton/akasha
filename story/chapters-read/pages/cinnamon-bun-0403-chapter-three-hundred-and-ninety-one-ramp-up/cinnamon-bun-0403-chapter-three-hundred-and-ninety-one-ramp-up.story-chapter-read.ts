@@ -10,9 +10,13 @@ export const cinnamonBun0403ChapterThreeHundredAndNinetyOneRampUp = {
   ownLength: 1983,
   unit: "words",
   publishedAt: "2023-03-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1139832/chapter-three-hundred-and-ninety-one-ramp-up",
-  externalId: "1139832",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1139832",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1139832/chapter-three-hundred-and-ninety-one-ramp-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

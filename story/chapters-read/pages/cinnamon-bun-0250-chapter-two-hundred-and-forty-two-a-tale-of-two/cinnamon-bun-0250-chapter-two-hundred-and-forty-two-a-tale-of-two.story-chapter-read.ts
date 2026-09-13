@@ -10,9 +10,13 @@ export const cinnamonBun0250ChapterTwoHundredAndFortyTwoATaleOfTwo = {
   ownLength: 1971,
   unit: "words",
   publishedAt: "2021-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/744131/chapter-two-hundred-and-forty-two-a-tale-of-two",
-  externalId: "744131",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "744131",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/744131/chapter-two-hundred-and-forty-two-a-tale-of-two",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

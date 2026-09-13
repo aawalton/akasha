@@ -10,9 +10,13 @@ export const cinnamonBun0097ChapterNinetyFourDanceDanceBeevolution = {
   ownLength: 2015,
   unit: "words",
   publishedAt: "2020-09-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/555452/chapter-ninety-four-dance-dance-beevolution",
-  externalId: "555452",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "555452",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/555452/chapter-ninety-four-dance-dance-beevolution",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

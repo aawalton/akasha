@@ -10,9 +10,13 @@ export const cinnamonBun0160ChapterOneHundredAndFiftyFourItsAGoodDay = {
   ownLength: 1945,
   unit: "words",
   publishedAt: "2021-01-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/620603/chapter-one-hundred-and-fifty-four-its-a-good",
-  externalId: "620603",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "620603",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/620603/chapter-one-hundred-and-fifty-four-its-a-good",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

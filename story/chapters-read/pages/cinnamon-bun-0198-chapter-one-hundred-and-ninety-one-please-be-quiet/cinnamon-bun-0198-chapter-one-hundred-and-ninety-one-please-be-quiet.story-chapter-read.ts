@@ -10,9 +10,13 @@ export const cinnamonBun0198ChapterOneHundredAndNinetyOnePleaseBeQuiet = {
   ownLength: 1991,
   unit: "words",
   publishedAt: "2021-05-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/684094/chapter-one-hundred-and-ninety-one-please-be-quiet",
-  externalId: "684094",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "684094",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/684094/chapter-one-hundred-and-ninety-one-please-be-quiet",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

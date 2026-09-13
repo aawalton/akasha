@@ -10,9 +10,13 @@ export const cinnamonBun0239ChapterTwoHundredAndThirtyOneACrysis = {
   ownLength: 1959,
   unit: "words",
   publishedAt: "2021-07-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/724435/chapter-two-hundred-and-thirty-one-a-crysis",
-  externalId: "724435",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "724435",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/724435/chapter-two-hundred-and-thirty-one-a-crysis",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

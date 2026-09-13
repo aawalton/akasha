@@ -10,9 +10,13 @@ export const cinnamonBun0030ChapterTwentyEightJourneybun = {
   ownLength: 2030,
   unit: "words",
   publishedAt: "2020-05-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/501223/chapter-twenty-eight-journeybun",
-  externalId: "501223",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "501223",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/501223/chapter-twenty-eight-journeybun",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0374ChapterThreeHundredAndSixtyFiveCultural = {
   ownLength: 1961,
   unit: "words",
   publishedAt: "2022-12-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1053514/chapter-three-hundred-and-sixty-five-cultural",
-  externalId: "1053514",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1053514",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1053514/chapter-three-hundred-and-sixty-five-cultural",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

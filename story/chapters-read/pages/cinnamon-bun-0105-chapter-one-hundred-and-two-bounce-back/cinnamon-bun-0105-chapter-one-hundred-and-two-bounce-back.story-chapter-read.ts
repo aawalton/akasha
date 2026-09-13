@@ -10,9 +10,13 @@ export const cinnamonBun0105ChapterOneHundredAndTwoBounceBack = {
   ownLength: 2015,
   unit: "words",
   publishedAt: "2020-10-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/563329/chapter-one-hundred-and-two-bounce-back",
-  externalId: "563329",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "563329",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/563329/chapter-one-hundred-and-two-bounce-back",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

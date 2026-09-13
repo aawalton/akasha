@@ -10,9 +10,13 @@ export const cinnamonBun0322ChapterThreeHundredAndFourteenUnbearableArms = {
   ownLength: 2025,
   unit: "words",
   publishedAt: "2022-05-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/917951/chapter-three-hundred-and-fourteen-unbearable",
-  externalId: "917951",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "917951",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/917951/chapter-three-hundred-and-fourteen-unbearable",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

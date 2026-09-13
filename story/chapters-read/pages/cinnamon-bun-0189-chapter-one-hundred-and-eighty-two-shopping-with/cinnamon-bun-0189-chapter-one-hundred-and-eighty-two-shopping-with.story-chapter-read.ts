@@ -10,9 +10,13 @@ export const cinnamonBun0189ChapterOneHundredAndEightyTwoShoppingWith = {
   ownLength: 2032,
   unit: "words",
   publishedAt: "2021-04-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/672592/chapter-one-hundred-and-eighty-two-shopping-with",
-  externalId: "672592",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "672592",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/672592/chapter-one-hundred-and-eighty-two-shopping-with",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

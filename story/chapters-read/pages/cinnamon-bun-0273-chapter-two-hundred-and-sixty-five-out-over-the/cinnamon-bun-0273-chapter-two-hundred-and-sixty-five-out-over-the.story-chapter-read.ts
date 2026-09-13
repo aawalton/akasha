@@ -10,9 +10,13 @@ export const cinnamonBun0273ChapterTwoHundredAndSixtyFiveOutOverThe = {
   ownLength: 1975,
   unit: "words",
   publishedAt: "2021-11-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/784471/chapter-two-hundred-and-sixty-five-out-over-the",
-  externalId: "784471",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "784471",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/784471/chapter-two-hundred-and-sixty-five-out-over-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
