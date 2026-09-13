@@ -49,8 +49,9 @@ test("an audit lets a page's code that lists nothing through", () => {
   expect(checkReachesAPathThroughTheIndex(rootWith({ [CODE_AT]: ASKS }))).toEqual([])
 })
 
-test("an audit passes over a file beside a page that is no code file", () => {
-  expect(checkReachesAPathThroughTheIndex(rootWith({ [FIXTURES_AT]: LISTS }))).toEqual([])
+test("an audit reads a page's test fixtures as that audit reads the page's code", () => {
+  const said = checkReachesAPathThroughTheIndex(rootWith({ [FIXTURES_AT]: LISTS }))
+  expect(said.map((one) => one.path)).toEqual([FIXTURES_AT])
 })
 
 test("a path the tree names and the disk no longer holds reads as nothing", () => {

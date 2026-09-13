@@ -16,6 +16,8 @@ const CODE = "code"
 
 const TEST = "test"
 
+const FIXTURES = "test-fixtures"
+
 const INDEX = "index"
 
 const PARTED_BY = "/"
@@ -352,7 +354,7 @@ export function judgedBy(types: ReadonlySet<string>): (path: string) => boolean 
     if (said === null || !types.has(said.pageType)) return false
     const last = said.sections[said.sections.length - 1]
     if (said.pageType === INDEX && last === CODE) return false
-    return last === CODE || last === TEST
+    return last === CODE || last === TEST || last === FIXTURES
   }
 }
 

@@ -232,7 +232,7 @@ export const checkReachesAPathThroughTheIndex = {
     {
       invariantKind: "departure",
       statement:
-        "A page file written in TypeScript is judged where that file is the page's code or test.",
+        "A page file in TypeScript is judged where it is the page's code, test or fixtures.",
     },
     {
       invariantKind: "departure",
@@ -244,7 +244,15 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "departure",
-      statement: "A test's fixtures are no reach.",
+      statement: "A page's fixtures are every file of that page whose last section is fixtures.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fixture spells a path as a test does, so a fixture is judged as a test is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A captured fixture holding a path a move respelled is refused like any file.",
     },
     {
       invariantKind: "departure",

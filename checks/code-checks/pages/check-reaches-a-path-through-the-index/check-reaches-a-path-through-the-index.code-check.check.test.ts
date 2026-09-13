@@ -59,15 +59,16 @@ test("a page's code the change carries that lists nothing is let through", () =>
   expect(judged({ [CODE_AT]: ASKS })).toEqual([])
 })
 
-test("a file beside a page that is no code file is passed over", () => {
-  expect(judged({ [FIXTURES_AT]: LISTS })).toEqual([])
+test("a page's test fixtures the change carries are judged as its code is", () => {
+  const said = judged({ [FIXTURES_AT]: LISTS })
+  expect(said.map((one) => one.path)).toEqual([FIXTURES_AT])
 })
 
-test("a page's code is input to this check and a file beside it is not", () => {
+test("a page's code and its test fixtures are both input to this check", () => {
   const given = change(rooted(), {})
   const shadow = shadowed(given)
   expect(checkReachesAPathThroughTheIndex.isInput(CODE_AT, shadow)).toBe(true)
-  expect(checkReachesAPathThroughTheIndex.isInput(FIXTURES_AT, shadow)).toBe(false)
+  expect(checkReachesAPathThroughTheIndex.isInput(FIXTURES_AT, shadow)).toBe(true)
 })
 
 test("an index's own code is no input to this check and an index's test is", () => {
