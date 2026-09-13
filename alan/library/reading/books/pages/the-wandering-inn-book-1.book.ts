@@ -8,6 +8,5 @@ export const theWanderingInnBook1 = {
   status: "following",
   unit: "words",
   ownProgress: 10.33,
-  source: "the-wandering-inn",
-  externalLink: "https://wanderinginn.com",
+  externalIdentity: [{ source: "the-wandering-inn", externalLink: "https://wanderinginn.com" }],
 } as const satisfies Book
