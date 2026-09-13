@@ -68,6 +68,12 @@ export const scratch = scratchWorld()
 
 export const git = gitIn
 
+const EXCLUDE_AT = ".git/info/exclude"
+
+export function excludingIndex(root: string, said = ""): undefined {
+  put(root, EXCLUDE_AT, `${said}${INDEX_AT}/\n`)
+}
+
 const templates = new Map<string, string>()
 
 function builtAt(root: string, named: Readonly<Record<string, string>>): string {
@@ -81,7 +87,7 @@ function builtAt(root: string, named: Readonly<Record<string, string>>): string 
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
   put(root, APPLY_AT, "export const changeApply = {}\n")
-  put(root, ".git/info/exclude", `${ADMITS_AT}\n${INDEX_AT}/\n`)
+  excludingIndex(root, `${ADMITS_AT}\n`)
   checking(root, ADMITS, ADMITS_CODE)
   warrantsSeeded(root)
   pageFiled(root, AGENT, SEAT_AT)

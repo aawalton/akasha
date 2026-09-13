@@ -1,8 +1,8 @@
 import { symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
 import {
   ADMITS_AT,
+  excludingIndex,
   REPO_AT,
   repoWith,
 } from "akasha/testing-system/modules/repo-seeding/repo-seeding.module.code.ts"
@@ -39,6 +39,6 @@ export function repoWithTheFormatter(named?: Readonly<Record<string, string>>): 
   const root = named === undefined ? repoWith() : repoWith(named)
   symlinkSync(join(REPO_AT, MODULES), join(root, MODULES))
   writeFileSync(join(root, CONFIG), BIOME)
-  put(root, ".git/info/exclude", `${ADMITS_AT}\n${MODULES}\n${CONFIG}\n`)
+  excludingIndex(root, `${ADMITS_AT}\n${MODULES}\n${CONFIG}\n`)
   return root
 }
