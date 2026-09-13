@@ -24,7 +24,6 @@ import {
   resolveToolTimeout,
   resolveWorkerModel,
 } from "akasha/agents/seats/supervisors/modules/supervisor-account-config/supervisor-account-config.module.code.ts"
-import { resolveMcpConfig } from "akasha/agents/seats/supervisors/modules/supervisor-mcp/supervisor-mcp.module.code.ts"
 import type { CarriedAgentName } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
 import type { ClearRebindDeps } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
 import type { SeatResume } from "akasha/agents/seats/supervisors/process/modules/supervisor-args/supervisor-args.module.code.ts"
@@ -32,6 +31,7 @@ import { LOG } from "akasha/agents/seats/supervisors/process/modules/supervisor-
 import { setOAuthProxyHandle } from "akasha/agents/seats/supervisors/process/modules/supervisor-state/supervisor-state.module.code.ts"
 import type { AgentProcess } from "akasha/agents/seats/supervisors/process/modules/supervisor-types/supervisor-types.module.code.ts"
 import { armForceExitTimer } from "akasha/agents/seats/supervisors/shutdown/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"
+import { resolveMcpConfig } from "akasha/agents/seats/supervisors/tooling/modules/supervisor-mcp/supervisor-mcp.module.code.ts"
 
 export type SeatSpawnDecider = (
   agentId: string | null,

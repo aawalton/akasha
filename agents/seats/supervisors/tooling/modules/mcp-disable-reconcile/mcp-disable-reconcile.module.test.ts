@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import {
   computeServersToClear,
   planDisableReconcile,
-} from "akasha/agents/seats/supervisors/modules/mcp-disable-reconcile/mcp-disable-reconcile.module.code.ts"
+} from "akasha/agents/seats/supervisors/tooling/modules/mcp-disable-reconcile/mcp-disable-reconcile.module.code.ts"
 
 const CWD = "/var/home/walton/repos/akasha"
 const same = (p: string): string => p

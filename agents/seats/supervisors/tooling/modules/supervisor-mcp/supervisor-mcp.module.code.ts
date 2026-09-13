@@ -10,11 +10,11 @@ import {
   computeMcpConfigContent,
   type McpServerConfig,
 } from "akasha/agents/claude-code/modules/claude-launch-args/claude-launch-args.module.code.ts"
-import { planDisableReconcile } from "akasha/agents/seats/supervisors/modules/mcp-disable-reconcile/mcp-disable-reconcile.module.code.ts"
+import { planDisableReconcile } from "akasha/agents/seats/supervisors/tooling/modules/mcp-disable-reconcile/mcp-disable-reconcile.module.code.ts"
 import {
   getMcpServerRegistry,
   playwrightStorageStatePath,
-} from "akasha/agents/seats/supervisors/modules/mcp-registry/mcp-registry.module.code.ts"
+} from "akasha/agents/seats/supervisors/tooling/modules/mcp-registry/mcp-registry.module.code.ts"
 import {
   type AuthSession,
   applyRefreshedSessionToStorageState,

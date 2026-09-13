@@ -1,6 +1,6 @@
 import { chmodSync, mkdirSync } from "node:fs"
 import { dirname } from "node:path"
-import { playwrightStorageStatePath } from "akasha/agents/seats/supervisors/modules/mcp-registry/mcp-registry.module.code.ts"
+import { playwrightStorageStatePath } from "akasha/agents/seats/supervisors/tooling/modules/mcp-registry/mcp-registry.module.code.ts"
 import {
   isInvalidCredentialsError,
   signInWithPassword,
