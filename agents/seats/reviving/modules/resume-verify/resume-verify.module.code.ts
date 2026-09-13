@@ -7,7 +7,7 @@ import {
   decideReviveIoVerify,
   lastAdvancementMs,
   type ReviveIoVerdict,
-} from "akasha/agents/seats/reviving/modules/revive-io-verify-decide/seat-revive-io-verify-decide.module.code.ts"
+} from "akasha/agents/seats/reviving/modules/seat-revive-io-verify-decide/seat-revive-io-verify-decide.module.code.ts"
 
 export interface ResumeVerifyInput extends ResumeSeatInput {
   readonly graceMs: number

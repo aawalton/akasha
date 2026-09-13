@@ -2,7 +2,7 @@ import type {
   CommsInput,
   OnDemandAgentSpec,
 } from "akasha/agents/messaging/recipient-resolving/modules/seat-wake-rules/seat-wake-rules.module.code.ts"
-import type { ReviveVerifySignal } from "akasha/agents/seats/reviving/modules/revive-verify-signal/seat-revive-verify-signal.module.code.ts"
+import type { ReviveVerifySignal } from "akasha/agents/seats/reviving/modules/seat-revive-verify-signal/seat-revive-verify-signal.module.code.ts"
 
 export interface RecipientResolverAgentRow {
   readonly id: string

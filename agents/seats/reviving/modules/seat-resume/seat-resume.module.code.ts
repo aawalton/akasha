@@ -19,18 +19,18 @@ import {
   SEAT_MODES,
 } from "akasha/agents/seats/launching/modules/seat-modes/seat-modes.module.code.ts"
 import { parseWindowDuration } from "akasha/agents/seats/modules/window-duration/window-duration.module.code.ts"
-import { sweepSupersededAgentTrees } from "akasha/agents/seats/reviving/modules/recovery/seat-recovery.module.code.ts"
-import {
-  holdsLive,
-  refuseWhereSubagentsWork,
-} from "akasha/agents/seats/reviving/modules/resume-guard/seat-resume-guard.module.code.ts"
-import { HELP } from "akasha/agents/seats/reviving/modules/resume-help/seat-resume-help.module.code.ts"
 import { resumeSeat as relaunchStoppedSeat } from "akasha/agents/seats/reviving/modules/resume-seat/resume-seat.module.code.ts"
 import {
   liveResumeVerifySleep,
   resumeAndVerify,
 } from "akasha/agents/seats/reviving/modules/resume-verify/resume-verify.module.code.ts"
-import type { ReviveIoVerdict } from "akasha/agents/seats/reviving/modules/revive-io-verify-decide/seat-revive-io-verify-decide.module.code.ts"
+import { sweepSupersededAgentTrees } from "akasha/agents/seats/reviving/modules/seat-recovery/seat-recovery.module.code.ts"
+import {
+  holdsLive,
+  refuseWhereSubagentsWork,
+} from "akasha/agents/seats/reviving/modules/seat-resume-guard/seat-resume-guard.module.code.ts"
+import { HELP } from "akasha/agents/seats/reviving/modules/seat-resume-help/seat-resume-help.module.code.ts"
+import type { ReviveIoVerdict } from "akasha/agents/seats/reviving/modules/seat-revive-io-verify-decide/seat-revive-io-verify-decide.module.code.ts"
 import {
   type TakenSeat,
   takeoverSeat,

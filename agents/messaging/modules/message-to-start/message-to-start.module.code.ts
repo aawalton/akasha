@@ -9,7 +9,7 @@ import {
 import { handlerDerives } from "akasha/agents/seats/declaration/modules/seat-answering/seat-answering.module.code.ts"
 import { SEAT_MODE_HEADLESS } from "akasha/agents/seats/launching/modules/seat-modes/seat-modes.module.code.ts"
 import { startSeat as startTheSeat } from "akasha/agents/seats/launching/modules/seat-start/seat-start.module.code.ts"
-import { resumeSeat as putTheSeatBack } from "akasha/agents/seats/reviving/modules/resume/seat-resume.module.code.ts"
+import { resumeSeat as putTheSeatBack } from "akasha/agents/seats/reviving/modules/seat-resume/seat-resume.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

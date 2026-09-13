@@ -16,9 +16,9 @@ import {
   type SpawnGuardInput,
 } from "akasha/agents/seats/name-claiming/modules/spawn-guard/spawn-guard.module.code.ts"
 import type { SeatPresence } from "akasha/agents/seats/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
-import { terminatePriorAgentTree } from "akasha/agents/seats/reviving/modules/recovery/seat-recovery.module.code.ts"
-import { resolveRelaunchTarget } from "akasha/agents/seats/reviving/modules/relaunch-target/seat-relaunch-target.module.code.ts"
-import { decideReviveLaunch } from "akasha/agents/seats/reviving/modules/revive-launch-decide/seat-revive-launch-decide.module.code.ts"
+import { terminatePriorAgentTree } from "akasha/agents/seats/reviving/modules/seat-recovery/seat-recovery.module.code.ts"
+import { resolveRelaunchTarget } from "akasha/agents/seats/reviving/modules/seat-relaunch-target/seat-relaunch-target.module.code.ts"
+import { decideReviveLaunch } from "akasha/agents/seats/reviving/modules/seat-revive-launch-decide/seat-revive-launch-decide.module.code.ts"
 import { SEAT_START_DIR } from "akasha/agents/seats/supervisors/process/modules/supervisor-config/supervisor-config.module.code.ts"
 import { clearRequestedAction } from "akasha/agents/seats/supervisors/supervisor-actions/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
 import {
