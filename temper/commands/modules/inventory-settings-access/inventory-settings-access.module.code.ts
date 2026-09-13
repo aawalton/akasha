@@ -48,21 +48,40 @@ function extractSliceValue(settings: unknown, sliceKey: SliceKey): unknown {
   return settings[sliceKey]
 }
 
-function parseSettings(value: unknown, caller: string): Record<string, unknown> {
+export function parseSettings(value: unknown, caller: string): Record<string, unknown> {
   if (isPlainObject(value)) return value
-  if (typeof value !== "string" || value === "") return {}
+  if (value === undefined || value === null || value === "") return {}
+  if (typeof value !== "string") {
+    throw new Error(
+      `${caller}: \`${SETTINGS}\` came back as a ${typeof value} rather than the body of the ` +
+        `file beside the player page, so what is already set went unread and none of it is ` +
+        `written back`
+    )
+  }
   if (value === ENDING) {
     throw new Error(
       `${caller}: \`${SETTINGS}\` came back as the ending \`${ENDING}\` rather than the body of ` +
         `the file beside the player page, so what is already set went unread`
     )
   }
+  let held: unknown
   try {
-    const held: unknown = JSON.parse(value)
-    return isPlainObject(held) ? held : {}
-  } catch {
-    return {}
+    held = JSON.parse(value)
+  } catch (thrown) {
+    const why = thrown instanceof Error ? thrown.message : String(thrown)
+    throw new Error(
+      `${caller}: the settings beside the ${PLAYER_PAGE_TYPE_SLUG} page hold ` +
+        `${value.length} byte(s) that are not valid JSON, so a write now would go over every ` +
+        `other setting, and what is already set stays: ${why}`
+    )
   }
+  if (!isPlainObject(held)) {
+    throw new Error(
+      `${caller}: the settings beside the ${PLAYER_PAGE_TYPE_SLUG} page hold no JSON object, so ` +
+        `a write now would go over every other setting, and what is already set stays`
+    )
+  }
+  return held
 }
 
 async function readPlayerPage(accountUserId: string, caller: string): Promise<PlayerPage> {

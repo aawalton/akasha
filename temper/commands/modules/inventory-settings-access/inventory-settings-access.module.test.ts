@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { besidePages } from "akasha/temper/commands/modules/inventory-settings-access/inventory-settings-access.module.code.ts"
+import {
+  besidePages,
+  parseSettings,
+} from "akasha/temper/commands/modules/inventory-settings-access/inventory-settings-access.module.code.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const ITEM_RULE = {
@@ -65,4 +68,52 @@ test("a key the write carries again is written over the one the blob keeps", () 
   const out = besidePages(kept, next)
   expect(out.version).toBe(2)
   expect(out.itemRules).toEqual([ITEM_RULE])
+})
+
+const WHOLE_BLOB = {
+  safety: { confirmActions: ["sell", "destroy", "buy"], openCooldownProtection: true },
+  logging: { perfTracing: "minimal", actionReports: "verbose" },
+  inventory: { version: 2, itemRules: [ITEM_RULE], buyRules: [BUY_RULE] },
+  automation: { characters: {}, companions: {} },
+}
+
+test("a blob that is not there reads as an empty blob", () => {
+  expect(parseSettings(undefined, "x")).toEqual({})
+  expect(parseSettings(null, "x")).toEqual({})
+  expect(parseSettings("", "x")).toEqual({})
+})
+
+test("every setting the blob holds survives the read, so a write carries the rest", () => {
+  const held = parseSettings(JSON.stringify(WHOLE_BLOB), "x")
+  expect(held).toEqual(WHOLE_BLOB)
+  const out = besidePages(held.inventory as Record<string, unknown>, {
+    version: 2,
+    rules: [CATEGORY_RULE],
+  })
+  expect(out.itemRules).toEqual([ITEM_RULE])
+  expect(out.buyRules).toEqual([BUY_RULE])
+})
+
+test("a blob whose bytes are no JSON is refused rather than read as unset", () => {
+  expect(() => parseSettings("{oops", "x")).toThrow("5 byte(s) that are not valid JSON")
+  expect(() => parseSettings("{oops", "x")).toThrow("what is already set stays")
+})
+
+test("a blob that parses to something other than an object is refused", () => {
+  for (const refused of ["[]", "null", "42", '"text"', "true"]) {
+    expect(() => parseSettings(refused, "x")).toThrow("hold no JSON object")
+  }
+})
+
+test("a blob answering as its file's ending is refused", () => {
+  expect(() => parseSettings("json", "x")).toThrow("rather than the body")
+})
+
+test("a blob answering as anything but text is refused", () => {
+  expect(() => parseSettings(42, "x")).toThrow("came back as a number")
+  expect(() => parseSettings(["a"], "x")).toThrow("came back as a object")
+})
+
+test("a blob already read as an object is carried through", () => {
+  expect(parseSettings(WHOLE_BLOB, "x")).toEqual(WHOLE_BLOB)
 })

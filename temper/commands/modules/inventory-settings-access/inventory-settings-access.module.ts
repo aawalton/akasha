@@ -54,6 +54,10 @@ export const inventorySettingsAccess = {
     },
     {
       invariantKind: "departure",
+      statement: "A blob that is no JSON object is refused rather than read as unset.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A write lands the blob beside the page rather than under a key on the page.",
     },
     {
