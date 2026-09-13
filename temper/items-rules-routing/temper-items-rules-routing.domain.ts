@@ -11,7 +11,7 @@ export const temperItemsRulesRouting = {
     "module/inventory-management-plan-capacity",
     "module/inventory-management-plan-capacity-filter",
     "module/inventory-management-plan-chain",
-    "module/inventory-management-plan-chain-property-fixtures",
+
     "module/inventory-management-plan-collect",
     "module/inventory-management-plan-grouping",
 
@@ -19,6 +19,7 @@ export const temperItemsRulesRouting = {
     "module/inventory-management-plan-test-utils",
     "module/inventory-management-plan-use-destinations",
     "module/inventory-plan-checklist",
+    "test-fixture/inventory-management-plan-chain-property-fixtures",
     "test-fixture/inventory-management-plan-property-fixtures",
   ],
   invariants: [
