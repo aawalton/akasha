@@ -44,8 +44,12 @@ export const alanTracking = {
       statement: "No reading is owed for a path landed here.",
     },
     {
-      invariantKind: "gap",
-      statement: "Every check that judges a write judges the change landed here.",
+      invariantKind: "departure",
+      statement: "The kind landed here is mechanical.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No check judges the change landed here.",
     },
     {
       invariantKind: "departure",
