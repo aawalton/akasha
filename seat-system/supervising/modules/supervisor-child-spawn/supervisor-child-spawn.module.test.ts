@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import type { ProcLivenessEntry } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.code.ts"
-import type { spawnClaudeChild } from "akasha/seat-system/supervising/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
+import type { spawnClaudeChild } from "akasha/agents/seats/supervisors/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
 import type { ChildExitRuleSource } from "akasha/seat-system/supervising/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import {
   type ChildSpawnSeams,

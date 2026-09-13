@@ -1,8 +1,8 @@
-import { buildIdleGateArm } from "akasha/seat-system/supervising/modules/supervisor-agent-action-arm/supervisor-agent-action-arm.module.code.ts"
+import { buildIdleGateArm } from "akasha/agents/seats/supervisors/modules/supervisor-agent-action-arm/supervisor-agent-action-arm.module.code.ts"
 import {
   clearBeforeSigterm,
   clearRequestedAction,
-} from "akasha/seat-system/supervising/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
 import type {
   AgentActionEvent,
   AgentActionSubsystem,

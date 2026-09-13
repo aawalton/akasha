@@ -10,8 +10,8 @@ import {
   resolveToolTimeout,
   resolveWorkerModel,
 } from "akasha/agents/seats/supervisors/modules/supervisor-account-config/supervisor-account-config.module.code.ts"
+import type { spawnClaudeChild } from "akasha/agents/seats/supervisors/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
 import { isPendingReExec } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import type { spawnClaudeChild } from "akasha/seat-system/supervising/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
 import { processCleanup } from "akasha/seat-system/supervising/modules/supervisor-agent-cleanup/supervisor-agent-cleanup.module.code.ts"
 import type { SeatResume } from "akasha/seat-system/supervising/modules/supervisor-args/supervisor-args.module.code.ts"
 import { materializeBootPrompt } from "akasha/seat-system/supervising/modules/supervisor-boot-prompt/supervisor-boot-prompt.module.code.ts"
