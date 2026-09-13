@@ -5,6 +5,7 @@ export const testFixture = {
   type: "domain",
   slug: "test-fixture",
   definition: "the world a test is given to sit in",
+  parts: ["page-type/test-fixtures"],
   invariants: [
     {
       invariantKind: "departure",
