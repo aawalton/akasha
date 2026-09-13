@@ -12,9 +12,13 @@ export const chrysalis0221Chapter1573TheCascade = {
   unit: "words",
   completedAt: "2026-06-29T19:50:53.171Z",
   publishedAt: "2025-05-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2313124/chapter-1573-the-cascade",
-  externalId: "2313124",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2313124",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2313124/chapter-1573-the-cascade",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

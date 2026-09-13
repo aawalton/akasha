@@ -12,9 +12,13 @@ export const chrysalis0177Chapter1529TheLegionTakesTheStage = {
   unit: "words",
   completedAt: "2026-06-29T19:49:30.167Z",
   publishedAt: "2025-03-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2124989/chapter-1529-the-legion-takes-the-stage",
-  externalId: "2124989",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2124989",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2124989/chapter-1529-the-legion-takes-the-stage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

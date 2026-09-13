@@ -12,9 +12,13 @@ export const chrysalis0299Chapter1650MeetingOfMinds = {
   unit: "words",
   completedAt: "2026-06-29T19:53:22.762Z",
   publishedAt: "2025-09-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2618794/chapter-1650-meeting-of-minds",
-  externalId: "2618794",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2618794",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2618794/chapter-1650-meeting-of-minds",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

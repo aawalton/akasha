@@ -12,9 +12,13 @@ export const chrysalis0359Chapter1707AHarderKindOfSale = {
   unit: "words",
   completedAt: "2026-06-29T19:55:17.675Z",
   publishedAt: "2025-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2857389/chapter-1707-a-harder-kind-of-sale",
-  externalId: "2857389",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2857389",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2857389/chapter-1707-a-harder-kind-of-sale",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

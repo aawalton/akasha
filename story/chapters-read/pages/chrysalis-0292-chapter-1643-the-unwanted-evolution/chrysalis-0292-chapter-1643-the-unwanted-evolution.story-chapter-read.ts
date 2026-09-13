@@ -12,9 +12,13 @@ export const chrysalis0292Chapter1643TheUnwantedEvolution = {
   unit: "words",
   completedAt: "2026-06-29T19:53:09.329Z",
   publishedAt: "2025-09-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2591410/chapter-1643-the-unwanted-evolution",
-  externalId: "2591410",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2591410",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2591410/chapter-1643-the-unwanted-evolution",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

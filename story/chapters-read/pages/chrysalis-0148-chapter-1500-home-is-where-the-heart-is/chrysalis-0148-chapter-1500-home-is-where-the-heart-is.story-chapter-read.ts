@@ -12,9 +12,13 @@ export const chrysalis0148Chapter1500HomeIsWhereTheHeartIs = {
   unit: "words",
   completedAt: "2026-06-29T19:48:35.112Z",
   publishedAt: "2025-02-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2048429/chapter-1500-home-is-where-the-heart-is",
-  externalId: "2048429",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2048429",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2048429/chapter-1500-home-is-where-the-heart-is",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

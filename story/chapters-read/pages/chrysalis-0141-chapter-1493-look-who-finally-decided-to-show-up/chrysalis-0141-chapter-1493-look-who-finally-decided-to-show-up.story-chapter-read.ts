@@ -12,9 +12,13 @@ export const chrysalis0141Chapter1493LookWhoFinallyDecidedToShowUp = {
   unit: "words",
   completedAt: "2026-06-29T19:48:21.585Z",
   publishedAt: "2025-01-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2024852/chapter-1493-look-who-finally-decided-to-show",
-  externalId: "2024852",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2024852",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2024852/chapter-1493-look-who-finally-decided-to-show",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

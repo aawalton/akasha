@@ -12,9 +12,13 @@ export const chrysalis0350Chapter1698Greed = {
   unit: "words",
   completedAt: "2026-06-29T19:55:00.570Z",
   publishedAt: "2025-12-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2816795/chapter-1698-greed",
-  externalId: "2816795",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2816795",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2816795/chapter-1698-greed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

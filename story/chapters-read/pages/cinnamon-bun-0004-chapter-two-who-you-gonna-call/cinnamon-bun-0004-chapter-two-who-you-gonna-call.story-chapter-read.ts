@@ -10,9 +10,13 @@ export const cinnamonBun0004ChapterTwoWhoYouGonnaCall = {
   ownLength: 1984,
   unit: "words",
   publishedAt: "2020-04-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/478742/chapter-two-who-you-gonna-call",
-  externalId: "478742",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "478742",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/478742/chapter-two-who-you-gonna-call",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0164Chapter1516WithinTheFortress = {
   unit: "words",
   completedAt: "2026-06-29T19:49:05.459Z",
   publishedAt: "2025-02-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2088004/chapter-1516-within-the-fortress",
-  externalId: "2088004",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2088004",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2088004/chapter-1516-within-the-fortress",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

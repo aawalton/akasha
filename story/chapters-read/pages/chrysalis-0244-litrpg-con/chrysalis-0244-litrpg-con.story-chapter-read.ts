@@ -12,8 +12,12 @@ export const chrysalis0244LitrpgCon = {
   unit: "words",
   completedAt: "2026-06-29T19:51:37.273Z",
   publishedAt: "2025-06-30",
-  externalLink: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2396878/litrpg-con",
-  externalId: "2396878",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2396878",
+      externalLink: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2396878/litrpg-con",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0229Chapter1581TheColonyStrikesBack = {
   unit: "words",
   completedAt: "2026-06-29T19:51:08.420Z",
   publishedAt: "2025-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2344084/chapter-1581-the-colony-strikes-back",
-  externalId: "2344084",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2344084",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2344084/chapter-1581-the-colony-strikes-back",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

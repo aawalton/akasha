@@ -10,9 +10,13 @@ export const chrysalis0415Chapter1763Downtown = {
   ownLength: 1021,
   unit: "words",
   publishedAt: "2026-04-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3220633/chapter-1763-downtown",
-  externalId: "3220633",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3220633",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3220633/chapter-1763-downtown",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

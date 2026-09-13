@@ -12,9 +12,13 @@ export const chrysalis0198Chapter1550OldMasters = {
   unit: "words",
   completedAt: "2026-06-29T19:50:09.325Z",
   publishedAt: "2025-04-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2199900/chapter-1550-old-masters",
-  externalId: "2199900",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2199900",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2199900/chapter-1550-old-masters",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

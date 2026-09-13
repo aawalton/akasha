@@ -12,9 +12,13 @@ export const chrysalis0330Chapter1679Monetisation = {
   unit: "words",
   completedAt: "2026-06-29T19:54:22.131Z",
   publishedAt: "2025-11-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2727095/chapter-1679-monetisation",
-  externalId: "2727095",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2727095",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2727095/chapter-1679-monetisation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

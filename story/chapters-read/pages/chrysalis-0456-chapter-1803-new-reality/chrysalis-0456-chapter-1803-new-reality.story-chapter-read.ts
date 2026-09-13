@@ -10,9 +10,13 @@ export const chrysalis0456Chapter1803NewReality = {
   ownLength: 1105,
   unit: "words",
   publishedAt: "2026-05-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3473210/chapter-1803-new-reality",
-  externalId: "3473210",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3473210",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3473210/chapter-1803-new-reality",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

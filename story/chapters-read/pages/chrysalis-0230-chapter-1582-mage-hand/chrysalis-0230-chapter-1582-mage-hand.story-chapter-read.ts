@@ -12,9 +12,13 @@ export const chrysalis0230Chapter1582MageHand = {
   unit: "words",
   completedAt: "2026-06-29T19:51:10.395Z",
   publishedAt: "2025-06-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2346910/chapter-1582-mage-hand",
-  externalId: "2346910",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2346910",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2346910/chapter-1582-mage-hand",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

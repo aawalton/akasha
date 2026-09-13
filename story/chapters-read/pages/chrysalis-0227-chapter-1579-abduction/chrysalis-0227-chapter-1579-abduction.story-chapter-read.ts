@@ -12,9 +12,13 @@ export const chrysalis0227Chapter1579Abduction = {
   unit: "words",
   completedAt: "2026-06-29T19:51:04.592Z",
   publishedAt: "2025-06-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2333911/chapter-1579-abduction",
-  externalId: "2333911",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2333911",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2333911/chapter-1579-abduction",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

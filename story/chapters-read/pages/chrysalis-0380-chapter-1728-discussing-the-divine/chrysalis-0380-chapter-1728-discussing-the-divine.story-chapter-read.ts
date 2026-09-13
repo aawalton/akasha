@@ -12,9 +12,13 @@ export const chrysalis0380Chapter1728DiscussingTheDivine = {
   unit: "words",
   completedAt: "2026-06-29T19:55:57.662Z",
   publishedAt: "2026-02-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3013800/chapter-1728-discussing-the-divine",
-  externalId: "3013800",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3013800",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3013800/chapter-1728-discussing-the-divine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

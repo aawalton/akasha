@@ -12,9 +12,13 @@ export const chrysalis0344Chapter1692WhatSolantWantsWhatSolantGets = {
   unit: "words",
   completedAt: "2026-06-29T19:54:49.037Z",
   publishedAt: "2025-11-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2793378/chapter-1692-what-solant-wants-what-solant-gets",
-  externalId: "2793378",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2793378",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2793378/chapter-1692-what-solant-wants-what-solant-gets",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

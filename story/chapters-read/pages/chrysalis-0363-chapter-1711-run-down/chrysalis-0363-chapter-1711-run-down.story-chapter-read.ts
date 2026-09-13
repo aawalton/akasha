@@ -12,9 +12,13 @@ export const chrysalis0363Chapter1711RunDown = {
   unit: "words",
   completedAt: "2026-06-29T19:55:25.412Z",
   publishedAt: "2026-01-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2937504/chapter-1711-run-down",
-  externalId: "2937504",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2937504",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2937504/chapter-1711-run-down",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

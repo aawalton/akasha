@@ -10,9 +10,13 @@ export const cinnamonBun0014ChapterTwelveTeaTime = {
   ownLength: 2026,
   unit: "words",
   publishedAt: "2020-04-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/488305/chapter-twelve-tea-time",
-  externalId: "488305",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "488305",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/488305/chapter-twelve-tea-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

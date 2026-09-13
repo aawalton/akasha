@@ -12,9 +12,13 @@ export const chrysalis0185Chapter1537TheMoustacheSong = {
   unit: "words",
   completedAt: "2026-06-29T19:49:45.116Z",
   publishedAt: "2025-03-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2151178/chapter-1537-the-moustache-song",
-  externalId: "2151178",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2151178",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2151178/chapter-1537-the-moustache-song",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

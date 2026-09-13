@@ -12,9 +12,13 @@ export const chrysalis0267Chapter1618PierceTheHeart = {
   unit: "words",
   completedAt: "2026-06-29T19:52:21.582Z",
   publishedAt: "2025-08-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2498298/chapter-1618-pierce-the-heart",
-  externalId: "2498298",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2498298",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2498298/chapter-1618-pierce-the-heart",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

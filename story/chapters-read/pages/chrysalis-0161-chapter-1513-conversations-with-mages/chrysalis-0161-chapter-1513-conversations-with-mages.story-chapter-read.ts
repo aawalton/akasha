@@ -12,9 +12,13 @@ export const chrysalis0161Chapter1513ConversationsWithMages = {
   unit: "words",
   completedAt: "2026-06-29T19:48:59.744Z",
   publishedAt: "2025-02-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2077687/chapter-1513-conversations-with-mages",
-  externalId: "2077687",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2077687",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2077687/chapter-1513-conversations-with-mages",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chrysalis0452ChrysalisMerchAndGiveaway = {
   ownLength: 58,
   unit: "words",
   publishedAt: "2026-05-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3439366/chrysalis-merch-and-giveaway",
-  externalId: "3439366",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3439366",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3439366/chrysalis-merch-and-giveaway",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

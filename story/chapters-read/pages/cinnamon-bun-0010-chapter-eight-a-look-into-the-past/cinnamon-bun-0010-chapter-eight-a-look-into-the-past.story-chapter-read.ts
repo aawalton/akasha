@@ -10,9 +10,13 @@ export const cinnamonBun0010ChapterEightALookIntoThePast = {
   ownLength: 2044,
   unit: "words",
   publishedAt: "2020-04-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/483656/chapter-eight-a-look-into-the-past",
-  externalId: "483656",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "483656",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/483656/chapter-eight-a-look-into-the-past",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

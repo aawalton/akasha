@@ -12,9 +12,13 @@ export const chrysalis0365Chapter1713ReNegotiate = {
   unit: "words",
   completedAt: "2026-06-29T19:55:29.243Z",
   publishedAt: "2026-01-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2944104/chapter-1713-re-negotiate",
-  externalId: "2944104",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2944104",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2944104/chapter-1713-re-negotiate",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

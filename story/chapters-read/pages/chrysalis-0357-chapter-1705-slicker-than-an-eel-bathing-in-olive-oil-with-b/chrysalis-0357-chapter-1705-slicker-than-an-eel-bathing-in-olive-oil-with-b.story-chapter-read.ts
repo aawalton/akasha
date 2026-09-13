@@ -13,9 +13,13 @@ export const chrysalis0357Chapter1705SlickerThanAnEelBathingInOliveOilWithB = {
   unit: "words",
   completedAt: "2026-06-29T19:55:13.951Z",
   publishedAt: "2025-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2857381/chapter-1705-slicker-than-an-eel-bathing-in-olive",
-  externalId: "2857381",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2857381",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2857381/chapter-1705-slicker-than-an-eel-bathing-in-olive",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

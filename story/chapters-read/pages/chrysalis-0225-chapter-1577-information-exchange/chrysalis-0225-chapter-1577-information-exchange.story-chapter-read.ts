@@ -12,9 +12,13 @@ export const chrysalis0225Chapter1577InformationExchange = {
   unit: "words",
   completedAt: "2026-06-29T19:51:00.721Z",
   publishedAt: "2025-06-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2328708/chapter-1577-information-exchange",
-  externalId: "2328708",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2328708",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2328708/chapter-1577-information-exchange",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

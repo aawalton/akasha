@@ -12,9 +12,13 @@ export const chrysalis0278Chapter1629Downfall = {
   unit: "words",
   completedAt: "2026-06-29T19:52:42.425Z",
   publishedAt: "2025-08-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2537452/chapter-1629-downfall",
-  externalId: "2537452",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2537452",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2537452/chapter-1629-downfall",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

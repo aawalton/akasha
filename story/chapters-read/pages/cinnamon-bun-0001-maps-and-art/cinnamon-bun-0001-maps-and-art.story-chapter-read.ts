@@ -10,8 +10,13 @@ export const cinnamonBun0001MapsAndArt = {
   ownLength: 88,
   unit: "words",
   publishedAt: "2020-07-28",
-  externalLink: "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/530830/maps-and-art",
-  externalId: "530830",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "530830",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/530830/maps-and-art",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

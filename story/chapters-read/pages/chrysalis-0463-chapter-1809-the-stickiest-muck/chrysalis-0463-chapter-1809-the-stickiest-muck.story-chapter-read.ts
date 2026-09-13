@@ -10,9 +10,13 @@ export const chrysalis0463Chapter1809TheStickiestMuck = {
   ownLength: 1004,
   unit: "words",
   publishedAt: "2026-06-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3494483/chapter-1809-the-stickiest-muck",
-  externalId: "3494483",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3494483",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3494483/chapter-1809-the-stickiest-muck",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

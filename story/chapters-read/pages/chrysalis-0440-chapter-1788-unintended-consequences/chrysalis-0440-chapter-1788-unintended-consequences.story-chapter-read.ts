@@ -10,9 +10,13 @@ export const chrysalis0440Chapter1788UnintendedConsequences = {
   ownLength: 985,
   unit: "words",
   publishedAt: "2026-05-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3364760/chapter-1788-unintended-consequences",
-  externalId: "3364760",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3364760",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3364760/chapter-1788-unintended-consequences",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

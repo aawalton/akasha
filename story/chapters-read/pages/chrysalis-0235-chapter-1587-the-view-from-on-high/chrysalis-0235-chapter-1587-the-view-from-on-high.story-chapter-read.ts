@@ -12,9 +12,13 @@ export const chrysalis0235Chapter1587TheViewFromOnHigh = {
   unit: "words",
   completedAt: "2026-06-29T19:51:19.942Z",
   publishedAt: "2025-06-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2365047/chapter-1587-the-view-from-on-high",
-  externalId: "2365047",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2365047",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2365047/chapter-1587-the-view-from-on-high",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

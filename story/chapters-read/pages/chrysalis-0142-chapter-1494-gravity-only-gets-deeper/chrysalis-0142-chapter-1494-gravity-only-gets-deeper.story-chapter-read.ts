@@ -12,9 +12,13 @@ export const chrysalis0142Chapter1494GravityOnlyGetsDeeper = {
   unit: "words",
   completedAt: "2026-06-29T19:48:23.520Z",
   publishedAt: "2025-01-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2026694/chapter-1494-gravity-only-gets-deeper",
-  externalId: "2026694",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2026694",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2026694/chapter-1494-gravity-only-gets-deeper",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

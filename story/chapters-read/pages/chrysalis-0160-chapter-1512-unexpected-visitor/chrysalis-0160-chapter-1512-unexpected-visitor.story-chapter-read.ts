@@ -12,9 +12,13 @@ export const chrysalis0160Chapter1512UnexpectedVisitor = {
   unit: "words",
   completedAt: "2026-06-29T19:48:57.822Z",
   publishedAt: "2025-02-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2075372/chapter-1512-unexpected-visitor",
-  externalId: "2075372",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2075372",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2075372/chapter-1512-unexpected-visitor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

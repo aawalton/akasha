@@ -10,9 +10,13 @@ export const chrysalis0426Chapter1774WhatPrice = {
   ownLength: 1017,
   unit: "words",
   publishedAt: "2026-04-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3283555/chapter-1774-what-price",
-  externalId: "3283555",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3283555",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3283555/chapter-1774-what-price",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

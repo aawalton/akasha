@@ -12,9 +12,13 @@ export const chrysalis0231Chapter1583Deployment = {
   unit: "words",
   completedAt: "2026-06-29T19:51:12.320Z",
   publishedAt: "2025-06-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2349734/chapter-1583-deployment",
-  externalId: "2349734",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2349734",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2349734/chapter-1583-deployment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

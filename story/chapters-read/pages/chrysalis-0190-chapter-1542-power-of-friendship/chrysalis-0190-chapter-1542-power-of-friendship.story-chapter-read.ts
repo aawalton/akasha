@@ -12,9 +12,13 @@ export const chrysalis0190Chapter1542PowerOfFriendship = {
   unit: "words",
   completedAt: "2026-06-29T19:49:54.189Z",
   publishedAt: "2025-04-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2167300/chapter-1542-power-of-friendship",
-  externalId: "2167300",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2167300",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2167300/chapter-1542-power-of-friendship",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

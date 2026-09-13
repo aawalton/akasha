@@ -12,9 +12,13 @@ export const chrysalis0194Chapter1546EyesOfTheEnder = {
   unit: "words",
   completedAt: "2026-06-29T19:50:01.758Z",
   publishedAt: "2025-04-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2183548/chapter-1546-eyes-of-the-ender",
-  externalId: "2183548",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2183548",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2183548/chapter-1546-eyes-of-the-ender",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0291Chapter1642OnTheClockEvolution = {
   unit: "words",
   completedAt: "2026-06-29T19:53:07.413Z",
   publishedAt: "2025-09-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2588740/chapter-1642-on-the-clock-evolution",
-  externalId: "2588740",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2588740",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2588740/chapter-1642-on-the-clock-evolution",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

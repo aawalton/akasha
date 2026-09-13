@@ -12,9 +12,13 @@ export const chrysalis0360Chapter1708Reevaluate = {
   unit: "words",
   completedAt: "2026-06-29T19:55:19.600Z",
   publishedAt: "2025-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2857402/chapter-1708-reevaluate",
-  externalId: "2857402",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2857402",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2857402/chapter-1708-reevaluate",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

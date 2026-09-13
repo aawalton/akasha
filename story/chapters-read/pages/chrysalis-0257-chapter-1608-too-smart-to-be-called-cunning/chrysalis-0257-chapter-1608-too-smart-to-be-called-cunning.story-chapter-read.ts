@@ -12,9 +12,13 @@ export const chrysalis0257Chapter1608TooSmartToBeCalledCunning = {
   unit: "words",
   completedAt: "2026-06-29T19:52:02.378Z",
   publishedAt: "2025-07-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2441635/chapter-1608-too-smart-to-be-called-cunning",
-  externalId: "2441635",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2441635",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2441635/chapter-1608-too-smart-to-be-called-cunning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

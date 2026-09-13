@@ -10,9 +10,13 @@ export const chrysalis0425Chapter1773TheGoods = {
   ownLength: 1417,
   unit: "words",
   publishedAt: "2026-04-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3279404/chapter-1773-the-goods",
-  externalId: "3279404",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3279404",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3279404/chapter-1773-the-goods",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

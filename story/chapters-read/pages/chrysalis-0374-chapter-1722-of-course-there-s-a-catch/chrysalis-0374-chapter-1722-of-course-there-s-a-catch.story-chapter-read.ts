@@ -12,9 +12,13 @@ export const chrysalis0374Chapter1722OfCourseThereSACatch = {
   unit: "words",
   completedAt: "2026-06-29T19:55:46.219Z",
   publishedAt: "2026-01-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2986273/chapter-1722-of-course-theres-a-catch",
-  externalId: "2986273",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2986273",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2986273/chapter-1722-of-course-theres-a-catch",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

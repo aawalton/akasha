@@ -12,9 +12,13 @@ export const chrysalis0220Chapter1572WelcomeHome = {
   unit: "words",
   completedAt: "2026-06-29T19:50:51.187Z",
   publishedAt: "2025-05-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2310680/chapter-1572-welcome-home",
-  externalId: "2310680",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2310680",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2310680/chapter-1572-welcome-home",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

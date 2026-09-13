@@ -12,9 +12,13 @@ export const chrysalis0261Chapter1612WinningTime = {
   unit: "words",
   completedAt: "2026-06-29T19:52:09.997Z",
   publishedAt: "2025-07-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2477336/chapter-1612-winning-time",
-  externalId: "2477336",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2477336",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2477336/chapter-1612-winning-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

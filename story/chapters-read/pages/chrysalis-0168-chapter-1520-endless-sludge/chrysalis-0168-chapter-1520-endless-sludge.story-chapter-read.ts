@@ -12,9 +12,13 @@ export const chrysalis0168Chapter1520EndlessSludge = {
   unit: "words",
   completedAt: "2026-06-29T19:49:13.147Z",
   publishedAt: "2025-03-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2099783/chapter-1520-endless-sludge",
-  externalId: "2099783",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2099783",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2099783/chapter-1520-endless-sludge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

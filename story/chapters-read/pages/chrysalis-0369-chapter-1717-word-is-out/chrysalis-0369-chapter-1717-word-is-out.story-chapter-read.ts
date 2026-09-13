@@ -12,9 +12,13 @@ export const chrysalis0369Chapter1717WordIsOut = {
   unit: "words",
   completedAt: "2026-06-29T19:55:36.884Z",
   publishedAt: "2026-01-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2962906/chapter-1717-word-is-out",
-  externalId: "2962906",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2962906",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2962906/chapter-1717-word-is-out",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

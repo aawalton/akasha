@@ -12,9 +12,13 @@ export const chrysalis0232Chapter1584NewOldFriends = {
   unit: "words",
   completedAt: "2026-06-29T19:51:14.231Z",
   publishedAt: "2025-06-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2352218/chapter-1584-new-old-friends",
-  externalId: "2352218",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2352218",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2352218/chapter-1584-new-old-friends",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

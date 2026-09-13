@@ -10,9 +10,13 @@ export const chrysalis0490Chapter1835PlanningAhead = {
   ownLength: 941,
   unit: "words",
   publishedAt: "2026-08-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3762035/chapter-1835-planning-ahead",
-  externalId: "3762035",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3762035",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3762035/chapter-1835-planning-ahead",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

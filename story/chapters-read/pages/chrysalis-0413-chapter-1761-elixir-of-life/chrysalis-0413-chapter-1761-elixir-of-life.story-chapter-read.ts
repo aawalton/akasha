@@ -10,9 +10,13 @@ export const chrysalis0413Chapter1761ElixirOfLife = {
   ownLength: 901,
   unit: "words",
   publishedAt: "2026-03-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3212560/chapter-1761-elixir-of-life",
-  externalId: "3212560",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3212560",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3212560/chapter-1761-elixir-of-life",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

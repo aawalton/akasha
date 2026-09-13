@@ -10,9 +10,13 @@ export const chrysalis0428Chapter1776AWeb = {
   ownLength: 958,
   unit: "words",
   publishedAt: "2026-04-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3299039/chapter-1776-a-web",
-  externalId: "3299039",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3299039",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3299039/chapter-1776-a-web",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

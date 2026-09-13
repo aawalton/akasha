@@ -12,9 +12,13 @@ export const chrysalis0347Chapter1695Delving = {
   unit: "words",
   completedAt: "2026-06-29T19:54:54.944Z",
   publishedAt: "2025-12-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2807484/chapter-1695-delving",
-  externalId: "2807484",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2807484",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2807484/chapter-1695-delving",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

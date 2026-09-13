@@ -10,9 +10,13 @@ export const chrysalis0418Chapter1766DefendersReborn = {
   ownLength: 970,
   unit: "words",
   publishedAt: "2026-04-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3241639/chapter-1766-defenders-reborn",
-  externalId: "3241639",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3241639",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3241639/chapter-1766-defenders-reborn",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

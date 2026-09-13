@@ -10,9 +10,13 @@ export const chrysalis0404Chapter1752ExpandedNursery = {
   ownLength: 1301,
   unit: "words",
   publishedAt: "2026-03-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3145669/chapter-1752-expanded-nursery",
-  externalId: "3145669",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3145669",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3145669/chapter-1752-expanded-nursery",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

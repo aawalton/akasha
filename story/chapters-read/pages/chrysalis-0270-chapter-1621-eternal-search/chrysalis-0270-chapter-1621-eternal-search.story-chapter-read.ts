@@ -12,9 +12,13 @@ export const chrysalis0270Chapter1621EternalSearch = {
   unit: "words",
   completedAt: "2026-06-29T19:52:27.250Z",
   publishedAt: "2025-08-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2511140/chapter-1621-eternal-search",
-  externalId: "2511140",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2511140",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2511140/chapter-1621-eternal-search",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

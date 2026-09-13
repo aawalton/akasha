@@ -12,9 +12,13 @@ export const chrysalis0302Chapter1653SpeedIAmSpeed = {
   unit: "words",
   completedAt: "2026-06-29T19:53:28.468Z",
   publishedAt: "2025-09-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2626928/chapter-1653-speed-i-am-speed",
-  externalId: "2626928",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2626928",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2626928/chapter-1653-speed-i-am-speed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

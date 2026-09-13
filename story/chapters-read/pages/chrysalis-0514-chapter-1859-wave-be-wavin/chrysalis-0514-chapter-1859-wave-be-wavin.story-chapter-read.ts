@@ -8,11 +8,15 @@ export const chrysalis0514Chapter1859WaveBeWavin = {
   position: 514,
   publishedAt: "2026-09-04",
   unit: "words",
-  externalId: "3907373",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3907373",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3907373/chapter-1859-wave-be-wavin",
+    },
+  ],
   title: "Chapter 1859 - Wave be Wavin’",
   ownLength: 1120,
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3907373/chapter-1859-wave-be-wavin",
   prose: "txt",
 } as const satisfies StoryChapterRead

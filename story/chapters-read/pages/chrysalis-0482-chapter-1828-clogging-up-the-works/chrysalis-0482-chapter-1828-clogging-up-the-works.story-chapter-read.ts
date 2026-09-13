@@ -10,9 +10,13 @@ export const chrysalis0482Chapter1828CloggingUpTheWorks = {
   ownLength: 1053,
   unit: "words",
   publishedAt: "2026-07-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3619832/chapter-1828-clogging-up-the-works",
-  externalId: "3619832",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3619832",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3619832/chapter-1828-clogging-up-the-works",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

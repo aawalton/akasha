@@ -12,9 +12,13 @@ export const chrysalis0245Chapter1596TheCollapsingStar = {
   unit: "words",
   completedAt: "2026-06-29T19:51:39.154Z",
   publishedAt: "2025-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2399040/chapter-1596-the-collapsing-star",
-  externalId: "2399040",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2399040",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2399040/chapter-1596-the-collapsing-star",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

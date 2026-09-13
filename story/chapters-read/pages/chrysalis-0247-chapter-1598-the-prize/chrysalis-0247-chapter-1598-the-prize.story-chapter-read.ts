@@ -12,9 +12,13 @@ export const chrysalis0247Chapter1598ThePrize = {
   unit: "words",
   completedAt: "2026-06-29T19:51:43.018Z",
   publishedAt: "2025-07-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2404699/chapter-1598-the-prize",
-  externalId: "2404699",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2404699",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2404699/chapter-1598-the-prize",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

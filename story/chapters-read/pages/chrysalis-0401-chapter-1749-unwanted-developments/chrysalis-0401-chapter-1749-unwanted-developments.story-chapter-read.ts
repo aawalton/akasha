@@ -10,9 +10,13 @@ export const chrysalis0401Chapter1749UnwantedDevelopments = {
   ownLength: 950,
   unit: "words",
   publishedAt: "2026-03-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3120863/chapter-1749-unwanted-developments",
-  externalId: "3120863",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3120863",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3120863/chapter-1749-unwanted-developments",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

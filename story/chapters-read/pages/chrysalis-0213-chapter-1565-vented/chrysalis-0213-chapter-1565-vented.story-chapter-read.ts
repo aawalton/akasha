@@ -12,9 +12,13 @@ export const chrysalis0213Chapter1565Vented = {
   unit: "words",
   completedAt: "2026-06-29T19:50:37.952Z",
   publishedAt: "2025-05-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2290192/chapter-1565-vented",
-  externalId: "2290192",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2290192",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2290192/chapter-1565-vented",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

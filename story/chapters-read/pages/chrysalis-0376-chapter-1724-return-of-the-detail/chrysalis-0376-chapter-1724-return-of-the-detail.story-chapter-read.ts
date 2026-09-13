@@ -12,9 +12,13 @@ export const chrysalis0376Chapter1724ReturnOfTheDetail = {
   unit: "words",
   completedAt: "2026-06-29T19:55:50.040Z",
   publishedAt: "2026-01-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2993011/chapter-1724-return-of-the-detail",
-  externalId: "2993011",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2993011",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2993011/chapter-1724-return-of-the-detail",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

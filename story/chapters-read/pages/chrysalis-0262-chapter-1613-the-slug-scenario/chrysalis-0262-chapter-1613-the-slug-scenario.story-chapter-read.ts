@@ -12,9 +12,13 @@ export const chrysalis0262Chapter1613TheSlugScenario = {
   unit: "words",
   completedAt: "2026-06-29T19:52:11.916Z",
   publishedAt: "2025-07-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2480127/chapter-1613-the-slug-scenario",
-  externalId: "2480127",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2480127",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2480127/chapter-1613-the-slug-scenario",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

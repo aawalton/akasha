@@ -10,8 +10,12 @@ export const chrysalis0484Whoops = {
   ownLength: 65,
   unit: "words",
   publishedAt: "2026-07-16",
-  externalLink: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3683004/whoops",
-  externalId: "3683004",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3683004",
+      externalLink: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3683004/whoops",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

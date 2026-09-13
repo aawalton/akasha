@@ -12,9 +12,13 @@ export const chrysalis0146Chapter1498TheOuterShell = {
   unit: "words",
   completedAt: "2026-06-29T19:48:31.405Z",
   publishedAt: "2025-01-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2037175/chapter-1498-the-outer-shell",
-  externalId: "2037175",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2037175",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2037175/chapter-1498-the-outer-shell",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

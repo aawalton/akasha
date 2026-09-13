@@ -10,9 +10,13 @@ export const chrysalis0441Chapter1789ADisturbanceInTheSludge = {
   ownLength: 1327,
   unit: "words",
   publishedAt: "2026-05-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3368933/chapter-1789-a-disturbance-in-the-sludge",
-  externalId: "3368933",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3368933",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3368933/chapter-1789-a-disturbance-in-the-sludge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

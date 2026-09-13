@@ -12,9 +12,13 @@ export const chrysalis0193Chapter1545VisionsOfSickness = {
   unit: "words",
   completedAt: "2026-06-29T19:49:59.840Z",
   publishedAt: "2025-04-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2180503/chapter-1545-visions-of-sickness",
-  externalId: "2180503",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2180503",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2180503/chapter-1545-visions-of-sickness",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

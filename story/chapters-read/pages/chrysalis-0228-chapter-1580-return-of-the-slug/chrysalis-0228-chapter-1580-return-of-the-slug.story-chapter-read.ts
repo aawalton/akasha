@@ -12,9 +12,13 @@ export const chrysalis0228Chapter1580ReturnOfTheSlug = {
   unit: "words",
   completedAt: "2026-06-29T19:51:06.500Z",
   publishedAt: "2025-06-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2341452/chapter-1580-return-of-the-slug",
-  externalId: "2341452",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2341452",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2341452/chapter-1580-return-of-the-slug",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

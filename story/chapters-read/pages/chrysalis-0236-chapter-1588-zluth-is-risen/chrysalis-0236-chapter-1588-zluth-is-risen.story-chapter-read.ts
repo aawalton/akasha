@@ -12,9 +12,13 @@ export const chrysalis0236Chapter1588ZluthIsRisen = {
   unit: "words",
   completedAt: "2026-06-29T19:51:21.719Z",
   publishedAt: "2025-06-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2367760/chapter-1588-zluth-is-risen",
-  externalId: "2367760",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2367760",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2367760/chapter-1588-zluth-is-risen",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

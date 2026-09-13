@@ -12,9 +12,13 @@ export const chrysalis0381Chapter1729TheTitanApproaches = {
   unit: "words",
   completedAt: "2026-06-29T19:55:59.567Z",
   publishedAt: "2026-02-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3016866/chapter-1729-the-titan-approaches",
-  externalId: "3016866",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3016866",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3016866/chapter-1729-the-titan-approaches",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0386Chapter1734BeholdIt = {
   unit: "words",
   completedAt: "2026-06-29T19:56:09.209Z",
   publishedAt: "2026-02-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3041625/chapter-1734-behold-it",
-  externalId: "3041625",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3041625",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3041625/chapter-1734-behold-it",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

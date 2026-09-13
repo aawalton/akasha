@@ -12,9 +12,13 @@ export const chrysalis0343Chapter1691EmergeOnceMore = {
   unit: "words",
   completedAt: "2026-06-29T19:54:47.081Z",
   publishedAt: "2025-11-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2790538/chapter-1691-emerge-once-more",
-  externalId: "2790538",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2790538",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2790538/chapter-1691-emerge-once-more",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

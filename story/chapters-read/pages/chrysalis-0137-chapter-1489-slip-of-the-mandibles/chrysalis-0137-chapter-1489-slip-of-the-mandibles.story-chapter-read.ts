@@ -12,9 +12,13 @@ export const chrysalis0137Chapter1489SlipOfTheMandibles = {
   unit: "words",
   completedAt: "2026-06-29T19:48:13.828Z",
   publishedAt: "2025-01-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2021406/chapter-1489-slip-of-the-mandibles",
-  externalId: "2021406",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2021406",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2021406/chapter-1489-slip-of-the-mandibles",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

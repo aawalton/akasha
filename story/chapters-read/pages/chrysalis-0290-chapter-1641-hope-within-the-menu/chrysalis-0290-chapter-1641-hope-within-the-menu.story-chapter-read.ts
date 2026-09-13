@@ -12,9 +12,13 @@ export const chrysalis0290Chapter1641HopeWithinTheMenu = {
   unit: "words",
   completedAt: "2026-06-29T19:53:05.494Z",
   publishedAt: "2025-09-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2586106/chapter-1641-hope-within-the-menu",
-  externalId: "2586106",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2586106",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2586106/chapter-1641-hope-within-the-menu",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

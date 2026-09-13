@@ -12,9 +12,13 @@ export const chrysalis0285Chapter1636TriadWork = {
   unit: "words",
   completedAt: "2026-06-29T19:52:55.945Z",
   publishedAt: "2025-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2567083/chapter-1636-triad-work",
-  externalId: "2567083",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2567083",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2567083/chapter-1636-triad-work",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

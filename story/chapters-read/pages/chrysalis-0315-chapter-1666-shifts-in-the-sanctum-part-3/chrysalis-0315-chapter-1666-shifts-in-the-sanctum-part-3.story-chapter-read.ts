@@ -12,9 +12,13 @@ export const chrysalis0315Chapter1666ShiftsInTheSanctumPart3 = {
   unit: "words",
   completedAt: "2026-06-29T19:53:53.326Z",
   publishedAt: "2025-10-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2674813/chapter-1666-shifts-in-the-sanctum-part-3",
-  externalId: "2674813",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2674813",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2674813/chapter-1666-shifts-in-the-sanctum-part-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

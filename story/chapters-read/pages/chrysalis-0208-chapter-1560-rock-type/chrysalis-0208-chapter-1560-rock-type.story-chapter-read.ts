@@ -12,9 +12,13 @@ export const chrysalis0208Chapter1560RockType = {
   unit: "words",
   completedAt: "2026-06-29T19:50:28.448Z",
   publishedAt: "2025-04-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2236513/chapter-1560-rock-type",
-  externalId: "2236513",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2236513",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2236513/chapter-1560-rock-type",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

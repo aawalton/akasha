@@ -10,9 +10,13 @@ export const chrysalis0475Chapter1821HeartBreaker = {
   ownLength: 969,
   unit: "words",
   publishedAt: "2026-06-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3577772/chapter-1821-heart-breaker",
-  externalId: "3577772",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3577772",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3577772/chapter-1821-heart-breaker",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

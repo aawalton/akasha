@@ -10,9 +10,13 @@ export const chrysalis0491Chapter1836BreatheEasy = {
   ownLength: 864,
   unit: "words",
   publishedAt: "2026-08-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3766403/chapter-1836-breathe-easy",
-  externalId: "3766403",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3766403",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3766403/chapter-1836-breathe-easy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

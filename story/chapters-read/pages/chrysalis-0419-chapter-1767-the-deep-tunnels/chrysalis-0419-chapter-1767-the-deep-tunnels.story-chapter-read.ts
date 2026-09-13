@@ -10,9 +10,13 @@ export const chrysalis0419Chapter1767TheDeepTunnels = {
   ownLength: 1036,
   unit: "words",
   publishedAt: "2026-04-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3246037/chapter-1767-the-deep-tunnels",
-  externalId: "3246037",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3246037",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3246037/chapter-1767-the-deep-tunnels",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

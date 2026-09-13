@@ -10,9 +10,13 @@ export const chrysalis0470Chapter1816ItSHardToBreakASlugSBackButNotImposs = {
   ownLength: 1054,
   unit: "words",
   publishedAt: "2026-06-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3545710/chapter-1816-its-hard-to-break-a-slugs-back-but",
-  externalId: "3545710",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3545710",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3545710/chapter-1816-its-hard-to-break-a-slugs-back-but",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

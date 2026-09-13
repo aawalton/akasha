@@ -10,9 +10,13 @@ export const chrysalis0500Chapter1845WildAndWavy = {
   ownLength: 928,
   unit: "words",
   publishedAt: "2026-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3823617/chapter-1845-wild-and-wavy",
-  externalId: "3823617",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3823617",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3823617/chapter-1845-wild-and-wavy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

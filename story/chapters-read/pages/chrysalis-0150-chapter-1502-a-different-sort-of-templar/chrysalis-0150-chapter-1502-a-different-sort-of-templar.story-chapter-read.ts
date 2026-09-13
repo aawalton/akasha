@@ -12,9 +12,13 @@ export const chrysalis0150Chapter1502ADifferentSortOfTemplar = {
   unit: "words",
   completedAt: "2026-06-29T19:48:38.933Z",
   publishedAt: "2025-02-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2048449/chapter-1502-a-different-sort-of-templar",
-  externalId: "2048449",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2048449",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2048449/chapter-1502-a-different-sort-of-templar",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

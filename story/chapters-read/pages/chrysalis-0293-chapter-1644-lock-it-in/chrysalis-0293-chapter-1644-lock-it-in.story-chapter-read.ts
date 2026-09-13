@@ -12,9 +12,13 @@ export const chrysalis0293Chapter1644LockItIn = {
   unit: "words",
   completedAt: "2026-06-29T19:53:11.249Z",
   publishedAt: "2025-09-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2593932/chapter-1644-lock-it-in",
-  externalId: "2593932",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2593932",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2593932/chapter-1644-lock-it-in",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

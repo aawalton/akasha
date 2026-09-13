@@ -10,9 +10,13 @@ export const chrysalis0451Chapter1799AbyssalBabysitting = {
   ownLength: 1099,
   unit: "words",
   publishedAt: "2026-05-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3429872/chapter-1799-abyssal-babysitting",
-  externalId: "3429872",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3429872",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3429872/chapter-1799-abyssal-babysitting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

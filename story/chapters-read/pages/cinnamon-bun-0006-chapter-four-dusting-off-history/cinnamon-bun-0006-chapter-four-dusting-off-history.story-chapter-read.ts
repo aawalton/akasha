@@ -10,9 +10,13 @@ export const cinnamonBun0006ChapterFourDustingOffHistory = {
   ownLength: 2120,
   unit: "words",
   publishedAt: "2020-04-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/479680/chapter-four-dusting-off-history",
-  externalId: "479680",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "479680",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/479680/chapter-four-dusting-off-history",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

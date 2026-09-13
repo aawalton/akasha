@@ -10,9 +10,13 @@ export const chrysalis0496Chapter1841GrowingWave = {
   ownLength: 869,
   unit: "words",
   publishedAt: "2026-08-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3798073/chapter-1841-growing-wave",
-  externalId: "3798073",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3798073",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3798073/chapter-1841-growing-wave",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

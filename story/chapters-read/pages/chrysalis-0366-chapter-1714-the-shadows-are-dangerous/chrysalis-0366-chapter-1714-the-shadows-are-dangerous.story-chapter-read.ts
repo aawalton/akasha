@@ -12,9 +12,13 @@ export const chrysalis0366Chapter1714TheShadowsAreDangerous = {
   unit: "words",
   completedAt: "2026-06-29T19:55:31.243Z",
   publishedAt: "2026-01-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2947231/chapter-1714-the-shadows-are-dangerous",
-  externalId: "2947231",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2947231",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2947231/chapter-1714-the-shadows-are-dangerous",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0171Chapter1523Rise = {
   unit: "words",
   completedAt: "2026-06-29T19:49:18.854Z",
   publishedAt: "2025-03-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2106784/chapter-1523-rise",
-  externalId: "2106784",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2106784",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2106784/chapter-1523-rise",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

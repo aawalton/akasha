@@ -12,9 +12,13 @@ export const chrysalis0300Chapter1651OnTheStudyOfTheChal = {
   unit: "words",
   completedAt: "2026-06-29T19:53:24.671Z",
   publishedAt: "2025-09-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2621583/chapter-1651-on-the-study-of-the-chal",
-  externalId: "2621583",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2621583",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2621583/chapter-1651-on-the-study-of-the-chal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

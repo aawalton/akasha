@@ -12,9 +12,13 @@ export const chrysalis0254Chapter1605Unification = {
   unit: "words",
   completedAt: "2026-06-29T19:51:56.568Z",
   publishedAt: "2025-07-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2433846/chapter-1605-unification",
-  externalId: "2433846",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2433846",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2433846/chapter-1605-unification",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0184Chapter1536RaisingANewPower = {
   unit: "words",
   completedAt: "2026-06-29T19:49:43.177Z",
   publishedAt: "2025-03-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2149019/chapter-1536-raising-a-new-power",
-  externalId: "2149019",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2149019",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2149019/chapter-1536-raising-a-new-power",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

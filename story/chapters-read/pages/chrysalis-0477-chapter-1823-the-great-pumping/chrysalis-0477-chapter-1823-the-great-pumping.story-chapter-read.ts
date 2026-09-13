@@ -10,9 +10,13 @@ export const chrysalis0477Chapter1823TheGreatPumping = {
   ownLength: 1038,
   unit: "words",
   publishedAt: "2026-06-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3587219/chapter-1823-the-great-pumping",
-  externalId: "3587219",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3587219",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3587219/chapter-1823-the-great-pumping",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0191Chapter1543Choir = {
   unit: "words",
   completedAt: "2026-06-29T19:49:56.003Z",
   publishedAt: "2025-04-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2169990/chapter-1543-choir",
-  externalId: "2169990",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2169990",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2169990/chapter-1543-choir",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

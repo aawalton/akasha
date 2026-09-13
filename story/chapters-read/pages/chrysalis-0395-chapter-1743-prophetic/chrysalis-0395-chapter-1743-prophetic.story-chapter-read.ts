@@ -12,9 +12,13 @@ export const chrysalis0395Chapter1743Prophetic = {
   unit: "words",
   completedAt: "2026-06-29T19:56:25.937Z",
   publishedAt: "2026-02-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3093091/chapter-1743-prophetic",
-  externalId: "3093091",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3093091",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3093091/chapter-1743-prophetic",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

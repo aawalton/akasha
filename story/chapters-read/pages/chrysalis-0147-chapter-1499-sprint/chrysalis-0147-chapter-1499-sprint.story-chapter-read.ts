@@ -12,9 +12,13 @@ export const chrysalis0147Chapter1499Sprint = {
   unit: "words",
   completedAt: "2026-06-29T19:48:33.189Z",
   publishedAt: "2025-01-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2038998/chapter-1499-sprint",
-  externalId: "2038998",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2038998",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2038998/chapter-1499-sprint",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

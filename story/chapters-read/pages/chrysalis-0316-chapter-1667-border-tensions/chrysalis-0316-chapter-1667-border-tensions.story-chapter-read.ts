@@ -12,9 +12,13 @@ export const chrysalis0316Chapter1667BorderTensions = {
   unit: "words",
   completedAt: "2026-06-29T19:53:55.255Z",
   publishedAt: "2025-10-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2677286/chapter-1667-border-tensions",
-  externalId: "2677286",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2677286",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2677286/chapter-1667-border-tensions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

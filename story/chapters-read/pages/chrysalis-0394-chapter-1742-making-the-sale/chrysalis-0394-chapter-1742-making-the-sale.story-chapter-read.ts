@@ -12,9 +12,13 @@ export const chrysalis0394Chapter1742MakingTheSale = {
   unit: "words",
   completedAt: "2026-06-29T19:56:24.002Z",
   publishedAt: "2026-02-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3089610/chapter-1742-making-the-sale",
-  externalId: "3089610",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3089610",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3089610/chapter-1742-making-the-sale",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

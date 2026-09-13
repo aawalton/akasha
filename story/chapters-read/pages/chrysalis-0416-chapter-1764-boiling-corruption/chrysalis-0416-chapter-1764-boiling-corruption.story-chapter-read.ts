@@ -10,9 +10,13 @@ export const chrysalis0416Chapter1764BoilingCorruption = {
   ownLength: 961,
   unit: "words",
   publishedAt: "2026-04-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3224624/chapter-1764-boiling-corruption",
-  externalId: "3224624",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3224624",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3224624/chapter-1764-boiling-corruption",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

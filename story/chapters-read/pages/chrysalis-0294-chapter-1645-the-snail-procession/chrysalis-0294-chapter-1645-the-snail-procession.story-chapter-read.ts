@@ -12,9 +12,13 @@ export const chrysalis0294Chapter1645TheSnailProcession = {
   unit: "words",
   completedAt: "2026-06-29T19:53:13.170Z",
   publishedAt: "2025-09-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2601011/chapter-1645-the-snail-procession",
-  externalId: "2601011",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2601011",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2601011/chapter-1645-the-snail-procession",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

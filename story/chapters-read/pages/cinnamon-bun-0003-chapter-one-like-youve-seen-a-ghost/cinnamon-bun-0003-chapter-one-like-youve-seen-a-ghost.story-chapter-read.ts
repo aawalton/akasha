@@ -10,9 +10,13 @@ export const cinnamonBun0003ChapterOneLikeYouveSeenAGhost = {
   ownLength: 2063,
   unit: "words",
   publishedAt: "2020-04-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/478242/chapter-one-like-youve-seen-a-ghost",
-  externalId: "478242",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "478242",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/478242/chapter-one-like-youve-seen-a-ghost",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

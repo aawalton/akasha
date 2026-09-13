@@ -12,9 +12,13 @@ export const chrysalis0144Chapter1496Experimentation = {
   unit: "words",
   completedAt: "2026-06-29T19:48:27.551Z",
   publishedAt: "2025-01-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2035056/chapter-1496-experimentation",
-  externalId: "2035056",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2035056",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2035056/chapter-1496-experimentation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0207Chapter1559Escalation = {
   unit: "words",
   completedAt: "2026-06-29T19:50:26.538Z",
   publishedAt: "2025-04-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2228844/chapter-1559-escalation",
-  externalId: "2228844",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2228844",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2228844/chapter-1559-escalation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

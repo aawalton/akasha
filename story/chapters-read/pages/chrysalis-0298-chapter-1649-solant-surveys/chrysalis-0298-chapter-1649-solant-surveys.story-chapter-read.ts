@@ -12,9 +12,13 @@ export const chrysalis0298Chapter1649SolantSurveys = {
   unit: "words",
   completedAt: "2026-06-29T19:53:20.840Z",
   publishedAt: "2025-09-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2611546/chapter-1649-solant-surveys",
-  externalId: "2611546",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2611546",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2611546/chapter-1649-solant-surveys",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

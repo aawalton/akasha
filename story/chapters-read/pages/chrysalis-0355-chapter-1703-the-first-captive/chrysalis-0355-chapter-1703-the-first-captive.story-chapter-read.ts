@@ -12,9 +12,13 @@ export const chrysalis0355Chapter1703TheFirstCaptive = {
   unit: "words",
   completedAt: "2026-06-29T19:55:10.248Z",
   publishedAt: "2025-12-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2837419/chapter-1703-the-first-captive",
-  externalId: "2837419",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2837419",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2837419/chapter-1703-the-first-captive",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

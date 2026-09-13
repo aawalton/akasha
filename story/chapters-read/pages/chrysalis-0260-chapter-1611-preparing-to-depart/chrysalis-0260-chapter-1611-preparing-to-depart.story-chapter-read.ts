@@ -12,9 +12,13 @@ export const chrysalis0260Chapter1611PreparingToDepart = {
   unit: "words",
   completedAt: "2026-06-29T19:52:08.106Z",
   publishedAt: "2025-07-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2474665/chapter-1611-preparing-to-depart",
-  externalId: "2474665",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2474665",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2474665/chapter-1611-preparing-to-depart",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

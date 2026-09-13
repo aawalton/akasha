@@ -10,9 +10,13 @@ export const chrysalis0449Chapter1797TheTemplarsGrow = {
   ownLength: 1077,
   unit: "words",
   publishedAt: "2026-05-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3420733/chapter-1797-the-templars-grow",
-  externalId: "3420733",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3420733",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3420733/chapter-1797-the-templars-grow",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0217Chapter1569BalancedOnAKnife = {
   unit: "words",
   completedAt: "2026-06-29T19:50:45.452Z",
   publishedAt: "2025-05-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2299011/chapter-1569-balanced-on-a-knife",
-  externalId: "2299011",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2299011",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2299011/chapter-1569-balanced-on-a-knife",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

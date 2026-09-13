@@ -12,9 +12,13 @@ export const chrysalis0388Chapter1736YouWerenTSupposedToDoThat = {
   unit: "words",
   completedAt: "2026-06-29T19:56:12.914Z",
   publishedAt: "2026-02-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3061443/chapter-1736-you-werent-supposed-to-do-that",
-  externalId: "3061443",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3061443",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3061443/chapter-1736-you-werent-supposed-to-do-that",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

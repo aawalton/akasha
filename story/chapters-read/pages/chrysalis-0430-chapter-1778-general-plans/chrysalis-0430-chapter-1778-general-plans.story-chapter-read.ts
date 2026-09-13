@@ -10,9 +10,13 @@ export const chrysalis0430Chapter1778GeneralPlans = {
   ownLength: 1050,
   unit: "words",
   publishedAt: "2026-04-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3307532/chapter-1778-general-plans",
-  externalId: "3307532",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3307532",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3307532/chapter-1778-general-plans",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

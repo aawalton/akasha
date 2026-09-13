@@ -10,8 +10,13 @@ export const chrysalis0459MerchIsLive = {
   ownLength: 602,
   unit: "words",
   publishedAt: "2026-06-01",
-  externalLink: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3476050/merch-is-live",
-  externalId: "3476050",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3476050",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3476050/merch-is-live",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

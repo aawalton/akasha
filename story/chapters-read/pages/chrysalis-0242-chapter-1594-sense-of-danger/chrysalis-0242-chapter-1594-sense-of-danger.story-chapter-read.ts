@@ -12,9 +12,13 @@ export const chrysalis0242Chapter1594SenseOfDanger = {
   unit: "words",
   completedAt: "2026-06-29T19:51:33.257Z",
   publishedAt: "2025-06-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2388378/chapter-1594-sense-of-danger",
-  externalId: "2388378",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2388378",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2388378/chapter-1594-sense-of-danger",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0234Chapter1586AntVenturing = {
   unit: "words",
   completedAt: "2026-06-29T19:51:18.100Z",
   publishedAt: "2025-06-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2362475/chapter-1586-ant-venturing",
-  externalId: "2362475",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2362475",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2362475/chapter-1586-ant-venturing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

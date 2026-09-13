@@ -12,9 +12,13 @@ export const chrysalis0384Chapter1732ArmyWideRumble = {
   unit: "words",
   completedAt: "2026-06-29T19:56:05.341Z",
   publishedAt: "2026-02-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3034780/chapter-1732-army-wide-rumble",
-  externalId: "3034780",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3034780",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3034780/chapter-1732-army-wide-rumble",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

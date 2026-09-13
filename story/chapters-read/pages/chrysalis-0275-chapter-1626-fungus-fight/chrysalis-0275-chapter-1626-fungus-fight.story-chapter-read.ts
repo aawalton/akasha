@@ -12,9 +12,13 @@ export const chrysalis0275Chapter1626FungusFight = {
   unit: "words",
   completedAt: "2026-06-29T19:52:36.676Z",
   publishedAt: "2025-08-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2529551/chapter-1626-fungus-fight",
-  externalId: "2529551",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2529551",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2529551/chapter-1626-fungus-fight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

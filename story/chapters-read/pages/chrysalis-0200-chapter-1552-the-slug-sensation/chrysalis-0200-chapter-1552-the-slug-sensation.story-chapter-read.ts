@@ -12,9 +12,13 @@ export const chrysalis0200Chapter1552TheSlugSensation = {
   unit: "words",
   completedAt: "2026-06-29T19:50:13.302Z",
   publishedAt: "2025-04-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2205674/chapter-1552-the-slug-sensation",
-  externalId: "2205674",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2205674",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2205674/chapter-1552-the-slug-sensation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

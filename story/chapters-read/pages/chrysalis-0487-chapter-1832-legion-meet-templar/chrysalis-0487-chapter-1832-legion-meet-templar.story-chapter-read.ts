@@ -10,9 +10,13 @@ export const chrysalis0487Chapter1832LegionMeetTemplar = {
   ownLength: 1124,
   unit: "words",
   publishedAt: "2026-07-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3739806/chapter-1832-legion-meet-templar",
-  externalId: "3739806",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3739806",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3739806/chapter-1832-legion-meet-templar",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

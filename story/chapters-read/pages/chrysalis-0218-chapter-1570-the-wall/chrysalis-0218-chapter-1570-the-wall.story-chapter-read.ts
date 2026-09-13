@@ -12,9 +12,13 @@ export const chrysalis0218Chapter1570TheWall = {
   unit: "words",
   completedAt: "2026-06-29T19:50:47.358Z",
   publishedAt: "2025-05-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2306393/chapter-1570-the-wall",
-  externalId: "2306393",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2306393",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2306393/chapter-1570-the-wall",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

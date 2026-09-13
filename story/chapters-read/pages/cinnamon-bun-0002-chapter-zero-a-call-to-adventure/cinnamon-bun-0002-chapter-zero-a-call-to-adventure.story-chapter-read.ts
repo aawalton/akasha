@@ -10,9 +10,13 @@ export const cinnamonBun0002ChapterZeroACallToAdventure = {
   ownLength: 2179,
   unit: "words",
   publishedAt: "2020-04-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/477911/chapter-zero-a-call-to-adventure",
-  externalId: "477911",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "477911",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/477911/chapter-zero-a-call-to-adventure",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

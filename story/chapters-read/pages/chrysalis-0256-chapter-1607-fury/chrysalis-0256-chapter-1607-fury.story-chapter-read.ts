@@ -12,9 +12,13 @@ export const chrysalis0256Chapter1607Fury = {
   unit: "words",
   completedAt: "2026-06-29T19:52:00.436Z",
   publishedAt: "2025-07-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2438698/chapter-1607-fury",
-  externalId: "2438698",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2438698",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2438698/chapter-1607-fury",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

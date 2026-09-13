@@ -12,9 +12,13 @@ export const chrysalis0362Chapter1710FunInTheTunnels = {
   unit: "words",
   completedAt: "2026-06-29T19:55:23.489Z",
   publishedAt: "2026-01-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2934110/chapter-1710-fun-in-the-tunnels",
-  externalId: "2934110",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2934110",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2934110/chapter-1710-fun-in-the-tunnels",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

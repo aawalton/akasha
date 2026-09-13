@@ -10,9 +10,13 @@ export const chrysalis0450Chapter1798NewTemplar = {
   ownLength: 1000,
   unit: "words",
   publishedAt: "2026-05-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3425438/chapter-1798-new-templar",
-  externalId: "3425438",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3425438",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3425438/chapter-1798-new-templar",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

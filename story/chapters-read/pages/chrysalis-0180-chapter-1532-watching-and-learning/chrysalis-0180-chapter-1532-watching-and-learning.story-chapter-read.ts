@@ -12,9 +12,13 @@ export const chrysalis0180Chapter1532WatchingAndLearning = {
   unit: "words",
   completedAt: "2026-06-29T19:49:35.781Z",
   publishedAt: "2025-03-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2135728/chapter-1532-watching-and-learning",
-  externalId: "2135728",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2135728",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2135728/chapter-1532-watching-and-learning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

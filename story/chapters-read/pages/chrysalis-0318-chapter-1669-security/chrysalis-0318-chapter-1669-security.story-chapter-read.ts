@@ -12,9 +12,13 @@ export const chrysalis0318Chapter1669Security = {
   unit: "words",
   completedAt: "2026-06-29T19:53:59.097Z",
   publishedAt: "2025-10-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2682328/chapter-1669-security",
-  externalId: "2682328",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2682328",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2682328/chapter-1669-security",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

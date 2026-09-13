@@ -12,9 +12,13 @@ export const chrysalis0361Chapter1709Judgement = {
   unit: "words",
   completedAt: "2026-06-29T19:55:21.519Z",
   publishedAt: "2025-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2857408/chapter-1709-judgement",
-  externalId: "2857408",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2857408",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2857408/chapter-1709-judgement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chrysalis0474Chapter1820ItLlDo = {
   ownLength: 1084,
   unit: "words",
   publishedAt: "2026-06-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3572581/chapter-1820-itll-do",
-  externalId: "3572581",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3572581",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3572581/chapter-1820-itll-do",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

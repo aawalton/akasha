@@ -10,9 +10,13 @@ export const chrysalis0412Chapter1760LostTreasure = {
   ownLength: 1012,
   unit: "words",
   publishedAt: "2026-03-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3209487/chapter-1760-lost-treasure",
-  externalId: "3209487",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3209487",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3209487/chapter-1760-lost-treasure",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

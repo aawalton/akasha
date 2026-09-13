@@ -12,9 +12,13 @@ export const chrysalis0287Chapter1638MutationSuitePt2 = {
   unit: "words",
   completedAt: "2026-06-29T19:52:59.656Z",
   publishedAt: "2025-09-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2572645/chapter-1638-mutation-suite-pt-2",
-  externalId: "2572645",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2572645",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2572645/chapter-1638-mutation-suite-pt-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

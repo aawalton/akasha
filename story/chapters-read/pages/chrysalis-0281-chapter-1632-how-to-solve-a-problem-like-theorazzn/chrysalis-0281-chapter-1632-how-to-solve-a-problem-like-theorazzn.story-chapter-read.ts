@@ -12,9 +12,13 @@ export const chrysalis0281Chapter1632HowToSolveAProblemLikeTheorazzn = {
   unit: "words",
   completedAt: "2026-06-29T19:52:48.045Z",
   publishedAt: "2025-08-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2551075/chapter-1632-how-to-solve-a-problem-like-theorazzn",
-  externalId: "2551075",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2551075",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2551075/chapter-1632-how-to-solve-a-problem-like-theorazzn",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

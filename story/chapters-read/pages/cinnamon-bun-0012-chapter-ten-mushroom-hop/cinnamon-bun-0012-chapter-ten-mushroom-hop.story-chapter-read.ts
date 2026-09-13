@@ -10,9 +10,13 @@ export const cinnamonBun0012ChapterTenMushroomHop = {
   ownLength: 1960,
   unit: "words",
   publishedAt: "2020-04-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/485980/chapter-ten-mushroom-hop",
-  externalId: "485980",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "485980",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/485980/chapter-ten-mushroom-hop",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

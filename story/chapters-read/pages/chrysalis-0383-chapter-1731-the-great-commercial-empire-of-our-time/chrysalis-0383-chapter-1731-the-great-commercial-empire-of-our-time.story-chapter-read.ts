@@ -12,9 +12,13 @@ export const chrysalis0383Chapter1731TheGreatCommercialEmpireOfOurTime = {
   unit: "words",
   completedAt: "2026-06-29T19:56:03.416Z",
   publishedAt: "2026-02-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3031492/chapter-1731-the-great-commercial-empire-of-our",
-  externalId: "3031492",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3031492",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3031492/chapter-1731-the-great-commercial-empire-of-our",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

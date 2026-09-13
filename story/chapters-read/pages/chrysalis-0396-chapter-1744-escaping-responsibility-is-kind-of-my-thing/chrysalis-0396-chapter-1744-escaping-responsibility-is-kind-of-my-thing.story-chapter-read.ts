@@ -12,9 +12,13 @@ export const chrysalis0396Chapter1744EscapingResponsibilityIsKindOfMyThing = {
   unit: "words",
   completedAt: "2026-06-29T19:56:27.864Z",
   publishedAt: "2026-02-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3096531/chapter-1744-escaping-responsibility-is-kind-of",
-  externalId: "3096531",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3096531",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3096531/chapter-1744-escaping-responsibility-is-kind-of",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

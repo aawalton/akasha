@@ -12,9 +12,13 @@ export const chrysalis0295Chapter1646MolluscMusic = {
   unit: "words",
   completedAt: "2026-06-29T19:53:15.096Z",
   publishedAt: "2025-09-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2603691/chapter-1646-mollusc-music",
-  externalId: "2603691",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2603691",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2603691/chapter-1646-mollusc-music",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

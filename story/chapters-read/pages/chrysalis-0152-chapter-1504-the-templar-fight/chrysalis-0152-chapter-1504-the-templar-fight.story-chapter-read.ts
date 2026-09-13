@@ -12,9 +12,13 @@ export const chrysalis0152Chapter1504TheTemplarFight = {
   unit: "words",
   completedAt: "2026-06-29T19:48:42.619Z",
   publishedAt: "2025-02-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2052211/chapter-1504-the-templar-fight",
-  externalId: "2052211",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2052211",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2052211/chapter-1504-the-templar-fight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

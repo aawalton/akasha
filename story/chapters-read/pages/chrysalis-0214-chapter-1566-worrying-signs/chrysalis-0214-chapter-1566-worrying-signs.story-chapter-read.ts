@@ -12,9 +12,13 @@ export const chrysalis0214Chapter1566WorryingSigns = {
   unit: "words",
   completedAt: "2026-06-29T19:50:39.862Z",
   publishedAt: "2025-05-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2291887/chapter-1566-worrying-signs",
-  externalId: "2291887",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2291887",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2291887/chapter-1566-worrying-signs",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

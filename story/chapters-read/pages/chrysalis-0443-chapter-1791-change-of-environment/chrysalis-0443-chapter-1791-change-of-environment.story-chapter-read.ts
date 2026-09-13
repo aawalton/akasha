@@ -10,9 +10,13 @@ export const chrysalis0443Chapter1791ChangeOfEnvironment = {
   ownLength: 878,
   unit: "words",
   publishedAt: "2026-05-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3384796/chapter-1791-change-of-environment",
-  externalId: "3384796",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3384796",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3384796/chapter-1791-change-of-environment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

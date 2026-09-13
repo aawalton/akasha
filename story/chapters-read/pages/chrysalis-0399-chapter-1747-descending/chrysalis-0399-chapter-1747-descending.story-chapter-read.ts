@@ -11,9 +11,13 @@ export const chrysalis0399Chapter1747Descending = {
   ownProgress: 521,
   unit: "words",
   publishedAt: "2026-03-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3113964/chapter-1747-descending",
-  externalId: "3113964",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3113964",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3113964/chapter-1747-descending",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

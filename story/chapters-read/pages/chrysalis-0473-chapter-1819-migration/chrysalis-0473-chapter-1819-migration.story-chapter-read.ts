@@ -10,9 +10,13 @@ export const chrysalis0473Chapter1819Migration = {
   ownLength: 798,
   unit: "words",
   publishedAt: "2026-06-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3559197/chapter-1819-migration",
-  externalId: "3559197",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3559197",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3559197/chapter-1819-migration",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

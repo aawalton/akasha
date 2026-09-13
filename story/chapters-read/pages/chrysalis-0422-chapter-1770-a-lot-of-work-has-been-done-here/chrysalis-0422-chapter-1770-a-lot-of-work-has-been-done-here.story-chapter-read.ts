@@ -10,9 +10,13 @@ export const chrysalis0422Chapter1770ALotOfWorkHasBeenDoneHere = {
   ownLength: 1147,
   unit: "words",
   publishedAt: "2026-04-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3266195/chapter-1770-a-lot-of-work-has-been-done-here",
-  externalId: "3266195",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3266195",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3266195/chapter-1770-a-lot-of-work-has-been-done-here",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

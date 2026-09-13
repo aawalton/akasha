@@ -10,9 +10,13 @@ export const chrysalis0421Chapter1769DonTBeScaredHeSUnarmed = {
   ownLength: 1084,
   unit: "words",
   publishedAt: "2026-04-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3254214/chapter-1769-dont-be-scared-hes-unarmed",
-  externalId: "3254214",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3254214",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3254214/chapter-1769-dont-be-scared-hes-unarmed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

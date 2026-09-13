@@ -12,9 +12,13 @@ export const chrysalis0379Chapter1727DonTLookAGiftChurchArmyInTheFace = {
   unit: "words",
   completedAt: "2026-06-29T19:55:55.663Z",
   publishedAt: "2026-02-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3010364/chapter-1727-dont-look-a-gift-church-army-in-the",
-  externalId: "3010364",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3010364",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3010364/chapter-1727-dont-look-a-gift-church-army-in-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

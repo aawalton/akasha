@@ -10,9 +10,13 @@ export const chrysalis0442Chapter1790EmergencyEvac = {
   ownLength: 999,
   unit: "words",
   publishedAt: "2026-05-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3380527/chapter-1790-emergency-evac",
-  externalId: "3380527",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3380527",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3380527/chapter-1790-emergency-evac",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

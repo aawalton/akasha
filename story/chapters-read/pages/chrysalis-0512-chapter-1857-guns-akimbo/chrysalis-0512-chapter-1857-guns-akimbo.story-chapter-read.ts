@@ -10,9 +10,13 @@ export const chrysalis0512Chapter1857GunsAkimbo = {
   ownLength: 881,
   unit: "words",
   publishedAt: "2026-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3898421/chapter-1857-guns-akimbo",
-  externalId: "3898421",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3898421",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3898421/chapter-1857-guns-akimbo",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

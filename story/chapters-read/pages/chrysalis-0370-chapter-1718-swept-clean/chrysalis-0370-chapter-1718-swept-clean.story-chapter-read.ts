@@ -12,9 +12,13 @@ export const chrysalis0370Chapter1718SweptClean = {
   unit: "words",
   completedAt: "2026-06-29T19:55:38.703Z",
   publishedAt: "2026-01-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2966453/chapter-1718-swept-clean",
-  externalId: "2966453",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2966453",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2966453/chapter-1718-swept-clean",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

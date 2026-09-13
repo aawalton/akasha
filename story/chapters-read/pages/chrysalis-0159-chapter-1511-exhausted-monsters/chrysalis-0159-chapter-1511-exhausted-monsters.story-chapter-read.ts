@@ -12,9 +12,13 @@ export const chrysalis0159Chapter1511ExhaustedMonsters = {
   unit: "words",
   completedAt: "2026-06-29T19:48:55.908Z",
   publishedAt: "2025-02-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2073708/chapter-1511-exhausted-monsters",
-  externalId: "2073708",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2073708",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2073708/chapter-1511-exhausted-monsters",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

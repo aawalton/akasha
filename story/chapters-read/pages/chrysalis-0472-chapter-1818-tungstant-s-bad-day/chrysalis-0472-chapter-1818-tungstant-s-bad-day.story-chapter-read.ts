@@ -10,9 +10,13 @@ export const chrysalis0472Chapter1818TungstantSBadDay = {
   ownLength: 1100,
   unit: "words",
   publishedAt: "2026-06-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3554885/chapter-1818-tungstants-bad-day",
-  externalId: "3554885",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3554885",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3554885/chapter-1818-tungstants-bad-day",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

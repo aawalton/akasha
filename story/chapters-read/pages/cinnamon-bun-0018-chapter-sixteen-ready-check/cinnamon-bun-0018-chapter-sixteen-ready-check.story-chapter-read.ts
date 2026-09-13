@@ -10,9 +10,13 @@ export const cinnamonBun0018ChapterSixteenReadyCheck = {
   ownLength: 2074,
   unit: "words",
   publishedAt: "2020-05-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/492244/chapter-sixteen-ready-check",
-  externalId: "492244",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "492244",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/492244/chapter-sixteen-ready-check",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

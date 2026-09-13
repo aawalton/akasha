@@ -12,9 +12,13 @@ export const chrysalis0334Chapter1683PurifiedAndSanctified = {
   unit: "words",
   completedAt: "2026-06-29T19:54:29.816Z",
   publishedAt: "2025-11-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2736217/chapter-1683-purified-and-sanctified",
-  externalId: "2736217",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2736217",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2736217/chapter-1683-purified-and-sanctified",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

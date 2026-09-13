@@ -12,9 +12,13 @@ export const chrysalis0223Chapter1575LogisticsOfAnEmpire = {
   unit: "words",
   completedAt: "2026-06-29T19:50:56.852Z",
   publishedAt: "2025-06-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2326468/chapter-1575-logistics-of-an-empire",
-  externalId: "2326468",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2326468",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2326468/chapter-1575-logistics-of-an-empire",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

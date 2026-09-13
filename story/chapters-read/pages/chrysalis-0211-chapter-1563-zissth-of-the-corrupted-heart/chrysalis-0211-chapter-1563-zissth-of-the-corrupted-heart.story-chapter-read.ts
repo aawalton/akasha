@@ -12,9 +12,13 @@ export const chrysalis0211Chapter1563ZissthOfTheCorruptedHeart = {
   unit: "words",
   completedAt: "2026-06-29T19:50:34.084Z",
   publishedAt: "2025-05-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2245122/chapter-1563-zissth-of-the-corrupted-heart",
-  externalId: "2245122",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2245122",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2245122/chapter-1563-zissth-of-the-corrupted-heart",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

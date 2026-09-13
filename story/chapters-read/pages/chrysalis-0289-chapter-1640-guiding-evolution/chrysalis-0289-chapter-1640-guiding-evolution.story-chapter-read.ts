@@ -12,9 +12,13 @@ export const chrysalis0289Chapter1640GuidingEvolution = {
   unit: "words",
   completedAt: "2026-06-29T19:53:03.569Z",
   publishedAt: "2025-09-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2583229/chapter-1640-guiding-evolution",
-  externalId: "2583229",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2583229",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2583229/chapter-1640-guiding-evolution",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

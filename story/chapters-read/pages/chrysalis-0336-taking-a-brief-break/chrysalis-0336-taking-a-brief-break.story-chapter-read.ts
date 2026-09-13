@@ -12,9 +12,13 @@ export const chrysalis0336TakingABriefBreak = {
   unit: "words",
   completedAt: "2026-06-29T19:54:33.658Z",
   publishedAt: "2025-11-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2747845/taking-a-brief-break",
-  externalId: "2747845",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2747845",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2747845/taking-a-brief-break",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

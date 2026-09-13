@@ -12,9 +12,13 @@ export const chrysalis0149Chapter1501TheTemplarOfTheEldest = {
   unit: "words",
   completedAt: "2026-06-29T19:48:37.049Z",
   publishedAt: "2025-02-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2048437/chapter-1501-the-templar-of-the-eldest",
-  externalId: "2048437",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2048437",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2048437/chapter-1501-the-templar-of-the-eldest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

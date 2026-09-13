@@ -12,9 +12,13 @@ export const chrysalis0188Chapter1540EndlessPunchingBag = {
   unit: "words",
   completedAt: "2026-06-29T19:49:50.633Z",
   publishedAt: "2025-03-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2162364/chapter-1540-endless-punching-bag",
-  externalId: "2162364",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2162364",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2162364/chapter-1540-endless-punching-bag",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

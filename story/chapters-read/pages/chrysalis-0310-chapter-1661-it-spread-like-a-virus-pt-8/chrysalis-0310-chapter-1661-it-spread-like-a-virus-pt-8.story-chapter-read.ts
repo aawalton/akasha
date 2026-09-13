@@ -12,9 +12,13 @@ export const chrysalis0310Chapter1661ItSpreadLikeAVirusPt8 = {
   unit: "words",
   completedAt: "2026-06-29T19:53:43.677Z",
   publishedAt: "2025-10-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2657178/chapter-1661-it-spread-like-a-virus-pt-8",
-  externalId: "2657178",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2657178",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2657178/chapter-1661-it-spread-like-a-virus-pt-8",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

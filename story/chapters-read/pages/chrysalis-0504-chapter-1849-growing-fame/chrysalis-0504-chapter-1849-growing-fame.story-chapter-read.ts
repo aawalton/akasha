@@ -10,9 +10,13 @@ export const chrysalis0504Chapter1849GrowingFame = {
   ownLength: 1103,
   unit: "words",
   publishedAt: "2026-08-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3841423/chapter-1849-growing-fame",
-  externalId: "3841423",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3841423",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3841423/chapter-1849-growing-fame",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

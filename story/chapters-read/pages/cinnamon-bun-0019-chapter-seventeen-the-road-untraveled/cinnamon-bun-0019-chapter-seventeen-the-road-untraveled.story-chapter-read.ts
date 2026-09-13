@@ -10,9 +10,13 @@ export const cinnamonBun0019ChapterSeventeenTheRoadUntraveled = {
   ownLength: 1993,
   unit: "words",
   publishedAt: "2020-05-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/492774/chapter-seventeen-the-roaduntraveled",
-  externalId: "492774",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "492774",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/492774/chapter-seventeen-the-roaduntraveled",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

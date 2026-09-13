@@ -12,9 +12,13 @@ export const chrysalis0353Chapter1701Hunting = {
   unit: "words",
   completedAt: "2026-06-29T19:55:06.409Z",
   publishedAt: "2025-12-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2831497/chapter-1701-hunting",
-  externalId: "2831497",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2831497",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2831497/chapter-1701-hunting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

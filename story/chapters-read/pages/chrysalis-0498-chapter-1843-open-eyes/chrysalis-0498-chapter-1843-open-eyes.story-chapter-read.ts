@@ -10,9 +10,13 @@ export const chrysalis0498Chapter1843OpenEyes = {
   ownLength: 944,
   unit: "words",
   publishedAt: "2026-08-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3806865/chapter-1843-open-eyes",
-  externalId: "3806865",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3806865",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3806865/chapter-1843-open-eyes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

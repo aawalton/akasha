@@ -12,9 +12,13 @@ export const chrysalis0268Chapter1619Invasion = {
   unit: "words",
   completedAt: "2026-06-29T19:52:23.360Z",
   publishedAt: "2025-08-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2500895/chapter-1619-invasion",
-  externalId: "2500895",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2500895",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2500895/chapter-1619-invasion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chrysalis0466Chapter1812AMuchBetterPlace = {
   ownLength: 973,
   unit: "words",
   publishedAt: "2026-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3517118/chapter-1812-a-much-better-place",
-  externalId: "3517118",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3517118",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3517118/chapter-1812-a-much-better-place",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

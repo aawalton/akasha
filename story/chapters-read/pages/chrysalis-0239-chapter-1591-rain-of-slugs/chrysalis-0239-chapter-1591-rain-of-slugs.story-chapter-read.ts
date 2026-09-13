@@ -12,9 +12,13 @@ export const chrysalis0239Chapter1591RainOfSlugs = {
   unit: "words",
   completedAt: "2026-06-29T19:51:27.295Z",
   publishedAt: "2025-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2380732/chapter-1591-rain-of-slugs",
-  externalId: "2380732",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2380732",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2380732/chapter-1591-rain-of-slugs",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

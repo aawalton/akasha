@@ -12,9 +12,13 @@ export const chrysalis0279Chapter1630Medicine = {
   unit: "words",
   completedAt: "2026-06-29T19:52:44.329Z",
   publishedAt: "2025-08-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2545188/chapter-1630-medicine",
-  externalId: "2545188",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2545188",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2545188/chapter-1630-medicine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

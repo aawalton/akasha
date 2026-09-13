@@ -12,9 +12,13 @@ export const chrysalis0204Chapter1556TheBeatingHeart = {
   unit: "words",
   completedAt: "2026-06-29T19:50:20.815Z",
   publishedAt: "2025-04-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2221108/chapter-1556-the-beating-heart",
-  externalId: "2221108",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2221108",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2221108/chapter-1556-the-beating-heart",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

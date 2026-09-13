@@ -12,9 +12,13 @@ export const chrysalis0345Chapter1693TimeToPay = {
   unit: "words",
   completedAt: "2026-06-29T19:54:51.087Z",
   publishedAt: "2025-11-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2796408/chapter-1693-time-to-pay",
-  externalId: "2796408",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2796408",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2796408/chapter-1693-time-to-pay",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

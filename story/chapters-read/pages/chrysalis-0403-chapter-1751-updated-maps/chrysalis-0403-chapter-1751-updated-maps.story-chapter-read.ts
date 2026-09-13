@@ -10,9 +10,13 @@ export const chrysalis0403Chapter1751UpdatedMaps = {
   ownLength: 1147,
   unit: "words",
   publishedAt: "2026-03-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3145660/chapter-1751-updated-maps",
-  externalId: "3145660",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3145660",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3145660/chapter-1751-updated-maps",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

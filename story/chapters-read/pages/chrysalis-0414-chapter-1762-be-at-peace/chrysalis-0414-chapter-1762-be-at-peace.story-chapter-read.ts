@@ -10,9 +10,13 @@ export const chrysalis0414Chapter1762BeAtPeace = {
   ownLength: 969,
   unit: "words",
   publishedAt: "2026-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3216502/chapter-1762-be-at-peace",
-  externalId: "3216502",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3216502",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3216502/chapter-1762-be-at-peace",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0248Chapter1599AWorthyCapture = {
   unit: "words",
   completedAt: "2026-06-29T19:51:44.953Z",
   publishedAt: "2025-07-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2407367/chapter-1599-a-worthy-capture",
-  externalId: "2407367",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2407367",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2407367/chapter-1599-a-worthy-capture",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0162Chapter1514WaveBreaks = {
   unit: "words",
   completedAt: "2026-06-29T19:49:01.664Z",
   publishedAt: "2025-02-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2079831/chapter-1514-wave-breaks",
-  externalId: "2079831",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2079831",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2079831/chapter-1514-wave-breaks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

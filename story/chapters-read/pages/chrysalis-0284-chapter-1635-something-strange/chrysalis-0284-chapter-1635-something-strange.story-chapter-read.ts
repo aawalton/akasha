@@ -12,9 +12,13 @@ export const chrysalis0284Chapter1635SomethingStrange = {
   unit: "words",
   completedAt: "2026-06-29T19:52:53.752Z",
   publishedAt: "2025-09-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2564236/chapter-1635-something-strange",
-  externalId: "2564236",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2564236",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2564236/chapter-1635-something-strange",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

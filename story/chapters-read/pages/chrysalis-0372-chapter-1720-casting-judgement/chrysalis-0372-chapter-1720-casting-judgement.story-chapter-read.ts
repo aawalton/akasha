@@ -12,9 +12,13 @@ export const chrysalis0372Chapter1720CastingJudgement = {
   unit: "words",
   completedAt: "2026-06-29T19:55:42.253Z",
   publishedAt: "2026-01-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2979155/chapter-1720-casting-judgement",
-  externalId: "2979155",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2979155",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2979155/chapter-1720-casting-judgement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

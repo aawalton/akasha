@@ -12,9 +12,13 @@ export const chrysalis0145Chapter1497WellNow = {
   unit: "words",
   completedAt: "2026-06-29T19:48:29.475Z",
   publishedAt: "2025-01-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2035355/chapter-1497-well-now",
-  externalId: "2035355",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2035355",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2035355/chapter-1497-well-now",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chrysalis0423Chapter1771TheHiddenHighway = {
   ownLength: 981,
   unit: "words",
   publishedAt: "2026-04-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3270834/chapter-1771-the-hidden-highway",
-  externalId: "3270834",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3270834",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3270834/chapter-1771-the-hidden-highway",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

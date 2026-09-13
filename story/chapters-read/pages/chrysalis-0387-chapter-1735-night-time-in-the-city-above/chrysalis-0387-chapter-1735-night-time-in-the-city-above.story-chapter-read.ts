@@ -12,9 +12,13 @@ export const chrysalis0387Chapter1735NightTimeInTheCityAbove = {
   unit: "words",
   completedAt: "2026-06-29T19:56:11.135Z",
   publishedAt: "2026-02-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3057848/chapter-1735-night-time-in-the-city-above",
-  externalId: "3057848",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3057848",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3057848/chapter-1735-night-time-in-the-city-above",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

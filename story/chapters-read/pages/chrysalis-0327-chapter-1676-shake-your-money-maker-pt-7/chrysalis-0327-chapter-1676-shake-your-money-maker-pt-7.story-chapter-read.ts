@@ -12,9 +12,13 @@ export const chrysalis0327Chapter1676ShakeYourMoneyMakerPt7 = {
   unit: "words",
   completedAt: "2026-06-29T19:54:16.440Z",
   publishedAt: "2025-10-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2712990/chapter-1676-shake-your-money-maker-pt-7",
-  externalId: "2712990",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2712990",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2712990/chapter-1676-shake-your-money-maker-pt-7",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

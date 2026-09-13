@@ -12,9 +12,13 @@ export const chrysalis0155Chapter1507HardWork = {
   unit: "words",
   completedAt: "2026-06-29T19:48:48.384Z",
   publishedAt: "2025-02-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2061801/chapter-1507-hard-work",
-  externalId: "2061801",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2061801",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2061801/chapter-1507-hard-work",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

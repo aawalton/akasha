@@ -10,9 +10,13 @@ export const chrysalis0493Chapter1838InvestmentStrategy = {
   ownLength: 957,
   unit: "words",
   publishedAt: "2026-08-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3776185/chapter-1838-investment-strategy",
-  externalId: "3776185",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3776185",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3776185/chapter-1838-investment-strategy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

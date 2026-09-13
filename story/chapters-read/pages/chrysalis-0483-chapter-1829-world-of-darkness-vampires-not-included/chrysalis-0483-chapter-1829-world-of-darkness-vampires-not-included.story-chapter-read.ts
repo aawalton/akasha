@@ -10,9 +10,13 @@ export const chrysalis0483Chapter1829WorldOfDarknessVampiresNotIncluded = {
   ownLength: 910,
   unit: "words",
   publishedAt: "2026-07-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3624554/chapter-1829-world-of-darkness-vampires-not-included",
-  externalId: "3624554",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3624554",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3624554/chapter-1829-world-of-darkness-vampires-not-included",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

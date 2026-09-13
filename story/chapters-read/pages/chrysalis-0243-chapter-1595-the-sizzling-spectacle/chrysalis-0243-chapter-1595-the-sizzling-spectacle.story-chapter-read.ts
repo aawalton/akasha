@@ -12,9 +12,13 @@ export const chrysalis0243Chapter1595TheSizzlingSpectacle = {
   unit: "words",
   completedAt: "2026-06-29T19:51:35.349Z",
   publishedAt: "2025-06-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2395925/chapter-1595-the-sizzling-spectacle",
-  externalId: "2395925",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2395925",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2395925/chapter-1595-the-sizzling-spectacle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chrysalis0485Chapter1830SongOfTheSnail = {
   ownLength: 851,
   unit: "words",
   publishedAt: "2026-07-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3735237/chapter-1830-song-of-the-snail",
-  externalId: "3735237",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3735237",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3735237/chapter-1830-song-of-the-snail",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

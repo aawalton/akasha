@@ -12,9 +12,13 @@ export const chrysalis0321KickstarterIsLive = {
   unit: "words",
   completedAt: "2026-06-29T19:54:04.923Z",
   publishedAt: "2025-10-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2694683/kickstarter-is-live",
-  externalId: "2694683",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2694683",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2694683/kickstarter-is-live",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

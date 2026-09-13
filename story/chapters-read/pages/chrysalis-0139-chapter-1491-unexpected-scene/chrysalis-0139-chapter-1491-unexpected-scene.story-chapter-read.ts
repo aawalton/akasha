@@ -12,9 +12,13 @@ export const chrysalis0139Chapter1491UnexpectedScene = {
   unit: "words",
   completedAt: "2026-06-29T19:48:17.707Z",
   publishedAt: "2025-01-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2021415/chapter-1491-unexpected-scene",
-  externalId: "2021415",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2021415",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2021415/chapter-1491-unexpected-scene",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

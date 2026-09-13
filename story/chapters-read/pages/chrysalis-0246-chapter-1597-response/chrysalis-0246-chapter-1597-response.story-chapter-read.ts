@@ -12,9 +12,13 @@ export const chrysalis0246Chapter1597Response = {
   unit: "words",
   completedAt: "2026-06-29T19:51:41.083Z",
   publishedAt: "2025-07-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2401995/chapter-1597-response",
-  externalId: "2401995",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2401995",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2401995/chapter-1597-response",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

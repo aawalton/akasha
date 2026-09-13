@@ -12,9 +12,13 @@ export const chrysalis0199Chapter1551SkillsOfTheSophos = {
   unit: "words",
   completedAt: "2026-06-29T19:50:11.243Z",
   publishedAt: "2025-04-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2202878/chapter-1551-skills-of-the-sophos",
-  externalId: "2202878",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2202878",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2202878/chapter-1551-skills-of-the-sophos",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

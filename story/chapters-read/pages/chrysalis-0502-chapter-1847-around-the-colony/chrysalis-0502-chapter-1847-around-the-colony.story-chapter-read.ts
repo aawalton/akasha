@@ -10,9 +10,13 @@ export const chrysalis0502Chapter1847AroundTheColony = {
   ownLength: 1147,
   unit: "words",
   publishedAt: "2026-08-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3832550/chapter-1847-around-the-colony",
-  externalId: "3832550",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3832550",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3832550/chapter-1847-around-the-colony",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

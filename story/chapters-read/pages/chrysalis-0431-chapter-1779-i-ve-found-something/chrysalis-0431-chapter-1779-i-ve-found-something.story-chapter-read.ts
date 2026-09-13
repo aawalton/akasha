@@ -10,9 +10,13 @@ export const chrysalis0431Chapter1779IVeFoundSomething = {
   ownLength: 937,
   unit: "words",
   publishedAt: "2026-04-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3311494/chapter-1779-ive-found-something",
-  externalId: "3311494",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3311494",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3311494/chapter-1779-ive-found-something",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

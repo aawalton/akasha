@@ -10,9 +10,13 @@ export const chrysalis0433Chapter1781BadToWorse = {
   ownLength: 1032,
   unit: "words",
   publishedAt: "2026-04-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3327327/chapter-1781-bad-to-worse",
-  externalId: "3327327",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3327327",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3327327/chapter-1781-bad-to-worse",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

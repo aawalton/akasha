@@ -12,9 +12,13 @@ export const chrysalis0288Chapter1639PreciousSecrets = {
   unit: "words",
   completedAt: "2026-06-29T19:53:01.511Z",
   publishedAt: "2025-09-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2575255/chapter-1639-precious-secrets",
-  externalId: "2575255",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2575255",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2575255/chapter-1639-precious-secrets",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

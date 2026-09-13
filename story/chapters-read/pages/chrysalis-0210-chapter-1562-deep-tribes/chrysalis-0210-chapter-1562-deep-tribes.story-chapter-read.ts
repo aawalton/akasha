@@ -12,9 +12,13 @@ export const chrysalis0210Chapter1562DeepTribes = {
   unit: "words",
   completedAt: "2026-06-29T19:50:32.136Z",
   publishedAt: "2025-04-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2242256/chapter-1562-deep-tribes",
-  externalId: "2242256",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2242256",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2242256/chapter-1562-deep-tribes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

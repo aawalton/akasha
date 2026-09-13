@@ -12,9 +12,13 @@ export const chrysalis0364Chapter1712LikeRats = {
   unit: "words",
   completedAt: "2026-06-29T19:55:27.339Z",
   publishedAt: "2026-01-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2940679/chapter-1712-like-rats",
-  externalId: "2940679",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2940679",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2940679/chapter-1712-like-rats",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chrysalis0506Chapter1851CursedDarkness = {
   ownLength: 1283,
   unit: "words",
   publishedAt: "2026-08-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3861596/chapter-1851-cursed-darkness",
-  externalId: "3861596",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3861596",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3861596/chapter-1851-cursed-darkness",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

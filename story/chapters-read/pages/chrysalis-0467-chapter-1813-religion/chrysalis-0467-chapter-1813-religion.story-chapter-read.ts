@@ -10,9 +10,13 @@ export const chrysalis0467Chapter1813Religion = {
   ownLength: 854,
   unit: "words",
   publishedAt: "2026-06-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3522271/chapter-1813-religion",
-  externalId: "3522271",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3522271",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3522271/chapter-1813-religion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

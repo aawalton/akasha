@@ -12,9 +12,13 @@ export const chrysalis0352Chapter1700Scolded = {
   unit: "words",
   completedAt: "2026-06-29T19:55:04.484Z",
   publishedAt: "2025-12-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2831493/chapter-1700-scolded",
-  externalId: "2831493",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2831493",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2831493/chapter-1700-scolded",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

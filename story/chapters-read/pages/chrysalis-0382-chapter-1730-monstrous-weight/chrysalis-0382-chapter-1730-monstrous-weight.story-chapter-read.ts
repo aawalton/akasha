@@ -12,9 +12,13 @@ export const chrysalis0382Chapter1730MonstrousWeight = {
   unit: "words",
   completedAt: "2026-06-29T19:56:01.480Z",
   publishedAt: "2026-02-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3026661/chapter-1730-monstrous-weight",
-  externalId: "3026661",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3026661",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3026661/chapter-1730-monstrous-weight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

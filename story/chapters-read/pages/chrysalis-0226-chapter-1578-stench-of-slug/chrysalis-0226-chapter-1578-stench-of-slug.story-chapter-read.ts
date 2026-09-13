@@ -12,9 +12,13 @@ export const chrysalis0226Chapter1578StenchOfSlug = {
   unit: "words",
   completedAt: "2026-06-29T19:51:02.645Z",
   publishedAt: "2025-06-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2331458/chapter-1578-stench-of-slug",
-  externalId: "2331458",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2331458",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2331458/chapter-1578-stench-of-slug",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

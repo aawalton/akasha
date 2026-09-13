@@ -10,9 +10,13 @@ export const chrysalis0497Chapter1842Wuff = {
   ownLength: 946,
   unit: "words",
   publishedAt: "2026-08-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3802362/chapter-1842-wuff",
-  externalId: "3802362",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3802362",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3802362/chapter-1842-wuff",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

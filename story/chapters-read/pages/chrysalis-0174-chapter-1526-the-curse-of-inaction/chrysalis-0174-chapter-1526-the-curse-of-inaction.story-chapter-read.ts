@@ -12,9 +12,13 @@ export const chrysalis0174Chapter1526TheCurseOfInaction = {
   unit: "words",
   completedAt: "2026-06-29T19:49:24.631Z",
   publishedAt: "2025-03-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2118642/chapter-1526-the-curse-of-inaction",
-  externalId: "2118642",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2118642",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2118642/chapter-1526-the-curse-of-inaction",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

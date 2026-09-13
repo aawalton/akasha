@@ -12,9 +12,13 @@ export const chrysalis0238Chapter1590TugOfWar = {
   unit: "words",
   completedAt: "2026-06-29T19:51:25.521Z",
   publishedAt: "2025-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2380731/chapter-1590-tug-of-war",
-  externalId: "2380731",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2380731",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2380731/chapter-1590-tug-of-war",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

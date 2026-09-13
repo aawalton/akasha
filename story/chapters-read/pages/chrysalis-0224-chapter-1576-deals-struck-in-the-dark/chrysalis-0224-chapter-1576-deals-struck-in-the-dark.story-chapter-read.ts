@@ -12,9 +12,13 @@ export const chrysalis0224Chapter1576DealsStruckInTheDark = {
   unit: "words",
   completedAt: "2026-06-29T19:50:58.798Z",
   publishedAt: "2025-06-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2326470/chapter-1576-deals-struck-in-the-dark",
-  externalId: "2326470",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2326470",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2326470/chapter-1576-deals-struck-in-the-dark",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0007ChapterFiveAnInsightfulAfternoon = {
   ownLength: 2044,
   unit: "words",
   publishedAt: "2020-04-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/480002/chapter-five-an-insightful-afternoon",
-  externalId: "480002",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "480002",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/480002/chapter-five-an-insightful-afternoon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0241Chapter1593InvasiveOoze = {
   unit: "words",
   completedAt: "2026-06-29T19:51:31.154Z",
   publishedAt: "2025-06-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2385848/chapter-1593-invasive-ooze",
-  externalId: "2385848",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2385848",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2385848/chapter-1593-invasive-ooze",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chrysalis0420Chapter1768TitansFightBriefly = {
   ownLength: 1138,
   unit: "words",
   publishedAt: "2026-04-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3250228/chapter-1768-titans-fight-briefly",
-  externalId: "3250228",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3250228",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3250228/chapter-1768-titans-fight-briefly",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

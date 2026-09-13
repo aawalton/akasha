@@ -12,9 +12,13 @@ export const chrysalis0349Chapter1697Captured = {
   unit: "words",
   completedAt: "2026-06-29T19:54:58.662Z",
   publishedAt: "2025-12-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2813696/chapter-1697-captured",
-  externalId: "2813696",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2813696",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2813696/chapter-1697-captured",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

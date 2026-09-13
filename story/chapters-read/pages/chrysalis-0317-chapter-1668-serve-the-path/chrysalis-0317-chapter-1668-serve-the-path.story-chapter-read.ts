@@ -12,9 +12,13 @@ export const chrysalis0317Chapter1668ServeThePath = {
   unit: "words",
   completedAt: "2026-06-29T19:53:57.177Z",
   publishedAt: "2025-10-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2679952/chapter-1668-serve-the-path",
-  externalId: "2679952",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2679952",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2679952/chapter-1668-serve-the-path",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

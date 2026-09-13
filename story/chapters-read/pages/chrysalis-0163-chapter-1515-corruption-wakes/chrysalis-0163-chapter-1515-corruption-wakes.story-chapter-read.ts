@@ -12,9 +12,13 @@ export const chrysalis0163Chapter1515CorruptionWakes = {
   unit: "words",
   completedAt: "2026-06-29T19:49:03.535Z",
   publishedAt: "2025-02-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2087994/chapter-1515-corruption-wakes",
-  externalId: "2087994",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2087994",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2087994/chapter-1515-corruption-wakes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

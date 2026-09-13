@@ -12,9 +12,13 @@ export const chrysalis0233Chapter1585ForwardFacingColony = {
   unit: "words",
   completedAt: "2026-06-29T19:51:16.157Z",
   publishedAt: "2025-06-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2360313/chapter-1585-forward-facing-colony",
-  externalId: "2360313",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2360313",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2360313/chapter-1585-forward-facing-colony",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

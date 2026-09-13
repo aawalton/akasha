@@ -10,9 +10,13 @@ export const chrysalis0503Chapter1848Seawall = {
   ownLength: 1021,
   unit: "words",
   publishedAt: "2026-08-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3841421/chapter-1848-seawall",
-  externalId: "3841421",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3841421",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3841421/chapter-1848-seawall",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chrysalis0458Chapter1805QuickBoutOfMutatin = {
   ownLength: 975,
   unit: "words",
   publishedAt: "2026-06-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3476020/chapter-1805-quick-bout-of-mutatin",
-  externalId: "3476020",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3476020",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3476020/chapter-1805-quick-bout-of-mutatin",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

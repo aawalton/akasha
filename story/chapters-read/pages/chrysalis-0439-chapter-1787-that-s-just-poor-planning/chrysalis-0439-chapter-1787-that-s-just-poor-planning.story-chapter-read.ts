@@ -10,9 +10,13 @@ export const chrysalis0439Chapter1787ThatSJustPoorPlanning = {
   ownLength: 1002,
   unit: "words",
   publishedAt: "2026-05-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3360402/chapter-1787-thats-just-poor-planning",
-  externalId: "3360402",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3360402",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3360402/chapter-1787-thats-just-poor-planning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

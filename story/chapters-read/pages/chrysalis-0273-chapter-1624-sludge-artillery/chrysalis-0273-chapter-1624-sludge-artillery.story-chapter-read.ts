@@ -12,9 +12,13 @@ export const chrysalis0273Chapter1624SludgeArtillery = {
   unit: "words",
   completedAt: "2026-06-29T19:52:32.964Z",
   publishedAt: "2025-08-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2519058/chapter-1624-sludge-artillery",
-  externalId: "2519058",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2519058",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2519058/chapter-1624-sludge-artillery",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

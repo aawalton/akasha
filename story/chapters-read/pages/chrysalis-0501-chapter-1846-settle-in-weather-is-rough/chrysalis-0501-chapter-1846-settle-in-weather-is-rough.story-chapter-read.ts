@@ -10,9 +10,13 @@ export const chrysalis0501Chapter1846SettleInWeatherIsRough = {
   ownLength: 1089,
   unit: "words",
   publishedAt: "2026-08-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3828658/chapter-1846-settle-in-weather-is-rough",
-  externalId: "3828658",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3828658",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3828658/chapter-1846-settle-in-weather-is-rough",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

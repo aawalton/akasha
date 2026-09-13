@@ -12,9 +12,13 @@ export const chrysalis0339Chapter1687FinalAssessment = {
   unit: "words",
   completedAt: "2026-06-29T19:54:39.384Z",
   publishedAt: "2025-11-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2773281/chapter-1687-final-assessment",
-  externalId: "2773281",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2773281",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2773281/chapter-1687-final-assessment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

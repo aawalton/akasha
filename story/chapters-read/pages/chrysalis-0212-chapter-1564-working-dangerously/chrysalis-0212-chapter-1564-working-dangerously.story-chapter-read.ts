@@ -12,9 +12,13 @@ export const chrysalis0212Chapter1564WorkingDangerously = {
   unit: "words",
   completedAt: "2026-06-29T19:50:36.030Z",
   publishedAt: "2025-05-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2247932/chapter-1564-working-dangerously",
-  externalId: "2247932",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2247932",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2247932/chapter-1564-working-dangerously",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0215Chapter1567EndlessSong = {
   unit: "words",
   completedAt: "2026-06-29T19:50:41.774Z",
   publishedAt: "2025-05-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2294268/chapter-1567-endless-song",
-  externalId: "2294268",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2294268",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2294268/chapter-1567-endless-song",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

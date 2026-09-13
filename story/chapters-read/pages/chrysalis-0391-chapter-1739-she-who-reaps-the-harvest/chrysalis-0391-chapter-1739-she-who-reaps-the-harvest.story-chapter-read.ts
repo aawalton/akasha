@@ -12,9 +12,13 @@ export const chrysalis0391Chapter1739SheWhoReapsTheHarvest = {
   unit: "words",
   completedAt: "2026-06-29T19:56:18.288Z",
   publishedAt: "2026-02-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3072747/chapter-1739-she-who-reaps-the-harvest",
-  externalId: "3072747",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3072747",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3072747/chapter-1739-she-who-reaps-the-harvest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

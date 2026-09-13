@@ -12,9 +12,13 @@ export const chrysalis0338Chapter1686Transformation = {
   unit: "words",
   completedAt: "2026-06-29T19:54:37.474Z",
   publishedAt: "2025-11-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2770541/chapter-1686-transformation",
-  externalId: "2770541",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2770541",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2770541/chapter-1686-transformation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0378Chapter1726UnexpectedWins = {
   unit: "words",
   completedAt: "2026-06-29T19:55:53.748Z",
   publishedAt: "2026-02-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3007033/chapter-1726-unexpected-wins",
-  externalId: "3007033",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3007033",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3007033/chapter-1726-unexpected-wins",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

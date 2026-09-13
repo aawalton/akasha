@@ -12,9 +12,13 @@ export const chrysalis0209Chapter1561PoundingHeart = {
   unit: "words",
   completedAt: "2026-06-29T19:50:30.350Z",
   publishedAt: "2025-04-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2239556/chapter-1561-pounding-heart",
-  externalId: "2239556",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2239556",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2239556/chapter-1561-pounding-heart",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

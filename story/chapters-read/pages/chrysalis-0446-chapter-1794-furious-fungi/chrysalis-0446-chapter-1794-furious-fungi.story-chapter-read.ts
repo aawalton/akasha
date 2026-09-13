@@ -10,9 +10,13 @@ export const chrysalis0446Chapter1794FuriousFungi = {
   ownLength: 1001,
   unit: "words",
   publishedAt: "2026-05-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3397532/chapter-1794-furious-fungi",
-  externalId: "3397532",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3397532",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3397532/chapter-1794-furious-fungi",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

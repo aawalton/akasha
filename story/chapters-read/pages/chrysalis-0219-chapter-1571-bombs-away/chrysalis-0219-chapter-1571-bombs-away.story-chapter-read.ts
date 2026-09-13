@@ -12,9 +12,13 @@ export const chrysalis0219Chapter1571BombsAway = {
   unit: "words",
   completedAt: "2026-06-29T19:50:49.278Z",
   publishedAt: "2025-05-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2308390/chapter-1571-bombs-away",
-  externalId: "2308390",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2308390",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2308390/chapter-1571-bombs-away",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

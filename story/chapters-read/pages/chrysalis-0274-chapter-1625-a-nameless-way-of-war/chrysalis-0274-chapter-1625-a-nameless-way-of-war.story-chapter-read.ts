@@ -12,9 +12,13 @@ export const chrysalis0274Chapter1625ANamelessWayOfWar = {
   unit: "words",
   completedAt: "2026-06-29T19:52:34.888Z",
   publishedAt: "2025-08-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2526600/chapter-1625-a-nameless-way-of-war",
-  externalId: "2526600",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2526600",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2526600/chapter-1625-a-nameless-way-of-war",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

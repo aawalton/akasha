@@ -12,9 +12,13 @@ export const chrysalis0393Chapter1741ReturnAndReflect = {
   unit: "words",
   completedAt: "2026-06-29T19:56:22.086Z",
   publishedAt: "2026-02-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3085900/chapter-1741-return-and-reflect",
-  externalId: "3085900",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3085900",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3085900/chapter-1741-return-and-reflect",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

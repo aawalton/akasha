@@ -12,9 +12,13 @@ export const chrysalis0138Chapter1490UnexpectedTwist = {
   unit: "words",
   completedAt: "2026-06-29T19:48:15.749Z",
   publishedAt: "2025-01-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2021412/chapter-1490-unexpected-twist",
-  externalId: "2021412",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2021412",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2021412/chapter-1490-unexpected-twist",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

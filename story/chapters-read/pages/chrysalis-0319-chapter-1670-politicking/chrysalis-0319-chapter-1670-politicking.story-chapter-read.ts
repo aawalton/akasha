@@ -12,9 +12,13 @@ export const chrysalis0319Chapter1670Politicking = {
   unit: "words",
   completedAt: "2026-06-29T19:54:01.016Z",
   publishedAt: "2025-10-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2689781/chapter-1670-politicking",
-  externalId: "2689781",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2689781",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2689781/chapter-1670-politicking",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

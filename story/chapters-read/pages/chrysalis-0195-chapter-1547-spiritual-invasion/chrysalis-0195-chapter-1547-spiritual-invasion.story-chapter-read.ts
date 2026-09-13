@@ -12,9 +12,13 @@ export const chrysalis0195Chapter1547SpiritualInvasion = {
   unit: "words",
   completedAt: "2026-06-29T19:50:03.684Z",
   publishedAt: "2025-04-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2186320/chapter-1547-spiritual-invasion",
-  externalId: "2186320",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2186320",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2186320/chapter-1547-spiritual-invasion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0277Chapter1628LoseTheCoreOfWhoYouAre = {
   unit: "words",
   completedAt: "2026-06-29T19:52:40.501Z",
   publishedAt: "2025-08-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2534891/chapter-1628-lose-the-core-of-who-you-are",
-  externalId: "2534891",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2534891",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2534891/chapter-1628-lose-the-core-of-who-you-are",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0151Chapter1503AbsenceMakesTheHeartGrowFonder = {
   unit: "words",
   completedAt: "2026-06-29T19:48:40.711Z",
   publishedAt: "2025-02-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2050317/chapter-1503-absence-makes-the-heart-grow-fonder",
-  externalId: "2050317",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2050317",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2050317/chapter-1503-absence-makes-the-heart-grow-fonder",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

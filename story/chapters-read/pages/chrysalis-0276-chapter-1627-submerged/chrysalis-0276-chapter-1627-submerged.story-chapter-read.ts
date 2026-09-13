@@ -12,9 +12,13 @@ export const chrysalis0276Chapter1627Submerged = {
   unit: "words",
   completedAt: "2026-06-29T19:52:38.595Z",
   publishedAt: "2025-08-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2532143/chapter-1627-submerged",
-  externalId: "2532143",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2532143",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2532143/chapter-1627-submerged",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

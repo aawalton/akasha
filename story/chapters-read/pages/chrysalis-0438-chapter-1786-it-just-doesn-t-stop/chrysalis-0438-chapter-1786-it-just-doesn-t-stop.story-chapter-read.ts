@@ -10,9 +10,13 @@ export const chrysalis0438Chapter1786ItJustDoesnTStop = {
   ownLength: 1085,
   unit: "words",
   publishedAt: "2026-05-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3356198/chapter-1786-it-just-doesnt-stop",
-  externalId: "3356198",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3356198",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3356198/chapter-1786-it-just-doesnt-stop",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

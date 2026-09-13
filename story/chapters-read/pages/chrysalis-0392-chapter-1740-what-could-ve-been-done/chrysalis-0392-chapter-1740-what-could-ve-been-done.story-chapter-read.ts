@@ -12,9 +12,13 @@ export const chrysalis0392Chapter1740WhatCouldVeBeenDone = {
   unit: "words",
   completedAt: "2026-06-29T19:56:20.169Z",
   publishedAt: "2026-02-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3082247/chapter-1740-what-couldve-been-done",
-  externalId: "3082247",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3082247",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3082247/chapter-1740-what-couldve-been-done",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0397Chapter1745HeresyMeetsHeresy = {
   unit: "words",
   completedAt: "2026-06-29T19:56:29.789Z",
   publishedAt: "2026-03-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3106522/chapter-1745-heresy-meets-heresy",
-  externalId: "3106522",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3106522",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3106522/chapter-1745-heresy-meets-heresy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

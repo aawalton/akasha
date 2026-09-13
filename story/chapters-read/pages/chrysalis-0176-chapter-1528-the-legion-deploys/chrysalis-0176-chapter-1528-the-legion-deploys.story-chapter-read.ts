@@ -12,9 +12,13 @@ export const chrysalis0176Chapter1528TheLegionDeploys = {
   unit: "words",
   completedAt: "2026-06-29T19:49:28.362Z",
   publishedAt: "2025-03-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2122961/chapter-1528-the-legion-deploys",
-  externalId: "2122961",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2122961",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2122961/chapter-1528-the-legion-deploys",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

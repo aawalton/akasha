@@ -12,9 +12,13 @@ export const chrysalis0348Chapter1696HowTheTablesDoTheTurnThing = {
   unit: "words",
   completedAt: "2026-06-29T19:54:56.746Z",
   publishedAt: "2025-12-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2810693/chapter-1696-how-the-tables-do-the-turn-thing",
-  externalId: "2810693",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2810693",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2810693/chapter-1696-how-the-tables-do-the-turn-thing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

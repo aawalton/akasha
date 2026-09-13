@@ -12,9 +12,13 @@ export const chrysalis0158Chapter1510TheWallsSlamShut = {
   unit: "words",
   completedAt: "2026-06-29T19:48:54.001Z",
   publishedAt: "2025-02-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2073705/chapter-1510-the-walls-slam-shut",
-  externalId: "2073705",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2073705",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2073705/chapter-1510-the-walls-slam-shut",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

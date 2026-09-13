@@ -10,9 +10,13 @@ export const chrysalis0462Chapter1808TunnelChaos = {
   ownLength: 793,
   unit: "words",
   publishedAt: "2026-06-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3490351/chapter-1808-tunnel-chaos",
-  externalId: "3490351",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3490351",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3490351/chapter-1808-tunnel-chaos",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chrysalis0499Chapter1844Conclave = {
   ownLength: 902,
   unit: "words",
   publishedAt: "2026-08-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3811232/chapter-1844-conclave",
-  externalId: "3811232",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3811232",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3811232/chapter-1844-conclave",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

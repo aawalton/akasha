@@ -12,9 +12,13 @@ export const chrysalis0265Chapter1616Eruption = {
   unit: "words",
   completedAt: "2026-06-29T19:52:17.701Z",
   publishedAt: "2025-08-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2492907/chapter-1616-eruption",
-  externalId: "2492907",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2492907",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2492907/chapter-1616-eruption",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

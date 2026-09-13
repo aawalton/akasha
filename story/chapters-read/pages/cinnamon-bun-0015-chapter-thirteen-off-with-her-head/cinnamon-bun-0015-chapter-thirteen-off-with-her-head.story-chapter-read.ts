@@ -10,9 +10,13 @@ export const cinnamonBun0015ChapterThirteenOffWithHerHead = {
   ownLength: 1969,
   unit: "words",
   publishedAt: "2020-04-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/489435/chapter-thirteen-off-with-her-head",
-  externalId: "489435",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "489435",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/489435/chapter-thirteen-off-with-her-head",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

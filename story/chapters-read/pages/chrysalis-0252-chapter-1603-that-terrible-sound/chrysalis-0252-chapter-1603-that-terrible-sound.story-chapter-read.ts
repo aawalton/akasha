@@ -12,9 +12,13 @@ export const chrysalis0252Chapter1603ThatTerribleSound = {
   unit: "words",
   completedAt: "2026-06-29T19:51:52.702Z",
   publishedAt: "2025-07-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2423075/chapter-1603-that-terrible-sound",
-  externalId: "2423075",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2423075",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2423075/chapter-1603-that-terrible-sound",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0251Chapter1602Cracks = {
   unit: "words",
   completedAt: "2026-06-29T19:51:50.773Z",
   publishedAt: "2025-07-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2420275/chapter-1602-cracks",
-  externalId: "2420275",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2420275",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2420275/chapter-1602-cracks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

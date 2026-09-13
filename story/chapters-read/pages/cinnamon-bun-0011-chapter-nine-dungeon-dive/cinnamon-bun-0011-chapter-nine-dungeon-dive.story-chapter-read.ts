@@ -10,9 +10,13 @@ export const cinnamonBun0011ChapterNineDungeonDive = {
   ownLength: 2049,
   unit: "words",
   publishedAt: "2020-04-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/485041/chapter-nine-dungeon-dive",
-  externalId: "485041",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "485041",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/485041/chapter-nine-dungeon-dive",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

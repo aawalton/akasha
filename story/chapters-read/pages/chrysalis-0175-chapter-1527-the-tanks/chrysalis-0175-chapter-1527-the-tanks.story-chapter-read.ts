@@ -12,9 +12,13 @@ export const chrysalis0175Chapter1527TheTanks = {
   unit: "words",
   completedAt: "2026-06-29T19:49:26.457Z",
   publishedAt: "2025-03-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2120823/chapter-1527-the-tanks",
-  externalId: "2120823",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2120823",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2120823/chapter-1527-the-tanks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

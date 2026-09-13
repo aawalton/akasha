@@ -10,9 +10,13 @@ export const chrysalis0478Chapter1824BroodMother = {
   ownLength: 991,
   unit: "words",
   publishedAt: "2026-06-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3591860/chapter-1824-brood-mother",
-  externalId: "3591860",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3591860",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3591860/chapter-1824-brood-mother",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

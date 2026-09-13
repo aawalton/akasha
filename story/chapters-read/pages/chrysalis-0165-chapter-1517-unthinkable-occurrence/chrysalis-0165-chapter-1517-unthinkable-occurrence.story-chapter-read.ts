@@ -12,9 +12,13 @@ export const chrysalis0165Chapter1517UnthinkableOccurrence = {
   unit: "words",
   completedAt: "2026-06-29T19:49:07.360Z",
   publishedAt: "2025-02-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2089825/chapter-1517-unthinkable-occurrence",
-  externalId: "2089825",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2089825",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2089825/chapter-1517-unthinkable-occurrence",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

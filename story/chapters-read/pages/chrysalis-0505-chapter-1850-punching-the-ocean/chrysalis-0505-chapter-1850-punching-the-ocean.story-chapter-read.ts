@@ -10,9 +10,13 @@ export const chrysalis0505Chapter1850PunchingTheOcean = {
   ownLength: 917,
   unit: "words",
   publishedAt: "2026-08-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3856298/chapter-1850-punching-the-ocean",
-  externalId: "3856298",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3856298",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3856298/chapter-1850-punching-the-ocean",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

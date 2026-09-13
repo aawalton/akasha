@@ -12,9 +12,13 @@ export const chrysalis0153Chapter1505IAlmostDonTWantToLook = {
   unit: "words",
   completedAt: "2026-06-29T19:48:44.556Z",
   publishedAt: "2025-02-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2061796/chapter-1505-i-almost-dont-want-to-look",
-  externalId: "2061796",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2061796",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2061796/chapter-1505-i-almost-dont-want-to-look",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

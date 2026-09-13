@@ -10,9 +10,13 @@ export const chrysalis0471Chapter1817AirWays = {
   ownLength: 1172,
   unit: "words",
   publishedAt: "2026-06-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3550133/chapter-1817-air-ways",
-  externalId: "3550133",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3550133",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3550133/chapter-1817-air-ways",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

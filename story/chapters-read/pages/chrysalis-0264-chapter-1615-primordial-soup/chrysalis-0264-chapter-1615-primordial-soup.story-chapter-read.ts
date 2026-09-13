@@ -12,9 +12,13 @@ export const chrysalis0264Chapter1615PrimordialSoup = {
   unit: "words",
   completedAt: "2026-06-29T19:52:15.772Z",
   publishedAt: "2025-08-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2490062/chapter-1615-primordial-soup",
-  externalId: "2490062",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2490062",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2490062/chapter-1615-primordial-soup",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

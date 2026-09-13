@@ -12,9 +12,13 @@ export const chrysalis0368Chapter1716BeamOfTheHeavens = {
   unit: "words",
   completedAt: "2026-06-29T19:55:35.089Z",
   publishedAt: "2026-01-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2959800/chapter-1716-beam-of-the-heavens",
-  externalId: "2959800",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2959800",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2959800/chapter-1716-beam-of-the-heavens",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

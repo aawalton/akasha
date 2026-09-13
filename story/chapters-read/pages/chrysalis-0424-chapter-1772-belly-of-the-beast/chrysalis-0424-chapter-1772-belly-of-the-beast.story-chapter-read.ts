@@ -10,9 +10,13 @@ export const chrysalis0424Chapter1772BellyOfTheBeast = {
   ownLength: 962,
   unit: "words",
   publishedAt: "2026-04-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3275087/chapter-1772-belly-of-the-beast",
-  externalId: "3275087",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3275087",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3275087/chapter-1772-belly-of-the-beast",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

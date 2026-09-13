@@ -12,9 +12,13 @@ export const chrysalis0354Chapter1702HarderBetterFasterStronger = {
   unit: "words",
   completedAt: "2026-06-29T19:55:08.329Z",
   publishedAt: "2025-12-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2834314/chapter-1702-harder-better-faster-stronger",
-  externalId: "2834314",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2834314",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2834314/chapter-1702-harder-better-faster-stronger",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

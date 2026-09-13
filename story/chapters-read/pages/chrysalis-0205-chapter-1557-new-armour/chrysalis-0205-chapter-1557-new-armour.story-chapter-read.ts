@@ -12,9 +12,13 @@ export const chrysalis0205Chapter1557NewArmour = {
   unit: "words",
   completedAt: "2026-06-29T19:50:22.740Z",
   publishedAt: "2025-04-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2223576/chapter-1557-new-armour",
-  externalId: "2223576",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2223576",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2223576/chapter-1557-new-armour",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

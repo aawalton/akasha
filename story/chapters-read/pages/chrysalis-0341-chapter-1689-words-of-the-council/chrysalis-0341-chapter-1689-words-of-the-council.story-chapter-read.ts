@@ -12,9 +12,13 @@ export const chrysalis0341Chapter1689WordsOfTheCouncil = {
   unit: "words",
   completedAt: "2026-06-29T19:54:43.229Z",
   publishedAt: "2025-11-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2778954/chapter-1689-words-of-the-council",
-  externalId: "2778954",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2778954",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2778954/chapter-1689-words-of-the-council",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

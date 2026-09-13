@@ -12,9 +12,13 @@ export const chrysalis0143Chapter1495MoreChompIsMoreFun = {
   unit: "words",
   completedAt: "2026-06-29T19:48:25.489Z",
   publishedAt: "2025-01-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2035051/chapter-1495-more-chomp-is-more-fun",
-  externalId: "2035051",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2035051",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2035051/chapter-1495-more-chomp-is-more-fun",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

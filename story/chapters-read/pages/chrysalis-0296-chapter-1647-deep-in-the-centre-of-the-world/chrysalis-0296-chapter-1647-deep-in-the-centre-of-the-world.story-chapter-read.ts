@@ -12,9 +12,13 @@ export const chrysalis0296Chapter1647DeepInTheCentreOfTheWorld = {
   unit: "words",
   completedAt: "2026-06-29T19:53:17.013Z",
   publishedAt: "2025-09-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2606305/chapter-1647-deep-in-the-centre-of-the-world",
-  externalId: "2606305",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2606305",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2606305/chapter-1647-deep-in-the-centre-of-the-world",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

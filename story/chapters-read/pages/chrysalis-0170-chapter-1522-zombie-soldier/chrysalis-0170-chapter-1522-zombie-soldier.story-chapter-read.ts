@@ -12,9 +12,13 @@ export const chrysalis0170Chapter1522ZombieSoldier = {
   unit: "words",
   completedAt: "2026-06-29T19:49:16.926Z",
   publishedAt: "2025-03-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2104477/chapter-1522-zombie-soldier",
-  externalId: "2104477",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2104477",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2104477/chapter-1522-zombie-soldier",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

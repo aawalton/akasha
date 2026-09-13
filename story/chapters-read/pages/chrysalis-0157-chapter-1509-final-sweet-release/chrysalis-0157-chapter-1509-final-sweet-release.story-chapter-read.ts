@@ -12,9 +12,13 @@ export const chrysalis0157Chapter1509FinalSweetRelease = {
   unit: "words",
   completedAt: "2026-06-29T19:48:52.060Z",
   publishedAt: "2025-02-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2065662/chapter-1509-final-sweet-release",
-  externalId: "2065662",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2065662",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2065662/chapter-1509-final-sweet-release",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

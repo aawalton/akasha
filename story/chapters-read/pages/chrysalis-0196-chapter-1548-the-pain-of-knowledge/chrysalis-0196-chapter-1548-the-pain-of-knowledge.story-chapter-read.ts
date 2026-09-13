@@ -12,9 +12,13 @@ export const chrysalis0196Chapter1548ThePainOfKnowledge = {
   unit: "words",
   completedAt: "2026-06-29T19:50:05.601Z",
   publishedAt: "2025-04-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2189086/chapter-1548-the-pain-of-knowledge",
-  externalId: "2189086",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2189086",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2189086/chapter-1548-the-pain-of-knowledge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

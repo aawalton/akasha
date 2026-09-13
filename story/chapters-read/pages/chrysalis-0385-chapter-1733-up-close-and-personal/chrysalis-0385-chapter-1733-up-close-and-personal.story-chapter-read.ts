@@ -12,9 +12,13 @@ export const chrysalis0385Chapter1733UpCloseAndPersonal = {
   unit: "words",
   completedAt: "2026-06-29T19:56:07.273Z",
   publishedAt: "2026-02-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3038473/chapter-1733-up-close-and-personal",
-  externalId: "3038473",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3038473",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3038473/chapter-1733-up-close-and-personal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0389Chapter1737ThingsTookQuiteTheTurnForTheWorse = {
   unit: "words",
   completedAt: "2026-06-29T19:56:14.702Z",
   publishedAt: "2026-02-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3066337/chapter-1737-things-took-quite-the-turn-for-the",
-  externalId: "3066337",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3066337",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3066337/chapter-1737-things-took-quite-the-turn-for-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

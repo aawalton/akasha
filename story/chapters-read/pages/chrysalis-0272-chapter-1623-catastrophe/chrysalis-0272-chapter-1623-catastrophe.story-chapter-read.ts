@@ -12,9 +12,13 @@ export const chrysalis0272Chapter1623Catastrophe = {
   unit: "words",
   completedAt: "2026-06-29T19:52:31.174Z",
   publishedAt: "2025-08-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2516543/chapter-1623-catastrophe",
-  externalId: "2516543",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2516543",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2516543/chapter-1623-catastrophe",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

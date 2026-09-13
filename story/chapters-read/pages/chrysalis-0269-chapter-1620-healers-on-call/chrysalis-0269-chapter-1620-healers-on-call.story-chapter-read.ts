@@ -12,9 +12,13 @@ export const chrysalis0269Chapter1620HealersOnCall = {
   unit: "words",
   completedAt: "2026-06-29T19:52:25.329Z",
   publishedAt: "2025-08-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2508291/chapter-1620-healers-on-call",
-  externalId: "2508291",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2508291",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2508291/chapter-1620-healers-on-call",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

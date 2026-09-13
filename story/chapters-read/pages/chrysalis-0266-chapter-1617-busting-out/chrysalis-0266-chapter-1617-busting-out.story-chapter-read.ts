@@ -12,9 +12,13 @@ export const chrysalis0266Chapter1617BustingOut = {
   unit: "words",
   completedAt: "2026-06-29T19:52:19.631Z",
   publishedAt: "2025-08-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2495563/chapter-1617-busting-out",
-  externalId: "2495563",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2495563",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2495563/chapter-1617-busting-out",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

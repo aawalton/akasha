@@ -12,9 +12,13 @@ export const chrysalis0179Chapter1531UnbreakableAbyssalSteel = {
   unit: "words",
   completedAt: "2026-06-29T19:49:33.985Z",
   publishedAt: "2025-03-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2133471/chapter-1531-unbreakable-abyssal-steel",
-  externalId: "2133471",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2133471",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2133471/chapter-1531-unbreakable-abyssal-steel",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chrysalis0405Chapter1753OutIntoTheSlimeOnceMore = {
   ownLength: 1091,
   unit: "words",
   publishedAt: "2026-03-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3145673/chapter-1753-out-into-the-slime-once-more",
-  externalId: "3145673",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3145673",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3145673/chapter-1753-out-into-the-slime-once-more",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

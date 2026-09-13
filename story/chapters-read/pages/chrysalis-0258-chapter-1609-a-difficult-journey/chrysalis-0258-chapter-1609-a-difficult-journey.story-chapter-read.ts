@@ -12,9 +12,13 @@ export const chrysalis0258Chapter1609ADifficultJourney = {
   unit: "words",
   completedAt: "2026-06-29T19:52:04.250Z",
   publishedAt: "2025-07-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2444581/chapter-1609-a-difficult-journey",
-  externalId: "2444581",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2444581",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2444581/chapter-1609-a-difficult-journey",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

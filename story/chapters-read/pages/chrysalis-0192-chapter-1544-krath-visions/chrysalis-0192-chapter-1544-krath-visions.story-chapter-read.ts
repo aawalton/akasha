@@ -12,9 +12,13 @@ export const chrysalis0192Chapter1544KrathVisions = {
   unit: "words",
   completedAt: "2026-06-29T19:49:57.923Z",
   publishedAt: "2025-04-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2172575/chapter-1544-krath-visions",
-  externalId: "2172575",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2172575",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2172575/chapter-1544-krath-visions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

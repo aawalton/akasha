@@ -12,9 +12,13 @@ export const chrysalis0377Chapter1725FloatingAlongTheTunnels = {
   unit: "words",
   completedAt: "2026-06-29T19:55:51.825Z",
   publishedAt: "2026-02-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3003381/chapter-1725-floating-along-the-tunnels",
-  externalId: "3003381",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3003381",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3003381/chapter-1725-floating-along-the-tunnels",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

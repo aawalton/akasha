@@ -12,9 +12,13 @@ export const chrysalis0358Chapter1706PeopleTrading = {
   unit: "words",
   completedAt: "2026-06-29T19:55:15.740Z",
   publishedAt: "2025-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2857382/chapter-1706-people-trading",
-  externalId: "2857382",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2857382",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2857382/chapter-1706-people-trading",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

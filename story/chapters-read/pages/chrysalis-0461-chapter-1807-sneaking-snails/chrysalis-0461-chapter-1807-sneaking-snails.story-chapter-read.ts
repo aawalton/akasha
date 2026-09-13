@@ -10,9 +10,13 @@ export const chrysalis0461Chapter1807SneakingSnails = {
   ownLength: 1063,
   unit: "words",
   publishedAt: "2026-06-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3485419/chapter-1807-sneaking-snails",
-  externalId: "3485419",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3485419",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3485419/chapter-1807-sneaking-snails",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const cinnamonBun0008ChapterSixArmouredAndReady = {
   ownLength: 2096,
   unit: "words",
   publishedAt: "2020-04-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/481687/chapter-six-armoured-and-ready",
-  externalId: "481687",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "481687",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/481687/chapter-six-armoured-and-ready",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

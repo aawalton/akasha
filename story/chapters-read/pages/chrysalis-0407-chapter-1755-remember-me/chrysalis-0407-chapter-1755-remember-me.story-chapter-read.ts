@@ -10,9 +10,13 @@ export const chrysalis0407Chapter1755RememberMe = {
   ownLength: 1027,
   unit: "words",
   publishedAt: "2026-03-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3182044/chapter-1755-remember-me",
-  externalId: "3182044",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3182044",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3182044/chapter-1755-remember-me",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

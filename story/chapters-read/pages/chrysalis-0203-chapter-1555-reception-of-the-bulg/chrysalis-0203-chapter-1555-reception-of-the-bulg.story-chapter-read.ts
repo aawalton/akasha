@@ -12,9 +12,13 @@ export const chrysalis0203Chapter1555ReceptionOfTheBulg = {
   unit: "words",
   completedAt: "2026-06-29T19:50:18.916Z",
   publishedAt: "2025-04-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2218271/chapter-1555-reception-of-the-bulg",
-  externalId: "2218271",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2218271",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2218271/chapter-1555-reception-of-the-bulg",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

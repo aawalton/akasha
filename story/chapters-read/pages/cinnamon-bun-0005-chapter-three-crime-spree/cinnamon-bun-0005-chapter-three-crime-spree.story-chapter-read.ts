@@ -10,9 +10,13 @@ export const cinnamonBun0005ChapterThreeCrimeSpree = {
   ownLength: 2004,
   unit: "words",
   publishedAt: "2020-04-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/479147/chapter-three-crime-spree",
-  externalId: "479147",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "479147",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/479147/chapter-three-crime-spree",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

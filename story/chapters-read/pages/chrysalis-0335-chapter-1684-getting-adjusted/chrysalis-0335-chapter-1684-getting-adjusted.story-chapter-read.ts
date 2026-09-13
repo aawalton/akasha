@@ -12,9 +12,13 @@ export const chrysalis0335Chapter1684GettingAdjusted = {
   unit: "words",
   completedAt: "2026-06-29T19:54:31.742Z",
   publishedAt: "2025-11-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2739050/chapter-1684-getting-adjusted",
-  externalId: "2739050",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2739050",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2739050/chapter-1684-getting-adjusted",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

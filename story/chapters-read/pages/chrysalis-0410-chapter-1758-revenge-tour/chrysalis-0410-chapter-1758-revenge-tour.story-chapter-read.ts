@@ -10,9 +10,13 @@ export const chrysalis0410Chapter1758RevengeTour = {
   ownLength: 862,
   unit: "words",
   publishedAt: "2026-03-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3194279/chapter-1758-revenge-tour",
-  externalId: "3194279",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3194279",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3194279/chapter-1758-revenge-tour",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

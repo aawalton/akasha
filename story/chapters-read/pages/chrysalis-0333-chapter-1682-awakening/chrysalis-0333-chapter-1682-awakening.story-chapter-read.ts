@@ -12,9 +12,13 @@ export const chrysalis0333Chapter1682Awakening = {
   unit: "words",
   completedAt: "2026-06-29T19:54:27.917Z",
   publishedAt: "2025-11-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2733139/chapter-1682-awakening",
-  externalId: "2733139",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2733139",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2733139/chapter-1682-awakening",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0373Chapter1721ThatSNotAThing = {
   unit: "words",
   completedAt: "2026-06-29T19:55:44.259Z",
   publishedAt: "2026-01-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2982948/chapter-1721-thats-not-a-thing",
-  externalId: "2982948",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2982948",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2982948/chapter-1721-thats-not-a-thing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0237Chapter1589TheHeatIsOn = {
   unit: "words",
   completedAt: "2026-06-29T19:51:23.605Z",
   publishedAt: "2025-06-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2370193/chapter-1589-the-heat-is-on",
-  externalId: "2370193",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2370193",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2370193/chapter-1589-the-heat-is-on",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

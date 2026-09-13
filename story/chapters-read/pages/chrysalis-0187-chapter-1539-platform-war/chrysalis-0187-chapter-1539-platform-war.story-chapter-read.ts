@@ -12,9 +12,13 @@ export const chrysalis0187Chapter1539PlatformWar = {
   unit: "words",
   completedAt: "2026-06-29T19:49:48.860Z",
   publishedAt: "2025-03-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2155735/chapter-1539-platform-war",
-  externalId: "2155735",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2155735",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2155735/chapter-1539-platform-war",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

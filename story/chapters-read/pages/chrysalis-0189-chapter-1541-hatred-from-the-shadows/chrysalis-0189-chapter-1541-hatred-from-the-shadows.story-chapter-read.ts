@@ -12,9 +12,13 @@ export const chrysalis0189Chapter1541HatredFromTheShadows = {
   unit: "words",
   completedAt: "2026-06-29T19:49:52.415Z",
   publishedAt: "2025-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2164654/chapter-1541-hatred-from-the-shadows",
-  externalId: "2164654",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2164654",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2164654/chapter-1541-hatred-from-the-shadows",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chrysalis0437Chapter1785WorldOfSludge = {
   ownLength: 874,
   unit: "words",
   publishedAt: "2026-05-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3352012/chapter-1785-world-of-sludge",
-  externalId: "3352012",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3352012",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3352012/chapter-1785-world-of-sludge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0154Chapter1506CanIJustTakeItEasy = {
   unit: "words",
   completedAt: "2026-06-29T19:48:46.467Z",
   publishedAt: "2025-02-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2061800/chapter-1506-can-i-just-take-it-easy",
-  externalId: "2061800",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2061800",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2061800/chapter-1506-can-i-just-take-it-easy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chrysalis0511Chapter1856IntoTheLight = {
   ownLength: 1128,
   unit: "words",
   publishedAt: "2026-09-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3893505/chapter-1856-into-the-light",
-  externalId: "3893505",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3893505",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3893505/chapter-1856-into-the-light",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

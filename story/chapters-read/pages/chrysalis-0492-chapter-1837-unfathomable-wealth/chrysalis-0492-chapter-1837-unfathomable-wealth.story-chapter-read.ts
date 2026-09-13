@@ -10,9 +10,13 @@ export const chrysalis0492Chapter1837UnfathomableWealth = {
   ownLength: 1355,
   unit: "words",
   publishedAt: "2026-08-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3771633/chapter-1837-unfathomable-wealth",
-  externalId: "3771633",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3771633",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3771633/chapter-1837-unfathomable-wealth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

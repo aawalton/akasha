@@ -10,9 +10,13 @@ export const cinnamonBun0009ChapterSevenGrave = {
   ownLength: 2015,
   unit: "words",
   publishedAt: "2020-04-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/482677/chapter-seven-grave",
-  externalId: "482677",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "482677",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/482677/chapter-seven-grave",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0297Chapter1648WizardWays = {
   unit: "words",
   completedAt: "2026-06-29T19:53:18.929Z",
   publishedAt: "2025-09-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2608948/chapter-1648-wizard-ways",
-  externalId: "2608948",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2608948",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2608948/chapter-1648-wizard-ways",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

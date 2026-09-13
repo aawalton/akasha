@@ -10,9 +10,13 @@ export const chrysalis0508Chapter1853AuspiciousHatching = {
   ownLength: 969,
   unit: "words",
   publishedAt: "2026-08-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3875190/chapter-1853-auspicious-hatching",
-  externalId: "3875190",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3875190",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3875190/chapter-1853-auspicious-hatching",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

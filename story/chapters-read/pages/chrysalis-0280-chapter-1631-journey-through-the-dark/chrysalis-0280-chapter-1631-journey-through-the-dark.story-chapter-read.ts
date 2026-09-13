@@ -12,9 +12,13 @@ export const chrysalis0280Chapter1631JourneyThroughTheDark = {
   unit: "words",
   completedAt: "2026-06-29T19:52:46.114Z",
   publishedAt: "2025-08-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2548267/chapter-1631-journey-through-the-dark",
-  externalId: "2548267",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2548267",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2548267/chapter-1631-journey-through-the-dark",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

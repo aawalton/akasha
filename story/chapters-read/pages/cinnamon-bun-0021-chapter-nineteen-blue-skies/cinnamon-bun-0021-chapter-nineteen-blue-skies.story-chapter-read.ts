@@ -10,9 +10,13 @@ export const cinnamonBun0021ChapterNineteenBlueSkies = {
   ownLength: 2033,
   unit: "words",
   publishedAt: "2020-05-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/493629/chapter-nineteen-blue-skies",
-  externalId: "493629",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "493629",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/493629/chapter-nineteen-blue-skies",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

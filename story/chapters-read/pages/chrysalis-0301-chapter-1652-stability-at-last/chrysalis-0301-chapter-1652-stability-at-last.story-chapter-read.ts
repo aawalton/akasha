@@ -12,9 +12,13 @@ export const chrysalis0301Chapter1652StabilityAtLast = {
   unit: "words",
   completedAt: "2026-06-29T19:53:26.600Z",
   publishedAt: "2025-09-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2624047/chapter-1652-stability-at-last",
-  externalId: "2624047",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2624047",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2624047/chapter-1652-stability-at-last",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

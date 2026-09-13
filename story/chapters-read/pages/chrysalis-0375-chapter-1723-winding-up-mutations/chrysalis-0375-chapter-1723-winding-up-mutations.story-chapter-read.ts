@@ -12,9 +12,13 @@ export const chrysalis0375Chapter1723WindingUpMutations = {
   unit: "words",
   completedAt: "2026-06-29T19:55:48.116Z",
   publishedAt: "2026-01-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2989653/chapter-1723-winding-up-mutations",
-  externalId: "2989653",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2989653",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2989653/chapter-1723-winding-up-mutations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

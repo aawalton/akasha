@@ -12,9 +12,13 @@ export const chrysalis0166Chapter1518SnailNursery = {
   unit: "words",
   completedAt: "2026-06-29T19:49:09.342Z",
   publishedAt: "2025-02-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2091840/chapter-1518-snail-nursery",
-  externalId: "2091840",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2091840",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2091840/chapter-1518-snail-nursery",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

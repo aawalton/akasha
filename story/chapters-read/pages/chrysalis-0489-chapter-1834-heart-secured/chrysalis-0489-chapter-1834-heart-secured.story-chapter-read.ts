@@ -10,9 +10,13 @@ export const chrysalis0489Chapter1834HeartSecured = {
   ownLength: 922,
   unit: "words",
   publishedAt: "2026-07-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3748921/chapter-1834-heart-secured",
-  externalId: "3748921",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3748921",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3748921/chapter-1834-heart-secured",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

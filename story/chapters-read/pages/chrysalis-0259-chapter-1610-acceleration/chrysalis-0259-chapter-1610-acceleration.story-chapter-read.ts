@@ -12,9 +12,13 @@ export const chrysalis0259Chapter1610Acceleration = {
   unit: "words",
   completedAt: "2026-06-29T19:52:06.185Z",
   publishedAt: "2025-07-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2471691/chapter-1610-acceleration",
-  externalId: "2471691",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2471691",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2471691/chapter-1610-acceleration",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0249Chapter1600WhenPlansGoWell = {
   unit: "words",
   completedAt: "2026-06-29T19:51:46.923Z",
   publishedAt: "2025-07-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2414898/chapter-1600-when-plans-go-well",
-  externalId: "2414898",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2414898",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2414898/chapter-1600-when-plans-go-well",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

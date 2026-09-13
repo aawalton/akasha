@@ -12,9 +12,13 @@ export const chrysalis0182Chapter1534LocationOfTheDetonation = {
   unit: "words",
   completedAt: "2026-06-29T19:49:39.345Z",
   publishedAt: "2025-03-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2140302/chapter-1534-location-of-the-detonation",
-  externalId: "2140302",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2140302",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2140302/chapter-1534-location-of-the-detonation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

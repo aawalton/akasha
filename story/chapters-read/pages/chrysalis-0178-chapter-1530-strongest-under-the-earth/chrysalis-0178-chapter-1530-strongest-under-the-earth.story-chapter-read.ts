@@ -12,9 +12,13 @@ export const chrysalis0178Chapter1530StrongestUnderTheEarth = {
   unit: "words",
   completedAt: "2026-06-29T19:49:32.068Z",
   publishedAt: "2025-03-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2131254/chapter-1530-strongest-under-the-earth",
-  externalId: "2131254",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2131254",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2131254/chapter-1530-strongest-under-the-earth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

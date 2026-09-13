@@ -12,9 +12,13 @@ export const chrysalis0240Chapter1592TheSingingWonTStop = {
   unit: "words",
   completedAt: "2026-06-29T19:51:29.251Z",
   publishedAt: "2025-06-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2383187/chapter-1592-the-singing-wont-stop",
-  externalId: "2383187",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2383187",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2383187/chapter-1592-the-singing-wont-stop",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

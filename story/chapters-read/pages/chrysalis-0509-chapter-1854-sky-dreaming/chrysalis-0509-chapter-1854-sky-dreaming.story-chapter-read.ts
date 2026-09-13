@@ -10,9 +10,13 @@ export const chrysalis0509Chapter1854SkyDreaming = {
   ownLength: 967,
   unit: "words",
   publishedAt: "2026-08-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3875192/chapter-1854-sky-dreaming",
-  externalId: "3875192",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3875192",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3875192/chapter-1854-sky-dreaming",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chrysalis0513Chapter1858WhyMe = {
   ownLength: 1063,
   unit: "words",
   publishedAt: "2026-09-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3903003/chapter-1858-why-me",
-  externalId: "3903003",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3903003",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3903003/chapter-1858-why-me",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

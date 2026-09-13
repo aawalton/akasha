@@ -10,9 +10,13 @@ export const chrysalis0402Chapter1750Progress = {
   ownLength: 946,
   unit: "words",
   publishedAt: "2026-03-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3145657/chapter-1750-progress",
-  externalId: "3145657",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3145657",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3145657/chapter-1750-progress",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

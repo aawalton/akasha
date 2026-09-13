@@ -10,9 +10,13 @@ export const cinnamonBun0017ChapterFifteenTheLastOneSmiling = {
   ownLength: 2098,
   unit: "words",
   publishedAt: "2020-05-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/491751/chapter-fifteen-the-last-one-smiling",
-  externalId: "491751",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "491751",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/491751/chapter-fifteen-the-last-one-smiling",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const chrysalis0445Chapter1793RebornImmortal = {
   ownLength: 1101,
   unit: "words",
   publishedAt: "2026-05-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3393132/chapter-1793-reborn-immortal",
-  externalId: "3393132",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3393132",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3393132/chapter-1793-reborn-immortal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

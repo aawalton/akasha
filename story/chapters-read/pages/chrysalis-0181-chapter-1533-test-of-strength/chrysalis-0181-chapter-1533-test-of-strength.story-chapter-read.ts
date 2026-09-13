@@ -12,9 +12,13 @@ export const chrysalis0181Chapter1533TestOfStrength = {
   unit: "words",
   completedAt: "2026-06-29T19:49:37.562Z",
   publishedAt: "2025-03-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2137982/chapter-1533-test-of-strength",
-  externalId: "2137982",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2137982",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2137982/chapter-1533-test-of-strength",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

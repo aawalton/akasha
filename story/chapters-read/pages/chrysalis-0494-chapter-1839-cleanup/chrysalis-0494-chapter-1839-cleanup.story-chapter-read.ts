@@ -10,9 +10,13 @@ export const chrysalis0494Chapter1839Cleanup = {
   ownLength: 935,
   unit: "words",
   publishedAt: "2026-08-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3780267/chapter-1839-cleanup",
-  externalId: "3780267",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3780267",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3780267/chapter-1839-cleanup",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

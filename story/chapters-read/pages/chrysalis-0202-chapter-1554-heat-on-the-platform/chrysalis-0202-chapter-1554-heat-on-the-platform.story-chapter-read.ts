@@ -12,9 +12,13 @@ export const chrysalis0202Chapter1554HeatOnThePlatform = {
   unit: "words",
   completedAt: "2026-06-29T19:50:17.000Z",
   publishedAt: "2025-04-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2210839/chapter-1554-heat-on-the-platform",
-  externalId: "2210839",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2210839",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2210839/chapter-1554-heat-on-the-platform",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const chrysalis0398Chapter1746Sentencing = {
   unit: "words",
   completedAt: "2026-06-29T19:56:31.712Z",
   publishedAt: "2026-03-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3110285/chapter-1746-sentencing",
-  externalId: "3110285",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3110285",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3110285/chapter-1746-sentencing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

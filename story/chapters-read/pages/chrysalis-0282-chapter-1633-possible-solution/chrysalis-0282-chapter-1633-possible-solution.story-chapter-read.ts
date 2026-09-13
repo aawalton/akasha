@@ -12,9 +12,13 @@ export const chrysalis0282Chapter1633PossibleSolution = {
   unit: "words",
   completedAt: "2026-06-29T19:52:49.968Z",
   publishedAt: "2025-08-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2554036/chapter-1633-possible-solution",
-  externalId: "2554036",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2554036",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2554036/chapter-1633-possible-solution",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
