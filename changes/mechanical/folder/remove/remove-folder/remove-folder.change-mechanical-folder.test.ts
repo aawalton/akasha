@@ -2,7 +2,10 @@ import { afterAll, expect, test } from "bun:test"
 import { runChange } from "akasha/changes/mechanical/folder/remove/remove-folder/remove-folder.change-mechanical-folder.code.ts"
 import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import { type World, worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
+import {
+  listing,
+  running,
+} from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
   indexedRepo,
   pageOf,
@@ -22,8 +25,6 @@ const ALPHA_CODE = `${FROM}/alpha.module.code.ts`
 const DEEP_PAGE = `${FROM}/deep/gamma.module.ts`
 
 const OUTER_PAGE = "akasha/five/outer.module.ts"
-
-const REMOVE_FILE = "change-mechanical-file/remove-file"
 
 const pageBody = (slug: string, id: string): string =>
   pageOf({ id, pageTypeSlug: "module", slug, definition: "a page a folder holds" })
@@ -45,8 +46,8 @@ function worldIn(root: string): World {
   return worldAt(root, textIn(root), running)
 }
 
-test("every file under the folder is taken away", async () => {
-  const said = await runChange(worldIn(indexedRepo(HELD)), { at: FROM })
+test("every file under the folder is taken away", () => {
+  const said = runChange(worldIn(indexedRepo(HELD)), { at: FROM })
   const paths = pathsIn(said)
 
   expect(said.refused).toBeNull()
@@ -55,37 +56,34 @@ test("every file under the folder is taken away", async () => {
   expect(paths).toContain(DEEP_PAGE)
 })
 
-test("no file outside the folder is taken away", async () => {
-  const said = await runChange(worldIn(indexedRepo(HELD)), { at: FROM })
+test("no file outside the folder is taken away", () => {
+  const said = runChange(worldIn(indexedRepo(HELD)), { at: FROM })
 
   expect(pathsIn(said)).not.toContain(OUTER_PAGE)
 })
 
-test("a file the index names nowhere goes with the rest", async () => {
+test("a file the index names nowhere goes with the rest", () => {
   const root = indexedRepo(HELD)
   put(root, `${FROM}/deep/notes.txt`, "one\n")
-  const said = await runChange(worldIn(root), { at: FROM })
+  const said = runChange(worldIn(root), { at: FROM })
 
   expect(said.refused).toBeNull()
   expect(pathsIn(said)).toContain(`${FROM}/deep/notes.txt`)
 })
 
-test("a folder holding no file is taken away as one path", async () => {
-  const said = await runChange(worldIn(indexedRepo(HELD)), { at: "akasha/nine" })
+test("a folder holding no file is taken away as one path", () => {
+  const said = runChange(worldIn(indexedRepo(HELD)), { at: "akasha/nine" })
 
   expect(said.refused).toBeNull()
   expect(said.edits).toEqual([{ kind: "remove", path: "akasha/nine" }])
 })
 
-test("each file goes by the change reached at its address", async () => {
+test("one answer states the removal of every file, and no change is reached", () => {
   const reached: string[] = []
   const root = indexedRepo(HELD)
-  const world = worldAt(root, textIn(root), (_world, at) => {
-    reached.push(at)
-    return Promise.resolve({ edits: [], refused: null })
-  })
 
-  await runChange(world, { at: FROM })
+  const said = runChange(worldAt(root, textIn(root), listing(reached)), { at: FROM })
 
-  expect(new Set(reached)).toEqual(new Set([REMOVE_FILE]))
+  expect(pathsIn(said)).toContain(DEEP_PAGE)
+  expect(reached).toEqual([])
 })

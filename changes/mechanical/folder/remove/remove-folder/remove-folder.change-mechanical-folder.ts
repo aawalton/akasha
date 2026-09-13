@@ -26,11 +26,11 @@ export const removeFolder = {
     },
     {
       invariantKind: "departure",
-      statement: "One call of `remove-file` takes each file away.",
+      statement: "One answer states the removal of every file under the folder.",
     },
     {
-      invariantKind: "departure",
-      statement: "A refusal from `remove-file` refuses the whole removal.",
+      invariantKind: "absence",
+      statement: "No change is reached here.",
     },
     {
       invariantKind: "absence",
