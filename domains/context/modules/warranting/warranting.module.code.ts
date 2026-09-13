@@ -10,6 +10,7 @@ import {
   SUBAGENT_MARK,
   sameBody,
 } from "akasha/agents/modules/read-record/read-record.module.code.ts"
+import { slugOf } from "akasha/agents/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   againOf,
@@ -26,7 +27,6 @@ import {
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { slugOf } from "akasha/seat-system/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
 
 const ANSWER_CEILING = 28000
 

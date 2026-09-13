@@ -16,7 +16,7 @@ import {
   agentIdOf,
   pathOf,
   slugOf,
-} from "akasha/seat-system/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
+} from "akasha/agents/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
