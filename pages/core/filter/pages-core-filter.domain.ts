@@ -5,5 +5,5 @@ export const pagesCoreFilter = {
   type: "domain",
   slug: "pages-core-filter",
   definition: "a filter read as a condition",
-  parts: ["module/filter-to-condition"],
+  parts: ["module/filter-to-condition", "module/property-path"],
 } as const satisfies Domain
