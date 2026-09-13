@@ -8,7 +8,7 @@ import { said as gitIn } from "akasha/git/modules/running/git-running.module.cod
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
-const AT = "seat-system/subagents/pages/akasha-a38f63805f9b94edf.subagent.ts"
+const AT = "agents/subagents/pages/akasha-a38f63805f9b94edf.subagent.ts"
 
 const AGENT = "01a05844-6e60-7000-b54c-4b14559df70b--a38f63805f9b94edf"
 
