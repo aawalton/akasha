@@ -1,10 +1,15 @@
-import { expect, test } from "bun:test"
+import { afterAll, beforeAll, expect, test } from "bun:test"
 import { join } from "node:path"
 import {
   refusalFor,
   refusalIn,
   SCOPE,
 } from "akasha/agents/hooks/agent-hooks/block-git-writes/block-git-writes.agent-hook.code.ts"
+import {
+  AT,
+  restoringAkasha,
+  statingAkasha,
+} from "akasha/agents/hooks/agent-hooks/block-git-writes/block-git-writes.agent-hook.test-fixtures.ts"
 import { parseRefusal } from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
 import { payloadOf } from "akasha/agents/hooks/modules/payload/hook-payload.module.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
@@ -14,6 +19,10 @@ const SCRIPT = join(import.meta.dir, "block-git-writes.agent-hook.code.ts")
 const COMMANDS = "  akasha change draft keeps the edits, and akasha change apply lands them"
 
 const HELP = "that refusal names every change a draft runs."
+
+beforeAll(statingAkasha)
+
+afterAll(restoringAkasha)
 
 test("a commit naming no paths is refused, and this is the call that took the gate down", () => {
   expect(refusalIn('git commit -m "one"')).not.toBeNull()
@@ -280,4 +289,64 @@ test("the hook prints its scope when it is asked", () => {
   const done = ran(["bun", SCRIPT, "--scope"], { stdin: Buffer.from("") })
   expect(done.code).toBe(0)
   expect(done.out).toContain("commit")
+})
+
+test("a call naming no `-C` is refused, because nothing on it says where the call runs", () => {
+  expect(refusalIn("git commit -m one")).not.toBeNull()
+  expect(refusalIn("git add .")).not.toBeNull()
+  expect(refusalIn("git --no-pager commit -m one")).not.toBeNull()
+})
+
+test("a `-C` path in another repository lets the write through", () => {
+  expect(refusalIn(`git -C ${AT.fork} commit -m one`)).toBeNull()
+  expect(refusalIn(`git -C ${AT.fork} add one.ts`)).toBeNull()
+  expect(refusalIn(`git -C ${AT.fork} apply one.patch`)).toBeNull()
+  expect(refusalIn(`git -C ${AT.sibling} commit -m one`)).toBeNull()
+})
+
+test("a `-C` path in this repository is refused, symlink or no symlink", () => {
+  expect(refusalIn(`git -C ${AT.akasha} commit -m one`)).not.toBeNull()
+  expect(refusalIn(`git -C ${AT.inside} commit -m one`)).not.toBeNull()
+  expect(refusalIn(`git -C ${AT.link} commit -m one`)).not.toBeNull()
+})
+
+test("a worktree of this repository is this repository, wherever it is checked out", () => {
+  expect(refusalIn(`git -C ${AT.nested} commit -m one`)).not.toBeNull()
+  expect(refusalIn(`git -C ${AT.outside} commit -m one`)).not.toBeNull()
+})
+
+test("a `-C` path proving nothing is refused", () => {
+  expect(refusalIn(`git -C ${AT.gone} commit -m one`)).not.toBeNull()
+  expect(refusalIn(`git -C ${AT.plain} commit -m one`)).not.toBeNull()
+  expect(refusalIn("git -C ../fork commit -m one")).not.toBeNull()
+  expect(refusalIn("git -C fork commit -m one")).not.toBeNull()
+})
+
+test("a global flag before the act other than `-C` leaves the call refused", () => {
+  expect(refusalIn(`git -C ${AT.fork} --git-dir=${AT.akasha}/.git commit -m one`)).not.toBeNull()
+  expect(refusalIn(`git --work-tree ${AT.fork} commit -m one`)).not.toBeNull()
+  expect(refusalIn(`git -c core.worktree=${AT.akasha} -C ${AT.fork} commit`)).not.toBeNull()
+})
+
+test("several `-C` accumulate, each against the one before it", () => {
+  expect(refusalIn(`git -C ${AT.held} -C fork commit -m one`)).toBeNull()
+  expect(refusalIn(`git -C ${AT.held} -C akasha commit -m one`)).not.toBeNull()
+})
+
+test("a prefix that only runs the call keeps the `-C` with the call", () => {
+  expect(refusalIn(`timeout 5 git -C ${AT.fork} add x`)).toBeNull()
+  expect(refusalIn(`timeout 5 git -C ${AT.akasha} add x`)).not.toBeNull()
+})
+
+test("the scope says where the call running is read from, and no longer says it is not", () => {
+  const said = SCOPE.join("\n")
+  expect(said).toContain("WHERE THE CALL RUNS IS READ FROM `-C` AND NOWHERE ELSE")
+  expect(said).toContain("Sharing a git folder is being the same repository")
+  expect(said).not.toContain("WHERE THE CALL RUNS IS NEVER READ")
+  expect(said).not.toContain("A call in another repository is refused the same as one here")
+})
+
+test("a refusal names the route another repository is written by", () => {
+  const said = refusalIn("git commit -m one") ?? ""
+  expect(said).toContain("`git -C <absolute path> <act>` is let through")
 })

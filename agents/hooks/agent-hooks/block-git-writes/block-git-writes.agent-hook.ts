@@ -7,17 +7,29 @@ export const blockGitWrites = {
   definition: "a refusal of the git calls that write tracked akasha content outside the commands",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   runsAt: ["PreToolUse"],
   overTools: ["Bash"],
   invariants: [
     {
       invariantKind: "gap",
-      statement: "A git write is refused unless the call has a flag that writes nothing.",
+      statement: "A git write is refused unless the line proves the call cannot reach akasha.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A git write in the command word is refused unless the call has a flag that writes nothing.",
+      statement: "A git write in the command word is refused unless the line gives that proof.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A flag that writes nothing is that proof.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A `-C` path resolving to another repository is that proof.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing else on a line is that proof.",
     },
     {
       invariantKind: "departure",
@@ -72,11 +84,41 @@ export const blockGitWrites = {
     },
     {
       invariantKind: "constraint",
-      statement: "The repository root is the akasha folder.",
+      statement: "Every path the akasha repository tracks is akasha content.",
     },
     {
       invariantKind: "constraint",
-      statement: "Every path the repository tracks is akasha content.",
+      statement:
+        "The akasha repository is checked out outside the akasha folder as well as inside it.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Two checkouts sharing one git folder are one repository under two toplevels.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Where a call runs is on the line only where `-C` puts it there.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A `-C` path is resolved through its symlinks before a repository is read from it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Several `-C` on one line accumulate, each against the one before it.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A `-C` path that resolves to no other repository is refused.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A relative `-C` path proves nothing, because the cwd is not on the line.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A line carrying a global flag before the act other than `-C` proves nothing.",
     },
     {
       invariantKind: "constraint",

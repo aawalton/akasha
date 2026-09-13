@@ -1,3 +1,4 @@
+import { isAbsolute, resolve } from "node:path"
 import {
   ranAsCommandHook,
   SCOPE_FLAG,
@@ -7,14 +8,24 @@ import { judgingCalls } from "akasha/agents/hooks/modules/chain-refusal/chain-re
 import type { GitCall } from "akasha/agents/hooks/modules/git-calls/git-calls.module.code.ts"
 import { gitCallsIn } from "akasha/agents/hooks/modules/git-calls/git-calls.module.code.ts"
 import { RUNS_ANOTHER } from "akasha/agents/hooks/modules/shell-calls/shell-calls.module.code.ts"
+import { told } from "akasha/git/modules/running/git-running.module.code.ts"
+import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { canonicalize, isInside } from "akasha/pages/modules/repo-path/repo-path.module.code.ts"
 
 const HOOK = "block-git-writes"
+
+const ELSEWHERE = [
+  "In another repository, `git -C <absolute path> <act>` is let through: the path on the line",
+  "says which repository the call reaches, and a call naming no `-C` says nothing.",
+]
 
 const COMMANDS = [
   "Land akasha content with the akasha commands, which write no body onto the tree by hand:",
   "  akasha change draft keeps the edits, and akasha change apply lands them as one commit",
   "Say `akasha change draft --help` for what a draft takes. A draft naming no change is refused,",
   "and that refusal names every change a draft runs.",
+  "",
+  ...ELSEWHERE,
 ]
 
 const EVERY_PATH =
@@ -50,6 +61,8 @@ const OVER_ACTS = new Map<string, readonly string[]>([
       "To move an akasha file, draft it with `akasha change draft move-page`, then",
       "`akasha change apply`.",
       "Say `akasha change draft --help` for what that takes.",
+      "",
+      ...ELSEWHERE,
     ],
   ],
   [
@@ -86,13 +99,14 @@ const READ_ONLY = new Map<string, readonly string[]>([
 
 export const SCOPE: readonly string[] = [
   `${HOOK} refuses five git acts: commit, add, mv, apply, am.`,
-  "A call is let through only when it carries a flag that writes nothing.",
+  "A call is let through when it carries a flag that writes nothing, and when `-C` names a path",
+  "in a repository that is not this one.",
   "",
   "WHERE THE RULE COMES FROM: what a git write reaches is not on the command line.",
   "`git commit` with no pathspec commits what is staged, and what is staged is in the index.",
-  "So the line has to prove the call cannot reach akasha, and no line can. This repository's",
-  "root is the akasha folder, so every path it tracks is akasha content and a pathspec naming",
-  "one names akasha content too. There is nothing left for a pathspec to prove.",
+  "So the line has to prove the call cannot reach akasha. A pathspec cannot prove it: every path",
+  "this repository tracks is akasha content, so a pathspec naming one names akasha content too.",
+  "There is nothing left for a pathspec to prove.",
   "`apply` and `am` name a patch file, and the paths a patch writes are inside the patch.",
   "This does not read the patch, and refuses the call either way.",
   "",
@@ -118,11 +132,22 @@ export const SCOPE: readonly string[] = [
   "  a call behind a prefix the list above does not name, which hides it as `sh -c` does",
   "  every writer that is not git — `cp`, `mv`, a redirect, `sed -i`, an editor, a test",
   "",
-  "WHERE THE CALL RUNS IS NEVER READ:",
-  "  An act is judged by the act it is, never by the paths behind it or the place it runs in.",
-  "  `git -C /elsewhere commit` is refused, and `/elsewhere` is not read.",
-  "  A call in another repository is refused the same as one here, and `-C` is read only far",
-  "    enough to find the act behind it. That is over-refusal, not a gap.",
+  "WHERE THE CALL RUNS IS READ FROM `-C` AND NOWHERE ELSE:",
+  "  `git -C <path> <act>` puts on the line the path git resolves the repository from, so that",
+  "    line does prove what the call reaches. It is let through where the repository resolved",
+  "    from that path is not this one. Several `-C` accumulate as git accumulates them, each",
+  "    against the one before it.",
+  "  The path is resolved through its symlinks first, and the repository is then asked for its",
+  "    toplevel and for its git folder. Sharing a git folder is being the same repository: a",
+  "    worktree has a toplevel of its own, so `.git/trees/<name>` here and a worktree of this",
+  "    repository checked out anywhere else are both refused, whatever their toplevel is.",
+  "  Anything short of that proof is refused, which over-refuses rather than leaving a hole:",
+  "    a path that is not there, a path in no repository, a git call that will not answer, a",
+  "    relative `-C` (what it is relative to is the cwd, which is not on the line), and any",
+  "    global flag before the act but `-C` — `--git-dir`, `--work-tree` and `-c core.worktree`",
+  "    each move what the call reaches away from the `-C` path.",
+  "  A call carrying no `-C` is refused as it always was: the cwd is not on the line, so nothing",
+  "    on the line says which repository the call reaches. That is over-refusal, not a gap.",
   "",
   "A PREFIX THAT ONLY RUNS THE CALL BEHIND IT IS STEPPED OVER, with its own flags, the value a",
   "flag of its own takes, and the number it takes of its own:",
@@ -156,11 +181,67 @@ export const SCOPE: readonly string[] = [
   "it is what the program says about itself, held as text it prints rather than as a comment.",
 ]
 
+const AT = "-C"
+
+const ASKING = ["rev-parse", "--path-format=absolute", "--show-toplevel", "--git-common-dir"]
+
+const WAIT = 5_000
+
+type Repository = {
+  readonly top: string
+  readonly common: string
+}
+
+function repositoryAt(at: string): Repository | null {
+  const said = told(at, ASKING, { timeout: WAIT })
+  if (said === null) return null
+  const lines = said.trim().split("\n")
+  const top = lines[0]
+  const common = lines[1]
+  if (top === undefined || common === undefined) return null
+  return { top: canonicalize(top), common: canonicalize(common) }
+}
+
+function repositoryHere(): Repository | null {
+  try {
+    return repositoryAt(akashaRoot())
+  } catch {
+    return null
+  }
+}
+
+function chdirIn(before: readonly string[]): string | null {
+  if (before.length === 0) return null
+  let at = ""
+  for (let step = 0; step < before.length; step += 2) {
+    if (before[step] !== AT) return null
+    const value = before[step + 1]
+    if (value === undefined) return null
+    if (at === "" && !isAbsolute(value)) return null
+    at = at === "" ? value : resolve(at, value)
+  }
+  return at === "" ? null : at
+}
+
+function landsElsewhere(before: readonly string[]): boolean {
+  const asked = chdirIn(before)
+  if (asked === null) return false
+  const at = canonicalize(asked)
+  const here = repositoryHere()
+  if (here === null) return false
+  if (isInside(here.top, at)) return false
+  const there = repositoryAt(at)
+  if (there === null) return false
+  if (there.common === here.common) return false
+  return !isInside(here.top, there.top)
+}
+
 export function refusalFor(call: GitCall): string | null {
   const over = OVER_ACTS.get(call.act)
   if (over === undefined) return null
   const reads = READ_ONLY.get(call.act) ?? []
   if (call.rest.some((word) => reads.includes(word))) return null
+  if (landsElsewhere(call.before)) return null
   return toldOf(HOOK, over)
 }
 
