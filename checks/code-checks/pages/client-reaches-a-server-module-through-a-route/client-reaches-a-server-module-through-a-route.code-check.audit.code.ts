@@ -9,7 +9,7 @@ import { filePropertiesAt } from "akasha/pages/indexes/modules/entries/index-ent
 import {
   everyOfType,
   everyPath,
-  valuesByPath,
+  valueByPath,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 
 const NONE: ReadonlyMap<string, string | null> = new Map()
@@ -18,7 +18,7 @@ export function askingAt(root: string, paths: readonly string[]): Asking {
   const disk = onDisk(root)
   return {
     appsFiled: () => everyOfType(root, APP).map((one) => one.path),
-    valueAt: (path) => valuesByPath(root, APP).get(path) ?? null,
+    valueAt: (path) => valueByPath(root, path),
     namedFilesOf: (pageTypeSlug) => filePropertiesAt(root).get(pageTypeSlug) ?? NONE,
     everyPath: () => paths,
     textAt: (path) => {
