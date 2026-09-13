@@ -70,10 +70,7 @@ export function executeVaultWithdrawals(
     if (stackCount === 0) continue
     const itemLink = GetItemLink(BAG_FURNITURE_VAULT, w.slotIndex, LINK_STYLE_BRACKETS)
     const itemId = GetItemLinkItemId(itemLink)
-    const partial = bankFindPartialStackSlot(ctx, BAG_BACKPACK, itemId)
-    if (partial !== undefined) {
-      ctx.reserved.delete(slotKey(BAG_BACKPACK, partial))
-    }
+    const partial = bankFindPartialStackSlot(ctx, BAG_BACKPACK, itemId, stackCount)
     const targetSlot = partial ?? bankFindEmptyBackpackSlot(ctx)
     if (targetSlot === undefined) {
       d(`[${ADDON_NAME}] Backpack is full, stopping vault withdraw`)

@@ -32,7 +32,8 @@ export function bankFindEmptyBackpackSlot(ctx: BankSlotContext): number | undefi
 export function bankFindPartialStackSlot(
   ctx: BankSlotContext,
   bag: number,
-  itemId: number
+  itemId: number,
+  needed: number
 ): number | undefined {
   const size = GetBagSize(bag)
   for (let slot = 0; slot < size; slot++) {
@@ -41,6 +42,7 @@ export function bankFindPartialStackSlot(
     if (ctx.vacated.has(key)) continue
     const [stackCount, maxStack] = GetSlotStackSize(bag, slot)
     if (stackCount <= 0 || stackCount >= maxStack) continue
+    if (maxStack - stackCount < needed) continue
     const link = GetItemLink(bag, slot, LINK_STYLE_BRACKETS)
     if (GetItemLinkItemId(link) === itemId) {
       ctx.reserved.set(key, true)
@@ -69,18 +71,19 @@ export function bankFindEmptyStorageSlot(
 
 export function bankFindPartialStorageSlot(
   ctx: BankSlotContext,
-  itemId: number
+  itemId: number,
+  needed: number
 ): { bag: number; slot: number } | undefined {
   if (ctx.isBank) {
-    const slot = bankFindPartialStackSlot(ctx, BAG_BANK, itemId)
+    const slot = bankFindPartialStackSlot(ctx, BAG_BANK, itemId, needed)
     if (slot !== undefined) return { bag: BAG_BANK, slot }
     if (IsESOPlusSubscriber()) {
-      const subSlot = bankFindPartialStackSlot(ctx, BAG_SUBSCRIBER_BANK, itemId)
+      const subSlot = bankFindPartialStackSlot(ctx, BAG_SUBSCRIBER_BANK, itemId, needed)
       if (subSlot !== undefined) return { bag: BAG_SUBSCRIBER_BANK, slot: subSlot }
     }
     return undefined
   }
-  const slot = bankFindPartialStackSlot(ctx, ctx.bankingBag, itemId)
+  const slot = bankFindPartialStackSlot(ctx, ctx.bankingBag, itemId, needed)
   if (slot !== undefined) return { bag: ctx.bankingBag, slot }
   return undefined
 }

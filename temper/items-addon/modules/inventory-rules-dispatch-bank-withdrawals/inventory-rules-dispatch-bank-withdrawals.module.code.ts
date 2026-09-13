@@ -335,10 +335,12 @@ export function executeBankWithdrawals(
 
     const itemLink = GetItemLink(w.bagId, w.slotIndex, LINK_STYLE_BRACKETS)
     const withdrawItemId = GetItemLinkItemId(itemLink)
-    const partialBackpackSlot = bankFindPartialStackSlot(ctx, BAG_BACKPACK, withdrawItemId)
-    if (partialBackpackSlot !== undefined) {
-      ctx.reserved.delete(slotKey(BAG_BACKPACK, partialBackpackSlot))
-    }
+    const partialBackpackSlot = bankFindPartialStackSlot(
+      ctx,
+      BAG_BACKPACK,
+      withdrawItemId,
+      toWithdraw
+    )
     const targetSlot = partialBackpackSlot ?? bankFindEmptyBackpackSlot(ctx)
     if (targetSlot === undefined) {
       d(`[${ADDON_NAME}] Backpack is full, stopping withdraw`)

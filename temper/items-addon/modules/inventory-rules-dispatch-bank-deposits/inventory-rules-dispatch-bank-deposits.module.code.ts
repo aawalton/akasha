@@ -22,7 +22,7 @@ import {
   bankFindPartialStorageSlot,
   bankIsCorrectStorage,
 } from "akasha/temper/items-addon/modules/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
-import { slotKey } from "akasha/temper/items-addon/modules/inventory-slot-key/inventory-slot-key.module.code.ts"
+
 import { computeStockTierDeposit } from "akasha/temper/items-addon/modules/inventory-stock-deposit-decision/inventory-stock-deposit-decision.module.code.ts"
 import type { ItemAction } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { planStockChainVisit } from "akasha/temper/items-rules-core/modules/stock-chain-visit/stock-chain-visit.module.code.ts"
@@ -232,10 +232,7 @@ export function executeBankDeposits(
 
     const depositItemLink = GetItemLink(dep.bagId, dep.slotIndex, LINK_STYLE_BRACKETS)
     const depositItemId = GetItemLinkItemId(depositItemLink)
-    const partialStorageSlot = bankFindPartialStorageSlot(ctx, depositItemId)
-    if (partialStorageSlot !== undefined) {
-      ctx.reserved.delete(slotKey(partialStorageSlot.bag, partialStorageSlot.slot))
-    }
+    const partialStorageSlot = bankFindPartialStorageSlot(ctx, depositItemId, toMove)
     const target = partialStorageSlot ?? bankFindEmptyStorageSlot(ctx)
     if (target === undefined) {
       if (!noRoomSaid) {
