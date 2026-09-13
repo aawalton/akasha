@@ -5,86 +5,33 @@ import {
   valueSpelled,
 } from "akasha/changes/mechanical/page-type/add/add-property-to-every-page/add-property-to-every-page.change-mechanical-page-type.code.ts"
 import {
-  bodiesIn,
-  ledgerAt,
-  type World,
-} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { filesOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+  BODIES,
+  DECLARED,
+  type Files,
+  KEY,
+  MANY,
+  mootAt,
+  worldFor as mootsWorld,
+  ONE_AT,
+  PUTTING,
+  TWO_AT,
+  TYPE,
+  VALUES,
+} from "akasha/changes/mechanical/page-type/add/add-property-to-every-page/add-property-to-every-page.change-mechanical-page-type.test-fixtures.ts"
+import { bodiesIn, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { listing } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 
-const ONE_AT = "thrumming/moots/one.moot-call.ts"
-
-const TWO_AT = "thrumming/moots/two.moot-call.ts"
-
-const THREE_AT = "thrumming/moots/three.moot-call.ts"
-
-const TYPE = "moot-call"
-
-const KEY = "heldBy"
-
-const AINE = `"aine"`
-
 const REACHED: string[] = []
-
-function mootAt(slug: string): string {
-  return `export const ${slug} = {
-  pageTypeSlug: "${TYPE}",
-  slug: "${slug}",
-  weight: 1,
-} as const satisfies MootCall
-`
-}
-
-type Files = Readonly<Record<string, string>>
-
-const BODIES: Files = { [ONE_AT]: mootAt("one"), [TWO_AT]: mootAt("two") }
-
-const DECLARED: Carried = {
-  pagePropertySlug: "held-by",
-  pageTypeSlug: "relation-property",
-  propertySlug: "held-by",
-  key: KEY,
-  unique: null,
-  declaredBy: TYPE,
-  required: false,
-  many: false,
-  maxCount: null,
-  maxLength: null,
-  uncommitted: false,
-  secret: false,
-}
-
-const MANY: Carried = { ...DECLARED, key: "weights", many: true }
-
-function valueAt(slug: string): Value {
-  return { pageTypeSlug: TYPE, slug, weight: 1 }
-}
-
-const PLACED: Value = { pageTypeSlug: TYPE, slug: "three", [KEY]: "alan", weight: 1 }
-
-const VALUES = new Map<string, Value>([
-  [ONE_AT, valueAt("one")],
-  [TWO_AT, valueAt("two")],
-  [THREE_AT, PLACED],
-])
 
 function worldFor(
   bodies: Files,
   carried: readonly Carried[] | null,
   values: ReadonlyMap<string, Value> = VALUES
 ): World {
-  const index = {
-    everyOfType: () => Object.keys(bodies).map((path) => ({ path, id: path })),
-    propertiesIfNamed: () => carried,
-    valuesByPath: () => values,
-  } as never
-  const ledger = ledgerAt("/nowhere", filesOf(bodies), listing(REACHED))
-  return Object.defineProperty(ledger, "index", { value: index })
+  return mootsWorld(bodies, carried, listing(REACHED), values)
 }
-
-const PUTTING = { pageType: TYPE, key: KEY, value: AINE }
 
 test("every page of that page type is answered in this one answer", () => {
   const world = worldFor(BODIES, [DECLARED])
