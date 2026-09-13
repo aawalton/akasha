@@ -14,6 +14,12 @@ import type {
 import { carriedBy } from "akasha/changes/modules/file-carrying/file-carrying.module.code.ts"
 import { pageIn } from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
 import {
+  carriedUnder,
+  type Declared,
+  filedUnder,
+  withinOf,
+} from "akasha/changes/modules/page-property-carrying/page-property-carrying.module.code.ts"
+import {
   entrySpotted,
   keySpotted,
   type Spotted,
@@ -23,13 +29,12 @@ import {
   type Signing,
   signatureRespelled,
 } from "akasha/changes/modules/property-signature-renaming/property-signature-renaming.module.code.ts"
-import { holdingIn, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   exportedAs,
   typedAs,
 } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { partsOf } from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"
 
 const PROPERTY_SLUG = "propertySlug"
 
@@ -118,57 +123,15 @@ function readingOf(world: World, given: Asked): Reading | string {
 function spelledIn(world: World, types: readonly string[], one: Spelling): Spelled {
   const carrying: string[] = []
   const moving: Moving[] = []
-  const seen = new Set<string>()
-  for (const type of types) {
-    for (const kind of world.index.kindsUnder(type)) {
-      for (const [path, value] of world.index.valuesByPath(kind)) {
-        if (one.atMost !== null && carrying.length >= one.atMost) return { carrying, moving }
-        if (seen.has(path)) continue
-        seen.add(path)
-        const held = value[one.key]
-        if (held === undefined) continue
-        carrying.push(path)
-        if (!one.beside || typeof held !== "string") continue
-        const from = besideAt(path, one.was, held)
-        const to = besideAt(path, one.to, held)
-        if (from === null || to === null || world.bodyOf(from) === null) continue
-        moving.push({ from, to })
-      }
-    }
+  for (const held of carriedUnder(world, types, one.key, one.atMost)) {
+    carrying.push(held.path)
+    if (!one.beside || typeof held.held !== "string") continue
+    const from = besideAt(held.path, one.was, held.held)
+    const to = besideAt(held.path, one.to, held.held)
+    if (from === null || to === null || world.bodyOf(from) === null) continue
+    moving.push({ from, to })
   }
   return { carrying, moving }
-}
-
-type Declared = {
-  readonly slug: string
-  readonly kind: string
-  readonly id: string
-  readonly path: string
-}
-
-function filedUnder(world: World, shape: Declared): readonly string[] {
-  const value = pageIn(world, shape.path)
-  const slug = value === null ? null : value[PROPERTY_SLUG]
-  if (typeof slug !== "string") return []
-  const key = exportedAs(slug)
-  const found: string[] = []
-  const seen = new Set<string>()
-  const holds = holdingIn(world)
-  for (const one of world.index.declaringOf(shape.id)) {
-    if (one.kind !== PAGE_TYPE) continue
-    for (const kind of world.index.kindsUnder(one.slug)) {
-      for (const [path, held] of world.index.valuesByPath(kind)) {
-        if (seen.has(path)) continue
-        seen.add(path)
-        const ending = held[key]
-        if (typeof ending !== "string") continue
-        for (const at of partsOf(path, slug, ending, holds)) {
-          if (holds(at)) found.push(at)
-        }
-      }
-    }
-  }
-  return found
 }
 
 function declaringAt(world: World, path: string): string {
@@ -176,24 +139,6 @@ function declaringAt(world: World, path: string): string {
   const held = value === null ? null : value[TYPES]
   if (typeof held !== "string") return path
   return besideAt(path, TYPES, held) ?? path
-}
-
-type Within = {
-  readonly key: string
-  readonly carrying: readonly string[]
-}
-
-function withinOf(world: World, record: Declared, atMost: number | null): Within | null {
-  const value = pageIn(world, record.path)
-  const slug = value === null ? null : value[PROPERTY_SLUG]
-  if (typeof slug !== "string") return null
-  const under = world.index
-    .declaringOf(record.id)
-    .filter((one) => one.kind === PAGE_TYPE)
-    .map((one) => one.slug)
-  const key = exportedAs(slug)
-  const held = spelledIn(world, under, { key, was: slug, to: slug, beside: false, atMost })
-  return { key, carrying: held.carrying }
 }
 
 type Gathering = {

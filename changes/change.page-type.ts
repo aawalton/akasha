@@ -34,6 +34,7 @@ export const change = {
     "module/page-claiming",
     "module/page-knowing",
     "module/page-literal",
+    "module/page-property-carrying",
     "module/page-property-renaming",
     "module/page-property-splicing",
     "module/page-type-renaming",
