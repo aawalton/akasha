@@ -1,9 +1,7 @@
-import { createHash } from "node:crypto"
 import type {
   ImageFactorySchematic,
   NodeIntent,
 } from "akasha/infrastructure/cluster/provisioning/talos/modules/schema/schema.module.code.ts"
-import { stringify } from "yaml"
 
 export function buildSchematic(node: NodeIntent): ImageFactorySchematic {
   return {
@@ -16,22 +14,4 @@ export function buildSchematic(node: NodeIntent): ImageFactorySchematic {
       }),
     },
   }
-}
-
-export function schematicId(schematic: ImageFactorySchematic): string {
-  return createHash("sha256").update(canonicalSchematicYaml(schematic)).digest("hex")
-}
-
-function canonicalSchematicYaml(schematic: ImageFactorySchematic): string {
-  const { systemExtensions, extraKernelArgs } = schematic.customization
-  return stringify(
-    {
-      customization: {
-        ...(extraKernelArgs !== undefined &&
-          extraKernelArgs.length > 0 && { extraKernelArgs: [...extraKernelArgs] }),
-        systemExtensions: { officialExtensions: [...systemExtensions.officialExtensions] },
-      },
-    },
-    { indent: 4 }
-  )
 }
