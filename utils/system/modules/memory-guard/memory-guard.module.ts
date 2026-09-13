@@ -18,10 +18,6 @@ export const memoryGuard = {
     },
     {
       invariantKind: "departure",
-      statement: "A host with no pressure file reads as no pressure rather than refusing.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Admitting a spawn asks the inodes as well as the memory.",
     },
     {

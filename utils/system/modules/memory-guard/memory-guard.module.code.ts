@@ -115,49 +115,6 @@ export function readMemInfoKb(): MemInfoKb {
   }
 }
 
-export type MemPressureStats = {
-  someAvg10: number
-  someAvg60: number
-  fullAvg10: number
-  fullAvg60: number
-}
-
-const PSI_PAIR_SCHEMA = z.tuple([z.string(), z.string()])
-
-function psiLine(body: string, kind: "some" | "full"): { avg10: number; avg60: number } {
-  const [avg10, avg60] = requireMatchPositional(
-    new RegExp(`^${kind} avg10=(\\d+(?:\\.\\d+)?) avg60=(\\d+(?:\\.\\d+)?)`, "m"),
-    PSI_PAIR_SCHEMA,
-    body,
-    `/proc/pressure/memory ${kind} avg10/avg60`
-  )
-  return { avg10: Number.parseFloat(avg10), avg60: Number.parseFloat(avg60) }
-}
-
-function parseMemPressureStats(body: string): MemPressureStats {
-  const some = psiLine(body, "some")
-  const full = psiLine(body, "full")
-  return {
-    someAvg10: some.avg10,
-    someAvg60: some.avg60,
-    fullAvg10: full.avg10,
-    fullAvg60: full.avg60,
-  }
-}
-
-function readMemPressureStats(): MemPressureStats {
-  let body: string
-  try {
-    body = readFileSync("/proc/pressure/memory", "utf8")
-  } catch (err) {
-    if (err instanceof Error && "code" in err && err.code === "ENOENT") {
-      return { someAvg10: 0, someAvg60: 0, fullAvg10: 0, fullAvg60: 0 }
-    }
-    throw err
-  }
-  return parseMemPressureStats(z.string().parse(body))
-}
-
 function decideSpawnAdmission(info: MemInfoKb, kindLabel: string): MemoryGuardDecision {
   return assessSpawnAdmission({
     availableKb: info.availableKb,
@@ -172,19 +129,4 @@ export function enforceSpawnAdmission(kindLabel: string): undefined {
     throw new Error(decision.reason)
   }
   enforceInodeAdmission(kindLabel)
-}
-
-export type HostMemoryPressure = {
-  availableKb: number
-  swapTotalKb: number
-  swapFreeKb: number
-  psi: MemPressureStats
-  decision: MemoryGuardDecision
-}
-
-export function readHostMemoryPressure(kindLabel: string): HostMemoryPressure {
-  const info = readMemInfoKb()
-  const psi = readMemPressureStats()
-  const decision = decideSpawnAdmission(info, kindLabel)
-  return { ...info, psi, decision }
 }
