@@ -5,6 +5,10 @@ export const swordArtOnline = {
   type: "franchise",
   slug: "sword-art-online",
   title: "Sword Art Online",
-  source: "tmdb",
-  externalLink: "https://www.themoviedb.org/search?query=Sword%20Art%20Online",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalLink: "https://www.themoviedb.org/search?query=Sword%20Art%20Online",
+    },
+  ],
 } as const satisfies Franchise
