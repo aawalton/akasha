@@ -37,6 +37,7 @@ export const command = {
     "module/command-leveling",
     "module/command-stopping",
     "module/command-walking",
+    "module/commit-attribution",
     "module/commit-author",
     "module/complexity-rowing",
     "module/draft-keeping",

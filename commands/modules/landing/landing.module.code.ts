@@ -17,6 +17,10 @@ import {
   unfresh,
 } from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
 import {
+  attributed,
+  attributionHeld,
+} from "akasha/commands/modules/commit-attribution/commit-attribution.module.code.ts"
+import {
   type Drafted,
   type Drafting,
   draftedBy,
@@ -372,7 +376,7 @@ export async function landing(
         const took = [
           ...new Set([...put.took, ...moving.committing.map((one) => one.from), ...then.took]),
         ]
-        const commit = committed(root, bodies, took, message, writer)
+        const commit = committed(root, bodies, took, attributed(message, attributionHeld()), writer)
         if (commit !== null) {
           if (noting !== null) noting.commit = commit
           done.push(`commit ${commit}`)

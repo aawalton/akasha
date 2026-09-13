@@ -261,6 +261,10 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement: "Every commit this writes carries the attribution.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body reaches disk only after every check has passed.",
     },
     {
