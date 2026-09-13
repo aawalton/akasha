@@ -15,7 +15,7 @@ import {
   decideSpawnGuard,
   type SpawnGuardDecision,
   type SpawnGuardInput,
-} from "akasha/agents/seats/modules/spawn-guard/spawn-guard.module.code.ts"
+} from "akasha/agents/seats/name-claiming/modules/spawn-guard/spawn-guard.module.code.ts"
 import { terminatePriorAgentTree } from "akasha/agents/seats/reviving/modules/recovery/seat-recovery.module.code.ts"
 import { resolveRelaunchTarget } from "akasha/agents/seats/reviving/modules/relaunch-target/seat-relaunch-target.module.code.ts"
 import { decideReviveLaunch } from "akasha/agents/seats/reviving/modules/revive-launch-decide/seat-revive-launch-decide.module.code.ts"

@@ -20,14 +20,7 @@ import {
   isValidSeatName,
   resolveOptionalSeatId,
 } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
-import { mintNamedAgent } from "akasha/agents/seats/modules/name-bind/seat-name-bind.module.code.ts"
-import { refuseHeldName } from "akasha/agents/seats/modules/name-held-refusal/seat-name-held-refusal.module.code.ts"
-import { refuseParentless } from "akasha/agents/seats/modules/parentless-refusal/seat-parentless-refusal.module.code.ts"
 import { defaultFor } from "akasha/agents/seats/modules/resolve/seat-resolve.module.code.ts"
-import {
-  compositionOf,
-  decideSpawnName,
-} from "akasha/agents/seats/modules/spawn-name-decide/seat-spawn-name-decide.module.code.ts"
 import { stateSpawnedSeat } from "akasha/agents/seats/modules/state-spawned-seat/state-spawned-seat.module.code.ts"
 import { resolveStatedIdentity } from "akasha/agents/seats/modules/stated-identity/seat-stated-identity.module.code.ts"
 import {
@@ -38,6 +31,13 @@ import {
   principals,
 } from "akasha/agents/seats/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { composedNameOf } from "akasha/agents/seats/name/modules/rename/seat-rename.module.code.ts"
+import { mintNamedAgent } from "akasha/agents/seats/name-claiming/modules/name-bind/seat-name-bind.module.code.ts"
+import { refuseHeldName } from "akasha/agents/seats/name-claiming/modules/name-held-refusal/seat-name-held-refusal.module.code.ts"
+import { refuseParentless } from "akasha/agents/seats/name-claiming/modules/parentless-refusal/seat-parentless-refusal.module.code.ts"
+import {
+  compositionOf,
+  decideSpawnName,
+} from "akasha/agents/seats/name-claiming/modules/spawn-name-decide/seat-spawn-name-decide.module.code.ts"
 import type { StatedAgentSlots } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
 import {
   dataError,
