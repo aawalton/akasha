@@ -11,7 +11,7 @@ export const emberInventoryRules = {
       statement:
         "A reading of the inventory outside the game reaches the answer the addon reaches.",
       workingMemory:
-        "The addon page states this and nothing checks it. outcome-parity compares two traversals of one engine, so it read clean while two engines sent 84 items to different places; its page now says so. The blindnesses behind that are shut: the plan context lacked skill-line ranks and curse state, and the CLI env answered unknown for stock it held. Left: a command putting the two engines side by side, shown failing on a blinded engine before it is trusted.",
+        "env-parity now puts the env explain runs in beside the env plan runs in over every stack, and reads clean; it was shown failing on a blinded env first. Its page says agreement there is no sign the addon agrees. parity does read the addon's own verdicts, but out of a lastExplain Alan must arm in game, one item at a time, and his capture holds none. Left: a sweep against what the addon itself decided, once it is known whether the addon already writes that.\n",
     },
   ],
   constraints: [
