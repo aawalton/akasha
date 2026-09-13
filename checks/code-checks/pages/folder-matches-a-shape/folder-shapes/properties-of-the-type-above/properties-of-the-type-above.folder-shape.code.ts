@@ -1,38 +1,14 @@
 import { dirname } from "node:path"
 import type { Standing } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts"
+import { ofPropertyPages } from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/property-pages/property-pages.module.code.ts"
 import { saidInside } from "akasha/checks/modules/shape-saying/shape-saying.module.code.ts"
 
 export const HOLDS = ["properties"]
 
-const PROPERTY = "page-property"
-
 export function propertiesOfTheTypeAbove(standing: Standing): readonly string[] {
-  const said: string[] = []
   const above = standing.declaring(dirname(standing.folder))
-  if (above === null) {
-    said.push("the folder above holds no page type of its own")
-    return said
-  }
-  if (standing.strays.length > 0) {
-    said.push(
-      `${standing.strays.length} files are neither a page nor a file beside one: ${saidInside(standing.folder, standing.strays)}`
-    )
-  }
-  const claimed = new Set<string>(standing.pages.flatMap((one) => standing.parts(one)))
-  const beside = standing.properties.filter((one) => !claimed.has(one.path))
-  if (beside.length > 0) {
-    said.push(
-      `${beside.length} files sit beside a page that states no such file: ${saidInside(standing.folder, beside)}`
-    )
-  }
-  const other = standing.pages.filter(
-    (one) => !standing.extending(String(one.pageTypeSlug), PROPERTY)
-  )
-  if (other.length > 0) {
-    said.push(
-      `${other.length} pages here are of a page type that does not extend \`${PROPERTY}\`: ${saidInside(standing.folder, other)}`
-    )
-  }
+  if (above === null) return ["the folder above holds no page type of its own"]
+  const said = [...ofPropertyPages(standing)]
   const loose = standing.pages.filter(
     (one) => one.slug !== null && !above.propertySlugs.has(one.slug)
   )
