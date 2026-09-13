@@ -11,6 +11,7 @@ export const measure = {
     "command/measure-change",
     "command/measure-check",
     "command/measure-command",
+    "command/measure-deploy",
     "command/measure-learning",
     "command/measure-page",
     "command/measure-performance",
