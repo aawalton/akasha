@@ -1,9 +1,9 @@
 import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
-export const testFixtures = {
+export const testFixture = {
   id: "01a09c17-9d01-7f25-b06d-5521c1acc95d",
   type: "page-type",
-  slug: "test-fixtures",
+  slug: "test-fixture",
   definition: "the world more than one module's tests are set up with",
   pluralSlug: "test-fixtures",
   extends: ["page-type/domain"],
