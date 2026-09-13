@@ -6,10 +6,14 @@ export const taylorSwiftIThinkHeKnows = {
   slug: "taylor-swift-i-think-he-knows",
   title: "I Think He Knows",
   artist: "taylor-swift",
-  externalId: "d311e17c-316e-4cff-a790-ce4b894aa47f",
-  externalLink: "https://musicbrainz.org/work/d311e17c-316e-4cff-a790-ce4b894aa47f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d311e17c-316e-4cff-a790-ce4b894aa47f",
+      externalLink: "https://musicbrainz.org/work/d311e17c-316e-4cff-a790-ce4b894aa47f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

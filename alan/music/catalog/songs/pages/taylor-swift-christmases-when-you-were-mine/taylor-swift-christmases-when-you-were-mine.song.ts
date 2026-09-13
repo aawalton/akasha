@@ -6,10 +6,14 @@ export const taylorSwiftChristmasesWhenYouWereMine = {
   slug: "taylor-swift-christmases-when-you-were-mine",
   title: "Christmases When You Were Mine",
   artist: "taylor-swift",
-  externalId: "45ddf97b-03f1-42fa-8fdd-699e6fd5b131",
-  externalLink: "https://musicbrainz.org/work/45ddf97b-03f1-42fa-8fdd-699e6fd5b131",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "45ddf97b-03f1-42fa-8fdd-699e6fd5b131",
+      externalLink: "https://musicbrainz.org/work/45ddf97b-03f1-42fa-8fdd-699e6fd5b131",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

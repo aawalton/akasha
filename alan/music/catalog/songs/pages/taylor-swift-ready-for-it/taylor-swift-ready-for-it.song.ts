@@ -6,10 +6,14 @@ export const taylorSwiftReadyForIt = {
   slug: "taylor-swift-ready-for-it",
   title: "…Ready for It?",
   artist: "taylor-swift",
-  externalId: "defd6853-e3a8-4197-8d85-04df567f78e2",
-  externalLink: "https://musicbrainz.org/work/defd6853-e3a8-4197-8d85-04df567f78e2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "defd6853-e3a8-4197-8d85-04df567f78e2",
+      externalLink: "https://musicbrainz.org/work/defd6853-e3a8-4197-8d85-04df567f78e2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

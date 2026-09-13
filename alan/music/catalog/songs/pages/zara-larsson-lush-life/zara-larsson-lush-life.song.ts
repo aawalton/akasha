@@ -6,10 +6,14 @@ export const zaraLarssonLushLife = {
   slug: "zara-larsson-lush-life",
   title: "Lush Life",
   artist: "zara-larsson",
-  externalId: "d751430d-da3a-4b33-b867-64380ac3e249",
-  externalLink: "https://musicbrainz.org/work/d751430d-da3a-4b33-b867-64380ac3e249",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d751430d-da3a-4b33-b867-64380ac3e249",
+      externalLink: "https://musicbrainz.org/work/d751430d-da3a-4b33-b867-64380ac3e249",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

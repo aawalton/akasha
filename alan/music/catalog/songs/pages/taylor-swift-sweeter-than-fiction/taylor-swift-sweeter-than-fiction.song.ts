@@ -6,10 +6,14 @@ export const taylorSwiftSweeterThanFiction = {
   slug: "taylor-swift-sweeter-than-fiction",
   title: "Sweeter Than Fiction",
   artist: "taylor-swift",
-  externalId: "9c15e68c-eb64-4e6b-932d-813057aea16e",
-  externalLink: "https://musicbrainz.org/work/9c15e68c-eb64-4e6b-932d-813057aea16e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9c15e68c-eb64-4e6b-932d-813057aea16e",
+      externalLink: "https://musicbrainz.org/work/9c15e68c-eb64-4e6b-932d-813057aea16e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

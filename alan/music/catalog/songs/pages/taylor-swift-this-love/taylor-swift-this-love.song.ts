@@ -6,10 +6,14 @@ export const taylorSwiftThisLove = {
   slug: "taylor-swift-this-love",
   title: "This Love",
   artist: "taylor-swift",
-  externalId: "1183e3b3-e6c9-46b3-a38a-ebd767ee3104",
-  externalLink: "https://musicbrainz.org/work/1183e3b3-e6c9-46b3-a38a-ebd767ee3104",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1183e3b3-e6c9-46b3-a38a-ebd767ee3104",
+      externalLink: "https://musicbrainz.org/work/1183e3b3-e6c9-46b3-a38a-ebd767ee3104",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

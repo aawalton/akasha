@@ -6,10 +6,14 @@ export const taylorSwiftTimeless = {
   slug: "taylor-swift-timeless",
   title: "Timeless",
   artist: "taylor-swift",
-  externalId: "8c9c83ce-f4f6-4801-b1dd-0de000a2cfee",
-  externalLink: "https://musicbrainz.org/work/8c9c83ce-f4f6-4801-b1dd-0de000a2cfee",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8c9c83ce-f4f6-4801-b1dd-0de000a2cfee",
+      externalLink: "https://musicbrainz.org/work/8c9c83ce-f4f6-4801-b1dd-0de000a2cfee",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

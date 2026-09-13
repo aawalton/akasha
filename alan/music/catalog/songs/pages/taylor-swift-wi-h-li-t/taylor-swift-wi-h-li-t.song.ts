@@ -6,10 +6,14 @@ export const taylorSwiftWiHLiT = {
   slug: "taylor-swift-wi-h-li-t",
   title: "Wi$h Li$t",
   artist: "taylor-swift",
-  externalId: "0a5aaf26-114e-48b7-90b1-18c90c5bcb23",
-  externalLink: "https://musicbrainz.org/work/0a5aaf26-114e-48b7-90b1-18c90c5bcb23",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0a5aaf26-114e-48b7-90b1-18c90c5bcb23",
+      externalLink: "https://musicbrainz.org/work/0a5aaf26-114e-48b7-90b1-18c90c5bcb23",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

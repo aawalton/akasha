@@ -6,10 +6,14 @@ export const taylorSwiftAfterglow = {
   slug: "taylor-swift-afterglow",
   title: "Afterglow",
   artist: "taylor-swift",
-  externalId: "ab84673d-bcef-454d-8294-9585d7b7f942",
-  externalLink: "https://musicbrainz.org/work/ab84673d-bcef-454d-8294-9585d7b7f942",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ab84673d-bcef-454d-8294-9585d7b7f942",
+      externalLink: "https://musicbrainz.org/work/ab84673d-bcef-454d-8294-9585d7b7f942",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

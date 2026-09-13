@@ -6,10 +6,14 @@ export const taylorSwiftInvisibleString = {
   slug: "taylor-swift-invisible-string",
   title: "invisible string",
   artist: "taylor-swift",
-  externalId: "f72c870e-904c-4b5f-92b5-360fcfd6b2fe",
-  externalLink: "https://musicbrainz.org/work/f72c870e-904c-4b5f-92b5-360fcfd6b2fe",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f72c870e-904c-4b5f-92b5-360fcfd6b2fe",
+      externalLink: "https://musicbrainz.org/work/f72c870e-904c-4b5f-92b5-360fcfd6b2fe",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

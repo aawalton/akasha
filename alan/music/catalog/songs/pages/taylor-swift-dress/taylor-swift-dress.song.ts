@@ -6,10 +6,14 @@ export const taylorSwiftDress = {
   slug: "taylor-swift-dress",
   title: "Dress",
   artist: "taylor-swift",
-  externalId: "93f308df-6621-4166-9318-0078f9182d47",
-  externalLink: "https://musicbrainz.org/work/93f308df-6621-4166-9318-0078f9182d47",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "93f308df-6621-4166-9318-0078f9182d47",
+      externalLink: "https://musicbrainz.org/work/93f308df-6621-4166-9318-0078f9182d47",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

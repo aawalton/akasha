@@ -6,10 +6,14 @@ export const taylorSwiftBabe = {
   slug: "taylor-swift-babe",
   title: "Babe",
   artist: "taylor-swift",
-  externalId: "9c84f0cb-f2ca-453b-8f6a-8757aac76e78",
-  externalLink: "https://musicbrainz.org/work/9c84f0cb-f2ca-453b-8f6a-8757aac76e78",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9c84f0cb-f2ca-453b-8f6a-8757aac76e78",
+      externalLink: "https://musicbrainz.org/work/9c84f0cb-f2ca-453b-8f6a-8757aac76e78",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

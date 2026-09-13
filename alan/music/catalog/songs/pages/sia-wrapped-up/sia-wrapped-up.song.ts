@@ -6,10 +6,14 @@ export const siaWrappedUp = {
   slug: "sia-wrapped-up",
   title: "Wrapped Up",
   artist: "sia",
-  externalId: "1290c605-2b58-470a-bcdc-508ba765d28d",
-  externalLink: "https://musicbrainz.org/work/1290c605-2b58-470a-bcdc-508ba765d28d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1290c605-2b58-470a-bcdc-508ba765d28d",
+      externalLink: "https://musicbrainz.org/work/1290c605-2b58-470a-bcdc-508ba765d28d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

@@ -6,10 +6,14 @@ export const taylorSwiftMarjorie = {
   slug: "taylor-swift-marjorie",
   title: "marjorie",
   artist: "taylor-swift",
-  externalId: "789801dc-550e-431f-9599-d9b83285ff71",
-  externalLink: "https://musicbrainz.org/work/789801dc-550e-431f-9599-d9b83285ff71",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "789801dc-550e-431f-9599-d9b83285ff71",
+      externalLink: "https://musicbrainz.org/work/789801dc-550e-431f-9599-d9b83285ff71",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

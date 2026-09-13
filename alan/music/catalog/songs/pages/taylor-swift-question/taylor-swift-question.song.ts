@@ -6,10 +6,14 @@ export const taylorSwiftQuestion = {
   slug: "taylor-swift-question",
   title: "Question…?",
   artist: "taylor-swift",
-  externalId: "5a5bef29-1511-4f50-9681-45464830c905",
-  externalLink: "https://musicbrainz.org/work/5a5bef29-1511-4f50-9681-45464830c905",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5a5bef29-1511-4f50-9681-45464830c905",
+      externalLink: "https://musicbrainz.org/work/5a5bef29-1511-4f50-9681-45464830c905",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

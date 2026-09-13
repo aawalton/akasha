@@ -6,10 +6,14 @@ export const zaraLarssonGirlsLike = {
   slug: "zara-larsson-girls-like",
   title: "Girls Like",
   artist: "zara-larsson",
-  externalId: "4eaa31cf-6c8b-4b39-8df5-5a967a35a02a",
-  externalLink: "https://musicbrainz.org/work/4eaa31cf-6c8b-4b39-8df5-5a967a35a02a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4eaa31cf-6c8b-4b39-8df5-5a967a35a02a",
+      externalLink: "https://musicbrainz.org/work/4eaa31cf-6c8b-4b39-8df5-5a967a35a02a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

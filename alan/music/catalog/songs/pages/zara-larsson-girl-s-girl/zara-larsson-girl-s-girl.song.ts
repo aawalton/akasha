@@ -6,10 +6,14 @@ export const zaraLarssonGirlSGirl = {
   slug: "zara-larsson-girl-s-girl",
   title: "Girl’s Girl",
   artist: "zara-larsson",
-  externalId: "23989f54-ec6e-4345-8501-4abc021e4fd4",
-  externalLink: "https://musicbrainz.org/work/23989f54-ec6e-4345-8501-4abc021e4fd4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "23989f54-ec6e-4345-8501-4abc021e4fd4",
+      externalLink: "https://musicbrainz.org/work/23989f54-ec6e-4345-8501-4abc021e4fd4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

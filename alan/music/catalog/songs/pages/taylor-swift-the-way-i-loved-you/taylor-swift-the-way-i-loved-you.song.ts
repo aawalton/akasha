@@ -6,10 +6,14 @@ export const taylorSwiftTheWayILovedYou = {
   slug: "taylor-swift-the-way-i-loved-you",
   title: "The Way I Loved You",
   artist: "taylor-swift",
-  externalId: "bbd98f0f-98d6-34b0-b927-55dff9c1b8eb",
-  externalLink: "https://musicbrainz.org/work/bbd98f0f-98d6-34b0-b927-55dff9c1b8eb",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bbd98f0f-98d6-34b0-b927-55dff9c1b8eb",
+      externalLink: "https://musicbrainz.org/work/bbd98f0f-98d6-34b0-b927-55dff9c1b8eb",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

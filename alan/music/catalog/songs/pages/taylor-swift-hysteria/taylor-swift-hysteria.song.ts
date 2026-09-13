@@ -6,10 +6,14 @@ export const taylorSwiftHysteria = {
   slug: "taylor-swift-hysteria",
   title: "Hysteria",
   artist: "taylor-swift",
-  externalId: "f31e9cdd-1c05-39a8-a694-66e3d54dce46",
-  externalLink: "https://musicbrainz.org/work/f31e9cdd-1c05-39a8-a694-66e3d54dce46",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f31e9cdd-1c05-39a8-a694-66e3d54dce46",
+      externalLink: "https://musicbrainz.org/work/f31e9cdd-1c05-39a8-a694-66e3d54dce46",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

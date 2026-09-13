@@ -6,10 +6,14 @@ export const taylorSwiftTaylorForPresident = {
   slug: "taylor-swift-taylor-for-president",
   title: "Taylor For President",
   artist: "taylor-swift",
-  externalId: "ee5682d1-c897-42a0-b811-acd6a55ce416",
-  externalLink: "https://musicbrainz.org/work/ee5682d1-c897-42a0-b811-acd6a55ce416",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ee5682d1-c897-42a0-b811-acd6a55ce416",
+      externalLink: "https://musicbrainz.org/work/ee5682d1-c897-42a0-b811-acd6a55ce416",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: false,
 } as const satisfies Song

@@ -6,10 +6,14 @@ export const taylorSwiftTodayWasAFairytale = {
   slug: "taylor-swift-today-was-a-fairytale",
   title: "Today Was a Fairytale",
   artist: "taylor-swift",
-  externalId: "5f87e828-73a8-4bf7-8d26-592a1403f876",
-  externalLink: "https://musicbrainz.org/work/5f87e828-73a8-4bf7-8d26-592a1403f876",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5f87e828-73a8-4bf7-8d26-592a1403f876",
+      externalLink: "https://musicbrainz.org/work/5f87e828-73a8-4bf7-8d26-592a1403f876",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

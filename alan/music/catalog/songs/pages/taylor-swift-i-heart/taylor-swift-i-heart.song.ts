@@ -6,10 +6,14 @@ export const taylorSwiftIHeart = {
   slug: "taylor-swift-i-heart",
   title: "I Heart ?",
   artist: "taylor-swift",
-  externalId: "6e896a62-9676-4c13-97b7-9f792fb4cb86",
-  externalLink: "https://musicbrainz.org/work/6e896a62-9676-4c13-97b7-9f792fb4cb86",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6e896a62-9676-4c13-97b7-9f792fb4cb86",
+      externalLink: "https://musicbrainz.org/work/6e896a62-9676-4c13-97b7-9f792fb4cb86",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

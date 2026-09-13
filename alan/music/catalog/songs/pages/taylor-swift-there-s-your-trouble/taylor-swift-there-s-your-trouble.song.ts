@@ -6,10 +6,14 @@ export const taylorSwiftThereSYourTrouble = {
   slug: "taylor-swift-there-s-your-trouble",
   title: "There’s Your Trouble",
   artist: "taylor-swift",
-  externalId: "8c657e67-af75-4f46-a505-6113a11e4623",
-  externalLink: "https://musicbrainz.org/work/8c657e67-af75-4f46-a505-6113a11e4623",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8c657e67-af75-4f46-a505-6113a11e4623",
+      externalLink: "https://musicbrainz.org/work/8c657e67-af75-4f46-a505-6113a11e4623",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

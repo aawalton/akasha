@@ -6,10 +6,14 @@ export const taylorSwiftCallItWhatYouWant = {
   slug: "taylor-swift-call-it-what-you-want",
   title: "Call It What You Want",
   artist: "taylor-swift",
-  externalId: "c5cadac2-a2fd-4fda-b5db-064e21180efb",
-  externalLink: "https://musicbrainz.org/work/c5cadac2-a2fd-4fda-b5db-064e21180efb",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c5cadac2-a2fd-4fda-b5db-064e21180efb",
+      externalLink: "https://musicbrainz.org/work/c5cadac2-a2fd-4fda-b5db-064e21180efb",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const taylorSwiftHaunted = {
   slug: "taylor-swift-haunted",
   title: "Haunted",
   artist: "taylor-swift",
-  externalId: "642e67bb-1e6f-3275-93fb-02d99f55ac85",
-  externalLink: "https://musicbrainz.org/work/642e67bb-1e6f-3275-93fb-02d99f55ac85",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "642e67bb-1e6f-3275-93fb-02d99f55ac85",
+      externalLink: "https://musicbrainz.org/work/642e67bb-1e6f-3275-93fb-02d99f55ac85",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

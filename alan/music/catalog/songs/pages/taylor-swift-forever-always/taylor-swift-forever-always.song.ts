@@ -6,10 +6,14 @@ export const taylorSwiftForeverAlways = {
   slug: "taylor-swift-forever-always",
   title: "Forever & Always",
   artist: "taylor-swift",
-  externalId: "440c59c7-e41d-3fc8-9877-c814cb5d876a",
-  externalLink: "https://musicbrainz.org/work/440c59c7-e41d-3fc8-9877-c814cb5d876a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "440c59c7-e41d-3fc8-9877-c814cb5d876a",
+      externalLink: "https://musicbrainz.org/work/440c59c7-e41d-3fc8-9877-c814cb5d876a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

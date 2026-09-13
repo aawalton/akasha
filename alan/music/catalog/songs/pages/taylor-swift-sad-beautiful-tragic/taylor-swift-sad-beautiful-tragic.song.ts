@@ -6,10 +6,14 @@ export const taylorSwiftSadBeautifulTragic = {
   slug: "taylor-swift-sad-beautiful-tragic",
   title: "Sad Beautiful Tragic",
   artist: "taylor-swift",
-  externalId: "65aa5927-770d-4ff9-8fab-6fbd6b9e4e63",
-  externalLink: "https://musicbrainz.org/work/65aa5927-770d-4ff9-8fab-6fbd6b9e4e63",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "65aa5927-770d-4ff9-8fab-6fbd6b9e4e63",
+      externalLink: "https://musicbrainz.org/work/65aa5927-770d-4ff9-8fab-6fbd6b9e4e63",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

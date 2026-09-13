@@ -6,10 +6,14 @@ export const zaraLarssonMaryDidYouKnow = {
   slug: "zara-larsson-mary-did-you-know",
   title: "Mary, Did You Know?",
   artist: "zara-larsson",
-  externalId: "0d13f922-ddbb-4382-83bb-a500c37ca563",
-  externalLink: "https://musicbrainz.org/work/0d13f922-ddbb-4382-83bb-a500c37ca563",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0d13f922-ddbb-4382-83bb-a500c37ca563",
+      externalLink: "https://musicbrainz.org/work/0d13f922-ddbb-4382-83bb-a500c37ca563",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

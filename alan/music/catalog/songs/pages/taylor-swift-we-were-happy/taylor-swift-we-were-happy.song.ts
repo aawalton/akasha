@@ -6,10 +6,14 @@ export const taylorSwiftWeWereHappy = {
   slug: "taylor-swift-we-were-happy",
   title: "We Were Happy",
   artist: "taylor-swift",
-  externalId: "899e2daf-b467-4196-b645-c0ffcc157edb",
-  externalLink: "https://musicbrainz.org/work/899e2daf-b467-4196-b645-c0ffcc157edb",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "899e2daf-b467-4196-b645-c0ffcc157edb",
+      externalLink: "https://musicbrainz.org/work/899e2daf-b467-4196-b645-c0ffcc157edb",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

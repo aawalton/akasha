@@ -6,10 +6,14 @@ export const taylorSwiftIHateItHere = {
   slug: "taylor-swift-i-hate-it-here",
   title: "I Hate It Here",
   artist: "taylor-swift",
-  externalId: "ec98e655-0495-458d-8081-7fc2162a51cc",
-  externalLink: "https://musicbrainz.org/work/ec98e655-0495-458d-8081-7fc2162a51cc",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ec98e655-0495-458d-8081-7fc2162a51cc",
+      externalLink: "https://musicbrainz.org/work/ec98e655-0495-458d-8081-7fc2162a51cc",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

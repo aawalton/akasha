@@ -6,10 +6,14 @@ export const zaraLarssonAllTheTime = {
   slug: "zara-larsson-all-the-time",
   title: "All the Time",
   artist: "zara-larsson",
-  externalId: "5caf5786-f6a5-4c02-969e-819a1f878e54",
-  externalLink: "https://musicbrainz.org/work/5caf5786-f6a5-4c02-969e-819a1f878e54",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5caf5786-f6a5-4c02-969e-819a1f878e54",
+      externalLink: "https://musicbrainz.org/work/5caf5786-f6a5-4c02-969e-819a1f878e54",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

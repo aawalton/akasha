@@ -6,10 +6,14 @@ export const zaraLarssonEither = {
   slug: "zara-larsson-either",
   title: "Either",
   artist: "zara-larsson",
-  externalId: "51634f67-3c06-4a35-8310-40d8ded440f5",
-  externalLink: "https://musicbrainz.org/work/51634f67-3c06-4a35-8310-40d8ded440f5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "51634f67-3c06-4a35-8310-40d8ded440f5",
+      externalLink: "https://musicbrainz.org/work/51634f67-3c06-4a35-8310-40d8ded440f5",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

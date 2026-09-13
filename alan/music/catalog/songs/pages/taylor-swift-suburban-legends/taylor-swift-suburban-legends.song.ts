@@ -6,10 +6,14 @@ export const taylorSwiftSuburbanLegends = {
   slug: "taylor-swift-suburban-legends",
   title: "Suburban Legends",
   artist: "taylor-swift",
-  externalId: "09531648-3078-4458-a778-c9fbef55afa4",
-  externalLink: "https://musicbrainz.org/work/09531648-3078-4458-a778-c9fbef55afa4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "09531648-3078-4458-a778-c9fbef55afa4",
+      externalLink: "https://musicbrainz.org/work/09531648-3078-4458-a778-c9fbef55afa4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

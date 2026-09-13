@@ -6,10 +6,14 @@ export const taylorSwiftIllicitAffairs = {
   slug: "taylor-swift-illicit-affairs",
   title: "illicit affairs",
   artist: "taylor-swift",
-  externalId: "9ed14afd-649f-4094-8106-8bd0984cadd7",
-  externalLink: "https://musicbrainz.org/work/9ed14afd-649f-4094-8106-8bd0984cadd7",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9ed14afd-649f-4094-8106-8bd0984cadd7",
+      externalLink: "https://musicbrainz.org/work/9ed14afd-649f-4094-8106-8bd0984cadd7",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

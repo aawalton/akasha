@@ -6,10 +6,14 @@ export const taylorSwiftWhiteBlankPage = {
   slug: "taylor-swift-white-blank-page",
   title: "White Blank Page",
   artist: "taylor-swift",
-  externalId: "5eccfb98-c5b6-4784-acd6-4457a6c21e5f",
-  externalLink: "https://musicbrainz.org/work/5eccfb98-c5b6-4784-acd6-4457a6c21e5f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5eccfb98-c5b6-4784-acd6-4457a6c21e5f",
+      externalLink: "https://musicbrainz.org/work/5eccfb98-c5b6-4784-acd6-4457a6c21e5f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

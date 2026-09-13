@@ -6,10 +6,14 @@ export const taylorSwiftSeven = {
   slug: "taylor-swift-seven",
   title: "seven",
   artist: "taylor-swift",
-  externalId: "3ff83ae5-845a-4cc7-a794-06c1be11f647",
-  externalLink: "https://musicbrainz.org/work/3ff83ae5-845a-4cc7-a794-06c1be11f647",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3ff83ae5-845a-4cc7-a794-06c1be11f647",
+      externalLink: "https://musicbrainz.org/work/3ff83ae5-845a-4cc7-a794-06c1be11f647",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

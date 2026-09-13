@@ -6,10 +6,14 @@ export const zaraLarssonBadBoys = {
   slug: "zara-larsson-bad-boys",
   title: "Bad Boys",
   artist: "zara-larsson",
-  externalId: "b9ac643d-6701-40a9-92b5-f3a4f288e7dc",
-  externalLink: "https://musicbrainz.org/work/b9ac643d-6701-40a9-92b5-f3a4f288e7dc",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b9ac643d-6701-40a9-92b5-f3a4f288e7dc",
+      externalLink: "https://musicbrainz.org/work/b9ac643d-6701-40a9-92b5-f3a4f288e7dc",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

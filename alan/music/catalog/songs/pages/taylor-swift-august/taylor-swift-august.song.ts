@@ -6,10 +6,14 @@ export const taylorSwiftAugust = {
   slug: "taylor-swift-august",
   title: "august",
   artist: "taylor-swift",
-  externalId: "6ce75487-483b-48a7-a988-9b16f0912e51",
-  externalLink: "https://musicbrainz.org/work/6ce75487-483b-48a7-a988-9b16f0912e51",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6ce75487-483b-48a7-a988-9b16f0912e51",
+      externalLink: "https://musicbrainz.org/work/6ce75487-483b-48a7-a988-9b16f0912e51",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

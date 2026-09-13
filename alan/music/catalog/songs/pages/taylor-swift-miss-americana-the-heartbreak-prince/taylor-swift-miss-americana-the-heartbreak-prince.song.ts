@@ -6,10 +6,14 @@ export const taylorSwiftMissAmericanaTheHeartbreakPrince = {
   slug: "taylor-swift-miss-americana-the-heartbreak-prince",
   title: "Miss Americana & the Heartbreak Prince",
   artist: "taylor-swift",
-  externalId: "4729c835-34b6-457f-a0fa-909b277db116",
-  externalLink: "https://musicbrainz.org/work/4729c835-34b6-457f-a0fa-909b277db116",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4729c835-34b6-457f-a0fa-909b277db116",
+      externalLink: "https://musicbrainz.org/work/4729c835-34b6-457f-a0fa-909b277db116",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

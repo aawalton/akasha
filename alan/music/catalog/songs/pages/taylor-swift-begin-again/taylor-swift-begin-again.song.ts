@@ -6,10 +6,14 @@ export const taylorSwiftBeginAgain = {
   slug: "taylor-swift-begin-again",
   title: "Begin Again",
   artist: "taylor-swift",
-  externalId: "d1824200-db72-4350-bbe5-489aaf80464e",
-  externalLink: "https://musicbrainz.org/work/d1824200-db72-4350-bbe5-489aaf80464e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d1824200-db72-4350-bbe5-489aaf80464e",
+      externalLink: "https://musicbrainz.org/work/d1824200-db72-4350-bbe5-489aaf80464e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

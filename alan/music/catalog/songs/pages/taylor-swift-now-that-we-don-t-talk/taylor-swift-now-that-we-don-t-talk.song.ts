@@ -6,10 +6,14 @@ export const taylorSwiftNowThatWeDonTTalk = {
   slug: "taylor-swift-now-that-we-don-t-talk",
   title: "Now That We Don’t Talk",
   artist: "taylor-swift",
-  externalId: "dbbc2e33-54f9-4b16-9851-0f9d03e6d05e",
-  externalLink: "https://musicbrainz.org/work/dbbc2e33-54f9-4b16-9851-0f9d03e6d05e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "dbbc2e33-54f9-4b16-9851-0f9d03e6d05e",
+      externalLink: "https://musicbrainz.org/work/dbbc2e33-54f9-4b16-9851-0f9d03e6d05e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const zaraLarssonFff = {
   slug: "zara-larsson-fff",
   title: "FFF",
   artist: "zara-larsson",
-  externalId: "3afbc269-2f46-45e0-b6b3-a2f44d77894a",
-  externalLink: "https://musicbrainz.org/work/3afbc269-2f46-45e0-b6b3-a2f44d77894a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3afbc269-2f46-45e0-b6b3-a2f44d77894a",
+      externalLink: "https://musicbrainz.org/work/3afbc269-2f46-45e0-b6b3-a2f44d77894a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

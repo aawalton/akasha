@@ -6,10 +6,14 @@ export const taylorSwiftVigilanteShit = {
   slug: "taylor-swift-vigilante-shit",
   title: "Vigilante Shit",
   artist: "taylor-swift",
-  externalId: "36330f36-f59a-47d4-9cfe-9434b8d25e88",
-  externalLink: "https://musicbrainz.org/work/36330f36-f59a-47d4-9cfe-9434b8d25e88",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "36330f36-f59a-47d4-9cfe-9434b8d25e88",
+      externalLink: "https://musicbrainz.org/work/36330f36-f59a-47d4-9cfe-9434b8d25e88",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

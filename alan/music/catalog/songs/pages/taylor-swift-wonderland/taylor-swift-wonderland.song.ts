@@ -6,10 +6,14 @@ export const taylorSwiftWonderland = {
   slug: "taylor-swift-wonderland",
   title: "Wonderland",
   artist: "taylor-swift",
-  externalId: "f29d46db-d630-4778-a071-de8f3d5fdff2",
-  externalLink: "https://musicbrainz.org/work/f29d46db-d630-4778-a071-de8f3d5fdff2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f29d46db-d630-4778-a071-de8f3d5fdff2",
+      externalLink: "https://musicbrainz.org/work/f29d46db-d630-4778-a071-de8f3d5fdff2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

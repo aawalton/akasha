@@ -6,10 +6,14 @@ export const taylorSwiftNeverGrowUp = {
   slug: "taylor-swift-never-grow-up",
   title: "Never Grow Up",
   artist: "taylor-swift",
-  externalId: "d81df650-873c-3a8d-a021-bf66f1cc5804",
-  externalLink: "https://musicbrainz.org/work/d81df650-873c-3a8d-a021-bf66f1cc5804",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d81df650-873c-3a8d-a021-bf66f1cc5804",
+      externalLink: "https://musicbrainz.org/work/d81df650-873c-3a8d-a021-bf66f1cc5804",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

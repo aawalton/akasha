@@ -6,10 +6,14 @@ export const taylorSwiftNewRomantics = {
   slug: "taylor-swift-new-romantics",
   title: "New Romantics",
   artist: "taylor-swift",
-  externalId: "8828a9c2-ffde-429f-b3e7-de6a73fbfd36",
-  externalLink: "https://musicbrainz.org/work/8828a9c2-ffde-429f-b3e7-de6a73fbfd36",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8828a9c2-ffde-429f-b3e7-de6a73fbfd36",
+      externalLink: "https://musicbrainz.org/work/8828a9c2-ffde-429f-b3e7-de6a73fbfd36",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

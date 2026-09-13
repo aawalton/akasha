@@ -6,10 +6,14 @@ export const taylorSwiftBreathless = {
   slug: "taylor-swift-breathless",
   title: "Breathless",
   artist: "taylor-swift",
-  externalId: "196407bb-1746-4660-a3f0-37d986f96580",
-  externalLink: "https://musicbrainz.org/work/196407bb-1746-4660-a3f0-37d986f96580",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "196407bb-1746-4660-a3f0-37d986f96580",
+      externalLink: "https://musicbrainz.org/work/196407bb-1746-4660-a3f0-37d986f96580",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

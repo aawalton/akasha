@@ -6,10 +6,14 @@ export const zaraLarssonAinTMyFault = {
   slug: "zara-larsson-ain-t-my-fault",
   title: "Ain’t My Fault",
   artist: "zara-larsson",
-  externalId: "d5874711-1c35-4470-93d5-34c2bf26dd01",
-  externalLink: "https://musicbrainz.org/work/d5874711-1c35-4470-93d5-34c2bf26dd01",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d5874711-1c35-4470-93d5-34c2bf26dd01",
+      externalLink: "https://musicbrainz.org/work/d5874711-1c35-4470-93d5-34c2bf26dd01",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const taylorSwiftStyle = {
   slug: "taylor-swift-style",
   title: "Style",
   artist: "taylor-swift",
-  externalId: "f4dd8235-123f-4f53-ac07-1fc070016c06",
-  externalLink: "https://musicbrainz.org/work/f4dd8235-123f-4f53-ac07-1fc070016c06",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f4dd8235-123f-4f53-ac07-1fc070016c06",
+      externalLink: "https://musicbrainz.org/work/f4dd8235-123f-4f53-ac07-1fc070016c06",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

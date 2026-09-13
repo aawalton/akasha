@@ -6,10 +6,14 @@ export const taylorSwiftImgonnagetyouback = {
   slug: "taylor-swift-imgonnagetyouback",
   title: "imgonnagetyouback",
   artist: "taylor-swift",
-  externalId: "0ac37201-e79d-4c45-a0a2-e39118642f1b",
-  externalLink: "https://musicbrainz.org/work/0ac37201-e79d-4c45-a0a2-e39118642f1b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0ac37201-e79d-4c45-a0a2-e39118642f1b",
+      externalLink: "https://musicbrainz.org/work/0ac37201-e79d-4c45-a0a2-e39118642f1b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

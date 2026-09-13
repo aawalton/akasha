@@ -6,10 +6,14 @@ export const taylorSwiftPaperRings = {
   slug: "taylor-swift-paper-rings",
   title: "Paper Rings",
   artist: "taylor-swift",
-  externalId: "58a1bf9f-daba-4d4b-a419-a0d347f16134",
-  externalLink: "https://musicbrainz.org/work/58a1bf9f-daba-4d4b-a419-a0d347f16134",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "58a1bf9f-daba-4d4b-a419-a0d347f16134",
+      externalLink: "https://musicbrainz.org/work/58a1bf9f-daba-4d4b-a419-a0d347f16134",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

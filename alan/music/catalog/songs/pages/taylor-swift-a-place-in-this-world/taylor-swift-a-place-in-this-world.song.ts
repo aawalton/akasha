@@ -6,10 +6,14 @@ export const taylorSwiftAPlaceInThisWorld = {
   slug: "taylor-swift-a-place-in-this-world",
   title: "A Place in This World",
   artist: "taylor-swift",
-  externalId: "ba20038f-12ee-4c46-a31b-03e64358c36f",
-  externalLink: "https://musicbrainz.org/work/ba20038f-12ee-4c46-a31b-03e64358c36f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ba20038f-12ee-4c46-a31b-03e64358c36f",
+      externalLink: "https://musicbrainz.org/work/ba20038f-12ee-4c46-a31b-03e64358c36f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const taylorSwiftMarySSongOhMyMyMy = {
   slug: "taylor-swift-mary-s-song-oh-my-my-my",
   title: "Mary’s Song (Oh My My My)",
   artist: "taylor-swift",
-  externalId: "123c3c0f-cced-4f8c-ba50-ce8700e53345",
-  externalLink: "https://musicbrainz.org/work/123c3c0f-cced-4f8c-ba50-ce8700e53345",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "123c3c0f-cced-4f8c-ba50-ce8700e53345",
+      externalLink: "https://musicbrainz.org/work/123c3c0f-cced-4f8c-ba50-ce8700e53345",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

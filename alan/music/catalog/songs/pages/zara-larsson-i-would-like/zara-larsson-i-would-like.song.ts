@@ -6,10 +6,14 @@ export const zaraLarssonIWouldLike = {
   slug: "zara-larsson-i-would-like",
   title: "I Would Like",
   artist: "zara-larsson",
-  externalId: "fdaa6ab3-c017-4882-9543-98819379b3ae",
-  externalLink: "https://musicbrainz.org/work/fdaa6ab3-c017-4882-9543-98819379b3ae",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "fdaa6ab3-c017-4882-9543-98819379b3ae",
+      externalLink: "https://musicbrainz.org/work/fdaa6ab3-c017-4882-9543-98819379b3ae",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

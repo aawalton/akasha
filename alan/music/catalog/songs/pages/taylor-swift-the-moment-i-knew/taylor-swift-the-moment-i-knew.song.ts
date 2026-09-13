@@ -6,10 +6,14 @@ export const taylorSwiftTheMomentIKnew = {
   slug: "taylor-swift-the-moment-i-knew",
   title: "The Moment I Knew",
   artist: "taylor-swift",
-  externalId: "68b42983-ab47-420b-94c2-5cdbf6f172cd",
-  externalLink: "https://musicbrainz.org/work/68b42983-ab47-420b-94c2-5cdbf6f172cd",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "68b42983-ab47-420b-94c2-5cdbf6f172cd",
+      externalLink: "https://musicbrainz.org/work/68b42983-ab47-420b-94c2-5cdbf6f172cd",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

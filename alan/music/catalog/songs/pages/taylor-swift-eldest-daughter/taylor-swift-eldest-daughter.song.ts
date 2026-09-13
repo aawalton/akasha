@@ -6,10 +6,14 @@ export const taylorSwiftEldestDaughter = {
   slug: "taylor-swift-eldest-daughter",
   title: "Eldest Daughter",
   artist: "taylor-swift",
-  externalId: "98422fdb-1856-43e3-b9be-3abe94a04435",
-  externalLink: "https://musicbrainz.org/work/98422fdb-1856-43e3-b9be-3abe94a04435",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "98422fdb-1856-43e3-b9be-3abe94a04435",
+      externalLink: "https://musicbrainz.org/work/98422fdb-1856-43e3-b9be-3abe94a04435",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

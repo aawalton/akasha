@@ -6,10 +6,14 @@ export const taylorSwiftPhotograph = {
   slug: "taylor-swift-photograph",
   title: "Photograph",
   artist: "taylor-swift",
-  externalId: "752809e7-634f-375d-b4d2-e637ce40f8b0",
-  externalLink: "https://musicbrainz.org/work/752809e7-634f-375d-b4d2-e637ce40f8b0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "752809e7-634f-375d-b4d2-e637ce40f8b0",
+      externalLink: "https://musicbrainz.org/work/752809e7-634f-375d-b4d2-e637ce40f8b0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

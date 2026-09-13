@@ -6,10 +6,14 @@ export const taylorSwiftWeAreNeverEverGettingBackTogether = {
   slug: "taylor-swift-we-are-never-ever-getting-back-together",
   title: "We Are Never Ever Getting Back Together",
   artist: "taylor-swift",
-  externalId: "aa42d642-3771-4180-9c53-00ba22df5a4b",
-  externalLink: "https://musicbrainz.org/work/aa42d642-3771-4180-9c53-00ba22df5a4b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "aa42d642-3771-4180-9c53-00ba22df5a4b",
+      externalLink: "https://musicbrainz.org/work/aa42d642-3771-4180-9c53-00ba22df5a4b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

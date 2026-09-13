@@ -6,10 +6,14 @@ export const taylorSwiftShouldVeSaidNo = {
   slug: "taylor-swift-should-ve-said-no",
   title: "Should’ve Said No",
   artist: "taylor-swift",
-  externalId: "d45231e1-49b5-4684-b7d8-e304b15982f7",
-  externalLink: "https://musicbrainz.org/work/d45231e1-49b5-4684-b7d8-e304b15982f7",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d45231e1-49b5-4684-b7d8-e304b15982f7",
+      externalLink: "https://musicbrainz.org/work/d45231e1-49b5-4684-b7d8-e304b15982f7",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

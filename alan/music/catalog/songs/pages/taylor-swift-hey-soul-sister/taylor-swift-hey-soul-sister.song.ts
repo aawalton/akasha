@@ -6,10 +6,14 @@ export const taylorSwiftHeySoulSister = {
   slug: "taylor-swift-hey-soul-sister",
   title: "Hey, Soul Sister",
   artist: "taylor-swift",
-  externalId: "76edfa0a-4b9b-3863-a95b-d63dccf1279f",
-  externalLink: "https://musicbrainz.org/work/76edfa0a-4b9b-3863-a95b-d63dccf1279f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "76edfa0a-4b9b-3863-a95b-d63dccf1279f",
+      externalLink: "https://musicbrainz.org/work/76edfa0a-4b9b-3863-a95b-d63dccf1279f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

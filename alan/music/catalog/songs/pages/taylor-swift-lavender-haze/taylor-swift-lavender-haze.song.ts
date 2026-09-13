@@ -6,10 +6,14 @@ export const taylorSwiftLavenderHaze = {
   slug: "taylor-swift-lavender-haze",
   title: "Lavender Haze",
   artist: "taylor-swift",
-  externalId: "45e258a3-4552-442c-ba22-7e5a6899c3e8",
-  externalLink: "https://musicbrainz.org/work/45e258a3-4552-442c-ba22-7e5a6899c3e8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "45e258a3-4552-442c-ba22-7e5a6899c3e8",
+      externalLink: "https://musicbrainz.org/work/45e258a3-4552-442c-ba22-7e5a6899c3e8",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

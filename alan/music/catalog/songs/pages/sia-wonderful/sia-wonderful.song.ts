@@ -6,10 +6,14 @@ export const siaWonderful = {
   slug: "sia-wonderful",
   title: "Wonderful",
   artist: "sia",
-  externalId: "12752c41-37df-47d9-bbcf-8b1ab9eca356",
-  externalLink: "https://musicbrainz.org/work/12752c41-37df-47d9-bbcf-8b1ab9eca356",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "12752c41-37df-47d9-bbcf-8b1ab9eca356",
+      externalLink: "https://musicbrainz.org/work/12752c41-37df-47d9-bbcf-8b1ab9eca356",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

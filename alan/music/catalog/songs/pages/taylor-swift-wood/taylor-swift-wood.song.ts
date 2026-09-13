@@ -6,10 +6,14 @@ export const taylorSwiftWood = {
   slug: "taylor-swift-wood",
   title: "Wood",
   artist: "taylor-swift",
-  externalId: "02ca474f-0f95-4e13-80e8-da6d957cce18",
-  externalLink: "https://musicbrainz.org/work/02ca474f-0f95-4e13-80e8-da6d957cce18",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "02ca474f-0f95-4e13-80e8-da6d957cce18",
+      externalLink: "https://musicbrainz.org/work/02ca474f-0f95-4e13-80e8-da6d957cce18",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

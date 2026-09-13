@@ -6,10 +6,14 @@ export const zaraLarssonMemoryLane = {
   slug: "zara-larsson-memory-lane",
   title: "Memory Lane",
   artist: "zara-larsson",
-  externalId: "27ace0fb-2564-40b9-b669-0b1ffdf0bb77",
-  externalLink: "https://musicbrainz.org/work/27ace0fb-2564-40b9-b669-0b1ffdf0bb77",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "27ace0fb-2564-40b9-b669-0b1ffdf0bb77",
+      externalLink: "https://musicbrainz.org/work/27ace0fb-2564-40b9-b669-0b1ffdf0bb77",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

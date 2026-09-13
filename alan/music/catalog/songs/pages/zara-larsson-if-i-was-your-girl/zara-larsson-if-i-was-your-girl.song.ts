@@ -6,10 +6,14 @@ export const zaraLarssonIfIWasYourGirl = {
   slug: "zara-larsson-if-i-was-your-girl",
   title: "If I Was Your Girl",
   artist: "zara-larsson",
-  externalId: "164d9ebb-943e-4da2-9d5f-36d7276c4b05",
-  externalLink: "https://musicbrainz.org/work/164d9ebb-943e-4da2-9d5f-36d7276c4b05",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "164d9ebb-943e-4da2-9d5f-36d7276c4b05",
+      externalLink: "https://musicbrainz.org/work/164d9ebb-943e-4da2-9d5f-36d7276c4b05",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

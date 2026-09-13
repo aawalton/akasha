@@ -6,10 +6,14 @@ export const zaraLarssonLastSummer = {
   slug: "zara-larsson-last-summer",
   title: "Last Summer",
   artist: "zara-larsson",
-  externalId: "50f1c364-59ac-441f-932b-4db430049021",
-  externalLink: "https://musicbrainz.org/work/50f1c364-59ac-441f-932b-4db430049021",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "50f1c364-59ac-441f-932b-4db430049021",
+      externalLink: "https://musicbrainz.org/work/50f1c364-59ac-441f-932b-4db430049021",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

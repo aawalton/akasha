@@ -6,10 +6,14 @@ export const taylorSwiftMidnightRain = {
   slug: "taylor-swift-midnight-rain",
   title: "Midnight Rain",
   artist: "taylor-swift",
-  externalId: "5182b11e-9b69-445c-adf0-74f6a9ac0aef",
-  externalLink: "https://musicbrainz.org/work/5182b11e-9b69-445c-adf0-74f6a9ac0aef",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5182b11e-9b69-445c-adf0-74f6a9ac0aef",
+      externalLink: "https://musicbrainz.org/work/5182b11e-9b69-445c-adf0-74f6a9ac0aef",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

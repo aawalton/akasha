@@ -6,10 +6,14 @@ export const taylorSwiftTimMcgraw = {
   slug: "taylor-swift-tim-mcgraw",
   title: "Tim McGraw",
   artist: "taylor-swift",
-  externalId: "aa3a2227-dc87-4635-8b67-629be32e7bf9",
-  externalLink: "https://musicbrainz.org/work/aa3a2227-dc87-4635-8b67-629be32e7bf9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "aa3a2227-dc87-4635-8b67-629be32e7bf9",
+      externalLink: "https://musicbrainz.org/work/aa3a2227-dc87-4635-8b67-629be32e7bf9",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

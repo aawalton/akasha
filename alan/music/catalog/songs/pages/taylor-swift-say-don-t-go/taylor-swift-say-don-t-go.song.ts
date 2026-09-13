@@ -6,10 +6,14 @@ export const taylorSwiftSayDonTGo = {
   slug: "taylor-swift-say-don-t-go",
   title: "Say Don’t Go",
   artist: "taylor-swift",
-  externalId: "f1bb636f-883e-4bd6-8bc7-9a493fff0164",
-  externalLink: "https://musicbrainz.org/work/f1bb636f-883e-4bd6-8bc7-9a493fff0164",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f1bb636f-883e-4bd6-8bc7-9a493fff0164",
+      externalLink: "https://musicbrainz.org/work/f1bb636f-883e-4bd6-8bc7-9a493fff0164",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

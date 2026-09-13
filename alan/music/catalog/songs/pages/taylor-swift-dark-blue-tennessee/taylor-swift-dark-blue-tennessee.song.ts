@@ -6,10 +6,14 @@ export const taylorSwiftDarkBlueTennessee = {
   slug: "taylor-swift-dark-blue-tennessee",
   title: "Dark Blue Tennessee",
   artist: "taylor-swift",
-  externalId: "c14fe825-4ba4-42ea-9620-81f09ba42d19",
-  externalLink: "https://musicbrainz.org/work/c14fe825-4ba4-42ea-9620-81f09ba42d19",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c14fe825-4ba4-42ea-9620-81f09ba42d19",
+      externalLink: "https://musicbrainz.org/work/c14fe825-4ba4-42ea-9620-81f09ba42d19",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

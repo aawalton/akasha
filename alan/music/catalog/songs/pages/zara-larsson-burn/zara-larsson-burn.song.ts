@@ -6,10 +6,14 @@ export const zaraLarssonBurn = {
   slug: "zara-larsson-burn",
   title: "Burn",
   artist: "zara-larsson",
-  externalId: "5b90ea12-44d0-47f6-9373-0a63c4ad1e57",
-  externalLink: "https://musicbrainz.org/work/5b90ea12-44d0-47f6-9373-0a63c4ad1e57",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5b90ea12-44d0-47f6-9373-0a63c4ad1e57",
+      externalLink: "https://musicbrainz.org/work/5b90ea12-44d0-47f6-9373-0a63c4ad1e57",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

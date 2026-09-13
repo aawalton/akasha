@@ -6,10 +6,14 @@ export const taylorSwift222 = {
   slug: "taylor-swift-22-2",
   title: "22",
   artist: "taylor-swift",
-  externalId: "972e0c06-c474-40d1-8eea-8aeb510c0ae5",
-  externalLink: "https://musicbrainz.org/work/972e0c06-c474-40d1-8eea-8aeb510c0ae5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "972e0c06-c474-40d1-8eea-8aeb510c0ae5",
+      externalLink: "https://musicbrainz.org/work/972e0c06-c474-40d1-8eea-8aeb510c0ae5",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: false,
   lyricsSource: "lrclib",

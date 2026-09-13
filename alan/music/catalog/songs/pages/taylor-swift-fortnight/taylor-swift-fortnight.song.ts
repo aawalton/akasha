@@ -6,10 +6,14 @@ export const taylorSwiftFortnight = {
   slug: "taylor-swift-fortnight",
   title: "Fortnight",
   artist: "taylor-swift",
-  externalId: "9fdc1f4e-b3bf-4453-9d44-933d9937cb4a",
-  externalLink: "https://musicbrainz.org/work/9fdc1f4e-b3bf-4453-9d44-933d9937cb4a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9fdc1f4e-b3bf-4453-9d44-933d9937cb4a",
+      externalLink: "https://musicbrainz.org/work/9fdc1f4e-b3bf-4453-9d44-933d9937cb4a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

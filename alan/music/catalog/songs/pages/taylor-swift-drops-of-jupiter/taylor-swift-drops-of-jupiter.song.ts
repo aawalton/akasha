@@ -6,10 +6,14 @@ export const taylorSwiftDropsOfJupiter = {
   slug: "taylor-swift-drops-of-jupiter",
   title: "Drops of Jupiter",
   artist: "taylor-swift",
-  externalId: "c6373387-f4f4-4a0a-b025-2afcb8d2daab",
-  externalLink: "https://musicbrainz.org/work/c6373387-f4f4-4a0a-b025-2afcb8d2daab",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c6373387-f4f4-4a0a-b025-2afcb8d2daab",
+      externalLink: "https://musicbrainz.org/work/c6373387-f4f4-4a0a-b025-2afcb8d2daab",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

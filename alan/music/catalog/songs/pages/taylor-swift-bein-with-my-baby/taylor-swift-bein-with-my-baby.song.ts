@@ -6,10 +6,14 @@ export const taylorSwiftBeinWithMyBaby = {
   slug: "taylor-swift-bein-with-my-baby",
   title: "Bein’ With My Baby",
   artist: "taylor-swift",
-  externalId: "9ea3f8bf-7011-4f37-bd81-d125df87b080",
-  externalLink: "https://musicbrainz.org/work/9ea3f8bf-7011-4f37-bd81-d125df87b080",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9ea3f8bf-7011-4f37-bd81-d125df87b080",
+      externalLink: "https://musicbrainz.org/work/9ea3f8bf-7011-4f37-bd81-d125df87b080",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

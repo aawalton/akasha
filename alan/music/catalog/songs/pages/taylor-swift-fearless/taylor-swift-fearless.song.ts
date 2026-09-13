@@ -6,10 +6,14 @@ export const taylorSwiftFearless = {
   slug: "taylor-swift-fearless",
   title: "Fearless",
   artist: "taylor-swift",
-  externalId: "49ad745e-cb41-327a-8544-dba449a766eb",
-  externalLink: "https://musicbrainz.org/work/49ad745e-cb41-327a-8544-dba449a766eb",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "49ad745e-cb41-327a-8544-dba449a766eb",
+      externalLink: "https://musicbrainz.org/work/49ad745e-cb41-327a-8544-dba449a766eb",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

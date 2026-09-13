@@ -6,10 +6,14 @@ export const taylorSwiftRun = {
   slug: "taylor-swift-run",
   title: "Run",
   artist: "taylor-swift",
-  externalId: "5848592f-01a6-4bb8-a66c-b1ce2feca85c",
-  externalLink: "https://musicbrainz.org/work/5848592f-01a6-4bb8-a66c-b1ce2feca85c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5848592f-01a6-4bb8-a66c-b1ce2feca85c",
+      externalLink: "https://musicbrainz.org/work/5848592f-01a6-4bb8-a66c-b1ce2feca85c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

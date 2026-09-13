@@ -6,10 +6,14 @@ export const taylorSwiftGetawayCar = {
   slug: "taylor-swift-getaway-car",
   title: "Getaway Car",
   artist: "taylor-swift",
-  externalId: "588811ba-b79c-469f-b0eb-7b9dd056e6d4",
-  externalLink: "https://musicbrainz.org/work/588811ba-b79c-469f-b0eb-7b9dd056e6d4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "588811ba-b79c-469f-b0eb-7b9dd056e6d4",
+      externalLink: "https://musicbrainz.org/work/588811ba-b79c-469f-b0eb-7b9dd056e6d4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

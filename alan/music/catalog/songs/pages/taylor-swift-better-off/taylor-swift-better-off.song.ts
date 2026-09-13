@@ -6,10 +6,14 @@ export const taylorSwiftBetterOff = {
   slug: "taylor-swift-better-off",
   title: "Better Off",
   artist: "taylor-swift",
-  externalId: "011046e6-7b97-4af9-bf67-c4b99b7f402e",
-  externalLink: "https://musicbrainz.org/work/011046e6-7b97-4af9-bf67-c4b99b7f402e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "011046e6-7b97-4af9-bf67-c4b99b7f402e",
+      externalLink: "https://musicbrainz.org/work/011046e6-7b97-4af9-bf67-c4b99b7f402e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

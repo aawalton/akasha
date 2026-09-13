@@ -6,10 +6,14 @@ export const taylorSwiftYouAreInLove = {
   slug: "taylor-swift-you-are-in-love",
   title: "You Are in Love",
   artist: "taylor-swift",
-  externalId: "ae0a685e-025e-4cd5-9aed-117249daa3ff",
-  externalLink: "https://musicbrainz.org/work/ae0a685e-025e-4cd5-9aed-117249daa3ff",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ae0a685e-025e-4cd5-9aed-117249daa3ff",
+      externalLink: "https://musicbrainz.org/work/ae0a685e-025e-4cd5-9aed-117249daa3ff",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

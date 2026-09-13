@@ -6,10 +6,14 @@ export const taylorSwiftActuallyRomantic = {
   slug: "taylor-swift-actually-romantic",
   title: "Actually Romantic",
   artist: "taylor-swift",
-  externalId: "6d1c1dec-975b-4631-89a1-cbd9c0a564b5",
-  externalLink: "https://musicbrainz.org/work/6d1c1dec-975b-4631-89a1-cbd9c0a564b5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6d1c1dec-975b-4631-89a1-cbd9c0a564b5",
+      externalLink: "https://musicbrainz.org/work/6d1c1dec-975b-4631-89a1-cbd9c0a564b5",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const taylorSwiftAntiHero = {
   slug: "taylor-swift-anti-hero",
   title: "Anti‐Hero",
   artist: "taylor-swift",
-  externalId: "aae062a3-a98c-48e0-ab5f-d52a7953c414",
-  externalLink: "https://musicbrainz.org/work/aae062a3-a98c-48e0-ab5f-d52a7953c414",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "aae062a3-a98c-48e0-ab5f-d52a7953c414",
+      externalLink: "https://musicbrainz.org/work/aae062a3-a98c-48e0-ab5f-d52a7953c414",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

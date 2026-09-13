@@ -6,10 +6,14 @@ export const taylorSwiftHalfOfMyHeart = {
   slug: "taylor-swift-half-of-my-heart",
   title: "Half of My Heart",
   artist: "taylor-swift",
-  externalId: "b6a979c1-3f28-340c-93bb-95baf8dfdc27",
-  externalLink: "https://musicbrainz.org/work/b6a979c1-3f28-340c-93bb-95baf8dfdc27",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b6a979c1-3f28-340c-93bb-95baf8dfdc27",
+      externalLink: "https://musicbrainz.org/work/b6a979c1-3f28-340c-93bb-95baf8dfdc27",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

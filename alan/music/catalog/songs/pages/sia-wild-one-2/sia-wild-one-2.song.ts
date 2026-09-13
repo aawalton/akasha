@@ -6,10 +6,14 @@ export const siaWildOne2 = {
   slug: "sia-wild-one-2",
   title: "Wild One 2",
   artist: "sia",
-  externalId: "27c2baeb-9bf5-4643-bc28-8f22ab068b1d",
-  externalLink: "https://musicbrainz.org/work/27c2baeb-9bf5-4643-bc28-8f22ab068b1d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "27c2baeb-9bf5-4643-bc28-8f22ab068b1d",
+      externalLink: "https://musicbrainz.org/work/27c2baeb-9bf5-4643-bc28-8f22ab068b1d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

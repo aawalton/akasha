@@ -6,10 +6,14 @@ export const taylorSwiftFatherFigure = {
   slug: "taylor-swift-father-figure",
   title: "Father Figure",
   artist: "taylor-swift",
-  externalId: "a3c82135-d292-4687-9728-4efde74b0216",
-  externalLink: "https://musicbrainz.org/work/a3c82135-d292-4687-9728-4efde74b0216",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a3c82135-d292-4687-9728-4efde74b0216",
+      externalLink: "https://musicbrainz.org/work/a3c82135-d292-4687-9728-4efde74b0216",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

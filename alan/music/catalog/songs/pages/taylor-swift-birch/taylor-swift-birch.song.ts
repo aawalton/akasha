@@ -6,10 +6,14 @@ export const taylorSwiftBirch = {
   slug: "taylor-swift-birch",
   title: "Birch",
   artist: "taylor-swift",
-  externalId: "d3af16c7-29bc-443a-a3b3-99a4c001cb0b",
-  externalLink: "https://musicbrainz.org/work/d3af16c7-29bc-443a-a3b3-99a4c001cb0b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d3af16c7-29bc-443a-a3b3-99a4c001cb0b",
+      externalLink: "https://musicbrainz.org/work/d3af16c7-29bc-443a-a3b3-99a4c001cb0b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

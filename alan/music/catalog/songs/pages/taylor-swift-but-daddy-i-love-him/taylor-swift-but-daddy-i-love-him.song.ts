@@ -6,10 +6,14 @@ export const taylorSwiftButDaddyILoveHim = {
   slug: "taylor-swift-but-daddy-i-love-him",
   title: "But Daddy I Love Him",
   artist: "taylor-swift",
-  externalId: "9fd277d4-4ada-4516-aa90-7fdc2b80f5fe",
-  externalLink: "https://musicbrainz.org/work/9fd277d4-4ada-4516-aa90-7fdc2b80f5fe",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9fd277d4-4ada-4516-aa90-7fdc2b80f5fe",
+      externalLink: "https://musicbrainz.org/work/9fd277d4-4ada-4516-aa90-7fdc2b80f5fe",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

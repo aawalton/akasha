@@ -6,10 +6,14 @@ export const taylorSwiftLuckyYou = {
   slug: "taylor-swift-lucky-you",
   title: "Lucky You",
   artist: "taylor-swift",
-  externalId: "6398e063-cf22-40b8-a1e8-15f8ccf64052",
-  externalLink: "https://musicbrainz.org/work/6398e063-cf22-40b8-a1e8-15f8ccf64052",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6398e063-cf22-40b8-a1e8-15f8ccf64052",
+      externalLink: "https://musicbrainz.org/work/6398e063-cf22-40b8-a1e8-15f8ccf64052",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "solo",

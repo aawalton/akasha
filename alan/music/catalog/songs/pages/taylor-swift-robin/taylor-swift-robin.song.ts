@@ -6,10 +6,14 @@ export const taylorSwiftRobin = {
   slug: "taylor-swift-robin",
   title: "Robin",
   artist: "taylor-swift",
-  externalId: "b37a420f-876e-498f-aa2b-7f846695f407",
-  externalLink: "https://musicbrainz.org/work/b37a420f-876e-498f-aa2b-7f846695f407",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b37a420f-876e-498f-aa2b-7f846695f407",
+      externalLink: "https://musicbrainz.org/work/b37a420f-876e-498f-aa2b-7f846695f407",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

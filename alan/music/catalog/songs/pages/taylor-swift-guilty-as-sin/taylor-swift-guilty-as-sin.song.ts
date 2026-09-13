@@ -6,10 +6,14 @@ export const taylorSwiftGuiltyAsSin = {
   slug: "taylor-swift-guilty-as-sin",
   title: "Guilty as Sin?",
   artist: "taylor-swift",
-  externalId: "47fd8538-8693-4dba-b5e3-df7f973d810b",
-  externalLink: "https://musicbrainz.org/work/47fd8538-8693-4dba-b5e3-df7f973d810b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "47fd8538-8693-4dba-b5e3-df7f973d810b",
+      externalLink: "https://musicbrainz.org/work/47fd8538-8693-4dba-b5e3-df7f973d810b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

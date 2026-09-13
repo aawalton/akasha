@@ -6,10 +6,14 @@ export const taylorSwiftLoverRemix = {
   slug: "taylor-swift-lover-remix",
   title: "Lover (remix)",
   artist: "taylor-swift",
-  externalId: "03955189-25c7-4763-b2e6-fa0a4abf1e70",
-  externalLink: "https://musicbrainz.org/work/03955189-25c7-4763-b2e6-fa0a4abf1e70",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "03955189-25c7-4763-b2e6-fa0a4abf1e70",
+      externalLink: "https://musicbrainz.org/work/03955189-25c7-4763-b2e6-fa0a4abf1e70",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

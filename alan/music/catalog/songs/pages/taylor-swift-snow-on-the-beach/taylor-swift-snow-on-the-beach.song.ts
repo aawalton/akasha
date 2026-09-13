@@ -6,10 +6,14 @@ export const taylorSwiftSnowOnTheBeach = {
   slug: "taylor-swift-snow-on-the-beach",
   title: "Snow on the Beach",
   artist: "taylor-swift",
-  externalId: "d48b6516-f503-48a8-b15d-c0b6f46c8622",
-  externalLink: "https://musicbrainz.org/work/d48b6516-f503-48a8-b15d-c0b6f46c8622",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d48b6516-f503-48a8-b15d-c0b6f46c8622",
+      externalLink: "https://musicbrainz.org/work/d48b6516-f503-48a8-b15d-c0b6f46c8622",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const taylorSwiftMe = {
   slug: "taylor-swift-me",
   title: "ME!",
   artist: "taylor-swift",
-  externalId: "f58825b5-1983-4312-8b6b-a6cd366d395a",
-  externalLink: "https://musicbrainz.org/work/f58825b5-1983-4312-8b6b-a6cd366d395a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f58825b5-1983-4312-8b6b-a6cd366d395a",
+      externalLink: "https://musicbrainz.org/work/f58825b5-1983-4312-8b6b-a6cd366d395a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

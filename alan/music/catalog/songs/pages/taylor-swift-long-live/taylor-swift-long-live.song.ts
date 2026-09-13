@@ -6,10 +6,14 @@ export const taylorSwiftLongLive = {
   slug: "taylor-swift-long-live",
   title: "Long Live",
   artist: "taylor-swift",
-  externalId: "0730d63b-e621-43de-9cdf-d6906db2f7b7",
-  externalLink: "https://musicbrainz.org/work/0730d63b-e621-43de-9cdf-d6906db2f7b7",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0730d63b-e621-43de-9cdf-d6906db2f7b7",
+      externalLink: "https://musicbrainz.org/work/0730d63b-e621-43de-9cdf-d6906db2f7b7",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

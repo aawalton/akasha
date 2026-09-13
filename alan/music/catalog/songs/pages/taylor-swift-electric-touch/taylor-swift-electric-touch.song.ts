@@ -6,10 +6,14 @@ export const taylorSwiftElectricTouch = {
   slug: "taylor-swift-electric-touch",
   title: "Electric Touch",
   artist: "taylor-swift",
-  externalId: "3d7f6e77-f875-4238-a633-2b8d89b497d7",
-  externalLink: "https://musicbrainz.org/work/3d7f6e77-f875-4238-a633-2b8d89b497d7",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3d7f6e77-f875-4238-a633-2b8d89b497d7",
+      externalLink: "https://musicbrainz.org/work/3d7f6e77-f875-4238-a633-2b8d89b497d7",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

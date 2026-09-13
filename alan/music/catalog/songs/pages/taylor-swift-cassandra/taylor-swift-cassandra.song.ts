@@ -6,10 +6,14 @@ export const taylorSwiftCassandra = {
   slug: "taylor-swift-cassandra",
   title: "Cassandra",
   artist: "taylor-swift",
-  externalId: "2b82c0fb-4cd0-441f-8619-0684f12031fd",
-  externalLink: "https://musicbrainz.org/work/2b82c0fb-4cd0-441f-8619-0684f12031fd",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2b82c0fb-4cd0-441f-8619-0684f12031fd",
+      externalLink: "https://musicbrainz.org/work/2b82c0fb-4cd0-441f-8619-0684f12031fd",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

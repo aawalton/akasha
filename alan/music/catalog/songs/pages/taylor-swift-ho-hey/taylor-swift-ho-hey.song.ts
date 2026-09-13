@@ -6,10 +6,14 @@ export const taylorSwiftHoHey = {
   slug: "taylor-swift-ho-hey",
   title: "Ho Hey",
   artist: "taylor-swift",
-  externalId: "24a7c335-e3f7-4917-b68c-e8ad3dfcac98",
-  externalLink: "https://musicbrainz.org/work/24a7c335-e3f7-4917-b68c-e8ad3dfcac98",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "24a7c335-e3f7-4917-b68c-e8ad3dfcac98",
+      externalLink: "https://musicbrainz.org/work/24a7c335-e3f7-4917-b68c-e8ad3dfcac98",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

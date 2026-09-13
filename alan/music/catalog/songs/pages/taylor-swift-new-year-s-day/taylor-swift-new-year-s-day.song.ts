@@ -6,10 +6,14 @@ export const taylorSwiftNewYearSDay = {
   slug: "taylor-swift-new-year-s-day",
   title: "New Year’s Day",
   artist: "taylor-swift",
-  externalId: "79330f57-d968-4800-aa5e-411f21a7202b",
-  externalLink: "https://musicbrainz.org/work/79330f57-d968-4800-aa5e-411f21a7202b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "79330f57-d968-4800-aa5e-411f21a7202b",
+      externalLink: "https://musicbrainz.org/work/79330f57-d968-4800-aa5e-411f21a7202b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

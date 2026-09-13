@@ -6,10 +6,14 @@ export const taylorSwiftDejaVu = {
   slug: "taylor-swift-deja-vu",
   title: "deja vu",
   artist: "taylor-swift",
-  externalId: "9364b685-ec38-4744-83f5-514f5a01d532",
-  externalLink: "https://musicbrainz.org/work/9364b685-ec38-4744-83f5-514f5a01d532",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9364b685-ec38-4744-83f5-514f5a01d532",
+      externalLink: "https://musicbrainz.org/work/9364b685-ec38-4744-83f5-514f5a01d532",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

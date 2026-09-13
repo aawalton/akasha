@@ -6,10 +6,14 @@ export const taylorSwiftSeptember = {
   slug: "taylor-swift-september",
   title: "September",
   artist: "taylor-swift",
-  externalId: "3ace8b4f-bfbf-36a0-9089-2c0e489411a4",
-  externalLink: "https://musicbrainz.org/work/3ace8b4f-bfbf-36a0-9089-2c0e489411a4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3ace8b4f-bfbf-36a0-9089-2c0e489411a4",
+      externalLink: "https://musicbrainz.org/work/3ace8b4f-bfbf-36a0-9089-2c0e489411a4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

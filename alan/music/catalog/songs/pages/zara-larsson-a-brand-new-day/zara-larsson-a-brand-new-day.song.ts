@@ -6,10 +6,14 @@ export const zaraLarssonABrandNewDay = {
   slug: "zara-larsson-a-brand-new-day",
   title: "A Brand New Day",
   artist: "zara-larsson",
-  externalId: "b7bacded-d186-484a-abea-d9b5d85188e1",
-  externalLink: "https://musicbrainz.org/work/b7bacded-d186-484a-abea-d9b5d85188e1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b7bacded-d186-484a-abea-d9b5d85188e1",
+      externalLink: "https://musicbrainz.org/work/b7bacded-d186-484a-abea-d9b5d85188e1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

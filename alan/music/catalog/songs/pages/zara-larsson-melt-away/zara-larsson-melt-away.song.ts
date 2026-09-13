@@ -6,10 +6,14 @@ export const zaraLarssonMeltAway = {
   slug: "zara-larsson-melt-away",
   title: "Melt Away",
   artist: "zara-larsson",
-  externalId: "c444ca1b-80eb-4291-8c4b-268317ac89a8",
-  externalLink: "https://musicbrainz.org/work/c444ca1b-80eb-4291-8c4b-268317ac89a8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c444ca1b-80eb-4291-8c4b-268317ac89a8",
+      externalLink: "https://musicbrainz.org/work/c444ca1b-80eb-4291-8c4b-268317ac89a8",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

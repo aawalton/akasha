@@ -6,10 +6,14 @@ export const taylorSwiftPeter = {
   slug: "taylor-swift-peter",
   title: "Peter",
   artist: "taylor-swift",
-  externalId: "1da0b797-39ec-4920-bc60-ba655a5cf6ea",
-  externalLink: "https://musicbrainz.org/work/1da0b797-39ec-4920-bc60-ba655a5cf6ea",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1da0b797-39ec-4920-bc60-ba655a5cf6ea",
+      externalLink: "https://musicbrainz.org/work/1da0b797-39ec-4920-bc60-ba655a5cf6ea",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

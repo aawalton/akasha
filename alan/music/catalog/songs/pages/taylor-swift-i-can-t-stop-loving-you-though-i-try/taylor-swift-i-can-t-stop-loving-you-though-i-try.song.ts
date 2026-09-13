@@ -6,10 +6,14 @@ export const taylorSwiftICanTStopLovingYouThoughITry = {
   slug: "taylor-swift-i-can-t-stop-loving-you-though-i-try",
   title: "I Can’t Stop Loving You (Though I Try)",
   artist: "taylor-swift",
-  externalId: "0618244a-f23c-47b0-b72a-e23f0d339645",
-  externalLink: "https://musicbrainz.org/work/0618244a-f23c-47b0-b72a-e23f0d339645",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0618244a-f23c-47b0-b72a-e23f0d339645",
+      externalLink: "https://musicbrainz.org/work/0618244a-f23c-47b0-b72a-e23f0d339645",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

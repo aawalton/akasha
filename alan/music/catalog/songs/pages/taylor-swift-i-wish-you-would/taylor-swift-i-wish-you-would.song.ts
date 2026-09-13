@@ -6,10 +6,14 @@ export const taylorSwiftIWishYouWould = {
   slug: "taylor-swift-i-wish-you-would",
   title: "I Wish You Would",
   artist: "taylor-swift",
-  externalId: "698a8b54-c881-4f70-a7a7-599c8a85523b",
-  externalLink: "https://musicbrainz.org/work/698a8b54-c881-4f70-a7a7-599c8a85523b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "698a8b54-c881-4f70-a7a7-599c8a85523b",
+      externalLink: "https://musicbrainz.org/work/698a8b54-c881-4f70-a7a7-599c8a85523b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

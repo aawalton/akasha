@@ -6,10 +6,14 @@ export const taylorSwiftHappiness = {
   slug: "taylor-swift-happiness",
   title: "happiness",
   artist: "taylor-swift",
-  externalId: "a4b2e081-39fb-4aa5-a43e-df28c29bcf4d",
-  externalLink: "https://musicbrainz.org/work/a4b2e081-39fb-4aa5-a43e-df28c29bcf4d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a4b2e081-39fb-4aa5-a43e-df28c29bcf4d",
+      externalLink: "https://musicbrainz.org/work/a4b2e081-39fb-4aa5-a43e-df28c29bcf4d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const taylorSwiftAllTooWellJakeSVersion = {
   slug: "taylor-swift-all-too-well-jake-s-version",
   title: "All Too Well (Jake’s version)",
   artist: "taylor-swift",
-  externalId: "223bae6c-6f53-446a-8914-a31b75b78e3b",
-  externalLink: "https://musicbrainz.org/work/223bae6c-6f53-446a-8914-a31b75b78e3b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "223bae6c-6f53-446a-8914-a31b75b78e3b",
+      externalLink: "https://musicbrainz.org/work/223bae6c-6f53-446a-8914-a31b75b78e3b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: false,
   written: "collab",

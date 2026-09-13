@@ -6,10 +6,14 @@ export const taylorSwiftNashville = {
   slug: "taylor-swift-nashville",
   title: "Nashville",
   artist: "taylor-swift",
-  externalId: "b9ba7aa2-bc9b-4620-b4c4-0272db6cb991",
-  externalLink: "https://musicbrainz.org/work/b9ba7aa2-bc9b-4620-b4c4-0272db6cb991",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b9ba7aa2-bc9b-4620-b4c4-0272db6cb991",
+      externalLink: "https://musicbrainz.org/work/b9ba7aa2-bc9b-4620-b4c4-0272db6cb991",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

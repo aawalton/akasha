@@ -6,10 +6,14 @@ export const taylorSwiftJumpThenFall = {
   slug: "taylor-swift-jump-then-fall",
   title: "Jump Then Fall",
   artist: "taylor-swift",
-  externalId: "6fb37e3c-023b-49b8-9050-4a18c049d1d1",
-  externalLink: "https://musicbrainz.org/work/6fb37e3c-023b-49b8-9050-4a18c049d1d1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6fb37e3c-023b-49b8-9050-4a18c049d1d1",
+      externalLink: "https://musicbrainz.org/work/6fb37e3c-023b-49b8-9050-4a18c049d1d1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const siaYouReMyFlame = {
   slug: "sia-you-re-my-flame",
   title: "You’re My Flame",
   artist: "sia",
-  externalId: "f51d7d32-fd1b-4296-8fa6-996d75bd0022",
-  externalLink: "https://musicbrainz.org/work/f51d7d32-fd1b-4296-8fa6-996d75bd0022",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f51d7d32-fd1b-4296-8fa6-996d75bd0022",
+      externalLink: "https://musicbrainz.org/work/f51d7d32-fd1b-4296-8fa6-996d75bd0022",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   lyricsSource: "lrclib",

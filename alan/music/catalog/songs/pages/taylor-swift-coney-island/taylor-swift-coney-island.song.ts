@@ -6,10 +6,14 @@ export const taylorSwiftConeyIsland = {
   slug: "taylor-swift-coney-island",
   title: "coney island",
   artist: "taylor-swift",
-  externalId: "100b0575-337a-443d-8845-9283eeda056a",
-  externalLink: "https://musicbrainz.org/work/100b0575-337a-443d-8845-9283eeda056a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "100b0575-337a-443d-8845-9283eeda056a",
+      externalLink: "https://musicbrainz.org/work/100b0575-337a-443d-8845-9283eeda056a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

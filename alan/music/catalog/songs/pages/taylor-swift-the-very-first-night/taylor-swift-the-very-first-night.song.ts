@@ -6,10 +6,14 @@ export const taylorSwiftTheVeryFirstNight = {
   slug: "taylor-swift-the-very-first-night",
   title: "The Very First Night",
   artist: "taylor-swift",
-  externalId: "a90e8525-ada0-45cf-8d3c-bf2c55378ef7",
-  externalLink: "https://musicbrainz.org/work/a90e8525-ada0-45cf-8d3c-bf2c55378ef7",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a90e8525-ada0-45cf-8d3c-bf2c55378ef7",
+      externalLink: "https://musicbrainz.org/work/a90e8525-ada0-45cf-8d3c-bf2c55378ef7",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

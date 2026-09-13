@@ -6,10 +6,14 @@ export const taylorSwiftPourSomeSugarOnMe = {
   slug: "taylor-swift-pour-some-sugar-on-me",
   title: "Pour Some Sugar on Me",
   artist: "taylor-swift",
-  externalId: "400858e3-38fd-35c0-8fdb-dea449806942",
-  externalLink: "https://musicbrainz.org/work/400858e3-38fd-35c0-8fdb-dea449806942",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "400858e3-38fd-35c0-8fdb-dea449806942",
+      externalLink: "https://musicbrainz.org/work/400858e3-38fd-35c0-8fdb-dea449806942",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

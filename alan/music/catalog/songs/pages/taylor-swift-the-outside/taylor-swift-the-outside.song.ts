@@ -6,10 +6,14 @@ export const taylorSwiftTheOutside = {
   slug: "taylor-swift-the-outside",
   title: "The Outside",
   artist: "taylor-swift",
-  externalId: "bed40b3a-2786-4fc0-9e22-2bf143c93c1d",
-  externalLink: "https://musicbrainz.org/work/bed40b3a-2786-4fc0-9e22-2bf143c93c1d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bed40b3a-2786-4fc0-9e22-2bf143c93c1d",
+      externalLink: "https://musicbrainz.org/work/bed40b3a-2786-4fc0-9e22-2bf143c93c1d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

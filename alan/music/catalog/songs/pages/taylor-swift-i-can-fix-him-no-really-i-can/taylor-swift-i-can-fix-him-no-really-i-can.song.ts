@@ -6,10 +6,14 @@ export const taylorSwiftICanFixHimNoReallyICan = {
   slug: "taylor-swift-i-can-fix-him-no-really-i-can",
   title: "I Can Fix Him (No Really I Can)",
   artist: "taylor-swift",
-  externalId: "f618d7d3-51c2-4d66-be38-5cf28777ec8e",
-  externalLink: "https://musicbrainz.org/work/f618d7d3-51c2-4d66-be38-5cf28777ec8e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f618d7d3-51c2-4d66-be38-5cf28777ec8e",
+      externalLink: "https://musicbrainz.org/work/f618d7d3-51c2-4d66-be38-5cf28777ec8e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

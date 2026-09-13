@@ -6,10 +6,14 @@ export const zaraLarssonEscape = {
   slug: "zara-larsson-escape",
   title: "Escape",
   artist: "zara-larsson",
-  externalId: "d7d08db7-d499-47ca-8a3c-6b15ecd9174f",
-  externalLink: "https://musicbrainz.org/work/d7d08db7-d499-47ca-8a3c-6b15ecd9174f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d7d08db7-d499-47ca-8a3c-6b15ecd9174f",
+      externalLink: "https://musicbrainz.org/work/d7d08db7-d499-47ca-8a3c-6b15ecd9174f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

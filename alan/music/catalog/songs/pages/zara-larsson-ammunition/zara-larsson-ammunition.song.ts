@@ -6,10 +6,14 @@ export const zaraLarssonAmmunition = {
   slug: "zara-larsson-ammunition",
   title: "Ammunition",
   artist: "zara-larsson",
-  externalId: "5ef3692b-96c9-4a12-8bee-6c72fec56f18",
-  externalLink: "https://musicbrainz.org/work/5ef3692b-96c9-4a12-8bee-6c72fec56f18",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5ef3692b-96c9-4a12-8bee-6c72fec56f18",
+      externalLink: "https://musicbrainz.org/work/5ef3692b-96c9-4a12-8bee-6c72fec56f18",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

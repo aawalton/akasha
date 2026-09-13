@@ -6,10 +6,14 @@ export const taylorSwiftYouAllOverMe = {
   slug: "taylor-swift-you-all-over-me",
   title: "You All Over Me",
   artist: "taylor-swift",
-  externalId: "18da03fe-9375-4622-b14b-d29acb595085",
-  externalLink: "https://musicbrainz.org/work/18da03fe-9375-4622-b14b-d29acb595085",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "18da03fe-9375-4622-b14b-d29acb595085",
+      externalLink: "https://musicbrainz.org/work/18da03fe-9375-4622-b14b-d29acb595085",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

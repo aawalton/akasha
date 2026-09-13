@@ -6,10 +6,14 @@ export const taylorSwiftFifteen = {
   slug: "taylor-swift-fifteen",
   title: "Fifteen",
   artist: "taylor-swift",
-  externalId: "6cad3efd-e9f4-3dcd-9b71-fc25b630382b",
-  externalLink: "https://musicbrainz.org/work/6cad3efd-e9f4-3dcd-9b71-fc25b630382b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6cad3efd-e9f4-3dcd-9b71-fc25b630382b",
+      externalLink: "https://musicbrainz.org/work/6cad3efd-e9f4-3dcd-9b71-fc25b630382b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

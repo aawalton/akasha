@@ -6,10 +6,14 @@ export const taylorSwiftChristmasTreeFarm = {
   slug: "taylor-swift-christmas-tree-farm",
   title: "Christmas Tree Farm",
   artist: "taylor-swift",
-  externalId: "3e8aaf09-e875-4e8e-8c08-8a72d9112611",
-  externalLink: "https://musicbrainz.org/work/3e8aaf09-e875-4e8e-8c08-8a72d9112611",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3e8aaf09-e875-4e8e-8c08-8a72d9112611",
+      externalLink: "https://musicbrainz.org/work/3e8aaf09-e875-4e8e-8c08-8a72d9112611",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

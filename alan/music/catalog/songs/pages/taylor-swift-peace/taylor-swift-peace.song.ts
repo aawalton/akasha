@@ -6,10 +6,14 @@ export const taylorSwiftPeace = {
   slug: "taylor-swift-peace",
   title: "peace",
   artist: "taylor-swift",
-  externalId: "01a657bc-9eab-4839-9862-bb5f9ca71556",
-  externalLink: "https://musicbrainz.org/work/01a657bc-9eab-4839-9862-bb5f9ca71556",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "01a657bc-9eab-4839-9862-bb5f9ca71556",
+      externalLink: "https://musicbrainz.org/work/01a657bc-9eab-4839-9862-bb5f9ca71556",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

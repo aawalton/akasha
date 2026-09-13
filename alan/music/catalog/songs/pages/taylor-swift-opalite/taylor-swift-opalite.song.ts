@@ -6,10 +6,14 @@ export const taylorSwiftOpalite = {
   slug: "taylor-swift-opalite",
   title: "Opalite",
   artist: "taylor-swift",
-  externalId: "eb78d1a6-9d61-4f21-a49e-cca7160a21e2",
-  externalLink: "https://musicbrainz.org/work/eb78d1a6-9d61-4f21-a49e-cca7160a21e2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "eb78d1a6-9d61-4f21-a49e-cca7160a21e2",
+      externalLink: "https://musicbrainz.org/work/eb78d1a6-9d61-4f21-a49e-cca7160a21e2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

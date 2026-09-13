@@ -6,10 +6,14 @@ export const taylorSwiftMirrorball = {
   slug: "taylor-swift-mirrorball",
   title: "mirrorball",
   artist: "taylor-swift",
-  externalId: "ce6899e0-afcf-497f-b1a8-97c577cb0712",
-  externalLink: "https://musicbrainz.org/work/ce6899e0-afcf-497f-b1a8-97c577cb0712",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ce6899e0-afcf-497f-b1a8-97c577cb0712",
+      externalLink: "https://musicbrainz.org/work/ce6899e0-afcf-497f-b1a8-97c577cb0712",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const taylorSwiftEpiphany = {
   slug: "taylor-swift-epiphany",
   title: "epiphany",
   artist: "taylor-swift",
-  externalId: "d6e78894-95a1-4c8d-ab2a-1fc2d67473f7",
-  externalLink: "https://musicbrainz.org/work/d6e78894-95a1-4c8d-ab2a-1fc2d67473f7",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d6e78894-95a1-4c8d-ab2a-1fc2d67473f7",
+      externalLink: "https://musicbrainz.org/work/d6e78894-95a1-4c8d-ab2a-1fc2d67473f7",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

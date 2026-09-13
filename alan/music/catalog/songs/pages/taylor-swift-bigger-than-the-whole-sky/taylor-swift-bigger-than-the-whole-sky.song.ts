@@ -6,10 +6,14 @@ export const taylorSwiftBiggerThanTheWholeSky = {
   slug: "taylor-swift-bigger-than-the-whole-sky",
   title: "Bigger Than the Whole Sky",
   artist: "taylor-swift",
-  externalId: "25e67d46-02f7-4a24-b27e-48d5048fd20d",
-  externalLink: "https://musicbrainz.org/work/25e67d46-02f7-4a24-b27e-48d5048fd20d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "25e67d46-02f7-4a24-b27e-48d5048fd20d",
+      externalLink: "https://musicbrainz.org/work/25e67d46-02f7-4a24-b27e-48d5048fd20d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

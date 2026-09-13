@@ -6,10 +6,14 @@ export const taylorSwiftMessageInABottle = {
   slug: "taylor-swift-message-in-a-bottle",
   title: "Message in a Bottle",
   artist: "taylor-swift",
-  externalId: "1945ae41-efeb-4569-b8e2-e4fd5cf7812f",
-  externalLink: "https://musicbrainz.org/work/1945ae41-efeb-4569-b8e2-e4fd5cf7812f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1945ae41-efeb-4569-b8e2-e4fd5cf7812f",
+      externalLink: "https://musicbrainz.org/work/1945ae41-efeb-4569-b8e2-e4fd5cf7812f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

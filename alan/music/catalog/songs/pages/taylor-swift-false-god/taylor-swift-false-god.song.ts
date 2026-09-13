@@ -6,10 +6,14 @@ export const taylorSwiftFalseGod = {
   slug: "taylor-swift-false-god",
   title: "False God",
   artist: "taylor-swift",
-  externalId: "9c8e847b-ef1e-4b7e-a028-8c6db7802ac6",
-  externalLink: "https://musicbrainz.org/work/9c8e847b-ef1e-4b7e-a028-8c6db7802ac6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9c8e847b-ef1e-4b7e-a028-8c6db7802ac6",
+      externalLink: "https://musicbrainz.org/work/9c8e847b-ef1e-4b7e-a028-8c6db7802ac6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

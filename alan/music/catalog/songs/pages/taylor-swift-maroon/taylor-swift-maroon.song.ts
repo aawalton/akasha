@@ -6,10 +6,14 @@ export const taylorSwiftMaroon = {
   slug: "taylor-swift-maroon",
   title: "Maroon",
   artist: "taylor-swift",
-  externalId: "6eae06ce-2d2a-4ce6-ba19-2017637adf08",
-  externalLink: "https://musicbrainz.org/work/6eae06ce-2d2a-4ce6-ba19-2017637adf08",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6eae06ce-2d2a-4ce6-ba19-2017637adf08",
+      externalLink: "https://musicbrainz.org/work/6eae06ce-2d2a-4ce6-ba19-2017637adf08",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

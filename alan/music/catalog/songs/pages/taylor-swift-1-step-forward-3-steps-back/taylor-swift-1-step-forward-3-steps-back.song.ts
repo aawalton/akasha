@@ -6,10 +6,14 @@ export const taylorSwift1StepForward3StepsBack = {
   slug: "taylor-swift-1-step-forward-3-steps-back",
   title: "1 step forward, 3 steps back",
   artist: "taylor-swift",
-  externalId: "c5c83faa-c316-411e-b8a3-fb4ae0ff55af",
-  externalLink: "https://musicbrainz.org/work/c5c83faa-c316-411e-b8a3-fb4ae0ff55af",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c5c83faa-c316-411e-b8a3-fb4ae0ff55af",
+      externalLink: "https://musicbrainz.org/work/c5c83faa-c316-411e-b8a3-fb4ae0ff55af",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

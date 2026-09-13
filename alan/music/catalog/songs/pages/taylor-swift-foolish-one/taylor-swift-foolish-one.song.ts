@@ -6,10 +6,14 @@ export const taylorSwiftFoolishOne = {
   slug: "taylor-swift-foolish-one",
   title: "Foolish One",
   artist: "taylor-swift",
-  externalId: "5c8c4f39-ace8-4079-b9d4-555df1e2e546",
-  externalLink: "https://musicbrainz.org/work/5c8c4f39-ace8-4079-b9d4-555df1e2e546",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5c8c4f39-ace8-4079-b9d4-555df1e2e546",
+      externalLink: "https://musicbrainz.org/work/5c8c4f39-ace8-4079-b9d4-555df1e2e546",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

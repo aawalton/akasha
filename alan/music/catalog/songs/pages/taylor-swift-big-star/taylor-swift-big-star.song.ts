@@ -6,10 +6,14 @@ export const taylorSwiftBigStar = {
   slug: "taylor-swift-big-star",
   title: "Big Star",
   artist: "taylor-swift",
-  externalId: "782535fa-fe6e-4279-a351-2bfefd864fc1",
-  externalLink: "https://musicbrainz.org/work/782535fa-fe6e-4279-a351-2bfefd864fc1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "782535fa-fe6e-4279-a351-2bfefd864fc1",
+      externalLink: "https://musicbrainz.org/work/782535fa-fe6e-4279-a351-2bfefd864fc1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

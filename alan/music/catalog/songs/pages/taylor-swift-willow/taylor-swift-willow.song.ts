@@ -6,10 +6,14 @@ export const taylorSwiftWillow = {
   slug: "taylor-swift-willow",
   title: "willow",
   artist: "taylor-swift",
-  externalId: "d4333f22-db44-42e5-adba-f7732570a49f",
-  externalLink: "https://musicbrainz.org/work/d4333f22-db44-42e5-adba-f7732570a49f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d4333f22-db44-42e5-adba-f7732570a49f",
+      externalLink: "https://musicbrainz.org/work/d4333f22-db44-42e5-adba-f7732570a49f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

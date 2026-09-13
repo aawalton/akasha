@@ -6,10 +6,14 @@ export const taylorSwiftThugStory = {
   slug: "taylor-swift-thug-story",
   title: "Thug Story",
   artist: "taylor-swift",
-  externalId: "34703215-1857-4551-b5d0-7eadc4213c8b",
-  externalLink: "https://musicbrainz.org/work/34703215-1857-4551-b5d0-7eadc4213c8b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "34703215-1857-4551-b5d0-7eadc4213c8b",
+      externalLink: "https://musicbrainz.org/work/34703215-1857-4551-b5d0-7eadc4213c8b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   written: "collab",

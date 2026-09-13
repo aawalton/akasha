@@ -6,10 +6,14 @@ export const siaYouHaveBeenLoved = {
   slug: "sia-you-have-been-loved",
   title: "You Have Been Loved",
   artist: "sia",
-  externalId: "bd234fcf-1013-45a9-a61b-f00b12a48214",
-  externalLink: "https://musicbrainz.org/work/bd234fcf-1013-45a9-a61b-f00b12a48214",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bd234fcf-1013-45a9-a61b-f00b12a48214",
+      externalLink: "https://musicbrainz.org/work/bd234fcf-1013-45a9-a61b-f00b12a48214",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

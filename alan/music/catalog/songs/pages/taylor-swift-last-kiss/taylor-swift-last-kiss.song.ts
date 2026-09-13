@@ -6,10 +6,14 @@ export const taylorSwiftLastKiss = {
   slug: "taylor-swift-last-kiss",
   title: "Last Kiss",
   artist: "taylor-swift",
-  externalId: "c6bb2fc1-b7b2-3431-93cb-45fff525c007",
-  externalLink: "https://musicbrainz.org/work/c6bb2fc1-b7b2-3431-93cb-45fff525c007",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c6bb2fc1-b7b2-3431-93cb-45fff525c007",
+      externalLink: "https://musicbrainz.org/work/c6bb2fc1-b7b2-3431-93cb-45fff525c007",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

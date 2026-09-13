@@ -6,10 +6,14 @@ export const taylorSwiftUmbrella = {
   slug: "taylor-swift-umbrella",
   title: "Umbrella",
   artist: "taylor-swift",
-  externalId: "a505f520-f503-34e4-9838-a8c459bd0188",
-  externalLink: "https://musicbrainz.org/work/a505f520-f503-34e4-9838-a8c459bd0188",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a505f520-f503-34e4-9838-a8c459bd0188",
+      externalLink: "https://musicbrainz.org/work/a505f520-f503-34e4-9838-a8c459bd0188",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

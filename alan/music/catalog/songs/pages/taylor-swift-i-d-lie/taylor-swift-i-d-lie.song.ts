@@ -6,10 +6,14 @@ export const taylorSwiftIDLie = {
   slug: "taylor-swift-i-d-lie",
   title: "I’d Lie",
   artist: "taylor-swift",
-  externalId: "be23209d-34fe-4532-bb38-8f9cbdf829d6",
-  externalLink: "https://musicbrainz.org/work/be23209d-34fe-4532-bb38-8f9cbdf829d6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "be23209d-34fe-4532-bb38-8f9cbdf829d6",
+      externalLink: "https://musicbrainz.org/work/be23209d-34fe-4532-bb38-8f9cbdf829d6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

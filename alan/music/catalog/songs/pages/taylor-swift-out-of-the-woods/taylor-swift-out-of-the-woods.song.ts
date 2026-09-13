@@ -6,10 +6,14 @@ export const taylorSwiftOutOfTheWoods = {
   slug: "taylor-swift-out-of-the-woods",
   title: "Out of the Woods",
   artist: "taylor-swift",
-  externalId: "1e459e1f-65f0-4e88-94a5-e7c530b11dc9",
-  externalLink: "https://musicbrainz.org/work/1e459e1f-65f0-4e88-94a5-e7c530b11dc9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1e459e1f-65f0-4e88-94a5-e7c530b11dc9",
+      externalLink: "https://musicbrainz.org/work/1e459e1f-65f0-4e88-94a5-e7c530b11dc9",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

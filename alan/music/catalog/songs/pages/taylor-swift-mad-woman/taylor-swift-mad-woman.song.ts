@@ -6,10 +6,14 @@ export const taylorSwiftMadWoman = {
   slug: "taylor-swift-mad-woman",
   title: "mad woman",
   artist: "taylor-swift",
-  externalId: "5b7221b2-303e-468d-a1f0-32fbb0b04bac",
-  externalLink: "https://musicbrainz.org/work/5b7221b2-303e-468d-a1f0-32fbb0b04bac",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5b7221b2-303e-468d-a1f0-32fbb0b04bac",
+      externalLink: "https://musicbrainz.org/work/5b7221b2-303e-468d-a1f0-32fbb0b04bac",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

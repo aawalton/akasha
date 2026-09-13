@@ -6,10 +6,14 @@ export const taylorSwiftAmericanBoy = {
   slug: "taylor-swift-american-boy",
   title: "American Boy",
   artist: "taylor-swift",
-  externalId: "accac83f-0e23-44fa-b43c-31b6f4b8ce40",
-  externalLink: "https://musicbrainz.org/work/accac83f-0e23-44fa-b43c-31b6f4b8ce40",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "accac83f-0e23-44fa-b43c-31b6f4b8ce40",
+      externalLink: "https://musicbrainz.org/work/accac83f-0e23-44fa-b43c-31b6f4b8ce40",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "solo",

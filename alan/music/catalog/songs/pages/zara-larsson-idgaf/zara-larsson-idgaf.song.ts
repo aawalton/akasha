@@ -6,10 +6,14 @@ export const zaraLarssonIdgaf = {
   slug: "zara-larsson-idgaf",
   title: "IDGAF",
   artist: "zara-larsson",
-  externalId: "a22bca0f-0c07-43b8-bf89-2acc562c4b1f",
-  externalLink: "https://musicbrainz.org/work/a22bca0f-0c07-43b8-bf89-2acc562c4b1f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a22bca0f-0c07-43b8-bf89-2acc562c4b1f",
+      externalLink: "https://musicbrainz.org/work/a22bca0f-0c07-43b8-bf89-2acc562c4b1f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

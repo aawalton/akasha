@@ -6,10 +6,14 @@ export const taylorSwiftWhenLoveAndHateCollide = {
   slug: "taylor-swift-when-love-and-hate-collide",
   title: "When Love and Hate Collide",
   artist: "taylor-swift",
-  externalId: "1fa03e3f-2016-3c2d-8d5c-7af4eff7786d",
-  externalLink: "https://musicbrainz.org/work/1fa03e3f-2016-3c2d-8d5c-7af4eff7786d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1fa03e3f-2016-3c2d-8d5c-7af4eff7786d",
+      externalLink: "https://musicbrainz.org/work/1fa03e3f-2016-3c2d-8d5c-7af4eff7786d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

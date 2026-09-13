@@ -6,10 +6,14 @@ export const taylorSwiftAllNightDiner = {
   slug: "taylor-swift-all-night-diner",
   title: "All Night Diner",
   artist: "taylor-swift",
-  externalId: "ddddac3b-178a-4211-aeee-8b694915b38d",
-  externalLink: "https://musicbrainz.org/work/ddddac3b-178a-4211-aeee-8b694915b38d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ddddac3b-178a-4211-aeee-8b694915b38d",
+      externalLink: "https://musicbrainz.org/work/ddddac3b-178a-4211-aeee-8b694915b38d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "solo",

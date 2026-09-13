@@ -6,10 +6,14 @@ export const taylorSwiftTheStoryOfUs = {
   slug: "taylor-swift-the-story-of-us",
   title: "The Story of Us",
   artist: "taylor-swift",
-  externalId: "b8bcf019-1b75-3c08-9207-41ffadc7c52d",
-  externalLink: "https://musicbrainz.org/work/b8bcf019-1b75-3c08-9207-41ffadc7c52d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b8bcf019-1b75-3c08-9207-41ffadc7c52d",
+      externalLink: "https://musicbrainz.org/work/b8bcf019-1b75-3c08-9207-41ffadc7c52d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

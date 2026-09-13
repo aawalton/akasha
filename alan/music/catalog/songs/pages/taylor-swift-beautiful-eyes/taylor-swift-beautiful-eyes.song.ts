@@ -6,10 +6,14 @@ export const taylorSwiftBeautifulEyes = {
   slug: "taylor-swift-beautiful-eyes",
   title: "Beautiful Eyes",
   artist: "taylor-swift",
-  externalId: "67e90f42-0919-4797-8128-0e10b26995de",
-  externalLink: "https://musicbrainz.org/work/67e90f42-0919-4797-8128-0e10b26995de",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "67e90f42-0919-4797-8128-0e10b26995de",
+      externalLink: "https://musicbrainz.org/work/67e90f42-0919-4797-8128-0e10b26995de",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

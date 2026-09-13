@@ -6,10 +6,14 @@ export const taylorSwiftLoveStory = {
   slug: "taylor-swift-love-story",
   title: "Love Story",
   artist: "taylor-swift",
-  externalId: "c8975007-ba64-3e81-9a3c-69a3ba2fab95",
-  externalLink: "https://musicbrainz.org/work/c8975007-ba64-3e81-9a3c-69a3ba2fab95",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c8975007-ba64-3e81-9a3c-69a3ba2fab95",
+      externalLink: "https://musicbrainz.org/work/c8975007-ba64-3e81-9a3c-69a3ba2fab95",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

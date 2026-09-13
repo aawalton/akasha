@@ -6,10 +6,14 @@ export const taylorSwiftItSNiceToHaveAFriend = {
   slug: "taylor-swift-it-s-nice-to-have-a-friend",
   title: "It’s Nice to Have a Friend",
   artist: "taylor-swift",
-  externalId: "31ee3821-e3ea-4c3d-afc1-dc7484345cb0",
-  externalLink: "https://musicbrainz.org/work/31ee3821-e3ea-4c3d-afc1-dc7484345cb0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "31ee3821-e3ea-4c3d-afc1-dc7484345cb0",
+      externalLink: "https://musicbrainz.org/work/31ee3821-e3ea-4c3d-afc1-dc7484345cb0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

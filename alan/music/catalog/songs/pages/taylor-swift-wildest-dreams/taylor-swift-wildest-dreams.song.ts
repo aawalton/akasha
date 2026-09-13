@@ -6,10 +6,14 @@ export const taylorSwiftWildestDreams = {
   slug: "taylor-swift-wildest-dreams",
   title: "Wildest Dreams",
   artist: "taylor-swift",
-  externalId: "17567c60-83d9-4fa8-bd79-484ecfed8a26",
-  externalLink: "https://musicbrainz.org/work/17567c60-83d9-4fa8-bd79-484ecfed8a26",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "17567c60-83d9-4fa8-bd79-484ecfed8a26",
+      externalLink: "https://musicbrainz.org/work/17567c60-83d9-4fa8-bd79-484ecfed8a26",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

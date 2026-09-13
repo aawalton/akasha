@@ -6,10 +6,14 @@ export const siaWhereIBelong = {
   slug: "sia-where-i-belong",
   title: "Where I Belong",
   artist: "sia",
-  externalId: "890b8894-41e9-4552-9ede-349a5c00347a",
-  externalLink: "https://musicbrainz.org/work/890b8894-41e9-4552-9ede-349a5c00347a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "890b8894-41e9-4552-9ede-349a5c00347a",
+      externalLink: "https://musicbrainz.org/work/890b8894-41e9-4552-9ede-349a5c00347a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

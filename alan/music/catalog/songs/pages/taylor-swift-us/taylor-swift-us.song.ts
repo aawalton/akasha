@@ -6,10 +6,14 @@ export const taylorSwiftUs = {
   slug: "taylor-swift-us",
   title: "us.",
   artist: "taylor-swift",
-  externalId: "7a9910ed-c8c6-419e-bbf4-ffdb0c92e6e3",
-  externalLink: "https://musicbrainz.org/work/7a9910ed-c8c6-419e-bbf4-ffdb0c92e6e3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7a9910ed-c8c6-419e-bbf4-ffdb0c92e6e3",
+      externalLink: "https://musicbrainz.org/work/7a9910ed-c8c6-419e-bbf4-ffdb0c92e6e3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

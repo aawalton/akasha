@@ -6,10 +6,14 @@ export const taylorSwiftDearJohn = {
   slug: "taylor-swift-dear-john",
   title: "Dear John",
   artist: "taylor-swift",
-  externalId: "c70e6295-12ed-39ca-b069-cd485920ac11",
-  externalLink: "https://musicbrainz.org/work/c70e6295-12ed-39ca-b069-cd485920ac11",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c70e6295-12ed-39ca-b069-cd485920ac11",
+      externalLink: "https://musicbrainz.org/work/c70e6295-12ed-39ca-b069-cd485920ac11",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

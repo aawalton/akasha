@@ -6,10 +6,14 @@ export const taylorSwiftByeByeBaby = {
   slug: "taylor-swift-bye-bye-baby",
   title: "Bye Bye Baby",
   artist: "taylor-swift",
-  externalId: "ddc5b9da-a921-41f6-bd8e-26f5b0f28dc3",
-  externalLink: "https://musicbrainz.org/work/ddc5b9da-a921-41f6-bd8e-26f5b0f28dc3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ddc5b9da-a921-41f6-bd8e-26f5b0f28dc3",
+      externalLink: "https://musicbrainz.org/work/ddc5b9da-a921-41f6-bd8e-26f5b0f28dc3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

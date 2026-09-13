@@ -6,10 +6,14 @@ export const taylorSwift10DollarsAndA6Pack = {
   slug: "taylor-swift-10-dollars-and-a-6-pack",
   title: "10 Dollars and a 6 Pack",
   artist: "taylor-swift",
-  externalId: "735aa6f0-2e93-431b-9255-436c7e8dc996",
-  externalLink: "https://musicbrainz.org/work/735aa6f0-2e93-431b-9255-436c7e8dc996",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "735aa6f0-2e93-431b-9255-436c7e8dc996",
+      externalLink: "https://musicbrainz.org/work/735aa6f0-2e93-431b-9255-436c7e8dc996",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "solo",

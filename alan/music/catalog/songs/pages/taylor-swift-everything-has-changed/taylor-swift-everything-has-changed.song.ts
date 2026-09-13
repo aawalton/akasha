@@ -6,10 +6,14 @@ export const taylorSwiftEverythingHasChanged = {
   slug: "taylor-swift-everything-has-changed",
   title: "Everything Has Changed",
   artist: "taylor-swift",
-  externalId: "8c58a94d-989a-4264-9941-6a792bf871b4",
-  externalLink: "https://musicbrainz.org/work/8c58a94d-989a-4264-9941-6a792bf871b4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8c58a94d-989a-4264-9941-6a792bf871b4",
+      externalLink: "https://musicbrainz.org/work/8c58a94d-989a-4264-9941-6a792bf871b4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

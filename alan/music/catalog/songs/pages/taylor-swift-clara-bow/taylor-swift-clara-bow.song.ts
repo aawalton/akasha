@@ -6,10 +6,14 @@ export const taylorSwiftClaraBow = {
   slug: "taylor-swift-clara-bow",
   title: "Clara Bow",
   artist: "taylor-swift",
-  externalId: "7c7f12ee-2839-426e-85f9-992be6136a33",
-  externalLink: "https://musicbrainz.org/work/7c7f12ee-2839-426e-85f9-992be6136a33",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7c7f12ee-2839-426e-85f9-992be6136a33",
+      externalLink: "https://musicbrainz.org/work/7c7f12ee-2839-426e-85f9-992be6136a33",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

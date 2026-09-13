@@ -6,10 +6,14 @@ export const taylorSwiftSuperman = {
   slug: "taylor-swift-superman",
   title: "Superman",
   artist: "taylor-swift",
-  externalId: "cdf2af63-dc9b-4b32-a07c-f8f789bc4e4f",
-  externalLink: "https://musicbrainz.org/work/cdf2af63-dc9b-4b32-a07c-f8f789bc4e4f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "cdf2af63-dc9b-4b32-a07c-f8f789bc4e4f",
+      externalLink: "https://musicbrainz.org/work/cdf2af63-dc9b-4b32-a07c-f8f789bc4e4f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const taylorSwiftChampagneProblems = {
   slug: "taylor-swift-champagne-problems",
   title: "champagne problems",
   artist: "taylor-swift",
-  externalId: "a6503d19-0752-408b-9934-1ae426cf9a45",
-  externalLink: "https://musicbrainz.org/work/a6503d19-0752-408b-9934-1ae426cf9a45",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a6503d19-0752-408b-9934-1ae426cf9a45",
+      externalLink: "https://musicbrainz.org/work/a6503d19-0752-408b-9934-1ae426cf9a45",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

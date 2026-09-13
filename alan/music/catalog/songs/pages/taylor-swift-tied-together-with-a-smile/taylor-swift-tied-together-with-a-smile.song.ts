@@ -6,10 +6,14 @@ export const taylorSwiftTiedTogetherWithASmile = {
   slug: "taylor-swift-tied-together-with-a-smile",
   title: "Tied Together With a Smile",
   artist: "taylor-swift",
-  externalId: "2905cd22-4776-4103-b584-ce490b8cadf1",
-  externalLink: "https://musicbrainz.org/work/2905cd22-4776-4103-b584-ce490b8cadf1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2905cd22-4776-4103-b584-ce490b8cadf1",
+      externalLink: "https://musicbrainz.org/work/2905cd22-4776-4103-b584-ce490b8cadf1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

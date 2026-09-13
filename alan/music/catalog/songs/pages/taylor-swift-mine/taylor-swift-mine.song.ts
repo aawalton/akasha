@@ -6,10 +6,14 @@ export const taylorSwiftMine = {
   slug: "taylor-swift-mine",
   title: "Mine",
   artist: "taylor-swift",
-  externalId: "3b86f1da-4c28-3da1-8f90-632e62e7b521",
-  externalLink: "https://musicbrainz.org/work/3b86f1da-4c28-3da1-8f90-632e62e7b521",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3b86f1da-4c28-3da1-8f90-632e62e7b521",
+      externalLink: "https://musicbrainz.org/work/3b86f1da-4c28-3da1-8f90-632e62e7b521",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const siaWildOnes = {
   slug: "sia-wild-ones",
   title: "Wild Ones",
   artist: "sia",
-  externalId: "2900b809-c5c4-4f99-884f-a60bd14c6cda",
-  externalLink: "https://musicbrainz.org/work/2900b809-c5c4-4f99-884f-a60bd14c6cda",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2900b809-c5c4-4f99-884f-a60bd14c6cda",
+      externalLink: "https://musicbrainz.org/work/2900b809-c5c4-4f99-884f-a60bd14c6cda",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

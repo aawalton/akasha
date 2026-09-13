@@ -6,10 +6,14 @@ export const taylorSwiftGasoline = {
   slug: "taylor-swift-gasoline",
   title: "Gasoline",
   artist: "taylor-swift",
-  externalId: "91844bf6-b1de-4c3e-b119-26b8c35cc594",
-  externalLink: "https://musicbrainz.org/work/91844bf6-b1de-4c3e-b119-26b8c35cc594",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "91844bf6-b1de-4c3e-b119-26b8c35cc594",
+      externalLink: "https://musicbrainz.org/work/91844bf6-b1de-4c3e-b119-26b8c35cc594",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

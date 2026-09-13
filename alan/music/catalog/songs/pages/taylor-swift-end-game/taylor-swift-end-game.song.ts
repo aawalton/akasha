@@ -6,10 +6,14 @@ export const taylorSwiftEndGame = {
   slug: "taylor-swift-end-game",
   title: "End Game",
   artist: "taylor-swift",
-  externalId: "e449c947-9f26-4580-b8da-4ca64d7bfd3e",
-  externalLink: "https://musicbrainz.org/work/e449c947-9f26-4580-b8da-4ca64d7bfd3e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e449c947-9f26-4580-b8da-4ca64d7bfd3e",
+      externalLink: "https://musicbrainz.org/work/e449c947-9f26-4580-b8da-4ca64d7bfd3e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

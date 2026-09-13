@@ -6,10 +6,14 @@ export const taylorSwiftTeardropsOnMyGuitar = {
   slug: "taylor-swift-teardrops-on-my-guitar",
   title: "Teardrops on My Guitar",
   artist: "taylor-swift",
-  externalId: "bcffb49d-9d17-43aa-9e0d-88ce7dc4ebfb",
-  externalLink: "https://musicbrainz.org/work/bcffb49d-9d17-43aa-9e0d-88ce7dc4ebfb",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bcffb49d-9d17-43aa-9e0d-88ce7dc4ebfb",
+      externalLink: "https://musicbrainz.org/work/bcffb49d-9d17-43aa-9e0d-88ce7dc4ebfb",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

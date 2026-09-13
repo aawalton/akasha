@@ -6,10 +6,14 @@ export const taylorSwiftYouNeedToCalmDown = {
   slug: "taylor-swift-you-need-to-calm-down",
   title: "You Need to Calm Down",
   artist: "taylor-swift",
-  externalId: "985d464d-9491-4e68-a573-df9b50a425ab",
-  externalLink: "https://musicbrainz.org/work/985d464d-9491-4e68-a573-df9b50a425ab",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "985d464d-9491-4e68-a573-df9b50a425ab",
+      externalLink: "https://musicbrainz.org/work/985d464d-9491-4e68-a573-df9b50a425ab",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

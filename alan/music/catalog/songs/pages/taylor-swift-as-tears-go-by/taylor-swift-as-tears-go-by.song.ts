@@ -6,10 +6,14 @@ export const taylorSwiftAsTearsGoBy = {
   slug: "taylor-swift-as-tears-go-by",
   title: "As Tears Go By",
   artist: "taylor-swift",
-  externalId: "e04355f6-8117-3cf0-bf03-0ec22384f4c0",
-  externalLink: "https://musicbrainz.org/work/e04355f6-8117-3cf0-bf03-0ec22384f4c0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e04355f6-8117-3cf0-bf03-0ec22384f4c0",
+      externalLink: "https://musicbrainz.org/work/e04355f6-8117-3cf0-bf03-0ec22384f4c0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

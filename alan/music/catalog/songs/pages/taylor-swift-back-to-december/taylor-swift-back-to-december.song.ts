@@ -6,10 +6,14 @@ export const taylorSwiftBackToDecember = {
   slug: "taylor-swift-back-to-december",
   title: "Back to December",
   artist: "taylor-swift",
-  externalId: "228cd62c-2a8f-3aa9-b4d4-6d4ee76f5daf",
-  externalLink: "https://musicbrainz.org/work/228cd62c-2a8f-3aa9-b4d4-6d4ee76f5daf",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "228cd62c-2a8f-3aa9-b4d4-6d4ee76f5daf",
+      externalLink: "https://musicbrainz.org/work/228cd62c-2a8f-3aa9-b4d4-6d4ee76f5daf",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

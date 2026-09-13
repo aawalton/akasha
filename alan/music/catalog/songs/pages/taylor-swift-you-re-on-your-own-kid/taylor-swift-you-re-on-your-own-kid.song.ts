@@ -6,10 +6,14 @@ export const taylorSwiftYouReOnYourOwnKid = {
   slug: "taylor-swift-you-re-on-your-own-kid",
   title: "You’re on Your Own, Kid",
   artist: "taylor-swift",
-  externalId: "5888eb73-f509-47a9-a788-62c769f43c99",
-  externalLink: "https://musicbrainz.org/work/5888eb73-f509-47a9-a788-62c769f43c99",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5888eb73-f509-47a9-a788-62c769f43c99",
+      externalLink: "https://musicbrainz.org/work/5888eb73-f509-47a9-a788-62c769f43c99",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

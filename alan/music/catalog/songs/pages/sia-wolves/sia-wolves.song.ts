@@ -6,10 +6,14 @@ export const siaWolves = {
   slug: "sia-wolves",
   title: "Wolves",
   artist: "sia",
-  externalId: "26022377-f20c-4d6b-b465-74b9f157c084",
-  externalLink: "https://musicbrainz.org/work/26022377-f20c-4d6b-b465-74b9f157c084",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "26022377-f20c-4d6b-b465-74b9f157c084",
+      externalLink: "https://musicbrainz.org/work/26022377-f20c-4d6b-b465-74b9f157c084",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

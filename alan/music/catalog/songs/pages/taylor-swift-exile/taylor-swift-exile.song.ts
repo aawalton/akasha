@@ -6,10 +6,14 @@ export const taylorSwiftExile = {
   slug: "taylor-swift-exile",
   title: "exile",
   artist: "taylor-swift",
-  externalId: "965c0731-790f-4a8b-b8cf-0ef0f7f7d0c1",
-  externalLink: "https://musicbrainz.org/work/965c0731-790f-4a8b-b8cf-0ef0f7f7d0c1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "965c0731-790f-4a8b-b8cf-0ef0f7f7d0c1",
+      externalLink: "https://musicbrainz.org/work/965c0731-790f-4a8b-b8cf-0ef0f7f7d0c1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

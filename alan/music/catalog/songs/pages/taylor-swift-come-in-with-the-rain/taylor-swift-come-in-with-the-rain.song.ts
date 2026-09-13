@@ -6,10 +6,14 @@ export const taylorSwiftComeInWithTheRain = {
   slug: "taylor-swift-come-in-with-the-rain",
   title: "Come In With the Rain",
   artist: "taylor-swift",
-  externalId: "72de71b9-1173-4880-874f-817a9d046cd4",
-  externalLink: "https://musicbrainz.org/work/72de71b9-1173-4880-874f-817a9d046cd4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "72de71b9-1173-4880-874f-817a9d046cd4",
+      externalLink: "https://musicbrainz.org/work/72de71b9-1173-4880-874f-817a9d046cd4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const taylorSwiftFlorida = {
   slug: "taylor-swift-florida",
   title: "Florida!!!",
   artist: "taylor-swift",
-  externalId: "c6d65b3c-9481-451a-8797-d3dc6d32e871",
-  externalLink: "https://musicbrainz.org/work/c6d65b3c-9481-451a-8797-d3dc6d32e871",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c6d65b3c-9481-451a-8797-d3dc6d32e871",
+      externalLink: "https://musicbrainz.org/work/c6d65b3c-9481-451a-8797-d3dc6d32e871",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

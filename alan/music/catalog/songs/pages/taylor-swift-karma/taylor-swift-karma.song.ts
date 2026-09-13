@@ -6,10 +6,14 @@ export const taylorSwiftKarma = {
   slug: "taylor-swift-karma",
   title: "Karma",
   artist: "taylor-swift",
-  externalId: "6e2a34d7-b4b5-41e3-a7e8-e307dca8c90b",
-  externalLink: "https://musicbrainz.org/work/6e2a34d7-b4b5-41e3-a7e8-e307dca8c90b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6e2a34d7-b4b5-41e3-a7e8-e307dca8c90b",
+      externalLink: "https://musicbrainz.org/work/6e2a34d7-b4b5-41e3-a7e8-e307dca8c90b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

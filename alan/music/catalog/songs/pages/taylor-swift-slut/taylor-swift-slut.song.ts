@@ -6,10 +6,14 @@ export const taylorSwiftSlut = {
   slug: "taylor-swift-slut",
   title: "“Slut!”",
   artist: "taylor-swift",
-  externalId: "65d4048f-670c-44b9-8c91-0d8945ca37ee",
-  externalLink: "https://musicbrainz.org/work/65d4048f-670c-44b9-8c91-0d8945ca37ee",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "65d4048f-670c-44b9-8c91-0d8945ca37ee",
+      externalLink: "https://musicbrainz.org/work/65d4048f-670c-44b9-8c91-0d8945ca37ee",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

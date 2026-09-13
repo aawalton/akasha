@@ -6,10 +6,14 @@ export const siaYouReMine = {
   slug: "sia-you-re-mine",
   title: "You’re Mine",
   artist: "sia",
-  externalId: "bbe99437-612a-463d-87ca-be5657652ed3",
-  externalLink: "https://musicbrainz.org/work/bbe99437-612a-463d-87ca-be5657652ed3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bbe99437-612a-463d-87ca-be5657652ed3",
+      externalLink: "https://musicbrainz.org/work/bbe99437-612a-463d-87ca-be5657652ed3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

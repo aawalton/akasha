@@ -6,10 +6,14 @@ export const siaYouLostMe = {
   slug: "sia-you-lost-me",
   title: "You Lost Me",
   artist: "sia",
-  externalId: "1f58f9b8-1c41-31a4-9707-4d6eaaf5b38d",
-  externalLink: "https://musicbrainz.org/work/1f58f9b8-1c41-31a4-9707-4d6eaaf5b38d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1f58f9b8-1c41-31a4-9707-4d6eaaf5b38d",
+      externalLink: "https://musicbrainz.org/work/1f58f9b8-1c41-31a4-9707-4d6eaaf5b38d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

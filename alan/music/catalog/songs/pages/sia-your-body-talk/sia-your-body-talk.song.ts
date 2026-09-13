@@ -6,10 +6,14 @@ export const siaYourBodyTalk = {
   slug: "sia-your-body-talk",
   title: "Your Body Talk",
   artist: "sia",
-  externalId: "0575a97f-8d14-47dc-bf31-110733851dba",
-  externalLink: "https://musicbrainz.org/work/0575a97f-8d14-47dc-bf31-110733851dba",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0575a97f-8d14-47dc-bf31-110733851dba",
+      externalLink: "https://musicbrainz.org/work/0575a97f-8d14-47dc-bf31-110733851dba",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

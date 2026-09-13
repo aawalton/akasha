@@ -6,10 +6,14 @@ export const taylorSwiftIWantYouBack = {
   slug: "taylor-swift-i-want-you-back",
   title: "I Want You Back",
   artist: "taylor-swift",
-  externalId: "958cb297-1409-32c1-ae48-54a425a17795",
-  externalLink: "https://musicbrainz.org/work/958cb297-1409-32c1-ae48-54a425a17795",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "958cb297-1409-32c1-ae48-54a425a17795",
+      externalLink: "https://musicbrainz.org/work/958cb297-1409-32c1-ae48-54a425a17795",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

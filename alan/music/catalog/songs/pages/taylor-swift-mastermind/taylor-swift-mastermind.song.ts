@@ -6,10 +6,14 @@ export const taylorSwiftMastermind = {
   slug: "taylor-swift-mastermind",
   title: "Mastermind",
   artist: "taylor-swift",
-  externalId: "9a345806-abf4-468f-b792-529848c28251",
-  externalLink: "https://musicbrainz.org/work/9a345806-abf4-468f-b792-529848c28251",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9a345806-abf4-468f-b792-529848c28251",
+      externalLink: "https://musicbrainz.org/work/9a345806-abf4-468f-b792-529848c28251",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

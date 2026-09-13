@@ -6,10 +6,14 @@ export const taylorSwiftIKnewItIKnewYou = {
   slug: "taylor-swift-i-knew-it-i-knew-you",
   title: "I Knew It, I Knew You",
   artist: "taylor-swift",
-  externalId: "ad6442df-6b84-48ab-b53a-4b7adf62d147",
-  externalLink: "https://musicbrainz.org/work/ad6442df-6b84-48ab-b53a-4b7adf62d147",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ad6442df-6b84-48ab-b53a-4b7adf62d147",
+      externalLink: "https://musicbrainz.org/work/ad6442df-6b84-48ab-b53a-4b7adf62d147",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

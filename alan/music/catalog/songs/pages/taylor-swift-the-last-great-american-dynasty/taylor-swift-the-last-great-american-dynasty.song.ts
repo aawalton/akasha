@@ -6,10 +6,14 @@ export const taylorSwiftTheLastGreatAmericanDynasty = {
   slug: "taylor-swift-the-last-great-american-dynasty",
   title: "the last great american dynasty",
   artist: "taylor-swift",
-  externalId: "dfc9ac83-8073-4cf8-90d1-3f2fcc1a2409",
-  externalLink: "https://musicbrainz.org/work/dfc9ac83-8073-4cf8-90d1-3f2fcc1a2409",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "dfc9ac83-8073-4cf8-90d1-3f2fcc1a2409",
+      externalLink: "https://musicbrainz.org/work/dfc9ac83-8073-4cf8-90d1-3f2fcc1a2409",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

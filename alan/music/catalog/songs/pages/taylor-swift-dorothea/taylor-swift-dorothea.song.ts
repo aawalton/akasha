@@ -6,10 +6,14 @@ export const taylorSwiftDorothea = {
   slug: "taylor-swift-dorothea",
   title: "dorothea",
   artist: "taylor-swift",
-  externalId: "37b4775d-f529-4a37-addf-208b1c1d2952",
-  externalLink: "https://musicbrainz.org/work/37b4775d-f529-4a37-addf-208b1c1d2952",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "37b4775d-f529-4a37-addf-208b1c1d2952",
+      externalLink: "https://musicbrainz.org/work/37b4775d-f529-4a37-addf-208b1c1d2952",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

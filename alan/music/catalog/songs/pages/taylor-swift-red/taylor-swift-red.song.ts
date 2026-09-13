@@ -6,10 +6,14 @@ export const taylorSwiftRed = {
   slug: "taylor-swift-red",
   title: "Red",
   artist: "taylor-swift",
-  externalId: "40d8c1f5-714d-4e36-8326-bb8300998ca7",
-  externalLink: "https://musicbrainz.org/work/40d8c1f5-714d-4e36-8326-bb8300998ca7",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "40d8c1f5-714d-4e36-8326-bb8300998ca7",
+      externalLink: "https://musicbrainz.org/work/40d8c1f5-714d-4e36-8326-bb8300998ca7",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

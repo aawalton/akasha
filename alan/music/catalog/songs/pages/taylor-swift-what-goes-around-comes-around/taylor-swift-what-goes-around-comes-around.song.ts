@@ -6,10 +6,14 @@ export const taylorSwiftWhatGoesAroundComesAround = {
   slug: "taylor-swift-what-goes-around-comes-around",
   title: "What Goes Around... ...Comes Around",
   artist: "taylor-swift",
-  externalId: "d1784272-a829-4ff6-90ae-5ad0456050f7",
-  externalLink: "https://musicbrainz.org/work/d1784272-a829-4ff6-90ae-5ad0456050f7",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d1784272-a829-4ff6-90ae-5ad0456050f7",
+      externalLink: "https://musicbrainz.org/work/d1784272-a829-4ff6-90ae-5ad0456050f7",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

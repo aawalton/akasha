@@ -6,10 +6,14 @@ export const taylorSwiftGirlAtHome = {
   slug: "taylor-swift-girl-at-home",
   title: "Girl at Home",
   artist: "taylor-swift",
-  externalId: "65175925-04ed-4d9b-a690-cd606195a7c1",
-  externalLink: "https://musicbrainz.org/work/65175925-04ed-4d9b-a690-cd606195a7c1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "65175925-04ed-4d9b-a690-cd606195a7c1",
+      externalLink: "https://musicbrainz.org/work/65175925-04ed-4d9b-a690-cd606195a7c1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

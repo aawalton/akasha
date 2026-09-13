@@ -6,10 +6,14 @@ export const taylorSwiftTheMan = {
   slug: "taylor-swift-the-man",
   title: "The Man",
   artist: "taylor-swift",
-  externalId: "543dec53-ac04-4b41-a96e-f26b2ad8f02e",
-  externalLink: "https://musicbrainz.org/work/543dec53-ac04-4b41-a96e-f26b2ad8f02e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "543dec53-ac04-4b41-a96e-f26b2ad8f02e",
+      externalLink: "https://musicbrainz.org/work/543dec53-ac04-4b41-a96e-f26b2ad8f02e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

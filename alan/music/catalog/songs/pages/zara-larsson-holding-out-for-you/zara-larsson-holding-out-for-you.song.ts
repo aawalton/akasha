@@ -6,10 +6,14 @@ export const zaraLarssonHoldingOutForYou = {
   slug: "zara-larsson-holding-out-for-you",
   title: "Holding Out for You",
   artist: "zara-larsson",
-  externalId: "0e2aa92d-cdf6-4d58-897c-794e827ce1a4",
-  externalLink: "https://musicbrainz.org/work/0e2aa92d-cdf6-4d58-897c-794e827ce1a4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0e2aa92d-cdf6-4d58-897c-794e827ce1a4",
+      externalLink: "https://musicbrainz.org/work/0e2aa92d-cdf6-4d58-897c-794e827ce1a4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const taylorSwiftTheSmallestManWhoEverLived = {
   slug: "taylor-swift-the-smallest-man-who-ever-lived",
   title: "The Smallest Man Who Ever Lived",
   artist: "taylor-swift",
-  externalId: "8978f48b-15b0-46bb-b136-10c12024a13c",
-  externalLink: "https://musicbrainz.org/work/8978f48b-15b0-46bb-b136-10c12024a13c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8978f48b-15b0-46bb-b136-10c12024a13c",
+      externalLink: "https://musicbrainz.org/work/8978f48b-15b0-46bb-b136-10c12024a13c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const taylorSwiftClosure = {
   slug: "taylor-swift-closure",
   title: "closure",
   artist: "taylor-swift",
-  externalId: "b3b693f8-7db7-4852-bc68-4e965083e0c5",
-  externalLink: "https://musicbrainz.org/work/b3b693f8-7db7-4852-bc68-4e965083e0c5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b3b693f8-7db7-4852-bc68-4e965083e0c5",
+      externalLink: "https://musicbrainz.org/work/b3b693f8-7db7-4852-bc68-4e965083e0c5",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const taylorSwiftThankYouAimee = {
   slug: "taylor-swift-thank-you-aimee",
   title: "thanK you aIMee",
   artist: "taylor-swift",
-  externalId: "4a5634f2-ca0b-479d-a58b-4b9f0ec2da54",
-  externalLink: "https://musicbrainz.org/work/4a5634f2-ca0b-479d-a58b-4b9f0ec2da54",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4a5634f2-ca0b-479d-a58b-4b9f0ec2da54",
+      externalLink: "https://musicbrainz.org/work/4a5634f2-ca0b-479d-a58b-4b9f0ec2da54",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

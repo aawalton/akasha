@@ -6,10 +6,14 @@ export const taylorSwiftInnocent = {
   slug: "taylor-swift-innocent",
   title: "Innocent",
   artist: "taylor-swift",
-  externalId: "3129cee4-2054-3e52-a5ae-50e00584f2f6",
-  externalLink: "https://musicbrainz.org/work/3129cee4-2054-3e52-a5ae-50e00584f2f6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3129cee4-2054-3e52-a5ae-50e00584f2f6",
+      externalLink: "https://musicbrainz.org/work/3129cee4-2054-3e52-a5ae-50e00584f2f6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

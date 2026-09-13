@@ -6,10 +6,14 @@ export const taylorSwiftLondonBoy = {
   slug: "taylor-swift-london-boy",
   title: "London Boy",
   artist: "taylor-swift",
-  externalId: "2c161280-b221-4cad-9cce-a4fabf498200",
-  externalLink: "https://musicbrainz.org/work/2c161280-b221-4cad-9cce-a4fabf498200",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2c161280-b221-4cad-9cce-a4fabf498200",
+      externalLink: "https://musicbrainz.org/work/2c161280-b221-4cad-9cce-a4fabf498200",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

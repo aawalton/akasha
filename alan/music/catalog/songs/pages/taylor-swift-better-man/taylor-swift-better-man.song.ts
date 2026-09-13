@@ -6,10 +6,14 @@ export const taylorSwiftBetterMan = {
   slug: "taylor-swift-better-man",
   title: "Better Man",
   artist: "taylor-swift",
-  externalId: "53c4e7af-7028-4412-9d38-d10990de808c",
-  externalLink: "https://musicbrainz.org/work/53c4e7af-7028-4412-9d38-d10990de808c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "53c4e7af-7028-4412-9d38-d10990de808c",
+      externalLink: "https://musicbrainz.org/work/53c4e7af-7028-4412-9d38-d10990de808c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

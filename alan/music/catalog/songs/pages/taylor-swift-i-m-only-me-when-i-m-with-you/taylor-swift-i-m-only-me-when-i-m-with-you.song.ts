@@ -6,10 +6,14 @@ export const taylorSwiftIMOnlyMeWhenIMWithYou = {
   slug: "taylor-swift-i-m-only-me-when-i-m-with-you",
   title: "I’m Only Me When I’m With You",
   artist: "taylor-swift",
-  externalId: "9ffe06a7-31fd-4b7a-b5e0-4c2027200827",
-  externalLink: "https://musicbrainz.org/work/9ffe06a7-31fd-4b7a-b5e0-4c2027200827",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9ffe06a7-31fd-4b7a-b5e0-4c2027200827",
+      externalLink: "https://musicbrainz.org/work/9ffe06a7-31fd-4b7a-b5e0-4c2027200827",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

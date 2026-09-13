@@ -6,10 +6,14 @@ export const taylorSwiftTheBestDay = {
   slug: "taylor-swift-the-best-day",
   title: "The Best Day",
   artist: "taylor-swift",
-  externalId: "f1921180-ce7d-356a-91df-0422b3c71d16",
-  externalLink: "https://musicbrainz.org/work/f1921180-ce7d-356a-91df-0422b3c71d16",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f1921180-ce7d-356a-91df-0422b3c71d16",
+      externalLink: "https://musicbrainz.org/work/f1921180-ce7d-356a-91df-0422b3c71d16",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

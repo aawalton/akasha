@@ -6,10 +6,14 @@ export const zaraLarssonGimmeMore = {
   slug: "zara-larsson-gimme-more",
   title: "Gimme More",
   artist: "zara-larsson",
-  externalId: "a7576a67-ecae-3a32-89cb-ff183c927653",
-  externalLink: "https://musicbrainz.org/work/a7576a67-ecae-3a32-89cb-ff183c927653",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a7576a67-ecae-3a32-89cb-ff183c927653",
+      externalLink: "https://musicbrainz.org/work/a7576a67-ecae-3a32-89cb-ff183c927653",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

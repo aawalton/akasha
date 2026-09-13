@@ -6,10 +6,14 @@ export const zaraLarssonEndless = {
   slug: "zara-larsson-endless",
   title: "Endless",
   artist: "zara-larsson",
-  externalId: "4e2cf495-0ed9-4fe8-9f74-7f6658855895",
-  externalLink: "https://musicbrainz.org/work/4e2cf495-0ed9-4fe8-9f74-7f6658855895",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4e2cf495-0ed9-4fe8-9f74-7f6658855895",
+      externalLink: "https://musicbrainz.org/work/4e2cf495-0ed9-4fe8-9f74-7f6658855895",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

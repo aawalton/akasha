@@ -6,10 +6,14 @@ export const taylorSwiftPermanentMarker = {
   slug: "taylor-swift-permanent-marker",
   title: "Permanent Marker",
   artist: "taylor-swift",
-  externalId: "a37d7744-9232-4ae6-a730-221b6505fb12",
-  externalLink: "https://musicbrainz.org/work/a37d7744-9232-4ae6-a730-221b6505fb12",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a37d7744-9232-4ae6-a730-221b6505fb12",
+      externalLink: "https://musicbrainz.org/work/a37d7744-9232-4ae6-a730-221b6505fb12",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

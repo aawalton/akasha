@@ -6,10 +6,14 @@ export const taylorSwiftOurSong = {
   slug: "taylor-swift-our-song",
   title: "Our Song",
   artist: "taylor-swift",
-  externalId: "5caad38c-af56-4d4e-addb-9f5be2971093",
-  externalLink: "https://musicbrainz.org/work/5caad38c-af56-4d4e-addb-9f5be2971093",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5caad38c-af56-4d4e-addb-9f5be2971093",
+      externalLink: "https://musicbrainz.org/work/5caad38c-af56-4d4e-addb-9f5be2971093",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

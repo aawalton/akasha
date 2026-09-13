@@ -6,10 +6,14 @@ export const taylorSwiftUntouchable = {
   slug: "taylor-swift-untouchable",
   title: "Untouchable",
   artist: "taylor-swift",
-  externalId: "4c3d3a79-7930-4586-a85f-cabe706e8c67",
-  externalLink: "https://musicbrainz.org/work/4c3d3a79-7930-4586-a85f-cabe706e8c67",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4c3d3a79-7930-4586-a85f-cabe706e8c67",
+      externalLink: "https://musicbrainz.org/work/4c3d3a79-7930-4586-a85f-cabe706e8c67",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

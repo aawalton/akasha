@@ -6,10 +6,14 @@ export const taylorSwiftIBetYouThinkAboutMe = {
   slug: "taylor-swift-i-bet-you-think-about-me",
   title: "I Bet You Think About Me",
   artist: "taylor-swift",
-  externalId: "36b07648-8a4b-4963-b36f-bbfbcc822591",
-  externalLink: "https://musicbrainz.org/work/36b07648-8a4b-4963-b36f-bbfbcc822591",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "36b07648-8a4b-4963-b36f-bbfbcc822591",
+      externalLink: "https://musicbrainz.org/work/36b07648-8a4b-4963-b36f-bbfbcc822591",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

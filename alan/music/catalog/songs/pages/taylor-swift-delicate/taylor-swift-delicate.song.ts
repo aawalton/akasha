@@ -6,10 +6,14 @@ export const taylorSwiftDelicate = {
   slug: "taylor-swift-delicate",
   title: "Delicate",
   artist: "taylor-swift",
-  externalId: "441d26a3-c413-49b5-8cd6-18afd921eb41",
-  externalLink: "https://musicbrainz.org/work/441d26a3-c413-49b5-8cd6-18afd921eb41",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "441d26a3-c413-49b5-8cd6-18afd921eb41",
+      externalLink: "https://musicbrainz.org/work/441d26a3-c413-49b5-8cd6-18afd921eb41",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

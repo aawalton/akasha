@@ -6,10 +6,14 @@ export const taylorSwiftForeverWinter = {
   slug: "taylor-swift-forever-winter",
   title: "Forever Winter",
   artist: "taylor-swift",
-  externalId: "ad4b79c1-2a95-4387-a7cd-a7dbbdbe037a",
-  externalLink: "https://musicbrainz.org/work/ad4b79c1-2a95-4387-a7cd-a7dbbdbe037a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ad4b79c1-2a95-4387-a7cd-a7dbbdbe037a",
+      externalLink: "https://musicbrainz.org/work/ad4b79c1-2a95-4387-a7cd-a7dbbdbe037a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

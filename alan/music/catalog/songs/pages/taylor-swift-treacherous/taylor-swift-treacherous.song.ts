@@ -6,10 +6,14 @@ export const taylorSwiftTreacherous = {
   slug: "taylor-swift-treacherous",
   title: "Treacherous",
   artist: "taylor-swift",
-  externalId: "c26a7f69-b83e-45a5-9d51-0b64cbcf1e95",
-  externalLink: "https://musicbrainz.org/work/c26a7f69-b83e-45a5-9d51-0b64cbcf1e95",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c26a7f69-b83e-45a5-9d51-0b64cbcf1e95",
+      externalLink: "https://musicbrainz.org/work/c26a7f69-b83e-45a5-9d51-0b64cbcf1e95",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

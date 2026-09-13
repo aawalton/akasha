@@ -6,10 +6,14 @@ export const taylorSwiftBreathe = {
   slug: "taylor-swift-breathe",
   title: "Breathe",
   artist: "taylor-swift",
-  externalId: "55e776e0-2d67-3c6c-b088-ee091ac63f5f",
-  externalLink: "https://musicbrainz.org/work/55e776e0-2d67-3c6c-b088-ee091ac63f5f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "55e776e0-2d67-3c6c-b088-ee091ac63f5f",
+      externalLink: "https://musicbrainz.org/work/55e776e0-2d67-3c6c-b088-ee091ac63f5f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

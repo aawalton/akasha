@@ -6,10 +6,14 @@ export const taylorSwiftNothingNew = {
   slug: "taylor-swift-nothing-new",
   title: "Nothing New",
   artist: "taylor-swift",
-  externalId: "a3e66fff-9c5a-4cc4-a783-ea2be3848d6c",
-  externalLink: "https://musicbrainz.org/work/a3e66fff-9c5a-4cc4-a783-ea2be3848d6c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a3e66fff-9c5a-4cc4-a783-ea2be3848d6c",
+      externalLink: "https://musicbrainz.org/work/a3e66fff-9c5a-4cc4-a783-ea2be3848d6c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

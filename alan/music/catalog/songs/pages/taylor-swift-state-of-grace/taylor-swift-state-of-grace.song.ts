@@ -6,10 +6,14 @@ export const taylorSwiftStateOfGrace = {
   slug: "taylor-swift-state-of-grace",
   title: "State of Grace",
   artist: "taylor-swift",
-  externalId: "65bdb1d3-a969-4dde-967a-9cfa67d0168c",
-  externalLink: "https://musicbrainz.org/work/65bdb1d3-a969-4dde-967a-9cfa67d0168c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "65bdb1d3-a969-4dde-967a-9cfa67d0168c",
+      externalLink: "https://musicbrainz.org/work/65bdb1d3-a969-4dde-967a-9cfa67d0168c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

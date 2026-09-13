@@ -6,10 +6,14 @@ export const taylorSwiftSoHighSchool = {
   slug: "taylor-swift-so-high-school",
   title: "So High School",
   artist: "taylor-swift",
-  externalId: "0d0c6381-039f-44d4-9cd3-9286bdc9a610",
-  externalLink: "https://musicbrainz.org/work/0d0c6381-039f-44d4-9cd3-9286bdc9a610",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0d0c6381-039f-44d4-9cd3-9286bdc9a610",
+      externalLink: "https://musicbrainz.org/work/0d0c6381-039f-44d4-9cd3-9286bdc9a610",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

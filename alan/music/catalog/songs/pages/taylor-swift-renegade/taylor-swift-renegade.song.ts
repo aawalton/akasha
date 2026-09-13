@@ -6,10 +6,14 @@ export const taylorSwiftRenegade = {
   slug: "taylor-swift-renegade",
   title: "Renegade",
   artist: "taylor-swift",
-  externalId: "4fb69b7f-ae79-40f8-92cf-f59496ec5feb",
-  externalLink: "https://musicbrainz.org/work/4fb69b7f-ae79-40f8-92cf-f59496ec5feb",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4fb69b7f-ae79-40f8-92cf-f59496ec5feb",
+      externalLink: "https://musicbrainz.org/work/4fb69b7f-ae79-40f8-92cf-f59496ec5feb",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

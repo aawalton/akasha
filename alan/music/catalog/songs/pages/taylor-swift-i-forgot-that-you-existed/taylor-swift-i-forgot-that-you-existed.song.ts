@@ -6,10 +6,14 @@ export const taylorSwiftIForgotThatYouExisted = {
   slug: "taylor-swift-i-forgot-that-you-existed",
   title: "I Forgot That You Existed",
   artist: "taylor-swift",
-  externalId: "f7c9675a-121c-4ebf-88c8-a07535177caf",
-  externalLink: "https://musicbrainz.org/work/f7c9675a-121c-4ebf-88c8-a07535177caf",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f7c9675a-121c-4ebf-88c8-a07535177caf",
+      externalLink: "https://musicbrainz.org/work/f7c9675a-121c-4ebf-88c8-a07535177caf",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

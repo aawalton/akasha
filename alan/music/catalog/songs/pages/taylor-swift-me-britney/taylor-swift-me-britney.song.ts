@@ -6,10 +6,14 @@ export const taylorSwiftMeBritney = {
   slug: "taylor-swift-me-britney",
   title: "Me & Britney",
   artist: "taylor-swift",
-  externalId: "651091fc-69bb-4fdd-80f6-16d1d4dbb65a",
-  externalLink: "https://musicbrainz.org/work/651091fc-69bb-4fdd-80f6-16d1d4dbb65a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "651091fc-69bb-4fdd-80f6-16d1d4dbb65a",
+      externalLink: "https://musicbrainz.org/work/651091fc-69bb-4fdd-80f6-16d1d4dbb65a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

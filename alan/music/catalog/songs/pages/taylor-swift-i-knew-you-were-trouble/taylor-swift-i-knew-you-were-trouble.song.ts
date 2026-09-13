@@ -6,10 +6,14 @@ export const taylorSwiftIKnewYouWereTrouble = {
   slug: "taylor-swift-i-knew-you-were-trouble",
   title: "I Knew You Were Trouble.",
   artist: "taylor-swift",
-  externalId: "8a999d24-acbb-4992-b580-030b2fe83e90",
-  externalLink: "https://musicbrainz.org/work/8a999d24-acbb-4992-b580-030b2fe83e90",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8a999d24-acbb-4992-b580-030b2fe83e90",
+      externalLink: "https://musicbrainz.org/work/8a999d24-acbb-4992-b580-030b2fe83e90",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

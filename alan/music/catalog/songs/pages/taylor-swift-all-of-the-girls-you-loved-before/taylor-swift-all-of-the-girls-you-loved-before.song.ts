@@ -6,10 +6,14 @@ export const taylorSwiftAllOfTheGirlsYouLovedBefore = {
   slug: "taylor-swift-all-of-the-girls-you-loved-before",
   title: "All of the Girls You Loved Before",
   artist: "taylor-swift",
-  externalId: "2164ddf9-66cd-43f4-a5fc-1d541b3992fe",
-  externalLink: "https://musicbrainz.org/work/2164ddf9-66cd-43f4-a5fc-1d541b3992fe",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2164ddf9-66cd-43f4-a5fc-1d541b3992fe",
+      externalLink: "https://musicbrainz.org/work/2164ddf9-66cd-43f4-a5fc-1d541b3992fe",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

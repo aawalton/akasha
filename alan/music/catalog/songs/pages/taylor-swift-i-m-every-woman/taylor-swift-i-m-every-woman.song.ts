@@ -6,10 +6,14 @@ export const taylorSwiftIMEveryWoman = {
   slug: "taylor-swift-i-m-every-woman",
   title: "I’m Every Woman",
   artist: "taylor-swift",
-  externalId: "27c14c92-43f0-43a6-87d5-6a4ca3f94499",
-  externalLink: "https://musicbrainz.org/work/27c14c92-43f0-43a6-87d5-6a4ca3f94499",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "27c14c92-43f0-43a6-87d5-6a4ca3f94499",
+      externalLink: "https://musicbrainz.org/work/27c14c92-43f0-43a6-87d5-6a4ca3f94499",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

@@ -6,10 +6,14 @@ export const siaYouVeChanged = {
   slug: "sia-you-ve-changed",
   title: "You’ve Changed",
   artist: "sia",
-  externalId: "66b9356d-d40b-4b25-818e-e96473b6e7b9",
-  externalLink: "https://musicbrainz.org/work/66b9356d-d40b-4b25-818e-e96473b6e7b9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "66b9356d-d40b-4b25-818e-e96473b6e7b9",
+      externalLink: "https://musicbrainz.org/work/66b9356d-d40b-4b25-818e-e96473b6e7b9",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

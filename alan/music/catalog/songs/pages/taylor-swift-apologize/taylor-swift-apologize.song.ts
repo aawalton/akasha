@@ -6,10 +6,14 @@ export const taylorSwiftApologize = {
   slug: "taylor-swift-apologize",
   title: "Apologize",
   artist: "taylor-swift",
-  externalId: "8583154f-e5a5-4247-879e-52937d2d3238",
-  externalLink: "https://musicbrainz.org/work/8583154f-e5a5-4247-879e-52937d2d3238",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8583154f-e5a5-4247-879e-52937d2d3238",
+      externalLink: "https://musicbrainz.org/work/8583154f-e5a5-4247-879e-52937d2d3238",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

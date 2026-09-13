@@ -6,10 +6,14 @@ export const taylorSwiftSoLongLondon = {
   slug: "taylor-swift-so-long-london",
   title: "So Long, London",
   artist: "taylor-swift",
-  externalId: "ab39894b-127f-4791-a3d5-408bcb7c9d4c",
-  externalLink: "https://musicbrainz.org/work/ab39894b-127f-4791-a3d5-408bcb7c9d4c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ab39894b-127f-4791-a3d5-408bcb7c9d4c",
+      externalLink: "https://musicbrainz.org/work/ab39894b-127f-4791-a3d5-408bcb7c9d4c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

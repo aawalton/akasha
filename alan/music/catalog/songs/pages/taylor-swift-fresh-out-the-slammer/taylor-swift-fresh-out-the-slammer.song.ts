@@ -6,10 +6,14 @@ export const taylorSwiftFreshOutTheSlammer = {
   slug: "taylor-swift-fresh-out-the-slammer",
   title: "Fresh Out the Slammer",
   artist: "taylor-swift",
-  externalId: "2c27d345-26d5-47d2-8628-152e36cf483d",
-  externalLink: "https://musicbrainz.org/work/2c27d345-26d5-47d2-8628-152e36cf483d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2c27d345-26d5-47d2-8628-152e36cf483d",
+      externalLink: "https://musicbrainz.org/work/2c27d345-26d5-47d2-8628-152e36cf483d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

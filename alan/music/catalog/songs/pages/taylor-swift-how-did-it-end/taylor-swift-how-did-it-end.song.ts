@@ -6,10 +6,14 @@ export const taylorSwiftHowDidItEnd = {
   slug: "taylor-swift-how-did-it-end",
   title: "How Did It End?",
   artist: "taylor-swift",
-  externalId: "5404e826-c046-480a-b3e5-8cbeb8407560",
-  externalLink: "https://musicbrainz.org/work/5404e826-c046-480a-b3e5-8cbeb8407560",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5404e826-c046-480a-b3e5-8cbeb8407560",
+      externalLink: "https://musicbrainz.org/work/5404e826-c046-480a-b3e5-8cbeb8407560",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

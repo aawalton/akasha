@@ -6,10 +6,14 @@ export const taylorSwiftIfThisWasAMovie = {
   slug: "taylor-swift-if-this-was-a-movie",
   title: "If This Was a Movie",
   artist: "taylor-swift",
-  externalId: "a3e8fdf9-29d0-4fda-9732-6f59839959c8",
-  externalLink: "https://musicbrainz.org/work/a3e8fdf9-29d0-4fda-9732-6f59839959c8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a3e8fdf9-29d0-4fda-9732-6f59839959c8",
+      externalLink: "https://musicbrainz.org/work/a3e8fdf9-29d0-4fda-9732-6f59839959c8",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const taylorSwiftEnchanted = {
   slug: "taylor-swift-enchanted",
   title: "Enchanted",
   artist: "taylor-swift",
-  externalId: "5569eb48-0821-3d57-ab3b-80f63d3d37e4",
-  externalLink: "https://musicbrainz.org/work/5569eb48-0821-3d57-ab3b-80f63d3d37e4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5569eb48-0821-3d57-ab3b-80f63d3d37e4",
+      externalLink: "https://musicbrainz.org/work/5569eb48-0821-3d57-ab3b-80f63d3d37e4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

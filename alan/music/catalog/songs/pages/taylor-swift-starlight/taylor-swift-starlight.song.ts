@@ -6,10 +6,14 @@ export const taylorSwiftStarlight = {
   slug: "taylor-swift-starlight",
   title: "Starlight",
   artist: "taylor-swift",
-  externalId: "221e6743-fe3c-4a92-af46-112a2462169f",
-  externalLink: "https://musicbrainz.org/work/221e6743-fe3c-4a92-af46-112a2462169f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "221e6743-fe3c-4a92-af46-112a2462169f",
+      externalLink: "https://musicbrainz.org/work/221e6743-fe3c-4a92-af46-112a2462169f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

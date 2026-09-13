@@ -6,10 +6,14 @@ export const taylorSwiftElizabethTaylor = {
   slug: "taylor-swift-elizabeth-taylor",
   title: "Elizabeth Taylor",
   artist: "taylor-swift",
-  externalId: "c3c0861e-b3c9-438e-bbe5-05b6f2396b31",
-  externalLink: "https://musicbrainz.org/work/c3c0861e-b3c9-438e-bbe5-05b6f2396b31",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c3c0861e-b3c9-438e-bbe5-05b6f2396b31",
+      externalLink: "https://musicbrainz.org/work/c3c0861e-b3c9-438e-bbe5-05b6f2396b31",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

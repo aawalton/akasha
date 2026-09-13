@@ -6,10 +6,14 @@ export const taylorSwiftNeedYouNow = {
   slug: "taylor-swift-need-you-now",
   title: "Need You Now",
   artist: "taylor-swift",
-  externalId: "3de1ab2b-cfd0-4113-815d-816e3448568c",
-  externalLink: "https://musicbrainz.org/work/3de1ab2b-cfd0-4113-815d-816e3448568c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3de1ab2b-cfd0-4113-815d-816e3448568c",
+      externalLink: "https://musicbrainz.org/work/3de1ab2b-cfd0-4113-815d-816e3448568c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

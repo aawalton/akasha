@@ -6,10 +6,14 @@ export const taylorSwiftBejeweled = {
   slug: "taylor-swift-bejeweled",
   title: "Bejeweled",
   artist: "taylor-swift",
-  externalId: "0a271627-b8c6-4b16-9e65-5b4b19449268",
-  externalLink: "https://musicbrainz.org/work/0a271627-b8c6-4b16-9e65-5b4b19449268",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0a271627-b8c6-4b16-9e65-5b4b19449268",
+      externalLink: "https://musicbrainz.org/work/0a271627-b8c6-4b16-9e65-5b4b19449268",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

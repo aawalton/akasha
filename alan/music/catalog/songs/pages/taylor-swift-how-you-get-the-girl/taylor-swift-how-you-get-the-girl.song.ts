@@ -6,10 +6,14 @@ export const taylorSwiftHowYouGetTheGirl = {
   slug: "taylor-swift-how-you-get-the-girl",
   title: "How You Get the Girl",
   artist: "taylor-swift",
-  externalId: "0d79d824-d6ae-4961-ad52-cf81b611e2d6",
-  externalLink: "https://musicbrainz.org/work/0d79d824-d6ae-4961-ad52-cf81b611e2d6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0d79d824-d6ae-4961-ad52-cf81b611e2d6",
+      externalLink: "https://musicbrainz.org/work/0d79d824-d6ae-4961-ad52-cf81b611e2d6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

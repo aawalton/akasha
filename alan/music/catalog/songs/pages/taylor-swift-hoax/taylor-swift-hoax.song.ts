@@ -6,10 +6,14 @@ export const taylorSwiftHoax = {
   slug: "taylor-swift-hoax",
   title: "hoax",
   artist: "taylor-swift",
-  externalId: "899bb16d-7894-4234-bb4b-b21982bee084",
-  externalLink: "https://musicbrainz.org/work/899bb16d-7894-4234-bb4b-b21982bee084",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "899bb16d-7894-4234-bb4b-b21982bee084",
+      externalLink: "https://musicbrainz.org/work/899bb16d-7894-4234-bb4b-b21982bee084",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const taylorSwiftTheSweetEscape = {
   slug: "taylor-swift-the-sweet-escape",
   title: "The Sweet Escape",
   artist: "taylor-swift",
-  externalId: "76524660-faf5-30ae-831d-9026dcf88b8f",
-  externalLink: "https://musicbrainz.org/work/76524660-faf5-30ae-831d-9026dcf88b8f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "76524660-faf5-30ae-831d-9026dcf88b8f",
+      externalLink: "https://musicbrainz.org/work/76524660-faf5-30ae-831d-9026dcf88b8f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

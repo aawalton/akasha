@@ -6,10 +6,14 @@ export const taylorSwiftTheAlcott = {
   slug: "taylor-swift-the-alcott",
   title: "The Alcott",
   artist: "taylor-swift",
-  externalId: "76e74ffe-9eb7-46bc-bf29-f67f89710203",
-  externalLink: "https://musicbrainz.org/work/76e74ffe-9eb7-46bc-bf29-f67f89710203",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "76e74ffe-9eb7-46bc-bf29-f67f89710203",
+      externalLink: "https://musicbrainz.org/work/76e74ffe-9eb7-46bc-bf29-f67f89710203",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

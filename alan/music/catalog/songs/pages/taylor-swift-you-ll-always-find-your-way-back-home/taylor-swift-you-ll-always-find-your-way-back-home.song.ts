@@ -6,10 +6,14 @@ export const taylorSwiftYouLlAlwaysFindYourWayBackHome = {
   slug: "taylor-swift-you-ll-always-find-your-way-back-home",
   title: "You’ll Always Find Your Way Back Home",
   artist: "taylor-swift",
-  externalId: "45efe3ef-f2cf-323f-9dee-5febc4dc2cf8",
-  externalLink: "https://musicbrainz.org/work/45efe3ef-f2cf-323f-9dee-5febc4dc2cf8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "45efe3ef-f2cf-323f-9dee-5febc4dc2cf8",
+      externalLink: "https://musicbrainz.org/work/45efe3ef-f2cf-323f-9dee-5febc4dc2cf8",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

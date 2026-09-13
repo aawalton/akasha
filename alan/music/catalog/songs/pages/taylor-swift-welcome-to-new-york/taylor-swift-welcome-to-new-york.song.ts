@@ -6,10 +6,14 @@ export const taylorSwiftWelcomeToNewYork = {
   slug: "taylor-swift-welcome-to-new-york",
   title: "Welcome to New York",
   artist: "taylor-swift",
-  externalId: "c97e9e09-1576-4767-b53d-0ebf8b0dc5bb",
-  externalLink: "https://musicbrainz.org/work/c97e9e09-1576-4767-b53d-0ebf8b0dc5bb",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c97e9e09-1576-4767-b53d-0ebf8b0dc5bb",
+      externalLink: "https://musicbrainz.org/work/c97e9e09-1576-4767-b53d-0ebf8b0dc5bb",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

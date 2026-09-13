@@ -6,10 +6,14 @@ export const taylorSwiftOnlyTheYoung = {
   slug: "taylor-swift-only-the-young",
   title: "Only the Young",
   artist: "taylor-swift",
-  externalId: "7a597473-3eef-48aa-ac6a-49c632523ddc",
-  externalLink: "https://musicbrainz.org/work/7a597473-3eef-48aa-ac6a-49c632523ddc",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7a597473-3eef-48aa-ac6a-49c632523ddc",
+      externalLink: "https://musicbrainz.org/work/7a597473-3eef-48aa-ac6a-49c632523ddc",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

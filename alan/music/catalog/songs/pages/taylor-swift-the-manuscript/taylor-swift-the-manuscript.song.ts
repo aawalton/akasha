@@ -6,10 +6,14 @@ export const taylorSwiftTheManuscript = {
   slug: "taylor-swift-the-manuscript",
   title: "The Manuscript",
   artist: "taylor-swift",
-  externalId: "38a8256a-a297-494e-9f53-45f21715aa4b",
-  externalLink: "https://musicbrainz.org/work/38a8256a-a297-494e-9f53-45f21715aa4b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "38a8256a-a297-494e-9f53-45f21715aa4b",
+      externalLink: "https://musicbrainz.org/work/38a8256a-a297-494e-9f53-45f21715aa4b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

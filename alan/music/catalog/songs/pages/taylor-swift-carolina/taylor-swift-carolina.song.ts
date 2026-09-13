@@ -6,10 +6,14 @@ export const taylorSwiftCarolina = {
   slug: "taylor-swift-carolina",
   title: "Carolina",
   artist: "taylor-swift",
-  externalId: "7b854adc-cb55-487a-b3ea-da2125d06d09",
-  externalLink: "https://musicbrainz.org/work/7b854adc-cb55-487a-b3ea-da2125d06d09",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7b854adc-cb55-487a-b3ea-da2125d06d09",
+      externalLink: "https://musicbrainz.org/work/7b854adc-cb55-487a-b3ea-da2125d06d09",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

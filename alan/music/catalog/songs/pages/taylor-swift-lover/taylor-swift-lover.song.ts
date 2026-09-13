@@ -6,10 +6,14 @@ export const taylorSwiftLover = {
   slug: "taylor-swift-lover",
   title: "Lover",
   artist: "taylor-swift",
-  externalId: "fbfa8834-ff6c-4279-a134-130650ad2c25",
-  externalLink: "https://musicbrainz.org/work/fbfa8834-ff6c-4279-a134-130650ad2c25",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "fbfa8834-ff6c-4279-a134-130650ad2c25",
+      externalLink: "https://musicbrainz.org/work/fbfa8834-ff6c-4279-a134-130650ad2c25",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

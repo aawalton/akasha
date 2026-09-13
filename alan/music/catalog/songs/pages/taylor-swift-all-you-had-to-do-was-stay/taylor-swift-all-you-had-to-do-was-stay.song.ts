@@ -6,10 +6,14 @@ export const taylorSwiftAllYouHadToDoWasStay = {
   slug: "taylor-swift-all-you-had-to-do-was-stay",
   title: "All You Had to Do Was Stay",
   artist: "taylor-swift",
-  externalId: "7368d69e-7c8d-4fcb-b6f5-3c42cd943731",
-  externalLink: "https://musicbrainz.org/work/7368d69e-7c8d-4fcb-b6f5-3c42cd943731",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7368d69e-7c8d-4fcb-b6f5-3c42cd943731",
+      externalLink: "https://musicbrainz.org/work/7368d69e-7c8d-4fcb-b6f5-3c42cd943731",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

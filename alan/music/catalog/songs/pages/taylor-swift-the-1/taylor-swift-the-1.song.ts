@@ -6,10 +6,14 @@ export const taylorSwiftThe1 = {
   slug: "taylor-swift-the-1",
   title: "the 1",
   artist: "taylor-swift",
-  externalId: "52f7833d-8afe-40ae-8258-aaf6ddce8504",
-  externalLink: "https://musicbrainz.org/work/52f7833d-8afe-40ae-8258-aaf6ddce8504",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "52f7833d-8afe-40ae-8258-aaf6ddce8504",
+      externalLink: "https://musicbrainz.org/work/52f7833d-8afe-40ae-8258-aaf6ddce8504",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

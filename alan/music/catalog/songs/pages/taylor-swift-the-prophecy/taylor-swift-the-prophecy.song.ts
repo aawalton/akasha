@@ -6,10 +6,14 @@ export const taylorSwiftTheProphecy = {
   slug: "taylor-swift-the-prophecy",
   title: "The Prophecy",
   artist: "taylor-swift",
-  externalId: "38d41a0d-a8e5-424f-9dbb-4f4b5d086498",
-  externalLink: "https://musicbrainz.org/work/38d41a0d-a8e5-424f-9dbb-4f4b5d086498",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "38d41a0d-a8e5-424f-9dbb-4f4b5d086498",
+      externalLink: "https://musicbrainz.org/work/38d41a0d-a8e5-424f-9dbb-4f4b5d086498",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

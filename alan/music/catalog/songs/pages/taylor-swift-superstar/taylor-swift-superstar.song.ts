@@ -6,10 +6,14 @@ export const taylorSwiftSuperstar = {
   slug: "taylor-swift-superstar",
   title: "SuperStar",
   artist: "taylor-swift",
-  externalId: "5917a7e3-a22b-4d25-b3ef-ff1f47e47f93",
-  externalLink: "https://musicbrainz.org/work/5917a7e3-a22b-4d25-b3ef-ff1f47e47f93",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5917a7e3-a22b-4d25-b3ef-ff1f47e47f93",
+      externalLink: "https://musicbrainz.org/work/5917a7e3-a22b-4d25-b3ef-ff1f47e47f93",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

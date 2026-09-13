@@ -6,10 +6,14 @@ export const taylorSwiftAPerfectlyGoodHeart = {
   slug: "taylor-swift-a-perfectly-good-heart",
   title: "A Perfectly Good Heart",
   artist: "taylor-swift",
-  externalId: "b86a8107-36f5-460a-8e70-6f9d3843a482",
-  externalLink: "https://musicbrainz.org/work/b86a8107-36f5-460a-8e70-6f9d3843a482",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b86a8107-36f5-460a-8e70-6f9d3843a482",
+      externalLink: "https://musicbrainz.org/work/b86a8107-36f5-460a-8e70-6f9d3843a482",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

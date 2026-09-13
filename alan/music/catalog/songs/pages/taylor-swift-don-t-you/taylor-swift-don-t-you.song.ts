@@ -6,10 +6,14 @@ export const taylorSwiftDonTYou = {
   slug: "taylor-swift-don-t-you",
   title: "Don’t You",
   artist: "taylor-swift",
-  externalId: "ac68749b-c89c-4107-b3ad-aed726a57a19",
-  externalLink: "https://musicbrainz.org/work/ac68749b-c89c-4107-b3ad-aed726a57a19",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ac68749b-c89c-4107-b3ad-aed726a57a19",
+      externalLink: "https://musicbrainz.org/work/ac68749b-c89c-4107-b3ad-aed726a57a19",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const taylorSwiftChange = {
   slug: "taylor-swift-change",
   title: "Change",
   artist: "taylor-swift",
-  externalId: "f5685ce3-3bb9-3e02-ab1f-c3042697f8cc",
-  externalLink: "https://musicbrainz.org/work/f5685ce3-3bb9-3e02-ab1f-c3042697f8cc",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f5685ce3-3bb9-3e02-ab1f-c3042697f8cc",
+      externalLink: "https://musicbrainz.org/work/f5685ce3-3bb9-3e02-ab1f-c3042697f8cc",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const taylorSwiftICanDoItWithABrokenHeart = {
   slug: "taylor-swift-i-can-do-it-with-a-broken-heart",
   title: "I Can Do It With a Broken Heart",
   artist: "taylor-swift",
-  externalId: "9f2009b4-a116-45a5-87c9-f8c9ebc1c946",
-  externalLink: "https://musicbrainz.org/work/9f2009b4-a116-45a5-87c9-f8c9ebc1c946",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9f2009b4-a116-45a5-87c9-f8c9ebc1c946",
+      externalLink: "https://musicbrainz.org/work/9f2009b4-a116-45a5-87c9-f8c9ebc1c946",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const taylorSwiftThisIsWhyWeCanTHaveNiceThings = {
   slug: "taylor-swift-this-is-why-we-can-t-have-nice-things",
   title: "This Is Why We Can’t Have Nice Things",
   artist: "taylor-swift",
-  externalId: "5b9c4215-654a-4de0-858a-7693bcea9ce9",
-  externalLink: "https://musicbrainz.org/work/5b9c4215-654a-4de0-858a-7693bcea9ce9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5b9c4215-654a-4de0-858a-7693bcea9ce9",
+      externalLink: "https://musicbrainz.org/work/5b9c4215-654a-4de0-858a-7693bcea9ce9",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const taylorSwiftTolerateIt = {
   slug: "taylor-swift-tolerate-it",
   title: "tolerate it",
   artist: "taylor-swift",
-  externalId: "8891737d-96ae-459c-86ac-ae11399652d7",
-  externalLink: "https://musicbrainz.org/work/8891737d-96ae-459c-86ac-ae11399652d7",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8891737d-96ae-459c-86ac-ae11399652d7",
+      externalLink: "https://musicbrainz.org/work/8891737d-96ae-459c-86ac-ae11399652d7",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

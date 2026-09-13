@@ -6,10 +6,14 @@ export const taylorSwiftRun2 = {
   slug: "taylor-swift-run-2",
   title: "Run",
   artist: "taylor-swift",
-  externalId: "a434d31e-cfe3-4ce2-9efb-efce838ebac6",
-  externalLink: "https://musicbrainz.org/work/a434d31e-cfe3-4ce2-9efb-efce838ebac6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a434d31e-cfe3-4ce2-9efb-efce838ebac6",
+      externalLink: "https://musicbrainz.org/work/a434d31e-cfe3-4ce2-9efb-efce838ebac6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

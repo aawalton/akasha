@@ -6,10 +6,14 @@ export const taylorSwiftRiptide = {
   slug: "taylor-swift-riptide",
   title: "Riptide",
   artist: "taylor-swift",
-  externalId: "edb01a8b-9378-4ac8-bfec-09fbe4a0e5d0",
-  externalLink: "https://musicbrainz.org/work/edb01a8b-9378-4ac8-bfec-09fbe4a0e5d0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "edb01a8b-9378-4ac8-bfec-09fbe4a0e5d0",
+      externalLink: "https://musicbrainz.org/work/edb01a8b-9378-4ac8-bfec-09fbe4a0e5d0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

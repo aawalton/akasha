@@ -6,10 +6,14 @@ export const taylorSwiftPictureToBurn = {
   slug: "taylor-swift-picture-to-burn",
   title: "Picture to Burn",
   artist: "taylor-swift",
-  externalId: "f5b65b2b-9cab-45f8-bff8-768160b5d9ed",
-  externalLink: "https://musicbrainz.org/work/f5b65b2b-9cab-45f8-bff8-768160b5d9ed",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f5b65b2b-9cab-45f8-bff8-768160b5d9ed",
+      externalLink: "https://musicbrainz.org/work/f5b65b2b-9cab-45f8-bff8-768160b5d9ed",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

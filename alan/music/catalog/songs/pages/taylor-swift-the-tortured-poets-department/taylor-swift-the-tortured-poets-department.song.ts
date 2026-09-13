@@ -6,10 +6,14 @@ export const taylorSwiftTheTorturedPoetsDepartment = {
   slug: "taylor-swift-the-tortured-poets-department",
   title: "The Tortured Poets Department",
   artist: "taylor-swift",
-  externalId: "7ebce128-5d46-48e3-bff7-b4de14818779",
-  externalLink: "https://musicbrainz.org/work/7ebce128-5d46-48e3-bff7-b4de14818779",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7ebce128-5d46-48e3-bff7-b4de14818779",
+      externalLink: "https://musicbrainz.org/work/7ebce128-5d46-48e3-bff7-b4de14818779",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

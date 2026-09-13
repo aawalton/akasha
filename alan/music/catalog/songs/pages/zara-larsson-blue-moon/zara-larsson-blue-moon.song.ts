@@ -6,10 +6,14 @@ export const zaraLarssonBlueMoon = {
   slug: "zara-larsson-blue-moon",
   title: "Blue Moon",
   artist: "zara-larsson",
-  externalId: "851c2c67-affd-44ed-bab9-e1f7ac7b26d6",
-  externalLink: "https://musicbrainz.org/work/851c2c67-affd-44ed-bab9-e1f7ac7b26d6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "851c2c67-affd-44ed-bab9-e1f7ac7b26d6",
+      externalLink: "https://musicbrainz.org/work/851c2c67-affd-44ed-bab9-e1f7ac7b26d6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

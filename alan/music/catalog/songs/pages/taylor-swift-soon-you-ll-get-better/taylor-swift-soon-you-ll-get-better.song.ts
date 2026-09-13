@@ -6,10 +6,14 @@ export const taylorSwiftSoonYouLlGetBetter = {
   slug: "taylor-swift-soon-you-ll-get-better",
   title: "Soon You’ll Get Better",
   artist: "taylor-swift",
-  externalId: "7a21272b-af1c-4b76-91f2-e0b8145fb48b",
-  externalLink: "https://musicbrainz.org/work/7a21272b-af1c-4b76-91f2-e0b8145fb48b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7a21272b-af1c-4b76-91f2-e0b8145fb48b",
+      externalLink: "https://musicbrainz.org/work/7a21272b-af1c-4b76-91f2-e0b8145fb48b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

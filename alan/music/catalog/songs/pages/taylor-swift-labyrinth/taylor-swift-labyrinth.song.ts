@@ -6,10 +6,14 @@ export const taylorSwiftLabyrinth = {
   slug: "taylor-swift-labyrinth",
   title: "Labyrinth",
   artist: "taylor-swift",
-  externalId: "d264e431-cb95-4751-9931-9eefadf4c1ee",
-  externalLink: "https://musicbrainz.org/work/d264e431-cb95-4751-9931-9eefadf4c1ee",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d264e431-cb95-4751-9931-9eefadf4c1ee",
+      externalLink: "https://musicbrainz.org/work/d264e431-cb95-4751-9931-9eefadf4c1ee",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

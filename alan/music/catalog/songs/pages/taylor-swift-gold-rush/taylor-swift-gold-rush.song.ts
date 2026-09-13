@@ -6,10 +6,14 @@ export const taylorSwiftGoldRush = {
   slug: "taylor-swift-gold-rush",
   title: "gold rush",
   artist: "taylor-swift",
-  externalId: "16f2770d-e18e-4911-9920-437994ea807e",
-  externalLink: "https://musicbrainz.org/work/16f2770d-e18e-4911-9920-437994ea807e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "16f2770d-e18e-4911-9920-437994ea807e",
+      externalLink: "https://musicbrainz.org/work/16f2770d-e18e-4911-9920-437994ea807e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

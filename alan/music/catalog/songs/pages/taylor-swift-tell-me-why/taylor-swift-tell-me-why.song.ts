@@ -6,10 +6,14 @@ export const taylorSwiftTellMeWhy = {
   slug: "taylor-swift-tell-me-why",
   title: "Tell Me Why",
   artist: "taylor-swift",
-  externalId: "2dae6981-ef7b-348a-97f1-35428f51aa72",
-  externalLink: "https://musicbrainz.org/work/2dae6981-ef7b-348a-97f1-35428f51aa72",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2dae6981-ef7b-348a-97f1-35428f51aa72",
+      externalLink: "https://musicbrainz.org/work/2dae6981-ef7b-348a-97f1-35428f51aa72",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

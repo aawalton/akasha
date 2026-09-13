@@ -6,10 +6,14 @@ export const taylorSwiftAmericanGirl = {
   slug: "taylor-swift-american-girl",
   title: "American Girl",
   artist: "taylor-swift",
-  externalId: "667f5519-d5d5-3b0a-8c78-5d8d36b98dfe",
-  externalLink: "https://musicbrainz.org/work/667f5519-d5d5-3b0a-8c78-5d8d36b98dfe",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "667f5519-d5d5-3b0a-8c78-5d8d36b98dfe",
+      externalLink: "https://musicbrainz.org/work/667f5519-d5d5-3b0a-8c78-5d8d36b98dfe",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

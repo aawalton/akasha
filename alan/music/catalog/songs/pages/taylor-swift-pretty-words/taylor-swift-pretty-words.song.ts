@@ -6,10 +6,14 @@ export const taylorSwiftPrettyWords = {
   slug: "taylor-swift-pretty-words",
   title: "Pretty Words",
   artist: "taylor-swift",
-  externalId: "e61e8848-04db-4208-9d67-4e60bab35593",
-  externalLink: "https://musicbrainz.org/work/e61e8848-04db-4208-9d67-4e60bab35593",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e61e8848-04db-4208-9d67-4e60bab35593",
+      externalLink: "https://musicbrainz.org/work/e61e8848-04db-4208-9d67-4e60bab35593",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

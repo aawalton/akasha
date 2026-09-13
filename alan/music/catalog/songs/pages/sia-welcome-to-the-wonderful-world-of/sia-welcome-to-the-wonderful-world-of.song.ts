@@ -6,10 +6,14 @@ export const siaWelcomeToTheWonderfulWorldOf = {
   slug: "sia-welcome-to-the-wonderful-world-of",
   title: "Welcome to the Wonderful World Of",
   artist: "sia",
-  externalId: "a30d7ec0-6fe0-4a4b-a3d2-496626530075",
-  externalLink: "https://musicbrainz.org/work/a30d7ec0-6fe0-4a4b-a3d2-496626530075",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a30d7ec0-6fe0-4a4b-a3d2-496626530075",
+      externalLink: "https://musicbrainz.org/work/a30d7ec0-6fe0-4a4b-a3d2-496626530075",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const taylorSwiftIAmEveryShellWashedUponTheShore = {
   slug: "taylor-swift-i-am-every-shell-washed-upon-the-shore",
   title: "I Am Every Shell Washed Upon the Shore",
   artist: "taylor-swift",
-  externalId: "f42dbfdf-df50-4f57-bdd3-3840163891fd",
-  externalLink: "https://musicbrainz.org/work/f42dbfdf-df50-4f57-bdd3-3840163891fd",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f42dbfdf-df50-4f57-bdd3-3840163891fd",
+      externalLink: "https://musicbrainz.org/work/f42dbfdf-df50-4f57-bdd3-3840163891fd",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

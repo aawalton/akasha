@@ -6,10 +6,14 @@ export const taylorSwiftCrazier = {
   slug: "taylor-swift-crazier",
   title: "Crazier",
   artist: "taylor-swift",
-  externalId: "b238f13a-4209-3e28-a455-7143930e51d4",
-  externalLink: "https://musicbrainz.org/work/b238f13a-4209-3e28-a455-7143930e51d4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b238f13a-4209-3e28-a455-7143930e51d4",
+      externalLink: "https://musicbrainz.org/work/b238f13a-4209-3e28-a455-7143930e51d4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

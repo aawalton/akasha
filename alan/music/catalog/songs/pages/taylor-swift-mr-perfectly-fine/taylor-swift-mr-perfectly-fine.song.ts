@@ -6,10 +6,14 @@ export const taylorSwiftMrPerfectlyFine = {
   slug: "taylor-swift-mr-perfectly-fine",
   title: "Mr. Perfectly Fine",
   artist: "taylor-swift",
-  externalId: "f4bd40da-3b35-4126-9e6a-f95f38fd2fdb",
-  externalLink: "https://musicbrainz.org/work/f4bd40da-3b35-4126-9e6a-f95f38fd2fdb",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f4bd40da-3b35-4126-9e6a-f95f38fd2fdb",
+      externalLink: "https://musicbrainz.org/work/f4bd40da-3b35-4126-9e6a-f95f38fd2fdb",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

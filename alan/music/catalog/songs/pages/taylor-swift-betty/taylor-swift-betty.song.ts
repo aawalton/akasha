@@ -6,10 +6,14 @@ export const taylorSwiftBetty = {
   slug: "taylor-swift-betty",
   title: "betty",
   artist: "taylor-swift",
-  externalId: "9f24824b-1777-45e1-a829-bba8f0ca5b27",
-  externalLink: "https://musicbrainz.org/work/9f24824b-1777-45e1-a829-bba8f0ca5b27",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9f24824b-1777-45e1-a829-bba8f0ca5b27",
+      externalLink: "https://musicbrainz.org/work/9f24824b-1777-45e1-a829-bba8f0ca5b27",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

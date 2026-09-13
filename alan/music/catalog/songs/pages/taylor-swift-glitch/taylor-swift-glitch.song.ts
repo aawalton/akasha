@@ -6,10 +6,14 @@ export const taylorSwiftGlitch = {
   slug: "taylor-swift-glitch",
   title: "Glitch",
   artist: "taylor-swift",
-  externalId: "be72a7cb-67b8-4551-8ed5-d8f0c9752e9e",
-  externalLink: "https://musicbrainz.org/work/be72a7cb-67b8-4551-8ed5-d8f0c9752e9e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "be72a7cb-67b8-4551-8ed5-d8f0c9752e9e",
+      externalLink: "https://musicbrainz.org/work/be72a7cb-67b8-4551-8ed5-d8f0c9752e9e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const taylorSwiftEyesOpen = {
   slug: "taylor-swift-eyes-open",
   title: "Eyes Open",
   artist: "taylor-swift",
-  externalId: "3f54e670-8da3-4d0e-8e9a-52d13fc3e15f",
-  externalLink: "https://musicbrainz.org/work/3f54e670-8da3-4d0e-8e9a-52d13fc3e15f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3f54e670-8da3-4d0e-8e9a-52d13fc3e15f",
+      externalLink: "https://musicbrainz.org/work/3f54e670-8da3-4d0e-8e9a-52d13fc3e15f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

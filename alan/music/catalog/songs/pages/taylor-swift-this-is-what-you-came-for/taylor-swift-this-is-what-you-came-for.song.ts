@@ -6,10 +6,14 @@ export const taylorSwiftThisIsWhatYouCameFor = {
   slug: "taylor-swift-this-is-what-you-came-for",
   title: "This Is What You Came For",
   artist: "taylor-swift",
-  externalId: "0580745a-cd39-4c40-8d97-9e991d9ab380",
-  externalLink: "https://musicbrainz.org/work/0580745a-cd39-4c40-8d97-9e991d9ab380",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0580745a-cd39-4c40-8d97-9e991d9ab380",
+      externalLink: "https://musicbrainz.org/work/0580745a-cd39-4c40-8d97-9e991d9ab380",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

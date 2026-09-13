@@ -6,10 +6,14 @@ export const taylorSwiftHoney = {
   slug: "taylor-swift-honey",
   title: "Honey",
   artist: "taylor-swift",
-  externalId: "8b50ef71-cb37-4603-98f9-9bb8beabed1d",
-  externalLink: "https://musicbrainz.org/work/8b50ef71-cb37-4603-98f9-9bb8beabed1d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8b50ef71-cb37-4603-98f9-9bb8beabed1d",
+      externalLink: "https://musicbrainz.org/work/8b50ef71-cb37-4603-98f9-9bb8beabed1d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

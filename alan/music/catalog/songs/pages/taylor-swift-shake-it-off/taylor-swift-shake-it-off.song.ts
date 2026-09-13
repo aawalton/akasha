@@ -6,10 +6,14 @@ export const taylorSwiftShakeItOff = {
   slug: "taylor-swift-shake-it-off",
   title: "Shake It Off",
   artist: "taylor-swift",
-  externalId: "5fa63cad-ca5d-4927-ad27-459388bdebaf",
-  externalLink: "https://musicbrainz.org/work/5fa63cad-ca5d-4927-ad27-459388bdebaf",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5fa63cad-ca5d-4927-ad27-459388bdebaf",
+      externalLink: "https://musicbrainz.org/work/5fa63cad-ca5d-4927-ad27-459388bdebaf",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

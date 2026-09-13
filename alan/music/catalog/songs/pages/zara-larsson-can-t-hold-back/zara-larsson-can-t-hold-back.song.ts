@@ -6,10 +6,14 @@ export const zaraLarssonCanTHoldBack = {
   slug: "zara-larsson-can-t-hold-back",
   title: "Can’t Hold Back",
   artist: "zara-larsson",
-  externalId: "8bb6800f-c92c-4512-8571-adde50919af2",
-  externalLink: "https://musicbrainz.org/work/8bb6800f-c92c-4512-8571-adde50919af2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8bb6800f-c92c-4512-8571-adde50919af2",
+      externalLink: "https://musicbrainz.org/work/8bb6800f-c92c-4512-8571-adde50919af2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

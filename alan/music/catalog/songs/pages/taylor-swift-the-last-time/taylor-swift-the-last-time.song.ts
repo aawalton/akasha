@@ -6,10 +6,14 @@ export const taylorSwiftTheLastTime = {
   slug: "taylor-swift-the-last-time",
   title: "The Last Time",
   artist: "taylor-swift",
-  externalId: "b0b11e8b-2f0d-43e9-8112-d9831bd0981a",
-  externalLink: "https://musicbrainz.org/work/b0b11e8b-2f0d-43e9-8112-d9831bd0981a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b0b11e8b-2f0d-43e9-8112-d9831bd0981a",
+      externalLink: "https://musicbrainz.org/work/b0b11e8b-2f0d-43e9-8112-d9831bd0981a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const taylorSwiftStayBeautiful = {
   slug: "taylor-swift-stay-beautiful",
   title: "Stay Beautiful",
   artist: "taylor-swift",
-  externalId: "eedfda9b-b13f-43e3-bf08-7189f51ca68f",
-  externalLink: "https://musicbrainz.org/work/eedfda9b-b13f-43e3-bf08-7189f51ca68f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "eedfda9b-b13f-43e3-bf08-7189f51ca68f",
+      externalLink: "https://musicbrainz.org/work/eedfda9b-b13f-43e3-bf08-7189f51ca68f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

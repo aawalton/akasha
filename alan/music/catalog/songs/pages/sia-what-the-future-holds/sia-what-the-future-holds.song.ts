@@ -6,10 +6,14 @@ export const siaWhatTheFutureHolds = {
   slug: "sia-what-the-future-holds",
   title: "What the Future Holds",
   artist: "sia",
-  externalId: "443f6d04-3f6f-4430-83aa-59bfaaff8e7a",
-  externalLink: "https://musicbrainz.org/work/443f6d04-3f6f-4430-83aa-59bfaaff8e7a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "443f6d04-3f6f-4430-83aa-59bfaaff8e7a",
+      externalLink: "https://musicbrainz.org/work/443f6d04-3f6f-4430-83aa-59bfaaff8e7a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

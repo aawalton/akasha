@@ -6,10 +6,14 @@ export const taylorSwiftDaylight = {
   slug: "taylor-swift-daylight",
   title: "Daylight",
   artist: "taylor-swift",
-  externalId: "e42ffcfb-fd47-4f5c-8c04-fc94e0d92440",
-  externalLink: "https://musicbrainz.org/work/e42ffcfb-fd47-4f5c-8c04-fc94e0d92440",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e42ffcfb-fd47-4f5c-8c04-fc94e0d92440",
+      externalLink: "https://musicbrainz.org/work/e42ffcfb-fd47-4f5c-8c04-fc94e0d92440",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

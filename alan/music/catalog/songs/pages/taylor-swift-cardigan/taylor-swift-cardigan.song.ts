@@ -6,10 +6,14 @@ export const taylorSwiftCardigan = {
   slug: "taylor-swift-cardigan",
   title: "cardigan",
   artist: "taylor-swift",
-  externalId: "33d85bba-6afc-4324-8690-28ea9b40c526",
-  externalLink: "https://musicbrainz.org/work/33d85bba-6afc-4324-8690-28ea9b40c526",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "33d85bba-6afc-4324-8690-28ea9b40c526",
+      externalLink: "https://musicbrainz.org/work/33d85bba-6afc-4324-8690-28ea9b40c526",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

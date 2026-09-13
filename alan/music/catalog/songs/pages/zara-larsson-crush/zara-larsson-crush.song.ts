@@ -6,10 +6,14 @@ export const zaraLarssonCrush = {
   slug: "zara-larsson-crush",
   title: "Crush",
   artist: "zara-larsson",
-  externalId: "85ce57fd-c2d6-47d1-bcda-7d3ca25812f7",
-  externalLink: "https://musicbrainz.org/work/85ce57fd-c2d6-47d1-bcda-7d3ca25812f7",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "85ce57fd-c2d6-47d1-bcda-7d3ca25812f7",
+      externalLink: "https://musicbrainz.org/work/85ce57fd-c2d6-47d1-bcda-7d3ca25812f7",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

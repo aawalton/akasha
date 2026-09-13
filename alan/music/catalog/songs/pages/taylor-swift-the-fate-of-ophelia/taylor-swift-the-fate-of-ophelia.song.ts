@@ -6,10 +6,14 @@ export const taylorSwiftTheFateOfOphelia = {
   slug: "taylor-swift-the-fate-of-ophelia",
   title: "The Fate of Ophelia",
   artist: "taylor-swift",
-  externalId: "00fb8e69-93d8-4523-9b41-d6e0b9fd15ae",
-  externalLink: "https://musicbrainz.org/work/00fb8e69-93d8-4523-9b41-d6e0b9fd15ae",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "00fb8e69-93d8-4523-9b41-d6e0b9fd15ae",
+      externalLink: "https://musicbrainz.org/work/00fb8e69-93d8-4523-9b41-d6e0b9fd15ae",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

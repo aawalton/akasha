@@ -6,10 +6,14 @@ export const zaraLarssonHotSexy = {
   slug: "zara-larsson-hot-sexy",
   title: "HOT & SEXY",
   artist: "zara-larsson",
-  externalId: "f037c45d-7733-4d6a-92ce-dbf45598e8bd",
-  externalLink: "https://musicbrainz.org/work/f037c45d-7733-4d6a-92ce-dbf45598e8bd",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f037c45d-7733-4d6a-92ce-dbf45598e8bd",
+      externalLink: "https://musicbrainz.org/work/f037c45d-7733-4d6a-92ce-dbf45598e8bd",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

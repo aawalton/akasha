@@ -6,10 +6,14 @@ export const taylorSwiftAllTooWell2 = {
   slug: "taylor-swift-all-too-well-2",
   title: "All Too Well",
   artist: "taylor-swift",
-  externalId: "6c9d895a-e910-40f3-9b77-9e643eeec369",
-  externalLink: "https://musicbrainz.org/work/6c9d895a-e910-40f3-9b77-9e643eeec369",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6c9d895a-e910-40f3-9b77-9e643eeec369",
+      externalLink: "https://musicbrainz.org/work/6c9d895a-e910-40f3-9b77-9e643eeec369",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

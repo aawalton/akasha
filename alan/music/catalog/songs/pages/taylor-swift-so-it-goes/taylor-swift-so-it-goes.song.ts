@@ -6,10 +6,14 @@ export const taylorSwiftSoItGoes = {
   slug: "taylor-swift-so-it-goes",
   title: "So It Goes…",
   artist: "taylor-swift",
-  externalId: "0fa1c672-5d8f-4b56-b304-a76c7ffb2525",
-  externalLink: "https://musicbrainz.org/work/0fa1c672-5d8f-4b56-b304-a76c7ffb2525",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0fa1c672-5d8f-4b56-b304-a76c7ffb2525",
+      externalLink: "https://musicbrainz.org/work/0fa1c672-5d8f-4b56-b304-a76c7ffb2525",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const taylorSwiftClothesFromMissMabel = {
   slug: "taylor-swift-clothes-from-miss-mabel",
   title: "Clothes From Miss Mabel",
   artist: "taylor-swift",
-  externalId: "7cb2cf5c-2cac-4d96-8d36-611c72347196",
-  externalLink: "https://musicbrainz.org/work/7cb2cf5c-2cac-4d96-8d36-611c72347196",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7cb2cf5c-2cac-4d96-8d36-611c72347196",
+      externalLink: "https://musicbrainz.org/work/7cb2cf5c-2cac-4d96-8d36-611c72347196",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "solo",

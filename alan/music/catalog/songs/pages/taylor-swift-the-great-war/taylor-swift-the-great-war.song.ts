@@ -6,10 +6,14 @@ export const taylorSwiftTheGreatWar = {
   slug: "taylor-swift-the-great-war",
   title: "The Great War",
   artist: "taylor-swift",
-  externalId: "f56d39d0-de1f-42d7-8d18-bdc26962c141",
-  externalLink: "https://musicbrainz.org/work/f56d39d0-de1f-42d7-8d18-bdc26962c141",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f56d39d0-de1f-42d7-8d18-bdc26962c141",
+      externalLink: "https://musicbrainz.org/work/f56d39d0-de1f-42d7-8d18-bdc26962c141",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

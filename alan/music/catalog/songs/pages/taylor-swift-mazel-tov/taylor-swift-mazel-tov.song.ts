@@ -6,10 +6,14 @@ export const taylorSwiftMazelTov = {
   slug: "taylor-swift-mazel-tov",
   title: "Mazel Tov",
   artist: "taylor-swift",
-  externalId: "3eaad3a3-2aae-42e9-aa42-2ba1aba9ea1b",
-  externalLink: "https://musicbrainz.org/work/3eaad3a3-2aae-42e9-aa42-2ba1aba9ea1b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3eaad3a3-2aae-42e9-aa42-2ba1aba9ea1b",
+      externalLink: "https://musicbrainz.org/work/3eaad3a3-2aae-42e9-aa42-2ba1aba9ea1b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: false,
   written: "collab",

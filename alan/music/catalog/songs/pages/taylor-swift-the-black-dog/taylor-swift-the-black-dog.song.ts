@@ -6,10 +6,14 @@ export const taylorSwiftTheBlackDog = {
   slug: "taylor-swift-the-black-dog",
   title: "The Black Dog",
   artist: "taylor-swift",
-  externalId: "60c70525-0bcd-483a-9fd2-ff7b10cfb069",
-  externalLink: "https://musicbrainz.org/work/60c70525-0bcd-483a-9fd2-ff7b10cfb069",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "60c70525-0bcd-483a-9fd2-ff7b10cfb069",
+      externalLink: "https://musicbrainz.org/work/60c70525-0bcd-483a-9fd2-ff7b10cfb069",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

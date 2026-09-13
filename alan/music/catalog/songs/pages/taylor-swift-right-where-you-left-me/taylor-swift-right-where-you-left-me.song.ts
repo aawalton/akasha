@@ -6,10 +6,14 @@ export const taylorSwiftRightWhereYouLeftMe = {
   slug: "taylor-swift-right-where-you-left-me",
   title: "right where you left me",
   artist: "taylor-swift",
-  externalId: "bcc365a8-fdfe-471e-a619-7d4c03511f7d",
-  externalLink: "https://musicbrainz.org/work/bcc365a8-fdfe-471e-a619-7d4c03511f7d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bcc365a8-fdfe-471e-a619-7d4c03511f7d",
+      externalLink: "https://musicbrainz.org/work/bcc365a8-fdfe-471e-a619-7d4c03511f7d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const taylorSwiftDeathByAThousandCuts = {
   slug: "taylor-swift-death-by-a-thousand-cuts",
   title: "Death by a Thousand Cuts",
   artist: "taylor-swift",
-  externalId: "3a8bdd7f-50a0-48e1-9186-93e7f976d00b",
-  externalLink: "https://musicbrainz.org/work/3a8bdd7f-50a0-48e1-9186-93e7f976d00b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3a8bdd7f-50a0-48e1-9186-93e7f976d00b",
+      externalLink: "https://musicbrainz.org/work/3a8bdd7f-50a0-48e1-9186-93e7f976d00b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

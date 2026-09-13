@@ -6,10 +6,14 @@ export const taylorSwiftTmz = {
   slug: "taylor-swift-tmz",
   title: "TMZ",
   artist: "taylor-swift",
-  externalId: "839fca48-3c66-4d31-aa65-931fc65ddf77",
-  externalLink: "https://musicbrainz.org/work/839fca48-3c66-4d31-aa65-931fc65ddf77",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "839fca48-3c66-4d31-aa65-931fc65ddf77",
+      externalLink: "https://musicbrainz.org/work/839fca48-3c66-4d31-aa65-931fc65ddf77",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: false,
   written: "collab",

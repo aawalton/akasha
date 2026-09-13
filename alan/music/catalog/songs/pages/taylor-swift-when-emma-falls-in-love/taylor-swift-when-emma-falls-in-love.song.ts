@@ -6,10 +6,14 @@ export const taylorSwiftWhenEmmaFallsInLove = {
   slug: "taylor-swift-when-emma-falls-in-love",
   title: "When Emma Falls in Love",
   artist: "taylor-swift",
-  externalId: "abf6edf1-8f4a-4e8c-8bb8-29dea7a9b0f5",
-  externalLink: "https://musicbrainz.org/work/abf6edf1-8f4a-4e8c-8bb8-29dea7a9b0f5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "abf6edf1-8f4a-4e8c-8bb8-29dea7a9b0f5",
+      externalLink: "https://musicbrainz.org/work/abf6edf1-8f4a-4e8c-8bb8-29dea7a9b0f5",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const taylorSwiftMonologueSongLaLaLa = {
   slug: "taylor-swift-monologue-song-la-la-la",
   title: "Monologue Song (La La La)",
   artist: "taylor-swift",
-  externalId: "0edc43ef-42e9-4cc8-945c-1cff6b19cfc7",
-  externalLink: "https://musicbrainz.org/work/0edc43ef-42e9-4cc8-945c-1cff6b19cfc7",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0edc43ef-42e9-4cc8-945c-1cff6b19cfc7",
+      externalLink: "https://musicbrainz.org/work/0edc43ef-42e9-4cc8-945c-1cff6b19cfc7",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "solo",

@@ -6,10 +6,14 @@ export const taylorSwiftRonan = {
   slug: "taylor-swift-ronan",
   title: "Ronan",
   artist: "taylor-swift",
-  externalId: "caecc528-1dbb-4228-bbbe-18f7d2da1982",
-  externalLink: "https://musicbrainz.org/work/caecc528-1dbb-4228-bbbe-18f7d2da1982",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "caecc528-1dbb-4228-bbbe-18f7d2da1982",
+      externalLink: "https://musicbrainz.org/work/caecc528-1dbb-4228-bbbe-18f7d2da1982",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

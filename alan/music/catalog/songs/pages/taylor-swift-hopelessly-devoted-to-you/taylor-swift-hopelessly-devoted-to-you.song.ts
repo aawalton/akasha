@@ -6,10 +6,14 @@ export const taylorSwiftHopelesslyDevotedToYou = {
   slug: "taylor-swift-hopelessly-devoted-to-you",
   title: "Hopelessly Devoted to You",
   artist: "taylor-swift",
-  externalId: "10197ccb-743a-4140-b322-c685500aedbf",
-  externalLink: "https://musicbrainz.org/work/10197ccb-743a-4140-b322-c685500aedbf",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "10197ccb-743a-4140-b322-c685500aedbf",
+      externalLink: "https://musicbrainz.org/work/10197ccb-743a-4140-b322-c685500aedbf",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

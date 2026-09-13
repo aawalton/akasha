@@ -6,10 +6,14 @@ export const taylorSwiftTheLifeOfAShowgirl = {
   slug: "taylor-swift-the-life-of-a-showgirl",
   title: "The Life of a Showgirl",
   artist: "taylor-swift",
-  externalId: "e0e31026-dc50-4f9e-8414-b1f13ac1d593",
-  externalLink: "https://musicbrainz.org/work/e0e31026-dc50-4f9e-8414-b1f13ac1d593",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e0e31026-dc50-4f9e-8414-b1f13ac1d593",
+      externalLink: "https://musicbrainz.org/work/e0e31026-dc50-4f9e-8414-b1f13ac1d593",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

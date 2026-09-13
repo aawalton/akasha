@@ -6,10 +6,14 @@ export const taylorSwiftOurs = {
   slug: "taylor-swift-ours",
   title: "Ours",
   artist: "taylor-swift",
-  externalId: "f2465a1f-5386-4031-93cc-5023371b6b3f",
-  externalLink: "https://musicbrainz.org/work/f2465a1f-5386-4031-93cc-5023371b6b3f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f2465a1f-5386-4031-93cc-5023371b6b3f",
+      externalLink: "https://musicbrainz.org/work/f2465a1f-5386-4031-93cc-5023371b6b3f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

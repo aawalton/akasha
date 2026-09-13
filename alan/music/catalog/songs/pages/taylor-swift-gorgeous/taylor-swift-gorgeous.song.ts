@@ -6,10 +6,14 @@ export const taylorSwiftGorgeous = {
   slug: "taylor-swift-gorgeous",
   title: "Gorgeous",
   artist: "taylor-swift",
-  externalId: "0ae906ea-8d92-44ae-99b1-2e2ae1483cd2",
-  externalLink: "https://musicbrainz.org/work/0ae906ea-8d92-44ae-99b1-2e2ae1483cd2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0ae906ea-8d92-44ae-99b1-2e2ae1483cd2",
+      externalLink: "https://musicbrainz.org/work/0ae906ea-8d92-44ae-99b1-2e2ae1483cd2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

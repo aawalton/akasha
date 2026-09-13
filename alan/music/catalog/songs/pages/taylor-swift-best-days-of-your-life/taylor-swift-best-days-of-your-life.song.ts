@@ -6,10 +6,14 @@ export const taylorSwiftBestDaysOfYourLife = {
   slug: "taylor-swift-best-days-of-your-life",
   title: "Best Days of Your Life",
   artist: "taylor-swift",
-  externalId: "c49daabd-5f51-4db1-85f5-43e05004589a",
-  externalLink: "https://musicbrainz.org/work/c49daabd-5f51-4db1-85f5-43e05004589a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c49daabd-5f51-4db1-85f5-43e05004589a",
+      externalLink: "https://musicbrainz.org/work/c49daabd-5f51-4db1-85f5-43e05004589a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

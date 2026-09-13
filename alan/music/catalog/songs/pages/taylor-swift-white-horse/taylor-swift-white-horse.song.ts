@@ -6,10 +6,14 @@ export const taylorSwiftWhiteHorse = {
   slug: "taylor-swift-white-horse",
   title: "White Horse",
   artist: "taylor-swift",
-  externalId: "d643d8f1-3d27-31d7-bc16-d863d7a3f9f9",
-  externalLink: "https://musicbrainz.org/work/d643d8f1-3d27-31d7-bc16-d863d7a3f9f9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d643d8f1-3d27-31d7-bc16-d863d7a3f9f9",
+      externalLink: "https://musicbrainz.org/work/d643d8f1-3d27-31d7-bc16-d863d7a3f9f9",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

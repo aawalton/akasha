@@ -6,10 +6,14 @@ export const zaraLarssonLookWhatYouVeDone = {
   slug: "zara-larsson-look-what-you-ve-done",
   title: "Look What You’ve Done",
   artist: "zara-larsson",
-  externalId: "21315a79-738c-4ef2-aa45-b3871d3aff22",
-  externalLink: "https://musicbrainz.org/work/21315a79-738c-4ef2-aa45-b3871d3aff22",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "21315a79-738c-4ef2-aa45-b3871d3aff22",
+      externalLink: "https://musicbrainz.org/work/21315a79-738c-4ef2-aa45-b3871d3aff22",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

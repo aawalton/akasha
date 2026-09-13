@@ -6,10 +6,14 @@ export const taylorSwiftCowboyLikeMe = {
   slug: "taylor-swift-cowboy-like-me",
   title: "cowboy like me",
   artist: "taylor-swift",
-  externalId: "4533b239-8893-42c9-8d01-70eea8d298c6",
-  externalLink: "https://musicbrainz.org/work/4533b239-8893-42c9-8d01-70eea8d298c6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4533b239-8893-42c9-8d01-70eea8d298c6",
+      externalLink: "https://musicbrainz.org/work/4533b239-8893-42c9-8d01-70eea8d298c6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

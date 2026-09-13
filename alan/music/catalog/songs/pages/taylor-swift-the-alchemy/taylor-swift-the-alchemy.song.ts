@@ -6,10 +6,14 @@ export const taylorSwiftTheAlchemy = {
   slug: "taylor-swift-the-alchemy",
   title: "The Alchemy",
   artist: "taylor-swift",
-  externalId: "ebbfac52-42ca-48e1-b833-4b724c61bf75",
-  externalLink: "https://musicbrainz.org/work/ebbfac52-42ca-48e1-b833-4b724c61bf75",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ebbfac52-42ca-48e1-b833-4b724c61bf75",
+      externalLink: "https://musicbrainz.org/work/ebbfac52-42ca-48e1-b833-4b724c61bf75",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const zaraLarssonFuneral = {
   slug: "zara-larsson-funeral",
   title: "Funeral",
   artist: "zara-larsson",
-  externalId: "095132b8-0dbc-4b1b-a2a8-13148d786a96",
-  externalLink: "https://musicbrainz.org/work/095132b8-0dbc-4b1b-a2a8-13148d786a96",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "095132b8-0dbc-4b1b-a2a8-13148d786a96",
+      externalLink: "https://musicbrainz.org/work/095132b8-0dbc-4b1b-a2a8-13148d786a96",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

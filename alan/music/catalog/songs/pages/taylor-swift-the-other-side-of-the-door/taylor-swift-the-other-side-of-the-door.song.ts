@@ -6,10 +6,14 @@ export const taylorSwiftTheOtherSideOfTheDoor = {
   slug: "taylor-swift-the-other-side-of-the-door",
   title: "The Other Side of the Door",
   artist: "taylor-swift",
-  externalId: "710273e9-b0ea-4be1-87ca-5b85c39ccd33",
-  externalLink: "https://musicbrainz.org/work/710273e9-b0ea-4be1-87ca-5b85c39ccd33",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "710273e9-b0ea-4be1-87ca-5b85c39ccd33",
+      externalLink: "https://musicbrainz.org/work/710273e9-b0ea-4be1-87ca-5b85c39ccd33",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",
