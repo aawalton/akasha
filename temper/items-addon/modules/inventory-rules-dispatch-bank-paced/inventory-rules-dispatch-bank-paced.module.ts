@@ -6,6 +6,8 @@ export const inventoryRulesDispatchBankPaced = {
   slug: "inventory-rules-dispatch-bank-paced",
   definition: "sending a visit's bank moves inside the stack-move limit the game enforces",
   code: "ts",
+  test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
