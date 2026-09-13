@@ -4,7 +4,7 @@ import {
   functionNames,
   generateBashInit,
   inAliasOrder,
-} from "akasha/shell/terminal/modules/terminal-bash/terminal-bash.module.code.ts"
+} from "akasha/code/shell/terminal/modules/terminal-bash/terminal-bash.module.code.ts"
 
 const ACCOUNTS: readonly AliasEntry[] = [
   { account: "ctw", aliasIndex: 3 },

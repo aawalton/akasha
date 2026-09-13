@@ -27,6 +27,12 @@ import {
   workTreeLine,
 } from "akasha/alan/harness/code-editor/data-interfaces/modules/tree-drawing/tree-drawing.module.code.ts"
 import {
+  MARK_TAIL,
+  marksIn,
+  seatByShellPid,
+  seatMarksAt,
+} from "akasha/code/shell/terminal/modules/terminal-seat-marks/terminal-seat-marks.module.code.ts"
+import {
   dirsOf,
   followFolders,
   followWithin,
@@ -38,12 +44,6 @@ import {
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
 import { kindsUnder } from "akasha/pages/types/modules/descent/page-type-descent.module.code.ts"
-import {
-  MARK_TAIL,
-  marksIn,
-  seatByShellPid,
-  seatMarksAt,
-} from "akasha/shell/terminal/modules/terminal-seat-marks/terminal-seat-marks.module.code.ts"
 
 const INTERFACES_AT = "alan/harness/code-editor/data-interfaces/pages"
 const SCRATCH_AT = "alan/harness/code-editor/data-interfaces"

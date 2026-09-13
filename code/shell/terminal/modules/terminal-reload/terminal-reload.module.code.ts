@@ -1,5 +1,5 @@
-import { SHELL_INIT } from "akasha/shell/terminal/modules/terminal-calls/terminal-calls.module.code.ts"
-import { akashaCommand } from "akasha/shell/terminal/modules/terminal-entry-points/terminal-entry-points.module.code.ts"
+import { SHELL_INIT } from "akasha/code/shell/terminal/modules/terminal-calls/terminal-calls.module.code.ts"
+import { akashaCommand } from "akasha/code/shell/terminal/modules/terminal-entry-points/terminal-entry-points.module.code.ts"
 
 export const RELOAD_FN = "_akasha_reload"
 

@@ -8,11 +8,11 @@ import {
   shapeOf,
   shapesStanding,
   standsShell,
-} from "akasha/shell/terminal/modules/document-present/document-present.module.code.ts"
+} from "akasha/code/shell/terminal/modules/document-present/document-present.module.code.ts"
 import {
   A_PERSONA_AT,
   personAt,
-} from "akasha/shell/terminal/modules/document-present/document-present.module.test-fixtures.ts"
+} from "akasha/code/shell/terminal/modules/document-present/document-present.module.test-fixtures.ts"
 
 describe("a shape", () => {
   test("is the path of a page that is there with its slug blanked out", () => {

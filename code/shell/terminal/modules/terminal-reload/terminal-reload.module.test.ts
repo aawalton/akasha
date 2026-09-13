@@ -1,12 +1,12 @@
 import { describe, expect, test } from "bun:test"
-import { parses } from "akasha/shell/terminal/modules/terminal-bash/terminal-bash.module.test-fixtures.ts"
+import { parses } from "akasha/code/shell/terminal/modules/terminal-bash/terminal-bash.module.test-fixtures.ts"
 import {
   COMPOSING,
   implName,
   launcher,
   RELOAD_FN,
   reloadFnLines,
-} from "akasha/shell/terminal/modules/terminal-reload/terminal-reload.module.code.ts"
+} from "akasha/code/shell/terminal/modules/terminal-reload/terminal-reload.module.code.ts"
 
 describe("a launcher", () => {
   test("is the name typed, calling the reload and then the definition it left", () => {

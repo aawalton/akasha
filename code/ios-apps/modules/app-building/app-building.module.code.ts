@@ -1,6 +1,7 @@
 import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { sharedBuildFiles } from "akasha/code/ios-apps/modules/shared-build-files/shared-build-files.module.code.ts"
+import { quoted } from "akasha/code/shell/modules/quoting/quoting.module.code.ts"
 import {
   indexThere,
   listedAt,
@@ -12,7 +13,6 @@ import {
   textAt,
   type Value,
 } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import { quoted } from "akasha/shell/modules/quoting/quoting.module.code.ts"
 
 const COMPONENT = "ios-component/"
 

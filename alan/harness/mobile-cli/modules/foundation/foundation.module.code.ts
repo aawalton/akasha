@@ -9,7 +9,7 @@ import {
   ringCredentialScriptFor,
   splitRepoPath,
 } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
-import { quoted } from "akasha/shell/modules/quoting/quoting.module.code.ts"
+import { quoted } from "akasha/code/shell/modules/quoting/quoting.module.code.ts"
 import { z } from "zod"
 
 export const ASC_KEY_ID = "Q5485KN54Y"

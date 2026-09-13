@@ -1,11 +1,11 @@
 import { describe, expect, test } from "bun:test"
-import { parses } from "akasha/shell/terminal/modules/terminal-bash/terminal-bash.module.test-fixtures.ts"
+import { parses } from "akasha/code/shell/terminal/modules/terminal-bash/terminal-bash.module.test-fixtures.ts"
 import {
   ENDED_FN,
   TERMINAL_PAGES_DIR,
   terminalEndedFnLines,
   terminalEndedTrapLines,
-} from "akasha/shell/terminal/modules/terminal-ended/terminal-ended.module.code.ts"
+} from "akasha/code/shell/terminal/modules/terminal-ended/terminal-ended.module.code.ts"
 
 const ROOT_LOCAL = 'local _root="/repos/akasha"'
 

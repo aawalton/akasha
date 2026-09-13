@@ -1,11 +1,11 @@
-import { CLAUDE_ACCOUNT_ADD } from "akasha/shell/terminal/modules/terminal-calls/terminal-calls.module.code.ts"
+import { CLAUDE_ACCOUNT_ADD } from "akasha/code/shell/terminal/modules/terminal-calls/terminal-calls.module.code.ts"
 import {
   akashaCommand,
   proxy,
   ROOT_LOCAL,
   supervisor,
-} from "akasha/shell/terminal/modules/terminal-entry-points/terminal-entry-points.module.code.ts"
-import { implName } from "akasha/shell/terminal/modules/terminal-reload/terminal-reload.module.code.ts"
+} from "akasha/code/shell/terminal/modules/terminal-entry-points/terminal-entry-points.module.code.ts"
+import { implName } from "akasha/code/shell/terminal/modules/terminal-reload/terminal-reload.module.code.ts"
 
 export function supervisorFn(name: string, flags: string): string {
   const cmd = `bun run ${proxy()} -- bun run ${supervisor()}${flags}`

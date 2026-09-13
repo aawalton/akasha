@@ -3,8 +3,8 @@ import { ptyProxyRel } from "akasha/agents/seats/modules/entry-paths/seat-entry-
 import {
   claudeNewAccountFn,
   supervisorFn,
-} from "akasha/shell/terminal/modules/terminal-account-launchers/terminal-account-launchers.module.code.ts"
-import { parses } from "akasha/shell/terminal/modules/terminal-bash/terminal-bash.module.test-fixtures.ts"
+} from "akasha/code/shell/terminal/modules/terminal-account-launchers/terminal-account-launchers.module.code.ts"
+import { parses } from "akasha/code/shell/terminal/modules/terminal-bash/terminal-bash.module.test-fixtures.ts"
 
 describe("a client opened on one account", () => {
   const said = supervisorFn("c1", " -a aawalton")

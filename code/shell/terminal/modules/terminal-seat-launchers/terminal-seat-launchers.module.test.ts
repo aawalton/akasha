@@ -3,7 +3,7 @@ import { ptyProxyRel } from "akasha/agents/seats/modules/entry-paths/seat-entry-
 import { DEFAULT_ACCOUNT } from "akasha/agents/seats/modules/launching/seat-launching.module.code.ts"
 import { HANDLER } from "akasha/agents/seats/modules/naming/seat-naming.module.code.ts"
 import { seatPathForName } from "akasha/agents/seats/modules/reading/seat-reading.module.code.ts"
-import { parses } from "akasha/shell/terminal/modules/terminal-bash/terminal-bash.module.test-fixtures.ts"
+import { parses } from "akasha/code/shell/terminal/modules/terminal-bash/terminal-bash.module.test-fixtures.ts"
 import {
   SEAT_LIVE_FN,
   seatLiveFnLines,
@@ -13,8 +13,8 @@ import {
   TMUX_SERVER_COMM,
   tmuxLaunchFnLines,
   tmuxServerCountShell,
-} from "akasha/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.code.ts"
-import { SEAT_ATTACH_FN } from "akasha/shell/terminal/modules/terminal-seat-marks/terminal-seat-marks.module.code.ts"
+} from "akasha/code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.code.ts"
+import { SEAT_ATTACH_FN } from "akasha/code/shell/terminal/modules/terminal-seat-marks/terminal-seat-marks.module.code.ts"
 
 const live = seatLiveFnLines().join("\n")
 

@@ -1,4 +1,12 @@
 import { expect, test } from "bun:test"
+import {
+  CLAUDE_ACCOUNT_ADD,
+  CLAUDE_USAGE,
+  GIT_PUSH,
+  SEAT_START,
+  SEAT_SUPERVISOR_STOP,
+  SHELL_INIT,
+} from "akasha/code/shell/terminal/modules/terminal-calls/terminal-calls.module.code.ts"
 import { claudeAccountAdd } from "akasha/commands/pages/claude-account/add/claude-account-add.command.ts"
 import { claudeAccount } from "akasha/commands/pages/claude-account/claude-account.namespace.ts"
 import { git } from "akasha/commands/pages/git/git.namespace.ts"
@@ -12,14 +20,6 @@ import { seat } from "akasha/commands/pages/seat/seat.namespace.ts"
 import { seatStart } from "akasha/commands/pages/seat/start/seat-start.command.ts"
 import { seatSupervisor } from "akasha/commands/pages/seat/supervisor/seat-supervisor.namespace.ts"
 import { seatSupervisorStop } from "akasha/commands/pages/seat/supervisor/stop/seat-supervisor-stop.command.ts"
-import {
-  CLAUDE_ACCOUNT_ADD,
-  CLAUDE_USAGE,
-  GIT_PUSH,
-  SEAT_START,
-  SEAT_SUPERVISOR_STOP,
-  SHELL_INIT,
-} from "akasha/shell/terminal/modules/terminal-calls/terminal-calls.module.code.ts"
 
 const EVERY: readonly (readonly [string, readonly { readonly name: string }[]])[] = [
   [CLAUDE_ACCOUNT_ADD, [claudeAccount, claudeAccountAdd]],
