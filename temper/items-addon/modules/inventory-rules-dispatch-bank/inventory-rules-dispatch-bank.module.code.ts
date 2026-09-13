@@ -2,6 +2,7 @@ import {
   recordBankMoves,
   recordBankPhaseMs,
 } from "akasha/temper/items-addon/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
+import { getInventoryConfig } from "akasha/temper/items-addon/modules/inventory-config/inventory-config.module.code.ts"
 import { HOUSE_BANK_BAGS } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
 import { moveItem } from "akasha/temper/items-addon/modules/inventory-move-item/inventory-move-item.module.code.ts"
 import { reportAction } from "akasha/temper/items-addon/modules/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
@@ -24,6 +25,17 @@ let dispatchingBank = false
 
 export function isDispatchingBank(): boolean {
   return dispatchingBank
+}
+
+function stackVisitedBags(this: void, bankingBag: number): undefined {
+  if (getInventoryConfig().backpack?.autoStack === false) return
+  StackBag(BAG_BACKPACK)
+  if (bankingBag === BAG_BANK || bankingBag === BAG_SUBSCRIBER_BANK) {
+    StackBag(BAG_BANK)
+    if (IsESOPlusSubscriber()) StackBag(BAG_SUBSCRIBER_BANK)
+    return
+  }
+  StackBag(bankingBag)
 }
 
 export function onOpenBank(): undefined {
@@ -110,5 +122,7 @@ export function onOpenBank(): undefined {
   }
 
   dispatchingBank = false
-  startPacedBankChain(queue, moveItem)
+  startPacedBankChain(queue, moveItem, function (this: void): undefined {
+    stackVisitedBags(bankingBag)
+  })
 }

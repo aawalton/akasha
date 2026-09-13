@@ -27,5 +27,13 @@ export const inventoryRulesDispatchBankPaced = {
       invariantKind: "departure",
       statement: "Closing the bank ends the chain, and how many moves went unsent is said.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A chain that drains every step tells its caller the chain has settled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A chain closing the bank ended tells its caller nothing.",
+    },
   ],
 } as const satisfies Module

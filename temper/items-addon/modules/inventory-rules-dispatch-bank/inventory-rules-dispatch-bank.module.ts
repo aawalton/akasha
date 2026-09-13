@@ -16,5 +16,18 @@ export const inventoryRulesDispatchBank = {
       invariantKind: "departure",
       statement: "Every backpack slot is judged afresh when the bank opens.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A visit stacks the backpack and the storage it opened once every move that visit plans has settled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A visit whose bank closed early stacks nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The setting that stacks the backpack at login is the setting that stacks here.",
+    },
   ],
 } as const satisfies Module

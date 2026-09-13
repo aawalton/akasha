@@ -36,7 +36,8 @@ export function startPacedBankChain(
     targetBag: number,
     targetSlot: number,
     stackCount: number
-  ) => void
+  ) => void,
+  onSettled: (this: void) => void
 ): undefined {
   if (pacedBankRunning) return
   if (steps.length === 0) return
@@ -73,6 +74,7 @@ export function startPacedBankChain(
     inFlight = []
     stats.abortedEarly = aborted
     recordPacedDispatch(stats)
+    if (!aborted) onSettled()
   }
 
   function issueBatch(): undefined {
