@@ -10,6 +10,7 @@ import type { Answering } from "akasha/pages/indexes/modules/answering/index-ans
 import { ENTRY_PROPERTY } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import { everyPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+import { INDEX_AT } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import {
   pageNamed,
@@ -345,6 +346,8 @@ export function everyFileOf(index: Answering): readonly string[] {
 
 const VENDORED = "node_modules"
 
+const INDEXED = `${INDEX_AT}/`
+
 function walked(root: string, asked: readonly string[]): readonly string[] {
   const done = ran(["git", "-C", root, "ls-files", "-z", "--exclude-standard", ...asked])
   if (done.code !== 0) {
@@ -357,10 +360,14 @@ function heldThough(path: string): boolean {
   return uncommittedHeld(path) && !path.split("/").includes(VENDORED)
 }
 
+function outsideIndex(path: string): boolean {
+  return !path.startsWith(INDEXED)
+}
+
 function everyFileInside(root: string): readonly string[] {
   const kept = walked(root, ["--cached", "--others"])
   const held = walked(root, ["--others", "--ignored"]).filter(heldThough)
-  return sortedOnce([...kept, ...held])
+  return sortedOnce([...kept, ...held]).filter(outsideIndex)
 }
 
 export function everythingIn(root: string): Change {

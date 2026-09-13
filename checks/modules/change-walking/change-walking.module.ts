@@ -160,5 +160,10 @@ export const changeWalking = {
       invariantKind: "departure",
       statement: "A body that will not open refuses the run rather than being held.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The index is no file of the tree's, however git holds it, and is walked by nothing.",
+    },
   ],
 } as const satisfies Module
