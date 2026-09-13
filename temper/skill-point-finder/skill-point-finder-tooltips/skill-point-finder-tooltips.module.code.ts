@@ -1,8 +1,8 @@
 import {
   colorCompletion,
   formatQuestName,
-} from "akasha/temper/skill-point-finder/skill-point-finder-colors/skill-point-finder-colors.module.code.ts"
-import { GAME_DATA } from "akasha/temper/skill-point-finder/skill-point-finder-game-data/skill-point-finder-game-data.module.code.ts"
+} from "akasha/temper/skill-point-finder/modules/skill-point-finder-colors/skill-point-finder-colors.module.code.ts"
+import { GAME_DATA } from "akasha/temper/skill-point-finder/modules/skill-point-finder-game-data/skill-point-finder-game-data.module.code.ts"
 import { questCompleted } from "akasha/temper/skill-point-finder/skill-point-finder-helpers/skill-point-finder-helpers.module.code.ts"
 import {
   requirePtsTots,

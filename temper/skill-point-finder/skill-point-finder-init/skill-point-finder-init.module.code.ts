@@ -1,12 +1,12 @@
-import "akasha/temper/skill-point-finder/skill-point-finder-api/skill-point-finder-api.module.code.ts"
+import "akasha/temper/skill-point-finder/modules/skill-point-finder-api/skill-point-finder-api.module.code.ts"
 
-import { initSetup } from "akasha/temper/skill-point-finder/skill-point-finder-char-list/skill-point-finder-char-list.module.code.ts"
+import { initSetup } from "akasha/temper/skill-point-finder/modules/skill-point-finder-char-list/skill-point-finder-char-list.module.code.ts"
 import {
   ADDON_NAME,
   SAVED_VARIABLES_NAME,
   SAVED_VARIABLES_VERSION,
   SLASH_COMMAND,
-} from "akasha/temper/skill-point-finder/skill-point-finder-constants/skill-point-finder-constants.module.code.ts"
+} from "akasha/temper/skill-point-finder/modules/skill-point-finder-constants/skill-point-finder-constants.module.code.ts"
 import {
   achComplete,
   levelUp,
@@ -14,7 +14,7 @@ import {
   playerDeactivated,
   questRemoved,
   skillPointsUpdate,
-} from "akasha/temper/skill-point-finder/skill-point-finder-events/skill-point-finder-events.module.code.ts"
+} from "akasha/temper/skill-point-finder/modules/skill-point-finder-events/skill-point-finder-events.module.code.ts"
 import { setupMenu } from "akasha/temper/skill-point-finder/skill-point-finder-menu/skill-point-finder-menu.module.code.ts"
 import {
   loadSettings,

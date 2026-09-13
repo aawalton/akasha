@@ -1,5 +1,5 @@
 import type { CompletionCharacterInput } from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
-import { skillLines } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+import { skillLines } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/modules/is-object-record/is-object-record.module.code.ts"
 import { recordField } from "akasha/utils/narrow/modules/record-field/record-field.module.code.ts"
 

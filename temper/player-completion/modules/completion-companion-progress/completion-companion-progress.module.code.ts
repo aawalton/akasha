@@ -21,7 +21,7 @@ import type {
 import {
   type SkillLineId,
   skillLines,
-} from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+} from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 
 const MAX_COMPANION_LEVEL = 20
 

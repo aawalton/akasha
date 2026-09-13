@@ -7,7 +7,7 @@ import { emitStoreDiagnostic } from "akasha/pages/ui-store/modules/diagnostics/d
 import {
   awaitPagesStoreReady,
   getPagesStore,
-} from "akasha/pages/ui-store/singleton/singleton.module.code.ts"
+} from "akasha/pages/ui-store/modules/singleton/singleton.module.code.ts"
 import { useCallback, useEffect, useRef, useState, useSyncExternalStore } from "react"
 
 type PagesCollection = PagesStore["collection"]

@@ -8,7 +8,7 @@ import {
 import {
   type CompanionSkillLineId,
   companionSkillLines,
-} from "akasha/temper/companions-core/skill-lines-by-companion/skill-lines-by-companion.module.code.ts"
+} from "akasha/temper/companions-core/modules/skill-lines-by-companion/skill-lines-by-companion.module.code.ts"
 
 const WEAPON_SKILL_LINE: Partial<Record<CompanionWeaponTypeId, CompanionSkillLineId>> = {
   greatsword: "weapon-two-handed",

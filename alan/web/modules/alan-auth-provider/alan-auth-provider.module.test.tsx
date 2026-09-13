@@ -55,8 +55,10 @@ mock.module("akasha/pages/ui-store/modules/diagnostics/diagnostics.module.code.t
 mock.module("akasha/pages/ui-store/modules/report-stall/report-stall.module.code.ts", () => ({
   reportPagesStoreStall: () => Promise.resolve(),
 }))
-const pagesStoreSingleton = await import("akasha/pages/ui-store/singleton/singleton.module.code.ts")
-mock.module("akasha/pages/ui-store/singleton/singleton.module.code.ts", () => ({
+const pagesStoreSingleton = await import(
+  "akasha/pages/ui-store/modules/singleton/singleton.module.code.ts"
+)
+mock.module("akasha/pages/ui-store/modules/singleton/singleton.module.code.ts", () => ({
   ...pagesStoreSingleton,
   configurePagesStoreAuth: () => Promise.resolve(),
   getPagesStore: () =>

@@ -1,5 +1,5 @@
 import type { HealthSamples } from "akasha/temper/companions-core/modules/rotation-types/rotation-types.module.code.ts"
-import type { EffectCondition } from "akasha/temper/skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
+import type { EffectCondition } from "akasha/temper/skill-kinds/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 
 export function evaluateCondition(
   condition: EffectCondition,

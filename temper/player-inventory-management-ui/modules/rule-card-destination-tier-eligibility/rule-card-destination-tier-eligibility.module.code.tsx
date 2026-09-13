@@ -25,7 +25,7 @@ import type {
   RequiredSkillLinesCondition,
   RequiredSkillLinesMode,
 } from "akasha/temper/items-rules-core/modules/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
-import { skillLines } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+import { skillLines } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 import type { ReactNode } from "react"
 
 const SKILL_LINE_OPTIONS: readonly BadgeToggleGroupItem[] = skillLines.list

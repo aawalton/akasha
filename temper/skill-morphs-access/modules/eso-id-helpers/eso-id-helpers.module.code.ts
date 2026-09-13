@@ -2,12 +2,12 @@ import { getRacialSkillLineIdForRace } from "akasha/temper/character-skills/modu
 import { classes } from "akasha/temper/classes/modules/character-class/character-class.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 import { type RaceId, races } from "akasha/temper/races/modules/races/races.module.code.ts"
-import { skillLineCategoriesSorted } from "akasha/temper/skill-lines/skill-line-category-data/skill-line-category-data.module.code.ts"
+import { skillLineCategoriesSorted } from "akasha/temper/skill-lines/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
 import {
   getSkillLineIdsForClass,
   type SkillLineId,
   skillLines,
-} from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+} from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 
 export const ESO_CLASS_ID_TO_CLASS_ID = new Map<number, ClassId>(
   classes.list

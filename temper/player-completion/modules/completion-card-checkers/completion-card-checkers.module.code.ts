@@ -9,8 +9,8 @@ import { SKILL_POINT_GENERAL_SOURCES } from "akasha/temper/player-completion/ski
 import { SKILL_POINT_GROUP_DUNGEON_SOURCES } from "akasha/temper/player-completion/skill-point-group-dungeons/skill-point-group-dungeons.module.code.ts"
 import { SKILL_POINT_PUBLIC_DUNGEON_SOURCES } from "akasha/temper/player-completion/skill-point-public-dungeons/skill-point-public-dungeons.module.code.ts"
 import { SKILL_POINT_ZONE_SOURCES } from "akasha/temper/player-completion/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
-import { skillLines } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
-import { SKILL_MORPHS_CHECKER } from "akasha/temper/skill-morphs-access/skill-morphs-checker/skill-morphs-checker.module.code.ts"
+import { skillLines } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
+import { SKILL_MORPHS_CHECKER } from "akasha/temper/skill-morphs-access/modules/skill-morphs-checker/skill-morphs-checker.module.code.ts"
 
 const DAILY_WRIT_TOTAL = 7
 

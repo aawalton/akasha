@@ -42,7 +42,7 @@ import type {
   UpdateShoppingMarks,
 } from "akasha/temper/player-economics-ui/modules/shopping-optimizer-types/shopping-optimizer-types.module.code.ts"
 import { ShoppingRouteOverviewPanelCard } from "akasha/temper/player-economics-ui/modules/shopping-route-overview-panel-card/shopping-route-overview-panel-card.module.code.tsx"
-import { ShoppingTripCompletePanelCard } from "akasha/temper/player-economics-ui/shopping-trip-complete-panel-card/shopping-trip-complete-panel-card.module.code.tsx"
+import { ShoppingTripCompletePanelCard } from "akasha/temper/player-economics-ui/modules/shopping-trip-complete-panel-card/shopping-trip-complete-panel-card.module.code.tsx"
 import { useCompanionShoppingData } from "akasha/temper/player-economics-ui/use-companion-shopping-data/use-companion-shopping-data.module.code.ts"
 import type { ShoppingList } from "akasha/temper/player-economics-ui/use-shopping-list/use-shopping-list.module.code.ts"
 import { useShoppingOptimizer } from "akasha/temper/player-economics-ui/use-shopping-optimizer/use-shopping-optimizer.module.code.ts"
@@ -51,7 +51,7 @@ import {
   needToShoppingItem,
   needToShoppingKey,
 } from "akasha/temper/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"
-import { isShoppingSettings } from "akasha/temper/shopping/shopping-settings/shopping-settings.module.code.ts"
+import { isShoppingSettings } from "akasha/temper/shopping/modules/shopping-settings/shopping-settings.module.code.ts"
 import { ShoppingCart } from "lucide-react"
 import { Fragment, useCallback, useMemo, useState } from "react"
 

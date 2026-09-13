@@ -4,15 +4,15 @@ import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/respo
 import {
   getArmorSkillLineIds,
   getWeaponSkillLineIdsForBar,
-} from "akasha/temper/character-skills/skill-line-queries/skill-line-queries.module.code.ts"
+} from "akasha/temper/character-skills/modules/skill-line-queries/skill-line-queries.module.code.ts"
 import { activeSkillSlots } from "akasha/temper/skill-kinds/skill-slots/skill-slots.module.code.ts"
-import type { SkillLineId } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+import type { SkillLineId } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 import { PassiveSkillsPanelCard } from "akasha/temper/web/modules/passive-skills-panel-card/passive-skills-panel-card.module.code.tsx"
 import { ScribingPanelCard } from "akasha/temper/web/modules/scribing-panel-card/scribing-panel-card.module.code.tsx"
 import { ScribingSelectionDialog } from "akasha/temper/web/modules/scribing-selection-dialog/scribing-selection-dialog.module.code.tsx"
 import { ScriptEditDialog } from "akasha/temper/web/modules/script-edit-dialog/script-edit-dialog.module.code.tsx"
-import { SkillBarPanelCard } from "akasha/temper/web/skill-bar-panel-card/skill-bar-panel-card.module.code.tsx"
-import { SkillLinesPanelCard } from "akasha/temper/web/skill-lines-panel-card/skill-lines-panel-card.module.code.tsx"
+import { SkillBarPanelCard } from "akasha/temper/web/modules/skill-bar-panel-card/skill-bar-panel-card.module.code.tsx"
+import { SkillLinesPanelCard } from "akasha/temper/web/modules/skill-lines-panel-card/skill-lines-panel-card.module.code.tsx"
 import { SkillSelectionDialog } from "akasha/temper/web/skill-selection-dialog/skill-selection-dialog.module.code.tsx"
 import type { SkillsPanelProps } from "akasha/temper/web/skills-types/skills-types.module.code.ts"
 import { useScribedSkills } from "akasha/temper/web/use-scribed-skills/use-scribed-skills.module.code.ts"

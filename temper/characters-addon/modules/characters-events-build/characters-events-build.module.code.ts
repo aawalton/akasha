@@ -8,7 +8,7 @@ import {
   saveSkillMorphProgress,
   updateAccountSkillMorphProgress,
   updateSkillMorphProgress,
-} from "akasha/temper/characters-skills-morphs-addon/skill-morph-tracking/skill-morph-tracking.module.code.ts"
+} from "akasha/temper/characters-skills-morphs-addon/modules/skill-morph-tracking/skill-morph-tracking.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/player-completion-state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
 
 const BUILD_CAPTURE_UPDATE = ADDON_NAME + "_BuildCaptureDelay"

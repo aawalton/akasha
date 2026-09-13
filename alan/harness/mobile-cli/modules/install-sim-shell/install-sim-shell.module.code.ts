@@ -17,18 +17,18 @@ import {
 import {
   buildInstallScript,
   parseInstalledUdid,
-} from "akasha/alan/harness/mobile-cli/sim-macbook/sim-macbook.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/modules/sim-macbook/sim-macbook.module.code.ts"
 import {
   deliverSimRunTree,
   simRunNativeShellDir,
   simRunSharedRepoPaths,
   simRunSourceRepoPaths,
   stampCommitOf,
-} from "akasha/alan/harness/mobile-cli/sim-run-tree/sim-run-tree.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/modules/sim-run-tree/sim-run-tree.module.code.ts"
 import {
   assertStagedWwwFresh,
   stageWwwFromWorkingTree,
-} from "akasha/alan/harness/mobile-cli/sim-www-stage/sim-www-stage.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/modules/sim-www-stage/sim-www-stage.module.code.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 export interface InstallSimShellOptions {

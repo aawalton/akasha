@@ -1,4 +1,4 @@
-import { GAME_DATA } from "akasha/temper/skill-point-finder/skill-point-finder-game-data/skill-point-finder-game-data.module.code.ts"
+import { GAME_DATA } from "akasha/temper/skill-point-finder/modules/skill-point-finder-game-data/skill-point-finder-game-data.module.code.ts"
 import { getSV } from "akasha/temper/skill-point-finder/skill-point-finder-helpers/skill-point-finder-helpers.module.code.ts"
 import {
   requirePtsTots,

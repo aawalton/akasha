@@ -18,14 +18,14 @@ import {
 import {
   ensureAppium,
   resolveAndBootSim,
-} from "akasha/alan/harness/mobile-cli/sim-macbook/sim-macbook.module.code.ts"
-import type { SimSessionState } from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/modules/sim-macbook/sim-macbook.module.code.ts"
+import type { SimSessionState } from "akasha/alan/harness/mobile-cli/modules/sim-session/sim-session.module.code.ts"
 import {
   buildBannerTapCapabilities,
   loadSessionState,
   resolveWdaLocalPort,
   WDA_LOCAL_PORT_ENV,
-} from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/modules/sim-session/sim-session.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { app } from "akasha/commands/arguments/pages/app.argument.ts"
 import { route } from "akasha/commands/arguments/pages/route.argument.ts"

@@ -48,7 +48,7 @@ import { collectZoneCompletion } from "akasha/temper/characters-addon/modules/ch
 import {
   saveAccountSkillMorphProgress,
   saveSkillMorphProgress,
-} from "akasha/temper/characters-skills-morphs-addon/skill-morph-tracking/skill-morph-tracking.module.code.ts"
+} from "akasha/temper/characters-skills-morphs-addon/modules/skill-morph-tracking/skill-morph-tracking.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/player-completion-state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
 import { collectMotifKnowledge } from "akasha/temper/player-completion-state/modules/completion-motif-knowledge/completion-motif-knowledge.module.code.ts"
 import {

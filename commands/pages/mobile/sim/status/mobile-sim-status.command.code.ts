@@ -1,9 +1,9 @@
 import { getContexts } from "akasha/alan/harness/mobile-cli/modules/appium-client/appium-client.module.code.ts"
-import { appiumIsUp } from "akasha/alan/harness/mobile-cli/sim-macbook/sim-macbook.module.code.ts"
+import { appiumIsUp } from "akasha/alan/harness/mobile-cli/modules/sim-macbook/sim-macbook.module.code.ts"
 import {
   loadSessionState,
   SIM_SESSION_PATH,
-} from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/modules/sim-session/sim-session.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import {
   answering,

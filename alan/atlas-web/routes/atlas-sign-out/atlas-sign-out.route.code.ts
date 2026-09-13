@@ -1,7 +1,7 @@
 import {
   signOutAction,
   signOutLoader,
-} from "akasha/alan/harness/supabase-rr/sign-out-route/sign-out-route.module.code.ts"
+} from "akasha/alan/harness/supabase-rr/modules/sign-out-route/sign-out-route.module.code.ts"
 
 export async function action({ request }: { request: Request }) {
   return signOutAction(request)

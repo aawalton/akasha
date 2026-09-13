@@ -84,7 +84,7 @@ import { CHARACTER_SKILLS_81 } from "akasha/temper/character-skills/modules/char
 import { CHARACTER_SKILLS_82 } from "akasha/temper/character-skills/modules/character-skills-82/character-skills-82.module.code.ts"
 import { CHARACTER_SKILLS_83 } from "akasha/temper/character-skills/modules/character-skills-83/character-skills-83.module.code.ts"
 import { CHARACTER_SKILLS_84 } from "akasha/temper/character-skills/modules/character-skills-84/character-skills-84.module.code.ts"
-import type { SkillLineId } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+import type { SkillLineId } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 import {
   createDataFile,
   type DataFile,

@@ -10,7 +10,7 @@ import {
   FormMessage,
 } from "akasha/design/interfaces/forms/modules/form/form.module.code.tsx"
 import { PanelCard } from "akasha/design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"
-import { SidebarNavGroup } from "akasha/design/interfaces/layout/sidebar-nav-group/sidebar-nav-group.module.code.tsx"
+import { SidebarNavGroup } from "akasha/design/interfaces/layout/modules/sidebar-nav-group/sidebar-nav-group.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { Input } from "akasha/design/interfaces/primitives/modules/input/input.module.code.tsx"

@@ -5,7 +5,7 @@ import type { ScribedSkill } from "akasha/temper/character-skills/modules/scribe
 import { getScribedSkillName } from "akasha/temper/character-skills/modules/scribed-skills/scribed-skills.module.code.ts"
 import { grimoires } from "akasha/temper/character-skills/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
 import { getEsoIconUrl } from "akasha/temper/formula-framework/modules/eso-icon-url/eso-icon-url.module.code.ts"
-import { skillLines } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+import { skillLines } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 import { Plus } from "lucide-react"
 import { useMemo } from "react"
 

@@ -2,7 +2,7 @@ import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/respo
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import type { CharacterSummaryData } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
-import { SkillMorphsProgressPanelCard } from "akasha/temper/player-completion-skills-morphs-ui/skill-morphs-progress-panel-card/skill-morphs-progress-panel-card.module.code.tsx"
+import { SkillMorphsProgressPanelCard } from "akasha/temper/player-completion-skills-morphs-ui/modules/skill-morphs-progress-panel-card/skill-morphs-progress-panel-card.module.code.tsx"
 import type {
   CompletionFilter,
   CompletionSortMode,
@@ -22,7 +22,7 @@ import { PoiProgressPanelCard } from "akasha/temper/web/modules/poi-progress-pan
 import { QuestProgressPanelCard } from "akasha/temper/web/modules/quest-progress-panel-card/quest-progress-panel-card.module.code.tsx"
 import { RecipesProgressPanelCard } from "akasha/temper/web/modules/recipes-progress-panel-card/recipes-progress-panel-card.module.code.tsx"
 import { ScribingKnowledgeProgressPanelCard } from "akasha/temper/web/modules/scribing-knowledge-progress-panel-card/scribing-knowledge-progress-panel-card.module.code.tsx"
-import { SkillLinesProgressPanelCard } from "akasha/temper/web/skill-lines-progress-panel-card/skill-lines-progress-panel-card.module.code.tsx"
+import { SkillLinesProgressPanelCard } from "akasha/temper/web/modules/skill-lines-progress-panel-card/skill-lines-progress-panel-card.module.code.tsx"
 import { SkillPointsProgressPanelCard } from "akasha/temper/web/skill-points-progress-panel-card/skill-points-progress-panel-card.module.code.tsx"
 import { TraitResearchProgressPanelCard } from "akasha/temper/web/trait-research-progress-panel-card/trait-research-progress-panel-card.module.code.tsx"
 import { ZoneCompletionProgressPanelCard } from "akasha/temper/web/zone-completion-progress-panel-card/zone-completion-progress-panel-card.module.code.tsx"

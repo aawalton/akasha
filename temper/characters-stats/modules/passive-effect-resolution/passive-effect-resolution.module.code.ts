@@ -11,7 +11,7 @@ import {
   isSlottedAbilityScalingEffect,
   isWeaponTypeConditionalEffect,
 } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
-import type { SkillLineId } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+import type { SkillLineId } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 
 function resolveEffects<E extends Effect>(
   effects: readonly Effect[],

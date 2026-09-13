@@ -1,4 +1,4 @@
-import type { SkillLineId } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+import type { SkillLineId } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 
 export interface MorphableSkillDetail {
   abilityIndex: number

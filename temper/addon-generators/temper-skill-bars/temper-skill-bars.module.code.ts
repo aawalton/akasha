@@ -1,7 +1,7 @@
 import type { Page } from "akasha/temper/addon-generators/modules/addon-data-page/addon-data-page.module.code.ts"
 import { DO_NOT_EDIT } from "akasha/temper/addon-generators/modules/do-not-edit/do-not-edit.module.code.ts"
 import { ranksOf } from "akasha/temper/addon-generators/modules/rank-by-key/rank-by-key.module.code.ts"
-import { skillBars } from "akasha/temper/skill-kinds/skill-bars/skill-bars.module.code.ts"
+import { skillBars } from "akasha/temper/skill-kinds/modules/skill-bars/skill-bars.module.code.ts"
 import { z } from "zod"
 
 const SKILL_BAR_EAV_SCHEMA = z

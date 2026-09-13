@@ -1,7 +1,7 @@
 import type { CompanionId } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 import type { RaceId } from "akasha/temper/races/modules/races/races.module.code.ts"
-import type { SkillLineId } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+import type { SkillLineId } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 
 export interface CompletionCharacter {
   id: string

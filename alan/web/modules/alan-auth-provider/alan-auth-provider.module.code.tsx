@@ -16,7 +16,7 @@ import { reportPagesStoreStall } from "akasha/pages/ui-store/modules/report-stal
 import {
   configurePagesStoreAuth,
   getPagesStore,
-} from "akasha/pages/ui-store/singleton/singleton.module.code.ts"
+} from "akasha/pages/ui-store/modules/singleton/singleton.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect, useRef, useState } from "react"
 import { useNavigate } from "react-router"

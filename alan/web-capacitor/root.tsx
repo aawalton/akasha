@@ -14,7 +14,7 @@ import { readLocalPosition } from "akasha/alan/web/modules/offline-text/offline-
 import { createNativeFsPagesPersistence } from "akasha/alan/web/modules/pages-persistence-fs/pages-persistence-fs.module.code.ts"
 import { StatusBarSync } from "akasha/alan/web/status-bar-sync/status-bar-sync.module.code.tsx"
 import { PageLayoutSkeleton } from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
-import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/skeleton-presets/skeleton-presets.module.code.ts"
+import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { PagesUICapabilityHosts } from "akasha/pages/ui/capabilities/modules/capability-hosts/capability-hosts.module.code.tsx"
@@ -24,7 +24,7 @@ import {
   configureContentPersistence,
   configurePagesPersistence,
   configurePagesStoreFetch,
-} from "akasha/pages/ui-store/singleton/singleton.module.code.ts"
+} from "akasha/pages/ui-store/modules/singleton/singleton.module.code.ts"
 import { type ReactNode, useEffect } from "react"
 import {
   isRouteErrorResponse,

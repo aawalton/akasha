@@ -8,7 +8,7 @@ import {
   PageTitleBadges,
 } from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
 import { scrollToCard } from "akasha/design/interfaces/layout/modules/scroll-to-card/scroll-to-card.module.code.ts"
-import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/skeleton-presets/skeleton-presets.module.code.ts"
+import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
 import {
   PageTabsTrigger,

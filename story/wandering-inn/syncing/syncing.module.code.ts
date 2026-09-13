@@ -12,7 +12,7 @@ import {
   type ListedChapter,
   openSite,
   type Site,
-} from "akasha/story/wandering-inn/site/site.module.code.ts"
+} from "akasha/story/wandering-inn/modules/site/site.module.code.ts"
 import {
   type RunCounts,
   recordingRun,

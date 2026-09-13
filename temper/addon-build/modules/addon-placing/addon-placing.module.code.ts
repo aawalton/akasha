@@ -16,7 +16,7 @@ import {
 import {
   readSiblingAddonNames,
   siblingDistDir,
-} from "akasha/temper/addons-resolve/sibling-addons/sibling-addons.module.code.ts"
+} from "akasha/temper/addons-resolve/modules/sibling-addons/sibling-addons.module.code.ts"
 import { saidShort } from "akasha/temper/commands/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
 import {
   addonsDir,

@@ -15,7 +15,7 @@ import { listAllAddons } from "akasha/temper/addons-resolve/modules/addon-roster
 import {
   readSiblingAddonNames,
   siblingDistDir,
-} from "akasha/temper/addons-resolve/sibling-addons/sibling-addons.module.code.ts"
+} from "akasha/temper/addons-resolve/modules/sibling-addons/sibling-addons.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 

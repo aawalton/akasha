@@ -13,7 +13,7 @@ import type { CompanionState } from "akasha/temper/companions-core/modules/compa
 import {
   type CompanionSkillLineId,
   companionSkillLines,
-} from "akasha/temper/companions-core/skill-lines-by-companion/skill-lines-by-companion.module.code.ts"
+} from "akasha/temper/companions-core/modules/skill-lines-by-companion/skill-lines-by-companion.module.code.ts"
 import { CompanionSkillCard } from "akasha/temper/web/modules/companion-skill-card/companion-skill-card.module.code.tsx"
 import {
   FilterableSelectDialog,

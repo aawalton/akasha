@@ -18,17 +18,17 @@ import type {
   CharacterZoneCompletionProgress,
   CompletionCharacter,
 } from "akasha/temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
-import { skillLineCategoriesSorted } from "akasha/temper/skill-lines/skill-line-category-data/skill-line-category-data.module.code.ts"
+import { skillLineCategoriesSorted } from "akasha/temper/skill-lines/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
 import {
   getSkillLineIdsForClass,
   type SkillLineId,
   skillLines,
-} from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+} from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 import type { CharacterSkillMorphProgress } from "akasha/temper/skill-morphs/modules/morph-progress-types/morph-progress-types.module.code.ts"
 import {
   buildMorphRankMap,
   getSkillLineMorphContribution,
-} from "akasha/temper/skill-morphs/skill-line-morph-totals/skill-line-morph-totals.module.code.ts"
+} from "akasha/temper/skill-morphs/modules/skill-line-morph-totals/skill-line-morph-totals.module.code.ts"
 import {
   EXCLUDED_CATEGORIES,
   EXCLUDED_SKILL_LINES,

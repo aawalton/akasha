@@ -24,7 +24,7 @@ import {
   type FocusScriptId,
   focusScripts,
 } from "akasha/temper/skill-kinds/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
-import { skillLines } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+import { skillLines } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 import { ArrowLeft } from "lucide-react"
 import { useState } from "react"
 

@@ -10,14 +10,14 @@ import { readLocalPosition } from "akasha/alan/web/modules/offline-text/offline-
 import { createNativeFsPagesPersistence } from "akasha/alan/web/modules/pages-persistence-fs/pages-persistence-fs.module.code.ts"
 import { fontPreloading } from "akasha/code/router-apps/modules/font-preload/font-preload.module.code.ts"
 import { CommandPalette } from "akasha/design/interfaces/primitives/modules/command-palette/command-palette.module.code.tsx"
-import { ShortcutSheet } from "akasha/design/interfaces/primitives/shortcut-sheet/shortcut-sheet.module.code.tsx"
+import { ShortcutSheet } from "akasha/design/interfaces/primitives/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { configureLocalPositionReader } from "akasha/pages/ui/components/modules/local-position-port/local-position-port.module.code.ts"
 import { setStoreDiagnosticsSink } from "akasha/pages/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import {
   configureContentPersistence,
   configurePagesPersistence,
-} from "akasha/pages/ui-store/singleton/singleton.module.code.ts"
+} from "akasha/pages/ui-store/modules/singleton/singleton.module.code.ts"
 import type React from "react"
 import { useEffect } from "react"
 import {

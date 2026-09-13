@@ -11,7 +11,7 @@ import {
 import {
   readSiblingAddonNames,
   siblingDistDir,
-} from "akasha/temper/addons-resolve/sibling-addons/sibling-addons.module.code.ts"
+} from "akasha/temper/addons-resolve/modules/sibling-addons/sibling-addons.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 import { type Zippable, zipSync } from "fflate"
 

@@ -5,7 +5,7 @@ import {
   PageLayout,
   PageTitle,
 } from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
-import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/skeleton-presets/skeleton-presets.module.code.ts"
+import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import { QueryErrorBoundary } from "akasha/design/interfaces/patterns/modules/query-error-boundary/query-error-boundary.module.code.tsx"
 import {
   PageTabsTrigger,

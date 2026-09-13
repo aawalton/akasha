@@ -10,7 +10,7 @@ import {
 import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { getValidSkillIds } from "akasha/temper/companions-core/modules/companion-valid-skills/companion-valid-skills.module.code.ts"
 import type { CompanionWeaponTypeId } from "akasha/temper/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
-import { companionSkillLines } from "akasha/temper/companions-core/skill-lines-by-companion/skill-lines-by-companion.module.code.ts"
+import { companionSkillLines } from "akasha/temper/companions-core/modules/skill-lines-by-companion/skill-lines-by-companion.module.code.ts"
 
 const TAUNT_MAX_COOLDOWN = 16
 const TOP_N_SKILLS = 15

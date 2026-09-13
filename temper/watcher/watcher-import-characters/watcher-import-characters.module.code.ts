@@ -11,7 +11,7 @@ import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/module
 import {
   type SkillLineId,
   skillLines,
-} from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+} from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 import { resolveAccountPageId } from "akasha/temper/watcher/watcher-account-page/watcher-account-page.module.code.ts"
 import {
   type SignedInReader,

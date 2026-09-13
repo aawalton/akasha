@@ -1,5 +1,5 @@
 import { PageLayoutSkeleton } from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
-import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/skeleton-presets/skeleton-presets.module.code.ts"
+import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import { InventoryPageContent } from "akasha/temper/player-inventory-management-ui/modules/inventory-page-content/inventory-page-content.module.code.tsx"
 import { tabDefaultFor } from "akasha/temper/web/tab-defaults/tab-defaults.module.code.ts"
 import { Suspense } from "react"

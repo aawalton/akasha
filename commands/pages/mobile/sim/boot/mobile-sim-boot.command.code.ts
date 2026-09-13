@@ -1,7 +1,7 @@
 import {
   ensureAppium,
   resolveAndBootSim,
-} from "akasha/alan/harness/mobile-cli/sim-macbook/sim-macbook.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/modules/sim-macbook/sim-macbook.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { udid as udidArgument } from "akasha/commands/arguments/pages/udid.argument.ts"
 import {

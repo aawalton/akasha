@@ -3,7 +3,7 @@ import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-c
 import {
   appiumStartedSaid,
   simBootedSaid,
-} from "akasha/alan/harness/mobile-cli/sim-macbook/sim-macbook.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/modules/sim-macbook/sim-macbook.module.code.ts"
 import {
   answering,
   OPERATIONAL,

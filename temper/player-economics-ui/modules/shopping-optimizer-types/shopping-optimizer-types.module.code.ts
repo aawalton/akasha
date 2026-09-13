@@ -1,4 +1,4 @@
-import type { ShoppingSettings } from "akasha/temper/shopping/shopping-settings/shopping-settings.module.code.ts"
+import type { ShoppingSettings } from "akasha/temper/shopping/modules/shopping-settings/shopping-settings.module.code.ts"
 import type {
   PurchaseRecommendation,
   ShoppingPlan,

@@ -1,6 +1,6 @@
 import { PanelCard } from "akasha/design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"
 import { CardHeader } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
-import { Skeleton } from "akasha/design/interfaces/primitives/skeleton/skeleton.module.code.tsx"
+import { Skeleton } from "akasha/design/interfaces/primitives/modules/skeleton/skeleton.module.code.tsx"
 import { AuthPageContent } from "akasha/temper/web/temper-auth-page-content/temper-auth-page-content.module.code.tsx"
 import { Suspense } from "react"
 import { useSearchParams } from "react-router"

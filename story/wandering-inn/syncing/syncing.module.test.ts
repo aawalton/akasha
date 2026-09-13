@@ -26,7 +26,7 @@ mock.module(
   })
 )
 
-mock.module("akasha/story/wandering-inn/site/site.module.code.ts", () => ({
+mock.module("akasha/story/wandering-inn/modules/site/site.module.code.ts", () => ({
   openSite: () =>
     Promise.resolve({
       readContents: () => Promise.resolve([{ position: 834, title: "9.99", url: FRESH_URL }]),

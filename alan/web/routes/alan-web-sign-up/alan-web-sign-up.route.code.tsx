@@ -1,4 +1,4 @@
-import { signUpLoader } from "akasha/alan/harness/supabase-rr/sign-up-route/sign-up-route.module.code.ts"
+import { signUpLoader } from "akasha/alan/harness/supabase-rr/modules/sign-up-route/sign-up-route.module.code.ts"
 
 export function loader() {
   return signUpLoader()

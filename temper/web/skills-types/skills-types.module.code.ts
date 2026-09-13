@@ -4,7 +4,7 @@ import type { ScribedSkill } from "akasha/temper/character-skills/modules/scribe
 import type { AffixScriptId } from "akasha/temper/skill-kinds/modules/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
 import type { FocusScriptId } from "akasha/temper/skill-kinds/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
 import type { SignatureScriptId } from "akasha/temper/skill-kinds/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
-import type { SkillLineCategoryId } from "akasha/temper/skill-lines/skill-line-category-data/skill-line-category-data.module.code.ts"
+import type { SkillLineCategoryId } from "akasha/temper/skill-lines/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
 
 export type BarType = "primary" | "backup"
 

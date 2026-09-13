@@ -5,7 +5,7 @@ import { emitStoreDiagnostic } from "akasha/pages/ui-store/modules/diagnostics/d
 import {
   awaitPagesStoreReady,
   getPagesStore,
-} from "akasha/pages/ui-store/singleton/singleton.module.code.ts"
+} from "akasha/pages/ui-store/modules/singleton/singleton.module.code.ts"
 import { useEffect, useRef, useState } from "react"
 
 const CORE_DEFINITION_SLUGS = ["page-type", "page-property-definition"] as const

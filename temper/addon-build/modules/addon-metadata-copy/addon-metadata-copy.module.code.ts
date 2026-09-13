@@ -20,7 +20,7 @@ import {
   siblingDistDir,
   siblingManifestsIn,
   siblingSourceDir,
-} from "akasha/temper/addons-resolve/sibling-addons/sibling-addons.module.code.ts"
+} from "akasha/temper/addons-resolve/modules/sibling-addons/sibling-addons.module.code.ts"
 
 const RUNTIME_TOKEN = /\$\([^)]*\)/
 

@@ -6,7 +6,7 @@ import type {
 import { resolveGenericCheckerProgress } from "akasha/temper/player-completion/modules/completion-generic-checker-progress/completion-generic-checker-progress.module.code.ts"
 import { SKILL_POINT_GENERAL_SOURCES } from "akasha/temper/player-completion/skill-point-general-sources/skill-point-general-sources.module.code.ts"
 import { SKILL_POINT_GROUP_DUNGEON_SOURCES } from "akasha/temper/player-completion/skill-point-group-dungeons/skill-point-group-dungeons.module.code.ts"
-import { skillLines } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+import { skillLines } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 
 function mkSP(overrides: Partial<SkillPointProgress> = {}): SkillPointProgress {
   return {

@@ -25,7 +25,7 @@ import "akasha/temper/game-catalog-capture-addon/modules/inventory-constants-cat
 import "akasha/temper/game-catalog-capture-addon/modules/furniture-catalog-capture/furniture-catalog-capture.module.code.ts"
 import "akasha/temper/game-catalog-capture-addon/modules/class-catalog-capture/class-catalog-capture.module.code.ts"
 import "akasha/temper/game-catalog-capture-addon/modules/companion-skill-catalog-capture/companion-skill-catalog-capture.module.code.ts"
-import "akasha/temper/game-catalog-capture-addon/skill-catalog-capture/skill-catalog-capture.module.code.ts"
+import "akasha/temper/game-catalog-capture-addon/modules/skill-catalog-capture/skill-catalog-capture.module.code.ts"
 import { registerApiTestCommand } from "akasha/temper/catalog-addon/modules/catalog-api-test/catalog-api-test.module.code.ts"
 import { autoCollect } from "akasha/temper/catalog-addon/modules/catalog-auto-collect/catalog-auto-collect.module.code.ts"
 import {

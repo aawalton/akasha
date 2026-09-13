@@ -12,14 +12,14 @@ import type { AnyCompletionCardId } from "akasha/temper/player-completion/module
 import { resolveGenericCheckerProgress } from "akasha/temper/player-completion/modules/completion-generic-checker-progress/completion-generic-checker-progress.module.code.ts"
 import type { ItemPath } from "akasha/temper/player-completion/modules/completion-item-picker/completion-item-picker.module.code.ts"
 import { isCharacterMeasured } from "akasha/temper/player-completion/modules/completion-measured/completion-measured.module.code.ts"
-import { skillLines } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+import { skillLines } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 import {
   ESO_CLASS_ID_TO_CLASS_ID,
   ESO_RACE_ID_TO_RACE_ID,
   getApplicableSkillLineIds,
 } from "akasha/temper/skill-morphs-access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
 import type { MorphCharacterRow } from "akasha/temper/skill-morphs-access/modules/morph-completion-shapes/morph-completion-shapes.module.code.ts"
-import { resolveSkillMorphs } from "akasha/temper/skill-morphs-access/skill-morphs-resolver/skill-morphs-resolver.module.code.ts"
+import { resolveSkillMorphs } from "akasha/temper/skill-morphs-access/modules/skill-morphs-resolver/skill-morphs-resolver.module.code.ts"
 
 const RAPPORT_COMPANION_IDS: readonly number[] = companions.list
   .filter((companion) => companion.esoCompanionId !== 0)

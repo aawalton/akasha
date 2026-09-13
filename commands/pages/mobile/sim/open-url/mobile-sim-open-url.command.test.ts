@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   appiumStartedSaid,
   simBootedSaid,
-} from "akasha/alan/harness/mobile-cli/sim-macbook/sim-macbook.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/modules/sim-macbook/sim-macbook.module.code.ts"
 import {
   OPERATIONAL,
   partWay,
