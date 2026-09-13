@@ -45,12 +45,18 @@ export const THREE = "01a08071-39a4-7000-9c6b-6cee59d30b30"
 
 export const DAY_BACK: Chosen = { by: "period", ms: DAY, said: "24h" }
 
+export const LAST_RUN: Chosen = { by: "runs", runs: 1 }
+
 export const TORN_SAID = "these held a row that would not read, and that row counts no run:"
 
 export const scratch = scratchWorld()
 
 export function agoOf(ms: number): string {
   return new Date(NOW - ms).toISOString()
+}
+
+export function sinceNow(ms: number): string {
+  return new Date(Date.now() - ms).toISOString()
 }
 
 export function lineOf(one: Record<string, unknown>): string {

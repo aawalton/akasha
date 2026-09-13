@@ -7,7 +7,6 @@ import {
   latestOf,
   linesOf,
   meanOf,
-  ONE_RUN,
   rankedOf,
   ruledIn,
   runsIn,
@@ -26,6 +25,7 @@ import {
   DAY_BACK,
   ENTRIES,
   HOUR,
+  LAST_RUN,
   lineOf,
   NOW,
   ONE,
@@ -135,8 +135,8 @@ test("a check holding no run the choice reached is not answered", () => {
   expect(costsIn(root, NOW, DAY_BACK).checks.map((one) => one.check)).toEqual(["fresh"])
 })
 
-test("a call handing over no argument reads the last one run", () => {
-  expect(windowOf(undefined)).toEqual({ chosen: ONE_RUN, refusals: [] })
+test("a call handing over no argument reads the past twenty-four hours", () => {
+  expect(windowOf(undefined)).toEqual({ chosen: DAY_BACK, refusals: [] })
 })
 
 test("a count names how many of the newest runs are read", () => {
@@ -182,7 +182,7 @@ test("a record carrying no run id is counted nowhere where runs were counted", (
       { phase: "change", cpuSeconds: 100, runId: null },
     ],
   })
-  const costs = costsIn(root, NOW, ONE_RUN)
+  const costs = costsIn(root, NOW, LAST_RUN)
 
   expect(costs.checks[0]?.runs).toBe(1)
   expect(costs.checks[0]?.cpu).toBe(2)
@@ -210,7 +210,7 @@ test("only the runs chosen are counted where a count was named", () => {
     ],
   })
 
-  expect(costsIn(root, NOW, ONE_RUN).checks[0]?.cpu).toBe(2)
+  expect(costsIn(root, NOW, LAST_RUN).checks[0]?.cpu).toBe(2)
   expect(costsIn(root, NOW, { by: "runs", runs: 2 }).checks[0]?.runs).toBe(2)
   expect(costsIn(root, NOW, { by: "runs", runs: 9 }).checks[0]?.runs).toBe(3)
 })
@@ -221,7 +221,7 @@ test("one run's runs are the runs of every check that run judged", () => {
     two: [{ phase: "change", cpuSeconds: 3, runId: TWO, ranAt: agoOf(HOUR) }],
     three: [{ phase: "change", cpuSeconds: 90, runId: ONE, ranAt: agoOf(9 * HOUR) }],
   })
-  const costs = costsIn(root, NOW, ONE_RUN)
+  const costs = costsIn(root, NOW, LAST_RUN)
 
   expect(costs.checks.map((one) => one.check)).toEqual(["two", "one"])
   expect(costs.total).toEqual({ runs: 1, cpu: 5, paths: 1, refusals: 0 })
@@ -430,7 +430,7 @@ test("a count of bytes is rounded to the whole byte before it is scaled", () => 
 test("a root holding no checks answers no check rather than throwing", () => {
   const root = rowsInto(scratch.rootFor("check-measuring-empty-"), {})
 
-  expect(costsIn(root, NOW, ONE_RUN)).toEqual({
+  expect(costsIn(root, NOW, LAST_RUN)).toEqual({
     checks: [],
     total: { runs: 0, cpu: null, paths: 0, refusals: 0 },
     unread: [],

@@ -1,4 +1,16 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import {
+  AUDIT_LOGS,
+  DAY,
+  HOUR,
+  ONE,
+  rootWith,
+  rowsBeside,
+  scratch,
+  sinceNow,
+  THREE,
+  TWO,
+} from "akasha/checks/modules/measuring/check-measuring.module.test-fixtures.ts"
 import { saidForPart } from "akasha/commands/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
 import { runWindow } from "akasha/commands/arguments/pages/run-window.argument.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -15,6 +27,8 @@ const GIVEN: Given = { root: REPO, calledAs: CALLED_AS, from: REPO, writer: null
 const ONLY = saidForPart([runWindow], page.arguments[0]?.argument ?? "")
 
 const NO_WINDOW = "5y"
+
+afterAll(scratch.sweep)
 
 const auditRefusing = (argv: readonly string[]): readonly string[] => {
   const answer = measureAudit(argv, GIVEN)
@@ -74,4 +88,22 @@ test("the refusal over such a window says both shapes the window is written in",
   const said = auditRefusing([ONLY, NO_WINDOW])[0] ?? ""
   expect(said).toContain(`${ONLY} <count>`)
   expect(said).toContain("m|h|d")
+})
+
+test("a call naming no window reads the audit runs of the past twenty-four hours", () => {
+  const root = rootWith({ fresh: [], older: [], stale: [] })
+  rowsBeside(
+    root,
+    {
+      fresh: [{ phase: "audit", cpuSeconds: 1, runId: ONE, ranAt: sinceNow(HOUR) }],
+      older: [{ phase: "audit", cpuSeconds: 2, runId: TWO, ranAt: sinceNow(2 * HOUR) }],
+      stale: [{ phase: "audit", cpuSeconds: 3, runId: THREE, ranAt: sinceNow(DAY + HOUR) }],
+    },
+    AUDIT_LOGS
+  )
+  const said = measureAudit([], { ...GIVEN, root }).report.join("\n")
+
+  expect(said).toContain("fresh")
+  expect(said).toContain("older")
+  expect(said).not.toContain("stale")
 })

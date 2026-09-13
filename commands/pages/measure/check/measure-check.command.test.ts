@@ -1,4 +1,14 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import {
+  DAY,
+  HOUR,
+  ONE,
+  rootWith,
+  scratch,
+  sinceNow,
+  THREE,
+  TWO,
+} from "akasha/checks/modules/measuring/check-measuring.module.test-fixtures.ts"
 import { saidForPart } from "akasha/commands/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
 import { runWindow } from "akasha/commands/arguments/pages/run-window.argument.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -17,6 +27,8 @@ const OVER = saidForPart([runWindow], page.arguments[0]?.argument ?? "")
 const NO_UNIT = "5x"
 
 const BELOW_NOUGHT = "-3"
+
+afterAll(scratch.sweep)
 
 const checkRefusing = (argv: readonly string[]): readonly string[] => {
   const answer = measureCheck(argv, GIVEN)
@@ -72,4 +84,17 @@ test("the refusal over a window says both shapes a window is written in", () => 
   expect(said).toContain(`${OVER} <count>`)
   expect(said).toContain("names runs")
   expect(said).toContain("names a period")
+})
+
+test("a call naming no window reads the check runs of the past twenty-four hours", () => {
+  const root = rootWith({
+    fresh: [{ phase: "change", cpuSeconds: 1, runId: ONE, ranAt: sinceNow(HOUR) }],
+    older: [{ phase: "change", cpuSeconds: 2, runId: TWO, ranAt: sinceNow(2 * HOUR) }],
+    stale: [{ phase: "change", cpuSeconds: 3, runId: THREE, ranAt: sinceNow(DAY + HOUR) }],
+  })
+  const said = measureCheck([], { ...GIVEN, root }).report.join("\n")
+
+  expect(said).toContain("fresh")
+  expect(said).toContain("older")
+  expect(said).not.toContain("stale")
 })

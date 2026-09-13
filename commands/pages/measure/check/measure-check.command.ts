@@ -10,7 +10,7 @@ export const measureCheck = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A call naming no argument reads the last one check run.",
+      statement: "A call naming no argument reads the check runs of the past twenty-four hours.",
     },
     {
       invariantKind: "departure",

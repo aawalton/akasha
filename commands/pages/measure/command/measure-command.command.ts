@@ -11,7 +11,7 @@ export const measureCommand = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A call naming no argument reads the last one run.",
+      statement: "A call naming no argument reads the runs of the past twenty-four hours.",
     },
     {
       invariantKind: "departure",

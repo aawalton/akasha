@@ -1,10 +1,23 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import {
+  DAY,
+  HOUR,
+  sinceNow,
+} from "akasha/checks/modules/measuring/check-measuring.module.test-fixtures.ts"
 import { saidForPart } from "akasha/commands/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
 import { runWindow } from "akasha/commands/arguments/pages/run-window.argument.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { measureChange } from "akasha/commands/pages/measure/change/measure-change.command.code.ts"
 import { measureChange as page } from "akasha/commands/pages/measure/change/measure-change.command.ts"
+import {
+  CHANGE_AT,
+  ONE,
+  rowsInto,
+  THREE,
+  TWO,
+} from "akasha/commands/pages/measure/change/modules/change-measuring/change-measuring.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const CALLED_AS = "akasha measure change"
 
@@ -15,6 +28,10 @@ const GIVEN: Given = { root: REPO, calledAs: CALLED_AS, from: REPO, writer: null
 const CHOSEN = saidForPart([runWindow], page.arguments[0]?.argument ?? "")
 
 const NEITHER = "5y"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
 
 const changeRefusing = (argv: readonly string[]): readonly string[] => {
   const answer = measureChange(argv, GIVEN)
@@ -63,4 +80,17 @@ test("a window that is neither a count of runs nor a period is refused once it i
   expect(said.length).toBe(1)
   expect(said[0]).toContain(NEITHER)
   expect(said[0]).toContain(`${CHOSEN} <count>`)
+})
+
+test("a call naming no window reads the runs of the past twenty-four hours", () => {
+  const root = rowsInto(scratch.rootFor("measure-change-"), CHANGE_AT, [
+    { runId: ONE, ran: "change-file", ranAt: sinceNow(HOUR) },
+    { runId: TWO, ran: "add-file", ranAt: sinceNow(2 * HOUR) },
+    { runId: THREE, ran: "move-file", ranAt: sinceNow(DAY + HOUR) },
+  ])
+  const said = measureChange([], { ...GIVEN, root }).report.join("\n")
+
+  expect(said).toContain("change-file")
+  expect(said).toContain("add-file")
+  expect(said).not.toContain("move-file")
 })

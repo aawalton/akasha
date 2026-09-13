@@ -1,10 +1,23 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import {
+  DAY,
+  HOUR,
+  sinceNow,
+} from "akasha/checks/modules/measuring/check-measuring.module.test-fixtures.ts"
 import { saidForPart } from "akasha/commands/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
 import { runWindow } from "akasha/commands/arguments/pages/run-window.argument.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { measureCommand } from "akasha/commands/pages/measure/command/measure-command.command.code.ts"
 import { measureCommand as page } from "akasha/commands/pages/measure/command/measure-command.command.ts"
+import {
+  ONE,
+  pageAt,
+  rowsInto,
+  THREE,
+  TWO,
+} from "akasha/commands/pages/measure/command/modules/command-measuring/command-measuring.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const CALLED_AS = "akasha measure command"
 
@@ -15,6 +28,10 @@ const GIVEN: Given = { root: REPO, calledAs: CALLED_AS, from: REPO, writer: null
 const READS = saidForPart([runWindow], page.arguments[0]?.argument ?? "")
 
 const NOT_A_WINDOW = "5y"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
 
 const commandRefusing = (argv: readonly string[]): readonly string[] => {
   const answer = measureCommand(argv, GIVEN)
@@ -67,4 +84,17 @@ test("the window said twice is refused, and one call says it once", () => {
 
 test("the window joined to an empty value is refused rather than read as nothing", () => {
   expect(commandRefusing([`${READS}=`])[0]).toContain(`${READS}=`)
+})
+
+test("a call naming no window reads the runs of the past twenty-four hours", () => {
+  const root = rowsInto(scratch.rootFor("measure-command-"), pageAt("commands/pages", "index"), [
+    { runId: ONE, ran: "index", ranAt: sinceNow(HOUR) },
+    { runId: TWO, ran: "read", ranAt: sinceNow(2 * HOUR) },
+    { runId: THREE, ran: "deploy", ranAt: sinceNow(DAY + HOUR) },
+  ])
+  const said = measureCommand([], { ...GIVEN, root }).report.join("\n")
+
+  expect(said).toContain("index")
+  expect(said).toContain("read")
+  expect(said).not.toContain("deploy")
 })

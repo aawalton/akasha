@@ -73,7 +73,12 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller naming no choice reads the last one run.",
+      statement: "A caller naming no choice reads the past twenty-four hours.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A record here is swept twenty-four hours after it ran, and a longer window reads no more.",
     },
     {
       invariantKind: "departure",

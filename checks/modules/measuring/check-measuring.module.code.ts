@@ -24,6 +24,8 @@ const TOTAL = "total"
 
 const LAST = "--last"
 
+const NONE_SAID = "24h"
+
 const COUNTED = /^\d+$/
 
 const PERIODED = /^(\d+)([mhd])$/
@@ -104,8 +106,6 @@ export interface Costs {
   readonly torn: readonly string[]
 }
 
-export const ONE_RUN: Chosen = { by: "runs", runs: 1 }
-
 export function meanOf(found: readonly number[]): number | null {
   if (found.length === 0) return null
   return found.reduce((total, one) => total + one, 0) / found.length
@@ -179,7 +179,7 @@ function periodIn(said: string): Chose {
 }
 
 export function windowOf(said: string | undefined): Chose {
-  if (said === undefined) return { chosen: ONE_RUN, refusals: [] }
+  if (said === undefined) return periodIn(NONE_SAID)
   if (!COUNTED.test(said)) return periodIn(said)
   const runs = Number(said)
   if (runs === 0) return refusing(`\`${LAST} ${said}\` names no run`)
