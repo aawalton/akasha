@@ -1,6 +1,8 @@
 import { closeSync, existsSync, mkdirSync, openSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { dropReadings } from "akasha/agents/modules/read-record/read-record.module.code.ts"
+import { akashaHolderPidOf } from "akasha/agents/seats/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { transcriptOf } from "akasha/agents/seats/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
 import { supervisorsRootDir } from "akasha/agents/seats/supervisors/supervisor-log/modules/path/supervisor-log-path.module.code.ts"
 import { bodyOf } from "akasha/agents/subagents/modules/body/subagent-body.module.code.ts"
 import {
@@ -11,6 +13,7 @@ import {
   type Reading,
   readOf,
 } from "akasha/agents/subagents/modules/liveness/subagent-liveness.module.code.ts"
+import { clientStartedAt } from "akasha/agents/subagents/modules/outliving/subagent-outliving.module.code.ts"
 import { subagentPageInHistory } from "akasha/agents/subagents/modules/page-history/subagent-page-history.module.code.ts"
 import {
   agentIdOf,
@@ -19,6 +22,7 @@ import {
   slugOf,
 } from "akasha/agents/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
 import {
+  droppedOutlived,
   gaveBack,
   movedOnto,
 } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
@@ -114,6 +118,15 @@ function wentBy(landed: Awaited<ReturnType<Landing>>, done: readonly string[] = 
   return { why: [wrong.join(" ").trim(), ...partWay(done)].join(" ") }
 }
 
+function prunedFor(root: string, seatPage: string, seatId: string): undefined {
+  try {
+    const pid = akashaHolderPidOf(seatId)
+    const named = transcriptOf(seatId)?.value ?? null
+    droppedOutlived(root, seatPage, seatId, pid === null ? null : clientStartedAt(pid), named)
+  } catch {}
+  return undefined
+}
+
 export async function wrote(
   root: string,
   seatName: string,
@@ -159,9 +172,12 @@ export async function wrote(
     ),
     done
   )
-  if (had !== null && !("why" in put)) {
+  if (!("why" in put)) {
     const seat = seatPageIn(root, seatName)
-    if (seat !== null) gaveBack(root, seat, at, agentId)
+    if (seat !== null) {
+      if (had !== null) gaveBack(root, seat, at, agentId)
+      prunedFor(root, seat, seatId)
+    }
   }
   return put
 }

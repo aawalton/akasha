@@ -3,6 +3,7 @@ import { dirname, join } from "node:path"
 import {
   readingsDropped,
   readsBesideAt,
+  SUBAGENT_MARK,
 } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import {
   refusalsAt,
@@ -11,6 +12,10 @@ import {
 import { subagentEdits } from "akasha/agents/seats/properties/subagent-edits.file-property.ts"
 import { subagentReads } from "akasha/agents/seats/properties/subagent-reads.file-property.ts"
 import { subagentRefusals } from "akasha/agents/seats/properties/subagent-refusals.file-property.ts"
+import {
+  outlivedAmong,
+  subagentsDirOf,
+} from "akasha/agents/subagents/modules/outliving/subagent-outliving.module.code.ts"
 import {
   droppedAll,
   linesIn,
@@ -243,6 +248,42 @@ export function droppedFor(root: string, seatPage: string, agentIds: readonly st
     readingsLeft(root, seatPage, from, said.left.join(""))
     return said.taken.length
   })
+}
+
+export function keptForIn(root: string, seatPage: string): readonly string[] {
+  const from = seatReadsAt(seatPage)
+  if (from === null) return []
+  const held = textAt(root, from)
+  if (held === null) return []
+  const found = new Set<string>()
+  for (const line of held.split("\n").filter((one) => one.trim() !== "")) {
+    const by = readByIn(line)
+    if (by !== null) found.add(by)
+  }
+  return [...found]
+}
+
+export function droppedOutlived(
+  root: string,
+  seatPage: string,
+  seatId: string,
+  startedAt: number | null,
+  transcriptPath: string | null
+): number {
+  if (startedAt === null || transcriptPath === null || transcriptPath === "") return 0
+  const mark = `${seatId}${SUBAGENT_MARK}`
+  const owns: string[] = []
+  for (const one of keptForIn(root, seatPage)) {
+    if (one.startsWith(mark)) owns.push(one.slice(mark.length))
+  }
+  if (owns.length === 0) return 0
+  const gone = outlivedAmong(owns, subagentsDirOf(transcriptPath), startedAt)
+  if (gone.size === 0) return 0
+  return droppedFor(
+    root,
+    seatPage,
+    [...gone].map((own) => `${mark}${own}`)
+  )
 }
 
 export function carriedOff(root: string, at: string, value: Value): Moved | null {

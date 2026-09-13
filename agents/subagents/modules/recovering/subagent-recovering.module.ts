@@ -8,6 +8,7 @@ export const subagentRecovering = {
     "what a subagent left beside its page, moved between that page and the seat that dispatched it",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -113,6 +114,30 @@ export const subagentRecovering = {
     {
       invariantKind: "absence",
       statement: "Nothing here weighs whether an agent handed in as gone could return.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which agents a seat keeps readings for is answered off the seat's own file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading goes where its agent's last record predates the client handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That agent's last record is read where the module for outliving reads it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The client's start and the transcript are handed in rather than reached for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading kept under a seat id other than the one handed in is left alone.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No reading goes for how long its agent has been quiet.",
     },
     {
       invariantKind: "departure",

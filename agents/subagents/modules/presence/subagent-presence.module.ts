@@ -60,6 +60,35 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
+      statement: "A put-up drops the readings its seat keeps for subagents that cannot resume.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent cannot resume where its last record predates the client running.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The client weighed is the one holding the seat rather than the one that opened it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page taking its readings back is served before that drop runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat with no transcript or no holding process drops nothing.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A drop that throws never refuses the put-up it ran under.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A put-up that refused drops nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The commit says whether the page was taken up or composed.",
     },
     {

@@ -1,6 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
 import { readsBesideAt } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import {
   refusalsAt,
@@ -10,8 +8,10 @@ import {
   CARRIED_AT,
   carriedOff,
   droppedFor,
+  droppedOutlived,
   editsSaid,
   gaveBack,
+  keptForIn,
   LEFT_BY,
   movedOnto,
   namedAt,
@@ -22,7 +22,25 @@ import {
   seatReadsAt,
   seatRefusalsAt,
 } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  AGENT_ID,
+  AGENT_ID_TOO,
+  bodyAt,
+  folderFor,
+  keptForOne,
+  keptIn,
+  OTHER,
+  READING,
+  READING_TOO,
+  ROW,
+  readingsKept,
+  readingsPut,
+  recordedAt,
+  SEAT,
+  SEAT_ID,
+  subagentPaged,
+  UNDER,
+} from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.test-fixtures.ts"
 import {
   appendEdits,
   linesIn,
@@ -30,65 +48,6 @@ import {
 import { scratch } from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
-
-const SEAT = "agents/seats/pages/tester/tester.seat.ts"
-
-const UNDER = "agents/subagents/pages/tester-abc/tester-abc.subagent.ts"
-
-const ROW: FileChange = { kind: "remove", path: "one.md" }
-
-const OTHER: FileChange = { kind: "remove", path: "two.md" }
-
-const AGENT_ID = "01a09573-2604-7000-98dd-c04bec8e0696--abc"
-
-const AGENT_ID_TOO = "01a09573-2604-7000-98dd-c04bec8e0696--def"
-
-const READING = JSON.stringify({ path: "one.md", oid: "aaa", seenAt: 1, carriedOid: null })
-
-const READING_TOO = JSON.stringify({ path: "two.md", oid: "bbb", seenAt: 2, carriedOid: null })
-
-function bodyAt(root: string, at: string | null): string {
-  if (at === null) return ""
-  try {
-    return readFileSync(join(root, at), "utf8")
-  } catch {
-    return ""
-  }
-}
-
-function folderFor(root: string, page: string): undefined {
-  mkdirSync(dirname(join(root, page)), { recursive: true })
-  return undefined
-}
-
-function keptIn(root: string): readonly Record<string, string>[] {
-  return bodyAt(root, seatEditsAt(SEAT))
-    .split("\n")
-    .filter((one) => one !== "")
-    .map((one) => JSON.parse(one) as Record<string, string>)
-}
-
-function readingsKept(root: string): readonly Record<string, string>[] {
-  return bodyAt(root, seatReadsAt(SEAT))
-    .split("\n")
-    .filter((one) => one !== "")
-    .map((one) => JSON.parse(one) as Record<string, string>)
-}
-
-function subagentPaged(root: string, page: string, agentId: string | null): undefined {
-  folderFor(root, page)
-  const said = agentId === null ? "" : `, agentId: "${agentId}"`
-  writeFileSync(join(root, page), `export const page = { type: "subagent"${said} }\n`)
-  return undefined
-}
-
-function readingsPut(root: string, page: string, lines: readonly string[]): undefined {
-  const at = readsBesideAt(page)
-  if (at === null) return undefined
-  folderFor(root, page)
-  writeFileSync(join(root, at), lines.map((one) => `${one}\n`).join(""))
-  return undefined
-}
 
 test("the edits a subagent never landed are appended to the seat", () => {
   const root = scratch.rootFor("subagent-recovering-")
@@ -374,4 +333,59 @@ test("a seat keeping nothing drops nothing", () => {
 
   expect(droppedFor(root, SEAT, [AGENT_ID])).toBe(0)
   expect(droppedFor(root, "notes.md", [AGENT_ID])).toBe(0)
+})
+
+test("the agent ids a seat keeps readings for are answered off its own file", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  keptForOne(root)
+
+  expect(keptForIn(root, SEAT)).toEqual([AGENT_ID])
+  expect(keptForIn(root, "notes.md")).toEqual([])
+})
+
+test("a reading goes where its agent's last record predates the client handed in", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  keptForOne(root)
+  const tx = recordedAt(root, "abc", 1)
+
+  expect(droppedOutlived(root, SEAT, SEAT_ID, 2000, tx)).toBe(1)
+  expect(bodyAt(root, seatReadsAt(SEAT))).toBe("")
+})
+
+test("a reading whose agent's record came after that client is left where it is", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  keptForOne(root)
+  const tx = recordedAt(root, "abc", 5)
+
+  expect(droppedOutlived(root, SEAT, SEAT_ID, 2000, tx)).toBe(0)
+  expect(keptForIn(root, SEAT)).toEqual([AGENT_ID])
+})
+
+test("a reading whose agent has no record at all is left where it is", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  keptForOne(root)
+  const tx = recordedAt(root, "other", 1)
+
+  expect(droppedOutlived(root, SEAT, SEAT_ID, 2000, tx)).toBe(0)
+  expect(keptForIn(root, SEAT)).toEqual([AGENT_ID])
+})
+
+test("a client start or transcript that is not known drops nothing", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  keptForOne(root)
+  const tx = recordedAt(root, "abc", 1)
+
+  expect(droppedOutlived(root, SEAT, SEAT_ID, null, tx)).toBe(0)
+  expect(droppedOutlived(root, SEAT, SEAT_ID, 2000, null)).toBe(0)
+  expect(droppedOutlived(root, SEAT, SEAT_ID, 2000, "")).toBe(0)
+  expect(keptForIn(root, SEAT)).toEqual([AGENT_ID])
+})
+
+test("a reading kept under another seat id is left where it is", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  keptForOne(root)
+  const tx = recordedAt(root, "abc", 1)
+
+  expect(droppedOutlived(root, SEAT, "01a09573-2604-7000-98dd-000000000000", 2000, tx)).toBe(0)
+  expect(keptForIn(root, SEAT)).toEqual([AGENT_ID])
 })

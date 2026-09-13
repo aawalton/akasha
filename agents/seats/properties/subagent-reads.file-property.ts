@@ -44,7 +44,15 @@ export const subagentReads = {
     },
     {
       invariantKind: "departure",
-      statement: "A line neither given back nor swept goes with the seat's own page.",
+      statement: "A line goes where its subagent's last record predates the client the seat runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line going back to its own page beats a line going for being that old.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line neither given back, swept, nor outlived goes with the seat's own page.",
     },
     {
       invariantKind: "departure",
