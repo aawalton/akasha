@@ -8,19 +8,14 @@ export const astraIndexCleanup = {
   persona: "astra",
   intents: [
     {
-      statement: "Every worktree has its own identity index and relation index.",
-      workingMemory:
-        "`.indexes` under each checkout landed in 2e262f8, so a worktree reads the index of the pages that worktree holds. `pinnedTree` builds one as it pins a tree, and refuses a tree whose index will not build. Three trees — container-recipe, service-cluster, service-inference — are still pinned at commits reading `.git/indexes`, and get their own on the next deploy. `akasha git sweep` takes `.git/indexes` once they have.",
-    },
-    {
       statement: "Git tracks the identity index and the relation index.",
       workingMemory:
-        "A change queues its identity and relation entries among its file changes, and the landing lock applies them like any other. `Shadow.filed()` already answers those entries, keyed by path under `.indexes`. `heldBack` splits a landing's edits by `git check-ignore`, so an entry stays out of the commit until `.gitignore` stops naming it. Measured on 251,831 files: +7.0 MiB packed, `git status` 0.45 s to 1.10 s, full checkout 7.8 s to 19.2 s.",
+        "A change queues its identity and relation entries among its file changes and the landing lock applies them like any other, which `11673dbbb` and `3d38574db` both show carrying their own rows. `.gitignore` names the six untracked trees rather than `.indexes/`, and the two tracked ones say `tracked: true`. What is left is `git add .indexes/identity .indexes/relation`, which is Alan's: `block-git-writes` refuses it, and an apply would pay one `hash-object` per body across 251,445 files.\n",
     },
     {
       statement: "A change lands the index entries its own file changes imply, and no others.",
       workingMemory:
-        "Both ways: an entry the files do not imply, and an entry the files imply that the change leaves out. The cost is the change's size rather than the repository's, since entries are derived one page at a time already. The hazard is relation: it derives through the type system, so a change to a page type implies entries for every page of that type, far outside the files that change carries, and those are the ones left out.",
+        "`index-answers-are-level-with-the-change` landed at `3d38574db` and judges at no phase, so the rule is stated and binds nobody until Alan turns it on. It reads both ways off `shadow.filed()` against `change.carried`, so nothing is built again. The hazard it does not reach is the one relation carries: a change to a page type turns answers for every page of that type, far outside the files that change has, and those are left out.\n",
     },
     { statement: "Alan holds the value index's structure correct." },
     { statement: "Alan holds the path index's structure correct." },
@@ -37,6 +32,5 @@ export const astraIndexCleanup = {
       workingMemory:
         "What is left is `reads/path` and `sops`, both live and together 83 MB. `reads` is what an agent has read, which belongs beside the seat rather than in a store of its own; `sops` holds the age key the secrets are read with.",
     },
-    { statement: "`.git/harness-push` is gone." },
   ],
 } as const satisfies Initiative
