@@ -106,6 +106,10 @@ export const deployLooping = {
     },
     {
       invariantKind: "departure",
+      statement: "Every kind a deploy puts up has a workstation service ticking it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run handed no kind a deploy puts up is refused by naming every kind.",
     },
     {
