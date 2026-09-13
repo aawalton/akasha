@@ -11,7 +11,7 @@ export const rule778017a4 = {
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "furnishings",
-  displayOrder: 36,
+  displayOrder: 37,
   action: "sell",
   active: true,
   updatedAt: "2026-06-02T20:49:29.524Z",
