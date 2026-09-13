@@ -34,8 +34,3 @@ export function formatRelativeTime(input: Date | string | number): string | null
   if (delta < 0 && magnitude !== "0s") return `in ${magnitude}`
   return magnitude
 }
-
-export function needsSecondPrecision(input: Date | string | number): boolean {
-  const then = input instanceof Date ? input.getTime() : new Date(input).getTime()
-  return Date.now() - then < 600_000
-}
