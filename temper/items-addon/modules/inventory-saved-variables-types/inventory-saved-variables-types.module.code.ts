@@ -170,6 +170,7 @@ export interface SavedVariablesData {
   logging?: {
     actionReports: "none" | "minimal" | "verbose"
     perfTracing?: "none" | "minimal"
+    bankProfiler?: "none" | "script"
   }
   safety?: {
     confirmActions: string[]

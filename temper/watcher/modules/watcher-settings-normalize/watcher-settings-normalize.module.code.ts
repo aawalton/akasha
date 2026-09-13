@@ -5,9 +5,12 @@ export type ActionReports = "none" | "minimal" | "verbose"
 
 export type PerfTracing = "none" | "minimal"
 
+export type BankProfiler = "none" | "script"
+
 export interface LoggingSettings {
   actionReports: ActionReports
   perfTracing: PerfTracing
+  bankProfiler?: BankProfiler
 }
 
 export interface SafetySettings {
@@ -23,10 +26,12 @@ export function toLoggingSettings(value: unknown): LoggingSettings {
   const held = asRecord(value)
   if (!held) return { actionReports: "verbose", perfTracing: "none" }
   const named = ACTION_REPORTS.find((one) => one === held.actionReports)
-  return {
+  const settings: LoggingSettings = {
     actionReports: named ?? "verbose",
     perfTracing: held.perfTracing === "minimal" ? "minimal" : "none",
   }
+  if (held.bankProfiler === "script") settings.bankProfiler = "script"
+  return settings
 }
 
 export function toSafetySettings(value: unknown): SafetySettings {

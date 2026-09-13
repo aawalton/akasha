@@ -22,6 +22,14 @@ export const watcherSettingsNormalize = {
     },
     {
       invariantKind: "departure",
+      statement: "The bank script profiler is off unless the game asked for that profiler.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A profiler that is off is left out of the settings rather than written off.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A level the game wrote that is no known level falls back to the default.",
     },
     {

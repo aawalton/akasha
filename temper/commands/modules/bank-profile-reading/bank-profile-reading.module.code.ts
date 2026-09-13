@@ -60,6 +60,7 @@ export async function readBankProfile(inventoryPath: string): Promise<BankProfil
     inventoryPath,
     ACCOUNT_WIDE_SCHEMA,
     (wide) => wide.diagnostics?.lastBankProfile,
-    "no diagnostics.lastBankProfile (interact with a banker, then /reloadui, then re-run)"
+    "no diagnostics.lastBankProfile — the profiler is off unless logging.bankProfiler is " +
+      '"script" (set it, deploy, interact with a banker, then /reloadui, then re-run)'
   )
 }

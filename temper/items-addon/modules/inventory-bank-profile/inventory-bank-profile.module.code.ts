@@ -11,6 +11,7 @@ import type {
   ProfilerRecordKind,
   ResolvedEntry,
 } from "akasha/temper/items-addon/modules/inventory-bank-profile-types/inventory-bank-profile-types.module.code.ts"
+import { getInventoryConfig } from "akasha/temper/items-addon/modules/inventory-config/inventory-config.module.code.ts"
 import { getSavedVariables } from "akasha/temper/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 
 const SCHEMA_VERSION = 1
@@ -23,9 +24,15 @@ let profilerArmed = false
 let bankingBagAtOpen = 0
 let finalizeGeneration = 0
 
+function bankProfilerAsked(): boolean {
+  return getInventoryConfig().logging?.bankProfiler === "script"
+}
+
 export function beginBankProfile(bankingBag: number): undefined {
   if (profileActive && IsScriptProfilerEnabled()) StopScriptProfiler()
   finalizeGeneration += 1
+  profileActive = false
+  if (!bankProfilerAsked()) return
   bankingBagAtOpen = bankingBag
   StartScriptProfiler()
   profilerArmed = IsScriptProfilerEnabled()
