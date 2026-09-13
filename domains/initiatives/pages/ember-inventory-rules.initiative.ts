@@ -15,7 +15,7 @@ export const emberInventoryRules = {
     {
       statement: "A banker stacks what the bags hold that will stack.",
       workingMemory:
-        "StackBag(bagId) is the whole of what the game exposes, and the bank's own Stack All Items keybind is one StackBag per visible tab. d29b73b stacks the backpack and the storage the visit opened, both bank bags where Alan subscribes, the moment the paced chain reports it drained, so no plan is left holding a slot index the stacking could move. Closing the bank early stacks nothing. The switch is the backpack autoStack one, whose label 4a601dd widens. Left: Alan to confirm.",
+        "StackBag(bagId) is the whole of what the game exposes. d29b73b stacks the backpack and the storage the visit opened, both bank bags where Alan subscribes, once the paced chain drains. A bank closed early now stacks too: cleanup leaves no plan holding a slot index, and the backpack is already stacked after every zone load. Whether StackBag reaches a bank bag after close is unproven, so bfcfbfd counts partial stacks either side of each call and a dozen visits settle it.",
     },
     {
       statement:

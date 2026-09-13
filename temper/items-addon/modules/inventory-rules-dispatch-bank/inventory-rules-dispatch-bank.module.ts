@@ -23,7 +23,7 @@ export const inventoryRulesDispatchBank = {
     },
     {
       invariantKind: "departure",
-      statement: "A visit whose bank closed early stacks nothing.",
+      statement: "A visit whose bank closed early stacks the bags it opened all the same.",
     },
     {
       invariantKind: "departure",

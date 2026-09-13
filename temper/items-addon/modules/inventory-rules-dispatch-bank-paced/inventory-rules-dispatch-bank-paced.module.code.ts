@@ -86,10 +86,6 @@ export function startPacedBankChain(
     inFlight = []
     stats.abortedEarly = aborted
     recordPacedDispatch(stats)
-    if (aborted) {
-      recordStacking({ ran: false, skipped: "the bank closed before the batch settled" })
-      return
-    }
     onSettled()
   }
 
