@@ -3,36 +3,9 @@ import {
   splicedIn,
   stating,
 } from "akasha/changes/modules/answer/change-answer.module.code.ts"
-import type { Said, Splice } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import {
-  keyOf,
-  literalIn,
-  valuesIn,
-} from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
+import type { Said } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { keySpotted } from "akasha/changes/modules/page-property-renaming/page-property-renaming.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
-import ts from "typescript"
-
-function spelledAs(name: ts.PropertyName, now: string): string {
-  return ts.isStringLiteral(name) ? JSON.stringify(now) : now
-}
-
-const ALREADY = "already"
-
-function namedIn(
-  held: ts.ObjectLiteralExpression,
-  was: string,
-  now: string
-): ts.PropertyName | null | typeof ALREADY {
-  let found: ts.PropertyName | null = null
-  for (const one of held.properties) {
-    if (!ts.isPropertyAssignment(one)) continue
-    const key = keyOf(one)
-    if (key === now) return ALREADY
-    if (key === was) found = one.name
-  }
-  return found
-}
 
 export function respelled(
   path: string,
@@ -41,19 +14,9 @@ export function respelled(
   now: string,
   within: string | null
 ): Said {
-  const source = parsedAs(path, text)
-  const owner = literalIn(source)
-  if (owner === null) return refusing(`\`${path}\` exports no object`)
-  const holding = within === null ? [owner] : valuesIn(source, within)
-  const spots: Splice[] = []
-  for (const one of holding) {
-    const name = namedIn(one, was, now)
-    if (name === ALREADY) return refusing(`\`${path}\` states \`${now}\` already`)
-    if (name === null) continue
-    spots.push({ from: name.getStart(source), to: name.getEnd(), put: spelledAs(name, now) })
-  }
-  if (spots.length > 0) return stating(splicedIn(path, text, spots))
-  return within === null ? refusing(`\`${path}\` states no \`${was}\``) : stating([])
+  const held = keySpotted(path, text, was, now, within)
+  if ("refused" in held) return refusing(held.refused)
+  return stating(splicedIn(path, text, held.spots))
 }
 
 export type Given = {
