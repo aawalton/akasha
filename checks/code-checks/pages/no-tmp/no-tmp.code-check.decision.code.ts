@@ -1,9 +1,11 @@
+import { dirname, join } from "node:path"
 import { overEachText } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import {
   lineOf,
   literalIn,
   parsedAs,
 } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
+import { pageOf, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import ts from "typescript"
@@ -21,6 +23,8 @@ const TYPE = "type"
 const WAS_TYPE_SLUG = "pageTypeSlug"
 
 const ALLOWS = "allowsTmpPaths"
+
+const TS = ".ts"
 
 function specifierOf(node: ts.ImportDeclaration): string | null {
   const held = node.moduleSpecifier
@@ -89,9 +93,9 @@ function reasonsFor(at: string, text: string): readonly string[] {
 export const reasonsIn = overEachText(reasonsFor)
 
 export function allowedIn(path: string, shadow: Shadow): boolean {
-  const listed = shadow.index.listedByPath(path)[0]
-  if (listed === undefined) return false
-  const page = shadow.pageOf(listed.path)
+  const said = partedIn(path)
+  if (said === null) return false
+  const page = shadow.pageOf(join(dirname(path), `${pageOf(said)}${TS}`))
   if (page === null) return false
   if (page[ALLOWS] === true) return true
   const slug = textAt(page, TYPE) ?? textAt(page, WAS_TYPE_SLUG)
