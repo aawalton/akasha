@@ -1,9 +1,9 @@
 import { seatNameForAgent } from "akasha/agents/seats/observation/modules/presence-read/seat-presence-read.module.code.ts"
-import { akashaSeatRecordOf } from "akasha/agents/seats/page/modules/akasha-read/seat-akasha-read.module.code.ts"
+import { akashaSeatRecordOf } from "akasha/agents/seats/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
 import {
   dropBeside,
   keepBeside,
-} from "akasha/agents/seats/page/modules/beside/seat-beside.module.code.ts"
+} from "akasha/agents/seats/page/modules/seat-beside/seat-beside.module.code.ts"
 
 function whereToWrite(agent: string): string | null {
   return seatNameForAgent(agent)

@@ -5,12 +5,12 @@ import {
   formatSeatProcKey,
   readSeatProcKey,
 } from "akasha/agents/seats/observation/modules/proc-key/seat-proc-key.module.code.ts"
-import { keepBeside } from "akasha/agents/seats/page/modules/beside/seat-beside.module.code.ts"
 import {
   type BeatReport,
   beat,
-} from "akasha/agents/seats/page/modules/page-beat/seat-page-beat.module.code.ts"
-import { nameFromHistory } from "akasha/agents/seats/page/modules/page-history/seat-page-history.module.code.ts"
+} from "akasha/agents/seats/page/modules/beat/seat-page-beat.module.code.ts"
+import { nameFromHistory } from "akasha/agents/seats/page/modules/history/seat-page-history.module.code.ts"
+import { keepBeside } from "akasha/agents/seats/page/modules/seat-beside/seat-beside.module.code.ts"
 import {
   getCurrentAgentIdForSelfHeal,
   getCurrentSessionIdForSelfHeal,

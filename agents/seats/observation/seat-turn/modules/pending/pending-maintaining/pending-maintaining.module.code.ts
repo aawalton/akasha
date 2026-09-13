@@ -6,9 +6,9 @@ import {
   type SeatPending,
 } from "akasha/agents/seats/observation/seat-turn/modules/pending/pending-from-files/pending-from-files.module.code.ts"
 import { setPending } from "akasha/agents/seats/observation/seat-turn/modules/turn-pending/seat-turn-pending.module.code.ts"
+import { akashaSeatsDirIn } from "akasha/agents/seats/page/modules/akasha/seat-page-akasha.module.code.ts"
 import { akashaSeatsThatExist } from "akasha/agents/seats/page/modules/akasha-beside/seat-akasha-beside.module.code.ts"
-import { akashaObservedOf } from "akasha/agents/seats/page/modules/akasha-read/seat-akasha-read.module.code.ts"
-import { akashaSeatsDirIn } from "akasha/agents/seats/page/modules/page-akasha/seat-page-akasha.module.code.ts"
+import { akashaObservedOf } from "akasha/agents/seats/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
 import { leftWhereCodeMoved } from "akasha/infrastructure/services/workstations/modules/code-moving/code-moving.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 

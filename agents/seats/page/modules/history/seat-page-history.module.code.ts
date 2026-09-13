@@ -7,7 +7,7 @@ import { FLEET } from "akasha/agents/seats/name/modules/compose-seat-name/compos
 import {
   akashaSeatInHistory,
   akashaSeatNamedInHistory,
-} from "akasha/agents/seats/page/modules/akasha-history/seat-akasha-history.module.code.ts"
+} from "akasha/agents/seats/page/modules/seat-akasha-history/seat-akasha-history.module.code.ts"
 import { AKASHA, rootFor } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import type { Roots } from "akasha/pages/modules/markdown-page-at/markdown-page-at.module.code.ts"
 

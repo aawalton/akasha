@@ -5,11 +5,11 @@ import {
   akashaRunningModeOf,
   akashaSeatIdForName,
 } from "akasha/agents/seats/page/modules/akasha-beside/seat-akasha-beside.module.code.ts"
+import { pageFromHistory } from "akasha/agents/seats/page/modules/history/seat-page-history.module.code.ts"
 import {
   akashaSeatsStated,
   akashaSeatValuesOf,
-} from "akasha/agents/seats/page/modules/akasha-read/seat-akasha-read.module.code.ts"
-import { pageFromHistory } from "akasha/agents/seats/page/modules/page-history/seat-page-history.module.code.ts"
+} from "akasha/agents/seats/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
 import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"
 

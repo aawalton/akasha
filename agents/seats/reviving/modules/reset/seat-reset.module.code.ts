@@ -21,7 +21,7 @@ import { mintNamedAgent } from "akasha/agents/seats/name-claiming/modules/seat-n
 import {
   type SeatFromHistory,
   seatFromHistory,
-} from "akasha/agents/seats/page/modules/page-history/seat-page-history.module.code.ts"
+} from "akasha/agents/seats/page/modules/history/seat-page-history.module.code.ts"
 import {
   A_RESET,
   stopSeat,

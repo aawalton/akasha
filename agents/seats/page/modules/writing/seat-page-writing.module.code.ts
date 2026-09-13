@@ -1,9 +1,9 @@
 import type { Stated } from "akasha/agents/seats/declaration/modules/seat-stated/seat-stated.module.code.ts"
-import { akashaSeatSlugOf } from "akasha/agents/seats/page/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import {
   removeAkashaSeatPage,
   writeAkashaSeatPage,
-} from "akasha/agents/seats/page/modules/page-akasha/seat-page-akasha.module.code.ts"
+} from "akasha/agents/seats/page/modules/akasha/seat-page-akasha.module.code.ts"
+import { akashaSeatSlugOf } from "akasha/agents/seats/page/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
 import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 

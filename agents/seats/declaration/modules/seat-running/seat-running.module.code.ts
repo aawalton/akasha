@@ -48,9 +48,9 @@ import {
   followName,
 } from "akasha/agents/seats/name/modules/seat-rename/seat-rename.module.code.ts"
 import { nameStanding } from "akasha/agents/seats/name/modules/stands/seat-name-stands.module.code.ts"
-import { akashaSeatRelPath } from "akasha/agents/seats/page/modules/page-akasha/seat-page-akasha.module.code.ts"
-import { statedFromHistory } from "akasha/agents/seats/page/modules/page-history/seat-page-history.module.code.ts"
-import { writeSeatPage } from "akasha/agents/seats/page/modules/page-writing/seat-page-writing.module.code.ts"
+import { akashaSeatRelPath } from "akasha/agents/seats/page/modules/akasha/seat-page-akasha.module.code.ts"
+import { statedFromHistory } from "akasha/agents/seats/page/modules/history/seat-page-history.module.code.ts"
+import { writeSeatPage } from "akasha/agents/seats/page/modules/writing/seat-page-writing.module.code.ts"
 import {
   AKASHA,
   akashaRoot,

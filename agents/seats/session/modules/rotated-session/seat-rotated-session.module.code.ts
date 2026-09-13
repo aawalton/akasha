@@ -1,9 +1,9 @@
-import { pageTextOf } from "akasha/agents/seats/page/modules/page-values/seat-page-values.module.code.ts"
 import {
   dropSeatRecord,
   keepSeatRecord,
   seatRecordOf,
-} from "akasha/agents/seats/page/modules/record/seat-record.module.code.ts"
+} from "akasha/agents/seats/page/modules/seat-record/seat-record.module.code.ts"
+import { pageTextOf } from "akasha/agents/seats/page/modules/values/seat-page-values.module.code.ts"
 import {
   type SessionRecord,
   sessionRecordOf,

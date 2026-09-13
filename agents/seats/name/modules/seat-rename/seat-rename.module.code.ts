@@ -9,7 +9,7 @@ import {
   sessionNote,
 } from "akasha/agents/seats/name/modules/seat-session-rename/seat-session-rename.module.code.ts"
 import { seatNameForAgent } from "akasha/agents/seats/observation/modules/presence-read/seat-presence-read.module.code.ts"
-import { pageValuesOf } from "akasha/agents/seats/page/modules/page-values/seat-page-values.module.code.ts"
+import { pageValuesOf } from "akasha/agents/seats/page/modules/values/seat-page-values.module.code.ts"
 import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 
 const SLOT_JOINER = "|"

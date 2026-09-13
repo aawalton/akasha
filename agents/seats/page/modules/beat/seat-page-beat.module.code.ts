@@ -8,11 +8,11 @@ import { composedNameOf } from "akasha/agents/seats/name/modules/seat-rename/sea
 import {
   nameFromHistory,
   parentFromHistory,
-} from "akasha/agents/seats/page/modules/page-history/seat-page-history.module.code.ts"
+} from "akasha/agents/seats/page/modules/history/seat-page-history.module.code.ts"
 import {
   removeSeatPage,
   writeSeatPage,
-} from "akasha/agents/seats/page/modules/page-writing/seat-page-writing.module.code.ts"
+} from "akasha/agents/seats/page/modules/writing/seat-page-writing.module.code.ts"
 import { rotatedOf } from "akasha/agents/seats/session/modules/rotated-session/seat-rotated-session.module.code.ts"
 import {
   keepSession,

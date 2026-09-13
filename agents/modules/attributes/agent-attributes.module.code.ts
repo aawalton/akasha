@@ -2,7 +2,7 @@ import { seatNameForAgent } from "akasha/agents/seats/observation/modules/presen
 import {
   pageTextOf,
   pageValuesOf,
-} from "akasha/agents/seats/page/modules/page-values/seat-page-values.module.code.ts"
+} from "akasha/agents/seats/page/modules/values/seat-page-values.module.code.ts"
 import { slugIn } from "akasha/pages/modules/address/page-address.module.code.ts"
 
 export const ATTRIBUTES = ["persona", "domain", "role"] as const

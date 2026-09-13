@@ -1,11 +1,11 @@
 import { existsSync } from "node:fs"
+import { akashaSeatRelPath } from "akasha/agents/seats/page/modules/akasha/seat-page-akasha.module.code.ts"
 import {
   type Beside,
   CARRIED,
   type Kind,
   RECORDS,
 } from "akasha/agents/seats/page/modules/akasha-beside/seat-akasha-beside.module.code.ts"
-import { akashaSeatRelPath } from "akasha/agents/seats/page/modules/page-akasha/seat-page-akasha.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

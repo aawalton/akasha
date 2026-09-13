@@ -14,8 +14,8 @@ import {
 import {
   frontmatterFromHistory,
   nameFromHistory,
-} from "akasha/agents/seats/page/modules/page-history/seat-page-history.module.code.ts"
-import { pageTextOf } from "akasha/agents/seats/page/modules/page-values/seat-page-values.module.code.ts"
+} from "akasha/agents/seats/page/modules/history/seat-page-history.module.code.ts"
+import { pageTextOf } from "akasha/agents/seats/page/modules/values/seat-page-values.module.code.ts"
 import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"
 
