@@ -86,6 +86,11 @@ export const aineResourceManagement = {
       workingMemory:
         "The reaper takes whichever subtree is largest at the instant it looks, so a browser, a game and a build all weigh the same, and the largest is often the one doing the most valuable work. Kubernetes settles this in advance by class. Overcommit only works where the rare collision resolves the way Alan would choose, so the order belongs settled while nothing is burning.\n",
     },
+    {
+      statement: "Every record a run appends is kept for a window of its own.",
+      workingMemory:
+        "Six streams state a window and are swept: seat log days and departed supervisor directories at seven days on a nightly timer, supervisor.log at 10 MiB by two, the watcher and tray logs at a megabyte by three, Loki at 168h, the read record at 24 hours. The cost rows state none. entries holds 499 MB over 1929 files and logs holds 163 MB, both grown from nothing since the eighth. ENTRY_CEILING rolls a part at 8 MiB and removes none.",
+    },
   ],
   constraints: [
     "Adding a mechanism requires Alan's approval.",
