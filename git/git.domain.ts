@@ -12,7 +12,6 @@ export const git = {
     "module/git-answering",
     "module/git-capping",
     "module/git-dir",
-    "module/git-landing-lock",
     "module/git-pathspec",
     "module/git-pushing",
     "module/git-running",
