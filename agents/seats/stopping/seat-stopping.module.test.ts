@@ -13,7 +13,7 @@ import {
   TAKE,
   took,
   type Working,
-} from "akasha/agents/seats/stopping/modules/stopping/seat-stopping.module.code.ts"
+} from "akasha/agents/seats/stopping/seat-stopping.module.code.ts"
 import {
   CARRIED_AT,
   LEFT_BY,

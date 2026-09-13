@@ -5,6 +5,7 @@ export const seatStopping = {
   type: "module",
   slug: "seat-stopping",
   definition: "a seat brought to an end, and the pages it held taken with it",
+  parts: ["module/kill-target-plan", "module/stop-seat", "module/takeover-seat"],
   code: "ts",
   test: "ts",
   invariants: [

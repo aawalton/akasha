@@ -3,7 +3,7 @@ import {
   ptyProxyRel,
   supervisorRel,
 } from "akasha/agents/seats/launching/modules/seat-entry-paths/seat-entry-paths.module.code.ts"
-import { sessionHeld } from "akasha/agents/seats/stopping/modules/stopping/seat-stopping.module.code.ts"
+import { sessionHeld } from "akasha/agents/seats/stopping/seat-stopping.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const TMUX_HISTORY_LIMIT = "50000"
