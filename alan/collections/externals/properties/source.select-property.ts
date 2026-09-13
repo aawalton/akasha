@@ -15,6 +15,7 @@ export const source = {
     "the-wandering-inn",
     "tmdb",
     "spotify",
+    "trakt",
   ],
   invariants: [
     {
