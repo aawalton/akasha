@@ -5,7 +5,7 @@ export const designInterfacesTokens = {
   type: "domain",
   slug: "design-interfaces-tokens",
   definition: "the colors an interface is drawn in, each held as an sRGB tuple",
-  parts: ["module/semantic-color", "module/surface-color", "module/text-color"],
+  parts: ["module/semantic-color", "module/color-shape", "module/text-color"],
   invariants: [
     {
       invariantKind: "departure",

@@ -7,7 +7,7 @@ import { yellow } from "akasha/design/interfaces/colors/pages/yellow.color.ts"
 import {
   type Rgb,
   srgbOf,
-} from "akasha/design/interfaces/tokens/modules/surface-color/surface-color.module.code.ts"
+} from "akasha/design/interfaces/tokens/modules/color-shape/color-shape.module.code.ts"
 
 export const GREEN: Rgb = srgbOf(green.hex)
 export const BLUE: Rgb = srgbOf(blue.hex)
