@@ -7,6 +7,10 @@ import {
   landingAgain,
   type Went,
 } from "akasha/agents/subagents/modules/landing-again/subagent-landing-again.module.code.ts"
+import {
+  type Reading,
+  readOf,
+} from "akasha/agents/subagents/modules/liveness/subagent-liveness.module.code.ts"
 import { subagentPageInHistory } from "akasha/agents/subagents/modules/page-history/subagent-page-history.module.code.ts"
 import {
   agentIdOf,
@@ -15,10 +19,6 @@ import {
   slugOf,
 } from "akasha/agents/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
 import { movedOnto } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
-import {
-  type Reading,
-  readOf,
-} from "akasha/agents/subagents/modules/subagent-liveness/subagent-liveness.module.code.ts"
 import { subagentStarted } from "akasha/agents/subagents/properties/subagent-started.number-property.ts"
 import { editsWaiting } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
