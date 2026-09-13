@@ -56,7 +56,7 @@ export const oneAtATimeKept = {
     {
       invariantKind: "constraint",
       statement:
-        "Two wordings alike but for two words refused none twice, and then one and two of 214.",
+        "Two wordings alike but for two words refused none twice, and then one and two of the clean.",
     },
   ],
 } as const satisfies ModelTest
