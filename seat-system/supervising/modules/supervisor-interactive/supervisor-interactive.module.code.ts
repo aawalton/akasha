@@ -1,9 +1,9 @@
+import type { SeatResume } from "akasha/agents/seats/supervisors/modules/supervisor-args/supervisor-args.module.code.ts"
+import { decideBootResume } from "akasha/agents/seats/supervisors/modules/supervisor-args/supervisor-args.module.code.ts"
 import { askProxyAdoption } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
 import { askProxyLiveness } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"
 import { askReExecJitterMs } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-jitter-rule/supervisor-self-heal-jitter-rule.module.code.ts"
 import { setSelfHealIdleProbe } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import type { SeatResume } from "akasha/seat-system/supervising/modules/supervisor-args/supervisor-args.module.code.ts"
-import { decideBootResume } from "akasha/seat-system/supervising/modules/supervisor-args/supervisor-args.module.code.ts"
 import {
   LOG,
   SEAT_START_DIR,

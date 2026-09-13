@@ -1,4 +1,4 @@
-import { parseArgs } from "akasha/seat-system/supervising/modules/supervisor-args/supervisor-args.module.code.ts"
+import { parseArgs } from "akasha/agents/seats/supervisors/modules/supervisor-args/supervisor-args.module.code.ts"
 import { LIVE_CHILD_EXIT_RULE } from "akasha/seat-system/supervising/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import {
   assertBootFiles,

@@ -7,7 +7,7 @@ import type {
   AgentActionEvent,
   AgentActionSubsystem,
   PendingAgentAction,
-} from "akasha/seat-system/supervising/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
 import { LOG } from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
 import { armDeferredRestart } from "akasha/seat-system/supervising/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"
 import type { DeferredRestartRuleSource } from "akasha/seat-system/supervising/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"

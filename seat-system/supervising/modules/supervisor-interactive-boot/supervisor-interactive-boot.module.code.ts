@@ -6,6 +6,7 @@ import {
   resolveClaudeHandoff,
 } from "akasha/agents/seats/supervisors/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
 import { selectAccountAndWriteCredential } from "akasha/agents/seats/supervisors/modules/supervisor-agent/supervisor-agent.module.code.ts"
+import { createAgent } from "akasha/agents/seats/supervisors/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
 import { installProxyVersionSubsystem } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { buildCredentialSubsystem } from "akasha/seat-system/seat-credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"
 import {
@@ -14,7 +15,6 @@ import {
   SUPERVISOR_HANDOFF_ENV_KEYS,
 } from "akasha/seat-system/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
 import { setProxyOwnerAgentIdForSelfHeal } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import { createAgent } from "akasha/seat-system/supervising/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
 import {
   configDirForAccount,
   LOG,

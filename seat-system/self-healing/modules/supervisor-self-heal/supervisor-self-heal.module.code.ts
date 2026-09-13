@@ -1,8 +1,8 @@
+import { buildReExecArgv } from "akasha/agents/seats/supervisors/modules/supervisor-args/supervisor-args.module.code.ts"
 import {
   ORIGINAL_ARGV,
   SELF_HEAL_STATE,
 } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import { buildReExecArgv } from "akasha/seat-system/supervising/modules/supervisor-args/supervisor-args.module.code.ts"
 import {
   LOG,
   REPO_ROOT,

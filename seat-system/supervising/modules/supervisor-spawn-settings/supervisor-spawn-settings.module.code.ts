@@ -1,12 +1,12 @@
 import { createHash } from "node:crypto"
 import { existsSync, renameSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { harnessSettingsAt } from "akasha/agents/settings/modules/harness-settings-reading/harness-settings-reading.module.code.ts"
-import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   agentSettings,
   isSettingsDocumentFault,
-} from "akasha/seat-system/supervising/modules/supervisor-agent-settings/supervisor-agent-settings.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-agent-settings/supervisor-agent-settings.module.code.ts"
+import { harnessSettingsAt } from "akasha/agents/settings/modules/harness-settings-reading/harness-settings-reading.module.code.ts"
+import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const LOG = "[spawn-settings]"

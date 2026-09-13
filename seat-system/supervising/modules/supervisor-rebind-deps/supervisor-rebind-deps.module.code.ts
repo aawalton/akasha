@@ -6,7 +6,7 @@ import { principalOf } from "akasha/agents/seats/modules/principal/seat-principa
 import {
   createAgent,
   type RowAgentLaunch,
-} from "akasha/seat-system/supervising/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
 import {
   keepSeatSession,
   takeSeatPage,

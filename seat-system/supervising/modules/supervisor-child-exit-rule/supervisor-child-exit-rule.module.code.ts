@@ -1,7 +1,7 @@
 import {
   askRule,
   type RuleAnswer,
-} from "akasha/seat-system/supervising/modules/supervisor-ask-rule/supervisor-ask-rule.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-ask-rule/supervisor-ask-rule.module.code.ts"
 import {
   type ChildExitClassification,
   type ChildExitObservation,

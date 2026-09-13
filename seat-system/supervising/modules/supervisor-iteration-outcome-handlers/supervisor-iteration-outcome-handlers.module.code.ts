@@ -1,7 +1,7 @@
 import { clearRequestedAction } from "akasha/agents/seats/supervisors/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
+import type { AgentActionEvent } from "akasha/agents/seats/supervisors/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
 import { withTimeout } from "akasha/agents/seats/supervisors/modules/supervisor-iteration-outcome-db/supervisor-iteration-outcome-db.module.code.ts"
 import { isPendingReExec } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import type { AgentActionEvent } from "akasha/seat-system/supervising/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
 import { LOG } from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
 import type { LoopState } from "akasha/seat-system/supervising/modules/supervisor-loop-state/supervisor-loop-state.module.code.ts"
 import {

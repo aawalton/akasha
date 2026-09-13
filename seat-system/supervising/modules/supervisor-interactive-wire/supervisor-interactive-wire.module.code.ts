@@ -3,8 +3,8 @@ import {
   clearRequestedAction,
   consumeThenProxySwap,
 } from "akasha/agents/seats/supervisors/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
+import type { PendingAgentAction } from "akasha/agents/seats/supervisors/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
 import { triggerProxySwap } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
-import type { PendingAgentAction } from "akasha/seat-system/supervising/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
 import { LIVE_CHILD_EXIT_RULE } from "akasha/seat-system/supervising/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { wireSessionRotatedWatcher } from "akasha/seat-system/supervising/modules/supervisor-clear-rebind-wire/supervisor-clear-rebind-wire.module.code.ts"
 import { LOG } from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
