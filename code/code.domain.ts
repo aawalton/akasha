@@ -14,7 +14,6 @@ export const code = {
     "domain/code-reading",
     "domain/code-running",
     "domain/editor",
-    "module/name-series",
     "module/package-manifest",
     "page-type/app-routes",
     "page-type/component",

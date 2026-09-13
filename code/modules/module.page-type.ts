@@ -12,6 +12,7 @@ export const module = {
     "code-file-property/test",
     "code-file-property/test-fixtures",
     "file-property/module-types",
+    "module/name-series",
     "text-property/page-body-readers",
   ],
   extends: ["page-type/domain"],
