@@ -236,16 +236,28 @@ function heldAt(held: Reading, base: string, path: string): Uint8Array | null {
   return said === null ? null : said.bytes
 }
 
+function basedOn(held: Reading, base: string): boolean {
+  if (held.bases.has(base)) return true
+  if (recordOf(held, `${base}${COMMIT}`) === null) return false
+  held.bases.add(base)
+  return true
+}
+
+export function commitThere(root: string, base: string): boolean {
+  const held = readingIn(root)
+  try {
+    return basedOn(held, base)
+  } catch (thrown) {
+    readingEnded()
+    throw thrown
+  }
+}
+
 export function bodyAt(root: string, base: string, path: string): Uint8Array | null {
   const held = readingIn(root)
   try {
-    if (!held.bases.has(base)) {
-      if (recordOf(held, `${base}${COMMIT}`) === null) {
-        throw new Error(
-          `\`${base}\` names no commit in ${root}, so no body could be read against it`
-        )
-      }
-      held.bases.add(base)
+    if (!basedOn(held, base)) {
+      throw new Error(`\`${base}\` names no commit in ${root}, so no body could be read against it`)
     }
     return heldAt(held, base, path)
   } catch (thrown) {

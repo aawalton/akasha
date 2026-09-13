@@ -194,7 +194,13 @@ export type Found = { readonly asked: Sought } | { readonly refused: string }
 export function readIn(given: unknown): Found {
   const held = objectIn(given)
   if (held === null) return { refused: "a read is a JSON object" }
-  const asked: { paths?: readonly string[]; pages?: readonly Named[] } = {}
+  const asked: { paths?: readonly string[]; pages?: readonly Named[]; at?: string } = {}
+  if (held.at !== undefined) {
+    if (typeof held.at !== "string" || held.at === "") {
+      return { refused: "a read names the commit it is answered at as `at`, written as a string" }
+    }
+    asked.at = held.at
+  }
   if (held.paths !== undefined) {
     const paths = stringsIn(held.paths)
     if (paths === null) return { refused: "`paths` is a list of strings" }

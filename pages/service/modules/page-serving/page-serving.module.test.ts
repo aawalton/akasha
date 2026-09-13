@@ -274,6 +274,33 @@ test("a read naming a page carries it through", () => {
   expect("asked" in found && found.asked.pages?.[0]?.slug).toBe("a-page")
 })
 
+test("a read may name the commit it is answered at", () => {
+  const found = readIn({ paths: [A_PAGE], at: "0123456789abcdef0123456789abcdef01234567" })
+  expect("asked" in found && found.asked.at).toBe("0123456789abcdef0123456789abcdef01234567")
+})
+
+test("a read naming that commit as something other than a string is refused", () => {
+  const found = readIn({ paths: [A_PAGE], at: 7 })
+  expect("refused" in found && found.refused).toContain("`at`")
+})
+
+test("a read naming a commit is answered at that commit rather than at HEAD", async () => {
+  const root = repoWith("one")
+  const first = gitIn(root, ["rev-parse", "HEAD"]).trim()
+  const answered = await answering(over(root), asking({ paths: [A_PAGE], at: first }, READ_AT))
+  expect(answered.status).toBe(200)
+  const held = await bodyOf(answered)
+  expect(held.at).toBe(first)
+})
+
+test("a read naming a commit the repository does not hold is refused", async () => {
+  const root = repoWith("one")
+  const asked = { paths: [A_PAGE], at: "0".repeat(40) }
+  const answered = await answering(over(root), asking(asked, READ_AT))
+  expect(answered.status).toBe(400)
+  expect(String((await bodyOf(answered)).refused)).toContain("names no commit here")
+})
+
 test("a write may state the commit it read", () => {
   const read = writeIn({
     writer: "Amy <amy@alanwalton.com>",

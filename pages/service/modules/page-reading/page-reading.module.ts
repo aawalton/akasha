@@ -18,6 +18,22 @@ export const pageReading = {
     },
     {
       invariantKind: "departure",
+      statement: "A read naming a commit is answered at that commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read naming no commit is answered at the commit HEAD is on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read naming a commit the repository does not hold is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page is placed by the index now rather than by the commit a read names.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every body a read answers with is read at that read's commit.",
     },
     {

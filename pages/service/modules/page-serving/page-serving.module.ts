@@ -67,6 +67,14 @@ export const pageServing = {
     },
     {
       invariantKind: "departure",
+      statement: "A read may name the commit it is answered at as a string.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read naming that commit as anything but a string is refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A write is handed in at a path of its own.",
     },
     {

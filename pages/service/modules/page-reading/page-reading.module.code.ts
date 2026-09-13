@@ -3,6 +3,7 @@ import {
   baseOf,
   changeOf,
 } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { commitThere } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   secretNamed,
@@ -17,6 +18,7 @@ export type Named = {
 export type Asked = {
   readonly paths?: readonly string[]
   readonly pages?: readonly Named[]
+  readonly at?: string
 }
 
 export type Body = {
@@ -107,13 +109,17 @@ export function reading(given: Reading, asked: Asked, places: Placing = placing)
   const refused = refusalIn(asked)
   if (refused !== null) return { refused }
   try {
+    const named = asked.at
+    if (named !== undefined && !commitThere(given.root, named)) {
+      return { refused: `\`${named}\` names no commit here, and a read answers out of a commit` }
+    }
     const placed = placedIn(given.root, asked, places)
     if ("refused" in placed) return placed
     for (const one of placed.paths) {
       const withheld = withheldIn(one)
       if (withheld !== null) return { refused: withheld }
     }
-    const at = baseOf(given.root)
+    const at = named ?? baseOf(given.root)
     const change = changeOf(given.root, at, [])
     const bodies = placed.paths.map((one) => ({ path: one, content: textOf(change.before(one)) }))
     return { at, bodies, unplaced: placed.unplaced }

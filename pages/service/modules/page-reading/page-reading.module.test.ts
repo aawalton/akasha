@@ -148,6 +148,35 @@ test("a commit landing after a read leaves that read's commit standing", () => {
   expect(after.bodies[0]?.content).toBe("two")
 })
 
+test("a read naming a commit is answered at that commit rather than at HEAD", () => {
+  const root = repoWith({ [A_PAGE]: "one" })
+  const first = gitIn(root, ["rev-parse", "HEAD"]).trim()
+  writeFileSync(join(root, A_PAGE), "two")
+  gitIn(root, ["commit", "--quiet", "-a", "-m", "second"])
+  const said = reading({ root }, { paths: [A_PAGE], at: first }, nowhere)
+  if ("refused" in said) throw new Error(said.refused)
+  expect(said.at).toBe(first)
+  expect(said.bodies[0]?.content).toBe("one")
+})
+
+test("a read naming a commit is answered at it however far HEAD moves after", () => {
+  const root = repoWith({ [A_PAGE]: "one" })
+  const first = gitIn(root, ["rev-parse", "HEAD"]).trim()
+  for (const body of ["two", "three"]) {
+    writeFileSync(join(root, A_PAGE), body)
+    gitIn(root, ["commit", "--quiet", "-a", "-m", body])
+  }
+  const said = reading({ root }, { paths: [A_PAGE], at: first }, nowhere)
+  if ("refused" in said) throw new Error(said.refused)
+  expect(said.bodies[0]?.content).toBe("one")
+})
+
+test("a read naming a commit the repository does not hold is refused", () => {
+  const root = repoWith({ [A_PAGE]: "one" })
+  const said = reading({ root }, { paths: [A_PAGE], at: "0".repeat(40) }, nowhere)
+  expect("refused" in said && said.refused).toContain("names no commit here")
+})
+
 test("a root that is no repository is refused rather than thrown", () => {
   const said = reading({ root: "/var/tmp/no-such-root-stands-here" }, { paths: [A_PAGE] }, nowhere)
   expect("refused" in said).toBe(true)

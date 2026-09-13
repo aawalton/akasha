@@ -9,6 +9,7 @@ import {
 import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import {
   bodyAt,
+  commitThere,
   readingEnded,
 } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
@@ -56,6 +57,13 @@ test("a path the commit does not carry answers as nothing rather than as trouble
 test("a base that names no commit is said out loud rather than read as nothing", () => {
   const root = repoWith({ "one.txt": "committed" })
   expect(() => bodyAt(root, "0".repeat(40), "one.txt")).toThrow("names no commit")
+  readingEnded()
+})
+
+test("whether a base names a commit is answered with no body asked for", () => {
+  const root = repoWith({ "one.txt": "committed" })
+  expect(commitThere(root, baseOf(root))).toBe(true)
+  expect(commitThere(root, "0".repeat(40))).toBe(false)
   readingEnded()
 })
 

@@ -26,6 +26,10 @@ export const commitReading = {
     },
     {
       invariantKind: "departure",
+      statement: "Whether a base names a commit is answered without a body being asked for.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A base the reader already asked after is not asked again.",
     },
     {
