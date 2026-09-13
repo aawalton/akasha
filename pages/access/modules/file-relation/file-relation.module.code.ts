@@ -2,7 +2,7 @@ import { fileBackedPageTypes } from "akasha/pages/access/modules/file-backed-ros
 import { fileRelationDeclarations } from "akasha/pages/access/modules/file-property-defs/file-property-defs.module.code.ts"
 import type { FileReadDeps } from "akasha/pages/access/modules/file-read/file-read.module.code.ts"
 import { kebabizeKey } from "akasha/pages/access/modules/file-rows/file-rows.module.code.ts"
-import type { PageSelect } from "akasha/pages/access/types/types.module.code.ts"
+import type { PageSelect } from "akasha/pages/access/modules/types/types.module.code.ts"
 import type { Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import { askingFor } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 import { z } from "zod"

@@ -8,8 +8,8 @@ import {
 } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
+import { turnedBy } from "akasha/pages/types/modules/type-turning/type-turning.module.code.ts"
 import { keysFor, resolvingIn } from "akasha/pages/types/page-type.page-type.type-generator.ts"
-import { turnedBy } from "akasha/pages/types/type-turning/type-turning.module.code.ts"
 
 const PAGE_PROPERTY = "page-property"
 

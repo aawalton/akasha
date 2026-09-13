@@ -8,8 +8,8 @@ import { makeLuaVm } from "akasha/temper/lua-runner/modules/lua-vm/lua-vm.module
 import {
   gathered,
   ruledOverValues,
-} from "akasha/temper/upstream-data/upstream-leaf-reading/upstream-leaf-reading.module.code.ts"
-import type { Ruling } from "akasha/temper/upstream-data/upstream-libraries/upstream-libraries.module.code.ts"
+} from "akasha/temper/upstream-data/modules/upstream-leaf-reading/upstream-leaf-reading.module.code.ts"
+import type { Ruling } from "akasha/temper/upstream-data/modules/upstream-libraries/upstream-libraries.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/modules/is-object-record/is-object-record.module.code.ts"
 
 const DATA_FILE = "LibTreasure/data.lua"

@@ -23,7 +23,7 @@ import type { ShoppingList } from "akasha/temper/player-economics-ui/use-shoppin
 import type {
   PurchaseRecommendation,
   ShoppingItem,
-} from "akasha/temper/shopping/ttc-shopping-types/ttc-shopping-types.module.code.ts"
+} from "akasha/temper/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
 
 const IDLE_STATE: OptimizerState = {

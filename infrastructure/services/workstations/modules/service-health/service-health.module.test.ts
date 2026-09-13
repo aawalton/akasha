@@ -8,7 +8,7 @@ import {
   type Watched,
   watchedIn,
 } from "akasha/infrastructure/services/workstations/modules/service-health/service-health.module.code.ts"
-import type { Started } from "akasha/infrastructure/services/workstations/unit-writing/unit-writing.module.code.ts"
+import type { Started } from "akasha/infrastructure/services/workstations/modules/unit-writing/unit-writing.module.code.ts"
 import { keepUncommitted } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 
 const BASE = {

@@ -20,7 +20,7 @@ import {
 import {
   CONNECTION_STATUS,
   classifyTurnEndErrorDeath,
-} from "akasha/seat-system/supervising/turn-end-error-death/turn-end-error-death.module.code.ts"
+} from "akasha/seat-system/supervising/modules/turn-end-error-death/turn-end-error-death.module.code.ts"
 
 const WAIT_RESUME_INTERVAL_MS = 30_000
 

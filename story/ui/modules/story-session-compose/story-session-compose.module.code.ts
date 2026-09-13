@@ -4,7 +4,7 @@ import type { ChapterProseHistory } from "akasha/story/engine/core/modules/game-
 import {
   isPublishedTurnStatus,
   TurnStatusSchema,
-} from "akasha/story/engine/core/turn-schema/turn-schema.module.code.ts"
+} from "akasha/story/engine/core/modules/turn-schema/turn-schema.module.code.ts"
 import type {
   ClientStoryChapter,
   ClientStoryTurn,

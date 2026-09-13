@@ -8,7 +8,7 @@ import {
 import {
   findFirstNodeAbove,
   findFirstNonOuterParent,
-} from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
 import * as ts from "typescript"
 
 const multiReturnExtensionName = "__luaMultiReturn"

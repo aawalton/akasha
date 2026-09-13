@@ -13,7 +13,7 @@ import { unsupportedProperty } from "akasha/design/language/lua-compiler/modules
 import {
   expressionResultIsUsed,
   typeAlwaysHasSomeOfFlags,
-} from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
 import * as ts from "typescript"
 export function transformArrayConstructorCall(
   context: TransformationContext,

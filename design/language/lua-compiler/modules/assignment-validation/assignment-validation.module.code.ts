@@ -8,7 +8,7 @@ import {
   unsupportedNoSelfFunctionConversion,
   unsupportedOverloadAssignment,
 } from "akasha/design/language/lua-compiler/modules/transform-diagnostics/transform-diagnostics.module.code.ts"
-import { isReferenceType } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
+import { isReferenceType } from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
 import { cast, getOrUpdate } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
 import * as ts from "typescript"
 

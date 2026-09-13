@@ -6,7 +6,7 @@ import { TabsContent } from "akasha/design/interfaces/patterns/modules/tabs/tabs
 import { BrandHeartPanel } from "akasha/design/interfaces/system/modules/brand-heart/brand-heart.module.code.tsx"
 import { PersonalityTonePanel } from "akasha/design/interfaces/system/modules/personality-tone/personality-tone.module.code.tsx"
 import { StrategicPrismPanel } from "akasha/design/interfaces/system/modules/strategic-prism/strategic-prism.module.code.tsx"
-import { UiApplicationRulesPanel } from "akasha/design/interfaces/system/ui-application-rules/ui-application-rules.module.code.tsx"
+import { UiApplicationRulesPanel } from "akasha/design/interfaces/system/modules/ui-application-rules/ui-application-rules.module.code.tsx"
 import { VisualIdentityPanel } from "akasha/design/interfaces/system/visual-identity/visual-identity.module.code.tsx"
 
 export function BrandTabContent() {

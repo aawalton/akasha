@@ -6,7 +6,7 @@ import {
   getPagesByRelation,
 } from "akasha/pages/access/modules/get-by-relation/get-by-relation.module.code.ts"
 import { collectPages } from "akasha/pages/access/modules/iterate/iterate.module.code.ts"
-import type { PageOrder, PageSelect } from "akasha/pages/access/types/types.module.code.ts"
+import type { PageOrder, PageSelect } from "akasha/pages/access/modules/types/types.module.code.ts"
 import type {
   Page,
   PageWhere,

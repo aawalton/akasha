@@ -30,7 +30,7 @@ import { inventoryRulePanelVisibility } from "akasha/temper/player-inventory-man
 import { useAssembledInventoryRules } from "akasha/temper/player-inventory-management-ui/modules/inventory-rules-tab-rule-assembly/inventory-rules-tab-rule-assembly.module.code.ts"
 import { InventoryScopeNote } from "akasha/temper/player-inventory-management-ui/modules/inventory-scope-note/inventory-scope-note.module.code.tsx"
 import { ManagementPlanPanelCard } from "akasha/temper/player-inventory-management-ui/modules/management-plan-panel-card/management-plan-panel-card.module.code.tsx"
-import { UnmappedItemsPanelCard } from "akasha/temper/player-inventory-management-ui/unmapped-items-panel-card/unmapped-items-panel-card.module.code.tsx"
+import { UnmappedItemsPanelCard } from "akasha/temper/player-inventory-management-ui/modules/unmapped-items-panel-card/unmapped-items-panel-card.module.code.tsx"
 import { useDestinationOptions } from "akasha/temper/player-inventory-management-ui/use-destination-options/use-destination-options.module.code.ts"
 import {
   type DeferredRuleFilters,

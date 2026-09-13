@@ -8,7 +8,7 @@ import {
   pageTypeSlugById,
 } from "akasha/pages/access/modules/file-shape/file-shape.module.code.ts"
 import { shapelessWhy, unfiledWhy } from "akasha/pages/access/modules/get/get.module.code.ts"
-import type { PageCursor, PageOrder } from "akasha/pages/access/types/types.module.code.ts"
+import type { PageCursor, PageOrder } from "akasha/pages/access/modules/types/types.module.code.ts"
 import type {
   Page,
   PageWhere,

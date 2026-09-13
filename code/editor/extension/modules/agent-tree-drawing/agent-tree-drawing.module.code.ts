@@ -10,7 +10,7 @@ import {
 import {
   turnColorIn,
   turnStateSaid,
-} from "akasha/code/editor/extension/turn-color-scheme/turn-color-scheme.module.code.ts"
+} from "akasha/code/editor/extension/modules/turn-color-scheme/turn-color-scheme.module.code.ts"
 import * as vscode from "vscode"
 
 export const REVEAL_TERMINAL_COMMAND = "opsAgentTree.revealTerminal"

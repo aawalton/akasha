@@ -6,7 +6,7 @@ import {
 import {
   TURN_SCHEME_PATH,
   turnColorIn,
-} from "akasha/code/editor/extension/turn-color-scheme/turn-color-scheme.module.code.ts"
+} from "akasha/code/editor/extension/modules/turn-color-scheme/turn-color-scheme.module.code.ts"
 import * as vscode from "vscode"
 
 const WORK_SCHEME = "ops-work"

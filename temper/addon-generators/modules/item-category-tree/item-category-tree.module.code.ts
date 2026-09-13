@@ -3,7 +3,7 @@ import { DO_NOT_EDIT } from "akasha/temper/addon-generators/modules/do-not-edit/
 import {
   nodeUnder,
   type TreeNode,
-} from "akasha/temper/addon-generators/tree-node-under/tree-node-under.module.code.ts"
+} from "akasha/temper/addon-generators/modules/tree-node-under/tree-node-under.module.code.ts"
 import { slugOf } from "akasha/utils/slug/modules/slug-of/slug-of.module.code.ts"
 import { z } from "zod"
 

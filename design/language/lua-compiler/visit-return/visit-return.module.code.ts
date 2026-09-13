@@ -12,7 +12,7 @@ import {
   walkScopesUp,
 } from "akasha/design/language/lua-compiler/modules/scope/scope.module.code.ts"
 import { invalidMultiFunctionReturnType } from "akasha/design/language/lua-compiler/modules/transform-diagnostics/transform-diagnostics.module.code.ts"
-import { isInAsyncFunction } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
+import { isInAsyncFunction } from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
 import {
   canBeMultiReturnType,
   isInMultiReturnFunction,

@@ -36,6 +36,10 @@ import {
   indexIn,
   readingAt,
 } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
+import {
+  pagesUnder,
+  walkedUnder,
+} from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
 import { claimingIn } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { relationIn } from "akasha/pages/indexes/relation/index-relation.index.code.ts"
 import { readAt, readerIn, ruleIn } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
@@ -45,10 +49,6 @@ import {
   shapesFiled,
   shapesIn,
 } from "akasha/pages/indexes/shapes/index-shapes.index.code.ts"
-import {
-  pagesUnder,
-  walkedUnder,
-} from "akasha/pages/indexes/tree-reading/tree-reading.module.code.ts"
 import { valueIn } from "akasha/pages/indexes/value/index-value.index.code.ts"
 import { rowsOver } from "akasha/pages/modules/entries/page-entries.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"

@@ -12,7 +12,7 @@ import {
 import { kebabizeKey } from "akasha/pages/access/modules/file-rows/file-rows.module.code.ts"
 import { backings } from "akasha/pages/access/modules/file-write-backing/file-write-backing.module.code.ts"
 import { FileWriteError } from "akasha/pages/access/modules/file-write-error/file-write-error.module.code.ts"
-import type { Value } from "akasha/pages/access/types/types.module.code.ts"
+import type { Value } from "akasha/pages/access/modules/types/types.module.code.ts"
 import { camelizeKey } from "akasha/utils/slug/modules/camelize-key/camelize-key.module.code.ts"
 
 function describeValue(value: unknown): string {

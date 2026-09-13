@@ -1,4 +1,4 @@
-import { unpackRgba } from "akasha/temper/addon-color/unpack-color/unpack-color.module.code.ts"
+import { unpackRgba } from "akasha/temper/addon-color/modules/unpack-color/unpack-color.module.code.ts"
 import {
   DEST_PIN_TEXT_COLOR_AYLEID,
   DEST_PIN_TINT_AYLEID,

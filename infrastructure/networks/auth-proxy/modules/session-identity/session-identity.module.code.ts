@@ -4,7 +4,7 @@ import { parseSupabaseCookieMatch } from "akasha/infrastructure/networks/auth-pr
 import {
   hashKey,
   makeTTLCache,
-} from "akasha/infrastructure/networks/auth-proxy/ttl-cache/ttl-cache.module.code.ts"
+} from "akasha/infrastructure/networks/auth-proxy/modules/ttl-cache/ttl-cache.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 import { z } from "zod"
 

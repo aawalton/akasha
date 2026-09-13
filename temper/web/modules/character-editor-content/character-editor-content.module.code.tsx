@@ -31,7 +31,7 @@ import { GlobalSetBulkEditTags } from "akasha/temper/web/modules/global-set-bulk
 import { SetTargetConfirmDialog } from "akasha/temper/web/modules/set-target-confirm-dialog/set-target-confirm-dialog.module.code.tsx"
 import { SetTargetDialog } from "akasha/temper/web/modules/set-target-dialog/set-target-dialog.module.code.tsx"
 import { StatsPanel } from "akasha/temper/web/modules/stats-panel/stats-panel.module.code.tsx"
-import { UnderConstructionDialog } from "akasha/temper/web/under-construction-dialog/under-construction-dialog.module.code.tsx"
+import { UnderConstructionDialog } from "akasha/temper/web/modules/under-construction-dialog/under-construction-dialog.module.code.tsx"
 import {
   useCharacter,
   useCharacterActions,

@@ -1,5 +1,5 @@
 import { pad2 } from "akasha/alan/harness/day/modules/string/day-string.module.code.ts"
-import { nyOffsetMs } from "akasha/alan/harness/day/us-zone-offset/us-zone-offset.module.code.ts"
+import { nyOffsetMs } from "akasha/alan/harness/day/modules/us-zone-offset/us-zone-offset.module.code.ts"
 
 export function nyWallToInstant(dayStr: string, hh: number, mm: number): Date {
   const [y, m, d] = dayStr.split("-").map(Number)

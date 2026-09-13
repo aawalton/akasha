@@ -3,7 +3,7 @@ import { getExtensionKindForType } from "akasha/design/language/lua-compiler/mod
 import * as luaCore from "akasha/design/language/lua-compiler/modules/lua-ast-core/lua-ast-core.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
-import { isFunctionType } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
+import { isFunctionType } from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
 import type * as ts from "typescript"
 
 export function createCallableTable(

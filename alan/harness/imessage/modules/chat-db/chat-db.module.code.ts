@@ -1,4 +1,4 @@
-import { decodeAttributedBody } from "akasha/alan/harness/imessage/typedstream/typedstream.module.code.ts"
+import { decodeAttributedBody } from "akasha/alan/harness/imessage/modules/typedstream/typedstream.module.code.ts"
 import { z } from "zod"
 
 const messageRowSchema = z

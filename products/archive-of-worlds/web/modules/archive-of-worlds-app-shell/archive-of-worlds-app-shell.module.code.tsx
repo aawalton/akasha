@@ -6,7 +6,7 @@ import {
 import { AppShell as SharedAppShell } from "akasha/design/interfaces/layout/modules/app-shell/app-shell.module.code.tsx"
 import type { AppNavConfig } from "akasha/design/interfaces/layout/modules/nav-types/nav-types.module.code.ts"
 import { SortableNavs } from "akasha/pages/ui/components/modules/sortable-navs/sortable-navs.module.code.tsx"
-import { useAppNavItems } from "akasha/pages/ui/components/use-app-nav-items/use-app-nav-items.module.code.tsx"
+import { useAppNavItems } from "akasha/pages/ui/components/modules/use-app-nav-items/use-app-nav-items.module.code.tsx"
 import {
   ARCHIVE_OF_WORLDS_APP_ID,
   ARCHIVE_OF_WORLDS_APP_SLUG,

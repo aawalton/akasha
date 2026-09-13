@@ -1,4 +1,4 @@
-import type { PageOrder, PageSelect } from "akasha/pages/access/types/types.module.code.ts"
+import type { PageOrder, PageSelect } from "akasha/pages/access/modules/types/types.module.code.ts"
 import type {
   PageCondition,
   PageWhere,

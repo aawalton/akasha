@@ -7,7 +7,7 @@ import { unsupportedProperty } from "akasha/design/language/lua-compiler/modules
 import {
   isArrayType,
   isNumberType,
-} from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
 import { transformOptionalDeleteExpression } from "akasha/design/language/lua-compiler/visit-optional-chaining/visit-optional-chaining.module.code.ts"
 import * as ts from "typescript"
 

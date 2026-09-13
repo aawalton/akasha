@@ -20,7 +20,7 @@ import {
   createSafeName,
   isUnsafeName,
 } from "akasha/design/language/lua-compiler/modules/safe-names/safe-names.module.code.ts"
-import { findFirstNodeAbove } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
+import { findFirstNodeAbove } from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
 import { transformAccessorDeclarations } from "akasha/design/language/lua-compiler/visit-accessors/visit-accessors.module.code.ts"
 import {
   createConstructorName,

@@ -9,7 +9,7 @@ import { SpacingRadiusPanel } from "akasha/design/interfaces/system/modules/spac
 import { StateLayersPanel } from "akasha/design/interfaces/system/modules/state-layers/state-layers.module.code.tsx"
 import { SurfaceElevationPanel } from "akasha/design/interfaces/system/modules/surface-elevation/surface-elevation.module.code.tsx"
 import { TextColorsPanel } from "akasha/design/interfaces/system/modules/text-colors/text-colors.module.code.tsx"
-import { TypographyPanel } from "akasha/design/interfaces/system/typography/typography.module.code.tsx"
+import { TypographyPanel } from "akasha/design/interfaces/system/modules/typography/typography.module.code.tsx"
 
 export function TokensTabContent() {
   return (

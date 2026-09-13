@@ -1,6 +1,6 @@
 "use client"
 
-import type { PageOrder } from "akasha/pages/access/types/types.module.code.ts"
+import type { PageOrder } from "akasha/pages/access/modules/types/types.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import type {
   Page,

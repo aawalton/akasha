@@ -2,7 +2,7 @@ import {
   type FileRelationDeps,
   getFilePagesByRelation,
 } from "akasha/pages/access/modules/file-relation/file-relation.module.code.ts"
-import type { PageSelect } from "akasha/pages/access/types/types.module.code.ts"
+import type { PageSelect } from "akasha/pages/access/modules/types/types.module.code.ts"
 import type {
   Page,
   PageWhere,

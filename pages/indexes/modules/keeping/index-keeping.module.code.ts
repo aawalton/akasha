@@ -3,7 +3,7 @@ import { dirname, join } from "node:path"
 import type { Entry } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import type { Filing, Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import { indexAt } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
-import { walkedUnder } from "akasha/pages/indexes/tree-reading/tree-reading.module.code.ts"
+import { walkedUnder } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
 import { textThere } from "akasha/utils/fs/modules/text-there/text-there.module.code.ts"
 import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 

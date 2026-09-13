@@ -19,12 +19,12 @@ import { verifyTreasure } from "akasha/temper/upstream-data/modules/treasure-ups
 import type {
   Ruling,
   UpstreamLibrary,
-} from "akasha/temper/upstream-data/upstream-libraries/upstream-libraries.module.code.ts"
+} from "akasha/temper/upstream-data/modules/upstream-libraries/upstream-libraries.module.code.ts"
 import {
   libraryNamed,
   SOURCES_OF,
   UPSTREAM_LIBRARIES,
-} from "akasha/temper/upstream-data/upstream-libraries/upstream-libraries.module.code.ts"
+} from "akasha/temper/upstream-data/modules/upstream-libraries/upstream-libraries.module.code.ts"
 import { verifyZone } from "akasha/temper/upstream-data/zone-upstream-verify/zone-upstream-verify.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 

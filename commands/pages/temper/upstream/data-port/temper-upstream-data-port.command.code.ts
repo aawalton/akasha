@@ -16,11 +16,11 @@ import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.t
 import { port as portHousing } from "akasha/temper/upstream-data/modules/housing-upstream-port/housing-upstream-port.module.code.ts"
 import { port as portMapData } from "akasha/temper/upstream-data/modules/map-data-upstream-port/map-data-upstream-port.module.code.ts"
 import { port as portTreasure } from "akasha/temper/upstream-data/modules/treasure-upstream-port/treasure-upstream-port.module.code.ts"
-import type { UpstreamLibrary } from "akasha/temper/upstream-data/upstream-libraries/upstream-libraries.module.code.ts"
+import type { UpstreamLibrary } from "akasha/temper/upstream-data/modules/upstream-libraries/upstream-libraries.module.code.ts"
 import {
   libraryNamed,
   UPSTREAM_LIBRARIES,
-} from "akasha/temper/upstream-data/upstream-libraries/upstream-libraries.module.code.ts"
+} from "akasha/temper/upstream-data/modules/upstream-libraries/upstream-libraries.module.code.ts"
 import { port as portZone } from "akasha/temper/upstream-data/zone-upstream-port/zone-upstream-port.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 

@@ -7,7 +7,7 @@ import {
 } from "akasha/pages/access/modules/file-write/file-write.module.code.ts"
 import { getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
 import { validateSlugReserved } from "akasha/pages/access/modules/reserved-slugs/reserved-slugs.module.code.ts"
-import type { JsonPatch, PageSelect } from "akasha/pages/access/types/types.module.code.ts"
+import type { JsonPatch, PageSelect } from "akasha/pages/access/modules/types/types.module.code.ts"
 import type { Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import { resolveDescendantPageTypeIds } from "akasha/pages/core/schema/modules/page-type-inheritance/page-type-inheritance.module.code.ts"
 import {

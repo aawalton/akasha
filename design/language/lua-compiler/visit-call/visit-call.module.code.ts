@@ -15,7 +15,7 @@ import { unsupportedBuiltinOptionalCall } from "akasha/design/language/lua-compi
 import {
   getCalledExpression,
   isExpressionWithEvaluationEffect,
-} from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
 import { transformElementAccessArgument } from "akasha/design/language/lua-compiler/visit-access/visit-access.module.code.ts"
 import { transformLanguageExtensionCallExpression } from "akasha/design/language/lua-compiler/visit-extension-call-extension/visit-extension-call-extension.module.code.ts"
 import {

@@ -8,7 +8,7 @@ import { transformInPrecedingStatementScope } from "akasha/design/language/lua-c
 import {
   isAssignmentPattern,
   isEqualsAssignment,
-} from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
 import { cast } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
 import {
   transformAssignment,

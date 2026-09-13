@@ -8,7 +8,7 @@ import { transformLuaLibFunction } from "akasha/design/language/lua-compiler/mod
 import { LuaLibFeature } from "akasha/design/language/lua-compiler/modules/lualib-features/lualib-features.module.code.ts"
 import { isOptionalContinuation } from "akasha/design/language/lua-compiler/modules/optional-chain-data/optional-chain-data.module.code.ts"
 import { transformInPrecedingStatementScope } from "akasha/design/language/lua-compiler/modules/preceding-statements/preceding-statements.module.code.ts"
-import { isConstIdentifier } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
+import { isConstIdentifier } from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
 import * as ts from "typescript"
 
 function validateArguments(

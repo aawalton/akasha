@@ -21,7 +21,7 @@ import {
 import {
   isArrayType,
   isDestructuringAssignment,
-} from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
 import { transformElementAccessArgument } from "akasha/design/language/lua-compiler/visit-access/visit-access.module.code.ts"
 import { isArrayLength } from "akasha/design/language/lua-compiler/visit-array-length/visit-array-length.module.code.ts"
 import { requireTransformDestructuringAssignment } from "akasha/design/language/lua-compiler/visit-destructuring-deps/visit-destructuring-deps.module.code.ts"

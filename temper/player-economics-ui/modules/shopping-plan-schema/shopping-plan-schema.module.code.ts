@@ -1,6 +1,6 @@
-import type { ShoppingPlan } from "akasha/temper/shopping/ttc-shopping-types/ttc-shopping-types.module.code.ts"
-import { ttcListingEntrySchema } from "akasha/temper/trading-pricing/ttc-listing-schema/ttc-listing-schema.module.code.ts"
-import type { TTCListingEntry } from "akasha/temper/trading-pricing/ttc-listing-types/ttc-listing-types.module.code.ts"
+import type { ShoppingPlan } from "akasha/temper/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
+import { ttcListingEntrySchema } from "akasha/temper/trading-pricing/modules/ttc-listing-schema/ttc-listing-schema.module.code.ts"
+import type { TTCListingEntry } from "akasha/temper/trading-pricing/modules/ttc-listing-types/ttc-listing-types.module.code.ts"
 import { z } from "zod"
 
 const listingSchema = z.custom<TTCListingEntry>(

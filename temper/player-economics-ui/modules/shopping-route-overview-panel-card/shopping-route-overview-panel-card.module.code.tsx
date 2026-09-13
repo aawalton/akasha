@@ -8,8 +8,8 @@ import { CardTitleBadges } from "akasha/design/interfaces/primitives/modules/car
 import { companionTraits } from "akasha/temper/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import { formatGold } from "akasha/temper/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 import type { LocationSummary } from "akasha/temper/player-economics-ui/modules/shopping-optimizer-types/shopping-optimizer-types.module.code.ts"
-import { TTC_QUALITY_TEXT_CLASSES } from "akasha/temper/shopping/ttc-quality-text-classes/ttc-quality-text-classes.module.code.ts"
-import type { PurchaseRecommendation } from "akasha/temper/shopping/ttc-shopping-types/ttc-shopping-types.module.code.ts"
+import { TTC_QUALITY_TEXT_CLASSES } from "akasha/temper/shopping/modules/ttc-quality-text-classes/ttc-quality-text-classes.module.code.ts"
+import type { PurchaseRecommendation } from "akasha/temper/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
 import { kioskLocationName } from "akasha/temper/trading-pricing/modules/kiosk-location-name/kiosk-location-name.module.code.ts"
 import { Fragment, useMemo, useState } from "react"
 

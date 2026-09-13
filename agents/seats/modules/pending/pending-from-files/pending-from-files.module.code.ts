@@ -12,7 +12,7 @@ import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.m
 import {
   anyLiveShell,
   workingOf,
-} from "akasha/seat-system/seat-observation/seat-turn/turn-working/turn-working.module.code.ts"
+} from "akasha/seat-system/seat-observation/seat-turn/modules/turn-working/turn-working.module.code.ts"
 
 export interface SeatPending {
   readonly seat: string

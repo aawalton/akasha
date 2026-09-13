@@ -17,7 +17,7 @@ import {
   unlinkUnit,
   writeUnit,
 } from "akasha/infrastructure/services/workstations/modules/service-installing/service-installing.module.code.ts"
-import type { Started } from "akasha/infrastructure/services/workstations/unit-writing/unit-writing.module.code.ts"
+import type { Started } from "akasha/infrastructure/services/workstations/modules/unit-writing/unit-writing.module.code.ts"
 
 const HOME = mkdtempSync("/var/tmp/service-installing-")
 

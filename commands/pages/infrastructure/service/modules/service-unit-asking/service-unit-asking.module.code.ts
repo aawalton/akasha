@@ -9,7 +9,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { systemctl } from "akasha/infrastructure/services/workstations/modules/service-installing/service-installing.module.code.ts"
 import { readFor } from "akasha/infrastructure/services/workstations/modules/service-reading/service-reading.module.code.ts"
-import { installedUnitName } from "akasha/infrastructure/services/workstations/unit-writing/unit-writing.module.code.ts"
+import { installedUnitName } from "akasha/infrastructure/services/workstations/modules/unit-writing/unit-writing.module.code.ts"
 
 const NOT_ASKED = "dry-run\tsystemd was not asked; run it again without `--dry-run` to carry it out"
 

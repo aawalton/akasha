@@ -3,7 +3,7 @@ import { requireCreateModuleLocalName } from "akasha/design/language/lua-compile
 import { createExportsIdentifier } from "akasha/design/language/lua-compiler/modules/exports-identifier/exports-identifier.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import { getSymbolInfo } from "akasha/design/language/lua-compiler/modules/symbols/symbols.module.code.ts"
-import { findFirstNodeAbove } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
+import { findFirstNodeAbove } from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
 import * as ts from "typescript"
 
 export function hasDefaultExportModifier(node: ts.Node): boolean {

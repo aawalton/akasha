@@ -41,7 +41,7 @@ import {
   anyLiveShell,
   type TurnWorking,
   workingOf,
-} from "akasha/seat-system/seat-observation/seat-turn/turn-working/turn-working.module.code.ts"
+} from "akasha/seat-system/seat-observation/seat-turn/modules/turn-working/turn-working.module.code.ts"
 
 const HOOK = "keep-alan-directives"
 

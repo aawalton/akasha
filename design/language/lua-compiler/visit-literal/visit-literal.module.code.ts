@@ -14,7 +14,7 @@ import {
   undefinedInArrayLiteral,
   unsupportedAccessorInObjectLiteral,
 } from "akasha/design/language/lua-compiler/modules/transform-diagnostics/transform-diagnostics.module.code.ts"
-import { isArrayType } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
+import { isArrayType } from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
 import { transformFunctionLikeDeclaration } from "akasha/design/language/lua-compiler/visit-function/visit-function.module.code.ts"
 import { transformIdentifierWithSymbol } from "akasha/design/language/lua-compiler/visit-identifier/visit-identifier.module.code.ts"
 import { transformPropertyName } from "akasha/design/language/lua-compiler/visit-property-name/visit-property-name.module.code.ts"

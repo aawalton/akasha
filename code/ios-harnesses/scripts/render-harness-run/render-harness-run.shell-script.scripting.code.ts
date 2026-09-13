@@ -10,7 +10,7 @@ import {
   slugsIn,
   textAt,
 } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import { upFrom } from "akasha/utils/narrow/up-from/up-from.module.code.ts"
+import { upFrom } from "akasha/utils/narrow/modules/up-from/up-from.module.code.ts"
 
 const SCRIPT = "shell-script"
 

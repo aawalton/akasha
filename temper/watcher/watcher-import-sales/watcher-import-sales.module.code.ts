@@ -1,4 +1,4 @@
-import { upsertPage } from "akasha/pages/access/upsert/upsert.module.code.ts"
+import { upsertPage } from "akasha/pages/access/modules/upsert/upsert.module.code.ts"
 import { assertSchemaMatchesPayload } from "akasha/temper/capture-host/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
 import type { SalesPayload } from "akasha/temper/capture-sales/modules/sales-payload/sales-payload.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/saved-variables/modules/account-wide/account-wide.module.code.ts"

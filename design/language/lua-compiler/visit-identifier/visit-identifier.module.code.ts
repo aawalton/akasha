@@ -32,7 +32,7 @@ import {
 import { getIdentifierSymbolId } from "akasha/design/language/lua-compiler/modules/symbols/symbols.module.code.ts"
 import { maybeWrapThisVoidAsAdapter } from "akasha/design/language/lua-compiler/modules/this-void-adapter/this-void-adapter.module.code.ts"
 import { invalidCallExtensionUse } from "akasha/design/language/lua-compiler/modules/transform-diagnostics/transform-diagnostics.module.code.ts"
-import { isStandardLibraryType } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
+import { isStandardLibraryType } from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
 import { callExtensions } from "akasha/design/language/lua-compiler/visit-extension-call-extension/visit-extension-call-extension.module.code.ts"
 import {
   isIdentifierExtensionValue,

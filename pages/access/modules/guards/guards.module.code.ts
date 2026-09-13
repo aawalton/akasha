@@ -1,5 +1,5 @@
 import { isFileBacked } from "akasha/pages/access/modules/file-backed-roster/file-backed-roster.module.code.ts"
-import { isReadOnlyKey } from "akasha/pages/access/universal-keys/universal-keys.module.code.ts"
+import { isReadOnlyKey } from "akasha/pages/access/modules/universal-keys/universal-keys.module.code.ts"
 
 type DefinitionTierSlug = "page-type" | "page-property-definition"
 

@@ -15,7 +15,7 @@ import {
 import type {
   PagePropertiesInput,
   PageSelect,
-} from "akasha/pages/access/types/types.module.code.ts"
+} from "akasha/pages/access/modules/types/types.module.code.ts"
 import {
   asPage,
   type Page,

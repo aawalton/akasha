@@ -6,7 +6,7 @@ import { getSymbolInfo } from "akasha/design/language/lua-compiler/modules/symbo
 import {
   findFirstNodeAbove,
   getFirstDeclarationInFile,
-} from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
 import { assert, isNonNull } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
 import * as ts from "typescript"
 

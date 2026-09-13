@@ -2,7 +2,7 @@
 
 import { patchPage } from "akasha/pages/access/modules/patch/patch.module.code.ts"
 import { NEVER_MATCH_VALUE } from "akasha/pages/access/modules/sentinels/sentinels.module.code.ts"
-import { upsertPage } from "akasha/pages/access/upsert/upsert.module.code.ts"
+import { upsertPage } from "akasha/pages/access/modules/upsert/upsert.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import { useOptimisticUpsertPage } from "akasha/pages/ui/supabase/mutations/use-optimistic-upsert-page/use-optimistic-upsert-page.module.code.ts"
 import { usePages } from "akasha/pages/ui/supabase/use-pages/use-pages.module.code.ts"

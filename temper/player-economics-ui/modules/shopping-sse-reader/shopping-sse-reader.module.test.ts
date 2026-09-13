@@ -3,7 +3,7 @@ import {
   readSSEStream,
   type SseReadOutcome,
 } from "akasha/temper/player-economics-ui/modules/shopping-sse-reader/shopping-sse-reader.module.code.ts"
-import type { ShoppingPlan } from "akasha/temper/shopping/ttc-shopping-types/ttc-shopping-types.module.code.ts"
+import type { ShoppingPlan } from "akasha/temper/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
 
 const ENCODER = new TextEncoder()
 

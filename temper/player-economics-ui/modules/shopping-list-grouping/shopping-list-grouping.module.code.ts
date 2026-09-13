@@ -6,7 +6,7 @@ import {
   resolveNeedPrice,
 } from "akasha/temper/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 import type { MissingItemDisplay } from "akasha/temper/player-economics-ui/modules/shopping-route-overview-panel-card/shopping-route-overview-panel-card.module.code.tsx"
-import type { ShoppingPlan } from "akasha/temper/shopping/ttc-shopping-types/ttc-shopping-types.module.code.ts"
+import type { ShoppingPlan } from "akasha/temper/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
 
 export interface IndexedNeed {
   need: CompanionGearNeed

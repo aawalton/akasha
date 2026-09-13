@@ -7,7 +7,7 @@ import { everyService } from "akasha/infrastructure/services/workstations/module
 import {
   isScheduled,
   type Service,
-} from "akasha/infrastructure/services/workstations/unit-writing/unit-writing.module.code.ts"
+} from "akasha/infrastructure/services/workstations/modules/unit-writing/unit-writing.module.code.ts"
 import { uncommittedIn } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 

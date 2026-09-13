@@ -18,7 +18,7 @@ import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.m
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { unexportableIn } from "akasha/pages/modules/export-name/modules/export-naming/export-naming.module.code.ts"
-import { typesFor } from "akasha/pages/types/type-generating/type-generating.module.code.ts"
+import { typesFor } from "akasha/pages/types/modules/type-generating/type-generating.module.code.ts"
 
 export type Formatting = {
   readonly edits: readonly Replacing[]

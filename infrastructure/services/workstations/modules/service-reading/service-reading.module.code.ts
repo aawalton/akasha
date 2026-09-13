@@ -3,11 +3,11 @@ import {
   type Refused,
   runOf,
 } from "akasha/infrastructure/services/workstations/modules/run-composing/run-composing.module.code.ts"
-import type { Systemd } from "akasha/infrastructure/services/workstations/properties/systemd.record-property.types.ts"
 import type {
   Service,
   Started,
-} from "akasha/infrastructure/services/workstations/unit-writing/unit-writing.module.code.ts"
+} from "akasha/infrastructure/services/workstations/modules/unit-writing/unit-writing.module.code.ts"
+import type { Systemd } from "akasha/infrastructure/services/workstations/properties/systemd.record-property.types.ts"
 import {
   everyOfType,
   listedAt,

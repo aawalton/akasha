@@ -1,6 +1,6 @@
 import { FileWriteError } from "akasha/pages/access/modules/file-write-error/file-write-error.module.code.ts"
 import { narrowedFrom } from "akasha/pages/access/modules/file-write-narrow/file-write-narrow.module.code.ts"
-import type { PageSelect } from "akasha/pages/access/types/types.module.code.ts"
+import type { PageSelect } from "akasha/pages/access/modules/types/types.module.code.ts"
 import {
   asPage,
   type Page,

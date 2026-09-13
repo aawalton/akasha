@@ -3,7 +3,7 @@
 import { createPage } from "akasha/pages/access/modules/create/create.module.code.ts"
 import { deletePage } from "akasha/pages/access/modules/deleting/deleting.module.code.ts"
 import { NEVER_MATCH_VALUE } from "akasha/pages/access/modules/sentinels/sentinels.module.code.ts"
-import { upsertPage } from "akasha/pages/access/upsert/upsert.module.code.ts"
+import { upsertPage } from "akasha/pages/access/modules/upsert/upsert.module.code.ts"
 import { useOptimisticCreatePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
 import { useOptimisticDeletePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
 import { useOptimisticUpsertPage } from "akasha/pages/ui/supabase/mutations/use-optimistic-upsert-page/use-optimistic-upsert-page.module.code.ts"

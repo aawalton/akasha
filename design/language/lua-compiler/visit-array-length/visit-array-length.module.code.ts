@@ -1,5 +1,5 @@
 import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
-import { isArrayType } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
+import { isArrayType } from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
 import * as ts from "typescript"
 
 export function isArrayLength(

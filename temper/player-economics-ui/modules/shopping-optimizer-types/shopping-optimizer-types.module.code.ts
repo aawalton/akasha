@@ -2,7 +2,7 @@ import type { ShoppingSettings } from "akasha/temper/shopping/modules/shopping-s
 import type {
   PurchaseRecommendation,
   ShoppingPlan,
-} from "akasha/temper/shopping/ttc-shopping-types/ttc-shopping-types.module.code.ts"
+} from "akasha/temper/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
 
 type OptimizerStatus = "idle" | "searching" | "complete" | "error"
 

@@ -8,7 +8,7 @@ import {
   performHoisting,
   ScopeType,
 } from "akasha/design/language/lua-compiler/modules/scope/scope.module.code.ts"
-import { isAssignmentPattern } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
+import { isAssignmentPattern } from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
 import { transformAssignment } from "akasha/design/language/lua-compiler/visit-assignments/visit-assignments.module.code.ts"
 import { transformBlockOrStatement } from "akasha/design/language/lua-compiler/visit-block/visit-block.module.code.ts"
 import { transformAssignmentPattern } from "akasha/design/language/lua-compiler/visit-destructuring-assignments/visit-destructuring-assignments.module.code.ts"

@@ -7,7 +7,7 @@ import {
   performHoisting,
   ScopeType,
 } from "akasha/design/language/lua-compiler/modules/scope/scope.module.code.ts"
-import { hasExportEquals } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
+import { hasExportEquals } from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
 import { assert } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
 import * as ts from "typescript"
 import { z } from "zod"

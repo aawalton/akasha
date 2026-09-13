@@ -8,7 +8,7 @@ import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua
 import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
 import { transformLuaLibFunction } from "akasha/design/language/lua-compiler/modules/lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "akasha/design/language/lua-compiler/modules/lualib-features/lualib-features.module.code.ts"
-import { isArrayType } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
+import { isArrayType } from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
 import {
   transformForOfIterableStatement,
   transformForOfPairsIterableStatement,

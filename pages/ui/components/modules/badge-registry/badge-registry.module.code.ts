@@ -20,7 +20,7 @@ import { RollupPropertyBadge } from "akasha/pages/ui/components/modules/rollup-p
 import { RrulePropertyBadge } from "akasha/pages/ui/components/modules/rrule-property-badge/rrule-property-badge.module.code.tsx"
 import { SelectPropertyBadge } from "akasha/pages/ui/components/modules/select-property-badge/select-property-badge.module.code.tsx"
 import { TextPropertyBadge } from "akasha/pages/ui/components/modules/text-property-badge/text-property-badge.module.code.tsx"
-import { UrlPropertyBadge } from "akasha/pages/ui/components/url-property-badge/url-property-badge.module.code.tsx"
+import { UrlPropertyBadge } from "akasha/pages/ui/components/modules/url-property-badge/url-property-badge.module.code.tsx"
 import type { ComponentType } from "react"
 
 export const PROPERTY_BADGE_REGISTRY: Record<PropertyType, ComponentType<PropertyBadgeProps>> = {

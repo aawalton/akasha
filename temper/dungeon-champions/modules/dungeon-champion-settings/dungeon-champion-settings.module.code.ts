@@ -1,4 +1,4 @@
-import { unpackRgba } from "akasha/temper/addon-color/unpack-color/unpack-color.module.code.ts"
+import { unpackRgba } from "akasha/temper/addon-color/modules/unpack-color/unpack-color.module.code.ts"
 import {
   newColorDef,
   setTextureColor,

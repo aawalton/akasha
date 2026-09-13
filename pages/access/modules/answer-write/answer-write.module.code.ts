@@ -22,7 +22,7 @@ import {
   bulkUpsertPages,
   upsertPage,
   upsertPages,
-} from "akasha/pages/access/upsert/upsert.module.code.ts"
+} from "akasha/pages/access/modules/upsert/upsert.module.code.ts"
 import type {
   Page,
   PageCondition,

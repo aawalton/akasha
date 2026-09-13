@@ -4,7 +4,7 @@ import {
 } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.code.ts"
 import { scanProcEntries } from "akasha/agents/modules/proc-scan/proc-scan.module.code.ts"
 import { sweepSubagentPagesOf } from "akasha/agents/subagents/modules/page/subagent-page.module.code.ts"
-import { takeOpenShells } from "akasha/seat-system/seat-observation/seat-turn/turn-working/turn-working.module.code.ts"
+import { takeOpenShells } from "akasha/seat-system/seat-observation/seat-turn/modules/turn-working/turn-working.module.code.ts"
 import {
   adoptInheritedProc,
   InheritedPidDeadError,

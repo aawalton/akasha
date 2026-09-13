@@ -23,8 +23,8 @@ import {
   resolveOutputPath,
 } from "akasha/infrastructure/inference/clients/modules/inference-output-path/inference-output-path.module.code.ts"
 import { wroteTo } from "akasha/infrastructure/inference/commands/modules/inference-answering/inference-answering.module.code.ts"
-import { runClusterUpscale } from "akasha/infrastructure/inference/generations/upscale/cluster/upscale-cluster.module.code.ts"
-import { runWorkstationUpscale } from "akasha/infrastructure/inference/generations/upscale/workstation/upscale-workstation.module.code.ts"
+import { runClusterUpscale } from "akasha/infrastructure/inference/generations/upscale/modules/cluster/upscale-cluster.module.code.ts"
+import { runWorkstationUpscale } from "akasha/infrastructure/inference/generations/upscale/modules/workstation/upscale-workstation.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/modules/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/infrastructure/inference/runs/modules/store/inference-run-store.module.code.ts"
 import { sha256Hex } from "akasha/utils/hashing/modules/sha256-hex/sha256-hex.module.code.ts"

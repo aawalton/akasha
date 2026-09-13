@@ -1,0 +1,29 @@
+import { assertSchemaMatchesPayload } from "akasha/temper/capture-host/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
+import type {
+  TributePatronCatalogCard,
+  TributePatronCatalogEntry,
+} from "akasha/temper/capture-shapes/modules/tribute-catalog/tribute-catalog.module.code.ts"
+import { z } from "zod"
+
+const tributePatronCatalogCardSchema = z
+  .object({
+    baseCardName: z.string(),
+    upgradeCardName: z.string(),
+  })
+  .strict()
+
+const tributePatronCatalogEntrySchema = z
+  .object({
+    name: z.string(),
+    categoryName: z.string(),
+    collectibleId: z.number(),
+    cards: z.record(z.coerce.number(), tributePatronCatalogCardSchema),
+  })
+  .strict()
+
+assertSchemaMatchesPayload<typeof tributePatronCatalogCardSchema, TributePatronCatalogCard>()
+assertSchemaMatchesPayload<typeof tributePatronCatalogEntrySchema, TributePatronCatalogEntry>()
+
+const tributeCatalogSchema = z.record(z.coerce.number(), tributePatronCatalogEntrySchema)
+
+export type TributeCatalog = z.infer<typeof tributeCatalogSchema>

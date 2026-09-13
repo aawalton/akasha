@@ -6,7 +6,7 @@ import {
   transformLuaLibFunction,
 } from "akasha/design/language/lua-compiler/modules/lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "akasha/design/language/lua-compiler/modules/lualib-features/lualib-features.module.code.ts"
-import { isNumberType } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
+import { isNumberType } from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
 import type * as ts from "typescript"
 
 const schedulingFeatures = new Map<string, LuaLibFeature>([

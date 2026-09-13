@@ -1,4 +1,4 @@
-import type { ShoppingItem } from "akasha/temper/shopping/ttc-shopping-types/ttc-shopping-types.module.code.ts"
+import type { ShoppingItem } from "akasha/temper/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
 import type {
   CompanionEquipmentQualityId,
   CompanionTraitId,

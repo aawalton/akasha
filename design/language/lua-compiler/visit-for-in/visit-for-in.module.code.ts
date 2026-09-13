@@ -2,7 +2,7 @@ import type { FunctionVisitor } from "akasha/design/language/lua-compiler/module
 import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
 import { forbiddenForIn } from "akasha/design/language/lua-compiler/modules/transform-diagnostics/transform-diagnostics.module.code.ts"
-import { isArrayType } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
+import { isArrayType } from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
 import {
   transformForInitializer,
   transformLoopBody,

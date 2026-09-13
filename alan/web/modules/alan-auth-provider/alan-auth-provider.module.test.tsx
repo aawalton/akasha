@@ -39,10 +39,10 @@ mock.module(
 )
 
 const appVersionCheck = await import(
-  "akasha/pages/ui/app-version/use-app-version-check/use-app-version-check.module.code.ts"
+  "akasha/pages/ui/app-version/modules/use-app-version-check/use-app-version-check.module.code.ts"
 )
 mock.module(
-  "akasha/pages/ui/app-version/use-app-version-check/use-app-version-check.module.code.ts",
+  "akasha/pages/ui/app-version/modules/use-app-version-check/use-app-version-check.module.code.ts",
   () => ({
     ...appVersionCheck,
     useAppVersionCheck: () => undefined,

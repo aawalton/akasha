@@ -9,7 +9,7 @@ import {
 } from "akasha/alan/web/modules/idle-game-store/idle-game-store.module.code.ts"
 import { AddSeatPicker } from "akasha/alan/web/modules/lineup-header/lineup-header.module.code.tsx"
 import { PrestigeCard } from "akasha/alan/web/modules/prestige-card/prestige-card.module.code.tsx"
-import { UniversalTitleBar } from "akasha/alan/web/universal-title-bar/universal-title-bar.module.code.tsx"
+import { UniversalTitleBar } from "akasha/alan/web/modules/universal-title-bar/universal-title-bar.module.code.tsx"
 import {
   type IdleActions,
   useIdleActions,

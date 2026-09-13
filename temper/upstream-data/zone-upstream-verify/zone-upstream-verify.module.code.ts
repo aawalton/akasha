@@ -9,8 +9,8 @@ import {
   leavesOf,
   ruledBetween,
   upstreamLeavesIn,
-} from "akasha/temper/upstream-data/upstream-leaf-reading/upstream-leaf-reading.module.code.ts"
-import type { Ruling } from "akasha/temper/upstream-data/upstream-libraries/upstream-libraries.module.code.ts"
+} from "akasha/temper/upstream-data/modules/upstream-leaf-reading/upstream-leaf-reading.module.code.ts"
+import type { Ruling } from "akasha/temper/upstream-data/modules/upstream-libraries/upstream-libraries.module.code.ts"
 import { ESO_STUBS } from "akasha/temper/upstream-data/zone-eso-stubs/zone-eso-stubs.module.code.ts"
 
 const DATA_FILE = "LibZone/LibZone_Data.lua"
