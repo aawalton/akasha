@@ -14,42 +14,21 @@ import {
   mbWorkToSongFields,
   performedWorkIds,
   pickBestArtist,
+  songIdIn,
 } from "akasha/alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.code.ts"
+import {
+  BOWIE,
+  hit,
+  QUEEN,
+  recording,
+  versionRel,
+  work,
+  writerRel,
+} from "akasha/alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.test-fixtures.ts"
 import type {
   MbArtist,
-  MbArtistSearchHit,
-  MbRecording,
   MbRelation,
-  MbWork,
 } from "akasha/alan/music/catalog/modules/musicbrainz-schema/musicbrainz-schema.module.code.ts"
-
-const QUEEN = "mbid-queen"
-const BOWIE = "mbid-bowie"
-
-function hit(name: string, score: number, id = `mbid-${name}`): MbArtistSearchHit {
-  return { id, name, score }
-}
-
-function writerRel(artistId: string, type = "writer"): MbRelation {
-  return { type, "target-type": "artist", artist: { id: artistId, name: artistId } }
-}
-
-function versionRel(type: string, direction: string): MbRelation {
-  return {
-    type,
-    direction,
-    "target-type": "work",
-    work: { id: "mbid-other-work", title: "Other Work" },
-  }
-}
-
-function work(id: string, title: string, relations: MbRelation[] = []): MbWork {
-  return { id, title, relations }
-}
-
-function recording(id: string, title: string | null, relations: MbRelation[] = []): MbRecording {
-  return { id, title, relations }
-}
 
 describe("pickBestArtist", () => {
   test("answers nothing when nothing was found", () => {
@@ -380,14 +359,29 @@ describe("mbWorkToSongFields", () => {
     ).toEqual({
       title: "Bohemian Rhapsody",
       artist: "queen",
-      externalId: "w1",
-      externalLink: "https://musicbrainz.org/work/w1",
-      source: "musicbrainz",
-      lastSyncedAt: "2026-09-02",
+      externalIdentity: [
+        {
+          source: "musicbrainz",
+          externalId: "w1",
+          externalLink: "https://musicbrainz.org/work/w1",
+          lastSyncedAt: "2026-09-02",
+        },
+      ],
       songType: "original",
       performed: true,
       written: "solo",
     })
+  })
+
+  test("the id read back off a work's song is the work's own", () => {
+    const fields = mbWorkToSongFields({
+      work: work("w1", "Bohemian Rhapsody", [writerRel(QUEEN)]),
+      artistSlug: "queen",
+      artistMbid: QUEEN,
+      performed: true,
+      today: "2026-09-02",
+    })
+    expect(songIdIn(fields)).toBe("w1")
   })
 
   test("takes the title from the work", () => {
@@ -426,13 +420,23 @@ describe("mbRecordingToSongFields", () => {
     ).toEqual({
       title: "Under Pressure (Live)",
       artist: "queen",
-      externalId: "r1",
-      externalLink: "https://musicbrainz.org/recording/r1",
-      source: "musicbrainz",
-      lastSyncedAt: "2026-09-02",
+      externalIdentity: [
+        {
+          source: "musicbrainz",
+          externalId: "r1",
+          externalLink: "https://musicbrainz.org/recording/r1",
+          lastSyncedAt: "2026-09-02",
+        },
+      ],
       songType: "derivative",
       performed: true,
     })
+  })
+
+  test("a song holding no record of musicbrainz answers no id", () => {
+    expect(
+      songIdIn({ title: "Held", artist: "queen", songType: "original", performed: true })
+    ).toBeNull()
   })
 
   test("keeps a title written in no Latin letter", () => {

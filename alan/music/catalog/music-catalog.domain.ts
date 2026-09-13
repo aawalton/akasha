@@ -6,6 +6,7 @@ export const musicCatalog = {
   slug: "music-catalog",
   definition: "the songs and the artists who made them",
   parts: [
+    "module/catalogue-held",
     "module/lrclib-client",
     "module/lrclib-map",
     "module/lrclib-schema",

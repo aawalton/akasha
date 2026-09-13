@@ -1,5 +1,4 @@
 import type { CollectionExternal } from "akasha/alan/collections/externals/collection-external.page-type.types.ts"
-import type { ExternalId } from "akasha/alan/collections/externals/properties/external-id.text-property.types.ts"
 import type { Artist } from "akasha/alan/music/catalog/songs/properties/artist.relation-property.types.ts"
 import type { Insights } from "akasha/alan/music/catalog/songs/properties/insights.file-property.types.ts"
 import type { Lyrics } from "akasha/alan/music/catalog/songs/properties/lyrics.file-property.types.ts"
@@ -13,7 +12,6 @@ import type { Written } from "akasha/alan/music/catalog/songs/properties/written
 import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 
 export type Song = CollectionExternal & {
-  externalId: ExternalId
   title: Title
   artist: Artist
   songType: SongType

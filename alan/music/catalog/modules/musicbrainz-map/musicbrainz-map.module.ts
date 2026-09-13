@@ -7,6 +7,7 @@ export const musicbrainzMap = {
   definition: "a MusicBrainz answer read as the fields a song or an artist carries",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

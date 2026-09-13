@@ -20,7 +20,6 @@ export const song = {
     "text-property/lyrics-source",
   ],
   properties: [
-    { pageProperty: "text-property/external-id", required: true, many: false },
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/artist", required: true, many: false },
     { pageProperty: "select-property/song-type", required: true, many: false },

@@ -1,3 +1,9 @@
+import {
+  artistIn,
+  type Catalogue,
+  catalogueIn,
+  withoutFlatIdentity,
+} from "akasha/alan/music/catalog/modules/catalogue-held/catalogue-held.module.code.ts"
 import { searchLyrics } from "akasha/alan/music/catalog/modules/lrclib-client/lrclib-client.module.code.ts"
 import {
   lyricsFieldsOf,
@@ -15,7 +21,6 @@ import {
   dedupeRecordings,
   extractGenres,
   identitiesWith,
-  identityHeld,
   isSongWork,
   mbArtistIdentity,
   mbArtistToFields,
@@ -24,6 +29,7 @@ import {
   performedWorkIds,
   pickBestArtist,
   type SongFields,
+  songIdIn,
 } from "akasha/alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.code.ts"
 import type {
   MbArtist,
@@ -31,12 +37,7 @@ import type {
   MbRecording,
   MbWork,
 } from "akasha/alan/music/catalog/modules/musicbrainz-schema/musicbrainz-schema.module.code.ts"
-import {
-  artistSlugOf,
-  type SongNames,
-  songNamesFrom,
-  songSlugFor,
-} from "akasha/alan/music/catalog/modules/song-slug/song-slug.module.code.ts"
+import { songSlugFor } from "akasha/alan/music/catalog/modules/song-slug/song-slug.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   landedMechanically,
@@ -59,12 +60,8 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { musicImportArtist as page } from "akasha/commands/pages/music/import-artist/music-import-artist.command.ts"
-import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import {
-  textIn,
-  type Value,
-} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import {
   composedFor,
   type Put,
@@ -79,8 +76,6 @@ import { todayYYYYMMDD } from "akasha/utils/sync/modules/today/today.module.code
 const ARTIST = "artist"
 
 const SONG = "song"
-
-const MUSICBRAINZ = "musicbrainz"
 
 const TXT = "txt"
 
@@ -177,43 +172,6 @@ export function jsonOf(said: Imported): string {
   })
 }
 
-type Catalogue = { readonly names: SongNames; readonly held: ReadonlyMap<string, Value> }
-
-function catalogueIn(root: string): Catalogue {
-  const rows: { readonly slug: string; readonly externalId: string | null }[] = []
-  const held = new Map<string, Value>()
-  for (const one of valuesOfType(root, SONG)) {
-    const slug = textIn(one.value, "slug")
-    if (slug === null) continue
-    rows.push({ slug, externalId: textIn(one.value, "externalId") })
-    held.set(slug, one.value)
-  }
-  return { names: songNamesFrom(rows), held }
-}
-
-function flatlyHeld(held: Value, mbid: string): boolean {
-  return held["externalId"] === mbid && held["source"] === MUSICBRAINZ
-}
-
-function artistIn(
-  root: string,
-  mbid: string,
-  name: string
-): { readonly slug: string; readonly was: Value } {
-  for (const one of valuesOfType(root, ARTIST)) {
-    const found = identityHeld(one.value["externalIdentity"], mbid) || flatlyHeld(one.value, mbid)
-    if (!found) continue
-    const slug = textIn(one.value, "slug")
-    if (slug !== null) return { slug, was: one.value }
-  }
-  return { slug: artistSlugOf(name), was: {} }
-}
-
-function withoutFlatIdentity(held: Value): Value {
-  const { externalId, externalLink, source, lastSyncedAt, ...rest } = held
-  return rest
-}
-
 function edited(put: Put): Asking {
   return { at: WRITE, given: { at: put.path, body: put.content } }
 }
@@ -273,7 +231,7 @@ async function songLanded(
   const worded = await wordsFor(reach, fields.title, artistName)
   const values: Value = underArtistKey(
     {
-      ...(catalogue.held.get(slug) ?? {}),
+      ...withoutFlatIdentity(catalogue.held.get(slug) ?? {}),
       ...fields,
       type: SONG,
       slug,
@@ -295,7 +253,8 @@ async function songLanded(
 type Asked = { readonly slug: string; readonly fields: SongFields; readonly title: string }
 
 function askedOf(catalogue: Catalogue, artistSlug: string, fields: SongFields): Asked {
-  const slug = songSlugFor(catalogue.names, artistSlug, fields.title, fields.externalId)
+  const named = songIdIn(fields) ?? fields.title
+  const slug = songSlugFor(catalogue.names, artistSlug, fields.title, named)
   return { slug, fields, title: fields.title }
 }
 

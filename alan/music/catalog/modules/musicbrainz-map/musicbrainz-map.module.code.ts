@@ -1,3 +1,4 @@
+import { idFrom } from "akasha/alan/collections/externals/modules/external-identity-reading/external-identity-reading.module.code.ts"
 import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.types.ts"
 import type {
   MbArtist,
@@ -16,15 +17,7 @@ export type ArtistIdentity = NonNullable<Artist["externalIdentity"]>[number]
 
 export type SongFields = Pick<
   Song,
-  | "title"
-  | "artist"
-  | "externalId"
-  | "externalLink"
-  | "source"
-  | "lastSyncedAt"
-  | "songType"
-  | "performed"
-  | "written"
+  "title" | "artist" | "externalIdentity" | "songType" | "performed" | "written"
 >
 
 export type DistinctRecording = {
@@ -214,10 +207,14 @@ export function mbWorkToSongFields(args: {
   return {
     title: args.work.title,
     artist: args.artistSlug,
-    externalId: args.work.id,
-    externalLink: workExternalLink(args.work.id),
-    source: SOURCE,
-    lastSyncedAt: args.today,
+    externalIdentity: [
+      {
+        source: SOURCE,
+        externalId: args.work.id,
+        externalLink: workExternalLink(args.work.id),
+        lastSyncedAt: args.today,
+      },
+    ],
     songType: deriveSongType(args.work, written),
     performed: args.performed,
     ...(written != null ? { written } : {}),
@@ -233,11 +230,19 @@ export function mbRecordingToSongFields(args: {
   return {
     title: args.title,
     artist: args.artistSlug,
-    externalId: args.recordingId,
-    externalLink: recordingExternalLink(args.recordingId),
-    source: SOURCE,
-    lastSyncedAt: args.today,
+    externalIdentity: [
+      {
+        source: SOURCE,
+        externalId: args.recordingId,
+        externalLink: recordingExternalLink(args.recordingId),
+        lastSyncedAt: args.today,
+      },
+    ],
     songType: deriveSongTypeFromTitle(args.title),
     performed: true,
   }
+}
+
+export function songIdIn(fields: SongFields): string | null {
+  return idFrom(fields.externalIdentity, SOURCE)
 }
