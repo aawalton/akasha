@@ -226,3 +226,51 @@ test("wanters read the same off a lua table as off an array", () => {
   })
   expect(env.getConsumableWanters(64509)).toEqual(["111", "222"])
 })
+
+function stackOf(itemId: number, stackCount: number) {
+  return {
+    itemId,
+    itemName: "",
+    itemLink: "",
+    quality: 1,
+    filterType: 1,
+    itemType: 1,
+    traitType: 0,
+    requiredLevel: 1,
+    requiredCP: 0,
+    stackCount,
+  }
+}
+
+test("a wanted consumable's stock is counted per character off the inventory capture", () => {
+  const env = buildCliEvalEnv({
+    charactersById: new Map(),
+    characterPriority: [],
+    wantedConsumables: { "64509": ["111", "222"] },
+    db: {
+      meta: EMPTY_META,
+      locations: {
+        "111": {
+          displayName: "Ayrenn",
+          lastScanned: 0,
+          bags: { 1: { 1: stackOf(64509, 7), 2: stackOf(64509, 5), 3: stackOf(68235, 2) } },
+        },
+        "222": { displayName: "Naryu", lastScanned: 0, bags: { 1: { 1: stackOf(64509, 3) } } },
+        Bank: { displayName: "Bank", lastScanned: 0, bags: { 1: { 1: stackOf(64509, 99) } } },
+      },
+    },
+  })
+  expect(env.getConsumableStock(64509, "111")).toBe(12)
+  expect(env.getConsumableStock(64509, "222")).toBe(3)
+  expect(env.getConsumableStock(64509, "333")).toBe(0)
+  expect(env.getConsumableStock(68235, "111")).toBe(0)
+})
+
+test("stock is answered unknown where no inventory capture was handed in", () => {
+  const env = buildCliEvalEnv({
+    charactersById: new Map(),
+    characterPriority: [],
+    wantedConsumables: { "64509": ["111"] },
+  })
+  expect(env.getConsumableStock(64509, "111")).toBe("unknown")
+})
