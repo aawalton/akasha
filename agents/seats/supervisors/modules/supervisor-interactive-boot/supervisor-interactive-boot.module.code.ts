@@ -15,6 +15,10 @@ import {
   AGENT_LAUNCH_OPENED,
   AGENT_LAUNCH_SPAWNED,
 } from "akasha/agents/seats/supervisors/modules/supervisor-env/supervisor-env.module.code.ts"
+import type {
+  InteractiveBootArgs,
+  InteractiveSessionBoot,
+} from "akasha/agents/seats/supervisors/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 import { installProxyVersionSubsystem } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { buildCredentialSubsystem } from "akasha/seat-system/seat-credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"
 import {
@@ -23,10 +27,6 @@ import {
   SUPERVISOR_HANDOFF_ENV_KEYS,
 } from "akasha/seat-system/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
 import { setProxyOwnerAgentIdForSelfHeal } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import type {
-  InteractiveBootArgs,
-  InteractiveSessionBoot,
-} from "akasha/seat-system/supervising/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 import { startPerAgentMonitors } from "akasha/seat-system/supervising/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts"
 import {
   AGENT_MODE_HEADLESS,

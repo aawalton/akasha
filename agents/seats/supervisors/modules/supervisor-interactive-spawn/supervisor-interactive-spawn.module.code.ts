@@ -16,11 +16,11 @@ import type { SeatResume } from "akasha/agents/seats/supervisors/modules/supervi
 import { materializeBootPrompt } from "akasha/agents/seats/supervisors/modules/supervisor-boot-prompt/supervisor-boot-prompt.module.code.ts"
 import { stage } from "akasha/agents/seats/supervisors/modules/supervisor-boot-stage/supervisor-boot-stage.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
-import { isPendingReExec } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import type {
   InteractiveOpts,
   InteractiveSessionBoot,
-} from "akasha/seat-system/supervising/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
+import { isPendingReExec } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { armForceExitTimer } from "akasha/seat-system/supervising/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"
 import { resolveMcpConfig } from "akasha/seat-system/supervising/modules/supervisor-mcp/supervisor-mcp.module.code.ts"
 import type { CarriedAgentName } from "akasha/seat-system/supervising/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"

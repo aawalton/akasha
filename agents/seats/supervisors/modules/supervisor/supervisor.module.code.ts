@@ -6,8 +6,8 @@ import {
   REQUIRED_BOOT_FILES,
 } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
 import { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/modules/supervisor-console/supervisor-console.module.code.ts"
-import { runInteractive } from "akasha/seat-system/supervising/modules/supervisor-interactive/supervisor-interactive.module.code.ts"
-import type { RunInteractiveSeams } from "akasha/seat-system/supervising/modules/supervisor-interactive-seams/supervisor-interactive-seams.module.code.ts"
+import { runInteractive } from "akasha/agents/seats/supervisors/modules/supervisor-interactive/supervisor-interactive.module.code.ts"
+import type { RunInteractiveSeams } from "akasha/agents/seats/supervisors/modules/supervisor-interactive-seams/supervisor-interactive-seams.module.code.ts"
 import { shutdown } from "akasha/seat-system/supervising/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"
 import {
   getRestoreConsoleHandle,
