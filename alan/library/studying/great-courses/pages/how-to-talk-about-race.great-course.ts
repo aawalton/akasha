@@ -10,7 +10,11 @@ export const howToTalkAboutRace = {
   ownLength: 322.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-to-talk-about-race",
-  externalLink: "https://www.thegreatcoursesplus.com/how-to-talk-about-race",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-talk-about-race",
+      externalLink: "https://www.thegreatcoursesplus.com/how-to-talk-about-race",
+    },
+  ],
 } as const satisfies GreatCourse

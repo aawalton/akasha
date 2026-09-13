@@ -15,7 +15,11 @@ export const greatBoardGamesOfTheAncientWorld = {
     "history-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "great-board-games-of-the-ancient-world",
-  externalLink: "https://www.thegreatcoursesplus.com/great-board-games-of-the-ancient-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-board-games-of-the-ancient-world",
+      externalLink: "https://www.thegreatcoursesplus.com/great-board-games-of-the-ancient-world",
+    },
+  ],
 } as const satisfies GreatCourse

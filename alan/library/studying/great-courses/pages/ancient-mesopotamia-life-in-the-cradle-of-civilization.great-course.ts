@@ -11,8 +11,12 @@ export const ancientMesopotamiaLifeInTheCradleOfCivilization = {
   ownLength: 680.4,
   ownProgress: 680.4,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "ancient-mesopotamia-life-in-the-cradle-of-civilization",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/ancient-mesopotamia-life-in-the-cradle-of-civilization",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "ancient-mesopotamia-life-in-the-cradle-of-civilization",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/ancient-mesopotamia-life-in-the-cradle-of-civilization",
+    },
+  ],
 } as const satisfies GreatCourse

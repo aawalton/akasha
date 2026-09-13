@@ -11,8 +11,12 @@ export const aHistoryOfEnglandFromTheTudorsToTheStuarts = {
   ownLength: 1458,
   ownProgress: 1458,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "a-history-of-england-from-the-tudors-to-the-stuarts",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/a-history-of-england-from-the-tudors-to-the-stuarts",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "a-history-of-england-from-the-tudors-to-the-stuarts",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/a-history-of-england-from-the-tudors-to-the-stuarts",
+    },
+  ],
 } as const satisfies GreatCourse

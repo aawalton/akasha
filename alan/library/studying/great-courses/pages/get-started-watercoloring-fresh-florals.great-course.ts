@@ -15,7 +15,11 @@ export const getStartedWatercoloringFreshFlorals = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "get-started-watercoloring-fresh-florals",
-  externalLink: "https://www.thegreatcoursesplus.com/get-started-watercoloring-fresh-florals",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "get-started-watercoloring-fresh-florals",
+      externalLink: "https://www.thegreatcoursesplus.com/get-started-watercoloring-fresh-florals",
+    },
+  ],
 } as const satisfies GreatCourse

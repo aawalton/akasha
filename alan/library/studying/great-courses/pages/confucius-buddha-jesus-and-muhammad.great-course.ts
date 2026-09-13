@@ -15,7 +15,11 @@ export const confuciusBuddhaJesusAndMuhammad = {
     "literature-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "confucius-buddha-jesus-and-muhammad",
-  externalLink: "https://www.thegreatcoursesplus.com/confucius-buddha-jesus-and-muhammad",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "confucius-buddha-jesus-and-muhammad",
+      externalLink: "https://www.thegreatcoursesplus.com/confucius-buddha-jesus-and-muhammad",
+    },
+  ],
 } as const satisfies GreatCourse

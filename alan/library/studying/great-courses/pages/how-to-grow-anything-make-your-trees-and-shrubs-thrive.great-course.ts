@@ -10,8 +10,12 @@ export const howToGrowAnythingMakeYourTreesAndShrubsThrive = {
   ownLength: 363,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-to-grow-anything-make-your-trees-and-shrubs-thrive",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/how-to-grow-anything-make-your-trees-and-shrubs-thrive",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-grow-anything-make-your-trees-and-shrubs-thrive",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/how-to-grow-anything-make-your-trees-and-shrubs-thrive",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -11,8 +11,12 @@ export const giftableProjectsZipperedBagsAndPurseOrganizer = {
   ownLength: 145.8,
   ownProgress: 145.8,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "giftable-projects-zippered-bags-purse-organizer",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/giftable-projects-zippered-bags-purse-organizer",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "giftable-projects-zippered-bags-purse-organizer",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/giftable-projects-zippered-bags-purse-organizer",
+    },
+  ],
 } as const satisfies GreatCourse

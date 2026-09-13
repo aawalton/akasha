@@ -15,7 +15,11 @@ export const billCoorsTheWillToLive = {
     "health-and-mindfulness-great-courses",
     "history-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "bill-coors-the-will-to-live",
-  externalLink: "https://www.thegreatcoursesplus.com/bill-coors-the-will-to-live",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "bill-coors-the-will-to-live",
+      externalLink: "https://www.thegreatcoursesplus.com/bill-coors-the-will-to-live",
+    },
+  ],
 } as const satisfies GreatCourse

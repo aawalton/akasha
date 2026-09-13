@@ -15,7 +15,11 @@ export const essentialSeedBeadTechniques = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "essential-seed-bead-techniques",
-  externalLink: "https://www.thegreatcoursesplus.com/essential-seed-bead-techniques",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "essential-seed-bead-techniques",
+      externalLink: "https://www.thegreatcoursesplus.com/essential-seed-bead-techniques",
+    },
+  ],
 } as const satisfies GreatCourse

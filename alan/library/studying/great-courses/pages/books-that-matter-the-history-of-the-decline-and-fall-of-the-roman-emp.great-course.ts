@@ -16,8 +16,12 @@ export const booksThatMatterTheHistoryOfTheDeclineAndFallOfTheRomanEmp = {
     "literature-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "books-that-matter-the-history-of-the-decline-and-fall-of-the-roman-empire",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/books-that-matter-the-history-of-the-decline-and-fall-of-the-roman-empire",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "books-that-matter-the-history-of-the-decline-and-fall-of-the-roman-empire",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/books-that-matter-the-history-of-the-decline-and-fall-of-the-roman-empire",
+    },
+  ],
 } as const satisfies GreatCourse

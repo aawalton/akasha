@@ -10,7 +10,11 @@ export const greatAmericanMusicBroadwayMusicals = {
   ownLength: 16,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-american-music-broadway-musicals",
-  externalLink: "https://plus.thegreatcourses.com/great-american-music-broadway-musicals",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-american-music-broadway-musicals",
+      externalLink: "https://plus.thegreatcourses.com/great-american-music-broadway-musicals",
+    },
+  ],
 } as const satisfies GreatCourse

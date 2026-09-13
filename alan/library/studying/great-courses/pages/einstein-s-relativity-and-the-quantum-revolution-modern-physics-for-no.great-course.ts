@@ -11,9 +11,13 @@ export const einsteinSRelativityAndTheQuantumRevolutionModernPhysicsForNo = {
   ownLength: 732,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId:
-    "einstein-s-relativity-and-the-quantum-revolution-modern-physics-for-non-scientists-2nd-edition",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/einstein-s-relativity-and-the-quantum-revolution-modern-physics-for-non-scientists-2nd-edition",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId:
+        "einstein-s-relativity-and-the-quantum-revolution-modern-physics-for-non-scientists-2nd-edition",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/einstein-s-relativity-and-the-quantum-revolution-modern-physics-for-non-scientists-2nd-edition",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,8 +10,12 @@ export const howToProgramComputerScienceConceptsAndPythonExercises = {
   ownLength: 761.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-to-program-computer-science-concepts-and-python-exercises",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/how-to-program-computer-science-concepts-and-python-exercises",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-program-computer-science-concepts-and-python-exercises",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/how-to-program-computer-science-concepts-and-python-exercises",
+    },
+  ],
 } as const satisfies GreatCourse

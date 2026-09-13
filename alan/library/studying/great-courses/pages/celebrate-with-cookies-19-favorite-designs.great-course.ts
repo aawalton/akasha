@@ -15,7 +15,12 @@ export const celebrateWithCookies19FavoriteDesigns = {
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "celebrate-with-cookies-19-favorite-designs",
-  externalLink: "https://www.thegreatcoursesplus.com/celebrate-with-cookies-19-favorite-designs",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "celebrate-with-cookies-19-favorite-designs",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/celebrate-with-cookies-19-favorite-designs",
+    },
+  ],
 } as const satisfies GreatCourse

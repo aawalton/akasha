@@ -11,7 +11,11 @@ export const classicPiesMadeEasy = {
   ownLength: 163.633333,
   ownProgress: 163.633333,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "classic-pies-made-easy",
-  externalLink: "https://www.thegreatcoursesplus.com/classic-pies-made-easy",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "classic-pies-made-easy",
+      externalLink: "https://www.thegreatcoursesplus.com/classic-pies-made-easy",
+    },
+  ],
 } as const satisfies GreatCourse

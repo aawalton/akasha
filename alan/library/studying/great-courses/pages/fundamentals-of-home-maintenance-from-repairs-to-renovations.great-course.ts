@@ -11,8 +11,12 @@ export const fundamentalsOfHomeMaintenanceFromRepairsToRenovations = {
   ownLength: 653.4,
   ownProgress: 653.4,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "fundamentals-of-home-maintenance-from-repairs-to-renovations",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/fundamentals-of-home-maintenance-from-repairs-to-renovations",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "fundamentals-of-home-maintenance-from-repairs-to-renovations",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/fundamentals-of-home-maintenance-from-repairs-to-renovations",
+    },
+  ],
 } as const satisfies GreatCourse

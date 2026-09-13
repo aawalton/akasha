@@ -11,7 +11,11 @@ export const becomingAGreatEssayist = {
   ownLength: 744.6,
   ownProgress: 744.6,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "becoming-a-great-essayist",
-  externalLink: "https://www.thegreatcoursesplus.com/becoming-a-great-essayist",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "becoming-a-great-essayist",
+      externalLink: "https://www.thegreatcoursesplus.com/becoming-a-great-essayist",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const howWinstonChurchillChangedTheWorld = {
   ownLength: 706.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-winston-churchill-changed-the-world",
-  externalLink: "https://www.thegreatcoursesplus.com/how-winston-churchill-changed-the-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-winston-churchill-changed-the-world",
+      externalLink: "https://www.thegreatcoursesplus.com/how-winston-churchill-changed-the-world",
+    },
+  ],
 } as const satisfies GreatCourse

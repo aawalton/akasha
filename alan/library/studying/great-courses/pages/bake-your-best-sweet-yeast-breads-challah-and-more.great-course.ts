@@ -11,8 +11,12 @@ export const bakeYourBestSweetYeastBreadsChallahAndMore = {
   ownLength: 135.6,
   ownProgress: 135.6,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "bake-your-best-sweet-yeast-breads-challah-more",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/bake-your-best-sweet-yeast-breads-challah-more",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "bake-your-best-sweet-yeast-breads-challah-more",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/bake-your-best-sweet-yeast-breads-challah-more",
+    },
+  ],
 } as const satisfies GreatCourse

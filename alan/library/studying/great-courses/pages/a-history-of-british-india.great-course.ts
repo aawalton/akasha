@@ -11,7 +11,11 @@ export const aHistoryOfBritishIndia = {
   ownLength: 737.4,
   ownProgress: 737.4,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "a-history-of-british-india",
-  externalLink: "https://www.thegreatcoursesplus.com/a-history-of-british-india",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "a-history-of-british-india",
+      externalLink: "https://www.thegreatcoursesplus.com/a-history-of-british-india",
+    },
+  ],
 } as const satisfies GreatCourse

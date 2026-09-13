@@ -15,8 +15,12 @@ export const gnosticismFromNagHammadiToTheGospelOfJudas = {
     "history-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "gnosticism-from-nag-hammadi-to-the-gospel-of-judas",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/gnosticism-from-nag-hammadi-to-the-gospel-of-judas",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "gnosticism-from-nag-hammadi-to-the-gospel-of-judas",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/gnosticism-from-nag-hammadi-to-the-gospel-of-judas",
+    },
+  ],
 } as const satisfies GreatCourse

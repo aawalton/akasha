@@ -10,7 +10,11 @@ export const howToWriteBestSellingFiction = {
   ownLength: 792,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-to-write-best-selling-fiction",
-  externalLink: "https://www.thegreatcoursesplus.com/how-to-write-best-selling-fiction",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-write-best-selling-fiction",
+      externalLink: "https://www.thegreatcoursesplus.com/how-to-write-best-selling-fiction",
+    },
+  ],
 } as const satisfies GreatCourse

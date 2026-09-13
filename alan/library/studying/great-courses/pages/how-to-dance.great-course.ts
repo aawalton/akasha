@@ -15,7 +15,11 @@ export const howToDance = {
     "hobby-and-personal-pursuits-great-courses",
     "music-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-to-dance",
-  externalLink: "https://www.thegreatcoursesplus.com/how-to-dance",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-dance",
+      externalLink: "https://www.thegreatcoursesplus.com/how-to-dance",
+    },
+  ],
 } as const satisfies GreatCourse

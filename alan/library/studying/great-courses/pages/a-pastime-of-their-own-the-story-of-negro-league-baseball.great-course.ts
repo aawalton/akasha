@@ -11,8 +11,12 @@ export const aPastimeOfTheirOwnTheStoryOfNegroLeagueBaseball = {
   ownLength: 371.4,
   ownProgress: 371.4,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "a-pastime-of-their-own-the-story-of-negro-league-baseball",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/a-pastime-of-their-own-the-story-of-negro-league-baseball",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "a-pastime-of-their-own-the-story-of-negro-league-baseball",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/a-pastime-of-their-own-the-story-of-negro-league-baseball",
+    },
+  ],
 } as const satisfies GreatCourse

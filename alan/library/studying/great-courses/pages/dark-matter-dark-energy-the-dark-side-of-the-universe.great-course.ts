@@ -10,8 +10,12 @@ export const darkMatterDarkEnergyTheDarkSideOfTheUniverse = {
   ownLength: 749.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "dark-matter-dark-energy-the-dark-side-of-the-universe",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/dark-matter-dark-energy-the-dark-side-of-the-universe",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "dark-matter-dark-energy-the-dark-side-of-the-universe",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/dark-matter-dark-energy-the-dark-side-of-the-universe",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const howRailwaysTransformedTheWorld = {
   ownLength: 691.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-railways-transformed-the-world",
-  externalLink: "https://www.thegreatcoursesplus.com/how-railways-transformed-the-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-railways-transformed-the-world",
+      externalLink: "https://www.thegreatcoursesplus.com/how-railways-transformed-the-world",
+    },
+  ],
 } as const satisfies GreatCourse

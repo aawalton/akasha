@@ -15,7 +15,11 @@ export const howToSpeakEffectivelyInAnySetting = {
     "learning-paths-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-to-speak-effectively-in-any-setting",
-  externalLink: "https://www.thegreatcoursesplus.com/how-to-speak-effectively-in-any-setting",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-speak-effectively-in-any-setting",
+      externalLink: "https://www.thegreatcoursesplus.com/how-to-speak-effectively-in-any-setting",
+    },
+  ],
 } as const satisfies GreatCourse

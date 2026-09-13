@@ -11,7 +11,11 @@ export const georgeOrwellASageForAllSeasons = {
   ownLength: 622.2,
   ownProgress: 622.2,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "george-orwell",
-  externalLink: "https://www.thegreatcoursesplus.com/george-orwell",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "george-orwell",
+      externalLink: "https://www.thegreatcoursesplus.com/george-orwell",
+    },
+  ],
 } as const satisfies GreatCourse

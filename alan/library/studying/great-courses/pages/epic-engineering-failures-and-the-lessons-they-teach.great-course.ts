@@ -10,8 +10,12 @@ export const epicEngineeringFailuresAndTheLessonsTheyTeach = {
   ownLength: 924,
   ownProgress: 177.692308,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "epic-engineering-failures-and-the-lessons-they-teach",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/epic-engineering-failures-and-the-lessons-they-teach",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "epic-engineering-failures-and-the-lessons-they-teach",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/epic-engineering-failures-and-the-lessons-they-teach",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,8 +10,12 @@ export const experiencingHubbleUnderstandingTheGreatestImagesOfTheUniverse = {
   ownLength: 370.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "experiencing-hubble-understanding-the-greatest-images-of-the-universe",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/experiencing-hubble-understanding-the-greatest-images-of-the-universe",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "experiencing-hubble-understanding-the-greatest-images-of-the-universe",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/experiencing-hubble-understanding-the-greatest-images-of-the-universe",
+    },
+  ],
 } as const satisfies GreatCourse

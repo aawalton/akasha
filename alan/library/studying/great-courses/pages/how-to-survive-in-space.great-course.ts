@@ -10,7 +10,11 @@ export const howToSurviveInSpace = {
   ownLength: 351,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-to-survive-in-space",
-  externalLink: "https://www.thegreatcoursesplus.com/how-to-survive-in-space",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-survive-in-space",
+      externalLink: "https://www.thegreatcoursesplus.com/how-to-survive-in-space",
+    },
+  ],
 } as const satisfies GreatCourse

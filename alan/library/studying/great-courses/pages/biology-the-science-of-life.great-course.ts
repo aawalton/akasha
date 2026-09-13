@@ -10,7 +10,11 @@ export const biologyTheScienceOfLife = {
   ownLength: 2181,
   ownProgress: 242.333333,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "biology-the-science-of-life",
-  externalLink: "https://www.thegreatcoursesplus.com/biology-the-science-of-life",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "biology-the-science-of-life",
+      externalLink: "https://www.thegreatcoursesplus.com/biology-the-science-of-life",
+    },
+  ],
 } as const satisfies GreatCourse

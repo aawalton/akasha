@@ -17,7 +17,11 @@ export const greek101LearningAnAncientLanguage = {
     "literature-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "greek-101-learning-an-ancient-language",
-  externalLink: "https://www.thegreatcoursesplus.com/greek-101-learning-an-ancient-language",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "greek-101-learning-an-ancient-language",
+      externalLink: "https://www.thegreatcoursesplus.com/greek-101-learning-an-ancient-language",
+    },
+  ],
 } as const satisfies GreatCourse

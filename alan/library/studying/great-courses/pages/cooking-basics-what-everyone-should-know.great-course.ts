@@ -11,7 +11,11 @@ export const cookingBasicsWhatEveryoneShouldKnow = {
   ownLength: 789.6,
   ownProgress: 789.6,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
-  source: "the-great-courses",
-  externalId: "cooking-basics-what-everyone-should-know",
-  externalLink: "https://www.thegreatcoursesplus.com/cooking-basics-what-everyone-should-know",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "cooking-basics-what-everyone-should-know",
+      externalLink: "https://www.thegreatcoursesplus.com/cooking-basics-what-everyone-should-know",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -16,7 +16,11 @@ export const foodScienceAndTheHumanBody = {
     "health-and-mindfulness-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "food-science-and-the-human-body",
-  externalLink: "https://www.thegreatcoursesplus.com/food-science-and-the-human-body",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "food-science-and-the-human-body",
+      externalLink: "https://www.thegreatcoursesplus.com/food-science-and-the-human-body",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -15,7 +15,11 @@ export const howToMakeStressWorkForYou = {
     "health-and-mindfulness-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-to-make-stress-work-for-you",
-  externalLink: "https://www.thegreatcoursesplus.com/how-to-make-stress-work-for-you",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-make-stress-work-for-you",
+      externalLink: "https://www.thegreatcoursesplus.com/how-to-make-stress-work-for-you",
+    },
+  ],
 } as const satisfies GreatCourse

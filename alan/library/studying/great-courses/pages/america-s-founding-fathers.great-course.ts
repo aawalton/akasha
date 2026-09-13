@@ -11,7 +11,11 @@ export const americaSFoundingFathers = {
   ownLength: 1079.4,
   ownProgress: 1079.4,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "americas-founding-fathers",
-  externalLink: "https://www.thegreatcoursesplus.com/americas-founding-fathers",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "americas-founding-fathers",
+      externalLink: "https://www.thegreatcoursesplus.com/americas-founding-fathers",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -15,7 +15,11 @@ export const criticalBusinessSkillsForSuccess = {
     "learning-paths-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "critical-business-skills-for-success",
-  externalLink: "https://www.thegreatcoursesplus.com/critical-business-skills-for-success",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "critical-business-skills-for-success",
+      externalLink: "https://www.thegreatcoursesplus.com/critical-business-skills-for-success",
+    },
+  ],
 } as const satisfies GreatCourse

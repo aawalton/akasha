@@ -10,7 +10,11 @@ export const creationStoriesOfTheAmericas = {
   ownLength: 341.116667,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "creation-stories-of-the-americas",
-  externalLink: "https://www.thegreatcoursesplus.com/creation-stories-of-the-americas",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "creation-stories-of-the-americas",
+      externalLink: "https://www.thegreatcoursesplus.com/creation-stories-of-the-americas",
+    },
+  ],
 } as const satisfies GreatCourse

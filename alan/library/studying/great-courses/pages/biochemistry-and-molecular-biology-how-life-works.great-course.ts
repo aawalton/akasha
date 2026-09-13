@@ -10,8 +10,12 @@ export const biochemistryAndMolecularBiologyHowLifeWorks = {
   ownLength: 1106.4,
   ownProgress: 61.466667,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "biochemistry-and-molecular-biology-how-life-works",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/biochemistry-and-molecular-biology-how-life-works",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "biochemistry-and-molecular-biology-how-life-works",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/biochemistry-and-molecular-biology-how-life-works",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -15,8 +15,12 @@ export const beyondGrandmaSCakeRollOnePanSixNewCakes = {
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "beyond-grandma-s-cake-roll-one-pan-six-new-cakes",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/beyond-grandma-s-cake-roll-one-pan-six-new-cakes",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "beyond-grandma-s-cake-roll-one-pan-six-new-cakes",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/beyond-grandma-s-cake-roll-one-pan-six-new-cakes",
+    },
+  ],
 } as const satisfies GreatCourse

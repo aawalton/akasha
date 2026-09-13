@@ -11,7 +11,11 @@ export const greatAncientCivilizationsOfAsiaMinor = {
   ownLength: 720,
   ownProgress: 720,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-ancient-civilizations-of-asia-minor",
-  externalLink: "https://www.thegreatcoursesplus.com/great-ancient-civilizations-of-asia-minor",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-ancient-civilizations-of-asia-minor",
+      externalLink: "https://www.thegreatcoursesplus.com/great-ancient-civilizations-of-asia-minor",
+    },
+  ],
 } as const satisfies GreatCourse

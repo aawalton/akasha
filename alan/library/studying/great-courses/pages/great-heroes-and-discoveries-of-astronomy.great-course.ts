@@ -10,7 +10,11 @@ export const greatHeroesAndDiscoveriesOfAstronomy = {
   ownLength: 640.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-heroes-and-discoveries-of-astronomy",
-  externalLink: "https://www.thegreatcoursesplus.com/great-heroes-and-discoveries-of-astronomy",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-heroes-and-discoveries-of-astronomy",
+      externalLink: "https://www.thegreatcoursesplus.com/great-heroes-and-discoveries-of-astronomy",
+    },
+  ],
 } as const satisfies GreatCourse

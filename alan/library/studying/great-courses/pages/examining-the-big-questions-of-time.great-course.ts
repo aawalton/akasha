@@ -10,7 +10,11 @@ export const examiningTheBigQuestionsOfTime = {
   ownLength: 316.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "examining-the-big-questions-of-time",
-  externalLink: "https://www.thegreatcoursesplus.com/examining-the-big-questions-of-time",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "examining-the-big-questions-of-time",
+      externalLink: "https://www.thegreatcoursesplus.com/examining-the-big-questions-of-time",
+    },
+  ],
 } as const satisfies GreatCourse

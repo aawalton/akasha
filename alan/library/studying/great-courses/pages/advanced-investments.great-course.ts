@@ -11,7 +11,11 @@ export const advancedInvestments = {
   ownLength: 766.2,
   ownProgress: 766.2,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
-  source: "the-great-courses",
-  externalId: "advanced-investments",
-  externalLink: "https://www.thegreatcoursesplus.com/advanced-investments",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "advanced-investments",
+      externalLink: "https://www.thegreatcoursesplus.com/advanced-investments",
+    },
+  ],
 } as const satisfies GreatCourse

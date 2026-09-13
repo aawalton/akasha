@@ -10,8 +10,12 @@ export const crashesAndCrisesLessonsFromAHistoryOfFinancialDisasters = {
   ownLength: 694.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
-  source: "the-great-courses",
-  externalId: "crashes-and-crises-lessons-from-a-history-of-financial-disasters",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/crashes-and-crises-lessons-from-a-history-of-financial-disasters",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "crashes-and-crises-lessons-from-a-history-of-financial-disasters",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/crashes-and-crises-lessons-from-a-history-of-financial-disasters",
+    },
+  ],
 } as const satisfies GreatCourse

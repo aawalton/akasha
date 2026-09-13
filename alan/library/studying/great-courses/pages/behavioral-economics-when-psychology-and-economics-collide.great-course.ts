@@ -16,8 +16,12 @@ export const behavioralEconomicsWhenPsychologyAndEconomicsCollide = {
     "professional-growth-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "behavioral-economics-when-psychology-and-economics-collide",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/behavioral-economics-when-psychology-and-economics-collide",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "behavioral-economics-when-psychology-and-economics-collide",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/behavioral-economics-when-psychology-and-economics-collide",
+    },
+  ],
 } as const satisfies GreatCourse

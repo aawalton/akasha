@@ -10,7 +10,11 @@ export const chaos = {
   ownLength: 737.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "chaos",
-  externalLink: "https://www.thegreatcoursesplus.com/chaos",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "chaos",
+      externalLink: "https://www.thegreatcoursesplus.com/chaos",
+    },
+  ],
 } as const satisfies GreatCourse

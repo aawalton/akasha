@@ -11,7 +11,11 @@ export const foodACulturalCulinaryHistory = {
   ownLength: 1114.2,
   ownProgress: 1114.2,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "food-a-cultural-culinary-history",
-  externalLink: "https://www.thegreatcoursesplus.com/food-a-cultural-culinary-history",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "food-a-cultural-culinary-history",
+      externalLink: "https://www.thegreatcoursesplus.com/food-a-cultural-culinary-history",
+    },
+  ],
 } as const satisfies GreatCourse

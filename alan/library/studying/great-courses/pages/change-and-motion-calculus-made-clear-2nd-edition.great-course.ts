@@ -10,8 +10,12 @@ export const changeAndMotionCalculusMadeClear2ndEdition = {
   ownLength: 750,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "mathematics-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "change-and-motion-calculus-made-clear-2nd-edition",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/change-and-motion-calculus-made-clear-2nd-edition",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "change-and-motion-calculus-made-clear-2nd-edition",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/change-and-motion-calculus-made-clear-2nd-edition",
+    },
+  ],
 } as const satisfies GreatCourse

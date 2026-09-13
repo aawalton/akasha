@@ -10,7 +10,11 @@ export const howToViewAndAppreciateGreatMovies = {
   ownLength: 797.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-to-view-and-appreciate-great-movies",
-  externalLink: "https://www.thegreatcoursesplus.com/how-to-view-and-appreciate-great-movies",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-view-and-appreciate-great-movies",
+      externalLink: "https://www.thegreatcoursesplus.com/how-to-view-and-appreciate-great-movies",
+    },
+  ],
 } as const satisfies GreatCourse

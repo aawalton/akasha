@@ -15,7 +15,11 @@ export const buildingABetterVocabulary = {
     "literature-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "building-a-better-vocabulary",
-  externalLink: "https://www.thegreatcoursesplus.com/building-a-better-vocabulary",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "building-a-better-vocabulary",
+      externalLink: "https://www.thegreatcoursesplus.com/building-a-better-vocabulary",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const greatIdeasOfClassicalPhysics = {
   ownLength: 735,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-ideas-of-classical-physics",
-  externalLink: "https://www.thegreatcoursesplus.com/great-ideas-of-classical-physics",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-ideas-of-classical-physics",
+      externalLink: "https://www.thegreatcoursesplus.com/great-ideas-of-classical-physics",
+    },
+  ],
 } as const satisfies GreatCourse

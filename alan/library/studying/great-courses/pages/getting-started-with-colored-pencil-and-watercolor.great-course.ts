@@ -15,8 +15,12 @@ export const gettingStartedWithColoredPencilAndWatercolor = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "getting-started-with-colored-pencil-watercolor",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/getting-started-with-colored-pencil-watercolor",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "getting-started-with-colored-pencil-watercolor",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/getting-started-with-colored-pencil-watercolor",
+    },
+  ],
 } as const satisfies GreatCourse

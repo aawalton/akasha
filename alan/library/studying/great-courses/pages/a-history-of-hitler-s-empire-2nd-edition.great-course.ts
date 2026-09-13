@@ -11,7 +11,11 @@ export const aHistoryOfHitlerSEmpire2ndEdition = {
   ownLength: 381,
   ownProgress: 381,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "a-history-of-hitlers-empire-2nd-edition",
-  externalLink: "https://www.thegreatcoursesplus.com/a-history-of-hitlers-empire-2nd-edition",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "a-history-of-hitlers-empire-2nd-edition",
+      externalLink: "https://www.thegreatcoursesplus.com/a-history-of-hitlers-empire-2nd-edition",
+    },
+  ],
 } as const satisfies GreatCourse

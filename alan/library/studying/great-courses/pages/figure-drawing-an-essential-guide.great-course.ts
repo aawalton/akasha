@@ -11,7 +11,11 @@ export const figureDrawingAnEssentialGuide = {
   ownLength: 93.6,
   ownProgress: 93.6,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "figure-drawing-an-essential-guide",
-  externalLink: "https://www.thegreatcoursesplus.com/figure-drawing-an-essential-guide",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "figure-drawing-an-essential-guide",
+      externalLink: "https://www.thegreatcoursesplus.com/figure-drawing-an-essential-guide",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const booksThatMatterTheArtOfWar = {
   ownLength: 12,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "books-that-matter-the-art-of-war",
-  externalLink: "https://plus.thegreatcourses.com/books-that-matter-the-art-of-war",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "books-that-matter-the-art-of-war",
+      externalLink: "https://plus.thegreatcourses.com/books-that-matter-the-art-of-war",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -14,7 +14,11 @@ export const howToStayFitAsYouAge = {
     "health-and-mindfulness-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-to-stay-fit-as-you-age",
-  externalLink: "https://www.thegreatcoursesplus.com/how-to-stay-fit-as-you-age",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-stay-fit-as-you-age",
+      externalLink: "https://www.thegreatcoursesplus.com/how-to-stay-fit-as-you-age",
+    },
+  ],
 } as const satisfies GreatCourse

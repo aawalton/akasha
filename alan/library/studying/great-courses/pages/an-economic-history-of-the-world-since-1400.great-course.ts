@@ -15,7 +15,12 @@ export const anEconomicHistoryOfTheWorldSince1400 = {
     "business-and-finance-great-courses",
     "history-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "an-economic-history-of-the-world-since-1400",
-  externalLink: "https://www.thegreatcoursesplus.com/an-economic-history-of-the-world-since-1400",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "an-economic-history-of-the-world-since-1400",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/an-economic-history-of-the-world-since-1400",
+    },
+  ],
 } as const satisfies GreatCourse

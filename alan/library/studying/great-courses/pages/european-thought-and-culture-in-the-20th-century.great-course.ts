@@ -10,8 +10,12 @@ export const europeanThoughtAndCultureInThe20thCentury = {
   ownLength: 735.783333,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "european-thought-and-culture-in-the-20th-century",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/european-thought-and-culture-in-the-20th-century",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "european-thought-and-culture-in-the-20th-century",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/european-thought-and-culture-in-the-20th-century",
+    },
+  ],
 } as const satisfies GreatCourse

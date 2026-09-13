@@ -15,7 +15,11 @@ export const exploringTheMayanWorld = {
     "history-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "exploring-the-mayan-world",
-  externalLink: "https://www.thegreatcoursesplus.com/exploring-the-mayan-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "exploring-the-mayan-world",
+      externalLink: "https://www.thegreatcoursesplus.com/exploring-the-mayan-world",
+    },
+  ],
 } as const satisfies GreatCourse

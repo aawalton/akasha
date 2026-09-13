@@ -11,7 +11,11 @@ export const greatPharaohsOfAncientEgypt = {
   ownLength: 367.2,
   ownProgress: 367.2,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-pharaohs-of-ancient-egypt",
-  externalLink: "https://www.thegreatcoursesplus.com/great-pharaohs-of-ancient-egypt",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-pharaohs-of-ancient-egypt",
+      externalLink: "https://www.thegreatcoursesplus.com/great-pharaohs-of-ancient-egypt",
+    },
+  ],
 } as const satisfies GreatCourse

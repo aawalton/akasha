@@ -10,8 +10,12 @@ export const greatMindsOfTheWesternIntellectualTradition3rdEdition = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-minds-of-the-western-intellectual-tradition-3rd-edition",
-  externalLink:
-    "https://plus.thegreatcourses.com/great-minds-of-the-western-intellectual-tradition-3rd-edition",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-minds-of-the-western-intellectual-tradition-3rd-edition",
+      externalLink:
+        "https://plus.thegreatcourses.com/great-minds-of-the-western-intellectual-tradition-3rd-edition",
+    },
+  ],
 } as const satisfies GreatCourse

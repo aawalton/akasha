@@ -10,8 +10,12 @@ export const deathDyingAndTheAfterlifeLessonsFromWorldCultures = {
   ownLength: 753.6,
   ownProgress: 31.4,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "death-dying-and-the-afterlife-lessons-from-world-cultures",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/death-dying-and-the-afterlife-lessons-from-world-cultures",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "death-dying-and-the-afterlife-lessons-from-world-cultures",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/death-dying-and-the-afterlife-lessons-from-world-cultures",
+    },
+  ],
 } as const satisfies GreatCourse

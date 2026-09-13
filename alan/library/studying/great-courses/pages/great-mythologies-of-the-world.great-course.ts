@@ -10,7 +10,11 @@ export const greatMythologiesOfTheWorld = {
   ownLength: 1905.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-mythologies-of-the-world",
-  externalLink: "https://www.thegreatcoursesplus.com/great-mythologies-of-the-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-mythologies-of-the-world",
+      externalLink: "https://www.thegreatcoursesplus.com/great-mythologies-of-the-world",
+    },
+  ],
 } as const satisfies GreatCourse

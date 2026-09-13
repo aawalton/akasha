@@ -10,7 +10,11 @@ export const buildingLoveThatLasts = {
   ownLength: 352.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "building-love-that-lasts",
-  externalLink: "https://www.thegreatcoursesplus.com/building-love-that-lasts",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "building-love-that-lasts",
+      externalLink: "https://www.thegreatcoursesplus.com/building-love-that-lasts",
+    },
+  ],
 } as const satisfies GreatCourse

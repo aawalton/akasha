@@ -11,8 +11,12 @@ export const americanMilitaryHistoryFromColonialsToCounterinsurgents = {
   ownLength: 696,
   ownProgress: 696,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "american-military-history-from-colonials-to-counterinsurgents",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/american-military-history-from-colonials-to-counterinsurgents",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "american-military-history-from-colonials-to-counterinsurgents",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/american-military-history-from-colonials-to-counterinsurgents",
+    },
+  ],
 } as const satisfies GreatCourse

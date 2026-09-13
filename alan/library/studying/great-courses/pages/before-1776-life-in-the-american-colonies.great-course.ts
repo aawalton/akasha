@@ -10,7 +10,11 @@ export const before1776LifeInTheAmericanColonies = {
   ownLength: 36,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "before-1776-life-in-the-american-colonies",
-  externalLink: "https://plus.thegreatcourses.com/before-1776-life-in-the-american-colonies",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "before-1776-life-in-the-american-colonies",
+      externalLink: "https://plus.thegreatcourses.com/before-1776-life-in-the-american-colonies",
+    },
+  ],
 } as const satisfies GreatCourse

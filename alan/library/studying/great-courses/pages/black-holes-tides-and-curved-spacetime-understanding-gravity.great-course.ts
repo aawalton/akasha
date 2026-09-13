@@ -10,8 +10,12 @@ export const blackHolesTidesAndCurvedSpacetimeUnderstandingGravity = {
   ownLength: 724.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "black-holes-tides-and-curved-spacetime-understanding-gravity",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/black-holes-tides-and-curved-spacetime-understanding-gravity",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "black-holes-tides-and-curved-spacetime-understanding-gravity",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/black-holes-tides-and-curved-spacetime-understanding-gravity",
+    },
+  ],
 } as const satisfies GreatCourse

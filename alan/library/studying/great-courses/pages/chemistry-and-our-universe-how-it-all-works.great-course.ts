@@ -10,7 +10,12 @@ export const chemistryAndOurUniverseHowItAllWorks = {
   ownLength: 1818,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "chemistry-and-our-universe-how-it-all-works",
-  externalLink: "https://www.thegreatcoursesplus.com/chemistry-and-our-universe-how-it-all-works",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "chemistry-and-our-universe-how-it-all-works",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/chemistry-and-our-universe-how-it-all-works",
+    },
+  ],
 } as const satisfies GreatCourse

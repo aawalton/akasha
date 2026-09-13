@@ -10,7 +10,11 @@ export const howTheEarthWorks = {
   ownLength: 1481.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-the-earth-works",
-  externalLink: "https://www.thegreatcoursesplus.com/how-the-earth-works",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-the-earth-works",
+      externalLink: "https://www.thegreatcoursesplus.com/how-the-earth-works",
+    },
+  ],
 } as const satisfies GreatCourse

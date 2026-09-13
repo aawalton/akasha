@@ -11,7 +11,11 @@ export const americanSignLanguageForEveryone = {
   ownLength: 692.4,
   ownProgress: 692.4,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "american-sign-language-for-everyone",
-  externalLink: "https://www.thegreatcoursesplus.com/american-sign-language-for-everyone",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "american-sign-language-for-everyone",
+      externalLink: "https://www.thegreatcoursesplus.com/american-sign-language-for-everyone",
+    },
+  ],
 } as const satisfies GreatCourse

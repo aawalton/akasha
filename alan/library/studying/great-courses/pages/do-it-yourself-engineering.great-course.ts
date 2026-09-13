@@ -14,7 +14,11 @@ export const doItYourselfEngineering = {
     "hobby-and-personal-pursuits-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "do-it-yourself-engineering",
-  externalLink: "https://www.thegreatcoursesplus.com/do-it-yourself-engineering",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "do-it-yourself-engineering",
+      externalLink: "https://www.thegreatcoursesplus.com/do-it-yourself-engineering",
+    },
+  ],
 } as const satisfies GreatCourse

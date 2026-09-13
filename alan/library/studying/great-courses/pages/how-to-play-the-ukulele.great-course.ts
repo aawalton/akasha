@@ -14,7 +14,11 @@ export const howToPlayTheUkulele = {
     "hobby-and-personal-pursuits-great-courses",
     "music-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-to-play-the-ukulele",
-  externalLink: "https://www.thegreatcoursesplus.com/how-to-play-the-ukulele",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-play-the-ukulele",
+      externalLink: "https://www.thegreatcoursesplus.com/how-to-play-the-ukulele",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const howWeMoveTheGrossAnatomyOfMotion = {
   ownLength: 754.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-we-move-the-gross-anatomy-of-motion",
-  externalLink: "https://www.thegreatcoursesplus.com/how-we-move-the-gross-anatomy-of-motion",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-we-move-the-gross-anatomy-of-motion",
+      externalLink: "https://www.thegreatcoursesplus.com/how-we-move-the-gross-anatomy-of-motion",
+    },
+  ],
 } as const satisfies GreatCourse

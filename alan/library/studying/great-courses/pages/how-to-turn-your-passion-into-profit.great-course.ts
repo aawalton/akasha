@@ -10,7 +10,11 @@ export const howToTurnYourPassionIntoProfit = {
   ownLength: 583.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-to-turn-your-passion-into-profit",
-  externalLink: "https://www.thegreatcoursesplus.com/how-to-turn-your-passion-into-profit",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-turn-your-passion-into-profit",
+      externalLink: "https://www.thegreatcoursesplus.com/how-to-turn-your-passion-into-profit",
+    },
+  ],
 } as const satisfies GreatCourse

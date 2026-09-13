@@ -10,8 +10,12 @@ export const crossroadsOfCivilizationAHistoryOfCentralAsia = {
   ownLength: 684.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "crossroads-of-civilization-a-history-of-central-asia",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/crossroads-of-civilization-a-history-of-central-asia",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "crossroads-of-civilization-a-history-of-central-asia",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/crossroads-of-civilization-a-history-of-central-asia",
+    },
+  ],
 } as const satisfies GreatCourse

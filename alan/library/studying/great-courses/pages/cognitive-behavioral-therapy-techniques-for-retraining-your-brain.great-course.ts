@@ -15,8 +15,12 @@ export const cognitiveBehavioralTherapyTechniquesForRetrainingYourBrain = {
     "professional-growth-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "cognitive-behavioral-therapy-techniques-for-retraining-your-brain",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/cognitive-behavioral-therapy-techniques-for-retraining-your-brain",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "cognitive-behavioral-therapy-techniques-for-retraining-your-brain",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/cognitive-behavioral-therapy-techniques-for-retraining-your-brain",
+    },
+  ],
 } as const satisfies GreatCourse

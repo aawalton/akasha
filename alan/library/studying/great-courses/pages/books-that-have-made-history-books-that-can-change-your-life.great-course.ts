@@ -10,8 +10,12 @@ export const booksThatHaveMadeHistoryBooksThatCanChangeYourLife = {
   ownLength: 1096.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "books-that-have-made-history-books-that-can-change-your-life",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/books-that-have-made-history-books-that-can-change-your-life",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "books-that-have-made-history-books-that-can-change-your-life",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/books-that-have-made-history-books-that-can-change-your-life",
+    },
+  ],
 } as const satisfies GreatCourse

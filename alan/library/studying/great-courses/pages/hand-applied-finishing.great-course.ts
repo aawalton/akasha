@@ -11,7 +11,11 @@ export const handAppliedFinishing = {
   ownLength: 141.6,
   ownProgress: 141.6,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "hand-applied-finishing",
-  externalLink: "https://www.thegreatcoursesplus.com/hand-applied-finishing",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "hand-applied-finishing",
+      externalLink: "https://www.thegreatcoursesplus.com/hand-applied-finishing",
+    },
+  ],
 } as const satisfies GreatCourse

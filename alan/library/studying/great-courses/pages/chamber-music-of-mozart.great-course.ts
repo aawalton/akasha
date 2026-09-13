@@ -10,7 +10,11 @@ export const chamberMusicOfMozart = {
   ownLength: 735.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],
-  source: "the-great-courses",
-  externalId: "chamber-music-of-mozart",
-  externalLink: "https://www.thegreatcoursesplus.com/chamber-music-of-mozart",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "chamber-music-of-mozart",
+      externalLink: "https://www.thegreatcoursesplus.com/chamber-music-of-mozart",
+    },
+  ],
 } as const satisfies GreatCourse

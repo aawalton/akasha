@@ -11,7 +11,11 @@ export const aNewHistoryOfTheAmericanSouth = {
   ownLength: 652.8,
   ownProgress: 652.8,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "a-new-history-of-the-american-south",
-  externalLink: "https://www.thegreatcoursesplus.com/a-new-history-of-the-american-south",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "a-new-history-of-the-american-south",
+      externalLink: "https://www.thegreatcoursesplus.com/a-new-history-of-the-american-south",
+    },
+  ],
 } as const satisfies GreatCourse

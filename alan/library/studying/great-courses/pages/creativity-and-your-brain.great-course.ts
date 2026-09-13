@@ -14,7 +14,11 @@ export const creativityAndYourBrain = {
     "hobby-and-personal-pursuits-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "creativity-and-your-brain",
-  externalLink: "https://www.thegreatcoursesplus.com/creativity-and-your-brain",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "creativity-and-your-brain",
+      externalLink: "https://www.thegreatcoursesplus.com/creativity-and-your-brain",
+    },
+  ],
 } as const satisfies GreatCourse

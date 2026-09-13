@@ -10,8 +10,12 @@ export const historyOfRussiaFromPeterTheGreatToGorbachev = {
   ownLength: 1114.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "history-of-russia-from-peter-the-great-to-gorbachev",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/history-of-russia-from-peter-the-great-to-gorbachev",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "history-of-russia-from-peter-the-great-to-gorbachev",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/history-of-russia-from-peter-the-great-to-gorbachev",
+    },
+  ],
 } as const satisfies GreatCourse

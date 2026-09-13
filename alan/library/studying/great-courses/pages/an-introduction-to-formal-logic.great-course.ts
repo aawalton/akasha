@@ -16,7 +16,11 @@ export const anIntroductionToFormalLogic = {
     "mathematics-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "an-introduction-to-formal-logic",
-  externalLink: "https://www.thegreatcoursesplus.com/an-introduction-to-formal-logic",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "an-introduction-to-formal-logic",
+      externalLink: "https://www.thegreatcoursesplus.com/an-introduction-to-formal-logic",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -15,8 +15,12 @@ export const aChildrenSGuideToFolkloreAndWonderTales = {
     "hobby-and-personal-pursuits-great-courses",
     "literature-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "a-childrens-guide-to-folklore-and-wonder-tales",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/a-childrens-guide-to-folklore-and-wonder-tales",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "a-childrens-guide-to-folklore-and-wonder-tales",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/a-childrens-guide-to-folklore-and-wonder-tales",
+    },
+  ],
 } as const satisfies GreatCourse

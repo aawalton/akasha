@@ -15,7 +15,11 @@ export const americaAndTheNewGlobalEconomy = {
     "business-and-finance-great-courses",
     "history-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "america-and-the-new-global-economy",
-  externalLink: "https://www.thegreatcoursesplus.com/america-and-the-new-global-economy",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "america-and-the-new-global-economy",
+      externalLink: "https://www.thegreatcoursesplus.com/america-and-the-new-global-economy",
+    },
+  ],
 } as const satisfies GreatCourse

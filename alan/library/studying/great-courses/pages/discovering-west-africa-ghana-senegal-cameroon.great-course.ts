@@ -11,8 +11,12 @@ export const discoveringWestAfricaGhanaSenegalCameroon = {
   ownLength: 247.8,
   ownProgress: 247.8,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
-  source: "the-great-courses",
-  externalId: "discovering-west-africa-ghana-senegal-cameroon",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/discovering-west-africa-ghana-senegal-cameroon",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "discovering-west-africa-ghana-senegal-cameroon",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/discovering-west-africa-ghana-senegal-cameroon",
+    },
+  ],
 } as const satisfies GreatCourse

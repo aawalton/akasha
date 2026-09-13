@@ -10,7 +10,11 @@ export const enBuscaDeCeroEmisionesDeCarbono = {
   ownLength: 1,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "en-busca-de-cero-emisiones-de-carbono",
-  externalLink: "https://plus.thegreatcourses.com/en-busca-de-cero-emisiones-de-carbono",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "en-busca-de-cero-emisiones-de-carbono",
+      externalLink: "https://plus.thegreatcourses.com/en-busca-de-cero-emisiones-de-carbono",
+    },
+  ],
 } as const satisfies GreatCourse

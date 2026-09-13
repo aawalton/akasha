@@ -10,7 +10,11 @@ export const extremeOffendersPsychologicalInsights = {
   ownLength: 428.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "extreme-offenders-psychological-insights",
-  externalLink: "https://www.thegreatcoursesplus.com/extreme-offenders-psychological-insights",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "extreme-offenders-psychological-insights",
+      externalLink: "https://www.thegreatcoursesplus.com/extreme-offenders-psychological-insights",
+    },
+  ],
 } as const satisfies GreatCourse

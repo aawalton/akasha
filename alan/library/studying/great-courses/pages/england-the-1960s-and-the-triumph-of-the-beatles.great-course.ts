@@ -11,8 +11,12 @@ export const englandThe1960sAndTheTriumphOfTheBeatles = {
   ownLength: 310.2,
   ownProgress: 310.2,
   partOfCollections: ["all-great-courses", "history-great-courses", "music-great-courses"],
-  source: "the-great-courses",
-  externalId: "england-the-1960s-and-the-triumph-of-the-beatles",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/england-the-1960s-and-the-triumph-of-the-beatles",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "england-the-1960s-and-the-triumph-of-the-beatles",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/england-the-1960s-and-the-triumph-of-the-beatles",
+    },
+  ],
 } as const satisfies GreatCourse

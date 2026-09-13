@@ -15,8 +15,12 @@ export const academyOfHopeTakingOnAmericaSAdultEducationProblem = {
     "hobby-and-personal-pursuits-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "academy-of-hope-taking-on-america-s-adult-education-problem",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/academy-of-hope-taking-on-america-s-adult-education-problem",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "academy-of-hope-taking-on-america-s-adult-education-problem",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/academy-of-hope-taking-on-america-s-adult-education-problem",
+    },
+  ],
 } as const satisfies GreatCourse

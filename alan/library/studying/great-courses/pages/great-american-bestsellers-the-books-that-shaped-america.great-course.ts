@@ -10,8 +10,12 @@ export const greatAmericanBestsellersTheBooksThatShapedAmerica = {
   ownLength: 740.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-american-bestsellers-the-books-that-shaped-america",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/great-american-bestsellers-the-books-that-shaped-america",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-american-bestsellers-the-books-that-shaped-america",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/great-american-bestsellers-the-books-that-shaped-america",
+    },
+  ],
 } as const satisfies GreatCourse

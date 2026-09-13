@@ -11,7 +11,11 @@ export const askTheExpert = {
   ownLength: 52.8,
   ownProgress: 52.8,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "ask-the-expert",
-  externalLink: "https://www.thegreatcoursesplus.com/ask-the-expert",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "ask-the-expert",
+      externalLink: "https://www.thegreatcoursesplus.com/ask-the-expert",
+    },
+  ],
 } as const satisfies GreatCourse

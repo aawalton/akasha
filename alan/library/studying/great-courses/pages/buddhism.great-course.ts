@@ -10,7 +10,11 @@ export const buddhism = {
   ownLength: 746.4,
   ownProgress: 62.2,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "buddhism",
-  externalLink: "https://www.thegreatcoursesplus.com/buddhism",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "buddhism",
+      externalLink: "https://www.thegreatcoursesplus.com/buddhism",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -11,7 +11,11 @@ export const advancedFlakyFrenchPastries = {
   ownLength: 135.2,
   ownProgress: 135.2,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "advanced-flaky-french-pastries",
-  externalLink: "https://www.thegreatcoursesplus.com/advanced-flaky-french-pastries",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "advanced-flaky-french-pastries",
+      externalLink: "https://www.thegreatcoursesplus.com/advanced-flaky-french-pastries",
+    },
+  ],
 } as const satisfies GreatCourse

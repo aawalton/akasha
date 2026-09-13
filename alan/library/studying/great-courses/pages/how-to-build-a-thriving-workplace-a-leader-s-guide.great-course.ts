@@ -15,8 +15,12 @@ export const howToBuildAThrivingWorkplaceALeaderSGuide = {
     "hobby-and-personal-pursuits-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-to-build-a-thriving-workplace-a-leaders-guide",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/how-to-build-a-thriving-workplace-a-leaders-guide",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-build-a-thriving-workplace-a-leaders-guide",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/how-to-build-a-thriving-workplace-a-leaders-guide",
+    },
+  ],
 } as const satisfies GreatCourse

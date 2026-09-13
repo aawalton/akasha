@@ -10,7 +10,11 @@ export const howTheStockMarketWorks = {
   ownLength: 555,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-the-stock-market-works",
-  externalLink: "https://www.thegreatcoursesplus.com/how-the-stock-market-works",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-the-stock-market-works",
+      externalLink: "https://www.thegreatcoursesplus.com/how-the-stock-market-works",
+    },
+  ],
 } as const satisfies GreatCourse

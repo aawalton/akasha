@@ -10,7 +10,11 @@ export const greatMastersMozartHisLifeAndMusic = {
   ownLength: 369,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-masters-mozarthis-life-and-music",
-  externalLink: "https://www.thegreatcoursesplus.com/great-masters-mozarthis-life-and-music",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-masters-mozarthis-life-and-music",
+      externalLink: "https://www.thegreatcoursesplus.com/great-masters-mozarthis-life-and-music",
+    },
+  ],
 } as const satisfies GreatCourse

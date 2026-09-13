@@ -10,8 +10,13 @@ export const biologyAndHumanBehaviorTheNeurologicalOriginsOfIndividuality2 = {
   ownLength: 731.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "biology-and-human-behavior-the-neurological-origins-of-individuality-2nd-edition",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/biology-and-human-behavior-the-neurological-origins-of-individuality-2nd-edition",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId:
+        "biology-and-human-behavior-the-neurological-origins-of-individuality-2nd-edition",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/biology-and-human-behavior-the-neurological-origins-of-individuality-2nd-edition",
+    },
+  ],
 } as const satisfies GreatCourse

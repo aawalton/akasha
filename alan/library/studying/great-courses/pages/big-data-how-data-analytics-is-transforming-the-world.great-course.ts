@@ -16,8 +16,12 @@ export const bigDataHowDataAnalyticsIsTransformingTheWorld = {
     "professional-growth-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "big-data-how-data-analytics-is-transforming-the-world",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/big-data-how-data-analytics-is-transforming-the-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "big-data-how-data-analytics-is-transforming-the-world",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/big-data-how-data-analytics-is-transforming-the-world",
+    },
+  ],
 } as const satisfies GreatCourse

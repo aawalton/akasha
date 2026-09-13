@@ -14,8 +14,12 @@ export const howTheWorldLearnsComparativeEducationalSystems = {
     "professional-growth-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-the-world-learns-comparative-educational-systems",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/how-the-world-learns-comparative-educational-systems",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-the-world-learns-comparative-educational-systems",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/how-the-world-learns-comparative-educational-systems",
+    },
+  ],
 } as const satisfies GreatCourse

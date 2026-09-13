@@ -14,7 +14,11 @@ export const gettingYourLegalHouseInOrder = {
     "hobby-and-personal-pursuits-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "getting-your-legal-house-in-order",
-  externalLink: "https://www.thegreatcoursesplus.com/getting-your-legal-house-in-order",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "getting-your-legal-house-in-order",
+      externalLink: "https://www.thegreatcoursesplus.com/getting-your-legal-house-in-order",
+    },
+  ],
 } as const satisfies GreatCourse

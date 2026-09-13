@@ -10,8 +10,12 @@ export const howTheSpanishCivilWarBecameEuropeSBattlefield = {
   ownLength: 704.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-the-spanish-civil-war-became-europe-s-battlefield",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/how-the-spanish-civil-war-became-europe-s-battlefield",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-the-spanish-civil-war-became-europe-s-battlefield",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/how-the-spanish-civil-war-became-europe-s-battlefield",
+    },
+  ],
 } as const satisfies GreatCourse

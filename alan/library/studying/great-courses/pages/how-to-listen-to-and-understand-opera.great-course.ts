@@ -10,7 +10,11 @@ export const howToListenToAndUnderstandOpera = {
   ownLength: 1464.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-to-listen-to-and-understand-opera",
-  externalLink: "https://www.thegreatcoursesplus.com/how-to-listen-to-and-understand-opera",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-listen-to-and-understand-opera",
+      externalLink: "https://www.thegreatcoursesplus.com/how-to-listen-to-and-understand-opera",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -15,7 +15,12 @@ export const cognitiveBehavioralTherapyForDailyLife = {
     "professional-growth-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "cognitive-behavioral-therapy-for-daily-life",
-  externalLink: "https://www.thegreatcoursesplus.com/cognitive-behavioral-therapy-for-daily-life",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "cognitive-behavioral-therapy-for-daily-life",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/cognitive-behavioral-therapy-for-daily-life",
+    },
+  ],
 } as const satisfies GreatCourse

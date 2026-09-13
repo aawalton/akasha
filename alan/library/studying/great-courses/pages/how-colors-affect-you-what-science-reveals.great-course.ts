@@ -15,7 +15,12 @@ export const howColorsAffectYouWhatScienceReveals = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-colors-affect-you-what-science-reveals",
-  externalLink: "https://www.thegreatcoursesplus.com/how-colors-affect-you-what-science-reveals",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-colors-affect-you-what-science-reveals",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/how-colors-affect-you-what-science-reveals",
+    },
+  ],
 } as const satisfies GreatCourse

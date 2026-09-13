@@ -11,7 +11,11 @@ export const airFryerEssentials = {
   ownLength: 87.6,
   ownProgress: 87.6,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "air-fryer-essentials",
-  externalLink: "https://www.thegreatcoursesplus.com/air-fryer-essentials",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "air-fryer-essentials",
+      externalLink: "https://www.thegreatcoursesplus.com/air-fryer-essentials",
+    },
+  ],
 } as const satisfies GreatCourse

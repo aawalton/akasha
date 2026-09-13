@@ -10,7 +10,11 @@ export const exploringTheRootsOfReligion = {
   ownLength: 1098.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "exploring-the-roots-of-religion",
-  externalLink: "https://www.thegreatcoursesplus.com/exploring-the-roots-of-religion",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "exploring-the-roots-of-religion",
+      externalLink: "https://www.thegreatcoursesplus.com/exploring-the-roots-of-religion",
+    },
+  ],
 } as const satisfies GreatCourse

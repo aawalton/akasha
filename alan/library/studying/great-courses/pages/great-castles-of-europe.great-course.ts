@@ -10,7 +10,11 @@ export const greatCastlesOfEurope = {
   ownLength: 767.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-castles-of-europe",
-  externalLink: "https://www.thegreatcoursesplus.com/great-castles-of-europe",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-castles-of-europe",
+      externalLink: "https://www.thegreatcoursesplus.com/great-castles-of-europe",
+    },
+  ],
 } as const satisfies GreatCourse

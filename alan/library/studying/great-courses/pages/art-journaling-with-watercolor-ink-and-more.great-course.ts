@@ -15,7 +15,11 @@ export const artJournalingWithWatercolorInkAndMore = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "art-journaling-with-watercolor-ink-more",
-  externalLink: "https://www.thegreatcoursesplus.com/art-journaling-with-watercolor-ink-more",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "art-journaling-with-watercolor-ink-more",
+      externalLink: "https://www.thegreatcoursesplus.com/art-journaling-with-watercolor-ink-more",
+    },
+  ],
 } as const satisfies GreatCourse

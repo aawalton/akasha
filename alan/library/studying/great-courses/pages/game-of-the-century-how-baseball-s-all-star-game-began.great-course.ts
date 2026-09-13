@@ -15,8 +15,12 @@ export const gameOfTheCenturyHowBaseballSAllStarGameBegan = {
     "history-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "game-of-the-century-how-baseballs-all-star-game-began",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/game-of-the-century-how-baseballs-all-star-game-began",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "game-of-the-century-how-baseballs-all-star-game-began",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/game-of-the-century-how-baseballs-all-star-game-began",
+    },
+  ],
 } as const satisfies GreatCourse

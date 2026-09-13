@@ -11,7 +11,11 @@ export const cookingAcrossTheAges = {
   ownLength: 791.4,
   ownProgress: 791.4,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
-  source: "the-great-courses",
-  externalId: "cooking-across-the-ages",
-  externalLink: "https://www.thegreatcoursesplus.com/cooking-across-the-ages",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "cooking-across-the-ages",
+      externalLink: "https://www.thegreatcoursesplus.com/cooking-across-the-ages",
+    },
+  ],
 } as const satisfies GreatCourse

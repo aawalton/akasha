@@ -10,7 +10,12 @@ export const classicalArchaeologyOfAncientGreeceAndRome = {
   ownLength: 36,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "classical-archaeology-of-ancient-greece-and-rome",
-  externalLink: "https://plus.thegreatcourses.com/classical-archaeology-of-ancient-greece-and-rome",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "classical-archaeology-of-ancient-greece-and-rome",
+      externalLink:
+        "https://plus.thegreatcourses.com/classical-archaeology-of-ancient-greece-and-rome",
+    },
+  ],
 } as const satisfies GreatCourse

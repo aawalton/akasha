@@ -10,7 +10,11 @@ export const fieldGuideToNorthAmericanWildlife = {
   ownLength: 335.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "field-guide-to-north-american-wildlife",
-  externalLink: "https://www.thegreatcoursesplus.com/field-guide-to-north-american-wildlife",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "field-guide-to-north-american-wildlife",
+      externalLink: "https://www.thegreatcoursesplus.com/field-guide-to-north-american-wildlife",
+    },
+  ],
 } as const satisfies GreatCourse

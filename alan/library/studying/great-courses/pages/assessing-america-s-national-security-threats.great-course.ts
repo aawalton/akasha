@@ -11,7 +11,12 @@ export const assessingAmericaSNationalSecurityThreats = {
   ownLength: 282.6,
   ownProgress: 282.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "assessing-america-s-national-security-threats",
-  externalLink: "https://www.thegreatcoursesplus.com/assessing-america-s-national-security-threats",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "assessing-america-s-national-security-threats",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/assessing-america-s-national-security-threats",
+    },
+  ],
 } as const satisfies GreatCourse

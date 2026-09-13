@@ -11,8 +11,12 @@ export const improveYourPaintingsLuminousWatercolorMixing = {
   ownLength: 119.4,
   ownProgress: 119.4,
   partOfCollections: ["all-great-courses", "art-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-to-improve-your-paintings-luminous-watercolor-mixing",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/how-to-improve-your-paintings-luminous-watercolor-mixing",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-improve-your-paintings-luminous-watercolor-mixing",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/how-to-improve-your-paintings-luminous-watercolor-mixing",
+    },
+  ],
 } as const satisfies GreatCourse

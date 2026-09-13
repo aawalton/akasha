@@ -11,7 +11,11 @@ export const classicCakesFromBakedBakery = {
   ownLength: 111.616667,
   ownProgress: 111.616667,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "classic-cakes-from-baked-bakery",
-  externalLink: "https://www.thegreatcoursesplus.com/classic-cakes-from-baked-bakery",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "classic-cakes-from-baked-bakery",
+      externalLink: "https://www.thegreatcoursesplus.com/classic-cakes-from-baked-bakery",
+    },
+  ],
 } as const satisfies GreatCourse

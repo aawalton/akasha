@@ -11,8 +11,12 @@ export const africanAmericanHistoryFromEmancipationThroughJimCrow = {
   ownLength: 418.8,
   ownProgress: 418.8,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "african-american-history-from-emancipation-through-jim-crow",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/african-american-history-from-emancipation-through-jim-crow",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "african-american-history-from-emancipation-through-jim-crow",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/african-american-history-from-emancipation-through-jim-crow",
+    },
+  ],
 } as const satisfies GreatCourse

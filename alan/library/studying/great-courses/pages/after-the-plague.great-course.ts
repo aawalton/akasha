@@ -11,7 +11,11 @@ export const afterThePlague = {
   ownLength: 627.6,
   ownProgress: 627.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "after-the-plague",
-  externalLink: "https://www.thegreatcoursesplus.com/after-the-plague",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "after-the-plague",
+      externalLink: "https://www.thegreatcoursesplus.com/after-the-plague",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -11,7 +11,11 @@ export const aNewHistoryOfLife = {
   ownLength: 1069.2,
   ownProgress: 1069.2,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "a-new-history-of-life",
-  externalLink: "https://www.thegreatcoursesplus.com/a-new-history-of-life",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "a-new-history-of-life",
+      externalLink: "https://www.thegreatcoursesplus.com/a-new-history-of-life",
+    },
+  ],
 } as const satisfies GreatCourse

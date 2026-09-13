@@ -10,7 +10,11 @@ export const bakingBootCampCakesAndCrusts = {
   ownLength: 171.6,
   ownProgress: 171.6,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "baking-boot-camp-cakes-crusts",
-  externalLink: "https://www.thegreatcoursesplus.com/baking-boot-camp-cakes-crusts",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "baking-boot-camp-cakes-crusts",
+      externalLink: "https://www.thegreatcoursesplus.com/baking-boot-camp-cakes-crusts",
+    },
+  ],
 } as const satisfies GreatCourse

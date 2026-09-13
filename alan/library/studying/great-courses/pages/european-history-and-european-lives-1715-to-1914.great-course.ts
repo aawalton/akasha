@@ -10,8 +10,12 @@ export const europeanHistoryAndEuropeanLives1715To1914 = {
   ownLength: 1107.133333,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "european-history-and-european-lives-1715-to-1914",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/european-history-and-european-lives-1715-to-1914",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "european-history-and-european-lives-1715-to-1914",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/european-history-and-european-lives-1715-to-1914",
+    },
+  ],
 } as const satisfies GreatCourse

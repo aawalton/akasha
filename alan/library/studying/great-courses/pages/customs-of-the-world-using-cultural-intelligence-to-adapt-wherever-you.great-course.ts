@@ -15,8 +15,12 @@ export const customsOfTheWorldUsingCulturalIntelligenceToAdaptWhereverYou = {
     "professional-growth-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "customs-of-the-world-using-cultural-intelligence-to-adapt-wherever-you-are",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/customs-of-the-world-using-cultural-intelligence-to-adapt-wherever-you-are",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "customs-of-the-world-using-cultural-intelligence-to-adapt-wherever-you-are",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/customs-of-the-world-using-cultural-intelligence-to-adapt-wherever-you-are",
+    },
+  ],
 } as const satisfies GreatCourse

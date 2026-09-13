@@ -14,8 +14,12 @@ export const historyOfTheBibleTheMakingOfTheNewTestamentCanon = {
     "literature-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "history-of-the-bible-the-making-of-the-new-testament-canon",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/history-of-the-bible-the-making-of-the-new-testament-canon",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "history-of-the-bible-the-making-of-the-new-testament-canon",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/history-of-the-bible-the-making-of-the-new-testament-canon",
+    },
+  ],
 } as const satisfies GreatCourse

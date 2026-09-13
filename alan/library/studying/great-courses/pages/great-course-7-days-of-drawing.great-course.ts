@@ -15,7 +15,11 @@ export const greatCourse7DaysOfDrawing = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "7-days-of-drawing",
-  externalLink: "https://www.thegreatcoursesplus.com/7-days-of-drawing",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "7-days-of-drawing",
+      externalLink: "https://www.thegreatcoursesplus.com/7-days-of-drawing",
+    },
+  ],
 } as const satisfies GreatCourse

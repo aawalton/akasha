@@ -14,7 +14,11 @@ export const essentialsOfTaiChiAndQigong = {
     "health-and-mindfulness-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "essentials-of-tai-chi-and-qigong",
-  externalLink: "https://www.thegreatcoursesplus.com/essentials-of-tai-chi-and-qigong",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "essentials-of-tai-chi-and-qigong",
+      externalLink: "https://www.thegreatcoursesplus.com/essentials-of-tai-chi-and-qigong",
+    },
+  ],
 } as const satisfies GreatCourse

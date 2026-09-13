@@ -10,8 +10,12 @@ export const earlyModernPhilosophyDescartesAndTheRationalists = {
   ownLength: 375.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "early-modern-philosophy-descartes-and-the-rationalists",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/early-modern-philosophy-descartes-and-the-rationalists",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "early-modern-philosophy-descartes-and-the-rationalists",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/early-modern-philosophy-descartes-and-the-rationalists",
+    },
+  ],
 } as const satisfies GreatCourse

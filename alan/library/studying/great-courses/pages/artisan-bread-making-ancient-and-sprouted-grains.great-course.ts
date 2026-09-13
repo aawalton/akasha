@@ -11,7 +11,12 @@ export const artisanBreadMakingAncientAndSproutedGrains = {
   ownLength: 147,
   ownProgress: 147,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "artisan-bread-making-ancient-sprouted-grains",
-  externalLink: "https://www.thegreatcoursesplus.com/artisan-bread-making-ancient-sprouted-grains",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "artisan-bread-making-ancient-sprouted-grains",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/artisan-bread-making-ancient-sprouted-grains",
+    },
+  ],
 } as const satisfies GreatCourse

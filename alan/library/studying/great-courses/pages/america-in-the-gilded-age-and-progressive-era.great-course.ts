@@ -11,7 +11,12 @@ export const americaInTheGildedAgeAndProgressiveEra = {
   ownLength: 729,
   ownProgress: 729,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
-  source: "the-great-courses",
-  externalId: "america-in-the-gilded-age-and-progressive-era",
-  externalLink: "https://www.thegreatcoursesplus.com/america-in-the-gilded-age-and-progressive-era",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "america-in-the-gilded-age-and-progressive-era",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/america-in-the-gilded-age-and-progressive-era",
+    },
+  ],
 } as const satisfies GreatCourse

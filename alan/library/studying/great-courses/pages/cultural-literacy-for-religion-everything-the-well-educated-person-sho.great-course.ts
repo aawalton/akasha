@@ -14,8 +14,12 @@ export const culturalLiteracyForReligionEverythingTheWellEducatedPersonSho = {
     "learning-paths-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "cultural-literacy-for-religion-everything-the-well-educated-person-should-know",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/cultural-literacy-for-religion-everything-the-well-educated-person-should-know",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "cultural-literacy-for-religion-everything-the-well-educated-person-should-know",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/cultural-literacy-for-religion-everything-the-well-educated-person-should-know",
+    },
+  ],
 } as const satisfies GreatCourse

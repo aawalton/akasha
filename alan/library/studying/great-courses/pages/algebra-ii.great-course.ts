@@ -15,7 +15,11 @@ export const algebraIi = {
     "learning-paths-great-courses",
     "mathematics-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "algebra-ii",
-  externalLink: "https://www.thegreatcoursesplus.com/algebra-ii",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "algebra-ii",
+      externalLink: "https://www.thegreatcoursesplus.com/algebra-ii",
+    },
+  ],
 } as const satisfies GreatCourse

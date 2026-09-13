@@ -11,7 +11,11 @@ export const inTheFootstepsOfVincentVanGogh = {
   ownLength: 339.6,
   ownProgress: 339.6,
   partOfCollections: ["all-great-courses", "art-great-courses"],
-  source: "the-great-courses",
-  externalId: "in-the-footsteps-of-vincent-van-gogh",
-  externalLink: "https://www.thegreatcoursesplus.com/in-the-footsteps-of-vincent-van-gogh",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "in-the-footsteps-of-vincent-van-gogh",
+      externalLink: "https://www.thegreatcoursesplus.com/in-the-footsteps-of-vincent-van-gogh",
+    },
+  ],
 } as const satisfies GreatCourse

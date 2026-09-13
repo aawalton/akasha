@@ -11,8 +11,12 @@ export const greatCourse12RevolutionaryDiscoveriesThatCouldChangeEverything = {
   ownLength: 225,
   ownProgress: 225,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "12-revolutionary-discoveries-that-could-change-everything",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/12-revolutionary-discoveries-that-could-change-everything",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "12-revolutionary-discoveries-that-could-change-everything",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/12-revolutionary-discoveries-that-could-change-everything",
+    },
+  ],
 } as const satisfies GreatCourse

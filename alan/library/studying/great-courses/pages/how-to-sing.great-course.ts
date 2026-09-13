@@ -14,7 +14,11 @@ export const howToSing = {
     "hobby-and-personal-pursuits-great-courses",
     "music-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-to-sing",
-  externalLink: "https://www.thegreatcoursesplus.com/how-to-sing",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-sing",
+      externalLink: "https://www.thegreatcoursesplus.com/how-to-sing",
+    },
+  ],
 } as const satisfies GreatCourse

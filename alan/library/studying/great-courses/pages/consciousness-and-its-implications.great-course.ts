@@ -10,7 +10,11 @@ export const consciousnessAndItsImplications = {
   ownLength: 364.433333,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "consciousness-and-its-implications",
-  externalLink: "https://www.thegreatcoursesplus.com/consciousness-and-its-implications",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "consciousness-and-its-implications",
+      externalLink: "https://www.thegreatcoursesplus.com/consciousness-and-its-implications",
+    },
+  ],
 } as const satisfies GreatCourse

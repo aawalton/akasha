@@ -11,7 +11,11 @@ export const greatCourse30MasterpiecesOfTheAncientWorld = {
   ownLength: 1117.8,
   ownProgress: 1117.8,
   partOfCollections: ["all-great-courses", "art-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "30-masterpieces-of-the-ancient-world",
-  externalLink: "https://www.thegreatcoursesplus.com/30-masterpieces-of-the-ancient-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "30-masterpieces-of-the-ancient-world",
+      externalLink: "https://www.thegreatcoursesplus.com/30-masterpieces-of-the-ancient-world",
+    },
+  ],
 } as const satisfies GreatCourse

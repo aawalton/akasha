@@ -11,8 +11,12 @@ export const flavorComesFirstHealthyMealsThatTasteDelicious = {
   ownLength: 123,
   ownProgress: 123,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "flavor-comes-first-healthy-meals-that-taste-delicious",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/flavor-comes-first-healthy-meals-that-taste-delicious",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "flavor-comes-first-healthy-meals-that-taste-delicious",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/flavor-comes-first-healthy-meals-that-taste-delicious",
+    },
+  ],
 } as const satisfies GreatCourse

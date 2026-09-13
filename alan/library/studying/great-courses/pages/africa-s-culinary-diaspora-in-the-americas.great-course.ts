@@ -11,7 +11,12 @@ export const africaSCulinaryDiasporaInTheAmericas = {
   ownLength: 289.8,
   ownProgress: 289.8,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
-  source: "the-great-courses",
-  externalId: "africa-s-culinary-diaspora-in-the-americas",
-  externalLink: "https://www.thegreatcoursesplus.com/africa-s-culinary-diaspora-in-the-americas",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "africa-s-culinary-diaspora-in-the-americas",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/africa-s-culinary-diaspora-in-the-americas",
+    },
+  ],
 } as const satisfies GreatCourse

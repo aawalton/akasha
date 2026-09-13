@@ -11,7 +11,11 @@ export const deliciousDishesForEveryTaste = {
   ownLength: 131.4,
   ownProgress: 131.4,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
-  source: "the-great-courses",
-  externalId: "delicious-dishes-for-every-taste",
-  externalLink: "https://www.thegreatcoursesplus.com/delicious-dishes-for-every-taste",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "delicious-dishes-for-every-taste",
+      externalLink: "https://www.thegreatcoursesplus.com/delicious-dishes-for-every-taste",
+    },
+  ],
 } as const satisfies GreatCourse

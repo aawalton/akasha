@@ -14,8 +14,12 @@ export const howYouDecideTheScienceOfHumanDecisionMaking = {
     "professional-growth-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-you-decide-the-science-of-human-decision-making",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/how-you-decide-the-science-of-human-decision-making",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-you-decide-the-science-of-human-decision-making",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/how-you-decide-the-science-of-human-decision-making",
+    },
+  ],
 } as const satisfies GreatCourse

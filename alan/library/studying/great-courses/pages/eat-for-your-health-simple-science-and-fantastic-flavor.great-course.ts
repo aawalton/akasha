@@ -11,8 +11,12 @@ export const eatForYourHealthSimpleScienceAndFantasticFlavor = {
   ownLength: 420,
   ownProgress: 420,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
-  source: "the-great-courses",
-  externalId: "eat-for-your-health-simple-science-and-fantastic-flavor",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/eat-for-your-health-simple-science-and-fantastic-flavor",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "eat-for-your-health-simple-science-and-fantastic-flavor",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/eat-for-your-health-simple-science-and-fantastic-flavor",
+    },
+  ],
 } as const satisfies GreatCourse

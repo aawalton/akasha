@@ -11,7 +11,11 @@ export const fittingSoloFromMeasurementsToMuslin = {
   ownLength: 141.6,
   ownProgress: 141.6,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "fitting-solo-from-measurements-to-muslin",
-  externalLink: "https://www.thegreatcoursesplus.com/fitting-solo-from-measurements-to-muslin",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "fitting-solo-from-measurements-to-muslin",
+      externalLink: "https://www.thegreatcoursesplus.com/fitting-solo-from-measurements-to-muslin",
+    },
+  ],
 } as const satisfies GreatCourse

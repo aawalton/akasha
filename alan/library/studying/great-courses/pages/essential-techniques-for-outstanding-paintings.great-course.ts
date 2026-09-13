@@ -11,8 +11,12 @@ export const essentialTechniquesForOutstandingPaintings = {
   ownLength: 118.8,
   ownProgress: 118.8,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "essential-techniques-for-outstanding-paintings",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/essential-techniques-for-outstanding-paintings",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "essential-techniques-for-outstanding-paintings",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/essential-techniques-for-outstanding-paintings",
+    },
+  ],
 } as const satisfies GreatCourse

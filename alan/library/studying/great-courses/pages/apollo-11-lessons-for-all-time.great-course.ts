@@ -15,7 +15,11 @@ export const apollo11LessonsForAllTime = {
     "history-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "apollo-11-lessons-for-all-time",
-  externalLink: "https://www.thegreatcoursesplus.com/apollo-11-lessons-for-all-time",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "apollo-11-lessons-for-all-time",
+      externalLink: "https://www.thegreatcoursesplus.com/apollo-11-lessons-for-all-time",
+    },
+  ],
 } as const satisfies GreatCourse

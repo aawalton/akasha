@@ -11,8 +11,12 @@ export const ancientWritingAndTheHistoryOfTheAlphabet = {
   ownLength: 381,
   ownProgress: 381,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "ancient-writing-and-the-history-of-the-alphabet",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/ancient-writing-and-the-history-of-the-alphabet",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "ancient-writing-and-the-history-of-the-alphabet",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/ancient-writing-and-the-history-of-the-alphabet",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const booksThatMatterMeditations = {
   ownLength: 362.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "books-that-matter-meditations",
-  externalLink: "https://www.thegreatcoursesplus.com/books-that-matter-meditations",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "books-that-matter-meditations",
+      externalLink: "https://www.thegreatcoursesplus.com/books-that-matter-meditations",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -14,7 +14,11 @@ export const howToPlayTheViolin = {
     "hobby-and-personal-pursuits-great-courses",
     "music-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-to-play-the-violin",
-  externalLink: "https://www.thegreatcoursesplus.com/how-to-play-the-violin",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-play-the-violin",
+      externalLink: "https://www.thegreatcoursesplus.com/how-to-play-the-violin",
+    },
+  ],
 } as const satisfies GreatCourse

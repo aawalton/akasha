@@ -10,8 +10,12 @@ export const effectiveEditingHowToTakeYourWritingToTheNextLevel = {
   ownLength: 318.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "effective-editing-how-to-take-your-writing-to-the-next-level",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/effective-editing-how-to-take-your-writing-to-the-next-level",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "effective-editing-how-to-take-your-writing-to-the-next-level",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/effective-editing-how-to-take-your-writing-to-the-next-level",
+    },
+  ],
 } as const satisfies GreatCourse

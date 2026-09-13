@@ -11,8 +11,12 @@ export const historyOfTheAncientWorldAGlobalPerspective = {
   ownLength: 1462.2,
   ownProgress: 1462.2,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "history-of-the-ancient-world-a-global-perspective",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/history-of-the-ancient-world-a-global-perspective",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "history-of-the-ancient-world-a-global-perspective",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/history-of-the-ancient-world-a-global-perspective",
+    },
+  ],
 } as const satisfies GreatCourse

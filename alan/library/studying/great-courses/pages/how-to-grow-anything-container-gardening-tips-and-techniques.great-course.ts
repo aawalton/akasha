@@ -11,8 +11,12 @@ export const howToGrowAnythingContainerGardeningTipsAndTechniques = {
   ownLength: 185.4,
   ownProgress: 185.4,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-to-grow-anything-container-gardening-tips-techniques",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/how-to-grow-anything-container-gardening-tips-techniques",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-grow-anything-container-gardening-tips-techniques",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/how-to-grow-anything-container-gardening-tips-techniques",
+    },
+  ],
 } as const satisfies GreatCourse

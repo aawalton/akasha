@@ -16,7 +16,11 @@ export const greatMindsOfTheMedievalWorld = {
     "learning-paths-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "great-minds-of-the-medieval-world",
-  externalLink: "https://www.thegreatcoursesplus.com/great-minds-of-the-medieval-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-minds-of-the-medieval-world",
+      externalLink: "https://www.thegreatcoursesplus.com/great-minds-of-the-medieval-world",
+    },
+  ],
 } as const satisfies GreatCourse

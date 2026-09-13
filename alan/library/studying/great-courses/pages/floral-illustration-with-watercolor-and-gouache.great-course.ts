@@ -15,7 +15,12 @@ export const floralIllustrationWithWatercolorAndGouache = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "floral-illustration-with-watercolor-gouache",
-  externalLink: "https://www.thegreatcoursesplus.com/floral-illustration-with-watercolor-gouache",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "floral-illustration-with-watercolor-gouache",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/floral-illustration-with-watercolor-gouache",
+    },
+  ],
 } as const satisfies GreatCourse

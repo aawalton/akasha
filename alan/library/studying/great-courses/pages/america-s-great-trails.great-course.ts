@@ -11,7 +11,11 @@ export const americaSGreatTrails = {
   ownLength: 161.4,
   ownProgress: 161.4,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
-  source: "the-great-courses",
-  externalId: "america-s-great-trails",
-  externalLink: "https://www.thegreatcoursesplus.com/america-s-great-trails",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "america-s-great-trails",
+      externalLink: "https://www.thegreatcoursesplus.com/america-s-great-trails",
+    },
+  ],
 } as const satisfies GreatCourse

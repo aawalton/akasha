@@ -15,7 +15,11 @@ export const cakeLogisticsFromStartToFinish = {
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "cake-logistics-from-start-to-finish",
-  externalLink: "https://www.thegreatcoursesplus.com/cake-logistics-from-start-to-finish",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "cake-logistics-from-start-to-finish",
+      externalLink: "https://www.thegreatcoursesplus.com/cake-logistics-from-start-to-finish",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -15,7 +15,11 @@ export const bakeYourOwnBagelsBialysAndPretzels = {
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "bake-your-own-bagels-bialys-pretzels",
-  externalLink: "https://www.thegreatcoursesplus.com/bake-your-own-bagels-bialys-pretzels",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "bake-your-own-bagels-bialys-pretzels",
+      externalLink: "https://www.thegreatcoursesplus.com/bake-your-own-bagels-bialys-pretzels",
+    },
+  ],
 } as const satisfies GreatCourse

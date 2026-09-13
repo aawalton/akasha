@@ -10,7 +10,11 @@ export const greatWorldReligionsChristianity = {
   ownLength: 367.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-world-religions-christianity",
-  externalLink: "https://www.thegreatcoursesplus.com/great-world-religions-christianity",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-world-religions-christianity",
+      externalLink: "https://www.thegreatcoursesplus.com/great-world-religions-christianity",
+    },
+  ],
 } as const satisfies GreatCourse

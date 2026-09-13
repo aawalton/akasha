@@ -11,7 +11,11 @@ export const americaSBestStateParksForSummerFun = {
   ownLength: 10.2,
   ownProgress: 10.2,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
-  source: "the-great-courses",
-  externalId: "americas-best-state-parks-for-summer-fun",
-  externalLink: "https://www.thegreatcoursesplus.com/americas-best-state-parks-for-summer-fun",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "americas-best-state-parks-for-summer-fun",
+      externalLink: "https://www.thegreatcoursesplus.com/americas-best-state-parks-for-summer-fun",
+    },
+  ],
 } as const satisfies GreatCourse

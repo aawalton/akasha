@@ -10,8 +10,12 @@ export const hannibalTheMilitaryGeniusWhoAlmostConqueredRome = {
   ownLength: 515.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
-  source: "the-great-courses",
-  externalId: "hannibal-the-military-genius-who-almost-conquered-rome",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/hannibal-the-military-genius-who-almost-conquered-rome",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "hannibal-the-military-genius-who-almost-conquered-rome",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/hannibal-the-military-genius-who-almost-conquered-rome",
+    },
+  ],
 } as const satisfies GreatCourse

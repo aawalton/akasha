@@ -15,7 +15,11 @@ export const howToPlayPiano = {
     "hobby-and-personal-pursuits-great-courses",
     "music-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-to-play-piano",
-  externalLink: "https://www.thegreatcoursesplus.com/how-to-play-piano",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-play-piano",
+      externalLink: "https://www.thegreatcoursesplus.com/how-to-play-piano",
+    },
+  ],
 } as const satisfies GreatCourse

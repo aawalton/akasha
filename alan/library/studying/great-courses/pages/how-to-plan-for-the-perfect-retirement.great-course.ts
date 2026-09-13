@@ -14,7 +14,11 @@ export const howToPlanForThePerfectRetirement = {
     "business-and-finance-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-to-plan-for-the-perfect-retirement",
-  externalLink: "https://www.thegreatcoursesplus.com/how-to-plan-for-the-perfect-retirement",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-plan-for-the-perfect-retirement",
+      externalLink: "https://www.thegreatcoursesplus.com/how-to-plan-for-the-perfect-retirement",
+    },
+  ],
 } as const satisfies GreatCourse

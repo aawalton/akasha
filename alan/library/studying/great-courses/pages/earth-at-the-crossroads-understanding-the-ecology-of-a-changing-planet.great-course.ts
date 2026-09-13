@@ -10,8 +10,12 @@ export const earthAtTheCrossroadsUnderstandingTheEcologyOfAChangingPlanet = {
   ownLength: 1112.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "earth-at-the-crossroads-understanding-the-ecology-of-a-changing-planet",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/earth-at-the-crossroads-understanding-the-ecology-of-a-changing-planet",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "earth-at-the-crossroads-understanding-the-ecology-of-a-changing-planet",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/earth-at-the-crossroads-understanding-the-ecology-of-a-changing-planet",
+    },
+  ],
 } as const satisfies GreatCourse

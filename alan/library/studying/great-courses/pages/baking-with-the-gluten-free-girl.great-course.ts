@@ -11,7 +11,11 @@ export const bakingWithTheGlutenFreeGirl = {
   ownLength: 114.6,
   ownProgress: 114.6,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "baking-with-the-gluten-free-girl",
-  externalLink: "https://www.thegreatcoursesplus.com/baking-with-the-gluten-free-girl",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "baking-with-the-gluten-free-girl",
+      externalLink: "https://www.thegreatcoursesplus.com/baking-with-the-gluten-free-girl",
+    },
+  ],
 } as const satisfies GreatCourse

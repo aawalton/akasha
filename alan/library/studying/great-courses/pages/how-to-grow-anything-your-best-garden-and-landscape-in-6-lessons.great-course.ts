@@ -11,8 +11,12 @@ export const howToGrowAnythingYourBestGardenAndLandscapeIn6Lessons = {
   ownLength: 198.6,
   ownProgress: 198.6,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-to-grow-anything-your-best-garden-and-landscape-in-6-lessons",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/how-to-grow-anything-your-best-garden-and-landscape-in-6-lessons",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-grow-anything-your-best-garden-and-landscape-in-6-lessons",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/how-to-grow-anything-your-best-garden-and-landscape-in-6-lessons",
+    },
+  ],
 } as const satisfies GreatCourse

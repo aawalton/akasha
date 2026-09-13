@@ -10,8 +10,12 @@ export const buildingGreatSentencesExploringTheWriterSCraft = {
   ownLength: 740.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "building-great-sentences-exploring-the-writers-craft",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/building-great-sentences-exploring-the-writers-craft",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "building-great-sentences-exploring-the-writers-craft",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/building-great-sentences-exploring-the-writers-craft",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -14,7 +14,12 @@ export const effectiveResearchMethodsForAnyProject = {
     "business-and-finance-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "effective-research-methods-for-any-project",
-  externalLink: "https://www.thegreatcoursesplus.com/effective-research-methods-for-any-project",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "effective-research-methods-for-any-project",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/effective-research-methods-for-any-project",
+    },
+  ],
 } as const satisfies GreatCourse

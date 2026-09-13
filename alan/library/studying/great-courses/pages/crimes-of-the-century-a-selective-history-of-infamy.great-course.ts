@@ -10,8 +10,12 @@ export const crimesOfTheCenturyASelectiveHistoryOfInfamy = {
   ownLength: 333.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "crimes-of-the-century-a-selective-history-of-infamy",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/crimes-of-the-century-a-selective-history-of-infamy",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "crimes-of-the-century-a-selective-history-of-infamy",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/crimes-of-the-century-a-selective-history-of-infamy",
+    },
+  ],
 } as const satisfies GreatCourse

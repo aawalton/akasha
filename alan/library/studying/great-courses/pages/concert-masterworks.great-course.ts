@@ -10,7 +10,11 @@ export const concertMasterworks = {
   ownLength: 1479.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],
-  source: "the-great-courses",
-  externalId: "concert-masterworks",
-  externalLink: "https://www.thegreatcoursesplus.com/concert-masterworks",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "concert-masterworks",
+      externalLink: "https://www.thegreatcoursesplus.com/concert-masterworks",
+    },
+  ],
 } as const satisfies GreatCourse

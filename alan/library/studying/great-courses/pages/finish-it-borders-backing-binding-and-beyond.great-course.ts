@@ -11,7 +11,11 @@ export const finishItBordersBackingBindingAndBeyond = {
   ownLength: 171.6,
   ownProgress: 171.6,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "finish-it-borders-backing-binding-beyond",
-  externalLink: "https://www.thegreatcoursesplus.com/finish-it-borders-backing-binding-beyond",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "finish-it-borders-backing-binding-beyond",
+      externalLink: "https://www.thegreatcoursesplus.com/finish-it-borders-backing-binding-beyond",
+    },
+  ],
 } as const satisfies GreatCourse

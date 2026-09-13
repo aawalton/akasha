@@ -10,7 +10,11 @@ export const greatRiversThatShapedHistory = {
   ownLength: 24,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-rivers-that-shaped-history",
-  externalLink: "https://plus.thegreatcourses.com/great-rivers-that-shaped-history",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-rivers-that-shaped-history",
+      externalLink: "https://plus.thegreatcourses.com/great-rivers-that-shaped-history",
+    },
+  ],
 } as const satisfies GreatCourse

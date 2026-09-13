@@ -15,8 +15,12 @@ export const argumentationTheStudyOfEffectiveReasoning = {
     "philosophy-and-religion-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "argumentation-the-study-of-effective-reasoning",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/argumentation-the-study-of-effective-reasoning",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "argumentation-the-study-of-effective-reasoning",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/argumentation-the-study-of-effective-reasoning",
+    },
+  ],
 } as const satisfies GreatCourse

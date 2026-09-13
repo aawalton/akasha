@@ -11,8 +11,12 @@ export const blackCapitalAfricanAmericansInWashingtonDC = {
   ownLength: 54,
   ownProgress: 54,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "black-capital-african-americans-in-washington-dc",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/black-capital-african-americans-in-washington-dc",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "black-capital-african-americans-in-washington-dc",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/black-capital-african-americans-in-washington-dc",
+    },
+  ],
 } as const satisfies GreatCourse

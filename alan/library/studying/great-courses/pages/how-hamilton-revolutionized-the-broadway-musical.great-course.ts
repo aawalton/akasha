@@ -11,8 +11,12 @@ export const howHamiltonRevolutionizedTheBroadwayMusical = {
   ownLength: 12.6,
   ownProgress: 12.6,
   partOfCollections: ["all-great-courses", "music-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-hamilton-revolutionized-the-broadway-musical",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/how-hamilton-revolutionized-the-broadway-musical",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-hamilton-revolutionized-the-broadway-musical",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/how-hamilton-revolutionized-the-broadway-musical",
+    },
+  ],
 } as const satisfies GreatCourse

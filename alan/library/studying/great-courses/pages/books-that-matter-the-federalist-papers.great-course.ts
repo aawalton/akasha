@@ -10,7 +10,11 @@ export const booksThatMatterTheFederalistPapers = {
   ownLength: 399.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "books-that-matter-the-federalist-papers",
-  externalLink: "https://www.thegreatcoursesplus.com/books-that-matter-the-federalist-papers",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "books-that-matter-the-federalist-papers",
+      externalLink: "https://www.thegreatcoursesplus.com/books-that-matter-the-federalist-papers",
+    },
+  ],
 } as const satisfies GreatCourse

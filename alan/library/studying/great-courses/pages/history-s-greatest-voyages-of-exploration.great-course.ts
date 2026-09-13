@@ -11,7 +11,11 @@ export const historySGreatestVoyagesOfExploration = {
   ownLength: 724.2,
   ownProgress: 724.2,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "historys-greatest-voyages-of-exploration",
-  externalLink: "https://www.thegreatcoursesplus.com/historys-greatest-voyages-of-exploration",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "historys-greatest-voyages-of-exploration",
+      externalLink: "https://www.thegreatcoursesplus.com/historys-greatest-voyages-of-exploration",
+    },
+  ],
 } as const satisfies GreatCourse

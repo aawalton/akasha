@@ -10,7 +10,11 @@ export const aLiteraryTourOfTheUnitedStates = {
   ownLength: 672.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "a-literary-tour-of-the-united-states",
-  externalLink: "https://www.thegreatcoursesplus.com/a-literary-tour-of-the-united-states",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "a-literary-tour-of-the-united-states",
+      externalLink: "https://www.thegreatcoursesplus.com/a-literary-tour-of-the-united-states",
+    },
+  ],
 } as const satisfies GreatCourse

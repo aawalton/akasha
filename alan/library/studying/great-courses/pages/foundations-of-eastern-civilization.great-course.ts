@@ -11,7 +11,11 @@ export const foundationsOfEasternCivilization = {
   ownLength: 1407,
   ownProgress: 1407,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "foundations-of-eastern-civilization",
-  externalLink: "https://www.thegreatcoursesplus.com/foundations-of-eastern-civilization",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "foundations-of-eastern-civilization",
+      externalLink: "https://www.thegreatcoursesplus.com/foundations-of-eastern-civilization",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -11,7 +11,11 @@ export const improveYourCrochetEssentialTechniques = {
   ownLength: 124.8,
   ownProgress: 124.8,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "improve-your-crochet-essential-techniques",
-  externalLink: "https://www.thegreatcoursesplus.com/improve-your-crochet-essential-techniques",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "improve-your-crochet-essential-techniques",
+      externalLink: "https://www.thegreatcoursesplus.com/improve-your-crochet-essential-techniques",
+    },
+  ],
 } as const satisfies GreatCourse

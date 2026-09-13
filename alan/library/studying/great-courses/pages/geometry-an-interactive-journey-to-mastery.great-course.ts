@@ -14,7 +14,12 @@ export const geometryAnInteractiveJourneyToMastery = {
     "learning-paths-great-courses",
     "mathematics-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "geometry-an-interactive-journey-to-mastery",
-  externalLink: "https://www.thegreatcoursesplus.com/geometry-an-interactive-journey-to-mastery",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "geometry-an-interactive-journey-to-mastery",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/geometry-an-interactive-journey-to-mastery",
+    },
+  ],
 } as const satisfies GreatCourse

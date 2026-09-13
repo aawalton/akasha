@@ -11,8 +11,12 @@ export const beginnerSergingMachineBasicsAndTechniques = {
   ownLength: 259.2,
   ownProgress: 259.2,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "beginner-serging-machine-basics-and-techniques",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/beginner-serging-machine-basics-and-techniques",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "beginner-serging-machine-basics-and-techniques",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/beginner-serging-machine-basics-and-techniques",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,8 +10,12 @@ export const epigeneticsHowEnvironmentChangesYourBiology = {
   ownLength: 371.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "epigenetics-how-environment-changes-your-biology",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/epigenetics-how-environment-changes-your-biology",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "epigenetics-how-environment-changes-your-biology",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/epigenetics-how-environment-changes-your-biology",
+    },
+  ],
 } as const satisfies GreatCourse

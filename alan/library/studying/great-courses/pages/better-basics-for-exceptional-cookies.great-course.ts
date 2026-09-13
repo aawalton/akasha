@@ -15,7 +15,11 @@ export const betterBasicsForExceptionalCookies = {
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "better-basics-for-exceptional-cookies",
-  externalLink: "https://www.thegreatcoursesplus.com/better-basics-for-exceptional-cookies",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "better-basics-for-exceptional-cookies",
+      externalLink: "https://www.thegreatcoursesplus.com/better-basics-for-exceptional-cookies",
+    },
+  ],
 } as const satisfies GreatCourse

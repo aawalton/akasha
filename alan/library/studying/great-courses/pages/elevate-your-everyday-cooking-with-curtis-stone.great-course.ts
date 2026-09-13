@@ -11,8 +11,12 @@ export const elevateYourEverydayCookingWithCurtisStone = {
   ownLength: 276.6,
   ownProgress: 276.6,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
-  source: "the-great-courses",
-  externalId: "elevate-your-everyday-cooking-with-curtis-stone",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/elevate-your-everyday-cooking-with-curtis-stone",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "elevate-your-everyday-cooking-with-curtis-stone",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/elevate-your-everyday-cooking-with-curtis-stone",
+    },
+  ],
 } as const satisfies GreatCourse

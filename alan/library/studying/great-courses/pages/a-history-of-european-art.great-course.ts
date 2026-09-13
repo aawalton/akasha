@@ -11,7 +11,11 @@ export const aHistoryOfEuropeanArt = {
   ownLength: 1452,
   ownProgress: 1452,
   partOfCollections: ["all-great-courses", "art-great-courses", "learning-paths-great-courses"],
-  source: "the-great-courses",
-  externalId: "a-history-of-european-art",
-  externalLink: "https://www.thegreatcoursesplus.com/a-history-of-european-art",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "a-history-of-european-art",
+      externalLink: "https://www.thegreatcoursesplus.com/a-history-of-european-art",
+    },
+  ],
 } as const satisfies GreatCourse

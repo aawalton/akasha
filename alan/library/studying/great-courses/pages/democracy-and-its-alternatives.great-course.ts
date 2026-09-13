@@ -11,7 +11,11 @@ export const democracyAndItsAlternatives = {
   ownLength: 546,
   ownProgress: 546,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "democracy-and-its-alternatives",
-  externalLink: "https://www.thegreatcoursesplus.com/democracy-and-its-alternatives",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "democracy-and-its-alternatives",
+      externalLink: "https://www.thegreatcoursesplus.com/democracy-and-its-alternatives",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -11,8 +11,12 @@ export const hackingAmericanElectionsWhyWeReVulnerableAndHowWeCanStopIt = {
   ownLength: 34.2,
   ownProgress: 34.2,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "hacking-american-elections-why-were-vulnerable-and-how-we-can-stop-it",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/hacking-american-elections-why-were-vulnerable-and-how-we-can-stop-it",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "hacking-american-elections-why-were-vulnerable-and-how-we-can-stop-it",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/hacking-american-elections-why-were-vulnerable-and-how-we-can-stop-it",
+    },
+  ],
 } as const satisfies GreatCourse

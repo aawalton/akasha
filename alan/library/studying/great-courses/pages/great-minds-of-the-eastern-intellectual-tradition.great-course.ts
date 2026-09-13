@@ -14,8 +14,12 @@ export const greatMindsOfTheEasternIntellectualTradition = {
     "learning-paths-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "great-minds-of-the-eastern-intellectual-tradition",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/great-minds-of-the-eastern-intellectual-tradition",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-minds-of-the-eastern-intellectual-tradition",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/great-minds-of-the-eastern-intellectual-tradition",
+    },
+  ],
 } as const satisfies GreatCourse

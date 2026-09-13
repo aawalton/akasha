@@ -11,7 +11,11 @@ export const americaSMusicalHeritage = {
   ownLength: 355.2,
   ownProgress: 355.2,
   partOfCollections: ["all-great-courses", "music-great-courses"],
-  source: "the-great-courses",
-  externalId: "americas-musical-heritage",
-  externalLink: "https://www.thegreatcoursesplus.com/americas-musical-heritage",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "americas-musical-heritage",
+      externalLink: "https://www.thegreatcoursesplus.com/americas-musical-heritage",
+    },
+  ],
 } as const satisfies GreatCourse

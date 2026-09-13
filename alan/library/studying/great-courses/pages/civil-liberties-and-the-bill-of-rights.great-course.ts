@@ -10,7 +10,11 @@ export const civilLibertiesAndTheBillOfRights = {
   ownLength: 36,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "civil-liberties-and-the-bill-of-rights",
-  externalLink: "https://plus.thegreatcourses.com/civil-liberties-and-the-bill-of-rights",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "civil-liberties-and-the-bill-of-rights",
+      externalLink: "https://plus.thegreatcourses.com/civil-liberties-and-the-bill-of-rights",
+    },
+  ],
 } as const satisfies GreatCourse

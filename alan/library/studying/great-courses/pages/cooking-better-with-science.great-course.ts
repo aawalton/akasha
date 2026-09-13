@@ -11,7 +11,11 @@ export const cookingBetterWithScience = {
   ownLength: 357.6,
   ownProgress: 357.6,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
-  source: "the-great-courses",
-  externalId: "cooking-better-with-science",
-  externalLink: "https://www.thegreatcoursesplus.com/cooking-better-with-science",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "cooking-better-with-science",
+      externalLink: "https://www.thegreatcoursesplus.com/cooking-better-with-science",
+    },
+  ],
 } as const satisfies GreatCourse

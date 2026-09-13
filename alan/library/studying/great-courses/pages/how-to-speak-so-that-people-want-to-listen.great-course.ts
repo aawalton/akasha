@@ -15,7 +15,12 @@ export const howToSpeakSoThatPeopleWantToListen = {
     "hobby-and-personal-pursuits-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-to-speak-so-that-people-want-to-listen",
-  externalLink: "https://www.thegreatcoursesplus.com/how-to-speak-so-that-people-want-to-listen",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-speak-so-that-people-want-to-listen",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/how-to-speak-so-that-people-want-to-listen",
+    },
+  ],
 } as const satisfies GreatCourse

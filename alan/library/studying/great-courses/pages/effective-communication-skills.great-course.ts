@@ -14,7 +14,11 @@ export const effectiveCommunicationSkills = {
     "literature-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "effective-communication-skills",
-  externalLink: "https://www.thegreatcoursesplus.com/effective-communication-skills",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "effective-communication-skills",
+      externalLink: "https://www.thegreatcoursesplus.com/effective-communication-skills",
+    },
+  ],
 } as const satisfies GreatCourse

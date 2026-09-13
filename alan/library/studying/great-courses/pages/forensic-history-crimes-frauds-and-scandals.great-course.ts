@@ -10,7 +10,12 @@ export const forensicHistoryCrimesFraudsAndScandals = {
   ownLength: 735.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "forensic-history-crimes-frauds-and-scandals",
-  externalLink: "https://www.thegreatcoursesplus.com/forensic-history-crimes-frauds-and-scandals",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "forensic-history-crimes-frauds-and-scandals",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/forensic-history-crimes-frauds-and-scandals",
+    },
+  ],
 } as const satisfies GreatCourse

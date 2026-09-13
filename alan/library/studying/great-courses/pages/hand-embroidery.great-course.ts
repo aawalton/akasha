@@ -11,7 +11,11 @@ export const handEmbroidery = {
   ownLength: 199.2,
   ownProgress: 199.2,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "hand-embroidery",
-  externalLink: "https://www.thegreatcoursesplus.com/hand-embroidery",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "hand-embroidery",
+      externalLink: "https://www.thegreatcoursesplus.com/hand-embroidery",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,8 +10,12 @@ export const greatAmericanShortStoriesAGuideForWritersAndReaders = {
   ownLength: 777.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-american-short-stories-a-guide-for-writers-and-readers",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/great-american-short-stories-a-guide-for-writers-and-readers",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-american-short-stories-a-guide-for-writers-and-readers",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/great-american-short-stories-a-guide-for-writers-and-readers",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,8 +10,12 @@ export const biologicalAnthropologyAnEvolutionaryPerspective = {
   ownLength: 726,
   ownProgress: 60.5,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "biological-anthropology-an-evolutionary-perspective",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/biological-anthropology-an-evolutionary-perspective",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "biological-anthropology-an-evolutionary-perspective",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/biological-anthropology-an-evolutionary-perspective",
+    },
+  ],
 } as const satisfies GreatCourse

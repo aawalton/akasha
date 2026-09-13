@@ -11,7 +11,11 @@ export const creationStoriesOfTheAncientWorld = {
   ownLength: 300,
   ownProgress: 300,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "creation-stories-of-the-ancient-world",
-  externalLink: "https://www.thegreatcoursesplus.com/creation-stories-of-the-ancient-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "creation-stories-of-the-ancient-world",
+      externalLink: "https://www.thegreatcoursesplus.com/creation-stories-of-the-ancient-world",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -11,7 +11,11 @@ export const dogTraining101 = {
   ownLength: 755.4,
   ownProgress: 755.4,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "dog-training-101",
-  externalLink: "https://www.thegreatcoursesplus.com/dog-training-101",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "dog-training-101",
+      externalLink: "https://www.thegreatcoursesplus.com/dog-training-101",
+    },
+  ],
 } as const satisfies GreatCourse

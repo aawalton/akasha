@@ -11,7 +11,11 @@ export const customBuiltInShelves = {
   ownLength: 84.6,
   ownProgress: 84.6,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "custom-built-in-shelves",
-  externalLink: "https://www.thegreatcoursesplus.com/custom-built-in-shelves",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "custom-built-in-shelves",
+      externalLink: "https://www.thegreatcoursesplus.com/custom-built-in-shelves",
+    },
+  ],
 } as const satisfies GreatCourse

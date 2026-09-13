@@ -11,7 +11,11 @@ export const americaSLongStruggleAgainstSlavery = {
   ownLength: 790.8,
   ownProgress: 790.8,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "americas-long-struggle-against-slavery",
-  externalLink: "https://www.thegreatcoursesplus.com/americas-long-struggle-against-slavery",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "americas-long-struggle-against-slavery",
+      externalLink: "https://www.thegreatcoursesplus.com/americas-long-struggle-against-slavery",
+    },
+  ],
 } as const satisfies GreatCourse

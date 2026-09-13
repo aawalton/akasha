@@ -10,8 +10,12 @@ export const godAgainstTheGodsTheHistoryOfMonotheismAndPolytheism = {
   ownLength: 414.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "god-against-the-gods-the-history-of-monotheism-and-polytheism",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/god-against-the-gods-the-history-of-monotheism-and-polytheism",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "god-against-the-gods-the-history-of-monotheism-and-polytheism",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/god-against-the-gods-the-history-of-monotheism-and-polytheism",
+    },
+  ],
 } as const satisfies GreatCourse

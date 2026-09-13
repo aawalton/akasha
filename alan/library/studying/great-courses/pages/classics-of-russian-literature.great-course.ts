@@ -10,7 +10,11 @@ export const classicsOfRussianLiterature = {
   ownLength: 1085.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "classics-of-russian-literature",
-  externalLink: "https://www.thegreatcoursesplus.com/classics-of-russian-literature",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "classics-of-russian-literature",
+      externalLink: "https://www.thegreatcoursesplus.com/classics-of-russian-literature",
+    },
+  ],
 } as const satisfies GreatCourse

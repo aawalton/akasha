@@ -15,7 +15,11 @@ export const howJesusBecameGod = {
     "history-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-jesus-became-god",
-  externalLink: "https://www.thegreatcoursesplus.com/how-jesus-became-god",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-jesus-became-god",
+      externalLink: "https://www.thegreatcoursesplus.com/how-jesus-became-god",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -14,8 +14,12 @@ export const fightingMisinformationDigitalMediaLiteracy = {
     "business-and-finance-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "fighting-misinformation-digital-media-literacy",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/fighting-misinformation-digital-media-literacy",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "fighting-misinformation-digital-media-literacy",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/fighting-misinformation-digital-media-literacy",
+    },
+  ],
 } as const satisfies GreatCourse

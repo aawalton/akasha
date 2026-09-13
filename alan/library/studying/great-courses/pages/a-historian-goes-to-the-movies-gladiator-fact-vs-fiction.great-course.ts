@@ -11,8 +11,12 @@ export const aHistorianGoesToTheMoviesGladiatorFactVsFiction = {
   ownLength: 42.6,
   ownProgress: 42.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "a-historian-goes-to-the-movies-gladiator-fact-or-fiction",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/a-historian-goes-to-the-movies-gladiator-fact-or-fiction",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "a-historian-goes-to-the-movies-gladiator-fact-or-fiction",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/a-historian-goes-to-the-movies-gladiator-fact-or-fiction",
+    },
+  ],
 } as const satisfies GreatCourse

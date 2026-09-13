@@ -11,7 +11,12 @@ export const alexanderTheGreatAndTheMacedonianEmpire = {
   ownLength: 1102.2,
   ownProgress: 1102.2,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "alexander-the-great-and-the-macedonian-empire",
-  externalLink: "https://www.thegreatcoursesplus.com/alexander-the-great-and-the-macedonian-empire",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "alexander-the-great-and-the-macedonian-empire",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/alexander-the-great-and-the-macedonian-empire",
+    },
+  ],
 } as const satisfies GreatCourse

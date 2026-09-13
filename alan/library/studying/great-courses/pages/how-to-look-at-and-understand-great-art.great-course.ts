@@ -16,7 +16,11 @@ export const howToLookAtAndUnderstandGreatArt = {
     "hobby-and-personal-pursuits-great-courses",
     "learning-paths-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-to-look-at-and-understand-great-art",
-  externalLink: "https://www.thegreatcoursesplus.com/how-to-look-at-and-understand-great-art",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-look-at-and-understand-great-art",
+      externalLink: "https://www.thegreatcoursesplus.com/how-to-look-at-and-understand-great-art",
+    },
+  ],
 } as const satisfies GreatCourse

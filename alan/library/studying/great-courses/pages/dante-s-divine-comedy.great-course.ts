@@ -10,7 +10,11 @@ export const danteSDivineComedy = {
   ownLength: 734.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "dantes-divine-comedy",
-  externalLink: "https://www.thegreatcoursesplus.com/dantes-divine-comedy",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "dantes-divine-comedy",
+      externalLink: "https://www.thegreatcoursesplus.com/dantes-divine-comedy",
+    },
+  ],
 } as const satisfies GreatCourse

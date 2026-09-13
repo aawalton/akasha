@@ -10,7 +10,12 @@ export const humanPrehistoryAndTheFirstCivilizations = {
   ownLength: 1087.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "human-prehistory-and-the-first-civilizations",
-  externalLink: "https://www.thegreatcoursesplus.com/human-prehistory-and-the-first-civilizations",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "human-prehistory-and-the-first-civilizations",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/human-prehistory-and-the-first-civilizations",
+    },
+  ],
 } as const satisfies GreatCourse

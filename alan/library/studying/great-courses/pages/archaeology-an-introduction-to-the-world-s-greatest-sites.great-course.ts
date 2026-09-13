@@ -11,8 +11,12 @@ export const archaeologyAnIntroductionToTheWorldSGreatestSites = {
   ownLength: 772.2,
   ownProgress: 772.2,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "archaeology-an-introduction-to-the-worlds-greatest-sites",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/archaeology-an-introduction-to-the-worlds-greatest-sites",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "archaeology-an-introduction-to-the-worlds-greatest-sites",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/archaeology-an-introduction-to-the-worlds-greatest-sites",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const greatMusicOfThe20thCentury = {
   ownLength: 1091.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-music-of-the-20th-century",
-  externalLink: "https://www.thegreatcoursesplus.com/great-music-of-the-20th-century",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-music-of-the-20th-century",
+      externalLink: "https://www.thegreatcoursesplus.com/great-music-of-the-20th-century",
+    },
+  ],
 } as const satisfies GreatCourse

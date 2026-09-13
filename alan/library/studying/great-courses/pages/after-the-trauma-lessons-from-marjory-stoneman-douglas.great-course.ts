@@ -11,8 +11,12 @@ export const afterTheTraumaLessonsFromMarjoryStonemanDouglas = {
   ownLength: 43.8,
   ownProgress: 43.8,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "after-the-trauma-lessons-from-marjory-stoneman-douglas",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/after-the-trauma-lessons-from-marjory-stoneman-douglas",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "after-the-trauma-lessons-from-marjory-stoneman-douglas",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/after-the-trauma-lessons-from-marjory-stoneman-douglas",
+    },
+  ],
 } as const satisfies GreatCourse

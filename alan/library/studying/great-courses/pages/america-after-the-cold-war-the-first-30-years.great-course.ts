@@ -11,7 +11,12 @@ export const americaAfterTheColdWarTheFirst30Years = {
   ownLength: 345,
   ownProgress: 345,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
-  source: "the-great-courses",
-  externalId: "america-after-the-cold-war-the-first-30-years",
-  externalLink: "https://www.thegreatcoursesplus.com/america-after-the-cold-war-the-first-30-years",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "america-after-the-cold-war-the-first-30-years",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/america-after-the-cold-war-the-first-30-years",
+    },
+  ],
 } as const satisfies GreatCourse

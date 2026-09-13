@@ -11,8 +11,12 @@ export const africanAmericanHistoryFromTheAfricanCoastToTheCivilWar = {
   ownLength: 750,
   ownProgress: 750,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
-  source: "the-great-courses",
-  externalId: "african-american-history-from-the-african-coast-to-the-civil-war",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/african-american-history-from-the-african-coast-to-the-civil-war",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "african-american-history-from-the-african-coast-to-the-civil-war",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/african-american-history-from-the-african-coast-to-the-civil-war",
+    },
+  ],
 } as const satisfies GreatCourse

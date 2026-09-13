@@ -10,7 +10,12 @@ export const fromYaoToMao5000YearsOfChineseHistory = {
   ownLength: 1087.25,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "from-yao-to-mao-5000-years-of-chinese-history",
-  externalLink: "https://www.thegreatcoursesplus.com/from-yao-to-mao-5000-years-of-chinese-history",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "from-yao-to-mao-5000-years-of-chinese-history",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/from-yao-to-mao-5000-years-of-chinese-history",
+    },
+  ],
 } as const satisfies GreatCourse

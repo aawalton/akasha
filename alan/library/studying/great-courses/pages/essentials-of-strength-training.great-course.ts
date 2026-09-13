@@ -15,7 +15,11 @@ export const essentialsOfStrengthTraining = {
     "health-and-mindfulness-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "essentials-of-strength-training",
-  externalLink: "https://www.thegreatcoursesplus.com/essentials-of-strength-training",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "essentials-of-strength-training",
+      externalLink: "https://www.thegreatcoursesplus.com/essentials-of-strength-training",
+    },
+  ],
 } as const satisfies GreatCourse

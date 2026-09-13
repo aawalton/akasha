@@ -11,8 +11,12 @@ export const foundationsOfWesternCivilizationIiAHistoryOfTheModernWestern = {
   ownLength: 1469.4,
   ownProgress: 1469.4,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "foundations-of-western-civilization-ii-a-history-of-the-modern-western-world",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/foundations-of-western-civilization-ii-a-history-of-the-modern-western-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "foundations-of-western-civilization-ii-a-history-of-the-modern-western-world",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/foundations-of-western-civilization-ii-a-history-of-the-modern-western-world",
+    },
+  ],
 } as const satisfies GreatCourse

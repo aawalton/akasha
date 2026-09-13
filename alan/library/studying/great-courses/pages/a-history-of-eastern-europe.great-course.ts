@@ -11,7 +11,11 @@ export const aHistoryOfEasternEurope = {
   ownLength: 724.8,
   ownProgress: 724.8,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "a-history-of-eastern-europe",
-  externalLink: "https://www.thegreatcoursesplus.com/a-history-of-eastern-europe",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "a-history-of-eastern-europe",
+      externalLink: "https://www.thegreatcoursesplus.com/a-history-of-eastern-europe",
+    },
+  ],
 } as const satisfies GreatCourse

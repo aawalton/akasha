@@ -11,7 +11,11 @@ export const cutToItStrategiesForSmarterQuilting = {
   ownLength: 196.8,
   ownProgress: 196.8,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "cut-to-it-strategies-for-smarter-quilting",
-  externalLink: "https://www.thegreatcoursesplus.com/cut-to-it-strategies-for-smarter-quilting",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "cut-to-it-strategies-for-smarter-quilting",
+      externalLink: "https://www.thegreatcoursesplus.com/cut-to-it-strategies-for-smarter-quilting",
+    },
+  ],
 } as const satisfies GreatCourse

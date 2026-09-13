@@ -10,7 +10,11 @@ export const greatPresidents = {
   ownLength: 1482.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-presidents",
-  externalLink: "https://www.thegreatcoursesplus.com/great-presidents",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-presidents",
+      externalLink: "https://www.thegreatcoursesplus.com/great-presidents",
+    },
+  ],
 } as const satisfies GreatCourse

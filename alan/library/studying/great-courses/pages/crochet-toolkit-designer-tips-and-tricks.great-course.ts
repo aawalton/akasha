@@ -11,7 +11,11 @@ export const crochetToolkitDesignerTipsAndTricks = {
   ownLength: 124.2,
   ownProgress: 124.2,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "crochet-toolkit-designer-tips-tricks",
-  externalLink: "https://www.thegreatcoursesplus.com/crochet-toolkit-designer-tips-tricks",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "crochet-toolkit-designer-tips-tricks",
+      externalLink: "https://www.thegreatcoursesplus.com/crochet-toolkit-designer-tips-tricks",
+    },
+  ],
 } as const satisfies GreatCourse

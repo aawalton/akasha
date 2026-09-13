@@ -15,7 +15,12 @@ export const adobeLightroomClassicCcTheCompleteGuide = {
     "hobby-and-personal-pursuits-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "adobe-lightroom-classic-cc-the-complete-guide",
-  externalLink: "https://www.thegreatcoursesplus.com/adobe-lightroom-classic-cc-the-complete-guide",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "adobe-lightroom-classic-cc-the-complete-guide",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/adobe-lightroom-classic-cc-the-complete-guide",
+    },
+  ],
 } as const satisfies GreatCourse

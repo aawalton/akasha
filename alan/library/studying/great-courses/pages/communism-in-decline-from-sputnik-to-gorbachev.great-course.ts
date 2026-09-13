@@ -10,8 +10,12 @@ export const communismInDeclineFromSputnikToGorbachev = {
   ownLength: 402,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "communism-in-decline-from-sputnik-to-gorbachev",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/communism-in-decline-from-sputnik-to-gorbachev",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "communism-in-decline-from-sputnik-to-gorbachev",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/communism-in-decline-from-sputnik-to-gorbachev",
+    },
+  ],
 } as const satisfies GreatCourse

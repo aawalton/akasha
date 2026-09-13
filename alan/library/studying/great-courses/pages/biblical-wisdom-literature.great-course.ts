@@ -15,7 +15,11 @@ export const biblicalWisdomLiterature = {
     "literature-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "biblical-wisdom-literature",
-  externalLink: "https://www.thegreatcoursesplus.com/biblical-wisdom-literature",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "biblical-wisdom-literature",
+      externalLink: "https://www.thegreatcoursesplus.com/biblical-wisdom-literature",
+    },
+  ],
 } as const satisfies GreatCourse

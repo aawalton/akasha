@@ -15,8 +15,12 @@ export const adultEducationInTheAgeOfAiAPanelDiscussion = {
     "business-and-finance-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "adult-education-in-the-age-of-ai-a-panel-discussion",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/adult-education-in-the-age-of-ai-a-panel-discussion",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "adult-education-in-the-age-of-ai-a-panel-discussion",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/adult-education-in-the-age-of-ai-a-panel-discussion",
+    },
+  ],
 } as const satisfies GreatCourse

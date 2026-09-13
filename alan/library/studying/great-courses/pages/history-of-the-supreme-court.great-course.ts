@@ -15,7 +15,11 @@ export const historyOfTheSupremeCourt = {
     "history-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "history-of-the-supreme-court",
-  externalLink: "https://www.thegreatcoursesplus.com/history-of-the-supreme-court",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "history-of-the-supreme-court",
+      externalLink: "https://www.thegreatcoursesplus.com/history-of-the-supreme-court",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const ancientEmpiresBeforeAlexander = {
   ownLength: 1098.816667,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "ancient-empires-before-alexander",
-  externalLink: "https://www.thegreatcoursesplus.com/ancient-empires-before-alexander",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "ancient-empires-before-alexander",
+      externalLink: "https://www.thegreatcoursesplus.com/ancient-empires-before-alexander",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -11,7 +11,11 @@ export const bobKristSOffTheBeatenPath = {
   ownLength: 232.2,
   ownProgress: 232.2,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
-  source: "the-great-courses",
-  externalId: "bob-krist-s-off-the-beaten-path",
-  externalLink: "https://www.thegreatcoursesplus.com/bob-krist-s-off-the-beaten-path",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "bob-krist-s-off-the-beaten-path",
+      externalLink: "https://www.thegreatcoursesplus.com/bob-krist-s-off-the-beaten-path",
+    },
+  ],
 } as const satisfies GreatCourse

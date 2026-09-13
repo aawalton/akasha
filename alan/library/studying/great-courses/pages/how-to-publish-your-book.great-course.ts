@@ -14,7 +14,11 @@ export const howToPublishYourBook = {
     "business-and-finance-great-courses",
     "literature-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-to-publish-your-book",
-  externalLink: "https://www.thegreatcoursesplus.com/how-to-publish-your-book",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-publish-your-book",
+      externalLink: "https://www.thegreatcoursesplus.com/how-to-publish-your-book",
+    },
+  ],
 } as const satisfies GreatCourse

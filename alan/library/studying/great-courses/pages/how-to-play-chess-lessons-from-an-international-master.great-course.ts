@@ -10,8 +10,12 @@ export const howToPlayChessLessonsFromAnInternationalMaster = {
   ownLength: 754.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-to-play-chess-lessons-from-an-international-master",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/how-to-play-chess-lessons-from-an-international-master",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-play-chess-lessons-from-an-international-master",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/how-to-play-chess-lessons-from-an-international-master",
+    },
+  ],
 } as const satisfies GreatCourse

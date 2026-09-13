@@ -10,8 +10,12 @@ export const experiencingJamesWebbTheInvisibleUniverseRevealed = {
   ownLength: 12,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "experiencing-james-webb-the-invisible-universe-revealed",
-  externalLink:
-    "https://plus.thegreatcourses.com/experiencing-james-webb-the-invisible-universe-revealed",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "experiencing-james-webb-the-invisible-universe-revealed",
+      externalLink:
+        "https://plus.thegreatcourses.com/experiencing-james-webb-the-invisible-universe-revealed",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,8 +10,12 @@ export const forgottenAmericaRediscoveringEventsThatChangedTheNation = {
   ownLength: 352.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "forgotten-america-rediscovering-events-that-changed-the-nation",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/forgotten-america-rediscovering-events-that-changed-the-nation",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "forgotten-america-rediscovering-events-that-changed-the-nation",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/forgotten-america-rediscovering-events-that-changed-the-nation",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -14,7 +14,12 @@ export const booksThatMatterTheAnalectsOfConfucius = {
     "literature-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "books-that-matter-the-analects-of-confucius",
-  externalLink: "https://www.thegreatcoursesplus.com/books-that-matter-the-analects-of-confucius",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "books-that-matter-the-analects-of-confucius",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/books-that-matter-the-analects-of-confucius",
+    },
+  ],
 } as const satisfies GreatCourse

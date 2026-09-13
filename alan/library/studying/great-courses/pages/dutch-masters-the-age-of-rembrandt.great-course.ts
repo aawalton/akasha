@@ -11,7 +11,11 @@ export const dutchMastersTheAgeOfRembrandt = {
   ownLength: 1083,
   ownProgress: 1083,
   partOfCollections: ["all-great-courses", "art-great-courses", "learning-paths-great-courses"],
-  source: "the-great-courses",
-  externalId: "dutch-masters-the-age-of-rembrandt",
-  externalLink: "https://www.thegreatcoursesplus.com/dutch-masters-the-age-of-rembrandt",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "dutch-masters-the-age-of-rembrandt",
+      externalLink: "https://www.thegreatcoursesplus.com/dutch-masters-the-age-of-rembrandt",
+    },
+  ],
 } as const satisfies GreatCourse

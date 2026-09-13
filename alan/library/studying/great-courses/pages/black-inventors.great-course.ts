@@ -11,7 +11,11 @@ export const blackInventors = {
   ownLength: 30.6,
   ownProgress: 30.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "black-inventors",
-  externalLink: "https://www.thegreatcoursesplus.com/black-inventors",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "black-inventors",
+      externalLink: "https://www.thegreatcoursesplus.com/black-inventors",
+    },
+  ],
 } as const satisfies GreatCourse

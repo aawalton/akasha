@@ -15,7 +15,11 @@ export const coloredPencilBasics = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "colored-pencil-basics",
-  externalLink: "https://www.thegreatcoursesplus.com/colored-pencil-basics",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "colored-pencil-basics",
+      externalLink: "https://www.thegreatcoursesplus.com/colored-pencil-basics",
+    },
+  ],
 } as const satisfies GreatCourse

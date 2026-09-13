@@ -11,7 +11,11 @@ export const famousGreeks = {
   ownLength: 736.8,
   ownProgress: 736.8,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "famous-greeks",
-  externalLink: "https://www.thegreatcoursesplus.com/famous-greeks",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "famous-greeks",
+      externalLink: "https://www.thegreatcoursesplus.com/famous-greeks",
+    },
+  ],
 } as const satisfies GreatCourse

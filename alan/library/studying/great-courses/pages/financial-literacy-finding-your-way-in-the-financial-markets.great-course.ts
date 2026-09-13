@@ -17,8 +17,12 @@ export const financialLiteracyFindingYourWayInTheFinancialMarkets = {
     "mathematics-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "financial-literacy-finding-your-way-in-the-financial-markets",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/financial-literacy-finding-your-way-in-the-financial-markets",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "financial-literacy-finding-your-way-in-the-financial-markets",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/financial-literacy-finding-your-way-in-the-financial-markets",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -11,7 +11,11 @@ export const beethovenSPianoSonatas = {
   ownLength: 1098,
   ownProgress: 1098,
   partOfCollections: ["all-great-courses", "music-great-courses"],
-  source: "the-great-courses",
-  externalId: "beethovens-piano-sonatas",
-  externalLink: "https://www.thegreatcoursesplus.com/beethovens-piano-sonatas",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "beethovens-piano-sonatas",
+      externalLink: "https://www.thegreatcoursesplus.com/beethovens-piano-sonatas",
+    },
+  ],
 } as const satisfies GreatCourse

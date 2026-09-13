@@ -11,7 +11,11 @@ export const aFieldGuideToThePlanets = {
   ownLength: 760.2,
   ownProgress: 760.2,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "a-field-guide-to-the-planets",
-  externalLink: "https://www.thegreatcoursesplus.com/a-field-guide-to-the-planets",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "a-field-guide-to-the-planets",
+      externalLink: "https://www.thegreatcoursesplus.com/a-field-guide-to-the-planets",
+    },
+  ],
 } as const satisfies GreatCourse

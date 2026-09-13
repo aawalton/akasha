@@ -15,8 +15,12 @@ export const howConversationWorks6LessonsForBetterCommunication = {
     "literature-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-conversation-works-6-lessons-for-better-communication",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/how-conversation-works-6-lessons-for-better-communication",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-conversation-works-6-lessons-for-better-communication",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/how-conversation-works-6-lessons-for-better-communication",
+    },
+  ],
 } as const satisfies GreatCourse

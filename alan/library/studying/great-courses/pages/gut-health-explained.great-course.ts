@@ -10,7 +10,11 @@ export const gutHealthExplained = {
   ownLength: 259.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
-  source: "the-great-courses",
-  externalId: "gut-health-explained",
-  externalLink: "https://www.thegreatcoursesplus.com/gut-health-explained",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "gut-health-explained",
+      externalLink: "https://www.thegreatcoursesplus.com/gut-health-explained",
+    },
+  ],
 } as const satisfies GreatCourse

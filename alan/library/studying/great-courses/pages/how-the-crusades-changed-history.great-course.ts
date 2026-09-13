@@ -10,7 +10,11 @@ export const howTheCrusadesChangedHistory = {
   ownLength: 686.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-the-crusades-changed-history",
-  externalLink: "https://www.thegreatcoursesplus.com/how-the-crusades-changed-history",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-the-crusades-changed-history",
+      externalLink: "https://www.thegreatcoursesplus.com/how-the-crusades-changed-history",
+    },
+  ],
 } as const satisfies GreatCourse

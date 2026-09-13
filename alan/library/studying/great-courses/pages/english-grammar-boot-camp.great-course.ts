@@ -15,7 +15,11 @@ export const englishGrammarBootCamp = {
     "literature-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "english-grammar-boot-camp",
-  externalLink: "https://www.thegreatcoursesplus.com/english-grammar-boot-camp",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "english-grammar-boot-camp",
+      externalLink: "https://www.thegreatcoursesplus.com/english-grammar-boot-camp",
+    },
+  ],
 } as const satisfies GreatCourse

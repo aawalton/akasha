@@ -10,7 +10,11 @@ export const greatWorldReligionsHinduism = {
   ownLength: 361.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-world-religions-hinduism",
-  externalLink: "https://www.thegreatcoursesplus.com/great-world-religions-hinduism",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-world-religions-hinduism",
+      externalLink: "https://www.thegreatcoursesplus.com/great-world-religions-hinduism",
+    },
+  ],
 } as const satisfies GreatCourse

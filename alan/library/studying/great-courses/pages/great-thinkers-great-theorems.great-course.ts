@@ -10,7 +10,11 @@ export const greatThinkersGreatTheorems = {
   ownLength: 734.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-thinkers-great-theorems",
-  externalLink: "https://www.thegreatcoursesplus.com/great-thinkers-great-theorems",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-thinkers-great-theorems",
+      externalLink: "https://www.thegreatcoursesplus.com/great-thinkers-great-theorems",
+    },
+  ],
 } as const satisfies GreatCourse

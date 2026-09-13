@@ -10,7 +10,11 @@ export const experiencingHubbleExploringTheMilkyWay = {
   ownLength: 355.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "eperiencing-hubble-eploring-the-milky-way",
-  externalLink: "https://www.thegreatcoursesplus.com/eperiencing-hubble-eploring-the-milky-way",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "eperiencing-hubble-eploring-the-milky-way",
+      externalLink: "https://www.thegreatcoursesplus.com/eperiencing-hubble-eploring-the-milky-way",
+    },
+  ],
 } as const satisfies GreatCourse

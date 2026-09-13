@@ -14,7 +14,12 @@ export const howToBoostYourPhysicalAndMentalEnergy = {
     "health-and-mindfulness-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-to-boost-your-physical-and-mental-energy",
-  externalLink: "https://www.thegreatcoursesplus.com/how-to-boost-your-physical-and-mental-energy",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-boost-your-physical-and-mental-energy",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/how-to-boost-your-physical-and-mental-energy",
+    },
+  ],
 } as const satisfies GreatCourse

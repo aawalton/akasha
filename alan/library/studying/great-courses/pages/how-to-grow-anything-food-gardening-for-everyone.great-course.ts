@@ -15,8 +15,12 @@ export const howToGrowAnythingFoodGardeningForEveryone = {
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-to-grow-anything-food-gardening-for-everyone",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/how-to-grow-anything-food-gardening-for-everyone",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-grow-anything-food-gardening-for-everyone",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/how-to-grow-anything-food-gardening-for-everyone",
+    },
+  ],
 } as const satisfies GreatCourse

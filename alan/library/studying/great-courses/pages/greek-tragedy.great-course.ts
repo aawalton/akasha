@@ -10,7 +10,11 @@ export const greekTragedy = {
   ownLength: 741,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "greek-tragedy",
-  externalLink: "https://www.thegreatcoursesplus.com/greek-tragedy",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "greek-tragedy",
+      externalLink: "https://www.thegreatcoursesplus.com/greek-tragedy",
+    },
+  ],
 } as const satisfies GreatCourse

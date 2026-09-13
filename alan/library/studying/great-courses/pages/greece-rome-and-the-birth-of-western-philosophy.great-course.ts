@@ -10,8 +10,12 @@ export const greeceRomeAndTheBirthOfWesternPhilosophy = {
   ownLength: 726,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "greece-rome-and-the-birth-of-western-philosophy",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/greece-rome-and-the-birth-of-western-philosophy",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "greece-rome-and-the-birth-of-western-philosophy",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/greece-rome-and-the-birth-of-western-philosophy",
+    },
+  ],
 } as const satisfies GreatCourse

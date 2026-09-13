@@ -15,7 +15,11 @@ export const ancientWisdomForTheModernWorld = {
     "health-and-mindfulness-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "ancient-wisdom-for-the-modern-world",
-  externalLink: "https://www.thegreatcoursesplus.com/ancient-wisdom-for-the-modern-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "ancient-wisdom-for-the-modern-world",
+      externalLink: "https://www.thegreatcoursesplus.com/ancient-wisdom-for-the-modern-world",
+    },
+  ],
 } as const satisfies GreatCourse

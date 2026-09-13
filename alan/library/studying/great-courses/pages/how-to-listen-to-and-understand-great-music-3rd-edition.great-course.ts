@@ -10,8 +10,12 @@ export const howToListenToAndUnderstandGreatMusic3rdEdition = {
   ownLength: 2190,
   ownProgress: 91.25,
   partOfCollections: ["all-great-courses", "music-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-to-listen-to-and-understand-great-music-3rd-edition",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/how-to-listen-to-and-understand-great-music-3rd-edition",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-listen-to-and-understand-great-music-3rd-edition",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/how-to-listen-to-and-understand-great-music-3rd-edition",
+    },
+  ],
 } as const satisfies GreatCourse

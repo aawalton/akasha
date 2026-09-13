@@ -10,8 +10,12 @@ export const greatMastersRobertAndClaraSchumannTheirLivesAndMusic = {
   ownLength: 375.183333,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-masters-robert-and-clara-schumann-their-lives-and-music",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/great-masters-robert-and-clara-schumann-their-lives-and-music",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-masters-robert-and-clara-schumann-their-lives-and-music",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/great-masters-robert-and-clara-schumann-their-lives-and-music",
+    },
+  ],
 } as const satisfies GreatCourse

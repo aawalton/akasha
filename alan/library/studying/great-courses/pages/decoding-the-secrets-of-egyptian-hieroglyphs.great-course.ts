@@ -11,7 +11,12 @@ export const decodingTheSecretsOfEgyptianHieroglyphs = {
   ownLength: 753.6,
   ownProgress: 753.6,
   partOfCollections: ["all-great-courses", "history-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "decoding-the-secrets-of-egyptian-hieroglyphs",
-  externalLink: "https://www.thegreatcoursesplus.com/decoding-the-secrets-of-egyptian-hieroglyphs",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "decoding-the-secrets-of-egyptian-hieroglyphs",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/decoding-the-secrets-of-egyptian-hieroglyphs",
+    },
+  ],
 } as const satisfies GreatCourse

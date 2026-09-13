@@ -11,7 +11,11 @@ export const howTheMediciShapedTheRenaissance = {
   ownLength: 366.6,
   ownProgress: 366.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-the-medici-shaped-the-renaissance",
-  externalLink: "https://www.thegreatcoursesplus.com/how-the-medici-shaped-the-renaissance",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-the-medici-shaped-the-renaissance",
+      externalLink: "https://www.thegreatcoursesplus.com/how-the-medici-shaped-the-renaissance",
+    },
+  ],
 } as const satisfies GreatCourse

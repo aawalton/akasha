@@ -11,8 +11,12 @@ export const fromMonetToVanGoghAHistoryOfImpressionism = {
   ownLength: 730.8,
   ownProgress: 730.8,
   partOfCollections: ["all-great-courses", "art-great-courses", "learning-paths-great-courses"],
-  source: "the-great-courses",
-  externalId: "from-monet-to-van-gogh-a-history-of-impressionism",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/from-monet-to-van-gogh-a-history-of-impressionism",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "from-monet-to-van-gogh-a-history-of-impressionism",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/from-monet-to-van-gogh-a-history-of-impressionism",
+    },
+  ],
 } as const satisfies GreatCourse

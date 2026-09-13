@@ -10,7 +10,11 @@ export const bachAndTheHighBaroque = {
   ownLength: 1499.4,
   ownProgress: 468.5625,
   partOfCollections: ["all-great-courses", "music-great-courses"],
-  source: "the-great-courses",
-  externalId: "bach-and-the-high-baroque",
-  externalLink: "https://www.thegreatcoursesplus.com/bach-and-the-high-baroque",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "bach-and-the-high-baroque",
+      externalLink: "https://www.thegreatcoursesplus.com/bach-and-the-high-baroque",
+    },
+  ],
 } as const satisfies GreatCourse

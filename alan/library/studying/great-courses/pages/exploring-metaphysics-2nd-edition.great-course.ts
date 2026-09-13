@@ -10,7 +10,11 @@ export const exploringMetaphysics2ndEdition = {
   ownLength: 30,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "exploring-metaphysics-2nd-edition",
-  externalLink: "https://plus.thegreatcourses.com/exploring-metaphysics-2nd-edition",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "exploring-metaphysics-2nd-edition",
+      externalLink: "https://plus.thegreatcourses.com/exploring-metaphysics-2nd-edition",
+    },
+  ],
 } as const satisfies GreatCourse

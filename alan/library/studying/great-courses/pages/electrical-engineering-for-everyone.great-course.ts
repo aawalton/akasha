@@ -10,7 +10,11 @@ export const electricalEngineeringForEveryone = {
   ownLength: 756.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "electrical-engineering-for-everyone",
-  externalLink: "https://www.thegreatcoursesplus.com/electrical-engineering-for-everyone",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "electrical-engineering-for-everyone",
+      externalLink: "https://www.thegreatcoursesplus.com/electrical-engineering-for-everyone",
+    },
+  ],
 } as const satisfies GreatCourse

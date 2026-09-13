@@ -15,7 +15,11 @@ export const greatGuitaristsStoriesAndStyles = {
     "hobby-and-personal-pursuits-great-courses",
     "music-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "great-guitarists-stories-and-styles",
-  externalLink: "https://www.thegreatcoursesplus.com/great-guitarists-stories-and-styles",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-guitarists-stories-and-styles",
+      externalLink: "https://www.thegreatcoursesplus.com/great-guitarists-stories-and-styles",
+    },
+  ],
 } as const satisfies GreatCourse

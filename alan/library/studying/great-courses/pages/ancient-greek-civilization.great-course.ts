@@ -11,7 +11,11 @@ export const ancientGreekCivilization = {
   ownLength: 723,
   ownProgress: 723,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "ancient-greek-civilization",
-  externalLink: "https://www.thegreatcoursesplus.com/ancient-greek-civilization",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "ancient-greek-civilization",
+      externalLink: "https://www.thegreatcoursesplus.com/ancient-greek-civilization",
+    },
+  ],
 } as const satisfies GreatCourse

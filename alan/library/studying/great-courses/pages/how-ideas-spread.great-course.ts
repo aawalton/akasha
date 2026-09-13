@@ -14,7 +14,11 @@ export const howIdeasSpread = {
     "business-and-finance-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-ideas-spread",
-  externalLink: "https://www.thegreatcoursesplus.com/how-ideas-spread",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-ideas-spread",
+      externalLink: "https://www.thegreatcoursesplus.com/how-ideas-spread",
+    },
+  ],
 } as const satisfies GreatCourse

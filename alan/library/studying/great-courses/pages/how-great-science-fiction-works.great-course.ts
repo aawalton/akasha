@@ -10,7 +10,11 @@ export const howGreatScienceFictionWorks = {
   ownLength: 755.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-great-science-fiction-works",
-  externalLink: "https://www.thegreatcoursesplus.com/how-great-science-fiction-works",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-great-science-fiction-works",
+      externalLink: "https://www.thegreatcoursesplus.com/how-great-science-fiction-works",
+    },
+  ],
 } as const satisfies GreatCourse

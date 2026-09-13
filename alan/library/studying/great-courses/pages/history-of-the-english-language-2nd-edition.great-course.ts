@@ -16,7 +16,12 @@ export const historyOfTheEnglishLanguage2ndEdition = {
     "literature-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "history-of-the-english-language-2nd-edition",
-  externalLink: "https://www.thegreatcoursesplus.com/history-of-the-english-language-2nd-edition",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "history-of-the-english-language-2nd-edition",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/history-of-the-english-language-2nd-edition",
+    },
+  ],
 } as const satisfies GreatCourse

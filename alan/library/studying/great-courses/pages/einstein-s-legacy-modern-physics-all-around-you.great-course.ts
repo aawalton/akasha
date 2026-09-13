@@ -10,8 +10,12 @@ export const einsteinSLegacyModernPhysicsAllAroundYou = {
   ownLength: 292.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "einstein-s-legacy-modern-physics-all-around-you",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/einstein-s-legacy-modern-physics-all-around-you",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "einstein-s-legacy-modern-physics-all-around-you",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/einstein-s-legacy-modern-physics-all-around-you",
+    },
+  ],
 } as const satisfies GreatCourse

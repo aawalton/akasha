@@ -10,7 +10,12 @@ export const greatScientificIdeasThatChangedTheWorld = {
   ownLength: 1150.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-scientific-ideas-that-changed-the-world",
-  externalLink: "https://www.thegreatcoursesplus.com/great-scientific-ideas-that-changed-the-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-scientific-ideas-that-changed-the-world",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/great-scientific-ideas-that-changed-the-world",
+    },
+  ],
 } as const satisfies GreatCourse

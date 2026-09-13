@@ -10,8 +10,12 @@ export const fromJesusToConstantineAHistoryOfEarlyChristianity = {
   ownLength: 735.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "from-jesus-to-constantine-a-history-of-early-christianity",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/from-jesus-to-constantine-a-history-of-early-christianity",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "from-jesus-to-constantine-a-history-of-early-christianity",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/from-jesus-to-constantine-a-history-of-early-christianity",
+    },
+  ],
 } as const satisfies GreatCourse

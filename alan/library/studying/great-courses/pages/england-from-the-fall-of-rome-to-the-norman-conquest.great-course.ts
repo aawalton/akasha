@@ -11,8 +11,12 @@ export const englandFromTheFallOfRomeToTheNormanConquest = {
   ownLength: 723,
   ownProgress: 723,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
-  source: "the-great-courses",
-  externalId: "england-from-the-fall-of-rome-to-the-norman-conquest",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/england-from-the-fall-of-rome-to-the-norman-conquest",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "england-from-the-fall-of-rome-to-the-norman-conquest",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/england-from-the-fall-of-rome-to-the-norman-conquest",
+    },
+  ],
 } as const satisfies GreatCourse

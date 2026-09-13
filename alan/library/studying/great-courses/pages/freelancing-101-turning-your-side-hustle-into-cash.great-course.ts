@@ -11,8 +11,12 @@ export const freelancing101TurningYourSideHustleIntoCash = {
   ownLength: 126,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
-  source: "the-great-courses",
-  externalId: "freelancing-101-turning-your-side-hustle-into-cash",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/freelancing-101-turning-your-side-hustle-into-cash",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "freelancing-101-turning-your-side-hustle-into-cash",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/freelancing-101-turning-your-side-hustle-into-cash",
+    },
+  ],
 } as const satisfies GreatCourse

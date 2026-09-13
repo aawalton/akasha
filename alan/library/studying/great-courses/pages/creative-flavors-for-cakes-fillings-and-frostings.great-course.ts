@@ -15,7 +15,12 @@ export const creativeFlavorsForCakesFillingsAndFrostings = {
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "creative-flavors-for-cakes-fillings-frostings",
-  externalLink: "https://www.thegreatcoursesplus.com/creative-flavors-for-cakes-fillings-frostings",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "creative-flavors-for-cakes-fillings-frostings",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/creative-flavors-for-cakes-fillings-frostings",
+    },
+  ],
 } as const satisfies GreatCourse

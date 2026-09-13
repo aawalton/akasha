@@ -10,8 +10,12 @@ export const greatArchaeologicalMysteriesOfEuropeAndTheMediterranean = {
   ownLength: 547.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-archaeological-mysteries-of-europe-and-the-mediterranean",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/great-archaeological-mysteries-of-europe-and-the-mediterranean",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-archaeological-mysteries-of-europe-and-the-mediterranean",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/great-archaeological-mysteries-of-europe-and-the-mediterranean",
+    },
+  ],
 } as const satisfies GreatCourse

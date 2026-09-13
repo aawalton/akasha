@@ -11,7 +11,11 @@ export const danishPastriesFromScratch = {
   ownLength: 171.15,
   ownProgress: 171.15,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "danish-pastries-from-scratch",
-  externalLink: "https://www.thegreatcoursesplus.com/danish-pastries-from-scratch",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "danish-pastries-from-scratch",
+      externalLink: "https://www.thegreatcoursesplus.com/danish-pastries-from-scratch",
+    },
+  ],
 } as const satisfies GreatCourse

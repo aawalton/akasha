@@ -11,7 +11,12 @@ export const greatCourse10EssentialTechniquesForBetterDrawing = {
   ownLength: 153,
   ownProgress: 153,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "10-essential-techniques-for-better-drawing",
-  externalLink: "https://www.thegreatcoursesplus.com/10-essential-techniques-for-better-drawing",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "10-essential-techniques-for-better-drawing",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/10-essential-techniques-for-better-drawing",
+    },
+  ],
 } as const satisfies GreatCourse

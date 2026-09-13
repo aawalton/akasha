@@ -10,7 +10,11 @@ export const greatBattlesOfTheAncientWorld = {
   ownLength: 745.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-battles-of-the-ancient-world",
-  externalLink: "https://www.thegreatcoursesplus.com/great-battles-of-the-ancient-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-battles-of-the-ancient-world",
+      externalLink: "https://www.thegreatcoursesplus.com/great-battles-of-the-ancient-world",
+    },
+  ],
 } as const satisfies GreatCourse

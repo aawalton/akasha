@@ -10,7 +10,12 @@ export const aHistoryOfTheUnitedStates2ndEdition = {
   ownLength: 2576.4,
   ownProgress: 1288.2,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "a-history-of-the-united-states-2nd-edition",
-  externalLink: "https://www.thegreatcoursesplus.com/a-history-of-the-united-states-2nd-edition",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "a-history-of-the-united-states-2nd-edition",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/a-history-of-the-united-states-2nd-edition",
+    },
+  ],
 } as const satisfies GreatCourse

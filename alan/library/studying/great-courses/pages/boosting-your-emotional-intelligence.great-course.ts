@@ -15,7 +15,11 @@ export const boostingYourEmotionalIntelligence = {
     "hobby-and-personal-pursuits-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "boosting-your-emotional-intelligence",
-  externalLink: "https://www.thegreatcoursesplus.com/boosting-your-emotional-intelligence",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "boosting-your-emotional-intelligence",
+      externalLink: "https://www.thegreatcoursesplus.com/boosting-your-emotional-intelligence",
+    },
+  ],
 } as const satisfies GreatCourse

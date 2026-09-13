@@ -10,7 +10,11 @@ export const howTheGreatMigrationChangedAmerica = {
   ownLength: 344.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-the-great-migration-changed-america",
-  externalLink: "https://www.thegreatcoursesplus.com/how-the-great-migration-changed-america",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-the-great-migration-changed-america",
+      externalLink: "https://www.thegreatcoursesplus.com/how-the-great-migration-changed-america",
+    },
+  ],
 } as const satisfies GreatCourse

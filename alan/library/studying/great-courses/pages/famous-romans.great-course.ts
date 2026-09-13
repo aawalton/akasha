@@ -10,7 +10,11 @@ export const famousRomans = {
   ownLength: 744,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "famous-romans",
-  externalLink: "https://www.thegreatcoursesplus.com/famous-romans",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "famous-romans",
+      externalLink: "https://www.thegreatcoursesplus.com/famous-romans",
+    },
+  ],
 } as const satisfies GreatCourse

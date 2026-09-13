@@ -11,7 +11,12 @@ export const goingToTheDevilTheImpeachmentOf1868 = {
   ownLength: 60,
   ownProgress: 60,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "going-to-the-devil-the-impeachment-of-1868",
-  externalLink: "https://www.thegreatcoursesplus.com/going-to-the-devil-the-impeachment-of-1868",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "going-to-the-devil-the-impeachment-of-1868",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/going-to-the-devil-the-impeachment-of-1868",
+    },
+  ],
 } as const satisfies GreatCourse

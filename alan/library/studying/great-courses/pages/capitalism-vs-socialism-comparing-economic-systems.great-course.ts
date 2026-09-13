@@ -10,8 +10,12 @@ export const capitalismVsSocialismComparingEconomicSystems = {
   ownLength: 727.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
-  source: "the-great-courses",
-  externalId: "capitalism-vs-socialism-comparing-economic-systems",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/capitalism-vs-socialism-comparing-economic-systems",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "capitalism-vs-socialism-comparing-economic-systems",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/capitalism-vs-socialism-comparing-economic-systems",
+    },
+  ],
 } as const satisfies GreatCourse

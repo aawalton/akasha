@@ -14,8 +14,12 @@ export const brainMythsExplodedLessonsFromNeuroscience = {
     "professional-growth-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "brain-myths-exploded-lessons-from-neuroscience",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/brain-myths-exploded-lessons-from-neuroscience",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "brain-myths-exploded-lessons-from-neuroscience",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/brain-myths-exploded-lessons-from-neuroscience",
+    },
+  ],
 } as const satisfies GreatCourse

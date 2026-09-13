@@ -11,7 +11,11 @@ export const fairIsleFundamentals = {
   ownLength: 116.4,
   ownProgress: 116.4,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "fair-isle-fundamentals",
-  externalLink: "https://www.thegreatcoursesplus.com/fair-isle-fundamentals",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "fair-isle-fundamentals",
+      externalLink: "https://www.thegreatcoursesplus.com/fair-isle-fundamentals",
+    },
+  ],
 } as const satisfies GreatCourse

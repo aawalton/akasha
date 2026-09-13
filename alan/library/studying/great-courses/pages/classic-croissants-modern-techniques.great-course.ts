@@ -15,7 +15,11 @@ export const classicCroissantsModernTechniques = {
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "classic-croissants-modern-techniques",
-  externalLink: "https://www.thegreatcoursesplus.com/classic-croissants-modern-techniques",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "classic-croissants-modern-techniques",
+      externalLink: "https://www.thegreatcoursesplus.com/classic-croissants-modern-techniques",
+    },
+  ],
 } as const satisfies GreatCourse

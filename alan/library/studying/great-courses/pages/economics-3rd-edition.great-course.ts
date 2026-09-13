@@ -10,7 +10,11 @@ export const economics3rdEdition = {
   ownLength: 1111.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
-  source: "the-great-courses",
-  externalId: "economics-3rd-edition",
-  externalLink: "https://www.thegreatcoursesplus.com/economics-3rd-edition",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "economics-3rd-edition",
+      externalLink: "https://www.thegreatcoursesplus.com/economics-3rd-edition",
+    },
+  ],
 } as const satisfies GreatCourse

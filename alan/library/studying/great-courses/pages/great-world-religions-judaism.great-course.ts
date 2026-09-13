@@ -10,7 +10,11 @@ export const greatWorldReligionsJudaism = {
   ownLength: 366,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-world-religions-judaism",
-  externalLink: "https://www.thegreatcoursesplus.com/great-world-religions-judaism",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-world-religions-judaism",
+      externalLink: "https://www.thegreatcoursesplus.com/great-world-religions-judaism",
+    },
+  ],
 } as const satisfies GreatCourse

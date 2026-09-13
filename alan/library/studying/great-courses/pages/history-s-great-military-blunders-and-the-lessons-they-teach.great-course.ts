@@ -11,8 +11,12 @@ export const historySGreatMilitaryBlundersAndTheLessonsTheyTeach = {
   ownLength: 735,
   ownProgress: 735,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "historys-great-military-blunders-and-the-lessons-they-teach",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/historys-great-military-blunders-and-the-lessons-they-teach",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "historys-great-military-blunders-and-the-lessons-they-teach",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/historys-great-military-blunders-and-the-lessons-they-teach",
+    },
+  ],
 } as const satisfies GreatCourse

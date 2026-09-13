@@ -10,7 +10,11 @@ export const discreteMathematics = {
   ownLength: 764.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],
-  source: "the-great-courses",
-  externalId: "discrete-mathematics",
-  externalLink: "https://www.thegreatcoursesplus.com/discrete-mathematics",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "discrete-mathematics",
+      externalLink: "https://www.thegreatcoursesplus.com/discrete-mathematics",
+    },
+  ],
 } as const satisfies GreatCourse

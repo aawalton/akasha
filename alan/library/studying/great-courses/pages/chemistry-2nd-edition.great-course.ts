@@ -10,7 +10,11 @@ export const chemistry2ndEdition = {
   ownLength: 1092.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "chemistry-2nd-edition",
-  externalLink: "https://www.thegreatcoursesplus.com/chemistry-2nd-edition",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "chemistry-2nd-edition",
+      externalLink: "https://www.thegreatcoursesplus.com/chemistry-2nd-edition",
+    },
+  ],
 } as const satisfies GreatCourse

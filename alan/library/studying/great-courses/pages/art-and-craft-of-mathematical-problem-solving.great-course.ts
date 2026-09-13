@@ -11,7 +11,12 @@ export const artAndCraftOfMathematicalProblemSolving = {
   ownLength: 734.4,
   ownProgress: 734.4,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],
-  source: "the-great-courses",
-  externalId: "art-and-craft-of-mathematical-problem-solving",
-  externalLink: "https://www.thegreatcoursesplus.com/art-and-craft-of-mathematical-problem-solving",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "art-and-craft-of-mathematical-problem-solving",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/art-and-craft-of-mathematical-problem-solving",
+    },
+  ],
 } as const satisfies GreatCourse

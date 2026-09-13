@@ -15,7 +15,11 @@ export const cookieDecoratingSeasonBySeason = {
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "cookie-decorating-season-by-season",
-  externalLink: "https://www.thegreatcoursesplus.com/cookie-decorating-season-by-season",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "cookie-decorating-season-by-season",
+      externalLink: "https://www.thegreatcoursesplus.com/cookie-decorating-season-by-season",
+    },
+  ],
 } as const satisfies GreatCourse

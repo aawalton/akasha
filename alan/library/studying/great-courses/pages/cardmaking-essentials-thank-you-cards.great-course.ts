@@ -15,7 +15,11 @@ export const cardmakingEssentialsThankYouCards = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "cardmaking-essentials-thank-you-cards",
-  externalLink: "https://www.thegreatcoursesplus.com/cardmaking-essentials-thank-you-cards",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "cardmaking-essentials-thank-you-cards",
+      externalLink: "https://www.thegreatcoursesplus.com/cardmaking-essentials-thank-you-cards",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,12 @@ export const greatMastersStravinskyHisLifeAndMusic = {
   ownLength: 373.783333,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-masters-stravinsky-his-life-and-music",
-  externalLink: "https://www.thegreatcoursesplus.com/great-masters-stravinsky-his-life-and-music",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-masters-stravinsky-his-life-and-music",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/great-masters-stravinsky-his-life-and-music",
+    },
+  ],
 } as const satisfies GreatCourse

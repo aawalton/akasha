@@ -11,7 +11,11 @@ export const breakingTheirSilence = {
   ownLength: 135.6,
   ownProgress: 135.6,
   partOfCollections: ["all-great-courses", "history-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "breaking-their-silence",
-  externalLink: "https://www.thegreatcoursesplus.com/breaking-their-silence",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "breaking-their-silence",
+      externalLink: "https://www.thegreatcoursesplus.com/breaking-their-silence",
+    },
+  ],
 } as const satisfies GreatCourse

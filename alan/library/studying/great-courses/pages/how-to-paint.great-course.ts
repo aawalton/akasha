@@ -15,7 +15,11 @@ export const howToPaint = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-to-paint",
-  externalLink: "https://www.thegreatcoursesplus.com/how-to-paint",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-paint",
+      externalLink: "https://www.thegreatcoursesplus.com/how-to-paint",
+    },
+  ],
 } as const satisfies GreatCourse

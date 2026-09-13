@@ -11,7 +11,11 @@ export const greatCourse12EssentialScientificConcepts = {
   ownLength: 724.2,
   ownProgress: 724.2,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "12-essential-scientific-concepts",
-  externalLink: "https://www.thegreatcoursesplus.com/12-essential-scientific-concepts",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "12-essential-scientific-concepts",
+      externalLink: "https://www.thegreatcoursesplus.com/12-essential-scientific-concepts",
+    },
+  ],
 } as const satisfies GreatCourse

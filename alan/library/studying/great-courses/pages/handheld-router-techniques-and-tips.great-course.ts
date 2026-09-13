@@ -11,7 +11,11 @@ export const handheldRouterTechniquesAndTips = {
   ownLength: 205.2,
   ownProgress: 205.2,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "handheld-router-techniques-and-tips",
-  externalLink: "https://www.thegreatcoursesplus.com/handheld-router-techniques-and-tips",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "handheld-router-techniques-and-tips",
+      externalLink: "https://www.thegreatcoursesplus.com/handheld-router-techniques-and-tips",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,8 +10,12 @@ export const howToBreakTheHabitOfSelfDoubtAndBuildRealConfidence = {
   ownLength: 308.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-to-break-the-habit-of-self-doubt-and-build-real-confidence",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/how-to-break-the-habit-of-self-doubt-and-build-real-confidence",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-break-the-habit-of-self-doubt-and-build-real-confidence",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/how-to-break-the-habit-of-self-doubt-and-build-real-confidence",
+    },
+  ],
 } as const satisfies GreatCourse

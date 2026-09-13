@@ -11,8 +11,12 @@ export const bannedBooksBurnedBooksForbiddenLiteraryWorks = {
   ownLength: 782.4,
   ownProgress: 782.4,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "banned-books-burned-books-forbidden-literary-works",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/banned-books-burned-books-forbidden-literary-works",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "banned-books-burned-books-forbidden-literary-works",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/banned-books-burned-books-forbidden-literary-works",
+    },
+  ],
 } as const satisfies GreatCourse

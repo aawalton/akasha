@@ -10,7 +10,11 @@ export const identityInTheAgeOfAncestralDna = {
   ownLength: 352.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "identity-in-the-age-of-ancestral-dna",
-  externalLink: "https://www.thegreatcoursesplus.com/identity-in-the-age-of-ancestral-dna",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "identity-in-the-age-of-ancestral-dna",
+      externalLink: "https://www.thegreatcoursesplus.com/identity-in-the-age-of-ancestral-dna",
+    },
+  ],
 } as const satisfies GreatCourse

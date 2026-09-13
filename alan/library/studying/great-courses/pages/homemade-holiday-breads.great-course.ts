@@ -15,7 +15,11 @@ export const homemadeHolidayBreads = {
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "homemade-holiday-breads",
-  externalLink: "https://www.thegreatcoursesplus.com/homemade-holiday-breads",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "homemade-holiday-breads",
+      externalLink: "https://www.thegreatcoursesplus.com/homemade-holiday-breads",
+    },
+  ],
 } as const satisfies GreatCourse

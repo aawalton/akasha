@@ -18,7 +18,12 @@ export const biblicalHebrewLearningASacredLanguage = {
     "philosophy-and-religion-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "biblical-hebrew-learning-a-sacred-language",
-  externalLink: "https://www.thegreatcoursesplus.com/biblical-hebrew-learning-a-sacred-language",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "biblical-hebrew-learning-a-sacred-language",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/biblical-hebrew-learning-a-sacred-language",
+    },
+  ],
 } as const satisfies GreatCourse

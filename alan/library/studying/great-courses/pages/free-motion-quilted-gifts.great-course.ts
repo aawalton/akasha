@@ -11,7 +11,11 @@ export const freeMotionQuiltedGifts = {
   ownLength: 78.6,
   ownProgress: 78.6,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "free-motion-quilted-gifts",
-  externalLink: "https://www.thegreatcoursesplus.com/free-motion-quilted-gifts",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "free-motion-quilted-gifts",
+      externalLink: "https://www.thegreatcoursesplus.com/free-motion-quilted-gifts",
+    },
+  ],
 } as const satisfies GreatCourse

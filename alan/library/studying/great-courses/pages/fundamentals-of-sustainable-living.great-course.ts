@@ -14,7 +14,11 @@ export const fundamentalsOfSustainableLiving = {
     "hobby-and-personal-pursuits-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "fundamentals-of-sustainable-living",
-  externalLink: "https://www.thegreatcoursesplus.com/fundamentals-of-sustainable-living",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "fundamentals-of-sustainable-living",
+      externalLink: "https://www.thegreatcoursesplus.com/fundamentals-of-sustainable-living",
+    },
+  ],
 } as const satisfies GreatCourse

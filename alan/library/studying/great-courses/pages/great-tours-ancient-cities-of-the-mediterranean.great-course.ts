@@ -11,8 +11,12 @@ export const greatToursAncientCitiesOfTheMediterranean = {
   ownLength: 701.4,
   ownProgress: 701.4,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-tours-ancient-cities-of-the-mediterranean",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/great-tours-ancient-cities-of-the-mediterranean",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-tours-ancient-cities-of-the-mediterranean",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/great-tours-ancient-cities-of-the-mediterranean",
+    },
+  ],
 } as const satisfies GreatCourse

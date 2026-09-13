@@ -14,8 +14,12 @@ export const changingBodyCompositionThroughDietAndExercise = {
     "health-and-mindfulness-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "changing-body-composition-through-diet-and-exercise",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/changing-body-composition-through-diet-and-exercise",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "changing-body-composition-through-diet-and-exercise",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/changing-body-composition-through-diet-and-exercise",
+    },
+  ],
 } as const satisfies GreatCourse

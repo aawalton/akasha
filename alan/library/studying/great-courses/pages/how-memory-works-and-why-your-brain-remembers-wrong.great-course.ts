@@ -10,8 +10,12 @@ export const howMemoryWorksAndWhyYourBrainRemembersWrong = {
   ownLength: 350.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-memory-works-and-why-your-brain-remembers-wrong",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/how-memory-works-and-why-your-brain-remembers-wrong",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-memory-works-and-why-your-brain-remembers-wrong",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/how-memory-works-and-why-your-brain-remembers-wrong",
+    },
+  ],
 } as const satisfies GreatCourse

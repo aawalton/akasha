@@ -10,8 +10,12 @@ export const buildingYourResilienceFindingMeaningInAdversity = {
   ownLength: 771.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "building-your-resilience-finding-meaning-in-adversity",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/building-your-resilience-finding-meaning-in-adversity",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "building-your-resilience-finding-meaning-in-adversity",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/building-your-resilience-finding-meaning-in-adversity",
+    },
+  ],
 } as const satisfies GreatCourse

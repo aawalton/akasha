@@ -10,7 +10,11 @@ export const howToReadAndUnderstandShakespeare = {
   ownLength: 743.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "how-to-read-and-understand-shakespeare",
-  externalLink: "https://www.thegreatcoursesplus.com/how-to-read-and-understand-shakespeare",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-read-and-understand-shakespeare",
+      externalLink: "https://www.thegreatcoursesplus.com/how-to-read-and-understand-shakespeare",
+    },
+  ],
 } as const satisfies GreatCourse

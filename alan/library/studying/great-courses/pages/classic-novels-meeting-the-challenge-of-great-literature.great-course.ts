@@ -10,8 +10,12 @@ export const classicNovelsMeetingTheChallengeOfGreatLiterature = {
   ownLength: 1128.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "classic-novels-meeting-the-challenge-of-great-literature",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/classic-novels-meeting-the-challenge-of-great-literature",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "classic-novels-meeting-the-challenge-of-great-literature",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/classic-novels-meeting-the-challenge-of-great-literature",
+    },
+  ],
 } as const satisfies GreatCourse

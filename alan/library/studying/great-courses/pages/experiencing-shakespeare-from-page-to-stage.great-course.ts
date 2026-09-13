@@ -10,7 +10,12 @@ export const experiencingShakespeareFromPageToStage = {
   ownLength: 309.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "experiencing-shakespeare-from-page-to-stage",
-  externalLink: "https://www.thegreatcoursesplus.com/experiencing-shakespeare-from-page-to-stage",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "experiencing-shakespeare-from-page-to-stage",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/experiencing-shakespeare-from-page-to-stage",
+    },
+  ],
 } as const satisfies GreatCourse

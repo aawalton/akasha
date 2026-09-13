@@ -15,7 +15,11 @@ export const illustratedNatureJournaling = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "illustrated-nature-journaling",
-  externalLink: "https://www.thegreatcoursesplus.com/illustrated-nature-journaling",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "illustrated-nature-journaling",
+      externalLink: "https://www.thegreatcoursesplus.com/illustrated-nature-journaling",
+    },
+  ],
 } as const satisfies GreatCourse

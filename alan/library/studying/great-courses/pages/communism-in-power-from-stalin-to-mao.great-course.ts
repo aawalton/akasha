@@ -10,7 +10,11 @@ export const communismInPowerFromStalinToMao = {
   ownLength: 354,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "communism-in-power-from-stalin-to-mao",
-  externalLink: "https://www.thegreatcoursesplus.com/communism-in-power-from-stalin-to-mao",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "communism-in-power-from-stalin-to-mao",
+      externalLink: "https://www.thegreatcoursesplus.com/communism-in-power-from-stalin-to-mao",
+    },
+  ],
 } as const satisfies GreatCourse

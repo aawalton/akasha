@@ -11,7 +11,11 @@ export const booksThatMatterTheCityOfGod = {
   ownLength: 766.8,
   ownProgress: 766.8,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "books-that-matter-the-city-of-god",
-  externalLink: "https://www.thegreatcoursesplus.com/books-that-matter-the-city-of-god",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "books-that-matter-the-city-of-god",
+      externalLink: "https://www.thegreatcoursesplus.com/books-that-matter-the-city-of-god",
+    },
+  ],
 } as const satisfies GreatCourse

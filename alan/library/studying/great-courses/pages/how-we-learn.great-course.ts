@@ -14,7 +14,11 @@ export const howWeLearn = {
     "hobby-and-personal-pursuits-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-we-learn",
-  externalLink: "https://www.thegreatcoursesplus.com/how-we-learn",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-we-learn",
+      externalLink: "https://www.thegreatcoursesplus.com/how-we-learn",
+    },
+  ],
 } as const satisfies GreatCourse

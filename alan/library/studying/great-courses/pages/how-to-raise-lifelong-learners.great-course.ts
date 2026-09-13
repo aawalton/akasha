@@ -15,7 +15,11 @@ export const howToRaiseLifelongLearners = {
     "hobby-and-personal-pursuits-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-to-raise-lifelong-learners",
-  externalLink: "https://www.thegreatcoursesplus.com/how-to-raise-lifelong-learners",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-raise-lifelong-learners",
+      externalLink: "https://www.thegreatcoursesplus.com/how-to-raise-lifelong-learners",
+    },
+  ],
 } as const satisfies GreatCourse

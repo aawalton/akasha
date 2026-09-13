@@ -15,7 +15,11 @@ export const cakeDecorating = {
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "cake-decorating",
-  externalLink: "https://www.thegreatcoursesplus.com/cake-decorating",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "cake-decorating",
+      externalLink: "https://www.thegreatcoursesplus.com/cake-decorating",
+    },
+  ],
 } as const satisfies GreatCourse

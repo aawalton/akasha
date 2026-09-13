@@ -10,8 +10,12 @@ export const greatUtopianAndDystopianWorksOfLiterature = {
   ownLength: 748.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-utopian-and-dystopian-works-of-literature",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/great-utopian-and-dystopian-works-of-literature",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-utopian-and-dystopian-works-of-literature",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/great-utopian-and-dystopian-works-of-literature",
+    },
+  ],
 } as const satisfies GreatCourse

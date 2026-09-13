@@ -10,7 +10,11 @@ export const earthSChangingClimate = {
   ownLength: 368.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "earth-s-changing-climate",
-  externalLink: "https://www.thegreatcoursesplus.com/earth-s-changing-climate",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "earth-s-changing-climate",
+      externalLink: "https://www.thegreatcoursesplus.com/earth-s-changing-climate",
+    },
+  ],
 } as const satisfies GreatCourse

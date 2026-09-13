@@ -11,7 +11,11 @@ export const greatArtistsOfTheItalianRenaissance = {
   ownLength: 1092,
   ownProgress: 1092,
   partOfCollections: ["all-great-courses", "art-great-courses", "learning-paths-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-artists-of-the-italian-renaissance",
-  externalLink: "https://www.thegreatcoursesplus.com/great-artists-of-the-italian-renaissance",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-artists-of-the-italian-renaissance",
+      externalLink: "https://www.thegreatcoursesplus.com/great-artists-of-the-italian-renaissance",
+    },
+  ],
 } as const satisfies GreatCourse

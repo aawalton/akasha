@@ -14,7 +14,11 @@ export const howToBecomeASuperstarStudent = {
     "hobby-and-personal-pursuits-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "how-to-become-a-superstar-student",
-  externalLink: "https://www.thegreatcoursesplus.com/how-to-become-a-superstar-student",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-become-a-superstar-student",
+      externalLink: "https://www.thegreatcoursesplus.com/how-to-become-a-superstar-student",
+    },
+  ],
 } as const satisfies GreatCourse

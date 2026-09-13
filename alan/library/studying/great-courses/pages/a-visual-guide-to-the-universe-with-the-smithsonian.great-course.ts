@@ -11,8 +11,12 @@ export const aVisualGuideToTheUniverseWithTheSmithsonian = {
   ownLength: 546.6,
   ownProgress: 546.6,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "a-visual-guide-to-the-universe-with-the-smithsonian",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/a-visual-guide-to-the-universe-with-the-smithsonian",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "a-visual-guide-to-the-universe-with-the-smithsonian",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/a-visual-guide-to-the-universe-with-the-smithsonian",
+    },
+  ],
 } as const satisfies GreatCourse

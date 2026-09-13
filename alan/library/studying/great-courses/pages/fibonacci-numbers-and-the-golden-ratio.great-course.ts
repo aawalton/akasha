@@ -11,7 +11,11 @@ export const fibonacciNumbersAndTheGoldenRatio = {
   ownLength: 331.8,
   ownProgress: 331.8,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],
-  source: "the-great-courses",
-  externalId: "fibonacci-numbers-and-the-golden-ratio",
-  externalLink: "https://www.thegreatcoursesplus.com/fibonacci-numbers-and-the-golden-ratio",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "fibonacci-numbers-and-the-golden-ratio",
+      externalLink: "https://www.thegreatcoursesplus.com/fibonacci-numbers-and-the-golden-ratio",
+    },
+  ],
 } as const satisfies GreatCourse

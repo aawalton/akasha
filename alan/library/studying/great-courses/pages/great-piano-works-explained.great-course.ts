@@ -10,7 +10,11 @@ export const greatPianoWorksExplained = {
   ownLength: 795,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-piano-works-explained",
-  externalLink: "https://www.thegreatcoursesplus.com/great-piano-works-explained",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-piano-works-explained",
+      externalLink: "https://www.thegreatcoursesplus.com/great-piano-works-explained",
+    },
+  ],
 } as const satisfies GreatCourse

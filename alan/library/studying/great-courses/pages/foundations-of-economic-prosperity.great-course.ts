@@ -10,7 +10,11 @@ export const foundationsOfEconomicProsperity = {
   ownLength: 736.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
-  source: "the-great-courses",
-  externalId: "foundations-of-economic-prosperity",
-  externalLink: "https://www.thegreatcoursesplus.com/foundations-of-economic-prosperity",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "foundations-of-economic-prosperity",
+      externalLink: "https://www.thegreatcoursesplus.com/foundations-of-economic-prosperity",
+    },
+  ],
 } as const satisfies GreatCourse

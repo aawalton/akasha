@@ -10,7 +10,11 @@ export const greatWorldReligionsBuddhism = {
   ownLength: 371.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "great-world-religions-buddhism",
-  externalLink: "https://www.thegreatcoursesplus.com/great-world-religions-buddhism",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-world-religions-buddhism",
+      externalLink: "https://www.thegreatcoursesplus.com/great-world-religions-buddhism",
+    },
+  ],
 } as const satisfies GreatCourse

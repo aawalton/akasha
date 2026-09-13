@@ -11,8 +11,12 @@ export const beingHumanLifeLessonsFromTheFrontiersOfScience = {
   ownLength: 356.4,
   ownProgress: 356.4,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "being-human-life-lessons-from-the-frontiers-of-science",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/being-human-life-lessons-from-the-frontiers-of-science",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "being-human-life-lessons-from-the-frontiers-of-science",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/being-human-life-lessons-from-the-frontiers-of-science",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const blackHolesExplained = {
   ownLength: 384.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "black-holes-explained",
-  externalLink: "https://www.thegreatcoursesplus.com/black-holes-explained",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "black-holes-explained",
+      externalLink: "https://www.thegreatcoursesplus.com/black-holes-explained",
+    },
+  ],
 } as const satisfies GreatCourse

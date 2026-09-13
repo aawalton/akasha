@@ -15,7 +15,11 @@ export const handLetteringForBeginners = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "hand-lettering-for-beginners",
-  externalLink: "https://www.thegreatcoursesplus.com/hand-lettering-for-beginners",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "hand-lettering-for-beginners",
+      externalLink: "https://www.thegreatcoursesplus.com/hand-lettering-for-beginners",
+    },
+  ],
 } as const satisfies GreatCourse

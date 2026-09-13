@@ -15,8 +15,12 @@ export const experiencingAmericaASmithsonianTourThroughAmericanHistory = {
     "history-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "experiencing-america-a-smithsonian-tour-through-american-history",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/experiencing-america-a-smithsonian-tour-through-american-history",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "experiencing-america-a-smithsonian-tour-through-american-history",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/experiencing-america-a-smithsonian-tour-through-american-history",
+    },
+  ],
 } as const satisfies GreatCourse

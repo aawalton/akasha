@@ -11,8 +11,12 @@ export const forgottenWarTheLastingLegacyOfWorldWarI = {
   ownLength: 21,
   ownProgress: 21,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "forgotten-war-the-lasting-legacy-of-world-war-i",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/forgotten-war-the-lasting-legacy-of-world-war-i",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "forgotten-war-the-lasting-legacy-of-world-war-i",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/forgotten-war-the-lasting-legacy-of-world-war-i",
+    },
+  ],
 } as const satisfies GreatCourse
