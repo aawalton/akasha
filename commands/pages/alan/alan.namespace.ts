@@ -9,6 +9,7 @@ export const alan = {
     "command/alan-elaine",
     "command/alan-food",
     "command/alan-learn-next",
+    "command/alan-picture",
     "command/alan-tracking",
   ],
   name: "alan",
