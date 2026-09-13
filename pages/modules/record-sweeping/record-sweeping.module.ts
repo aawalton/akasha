@@ -22,7 +22,7 @@ export const recordSweeping = {
     },
     {
       invariantKind: "departure",
-      statement: "The page a file belongs to is what the path index says names that file.",
+      statement: "The page a file belongs to is composed out of that file's own name.",
     },
     {
       invariantKind: "departure",

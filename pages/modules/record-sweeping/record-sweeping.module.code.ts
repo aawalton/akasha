@@ -1,10 +1,9 @@
 import { Buffer } from "node:buffer"
 import { existsSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
+import { dirname, join } from "node:path"
 import { exclusively } from "akasha/files/modules/exclusive/exclusive.module.code.ts"
 import {
   everyPath,
-  listedByPath,
   readingIn,
   valuesOfType,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
@@ -16,6 +15,7 @@ import {
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.module.code.ts"
+import { pageOf, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { uncommittedPartsOf } from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"
 import {
   numberAt,
@@ -25,6 +25,8 @@ import {
 const FILE_PROPERTY = "file-property"
 
 const HELD = "jsonl"
+
+const TS = ".ts"
 
 const ENDING = ".uncommitted.jsonl"
 
@@ -82,8 +84,9 @@ export function streamsIn(given: string | Reading): readonly Stream[] {
     if (propertySlug === null) continue
     const hours = windows.get(propertySlug)
     if (hours === undefined) continue
-    const page = listedByPath(reading, path)[0]?.path
-    if (page === undefined) continue
+    const said = partedIn(path)
+    if (said === null) continue
+    const page = join(dirname(path), `${pageOf(said)}${TS}`)
     const section = sectionOf(page, path)
     if (section === null) continue
     const key = `${page}\t${section}`
