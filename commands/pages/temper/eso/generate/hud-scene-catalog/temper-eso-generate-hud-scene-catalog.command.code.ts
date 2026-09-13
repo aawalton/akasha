@@ -33,7 +33,7 @@ const NAMED = [codeRootArgument]
 
 const DOC_REL = "ESOUIDocumentation.txt"
 
-const CATALOG_DIR = "temper/hud-components"
+const CATALOG_DIR = "temper/hud-components/modules"
 
 const CATALOG_AT = `akasha/${CATALOG_DIR}`
 

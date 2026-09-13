@@ -56,6 +56,14 @@ export const temperEsoGenerateHudSceneCatalog = {
     },
     {
       invariantKind: "departure",
+      statement: "That folder is spelled here rather than read off a page sitting in it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A move of that folder is respelled here by hand, because nothing imports it.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A rendered module names what it imports from the root rather than by a relative path.",
     },
