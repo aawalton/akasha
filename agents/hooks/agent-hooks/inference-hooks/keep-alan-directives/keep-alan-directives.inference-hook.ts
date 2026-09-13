@@ -100,5 +100,10 @@ export const keepAlanDirectives = {
       invariantKind: "gap",
       statement: "A judge that answered is read even where another judge's call reached no model.",
     },
+    {
+      invariantKind: "constraint",
+      statement:
+        "One seat ended all 28 of its turns with a subagent still to report, so none were judged.",
+    },
   ],
 } as const satisfies InferenceHook
