@@ -1,3 +1,4 @@
+import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { shapeOf } from "akasha/pages/indexes/modules/property-shaping/property-shaping.module.code.ts"
 import {
@@ -104,10 +105,15 @@ export function runOf(root: string, named: string): Run | Refused {
   return { runner, path }
 }
 
+export function saidOfUnheld(named: string, at: string): string {
+  return `\`${named}\` would be run from ${at}, where no file is, so the tree is behind the pages`
+}
+
 export function commandOf(root: string, start: Start, codeAt: string = ""): Composed {
   const run = runOf(root, start.code)
   if ("refused" in run) return run
   const runAt = codeAt === "" ? run.path : join(codeAt, run.path)
+  if (codeAt !== "" && !existsSync(runAt)) return { refused: saidOfUnheld(start.code, runAt) }
   const words: string[] = [run.runner, runAt]
   for (const named of start.pages ?? []) {
     const at = pathOf(root, named)

@@ -62,6 +62,14 @@ export const runComposing = {
     },
     {
       invariantKind: "departure",
+      statement: "A tree holding no such file refuses rather than naming a path that is not there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command and the code that command runs come from one commit.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A page handed over as an argument keeps its own path, since a page is read under the root.",
     },

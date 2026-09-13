@@ -31,9 +31,13 @@ test("the words a start states are written after the file that start names", () 
 })
 
 test("a run is spelled under the tree named where a tree is named", () => {
-  expect(commandOf(ROOT, { code: RUNNER }, HELD_TREE)).toEqual({
-    command: `${BUN} ${HELD_TREE}/${runnerPath()}`,
+  expect(commandOf(ROOT, { code: RUNNER }, ROOT)).toEqual({
+    command: `${BUN} ${ROOT}/${runnerPath()}`,
   })
+})
+
+test("a tree holding no such file refuses rather than naming a path that is not there", () => {
+  expect("refused" in commandOf(ROOT, { code: RUNNER }, HELD_TREE)).toBe(true)
 })
 
 test("a name reaching no page refuses rather than composing a path", () => {
