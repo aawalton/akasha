@@ -1,4 +1,4 @@
-import type { TestFixture } from "akasha/testing-system/test-fixture/test-fixture.page-type.types.ts"
+import type { TestFixture } from "akasha/testing-system/test-fixtures/test-fixture.page-type.types.ts"
 
 export const inventoryManagementPlanTestUtils = {
   id: "01a0615a-a1dc-7882-8483-be86859114a7",
