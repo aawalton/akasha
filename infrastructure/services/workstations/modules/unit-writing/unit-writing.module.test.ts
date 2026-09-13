@@ -3,9 +3,10 @@ import {
   installedUnitName,
   isScheduled,
   type Started,
+  serviceUnitName,
   serviceUnitText,
+  timerUnitName,
   timerUnitText,
-  unitFileNames,
 } from "akasha/infrastructure/services/workstations/modules/unit-writing/unit-writing.module.code.ts"
 
 const PAGE_PATH =
@@ -130,11 +131,10 @@ test("what the page states about timing is written where systemd reads it", () =
 })
 
 test("the files a service is installed as follow its schedule", () => {
-  expect(unitFileNames(pageOf({}))).toEqual(["held-service.service"])
+  expect(serviceUnitName(pageOf({}))).toBe("held-service.service")
+  expect(timerUnitName(pageOf({}))).toBe("held-service.timer")
   expect(installedUnitName(pageOf({}))).toBe("held-service.service")
-  const scheduled = pageOf({ systemd: { schedule: "daily" } })
-  expect(unitFileNames(scheduled)).toEqual(["held-service.service", "held-service.timer"])
-  expect(installedUnitName(scheduled)).toBe("held-service.timer")
+  expect(installedUnitName(pageOf({ systemd: { schedule: "daily" } }))).toBe("held-service.timer")
 })
 
 test("what a service states it is ordered against is written before the service section", () => {

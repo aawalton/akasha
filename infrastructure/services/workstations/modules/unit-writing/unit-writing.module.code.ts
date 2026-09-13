@@ -11,6 +11,10 @@ const TIMER_TARGET = "timers.target"
 const SECRETS_FILE = "%h/.secrets.env"
 const NO_SECRETS = 78
 
+export const SERVICE_SUFFIX = ".service"
+
+export const TIMER_SUFFIX = ".timer"
+
 export const RESTART_EXIT = 79
 
 const WRITTEN_PREFIX = "# Written from "
@@ -135,12 +139,14 @@ export function timerUnitText(given: Service): string | null {
   return `${lines.join("\n")}\n`
 }
 
-export function unitFileNames(given: Service): readonly string[] {
-  const slug = given.service.slug
-  return isScheduled(given) ? [`${slug}.service`, `${slug}.timer`] : [`${slug}.service`]
+export function serviceUnitName(given: Service): string {
+  return `${given.service.slug}${SERVICE_SUFFIX}`
+}
+
+export function timerUnitName(given: Service): string {
+  return `${given.service.slug}${TIMER_SUFFIX}`
 }
 
 export function installedUnitName(given: Service): string {
-  const slug = given.service.slug
-  return isScheduled(given) ? `${slug}.timer` : `${slug}.service`
+  return isScheduled(given) ? timerUnitName(given) : serviceUnitName(given)
 }

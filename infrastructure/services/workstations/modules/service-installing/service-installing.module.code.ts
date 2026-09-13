@@ -12,8 +12,12 @@ import { join } from "node:path"
 import {
   installedUnitName,
   isScheduled,
+  SERVICE_SUFFIX,
   type Service,
+  serviceUnitName,
   serviceUnitText,
+  TIMER_SUFFIX,
+  timerUnitName,
   timerUnitText,
 } from "akasha/infrastructure/services/workstations/modules/unit-writing/unit-writing.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
@@ -21,8 +25,6 @@ import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const STAGING = ".local/state/workstation-services"
 const SYSTEMD = ".config/systemd/user"
-const SERVICE_SUFFIX = ".service"
-const TIMER_SUFFIX = ".timer"
 
 export type Ran = {
   readonly code: number
@@ -103,9 +105,9 @@ export function strandedAmong(
 
 export function textFor(given: Service): ReadonlyMap<string, string> {
   const held = new Map<string, string>()
-  held.set(`${given.service.slug}${SERVICE_SUFFIX}`, serviceUnitText(given))
+  held.set(serviceUnitName(given), serviceUnitText(given))
   const timer = timerUnitText(given)
-  if (timer !== null) held.set(`${given.service.slug}${TIMER_SUFFIX}`, timer)
+  if (timer !== null) held.set(timerUnitName(given), timer)
   return held
 }
 
@@ -124,7 +126,7 @@ export function planFor(
     if (one.service.enabled) enable.push(named)
     else stop.push(named)
     if (one.service.enabled && !isScheduled(one) && restarting.has(one.service.slug)) {
-      restart.push(`${one.service.slug}${SERVICE_SUFFIX}`)
+      restart.push(serviceUnitName(one))
     }
   }
   const ours = new Set(write.keys())
