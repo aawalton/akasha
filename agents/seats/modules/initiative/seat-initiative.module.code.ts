@@ -1,5 +1,5 @@
 import { existsSync } from "node:fs"
-import { pageTextOf } from "akasha/agents/seats/modules/page-values/seat-page-values.module.code.ts"
+import { pageTextOf } from "akasha/agents/seats/page/modules/page-values/seat-page-values.module.code.ts"
 import { initiativesDrawn } from "akasha/domains/modules/work-initiatives/work-initiatives.module.code.ts"
 import { addressIn } from "akasha/pages/modules/address/page-address.module.code.ts"
 import { AKASHA } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"

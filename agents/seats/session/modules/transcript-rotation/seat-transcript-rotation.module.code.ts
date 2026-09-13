@@ -1,7 +1,7 @@
 import { closeSync, openSync, readdirSync, readSync, statSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { akashaSeatsThatExist } from "akasha/agents/seats/modules/akasha-beside/seat-akasha-beside.module.code.ts"
-import { akashaObservedOf } from "akasha/agents/seats/modules/akasha-read/seat-akasha-read.module.code.ts"
+import { akashaSeatsThatExist } from "akasha/agents/seats/page/modules/akasha-beside/seat-akasha-beside.module.code.ts"
+import { akashaObservedOf } from "akasha/agents/seats/page/modules/akasha-read/seat-akasha-read.module.code.ts"
 import {
   TRANSCRIPT_KEY,
   transcriptOf,

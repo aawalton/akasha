@@ -4,11 +4,6 @@ import {
   recordedModeOf,
 } from "akasha/agents/modules/attributes/agent-attributes.module.code.ts"
 import {
-  frontmatterFromHistory,
-  nameFromHistory,
-} from "akasha/agents/seats/modules/page-history/seat-page-history.module.code.ts"
-import { pageTextOf } from "akasha/agents/seats/modules/page-values/seat-page-values.module.code.ts"
-import {
   seatIdForName,
   seatNameForAgent,
 } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
@@ -16,6 +11,11 @@ import {
   principalOf,
   principalSeatIdOf,
 } from "akasha/agents/seats/modules/principal/seat-principal.module.code.ts"
+import {
+  frontmatterFromHistory,
+  nameFromHistory,
+} from "akasha/agents/seats/page/modules/page-history/seat-page-history.module.code.ts"
+import { pageTextOf } from "akasha/agents/seats/page/modules/page-values/seat-page-values.module.code.ts"
 import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"
 

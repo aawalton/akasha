@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { seatPathForName } from "akasha/agents/seats/modules/reading/seat-reading.module.code.ts"
+import { seatPathForName } from "akasha/agents/seats/page/modules/reading/seat-reading.module.code.ts"
 import {
   type Stopped,
   type Stopping,

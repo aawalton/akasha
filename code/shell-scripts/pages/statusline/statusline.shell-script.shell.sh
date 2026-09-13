@@ -17,7 +17,7 @@ if [ ! -d "$AKASHA/agents" ]; then
   exit 1
 fi
 BUN_BIN=$(command -v bun || echo "$HOME/.bun/bin/bun")
-SEAT_READER="$AKASHA/agents/seats/modules/reading/seat-reading.module.code.ts"
+SEAT_READER="$AKASHA/agents/seats/page/modules/reading/seat-reading.module.code.ts"
 
 INPUT=$(cat)
 

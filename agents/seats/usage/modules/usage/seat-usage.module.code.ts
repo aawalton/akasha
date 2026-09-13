@@ -2,7 +2,7 @@ import {
   keepSeatRecord,
   type SeatRecord,
   seatRecordOf,
-} from "akasha/agents/seats/modules/record/seat-record.module.code.ts"
+} from "akasha/agents/seats/page/modules/record/seat-record.module.code.ts"
 
 export type UsageRecord = SeatRecord
 

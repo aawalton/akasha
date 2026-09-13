@@ -1,11 +1,11 @@
 import { mkdirSync, renameSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { colorOfState } from "akasha/agents/seats/modules/turn-color/seat-turn-color.module.code.ts"
+import { seatTurnStateOf } from "akasha/agents/seats/modules/turn-state/seat-turn-state.module.code.ts"
 import {
   akashaRoot,
   akashaSeatsThatExist,
-} from "akasha/agents/seats/modules/akasha-beside/seat-akasha-beside.module.code.ts"
-import { colorOfState } from "akasha/agents/seats/modules/turn-color/seat-turn-color.module.code.ts"
-import { seatTurnStateOf } from "akasha/agents/seats/modules/turn-state/seat-turn-state.module.code.ts"
+} from "akasha/agents/seats/page/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import {
   decide,
   type Held,

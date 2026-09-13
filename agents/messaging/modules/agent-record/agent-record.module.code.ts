@@ -1,5 +1,5 @@
 import { writeMessage } from "akasha/agents/messaging/modules/message-file/message-file.module.code.ts"
-import { akashaSeatIdForName } from "akasha/agents/seats/modules/akasha-beside/seat-akasha-beside.module.code.ts"
+import { akashaSeatIdForName } from "akasha/agents/seats/page/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 
 const DEFAULT_SENDER = "service"
 

@@ -8,10 +8,6 @@ import {
   SEAT_MODE_HEADLESS,
 } from "akasha/agents/seats/launching/modules/modes/seat-modes.module.code.ts"
 import { resolveSeatTargetCli } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
-import {
-  type SeatFromHistory,
-  seatFromHistory,
-} from "akasha/agents/seats/modules/page-history/seat-page-history.module.code.ts"
 import { principalSeatNameOf } from "akasha/agents/seats/modules/principal/seat-principal.module.code.ts"
 import { stateSpawnedSeat } from "akasha/agents/seats/modules/state-spawned-seat/state-spawned-seat.module.code.ts"
 import {
@@ -22,6 +18,10 @@ import {
 import { composeSeatName } from "akasha/agents/seats/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { flexInName } from "akasha/agents/seats/name/modules/flex/seat-flex.module.code.ts"
 import { mintNamedAgent } from "akasha/agents/seats/name-claiming/modules/name-bind/seat-name-bind.module.code.ts"
+import {
+  type SeatFromHistory,
+  seatFromHistory,
+} from "akasha/agents/seats/page/modules/page-history/seat-page-history.module.code.ts"
 import {
   A_RESET,
   stopSeat,

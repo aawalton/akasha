@@ -18,9 +18,6 @@ import { attributeFor } from "akasha/agents/seats/modules/attribute/seat-attribu
 import { defaultLines } from "akasha/agents/seats/modules/defaults/seat-defaults.module.code.ts"
 import { SEAT_HELP } from "akasha/agents/seats/modules/help/seat-help.module.code.ts"
 import { refuseInitiative } from "akasha/agents/seats/modules/initiative/seat-initiative.module.code.ts"
-import { akashaSeatRelPath } from "akasha/agents/seats/modules/page-akasha/seat-page-akasha.module.code.ts"
-import { statedFromHistory } from "akasha/agents/seats/modules/page-history/seat-page-history.module.code.ts"
-import { writeSeatPage } from "akasha/agents/seats/modules/page-writing/seat-page-writing.module.code.ts"
 import { principalOf } from "akasha/agents/seats/modules/principal/seat-principal.module.code.ts"
 import {
   defaultFor,
@@ -48,6 +45,9 @@ import {
   composedNameOf,
   followName,
 } from "akasha/agents/seats/name/modules/rename/seat-rename.module.code.ts"
+import { akashaSeatRelPath } from "akasha/agents/seats/page/modules/page-akasha/seat-page-akasha.module.code.ts"
+import { statedFromHistory } from "akasha/agents/seats/page/modules/page-history/seat-page-history.module.code.ts"
+import { writeSeatPage } from "akasha/agents/seats/page/modules/page-writing/seat-page-writing.module.code.ts"
 import {
   AKASHA,
   akashaRoot,

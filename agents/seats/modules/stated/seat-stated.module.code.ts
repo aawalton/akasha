@@ -5,15 +5,9 @@ import {
 } from "akasha/agents/seats/modules/initiative/seat-initiative.module.code.ts"
 import { onCallOf } from "akasha/agents/seats/modules/on-call/seat-on-call.module.code.ts"
 import {
-  type StatedFromHistory,
-  statedFromHistory,
-} from "akasha/agents/seats/modules/page-history/seat-page-history.module.code.ts"
-import { pageTextOf } from "akasha/agents/seats/modules/page-values/seat-page-values.module.code.ts"
-import {
   type PrincipalRecord,
   principalOf,
 } from "akasha/agents/seats/modules/principal/seat-principal.module.code.ts"
-import { backfillSeatRecord } from "akasha/agents/seats/modules/record/seat-record.module.code.ts"
 import {
   type RegistrationRecord,
   registrationAccountOf,
@@ -23,6 +17,12 @@ import {
   type FlexRecord,
   flexOf,
 } from "akasha/agents/seats/name/modules/flex/seat-flex.module.code.ts"
+import {
+  type StatedFromHistory,
+  statedFromHistory,
+} from "akasha/agents/seats/page/modules/page-history/seat-page-history.module.code.ts"
+import { pageTextOf } from "akasha/agents/seats/page/modules/page-values/seat-page-values.module.code.ts"
+import { backfillSeatRecord } from "akasha/agents/seats/page/modules/record/seat-record.module.code.ts"
 import {
   ROTATED_KEY,
   rotatedOf,
