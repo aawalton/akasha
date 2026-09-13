@@ -96,5 +96,9 @@ export const keepAlanDirectives = {
       statement:
         "Thirteen runs in twenty reached no model while a bulk measurement ran on the same gateway.",
     },
+    {
+      invariantKind: "gap",
+      statement: "A judge that answered is read even where another judge's call reached no model.",
+    },
   ],
 } as const satisfies InferenceHook
