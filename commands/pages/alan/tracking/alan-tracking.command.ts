@@ -49,11 +49,15 @@ export const alanTracking = {
     },
     {
       invariantKind: "departure",
-      statement: "Every flag `file-arguing` takes is taken here but the glass.",
+      statement: "Every flag `file-arguing` takes is taken here but the glass and `--restated`.",
     },
     {
       invariantKind: "absence",
       statement: "Nothing here breaks the glass.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here lands a restatement.",
     },
     {
       invariantKind: "gap",

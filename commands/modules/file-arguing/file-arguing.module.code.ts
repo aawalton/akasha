@@ -225,9 +225,10 @@ export function builtIn(
   given: Given,
   piping: Piping,
   kind: Kind | null,
-  valued: readonly string[] = VALUED
+  valued: readonly string[] = VALUED,
+  bare: readonly string[] = BARE
 ): Built | Answer {
-  const unknown = unknownIn(argv, valued, BARE, given.calledAs)
+  const unknown = unknownIn(argv, valued, bare, given.calledAs)
   if (unknown.length > 0) return mistaking(unknown)
   const read = readIn(argv, valued)
   if (read.refusals.length > 0) return mistaking(read.refusals)

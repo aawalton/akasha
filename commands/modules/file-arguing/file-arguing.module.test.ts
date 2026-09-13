@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { builtIn } from "akasha/commands/modules/file-arguing/file-arguing.module.code.ts"
+import { builtIn, VALUED } from "akasha/commands/modules/file-arguing/file-arguing.module.code.ts"
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { TERMINAL } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
@@ -32,6 +32,13 @@ test("a call naming no file to write and no path to take away is refused", () =>
 
 test("a flag this reading does not take is refused", () => {
   expect(refusedBy(["--nowhere"])).toContain("--nowhere")
+})
+
+test("a caller names which flags carry no value, and --restated answers where none does", () => {
+  expect(refusedBy(["--restated"])).toContain("asks for nothing")
+  const said = builtIn(["--restated"], givenIn("/repo"), TERMINAL, MECHANICAL, VALUED, [])
+  const refusals = "code" in said ? said.refusals.join("\n") : ""
+  expect(refusals).toContain("`--restated` is no flag this takes.")
 })
 
 test("a --file-path with nothing after it is refused", () => {

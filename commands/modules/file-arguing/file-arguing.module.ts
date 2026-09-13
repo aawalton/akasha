@@ -79,6 +79,11 @@ export const fileArguing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A caller names which flags carry no value, and `--restated` answers where none does.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The readings the writer owes are answered as faults of the call.",
     },
     {

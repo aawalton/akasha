@@ -93,15 +93,14 @@ test("the flags a stray flag is answered with name no flag this refuses", async 
   const said = await alanTracking(["--nope"], givenIn())
   expect(said.refusals).toEqual([
     "`--nope` is no flag this takes. `akasha alan tracking` takes `--file-path`, " +
-      "`--content-file`, `--remove`, `--message`, `--message-file`, `--restated`.",
+      "`--content-file`, `--remove`, `--message`, `--message-file`.",
   ])
 })
 
-test("the restated flag is admitted, which is what holds two of this page's gaps open", async () => {
+test("the restated flag is answered as a flag this takes no spelling of", async () => {
   const said = await alanTracking(["--restated"], givenIn())
-  expect(said.refusals).toEqual([
-    "this call names no --file-path to write and no --remove to take away, so it asks for nothing",
-  ])
+  expect(said.refusals[0]).toContain("`--restated` is no flag this takes.")
+  expect(said.code).toBe(1)
 })
 
 test("a stray path is refused before anything is composed", async () => {

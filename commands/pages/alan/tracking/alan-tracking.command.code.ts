@@ -20,6 +20,8 @@ import { pathAt } from "akasha/commands/modules/said-pathing/said-pathing.module
 
 const TAKES: readonly string[] = VALUED.filter((one) => one !== BREAK_GLASS)
 
+const NO_BARE: readonly string[] = []
+
 export function strayIn(root: string, argv: readonly string[]): readonly string[] {
   const said: string[] = []
   for (const flag of [FILE_PATH, REMOVE]) {
@@ -44,7 +46,7 @@ export async function trackedBy(
   landing: Landing = landingTracked
 ): Promise<Answer> {
   return await answering(async (done) => {
-    const built = builtIn(argv, given, inputIn, MECHANICAL_KIND, TAKES)
+    const built = builtIn(argv, given, inputIn, MECHANICAL_KIND, TAKES, NO_BARE)
     if ("code" in built) return built
     return await landing(done, given.root, built.changes, built.message)
   })
