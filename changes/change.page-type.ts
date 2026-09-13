@@ -34,6 +34,7 @@ export const change = {
     "module/page-knowing",
     "module/page-literal",
     "module/page-type-renaming",
+    "module/prose-splicing",
     "module/target-kinding",
     "module/target-narrowing",
     "module/type-literal",
