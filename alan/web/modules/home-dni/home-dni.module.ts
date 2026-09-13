@@ -6,4 +6,14 @@ export const homeDni = {
   slug: "home-dni",
   definition: "the navigation item the home screen opens on",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The home screen opens on the nav item this module's constant names.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Nothing refuses taking away the nav page that constant names.",
+    },
+  ],
 } as const satisfies Module
