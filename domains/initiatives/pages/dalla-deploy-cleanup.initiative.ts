@@ -26,13 +26,13 @@ export const dallaDeployCleanup = {
     {
       statement: "One workstation service runs the deploy loops for every service of one kind.",
       workingMemory:
-        "Five services tick a kind of their own every minute through `ticked`: the workstation, eso addon, cluster, web app and container recipe kinds. A tick picks one subject and starts `akasha deploy --measured <slug>` in a transient scope named for that slug, bounded at an hour by systemd, then waits it out. Two kinds have no loop: the 13 inference services, whose deploy boots out a live model server on Alan's laptop with no idle check, and the 3 ios apps, which a deploy hands to Apple.",
+        "Six services tick a kind of their own every minute through `ticked`: the workstation, eso addon, cluster, web app, container recipe and inference kinds. A tick picks one subject and starts `akasha deploy --measured <slug>` in a transient scope named for that slug, bounded at an hour by systemd, then waits it out. One kind has no loop: the 3 ios apps, which a deploy hands to Apple, so only Alan can settle whether a tick may publish.",
     },
     {
       statement:
         "A service is deployed without anyone asking once a commit changes what it is built from.",
       workingMemory:
-        "Built from is the closure `deploy-file-closure` follows out of the files beside a page, and changed is that closure meeting what `git diff` names between the `deployedCommit` kept beside the page and HEAD. A deploy is judged in an overlay carrying every file in a folder it is built from, so no run mixes two commits. The 48 ESO addons, the 46 cluster services and the 3 container recipes are up to date and their loops rest. The 6 web apps refuse at one test file over its ceiling.",
+        "Built from is the closure `deploy-file-closure` follows out of the files beside a page, and changed is that closure meeting what `git diff` names between the `deployedCommit` kept beside the page and HEAD. A deploy is judged in an overlay carrying every file in a folder it is built from, so no run mixes two commits. The 48 addons, 46 cluster services, 6 web apps, 3 recipes and 13 inference services are put up by a loop, each at least once.",
     },
   ],
   constraints: [
