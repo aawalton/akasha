@@ -35,17 +35,6 @@ export const temperAddonGenerators = {
     "module/temper-weapon-trait",
     "module/temper-weapon-type",
     "module/tree-node-under",
-    "module/web-rule-knowledge",
-    "module/web-rule-level",
-    "module/web-rule-potion-data",
-    "module/web-rule-potion-effects",
-    "module/web-rule-quality",
-    "module/web-rule-research",
-    "module/web-rule-set-sources",
-    "module/web-rule-stack-fullness",
-    "module/web-rule-traits",
-    "module/web-rule-value",
-    "module/web-rule-wanted-and-stock",
   ],
   invariants: [
     {
