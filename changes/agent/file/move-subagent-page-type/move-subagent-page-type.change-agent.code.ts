@@ -27,12 +27,12 @@ export async function moveSubagentPageType(
   world: World,
   given: MoveSubagentPageTypeAsked
 ): Promise<Answer> {
-  const swept = await reach(world, REMOVE_FOLDER, { at: given.gone })
-  if (swept.said.refused !== null) return swept.said
   const to = join(given.to, basename(given.at))
-  const moved = await reach(swept.world, MOVE_FILE, { from: given.at, to })
+  const moved = await reach(world, MOVE_FILE, { from: given.at, to })
   if (moved.said.refused !== null) return moved.said
-  return gathered([swept.said, moved.said])
+  const swept = await reach(moved.world, REMOVE_FOLDER, { at: given.gone })
+  if (swept.said.refused !== null) return swept.said
+  return gathered([moved.said, swept.said])
 }
 
 export type Asked = Readonly<Record<string, string>>
