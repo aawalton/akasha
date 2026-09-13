@@ -166,7 +166,44 @@ test("a file the host keeps is carried across a replacement", () => {
   const said = placing(at)
   expect(said.refusals).toEqual([])
   expect(readFileSync(join(target, "Keep.lua"), "utf-8")).toBe("host wrote this\n")
-  expect(said.lines.join("\n")).toContain("host file(s) carried across")
+  expect(said.lines.join("\n")).toContain("1 of 1 host file(s) carried across")
+  expect(said.lines.join("\n")).not.toContain("not there to carry")
+})
+
+function manifestAt(at: Fixture): string {
+  return join(at.root, "temper/addons", PROBE, "addon.json")
+}
+
+test("a manifest that went unread is refused rather than the host file being taken away", () => {
+  const at = fixtureFor({ keep: ["Keep.lua"] })
+  const target = join(at.addons, PROBE)
+  mkdirSync(target, { recursive: true })
+  writeFileSync(join(target, MARKER), "stale\n")
+  writeFileSync(join(target, "Keep.lua"), "host wrote this\n")
+  writeFileSync(manifestAt(at), "{oops")
+  expect(() => placing(at)).toThrow("would take them away rather than carry them")
+  expect(readFileSync(join(target, "Keep.lua"), "utf-8")).toBe("host wrote this\n")
+})
+
+test("a manifest naming host files in a shape nothing reads is refused", () => {
+  const at = fixtureFor()
+  writeFileSync(manifestAt(at), manifestFor(PROBE, { additionalLuaFiles: "Keep.lua" }))
+  expect(() => placing(at)).toThrow("states no readable")
+})
+
+test("a placement naming no host file says so rather than staying quiet", () => {
+  const at = fixtureFor()
+  const said = placing(at)
+  expect(said.refusals).toEqual([])
+  expect(said.lines.join("\n")).toContain("names no host file to carry across")
+})
+
+test("a host file the manifest names that is not there is named rather than passed over", () => {
+  const at = fixtureFor({ keep: ["Keep.lua"] })
+  const said = placing(at)
+  expect(said.refusals).toEqual([])
+  expect(said.lines.join("\n")).toContain("0 of 1 host file(s) carried across")
+  expect(said.lines.join("\n")).toContain("Keep.lua not there to carry")
 })
 
 test("a build holding a link to nothing is refused rather than reported placed", () => {

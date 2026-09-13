@@ -42,6 +42,14 @@ export const addonPlacing = {
     },
     {
       invariantKind: "departure",
+      statement: "A manifest that went unread is refused rather than read as naming no file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A placement says how many of the files the manifest names it carried across.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The saved-variables migrations run after the files are in place.",
     },
     {

@@ -107,13 +107,24 @@ function saidOfForeign(version: number | undefined, asked: readonly number[]): s
 function carriedAcross(root: string, addonDir: string): readonly string[] {
   const path = addonManifestPathIn(root, addonDir)
   if (path === null) return []
+  let raw: unknown
   try {
-    const raw: unknown = JSON.parse(readFileSync(path, "utf-8"))
-    const parsed = PRESERVE_SCHEMA.safeParse(raw)
-    return parsed.success ? (parsed.data.additionalLuaFiles ?? []) : []
-  } catch {
-    return []
+    raw = JSON.parse(readFileSync(path, "utf-8"))
+  } catch (thrown) {
+    throw new Error(
+      `${path} went unread, and it is what names the files carried across the replacement, so ` +
+        `placing now would take them away rather than carry them — ${saidShort(thrown)}`
+    )
   }
+  const parsed = PRESERVE_SCHEMA.safeParse(raw)
+  if (!parsed.success) {
+    throw new Error(
+      `${path} states no readable \`additionalLuaFiles\`, and that is what names the files ` +
+        `carried across the replacement, so placing now would take them away rather than ` +
+        `carry them — ${saidShort(parsed.error)}`
+    )
+  }
+  return parsed.data.additionalLuaFiles ?? []
 }
 
 function fleetDependencyLists(root: string): readonly (readonly string[])[] {
@@ -208,10 +219,15 @@ function placed(
       skipped: false,
     }
   }
-  const also = kept.size > 0 ? `, ${String(kept.size)} host file(s) carried across` : ""
+  const unfound = keepNames.filter((name) => !kept.has(name))
+  const also =
+    keepNames.length === 0
+      ? ", and it names no host file to carry across"
+      : `, and ${String(kept.size)} of ${String(keepNames.length)} host file(s) carried across`
+  const absent = unfound.length === 0 ? "" : `, with ${unfound.join(", ")} not there to carry`
   return {
     lines: [
-      `installed ${folder} to ${target} — ${String(count)} file(s) verified by sha256${also}`,
+      `installed ${folder} to ${target} — ${String(count)} file(s) verified by sha256${also}${absent}`,
     ],
     refusals: [],
     skipped: false,
