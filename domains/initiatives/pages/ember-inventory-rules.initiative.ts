@@ -8,11 +8,6 @@ export const emberInventoryRules = {
   persona: "ember",
   intents: [
     {
-      statement: "A merchant or a banker opens without a wait Alan notices.",
-      workingMemory:
-        "cf2ac8b stops a rule run at the first match; 0e0adca judges each bank slot once in the withdraw sweep; ab9376db has the bank action panel count from that sweep rather than making a third of its own. Together: open handler 3559ms to 488ms, panel 272ms to 16ms, sweep 509ms to 297ms, facts built 1510 to 730. A merchant is 35ms. Never cache a slot's verdict across sweeps: the first locks the slot it judged, so the second must judge it afresh.",
-    },
-    {
       statement:
         "A visit to the banker moves every item the rules send there, however many there are.",
       workingMemory:
