@@ -61,6 +61,7 @@ export const page = {
     "module/page-value",
     "module/page-value-key",
     "module/page-value-reading",
+    "module/record-sweeping",
     "module/repo-path",
     "module/shadow",
     "module/test-run-marking",
