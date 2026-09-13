@@ -10,7 +10,7 @@ export const emberInventoryRules = {
     {
       statement: "A merchant or a banker opens without a wait Alan notices.",
       workingMemory:
-        "Alan says the wait predates the batching: optimization, not regression. His trace: open-handler 2401ms in one frame, refreshPanel 816 and withdraw 1466 of it, leaving 63ms for both backpack passes. The bank bags get judged three times over. 3e77eeaf gates the profiler that inflated every number; his next visit re-measures. d838313 ends a batch on confirmation, worth 5031ms. Collapsing the three passes changes verdicts, so cache buildItemFactsForSlot. The merchant has no instrument.",
+        "Alan says the wait predates the batching: optimization, not regression. His v6 trace: open-handler 3559ms, of which judging rules is 3124ms over 1235 runs and building facts only 281ms, so a facts cache is the wrong lever. cf2ac8b stops a run at the first match. Do not cache a slot's verdict across the three runs over the bank: the first locks the slot it judged, so the second must judge it afresh, and a cache would withdraw every lockable item.",
     },
     {
       statement: "A banker stacks what the bags hold that will stack.",
