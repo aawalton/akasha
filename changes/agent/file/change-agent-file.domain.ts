@@ -12,7 +12,6 @@ export const changeAgentFile = {
     "change-agent/divide-page-property",
     "change-agent/move-page",
     "change-agent/move-pages",
-    "change-agent/move-subagent-page-type",
     "change-agent/remove-file",
     "change-agent/remove-package-manifest",
     "change-agent/remove-page",
