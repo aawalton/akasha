@@ -5,7 +5,7 @@ export const jamesTaylor2Gorilla2019Remaster = {
   type: "release",
   slug: "james-taylor-2-gorilla-2019-remaster",
   title: "Gorilla (2019 Remaster)",
-  partOfCollections: ["james-taylor-2"],
+  partOfCollections: ["james-taylor"],
   position: 0,
   ownLength: 39.041283,
   ownProgress: 39.041283,

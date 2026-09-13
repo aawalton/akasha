@@ -5,7 +5,7 @@ export const jamesTaylor2DadLovesHisWork = {
   type: "release",
   slug: "james-taylor-2-dad-loves-his-work",
   title: "Dad Loves His Work",
-  partOfCollections: ["james-taylor-2"],
+  partOfCollections: ["james-taylor"],
   position: 0,
   ownLength: 38.673517,
   ownProgress: 38.673517,

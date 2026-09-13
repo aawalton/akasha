@@ -5,7 +5,7 @@ export const jamesTaylor2FollowTheMoneyFeatJamesTaylor = {
   type: "release",
   slug: "james-taylor-2-follow-the-money-feat-james-taylor",
   title: "Follow The Money (feat. James Taylor)",
-  partOfCollections: ["james-taylor-2"],
+  partOfCollections: ["james-taylor"],
   position: 0,
   ownLength: 3.7,
   ownProgress: 3.7,

@@ -5,7 +5,7 @@ export const jamesTaylor2Covers = {
   type: "release",
   slug: "james-taylor-2-covers",
   title: "Covers",
-  partOfCollections: ["james-taylor-2"],
+  partOfCollections: ["james-taylor"],
   position: 0,
   ownLength: 42.134583,
   ownProgress: 42.134583,

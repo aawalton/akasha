@@ -5,7 +5,7 @@ export const jamesTaylor2ComingBackToYou = {
   type: "release",
   slug: "james-taylor-2-coming-back-to-you",
   title: "Coming Back To You",
-  partOfCollections: ["james-taylor-2"],
+  partOfCollections: ["james-taylor"],
   position: 0,
   ownLength: 3.676667,
   ownProgress: 3.676667,

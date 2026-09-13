@@ -5,7 +5,7 @@ export const jamesTaylor2NewMoonShine = {
   type: "release",
   slug: "james-taylor-2-new-moon-shine",
   title: "New Moon Shine",
-  partOfCollections: ["james-taylor-2"],
+  partOfCollections: ["james-taylor"],
   position: 0,
   ownLength: 47.769467,
   ownProgress: 47.769467,
