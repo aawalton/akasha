@@ -45,6 +45,7 @@ export const change = {
     "module/target-narrowing",
     "module/type-literal",
     "module/value-carrying",
+    "module/value-removing",
     "number-property/change-max-cpu-seconds",
     "page-type/change-agent",
     "page-type/change-guard",

@@ -1,20 +1,12 @@
-import type { ChangeMechanicalFileContent } from "akasha/changes/mechanical/file-content/change-mechanical-file-content.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
-export const removePropertyValue = {
-  id: "01a07758-01be-7649-a91a-f8952f0b468e",
-  type: "change-mechanical-file-content",
-  slug: "remove-property-value",
-  changeMode: "change-mode-remove",
-  changeTargetType: "change-target-type/file-content",
-  changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
-  definition: "one value taken out of one page property in a page's body",
+export const valueRemoving = {
+  id: "01a09c7d-7d5f-746f-8af0-c3635ccb603d",
+  type: "module",
+  slug: "value-removing",
+  definition: "the edits taking one value out of one page property in a page's body",
   code: "ts",
-  test: "ts",
   invariants: [
-    {
-      invariantKind: "departure",
-      statement: "The module taking a value away is called rather than reached through a rung.",
-    },
     {
       invariantKind: "departure",
       statement: "A property with many values keeps its key when the last value goes.",
@@ -30,10 +22,6 @@ export const removePropertyValue = {
     {
       invariantKind: "departure",
       statement: "A required property is refused rather than taken away.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Taking a required property away is a retype.",
     },
     {
       invariantKind: "departure",
@@ -60,6 +48,9 @@ export const removePropertyValue = {
       invariantKind: "absence",
       statement: "No page is taken away here.",
     },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reaches a change.",
+    },
   ],
-  changeKind: "change-mechanical",
-} as const satisfies ChangeMechanicalFileContent
+} as const satisfies Module
