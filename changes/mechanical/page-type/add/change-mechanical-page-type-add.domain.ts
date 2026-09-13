@@ -8,6 +8,7 @@ export const changeMechanicalPageTypeAdd = {
   parts: [
     "change-mechanical-page-type/add-file-property-extensions",
     "change-mechanical-page-type/add-page-property-types",
+    "change-mechanical-page-type/add-page-type-types",
     "change-mechanical-page-type/add-property-to-every-page",
     "change-mechanical-page-type/add-property-to-page-type",
     "change-mechanical-page-type/copy-property-on-every-page",

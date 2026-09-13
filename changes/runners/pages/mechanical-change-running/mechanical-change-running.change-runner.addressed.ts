@@ -107,6 +107,9 @@ export type Changes = {
   "change-mechanical-page-type/add-page-property-types": Parameters<
     typeof import("akasha/changes/mechanical/page-type/add/add-page-property-types/add-page-property-types.change-mechanical-page-type.code.ts")["runChange"]
   >[1]
+  "change-mechanical-page-type/add-page-type-types": Parameters<
+    typeof import("akasha/changes/mechanical/page-type/add/add-page-type-types/add-page-type-types.change-mechanical-page-type.code.ts")["runChange"]
+  >[1]
   "change-mechanical-page-type/add-property-to-every-page": Parameters<
     typeof import("akasha/changes/mechanical/page-type/add/add-property-to-every-page/add-property-to-every-page.change-mechanical-page-type.code.ts")["runChange"]
   >[1]
