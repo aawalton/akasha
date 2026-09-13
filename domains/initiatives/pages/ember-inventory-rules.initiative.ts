@@ -16,6 +16,7 @@ export const emberInventoryRules = {
   ],
   constraints: [
     "The rules are compiled outside the game, so a fix reaches the game only once the addon is built and deployed.",
+    "A deploy is run in the foreground rather than backgrounded, since a backgrounded deploy waits in a queue.",
     "Alan plays on this workstation, so a capture gains a field only after he next plays.",
   ],
 } as const satisfies Initiative
