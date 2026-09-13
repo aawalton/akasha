@@ -6,5 +6,5 @@ export const athenaAgentHarnessImprovements = {
   slug: "athena-agent-harness-improvements",
   domain: "domain/agent",
   persona: "athena",
-  intents: [],
+  intents: [{ statement: "A process a departed agent left running is taken away." }],
 } as const satisfies Initiative
