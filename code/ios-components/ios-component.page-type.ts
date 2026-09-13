@@ -26,6 +26,7 @@ export const iosComponent = {
     "ios-component/categorize-ring",
     "ios-component/cost-ring",
     "ios-component/falling-checks",
+    "ios-component/freshness-checks",
     "ios-component/freshness-widget",
     "ios-component/ring",
     "ios-component/safety-ring",

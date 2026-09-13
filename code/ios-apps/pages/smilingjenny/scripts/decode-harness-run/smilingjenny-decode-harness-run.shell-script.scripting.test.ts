@@ -42,6 +42,6 @@ test("the entry the script compiles is the main.swift beside the program's own p
   expect(existsSync(join(ROOT, mainSwiftIn(ROOT)))).toBe(true)
 })
 
-test("the program this script builds compiles eighteen components", () => {
-  expect(componentSwiftIn(ROOT)).toHaveLength(18)
+test("the program this script builds compiles nineteen components", () => {
+  expect(componentSwiftIn(ROOT)).toHaveLength(19)
 })

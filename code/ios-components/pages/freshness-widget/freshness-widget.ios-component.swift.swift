@@ -126,13 +126,22 @@ enum FreshnessReading {
     static let OVER: TimeInterval = 24 * 60 * 60
     static let OWN_PATH = "/freshness"
 
+    // A FEED IS THE APP'S WHILE A TILE IS STILL ASKING FOR IT, AND NOT A MOMENT LONGER.
+    //
+    // A moment written for a feed stays written after the tile that wanted it is taken off the
+    // phone, because nothing tells the extension a tile is gone. Counting those left-behind
+    // moments made the oldest of them the answer, and the answer was a feed nobody was looking
+    // at. So a feed is counted only where a tile asked for it inside the day, which the reloads
+    // already noted say and nothing else on the phone does.
     static func reading(taken: [String: Date], kept: [String], now: Date) -> FreshnessEntry {
         let noted = ReloadLog.since(kept, now.addingTimeInterval(-OVER))
-        let band = ReloadLog.fewestAndMost(ReloadLog.perPath(noted))
-        let oldest = Freshness.stalest(taken)
+        let counted = ReloadLog.perPath(noted)
+        let band = ReloadLog.fewestAndMost(counted)
+        let asked = taken.filter { counted[$0.key] != nil }
+        let oldest = Freshness.stalest(asked)
         return FreshnessEntry(
             date: now, stalest: oldest?.at, stalestName: oldest.map { Freshness.naming($0.path) },
-            tiles: taken.count, reloads: noted.count, fewest: band?.fewest ?? 0,
+            tiles: asked.count, reloads: noted.count, fewest: band?.fewest ?? 0,
             most: band?.most ?? 0)
     }
 

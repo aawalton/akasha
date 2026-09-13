@@ -17,6 +17,18 @@ export const freshnessWidget = {
     },
     {
       invariantKind: "departure",
+      statement: "A feed counts while a tile has asked for it within the day.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A feed no tile asked for within the day is left out of the age and the count.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A tile granted no reload for a day reads the same as a tile taken off the phone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The tile names the feed that oldest reading came from.",
     },
     {
