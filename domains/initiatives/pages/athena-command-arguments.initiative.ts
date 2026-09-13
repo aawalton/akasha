@@ -25,10 +25,5 @@ export const athenaCommandArguments = {
       workingMemory:
         "234 of 237 by the check at `9b56121c79b`: 15 refusals over three commands. Two are settled: `change apply`, where saying nothing is the instruction to land, and `change draft` with it. The third is `alan tracking`, and it is a property of the command: `file-arguing`'s `readIn` pairs each `--file-path` with the `--content-file` after it, while `takingIn` keys a repeating argument by slug and records no place, so a converted call would accept an unpaired path where today it refuses. Alan's.\n",
     },
-    {
-      statement: "One spelling names one argument, and one argument has one spelling.",
-      workingMemory:
-        "30 spellings are carried by more than one argument page at `b365d4a17ab`: 19 pairs, 6 triples, 3 quads, `--query` by five, `--to` by six. The `down from 37` was mine and does not reproduce: 10 at `e659f26d471` over 216 pages, so it rose. No command names two alike, so no call is ambiguous. An argument already carries two spellings by design: `said` at its flag, `placeholder` as a word, 292 of 340. The command's `saidAs` picks which, over 96 entries. Alan's: does the intent mean the flag alone?\n",
-    },
   ],
 } as const satisfies Initiative
