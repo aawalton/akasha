@@ -81,6 +81,7 @@ test("every judge the hook runs puts its own rule to the model", () => {
     "No Commentary",
     "Don't Stop!",
     "Don't Stop!",
+    "Don't Stop!",
   ])
 })
 
@@ -181,7 +182,7 @@ test("each judge names the rule it asked and the test it came from", () => {
     expect(one.statement.startsWith(`${one.about}:`)).toBe(true)
     expect(one.test).not.toBe("")
   }
-  expect(new Set(JUDGES.flatMap((judge) => judge(TURN)).map((one) => one.test)).size).toBe(6)
+  expect(new Set(JUDGES.flatMap((judge) => judge(TURN)).map((one) => one.test)).size).toBe(7)
 })
 
 test("a line kept for a yes holds what was put and what came back", () => {
