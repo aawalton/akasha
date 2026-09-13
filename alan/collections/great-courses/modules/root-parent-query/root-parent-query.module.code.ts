@@ -29,7 +29,7 @@ function daysAgoYYYYMMDD(days: number): string {
 
 export async function shouldRunGreatCoursesSync(): Promise<boolean> {
   try {
-    const keys = ["lastSyncedAt", "externalIdentity"]
+    const keys = ["externalIdentity"]
     const root = await pageTitled(GREAT_COURSES_COLLECTION_SLUG, ROOT_TIMER_TITLE, keys)
     if (root === null) {
       console.log(`${ROOT_TIMER_TITLE} root not found, running sync anyway`)
@@ -37,7 +37,7 @@ export async function shouldRunGreatCoursesSync(): Promise<boolean> {
     }
 
     const held = root.values["externalIdentity"]
-    const lastSyncedAt = syncedFrom(held, SOURCE) ?? textAt(root, "lastSyncedAt")
+    const lastSyncedAt = syncedFrom(held, SOURCE)
     if (lastSyncedAt == null) return true
 
     const shouldRun = lastSyncedAt < daysAgoYYYYMMDD(SYNC_INTERVAL_DAYS)

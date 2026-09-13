@@ -10,9 +10,9 @@ const SOURCE = "the-great-courses"
 
 export async function findAllCourses(): Promise<Map<string, string>> {
   const courseMap = new Map<string, string>()
-  const keys = ["slug", "externalId", "externalIdentity"]
+  const keys = ["slug", "externalIdentity"]
   for (const row of await everyRow(GREAT_COURSE_SLUG, keys)) {
-    const externalId = idFrom(row.values["externalIdentity"], SOURCE) ?? textAt(row, "externalId")
+    const externalId = idFrom(row.values["externalIdentity"], SOURCE)
     const slug = textAt(row, "slug")
     if (externalId != null && slug != null) courseMap.set(externalId, slug)
   }
