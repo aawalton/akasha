@@ -5,6 +5,8 @@ export const nestModules = {
   type: "change-agent",
   slug: "nest-modules",
   changeMode: "change-mode-move",
+  changeTargetType: "change-target-type/folder",
+  changeTargetSubtype: "change-target-subtype/folder",
   definition: "every module's folder carried under a modules folder beside the page above it",
   takesAtMost: true,
   code: "ts",

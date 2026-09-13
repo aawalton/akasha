@@ -5,6 +5,8 @@ export const nestCommands = {
   type: "change-agent",
   slug: "nest-commands",
   changeMode: "change-mode-move",
+  changeTargetType: "change-target-type/folder",
+  changeTargetSubtype: "change-target-subtype/folder",
   definition: "one namespace's commands made its parts and moved into its folder",
   code: "ts",
   test: "ts",

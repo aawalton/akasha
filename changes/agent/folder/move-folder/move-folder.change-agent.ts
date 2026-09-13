@@ -5,6 +5,8 @@ export const moveFolder = {
   type: "change-agent",
   slug: "move-folder",
   changeMode: "change-mode-move",
+  changeTargetType: "change-target-type/folder",
+  changeTargetSubtype: "change-target-subtype/folder",
   definition: "one folder and every file under it moved to another path",
   code: "ts",
   test: "ts",
