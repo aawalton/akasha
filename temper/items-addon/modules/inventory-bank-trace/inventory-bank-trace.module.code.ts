@@ -22,11 +22,13 @@ let openAnchorMs = 0
 let closedAtMs: number | undefined
 let openHandlerDone = false
 let craftingAtOpen: BankTraceCraftingStats | undefined
+let visitGeneration = 0
 
 export function beginBankTrace(bankingBag: number): undefined {
   openAnchorMs = GetGameTimeMilliseconds()
   closedAtMs = undefined
   openHandlerDone = false
+  visitGeneration += 1
   craftingAtOpen = readCraftingSlotHandlerStats()
   const trace: BankTrace = {
     schemaVersion: 4,
@@ -92,6 +94,11 @@ export function markBankClosed(): undefined {
   closedAtMs = GetGameTimeMilliseconds()
   activeTrace.openToCloseMs = closedAtMs - openAnchorMs
   refreshCraftingAndRemainder(activeTrace)
+  const generation = visitGeneration
+  zo_callLater(function (this: void): undefined {
+    if (generation !== visitGeneration) return
+    activeTrace = undefined
+  }, TRAILING_SCAN_WINDOW_MS)
 }
 
 function pastTrailingWindow(): boolean {

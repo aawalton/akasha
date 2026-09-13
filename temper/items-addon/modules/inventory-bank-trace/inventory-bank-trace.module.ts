@@ -19,5 +19,14 @@ export const inventoryBankTrace = {
       invariantKind: "departure",
       statement: "The trace of the session that opened last is kept a second time on its own.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A closed session takes the settling that follows it for five seconds and no more.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A session the game never says closed stops taking what follows it.",
+    },
   ],
 } as const satisfies Module
