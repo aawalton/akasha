@@ -32,6 +32,7 @@ export type Grouped = {
 }
 
 export function groupedOver(change: Change): Grouped {
+  const base = change.base ?? null
   const added = new Map<string, Set<string>>()
   const gone = new Map<string, Set<string>>()
   const opened = new Map<string, Set<string>>()
@@ -55,7 +56,7 @@ export function groupedOver(change: Change): Grouped {
     at: (folder) => {
       const found = files.get(folder)
       if (found !== undefined) return found
-      const held = new Set<string>(filesIn(change.root, folder))
+      const held = new Set<string>(filesIn(change.root, folder, base))
       for (const one of added.get(folder) ?? []) held.add(one)
       for (const one of gone.get(folder) ?? []) held.delete(one)
       const made = [...held].sort()
@@ -65,7 +66,7 @@ export function groupedOver(change: Change): Grouped {
     foldersIn: (folder) => {
       const found = folders.get(folder)
       if (found !== undefined) return found
-      const held = new Set<string>(foldersIn(change.root, folder))
+      const held = new Set<string>(foldersIn(change.root, folder, base))
       for (const one of opened.get(folder) ?? []) held.add(one)
       const made = [...held].sort().filter((one) => !holdsNothing(grouped, one))
       folders.set(folder, made)

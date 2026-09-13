@@ -162,6 +162,14 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
+      statement: "What git carries is read at the commit the change is judged against.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path another landing first carried after that commit sits in no folder here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Which files import a path is read from the index as the change leaves the index.",
     },
     {

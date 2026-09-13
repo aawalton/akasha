@@ -196,8 +196,8 @@ export function shadowOnto(
   return castFrom(was ?? readingIn(change.root), change, held)
 }
 
-function pinnedIn(root: string): Reading {
-  const head = told(root, ["rev-parse", "HEAD"])
+function pinnedIn(root: string, base: string | undefined): Reading {
+  const head = base ?? told(root, ["rev-parse", "HEAD"])
   const commit = head === null ? null : head.trim()
   const under = readingAt(indexIn(root), root)
   const bodies = new Map<string, string | null>()
@@ -216,7 +216,7 @@ function pinnedIn(root: string): Reading {
 }
 
 function castOver(change: Change): Cast {
-  return castFrom(pinnedIn(change.root), change, remembered())
+  return castFrom(pinnedIn(change.root, change.base), change, remembered())
 }
 
 export function shadowAsked(change: Change): Shadow {

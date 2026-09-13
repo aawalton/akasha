@@ -92,7 +92,24 @@ export const treeReading = {
     {
       invariantKind: "departure",
       statement:
-        "What git carries is asked once for a repository and held for the rest of the run.",
+        "What git carries is asked once for a repository and a commit, and held for the rest of the run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller naming a commit is answered what git carried at that commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path a commit after that one first carried is carried by nothing here.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What git carries now is asked before which commit that is, so a landing between them is left out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller naming no commit is answered what git carries now.",
     },
     {
       invariantKind: "departure",

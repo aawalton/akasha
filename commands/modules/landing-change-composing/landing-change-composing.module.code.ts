@@ -107,6 +107,7 @@ export function changeOf(
   }
   return {
     root,
+    base,
     changed: [...new Set(changes.flatMap(pathsOf))].sort(),
     carried: [...new Set(every.flatMap(pathsOf))].sort(),
     before: based,

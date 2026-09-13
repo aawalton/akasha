@@ -31,7 +31,11 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
-      statement: "The commit a change starts from is the commit at HEAD as the shadow is made.",
+      statement: "The commit a change starts from is the commit that change names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change naming no commit starts from the commit at HEAD as the shadow is made.",
     },
     {
       invariantKind: "departure",

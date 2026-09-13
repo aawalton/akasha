@@ -147,3 +147,37 @@ test("a tree no repository holds is read as that tree sits on disk", () => {
 
   expect(filesIn(root, "one")).toEqual(["one/a.module.ts", "one/left.tsbuildinfo"])
 })
+
+function landedOnTree(): { readonly root: string; readonly base: string } {
+  const root = scratch.rootFor("akasha-tree-pinned-")
+  mkdirSync(join(root, "one"), { recursive: true })
+  writeFileSync(join(root, "one", "a.module.ts"), "\n")
+  said(root, ["init", "--quiet"])
+  said(root, ["add", "--all"])
+  said(root, [...WHO, "commit", "--quiet", "-m", "the commit a change is judged against"])
+  const base = said(root, ["rev-parse", "HEAD"]).trim()
+  mkdirSync(join(root, "one", "later"), { recursive: true })
+  writeFileSync(join(root, "one", "later", "b.module.ts"), "\n")
+  said(root, ["add", "--all"])
+  said(root, [...WHO, "commit", "--quiet", "-m", "another landing"])
+  return { root, base }
+}
+
+test("a path a later commit first carried is carried by nothing at the commit named", () => {
+  const { root, base } = landedOnTree()
+
+  expect(filesIn(root, "one/later", base)).toEqual([])
+  expect(foldersIn(root, "one/later", base)).toEqual([])
+})
+
+test("that path is carried where no commit is named", () => {
+  const { root } = landedOnTree()
+
+  expect(filesIn(root, "one/later")).toEqual(["one/later/b.module.ts"])
+})
+
+test("what the commit named already carried is carried still", () => {
+  const { root, base } = landedOnTree()
+
+  expect(filesIn(root, "one", base)).toEqual(["one/a.module.ts"])
+})

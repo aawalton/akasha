@@ -26,6 +26,14 @@ export const change = {
     },
     {
       invariantKind: "departure",
+      statement: "A change names the base commit it is judged against.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every reading a judge makes of what the change did not touch is at that commit.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Audit is a change in which every file is unchanged.",
     },
     {

@@ -37,12 +37,21 @@ export function walkedUnder(
 
 const OTHERS = new Map<string, ReadonlySet<string> | null>()
 
-function othersIn(root: string): ReadonlySet<string> | null {
-  const found = OTHERS.get(root)
+function addedSince(root: string, base: string): readonly string[] {
+  const head = told(root, ["rev-parse", "HEAD"])
+  if (head === null) return []
+  const said = told(root, ["diff", "-z", "--name-only", "--diff-filter=A", base, head.trim()])
+  return said === null ? [] : said.split("\0").filter((one) => one !== "")
+}
+
+function othersIn(root: string, base: string | null): ReadonlySet<string> | null {
+  const key = base === null ? root : `${root}\0${base}`
+  const found = OTHERS.get(key)
   if (found !== undefined) return found
   const said = told(root, ["ls-files", "-z", "--others", "--directory", "--no-empty-directory"])
   const made = said === null ? null : new Set<string>(said.split("\0").filter((one) => one !== ""))
-  OTHERS.set(root, made)
+  if (made !== null && base !== null) for (const one of addedSince(root, base)) made.add(one)
+  OTHERS.set(key, made)
   return made
 }
 
@@ -56,7 +65,7 @@ function carried(others: ReadonlySet<string>, path: string): boolean {
   return true
 }
 
-function sittingIn(root: string, folder: string): readonly Dirent[] {
+function sittingIn(root: string, folder: string, base: string | null): readonly Dirent[] {
   let here: readonly Dirent[] = []
   try {
     here = readdirSync(join(root, folder), { withFileTypes: true })
@@ -64,13 +73,17 @@ function sittingIn(root: string, folder: string): readonly Dirent[] {
     return []
   }
   if (here.length === 0) return here
-  const others = othersIn(root)
+  const others = othersIn(root, base)
   if (others === null) return here
   return here.filter((one) => carried(others, join(folder, one.name)))
 }
 
-export function filesIn(root: string, folder: string): readonly string[] {
-  return sittingIn(root, folder)
+export function filesIn(
+  root: string,
+  folder: string,
+  base: string | null = null
+): readonly string[] {
+  return sittingIn(root, folder, base)
     .filter((one) => !one.isDirectory())
     .map((one) => join(folder, one.name))
     .sort()
@@ -81,8 +94,12 @@ function leftOut(folder: string, name: string): boolean {
   return folder === "" && name === QUARANTINE_ROOT
 }
 
-export function foldersIn(root: string, folder: string): readonly string[] {
-  return sittingIn(root, folder)
+export function foldersIn(
+  root: string,
+  folder: string,
+  base: string | null = null
+): readonly string[] {
+  return sittingIn(root, folder, base)
     .filter((one) => one.isDirectory() && !leftOut(folder, one.name))
     .map((one) => join(folder, one.name))
     .sort()
