@@ -3,9 +3,12 @@ import {
   addPropertyToEveryPage,
   runChange,
 } from "akasha/changes/agent/page-type/add-property-to-every-page/add-property-to-every-page.change-agent.code.ts"
+import { worldFor as mootsWorld } from "akasha/changes/mechanical/page-type/add/add-property-to-every-page/add-property-to-every-page.change-mechanical-page-type.test-fixtures.ts"
 import { bodiesIn, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
-import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
+import {
+  listing,
+  running,
+} from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 
@@ -46,15 +49,7 @@ function pagesIn(
   carried: readonly Carried[] | null,
   valued: ReadonlyMap<string, Value> = new Map<string, Value>()
 ): World {
-  return {
-    ...worldOf(bodies),
-    index: {
-      everyOfType: () => Object.keys(bodies).map((path) => ({ path, id: path })),
-      propertiesIfNamed: () => carried,
-      valuesByPath: () => valued,
-    } as never,
-    reaching: running,
-  }
+  return mootsWorld(bodies, carried, running, valued)
 }
 
 const THREE_AT = "alan/books/three.book-section.ts"
@@ -162,4 +157,12 @@ test("an argument this change was handed no value for is refused by the key", as
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toMatch(/`page-type` names what this change is handed/)
+})
+
+test("the one change reached is the mechanical change acting on a page type", async () => {
+  const seen: string[] = []
+
+  await addPropertyToEveryPage(mootsWorld(BODIES, [DECLARED], listing(seen)), SECTION_OF)
+
+  expect(seen).toEqual(["change-mechanical-page-type/add-property-to-every-page"])
 })

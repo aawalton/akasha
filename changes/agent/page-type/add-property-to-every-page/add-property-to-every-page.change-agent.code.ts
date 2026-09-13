@@ -1,18 +1,8 @@
-import {
-  gathered,
-  missing,
-  refusing,
-} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { missing, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { afterIn } from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
-import {
-  isLedger,
-  ledgerAt,
-  reach,
-  type World,
-} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
-const ADD_PAGE_PROPERTY = "change-mechanical-file-content/add-page-property"
+const ADD_PROPERTY = "change-mechanical-page-type/add-property-to-every-page"
 
 const PAGE_TYPE = "page-type"
 
@@ -29,46 +19,11 @@ export type AddPropertyToEveryPageAsked = {
   readonly after?: string
 }
 
-function asking(
-  given: AddPropertyToEveryPageAsked,
-  at: string,
-  placed: string | null
-): Record<string, string> {
-  const held = { at, key: given.key, value: given.value }
-  return placed === null ? held : { ...held, after: placed }
-}
-
 export async function addPropertyToEveryPage(
   world: World,
   given: AddPropertyToEveryPageAsked
 ): Promise<Answer> {
-  const carried = world.index.propertiesIfNamed(given.pageType)
-  if (carried === null) return refusing(`\`${given.pageType}\` names no page type`)
-  const held = carried.find((one) => one.key === given.key)
-  if (held === undefined) {
-    return refusing(`a \`${given.pageType}\` carries no property under \`${given.key}\``)
-  }
-  if (held.many) {
-    return refusing(`\`${given.key}\` carries many values, so one value states nothing`)
-  }
-  const listed = world.index.everyOfType(given.pageType)
-  if (listed.length === 0) return refusing(`no page is a \`${given.pageType}\``)
-  const answers: Answer[] = []
-  let over: World = isLedger(world)
-    ? world
-    : ledgerAt(world.root, world.bodyOf, world.reaching, world.textOf)
-  const valued = world.index.valuesByPath(given.pageType)
-  for (const one of listed) {
-    const value = valued.get(one.path)
-    const placed = given.after ?? (value === undefined ? null : afterIn(world, value, given.key))
-    const reached = await reach(over, ADD_PAGE_PROPERTY, asking(given, one.path, placed))
-    if (reached.said.refused !== null) {
-      return refusing(`\`${one.path}\` is refused, and ${reached.said.refused}`)
-    }
-    over = reached.world
-    answers.push(reached.said)
-  }
-  return gathered(answers)
+  return (await reach(world, ADD_PROPERTY, given)).said
 }
 
 export type Asked = Readonly<Record<string, string>>

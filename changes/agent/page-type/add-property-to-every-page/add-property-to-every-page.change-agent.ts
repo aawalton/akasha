@@ -29,19 +29,39 @@ export const addPropertyToEveryPage = {
     },
     {
       invariantKind: "departure",
+      statement: "A value that parses as no value is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The value is written as the caller spells it rather than as text to quote.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The key is put in where the pages of that page type write that key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An `after` the caller states places the key on every page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page the index files no value for gains the key last.",
+    },
+    {
+      invariantKind: "departure",
       statement: "One page refused refuses the whole change.",
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the page that drew the refusal.",
+      statement: "A refusal over a page names that page.",
     },
     {
       invariantKind: "departure",
-      statement: "Each page is reached over the edits the pages before it left.",
+      statement: "The edits are worked out by the change reached.",
     },
     {
       invariantKind: "departure",
-      statement: "Putting the key in is left to the mechanical change adding one key.",
+      statement: "That change acts on a page type, as this one does.",
     },
     {
       invariantKind: "departure",
@@ -56,28 +76,8 @@ export const addPropertyToEveryPage = {
       statement: "Nothing here reads a page's own body.",
     },
     {
-      invariantKind: "departure",
-      statement: "The value is handed on as the body spells it rather than as text to quote.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The key is put in where the pages of that page type write that key.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An `after` the caller states is handed on rather than worked out.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Which keys a page writes is read from the value the index files for that page.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page the index files no value for gains the key last.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Every page is placed by the pages as they were before this change ran.",
+      invariantKind: "absence",
+      statement: "Nothing here reads the index.",
     },
   ],
   changeKind: "change-checked",
