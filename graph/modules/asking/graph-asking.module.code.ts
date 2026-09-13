@@ -22,6 +22,8 @@ const INDEX_NAME = "name"
 
 const ATTRIBUTES = "attributes"
 
+const ID = "id"
+
 const APART = "\n"
 
 const BY_INDEX: Known = "index"
@@ -126,9 +128,10 @@ function loadedFrom(
   asking: Asking,
   attribute: string
 ): readonly Edge[] {
-  const type = index.listedByPath(named.path)[0]
-  if (type === undefined) return []
-  const filed = index.typeSlugById(type.id)
+  const value = index.pageByPath(named.path)
+  const id = value === null ? null : textAt(value, ID)
+  if (id === null) return []
+  const filed = index.typeSlugById(id)
   if (filed === null) return []
   return index.everyOfType(filed).map((one) => ({
     kind: asking.kind,
