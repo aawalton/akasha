@@ -108,7 +108,7 @@ export function changeOf(
   return {
     root,
     changed: [...new Set(changes.flatMap(pathsOf))].sort(),
-    carried: [...new Set(filed.flatMap(pathsOf))].sort(),
+    carried: [...new Set(every.flatMap(pathsOf))].sort(),
     before: based,
     after: (path) => {
       const said = held.get(path)

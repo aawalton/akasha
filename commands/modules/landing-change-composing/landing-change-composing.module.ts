@@ -46,7 +46,11 @@ export const landingChangeComposing = {
     },
     {
       invariantKind: "departure",
-      statement: "Such a row's path is named apart from the files the change is judged over.",
+      statement: "Such a row's path is left out of the files the change is judged over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The files carried into the run are those rows' paths and the judged ones.",
     },
   ],
 } as const satisfies Module
