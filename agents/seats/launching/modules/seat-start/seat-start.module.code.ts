@@ -38,7 +38,7 @@ import {
   compositionOf,
   decideSpawnName,
 } from "akasha/agents/seats/name-claiming/modules/seat-spawn-name-decide/seat-spawn-name-decide.module.code.ts"
-import type { StatedAgentSlots } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
+import type { StatedAgentSlots } from "akasha/agents/seats/supervisors/rebinding/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
 import {
   dataError,
   inputError,

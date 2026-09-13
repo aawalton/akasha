@@ -2,10 +2,7 @@ import { triggerProxySwap } from "akasha/agents/seats/oauth-proxy/modules/superv
 import type { InteractiveSessionBoot } from "akasha/agents/seats/supervisors/boot/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 import { LIVE_CHILD_EXIT_RULE } from "akasha/agents/seats/supervisors/child/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { LIVE_IDLE_RULE } from "akasha/agents/seats/supervisors/idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
-import { wireSessionRotatedWatcher } from "akasha/agents/seats/supervisors/modules/supervisor-clear-rebind-wire/supervisor-clear-rebind-wire.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/modules/supervisor-console/supervisor-console.module.code.ts"
-import type { ClearRebindHooks } from "akasha/agents/seats/supervisors/modules/supervisor-rebind/supervisor-rebind.module.code.ts"
-import type { ClearRebindDeps } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/process/modules/supervisor-config/supervisor-config.module.code.ts"
 import type { AgentIdHandle } from "akasha/agents/seats/supervisors/process/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
 import {
@@ -17,6 +14,9 @@ import type {
   AgentProcess,
   InheritedProc,
 } from "akasha/agents/seats/supervisors/process/modules/supervisor-types/supervisor-types.module.code.ts"
+import { wireSessionRotatedWatcher } from "akasha/agents/seats/supervisors/rebinding/modules/supervisor-clear-rebind-wire/supervisor-clear-rebind-wire.module.code.ts"
+import type { ClearRebindHooks } from "akasha/agents/seats/supervisors/rebinding/modules/supervisor-rebind/supervisor-rebind.module.code.ts"
+import type { ClearRebindDeps } from "akasha/agents/seats/supervisors/rebinding/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
 import { LIVE_DEFERRED_RESTART_RULE } from "akasha/agents/seats/supervisors/restarting/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
 import { startPreCliffRestartMonitor } from "akasha/agents/seats/supervisors/restarting/modules/supervisor-precliff-restart/supervisor-precliff-restart.module.code.ts"
 import { askPreCliffRestart } from "akasha/agents/seats/supervisors/restarting/modules/supervisor-precliff-restart-rule/supervisor-precliff-restart-rule.module.code.ts"

@@ -4,13 +4,13 @@ import {
   AGENT_LAUNCH_SPAWNED,
 } from "akasha/agents/seats/supervisors/child/modules/supervisor-env/supervisor-env.module.code.ts"
 import { keepSeatTranscript } from "akasha/agents/seats/supervisors/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
+import { LOG } from "akasha/agents/seats/supervisors/process/modules/supervisor-config/supervisor-config.module.code.ts"
+import type { AgentProcess } from "akasha/agents/seats/supervisors/process/modules/supervisor-types/supervisor-types.module.code.ts"
 import {
   type CarriedAgentName,
   carriedForSeat,
-} from "akasha/agents/seats/supervisors/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
-import type { ClearRebindDeps } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
-import { LOG } from "akasha/agents/seats/supervisors/process/modules/supervisor-config/supervisor-config.module.code.ts"
-import type { AgentProcess } from "akasha/agents/seats/supervisors/process/modules/supervisor-types/supervisor-types.module.code.ts"
+} from "akasha/agents/seats/supervisors/rebinding/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
+import type { ClearRebindDeps } from "akasha/agents/seats/supervisors/rebinding/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
 
 export type ClearRebindHooks = {
   selectedAccount: string
