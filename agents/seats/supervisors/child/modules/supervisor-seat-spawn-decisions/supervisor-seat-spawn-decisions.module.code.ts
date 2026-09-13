@@ -1,11 +1,11 @@
+import { LOG } from "akasha/agents/seats/supervisors/process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   REMOTE_CONTROL_DECISION,
   RemoteControlVerdictShape,
   readRemoteControlQuestion,
   remoteControlFallback,
   seatLabel,
-} from "akasha/agents/seats/supervisors/modules/supervisor-remote-control-default/supervisor-remote-control-default.module.code.ts"
-import { LOG } from "akasha/agents/seats/supervisors/process/modules/supervisor-config/supervisor-config.module.code.ts"
+} from "akasha/agents/seats/supervisors/remote-control/modules/supervisor-remote-control-default/supervisor-remote-control-default.module.code.ts"
 import {
   askSupervisorDecide,
   SUPERVISOR_DECIDE_COMMAND,

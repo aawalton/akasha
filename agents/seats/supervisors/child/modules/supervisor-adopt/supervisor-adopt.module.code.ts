@@ -12,7 +12,6 @@ import {
 import type { ChildExitStatus } from "akasha/agents/seats/supervisors/child/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import type { ChildExitRuleSource } from "akasha/agents/seats/supervisors/child/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { buildSupervisorEnv } from "akasha/agents/seats/supervisors/child/modules/supervisor-env/supervisor-env.module.code.ts"
-import { resolveRemoteControlEnv } from "akasha/agents/seats/supervisors/modules/supervisor-remote-control-env/supervisor-remote-control-env.module.code.ts"
 import {
   HOME_DIR,
   LOG,
@@ -23,6 +22,7 @@ import {
   waitForPidExit,
 } from "akasha/agents/seats/supervisors/process/modules/supervisor-exec/supervisor-exec.module.code.ts"
 import type { InheritedProc } from "akasha/agents/seats/supervisors/process/modules/supervisor-types/supervisor-types.module.code.ts"
+import { resolveRemoteControlEnv } from "akasha/agents/seats/supervisors/remote-control/modules/supervisor-remote-control-env/supervisor-remote-control-env.module.code.ts"
 import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
 
 export function adoptInheritedProc(pid: number, childExitRule: ChildExitRuleSource): InheritedProc {

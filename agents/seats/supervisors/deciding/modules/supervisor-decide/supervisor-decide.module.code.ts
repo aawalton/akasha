@@ -10,8 +10,8 @@ import {
   parseWaitResume,
 } from "akasha/agents/seats/supervisors/deciding/modules/supervisor-decide-payload/supervisor-decide-payload.module.code.ts"
 import { RULE_DECISIONS } from "akasha/agents/seats/supervisors/deciding/modules/supervisor-decide-rules/supervisor-decide-rules.module.code.ts"
-import { decideRcDegradedBatch } from "akasha/agents/seats/supervisors/modules/supervisor-rc-degraded-decide/supervisor-rc-degraded-decide.module.code.ts"
-import { decideRemoteControlBatch } from "akasha/agents/seats/supervisors/modules/supervisor-remote-control-decide/supervisor-remote-control-decide.module.code.ts"
+import { decideRcDegradedBatch } from "akasha/agents/seats/supervisors/remote-control/modules/supervisor-rc-degraded-decide/supervisor-rc-degraded-decide.module.code.ts"
+import { decideRemoteControlBatch } from "akasha/agents/seats/supervisors/remote-control/modules/supervisor-remote-control-decide/supervisor-remote-control-decide.module.code.ts"
 import {
   planRestartNotice,
   type ResumeNotices,
