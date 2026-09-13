@@ -15,7 +15,10 @@ import {
   type Scope,
   ScopeType,
 } from "akasha/design/language/lua-compiler/modules/scope/scope.module.code.ts"
-import { assert, castArray } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
+import {
+  assert,
+  castArray,
+} from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
 import * as ts from "typescript"
 
 export type OneToManyVisitorResult<T extends luaCore.Node> = T | readonly T[] | undefined

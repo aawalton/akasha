@@ -22,7 +22,7 @@ import { useCrossModePositionWrite } from "akasha/pages/ui/media/modules/use-cro
 import { usePersistAudioSession } from "akasha/pages/ui/media/modules/use-persist-audio-session/use-persist-audio-session.module.code.ts"
 import { usePersistentAudioContainer } from "akasha/pages/ui/media/modules/use-persistent-audio-container/use-persistent-audio-container.module.code.ts"
 import type { MediaSrcResolver } from "akasha/pages/ui/media/modules/use-shell-media-src/use-shell-media-src.module.code.ts"
-import type { EnsureRenditionFn } from "akasha/pages/ui/media/use-webkit-read-aloud-ensure/use-webkit-read-aloud-ensure.module.code.ts"
+import type { EnsureRenditionFn } from "akasha/pages/ui/media/modules/use-webkit-read-aloud-ensure/use-webkit-read-aloud-ensure.module.code.ts"
 import { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import {
   createContext,

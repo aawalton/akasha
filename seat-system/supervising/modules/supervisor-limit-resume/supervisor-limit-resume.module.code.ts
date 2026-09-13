@@ -6,7 +6,7 @@ import {
   askSupervisorDecide,
   classifyRateLimitDeath,
 } from "akasha/agents/seats/supervisors/modules/limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
-import { USER_ID } from "akasha/alan/harness/supabase-auth/user-id/user-id.module.code.ts"
+import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

@@ -1,5 +1,5 @@
 import * as path from "node:path"
-import { trimExtension } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
+import { trimExtension } from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
 import type * as ts from "typescript"
 
 export function getEmitPath(file: string, program: ts.Program): string {

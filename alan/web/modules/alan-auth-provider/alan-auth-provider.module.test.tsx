@@ -1,6 +1,6 @@
 import { beforeEach, expect, mock, test } from "bun:test"
 import { render } from "@testing-library/react"
-import { UserIdContext } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
+import { UserIdContext } from "akasha/pages/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { act, useContext, useEffect } from "react"
 
 process.env.BASE_URL = "/"

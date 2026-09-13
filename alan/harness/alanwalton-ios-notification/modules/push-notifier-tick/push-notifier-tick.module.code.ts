@@ -18,7 +18,7 @@ import {
   newestNotificationAt,
   readNotificationsAfter,
 } from "akasha/alan/harness/notification-feeds/modules/rows/notification-feed-rows.module.code.ts"
-import { USER_ID } from "akasha/alan/harness/supabase-auth/user-id/user-id.module.code.ts"
+import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
 
 export const WORKER_NAME = "apns-push-notifier"
 

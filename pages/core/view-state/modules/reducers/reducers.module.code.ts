@@ -1,7 +1,7 @@
 import {
   defaultViewData,
   type ViewDataJSON,
-} from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+} from "akasha/pages/core/schema/modules/view-data/view-data.module.code.ts"
 import type {
   CreateViewArgs,
   DeleteViewArgs,
@@ -13,7 +13,7 @@ import type {
   UpdateViewConfigArgs,
   ViewEffect,
   ViewRow,
-} from "akasha/pages/core/view-state/view-state-change/view-state-change.module.code.ts"
+} from "akasha/pages/core/view-state/modules/view-state-change/view-state-change.module.code.ts"
 import { isJson } from "akasha/utils/narrow/modules/is-json/is-json.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 

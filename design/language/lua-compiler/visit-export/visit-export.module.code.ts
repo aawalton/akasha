@@ -10,7 +10,7 @@ import * as luaCore from "akasha/design/language/lua-compiler/modules/lua-ast-co
 import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
 import { createSafeName } from "akasha/design/language/lua-compiler/modules/safe-names/safe-names.module.code.ts"
-import { assert } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
+import { assert } from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
 import { createModuleRequire } from "akasha/design/language/lua-compiler/visit-import/visit-import.module.code.ts"
 import { createShorthandIdentifier } from "akasha/design/language/lua-compiler/visit-literal/visit-literal.module.code.ts"
 import { transformPropertyName } from "akasha/design/language/lua-compiler/visit-property-name/visit-property-name.module.code.ts"

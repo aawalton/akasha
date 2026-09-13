@@ -21,7 +21,7 @@ import { SubView } from "akasha/design/interfaces/primitives/modules/sub-view/su
 import type {
   PropertyVisibilityMode,
   VisibilityChange,
-} from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+} from "akasha/pages/core/schema/modules/view-data/view-data.module.code.ts"
 import {
   applySectionDrop,
   computePickerDropZone,

@@ -1,7 +1,7 @@
 "use client"
 
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
-import type { ViewLayout } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import type { ViewLayout } from "akasha/pages/core/schema/modules/view-data/view-data.module.code.ts"
 import {
   DEFAULT_GALLERY_CARD_SIZE,
   type GalleryCardSize,
@@ -14,7 +14,7 @@ import type { PageTableColumn } from "akasha/pages/ui/components/modules/page-ta
 import { withColumnWidths } from "akasha/pages/ui/components/modules/page-table-widths/page-table-widths.module.code.ts"
 import { SortableCardCollection } from "akasha/pages/ui/components/modules/sortable-card-collection/sortable-card-collection.module.code.tsx"
 import type { ReorderCardsHandler } from "akasha/pages/ui/components/modules/use-reorder-view-wiring/use-reorder-view-wiring.module.code.ts"
-import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/modules/view-row/view-row.module.code.ts"
 import type { ReactNode } from "react"
 
 interface PageListSectionProps {

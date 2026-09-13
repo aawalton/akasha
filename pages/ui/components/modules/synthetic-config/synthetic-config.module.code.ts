@@ -5,8 +5,8 @@ import type {
   ViewFilter,
   ViewGroupSort,
   ViewSort,
-} from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
-import { GROUP_GRANULARITIES } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+} from "akasha/pages/core/schema/modules/view-data/view-data.module.code.ts"
+import { GROUP_GRANULARITIES } from "akasha/pages/core/schema/modules/view-data/view-data.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 import { z } from "zod"
 

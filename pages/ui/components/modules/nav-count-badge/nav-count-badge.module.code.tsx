@@ -4,7 +4,7 @@ import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.modul
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { resolveDefinitionOptions } from "akasha/pages/core/schema/modules/resolve-select-options/resolve-select-options.module.code.ts"
-import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import type { ViewDataJSON } from "akasha/pages/core/schema/modules/view-data/view-data.module.code.ts"
 import { shouldShowCountBadge } from "akasha/pages/ui/components/modules/nav-count-badge-decider/nav-count-badge-decider.module.code.ts"
 import {
   useAllPages,
@@ -13,7 +13,7 @@ import {
 import { usePageViewQuery } from "akasha/pages/ui/supabase/modules/hooks-view-query/hooks-view-query.module.code.ts"
 import { useOptionListLookup } from "akasha/pages/ui/supabase/modules/use-option-list-lookup/use-option-list-lookup.module.code.ts"
 import { usePageTypeDirectory } from "akasha/pages/ui/supabase/modules/use-page-type-directory/use-page-type-directory.module.code.ts"
-import { viewDataOfPage } from "akasha/pages/ui/supabase/view-data-of-page/view-data-of-page.module.code.ts"
+import { viewDataOfPage } from "akasha/pages/ui/supabase/modules/view-data-of-page/view-data-of-page.module.code.ts"
 import { useMemo } from "react"
 
 const PAGE_TYPE_SLUG = "page-type"

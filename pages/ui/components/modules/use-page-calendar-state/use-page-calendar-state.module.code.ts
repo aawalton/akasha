@@ -13,7 +13,7 @@ import {
   type CalendarCellRect,
   computeCalendarDropDay,
 } from "akasha/pages/ui/components/modules/page-calendar-dnd-helpers/page-calendar-dnd-helpers.module.code.ts"
-import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/modules/view-row/view-row.module.code.ts"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
 
 export function usePageCalendarState({

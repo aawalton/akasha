@@ -13,7 +13,7 @@ import { NotFoundNotice } from "akasha/alan/web-capacitor/modules/not-found-noti
 import { resolveDisplayKind } from "akasha/pages/core/schema/modules/detail-config/detail-config.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { getPageDisplay } from "akasha/pages/ui/capabilities/modules/page-display-registry/page-display-registry.module.code.ts"
-import { ViewPageContent } from "akasha/pages/ui/components/view-page-content/view-page-content.module.code.tsx"
+import { ViewPageContent } from "akasha/pages/ui/components/modules/view-page-content/view-page-content.module.code.tsx"
 import {
   useAllPages,
   usePageByIdSuffix,

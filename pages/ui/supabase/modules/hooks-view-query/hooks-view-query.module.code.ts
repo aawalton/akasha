@@ -8,7 +8,7 @@ import type {
 } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/modules/rollup/rollup.module.code.ts"
 import { getCrossTypePredicate } from "akasha/pages/core/schema/modules/cross-type-predicates/cross-type-predicates.module.code.ts"
-import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import type { ViewDataJSON } from "akasha/pages/core/schema/modules/view-data/view-data.module.code.ts"
 import {
   adjustTotalForClientFilters,
   applyClientViewFilters,
@@ -17,8 +17,8 @@ import {
   type PageWithProperties,
   toPageWithProperties,
 } from "akasha/pages/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
-import { useViewPagesSupabase } from "akasha/pages/ui/supabase/use-view-pages/use-view-pages.module.code.tsx"
-import { viewFilterToCondition } from "akasha/pages/ui/supabase/view-filter-to-condition/view-filter-to-condition.module.code.ts"
+import { useViewPagesSupabase } from "akasha/pages/ui/supabase/modules/use-view-pages/use-view-pages.module.code.tsx"
+import { viewFilterToCondition } from "akasha/pages/ui/supabase/modules/view-filter-to-condition/view-filter-to-condition.module.code.ts"
 import type { ShapeDescriptor } from "akasha/pages/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import { useMemo } from "react"
 

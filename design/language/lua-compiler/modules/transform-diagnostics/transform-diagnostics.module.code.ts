@@ -4,7 +4,7 @@ import {
   LuaTarget,
 } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
 import * as luaCore from "akasha/design/language/lua-compiler/modules/lua-ast-core/lua-ast-core.module.code.ts"
-import { createSerialDiagnosticFactory } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
+import { createSerialDiagnosticFactory } from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
 import * as ts from "typescript"
 
 type MessageProvider<TArgs extends readonly unknown[]> = string | ((...args: TArgs) => string)

@@ -9,7 +9,7 @@ import {
   logMappingTotals,
   logPageRowTotals,
 } from "akasha/temper/addon-data/modules/page-row-totals/page-row-totals.module.code.ts"
-import { validateEquipmentMappings } from "akasha/temper/addon-data/validate-equipment-mappings/validate-equipment-mappings.module.code.ts"
+import { validateEquipmentMappings } from "akasha/temper/addon-data/modules/validate-equipment-mappings/validate-equipment-mappings.module.code.ts"
 
 export class EquipmentMappingsStale extends Error {}
 

@@ -13,7 +13,7 @@ import {
   SidebarStateContext,
   useSidebarState,
   useSidebarStateProvider,
-} from "akasha/design/interfaces/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
+} from "akasha/design/interfaces/layout/modules/use-sidebar-state/use-sidebar-state.module.code.ts"
 import { useMemo, useRef } from "react"
 
 interface AppShellProps {

@@ -1,5 +1,5 @@
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
-import type { GroupGranularity } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import type { GroupGranularity } from "akasha/pages/core/schema/modules/view-data/view-data.module.code.ts"
 import { GROUP_NONE_KEY } from "akasha/pages/core/view/modules/apply-grouping-shared/apply-grouping-shared.module.code.ts"
 import { expandDateMentions } from "akasha/pages/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { toPageDataRecord } from "akasha/pages/ui/components/modules/page-data-json/page-data-json.module.code.ts"

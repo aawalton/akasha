@@ -1,5 +1,5 @@
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
-import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import type { ViewDataJSON } from "akasha/pages/core/schema/modules/view-data/view-data.module.code.ts"
 import {
   type GalleryCardSize,
   resolveGalleryCardSize,

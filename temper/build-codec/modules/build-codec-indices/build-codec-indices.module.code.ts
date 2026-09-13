@@ -10,7 +10,7 @@ import { curses } from "akasha/temper/character-sources/modules/curses/curses.mo
 import { esoPlus } from "akasha/temper/character-sources/modules/eso-plus-source/eso-plus-source.module.code.ts"
 import { foodOrDrink } from "akasha/temper/character-sources/modules/food-or-drink-source/food-or-drink-source.module.code.ts"
 import { mundus } from "akasha/temper/character-sources/modules/mundus-source/mundus-source.module.code.ts"
-import { vampireStages } from "akasha/temper/character-sources/vampire-stages/vampire-stages.module.code.ts"
+import { vampireStages } from "akasha/temper/character-sources/modules/vampire-stages/vampire-stages.module.code.ts"
 import { armorEnchants } from "akasha/temper/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"
 import { standardArmorWeights } from "akasha/temper/characters-equipment/modules/armor-weights/armor-weights.module.code.ts"
 import { jewelryEnchants } from "akasha/temper/characters-equipment/modules/jewelry-enchants/jewelry-enchants.module.code.ts"

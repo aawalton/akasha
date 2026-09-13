@@ -1,4 +1,4 @@
-import { createSerialDiagnosticFactory } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
+import { createSerialDiagnosticFactory } from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
 import * as ts from "typescript"
 
 const createDiagnosticFactory = <TArgs extends readonly unknown[]>(

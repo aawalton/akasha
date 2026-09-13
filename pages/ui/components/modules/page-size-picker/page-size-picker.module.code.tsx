@@ -7,7 +7,7 @@ import {
   DEFAULT_GROUP_PAGE_SIZE,
   DEFAULT_ITEM_PAGE_SIZE,
   DEFAULT_PAGE_SIZE,
-} from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+} from "akasha/pages/core/schema/modules/view-data/view-data.module.code.ts"
 
 interface PageSizePickerProps {
   groupBy: string | null

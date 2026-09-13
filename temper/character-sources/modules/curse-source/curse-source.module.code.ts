@@ -1,4 +1,4 @@
-import type { VampireStageId } from "akasha/temper/character-sources/vampire-stages/vampire-stages.module.code.ts"
+import type { VampireStageId } from "akasha/temper/character-sources/modules/vampire-stages/vampire-stages.module.code.ts"
 import type { Effect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 import type { EffectSourceInterface } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
 

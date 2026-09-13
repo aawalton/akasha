@@ -44,7 +44,7 @@ import {
   usePassiveFilter,
 } from "akasha/temper/web/modules/use-passive-filter/use-passive-filter.module.code.ts"
 import { useSetTargetEntities } from "akasha/temper/web/modules/use-set-target-entities/use-set-target-entities.module.code.ts"
-import { useStatChangeNotifications } from "akasha/temper/web/use-stat-change-notifications/use-stat-change-notifications.module.code.tsx"
+import { useStatChangeNotifications } from "akasha/temper/web/modules/use-stat-change-notifications/use-stat-change-notifications.module.code.tsx"
 import { useEffect, useState } from "react"
 import { toast } from "sonner"
 

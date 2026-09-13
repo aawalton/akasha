@@ -1,5 +1,5 @@
 import type { Row } from "akasha/commands/pages/track/modules/session-rows/session-rows.module.code.ts"
-import { statesVersionSeven } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
+import { statesVersionSeven } from "akasha/pages/ids/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { valuesByPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   textIn,

@@ -19,14 +19,14 @@ import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.cod
 import { Spinner } from "akasha/design/interfaces/primitives/modules/spinner/spinner.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
-import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
+import { useUserId } from "akasha/pages/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { useInventoryImport } from "akasha/temper/player-inventory-management-ui/modules/use-inventory-import/use-inventory-import.module.code.ts"
 import {
   ImportSummary,
   InventoryImportSummary,
   importHadCaveats,
 } from "akasha/temper/web/modules/import-summaries/import-summaries.module.code.tsx"
-import { useTemperImport } from "akasha/temper/web/use-temper-import/use-temper-import.module.code.ts"
+import { useTemperImport } from "akasha/temper/web/modules/use-temper-import/use-temper-import.module.code.ts"
 import { AlertCircle, CheckCircle2, FileUp, Upload } from "lucide-react"
 
 export function ImportPageContent() {

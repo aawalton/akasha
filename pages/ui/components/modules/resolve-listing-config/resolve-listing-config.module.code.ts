@@ -2,7 +2,7 @@ import {
   type ListingConfig,
   listingConfigToViewData,
 } from "akasha/pages/core/schema/modules/listing-config/listing-config.module.code.ts"
-import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import type { ViewDataJSON } from "akasha/pages/core/schema/modules/view-data/view-data.module.code.ts"
 
 export function resolveListingViewData(
   listingConfig: ListingConfig | undefined,

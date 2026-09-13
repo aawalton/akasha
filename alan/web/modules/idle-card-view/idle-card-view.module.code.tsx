@@ -26,7 +26,7 @@ import { resolveGalleryCardSize } from "akasha/pages/core/view/modules/gallery/g
 import { PageCardRenderer } from "akasha/pages/ui/components/modules/page-card-renderer/page-card-renderer.module.code.tsx"
 import { PageSystemTabContent } from "akasha/pages/ui/components/modules/page-system-view/page-system-view.module.code.tsx"
 import { useReorderViewWiring } from "akasha/pages/ui/components/modules/use-reorder-view-wiring/use-reorder-view-wiring.module.code.ts"
-import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/modules/view-row/view-row.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect, useMemo, useState, useSyncExternalStore } from "react"
 

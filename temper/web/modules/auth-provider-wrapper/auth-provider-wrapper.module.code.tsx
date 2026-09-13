@@ -2,8 +2,8 @@
 
 import { useSupabase } from "akasha/alan/harness/supabase-rr/modules/supabase-provider/supabase-provider.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
+import { UserIdContext } from "akasha/pages/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { SupabasePageResolverProvider } from "akasha/pages/ui/supabase/modules/page-resolver-provider/page-resolver-provider.module.code.tsx"
-import { UserIdContext } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { reportPagesStoreStall } from "akasha/pages/ui-store/modules/report-stall/report-stall.module.code.ts"
 import {
   configurePagesStoreAuth,

@@ -16,7 +16,7 @@ import {
   listingIncludesDescendants,
 } from "akasha/pages/core/schema/modules/listing-config/listing-config.module.code.ts"
 import { resolveDescendantPageTypeIds } from "akasha/pages/core/schema/modules/page-type-inheritance/page-type-inheritance.module.code.ts"
-import type { ViewSort } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import type { ViewSort } from "akasha/pages/core/schema/modules/view-data/view-data.module.code.ts"
 import {
   type PageWithProperties,
   toPageWithProperties,

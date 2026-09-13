@@ -14,7 +14,7 @@ import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surfac
 import { useDebouncedCallback } from "akasha/design/interfaces/primitives/modules/use-debounced-callback/use-debounced-callback.module.code.ts"
 import type { FilterOperator } from "akasha/pages/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
-import type { ViewFilter } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import type { ViewFilter } from "akasha/pages/core/schema/modules/view-data/view-data.module.code.ts"
 import type { PageFilterDimension } from "akasha/pages/core/view/modules/generate-filter-dimensions/generate-filter-dimensions.module.code.ts"
 import {
   BetweenDateValueInput,
@@ -34,7 +34,7 @@ import {
   NumberValueInput,
   SelectBadgePicker,
   TextValueInput,
-} from "akasha/pages/ui/components/value-filter-inputs/value-filter-inputs.module.code.tsx"
+} from "akasha/pages/ui/components/modules/value-filter-inputs/value-filter-inputs.module.code.tsx"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import { requireFirst } from "akasha/utils/narrow/modules/require-first/require-first.module.code.ts"
 import { Check, ChevronDown } from "lucide-react"

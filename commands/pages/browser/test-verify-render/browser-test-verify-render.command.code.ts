@@ -5,7 +5,7 @@ import {
   planRenderSettleWait,
   planTitleSettleWait,
   planVerifyRenderSession,
-} from "akasha/code/browser/commands/verify-render-plan/verify-render-plan.module.code.ts"
+} from "akasha/code/browser/commands/modules/verify-render-plan/verify-render-plan.module.code.ts"
 import {
   readBrowserTestEnv,
   readRealUserOptInEnv,

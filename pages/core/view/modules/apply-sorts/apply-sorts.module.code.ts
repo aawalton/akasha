@@ -1,5 +1,5 @@
 import { nullOrderSign } from "akasha/pages/core/modules/null-ordering/null-ordering.module.code.ts"
-import type { ViewSort } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import type { ViewSort } from "akasha/pages/core/schema/modules/view-data/view-data.module.code.ts"
 import type { FilterableRow } from "akasha/pages/core/view/modules/apply-filters/apply-filters.module.code.ts"
 
 export function applySorts<T extends FilterableRow>(

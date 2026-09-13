@@ -24,7 +24,7 @@ import {
   LAYOUT_OPTIONS,
   type ViewSettingsButtonProps,
   type ViewSettingsView,
-} from "akasha/pages/ui/components/view-settings-options/view-settings-options.module.code.ts"
+} from "akasha/pages/ui/components/modules/view-settings-options/view-settings-options.module.code.ts"
 import {
   ChevronRight,
   Eye,

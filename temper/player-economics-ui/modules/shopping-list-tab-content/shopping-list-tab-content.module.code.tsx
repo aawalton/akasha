@@ -45,7 +45,7 @@ import { ShoppingRouteOverviewPanelCard } from "akasha/temper/player-economics-u
 import { ShoppingTripCompletePanelCard } from "akasha/temper/player-economics-ui/modules/shopping-trip-complete-panel-card/shopping-trip-complete-panel-card.module.code.tsx"
 import { useCompanionShoppingData } from "akasha/temper/player-economics-ui/modules/use-companion-shopping-data/use-companion-shopping-data.module.code.ts"
 import type { ShoppingList } from "akasha/temper/player-economics-ui/modules/use-shopping-list/use-shopping-list.module.code.ts"
-import { useShoppingOptimizer } from "akasha/temper/player-economics-ui/use-shopping-optimizer/use-shopping-optimizer.module.code.ts"
+import { useShoppingOptimizer } from "akasha/temper/player-economics-ui/modules/use-shopping-optimizer/use-shopping-optimizer.module.code.ts"
 import { PricingRegionNote } from "akasha/temper/player-inventory-management-ui/modules/pricing-region-note/pricing-region-note.module.code.tsx"
 import {
   needToShoppingItem,

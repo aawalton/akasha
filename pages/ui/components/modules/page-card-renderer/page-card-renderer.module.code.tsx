@@ -13,12 +13,12 @@ import {
 import { PageCard } from "akasha/pages/ui/components/modules/page-card/page-card.module.code.tsx"
 import { PageCardNotes } from "akasha/pages/ui/components/modules/page-card-notes/page-card-notes.module.code.tsx"
 import { pageRowToPageDataJSON } from "akasha/pages/ui/components/modules/page-data-json/page-data-json.module.code.ts"
-import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import {
   buildRelationBackLinkHref,
   buildRowHref,
   readRelationConfig,
-} from "akasha/pages/ui/components/view-tab-content-href/view-tab-content-href.module.code.ts"
+} from "akasha/pages/ui/components/modules/view-tab-content-href/view-tab-content-href.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/modules/view-row/view-row.module.code.ts"
 import { getCoverClickHandler } from "akasha/pages/ui/cover-click/modules/cover-click-registry/cover-click-registry.module.code.ts"
 import { getCoverMask } from "akasha/pages/ui/cover-click/modules/cover-mask-registry/cover-mask-registry.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"

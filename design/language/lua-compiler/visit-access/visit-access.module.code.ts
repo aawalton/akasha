@@ -27,7 +27,7 @@ import {
   isNumberType,
   isStringType,
 } from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
-import { assert } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
+import { assert } from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
 import { tryGetConstEnumValue } from "akasha/design/language/lua-compiler/visit-enum/visit-enum.module.code.ts"
 import { callExtensions } from "akasha/design/language/lua-compiler/visit-extension-call-extension/visit-extension-call-extension.module.code.ts"
 import {

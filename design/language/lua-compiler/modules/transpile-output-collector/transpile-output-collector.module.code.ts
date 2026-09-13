@@ -1,4 +1,7 @@
-import { intersection, union } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
+import {
+  intersection,
+  union,
+} from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
 import type * as ts from "typescript"
 
 export interface TranspiledFile {

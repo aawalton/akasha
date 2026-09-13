@@ -14,7 +14,10 @@ import { transformLuaLibFunction } from "akasha/design/language/lua-compiler/mod
 import { LuaLibFeature } from "akasha/design/language/lua-compiler/modules/lualib-features/lualib-features.module.code.ts"
 import { transformInPrecedingStatementScope } from "akasha/design/language/lua-compiler/modules/preceding-statements/preceding-statements.module.code.ts"
 import { unsupportedVarDeclaration } from "akasha/design/language/lua-compiler/modules/transform-diagnostics/transform-diagnostics.module.code.ts"
-import { assert, cast } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
+import {
+  assert,
+  cast,
+} from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
 import { isMultiReturnCall } from "akasha/design/language/lua-compiler/visit-extension-multi/visit-extension-multi.module.code.ts"
 import {
   createCallableTable,

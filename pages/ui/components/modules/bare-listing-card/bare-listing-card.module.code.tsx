@@ -6,7 +6,7 @@ import { completionShapeOf } from "akasha/pages/core/modules/task-lifecycle/task
 import { PageCard } from "akasha/pages/ui/components/modules/page-card/page-card.module.code.tsx"
 import { PageCardNotes } from "akasha/pages/ui/components/modules/page-card-notes/page-card-notes.module.code.tsx"
 import { pageRowToPageDataJSON } from "akasha/pages/ui/components/modules/page-data-json/page-data-json.module.code.ts"
-import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/modules/view-row/view-row.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import type { ReactElement } from "react"
 

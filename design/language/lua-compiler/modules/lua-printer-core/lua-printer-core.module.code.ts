@@ -9,7 +9,7 @@ import { getEmitPath } from "akasha/design/language/lua-compiler/modules/transpi
 import {
   intersperse,
   normalizeSlashes,
-} from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
 import { SourceNode } from "source-map"
 import type * as ts from "typescript"
 

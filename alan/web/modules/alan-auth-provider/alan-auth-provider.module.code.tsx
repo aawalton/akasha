@@ -10,7 +10,7 @@ import { setOfflineCacheUserKey } from "akasha/alan/web/modules/offline-cache-na
 import { OfflineTextSync } from "akasha/alan/web/modules/offline-text-sync/offline-text-sync.module.code.tsx"
 import { PushRegistrationSync } from "akasha/alan/web/modules/push-registration-sync/push-registration-sync.module.code.tsx"
 import { useAppVersionCheck } from "akasha/pages/ui/app-version/modules/use-app-version-check/use-app-version-check.module.code.ts"
-import { UserIdContext } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
+import { UserIdContext } from "akasha/pages/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { emitStoreDiagnostic } from "akasha/pages/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import { reportPagesStoreStall } from "akasha/pages/ui-store/modules/report-stall/report-stall.module.code.ts"
 import {

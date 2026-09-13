@@ -2,7 +2,7 @@
 
 import type { PageWhere } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import type { ListingConfig } from "akasha/pages/core/schema/modules/listing-config/listing-config.module.code.ts"
-import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import type { ViewDataJSON } from "akasha/pages/core/schema/modules/view-data/view-data.module.code.ts"
 import { resolveListingViewData } from "akasha/pages/ui/components/modules/resolve-listing-config/resolve-listing-config.module.code.ts"
 import { useDescendantListing } from "akasha/pages/ui/components/modules/use-descendant-pages/use-descendant-pages.module.code.ts"
 import type { PageWithProperties } from "akasha/pages/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"

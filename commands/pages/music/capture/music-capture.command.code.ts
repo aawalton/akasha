@@ -32,7 +32,7 @@ import {
   sumNewMusicMinutes,
 } from "akasha/commands/pages/music/capture/modules/play-row/play-row.module.code.ts"
 import { musicCapture as page } from "akasha/commands/pages/music/capture/music-capture.command.ts"
-import { uuidVersion7 } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
+import { uuidVersion7 } from "akasha/pages/ids/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import {
   everyOfType,
   valuesOfType,

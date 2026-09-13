@@ -11,7 +11,7 @@ import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/mod
 import type {
   GroupGranularity,
   ViewFilter,
-} from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+} from "akasha/pages/core/schema/modules/view-data/view-data.module.code.ts"
 import { GROUP_NONE_KEY } from "akasha/pages/core/view/modules/apply-grouping-shared/apply-grouping-shared.module.code.ts"
 import { pageDayKey } from "akasha/pages/core/view/modules/calendar-date-to-value/calendar-date-to-value.module.code.ts"
 import { applyGranularityBucket } from "akasha/pages/core/view/modules/group-granularity/group-granularity.module.code.ts"
@@ -27,7 +27,7 @@ import {
   type UsePagesSupabaseOptions,
   usePages,
 } from "akasha/pages/ui/supabase/modules/use-pages/use-pages.module.code.ts"
-import { viewFilterToCondition } from "akasha/pages/ui/supabase/view-filter-to-condition/view-filter-to-condition.module.code.ts"
+import { viewFilterToCondition } from "akasha/pages/ui/supabase/modules/view-filter-to-condition/view-filter-to-condition.module.code.ts"
 import { useMemo } from "react"
 
 interface GroupByArgs {

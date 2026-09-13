@@ -20,7 +20,7 @@ import { dayBefore } from "akasha/commands/pages/track/waking/waking.module.code
 import {
   statesVersionSeven,
   uuidVersion7,
-} from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
+} from "akasha/pages/ids/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { valuesByPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   numberAt,

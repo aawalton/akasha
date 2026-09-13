@@ -29,7 +29,7 @@ import {
   leafToValueData,
   type ValueExplanationData,
   ValueExplanationDialog,
-} from "akasha/temper/player-inventory-management-ui/value-explanation-dialog/value-explanation-dialog.module.code.tsx"
+} from "akasha/temper/player-inventory-management-ui/modules/value-explanation-dialog/value-explanation-dialog.module.code.tsx"
 import { LayoutList, List, MapPin } from "lucide-react"
 import { useMemo, useState } from "react"
 

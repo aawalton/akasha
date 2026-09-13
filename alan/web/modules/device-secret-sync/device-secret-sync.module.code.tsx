@@ -6,7 +6,7 @@ import {
   getDeviceSecret,
   isNativeShell,
 } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
-import { UserIdContext } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
+import { UserIdContext } from "akasha/pages/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import {
   mintDeviceSecretResponseSchema,
   mintDeviceSecretSchema,

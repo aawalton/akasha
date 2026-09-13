@@ -16,7 +16,7 @@ import {
   type ReachabilityResult,
 } from "akasha/design/language/lua-compiler/modules/transpile-reachability/transpile-reachability.module.code.ts"
 import { getTransformers } from "akasha/design/language/lua-compiler/modules/transpile-transformers/transpile-transformers.module.code.ts"
-import { isNonNull } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
+import { isNonNull } from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
 import * as ts from "typescript"
 
 export interface TranspileOptions {

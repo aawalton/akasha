@@ -33,7 +33,10 @@ import type {
 } from "akasha/design/language/lua-compiler/modules/scope/scope.module.code.ts"
 import type { SymbolInfo } from "akasha/design/language/lua-compiler/modules/symbols/symbols.module.code.ts"
 import { unsupportedNodeKind } from "akasha/design/language/lua-compiler/modules/transform-diagnostics/transform-diagnostics.module.code.ts"
-import { assert, castArray } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
+import {
+  assert,
+  castArray,
+} from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
 import * as ts from "typescript"
 
 export function createTransformationContext(

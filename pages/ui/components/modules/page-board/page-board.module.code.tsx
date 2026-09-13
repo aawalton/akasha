@@ -24,7 +24,7 @@ import {
   computeBoardDropColumn,
 } from "akasha/pages/ui/components/modules/page-board-dnd-helpers/page-board-dnd-helpers.module.code.ts"
 import type { ServerGroupedSection } from "akasha/pages/ui/components/modules/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
-import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/modules/view-row/view-row.module.code.ts"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
 
 interface PageBoardProps {

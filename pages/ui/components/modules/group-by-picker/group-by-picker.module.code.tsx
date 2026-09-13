@@ -17,7 +17,7 @@ import { SubView } from "akasha/design/interfaces/primitives/modules/sub-view/su
 import {
   GROUP_GRANULARITIES,
   type GroupGranularity,
-} from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+} from "akasha/pages/core/schema/modules/view-data/view-data.module.code.ts"
 import { X } from "lucide-react"
 
 const GRANULARITY_LABELS: Record<GroupGranularity, string> = {

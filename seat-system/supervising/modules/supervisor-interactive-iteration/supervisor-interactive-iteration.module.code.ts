@@ -5,7 +5,7 @@ import {
 } from "akasha/agents/messaging/modules/supervisor-message-claim/supervisor-message-claim.module.code.ts"
 import { redeliveryHoldoff } from "akasha/agents/messaging/modules/supervisor-redelivery-holdoff/supervisor-redelivery-holdoff.module.code.ts"
 import { readOwnTranscriptTail } from "akasha/agents/modules/io-probe/io-probe.module.code.ts"
-import { USER_ID } from "akasha/alan/harness/supabase-auth/user-id/user-id.module.code.ts"
+import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
 import {
   setCurrentAgentIdForSelfHeal,
   setCurrentSessionIdForSelfHeal,

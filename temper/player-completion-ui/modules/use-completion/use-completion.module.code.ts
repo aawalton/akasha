@@ -1,8 +1,8 @@
 "use client"
 
 import { NEVER_MATCH_VALUE } from "akasha/pages/access/modules/sentinels/sentinels.module.code.ts"
+import { useUserId } from "akasha/pages/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { usePages } from "akasha/pages/ui/supabase/modules/use-pages/use-pages.module.code.ts"
-import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import type {
   AccountCompletion,
   CharacterCompletion,

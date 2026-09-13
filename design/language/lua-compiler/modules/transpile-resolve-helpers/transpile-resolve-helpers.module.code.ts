@@ -4,7 +4,7 @@ import type { LuaRequire } from "akasha/design/language/lua-compiler/modules/tra
 import {
   formatPathToLuaPath,
   trimExtension,
-} from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
 import * as ts from "typescript"
 
 export function shouldRewriteRequires(resolvedDependency: string, program: ts.Program) {

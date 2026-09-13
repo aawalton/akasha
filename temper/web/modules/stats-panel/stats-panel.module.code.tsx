@@ -31,8 +31,8 @@ import { StatExplanationDialog } from "akasha/temper/web/modules/stat-explanatio
 import { filterEffectsBySearch } from "akasha/temper/web/modules/stats-filtering/stats-filtering.module.code.ts"
 import { StatsHeaderPanelCard } from "akasha/temper/web/modules/stats-header-panel-card/stats-header-panel-card.module.code.tsx"
 import type { StatsRecord } from "akasha/temper/web/modules/stats-types/stats-types.module.code.ts"
-import { useStatsCalculation } from "akasha/temper/web/use-stats-calculation/use-stats-calculation.module.code.ts"
-import { useStatsUIState } from "akasha/temper/web/use-stats-ui-state/use-stats-ui-state.module.code.ts"
+import { useStatsCalculation } from "akasha/temper/web/modules/use-stats-calculation/use-stats-calculation.module.code.ts"
+import { useStatsUIState } from "akasha/temper/web/modules/use-stats-ui-state/use-stats-ui-state.module.code.ts"
 import { Search } from "lucide-react"
 import { useCallback, useState } from "react"
 

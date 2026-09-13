@@ -3,10 +3,10 @@
 import { parsePageTypeData } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { getLocalPositionReader } from "akasha/pages/ui/components/modules/local-position-port/local-position-port.module.code.ts"
 import { PageDetailHeaderMenu } from "akasha/pages/ui/components/modules/page-detail-header-menu/page-detail-header-menu.module.code.tsx"
+import { useUserId } from "akasha/pages/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { useAllPages } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { usePage } from "akasha/pages/ui/supabase/modules/use-page/use-page.module.code.ts"
 import { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
-import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import type { PageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { createContext, type ReactNode, useContext, useEffect, useState } from "react"
 

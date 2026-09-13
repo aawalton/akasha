@@ -19,7 +19,7 @@ import {
   isInAsyncFunction,
   isInGeneratorFunction,
 } from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
-import { cast } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
+import { cast } from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
 import { wrapInAsyncAwaiter } from "akasha/design/language/lua-compiler/visit-async-await/visit-async-await.module.code.ts"
 import { transformScopeBlock } from "akasha/design/language/lua-compiler/visit-block/visit-block.module.code.ts"
 import { isInMultiReturnFunction } from "akasha/design/language/lua-compiler/visit-extension-multi/visit-extension-multi.module.code.ts"

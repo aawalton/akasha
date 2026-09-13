@@ -3,7 +3,7 @@
 import { AddFilterButton } from "akasha/design/interfaces/patterns/modules/add-filter-button/add-filter-button.module.code.tsx"
 import { FilterButton } from "akasha/design/interfaces/patterns/modules/filter-button/filter-button.module.code.tsx"
 import { FilterGroup } from "akasha/design/interfaces/patterns/modules/filter-group/filter-group.module.code.tsx"
-import type { ViewFilter } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import type { ViewFilter } from "akasha/pages/core/schema/modules/view-data/view-data.module.code.ts"
 import type { PageFilterDimension } from "akasha/pages/core/view/modules/generate-filter-dimensions/generate-filter-dimensions.module.code.ts"
 import { OperatorFilterControl } from "akasha/pages/ui/components/modules/operator-filter-control/operator-filter-control.module.code.tsx"
 import { useState } from "react"

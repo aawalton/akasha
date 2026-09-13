@@ -1,4 +1,4 @@
-import type { GroupGranularity } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import type { GroupGranularity } from "akasha/pages/core/schema/modules/view-data/view-data.module.code.ts"
 import {
   getWeekStart,
   MONTH_NAMES,

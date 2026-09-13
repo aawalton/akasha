@@ -8,7 +8,7 @@ import type {
   CompilerOptions,
   LuaCompilerOptions,
 } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
-import { normalizeSlashes } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
+import { normalizeSlashes } from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 import * as ts from "typescript"
 

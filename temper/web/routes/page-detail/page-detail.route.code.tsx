@@ -2,7 +2,7 @@ import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/aut
 import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
 import { getPageByIdSuffix, getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
 import { PageDetailContent } from "akasha/pages/ui/components/modules/page-detail-content/page-detail-content.module.code.tsx"
-import { ViewPageContent } from "akasha/pages/ui/components/view-page-content/view-page-content.module.code.tsx"
+import { ViewPageContent } from "akasha/pages/ui/components/modules/view-page-content/view-page-content.module.code.tsx"
 import { parsePageHrefParam } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import {

@@ -6,7 +6,7 @@ import type {
 } from "akasha/design/language/lua-compiler/modules/context-visitors/context-visitors.module.code.ts"
 import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
 import { usingTransformer } from "akasha/design/language/lua-compiler/modules/transform-using-transformer/transform-using-transformer.module.code.ts"
-import { getOrUpdate } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
+import { getOrUpdate } from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
 import { standardVisitors } from "akasha/design/language/lua-compiler/visitors-visitors/visitors-visitors.module.code.ts"
 import { requireFirst } from "akasha/utils/narrow/modules/require-first/require-first.module.code.ts"
 import * as ts from "typescript"

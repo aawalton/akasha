@@ -19,7 +19,7 @@ import {
 } from "akasha/code/router-apps/modules/router-context-adapters/router-context-adapters.module.code.tsx"
 import { AppShell as SharedAppShell } from "akasha/design/interfaces/layout/modules/app-shell/app-shell.module.code.tsx"
 import type { AppNavConfig } from "akasha/design/interfaces/layout/modules/nav-types/nav-types.module.code.ts"
-import { useSidebarState } from "akasha/design/interfaces/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
+import { useSidebarState } from "akasha/design/interfaces/layout/modules/use-sidebar-state/use-sidebar-state.module.code.ts"
 import { createPage } from "akasha/pages/access/modules/create/create.module.code.ts"
 import { NEVER_MATCH_SLUG } from "akasha/pages/access/modules/sentinels/sentinels.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
@@ -31,9 +31,9 @@ import {
   type CreateSelectOptionEffect,
   PagesUIOptionCreateProvider,
 } from "akasha/pages/ui/modules/option-create-context/option-create-context.module.code.tsx"
+import { useUserId } from "akasha/pages/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { useAllPages } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { useOptimisticCreatePage } from "akasha/pages/ui/supabase/mutations/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
-import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { LogIn, LogOut } from "lucide-react"
 import { useCallback, useEffect, useMemo, useState } from "react"
 import { Link } from "react-router"

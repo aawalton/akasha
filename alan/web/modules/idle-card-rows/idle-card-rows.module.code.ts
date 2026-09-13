@@ -11,7 +11,7 @@ import {
   formatStarsDetail,
 } from "akasha/alan/web/modules/idle-roster-view/idle-roster-view.module.code.ts"
 import { toPageDataRecord } from "akasha/pages/ui/components/modules/page-data-json/page-data-json.module.code.ts"
-import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/modules/view-row/view-row.module.code.ts"
 
 export function deriveCardRows(state: GameState, catalog: Catalog): readonly PageRow[] {
   const cards = deriveRosterView(state, catalog, state.lastTickAt)

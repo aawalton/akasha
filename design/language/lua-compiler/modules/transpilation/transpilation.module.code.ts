@@ -10,7 +10,7 @@ import {
   createTranspiler,
   type EmitResult,
 } from "akasha/design/language/lua-compiler/modules/transpile-transpiler/transpile-transpiler.module.code.ts"
-import { normalizeSlashes } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
+import { normalizeSlashes } from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
 import * as ts from "typescript"
 import { z } from "zod"
 

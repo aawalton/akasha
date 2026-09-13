@@ -5,7 +5,7 @@ import {
   buildTimelineLayout,
   rowsToTimelineInputs,
 } from "akasha/pages/ui/components/modules/page-timeline-helpers/page-timeline-helpers.module.code.ts"
-import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/modules/view-row/view-row.module.code.ts"
 import type { ReactNode } from "react"
 
 interface PageTimelineProps {

@@ -1,7 +1,7 @@
 import {
   createDiagnosticFactoryWithCode,
   createSerialDiagnosticFactory,
-} from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
 import * as ts from "typescript"
 
 export const optionsAreMovingToTheLuaCompilerObject = createSerialDiagnosticFactory(

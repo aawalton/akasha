@@ -4,7 +4,7 @@ import { NEVER_MATCH_VALUE } from "akasha/pages/access/modules/sentinels/sentine
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { resolveDefinitionOptions } from "akasha/pages/core/schema/modules/resolve-select-options/resolve-select-options.module.code.ts"
-import type { ViewFilter } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import type { ViewFilter } from "akasha/pages/core/schema/modules/view-data/view-data.module.code.ts"
 import { buildBaseConditions } from "akasha/pages/ui/components/modules/base-conditions/base-conditions.module.code.ts"
 import { buildServerGroupedSections } from "akasha/pages/ui/components/modules/build-server-grouped-sections/build-server-grouped-sections.module.code.ts"
 import { buildFlatQueryArgs } from "akasha/pages/ui/components/modules/flat-query-args/flat-query-args.module.code.ts"
@@ -15,9 +15,9 @@ import {
   buildSyntheticConfig,
 } from "akasha/pages/ui/components/modules/synthetic-config/synthetic-config.module.code.ts"
 import { useEffectiveListing } from "akasha/pages/ui/components/modules/use-effective-listing/use-effective-listing.module.code.ts"
-import { useViewRowAggregates } from "akasha/pages/ui/components/view-engine/use-view-row-aggregates/use-view-row-aggregates.module.code.ts"
-import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
-import { buildPageTypeSlugMaps } from "akasha/pages/ui/components/view-tab-content-href/view-tab-content-href.module.code.ts"
+import { buildPageTypeSlugMaps } from "akasha/pages/ui/components/modules/view-tab-content-href/view-tab-content-href.module.code.ts"
+import { useViewRowAggregates } from "akasha/pages/ui/components/view-engine/modules/use-view-row-aggregates/use-view-row-aggregates.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/modules/view-row/view-row.module.code.ts"
 import { useGroupByPaginatedQuery } from "akasha/pages/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts"
 import {
   useAllPages,

@@ -16,11 +16,11 @@ import {
   Tabs,
   TabsList,
 } from "akasha/design/interfaces/patterns/modules/tabs/tabs.module.code.tsx"
-import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import type { ViewDataJSON } from "akasha/pages/core/schema/modules/view-data/view-data.module.code.ts"
 import { deriveShellEmptyState } from "akasha/pages/ui/components/modules/page-system-shell-helpers/page-system-shell-helpers.module.code.ts"
-import type { ViewTabItem } from "akasha/pages/ui/components/view-tab-context-menu/view-tab-context-menu.module.code.tsx"
-import { ViewTabs } from "akasha/pages/ui/components/view-tabs/view-tabs.module.code.tsx"
-import type { ViewCallbacks } from "akasha/pages/ui/mutators/view-callbacks/view-callbacks.module.code.ts"
+import type { ViewTabItem } from "akasha/pages/ui/components/modules/view-tab-context-menu/view-tab-context-menu.module.code.tsx"
+import { ViewTabs } from "akasha/pages/ui/components/modules/view-tabs/view-tabs.module.code.tsx"
+import type { ViewCallbacks } from "akasha/pages/ui/mutators/modules/view-callbacks/view-callbacks.module.code.ts"
 import type { ReactNode } from "react"
 import { useMemo } from "react"
 

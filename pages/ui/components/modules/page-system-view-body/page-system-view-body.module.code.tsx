@@ -19,7 +19,7 @@ import {
 import type { withColumnWidths } from "akasha/pages/ui/components/modules/page-table-widths/page-table-widths.module.code.ts"
 import type { useBoardViewWiring } from "akasha/pages/ui/components/modules/use-board-view-wiring/use-board-view-wiring.module.code.ts"
 import type { useCalendarViewWiring } from "akasha/pages/ui/components/modules/use-calendar-view-wiring/use-calendar-view-wiring.module.code.ts"
-import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/modules/view-row/view-row.module.code.ts"
 import type { Dispatch, SetStateAction } from "react"
 
 export interface PageSystemViewBodyProps

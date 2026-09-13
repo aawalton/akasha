@@ -26,7 +26,7 @@ import {
   takesSaid,
 } from "akasha/changes/runners/modules/change-loading/change-loading.module.code.ts"
 import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
-import { decodeUtf8 } from "akasha/code/utf8-body/utf8-body.module.code.ts"
+import { decodeUtf8 } from "akasha/code/modules/utf8-body/utf8-body.module.code.ts"
 import {
   answeredWith,
   DATA,

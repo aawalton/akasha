@@ -26,7 +26,7 @@ import {
   type PageTableColumn,
   TITLE_COLUMN_ID,
 } from "akasha/pages/ui/components/modules/page-table-shared/page-table-shared.module.code.ts"
-import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/modules/view-row/view-row.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 const TIME_REGEX = /^([01]\d|2[0-3]):[0-5]\d$/

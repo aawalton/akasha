@@ -3,7 +3,7 @@ import { CLASS_SKILL_LINES } from "akasha/temper/skill-lines/modules/class-skill
 import { COMPANION_SKILL_LINES } from "akasha/temper/skill-lines/modules/companion-skill-lines/companion-skill-lines.module.code.ts"
 import { RACIAL_AND_CRAFT_SKILL_LINES } from "akasha/temper/skill-lines/modules/racial-and-craft-skill-lines/racial-and-craft-skill-lines.module.code.ts"
 import type { SkillLineTemplate } from "akasha/temper/skill-lines/modules/skill-line-template/skill-line-template.module.code.ts"
-import { VENGEANCE_SKILL_LINES } from "akasha/temper/skill-lines/vengeance-skill-lines/vengeance-skill-lines.module.code.ts"
+import { VENGEANCE_SKILL_LINES } from "akasha/temper/skill-lines/modules/vengeance-skill-lines/vengeance-skill-lines.module.code.ts"
 import { WEAPON_AND_ARMOR_SKILL_LINES } from "akasha/temper/skill-lines/weapon-and-armor-skill-lines/weapon-and-armor-skill-lines.module.code.ts"
 import { WORLD_AND_GUILD_SKILL_LINES } from "akasha/temper/skill-lines/world-and-guild-skill-lines/world-and-guild-skill-lines.module.code.ts"
 import { createDataFile } from "akasha/utils/narrow/modules/create-data-file/create-data-file.module.code.ts"

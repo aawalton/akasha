@@ -9,7 +9,7 @@ import {
   isAssignmentPattern,
   isEqualsAssignment,
 } from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
-import { cast } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
+import { cast } from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
 import {
   transformAssignment,
   transformAssignmentLeftHandSideExpression,

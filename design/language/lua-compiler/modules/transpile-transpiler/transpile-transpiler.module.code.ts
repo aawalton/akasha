@@ -31,7 +31,7 @@ import {
   getProgramTranspileResult,
   type TranspileOptions,
 } from "akasha/design/language/lua-compiler/modules/transpile-transpile/transpile-transpile.module.code.ts"
-import { normalizeSlashes } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
+import { normalizeSlashes } from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
 import * as ts from "typescript"
 
 export interface TranspilerOptions {

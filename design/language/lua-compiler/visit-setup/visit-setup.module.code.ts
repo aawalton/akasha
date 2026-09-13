@@ -11,7 +11,7 @@ import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua
 import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
 import { transformLuaLibFunction } from "akasha/design/language/lua-compiler/modules/lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "akasha/design/language/lua-compiler/modules/lualib-features/lualib-features.module.code.ts"
-import { assert } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
+import { assert } from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
 import {
   getExtendedNode,
   getExtendsClause,
