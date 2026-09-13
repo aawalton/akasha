@@ -106,10 +106,6 @@ function computeVersionTreeHashFrom(root: string, entrypoint: string): string {
     .digest("hex")
 }
 
-export function collectModelGatewayVersionTreeFiles(): readonly string[] {
-  return collectVersionTreeFilesFrom(instructionsRoot(), modelGatewayEntrypoint())
-}
-
 export function computeModelGatewayTreeVersion(): string {
   return computeVersionTreeHashFrom(instructionsRoot(), modelGatewayEntrypoint())
 }
