@@ -11,7 +11,7 @@ export const dallaDeployCleanup = {
       statement:
         "A service is deployed without anyone asking once a commit changes what it is built from.",
       workingMemory:
-        "Built from is the closure `deploy-file-closure` follows out of the files beside a page, and changed is that closure meeting what `git diff` names between the `deployedCommit` kept beside the page and HEAD. A deploy is judged in an overlay carrying every file in a folder it is built from, so no run mixes two commits. Every kind is put up by a loop. Two ios apps cannot go: `atlas` wants `MACBOOK_KEYCHAIN_PASSWORD` and `smilingjenny` wants `NATIVE_SHELL_RING_CREDENTIAL` in `~/.secrets.env`.",
+        "Built from is the closure `deploy-file-closure` follows out of the files beside a page, and changed is that closure meeting what `git diff` names between the `deployedCommit` kept beside the page and HEAD. A deploy is judged in an overlay carrying every file in a folder it is built from, so no run mixes two commits. Every kind is put up by a loop. A loop wanting a name out of `~/.secrets.env` states `needsSecrets`, as the ios loop now does.",
     },
   ],
   constraints: [
