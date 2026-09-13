@@ -7,7 +7,7 @@ import {
   akashaHolderProcessOf,
   akashaSeatsThatExist,
 } from "akasha/agents/seats/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
-import { transcriptOf } from "akasha/agents/seats/session/modules/transcript-path/seat-transcript-path.module.code.ts"
+import { transcriptOf } from "akasha/agents/seats/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
 import {
   censusOf,
   type Judged,

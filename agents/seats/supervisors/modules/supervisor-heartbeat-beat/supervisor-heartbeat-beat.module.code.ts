@@ -15,9 +15,9 @@ import {
   getCurrentAgentIdForSelfHeal,
   getCurrentSessionIdForSelfHeal,
 } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import { clearRotated } from "akasha/agents/seats/session/modules/rotated-session/seat-rotated-session.module.code.ts"
+import { clearRotated } from "akasha/agents/seats/session/modules/seat-rotated-session/seat-rotated-session.module.code.ts"
+import { keepTranscript } from "akasha/agents/seats/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
 import { keepSession } from "akasha/agents/seats/session/modules/session/seat-session.module.code.ts"
-import { keepTranscript } from "akasha/agents/seats/session/modules/transcript-path/seat-transcript-path.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/process/modules/supervisor-config/supervisor-config.module.code.ts"
 import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"

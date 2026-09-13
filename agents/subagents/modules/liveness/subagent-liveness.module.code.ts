@@ -1,5 +1,5 @@
 import { SUBAGENT_MARK } from "akasha/agents/modules/read-record/read-record.module.code.ts"
-import { transcriptOf } from "akasha/agents/seats/session/modules/transcript-path/seat-transcript-path.module.code.ts"
+import { transcriptOf } from "akasha/agents/seats/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
 import {
   createSubagentReader,
   type SubagentNode,

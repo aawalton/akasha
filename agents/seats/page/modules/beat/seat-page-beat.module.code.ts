@@ -13,16 +13,16 @@ import {
   removeSeatPage,
   writeSeatPage,
 } from "akasha/agents/seats/page/modules/writing/seat-page-writing.module.code.ts"
-import { rotatedOf } from "akasha/agents/seats/session/modules/rotated-session/seat-rotated-session.module.code.ts"
+import { rotatedOf } from "akasha/agents/seats/session/modules/seat-rotated-session/seat-rotated-session.module.code.ts"
+import {
+  keepTranscript,
+  transcriptRecordOf,
+} from "akasha/agents/seats/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
+import { rotatedTranscriptFor } from "akasha/agents/seats/session/modules/seat-transcript-rotation/seat-transcript-rotation.module.code.ts"
 import {
   keepSession,
   sessionRecordOf,
 } from "akasha/agents/seats/session/modules/session/seat-session.module.code.ts"
-import {
-  keepTranscript,
-  transcriptRecordOf,
-} from "akasha/agents/seats/session/modules/transcript-path/seat-transcript-path.module.code.ts"
-import { rotatedTranscriptFor } from "akasha/agents/seats/session/modules/transcript-rotation/seat-transcript-rotation.module.code.ts"
 import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
 import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
 import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"

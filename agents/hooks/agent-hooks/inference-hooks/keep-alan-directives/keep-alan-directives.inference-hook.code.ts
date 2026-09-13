@@ -35,7 +35,7 @@ import {
   type TurnWorking,
   workingOf,
 } from "akasha/agents/seats/observation/seat-turn/modules/turn-working/turn-working.module.code.ts"
-import { transcriptOf } from "akasha/agents/seats/session/modules/transcript-path/seat-transcript-path.module.code.ts"
+import { transcriptOf } from "akasha/agents/seats/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
 import { recorded } from "akasha/checks/modules/cost/check-cost.module.code.ts"
 import {
   createSubagentReader,
