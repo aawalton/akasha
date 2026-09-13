@@ -1,4 +1,4 @@
-import { dirname } from "node:path"
+import { basename, dirname } from "node:path"
 import { exportsIn } from "akasha/checks/code-checks/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.code-check.decision.code.ts"
 import {
   pageTypesFor,
@@ -54,6 +54,27 @@ const GUARD = "change-guard"
 const RUN_GUARD = "runGuard"
 
 const CHECK = "code-check"
+
+const ROOT_ROUTE = "root.tsx"
+
+const APP_LAYOUT = "_app-layout.tsx"
+
+const ROUTED: ReadonlySet<string> = new Set([
+  "ErrorBoundary",
+  "HydrateFallback",
+  "Layout",
+  "action",
+  "clientAction",
+  "clientLoader",
+  "handle",
+  "headers",
+  "links",
+  "loader",
+  "meta",
+  "shouldRevalidate",
+])
+
+const NOTHING: ReadonlySet<string> = new Set()
 
 function toldApart(name: string): boolean {
   return name !== ANYTHING && name !== DEFAULT
@@ -145,9 +166,10 @@ function besideCode(said: Parted, pageType: string): boolean {
   return said.pageType === pageType && said.sections.length > 0
 }
 
-export function routeCode(path: string): boolean {
-  const said = partedIn(path)
-  return said !== null && besideCode(said, ROUTE)
+function routeModule(path: string, said: Parted | null): boolean {
+  if (said !== null && besideCode(said, ROUTE)) return true
+  const name = basename(path)
+  return name === ROOT_ROUTE || name === APP_LAYOUT
 }
 
 type Bodied = (at: string) => string | null
@@ -171,15 +193,16 @@ export function sparedIn(
   path: string,
   pageTypes: ReadonlySet<string>,
   bodyOf: Bodied
-): string | null {
+): ReadonlySet<string> {
   const said = partedIn(path)
-  if (said === null || !pageTypes.has(said.pageType)) return null
-  if (uncommittedNamed(path)) return nameFor(`${pageOf(said)}.${HELD}`)
+  if (routeModule(path, said)) return ROUTED
+  if (said === null || !pageTypes.has(said.pageType)) return NOTHING
+  if (uncommittedNamed(path)) return new Set([nameFor(`${pageOf(said)}.${HELD}`)])
   const lua = luaNamed(path, said, bodyOf)
-  if (lua !== null) return lua
+  if (lua !== null) return new Set([lua])
   const beside = reachedBeside(said)
-  if (beside !== null) return beside
-  return pageNamed(path, pageTypes) ? exportedAs(said.slug) : null
+  if (beside !== null) return new Set([beside])
+  return pageNamed(path, pageTypes) ? new Set([exportedAs(said.slug)]) : NOTHING
 }
 
 export type Unreached = {
@@ -190,13 +213,13 @@ export type Unreached = {
 export function unreachedIn(
   path: string,
   text: string,
-  spared: string | null,
+  spared: ReadonlySet<string>,
   importers: readonly string[],
   bodyOf: (at: string) => string | null
 ): readonly Unreached[] {
   const told = namesToldIn(path, text)
   if (told === null) return []
-  const wanted = told.filter((one) => one !== spared)
+  const wanted = told.filter((one) => !spared.has(one))
   if (wanted.length === 0) return []
   const taken = new Set<string>()
   for (const importer of importers) {
@@ -217,7 +240,7 @@ function reasonsFor(
   text: string,
   change: Change,
   shadow: Shadow,
-  spared: string | null
+  spared: ReadonlySet<string>
 ): readonly string[] {
   const found = unreachedIn(path, text, spared, shadow.index.importersOf(path), (at) =>
     textIn(change, at)
@@ -229,7 +252,7 @@ export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] 
   const pageTypes = pageTypesFor(shadow)
   const judged: Judged[] = []
   for (const path of change.changed) {
-    if (!typeScripted(path) || routeCode(path)) continue
+    if (!typeScripted(path)) continue
     const text = textIn(change, path)
     if (text === null) continue
     const spared = sparedIn(path, pageTypes, (at) => textIn(change, at))

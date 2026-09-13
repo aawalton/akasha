@@ -60,10 +60,15 @@ const LUA_PAGE_TEXT =
 export const LUA_TEXT =
   "export function __TS__Held(): number {\n  return 1\n}\n\nexport const spare = 2\n"
 
+export const ROOT_AT = "akasha/root.tsx"
+
 export const ROUTE_AT = "akasha/held.route.code.ts"
 
 export const ROUTE_TEXT =
   "export function loader(): number {\n  return 1\n}\n\nexport const spare = 2\n"
+
+export const ROOT_TEXT =
+  "export function Layout(): number {\n  return 1\n}\n\nexport const spare = 2\n"
 
 export const scratch = scratchWorld()
 

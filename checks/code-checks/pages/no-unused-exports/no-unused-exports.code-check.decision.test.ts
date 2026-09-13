@@ -25,6 +25,8 @@ import {
   PAGE_AT,
   PAGE_TEXT,
   READER,
+  ROOT_AT,
+  ROOT_TEXT,
   ROUTE_AT,
   ROUTE_TEXT,
   readerText,
@@ -186,8 +188,22 @@ test("the name a lualib page states as its lua export is spared", () => {
   expect(said[0]).toContain("`spare`")
 })
 
-test("a route's code is judged by nothing", () => {
-  expect(judging(landing(rooted(), { [ROUTE_AT]: bytesOf(ROUTE_TEXT) }))).toEqual([])
+test("a name React Router reaches a route's code by is spared and another is judged", () => {
+  const said = judging(landing(rooted(), { [ROUTE_AT]: bytesOf(ROUTE_TEXT) })).map(
+    (one) => one.reason
+  )
+
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`spare`")
+})
+
+test("a name React Router reaches a root route by is spared and another is judged", () => {
+  const said = judging(landing(rooted(), { [ROOT_AT]: bytesOf(ROOT_TEXT) })).map(
+    (one) => one.reason
+  )
+
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`spare`")
 })
 
 test("a file the change takes away is passed over", () => {

@@ -102,7 +102,10 @@ export const noUnusedExports = {
       invariantKind: "departure",
       statement: "The value a page's uncommitted body holds is spared.",
     },
-    { invariantKind: "departure", statement: "A route's code is judged by nothing." },
+    {
+      invariantKind: "departure",
+      statement: "A name React Router reaches a route module by is spared rather than refused.",
+    },
     {
       invariantKind: "gap",
       statement: "A value only a request from outside this repository reaches reads as unreached.",
@@ -128,6 +131,14 @@ export const noUnusedExports = {
     {
       invariantKind: "departure",
       statement: "The name made from a check's slug is reached by the runner running that check.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A route's code, a root route and an app layout are route modules.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value a route module exports under another name is judged as any other value.",
     },
   ],
   check: { maxCpuSeconds: 30 },
