@@ -8,22 +8,6 @@ export const dallaDeployCleanup = {
   persona: "dalla",
   intents: [
     {
-      statement: "A service waits out the cooldown its page states before deploying again.",
-      workingMemory:
-        "`number-property/cooldown-seconds` sits on `page-type/service`, and a page stating none takes the 60 seconds `deploy-choosing` holds as the default. Every deploy keeps `deployEndedAt` beside the page it was read from, and a deploy that refused keeps that same moment under `deployRefusedAt` too; the two being equal is what says the last deploy refused, and then the wait is 600 seconds rather than 60, so one thing that cannot go starves none of its kind. No page states a cooldown of its own yet.",
-    },
-    {
-      statement:
-        "A service deploys no commit newer than what every service it depends on has deployed.",
-      workingMemory:
-        "`relation-property/deploys-after` sits on `page-type/service`, and `deploy-choosing` holds back any service that still wants a deploy for one it names. That carries down a chain and deadlocks on nothing, since the one holding another back is the one chosen first. No page names one, and the looking came back empty: the ESO addons' `dependsOn` is a load order the floor check keeps true at every commit, and no cluster service breaks where another is put up first. The rule bounds nothing today.",
-    },
-    {
-      statement: "A deploy loop puts up first the service furthest behind that is able to deploy.",
-      workingMemory:
-        "`chosenFrom` in `deploy-choosing` sorts by when the commit each put up was made, oldest first, a service never put up ahead of every service that has been, and the slug settling a tie. It then asks down that order and stops at the first able one, so whether a service wants a deploy is asked only as far as the choosing needs. That, with one reading of the commit behind every closure of a kind, took a tick over 48 ESO addons from 17 seconds to under one.",
-    },
-    {
       statement: "One workstation service runs the deploy loops for every service of one kind.",
       workingMemory:
         "Six services tick a kind of their own every minute through `ticked`: the workstation, eso addon, cluster, web app, container recipe and inference kinds. A tick picks one subject and starts `akasha deploy --measured <slug>` in a transient scope named for that slug, bounded at an hour by systemd, then waits it out. One kind has no loop: the 3 ios apps, which a deploy hands to Apple, so only Alan can settle whether a tick may publish.",
