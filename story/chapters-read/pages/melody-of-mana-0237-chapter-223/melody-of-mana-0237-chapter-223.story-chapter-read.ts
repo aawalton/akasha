@@ -12,9 +12,13 @@ export const melodyOfMana0237Chapter223 = {
   unit: "words",
   completedAt: "2026-06-29T22:34:00.768Z",
   publishedAt: "2023-03-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1151336/chapter-223",
-  externalId: "1151336",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1151336",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1151336/chapter-223",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

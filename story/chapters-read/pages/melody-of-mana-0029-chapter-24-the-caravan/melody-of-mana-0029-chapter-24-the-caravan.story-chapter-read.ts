@@ -12,9 +12,13 @@ export const melodyOfMana0029Chapter24TheCaravan = {
   unit: "words",
   completedAt: "2026-06-29T22:27:14.828Z",
   publishedAt: "2021-07-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/715659/chapter-24-the-caravan",
-  externalId: "715659",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "715659",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/715659/chapter-24-the-caravan",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

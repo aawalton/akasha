@@ -12,9 +12,13 @@ export const melodyOfMana0081Chapter70Dance = {
   unit: "words",
   completedAt: "2026-06-29T22:29:00.256Z",
   publishedAt: "2021-12-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/808895/chapter-70-dance",
-  externalId: "808895",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "808895",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/808895/chapter-70-dance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

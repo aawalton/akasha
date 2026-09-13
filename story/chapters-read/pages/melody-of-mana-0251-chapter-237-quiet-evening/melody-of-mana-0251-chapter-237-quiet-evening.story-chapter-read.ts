@@ -12,9 +12,13 @@ export const melodyOfMana0251Chapter237QuietEvening = {
   unit: "words",
   completedAt: "2026-06-29T22:34:29.624Z",
   publishedAt: "2023-05-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1215497/chapter-237-quiet-evening",
-  externalId: "1215497",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1215497",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1215497/chapter-237-quiet-evening",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0233Chapter219BattleOfIceSEnd = {
   unit: "words",
   completedAt: "2026-06-29T22:33:52.713Z",
   publishedAt: "2023-03-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1137943/chapter-219-battle-of-ices-end",
-  externalId: "1137943",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1137943",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1137943/chapter-219-battle-of-ices-end",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

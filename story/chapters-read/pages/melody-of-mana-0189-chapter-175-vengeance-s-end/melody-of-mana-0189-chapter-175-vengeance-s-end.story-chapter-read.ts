@@ -12,9 +12,13 @@ export const melodyOfMana0189Chapter175VengeanceSEnd = {
   unit: "words",
   completedAt: "2026-06-29T22:32:21.799Z",
   publishedAt: "2022-10-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1007136/chapter-175-vengeances-end",
-  externalId: "1007136",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1007136",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1007136/chapter-175-vengeances-end",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

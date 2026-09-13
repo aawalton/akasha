@@ -12,9 +12,13 @@ export const melodyOfMana0031Chapter26IntoCapitalAndOnwardTowardLucien = {
   unit: "words",
   completedAt: "2026-06-29T22:27:18.668Z",
   publishedAt: "2021-07-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/717811/chapter-26-into-capital-and-onward-toward-lucien",
-  externalId: "717811",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "717811",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/717811/chapter-26-into-capital-and-onward-toward-lucien",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

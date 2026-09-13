@@ -12,9 +12,13 @@ export const melodyOfMana0254Chapter240RoyalBall = {
   unit: "words",
   completedAt: "2026-06-29T22:34:35.903Z",
   publishedAt: "2023-05-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1226035/chapter-240-royal-ball",
-  externalId: "1226035",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1226035",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1226035/chapter-240-royal-ball",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

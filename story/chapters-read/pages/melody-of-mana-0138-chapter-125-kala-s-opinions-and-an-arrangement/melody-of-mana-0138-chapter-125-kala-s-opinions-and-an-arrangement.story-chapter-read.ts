@@ -12,9 +12,13 @@ export const melodyOfMana0138Chapter125KalaSOpinionsAndAnArrangement = {
   unit: "words",
   completedAt: "2026-06-29T22:30:36.891Z",
   publishedAt: "2022-04-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/895881/chapter-125-kalas-opinions-and-an-arrangement",
-  externalId: "895881",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "895881",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/895881/chapter-125-kalas-opinions-and-an-arrangement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0304Chapter289MovingForward = {
   unit: "words",
   completedAt: "2026-06-29T22:36:19.371Z",
   publishedAt: "2023-12-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1429406/chapter-289-moving-forward",
-  externalId: "1429406",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1429406",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1429406/chapter-289-moving-forward",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

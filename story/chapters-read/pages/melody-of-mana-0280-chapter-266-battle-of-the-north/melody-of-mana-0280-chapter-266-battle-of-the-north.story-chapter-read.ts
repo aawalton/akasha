@@ -12,9 +12,13 @@ export const melodyOfMana0280Chapter266BattleOfTheNorth = {
   unit: "words",
   completedAt: "2026-06-29T22:35:30.177Z",
   publishedAt: "2023-09-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1336913/chapter-266-battle-of-the-north",
-  externalId: "1336913",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1336913",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1336913/chapter-266-battle-of-the-north",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

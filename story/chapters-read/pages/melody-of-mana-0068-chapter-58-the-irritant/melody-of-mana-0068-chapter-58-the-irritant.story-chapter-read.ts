@@ -12,9 +12,13 @@ export const melodyOfMana0068Chapter58TheIrritant = {
   unit: "words",
   completedAt: "2026-06-29T22:28:32.978Z",
   publishedAt: "2021-11-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/780151/chapter-58-the-irritant",
-  externalId: "780151",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "780151",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/780151/chapter-58-the-irritant",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0164Chapter150IntoTheHorizon = {
   unit: "words",
   completedAt: "2026-06-29T22:31:30.884Z",
   publishedAt: "2022-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/939657/chapter-150-into-the-horizon",
-  externalId: "939657",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "939657",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/939657/chapter-150-into-the-horizon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

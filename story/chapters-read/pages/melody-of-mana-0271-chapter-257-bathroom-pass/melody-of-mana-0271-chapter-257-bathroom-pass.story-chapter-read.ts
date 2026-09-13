@@ -12,9 +12,13 @@ export const melodyOfMana0271Chapter257BathroomPass = {
   unit: "words",
   completedAt: "2026-06-29T22:35:11.244Z",
   publishedAt: "2023-08-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1303753/chapter-257-bathroom-pass",
-  externalId: "1303753",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1303753",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1303753/chapter-257-bathroom-pass",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

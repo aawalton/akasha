@@ -12,9 +12,13 @@ export const melodyOfMana0078Chapter67ArrivingAtTheAcademy = {
   unit: "words",
   completedAt: "2026-06-29T22:28:53.911Z",
   publishedAt: "2021-12-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/802097/chapter-67-arriving-at-the-academy",
-  externalId: "802097",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "802097",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/802097/chapter-67-arriving-at-the-academy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

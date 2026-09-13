@@ -12,9 +12,13 @@ export const melodyOfMana0183Chapter169Atrium = {
   unit: "words",
   completedAt: "2026-06-29T22:32:10.076Z",
   publishedAt: "2022-09-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/990165/chapter-169-atrium",
-  externalId: "990165",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "990165",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/990165/chapter-169-atrium",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0149Chapter136PlanningForFun = {
   unit: "words",
   completedAt: "2026-06-29T22:30:59.557Z",
   publishedAt: "2022-05-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/906326/chapter-136-planning-for-fun",
-  externalId: "906326",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "906326",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/906326/chapter-136-planning-for-fun",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

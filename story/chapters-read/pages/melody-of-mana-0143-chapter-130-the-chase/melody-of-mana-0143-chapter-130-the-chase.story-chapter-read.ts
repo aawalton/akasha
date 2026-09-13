@@ -12,9 +12,13 @@ export const melodyOfMana0143Chapter130TheChase = {
   unit: "words",
   completedAt: "2026-06-29T22:30:47.296Z",
   publishedAt: "2022-05-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/900066/chapter-130-the-chase",
-  externalId: "900066",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "900066",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/900066/chapter-130-the-chase",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

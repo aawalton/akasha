@@ -12,9 +12,13 @@ export const melodyOfMana0294Chapter279Museums = {
   unit: "words",
   completedAt: "2026-06-29T22:35:58.845Z",
   publishedAt: "2023-10-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1388023/chapter-279-museums",
-  externalId: "1388023",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1388023",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1388023/chapter-279-museums",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

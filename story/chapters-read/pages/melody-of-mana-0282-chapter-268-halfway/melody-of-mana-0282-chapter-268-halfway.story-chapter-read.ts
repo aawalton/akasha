@@ -12,9 +12,13 @@ export const melodyOfMana0282Chapter268Halfway = {
   unit: "words",
   completedAt: "2026-06-29T22:35:34.196Z",
   publishedAt: "2023-09-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1344081/chapter-268-halfway",
-  externalId: "1344081",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1344081",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1344081/chapter-268-halfway",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

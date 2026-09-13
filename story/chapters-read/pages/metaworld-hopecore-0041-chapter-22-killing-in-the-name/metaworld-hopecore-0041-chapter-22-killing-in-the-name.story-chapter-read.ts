@@ -10,9 +10,13 @@ export const metaworldHopecore0041Chapter22KillingInTheName = {
   ownLength: 2349,
   unit: "words",
   publishedAt: "2026-05-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3369023/chapter-22-killing-in-the-name",
-  externalId: "3369023",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3369023",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3369023/chapter-22-killing-in-the-name",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

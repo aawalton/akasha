@@ -12,9 +12,13 @@ export const melodyOfMana0216Chapter202CultureShock = {
   unit: "words",
   completedAt: "2026-06-29T22:33:17.558Z",
   publishedAt: "2023-01-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1087780/chapter-202-culture-shock",
-  externalId: "1087780",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1087780",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1087780/chapter-202-culture-shock",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

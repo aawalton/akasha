@@ -12,9 +12,13 @@ export const melodyOfMana0018Chapter15RodPromise = {
   unit: "words",
   completedAt: "2026-06-29T22:26:52.552Z",
   publishedAt: "2021-06-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/708402/chapter-15-rod--promise",
-  externalId: "708402",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "708402",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/708402/chapter-15-rod--promise",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0019Chapter16TheDamBreaks = {
   unit: "words",
   completedAt: "2026-06-29T22:26:54.562Z",
   publishedAt: "2021-06-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/708406/chapter-16-the-dam-breaks",
-  externalId: "708406",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "708406",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/708406/chapter-16-the-dam-breaks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

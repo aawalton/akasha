@@ -12,9 +12,13 @@ export const melodyOfMana0054Chapter47ExamRoundTwo = {
   unit: "words",
   completedAt: "2026-06-29T22:28:03.662Z",
   publishedAt: "2021-09-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/755687/chapter-47-exam-round-two",
-  externalId: "755687",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "755687",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/755687/chapter-47-exam-round-two",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

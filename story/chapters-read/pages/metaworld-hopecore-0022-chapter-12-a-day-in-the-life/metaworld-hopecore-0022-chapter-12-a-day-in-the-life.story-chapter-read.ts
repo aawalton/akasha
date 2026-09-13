@@ -10,9 +10,13 @@ export const metaworldHopecore0022Chapter12ADayInTheLife = {
   ownLength: 3662,
   unit: "words",
   publishedAt: "2026-05-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368568/chapter-12-a-day-in-the-life",
-  externalId: "3368568",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3368568",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368568/chapter-12-a-day-in-the-life",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

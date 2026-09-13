@@ -12,9 +12,13 @@ export const melodyOfMana0120Chapter107Reunion = {
   unit: "words",
   completedAt: "2026-06-29T22:30:16.045Z",
   publishedAt: "2022-04-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/882620/chapter-107-reunion",
-  externalId: "882620",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "882620",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/882620/chapter-107-reunion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0009SideStory2VerrenSLateNightMeeting = {
   unit: "words",
   completedAt: "2026-06-29T22:26:33.363Z",
   publishedAt: "2021-06-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/703970/side-story-2-verrens-late-night-meeting",
-  externalId: "703970",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "703970",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/703970/side-story-2-verrens-late-night-meeting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

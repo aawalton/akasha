@@ -12,9 +12,13 @@ export const melodyOfMana0085Chapter74TheDeanSOffice = {
   unit: "words",
   completedAt: "2026-06-29T22:29:08.265Z",
   publishedAt: "2021-12-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/816187/chapter-74-the-deans-office",
-  externalId: "816187",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "816187",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/816187/chapter-74-the-deans-office",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

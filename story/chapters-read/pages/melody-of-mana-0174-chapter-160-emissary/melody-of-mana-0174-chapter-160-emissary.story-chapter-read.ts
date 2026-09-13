@@ -12,9 +12,13 @@ export const melodyOfMana0174Chapter160Emissary = {
   unit: "words",
   completedAt: "2026-06-29T22:31:51.869Z",
   publishedAt: "2022-08-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/964402/chapter-160-emissary",
-  externalId: "964402",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "964402",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/964402/chapter-160-emissary",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

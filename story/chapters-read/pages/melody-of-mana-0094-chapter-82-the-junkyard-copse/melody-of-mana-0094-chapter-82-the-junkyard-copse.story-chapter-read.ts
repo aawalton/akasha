@@ -12,9 +12,13 @@ export const melodyOfMana0094Chapter82TheJunkyardCopse = {
   unit: "words",
   completedAt: "2026-06-29T22:29:26.741Z",
   publishedAt: "2022-01-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/831463/chapter-82-the-junkyard-copse",
-  externalId: "831463",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "831463",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/831463/chapter-82-the-junkyard-copse",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0007Chapter6HoneyIceCreamAndFallingNight = {
   unit: "words",
   completedAt: "2026-06-29T22:26:29.009Z",
   publishedAt: "2021-06-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/703543/chapter-6-honey-ice-cream-and-falling-night",
-  externalId: "703543",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "703543",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/703543/chapter-6-honey-ice-cream-and-falling-night",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

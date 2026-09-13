@@ -12,9 +12,13 @@ export const melodyOfMana0281Chapter267Cleanup = {
   unit: "words",
   completedAt: "2026-06-29T22:35:32.175Z",
   publishedAt: "2023-09-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1341113/chapter-267-cleanup",
-  externalId: "1341113",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1341113",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1341113/chapter-267-cleanup",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

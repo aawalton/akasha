@@ -12,9 +12,13 @@ export const melodyOfMana0129Chapter116ReturningToTheAcademy = {
   unit: "words",
   completedAt: "2026-06-29T22:36:50.188Z",
   publishedAt: "2022-04-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/883589/chapter-116-returning-to-the-academy",
-  externalId: "883589",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "883589",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/883589/chapter-116-returning-to-the-academy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

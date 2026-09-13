@@ -12,9 +12,13 @@ export const melodyOfMana0130Chapter117PropagandaAndAnUglyCry = {
   unit: "words",
   completedAt: "2026-06-29T22:36:52.278Z",
   publishedAt: "2022-04-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/884466/chapter-117-propaganda-and-an-ugly-cry",
-  externalId: "884466",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "884466",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/884466/chapter-117-propaganda-and-an-ugly-cry",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

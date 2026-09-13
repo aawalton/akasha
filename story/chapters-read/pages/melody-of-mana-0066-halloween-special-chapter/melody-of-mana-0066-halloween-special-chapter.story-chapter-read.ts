@@ -12,9 +12,13 @@ export const melodyOfMana0066HalloweenSpecialChapter = {
   unit: "words",
   completedAt: "2026-06-29T22:28:28.664Z",
   publishedAt: "2021-10-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/776228/halloween-special-chapter",
-  externalId: "776228",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "776228",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/776228/halloween-special-chapter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0115Chapter102Proclamation = {
   unit: "words",
   completedAt: "2026-06-29T22:30:06.292Z",
   publishedAt: "2022-04-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/878161/chapter-102-proclamation",
-  externalId: "878161",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "878161",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/878161/chapter-102-proclamation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

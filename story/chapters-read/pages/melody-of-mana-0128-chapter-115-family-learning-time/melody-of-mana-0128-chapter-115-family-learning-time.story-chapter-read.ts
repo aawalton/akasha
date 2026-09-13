@@ -12,9 +12,13 @@ export const melodyOfMana0128Chapter115FamilyLearningTime = {
   unit: "words",
   completedAt: "2026-06-29T22:36:47.677Z",
   publishedAt: "2022-04-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/882631/chapter-115-family-learning-time",
-  externalId: "882631",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "882631",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/882631/chapter-115-family-learning-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

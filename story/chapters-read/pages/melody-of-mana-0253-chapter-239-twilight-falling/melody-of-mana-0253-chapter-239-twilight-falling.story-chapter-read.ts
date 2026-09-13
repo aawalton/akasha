@@ -12,9 +12,13 @@ export const melodyOfMana0253Chapter239TwilightFalling = {
   unit: "words",
   completedAt: "2026-06-29T22:34:33.558Z",
   publishedAt: "2023-05-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1223066/chapter-239-twilight-falling",
-  externalId: "1223066",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1223066",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1223066/chapter-239-twilight-falling",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

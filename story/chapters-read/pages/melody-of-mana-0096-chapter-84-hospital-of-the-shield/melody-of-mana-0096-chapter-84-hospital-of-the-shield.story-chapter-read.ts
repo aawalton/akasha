@@ -12,9 +12,13 @@ export const melodyOfMana0096Chapter84HospitalOfTheShield = {
   unit: "words",
   completedAt: "2026-06-29T22:29:30.890Z",
   publishedAt: "2022-02-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/836265/chapter-84-hospital-of-the-shield",
-  externalId: "836265",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "836265",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/836265/chapter-84-hospital-of-the-shield",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

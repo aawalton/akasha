@@ -12,9 +12,13 @@ export const melodyOfMana0155Chapter142YearFourBegins = {
   unit: "words",
   completedAt: "2026-06-29T22:31:11.975Z",
   publishedAt: "2022-06-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/919731/chapter-142-year-four-begins",
-  externalId: "919731",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "919731",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/919731/chapter-142-year-four-begins",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

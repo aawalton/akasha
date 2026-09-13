@@ -12,9 +12,13 @@ export const melodyOfMana0279Chapter265Interloper = {
   unit: "words",
   completedAt: "2026-06-29T22:35:28.134Z",
   publishedAt: "2023-09-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1334386/chapter-265-interloper",
-  externalId: "1334386",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1334386",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1334386/chapter-265-interloper",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

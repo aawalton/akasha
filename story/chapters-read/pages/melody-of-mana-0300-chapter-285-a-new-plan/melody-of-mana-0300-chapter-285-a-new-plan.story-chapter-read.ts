@@ -12,9 +12,13 @@ export const melodyOfMana0300Chapter285ANewPlan = {
   unit: "words",
   completedAt: "2026-06-29T22:36:11.080Z",
   publishedAt: "2023-11-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1413587/chapter-285-a-new-plan",
-  externalId: "1413587",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1413587",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1413587/chapter-285-a-new-plan",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0047Chapter40AWagerAndSilence = {
   unit: "words",
   completedAt: "2026-06-29T22:27:49.238Z",
   publishedAt: "2021-08-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/742813/chapter-40-a-wager-and-silence",
-  externalId: "742813",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "742813",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/742813/chapter-40-a-wager-and-silence",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

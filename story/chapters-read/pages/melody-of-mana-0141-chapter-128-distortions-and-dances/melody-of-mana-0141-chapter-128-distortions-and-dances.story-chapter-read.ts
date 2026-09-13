@@ -12,9 +12,13 @@ export const melodyOfMana0141Chapter128DistortionsAndDances = {
   unit: "words",
   completedAt: "2026-06-29T22:30:43.073Z",
   publishedAt: "2022-05-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/899373/chapter-128-distortions-and-dances",
-  externalId: "899373",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "899373",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/899373/chapter-128-distortions-and-dances",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

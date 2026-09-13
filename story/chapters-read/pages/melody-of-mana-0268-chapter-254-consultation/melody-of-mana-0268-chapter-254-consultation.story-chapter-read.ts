@@ -12,9 +12,13 @@ export const melodyOfMana0268Chapter254Consultation = {
   unit: "words",
   completedAt: "2026-06-29T22:35:04.480Z",
   publishedAt: "2023-07-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1282384/chapter-254-consultation",
-  externalId: "1282384",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1282384",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1282384/chapter-254-consultation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

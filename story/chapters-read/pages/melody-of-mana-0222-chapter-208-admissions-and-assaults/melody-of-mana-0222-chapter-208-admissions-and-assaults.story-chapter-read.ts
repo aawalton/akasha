@@ -12,9 +12,13 @@ export const melodyOfMana0222Chapter208AdmissionsAndAssaults = {
   unit: "words",
   completedAt: "2026-06-29T22:33:30.227Z",
   publishedAt: "2023-02-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1105207/chapter-208-admissions-and-assaults",
-  externalId: "1105207",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1105207",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1105207/chapter-208-admissions-and-assaults",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0215Chapter201TheGrid = {
   unit: "words",
   completedAt: "2026-06-29T22:33:15.382Z",
   publishedAt: "2023-01-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1084201/chapter-201-the-grid",
-  externalId: "1084201",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1084201",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1084201/chapter-201-the-grid",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

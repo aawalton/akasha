@@ -10,9 +10,13 @@ export const metaworldHopecore0016Chapter9BackToSchool = {
   ownLength: 2430,
   unit: "words",
   publishedAt: "2026-05-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364716/chapter-9-back-to-school",
-  externalId: "3364716",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3364716",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364716/chapter-9-back-to-school",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

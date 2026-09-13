@@ -12,9 +12,13 @@ export const melodyOfMana0202Chapter188EmperorSInterrogation = {
   unit: "words",
   completedAt: "2026-06-29T22:32:48.266Z",
   publishedAt: "2022-11-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1041357/chapter-188-emperors-interrogation",
-  externalId: "1041357",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1041357",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1041357/chapter-188-emperors-interrogation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

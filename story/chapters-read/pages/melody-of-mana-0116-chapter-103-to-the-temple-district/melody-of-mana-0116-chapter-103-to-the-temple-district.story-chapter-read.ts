@@ -12,9 +12,13 @@ export const melodyOfMana0116Chapter103ToTheTempleDistrict = {
   unit: "words",
   completedAt: "2026-06-29T22:30:08.244Z",
   publishedAt: "2022-04-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/878851/chapter-103-to-the-temple-district",
-  externalId: "878851",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "878851",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/878851/chapter-103-to-the-temple-district",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

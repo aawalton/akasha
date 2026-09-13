@@ -12,9 +12,13 @@ export const melodyOfMana0010Chapter8SubterfugeAndTravel = {
   unit: "words",
   completedAt: "2026-06-29T22:26:35.471Z",
   publishedAt: "2021-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/704697/chapter-8-subterfuge-and-travel",
-  externalId: "704697",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "704697",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/704697/chapter-8-subterfuge-and-travel",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0185Chapter171PowerOn = {
   unit: "words",
   completedAt: "2026-06-29T22:32:13.956Z",
   publishedAt: "2022-09-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/995744/chapter-171-power-on",
-  externalId: "995744",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "995744",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/995744/chapter-171-power-on",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0067Chapter57AnotherMeeting = {
   unit: "words",
   completedAt: "2026-06-29T22:28:30.762Z",
   publishedAt: "2021-11-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/777296/chapter-57-another-meeting",
-  externalId: "777296",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "777296",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/777296/chapter-57-another-meeting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

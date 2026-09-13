@@ -10,9 +10,13 @@ export const metaworldHopecore0037Chapter20SuspiciousMinds = {
   ownLength: 3075,
   unit: "words",
   publishedAt: "2026-05-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368904/chapter-20-suspicious-minds",
-  externalId: "3368904",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3368904",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368904/chapter-20-suspicious-minds",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

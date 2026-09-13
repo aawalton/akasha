@@ -12,9 +12,13 @@ export const melodyOfMana0039Chapter34FleshVsIron = {
   unit: "words",
   completedAt: "2026-06-29T22:27:33.837Z",
   publishedAt: "2021-08-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/726425/chapter-34-flesh-vs-iron",
-  externalId: "726425",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "726425",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/726425/chapter-34-flesh-vs-iron",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

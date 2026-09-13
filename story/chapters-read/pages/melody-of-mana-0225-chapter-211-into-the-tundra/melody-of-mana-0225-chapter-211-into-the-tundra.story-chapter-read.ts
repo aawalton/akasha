@@ -12,9 +12,13 @@ export const melodyOfMana0225Chapter211IntoTheTundra = {
   unit: "words",
   completedAt: "2026-06-29T22:33:36.054Z",
   publishedAt: "2023-02-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1114174/chapter-211-into-the-tundra",
-  externalId: "1114174",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1114174",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1114174/chapter-211-into-the-tundra",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

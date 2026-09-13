@@ -12,9 +12,13 @@ export const melodyOfMana0049Chapter42TheTempleOfLovers = {
   unit: "words",
   completedAt: "2026-06-29T22:27:53.361Z",
   publishedAt: "2021-09-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/746574/chapter-42-the-temple-of-lovers",
-  externalId: "746574",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "746574",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/746574/chapter-42-the-temple-of-lovers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

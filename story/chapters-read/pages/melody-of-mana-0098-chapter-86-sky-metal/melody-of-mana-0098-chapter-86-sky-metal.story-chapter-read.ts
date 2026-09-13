@@ -12,9 +12,13 @@ export const melodyOfMana0098Chapter86SkyMetal = {
   unit: "words",
   completedAt: "2026-06-29T22:29:34.748Z",
   publishedAt: "2022-02-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/838299/chapter-86-sky-metal",
-  externalId: "838299",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "838299",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/838299/chapter-86-sky-metal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

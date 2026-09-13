@@ -12,9 +12,13 @@ export const melodyOfMana0199Chapter185Debrief = {
   unit: "words",
   completedAt: "2026-06-29T22:32:42.191Z",
   publishedAt: "2022-11-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1032163/chapter-185-debrief",
-  externalId: "1032163",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1032163",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1032163/chapter-185-debrief",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

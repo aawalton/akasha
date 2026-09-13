@@ -12,9 +12,13 @@ export const melodyOfMana0270Chapter256TheOffice = {
   unit: "words",
   completedAt: "2026-06-29T22:35:09.081Z",
   publishedAt: "2023-08-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1298654/chapter-256-the-office",
-  externalId: "1298654",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1298654",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1298654/chapter-256-the-office",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

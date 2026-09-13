@@ -12,9 +12,13 @@ export const melodyOfMana0310Chapter295Peeping = {
   unit: "words",
   completedAt: "2026-06-29T22:36:31.452Z",
   publishedAt: "2024-01-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1467088/chapter-295-peeping",
-  externalId: "1467088",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1467088",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1467088/chapter-295-peeping",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

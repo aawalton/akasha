@@ -10,9 +10,13 @@ export const metaworldHopecore0044Chapter23KarmaPolice2 = {
   ownLength: 1531,
   unit: "words",
   publishedAt: "2026-05-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3369835/chapter-23-karma-police-2",
-  externalId: "3369835",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3369835",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3369835/chapter-23-karma-police-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

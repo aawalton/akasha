@@ -12,9 +12,13 @@ export const melodyOfMana0171Chapter157MakingShore = {
   unit: "words",
   completedAt: "2026-06-29T22:31:45.584Z",
   publishedAt: "2022-07-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/956899/chapter-157-making-shore",
-  externalId: "956899",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "956899",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/956899/chapter-157-making-shore",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

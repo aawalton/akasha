@@ -12,9 +12,13 @@ export const melodyOfMana0099Chapter87Confrontation = {
   unit: "words",
   completedAt: "2026-06-29T22:29:36.541Z",
   publishedAt: "2022-02-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/841686/chapter-87-confrontation",
-  externalId: "841686",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "841686",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/841686/chapter-87-confrontation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

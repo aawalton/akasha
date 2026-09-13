@@ -12,9 +12,13 @@ export const melodyOfMana0256Chapter242Battles = {
   unit: "words",
   completedAt: "2026-06-29T22:34:39.730Z",
   publishedAt: "2023-06-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1233369/chapter-242-battles",
-  externalId: "1233369",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1233369",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1233369/chapter-242-battles",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

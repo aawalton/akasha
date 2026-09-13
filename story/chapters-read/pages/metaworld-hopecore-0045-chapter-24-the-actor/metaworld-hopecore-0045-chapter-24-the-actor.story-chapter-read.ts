@@ -10,9 +10,13 @@ export const metaworldHopecore0045Chapter24TheActor = {
   ownLength: 2266,
   unit: "words",
   publishedAt: "2026-05-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3372597/chapter-24-the-actor",
-  externalId: "3372597",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3372597",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3372597/chapter-24-the-actor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

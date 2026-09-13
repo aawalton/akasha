@@ -10,9 +10,13 @@ export const metaworldHopecore0047Chapter25NotReadyToMakeNice = {
   ownLength: 2028,
   unit: "words",
   publishedAt: "2026-05-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3372849/chapter-25-not-ready-to-make-nice",
-  externalId: "3372849",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3372849",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3372849/chapter-25-not-ready-to-make-nice",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

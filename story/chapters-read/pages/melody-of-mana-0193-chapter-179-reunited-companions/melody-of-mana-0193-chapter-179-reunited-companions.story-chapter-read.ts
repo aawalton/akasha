@@ -12,9 +12,13 @@ export const melodyOfMana0193Chapter179ReunitedCompanions = {
   unit: "words",
   completedAt: "2026-06-29T22:32:29.967Z",
   publishedAt: "2022-10-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1016225/chapter-179-reunited-companions",
-  externalId: "1016225",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1016225",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1016225/chapter-179-reunited-companions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

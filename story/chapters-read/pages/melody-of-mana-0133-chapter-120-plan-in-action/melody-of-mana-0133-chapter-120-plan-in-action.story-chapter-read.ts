@@ -12,9 +12,13 @@ export const melodyOfMana0133Chapter120PlanInAction = {
   unit: "words",
   completedAt: "2026-06-29T22:36:58.060Z",
   publishedAt: "2022-04-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/886150/chapter-120-plan-in-action",
-  externalId: "886150",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "886150",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/886150/chapter-120-plan-in-action",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

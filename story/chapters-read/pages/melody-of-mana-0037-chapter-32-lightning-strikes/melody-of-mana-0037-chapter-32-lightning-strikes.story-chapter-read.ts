@@ -12,9 +12,13 @@ export const melodyOfMana0037Chapter32LightningStrikes = {
   unit: "words",
   completedAt: "2026-06-29T22:27:29.993Z",
   publishedAt: "2021-07-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/724031/chapter-32-lightning-strikes",
-  externalId: "724031",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "724031",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/724031/chapter-32-lightning-strikes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

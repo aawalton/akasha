@@ -12,9 +12,13 @@ export const melodyOfMana0134Chapter121Embers = {
   unit: "words",
   completedAt: "2026-06-29T22:37:00.197Z",
   publishedAt: "2022-04-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/889611/chapter-121-embers",
-  externalId: "889611",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "889611",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/889611/chapter-121-embers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

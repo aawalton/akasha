@@ -12,9 +12,13 @@ export const melodyOfMana0136Chapter123MystienSWorkshop = {
   unit: "words",
   completedAt: "2026-06-29T22:30:32.583Z",
   publishedAt: "2022-04-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/891046/chapter-123-mystiens-workshop",
-  externalId: "891046",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "891046",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/891046/chapter-123-mystiens-workshop",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

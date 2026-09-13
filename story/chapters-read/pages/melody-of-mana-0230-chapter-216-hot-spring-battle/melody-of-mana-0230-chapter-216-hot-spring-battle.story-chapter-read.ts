@@ -12,9 +12,13 @@ export const melodyOfMana0230Chapter216HotSpringBattle = {
   unit: "words",
   completedAt: "2026-06-29T22:33:46.562Z",
   publishedAt: "2023-03-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1128452/chapter-216-hot-spring-battle",
-  externalId: "1128452",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1128452",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1128452/chapter-216-hot-spring-battle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

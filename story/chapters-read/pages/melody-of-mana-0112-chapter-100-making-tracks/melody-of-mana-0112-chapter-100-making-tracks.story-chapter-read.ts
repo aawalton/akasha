@@ -12,9 +12,13 @@ export const melodyOfMana0112Chapter100MakingTracks = {
   unit: "words",
   completedAt: "2026-06-29T22:30:00.499Z",
   publishedAt: "2022-03-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/873743/chapter-100-making-tracks",
-  externalId: "873743",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "873743",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/873743/chapter-100-making-tracks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

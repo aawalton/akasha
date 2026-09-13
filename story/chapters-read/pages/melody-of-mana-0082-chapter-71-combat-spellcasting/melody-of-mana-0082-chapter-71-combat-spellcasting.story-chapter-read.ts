@@ -12,9 +12,13 @@ export const melodyOfMana0082Chapter71CombatSpellcasting = {
   unit: "words",
   completedAt: "2026-06-29T22:29:02.395Z",
   publishedAt: "2021-12-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/810819/chapter-71-combat-spellcasting",
-  externalId: "810819",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "810819",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/810819/chapter-71-combat-spellcasting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

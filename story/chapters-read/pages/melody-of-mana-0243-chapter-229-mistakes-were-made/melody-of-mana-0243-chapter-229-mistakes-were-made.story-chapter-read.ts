@@ -12,9 +12,13 @@ export const melodyOfMana0243Chapter229MistakesWereMade = {
   unit: "words",
   completedAt: "2026-06-29T22:34:13.362Z",
   publishedAt: "2023-04-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1185125/chapter-229-mistakes-were-made",
-  externalId: "1185125",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1185125",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1185125/chapter-229-mistakes-were-made",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

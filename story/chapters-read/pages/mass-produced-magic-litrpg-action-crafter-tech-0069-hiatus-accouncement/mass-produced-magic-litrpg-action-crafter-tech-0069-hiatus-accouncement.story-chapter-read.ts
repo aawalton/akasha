@@ -10,9 +10,13 @@ export const massProducedMagicLitrpgActionCrafterTech0069HiatusAccouncement = {
   ownLength: 134,
   unit: "words",
   publishedAt: "2025-03-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2120793/hiatus-accouncement",
-  externalId: "2120793",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2120793",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2120793/hiatus-accouncement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

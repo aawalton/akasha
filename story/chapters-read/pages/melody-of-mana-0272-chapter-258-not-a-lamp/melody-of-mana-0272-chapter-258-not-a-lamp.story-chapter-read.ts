@@ -12,9 +12,13 @@ export const melodyOfMana0272Chapter258NotALamp = {
   unit: "words",
   completedAt: "2026-06-29T22:35:13.245Z",
   publishedAt: "2023-08-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1306904/chapter-258-not-a-lamp",
-  externalId: "1306904",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1306904",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1306904/chapter-258-not-a-lamp",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

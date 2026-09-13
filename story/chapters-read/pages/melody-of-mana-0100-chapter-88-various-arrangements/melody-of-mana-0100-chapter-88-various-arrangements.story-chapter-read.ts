@@ -12,9 +12,13 @@ export const melodyOfMana0100Chapter88VariousArrangements = {
   unit: "words",
   completedAt: "2026-06-29T22:29:38.347Z",
   publishedAt: "2022-02-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/843817/chapter-88-various-arrangements",
-  externalId: "843817",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "843817",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/843817/chapter-88-various-arrangements",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

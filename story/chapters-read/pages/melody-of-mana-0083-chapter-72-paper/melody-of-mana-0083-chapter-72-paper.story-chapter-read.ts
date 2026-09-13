@@ -12,9 +12,13 @@ export const melodyOfMana0083Chapter72Paper = {
   unit: "words",
   completedAt: "2026-06-29T22:29:04.364Z",
   publishedAt: "2021-12-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/812771/chapter-72-paper",
-  externalId: "812771",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "812771",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/812771/chapter-72-paper",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

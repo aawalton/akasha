@@ -12,9 +12,13 @@ export const melodyOfMana0062Chapter53ManaEater = {
   unit: "words",
   completedAt: "2026-06-29T22:28:19.788Z",
   publishedAt: "2021-10-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/769028/chapter-53-mana-eater",
-  externalId: "769028",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "769028",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/769028/chapter-53-mana-eater",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

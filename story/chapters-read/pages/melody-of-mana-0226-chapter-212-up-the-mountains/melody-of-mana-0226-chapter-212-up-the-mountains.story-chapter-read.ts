@@ -12,9 +12,13 @@ export const melodyOfMana0226Chapter212UpTheMountains = {
   unit: "words",
   completedAt: "2026-06-29T22:33:38.454Z",
   publishedAt: "2023-02-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1116757/chapter-212-up-the-mountains",
-  externalId: "1116757",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1116757",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1116757/chapter-212-up-the-mountains",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

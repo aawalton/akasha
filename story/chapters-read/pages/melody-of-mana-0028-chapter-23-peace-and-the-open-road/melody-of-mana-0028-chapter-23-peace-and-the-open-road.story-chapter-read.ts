@@ -12,9 +12,13 @@ export const melodyOfMana0028Chapter23PeaceAndTheOpenRoad = {
   unit: "words",
   completedAt: "2026-06-29T22:27:12.916Z",
   publishedAt: "2021-07-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/714889/chapter-23-peace-and-the-open-road",
-  externalId: "714889",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "714889",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/714889/chapter-23-peace-and-the-open-road",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

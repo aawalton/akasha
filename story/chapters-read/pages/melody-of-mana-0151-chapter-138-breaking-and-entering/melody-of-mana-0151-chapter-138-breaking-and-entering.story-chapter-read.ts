@@ -12,9 +12,13 @@ export const melodyOfMana0151Chapter138BreakingAndEntering = {
   unit: "words",
   completedAt: "2026-06-29T22:31:03.606Z",
   publishedAt: "2022-05-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/910663/chapter-138-breaking-and-entering",
-  externalId: "910663",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "910663",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/910663/chapter-138-breaking-and-entering",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

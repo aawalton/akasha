@@ -12,9 +12,13 @@ export const melodyOfMana0207Chapter193AcrossTheIce = {
   unit: "words",
   completedAt: "2026-06-29T22:32:58.751Z",
   publishedAt: "2022-12-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1054413/chapter-193-across-the-ice",
-  externalId: "1054413",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1054413",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1054413/chapter-193-across-the-ice",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

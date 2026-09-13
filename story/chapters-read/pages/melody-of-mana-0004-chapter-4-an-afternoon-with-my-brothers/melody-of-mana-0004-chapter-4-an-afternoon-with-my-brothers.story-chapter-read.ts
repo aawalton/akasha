@@ -12,9 +12,13 @@ export const melodyOfMana0004Chapter4AnAfternoonWithMyBrothers = {
   unit: "words",
   completedAt: "2026-06-29T22:26:22.465Z",
   publishedAt: "2021-06-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/701117/chapter-4-an-afternoon-with-my-brothers",
-  externalId: "701117",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "701117",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/701117/chapter-4-an-afternoon-with-my-brothers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

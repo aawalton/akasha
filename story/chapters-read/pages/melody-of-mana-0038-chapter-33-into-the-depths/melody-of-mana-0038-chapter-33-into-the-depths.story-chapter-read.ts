@@ -12,9 +12,13 @@ export const melodyOfMana0038Chapter33IntoTheDepths = {
   unit: "words",
   completedAt: "2026-06-29T22:27:31.902Z",
   publishedAt: "2021-07-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/725451/chapter-33-into-the-depths",
-  externalId: "725451",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "725451",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/725451/chapter-33-into-the-depths",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

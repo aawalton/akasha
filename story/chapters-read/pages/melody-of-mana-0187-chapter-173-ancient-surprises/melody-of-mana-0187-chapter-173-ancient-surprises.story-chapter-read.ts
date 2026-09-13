@@ -12,9 +12,13 @@ export const melodyOfMana0187Chapter173AncientSurprises = {
   unit: "words",
   completedAt: "2026-06-29T22:32:17.933Z",
   publishedAt: "2022-09-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1000897/chapter-173-ancient-surprises",
-  externalId: "1000897",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1000897",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1000897/chapter-173-ancient-surprises",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

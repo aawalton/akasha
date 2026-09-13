@@ -12,9 +12,13 @@ export const melodyOfMana0061Chapter52ANobleParty = {
   unit: "words",
   completedAt: "2026-06-29T22:28:17.810Z",
   publishedAt: "2021-10-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/766978/chapter-52-a-noble-party",
-  externalId: "766978",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "766978",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/766978/chapter-52-a-noble-party",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

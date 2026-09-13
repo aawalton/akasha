@@ -12,9 +12,13 @@ export const melodyOfMana0248Chapter234NearMiss = {
   unit: "words",
   completedAt: "2026-06-29T22:34:23.775Z",
   publishedAt: "2023-05-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1204097/chapter-234-near-miss",
-  externalId: "1204097",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1204097",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1204097/chapter-234-near-miss",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

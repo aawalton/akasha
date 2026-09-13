@@ -12,9 +12,13 @@ export const melodyOfMana0308Chapter293SuspicionsAndFrustrations = {
   unit: "words",
   completedAt: "2026-06-29T22:36:27.614Z",
   publishedAt: "2023-12-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1444958/chapter-293-suspicions-and-frustrations",
-  externalId: "1444958",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1444958",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1444958/chapter-293-suspicions-and-frustrations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

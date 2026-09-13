@@ -12,9 +12,13 @@ export const melodyOfMana0001Chapter1IAmAnIdiot = {
   unit: "words",
   completedAt: "2026-06-29T22:26:15.854Z",
   publishedAt: "2021-06-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/697972/chapter-1-i-am-an-idiot",
-  externalId: "697972",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "697972",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/697972/chapter-1-i-am-an-idiot",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

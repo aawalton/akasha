@@ -12,9 +12,13 @@ export const melodyOfMana0211Chapter197CatchingUp = {
   unit: "words",
   completedAt: "2026-06-29T22:33:07.037Z",
   publishedAt: "2022-12-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1068033/chapter-197-catching-up",
-  externalId: "1068033",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1068033",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1068033/chapter-197-catching-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

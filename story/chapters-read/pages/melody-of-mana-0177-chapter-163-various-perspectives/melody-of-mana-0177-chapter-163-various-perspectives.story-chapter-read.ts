@@ -12,9 +12,13 @@ export const melodyOfMana0177Chapter163VariousPerspectives = {
   unit: "words",
   completedAt: "2026-06-29T22:31:58.166Z",
   publishedAt: "2022-08-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/975492/chapter-163-various-perspectives",
-  externalId: "975492",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "975492",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/975492/chapter-163-various-perspectives",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

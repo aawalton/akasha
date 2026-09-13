@@ -12,9 +12,13 @@ export const melodyOfMana0090Chapter78EmergencyPoliciesAndCoreDiving = {
   unit: "words",
   completedAt: "2026-06-29T22:29:18.573Z",
   publishedAt: "2022-01-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/822316/chapter-78-emergency-policies-and-core-diving",
-  externalId: "822316",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "822316",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/822316/chapter-78-emergency-policies-and-core-diving",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

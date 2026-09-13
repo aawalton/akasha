@@ -12,9 +12,13 @@ export const melodyOfMana0088Chapter77AllAcrossTheKingdom = {
   unit: "words",
   completedAt: "2026-06-29T22:29:14.398Z",
   publishedAt: "2022-01-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/821109/chapter-77-all-across-the-kingdom",
-  externalId: "821109",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "821109",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/821109/chapter-77-all-across-the-kingdom",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

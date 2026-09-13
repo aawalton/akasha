@@ -12,9 +12,13 @@ export const melodyOfMana0239Chapter225TheManyWastesOfSilversprings = {
   unit: "words",
   completedAt: "2026-06-29T22:34:05.222Z",
   publishedAt: "2023-04-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1158585/chapter-225-the-many-wastes-of-silversprings",
-  externalId: "1158585",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1158585",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1158585/chapter-225-the-many-wastes-of-silversprings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

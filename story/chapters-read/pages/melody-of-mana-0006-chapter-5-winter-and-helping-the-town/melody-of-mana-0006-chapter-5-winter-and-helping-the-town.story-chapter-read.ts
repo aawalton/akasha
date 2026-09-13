@@ -12,9 +12,13 @@ export const melodyOfMana0006Chapter5WinterAndHelpingTheTown = {
   unit: "words",
   completedAt: "2026-06-29T22:26:26.675Z",
   publishedAt: "2021-06-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/702377/chapter-5-winter-and-helping-the-town",
-  externalId: "702377",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "702377",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/702377/chapter-5-winter-and-helping-the-town",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

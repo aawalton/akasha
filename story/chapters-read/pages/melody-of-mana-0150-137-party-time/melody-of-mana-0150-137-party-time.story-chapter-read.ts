@@ -12,9 +12,13 @@ export const melodyOfMana0150137PartyTime = {
   unit: "words",
   completedAt: "2026-06-29T22:31:01.620Z",
   publishedAt: "2022-05-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/909170/137-party-time",
-  externalId: "909170",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "909170",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/909170/137-party-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

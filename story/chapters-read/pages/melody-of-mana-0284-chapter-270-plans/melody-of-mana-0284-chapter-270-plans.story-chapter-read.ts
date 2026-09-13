@@ -12,9 +12,13 @@ export const melodyOfMana0284Chapter270Plans = {
   unit: "words",
   completedAt: "2026-06-29T22:35:38.370Z",
   publishedAt: "2023-09-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1351789/chapter-270-plans",
-  externalId: "1351789",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1351789",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1351789/chapter-270-plans",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

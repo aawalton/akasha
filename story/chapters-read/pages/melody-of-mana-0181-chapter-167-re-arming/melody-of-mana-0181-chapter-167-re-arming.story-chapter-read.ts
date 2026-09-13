@@ -12,9 +12,13 @@ export const melodyOfMana0181Chapter167ReArming = {
   unit: "words",
   completedAt: "2026-06-29T22:32:06.003Z",
   publishedAt: "2022-09-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/985630/chapter-167-re-arming",
-  externalId: "985630",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "985630",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/985630/chapter-167-re-arming",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

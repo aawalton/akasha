@@ -10,9 +10,13 @@ export const metaworldHopecore0032Chapter17TheEntertainer = {
   ownLength: 3349,
   unit: "words",
   publishedAt: "2026-05-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368847/chapter-17-the-entertainer",
-  externalId: "3368847",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3368847",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368847/chapter-17-the-entertainer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

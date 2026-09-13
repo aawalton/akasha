@@ -12,9 +12,13 @@ export const melodyOfMana0223Chapter209Captured = {
   unit: "words",
   completedAt: "2026-06-29T22:33:32.144Z",
   publishedAt: "2023-02-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1107995/chapter-209-captured",
-  externalId: "1107995",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1107995",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1107995/chapter-209-captured",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

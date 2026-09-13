@@ -12,9 +12,13 @@ export const melodyOfMana0052Chapter45TheBishop = {
   unit: "words",
   completedAt: "2026-06-29T22:27:59.574Z",
   publishedAt: "2021-09-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/752393/chapter-45-the-bishop",
-  externalId: "752393",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "752393",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/752393/chapter-45-the-bishop",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

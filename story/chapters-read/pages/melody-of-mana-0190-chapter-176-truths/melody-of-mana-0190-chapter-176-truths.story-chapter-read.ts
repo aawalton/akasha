@@ -12,9 +12,13 @@ export const melodyOfMana0190Chapter176Truths = {
   unit: "words",
   completedAt: "2026-06-29T22:32:23.850Z",
   publishedAt: "2022-10-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1008799/chapter-176-truths",
-  externalId: "1008799",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1008799",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1008799/chapter-176-truths",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

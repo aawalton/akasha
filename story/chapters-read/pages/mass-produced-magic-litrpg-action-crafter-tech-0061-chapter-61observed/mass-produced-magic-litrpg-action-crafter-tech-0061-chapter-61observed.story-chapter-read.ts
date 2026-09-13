@@ -10,9 +10,13 @@ export const massProducedMagicLitrpgActionCrafterTech0061Chapter61observed = {
   ownLength: 1564,
   unit: "words",
   publishedAt: "2025-02-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2079645/chapter-61observed",
-  externalId: "2079645",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2079645",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2079645/chapter-61observed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

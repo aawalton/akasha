@@ -12,9 +12,13 @@ export const melodyOfMana0118Chapter105TheVine = {
   unit: "words",
   completedAt: "2026-06-29T22:30:12.113Z",
   publishedAt: "2022-04-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/881346/chapter-105-the-vine",
-  externalId: "881346",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "881346",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/881346/chapter-105-the-vine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

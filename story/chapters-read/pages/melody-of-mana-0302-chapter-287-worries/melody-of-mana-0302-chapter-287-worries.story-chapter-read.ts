@@ -12,9 +12,13 @@ export const melodyOfMana0302Chapter287Worries = {
   unit: "words",
   completedAt: "2026-06-29T22:36:15.062Z",
   publishedAt: "2023-11-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1421539/chapter-287-worries",
-  externalId: "1421539",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1421539",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1421539/chapter-287-worries",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

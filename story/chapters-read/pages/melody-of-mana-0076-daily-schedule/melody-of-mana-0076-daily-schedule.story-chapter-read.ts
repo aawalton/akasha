@@ -12,9 +12,13 @@ export const melodyOfMana0076DailySchedule = {
   unit: "words",
   completedAt: "2026-06-29T22:28:49.569Z",
   publishedAt: "2021-12-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/798491/daily-schedule",
-  externalId: "798491",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "798491",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/798491/daily-schedule",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

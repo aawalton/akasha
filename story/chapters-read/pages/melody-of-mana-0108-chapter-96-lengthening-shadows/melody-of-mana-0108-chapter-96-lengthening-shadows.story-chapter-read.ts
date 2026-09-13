@@ -12,9 +12,13 @@ export const melodyOfMana0108Chapter96LengtheningShadows = {
   unit: "words",
   completedAt: "2026-06-29T22:29:53.314Z",
   publishedAt: "2022-03-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/864815/chapter-96-lengthening-shadows",
-  externalId: "864815",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "864815",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/864815/chapter-96-lengthening-shadows",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

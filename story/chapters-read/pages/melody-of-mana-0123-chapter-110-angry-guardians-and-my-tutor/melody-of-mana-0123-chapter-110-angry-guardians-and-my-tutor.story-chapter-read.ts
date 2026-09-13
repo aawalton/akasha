@@ -12,9 +12,13 @@ export const melodyOfMana0123Chapter110AngryGuardiansAndMyTutor = {
   unit: "words",
   completedAt: "2026-06-29T22:30:22.030Z",
   publishedAt: "2022-04-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/882625/chapter-110-angry-guardians-and-my-tutor",
-  externalId: "882625",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "882625",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/882625/chapter-110-angry-guardians-and-my-tutor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

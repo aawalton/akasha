@@ -12,9 +12,13 @@ export const melodyOfMana0097Chapter85ReturningAndBreakingThingsDown = {
   unit: "words",
   completedAt: "2026-06-29T22:29:32.848Z",
   publishedAt: "2022-02-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/836633/chapter-85-returning-and-breaking-things-down",
-  externalId: "836633",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "836633",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/836633/chapter-85-returning-and-breaking-things-down",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

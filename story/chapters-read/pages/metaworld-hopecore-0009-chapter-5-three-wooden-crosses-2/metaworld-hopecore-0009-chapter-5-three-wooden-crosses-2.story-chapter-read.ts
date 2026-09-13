@@ -10,9 +10,13 @@ export const metaworldHopecore0009Chapter5ThreeWoodenCrosses2 = {
   ownLength: 3170,
   unit: "words",
   publishedAt: "2026-05-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364609/chapter-5-three-wooden-crosses-2",
-  externalId: "3364609",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3364609",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364609/chapter-5-three-wooden-crosses-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

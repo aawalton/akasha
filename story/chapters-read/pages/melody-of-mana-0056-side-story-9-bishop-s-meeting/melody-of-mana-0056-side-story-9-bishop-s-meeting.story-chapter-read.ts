@@ -12,9 +12,13 @@ export const melodyOfMana0056SideStory9BishopSMeeting = {
   unit: "words",
   completedAt: "2026-06-29T22:28:07.655Z",
   publishedAt: "2021-09-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/757992/side-story-9-bishops-meeting",
-  externalId: "757992",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "757992",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/757992/side-story-9-bishops-meeting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const massProducedMagicLitrpgActionCrafterTech0049Chapter49RuinsPt4 = {
   ownLength: 1828,
   unit: "words",
   publishedAt: "2025-01-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2022661/chapter-49-ruins-pt-4",
-  externalId: "2022661",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2022661",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2022661/chapter-49-ruins-pt-4",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

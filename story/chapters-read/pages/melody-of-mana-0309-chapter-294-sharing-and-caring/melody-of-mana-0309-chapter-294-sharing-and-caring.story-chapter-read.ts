@@ -12,9 +12,13 @@ export const melodyOfMana0309Chapter294SharingAndCaring = {
   unit: "words",
   completedAt: "2026-06-29T22:36:29.543Z",
   publishedAt: "2023-12-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1448627/chapter-294-sharing-and-caring",
-  externalId: "1448627",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1448627",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1448627/chapter-294-sharing-and-caring",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

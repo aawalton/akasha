@@ -12,9 +12,13 @@ export const melodyOfMana0025Chapter21TheReturnOfAnOldAcquaintance = {
   unit: "words",
   completedAt: "2026-06-29T22:27:06.633Z",
   publishedAt: "2021-07-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/712182/chapter-21-the-return-of-an-old-acquaintance",
-  externalId: "712182",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "712182",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/712182/chapter-21-the-return-of-an-old-acquaintance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

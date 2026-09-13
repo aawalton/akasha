@@ -12,9 +12,13 @@ export const melodyOfMana0200Chapter186TheWorstTiming = {
   unit: "words",
   completedAt: "2026-06-29T22:32:44.268Z",
   publishedAt: "2022-11-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1036094/chapter-186-the-worst-timing",
-  externalId: "1036094",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1036094",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1036094/chapter-186-the-worst-timing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

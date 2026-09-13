@@ -12,9 +12,13 @@ export const melodyOfMana0246Chapter232SpaceTimeMaintenance = {
   unit: "words",
   completedAt: "2026-06-29T22:34:19.827Z",
   publishedAt: "2023-04-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1196371/chapter-232-space-time-maintenance",
-  externalId: "1196371",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1196371",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1196371/chapter-232-space-time-maintenance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

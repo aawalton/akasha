@@ -12,9 +12,13 @@ export const melodyOfMana0201Chapter187GardenTalk = {
   unit: "words",
   completedAt: "2026-06-29T22:32:46.285Z",
   publishedAt: "2022-11-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1037849/chapter-187-garden-talk",
-  externalId: "1037849",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1037849",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1037849/chapter-187-garden-talk",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

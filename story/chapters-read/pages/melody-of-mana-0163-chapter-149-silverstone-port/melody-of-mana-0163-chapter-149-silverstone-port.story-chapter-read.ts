@@ -12,9 +12,13 @@ export const melodyOfMana0163Chapter149SilverstonePort = {
   unit: "words",
   completedAt: "2026-06-29T22:31:28.781Z",
   publishedAt: "2022-06-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/937069/chapter-149-silverstone-port",
-  externalId: "937069",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "937069",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/937069/chapter-149-silverstone-port",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0122Chapter109AQuickOutingAndIrritatedMentor = {
   unit: "words",
   completedAt: "2026-06-29T22:30:19.962Z",
   publishedAt: "2022-04-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/882624/chapter-109-a-quick-outing-and-irritated-mentor",
-  externalId: "882624",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "882624",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/882624/chapter-109-a-quick-outing-and-irritated-mentor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

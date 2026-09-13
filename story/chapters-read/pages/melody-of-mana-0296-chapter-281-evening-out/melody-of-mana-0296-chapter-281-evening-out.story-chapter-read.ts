@@ -12,9 +12,13 @@ export const melodyOfMana0296Chapter281EveningOut = {
   unit: "words",
   completedAt: "2026-06-29T22:36:02.808Z",
   publishedAt: "2023-11-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1396291/chapter-281-evening-out",
-  externalId: "1396291",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1396291",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1396291/chapter-281-evening-out",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

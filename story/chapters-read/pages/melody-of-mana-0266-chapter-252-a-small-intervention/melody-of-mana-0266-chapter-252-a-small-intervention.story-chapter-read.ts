@@ -12,9 +12,13 @@ export const melodyOfMana0266Chapter252ASmallIntervention = {
   unit: "words",
   completedAt: "2026-06-29T22:35:00.394Z",
   publishedAt: "2023-07-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1274453/chapter-252-a-small-intervention",
-  externalId: "1274453",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1274453",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1274453/chapter-252-a-small-intervention",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0170Chapter156FollowTheBirds = {
   unit: "words",
   completedAt: "2026-06-29T22:31:43.591Z",
   publishedAt: "2022-07-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/954507/chapter-156-follow-the-birds",
-  externalId: "954507",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "954507",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/954507/chapter-156-follow-the-birds",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

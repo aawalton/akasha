@@ -12,9 +12,13 @@ export const melodyOfMana0145132TheHammerFalls = {
   unit: "words",
   completedAt: "2026-06-29T22:30:51.387Z",
   publishedAt: "2022-05-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/900528/132-the-hammer-falls",
-  externalId: "900528",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "900528",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/900528/132-the-hammer-falls",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

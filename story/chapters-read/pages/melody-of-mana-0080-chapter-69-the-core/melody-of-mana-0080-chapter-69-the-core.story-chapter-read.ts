@@ -12,9 +12,13 @@ export const melodyOfMana0080Chapter69TheCore = {
   unit: "words",
   completedAt: "2026-06-29T22:28:58.145Z",
   publishedAt: "2021-12-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/806385/chapter-69-the-core",
-  externalId: "806385",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "806385",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/806385/chapter-69-the-core",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

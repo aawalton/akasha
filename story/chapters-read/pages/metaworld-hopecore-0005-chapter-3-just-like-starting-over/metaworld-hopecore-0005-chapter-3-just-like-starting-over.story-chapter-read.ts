@@ -10,9 +10,13 @@ export const metaworldHopecore0005Chapter3JustLikeStartingOver = {
   ownLength: 2595,
   unit: "words",
   publishedAt: "2026-05-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364485/chapter-3-just-like-starting-over",
-  externalId: "3364485",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3364485",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364485/chapter-3-just-like-starting-over",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

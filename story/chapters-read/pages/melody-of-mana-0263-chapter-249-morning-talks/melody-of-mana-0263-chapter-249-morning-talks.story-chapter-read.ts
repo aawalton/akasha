@@ -12,9 +12,13 @@ export const melodyOfMana0263Chapter249MorningTalks = {
   unit: "words",
   completedAt: "2026-06-29T22:34:54.359Z",
   publishedAt: "2023-06-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1260028/chapter-249-morning-talks",
-  externalId: "1260028",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1260028",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1260028/chapter-249-morning-talks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

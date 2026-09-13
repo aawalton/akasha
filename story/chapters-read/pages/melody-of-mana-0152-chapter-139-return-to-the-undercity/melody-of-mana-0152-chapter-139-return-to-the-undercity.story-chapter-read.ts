@@ -12,9 +12,13 @@ export const melodyOfMana0152Chapter139ReturnToTheUndercity = {
   unit: "words",
   completedAt: "2026-06-29T22:31:05.769Z",
   publishedAt: "2022-05-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/913771/chapter-139-return-to-the-undercity",
-  externalId: "913771",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "913771",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/913771/chapter-139-return-to-the-undercity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

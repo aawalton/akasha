@@ -12,9 +12,13 @@ export const melodyOfMana0242Chapter228PreparingForTheShow = {
   unit: "words",
   completedAt: "2026-06-29T22:34:11.272Z",
   publishedAt: "2023-04-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1169929/chapter-228-preparing-for-the-show",
-  externalId: "1169929",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1169929",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1169929/chapter-228-preparing-for-the-show",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0312Chapter297LastHurdle = {
   unit: "words",
   completedAt: "2026-06-29T22:36:35.376Z",
   publishedAt: "2024-01-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1475627/chapter-297-last-hurdle",
-  externalId: "1475627",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1475627",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1475627/chapter-297-last-hurdle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

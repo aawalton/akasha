@@ -12,9 +12,13 @@ export const melodyOfMana0267Chapter253NightOff = {
   unit: "words",
   completedAt: "2026-06-29T22:35:02.462Z",
   publishedAt: "2023-07-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1277586/chapter-253-night-off",
-  externalId: "1277586",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1277586",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1277586/chapter-253-night-off",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

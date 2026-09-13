@@ -12,9 +12,13 @@ export const melodyOfMana0305Chapter290ChildrenChange = {
   unit: "words",
   completedAt: "2026-06-29T22:36:21.543Z",
   publishedAt: "2023-12-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1433889/chapter-290-children-change",
-  externalId: "1433889",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1433889",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1433889/chapter-290-children-change",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

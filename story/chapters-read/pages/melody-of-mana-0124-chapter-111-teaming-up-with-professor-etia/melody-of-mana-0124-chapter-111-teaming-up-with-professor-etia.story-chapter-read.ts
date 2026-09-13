@@ -12,9 +12,13 @@ export const melodyOfMana0124Chapter111TeamingUpWithProfessorEtia = {
   unit: "words",
   completedAt: "2026-06-29T22:30:23.961Z",
   publishedAt: "2022-04-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/882626/chapter-111-teaming-up-with-professor-etia",
-  externalId: "882626",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "882626",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/882626/chapter-111-teaming-up-with-professor-etia",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

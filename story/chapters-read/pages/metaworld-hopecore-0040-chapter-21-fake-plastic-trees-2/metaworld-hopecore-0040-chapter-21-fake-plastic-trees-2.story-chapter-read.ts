@@ -10,9 +10,13 @@ export const metaworldHopecore0040Chapter21FakePlasticTrees2 = {
   ownLength: 2236,
   unit: "words",
   publishedAt: "2026-05-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368981/chapter-21-fake-plastic-trees-2",
-  externalId: "3368981",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3368981",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368981/chapter-21-fake-plastic-trees-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

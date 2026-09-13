@@ -12,9 +12,13 @@ export const melodyOfMana0159DelayAnnouncement = {
   unit: "words",
   completedAt: "2026-06-29T22:31:20.579Z",
   publishedAt: "2022-06-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/930494/delay-announcement",
-  externalId: "930494",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "930494",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/930494/delay-announcement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

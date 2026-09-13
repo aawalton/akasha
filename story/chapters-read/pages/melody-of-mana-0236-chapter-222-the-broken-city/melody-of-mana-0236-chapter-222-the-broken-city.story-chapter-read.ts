@@ -12,9 +12,13 @@ export const melodyOfMana0236Chapter222TheBrokenCity = {
   unit: "words",
   completedAt: "2026-06-29T22:33:58.746Z",
   publishedAt: "2023-03-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1147716/chapter-222-the-broken-city",
-  externalId: "1147716",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1147716",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1147716/chapter-222-the-broken-city",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

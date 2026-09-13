@@ -12,9 +12,13 @@ export const melodyOfMana0231Chapter217Safe = {
   unit: "words",
   completedAt: "2026-06-29T22:33:48.586Z",
   publishedAt: "2023-03-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1131907/chapter-217-safe",
-  externalId: "1131907",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1131907",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1131907/chapter-217-safe",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

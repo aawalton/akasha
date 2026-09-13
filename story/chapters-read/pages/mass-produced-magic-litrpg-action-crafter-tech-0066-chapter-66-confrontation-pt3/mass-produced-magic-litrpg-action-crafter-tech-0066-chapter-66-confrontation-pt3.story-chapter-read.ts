@@ -10,9 +10,13 @@ export const massProducedMagicLitrpgActionCrafterTech0066Chapter66ConfrontationP
   ownLength: 1433,
   unit: "words",
   publishedAt: "2025-03-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2104297/chapter-66-confrontation-pt3",
-  externalId: "2104297",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2104297",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2104297/chapter-66-confrontation-pt3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

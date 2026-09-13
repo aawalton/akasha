@@ -12,9 +12,13 @@ export const melodyOfMana0071Chapter61CocktailsAndHangovers = {
   unit: "words",
   completedAt: "2026-06-29T22:28:39.047Z",
   publishedAt: "2021-11-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/788453/chapter-61-cocktails-and-hangovers",
-  externalId: "788453",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "788453",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/788453/chapter-61-cocktails-and-hangovers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

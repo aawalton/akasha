@@ -12,9 +12,13 @@ export const melodyOfMana0024Chapter20MyFirstWinterWithoutFamily = {
   unit: "words",
   completedAt: "2026-06-29T22:27:04.840Z",
   publishedAt: "2021-07-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/711600/chapter-20-my-first-winter-without-family",
-  externalId: "711600",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "711600",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/711600/chapter-20-my-first-winter-without-family",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

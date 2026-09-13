@@ -12,9 +12,13 @@ export const melodyOfMana0206Chapter192TestsAplenty = {
   unit: "words",
   completedAt: "2026-06-29T22:32:56.835Z",
   publishedAt: "2022-11-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1052185/chapter-192-tests-aplenty",
-  externalId: "1052185",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1052185",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1052185/chapter-192-tests-aplenty",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

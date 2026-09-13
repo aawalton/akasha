@@ -12,9 +12,13 @@ export const melodyOfMana0043SideStory6MeanwhileInTheEmpire = {
   unit: "words",
   completedAt: "2026-06-29T22:27:41.432Z",
   publishedAt: "2021-08-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/732695/side-story-6-meanwhile-in-the-empire",
-  externalId: "732695",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "732695",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/732695/side-story-6-meanwhile-in-the-empire",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

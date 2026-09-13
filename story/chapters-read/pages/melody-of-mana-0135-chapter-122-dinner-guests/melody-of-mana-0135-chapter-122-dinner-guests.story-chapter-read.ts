@@ -12,9 +12,13 @@ export const melodyOfMana0135Chapter122DinnerGuests = {
   unit: "words",
   completedAt: "2026-06-29T22:30:30.367Z",
   publishedAt: "2022-04-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/890672/chapter-122-dinner-guests",
-  externalId: "890672",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "890672",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/890672/chapter-122-dinner-guests",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

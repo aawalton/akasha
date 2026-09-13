@@ -12,9 +12,13 @@ export const melodyOfMana0065Chapter56ARelaxingBath = {
   unit: "words",
   completedAt: "2026-06-29T22:28:26.426Z",
   publishedAt: "2021-10-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/774662/chapter-56-a-relaxing-bath",
-  externalId: "774662",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "774662",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/774662/chapter-56-a-relaxing-bath",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

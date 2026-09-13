@@ -12,9 +12,13 @@ export const melodyOfMana0203Chapter189ImperialCouple = {
   unit: "words",
   completedAt: "2026-06-29T22:32:50.371Z",
   publishedAt: "2022-11-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1043967/chapter-189-imperial-couple",
-  externalId: "1043967",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1043967",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1043967/chapter-189-imperial-couple",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const massProducedMagicLitrpgActionCrafterTech0040Chapter40NecromanticInt
   ownLength: 1683,
   unit: "words",
   publishedAt: "2025-01-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1992303/chapter-40-necromantic-interlude",
-  externalId: "1992303",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1992303",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1992303/chapter-40-necromantic-interlude",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0186Chapter172Golems = {
   unit: "words",
   completedAt: "2026-06-29T22:32:16.042Z",
   publishedAt: "2022-09-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/998339/chapter-172-golems",
-  externalId: "998339",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "998339",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/998339/chapter-172-golems",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

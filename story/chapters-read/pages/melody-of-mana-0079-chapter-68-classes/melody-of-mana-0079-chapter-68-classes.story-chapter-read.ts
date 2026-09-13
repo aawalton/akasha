@@ -12,9 +12,13 @@ export const melodyOfMana0079Chapter68Classes = {
   unit: "words",
   completedAt: "2026-06-29T22:28:55.929Z",
   publishedAt: "2021-12-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/803915/chapter-68-classes",
-  externalId: "803915",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "803915",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/803915/chapter-68-classes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

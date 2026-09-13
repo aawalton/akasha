@@ -12,9 +12,13 @@ export const melodyOfMana0257Chapter243SovereignsDeath = {
   unit: "words",
   completedAt: "2026-06-29T22:34:41.720Z",
   publishedAt: "2023-06-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1237557/chapter-243-sovereigns-death",
-  externalId: "1237557",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1237557",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1237557/chapter-243-sovereigns-death",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

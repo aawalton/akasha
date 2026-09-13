@@ -12,8 +12,13 @@ export const melodyOfMana0292Nanowrimo = {
   unit: "words",
   completedAt: "2026-06-29T22:35:54.958Z",
   publishedAt: "2023-10-21",
-  externalLink: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1381227/nanowrimo",
-  externalId: "1381227",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1381227",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1381227/nanowrimo",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

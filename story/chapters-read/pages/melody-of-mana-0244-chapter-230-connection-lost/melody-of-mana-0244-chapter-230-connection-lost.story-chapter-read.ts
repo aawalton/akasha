@@ -12,9 +12,13 @@ export const melodyOfMana0244Chapter230ConnectionLost = {
   unit: "words",
   completedAt: "2026-06-29T22:34:15.481Z",
   publishedAt: "2023-04-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1188585/chapter-230-connection-lost",
-  externalId: "1188585",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1188585",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1188585/chapter-230-connection-lost",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0175Chapter161ThePalaceOfTheElvenKing = {
   unit: "words",
   completedAt: "2026-06-29T22:31:54.037Z",
   publishedAt: "2022-08-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/967409/chapter-161-the-palace-of-the-elven-king",
-  externalId: "967409",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "967409",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/967409/chapter-161-the-palace-of-the-elven-king",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

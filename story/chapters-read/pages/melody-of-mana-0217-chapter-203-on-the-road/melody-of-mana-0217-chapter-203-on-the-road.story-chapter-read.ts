@@ -12,9 +12,13 @@ export const melodyOfMana0217Chapter203OnTheRoad = {
   unit: "words",
   completedAt: "2026-06-29T22:33:19.685Z",
   publishedAt: "2023-01-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1090583/chapter-203-on-the-road",
-  externalId: "1090583",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1090583",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1090583/chapter-203-on-the-road",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0283Chapter269ReturnToSilversprings = {
   unit: "words",
   completedAt: "2026-06-29T22:35:36.309Z",
   publishedAt: "2023-09-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1348484/chapter-269-return-to-silversprings",
-  externalId: "1348484",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1348484",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1348484/chapter-269-return-to-silversprings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

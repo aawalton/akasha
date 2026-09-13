@@ -12,9 +12,13 @@ export const melodyOfMana0036Chapter31AMeetingOverTea = {
   unit: "words",
   completedAt: "2026-06-29T22:27:28.209Z",
   publishedAt: "2021-07-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/722683/chapter-31-a-meeting-over-tea",
-  externalId: "722683",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "722683",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/722683/chapter-31-a-meeting-over-tea",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0015Chapter13ColdShouldersAndFreedom = {
   unit: "words",
   completedAt: "2026-06-29T22:26:46.458Z",
   publishedAt: "2021-06-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/706828/chapter-13-cold-shoulders-and-freedom",
-  externalId: "706828",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "706828",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/706828/chapter-13-cold-shoulders-and-freedom",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

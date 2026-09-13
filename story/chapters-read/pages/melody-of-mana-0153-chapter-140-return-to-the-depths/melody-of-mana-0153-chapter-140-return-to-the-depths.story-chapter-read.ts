@@ -12,9 +12,13 @@ export const melodyOfMana0153Chapter140ReturnToTheDepths = {
   unit: "words",
   completedAt: "2026-06-29T22:31:07.861Z",
   publishedAt: "2022-05-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/915762/chapter-140-return-to-the-depths",
-  externalId: "915762",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "915762",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/915762/chapter-140-return-to-the-depths",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

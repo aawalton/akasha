@@ -12,9 +12,13 @@ export const melodyOfMana0093Chapter81MakingALampAndAGroupProject = {
   unit: "words",
   completedAt: "2026-06-29T22:29:24.645Z",
   publishedAt: "2022-01-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/829486/chapter-81-making-a-lamp-and-a-group-project",
-  externalId: "829486",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "829486",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/829486/chapter-81-making-a-lamp-and-a-group-project",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const metaworldHopecore0013Chapter7WorkinForALivin2 = {
   ownLength: 2334,
   unit: "words",
   publishedAt: "2026-05-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364657/chapter-7-workin-for-a-livin-2",
-  externalId: "3364657",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3364657",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364657/chapter-7-workin-for-a-livin-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0058Chapter49GettingReadyAndAnEmergencyLesson = {
   unit: "words",
   completedAt: "2026-06-29T22:28:11.766Z",
   publishedAt: "2021-10-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/761788/chapter-49-getting-ready-and-an-emergency-lesson",
-  externalId: "761788",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "761788",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/761788/chapter-49-getting-ready-and-an-emergency-lesson",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

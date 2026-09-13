@@ -10,9 +10,13 @@ export const metaworldHopecore0051Chapter27Torn = {
   ownLength: 3639,
   unit: "words",
   publishedAt: "2026-05-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3374263/chapter-27-torn",
-  externalId: "3374263",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3374263",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3374263/chapter-27-torn",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

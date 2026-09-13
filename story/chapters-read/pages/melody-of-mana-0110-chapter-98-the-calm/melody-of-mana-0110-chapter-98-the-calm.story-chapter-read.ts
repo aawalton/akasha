@@ -12,9 +12,13 @@ export const melodyOfMana0110Chapter98TheCalm = {
   unit: "words",
   completedAt: "2026-06-29T22:29:56.907Z",
   publishedAt: "2022-03-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/869699/chapter-98-the-calm",
-  externalId: "869699",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "869699",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/869699/chapter-98-the-calm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

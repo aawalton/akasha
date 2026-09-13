@@ -12,9 +12,13 @@ export const melodyOfMana0299Chapter284ShelterInTheStorm = {
   unit: "words",
   completedAt: "2026-06-29T22:36:09.056Z",
   publishedAt: "2023-11-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1409674/chapter-284-shelter-in-the-storm",
-  externalId: "1409674",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1409674",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1409674/chapter-284-shelter-in-the-storm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

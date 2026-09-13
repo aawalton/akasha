@@ -10,9 +10,13 @@ export const metaworldHopecore0015Chapter8TearsOfAClown2 = {
   ownLength: 2790,
   unit: "words",
   publishedAt: "2026-05-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364704/chapter-8-tears-of-a-clown-2",
-  externalId: "3364704",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3364704",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364704/chapter-8-tears-of-a-clown-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

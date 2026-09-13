@@ -12,9 +12,13 @@ export const melodyOfMana0212198BreakfastAtDawn = {
   unit: "words",
   completedAt: "2026-06-29T22:33:09.056Z",
   publishedAt: "2022-12-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1073103/198-breakfast-at-dawn",
-  externalId: "1073103",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1073103",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1073103/198-breakfast-at-dawn",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

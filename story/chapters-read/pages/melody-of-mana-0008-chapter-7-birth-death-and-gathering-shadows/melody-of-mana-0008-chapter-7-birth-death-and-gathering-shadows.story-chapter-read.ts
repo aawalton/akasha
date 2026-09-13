@@ -12,9 +12,13 @@ export const melodyOfMana0008Chapter7BirthDeathAndGatheringShadows = {
   unit: "words",
   completedAt: "2026-06-29T22:26:31.173Z",
   publishedAt: "2021-06-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/703693/chapter-7-birth-death-and-gathering-shadows",
-  externalId: "703693",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "703693",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/703693/chapter-7-birth-death-and-gathering-shadows",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

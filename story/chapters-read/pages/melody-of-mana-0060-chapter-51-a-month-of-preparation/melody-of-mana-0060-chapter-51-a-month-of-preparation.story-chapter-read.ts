@@ -12,9 +12,13 @@ export const melodyOfMana0060Chapter51AMonthOfPreparation = {
   unit: "words",
   completedAt: "2026-06-29T22:28:15.770Z",
   publishedAt: "2021-10-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/765421/chapter-51-a-month-of-preparation",
-  externalId: "765421",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "765421",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/765421/chapter-51-a-month-of-preparation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

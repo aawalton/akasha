@@ -12,9 +12,13 @@ export const melodyOfMana0016SideStory3MystienGoingToTheWaystation = {
   unit: "words",
   completedAt: "2026-06-29T22:26:48.560Z",
   publishedAt: "2021-06-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/707215/side-story-3-mystien-going-to-the-waystation",
-  externalId: "707215",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "707215",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/707215/side-story-3-mystien-going-to-the-waystation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

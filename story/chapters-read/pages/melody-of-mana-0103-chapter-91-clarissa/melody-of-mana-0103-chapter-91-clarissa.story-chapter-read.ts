@@ -12,9 +12,13 @@ export const melodyOfMana0103Chapter91Clarissa = {
   unit: "words",
   completedAt: "2026-06-29T22:29:43.967Z",
   publishedAt: "2022-02-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/851169/chapter-91-clarissa",
-  externalId: "851169",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "851169",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/851169/chapter-91-clarissa",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

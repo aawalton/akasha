@@ -12,9 +12,13 @@ export const melodyOfMana0077Chapter66ClothesClothesAndMaids = {
   unit: "words",
   completedAt: "2026-06-29T22:28:51.820Z",
   publishedAt: "2021-12-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/799245/chapter-66-clothes-clothes-and-maids",
-  externalId: "799245",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "799245",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/799245/chapter-66-clothes-clothes-and-maids",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

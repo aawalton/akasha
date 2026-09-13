@@ -12,9 +12,13 @@ export const melodyOfMana0161Chapter147ThePrinceSGambits = {
   unit: "words",
   completedAt: "2026-06-29T22:31:24.686Z",
   publishedAt: "2022-06-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/932804/chapter-147-the-princes-gambits",
-  externalId: "932804",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "932804",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/932804/chapter-147-the-princes-gambits",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

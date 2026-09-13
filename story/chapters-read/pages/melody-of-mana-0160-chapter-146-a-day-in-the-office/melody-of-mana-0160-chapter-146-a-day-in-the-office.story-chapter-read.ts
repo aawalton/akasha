@@ -12,9 +12,13 @@ export const melodyOfMana0160Chapter146ADayInTheOffice = {
   unit: "words",
   completedAt: "2026-06-29T22:31:22.591Z",
   publishedAt: "2022-06-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/931317/chapter-146-a-day-in-the-office",
-  externalId: "931317",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "931317",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/931317/chapter-146-a-day-in-the-office",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

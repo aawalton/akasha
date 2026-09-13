@@ -12,9 +12,13 @@ export const melodyOfMana0021Chapter17EscapeAndSanctuary = {
   unit: "words",
   completedAt: "2026-06-29T22:26:58.764Z",
   publishedAt: "2021-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/709130/chapter-17-escape-and-sanctuary",
-  externalId: "709130",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "709130",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/709130/chapter-17-escape-and-sanctuary",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

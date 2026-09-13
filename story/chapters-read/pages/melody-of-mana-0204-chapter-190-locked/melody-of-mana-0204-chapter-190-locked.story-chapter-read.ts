@@ -12,9 +12,13 @@ export const melodyOfMana0204Chapter190Locked = {
   unit: "words",
   completedAt: "2026-06-29T22:32:52.591Z",
   publishedAt: "2022-11-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1046935/chapter-190-locked",
-  externalId: "1046935",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1046935",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1046935/chapter-190-locked",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const metaworldHopecore0001PrologueIcarus = {
   ownLength: 362,
   unit: "words",
   publishedAt: "2026-05-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364203/prologue-icarus",
-  externalId: "3364203",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3364203",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364203/prologue-icarus",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

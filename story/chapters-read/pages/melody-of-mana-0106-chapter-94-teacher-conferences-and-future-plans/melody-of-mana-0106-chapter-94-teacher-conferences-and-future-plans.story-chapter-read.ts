@@ -12,9 +12,13 @@ export const melodyOfMana0106Chapter94TeacherConferencesAndFuturePlans = {
   unit: "words",
   completedAt: "2026-06-29T22:29:49.588Z",
   publishedAt: "2022-03-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/860865/chapter-94-teacher-conferences-and-future-plans",
-  externalId: "860865",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "860865",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/860865/chapter-94-teacher-conferences-and-future-plans",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

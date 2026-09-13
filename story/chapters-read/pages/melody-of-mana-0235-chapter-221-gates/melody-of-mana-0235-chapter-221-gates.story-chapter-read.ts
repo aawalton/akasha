@@ -12,9 +12,13 @@ export const melodyOfMana0235Chapter221Gates = {
   unit: "words",
   completedAt: "2026-06-29T22:33:56.622Z",
   publishedAt: "2023-03-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1144945/chapter-221-gates",
-  externalId: "1144945",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1144945",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1144945/chapter-221-gates",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

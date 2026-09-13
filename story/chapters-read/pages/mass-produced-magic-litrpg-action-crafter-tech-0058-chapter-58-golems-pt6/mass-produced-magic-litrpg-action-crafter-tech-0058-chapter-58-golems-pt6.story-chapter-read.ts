@@ -10,9 +10,13 @@ export const massProducedMagicLitrpgActionCrafterTech0058Chapter58GolemsPt6 = {
   ownLength: 1542,
   unit: "words",
   publishedAt: "2025-02-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2065495/chapter-58-golems-pt6",
-  externalId: "2065495",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2065495",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2065495/chapter-58-golems-pt6",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

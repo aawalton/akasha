@@ -12,9 +12,13 @@ export const melodyOfMana0020SideStory4JohnTheFuryOfTheDowntrodden = {
   unit: "words",
   completedAt: "2026-06-29T22:26:56.672Z",
   publishedAt: "2021-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/708770/side-story-4-john-the-fury-of-the-downtrodden",
-  externalId: "708770",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "708770",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/708770/side-story-4-john-the-fury-of-the-downtrodden",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const metaworldHopecore0019Chapter10Changes2 = {
   ownLength: 2223,
   unit: "words",
   publishedAt: "2026-05-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364727/chapter-10-changes-2",
-  externalId: "3364727",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3364727",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364727/chapter-10-changes-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

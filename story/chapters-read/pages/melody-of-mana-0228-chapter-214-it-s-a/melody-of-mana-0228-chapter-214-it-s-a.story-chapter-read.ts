@@ -12,9 +12,13 @@ export const melodyOfMana0228Chapter214ItSA = {
   unit: "words",
   completedAt: "2026-06-29T22:33:42.420Z",
   publishedAt: "2023-02-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1122594/chapter-214-its-a",
-  externalId: "1122594",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1122594",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1122594/chapter-214-its-a",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0293Chapter278SomeLowKeyRacism = {
   unit: "words",
   completedAt: "2026-06-29T22:35:57.045Z",
   publishedAt: "2023-10-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1384658/chapter-278-some-low-key-racism",
-  externalId: "1384658",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1384658",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1384658/chapter-278-some-low-key-racism",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

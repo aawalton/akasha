@@ -12,9 +12,13 @@ export const melodyOfMana0188Chapter174TheFall = {
   unit: "words",
   completedAt: "2026-06-29T22:32:19.828Z",
   publishedAt: "2022-09-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1003494/chapter-174-the-fall",
-  externalId: "1003494",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1003494",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1003494/chapter-174-the-fall",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

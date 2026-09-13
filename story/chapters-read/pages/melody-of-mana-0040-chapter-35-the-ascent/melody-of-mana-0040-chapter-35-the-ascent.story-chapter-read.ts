@@ -12,9 +12,13 @@ export const melodyOfMana0040Chapter35TheAscent = {
   unit: "words",
   completedAt: "2026-06-29T22:27:35.651Z",
   publishedAt: "2021-08-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/727603/chapter-35-the-ascent",
-  externalId: "727603",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "727603",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/727603/chapter-35-the-ascent",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0033Chapter28ShoesHoesAndAYoungMage = {
   unit: "words",
   completedAt: "2026-06-29T22:27:22.451Z",
   publishedAt: "2021-07-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/719765/chapter-28-shoes-hoes-and-a-young-mage",
-  externalId: "719765",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "719765",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/719765/chapter-28-shoes-hoes-and-a-young-mage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

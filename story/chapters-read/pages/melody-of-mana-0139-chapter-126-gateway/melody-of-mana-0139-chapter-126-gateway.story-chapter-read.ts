@@ -12,9 +12,13 @@ export const melodyOfMana0139Chapter126Gateway = {
   unit: "words",
   completedAt: "2026-06-29T22:30:38.875Z",
   publishedAt: "2022-04-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/897306/chapter-126-gateway",
-  externalId: "897306",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "897306",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/897306/chapter-126-gateway",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0105Chapter93ThoseWhoShowUp = {
   unit: "words",
   completedAt: "2026-06-29T22:29:47.674Z",
   publishedAt: "2022-03-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/858252/chapter-93-those-who-show-up",
-  externalId: "858252",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "858252",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/858252/chapter-93-those-who-show-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

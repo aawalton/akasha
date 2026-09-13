@@ -12,9 +12,13 @@ export const melodyOfMana0144Chapter131Breakups = {
   unit: "words",
   completedAt: "2026-06-29T22:30:49.375Z",
   publishedAt: "2022-05-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/900070/chapter-131-breakups",
-  externalId: "900070",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "900070",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/900070/chapter-131-breakups",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

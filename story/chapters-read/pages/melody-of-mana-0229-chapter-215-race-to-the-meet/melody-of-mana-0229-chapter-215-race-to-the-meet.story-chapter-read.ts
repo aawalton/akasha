@@ -12,9 +12,13 @@ export const melodyOfMana0229Chapter215RaceToTheMeet = {
   unit: "words",
   completedAt: "2026-06-29T22:33:44.415Z",
   publishedAt: "2023-02-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1125562/chapter-215-race-to-the-meet",
-  externalId: "1125562",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1125562",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1125562/chapter-215-race-to-the-meet",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

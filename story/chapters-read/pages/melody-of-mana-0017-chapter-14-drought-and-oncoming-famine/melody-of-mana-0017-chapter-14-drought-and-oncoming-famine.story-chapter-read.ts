@@ -12,9 +12,13 @@ export const melodyOfMana0017Chapter14DroughtAndOncomingFamine = {
   unit: "words",
   completedAt: "2026-06-29T22:26:50.562Z",
   publishedAt: "2021-06-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/707649/chapter-14-drought-and-oncoming-famine",
-  externalId: "707649",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "707649",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/707649/chapter-14-drought-and-oncoming-famine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

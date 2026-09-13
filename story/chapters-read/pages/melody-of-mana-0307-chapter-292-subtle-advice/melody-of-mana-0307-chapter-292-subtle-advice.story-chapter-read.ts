@@ -12,9 +12,13 @@ export const melodyOfMana0307Chapter292SubtleAdvice = {
   unit: "words",
   completedAt: "2026-06-29T22:36:25.676Z",
   publishedAt: "2023-12-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1441489/chapter-292-subtle-advice",
-  externalId: "1441489",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1441489",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1441489/chapter-292-subtle-advice",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0314Chapter299Homeward = {
   unit: "words",
   completedAt: "2026-06-29T22:36:39.439Z",
   publishedAt: "2024-01-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1487924/chapter-299-homeward",
-  externalId: "1487924",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1487924",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1487924/chapter-299-homeward",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

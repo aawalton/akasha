@@ -11,8 +11,13 @@ export const melodyOfMana0317Epilogue2 = {
   ownProgress: 313,
   unit: "words",
   publishedAt: "2024-01-27",
-  externalLink: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1496406/epilogue-2",
-  externalId: "1496406",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1496406",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1496406/epilogue-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

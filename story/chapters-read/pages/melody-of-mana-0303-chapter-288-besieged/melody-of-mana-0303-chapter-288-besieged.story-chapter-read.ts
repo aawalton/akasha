@@ -12,9 +12,13 @@ export const melodyOfMana0303Chapter288Besieged = {
   unit: "words",
   completedAt: "2026-06-29T22:36:17.190Z",
   publishedAt: "2023-11-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1425874/chapter-288-besieged",
-  externalId: "1425874",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1425874",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1425874/chapter-288-besieged",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

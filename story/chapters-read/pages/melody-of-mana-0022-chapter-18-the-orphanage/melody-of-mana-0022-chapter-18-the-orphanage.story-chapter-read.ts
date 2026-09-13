@@ -12,9 +12,13 @@ export const melodyOfMana0022Chapter18TheOrphanage = {
   unit: "words",
   completedAt: "2026-06-29T22:27:00.664Z",
   publishedAt: "2021-07-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/709777/chapter-18-the-orphanage",
-  externalId: "709777",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "709777",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/709777/chapter-18-the-orphanage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

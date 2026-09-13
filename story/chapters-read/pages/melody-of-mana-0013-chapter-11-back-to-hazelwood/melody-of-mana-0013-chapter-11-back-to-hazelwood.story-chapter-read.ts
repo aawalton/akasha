@@ -12,9 +12,13 @@ export const melodyOfMana0013Chapter11BackToHazelwood = {
   unit: "words",
   completedAt: "2026-06-29T22:26:41.766Z",
   publishedAt: "2021-06-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/706269/chapter-11-back-to-hazelwood",
-  externalId: "706269",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "706269",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/706269/chapter-11-back-to-hazelwood",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

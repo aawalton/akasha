@@ -12,9 +12,13 @@ export const melodyOfMana0278264NegotiationsBegin = {
   unit: "words",
   completedAt: "2026-06-29T22:35:26.178Z",
   publishedAt: "2023-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1330381/264-negotiations-begin",
-  externalId: "1330381",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1330381",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1330381/264-negotiations-begin",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0012Chapter10Desperation = {
   unit: "words",
   completedAt: "2026-06-29T22:26:39.644Z",
   publishedAt: "2021-06-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/705889/chapter-10-desperation",
-  externalId: "705889",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "705889",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/705889/chapter-10-desperation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

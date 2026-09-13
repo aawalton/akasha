@@ -12,9 +12,13 @@ export const melodyOfMana0313Chapter298AtriumBattle = {
   unit: "words",
   completedAt: "2026-06-29T22:36:37.431Z",
   publishedAt: "2024-01-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1481241/chapter-298-atrium-battle",
-  externalId: "1481241",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1481241",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1481241/chapter-298-atrium-battle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0073Chapter63TakingTheExam = {
   unit: "words",
   completedAt: "2026-06-29T22:28:43.161Z",
   publishedAt: "2021-11-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/792823/chapter-63-taking-the-exam",
-  externalId: "792823",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "792823",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/792823/chapter-63-taking-the-exam",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

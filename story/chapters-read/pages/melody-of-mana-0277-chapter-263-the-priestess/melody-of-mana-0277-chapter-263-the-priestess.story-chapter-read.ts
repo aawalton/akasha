@@ -12,9 +12,13 @@ export const melodyOfMana0277Chapter263ThePriestess = {
   unit: "words",
   completedAt: "2026-06-29T22:35:24.083Z",
   publishedAt: "2023-08-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1326596/chapter-263-the-priestess",
-  externalId: "1326596",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1326596",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1326596/chapter-263-the-priestess",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0192Chapter178TheAncient = {
   unit: "words",
   completedAt: "2026-06-29T22:32:27.888Z",
   publishedAt: "2022-10-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1013764/chapter-178-the-ancient",
-  externalId: "1013764",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1013764",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1013764/chapter-178-the-ancient",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

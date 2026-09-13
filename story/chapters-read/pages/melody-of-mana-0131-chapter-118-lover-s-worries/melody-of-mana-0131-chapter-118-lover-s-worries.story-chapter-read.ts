@@ -12,9 +12,13 @@ export const melodyOfMana0131Chapter118LoverSWorries = {
   unit: "words",
   completedAt: "2026-06-29T22:36:54.243Z",
   publishedAt: "2022-04-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/886032/chapter-118-lovers-worries",
-  externalId: "886032",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "886032",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/886032/chapter-118-lovers-worries",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

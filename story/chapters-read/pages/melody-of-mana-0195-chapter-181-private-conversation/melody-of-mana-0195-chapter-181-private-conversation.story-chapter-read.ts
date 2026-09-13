@@ -12,9 +12,13 @@ export const melodyOfMana0195Chapter181PrivateConversation = {
   unit: "words",
   completedAt: "2026-06-29T22:32:34.077Z",
   publishedAt: "2022-10-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1021410/chapter-181-private-conversation",
-  externalId: "1021410",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1021410",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1021410/chapter-181-private-conversation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

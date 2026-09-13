@@ -10,9 +10,13 @@ export const metaworldHopecore0036Chapter19LadyStardust2 = {
   ownLength: 3636,
   unit: "words",
   publishedAt: "2026-05-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368891/chapter-19-lady-stardust-2",
-  externalId: "3368891",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3368891",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368891/chapter-19-lady-stardust-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0184Chapter170ExploringTheRuin = {
   unit: "words",
   completedAt: "2026-06-29T22:32:11.954Z",
   publishedAt: "2022-09-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/994265/chapter-170-exploring-the-ruin",
-  externalId: "994265",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "994265",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/994265/chapter-170-exploring-the-ruin",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

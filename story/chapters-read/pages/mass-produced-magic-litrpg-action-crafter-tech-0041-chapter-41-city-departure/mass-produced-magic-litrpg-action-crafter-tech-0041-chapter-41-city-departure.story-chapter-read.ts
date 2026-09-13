@@ -10,9 +10,13 @@ export const massProducedMagicLitrpgActionCrafterTech0041Chapter41CityDeparture 
   ownLength: 2002,
   unit: "words",
   publishedAt: "2025-01-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1993862/chapter-41-city-departure",
-  externalId: "1993862",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1993862",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1993862/chapter-41-city-departure",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

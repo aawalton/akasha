@@ -10,9 +10,13 @@ export const metaworldHopecore0027Chapter14ThePretender2 = {
   ownLength: 2148,
   unit: "words",
   publishedAt: "2026-05-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368692/chapter-14-the-pretender-2",
-  externalId: "3368692",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3368692",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368692/chapter-14-the-pretender-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

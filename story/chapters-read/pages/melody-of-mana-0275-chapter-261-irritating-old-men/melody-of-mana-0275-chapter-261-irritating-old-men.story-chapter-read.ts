@@ -12,9 +12,13 @@ export const melodyOfMana0275Chapter261IrritatingOldMen = {
   unit: "words",
   completedAt: "2026-06-29T22:35:19.573Z",
   publishedAt: "2023-08-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1319058/chapter-261-irritating-old-men",
-  externalId: "1319058",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1319058",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1319058/chapter-261-irritating-old-men",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

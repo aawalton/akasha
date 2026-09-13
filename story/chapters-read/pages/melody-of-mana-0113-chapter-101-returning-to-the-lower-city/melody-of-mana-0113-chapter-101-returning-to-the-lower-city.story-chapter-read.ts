@@ -12,9 +12,13 @@ export const melodyOfMana0113Chapter101ReturningToTheLowerCity = {
   unit: "words",
   completedAt: "2026-06-29T22:30:02.402Z",
   publishedAt: "2022-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/875702/chapter-101-returning-to-the-lower-city",
-  externalId: "875702",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "875702",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/875702/chapter-101-returning-to-the-lower-city",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

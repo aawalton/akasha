@@ -12,9 +12,13 @@ export const melodyOfMana0210Chapter196ANightIn = {
   unit: "words",
   completedAt: "2026-06-29T22:33:04.966Z",
   publishedAt: "2022-12-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1062940/chapter-196-a-night-in",
-  externalId: "1062940",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1062940",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1062940/chapter-196-a-night-in",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0241Chapter227FlirtingAndTesting = {
   unit: "words",
   completedAt: "2026-06-29T22:34:09.227Z",
   publishedAt: "2023-04-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1166785/chapter-227-flirting-and-testing",
-  externalId: "1166785",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1166785",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1166785/chapter-227-flirting-and-testing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

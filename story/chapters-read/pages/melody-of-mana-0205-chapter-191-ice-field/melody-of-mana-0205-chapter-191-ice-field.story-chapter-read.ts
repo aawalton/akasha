@@ -12,9 +12,13 @@ export const melodyOfMana0205Chapter191IceField = {
   unit: "words",
   completedAt: "2026-06-29T22:32:54.688Z",
   publishedAt: "2022-11-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1049172/chapter-191-ice-field",
-  externalId: "1049172",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1049172",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1049172/chapter-191-ice-field",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

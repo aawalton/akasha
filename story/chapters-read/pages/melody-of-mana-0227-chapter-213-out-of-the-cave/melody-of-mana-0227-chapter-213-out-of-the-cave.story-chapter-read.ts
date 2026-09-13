@@ -12,9 +12,13 @@ export const melodyOfMana0227Chapter213OutOfTheCave = {
   unit: "words",
   completedAt: "2026-06-29T22:33:40.515Z",
   publishedAt: "2023-02-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1120006/chapter-213-out-of-the-cave",
-  externalId: "1120006",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1120006",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1120006/chapter-213-out-of-the-cave",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

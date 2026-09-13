@@ -10,9 +10,13 @@ export const metaworldHopecore0003Chapter1SomeThingsBeginSomethingsEnd = {
   ownLength: 3139,
   unit: "words",
   publishedAt: "2026-05-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364450/chapter-1-some-things-begin-somethings-end",
-  externalId: "3364450",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3364450",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364450/chapter-1-some-things-begin-somethings-end",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

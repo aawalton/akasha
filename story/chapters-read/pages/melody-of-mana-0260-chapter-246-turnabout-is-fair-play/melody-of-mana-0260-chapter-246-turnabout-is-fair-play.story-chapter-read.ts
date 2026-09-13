@@ -12,9 +12,13 @@ export const melodyOfMana0260Chapter246TurnaboutIsFairPlay = {
   unit: "words",
   completedAt: "2026-06-29T22:34:48.150Z",
   publishedAt: "2023-06-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1248793/chapter-246-turnabout-is-fair-play",
-  externalId: "1248793",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1248793",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1248793/chapter-246-turnabout-is-fair-play",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

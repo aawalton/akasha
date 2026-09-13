@@ -12,9 +12,13 @@ export const melodyOfMana0107Chapter95EmergencyEquipmentAndPineaSScandalousOutfi
   unit: "words",
   completedAt: "2026-06-29T22:29:51.378Z",
   publishedAt: "2022-03-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/862930/chapter-95-emergency-equipment-and-pineas-scandalous",
-  externalId: "862930",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "862930",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/862930/chapter-95-emergency-equipment-and-pineas-scandalous",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

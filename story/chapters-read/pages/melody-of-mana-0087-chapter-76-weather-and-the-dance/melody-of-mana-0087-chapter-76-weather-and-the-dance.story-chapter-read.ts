@@ -12,9 +12,13 @@ export const melodyOfMana0087Chapter76WeatherAndTheDance = {
   unit: "words",
   completedAt: "2026-06-29T22:29:12.445Z",
   publishedAt: "2022-01-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/819869/chapter-76-weather-and-the-dance",
-  externalId: "819869",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "819869",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/819869/chapter-76-weather-and-the-dance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

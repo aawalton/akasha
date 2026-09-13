@@ -12,9 +12,13 @@ export const melodyOfMana0219Chapter205RoadsAndMisdirections = {
   unit: "words",
   completedAt: "2026-06-29T22:33:24.335Z",
   publishedAt: "2023-01-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1096443/chapter-205-roads-and-misdirections",
-  externalId: "1096443",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1096443",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1096443/chapter-205-roads-and-misdirections",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

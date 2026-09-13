@@ -12,9 +12,13 @@ export const melodyOfMana0173Chapter159Arrival = {
   unit: "words",
   completedAt: "2026-06-29T22:31:49.772Z",
   publishedAt: "2022-08-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/962018/chapter-159-arrival",
-  externalId: "962018",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "962018",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/962018/chapter-159-arrival",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0102Chapter90EndelSIdeaOfTherapy = {
   unit: "words",
   completedAt: "2026-06-29T22:29:41.981Z",
   publishedAt: "2022-02-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/848479/chapter-90-endels-idea-of-therapy",
-  externalId: "848479",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "848479",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/848479/chapter-90-endels-idea-of-therapy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

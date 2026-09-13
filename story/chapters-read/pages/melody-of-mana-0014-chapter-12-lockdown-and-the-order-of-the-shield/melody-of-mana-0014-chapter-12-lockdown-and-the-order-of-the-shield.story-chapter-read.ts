@@ -12,9 +12,13 @@ export const melodyOfMana0014Chapter12LockdownAndTheOrderOfTheShield = {
   unit: "words",
   completedAt: "2026-06-29T22:26:44.270Z",
   publishedAt: "2021-06-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/706503/chapter-12-lockdown-and-the-order-of-the-shield",
-  externalId: "706503",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "706503",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/706503/chapter-12-lockdown-and-the-order-of-the-shield",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

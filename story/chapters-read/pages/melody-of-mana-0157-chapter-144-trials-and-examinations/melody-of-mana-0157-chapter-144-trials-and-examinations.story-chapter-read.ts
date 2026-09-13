@@ -12,9 +12,13 @@ export const melodyOfMana0157Chapter144TrialsAndExaminations = {
   unit: "words",
   completedAt: "2026-06-29T22:31:16.340Z",
   publishedAt: "2022-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/924438/chapter-144-trials-and-examinations",
-  externalId: "924438",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "924438",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/924438/chapter-144-trials-and-examinations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

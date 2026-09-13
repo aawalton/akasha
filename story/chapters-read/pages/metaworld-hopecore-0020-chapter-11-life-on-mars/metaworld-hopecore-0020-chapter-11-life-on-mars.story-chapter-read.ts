@@ -10,9 +10,13 @@ export const metaworldHopecore0020Chapter11LifeOnMars = {
   ownLength: 2292,
   unit: "words",
   publishedAt: "2026-05-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3366438/chapter-11-life-on-mars",
-  externalId: "3366438",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3366438",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3366438/chapter-11-life-on-mars",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

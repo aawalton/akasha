@@ -12,9 +12,13 @@ export const melodyOfMana0285Chapter271TyingTheKnot = {
   unit: "words",
   completedAt: "2026-06-29T22:35:40.398Z",
   publishedAt: "2023-09-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1355706/chapter-271-tying-the-knot",
-  externalId: "1355706",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1355706",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1355706/chapter-271-tying-the-knot",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

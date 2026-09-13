@@ -12,9 +12,13 @@ export const melodyOfMana0191Chapter177TheCrater = {
   unit: "words",
   completedAt: "2026-06-29T22:32:25.768Z",
   publishedAt: "2022-10-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1011159/chapter-177-the-crater",
-  externalId: "1011159",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1011159",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1011159/chapter-177-the-crater",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

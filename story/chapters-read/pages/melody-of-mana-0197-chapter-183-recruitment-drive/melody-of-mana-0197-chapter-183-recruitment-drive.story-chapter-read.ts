@@ -12,9 +12,13 @@ export const melodyOfMana0197Chapter183RecruitmentDrive = {
   unit: "words",
   completedAt: "2026-06-29T22:32:38.170Z",
   publishedAt: "2022-10-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1026490/chapter-183-recruitment-drive",
-  externalId: "1026490",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1026490",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1026490/chapter-183-recruitment-drive",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

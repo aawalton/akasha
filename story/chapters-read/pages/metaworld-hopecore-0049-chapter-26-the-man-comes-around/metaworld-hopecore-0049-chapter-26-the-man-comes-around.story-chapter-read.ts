@@ -10,9 +10,13 @@ export const metaworldHopecore0049Chapter26TheManComesAround = {
   ownLength: 2343,
   unit: "words",
   publishedAt: "2026-05-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3373914/chapter-26-the-man-comes-around",
-  externalId: "3373914",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3373914",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3373914/chapter-26-the-man-comes-around",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

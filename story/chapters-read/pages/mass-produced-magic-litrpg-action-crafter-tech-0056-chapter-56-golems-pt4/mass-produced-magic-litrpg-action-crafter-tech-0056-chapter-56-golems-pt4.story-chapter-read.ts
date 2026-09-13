@@ -10,9 +10,13 @@ export const massProducedMagicLitrpgActionCrafterTech0056Chapter56GolemsPt4 = {
   ownLength: 1813,
   unit: "words",
   publishedAt: "2025-02-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2055870/chapter-56-golems-pt4",
-  externalId: "2055870",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2055870",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2055870/chapter-56-golems-pt4",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

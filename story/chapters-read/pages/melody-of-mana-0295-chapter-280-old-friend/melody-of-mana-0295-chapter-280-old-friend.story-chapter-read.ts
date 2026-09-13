@@ -12,9 +12,13 @@ export const melodyOfMana0295Chapter280OldFriend = {
   unit: "words",
   completedAt: "2026-06-29T22:36:00.720Z",
   publishedAt: "2023-10-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1392063/chapter-280-old-friend",
-  externalId: "1392063",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1392063",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1392063/chapter-280-old-friend",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

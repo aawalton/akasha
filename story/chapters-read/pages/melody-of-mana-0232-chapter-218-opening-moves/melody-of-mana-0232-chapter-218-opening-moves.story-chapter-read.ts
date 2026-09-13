@@ -12,9 +12,13 @@ export const melodyOfMana0232Chapter218OpeningMoves = {
   unit: "words",
   completedAt: "2026-06-29T22:33:50.665Z",
   publishedAt: "2023-03-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1134635/chapter-218-opening-moves",
-  externalId: "1134635",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1134635",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1134635/chapter-218-opening-moves",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

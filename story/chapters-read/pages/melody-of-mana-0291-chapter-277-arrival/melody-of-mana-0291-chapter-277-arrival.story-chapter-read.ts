@@ -12,9 +12,13 @@ export const melodyOfMana0291Chapter277Arrival = {
   unit: "words",
   completedAt: "2026-06-29T22:35:52.815Z",
   publishedAt: "2023-10-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1379326/chapter-277-arrival",
-  externalId: "1379326",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1379326",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1379326/chapter-277-arrival",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

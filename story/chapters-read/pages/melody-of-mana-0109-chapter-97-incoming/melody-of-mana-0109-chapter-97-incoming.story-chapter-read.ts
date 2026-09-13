@@ -12,9 +12,13 @@ export const melodyOfMana0109Chapter97Incoming = {
   unit: "words",
   completedAt: "2026-06-29T22:29:55.125Z",
   publishedAt: "2022-03-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/866800/chapter-97-incoming",
-  externalId: "866800",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "866800",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/866800/chapter-97-incoming",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

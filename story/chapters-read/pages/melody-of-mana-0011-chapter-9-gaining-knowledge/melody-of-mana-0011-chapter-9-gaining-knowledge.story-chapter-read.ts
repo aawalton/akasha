@@ -12,9 +12,13 @@ export const melodyOfMana0011Chapter9GainingKnowledge = {
   unit: "words",
   completedAt: "2026-06-29T22:26:37.569Z",
   publishedAt: "2021-06-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/705322/chapter-9-gaining-knowledge",
-  externalId: "705322",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "705322",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/705322/chapter-9-gaining-knowledge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

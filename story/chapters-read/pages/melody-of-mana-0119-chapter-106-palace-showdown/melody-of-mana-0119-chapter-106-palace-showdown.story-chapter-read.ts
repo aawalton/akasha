@@ -12,9 +12,13 @@ export const melodyOfMana0119Chapter106PalaceShowdown = {
   unit: "words",
   completedAt: "2026-06-29T22:30:14.049Z",
   publishedAt: "2022-04-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/881994/chapter-106-palace-showdown",
-  externalId: "881994",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "881994",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/881994/chapter-106-palace-showdown",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

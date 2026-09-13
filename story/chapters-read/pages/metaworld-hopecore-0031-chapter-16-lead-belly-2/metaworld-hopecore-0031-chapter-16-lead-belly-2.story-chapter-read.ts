@@ -10,9 +10,13 @@ export const metaworldHopecore0031Chapter16LeadBelly2 = {
   ownLength: 2610,
   unit: "words",
   publishedAt: "2026-05-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368811/chapter-16-lead-belly-2",
-  externalId: "3368811",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3368811",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368811/chapter-16-lead-belly-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

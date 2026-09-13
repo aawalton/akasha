@@ -12,9 +12,13 @@ export const melodyOfMana0208Chapter194SaunaRuminations = {
   unit: "words",
   completedAt: "2026-06-29T22:33:00.758Z",
   publishedAt: "2022-12-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1057545/chapter-194-sauna-ruminations",
-  externalId: "1057545",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1057545",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1057545/chapter-194-sauna-ruminations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

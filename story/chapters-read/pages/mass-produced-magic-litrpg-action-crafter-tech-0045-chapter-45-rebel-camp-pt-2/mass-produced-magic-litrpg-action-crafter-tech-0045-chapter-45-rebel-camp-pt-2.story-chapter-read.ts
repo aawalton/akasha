@@ -10,9 +10,13 @@ export const massProducedMagicLitrpgActionCrafterTech0045Chapter45RebelCampPt2 =
   ownLength: 1996,
   unit: "words",
   publishedAt: "2025-01-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2006500/chapter-45-rebel-camp-pt-2",
-  externalId: "2006500",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2006500",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2006500/chapter-45-rebel-camp-pt-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

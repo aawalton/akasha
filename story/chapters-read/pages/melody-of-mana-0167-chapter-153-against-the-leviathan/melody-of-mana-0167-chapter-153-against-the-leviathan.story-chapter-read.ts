@@ -12,9 +12,13 @@ export const melodyOfMana0167Chapter153AgainstTheLeviathan = {
   unit: "words",
   completedAt: "2026-06-29T22:31:37.143Z",
   publishedAt: "2022-07-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/947365/chapter-153-against-the-leviathan",
-  externalId: "947365",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "947365",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/947365/chapter-153-against-the-leviathan",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0273Chapter259BitOfAChat = {
   unit: "words",
   completedAt: "2026-06-29T22:35:15.270Z",
   publishedAt: "2023-08-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1311896/chapter-259-bit-of-a-chat",
-  externalId: "1311896",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1311896",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1311896/chapter-259-bit-of-a-chat",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

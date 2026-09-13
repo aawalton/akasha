@@ -12,9 +12,13 @@ export const melodyOfMana0176Chapter162ObviousHints = {
   unit: "words",
   completedAt: "2026-06-29T22:31:56.098Z",
   publishedAt: "2022-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/973175/chapter-162-obvious-hints",
-  externalId: "973175",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "973175",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/973175/chapter-162-obvious-hints",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

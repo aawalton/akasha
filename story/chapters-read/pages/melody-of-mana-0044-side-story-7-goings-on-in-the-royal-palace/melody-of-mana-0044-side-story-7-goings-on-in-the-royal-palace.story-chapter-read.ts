@@ -12,9 +12,13 @@ export const melodyOfMana0044SideStory7GoingsOnInTheRoyalPalace = {
   unit: "words",
   completedAt: "2026-06-29T22:27:43.353Z",
   publishedAt: "2021-08-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/735692/side-story-7-goings-on-in-the-royal-palace",
-  externalId: "735692",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "735692",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/735692/side-story-7-goings-on-in-the-royal-palace",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

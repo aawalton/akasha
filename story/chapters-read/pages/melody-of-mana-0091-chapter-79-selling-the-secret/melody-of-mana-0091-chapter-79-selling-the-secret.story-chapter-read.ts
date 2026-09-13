@@ -12,9 +12,13 @@ export const melodyOfMana0091Chapter79SellingTheSecret = {
   unit: "words",
   completedAt: "2026-06-29T22:29:20.656Z",
   publishedAt: "2022-01-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/825217/chapter-79-selling-the-secret",
-  externalId: "825217",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "825217",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/825217/chapter-79-selling-the-secret",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0196Chapter182DeliveringTheNews = {
   unit: "words",
   completedAt: "2026-06-29T22:32:36.155Z",
   publishedAt: "2022-10-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1024121/chapter-182-delivering-the-news",
-  externalId: "1024121",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1024121",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1024121/chapter-182-delivering-the-news",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0053Chapter46ConferenceAndStudy = {
   unit: "words",
   completedAt: "2026-06-29T22:28:01.656Z",
   publishedAt: "2021-09-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/754496/chapter-46-conference-and-study",
-  externalId: "754496",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "754496",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/754496/chapter-46-conference-and-study",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

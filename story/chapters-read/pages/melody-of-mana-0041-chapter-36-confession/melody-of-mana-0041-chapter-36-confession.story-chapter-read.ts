@@ -12,9 +12,13 @@ export const melodyOfMana0041Chapter36Confession = {
   unit: "words",
   completedAt: "2026-06-29T22:27:37.570Z",
   publishedAt: "2021-08-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/728391/chapter-36-confession",
-  externalId: "728391",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "728391",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/728391/chapter-36-confession",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

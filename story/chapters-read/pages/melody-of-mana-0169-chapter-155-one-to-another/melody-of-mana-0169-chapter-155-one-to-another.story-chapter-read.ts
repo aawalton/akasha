@@ -12,9 +12,13 @@ export const melodyOfMana0169Chapter155OneToAnother = {
   unit: "words",
   completedAt: "2026-06-29T22:31:41.460Z",
   publishedAt: "2022-07-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/952268/chapter-155-one-to-another",
-  externalId: "952268",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "952268",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/952268/chapter-155-one-to-another",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0261Chapter247RebelBase = {
   unit: "words",
   completedAt: "2026-06-29T22:34:50.174Z",
   publishedAt: "2023-06-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1252769/chapter-247-rebel-base",
-  externalId: "1252769",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1252769",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1252769/chapter-247-rebel-base",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0048Chapter41ClothesAndMarks = {
   unit: "words",
   completedAt: "2026-06-29T22:27:51.180Z",
   publishedAt: "2021-09-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/744501/chapter-41-clothes-and-marks",
-  externalId: "744501",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "744501",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/744501/chapter-41-clothes-and-marks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0137Chapter124WeddingPlans = {
   unit: "words",
   completedAt: "2026-06-29T22:30:34.707Z",
   publishedAt: "2022-04-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/894858/chapter-124-wedding-plans",
-  externalId: "894858",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "894858",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/894858/chapter-124-wedding-plans",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0287Chapter273OneYearOfMarriage = {
   unit: "words",
   completedAt: "2026-06-29T22:35:44.570Z",
   publishedAt: "2023-10-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1362870/chapter-273-one-year-of-marriage",
-  externalId: "1362870",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1362870",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1362870/chapter-273-one-year-of-marriage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

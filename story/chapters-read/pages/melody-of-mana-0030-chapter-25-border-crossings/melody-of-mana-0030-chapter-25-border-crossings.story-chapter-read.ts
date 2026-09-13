@@ -12,9 +12,13 @@ export const melodyOfMana0030Chapter25BorderCrossings = {
   unit: "words",
   completedAt: "2026-06-29T22:27:16.744Z",
   publishedAt: "2021-07-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/716732/chapter-25-border-crossings",
-  externalId: "716732",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "716732",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/716732/chapter-25-border-crossings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

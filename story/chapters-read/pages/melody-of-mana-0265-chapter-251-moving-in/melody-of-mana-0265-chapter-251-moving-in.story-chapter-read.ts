@@ -12,9 +12,13 @@ export const melodyOfMana0265Chapter251MovingIn = {
   unit: "words",
   completedAt: "2026-06-29T22:34:58.507Z",
   publishedAt: "2023-07-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1270655/chapter-251-moving-in",
-  externalId: "1270655",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1270655",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1270655/chapter-251-moving-in",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

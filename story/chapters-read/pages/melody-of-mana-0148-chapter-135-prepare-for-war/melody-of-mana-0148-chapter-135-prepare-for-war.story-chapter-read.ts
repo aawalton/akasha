@@ -12,9 +12,13 @@ export const melodyOfMana0148Chapter135PrepareForWar = {
   unit: "words",
   completedAt: "2026-06-29T22:30:57.434Z",
   publishedAt: "2022-05-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/904753/chapter-135-prepare-for-war",
-  externalId: "904753",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "904753",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/904753/chapter-135-prepare-for-war",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

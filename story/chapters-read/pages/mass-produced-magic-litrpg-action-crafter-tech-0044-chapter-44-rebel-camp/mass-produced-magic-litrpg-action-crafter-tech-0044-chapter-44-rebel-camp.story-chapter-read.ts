@@ -10,9 +10,13 @@ export const massProducedMagicLitrpgActionCrafterTech0044Chapter44RebelCamp = {
   ownLength: 1883,
   unit: "words",
   publishedAt: "2025-01-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2005055/chapter-44-rebel-camp",
-  externalId: "2005055",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2005055",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2005055/chapter-44-rebel-camp",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

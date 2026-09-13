@@ -12,9 +12,13 @@ export const melodyOfMana0146133InterrogationPinea = {
   unit: "words",
   completedAt: "2026-06-29T22:30:53.579Z",
   publishedAt: "2022-05-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/900529/133-interrogation-pinea",
-  externalId: "900529",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "900529",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/900529/133-interrogation-pinea",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

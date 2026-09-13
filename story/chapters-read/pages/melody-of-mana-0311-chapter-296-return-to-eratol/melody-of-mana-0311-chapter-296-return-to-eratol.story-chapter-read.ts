@@ -12,9 +12,13 @@ export const melodyOfMana0311Chapter296ReturnToEratol = {
   unit: "words",
   completedAt: "2026-06-29T22:36:33.476Z",
   publishedAt: "2024-01-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1471924/chapter-296-return-to-eratol",
-  externalId: "1471924",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1471924",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1471924/chapter-296-return-to-eratol",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

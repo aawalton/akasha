@@ -12,9 +12,13 @@ export const melodyOfMana0262Chapter248GoodbyePrincess = {
   unit: "words",
   completedAt: "2026-06-29T22:34:52.255Z",
   publishedAt: "2023-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1256118/chapter-248-goodbye-princess",
-  externalId: "1256118",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1256118",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1256118/chapter-248-goodbye-princess",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

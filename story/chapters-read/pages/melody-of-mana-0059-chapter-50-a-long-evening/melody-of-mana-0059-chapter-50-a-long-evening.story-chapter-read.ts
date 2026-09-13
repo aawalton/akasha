@@ -12,9 +12,13 @@ export const melodyOfMana0059Chapter50ALongEvening = {
   unit: "words",
   completedAt: "2026-06-29T22:28:13.752Z",
   publishedAt: "2021-10-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/763448/chapter-50-a-long-evening",
-  externalId: "763448",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "763448",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/763448/chapter-50-a-long-evening",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

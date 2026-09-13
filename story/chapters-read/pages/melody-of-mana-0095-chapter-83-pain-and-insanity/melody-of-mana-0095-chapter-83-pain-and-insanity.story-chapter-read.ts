@@ -12,9 +12,13 @@ export const melodyOfMana0095Chapter83PainAndInsanity = {
   unit: "words",
   completedAt: "2026-06-29T22:29:28.842Z",
   publishedAt: "2022-01-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/833411/chapter-83-pain-and-insanity",
-  externalId: "833411",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "833411",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/833411/chapter-83-pain-and-insanity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0154Chapter141GraduationAndGardenTalks = {
   unit: "words",
   completedAt: "2026-06-29T22:31:09.953Z",
   publishedAt: "2022-05-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/917830/chapter-141-graduation-and-garden-talks",
-  externalId: "917830",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "917830",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/917830/chapter-141-graduation-and-garden-talks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

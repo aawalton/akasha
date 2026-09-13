@@ -12,9 +12,13 @@ export const melodyOfMana0255Chapter241Eclipse = {
   unit: "words",
   completedAt: "2026-06-29T22:34:37.832Z",
   publishedAt: "2023-05-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1229957/chapter-241-eclipse",
-  externalId: "1229957",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1229957",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1229957/chapter-241-eclipse",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

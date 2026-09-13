@@ -12,9 +12,13 @@ export const melodyOfMana0026Chapter22WorkAndTraining = {
   unit: "words",
   completedAt: "2026-06-29T22:27:09.202Z",
   publishedAt: "2021-07-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/712841/chapter-22-work-and-training",
-  externalId: "712841",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "712841",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/712841/chapter-22-work-and-training",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

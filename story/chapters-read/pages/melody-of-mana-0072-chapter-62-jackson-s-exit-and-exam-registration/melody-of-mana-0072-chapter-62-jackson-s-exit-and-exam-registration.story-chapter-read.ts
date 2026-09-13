@@ -12,9 +12,13 @@ export const melodyOfMana0072Chapter62JacksonSExitAndExamRegistration = {
   unit: "words",
   completedAt: "2026-06-29T22:28:41.065Z",
   publishedAt: "2021-11-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/790210/chapter-62-jacksons-exit-and-exam-registration",
-  externalId: "790210",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "790210",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/790210/chapter-62-jacksons-exit-and-exam-registration",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

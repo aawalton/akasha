@@ -12,9 +12,13 @@ export const melodyOfMana0074Chapter64AnnouncementsPartiesAndLetters = {
   unit: "words",
   completedAt: "2026-06-29T22:28:45.256Z",
   publishedAt: "2021-11-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/794669/chapter-64-announcements-parties-and-letters",
-  externalId: "794669",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "794669",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/794669/chapter-64-announcements-parties-and-letters",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0286Chapter272Honeymoon = {
   unit: "words",
   completedAt: "2026-06-29T22:35:42.568Z",
   publishedAt: "2023-09-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1359066/chapter-272-honeymoon",
-  externalId: "1359066",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1359066",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1359066/chapter-272-honeymoon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

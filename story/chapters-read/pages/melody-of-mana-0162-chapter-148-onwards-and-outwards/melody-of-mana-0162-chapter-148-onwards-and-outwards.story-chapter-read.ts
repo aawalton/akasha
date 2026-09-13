@@ -12,9 +12,13 @@ export const melodyOfMana0162Chapter148OnwardsAndOutwards = {
   unit: "words",
   completedAt: "2026-06-29T22:31:26.762Z",
   publishedAt: "2022-06-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/935024/chapter-148-onwards-and-outwards",
-  externalId: "935024",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "935024",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/935024/chapter-148-onwards-and-outwards",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

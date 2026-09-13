@@ -12,9 +12,13 @@ export const melodyOfMana0002Chapter2Reborn = {
   unit: "words",
   completedAt: "2026-06-29T22:26:17.987Z",
   publishedAt: "2021-06-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/699299/chapter-2-reborn",
-  externalId: "699299",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "699299",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/699299/chapter-2-reborn",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

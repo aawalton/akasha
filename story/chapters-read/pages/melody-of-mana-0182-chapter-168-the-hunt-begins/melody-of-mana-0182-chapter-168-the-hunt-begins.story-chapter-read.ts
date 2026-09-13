@@ -12,9 +12,13 @@ export const melodyOfMana0182Chapter168TheHuntBegins = {
   unit: "words",
   completedAt: "2026-06-29T22:32:08.043Z",
   publishedAt: "2022-09-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/987984/chapter-168-the-hunt-begins",
-  externalId: "987984",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "987984",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/987984/chapter-168-the-hunt-begins",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

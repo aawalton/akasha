@@ -12,9 +12,13 @@ export const melodyOfMana0194Chapter180RuminationsOfTheMonarch = {
   unit: "words",
   completedAt: "2026-06-29T22:32:31.984Z",
   publishedAt: "2022-10-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1019826/chapter-180-ruminations-of-the-monarch",
-  externalId: "1019826",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1019826",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1019826/chapter-180-ruminations-of-the-monarch",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

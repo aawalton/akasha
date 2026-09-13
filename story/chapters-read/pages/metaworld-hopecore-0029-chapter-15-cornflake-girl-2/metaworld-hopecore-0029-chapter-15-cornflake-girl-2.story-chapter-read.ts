@@ -10,9 +10,13 @@ export const metaworldHopecore0029Chapter15CornflakeGirl2 = {
   ownLength: 2360,
   unit: "words",
   publishedAt: "2026-05-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368733/chapter-15-cornflake-girl-2",
-  externalId: "3368733",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3368733",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368733/chapter-15-cornflake-girl-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

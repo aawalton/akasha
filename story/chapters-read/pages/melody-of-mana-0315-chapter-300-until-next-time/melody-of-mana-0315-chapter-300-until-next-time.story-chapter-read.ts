@@ -12,9 +12,13 @@ export const melodyOfMana0315Chapter300UntilNextTime = {
   unit: "words",
   completedAt: "2026-06-29T22:36:41.502Z",
   publishedAt: "2024-01-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1492712/chapter-300-until-next-time",
-  externalId: "1492712",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1492712",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1492712/chapter-300-until-next-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

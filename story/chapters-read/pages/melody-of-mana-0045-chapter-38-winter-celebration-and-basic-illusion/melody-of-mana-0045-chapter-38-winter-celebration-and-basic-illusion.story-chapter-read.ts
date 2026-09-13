@@ -12,9 +12,13 @@ export const melodyOfMana0045Chapter38WinterCelebrationAndBasicIllusion = {
   unit: "words",
   completedAt: "2026-06-29T22:27:45.379Z",
   publishedAt: "2021-08-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/738974/chapter-38-winter-celebration-and-basic-illusion",
-  externalId: "738974",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "738974",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/738974/chapter-38-winter-celebration-and-basic-illusion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

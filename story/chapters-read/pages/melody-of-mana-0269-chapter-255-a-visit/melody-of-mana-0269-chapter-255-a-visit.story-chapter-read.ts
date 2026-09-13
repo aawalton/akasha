@@ -12,9 +12,13 @@ export const melodyOfMana0269Chapter255AVisit = {
   unit: "words",
   completedAt: "2026-06-29T22:35:06.509Z",
   publishedAt: "2023-07-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1284093/chapter-255-a-visit",
-  externalId: "1284093",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1284093",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1284093/chapter-255-a-visit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

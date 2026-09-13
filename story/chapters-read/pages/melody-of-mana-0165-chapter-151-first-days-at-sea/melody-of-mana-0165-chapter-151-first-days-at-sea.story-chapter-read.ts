@@ -12,9 +12,13 @@ export const melodyOfMana0165Chapter151FirstDaysAtSea = {
   unit: "words",
   completedAt: "2026-06-29T22:31:33.133Z",
   publishedAt: "2022-07-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/942600/chapter-151-first-days-at-sea",
-  externalId: "942600",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "942600",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/942600/chapter-151-first-days-at-sea",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

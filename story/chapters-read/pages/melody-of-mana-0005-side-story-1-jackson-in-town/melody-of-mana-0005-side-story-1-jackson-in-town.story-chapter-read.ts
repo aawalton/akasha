@@ -12,9 +12,13 @@ export const melodyOfMana0005SideStory1JacksonInTown = {
   unit: "words",
   completedAt: "2026-06-29T22:26:24.650Z",
   publishedAt: "2021-06-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/701187/side-story-1-jackson-in-town",
-  externalId: "701187",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "701187",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/701187/side-story-1-jackson-in-town",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

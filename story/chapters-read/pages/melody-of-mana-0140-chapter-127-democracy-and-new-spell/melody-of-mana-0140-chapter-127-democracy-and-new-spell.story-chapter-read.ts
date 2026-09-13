@@ -12,9 +12,13 @@ export const melodyOfMana0140Chapter127DemocracyAndNewSpell = {
   unit: "words",
   completedAt: "2026-06-29T22:30:40.949Z",
   publishedAt: "2022-05-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/897977/chapter-127-democracy-and-new-spell",
-  externalId: "897977",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "897977",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/897977/chapter-127-democracy-and-new-spell",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

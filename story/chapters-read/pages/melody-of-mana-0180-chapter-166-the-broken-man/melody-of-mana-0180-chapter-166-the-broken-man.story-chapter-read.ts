@@ -12,9 +12,13 @@ export const melodyOfMana0180Chapter166TheBrokenMan = {
   unit: "words",
   completedAt: "2026-06-29T22:32:04.120Z",
   publishedAt: "2022-08-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/983186/chapter-166-the-broken-man",
-  externalId: "983186",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "983186",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/983186/chapter-166-the-broken-man",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

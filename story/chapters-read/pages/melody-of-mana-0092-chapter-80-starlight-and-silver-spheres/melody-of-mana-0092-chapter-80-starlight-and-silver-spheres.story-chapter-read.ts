@@ -12,9 +12,13 @@ export const melodyOfMana0092Chapter80StarlightAndSilverSpheres = {
   unit: "words",
   completedAt: "2026-06-29T22:29:22.748Z",
   publishedAt: "2022-01-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/827019/chapter-80-starlight-and-silver-spheres",
-  externalId: "827019",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "827019",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/827019/chapter-80-starlight-and-silver-spheres",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

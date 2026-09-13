@@ -10,9 +10,13 @@ export const metaworldHopecore0025Chapter13StarryStarryNight2 = {
   ownLength: 1577,
   unit: "words",
   publishedAt: "2026-05-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368654/chapter-13-starry-starry-night-2",
-  externalId: "3368654",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3368654",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368654/chapter-13-starry-starry-night-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

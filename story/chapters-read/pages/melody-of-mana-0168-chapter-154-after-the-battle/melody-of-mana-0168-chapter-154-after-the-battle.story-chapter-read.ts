@@ -12,9 +12,13 @@ export const melodyOfMana0168Chapter154AfterTheBattle = {
   unit: "words",
   completedAt: "2026-06-29T22:31:39.395Z",
   publishedAt: "2022-07-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/950210/chapter-154-after-the-battle",
-  externalId: "950210",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "950210",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/950210/chapter-154-after-the-battle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

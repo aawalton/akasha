@@ -12,9 +12,13 @@ export const melodyOfMana0069Chapter59Truce = {
   unit: "words",
   completedAt: "2026-06-29T22:28:35.074Z",
   publishedAt: "2021-11-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/782540/chapter-59-truce",
-  externalId: "782540",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "782540",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/782540/chapter-59-truce",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

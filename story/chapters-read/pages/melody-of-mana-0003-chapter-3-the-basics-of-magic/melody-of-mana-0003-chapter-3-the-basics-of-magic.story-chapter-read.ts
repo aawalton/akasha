@@ -12,9 +12,13 @@ export const melodyOfMana0003Chapter3TheBasicsOfMagic = {
   unit: "words",
   completedAt: "2026-06-29T22:26:20.314Z",
   publishedAt: "2021-06-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/700193/chapter-3-the-basics-of-magic",
-  externalId: "700193",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "700193",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/700193/chapter-3-the-basics-of-magic",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

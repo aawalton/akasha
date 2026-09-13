@@ -10,9 +10,13 @@ export const massProducedMagicLitrpgActionCrafterTech0068Chapter68ConfrontationP
   ownLength: 2242,
   unit: "words",
   publishedAt: "2025-03-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2114276/chapter-68-confrontation-pt5",
-  externalId: "2114276",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2114276",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2114276/chapter-68-confrontation-pt5",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0089UnpublishedChapterTheDanceOfDeathCircaChapter58 = {
   unit: "words",
   completedAt: "2026-06-29T22:29:16.475Z",
   publishedAt: "2022-01-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/821242/unpublished-chapter-the-dance-of-death-circa-chapter",
-  externalId: "821242",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "821242",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/821242/unpublished-chapter-the-dance-of-death-circa-chapter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0301Chapter286HelloAgain = {
   unit: "words",
   completedAt: "2026-06-29T22:36:13.158Z",
   publishedAt: "2023-11-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1418009/chapter-286-hello-again",
-  externalId: "1418009",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1418009",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1418009/chapter-286-hello-again",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

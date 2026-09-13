@@ -10,9 +10,13 @@ export const metaworldHopecore0007Chapter4WhatAWonderfulWorld = {
   ownLength: 2725,
   unit: "words",
   publishedAt: "2026-05-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364561/chapter-4-what-a-wonderful-world",
-  externalId: "3364561",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3364561",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364561/chapter-4-what-a-wonderful-world",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

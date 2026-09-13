@@ -12,9 +12,13 @@ export const melodyOfMana0198Chapter184ConnectionEstablished = {
   unit: "words",
   completedAt: "2026-06-29T22:32:40.162Z",
   publishedAt: "2022-11-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1028958/chapter-184-connection-established",
-  externalId: "1028958",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1028958",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1028958/chapter-184-connection-established",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

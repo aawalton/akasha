@@ -10,9 +10,13 @@ export const massProducedMagicLitrpgActionCrafterTech0062Chapter62ObservedInterl
   ownLength: 1453,
   unit: "words",
   publishedAt: "2025-02-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2083610/chapter-62-observed-interlude",
-  externalId: "2083610",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2083610",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2083610/chapter-62-observed-interlude",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

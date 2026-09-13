@@ -12,9 +12,13 @@ export const melodyOfMana0064Chapter55LightSpyingAndTheWalk = {
   unit: "words",
   completedAt: "2026-06-29T22:28:24.258Z",
   publishedAt: "2021-10-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/773011/chapter-55-light-spying-and-the-walk",
-  externalId: "773011",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "773011",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/773011/chapter-55-light-spying-and-the-walk",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

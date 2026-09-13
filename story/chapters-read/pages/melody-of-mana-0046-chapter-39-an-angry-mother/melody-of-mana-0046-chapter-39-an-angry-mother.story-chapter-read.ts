@@ -12,9 +12,13 @@ export const melodyOfMana0046Chapter39AnAngryMother = {
   unit: "words",
   completedAt: "2026-06-29T22:27:47.316Z",
   publishedAt: "2021-08-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/740809/chapter-39-an-angry-mother",
-  externalId: "740809",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "740809",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/740809/chapter-39-an-angry-mother",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

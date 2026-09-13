@@ -12,9 +12,13 @@ export const melodyOfMana0178Chapter164TheSnakeBackHome = {
   unit: "words",
   completedAt: "2026-06-29T22:32:00.042Z",
   publishedAt: "2022-08-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/978245/chapter-164-the-snake-back-home",
-  externalId: "978245",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "978245",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/978245/chapter-164-the-snake-back-home",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

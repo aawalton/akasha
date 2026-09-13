@@ -12,9 +12,13 @@ export const melodyOfMana0055SideStory8FoolSFolly = {
   unit: "words",
   completedAt: "2026-06-29T22:28:05.689Z",
   publishedAt: "2021-09-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/757991/side-story-8-fools-folly",
-  externalId: "757991",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "757991",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/757991/side-story-8-fools-folly",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

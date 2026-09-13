@@ -12,9 +12,13 @@ export const melodyOfMana0051Chapter44Stalker = {
   unit: "words",
   completedAt: "2026-06-29T22:27:57.442Z",
   publishedAt: "2021-09-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/750351/chapter-44-stalker",
-  externalId: "750351",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "750351",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/750351/chapter-44-stalker",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

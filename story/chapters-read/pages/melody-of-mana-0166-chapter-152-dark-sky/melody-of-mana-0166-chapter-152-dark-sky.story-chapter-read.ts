@@ -12,9 +12,13 @@ export const melodyOfMana0166Chapter152DarkSky = {
   unit: "words",
   completedAt: "2026-06-29T22:31:35.160Z",
   publishedAt: "2022-07-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/944933/chapter-152-dark-sky",
-  externalId: "944933",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "944933",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/944933/chapter-152-dark-sky",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0221Chapter207LosingAFriend = {
   unit: "words",
   completedAt: "2026-06-29T22:33:28.141Z",
   publishedAt: "2023-02-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1102388/chapter-207-losing-a-friend",
-  externalId: "1102388",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1102388",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1102388/chapter-207-losing-a-friend",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

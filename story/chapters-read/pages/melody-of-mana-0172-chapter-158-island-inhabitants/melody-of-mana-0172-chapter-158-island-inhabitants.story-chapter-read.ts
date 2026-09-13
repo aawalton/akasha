@@ -12,9 +12,13 @@ export const melodyOfMana0172Chapter158IslandInhabitants = {
   unit: "words",
   completedAt: "2026-06-29T22:31:47.666Z",
   publishedAt: "2022-07-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/960379/chapter-158-island-inhabitants",
-  externalId: "960379",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "960379",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/960379/chapter-158-island-inhabitants",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

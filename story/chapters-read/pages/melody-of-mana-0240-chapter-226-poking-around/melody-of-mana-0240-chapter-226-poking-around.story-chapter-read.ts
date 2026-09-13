@@ -12,9 +12,13 @@ export const melodyOfMana0240Chapter226PokingAround = {
   unit: "words",
   completedAt: "2026-06-29T22:34:07.214Z",
   publishedAt: "2023-04-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1162223/chapter-226-poking-around",
-  externalId: "1162223",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1162223",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1162223/chapter-226-poking-around",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

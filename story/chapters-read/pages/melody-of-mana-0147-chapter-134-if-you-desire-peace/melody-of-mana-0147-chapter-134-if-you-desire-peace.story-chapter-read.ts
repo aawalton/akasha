@@ -12,9 +12,13 @@ export const melodyOfMana0147Chapter134IfYouDesirePeace = {
   unit: "words",
   completedAt: "2026-06-29T22:30:55.555Z",
   publishedAt: "2022-05-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/900865/chapter-134-if-you-desire-peace",
-  externalId: "900865",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "900865",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/900865/chapter-134-if-you-desire-peace",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const melodyOfMana0158Chapter145LeavingTheAcademy = {
   unit: "words",
   completedAt: "2026-06-29T22:31:18.370Z",
   publishedAt: "2022-06-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/927510/chapter-145-leaving-the-academy",
-  externalId: "927510",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "927510",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/927510/chapter-145-leaving-the-academy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

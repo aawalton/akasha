@@ -12,9 +12,13 @@ export const melodyOfMana0289Chapter275FifteenthYearOfMarriage = {
   unit: "words",
   completedAt: "2026-06-29T22:35:48.976Z",
   publishedAt: "2023-10-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1370253/chapter-275-fifteenth-year-of-marriage",
-  externalId: "1370253",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1370253",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1370253/chapter-275-fifteenth-year-of-marriage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

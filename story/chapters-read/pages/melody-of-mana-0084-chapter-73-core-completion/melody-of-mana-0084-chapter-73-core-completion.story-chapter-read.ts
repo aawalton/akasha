@@ -12,9 +12,13 @@ export const melodyOfMana0084Chapter73CoreCompletion = {
   unit: "words",
   completedAt: "2026-06-29T22:29:06.275Z",
   publishedAt: "2021-12-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/814302/chapter-73-core-completion",
-  externalId: "814302",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "814302",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/814302/chapter-73-core-completion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

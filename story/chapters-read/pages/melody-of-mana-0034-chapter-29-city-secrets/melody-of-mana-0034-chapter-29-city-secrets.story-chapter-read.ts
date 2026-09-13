@@ -12,9 +12,13 @@ export const melodyOfMana0034Chapter29CitySecrets = {
   unit: "words",
   completedAt: "2026-06-29T22:27:24.340Z",
   publishedAt: "2021-07-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/720094/chapter-29-city-secrets",
-  externalId: "720094",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "720094",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/720094/chapter-29-city-secrets",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

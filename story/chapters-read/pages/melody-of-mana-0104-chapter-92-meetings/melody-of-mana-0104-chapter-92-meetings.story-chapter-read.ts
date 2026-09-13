@@ -12,9 +12,13 @@ export const melodyOfMana0104Chapter92Meetings = {
   unit: "words",
   completedAt: "2026-06-29T22:29:45.744Z",
   publishedAt: "2022-03-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/856048/chapter-92-meetings",
-  externalId: "856048",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "856048",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/856048/chapter-92-meetings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
