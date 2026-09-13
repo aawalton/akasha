@@ -25,7 +25,6 @@ export const trackDaily = {
     "module/nutrition-grams",
     "module/nutrition-points",
     "module/persona-recipe-rows",
-    "module/points-source-writer",
     "module/session-points-compute",
     "module/session-points-totals",
     "module/task-completions",
