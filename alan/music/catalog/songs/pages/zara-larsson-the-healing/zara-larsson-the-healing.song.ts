@@ -6,10 +6,14 @@ export const zaraLarssonTheHealing = {
   slug: "zara-larsson-the-healing",
   title: "The Healing",
   artist: "zara-larsson",
-  externalId: "cbbc31f7-0946-415e-a530-7b97cc500e37",
-  externalLink: "https://musicbrainz.org/work/cbbc31f7-0946-415e-a530-7b97cc500e37",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "cbbc31f7-0946-415e-a530-7b97cc500e37",
+      externalLink: "https://musicbrainz.org/work/cbbc31f7-0946-415e-a530-7b97cc500e37",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const zaraLarssonPrettyUgly = {
   slug: "zara-larsson-pretty-ugly",
   title: "Pretty Ugly",
   artist: "zara-larsson",
-  externalId: "244e97ee-16b9-4d39-8c03-e32499867512",
-  externalLink: "https://musicbrainz.org/work/244e97ee-16b9-4d39-8c03-e32499867512",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "244e97ee-16b9-4d39-8c03-e32499867512",
+      externalLink: "https://musicbrainz.org/work/244e97ee-16b9-4d39-8c03-e32499867512",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

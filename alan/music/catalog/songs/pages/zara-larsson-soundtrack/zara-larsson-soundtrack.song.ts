@@ -6,10 +6,14 @@ export const zaraLarssonSoundtrack = {
   slug: "zara-larsson-soundtrack",
   title: "Soundtrack",
   artist: "zara-larsson",
-  externalId: "bb20316c-177b-42dd-8efd-550a235e1625",
-  externalLink: "https://musicbrainz.org/work/bb20316c-177b-42dd-8efd-550a235e1625",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bb20316c-177b-42dd-8efd-550a235e1625",
+      externalLink: "https://musicbrainz.org/work/bb20316c-177b-42dd-8efd-550a235e1625",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

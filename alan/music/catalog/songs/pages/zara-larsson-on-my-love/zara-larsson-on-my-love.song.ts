@@ -6,10 +6,14 @@ export const zaraLarssonOnMyLove = {
   slug: "zara-larsson-on-my-love",
   title: "On My Love",
   artist: "zara-larsson",
-  externalId: "fce41d89-b52d-455c-91e0-97343ebb6275",
-  externalLink: "https://musicbrainz.org/work/fce41d89-b52d-455c-91e0-97343ebb6275",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "fce41d89-b52d-455c-91e0-97343ebb6275",
+      externalLink: "https://musicbrainz.org/work/fce41d89-b52d-455c-91e0-97343ebb6275",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

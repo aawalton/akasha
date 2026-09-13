@@ -6,10 +6,14 @@ export const zaraLarssonVenus = {
   slug: "zara-larsson-venus",
   title: "Venus",
   artist: "zara-larsson",
-  externalId: "d89f899d-2027-4c41-a77c-70d8183343c4",
-  externalLink: "https://musicbrainz.org/work/d89f899d-2027-4c41-a77c-70d8183343c4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d89f899d-2027-4c41-a77c-70d8183343c4",
+      externalLink: "https://musicbrainz.org/work/d89f899d-2027-4c41-a77c-70d8183343c4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

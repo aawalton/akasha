@@ -6,10 +6,14 @@ export const zaraLarssonSexual = {
   slug: "zara-larsson-sexual",
   title: "Sexual",
   artist: "zara-larsson",
-  externalId: "1128bd56-2be3-41cc-bf26-871898bb43c0",
-  externalLink: "https://musicbrainz.org/work/1128bd56-2be3-41cc-bf26-871898bb43c0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1128bd56-2be3-41cc-bf26-871898bb43c0",
+      externalLink: "https://musicbrainz.org/work/1128bd56-2be3-41cc-bf26-871898bb43c0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

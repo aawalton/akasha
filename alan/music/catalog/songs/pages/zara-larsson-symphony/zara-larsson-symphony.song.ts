@@ -6,10 +6,14 @@ export const zaraLarssonSymphony = {
   slug: "zara-larsson-symphony",
   title: "Symphony",
   artist: "zara-larsson",
-  externalId: "2466c3b4-6c38-430b-aeb2-7fabee9918b9",
-  externalLink: "https://musicbrainz.org/work/2466c3b4-6c38-430b-aeb2-7fabee9918b9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2466c3b4-6c38-430b-aeb2-7fabee9918b9",
+      externalLink: "https://musicbrainz.org/work/2466c3b4-6c38-430b-aeb2-7fabee9918b9",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

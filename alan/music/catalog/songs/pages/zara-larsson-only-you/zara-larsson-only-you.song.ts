@@ -6,10 +6,14 @@ export const zaraLarssonOnlyYou = {
   slug: "zara-larsson-only-you",
   title: "Only You",
   artist: "zara-larsson",
-  externalId: "d35db7a6-f7c2-4003-9ebf-40f41f214c11",
-  externalLink: "https://musicbrainz.org/work/d35db7a6-f7c2-4003-9ebf-40f41f214c11",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d35db7a6-f7c2-4003-9ebf-40f41f214c11",
+      externalLink: "https://musicbrainz.org/work/d35db7a6-f7c2-4003-9ebf-40f41f214c11",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

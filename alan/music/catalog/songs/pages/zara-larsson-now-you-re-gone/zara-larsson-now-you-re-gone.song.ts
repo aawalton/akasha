@@ -6,10 +6,14 @@ export const zaraLarssonNowYouReGone = {
   slug: "zara-larsson-now-you-re-gone",
   title: "Now You’re Gone",
   artist: "zara-larsson",
-  externalId: "60ad0360-83f2-4d60-a1b5-f1e21fc7c8ca",
-  externalLink: "https://musicbrainz.org/work/60ad0360-83f2-4d60-a1b5-f1e21fc7c8ca",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "60ad0360-83f2-4d60-a1b5-f1e21fc7c8ca",
+      externalLink: "https://musicbrainz.org/work/60ad0360-83f2-4d60-a1b5-f1e21fc7c8ca",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

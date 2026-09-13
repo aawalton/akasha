@@ -6,10 +6,14 @@ export const zaraLarssonTg4m = {
   slug: "zara-larsson-tg4m",
   title: "TG4M",
   artist: "zara-larsson",
-  externalId: "07b3567b-c6ee-42de-9b51-ac58cf758f30",
-  externalLink: "https://musicbrainz.org/work/07b3567b-c6ee-42de-9b51-ac58cf758f30",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "07b3567b-c6ee-42de-9b51-ac58cf758f30",
+      externalLink: "https://musicbrainz.org/work/07b3567b-c6ee-42de-9b51-ac58cf758f30",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

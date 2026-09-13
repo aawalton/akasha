@@ -6,10 +6,14 @@ export const zaraLarssonNothing = {
   slug: "zara-larsson-nothing",
   title: "Nothing",
   artist: "zara-larsson",
-  externalId: "bb0b2ae3-5f24-4860-a803-034dfa8f3c66",
-  externalLink: "https://musicbrainz.org/work/bb0b2ae3-5f24-4860-a803-034dfa8f3c66",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bb0b2ae3-5f24-4860-a803-034dfa8f3c66",
+      externalLink: "https://musicbrainz.org/work/bb0b2ae3-5f24-4860-a803-034dfa8f3c66",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

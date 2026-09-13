@@ -6,10 +6,14 @@ export const zaraLarssonRuinMyLife = {
   slug: "zara-larsson-ruin-my-life",
   title: "Ruin My Life",
   artist: "zara-larsson",
-  externalId: "15c57443-ecbc-4f85-8cdb-9e66e743b971",
-  externalLink: "https://musicbrainz.org/work/15c57443-ecbc-4f85-8cdb-9e66e743b971",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "15c57443-ecbc-4f85-8cdb-9e66e743b971",
+      externalLink: "https://musicbrainz.org/work/15c57443-ecbc-4f85-8cdb-9e66e743b971",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

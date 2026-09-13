@@ -6,10 +6,14 @@ export const zaraLarssonNoneOfTheseGuys = {
   slug: "zara-larsson-none-of-these-guys",
   title: "None of These Guys",
   artist: "zara-larsson",
-  externalId: "4853b611-a6c9-4395-a3a0-8bf612c66b7f",
-  externalLink: "https://musicbrainz.org/work/4853b611-a6c9-4395-a3a0-8bf612c66b7f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4853b611-a6c9-4395-a3a0-8bf612c66b7f",
+      externalLink: "https://musicbrainz.org/work/4853b611-a6c9-4395-a3a0-8bf612c66b7f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

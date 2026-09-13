@@ -6,10 +6,14 @@ export const zaraLarssonNeedSomeone = {
   slug: "zara-larsson-need-someone",
   title: "Need Someone",
   artist: "zara-larsson",
-  externalId: "dc8a6976-ac04-479d-bcfa-bf67461c0376",
-  externalLink: "https://musicbrainz.org/work/dc8a6976-ac04-479d-bcfa-bf67461c0376",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "dc8a6976-ac04-479d-bcfa-bf67461c0376",
+      externalLink: "https://musicbrainz.org/work/dc8a6976-ac04-479d-bcfa-bf67461c0376",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const zaraLarssonNeverGonnaDie = {
   slug: "zara-larsson-never-gonna-die",
   title: "Never Gonna Die",
   artist: "zara-larsson",
-  externalId: "4440591c-ddd0-4bdf-acf4-ab39a91696cb",
-  externalLink: "https://musicbrainz.org/work/4440591c-ddd0-4bdf-acf4-ab39a91696cb",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4440591c-ddd0-4bdf-acf4-ab39a91696cb",
+      externalLink: "https://musicbrainz.org/work/4440591c-ddd0-4bdf-acf4-ab39a91696cb",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

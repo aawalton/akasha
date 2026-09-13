@@ -6,10 +6,14 @@ export const zaraLarssonSecret = {
   slug: "zara-larsson-secret",
   title: "Secret",
   artist: "zara-larsson",
-  externalId: "7c4ce678-88e6-4813-bcb3-1ec5bb4c99f6",
-  externalLink: "https://musicbrainz.org/work/7c4ce678-88e6-4813-bcb3-1ec5bb4c99f6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7c4ce678-88e6-4813-bcb3-1ec5bb4c99f6",
+      externalLink: "https://musicbrainz.org/work/7c4ce678-88e6-4813-bcb3-1ec5bb4c99f6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

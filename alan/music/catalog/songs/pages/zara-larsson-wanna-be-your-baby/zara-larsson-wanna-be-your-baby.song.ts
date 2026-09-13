@@ -6,10 +6,14 @@ export const zaraLarssonWannaBeYourBaby = {
   slug: "zara-larsson-wanna-be-your-baby",
   title: "Wanna Be Your Baby",
   artist: "zara-larsson",
-  externalId: "6fd4ed9f-3970-48ca-8aed-58b83b54511e",
-  externalLink: "https://musicbrainz.org/work/6fd4ed9f-3970-48ca-8aed-58b83b54511e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6fd4ed9f-3970-48ca-8aed-58b83b54511e",
+      externalLink: "https://musicbrainz.org/work/6fd4ed9f-3970-48ca-8aed-58b83b54511e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

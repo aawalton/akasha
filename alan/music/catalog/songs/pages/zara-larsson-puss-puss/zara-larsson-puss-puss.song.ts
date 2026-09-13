@@ -6,10 +6,14 @@ export const zaraLarssonPussPuss = {
   slug: "zara-larsson-puss-puss",
   title: "Puss Puss",
   artist: "zara-larsson",
-  externalId: "96237dfe-36ca-44c1-9d2b-f1a39c983ed3",
-  externalLink: "https://musicbrainz.org/work/96237dfe-36ca-44c1-9d2b-f1a39c983ed3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "96237dfe-36ca-44c1-9d2b-f1a39c983ed3",
+      externalLink: "https://musicbrainz.org/work/96237dfe-36ca-44c1-9d2b-f1a39c983ed3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

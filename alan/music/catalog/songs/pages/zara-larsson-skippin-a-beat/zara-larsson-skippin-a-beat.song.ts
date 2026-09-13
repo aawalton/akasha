@@ -6,10 +6,14 @@ export const zaraLarssonSkippinABeat = {
   slug: "zara-larsson-skippin-a-beat",
   title: "Skippin a Beat",
   artist: "zara-larsson",
-  externalId: "979ba368-f8bf-4c5f-8af9-10ea72a31892",
-  externalLink: "https://musicbrainz.org/work/979ba368-f8bf-4c5f-8af9-10ea72a31892",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "979ba368-f8bf-4c5f-8af9-10ea72a31892",
+      externalLink: "https://musicbrainz.org/work/979ba368-f8bf-4c5f-8af9-10ea72a31892",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

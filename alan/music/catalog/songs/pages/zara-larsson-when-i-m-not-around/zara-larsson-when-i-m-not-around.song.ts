@@ -6,10 +6,14 @@ export const zaraLarssonWhenIMNotAround = {
   slug: "zara-larsson-when-i-m-not-around",
   title: "When I’m Not Around",
   artist: "zara-larsson",
-  externalId: "57b6c411-6665-47a8-a087-2826238f4208",
-  externalLink: "https://musicbrainz.org/work/57b6c411-6665-47a8-a087-2826238f4208",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "57b6c411-6665-47a8-a087-2826238f4208",
+      externalLink: "https://musicbrainz.org/work/57b6c411-6665-47a8-a087-2826238f4208",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

@@ -6,10 +6,14 @@ export const zaraLarssonYouLoveWhoYouLove = {
   slug: "zara-larsson-you-love-who-you-love",
   title: "You Love Who You Love",
   artist: "zara-larsson",
-  externalId: "780537d8-6fd0-4e79-88eb-8a647d51f81e",
-  externalLink: "https://musicbrainz.org/work/780537d8-6fd0-4e79-88eb-8a647d51f81e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "780537d8-6fd0-4e79-88eb-8a647d51f81e",
+      externalLink: "https://musicbrainz.org/work/780537d8-6fd0-4e79-88eb-8a647d51f81e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

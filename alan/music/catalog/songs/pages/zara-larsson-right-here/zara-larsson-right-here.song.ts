@@ -6,10 +6,14 @@ export const zaraLarssonRightHere = {
   slug: "zara-larsson-right-here",
   title: "Right Here",
   artist: "zara-larsson",
-  externalId: "4a61c66b-3c37-4153-bc52-3d7ce820989e",
-  externalLink: "https://musicbrainz.org/work/4a61c66b-3c37-4153-bc52-3d7ce820989e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4a61c66b-3c37-4153-bc52-3d7ce820989e",
+      externalLink: "https://musicbrainz.org/work/4a61c66b-3c37-4153-bc52-3d7ce820989e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

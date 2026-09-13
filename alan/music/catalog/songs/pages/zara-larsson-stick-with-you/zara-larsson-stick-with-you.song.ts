@@ -6,10 +6,14 @@ export const zaraLarssonStickWithYou = {
   slug: "zara-larsson-stick-with-you",
   title: "Stick With You",
   artist: "zara-larsson",
-  externalId: "20c73f08-9838-4dcb-bdd4-7783eeb8bc8c",
-  externalLink: "https://musicbrainz.org/work/20c73f08-9838-4dcb-bdd4-7783eeb8bc8c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "20c73f08-9838-4dcb-bdd4-7783eeb8bc8c",
+      externalLink: "https://musicbrainz.org/work/20c73f08-9838-4dcb-bdd4-7783eeb8bc8c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

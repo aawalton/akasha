@@ -6,10 +6,14 @@ export const zaraLarssonUncover = {
   slug: "zara-larsson-uncover",
   title: "Uncover",
   artist: "zara-larsson",
-  externalId: "9a9326c7-0143-49be-8d24-aefb4c505cc1",
-  externalLink: "https://musicbrainz.org/work/9a9326c7-0143-49be-8d24-aefb4c505cc1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9a9326c7-0143-49be-8d24-aefb4c505cc1",
+      externalLink: "https://musicbrainz.org/work/9a9326c7-0143-49be-8d24-aefb4c505cc1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

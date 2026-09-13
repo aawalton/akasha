@@ -6,10 +6,14 @@ export const zaraLarssonMyHeartWillGoOn = {
   slug: "zara-larsson-my-heart-will-go-on",
   title: "My Heart Will Go On",
   artist: "zara-larsson",
-  externalId: "78fc1f10-cbbf-3603-8c07-99a3d4f81397",
-  externalLink: "https://musicbrainz.org/work/78fc1f10-cbbf-3603-8c07-99a3d4f81397",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "78fc1f10-cbbf-3603-8c07-99a3d4f81397",
+      externalLink: "https://musicbrainz.org/work/78fc1f10-cbbf-3603-8c07-99a3d4f81397",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

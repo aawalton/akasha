@@ -6,10 +6,14 @@ export const zaraLarssonWhatTheySay = {
   slug: "zara-larsson-what-they-say",
   title: "What They Say",
   artist: "zara-larsson",
-  externalId: "a5b8ca86-d496-4b86-8acc-260d07df119a",
-  externalLink: "https://musicbrainz.org/work/a5b8ca86-d496-4b86-8acc-260d07df119a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a5b8ca86-d496-4b86-8acc-260d07df119a",
+      externalLink: "https://musicbrainz.org/work/a5b8ca86-d496-4b86-8acc-260d07df119a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

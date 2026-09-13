@@ -6,10 +6,14 @@ export const zaraLarssonSanktaLucia = {
   slug: "zara-larsson-sankta-lucia",
   title: "Sankta Lucia",
   artist: "zara-larsson",
-  externalId: "b1fca655-e983-49c1-a0ae-4b1e941b5fde",
-  externalLink: "https://musicbrainz.org/work/b1fca655-e983-49c1-a0ae-4b1e941b5fde",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b1fca655-e983-49c1-a0ae-4b1e941b5fde",
+      externalLink: "https://musicbrainz.org/work/b1fca655-e983-49c1-a0ae-4b1e941b5fde",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

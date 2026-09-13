@@ -6,10 +6,14 @@ export const zaraLarssonWords = {
   slug: "zara-larsson-words",
   title: "Words",
   artist: "zara-larsson",
-  externalId: "45dc502d-159e-4db2-8868-399656c7d61c",
-  externalLink: "https://musicbrainz.org/work/45dc502d-159e-4db2-8868-399656c7d61c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "45dc502d-159e-4db2-8868-399656c7d61c",
+      externalLink: "https://musicbrainz.org/work/45dc502d-159e-4db2-8868-399656c7d61c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

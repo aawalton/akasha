@@ -6,10 +6,14 @@ export const zaraLarssonMorning = {
   slug: "zara-larsson-morning",
   title: "Morning",
   artist: "zara-larsson",
-  externalId: "0b5ac469-a646-44a3-a0a5-a574c1725830",
-  externalLink: "https://musicbrainz.org/work/0b5ac469-a646-44a3-a0a5-a574c1725830",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0b5ac469-a646-44a3-a0a5-a574c1725830",
+      externalLink: "https://musicbrainz.org/work/0b5ac469-a646-44a3-a0a5-a574c1725830",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

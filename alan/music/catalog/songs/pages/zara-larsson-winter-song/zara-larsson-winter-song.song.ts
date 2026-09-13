@@ -6,10 +6,14 @@ export const zaraLarssonWinterSong = {
   slug: "zara-larsson-winter-song",
   title: "Winter Song",
   artist: "zara-larsson",
-  externalId: "43209ae9-4ecf-4d7e-b0c3-d7ca77d3f120",
-  externalLink: "https://musicbrainz.org/work/43209ae9-4ecf-4d7e-b0c3-d7ca77d3f120",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "43209ae9-4ecf-4d7e-b0c3-d7ca77d3f120",
+      externalLink: "https://musicbrainz.org/work/43209ae9-4ecf-4d7e-b0c3-d7ca77d3f120",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

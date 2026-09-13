@@ -6,10 +6,14 @@ export const zaraLarssonTheyHeardIWasGood = {
   slug: "zara-larsson-they-heard-i-was-good",
   title: "They Heard I Was Good",
   artist: "zara-larsson",
-  externalId: "31a147f9-0469-4db4-b10e-a45256aae067",
-  externalLink: "https://musicbrainz.org/work/31a147f9-0469-4db4-b10e-a45256aae067",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "31a147f9-0469-4db4-b10e-a45256aae067",
+      externalLink: "https://musicbrainz.org/work/31a147f9-0469-4db4-b10e-a45256aae067",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

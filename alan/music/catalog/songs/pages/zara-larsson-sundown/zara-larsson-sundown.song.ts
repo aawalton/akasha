@@ -6,10 +6,14 @@ export const zaraLarssonSundown = {
   slug: "zara-larsson-sundown",
   title: "Sundown",
   artist: "zara-larsson",
-  externalId: "3bd14f41-6563-432a-ab89-d6e9be914c96",
-  externalLink: "https://musicbrainz.org/work/3bd14f41-6563-432a-ab89-d6e9be914c96",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3bd14f41-6563-432a-ab89-d6e9be914c96",
+      externalLink: "https://musicbrainz.org/work/3bd14f41-6563-432a-ab89-d6e9be914c96",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const zaraLarssonTandEttLjus = {
   slug: "zara-larsson-tand-ett-ljus",
   title: "Tänd ett ljus",
   artist: "zara-larsson",
-  externalId: "9ea121c5-b09d-4396-b7de-0fad1aa96e7e",
-  externalLink: "https://musicbrainz.org/work/9ea121c5-b09d-4396-b7de-0fad1aa96e7e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9ea121c5-b09d-4396-b7de-0fad1aa96e7e",
+      externalLink: "https://musicbrainz.org/work/9ea121c5-b09d-4396-b7de-0fad1aa96e7e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const zaraLarssonSaturnSReturn = {
   slug: "zara-larsson-saturn-s-return",
   title: "Saturn’s Return",
   artist: "zara-larsson",
-  externalId: "71020844-88d8-46d9-bfcb-52846f0593e9",
-  externalLink: "https://musicbrainz.org/work/71020844-88d8-46d9-bfcb-52846f0593e9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "71020844-88d8-46d9-bfcb-52846f0593e9",
+      externalLink: "https://musicbrainz.org/work/71020844-88d8-46d9-bfcb-52846f0593e9",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

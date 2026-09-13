@@ -6,10 +6,14 @@ export const zaraLarssonRooftop = {
   slug: "zara-larsson-rooftop",
   title: "Rooftop",
   artist: "zara-larsson",
-  externalId: "f79b6304-8adf-4627-a193-9d6caa5e62af",
-  externalLink: "https://musicbrainz.org/work/f79b6304-8adf-4627-a193-9d6caa5e62af",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f79b6304-8adf-4627-a193-9d6caa5e62af",
+      externalLink: "https://musicbrainz.org/work/f79b6304-8adf-4627-a193-9d6caa5e62af",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

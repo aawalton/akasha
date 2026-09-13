@@ -6,10 +6,14 @@ export const zaraLarssonStateside = {
   slug: "zara-larsson-stateside",
   title: "Stateside",
   artist: "zara-larsson",
-  externalId: "f6bae4e7-c9a9-42a2-8c5d-527b366593f4",
-  externalLink: "https://musicbrainz.org/work/f6bae4e7-c9a9-42a2-8c5d-527b366593f4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f6bae4e7-c9a9-42a2-8c5d-527b366593f4",
+      externalLink: "https://musicbrainz.org/work/f6bae4e7-c9a9-42a2-8c5d-527b366593f4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

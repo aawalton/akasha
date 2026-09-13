@@ -6,10 +6,14 @@ export const zaraLarssonMoreMore = {
   slug: "zara-larsson-more-more",
   title: "MORE & MORE",
   artist: "zara-larsson",
-  externalId: "5aedf1e4-f7f4-439b-a1e0-e702d7c940f7",
-  externalLink: "https://musicbrainz.org/work/5aedf1e4-f7f4-439b-a1e0-e702d7c940f7",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5aedf1e4-f7f4-439b-a1e0-e702d7c940f7",
+      externalLink: "https://musicbrainz.org/work/5aedf1e4-f7f4-439b-a1e0-e702d7c940f7",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: false,
   written: "collab",

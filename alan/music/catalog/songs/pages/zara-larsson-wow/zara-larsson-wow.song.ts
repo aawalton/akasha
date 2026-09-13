@@ -6,10 +6,14 @@ export const zaraLarssonWow = {
   slug: "zara-larsson-wow",
   title: "WOW",
   artist: "zara-larsson",
-  externalId: "f7e4497b-a43e-4385-a344-7dd6bc70e320",
-  externalLink: "https://musicbrainz.org/work/f7e4497b-a43e-4385-a344-7dd6bc70e320",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f7e4497b-a43e-4385-a344-7dd6bc70e320",
+      externalLink: "https://musicbrainz.org/work/f7e4497b-a43e-4385-a344-7dd6bc70e320",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

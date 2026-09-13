@@ -6,10 +6,14 @@ export const zaraLarssonWowRemix = {
   slug: "zara-larsson-wow-remix",
   title: "WOW (remix)",
   artist: "zara-larsson",
-  externalId: "bd1ab8d8-d92d-4b3a-b6bc-1368eed04d71",
-  externalLink: "https://musicbrainz.org/work/bd1ab8d8-d92d-4b3a-b6bc-1368eed04d71",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bd1ab8d8-d92d-4b3a-b6bc-1368eed04d71",
+      externalLink: "https://musicbrainz.org/work/bd1ab8d8-d92d-4b3a-b6bc-1368eed04d71",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

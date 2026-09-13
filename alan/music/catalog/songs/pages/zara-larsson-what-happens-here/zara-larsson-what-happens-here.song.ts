@@ -6,10 +6,14 @@ export const zaraLarssonWhatHappensHere = {
   slug: "zara-larsson-what-happens-here",
   title: "What Happens Here",
   artist: "zara-larsson",
-  externalId: "8df788f9-3c40-4623-93ff-ef0eca47acd2",
-  externalLink: "https://musicbrainz.org/work/8df788f9-3c40-4623-93ff-ef0eca47acd2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8df788f9-3c40-4623-93ff-ef0eca47acd2",
+      externalLink: "https://musicbrainz.org/work/8df788f9-3c40-4623-93ff-ef0eca47acd2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

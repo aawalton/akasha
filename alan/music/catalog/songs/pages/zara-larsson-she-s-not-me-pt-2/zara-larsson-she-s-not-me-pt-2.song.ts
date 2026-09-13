@@ -6,10 +6,14 @@ export const zaraLarssonSheSNotMePt2 = {
   slug: "zara-larsson-she-s-not-me-pt-2",
   title: "She's Not Me, Pt. 2",
   artist: "zara-larsson",
-  externalId: "af6e6540-356b-4b88-bd6c-4fa271612c89",
-  externalLink: "https://musicbrainz.org/work/af6e6540-356b-4b88-bd6c-4fa271612c89",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "af6e6540-356b-4b88-bd6c-4fa271612c89",
+      externalLink: "https://musicbrainz.org/work/af6e6540-356b-4b88-bd6c-4fa271612c89",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

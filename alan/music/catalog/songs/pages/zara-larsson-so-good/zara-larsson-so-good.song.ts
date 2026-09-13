@@ -6,10 +6,14 @@ export const zaraLarssonSoGood = {
   slug: "zara-larsson-so-good",
   title: "So Good",
   artist: "zara-larsson",
-  externalId: "c3544839-37a7-46f9-adce-dfeb8d2c95ce",
-  externalLink: "https://musicbrainz.org/work/c3544839-37a7-46f9-adce-dfeb8d2c95ce",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c3544839-37a7-46f9-adce-dfeb8d2c95ce",
+      externalLink: "https://musicbrainz.org/work/c3544839-37a7-46f9-adce-dfeb8d2c95ce",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

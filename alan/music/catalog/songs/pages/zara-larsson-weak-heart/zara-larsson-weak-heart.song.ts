@@ -6,10 +6,14 @@ export const zaraLarssonWeakHeart = {
   slug: "zara-larsson-weak-heart",
   title: "Weak Heart",
   artist: "zara-larsson",
-  externalId: "c86c8839-f25f-462a-85ff-79368f0668d1",
-  externalLink: "https://musicbrainz.org/work/c86c8839-f25f-462a-85ff-79368f0668d1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c86c8839-f25f-462a-85ff-79368f0668d1",
+      externalLink: "https://musicbrainz.org/work/c86c8839-f25f-462a-85ff-79368f0668d1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

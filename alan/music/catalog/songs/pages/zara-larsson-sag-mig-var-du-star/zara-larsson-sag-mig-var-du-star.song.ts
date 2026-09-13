@@ -6,10 +6,14 @@ export const zaraLarssonSagMigVarDuStar = {
   slug: "zara-larsson-sag-mig-var-du-star",
   title: "Säg mig var du står",
   artist: "zara-larsson",
-  externalId: "06b18012-eb08-415b-bea8-14454a3684a2",
-  externalLink: "https://musicbrainz.org/work/06b18012-eb08-415b-bea8-14454a3684a2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "06b18012-eb08-415b-bea8-14454a3684a2",
+      externalLink: "https://musicbrainz.org/work/06b18012-eb08-415b-bea8-14454a3684a2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
