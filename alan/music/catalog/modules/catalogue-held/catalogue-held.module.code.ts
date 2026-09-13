@@ -23,15 +23,6 @@ export type Catalogue = { readonly names: SongNames; readonly held: ReadonlyMap<
 
 export type Named = { readonly slug: string; readonly was: Value }
 
-export function withoutFlatIdentity(held: Value): Value {
-  const { externalId, externalLink, source, lastSyncedAt, ...rest } = held
-  return rest
-}
-
-export function flatlyHeld(held: Value, mbid: string): boolean {
-  return held["externalId"] === mbid && held["source"] === MUSICBRAINZ
-}
-
 export function catalogueIn(root: string): Catalogue {
   const rows: { readonly slug: string; readonly externalId: string | null }[] = []
   const held = new Map<string, Value>()
@@ -39,7 +30,7 @@ export function catalogueIn(root: string): Catalogue {
     const slug = textIn(one.value, "slug")
     if (slug === null) continue
     const stated = one.value[IDENTITY]
-    rows.push({ slug, externalId: idFrom(stated, MUSICBRAINZ) ?? textIn(one.value, "externalId") })
+    rows.push({ slug, externalId: idFrom(stated, MUSICBRAINZ) })
     held.set(slug, one.value)
   }
   return { names: songNamesFrom(rows), held }
@@ -47,8 +38,7 @@ export function catalogueIn(root: string): Catalogue {
 
 export function artistIn(root: string, mbid: string, name: string): Named {
   for (const one of valuesOfType(root, ARTIST)) {
-    const found = identityHeld(one.value[IDENTITY], mbid) || flatlyHeld(one.value, mbid)
-    if (!found) continue
+    if (!identityHeld(one.value[IDENTITY], mbid)) continue
     const slug = textIn(one.value, "slug")
     if (slug !== null) return { slug, was: one.value }
   }

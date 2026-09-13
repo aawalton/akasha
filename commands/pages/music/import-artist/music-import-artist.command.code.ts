@@ -2,7 +2,6 @@ import {
   artistIn,
   type Catalogue,
   catalogueIn,
-  withoutFlatIdentity,
 } from "akasha/alan/music/catalog/modules/catalogue-held/catalogue-held.module.code.ts"
 import { searchLyrics } from "akasha/alan/music/catalog/modules/lrclib-client/lrclib-client.module.code.ts"
 import {
@@ -231,7 +230,7 @@ async function songLanded(
   const worded = await wordsFor(reach, fields.title, artistName)
   const values: Value = underArtistKey(
     {
-      ...withoutFlatIdentity(catalogue.held.get(slug) ?? {}),
+      ...(catalogue.held.get(slug) ?? {}),
       ...fields,
       type: SONG,
       slug,
@@ -333,7 +332,7 @@ export async function gathered(
       pageTypeSlug: ARTIST,
       slug: named.slug,
       values: {
-        ...withoutFlatIdentity(named.was),
+        ...named.was,
         ...mbArtistToFields({ name: artist.name, genres: extractGenres(artist) }),
         externalIdentity: identitiesWith(
           named.was["externalIdentity"],

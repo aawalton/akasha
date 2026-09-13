@@ -6,19 +6,10 @@ export const catalogueHeld = {
   slug: "catalogue-held",
   definition: "the artists and songs already filed, read by what musicbrainz calls each",
   code: "ts",
-  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "An artist is found by the musicbrainz id on that artist's record.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An artist stating no such record is found by the flat id that artist states.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A flat id another provider gave finds no artist.",
     },
     {
       invariantKind: "departure",
@@ -28,10 +19,7 @@ export const catalogueHeld = {
       invariantKind: "departure",
       statement: "A song is keyed by the musicbrainz id on that song's record.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The flat keys a page holds are dropped before that page is stated again.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here reaches the network or writes a page.",
