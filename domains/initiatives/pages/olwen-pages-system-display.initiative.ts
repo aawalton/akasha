@@ -30,5 +30,12 @@ export const olwenPagesSystemDisplay = {
       statement:
         "A page named by a relation property is drawn as a chip by its own page type's component.",
     },
+    {
+      statement: "The page page type states the components drawing any page, its chip and its row.",
+    },
+    {
+      statement:
+        "The page-property page type states the components drawing any property's badge and row.",
+    },
   ],
 } as const satisfies Initiative
