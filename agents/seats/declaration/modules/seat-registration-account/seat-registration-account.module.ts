@@ -4,7 +4,7 @@ export const seatRegistrationAccount = {
   id: "01a06949-b281-7f25-beab-a1bc8f5ade76",
   type: "module",
   slug: "seat-registration-account",
-  definition: "the account a seat is enrolled under, read from its page and shown as one line",
+  definition: "the account a seat is enrolled under, read from its page",
   code: "ts",
   invariants: [
     {
@@ -14,14 +14,6 @@ export const seatRegistrationAccount = {
     {
       invariantKind: "departure",
       statement: "A page with no such text gives no account.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An account that is not there is shown as a dash rather than as an empty line.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The line is the label padded to eight columns followed by the account.",
     },
   ],
 } as const satisfies Module

@@ -1,4 +1,3 @@
-import { existsSync } from "node:fs"
 import { pageTextOf } from "akasha/agents/seats/page/modules/values/seat-page-values.module.code.ts"
 import { initiativesDrawn } from "akasha/domains/modules/work-initiatives/work-initiatives.module.code.ts"
 import { addressIn } from "akasha/pages/modules/address/page-address.module.code.ts"
@@ -8,15 +7,8 @@ const KEY = "initiative"
 
 const ASSIGNMENT_KEY = "domain-slug"
 
-export const INITIATIVE_SLUG_KEY = "initiative-slug"
-
 export interface InitiativeRecord {
   readonly value: string
-}
-
-export interface InitiativePlace {
-  readonly relPath: string
-  readonly pageTypeSlug: string
 }
 
 function initiativesIn(root: string): ReadonlyMap<string, string> {
@@ -25,12 +17,6 @@ function initiativesIn(root: string): ReadonlyMap<string, string> {
 
 export function initiativeStemOf(bare: string, root: string): string | null {
   return initiativesIn(root).has(bare) ? bare : null
-}
-
-export function initiativePlaceOf(bare: string, root: string): InitiativePlace | null {
-  const at = initiativesIn(root).get(bare)
-  if (at === undefined || !existsSync(`${root}/${at}`)) return null
-  return { relPath: at, pageTypeSlug: KEY }
 }
 
 export function initiativeOf(agent: string): InitiativeRecord | null {
@@ -55,8 +41,4 @@ export function refuseInitiative(slug: string, root: string): readonly string[] 
     `initiative: nothing under ${placeOf(found)}/ is named \`${slug}\`, so the seat would name no ` +
       `initiative at all. There: ${known.length === 0 ? "nothing yet" : known.sort().join(", ")}`,
   ]
-}
-
-export function initiativeLine(record: InitiativeRecord | null): string {
-  return `  ${KEY.padEnd(8)} ${record === null ? "— none stated" : record.value}`
 }

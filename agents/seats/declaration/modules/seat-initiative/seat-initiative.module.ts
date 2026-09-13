@@ -32,9 +32,5 @@ export const seatInitiative = {
       invariantKind: "departure",
       statement: "The initiatives akasha knows are named back.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A place is answered only where the file that place names is there.",
-    },
   ],
 } as const satisfies Module

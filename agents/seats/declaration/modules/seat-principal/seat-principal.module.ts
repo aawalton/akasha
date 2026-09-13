@@ -23,9 +23,5 @@ export const seatPrincipal = {
       invariantKind: "departure",
       statement: "The principal seat's id is looked up from the principal seat name.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A principal that was never written is shown as a dash on the line.",
-    },
   ],
 } as const satisfies Module

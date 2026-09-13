@@ -27,7 +27,3 @@ export function principalSeatIdOf(agent: string): string | null {
   const name = principalSeatNameOf(agent)
   return name === null ? null : seatIdForName(name)
 }
-
-export function principalLine(recorded: PrincipalRecord | null): string {
-  return `  ${"principal".padEnd(8)} ${recorded === null ? "— not recorded" : recorded.value}`
-}

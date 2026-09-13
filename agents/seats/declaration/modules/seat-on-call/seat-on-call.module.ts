@@ -4,7 +4,7 @@ export const seatOnCall = {
   id: "01a06949-b281-7ac9-9029-67b66a0efb23",
   type: "module",
   slug: "seat-on-call",
-  definition: "whether a seat is on call, read off its page, with the line that reports it",
+  definition: "whether a seat is on call, read off its page",
   code: "ts",
   invariants: [
     {
@@ -18,14 +18,6 @@ export const seatOnCall = {
     {
       invariantKind: "departure",
       statement: "A seat with no page in akasha reads as not on call.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The reported line pads the key name to eight columns before the answer.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A seat that is not on call is reported as `none stated` rather than as blank.",
     },
   ],
 } as const satisfies Module
