@@ -9,6 +9,8 @@ import {
   AT,
   BESIDE_AT,
   BESIDE_TEXT,
+  COMMAND_AT,
+  COMMAND_TEXT,
   EVERY_TEXT,
   HELD_TEXT,
   importedBy,
@@ -125,6 +127,15 @@ test("the export a page file is named for is spared and another beside it is jud
 
 test("the value a page's uncommitted body holds is spared and another beside it is judged", () => {
   const said = judging(landing(rooted(), { [BESIDE_AT]: bytesOf(BESIDE_TEXT) })).map(
+    (one) => one.reason
+  )
+
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`spare`")
+})
+
+test("the name made from a command's slug is spared in that command's code", () => {
+  const said = judging(landing(rooted(), { [COMMAND_AT]: bytesOf(COMMAND_TEXT) })).map(
     (one) => one.reason
   )
 

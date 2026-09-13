@@ -32,6 +32,11 @@ export const BESIDE_AT = "akasha/held.domain.uncommitted.ts"
 export const BESIDE_TEXT =
   'export const heldDomainUncommitted = { "held": 1 } as const\nexport const spare = 2\n'
 
+export const COMMAND_AT = "akasha/held-thing.command.code.ts"
+
+export const COMMAND_TEXT =
+  "export function heldThing(): number {\n  return 1\n}\n\nexport const spare = 2\n"
+
 export const LUA_AT = "akasha/held.lualib.code.ts"
 
 const LUA_PAGE_AT = "akasha/held.lualib.ts"
@@ -55,6 +60,7 @@ export function rooted(): string {
   founded(root)
   typed(root, "domain", "page")
   typed(root, "lualib", "domain")
+  typed(root, "command", "domain")
   noImportersFiled(root)
   return root
 }

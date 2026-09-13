@@ -43,6 +43,8 @@ const LUALIB = "lualib"
 
 const LUA_EXPORT = "luaExport"
 
+const COMMAND = "command"
+
 function toldApart(name: string): boolean {
   return name !== ANYTHING && name !== DEFAULT
 }
@@ -144,6 +146,10 @@ function luaNamed(path: string, said: Parted, bodyOf: Bodied): string | null {
   return held === null ? null : textAt(held, LUA_EXPORT)
 }
 
+function commandCode(said: Parted): boolean {
+  return said.pageType === COMMAND && said.sections.length > 0
+}
+
 export function sparedIn(
   path: string,
   pageTypes: ReadonlySet<string>,
@@ -154,7 +160,8 @@ export function sparedIn(
   if (uncommittedNamed(path)) return nameFor(`${pageOf(said)}.${HELD}`)
   const lua = luaNamed(path, said, bodyOf)
   if (lua !== null) return lua
-  return pageNamed(path, pageTypes) ? exportedAs(said.slug) : null
+  if (!commandCode(said) && !pageNamed(path, pageTypes)) return null
+  return exportedAs(said.slug)
 }
 
 export type Unreached = {

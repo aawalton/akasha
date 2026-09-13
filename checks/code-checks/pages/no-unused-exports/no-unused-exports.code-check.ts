@@ -111,6 +111,11 @@ export const noUnusedExports = {
       invariantKind: "departure",
       statement: "The name a lualib page states as its lua export is reached by the compiler.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The name made from a command's slug is reached by the runner calling that command.",
+    },
   ],
   check: { maxCpuSeconds: 30 },
   audit: { maxCpuSeconds: 120 },
