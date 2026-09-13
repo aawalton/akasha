@@ -71,37 +71,6 @@ export function setNextEmptyTrait(
   throw new Error("No empty trait slot found")
 }
 
-export function clearAllTraits(build: CompanionState): CompanionState {
-  const armor = { ...build.equipment.armor }
-  for (const slotId of companionArmorSlots.ids) {
-    const slot = armor[slotId]
-    if (slot.itemType === "armor") {
-      armor[slotId] = { ...slot, data: { ...slot.data, trait: "no-trait" } }
-    }
-  }
-
-  const jewelry = { ...build.equipment.jewelry }
-  for (const slotId of companionJewelrySlots.ids) {
-    const slot = jewelry[slotId]
-    if (slot.itemType === "jewelry") {
-      jewelry[slotId] = { ...slot, data: { ...slot.data, trait: "no-trait" } }
-    }
-  }
-
-  const weapons = { ...build.equipment.weapons }
-  for (const slotId of companionWeaponSlots.ids) {
-    const slot = weapons[slotId]
-    if (slot.itemType === "weapon") {
-      weapons[slotId] = { ...slot, data: { ...slot.data, trait: "no-trait" } }
-    }
-  }
-
-  return {
-    ...build,
-    equipment: { ...build.equipment, armor, jewelry, weapons },
-  }
-}
-
 export function setRingQualityToLegendary(build: CompanionState): CompanionState {
   let jewelry = build.equipment.jewelry
   let changed = false

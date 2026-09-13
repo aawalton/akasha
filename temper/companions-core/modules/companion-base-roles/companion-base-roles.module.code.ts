@@ -1,5 +1,4 @@
 import type { CompanionArmorWeight } from "akasha/temper/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
-import type { CompanionRoleId } from "akasha/temper/companions-core/modules/companion-roles/companion-roles.module.code.ts"
 import type { CompanionTraitId } from "akasha/temper/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import type { CompanionWeaponRoleId } from "akasha/temper/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
 import { createDataFile } from "akasha/utils/narrow/modules/create-data-file/create-data-file.module.code.ts"
@@ -117,35 +116,4 @@ export function getBaseRoleName(roles: readonly CompanionBaseRoleId[]): string {
   const names = [...new Set(roles.map((id) => companionBaseRoles.data[id].name))]
   names.sort((a, b) => BASE_ROLE_NAME_ORDER.indexOf(a) - BASE_ROLE_NAME_ORDER.indexOf(b))
   return names.join(" + ")
-}
-
-export function compareRoleIds(a: CompanionRoleId, b: CompanionRoleId): number {
-  const partsA = a.split("+")
-  const partsB = b.split("+")
-
-  if (partsA.length !== partsB.length) return partsA.length - partsB.length
-
-  for (const [i, partA] of partsA.entries()) {
-    const partB = partsB[i]
-    if (partB === undefined) break
-    const indexA = getRolePartSortIndex(partA)
-    const indexB = getRolePartSortIndex(partB)
-    if (indexA !== indexB) return indexA - indexB
-  }
-  return 0
-}
-
-const ROLE_SORT_ORDER: CompanionBaseRoleId[] = ["tank", "healer", "support", "dps"]
-const roleIdToIndex = new Map<string, number>(ROLE_SORT_ORDER.map((id, i) => [id, i * 3]))
-
-function getRolePartSortIndex(part: string): number {
-  const exact = roleIdToIndex.get(part)
-  if (exact !== undefined) return exact
-
-  const base = part.split("-")[0]
-  if (base === undefined) return Number.MAX_SAFE_INTEGER
-  const baseIndex = roleIdToIndex.get(base)
-  if (baseIndex !== undefined) return baseIndex + 1
-
-  return Number.MAX_SAFE_INTEGER
 }
