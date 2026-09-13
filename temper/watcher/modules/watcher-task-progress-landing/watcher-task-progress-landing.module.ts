@@ -26,7 +26,19 @@ export const watcherTaskProgressLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A completion that will not parse reads as nothing rather than throwing.",
+      statement: "A character with no completion file beside it counts as having no completion.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A completion file holding no JSON object refuses the recomputation.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal names the completion file it read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that refuses leaves every progress file as it was.",
     },
     {
       invariantKind: "departure",

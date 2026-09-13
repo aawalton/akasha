@@ -2,8 +2,12 @@ import { expect, test } from "bun:test"
 import { bodyOfRows } from "akasha/temper/watcher/modules/watcher-task-progress/watcher-task-progress.module.code.ts"
 import {
   completionIn,
+  type ProgressDeps,
+  type Put,
   putsFor,
+  refreshTaskProgress,
   rosterFrom,
+  unreadCompletionWhy,
 } from "akasha/temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.code.ts"
 
 const PAGE_PATH =
@@ -41,10 +45,95 @@ const TASK = { slug: "crafting-writs", completionCardId: "daily-writs" }
 
 const PATHS = new Map([["crafting-writs", PAGE_PATH]])
 
-test("a completion that will not parse reads as nothing rather than throwing", () => {
-  expect(completionIn("{ not json")).toBe(null)
-  expect(completionIn(null)).toBe(null)
-  expect(completionIn("")).toBe(null)
+const CHARACTER_PAGE =
+  "temper/characters/temper-account-characters/pages/durene/durene.temper-account-character.ts"
+
+const CHARACTER_COMPLETION =
+  "temper/characters/temper-account-characters/pages/durene/durene.temper-account-character.completion.json"
+
+const ACCOUNT_PAGE =
+  "temper/characters/temper-accounts/pages/an-account/an-account.temper-account.ts"
+
+const ACCOUNT_COMPLETION =
+  "temper/characters/temper-accounts/pages/an-account/an-account.temper-account.completion.json"
+
+const CHARACTER_ROW = { slug: "durene", title: "Durene", firstName: "Durene", displayOrder: 10 }
+
+const AN_INSTANT = "2026-09-13T00:00:00.000Z"
+
+function pagePathFor(named: { readonly pageTypeSlug: string }): string {
+  if (named.pageTypeSlug === "temper-account-character") return CHARACTER_PAGE
+  if (named.pageTypeSlug === "temper-account") return ACCOUNT_PAGE
+  return PAGE_PATH
+}
+
+function progressRun(completion: string | null): {
+  deps: ProgressDeps
+  wrote: (readonly Put[])[]
+} {
+  const wrote: (readonly Put[])[] = []
+  const held: Record<string, string | null> = {
+    [CHARACTER_COMPLETION]: completion,
+    [ACCOUNT_COMPLETION]: null,
+    [PAGE_PATH]: PAGE,
+    [ROWS_PATH]: null,
+  }
+  const bodyAt = (path: string) => ({ path, content: held[path] ?? null })
+  return {
+    wrote,
+    deps: {
+      ask: async (query) =>
+        query.pageTypeSlug === "temper-account-character"
+          ? { rows: [CHARACTER_ROW], n: 1 }
+          : { rows: [{ slug: "an-account" }], n: 1 },
+      pages: async (named) => ({
+        ok: true,
+        at: AN_INSTANT,
+        unplaced: [],
+        bodies: named.map((one) => bodyAt(pagePathFor(one))),
+      }),
+      files: async (paths) => ({
+        ok: true,
+        at: AN_INSTANT,
+        unplaced: [],
+        bodies: paths.map(bodyAt),
+      }),
+      write: async (puts) => {
+        wrote.push(puts)
+        return { ok: true, at: AN_INSTANT }
+      },
+      report: () => {},
+    },
+  }
+}
+
+test("a completion file holding no JSON object refuses and names the file", () => {
+  expect(() => completionIn(CHARACTER_COMPLETION, "{ not json")).toThrow(
+    unreadCompletionWhy(CHARACTER_COMPLETION)
+  )
+  expect(() => completionIn(CHARACTER_COMPLETION, "[1,2]")).toThrow(
+    unreadCompletionWhy(CHARACTER_COMPLETION)
+  )
+})
+
+test("a character with no completion file beside it counts as having no completion", () => {
+  expect(completionIn<Record<string, number>>(CHARACTER_COMPLETION, null)).toBe(null)
+  expect(completionIn<Record<string, number>>(CHARACTER_COMPLETION, "")).toBe(null)
+  const read = completionIn<Record<string, number>>(CHARACTER_COMPLETION, '{"questsDone":3}')
+  expect(read).toEqual({ questsDone: 3 })
+})
+
+test("a run that refuses leaves every progress file as it was", async () => {
+  const { deps, wrote } = progressRun("{ not json")
+  await expect(refreshTaskProgress("user-1", [TASK], deps)).rejects.toThrow(
+    unreadCompletionWhy(CHARACTER_COMPLETION)
+  )
+  expect(wrote).toEqual([])
+})
+
+test("a character with no completion file does not refuse the recomputation", async () => {
+  const { deps } = progressRun(null)
+  await expect(refreshTaskProgress("user-1", [TASK], deps)).resolves.toBeGreaterThanOrEqual(0)
 })
 
 test("a roster entry takes its label from the first name and falls back to the title", () => {

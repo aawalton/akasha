@@ -27,6 +27,7 @@ import {
   refreshedFor,
   type TaskFacts,
 } from "akasha/temper/watcher/modules/watcher-task-progress/watcher-task-progress.module.code.ts"
+import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
 
 const CHARACTER_TYPE = "temper-account-character"
 
@@ -70,13 +71,21 @@ function readyFor(deps: ProgressDeps = {}): ProgressReady {
   }
 }
 
-export function completionIn<T>(text: string | null): T | null {
+export function unreadCompletionWhy(path: string): string {
+  return `the completion file at ${path} holds no JSON object, so the character it belongs to would drop out of the progress rows this run commits`
+}
+
+export function completionIn<T>(path: string, text: string | null): T | null {
   if (text === null || text.trim() === "") return null
+  let parsed: unknown
   try {
-    return JSON.parse(text) as T
+    parsed = JSON.parse(text)
   } catch {
-    return null
+    throw new Error(unreadCompletionWhy(path))
   }
+  const completion = asRecord(parsed)
+  if (completion === undefined) throw new Error(unreadCompletionWhy(path))
+  return completion as T
 }
 
 function textOf(row: Row, key: string): string {
@@ -133,7 +142,9 @@ async function heldBeside<T>(
   )
   const found = await ready.files([...beside.values()])
   if (!found.ok) throw new Error(`the ${pageTypeSlug} completion went unread — ${found.why}`)
-  for (const [slug, path] of beside) held.set(slug, completionIn<T>(contentIn(found.bodies, path)))
+  for (const [slug, path] of beside) {
+    held.set(slug, completionIn<T>(path, contentIn(found.bodies, path)))
+  }
   return held
 }
 
