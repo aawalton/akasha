@@ -22,6 +22,9 @@ export const amyHarnessImprovements = {
     {
       statement: "Temper Tasks has no All view.",
     },
+    {
+      statement: "A subagent is stopped from the agents panel, as a seat is.",
+    },
   ],
 
   constraints: [
