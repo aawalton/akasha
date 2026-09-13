@@ -144,6 +144,21 @@ export const changeImports = {
         "A body that moved deeper climbs the right number of levels in every run it holds.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A path a body builds off the folder that body sits in follows what moved, as a name does.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Such a path built out of anything but written letters refuses the change and is named.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Two rewrites writing the same letters refuse the change rather than one taking the other's place.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here has a file.",
     },

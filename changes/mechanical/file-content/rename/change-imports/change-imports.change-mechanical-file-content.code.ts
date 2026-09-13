@@ -15,6 +15,10 @@ import {
 } from "akasha/code/modules/specifier/code-specifier.module.code.ts"
 import { landedAt } from "akasha/code/paths/modules/folder-spelling/folder-spelling.module.code.ts"
 import { runsIn } from "akasha/code/paths/modules/path-runs/path-runs.module.code.ts"
+import {
+  readsRuntimePaths,
+  runtimePatches,
+} from "akasha/code/paths/modules/runtime-path/code-runtime-path.module.code.ts"
 
 const GENERATED = "+types"
 
@@ -115,6 +119,59 @@ function withinFor(
   return splices.length === 0 ? null : putOver(said, splices)
 }
 
+type Rewritten = { readonly splices: readonly Splice[] } | { readonly refused: string }
+
+function fromRoot(absolute: string): string {
+  return absolute.startsWith(UNDER) ? absolute.slice(1) : absolute
+}
+
+function runtimeOver(
+  was: string,
+  now: string,
+  text: string,
+  landing: Landing,
+  known: Known
+): Rewritten {
+  if (!readsRuntimePaths(now)) return { splices: [] }
+  const said = runtimePatches(
+    text,
+    was,
+    now,
+    (absolute) => landing(fromRoot(absolute)),
+    (absolute) => absolute === UNDER || known(fromRoot(absolute))
+  )
+  if (said.unreadable.length > 0) {
+    return {
+      refused:
+        `\`${now}\` builds a path off the folder that body sits in out of something other than` +
+        ` written letters, so the move cannot carry that path — ${said.unreadable.join("; ")}`,
+    }
+  }
+  return {
+    splices: said.patches.map((one) => ({ from: one.start, to: one.end, put: one.text })),
+  }
+}
+
+function mergedOver(now: string, named: readonly Splice[], runtime: readonly Splice[]): Rewritten {
+  const all = [...named, ...runtime].sort((one, next) => one.from - next.from)
+  for (const [index, one] of all.entries()) {
+    const next = all[index + 1]
+    if (next !== undefined && next.from < one.to) {
+      return {
+        refused:
+          `the names in \`${now}\` and the paths that body builds off its own folder both write` +
+          ` letter ${next.from} to ${one.to}, so the move is refused rather than landing half of` +
+          " each",
+      }
+    }
+  }
+  return { splices: all }
+}
+
+function spliced(now: string, text: string, held: Rewritten): Said {
+  return "refused" in held ? refusing(held.refused) : stating(splicing(now, text, held.splices))
+}
+
 export function changeImports(
   was: string,
   now: string,
@@ -133,7 +190,9 @@ export function changeImports(
     if (next === null || next === one.text) continue
     splices.push({ from: one.start, to: one.end, put: JSON.stringify(next) })
   }
-  return stating(splicing(now, text, splices))
+  const runtime = runtimeOver(was, now, text, landing, known)
+  if ("refused" in runtime) return refusing(runtime.refused)
+  return spliced(now, text, mergedOver(now, splices, runtime.splices))
 }
 
 type Pointed = {
@@ -229,7 +288,10 @@ export function changeRuns(
   landing: Landing,
   known: Known
 ): Said {
-  return stating(splicing(now, text, runsFor(was, dirname(now), text, landing, known)))
+  const runtime = runtimeOver(was, now, text, landing, known)
+  if ("refused" in runtime) return refusing(runtime.refused)
+  const runs = runsFor(was, dirname(now), text, landing, known)
+  return spliced(now, text, mergedOver(now, runs, runtime.splices))
 }
 
 export type Carried = {
