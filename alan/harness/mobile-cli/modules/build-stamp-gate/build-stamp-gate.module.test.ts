@@ -13,7 +13,7 @@ import {
   resolveApp,
   shellRepoRoot,
 } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
-import { buildTestflightDeployScript } from "akasha/alan/harness/mobile-cli/testflight-deploy-script/testflight-deploy-script.module.code.ts"
+import { buildTestflightDeployScript } from "akasha/alan/harness/mobile-cli/modules/testflight-deploy-script/testflight-deploy-script.module.code.ts"
 import {
   everyPath,
   listedAt,

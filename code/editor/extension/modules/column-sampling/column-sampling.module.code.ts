@@ -11,7 +11,7 @@ import {
   readSeatTerminals,
   type SeatTerminal,
 } from "akasha/code/editor/extension/modules/seat-terminals/seat-terminals.module.code.ts"
-import { PROCESS_ID_TIMEOUT_MS } from "akasha/code/editor/extension/terminal-pids/terminal-pids.module.code.ts"
+import { PROCESS_ID_TIMEOUT_MS } from "akasha/code/editor/extension/modules/terminal-pids/terminal-pids.module.code.ts"
 
 export async function sampleColumns(
   trigger: string,

@@ -10,7 +10,7 @@ import {
   getPagesStore,
 } from "akasha/pages/ui-store/modules/singleton/singleton.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import { useTemperPagesResolver } from "akasha/temper/web/temper-pages-resolver/temper-pages-resolver.module.code.ts"
+import { useTemperPagesResolver } from "akasha/temper/web/modules/temper-pages-resolver/temper-pages-resolver.module.code.ts"
 import { type ReactNode, useEffect, useRef, useState } from "react"
 import { z } from "zod"
 

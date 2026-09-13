@@ -8,7 +8,7 @@ import {
   symlinkSync,
 } from "node:fs"
 import { dirname, isAbsolute, join, relative } from "node:path"
-import { MOUNTED } from "akasha/code/test-overlay/test-overlay.module.code.ts"
+import { MOUNTED } from "akasha/code/modules/test-overlay/test-overlay.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"

@@ -12,7 +12,7 @@ import {
   POLL_TIMEOUT_MS,
   pollBuildUntilTerminal,
   processingFailureFor,
-} from "akasha/alan/harness/mobile-cli/testflight-poll/testflight-poll.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/modules/testflight-poll/testflight-poll.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { app } from "akasha/commands/arguments/pages/app.argument.ts"
 import { wait } from "akasha/commands/arguments/pages/wait.argument.ts"

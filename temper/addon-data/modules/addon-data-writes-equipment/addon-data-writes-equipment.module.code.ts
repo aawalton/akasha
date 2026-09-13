@@ -12,11 +12,11 @@ import { generateTemperArmorWeight } from "akasha/temper/addon-generators/module
 import { generateTemperEsoCompanionEquipmentConstant } from "akasha/temper/addon-generators/modules/temper-eso-companion-equipment-constant/temper-eso-companion-equipment-constant.module.code.ts"
 import { generateTemperEsoPlayerEquipmentConstant } from "akasha/temper/addon-generators/modules/temper-eso-player-equipment-constant/temper-eso-player-equipment-constant.module.code.ts"
 import { generateTemperEsoTraitMap } from "akasha/temper/addon-generators/modules/temper-eso-trait-map/temper-eso-trait-map.module.code.ts"
-import { generateTemperJewelryEnchant } from "akasha/temper/addon-generators/temper-jewelry-enchant/temper-jewelry-enchant.module.code.ts"
-import { generateTemperJewelryTrait } from "akasha/temper/addon-generators/temper-jewelry-trait/temper-jewelry-trait.module.code.ts"
-import { generateTemperWeaponEnchant } from "akasha/temper/addon-generators/temper-weapon-enchant/temper-weapon-enchant.module.code.ts"
-import { generateTemperWeaponTrait } from "akasha/temper/addon-generators/temper-weapon-trait/temper-weapon-trait.module.code.ts"
-import { generateTemperWeaponType } from "akasha/temper/addon-generators/temper-weapon-type/temper-weapon-type.module.code.ts"
+import { generateTemperJewelryEnchant } from "akasha/temper/addon-generators/modules/temper-jewelry-enchant/temper-jewelry-enchant.module.code.ts"
+import { generateTemperJewelryTrait } from "akasha/temper/addon-generators/modules/temper-jewelry-trait/temper-jewelry-trait.module.code.ts"
+import { generateTemperWeaponEnchant } from "akasha/temper/addon-generators/modules/temper-weapon-enchant/temper-weapon-enchant.module.code.ts"
+import { generateTemperWeaponTrait } from "akasha/temper/addon-generators/modules/temper-weapon-trait/temper-weapon-trait.module.code.ts"
+import { generateTemperWeaponType } from "akasha/temper/addon-generators/modules/temper-weapon-type/temper-weapon-type.module.code.ts"
 
 export function buildAddonDataWritesEquipment(
   p: AddonDataPages,

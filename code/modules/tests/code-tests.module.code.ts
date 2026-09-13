@@ -5,7 +5,7 @@ import {
   type Bodies,
   mountedOver,
   type Overlay,
-} from "akasha/code/test-overlay/test-overlay.module.code.ts"
+} from "akasha/code/modules/test-overlay/test-overlay.module.code.ts"
 import {
   AKASHA,
   repos,

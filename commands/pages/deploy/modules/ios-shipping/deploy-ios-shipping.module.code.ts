@@ -12,7 +12,7 @@ import {
   resolveApp,
   shellRepoRoot,
 } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
-import { runTestflightCut } from "akasha/alan/harness/mobile-cli/testflight-cut/testflight-cut.module.code.ts"
+import { runTestflightCut } from "akasha/alan/harness/mobile-cli/modules/testflight-cut/testflight-cut.module.code.ts"
 import {
   answeredWith,
   DATA,

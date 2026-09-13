@@ -4,8 +4,8 @@ import {
 } from "akasha/temper/addon-data/modules/addon-data-output-dirs/addon-data-output-dirs.module.code.ts"
 import type { AddonDataPages } from "akasha/temper/addon-data/modules/addon-data-pages/addon-data-pages.module.code.ts"
 import { generateSetCategoryMappings } from "akasha/temper/addon-data/modules/render-set-category-mappings/render-set-category-mappings.module.code.ts"
-import { generateTemperSet } from "akasha/temper/addon-generators/temper-set/temper-set.module.code.ts"
-import { generateTemperSetCategory } from "akasha/temper/addon-generators/temper-set-category/temper-set-category.module.code.ts"
+import { generateTemperSet } from "akasha/temper/addon-generators/modules/temper-set/temper-set.module.code.ts"
+import { generateTemperSetCategory } from "akasha/temper/addon-generators/modules/temper-set-category/temper-set-category.module.code.ts"
 
 export function buildAddonDataWritesSets(
   p: AddonDataPages,

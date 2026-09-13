@@ -19,7 +19,7 @@ import { RICH_DOCUMENT_OPS } from "akasha/pages/core/property-types/modules/rich
 import { ROLLUP_OPS } from "akasha/pages/core/property-types/modules/rollup/rollup.module.code.ts"
 import { RRULE_OPS } from "akasha/pages/core/property-types/modules/rrule/rrule.module.code.ts"
 import { SELECT_OPS } from "akasha/pages/core/property-types/modules/select/select.module.code.ts"
-import { TEXT_OPS } from "akasha/pages/core/property-types/text/text.module.code.ts"
+import { TEXT_OPS } from "akasha/pages/core/property-types/modules/text/text.module.code.ts"
 import { URL_OPS } from "akasha/pages/core/property-types/url/url.module.code.ts"
 
 export const PROPERTY_TYPE_OPS_REGISTRY = {

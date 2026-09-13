@@ -18,7 +18,7 @@ import {
 import {
   identified,
   readProcessIds,
-} from "akasha/code/editor/extension/terminal-pids/terminal-pids.module.code.ts"
+} from "akasha/code/editor/extension/modules/terminal-pids/terminal-pids.module.code.ts"
 import * as vscode from "vscode"
 
 const OPEN_TRANSCRIPT_COMMAND = "opsTranscript.open"

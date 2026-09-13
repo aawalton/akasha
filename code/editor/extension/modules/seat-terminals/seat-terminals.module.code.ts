@@ -10,7 +10,7 @@ import {
   readProcessIds,
   tally,
   tallyLine,
-} from "akasha/code/editor/extension/terminal-pids/terminal-pids.module.code.ts"
+} from "akasha/code/editor/extension/modules/terminal-pids/terminal-pids.module.code.ts"
 import * as vscode from "vscode"
 
 const TERMINAL_TABS = "terminal-tabs"

@@ -9,8 +9,8 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { infrastructureShellInitBash as page } from "akasha/commands/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.ts"
-import type { AliasEntry } from "akasha/shell/terminal/terminal-bash/terminal-bash.module.code.ts"
-import { generateBashInit } from "akasha/shell/terminal/terminal-bash/terminal-bash.module.code.ts"
+import type { AliasEntry } from "akasha/shell/terminal/modules/terminal-bash/terminal-bash.module.code.ts"
+import { generateBashInit } from "akasha/shell/terminal/modules/terminal-bash/terminal-bash.module.code.ts"
 
 const NO_ACCOUNT =
   "no claude account page was read, so the set would carry no account launcher at all — " +

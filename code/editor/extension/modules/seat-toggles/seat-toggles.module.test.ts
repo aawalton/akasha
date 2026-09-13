@@ -11,7 +11,7 @@ import {
   shownFor,
   tabItems,
 } from "akasha/code/editor/extension/modules/seat-toggles/seat-toggles.module.test-fixtures.ts"
-import { SEAT_ATTACH_FN } from "akasha/shell/terminal/terminal-seat-marks/terminal-seat-marks.module.code.ts"
+import { SEAT_ATTACH_FN } from "akasha/shell/terminal/modules/terminal-seat-marks/terminal-seat-marks.module.code.ts"
 
 describe("the steps a toggle plans", () => {
   test("a running seat is stopped whatever its place", () => {
