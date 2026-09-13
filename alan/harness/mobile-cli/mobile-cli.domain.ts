@@ -56,6 +56,14 @@ export const mobileCli = {
     },
     {
       invariantKind: "departure",
+      statement: "A TestFlight build is made by an agent at this workstation rather than by Alan.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "How many commits a build carries is no reason to put that build to Alan.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A simulator run is delivered a few folders rather than a checkout.",
     },
     {
