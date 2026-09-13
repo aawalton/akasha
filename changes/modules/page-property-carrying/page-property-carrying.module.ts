@@ -6,6 +6,7 @@ export const pagePropertyCarrying = {
   slug: "page-property-carrying",
   definition: "which pages carry a page property's values, and which files beside them hold them",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
