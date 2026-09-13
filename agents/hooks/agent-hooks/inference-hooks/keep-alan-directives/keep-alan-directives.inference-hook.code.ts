@@ -66,7 +66,8 @@ export const GATES = {
   payload: "no payload read",
   held: "a stop this refused already",
   seat: "no seat in the environment",
-  working: "a subagent or a shell still to report",
+  subagent: "a subagent still to report",
+  shell: "a background command still to report",
   words: "no words closing the turn",
   person: "a seat answering to no person",
   rule: "a person stating no rule",
@@ -76,8 +77,8 @@ export const GATES = {
   open: "held open",
 } as const
 
-export function lineFor(gate: string, put: number, at: Date): string {
-  return `${JSON.stringify({ at: at.toISOString(), gate, put })}\n`
+export function lineFor(gate: string, put: number, at: Date, seat: string | null): string {
+  return `${JSON.stringify({ at: at.toISOString(), seat, gate, put })}\n`
 }
 
 function rootHere(): string | null {
@@ -88,10 +89,16 @@ function rootHere(): string | null {
   }
 }
 
-function noting(root: string | null, gate: string, put: number = 0): undefined {
+function noting(
+  root: string | null,
+  seat: string | null,
+  gate: string,
+  put: number = 0
+): undefined {
   if (root === null) return
   try {
-    recorded(root, valuedAt(root, HOOK_TYPE, HOOK).path, lineFor(gate, put, new Date()), STOP_GATES)
+    const line = lineFor(gate, put, new Date(), seat)
+    recorded(root, valuedAt(root, HOOK_TYPE, HOOK).path, line, STOP_GATES)
   } catch {}
 }
 
@@ -160,23 +167,23 @@ export function holding(asking: readonly Putting[], answers: readonly string[] |
 function judging(root: string, agent: string, asked: string, turn: string): Answer {
   const person = personIn(valuesOfType(root, SEAT) as readonly Valued[], agent)
   if (person === null) {
-    noting(root, GATES.person)
+    noting(root, agent, GATES.person)
     return LET_THROUGH
   }
   const directives = directivesIn(valuedAt(root, PERSON, person).value[DIRECTIVES])
   if (directives.length === 0) {
-    noting(root, GATES.rule)
+    noting(root, agent, GATES.rule)
     return LET_THROUGH
   }
   const asking = JUDGES.flatMap((judge) => judge({ asked, turn, directives }))
   const prompts = asking.map((one) => one.prompt)
   const answers = askedOf(root, modelOf(root, test.modelFamily), prompts)
   if (answers === null) {
-    noting(root, GATES.model, asking.length)
+    noting(root, agent, GATES.model, asking.length)
     return LET_THROUGH
   }
   const held = holding(asking, answers)
-  noting(root, held === LET_THROUGH ? GATES.clean : GATES.open, asking.length)
+  noting(root, agent, held === LET_THROUGH ? GATES.clean : GATES.open, asking.length)
   return held
 }
 
@@ -189,32 +196,34 @@ async function ran(): Promise<number> {
   if (root === null) return ASIDE
   const payload = payloadIn(await Bun.stdin.text())
   if (payload === null) {
-    noting(root, GATES.payload)
+    noting(root, null, GATES.payload)
     return ASIDE
   }
   if (payload[ACTIVE] === true) {
-    noting(root, GATES.held)
+    noting(root, null, GATES.held)
     return ASIDE
   }
   const agent = seatIn(process.env)
   if (agent === null) {
-    noting(root, GATES.seat)
+    noting(root, null, GATES.seat)
     return ASIDE
   }
-  if (stillWorking(await runningUnder(agent), workingOf(agent))) {
-    noting(root, GATES.working)
+  const running = await runningUnder(agent)
+  const working = workingOf(agent)
+  if (stillWorking(running, working)) {
+    noting(root, agent, running.length > 0 ? GATES.subagent : GATES.shell)
     return ASIDE
   }
   const tail = readOwnTranscriptTail(agent)
   const turn = tail === null ? null : lastSaidIn(tail)
   if (tail === null || turn === null) {
-    noting(root, GATES.words)
+    noting(root, agent, GATES.words)
     return ASIDE
   }
   try {
     return said(judging(root, agent, lastAskedIn(tail) ?? "", turn))
   } catch {
-    noting(root, GATES.threw)
+    noting(root, agent, GATES.threw)
     return ASIDE
   }
 }

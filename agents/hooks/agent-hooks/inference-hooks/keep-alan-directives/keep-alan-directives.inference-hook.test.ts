@@ -133,14 +133,20 @@ test("a judge whose answer never came back is read as no", () => {
   expect(holding(PUT, []).code).toBe(ASIDE)
 })
 
-test("a line says when the run was, where it stopped, and how many rules it put", () => {
-  expect(lineFor(GATES.working, 0, new Date("2026-09-13T08:00:00.000Z"))).toBe(
-    '{"at":"2026-09-13T08:00:00.000Z","gate":"a subagent or a shell still to report","put":0}\n'
+test("a line says when the run was, whose seat it was, where it stopped, and how many rules", () => {
+  expect(lineFor(GATES.subagent, 0, new Date("2026-09-13T08:00:00.000Z"), "a")).toBe(
+    '{"at":"2026-09-13T08:00:00.000Z","seat":"a","gate":"a subagent still to report","put":0}\n'
+  )
+})
+
+test("a gate reached before the seat is known names no seat", () => {
+  expect(lineFor(GATES.seat, 0, new Date("2026-09-13T08:00:00.000Z"), null)).toContain(
+    '"seat":null'
   )
 })
 
 test("a line ends in a newline, so lines append rather than run together", () => {
-  expect(lineFor(GATES.clean, 5, new Date()).endsWith("}\n")).toBe(true)
+  expect(lineFor(GATES.clean, 5, new Date(), "a").endsWith("}\n")).toBe(true)
 })
 
 test("a run that reached the model and one that never did name different gates", () => {
@@ -148,6 +154,10 @@ test("a run that reached the model and one that never did name different gates",
   expect(new Set(named).size).toBe(named.length)
   expect(GATES.clean).not.toBe(GATES.model)
   expect(GATES.open).not.toBe(GATES.clean)
+})
+
+test("a subagent still working and a shell still working are two gates", () => {
+  expect(GATES.subagent).not.toBe(GATES.shell)
 })
 
 test("the scope says each run is recorded whether or not a model was reached", () => {

@@ -39,6 +39,10 @@ export const stopGates = {
       invariantKind: "absence",
       statement: "A run that cannot be recorded is not a run that is refused.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A line names the seat the run was under, or no seat where the run knew none yet.",
+    },
   ],
   types: "ts",
 } as const satisfies FileProperty
