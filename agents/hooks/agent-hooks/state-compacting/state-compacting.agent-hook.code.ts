@@ -4,7 +4,7 @@ import {
   SCOPE_FLAG,
 } from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
 import { seatIn } from "akasha/agents/modules/read-record/read-record.module.code.ts"
-import { setPending } from "akasha/agents/seats/modules/turn-pending/seat-turn-pending.module.code.ts"
+import { setPending } from "akasha/agents/seats/observation/seat-turn/modules/turn-pending/seat-turn-pending.module.code.ts"
 
 const HOOK = "state-compacting"
 

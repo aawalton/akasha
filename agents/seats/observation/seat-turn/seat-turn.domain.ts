@@ -5,7 +5,14 @@ export const seatTurn = {
   type: "domain",
   slug: "seat-turn",
   definition: "whether an agent in a seat is working",
-  parts: ["module/turn-working"],
+  parts: [
+    "module/seat-pending",
+    "module/seat-turn-color",
+    "module/seat-turn-pending",
+    "module/seat-turn-state",
+    "module/turn-working",
+    "module/wake-armed-specs",
+  ],
   invariants: [
     {
       invariantKind: "departure",

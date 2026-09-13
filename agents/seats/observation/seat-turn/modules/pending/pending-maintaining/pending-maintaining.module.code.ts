@@ -4,8 +4,8 @@ import { messagesDirRelPath } from "akasha/agents/messaging/modules/message-file
 import {
   pendingFromFiles,
   type SeatPending,
-} from "akasha/agents/seats/modules/pending/pending-from-files/pending-from-files.module.code.ts"
-import { setPending } from "akasha/agents/seats/modules/turn-pending/seat-turn-pending.module.code.ts"
+} from "akasha/agents/seats/observation/seat-turn/modules/pending/pending-from-files/pending-from-files.module.code.ts"
+import { setPending } from "akasha/agents/seats/observation/seat-turn/modules/turn-pending/seat-turn-pending.module.code.ts"
 import { akashaSeatsThatExist } from "akasha/agents/seats/page/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { akashaObservedOf } from "akasha/agents/seats/page/modules/akasha-read/seat-akasha-read.module.code.ts"
 import { akashaSeatsDirIn } from "akasha/agents/seats/page/modules/page-akasha/seat-page-akasha.module.code.ts"

@@ -5,11 +5,11 @@ const FOLLOWING_ON = "following on"
 const HANDED: (readonly string[])[] = []
 
 const maintaining = await import(
-  "akasha/agents/seats/modules/pending/pending-maintaining/pending-maintaining.module.code.ts"
+  "akasha/agents/seats/observation/seat-turn/modules/pending/pending-maintaining/pending-maintaining.module.code.ts"
 )
 
 mock.module(
-  "akasha/agents/seats/modules/pending/pending-maintaining/pending-maintaining.module.code.ts",
+  "akasha/agents/seats/observation/seat-turn/modules/pending/pending-maintaining/pending-maintaining.module.code.ts",
   () => ({
     ...maintaining,
     runPendingMaintaining: (argv: readonly string[]) => {
@@ -60,7 +60,7 @@ test("a run does not answer while the folders are followed, so the runner's proc
 
 test("a start that could not be taken is carried out rather than swallowed, so a failed start is a failed unit", async () => {
   mock.module(
-    "akasha/agents/seats/modules/pending/pending-maintaining/pending-maintaining.module.code.ts",
+    "akasha/agents/seats/observation/seat-turn/modules/pending/pending-maintaining/pending-maintaining.module.code.ts",
     () => ({
       ...maintaining,
       runPendingMaintaining: () => {
