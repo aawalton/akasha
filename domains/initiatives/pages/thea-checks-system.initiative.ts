@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "The check passes over a value a runner reaches by path rather than by import.",
       workingMemory:
-        "77 refusals sit in page code a runner loads by path, so the import index sees no importer: computed properties 34, change guards 11, check modules 11, manifests 6, type generators 6, readouts 5, model tests 3, one command. Three are settled: a route's code is judged by nothing, a lualib page's `lua-export` is spared, and a command's code keeps the name made from its slug.",
+        "Six are settled: a route's code is judged by nothing; a lualib page's `lua-export`, a computed property's `work` and a change guard's `runGuard` are spared by name; a command's code and a check's code keep the name made from their slug. What is left is a router app's own code files, which are no page's code — `root.tsx` holds `meta`, `Layout`, `ErrorBoundary`, `loader` and `links`, and `routes.ts` holds `routes`.",
     },
     {
       statement: "No module exports a value nothing names.",
