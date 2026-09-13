@@ -38,16 +38,16 @@ import {
   launchOf,
   launchStating,
   refuseFlex,
-} from "akasha/agents/seats/name/modules/flex/seat-flex.module.code.ts"
-import { nameStanding } from "akasha/agents/seats/name/modules/name-stands/seat-name-stands.module.code.ts"
+} from "akasha/agents/seats/name/modules/seat-flex/seat-flex.module.code.ts"
 import {
   nameableFrom,
   nameableStated,
-} from "akasha/agents/seats/name/modules/nameable/seat-nameable.module.code.ts"
+} from "akasha/agents/seats/name/modules/seat-nameable/seat-nameable.module.code.ts"
 import {
   composedNameOf,
   followName,
-} from "akasha/agents/seats/name/modules/rename/seat-rename.module.code.ts"
+} from "akasha/agents/seats/name/modules/seat-rename/seat-rename.module.code.ts"
+import { nameStanding } from "akasha/agents/seats/name/modules/stands/seat-name-stands.module.code.ts"
 import { akashaSeatRelPath } from "akasha/agents/seats/page/modules/page-akasha/seat-page-akasha.module.code.ts"
 import { statedFromHistory } from "akasha/agents/seats/page/modules/page-history/seat-page-history.module.code.ts"
 import { writeSeatPage } from "akasha/agents/seats/page/modules/page-writing/seat-page-writing.module.code.ts"

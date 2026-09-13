@@ -8,7 +8,7 @@ import type {
   NameableSeat,
   Principal,
 } from "akasha/agents/seats/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
-import { flexOf } from "akasha/agents/seats/name/modules/flex/seat-flex.module.code.ts"
+import { flexOf } from "akasha/agents/seats/name/modules/seat-flex/seat-flex.module.code.ts"
 
 export function nameableStated(
   set: Partial<Record<Declaration, string>>,

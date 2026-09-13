@@ -6,7 +6,7 @@ import {
   type NameableSeat,
   SEAT_NAMING,
   type SeatNaming,
-} from "akasha/agents/seats/name/modules/naming/seat-naming.module.code.ts"
+} from "akasha/agents/seats/name/modules/seat-naming/seat-naming.module.code.ts"
 
 const NAMING: SeatNaming = { defaultPersona: "claude", namedByPersona: ["alan"] }
 

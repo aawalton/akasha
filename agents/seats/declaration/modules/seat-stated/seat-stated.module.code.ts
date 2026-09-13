@@ -16,7 +16,7 @@ import type { Principal } from "akasha/agents/seats/name/modules/compose-seat-na
 import {
   type FlexRecord,
   flexOf,
-} from "akasha/agents/seats/name/modules/flex/seat-flex.module.code.ts"
+} from "akasha/agents/seats/name/modules/seat-flex/seat-flex.module.code.ts"
 import {
   type StatedFromHistory,
   statedFromHistory,

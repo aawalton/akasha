@@ -6,7 +6,7 @@ import {
   serverOptionShell,
   supervisorEntryShell,
 } from "akasha/agents/seats/launching/modules/launching/seat-launching.module.code.ts"
-import { HANDLER } from "akasha/agents/seats/name/modules/naming/seat-naming.module.code.ts"
+import { HANDLER } from "akasha/agents/seats/name/modules/seat-naming/seat-naming.module.code.ts"
 import { seatPathForName } from "akasha/agents/seats/page/modules/reading/seat-reading.module.code.ts"
 import {
   personaDocumentGateLines,

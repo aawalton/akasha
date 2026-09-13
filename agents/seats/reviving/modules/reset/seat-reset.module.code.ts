@@ -16,7 +16,7 @@ import {
   SEAT_MODE_HEADLESS,
 } from "akasha/agents/seats/launching/modules/seat-modes/seat-modes.module.code.ts"
 import { composeSeatName } from "akasha/agents/seats/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
-import { flexInName } from "akasha/agents/seats/name/modules/flex/seat-flex.module.code.ts"
+import { flexInName } from "akasha/agents/seats/name/modules/seat-flex/seat-flex.module.code.ts"
 import { mintNamedAgent } from "akasha/agents/seats/name-claiming/modules/seat-name-bind/seat-name-bind.module.code.ts"
 import {
   type SeatFromHistory,

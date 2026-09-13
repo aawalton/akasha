@@ -3,7 +3,7 @@ import {
   movesWithTheAttributes,
   type NameableSeat,
 } from "akasha/agents/seats/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
-import { composedNameOf } from "akasha/agents/seats/name/modules/rename/seat-rename.module.code.ts"
+import { composedNameOf } from "akasha/agents/seats/name/modules/seat-rename/seat-rename.module.code.ts"
 import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 
 export function nameStanding(agent: string, root: string, next: NameableSeat): string | null {

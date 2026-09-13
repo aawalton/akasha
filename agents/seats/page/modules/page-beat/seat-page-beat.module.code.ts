@@ -4,7 +4,7 @@ import {
   type Stated,
   statedOf,
 } from "akasha/agents/seats/declaration/modules/seat-stated/seat-stated.module.code.ts"
-import { composedNameOf } from "akasha/agents/seats/name/modules/rename/seat-rename.module.code.ts"
+import { composedNameOf } from "akasha/agents/seats/name/modules/seat-rename/seat-rename.module.code.ts"
 import {
   nameFromHistory,
   parentFromHistory,
