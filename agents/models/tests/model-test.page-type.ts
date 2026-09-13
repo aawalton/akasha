@@ -70,7 +70,7 @@ export const modelTest = {
     {
       invariantKind: "constraint",
       statement:
-        "A sign named by description refuses about one clean case in two hundred, whatever the wording.",
+        "Most of what read as a judge refusing a clean case was the key naming a breach as clean.",
     },
     {
       invariantKind: "constraint",
