@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { bodyOf } from "akasha/agents/subagents/modules/body/subagent-body.module.code.ts"
 import {
   committed,
   filedNow,
@@ -16,7 +17,6 @@ import {
   pathOf,
   slugOf,
 } from "akasha/agents/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
-import { bodyOf } from "akasha/agents/subagents/modules/subagent-body/subagent-body.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
