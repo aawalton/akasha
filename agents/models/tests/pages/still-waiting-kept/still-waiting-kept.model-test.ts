@@ -48,5 +48,9 @@ export const stillWaitingKept = {
       statement:
         "One sentence carrying this mark is labelled clean and its twin elsewhere is labelled a breach.",
     },
+    {
+      invariantKind: "constraint",
+      statement: "This is kept off the hook: eight more catches cost the union its zero refusals.",
+    },
   ],
 } as const satisfies ModelTest
