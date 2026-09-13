@@ -54,8 +54,6 @@ export function executeBankDeposits(
   ctx: BankSlotContext,
   currentCharId: string,
   frozen: FrozenStockCounts,
-  startOps: number,
-  maxOps: number,
   bankMoveItem: (
     sourceBag: number,
     sourceSlot: number,
@@ -63,7 +61,7 @@ export function executeBankDeposits(
     targetSlot: number,
     stackCount: number
   ) => void
-): { ops: number; depositedLinks: string[] } {
+): { depositedLinks: string[] } {
   const deposits: {
     bagId: number
     slotIndex: number
@@ -168,11 +166,9 @@ export function executeBankDeposits(
 
   const stockDepositedCounts = new LuaMap<number, number>()
 
-  let ops = startOps
   let noRoomSaid = false
 
   for (const dep of deposits) {
-    if (ops >= maxOps) break
     const [stackCount] = GetSlotStackSize(dep.bagId, dep.slotIndex)
     if (stackCount === 0) continue
 
@@ -184,11 +180,8 @@ export function executeBankDeposits(
           dep.bagId,
           dep.slotIndex,
           useDeposits,
-          ops,
-          maxOps,
           bankMoveItem
         )
-        ops = result.ops
         for (const link of result.depositedLinks) depositedLinks.push(link)
         continue
       }
@@ -234,7 +227,6 @@ export function executeBankDeposits(
       depositedLinks.push(toMove > 1 ? `${itemLink} x${toMove}` : itemLink)
       bankMoveItem(dep.bagId, dep.slotIndex, BAG_VIRTUAL, 0, toMove)
       clearPendingAction(dep.bagId, dep.slotIndex)
-      ops++
       continue
     }
 
@@ -262,10 +254,9 @@ export function executeBankDeposits(
       stockDepositedCounts.set(accumKey, alreadyDispatched + toMove)
     }
     clearPendingAction(dep.bagId, dep.slotIndex)
-    ops++
   }
 
-  return { ops, depositedLinks }
+  return { depositedLinks }
 }
 
 function executeUseDepositsSplit(
@@ -273,8 +264,6 @@ function executeUseDepositsSplit(
   sourceBagId: number,
   sourceSlotIndex: number,
   useDeposits: readonly { readonly charId: string; readonly qty: number }[],
-  startOps: number,
-  maxOps: number,
   bankMoveItem: (
     sourceBag: number,
     sourceSlot: number,
@@ -282,15 +271,13 @@ function executeUseDepositsSplit(
     targetSlot: number,
     stackCount: number
   ) => void
-): { ops: number; depositedLinks: string[] } {
+): { depositedLinks: string[] } {
   const itemLink = GetItemLink(sourceBagId, sourceSlotIndex, LINK_STYLE_BRACKETS)
   const itemId = GetItemLinkItemId(itemLink)
   const charsAlreadyAtBank = scanBankForActionPending(ctx, itemId, "use")
   const depositedLinks: string[] = []
-  let ops = startOps
 
   for (const entry of useDeposits) {
-    if (ops >= maxOps) break
     const [stackRemaining] = GetSlotStackSize(sourceBagId, sourceSlotIndex)
     if (stackRemaining === 0) break
 
@@ -308,10 +295,9 @@ function executeUseDepositsSplit(
     bankMoveItem(sourceBagId, sourceSlotIndex, target.bag, target.slot, toMove)
     setPendingAction(target.bag, target.slot, "use", `character:${entry.charId}`)
     charsAlreadyAtBank.set(entry.charId, true)
-    ops++
   }
 
-  return { ops, depositedLinks }
+  return { depositedLinks }
 }
 
 function scanBankForActionPending(

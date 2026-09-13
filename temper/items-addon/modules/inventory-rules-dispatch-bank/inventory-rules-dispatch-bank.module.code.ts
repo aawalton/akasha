@@ -18,7 +18,7 @@ import {
 import { executeBankWithdrawals } from "akasha/temper/items-addon/modules/inventory-rules-dispatch-bank-withdrawals/inventory-rules-dispatch-bank-withdrawals.module.code.ts"
 import { refreshBackpackActions } from "akasha/temper/items-addon/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"
 
-const MAX_OPS = 50
+const MAX_VAULT_WITHDRAW_OPS = 50
 
 let dispatchingBank = false
 
@@ -40,7 +40,7 @@ export function onOpenBank(): undefined {
       currentChestId: undefined,
     }
     const vaultStart = GetGameTimeMilliseconds()
-    const { withdrawnLinks } = executeVaultWithdrawals(vaultCtx, MAX_OPS, moveItem)
+    const { withdrawnLinks } = executeVaultWithdrawals(vaultCtx, MAX_VAULT_WITHDRAW_OPS, moveItem)
     recordBankPhaseMs("withdraw", GetGameTimeMilliseconds() - vaultStart)
     recordBankMoves(withdrawnLinks.length, 0)
     if (withdrawnLinks.length > 0) {
@@ -91,13 +91,7 @@ export function onOpenBank(): undefined {
   }
 
   const withdrawStart = GetGameTimeMilliseconds()
-  const { withdrawnLinks } = executeBankWithdrawals(
-    ctx,
-    currentCharId,
-    frozenStock,
-    MAX_OPS,
-    enqueue
-  )
+  const { withdrawnLinks } = executeBankWithdrawals(ctx, currentCharId, frozenStock, enqueue)
   recordBankPhaseMs("withdraw", GetGameTimeMilliseconds() - withdrawStart)
 
   const storageLabel = isBank ? "bank" : "storage"
@@ -107,14 +101,7 @@ export function onOpenBank(): undefined {
   }
 
   const depositStart = GetGameTimeMilliseconds()
-  const { depositedLinks } = executeBankDeposits(
-    ctx,
-    currentCharId,
-    frozenStock,
-    0,
-    MAX_OPS,
-    enqueue
-  )
+  const { depositedLinks } = executeBankDeposits(ctx, currentCharId, frozenStock, enqueue)
   recordBankPhaseMs("deposit", GetGameTimeMilliseconds() - depositStart)
   recordBankMoves(withdrawnLinks.length, depositedLinks.length)
 

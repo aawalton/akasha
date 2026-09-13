@@ -268,7 +268,6 @@ export function executeBankWithdrawals(
   ctx: BankSlotContext,
   currentCharId: string,
   frozen: FrozenStockCounts,
-  maxOps: number,
   bankMoveItem: (
     sourceBag: number,
     sourceSlot: number,
@@ -276,7 +275,7 @@ export function executeBankWithdrawals(
     targetSlot: number,
     stackCount: number
   ) => void
-): { ops: number; withdrawnLinks: string[] } {
+): { withdrawnLinks: string[] } {
   const withdrawals = collectBankWithdrawals(ctx, currentCharId, frozen)
   const withdrawnLinks: string[] = []
 
@@ -288,7 +287,6 @@ export function executeBankWithdrawals(
   let ops = 0
 
   for (const w of withdrawals) {
-    if (ops >= maxOps) break
     if (initialFree - ops <= bufferSlots) {
       d(`[${ADDON_NAME}] Stopping withdrawals — backpack buffer reached (${bufferSlots} reserved)`)
       break
@@ -352,5 +350,5 @@ export function executeBankWithdrawals(
     ops++
   }
 
-  return { ops, withdrawnLinks }
+  return { withdrawnLinks }
 }

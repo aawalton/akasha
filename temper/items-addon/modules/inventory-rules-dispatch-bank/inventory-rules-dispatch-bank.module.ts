@@ -9,7 +9,8 @@ export const inventoryRulesDispatchBank = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Withdrawing and depositing are each allowed their own moves in a visit.",
+      statement:
+        "What a visit withdraws and deposits is bounded by backpack room and storage room, never by a count.",
     },
     {
       invariantKind: "departure",
