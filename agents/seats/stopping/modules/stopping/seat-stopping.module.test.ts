@@ -237,7 +237,7 @@ test("a landing answering something wrong leaves the reading where it is", async
 
 const SEAT_AT = "agents/seats/pages/tester/tester.seat.ts"
 
-const UNDER_AT = "seat-system/subagents/pages/tester-abc/tester-abc.subagent.ts"
+const UNDER_AT = "agents/subagents/pages/tester-abc/tester-abc.subagent.ts"
 
 const SEAT_BODY = "export const tester = {} as const\n"
 
