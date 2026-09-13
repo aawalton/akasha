@@ -6,6 +6,7 @@ export const pageTypeRestating = {
   slug: "page-type-restating",
   definition: "the page type a body states, restated with the type that body satisfies",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

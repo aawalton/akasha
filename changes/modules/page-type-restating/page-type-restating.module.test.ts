@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { runChange } from "akasha/changes/mechanical/file-content/change/change-page-page-type/change-page-page-type.change-mechanical-file-content.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { pageTypeRestated } from "akasha/changes/modules/page-type-restating/page-type-restating.module.code.ts"
 import {
   NOTHING_OVER,
   type World,
@@ -41,7 +41,7 @@ function passagesOf(said: Answer): readonly Passage[] {
 }
 
 test("each passage is answered as a replace rather than reached for", () => {
-  const said = runChange(worldHolding(BODY), { at: AT, to: TO })
+  const said = pageTypeRestated(worldHolding(BODY), { at: AT, to: TO })
   const passages = passagesOf(said)
 
   expect(said.refused).toBe(null)
@@ -64,7 +64,7 @@ export const kept = {
 } as const satisfies OneThing
 `
 
-  const said = runChange(worldHolding(body), { at: AT, to: TO })
+  const said = pageTypeRestated(worldHolding(body), { at: AT, to: TO })
 
   expect(said.refused).toBe(null)
   expect(passagesOf(said)).toEqual([
@@ -80,7 +80,7 @@ export const kept = {
 })
 
 test("the import naming that type is restated to reach the page type named", () => {
-  const said = runChange(worldHolding(BODY), { at: AT, to: TO })
+  const said = pageTypeRestated(worldHolding(BODY), { at: AT, to: TO })
 
   expect(passagesOf(said)[0]).toEqual({
     at: AT,
@@ -92,7 +92,7 @@ test("the import naming that type is restated to reach the page type named", () 
 test("the import reaches the type file beside the page type where that page type has one", () => {
   const world: World = { ...worldHolding(BODY), bodyOf: () => "" }
 
-  const said = runChange(world, { at: AT, to: TO })
+  const said = pageTypeRestated(world, { at: AT, to: TO })
 
   expect(passagesOf(said)[0]).toEqual({
     at: AT,
@@ -102,19 +102,19 @@ test("the import reaches the type file beside the page type where that page type
 })
 
 test("a body stating no page type is refused", () => {
-  const said = runChange(worldHolding("export const kept = {}\n"), { at: AT, to: TO })
+  const said = pageTypeRestated(worldHolding("export const kept = {}\n"), { at: AT, to: TO })
 
   expect(said.refused).toBe(`\`${AT}\` states no \`type\`, so no page type is restated`)
 })
 
 test("a body stating the page type named already is refused", () => {
-  const said = runChange(worldHolding(BODY), { at: AT, to: "two/one-thing.page-type.ts" })
+  const said = pageTypeRestated(worldHolding(BODY), { at: AT, to: "two/one-thing.page-type.ts" })
 
   expect(said.refused).toBe("`one-thing` is the page type the body states already")
 })
 
 test("a body importing no type named for the page type that body states is refused", () => {
-  const said = runChange(worldHolding(BODY.slice(IMPORTED.length)), { at: AT, to: TO })
+  const said = pageTypeRestated(worldHolding(BODY.slice(IMPORTED.length)), { at: AT, to: TO })
 
   expect(said.refused).toBe(
     `\`${AT}\` imports no type named \`OneThing\`, so no page type is restated`
@@ -122,7 +122,7 @@ test("a body importing no type named for the page type that body states is refus
 })
 
 test("a path holding no body is refused", () => {
-  const said = runChange(worldHolding(null), { at: AT, to: TO })
+  const said = pageTypeRestated(worldHolding(null), { at: AT, to: TO })
 
   expect(said.refused).toBe(`\`${AT}\` holds no body, so no page type is restated`)
 })
