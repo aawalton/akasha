@@ -35,10 +35,16 @@ test("the map beside a runner names every change and is let through", () => {
   expect(reasonsIn(given(at, `import { runChange } from "${OTHER}"\n`))).toEqual([])
 })
 
-test("a test naming a change's code is let through for now", () => {
+test("a test naming another change's code is refused as any other body is", () => {
   const at = `${HOME}/shift-folder.change-mechanical-folder.test.ts`
 
-  expect(reasonsIn(given(at, `import { runChange } from "${OTHER}"\n`))).toEqual([])
+  expect(reasonsIn(given(at, `import { runChange } from "${OTHER}"\n`))).toHaveLength(1)
+})
+
+test("a test naming the code beside it is let through", () => {
+  const at = `${HOME}/shift-folder.change-mechanical-folder.test.ts`
+
+  expect(reasonsIn(given(at, `import { runChange } from "${OWN}"\n`))).toEqual([])
 })
 
 test("a module naming no change is let through", () => {

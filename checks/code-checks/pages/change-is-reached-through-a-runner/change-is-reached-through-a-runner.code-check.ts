@@ -51,11 +51,7 @@ export const changeIsReachedThroughARunner = {
       statement: "A body that is not code is passed over.",
     },
     {
-      invariantKind: "stopgap",
-      statement: "A test or a test's fixtures naming a change's code is let through.",
-    },
-    {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A test reaches a change through a runner rather than by importing that change.",
     },
     {

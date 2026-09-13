@@ -20,14 +20,8 @@ const CODE = ".code.ts"
 
 const ADDRESSED = ".change-runner.addressed.ts"
 
-const PROVING: readonly string[] = [".test.ts", ".test.tsx", ".test-fixtures.ts"]
-
-function proving(path: string): boolean {
-  return PROVING.some((one) => path.endsWith(one))
-}
-
 function found(path: string, text: string): readonly string[] {
-  if (path.endsWith(ADDRESSED) || proving(path) || !text.includes(SPELT)) return []
+  if (path.endsWith(ADDRESSED) || !text.includes(SPELT)) return []
   const home = dirname(path)
   const said: string[] = []
   for (const one of specifiersIn(path, text)) {
