@@ -4,14 +4,12 @@ import type {
   Answer,
   FileChange,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { repointed } from "akasha/changes/modules/import-repointing/import-repointing.module.code.ts"
+import { renameManifestWays } from "akasha/changes/modules/manifest-ways/manifest-ways.module.code.ts"
 import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { reachesIn } from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
 import { manifestsIn } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
 import { importingOf } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
-
-const CHANGE_IMPORTS = "change-mechanical-file-content/change-imports"
-
-const CHANGE_MANIFEST_WAYS = "change-mechanical-file-content/change-manifest-ways"
 
 const MOVE_FILE = "change-mechanical-file/move-file"
 
@@ -35,30 +33,26 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if ("unread" in reading) return refusing(reading.unread)
   const going = await reach(world, MOVE_FILE, { from: given.from, to: given.to })
   if (going.said.refused !== null) return going.said
-  const carried = await reach(going.world, CHANGE_IMPORTS, {
-    was: given.from,
-    now: given.to,
-    moved,
-  })
-  if (carried.said.refused !== null) return carried.said
-  const edits: FileChange[] = [...going.said.edits, ...carried.said.edits]
-  let seen = carried.world
+  const seen = going.world
+  const made: FileChange[] = []
+  const carried = repointed(seen, { was: given.from, now: given.to, moved })
+  if (carried.refused !== null) return carried
+  made.push(...carried.edits)
   for (const path of reading.importers) {
-    const held = seen.textOf(path)
-    if (held === null) return refusing(`\`${path}\` names what moved and could not be read`)
-    const said = await reach(seen, CHANGE_IMPORTS, { was: path, now: path, moved })
-    if (said.said.refused !== null) return said.said
-    edits.push(...said.said.edits)
-    seen = said.world
+    if (seen.textOf(path) === null) {
+      return refusing(`\`${path}\` names what moved and could not be read`)
+    }
+    const said = repointed(seen, { was: path, now: path, moved })
+    if (said.refused !== null) return said
+    made.push(...said.edits)
   }
   for (const at of manifestsIn(seen.index.everyPath(), seen.index.fileKeysAt())) {
     const held = seen.textOf(at)
     if (held === null) continue
     if (![...reachesIn(dirname(at), held).values()].includes(given.from)) continue
-    const said = await reach(seen, CHANGE_MANIFEST_WAYS, { at, moved })
-    if (said.said.refused !== null) return said.said
-    edits.push(...said.said.edits)
-    seen = said.world
+    const said = renameManifestWays({ at, moved }, seen.textOf)
+    if (said.refused !== null) return said
+    made.push(...said.edits)
   }
-  return stating(edits)
+  return stating([...going.said.edits, ...made])
 }

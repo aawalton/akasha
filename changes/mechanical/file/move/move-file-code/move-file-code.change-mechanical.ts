@@ -38,6 +38,10 @@ export const moveFileCode = {
     },
     {
       invariantKind: "departure",
+      statement: "The module repointing a body is called rather than reached through a rung.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every body importing the file names the path that file landed at.",
     },
     {
@@ -59,7 +63,7 @@ export const moveFileCode = {
     },
     {
       invariantKind: "departure",
-      statement: "The way in is restated by the change this change reaches for a manifest.",
+      statement: "The module restating a way in is called rather than reached through a rung.",
     },
     {
       invariantKind: "absence",

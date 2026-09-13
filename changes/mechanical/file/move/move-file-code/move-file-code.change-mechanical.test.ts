@@ -119,14 +119,12 @@ test("a move off a path the move before it made reads that path and its importer
   expect(movesOf(said)[0]?.pathFrom).toBe(KEPT)
 })
 
-test("the body that moves is repointed by the change reached at its address", async () => {
+test("the file moves by a rung and the body is repointed by the module", async () => {
   const reached: string[] = []
   const root = indexedRepo()
   const world = worldAt(root, textIn(root), listing(reached))
 
   await runChange(world, { from: HELD_CODE, to: KEPT })
 
-  expect(new Set(reached)).toEqual(
-    new Set(["change-mechanical-file/move-file", "change-mechanical-file-content/change-imports"])
-  )
+  expect(new Set(reached)).toEqual(new Set(["change-mechanical-file/move-file"]))
 })
