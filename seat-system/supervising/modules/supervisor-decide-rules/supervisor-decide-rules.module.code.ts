@@ -1,10 +1,4 @@
 import {
-  isIdleForPreservingRestart,
-  isIdleForPreservingRestartPastCliff,
-  isIgnoredMcpChildCmdline,
-  preservingRestartBusyReason,
-} from "akasha/agents/seats/supervisors/modules/idle-decide/supervisor-idle-decide.module.code.ts"
-import {
   decidePreCliffRestart,
   type PreCliffObservation,
 } from "akasha/agents/seats/supervisors/modules/precliff-restart-decide/supervisor-precliff-restart-decide.module.code.ts"
@@ -13,6 +7,12 @@ import {
   type ProxyAdoptionInput,
 } from "akasha/agents/seats/supervisors/modules/proxy-adoption-decide/supervisor-proxy-adoption-decide.module.code.ts"
 import { decideProxyLiveness } from "akasha/agents/seats/supervisors/modules/proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts"
+import {
+  isIdleForPreservingRestart,
+  isIdleForPreservingRestartPastCliff,
+  isIgnoredMcpChildCmdline,
+  preservingRestartBusyReason,
+} from "akasha/agents/seats/supervisors/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import {
   arr,
   bool,

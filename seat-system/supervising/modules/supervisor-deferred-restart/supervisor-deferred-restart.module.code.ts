@@ -1,5 +1,5 @@
 import { readTranscriptMtimeMs } from "akasha/agents/modules/io-probe/io-probe.module.code.ts"
-import type { IdleObservation } from "akasha/agents/seats/supervisors/modules/idle-decide/supervisor-idle-decide.module.code.ts"
+import type { IdleObservation } from "akasha/agents/seats/supervisors/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import {
   busyTrail,
   logPastCliffOverride,

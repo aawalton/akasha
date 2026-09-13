@@ -1,8 +1,8 @@
-import type { IdleObservation } from "akasha/agents/seats/supervisors/modules/idle-decide/supervisor-idle-decide.module.code.ts"
 import {
   INITIAL_PROXY_LIVENESS_STATE,
   type ProxyLivenessState,
 } from "akasha/agents/seats/supervisors/modules/proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts"
+import type { IdleObservation } from "akasha/agents/seats/supervisors/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import {
   bool,
   maybe,
