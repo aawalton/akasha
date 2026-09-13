@@ -5,12 +5,12 @@ import { pathsOf } from "akasha/pages/indexes/modules/path-claiming/path-claimin
 import {
   listedAt,
   type Valued,
+  valueByPath,
   valuesOfType,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import {
   slugOf,
-  textAt,
   type Value,
 } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
@@ -44,19 +44,20 @@ function typeValueOf(root: string, pageTypeSlug: string): Value | null {
 type Gathered = { readonly pages: readonly Valued[] } | { readonly why: string }
 
 function scriptsOf(root: string, named: readonly string[]): Gathered {
-  const wanted = new Set(named)
-  const found = new Map<string, Valued>()
-  for (const one of valuesOfType(root, SCRIPT)) {
-    const slug = textAt(one.value, "slug")
-    if (slug !== null && wanted.has(slug)) found.set(slug, one)
+  const found: Valued[] = []
+  const missing: string[] = []
+  for (const slug of named) {
+    const listed = listedAt(root, SCRIPT, slug)[0]
+    const value = listed === undefined ? null : valueByPath(root, listed.path)
+    if (listed === undefined || value === null) missing.push(slug)
+    else found.push({ path: listed.path, value })
   }
-  const missing = named.filter((slug) => !found.has(slug)).sort()
   if (missing.length > 0) {
     return {
-      why: `the ${APP} page type names ${missing.join(", ")}, and no ${SCRIPT} page carries that slug`,
+      why: `the ${APP} page type names ${missing.sort().join(", ")}, and no ${SCRIPT} page carries that slug`,
     }
   }
-  return { pages: [...found.values()] }
+  return { pages: found }
 }
 
 function sharedPages(root: string): Gathered {
