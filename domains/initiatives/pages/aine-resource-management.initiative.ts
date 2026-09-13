@@ -8,11 +8,6 @@ export const aineResourceManagement = {
   persona: "aine",
   intents: [
     {
-      statement: "Every test file an agent runs has a memory ceiling of its own.",
-      workingMemory:
-        "A test file is held to five processor seconds and 128 megabytes, both stated on code-file-property and read by code-tests. A run sits in a leaf of its own group and what it starts sits beside it, so the seconds and peak recorded carry everything that file started. The ceiling reclaims and slows rather than ending a run, so a file wanting more pays in processor seconds instead, and only the processor ceiling is judged. Of 1700 test files, 207 sit against the ceiling.",
-    },
-    {
       statement: "Every change an agent runs has a memory ceiling of its own.",
       workingMemory:
         "A change is held to three hundred processor seconds by ALLOWED_CPU in change-ceiling, which a change page overrides by stating maxCpuSeconds of its own. Nothing states a memory ceiling. A change runs inside the command process, so the peak recorded is that whole process's high water mark rather than the change's own. One draft of sort-property-values-on-every-page reached 24.0 GiB, and nothing above it refused that run.",
