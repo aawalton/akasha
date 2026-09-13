@@ -5,7 +5,7 @@ export const dalla = {
   type: "seat",
   slug: "dalla",
   persona: "dalla",
-  assignmentSlug: "initiative/dalla-deploy-cleanup",
+  assignmentSlug: "domain/service",
   role: "definer",
   person: "alan",
   startMode: "interactive",
