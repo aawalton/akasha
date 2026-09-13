@@ -1,4 +1,4 @@
-import { answer } from "akasha/agents/seats/supervisors/modules/decide/supervisor-decide.module.code.ts"
+import { answer } from "akasha/agents/seats/supervisors/modules/supervisor-decide/supervisor-decide.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 
 export function classifyRateLimitDeath(text: string): boolean {
