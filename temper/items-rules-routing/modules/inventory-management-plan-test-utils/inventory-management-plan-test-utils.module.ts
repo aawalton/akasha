@@ -6,10 +6,15 @@ export const inventoryManagementPlanTestUtils = {
   slug: "inventory-management-plan-test-utils",
   definition: "the items, holdings and rules a plan test builds when the test cares about neither",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "A field the test leaves unnamed takes the value stated here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each item this makes carries an id no other item it made carries.",
     },
   ],
 } as const satisfies Module
