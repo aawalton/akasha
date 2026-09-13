@@ -15,8 +15,8 @@ import { processCleanup } from "akasha/agents/seats/supervisors/modules/supervis
 import type { SeatResume } from "akasha/agents/seats/supervisors/modules/supervisor-args/supervisor-args.module.code.ts"
 import { materializeBootPrompt } from "akasha/agents/seats/supervisors/modules/supervisor-boot-prompt/supervisor-boot-prompt.module.code.ts"
 import { stage } from "akasha/agents/seats/supervisors/modules/supervisor-boot-stage/supervisor-boot-stage.module.code.ts"
+import { LOG } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
 import { isPendingReExec } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import { LOG } from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
 import type {
   InteractiveOpts,
   InteractiveSessionBoot,

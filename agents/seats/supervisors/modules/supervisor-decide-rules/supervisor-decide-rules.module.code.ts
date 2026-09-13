@@ -6,6 +6,17 @@ import {
   STOP_REASON,
 } from "akasha/agents/seats/supervisors/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import {
+  childExitClassification,
+  childExitObservation,
+  childExitStatus,
+  deferredRestartConfig,
+  deferredRestartObservation,
+  deferredRestartState,
+  idleObservation,
+  proxyLivenessState,
+  rawEnv,
+} from "akasha/agents/seats/supervisors/modules/supervisor-decide-rule-inputs/supervisor-decide-rule-inputs.module.code.ts"
+import {
   isIdleForPreservingRestart,
   isIdleForPreservingRestartPastCliff,
   isIgnoredMcpChildCmdline,
@@ -33,17 +44,6 @@ import {
   computeReExecJitterMs,
   resolveMaxReExecJitterMs,
 } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-jitter-decide/supervisor-self-heal-jitter-decide.module.code.ts"
-import {
-  childExitClassification,
-  childExitObservation,
-  childExitStatus,
-  deferredRestartConfig,
-  deferredRestartObservation,
-  deferredRestartState,
-  idleObservation,
-  proxyLivenessState,
-  rawEnv,
-} from "akasha/seat-system/supervising/modules/supervisor-decide-rule-inputs/supervisor-decide-rule-inputs.module.code.ts"
 import {
   decideDeferredRestart,
   EDGE_CONNECTION_CLIFF_OVERRIDE_MS,

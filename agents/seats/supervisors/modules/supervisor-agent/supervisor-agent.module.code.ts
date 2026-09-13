@@ -11,14 +11,14 @@ import type {
   OAuthCredential,
 } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import {
+  configDirForAccount,
+  LOG,
+} from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
+import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import {
-  configDirForAccount,
-  LOG,
-} from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
 
 export interface AccountResolutionDeps {
   getCredentialByAccount: (account: string, logPrefix?: string) => Promise<OAuthCredential | null>

@@ -1,5 +1,5 @@
 import { writeSync } from "node:fs"
-import type { LogSink } from "akasha/seat-system/supervising/modules/supervisor-console/supervisor-console.module.code.ts"
+import type { LogSink } from "akasha/agents/seats/supervisors/modules/supervisor-console/supervisor-console.module.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const OSC_BACKGROUND_RESET = "\x1b]111\x07"

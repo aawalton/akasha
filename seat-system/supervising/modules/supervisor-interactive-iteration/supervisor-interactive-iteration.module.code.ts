@@ -10,13 +10,13 @@ import { createAgent } from "akasha/agents/seats/supervisors/modules/supervisor-
 import type { SeatResume } from "akasha/agents/seats/supervisors/modules/supervisor-args/supervisor-args.module.code.ts"
 import { LIVE_CHILD_EXIT_RULE } from "akasha/agents/seats/supervisors/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { spawnOrAdoptChild } from "akasha/agents/seats/supervisors/modules/supervisor-child-spawn/supervisor-child-spawn.module.code.ts"
+import { LOG } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
+import type { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/modules/supervisor-console/supervisor-console.module.code.ts"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
 import {
   setCurrentAgentIdForSelfHeal,
   setCurrentSessionIdForSelfHeal,
 } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import { LOG } from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
-import type { buildAgentLogRedirect } from "akasha/seat-system/supervising/modules/supervisor-console/supervisor-console.module.code.ts"
 import { keepSeatTranscript } from "akasha/seat-system/supervising/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import type {
   InteractiveOpts,

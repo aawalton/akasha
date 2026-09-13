@@ -10,11 +10,11 @@ import {
   readClaudeConfigDeclaration,
   reconcileClaudeConfig,
 } from "akasha/agents/seats/supervisors/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"
-import type { SupervisorHandoff } from "akasha/seat-system/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
 import {
   HOME_DIR,
   LOG,
-} from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
+import type { SupervisorHandoff } from "akasha/seat-system/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
 import { buildSupervisorEnv } from "akasha/seat-system/supervising/modules/supervisor-env/supervisor-env.module.code.ts"
 import {
   isProcessAlive,

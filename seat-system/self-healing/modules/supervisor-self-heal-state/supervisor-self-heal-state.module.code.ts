@@ -1,3 +1,4 @@
+import { LOG } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   reExecAsked,
   takeReExecAsk,
@@ -7,7 +8,6 @@ import {
   type SelfHealRunInstall,
 } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-install/supervisor-self-heal-install.module.code.ts"
 import type { SelfHealJitterRuleSource } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-jitter-rule/supervisor-self-heal-jitter-rule.module.code.ts"
-import { LOG } from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
 import { armDeferredRestart } from "akasha/seat-system/supervising/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"
 import type { DeferredRestartRuleSource } from "akasha/seat-system/supervising/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
 import { isProcessAlive } from "akasha/seat-system/supervising/modules/supervisor-exec/supervisor-exec.module.code.ts"

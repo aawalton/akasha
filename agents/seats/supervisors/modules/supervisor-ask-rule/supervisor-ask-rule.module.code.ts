@@ -1,8 +1,8 @@
+import { LOG } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   askSupervisorDecide,
   SUPERVISOR_DECIDE_COMMAND,
 } from "akasha/agents/seats/supervisors/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
-import { LOG } from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
 import type { AskDecide } from "akasha/seat-system/supervising/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
 
 export type RuleAnswer<T> = { readonly value: T; readonly notice: string | null }

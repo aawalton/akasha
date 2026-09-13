@@ -1,10 +1,10 @@
 import { readFileSync } from "node:fs"
 import type { McpServerConfig } from "akasha/agents/claude-code/modules/claude-launch-args/claude-launch-args.module.code.ts"
 import { expandHome } from "akasha/agents/seats/supervisors/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"
+import { HOME_DIR } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { HOME_DIR } from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
 import { z } from "zod"
 
 const SETTINGS = "agent-settings"

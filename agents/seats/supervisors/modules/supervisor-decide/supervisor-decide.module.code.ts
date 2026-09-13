@@ -1,11 +1,5 @@
 import { decideClaimedRedelivery } from "akasha/agents/messaging/modules/supervisor-claimed-redelivery-decide/supervisor-claimed-redelivery-decide.module.code.ts"
 import { notices } from "akasha/agents/messaging/notices/modules/compose-notices/compose-notices.module.code.ts"
-import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
-import {
-  readPayload,
-  record,
-  rejectUnknownFlags,
-} from "akasha/commands/modules/payload/payload.module.code.ts"
 import {
   parseClaimedRedelivery,
   parseLimitResume,
@@ -14,8 +8,14 @@ import {
   parseRestartNotice,
   parseUncertainWait,
   parseWaitResume,
-} from "akasha/seat-system/supervising/modules/supervisor-decide-payload/supervisor-decide-payload.module.code.ts"
-import { RULE_DECISIONS } from "akasha/seat-system/supervising/modules/supervisor-decide-rules/supervisor-decide-rules.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-decide-payload/supervisor-decide-payload.module.code.ts"
+import { RULE_DECISIONS } from "akasha/agents/seats/supervisors/modules/supervisor-decide-rules/supervisor-decide-rules.module.code.ts"
+import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
+import {
+  readPayload,
+  record,
+  rejectUnknownFlags,
+} from "akasha/commands/modules/payload/payload.module.code.ts"
 import {
   decideLimitResume,
   LIMIT_RESUME_FLOOR_MS,

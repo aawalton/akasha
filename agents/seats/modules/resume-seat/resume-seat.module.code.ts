@@ -20,11 +20,11 @@ import {
   type SpawnGuardInput,
 } from "akasha/agents/seats/modules/spawn-guard/spawn-guard.module.code.ts"
 import { clearRequestedAction } from "akasha/agents/seats/supervisors/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
+import { SEAT_START_DIR } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   dataError,
   operationalError,
 } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { SEAT_START_DIR } from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
 
 export interface ResumeTarget {
   readonly name: string | null

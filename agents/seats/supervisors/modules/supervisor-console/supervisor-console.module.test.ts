@@ -9,7 +9,7 @@ import {
   SUPERVISOR_CONSOLE_SOURCE,
   seatPageSink,
   shouldRotate,
-} from "akasha/seat-system/supervising/modules/supervisor-console/supervisor-console.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-console/supervisor-console.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
