@@ -18,6 +18,7 @@ export const source = {
     "trakt",
     "wikipedia",
     "wizarding-world",
+    "project-euler",
   ],
   invariants: [
     {
