@@ -3,15 +3,15 @@ import type {
   OnDemandAgentSpec,
 } from "akasha/agents/messaging/recipient-resolving/modules/seat-wake-rules/seat-wake-rules.module.code.ts"
 import {
-  handlerSeatName,
-  identityHeardFrom,
-} from "akasha/agents/seats/modules/compose-seat-name/compose-seat-name.module.code.ts"
-import {
   type PersonHandlerIdentity,
   personHandlerSpec,
   smsWakeSource,
   standingPersonaSpec,
 } from "akasha/agents/seats/modules/wake-armed-specs/wake-armed-specs.module.code.ts"
+import {
+  handlerSeatName,
+  identityHeardFrom,
+} from "akasha/agents/seats/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

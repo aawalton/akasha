@@ -15,31 +15,13 @@ import {
 } from "akasha/agents/seats/modules/answering/seat-answering.module.code.ts"
 import { type Args, parseArgs } from "akasha/agents/seats/modules/args/seat-args.module.code.ts"
 import { attributeFor } from "akasha/agents/seats/modules/attribute/seat-attribute.module.code.ts"
-import {
-  composeSeatName,
-  personPrincipals,
-} from "akasha/agents/seats/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { defaultLines } from "akasha/agents/seats/modules/defaults/seat-defaults.module.code.ts"
-import {
-  launchOf,
-  launchStating,
-  refuseFlex,
-} from "akasha/agents/seats/modules/flex/seat-flex.module.code.ts"
 import { SEAT_HELP } from "akasha/agents/seats/modules/help/seat-help.module.code.ts"
 import { refuseInitiative } from "akasha/agents/seats/modules/initiative/seat-initiative.module.code.ts"
-import { nameStanding } from "akasha/agents/seats/modules/name-stands/seat-name-stands.module.code.ts"
-import {
-  nameableFrom,
-  nameableStated,
-} from "akasha/agents/seats/modules/nameable/seat-nameable.module.code.ts"
 import { akashaSeatRelPath } from "akasha/agents/seats/modules/page-akasha/seat-page-akasha.module.code.ts"
 import { statedFromHistory } from "akasha/agents/seats/modules/page-history/seat-page-history.module.code.ts"
 import { writeSeatPage } from "akasha/agents/seats/modules/page-writing/seat-page-writing.module.code.ts"
 import { principalOf } from "akasha/agents/seats/modules/principal/seat-principal.module.code.ts"
-import {
-  composedNameOf,
-  followName,
-} from "akasha/agents/seats/modules/rename/seat-rename.module.code.ts"
 import {
   defaultFor,
   defaultSlots,
@@ -48,6 +30,24 @@ import {
   scan,
 } from "akasha/agents/seats/modules/resolve/seat-resolve.module.code.ts"
 import { statedNow } from "akasha/agents/seats/modules/stated/seat-stated.module.code.ts"
+import {
+  composeSeatName,
+  personPrincipals,
+} from "akasha/agents/seats/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
+import {
+  launchOf,
+  launchStating,
+  refuseFlex,
+} from "akasha/agents/seats/name/modules/flex/seat-flex.module.code.ts"
+import { nameStanding } from "akasha/agents/seats/name/modules/name-stands/seat-name-stands.module.code.ts"
+import {
+  nameableFrom,
+  nameableStated,
+} from "akasha/agents/seats/name/modules/nameable/seat-nameable.module.code.ts"
+import {
+  composedNameOf,
+  followName,
+} from "akasha/agents/seats/name/modules/rename/seat-rename.module.code.ts"
 import {
   AKASHA,
   akashaRoot,

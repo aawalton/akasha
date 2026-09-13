@@ -9,7 +9,7 @@ import {
 import {
   type Principal,
   principals,
-} from "akasha/agents/seats/modules/compose-seat-name/compose-seat-name.module.code.ts"
+} from "akasha/agents/seats/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
 import {
   AKASHA,

@@ -10,7 +10,7 @@ import {
   formatSeatProcKey,
   readSeatProcKey,
 } from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
-import { composedNameOf } from "akasha/agents/seats/modules/rename/seat-rename.module.code.ts"
+import { composedNameOf } from "akasha/agents/seats/name/modules/rename/seat-rename.module.code.ts"
 import {
   getCurrentAgentIdForSelfHeal,
   getCurrentSessionIdForSelfHeal,

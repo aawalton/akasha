@@ -3,12 +3,12 @@ import {
   type Attributes,
   type Declaration,
 } from "akasha/agents/modules/attributes/agent-attributes.module.code.ts"
+import { principalOf } from "akasha/agents/seats/modules/principal/seat-principal.module.code.ts"
 import type {
   NameableSeat,
   Principal,
-} from "akasha/agents/seats/modules/compose-seat-name/compose-seat-name.module.code.ts"
-import { flexOf } from "akasha/agents/seats/modules/flex/seat-flex.module.code.ts"
-import { principalOf } from "akasha/agents/seats/modules/principal/seat-principal.module.code.ts"
+} from "akasha/agents/seats/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
+import { flexOf } from "akasha/agents/seats/name/modules/flex/seat-flex.module.code.ts"
 
 export function nameableStated(
   set: Partial<Record<Declaration, string>>,

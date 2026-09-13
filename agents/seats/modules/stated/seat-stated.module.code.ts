@@ -1,6 +1,4 @@
 import * as declarations from "akasha/agents/modules/attributes/agent-attributes.module.code.ts"
-import type { Principal } from "akasha/agents/seats/modules/compose-seat-name/compose-seat-name.module.code.ts"
-import { type FlexRecord, flexOf } from "akasha/agents/seats/modules/flex/seat-flex.module.code.ts"
 import {
   type InitiativeRecord,
   initiativeOf,
@@ -20,6 +18,11 @@ import {
   type RegistrationRecord,
   registrationAccountOf,
 } from "akasha/agents/seats/modules/registration-account/seat-registration-account.module.code.ts"
+import type { Principal } from "akasha/agents/seats/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
+import {
+  type FlexRecord,
+  flexOf,
+} from "akasha/agents/seats/name/modules/flex/seat-flex.module.code.ts"
 import {
   ROTATED_KEY,
   rotatedOf,

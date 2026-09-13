@@ -3,7 +3,7 @@ import type {
   OnDemandAgentSpec,
   StateAuthorityKind,
 } from "akasha/agents/messaging/recipient-resolving/modules/seat-wake-rules/seat-wake-rules.module.code.ts"
-import { handlerSeatName } from "akasha/agents/seats/modules/compose-seat-name/compose-seat-name.module.code.ts"
+import { handlerSeatName } from "akasha/agents/seats/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 import type { Shape } from "akasha/utils/narrow/modules/shape-core/shape-core.module.code.ts"
 

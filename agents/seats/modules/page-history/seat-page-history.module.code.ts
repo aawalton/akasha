@@ -6,8 +6,8 @@ import {
   akashaSeatInHistory,
   akashaSeatNamedInHistory,
 } from "akasha/agents/seats/modules/akasha-history/seat-akasha-history.module.code.ts"
-import { FLEET } from "akasha/agents/seats/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { initiativeStemOf } from "akasha/agents/seats/modules/initiative/seat-initiative.module.code.ts"
+import { FLEET } from "akasha/agents/seats/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { AKASHA, rootFor } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import type { Roots } from "akasha/pages/modules/markdown-page-at/markdown-page-at.module.code.ts"
 

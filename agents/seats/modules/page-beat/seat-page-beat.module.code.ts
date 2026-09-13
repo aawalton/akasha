@@ -6,13 +6,13 @@ import {
   removeSeatPage,
   writeSeatPage,
 } from "akasha/agents/seats/modules/page-writing/seat-page-writing.module.code.ts"
-import { composedNameOf } from "akasha/agents/seats/modules/rename/seat-rename.module.code.ts"
 import {
   backfillObserved,
   fallBackToHistory,
   type Stated,
   statedOf,
 } from "akasha/agents/seats/modules/stated/seat-stated.module.code.ts"
+import { composedNameOf } from "akasha/agents/seats/name/modules/rename/seat-rename.module.code.ts"
 import { rotatedOf } from "akasha/agents/seats/session/modules/rotated-session/seat-rotated-session.module.code.ts"
 import {
   keepSession,
