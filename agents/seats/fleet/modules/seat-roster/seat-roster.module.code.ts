@@ -3,7 +3,7 @@ import { agentPresence } from "akasha/agents/seats/observation/modules/seat-pres
 import type { SeatPresence } from "akasha/agents/seats/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 import { akashaSeatsInHistory } from "akasha/agents/seats/page/modules/seat-akasha-history/seat-akasha-history.module.code.ts"
 import { akashaSeatsStated } from "akasha/agents/seats/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
-import { sessionOf } from "akasha/agents/seats/session/modules/session/seat-session.module.code.ts"
+import { sessionOf } from "akasha/agents/seats/session/seat-session.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

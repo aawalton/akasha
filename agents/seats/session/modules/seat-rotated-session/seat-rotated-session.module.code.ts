@@ -7,7 +7,7 @@ import { pageTextOf } from "akasha/agents/seats/page/modules/values/seat-page-va
 import {
   type SessionRecord,
   sessionRecordOf,
-} from "akasha/agents/seats/session/modules/session/seat-session.module.code.ts"
+} from "akasha/agents/seats/session/seat-session.module.code.ts"
 
 export const ROTATED_KEY = "rotated-session-uuid"
 

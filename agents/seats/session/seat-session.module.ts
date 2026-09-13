@@ -4,7 +4,13 @@ export const seatSession = {
   id: "01a06949-b281-709f-96f4-45790933cf1e",
   type: "module",
   slug: "seat-session",
-  definition: "the claude session a seat is bound to, read off its page or its history",
+  definition: "the session a seat is bound to and the transcript that session writes",
+  parts: [
+    "module/seat-rotated-session",
+    "module/seat-session-resolve",
+    "module/seat-transcript-path",
+    "module/seat-transcript-rotation",
+  ],
   code: "ts",
   invariants: [
     {
