@@ -153,9 +153,15 @@ function besideTaken(
   return changes
 }
 
-type Pair = {
+export type Pair = {
   readonly path: string
   readonly from: string | null
+}
+
+export type Asking = {
+  readonly pairs: readonly Pair[]
+  readonly removals: readonly string[]
+  readonly message: string | null
 }
 
 type Read = {
@@ -232,21 +238,41 @@ export function builtIn(
   if (unknown.length > 0) return mistaking(unknown)
   const read = readIn(argv, valued)
   if (read.refusals.length > 0) return mistaking(read.refusals)
-  if (read.pairs.length === 0 && read.removals.length === 0) {
-    return mistaking([
-      `this call names no ${FILE_PATH} to write and no ${REMOVE} to take away, so it asks for nothing`,
-    ])
-  }
+  const nothing = askingNothing(read.pairs, read.removals)
+  if (nothing.length > 0) return mistaking(nothing)
   const glass = glassIn(argv, valued)
   if ("refusals" in glass) return mistaking(glass.refusals)
   const said = messageIn(argv, valued)
   if ("refusals" in said) return mistaking(said.refusals)
   const restated = restatedIn(argv, given.root, kind)
   if ("refusals" in restated) return mistaking(restated.refusals)
+  return builtOf(
+    { pairs: read.pairs, removals: read.removals, message: said.message },
+    given,
+    piping,
+    restated.kind
+  )
+}
+
+function askingNothing(pairs: readonly Pair[], removals: readonly string[]): readonly string[] {
+  if (pairs.length > 0 || removals.length > 0) return []
+  return [
+    `this call names no ${FILE_PATH} to write and no ${REMOVE} to take away, so it asks for nothing`,
+  ]
+}
+
+export function builtOf(
+  asking: Asking,
+  given: Given,
+  piping: Piping,
+  kind: Kind | null
+): Built | Answer {
+  const nothing = askingNothing(asking.pairs, asking.removals)
+  if (nothing.length > 0) return mistaking(nothing)
 
   let piped: string | null = null
-  if (read.pairs.length > 0) {
-    const wanted = read.pairs.find((one) => one.from === null)?.path ?? null
+  if (asking.pairs.length > 0) {
+    const wanted = asking.pairs.find((one) => one.from === null)?.path ?? null
     const held = pipedIn(piping, wanted, {
       bare: (path) =>
         `${FILE_PATH} ${path} names no ${CONTENT_FILE}, so its body is read from the input,` +
@@ -274,7 +300,7 @@ export function builtIn(
   const wrong: string[] = []
   const changes: FileChange[] = []
   const seen = new Set<string>()
-  for (const one of read.pairs) {
+  for (const one of asking.pairs) {
     const path = pathAt(given.root, one.path)
     if (path === null) {
       mistaken.push(offRepo(one.path))
@@ -314,20 +340,20 @@ export function builtIn(
   }
   const removing = removingIn(
     given,
-    read.removals,
+    asking.removals,
     seen,
     (path) => `${path} is both written and taken away by one call`
   )
   changes.push(...removing.changes)
   mistaken.push(...removing.mistaken)
   wrong.push(...removing.wrong)
-  wrong.push(...unwarrantedIn(given, restated.kind, changes))
-  wrong.push(...unrestatedFor(given, restated.kind, changes))
+  wrong.push(...unwarrantedIn(given, kind, changes))
+  wrong.push(...unrestatedFor(given, kind, changes))
   changes.push(...besideTaken(given, removing.base, removing.taken, seen))
   const troubled = troubling({ mistaken, wrong })
   if (troubled !== null) return troubled
   return {
     changes,
-    message: said.message ?? defaultMessage("write", changes.map(leftAt)),
+    message: asking.message ?? defaultMessage("write", changes.map(leftAt)),
   }
 }

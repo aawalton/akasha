@@ -103,11 +103,18 @@ export function messageIn(
   if (two === null)
     refusals.push(`${MESSAGE_FILE} takes a file to read the message from, and none follows it`)
   if (refusals.length > 0) return { refusals }
+  return messageFrom(one ?? undefined, two ?? undefined)
+}
+
+export function messageFrom(
+  said: string | undefined,
+  from: string | undefined
+): { readonly message: string | null } | { readonly refusals: readonly string[] } {
   let message: string | null = null
-  if (typeof one === "string") message = one.trim()
-  if (typeof two === "string") {
-    const read = textAt(two)
-    if (read === null) return { refusals: [`${MESSAGE_FILE} ${two} could not be read as text`] }
+  if (said !== undefined) message = said.trim()
+  if (from !== undefined) {
+    const read = textAt(from)
+    if (read === null) return { refusals: [`${MESSAGE_FILE} ${from} could not be read as text`] }
     message = read.trim()
   }
   if (message === "")

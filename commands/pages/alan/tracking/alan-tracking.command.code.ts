@@ -5,47 +5,53 @@ import {
 } from "akasha/alan/track/modules/landing/track-landing.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { MECHANICAL_KIND } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
+import { commitMessage } from "akasha/commands/arguments/pages/commit-message.argument.ts"
+import { contentFile } from "akasha/commands/arguments/pages/content-file.argument.ts"
+import { filePath } from "akasha/commands/arguments/pages/file-path.argument.ts"
+import { messageFile } from "akasha/commands/arguments/pages/message-file.argument.ts"
+import { removePath } from "akasha/commands/arguments/pages/remove-path.argument.ts"
 import { answering } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { builtIn, VALUED } from "akasha/commands/modules/file-arguing/file-arguing.module.code.ts"
 import {
-  BREAK_GLASS,
-  CONTENT_FILE,
-  FILE_PATH,
-  REMOVE,
-  valuesOf,
-} from "akasha/commands/modules/flags/command-flags.module.code.ts"
+  type Asking,
+  builtOf,
+} from "akasha/commands/modules/file-arguing/file-arguing.module.code.ts"
+import { messageFrom } from "akasha/commands/modules/flags/command-flags.module.code.ts"
 import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { pathAt } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
-import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
+import { alanTracking as page } from "akasha/commands/pages/alan/tracking/alan-tracking.command.ts"
 
-const TAKES: readonly string[] = VALUED.filter((one) => one !== BREAK_GLASS)
+const NAMED = [commitMessage, messageFile, contentFile, filePath, removePath]
 
-const NO_BARE: readonly string[] = []
+export type Taken = {
+  readonly commitMessage?: string
+  readonly messageFile?: string
+  readonly contentFile?: string
+  readonly filePath?: string
+  readonly removePath: readonly string[]
+}
 
-export function strayIn(root: string, argv: readonly string[]): readonly string[] {
+export function strayIn(root: string, taken: Taken): readonly string[] {
+  const every =
+    taken.filePath === undefined ? taken.removePath : [taken.filePath, ...taken.removePath]
   const said: string[] = []
-  for (const flag of [FILE_PATH, REMOVE]) {
-    for (const one of valuesOf(argv, flag, TAKES)) {
-      if (one === null) continue
-      if (!trackedIn(pathAt(root, one))) said.push(outsideTracked(one))
-    }
+  for (const one of every) {
+    if (!trackedIn(pathAt(root, one))) said.push(outsideTracked(one))
   }
   return said
 }
 
-export function repeatedIn(argv: readonly string[]): readonly string[] {
-  const said: string[] = []
-  for (const flag of [FILE_PATH, CONTENT_FILE]) {
-    const many = valuesOf(argv, flag, TAKES)
-    if (many.length < 2) continue
-    said.push(
-      `one call writes one file, and this call says \`${flag}\` ${counted(many.length, "time")}` +
-        " — say each file in a call of its own"
-    )
+export function askingIn(taken: Taken): Asking | { readonly refusals: readonly string[] } {
+  if (taken.filePath === undefined && taken.contentFile !== undefined) {
+    return { refusals: [`${contentFile.said} ${taken.contentFile} follows no ${filePath.said}`] }
   }
-  return said
+  const said = messageFrom(taken.commitMessage, taken.messageFile)
+  if ("refusals" in said) return said
+  const pairs =
+    taken.filePath === undefined ? [] : [{ path: taken.filePath, from: taken.contentFile ?? null }]
+  return { pairs, removals: taken.removePath, message: said.message }
 }
 
 export type Landing = (
@@ -56,21 +62,24 @@ export type Landing = (
 ) => Promise<Answer>
 
 export async function trackedBy(
-  argv: readonly string[],
+  taken: Taken,
   given: Given,
   landing: Landing = landingTracked
 ): Promise<Answer> {
-  const repeated = repeatedIn(argv)
-  if (repeated.length > 0) return mistaking(repeated)
+  const asking = askingIn(taken)
+  if ("refusals" in asking) return mistaking(asking.refusals)
   return await answering(async (done) => {
-    const built = builtIn(argv, given, inputIn, MECHANICAL_KIND, TAKES, NO_BARE)
+    const built = builtOf(asking, given, inputIn, MECHANICAL_KIND)
     if ("code" in built) return built
     return await landing(done, given.root, built.changes, built.message)
   })
 }
 
 export async function alanTracking(argv: readonly string[], given: Given): Promise<Answer> {
-  const stray = strayIn(given.root, argv)
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  const taken = read.taken
+  const stray = strayIn(given.root, taken)
   if (stray.length > 0) return mistaking(stray)
-  return await trackedBy(argv, given)
+  return await trackedBy(taken, given)
 }

@@ -17,6 +17,7 @@ import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
 import {
   alanTracking,
   strayIn,
+  type Taken,
   trackedBy,
 } from "akasha/commands/pages/alan/tracking/alan-tracking.command.code.ts"
 import {
@@ -56,48 +57,49 @@ function bodyAt(root: string, named: string, body: string): string {
 }
 
 test("a path under the tracked days is no stray", () => {
-  expect(strayIn(ROOT, ["--file-path", AT, "--content-file", "held"])).toEqual([])
+  expect(strayIn(ROOT, { filePath: AT, contentFile: "held", removePath: [] })).toEqual([])
 })
 
 test("a path under the food entries is no stray", () => {
-  expect(strayIn(ROOT, ["--file-path", FOOD_AT, "--content-file", "held"])).toEqual([])
+  expect(strayIn(ROOT, { filePath: FOOD_AT, contentFile: "held", removePath: [] })).toEqual([])
 })
 
 test("a path elsewhere under akasha is a stray", () => {
   const at = "commands/thrumming/thrum-tracking.command.ts"
-  const said = strayIn(ROOT, ["--file-path", at])
+  const said = strayIn(ROOT, { filePath: at, removePath: [] })
   expect(said).toEqual([outsideTracked(at)])
 })
 
 test("a path beside the food entries rather than under them is a stray", () => {
-  expect(strayIn(ROOT, ["--file-path", BESIDE_FOOD_ENTRIES]).length).toBe(1)
+  expect(strayIn(ROOT, { filePath: BESIDE_FOOD_ENTRIES, removePath: [] }).length).toBe(1)
 })
 
 test("a path outside akasha altogether is a stray", () => {
-  expect(strayIn(ROOT, ["--remove", OUTSIDE_AKASHA]).length).toBe(1)
+  expect(strayIn(ROOT, { removePath: [OUTSIDE_AKASHA] }).length).toBe(1)
 })
 
-test("a value belonging to another flag is not read as a path", () => {
-  expect(strayIn(ROOT, ["--message", "--file-path", "--file-path", AT])).toEqual([])
+test("a flag where a value belongs is refused rather than read as that value", async () => {
+  const said = await alanTracking(["--message", "--file-path", AT], givenIn())
+  expect(said.refusals).toEqual(["`--message` takes a value, and none follows it"])
 })
 
 test("the glass is answered as a flag this takes no spelling of", async () => {
   const said = await alanTracking(["--file-path", AT, "--break-the-glass"], givenIn())
-  expect(said.refusals[0]).toContain("`--break-the-glass` is no flag this takes.")
+  expect(said.refusals[0] ?? "").toContain("`--break-the-glass` is no argument")
   expect(said.code).toBe(1)
 })
 
 test("the flags a stray flag is answered with name no flag this refuses", async () => {
   const said = await alanTracking(["--nope"], givenIn())
-  expect(said.refusals).toEqual([
-    "`--nope` is no flag this takes. `akasha alan tracking` takes `--file-path`, " +
-      "`--content-file`, `--remove`, `--message`, `--message-file`.",
-  ])
+  expect(said.refusals[0] ?? "").toBe(
+    "`--nope` is no argument `akasha alan tracking` takes — it takes `--message`, " +
+      "`--message-file`, `--content-file`, `--file-path`, `--remove`"
+  )
 })
 
 test("the restated flag is answered as a flag this takes no spelling of", async () => {
   const said = await alanTracking(["--restated"], givenIn())
-  expect(said.refusals[0]).toContain("`--restated` is no flag this takes.")
+  expect(said.refusals[0] ?? "").toContain("`--restated` is no argument")
   expect(said.code).toBe(1)
 })
 
@@ -119,12 +121,9 @@ test("a day is named as the change adding a file, with the message said", () => 
   expect(askedFor(built.changes)).toEqual([{ at: ADDS, given: { at: AT, body: DAY } }])
 })
 
-test("a second file path is refused, and the refusal says to make a call for each file", async () => {
+test("a second file path is refused, and the refusal says one call says it once", async () => {
   const said = await alanTracking(["--file-path", AT, "--file-path", ROWS_AT], givenIn())
-  expect(said.refusals).toEqual([
-    "one call writes one file, and this call says `--file-path` 2 times" +
-      " — say each file in a call of its own",
-  ])
+  expect(said.refusals).toEqual(["`--file-path` is said twice, and one call says it once"])
   expect(said.code).toBe(1)
 })
 
@@ -133,21 +132,23 @@ test("a second content file is refused the same way", async () => {
     ["--file-path", AT, "--content-file", "day.txt", "--content-file", "rows.txt"],
     givenIn()
   )
-  expect(said.refusals).toEqual([
-    "one call writes one file, and this call says `--content-file` 2 times" +
-      " — say each file in a call of its own",
-  ])
+  expect(said.refusals).toEqual(["`--content-file` is said twice, and one call says it once"])
 })
 
 const WENT_WRONG = new Error("the commit was written and the push went wrong")
 
-function askingIn(root: string): readonly string[] {
-  return ["--file-path", AT, "--content-file", bodyAt(root, "threw.txt", DAY), "--message", "held"]
+function takenIn(root: string): Taken {
+  return {
+    filePath: AT,
+    contentFile: bodyAt(root, "threw.txt", DAY),
+    commitMessage: "held",
+    removePath: [],
+  }
 }
 
 test("a run that landed the commit and then threw says that commit in its refusal", async () => {
   const root = scratch.rootFor("akasha-tracking-")
-  const asking = askingIn(root)
+  const asking = takenIn(root)
   const said = await trackedBy(asking, servingIn(root), throwingAfter(["abc123"], WENT_WRONG))
 
   expect(said.report).toEqual(["abc123"])
@@ -159,7 +160,7 @@ test("a run that landed the commit and then threw says that commit in its refusa
 
 test("a run that threw before it landed anything says the fault by itself", async () => {
   const root = scratch.rootFor("akasha-tracking-")
-  const asking = askingIn(root)
+  const asking = takenIn(root)
   const said = await trackedBy(asking, servingIn(root), throwingAfter([], WENT_WRONG))
 
   expect(said.report).toEqual([])
@@ -170,7 +171,7 @@ test("a run that threw before it landed anything says the fault by itself", asyn
 test("a run that wrote twice names each write in the order it happened", async () => {
   const root = scratch.rootFor("akasha-tracking-")
   const wrote = [`landed ${AT}`, "abc123"]
-  const said = await trackedBy(askingIn(root), servingIn(root), throwingAfter(wrote, WENT_WRONG))
+  const said = await trackedBy(takenIn(root), servingIn(root), throwingAfter(wrote, WENT_WRONG))
 
   expect(said.report).toEqual(wrote)
   expect(said.refusals.at(-1)).toBe(
