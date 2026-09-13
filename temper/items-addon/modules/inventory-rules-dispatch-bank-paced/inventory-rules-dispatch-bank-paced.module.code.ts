@@ -2,7 +2,10 @@ import {
   recordPacedDispatch,
   recordStacking,
 } from "akasha/temper/items-addon/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
-import type { BankTracePacedDispatch } from "akasha/temper/items-addon/modules/inventory-bank-trace-types/inventory-bank-trace-types.module.code.ts"
+import type {
+  BankTracePacedDispatch,
+  BankTracePacedRound,
+} from "akasha/temper/items-addon/modules/inventory-bank-trace-types/inventory-bank-trace-types.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
 import {
   countPacedMoves,
@@ -56,6 +59,7 @@ export function startPacedBankChain(
   for (const s of steps) queue.push(s)
   let index = 0
 
+  const rounds: BankTracePacedRound[] = []
   const stats: BankTracePacedDispatch = {
     planned: countPacedMoves(steps),
     issued: 0,
@@ -63,6 +67,7 @@ export function startPacedBankChain(
     retries: 0,
     spanMs: 0,
     abortedEarly: false,
+    rounds,
   }
   let firstIssueMs: number | undefined
   let batchIssuedMs = 0
@@ -147,22 +152,34 @@ export function startPacedBankChain(
     if (inFlight.length === 0) return
     settleSerial++
     const unsettled: IssuedMove[] = []
+    let confirmedHere = 0
+    let retriedHere = 0
+    let leftHere = 0
     for (const move of inFlight) {
       const [srcStack] = GetSlotStackSize(move.sourceBag, move.sourceSlot)
       if (srcStack <= move.expectedRemaining) {
         stats.confirmed++
+        confirmedHere++
         continue
       }
       if (move.attempts >= MAX_PACED_BANK_ATTEMPTS) {
         d(
           `[${ADDON_NAME}] Paced bank dispatch stalled at bag ${move.sourceBag} slot ${move.sourceSlot}, leaving it`
         )
+        leftHere++
         continue
       }
       stats.retries++
+      retriedHere++
       unsettled.push(move)
     }
     if (firstIssueMs !== undefined) stats.spanMs = GetGameTimeMilliseconds() - firstIssueMs
+    rounds[rounds.length] = {
+      elapsedMs: stats.spanMs,
+      confirmed: confirmedHere,
+      retried: retriedHere,
+      left: leftHere,
+    }
     inFlight = unsettled
     recordPacedDispatch(stats)
     if (unsettled.length === 0 && index >= queue.length) {

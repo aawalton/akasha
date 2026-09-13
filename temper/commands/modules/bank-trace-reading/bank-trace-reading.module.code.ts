@@ -28,6 +28,15 @@ const CRAFTING_SCHEMA = z
   })
   .strict()
 
+const PACED_ROUND_SCHEMA = z
+  .object({
+    elapsedMs: z.number(),
+    confirmed: z.number(),
+    retried: z.number(),
+    left: z.number(),
+  })
+  .strict()
+
 const PACED_DISPATCH_SCHEMA = z
   .object({
     planned: z.number(),
@@ -36,6 +45,7 @@ const PACED_DISPATCH_SCHEMA = z
     retries: z.number(),
     spanMs: z.number(),
     abortedEarly: z.boolean(),
+    rounds: luaArrayOrEmpty(PACED_ROUND_SCHEMA).optional(),
   })
   .strict()
 

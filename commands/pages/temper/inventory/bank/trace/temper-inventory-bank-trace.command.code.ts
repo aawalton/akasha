@@ -32,13 +32,23 @@ const INVENTORY_LUA = "TemperInventory.lua"
 
 const NAMED = [visitArgument, json, inventoryPath]
 
-function pacedSaid(paced: PacedDispatch | undefined): string {
-  if (paced === undefined) return "paced dispatch: nil (pre-wave-3 trace or vault path)"
+function pacedSaid(paced: PacedDispatch | undefined): readonly string[] {
+  if (paced === undefined) return ["paced dispatch: nil (pre-wave-3 trace or vault path)"]
   const aborted = paced.abortedEarly ? " ABORTED-EARLY" : ""
-  return (
+  const head =
     `paced dispatch: planned=${paced.planned} issued=${paced.issued} ` +
     `confirmed=${paced.confirmed} retries=${paced.retries} span=${paced.spanMs}ms${aborted}`
-  )
+  const rounds = paced.rounds
+  if (rounds === undefined) return [head, "  rounds: nil (pre-v9 trace)"]
+  if (rounds.length === 0) return [head, "  rounds: none — the batch never settled"]
+  return [
+    head,
+    ...rounds.map(
+      (one, index) =>
+        `  round ${index + 1} at ${one.elapsedMs}ms: ` +
+        `confirmed ${one.confirmed}, retried ${one.retried}, left ${one.left}`
+    ),
+  ]
 }
 
 function traceSaid(trace: BankTrace): readonly string[] {
@@ -50,7 +60,7 @@ function traceSaid(trace: BankTrace): readonly string[] {
       `withdraw=${msSaid(trace.withdrawMs)} deposit=${msSaid(trace.depositMs)}`,
     `moves: ${numSaid(trace.moveCount)} (withdraw ${numSaid(trace.withdrawCount)}, ` +
       `deposit ${numSaid(trace.depositCount)})`,
-    pacedSaid(trace.pacedDispatch),
+    ...pacedSaid(trace.pacedDispatch),
     stackingSaid(trace.stacking),
     `net-worth walks: ${trace.netWorth.walkCount}, total ${trace.netWorth.walkTotalMs}ms, ` +
       `max ${trace.netWorth.walkMaxMs}ms`,

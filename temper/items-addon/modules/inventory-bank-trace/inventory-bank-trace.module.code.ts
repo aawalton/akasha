@@ -9,6 +9,7 @@ import type {
   BankTrace,
   BankTraceCraftingStats,
   BankTracePacedDispatch,
+  BankTracePacedRound,
   BankTraceStacking,
   VenueKind,
 } from "akasha/temper/items-addon/modules/inventory-bank-trace-types/inventory-bank-trace-types.module.code.ts"
@@ -37,7 +38,7 @@ export function beginVenueTrace(venue: VenueKind, bankingBag: number): undefined
   visitGeneration += 1
   craftingAtOpen = readCraftingSlotHandlerStats()
   const trace: BankTrace = {
-    schemaVersion: 8,
+    schemaVersion: 9,
     timestamp: GetTimeStamp(),
     venue,
     bankingBag,
@@ -89,6 +90,15 @@ export function recordBankMoves(withdrawCount: number, depositCount: number): un
 
 export function recordPacedDispatch(stats: BankTracePacedDispatch): undefined {
   if (activeTrace === undefined) return
+  const rounds: BankTracePacedRound[] = []
+  for (const round of stats.rounds ?? []) {
+    rounds[rounds.length] = {
+      elapsedMs: round.elapsedMs,
+      confirmed: round.confirmed,
+      retried: round.retried,
+      left: round.left,
+    }
+  }
   activeTrace.pacedDispatch = {
     planned: stats.planned,
     issued: stats.issued,
@@ -96,6 +106,7 @@ export function recordPacedDispatch(stats: BankTracePacedDispatch): undefined {
     retries: stats.retries,
     spanMs: stats.spanMs,
     abortedEarly: stats.abortedEarly,
+    rounds,
   }
 }
 

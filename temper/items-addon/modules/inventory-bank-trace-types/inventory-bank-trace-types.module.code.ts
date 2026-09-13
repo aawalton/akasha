@@ -28,6 +28,13 @@ export interface BankTraceSettling {
   unattributedMs?: number
 }
 
+export interface BankTracePacedRound {
+  elapsedMs: number
+  confirmed: number
+  retried: number
+  left: number
+}
+
 export interface BankTracePacedDispatch {
   planned: number
   issued: number
@@ -35,6 +42,7 @@ export interface BankTracePacedDispatch {
   retries: number
   spanMs: number
   abortedEarly: boolean
+  rounds?: BankTracePacedRound[]
 }
 
 export interface BankTraceStackingCount {
