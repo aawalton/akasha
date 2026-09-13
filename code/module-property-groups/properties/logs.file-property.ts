@@ -23,4 +23,5 @@ export const logs = {
     },
   ],
   types: "ts",
+  keptForHours: 24,
 } as const satisfies FileProperty

@@ -47,4 +47,5 @@ export const entries = {
     },
   ],
   types: "ts",
+  keptForHours: 24,
 } as const satisfies FileProperty
