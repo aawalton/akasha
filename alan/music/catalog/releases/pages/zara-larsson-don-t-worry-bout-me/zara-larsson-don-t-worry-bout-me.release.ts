@@ -12,7 +12,12 @@ export const zaraLarssonDonTWorryBoutMe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-03-28",
-  externalId: "45NYaXdS8H4pSXRDLnp7p5",
-  externalLink: "https://open.spotify.com/album/45NYaXdS8H4pSXRDLnp7p5",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "45NYaXdS8H4pSXRDLnp7p5",
+      externalLink: "https://open.spotify.com/album/45NYaXdS8H4pSXRDLnp7p5",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

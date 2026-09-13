@@ -12,6 +12,11 @@ export const weirdAlYankovic2MandatoryFun = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2014-07-15",
-  externalId: "36jlZKG1sNZQA2HbWdYveV",
-  externalLink: "https://open.spotify.com/album/36jlZKG1sNZQA2HbWdYveV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "36jlZKG1sNZQA2HbWdYveV",
+      externalLink: "https://open.spotify.com/album/36jlZKG1sNZQA2HbWdYveV",
+    },
+  ],
 } as const satisfies Release

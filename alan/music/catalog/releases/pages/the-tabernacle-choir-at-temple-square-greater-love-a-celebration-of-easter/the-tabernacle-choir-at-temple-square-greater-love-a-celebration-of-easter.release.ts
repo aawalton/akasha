@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareGreaterLoveACelebrationOfEaster = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-04-18",
-  externalId: "0KuaPsE3zocRDe1WDm4LHz",
-  externalLink: "https://open.spotify.com/album/0KuaPsE3zocRDe1WDm4LHz",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0KuaPsE3zocRDe1WDm4LHz",
+      externalLink: "https://open.spotify.com/album/0KuaPsE3zocRDe1WDm4LHz",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

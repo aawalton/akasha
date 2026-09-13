@@ -13,7 +13,12 @@ export const vinnyMarchiTheDragonbornComes = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-02-17",
-  externalId: "6o1xnMi24paxZDW42TtZaH",
-  externalLink: "https://open.spotify.com/album/6o1xnMi24paxZDW42TtZaH",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6o1xnMi24paxZDW42TtZaH",
+      externalLink: "https://open.spotify.com/album/6o1xnMi24paxZDW42TtZaH",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

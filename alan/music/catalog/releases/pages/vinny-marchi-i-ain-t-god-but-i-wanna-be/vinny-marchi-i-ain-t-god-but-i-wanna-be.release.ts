@@ -13,7 +13,12 @@ export const vinnyMarchiIAinTGodButIWannaBe = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-05-02",
-  externalId: "2qIoFsbYhOLRZ3aIljy0PR",
-  externalLink: "https://open.spotify.com/album/2qIoFsbYhOLRZ3aIljy0PR",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2qIoFsbYhOLRZ3aIljy0PR",
+      externalLink: "https://open.spotify.com/album/2qIoFsbYhOLRZ3aIljy0PR",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

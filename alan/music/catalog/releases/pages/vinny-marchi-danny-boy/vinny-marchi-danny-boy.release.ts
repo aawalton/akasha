@@ -12,7 +12,12 @@ export const vinnyMarchiDannyBoy = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-09",
-  externalId: "4OGJqgG1G5YdIzlKs6faZ6",
-  externalLink: "https://open.spotify.com/album/4OGJqgG1G5YdIzlKs6faZ6",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4OGJqgG1G5YdIzlKs6faZ6",
+      externalLink: "https://open.spotify.com/album/4OGJqgG1G5YdIzlKs6faZ6",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

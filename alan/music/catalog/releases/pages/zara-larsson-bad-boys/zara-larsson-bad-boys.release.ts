@@ -12,7 +12,12 @@ export const zaraLarssonBadBoys = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-11-18",
-  externalId: "4dYLtOe0GOBxBMMVTOuatl",
-  externalLink: "https://open.spotify.com/album/4dYLtOe0GOBxBMMVTOuatl",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4dYLtOe0GOBxBMMVTOuatl",
+      externalLink: "https://open.spotify.com/album/4dYLtOe0GOBxBMMVTOuatl",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

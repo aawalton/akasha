@@ -12,7 +12,12 @@ export const vinnyMarchiLockedDown = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-05-04",
-  externalId: "2GNRWSKNCCyGrntPGMKiiP",
-  externalLink: "https://open.spotify.com/album/2GNRWSKNCCyGrntPGMKiiP",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2GNRWSKNCCyGrntPGMKiiP",
+      externalLink: "https://open.spotify.com/album/2GNRWSKNCCyGrntPGMKiiP",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquarePeaceLikeARiver = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2004-03-09",
-  externalId: "1uil2IubtOh7tE0x1iq8oV",
-  externalLink: "https://open.spotify.com/album/1uil2IubtOh7tE0x1iq8oV",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1uil2IubtOh7tE0x1iq8oV",
+      externalLink: "https://open.spotify.com/album/1uil2IubtOh7tE0x1iq8oV",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

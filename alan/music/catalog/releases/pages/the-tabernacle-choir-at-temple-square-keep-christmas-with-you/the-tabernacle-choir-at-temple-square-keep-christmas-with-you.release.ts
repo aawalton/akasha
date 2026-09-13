@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareKeepChristmasWithYou = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2015-10-15",
-  externalId: "3dImkgZM8gGIzdBIiv2PDK",
-  externalLink: "https://open.spotify.com/album/3dImkgZM8gGIzdBIiv2PDK",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3dImkgZM8gGIzdBIiv2PDK",
+      externalLink: "https://open.spotify.com/album/3dImkgZM8gGIzdBIiv2PDK",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

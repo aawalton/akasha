@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareHallelujah = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2016-10-01",
-  externalId: "6A51OQXcDw1WskUppqBCmq",
-  externalLink: "https://open.spotify.com/album/6A51OQXcDw1WskUppqBCmq",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6A51OQXcDw1WskUppqBCmq",
+      externalLink: "https://open.spotify.com/album/6A51OQXcDw1WskUppqBCmq",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

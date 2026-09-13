@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareTheMostWonderfulTimeOfTheYear = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2010-08-24",
-  externalId: "4o830jkHRYBGJEeRPOgbcW",
-  externalLink: "https://open.spotify.com/album/4o830jkHRYBGJEeRPOgbcW",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4o830jkHRYBGJEeRPOgbcW",
+      externalLink: "https://open.spotify.com/album/4o830jkHRYBGJEeRPOgbcW",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const tomLehrerPoisoningPigeons = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-07-15",
-  externalId: "6tqoRyGMckiFr29paYmhmL",
-  externalLink: "https://open.spotify.com/album/6tqoRyGMckiFr29paYmhmL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6tqoRyGMckiFr29paYmhmL",
+      externalLink: "https://open.spotify.com/album/6tqoRyGMckiFr29paYmhmL",
+    },
+  ],
 } as const satisfies Release

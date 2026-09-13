@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareHomewardBound = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2013-01-01",
-  externalId: "3UfAeAvgqU19XEyRFBzNNS",
-  externalLink: "https://open.spotify.com/album/3UfAeAvgqU19XEyRFBzNNS",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3UfAeAvgqU19XEyRFBzNNS",
+      externalLink: "https://open.spotify.com/album/3UfAeAvgqU19XEyRFBzNNS",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

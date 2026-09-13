@@ -13,7 +13,12 @@ export const vinnyMarchiTheTaleOfTheLesbianHunter = {
   status: "completed",
   rank: "C",
   publishedAt: "2024-03-15",
-  externalId: "1M4hMi1LW2VxIgy408fbyH",
-  externalLink: "https://open.spotify.com/album/1M4hMi1LW2VxIgy408fbyH",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1M4hMi1LW2VxIgy408fbyH",
+      externalLink: "https://open.spotify.com/album/1M4hMi1LW2VxIgy408fbyH",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

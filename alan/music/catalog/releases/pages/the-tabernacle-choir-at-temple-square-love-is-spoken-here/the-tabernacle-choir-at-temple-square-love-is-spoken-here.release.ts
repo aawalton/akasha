@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareLoveIsSpokenHere = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2005-09-15",
-  externalId: "5M1LnxrJ1DKqjhQ1SRcbG0",
-  externalLink: "https://open.spotify.com/album/5M1LnxrJ1DKqjhQ1SRcbG0",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5M1LnxrJ1DKqjhQ1SRcbG0",
+      externalLink: "https://open.spotify.com/album/5M1LnxrJ1DKqjhQ1SRcbG0",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

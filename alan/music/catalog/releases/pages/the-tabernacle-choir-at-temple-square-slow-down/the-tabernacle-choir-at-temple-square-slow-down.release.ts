@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareSlowDown = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-06-26",
-  externalId: "5iRyoCBGxBbuyq69F44uAI",
-  externalLink: "https://open.spotify.com/album/5iRyoCBGxBbuyq69F44uAI",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5iRyoCBGxBbuyq69F44uAI",
+      externalLink: "https://open.spotify.com/album/5iRyoCBGxBbuyq69F44uAI",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

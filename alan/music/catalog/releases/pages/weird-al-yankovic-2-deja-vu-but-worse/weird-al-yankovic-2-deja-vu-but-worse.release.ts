@@ -12,6 +12,11 @@ export const weirdAlYankovic2DejaVuButWorse = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-07-01",
-  externalId: "5kwEhll5s1OOge80lChgqv",
-  externalLink: "https://open.spotify.com/album/5kwEhll5s1OOge80lChgqv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5kwEhll5s1OOge80lChgqv",
+      externalLink: "https://open.spotify.com/album/5kwEhll5s1OOge80lChgqv",
+    },
+  ],
 } as const satisfies Release

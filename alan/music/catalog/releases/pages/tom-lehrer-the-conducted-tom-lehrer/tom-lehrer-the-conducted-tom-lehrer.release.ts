@@ -12,6 +12,11 @@ export const tomLehrerTheConductedTomLehrer = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-04-20",
-  externalId: "1zSJn05mfUconkdvLJ8uqq",
-  externalLink: "https://open.spotify.com/album/1zSJn05mfUconkdvLJ8uqq",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1zSJn05mfUconkdvLJ8uqq",
+      externalLink: "https://open.spotify.com/album/1zSJn05mfUconkdvLJ8uqq",
+    },
+  ],
 } as const satisfies Release

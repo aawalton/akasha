@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareSongsOfInspiration = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1989-01-01",
-  externalId: "2OWysc8K9BFyUgKNRvyXjP",
-  externalLink: "https://open.spotify.com/album/2OWysc8K9BFyUgKNRvyXjP",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2OWysc8K9BFyUgKNRvyXjP",
+      externalLink: "https://open.spotify.com/album/2OWysc8K9BFyUgKNRvyXjP",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

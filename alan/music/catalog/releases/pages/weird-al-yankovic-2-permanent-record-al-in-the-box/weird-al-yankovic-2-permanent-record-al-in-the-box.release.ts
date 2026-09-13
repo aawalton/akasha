@@ -12,6 +12,11 @@ export const weirdAlYankovic2PermanentRecordAlInTheBox = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1994-09-27",
-  externalId: "6qe9hRwFfbcgtXXsif6BQZ",
-  externalLink: "https://open.spotify.com/album/6qe9hRwFfbcgtXXsif6BQZ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6qe9hRwFfbcgtXXsif6BQZ",
+      externalLink: "https://open.spotify.com/album/6qe9hRwFfbcgtXXsif6BQZ",
+    },
+  ],
 } as const satisfies Release

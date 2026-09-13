@@ -12,7 +12,12 @@ export const zaraLarssonEndOfTimeTheRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-07-15",
-  externalId: "0FDfOSxSBYNksoMRkng7Ao",
-  externalLink: "https://open.spotify.com/album/0FDfOSxSBYNksoMRkng7Ao",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0FDfOSxSBYNksoMRkng7Ao",
+      externalLink: "https://open.spotify.com/album/0FDfOSxSBYNksoMRkng7Ao",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareGodBlessAmerica = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1963-01-01",
-  externalId: "1JFu16HPHm3tw6snfjZAnU",
-  externalLink: "https://open.spotify.com/album/1JFu16HPHm3tw6snfjZAnU",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1JFu16HPHm3tw6snfjZAnU",
+      externalLink: "https://open.spotify.com/album/1JFu16HPHm3tw6snfjZAnU",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

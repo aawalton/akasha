@@ -12,6 +12,11 @@ export const tomLehrerTomLehrerTheMasochismAndHisHits = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-01-20",
-  externalId: "7j0nPqeYOTFNG3xBH5mrOa",
-  externalLink: "https://open.spotify.com/album/7j0nPqeYOTFNG3xBH5mrOa",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7j0nPqeYOTFNG3xBH5mrOa",
+      externalLink: "https://open.spotify.com/album/7j0nPqeYOTFNG3xBH5mrOa",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const vinnyMarchiPoser = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-20",
-  externalId: "2O9259mgFe2qwhPJ4eZHW6",
-  externalLink: "https://open.spotify.com/album/2O9259mgFe2qwhPJ4eZHW6",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2O9259mgFe2qwhPJ4eZHW6",
+      externalLink: "https://open.spotify.com/album/2O9259mgFe2qwhPJ4eZHW6",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

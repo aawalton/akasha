@@ -13,7 +13,12 @@ export const vinnyMarchiTakeTheReins = {
   status: "completed",
   rank: "A",
   publishedAt: "2024-08-16",
-  externalId: "23plU4MihkdBEMytjZcePW",
-  externalLink: "https://open.spotify.com/album/23plU4MihkdBEMytjZcePW",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "23plU4MihkdBEMytjZcePW",
+      externalLink: "https://open.spotify.com/album/23plU4MihkdBEMytjZcePW",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

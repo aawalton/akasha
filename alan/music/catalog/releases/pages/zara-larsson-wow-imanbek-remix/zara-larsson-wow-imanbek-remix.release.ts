@@ -12,7 +12,12 @@ export const zaraLarssonWowImanbekRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-02",
-  externalId: "0c04EkrQHr79i4rU53qTRQ",
-  externalLink: "https://open.spotify.com/album/0c04EkrQHr79i4rU53qTRQ",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0c04EkrQHr79i4rU53qTRQ",
+      externalLink: "https://open.spotify.com/album/0c04EkrQHr79i4rU53qTRQ",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

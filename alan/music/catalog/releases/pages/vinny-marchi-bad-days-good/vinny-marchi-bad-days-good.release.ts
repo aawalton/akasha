@@ -13,7 +13,12 @@ export const vinnyMarchiBadDaysGood = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-11-03",
-  externalId: "72Ke546DycQRO62YsOJ6cZ",
-  externalLink: "https://open.spotify.com/album/72Ke546DycQRO62YsOJ6cZ",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "72Ke546DycQRO62YsOJ6cZ",
+      externalLink: "https://open.spotify.com/album/72Ke546DycQRO62YsOJ6cZ",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareHowCanIKeepFromSinging = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-04-06",
-  externalId: "64NhpCMyPJff2dlczUzcX3",
-  externalLink: "https://open.spotify.com/album/64NhpCMyPJff2dlczUzcX3",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "64NhpCMyPJff2dlczUzcX3",
+      externalLink: "https://open.spotify.com/album/64NhpCMyPJff2dlczUzcX3",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

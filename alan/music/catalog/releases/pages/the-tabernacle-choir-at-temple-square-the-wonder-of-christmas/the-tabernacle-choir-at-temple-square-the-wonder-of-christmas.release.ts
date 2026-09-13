@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareTheWonderOfChristmas = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2006-09-26",
-  externalId: "0lTP8ql2dFuLxvPuDUcUUv",
-  externalLink: "https://open.spotify.com/album/0lTP8ql2dFuLxvPuDUcUUv",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0lTP8ql2dFuLxvPuDUcUUv",
+      externalLink: "https://open.spotify.com/album/0lTP8ql2dFuLxvPuDUcUUv",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

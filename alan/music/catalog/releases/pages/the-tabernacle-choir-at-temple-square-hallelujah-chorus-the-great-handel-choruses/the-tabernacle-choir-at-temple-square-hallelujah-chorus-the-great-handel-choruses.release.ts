@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareHallelujahChorusTheGreatHandelChoru
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-04-04",
-  externalId: "2vz9Ay4HDnE4Zo7JkNVUu6",
-  externalLink: "https://open.spotify.com/album/2vz9Ay4HDnE4Zo7JkNVUu6",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2vz9Ay4HDnE4Zo7JkNVUu6",
+      externalLink: "https://open.spotify.com/album/2vz9Ay4HDnE4Zo7JkNVUu6",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

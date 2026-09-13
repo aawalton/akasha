@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareWhenYouBelieveANightAtTheMovies = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-05-22",
-  externalId: "1nmZasNl73QdSt1lGZdBBq",
-  externalLink: "https://open.spotify.com/album/1nmZasNl73QdSt1lGZdBBq",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1nmZasNl73QdSt1lGZdBBq",
+      externalLink: "https://open.spotify.com/album/1nmZasNl73QdSt1lGZdBBq",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

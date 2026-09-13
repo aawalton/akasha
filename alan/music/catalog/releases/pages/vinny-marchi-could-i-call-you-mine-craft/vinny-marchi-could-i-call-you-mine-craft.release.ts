@@ -12,7 +12,12 @@ export const vinnyMarchiCouldICallYouMineCraft = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-12-10",
-  externalId: "1UchcbPBPzEmlbjFgCLvN2",
-  externalLink: "https://open.spotify.com/album/1UchcbPBPzEmlbjFgCLvN2",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1UchcbPBPzEmlbjFgCLvN2",
+      externalLink: "https://open.spotify.com/album/1UchcbPBPzEmlbjFgCLvN2",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

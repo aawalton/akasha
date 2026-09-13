@@ -12,7 +12,12 @@ export const zaraLarssonCanTTameHerDjSmallz732JerseyClubRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-04-07",
-  externalId: "3uBceis1Eppr25zMURrFZb",
-  externalLink: "https://open.spotify.com/album/3uBceis1Eppr25zMURrFZb",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3uBceis1Eppr25zMURrFZb",
+      externalLink: "https://open.spotify.com/album/3uBceis1Eppr25zMURrFZb",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

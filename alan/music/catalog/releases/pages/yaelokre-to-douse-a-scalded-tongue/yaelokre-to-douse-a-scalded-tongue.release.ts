@@ -12,6 +12,11 @@ export const yaelokreToDouseAScaldedTongue = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-08-01",
-  externalId: "59ZPkdnpcav6a9vFG0OVOR",
-  externalLink: "https://open.spotify.com/album/59ZPkdnpcav6a9vFG0OVOR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "59ZPkdnpcav6a9vFG0OVOR",
+      externalLink: "https://open.spotify.com/album/59ZPkdnpcav6a9vFG0OVOR",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareTheLordSPrayer2023RemasteredVersion
   unit: "minutes",
   status: "completed",
   publishedAt: "1959-07-13",
-  externalId: "3pRxIC8yT2IjfS6PrW728O",
-  externalLink: "https://open.spotify.com/album/3pRxIC8yT2IjfS6PrW728O",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3pRxIC8yT2IjfS6PrW728O",
+      externalLink: "https://open.spotify.com/album/3pRxIC8yT2IjfS6PrW728O",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

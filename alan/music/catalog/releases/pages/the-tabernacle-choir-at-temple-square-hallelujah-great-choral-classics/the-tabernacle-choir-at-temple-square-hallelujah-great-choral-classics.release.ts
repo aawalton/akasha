@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareHallelujahGreatChoralClassics = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1990-01-01",
-  externalId: "7do4OCt3fHqYpWylH8JBDN",
-  externalLink: "https://open.spotify.com/album/7do4OCt3fHqYpWylH8JBDN",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7do4OCt3fHqYpWylH8JBDN",
+      externalLink: "https://open.spotify.com/album/7do4OCt3fHqYpWylH8JBDN",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

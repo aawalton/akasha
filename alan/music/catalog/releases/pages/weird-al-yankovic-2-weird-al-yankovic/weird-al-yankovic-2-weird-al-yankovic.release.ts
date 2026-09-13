@@ -12,6 +12,11 @@ export const weirdAlYankovic2WeirdAlYankovic = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1983-01-01",
-  externalId: "1gnhuWdl30liEUM2jy9lxl",
-  externalLink: "https://open.spotify.com/album/1gnhuWdl30liEUM2jy9lxl",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1gnhuWdl30liEUM2jy9lxl",
+      externalLink: "https://open.spotify.com/album/1gnhuWdl30liEUM2jy9lxl",
+    },
+  ],
 } as const satisfies Release

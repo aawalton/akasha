@@ -12,6 +12,11 @@ export const yaelokreKidLeveret = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-02-21",
-  externalId: "0qua5UZqpo15MI7WeLXDvl",
-  externalLink: "https://open.spotify.com/album/0qua5UZqpo15MI7WeLXDvl",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0qua5UZqpo15MI7WeLXDvl",
+      externalLink: "https://open.spotify.com/album/0qua5UZqpo15MI7WeLXDvl",
+    },
+  ],
 } as const satisfies Release

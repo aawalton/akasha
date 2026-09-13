@@ -13,7 +13,12 @@ export const vinnyMarchiForgetMyPhone = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-04-14",
-  externalId: "70ramCPVJxIeVe8BJEMNHp",
-  externalLink: "https://open.spotify.com/album/70ramCPVJxIeVe8BJEMNHp",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "70ramCPVJxIeVe8BJEMNHp",
+      externalLink: "https://open.spotify.com/album/70ramCPVJxIeVe8BJEMNHp",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

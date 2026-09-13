@@ -13,7 +13,12 @@ export const vinnyMarchiLeaveThisParty = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-02-09",
-  externalId: "1o9Giqdrd69JZEhXOI6XRV",
-  externalLink: "https://open.spotify.com/album/1o9Giqdrd69JZEhXOI6XRV",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1o9Giqdrd69JZEhXOI6XRV",
+      externalLink: "https://open.spotify.com/album/1o9Giqdrd69JZEhXOI6XRV",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

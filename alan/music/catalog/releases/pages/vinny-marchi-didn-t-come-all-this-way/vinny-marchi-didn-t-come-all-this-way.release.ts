@@ -13,7 +13,12 @@ export const vinnyMarchiDidnTComeAllThisWay = {
   status: "completed",
   rank: "C",
   publishedAt: "2024-12-20",
-  externalId: "5VTxgJlioyyD4i9Nj3YM9N",
-  externalLink: "https://open.spotify.com/album/5VTxgJlioyyD4i9Nj3YM9N",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5VTxgJlioyyD4i9Nj3YM9N",
+      externalLink: "https://open.spotify.com/album/5VTxgJlioyyD4i9Nj3YM9N",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

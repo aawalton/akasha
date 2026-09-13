@@ -12,7 +12,12 @@ export const vinnyMarchiRidingWaves = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-28",
-  externalId: "25HximsuHWvp7i3HGwqd7u",
-  externalLink: "https://open.spotify.com/album/25HximsuHWvp7i3HGwqd7u",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "25HximsuHWvp7i3HGwqd7u",
+      externalLink: "https://open.spotify.com/album/25HximsuHWvp7i3HGwqd7u",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

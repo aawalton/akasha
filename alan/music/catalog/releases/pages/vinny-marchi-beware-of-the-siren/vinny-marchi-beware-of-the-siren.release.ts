@@ -13,7 +13,12 @@ export const vinnyMarchiBewareOfTheSiren = {
   status: "completed",
   rank: "C",
   publishedAt: "2024-06-22",
-  externalId: "1KTdQJCWMIUegWC2sQYWKr",
-  externalLink: "https://open.spotify.com/album/1KTdQJCWMIUegWC2sQYWKr",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1KTdQJCWMIUegWC2sQYWKr",
+      externalLink: "https://open.spotify.com/album/1KTdQJCWMIUegWC2sQYWKr",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const vinnyMarchiDrivingMePsycho = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-04-15",
-  externalId: "3ZHsmVwMtHNyg83kD2AnWY",
-  externalLink: "https://open.spotify.com/album/3ZHsmVwMtHNyg83kD2AnWY",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ZHsmVwMtHNyg83kD2AnWY",
+      externalLink: "https://open.spotify.com/album/3ZHsmVwMtHNyg83kD2AnWY",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

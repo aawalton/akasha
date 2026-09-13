@@ -12,7 +12,12 @@ export const zaraLarssonVenus = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-02-09",
-  externalId: "0qqZ6HD72So93exL9rH7zi",
-  externalLink: "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0qqZ6HD72So93exL9rH7zi",
+      externalLink: "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

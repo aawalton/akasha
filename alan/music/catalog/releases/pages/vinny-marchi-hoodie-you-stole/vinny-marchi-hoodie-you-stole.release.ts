@@ -12,7 +12,12 @@ export const vinnyMarchiHoodieYouStole = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-11",
-  externalId: "2HoVKgGvezXdY7foswVjgG",
-  externalLink: "https://open.spotify.com/album/2HoVKgGvezXdY7foswVjgG",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2HoVKgGvezXdY7foswVjgG",
+      externalLink: "https://open.spotify.com/album/2HoVKgGvezXdY7foswVjgG",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const vinnyMarchiComeOnComeOn = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-21",
-  externalId: "3aXnOVCu2V9V20oVmwWWs2",
-  externalLink: "https://open.spotify.com/album/3aXnOVCu2V9V20oVmwWWs2",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3aXnOVCu2V9V20oVmwWWs2",
+      externalLink: "https://open.spotify.com/album/3aXnOVCu2V9V20oVmwWWs2",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

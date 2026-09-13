@@ -13,7 +13,12 @@ export const zaraLarssonSoGood = {
   status: "completed",
   rank: "B",
   publishedAt: "2017-03-17",
-  externalId: "5YLRVHDVRw3QqWbeTGpC5B",
-  externalLink: "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5YLRVHDVRw3QqWbeTGpC5B",
+      externalLink: "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

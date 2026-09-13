@@ -12,7 +12,12 @@ export const vinnyMarchiMissingMe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-03",
-  externalId: "5yeONclCHVTkgawO1OlNiF",
-  externalLink: "https://open.spotify.com/album/5yeONclCHVTkgawO1OlNiF",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5yeONclCHVTkgawO1OlNiF",
+      externalLink: "https://open.spotify.com/album/5yeONclCHVTkgawO1OlNiF",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

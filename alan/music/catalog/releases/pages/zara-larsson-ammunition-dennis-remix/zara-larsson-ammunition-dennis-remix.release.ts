@@ -12,7 +12,12 @@ export const zaraLarssonAmmunitionDennisRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-13",
-  externalId: "3aIqR3VX1QMeQzrWgmalVp",
-  externalLink: "https://open.spotify.com/album/3aIqR3VX1QMeQzrWgmalVp",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3aIqR3VX1QMeQzrWgmalVp",
+      externalLink: "https://open.spotify.com/album/3aIqR3VX1QMeQzrWgmalVp",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const tomLehrerSongsByTomLehrer = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1953-01-01",
-  externalId: "7fo5hBz1iEfafufshl2X5y",
-  externalLink: "https://open.spotify.com/album/7fo5hBz1iEfafufshl2X5y",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7fo5hBz1iEfafufshl2X5y",
+      externalLink: "https://open.spotify.com/album/7fo5hBz1iEfafufshl2X5y",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquarePressForwardSaints = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-02-15",
-  externalId: "6BqcR7emckOX1oCqYIN57A",
-  externalLink: "https://open.spotify.com/album/6BqcR7emckOX1oCqYIN57A",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6BqcR7emckOX1oCqYIN57A",
+      externalLink: "https://open.spotify.com/album/6BqcR7emckOX1oCqYIN57A",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

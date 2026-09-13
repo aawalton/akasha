@@ -12,7 +12,12 @@ export const zaraLarssonAinTMyFaultFeatLilYachtyRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-10-07",
-  externalId: "0BRz3vjXnIDSFm0HU9Panv",
-  externalLink: "https://open.spotify.com/album/0BRz3vjXnIDSFm0HU9Panv",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0BRz3vjXnIDSFm0HU9Panv",
+      externalLink: "https://open.spotify.com/album/0BRz3vjXnIDSFm0HU9Panv",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

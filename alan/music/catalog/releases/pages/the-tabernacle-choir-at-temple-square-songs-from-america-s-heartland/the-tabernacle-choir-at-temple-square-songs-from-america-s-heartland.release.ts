@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareSongsFromAmericaSHeartland = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1990-01-01",
-  externalId: "0jeyoTaeDhQo4Vei8XOngA",
-  externalLink: "https://open.spotify.com/album/0jeyoTaeDhQo4Vei8XOngA",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0jeyoTaeDhQo4Vei8XOngA",
+      externalLink: "https://open.spotify.com/album/0jeyoTaeDhQo4Vei8XOngA",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

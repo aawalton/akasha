@@ -12,7 +12,12 @@ export const zaraLarssonOnlyYouRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-08-11",
-  externalId: "3hkSh2CXNjWfqdsoOmnB8u",
-  externalLink: "https://open.spotify.com/album/3hkSh2CXNjWfqdsoOmnB8u",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3hkSh2CXNjWfqdsoOmnB8u",
+      externalLink: "https://open.spotify.com/album/3hkSh2CXNjWfqdsoOmnB8u",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const weirdAlYankovic2LiveInTheMomentWeirdAlYankovicRemix = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-03-16",
-  externalId: "57JwyYSRHJzonPxiGsGZBv",
-  externalLink: "https://open.spotify.com/album/57JwyYSRHJzonPxiGsGZBv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "57JwyYSRHJzonPxiGsGZBv",
+      externalLink: "https://open.spotify.com/album/57JwyYSRHJzonPxiGsGZBv",
+    },
+  ],
 } as const satisfies Release

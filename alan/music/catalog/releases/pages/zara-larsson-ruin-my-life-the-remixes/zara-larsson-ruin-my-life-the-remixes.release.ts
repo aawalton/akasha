@@ -12,7 +12,12 @@ export const zaraLarssonRuinMyLifeTheRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-01-01",
-  externalId: "3eGJGZSlGVLfbVRkQQeOYg",
-  externalLink: "https://open.spotify.com/album/3eGJGZSlGVLfbVRkQQeOYg",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3eGJGZSlGVLfbVRkQQeOYg",
+      externalLink: "https://open.spotify.com/album/3eGJGZSlGVLfbVRkQQeOYg",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

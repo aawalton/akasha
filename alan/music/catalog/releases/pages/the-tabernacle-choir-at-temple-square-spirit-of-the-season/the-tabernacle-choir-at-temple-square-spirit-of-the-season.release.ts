@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareSpiritOfTheSeason = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2007-11-06",
-  externalId: "7kd8yOjyyQ0XlHt7q21dPY",
-  externalLink: "https://open.spotify.com/album/7kd8yOjyyQ0XlHt7q21dPY",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7kd8yOjyyQ0XlHt7q21dPY",
+      externalLink: "https://open.spotify.com/album/7kd8yOjyyQ0XlHt7q21dPY",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

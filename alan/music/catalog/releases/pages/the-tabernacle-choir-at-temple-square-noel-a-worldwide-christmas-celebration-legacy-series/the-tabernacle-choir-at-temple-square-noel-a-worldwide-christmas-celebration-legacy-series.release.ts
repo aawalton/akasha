@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareNoelAWorldwideChristmasCelebrationL
   unit: "minutes",
   status: "not-started",
   publishedAt: "2007-01-01",
-  externalId: "3JjoucfN9ZYWJx5jeebQlO",
-  externalLink: "https://open.spotify.com/album/3JjoucfN9ZYWJx5jeebQlO",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3JjoucfN9ZYWJx5jeebQlO",
+      externalLink: "https://open.spotify.com/album/3JjoucfN9ZYWJx5jeebQlO",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

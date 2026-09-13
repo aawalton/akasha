@@ -13,7 +13,12 @@ export const vinnyMarchiCherryWine = {
   status: "completed",
   rank: "C",
   publishedAt: "2023-06-30",
-  externalId: "5pDd4MwxE21AHV6mnAHFqA",
-  externalLink: "https://open.spotify.com/album/5pDd4MwxE21AHV6mnAHFqA",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5pDd4MwxE21AHV6mnAHFqA",
+      externalLink: "https://open.spotify.com/album/5pDd4MwxE21AHV6mnAHFqA",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

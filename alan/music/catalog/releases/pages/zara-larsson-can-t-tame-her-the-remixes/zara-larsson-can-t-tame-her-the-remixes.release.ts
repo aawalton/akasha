@@ -12,7 +12,12 @@ export const zaraLarssonCanTTameHerTheRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-04-08",
-  externalId: "7IXoyJ1hbYth9n2ThXeh12",
-  externalLink: "https://open.spotify.com/album/7IXoyJ1hbYth9n2ThXeh12",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7IXoyJ1hbYth9n2ThXeh12",
+      externalLink: "https://open.spotify.com/album/7IXoyJ1hbYth9n2ThXeh12",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const vinnyMarchiAllIGaveToYou = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-12-28",
-  externalId: "06KBUekXXpeGFt7aEgsTJK",
-  externalLink: "https://open.spotify.com/album/06KBUekXXpeGFt7aEgsTJK",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "06KBUekXXpeGFt7aEgsTJK",
+      externalLink: "https://open.spotify.com/album/06KBUekXXpeGFt7aEgsTJK",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

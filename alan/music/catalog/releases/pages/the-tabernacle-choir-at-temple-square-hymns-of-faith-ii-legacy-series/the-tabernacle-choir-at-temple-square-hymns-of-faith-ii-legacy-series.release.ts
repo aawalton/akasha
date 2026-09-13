@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareHymnsOfFaithIiLegacySeries = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1996-10-10",
-  externalId: "7j7GLclqhVZ7ey1eevebUn",
-  externalLink: "https://open.spotify.com/album/7j7GLclqhVZ7ey1eevebUn",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7j7GLclqhVZ7ey1eevebUn",
+      externalLink: "https://open.spotify.com/album/7j7GLclqhVZ7ey1eevebUn",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const vinnyMarchiCaptainPlatonic = {
   status: "completed",
   rank: "C",
   publishedAt: "2024-04-26",
-  externalId: "1HdUo2uDUswu1SG7Q4U1jc",
-  externalLink: "https://open.spotify.com/album/1HdUo2uDUswu1SG7Q4U1jc",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1HdUo2uDUswu1SG7Q4U1jc",
+      externalLink: "https://open.spotify.com/album/1HdUo2uDUswu1SG7Q4U1jc",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const tomLehrerTomfooleryOriginalLondonCast = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2007-01-01",
-  externalId: "43F5DYBodk92CivHaX09Xo",
-  externalLink: "https://open.spotify.com/album/43F5DYBodk92CivHaX09Xo",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "43F5DYBodk92CivHaX09Xo",
+      externalLink: "https://open.spotify.com/album/43F5DYBodk92CivHaX09Xo",
+    },
+  ],
 } as const satisfies Release

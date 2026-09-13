@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareMahlerSymphonyNo8InEFlatMajor = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2017-11-17",
-  externalId: "0tY9YZAlVXSUEAjLnf3gVk",
-  externalLink: "https://open.spotify.com/album/0tY9YZAlVXSUEAjLnf3gVk",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0tY9YZAlVXSUEAjLnf3gVk",
+      externalLink: "https://open.spotify.com/album/0tY9YZAlVXSUEAjLnf3gVk",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

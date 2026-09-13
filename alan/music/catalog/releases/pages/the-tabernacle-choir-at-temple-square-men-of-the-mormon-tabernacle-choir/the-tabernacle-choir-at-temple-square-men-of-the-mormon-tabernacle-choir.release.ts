@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareMenOfTheMormonTabernacleChoir = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2010-12-27",
-  externalId: "4ZlS7hEyaTHZfVPQnMJIWR",
-  externalLink: "https://open.spotify.com/album/4ZlS7hEyaTHZfVPQnMJIWR",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4ZlS7hEyaTHZfVPQnMJIWR",
+      externalLink: "https://open.spotify.com/album/4ZlS7hEyaTHZfVPQnMJIWR",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

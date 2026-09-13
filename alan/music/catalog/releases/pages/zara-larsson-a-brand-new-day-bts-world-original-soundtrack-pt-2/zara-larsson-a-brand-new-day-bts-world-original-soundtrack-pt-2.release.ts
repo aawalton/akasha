@@ -12,7 +12,12 @@ export const zaraLarssonABrandNewDayBtsWorldOriginalSoundtrackPt2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-06-14",
-  externalId: "7AksZp2xptzhgOaiwJxjkh",
-  externalLink: "https://open.spotify.com/album/7AksZp2xptzhgOaiwJxjkh",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7AksZp2xptzhgOaiwJxjkh",
+      externalLink: "https://open.spotify.com/album/7AksZp2xptzhgOaiwJxjkh",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

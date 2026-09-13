@@ -12,7 +12,12 @@ export const zaraLarssonAllTheTimeDonDiabloRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-07-05",
-  externalId: "1HoSmj2eLcsrR0vE9gThr4",
-  externalLink: "https://open.spotify.com/album/1HoSmj2eLcsrR0vE9gThr4",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1HoSmj2eLcsrR0vE9gThr4",
+      externalLink: "https://open.spotify.com/album/1HoSmj2eLcsrR0vE9gThr4",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

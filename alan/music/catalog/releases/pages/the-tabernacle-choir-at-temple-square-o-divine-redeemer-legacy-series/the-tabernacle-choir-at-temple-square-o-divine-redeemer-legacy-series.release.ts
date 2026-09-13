@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareODivineRedeemerLegacySeries = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1992-01-01",
-  externalId: "6FApA480OLv0eocxoKl30D",
-  externalLink: "https://open.spotify.com/album/6FApA480OLv0eocxoKl30D",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6FApA480OLv0eocxoKl30D",
+      externalLink: "https://open.spotify.com/album/6FApA480OLv0eocxoKl30D",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

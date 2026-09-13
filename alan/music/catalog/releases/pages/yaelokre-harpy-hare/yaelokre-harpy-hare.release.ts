@@ -13,6 +13,11 @@ export const yaelokreHarpyHare = {
   status: "completed",
   rank: "A",
   publishedAt: "2024-01-04",
-  externalId: "5YtN8x4Q8H7zEFroBn9yq0",
-  externalLink: "https://open.spotify.com/album/5YtN8x4Q8H7zEFroBn9yq0",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5YtN8x4Q8H7zEFroBn9yq0",
+      externalLink: "https://open.spotify.com/album/5YtN8x4Q8H7zEFroBn9yq0",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const weirdAlYankovic2WhoSGonnaStopMeFeatWeirdAlYankovic = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-10-12",
-  externalId: "4iW2N7yfkOX2FfTZalpuyP",
-  externalLink: "https://open.spotify.com/album/4iW2N7yfkOX2FfTZalpuyP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4iW2N7yfkOX2FfTZalpuyP",
+      externalLink: "https://open.spotify.com/album/4iW2N7yfkOX2FfTZalpuyP",
+    },
+  ],
 } as const satisfies Release

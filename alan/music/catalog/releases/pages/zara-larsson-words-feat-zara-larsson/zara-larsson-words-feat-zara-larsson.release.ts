@@ -12,7 +12,12 @@ export const zaraLarssonWordsFeatZaraLarsson = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-04-22",
-  externalId: "66W7mt0wKGLFALilLBLfU6",
-  externalLink: "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "66W7mt0wKGLFALilLBLfU6",
+      externalLink: "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

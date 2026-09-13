@@ -12,6 +12,11 @@ export const weirdAlYankovic2TheHamiltonPolka = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-03-02",
-  externalId: "6W9Zh48twLSES56hA8mJEK",
-  externalLink: "https://open.spotify.com/album/6W9Zh48twLSES56hA8mJEK",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6W9Zh48twLSES56hA8mJEK",
+      externalLink: "https://open.spotify.com/album/6W9Zh48twLSES56hA8mJEK",
+    },
+  ],
 } as const satisfies Release

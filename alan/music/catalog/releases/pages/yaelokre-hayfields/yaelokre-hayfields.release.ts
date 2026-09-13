@@ -12,6 +12,11 @@ export const yaelokreHayfields = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-03-02",
-  externalId: "2fYTH1xMFrojPJVDRMor8y",
-  externalLink: "https://open.spotify.com/album/2fYTH1xMFrojPJVDRMor8y",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2fYTH1xMFrojPJVDRMor8y",
+      externalLink: "https://open.spotify.com/album/2fYTH1xMFrojPJVDRMor8y",
+    },
+  ],
 } as const satisfies Release

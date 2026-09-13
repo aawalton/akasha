@@ -12,7 +12,12 @@ export const zaraLarssonWow = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-04-17",
-  externalId: "4fiVXwnHbreMbcOw1MKFhl",
-  externalLink: "https://open.spotify.com/album/4fiVXwnHbreMbcOw1MKFhl",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4fiVXwnHbreMbcOw1MKFhl",
+      externalLink: "https://open.spotify.com/album/4fiVXwnHbreMbcOw1MKFhl",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

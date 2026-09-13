@@ -13,7 +13,12 @@ export const vinnyMarchiHostileGovernmentTakeoverEdmRemix = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-02-12",
-  externalId: "7AMxD4Uhlhi7KkdfY6dews",
-  externalLink: "https://open.spotify.com/album/7AMxD4Uhlhi7KkdfY6dews",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7AMxD4Uhlhi7KkdfY6dews",
+      externalLink: "https://open.spotify.com/album/7AMxD4Uhlhi7KkdfY6dews",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

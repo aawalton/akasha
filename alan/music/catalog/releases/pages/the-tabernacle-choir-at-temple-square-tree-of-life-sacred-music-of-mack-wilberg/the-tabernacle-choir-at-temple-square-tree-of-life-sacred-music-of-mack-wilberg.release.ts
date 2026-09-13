@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareTreeOfLifeSacredMusicOfMackWilberg 
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-05-04",
-  externalId: "2FMb0OexzgNq9gDWQS1AOZ",
-  externalLink: "https://open.spotify.com/album/2FMb0OexzgNq9gDWQS1AOZ",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2FMb0OexzgNq9gDWQS1AOZ",
+      externalLink: "https://open.spotify.com/album/2FMb0OexzgNq9gDWQS1AOZ",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareGreatestHits22BestLovedFavorites = 
   unit: "minutes",
   status: "not-started",
   publishedAt: "1992-06-02",
-  externalId: "7nkLoEl8c6s8Jd6I4WK5kz",
-  externalLink: "https://open.spotify.com/album/7nkLoEl8c6s8Jd6I4WK5kz",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7nkLoEl8c6s8Jd6I4WK5kz",
+      externalLink: "https://open.spotify.com/album/7nkLoEl8c6s8Jd6I4WK5kz",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const zaraLarssonHonorTheLight = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-12-01",
-  externalId: "1Nxzeq5f7m7kpCP8PtWFPm",
-  externalLink: "https://open.spotify.com/album/1Nxzeq5f7m7kpCP8PtWFPm",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Nxzeq5f7m7kpCP8PtWFPm",
+      externalLink: "https://open.spotify.com/album/1Nxzeq5f7m7kpCP8PtWFPm",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

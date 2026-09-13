@@ -12,7 +12,12 @@ export const vinnyMarchiAveMaria = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-02-28",
-  externalId: "2bRNaudGi0yWnya0j80HG5",
-  externalLink: "https://open.spotify.com/album/2bRNaudGi0yWnya0j80HG5",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2bRNaudGi0yWnya0j80HG5",
+      externalLink: "https://open.spotify.com/album/2bRNaudGi0yWnya0j80HG5",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

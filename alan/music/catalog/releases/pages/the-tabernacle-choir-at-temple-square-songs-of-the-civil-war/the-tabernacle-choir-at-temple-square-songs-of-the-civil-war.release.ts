@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareSongsOfTheCivilWar = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1961-01-01",
-  externalId: "0G7zshoBfHCYVx0GEPOh0L",
-  externalLink: "https://open.spotify.com/album/0G7zshoBfHCYVx0GEPOh0L",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0G7zshoBfHCYVx0GEPOh0L",
+      externalLink: "https://open.spotify.com/album/0G7zshoBfHCYVx0GEPOh0L",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const vinnyMarchiBigBadWolf = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-11-26",
-  externalId: "2x14lXJuZnHNAfzVG4fZ8i",
-  externalLink: "https://open.spotify.com/album/2x14lXJuZnHNAfzVG4fZ8i",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2x14lXJuZnHNAfzVG4fZ8i",
+      externalLink: "https://open.spotify.com/album/2x14lXJuZnHNAfzVG4fZ8i",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

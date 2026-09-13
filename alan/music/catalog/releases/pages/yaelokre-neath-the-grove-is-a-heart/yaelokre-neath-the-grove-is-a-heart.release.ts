@@ -12,6 +12,11 @@ export const yaelokreNeathTheGroveIsAHeart = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-01-08",
-  externalId: "5kDMl7KFaOovhc0H9AaGDP",
-  externalLink: "https://open.spotify.com/album/5kDMl7KFaOovhc0H9AaGDP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5kDMl7KFaOovhc0H9AaGDP",
+      externalLink: "https://open.spotify.com/album/5kDMl7KFaOovhc0H9AaGDP",
+    },
+  ],
 } as const satisfies Release

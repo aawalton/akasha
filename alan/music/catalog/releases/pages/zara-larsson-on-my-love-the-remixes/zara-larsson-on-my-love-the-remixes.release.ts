@@ -12,7 +12,12 @@ export const zaraLarssonOnMyLoveTheRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-12-01",
-  externalId: "0iAv3656WbI551gLIRS6NB",
-  externalLink: "https://open.spotify.com/album/0iAv3656WbI551gLIRS6NB",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0iAv3656WbI551gLIRS6NB",
+      externalLink: "https://open.spotify.com/album/0iAv3656WbI551gLIRS6NB",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

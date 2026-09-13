@@ -12,6 +12,11 @@ export const tomLehrerThatSMathematicsIGotItFromAgnes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-04-20",
-  externalId: "2qDuLJgKeuBVA5yHe6xF2m",
-  externalLink: "https://open.spotify.com/album/2qDuLJgKeuBVA5yHe6xF2m",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2qDuLJgKeuBVA5yHe6xF2m",
+      externalLink: "https://open.spotify.com/album/2qDuLJgKeuBVA5yHe6xF2m",
+    },
+  ],
 } as const satisfies Release

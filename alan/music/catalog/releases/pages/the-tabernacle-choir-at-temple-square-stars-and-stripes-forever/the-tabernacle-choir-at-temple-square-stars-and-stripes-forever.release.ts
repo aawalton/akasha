@@ -13,7 +13,12 @@ export const theTabernacleChoirAtTempleSquareStarsAndStripesForever = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1973-01-01",
-  externalId: "5bHqlwvXgzeQ2nEFnwDGUg",
-  externalLink: "https://open.spotify.com/album/5bHqlwvXgzeQ2nEFnwDGUg",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5bHqlwvXgzeQ2nEFnwDGUg",
+      externalLink: "https://open.spotify.com/album/5bHqlwvXgzeQ2nEFnwDGUg",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

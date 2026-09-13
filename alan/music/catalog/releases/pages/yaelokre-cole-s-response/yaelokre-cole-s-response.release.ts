@@ -12,6 +12,11 @@ export const yaelokreColeSResponse = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-05-22",
-  externalId: "3c9v4CNoqLy1h3x8nlM5vP",
-  externalLink: "https://open.spotify.com/album/3c9v4CNoqLy1h3x8nlM5vP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3c9v4CNoqLy1h3x8nlM5vP",
+      externalLink: "https://open.spotify.com/album/3c9v4CNoqLy1h3x8nlM5vP",
+    },
+  ],
 } as const satisfies Release

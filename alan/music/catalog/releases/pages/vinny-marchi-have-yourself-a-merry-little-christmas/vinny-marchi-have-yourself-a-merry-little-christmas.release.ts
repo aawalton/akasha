@@ -12,7 +12,12 @@ export const vinnyMarchiHaveYourselfAMerryLittleChristmas = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-12-18",
-  externalId: "78iMfpsmCqjkZ9vcU7lPss",
-  externalLink: "https://open.spotify.com/album/78iMfpsmCqjkZ9vcU7lPss",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "78iMfpsmCqjkZ9vcU7lPss",
+      externalLink: "https://open.spotify.com/album/78iMfpsmCqjkZ9vcU7lPss",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Release

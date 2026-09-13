@@ -12,7 +12,12 @@ export const zaraLarssonCanTTameHerAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-03-10",
-  externalId: "7kSvTMG6BOS7O7yHyKeGpg",
-  externalLink: "https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7kSvTMG6BOS7O7yHyKeGpg",
+      externalLink: "https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

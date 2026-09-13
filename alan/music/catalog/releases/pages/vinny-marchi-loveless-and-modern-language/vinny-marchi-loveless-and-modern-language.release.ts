@@ -13,7 +13,12 @@ export const vinnyMarchiLovelessAndModernLanguage = {
   status: "completed",
   rank: "C",
   publishedAt: "2023-03-31",
-  externalId: "3eflRwbjEpszxBproBfqut",
-  externalLink: "https://open.spotify.com/album/3eflRwbjEpszxBproBfqut",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3eflRwbjEpszxBproBfqut",
+      externalLink: "https://open.spotify.com/album/3eflRwbjEpszxBproBfqut",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

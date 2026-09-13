@@ -12,7 +12,12 @@ export const zaraLarssonPosterGirlSummerEdition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-07-08",
-  externalId: "0E6Bt7I9gHxC6j8UmaCXTh",
-  externalLink: "https://open.spotify.com/album/0E6Bt7I9gHxC6j8UmaCXTh",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0E6Bt7I9gHxC6j8UmaCXTh",
+      externalLink: "https://open.spotify.com/album/0E6Bt7I9gHxC6j8UmaCXTh",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

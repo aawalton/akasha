@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareTheMajestyOfAmerica = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1961-01-01",
-  externalId: "72KHu8f74g2q6pkMSjsG73",
-  externalLink: "https://open.spotify.com/album/72KHu8f74g2q6pkMSjsG73",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "72KHu8f74g2q6pkMSjsG73",
+      externalLink: "https://open.spotify.com/album/72KHu8f74g2q6pkMSjsG73",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

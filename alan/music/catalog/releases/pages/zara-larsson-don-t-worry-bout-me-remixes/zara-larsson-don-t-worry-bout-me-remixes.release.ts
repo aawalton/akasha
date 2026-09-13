@@ -12,7 +12,12 @@ export const zaraLarssonDonTWorryBoutMeRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-05-03",
-  externalId: "3oEW0zWluwima7PXrGi8aF",
-  externalLink: "https://open.spotify.com/album/3oEW0zWluwima7PXrGi8aF",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3oEW0zWluwima7PXrGi8aF",
+      externalLink: "https://open.spotify.com/album/3oEW0zWluwima7PXrGi8aF",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

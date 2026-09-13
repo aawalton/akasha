@@ -13,7 +13,12 @@ export const vinnyMarchiTheHighSong = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-05-26",
-  externalId: "774shlxSf3xN5lQOWbT2x5",
-  externalLink: "https://open.spotify.com/album/774shlxSf3xN5lQOWbT2x5",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "774shlxSf3xN5lQOWbT2x5",
+      externalLink: "https://open.spotify.com/album/774shlxSf3xN5lQOWbT2x5",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareMackWilbergRequiem = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2008-01-01",
-  externalId: "670IIGEm7xWkM5ysM0SLjj",
-  externalLink: "https://open.spotify.com/album/670IIGEm7xWkM5ysM0SLjj",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "670IIGEm7xWkM5ysM0SLjj",
+      externalLink: "https://open.spotify.com/album/670IIGEm7xWkM5ysM0SLjj",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

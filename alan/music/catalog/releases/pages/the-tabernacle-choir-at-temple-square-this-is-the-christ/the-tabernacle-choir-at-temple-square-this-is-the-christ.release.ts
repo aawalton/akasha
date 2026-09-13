@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareThisIsTheChrist = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2011-06-07",
-  externalId: "7EQX3QP17o9g0srZLaSVN3",
-  externalLink: "https://open.spotify.com/album/7EQX3QP17o9g0srZLaSVN3",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7EQX3QP17o9g0srZLaSVN3",
+      externalLink: "https://open.spotify.com/album/7EQX3QP17o9g0srZLaSVN3",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

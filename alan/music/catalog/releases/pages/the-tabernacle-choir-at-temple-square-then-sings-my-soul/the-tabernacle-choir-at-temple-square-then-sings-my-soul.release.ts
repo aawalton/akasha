@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareThenSingsMySoul = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2006-05-26",
-  externalId: "2rmyPvhWNErX3WXli6cSbV",
-  externalLink: "https://open.spotify.com/album/2rmyPvhWNErX3WXli6cSbV",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2rmyPvhWNErX3WXli6cSbV",
+      externalLink: "https://open.spotify.com/album/2rmyPvhWNErX3WXli6cSbV",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

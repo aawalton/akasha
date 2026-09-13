@@ -12,7 +12,12 @@ export const zaraLarssonAinTMyFaultR3habRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-10-07",
-  externalId: "2GmlMoRLlTxdQHpgrgaeAT",
-  externalLink: "https://open.spotify.com/album/2GmlMoRLlTxdQHpgrgaeAT",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2GmlMoRLlTxdQHpgrgaeAT",
+      externalLink: "https://open.spotify.com/album/2GmlMoRLlTxdQHpgrgaeAT",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const weirdAlYankovic2PoodleHat = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2003-05-20",
-  externalId: "4VzAwj9nYwEqjY6JLaTwCm",
-  externalLink: "https://open.spotify.com/album/4VzAwj9nYwEqjY6JLaTwCm",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4VzAwj9nYwEqjY6JLaTwCm",
+      externalLink: "https://open.spotify.com/album/4VzAwj9nYwEqjY6JLaTwCm",
+    },
+  ],
 } as const satisfies Release

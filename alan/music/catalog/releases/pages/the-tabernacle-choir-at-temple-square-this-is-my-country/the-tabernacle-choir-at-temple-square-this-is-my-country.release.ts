@@ -13,7 +13,12 @@ export const theTabernacleChoirAtTempleSquareThisIsMyCountry = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1962-01-01",
-  externalId: "4CFPl1dwLMUbqZRh4TCee7",
-  externalLink: "https://open.spotify.com/album/4CFPl1dwLMUbqZRh4TCee7",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4CFPl1dwLMUbqZRh4TCee7",
+      externalLink: "https://open.spotify.com/album/4CFPl1dwLMUbqZRh4TCee7",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

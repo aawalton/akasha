@@ -12,6 +12,11 @@ export const weirdAlYankovic2OffTheDeepEnd = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1992-01-01",
-  externalId: "6qr3P9IV7X8zSmRWUfKTNL",
-  externalLink: "https://open.spotify.com/album/6qr3P9IV7X8zSmRWUfKTNL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6qr3P9IV7X8zSmRWUfKTNL",
+      externalLink: "https://open.spotify.com/album/6qr3P9IV7X8zSmRWUfKTNL",
+    },
+  ],
 } as const satisfies Release

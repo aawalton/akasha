@@ -12,7 +12,12 @@ export const yaelokreAndTheHoundReprise = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2026-01-09",
-  externalId: "048OiuY493d6ayD7k37QeS",
-  externalLink: "https://open.spotify.com/album/048OiuY493d6ayD7k37QeS",
-  lastSyncedAt: "2026-01-31",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "048OiuY493d6ayD7k37QeS",
+      externalLink: "https://open.spotify.com/album/048OiuY493d6ayD7k37QeS",
+      lastSyncedAt: "2026-01-31",
+    },
+  ],
 } as const satisfies Release

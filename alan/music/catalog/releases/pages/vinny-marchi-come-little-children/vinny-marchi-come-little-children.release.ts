@@ -13,7 +13,12 @@ export const vinnyMarchiComeLittleChildren = {
   status: "completed",
   rank: "C",
   publishedAt: "2022-09-18",
-  externalId: "0wBnUeyPiCNNKRUg5MTtWb",
-  externalLink: "https://open.spotify.com/album/0wBnUeyPiCNNKRUg5MTtWb",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0wBnUeyPiCNNKRUg5MTtWb",
+      externalLink: "https://open.spotify.com/album/0wBnUeyPiCNNKRUg5MTtWb",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

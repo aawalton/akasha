@@ -12,6 +12,11 @@ export const weirdAlYankovic2StraightOuttaLynwood = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2006-09-26",
-  externalId: "5qNws4KuryY0VNrdtcDwkR",
-  externalLink: "https://open.spotify.com/album/5qNws4KuryY0VNrdtcDwkR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5qNws4KuryY0VNrdtcDwkR",
+      externalLink: "https://open.spotify.com/album/5qNws4KuryY0VNrdtcDwkR",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const vinnyMarchiPoserRemastered = {
   status: "completed",
   rank: "C",
   publishedAt: "2023-02-06",
-  externalId: "56Zi1Bgs9CCwSO43wP6PJB",
-  externalLink: "https://open.spotify.com/album/56Zi1Bgs9CCwSO43wP6PJB",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "56Zi1Bgs9CCwSO43wP6PJB",
+      externalLink: "https://open.spotify.com/album/56Zi1Bgs9CCwSO43wP6PJB",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

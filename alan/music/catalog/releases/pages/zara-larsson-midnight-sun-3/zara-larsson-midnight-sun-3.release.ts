@@ -12,7 +12,12 @@ export const zaraLarssonMidnightSun3 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-09-26",
-  externalId: "0nte5x6fXd37Nt7jALSmx0",
-  externalLink: "https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0nte5x6fXd37Nt7jALSmx0",
+      externalLink: "https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

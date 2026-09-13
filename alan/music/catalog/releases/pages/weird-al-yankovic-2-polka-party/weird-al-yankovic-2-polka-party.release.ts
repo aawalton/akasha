@@ -12,6 +12,11 @@ export const weirdAlYankovic2PolkaParty = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1986-10-21",
-  externalId: "3cn1jehwLTYqxT4tS1qiug",
-  externalLink: "https://open.spotify.com/album/3cn1jehwLTYqxT4tS1qiug",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3cn1jehwLTYqxT4tS1qiug",
+      externalLink: "https://open.spotify.com/album/3cn1jehwLTYqxT4tS1qiug",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const yaelokreHartebeest = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-01-02",
-  externalId: "2eQDx2xXE53YdCxv4aDcnn",
-  externalLink: "https://open.spotify.com/album/2eQDx2xXE53YdCxv4aDcnn",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2eQDx2xXE53YdCxv4aDcnn",
+      externalLink: "https://open.spotify.com/album/2eQDx2xXE53YdCxv4aDcnn",
+    },
+  ],
 } as const satisfies Release

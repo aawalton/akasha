@@ -12,6 +12,11 @@ export const tomLehrerAnEveningWastedWithTomLehrer = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1959-02-01",
-  externalId: "5bJZc75sFbRq2cwDsrbWTK",
-  externalLink: "https://open.spotify.com/album/5bJZc75sFbRq2cwDsrbWTK",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5bJZc75sFbRq2cwDsrbWTK",
+      externalLink: "https://open.spotify.com/album/5bJZc75sFbRq2cwDsrbWTK",
+    },
+  ],
 } as const satisfies Release

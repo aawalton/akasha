@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareLetUsAllPressOnHymnsOfPraiseAndInsp
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-03-08",
-  externalId: "5uD5GtIMeQLMYR4UlAtLs4",
-  externalLink: "https://open.spotify.com/album/5uD5GtIMeQLMYR4UlAtLs4",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5uD5GtIMeQLMYR4UlAtLs4",
+      externalLink: "https://open.spotify.com/album/5uD5GtIMeQLMYR4UlAtLs4",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

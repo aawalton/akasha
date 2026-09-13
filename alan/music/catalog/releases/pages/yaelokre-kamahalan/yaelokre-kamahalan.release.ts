@@ -13,7 +13,12 @@ export const yaelokreKamahalan = {
   status: "completed",
   rank: "C",
   publishedAt: "2025-10-23",
-  externalId: "37M3P1OIGcjYu4cPad6Wzq",
-  externalLink: "https://open.spotify.com/album/37M3P1OIGcjYu4cPad6Wzq",
-  lastSyncedAt: "2025-10-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "37M3P1OIGcjYu4cPad6Wzq",
+      externalLink: "https://open.spotify.com/album/37M3P1OIGcjYu4cPad6Wzq",
+      lastSyncedAt: "2025-10-30",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const weirdAlYankovic2DareToBeStupid = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1985-06-18",
-  externalId: "4sug9Au5Rrm34TwdTAux5O",
-  externalLink: "https://open.spotify.com/album/4sug9Au5Rrm34TwdTAux5O",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4sug9Au5Rrm34TwdTAux5O",
+      externalLink: "https://open.spotify.com/album/4sug9Au5Rrm34TwdTAux5O",
+    },
+  ],
 } as const satisfies Release

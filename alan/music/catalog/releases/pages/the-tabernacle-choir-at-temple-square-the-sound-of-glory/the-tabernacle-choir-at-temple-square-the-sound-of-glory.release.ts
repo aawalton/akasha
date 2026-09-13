@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareTheSoundOfGlory = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2001-10-23",
-  externalId: "6mCCakr3gNQ4YDCzmc9LWg",
-  externalLink: "https://open.spotify.com/album/6mCCakr3gNQ4YDCzmc9LWg",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6mCCakr3gNQ4YDCzmc9LWg",
+      externalLink: "https://open.spotify.com/album/6mCCakr3gNQ4YDCzmc9LWg",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

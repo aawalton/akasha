@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareRejoiceAndBeMerry = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2008-09-23",
-  externalId: "4BCDeod8SrOUwvbZ7XfHoS",
-  externalLink: "https://open.spotify.com/album/4BCDeod8SrOUwvbZ7XfHoS",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4BCDeod8SrOUwvbZ7XfHoS",
+      externalLink: "https://open.spotify.com/album/4BCDeod8SrOUwvbZ7XfHoS",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

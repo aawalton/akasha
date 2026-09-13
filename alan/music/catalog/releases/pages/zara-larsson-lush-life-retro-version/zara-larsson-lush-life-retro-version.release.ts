@@ -12,7 +12,12 @@ export const zaraLarssonLushLifeRetroVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-08-27",
-  externalId: "329TF77PAYo1NqXsAskjfu",
-  externalLink: "https://open.spotify.com/album/329TF77PAYo1NqXsAskjfu",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "329TF77PAYo1NqXsAskjfu",
+      externalLink: "https://open.spotify.com/album/329TF77PAYo1NqXsAskjfu",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

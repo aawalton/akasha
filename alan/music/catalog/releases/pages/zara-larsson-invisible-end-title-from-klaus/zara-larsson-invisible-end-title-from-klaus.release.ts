@@ -12,7 +12,12 @@ export const zaraLarssonInvisibleEndTitleFromKlaus = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-22",
-  externalId: "21NYKwIJL8DCFDf6Z2UIzQ",
-  externalLink: "https://open.spotify.com/album/21NYKwIJL8DCFDf6Z2UIzQ",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "21NYKwIJL8DCFDf6Z2UIzQ",
+      externalLink: "https://open.spotify.com/album/21NYKwIJL8DCFDf6Z2UIzQ",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

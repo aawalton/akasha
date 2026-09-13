@@ -12,7 +12,12 @@ export const vinnyMarchiTakeMeBackToYou = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-12-23",
-  externalId: "5qISoGQuqwNr32IFk4y7ZK",
-  externalLink: "https://open.spotify.com/album/5qISoGQuqwNr32IFk4y7ZK",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5qISoGQuqwNr32IFk4y7ZK",
+      externalLink: "https://open.spotify.com/album/5qISoGQuqwNr32IFk4y7ZK",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

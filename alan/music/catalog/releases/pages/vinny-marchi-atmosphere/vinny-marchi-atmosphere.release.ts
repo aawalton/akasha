@@ -13,7 +13,12 @@ export const vinnyMarchiAtmosphere = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-08-04",
-  externalId: "2oB2N2ZcmvGqrXzvUUlIi9",
-  externalLink: "https://open.spotify.com/album/2oB2N2ZcmvGqrXzvUUlIi9",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2oB2N2ZcmvGqrXzvUUlIi9",
+      externalLink: "https://open.spotify.com/album/2oB2N2ZcmvGqrXzvUUlIi9",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

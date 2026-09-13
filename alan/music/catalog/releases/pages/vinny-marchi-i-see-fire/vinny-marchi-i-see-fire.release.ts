@@ -13,7 +13,12 @@ export const vinnyMarchiISeeFire = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-03-08",
-  externalId: "5wF4piytW5mSDob3qpbK40",
-  externalLink: "https://open.spotify.com/album/5wF4piytW5mSDob3qpbK40",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5wF4piytW5mSDob3qpbK40",
+      externalLink: "https://open.spotify.com/album/5wF4piytW5mSDob3qpbK40",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

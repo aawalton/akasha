@@ -12,7 +12,12 @@ export const zaraLarssonRuinMyLifeFutoseRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-11-19",
-  externalId: "6KLMfTPekfQUaKhdaGVkch",
-  externalLink: "https://open.spotify.com/album/6KLMfTPekfQUaKhdaGVkch",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6KLMfTPekfQUaKhdaGVkch",
+      externalLink: "https://open.spotify.com/album/6KLMfTPekfQUaKhdaGVkch",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

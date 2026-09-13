@@ -12,7 +12,12 @@ export const zaraLarssonEndOfTimeJustinCarusoRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-29",
-  externalId: "7jTd9c8ndkzyc9QJNNBAI7",
-  externalLink: "https://open.spotify.com/album/7jTd9c8ndkzyc9QJNNBAI7",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7jTd9c8ndkzyc9QJNNBAI7",
+      externalLink: "https://open.spotify.com/album/7jTd9c8ndkzyc9QJNNBAI7",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

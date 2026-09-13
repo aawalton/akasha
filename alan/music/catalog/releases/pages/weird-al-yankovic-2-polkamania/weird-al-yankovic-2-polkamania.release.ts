@@ -12,6 +12,11 @@ export const weirdAlYankovic2Polkamania = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-07-19",
-  externalId: "1gqDuax64n9FHQxaFlyobc",
-  externalLink: "https://open.spotify.com/album/1gqDuax64n9FHQxaFlyobc",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1gqDuax64n9FHQxaFlyobc",
+      externalLink: "https://open.spotify.com/album/1gqDuax64n9FHQxaFlyobc",
+    },
+  ],
 } as const satisfies Release

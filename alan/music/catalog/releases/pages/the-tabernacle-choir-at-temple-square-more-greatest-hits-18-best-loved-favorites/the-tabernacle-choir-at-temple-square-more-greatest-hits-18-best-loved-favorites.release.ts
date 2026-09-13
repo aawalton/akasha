@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareMoreGreatestHits18BestLovedFavorite
   unit: "minutes",
   status: "not-started",
   publishedAt: "1995-12-05",
-  externalId: "4Dva1lr667tfOulHyZBBu5",
-  externalLink: "https://open.spotify.com/album/4Dva1lr667tfOulHyZBBu5",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4Dva1lr667tfOulHyZBBu5",
+      externalLink: "https://open.spotify.com/album/4Dva1lr667tfOulHyZBBu5",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

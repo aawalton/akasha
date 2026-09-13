@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareThisIsChristmasLegacySeries = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1994-10-18",
-  externalId: "2swBzEImwQ5FyJf3uTTyV4",
-  externalLink: "https://open.spotify.com/album/2swBzEImwQ5FyJf3uTTyV4",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2swBzEImwQ5FyJf3uTTyV4",
+      externalLink: "https://open.spotify.com/album/2swBzEImwQ5FyJf3uTTyV4",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

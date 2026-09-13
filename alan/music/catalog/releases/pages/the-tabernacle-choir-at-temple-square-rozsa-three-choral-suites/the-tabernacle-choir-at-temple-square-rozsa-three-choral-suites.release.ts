@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareRozsaThreeChoralSuites = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2005-04-26",
-  externalId: "398279pIWdbtvH4itYAc7L",
-  externalLink: "https://open.spotify.com/album/398279pIWdbtvH4itYAc7L",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "398279pIWdbtvH4itYAc7L",
+      externalLink: "https://open.spotify.com/album/398279pIWdbtvH4itYAc7L",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

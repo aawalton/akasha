@@ -13,7 +13,12 @@ export const vinnyMarchiConceptsOfAMan = {
   status: "completed",
   rank: "C",
   publishedAt: "2024-11-08",
-  externalId: "0EyTncRYT0KMqnOWYEDtKA",
-  externalLink: "https://open.spotify.com/album/0EyTncRYT0KMqnOWYEDtKA",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0EyTncRYT0KMqnOWYEDtKA",
+      externalLink: "https://open.spotify.com/album/0EyTncRYT0KMqnOWYEDtKA",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

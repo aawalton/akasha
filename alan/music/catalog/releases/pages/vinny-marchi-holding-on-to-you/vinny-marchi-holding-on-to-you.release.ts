@@ -12,7 +12,12 @@ export const vinnyMarchiHoldingOnToYou = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-01-12",
-  externalId: "3tPbYs1xW5WVjxzwDYOZgd",
-  externalLink: "https://open.spotify.com/album/3tPbYs1xW5WVjxzwDYOZgd",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3tPbYs1xW5WVjxzwDYOZgd",
+      externalLink: "https://open.spotify.com/album/3tPbYs1xW5WVjxzwDYOZgd",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

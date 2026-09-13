@@ -12,7 +12,12 @@ export const zaraLarssonCrush = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-08-15",
-  externalId: "66uFqZHRtk56y6wyj0EFst",
-  externalLink: "https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "66uFqZHRtk56y6wyj0EFst",
+      externalLink: "https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

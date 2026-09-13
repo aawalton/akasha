@@ -13,7 +13,12 @@ export const vinnyMarchiMistyMountains = {
   status: "completed",
   rank: "C",
   publishedAt: "2022-08-27",
-  externalId: "0uxc4ueSLDgqfPzZTArLuW",
-  externalLink: "https://open.spotify.com/album/0uxc4ueSLDgqfPzZTArLuW",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0uxc4ueSLDgqfPzZTArLuW",
+      externalLink: "https://open.spotify.com/album/0uxc4ueSLDgqfPzZTArLuW",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

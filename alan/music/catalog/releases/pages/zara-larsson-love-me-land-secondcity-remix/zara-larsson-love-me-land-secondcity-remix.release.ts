@@ -12,7 +12,12 @@ export const zaraLarssonLoveMeLandSecondcityRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-08-07",
-  externalId: "61wfDA0geMT9skXQZ4oxGI",
-  externalLink: "https://open.spotify.com/album/61wfDA0geMT9skXQZ4oxGI",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "61wfDA0geMT9skXQZ4oxGI",
+      externalLink: "https://open.spotify.com/album/61wfDA0geMT9skXQZ4oxGI",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

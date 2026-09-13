@@ -12,6 +12,11 @@ export const yaelokreBirdCageBlueAndYellow = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-25",
-  externalId: "1sQolI66l35OQFsJIZ3hH9",
-  externalLink: "https://open.spotify.com/album/1sQolI66l35OQFsJIZ3hH9",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1sQolI66l35OQFsJIZ3hH9",
+      externalLink: "https://open.spotify.com/album/1sQolI66l35OQFsJIZ3hH9",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const vinnyMarchiSoldierPoetKing = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-10-28",
-  externalId: "6gm0ZcEAjcMRoJITJudeWC",
-  externalLink: "https://open.spotify.com/album/6gm0ZcEAjcMRoJITJudeWC",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6gm0ZcEAjcMRoJITJudeWC",
+      externalLink: "https://open.spotify.com/album/6gm0ZcEAjcMRoJITJudeWC",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

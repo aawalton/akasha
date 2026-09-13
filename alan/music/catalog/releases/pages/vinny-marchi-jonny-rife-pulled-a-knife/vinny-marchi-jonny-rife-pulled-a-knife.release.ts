@@ -13,7 +13,12 @@ export const vinnyMarchiJonnyRifePulledAKnife = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-10-25",
-  externalId: "7gS1X2u1gXAD820Arl812p",
-  externalLink: "https://open.spotify.com/album/7gS1X2u1gXAD820Arl812p",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7gS1X2u1gXAD820Arl812p",
+      externalLink: "https://open.spotify.com/album/7gS1X2u1gXAD820Arl812p",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

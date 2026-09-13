@@ -12,7 +12,12 @@ export const zaraLarssonINeedLoveFeatTrevorDaniel = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-07-09",
-  externalId: "1ORyn7Vro8rJKYP1Kq4nTB",
-  externalLink: "https://open.spotify.com/album/1ORyn7Vro8rJKYP1Kq4nTB",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1ORyn7Vro8rJKYP1Kq4nTB",
+      externalLink: "https://open.spotify.com/album/1ORyn7Vro8rJKYP1Kq4nTB",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

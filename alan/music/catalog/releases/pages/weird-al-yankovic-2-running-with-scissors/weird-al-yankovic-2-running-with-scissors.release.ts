@@ -12,6 +12,11 @@ export const weirdAlYankovic2RunningWithScissors = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1999-06-29",
-  externalId: "1vo55G8xWatvOHe38UF9yD",
-  externalLink: "https://open.spotify.com/album/1vo55G8xWatvOHe38UF9yD",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1vo55G8xWatvOHe38UF9yD",
+      externalLink: "https://open.spotify.com/album/1vo55G8xWatvOHe38UF9yD",
+    },
+  ],
 } as const satisfies Release

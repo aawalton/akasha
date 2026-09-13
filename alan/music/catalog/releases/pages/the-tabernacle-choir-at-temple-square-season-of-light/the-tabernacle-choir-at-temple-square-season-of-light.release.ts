@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareSeasonOfLight = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-10-27",
-  externalId: "0nECS4iEBmV2zbbrgIMGv4",
-  externalLink: "https://open.spotify.com/album/0nECS4iEBmV2zbbrgIMGv4",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0nECS4iEBmV2zbbrgIMGv4",
+      externalLink: "https://open.spotify.com/album/0nECS4iEBmV2zbbrgIMGv4",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

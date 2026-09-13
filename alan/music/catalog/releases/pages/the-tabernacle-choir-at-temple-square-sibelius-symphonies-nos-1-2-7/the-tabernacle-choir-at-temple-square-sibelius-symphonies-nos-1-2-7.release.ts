@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareSibeliusSymphoniesNos127 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-12-12",
-  externalId: "4H1DoVCOSn6OyB3lKZO7bY",
-  externalLink: "https://open.spotify.com/album/4H1DoVCOSn6OyB3lKZO7bY",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4H1DoVCOSn6OyB3lKZO7bY",
+      externalLink: "https://open.spotify.com/album/4H1DoVCOSn6OyB3lKZO7bY",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

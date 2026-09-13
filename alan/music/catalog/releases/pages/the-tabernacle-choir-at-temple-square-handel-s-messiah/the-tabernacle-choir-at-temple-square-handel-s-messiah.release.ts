@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareHandelSMessiah = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2016-03-04",
-  externalId: "3WXiU3Xvz8QrNMM9SsHOjq",
-  externalLink: "https://open.spotify.com/album/3WXiU3Xvz8QrNMM9SsHOjq",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3WXiU3Xvz8QrNMM9SsHOjq",
+      externalLink: "https://open.spotify.com/album/3WXiU3Xvz8QrNMM9SsHOjq",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

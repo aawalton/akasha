@@ -13,7 +13,12 @@ export const vinnyMarchiMyMotherToldMe = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-01-21",
-  externalId: "2c539SW88zFrXJpYB531iV",
-  externalLink: "https://open.spotify.com/album/2c539SW88zFrXJpYB531iV",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2c539SW88zFrXJpYB531iV",
+      externalLink: "https://open.spotify.com/album/2c539SW88zFrXJpYB531iV",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

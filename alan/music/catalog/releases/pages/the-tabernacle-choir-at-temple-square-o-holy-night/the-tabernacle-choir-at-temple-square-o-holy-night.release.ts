@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareOHolyNight = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-10-28",
-  externalId: "4p0SQ6KNd6ietLC3SFZ0RU",
-  externalLink: "https://open.spotify.com/album/4p0SQ6KNd6ietLC3SFZ0RU",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4p0SQ6KNd6ietLC3SFZ0RU",
+      externalLink: "https://open.spotify.com/album/4p0SQ6KNd6ietLC3SFZ0RU",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

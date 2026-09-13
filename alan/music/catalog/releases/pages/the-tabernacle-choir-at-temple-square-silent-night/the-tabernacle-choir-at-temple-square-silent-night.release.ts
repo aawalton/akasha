@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareSilentNight = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-09-28",
-  externalId: "0nCwOhoJacDgRqVK2BYScl",
-  externalLink: "https://open.spotify.com/album/0nCwOhoJacDgRqVK2BYScl",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0nCwOhoJacDgRqVK2BYScl",
+      externalLink: "https://open.spotify.com/album/0nCwOhoJacDgRqVK2BYScl",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

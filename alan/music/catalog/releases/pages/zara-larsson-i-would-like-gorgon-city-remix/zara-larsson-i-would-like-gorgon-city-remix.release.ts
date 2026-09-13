@@ -12,7 +12,12 @@ export const zaraLarssonIWouldLikeGorgonCityRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-12-09",
-  externalId: "1gCqvEj5wVUNCHIEtm26up",
-  externalLink: "https://open.spotify.com/album/1gCqvEj5wVUNCHIEtm26up",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1gCqvEj5wVUNCHIEtm26up",
+      externalLink: "https://open.spotify.com/album/1gCqvEj5wVUNCHIEtm26up",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

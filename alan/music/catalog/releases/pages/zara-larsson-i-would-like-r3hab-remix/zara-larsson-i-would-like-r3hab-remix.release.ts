@@ -12,7 +12,12 @@ export const zaraLarssonIWouldLikeR3habRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-12-23",
-  externalId: "74jAjZr6wn5MdqUSVi5ump",
-  externalLink: "https://open.spotify.com/album/74jAjZr6wn5MdqUSVi5ump",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "74jAjZr6wn5MdqUSVi5ump",
+      externalLink: "https://open.spotify.com/album/74jAjZr6wn5MdqUSVi5ump",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

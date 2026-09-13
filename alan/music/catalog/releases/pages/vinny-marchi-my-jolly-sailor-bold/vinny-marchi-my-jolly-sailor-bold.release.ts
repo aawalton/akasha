@@ -12,7 +12,12 @@ export const vinnyMarchiMyJollySailorBold = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-05-19",
-  externalId: "3SlDy6kC80wJqJeIJFT13l",
-  externalLink: "https://open.spotify.com/album/3SlDy6kC80wJqJeIJFT13l",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3SlDy6kC80wJqJeIJFT13l",
+      externalLink: "https://open.spotify.com/album/3SlDy6kC80wJqJeIJFT13l",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

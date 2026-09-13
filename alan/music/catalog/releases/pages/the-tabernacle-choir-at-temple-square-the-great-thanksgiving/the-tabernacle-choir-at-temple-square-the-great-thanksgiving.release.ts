@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareTheGreatThanksgiving = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1962-01-01",
-  externalId: "4CLor7kZHxjsWUC4WoyZgn",
-  externalLink: "https://open.spotify.com/album/4CLor7kZHxjsWUC4WoyZgn",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4CLor7kZHxjsWUC4WoyZgn",
+      externalLink: "https://open.spotify.com/album/4CLor7kZHxjsWUC4WoyZgn",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

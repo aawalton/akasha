@@ -13,7 +13,12 @@ export const vinnyMarchiLadyOfTheLyre = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-06-14",
-  externalId: "6JOX9lhzhcfjs48rFnheit",
-  externalLink: "https://open.spotify.com/album/6JOX9lhzhcfjs48rFnheit",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6JOX9lhzhcfjs48rFnheit",
+      externalLink: "https://open.spotify.com/album/6JOX9lhzhcfjs48rFnheit",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

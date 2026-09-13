@@ -12,7 +12,12 @@ export const zaraLarssonInvisibleFromTheNetflixFilmKlaus = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-08",
-  externalId: "2zPVfckf1i4YAN3qiHtYqW",
-  externalLink: "https://open.spotify.com/album/2zPVfckf1i4YAN3qiHtYqW",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2zPVfckf1i4YAN3qiHtYqW",
+      externalLink: "https://open.spotify.com/album/2zPVfckf1i4YAN3qiHtYqW",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

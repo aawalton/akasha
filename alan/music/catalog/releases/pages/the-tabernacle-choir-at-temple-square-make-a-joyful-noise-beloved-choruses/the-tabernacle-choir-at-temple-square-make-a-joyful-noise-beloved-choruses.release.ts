@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareMakeAJoyfulNoiseBelovedChoruses = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1981-01-01",
-  externalId: "7Id0Ig1suDBpxBQnwh6eQ5",
-  externalLink: "https://open.spotify.com/album/7Id0Ig1suDBpxBQnwh6eQ5",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7Id0Ig1suDBpxBQnwh6eQ5",
+      externalLink: "https://open.spotify.com/album/7Id0Ig1suDBpxBQnwh6eQ5",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const zaraLarssonMidnightSunBundle = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-08-01",
-  externalId: "601jO1tp8mHigKBy04WjqR",
-  externalLink: "https://open.spotify.com/album/601jO1tp8mHigKBy04WjqR",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "601jO1tp8mHigKBy04WjqR",
+      externalLink: "https://open.spotify.com/album/601jO1tp8mHigKBy04WjqR",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const vinnyMarchiIHeardMrRamone = {
   status: "completed",
   rank: "C",
   publishedAt: "2025-11-07",
-  externalId: "2ix4z15jxuaZB0Cp0raMw2",
-  externalLink: "https://open.spotify.com/album/2ix4z15jxuaZB0Cp0raMw2",
-  lastSyncedAt: "2025-11-23",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2ix4z15jxuaZB0Cp0raMw2",
+      externalLink: "https://open.spotify.com/album/2ix4z15jxuaZB0Cp0raMw2",
+      lastSyncedAt: "2025-11-23",
+    },
+  ],
 } as const satisfies Release

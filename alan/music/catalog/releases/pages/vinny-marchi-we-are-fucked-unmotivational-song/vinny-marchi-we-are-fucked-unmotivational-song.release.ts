@@ -13,7 +13,12 @@ export const vinnyMarchiWeAreFuckedUnmotivationalSong = {
   status: "completed",
   rank: "C",
   publishedAt: "2025-05-23",
-  externalId: "2bIuydV7r62CebBn02AmoE",
-  externalLink: "https://open.spotify.com/album/2bIuydV7r62CebBn02AmoE",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2bIuydV7r62CebBn02AmoE",
+      externalLink: "https://open.spotify.com/album/2bIuydV7r62CebBn02AmoE",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const zaraLarssonOnMyLoveExtendedVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-09-14",
-  externalId: "1I3GnXMXlr6sZTwlfPMLly",
-  externalLink: "https://open.spotify.com/album/1I3GnXMXlr6sZTwlfPMLly",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1I3GnXMXlr6sZTwlfPMLly",
+      externalLink: "https://open.spotify.com/album/1I3GnXMXlr6sZTwlfPMLly",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

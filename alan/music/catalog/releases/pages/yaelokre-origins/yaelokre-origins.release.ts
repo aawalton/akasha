@@ -13,7 +13,12 @@ export const yaelokreOrigins = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-10-23",
-  externalId: "2n78hLuH141A3MtGN0EPgR",
-  externalLink: "https://open.spotify.com/album/2n78hLuH141A3MtGN0EPgR",
-  lastSyncedAt: "2025-10-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2n78hLuH141A3MtGN0EPgR",
+      externalLink: "https://open.spotify.com/album/2n78hLuH141A3MtGN0EPgR",
+      lastSyncedAt: "2025-10-30",
+    },
+  ],
 } as const satisfies Release

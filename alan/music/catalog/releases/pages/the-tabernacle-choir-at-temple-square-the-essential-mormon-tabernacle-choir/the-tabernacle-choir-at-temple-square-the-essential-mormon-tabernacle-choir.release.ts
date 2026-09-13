@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareTheEssentialMormonTabernacleChoir =
   unit: "minutes",
   status: "not-started",
   publishedAt: "2006-05-23",
-  externalId: "2XVLaa4mf9p2Lxwb43P9r1",
-  externalLink: "https://open.spotify.com/album/2XVLaa4mf9p2Lxwb43P9r1",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2XVLaa4mf9p2Lxwb43P9r1",
+      externalLink: "https://open.spotify.com/album/2XVLaa4mf9p2Lxwb43P9r1",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

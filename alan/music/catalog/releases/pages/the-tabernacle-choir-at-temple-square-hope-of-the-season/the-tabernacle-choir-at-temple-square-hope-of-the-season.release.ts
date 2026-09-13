@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareHopeOfTheSeason = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-10-24",
-  externalId: "3j6F2DOHA3rdOfh19Hbun1",
-  externalLink: "https://open.spotify.com/album/3j6F2DOHA3rdOfh19Hbun1",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3j6F2DOHA3rdOfh19Hbun1",
+      externalLink: "https://open.spotify.com/album/3j6F2DOHA3rdOfh19Hbun1",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

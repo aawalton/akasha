@@ -13,7 +13,12 @@ export const vinnyMarchiTheSadSadAlphaMan = {
   status: "completed",
   rank: "C",
   publishedAt: "2024-03-29",
-  externalId: "2weyor2NCq1F1F2sST2fOi",
-  externalLink: "https://open.spotify.com/album/2weyor2NCq1F1F2sST2fOi",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2weyor2NCq1F1F2sST2fOi",
+      externalLink: "https://open.spotify.com/album/2weyor2NCq1F1F2sST2fOi",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

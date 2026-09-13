@@ -12,7 +12,12 @@ export const zaraLarssonEndOfTime = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-05-18",
-  externalId: "0PotAZ7tfMyOwYIG3vgCZT",
-  externalLink: "https://open.spotify.com/album/0PotAZ7tfMyOwYIG3vgCZT",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0PotAZ7tfMyOwYIG3vgCZT",
+      externalLink: "https://open.spotify.com/album/0PotAZ7tfMyOwYIG3vgCZT",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

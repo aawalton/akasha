@@ -12,7 +12,12 @@ export const zaraLarssonLikeItIs = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-03-27",
-  externalId: "0lWWqdcdtFgSd1j06F9JZC",
-  externalLink: "https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0lWWqdcdtFgSd1j06F9JZC",
+      externalLink: "https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

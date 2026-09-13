@@ -13,7 +13,12 @@ export const vinnyMarchiHeroInYourStory = {
   status: "completed",
   rank: "A",
   publishedAt: "2024-05-24",
-  externalId: "2sW4J3kckr7gnsQ1rDWCe0",
-  externalLink: "https://open.spotify.com/album/2sW4J3kckr7gnsQ1rDWCe0",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2sW4J3kckr7gnsQ1rDWCe0",
+      externalLink: "https://open.spotify.com/album/2sW4J3kckr7gnsQ1rDWCe0",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

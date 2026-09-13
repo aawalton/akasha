@@ -12,7 +12,12 @@ export const zaraLarssonEndOfTimeSpinallRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-07-07",
-  externalId: "1od8RiQnyZfx0BwYp7JOa2",
-  externalLink: "https://open.spotify.com/album/1od8RiQnyZfx0BwYp7JOa2",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1od8RiQnyZfx0BwYp7JOa2",
+      externalLink: "https://open.spotify.com/album/1od8RiQnyZfx0BwYp7JOa2",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

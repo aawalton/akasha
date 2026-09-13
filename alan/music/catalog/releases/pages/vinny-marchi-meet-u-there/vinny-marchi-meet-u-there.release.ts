@@ -12,7 +12,12 @@ export const vinnyMarchiMeetUThere = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-03",
-  externalId: "4iKKPhwEZVIkxifDZOdpoM",
-  externalLink: "https://open.spotify.com/album/4iKKPhwEZVIkxifDZOdpoM",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4iKKPhwEZVIkxifDZOdpoM",
+      externalLink: "https://open.spotify.com/album/4iKKPhwEZVIkxifDZOdpoM",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareShowtimeMusicOfBroadwayAndHollywood
   unit: "minutes",
   status: "not-started",
   publishedAt: "2007-05-20",
-  externalId: "7M2p92W48q0tn2PXsXUmYu",
-  externalLink: "https://open.spotify.com/album/7M2p92W48q0tn2PXsXUmYu",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7M2p92W48q0tn2PXsXUmYu",
+      externalLink: "https://open.spotify.com/album/7M2p92W48q0tn2PXsXUmYu",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

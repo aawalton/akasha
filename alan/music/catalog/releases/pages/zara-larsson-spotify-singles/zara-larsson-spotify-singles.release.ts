@@ -12,7 +12,12 @@ export const zaraLarssonSpotifySingles = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-04-05",
-  externalId: "3RH0hpUJfWcCNEjuypAtGC",
-  externalLink: "https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3RH0hpUJfWcCNEjuypAtGC",
+      externalLink: "https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

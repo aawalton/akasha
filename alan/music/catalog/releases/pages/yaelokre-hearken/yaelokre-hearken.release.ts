@@ -12,7 +12,12 @@ export const yaelokreHearken = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2026-02-11",
-  externalId: "76esxIQUhXuZW0d7VdNy2g",
-  externalLink: "https://open.spotify.com/album/76esxIQUhXuZW0d7VdNy2g",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "76esxIQUhXuZW0d7VdNy2g",
+      externalLink: "https://open.spotify.com/album/76esxIQUhXuZW0d7VdNy2g",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

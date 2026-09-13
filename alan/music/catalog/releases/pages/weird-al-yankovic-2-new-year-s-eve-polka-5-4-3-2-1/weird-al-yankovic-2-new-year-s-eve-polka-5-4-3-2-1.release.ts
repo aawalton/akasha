@@ -12,6 +12,11 @@ export const weirdAlYankovic2NewYearSEvePolka54321 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-10-31",
-  externalId: "43mopyD01RjmKiSlnOWycJ",
-  externalLink: "https://open.spotify.com/album/43mopyD01RjmKiSlnOWycJ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "43mopyD01RjmKiSlnOWycJ",
+      externalLink: "https://open.spotify.com/album/43mopyD01RjmKiSlnOWycJ",
+    },
+  ],
 } as const satisfies Release

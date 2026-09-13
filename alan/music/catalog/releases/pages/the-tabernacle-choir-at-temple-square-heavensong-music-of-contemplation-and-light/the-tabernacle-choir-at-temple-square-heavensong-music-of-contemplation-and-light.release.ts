@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareHeavensongMusicOfContemplationAndLi
   unit: "minutes",
   status: "not-started",
   publishedAt: "2010-01-05",
-  externalId: "53oSDA4fOH2iG2Hss2zprb",
-  externalLink: "https://open.spotify.com/album/53oSDA4fOH2iG2Hss2zprb",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "53oSDA4fOH2iG2Hss2zprb",
+      externalLink: "https://open.spotify.com/album/53oSDA4fOH2iG2Hss2zprb",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

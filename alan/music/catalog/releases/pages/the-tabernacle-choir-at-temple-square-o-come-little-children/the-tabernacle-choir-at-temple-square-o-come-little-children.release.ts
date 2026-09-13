@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareOComeLittleChildren = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2017-10-06",
-  externalId: "0YSMUqjzBs5cRXQA56dYN5",
-  externalLink: "https://open.spotify.com/album/0YSMUqjzBs5cRXQA56dYN5",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0YSMUqjzBs5cRXQA56dYN5",
+      externalLink: "https://open.spotify.com/album/0YSMUqjzBs5cRXQA56dYN5",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

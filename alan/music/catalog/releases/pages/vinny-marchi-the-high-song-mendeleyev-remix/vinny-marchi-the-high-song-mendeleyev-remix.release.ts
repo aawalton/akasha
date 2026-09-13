@@ -13,7 +13,12 @@ export const vinnyMarchiTheHighSongMendeleyevRemix = {
   status: "completed",
   rank: "C",
   publishedAt: "2023-07-07",
-  externalId: "2oHk4i8huPfhhieOn7XKJu",
-  externalLink: "https://open.spotify.com/album/2oHk4i8huPfhhieOn7XKJu",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2oHk4i8huPfhhieOn7XKJu",
+      externalLink: "https://open.spotify.com/album/2oHk4i8huPfhhieOn7XKJu",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

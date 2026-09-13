@@ -12,7 +12,12 @@ export const zaraLarssonMorningBillenTedRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-06-18",
-  externalId: "5N9bzslQhj3XW8Apf7SSLW",
-  externalLink: "https://open.spotify.com/album/5N9bzslQhj3XW8Apf7SSLW",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5N9bzslQhj3XW8Apf7SSLW",
+      externalLink: "https://open.spotify.com/album/5N9bzslQhj3XW8Apf7SSLW",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

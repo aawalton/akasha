@@ -12,6 +12,11 @@ export const tomLehrerMoreOfTomLehrer = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1959-01-01",
-  externalId: "556GEkWWrgQ7f3253diPvr",
-  externalLink: "https://open.spotify.com/album/556GEkWWrgQ7f3253diPvr",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "556GEkWWrgQ7f3253diPvr",
+      externalLink: "https://open.spotify.com/album/556GEkWWrgQ7f3253diPvr",
+    },
+  ],
 } as const satisfies Release

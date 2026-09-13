@@ -12,7 +12,12 @@ export const zaraLarssonLayAllYourLoveOnMeSpotifySingles = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-05-27",
-  externalId: "4aCXO1evmETJ2Cy32sZ2Zj",
-  externalLink: "https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4aCXO1evmETJ2Cy32sZ2Zj",
+      externalLink: "https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

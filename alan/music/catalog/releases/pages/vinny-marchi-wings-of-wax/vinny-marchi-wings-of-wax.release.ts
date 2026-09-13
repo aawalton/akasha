@@ -12,7 +12,12 @@ export const vinnyMarchiWingsOfWax = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2026-01-30",
-  externalId: "3ULDMABxdqYNCfuFidESqv",
-  externalLink: "https://open.spotify.com/album/3ULDMABxdqYNCfuFidESqv",
-  lastSyncedAt: "2026-02-25",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ULDMABxdqYNCfuFidESqv",
+      externalLink: "https://open.spotify.com/album/3ULDMABxdqYNCfuFidESqv",
+      lastSyncedAt: "2026-02-25",
+    },
+  ],
 } as const satisfies Release

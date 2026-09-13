@@ -12,6 +12,11 @@ export const tomLehrerTheQueenSSixMurderTheSongsOfTomLehrer = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-08-06",
-  externalId: "5u7imuWzkTRmWJaidea8aw",
-  externalLink: "https://open.spotify.com/album/5u7imuWzkTRmWJaidea8aw",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5u7imuWzkTRmWJaidea8aw",
+      externalLink: "https://open.spotify.com/album/5u7imuWzkTRmWJaidea8aw",
+    },
+  ],
 } as const satisfies Release

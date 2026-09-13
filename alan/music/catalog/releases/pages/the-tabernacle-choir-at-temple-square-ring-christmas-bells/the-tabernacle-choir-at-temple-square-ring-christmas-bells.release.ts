@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareRingChristmasBells = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2009-08-31",
-  externalId: "1sF4Plow4HwcETACur3CD3",
-  externalLink: "https://open.spotify.com/album/1sF4Plow4HwcETACur3CD3",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1sF4Plow4HwcETACur3CD3",
+      externalLink: "https://open.spotify.com/album/1sF4Plow4HwcETACur3CD3",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

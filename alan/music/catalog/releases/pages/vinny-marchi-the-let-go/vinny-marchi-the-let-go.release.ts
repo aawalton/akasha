@@ -13,7 +13,12 @@ export const vinnyMarchiTheLetGo = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-08-15",
-  externalId: "1Dls5YZde46H1OYZ47Zzf8",
-  externalLink: "https://open.spotify.com/album/1Dls5YZde46H1OYZ47Zzf8",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Dls5YZde46H1OYZ47Zzf8",
+      externalLink: "https://open.spotify.com/album/1Dls5YZde46H1OYZ47Zzf8",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

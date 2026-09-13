@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareSilentNightTheGreatestHitsOfChristm
   unit: "minutes",
   status: "not-started",
   publishedAt: "1984-09-03",
-  externalId: "2DmD7KOmCZqa3KMljgS274",
-  externalLink: "https://open.spotify.com/album/2DmD7KOmCZqa3KMljgS274",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2DmD7KOmCZqa3KMljgS274",
+      externalLink: "https://open.spotify.com/album/2DmD7KOmCZqa3KMljgS274",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

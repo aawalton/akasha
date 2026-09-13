@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareHandelMessiahHwv56Highlights = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2016-03-04",
-  externalId: "4xbcA9EWpDGYVWJEMswizm",
-  externalLink: "https://open.spotify.com/album/4xbcA9EWpDGYVWJEMswizm",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4xbcA9EWpDGYVWJEMswizm",
+      externalLink: "https://open.spotify.com/album/4xbcA9EWpDGYVWJEMswizm",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

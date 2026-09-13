@@ -12,7 +12,12 @@ export const zaraLarssonDonTLetMeBeYoursRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-06-02",
-  externalId: "3irfvmKCgbSYGVrNUl7s7C",
-  externalLink: "https://open.spotify.com/album/3irfvmKCgbSYGVrNUl7s7C",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3irfvmKCgbSYGVrNUl7s7C",
+      externalLink: "https://open.spotify.com/album/3irfvmKCgbSYGVrNUl7s7C",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

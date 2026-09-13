@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareSingChoirsOfAngels = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2004-09-14",
-  externalId: "25CqOTYEvPqFhaU3f1klLq",
-  externalLink: "https://open.spotify.com/album/25CqOTYEvPqFhaU3f1klLq",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "25CqOTYEvPqFhaU3f1klLq",
+      externalLink: "https://open.spotify.com/album/25CqOTYEvPqFhaU3f1klLq",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const zaraLarssonStatesideZaraLarsson = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-09-24",
-  externalId: "553gwPPa6VUWikljMiQyGM",
-  externalLink: "https://open.spotify.com/album/553gwPPa6VUWikljMiQyGM",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "553gwPPa6VUWikljMiQyGM",
+      externalLink: "https://open.spotify.com/album/553gwPPa6VUWikljMiQyGM",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

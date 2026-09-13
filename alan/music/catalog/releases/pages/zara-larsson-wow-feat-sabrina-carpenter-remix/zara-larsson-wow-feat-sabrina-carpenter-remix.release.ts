@@ -12,7 +12,12 @@ export const zaraLarssonWowFeatSabrinaCarpenterRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-09-25",
-  externalId: "1RE0ZZJkxSZXdkNac4lcJD",
-  externalLink: "https://open.spotify.com/album/1RE0ZZJkxSZXdkNac4lcJD",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1RE0ZZJkxSZXdkNac4lcJD",
+      externalLink: "https://open.spotify.com/album/1RE0ZZJkxSZXdkNac4lcJD",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

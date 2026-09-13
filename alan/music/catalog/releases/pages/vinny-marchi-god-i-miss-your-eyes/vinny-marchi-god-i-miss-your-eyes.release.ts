@@ -12,7 +12,12 @@ export const vinnyMarchiGodIMissYourEyes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-03-13",
-  externalId: "7x7IKZ9F3o1Cw3stOyUW6p",
-  externalLink: "https://open.spotify.com/album/7x7IKZ9F3o1Cw3stOyUW6p",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7x7IKZ9F3o1Cw3stOyUW6p",
+      externalLink: "https://open.spotify.com/album/7x7IKZ9F3o1Cw3stOyUW6p",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

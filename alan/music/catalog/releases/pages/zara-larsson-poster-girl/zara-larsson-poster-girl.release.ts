@@ -13,7 +13,12 @@ export const zaraLarssonPosterGirl = {
   status: "completed",
   rank: "B",
   publishedAt: "2021-03-05",
-  externalId: "79y7DSLFQH3907u4ysOMGr",
-  externalLink: "https://open.spotify.com/album/79y7DSLFQH3907u4ysOMGr",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "79y7DSLFQH3907u4ysOMGr",
+      externalLink: "https://open.spotify.com/album/79y7DSLFQH3907u4ysOMGr",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

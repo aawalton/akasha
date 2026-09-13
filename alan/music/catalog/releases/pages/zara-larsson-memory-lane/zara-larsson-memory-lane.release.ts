@@ -12,7 +12,12 @@ export const zaraLarssonMemoryLane = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-10-04",
-  externalId: "057XtVTFa9pDl6AivW7UeP",
-  externalLink: "https://open.spotify.com/album/057XtVTFa9pDl6AivW7UeP",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "057XtVTFa9pDl6AivW7UeP",
+      externalLink: "https://open.spotify.com/album/057XtVTFa9pDl6AivW7UeP",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

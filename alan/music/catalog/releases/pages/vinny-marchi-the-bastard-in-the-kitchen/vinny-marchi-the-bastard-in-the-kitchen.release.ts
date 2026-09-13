@@ -13,7 +13,12 @@ export const vinnyMarchiTheBastardInTheKitchen = {
   status: "completed",
   rank: "C",
   publishedAt: "2024-03-15",
-  externalId: "0xdykKic6zAHaNSuLjnQTI",
-  externalLink: "https://open.spotify.com/album/0xdykKic6zAHaNSuLjnQTI",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0xdykKic6zAHaNSuLjnQTI",
+      externalLink: "https://open.spotify.com/album/0xdykKic6zAHaNSuLjnQTI",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

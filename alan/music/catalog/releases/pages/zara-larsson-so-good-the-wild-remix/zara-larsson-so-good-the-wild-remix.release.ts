@@ -12,7 +12,12 @@ export const zaraLarssonSoGoodTheWildRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-03-10",
-  externalId: "0xAsnsZQ02Pp8YVIRAGjPn",
-  externalLink: "https://open.spotify.com/album/0xAsnsZQ02Pp8YVIRAGjPn",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0xAsnsZQ02Pp8YVIRAGjPn",
+      externalLink: "https://open.spotify.com/album/0xAsnsZQ02Pp8YVIRAGjPn",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

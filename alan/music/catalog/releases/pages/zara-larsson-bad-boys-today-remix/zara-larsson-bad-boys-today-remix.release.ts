@@ -12,7 +12,12 @@ export const zaraLarssonBadBoysTodayRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-12-09",
-  externalId: "5z4d1UdvJ8DchCibnaCF81",
-  externalLink: "https://open.spotify.com/album/5z4d1UdvJ8DchCibnaCF81",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5z4d1UdvJ8DchCibnaCF81",
+      externalLink: "https://open.spotify.com/album/5z4d1UdvJ8DchCibnaCF81",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

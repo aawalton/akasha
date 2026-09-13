@@ -11,7 +11,12 @@ export const theTabernacleChoirAtTempleSquareJoyToTheWorld = {
   ownProgress: 0,
   unit: "minutes",
   status: "not-started",
-  externalId: "2oGPXjpyCNbf8iAznkAn1y",
-  externalLink: "https://open.spotify.com/album/2oGPXjpyCNbf8iAznkAn1y",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2oGPXjpyCNbf8iAznkAn1y",
+      externalLink: "https://open.spotify.com/album/2oGPXjpyCNbf8iAznkAn1y",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

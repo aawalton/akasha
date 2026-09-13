@@ -13,7 +13,12 @@ export const vinnyMarchiReasonToLetGo = {
   status: "completed",
   rank: "B",
   publishedAt: "2021-12-10",
-  externalId: "2xEtRVmuPZorC66wmh4hNz",
-  externalLink: "https://open.spotify.com/album/2xEtRVmuPZorC66wmh4hNz",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2xEtRVmuPZorC66wmh4hNz",
+      externalLink: "https://open.spotify.com/album/2xEtRVmuPZorC66wmh4hNz",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

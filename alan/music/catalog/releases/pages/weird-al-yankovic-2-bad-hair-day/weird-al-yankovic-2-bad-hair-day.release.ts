@@ -12,6 +12,11 @@ export const weirdAlYankovic2BadHairDay = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1996-12-31",
-  externalId: "0Jlz2oUJcRROhY8MFMp609",
-  externalLink: "https://open.spotify.com/album/0Jlz2oUJcRROhY8MFMp609",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0Jlz2oUJcRROhY8MFMp609",
+      externalLink: "https://open.spotify.com/album/0Jlz2oUJcRROhY8MFMp609",
+    },
+  ],
 } as const satisfies Release

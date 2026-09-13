@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareTeachMeToWalkInTheLightOtherChildre
   unit: "minutes",
   status: "not-started",
   publishedAt: "2012-12-26",
-  externalId: "5KQXPfVI7NkJUtjDkVKf76",
-  externalLink: "https://open.spotify.com/album/5KQXPfVI7NkJUtjDkVKf76",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5KQXPfVI7NkJUtjDkVKf76",
+      externalLink: "https://open.spotify.com/album/5KQXPfVI7NkJUtjDkVKf76",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

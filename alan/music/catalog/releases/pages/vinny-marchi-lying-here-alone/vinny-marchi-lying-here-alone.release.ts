@@ -13,7 +13,12 @@ export const vinnyMarchiLyingHereAlone = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-09-13",
-  externalId: "1J5ZiED8VbC09rnvFHdU9Y",
-  externalLink: "https://open.spotify.com/album/1J5ZiED8VbC09rnvFHdU9Y",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1J5ZiED8VbC09rnvFHdU9Y",
+      externalLink: "https://open.spotify.com/album/1J5ZiED8VbC09rnvFHdU9Y",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

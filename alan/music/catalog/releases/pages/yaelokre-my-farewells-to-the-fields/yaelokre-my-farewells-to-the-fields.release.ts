@@ -12,6 +12,11 @@ export const yaelokreMyFarewellsToTheFields = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-25",
-  externalId: "4fxgTB02u9rXHd7SCTrSHd",
-  externalLink: "https://open.spotify.com/album/4fxgTB02u9rXHd7SCTrSHd",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4fxgTB02u9rXHd7SCTrSHd",
+      externalLink: "https://open.spotify.com/album/4fxgTB02u9rXHd7SCTrSHd",
+    },
+  ],
 } as const satisfies Release

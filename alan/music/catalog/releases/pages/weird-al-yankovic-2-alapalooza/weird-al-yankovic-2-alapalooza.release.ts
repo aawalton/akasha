@@ -12,6 +12,11 @@ export const weirdAlYankovic2Alapalooza = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1993-01-01",
-  externalId: "5yrh4YoCqCyqyTmFPIRilv",
-  externalLink: "https://open.spotify.com/album/5yrh4YoCqCyqyTmFPIRilv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5yrh4YoCqCyqyTmFPIRilv",
+      externalLink: "https://open.spotify.com/album/5yrh4YoCqCyqyTmFPIRilv",
+    },
+  ],
 } as const satisfies Release

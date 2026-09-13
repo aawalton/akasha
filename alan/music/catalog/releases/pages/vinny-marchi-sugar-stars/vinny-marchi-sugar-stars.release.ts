@@ -12,7 +12,12 @@ export const vinnyMarchiSugarStars = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-09-02",
-  externalId: "0RhO7OMFRspLMPKlkfBLzI",
-  externalLink: "https://open.spotify.com/album/0RhO7OMFRspLMPKlkfBLzI",
-  lastSyncedAt: "2025-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0RhO7OMFRspLMPKlkfBLzI",
+      externalLink: "https://open.spotify.com/album/0RhO7OMFRspLMPKlkfBLzI",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
 } as const satisfies Release

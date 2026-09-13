@@ -12,7 +12,12 @@ export const zaraLarssonPrettyUgly = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-04-25",
-  externalId: "2RpD5PXqz86sdgk9T0nhuc",
-  externalLink: "https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2RpD5PXqz86sdgk9T0nhuc",
+      externalLink: "https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Release

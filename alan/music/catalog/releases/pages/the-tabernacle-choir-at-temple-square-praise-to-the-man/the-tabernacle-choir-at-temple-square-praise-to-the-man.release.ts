@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquarePraiseToTheMan = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2008-12-23",
-  externalId: "23wVT5XRQ37v92BEIR3PBl",
-  externalLink: "https://open.spotify.com/album/23wVT5XRQ37v92BEIR3PBl",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "23wVT5XRQ37v92BEIR3PBl",
+      externalLink: "https://open.spotify.com/album/23wVT5XRQ37v92BEIR3PBl",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

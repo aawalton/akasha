@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareHomeForTheHolidays = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2013-10-15",
-  externalId: "1FWyEZb5TB3O5lZfCuNxMO",
-  externalLink: "https://open.spotify.com/album/1FWyEZb5TB3O5lZfCuNxMO",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1FWyEZb5TB3O5lZfCuNxMO",
+      externalLink: "https://open.spotify.com/album/1FWyEZb5TB3O5lZfCuNxMO",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

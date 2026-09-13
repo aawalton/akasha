@@ -13,7 +13,12 @@ export const theTabernacleChoirAtTempleSquareRockOfAges30FavoriteHymns = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1960-01-01",
-  externalId: "235O9JdWj2FxUFXdjl22lo",
-  externalLink: "https://open.spotify.com/album/235O9JdWj2FxUFXdjl22lo",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "235O9JdWj2FxUFXdjl22lo",
+      externalLink: "https://open.spotify.com/album/235O9JdWj2FxUFXdjl22lo",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

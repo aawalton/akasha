@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareJoy = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-10-25",
-  externalId: "6dOmS5I2POwuFXVkhTV62g",
-  externalLink: "https://open.spotify.com/album/6dOmS5I2POwuFXVkhTV62g",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6dOmS5I2POwuFXVkhTV62g",
+      externalLink: "https://open.spotify.com/album/6dOmS5I2POwuFXVkhTV62g",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

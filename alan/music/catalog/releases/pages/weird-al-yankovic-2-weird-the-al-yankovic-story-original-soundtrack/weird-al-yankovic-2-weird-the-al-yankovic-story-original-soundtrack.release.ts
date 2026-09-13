@@ -12,6 +12,11 @@ export const weirdAlYankovic2WeirdTheAlYankovicStoryOriginalSoundtrack = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-11-04",
-  externalId: "1k9USMUU72nuGK2xivxEWd",
-  externalLink: "https://open.spotify.com/album/1k9USMUU72nuGK2xivxEWd",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1k9USMUU72nuGK2xivxEWd",
+      externalLink: "https://open.spotify.com/album/1k9USMUU72nuGK2xivxEWd",
+    },
+  ],
 } as const satisfies Release
