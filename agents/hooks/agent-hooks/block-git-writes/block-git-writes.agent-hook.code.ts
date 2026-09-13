@@ -99,8 +99,8 @@ const READ_ONLY = new Map<string, readonly string[]>([
 
 export const SCOPE: readonly string[] = [
   `${HOOK} refuses five git acts: commit, add, mv, apply, am.`,
-  "A call is let through when it carries a flag that writes nothing, and when `-C` names a path",
-  "in a repository that is not this one.",
+  "A call is let through where it carries a flag that writes nothing, and where `-C` names a",
+  "path in a repository that is not this one. Either one on its own lets the call through.",
   "",
   "WHERE THE RULE COMES FROM: what a git write reaches is not on the command line.",
   "`git commit` with no pathspec commits what is staged, and what is staged is in the index.",
