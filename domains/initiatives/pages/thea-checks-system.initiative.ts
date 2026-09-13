@@ -15,7 +15,7 @@ export const theaChecksSystem = {
     {
       statement: "No module exports a value nothing names.",
       workingMemory:
-        "810 refusals sit in `*.module.code.ts` over 515 files, where no file imports the value and the file exporting it does not name it. None is removed before Alan settles it. 371 files hold exactly one. Two kinds settled and cleared themselves: a table copied whole into a second addon reading half of it, and a vocabulary a holder spelled again as literals beside names it already imported. The head left is fixtures: `inventory-management-plan-property-fixtures` holds 17.",
+        "1275 refusals in all. 479 are a value only a test names, where the file exporting it never names it either: a module publishing its internals so its own test can reach them. Scaffolding more than one module's tests reach is a `test-fixture` page now, and the code beside such a page sets a test up rather than being code the system runs. Five have moved. The head of what is left is the same shape: `store-writing` holds 11, `repo-seeding` 10, `page-holding` 6, `fixture-world` 5.",
     },
     {
       statement: "No file the broad unexport run left alone still publishes a value only it names.",
