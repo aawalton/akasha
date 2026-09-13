@@ -15,6 +15,8 @@ const WRITTEN = "mcp-servers.agent-settings.harness-settings.json"
 
 const OWN = "mcp-servers.agent-settings.telling.code.ts"
 
+const TOKEN = "$INSTRUCTIONS"
+
 test("what is written here is what is committed beside this test, byte for byte", () => {
   expect(bodyIn(ROOT)).toBe(readFileSync(join(HERE, WRITTEN), "utf8"))
 })
@@ -25,4 +27,13 @@ test("the module the harness is told to run is a file that is there", () => {
 
 test("the code writing the settings spells none of that module's path", () => {
   expect(readFileSync(join(HERE, OWN), "utf8")).not.toContain(ranBy(ROOT))
+})
+
+test("the whole path the settings spell, with the repository root put in, is a file that is there", () => {
+  const written = JSON.parse(readFileSync(join(HERE, WRITTEN), "utf8")) as {
+    readonly messages: { readonly args: readonly string[] }
+  }
+  const spelled = written.messages.args[1] ?? ""
+  expect(spelled.startsWith(`${TOKEN}/`)).toBe(true)
+  expect(existsSync(join(ROOT, spelled.slice(TOKEN.length + 1)))).toBe(true)
 })
