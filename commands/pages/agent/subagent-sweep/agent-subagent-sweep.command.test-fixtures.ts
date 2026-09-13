@@ -32,7 +32,7 @@ import {
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { refreshedIn } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
-import { declaringUnder } from "akasha/testing-system/modules/declaring/declaring.module.code.ts"
+import { declaringUnder } from "akasha/testing-system/test-fixtures/declaring/declaring.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import {
   bodyAt,

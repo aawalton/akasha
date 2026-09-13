@@ -18,7 +18,7 @@ import {
   valueTakenFrom,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
-import { declaringUnder } from "akasha/testing-system/modules/declaring/declaring.module.code.ts"
+import { declaringUnder } from "akasha/testing-system/test-fixtures/declaring/declaring.test-fixture.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as outOf } from "akasha/utils/run/modules/running/running.module.code.ts"
 

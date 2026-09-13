@@ -9,7 +9,6 @@ export const testingSystem = {
     "domain/test",
 
     "module/bodying",
-    "module/declaring",
     "module/dom-guard-setting",
     "module/dom-guarding",
     "module/dom-registering",

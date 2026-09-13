@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { TestFixture } from "akasha/testing-system/test-fixtures/test-fixture.page-type.types.ts"
 
 export const declaring = {
   id: "01a04f4e-cc2d-7607-9fbc-82d1c0c0d9be",
-  type: "module",
+  type: "test-fixture",
   slug: "declaring",
   definition: "the pages a test's world must carry before an identity can be filed",
   code: "ts",
@@ -47,4 +47,4 @@ export const declaring = {
       statement: "A world is served the same way whichever set of pages that world asks for.",
     },
   ],
-} as const satisfies Module
+} as const satisfies TestFixture
