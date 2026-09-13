@@ -17,6 +17,11 @@ export const astraIndexCleanup = {
       workingMemory:
         "A change queues its identity and relation entries among its file changes, and the landing lock applies them like any other. Build that while `.index` is still in `.gitignore` — the name there is what grants `repository-is-written-by-a-change` leave to write, so dropping it without the generated case leaves the indexer unable to write. Measured on 251,831 files: +7.0 MiB packed, `git status` 0.45 s → 1.10 s, `.git/index` 26 MB → 68 MB, full checkout 7.8 s → 19.2 s.",
     },
+    {
+      statement: "A change lands the index entries its own file changes imply, and no others.",
+      workingMemory:
+        "Both ways: an entry the files do not imply, and an entry the files imply that the change leaves out. The cost is the change's size rather than the repository's, since entries are derived one page at a time already. The hazard is relation: it derives through the type system, so a change to a page type implies entries for every page of that type, far outside the files that change carries, and those are the ones left out.",
+    },
     { statement: "Alan holds the value index's structure correct." },
     { statement: "Alan holds the path index's structure correct." },
     { statement: "Alan holds the listing index's structure correct." },
