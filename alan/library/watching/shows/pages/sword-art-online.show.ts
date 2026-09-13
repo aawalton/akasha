@@ -14,8 +14,8 @@ export const swordArtOnline = {
   genres: ["Animation", "Sci-Fi & Fantasy", "Action & Adventure"],
   posterPath: "/9m8bFIXPg26taNrFSXGwEORVACD.jpg",
   voteAverage: 8.161,
-  source: "tmdb",
-  externalId: "45782",
+  externalIdentity: [
+    { source: "tmdb", externalId: "45782", externalLink: "https://www.themoviedb.org/tv/45782" },
+  ],
   imdbId: "tt2250192",
-  externalLink: "https://www.themoviedb.org/tv/45782",
 } as const satisfies Show

@@ -14,8 +14,8 @@ export const swordArtOnlineAlternativeGunGaleOnline = {
   genres: ["Animation", "Action & Adventure", "Sci-Fi & Fantasy"],
   posterPath: "/1EBk96E3cVVOEVlx2z744oEuFQk.jpg",
   voteAverage: 7.691,
-  source: "tmdb",
-  externalId: "78204",
+  externalIdentity: [
+    { source: "tmdb", externalId: "78204", externalLink: "https://www.themoviedb.org/tv/78204" },
+  ],
   imdbId: "tt7978710",
-  externalLink: "https://www.themoviedb.org/tv/78204",
 } as const satisfies Show
