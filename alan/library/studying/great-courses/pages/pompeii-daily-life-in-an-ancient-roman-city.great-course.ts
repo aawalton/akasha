@@ -16,7 +16,12 @@ export const pompeiiDailyLifeInAnAncientRomanCity = {
     "learning-paths-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "pompeii-daily-life-in-an-ancient-roman-city",
-  externalLink: "https://www.thegreatcoursesplus.com/pompeii-daily-life-in-an-ancient-roman-city",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pompeii-daily-life-in-an-ancient-roman-city",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/pompeii-daily-life-in-an-ancient-roman-city",
+    },
+  ],
 } as const satisfies GreatCourse

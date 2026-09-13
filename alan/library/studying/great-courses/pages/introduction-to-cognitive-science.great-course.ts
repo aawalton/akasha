@@ -10,7 +10,11 @@ export const introductionToCognitiveScience = {
   ownLength: 783,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "introduction-to-cognitive-science",
-  externalLink: "https://www.thegreatcoursesplus.com/introduction-to-cognitive-science",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "introduction-to-cognitive-science",
+      externalLink: "https://www.thegreatcoursesplus.com/introduction-to-cognitive-science",
+    },
+  ],
 } as const satisfies GreatCourse

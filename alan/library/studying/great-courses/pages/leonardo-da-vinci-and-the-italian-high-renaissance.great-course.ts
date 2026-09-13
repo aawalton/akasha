@@ -11,8 +11,12 @@ export const leonardoDaVinciAndTheItalianHighRenaissance = {
   ownLength: 1122,
   ownProgress: 1122,
   partOfCollections: ["all-great-courses", "art-great-courses"],
-  source: "the-great-courses",
-  externalId: "leonardo-da-vinci-and-the-italian-high-renaissance",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/leonardo-da-vinci-and-the-italian-high-renaissance",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "leonardo-da-vinci-and-the-italian-high-renaissance",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/leonardo-da-vinci-and-the-italian-high-renaissance",
+    },
+  ],
 } as const satisfies GreatCourse

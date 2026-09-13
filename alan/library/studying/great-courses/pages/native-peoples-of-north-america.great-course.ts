@@ -10,7 +10,11 @@ export const nativePeoplesOfNorthAmerica = {
   ownLength: 767.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "native-peoples-of-north-america",
-  externalLink: "https://www.thegreatcoursesplus.com/native-peoples-of-north-america",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "native-peoples-of-north-america",
+      externalLink: "https://www.thegreatcoursesplus.com/native-peoples-of-north-america",
+    },
+  ],
 } as const satisfies GreatCourse

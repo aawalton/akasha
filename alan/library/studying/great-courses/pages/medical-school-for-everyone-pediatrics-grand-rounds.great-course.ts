@@ -11,8 +11,12 @@ export const medicalSchoolForEveryonePediatricsGrandRounds = {
   ownLength: 733.8,
   ownProgress: 733.8,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "medical-school-for-everyone-pediatrics-grand-rounds",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/medical-school-for-everyone-pediatrics-grand-rounds",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "medical-school-for-everyone-pediatrics-grand-rounds",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/medical-school-for-everyone-pediatrics-grand-rounds",
+    },
+  ],
 } as const satisfies GreatCourse

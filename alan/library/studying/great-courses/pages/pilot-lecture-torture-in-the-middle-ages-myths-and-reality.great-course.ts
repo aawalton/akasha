@@ -11,8 +11,12 @@ export const pilotLectureTortureInTheMiddleAgesMythsAndReality = {
   ownLength: 33,
   ownProgress: 33,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "wondrium-pilots-torture-in-the-middle-ages-myths-and-reality",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/wondrium-pilots-torture-in-the-middle-ages-myths-and-reality",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-torture-in-the-middle-ages-myths-and-reality",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/wondrium-pilots-torture-in-the-middle-ages-myths-and-reality",
+    },
+  ],
 } as const satisfies GreatCourse

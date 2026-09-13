@@ -10,7 +10,11 @@ export const theBigQuestionsOfPhilosophy = {
   ownLength: 1154.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-big-questions-of-philosophy",
-  externalLink: "https://www.thegreatcoursesplus.com/the-big-questions-of-philosophy",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-big-questions-of-philosophy",
+      externalLink: "https://www.thegreatcoursesplus.com/the-big-questions-of-philosophy",
+    },
+  ],
 } as const satisfies GreatCourse

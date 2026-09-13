@@ -10,7 +10,11 @@ export const startLateFinishRich = {
   ownLength: 336,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
-  source: "the-great-courses",
-  externalId: "start-late-finish-rich",
-  externalLink: "https://www.thegreatcoursesplus.com/start-late-finish-rich",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "start-late-finish-rich",
+      externalLink: "https://www.thegreatcoursesplus.com/start-late-finish-rich",
+    },
+  ],
 } as const satisfies GreatCourse

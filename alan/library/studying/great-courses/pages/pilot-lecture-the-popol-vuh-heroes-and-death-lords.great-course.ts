@@ -11,8 +11,12 @@ export const pilotLectureThePopolVuhHeroesAndDeathLords = {
   ownLength: 25.8,
   ownProgress: 25.8,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "wondrium-pilots-the-popol-vuh-heroes-and-death-lords",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/wondrium-pilots-the-popol-vuh-heroes-and-death-lords",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-the-popol-vuh-heroes-and-death-lords",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/wondrium-pilots-the-popol-vuh-heroes-and-death-lords",
+    },
+  ],
 } as const satisfies GreatCourse

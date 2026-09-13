@@ -11,8 +11,12 @@ export const pilotLectureAlaricTheGothAndTheSackOfRome = {
   ownLength: 32.4,
   ownProgress: 32.4,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-alaric-the-goth-and-the-sack-of-rome",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/pilot-lecture-alaric-the-goth-and-the-sack-of-rome",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-alaric-the-goth-and-the-sack-of-rome",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/pilot-lecture-alaric-the-goth-and-the-sack-of-rome",
+    },
+  ],
 } as const satisfies GreatCourse

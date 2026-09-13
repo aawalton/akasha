@@ -11,7 +11,12 @@ export const pilotLectureMesopotamianCreationStories = {
   ownLength: 31.2,
   ownProgress: 31.2,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "wondrium-pilots-mesopotamian-creation-stories",
-  externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-mesopotamian-creation-stories",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-mesopotamian-creation-stories",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/wondrium-pilots-mesopotamian-creation-stories",
+    },
+  ],
 } as const satisfies GreatCourse

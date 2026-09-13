@@ -11,8 +11,12 @@ export const pilotLectureCSLewisJRRTolkienAndTheirCircle = {
   ownLength: 32.4,
   ownProgress: 32.4,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "wondrium-pilots-c-s-lewis-j-r-r-tolkien-and-their-circle",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/wondrium-pilots-c-s-lewis-j-r-r-tolkien-and-their-circle",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-c-s-lewis-j-r-r-tolkien-and-their-circle",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/wondrium-pilots-c-s-lewis-j-r-r-tolkien-and-their-circle",
+    },
+  ],
 } as const satisfies GreatCourse

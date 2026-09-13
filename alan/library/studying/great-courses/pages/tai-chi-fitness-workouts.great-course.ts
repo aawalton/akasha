@@ -14,7 +14,11 @@ export const taiChiFitnessWorkouts = {
     "health-and-mindfulness-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "tai-chi-fitness-workouts",
-  externalLink: "https://www.thegreatcoursesplus.com/tai-chi-fitness-workouts",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "tai-chi-fitness-workouts",
+      externalLink: "https://www.thegreatcoursesplus.com/tai-chi-fitness-workouts",
+    },
+  ],
 } as const satisfies GreatCourse

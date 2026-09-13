@@ -11,7 +11,11 @@ export const myFirstToeUpSocks = {
   ownLength: 117,
   ownProgress: 117,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "my-first-toe-up-socks",
-  externalLink: "https://www.thegreatcoursesplus.com/my-first-toe-up-socks",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "my-first-toe-up-socks",
+      externalLink: "https://www.thegreatcoursesplus.com/my-first-toe-up-socks",
+    },
+  ],
 } as const satisfies GreatCourse

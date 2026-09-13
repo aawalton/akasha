@@ -11,7 +11,11 @@ export const startupLibrarySewing = {
   ownLength: 328.2,
   ownProgress: 328.2,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "startup-library-sewing",
-  externalLink: "https://www.thegreatcoursesplus.com/startup-library-sewing",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "startup-library-sewing",
+      externalLink: "https://www.thegreatcoursesplus.com/startup-library-sewing",
+    },
+  ],
 } as const satisfies GreatCourse

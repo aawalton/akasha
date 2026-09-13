@@ -10,7 +10,11 @@ export const joyceSUlysses = {
   ownLength: 730.616667,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "joyce-s-ulysses",
-  externalLink: "https://www.thegreatcoursesplus.com/joyce-s-ulysses",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "joyce-s-ulysses",
+      externalLink: "https://www.thegreatcoursesplus.com/joyce-s-ulysses",
+    },
+  ],
 } as const satisfies GreatCourse

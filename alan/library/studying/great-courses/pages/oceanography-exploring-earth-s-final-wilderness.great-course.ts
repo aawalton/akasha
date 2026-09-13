@@ -10,8 +10,12 @@ export const oceanographyExploringEarthSFinalWilderness = {
   ownLength: 1158.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "oceanography-exploring-earths-final-wilderness",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/oceanography-exploring-earths-final-wilderness",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "oceanography-exploring-earths-final-wilderness",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/oceanography-exploring-earths-final-wilderness",
+    },
+  ],
 } as const satisfies GreatCourse

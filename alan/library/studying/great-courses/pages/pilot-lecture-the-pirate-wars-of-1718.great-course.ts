@@ -11,7 +11,11 @@ export const pilotLectureThePirateWarsOf1718 = {
   ownLength: 33.6,
   ownProgress: 33.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-pirate-wars-of-1718",
-  externalLink: "https://www.thegreatcoursesplus.com/the-pirate-wars-of-1718",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-pirate-wars-of-1718",
+      externalLink: "https://www.thegreatcoursesplus.com/the-pirate-wars-of-1718",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -14,7 +14,11 @@ export const mindBodyPhilosophy = {
     "health-and-mindfulness-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "mind-body-philosophy",
-  externalLink: "https://www.thegreatcoursesplus.com/mind-body-philosophy",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "mind-body-philosophy",
+      externalLink: "https://www.thegreatcoursesplus.com/mind-body-philosophy",
+    },
+  ],
 } as const satisfies GreatCourse

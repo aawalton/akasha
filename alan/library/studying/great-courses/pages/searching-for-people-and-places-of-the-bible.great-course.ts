@@ -10,7 +10,12 @@ export const searchingForPeopleAndPlacesOfTheBible = {
   ownLength: 480,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "searching-for-people-and-places-of-the-bible",
-  externalLink: "https://www.thegreatcoursesplus.com/searching-for-people-and-places-of-the-bible",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "searching-for-people-and-places-of-the-bible",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/searching-for-people-and-places-of-the-bible",
+    },
+  ],
 } as const satisfies GreatCourse

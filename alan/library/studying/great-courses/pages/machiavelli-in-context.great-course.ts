@@ -10,7 +10,11 @@ export const machiavelliInContext = {
   ownLength: 736.5,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "machiavelli-in-context",
-  externalLink: "https://www.thegreatcoursesplus.com/machiavelli-in-context",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "machiavelli-in-context",
+      externalLink: "https://www.thegreatcoursesplus.com/machiavelli-in-context",
+    },
+  ],
 } as const satisfies GreatCourse

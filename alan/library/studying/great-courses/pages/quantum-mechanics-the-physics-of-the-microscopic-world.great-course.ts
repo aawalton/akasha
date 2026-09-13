@@ -10,7 +10,11 @@ export const quantumMechanicsThePhysicsOfTheMicroscopicWorld = {
   ownLength: 729,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "quantum-mechanics",
-  externalLink: "https://www.thegreatcoursesplus.com/quantum-mechanics",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "quantum-mechanics",
+      externalLink: "https://www.thegreatcoursesplus.com/quantum-mechanics",
+    },
+  ],
 } as const satisfies GreatCourse

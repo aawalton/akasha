@@ -10,7 +10,11 @@ export const psychologyOfHumanBehavior = {
   ownLength: 1111.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "psychology-of-human-behavior",
-  externalLink: "https://www.thegreatcoursesplus.com/psychology-of-human-behavior",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "psychology-of-human-behavior",
+      externalLink: "https://www.thegreatcoursesplus.com/psychology-of-human-behavior",
+    },
+  ],
 } as const satisfies GreatCourse

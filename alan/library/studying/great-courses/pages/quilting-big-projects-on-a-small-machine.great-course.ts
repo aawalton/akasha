@@ -11,7 +11,11 @@ export const quiltingBigProjectsOnASmallMachine = {
   ownLength: 262.2,
   ownProgress: 262.2,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "quilting-big-projects-on-a-small-machine",
-  externalLink: "https://www.thegreatcoursesplus.com/quilting-big-projects-on-a-small-machine",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "quilting-big-projects-on-a-small-machine",
+      externalLink: "https://www.thegreatcoursesplus.com/quilting-big-projects-on-a-small-machine",
+    },
+  ],
 } as const satisfies GreatCourse

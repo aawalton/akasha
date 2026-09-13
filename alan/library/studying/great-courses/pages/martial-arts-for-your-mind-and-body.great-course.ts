@@ -10,7 +10,11 @@ export const martialArtsForYourMindAndBody = {
   ownLength: 768,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
-  source: "the-great-courses",
-  externalId: "martial-arts-for-your-mind-and-body",
-  externalLink: "https://www.thegreatcoursesplus.com/martial-arts-for-your-mind-and-body",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "martial-arts-for-your-mind-and-body",
+      externalLink: "https://www.thegreatcoursesplus.com/martial-arts-for-your-mind-and-body",
+    },
+  ],
 } as const satisfies GreatCourse

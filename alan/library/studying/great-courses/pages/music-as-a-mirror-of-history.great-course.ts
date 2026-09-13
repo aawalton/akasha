@@ -10,7 +10,11 @@ export const musicAsAMirrorOfHistory = {
   ownLength: 1102.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],
-  source: "the-great-courses",
-  externalId: "music-as-a-mirror-of-history",
-  externalLink: "https://www.thegreatcoursesplus.com/music-as-a-mirror-of-history",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "music-as-a-mirror-of-history",
+      externalLink: "https://www.thegreatcoursesplus.com/music-as-a-mirror-of-history",
+    },
+  ],
 } as const satisfies GreatCourse

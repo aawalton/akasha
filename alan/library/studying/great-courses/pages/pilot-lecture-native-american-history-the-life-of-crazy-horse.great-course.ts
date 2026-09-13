@@ -11,8 +11,12 @@ export const pilotLectureNativeAmericanHistoryTheLifeOfCrazyHorse = {
   ownLength: 27,
   ownProgress: 27,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "native-american-history-the-life-of-crazy-horse",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/native-american-history-the-life-of-crazy-horse",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "native-american-history-the-life-of-crazy-horse",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/native-american-history-the-life-of-crazy-horse",
+    },
+  ],
 } as const satisfies GreatCourse

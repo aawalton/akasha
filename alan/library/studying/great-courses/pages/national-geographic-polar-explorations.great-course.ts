@@ -15,7 +15,11 @@ export const nationalGeographicPolarExplorations = {
     "science-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "national-geographic-polar-explorations",
-  externalLink: "https://www.thegreatcoursesplus.com/national-geographic-polar-explorations",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "national-geographic-polar-explorations",
+      externalLink: "https://www.thegreatcoursesplus.com/national-geographic-polar-explorations",
+    },
+  ],
 } as const satisfies GreatCourse

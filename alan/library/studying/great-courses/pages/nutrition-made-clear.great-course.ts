@@ -15,8 +15,12 @@ export const nutritionMadeClear = {
     "health-and-mindfulness-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "lectures-and-courses-on-nutrition-understanding-nutrition",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/lectures-and-courses-on-nutrition-understanding-nutrition",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "lectures-and-courses-on-nutrition-understanding-nutrition",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/lectures-and-courses-on-nutrition-understanding-nutrition",
+    },
+  ],
 } as const satisfies GreatCourse

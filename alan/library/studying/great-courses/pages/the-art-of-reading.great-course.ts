@@ -10,7 +10,11 @@ export const theArtOfReading = {
   ownLength: 24,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-art-of-reading",
-  externalLink: "https://plus.thegreatcourses.com/the-art-of-reading",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-art-of-reading",
+      externalLink: "https://plus.thegreatcourses.com/the-art-of-reading",
+    },
+  ],
 } as const satisfies GreatCourse

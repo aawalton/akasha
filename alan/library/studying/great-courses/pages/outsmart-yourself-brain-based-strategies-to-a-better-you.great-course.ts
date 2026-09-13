@@ -16,8 +16,12 @@ export const outsmartYourselfBrainBasedStrategiesToABetterYou = {
     "professional-growth-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "outsmart-yourself-brain-based-strategies-to-a-better-you",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/outsmart-yourself-brain-based-strategies-to-a-better-you",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "outsmart-yourself-brain-based-strategies-to-a-better-you",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/outsmart-yourself-brain-based-strategies-to-a-better-you",
+    },
+  ],
 } as const satisfies GreatCourse

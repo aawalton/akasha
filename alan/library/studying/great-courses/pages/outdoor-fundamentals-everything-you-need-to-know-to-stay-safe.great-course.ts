@@ -10,8 +10,12 @@ export const outdoorFundamentalsEverythingYouNeedToKnowToStaySafe = {
   ownLength: 670.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "outdoor-fundamentals-everything-you-need-to-know-to-stay-safe",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/outdoor-fundamentals-everything-you-need-to-know-to-stay-safe",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "outdoor-fundamentals-everything-you-need-to-know-to-stay-safe",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/outdoor-fundamentals-everything-you-need-to-know-to-stay-safe",
+    },
+  ],
 } as const satisfies GreatCourse

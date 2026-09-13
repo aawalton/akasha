@@ -11,7 +11,11 @@ export const natureInWatercolorPaintingTrees = {
   ownLength: 151.2,
   ownProgress: 151.2,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "nature-in-watercolor-painting-trees",
-  externalLink: "https://www.thegreatcoursesplus.com/nature-in-watercolor-painting-trees",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "nature-in-watercolor-painting-trees",
+      externalLink: "https://www.thegreatcoursesplus.com/nature-in-watercolor-painting-trees",
+    },
+  ],
 } as const satisfies GreatCourse

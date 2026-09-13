@@ -10,7 +10,11 @@ export const theAmericanWestHistoryMythAndLegacy = {
   ownLength: 727.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-american-west-history-myth-and-legacy",
-  externalLink: "https://www.thegreatcoursesplus.com/the-american-west-history-myth-and-legacy",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-american-west-history-myth-and-legacy",
+      externalLink: "https://www.thegreatcoursesplus.com/the-american-west-history-myth-and-legacy",
+    },
+  ],
 } as const satisfies GreatCourse

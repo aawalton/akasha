@@ -14,8 +14,12 @@ export const mindBodyMedicineTheNewScienceOfOptimalHealth = {
     "health-and-mindfulness-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "mind-body-medicine-the-new-science-of-optimal-health",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/mind-body-medicine-the-new-science-of-optimal-health",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "mind-body-medicine-the-new-science-of-optimal-health",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/mind-body-medicine-the-new-science-of-optimal-health",
+    },
+  ],
 } as const satisfies GreatCourse

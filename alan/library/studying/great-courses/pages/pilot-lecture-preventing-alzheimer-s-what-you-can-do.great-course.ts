@@ -11,7 +11,11 @@ export const pilotLecturePreventingAlzheimerSWhatYouCanDo = {
   ownLength: 34.2,
   ownProgress: 34.2,
   partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
-  source: "the-great-courses",
-  externalId: "preventing-alzheimer-s-what-you-can-do",
-  externalLink: "https://www.thegreatcoursesplus.com/preventing-alzheimer-s-what-you-can-do",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "preventing-alzheimer-s-what-you-can-do",
+      externalLink: "https://www.thegreatcoursesplus.com/preventing-alzheimer-s-what-you-can-do",
+    },
+  ],
 } as const satisfies GreatCourse

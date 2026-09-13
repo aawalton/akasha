@@ -10,7 +10,11 @@ export const macroeconomicsMadeClear = {
   ownLength: 753.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
-  source: "the-great-courses",
-  externalId: "macroeconomics-made-clear",
-  externalLink: "https://www.thegreatcoursesplus.com/macroeconomics-made-clear",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "macroeconomics-made-clear",
+      externalLink: "https://www.thegreatcoursesplus.com/macroeconomics-made-clear",
+    },
+  ],
 } as const satisfies GreatCourse

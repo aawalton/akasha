@@ -15,8 +15,12 @@ export const practicingMindfulnessAnIntroductionToMeditation = {
     "hobby-and-personal-pursuits-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "practicing-mindfulness-an-introduction-to-meditation",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/practicing-mindfulness-an-introduction-to-meditation",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "practicing-mindfulness-an-introduction-to-meditation",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/practicing-mindfulness-an-introduction-to-meditation",
+    },
+  ],
 } as const satisfies GreatCourse

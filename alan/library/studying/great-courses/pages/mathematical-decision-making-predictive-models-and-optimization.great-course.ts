@@ -14,8 +14,12 @@ export const mathematicalDecisionMakingPredictiveModelsAndOptimization = {
     "business-and-finance-great-courses",
     "mathematics-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "mathematical-decision-making-predictive-models-and-optimization",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/mathematical-decision-making-predictive-models-and-optimization",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "mathematical-decision-making-predictive-models-and-optimization",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/mathematical-decision-making-predictive-models-and-optimization",
+    },
+  ],
 } as const satisfies GreatCourse

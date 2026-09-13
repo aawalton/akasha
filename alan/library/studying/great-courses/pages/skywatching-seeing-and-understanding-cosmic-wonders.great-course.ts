@@ -15,8 +15,12 @@ export const skywatchingSeeingAndUnderstandingCosmicWonders = {
     "learning-paths-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "skywatching-seeing-and-understanding-cosmic-wonders",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/skywatching-seeing-and-understanding-cosmic-wonders",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "skywatching-seeing-and-understanding-cosmic-wonders",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/skywatching-seeing-and-understanding-cosmic-wonders",
+    },
+  ],
 } as const satisfies GreatCourse

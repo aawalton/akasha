@@ -11,8 +11,12 @@ export const theBlackDeathNewLessonsFromRecentResearch = {
   ownLength: 165.6,
   ownProgress: 165.6,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-black-death-new-lessons-from-recent-research",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-black-death-new-lessons-from-recent-research",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-black-death-new-lessons-from-recent-research",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-black-death-new-lessons-from-recent-research",
+    },
+  ],
 } as const satisfies GreatCourse

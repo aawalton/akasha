@@ -14,8 +14,12 @@ export const irestIntegrativeRestorationYogaNidraForDeepRelaxation = {
     "health-and-mindfulness-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "irest-integrative-restoration-yoga-nidra-for-deep-relaxation",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/irest-integrative-restoration-yoga-nidra-for-deep-relaxation",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "irest-integrative-restoration-yoga-nidra-for-deep-relaxation",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/irest-integrative-restoration-yoga-nidra-for-deep-relaxation",
+    },
+  ],
 } as const satisfies GreatCourse

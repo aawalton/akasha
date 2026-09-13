@@ -11,8 +11,12 @@ export const livingHistoryExperiencingGreatEventsOfTheAncientAndMedievalW = {
   ownLength: 761.4,
   ownProgress: 761.4,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "living-history-experiencing-great-events-of-the-ancient-and-medieval-worlds",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/living-history-experiencing-great-events-of-the-ancient-and-medieval-worlds",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "living-history-experiencing-great-events-of-the-ancient-and-medieval-worlds",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/living-history-experiencing-great-events-of-the-ancient-and-medieval-worlds",
+    },
+  ],
 } as const satisfies GreatCourse

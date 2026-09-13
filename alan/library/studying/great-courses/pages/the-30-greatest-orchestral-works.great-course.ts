@@ -10,7 +10,11 @@ export const the30GreatestOrchestralWorks = {
   ownLength: 1491,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-30-greatest-orchestral-works",
-  externalLink: "https://www.thegreatcoursesplus.com/the-30-greatest-orchestral-works",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-30-greatest-orchestral-works",
+      externalLink: "https://www.thegreatcoursesplus.com/the-30-greatest-orchestral-works",
+    },
+  ],
 } as const satisfies GreatCourse

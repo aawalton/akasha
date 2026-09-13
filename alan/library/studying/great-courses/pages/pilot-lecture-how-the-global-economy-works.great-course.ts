@@ -11,7 +11,12 @@ export const pilotLectureHowTheGlobalEconomyWorks = {
   ownLength: 31.2,
   ownProgress: 31.2,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
-  source: "the-great-courses",
-  externalId: "wondrium-pilots-how-the-global-economy-works",
-  externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-how-the-global-economy-works",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-how-the-global-economy-works",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/wondrium-pilots-how-the-global-economy-works",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -11,7 +11,11 @@ export const quickAndEasyComfortFoods = {
   ownLength: 80,
   ownProgress: 80,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "quick-and-easy-comfort-foods",
-  externalLink: "https://www.thegreatcoursesplus.com/quick-and-easy-comfort-foods",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "quick-and-easy-comfort-foods",
+      externalLink: "https://www.thegreatcoursesplus.com/quick-and-easy-comfort-foods",
+    },
+  ],
 } as const satisfies GreatCourse

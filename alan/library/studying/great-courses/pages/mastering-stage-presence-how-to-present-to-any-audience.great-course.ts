@@ -10,8 +10,12 @@ export const masteringStagePresenceHowToPresentToAnyAudience = {
   ownLength: 731.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
-  source: "the-great-courses",
-  externalId: "mastering-stage-presence-how-to-present-to-any-audience",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/mastering-stage-presence-how-to-present-to-any-audience",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "mastering-stage-presence-how-to-present-to-any-audience",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/mastering-stage-presence-how-to-present-to-any-audience",
+    },
+  ],
 } as const satisfies GreatCourse

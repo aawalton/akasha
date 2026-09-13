@@ -10,7 +10,11 @@ export const rediscoveringTheAgeOfDinosaurs = {
   ownLength: 610.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "rediscovering-the-age-of-dinosaurs",
-  externalLink: "https://www.thegreatcoursesplus.com/rediscovering-the-age-of-dinosaurs",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "rediscovering-the-age-of-dinosaurs",
+      externalLink: "https://www.thegreatcoursesplus.com/rediscovering-the-age-of-dinosaurs",
+    },
+  ],
 } as const satisfies GreatCourse

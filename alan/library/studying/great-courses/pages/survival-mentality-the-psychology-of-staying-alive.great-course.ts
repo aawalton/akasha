@@ -10,8 +10,12 @@ export const survivalMentalityThePsychologyOfStayingAlive = {
   ownLength: 360.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "survival-mentality-the-psychology-of-staying-alive",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/survival-mentality-the-psychology-of-staying-alive",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "survival-mentality-the-psychology-of-staying-alive",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/survival-mentality-the-psychology-of-staying-alive",
+    },
+  ],
 } as const satisfies GreatCourse

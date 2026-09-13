@@ -10,7 +10,11 @@ export const originsOfGreatAncientCivilizations = {
   ownLength: 370.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "origins-of-great-ancient-civilizations",
-  externalLink: "https://www.thegreatcoursesplus.com/origins-of-great-ancient-civilizations",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "origins-of-great-ancient-civilizations",
+      externalLink: "https://www.thegreatcoursesplus.com/origins-of-great-ancient-civilizations",
+    },
+  ],
 } as const satisfies GreatCourse

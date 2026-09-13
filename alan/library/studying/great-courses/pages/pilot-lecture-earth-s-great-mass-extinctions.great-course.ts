@@ -11,7 +11,12 @@ export const pilotLectureEarthSGreatMassExtinctions = {
   ownLength: 25.8,
   ownProgress: 25.8,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-earth-s-great-mass-extinctions",
-  externalLink: "https://www.thegreatcoursesplus.com/pilot-lecture-earth-s-great-mass-extinctions",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-earth-s-great-mass-extinctions",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/pilot-lecture-earth-s-great-mass-extinctions",
+    },
+  ],
 } as const satisfies GreatCourse

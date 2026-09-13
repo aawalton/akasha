@@ -11,7 +11,11 @@ export const metalsmithingAtHome = {
   ownLength: 404.4,
   ownProgress: 404.4,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "metalsmithing-at-home",
-  externalLink: "https://www.thegreatcoursesplus.com/metalsmithing-at-home",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "metalsmithing-at-home",
+      externalLink: "https://www.thegreatcoursesplus.com/metalsmithing-at-home",
+    },
+  ],
 } as const satisfies GreatCourse

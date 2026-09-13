@@ -15,7 +15,11 @@ export const peoplesAndCulturesOfTheWorld = {
     "history-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "peoples-and-cultures-of-the-world",
-  externalLink: "https://www.thegreatcoursesplus.com/peoples-and-cultures-of-the-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "peoples-and-cultures-of-the-world",
+      externalLink: "https://www.thegreatcoursesplus.com/peoples-and-cultures-of-the-world",
+    },
+  ],
 } as const satisfies GreatCourse

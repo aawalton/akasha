@@ -10,7 +10,11 @@ export const realZenForRealLife = {
   ownLength: 886.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "real-zen-for-real-life",
-  externalLink: "https://www.thegreatcoursesplus.com/real-zen-for-real-life",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "real-zen-for-real-life",
+      externalLink: "https://www.thegreatcoursesplus.com/real-zen-for-real-life",
+    },
+  ],
 } as const satisfies GreatCourse

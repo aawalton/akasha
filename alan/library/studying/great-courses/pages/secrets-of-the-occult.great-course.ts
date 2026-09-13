@@ -10,7 +10,11 @@ export const secretsOfTheOccult = {
   ownLength: 709.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "secrets-of-the-occult",
-  externalLink: "https://www.thegreatcoursesplus.com/secrets-of-the-occult",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "secrets-of-the-occult",
+      externalLink: "https://www.thegreatcoursesplus.com/secrets-of-the-occult",
+    },
+  ],
 } as const satisfies GreatCourse

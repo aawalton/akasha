@@ -11,7 +11,11 @@ export const theArtOfThePictureBook = {
   ownLength: 163.716667,
   ownProgress: 163.716667,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-art-of-the-picture-book",
-  externalLink: "https://www.thegreatcoursesplus.com/the-art-of-the-picture-book",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-art-of-the-picture-book",
+      externalLink: "https://www.thegreatcoursesplus.com/the-art-of-the-picture-book",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -11,8 +11,12 @@ export const pilotLectureTheExcitingWorldOfProjectManagement = {
   ownLength: 36.6,
   ownProgress: 36.6,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
-  source: "the-great-courses",
-  externalId: "plus-pilots-the-eciting-world-of-project-management",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/plus-pilots-the-eciting-world-of-project-management",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "plus-pilots-the-eciting-world-of-project-management",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/plus-pilots-the-eciting-world-of-project-management",
+    },
+  ],
 } as const satisfies GreatCourse

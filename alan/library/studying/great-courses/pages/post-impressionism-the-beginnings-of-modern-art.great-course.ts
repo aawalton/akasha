@@ -11,8 +11,12 @@ export const postImpressionismTheBeginningsOfModernArt = {
   ownLength: 642.6,
   ownProgress: 642.6,
   partOfCollections: ["all-great-courses", "art-great-courses", "learning-paths-great-courses"],
-  source: "the-great-courses",
-  externalId: "post-impressionism-the-beginnings-of-modern-art",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/post-impressionism-the-beginnings-of-modern-art",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "post-impressionism-the-beginnings-of-modern-art",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/post-impressionism-the-beginnings-of-modern-art",
+    },
+  ],
 } as const satisfies GreatCourse

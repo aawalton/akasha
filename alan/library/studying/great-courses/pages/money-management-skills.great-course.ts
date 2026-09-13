@@ -15,7 +15,11 @@ export const moneyManagementSkills = {
     "business-and-finance-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "money-management-skills",
-  externalLink: "https://www.thegreatcoursesplus.com/money-management-skills",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "money-management-skills",
+      externalLink: "https://www.thegreatcoursesplus.com/money-management-skills",
+    },
+  ],
 } as const satisfies GreatCourse

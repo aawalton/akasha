@@ -10,8 +10,12 @@ export const mastersOfGreekThoughtPlatoSocratesAndAristotle = {
   ownLength: 1095,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "masters-of-greek-thought-plato-socrates-and-aristotle",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/masters-of-greek-thought-plato-socrates-and-aristotle",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "masters-of-greek-thought-plato-socrates-and-aristotle",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/masters-of-greek-thought-plato-socrates-and-aristotle",
+    },
+  ],
 } as const satisfies GreatCourse

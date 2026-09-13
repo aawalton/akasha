@@ -10,7 +10,12 @@ export const theAfricanExperienceFrom = {
   ownLength: 1098,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-african-eperience-from-lucy-to-mandela",
-  externalLink: "https://www.thegreatcoursesplus.com/the-african-eperience-from-lucy-to-mandela",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-african-eperience-from-lucy-to-mandela",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-african-eperience-from-lucy-to-mandela",
+    },
+  ],
 } as const satisfies GreatCourse

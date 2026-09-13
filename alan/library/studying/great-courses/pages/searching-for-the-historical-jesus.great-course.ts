@@ -15,7 +15,11 @@ export const searchingForTheHistoricalJesus = {
     "philosophy-and-religion-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "searching-for-the-historical-jesus",
-  externalLink: "https://www.thegreatcoursesplus.com/searching-for-the-historical-jesus",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "searching-for-the-historical-jesus",
+      externalLink: "https://www.thegreatcoursesplus.com/searching-for-the-historical-jesus",
+    },
+  ],
 } as const satisfies GreatCourse

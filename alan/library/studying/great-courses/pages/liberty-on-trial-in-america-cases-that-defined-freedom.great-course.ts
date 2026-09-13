@@ -10,8 +10,12 @@ export const libertyOnTrialInAmericaCasesThatDefinedFreedom = {
   ownLength: 717,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "liberty-on-trial-in-america-cases-that-defined-freedom",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/liberty-on-trial-in-america-cases-that-defined-freedom",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "liberty-on-trial-in-america-cases-that-defined-freedom",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/liberty-on-trial-in-america-cases-that-defined-freedom",
+    },
+  ],
 } as const satisfies GreatCourse

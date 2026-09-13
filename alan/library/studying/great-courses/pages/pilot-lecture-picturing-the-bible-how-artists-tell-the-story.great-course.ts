@@ -15,8 +15,12 @@ export const pilotLecturePicturingTheBibleHowArtistsTellTheStory = {
     "art-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-picturing-the-bible-how-artists-tell-the-story",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/pilot-lecture-picturing-the-bible-how-artists-tell-the-story",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-picturing-the-bible-how-artists-tell-the-story",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/pilot-lecture-picturing-the-bible-how-artists-tell-the-story",
+    },
+  ],
 } as const satisfies GreatCourse

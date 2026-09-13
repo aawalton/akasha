@@ -10,8 +10,12 @@ export const theDeclarationOfIndependenceAmericaSBirthCertificate = {
   ownLength: 12,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-declaration-of-independence-america-s-birth-certificate",
-  externalLink:
-    "https://plus.thegreatcourses.com/the-declaration-of-independence-america-s-birth-certificate",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-declaration-of-independence-america-s-birth-certificate",
+      externalLink:
+        "https://plus.thegreatcourses.com/the-declaration-of-independence-america-s-birth-certificate",
+    },
+  ],
 } as const satisfies GreatCourse

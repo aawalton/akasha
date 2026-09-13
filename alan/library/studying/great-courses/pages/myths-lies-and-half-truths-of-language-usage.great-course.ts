@@ -11,7 +11,12 @@ export const mythsLiesAndHalfTruthsOfLanguageUsage = {
   ownLength: 732,
   ownProgress: 732,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "myths-lies-and-half-truths-of-language-usage",
-  externalLink: "https://www.thegreatcoursesplus.com/myths-lies-and-half-truths-of-language-usage",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "myths-lies-and-half-truths-of-language-usage",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/myths-lies-and-half-truths-of-language-usage",
+    },
+  ],
 } as const satisfies GreatCourse

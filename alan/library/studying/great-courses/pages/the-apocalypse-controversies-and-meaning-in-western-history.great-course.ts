@@ -14,8 +14,12 @@ export const theApocalypseControversiesAndMeaningInWesternHistory = {
     "literature-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-apocalypse-controversies-and-meaning-in-western-history",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-apocalypse-controversies-and-meaning-in-western-history",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-apocalypse-controversies-and-meaning-in-western-history",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-apocalypse-controversies-and-meaning-in-western-history",
+    },
+  ],
 } as const satisfies GreatCourse

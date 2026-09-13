@@ -10,7 +10,11 @@ export const theCreativeThinkerSToolkit = {
   ownLength: 741,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-creative-thinkers-toolkit",
-  externalLink: "https://www.thegreatcoursesplus.com/the-creative-thinkers-toolkit",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-creative-thinkers-toolkit",
+      externalLink: "https://www.thegreatcoursesplus.com/the-creative-thinkers-toolkit",
+    },
+  ],
 } as const satisfies GreatCourse

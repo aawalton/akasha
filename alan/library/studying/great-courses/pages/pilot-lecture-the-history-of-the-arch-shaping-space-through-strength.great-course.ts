@@ -11,8 +11,12 @@ export const pilotLectureTheHistoryOfTheArchShapingSpaceThroughStrength = {
   ownLength: 35.066667,
   ownProgress: 35.066667,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-the-history-of-the-arch-shaping-space-through-strength",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/pilot-lecture-the-history-of-the-arch-shaping-space-through-strength",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-the-history-of-the-arch-shaping-space-through-strength",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/pilot-lecture-the-history-of-the-arch-shaping-space-through-strength",
+    },
+  ],
 } as const satisfies GreatCourse

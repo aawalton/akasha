@@ -14,7 +14,11 @@ export const memoryAndTheHumanLifespan = {
     "health-and-mindfulness-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "memory-and-the-human-lifespan",
-  externalLink: "https://www.thegreatcoursesplus.com/memory-and-the-human-lifespan",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "memory-and-the-human-lifespan",
+      externalLink: "https://www.thegreatcoursesplus.com/memory-and-the-human-lifespan",
+    },
+  ],
 } as const satisfies GreatCourse

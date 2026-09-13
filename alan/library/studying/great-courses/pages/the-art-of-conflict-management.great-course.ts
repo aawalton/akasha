@@ -14,7 +14,11 @@ export const theArtOfConflictManagement = {
     "business-and-finance-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-art-of-conflict-management",
-  externalLink: "https://www.thegreatcoursesplus.com/the-art-of-conflict-management",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-art-of-conflict-management",
+      externalLink: "https://www.thegreatcoursesplus.com/the-art-of-conflict-management",
+    },
+  ],
 } as const satisfies GreatCourse

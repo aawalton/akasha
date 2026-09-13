@@ -10,7 +10,11 @@ export const mathematicsPhilosophyAndTheRealWorld = {
   ownLength: 1109.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],
-  source: "the-great-courses",
-  externalId: "mathematics-philosophy-and-the-real-world",
-  externalLink: "https://www.thegreatcoursesplus.com/mathematics-philosophy-and-the-real-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "mathematics-philosophy-and-the-real-world",
+      externalLink: "https://www.thegreatcoursesplus.com/mathematics-philosophy-and-the-real-world",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const physicsInYourLife = {
   ownLength: 1098,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "physics-in-your-life",
-  externalLink: "https://www.thegreatcoursesplus.com/physics-in-your-life",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "physics-in-your-life",
+      externalLink: "https://www.thegreatcoursesplus.com/physics-in-your-life",
+    },
+  ],
 } as const satisfies GreatCourse

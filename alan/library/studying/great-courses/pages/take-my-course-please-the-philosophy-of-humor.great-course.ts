@@ -14,7 +14,12 @@ export const takeMyCoursePleaseThePhilosophyOfHumor = {
     "health-and-mindfulness-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "take-my-course-please-the-philosophy-of-humor",
-  externalLink: "https://www.thegreatcoursesplus.com/take-my-course-please-the-philosophy-of-humor",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "take-my-course-please-the-philosophy-of-humor",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/take-my-course-please-the-philosophy-of-humor",
+    },
+  ],
 } as const satisfies GreatCourse

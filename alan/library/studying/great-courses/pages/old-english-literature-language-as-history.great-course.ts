@@ -10,7 +10,12 @@ export const oldEnglishLiteratureLanguageAsHistory = {
   ownLength: 760.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "old-english-literature-language-as-history",
-  externalLink: "https://www.thegreatcoursesplus.com/old-english-literature-language-as-history",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "old-english-literature-language-as-history",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/old-english-literature-language-as-history",
+    },
+  ],
 } as const satisfies GreatCourse

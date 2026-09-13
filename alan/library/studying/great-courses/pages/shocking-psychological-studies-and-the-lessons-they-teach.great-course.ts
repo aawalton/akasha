@@ -10,8 +10,12 @@ export const shockingPsychologicalStudiesAndTheLessonsTheyTeach = {
   ownLength: 184.2,
   ownProgress: 184.2,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "shocking-psychological-studies-and-the-lessons-they-teach",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/shocking-psychological-studies-and-the-lessons-they-teach",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "shocking-psychological-studies-and-the-lessons-they-teach",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/shocking-psychological-studies-and-the-lessons-they-teach",
+    },
+  ],
 } as const satisfies GreatCourse

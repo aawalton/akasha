@@ -15,7 +15,11 @@ export const sacredTextsOfTheWorld = {
     "literature-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "sacred-texts-of-the-world",
-  externalLink: "https://www.thegreatcoursesplus.com/sacred-texts-of-the-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "sacred-texts-of-the-world",
+      externalLink: "https://www.thegreatcoursesplus.com/sacred-texts-of-the-world",
+    },
+  ],
 } as const satisfies GreatCourse

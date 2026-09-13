@@ -10,7 +10,11 @@ export const theEarlyMiddleAges = {
   ownLength: 747,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-early-middle-ages",
-  externalLink: "https://www.thegreatcoursesplus.com/the-early-middle-ages",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-early-middle-ages",
+      externalLink: "https://www.thegreatcoursesplus.com/the-early-middle-ages",
+    },
+  ],
 } as const satisfies GreatCourse

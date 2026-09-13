@@ -11,7 +11,12 @@ export const theBlackDeathDidHumansSpreadThePlague = {
   ownLength: 10.8,
   ownProgress: 10.8,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-black-death-did-humans-spread-the-plague",
-  externalLink: "https://www.thegreatcoursesplus.com/the-black-death-did-humans-spread-the-plague",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-black-death-did-humans-spread-the-plague",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-black-death-did-humans-spread-the-plague",
+    },
+  ],
 } as const satisfies GreatCourse

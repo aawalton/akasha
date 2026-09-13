@@ -14,8 +14,12 @@ export const learningToPlayGuitarChordsScalesAndSolos = {
     "hobby-and-personal-pursuits-great-courses",
     "music-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "learning-to-play-guitar-chords-scales-and-solos",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/learning-to-play-guitar-chords-scales-and-solos",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "learning-to-play-guitar-chords-scales-and-solos",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/learning-to-play-guitar-chords-scales-and-solos",
+    },
+  ],
 } as const satisfies GreatCourse

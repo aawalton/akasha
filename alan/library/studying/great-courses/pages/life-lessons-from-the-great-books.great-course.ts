@@ -14,7 +14,11 @@ export const lifeLessonsFromTheGreatBooks = {
     "literature-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "life-lessons-from-the-great-books",
-  externalLink: "https://www.thegreatcoursesplus.com/life-lessons-from-the-great-books",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "life-lessons-from-the-great-books",
+      externalLink: "https://www.thegreatcoursesplus.com/life-lessons-from-the-great-books",
+    },
+  ],
 } as const satisfies GreatCourse

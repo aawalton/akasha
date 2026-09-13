@@ -15,8 +15,12 @@ export const jewishIntellectualHistory16thTo20thCentury = {
     "history-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "jewish-intellectual-history-16th-to-20th-century",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/jewish-intellectual-history-16th-to-20th-century",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "jewish-intellectual-history-16th-to-20th-century",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/jewish-intellectual-history-16th-to-20th-century",
+    },
+  ],
 } as const satisfies GreatCourse

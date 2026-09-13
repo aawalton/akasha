@@ -15,7 +15,11 @@ export const theCompleteGuideToBakingBread = {
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-complete-guide-to-baking-bread",
-  externalLink: "https://www.thegreatcoursesplus.com/the-complete-guide-to-baking-bread",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-complete-guide-to-baking-bread",
+      externalLink: "https://www.thegreatcoursesplus.com/the-complete-guide-to-baking-bread",
+    },
+  ],
 } as const satisfies GreatCourse

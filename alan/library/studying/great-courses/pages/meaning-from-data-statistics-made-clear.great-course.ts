@@ -15,7 +15,11 @@ export const meaningFromDataStatisticsMadeClear = {
     "mathematics-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "meaning-from-data-statistics-made-clear",
-  externalLink: "https://www.thegreatcoursesplus.com/meaning-from-data-statistics-made-clear",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "meaning-from-data-statistics-made-clear",
+      externalLink: "https://www.thegreatcoursesplus.com/meaning-from-data-statistics-made-clear",
+    },
+  ],
 } as const satisfies GreatCourse

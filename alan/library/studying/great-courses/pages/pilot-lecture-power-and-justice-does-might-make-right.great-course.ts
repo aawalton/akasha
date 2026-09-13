@@ -11,8 +11,12 @@ export const pilotLecturePowerAndJusticeDoesMightMakeRight = {
   ownLength: 30.6,
   ownProgress: 30.6,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "wondrium-pilots-power-and-justice-does-might-make-right",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/wondrium-pilots-power-and-justice-does-might-make-right",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-power-and-justice-does-might-make-right",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/wondrium-pilots-power-and-justice-does-might-make-right",
+    },
+  ],
 } as const satisfies GreatCourse

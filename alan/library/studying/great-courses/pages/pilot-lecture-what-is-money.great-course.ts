@@ -11,7 +11,11 @@ export const pilotLectureWhatIsMoney = {
   ownLength: 25.8,
   ownProgress: 25.8,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
-  source: "the-great-courses",
-  externalId: "plus-lecture-what-is-money",
-  externalLink: "https://www.thegreatcoursesplus.com/plus-lecture-what-is-money",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "plus-lecture-what-is-money",
+      externalLink: "https://www.thegreatcoursesplus.com/plus-lecture-what-is-money",
+    },
+  ],
 } as const satisfies GreatCourse

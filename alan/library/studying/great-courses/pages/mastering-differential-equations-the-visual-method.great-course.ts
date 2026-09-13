@@ -10,8 +10,12 @@ export const masteringDifferentialEquationsTheVisualMethod = {
   ownLength: 751.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],
-  source: "the-great-courses",
-  externalId: "mastering-differential-equations-the-visual-method",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/mastering-differential-equations-the-visual-method",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "mastering-differential-equations-the-visual-method",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/mastering-differential-equations-the-visual-method",
+    },
+  ],
 } as const satisfies GreatCourse

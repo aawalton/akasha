@@ -10,7 +10,11 @@ export const theConservativeTradition = {
   ownLength: 1097.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-conservative-tradition",
-  externalLink: "https://www.thegreatcoursesplus.com/the-conservative-tradition",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-conservative-tradition",
+      externalLink: "https://www.thegreatcoursesplus.com/the-conservative-tradition",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const lifeInTheWorldSOceans = {
   ownLength: 970.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "life-in-the-worlds-oceans",
-  externalLink: "https://www.thegreatcoursesplus.com/life-in-the-worlds-oceans",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "life-in-the-worlds-oceans",
+      externalLink: "https://www.thegreatcoursesplus.com/life-in-the-worlds-oceans",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const socialMedia101 = {
   ownLength: 360.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "social-media-101",
-  externalLink: "https://www.thegreatcoursesplus.com/social-media-101",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "social-media-101",
+      externalLink: "https://www.thegreatcoursesplus.com/social-media-101",
+    },
+  ],
 } as const satisfies GreatCourse

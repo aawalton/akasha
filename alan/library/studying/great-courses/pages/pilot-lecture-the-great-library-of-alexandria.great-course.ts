@@ -11,7 +11,12 @@ export const pilotLectureTheGreatLibraryOfAlexandria = {
   ownLength: 34.3,
   ownProgress: 34.3,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-the-great-library-of-alexandria",
-  externalLink: "https://www.thegreatcoursesplus.com/pilot-lecture-the-great-library-of-alexandria",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-the-great-library-of-alexandria",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/pilot-lecture-the-great-library-of-alexandria",
+    },
+  ],
 } as const satisfies GreatCourse

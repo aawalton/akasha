@@ -15,8 +15,12 @@ export const reflectionsInAcrylicDepictingLightOnWater = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "reflections-in-acrylic-depicting-light-on-water",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/reflections-in-acrylic-depicting-light-on-water",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "reflections-in-acrylic-depicting-light-on-water",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/reflections-in-acrylic-depicting-light-on-water",
+    },
+  ],
 } as const satisfies GreatCourse

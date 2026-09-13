@@ -10,7 +10,11 @@ export const superstringTheoryTheDnaOfReality = {
   ownLength: 730.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "superstring-theory-the-dna-of-reality",
-  externalLink: "https://www.thegreatcoursesplus.com/superstring-theory-the-dna-of-reality",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "superstring-theory-the-dna-of-reality",
+      externalLink: "https://www.thegreatcoursesplus.com/superstring-theory-the-dna-of-reality",
+    },
+  ],
 } as const satisfies GreatCourse

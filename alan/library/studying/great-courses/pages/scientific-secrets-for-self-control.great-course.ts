@@ -15,7 +15,11 @@ export const scientificSecretsForSelfControl = {
     "health-and-mindfulness-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "scientific-secrets-for-self-control",
-  externalLink: "https://www.thegreatcoursesplus.com/scientific-secrets-for-self-control",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "scientific-secrets-for-self-control",
+      externalLink: "https://www.thegreatcoursesplus.com/scientific-secrets-for-self-control",
+    },
+  ],
 } as const satisfies GreatCourse

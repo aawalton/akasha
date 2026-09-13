@@ -15,7 +15,11 @@ export const showStoppingMakeAheadDesserts = {
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "show-stopping-make-ahead-desserts",
-  externalLink: "https://www.thegreatcoursesplus.com/show-stopping-make-ahead-desserts",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "show-stopping-make-ahead-desserts",
+      externalLink: "https://www.thegreatcoursesplus.com/show-stopping-make-ahead-desserts",
+    },
+  ],
 } as const satisfies GreatCourse

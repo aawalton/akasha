@@ -15,7 +15,11 @@ export const lawSchoolForEveryoneCorporateLaw = {
     "learning-paths-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "law-school-for-everyone-corporate-law",
-  externalLink: "https://www.thegreatcoursesplus.com/law-school-for-everyone-corporate-law",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "law-school-for-everyone-corporate-law",
+      externalLink: "https://www.thegreatcoursesplus.com/law-school-for-everyone-corporate-law",
+    },
+  ],
 } as const satisfies GreatCourse

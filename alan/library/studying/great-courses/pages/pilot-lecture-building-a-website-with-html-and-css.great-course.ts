@@ -16,8 +16,12 @@ export const pilotLectureBuildingAWebsiteWithHtmlAndCss = {
     "hobby-and-personal-pursuits-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "plus-pilots-building-a-website-with-html-and-css",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/plus-pilots-building-a-website-with-html-and-css",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "plus-pilots-building-a-website-with-html-and-css",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/plus-pilots-building-a-website-with-html-and-css",
+    },
+  ],
 } as const satisfies GreatCourse

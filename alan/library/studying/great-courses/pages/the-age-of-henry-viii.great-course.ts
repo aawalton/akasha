@@ -10,7 +10,11 @@ export const theAgeOfHenryViii = {
   ownLength: 736.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-age-of-henry-viii",
-  externalLink: "https://www.thegreatcoursesplus.com/the-age-of-henry-viii",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-age-of-henry-viii",
+      externalLink: "https://www.thegreatcoursesplus.com/the-age-of-henry-viii",
+    },
+  ],
 } as const satisfies GreatCourse

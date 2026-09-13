@@ -15,7 +15,11 @@ export const theArtOfPublicSpeaking = {
     "literature-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-art-of-public-speaking",
-  externalLink: "https://www.thegreatcoursesplus.com/the-art-of-public-speaking",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-art-of-public-speaking",
+      externalLink: "https://www.thegreatcoursesplus.com/the-art-of-public-speaking",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const jesusAndHisJewishInfluences = {
   ownLength: 732.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "jesus-and-his-jewish-influences",
-  externalLink: "https://www.thegreatcoursesplus.com/jesus-and-his-jewish-influences",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "jesus-and-his-jewish-influences",
+      externalLink: "https://www.thegreatcoursesplus.com/jesus-and-his-jewish-influences",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -15,7 +15,11 @@ export const startupLibraryPaintingWithAcrylic = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "startup-library-painting-with-acrylic",
-  externalLink: "https://www.thegreatcoursesplus.com/startup-library-painting-with-acrylic",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "startup-library-painting-with-acrylic",
+      externalLink: "https://www.thegreatcoursesplus.com/startup-library-painting-with-acrylic",
+    },
+  ],
 } as const satisfies GreatCourse

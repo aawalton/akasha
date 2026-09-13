@@ -11,8 +11,12 @@ export const pilotLectureAntioxidantsWhatAreTheyAndWhyDoWeNeedThem = {
   ownLength: 34.2,
   ownProgress: 34.2,
   partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-antioxidants-what-are-they-and-why-do-we-need-them",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/pilot-lecture-antioxidants-what-are-they-and-why-do-we-need-them",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-antioxidants-what-are-they-and-why-do-we-need-them",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/pilot-lecture-antioxidants-what-are-they-and-why-do-we-need-them",
+    },
+  ],
 } as const satisfies GreatCourse

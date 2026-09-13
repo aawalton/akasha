@@ -10,8 +10,12 @@ export const lifelongHealthAchievingOptimumWellBeingAtAnyAge = {
   ownLength: 1087.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
-  source: "the-great-courses",
-  externalId: "lifelong-health-achieving-optimum-well-being-at-any-age",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/lifelong-health-achieving-optimum-well-being-at-any-age",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "lifelong-health-achieving-optimum-well-being-at-any-age",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/lifelong-health-achieving-optimum-well-being-at-any-age",
+    },
+  ],
 } as const satisfies GreatCourse

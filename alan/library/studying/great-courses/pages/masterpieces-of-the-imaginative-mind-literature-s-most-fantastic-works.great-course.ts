@@ -10,8 +10,12 @@ export const masterpiecesOfTheImaginativeMindLiteratureSMostFantasticWorks = {
   ownLength: 753.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "masterpieces-of-the-imaginative-mind-literatures-most-fantastic-works",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/masterpieces-of-the-imaginative-mind-literatures-most-fantastic-works",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "masterpieces-of-the-imaginative-mind-literatures-most-fantastic-works",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/masterpieces-of-the-imaginative-mind-literatures-most-fantastic-works",
+    },
+  ],
 } as const satisfies GreatCourse

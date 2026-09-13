@@ -14,8 +14,12 @@ export const theArtOfTeachingBestPracticesFromAMasterEducator = {
     "literature-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-art-of-teaching-best-practices-from-a-master-educator",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-art-of-teaching-best-practices-from-a-master-educator",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-art-of-teaching-best-practices-from-a-master-educator",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-art-of-teaching-best-practices-from-a-master-educator",
+    },
+  ],
 } as const satisfies GreatCourse

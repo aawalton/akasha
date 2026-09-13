@@ -15,8 +15,12 @@ export const pilotLectureUnderstandingYourVitalSignsHowBloodPressureWorks = {
     "health-and-mindfulness-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "understanding-your-vital-signs-how-blood-pressure-works",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/understanding-your-vital-signs-how-blood-pressure-works",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-your-vital-signs-how-blood-pressure-works",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/understanding-your-vital-signs-how-blood-pressure-works",
+    },
+  ],
 } as const satisfies GreatCourse

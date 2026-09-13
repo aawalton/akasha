@@ -10,7 +10,11 @@ export const naturalLawAndHumanNature = {
   ownLength: 737.816667,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "natural-law-and-human-nature",
-  externalLink: "https://www.thegreatcoursesplus.com/natural-law-and-human-nature",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "natural-law-and-human-nature",
+      externalLink: "https://www.thegreatcoursesplus.com/natural-law-and-human-nature",
+    },
+  ],
 } as const satisfies GreatCourse

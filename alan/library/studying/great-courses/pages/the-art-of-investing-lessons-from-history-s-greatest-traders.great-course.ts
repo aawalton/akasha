@@ -10,8 +10,12 @@ export const theArtOfInvestingLessonsFromHistorySGreatestTraders = {
   ownLength: 720,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-art-of-investing-lessons-from-historys-greatest-traders",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-art-of-investing-lessons-from-historys-greatest-traders",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-art-of-investing-lessons-from-historys-greatest-traders",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-art-of-investing-lessons-from-historys-greatest-traders",
+    },
+  ],
 } as const satisfies GreatCourse

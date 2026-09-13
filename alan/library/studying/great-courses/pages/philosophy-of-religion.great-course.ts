@@ -10,7 +10,11 @@ export const philosophyOfReligion = {
   ownLength: 1097.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "philosophy-of-religion",
-  externalLink: "https://www.thegreatcoursesplus.com/philosophy-of-religion",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "philosophy-of-religion",
+      externalLink: "https://www.thegreatcoursesplus.com/philosophy-of-religion",
+    },
+  ],
 } as const satisfies GreatCourse

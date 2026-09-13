@@ -11,7 +11,11 @@ export const pilotLectureDoComputersUnderstandEnglish = {
   ownLength: 32.4,
   ownProgress: 32.4,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
-  source: "the-great-courses",
-  externalId: "do-computers-understand-english",
-  externalLink: "https://www.thegreatcoursesplus.com/do-computers-understand-english",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "do-computers-understand-english",
+      externalLink: "https://www.thegreatcoursesplus.com/do-computers-understand-english",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -11,7 +11,12 @@ export const pilotLectureEdithWhartonSGildedAgeNewYork = {
   ownLength: 29.4,
   ownProgress: 29.4,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "wondrium-pilots-edith-wharton-s-gilded-age",
-  externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-edith-wharton-s-gilded-age",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-edith-wharton-s-gilded-age",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/wondrium-pilots-edith-wharton-s-gilded-age",
+    },
+  ],
 } as const satisfies GreatCourse

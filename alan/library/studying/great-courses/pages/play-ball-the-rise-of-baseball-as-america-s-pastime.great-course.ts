@@ -14,8 +14,12 @@ export const playBallTheRiseOfBaseballAsAmericaSPastime = {
     "history-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "play-ball-the-rise-of-baseball-as-americas-pastime",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/play-ball-the-rise-of-baseball-as-americas-pastime",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "play-ball-the-rise-of-baseball-as-americas-pastime",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/play-ball-the-rise-of-baseball-as-americas-pastime",
+    },
+  ],
 } as const satisfies GreatCourse

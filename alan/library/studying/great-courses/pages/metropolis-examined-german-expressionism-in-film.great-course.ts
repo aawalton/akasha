@@ -11,8 +11,12 @@ export const metropolisExaminedGermanExpressionismInFilm = {
   ownLength: 7.2,
   ownProgress: 7.2,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "metropolis-examined-german-expressionism-in-film",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/metropolis-examined-german-expressionism-in-film",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "metropolis-examined-german-expressionism-in-film",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/metropolis-examined-german-expressionism-in-film",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -15,8 +15,12 @@ export const seeBetterDrawBetterExercisesForBeginners = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "see-better-draw-better-exercises-for-beginners",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/see-better-draw-better-exercises-for-beginners",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "see-better-draw-better-exercises-for-beginners",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/see-better-draw-better-exercises-for-beginners",
+    },
+  ],
 } as const satisfies GreatCourse

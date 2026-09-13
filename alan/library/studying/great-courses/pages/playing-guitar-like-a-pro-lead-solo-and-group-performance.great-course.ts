@@ -14,8 +14,12 @@ export const playingGuitarLikeAProLeadSoloAndGroupPerformance = {
     "hobby-and-personal-pursuits-great-courses",
     "music-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "playing-guitar-like-a-pro-lead-solo-and-group-performance",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/playing-guitar-like-a-pro-lead-solo-and-group-performance",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "playing-guitar-like-a-pro-lead-solo-and-group-performance",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/playing-guitar-like-a-pro-lead-solo-and-group-performance",
+    },
+  ],
 } as const satisfies GreatCourse

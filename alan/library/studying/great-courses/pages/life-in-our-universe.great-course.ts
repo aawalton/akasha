@@ -10,7 +10,11 @@ export const lifeInOurUniverse = {
   ownLength: 728.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "life-in-our-universe",
-  externalLink: "https://www.thegreatcoursesplus.com/life-in-our-universe",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "life-in-our-universe",
+      externalLink: "https://www.thegreatcoursesplus.com/life-in-our-universe",
+    },
+  ],
 } as const satisfies GreatCourse

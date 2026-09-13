@@ -10,7 +10,11 @@ export const theArtOfNegotiatingTheBestDeal = {
   ownLength: 777,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-art-of-negotiating-the-best-deal",
-  externalLink: "https://www.thegreatcoursesplus.com/the-art-of-negotiating-the-best-deal",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-art-of-negotiating-the-best-deal",
+      externalLink: "https://www.thegreatcoursesplus.com/the-art-of-negotiating-the-best-deal",
+    },
+  ],
 } as const satisfies GreatCourse

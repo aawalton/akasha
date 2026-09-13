@@ -10,7 +10,11 @@ export const londonInTheTimeOfDickens = {
   ownLength: 372,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "london-in-the-time-of-dickens",
-  externalLink: "https://www.thegreatcoursesplus.com/london-in-the-time-of-dickens",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "london-in-the-time-of-dickens",
+      externalLink: "https://www.thegreatcoursesplus.com/london-in-the-time-of-dickens",
+    },
+  ],
 } as const satisfies GreatCourse

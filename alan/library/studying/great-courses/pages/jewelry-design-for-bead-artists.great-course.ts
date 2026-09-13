@@ -15,7 +15,11 @@ export const jewelryDesignForBeadArtists = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "jewelry-design-for-bead-artists",
-  externalLink: "https://www.thegreatcoursesplus.com/jewelry-design-for-bead-artists",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "jewelry-design-for-bead-artists",
+      externalLink: "https://www.thegreatcoursesplus.com/jewelry-design-for-bead-artists",
+    },
+  ],
 } as const satisfies GreatCourse

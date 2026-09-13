@@ -11,7 +11,11 @@ export const theArtOfVideoStorytelling = {
   ownLength: 304.2,
   ownProgress: 304.2,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-art-of-video-storytelling",
-  externalLink: "https://www.thegreatcoursesplus.com/the-art-of-video-storytelling",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-art-of-video-storytelling",
+      externalLink: "https://www.thegreatcoursesplus.com/the-art-of-video-storytelling",
+    },
+  ],
 } as const satisfies GreatCourse

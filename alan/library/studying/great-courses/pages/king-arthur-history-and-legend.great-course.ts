@@ -11,7 +11,11 @@ export const kingArthurHistoryAndLegend = {
   ownLength: 723.6,
   ownProgress: 723.6,
   partOfCollections: ["all-great-courses", "history-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "king-arthur-history-and-legend",
-  externalLink: "https://www.thegreatcoursesplus.com/king-arthur-history-and-legend",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "king-arthur-history-and-legend",
+      externalLink: "https://www.thegreatcoursesplus.com/king-arthur-history-and-legend",
+    },
+  ],
 } as const satisfies GreatCourse

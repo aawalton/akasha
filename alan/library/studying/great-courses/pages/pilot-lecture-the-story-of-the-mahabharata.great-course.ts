@@ -11,7 +11,11 @@ export const pilotLectureTheStoryOfTheMahabharata = {
   ownLength: 31.2,
   ownProgress: 31.2,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "wondrium-pilots-the-story-of-mahabharata",
-  externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-the-story-of-mahabharata",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-the-story-of-mahabharata",
+      externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-the-story-of-mahabharata",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -15,7 +15,11 @@ export const theAddictiveBrain = {
     "learning-paths-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-addictive-brain",
-  externalLink: "https://www.thegreatcoursesplus.com/the-addictive-brain",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-addictive-brain",
+      externalLink: "https://www.thegreatcoursesplus.com/the-addictive-brain",
+    },
+  ],
 } as const satisfies GreatCourse

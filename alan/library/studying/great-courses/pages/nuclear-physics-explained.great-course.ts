@@ -10,7 +10,11 @@ export const nuclearPhysicsExplained = {
   ownLength: 729,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "nuclear-physics-explained",
-  externalLink: "https://www.thegreatcoursesplus.com/nuclear-physics-explained",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "nuclear-physics-explained",
+      externalLink: "https://www.thegreatcoursesplus.com/nuclear-physics-explained",
+    },
+  ],
 } as const satisfies GreatCourse

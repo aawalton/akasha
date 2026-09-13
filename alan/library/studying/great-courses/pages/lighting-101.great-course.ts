@@ -10,7 +10,11 @@ export const lighting101 = {
   ownLength: 533.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
-  source: "the-great-courses",
-  externalId: "lighting-101",
-  externalLink: "https://www.thegreatcoursesplus.com/lighting-101",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "lighting-101",
+      externalLink: "https://www.thegreatcoursesplus.com/lighting-101",
+    },
+  ],
 } as const satisfies GreatCourse

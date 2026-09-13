@@ -16,7 +16,12 @@ export const pilotLectureLearningMandarinChineseNumbersAndTones = {
     "literature-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "learning-mandarin-chinese-numbers-and-tones",
-  externalLink: "https://www.thegreatcoursesplus.com/learning-mandarin-chinese-numbers-and-tones",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "learning-mandarin-chinese-numbers-and-tones",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/learning-mandarin-chinese-numbers-and-tones",
+    },
+  ],
 } as const satisfies GreatCourse

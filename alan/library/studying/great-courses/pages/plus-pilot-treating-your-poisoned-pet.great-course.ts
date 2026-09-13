@@ -11,7 +11,11 @@ export const plusPilotTreatingYourPoisonedPet = {
   ownLength: 29.4,
   ownProgress: 29.4,
   partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
-  source: "the-great-courses",
-  externalId: "plus-pilot-treating-your-poisoned-pet",
-  externalLink: "https://www.thegreatcoursesplus.com/plus-pilot-treating-your-poisoned-pet",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "plus-pilot-treating-your-poisoned-pet",
+      externalLink: "https://www.thegreatcoursesplus.com/plus-pilot-treating-your-poisoned-pet",
+    },
+  ],
 } as const satisfies GreatCourse

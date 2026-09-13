@@ -11,7 +11,11 @@ export const theCelticWorld = {
   ownLength: 775.8,
   ownProgress: 775.8,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-celtic-world",
-  externalLink: "https://www.thegreatcoursesplus.com/the-celtic-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-celtic-world",
+      externalLink: "https://www.thegreatcoursesplus.com/the-celtic-world",
+    },
+  ],
 } as const satisfies GreatCourse

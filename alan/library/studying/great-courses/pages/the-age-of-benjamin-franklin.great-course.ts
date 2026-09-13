@@ -10,7 +10,11 @@ export const theAgeOfBenjaminFranklin = {
   ownLength: 758.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-age-of-benjamin-franklin",
-  externalLink: "https://www.thegreatcoursesplus.com/the-age-of-benjamin-franklin",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-age-of-benjamin-franklin",
+      externalLink: "https://www.thegreatcoursesplus.com/the-age-of-benjamin-franklin",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const learnInAWeekend = {
   ownLength: 305.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "learn-in-a-weekend",
-  externalLink: "https://www.thegreatcoursesplus.com/learn-in-a-weekend",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "learn-in-a-weekend",
+      externalLink: "https://www.thegreatcoursesplus.com/learn-in-a-weekend",
+    },
+  ],
 } as const satisfies GreatCourse

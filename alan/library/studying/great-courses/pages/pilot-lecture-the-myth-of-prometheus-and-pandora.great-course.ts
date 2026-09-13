@@ -11,8 +11,12 @@ export const pilotLectureTheMythOfPrometheusAndPandora = {
   ownLength: 29.4,
   ownProgress: 29.4,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-the-myth-of-prometheus-and-pandora",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/pilot-lecture-the-myth-of-prometheus-and-pandora",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-the-myth-of-prometheus-and-pandora",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/pilot-lecture-the-myth-of-prometheus-and-pandora",
+    },
+  ],
 } as const satisfies GreatCourse

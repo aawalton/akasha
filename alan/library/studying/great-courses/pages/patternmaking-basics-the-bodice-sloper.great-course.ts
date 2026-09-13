@@ -11,7 +11,11 @@ export const patternmakingBasicsTheBodiceSloper = {
   ownLength: 306,
   ownProgress: 306,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "patternmaking-basics-the-bodice-sloper",
-  externalLink: "https://www.thegreatcoursesplus.com/patternmaking-basics-the-bodice-sloper",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "patternmaking-basics-the-bodice-sloper",
+      externalLink: "https://www.thegreatcoursesplus.com/patternmaking-basics-the-bodice-sloper",
+    },
+  ],
 } as const satisfies GreatCourse

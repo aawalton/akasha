@@ -15,8 +15,12 @@ export const privacyPropertyAndFreeSpeechLawAndTheConstitution = {
     "hobby-and-personal-pursuits-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "privacy-property-and-free-speech-law-and-the-constitution",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/privacy-property-and-free-speech-law-and-the-constitution",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "privacy-property-and-free-speech-law-and-the-constitution",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/privacy-property-and-free-speech-law-and-the-constitution",
+    },
+  ],
 } as const satisfies GreatCourse

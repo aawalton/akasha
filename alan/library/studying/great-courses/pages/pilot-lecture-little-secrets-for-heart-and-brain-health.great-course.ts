@@ -11,8 +11,12 @@ export const pilotLectureLittleSecretsForHeartAndBrainHealth = {
   ownLength: 28.2,
   ownProgress: 28.2,
   partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
-  source: "the-great-courses",
-  externalId: "plus-pilots-little-secrets-for-heart-and-brain-health",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/plus-pilots-little-secrets-for-heart-and-brain-health",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "plus-pilots-little-secrets-for-heart-and-brain-health",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/plus-pilots-little-secrets-for-heart-and-brain-health",
+    },
+  ],
 } as const satisfies GreatCourse

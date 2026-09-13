@@ -15,7 +15,11 @@ export const mixedMediaPenInkAndWatercolor = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "mixed-media-pen-ink-watercolor",
-  externalLink: "https://www.thegreatcoursesplus.com/mixed-media-pen-ink-watercolor",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "mixed-media-pen-ink-watercolor",
+      externalLink: "https://www.thegreatcoursesplus.com/mixed-media-pen-ink-watercolor",
+    },
+  ],
 } as const satisfies GreatCourse

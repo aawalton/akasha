@@ -11,8 +11,12 @@ export const persuasionAndPropagandaInAncientRomeCiceroSOratory = {
   ownLength: 36.6,
   ownProgress: 36.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "persuasion-and-propaganda-in-ancient-rome-ciceros-oratory",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/persuasion-and-propaganda-in-ancient-rome-ciceros-oratory",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "persuasion-and-propaganda-in-ancient-rome-ciceros-oratory",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/persuasion-and-propaganda-in-ancient-rome-ciceros-oratory",
+    },
+  ],
 } as const satisfies GreatCourse

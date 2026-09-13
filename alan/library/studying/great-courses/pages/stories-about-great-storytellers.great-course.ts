@@ -11,7 +11,11 @@ export const storiesAboutGreatStorytellers = {
   ownLength: 24,
   ownProgress: 24,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "stories-about-great-storytellers",
-  externalLink: "https://www.thegreatcoursesplus.com/stories-about-great-storytellers",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "stories-about-great-storytellers",
+      externalLink: "https://www.thegreatcoursesplus.com/stories-about-great-storytellers",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const mindBlowingScienceSeason2 = {
   ownLength: 240,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "mind-blowing-science-season-2",
-  externalLink: "https://www.thegreatcoursesplus.com/mind-blowing-science-season-2",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "mind-blowing-science-season-2",
+      externalLink: "https://www.thegreatcoursesplus.com/mind-blowing-science-season-2",
+    },
+  ],
 } as const satisfies GreatCourse

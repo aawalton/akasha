@@ -14,7 +14,11 @@ export const qiGongForBetterHealthAndWellness = {
     "health-and-mindfulness-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "qi-gong-for-better-health-and-wellness",
-  externalLink: "https://www.thegreatcoursesplus.com/qi-gong-for-better-health-and-wellness",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "qi-gong-for-better-health-and-wellness",
+      externalLink: "https://www.thegreatcoursesplus.com/qi-gong-for-better-health-and-wellness",
+    },
+  ],
 } as const satisfies GreatCourse

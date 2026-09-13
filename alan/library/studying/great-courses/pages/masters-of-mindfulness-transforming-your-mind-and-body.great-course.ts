@@ -14,8 +14,12 @@ export const mastersOfMindfulnessTransformingYourMindAndBody = {
     "health-and-mindfulness-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "masters-of-mindfulness-transforming-your-mind-and-body",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/masters-of-mindfulness-transforming-your-mind-and-body",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "masters-of-mindfulness-transforming-your-mind-and-body",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/masters-of-mindfulness-transforming-your-mind-and-body",
+    },
+  ],
 } as const satisfies GreatCourse

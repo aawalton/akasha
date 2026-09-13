@@ -11,8 +11,12 @@ export const pilotLectureMaxPlanckAndTheUltravioletCatastrophe = {
   ownLength: 19.8,
   ownProgress: 19.8,
   partOfCollections: ["all-great-courses", "history-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "plus-pilots-ma-planck-and-the-ultraviolet-catastrophe",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/plus-pilots-ma-planck-and-the-ultraviolet-catastrophe",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "plus-pilots-ma-planck-and-the-ultraviolet-catastrophe",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/plus-pilots-ma-planck-and-the-ultraviolet-catastrophe",
+    },
+  ],
 } as const satisfies GreatCourse

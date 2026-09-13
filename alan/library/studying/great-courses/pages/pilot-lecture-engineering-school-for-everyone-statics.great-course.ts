@@ -11,8 +11,12 @@ export const pilotLectureEngineeringSchoolForEveryoneStatics = {
   ownLength: 29.4,
   ownProgress: 29.4,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "plus-pilots-engineering-school-for-everyone-statics",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/plus-pilots-engineering-school-for-everyone-statics",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "plus-pilots-engineering-school-for-everyone-statics",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/plus-pilots-engineering-school-for-everyone-statics",
+    },
+  ],
 } as const satisfies GreatCourse

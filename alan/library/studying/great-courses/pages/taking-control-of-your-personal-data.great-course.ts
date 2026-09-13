@@ -14,7 +14,11 @@ export const takingControlOfYourPersonalData = {
     "hobby-and-personal-pursuits-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "taking-control-of-your-personal-data",
-  externalLink: "https://www.thegreatcoursesplus.com/taking-control-of-your-personal-data",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "taking-control-of-your-personal-data",
+      externalLink: "https://www.thegreatcoursesplus.com/taking-control-of-your-personal-data",
+    },
+  ],
 } as const satisfies GreatCourse

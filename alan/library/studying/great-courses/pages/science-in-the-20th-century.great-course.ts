@@ -10,7 +10,11 @@ export const scienceInThe20thCentury = {
   ownLength: 1095,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "science-in-the-20th-century",
-  externalLink: "https://www.thegreatcoursesplus.com/science-in-the-20th-century",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "science-in-the-20th-century",
+      externalLink: "https://www.thegreatcoursesplus.com/science-in-the-20th-century",
+    },
+  ],
 } as const satisfies GreatCourse

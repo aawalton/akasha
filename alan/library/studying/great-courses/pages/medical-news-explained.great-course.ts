@@ -11,7 +11,11 @@ export const medicalNewsExplained = {
   ownLength: 72,
   ownProgress: 72,
   partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
-  source: "the-great-courses",
-  externalId: "medical-news-explained",
-  externalLink: "https://www.thegreatcoursesplus.com/medical-news-explained",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "medical-news-explained",
+      externalLink: "https://www.thegreatcoursesplus.com/medical-news-explained",
+    },
+  ],
 } as const satisfies GreatCourse

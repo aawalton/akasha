@@ -11,7 +11,11 @@ export const pilotLectureTheGeniusOfSocrates = {
   ownLength: 26.4,
   ownProgress: 26.4,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-the-genius-of-socrates",
-  externalLink: "https://www.thegreatcoursesplus.com/pilot-lecture-the-genius-of-socrates",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-the-genius-of-socrates",
+      externalLink: "https://www.thegreatcoursesplus.com/pilot-lecture-the-genius-of-socrates",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -11,8 +11,12 @@ export const pilotLectureWhatWeKnowAndDonTKnowAboutTheBigBang = {
   ownLength: 27,
   ownProgress: 27,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "plus-pilots-what-we-know-and-dont-know-about-the-big-bang",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/plus-pilots-what-we-know-and-dont-know-about-the-big-bang",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "plus-pilots-what-we-know-and-dont-know-about-the-big-bang",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/plus-pilots-what-we-know-and-dont-know-about-the-big-bang",
+    },
+  ],
 } as const satisfies GreatCourse

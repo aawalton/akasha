@@ -10,7 +10,11 @@ export const pilotLectureUnderstandingHumanEmotions = {
   ownLength: 25.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "plus-pilots-understanding-human-emotions",
-  externalLink: "https://www.thegreatcoursesplus.com/plus-pilots-understanding-human-emotions",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "plus-pilots-understanding-human-emotions",
+      externalLink: "https://www.thegreatcoursesplus.com/plus-pilots-understanding-human-emotions",
+    },
+  ],
 } as const satisfies GreatCourse

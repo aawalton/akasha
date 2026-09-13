@@ -10,8 +10,12 @@ export const riseOfTheNovelExploringHistorySGreatestEarlyWorks = {
   ownLength: 735,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "rise-of-the-novel-eploring-historys-greatest-early-works",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/rise-of-the-novel-eploring-historys-greatest-early-works",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "rise-of-the-novel-eploring-historys-greatest-early-works",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/rise-of-the-novel-eploring-historys-greatest-early-works",
+    },
+  ],
 } as const satisfies GreatCourse

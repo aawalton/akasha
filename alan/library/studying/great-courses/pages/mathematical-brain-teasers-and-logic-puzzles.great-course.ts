@@ -10,7 +10,12 @@ export const mathematicalBrainTeasersAndLogicPuzzles = {
   ownLength: 309,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],
-  source: "the-great-courses",
-  externalId: "mathematical-brain-teasers-and-logic-puzzles",
-  externalLink: "https://www.thegreatcoursesplus.com/mathematical-brain-teasers-and-logic-puzzles",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "mathematical-brain-teasers-and-logic-puzzles",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/mathematical-brain-teasers-and-logic-puzzles",
+    },
+  ],
 } as const satisfies GreatCourse

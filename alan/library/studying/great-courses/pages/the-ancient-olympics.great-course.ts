@@ -11,7 +11,11 @@ export const theAncientOlympics = {
   ownLength: 27,
   ownProgress: 27,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-ancient-olympics",
-  externalLink: "https://www.thegreatcoursesplus.com/the-ancient-olympics",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-ancient-olympics",
+      externalLink: "https://www.thegreatcoursesplus.com/the-ancient-olympics",
+    },
+  ],
 } as const satisfies GreatCourse

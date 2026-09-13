@@ -10,7 +10,11 @@ export const myFavoriteUniverse = {
   ownLength: 388.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "my-favorite-universe",
-  externalLink: "https://www.thegreatcoursesplus.com/my-favorite-universe",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "my-favorite-universe",
+      externalLink: "https://www.thegreatcoursesplus.com/my-favorite-universe",
+    },
+  ],
 } as const satisfies GreatCourse

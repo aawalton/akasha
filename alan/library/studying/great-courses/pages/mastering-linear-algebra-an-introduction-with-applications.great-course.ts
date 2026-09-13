@@ -10,8 +10,12 @@ export const masteringLinearAlgebraAnIntroductionWithApplications = {
   ownLength: 723.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],
-  source: "the-great-courses",
-  externalId: "mastering-linear-algebra-an-introduction-to-applications",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/mastering-linear-algebra-an-introduction-to-applications",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "mastering-linear-algebra-an-introduction-to-applications",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/mastering-linear-algebra-an-introduction-to-applications",
+    },
+  ],
 } as const satisfies GreatCourse

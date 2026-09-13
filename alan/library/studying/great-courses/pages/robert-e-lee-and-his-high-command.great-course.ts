@@ -10,7 +10,11 @@ export const robertELeeAndHisHighCommand = {
   ownLength: 733.333333,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "robert-e-lee-and-his-high-command",
-  externalLink: "https://www.thegreatcoursesplus.com/robert-e-lee-and-his-high-command",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "robert-e-lee-and-his-high-command",
+      externalLink: "https://www.thegreatcoursesplus.com/robert-e-lee-and-his-high-command",
+    },
+  ],
 } as const satisfies GreatCourse

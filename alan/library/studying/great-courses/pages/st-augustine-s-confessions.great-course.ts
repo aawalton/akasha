@@ -14,7 +14,11 @@ export const stAugustineSConfessions = {
     "literature-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "st-augustines-confessions",
-  externalLink: "https://www.thegreatcoursesplus.com/st-augustines-confessions",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "st-augustines-confessions",
+      externalLink: "https://www.thegreatcoursesplus.com/st-augustines-confessions",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const theBigHistoryOfCivilizations = {
   ownLength: 1075.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-big-history-of-civilizations",
-  externalLink: "https://www.thegreatcoursesplus.com/the-big-history-of-civilizations",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-big-history-of-civilizations",
+      externalLink: "https://www.thegreatcoursesplus.com/the-big-history-of-civilizations",
+    },
+  ],
 } as const satisfies GreatCourse

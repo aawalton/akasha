@@ -10,7 +10,11 @@ export const introductionToTheQurAn = {
   ownLength: 353.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "introduction-to-the-quran",
-  externalLink: "https://www.thegreatcoursesplus.com/introduction-to-the-quran",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "introduction-to-the-quran",
+      externalLink: "https://www.thegreatcoursesplus.com/introduction-to-the-quran",
+    },
+  ],
 } as const satisfies GreatCourse

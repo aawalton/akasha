@@ -10,7 +10,11 @@ export const robotics = {
   ownLength: 762.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "robotics",
-  externalLink: "https://www.thegreatcoursesplus.com/robotics",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "robotics",
+      externalLink: "https://www.thegreatcoursesplus.com/robotics",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -11,8 +11,12 @@ export const pilotLectureGuideToTinkeringElectricityAndBasicCircuits = {
   ownLength: 18.6,
   ownProgress: 18.6,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "plus-pilots-tinkering-electricity-and-basic-circuits",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/plus-pilots-tinkering-electricity-and-basic-circuits",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "plus-pilots-tinkering-electricity-and-basic-circuits",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/plus-pilots-tinkering-electricity-and-basic-circuits",
+    },
+  ],
 } as const satisfies GreatCourse

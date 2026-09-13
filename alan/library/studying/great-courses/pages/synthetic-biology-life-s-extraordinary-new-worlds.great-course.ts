@@ -10,8 +10,12 @@ export const syntheticBiologyLifeSExtraordinaryNewWorlds = {
   ownLength: 538.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "synthetic-biology-life-s-extraordinary-new-worlds",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/synthetic-biology-life-s-extraordinary-new-worlds",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "synthetic-biology-life-s-extraordinary-new-worlds",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/synthetic-biology-life-s-extraordinary-new-worlds",
+    },
+  ],
 } as const satisfies GreatCourse

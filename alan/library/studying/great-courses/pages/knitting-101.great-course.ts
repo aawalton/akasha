@@ -11,7 +11,11 @@ export const knitting101 = {
   ownLength: 635.4,
   ownProgress: 635.4,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "knitting-101",
-  externalLink: "https://www.thegreatcoursesplus.com/knitting-101",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "knitting-101",
+      externalLink: "https://www.thegreatcoursesplus.com/knitting-101",
+    },
+  ],
 } as const satisfies GreatCourse

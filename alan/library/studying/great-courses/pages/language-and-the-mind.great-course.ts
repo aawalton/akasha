@@ -11,7 +11,11 @@ export const languageAndTheMind = {
   ownLength: 720.6,
   ownProgress: 720.6,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "language-and-the-mind",
-  externalLink: "https://www.thegreatcoursesplus.com/language-and-the-mind",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "language-and-the-mind",
+      externalLink: "https://www.thegreatcoursesplus.com/language-and-the-mind",
+    },
+  ],
 } as const satisfies GreatCourse

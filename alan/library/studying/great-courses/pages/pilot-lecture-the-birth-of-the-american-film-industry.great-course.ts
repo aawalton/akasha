@@ -11,8 +11,12 @@ export const pilotLectureTheBirthOfTheAmericanFilmIndustry = {
   ownLength: 30.183333,
   ownProgress: 30.183333,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-the-birth-of-the-american-film-industry",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/pilot-lecture-the-birth-of-the-american-film-industry",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-the-birth-of-the-american-film-industry",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/pilot-lecture-the-birth-of-the-american-film-industry",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -14,7 +14,11 @@ export const theDeadSeaScrolls = {
     "literature-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-dead-sea-scrolls",
-  externalLink: "https://www.thegreatcoursesplus.com/the-dead-sea-scrolls",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-dead-sea-scrolls",
+      externalLink: "https://www.thegreatcoursesplus.com/the-dead-sea-scrolls",
+    },
+  ],
 } as const satisfies GreatCourse

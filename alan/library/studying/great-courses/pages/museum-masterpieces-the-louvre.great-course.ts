@@ -11,7 +11,11 @@ export const museumMasterpiecesTheLouvre = {
   ownLength: 382.8,
   ownProgress: 382.8,
   partOfCollections: ["all-great-courses", "art-great-courses"],
-  source: "the-great-courses",
-  externalId: "museum-masterpieces-the-louvre",
-  externalLink: "https://www.thegreatcoursesplus.com/museum-masterpieces-the-louvre",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "museum-masterpieces-the-louvre",
+      externalLink: "https://www.thegreatcoursesplus.com/museum-masterpieces-the-louvre",
+    },
+  ],
 } as const satisfies GreatCourse

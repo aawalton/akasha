@@ -15,7 +15,11 @@ export const lostWorldsOfSouthAmerica = {
     "history-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "lost-worlds-of-south-america",
-  externalLink: "https://www.thegreatcoursesplus.com/lost-worlds-of-south-america",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "lost-worlds-of-south-america",
+      externalLink: "https://www.thegreatcoursesplus.com/lost-worlds-of-south-america",
+    },
+  ],
 } as const satisfies GreatCourse

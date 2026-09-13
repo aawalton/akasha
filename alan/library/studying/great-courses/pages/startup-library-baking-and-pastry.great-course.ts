@@ -15,7 +15,11 @@ export const startupLibraryBakingAndPastry = {
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "startup-library-baking-pastry",
-  externalLink: "https://www.thegreatcoursesplus.com/startup-library-baking-pastry",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "startup-library-baking-pastry",
+      externalLink: "https://www.thegreatcoursesplus.com/startup-library-baking-pastry",
+    },
+  ],
 } as const satisfies GreatCourse

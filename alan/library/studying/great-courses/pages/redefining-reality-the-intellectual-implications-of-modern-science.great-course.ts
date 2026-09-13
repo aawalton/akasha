@@ -14,8 +14,12 @@ export const redefiningRealityTheIntellectualImplicationsOfModernScience = {
     "philosophy-and-religion-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "redefining-reality-the-intellectual-implications-of-modern-science",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/redefining-reality-the-intellectual-implications-of-modern-science",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "redefining-reality-the-intellectual-implications-of-modern-science",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/redefining-reality-the-intellectual-implications-of-modern-science",
+    },
+  ],
 } as const satisfies GreatCourse

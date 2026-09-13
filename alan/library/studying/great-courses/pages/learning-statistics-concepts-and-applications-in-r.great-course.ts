@@ -10,8 +10,12 @@ export const learningStatisticsConceptsAndApplicationsInR = {
   ownLength: 708.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],
-  source: "the-great-courses",
-  externalId: "learning-statistics-concepts-and-applications-in-r",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/learning-statistics-concepts-and-applications-in-r",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "learning-statistics-concepts-and-applications-in-r",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/learning-statistics-concepts-and-applications-in-r",
+    },
+  ],
 } as const satisfies GreatCourse

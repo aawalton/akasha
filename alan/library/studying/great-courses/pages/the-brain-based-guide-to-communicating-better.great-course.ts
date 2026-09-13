@@ -16,7 +16,12 @@ export const theBrainBasedGuideToCommunicatingBetter = {
     "professional-growth-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-brain-based-guide-to-communicating-better",
-  externalLink: "https://www.thegreatcoursesplus.com/the-brain-based-guide-to-communicating-better",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-brain-based-guide-to-communicating-better",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-brain-based-guide-to-communicating-better",
+    },
+  ],
 } as const satisfies GreatCourse

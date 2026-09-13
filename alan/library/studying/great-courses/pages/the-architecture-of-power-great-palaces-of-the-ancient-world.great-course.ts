@@ -11,8 +11,12 @@ export const theArchitectureOfPowerGreatPalacesOfTheAncientWorld = {
   ownLength: 777,
   ownProgress: 777,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-architecture-of-power-great-palaces-of-the-ancient-world",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-architecture-of-power-great-palaces-of-the-ancient-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-architecture-of-power-great-palaces-of-the-ancient-world",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-architecture-of-power-great-palaces-of-the-ancient-world",
+    },
+  ],
 } as const satisfies GreatCourse

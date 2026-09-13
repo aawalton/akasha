@@ -15,7 +15,11 @@ export const learningJapaneseAGatewayIntoCulture = {
     "hobby-and-personal-pursuits-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "learning-japanese-a-gateway-into-culture",
-  externalLink: "https://www.thegreatcoursesplus.com/learning-japanese-a-gateway-into-culture",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "learning-japanese-a-gateway-into-culture",
+      externalLink: "https://www.thegreatcoursesplus.com/learning-japanese-a-gateway-into-culture",
+    },
+  ],
 } as const satisfies GreatCourse

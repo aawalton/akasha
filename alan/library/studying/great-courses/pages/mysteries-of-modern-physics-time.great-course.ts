@@ -10,7 +10,11 @@ export const mysteriesOfModernPhysicsTime = {
   ownLength: 738,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "mysteries-of-modern-physics-time",
-  externalLink: "https://www.thegreatcoursesplus.com/mysteries-of-modern-physics-time",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "mysteries-of-modern-physics-time",
+      externalLink: "https://www.thegreatcoursesplus.com/mysteries-of-modern-physics-time",
+    },
+  ],
 } as const satisfies GreatCourse

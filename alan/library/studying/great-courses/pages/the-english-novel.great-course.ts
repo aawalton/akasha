@@ -10,7 +10,11 @@ export const theEnglishNovel = {
   ownLength: 745.95,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-english-novel",
-  externalLink: "https://www.thegreatcoursesplus.com/the-english-novel",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-english-novel",
+      externalLink: "https://www.thegreatcoursesplus.com/the-english-novel",
+    },
+  ],
 } as const satisfies GreatCourse

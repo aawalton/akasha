@@ -11,7 +11,11 @@ export const pilotLectureTheRiseOfTheSamurai = {
   ownLength: 36.6,
   ownProgress: 36.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-the-rise-of-the-samurai",
-  externalLink: "https://www.thegreatcoursesplus.com/pilot-lecture-the-rise-of-the-samurai",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-the-rise-of-the-samurai",
+      externalLink: "https://www.thegreatcoursesplus.com/pilot-lecture-the-rise-of-the-samurai",
+    },
+  ],
 } as const satisfies GreatCourse

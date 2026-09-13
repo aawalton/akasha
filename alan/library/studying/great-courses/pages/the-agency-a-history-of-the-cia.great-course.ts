@@ -10,7 +10,11 @@ export const theAgencyAHistoryOfTheCia = {
   ownLength: 693.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-agency-a-history-of-the-cia",
-  externalLink: "https://www.thegreatcoursesplus.com/the-agency-a-history-of-the-cia",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-agency-a-history-of-the-cia",
+      externalLink: "https://www.thegreatcoursesplus.com/the-agency-a-history-of-the-cia",
+    },
+  ],
 } as const satisfies GreatCourse

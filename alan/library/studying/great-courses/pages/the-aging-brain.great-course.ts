@@ -15,7 +15,11 @@ export const theAgingBrain = {
     "learning-paths-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-aging-brain",
-  externalLink: "https://www.thegreatcoursesplus.com/the-aging-brain",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-aging-brain",
+      externalLink: "https://www.thegreatcoursesplus.com/the-aging-brain",
+    },
+  ],
 } as const satisfies GreatCourse

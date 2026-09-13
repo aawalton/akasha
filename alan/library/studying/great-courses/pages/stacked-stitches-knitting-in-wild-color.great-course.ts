@@ -11,7 +11,11 @@ export const stackedStitchesKnittingInWildColor = {
   ownLength: 136.8,
   ownProgress: 136.8,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "stacked-stitches-knitting-in-wild-color",
-  externalLink: "https://www.thegreatcoursesplus.com/stacked-stitches-knitting-in-wild-color",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "stacked-stitches-knitting-in-wild-color",
+      externalLink: "https://www.thegreatcoursesplus.com/stacked-stitches-knitting-in-wild-color",
+    },
+  ],
 } as const satisfies GreatCourse

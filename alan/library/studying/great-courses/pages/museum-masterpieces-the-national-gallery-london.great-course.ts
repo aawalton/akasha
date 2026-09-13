@@ -11,8 +11,12 @@ export const museumMasterpiecesTheNationalGalleryLondon = {
   ownLength: 738.6,
   ownProgress: 738.6,
   partOfCollections: ["all-great-courses", "art-great-courses"],
-  source: "the-great-courses",
-  externalId: "museum-masterpieces-the-national-gallery-london",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/museum-masterpieces-the-national-gallery-london",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "museum-masterpieces-the-national-gallery-london",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/museum-masterpieces-the-national-gallery-london",
+    },
+  ],
 } as const satisfies GreatCourse

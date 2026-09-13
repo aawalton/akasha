@@ -11,8 +11,12 @@ export const pilotLectureTheFallOfConstantinopleAWorldOnItsLastDay = {
   ownLength: 27.6,
   ownProgress: 27.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-the-fall-of-constantinople-a-world-on-its-last-day",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/pilot-lecture-the-fall-of-constantinople-a-world-on-its-last-day",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-the-fall-of-constantinople-a-world-on-its-last-day",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/pilot-lecture-the-fall-of-constantinople-a-world-on-its-last-day",
+    },
+  ],
 } as const satisfies GreatCourse

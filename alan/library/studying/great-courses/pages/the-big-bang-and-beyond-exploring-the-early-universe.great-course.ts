@@ -10,8 +10,12 @@ export const theBigBangAndBeyondExploringTheEarlyUniverse = {
   ownLength: 372,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-big-bang-and-beyond-exploring-the-early-universe",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-big-bang-and-beyond-exploring-the-early-universe",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-big-bang-and-beyond-exploring-the-early-universe",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-big-bang-and-beyond-exploring-the-early-universe",
+    },
+  ],
 } as const satisfies GreatCourse

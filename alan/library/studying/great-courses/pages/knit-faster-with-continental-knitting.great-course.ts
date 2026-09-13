@@ -11,7 +11,11 @@ export const knitFasterWithContinentalKnitting = {
   ownLength: 149.4,
   ownProgress: 149.4,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "knit-faster-with-continental-knitting",
-  externalLink: "https://www.thegreatcoursesplus.com/knit-faster-with-continental-knitting",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "knit-faster-with-continental-knitting",
+      externalLink: "https://www.thegreatcoursesplus.com/knit-faster-with-continental-knitting",
+    },
+  ],
 } as const satisfies GreatCourse

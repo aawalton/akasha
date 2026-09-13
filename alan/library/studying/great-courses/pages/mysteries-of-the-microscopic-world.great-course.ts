@@ -10,7 +10,11 @@ export const mysteriesOfTheMicroscopicWorld = {
   ownLength: 712.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "mysteries-of-the-microscopic-world",
-  externalLink: "https://www.thegreatcoursesplus.com/mysteries-of-the-microscopic-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "mysteries-of-the-microscopic-world",
+      externalLink: "https://www.thegreatcoursesplus.com/mysteries-of-the-microscopic-world",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -15,8 +15,12 @@ export const pilotLectureBusinessEtiquetteForTheVirtualWorld = {
     "business-and-finance-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "plus-pilots-business-etiquette-for-the-virtual-world",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/plus-pilots-business-etiquette-for-the-virtual-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "plus-pilots-business-etiquette-for-the-virtual-world",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/plus-pilots-business-etiquette-for-the-virtual-world",
+    },
+  ],
 } as const satisfies GreatCourse

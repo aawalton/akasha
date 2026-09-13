@@ -11,7 +11,11 @@ export const pilotLectureNeutronStarsAndPulsars = {
   ownLength: 27,
   ownProgress: 27,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "neutron-stars-and-pulsars",
-  externalLink: "https://www.thegreatcoursesplus.com/neutron-stars-and-pulsars",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "neutron-stars-and-pulsars",
+      externalLink: "https://www.thegreatcoursesplus.com/neutron-stars-and-pulsars",
+    },
+  ],
 } as const satisfies GreatCourse

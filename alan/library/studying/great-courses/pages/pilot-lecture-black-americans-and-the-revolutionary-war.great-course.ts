@@ -11,8 +11,12 @@ export const pilotLectureBlackAmericansAndTheRevolutionaryWar = {
   ownLength: 36,
   ownProgress: 36,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "plus-pilots-black-americans-and-the-revolutionary-war",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/plus-pilots-black-americans-and-the-revolutionary-war",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "plus-pilots-black-americans-and-the-revolutionary-war",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/plus-pilots-black-americans-and-the-revolutionary-war",
+    },
+  ],
 } as const satisfies GreatCourse

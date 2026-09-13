@@ -15,7 +15,11 @@ export const paintingTreesInAcrylic = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "painting-trees-in-acrylic",
-  externalLink: "https://www.thegreatcoursesplus.com/painting-trees-in-acrylic",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "painting-trees-in-acrylic",
+      externalLink: "https://www.thegreatcoursesplus.com/painting-trees-in-acrylic",
+    },
+  ],
 } as const satisfies GreatCourse

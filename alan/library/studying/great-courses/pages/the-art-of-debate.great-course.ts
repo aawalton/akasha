@@ -10,7 +10,11 @@ export const theArtOfDebate = {
   ownLength: 709.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-art-of-debate",
-  externalLink: "https://www.thegreatcoursesplus.com/the-art-of-debate",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-art-of-debate",
+      externalLink: "https://www.thegreatcoursesplus.com/the-art-of-debate",
+    },
+  ],
 } as const satisfies GreatCourse

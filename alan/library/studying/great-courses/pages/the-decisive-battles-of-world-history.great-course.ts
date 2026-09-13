@@ -11,7 +11,11 @@ export const theDecisiveBattlesOfWorldHistory = {
   ownLength: 1113.6,
   ownProgress: 1113.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-decisive-battles-of-world-history",
-  externalLink: "https://www.thegreatcoursesplus.com/the-decisive-battles-of-world-history",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-decisive-battles-of-world-history",
+      externalLink: "https://www.thegreatcoursesplus.com/the-decisive-battles-of-world-history",
+    },
+  ],
 } as const satisfies GreatCourse

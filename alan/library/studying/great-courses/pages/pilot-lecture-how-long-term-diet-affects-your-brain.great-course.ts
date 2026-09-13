@@ -11,8 +11,12 @@ export const pilotLectureHowLongTermDietAffectsYourBrain = {
   ownLength: 25.2,
   ownProgress: 25.2,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "plus-pilots-how-long-term-diet-affects-your-brain",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/plus-pilots-how-long-term-diet-affects-your-brain",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "plus-pilots-how-long-term-diet-affects-your-brain",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/plus-pilots-how-long-term-diet-affects-your-brain",
+    },
+  ],
 } as const satisfies GreatCourse

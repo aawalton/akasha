@@ -10,8 +10,12 @@ export const makingHistoryHowGreatHistoriansInterpretThePast = {
   ownLength: 734.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "making-history-how-great-historians-interpret-the-past",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/making-history-how-great-historians-interpret-the-past",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "making-history-how-great-historians-interpret-the-past",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/making-history-how-great-historians-interpret-the-past",
+    },
+  ],
 } as const satisfies GreatCourse

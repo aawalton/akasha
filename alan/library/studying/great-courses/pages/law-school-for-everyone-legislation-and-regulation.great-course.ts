@@ -15,8 +15,12 @@ export const lawSchoolForEveryoneLegislationAndRegulation = {
     "learning-paths-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "law-school-for-everyone-legislation-and-regulation",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/law-school-for-everyone-legislation-and-regulation",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "law-school-for-everyone-legislation-and-regulation",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/law-school-for-everyone-legislation-and-regulation",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const pilotLectureHowToSpotALiar = {
   ownLength: 25.2,
   ownProgress: 25.2,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "wondrium-pilots-how-to-spot-a-liar",
-  externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-how-to-spot-a-liar",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-how-to-spot-a-liar",
+      externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-how-to-spot-a-liar",
+    },
+  ],
 } as const satisfies GreatCourse

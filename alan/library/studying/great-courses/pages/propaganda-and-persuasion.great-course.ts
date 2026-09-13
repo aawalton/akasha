@@ -14,7 +14,11 @@ export const propagandaAndPersuasion = {
     "hobby-and-personal-pursuits-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "propaganda-and-persuasion",
-  externalLink: "https://www.thegreatcoursesplus.com/propaganda-and-persuasion",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "propaganda-and-persuasion",
+      externalLink: "https://www.thegreatcoursesplus.com/propaganda-and-persuasion",
+    },
+  ],
 } as const satisfies GreatCourse

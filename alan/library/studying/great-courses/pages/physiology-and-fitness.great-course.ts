@@ -15,7 +15,11 @@ export const physiologyAndFitness = {
     "hobby-and-personal-pursuits-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "physiology-and-fitness",
-  externalLink: "https://www.thegreatcoursesplus.com/physiology-and-fitness",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "physiology-and-fitness",
+      externalLink: "https://www.thegreatcoursesplus.com/physiology-and-fitness",
+    },
+  ],
 } as const satisfies GreatCourse

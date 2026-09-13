@@ -10,8 +10,12 @@ export const londonAShortHistoryOfTheGreatestCityInTheWesternWorld = {
   ownLength: 734.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "london-a-short-history-of-the-greatest-city-in-the-western-world",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/london-a-short-history-of-the-greatest-city-in-the-western-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "london-a-short-history-of-the-greatest-city-in-the-western-world",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/london-a-short-history-of-the-greatest-city-in-the-western-world",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -15,7 +15,12 @@ export const mayaToAztecAncientMesoamericaRevealed = {
     "history-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "maya-to-aztec-ancient-mesoamerica-revealed",
-  externalLink: "https://www.thegreatcoursesplus.com/maya-to-aztec-ancient-mesoamerica-revealed",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "maya-to-aztec-ancient-mesoamerica-revealed",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/maya-to-aztec-ancient-mesoamerica-revealed",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -16,8 +16,12 @@ export const learningFrenchARendezvousWithFrenchSpeakingCultures = {
     "literature-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "learning-french-a-rendezvous-with-french-speaking-cultures",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/learning-french-a-rendezvous-with-french-speaking-cultures",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "learning-french-a-rendezvous-with-french-speaking-cultures",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/learning-french-a-rendezvous-with-french-speaking-cultures",
+    },
+  ],
 } as const satisfies GreatCourse

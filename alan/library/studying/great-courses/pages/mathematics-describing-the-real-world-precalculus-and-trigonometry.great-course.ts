@@ -14,8 +14,12 @@ export const mathematicsDescribingTheRealWorldPrecalculusAndTrigonometry = {
     "learning-paths-great-courses",
     "mathematics-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "mathematics-describing-the-real-world-precalculus-and-trigonometry",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/mathematics-describing-the-real-world-precalculus-and-trigonometry",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "mathematics-describing-the-real-world-precalculus-and-trigonometry",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/mathematics-describing-the-real-world-precalculus-and-trigonometry",
+    },
+  ],
 } as const satisfies GreatCourse

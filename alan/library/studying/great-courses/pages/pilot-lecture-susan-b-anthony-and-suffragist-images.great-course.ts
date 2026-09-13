@@ -11,8 +11,12 @@ export const pilotLectureSusanBAnthonyAndSuffragistImages = {
   ownLength: 26.4,
   ownProgress: 26.4,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "plus-pilots-susan-b-anthony-and-suffragist-images",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/plus-pilots-susan-b-anthony-and-suffragist-images",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "plus-pilots-susan-b-anthony-and-suffragist-images",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/plus-pilots-susan-b-anthony-and-suffragist-images",
+    },
+  ],
 } as const satisfies GreatCourse

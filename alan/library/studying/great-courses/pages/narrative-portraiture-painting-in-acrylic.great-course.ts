@@ -10,7 +10,11 @@ export const narrativePortraiturePaintingInAcrylic = {
   ownLength: 312.833333,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "narrative-portraiture-painting-in-acrylic",
-  externalLink: "https://www.thegreatcoursesplus.com/narrative-portraiture-painting-in-acrylic",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "narrative-portraiture-painting-in-acrylic",
+      externalLink: "https://www.thegreatcoursesplus.com/narrative-portraiture-painting-in-acrylic",
+    },
+  ],
 } as const satisfies GreatCourse

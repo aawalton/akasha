@@ -11,7 +11,11 @@ export const pilotLectureCatherineTheGreat = {
   ownLength: 23.4,
   ownProgress: 23.4,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "wondrium-pilots-catherine-the-great",
-  externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-catherine-the-great",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-catherine-the-great",
+      externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-catherine-the-great",
+    },
+  ],
 } as const satisfies GreatCourse

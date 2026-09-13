@@ -10,7 +10,11 @@ export const masterYourPeopleSkills = {
   ownLength: 1375.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
-  source: "the-great-courses",
-  externalId: "master-your-people-skills",
-  externalLink: "https://www.thegreatcoursesplus.com/master-your-people-skills",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "master-your-people-skills",
+      externalLink: "https://www.thegreatcoursesplus.com/master-your-people-skills",
+    },
+  ],
 } as const satisfies GreatCourse

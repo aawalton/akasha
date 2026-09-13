@@ -11,7 +11,11 @@ export const pilotLectureTheTimuridEmpire = {
   ownLength: 34.8,
   ownProgress: 34.8,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "wondrium-pilots-the-timurid-empire",
-  externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-the-timurid-empire",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-the-timurid-empire",
+      externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-the-timurid-empire",
+    },
+  ],
 } as const satisfies GreatCourse

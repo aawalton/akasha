@@ -11,8 +11,12 @@ export const pilotLectureMarijuanaAndTheUnitedStates = {
   ownLength: 31.8,
   ownProgress: 31.8,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "wondrium-pilots-marijuana-and-the-united-states",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/wondrium-pilots-marijuana-and-the-united-states",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-marijuana-and-the-united-states",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/wondrium-pilots-marijuana-and-the-united-states",
+    },
+  ],
 } as const satisfies GreatCourse

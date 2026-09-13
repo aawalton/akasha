@@ -15,7 +15,11 @@ export const paintingWithWatercolors = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "painting-with-watercolors",
-  externalLink: "https://www.thegreatcoursesplus.com/painting-with-watercolors",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "painting-with-watercolors",
+      externalLink: "https://www.thegreatcoursesplus.com/painting-with-watercolors",
+    },
+  ],
 } as const satisfies GreatCourse

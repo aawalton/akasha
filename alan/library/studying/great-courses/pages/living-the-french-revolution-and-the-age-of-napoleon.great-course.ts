@@ -10,8 +10,12 @@ export const livingTheFrenchRevolutionAndTheAgeOfNapoleon = {
   ownLength: 1489.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "living-the-french-revolution-and-the-age-of-napoleon",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/living-the-french-revolution-and-the-age-of-napoleon",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "living-the-french-revolution-and-the-age-of-napoleon",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/living-the-french-revolution-and-the-age-of-napoleon",
+    },
+  ],
 } as const satisfies GreatCourse

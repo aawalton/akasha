@@ -10,7 +10,11 @@ export const investigatingAmericanPresidents = {
   ownLength: 413.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "investigating-american-presidents",
-  externalLink: "https://www.thegreatcoursesplus.com/investigating-american-presidents",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "investigating-american-presidents",
+      externalLink: "https://www.thegreatcoursesplus.com/investigating-american-presidents",
+    },
+  ],
 } as const satisfies GreatCourse

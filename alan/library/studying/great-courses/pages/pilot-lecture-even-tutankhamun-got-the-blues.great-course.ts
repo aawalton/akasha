@@ -11,8 +11,12 @@ export const pilotLectureEvenTutankhamunGotTheBlues = {
   ownLength: 30.6,
   ownProgress: 30.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "wondrium-pilots-even-tutankhamun-got-the-blues",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/wondrium-pilots-even-tutankhamun-got-the-blues",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-even-tutankhamun-got-the-blues",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/wondrium-pilots-even-tutankhamun-got-the-blues",
+    },
+  ],
 } as const satisfies GreatCourse

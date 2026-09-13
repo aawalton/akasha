@@ -10,7 +10,12 @@ export const sensationPerceptionAndTheAgingProcess = {
   ownLength: 729.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "sensation-perception-and-the-aging-process",
-  externalLink: "https://www.thegreatcoursesplus.com/sensation-perception-and-the-aging-process",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "sensation-perception-and-the-aging-process",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/sensation-perception-and-the-aging-process",
+    },
+  ],
 } as const satisfies GreatCourse

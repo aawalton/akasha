@@ -11,8 +11,12 @@ export const pilotLectureHowToThinkLikeASpyTheArtOfReadingPeople = {
   ownLength: 34.8,
   ownProgress: 34.8,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-how-to-think-like-a-spy-the-art-of-reading-people",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/pilot-lecture-how-to-think-like-a-spy-the-art-of-reading-people",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-how-to-think-like-a-spy-the-art-of-reading-people",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/pilot-lecture-how-to-think-like-a-spy-the-art-of-reading-people",
+    },
+  ],
 } as const satisfies GreatCourse

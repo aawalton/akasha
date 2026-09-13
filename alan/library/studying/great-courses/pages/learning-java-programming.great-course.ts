@@ -10,7 +10,11 @@ export const learningJavaProgramming = {
   ownLength: 505.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
-  source: "the-great-courses",
-  externalId: "learning-java-programming",
-  externalLink: "https://www.thegreatcoursesplus.com/learning-java-programming",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "learning-java-programming",
+      externalLink: "https://www.thegreatcoursesplus.com/learning-java-programming",
+    },
+  ],
 } as const satisfies GreatCourse

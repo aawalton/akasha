@@ -15,7 +15,11 @@ export const pilotLectureMythsOfLearningAndMemory = {
     "professional-growth-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "myths-of-learning-and-memory",
-  externalLink: "https://www.thegreatcoursesplus.com/myths-of-learning-and-memory",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "myths-of-learning-and-memory",
+      externalLink: "https://www.thegreatcoursesplus.com/myths-of-learning-and-memory",
+    },
+  ],
 } as const satisfies GreatCourse

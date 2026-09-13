@@ -16,7 +16,11 @@ export const ourNightSky = {
     "learning-paths-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "our-night-sky",
-  externalLink: "https://www.thegreatcoursesplus.com/our-night-sky",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "our-night-sky",
+      externalLink: "https://www.thegreatcoursesplus.com/our-night-sky",
+    },
+  ],
 } as const satisfies GreatCourse

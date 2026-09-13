@@ -14,8 +14,12 @@ export const meteorologyAnIntroductionToTheWondersOfTheWeather = {
     "hobby-and-personal-pursuits-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "meteorology-an-introduction-to-the-wonders-of-the-weather",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/meteorology-an-introduction-to-the-wonders-of-the-weather",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "meteorology-an-introduction-to-the-wonders-of-the-weather",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/meteorology-an-introduction-to-the-wonders-of-the-weather",
+    },
+  ],
 } as const satisfies GreatCourse

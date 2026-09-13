@@ -15,7 +15,11 @@ export const theEntrepreneurSToolkit = {
     "learning-paths-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-entrepreneurs-toolkit",
-  externalLink: "https://www.thegreatcoursesplus.com/the-entrepreneurs-toolkit",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-entrepreneurs-toolkit",
+      externalLink: "https://www.thegreatcoursesplus.com/the-entrepreneurs-toolkit",
+    },
+  ],
 } as const satisfies GreatCourse

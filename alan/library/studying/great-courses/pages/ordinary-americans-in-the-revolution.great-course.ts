@@ -10,7 +10,11 @@ export const ordinaryAmericansInTheRevolution = {
   ownLength: 702,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "ordinary-americans-in-the-revolution",
-  externalLink: "https://www.thegreatcoursesplus.com/ordinary-americans-in-the-revolution",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "ordinary-americans-in-the-revolution",
+      externalLink: "https://www.thegreatcoursesplus.com/ordinary-americans-in-the-revolution",
+    },
+  ],
 } as const satisfies GreatCourse

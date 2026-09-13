@@ -10,7 +10,11 @@ export const medievalEuropeCrisisAndRenewal = {
   ownLength: 713.9,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "medieval-europe-crisis-and-renewal",
-  externalLink: "https://www.thegreatcoursesplus.com/medieval-europe-crisis-and-renewal",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "medieval-europe-crisis-and-renewal",
+      externalLink: "https://www.thegreatcoursesplus.com/medieval-europe-crisis-and-renewal",
+    },
+  ],
 } as const satisfies GreatCourse

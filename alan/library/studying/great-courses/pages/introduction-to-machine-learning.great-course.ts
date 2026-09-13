@@ -15,7 +15,11 @@ export const introductionToMachineLearning = {
     "professional-growth-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "introduction-to-machine-learning",
-  externalLink: "https://www.thegreatcoursesplus.com/introduction-to-machine-learning",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "introduction-to-machine-learning",
+      externalLink: "https://www.thegreatcoursesplus.com/introduction-to-machine-learning",
+    },
+  ],
 } as const satisfies GreatCourse

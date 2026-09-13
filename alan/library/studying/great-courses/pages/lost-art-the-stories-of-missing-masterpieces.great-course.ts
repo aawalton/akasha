@@ -11,7 +11,12 @@ export const lostArtTheStoriesOfMissingMasterpieces = {
   ownLength: 361.8,
   ownProgress: 361.8,
   partOfCollections: ["all-great-courses", "art-great-courses"],
-  source: "the-great-courses",
-  externalId: "lost-art-the-stories-of-missing-masterpieces",
-  externalLink: "https://www.thegreatcoursesplus.com/lost-art-the-stories-of-missing-masterpieces",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "lost-art-the-stories-of-missing-masterpieces",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/lost-art-the-stories-of-missing-masterpieces",
+    },
+  ],
 } as const satisfies GreatCourse

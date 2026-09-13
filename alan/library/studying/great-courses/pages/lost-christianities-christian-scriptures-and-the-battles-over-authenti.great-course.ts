@@ -14,8 +14,12 @@ export const lostChristianitiesChristianScripturesAndTheBattlesOverAuthenti = {
     "literature-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "lost-christianities-christian-scriptures-and-the-battles-over-authentication",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/lost-christianities-christian-scriptures-and-the-battles-over-authentication",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "lost-christianities-christian-scriptures-and-the-battles-over-authentication",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/lost-christianities-christian-scriptures-and-the-battles-over-authentication",
+    },
+  ],
 } as const satisfies GreatCourse

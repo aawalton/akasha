@@ -11,7 +11,11 @@ export const nosferatuExaminedTheDraculaConnection = {
   ownLength: 10.8,
   ownProgress: 10.8,
   partOfCollections: ["all-great-courses", "art-great-courses"],
-  source: "the-great-courses",
-  externalId: "nosferatu-examined-the-dracula-connection",
-  externalLink: "https://www.thegreatcoursesplus.com/nosferatu-examined-the-dracula-connection",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "nosferatu-examined-the-dracula-connection",
+      externalLink: "https://www.thegreatcoursesplus.com/nosferatu-examined-the-dracula-connection",
+    },
+  ],
 } as const satisfies GreatCourse

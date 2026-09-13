@@ -11,8 +11,12 @@ export const pilotLectureATourOfTokyoSGinzaDistrict = {
   ownLength: 30.6,
   ownProgress: 30.6,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-a-tour-of-tokyo-s-ginza-district",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/pilot-lecture-a-tour-of-tokyo-s-ginza-district",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-a-tour-of-tokyo-s-ginza-district",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/pilot-lecture-a-tour-of-tokyo-s-ginza-district",
+    },
+  ],
 } as const satisfies GreatCourse

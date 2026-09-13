@@ -16,7 +16,11 @@ export const languageFamiliesOfTheWorld = {
     "literature-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "language-families-of-the-world",
-  externalLink: "https://www.thegreatcoursesplus.com/language-families-of-the-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "language-families-of-the-world",
+      externalLink: "https://www.thegreatcoursesplus.com/language-families-of-the-world",
+    },
+  ],
 } as const satisfies GreatCourse

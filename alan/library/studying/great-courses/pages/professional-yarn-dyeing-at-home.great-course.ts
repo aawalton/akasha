@@ -11,7 +11,11 @@ export const professionalYarnDyeingAtHome = {
   ownLength: 105.6,
   ownProgress: 105.6,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "professional-yarn-dyeing-at-home",
-  externalLink: "https://www.thegreatcoursesplus.com/professional-yarn-dyeing-at-home",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "professional-yarn-dyeing-at-home",
+      externalLink: "https://www.thegreatcoursesplus.com/professional-yarn-dyeing-at-home",
+    },
+  ],
 } as const satisfies GreatCourse

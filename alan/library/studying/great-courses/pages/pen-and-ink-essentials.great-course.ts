@@ -15,7 +15,11 @@ export const penAndInkEssentials = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "pen-ink-essentials",
-  externalLink: "https://www.thegreatcoursesplus.com/pen-ink-essentials",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pen-ink-essentials",
+      externalLink: "https://www.thegreatcoursesplus.com/pen-ink-essentials",
+    },
+  ],
 } as const satisfies GreatCourse

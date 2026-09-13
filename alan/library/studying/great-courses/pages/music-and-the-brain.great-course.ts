@@ -10,7 +10,11 @@ export const musicAndTheBrain = {
   ownLength: 554.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "music-and-the-brain",
-  externalLink: "https://www.thegreatcoursesplus.com/music-and-the-brain",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "music-and-the-brain",
+      externalLink: "https://www.thegreatcoursesplus.com/music-and-the-brain",
+    },
+  ],
 } as const satisfies GreatCourse

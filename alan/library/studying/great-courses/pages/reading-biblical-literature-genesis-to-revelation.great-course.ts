@@ -10,8 +10,12 @@ export const readingBiblicalLiteratureGenesisToRevelation = {
   ownLength: 1111.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "reading-biblical-literature-genesis-to-revelation",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/reading-biblical-literature-genesis-to-revelation",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "reading-biblical-literature-genesis-to-revelation",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/reading-biblical-literature-genesis-to-revelation",
+    },
+  ],
 } as const satisfies GreatCourse

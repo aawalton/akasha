@@ -10,8 +10,12 @@ export const neurohackItUsingNeuroscienceForBetterLiving = {
   ownLength: 12,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "neurohack-it-using-neuroscience-for-better-living",
-  externalLink:
-    "https://plus.thegreatcourses.com/neurohack-it-using-neuroscience-for-better-living",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "neurohack-it-using-neuroscience-for-better-living",
+      externalLink:
+        "https://plus.thegreatcourses.com/neurohack-it-using-neuroscience-for-better-living",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -11,7 +11,11 @@ export const solderingSuccessInEveryScenario = {
   ownLength: 111.6,
   ownProgress: 111.6,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "soldering-success-in-every-scenario",
-  externalLink: "https://www.thegreatcoursesplus.com/soldering-success-in-every-scenario",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "soldering-success-in-every-scenario",
+      externalLink: "https://www.thegreatcoursesplus.com/soldering-success-in-every-scenario",
+    },
+  ],
 } as const satisfies GreatCourse

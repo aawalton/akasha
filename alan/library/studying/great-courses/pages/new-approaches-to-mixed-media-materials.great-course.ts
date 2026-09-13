@@ -15,7 +15,11 @@ export const newApproachesToMixedMediaMaterials = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "new-approaches-to-mixed-media-materials",
-  externalLink: "https://www.thegreatcoursesplus.com/new-approaches-to-mixed-media-materials",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "new-approaches-to-mixed-media-materials",
+      externalLink: "https://www.thegreatcoursesplus.com/new-approaches-to-mixed-media-materials",
+    },
+  ],
 } as const satisfies GreatCourse

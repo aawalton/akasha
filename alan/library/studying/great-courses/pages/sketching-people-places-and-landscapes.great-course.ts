@@ -11,7 +11,11 @@ export const sketchingPeoplePlacesAndLandscapes = {
   ownLength: 763.2,
   ownProgress: 763.2,
   partOfCollections: ["all-great-courses", "art-great-courses"],
-  source: "the-great-courses",
-  externalId: "sketching-people-places-and-landscapes",
-  externalLink: "https://www.thegreatcoursesplus.com/sketching-people-places-and-landscapes",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "sketching-people-places-and-landscapes",
+      externalLink: "https://www.thegreatcoursesplus.com/sketching-people-places-and-landscapes",
+    },
+  ],
 } as const satisfies GreatCourse

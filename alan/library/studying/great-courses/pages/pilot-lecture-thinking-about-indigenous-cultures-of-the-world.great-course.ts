@@ -15,8 +15,12 @@ export const pilotLectureThinkingAboutIndigenousCulturesOfTheWorld = {
     "history-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "plus-pilots-thinking-about-indigenous-cultures-of-the-world",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/plus-pilots-thinking-about-indigenous-cultures-of-the-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "plus-pilots-thinking-about-indigenous-cultures-of-the-world",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/plus-pilots-thinking-about-indigenous-cultures-of-the-world",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -14,8 +14,12 @@ export const medicalSchoolForEveryoneEmergencyMedicine = {
     "health-and-mindfulness-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "medical-school-for-everyone-emergency-medicine",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/medical-school-for-everyone-emergency-medicine",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "medical-school-for-everyone-emergency-medicine",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/medical-school-for-everyone-emergency-medicine",
+    },
+  ],
 } as const satisfies GreatCourse

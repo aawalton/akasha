@@ -11,7 +11,11 @@ export const pilotLectureTheGeneticsOfCancer = {
   ownLength: 30,
   ownProgress: 30,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-genetics-of-cancer",
-  externalLink: "https://www.thegreatcoursesplus.com/the-genetics-of-cancer",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-genetics-of-cancer",
+      externalLink: "https://www.thegreatcoursesplus.com/the-genetics-of-cancer",
+    },
+  ],
 } as const satisfies GreatCourse

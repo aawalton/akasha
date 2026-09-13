@@ -11,8 +11,12 @@ export const pilotLectureExploringVietnamHoiAnAndTheChampaWorld = {
   ownLength: 32.35,
   ownProgress: 32.35,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-exploring-vietnam-hoi-an-and-the-champa-world",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/pilot-lecture-exploring-vietnam-hoi-an-and-the-champa-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-exploring-vietnam-hoi-an-and-the-champa-world",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/pilot-lecture-exploring-vietnam-hoi-an-and-the-champa-world",
+    },
+  ],
 } as const satisfies GreatCourse

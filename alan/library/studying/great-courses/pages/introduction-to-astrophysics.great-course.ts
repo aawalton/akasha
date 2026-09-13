@@ -10,7 +10,11 @@ export const introductionToAstrophysics = {
   ownLength: 790.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "introduction-to-astrophysics",
-  externalLink: "https://www.thegreatcoursesplus.com/introduction-to-astrophysics",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "introduction-to-astrophysics",
+      externalLink: "https://www.thegreatcoursesplus.com/introduction-to-astrophysics",
+    },
+  ],
 } as const satisfies GreatCourse

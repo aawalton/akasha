@@ -15,8 +15,12 @@ export const introductionToCProgrammingConceptsAndApplications = {
     "mathematics-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "introduction-to-c-programming-concepts-and-applications",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/introduction-to-c-programming-concepts-and-applications",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "introduction-to-c-programming-concepts-and-applications",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/introduction-to-c-programming-concepts-and-applications",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -15,7 +15,12 @@ export const theCompletePainterLessonsFromTheMasters = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-complete-painter-lessons-from-the-masters",
-  externalLink: "https://www.thegreatcoursesplus.com/the-complete-painter-lessons-from-the-masters",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-complete-painter-lessons-from-the-masters",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-complete-painter-lessons-from-the-masters",
+    },
+  ],
 } as const satisfies GreatCourse

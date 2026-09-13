@@ -11,7 +11,11 @@ export const pilotLectureFiguringOutFats = {
   ownLength: 31.316667,
   ownProgress: 31.316667,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-figuring-out-fats",
-  externalLink: "https://www.thegreatcoursesplus.com/pilot-lecture-figuring-out-fats",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-figuring-out-fats",
+      externalLink: "https://www.thegreatcoursesplus.com/pilot-lecture-figuring-out-fats",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -11,7 +11,11 @@ export const theBarbarianEmpiresOfTheSteppes = {
   ownLength: 1107,
   ownProgress: 1107,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-barbarian-empires-of-the-steppes",
-  externalLink: "https://www.thegreatcoursesplus.com/the-barbarian-empires-of-the-steppes",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-barbarian-empires-of-the-steppes",
+      externalLink: "https://www.thegreatcoursesplus.com/the-barbarian-empires-of-the-steppes",
+    },
+  ],
 } as const satisfies GreatCourse

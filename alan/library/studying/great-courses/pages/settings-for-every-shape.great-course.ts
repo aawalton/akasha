@@ -11,7 +11,11 @@ export const settingsForEveryShape = {
   ownLength: 133.8,
   ownProgress: 133.8,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "settings-for-every-shape",
-  externalLink: "https://www.thegreatcoursesplus.com/settings-for-every-shape",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "settings-for-every-shape",
+      externalLink: "https://www.thegreatcoursesplus.com/settings-for-every-shape",
+    },
+  ],
 } as const satisfies GreatCourse

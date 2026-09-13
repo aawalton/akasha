@@ -14,7 +14,11 @@ export const stressAndYourBody = {
     "health-and-mindfulness-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "stress-and-your-body",
-  externalLink: "https://www.thegreatcoursesplus.com/stress-and-your-body",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "stress-and-your-body",
+      externalLink: "https://www.thegreatcoursesplus.com/stress-and-your-body",
+    },
+  ],
 } as const satisfies GreatCourse

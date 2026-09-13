@@ -10,7 +10,11 @@ export const majorTransitionsInEvolution = {
   ownLength: 738.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "major-transitions-in-evolution",
-  externalLink: "https://www.thegreatcoursesplus.com/major-transitions-in-evolution",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "major-transitions-in-evolution",
+      externalLink: "https://www.thegreatcoursesplus.com/major-transitions-in-evolution",
+    },
+  ],
 } as const satisfies GreatCourse

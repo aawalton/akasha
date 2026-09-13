@@ -15,8 +15,12 @@ export const languageAndSocietyWhatYourSpeechSaysAboutYou = {
     "literature-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "language-and-society-what-your-speech-says-about-you",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/language-and-society-what-your-speech-says-about-you",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "language-and-society-what-your-speech-says-about-you",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/language-and-society-what-your-speech-says-about-you",
+    },
+  ],
 } as const satisfies GreatCourse

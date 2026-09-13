@@ -14,8 +14,12 @@ export const taiChiForAgingWithStrengthAndTranquility = {
     "health-and-mindfulness-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "tai-chi-for-aging-with-strength-and-tranquility",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/tai-chi-for-aging-with-strength-and-tranquility",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "tai-chi-for-aging-with-strength-and-tranquility",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/tai-chi-for-aging-with-strength-and-tranquility",
+    },
+  ],
 } as const satisfies GreatCourse

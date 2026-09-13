@@ -10,7 +10,11 @@ export const sciPhiScienceFictionAsPhilosophy = {
   ownLength: 823.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "sci-phi-science-fiction-as-philosophy",
-  externalLink: "https://www.thegreatcoursesplus.com/sci-phi-science-fiction-as-philosophy",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "sci-phi-science-fiction-as-philosophy",
+      externalLink: "https://www.thegreatcoursesplus.com/sci-phi-science-fiction-as-philosophy",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -11,8 +11,12 @@ export const pilotLectureNavigatingHealthCareAnIntroductionToAnesthesia = {
   ownLength: 36,
   ownProgress: 36,
   partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-navigating-health-care-an-introduction-to-anesthesia",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/pilot-lecture-navigating-health-care-an-introduction-to-anesthesia",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-navigating-health-care-an-introduction-to-anesthesia",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/pilot-lecture-navigating-health-care-an-introduction-to-anesthesia",
+    },
+  ],
 } as const satisfies GreatCourse

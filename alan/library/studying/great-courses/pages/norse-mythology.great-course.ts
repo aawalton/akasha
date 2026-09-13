@@ -10,7 +10,11 @@ export const norseMythology = {
   ownLength: 681,
   ownProgress: 56.75,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "norse-mythology",
-  externalLink: "https://www.thegreatcoursesplus.com/norse-mythology",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "norse-mythology",
+      externalLink: "https://www.thegreatcoursesplus.com/norse-mythology",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const theDarwinianRevolution = {
   ownLength: 726.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-darwinian-revolution",
-  externalLink: "https://www.thegreatcoursesplus.com/the-darwinian-revolution",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-darwinian-revolution",
+      externalLink: "https://www.thegreatcoursesplus.com/the-darwinian-revolution",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const plantScienceAnIntroductionToBotany = {
   ownLength: 745.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "plant-science-an-introduction-to-botany",
-  externalLink: "https://www.thegreatcoursesplus.com/plant-science-an-introduction-to-botany",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "plant-science-an-introduction-to-botany",
+      externalLink: "https://www.thegreatcoursesplus.com/plant-science-an-introduction-to-botany",
+    },
+  ],
 } as const satisfies GreatCourse

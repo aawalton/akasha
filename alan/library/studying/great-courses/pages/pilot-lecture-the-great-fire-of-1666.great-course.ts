@@ -11,7 +11,11 @@ export const pilotLectureTheGreatFireOf1666 = {
   ownLength: 32.4,
   ownProgress: 32.4,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "plus-pilots-the-great-fire-of-1666",
-  externalLink: "https://www.thegreatcoursesplus.com/plus-pilots-the-great-fire-of-1666",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "plus-pilots-the-great-fire-of-1666",
+      externalLink: "https://www.thegreatcoursesplus.com/plus-pilots-the-great-fire-of-1666",
+    },
+  ],
 } as const satisfies GreatCourse

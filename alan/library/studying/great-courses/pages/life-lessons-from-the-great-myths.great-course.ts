@@ -10,7 +10,11 @@ export const lifeLessonsFromTheGreatMyths = {
   ownLength: 1100.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "life-lessons-from-the-great-myths",
-  externalLink: "https://www.thegreatcoursesplus.com/life-lessons-from-the-great-myths",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "life-lessons-from-the-great-myths",
+      externalLink: "https://www.thegreatcoursesplus.com/life-lessons-from-the-great-myths",
+    },
+  ],
 } as const satisfies GreatCourse

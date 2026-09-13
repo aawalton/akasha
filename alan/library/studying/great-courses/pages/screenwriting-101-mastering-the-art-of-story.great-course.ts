@@ -10,7 +10,12 @@ export const screenwriting101MasteringTheArtOfStory = {
   ownLength: 769.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "screenwriting-101-mastering-the-art-of-story",
-  externalLink: "https://www.thegreatcoursesplus.com/screenwriting-101-mastering-the-art-of-story",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "screenwriting-101-mastering-the-art-of-story",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/screenwriting-101-mastering-the-art-of-story",
+    },
+  ],
 } as const satisfies GreatCourse

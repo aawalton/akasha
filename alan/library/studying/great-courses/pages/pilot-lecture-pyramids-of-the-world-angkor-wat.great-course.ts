@@ -11,8 +11,12 @@ export const pilotLecturePyramidsOfTheWorldAngkorWat = {
   ownLength: 31.2,
   ownProgress: 31.2,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "wondrium-pilots-pyramids-of-the-world-angkor-wat",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/wondrium-pilots-pyramids-of-the-world-angkor-wat",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-pyramids-of-the-world-angkor-wat",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/wondrium-pilots-pyramids-of-the-world-angkor-wat",
+    },
+  ],
 } as const satisfies GreatCourse

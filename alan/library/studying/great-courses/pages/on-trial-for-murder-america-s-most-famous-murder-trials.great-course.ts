@@ -10,8 +10,12 @@ export const onTrialForMurderAmericaSMostFamousMurderTrials = {
   ownLength: 308.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "on-trial-for-murder-america-s-most-famous-murder-trials",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/on-trial-for-murder-america-s-most-famous-murder-trials",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "on-trial-for-murder-america-s-most-famous-murder-trials",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/on-trial-for-murder-america-s-most-famous-murder-trials",
+    },
+  ],
 } as const satisfies GreatCourse

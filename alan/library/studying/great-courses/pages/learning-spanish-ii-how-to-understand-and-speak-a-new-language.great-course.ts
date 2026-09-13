@@ -16,8 +16,12 @@ export const learningSpanishIiHowToUnderstandAndSpeakANewLanguage = {
     "literature-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "learning-spanish-ii-how-to-understand-and-speak-a-new-language",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/learning-spanish-ii-how-to-understand-and-speak-a-new-language",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "learning-spanish-ii-how-to-understand-and-speak-a-new-language",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/learning-spanish-ii-how-to-understand-and-speak-a-new-language",
+    },
+  ],
 } as const satisfies GreatCourse

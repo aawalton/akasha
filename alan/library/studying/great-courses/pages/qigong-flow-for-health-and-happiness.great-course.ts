@@ -14,7 +14,11 @@ export const qigongFlowForHealthAndHappiness = {
     "health-and-mindfulness-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "qigong-flow-for-health-and-happiness",
-  externalLink: "https://www.thegreatcoursesplus.com/qigong-flow-for-health-and-happiness",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "qigong-flow-for-health-and-happiness",
+      externalLink: "https://www.thegreatcoursesplus.com/qigong-flow-for-health-and-happiness",
+    },
+  ],
 } as const satisfies GreatCourse

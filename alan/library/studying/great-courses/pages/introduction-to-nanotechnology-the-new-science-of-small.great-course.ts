@@ -10,8 +10,12 @@ export const introductionToNanotechnologyTheNewScienceOfSmall = {
   ownLength: 734.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "introduction-to-nanotechnology-the-new-science-of-small",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/introduction-to-nanotechnology-the-new-science-of-small",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "introduction-to-nanotechnology-the-new-science-of-small",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/introduction-to-nanotechnology-the-new-science-of-small",
+    },
+  ],
 } as const satisfies GreatCourse

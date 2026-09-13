@@ -15,7 +15,11 @@ export const theArtOfCriticalDecisionMaking = {
     "learning-paths-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-art-of-critical-decision-making",
-  externalLink: "https://www.thegreatcoursesplus.com/the-art-of-critical-decision-making",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-art-of-critical-decision-making",
+      externalLink: "https://www.thegreatcoursesplus.com/the-art-of-critical-decision-making",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -11,7 +11,11 @@ export const shopEssentials = {
   ownLength: 201.6,
   ownProgress: 201.6,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "shop-essentials",
-  externalLink: "https://www.thegreatcoursesplus.com/shop-essentials",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "shop-essentials",
+      externalLink: "https://www.thegreatcoursesplus.com/shop-essentials",
+    },
+  ],
 } as const satisfies GreatCourse

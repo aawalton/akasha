@@ -10,7 +10,12 @@ export const noExcusesExistentialismAndMeaningOfLife = {
   ownLength: 734.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "no-excuses-existentialism-and-meaning-of-life",
-  externalLink: "https://www.thegreatcoursesplus.com/no-excuses-existentialism-and-meaning-of-life",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "no-excuses-existentialism-and-meaning-of-life",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/no-excuses-existentialism-and-meaning-of-life",
+    },
+  ],
 } as const satisfies GreatCourse

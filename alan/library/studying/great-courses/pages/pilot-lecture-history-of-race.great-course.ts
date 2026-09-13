@@ -11,7 +11,11 @@ export const pilotLectureHistoryOfRace = {
   ownLength: 37.8,
   ownProgress: 37.8,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "history-of-race",
-  externalLink: "https://www.thegreatcoursesplus.com/history-of-race",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "history-of-race",
+      externalLink: "https://www.thegreatcoursesplus.com/history-of-race",
+    },
+  ],
 } as const satisfies GreatCourse

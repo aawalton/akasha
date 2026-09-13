@@ -14,8 +14,12 @@ export const medicalSchoolForEveryoneGrandRoundsCases = {
     "health-and-mindfulness-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "medical-school-for-everyone-grand-rounds-cases",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/medical-school-for-everyone-grand-rounds-cases",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "medical-school-for-everyone-grand-rounds-cases",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/medical-school-for-everyone-grand-rounds-cases",
+    },
+  ],
 } as const satisfies GreatCourse

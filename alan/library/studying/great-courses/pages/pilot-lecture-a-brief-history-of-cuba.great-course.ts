@@ -11,7 +11,11 @@ export const pilotLectureABriefHistoryOfCuba = {
   ownLength: 37.8,
   ownProgress: 37.8,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-a-brief-history-of-cuba",
-  externalLink: "https://www.thegreatcoursesplus.com/pilot-lecture-a-brief-history-of-cuba",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-a-brief-history-of-cuba",
+      externalLink: "https://www.thegreatcoursesplus.com/pilot-lecture-a-brief-history-of-cuba",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const pilotLectureHowToPlayTexasHoldEm = {
   ownLength: 1,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-how-to-play-texas-hold-em",
-  externalLink: "https://plus.thegreatcourses.com/pilot-lecture-how-to-play-texas-hold-em",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-how-to-play-texas-hold-em",
+      externalLink: "https://plus.thegreatcourses.com/pilot-lecture-how-to-play-texas-hold-em",
+    },
+  ],
 } as const satisfies GreatCourse

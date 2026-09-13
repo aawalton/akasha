@@ -15,7 +15,12 @@ export const moneyAndBankingWhatEveryoneShouldKnow = {
     "hobby-and-personal-pursuits-great-courses",
     "mathematics-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "money-and-banking-what-everyone-should-know",
-  externalLink: "https://www.thegreatcoursesplus.com/money-and-banking-what-everyone-should-know",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "money-and-banking-what-everyone-should-know",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/money-and-banking-what-everyone-should-know",
+    },
+  ],
 } as const satisfies GreatCourse

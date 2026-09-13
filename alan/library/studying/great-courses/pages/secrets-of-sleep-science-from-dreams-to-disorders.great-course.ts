@@ -14,8 +14,12 @@ export const secretsOfSleepScienceFromDreamsToDisorders = {
     "health-and-mindfulness-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "secrets-of-sleep-science-from-dreams-to-disorders",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/secrets-of-sleep-science-from-dreams-to-disorders",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "secrets-of-sleep-science-from-dreams-to-disorders",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/secrets-of-sleep-science-from-dreams-to-disorders",
+    },
+  ],
 } as const satisfies GreatCourse

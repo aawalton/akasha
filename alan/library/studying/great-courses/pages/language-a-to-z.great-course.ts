@@ -16,7 +16,11 @@ export const languageAToZ = {
     "literature-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "language-a-to-z",
-  externalLink: "https://www.thegreatcoursesplus.com/language-a-to-z",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "language-a-to-z",
+      externalLink: "https://www.thegreatcoursesplus.com/language-a-to-z",
+    },
+  ],
 } as const satisfies GreatCourse

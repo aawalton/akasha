@@ -10,8 +10,12 @@ export const theClassicalLegacyAncientGreeceAndRome = {
   ownLength: 1,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-classical-legacy-ancient-greece-and-rome-3143",
-  externalLink:
-    "https://plus.thegreatcourses.com/the-classical-legacy-ancient-greece-and-rome-3143",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-classical-legacy-ancient-greece-and-rome-3143",
+      externalLink:
+        "https://plus.thegreatcourses.com/the-classical-legacy-ancient-greece-and-rome-3143",
+    },
+  ],
 } as const satisfies GreatCourse

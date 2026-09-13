@@ -10,7 +10,11 @@ export const pyramidsOfTheWorld = {
   ownLength: 364.766667,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "pyramids-of-the-world",
-  externalLink: "https://www.thegreatcoursesplus.com/pyramids-of-the-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pyramids-of-the-world",
+      externalLink: "https://www.thegreatcoursesplus.com/pyramids-of-the-world",
+    },
+  ],
 } as const satisfies GreatCourse

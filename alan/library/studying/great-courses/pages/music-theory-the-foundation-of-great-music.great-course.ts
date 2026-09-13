@@ -10,7 +10,12 @@ export const musicTheoryTheFoundationOfGreatMusic = {
   ownLength: 449.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],
-  source: "the-great-courses",
-  externalId: "music-theory-the-foundation-of-great-music",
-  externalLink: "https://www.thegreatcoursesplus.com/music-theory-the-foundation-of-great-music",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "music-theory-the-foundation-of-great-music",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/music-theory-the-foundation-of-great-music",
+    },
+  ],
 } as const satisfies GreatCourse

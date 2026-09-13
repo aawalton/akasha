@@ -11,7 +11,11 @@ export const theAmericanCivilWar = {
   ownLength: 1461,
   ownProgress: 1461,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-american-civil-war",
-  externalLink: "https://www.thegreatcoursesplus.com/the-american-civil-war",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-american-civil-war",
+      externalLink: "https://www.thegreatcoursesplus.com/the-american-civil-war",
+    },
+  ],
 } as const satisfies GreatCourse

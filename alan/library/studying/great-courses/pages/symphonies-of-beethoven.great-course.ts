@@ -10,7 +10,11 @@ export const symphoniesOfBeethoven = {
   ownLength: 1460.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],
-  source: "the-great-courses",
-  externalId: "symphonies-of-beethoven",
-  externalLink: "https://www.thegreatcoursesplus.com/symphonies-of-beethoven",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "symphonies-of-beethoven",
+      externalLink: "https://www.thegreatcoursesplus.com/symphonies-of-beethoven",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -14,7 +14,11 @@ export const strategicThinkingSkills = {
     "business-and-finance-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "strategic-thinking-skills",
-  externalLink: "https://www.thegreatcoursesplus.com/strategic-thinking-skills",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "strategic-thinking-skills",
+      externalLink: "https://www.thegreatcoursesplus.com/strategic-thinking-skills",
+    },
+  ],
 } as const satisfies GreatCourse

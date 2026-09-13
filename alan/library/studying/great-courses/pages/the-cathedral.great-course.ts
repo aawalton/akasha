@@ -18,7 +18,11 @@ export const theCathedral = {
     "science-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-cathedral",
-  externalLink: "https://www.thegreatcoursesplus.com/the-cathedral",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-cathedral",
+      externalLink: "https://www.thegreatcoursesplus.com/the-cathedral",
+    },
+  ],
 } as const satisfies GreatCourse

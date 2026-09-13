@@ -15,8 +15,12 @@ export const mastersOfWarHistorySGreatestStrategicThinkers = {
     "history-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "masters-of-war-historys-greatest-strategic-thinkers",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/masters-of-war-historys-greatest-strategic-thinkers",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "masters-of-war-historys-greatest-strategic-thinkers",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/masters-of-war-historys-greatest-strategic-thinkers",
+    },
+  ],
 } as const satisfies GreatCourse

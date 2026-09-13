@@ -10,7 +10,11 @@ export const shakespeareSTragedies = {
   ownLength: 831,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "shakespeares-tragedies",
-  externalLink: "https://www.thegreatcoursesplus.com/shakespeares-tragedies",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "shakespeares-tragedies",
+      externalLink: "https://www.thegreatcoursesplus.com/shakespeares-tragedies",
+    },
+  ],
 } as const satisfies GreatCourse

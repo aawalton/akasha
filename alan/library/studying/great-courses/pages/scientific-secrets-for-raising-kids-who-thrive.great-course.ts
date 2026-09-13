@@ -14,8 +14,12 @@ export const scientificSecretsForRaisingKidsWhoThrive = {
     "hobby-and-personal-pursuits-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "scientific-secrets-for-raising-kids-who-thrive",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/scientific-secrets-for-raising-kids-who-thrive",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "scientific-secrets-for-raising-kids-who-thrive",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/scientific-secrets-for-raising-kids-who-thrive",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const lutherGospelLawAndReformation = {
   ownLength: 736.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "luther-gospel-law-and-reformation",
-  externalLink: "https://www.thegreatcoursesplus.com/luther-gospel-law-and-reformation",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "luther-gospel-law-and-reformation",
+      externalLink: "https://www.thegreatcoursesplus.com/luther-gospel-law-and-reformation",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,8 +10,12 @@ export const philosophyOfMindBrainsConsciousnessAndThinkingMachines = {
   ownLength: 745.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "philosophy-of-mind-brains-consciousness-and-thinking-machines",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/philosophy-of-mind-brains-consciousness-and-thinking-machines",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "philosophy-of-mind-brains-consciousness-and-thinking-machines",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/philosophy-of-mind-brains-consciousness-and-thinking-machines",
+    },
+  ],
 } as const satisfies GreatCourse

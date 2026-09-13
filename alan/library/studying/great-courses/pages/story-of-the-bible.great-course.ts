@@ -14,7 +14,11 @@ export const storyOfTheBible = {
     "literature-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "story-of-the-bible",
-  externalLink: "https://www.thegreatcoursesplus.com/story-of-the-bible",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "story-of-the-bible",
+      externalLink: "https://www.thegreatcoursesplus.com/story-of-the-bible",
+    },
+  ],
 } as const satisfies GreatCourse

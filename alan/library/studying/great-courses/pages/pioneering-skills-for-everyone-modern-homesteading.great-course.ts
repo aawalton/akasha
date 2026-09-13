@@ -10,8 +10,12 @@ export const pioneeringSkillsForEveryoneModernHomesteading = {
   ownLength: 615.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "pioneering-skills-for-everyone-modern-homesteading",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/pioneering-skills-for-everyone-modern-homesteading",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pioneering-skills-for-everyone-modern-homesteading",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/pioneering-skills-for-everyone-modern-homesteading",
+    },
+  ],
 } as const satisfies GreatCourse

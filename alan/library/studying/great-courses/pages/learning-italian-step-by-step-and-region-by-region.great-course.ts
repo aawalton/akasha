@@ -15,8 +15,12 @@ export const learningItalianStepByStepAndRegionByRegion = {
     "hobby-and-personal-pursuits-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "learning-italian-step-by-step-and-region-by-region",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/learning-italian-step-by-step-and-region-by-region",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "learning-italian-step-by-step-and-region-by-region",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/learning-italian-step-by-step-and-region-by-region",
+    },
+  ],
 } as const satisfies GreatCourse

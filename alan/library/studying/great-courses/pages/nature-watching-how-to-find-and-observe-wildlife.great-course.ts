@@ -14,8 +14,12 @@ export const natureWatchingHowToFindAndObserveWildlife = {
     "hobby-and-personal-pursuits-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "nature-watching-how-to-find-and-observe-wildlife",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/nature-watching-how-to-find-and-observe-wildlife",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "nature-watching-how-to-find-and-observe-wildlife",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/nature-watching-how-to-find-and-observe-wildlife",
+    },
+  ],
 } as const satisfies GreatCourse

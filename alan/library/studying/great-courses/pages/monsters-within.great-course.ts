@@ -15,7 +15,11 @@ export const monstersWithin = {
     "history-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "monsters-within",
-  externalLink: "https://www.thegreatcoursesplus.com/monsters-within",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "monsters-within",
+      externalLink: "https://www.thegreatcoursesplus.com/monsters-within",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -17,7 +17,11 @@ export const latin101LearningAClassicalLanguage = {
     "literature-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "latin-101-learning-a-classical-language",
-  externalLink: "https://www.thegreatcoursesplus.com/latin-101-learning-a-classical-language",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "latin-101-learning-a-classical-language",
+      externalLink: "https://www.thegreatcoursesplus.com/latin-101-learning-a-classical-language",
+    },
+  ],
 } as const satisfies GreatCourse

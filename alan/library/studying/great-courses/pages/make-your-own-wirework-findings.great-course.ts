@@ -11,7 +11,11 @@ export const makeYourOwnWireworkFindings = {
   ownLength: 230.4,
   ownProgress: 230.4,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "make-your-own-wirework-findings",
-  externalLink: "https://www.thegreatcoursesplus.com/make-your-own-wirework-findings",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "make-your-own-wirework-findings",
+      externalLink: "https://www.thegreatcoursesplus.com/make-your-own-wirework-findings",
+    },
+  ],
 } as const satisfies GreatCourse

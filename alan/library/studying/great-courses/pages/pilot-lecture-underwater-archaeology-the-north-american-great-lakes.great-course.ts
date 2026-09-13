@@ -11,8 +11,12 @@ export const pilotLectureUnderwaterArchaeologyTheNorthAmericanGreatLakes = {
   ownLength: 25.2,
   ownProgress: 25.2,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "wondrium-pilots-underwater-archaeology-the-north-american-great-lakes",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/wondrium-pilots-underwater-archaeology-the-north-american-great-lakes",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-underwater-archaeology-the-north-american-great-lakes",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/wondrium-pilots-underwater-archaeology-the-north-american-great-lakes",
+    },
+  ],
 } as const satisfies GreatCourse

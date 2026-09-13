@@ -11,8 +11,12 @@ export const pilotLectureHowToThinkLikeAGeneralUlyssesSGrant = {
   ownLength: 31.2,
   ownProgress: 31.2,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-how-to-think-like-a-general-ulysses-s-grant",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/pilot-lecture-how-to-think-like-a-general-ulysses-s-grant",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-how-to-think-like-a-general-ulysses-s-grant",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/pilot-lecture-how-to-think-like-a-general-ulysses-s-grant",
+    },
+  ],
 } as const satisfies GreatCourse

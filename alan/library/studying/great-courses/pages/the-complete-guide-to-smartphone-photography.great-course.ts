@@ -11,7 +11,12 @@ export const theCompleteGuideToSmartphonePhotography = {
   ownLength: 444.6,
   ownProgress: 444.6,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-complete-guide-to-smartphone-photography",
-  externalLink: "https://www.thegreatcoursesplus.com/the-complete-guide-to-smartphone-photography",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-complete-guide-to-smartphone-photography",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-complete-guide-to-smartphone-photography",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -11,7 +11,11 @@ export const sewingBrasConstructionAndFit = {
   ownLength: 223.2,
   ownProgress: 223.2,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "sewing-bras-construction-fit",
-  externalLink: "https://www.thegreatcoursesplus.com/sewing-bras-construction-fit",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "sewing-bras-construction-fit",
+      externalLink: "https://www.thegreatcoursesplus.com/sewing-bras-construction-fit",
+    },
+  ],
 } as const satisfies GreatCourse

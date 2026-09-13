@@ -11,8 +11,12 @@ export const pilotLectureTheMysteriesOfHumanLanguageWhatSInAWord = {
   ownLength: 28.8,
   ownProgress: 28.8,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-the-mysteries-of-human-language-what-s-in-a-word",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/pilot-lecture-the-mysteries-of-human-language-what-s-in-a-word",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-the-mysteries-of-human-language-what-s-in-a-word",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/pilot-lecture-the-mysteries-of-human-language-what-s-in-a-word",
+    },
+  ],
 } as const satisfies GreatCourse

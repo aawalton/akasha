@@ -11,7 +11,11 @@ export const practicalGuideToSuicidePrevention = {
   ownLength: 46.2,
   ownProgress: 46.2,
   partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
-  source: "the-great-courses",
-  externalId: "practical-guide-to-suicide-prevention",
-  externalLink: "https://www.thegreatcoursesplus.com/practical-guide-to-suicide-prevention",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "practical-guide-to-suicide-prevention",
+      externalLink: "https://www.thegreatcoursesplus.com/practical-guide-to-suicide-prevention",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -16,8 +16,12 @@ export const learningGermanAJourneyThroughLanguageAndCulture = {
     "literature-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "learning-german-a-journey-through-language-and-culture",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/learning-german-a-journey-through-language-and-culture",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "learning-german-a-journey-through-language-and-culture",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/learning-german-a-journey-through-language-and-culture",
+    },
+  ],
 } as const satisfies GreatCourse

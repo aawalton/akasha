@@ -11,8 +11,12 @@ export const pilotLectureAncientMysteriesTheArkOfTheCovenant = {
   ownLength: 34.2,
   ownProgress: 34.2,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "wondrium-pilots-ancient-mysteries-the-ark-of-the-covenant",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/wondrium-pilots-ancient-mysteries-the-ark-of-the-covenant",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-ancient-mysteries-the-ark-of-the-covenant",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/wondrium-pilots-ancient-mysteries-the-ark-of-the-covenant",
+    },
+  ],
 } as const satisfies GreatCourse

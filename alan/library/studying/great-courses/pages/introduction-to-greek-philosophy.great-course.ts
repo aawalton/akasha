@@ -10,7 +10,11 @@ export const introductionToGreekPhilosophy = {
   ownLength: 736.05,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "introduction-to-greek-philosophy",
-  externalLink: "https://www.thegreatcoursesplus.com/introduction-to-greek-philosophy",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "introduction-to-greek-philosophy",
+      externalLink: "https://www.thegreatcoursesplus.com/introduction-to-greek-philosophy",
+    },
+  ],
 } as const satisfies GreatCourse

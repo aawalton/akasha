@@ -15,7 +15,11 @@ export const mathAndMagic = {
     "hobby-and-personal-pursuits-great-courses",
     "mathematics-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "math-and-magic",
-  externalLink: "https://www.thegreatcoursesplus.com/math-and-magic",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "math-and-magic",
+      externalLink: "https://www.thegreatcoursesplus.com/math-and-magic",
+    },
+  ],
 } as const satisfies GreatCourse

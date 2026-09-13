@@ -10,8 +10,12 @@ export const pilotLectureHowToThinkLikeAGeneralColinPowell = {
   ownLength: 1,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-how-to-think-like-a-general-colin-powell",
-  externalLink:
-    "https://plus.thegreatcourses.com/pilot-lecture-how-to-think-like-a-general-colin-powell",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-how-to-think-like-a-general-colin-powell",
+      externalLink:
+        "https://plus.thegreatcourses.com/pilot-lecture-how-to-think-like-a-general-colin-powell",
+    },
+  ],
 } as const satisfies GreatCourse

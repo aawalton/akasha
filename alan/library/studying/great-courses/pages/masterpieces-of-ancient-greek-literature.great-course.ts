@@ -10,7 +10,11 @@ export const masterpiecesOfAncientGreekLiterature = {
   ownLength: 1105.133333,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "masterpieces-of-ancient-greek-literature",
-  externalLink: "https://www.thegreatcoursesplus.com/masterpieces-of-ancient-greek-literature",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "masterpieces-of-ancient-greek-literature",
+      externalLink: "https://www.thegreatcoursesplus.com/masterpieces-of-ancient-greek-literature",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,12 @@ export const natureOfEarthAnIntroductionToGeology = {
   ownLength: 1087.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "nature-of-earth-an-introduction-to-geology",
-  externalLink: "https://www.thegreatcoursesplus.com/nature-of-earth-an-introduction-to-geology",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "nature-of-earth-an-introduction-to-geology",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/nature-of-earth-an-introduction-to-geology",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,8 +10,12 @@ export const scienceWarsWhatScientistsKnowAndHowTheyKnowIt = {
   ownLength: 754.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "science-wars-what-scientists-know-and-how-they-know-it",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/science-wars-what-scientists-know-and-how-they-know-it",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "science-wars-what-scientists-know-and-how-they-know-it",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/science-wars-what-scientists-know-and-how-they-know-it",
+    },
+  ],
 } as const satisfies GreatCourse

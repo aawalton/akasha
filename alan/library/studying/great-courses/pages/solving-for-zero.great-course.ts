@@ -11,7 +11,11 @@ export const solvingForZero = {
   ownLength: 68.4,
   ownProgress: 68.4,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "solving-for-zero",
-  externalLink: "https://www.thegreatcoursesplus.com/solving-for-zero",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "solving-for-zero",
+      externalLink: "https://www.thegreatcoursesplus.com/solving-for-zero",
+    },
+  ],
 } as const satisfies GreatCourse

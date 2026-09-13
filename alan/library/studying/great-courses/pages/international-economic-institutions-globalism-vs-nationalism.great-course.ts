@@ -10,8 +10,12 @@ export const internationalEconomicInstitutionsGlobalismVsNationalism = {
   ownLength: 749.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
-  source: "the-great-courses",
-  externalId: "international-economic-institutions-globalism-vs-nationalism",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/international-economic-institutions-globalism-vs-nationalism",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "international-economic-institutions-globalism-vs-nationalism",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/international-economic-institutions-globalism-vs-nationalism",
+    },
+  ],
 } as const satisfies GreatCourse

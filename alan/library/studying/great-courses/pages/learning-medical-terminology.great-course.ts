@@ -10,7 +10,11 @@ export const learningMedicalTerminology = {
   ownLength: 622.966667,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "learning-medical-terminology",
-  externalLink: "https://www.thegreatcoursesplus.com/learning-medical-terminology",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "learning-medical-terminology",
+      externalLink: "https://www.thegreatcoursesplus.com/learning-medical-terminology",
+    },
+  ],
 } as const satisfies GreatCourse

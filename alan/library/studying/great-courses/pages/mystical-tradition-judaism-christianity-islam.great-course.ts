@@ -10,7 +10,12 @@ export const mysticalTraditionJudaismChristianityIslam = {
   ownLength: 1091.816667,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "mystical-tradition-judaism-christianity-islam",
-  externalLink: "https://www.thegreatcoursesplus.com/mystical-tradition-judaism-christianity-islam",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "mystical-tradition-judaism-christianity-islam",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/mystical-tradition-judaism-christianity-islam",
+    },
+  ],
 } as const satisfies GreatCourse

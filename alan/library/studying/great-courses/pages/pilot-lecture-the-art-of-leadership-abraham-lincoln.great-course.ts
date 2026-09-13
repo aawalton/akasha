@@ -11,8 +11,12 @@ export const pilotLectureTheArtOfLeadershipAbrahamLincoln = {
   ownLength: 31.2,
   ownProgress: 31.2,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-the-art-of-leadership-abraham-lincoln",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/pilot-lecture-the-art-of-leadership-abraham-lincoln",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-the-art-of-leadership-abraham-lincoln",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/pilot-lecture-the-art-of-leadership-abraham-lincoln",
+    },
+  ],
 } as const satisfies GreatCourse

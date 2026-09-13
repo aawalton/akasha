@@ -15,7 +15,11 @@ export const startupProjectNatureInWatercolor = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "startup-project-nature-in-watercolor",
-  externalLink: "https://www.thegreatcoursesplus.com/startup-project-nature-in-watercolor",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "startup-project-nature-in-watercolor",
+      externalLink: "https://www.thegreatcoursesplus.com/startup-project-nature-in-watercolor",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const mrLincolnTheLifeOfAbrahamLincoln = {
   ownLength: 366.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "mr-lincoln-the-life-of-abraham-lincoln",
-  externalLink: "https://www.thegreatcoursesplus.com/mr-lincoln-the-life-of-abraham-lincoln",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "mr-lincoln-the-life-of-abraham-lincoln",
+      externalLink: "https://www.thegreatcoursesplus.com/mr-lincoln-the-life-of-abraham-lincoln",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -11,8 +11,12 @@ export const pilotLectureSocialConnectionAndYourHealth = {
   ownLength: 35.683333,
   ownProgress: 35.683333,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-social-connection-and-your-health",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/pilot-lecture-social-connection-and-your-health",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-social-connection-and-your-health",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/pilot-lecture-social-connection-and-your-health",
+    },
+  ],
 } as const satisfies GreatCourse

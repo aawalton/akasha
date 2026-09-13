@@ -10,7 +10,11 @@ export const theApocryphalJesus = {
   ownLength: 753.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-apocryphal-jesus",
-  externalLink: "https://www.thegreatcoursesplus.com/the-apocryphal-jesus",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-apocryphal-jesus",
+      externalLink: "https://www.thegreatcoursesplus.com/the-apocryphal-jesus",
+    },
+  ],
 } as const satisfies GreatCourse

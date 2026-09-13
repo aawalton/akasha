@@ -10,7 +10,11 @@ export const jesusAndTheGospels = {
   ownLength: 1100.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "jesus-and-the-gospels",
-  externalLink: "https://www.thegreatcoursesplus.com/jesus-and-the-gospels",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "jesus-and-the-gospels",
+      externalLink: "https://www.thegreatcoursesplus.com/jesus-and-the-gospels",
+    },
+  ],
 } as const satisfies GreatCourse

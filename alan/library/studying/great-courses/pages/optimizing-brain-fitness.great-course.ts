@@ -15,7 +15,11 @@ export const optimizingBrainFitness = {
     "professional-growth-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "optimizing-brain-fitness",
-  externalLink: "https://www.thegreatcoursesplus.com/optimizing-brain-fitness",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "optimizing-brain-fitness",
+      externalLink: "https://www.thegreatcoursesplus.com/optimizing-brain-fitness",
+    },
+  ],
 } as const satisfies GreatCourse

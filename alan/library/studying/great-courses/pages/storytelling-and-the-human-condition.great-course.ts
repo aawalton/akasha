@@ -10,7 +10,11 @@ export const storytellingAndTheHumanCondition = {
   ownLength: 380.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "storytelling-and-the-human-condition",
-  externalLink: "https://www.thegreatcoursesplus.com/storytelling-and-the-human-condition",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "storytelling-and-the-human-condition",
+      externalLink: "https://www.thegreatcoursesplus.com/storytelling-and-the-human-condition",
+    },
+  ],
 } as const satisfies GreatCourse

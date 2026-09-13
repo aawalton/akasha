@@ -11,7 +11,11 @@ export const pilotLectureTheHaitianRevolution = {
   ownLength: 29.4,
   ownProgress: 29.4,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
-  source: "the-great-courses",
-  externalId: "wondrium-pilots-the-haitian-revolution",
-  externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-the-haitian-revolution",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-the-haitian-revolution",
+      externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-the-haitian-revolution",
+    },
+  ],
 } as const satisfies GreatCourse

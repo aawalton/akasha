@@ -11,8 +11,12 @@ export const pilotLectureHowDoWeMakeAiMoreIntelligent = {
   ownLength: 34.2,
   ownProgress: 34.2,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "wondrium-pilots-how-do-we-make-ai-more-intelligent",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/wondrium-pilots-how-do-we-make-ai-more-intelligent",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-how-do-we-make-ai-more-intelligent",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/wondrium-pilots-how-do-we-make-ai-more-intelligent",
+    },
+  ],
 } as const satisfies GreatCourse

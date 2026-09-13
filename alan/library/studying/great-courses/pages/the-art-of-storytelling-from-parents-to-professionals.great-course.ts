@@ -16,8 +16,12 @@ export const theArtOfStorytellingFromParentsToProfessionals = {
     "literature-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-art-of-storytelling-from-parents-to-professionals",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-art-of-storytelling-from-parents-to-professionals",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-art-of-storytelling-from-parents-to-professionals",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-art-of-storytelling-from-parents-to-professionals",
+    },
+  ],
 } as const satisfies GreatCourse

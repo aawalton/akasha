@@ -10,7 +10,11 @@ export const introductionToPaleontology = {
   ownLength: 754.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "introduction-to-paleontology",
-  externalLink: "https://www.thegreatcoursesplus.com/introduction-to-paleontology",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "introduction-to-paleontology",
+      externalLink: "https://www.thegreatcoursesplus.com/introduction-to-paleontology",
+    },
+  ],
 } as const satisfies GreatCourse

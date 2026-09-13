@@ -10,7 +10,11 @@ export const overcomeYourOverthinking = {
   ownLength: 361.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "overcome-your-overthinking",
-  externalLink: "https://www.thegreatcoursesplus.com/overcome-your-overthinking",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "overcome-your-overthinking",
+      externalLink: "https://www.thegreatcoursesplus.com/overcome-your-overthinking",
+    },
+  ],
 } as const satisfies GreatCourse

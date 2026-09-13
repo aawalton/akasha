@@ -11,8 +11,12 @@ export const pilotLectureHowRepublicsDieTheFallOfTheRomanRepublic = {
   ownLength: 36,
   ownProgress: 36,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-how-republics-die-the-fall-of-the-roman-republic",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/pilot-lecture-how-republics-die-the-fall-of-the-roman-republic",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-how-republics-die-the-fall-of-the-roman-republic",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/pilot-lecture-how-republics-die-the-fall-of-the-roman-republic",
+    },
+  ],
 } as const satisfies GreatCourse

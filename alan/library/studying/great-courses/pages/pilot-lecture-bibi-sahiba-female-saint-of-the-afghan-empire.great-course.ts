@@ -11,7 +11,11 @@ export const pilotLectureBibiSahibaFemaleSaintOfTheAfghanEmpire = {
   ownLength: 24.6,
   ownProgress: 24.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "wondrium-pilots-history-of-persia",
-  externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-history-of-persia",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-history-of-persia",
+      externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-history-of-persia",
+    },
+  ],
 } as const satisfies GreatCourse

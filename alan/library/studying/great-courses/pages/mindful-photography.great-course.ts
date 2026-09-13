@@ -10,7 +10,11 @@ export const mindfulPhotography = {
   ownLength: 348.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "mindful-photography",
-  externalLink: "https://www.thegreatcoursesplus.com/mindful-photography",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "mindful-photography",
+      externalLink: "https://www.thegreatcoursesplus.com/mindful-photography",
+    },
+  ],
 } as const satisfies GreatCourse

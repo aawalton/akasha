@@ -11,7 +11,11 @@ export const pilotLectureWhatIsPain = {
   ownLength: 29.4,
   ownProgress: 29.4,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "wondrium-pilots-what-is-pain",
-  externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-what-is-pain",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-what-is-pain",
+      externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-what-is-pain",
+    },
+  ],
 } as const satisfies GreatCourse

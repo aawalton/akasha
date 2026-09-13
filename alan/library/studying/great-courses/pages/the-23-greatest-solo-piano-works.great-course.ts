@@ -10,7 +10,11 @@ export const the23GreatestSoloPianoWorks = {
   ownLength: 1169.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-23-greatest-solo-piano-works",
-  externalLink: "https://www.thegreatcoursesplus.com/the-23-greatest-solo-piano-works",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-23-greatest-solo-piano-works",
+      externalLink: "https://www.thegreatcoursesplus.com/the-23-greatest-solo-piano-works",
+    },
+  ],
 } as const satisfies GreatCourse

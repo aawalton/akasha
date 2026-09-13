@@ -11,8 +11,12 @@ export const pilotLectureHajjAndUmrahPilgrimageToMecca = {
   ownLength: 32.4,
   ownProgress: 32.4,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "wondrium-pilots-hajj-and-umrah-pilgrimage-to-mecca",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/wondrium-pilots-hajj-and-umrah-pilgrimage-to-mecca",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-hajj-and-umrah-pilgrimage-to-mecca",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/wondrium-pilots-hajj-and-umrah-pilgrimage-to-mecca",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -14,8 +14,12 @@ export const medicalMythsLiesAndHalfTruthsWhatWeThinkWeKnowMayBeHurtin = {
     "health-and-mindfulness-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "medical-myths-lies-and-half-truths-what-we-think-we-know-may-be-hurting-us",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/medical-myths-lies-and-half-truths-what-we-think-we-know-may-be-hurting-us",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "medical-myths-lies-and-half-truths-what-we-think-we-know-may-be-hurting-us",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/medical-myths-lies-and-half-truths-what-we-think-we-know-may-be-hurting-us",
+    },
+  ],
 } as const satisfies GreatCourse

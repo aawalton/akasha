@@ -14,7 +14,11 @@ export const scienceAndReligion = {
     "philosophy-and-religion-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "science-and-religion",
-  externalLink: "https://www.thegreatcoursesplus.com/science-and-religion",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "science-and-religion",
+      externalLink: "https://www.thegreatcoursesplus.com/science-and-religion",
+    },
+  ],
 } as const satisfies GreatCourse

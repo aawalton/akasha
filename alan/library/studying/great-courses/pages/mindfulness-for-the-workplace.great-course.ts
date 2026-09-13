@@ -15,7 +15,11 @@ export const mindfulnessForTheWorkplace = {
     "hobby-and-personal-pursuits-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "mindfulness-for-the-workplace",
-  externalLink: "https://www.thegreatcoursesplus.com/mindfulness-for-the-workplace",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "mindfulness-for-the-workplace",
+      externalLink: "https://www.thegreatcoursesplus.com/mindfulness-for-the-workplace",
+    },
+  ],
 } as const satisfies GreatCourse

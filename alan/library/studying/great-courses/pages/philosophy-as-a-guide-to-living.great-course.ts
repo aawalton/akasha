@@ -10,7 +10,11 @@ export const philosophyAsAGuideToLiving = {
   ownLength: 739.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "philosophy-as-a-guide-to-living",
-  externalLink: "https://www.thegreatcoursesplus.com/philosophy-as-a-guide-to-living",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "philosophy-as-a-guide-to-living",
+      externalLink: "https://www.thegreatcoursesplus.com/philosophy-as-a-guide-to-living",
+    },
+  ],
 } as const satisfies GreatCourse

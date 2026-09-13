@@ -17,7 +17,11 @@ export const scientificSecretsForAPowerfulMemory = {
     "professional-growth-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "scientific-secrets-for-a-powerful-memory",
-  externalLink: "https://www.thegreatcoursesplus.com/scientific-secrets-for-a-powerful-memory",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "scientific-secrets-for-a-powerful-memory",
+      externalLink: "https://www.thegreatcoursesplus.com/scientific-secrets-for-a-powerful-memory",
+    },
+  ],
 } as const satisfies GreatCourse

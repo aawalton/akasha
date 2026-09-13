@@ -11,7 +11,11 @@ export const realisticWatercolorsStepByStep = {
   ownLength: 162,
   ownProgress: 162,
   partOfCollections: ["all-great-courses", "art-great-courses"],
-  source: "the-great-courses",
-  externalId: "realistic-watercolors-step-by-step",
-  externalLink: "https://www.thegreatcoursesplus.com/realistic-watercolors-step-by-step",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "realistic-watercolors-step-by-step",
+      externalLink: "https://www.thegreatcoursesplus.com/realistic-watercolors-step-by-step",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -11,7 +11,11 @@ export const pilotLectureHowTradeReallyWorks = {
   ownLength: 36,
   ownProgress: 36,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
-  source: "the-great-courses",
-  externalId: "wondrium-pilots-how-trade-really-works",
-  externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-how-trade-really-works",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-how-trade-really-works",
+      externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-how-trade-really-works",
+    },
+  ],
 } as const satisfies GreatCourse

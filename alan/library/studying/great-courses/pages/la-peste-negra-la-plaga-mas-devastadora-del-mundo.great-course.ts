@@ -10,8 +10,12 @@ export const laPesteNegraLaPlagaMasDevastadoraDelMundo = {
   ownLength: 732.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "la-peste-negra-la-plaga-mas-devastadora-del-mundo",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/la-peste-negra-la-plaga-mas-devastadora-del-mundo",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "la-peste-negra-la-plaga-mas-devastadora-del-mundo",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/la-peste-negra-la-plaga-mas-devastadora-del-mundo",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -16,8 +16,12 @@ export const passionsPhilosophyAndTheIntelligenceOfEmotions = {
     "philosophy-and-religion-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "passions-philosophy-and-the-intelligence-of-emotions",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/passions-philosophy-and-the-intelligence-of-emotions",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "passions-philosophy-and-the-intelligence-of-emotions",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/passions-philosophy-and-the-intelligence-of-emotions",
+    },
+  ],
 } as const satisfies GreatCourse

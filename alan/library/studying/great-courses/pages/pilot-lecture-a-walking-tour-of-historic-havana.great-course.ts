@@ -11,8 +11,12 @@ export const pilotLectureAWalkingTourOfHistoricHavana = {
   ownLength: 40.2,
   ownProgress: 40.2,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "pilot-lecture-a-walking-tour-of-historic-havana",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/pilot-lecture-a-walking-tour-of-historic-havana",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "pilot-lecture-a-walking-tour-of-historic-havana",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/pilot-lecture-a-walking-tour-of-historic-havana",
+    },
+  ],
 } as const satisfies GreatCourse

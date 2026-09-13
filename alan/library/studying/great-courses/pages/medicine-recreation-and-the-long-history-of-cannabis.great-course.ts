@@ -10,8 +10,12 @@ export const medicineRecreationAndTheLongHistoryOfCannabis = {
   ownLength: 12,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "medicine-recreation-and-the-long-history-of-cannabis",
-  externalLink:
-    "https://plus.thegreatcourses.com/medicine-recreation-and-the-long-history-of-cannabis",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "medicine-recreation-and-the-long-history-of-cannabis",
+      externalLink:
+        "https://plus.thegreatcourses.com/medicine-recreation-and-the-long-history-of-cannabis",
+    },
+  ],
 } as const satisfies GreatCourse

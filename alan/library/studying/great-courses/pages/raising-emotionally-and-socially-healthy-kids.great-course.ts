@@ -14,7 +14,12 @@ export const raisingEmotionallyAndSociallyHealthyKids = {
     "hobby-and-personal-pursuits-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "raising-emotionally-and-socially-healthy-kids",
-  externalLink: "https://www.thegreatcoursesplus.com/raising-emotionally-and-socially-healthy-kids",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "raising-emotionally-and-socially-healthy-kids",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/raising-emotionally-and-socially-healthy-kids",
+    },
+  ],
 } as const satisfies GreatCourse

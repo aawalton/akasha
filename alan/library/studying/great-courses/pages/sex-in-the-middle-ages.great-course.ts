@@ -10,7 +10,11 @@ export const sexInTheMiddleAges = {
   ownLength: 315,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "sex-in-the-middle-ages",
-  externalLink: "https://www.thegreatcoursesplus.com/sex-in-the-middle-ages",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "sex-in-the-middle-ages",
+      externalLink: "https://www.thegreatcoursesplus.com/sex-in-the-middle-ages",
+    },
+  ],
 } as const satisfies GreatCourse

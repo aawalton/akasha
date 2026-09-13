@@ -11,8 +11,12 @@ export const pilotLectureEnderSGamePoliticsAndWarInScienceFiction = {
   ownLength: 30.6,
   ownProgress: 30.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "ender-s-game-politics-and-war-in-science-fiction",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/ender-s-game-politics-and-war-in-science-fiction",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "ender-s-game-politics-and-war-in-science-fiction",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/ender-s-game-politics-and-war-in-science-fiction",
+    },
+  ],
 } as const satisfies GreatCourse

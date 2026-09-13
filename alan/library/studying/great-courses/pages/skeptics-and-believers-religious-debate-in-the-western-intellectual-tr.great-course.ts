@@ -10,8 +10,12 @@ export const skepticsAndBelieversReligiousDebateInTheWesternIntellectualTr = {
   ownLength: 1119.55,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "skeptics-and-believers-religious-debate-in-the-western-intellectual-tradition",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/skeptics-and-believers-religious-debate-in-the-western-intellectual-tradition",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "skeptics-and-believers-religious-debate-in-the-western-intellectual-tradition",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/skeptics-and-believers-religious-debate-in-the-western-intellectual-tradition",
+    },
+  ],
 } as const satisfies GreatCourse

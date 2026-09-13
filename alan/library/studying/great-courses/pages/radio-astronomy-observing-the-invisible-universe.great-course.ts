@@ -10,8 +10,12 @@ export const radioAstronomyObservingTheInvisibleUniverse = {
   ownLength: 761.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "radio-astronomy-observing-the-invisible-universe",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/radio-astronomy-observing-the-invisible-universe",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "radio-astronomy-observing-the-invisible-universe",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/radio-astronomy-observing-the-invisible-universe",
+    },
+  ],
 } as const satisfies GreatCourse
