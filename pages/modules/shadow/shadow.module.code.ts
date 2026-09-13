@@ -22,6 +22,7 @@ export type Shadow = {
   readonly root: string
   readonly index: Answering
   readonly filed: () => ReadonlyMap<string, string | null>
+  readonly holds: (path: string) => boolean
   readonly refusals: () => readonly string[]
   readonly pageOf: (path: string) => Value | null
   readonly codeAt: (path: string) => string | null
@@ -130,6 +131,7 @@ function shadowOver(
     root,
     index: answeringOver(reading, pageOf),
     filed: () => new Map(),
+    holds: (path) => reading.read(path) !== null,
     refusals: () => [],
     pageOf,
     codeAt: (path) => path,
@@ -174,6 +176,7 @@ function castFrom(was: Reading, change: Change, held: Remembered): Cast {
       root: change.root,
       index,
       filed,
+      holds: (path) => reading.read(path) !== null,
       refusals,
       pageOf,
       codeAt: codeOver(change),
@@ -236,6 +239,7 @@ export function shadowAsked(change: Change): Shadow {
     root: change.root,
     index: answeringOver(reading, pageOf),
     filed: () => worked().shadow.filed(),
+    holds: (path) => reading.read(path) !== null,
     refusals: () => worked().shadow.refusals(),
     pageOf,
     codeAt: (path) => worked().shadow.codeAt(path),

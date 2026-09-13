@@ -15,6 +15,10 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
+      statement: "A shadow answers whether a file is at a path once the change lands.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page the change has is read from the body the change has.",
     },
     {

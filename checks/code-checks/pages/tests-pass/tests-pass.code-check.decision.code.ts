@@ -32,7 +32,7 @@ import { endingOf } from "akasha/utils/run/modules/running/running.module.code.t
 export function testedBeside(path: string, shadow: Shadow): boolean {
   for (const beside of testsBesideOf(path)) {
     if (beside === path) return true
-    if (shadow.index.listedByPath(beside).length > 0) return true
+    if (shadow.holds(beside)) return true
   }
   return false
 }

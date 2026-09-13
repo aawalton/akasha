@@ -234,6 +234,17 @@ test("a body the change takes away stands at no path", () => {
   expect(codeOf(shadowFor(carriedOver(repo)))(CODE_AT)).toBe(null)
 })
 
+test("a file the change writes is at its path, and one the change takes away is at no path", () => {
+  const repo = seeded()
+  const cast = shadowFor(carriedOver(repo))
+  if ("refused" in cast) throw new Error(cast.refused)
+  expect(cast.shadow.holds(MOVED_TO)).toBe(true)
+  expect(cast.shadow.holds(inside("fresh.ts"))).toBe(true)
+  expect(cast.shadow.holds(CODE_AT)).toBe(false)
+  expect(cast.shadow.holds(inside("x.ts"))).toBe(true)
+  expect(cast.shadow.holds(inside("nothing.ts"))).toBe(false)
+})
+
 test("a body the change rewrites where the body already was is loaded from that path", () => {
   const repo = seeded()
   expect(codeOf(shadowFor(rewrittenOver(repo)))(CODE_AT)).toBe(CODE_AT)
