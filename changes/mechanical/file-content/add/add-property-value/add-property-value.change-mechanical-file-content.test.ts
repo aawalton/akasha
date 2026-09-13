@@ -185,6 +185,20 @@ test("a key the page gains is written last where no `after` is stated", () => {
   expect(bodyOf(said, () => BODY)).toBe(GAINED_LAST)
 })
 
+test("an `after` stated where the page states the key already is refused rather than dropped", () => {
+  const said = addPropertyValue(worldOf(BODY), {
+    at: AT,
+    key: "partSlugs",
+    value: "kept/three",
+    after: "slug",
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(
+    "`partSlugs` is written already, and `after` places a key rather than a value"
+  )
+})
+
 test("a body exporting no object is refused", () => {
   const said = addPropertyValue(worldOf("const kept = 1\n"), {
     at: AT,

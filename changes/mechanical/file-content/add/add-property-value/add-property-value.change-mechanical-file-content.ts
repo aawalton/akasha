@@ -78,7 +78,8 @@ export const addPropertyValue = {
     },
     {
       invariantKind: "departure",
-      statement: "`after` is left unread where the page already states the key.",
+      statement:
+        "An `after` stated where the page states the key already is refused rather than dropped.",
     },
     {
       invariantKind: "departure",

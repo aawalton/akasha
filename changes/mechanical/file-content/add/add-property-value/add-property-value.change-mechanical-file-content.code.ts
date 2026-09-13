@@ -20,6 +20,8 @@ import { spelledAs } from "akasha/changes/modules/value-spelling/value-spelling.
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import ts from "typescript"
 
+const PLACED = "is written already, and `after` places a key rather than a value"
+
 export type AddPropertyValueAsked = {
   readonly at: string
   readonly key: string
@@ -48,6 +50,7 @@ export function addPropertyValue(world: World, given: AddPropertyValueAsked): Sa
     const put = given.single === true ? `${given.key}: ${said}` : `${given.key}: [${said}]`
     return stating(spliced(given.at, text, withProperty(text, source, owner, put, given.after)))
   }
+  if (given.after !== undefined) return refusing(`\`${given.key}\` ${PLACED}`)
   const holding = one.initializer
   if (!ts.isArrayLiteralExpression(holding)) {
     return refusing(`\`${given.key}\` holds one value, so \`${given.value}\` is a restatement`)
