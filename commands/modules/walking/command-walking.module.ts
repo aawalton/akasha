@@ -126,5 +126,10 @@ export const commandWalking = {
       invariantKind: "absence",
       statement: "Nothing here decides what the level reached means.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A word naming more than one part steps into the first part the level above states.",
+    },
   ],
 } as const satisfies Module
