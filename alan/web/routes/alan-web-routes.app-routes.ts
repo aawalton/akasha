@@ -29,6 +29,7 @@ export const alanWebRoutes = {
     "route/alan-web-api-page-types",
     "route/alan-web-api-page-write",
     "route/alan-web-api-pages",
+    "route/alan-web-api-picture",
     "route/alan-web-api-property-option",
     "route/alan-web-api-push-register",
     "route/alan-web-api-save",

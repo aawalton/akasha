@@ -116,6 +116,7 @@ export const alanWeb = {
     "module/pages-persistence-core",
     "module/pages-persistence-fs",
     "module/pages-unheld",
+    "module/picture-answering",
     "module/prestige-card",
     "module/pull-to-refresh",
     "module/pull-to-refresh-decider",

@@ -128,5 +128,7 @@ export default [
     "routes/alan-web-api-tracking-health-samples/alan-web-api-tracking-health-samples.route.code.ts"
   ),
 
+  route("api/picture", "routes/alan-web-api-picture/alan-web-api-picture.route.code.ts"),
+
   route("api/*", "routes/no-such-route/no-such-route.route.code.ts"),
 ] satisfies RouteConfig
