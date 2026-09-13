@@ -11,6 +11,7 @@ export const modelTest = {
     "model-test/directive-kept",
     "model-test/directives-kept",
     "model-test/dont-stop-kept",
+    "model-test/going-on-kept",
     "model-test/no-commentary-kept",
     "model-test/one-at-a-time-kept",
     "model-test/restatement",
