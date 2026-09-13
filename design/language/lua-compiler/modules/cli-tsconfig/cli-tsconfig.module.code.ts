@@ -50,8 +50,17 @@ export function parseConfigFileWithSystem(
   system = ts.sys
 ): ParsedCommandLine {
   const configRootDir = path.dirname(configFileName)
+  const text = system.readFile(configFileName)
+  if (text === undefined) {
+    return {
+      options: {},
+      fileNames: [],
+      raw: {},
+      errors: [cliDiagnostics.theSpecifiedPathDoesNotExist(configFileName)],
+    }
+  }
   const parsedConfigFile = ts.parseJsonSourceFileConfigFileContent(
-    ts.readJsonConfigFile(configFileName, system.readFile),
+    ts.readJsonConfigFile(configFileName, () => text),
     system,
     configRootDir,
     commandLineOptions,
