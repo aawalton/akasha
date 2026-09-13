@@ -15,6 +15,14 @@ export const moduleSitsUnderAModulesFolder = {
     },
     {
       invariantKind: "departure",
+      statement: "A module naming the parts it is made of is a domain, and heads its own folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a module is let through wherever that module sits.",
+    },
+    {
+      invariantKind: "departure",
       statement: "That folder sits beside the page the module is a part of.",
     },
     {
@@ -42,8 +50,8 @@ export const moduleSitsUnderAModulesFolder = {
       statement: "A path the change takes away is let through.",
     },
     {
-      invariantKind: "absence",
-      statement: "No page body is read here.",
+      invariantKind: "departure",
+      statement: "The parts a module names are read from the body the change leaves.",
     },
     {
       invariantKind: "absence",

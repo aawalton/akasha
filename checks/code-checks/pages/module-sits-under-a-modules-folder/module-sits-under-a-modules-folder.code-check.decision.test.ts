@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   moduleNamed,
+  namesParts,
   reasonsAt,
   underModules,
 } from "akasha/checks/code-checks/pages/module-sits-under-a-modules-folder/module-sits-under-a-modules-folder.code-check.decision.code.ts"
@@ -36,4 +37,31 @@ test("a page of another type is let through", () => {
 
 test("a folder named `module` is no `modules` folder", () => {
   expect(underModules("akasha/one/module/answering/answering.module.ts")).toBe(false)
+})
+
+const PARTED = `export const answering = {
+  type: "module",
+  slug: "answering",
+  parts: ["module/asking"],
+  code: "ts",
+} as const`
+
+const BARE = `export const answering = {
+  type: "module",
+  slug: "answering",
+  code: "ts",
+} as const`
+
+test("a module naming the parts it is made of heads its own folder", () => {
+  expect(namesParts(PARTED)).toBe(true)
+  expect(reasonsAt("akasha/one/answering/answering.module.ts", true)).toEqual([])
+})
+
+test("a module naming no parts is refused where it sits under no `modules` folder", () => {
+  expect(namesParts(BARE)).toBe(false)
+  expect(reasonsAt("akasha/one/answering/answering.module.ts", false)).toHaveLength(1)
+})
+
+test("a body that reads as no page names no parts", () => {
+  expect(namesParts("what is this")).toBe(false)
 })
