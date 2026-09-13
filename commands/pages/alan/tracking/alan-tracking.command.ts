@@ -80,8 +80,8 @@ export const alanTracking = {
   arguments: [
     { argument: "argument/commit-message", notWith: ["argument/message-file"] },
     { argument: "argument/message-file" },
-    { argument: "argument/content-file", repeats: true },
-    { argument: "argument/file-path", repeats: true, oneOf: ["argument/remove-path"] },
+    { argument: "argument/content-file" },
+    { argument: "argument/file-path", oneOf: ["argument/remove-path"] },
     { argument: "argument/remove-path", repeats: true },
   ],
 } as const satisfies Command
