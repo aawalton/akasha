@@ -11,9 +11,7 @@ import {
   machineWrote,
   movedOnDisk,
   PUT_BACK,
-  reachedSince,
   unfresh,
-  unfreshOver,
 } from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
 import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
 import {
@@ -196,16 +194,6 @@ function landedMeanwhile(root: string, path: string, body: string): Judging {
   }
 }
 
-test("a commit reaching the tree is named, and a base that is already head names nothing", () => {
-  const root = repoWith(PAGES)
-  const base = headOf(root)
-  expect(reachedSince(root, base, base)).toEqual([])
-  writeFileSync(join(root, "akasha/inside.txt"), "inside")
-  git(root, ["add", "--", "akasha/inside.txt"])
-  git(root, ["commit", "--quiet", "-m", "inside", "--", "akasha/inside.txt"])
-  expect(reachedSince(root, base, headOf(root))).toEqual(["akasha/inside.txt"])
-})
-
 test("a commit reaching `akasha/` while the change was judged refuses nothing", async () => {
   const root = repoWith(PAGES)
   const said = await landing(
@@ -303,15 +291,8 @@ test("a path a group writes is held to no commit, and the code that group runs i
   writeFileSync(join(root, GROUP_AT), "two\n")
   writeFileSync(join(root, GROUP_CODE), "other\n")
   git(root, ["commit", "--quiet", "-a", "-m", "meanwhile"])
-  const said = unfreshOver(
-    groupsAt(root),
-    root,
-    read,
-    headOf(root),
-    [GROUP_AT, GROUP_CODE],
-    [],
-    "tail"
-  )
+  const base = headOf(root)
+  const said = unfresh(root, read, base, [GROUP_AT, GROUP_CODE], [], "tail", groupsAt(root))
   expect(said?.join("\n") ?? "").toContain(GROUP_CODE)
   expect(said?.join("\n") ?? "").not.toContain(GROUP_AT)
 })
@@ -325,7 +306,7 @@ test("a reading of a path a group writes is held to nothing, and one of that gro
     asRead(GROUP_AT, blobIdOf(bytes("one\n"))),
     asRead(GROUP_CODE, blobIdOf(bytes("code\n"))),
   ]
-  const said = unfreshOver(groupsAt(root), root, null, base, [], held, "tail")
+  const said = unfresh(root, null, base, [], held, "tail", groupsAt(root))
   expect(said?.join("\n") ?? "").toContain(GROUP_CODE)
   expect(said?.join("\n") ?? "").not.toContain(GROUP_AT)
 })

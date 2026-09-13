@@ -6,14 +6,12 @@ import {
   sameBody,
 } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
-import { said as gitIn, told } from "akasha/git/modules/running/git-running.module.code.ts"
+import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   type Facing,
   facingOn,
   writerAt,
 } from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
-
-const HERE = "."
 
 const NONE: ReadonlySet<string> = new Set()
 
@@ -22,21 +20,6 @@ export const PUT_BACK = "so writing it would put back what moved in between"
 function sameBytes(one: Uint8Array | null, two: Uint8Array | null): boolean {
   if (one === null || two === null) return one === two
   return Buffer.from(one).equals(Buffer.from(two))
-}
-
-function pathsIn(said: string | null): readonly string[] | null {
-  return said === null ? null : said.split("\0").filter((one) => one !== "")
-}
-
-function changedSince(
-  repo: string,
-  commit: string,
-  head: string,
-  tree: string
-): readonly string[] | null {
-  return pathsIn(
-    told(repo, ["diff", "--name-only", "--no-renames", "-z", commit, head, "--", tree])
-  )
 }
 
 export function movedOnDisk(
@@ -54,12 +37,6 @@ export function movedOnDisk(
     if (!sameBody(one, held === null ? "" : blobIdOf(held))) moved.push(one.path)
   }
   return moved.sort()
-}
-
-export function reachedSince(root: string, base: string, now: string): readonly string[] | null {
-  if (now === base) return []
-  const found = changedSince(root, base, now, HERE)
-  return found === null ? null : [...found].sort()
 }
 
 function movedBetween(
@@ -122,29 +99,18 @@ function unfreshPast(
   ]
 }
 
-export function unfreshOver(
-  given: Facing,
-  root: string,
-  named: string | null,
-  base: string,
-  paths: readonly string[],
-  asRead: readonly Reading[],
-  tail: string
-): readonly string[] | null {
-  const pathed = [...paths, ...asRead.map((one) => one.path)]
-  return unfreshPast(machineWrote(given, pathed), root, named, base, paths, asRead, tail)
-}
-
 export function unfresh(
   root: string,
   named: string | null,
   base: string,
   paths: readonly string[],
   asRead: readonly Reading[],
-  tail: string
+  tail: string,
+  given: Facing | null = null
 ): readonly string[] | null {
   const pathed = [...paths, ...asRead.map((one) => one.path)]
-  return unfreshPast(groupWrote(root, pathed), root, named, base, paths, asRead, tail)
+  const machine = given === null ? groupWrote(root, pathed) : machineWrote(given, pathed)
+  return unfreshPast(machine, root, named, base, paths, asRead, tail)
 }
 
 export function commitNamed(root: string, named: string): string | null {
