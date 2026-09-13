@@ -15,7 +15,7 @@ export const emberInventoryRules = {
     {
       statement: "A banker stacks what the bags hold that will stack.",
       workingMemory:
-        "Alan says the banker offers a Stack All Items action and asks whether it can simply be called. StackBag is already called on the backpack at login in inventory-events. Settle what the game exposes at a bank and call it rather than composing stacking here.",
+        "StackBag(bagId) is the whole of what the game exposes, and the bank's own Stack All Items keybind is one StackBag per visible tab. d29b73b stacks the backpack and the storage the visit opened, both bank bags where Alan subscribes, the moment the paced chain reports it drained, so no plan is left holding a slot index the stacking could move. Closing the bank early stacks nothing. The switch is the backpack autoStack one, whose label 4a601dd widens. Left: Alan to confirm.",
     },
     {
       statement:
