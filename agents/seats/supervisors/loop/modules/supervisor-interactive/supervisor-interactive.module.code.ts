@@ -18,7 +18,6 @@ import {
 import { dispatchPostExitOutcome } from "akasha/agents/seats/supervisors/loop/modules/supervisor-iteration-outcome/supervisor-iteration-outcome.module.code.ts"
 import { buildLoopState } from "akasha/agents/seats/supervisors/loop/modules/supervisor-loop-state/supervisor-loop-state.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/modules/supervisor-console/supervisor-console.module.code.ts"
-import { LIVE_DEFERRED_RESTART_RULE } from "akasha/agents/seats/supervisors/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
 import type { CarriedAgentName } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
 import type { SeatResume } from "akasha/agents/seats/supervisors/process/modules/supervisor-args/supervisor-args.module.code.ts"
 import { decideBootResume } from "akasha/agents/seats/supervisors/process/modules/supervisor-args/supervisor-args.module.code.ts"
@@ -28,6 +27,7 @@ import {
 } from "akasha/agents/seats/supervisors/process/modules/supervisor-config/supervisor-config.module.code.ts"
 import { isShuttingDown } from "akasha/agents/seats/supervisors/process/modules/supervisor-state/supervisor-state.module.code.ts"
 import type { AgentProcess } from "akasha/agents/seats/supervisors/process/modules/supervisor-types/supervisor-types.module.code.ts"
+import { LIVE_DEFERRED_RESTART_RULE } from "akasha/agents/seats/supervisors/restarting/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
 import { recordTermiosState } from "akasha/agents/seats/supervisors/shutdown/modules/supervisor-terminal/supervisor-terminal.module.code.ts"
 
 export async function runInteractive(

@@ -1,10 +1,10 @@
-import type { armDeferredRestart } from "akasha/agents/seats/supervisors/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"
+import type { IdleRuleSource } from "akasha/agents/seats/supervisors/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+import type { armDeferredRestart } from "akasha/agents/seats/supervisors/restarting/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"
 import type {
   DeferredRestartRuleSource,
   DeferredRestartWindows,
-} from "akasha/agents/seats/supervisors/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
-import type { IdleRuleSource } from "akasha/agents/seats/supervisors/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
-import { readProcessStartMs } from "akasha/agents/seats/supervisors/modules/supervisor-precliff-restart/supervisor-precliff-restart.module.code.ts"
+} from "akasha/agents/seats/supervisors/restarting/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
+import { readProcessStartMs } from "akasha/agents/seats/supervisors/restarting/modules/supervisor-precliff-restart/supervisor-precliff-restart.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 export interface IdleGateConfig {

@@ -21,6 +21,17 @@ import {
   rawEnv,
 } from "akasha/agents/seats/supervisors/modules/supervisor-decide-rule-inputs/supervisor-decide-rule-inputs.module.code.ts"
 import {
+  isIdleForPreservingRestart,
+  isIdleForPreservingRestartPastCliff,
+  isIgnoredMcpChildCmdline,
+  preservingRestartBusyReason,
+} from "akasha/agents/seats/supervisors/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
+import {
+  decideProxyAdoption,
+  type ProxyAdoptionInput,
+} from "akasha/agents/seats/supervisors/modules/supervisor-proxy-adoption-decide/supervisor-proxy-adoption-decide.module.code.ts"
+import { decideProxyLiveness } from "akasha/agents/seats/supervisors/modules/supervisor-proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts"
+import {
   decideDeferredRestart,
   EDGE_CONNECTION_CLIFF_OVERRIDE_MS,
   EDGE_CONNECTION_CLIFF_PREEMPT_MS,
@@ -28,22 +39,11 @@ import {
   resolveMaxDeferMs,
   resolvePreCliffOverrideMs,
   resolveStaleWedgeMs,
-} from "akasha/agents/seats/supervisors/modules/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.code.ts"
-import {
-  isIdleForPreservingRestart,
-  isIdleForPreservingRestartPastCliff,
-  isIgnoredMcpChildCmdline,
-  preservingRestartBusyReason,
-} from "akasha/agents/seats/supervisors/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
+} from "akasha/agents/seats/supervisors/restarting/modules/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.code.ts"
 import {
   decidePreCliffRestart,
   type PreCliffObservation,
-} from "akasha/agents/seats/supervisors/modules/supervisor-precliff-restart-decide/supervisor-precliff-restart-decide.module.code.ts"
-import {
-  decideProxyAdoption,
-  type ProxyAdoptionInput,
-} from "akasha/agents/seats/supervisors/modules/supervisor-proxy-adoption-decide/supervisor-proxy-adoption-decide.module.code.ts"
-import { decideProxyLiveness } from "akasha/agents/seats/supervisors/modules/supervisor-proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts"
+} from "akasha/agents/seats/supervisors/restarting/modules/supervisor-precliff-restart-decide/supervisor-precliff-restart-decide.module.code.ts"
 import {
   arr,
   bool,

@@ -4,17 +4,17 @@ import type {
   ChildExitStatus,
 } from "akasha/agents/seats/supervisors/child/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import { STOP_REASON } from "akasha/agents/seats/supervisors/child/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
-import {
-  type DeferredRestartConfig,
-  type DeferredRestartObservation,
-  type DeferredRestartState,
-  INITIAL_DEFERRED_RESTART_STATE,
-} from "akasha/agents/seats/supervisors/modules/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.code.ts"
 import type { IdleObservation } from "akasha/agents/seats/supervisors/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import {
   INITIAL_PROXY_LIVENESS_STATE,
   type ProxyLivenessState,
 } from "akasha/agents/seats/supervisors/modules/supervisor-proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts"
+import {
+  type DeferredRestartConfig,
+  type DeferredRestartObservation,
+  type DeferredRestartState,
+  INITIAL_DEFERRED_RESTART_STATE,
+} from "akasha/agents/seats/supervisors/restarting/modules/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.code.ts"
 import {
   bool,
   maybe,
