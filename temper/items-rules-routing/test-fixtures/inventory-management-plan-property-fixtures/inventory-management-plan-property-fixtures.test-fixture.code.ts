@@ -15,7 +15,7 @@ import {
   makeItem,
   makeLocation,
   makeRule,
-} from "akasha/temper/items-rules-routing/modules/inventory-management-plan-test-utils/inventory-management-plan-test-utils.module.code.ts"
+} from "akasha/temper/items-rules-routing/test-fixtures/inventory-management-plan-test-utils/inventory-management-plan-test-utils.test-fixture.code.ts"
 import type { ManagementPlan } from "akasha/temper/items-rules-routing-core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import fc from "fast-check"
 

@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { makeItem } from "akasha/temper/items-rules-routing/modules/inventory-management-plan-test-utils/inventory-management-plan-test-utils.module.code.ts"
+import { makeItem } from "akasha/temper/items-rules-routing/test-fixtures/inventory-management-plan-test-utils/inventory-management-plan-test-utils.test-fixture.code.ts"
 
 const MANY = 1000
 
