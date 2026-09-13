@@ -8,7 +8,7 @@ export const skill = {
   icon: "file-text",
   apiVersion: "eso.live.12.0.8.3288357",
   manifestApiVersion: 101050,
-  capturedAt: "2026-09-13T20:51:15.498Z",
+  capturedAt: "2026-09-13T20:58:02.578Z",
   generatorRanForVersion: "eso.live.11.3.6.3240040",
   generatorRanForManifestApiVersion: 101049,
   dormant: true,
