@@ -145,6 +145,11 @@ export const noUnusedExports = {
       statement:
         "The `routes` a tunnel routes file exports is reached by the tunnel route discovery.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The `BUILD_ENV` a manifest's code exports is reached by the deploy building that app.",
+    },
   ],
   check: { maxCpuSeconds: 30 },
   audit: { maxCpuSeconds: 120 },

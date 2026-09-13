@@ -55,6 +55,10 @@ const RUN_GUARD = "runGuard"
 
 const CHECK = "code-check"
 
+const MANIFEST = "manifest"
+
+const BUILD_ENV = "BUILD_ENV"
+
 const ROOT_ROUTE = "root.tsx"
 
 const APP_LAYOUT = "_app-layout.tsx"
@@ -194,6 +198,7 @@ function luaNamed(path: string, said: Parted, bodyOf: Bodied): string | null {
 function reachedBeside(said: Parted): string | null {
   if (besideCode(said, COMPUTED)) return WORK
   if (besideCode(said, GUARD)) return RUN_GUARD
+  if (besideCode(said, MANIFEST)) return BUILD_ENV
   if (besideCode(said, COMMAND) || besideCode(said, CHECK)) return exportedAs(said.slug)
   return null
 }
