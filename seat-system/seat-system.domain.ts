@@ -144,7 +144,6 @@ export const seatSystem = {
     "page-type/seat-conditions",
     "page-type/seat-log-day",
     "page-type/seat-turn-state",
-    "page-type/subagent",
     "page-type/subagent-kind",
     "page-type/supervisor-action",
     "service-workstation/maintain-seat-pending",
