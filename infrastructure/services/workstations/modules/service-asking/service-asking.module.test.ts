@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
+import { asked } from "akasha/infrastructure/services/workstations/modules/service-asking/service-asking.module.code.ts"
 import type { Ran } from "akasha/infrastructure/services/workstations/modules/service-installing/service-installing.module.code.ts"
-import { asked } from "akasha/infrastructure/services/workstations/modules/service-restarting/service-restarting.module.code.ts"
 
 const RELOAD: readonly string[] = ["daemon-reload"]
 

@@ -1,9 +1,9 @@
 import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
-export const serviceRestarting = {
+export const serviceAsking = {
   id: "01a09424-ecd8-7c1f-b068-99932a16c139",
   type: "module",
-  slug: "service-restarting",
+  slug: "service-asking",
   definition: "a systemctl call made so that what it throws is answered rather than thrown on",
   code: "ts",
   test: "ts",

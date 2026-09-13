@@ -15,7 +15,7 @@ import {
   scopeFor,
   scopeLoaded,
 } from "akasha/infrastructure/services/modules/deploy-looping/deploy-looping.module.code.ts"
-import type { Running } from "akasha/infrastructure/services/workstations/modules/service-restarting/service-restarting.module.code.ts"
+import type { Running } from "akasha/infrastructure/services/workstations/modules/service-asking/service-asking.module.code.ts"
 import { SERVING_MARKER } from "akasha/utils/run/modules/run-relaying/run-relaying.module.code.ts"
 
 function candidate(slug: string): Candidate {

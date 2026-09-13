@@ -4,6 +4,10 @@ import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.
 import type { Linking } from "akasha/commands/modules/folder-linking/folder-linking.module.code.ts"
 import { treeIn } from "akasha/commands/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
 import {
+  asked,
+  type Running,
+} from "akasha/infrastructure/services/workstations/modules/service-asking/service-asking.module.code.ts"
+import {
   ourInstalled,
   stagingDir,
   systemctl,
@@ -14,10 +18,6 @@ import {
   everyService,
   SERVICE_PAGE_TYPE,
 } from "akasha/infrastructure/services/workstations/modules/service-reading/service-reading.module.code.ts"
-import {
-  asked,
-  type Running,
-} from "akasha/infrastructure/services/workstations/modules/service-restarting/service-restarting.module.code.ts"
 import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 
 const A_UNIT = "unit"

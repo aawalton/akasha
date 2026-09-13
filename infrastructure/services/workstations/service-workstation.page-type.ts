@@ -26,7 +26,7 @@ export const serviceWorkstation = {
     "module/service-installing",
     "module/service-putting-up",
     "module/service-reading",
-    "module/service-restarting",
+    "module/service-asking",
     "module/service-running",
     "module/service-watching",
     "module/service-wellness",
