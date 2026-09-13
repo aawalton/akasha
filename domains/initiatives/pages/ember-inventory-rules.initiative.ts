@@ -10,12 +10,12 @@ export const emberInventoryRules = {
     {
       statement: "A merchant or a banker opens without a wait Alan notices.",
       workingMemory:
-        "Alan says the wait predates the batching: optimization, not regression. His v6 trace: open-handler 3559ms, of which judging rules is 3124ms over 1235 runs and building facts only 281ms, so a facts cache is the wrong lever. cf2ac8b stops a run at the first match. Do not cache a slot's verdict across the three runs over the bank: the first locks the slot it judged, so the second must judge it afresh, and a cache would withdraw every lockable item.",
+        "Optimization, not regression. cf2ac8b stops a rule run at the first match and took the open handler from 3559ms to 904ms; judging fell 3124ms to 544ms and building facts is only 217ms, so a facts cache is the wrong lever. Do not cache a slot's verdict across the three runs over the bank: the first locks the slot it judged, so the second must judge it afresh, and a cache would withdraw every lockable item. TemperCrafting slot handlers read n=1609 total=384ms at a banker.",
     },
     {
       statement: "A banker stacks what the bags hold that will stack.",
       workingMemory:
-        "StackBag(bagId) is the whole of what the game exposes. A visit stacks the backpack and the storage it opened, both bank bags where Alan subscribes, and a bank closed early stacks too. e14fb69 waits for the moves to arrive first: the settle watched only the source shrinking, so StackBag could run before the items reached the backpack, once, with nothing retrying it. bfcfbfd counts partial stacks either side of each call, so whether StackBag reaches a bank bag after close is now answerable.",
+        "StackBag(bagId) is the whole of what the game exposes. A visit stacks the backpack and the storage it opened, both bank bags where Alan subscribes, and a bank closed early stacks too. e14fb69 waits for the moves to arrive first, and Alan's trace shows that working: backpack 24 to 21 on an aborted close. StackBag does reach a bank bag after the bank shuts, bag 2 going 50 to 49 on that same close, so the call stays. Bag 6 has not moved yet; watch it before reading anything into that.",
     },
     {
       statement:
