@@ -114,7 +114,6 @@ export function rootWith(named: readonly Named[], filedUnder: PageType = CHECK_P
         `  code: "ts",\n` +
         (one.raw ??
           `  runsOnChange: ${one.runsOn.includes("change")},\n` +
-            `  runsOnWorktree: ${one.runsOn.includes("worktree")},\n` +
             `  runsOnDeploy: ${one.runsOn.includes("deploy")},\n` +
             `  runsOnAudit: ${one.runsOn.includes("audit")},\n`) +
         (one.experimental === undefined ? "" : `  experimental: ${one.experimental},\n`) +

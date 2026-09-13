@@ -7,7 +7,6 @@ export const lintClean = {
   definition: "the check refusing a change the linter finds fault in",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

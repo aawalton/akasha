@@ -8,7 +8,6 @@ export const invariantRestatedOnAPartNarrowsIt = {
     "the check refusing an invariant a page and one of its parts both state word for word",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: false,
   invariants: [
     {

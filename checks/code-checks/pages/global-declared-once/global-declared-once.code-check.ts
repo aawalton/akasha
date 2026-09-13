@@ -7,7 +7,6 @@ export const globalDeclaredOnce = {
   definition: "the check refusing a global name a declaration file and another file both declare",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

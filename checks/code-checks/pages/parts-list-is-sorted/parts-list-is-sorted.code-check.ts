@@ -7,7 +7,6 @@ export const partsListIsSorted = {
   definition: "the check refusing a page naming its parts out of order",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

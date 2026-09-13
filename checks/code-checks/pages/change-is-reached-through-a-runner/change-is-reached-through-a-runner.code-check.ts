@@ -7,7 +7,6 @@ export const changeIsReachedThroughARunner = {
   definition: "the check refusing an import of a change's code from outside that change",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: true,
   runsOnAudit: true,
   invariants: [
     {

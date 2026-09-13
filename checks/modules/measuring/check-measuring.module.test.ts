@@ -128,7 +128,7 @@ test("a check holding no run the choice reached is not answered", () => {
     fresh: [{ phase: "change", cpuSeconds: 1, ranAt: agoOf(HOUR) }],
     stale: [
       { phase: "change", cpuSeconds: 9, ranAt: agoOf(DAY + 1) },
-      { phase: "worktree", cpuSeconds: 9, ranAt: agoOf(30 * DAY) },
+      { phase: "deploy", cpuSeconds: 9, ranAt: agoOf(30 * DAY) },
     ],
   })
 
@@ -276,18 +276,17 @@ test("how many runs a check holds is counted beside its averages", () => {
   expect(cost?.cpu).toBe(4)
 })
 
-test("the check group counts a worktree run and a deploy run beside a change run", () => {
+test("the check group counts a deploy run beside a change run", () => {
   const root = rootWith({
     one: [
       { phase: "change", cpuSeconds: 1 },
-      { phase: "worktree", cpuSeconds: 3 },
       { phase: "deploy", cpuSeconds: 8 },
     ],
   })
   const cost = costsIn(root, NOW, DAY_BACK).checks[0]
 
-  expect(cost?.runs).toBe(3)
-  expect(cost?.cpu).toBe(4)
+  expect(cost?.runs).toBe(2)
+  expect(cost?.cpu).toBe(4.5)
 })
 
 test("a check no run was judged at carries no average rather than an average of zero", () => {

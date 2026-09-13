@@ -7,7 +7,6 @@ export const nameFormatJudgesByOneShape = {
   definition: "the check refusing a name format not judging by one shape its own code hands over",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

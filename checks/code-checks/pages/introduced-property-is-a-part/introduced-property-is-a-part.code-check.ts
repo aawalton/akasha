@@ -7,7 +7,6 @@ export const introducedPropertyIsAPart = {
   definition: "the check with a page type to naming the properties it introduces among its parts",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

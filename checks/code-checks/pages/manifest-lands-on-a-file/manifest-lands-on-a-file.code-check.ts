@@ -7,7 +7,6 @@ export const manifestLandsOnAFile = {
   definition: "the check refusing a way into a package that lands where no file is",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

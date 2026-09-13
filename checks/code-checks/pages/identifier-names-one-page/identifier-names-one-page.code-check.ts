@@ -7,7 +7,6 @@ export const identifierNamesOnePage = {
   definition: "the check refusing a page with an identifier another page already has",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

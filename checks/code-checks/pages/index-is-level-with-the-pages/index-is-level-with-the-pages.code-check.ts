@@ -7,7 +7,6 @@ export const indexIsLevelWithThePages = {
   definition: "the check refusing an index entry that differs from what the pages say",
   runsOnChange: false,
   runsOnDeploy: false,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

@@ -7,7 +7,6 @@ export const indexAnswersAreLevelWithTheChange = {
   definition: "the check refusing a change whose index answers differ from what its files turn",
   runsOnChange: true,
   runsOnDeploy: false,
-  runsOnWorktree: false,
   runsOnAudit: false,
   invariants: [
     {

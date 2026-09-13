@@ -117,7 +117,7 @@ test("a phase takes only the checks that state it", () => {
   const every = everyIn(PHASE_CHECKS)
   expect(checksAt(every, "change").map((one) => one.slug)).toEqual(["admits-all"])
   expect(checksAt(every, "deploy").map((one) => one.slug)).toEqual(["refuses-all"])
-  expect(checksAt(every, "worktree")).toEqual([])
+  expect(checksAt(every, "audit")).toEqual([])
 })
 
 test("a check saying it is experimental is left out of every phase its page states", () => {

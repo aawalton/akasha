@@ -35,7 +35,7 @@ import { besideAt, partedIn } from "akasha/pages/modules/file-name/page-file-nam
 import { type Shadow, shadowAsked } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
-export type Phase = "change" | "worktree" | "deploy" | "audit"
+export type Phase = "change" | "deploy" | "audit"
 
 export type Gathered = {
   readonly slug: string
@@ -81,7 +81,7 @@ const NOT_GATHERED = "could not be gathered, so it judged nothing"
 const NONE_TAKES =
   "no check takes this change as input, so nothing judged it and a clean answer would mean nothing"
 
-const EVERY_PHASE: readonly Phase[] = ["change", "worktree", "deploy", "audit"]
+const EVERY_PHASE: readonly Phase[] = ["change", "deploy", "audit"]
 
 const AT_CHANGE: Phase = "change"
 
@@ -97,7 +97,6 @@ export function checkPagesIn(root: string): readonly string[] {
 
 const STATED: readonly (readonly [Phase, string])[] = [
   ["change", "runsOnChange"],
-  ["worktree", "runsOnWorktree"],
   ["deploy", "runsOnDeploy"],
   ["audit", "runsOnAudit"],
 ]

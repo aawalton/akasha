@@ -7,7 +7,6 @@ export const fileHasItsPage = {
   definition: "the check refusing a file in the akasha folder that no page claims",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

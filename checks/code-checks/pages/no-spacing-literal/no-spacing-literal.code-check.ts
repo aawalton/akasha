@@ -8,7 +8,6 @@ export const noSpacingLiteral = {
     "the check refusing a gap or padding written out rather than taken from a spacing step",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

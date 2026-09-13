@@ -7,7 +7,6 @@ export const noUnusedExports = {
   definition: "the check refusing a file exporting a value no other file names",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

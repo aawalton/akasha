@@ -7,7 +7,6 @@ export const noRuleInTwoFiles = {
   definition: "the check refusing a function whose rule is spelled in another file as well",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

@@ -7,7 +7,6 @@ export const keyNamesOneProperty = {
   definition: "the check with each of a declarer's keys to one property, narrowed where restated",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

@@ -8,7 +8,6 @@ export const noIndexPathSpelled = {
     "the check refusing code outside the indexes folder that spells a path into the index",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

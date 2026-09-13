@@ -7,7 +7,6 @@ export const commandTakesItsArgumentsThroughOneReader = {
   definition: "the check refusing a read of a command's call outside the one reader",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: false,
   invariants: [
     {

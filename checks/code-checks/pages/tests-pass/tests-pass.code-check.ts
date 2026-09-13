@@ -7,7 +7,6 @@ export const testsPass = {
   definition: "the check refusing a change whose tests do not pass",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

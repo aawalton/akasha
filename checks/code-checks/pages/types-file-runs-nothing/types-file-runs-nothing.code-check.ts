@@ -7,7 +7,6 @@ export const typesFileRunsNothing = {
   definition: "the check refusing anything but a declaration in a module's types file",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

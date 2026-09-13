@@ -14,7 +14,6 @@ export const folderMatchesAShape = {
   ],
   runsOnChange: false,
   runsOnDeploy: false,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

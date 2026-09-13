@@ -8,7 +8,6 @@ export const checkReachesAPathThroughTheIndex = {
   parts: ["module/specifier-placing"],
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

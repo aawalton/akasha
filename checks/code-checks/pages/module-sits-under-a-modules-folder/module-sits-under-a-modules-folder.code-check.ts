@@ -7,7 +7,6 @@ export const moduleSitsUnderAModulesFolder = {
   definition: "the check refusing a module page whose folder sits under no modules folder",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: true,
   runsOnAudit: true,
   invariants: [
     {

@@ -7,7 +7,6 @@ export const extensionHostReachesNoBunCode = {
   definition: "the check refusing bun code in the graph the editor's node host loads",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

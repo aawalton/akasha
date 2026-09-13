@@ -8,7 +8,6 @@ export const packageReachedWhereNamed = {
     "the check holding a package to the name its manifest states and the ways in it names",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

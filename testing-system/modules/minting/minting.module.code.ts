@@ -52,7 +52,6 @@ function valueFor(
     definition,
     code: "ts",
     runsOnChange: phase === "change",
-    runsOnWorktree: phase === "worktree",
     runsOnDeploy: phase === "deploy",
     runsOnAudit: phase === "audit",
   }

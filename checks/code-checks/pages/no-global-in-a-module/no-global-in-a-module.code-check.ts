@@ -7,7 +7,6 @@ export const noGlobalInAModule = {
   definition: "the check refusing a module body that declares a global",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

@@ -8,7 +8,6 @@ export const noRefusedSyntax = {
   parts: ["page-type/syntax-rule"],
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

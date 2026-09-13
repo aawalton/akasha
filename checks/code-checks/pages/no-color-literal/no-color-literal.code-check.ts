@@ -7,7 +7,6 @@ export const noColorLiteral = {
   definition: "the check refusing a color written out rather than taken from a design token",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

@@ -8,7 +8,6 @@ export const popoverKeepsItsViewportCap = {
     "the check refusing a popover whose class or prop undoes the viewport cap its wrapper sets",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

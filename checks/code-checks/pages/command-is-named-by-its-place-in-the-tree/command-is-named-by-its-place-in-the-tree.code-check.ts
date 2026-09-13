@@ -8,7 +8,6 @@ export const commandIsNamedByItsPlaceInTheTree = {
     "the check refusing a command, a namespace or a module misplaced or misnamed in the command tree",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

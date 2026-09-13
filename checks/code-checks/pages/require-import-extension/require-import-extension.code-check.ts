@@ -8,7 +8,6 @@ export const requireImportExtension = {
     "the check refusing a relative specifier written without the extension of the file it names",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

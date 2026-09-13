@@ -7,7 +7,6 @@ export const invariantStatementIsPlain = {
   definition: "the check refusing an invariant that is not written in plain language",
   runsOnChange: false,
   runsOnDeploy: false,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

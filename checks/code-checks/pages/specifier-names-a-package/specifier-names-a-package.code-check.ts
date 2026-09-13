@@ -7,7 +7,6 @@ export const specifierNamesAPackage = {
   definition: "the check refusing a specifier that reaches by a package name no manifest states",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

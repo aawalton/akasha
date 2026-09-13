@@ -7,7 +7,6 @@ export const typecheck = {
   definition: "the check refusing TypeScript that does not compile",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

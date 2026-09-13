@@ -8,7 +8,6 @@ export const browserCodeReadsTheEnvironmentByAName = {
     "the check refusing a bundled router app module reaching the environment by a key or a Next name",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

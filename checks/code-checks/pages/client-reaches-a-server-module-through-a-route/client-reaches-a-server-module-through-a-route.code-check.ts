@@ -8,7 +8,6 @@ export const clientReachesAServerModuleThroughARoute = {
     "the check refusing a router app module the browser bundle holds that reaches a server module",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

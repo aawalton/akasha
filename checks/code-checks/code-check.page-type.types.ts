@@ -5,7 +5,6 @@ import type { Experimental } from "akasha/checks/code-checks/properties/experime
 import type { RunsOnAudit } from "akasha/checks/code-checks/properties/runs-on-audit.boolean-property.types.ts"
 import type { RunsOnChange } from "akasha/checks/code-checks/properties/runs-on-change.boolean-property.types.ts"
 import type { RunsOnDeploy } from "akasha/checks/code-checks/properties/runs-on-deploy.boolean-property.types.ts"
-import type { RunsOnWorktree } from "akasha/checks/code-checks/properties/runs-on-worktree.boolean-property.types.ts"
 import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export type CodeCheck = Domain & {
@@ -13,7 +12,6 @@ export type CodeCheck = Domain & {
   check?: Check
   audit?: Audit
   runsOnChange: RunsOnChange
-  runsOnWorktree: RunsOnWorktree
   runsOnDeploy: RunsOnDeploy
   runsOnAudit: RunsOnAudit
   experimental?: Experimental

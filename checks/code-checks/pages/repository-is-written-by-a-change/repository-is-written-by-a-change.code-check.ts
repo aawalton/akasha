@@ -7,7 +7,6 @@ export const repositoryIsWrittenByAChange = {
   definition: "the check refusing code outside the changes that writes into the repository",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

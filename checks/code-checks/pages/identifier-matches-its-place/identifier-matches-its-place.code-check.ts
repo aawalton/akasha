@@ -7,7 +7,6 @@ export const identifierMatchesItsPlace = {
   definition: "the check refusing a declared name not written in the format its place states",
   runsOnChange: false,
   runsOnDeploy: false,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

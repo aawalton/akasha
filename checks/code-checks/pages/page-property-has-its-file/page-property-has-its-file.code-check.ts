@@ -7,7 +7,6 @@ export const pagePropertyHasItsFile = {
   definition: "the check refusing a page that states a property held in a file it does not have",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

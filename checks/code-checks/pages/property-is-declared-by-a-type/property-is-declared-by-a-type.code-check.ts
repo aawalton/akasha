@@ -7,7 +7,6 @@ export const propertyIsDeclaredByAType = {
   definition: "the check refusing a page property that no page type declares",
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

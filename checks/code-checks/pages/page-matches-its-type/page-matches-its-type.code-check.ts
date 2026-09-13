@@ -8,7 +8,6 @@ export const pageMatchesItsType = {
   parts: ["module/entry-reasons", "module/page-reasons"],
   runsOnChange: true,
   runsOnDeploy: true,
-  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

@@ -7,7 +7,6 @@ export const commandTakingTwoWordsIsTestedFromWords = {
   definition: "the check refusing a command whose word order is asserted by no test",
   runsOnChange: false,
   runsOnDeploy: false,
-  runsOnWorktree: false,
   runsOnAudit: false,
   invariants: [
     {
