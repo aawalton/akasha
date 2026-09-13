@@ -12,7 +12,12 @@ export const kellyClarksonLoveSoSoftRyanRibackRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-10-06",
-  externalId: "2L6G5GtNvOxGzMeoCQQa2I",
-  externalLink: "https://open.spotify.com/album/2L6G5GtNvOxGzMeoCQQa2I",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2L6G5GtNvOxGzMeoCQQa2I",
+      externalLink: "https://open.spotify.com/album/2L6G5GtNvOxGzMeoCQQa2I",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

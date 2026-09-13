@@ -12,7 +12,12 @@ export const kellyClarksonIDareYouLashRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-24",
-  externalId: "3kvs8dz4kILtu1LJtUYqZ1",
-  externalLink: "https://open.spotify.com/album/3kvs8dz4kILtu1LJtUYqZ1",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3kvs8dz4kILtu1LJtUYqZ1",
+      externalLink: "https://open.spotify.com/album/3kvs8dz4kILtu1LJtUYqZ1",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

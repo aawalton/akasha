@@ -12,7 +12,12 @@ export const leonardCohenYouWantItDarkerPaulKalkbrennerRemix = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2016-10-07",
-  externalId: "3UB8YB9qOAE4UcRVUlJdkn",
-  externalLink: "https://open.spotify.com/album/3UB8YB9qOAE4UcRVUlJdkn",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3UB8YB9qOAE4UcRVUlJdkn",
+      externalLink: "https://open.spotify.com/album/3UB8YB9qOAE4UcRVUlJdkn",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const kellyClarksonWhenChristmasComesAround = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-15",
-  externalId: "5sVFXIMrFRKBtDOexVlBBU",
-  externalLink: "https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5sVFXIMrFRKBtDOexVlBBU",
+      externalLink: "https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

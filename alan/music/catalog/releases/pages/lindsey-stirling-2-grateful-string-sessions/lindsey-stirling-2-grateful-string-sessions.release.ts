@@ -12,6 +12,11 @@ export const lindseyStirling2GratefulStringSessions = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-06-30",
-  externalId: "1lNIAeNrljVk5lQarVDsPO",
-  externalLink: "https://open.spotify.com/album/1lNIAeNrljVk5lQarVDsPO",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1lNIAeNrljVk5lQarVDsPO",
+      externalLink: "https://open.spotify.com/album/1lNIAeNrljVk5lQarVDsPO",
+    },
+  ],
 } as const satisfies Release

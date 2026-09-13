@@ -12,6 +12,11 @@ export const linkinParkEvolutionOfMikeShinoda = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-10-02",
-  externalId: "0CPTcgnt3VIejOtwDPhaQ0",
-  externalLink: "https://open.spotify.com/album/0CPTcgnt3VIejOtwDPhaQ0",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0CPTcgnt3VIejOtwDPhaQ0",
+      externalLink: "https://open.spotify.com/album/0CPTcgnt3VIejOtwDPhaQ0",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const linkinParkIridescentFromTransformers3DarkOfTheMoon = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2011-05-28",
-  externalId: "1SVY5PTqx4hzKijy53oRuJ",
-  externalLink: "https://open.spotify.com/album/1SVY5PTqx4hzKijy53oRuJ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1SVY5PTqx4hzKijy53oRuJ",
+      externalLink: "https://open.spotify.com/album/1SVY5PTqx4hzKijy53oRuJ",
+    },
+  ],
 } as const satisfies Release

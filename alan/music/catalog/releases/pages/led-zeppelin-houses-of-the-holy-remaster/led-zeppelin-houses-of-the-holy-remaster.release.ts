@@ -12,6 +12,11 @@ export const ledZeppelinHousesOfTheHolyRemaster = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1973-03-28",
-  externalId: "0GqpoHJREPp0iuXK3HzrHk",
-  externalLink: "https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0GqpoHJREPp0iuXK3HzrHk",
+      externalLink: "https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk",
+    },
+  ],
 } as const satisfies Release

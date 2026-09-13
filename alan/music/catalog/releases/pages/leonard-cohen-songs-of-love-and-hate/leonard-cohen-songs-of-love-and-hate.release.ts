@@ -12,7 +12,12 @@ export const leonardCohenSongsOfLoveAndHate = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1971-03-19",
-  externalId: "5WGGkUyTDomzIAdj9Vz6v9",
-  externalLink: "https://open.spotify.com/album/5WGGkUyTDomzIAdj9Vz6v9",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5WGGkUyTDomzIAdj9Vz6v9",
+      externalLink: "https://open.spotify.com/album/5WGGkUyTDomzIAdj9Vz6v9",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const linkinParkAThousandSunsLiveAroundTheWorld = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2012-06-19",
-  externalId: "0hJ3A7sih1AXDoMjXHLr7Q",
-  externalLink: "https://open.spotify.com/album/0hJ3A7sih1AXDoMjXHLr7Q",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0hJ3A7sih1AXDoMjXHLr7Q",
+      externalLink: "https://open.spotify.com/album/0hJ3A7sih1AXDoMjXHLr7Q",
+    },
+  ],
 } as const satisfies Release

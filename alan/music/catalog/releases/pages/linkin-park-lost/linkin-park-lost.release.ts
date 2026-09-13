@@ -12,6 +12,11 @@ export const linkinParkLost = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-02-10",
-  externalId: "7bN4OM5mtWq0UrAxdN6qMC",
-  externalLink: "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7bN4OM5mtWq0UrAxdN6qMC",
+      externalLink: "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC",
+    },
+  ],
 } as const satisfies Release

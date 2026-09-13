@@ -12,6 +12,11 @@ export const kpopDemonHuntersCastSodaPopFromTheNetflixFilmKpopDemonHunters = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-06-19",
-  externalId: "2UghdVFMf8TvVl55Bxho1w",
-  externalLink: "https://open.spotify.com/album/2UghdVFMf8TvVl55Bxho1w",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2UghdVFMf8TvVl55Bxho1w",
+      externalLink: "https://open.spotify.com/album/2UghdVFMf8TvVl55Bxho1w",
+    },
+  ],
 } as const satisfies Release

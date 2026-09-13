@@ -12,6 +12,11 @@ export const linkinParkLivingThings = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2012-06-19",
-  externalId: "4XHIjbhjRmqWlosjj5rqSI",
-  externalLink: "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4XHIjbhjRmqWlosjj5rqSI",
+      externalLink: "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI",
+    },
+  ],
 } as const satisfies Release

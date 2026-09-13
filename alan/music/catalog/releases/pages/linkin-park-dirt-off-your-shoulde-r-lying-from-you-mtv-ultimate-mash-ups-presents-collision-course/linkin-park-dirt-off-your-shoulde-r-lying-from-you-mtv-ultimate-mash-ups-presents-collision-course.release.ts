@@ -12,6 +12,11 @@ export const linkinParkDirtOffYourShouldeRLyingFromYouMtvUltimateMashUpsPresents
   unit: "minutes",
   status: "not-started",
   publishedAt: "2004-11-23",
-  externalId: "53wRDX5pmI3WAXfDvTiZ2L",
-  externalLink: "https://open.spotify.com/album/53wRDX5pmI3WAXfDvTiZ2L",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "53wRDX5pmI3WAXfDvTiZ2L",
+      externalLink: "https://open.spotify.com/album/53wRDX5pmI3WAXfDvTiZ2L",
+    },
+  ],
 } as const satisfies Release

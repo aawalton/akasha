@@ -12,7 +12,12 @@ export const kellyClarksonHeatLukeSolomonRemix2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-07-27",
-  externalId: "2CguArG1dSJPGSzdRCd8gk",
-  externalLink: "https://open.spotify.com/album/2CguArG1dSJPGSzdRCd8gk",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2CguArG1dSJPGSzdRCd8gk",
+      externalLink: "https://open.spotify.com/album/2CguArG1dSJPGSzdRCd8gk",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

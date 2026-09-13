@@ -12,7 +12,12 @@ export const kellyClarksonLoveSoSoftMrColliparkRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-10-25",
-  externalId: "7JFpSJ4K6HNzC8PatU8upP",
-  externalLink: "https://open.spotify.com/album/7JFpSJ4K6HNzC8PatU8upP",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7JFpSJ4K6HNzC8PatU8upP",
+      externalLink: "https://open.spotify.com/album/7JFpSJ4K6HNzC8PatU8upP",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

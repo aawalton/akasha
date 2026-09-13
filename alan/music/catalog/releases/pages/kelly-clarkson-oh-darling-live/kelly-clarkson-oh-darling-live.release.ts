@@ -12,7 +12,12 @@ export const kellyClarksonOhDarlingLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-03",
-  externalId: "35pnhJo7XUJj5OyglIHjpx",
-  externalLink: "https://open.spotify.com/album/35pnhJo7XUJj5OyglIHjpx",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "35pnhJo7XUJj5OyglIHjpx",
+      externalLink: "https://open.spotify.com/album/35pnhJo7XUJj5OyglIHjpx",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

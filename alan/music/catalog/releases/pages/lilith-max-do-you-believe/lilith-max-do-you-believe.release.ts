@@ -13,6 +13,11 @@ export const lilithMaxDoYouBelieve = {
   status: "completed",
   rank: "C",
   publishedAt: "2023-07-14",
-  externalId: "48djOOURVciSJQNwG2WJkN",
-  externalLink: "https://open.spotify.com/album/48djOOURVciSJQNwG2WJkN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "48djOOURVciSJQNwG2WJkN",
+      externalLink: "https://open.spotify.com/album/48djOOURVciSJQNwG2WJkN",
+    },
+  ],
 } as const satisfies Release

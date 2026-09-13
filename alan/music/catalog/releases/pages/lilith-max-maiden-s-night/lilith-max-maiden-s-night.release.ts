@@ -13,6 +13,11 @@ export const lilithMaxMaidenSNight = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-04-04",
-  externalId: "5JFT7uJtbgA3YKPuUQucBH",
-  externalLink: "https://open.spotify.com/album/5JFT7uJtbgA3YKPuUQucBH",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5JFT7uJtbgA3YKPuUQucBH",
+      externalLink: "https://open.spotify.com/album/5JFT7uJtbgA3YKPuUQucBH",
+    },
+  ],
 } as const satisfies Release

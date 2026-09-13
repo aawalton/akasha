@@ -13,6 +13,11 @@ export const lilithMaxCirce = {
   status: "completed",
   rank: "A",
   publishedAt: "2025-08-08",
-  externalId: "0IMBN2USITcvBJ4AWexejp",
-  externalLink: "https://open.spotify.com/album/0IMBN2USITcvBJ4AWexejp",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0IMBN2USITcvBJ4AWexejp",
+      externalLink: "https://open.spotify.com/album/0IMBN2USITcvBJ4AWexejp",
+    },
+  ],
 } as const satisfies Release

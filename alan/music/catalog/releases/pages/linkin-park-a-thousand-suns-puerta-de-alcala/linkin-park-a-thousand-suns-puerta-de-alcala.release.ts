@@ -12,6 +12,11 @@ export const linkinParkAThousandSunsPuertaDeAlcala = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2010-09-08",
-  externalId: "2AtlNffQq56uuNnyuhxrka",
-  externalLink: "https://open.spotify.com/album/2AtlNffQq56uuNnyuhxrka",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2AtlNffQq56uuNnyuhxrka",
+      externalLink: "https://open.spotify.com/album/2AtlNffQq56uuNnyuhxrka",
+    },
+  ],
 } as const satisfies Release

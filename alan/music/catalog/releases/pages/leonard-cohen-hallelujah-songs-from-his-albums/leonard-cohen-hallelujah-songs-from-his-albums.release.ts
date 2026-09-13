@@ -12,7 +12,12 @@ export const leonardCohenHallelujahSongsFromHisAlbums = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-06-03",
-  externalId: "0ZSKPKsorX97OZfuWQCa8x",
-  externalLink: "https://open.spotify.com/album/0ZSKPKsorX97OZfuWQCa8x",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0ZSKPKsorX97OZfuWQCa8x",
+      externalLink: "https://open.spotify.com/album/0ZSKPKsorX97OZfuWQCa8x",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

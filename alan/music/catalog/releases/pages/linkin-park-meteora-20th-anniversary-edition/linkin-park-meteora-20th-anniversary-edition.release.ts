@@ -12,6 +12,11 @@ export const linkinParkMeteora20thAnniversaryEdition = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-04-07",
-  externalId: "3Q9wXhEAX7NYCPP0hxIuDz",
-  externalLink: "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3Q9wXhEAX7NYCPP0hxIuDz",
+      externalLink: "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz",
+    },
+  ],
 } as const satisfies Release

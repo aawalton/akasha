@@ -12,6 +12,11 @@ export const metallicaMasterOfPuppetsRemasteredDeluxeBoxSet = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1986-03-03",
-  externalId: "7CGhx630DIjdJqaBDVKc5j",
-  externalLink: "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7CGhx630DIjdJqaBDVKc5j",
+      externalLink: "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j",
+    },
+  ],
 } as const satisfies Release

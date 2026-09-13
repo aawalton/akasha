@@ -12,7 +12,12 @@ export const kellyClarksonDanceVaultMixesSinceUBeenGoneRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2005-03-29",
-  externalId: "7hNpQCnCqxhvlYYtNp8WjZ",
-  externalLink: "https://open.spotify.com/album/7hNpQCnCqxhvlYYtNp8WjZ",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7hNpQCnCqxhvlYYtNp8WjZ",
+      externalLink: "https://open.spotify.com/album/7hNpQCnCqxhvlYYtNp8WjZ",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

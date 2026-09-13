@@ -12,7 +12,12 @@ export const kellyClarksonTakeYouHigh = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-02-26",
-  externalId: "5m9CHbxfVCk3UgbN7FlbBP",
-  externalLink: "https://open.spotify.com/album/5m9CHbxfVCk3UgbN7FlbBP",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5m9CHbxfVCk3UgbN7FlbBP",
+      externalLink: "https://open.spotify.com/album/5m9CHbxfVCk3UgbN7FlbBP",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

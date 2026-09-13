@@ -12,7 +12,12 @@ export const kellyClarksonMissIndependentJuniorVasquezTribal = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2003-09-23",
-  externalId: "5amDFKbMhtcUn2WHXnKe0W",
-  externalLink: "https://open.spotify.com/album/5amDFKbMhtcUn2WHXnKe0W",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5amDFKbMhtcUn2WHXnKe0W",
+      externalLink: "https://open.spotify.com/album/5amDFKbMhtcUn2WHXnKe0W",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

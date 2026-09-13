@@ -12,7 +12,12 @@ export const kellyClarksonIDareYouAppelleTonAmourFeatZaz = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-14",
-  externalId: "1BsWZM1Pz1KPxOUIMS2cor",
-  externalLink: "https://open.spotify.com/album/1BsWZM1Pz1KPxOUIMS2cor",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1BsWZM1Pz1KPxOUIMS2cor",
+      externalLink: "https://open.spotify.com/album/1BsWZM1Pz1KPxOUIMS2cor",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const kellyClarksonWrappedInRedRuffLoaderzRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-12-08",
-  externalId: "6uezYtcurghTwxTUlNfEcF",
-  externalLink: "https://open.spotify.com/album/6uezYtcurghTwxTUlNfEcF",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6uezYtcurghTwxTUlNfEcF",
+      externalLink: "https://open.spotify.com/album/6uezYtcurghTwxTUlNfEcF",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

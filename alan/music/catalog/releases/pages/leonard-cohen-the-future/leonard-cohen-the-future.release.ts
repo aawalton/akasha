@@ -12,7 +12,12 @@ export const leonardCohenTheFuture = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1992-10-22",
-  externalId: "7E4FRoU4Pk0WuO1SQMV1Bo",
-  externalLink: "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7E4FRoU4Pk0WuO1SQMV1Bo",
+      externalLink: "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

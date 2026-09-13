@@ -12,6 +12,11 @@ export const kpopDemonHuntersCastWhatItSoundsLikeFromTheNetflixFilmKpopDemonHunt
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-06-19",
-  externalId: "6rW9IybSVTDGSL3ewTzSa7",
-  externalLink: "https://open.spotify.com/album/6rW9IybSVTDGSL3ewTzSa7",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6rW9IybSVTDGSL3ewTzSa7",
+      externalLink: "https://open.spotify.com/album/6rW9IybSVTDGSL3ewTzSa7",
+    },
+  ],
 } as const satisfies Release

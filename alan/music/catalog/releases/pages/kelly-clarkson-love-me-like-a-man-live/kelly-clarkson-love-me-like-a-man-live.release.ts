@@ -12,7 +12,12 @@ export const kellyClarksonLoveMeLikeAManLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-03",
-  externalId: "4y6rcFKRtveo6JcayaZ4GR",
-  externalLink: "https://open.spotify.com/album/4y6rcFKRtveo6JcayaZ4GR",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4y6rcFKRtveo6JcayaZ4GR",
+      externalLink: "https://open.spotify.com/album/4y6rcFKRtveo6JcayaZ4GR",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

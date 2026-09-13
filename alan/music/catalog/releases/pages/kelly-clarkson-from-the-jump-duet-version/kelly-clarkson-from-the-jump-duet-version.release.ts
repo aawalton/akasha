@@ -12,7 +12,12 @@ export const kellyClarksonFromTheJumpDuetVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-04-19",
-  externalId: "1cScP0vTcI9hTtjoYMeosl",
-  externalLink: "https://open.spotify.com/album/1cScP0vTcI9hTtjoYMeosl",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1cScP0vTcI9hTtjoYMeosl",
+      externalLink: "https://open.spotify.com/album/1cScP0vTcI9hTtjoYMeosl",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

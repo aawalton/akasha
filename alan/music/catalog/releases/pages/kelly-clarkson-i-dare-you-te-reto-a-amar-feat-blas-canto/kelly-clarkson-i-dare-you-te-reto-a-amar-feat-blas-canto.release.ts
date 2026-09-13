@@ -12,7 +12,12 @@ export const kellyClarksonIDareYouTeRetoAAmarFeatBlasCanto = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-12",
-  externalId: "64afI65C3IUQN0Rzr2B2BU",
-  externalLink: "https://open.spotify.com/album/64afI65C3IUQN0Rzr2B2BU",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "64afI65C3IUQN0Rzr2B2BU",
+      externalLink: "https://open.spotify.com/album/64afI65C3IUQN0Rzr2B2BU",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

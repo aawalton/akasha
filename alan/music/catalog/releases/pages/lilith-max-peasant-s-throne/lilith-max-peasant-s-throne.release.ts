@@ -13,6 +13,11 @@ export const lilithMaxPeasantSThrone = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-01-19",
-  externalId: "1D9XYC5xBF8KODfw4bkKyN",
-  externalLink: "https://open.spotify.com/album/1D9XYC5xBF8KODfw4bkKyN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1D9XYC5xBF8KODfw4bkKyN",
+      externalLink: "https://open.spotify.com/album/1D9XYC5xBF8KODfw4bkKyN",
+    },
+  ],
 } as const satisfies Release

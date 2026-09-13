@@ -12,7 +12,12 @@ export const kellyClarksonUnderTheMistletoe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-28",
-  externalId: "2nndXLmS4C16yX7UJBWW2U",
-  externalLink: "https://open.spotify.com/album/2nndXLmS4C16yX7UJBWW2U",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2nndXLmS4C16yX7UJBWW2U",
+      externalLink: "https://open.spotify.com/album/2nndXLmS4C16yX7UJBWW2U",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

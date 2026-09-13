@@ -12,6 +12,11 @@ export const linkinParkTheCatalyst = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2010-08-02",
-  externalId: "0NpE9IgpJOslyw3TuEJ4b4",
-  externalLink: "https://open.spotify.com/album/0NpE9IgpJOslyw3TuEJ4b4",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0NpE9IgpJOslyw3TuEJ4b4",
+      externalLink: "https://open.spotify.com/album/0NpE9IgpJOslyw3TuEJ4b4",
+    },
+  ],
 } as const satisfies Release

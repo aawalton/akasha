@@ -12,6 +12,11 @@ export const ledZeppelinCelebrationDay = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2012-11-19",
-  externalId: "0kTe1sQd9yhDsdG2Zth7X6",
-  externalLink: "https://open.spotify.com/album/0kTe1sQd9yhDsdG2Zth7X6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0kTe1sQd9yhDsdG2Zth7X6",
+      externalLink: "https://open.spotify.com/album/0kTe1sQd9yhDsdG2Zth7X6",
+    },
+  ],
 } as const satisfies Release

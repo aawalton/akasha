@@ -13,6 +13,11 @@ export const lilithMaxStardust = {
   status: "completed",
   rank: "C",
   publishedAt: "2021-07-30",
-  externalId: "70HWnquH6Quz4BEPpxgubY",
-  externalLink: "https://open.spotify.com/album/70HWnquH6Quz4BEPpxgubY",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "70HWnquH6Quz4BEPpxgubY",
+      externalLink: "https://open.spotify.com/album/70HWnquH6Quz4BEPpxgubY",
+    },
+  ],
 } as const satisfies Release

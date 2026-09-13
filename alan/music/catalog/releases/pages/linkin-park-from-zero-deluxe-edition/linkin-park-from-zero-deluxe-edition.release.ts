@@ -12,6 +12,11 @@ export const linkinParkFromZeroDeluxeEdition = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-05-16",
-  externalId: "5QfFvOMOJ0CrIDmu33RmSJ",
-  externalLink: "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5QfFvOMOJ0CrIDmu33RmSJ",
+      externalLink: "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ",
+    },
+  ],
 } as const satisfies Release

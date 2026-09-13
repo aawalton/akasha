@@ -12,6 +12,11 @@ export const metallicaLiveSTBingePurge = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1993-11-23",
-  externalId: "4iBN00FZaKlaXVYfxV7bBQ",
-  externalLink: "https://open.spotify.com/album/4iBN00FZaKlaXVYfxV7bBQ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4iBN00FZaKlaXVYfxV7bBQ",
+      externalLink: "https://open.spotify.com/album/4iBN00FZaKlaXVYfxV7bBQ",
+    },
+  ],
 } as const satisfies Release

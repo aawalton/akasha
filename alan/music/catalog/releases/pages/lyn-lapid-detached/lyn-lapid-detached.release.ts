@@ -13,6 +13,11 @@ export const lynLapidDetached = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-10-07",
-  externalId: "7gqvota2LkWgkoqEI51Q3U",
-  externalLink: "https://open.spotify.com/album/7gqvota2LkWgkoqEI51Q3U",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7gqvota2LkWgkoqEI51Q3U",
+      externalLink: "https://open.spotify.com/album/7gqvota2LkWgkoqEI51Q3U",
+    },
+  ],
 } as const satisfies Release

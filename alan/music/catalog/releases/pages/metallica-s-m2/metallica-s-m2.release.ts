@@ -12,6 +12,11 @@ export const metallicaSM2 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-08-28",
-  externalId: "4vxkHVyS6D66Rwt0mpz0cS",
-  externalLink: "https://open.spotify.com/album/4vxkHVyS6D66Rwt0mpz0cS",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4vxkHVyS6D66Rwt0mpz0cS",
+      externalLink: "https://open.spotify.com/album/4vxkHVyS6D66Rwt0mpz0cS",
+    },
+  ],
 } as const satisfies Release

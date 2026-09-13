@@ -12,7 +12,12 @@ export const kellyClarksonKellyClarksonLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-12-09",
-  externalId: "4LLwHRxNL24BFuKPHgvGz6",
-  externalLink: "https://open.spotify.com/album/4LLwHRxNL24BFuKPHgvGz6",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4LLwHRxNL24BFuKPHgvGz6",
+      externalLink: "https://open.spotify.com/album/4LLwHRxNL24BFuKPHgvGz6",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

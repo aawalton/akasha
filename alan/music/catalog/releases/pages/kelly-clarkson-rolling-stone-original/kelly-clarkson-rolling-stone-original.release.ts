@@ -12,7 +12,12 @@ export const kellyClarksonRollingStoneOriginal = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2005-01-01",
-  externalId: "3E1lKPuevMDCQtSjhjzO3z",
-  externalLink: "https://open.spotify.com/album/3E1lKPuevMDCQtSjhjzO3z",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3E1lKPuevMDCQtSjhjzO3z",
+      externalLink: "https://open.spotify.com/album/3E1lKPuevMDCQtSjhjzO3z",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

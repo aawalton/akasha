@@ -12,6 +12,11 @@ export const katyPerryUrSoGay = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2007-11-20",
-  externalId: "7z3dHyhlbYMZ2uUFUNbJaa",
-  externalLink: "https://open.spotify.com/album/7z3dHyhlbYMZ2uUFUNbJaa",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7z3dHyhlbYMZ2uUFUNbJaa",
+      externalLink: "https://open.spotify.com/album/7z3dHyhlbYMZ2uUFUNbJaa",
+    },
+  ],
 } as const satisfies Release

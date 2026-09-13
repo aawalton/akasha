@@ -12,6 +12,11 @@ export const linkinParkNumbEncoreMtvUltimateMashUpsPresentsCollisionCourse = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2004-11-30",
-  externalId: "4lhyg7YGQagE8FT8cZBqyw",
-  externalLink: "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4lhyg7YGQagE8FT8cZBqyw",
+      externalLink: "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw",
+    },
+  ],
 } as const satisfies Release

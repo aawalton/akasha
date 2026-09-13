@@ -12,6 +12,11 @@ export const metallicaIfDarknessHadASon = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-03-01",
-  externalId: "07wqwU4JaQl7XTWwfiAobb",
-  externalLink: "https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "07wqwU4JaQl7XTWwfiAobb",
+      externalLink: "https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb",
+    },
+  ],
 } as const satisfies Release

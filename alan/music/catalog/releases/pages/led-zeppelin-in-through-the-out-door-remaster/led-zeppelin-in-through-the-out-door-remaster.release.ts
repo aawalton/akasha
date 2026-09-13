@@ -12,6 +12,11 @@ export const ledZeppelinInThroughTheOutDoorRemaster = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1979-08-15",
-  externalId: "1W5CtQ7Ng0kP3lXyz7PIT2",
-  externalLink: "https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1W5CtQ7Ng0kP3lXyz7PIT2",
+      externalLink: "https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2",
+    },
+  ],
 } as const satisfies Release

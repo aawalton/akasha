@@ -12,6 +12,11 @@ export const metallicaIDisappear = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2000-04-19",
-  externalId: "412VzhW8RnyldxUxC5pb8G",
-  externalLink: "https://open.spotify.com/album/412VzhW8RnyldxUxC5pb8G",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "412VzhW8RnyldxUxC5pb8G",
+      externalLink: "https://open.spotify.com/album/412VzhW8RnyldxUxC5pb8G",
+    },
+  ],
 } as const satisfies Release

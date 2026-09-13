@@ -13,6 +13,11 @@ export const lilithMaxSeraph = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-02-21",
-  externalId: "5GFkYfiLMu1nInWDh0AtQY",
-  externalLink: "https://open.spotify.com/album/5GFkYfiLMu1nInWDh0AtQY",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5GFkYfiLMu1nInWDh0AtQY",
+      externalLink: "https://open.spotify.com/album/5GFkYfiLMu1nInWDh0AtQY",
+    },
+  ],
 } as const satisfies Release

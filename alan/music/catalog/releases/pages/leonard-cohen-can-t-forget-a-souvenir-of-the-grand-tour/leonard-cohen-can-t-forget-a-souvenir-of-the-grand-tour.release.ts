@@ -12,7 +12,12 @@ export const leonardCohenCanTForgetASouvenirOfTheGrandTour = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2015-05-08",
-  externalId: "7yUDBh0Q2IjPctdv5pFP6b",
-  externalLink: "https://open.spotify.com/album/7yUDBh0Q2IjPctdv5pFP6b",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7yUDBh0Q2IjPctdv5pFP6b",
+      externalLink: "https://open.spotify.com/album/7yUDBh0Q2IjPctdv5pFP6b",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

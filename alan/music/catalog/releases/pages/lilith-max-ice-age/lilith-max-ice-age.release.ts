@@ -13,6 +13,11 @@ export const lilithMaxIceAge = {
   status: "completed",
   rank: "C",
   publishedAt: "2022-02-11",
-  externalId: "344KqSvf67AwF4KbF4ckNc",
-  externalLink: "https://open.spotify.com/album/344KqSvf67AwF4KbF4ckNc",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "344KqSvf67AwF4KbF4ckNc",
+      externalLink: "https://open.spotify.com/album/344KqSvf67AwF4KbF4ckNc",
+    },
+  ],
 } as const satisfies Release

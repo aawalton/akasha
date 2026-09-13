@@ -12,6 +12,11 @@ export const lindseyStirling2HaloThemeSong = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-05-17",
-  externalId: "1yvJE1JJ33MQqnnKQeLrda",
-  externalLink: "https://open.spotify.com/album/1yvJE1JJ33MQqnnKQeLrda",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1yvJE1JJ33MQqnnKQeLrda",
+      externalLink: "https://open.spotify.com/album/1yvJE1JJ33MQqnnKQeLrda",
+    },
+  ],
 } as const satisfies Release

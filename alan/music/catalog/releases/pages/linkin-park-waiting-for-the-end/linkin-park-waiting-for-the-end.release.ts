@@ -12,6 +12,11 @@ export const linkinParkWaitingForTheEnd = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2010-10-01",
-  externalId: "6KntytDKDCI7jorIZM9Biq",
-  externalLink: "https://open.spotify.com/album/6KntytDKDCI7jorIZM9Biq",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6KntytDKDCI7jorIZM9Biq",
+      externalLink: "https://open.spotify.com/album/6KntytDKDCI7jorIZM9Biq",
+    },
+  ],
 } as const satisfies Release

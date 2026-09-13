@@ -12,7 +12,12 @@ export const kellyClarksonYouForChristmas = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-27",
-  externalId: "30Kw3uH0UKxEllvLTZuE4q",
-  externalLink: "https://open.spotify.com/album/30Kw3uH0UKxEllvLTZuE4q",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "30Kw3uH0UKxEllvLTZuE4q",
+      externalLink: "https://open.spotify.com/album/30Kw3uH0UKxEllvLTZuE4q",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

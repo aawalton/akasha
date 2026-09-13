@@ -12,7 +12,12 @@ export const kellyClarksonIDareYouFeatMayaBuskila = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-10",
-  externalId: "4JpBARyDwcYd9LNCst1wS2",
-  externalLink: "https://open.spotify.com/album/4JpBARyDwcYd9LNCst1wS2",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4JpBARyDwcYd9LNCst1wS2",
+      externalLink: "https://open.spotify.com/album/4JpBARyDwcYd9LNCst1wS2",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

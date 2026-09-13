@@ -12,6 +12,11 @@ export const linkinParkPapercutsInstrumentals = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-06-28",
-  externalId: "494aUGKXMH5ruXtR3O1a3H",
-  externalLink: "https://open.spotify.com/album/494aUGKXMH5ruXtR3O1a3H",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "494aUGKXMH5ruXtR3O1a3H",
+      externalLink: "https://open.spotify.com/album/494aUGKXMH5ruXtR3O1a3H",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const lindseyStirling2EvilTwin = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-05-17",
-  externalId: "70ntdGVYxNVwsKafaIeIPy",
-  externalLink: "https://open.spotify.com/album/70ntdGVYxNVwsKafaIeIPy",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "70ntdGVYxNVwsKafaIeIPy",
+      externalLink: "https://open.spotify.com/album/70ntdGVYxNVwsKafaIeIPy",
+    },
+  ],
 } as const satisfies Release

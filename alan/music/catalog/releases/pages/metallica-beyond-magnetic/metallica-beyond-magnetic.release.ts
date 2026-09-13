@@ -12,6 +12,11 @@ export const metallicaBeyondMagnetic = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2011-12-13",
-  externalId: "5WSYGRqZDvQphb2Ugig4jh",
-  externalLink: "https://open.spotify.com/album/5WSYGRqZDvQphb2Ugig4jh",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5WSYGRqZDvQphb2Ugig4jh",
+      externalLink: "https://open.spotify.com/album/5WSYGRqZDvQphb2Ugig4jh",
+    },
+  ],
 } as const satisfies Release

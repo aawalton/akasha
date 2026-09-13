@@ -13,6 +13,11 @@ export const lilithMaxStorybook = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-11-04",
-  externalId: "3To2YTLFipG2F2TqHRau1r",
-  externalLink: "https://open.spotify.com/album/3To2YTLFipG2F2TqHRau1r",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3To2YTLFipG2F2TqHRau1r",
+      externalLink: "https://open.spotify.com/album/3To2YTLFipG2F2TqHRau1r",
+    },
+  ],
 } as const satisfies Release

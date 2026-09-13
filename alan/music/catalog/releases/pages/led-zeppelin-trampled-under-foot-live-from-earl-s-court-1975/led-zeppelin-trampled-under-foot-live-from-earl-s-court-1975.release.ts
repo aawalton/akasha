@@ -12,6 +12,11 @@ export const ledZeppelinTrampledUnderFootLiveFromEarlSCourt1975 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-07-24",
-  externalId: "28JQQKINEpVxzwlulEwKD3",
-  externalLink: "https://open.spotify.com/album/28JQQKINEpVxzwlulEwKD3",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "28JQQKINEpVxzwlulEwKD3",
+      externalLink: "https://open.spotify.com/album/28JQQKINEpVxzwlulEwKD3",
+    },
+  ],
 } as const satisfies Release

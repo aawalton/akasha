@@ -13,6 +13,11 @@ export const lynLapidDoUReally = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-02-03",
-  externalId: "0GF4XbJWS3wXBssOfKFbb6",
-  externalLink: "https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0GF4XbJWS3wXBssOfKFbb6",
+      externalLink: "https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6",
+    },
+  ],
 } as const satisfies Release

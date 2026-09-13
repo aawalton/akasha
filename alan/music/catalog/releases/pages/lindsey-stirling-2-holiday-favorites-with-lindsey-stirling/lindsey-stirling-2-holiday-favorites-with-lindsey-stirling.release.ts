@@ -12,7 +12,12 @@ export const lindseyStirling2HolidayFavoritesWithLindseyStirling = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-12-04",
-  externalId: "5MeXoEhbJsKVBZPmkWHULE",
-  externalLink: "https://open.spotify.com/album/5MeXoEhbJsKVBZPmkWHULE",
-  lastSyncedAt: "2025-12-08",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5MeXoEhbJsKVBZPmkWHULE",
+      externalLink: "https://open.spotify.com/album/5MeXoEhbJsKVBZPmkWHULE",
+      lastSyncedAt: "2025-12-08",
+    },
+  ],
 } as const satisfies Release

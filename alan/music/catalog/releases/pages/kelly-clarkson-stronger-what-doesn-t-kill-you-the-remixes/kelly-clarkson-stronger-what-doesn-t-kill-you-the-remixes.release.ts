@@ -12,7 +12,12 @@ export const kellyClarksonStrongerWhatDoesnTKillYouTheRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-02-03",
-  externalId: "1p9sin2qhmixugni0ya7gE",
-  externalLink: "https://open.spotify.com/album/1p9sin2qhmixugni0ya7gE",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1p9sin2qhmixugni0ya7gE",
+      externalLink: "https://open.spotify.com/album/1p9sin2qhmixugni0ya7gE",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

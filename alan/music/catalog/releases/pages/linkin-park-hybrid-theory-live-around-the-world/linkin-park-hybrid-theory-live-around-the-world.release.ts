@@ -12,6 +12,11 @@ export const linkinParkHybridTheoryLiveAroundTheWorld = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2012-05-31",
-  externalId: "1FiRqhpAowNK8gTl5sOhxZ",
-  externalLink: "https://open.spotify.com/album/1FiRqhpAowNK8gTl5sOhxZ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1FiRqhpAowNK8gTl5sOhxZ",
+      externalLink: "https://open.spotify.com/album/1FiRqhpAowNK8gTl5sOhxZ",
+    },
+  ],
 } as const satisfies Release

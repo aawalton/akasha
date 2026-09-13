@@ -12,6 +12,11 @@ export const linkinParkMeteoraLiveAroundTheWorld = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2012-06-05",
-  externalId: "4flcwtqnLoKZJ2wrCp1aJq",
-  externalLink: "https://open.spotify.com/album/4flcwtqnLoKZJ2wrCp1aJq",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4flcwtqnLoKZJ2wrCp1aJq",
+      externalLink: "https://open.spotify.com/album/4flcwtqnLoKZJ2wrCp1aJq",
+    },
+  ],
 } as const satisfies Release

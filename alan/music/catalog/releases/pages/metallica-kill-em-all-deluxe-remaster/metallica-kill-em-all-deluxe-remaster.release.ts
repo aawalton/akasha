@@ -12,6 +12,11 @@ export const metallicaKillEmAllDeluxeRemaster = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1983-07-25",
-  externalId: "7GttoSWxEi5lZvIWeSrh6n",
-  externalLink: "https://open.spotify.com/album/7GttoSWxEi5lZvIWeSrh6n",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7GttoSWxEi5lZvIWeSrh6n",
+      externalLink: "https://open.spotify.com/album/7GttoSWxEi5lZvIWeSrh6n",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const lilithMaxInMemory = {
   status: "completed",
   rank: "C",
   publishedAt: "2020-12-11",
-  externalId: "5n41iSqkZzXT1WvZS5YhfW",
-  externalLink: "https://open.spotify.com/album/5n41iSqkZzXT1WvZS5YhfW",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5n41iSqkZzXT1WvZS5YhfW",
+      externalLink: "https://open.spotify.com/album/5n41iSqkZzXT1WvZS5YhfW",
+    },
+  ],
 } as const satisfies Release

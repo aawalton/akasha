@@ -12,7 +12,12 @@ export const kellyClarksonMineTySunderlandRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-05-05",
-  externalId: "6xCPQfspxJvK0WZfMw6eqf",
-  externalLink: "https://open.spotify.com/album/6xCPQfspxJvK0WZfMw6eqf",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6xCPQfspxJvK0WZfMw6eqf",
+      externalLink: "https://open.spotify.com/album/6xCPQfspxJvK0WZfMw6eqf",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

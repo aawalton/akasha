@@ -12,7 +12,12 @@ export const leonardCohenSongsOfLeonardCohen = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1967-12-27",
-  externalId: "6EcqWi6PA9CbvtulGbEsPN",
-  externalLink: "https://open.spotify.com/album/6EcqWi6PA9CbvtulGbEsPN",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6EcqWi6PA9CbvtulGbEsPN",
+      externalLink: "https://open.spotify.com/album/6EcqWi6PA9CbvtulGbEsPN",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

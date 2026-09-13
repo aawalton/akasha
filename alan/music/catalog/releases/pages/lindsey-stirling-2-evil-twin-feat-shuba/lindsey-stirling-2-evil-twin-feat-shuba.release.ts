@@ -12,6 +12,11 @@ export const lindseyStirling2EvilTwinFeatShuba = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-05-30",
-  externalId: "5TdxDUUW3Teu2wnJDx7oMe",
-  externalLink: "https://open.spotify.com/album/5TdxDUUW3Teu2wnJDx7oMe",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5TdxDUUW3Teu2wnJDx7oMe",
+      externalLink: "https://open.spotify.com/album/5TdxDUUW3Teu2wnJDx7oMe",
+    },
+  ],
 } as const satisfies Release

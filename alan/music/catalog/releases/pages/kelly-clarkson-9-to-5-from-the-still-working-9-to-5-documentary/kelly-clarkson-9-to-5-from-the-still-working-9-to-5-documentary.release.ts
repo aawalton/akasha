@@ -12,7 +12,12 @@ export const kellyClarkson9To5FromTheStillWorking9To5Documentary = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-09-09",
-  externalId: "6PH9FkIY5DVDh0JUktLlLR",
-  externalLink: "https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6PH9FkIY5DVDh0JUktLlLR",
+      externalLink: "https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

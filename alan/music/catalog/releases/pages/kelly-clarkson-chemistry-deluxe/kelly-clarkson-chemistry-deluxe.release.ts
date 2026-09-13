@@ -12,7 +12,12 @@ export const kellyClarksonChemistryDeluxe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-09-22",
-  externalId: "3THFV3WrofiRQoBWNyZ54F",
-  externalLink: "https://open.spotify.com/album/3THFV3WrofiRQoBWNyZ54F",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3THFV3WrofiRQoBWNyZ54F",
+      externalLink: "https://open.spotify.com/album/3THFV3WrofiRQoBWNyZ54F",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

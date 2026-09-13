@@ -12,7 +12,12 @@ export const kellyClarksonNeverEnough = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-11-09",
-  externalId: "3THom8qoWFJIQZ8oUHU2uX",
-  externalLink: "https://open.spotify.com/album/3THom8qoWFJIQZ8oUHU2uX",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3THom8qoWFJIQZ8oUHU2uX",
+      externalLink: "https://open.spotify.com/album/3THom8qoWFJIQZ8oUHU2uX",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const linkinParkFriendlyFire = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-02-23",
-  externalId: "601IEigQO3enlyrbn4SpNM",
-  externalLink: "https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "601IEigQO3enlyrbn4SpNM",
+      externalLink: "https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM",
+    },
+  ],
 } as const satisfies Release

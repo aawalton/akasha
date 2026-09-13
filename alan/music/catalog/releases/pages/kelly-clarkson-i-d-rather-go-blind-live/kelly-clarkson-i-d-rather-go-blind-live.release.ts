@@ -12,7 +12,12 @@ export const kellyClarksonIDRatherGoBlindLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-03",
-  externalId: "7DoR6JyqLpo0w259mGwElg",
-  externalLink: "https://open.spotify.com/album/7DoR6JyqLpo0w259mGwElg",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7DoR6JyqLpo0w259mGwElg",
+      externalLink: "https://open.spotify.com/album/7DoR6JyqLpo0w259mGwElg",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

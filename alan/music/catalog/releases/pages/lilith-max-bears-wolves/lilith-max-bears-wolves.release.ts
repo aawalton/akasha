@@ -13,6 +13,11 @@ export const lilithMaxBearsWolves = {
   status: "completed",
   rank: "A",
   publishedAt: "2024-11-15",
-  externalId: "2pQqwJbB4bS6kJN1Cw4dlK",
-  externalLink: "https://open.spotify.com/album/2pQqwJbB4bS6kJN1Cw4dlK",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2pQqwJbB4bS6kJN1Cw4dlK",
+      externalLink: "https://open.spotify.com/album/2pQqwJbB4bS6kJN1Cw4dlK",
+    },
+  ],
 } as const satisfies Release

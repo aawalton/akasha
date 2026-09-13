@@ -12,6 +12,11 @@ export const katyPerryWavingThroughAWindowFromDearEvanHansen = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-11-02",
-  externalId: "6BabrVf6FzOZVIZsvpZasb",
-  externalLink: "https://open.spotify.com/album/6BabrVf6FzOZVIZsvpZasb",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6BabrVf6FzOZVIZsvpZasb",
+      externalLink: "https://open.spotify.com/album/6BabrVf6FzOZVIZsvpZasb",
+    },
+  ],
 } as const satisfies Release

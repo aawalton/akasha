@@ -12,7 +12,12 @@ export const kellyClarksonHeatEasyStarAllStarsMichaelGoldwasserReggaeRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-01-04",
-  externalId: "6iw0irDq4YFg5RlGmqow80",
-  externalLink: "https://open.spotify.com/album/6iw0irDq4YFg5RlGmqow80",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6iw0irDq4YFg5RlGmqow80",
+      externalLink: "https://open.spotify.com/album/6iw0irDq4YFg5RlGmqow80",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const kellyClarksonLoveSoSoftCashCashRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-10-06",
-  externalId: "2o8OBWfk3Cvev4BFTuAOxB",
-  externalLink: "https://open.spotify.com/album/2o8OBWfk3Cvev4BFTuAOxB",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2o8OBWfk3Cvev4BFTuAOxB",
+      externalLink: "https://open.spotify.com/album/2o8OBWfk3Cvev4BFTuAOxB",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

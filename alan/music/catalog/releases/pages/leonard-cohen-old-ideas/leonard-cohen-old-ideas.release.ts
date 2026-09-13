@@ -12,7 +12,12 @@ export const leonardCohenOldIdeas = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2012-03-28",
-  externalId: "0waLDJlCfXkXIwFGdBZ6UK",
-  externalLink: "https://open.spotify.com/album/0waLDJlCfXkXIwFGdBZ6UK",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0waLDJlCfXkXIwFGdBZ6UK",
+      externalLink: "https://open.spotify.com/album/0waLDJlCfXkXIwFGdBZ6UK",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

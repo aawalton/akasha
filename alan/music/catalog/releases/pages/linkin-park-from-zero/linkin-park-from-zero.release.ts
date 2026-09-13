@@ -12,6 +12,11 @@ export const linkinParkFromZero = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-11-15",
-  externalId: "4R6FV9NSzhPihHR0h4pI93",
-  externalLink: "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4R6FV9NSzhPihHR0h4pI93",
+      externalLink: "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93",
+    },
+  ],
 } as const satisfies Release

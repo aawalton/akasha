@@ -12,6 +12,11 @@ export const linkinParkLostDemos = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-04-01",
-  externalId: "7gXR9Abk3ybA6DmEl5PmUG",
-  externalLink: "https://open.spotify.com/album/7gXR9Abk3ybA6DmEl5PmUG",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7gXR9Abk3ybA6DmEl5PmUG",
+      externalLink: "https://open.spotify.com/album/7gXR9Abk3ybA6DmEl5PmUG",
+    },
+  ],
 } as const satisfies Release

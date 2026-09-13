@@ -12,6 +12,11 @@ export const linkinParkHybridTheory20thAnniversaryEdition = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-10-09",
-  externalId: "28DUZ0itKISf2sr6hlseMy",
-  externalLink: "https://open.spotify.com/album/28DUZ0itKISf2sr6hlseMy",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "28DUZ0itKISf2sr6hlseMy",
+      externalLink: "https://open.spotify.com/album/28DUZ0itKISf2sr6hlseMy",
+    },
+  ],
 } as const satisfies Release

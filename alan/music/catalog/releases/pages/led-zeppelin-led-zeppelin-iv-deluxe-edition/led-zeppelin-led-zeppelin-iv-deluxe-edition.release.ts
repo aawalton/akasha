@@ -12,6 +12,11 @@ export const ledZeppelinLedZeppelinIvDeluxeEdition = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1971-11-08",
-  externalId: "44Ig8dzqOkvkGDzaUof9lK",
-  externalLink: "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "44Ig8dzqOkvkGDzaUof9lK",
+      externalLink: "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK",
+    },
+  ],
 } as const satisfies Release

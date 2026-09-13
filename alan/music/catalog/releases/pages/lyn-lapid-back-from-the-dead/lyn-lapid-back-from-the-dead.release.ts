@@ -13,6 +13,11 @@ export const lynLapidBackFromTheDead = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-05-17",
-  externalId: "3xiULM7K8q360Xg9jmon9x",
-  externalLink: "https://open.spotify.com/album/3xiULM7K8q360Xg9jmon9x",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3xiULM7K8q360Xg9jmon9x",
+      externalLink: "https://open.spotify.com/album/3xiULM7K8q360Xg9jmon9x",
+    },
+  ],
 } as const satisfies Release

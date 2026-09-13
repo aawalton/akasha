@@ -12,6 +12,11 @@ export const katyPerryWhenIMGoneWithKatyPerry = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-12-29",
-  externalId: "5itVTi6rI3MlOcWBxROxd9",
-  externalLink: "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5itVTi6rI3MlOcWBxROxd9",
+      externalLink: "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9",
+    },
+  ],
 } as const satisfies Release

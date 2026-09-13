@@ -13,6 +13,11 @@ export const lynLapidToLoveInThe21stCentury = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-06-23",
-  externalId: "18pzJc8GyrVQmunRXrY3ch",
-  externalLink: "https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "18pzJc8GyrVQmunRXrY3ch",
+      externalLink: "https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch",
+    },
+  ],
 } as const satisfies Release

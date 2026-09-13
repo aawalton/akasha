@@ -12,7 +12,12 @@ export const kellyClarksonIDareYouFeatFaouzia = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-13",
-  externalId: "6gWtultZeBwfN8DEA7IFTB",
-  externalLink: "https://open.spotify.com/album/6gWtultZeBwfN8DEA7IFTB",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6gWtultZeBwfN8DEA7IFTB",
+      externalLink: "https://open.spotify.com/album/6gWtultZeBwfN8DEA7IFTB",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

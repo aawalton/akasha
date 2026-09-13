@@ -12,7 +12,12 @@ export const kellyClarksonHeatNikoTheKidRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-12-14",
-  externalId: "4jY2DJaUtt3ATHb3ama6sA",
-  externalLink: "https://open.spotify.com/album/4jY2DJaUtt3ATHb3ama6sA",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4jY2DJaUtt3ATHb3ama6sA",
+      externalLink: "https://open.spotify.com/album/4jY2DJaUtt3ATHb3ama6sA",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

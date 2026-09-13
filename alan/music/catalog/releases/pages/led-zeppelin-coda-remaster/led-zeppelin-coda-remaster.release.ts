@@ -12,6 +12,11 @@ export const ledZeppelinCodaRemaster = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1982-11-19",
-  externalId: "228mANuRrV20jS5DCA0eER",
-  externalLink: "https://open.spotify.com/album/228mANuRrV20jS5DCA0eER",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "228mANuRrV20jS5DCA0eER",
+      externalLink: "https://open.spotify.com/album/228mANuRrV20jS5DCA0eER",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const kellyClarksonChristmastry = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-22",
-  externalId: "5YuOFYXZssU6b1v9DS4nLZ",
-  externalLink: "https://open.spotify.com/album/5YuOFYXZssU6b1v9DS4nLZ",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5YuOFYXZssU6b1v9DS4nLZ",
+      externalLink: "https://open.spotify.com/album/5YuOFYXZssU6b1v9DS4nLZ",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

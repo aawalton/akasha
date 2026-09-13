@@ -12,7 +12,12 @@ export const kellyClarksonReadyForLoveLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-03",
-  externalId: "163oSZZqScOgqtZVMGWfSu",
-  externalLink: "https://open.spotify.com/album/163oSZZqScOgqtZVMGWfSu",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "163oSZZqScOgqtZVMGWfSu",
+      externalLink: "https://open.spotify.com/album/163oSZZqScOgqtZVMGWfSu",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

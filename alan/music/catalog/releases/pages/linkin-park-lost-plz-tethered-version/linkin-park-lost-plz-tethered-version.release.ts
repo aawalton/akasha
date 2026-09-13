@@ -12,6 +12,11 @@ export const linkinParkLostPlzTetheredVersion = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-04-21",
-  externalId: "30LrTt6t4su1DMqI5dTjyv",
-  externalLink: "https://open.spotify.com/album/30LrTt6t4su1DMqI5dTjyv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "30LrTt6t4su1DMqI5dTjyv",
+      externalLink: "https://open.spotify.com/album/30LrTt6t4su1DMqI5dTjyv",
+    },
+  ],
 } as const satisfies Release

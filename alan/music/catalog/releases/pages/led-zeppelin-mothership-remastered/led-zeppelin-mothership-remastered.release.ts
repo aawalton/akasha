@@ -12,6 +12,11 @@ export const ledZeppelinMothershipRemastered = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2007-01-01",
-  externalId: "4wExFfncaUIqSgoxnqa3Eh",
-  externalLink: "https://open.spotify.com/album/4wExFfncaUIqSgoxnqa3Eh",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4wExFfncaUIqSgoxnqa3Eh",
+      externalLink: "https://open.spotify.com/album/4wExFfncaUIqSgoxnqa3Eh",
+    },
+  ],
 } as const satisfies Release

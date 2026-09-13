@@ -12,7 +12,12 @@ export const kellyClarksonFixYouLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-03",
-  externalId: "24iztyNV90nhTNB8URn0Ct",
-  externalLink: "https://open.spotify.com/album/24iztyNV90nhTNB8URn0Ct",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "24iztyNV90nhTNB8URn0Ct",
+      externalLink: "https://open.spotify.com/album/24iztyNV90nhTNB8URn0Ct",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

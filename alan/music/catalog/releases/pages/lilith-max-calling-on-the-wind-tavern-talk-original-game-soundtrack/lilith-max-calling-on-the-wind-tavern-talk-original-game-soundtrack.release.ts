@@ -13,6 +13,11 @@ export const lilithMaxCallingOnTheWindTavernTalkOriginalGameSoundtrack = {
   status: "completed",
   rank: "C",
   publishedAt: "2024-06-20",
-  externalId: "43Ug7sD5QSLVJXFyUt64Dn",
-  externalLink: "https://open.spotify.com/album/43Ug7sD5QSLVJXFyUt64Dn",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "43Ug7sD5QSLVJXFyUt64Dn",
+      externalLink: "https://open.spotify.com/album/43Ug7sD5QSLVJXFyUt64Dn",
+    },
+  ],
 } as const satisfies Release

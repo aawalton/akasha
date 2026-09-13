@@ -12,6 +12,11 @@ export const linkinParkLivingThingsAcapellasAndInstrumentals = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2012-06-19",
-  externalId: "7qRKpkP0jSOlBMLYZhAMCh",
-  externalLink: "https://open.spotify.com/album/7qRKpkP0jSOlBMLYZhAMCh",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7qRKpkP0jSOlBMLYZhAMCh",
+      externalLink: "https://open.spotify.com/album/7qRKpkP0jSOlBMLYZhAMCh",
+    },
+  ],
 } as const satisfies Release

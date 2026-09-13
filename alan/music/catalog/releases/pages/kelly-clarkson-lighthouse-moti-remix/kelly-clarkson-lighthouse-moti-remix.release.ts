@@ -12,7 +12,12 @@ export const kellyClarksonLighthouseMotiRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-03-15",
-  externalId: "6dqy51zAloFKvQ2jAvuqE3",
-  externalLink: "https://open.spotify.com/album/6dqy51zAloFKvQ2jAvuqE3",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6dqy51zAloFKvQ2jAvuqE3",
+      externalLink: "https://open.spotify.com/album/6dqy51zAloFKvQ2jAvuqE3",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

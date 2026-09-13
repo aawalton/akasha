@@ -12,6 +12,11 @@ export const metallicaHardwiredToSelfDestructDeluxe = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2016-11-18",
-  externalId: "1TKCBDHIWLiqjWTxomqniD",
-  externalLink: "https://open.spotify.com/album/1TKCBDHIWLiqjWTxomqniD",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1TKCBDHIWLiqjWTxomqniD",
+      externalLink: "https://open.spotify.com/album/1TKCBDHIWLiqjWTxomqniD",
+    },
+  ],
 } as const satisfies Release

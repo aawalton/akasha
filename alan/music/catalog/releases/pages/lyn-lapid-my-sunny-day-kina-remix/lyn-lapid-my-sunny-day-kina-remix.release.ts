@@ -13,6 +13,11 @@ export const lynLapidMySunnyDayKinaRemix = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-03-25",
-  externalId: "4GKIrekHWizVNtsyHFeWgV",
-  externalLink: "https://open.spotify.com/album/4GKIrekHWizVNtsyHFeWgV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4GKIrekHWizVNtsyHFeWgV",
+      externalLink: "https://open.spotify.com/album/4GKIrekHWizVNtsyHFeWgV",
+    },
+  ],
 } as const satisfies Release

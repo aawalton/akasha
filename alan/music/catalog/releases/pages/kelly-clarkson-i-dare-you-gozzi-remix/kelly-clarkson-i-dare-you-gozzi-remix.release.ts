@@ -12,7 +12,12 @@ export const kellyClarksonIDareYouGozziRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-03",
-  externalId: "78R2lJLPucpJ0MF35KJBaz",
-  externalLink: "https://open.spotify.com/album/78R2lJLPucpJ0MF35KJBaz",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "78R2lJLPucpJ0MF35KJBaz",
+      externalLink: "https://open.spotify.com/album/78R2lJLPucpJ0MF35KJBaz",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

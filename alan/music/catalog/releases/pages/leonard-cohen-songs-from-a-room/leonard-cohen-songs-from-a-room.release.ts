@@ -12,7 +12,12 @@ export const leonardCohenSongsFromARoom = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1969-03-24",
-  externalId: "2pTyJZOTqFYn2UPP30zZNl",
-  externalLink: "https://open.spotify.com/album/2pTyJZOTqFYn2UPP30zZNl",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2pTyJZOTqFYn2UPP30zZNl",
+      externalLink: "https://open.spotify.com/album/2pTyJZOTqFYn2UPP30zZNl",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

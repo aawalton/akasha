@@ -12,6 +12,11 @@ export const katyPerrySwishSwishValentinoKhanRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-06-30",
-  externalId: "4nBHxbpFjEtPuxif8qf7pv",
-  externalLink: "https://open.spotify.com/album/4nBHxbpFjEtPuxif8qf7pv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4nBHxbpFjEtPuxif8qf7pv",
+      externalLink: "https://open.spotify.com/album/4nBHxbpFjEtPuxif8qf7pv",
+    },
+  ],
 } as const satisfies Release

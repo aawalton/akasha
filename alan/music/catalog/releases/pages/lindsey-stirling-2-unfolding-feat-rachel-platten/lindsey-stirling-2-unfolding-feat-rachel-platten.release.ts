@@ -12,6 +12,11 @@ export const lindseyStirling2UnfoldingFeatRachelPlatten = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-04-25",
-  externalId: "4mcUzz4zw50qlaXysipUsI",
-  externalLink: "https://open.spotify.com/album/4mcUzz4zw50qlaXysipUsI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4mcUzz4zw50qlaXysipUsI",
+      externalLink: "https://open.spotify.com/album/4mcUzz4zw50qlaXysipUsI",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const linkinParkOneMoreLightSteveAokiChesterForeverRemix = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2017-10-25",
-  externalId: "51WStYbzUKG6O0XZd5Ta9x",
-  externalLink: "https://open.spotify.com/album/51WStYbzUKG6O0XZd5Ta9x",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "51WStYbzUKG6O0XZd5Ta9x",
+      externalLink: "https://open.spotify.com/album/51WStYbzUKG6O0XZd5Ta9x",
+    },
+  ],
 } as const satisfies Release

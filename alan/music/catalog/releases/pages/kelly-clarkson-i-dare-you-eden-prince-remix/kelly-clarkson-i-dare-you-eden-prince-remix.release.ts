@@ -12,7 +12,12 @@ export const kellyClarksonIDareYouEdenPrinceRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-15",
-  externalId: "0yA8I5kmppxZtjqGlZfJP2",
-  externalLink: "https://open.spotify.com/album/0yA8I5kmppxZtjqGlZfJP2",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0yA8I5kmppxZtjqGlZfJP2",
+      externalLink: "https://open.spotify.com/album/0yA8I5kmppxZtjqGlZfJP2",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

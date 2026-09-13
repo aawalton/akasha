@@ -12,7 +12,12 @@ export const kellyClarksonBecauseOfYouRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2006-03-21",
-  externalId: "7aGO8llWJb9DmDYS0SKTep",
-  externalLink: "https://open.spotify.com/album/7aGO8llWJb9DmDYS0SKTep",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7aGO8llWJb9DmDYS0SKTep",
+      externalLink: "https://open.spotify.com/album/7aGO8llWJb9DmDYS0SKTep",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

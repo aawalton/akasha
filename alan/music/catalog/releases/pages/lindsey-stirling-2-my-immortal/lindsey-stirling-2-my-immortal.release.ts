@@ -12,6 +12,11 @@ export const lindseyStirling2MyImmortal = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-10-01",
-  externalId: "4DzeDnY2sUTMSPqQI40GIs",
-  externalLink: "https://open.spotify.com/album/4DzeDnY2sUTMSPqQI40GIs",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4DzeDnY2sUTMSPqQI40GIs",
+      externalLink: "https://open.spotify.com/album/4DzeDnY2sUTMSPqQI40GIs",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const kellyClarksonDanceVaultMixesWalkAway2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2006-03-28",
-  externalId: "2MXLMfZ5VB7KjAU1DiStCS",
-  externalLink: "https://open.spotify.com/album/2MXLMfZ5VB7KjAU1DiStCS",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2MXLMfZ5VB7KjAU1DiStCS",
+      externalLink: "https://open.spotify.com/album/2MXLMfZ5VB7KjAU1DiStCS",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

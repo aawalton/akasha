@@ -12,7 +12,12 @@ export const kellyClarksonHeatWolvesByNightRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-01-18",
-  externalId: "1yi5SfHjsYMTseJXS4jDfw",
-  externalLink: "https://open.spotify.com/album/1yi5SfHjsYMTseJXS4jDfw",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1yi5SfHjsYMTseJXS4jDfw",
+      externalLink: "https://open.spotify.com/album/1yi5SfHjsYMTseJXS4jDfw",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

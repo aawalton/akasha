@@ -12,6 +12,11 @@ export const linkinParkMeteoraBonusEdition = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2003-03-25",
-  externalId: "0y13VbGddQ4azdVWakksAL",
-  externalLink: "https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0y13VbGddQ4azdVWakksAL",
+      externalLink: "https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const metallicaForWhomTheBellTollsLive = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-08-20",
-  externalId: "6JUqqwbNtGFsHmCxKhkfJo",
-  externalLink: "https://open.spotify.com/album/6JUqqwbNtGFsHmCxKhkfJo",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6JUqqwbNtGFsHmCxKhkfJo",
+      externalLink: "https://open.spotify.com/album/6JUqqwbNtGFsHmCxKhkfJo",
+    },
+  ],
 } as const satisfies Release

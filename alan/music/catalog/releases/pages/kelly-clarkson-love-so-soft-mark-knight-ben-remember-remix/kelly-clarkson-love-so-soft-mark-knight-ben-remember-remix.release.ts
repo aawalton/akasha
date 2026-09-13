@@ -12,7 +12,12 @@ export const kellyClarksonLoveSoSoftMarkKnightBenRememberRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-10-25",
-  externalId: "7Cl6UUqbPNnu0Smn0NRAYU",
-  externalLink: "https://open.spotify.com/album/7Cl6UUqbPNnu0Smn0NRAYU",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7Cl6UUqbPNnu0Smn0NRAYU",
+      externalLink: "https://open.spotify.com/album/7Cl6UUqbPNnu0Smn0NRAYU",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

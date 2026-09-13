@@ -12,7 +12,12 @@ export const kellyClarksonDanceVaultMixesBehindTheseHazelEyes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2005-08-01",
-  externalId: "0kpIPQLw3kiz27SHUmuBX7",
-  externalLink: "https://open.spotify.com/album/0kpIPQLw3kiz27SHUmuBX7",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0kpIPQLw3kiz27SHUmuBX7",
+      externalLink: "https://open.spotify.com/album/0kpIPQLw3kiz27SHUmuBX7",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

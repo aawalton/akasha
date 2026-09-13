@@ -12,6 +12,11 @@ export const linkinParkFromZeroACappellasInstrumentals = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-11-14",
-  externalId: "7qKEQkRXySP0rhjtXJksfg",
-  externalLink: "https://open.spotify.com/album/7qKEQkRXySP0rhjtXJksfg",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7qKEQkRXySP0rhjtXJksfg",
+      externalLink: "https://open.spotify.com/album/7qKEQkRXySP0rhjtXJksfg",
+    },
+  ],
 } as const satisfies Release

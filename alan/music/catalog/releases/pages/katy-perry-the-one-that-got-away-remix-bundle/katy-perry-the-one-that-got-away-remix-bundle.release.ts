@@ -12,6 +12,11 @@ export const katyPerryTheOneThatGotAwayRemixBundle = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2011-01-01",
-  externalId: "5AuJ6ugigi93QwLklDCflV",
-  externalLink: "https://open.spotify.com/album/5AuJ6ugigi93QwLklDCflV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5AuJ6ugigi93QwLklDCflV",
+      externalLink: "https://open.spotify.com/album/5AuJ6ugigi93QwLklDCflV",
+    },
+  ],
 } as const satisfies Release

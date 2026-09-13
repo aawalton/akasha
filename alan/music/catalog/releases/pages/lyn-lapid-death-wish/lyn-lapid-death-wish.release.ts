@@ -13,6 +13,11 @@ export const lynLapidDeathWish = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-03-28",
-  externalId: "2sGHtKgkeGmn5d8gpznBoH",
-  externalLink: "https://open.spotify.com/album/2sGHtKgkeGmn5d8gpznBoH",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2sGHtKgkeGmn5d8gpznBoH",
+      externalLink: "https://open.spotify.com/album/2sGHtKgkeGmn5d8gpznBoH",
+    },
+  ],
 } as const satisfies Release

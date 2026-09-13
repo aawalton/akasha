@@ -12,6 +12,11 @@ export const lindseyStirling2Artemis = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-09-06",
-  externalId: "1Fp7KUob6eXag90SkbBbnU",
-  externalLink: "https://open.spotify.com/album/1Fp7KUob6eXag90SkbBbnU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Fp7KUob6eXag90SkbBbnU",
+      externalLink: "https://open.spotify.com/album/1Fp7KUob6eXag90SkbBbnU",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const ledZeppelinTheSongRemainsTheSameRemaster = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1976-10-22",
-  externalId: "0ui4S0TZghkf1d1Wz0oWpk",
-  externalLink: "https://open.spotify.com/album/0ui4S0TZghkf1d1Wz0oWpk",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0ui4S0TZghkf1d1Wz0oWpk",
+      externalLink: "https://open.spotify.com/album/0ui4S0TZghkf1d1Wz0oWpk",
+    },
+  ],
 } as const satisfies Release

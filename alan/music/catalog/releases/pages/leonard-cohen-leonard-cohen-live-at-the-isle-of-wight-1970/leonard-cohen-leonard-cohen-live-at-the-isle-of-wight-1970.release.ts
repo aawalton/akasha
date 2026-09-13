@@ -12,7 +12,12 @@ export const leonardCohenLeonardCohenLiveAtTheIsleOfWight1970 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2009-10-20",
-  externalId: "30juFhWr8RPtDT75soYnJb",
-  externalLink: "https://open.spotify.com/album/30juFhWr8RPtDT75soYnJb",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "30juFhWr8RPtDT75soYnJb",
+      externalLink: "https://open.spotify.com/album/30juFhWr8RPtDT75soYnJb",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

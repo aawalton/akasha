@@ -12,7 +12,12 @@ export const kellyClarksonWhenChemistryComesAround = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-12-06",
-  externalId: "70t04rsb7d4zLcTeJKZlm9",
-  externalLink: "https://open.spotify.com/album/70t04rsb7d4zLcTeJKZlm9",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "70t04rsb7d4zLcTeJKZlm9",
+      externalLink: "https://open.spotify.com/album/70t04rsb7d4zLcTeJKZlm9",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

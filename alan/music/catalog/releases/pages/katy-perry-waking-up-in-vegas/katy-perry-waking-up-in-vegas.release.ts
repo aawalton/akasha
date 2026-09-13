@@ -12,6 +12,11 @@ export const katyPerryWakingUpInVegas = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2009-01-01",
-  externalId: "2WduoZBxhfVkWkibbJhxS8",
-  externalLink: "https://open.spotify.com/album/2WduoZBxhfVkWkibbJhxS8",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2WduoZBxhfVkWkibbJhxS8",
+      externalLink: "https://open.spotify.com/album/2WduoZBxhfVkWkibbJhxS8",
+    },
+  ],
 } as const satisfies Release

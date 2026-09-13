@@ -12,7 +12,12 @@ export const leonardCohenYouWantItDarker = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2016-10-21",
-  externalId: "3jeTB3j3QmUs8SPIVleHtU",
-  externalLink: "https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3jeTB3j3QmUs8SPIVleHtU",
+      externalLink: "https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

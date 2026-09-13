@@ -12,6 +12,11 @@ export const metallicaHelpingHandsLiveAcousticAtTheMasonic = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-02-01",
-  externalId: "3KESkLVC8ivaWmZAoDinoc",
-  externalLink: "https://open.spotify.com/album/3KESkLVC8ivaWmZAoDinoc",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3KESkLVC8ivaWmZAoDinoc",
+      externalLink: "https://open.spotify.com/album/3KESkLVC8ivaWmZAoDinoc",
+    },
+  ],
 } as const satisfies Release

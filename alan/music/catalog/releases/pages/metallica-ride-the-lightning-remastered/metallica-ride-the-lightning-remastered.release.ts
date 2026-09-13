@@ -12,6 +12,11 @@ export const metallicaRideTheLightningRemastered = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1984-07-27",
-  externalId: "1nTvIQEXvygqSIqc2vuwAz",
-  externalLink: "https://open.spotify.com/album/1nTvIQEXvygqSIqc2vuwAz",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1nTvIQEXvygqSIqc2vuwAz",
+      externalLink: "https://open.spotify.com/album/1nTvIQEXvygqSIqc2vuwAz",
+    },
+  ],
 } as const satisfies Release

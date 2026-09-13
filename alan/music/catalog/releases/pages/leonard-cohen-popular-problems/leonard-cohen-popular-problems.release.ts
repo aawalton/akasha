@@ -12,7 +12,12 @@ export const leonardCohenPopularProblems = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2014-09-16",
-  externalId: "1WkGbKUjhOMru7uYl25jJb",
-  externalLink: "https://open.spotify.com/album/1WkGbKUjhOMru7uYl25jJb",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1WkGbKUjhOMru7uYl25jJb",
+      externalLink: "https://open.spotify.com/album/1WkGbKUjhOMru7uYl25jJb",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

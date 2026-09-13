@@ -12,6 +12,11 @@ export const lindseyStirling2LoseYouNowAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-22",
-  externalId: "0CiJCYgMMfzGI6LSV0bBzA",
-  externalLink: "https://open.spotify.com/album/0CiJCYgMMfzGI6LSV0bBzA",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0CiJCYgMMfzGI6LSV0bBzA",
+      externalLink: "https://open.spotify.com/album/0CiJCYgMMfzGI6LSV0bBzA",
+    },
+  ],
 } as const satisfies Release

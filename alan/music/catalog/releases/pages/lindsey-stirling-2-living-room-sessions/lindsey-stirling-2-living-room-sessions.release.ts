@@ -12,6 +12,11 @@ export const lindseyStirling2LivingRoomSessions = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-01-18",
-  externalId: "4Sf9njqSZDhlmOnU14ZQTF",
-  externalLink: "https://open.spotify.com/album/4Sf9njqSZDhlmOnU14ZQTF",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4Sf9njqSZDhlmOnU14ZQTF",
+      externalLink: "https://open.spotify.com/album/4Sf9njqSZDhlmOnU14ZQTF",
+    },
+  ],
 } as const satisfies Release

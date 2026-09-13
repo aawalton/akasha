@@ -12,7 +12,12 @@ export const kellyClarksonPieceByPieceDeluxeVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-03-04",
-  externalId: "2puALR81qCmKmbOyuHAI94",
-  externalLink: "https://open.spotify.com/album/2puALR81qCmKmbOyuHAI94",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2puALR81qCmKmbOyuHAI94",
+      externalLink: "https://open.spotify.com/album/2puALR81qCmKmbOyuHAI94",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const metallicaScreamingSuicide = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-01-19",
-  externalId: "5RuyqGjhakCG2teiB6VkaC",
-  externalLink: "https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5RuyqGjhakCG2teiB6VkaC",
+      externalLink: "https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC",
+    },
+  ],
 } as const satisfies Release

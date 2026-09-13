@@ -12,6 +12,11 @@ export const linkinParkALightThatNeverComesRemix = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2014-01-21",
-  externalId: "32tg5xFm8LTrBXRFEpjv6A",
-  externalLink: "https://open.spotify.com/album/32tg5xFm8LTrBXRFEpjv6A",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "32tg5xFm8LTrBXRFEpjv6A",
+      externalLink: "https://open.spotify.com/album/32tg5xFm8LTrBXRFEpjv6A",
+    },
+  ],
 } as const satisfies Release

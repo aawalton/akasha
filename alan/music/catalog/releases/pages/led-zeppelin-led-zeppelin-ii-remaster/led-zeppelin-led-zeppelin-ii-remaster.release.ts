@@ -12,6 +12,11 @@ export const ledZeppelinLedZeppelinIiRemaster = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1969-10-22",
-  externalId: "58MQ0PLijVHePUonQlK76Y",
-  externalLink: "https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "58MQ0PLijVHePUonQlK76Y",
+      externalLink: "https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y",
+    },
+  ],
 } as const satisfies Release

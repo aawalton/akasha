@@ -12,6 +12,11 @@ export const kpopDemonHuntersCastKpopDemonHuntersSoundtrackFromTheNetflixFilm = 
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-06-20",
-  externalId: "14JkAa6IiFaOh5s0nMyMU9",
-  externalLink: "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "14JkAa6IiFaOh5s0nMyMU9",
+      externalLink: "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9",
+    },
+  ],
 } as const satisfies Release

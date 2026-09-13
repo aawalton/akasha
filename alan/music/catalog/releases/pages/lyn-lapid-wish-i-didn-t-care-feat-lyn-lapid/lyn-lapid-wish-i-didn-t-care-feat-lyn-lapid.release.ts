@@ -13,6 +13,11 @@ export const lynLapidWishIDidnTCareFeatLynLapid = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-05-09",
-  externalId: "0JqYditFjqjSPmhA7QKZpU",
-  externalLink: "https://open.spotify.com/album/0JqYditFjqjSPmhA7QKZpU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0JqYditFjqjSPmhA7QKZpU",
+      externalLink: "https://open.spotify.com/album/0JqYditFjqjSPmhA7QKZpU",
+    },
+  ],
 } as const satisfies Release

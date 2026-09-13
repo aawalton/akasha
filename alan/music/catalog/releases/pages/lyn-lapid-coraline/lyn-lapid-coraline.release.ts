@@ -13,6 +13,11 @@ export const lynLapidCoraline = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-01-31",
-  externalId: "5mfxTjYFFXaQ1MIqxybwU2",
-  externalLink: "https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5mfxTjYFFXaQ1MIqxybwU2",
+      externalLink: "https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2",
+    },
+  ],
 } as const satisfies Release

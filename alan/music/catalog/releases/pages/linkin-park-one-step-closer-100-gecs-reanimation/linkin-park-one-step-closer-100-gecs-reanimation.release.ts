@@ -12,6 +12,11 @@ export const linkinParkOneStepCloser100GecsReanimation = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-01-08",
-  externalId: "0kJJubTbpBWH9dwHmRl4qR",
-  externalLink: "https://open.spotify.com/album/0kJJubTbpBWH9dwHmRl4qR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0kJJubTbpBWH9dwHmRl4qR",
+      externalLink: "https://open.spotify.com/album/0kJJubTbpBWH9dwHmRl4qR",
+    },
+  ],
 } as const satisfies Release

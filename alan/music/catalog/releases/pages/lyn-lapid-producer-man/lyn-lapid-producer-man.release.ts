@@ -13,6 +13,11 @@ export const lynLapidProducerMan = {
   status: "completed",
   rank: "B",
   publishedAt: "2020-10-14",
-  externalId: "4TEbnRfzMNFYy2H6U2oRt4",
-  externalLink: "https://open.spotify.com/album/4TEbnRfzMNFYy2H6U2oRt4",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4TEbnRfzMNFYy2H6U2oRt4",
+      externalLink: "https://open.spotify.com/album/4TEbnRfzMNFYy2H6U2oRt4",
+    },
+  ],
 } as const satisfies Release

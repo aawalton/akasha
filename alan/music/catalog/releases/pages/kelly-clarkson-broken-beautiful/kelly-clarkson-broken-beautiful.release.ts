@@ -12,7 +12,12 @@ export const kellyClarksonBrokenBeautiful = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-03-27",
-  externalId: "5UHs9Jq0Vy5E3eUdkgcZvj",
-  externalLink: "https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5UHs9Jq0Vy5E3eUdkgcZvj",
+      externalLink: "https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

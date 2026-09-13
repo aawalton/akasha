@@ -12,6 +12,11 @@ export const ledZeppelinTheCompleteBbcSessionsRemastered = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2016-09-16",
-  externalId: "6VH2op0GKIl3WNTbZmmcmI",
-  externalLink: "https://open.spotify.com/album/6VH2op0GKIl3WNTbZmmcmI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6VH2op0GKIl3WNTbZmmcmI",
+      externalLink: "https://open.spotify.com/album/6VH2op0GKIl3WNTbZmmcmI",
+    },
+  ],
 } as const satisfies Release

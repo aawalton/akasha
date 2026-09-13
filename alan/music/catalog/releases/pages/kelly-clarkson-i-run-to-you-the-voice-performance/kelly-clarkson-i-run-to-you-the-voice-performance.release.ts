@@ -12,7 +12,12 @@ export const kellyClarksonIRunToYouTheVoicePerformance = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-18",
-  externalId: "5La9ktnZmlKPSzv4W9aLJP",
-  externalLink: "https://open.spotify.com/album/5La9ktnZmlKPSzv4W9aLJP",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5La9ktnZmlKPSzv4W9aLJP",
+      externalLink: "https://open.spotify.com/album/5La9ktnZmlKPSzv4W9aLJP",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

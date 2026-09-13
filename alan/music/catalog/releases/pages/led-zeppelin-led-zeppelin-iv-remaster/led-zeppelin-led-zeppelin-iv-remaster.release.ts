@@ -12,6 +12,11 @@ export const ledZeppelinLedZeppelinIvRemaster = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1971-11-08",
-  externalId: "5EyIDBAqhnlkAHqvPRwdbX",
-  externalLink: "https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5EyIDBAqhnlkAHqvPRwdbX",
+      externalLink: "https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX",
+    },
+  ],
 } as const satisfies Release

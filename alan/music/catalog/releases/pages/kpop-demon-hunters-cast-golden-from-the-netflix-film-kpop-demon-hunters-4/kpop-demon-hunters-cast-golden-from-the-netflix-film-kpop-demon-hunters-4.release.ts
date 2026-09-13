@@ -12,6 +12,11 @@ export const kpopDemonHuntersCastGoldenFromTheNetflixFilmKpopDemonHunters4 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-06-19",
-  externalId: "2q4uMcogIfSvbjZevQTIDL",
-  externalLink: "https://open.spotify.com/album/2q4uMcogIfSvbjZevQTIDL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2q4uMcogIfSvbjZevQTIDL",
+      externalLink: "https://open.spotify.com/album/2q4uMcogIfSvbjZevQTIDL",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const katyPerryUnpluggedLiveAtMtvUnpluggedNewYorkNy2009 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2009-11-13",
-  externalId: "1qAoFDC9NoiJ3zD5lst6pG",
-  externalLink: "https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1qAoFDC9NoiJ3zD5lst6pG",
+      externalLink: "https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG",
+    },
+  ],
 } as const satisfies Release

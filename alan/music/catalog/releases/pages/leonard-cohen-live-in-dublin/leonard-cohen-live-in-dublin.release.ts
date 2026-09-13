@@ -12,7 +12,12 @@ export const leonardCohenLiveInDublin = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2014-11-28",
-  externalId: "4CKs4nbhva7asiYqsZpMOi",
-  externalLink: "https://open.spotify.com/album/4CKs4nbhva7asiYqsZpMOi",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4CKs4nbhva7asiYqsZpMOi",
+      externalLink: "https://open.spotify.com/album/4CKs4nbhva7asiYqsZpMOi",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

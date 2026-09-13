@@ -12,6 +12,11 @@ export const lindseyStirling2ItAinTMeFeatKurtHugoSchneider = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-07-17",
-  externalId: "5lADouoV6pxMBncyavs5Ma",
-  externalLink: "https://open.spotify.com/album/5lADouoV6pxMBncyavs5Ma",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5lADouoV6pxMBncyavs5Ma",
+      externalLink: "https://open.spotify.com/album/5lADouoV6pxMBncyavs5Ma",
+    },
+  ],
 } as const satisfies Release

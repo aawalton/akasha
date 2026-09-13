@@ -12,6 +12,11 @@ export const metallicaMetallicaRemasteredDeluxeBoxSet = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1991-08-12",
-  externalId: "12nEtB2TU44qNHt6IsyIrZ",
-  externalLink: "https://open.spotify.com/album/12nEtB2TU44qNHt6IsyIrZ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "12nEtB2TU44qNHt6IsyIrZ",
+      externalLink: "https://open.spotify.com/album/12nEtB2TU44qNHt6IsyIrZ",
+    },
+  ],
 } as const satisfies Release

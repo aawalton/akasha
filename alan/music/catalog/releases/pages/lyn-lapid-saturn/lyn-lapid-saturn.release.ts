@@ -13,6 +13,11 @@ export const lynLapidSaturn = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-12-02",
-  externalId: "3zt7xkuRvDftoB76HEu3oH",
-  externalLink: "https://open.spotify.com/album/3zt7xkuRvDftoB76HEu3oH",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3zt7xkuRvDftoB76HEu3oH",
+      externalLink: "https://open.spotify.com/album/3zt7xkuRvDftoB76HEu3oH",
+    },
+  ],
 } as const satisfies Release

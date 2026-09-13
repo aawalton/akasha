@@ -12,6 +12,11 @@ export const lindseyStirling2BraveEnough = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-08-19",
-  externalId: "5EH0A5mhsGNCOPPpvi3RfF",
-  externalLink: "https://open.spotify.com/album/5EH0A5mhsGNCOPPpvi3RfF",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5EH0A5mhsGNCOPPpvi3RfF",
+      externalLink: "https://open.spotify.com/album/5EH0A5mhsGNCOPPpvi3RfF",
+    },
+  ],
 } as const satisfies Release

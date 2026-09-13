@@ -12,7 +12,12 @@ export const kellyClarksonAllIEverWanted = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2009-03-06",
-  externalId: "4h8seeFAi6iYhslcWIxTSG",
-  externalLink: "https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4h8seeFAi6iYhslcWIxTSG",
+      externalLink: "https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

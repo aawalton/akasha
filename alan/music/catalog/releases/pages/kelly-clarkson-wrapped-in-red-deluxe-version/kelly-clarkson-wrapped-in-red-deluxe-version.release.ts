@@ -12,7 +12,12 @@ export const kellyClarksonWrappedInRedDeluxeVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-10-29",
-  externalId: "0ccJYENQpzoy98XNBDwIVO",
-  externalLink: "https://open.spotify.com/album/0ccJYENQpzoy98XNBDwIVO",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0ccJYENQpzoy98XNBDwIVO",
+      externalLink: "https://open.spotify.com/album/0ccJYENQpzoy98XNBDwIVO",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

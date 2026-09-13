@@ -12,7 +12,12 @@ export const leonardCohenIMYourMan = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1988-02-02",
-  externalId: "3gUw30X6A7WEGcRdv1nFr9",
-  externalLink: "https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3gUw30X6A7WEGcRdv1nFr9",
+      externalLink: "https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

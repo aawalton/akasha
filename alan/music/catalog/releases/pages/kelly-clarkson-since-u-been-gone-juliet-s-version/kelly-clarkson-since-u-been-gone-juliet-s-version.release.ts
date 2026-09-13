@@ -12,7 +12,12 @@ export const kellyClarksonSinceUBeenGoneJulietSVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-16",
-  externalId: "4f5ao8f2W8n7Rx24Dpn9TT",
-  externalLink: "https://open.spotify.com/album/4f5ao8f2W8n7Rx24Dpn9TT",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4f5ao8f2W8n7Rx24Dpn9TT",
+      externalLink: "https://open.spotify.com/album/4f5ao8f2W8n7Rx24Dpn9TT",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

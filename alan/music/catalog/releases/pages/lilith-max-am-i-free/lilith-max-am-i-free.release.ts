@@ -13,6 +13,11 @@ export const lilithMaxAmIFree = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-11-03",
-  externalId: "1jKhdbNfkHIYzm2NYGXpLI",
-  externalLink: "https://open.spotify.com/album/1jKhdbNfkHIYzm2NYGXpLI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1jKhdbNfkHIYzm2NYGXpLI",
+      externalLink: "https://open.spotify.com/album/1jKhdbNfkHIYzm2NYGXpLI",
+    },
+  ],
 } as const satisfies Release

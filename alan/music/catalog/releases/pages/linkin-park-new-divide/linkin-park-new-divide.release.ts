@@ -12,6 +12,11 @@ export const linkinParkNewDivide = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2009-05-26",
-  externalId: "4zSLTDQZtXRZOAS9e0fiGM",
-  externalLink: "https://open.spotify.com/album/4zSLTDQZtXRZOAS9e0fiGM",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4zSLTDQZtXRZOAS9e0fiGM",
+      externalLink: "https://open.spotify.com/album/4zSLTDQZtXRZOAS9e0fiGM",
+    },
+  ],
 } as const satisfies Release

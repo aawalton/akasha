@@ -12,7 +12,12 @@ export const leonardCohenThanksForTheDance = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-11-22",
-  externalId: "603qWApi8Q89JnkVAbixrb",
-  externalLink: "https://open.spotify.com/album/603qWApi8Q89JnkVAbixrb",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "603qWApi8Q89JnkVAbixrb",
+      externalLink: "https://open.spotify.com/album/603qWApi8Q89JnkVAbixrb",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const lindseyStirling2OnTheRoadAgain = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-14",
-  externalId: "14xykOd1POb4x8tu0EYabH",
-  externalLink: "https://open.spotify.com/album/14xykOd1POb4x8tu0EYabH",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "14xykOd1POb4x8tu0EYabH",
+      externalLink: "https://open.spotify.com/album/14xykOd1POb4x8tu0EYabH",
+    },
+  ],
 } as const satisfies Release

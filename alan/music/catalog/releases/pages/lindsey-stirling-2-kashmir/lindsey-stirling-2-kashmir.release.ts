@@ -12,6 +12,11 @@ export const lindseyStirling2Kashmir = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-07-21",
-  externalId: "2gkfIjZgv6c01CpBHGeghB",
-  externalLink: "https://open.spotify.com/album/2gkfIjZgv6c01CpBHGeghB",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2gkfIjZgv6c01CpBHGeghB",
+      externalLink: "https://open.spotify.com/album/2gkfIjZgv6c01CpBHGeghB",
+    },
+  ],
 } as const satisfies Release

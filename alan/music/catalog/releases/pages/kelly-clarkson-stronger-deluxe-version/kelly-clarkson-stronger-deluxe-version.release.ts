@@ -12,7 +12,12 @@ export const kellyClarksonStrongerDeluxeVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2011-10-24",
-  externalId: "1MNvMtEmMMdBXZBDcFNcWj",
-  externalLink: "https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1MNvMtEmMMdBXZBDcFNcWj",
+      externalLink: "https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

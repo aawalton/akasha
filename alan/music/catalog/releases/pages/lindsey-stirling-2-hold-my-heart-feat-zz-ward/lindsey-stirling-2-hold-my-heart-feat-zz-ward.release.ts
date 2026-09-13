@@ -12,6 +12,11 @@ export const lindseyStirling2HoldMyHeartFeatZzWard = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-02-03",
-  externalId: "5lGkMiRfmGD3yhkwdFSlWD",
-  externalLink: "https://open.spotify.com/album/5lGkMiRfmGD3yhkwdFSlWD",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5lGkMiRfmGD3yhkwdFSlWD",
+      externalLink: "https://open.spotify.com/album/5lGkMiRfmGD3yhkwdFSlWD",
+    },
+  ],
 } as const satisfies Release

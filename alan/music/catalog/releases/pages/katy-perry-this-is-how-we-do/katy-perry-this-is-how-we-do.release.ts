@@ -12,6 +12,11 @@ export const katyPerryThisIsHowWeDo = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-08-25",
-  externalId: "4eY1j8WJYPSsSj6BLi6ku2",
-  externalLink: "https://open.spotify.com/album/4eY1j8WJYPSsSj6BLi6ku2",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4eY1j8WJYPSsSj6BLi6ku2",
+      externalLink: "https://open.spotify.com/album/4eY1j8WJYPSsSj6BLi6ku2",
+    },
+  ],
 } as const satisfies Release

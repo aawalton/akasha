@@ -12,7 +12,12 @@ export const leonardCohenSongsFromTheRoad = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2010-09-10",
-  externalId: "2gyoqhcdYUTxcgYxZQbFOD",
-  externalLink: "https://open.spotify.com/album/2gyoqhcdYUTxcgYxZQbFOD",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2gyoqhcdYUTxcgYxZQbFOD",
+      externalLink: "https://open.spotify.com/album/2gyoqhcdYUTxcgYxZQbFOD",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

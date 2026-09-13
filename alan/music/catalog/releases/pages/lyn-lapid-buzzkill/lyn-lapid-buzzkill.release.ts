@@ -13,6 +13,11 @@ export const lynLapidBuzzkill = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-04-25",
-  externalId: "41oBhRyeuyMHkVdp2LYVJE",
-  externalLink: "https://open.spotify.com/album/41oBhRyeuyMHkVdp2LYVJE",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "41oBhRyeuyMHkVdp2LYVJE",
+      externalLink: "https://open.spotify.com/album/41oBhRyeuyMHkVdp2LYVJE",
+    },
+  ],
 } as const satisfies Release

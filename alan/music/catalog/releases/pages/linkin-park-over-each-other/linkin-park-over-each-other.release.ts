@@ -12,6 +12,11 @@ export const linkinParkOverEachOther = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-10-24",
-  externalId: "09mU09ThtQmKfCgtEeiQZP",
-  externalLink: "https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "09mU09ThtQmKfCgtEeiQZP",
+      externalLink: "https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP",
+    },
+  ],
 } as const satisfies Release

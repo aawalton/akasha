@@ -12,6 +12,11 @@ export const lindseyStirling2DualityDeluxe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-08-15",
-  externalId: "0rbHZcUEIGUjC5a7e1v1QQ",
-  externalLink: "https://open.spotify.com/album/0rbHZcUEIGUjC5a7e1v1QQ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0rbHZcUEIGUjC5a7e1v1QQ",
+      externalLink: "https://open.spotify.com/album/0rbHZcUEIGUjC5a7e1v1QQ",
+    },
+  ],
 } as const satisfies Release

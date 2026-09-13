@@ -12,6 +12,11 @@ export const lindseyStirling2TheUpsideTheUpsideUndergroundFeatElleKing = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-08-02",
-  externalId: "0Y1bVjzUtJI5wIEYFncag4",
-  externalLink: "https://open.spotify.com/album/0Y1bVjzUtJI5wIEYFncag4",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0Y1bVjzUtJI5wIEYFncag4",
+      externalLink: "https://open.spotify.com/album/0Y1bVjzUtJI5wIEYFncag4",
+    },
+  ],
 } as const satisfies Release

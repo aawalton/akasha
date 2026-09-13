@@ -12,6 +12,11 @@ export const lindseyStirling2BestOfChristmasClassics = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-22",
-  externalId: "36ryPypXv6fd4peLrA8zso",
-  externalLink: "https://open.spotify.com/album/36ryPypXv6fd4peLrA8zso",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "36ryPypXv6fd4peLrA8zso",
+      externalLink: "https://open.spotify.com/album/36ryPypXv6fd4peLrA8zso",
+    },
+  ],
 } as const satisfies Release

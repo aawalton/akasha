@@ -12,7 +12,12 @@ export const kellyClarksonPeopleLikeUsRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-04-30",
-  externalId: "2mzLTXC7VT8Grfvm8IvfwJ",
-  externalLink: "https://open.spotify.com/album/2mzLTXC7VT8Grfvm8IvfwJ",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2mzLTXC7VT8Grfvm8IvfwJ",
+      externalLink: "https://open.spotify.com/album/2mzLTXC7VT8Grfvm8IvfwJ",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

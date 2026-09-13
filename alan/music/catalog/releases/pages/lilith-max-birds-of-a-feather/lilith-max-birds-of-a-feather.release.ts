@@ -13,6 +13,11 @@ export const lilithMaxBirdsOfAFeather = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-05-10",
-  externalId: "29dIjI91weJ6oK8VTejcpC",
-  externalLink: "https://open.spotify.com/album/29dIjI91weJ6oK8VTejcpC",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "29dIjI91weJ6oK8VTejcpC",
+      externalLink: "https://open.spotify.com/album/29dIjI91weJ6oK8VTejcpC",
+    },
+  ],
 } as const satisfies Release

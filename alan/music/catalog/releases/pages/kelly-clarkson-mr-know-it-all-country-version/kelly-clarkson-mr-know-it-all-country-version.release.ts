@@ -12,7 +12,12 @@ export const kellyClarksonMrKnowItAllCountryVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-04-03",
-  externalId: "4oiSIpVpFQPwkSFEb6stky",
-  externalLink: "https://open.spotify.com/album/4oiSIpVpFQPwkSFEb6stky",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4oiSIpVpFQPwkSFEb6stky",
+      externalLink: "https://open.spotify.com/album/4oiSIpVpFQPwkSFEb6stky",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

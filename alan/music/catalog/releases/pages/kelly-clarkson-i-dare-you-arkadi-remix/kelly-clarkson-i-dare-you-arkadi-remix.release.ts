@@ -12,7 +12,12 @@ export const kellyClarksonIDareYouArkadiRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-06-12",
-  externalId: "4MG8PMIxtbAiEmNLczDoaC",
-  externalLink: "https://open.spotify.com/album/4MG8PMIxtbAiEmNLczDoaC",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4MG8PMIxtbAiEmNLczDoaC",
+      externalLink: "https://open.spotify.com/album/4MG8PMIxtbAiEmNLczDoaC",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

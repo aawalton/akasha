@@ -13,6 +13,11 @@ export const lilithMaxCallDownTheDragon = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-05-16",
-  externalId: "4lum6B64jvLqt9wZMDfi3f",
-  externalLink: "https://open.spotify.com/album/4lum6B64jvLqt9wZMDfi3f",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4lum6B64jvLqt9wZMDfi3f",
+      externalLink: "https://open.spotify.com/album/4lum6B64jvLqt9wZMDfi3f",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const linkinParkRoadToRevolutionLiveAtMiltonKeynes = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2008-11-21",
-  externalId: "72seWTJF9U5SljizfyF2ZK",
-  externalLink: "https://open.spotify.com/album/72seWTJF9U5SljizfyF2ZK",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "72seWTJF9U5SljizfyF2ZK",
+      externalLink: "https://open.spotify.com/album/72seWTJF9U5SljizfyF2ZK",
+    },
+  ],
 } as const satisfies Release

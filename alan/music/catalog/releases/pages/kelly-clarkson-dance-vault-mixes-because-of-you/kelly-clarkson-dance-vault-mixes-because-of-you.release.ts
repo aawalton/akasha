@@ -12,7 +12,12 @@ export const kellyClarksonDanceVaultMixesBecauseOfYou = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2005-10-03",
-  externalId: "5OYq6HUAn2aQ8jg1vxEaBI",
-  externalLink: "https://open.spotify.com/album/5OYq6HUAn2aQ8jg1vxEaBI",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5OYq6HUAn2aQ8jg1vxEaBI",
+      externalLink: "https://open.spotify.com/album/5OYq6HUAn2aQ8jg1vxEaBI",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

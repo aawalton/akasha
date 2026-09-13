@@ -12,6 +12,11 @@ export const lindseyStirling2ShatterMeDeluxe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-09-26",
-  externalId: "3iZrxTBRLvQ2b9W7sAwDBe",
-  externalLink: "https://open.spotify.com/album/3iZrxTBRLvQ2b9W7sAwDBe",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3iZrxTBRLvQ2b9W7sAwDBe",
+      externalLink: "https://open.spotify.com/album/3iZrxTBRLvQ2b9W7sAwDBe",
+    },
+  ],
 } as const satisfies Release

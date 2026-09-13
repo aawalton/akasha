@@ -12,7 +12,12 @@ export const kellyClarksonThankful = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2003-04-15",
-  externalId: "5ErgI599IvfYniy0UWVGBN",
-  externalLink: "https://open.spotify.com/album/5ErgI599IvfYniy0UWVGBN",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5ErgI599IvfYniy0UWVGBN",
+      externalLink: "https://open.spotify.com/album/5ErgI599IvfYniy0UWVGBN",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

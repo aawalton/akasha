@@ -12,7 +12,12 @@ export const kellyClarksonSpotifySingles = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-11-08",
-  externalId: "3NSkcqmYRTEb2sPICYWT1T",
-  externalLink: "https://open.spotify.com/album/3NSkcqmYRTEb2sPICYWT1T",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3NSkcqmYRTEb2sPICYWT1T",
+      externalLink: "https://open.spotify.com/album/3NSkcqmYRTEb2sPICYWT1T",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

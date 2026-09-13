@@ -12,7 +12,12 @@ export const leonardCohenTheEssentialLeonardCohen = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2002-10-22",
-  externalId: "2t2sAWQl1NwwHy793LyEfR",
-  externalLink: "https://open.spotify.com/album/2t2sAWQl1NwwHy793LyEfR",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2t2sAWQl1NwwHy793LyEfR",
+      externalLink: "https://open.spotify.com/album/2t2sAWQl1NwwHy793LyEfR",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

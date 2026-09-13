@@ -12,6 +12,11 @@ export const metallicaSomeKindOfMonsterEp = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2004-07-13",
-  externalId: "7Gv5QjgYP04LqYSEJ0anJS",
-  externalLink: "https://open.spotify.com/album/7Gv5QjgYP04LqYSEJ0anJS",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7Gv5QjgYP04LqYSEJ0anJS",
+      externalLink: "https://open.spotify.com/album/7Gv5QjgYP04LqYSEJ0anJS",
+    },
+  ],
 } as const satisfies Release

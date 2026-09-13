@@ -13,6 +13,11 @@ export const lynLapidInfinite = {
   status: "completed",
   rank: "B",
   publishedAt: "2021-06-23",
-  externalId: "65CkIcNtt9s4JQAboajshU",
-  externalLink: "https://open.spotify.com/album/65CkIcNtt9s4JQAboajshU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "65CkIcNtt9s4JQAboajshU",
+      externalLink: "https://open.spotify.com/album/65CkIcNtt9s4JQAboajshU",
+    },
+  ],
 } as const satisfies Release

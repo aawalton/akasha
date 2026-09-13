@@ -12,6 +12,11 @@ export const katyPerryTeenageDreamRemixEp = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2010-01-01",
-  externalId: "1FRRBe4H2wtYI2jEJpmBYg",
-  externalLink: "https://open.spotify.com/album/1FRRBe4H2wtYI2jEJpmBYg",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1FRRBe4H2wtYI2jEJpmBYg",
+      externalLink: "https://open.spotify.com/album/1FRRBe4H2wtYI2jEJpmBYg",
+    },
+  ],
 } as const satisfies Release

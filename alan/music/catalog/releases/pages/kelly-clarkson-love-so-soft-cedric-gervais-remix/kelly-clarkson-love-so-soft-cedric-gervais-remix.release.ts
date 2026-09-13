@@ -12,7 +12,12 @@ export const kellyClarksonLoveSoSoftCedricGervaisRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-10-25",
-  externalId: "0Z6X6Mbo17M13PENoc1E2Q",
-  externalLink: "https://open.spotify.com/album/0Z6X6Mbo17M13PENoc1E2Q",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0Z6X6Mbo17M13PENoc1E2Q",
+      externalLink: "https://open.spotify.com/album/0Z6X6Mbo17M13PENoc1E2Q",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

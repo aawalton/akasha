@@ -12,7 +12,12 @@ export const kellyClarksonHeat = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-12-07",
-  externalId: "3ldfffdVymqylDoMmnGWjJ",
-  externalLink: "https://open.spotify.com/album/3ldfffdVymqylDoMmnGWjJ",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ldfffdVymqylDoMmnGWjJ",
+      externalLink: "https://open.spotify.com/album/3ldfffdVymqylDoMmnGWjJ",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

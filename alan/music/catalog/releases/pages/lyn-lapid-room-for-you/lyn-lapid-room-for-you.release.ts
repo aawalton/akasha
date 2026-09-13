@@ -13,6 +13,11 @@ export const lynLapidRoomForYou = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-07-26",
-  externalId: "6NbgKBujDaLM236wpFEwOu",
-  externalLink: "https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6NbgKBujDaLM236wpFEwOu",
+      externalLink: "https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu",
+    },
+  ],
 } as const satisfies Release

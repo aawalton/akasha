@@ -12,6 +12,11 @@ export const lindseyStirling2PokemonTheme = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-09-26",
-  externalId: "0wGufUPY82qnaOdNHJlXWN",
-  externalLink: "https://open.spotify.com/album/0wGufUPY82qnaOdNHJlXWN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0wGufUPY82qnaOdNHJlXWN",
+      externalLink: "https://open.spotify.com/album/0wGufUPY82qnaOdNHJlXWN",
+    },
+  ],
 } as const satisfies Release

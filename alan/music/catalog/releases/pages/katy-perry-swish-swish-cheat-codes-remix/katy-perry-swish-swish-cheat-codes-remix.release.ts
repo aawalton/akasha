@@ -12,6 +12,11 @@ export const katyPerrySwishSwishCheatCodesRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-06-23",
-  externalId: "6Ywa1l4N8OoewTJPipVe46",
-  externalLink: "https://open.spotify.com/album/6Ywa1l4N8OoewTJPipVe46",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Ywa1l4N8OoewTJPipVe46",
+      externalLink: "https://open.spotify.com/album/6Ywa1l4N8OoewTJPipVe46",
+    },
+  ],
 } as const satisfies Release

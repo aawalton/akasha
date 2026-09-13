@@ -12,6 +12,11 @@ export const metallicaMothIntoFlameLive = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-08-05",
-  externalId: "5Od43KqRw3TLAusoGZpXMx",
-  externalLink: "https://open.spotify.com/album/5Od43KqRw3TLAusoGZpXMx",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5Od43KqRw3TLAusoGZpXMx",
+      externalLink: "https://open.spotify.com/album/5Od43KqRw3TLAusoGZpXMx",
+    },
+  ],
 } as const satisfies Release

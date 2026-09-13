@@ -12,6 +12,11 @@ export const metallicaAndJusticeForAllRemasteredDeluxeBoxSet = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1988-09-07",
-  externalId: "2XbWaerVk9fjhEiGSrd6TF",
-  externalLink: "https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2XbWaerVk9fjhEiGSrd6TF",
+      externalLink: "https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const lindseyStirling2PhantomOfTheOperaMedley = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-07-31",
-  externalId: "7H4ZBPKN3C0fLl00V9v2yi",
-  externalLink: "https://open.spotify.com/album/7H4ZBPKN3C0fLl00V9v2yi",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7H4ZBPKN3C0fLl00V9v2yi",
+      externalLink: "https://open.spotify.com/album/7H4ZBPKN3C0fLl00V9v2yi",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const lindseyStirling2SnowWaltzDeluxeEdition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-11-22",
-  externalId: "4bH2APYDzjwHUfREk1Zen8",
-  externalLink: "https://open.spotify.com/album/4bH2APYDzjwHUfREk1Zen8",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4bH2APYDzjwHUfREk1Zen8",
+      externalLink: "https://open.spotify.com/album/4bH2APYDzjwHUfREk1Zen8",
+    },
+  ],
 } as const satisfies Release

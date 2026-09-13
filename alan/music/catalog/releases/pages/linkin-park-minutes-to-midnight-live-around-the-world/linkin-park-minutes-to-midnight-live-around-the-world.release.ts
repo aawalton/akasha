@@ -12,6 +12,11 @@ export const linkinParkMinutesToMidnightLiveAroundTheWorld = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2012-06-12",
-  externalId: "7IYqppCBhR5z9z8JqgXuxi",
-  externalLink: "https://open.spotify.com/album/7IYqppCBhR5z9z8JqgXuxi",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7IYqppCBhR5z9z8JqgXuxi",
+      externalLink: "https://open.spotify.com/album/7IYqppCBhR5z9z8JqgXuxi",
+    },
+  ],
 } as const satisfies Release

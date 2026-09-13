@@ -12,6 +12,11 @@ export const linkinParkDarkerThanTheLightThatNeverBleedsChesterForeverSteveAokiR
   unit: "minutes",
   status: "not-started",
   publishedAt: "2017-09-08",
-  externalId: "2IUg8KVfBvRnkLQVJ9FEQ1",
-  externalLink: "https://open.spotify.com/album/2IUg8KVfBvRnkLQVJ9FEQ1",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2IUg8KVfBvRnkLQVJ9FEQ1",
+      externalLink: "https://open.spotify.com/album/2IUg8KVfBvRnkLQVJ9FEQ1",
+    },
+  ],
 } as const satisfies Release

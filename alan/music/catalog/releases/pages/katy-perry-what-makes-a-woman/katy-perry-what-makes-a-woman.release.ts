@@ -12,6 +12,11 @@ export const katyPerryWhatMakesAWoman = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-08-20",
-  externalId: "6WwtlRrCrGP0u02Bf7p46T",
-  externalLink: "https://open.spotify.com/album/6WwtlRrCrGP0u02Bf7p46T",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6WwtlRrCrGP0u02Bf7p46T",
+      externalLink: "https://open.spotify.com/album/6WwtlRrCrGP0u02Bf7p46T",
+    },
+  ],
 } as const satisfies Release

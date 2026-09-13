@@ -12,6 +12,11 @@ export const lindseyStirling2WarmerInTheWinterDeluxeEdition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-10-19",
-  externalId: "7wfjL0ZBEycLvXzJmHF45g",
-  externalLink: "https://open.spotify.com/album/7wfjL0ZBEycLvXzJmHF45g",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7wfjL0ZBEycLvXzJmHF45g",
+      externalLink: "https://open.spotify.com/album/7wfjL0ZBEycLvXzJmHF45g",
+    },
+  ],
 } as const satisfies Release

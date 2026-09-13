@@ -13,6 +13,11 @@ export const lilithMaxLeaveTheArmor = {
   status: "completed",
   rank: "C",
   publishedAt: "2020-08-28",
-  externalId: "5FZk4i5tvBkpVarZdP1hqx",
-  externalLink: "https://open.spotify.com/album/5FZk4i5tvBkpVarZdP1hqx",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5FZk4i5tvBkpVarZdP1hqx",
+      externalLink: "https://open.spotify.com/album/5FZk4i5tvBkpVarZdP1hqx",
+    },
+  ],
 } as const satisfies Release

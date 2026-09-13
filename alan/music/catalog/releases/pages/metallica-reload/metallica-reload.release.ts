@@ -12,6 +12,11 @@ export const metallicaReload = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1997-11-18",
-  externalId: "7KDqRmr937ylvGilPGWxfD",
-  externalLink: "https://open.spotify.com/album/7KDqRmr937ylvGilPGWxfD",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7KDqRmr937ylvGilPGWxfD",
+      externalLink: "https://open.spotify.com/album/7KDqRmr937ylvGilPGWxfD",
+    },
+  ],
 } as const satisfies Release

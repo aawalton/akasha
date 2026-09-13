@@ -12,6 +12,11 @@ export const lindseyStirling2IceStorm = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-08-25",
-  externalId: "2W1Xql9xJLBRliLXgaiKEj",
-  externalLink: "https://open.spotify.com/album/2W1Xql9xJLBRliLXgaiKEj",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2W1Xql9xJLBRliLXgaiKEj",
+      externalLink: "https://open.spotify.com/album/2W1Xql9xJLBRliLXgaiKEj",
+    },
+  ],
 } as const satisfies Release

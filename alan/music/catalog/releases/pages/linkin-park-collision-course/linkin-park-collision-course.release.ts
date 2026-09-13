@@ -12,6 +12,11 @@ export const linkinParkCollisionCourse = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2004-01-01",
-  externalId: "5NH94cATqx5fjBE794xZLy",
-  externalLink: "https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5NH94cATqx5fjBE794xZLy",
+      externalLink: "https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy",
+    },
+  ],
 } as const satisfies Release

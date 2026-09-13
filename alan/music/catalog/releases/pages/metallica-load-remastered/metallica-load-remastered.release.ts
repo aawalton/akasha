@@ -12,6 +12,11 @@ export const metallicaLoadRemastered = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1996-06-04",
-  externalId: "2V0L7LHTSvlv5aaOCqILvP",
-  externalLink: "https://open.spotify.com/album/2V0L7LHTSvlv5aaOCqILvP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2V0L7LHTSvlv5aaOCqILvP",
+      externalLink: "https://open.spotify.com/album/2V0L7LHTSvlv5aaOCqILvP",
+    },
+  ],
 } as const satisfies Release

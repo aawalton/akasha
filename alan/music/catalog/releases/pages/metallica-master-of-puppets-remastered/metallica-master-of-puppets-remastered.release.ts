@@ -12,6 +12,11 @@ export const metallicaMasterOfPuppetsRemastered = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1986-03-03",
-  externalId: "5gzLOflH95LkKYE6XSXE9k",
-  externalLink: "https://open.spotify.com/album/5gzLOflH95LkKYE6XSXE9k",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5gzLOflH95LkKYE6XSXE9k",
+      externalLink: "https://open.spotify.com/album/5gzLOflH95LkKYE6XSXE9k",
+    },
+  ],
 } as const satisfies Release

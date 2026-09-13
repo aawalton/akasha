@@ -12,6 +12,11 @@ export const lindseyStirling2TheArena = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-06-28",
-  externalId: "2NyVPZtDWaIxjJ5UzBwtuY",
-  externalLink: "https://open.spotify.com/album/2NyVPZtDWaIxjJ5UzBwtuY",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2NyVPZtDWaIxjJ5UzBwtuY",
+      externalLink: "https://open.spotify.com/album/2NyVPZtDWaIxjJ5UzBwtuY",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const kellyClarksonWalkAwayRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2006-03-28",
-  externalId: "7HBCLcjgZLtuiKlehQKlRX",
-  externalLink: "https://open.spotify.com/album/7HBCLcjgZLtuiKlehQKlRX",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7HBCLcjgZLtuiKlehQKlRX",
+      externalLink: "https://open.spotify.com/album/7HBCLcjgZLtuiKlehQKlRX",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

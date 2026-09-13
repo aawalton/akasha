@@ -13,6 +13,11 @@ export const lynLapidButtons = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-10-25",
-  externalId: "60cW2bcyQVKvbCh0QmXyAK",
-  externalLink: "https://open.spotify.com/album/60cW2bcyQVKvbCh0QmXyAK",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "60cW2bcyQVKvbCh0QmXyAK",
+      externalLink: "https://open.spotify.com/album/60cW2bcyQVKvbCh0QmXyAK",
+    },
+  ],
 } as const satisfies Release

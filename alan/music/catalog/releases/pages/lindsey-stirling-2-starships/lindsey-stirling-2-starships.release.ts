@@ -12,6 +12,11 @@ export const lindseyStirling2Starships = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-06-04",
-  externalId: "0J38d1zujCeFnJzncr3iUd",
-  externalLink: "https://open.spotify.com/album/0J38d1zujCeFnJzncr3iUd",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0J38d1zujCeFnJzncr3iUd",
+      externalLink: "https://open.spotify.com/album/0J38d1zujCeFnJzncr3iUd",
+    },
+  ],
 } as const satisfies Release

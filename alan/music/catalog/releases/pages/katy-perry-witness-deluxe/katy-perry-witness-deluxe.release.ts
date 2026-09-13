@@ -12,6 +12,11 @@ export const katyPerryWitnessDeluxe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-06-09",
-  externalId: "0UlbGi4oAth8s6rwaGSU8Z",
-  externalLink: "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0UlbGi4oAth8s6rwaGSU8Z",
+      externalLink: "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z",
+    },
+  ],
 } as const satisfies Release

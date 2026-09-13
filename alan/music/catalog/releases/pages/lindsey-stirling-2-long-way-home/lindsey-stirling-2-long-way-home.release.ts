@@ -12,6 +12,11 @@ export const lindseyStirling2LongWayHome = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-30",
-  externalId: "4oTgs7iS9gty8setMf2ljq",
-  externalLink: "https://open.spotify.com/album/4oTgs7iS9gty8setMf2ljq",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4oTgs7iS9gty8setMf2ljq",
+      externalLink: "https://open.spotify.com/album/4oTgs7iS9gty8setMf2ljq",
+    },
+  ],
 } as const satisfies Release

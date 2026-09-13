@@ -12,6 +12,11 @@ export const lindseyStirling2WhatChildIsThis = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-27",
-  externalId: "20uMSjx8g44aYx1dZHWIIn",
-  externalLink: "https://open.spotify.com/album/20uMSjx8g44aYx1dZHWIIn",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "20uMSjx8g44aYx1dZHWIIn",
+      externalLink: "https://open.spotify.com/album/20uMSjx8g44aYx1dZHWIIn",
+    },
+  ],
 } as const satisfies Release

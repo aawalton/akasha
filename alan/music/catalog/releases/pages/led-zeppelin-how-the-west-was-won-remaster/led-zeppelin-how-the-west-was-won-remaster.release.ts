@@ -12,6 +12,11 @@ export const ledZeppelinHowTheWestWasWonRemaster = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2003-05-27",
-  externalId: "3otvl9PN3kOgk5uwAh1CBL",
-  externalLink: "https://open.spotify.com/album/3otvl9PN3kOgk5uwAh1CBL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3otvl9PN3kOgk5uwAh1CBL",
+      externalLink: "https://open.spotify.com/album/3otvl9PN3kOgk5uwAh1CBL",
+    },
+  ],
 } as const satisfies Release

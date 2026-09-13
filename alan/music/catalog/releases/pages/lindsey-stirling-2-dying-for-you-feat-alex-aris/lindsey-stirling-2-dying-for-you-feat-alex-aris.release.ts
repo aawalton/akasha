@@ -12,6 +12,11 @@ export const lindseyStirling2DyingForYouFeatAlexAris = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-01-15",
-  externalId: "25a4dxbFd1fAZBM1pGceY1",
-  externalLink: "https://open.spotify.com/album/25a4dxbFd1fAZBM1pGceY1",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "25a4dxbFd1fAZBM1pGceY1",
+      externalLink: "https://open.spotify.com/album/25a4dxbFd1fAZBM1pGceY1",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const kellyClarksonPieceByPieceRadioMix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-11-19",
-  externalId: "1Iz4Bvj0LG1puWmKJngIGl",
-  externalLink: "https://open.spotify.com/album/1Iz4Bvj0LG1puWmKJngIGl",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Iz4Bvj0LG1puWmKJngIGl",
+      externalLink: "https://open.spotify.com/album/1Iz4Bvj0LG1puWmKJngIGl",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

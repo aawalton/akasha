@@ -12,6 +12,11 @@ export const linkinParkMinutesToMidnight = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2007-05-14",
-  externalId: "2tlTBLz2w52rpGCLBGyGw6",
-  externalLink: "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2tlTBLz2w52rpGCLBGyGw6",
+      externalLink: "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6",
+    },
+  ],
 } as const satisfies Release

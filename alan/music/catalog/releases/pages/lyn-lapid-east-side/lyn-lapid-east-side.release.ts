@@ -13,6 +13,11 @@ export const lynLapidEastSide = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-11-17",
-  externalId: "0TqA7jHzMVftg6xeMa9ZZj",
-  externalLink: "https://open.spotify.com/album/0TqA7jHzMVftg6xeMa9ZZj",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0TqA7jHzMVftg6xeMa9ZZj",
+      externalLink: "https://open.spotify.com/album/0TqA7jHzMVftg6xeMa9ZZj",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const kpopDemonHuntersCastGoldenDavidGuettaRemXFromTheNetflixFilmKpopDemo
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-07-25",
-  externalId: "5DLI2kMdzrauXjS5fB3OFv",
-  externalLink: "https://open.spotify.com/album/5DLI2kMdzrauXjS5fB3OFv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5DLI2kMdzrauXjS5fB3OFv",
+      externalLink: "https://open.spotify.com/album/5DLI2kMdzrauXjS5fB3OFv",
+    },
+  ],
 } as const satisfies Release

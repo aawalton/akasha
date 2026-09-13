@@ -12,7 +12,12 @@ export const kellyClarksonTieItUp = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-06-25",
-  externalId: "19ib87nPhblt4szZPG499r",
-  externalLink: "https://open.spotify.com/album/19ib87nPhblt4szZPG499r",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "19ib87nPhblt4szZPG499r",
+      externalLink: "https://open.spotify.com/album/19ib87nPhblt4szZPG499r",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

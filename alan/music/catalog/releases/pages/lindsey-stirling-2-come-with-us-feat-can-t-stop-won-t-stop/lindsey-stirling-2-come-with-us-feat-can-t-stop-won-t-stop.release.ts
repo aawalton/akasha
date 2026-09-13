@@ -12,6 +12,11 @@ export const lindseyStirling2ComeWithUsFeatCanTStopWonTStop = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-08-13",
-  externalId: "7CPbaEYWQaYhuo8DmOxOf5",
-  externalLink: "https://open.spotify.com/album/7CPbaEYWQaYhuo8DmOxOf5",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7CPbaEYWQaYhuo8DmOxOf5",
+      externalLink: "https://open.spotify.com/album/7CPbaEYWQaYhuo8DmOxOf5",
+    },
+  ],
 } as const satisfies Release

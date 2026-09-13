@@ -13,6 +13,11 @@ export const lynLapidCruiseControl = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-03-29",
-  externalId: "3oHO5lsSGBC4gEs4Et9Thn",
-  externalLink: "https://open.spotify.com/album/3oHO5lsSGBC4gEs4Et9Thn",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3oHO5lsSGBC4gEs4Et9Thn",
+      externalLink: "https://open.spotify.com/album/3oHO5lsSGBC4gEs4Et9Thn",
+    },
+  ],
 } as const satisfies Release

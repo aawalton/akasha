@@ -12,6 +12,11 @@ export const linkinParkOneMoreLight = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2017-05-19",
-  externalId: "5Eevxp2BCbWq25ZdiXRwYd",
-  externalLink: "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5Eevxp2BCbWq25ZdiXRwYd",
+      externalLink: "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd",
+    },
+  ],
 } as const satisfies Release

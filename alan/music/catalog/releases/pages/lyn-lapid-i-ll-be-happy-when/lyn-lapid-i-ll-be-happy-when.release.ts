@@ -13,6 +13,11 @@ export const lynLapidILlBeHappyWhen = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-02-28",
-  externalId: "0EG43re9S4RRLXO6WE2gqD",
-  externalLink: "https://open.spotify.com/album/0EG43re9S4RRLXO6WE2gqD",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0EG43re9S4RRLXO6WE2gqD",
+      externalLink: "https://open.spotify.com/album/0EG43re9S4RRLXO6WE2gqD",
+    },
+  ],
 } as const satisfies Release

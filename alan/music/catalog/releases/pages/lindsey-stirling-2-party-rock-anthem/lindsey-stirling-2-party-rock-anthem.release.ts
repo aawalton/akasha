@@ -12,6 +12,11 @@ export const lindseyStirling2PartyRockAnthem = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2011-10-01",
-  externalId: "5vdiTLhN4grx8ZN8NhXP7z",
-  externalLink: "https://open.spotify.com/album/5vdiTLhN4grx8ZN8NhXP7z",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5vdiTLhN4grx8ZN8NhXP7z",
+      externalLink: "https://open.spotify.com/album/5vdiTLhN4grx8ZN8NhXP7z",
+    },
+  ],
 } as const satisfies Release

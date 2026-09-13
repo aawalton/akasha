@@ -11,7 +11,12 @@ export const meYou = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-05-16",
-  externalId: "4wTcGH918lQogI7Tyz7hEx",
-  externalLink: "https://open.spotify.com/album/4wTcGH918lQogI7Tyz7hEx",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4wTcGH918lQogI7Tyz7hEx",
+      externalLink: "https://open.spotify.com/album/4wTcGH918lQogI7Tyz7hEx",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

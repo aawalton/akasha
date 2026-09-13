@@ -12,7 +12,12 @@ export const leonardCohenMoreBestOf = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1997-08-08",
-  externalId: "5Tt73Fi2zEcfDJEPopgEv7",
-  externalLink: "https://open.spotify.com/album/5Tt73Fi2zEcfDJEPopgEv7",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5Tt73Fi2zEcfDJEPopgEv7",
+      externalLink: "https://open.spotify.com/album/5Tt73Fi2zEcfDJEPopgEv7",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

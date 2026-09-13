@@ -12,6 +12,11 @@ export const metallicaLulu = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2011-11-01",
-  externalId: "3FgLMfp5o2h2rAny7S6h57",
-  externalLink: "https://open.spotify.com/album/3FgLMfp5o2h2rAny7S6h57",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3FgLMfp5o2h2rAny7S6h57",
+      externalLink: "https://open.spotify.com/album/3FgLMfp5o2h2rAny7S6h57",
+    },
+  ],
 } as const satisfies Release

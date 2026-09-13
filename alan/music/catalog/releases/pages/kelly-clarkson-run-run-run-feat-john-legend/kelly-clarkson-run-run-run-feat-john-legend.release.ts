@@ -12,7 +12,12 @@ export const kellyClarksonRunRunRunFeatJohnLegend = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-02-25",
-  externalId: "1irhuZ1wmaD5TbkBHyOysq",
-  externalLink: "https://open.spotify.com/album/1irhuZ1wmaD5TbkBHyOysq",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1irhuZ1wmaD5TbkBHyOysq",
+      externalLink: "https://open.spotify.com/album/1irhuZ1wmaD5TbkBHyOysq",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

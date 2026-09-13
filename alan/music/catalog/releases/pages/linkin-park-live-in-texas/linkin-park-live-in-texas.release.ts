@@ -12,6 +12,11 @@ export const linkinParkLiveInTexas = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2003-12-02",
-  externalId: "0ZBE7rVC0zKFVt5osvXlnz",
-  externalLink: "https://open.spotify.com/album/0ZBE7rVC0zKFVt5osvXlnz",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0ZBE7rVC0zKFVt5osvXlnz",
+      externalLink: "https://open.spotify.com/album/0ZBE7rVC0zKFVt5osvXlnz",
+    },
+  ],
 } as const satisfies Release

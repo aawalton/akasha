@@ -12,7 +12,12 @@ export const kellyClarksonIVeLovedYouSinceForever = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-03-08",
-  externalId: "1Ho585tHTmk4lrbtqakCNH",
-  externalLink: "https://open.spotify.com/album/1Ho585tHTmk4lrbtqakCNH",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Ho585tHTmk4lrbtqakCNH",
+      externalLink: "https://open.spotify.com/album/1Ho585tHTmk4lrbtqakCNH",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

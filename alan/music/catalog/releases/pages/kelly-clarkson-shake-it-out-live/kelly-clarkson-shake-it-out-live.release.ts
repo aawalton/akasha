@@ -12,7 +12,12 @@ export const kellyClarksonShakeItOutLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-03",
-  externalId: "64WFAcZ75ZooFZLiTmsoUR",
-  externalLink: "https://open.spotify.com/album/64WFAcZ75ZooFZLiTmsoUR",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "64WFAcZ75ZooFZLiTmsoUR",
+      externalLink: "https://open.spotify.com/album/64WFAcZ75ZooFZLiTmsoUR",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

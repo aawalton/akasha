@@ -12,7 +12,12 @@ export const kellyClarksonAllIWantForChristmasIsYou = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-13",
-  externalId: "7IV7v5ybT4Ebd0wGWNgIyJ",
-  externalLink: "https://open.spotify.com/album/7IV7v5ybT4Ebd0wGWNgIyJ",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7IV7v5ybT4Ebd0wGWNgIyJ",
+      externalLink: "https://open.spotify.com/album/7IV7v5ybT4Ebd0wGWNgIyJ",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

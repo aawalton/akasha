@@ -12,6 +12,11 @@ export const metallicaLuxTerna = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-11-28",
-  externalId: "7qxhxLR8oZN3LizPQ7z2cb",
-  externalLink: "https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7qxhxLR8oZN3LizPQ7z2cb",
+      externalLink: "https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb",
+    },
+  ],
 } as const satisfies Release

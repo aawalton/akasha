@@ -13,6 +13,11 @@ export const lilithMaxMakingsOfAGod = {
   status: "completed",
   rank: "A",
   publishedAt: "2025-09-26",
-  externalId: "3d7w0tH9o425GTqkDMR7mK",
-  externalLink: "https://open.spotify.com/album/3d7w0tH9o425GTqkDMR7mK",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3d7w0tH9o425GTqkDMR7mK",
+      externalLink: "https://open.spotify.com/album/3d7w0tH9o425GTqkDMR7mK",
+    },
+  ],
 } as const satisfies Release

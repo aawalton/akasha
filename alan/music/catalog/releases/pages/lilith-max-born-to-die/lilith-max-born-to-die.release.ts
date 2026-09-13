@@ -13,6 +13,11 @@ export const lilithMaxBornToDie = {
   status: "completed",
   rank: "B",
   publishedAt: "2021-07-09",
-  externalId: "2P0CpAZLIxXpsWzvypi35P",
-  externalLink: "https://open.spotify.com/album/2P0CpAZLIxXpsWzvypi35P",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2P0CpAZLIxXpsWzvypi35P",
+      externalLink: "https://open.spotify.com/album/2P0CpAZLIxXpsWzvypi35P",
+    },
+  ],
 } as const satisfies Release

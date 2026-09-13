@@ -12,6 +12,11 @@ export const ledZeppelinLiveEp = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-09-12",
-  externalId: "6PqoCDu8nTLw3p49WAIfY8",
-  externalLink: "https://open.spotify.com/album/6PqoCDu8nTLw3p49WAIfY8",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6PqoCDu8nTLw3p49WAIfY8",
+      externalLink: "https://open.spotify.com/album/6PqoCDu8nTLw3p49WAIfY8",
+    },
+  ],
 } as const satisfies Release

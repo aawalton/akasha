@@ -12,6 +12,11 @@ export const metallicaMetallicaThroughTheNeverMusicFromTheMotionPicture = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2013-01-01",
-  externalId: "72grIwGP38Iy2S1jxt1Gjd",
-  externalLink: "https://open.spotify.com/album/72grIwGP38Iy2S1jxt1Gjd",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "72grIwGP38Iy2S1jxt1Gjd",
+      externalLink: "https://open.spotify.com/album/72grIwGP38Iy2S1jxt1Gjd",
+    },
+  ],
 } as const satisfies Release

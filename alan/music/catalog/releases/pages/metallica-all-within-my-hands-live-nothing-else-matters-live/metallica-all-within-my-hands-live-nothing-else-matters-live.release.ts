@@ -12,6 +12,11 @@ export const metallicaAllWithinMyHandsLiveNothingElseMattersLive = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-07-15",
-  externalId: "3VQRsPQDxvewKcQ9moV0e9",
-  externalLink: "https://open.spotify.com/album/3VQRsPQDxvewKcQ9moV0e9",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3VQRsPQDxvewKcQ9moV0e9",
+      externalLink: "https://open.spotify.com/album/3VQRsPQDxvewKcQ9moV0e9",
+    },
+  ],
 } as const satisfies Release

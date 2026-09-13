@@ -12,6 +12,11 @@ export const lindseyStirling2BeyondTheVeil = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-04-15",
-  externalId: "1kUdsXXw767lPjqeXQmplH",
-  externalLink: "https://open.spotify.com/album/1kUdsXXw767lPjqeXQmplH",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1kUdsXXw767lPjqeXQmplH",
+      externalLink: "https://open.spotify.com/album/1kUdsXXw767lPjqeXQmplH",
+    },
+  ],
 } as const satisfies Release

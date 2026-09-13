@@ -12,6 +12,11 @@ export const ledZeppelinKashmirLiveFromKnebworth1979 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-08-29",
-  externalId: "2ct3TqugFG535SBjnKmgNM",
-  externalLink: "https://open.spotify.com/album/2ct3TqugFG535SBjnKmgNM",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2ct3TqugFG535SBjnKmgNM",
+      externalLink: "https://open.spotify.com/album/2ct3TqugFG535SBjnKmgNM",
+    },
+  ],
 } as const satisfies Release

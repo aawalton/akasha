@@ -12,6 +12,11 @@ export const katyPerrySwishSwishBlondeRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-08-25",
-  externalId: "6ble6YnRhxaCaQmeYjaHNJ",
-  externalLink: "https://open.spotify.com/album/6ble6YnRhxaCaQmeYjaHNJ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6ble6YnRhxaCaQmeYjaHNJ",
+      externalLink: "https://open.spotify.com/album/6ble6YnRhxaCaQmeYjaHNJ",
+    },
+  ],
 } as const satisfies Release

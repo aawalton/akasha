@@ -12,6 +12,11 @@ export const linkinParkHybridTheoryBonusEdition = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2000-10-24",
-  externalId: "6hPkbAV3ZXpGZBGUvL6jVM",
-  externalLink: "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6hPkbAV3ZXpGZBGUvL6jVM",
+      externalLink: "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM",
+    },
+  ],
 } as const satisfies Release

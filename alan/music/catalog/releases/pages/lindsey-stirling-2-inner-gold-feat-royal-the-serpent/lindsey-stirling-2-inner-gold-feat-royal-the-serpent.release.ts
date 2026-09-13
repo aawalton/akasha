@@ -12,6 +12,11 @@ export const lindseyStirling2InnerGoldFeatRoyalTheSerpent = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-04-12",
-  externalId: "5ItWhPQqLqYtw9uLHWATEH",
-  externalLink: "https://open.spotify.com/album/5ItWhPQqLqYtw9uLHWATEH",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5ItWhPQqLqYtw9uLHWATEH",
+      externalLink: "https://open.spotify.com/album/5ItWhPQqLqYtw9uLHWATEH",
+    },
+  ],
 } as const satisfies Release

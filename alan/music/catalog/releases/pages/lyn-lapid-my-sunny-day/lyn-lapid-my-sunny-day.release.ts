@@ -13,6 +13,11 @@ export const lynLapidMySunnyDay = {
   status: "completed",
   rank: "B",
   publishedAt: "2021-12-10",
-  externalId: "2VgKPs6EdAvOdySgcnMweQ",
-  externalLink: "https://open.spotify.com/album/2VgKPs6EdAvOdySgcnMweQ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2VgKPs6EdAvOdySgcnMweQ",
+      externalLink: "https://open.spotify.com/album/2VgKPs6EdAvOdySgcnMweQ",
+    },
+  ],
 } as const satisfies Release

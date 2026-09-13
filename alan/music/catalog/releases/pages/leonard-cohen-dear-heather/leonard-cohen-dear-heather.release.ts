@@ -12,7 +12,12 @@ export const leonardCohenDearHeather = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2004-10-26",
-  externalId: "2A2w7NSKKyAfDvwx6GEHEg",
-  externalLink: "https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2A2w7NSKKyAfDvwx6GEHEg",
+      externalLink: "https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

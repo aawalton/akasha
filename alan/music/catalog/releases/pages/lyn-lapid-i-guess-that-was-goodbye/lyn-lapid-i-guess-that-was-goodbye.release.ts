@@ -13,6 +13,11 @@ export const lynLapidIGuessThatWasGoodbye = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-02-04",
-  externalId: "1Ta5G7cdU0U7yDjZjbvyVl",
-  externalLink: "https://open.spotify.com/album/1Ta5G7cdU0U7yDjZjbvyVl",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Ta5G7cdU0U7yDjZjbvyVl",
+      externalLink: "https://open.spotify.com/album/1Ta5G7cdU0U7yDjZjbvyVl",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const kellyClarksonWhenYouSayNothingAtAllTheVoicePerformance = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-05-25",
-  externalId: "3LuzvONDuCDrkOXdE4VY1n",
-  externalLink: "https://open.spotify.com/album/3LuzvONDuCDrkOXdE4VY1n",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3LuzvONDuCDrkOXdE4VY1n",
+      externalLink: "https://open.spotify.com/album/3LuzvONDuCDrkOXdE4VY1n",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

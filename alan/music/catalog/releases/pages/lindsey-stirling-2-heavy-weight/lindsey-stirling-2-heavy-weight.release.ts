@@ -12,6 +12,11 @@ export const lindseyStirling2HeavyWeight = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-12-11",
-  externalId: "7u4XNeOhJdiHhsEATzpBmG",
-  externalLink: "https://open.spotify.com/album/7u4XNeOhJdiHhsEATzpBmG",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7u4XNeOhJdiHhsEATzpBmG",
+      externalLink: "https://open.spotify.com/album/7u4XNeOhJdiHhsEATzpBmG",
+    },
+  ],
 } as const satisfies Release

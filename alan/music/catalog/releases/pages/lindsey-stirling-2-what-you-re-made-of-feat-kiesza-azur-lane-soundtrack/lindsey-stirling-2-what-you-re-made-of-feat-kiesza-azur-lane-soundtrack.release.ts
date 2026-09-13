@@ -12,6 +12,11 @@ export const lindseyStirling2WhatYouReMadeOfFeatKieszaAzurLaneSoundtrack = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-08-12",
-  externalId: "3M0OxNR7sHtrA4I42ETvjI",
-  externalLink: "https://open.spotify.com/album/3M0OxNR7sHtrA4I42ETvjI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3M0OxNR7sHtrA4I42ETvjI",
+      externalLink: "https://open.spotify.com/album/3M0OxNR7sHtrA4I42ETvjI",
+    },
+  ],
 } as const satisfies Release

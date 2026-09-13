@@ -12,6 +12,11 @@ export const linkinParkUpFromTheBottom = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-03-27",
-  externalId: "0TwcWJHhsyi9J9va7VCmwm",
-  externalLink: "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0TwcWJHhsyi9J9va7VCmwm",
+      externalLink: "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm",
+    },
+  ],
 } as const satisfies Release

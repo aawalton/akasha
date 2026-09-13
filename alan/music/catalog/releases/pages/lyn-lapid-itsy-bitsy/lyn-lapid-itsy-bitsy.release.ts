@@ -13,6 +13,11 @@ export const lynLapidItsyBitsy = {
   status: "completed",
   rank: "B",
   publishedAt: "2021-01-29",
-  externalId: "54DolYpYf4Ai92P5TV6IfB",
-  externalLink: "https://open.spotify.com/album/54DolYpYf4Ai92P5TV6IfB",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "54DolYpYf4Ai92P5TV6IfB",
+      externalLink: "https://open.spotify.com/album/54DolYpYf4Ai92P5TV6IfB",
+    },
+  ],
 } as const satisfies Release

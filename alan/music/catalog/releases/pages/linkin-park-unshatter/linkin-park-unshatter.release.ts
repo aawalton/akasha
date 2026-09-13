@@ -12,6 +12,11 @@ export const linkinParkUnshatter = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-04-25",
-  externalId: "56zX5d4lPMLS5dkjLXpOd7",
-  externalLink: "https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "56zX5d4lPMLS5dkjLXpOd7",
+      externalLink: "https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7",
+    },
+  ],
 } as const satisfies Release

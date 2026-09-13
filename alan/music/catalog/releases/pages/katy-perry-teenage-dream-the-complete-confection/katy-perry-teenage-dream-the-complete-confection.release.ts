@@ -12,6 +12,11 @@ export const katyPerryTeenageDreamTheCompleteConfection = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-03-12",
-  externalId: "5BvgP623rtvlc0HDcpzquz",
-  externalLink: "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5BvgP623rtvlc0HDcpzquz",
+      externalLink: "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz",
+    },
+  ],
 } as const satisfies Release

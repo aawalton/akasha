@@ -12,6 +12,11 @@ export const lindseyStirling2RememberingSundayFeatLindseyStirlingLisaGaskarth = 
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-08-22",
-  externalId: "4EC0cHXv6CRav7DOaO2ky1",
-  externalLink: "https://open.spotify.com/album/4EC0cHXv6CRav7DOaO2ky1",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4EC0cHXv6CRav7DOaO2ky1",
+      externalLink: "https://open.spotify.com/album/4EC0cHXv6CRav7DOaO2ky1",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const kellyClarksonBreakaway = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2004-01-17",
-  externalId: "5gDAEao3VxFdbm8vS0koQq",
-  externalLink: "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5gDAEao3VxFdbm8vS0koQq",
+      externalLink: "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

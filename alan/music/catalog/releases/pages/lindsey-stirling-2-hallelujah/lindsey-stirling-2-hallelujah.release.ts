@@ -12,6 +12,11 @@ export const lindseyStirling2Hallelujah = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-11-18",
-  externalId: "5ECUzudQ91LMTqFp9IocMl",
-  externalLink: "https://open.spotify.com/album/5ECUzudQ91LMTqFp9IocMl",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5ECUzudQ91LMTqFp9IocMl",
+      externalLink: "https://open.spotify.com/album/5ECUzudQ91LMTqFp9IocMl",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const lindseyStirling2Deeper = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-04-05",
-  externalId: "70XogNjkwKIj5NU8kB94Lt",
-  externalLink: "https://open.spotify.com/album/70XogNjkwKIj5NU8kB94Lt",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "70XogNjkwKIj5NU8kB94Lt",
+      externalLink: "https://open.spotify.com/album/70XogNjkwKIj5NU8kB94Lt",
+    },
+  ],
 } as const satisfies Release

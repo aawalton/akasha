@@ -12,7 +12,12 @@ export const kellyClarksonIDonTThinkAboutYouRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-03-23",
-  externalId: "2JMPMwjqeshIByUOk4KXDW",
-  externalLink: "https://open.spotify.com/album/2JMPMwjqeshIByUOk4KXDW",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2JMPMwjqeshIByUOk4KXDW",
+      externalLink: "https://open.spotify.com/album/2JMPMwjqeshIByUOk4KXDW",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

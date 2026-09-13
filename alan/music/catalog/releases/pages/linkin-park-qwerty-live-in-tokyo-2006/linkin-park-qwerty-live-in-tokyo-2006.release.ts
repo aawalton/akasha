@@ -12,6 +12,11 @@ export const linkinParkQwertyLiveInTokyo2006 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-04-26",
-  externalId: "7bYai93piRObiZD6utMG8Y",
-  externalLink: "https://open.spotify.com/album/7bYai93piRObiZD6utMG8Y",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7bYai93piRObiZD6utMG8Y",
+      externalLink: "https://open.spotify.com/album/7bYai93piRObiZD6utMG8Y",
+    },
+  ],
 } as const satisfies Release

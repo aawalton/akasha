@@ -12,6 +12,11 @@ export const metallica72Seasons = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-03-30",
-  externalId: "5vFa10TvQUWpEv9OkVBatc",
-  externalLink: "https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5vFa10TvQUWpEv9OkVBatc",
+      externalLink: "https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const linkinParkTwoFaced = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-11-13",
-  externalId: "4kksZlvAqineklmhltdTFe",
-  externalLink: "https://open.spotify.com/album/4kksZlvAqineklmhltdTFe",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4kksZlvAqineklmhltdTFe",
+      externalLink: "https://open.spotify.com/album/4kksZlvAqineklmhltdTFe",
+    },
+  ],
 } as const satisfies Release

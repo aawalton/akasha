@@ -12,6 +12,11 @@ export const linkinParkLeaveOutAllTheRest = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2008-06-24",
-  externalId: "7vOJXMIXouPRCSXDGb988G",
-  externalLink: "https://open.spotify.com/album/7vOJXMIXouPRCSXDGb988G",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7vOJXMIXouPRCSXDGb988G",
+      externalLink: "https://open.spotify.com/album/7vOJXMIXouPRCSXDGb988G",
+    },
+  ],
 } as const satisfies Release

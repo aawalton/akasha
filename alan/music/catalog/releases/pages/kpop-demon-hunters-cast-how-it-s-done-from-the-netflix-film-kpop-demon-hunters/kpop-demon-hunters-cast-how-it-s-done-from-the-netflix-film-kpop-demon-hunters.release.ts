@@ -12,6 +12,11 @@ export const kpopDemonHuntersCastHowItSDoneFromTheNetflixFilmKpopDemonHunters = 
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-06-19",
-  externalId: "3ffKNCBNBLctF5ZNX4vZEO",
-  externalLink: "https://open.spotify.com/album/3ffKNCBNBLctF5ZNX4vZEO",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ffKNCBNBLctF5ZNX4vZEO",
+      externalLink: "https://open.spotify.com/album/3ffKNCBNBLctF5ZNX4vZEO",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const ledZeppelinPhysicalGraffitiRemaster = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1975-02-24",
-  externalId: "4Q7cPyiP8cMIlUEHAqeYfd",
-  externalLink: "https://open.spotify.com/album/4Q7cPyiP8cMIlUEHAqeYfd",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4Q7cPyiP8cMIlUEHAqeYfd",
+      externalLink: "https://open.spotify.com/album/4Q7cPyiP8cMIlUEHAqeYfd",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const linkinParkAThousandSuns = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2010-09-08",
-  externalId: "113yjuFZEqkkbuLi4sEBxo",
-  externalLink: "https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "113yjuFZEqkkbuLi4sEBxo",
+      externalLink: "https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo",
+    },
+  ],
 } as const satisfies Release

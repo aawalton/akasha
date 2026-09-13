@@ -13,7 +13,12 @@ export const lynLapidTheSimlishSong = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-10-03",
-  externalId: "3bNCCGuJGEtCFZ5H7htePd",
-  externalLink: "https://open.spotify.com/album/3bNCCGuJGEtCFZ5H7htePd",
-  lastSyncedAt: "2025-10-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3bNCCGuJGEtCFZ5H7htePd",
+      externalLink: "https://open.spotify.com/album/3bNCCGuJGEtCFZ5H7htePd",
+      lastSyncedAt: "2025-10-30",
+    },
+  ],
 } as const satisfies Release

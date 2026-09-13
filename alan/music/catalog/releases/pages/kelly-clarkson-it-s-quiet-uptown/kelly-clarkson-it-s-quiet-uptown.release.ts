@@ -12,7 +12,12 @@ export const kellyClarksonItSQuietUptown = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-04",
-  externalId: "61qEqIfpr68xdRTb0W1frK",
-  externalLink: "https://open.spotify.com/album/61qEqIfpr68xdRTb0W1frK",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "61qEqIfpr68xdRTb0W1frK",
+      externalLink: "https://open.spotify.com/album/61qEqIfpr68xdRTb0W1frK",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

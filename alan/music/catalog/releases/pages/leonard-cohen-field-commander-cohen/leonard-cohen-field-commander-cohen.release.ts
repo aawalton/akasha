@@ -12,7 +12,12 @@ export const leonardCohenFieldCommanderCohen = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2001-02-20",
-  externalId: "0veLxMmMMFlBraLGyQ48mq",
-  externalLink: "https://open.spotify.com/album/0veLxMmMMFlBraLGyQ48mq",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0veLxMmMMFlBraLGyQ48mq",
+      externalLink: "https://open.spotify.com/album/0veLxMmMMFlBraLGyQ48mq",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

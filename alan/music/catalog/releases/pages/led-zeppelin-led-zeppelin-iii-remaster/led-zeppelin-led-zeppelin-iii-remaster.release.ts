@@ -11,6 +11,11 @@ export const ledZeppelinLedZeppelinIiiRemaster = {
   ownProgress: 0,
   unit: "minutes",
   status: "not-started",
-  externalId: "6P5QHz4XtxOmS5EuiGIPut",
-  externalLink: "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6P5QHz4XtxOmS5EuiGIPut",
+      externalLink: "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut",
+    },
+  ],
 } as const satisfies Release

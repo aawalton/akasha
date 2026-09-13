@@ -12,6 +12,11 @@ export const linkinParkReanimation = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2002-01-01",
-  externalId: "1MhedvSCTqGphXQz3oucpj",
-  externalLink: "https://open.spotify.com/album/1MhedvSCTqGphXQz3oucpj",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1MhedvSCTqGphXQz3oucpj",
+      externalLink: "https://open.spotify.com/album/1MhedvSCTqGphXQz3oucpj",
+    },
+  ],
 } as const satisfies Release

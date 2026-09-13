@@ -12,6 +12,11 @@ export const linkinParkTheHuntingPartyAcapellasInstrumentals = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2014-06-09",
-  externalId: "6hU9JCoqq4GjYq86dQ1o9b",
-  externalLink: "https://open.spotify.com/album/6hU9JCoqq4GjYq86dQ1o9b",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6hU9JCoqq4GjYq86dQ1o9b",
+      externalLink: "https://open.spotify.com/album/6hU9JCoqq4GjYq86dQ1o9b",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const leonardCohenTenNewSongs = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2001-10-09",
-  externalId: "0AMbk6F6ZJ57OqlpB214gV",
-  externalLink: "https://open.spotify.com/album/0AMbk6F6ZJ57OqlpB214gV",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0AMbk6F6ZJ57OqlpB214gV",
+      externalLink: "https://open.spotify.com/album/0AMbk6F6ZJ57OqlpB214gV",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

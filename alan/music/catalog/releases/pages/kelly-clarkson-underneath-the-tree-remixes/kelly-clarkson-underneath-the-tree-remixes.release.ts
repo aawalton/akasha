@@ -12,7 +12,12 @@ export const kellyClarksonUnderneathTheTreeRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-12-17",
-  externalId: "7wiJtaYXCOGFHDGDrPX7A9",
-  externalLink: "https://open.spotify.com/album/7wiJtaYXCOGFHDGDrPX7A9",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7wiJtaYXCOGFHDGDrPX7A9",
+      externalLink: "https://open.spotify.com/album/7wiJtaYXCOGFHDGDrPX7A9",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

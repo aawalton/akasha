@@ -12,6 +12,11 @@ export const katyPerryWhereWeStarted = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-03-31",
-  externalId: "6AkWdIHq1og7xa6dLrzHeQ",
-  externalLink: "https://open.spotify.com/album/6AkWdIHq1og7xa6dLrzHeQ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6AkWdIHq1og7xa6dLrzHeQ",
+      externalLink: "https://open.spotify.com/album/6AkWdIHq1og7xa6dLrzHeQ",
+    },
+  ],
 } as const satisfies Release

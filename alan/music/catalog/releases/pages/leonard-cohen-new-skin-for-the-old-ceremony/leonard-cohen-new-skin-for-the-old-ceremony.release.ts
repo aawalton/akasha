@@ -12,7 +12,12 @@ export const leonardCohenNewSkinForTheOldCeremony = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1974-08-11",
-  externalId: "6LXadMatlf17dDrWzJO9eL",
-  externalLink: "https://open.spotify.com/album/6LXadMatlf17dDrWzJO9eL",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6LXadMatlf17dDrWzJO9eL",
+      externalLink: "https://open.spotify.com/album/6LXadMatlf17dDrWzJO9eL",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

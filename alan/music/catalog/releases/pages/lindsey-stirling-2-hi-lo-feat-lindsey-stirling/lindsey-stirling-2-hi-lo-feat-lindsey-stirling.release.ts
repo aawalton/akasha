@@ -12,6 +12,11 @@ export const lindseyStirling2HiLoFeatLindseyStirling = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-06-08",
-  externalId: "73CyYEWFPeRGWPuI1VJxsw",
-  externalLink: "https://open.spotify.com/album/73CyYEWFPeRGWPuI1VJxsw",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "73CyYEWFPeRGWPuI1VJxsw",
+      externalLink: "https://open.spotify.com/album/73CyYEWFPeRGWPuI1VJxsw",
+    },
+  ],
 } as const satisfies Release

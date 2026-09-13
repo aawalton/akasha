@@ -12,7 +12,12 @@ export const leonardCohenLiveInLondon = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2009-03-30",
-  externalId: "4rgYbbaJOr9fv0MdEcIkIY",
-  externalLink: "https://open.spotify.com/album/4rgYbbaJOr9fv0MdEcIkIY",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4rgYbbaJOr9fv0MdEcIkIY",
+      externalLink: "https://open.spotify.com/album/4rgYbbaJOr9fv0MdEcIkIY",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

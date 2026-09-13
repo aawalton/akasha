@@ -12,6 +12,11 @@ export const ledZeppelinPresenceRemaster = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1976-03-31",
-  externalId: "3uhD8hNpb0m3iIZ18RHH5u",
-  externalLink: "https://open.spotify.com/album/3uhD8hNpb0m3iIZ18RHH5u",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3uhD8hNpb0m3iIZ18RHH5u",
+      externalLink: "https://open.spotify.com/album/3uhD8hNpb0m3iIZ18RHH5u",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const lynLapidWhenSheLovedMe = {
   status: "completed",
   rank: "B",
   publishedAt: "2021-05-25",
-  externalId: "3nGZB91emd3OVE25ra3Ovp",
-  externalLink: "https://open.spotify.com/album/3nGZB91emd3OVE25ra3Ovp",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3nGZB91emd3OVE25ra3Ovp",
+      externalLink: "https://open.spotify.com/album/3nGZB91emd3OVE25ra3Ovp",
+    },
+  ],
 } as const satisfies Release

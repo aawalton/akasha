@@ -13,6 +13,11 @@ export const lynLapidWinterWishes = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-11-15",
-  externalId: "75CXdCIqKbAa4y8lfFc4qo",
-  externalLink: "https://open.spotify.com/album/75CXdCIqKbAa4y8lfFc4qo",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "75CXdCIqKbAa4y8lfFc4qo",
+      externalLink: "https://open.spotify.com/album/75CXdCIqKbAa4y8lfFc4qo",
+    },
+  ],
 } as const satisfies Release

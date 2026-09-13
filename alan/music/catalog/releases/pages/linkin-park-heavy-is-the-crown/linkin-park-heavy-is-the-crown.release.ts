@@ -12,6 +12,11 @@ export const linkinParkHeavyIsTheCrown = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-09-24",
-  externalId: "3Su6Sgi0YjcUFuCzjLKYYq",
-  externalLink: "https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3Su6Sgi0YjcUFuCzjLKYYq",
+      externalLink: "https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq",
+    },
+  ],
 } as const satisfies Release

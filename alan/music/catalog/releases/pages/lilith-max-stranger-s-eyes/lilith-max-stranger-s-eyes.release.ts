@@ -13,6 +13,11 @@ export const lilithMaxStrangerSEyes = {
   status: "completed",
   rank: "C",
   publishedAt: "2021-03-26",
-  externalId: "5U90VwDavvq29LdBCxiwZn",
-  externalLink: "https://open.spotify.com/album/5U90VwDavvq29LdBCxiwZn",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5U90VwDavvq29LdBCxiwZn",
+      externalLink: "https://open.spotify.com/album/5U90VwDavvq29LdBCxiwZn",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const lilithMaxStillWithMe = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-03-15",
-  externalId: "2XFZGyKpNRX0FFT07EiYYh",
-  externalLink: "https://open.spotify.com/album/2XFZGyKpNRX0FFT07EiYYh",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2XFZGyKpNRX0FFT07EiYYh",
+      externalLink: "https://open.spotify.com/album/2XFZGyKpNRX0FFT07EiYYh",
+    },
+  ],
 } as const satisfies Release

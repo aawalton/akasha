@@ -12,6 +12,11 @@ export const lindseyStirling2SpotifySingles = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-30",
-  externalId: "1XXSHevNKbENDXqH5iRSEC",
-  externalLink: "https://open.spotify.com/album/1XXSHevNKbENDXqH5iRSEC",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1XXSHevNKbENDXqH5iRSEC",
+      externalLink: "https://open.spotify.com/album/1XXSHevNKbENDXqH5iRSEC",
+    },
+  ],
 } as const satisfies Release

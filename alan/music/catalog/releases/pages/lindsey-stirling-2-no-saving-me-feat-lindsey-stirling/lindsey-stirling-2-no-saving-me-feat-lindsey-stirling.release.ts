@@ -12,6 +12,11 @@ export const lindseyStirling2NoSavingMeFeatLindseyStirling = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-09-18",
-  externalId: "02e9F3R2qH6Z5L8gegJnAL",
-  externalLink: "https://open.spotify.com/album/02e9F3R2qH6Z5L8gegJnAL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "02e9F3R2qH6Z5L8gegJnAL",
+      externalLink: "https://open.spotify.com/album/02e9F3R2qH6Z5L8gegJnAL",
+    },
+  ],
 } as const satisfies Release

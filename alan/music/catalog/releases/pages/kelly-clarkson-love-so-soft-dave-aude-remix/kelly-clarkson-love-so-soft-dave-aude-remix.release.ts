@@ -12,7 +12,12 @@ export const kellyClarksonLoveSoSoftDaveAudeRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-10-25",
-  externalId: "6RRyIwR011sfbWfm9eVQsi",
-  externalLink: "https://open.spotify.com/album/6RRyIwR011sfbWfm9eVQsi",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6RRyIwR011sfbWfm9eVQsi",
+      externalLink: "https://open.spotify.com/album/6RRyIwR011sfbWfm9eVQsi",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

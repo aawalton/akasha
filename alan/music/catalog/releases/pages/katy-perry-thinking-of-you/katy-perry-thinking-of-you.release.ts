@@ -12,6 +12,11 @@ export const katyPerryThinkingOfYou = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2009-01-01",
-  externalId: "6QMt0VIXFUFDrYaDBnjfYO",
-  externalLink: "https://open.spotify.com/album/6QMt0VIXFUFDrYaDBnjfYO",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6QMt0VIXFUFDrYaDBnjfYO",
+      externalLink: "https://open.spotify.com/album/6QMt0VIXFUFDrYaDBnjfYO",
+    },
+  ],
 } as const satisfies Release

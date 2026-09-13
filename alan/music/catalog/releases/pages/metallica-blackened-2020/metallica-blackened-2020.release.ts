@@ -12,6 +12,11 @@ export const metallicaBlackened2020 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-05-15",
-  externalId: "4UAflzkXm8xkKy1BbHaQQU",
-  externalLink: "https://open.spotify.com/album/4UAflzkXm8xkKy1BbHaQQU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4UAflzkXm8xkKy1BbHaQQU",
+      externalLink: "https://open.spotify.com/album/4UAflzkXm8xkKy1BbHaQQU",
+    },
+  ],
 } as const satisfies Release

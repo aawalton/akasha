@@ -12,6 +12,11 @@ export const metallicaDeathMagnetic = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2008-09-12",
-  externalId: "0lf5ceMub7KQhLfGxCdM06",
-  externalLink: "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0lf5ceMub7KQhLfGxCdM06",
+      externalLink: "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06",
+    },
+  ],
 } as const satisfies Release

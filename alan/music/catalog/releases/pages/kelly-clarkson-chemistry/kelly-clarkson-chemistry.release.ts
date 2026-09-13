@@ -12,7 +12,12 @@ export const kellyClarksonChemistry = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-23",
-  externalId: "5c56JYNgc48iDnwHHlOcye",
-  externalLink: "https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5c56JYNgc48iDnwHHlOcye",
+      externalLink: "https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

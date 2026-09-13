@@ -12,7 +12,12 @@ export const kellyClarksonInvincibleRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-06-23",
-  externalId: "5zNmdih2C1NoVO8nvSvj3z",
-  externalLink: "https://open.spotify.com/album/5zNmdih2C1NoVO8nvSvj3z",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5zNmdih2C1NoVO8nvSvj3z",
+      externalLink: "https://open.spotify.com/album/5zNmdih2C1NoVO8nvSvj3z",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

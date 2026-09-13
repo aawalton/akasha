@@ -12,7 +12,12 @@ export const leonardCohenDeathOfALadiesMan = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1977-11-13",
-  externalId: "0qghwsBOHAhmIukaW08IOT",
-  externalLink: "https://open.spotify.com/album/0qghwsBOHAhmIukaW08IOT",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0qghwsBOHAhmIukaW08IOT",
+      externalLink: "https://open.spotify.com/album/0qghwsBOHAhmIukaW08IOT",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

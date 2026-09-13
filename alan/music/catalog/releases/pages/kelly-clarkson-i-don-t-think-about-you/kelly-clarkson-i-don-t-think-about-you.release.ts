@@ -12,7 +12,12 @@ export const kellyClarksonIDonTThinkAboutYou = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-02-09",
-  externalId: "1NNEW3psvveAy8wNnoyoLV",
-  externalLink: "https://open.spotify.com/album/1NNEW3psvveAy8wNnoyoLV",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1NNEW3psvveAy8wNnoyoLV",
+      externalLink: "https://open.spotify.com/album/1NNEW3psvveAy8wNnoyoLV",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const kellyClarksonMineLiveFromTheBelasco = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-08-17",
-  externalId: "1AMJ7zubViKtgMM0oSc0uO",
-  externalLink: "https://open.spotify.com/album/1AMJ7zubViKtgMM0oSc0uO",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1AMJ7zubViKtgMM0oSc0uO",
+      externalLink: "https://open.spotify.com/album/1AMJ7zubViKtgMM0oSc0uO",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

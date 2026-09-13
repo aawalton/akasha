@@ -12,7 +12,12 @@ export const kellyClarksonChristmasIsnTCanceledJustYou = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-09-24",
-  externalId: "6I9HJMBHYYRgrYUmAOqBDI",
-  externalLink: "https://open.spotify.com/album/6I9HJMBHYYRgrYUmAOqBDI",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6I9HJMBHYYRgrYUmAOqBDI",
+      externalLink: "https://open.spotify.com/album/6I9HJMBHYYRgrYUmAOqBDI",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

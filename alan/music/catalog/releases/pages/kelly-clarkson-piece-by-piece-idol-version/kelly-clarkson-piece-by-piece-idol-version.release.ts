@@ -12,7 +12,12 @@ export const kellyClarksonPieceByPieceIdolVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-02-29",
-  externalId: "3H1y72UPOy38CnoeZCMvEu",
-  externalLink: "https://open.spotify.com/album/3H1y72UPOy38CnoeZCMvEu",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3H1y72UPOy38CnoeZCMvEu",
+      externalLink: "https://open.spotify.com/album/3H1y72UPOy38CnoeZCMvEu",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

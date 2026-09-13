@@ -12,6 +12,11 @@ export const ledZeppelinPresenceDeluxeEdition = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1976-03-31",
-  externalId: "6vSiY2OVanKKforfEOT2PD",
-  externalLink: "https://open.spotify.com/album/6vSiY2OVanKKforfEOT2PD",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6vSiY2OVanKKforfEOT2PD",
+      externalLink: "https://open.spotify.com/album/6vSiY2OVanKKforfEOT2PD",
+    },
+  ],
 } as const satisfies Release

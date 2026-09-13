@@ -13,6 +13,11 @@ export const lynLapidWhereIsMyMindCoverVersion = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-06-13",
-  externalId: "1trEKAk6KhUpUrWul8N1Ih",
-  externalLink: "https://open.spotify.com/album/1trEKAk6KhUpUrWul8N1Ih",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1trEKAk6KhUpUrWul8N1Ih",
+      externalLink: "https://open.spotify.com/album/1trEKAk6KhUpUrWul8N1Ih",
+    },
+  ],
 } as const satisfies Release

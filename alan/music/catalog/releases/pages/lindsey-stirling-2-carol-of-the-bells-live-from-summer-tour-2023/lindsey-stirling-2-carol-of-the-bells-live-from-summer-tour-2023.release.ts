@@ -12,6 +12,11 @@ export const lindseyStirling2CarolOfTheBellsLiveFromSummerTour2023 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-12-08",
-  externalId: "3JFzVwrtR8hjKerpRl5hI9",
-  externalLink: "https://open.spotify.com/album/3JFzVwrtR8hjKerpRl5hI9",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3JFzVwrtR8hjKerpRl5hI9",
+      externalLink: "https://open.spotify.com/album/3JFzVwrtR8hjKerpRl5hI9",
+    },
+  ],
 } as const satisfies Release

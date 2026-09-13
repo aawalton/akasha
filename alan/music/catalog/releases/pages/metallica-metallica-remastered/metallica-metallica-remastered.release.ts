@@ -12,6 +12,11 @@ export const metallicaMetallicaRemastered = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1991-08-12",
-  externalId: "55fq75UfkYbGMq4CncCtOH",
-  externalLink: "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "55fq75UfkYbGMq4CncCtOH",
+      externalLink: "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH",
+    },
+  ],
 } as const satisfies Release

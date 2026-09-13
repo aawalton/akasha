@@ -12,6 +12,11 @@ export const linkinParkTheHuntingParty = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2014-06-09",
-  externalId: "3XB2yloP7l00tEUmaODtVi",
-  externalLink: "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3XB2yloP7l00tEUmaODtVi",
+      externalLink: "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi",
+    },
+  ],
 } as const satisfies Release

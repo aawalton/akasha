@@ -12,6 +12,11 @@ export const ledZeppelinLedZeppelinXLedZeppelin = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-09-27",
-  externalId: "5jQEuOsezpHOAhfQXMGTLo",
-  externalLink: "https://open.spotify.com/album/5jQEuOsezpHOAhfQXMGTLo",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5jQEuOsezpHOAhfQXMGTLo",
+      externalLink: "https://open.spotify.com/album/5jQEuOsezpHOAhfQXMGTLo",
+    },
+  ],
 } as const satisfies Release

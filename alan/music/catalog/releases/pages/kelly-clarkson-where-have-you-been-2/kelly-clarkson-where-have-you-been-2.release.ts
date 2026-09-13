@@ -12,7 +12,12 @@ export const kellyClarksonWhereHaveYouBeen2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-06-20",
-  externalId: "1OGIMpOkO1J5RXgopt8qE6",
-  externalLink: "https://open.spotify.com/album/1OGIMpOkO1J5RXgopt8qE6",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1OGIMpOkO1J5RXgopt8qE6",
+      externalLink: "https://open.spotify.com/album/1OGIMpOkO1J5RXgopt8qE6",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

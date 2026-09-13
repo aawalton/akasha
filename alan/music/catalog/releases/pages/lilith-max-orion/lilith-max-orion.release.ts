@@ -13,6 +13,11 @@ export const lilithMaxOrion = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-09-12",
-  externalId: "5XV5vYFUWD0ilmoa5ZnpWK",
-  externalLink: "https://open.spotify.com/album/5XV5vYFUWD0ilmoa5ZnpWK",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5XV5vYFUWD0ilmoa5ZnpWK",
+      externalLink: "https://open.spotify.com/album/5XV5vYFUWD0ilmoa5ZnpWK",
+    },
+  ],
 } as const satisfies Release

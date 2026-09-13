@@ -12,6 +12,11 @@ export const linkinParkInterviewMikeShinoda = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2014-06-03",
-  externalId: "5V5fzpsH5xt2xrHJPg6Djz",
-  externalLink: "https://open.spotify.com/album/5V5fzpsH5xt2xrHJPg6Djz",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5V5fzpsH5xt2xrHJPg6Djz",
+      externalLink: "https://open.spotify.com/album/5V5fzpsH5xt2xrHJPg6Djz",
+    },
+  ],
 } as const satisfies Release

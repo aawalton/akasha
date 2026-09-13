@@ -12,6 +12,11 @@ export const linkinParkFriendlyFireACappellaInstrumental = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-03-29",
-  externalId: "2JGoWZYDsksSiHcRqbGa3o",
-  externalLink: "https://open.spotify.com/album/2JGoWZYDsksSiHcRqbGa3o",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2JGoWZYDsksSiHcRqbGa3o",
+      externalLink: "https://open.spotify.com/album/2JGoWZYDsksSiHcRqbGa3o",
+    },
+  ],
 } as const satisfies Release

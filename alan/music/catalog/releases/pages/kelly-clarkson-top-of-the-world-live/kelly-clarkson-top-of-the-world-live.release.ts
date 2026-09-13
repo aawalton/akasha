@@ -12,7 +12,12 @@ export const kellyClarksonTopOfTheWorldLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-03",
-  externalId: "7zkWoyqV3PnXhCkYNC1eaR",
-  externalLink: "https://open.spotify.com/album/7zkWoyqV3PnXhCkYNC1eaR",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7zkWoyqV3PnXhCkYNC1eaR",
+      externalLink: "https://open.spotify.com/album/7zkWoyqV3PnXhCkYNC1eaR",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const lindseyStirling2Underground = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-06-21",
-  externalId: "0AAPCaReAdGtbGVYSIv6qj",
-  externalLink: "https://open.spotify.com/album/0AAPCaReAdGtbGVYSIv6qj",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0AAPCaReAdGtbGVYSIv6qj",
+      externalLink: "https://open.spotify.com/album/0AAPCaReAdGtbGVYSIv6qj",
+    },
+  ],
 } as const satisfies Release

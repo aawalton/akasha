@@ -12,7 +12,12 @@ export const kellyClarksonStrongerTrackByTrack = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2011-10-21",
-  externalId: "0RkzvNjxyp5qzMcWeuBTA2",
-  externalLink: "https://open.spotify.com/album/0RkzvNjxyp5qzMcWeuBTA2",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0RkzvNjxyp5qzMcWeuBTA2",
+      externalLink: "https://open.spotify.com/album/0RkzvNjxyp5qzMcWeuBTA2",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

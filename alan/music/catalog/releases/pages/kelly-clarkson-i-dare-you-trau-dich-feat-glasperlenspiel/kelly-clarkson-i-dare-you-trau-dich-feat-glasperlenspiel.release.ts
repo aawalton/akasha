@@ -12,7 +12,12 @@ export const kellyClarksonIDareYouTrauDichFeatGlasperlenspiel = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-11",
-  externalId: "4blV2ZIUY1ssDtKSCDXoFJ",
-  externalLink: "https://open.spotify.com/album/4blV2ZIUY1ssDtKSCDXoFJ",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4blV2ZIUY1ssDtKSCDXoFJ",
+      externalLink: "https://open.spotify.com/album/4blV2ZIUY1ssDtKSCDXoFJ",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

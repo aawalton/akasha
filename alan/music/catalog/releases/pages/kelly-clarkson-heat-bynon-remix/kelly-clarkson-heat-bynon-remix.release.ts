@@ -12,7 +12,12 @@ export const kellyClarksonHeatBynonRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-01-18",
-  externalId: "2hXSDzsgyQ7ll2qv3nOlw3",
-  externalLink: "https://open.spotify.com/album/2hXSDzsgyQ7ll2qv3nOlw3",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2hXSDzsgyQ7ll2qv3nOlw3",
+      externalLink: "https://open.spotify.com/album/2hXSDzsgyQ7ll2qv3nOlw3",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

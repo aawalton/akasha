@@ -12,6 +12,11 @@ export const lindseyStirling2EyeOfTheUntoldHer = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-03-08",
-  externalId: "0xIAQRcqdqEN493rC0p29Y",
-  externalLink: "https://open.spotify.com/album/0xIAQRcqdqEN493rC0p29Y",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0xIAQRcqdqEN493rC0p29Y",
+      externalLink: "https://open.spotify.com/album/0xIAQRcqdqEN493rC0p29Y",
+    },
+  ],
 } as const satisfies Release

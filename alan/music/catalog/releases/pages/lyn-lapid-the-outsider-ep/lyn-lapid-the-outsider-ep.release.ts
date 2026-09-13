@@ -13,6 +13,11 @@ export const lynLapidTheOutsiderEp = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-04-15",
-  externalId: "0c7zKLCs5B2Q34GStRLahp",
-  externalLink: "https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0c7zKLCs5B2Q34GStRLahp",
+      externalLink: "https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp",
+    },
+  ],
 } as const satisfies Release

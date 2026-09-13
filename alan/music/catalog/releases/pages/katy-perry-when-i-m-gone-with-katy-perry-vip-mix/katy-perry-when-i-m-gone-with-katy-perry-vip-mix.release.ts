@@ -12,6 +12,11 @@ export const katyPerryWhenIMGoneWithKatyPerryVipMix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-02-18",
-  externalId: "7Bm6JstkS27sFuX9UPbXfQ",
-  externalLink: "https://open.spotify.com/album/7Bm6JstkS27sFuX9UPbXfQ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7Bm6JstkS27sFuX9UPbXfQ",
+      externalLink: "https://open.spotify.com/album/7Bm6JstkS27sFuX9UPbXfQ",
+    },
+  ],
 } as const satisfies Release

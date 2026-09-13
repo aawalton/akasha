@@ -12,7 +12,12 @@ export const kellyClarksonHappierThanEver = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-05-25",
-  externalId: "6Yg2WbhAn0F3vFiwFnC7wO",
-  externalLink: "https://open.spotify.com/album/6Yg2WbhAn0F3vFiwFnC7wO",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Yg2WbhAn0F3vFiwFnC7wO",
+      externalLink: "https://open.spotify.com/album/6Yg2WbhAn0F3vFiwFnC7wO",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

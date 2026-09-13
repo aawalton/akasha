@@ -12,6 +12,11 @@ export const linkinParkNotAlone = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2011-10-21",
-  externalId: "5WeoTn1XJXrLrDGQoDgOQv",
-  externalLink: "https://open.spotify.com/album/5WeoTn1XJXrLrDGQoDgOQv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5WeoTn1XJXrLrDGQoDgOQv",
+      externalLink: "https://open.spotify.com/album/5WeoTn1XJXrLrDGQoDgOQv",
+    },
+  ],
 } as const satisfies Release

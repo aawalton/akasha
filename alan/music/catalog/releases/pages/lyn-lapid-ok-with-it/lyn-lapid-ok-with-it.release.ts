@@ -13,6 +13,11 @@ export const lynLapidOkWithIt = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-05-19",
-  externalId: "1VTt9SI2yCJMHuJ9JItnt9",
-  externalLink: "https://open.spotify.com/album/1VTt9SI2yCJMHuJ9JItnt9",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1VTt9SI2yCJMHuJ9JItnt9",
+      externalLink: "https://open.spotify.com/album/1VTt9SI2yCJMHuJ9JItnt9",
+    },
+  ],
 } as const satisfies Release

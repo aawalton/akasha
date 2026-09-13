@@ -12,7 +12,12 @@ export const kellyClarksonChristmasEve = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-10-18",
-  externalId: "2khYBC4AAkfTty8FoW00Uq",
-  externalLink: "https://open.spotify.com/album/2khYBC4AAkfTty8FoW00Uq",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2khYBC4AAkfTty8FoW00Uq",
+      externalLink: "https://open.spotify.com/album/2khYBC4AAkfTty8FoW00Uq",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

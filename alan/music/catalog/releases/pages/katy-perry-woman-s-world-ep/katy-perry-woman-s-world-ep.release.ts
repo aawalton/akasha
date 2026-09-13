@@ -12,6 +12,11 @@ export const katyPerryWomanSWorldEp = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-07-15",
-  externalId: "6zSIkJTqQm06zGCunKbmaR",
-  externalLink: "https://open.spotify.com/album/6zSIkJTqQm06zGCunKbmaR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6zSIkJTqQm06zGCunKbmaR",
+      externalLink: "https://open.spotify.com/album/6zSIkJTqQm06zGCunKbmaR",
+    },
+  ],
 } as const satisfies Release

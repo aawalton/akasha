@@ -13,6 +13,11 @@ export const lynLapidPosterBoy = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-04-14",
-  externalId: "2ErL96QPbe4hXnU8K2giJr",
-  externalLink: "https://open.spotify.com/album/2ErL96QPbe4hXnU8K2giJr",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2ErL96QPbe4hXnU8K2giJr",
+      externalLink: "https://open.spotify.com/album/2ErL96QPbe4hXnU8K2giJr",
+    },
+  ],
 } as const satisfies Release

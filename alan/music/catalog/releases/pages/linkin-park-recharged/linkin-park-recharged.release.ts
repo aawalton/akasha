@@ -12,6 +12,11 @@ export const linkinParkRecharged = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2013-10-25",
-  externalId: "2FUsvD1bw53HGOjAg56vRD",
-  externalLink: "https://open.spotify.com/album/2FUsvD1bw53HGOjAg56vRD",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2FUsvD1bw53HGOjAg56vRD",
+      externalLink: "https://open.spotify.com/album/2FUsvD1bw53HGOjAg56vRD",
+    },
+  ],
 } as const satisfies Release

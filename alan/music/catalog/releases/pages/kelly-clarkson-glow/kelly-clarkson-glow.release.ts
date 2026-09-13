@@ -12,7 +12,12 @@ export const kellyClarksonGlow = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-14",
-  externalId: "1gGakSDaIqMO3AvJyNPxBX",
-  externalLink: "https://open.spotify.com/album/1gGakSDaIqMO3AvJyNPxBX",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1gGakSDaIqMO3AvJyNPxBX",
+      externalLink: "https://open.spotify.com/album/1gGakSDaIqMO3AvJyNPxBX",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

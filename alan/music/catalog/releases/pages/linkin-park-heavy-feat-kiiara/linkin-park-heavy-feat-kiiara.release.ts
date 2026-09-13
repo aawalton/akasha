@@ -12,6 +12,11 @@ export const linkinParkHeavyFeatKiiara = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2017-02-16",
-  externalId: "7yCCAkxJFamv33CoSjxpJX",
-  externalLink: "https://open.spotify.com/album/7yCCAkxJFamv33CoSjxpJX",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7yCCAkxJFamv33CoSjxpJX",
+      externalLink: "https://open.spotify.com/album/7yCCAkxJFamv33CoSjxpJX",
+    },
+  ],
 } as const satisfies Release

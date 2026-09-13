@@ -12,7 +12,12 @@ export const kellyClarksonNissanLiveSetsAtYahooMusic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2007-07-31",
-  externalId: "6NEzXXoQlQqLROVlqpXJHX",
-  externalLink: "https://open.spotify.com/album/6NEzXXoQlQqLROVlqpXJHX",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6NEzXXoQlQqLROVlqpXJHX",
+      externalLink: "https://open.spotify.com/album/6NEzXXoQlQqLROVlqpXJHX",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const linkinParkTheEmptinessMachine = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-09-05",
-  externalId: "6W0Gabv5f3ugnckc6YgfJQ",
-  externalLink: "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6W0Gabv5f3ugnckc6YgfJQ",
+      externalLink: "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ",
+    },
+  ],
 } as const satisfies Release

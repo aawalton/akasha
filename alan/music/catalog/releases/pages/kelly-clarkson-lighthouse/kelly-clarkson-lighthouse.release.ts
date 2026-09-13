@@ -12,7 +12,12 @@ export const kellyClarksonLighthouse = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-01-12",
-  externalId: "4DzAjjwEIpOvWQPVrI9lva",
-  externalLink: "https://open.spotify.com/album/4DzAjjwEIpOvWQPVrI9lva",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4DzAjjwEIpOvWQPVrI9lva",
+      externalLink: "https://open.spotify.com/album/4DzAjjwEIpOvWQPVrI9lva",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

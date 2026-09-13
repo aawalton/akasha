@@ -13,6 +13,11 @@ export const lynLapidToLoveInThe21stCenturyTheEpilogue = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-12-01",
-  externalId: "5gJGE4rjt0FgauKwsrak11",
-  externalLink: "https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5gJGE4rjt0FgauKwsrak11",
+      externalLink: "https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11",
+    },
+  ],
 } as const satisfies Release

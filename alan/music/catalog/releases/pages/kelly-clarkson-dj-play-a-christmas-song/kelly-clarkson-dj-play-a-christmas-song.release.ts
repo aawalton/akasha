@@ -12,7 +12,12 @@ export const kellyClarksonDjPlayAChristmasSong = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-11-08",
-  externalId: "6YPrceRYDOvKzxMFwvR31s",
-  externalLink: "https://open.spotify.com/album/6YPrceRYDOvKzxMFwvR31s",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6YPrceRYDOvKzxMFwvR31s",
+      externalLink: "https://open.spotify.com/album/6YPrceRYDOvKzxMFwvR31s",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

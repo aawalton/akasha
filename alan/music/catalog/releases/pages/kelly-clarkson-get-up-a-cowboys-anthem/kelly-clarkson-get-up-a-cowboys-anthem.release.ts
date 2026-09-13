@@ -12,7 +12,12 @@ export const kellyClarksonGetUpACowboysAnthem = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-10-02",
-  externalId: "6X6HTEqlfRVxCvSXPYDp1Y",
-  externalLink: "https://open.spotify.com/album/6X6HTEqlfRVxCvSXPYDp1Y",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6X6HTEqlfRVxCvSXPYDp1Y",
+      externalLink: "https://open.spotify.com/album/6X6HTEqlfRVxCvSXPYDp1Y",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

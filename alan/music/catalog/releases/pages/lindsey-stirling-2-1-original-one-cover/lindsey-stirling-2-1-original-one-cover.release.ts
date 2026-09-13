@@ -12,6 +12,11 @@ export const lindseyStirling21OriginalOneCover = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-01-14",
-  externalId: "6W5kZEO4zUyyIQvnsHe3I7",
-  externalLink: "https://open.spotify.com/album/6W5kZEO4zUyyIQvnsHe3I7",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6W5kZEO4zUyyIQvnsHe3I7",
+      externalLink: "https://open.spotify.com/album/6W5kZEO4zUyyIQvnsHe3I7",
+    },
+  ],
 } as const satisfies Release

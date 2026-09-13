@@ -12,7 +12,12 @@ export const leonardCohenYouWantItDarkerSolomunRemix = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-07-20",
-  externalId: "6UWGwHOXessX2g39CQqiN3",
-  externalLink: "https://open.spotify.com/album/6UWGwHOXessX2g39CQqiN3",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6UWGwHOXessX2g39CQqiN3",
+      externalLink: "https://open.spotify.com/album/6UWGwHOXessX2g39CQqiN3",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

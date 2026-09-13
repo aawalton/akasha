@@ -12,7 +12,12 @@ export const leonardCohenCohenLive = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1994-01-01",
-  externalId: "6hpdLjR6verctKUoiTJJoL",
-  externalLink: "https://open.spotify.com/album/6hpdLjR6verctKUoiTJJoL",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6hpdLjR6verctKUoiTJJoL",
+      externalLink: "https://open.spotify.com/album/6hpdLjR6verctKUoiTJJoL",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
 } as const satisfies Release

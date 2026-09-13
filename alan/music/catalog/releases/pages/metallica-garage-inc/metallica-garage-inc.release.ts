@@ -12,6 +12,11 @@ export const metallicaGarageInc = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1998-11-24",
-  externalId: "5b7HQ04lPT7eGJQ7fmVsjC",
-  externalLink: "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5b7HQ04lPT7eGJQ7fmVsjC",
+      externalLink: "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC",
+    },
+  ],
 } as const satisfies Release

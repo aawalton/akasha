@@ -12,7 +12,12 @@ export const kellyClarksonIDareYouMultiLanguageDuets = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-16",
-  externalId: "4OUdmzLsYYpcUbCPS7TTZ7",
-  externalLink: "https://open.spotify.com/album/4OUdmzLsYYpcUbCPS7TTZ7",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4OUdmzLsYYpcUbCPS7TTZ7",
+      externalLink: "https://open.spotify.com/album/4OUdmzLsYYpcUbCPS7TTZ7",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

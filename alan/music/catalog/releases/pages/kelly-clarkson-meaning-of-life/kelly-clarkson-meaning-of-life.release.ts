@@ -12,7 +12,12 @@ export const kellyClarksonMeaningOfLife = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-10-27",
-  externalId: "6GBu7GU6dztLYlZuUHiwA2",
-  externalLink: "https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6GBu7GU6dztLYlZuUHiwA2",
+      externalLink: "https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Release

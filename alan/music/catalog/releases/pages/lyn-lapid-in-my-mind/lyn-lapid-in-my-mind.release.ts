@@ -13,6 +13,11 @@ export const lynLapidInMyMind = {
   status: "completed",
   rank: "B",
   publishedAt: "2021-10-01",
-  externalId: "7AvjK1iLaukb9xYs9aHdG2",
-  externalLink: "https://open.spotify.com/album/7AvjK1iLaukb9xYs9aHdG2",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7AvjK1iLaukb9xYs9aHdG2",
+      externalLink: "https://open.spotify.com/album/7AvjK1iLaukb9xYs9aHdG2",
+    },
+  ],
 } as const satisfies Release
