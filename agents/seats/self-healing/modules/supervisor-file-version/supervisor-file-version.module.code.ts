@@ -196,8 +196,3 @@ export async function pollSupervisorFileVersion(
   if (!verdict.deliver) return
   await deliver({ liveVersion: seen, deployedAt: nowMs })
 }
-
-export function resetSupervisorFileGraphForTesting(): undefined {
-  graph = null
-  heldWatch = NOTHING_DELIVERED
-}
