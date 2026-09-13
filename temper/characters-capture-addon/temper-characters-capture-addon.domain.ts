@@ -40,12 +40,6 @@ export const temperCharactersCaptureAddon = {
     "module/character-capture-skill-line-map",
     "module/character-capture-skill-line-ranks",
     "module/character-capture-skill-map",
-    "module/character-capture-skill-name-00",
-    "module/character-capture-skill-name-01",
-    "module/character-capture-skill-name-02",
-    "module/character-capture-skill-name-03",
-    "module/character-capture-skill-name-04",
-    "module/character-capture-skill-name-05",
   ],
   invariants: [
     {
