@@ -10,6 +10,7 @@ export const temperInventory = {
     "command/temper-inventory-category-list",
     "command/temper-inventory-configuration",
     "command/temper-inventory-decode-link",
+    "command/temper-inventory-env-parity",
     "command/temper-inventory-explain",
     "command/temper-inventory-knowledge",
     "command/temper-inventory-lookup-item",
