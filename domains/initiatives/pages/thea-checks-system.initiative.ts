@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "The check passes over a value a runner reaches by path rather than by import.",
       workingMemory:
-        "233 refusals sit in page code a runner loads by path, so the import index sees no importer: lualib shims 123, commands 34, computed properties 34, change guards 11, check modules 11, manifests 6, type generators 6, readouts 5, model tests 3. `pages/modules/calculation-loading` reaches a computed property's `work` by name. Routes were settled first: a route's code is judged by nothing, since an `app-routes` page names the route and a url reaches it.",
+        "111 refusals sit in page code a runner loads by path, so the import index sees no importer: commands 35, computed properties 34, change guards 11, check modules 11, manifests 6, type generators 6, readouts 5, model tests 3. Two are settled: a route's code is judged by nothing, and the name a lualib page states as its `lua-export` is spared, since the compiler emits that name.",
     },
     {
       statement: "No module exports a value nothing names.",
@@ -20,12 +20,12 @@ export const theaChecksSystem = {
     {
       statement: "No file the broad unexport run left alone still publishes a value only it names.",
       workingMemory:
-        "10 refusals over 8 files the run skipped, each held back by its own fault. `introduced-property-is-a-part`'s decision has a test red at HEAD from a regression in `pages/types/modules/declared-properties`. Five lualib shims under `design/language/lua-compiler/lualibs` declare classes Biome calls unused once the `export` goes. `check-cost` and `code-tests` came later. The two atlas route files fell away once a route's code stopped being judged.",
+        "8 refusals over 5 files the run skipped. `introduced-property-is-a-part`'s decision has a test red at HEAD from a regression in `pages/types/modules/declared-properties`. `check-cost`, `code-tests`, `temper-inventory-plan` and `subagent-page-naming` came later. The five lualib shims and the two atlas route files fell away once a lua export and a route's code stopped being judged.",
     },
     {
       statement: "Every uncommitted body beside a page exports the name that page's writer makes.",
       workingMemory:
-        "24 `service-workstation` bodies carry export names from before that page type was renamed. `alan/harness/inboxes/relay-service/inbox-relay-service.service-workstation.uncommitted.ts` exports `inboxRelayServiceWorkstationServiceUncommitted` where `pages/modules/uncommitted/page-uncommitted.module.code.ts` now makes `inboxRelayServiceServiceWorkstationUncommitted`. Each is rewritten the next time its service writes, so this may clear itself.",
+        "6 `service-workstation` bodies still carry export names from before that page type was renamed. `pages/modules/uncommitted/page-uncommitted.module.code.ts` makes the name a writer uses now. Each is rewritten the next time its service writes, and most of the 24 first seen have cleared themselves that way.",
     },
   ],
   constraints: [
