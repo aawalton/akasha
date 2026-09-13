@@ -109,5 +109,6 @@ export const seatSupervisors = {
     "module/supervisor-wait-resume-answer",
     "module/supervisor-wait-resume-decide",
     "module/turn-end-error-death",
+    "page-type/supervisor-action",
   ],
 } as const satisfies Domain

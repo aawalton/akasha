@@ -24,6 +24,7 @@ export const agent = {
     "module/refusals-keeping",
     "module/tool-access",
     "page-type/agent",
+    "page-type/agent-settings",
     "page-type/claude-account",
     "page-type/role",
     "page-type/seat",
