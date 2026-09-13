@@ -1,17 +1,10 @@
-import { runChange as moveFiles } from "akasha/changes/mechanical/file/move/move-files/move-files.change-mechanical.code.ts"
-import { runChange as changeManifestWays } from "akasha/changes/mechanical/file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.code.ts"
-import { runChange as changePageProperty } from "akasha/changes/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
-import { runChange as changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
-import { runChange as renameExport } from "akasha/changes/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
-import { runChange as renamePageAddress } from "akasha/changes/mechanical/file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts"
-import { runChange as renamePageSlug } from "akasha/changes/mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
-import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   type Reaching,
   type World,
   worldAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
   bodyOf,
   indexedRepo,
@@ -200,30 +193,7 @@ export const pagesAt: string = indexedRepo({
   [WAY_CODE]: "export const kept = 8\n",
 })
 
-export const RUNS: Reaching = async (world, at, given) => {
-  if (at === "change-mechanical-file-content/rename-page-slug") {
-    return await renamePageSlug(world, given as Parameters<typeof renamePageSlug>[1])
-  }
-  if (at === "change-mechanical/move-files") {
-    return moveFiles(world, given as Parameters<typeof moveFiles>[1])
-  }
-  if (at === "change-mechanical-file-content/change-page-page-property") {
-    return changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
-  }
-  if (at === "change-mechanical-file-content/change-manifest-ways") {
-    return changeManifestWays(world, given as Parameters<typeof changeManifestWays>[1])
-  }
-  if (at === "change-mechanical-file-content/rename-export") {
-    return renameExport(world, given as Parameters<typeof renameExport>[1])
-  }
-  if (at === "change-mechanical-file-content/change-imports") {
-    return changeImports(world, given as Parameters<typeof changeImports>[1])
-  }
-  if (at === "change-mechanical-file-content/rename-page-address") {
-    return await renamePageAddress(world, given as Parameters<typeof renamePageAddress>[1])
-  }
-  return refusing(`\`${at}\` is reached by nothing here`)
-}
+export const RUNS: Reaching = running
 
 export function worldIn(root: string, textOf: (path: string) => string | null): World {
   return worldAt(root, textOf, RUNS)

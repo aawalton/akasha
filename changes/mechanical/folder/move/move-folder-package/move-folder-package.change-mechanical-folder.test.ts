@@ -1,25 +1,16 @@
 import { afterAll, expect, test } from "bun:test"
-import { runChange as moveFile } from "akasha/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
-import { runChange as moveFileCode } from "akasha/changes/mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"
-import { runChange as moveFiles } from "akasha/changes/mechanical/file/move/move-files/move-files.change-mechanical.code.ts"
-import { runChange as renameFilePage } from "akasha/changes/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts"
-import { runChange as changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
-import { runChange as renameExport } from "akasha/changes/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
-import { runChange as renamePageAddress } from "akasha/changes/mechanical/file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts"
-import { runChange as renamePageSlug } from "akasha/changes/mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
-import { runChange as moveFolderChange } from "akasha/changes/mechanical/folder/move/move-folder/move-folder.change-mechanical-folder.code.ts"
 import {
   landingFor,
   runChange,
   slugNaming,
 } from "akasha/changes/mechanical/folder/move/move-folder-package/move-folder-package.change-mechanical-folder.code.ts"
-import { pathsIn, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
-  type Reaching,
   type World,
   worldAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
   aType,
   bodyOf,
@@ -82,27 +73,9 @@ const HELD: Readonly<Record<string, string>> = {
     'import { holder } from "../code-system/modules/holder/holder.module.code.ts"\n\nexport const outer = holder + 1\n',
 }
 
-const REACHED = {
-  "change-mechanical/rename-file-page": renameFilePage,
-  "change-mechanical-folder/move-folder": moveFolderChange,
-  "change-mechanical-file-content/change-imports": changeImports,
-  "change-mechanical-file-content/rename-export": renameExport,
-  "change-mechanical-file-content/rename-page-address": renamePageAddress,
-  "change-mechanical-file-content/rename-page-slug": renamePageSlug,
-  "change-mechanical-file/move-file": moveFile,
-  "change-mechanical/move-file-code": moveFileCode,
-  "change-mechanical/move-files": moveFiles,
-} as const
-
-const RUNS: Reaching = async (world, at, given) => {
-  const run = REACHED[at as keyof typeof REACHED]
-  if (run === undefined) return refusing(`\`${at}\` is reached by nothing here`)
-  return await run(world, given as never)
-}
-
 function worldIn(): World {
   const root = indexedRepo(HELD)
-  return worldAt(root, textIn(root), RUNS)
+  return worldAt(root, textIn(root), running)
 }
 
 const PLURAL_INTO = "akasha/carriers"
@@ -129,7 +102,7 @@ const TYPED: Readonly<Record<string, string>> = {
 
 function typedWorld(): World {
   const root = indexedRepo(TYPED)
-  return worldAt(root, textIn(root), RUNS)
+  return worldAt(root, textIn(root), running)
 }
 
 test("a path beneath the folder lands beneath the folder that path moved to", () => {
