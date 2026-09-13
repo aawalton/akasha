@@ -10,6 +10,7 @@ export const removeEveryPageOfAType = {
   definition: "every page of one page type taken away, each with the files beside it",
   takesAtMost: true,
   code: "ts",
+  test: "ts",
   guards: [
     "change-guard/claimed-file-not-left-behind",
     "change-guard/import-not-left-hanging",
