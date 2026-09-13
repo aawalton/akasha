@@ -24,6 +24,7 @@ export const codeEditorDataInterface = {
     "module/service-tree-assemble",
     "module/state-cooldown",
     "module/state-reading",
+    "module/state-writing",
     "module/status-bar-composing",
     "module/tree-drawing",
     "number-property/cooldown-milliseconds",
@@ -45,6 +46,11 @@ export const codeEditorDataInterface = {
     {
       invariantKind: "departure",
       statement: "One service writes every file here.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A landing writes as well the file of every picture made from committed pages alone.",
     },
     {
       invariantKind: "departure",

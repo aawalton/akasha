@@ -25,19 +25,6 @@ export const dataWatching = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A file is replaced by writing a second file elsewhere and renaming that second file over.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The file written first is outside the folder the editor watches.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The file written first is named for the process writing that file.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A file below a folder a picture reads is no file that picture is made from.",
     },
     {

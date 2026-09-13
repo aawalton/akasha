@@ -1,4 +1,4 @@
-import { mkdirSync, renameSync, writeFileSync } from "node:fs"
+import { mkdirSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { colorOfState } from "akasha/agents/seats/observation/seat-turn/modules/color/seat-turn-color.module.code.ts"
 import { seatTurnStateOf } from "akasha/agents/seats/observation/seat-turn/modules/state/seat-turn-state.module.code.ts"
@@ -14,6 +14,7 @@ import {
   released,
   releasedHeld,
 } from "akasha/alan/harness/code-editor/data-interfaces/modules/state-cooldown/state-cooldown.module.code.ts"
+import { writeState } from "akasha/alan/harness/code-editor/data-interfaces/modules/state-writing/state-writing.module.code.ts"
 import {
   statusBarLine,
   watchedFoldersIn,
@@ -45,15 +46,12 @@ import {
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
 import { kindsUnder } from "akasha/pages/types/modules/descent/page-type-descent.module.code.ts"
 
-const INTERFACES_AT = "alan/harness/code-editor/data-interfaces/pages"
-const SCRATCH_AT = "alan/harness/code-editor/data-interfaces"
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
 const SUBAGENT_TYPE = "01a05978-f2e1-78e7-9017-ab14c5c1d79b"
 const TURN_STATE_TYPE = "01a06924-e882-736f-8cac-465ef2b5d799"
 const INITIATIVE_TYPE = "01a04e58-5735-72b4-b945-56366461c776"
 const SERVICE = "service"
 const SIDECAR = ".uncommitted.ts"
-const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.json"
 const SETTLE_MS = 25
 
 type Picture = {
@@ -64,17 +62,6 @@ type Picture = {
   readonly line: () => string | null
   held: Held
   waking: ReturnType<typeof setTimeout> | null
-}
-
-function stateFileFor(root: string, slug: string): string {
-  return join(root, INTERFACES_AT, slug, `${slug}${STATE_TAIL}`)
-}
-
-function writeLine(root: string, slug: string, line: string): undefined {
-  const scratch = join(root, SCRATCH_AT, `${slug}${STATE_TAIL}.${process.pid}.part`)
-  writeFileSync(scratch, `${line}\n`, "utf8")
-  renameSync(scratch, stateFileFor(root, slug))
-  return undefined
 }
 
 function within(folder: string, ...endings: readonly string[]): (at: string) => boolean {
@@ -251,7 +238,7 @@ function keep(root: string, slug: string, picture: Picture): undefined {
   const decision = decide(picture.held, line, now, picture.cooldownMs)
   picture.held = heldAfter(picture.held, decision, line, now)
   if (decision.act === "write") {
-    writeLine(root, slug, decision.line)
+    writeState(root, slug, decision.line)
     return undefined
   }
   if (decision.act !== "hold" || picture.waking !== null) return undefined
@@ -261,7 +248,7 @@ function keep(root: string, slug: string, picture: Picture): undefined {
       const at = Date.now()
       const owed = released(picture.held, at)
       picture.held = releasedHeld(picture.held, owed, at)
-      if (owed.act === "write") writeLine(root, slug, owed.line)
+      if (owed.act === "write") writeState(root, slug, owed.line)
     },
     Math.max(0, decision.untilMs - now)
   )

@@ -19,6 +19,15 @@ export const landingFinishing = {
     },
     {
       invariantKind: "departure",
+      statement: "The editor's pictures of the pages are written after the units are kept.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A picture that could not be written is answered rather than refusing the landing.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A folder left with nothing by a path the repository ignores is cleared off the disk.",
     },
