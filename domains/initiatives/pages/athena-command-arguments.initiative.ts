@@ -9,11 +9,6 @@ export const athenaCommandArguments = {
   parent: "athena-commands-cleanup",
   intents: [
     {
-      statement: "A command names the arguments it takes and narrows each.",
-      workingMemory:
-        "Naming holds, and narrowing now lands: `Holding` emits a forbidden member as `?: undefined`, read per pair rather than per group, at `2a09c5c9b5d`. 24 pages, 29 groups, 22 exclusive, 7 mixed; a mixed group narrows the pairs it forbids and no more. A member always answered — required, repeating, `value: none`, defaulted — takes no such form. Only `value` narrows a kind, and 250 of 338 pages carry `text` or `path`, which fall through to the raw string. `path` naming two policies is Alan's.\n",
-    },
-    {
       statement:
         "One reader reads every command's arguments from the pages, refusing what no page names.",
       workingMemory:
