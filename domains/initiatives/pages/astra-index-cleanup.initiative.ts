@@ -12,6 +12,11 @@ export const astraIndexCleanup = {
       workingMemory:
         "`indexIn` hops through `gitFolderIn` to the main repository in `index-surface`, so all six `.git/trees/*` worktrees read one index. `<repoRoot>/.index` kills that hop, and a worktree with no index refuses every read `answered` guards, so whatever makes a worktree builds it — 19 s for 71,151 pages. `.index` is skipped by `tree-reading`, `code-tests`, `stale-folders`, `.dockerignore` and `biome.json`, and stays in `.gitignore`, which is also what lets the indexer write it.",
     },
+    {
+      statement: "Git tracks the identity index and the relation index.",
+      workingMemory:
+        "A change queues its identity and relation entries among its file changes, and the landing lock applies them like any other. Build that while `.index` is still in `.gitignore` — the name there is what grants `repository-is-written-by-a-change` leave to write, so dropping it without the generated case leaves the indexer unable to write. Measured on 251,831 files: +7.0 MiB packed, `git status` 0.45 s → 1.10 s, `.git/index` 26 MB → 68 MB, full checkout 7.8 s → 19.2 s.",
+    },
     { statement: "Alan holds the value index's structure correct." },
     { statement: "Alan holds the path index's structure correct." },
     { statement: "Alan holds the listing index's structure correct." },
