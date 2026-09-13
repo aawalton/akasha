@@ -11,9 +11,14 @@ export const allTheSkillsADeckbuildingLitrpg0027B6Ch20RowantreeEstate = {
   ownProgress: 2116,
   unit: "words",
   publishedAt: "2025-08-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2531668/b6-ch20-rowantree-estate",
-  externalId: "2531668",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2531668",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2531668/b6-ch20-rowantree-estate",
+    },
+  ],
   removedAt: "2026-07-03T13:47:52.216Z",
   prose: "txt",
 } as const satisfies StoryChapterRead

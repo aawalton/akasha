@@ -10,8 +10,13 @@ export const alexaThymeFormerlyAlexithymia0009Book13Live = {
   ownLength: 110,
   unit: "words",
   publishedAt: "2024-06-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1693483/book-1-3-live",
-  externalId: "1693483",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1693483",
+      externalLink:
+        "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1693483/book-1-3-live",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

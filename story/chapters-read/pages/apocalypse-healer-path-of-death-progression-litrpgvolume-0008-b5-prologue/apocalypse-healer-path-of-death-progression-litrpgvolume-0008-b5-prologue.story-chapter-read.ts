@@ -10,8 +10,13 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0008B5Prologue = 
   ownLength: 1058,
   unit: "words",
   publishedAt: "2026-01-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/96526/apocalypse-healer-progression-litrpg-complete/chapter/2916703/b5-prologue",
-  externalId: "2916703",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2916703",
+      externalLink:
+        "https://www.royalroad.com/fiction/96526/apocalypse-healer-progression-litrpg-complete/chapter/2916703/b5-prologue",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

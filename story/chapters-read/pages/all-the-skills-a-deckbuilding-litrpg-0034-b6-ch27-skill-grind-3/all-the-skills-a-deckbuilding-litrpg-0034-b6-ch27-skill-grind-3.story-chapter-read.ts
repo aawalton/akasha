@@ -11,9 +11,14 @@ export const allTheSkillsADeckbuildingLitrpg0034B6Ch27SkillGrind3 = {
   ownProgress: 3156,
   unit: "words",
   publishedAt: "2026-02-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3064819/b6-ch27-skill-grind-3",
-  externalId: "3064819",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3064819",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3064819/b6-ch27-skill-grind-3",
+    },
+  ],
   removedAt: "2026-07-03T13:48:04.596Z",
   prose: "txt",
 } as const satisfies StoryChapterRead

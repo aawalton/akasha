@@ -11,9 +11,14 @@ export const allTheSkillsADeckbuildingLitrpg0023Book6Ch16QuiteTheEntrance = {
   ownProgress: 3135,
   unit: "words",
   publishedAt: "2025-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2382741/book-6-ch16-quite-the-entrance",
-  externalId: "2382741",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2382741",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2382741/book-6-ch16-quite-the-entrance",
+    },
+  ],
   removedAt: "2026-07-03T13:47:45.198Z",
   prose: "txt",
 } as const satisfies StoryChapterRead

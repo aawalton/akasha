@@ -10,8 +10,13 @@ export const allTheSkillsADeckbuildingLitrpg0043B6Ch36MaybeNotThatWellMet = {
   ownLength: 1735,
   unit: "words",
   publishedAt: "2026-03-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3170269/b6-ch36-maybe-not-that-well-met",
-  externalId: "3170269",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3170269",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3170269/b6-ch36-maybe-not-that-well-met",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

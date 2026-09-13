@@ -11,9 +11,14 @@ export const allTheSkillsADeckbuildingLitrpg0014Book6Chapter7RetinueMeeting = {
   ownProgress: 1097,
   unit: "words",
   publishedAt: "2025-04-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2223808/book-6-chapter-7-retinue-meeting",
-  externalId: "2223808",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2223808",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2223808/book-6-chapter-7-retinue-meeting",
+    },
+  ],
   removedAt: "2026-07-03T13:47:29.148Z",
   prose: "txt",
 } as const satisfies StoryChapterRead

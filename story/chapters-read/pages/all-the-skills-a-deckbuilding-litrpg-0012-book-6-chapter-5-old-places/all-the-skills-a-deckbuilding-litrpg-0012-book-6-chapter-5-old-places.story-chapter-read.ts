@@ -11,9 +11,14 @@ export const allTheSkillsADeckbuildingLitrpg0012Book6Chapter5OldPlaces = {
   ownProgress: 2060,
   unit: "words",
   publishedAt: "2025-04-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2205152/book-6-chapter-5-old-places",
-  externalId: "2205152",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2205152",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2205152/book-6-chapter-5-old-places",
+    },
+  ],
   removedAt: "2026-07-03T13:47:25.544Z",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,8 +12,13 @@ export const allTheSkillsADeckbuildingLitrpg0005AnnouncementBook3OutNowAlso = {
   unit: "words",
   completedAt: "2026-06-29T20:09:51.737Z",
   publishedAt: "2024-03-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/1551720/announcement-book-3-out-now-also",
-  externalId: "1551720",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1551720",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/1551720/announcement-book-3-out-now-also",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

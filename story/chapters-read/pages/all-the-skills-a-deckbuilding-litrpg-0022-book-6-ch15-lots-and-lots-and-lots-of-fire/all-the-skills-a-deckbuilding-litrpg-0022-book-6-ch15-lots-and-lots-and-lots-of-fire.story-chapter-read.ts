@@ -11,9 +11,14 @@ export const allTheSkillsADeckbuildingLitrpg0022Book6Ch15LotsAndLotsAndLotsOfFir
   ownProgress: 3042,
   unit: "words",
   publishedAt: "2025-06-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2369669/book-6-ch15-lots-and-lots-and-lots-of-fire",
-  externalId: "2369669",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2369669",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2369669/book-6-ch15-lots-and-lots-and-lots-of-fire",
+    },
+  ],
   removedAt: "2026-07-03T13:47:43.448Z",
   prose: "txt",
 } as const satisfies StoryChapterRead

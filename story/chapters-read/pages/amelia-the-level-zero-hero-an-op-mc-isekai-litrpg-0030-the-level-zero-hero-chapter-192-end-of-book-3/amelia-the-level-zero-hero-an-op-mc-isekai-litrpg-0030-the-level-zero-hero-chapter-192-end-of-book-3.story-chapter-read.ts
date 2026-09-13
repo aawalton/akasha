@@ -10,8 +10,13 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0030TheLevelZeroHeroChapter
   ownLength: 709,
   unit: "words",
   publishedAt: "2023-11-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1403170/the-level-zero-hero-chapter-192-end-of-book-3",
-  externalId: "1403170",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1403170",
+      externalLink:
+        "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1403170/the-level-zero-hero-chapter-192-end-of-book-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

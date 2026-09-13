@@ -11,9 +11,14 @@ export const allTheSkillsADeckbuildingLitrpg0028B6Ch21AwakeWithVenom = {
   ownProgress: 1538,
   unit: "words",
   publishedAt: "2025-08-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2536932/b6-ch21-awake-with-venom",
-  externalId: "2536932",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2536932",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2536932/b6-ch21-awake-with-venom",
+    },
+  ],
   removedAt: "2026-07-03T13:47:54.004Z",
   prose: "txt",
 } as const satisfies StoryChapterRead

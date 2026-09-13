@@ -10,8 +10,13 @@ export const allTheSkillsADeckbuildingLitrpg0049B6Ch42ADangerousHaggle = {
   ownLength: 4432,
   unit: "words",
   publishedAt: "2026-04-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3253058/b6-ch42-a-dangerous-haggle",
-  externalId: "3253058",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3253058",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3253058/b6-ch42-a-dangerous-haggle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

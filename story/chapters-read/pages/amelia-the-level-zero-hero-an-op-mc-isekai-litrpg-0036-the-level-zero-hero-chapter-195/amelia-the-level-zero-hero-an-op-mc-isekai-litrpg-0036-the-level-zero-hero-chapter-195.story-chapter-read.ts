@@ -10,8 +10,13 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0036TheLevelZeroHeroChapter
   ownLength: 1715,
   unit: "words",
   publishedAt: "2024-01-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1476388/the-level-zero-hero-chapter-195",
-  externalId: "1476388",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1476388",
+      externalLink:
+        "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1476388/the-level-zero-hero-chapter-195",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

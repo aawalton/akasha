@@ -12,8 +12,13 @@ export const arkendrithyst0129JaneSClassAbilityOptionsP1NotAChapter = {
   unit: "words",
   completedAt: "2026-06-29T22:26:00.017Z",
   publishedAt: "2020-08-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/538304/janes-class-ability-options-p1-not-a-chapter",
-  externalId: "538304",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "538304",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/538304/janes-class-ability-options-p1-not-a-chapter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,8 +12,13 @@ export const arkendrithyst0040040StartOfBook2 = {
   unit: "words",
   completedAt: "2026-06-29T22:07:50.052Z",
   publishedAt: "2019-10-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/409318/040-start-of-book-2",
-  externalId: "409318",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "409318",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/409318/040-start-of-book-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

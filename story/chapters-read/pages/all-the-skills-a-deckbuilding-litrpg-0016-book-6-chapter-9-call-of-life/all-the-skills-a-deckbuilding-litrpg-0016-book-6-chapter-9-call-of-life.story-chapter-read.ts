@@ -11,9 +11,14 @@ export const allTheSkillsADeckbuildingLitrpg0016Book6Chapter9CallOfLife = {
   ownProgress: 2072,
   unit: "words",
   publishedAt: "2025-04-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2242306/book-6-chapter-9-call-of-life",
-  externalId: "2242306",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2242306",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2242306/book-6-chapter-9-call-of-life",
+    },
+  ],
   removedAt: "2026-07-03T13:47:32.647Z",
   prose: "txt",
 } as const satisfies StoryChapterRead

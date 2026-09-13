@@ -10,8 +10,13 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0015AmeliaBook1IsNowOutOnAm
   ownLength: 366,
   unit: "words",
   publishedAt: "2023-05-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1214834/amelia-book-1-is-now-out-on-amazon-ku-and-audible",
-  externalId: "1214834",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1214834",
+      externalLink:
+        "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1214834/amelia-book-1-is-now-out-on-amazon-ku-and-audible",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

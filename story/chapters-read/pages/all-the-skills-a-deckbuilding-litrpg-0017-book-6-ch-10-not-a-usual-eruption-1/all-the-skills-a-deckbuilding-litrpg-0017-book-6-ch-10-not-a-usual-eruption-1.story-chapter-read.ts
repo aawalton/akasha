@@ -11,9 +11,14 @@ export const allTheSkillsADeckbuildingLitrpg0017Book6Ch10NotAUsualEruption1 = {
   ownProgress: 1999,
   unit: "words",
   publishedAt: "2025-05-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2248203/book-6-ch-10-not-a-usual-eruption-1",
-  externalId: "2248203",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2248203",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2248203/book-6-ch-10-not-a-usual-eruption-1",
+    },
+  ],
   removedAt: "2026-07-03T13:47:34.439Z",
   prose: "txt",
 } as const satisfies StoryChapterRead

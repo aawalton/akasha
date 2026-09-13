@@ -10,7 +10,13 @@ export const deathHealer0035Chapter34 = {
   ownLength: 1137,
   unit: "words",
   publishedAt: "2025-06-15",
-  externalLink: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2359168/chapter-34",
-  externalId: "2359168",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2359168",
+      externalLink:
+        "https://www.royalroad.com/fiction/115399/death-healer/chapter/2359168/chapter-34",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

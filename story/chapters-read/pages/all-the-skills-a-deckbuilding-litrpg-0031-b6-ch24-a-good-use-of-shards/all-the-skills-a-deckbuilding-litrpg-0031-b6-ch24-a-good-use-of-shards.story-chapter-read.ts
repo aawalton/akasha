@@ -11,9 +11,14 @@ export const allTheSkillsADeckbuildingLitrpg0031B6Ch24AGoodUseOfShards = {
   ownProgress: 1858,
   unit: "words",
   publishedAt: "2026-02-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3016171/b6-ch24-a-good-use-of-shards",
-  externalId: "3016171",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3016171",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3016171/b6-ch24-a-good-use-of-shards",
+    },
+  ],
   removedAt: "2026-07-03T13:47:59.335Z",
   prose: "txt",
 } as const satisfies StoryChapterRead

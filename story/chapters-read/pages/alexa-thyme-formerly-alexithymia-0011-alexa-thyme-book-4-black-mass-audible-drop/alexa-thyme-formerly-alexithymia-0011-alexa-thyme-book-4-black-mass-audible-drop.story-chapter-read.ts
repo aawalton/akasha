@@ -10,8 +10,13 @@ export const alexaThymeFormerlyAlexithymia0011AlexaThymeBook4BlackMassAudibleDro
   ownLength: 91,
   unit: "words",
   publishedAt: "2025-11-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/2774445/alexa-thyme-book-4-black-mass-audible-drop",
-  externalId: "2774445",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2774445",
+      externalLink:
+        "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/2774445/alexa-thyme-book-4-black-mass-audible-drop",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

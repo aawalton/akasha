@@ -12,8 +12,13 @@ export const arkendrithyst0178121EpilogueBook4 = {
   unit: "words",
   completedAt: "2026-06-29T22:12:54.566Z",
   publishedAt: "2021-02-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/627755/121-epilogue-book-4",
-  externalId: "627755",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "627755",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/627755/121-epilogue-book-4",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

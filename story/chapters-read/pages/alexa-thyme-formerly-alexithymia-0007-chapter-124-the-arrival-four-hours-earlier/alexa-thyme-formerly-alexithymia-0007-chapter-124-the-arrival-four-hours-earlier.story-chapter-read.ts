@@ -10,8 +10,13 @@ export const alexaThymeFormerlyAlexithymia0007Chapter124TheArrivalFourHoursEarli
   ownLength: 3037,
   unit: "words",
   publishedAt: "2023-03-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1146570/chapter-124-the-arrival-four-hours-earlier",
-  externalId: "1146570",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1146570",
+      externalLink:
+        "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1146570/chapter-124-the-arrival-four-hours-earlier",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

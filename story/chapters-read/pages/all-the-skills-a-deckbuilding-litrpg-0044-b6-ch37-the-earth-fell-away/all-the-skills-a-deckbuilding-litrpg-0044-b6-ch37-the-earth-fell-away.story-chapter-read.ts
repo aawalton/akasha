@@ -10,8 +10,13 @@ export const allTheSkillsADeckbuildingLitrpg0044B6Ch37TheEarthFellAway = {
   ownLength: 2080,
   unit: "words",
   publishedAt: "2026-03-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3189046/b6-ch37-the-earth-fell-away",
-  externalId: "3189046",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3189046",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3189046/b6-ch37-the-earth-fell-away",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

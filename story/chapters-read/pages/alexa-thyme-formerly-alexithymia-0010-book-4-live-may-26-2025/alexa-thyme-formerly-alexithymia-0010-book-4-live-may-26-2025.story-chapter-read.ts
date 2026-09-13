@@ -10,8 +10,13 @@ export const alexaThymeFormerlyAlexithymia0010Book4LiveMay262025 = {
   ownLength: 78,
   unit: "words",
   publishedAt: "2025-05-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/2303429/book-4-live-may-26-2025",
-  externalId: "2303429",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2303429",
+      externalLink:
+        "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/2303429/book-4-live-may-26-2025",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

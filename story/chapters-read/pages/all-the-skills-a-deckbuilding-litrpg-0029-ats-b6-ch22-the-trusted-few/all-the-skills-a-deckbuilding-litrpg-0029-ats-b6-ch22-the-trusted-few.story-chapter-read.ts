@@ -11,9 +11,14 @@ export const allTheSkillsADeckbuildingLitrpg0029AtsB6Ch22TheTrustedFew = {
   ownProgress: 3031,
   unit: "words",
   publishedAt: "2025-08-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2550374/ats-b6-ch22-the-trusted-few",
-  externalId: "2550374",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2550374",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2550374/ats-b6-ch22-the-trusted-few",
+    },
+  ],
   removedAt: "2026-07-03T13:47:55.799Z",
   prose: "txt",
 } as const satisfies StoryChapterRead

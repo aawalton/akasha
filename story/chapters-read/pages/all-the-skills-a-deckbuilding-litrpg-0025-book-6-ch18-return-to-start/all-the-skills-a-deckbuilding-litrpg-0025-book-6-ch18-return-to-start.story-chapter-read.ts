@@ -11,9 +11,14 @@ export const allTheSkillsADeckbuildingLitrpg0025Book6Ch18ReturnToStart = {
   ownProgress: 2570,
   unit: "words",
   publishedAt: "2025-07-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2402203/book-6-ch18-return-to-start",
-  externalId: "2402203",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2402203",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2402203/book-6-ch18-return-to-start",
+    },
+  ],
   removedAt: "2026-07-03T13:47:48.708Z",
   prose: "txt",
 } as const satisfies StoryChapterRead

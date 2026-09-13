@@ -11,8 +11,13 @@ export const allTheSkillsADeckbuildingLitrpg0038B6Ch31HomeAgain = {
   ownProgress: 209,
   unit: "words",
   publishedAt: "2026-03-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3113038/b6-ch31-home-again",
-  externalId: "3113038",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3113038",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3113038/b6-ch31-home-again",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

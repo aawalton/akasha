@@ -10,8 +10,13 @@ export const alexaThymeFormerlyAlexithymia0004Chapter42SundayIntoMondayReunion =
   ownLength: 2557,
   unit: "words",
   publishedAt: "2022-11-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1048956/chapter-42-sunday-into-monday-reunion",
-  externalId: "1048956",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1048956",
+      externalLink:
+        "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1048956/chapter-42-sunday-into-monday-reunion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

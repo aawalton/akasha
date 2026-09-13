@@ -10,8 +10,13 @@ export const allTheSkillsADeckbuildingLitrpg0041B6Ch34WelcomeHomeArthur = {
   ownLength: 3186,
   unit: "words",
   publishedAt: "2026-03-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3144705/b6-ch34-welcome-home-arthur",
-  externalId: "3144705",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3144705",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3144705/b6-ch34-welcome-home-arthur",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

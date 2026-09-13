@@ -11,9 +11,14 @@ export const allTheSkillsADeckbuildingLitrpg0015Book6Chapter8ADebtOwed = {
   ownProgress: 2520,
   unit: "words",
   publishedAt: "2025-04-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2229153/book-6-chapter-8-a-debt-owed",
-  externalId: "2229153",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2229153",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2229153/book-6-chapter-8-a-debt-owed",
+    },
+  ],
   removedAt: "2026-07-03T13:47:30.883Z",
   prose: "txt",
 } as const satisfies StoryChapterRead

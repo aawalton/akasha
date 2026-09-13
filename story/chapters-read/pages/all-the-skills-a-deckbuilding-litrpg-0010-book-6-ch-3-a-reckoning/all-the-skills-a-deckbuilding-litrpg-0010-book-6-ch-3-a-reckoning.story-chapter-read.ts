@@ -11,9 +11,14 @@ export const allTheSkillsADeckbuildingLitrpg0010Book6Ch3AReckoning = {
   ownProgress: 2119,
   unit: "words",
   publishedAt: "2025-04-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2172894/book-6-ch-3-a-reckoning",
-  externalId: "2172894",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2172894",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2172894/book-6-ch-3-a-reckoning",
+    },
+  ],
   removedAt: "2026-07-03T13:47:21.923Z",
   prose: "txt",
 } as const satisfies StoryChapterRead

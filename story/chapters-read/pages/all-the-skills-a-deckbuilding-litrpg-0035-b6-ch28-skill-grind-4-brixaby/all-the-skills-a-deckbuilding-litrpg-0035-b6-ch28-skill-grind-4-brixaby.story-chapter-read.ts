@@ -11,9 +11,14 @@ export const allTheSkillsADeckbuildingLitrpg0035B6Ch28SkillGrind4Brixaby = {
   ownProgress: 2561,
   unit: "words",
   publishedAt: "2026-02-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3072075/b6-ch28-skill-grind-4-brixaby",
-  externalId: "3072075",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3072075",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3072075/b6-ch28-skill-grind-4-brixaby",
+    },
+  ],
   removedAt: "2026-07-03T13:48:06.334Z",
   prose: "txt",
 } as const satisfies StoryChapterRead

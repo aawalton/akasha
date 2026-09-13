@@ -11,9 +11,14 @@ export const allTheSkillsADeckbuildingLitrpg0009Book6Ch2HiddenLibrary = {
   ownProgress: 1836,
   unit: "words",
   publishedAt: "2025-03-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2153119/book-6-ch-2-hidden-library",
-  externalId: "2153119",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2153119",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2153119/book-6-ch-2-hidden-library",
+    },
+  ],
   removedAt: "2026-07-03T13:47:20.179Z",
   prose: "txt",
 } as const satisfies StoryChapterRead

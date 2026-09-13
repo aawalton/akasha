@@ -10,8 +10,13 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0014Book1PublishingAnnounce
   ownLength: 156,
   unit: "words",
   publishedAt: "2023-05-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1206245/book-1-publishing-announcement",
-  externalId: "1206245",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1206245",
+      externalLink:
+        "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1206245/book-1-publishing-announcement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

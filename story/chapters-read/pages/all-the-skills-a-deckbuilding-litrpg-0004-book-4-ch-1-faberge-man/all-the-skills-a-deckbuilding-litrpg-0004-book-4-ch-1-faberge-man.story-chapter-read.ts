@@ -12,8 +12,13 @@ export const allTheSkillsADeckbuildingLitrpg0004Book4Ch1FabergeMan = {
   unit: "words",
   completedAt: "2026-06-29T20:09:49.945Z",
   publishedAt: "2024-03-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/1548522/book-4-ch-1-faberge-man",
-  externalId: "1548522",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1548522",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/1548522/book-4-ch-1-faberge-man",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

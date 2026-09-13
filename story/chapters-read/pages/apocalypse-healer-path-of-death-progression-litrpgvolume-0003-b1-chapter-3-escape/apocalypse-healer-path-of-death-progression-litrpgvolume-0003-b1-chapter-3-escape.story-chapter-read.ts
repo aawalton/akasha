@@ -10,8 +10,13 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0003B1Chapter3Esc
   ownLength: 1967,
   unit: "words",
   publishedAt: "2024-10-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/96526/apocalypse-healer-progression-litrpg-complete/chapter/1864005/b1-chapter-3-escape",
-  externalId: "1864005",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1864005",
+      externalLink:
+        "https://www.royalroad.com/fiction/96526/apocalypse-healer-progression-litrpg-complete/chapter/1864005/b1-chapter-3-escape",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

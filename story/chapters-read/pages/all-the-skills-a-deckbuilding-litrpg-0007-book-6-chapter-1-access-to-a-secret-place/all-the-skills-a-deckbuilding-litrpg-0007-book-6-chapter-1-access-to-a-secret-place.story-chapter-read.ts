@@ -11,9 +11,14 @@ export const allTheSkillsADeckbuildingLitrpg0007Book6Chapter1AccessToASecretPlac
   ownProgress: 2096,
   unit: "words",
   publishedAt: "2025-03-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2148664/book-6-chapter-1-access-to-a-secret-place",
-  externalId: "2148664",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2148664",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2148664/book-6-chapter-1-access-to-a-secret-place",
+    },
+  ],
   removedAt: "2026-07-03T13:47:18.435Z",
   prose: "txt",
 } as const satisfies StoryChapterRead

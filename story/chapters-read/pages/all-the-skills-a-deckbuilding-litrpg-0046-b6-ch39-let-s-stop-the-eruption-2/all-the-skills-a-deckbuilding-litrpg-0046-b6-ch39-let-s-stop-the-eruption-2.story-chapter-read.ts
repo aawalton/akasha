@@ -10,8 +10,13 @@ export const allTheSkillsADeckbuildingLitrpg0046B6Ch39LetSStopTheEruption2 = {
   ownLength: 2661,
   unit: "words",
   publishedAt: "2026-03-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3215527/b6-ch39-lets-stop-the-eruption-2",
-  externalId: "3215527",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3215527",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3215527/b6-ch39-lets-stop-the-eruption-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

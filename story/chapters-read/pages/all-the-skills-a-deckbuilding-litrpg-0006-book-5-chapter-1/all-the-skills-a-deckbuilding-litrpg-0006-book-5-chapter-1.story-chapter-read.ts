@@ -12,8 +12,13 @@ export const allTheSkillsADeckbuildingLitrpg0006Book5Chapter1 = {
   unit: "words",
   completedAt: "2026-06-29T20:09:53.612Z",
   publishedAt: "2024-08-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/1765748/book-5-chapter-1",
-  externalId: "1765748",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1765748",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/1765748/book-5-chapter-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

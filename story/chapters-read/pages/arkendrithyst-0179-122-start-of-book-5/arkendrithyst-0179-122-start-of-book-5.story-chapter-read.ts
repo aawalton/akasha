@@ -12,8 +12,13 @@ export const arkendrithyst0179122StartOfBook5 = {
   unit: "words",
   completedAt: "2026-06-29T22:12:56.902Z",
   publishedAt: "2021-02-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/631667/122-start-of-book-5",
-  externalId: "631667",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "631667",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/631667/122-start-of-book-5",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

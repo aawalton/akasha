@@ -11,9 +11,14 @@ export const allTheSkillsADeckbuildingLitrpg0013Book6Chapter6WildDragons = {
   ownProgress: 1997,
   unit: "words",
   publishedAt: "2025-04-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2210338/book-6-chapter-6-wild-dragons",
-  externalId: "2210338",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2210338",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2210338/book-6-chapter-6-wild-dragons",
+    },
+  ],
   removedAt: "2026-07-03T13:47:27.337Z",
   prose: "txt",
 } as const satisfies StoryChapterRead

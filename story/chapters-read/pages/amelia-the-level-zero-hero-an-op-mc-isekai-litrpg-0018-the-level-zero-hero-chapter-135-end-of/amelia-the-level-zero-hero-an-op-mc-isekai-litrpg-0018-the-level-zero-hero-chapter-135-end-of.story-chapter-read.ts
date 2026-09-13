@@ -10,8 +10,13 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0018TheLevelZeroHeroChapter
   ownLength: 590,
   unit: "words",
   publishedAt: "2023-06-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1236691/the-level-zero-hero-chapter-135-end-of-amelia",
-  externalId: "1236691",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1236691",
+      externalLink:
+        "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1236691/the-level-zero-hero-chapter-135-end-of-amelia",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -11,9 +11,14 @@ export const allTheSkillsADeckbuildingLitrpg0030B6Ch23Negotiations = {
   ownProgress: 1832,
   unit: "words",
   publishedAt: "2026-02-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3009657/b6-ch23-negotiations",
-  externalId: "3009657",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3009657",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3009657/b6-ch23-negotiations",
+    },
+  ],
   removedAt: "2026-07-03T13:47:57.601Z",
   prose: "txt",
 } as const satisfies StoryChapterRead

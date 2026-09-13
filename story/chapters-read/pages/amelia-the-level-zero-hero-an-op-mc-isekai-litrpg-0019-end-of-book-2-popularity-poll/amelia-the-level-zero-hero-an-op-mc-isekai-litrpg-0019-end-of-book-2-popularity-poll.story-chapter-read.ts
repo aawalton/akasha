@@ -10,8 +10,13 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0019EndOfBook2PopularityPol
   ownLength: 100,
   unit: "words",
   publishedAt: "2023-06-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1247862/end-of-book-2-popularity-poll",
-  externalId: "1247862",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1247862",
+      externalLink:
+        "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1247862/end-of-book-2-popularity-poll",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

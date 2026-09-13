@@ -10,8 +10,13 @@ export const allTheSkillsADeckbuildingLitrpg0048B6Ch41CleanupAndRewards = {
   ownLength: 2468,
   unit: "words",
   publishedAt: "2026-04-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3244645/b6-ch41-cleanup-and-rewards",
-  externalId: "3244645",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3244645",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3244645/b6-ch41-cleanup-and-rewards",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

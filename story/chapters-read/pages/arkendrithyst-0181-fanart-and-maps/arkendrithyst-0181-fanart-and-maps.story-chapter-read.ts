@@ -12,8 +12,13 @@ export const arkendrithyst0181FanartAndMaps = {
   unit: "words",
   completedAt: "2026-06-29T22:13:01.861Z",
   publishedAt: "2021-02-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/635597/fanart-and-maps",
-  externalId: "635597",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "635597",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/635597/fanart-and-maps",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

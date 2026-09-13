@@ -11,9 +11,14 @@ export const allTheSkillsADeckbuildingLitrpg0019Book6Chapter12SnowMoon = {
   ownProgress: 2258,
   unit: "words",
   publishedAt: "2025-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2346152/book-6-chapter-12-snow-moon",
-  externalId: "2346152",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2346152",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2346152/book-6-chapter-12-snow-moon",
+    },
+  ],
   removedAt: "2026-07-03T13:47:37.982Z",
   prose: "txt",
 } as const satisfies StoryChapterRead

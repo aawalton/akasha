@@ -12,8 +12,13 @@ export const allTheSkillsADeckbuildingLitrpg0001Book1NowAvailableOnAmazonKu = {
   unit: "words",
   completedAt: "2026-06-29T20:09:44.232Z",
   publishedAt: "2022-06-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/932107/book-1-now-available-on-amazon-ku",
-  externalId: "932107",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "932107",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/932107/book-1-now-available-on-amazon-ku",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0006Excitement = 
   ownLength: 60,
   unit: "words",
   publishedAt: "2025-07-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/96526/apocalypse-healer-progression-litrpg-complete/chapter/2438937/excitement",
-  externalId: "2438937",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2438937",
+      externalLink:
+        "https://www.royalroad.com/fiction/96526/apocalypse-healer-progression-litrpg-complete/chapter/2438937/excitement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

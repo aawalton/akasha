@@ -11,8 +11,13 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0045AfterNearlyTwoYearsTheA
   ownLength: 120,
   unit: "words",
   publishedAt: "2024-10-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1830575/after-nearly-two-years-the-amelia-the-level-zero",
-  externalId: "1830575",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1830575",
+      externalLink:
+        "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1830575/after-nearly-two-years-the-amelia-the-level-zero",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

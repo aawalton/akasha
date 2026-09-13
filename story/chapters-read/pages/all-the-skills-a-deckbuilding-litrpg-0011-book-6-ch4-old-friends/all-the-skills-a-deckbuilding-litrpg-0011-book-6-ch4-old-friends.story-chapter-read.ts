@@ -11,9 +11,14 @@ export const allTheSkillsADeckbuildingLitrpg0011Book6Ch4OldFriends = {
   ownProgress: 3087,
   unit: "words",
   publishedAt: "2025-04-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2191421/book-6-ch4-old-friends",
-  externalId: "2191421",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2191421",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2191421/book-6-ch4-old-friends",
+    },
+  ],
   removedAt: "2026-07-03T13:47:23.673Z",
   prose: "txt",
 } as const satisfies StoryChapterRead
