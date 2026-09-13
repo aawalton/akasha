@@ -11,5 +11,11 @@ export const jKRowlingOriginals = {
   ownProgress: 0,
   unit: "words",
   status: "not-started",
-  externalLink: "https://www.harrypotter.com/writing-by-jk-rowling",
+  externalIdentity: [
+    {
+      source: "wizarding-world",
+      externalId: "writing-by-jk-rowling",
+      externalLink: "https://www.harrypotter.com/writing-by-jk-rowling",
+    },
+  ],
 } as const satisfies BookCollection

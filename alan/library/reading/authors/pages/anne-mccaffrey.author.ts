@@ -11,5 +11,11 @@ export const anneMccaffrey = {
   ownProgress: 0,
   unit: "words",
   status: "paused",
-  externalLink: "https://en.wikipedia.org/wiki/Anne_McCaffrey",
+  externalIdentity: [
+    {
+      source: "wikipedia",
+      externalId: "Anne_McCaffrey",
+      externalLink: "https://en.wikipedia.org/wiki/Anne_McCaffrey",
+    },
+  ],
 } as const satisfies Author
