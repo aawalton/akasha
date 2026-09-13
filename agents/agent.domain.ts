@@ -10,6 +10,7 @@ export const agent = {
     "domain/hook",
     "domain/messaging",
     "domain/model",
+    "domain/seat",
     "module/acting-agent",
     "module/agent-attributes",
     "module/agent-page-reading",
@@ -27,7 +28,6 @@ export const agent = {
     "page-type/agent-settings",
     "page-type/claude-account",
     "page-type/role",
-    "page-type/seat",
     "page-type/subagent",
   ],
 } as const satisfies Domain
