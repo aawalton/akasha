@@ -310,3 +310,42 @@ test("how many scripts there are comes from the table rather than reading unknow
   expect(envOf(knowing({})).getTotalScriptCount()).toBe(TOTAL_SCRIPT_COUNT)
   expect(TOTAL_SCRIPT_COUNT).toBeGreaterThan(0)
 })
+
+const RING = { equipType: 12, traitType: 1, quality: 4 }
+
+test("wanted equipment is matched against the compiled list, and names the character", () => {
+  const env = buildCliEvalEnv({
+    charactersById: new Map(),
+    characterPriority: [],
+    wantedConsumables: {},
+    wantedEquipment: [{ esoCharId: "111", ...RING }],
+  })
+  expect(env.matchesWantedEquipment(RING)).toBe(true)
+  expect(env.findCharacterForWantedEquipment(RING)).toBe("111")
+  expect(env.matchesWantedEquipment({ ...RING, quality: 5 })).toBe(false)
+  expect(env.findCharacterForWantedEquipment({ ...RING, quality: 5 })).toBeUndefined()
+})
+
+test("a compiled list that is there and empty answers false rather than unknown", () => {
+  const env = buildCliEvalEnv({
+    charactersById: new Map(),
+    characterPriority: [],
+    wantedConsumables: {},
+    wantedEquipment: [],
+    wantedCompanionEquipment: [],
+  })
+  expect(env.matchesWantedEquipment(RING)).toBe(false)
+  expect(env.matchesWantedCompanionEquipment(RING)).toBe(false)
+})
+
+test("wanted equipment is answered unknown where no compiled list was handed in", () => {
+  const env = buildCliEvalEnv({
+    charactersById: new Map(),
+    characterPriority: [],
+    wantedConsumables: {},
+  })
+  expect(env.matchesWantedEquipment(RING)).toBe("unknown")
+  expect(env.matchesWantedCompanionEquipment(RING)).toBe("unknown")
+  expect(env.findCharacterForWantedEquipment(RING)).toBe("unknown")
+  expect(env.findCompanionForWantedEquipment(RING)).toBe("unknown")
+})

@@ -86,8 +86,8 @@ export function buildMatcherContext(
   }
   const wantedConsumables = compileWantedConsumablesFromConfig(config.wantedConsumables)
   return {
-    wantedEquipment: [],
-    wantedCompanionEquipment: [],
+    wantedEquipment: config.wantedEquipment,
+    wantedCompanionEquipment: config.wantedCompanionEquipment,
     wantedConsumables,
     consumableStock: compileConsumableStock(db, wantedConsumables),
     bankStock: compileBankStock(db),

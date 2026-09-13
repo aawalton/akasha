@@ -1,5 +1,9 @@
 import { DataError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type {
+  CompiledOrderedRule,
+  WantedCompanionEquipmentSignature,
+  WantedEquipmentSignature,
+} from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type {
   CharEligibility,
   ItemRule,
@@ -26,6 +30,8 @@ export interface CompiledInventoryConfig {
   readonly orderedRules: ReadonlyArray<CompiledOrderedRule>
   readonly itemRules: ReadonlyArray<ItemRule>
   readonly wantedConsumables: Record<string, unknown>
+  readonly wantedEquipment: ReadonlyArray<WantedEquipmentSignature>
+  readonly wantedCompanionEquipment: ReadonlyArray<WantedCompanionEquipmentSignature>
   readonly characterPriority: ReadonlyArray<string>
 }
 
@@ -195,11 +201,30 @@ const COMPILED_ITEM_RULE_SCHEMA = z
 
 const WANTED_CONSUMABLES_SCHEMA = z.record(z.string(), z.unknown())
 
+const EQUIPMENT_SIGNATURE_FIELDS = {
+  equipType: z.number(),
+  traitType: z.number(),
+  quality: z.number(),
+  armorType: z.number().optional(),
+  weaponType: z.number().optional(),
+}
+
+const WANTED_EQUIPMENT_SCHEMA: z.ZodType<WantedEquipmentSignature[]> = luaArrayOrEmpty(
+  z.object({ esoCharId: z.string(), ...EQUIPMENT_SIGNATURE_FIELDS }).passthrough()
+)
+
+const WANTED_COMPANION_EQUIPMENT_SCHEMA: z.ZodType<WantedCompanionEquipmentSignature[]> =
+  luaArrayOrEmpty(
+    z.object({ companionName: z.string(), ...EQUIPMENT_SIGNATURE_FIELDS }).passthrough()
+  )
+
 const COMPILED_BLOCK_SCHEMA = z
   .object({
     orderedRules: luaArrayOrEmpty(COMPILED_ORDERED_RULE_SCHEMA).default([]),
     itemRules: z.record(z.string(), COMPILED_ITEM_RULE_SCHEMA).default({}),
     wantedConsumables: WANTED_CONSUMABLES_SCHEMA.default({}),
+    wantedEquipment: WANTED_EQUIPMENT_SCHEMA.default([]),
+    wantedCompanionEquipment: WANTED_COMPANION_EQUIPMENT_SCHEMA.default([]),
     characterPriority: luaArrayOrEmpty(z.string()).default([]),
   })
   .passthrough()
@@ -260,6 +285,8 @@ export function parseTemperInventoryConfig(content: string): CompiledInventoryCo
     orderedRules,
     itemRules: itemRulesFrom(compiled.itemRules),
     wantedConsumables: compiled.wantedConsumables,
+    wantedEquipment: compiled.wantedEquipment,
+    wantedCompanionEquipment: compiled.wantedCompanionEquipment,
     characterPriority: compiled.characterPriority,
   }
 }

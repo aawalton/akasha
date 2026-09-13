@@ -38,6 +38,8 @@ const CONFIG: CompiledInventoryConfig = {
   orderedRules: [],
   itemRules: [],
   wantedConsumables: {},
+  wantedEquipment: [],
+  wantedCompanionEquipment: [],
   characterPriority: [CHARACTER],
 }
 

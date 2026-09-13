@@ -282,6 +282,8 @@ export async function temperInventoryParity(
       charactersById,
       characterPriority: config.characterPriority,
       wantedConsumables: config.wantedConsumables,
+      wantedEquipment: config.wantedEquipment,
+      wantedCompanionEquipment: config.wantedCompanionEquipment,
       db,
     })
     facts = caps.cliItemFactsFromInventoryItem(item, caps.classifyItemToNodeIds(item), location)

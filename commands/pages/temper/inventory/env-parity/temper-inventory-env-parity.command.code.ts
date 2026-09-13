@@ -206,6 +206,8 @@ export async function temperInventoryEnvParity(
       charactersById,
       characterPriority: config.characterPriority,
       wantedConsumables: config.wantedConsumables,
+      wantedEquipment: config.wantedEquipment,
+      wantedCompanionEquipment: config.wantedCompanionEquipment,
       db,
     })
     const planEnv = buildWebEvalEnv(buildMatcherContext(config, charactersById, db), {})

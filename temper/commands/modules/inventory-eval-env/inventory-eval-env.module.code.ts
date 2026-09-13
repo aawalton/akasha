@@ -5,8 +5,13 @@ import {
 } from "akasha/temper/items-core/modules/compute-item-stock/compute-item-stock.module.code.ts"
 import { findCooldownGroup } from "akasha/temper/items-core/modules/cooldown-groups/cooldown-groups.module.code.ts"
 import { isCraftingRankBelowCap } from "akasha/temper/items-core/modules/crafting-passive-ranks/crafting-passive-ranks.module.code.ts"
+import { signatureMatchesItem } from "akasha/temper/items-core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
+import type {
+  WantedCompanionEquipmentSignature,
+  WantedEquipmentSignature,
+} from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import { TOTAL_SCRIPT_COUNT } from "akasha/temper/items-rules-core/modules/scribing-total-script-count/scribing-total-script-count.module.code.ts"
 import type { ItemKey } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 import type { EvalEnv } from "akasha/temper/items-rules-eval/modules/eval-env/eval-env.module.code.ts"
@@ -18,6 +23,8 @@ export interface CliEvalEnvDeps {
   readonly charactersById: ReadonlyMap<string, CharacterKnowledge>
   readonly characterPriority: ReadonlyArray<string>
   readonly wantedConsumables: Record<string, unknown>
+  readonly wantedEquipment?: ReadonlyArray<WantedEquipmentSignature>
+  readonly wantedCompanionEquipment?: ReadonlyArray<WantedCompanionEquipmentSignature>
   readonly db?: InventoryDatabase
 }
 
@@ -28,7 +35,14 @@ function chaptersOfStyle(styleId: number): readonly number[] | undefined {
 const UNKNOWN = "unknown"
 
 export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
-  const { charactersById, characterPriority, wantedConsumables, db } = deps
+  const {
+    charactersById,
+    characterPriority,
+    wantedConsumables,
+    wantedEquipment,
+    wantedCompanionEquipment,
+    db,
+  } = deps
   const itemIdToCooldownGroup = compileItemIdToCooldownGroup(db)
   const consumableWanters = compileConsumableWanters(wantedConsumables)
   const consumableStock = computeItemStock(db ?? null, new Set(consumableWanters.keys()))
@@ -100,11 +114,23 @@ export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
       if (researched === undefined) return UNKNOWN
       return researched.get(traitName.toLowerCase()) ?? UNKNOWN
     },
-    matchesWantedEquipment: () => UNKNOWN,
-    matchesWantedCompanionEquipment: () => UNKNOWN,
+    matchesWantedEquipment: (facts) => {
+      if (wantedEquipment === undefined) return UNKNOWN
+      return wantedEquipment.some((one) => signatureMatchesItem(one, facts))
+    },
+    matchesWantedCompanionEquipment: (facts) => {
+      if (wantedCompanionEquipment === undefined) return UNKNOWN
+      return wantedCompanionEquipment.some((one) => signatureMatchesItem(one, facts))
+    },
     isCompanionWornSlotFilled: () => UNKNOWN,
-    findCharacterForWantedEquipment: () => UNKNOWN,
-    findCompanionForWantedEquipment: () => UNKNOWN,
+    findCharacterForWantedEquipment: (facts) => {
+      if (wantedEquipment === undefined) return UNKNOWN
+      return wantedEquipment.find((one) => signatureMatchesItem(one, facts))?.esoCharId
+    },
+    findCompanionForWantedEquipment: (facts) => {
+      if (wantedCompanionEquipment === undefined) return UNKNOWN
+      return wantedCompanionEquipment.find((one) => signatureMatchesItem(one, facts))?.companionName
+    },
   }
 }
 

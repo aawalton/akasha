@@ -214,6 +214,8 @@ async function walkedFor(
     charactersById,
     characterPriority: config.characterPriority,
     wantedConsumables: config.wantedConsumables,
+    wantedEquipment: config.wantedEquipment,
+    wantedCompanionEquipment: config.wantedCompanionEquipment,
     db,
   })
   const { item, location } = resolved
