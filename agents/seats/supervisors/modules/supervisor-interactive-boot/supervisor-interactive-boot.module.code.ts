@@ -1,5 +1,6 @@
 import { computeModelGatewayTreeVersion } from "akasha/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
 import { toolRestrictions } from "akasha/agents/modules/tool-access/tool-access.module.code.ts"
+import { buildCredentialSubsystem } from "akasha/agents/seats/credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"
 import { installProxyVersionSubsystem } from "akasha/agents/seats/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import {
   parseSupervisorHandoffEnv,
@@ -38,7 +39,6 @@ import {
   setOAuthProxyHandle,
   setRestoreConsoleHandle,
 } from "akasha/agents/seats/supervisors/modules/supervisor-state/supervisor-state.module.code.ts"
-import { buildCredentialSubsystem } from "akasha/seat-system/seat-credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const ENV_OPTIONAL = shape.string().optional()

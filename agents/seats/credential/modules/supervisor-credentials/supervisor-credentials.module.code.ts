@@ -8,6 +8,14 @@ import {
   DOORS as EFFECT_DOORS,
   markedOn,
 } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
+import {
+  isAccountTerminal,
+  markAccountTerminal,
+} from "akasha/agents/seats/credential/modules/account-terminal/account-terminal.module.code.ts"
+import {
+  reportOAuthRecovered,
+  reportTerminalOAuthError,
+} from "akasha/agents/seats/credential/modules/oauth-health-lines/oauth-health-lines.module.code.ts"
 import type { ProxyAdoptionRuleSource } from "akasha/agents/seats/oauth-proxy/modules/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
 import {
   type SupervisorOAuthProxyHandle,
@@ -26,14 +34,6 @@ import {
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
-import {
-  isAccountTerminal,
-  markAccountTerminal,
-} from "akasha/seat-system/seat-credential/modules/account-terminal/account-terminal.module.code.ts"
-import {
-  reportOAuthRecovered,
-  reportTerminalOAuthError,
-} from "akasha/seat-system/seat-credential/modules/oauth-health-lines/oauth-health-lines.module.code.ts"
 
 async function runCredentialPullTick(args: {
   account: string
