@@ -8,8 +8,8 @@ import {
 } from "akasha/agents/messaging/modules/message-to/message-to.module.code.ts"
 import { handlerDerives } from "akasha/agents/seats/modules/answering/seat-answering.module.code.ts"
 import { SEAT_MODE_HEADLESS } from "akasha/agents/seats/modules/modes/seat-modes.module.code.ts"
-import { resumeSeat as putTheSeatBack } from "akasha/agents/seats/modules/resume/seat-resume.module.code.ts"
 import { startSeat as startTheSeat } from "akasha/agents/seats/modules/start/seat-start.module.code.ts"
+import { resumeSeat as putTheSeatBack } from "akasha/agents/seats/reviving/modules/resume/seat-resume.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

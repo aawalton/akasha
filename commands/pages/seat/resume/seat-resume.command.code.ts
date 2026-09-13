@@ -50,7 +50,7 @@ export async function seatResume(argv: readonly string[], given: Given): Promise
     ...(taken.force === true ? [force.said] : []),
   ]
   const { default: resuming } = await import(
-    "akasha/agents/seats/modules/resume/seat-resume.module.code.ts"
+    "akasha/agents/seats/reviving/modules/resume/seat-resume.module.code.ts"
   )
   return await ran(async (done) => {
     await resuming([TARGET, taken.seat, ...carried], done)

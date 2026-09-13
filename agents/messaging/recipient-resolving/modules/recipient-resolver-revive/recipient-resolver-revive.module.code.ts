@@ -1,6 +1,6 @@
 import type { RecipientResolverConfig } from "akasha/agents/messaging/recipient-resolving/modules/recipient-resolver-config/recipient-resolver-config.module.code.ts"
-import { resumeSeat } from "akasha/agents/seats/modules/resume/seat-resume.module.code.ts"
-import type { ReviveVerifySignal } from "akasha/agents/seats/modules/revive-verify-signal/seat-revive-verify-signal.module.code.ts"
+import { resumeSeat } from "akasha/agents/seats/reviving/modules/resume/seat-resume.module.code.ts"
+import type { ReviveVerifySignal } from "akasha/agents/seats/reviving/modules/revive-verify-signal/seat-revive-verify-signal.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
