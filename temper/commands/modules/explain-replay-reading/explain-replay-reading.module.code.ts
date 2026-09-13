@@ -155,6 +155,6 @@ export async function readLastExplain(inventoryPath: string): Promise<ExplainTra
     inventoryPath,
     ACCOUNT_WIDE_SCHEMA,
     (wide) => wide.diagnostics?.lastExplain,
-    "no diagnostics.lastExplain (have you run the in-game explain keybind?)"
+    "no diagnostics.lastExplain (run `/temper inventory explain [item link]` in game, shift-clicking the item to insert its link)"
   )
 }
