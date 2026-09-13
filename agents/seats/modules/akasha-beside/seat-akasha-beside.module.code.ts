@@ -1,6 +1,6 @@
 import { statSync } from "node:fs"
 import { basename, join } from "node:path"
-import { seatAbove } from "akasha/agents/subagents/modules/naming/subagent-naming.module.code.ts"
+import { seatAbove } from "akasha/agents/subagents/modules/subagent-naming/subagent-naming.module.code.ts"
 import {
   everyOfType,
   listedAt,
