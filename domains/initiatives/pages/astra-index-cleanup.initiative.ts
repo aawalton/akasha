@@ -16,7 +16,7 @@ export const astraIndexCleanup = {
     {
       statement: "Alan holds the path index's structure correct.",
       workingMemory:
-        "`claimantOf` in `path-claiming` replaces the lookup: name arithmetic, then the name a page type declares, read against each folder above. It takes a `Listing`, so a guard hands in the folder its answer leaves. Left: `folder-matches-a-shape`, `page-property-has-its-file`, `file-domain`, `graph-asking`, and `check-reaches-a-path-through-the-index`, whose subject dissolves. The wall is `pageTypesIn`, which answers from the index, so a page whose type the change itself introduces goes unrecognised.\n",
+        "`claimantOf` in `path-claiming` replaces the lookup: name arithmetic, then the name a page type declares, read against each folder above. It takes a `Listing`, so a caller judging a change hands in the folder that change leaves, and widens the page types with any the change itself writes. Left: `folder-matches-a-shape`, `file-domain` and `graph-asking`, each wanting the claimant's id off its own page, and `check-reaches-a-path-through-the-index`, whose subject dissolves rather than converts.\n",
     },
     { statement: "Alan holds the listing index's structure correct." },
     { statement: "Alan holds the import index's structure correct." },
