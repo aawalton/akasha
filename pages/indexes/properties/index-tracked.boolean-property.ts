@@ -23,6 +23,10 @@ export const indexTracked = {
       invariantKind: "departure",
       statement: "Whether git holds an index and whether `.gitignore` names it are one fact.",
     },
+    {
+      invariantKind: "gap",
+      statement: "Nothing refuses an index saying true here while `.gitignore` names that index.",
+    },
   ],
   types: "ts",
 } as const satisfies BooleanProperty
