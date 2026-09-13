@@ -1,5 +1,5 @@
-import { mkdirSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
+import { existsSync, mkdirSync, writeFileSync } from "node:fs"
+import { dirname, join } from "node:path"
 import { onDisk } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged, Running } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
@@ -13,6 +13,7 @@ import {
   shapeAdded,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
+import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { type Shadow, shadowFor } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
@@ -140,6 +141,14 @@ export function carrying(
 
 export function claiming(root: string, path: string, page: string, id: string): undefined {
   pathFiled(root, path, [{ path: page, id }])
+  const said = partedIn(page)
+  if (said === null || existsSync(join(root, page))) return
+  mkdirSync(join(root, dirname(page)), { recursive: true })
+  writeFileSync(
+    join(root, page),
+    `export const held = { id: ${JSON.stringify(id)},` +
+      ` pageTypeSlug: ${JSON.stringify(said.pageType)}, slug: ${JSON.stringify(said.slug)} }\n`
+  )
 }
 
 export function edging(

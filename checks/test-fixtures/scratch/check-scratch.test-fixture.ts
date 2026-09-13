@@ -65,6 +65,14 @@ export const checkScratch = {
       invariantKind: "departure",
       statement: "Typing a page type files that page type's value.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A path filed for a page has that page's body written as well as the entry.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page whose body is already written is left as that body is.",
+    },
 
     {
       invariantKind: "departure",
