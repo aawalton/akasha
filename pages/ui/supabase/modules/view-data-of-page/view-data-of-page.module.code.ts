@@ -1,3 +1,4 @@
+import { camelizePath } from "akasha/pages/core/filter/modules/property-path/property-path.module.code.ts"
 import {
   parseViewDataJSON,
   type ViewDataJSON,
@@ -103,7 +104,7 @@ function asFilterValue(value: unknown): ViewFilter["value"] {
 
 function filtersForKey(propertyKey: string, tests: unknown): readonly ViewFilter[] {
   if (!isRecord(tests)) return []
-  const propertyId = camelizeKey(propertyKey)
+  const propertyId = camelizePath(propertyKey)
   const out: ViewFilter[] = []
   for (const [test, raw] of Object.entries(tests)) {
     if (test === "is") out.push({ propertyId, operator: "equals", value: asFilterValue(raw) })

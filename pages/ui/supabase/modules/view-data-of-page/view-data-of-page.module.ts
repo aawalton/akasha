@@ -13,5 +13,10 @@ export const viewDataOfPage = {
       statement:
         "A narrow comparison other than `in` and `not-in` is given the first value of that narrow's list.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A narrow key holding a dot is spelled one segment at a time, and its dots remain.",
+    },
   ],
 } as const satisfies Module

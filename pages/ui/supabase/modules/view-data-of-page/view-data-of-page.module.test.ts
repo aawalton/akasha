@@ -61,6 +61,16 @@ test("a narrow over one value takes that value rather than the list holding it",
   ])
 })
 
+test("a narrow key holding a dot keeps its dot and camels each segment", () => {
+  const data = viewDataOfPage({
+    nav: "stories",
+    narrows: [{ key: "external-identity.source", comparison: "is", values: ["royal-road"] }],
+  })
+  expect(data?.filters).toEqual([
+    { propertyId: "externalIdentity.source", operator: "equals", value: "royal-road" },
+  ])
+})
+
 test("a narrow on emptiness carries no value", () => {
   const data = viewDataOfPage({
     nav: "tasks",
