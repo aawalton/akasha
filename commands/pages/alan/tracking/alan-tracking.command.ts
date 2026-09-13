@@ -40,7 +40,7 @@ export const alanTracking = {
       statement: "The kind named here runs no warrant.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "No reading is owed for a path landed here.",
     },
     {
