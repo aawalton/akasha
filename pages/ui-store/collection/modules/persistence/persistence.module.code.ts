@@ -1,5 +1,5 @@
 import type { PageRow } from "akasha/pages/ui-store/collection/modules/page-row/page-row.module.code.ts"
-import type { ShapeResumeState } from "akasha/pages/ui-store/realtime/shape-meta/shape-meta.module.code.ts"
+import type { ShapeResumeState } from "akasha/pages/ui-store/realtime/modules/shape-meta/shape-meta.module.code.ts"
 
 export interface PersistedPagesSnapshot {
   readonly version: 1

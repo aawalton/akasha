@@ -1,7 +1,7 @@
 import { join, resolve } from "node:path"
 import { ranAsHook } from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
 import { shownIn } from "akasha/agents/hooks/modules/path-showing/path-showing.module.code.ts"
-import { insideOf, settled } from "akasha/agents/hooks/settling/settling.module.code.ts"
+import { insideOf, settled } from "akasha/agents/hooks/modules/settling/settling.module.code.ts"
 import { dataAt } from "akasha/files/modules/git-place/git-place.module.code.ts"
 
 const HOOK = "block-akasha-reads"

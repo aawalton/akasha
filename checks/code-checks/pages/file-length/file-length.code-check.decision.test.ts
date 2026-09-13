@@ -17,7 +17,7 @@ import {
   seeded,
 } from "akasha/checks/code-checks/pages/file-length/file-length.code-check.decision.test-fixtures.ts"
 import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.module.code.ts"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 const HELD = "akasha/held.ts"
 

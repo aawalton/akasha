@@ -8,7 +8,7 @@ import {
   textAt,
 } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
-import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
+import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 import {
   errnoCodeOf,
   pidAliveOrRefuse,

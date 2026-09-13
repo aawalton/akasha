@@ -10,7 +10,7 @@ import {
   remoteControlFallback,
   seatLabel,
 } from "akasha/seat-system/supervising/supervisor-remote-control-default/supervisor-remote-control-default.module.code.ts"
-import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
+import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const SeatSpawnAnswerShape = shape.object({
   [REMOTE_CONTROL_DECISION]: shape.tuple([RemoteControlVerdictShape]),

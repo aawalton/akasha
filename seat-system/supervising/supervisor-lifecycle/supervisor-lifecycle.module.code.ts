@@ -22,7 +22,7 @@ import {
   processes,
   setShuttingDown,
 } from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
-import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
+import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const SHUTDOWN_FORCE_EXIT_MS = 10_000
 const SHUTDOWN_SIGKILL_BACKSTOP_MS = 1_500

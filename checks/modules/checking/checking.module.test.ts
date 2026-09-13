@@ -63,7 +63,7 @@ import {
   idTakenFrom,
   indexTakenFrom,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
-import { shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowAsked } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

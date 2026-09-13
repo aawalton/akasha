@@ -1,10 +1,10 @@
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { namesIn } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
+import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import {
   textAt,
   type Value,
 } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 
 export const ADDRESS = "email-address-property"
 

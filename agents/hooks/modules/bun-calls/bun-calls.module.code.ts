@@ -2,7 +2,7 @@ import {
   basenameOf,
   calledWords,
   segmentsOf,
-} from "akasha/agents/hooks/shell-calls/shell-calls.module.code.ts"
+} from "akasha/agents/hooks/modules/shell-calls/shell-calls.module.code.ts"
 
 const BUN = "bun"
 

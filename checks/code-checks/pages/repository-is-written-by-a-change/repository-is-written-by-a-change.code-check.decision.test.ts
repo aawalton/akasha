@@ -11,7 +11,7 @@ import {
   rooted,
   scratch,
 } from "akasha/checks/code-checks/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.code-check.decision.test-fixtures.ts"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

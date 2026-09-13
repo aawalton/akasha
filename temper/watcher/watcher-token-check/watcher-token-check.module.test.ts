@@ -1,8 +1,8 @@
 import { beforeEach, describe, expect, mock, test } from "bun:test"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { asPage, type Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import { sha256Hex } from "akasha/utils/hashing/sha256-hex/sha256-hex.module.code.ts"
+import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
+import { sha256Hex } from "akasha/utils/hashing/modules/sha256-hex/sha256-hex.module.code.ts"
 
 const TOKEN = "wt_0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef"
 const TOKEN_SHA256 = "075ca82e4a533c9dc2cd45cbff379464a0163550bceedae2fd2e9fe27965c773"

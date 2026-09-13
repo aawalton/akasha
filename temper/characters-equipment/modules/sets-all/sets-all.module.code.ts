@@ -1,5 +1,5 @@
-import { SETS_ROWS_FIRST } from "akasha/temper/characters-equipment/sets-rows-first/sets-rows-first.module.code.ts"
-import { SETS_ROWS_SECOND } from "akasha/temper/characters-equipment/sets-rows-second/sets-rows-second.module.code.ts"
+import { SETS_ROWS_FIRST } from "akasha/temper/characters-equipment/modules/sets-rows-first/sets-rows-first.module.code.ts"
+import { SETS_ROWS_SECOND } from "akasha/temper/characters-equipment/modules/sets-rows-second/sets-rows-second.module.code.ts"
 import type { SetCategoryId } from "akasha/temper/equipment/modules/set-category-ids/set-category-ids.module.code.ts"
 import type { SetId } from "akasha/temper/equipment/modules/set-ids/set-ids.module.code.ts"
 import type { SetTemplate } from "akasha/temper/equipment/modules/set-template/set-template.module.code.ts"

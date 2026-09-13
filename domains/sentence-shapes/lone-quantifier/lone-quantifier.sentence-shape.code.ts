@@ -9,7 +9,7 @@ import {
 import type {
   Match,
   ShapePredicate,
-} from "akasha/domains/plain-language/shape-predicate/shape-predicate.module.code.ts"
+} from "akasha/domains/plain-language/modules/shape-predicate/shape-predicate.module.code.ts"
 import {
   determinesABacktickedName,
   fillsNounSlot,
@@ -19,7 +19,7 @@ import {
   isReciprocal,
   marksADegree,
   partsOf,
-} from "akasha/domains/plain-language/shape-predicate/shape-predicate.module.code.ts"
+} from "akasha/domains/plain-language/modules/shape-predicate/shape-predicate.module.code.ts"
 
 function marksBy(sentence: DepSentence, token: DepToken): boolean {
   return childrenByRel(sentence, token.id, "case").some((one) => lower(one) === "by")

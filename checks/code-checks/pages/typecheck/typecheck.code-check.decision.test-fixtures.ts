@@ -20,7 +20,7 @@ import {
   shapeAdded,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
-import { shadowAsked, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowAsked, shadowFor } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 export async function judged(one: Change): Promise<readonly Judged[]> {
   const cast = shadowFor(one)

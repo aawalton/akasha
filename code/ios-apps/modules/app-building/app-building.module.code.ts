@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { sharedBuildFiles } from "akasha/code/ios-apps/shared-build-files/shared-build-files.module.code.ts"
+import { sharedBuildFiles } from "akasha/code/ios-apps/modules/shared-build-files/shared-build-files.module.code.ts"
 import {
   indexThere,
   listedAt,

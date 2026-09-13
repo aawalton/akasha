@@ -18,7 +18,7 @@ import {
   generatedIn,
   toolResolvesPathsIn,
 } from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 const FACING = new WeakMap<Shadow, Facing>()
 

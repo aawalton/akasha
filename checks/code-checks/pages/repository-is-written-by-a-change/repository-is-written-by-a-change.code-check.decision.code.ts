@@ -6,7 +6,7 @@ import {
 import { lineOf, parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import ts from "typescript"
 
 const PAGE_TYPE = "page-type"

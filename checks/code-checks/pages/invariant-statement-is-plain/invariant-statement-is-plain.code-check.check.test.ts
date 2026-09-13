@@ -5,7 +5,7 @@ import {
 } from "akasha/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.check.code.ts"
 import { paged } from "akasha/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.decision.test-fixtures.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { bodiesAt } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 
 const ROOT = "/repo"

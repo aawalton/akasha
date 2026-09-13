@@ -1,4 +1,4 @@
-import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
+import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 export const PORT_READ_BUDGET_MS = 5_000
 

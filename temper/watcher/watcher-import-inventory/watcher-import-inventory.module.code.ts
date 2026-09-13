@@ -17,7 +17,7 @@ import type {
   PriceSource,
 } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import { computeInventoryTotalValue } from "akasha/temper/items-core/modules/inventory-value/inventory-value.module.code.ts"
-import { shardInventoryJson } from "akasha/temper/items-core/shard-inventory/shard-inventory.module.code.ts"
+import { shardInventoryJson } from "akasha/temper/items-core/modules/shard-inventory/shard-inventory.module.code.ts"
 import { inventorySnapshotName } from "akasha/temper/watcher/watcher-inventory-snapshot-name/watcher-inventory-snapshot-name.module.code.ts"
 import {
   capturedAtOf,

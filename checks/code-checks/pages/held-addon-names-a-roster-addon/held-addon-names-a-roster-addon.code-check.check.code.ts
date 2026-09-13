@@ -13,7 +13,7 @@ import {
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 export function askingIn(change: Change, shadow: Shadow): Asking {
   return {

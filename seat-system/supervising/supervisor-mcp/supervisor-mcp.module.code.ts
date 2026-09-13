@@ -21,7 +21,7 @@ import {
   getMcpServerRegistry,
   playwrightStorageStatePath,
 } from "akasha/seat-system/supervising/modules/mcp-registry/mcp-registry.module.code.ts"
-import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
+import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const LOG = "[supervisor-mcp]"
 

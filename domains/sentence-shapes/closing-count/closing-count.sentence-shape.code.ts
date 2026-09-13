@@ -9,8 +9,8 @@ import {
 import type {
   Match,
   ShapePredicate,
-} from "akasha/domains/plain-language/shape-predicate/shape-predicate.module.code.ts"
-import { isSummingCount } from "akasha/domains/plain-language/shape-predicate/shape-predicate.module.code.ts"
+} from "akasha/domains/plain-language/modules/shape-predicate/shape-predicate.module.code.ts"
+import { isSummingCount } from "akasha/domains/plain-language/modules/shape-predicate/shape-predicate.module.code.ts"
 
 const MARKERS = ["case", "cc", "advmod", "det", "punct"]
 

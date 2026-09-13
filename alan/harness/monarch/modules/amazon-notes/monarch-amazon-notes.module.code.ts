@@ -26,7 +26,7 @@ import {
   liveTransaction,
   mayWriteNotes,
 } from "akasha/alan/harness/monarch/modules/notes-write/monarch-notes-write.module.code.ts"
-import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
+import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const GMAIL_QUERY = "from:auto-confirm@amazon.com subject:Ordered after:2025/01/01"
 

@@ -22,7 +22,7 @@ import {
   relationFiled,
   shapeAdded,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
-import { NOT_WORKED_OUT } from "akasha/pages/shadow/shadow.module.code.ts"
+import { NOT_WORKED_OUT } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

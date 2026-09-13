@@ -1,4 +1,4 @@
-import { wordsOf } from "akasha/agents/hooks/shell-calls/shell-calls.module.code.ts"
+import { wordsOf } from "akasha/agents/hooks/modules/shell-calls/shell-calls.module.code.ts"
 import type {
   Given,
   Marking,

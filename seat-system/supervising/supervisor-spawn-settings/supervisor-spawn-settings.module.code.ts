@@ -7,7 +7,7 @@ import {
   agentSettings,
   isSettingsDocumentFault,
 } from "akasha/seat-system/supervising/supervisor-agent-settings/supervisor-agent-settings.module.code.ts"
-import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
+import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const LOG = "[spawn-settings]"
 

@@ -1,4 +1,4 @@
-import { sharedBuildFiles } from "akasha/code/ios-apps/shared-build-files/shared-build-files.module.code.ts"
+import { sharedBuildFiles } from "akasha/code/ios-apps/modules/shared-build-files/shared-build-files.module.code.ts"
 import { typeScripted } from "akasha/code/modules/file-kind/file-kind.module.code.ts"
 import { folderOf } from "akasha/code/modules/path-between/code-path-between.module.code.ts"
 import { reachedFrom } from "akasha/code/stylesheets/source-globbing/source-globbing.module.code.ts"

@@ -6,7 +6,7 @@ import {
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { everyPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { pageNamed } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 export function emailAddressIsWellFormed(root: string): readonly Judged[] {
   const shadow = shadowAt(root)

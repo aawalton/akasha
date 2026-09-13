@@ -1,6 +1,6 @@
 import { notices } from "akasha/agents/messaging/notices/modules/compose-notices/compose-notices.module.code.ts"
-import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
-import type { Infer } from "akasha/utils/narrow/shape-core/shape-core.module.code.ts"
+import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
+import type { Infer } from "akasha/utils/narrow/modules/shape-core/shape-core.module.code.ts"
 
 const LOG = "[resume-notices]"
 const COMPOSE_MODULE = "compose-notices"

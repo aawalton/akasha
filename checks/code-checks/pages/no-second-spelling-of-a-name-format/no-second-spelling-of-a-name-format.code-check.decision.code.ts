@@ -8,7 +8,7 @@ import {
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { lineOf, parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import ts from "typescript"
 
 const FORMAT = ".name-format.code.ts"

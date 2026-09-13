@@ -42,7 +42,7 @@ import {
   shadowAt,
   shadowFor,
   shadowOnto,
-} from "akasha/pages/shadow/shadow.module.code.ts"
+} from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 const BYTES = new TextEncoder()
 

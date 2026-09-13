@@ -7,11 +7,11 @@ import {
 } from "akasha/alan/harness/readouts/modules/group-serving/readout-group-serving.module.code.ts"
 import { relayedFor } from "akasha/alan/harness/readouts/modules/relay/readout-relay.module.test-fixtures.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import {
   textIn,
   textsAt,
 } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 
 export const GROUP = "a-group-named-only-in-this-test"

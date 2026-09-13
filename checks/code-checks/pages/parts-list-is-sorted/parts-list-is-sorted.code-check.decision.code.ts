@@ -2,7 +2,7 @@ import { partsOf } from "akasha/checks/code-checks/pages/domain-is-named-by-a-pa
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { pageNamed } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 const SORTED = "a parts list is sorted by the whole `type/slug` a part is written as"
 

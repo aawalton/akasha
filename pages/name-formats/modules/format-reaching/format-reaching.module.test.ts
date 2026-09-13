@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { matchingIn } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
 const REPO_AT = rootOf(import.meta.dir)
 

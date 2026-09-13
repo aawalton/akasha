@@ -13,7 +13,7 @@ import {
   insideAnApp,
 } from "akasha/checks/modules/router-app-code/router-app-code.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 export function askingIn(change: Change, shadow: Shadow): Asking {
   return {

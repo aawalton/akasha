@@ -14,7 +14,7 @@ import {
   pathFor,
   typed,
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const ONE = "01a04d5f-c731-7001-8000-000000000001"

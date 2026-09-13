@@ -1,5 +1,5 @@
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 export type Judged = {
   readonly path: string

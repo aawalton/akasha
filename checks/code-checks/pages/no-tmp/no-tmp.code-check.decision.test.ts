@@ -14,7 +14,7 @@ import {
   SPELLING,
   scratch,
 } from "akasha/checks/code-checks/pages/no-tmp/no-tmp.code-check.decision.test-fixtures.ts"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 const HERE = dirname(import.meta.path)
 

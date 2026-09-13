@@ -33,7 +33,7 @@ import {
   SheetHeader,
   SheetTitle,
   SheetTrigger,
-} from "akasha/design/interfaces/primitives/sheet/sheet.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/sheet/sheet.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import {
   formatCompact,

@@ -7,7 +7,7 @@ import {
   SCOPE,
 } from "akasha/agents/hooks/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.code.ts"
 import { UNREADABLE } from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
-import { insideOf, settled } from "akasha/agents/hooks/settling/settling.module.code.ts"
+import { insideOf, settled } from "akasha/agents/hooks/modules/settling/settling.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { dataAt } from "akasha/files/modules/git-place/git-place.module.code.ts"
 import { INDEX_AT } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"

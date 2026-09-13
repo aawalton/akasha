@@ -16,7 +16,7 @@ import {
   STATING,
   scratch,
 } from "akasha/checks/code-checks/pages/no-second-spelling-of-a-name-format/no-second-spelling-of-a-name-format.code-check.decision.test-fixtures.ts"
-import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowFor } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

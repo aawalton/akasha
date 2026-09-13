@@ -12,7 +12,7 @@ import {
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { pathFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
-import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowFor } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"

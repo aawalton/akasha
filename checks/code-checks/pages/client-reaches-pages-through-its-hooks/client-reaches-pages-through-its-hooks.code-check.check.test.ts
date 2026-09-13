@@ -6,7 +6,7 @@ import {
 import { change, scratch, staged } from "akasha/checks/modules/staging/check-staging.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { pathFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -9,7 +9,7 @@ import {
   REFUSED,
   unreadable,
 } from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
-import { insideOf, settled } from "akasha/agents/hooks/settling/settling.module.code.ts"
+import { insideOf, settled } from "akasha/agents/hooks/modules/settling/settling.module.code.ts"
 import {
   basenameOf,
   bodiesOpenedBy,
@@ -19,7 +19,7 @@ import {
   pastHeredocs,
   segmentsOf,
   wordsOf,
-} from "akasha/agents/hooks/shell-calls/shell-calls.module.code.ts"
+} from "akasha/agents/hooks/modules/shell-calls/shell-calls.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { gitIgnoring } from "akasha/git/modules/pathspec/git-pathspec.module.code.ts"
 import { z } from "zod"

@@ -28,7 +28,7 @@ import {
 import { temperEsoGenerateDeclaration as page } from "akasha/commands/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { saidShort } from "akasha/temper/commands/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
 import {
   generateEnumsFile,

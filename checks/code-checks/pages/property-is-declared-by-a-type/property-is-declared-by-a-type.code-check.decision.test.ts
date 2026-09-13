@@ -22,7 +22,7 @@ import {
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { pageFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { namedUnder } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

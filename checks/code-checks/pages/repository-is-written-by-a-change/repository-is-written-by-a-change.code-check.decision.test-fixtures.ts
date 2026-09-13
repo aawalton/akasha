@@ -99,7 +99,7 @@ const MODULE_VALUES: readonly Filed[] = [
     },
   },
   {
-    path: "pages/shadow/shadow.module.ts",
+    path: "pages/modules/shadow/shadow.module.ts",
     value: {
       id: "01a08299-65c2-7008-8000-000000000008",
       pageTypeSlug: "module",

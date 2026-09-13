@@ -9,7 +9,7 @@ import {
   Sheet,
   SheetContent,
   SheetTrigger,
-} from "akasha/design/interfaces/primitives/sheet/sheet.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/sheet/sheet.module.code.tsx"
 import { useIsMobile } from "akasha/design/interfaces/primitives/use-mobile/use-mobile.module.code.tsx"
 import type * as React from "react"
 

@@ -5,8 +5,8 @@ import { landingOf } from "akasha/code/modules/specifier/code-specifier.module.c
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { matchingIn } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import ts from "typescript"
 
 const NAME_FORMAT = "name-format"

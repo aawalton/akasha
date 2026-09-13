@@ -5,7 +5,7 @@ import type {
   Guarding,
 } from "akasha/changes/modules/guarding/change-guarding.module.types.ts"
 import { castingOn, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { NOT_WORKED_OUT } from "akasha/pages/shadow/shadow.module.code.ts"
+import { NOT_WORKED_OUT } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 export const NOT_READ = "the index this guard reads could not be read"
 

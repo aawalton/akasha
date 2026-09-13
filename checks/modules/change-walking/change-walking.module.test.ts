@@ -50,7 +50,7 @@ import {
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

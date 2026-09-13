@@ -2,7 +2,7 @@ import type { SupabaseUser } from "akasha/alan/harness/supabase-auth/supabase-us
 import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
 import { PageLayoutSkeleton } from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/skeleton-presets/skeleton-presets.module.code.ts"
-import { SettingsPageContent } from "akasha/temper/web/settings-page-content/settings-page-content.module.code.tsx"
+import { SettingsPageContent } from "akasha/temper/web/modules/settings-page-content/settings-page-content.module.code.tsx"
 import { tabDefaultFor } from "akasha/temper/web/tab-defaults/tab-defaults.module.code.ts"
 import { Suspense } from "react"
 import { data, redirect, useSearchParams } from "react-router"

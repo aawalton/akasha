@@ -11,7 +11,7 @@ import {
   vanishing,
 } from "akasha/checks/code-checks/pages/typecheck/typecheck.code-check.decision.test-fixtures.ts"
 import { change, scratch } from "akasha/checks/modules/staging/check-staging.module.code.ts"
-import { shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowAsked } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

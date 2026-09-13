@@ -1,13 +1,13 @@
 import { addressIn } from "akasha/pages/modules/address/page-address.module.code.ts"
 import { entriedAmong, entriesIn } from "akasha/pages/modules/entries/page-entries.module.code.ts"
 import { partsReading } from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"
+import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import {
   numberAt,
   textAt,
   type Value,
 } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import type { Formatting } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 
 const FORMAT = "nameFormat"

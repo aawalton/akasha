@@ -16,7 +16,7 @@ import {
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { valueAlsoFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
-import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowFor } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"

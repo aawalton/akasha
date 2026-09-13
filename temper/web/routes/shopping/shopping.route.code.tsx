@@ -1,7 +1,7 @@
 import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
 import { PageLayoutSkeleton } from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/skeleton-presets/skeleton-presets.module.code.ts"
-import { ShoppingPageContent } from "akasha/temper/player-economics-ui/shopping-page-content/shopping-page-content.module.code.tsx"
+import { ShoppingPageContent } from "akasha/temper/player-economics-ui/modules/shopping-page-content/shopping-page-content.module.code.tsx"
 import { useShoppingMarks } from "akasha/temper/web/modules/player-settings/player-settings.module.code.ts"
 import { tabDefaultFor } from "akasha/temper/web/tab-defaults/tab-defaults.module.code.ts"
 import { Suspense } from "react"

@@ -2,7 +2,7 @@ import { NEVER_MATCH_SLUG } from "akasha/pages/access/modules/sentinels/sentinel
 import {
   type ShapeDescriptor,
   slugShapeDescriptor,
-} from "akasha/pages/ui-store/collection/shape-descriptor/shape-descriptor.module.code.ts"
+} from "akasha/pages/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 
 export interface ShapeAcquisition {
   count: number

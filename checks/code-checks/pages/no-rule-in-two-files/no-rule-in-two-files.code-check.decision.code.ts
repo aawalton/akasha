@@ -9,7 +9,7 @@ import type { Judged } from "akasha/checks/modules/judging/judging.module.code.t
 import { speltIn } from "akasha/code/modules/rule/code-rule.module.code.ts"
 import type { Said } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 export type Saying = (rule: string) => readonly Said[]
 

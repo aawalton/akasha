@@ -27,7 +27,7 @@ import type { Answering } from "akasha/pages/indexes/modules/answering/index-ans
 import { waitingKeys } from "akasha/pages/indexes/modules/generated-properties/generated-properties.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { namedUnder, pageNamed } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import ts from "typescript"
 import { API } from "typescript-7/unstable/async"
 

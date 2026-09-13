@@ -17,7 +17,7 @@ const ANSWERING = 'import type { Answering } from "@akasha/indexes/answering"\n'
 
 const READING = 'import type { Reading } from "@akasha/indexes/shape"\n'
 
-const SHADOW = 'import type { Shadow } from "@akasha/pages/shadow"\n'
+const SHADOW = 'import type { Shadow } from "@akasha/pages/modules/shadow"\n'
 
 const VALUE_AT = 'import { type Value, valueAt } from "@akasha/pages/page-value"\n'
 

@@ -6,7 +6,7 @@ import {
   SheetContent,
   SheetDescription,
   SheetTitle,
-} from "akasha/design/interfaces/primitives/sheet/sheet.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/sheet/sheet.module.code.tsx"
 import { Menu } from "lucide-react"
 import { type ReactNode, useState } from "react"
 

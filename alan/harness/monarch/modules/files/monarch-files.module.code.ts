@@ -10,7 +10,7 @@ import {
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
+import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const roots = resolveRoots()
 

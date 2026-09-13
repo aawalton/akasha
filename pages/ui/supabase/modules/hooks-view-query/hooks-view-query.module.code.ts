@@ -19,7 +19,7 @@ import {
 } from "akasha/pages/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import { useViewPagesSupabase } from "akasha/pages/ui/supabase/use-view-pages/use-view-pages.module.code.tsx"
 import { viewFilterToCondition } from "akasha/pages/ui/supabase/view-filter-to-condition/view-filter-to-condition.module.code.ts"
-import type { ShapeDescriptor } from "akasha/pages/ui-store/collection/shape-descriptor/shape-descriptor.module.code.ts"
+import type { ShapeDescriptor } from "akasha/pages/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import { useMemo } from "react"
 
 export function usePageViewQuery({

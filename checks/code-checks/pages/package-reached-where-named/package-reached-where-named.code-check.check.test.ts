@@ -8,7 +8,7 @@ import {
   scratch,
 } from "akasha/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.decision.test-fixtures.ts"
 import { change } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

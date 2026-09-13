@@ -4,7 +4,7 @@ import { useSingleFlight } from "akasha/design/interfaces/primitives/use-single-
 import {
   pinLocationIndex,
   recomputeLocations,
-} from "akasha/temper/player-economics-ui/shopping-optimizer-rules/shopping-optimizer-rules.module.code.ts"
+} from "akasha/temper/player-economics-ui/modules/shopping-optimizer-rules/shopping-optimizer-rules.module.code.ts"
 import type {
   LocationPurchase,
   LocationSummary,
@@ -12,12 +12,12 @@ import type {
   OptimizerDerived,
   OptimizerState,
   UpdateShoppingMarks,
-} from "akasha/temper/player-economics-ui/shopping-optimizer-types/shopping-optimizer-types.module.code.ts"
+} from "akasha/temper/player-economics-ui/modules/shopping-optimizer-types/shopping-optimizer-types.module.code.ts"
 import {
   clearCachedRoute,
   loadCachedRoute,
   saveCachedRoute,
-} from "akasha/temper/player-economics-ui/shopping-route-cache/shopping-route-cache.module.code.ts"
+} from "akasha/temper/player-economics-ui/modules/shopping-route-cache/shopping-route-cache.module.code.ts"
 import { readSSEStream } from "akasha/temper/player-economics-ui/shopping-sse-reader/shopping-sse-reader.module.code.ts"
 import type { ShoppingList } from "akasha/temper/player-economics-ui/use-shopping-list/use-shopping-list.module.code.ts"
 import type {

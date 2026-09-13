@@ -12,7 +12,7 @@ import {
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   if (!change.changed.some((path) => typeNamedIn(path) !== null)) return []

@@ -7,8 +7,8 @@ import {
   typedAs,
 } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { slugsIn } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { turnedBy } from "akasha/pages/types/type-turning/type-turning.module.code.ts"
 
 const PAGE_TYPE = "page-type"

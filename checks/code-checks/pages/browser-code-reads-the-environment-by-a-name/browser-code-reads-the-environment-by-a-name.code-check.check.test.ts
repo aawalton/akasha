@@ -9,7 +9,7 @@ import {
   appRooted,
 } from "akasha/checks/modules/router-app-code/router-app-code.module.test-fixtures.ts"
 import { change, scratch } from "akasha/checks/modules/staging/check-staging.module.code.ts"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

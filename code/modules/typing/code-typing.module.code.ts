@@ -3,7 +3,7 @@ import { dirname, join, resolve } from "node:path"
 import { typeScripted } from "akasha/code/modules/file-kind/file-kind.module.code.ts"
 import { calledIn } from "akasha/code/modules/package-manifest/package-manifest.module.code.ts"
 import { stamped, writtenTo } from "akasha/code/typing-keeping/typing-keeping.module.code.ts"
-import { sha256Hex } from "akasha/utils/hashing/sha256-hex/sha256-hex.module.code.ts"
+import { sha256Hex } from "akasha/utils/hashing/modules/sha256-hex/sha256-hex.module.code.ts"
 import ts from "typescript"
 
 const PACKAGES = "node_modules"

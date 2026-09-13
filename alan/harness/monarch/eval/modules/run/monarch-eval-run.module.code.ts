@@ -28,7 +28,7 @@ import {
   readFlags,
 } from "akasha/alan/harness/monarch/modules/rule-pages/monarch-rule-pages.module.code.ts"
 import { chunk } from "akasha/utils/narrow/modules/chunk/chunk.module.code.ts"
-import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
+import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const PARALLEL = 4
 

@@ -5,7 +5,7 @@ import {
   RawSessionLine,
   SessionMessage,
 } from "akasha/agents/claude-code/session/modules/jsonl-schema/session-jsonl-schema.module.code.ts"
-import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
+import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const ResultSubtypePresence = shape.looseObject({ subtype: shape.string() })
 

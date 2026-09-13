@@ -9,7 +9,7 @@ import {
   type Text,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 const OUTSIDE_BY = new WeakMap<Shadow, (path: string) => boolean>()
 

@@ -6,7 +6,7 @@ import {
   scratch,
 } from "akasha/checks/code-checks/pages/no-spacing-literal/no-spacing-literal.code-check.decision.test-fixtures.ts"
 import { change } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

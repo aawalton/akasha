@@ -21,7 +21,7 @@ import {
   judgingBy,
   landing,
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import { shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowAsked } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 
 afterAll(scratch.sweep)

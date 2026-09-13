@@ -13,7 +13,7 @@ import {
   TWO_AT,
 } from "akasha/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.decision.test-fixtures.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowAsked } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

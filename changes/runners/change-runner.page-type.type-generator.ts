@@ -3,7 +3,7 @@ import { textOf } from "akasha/code/modules/body-text/body-text.module.code.ts"
 import { importedFrom, saidAs } from "akasha/pages/modules/body/page-body.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

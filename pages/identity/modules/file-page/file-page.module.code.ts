@@ -2,7 +2,7 @@ import {
   bytesOfHex,
   hexOf,
   sha1Bytes,
-} from "akasha/pages/identity/sha1-digest/sha1-digest.module.code.ts"
+} from "akasha/pages/identity/modules/sha1-digest/sha1-digest.module.code.ts"
 
 const AT_NAMESPACE = "6ba7b812-9dad-11d1-80b4-00c04fd430c8"
 

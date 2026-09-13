@@ -1,4 +1,4 @@
-import { shellNameOf } from "akasha/code/editor/extension/shell-naming/shell-naming.module.code.ts"
+import { shellNameOf } from "akasha/code/editor/extension/modules/shell-naming/shell-naming.module.code.ts"
 import {
   lastAppliedByTerminal,
   lastColorByTerminal,

@@ -14,7 +14,7 @@ import {
   TWO_PAGE,
   tracked,
 } from "akasha/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.decision.test-fixtures.ts"
-import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowFor } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

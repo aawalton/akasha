@@ -5,7 +5,7 @@ import type {
 } from "akasha/seat-system/supervising/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
 import type { IdleRuleSource } from "akasha/seat-system/supervising/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 import { readProcessStartMs } from "akasha/seat-system/supervising/supervisor-precliff-restart/supervisor-precliff-restart.module.code.ts"
-import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
+import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 export interface IdleGateConfig {
   interruptMessage: string | null

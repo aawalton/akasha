@@ -4,11 +4,11 @@ import { SupabaseProvider } from "akasha/alan/harness/supabase-rr/supabase-provi
 import { AppShell } from "akasha/alan/web/modules/alan-app-shell/alan-app-shell.module.code.tsx"
 import { AuthProvider } from "akasha/alan/web/modules/alan-auth-provider/alan-auth-provider.module.code.tsx"
 import { buildNativeTtsAdapter } from "akasha/alan/web/modules/kokoro-tts-adapter/kokoro-tts-adapter.module.code.ts"
-import { resolveShellEnsureRendition } from "akasha/alan/web/shell-ensure-rendition/shell-ensure-rendition.module.code.ts"
+import { resolveShellEnsureRendition } from "akasha/alan/web/modules/shell-ensure-rendition/shell-ensure-rendition.module.code.ts"
 import {
   resolveShellHlsSrc,
   resolveShellMediaSrc,
-} from "akasha/alan/web/shell-media-src/shell-media-src.module.code.ts"
+} from "akasha/alan/web/modules/shell-media-src/shell-media-src.module.code.ts"
 import { Toaster } from "akasha/design/interfaces/primitives/sonner/sonner.module.code.tsx"
 import { PlayingSessionProvider } from "akasha/pages/ui/media/modules/playing-session-context/playing-session-context.module.code.tsx"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"

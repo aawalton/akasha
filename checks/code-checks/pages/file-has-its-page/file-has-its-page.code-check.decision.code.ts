@@ -10,7 +10,7 @@ import {
   secretNamed,
   uncommittedHeld,
 } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 const TS = ".ts"
 

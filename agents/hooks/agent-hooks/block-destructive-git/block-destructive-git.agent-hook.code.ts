@@ -6,7 +6,7 @@ import {
 import { judgingCalls } from "akasha/agents/hooks/modules/chain-refusal/chain-refusal.module.code.ts"
 import type { GitCall } from "akasha/agents/hooks/modules/git-calls/git-calls.module.code.ts"
 import { gitCallsIn } from "akasha/agents/hooks/modules/git-calls/git-calls.module.code.ts"
-import { RUNS_ANOTHER } from "akasha/agents/hooks/shell-calls/shell-calls.module.code.ts"
+import { RUNS_ANOTHER } from "akasha/agents/hooks/modules/shell-calls/shell-calls.module.code.ts"
 
 const HOOK = "block-destructive-git"
 

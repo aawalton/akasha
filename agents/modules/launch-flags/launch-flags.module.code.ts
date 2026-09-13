@@ -1,5 +1,5 @@
 import { harnessSettings } from "akasha/agents/settings/modules/harness-settings-reading/harness-settings-reading.module.code.ts"
-import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
+import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const SETTINGS_SLUG = "launch-flags"
 
