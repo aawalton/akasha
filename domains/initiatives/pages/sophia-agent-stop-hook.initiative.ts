@@ -10,13 +10,13 @@ export const sophiaAgentStopHook = {
     {
       statement: "No clean turn Alan has labelled draws a refusal from the live judge.",
       workingMemory:
-        "Met for all four judges the hook now runs: none refuses any of the 227 turns the pool labels as breaking nothing, each measured over two runs. The six turns that read as misfires for Neither Clock Nor Meter all sit outside that 227, labelled against some other rule, and at least three break Neither Clock Nor Meter as well, so the loss there is the answer key rather than the judge.\n",
+        "Measured against the 413 cases rather than the pool they were mined from, which shares none of their ids and lacks 51 of the 214 clean turns. `no-commentary-kept` and `subagent-brief-kept` refuse none of the 214, over two runs each. `directive-kept` refuses one, the same one on three runs, reading a command's timeout as a limit of the agent's own. `one-at-a-time-kept` refuses one and then two. A fifth judge was taken off the hook for refusing two.\n",
     },
     {
       statement:
         "Each of the five directives Alan's page states has a judge that misfires on nothing.",
       workingMemory:
-        "Three of five have judges, five prompts, each measured over two runs and misfiring on none of the 227 clean turns. `directive-kept` catches 15 of 34 for Neither Clock Nor Meter. `one-at-a-time-kept`, 19 of 33. No Commentary is judged by three signs — a piece marked worth knowing, what the turn told a helper, and a wait restated — whose union catches 25 of 63. The other two directives are blocked rather than unworked.\n",
+        "Three of five have judges. Over the 413 cases, `directive-kept` catches 15 of 34 for Neither Clock Nor Meter and `one-at-a-time-kept` 13 of 24, and each refuses a clean turn. No Commentary is judged by two signs whose union catches 14 of 64 and refuses nothing clean. A third sign for it, a wait restated, is landed and off the hook: the key labels three turns carrying its mark clean and nine like them breaches.\n",
     },
     {
       statement:
