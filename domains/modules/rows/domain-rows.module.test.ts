@@ -9,9 +9,9 @@ import {
 import {
   idFiled,
   listedFiled,
-  namedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { namedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.test-fixtures.ts"
 import { relationFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 

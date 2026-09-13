@@ -4,9 +4,9 @@ import { dirname, join } from "node:path"
 import {
   idFiled,
   listedFiled,
-  namedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { namedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.test-fixtures.ts"
 import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { kindsUnder } from "akasha/pages/types/modules/descent/page-type-descent.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"

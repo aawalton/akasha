@@ -3,8 +3,6 @@ import { dirname, join } from "node:path"
 import { indexIdentity } from "akasha/pages/indexes/identity/index-identity.index.ts"
 import { keepBuilt } from "akasha/pages/indexes/modules/keeping/index-keeping.module.code.ts"
 import { indexIn } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
-import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
-import { indexShapes } from "akasha/pages/indexes/shapes/index-shapes.index.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 
@@ -13,8 +11,6 @@ const ENDING = ".jsonl"
 const PAGE = "page"
 
 const PAGE_TYPE = "page-type"
-
-const PAGE_PROPERTY = "page-property"
 
 const NO_SCOPE = ""
 
@@ -71,16 +67,6 @@ export function idFiled(root: string, id: string, lines: readonly unknown[]): un
   identityFiled(root, PAGE, NO_SCOPE, ID, id, lines)
 }
 
-export function namedFiled(
-  root: string,
-  id: string,
-  propertySlug: string,
-  naming: string,
-  lines: readonly unknown[]
-): undefined {
-  written(root, join(indexRelation.name, PAGE, ID, id, propertySlug, naming), lines)
-}
-
 function namedIn(value: Readonly<Record<string, unknown>>): string {
   const slug = value[SLUG]
   return typeof slug === "string" ? exportedAs(slug) : HELD
@@ -114,19 +100,4 @@ export function valueAlsoFiled(
     const value = one.value
     if (path !== null && value !== undefined) bodyWritten(root, path, value)
   }
-}
-
-export function shapeAlsoFiled(
-  root: string,
-  pageTypeSlug: string,
-  lines: readonly unknown[]
-): undefined {
-  added(root, join(indexShapes.name, PAGE_PROPERTY, pageTypeSlug), lines)
-}
-
-export function lineFiled(root: string, at: string, line: string): undefined {
-  const path = join(root, at)
-  mkdirSync(dirname(path), { recursive: true })
-  writeFileSync(path, `${line}\n`)
-  keepBuilt(root)
 }

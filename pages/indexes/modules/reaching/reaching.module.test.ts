@@ -14,7 +14,7 @@ import {
   shaped,
   shaping,
 } from "akasha/pages/indexes/modules/entries/index-entries.module.test-fixtures.ts"
-import { lineFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { lineFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.test-fixtures.ts"
 import {
   knownIn,
   namesMortal,

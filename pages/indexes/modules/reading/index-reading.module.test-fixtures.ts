@@ -16,9 +16,9 @@ import type { Entry } from "akasha/pages/indexes/modules/entries/index-entries.m
 import {
   idFiled,
   listedFiled,
-  shapeAlsoFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { shapeAlsoFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.test-fixtures.ts"
 import { refreshedFrom } from "akasha/pages/indexes/modules/indexing/indexing.module.code.ts"
 import { keepBuilt } from "akasha/pages/indexes/modules/keeping/index-keeping.module.code.ts"
 import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"

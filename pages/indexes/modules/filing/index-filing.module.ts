@@ -6,6 +6,7 @@ export const indexFiling = {
   slug: "index-filing",
   definition: "the index lines and page bodies a test files into a root of its own",
   code: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

@@ -3,9 +3,9 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
   listedFiled,
-  shapeAlsoFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { shapeAlsoFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.test-fixtures.ts"
 import {
   pageFiled,
   relationFiled,
