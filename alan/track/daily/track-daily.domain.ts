@@ -21,7 +21,6 @@ export const trackDaily = {
     "module/day-reading",
     "module/day-scan-window",
     "module/day-stretches",
-    "module/health-total-population",
     "module/mountain-times",
     "module/nutrition-grams",
     "module/nutrition-points",
