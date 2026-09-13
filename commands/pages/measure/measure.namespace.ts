@@ -8,6 +8,7 @@ export const measure = {
   parts: [
     "command/measure-attribute",
     "command/measure-audit",
+    "command/measure-call",
     "command/measure-change",
     "command/measure-check",
     "command/measure-command",
