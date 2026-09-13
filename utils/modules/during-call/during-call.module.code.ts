@@ -43,7 +43,3 @@ export function onceInCall<T>(key: string, make: () => T): T {
   held.set(key, made)
   return made
 }
-
-export function holdInCall<T>(key: string, value: T): undefined {
-  calls()?.getStore()?.set(key, value)
-}

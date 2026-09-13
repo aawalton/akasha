@@ -55,8 +55,3 @@ export function parsePorcelainStatusZ(stdout: string): PorcelainParse {
 
   return { ok: true, entries }
 }
-
-export function formatPorcelainEntry(entry: PorcelainEntry): string {
-  const path = entry.origPath === undefined ? entry.path : `${entry.origPath} -> ${entry.path}`
-  return `${entry.index}${entry.worktree} ${path}`
-}
