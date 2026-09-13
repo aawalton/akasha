@@ -24,6 +24,7 @@ import {
   handlerSaid,
   msSaid,
   settlingSaid,
+  stackingSaid,
 } from "akasha/temper/commands/modules/venue-trace-saying/venue-trace-saying.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 
@@ -50,6 +51,7 @@ function traceSaid(trace: BankTrace): readonly string[] {
     `moves: ${numSaid(trace.moveCount)} (withdraw ${numSaid(trace.withdrawCount)}, ` +
       `deposit ${numSaid(trace.depositCount)})`,
     pacedSaid(trace.pacedDispatch),
+    stackingSaid(trace.stacking),
     `net-worth walks: ${trace.netWorth.walkCount}, total ${trace.netWorth.walkTotalMs}ms, ` +
       `max ${trace.netWorth.walkMaxMs}ms`,
     ...handlerSaid(trace.handler),

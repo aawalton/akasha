@@ -1,4 +1,7 @@
-import { recordPacedDispatch } from "akasha/temper/items-addon/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
+import {
+  recordPacedDispatch,
+  recordStacking,
+} from "akasha/temper/items-addon/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
 import type { BankTracePacedDispatch } from "akasha/temper/items-addon/modules/inventory-bank-trace-types/inventory-bank-trace-types.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
 import {
@@ -39,8 +42,14 @@ export function startPacedBankChain(
   ) => void,
   onSettled: (this: void) => void
 ): undefined {
-  if (pacedBankRunning) return
-  if (steps.length === 0) return
+  if (pacedBankRunning) {
+    recordStacking({ ran: false, skipped: "a dispatch from an earlier visit was still running" })
+    return
+  }
+  if (steps.length === 0) {
+    recordStacking({ ran: false, skipped: "the visit planned nothing to dispatch" })
+    return
+  }
   pacedBankRunning = true
 
   const queue: PacedBankStep[] = []
@@ -77,7 +86,11 @@ export function startPacedBankChain(
     inFlight = []
     stats.abortedEarly = aborted
     recordPacedDispatch(stats)
-    if (!aborted) onSettled()
+    if (aborted) {
+      recordStacking({ ran: false, skipped: "the bank closed before the batch settled" })
+      return
+    }
+    onSettled()
   }
 
   function issueBatch(): undefined {

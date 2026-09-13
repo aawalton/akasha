@@ -1,6 +1,7 @@
 import type {
   BankTraceBracket,
   BankTraceSettling,
+  BankTraceStacking,
 } from "akasha/temper/commands/modules/bank-trace-reading/bank-trace-reading.module.code.ts"
 
 export function msSaid(value: number | undefined): string {
@@ -39,6 +40,18 @@ export function settlingSaid(settling: BankTraceSettling | undefined): readonly 
       `walk-rules ${nestedBracketSaid(settling.walkRules)}`,
     `unattributed remainder: ${msSaid(settling.unattributedMs)}`,
   ]
+}
+
+export function stackingSaid(stacking: BankTraceStacking | undefined): string {
+  if (stacking === undefined) {
+    return "stacking: nil (pre-v7 trace — bank once more to capture it)"
+  }
+  if (!stacking.ran) {
+    return `stacking: did not run — ${stacking.skipped ?? "no reason was recorded"}`
+  }
+  const bags = stacking.bags ?? []
+  if (bags.length === 0) return "stacking: ran over no bags"
+  return `stacking: ran over bags ${bags.join(", ")}`
 }
 
 export function handlerSaid(handler: BankTraceSettling | undefined): readonly string[] {

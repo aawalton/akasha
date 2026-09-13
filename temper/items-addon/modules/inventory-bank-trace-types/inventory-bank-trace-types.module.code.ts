@@ -37,6 +37,12 @@ export interface BankTracePacedDispatch {
   abortedEarly: boolean
 }
 
+export interface BankTraceStacking {
+  ran: boolean
+  bags?: number[]
+  skipped?: string
+}
+
 export type VenueKind = "bank" | "store" | "fence"
 
 export interface BankTrace {
@@ -57,4 +63,5 @@ export interface BankTrace {
   handler: BankTraceSettling
   settling: BankTraceSettling
   pacedDispatch?: BankTracePacedDispatch
+  stacking?: BankTraceStacking
 }

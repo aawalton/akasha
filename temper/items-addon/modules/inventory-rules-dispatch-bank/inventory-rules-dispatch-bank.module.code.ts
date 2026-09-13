@@ -1,6 +1,7 @@
 import {
   recordBankMoves,
   recordBankPhaseMs,
+  recordStacking,
 } from "akasha/temper/items-addon/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
 import { getInventoryConfig } from "akasha/temper/items-addon/modules/inventory-config/inventory-config.module.code.ts"
 import { HOUSE_BANK_BAGS } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
@@ -28,14 +29,26 @@ export function isDispatchingBank(): boolean {
 }
 
 function stackVisitedBags(this: void, bankingBag: number): undefined {
-  if (getInventoryConfig().backpack?.autoStack === false) return
+  if (getInventoryConfig().backpack?.autoStack === false) {
+    recordStacking({ ran: false, skipped: "the autoStack setting is off" })
+    return
+  }
+  const bags: number[] = []
   StackBag(BAG_BACKPACK)
+  bags.push(BAG_BACKPACK)
   if (bankingBag === BAG_BANK || bankingBag === BAG_SUBSCRIBER_BANK) {
     StackBag(BAG_BANK)
-    if (IsESOPlusSubscriber()) StackBag(BAG_SUBSCRIBER_BANK)
+    bags.push(BAG_BANK)
+    if (IsESOPlusSubscriber()) {
+      StackBag(BAG_SUBSCRIBER_BANK)
+      bags.push(BAG_SUBSCRIBER_BANK)
+    }
+    recordStacking({ ran: true, bags })
     return
   }
   StackBag(bankingBag)
+  bags.push(bankingBag)
+  recordStacking({ ran: true, bags })
 }
 
 export function onOpenBank(): undefined {

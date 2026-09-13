@@ -39,6 +39,14 @@ const PACED_DISPATCH_SCHEMA = z
   })
   .strict()
 
+const STACKING_SCHEMA = z
+  .object({
+    ran: z.boolean(),
+    bags: luaArrayOrEmpty(z.number()).optional(),
+    skipped: z.string().optional(),
+  })
+  .strict()
+
 const SETTLING_SCHEMA = z
   .object({
     evaluateRules: BRACKET_SCHEMA,
@@ -73,6 +81,7 @@ const TRACE_SCHEMA = z
     handler: SETTLING_SCHEMA.optional(),
     settling: SETTLING_SCHEMA.optional(),
     pacedDispatch: PACED_DISPATCH_SCHEMA.optional(),
+    stacking: STACKING_SCHEMA.optional(),
   })
   .strict()
 
@@ -81,6 +90,8 @@ export type BankTraceBracket = z.infer<typeof BRACKET_SCHEMA>
 export type BankTraceSettling = z.infer<typeof SETTLING_SCHEMA>
 
 export type BankTracePacedDispatch = z.infer<typeof PACED_DISPATCH_SCHEMA>
+
+export type BankTraceStacking = z.infer<typeof STACKING_SCHEMA>
 
 export type BankTrace = z.infer<typeof TRACE_SCHEMA>
 
