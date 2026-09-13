@@ -2,20 +2,13 @@ import { afterAll, expect, test } from "bun:test"
 import { claimedFileNotLeftBehind } from "akasha/changes/guards/pages/claimed-file-not-left-behind/claimed-file-not-left-behind.change-guard.code.ts"
 import { importNotLeftHanging } from "akasha/changes/guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
 import { relationNotLeftHanging } from "akasha/changes/guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts"
-import { runChange as removeFile } from "akasha/changes/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
-import { runChange as removeCodeFile } from "akasha/changes/mechanical/file/remove/remove-file-code/remove-file-code.change-mechanical.code.ts"
 import {
   importersFirst,
   parentsOf,
   runChange,
 } from "akasha/changes/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.code.ts"
 import { removeFilePage } from "akasha/changes/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.ts"
-import { removePropertyValue } from "akasha/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts"
-import {
-  pathsIn,
-  refusing,
-  stating,
-} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { pathsIn, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { guardedBy } from "akasha/changes/modules/guarding/change-guarding.module.code.ts"
 import type { Guard } from "akasha/changes/modules/guarding/change-guarding.module.types.ts"
@@ -27,6 +20,7 @@ import {
   worldOver,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { bodyAfter } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
   aProperty,
   aType,
@@ -42,29 +36,12 @@ import {
   textIn,
 } from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
 
-type Unnaming = { at: string; key: string; value: string }
-
 const REMOVE_FILE_CODE = "change-mechanical/remove-file-code"
-
-const REMOVE_FILE = "change-mechanical-file/remove-file"
-
-const REMOVE_PROPERTY_VALUE = "change-mechanical-file-content/remove-property-value"
-
-const RUNS: Reaching = (world, at, given) => {
-  if (at === REMOVE_FILE_CODE) return removeCodeFile(world, given as { at: string })
-  if (at === REMOVE_FILE) {
-    return Promise.resolve(removeFile(world, given as { at: string }))
-  }
-  if (at === REMOVE_PROPERTY_VALUE) {
-    return Promise.resolve(removePropertyValue(world, given as Unnaming))
-  }
-  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
-}
 
 const GUARDS = new Map<string, readonly Guard[]>([[REMOVE_FILE_CODE, [importNotLeftHanging]]])
 
 const GUARDED: Reaching = async (world, at, given) => {
-  const said = await RUNS(world, at, given)
+  const said = await running(world, at, given)
   if (said.refused !== null) return said
   return guardedBy(world, said, GUARDS.get(at) ?? [])
 }
@@ -152,7 +129,7 @@ const CHILD = pageOf({
   definition: "a page its parent names in parts",
 })
 
-function worldIn(root: string, reaching: Reaching = RUNS): World {
+function worldIn(root: string, reaching: Reaching = running): World {
   return worldAt(root, textIn(root), reaching)
 }
 
@@ -264,7 +241,7 @@ test("a page holding no body is refused by the removal of its own file", async (
   const was = textIn(root)
   const reading = (path: string): string | null => (path === NAMER_PAGE ? null : was(path))
 
-  const said = await runChange(worldAt(root, reading, RUNS), { at: NAMER_PAGE })
+  const said = await runChange(worldAt(root, reading, running), { at: NAMER_PAGE })
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${NAMER_PAGE}\` holds no body, so nothing is taken away`)

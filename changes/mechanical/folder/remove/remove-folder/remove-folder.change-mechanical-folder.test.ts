@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import { runChange as removeFile } from "akasha/changes/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
 import { runChange } from "akasha/changes/mechanical/folder/remove/remove-folder/remove-folder.change-mechanical-folder.code.ts"
-import { pathsIn, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import { type World, worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
   indexedRepo,
   pageOf,
@@ -42,12 +42,7 @@ const HELD: Readonly<Record<string, string>> = {
 }
 
 function worldIn(root: string): World {
-  return worldAt(root, textIn(root), (world, at, given) => {
-    if (at !== REMOVE_FILE) {
-      return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
-    }
-    return Promise.resolve(removeFile(world, given as Parameters<typeof removeFile>[1]))
-  })
+  return worldAt(root, textIn(root), running)
 }
 
 test("every file under the folder is taken away", async () => {
