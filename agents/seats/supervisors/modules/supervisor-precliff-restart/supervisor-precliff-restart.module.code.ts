@@ -1,5 +1,5 @@
 import { statSync } from "node:fs"
-import { requestedActionOf } from "akasha/agents/seats/modules/control/seat-control.module.code.ts"
+import { requestedActionOf } from "akasha/agents/seats/supervisors/modules/control/seat-control.module.code.ts"
 import type {
   PreCliffObservation,
   PreCliffRestartRuleSource,

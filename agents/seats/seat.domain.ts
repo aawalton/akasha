@@ -23,8 +23,6 @@ export const seat = {
     "domain/seat-supervisors",
     "domain/seat-usage",
     "domain/self-healing",
-    "module/seat-action",
-    "module/seat-control",
     "module/window-duration",
     "page-type/log-source",
     "page-type/seat",

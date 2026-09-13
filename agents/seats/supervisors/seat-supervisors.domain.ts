@@ -10,6 +10,8 @@ export const seatSupervisors = {
     "module/mcp-disable-reconcile",
     "module/mcp-registry",
     "module/run-supervisor",
+    "module/seat-action",
+    "module/seat-control",
     "module/seat-supervisor-claim",
     "module/supervisor",
     "module/supervisor-account-config",

@@ -18,11 +18,6 @@ import {
   SEAT_MODE_INTERACTIVE,
   SEAT_MODES,
 } from "akasha/agents/seats/launching/modules/modes/seat-modes.module.code.ts"
-import {
-  describeAckTimeout,
-  setRequestedAction,
-  waitForActionCleared,
-} from "akasha/agents/seats/modules/action/seat-action.module.code.ts"
 import { parseWindowDuration } from "akasha/agents/seats/modules/window-duration/window-duration.module.code.ts"
 import { sweepSupersededAgentTrees } from "akasha/agents/seats/reviving/modules/recovery/seat-recovery.module.code.ts"
 import {
@@ -40,6 +35,11 @@ import {
   type TakenSeat,
   takeoverSeat,
 } from "akasha/agents/seats/stopping/modules/takeover-seat/takeover-seat.module.code.ts"
+import {
+  describeAckTimeout,
+  setRequestedAction,
+  waitForActionCleared,
+} from "akasha/agents/seats/supervisors/modules/action/seat-action.module.code.ts"
 import {
   dataError,
   exitCodeForThrowable,
