@@ -30,6 +30,9 @@ export const amyHarnessImprovements = {
     {
       statement: "A count for a color carries that color rather than a label naming it.",
     },
+    {
+      statement: "A subagent stopped from the agents panel has its page taken away.",
+    },
   ],
 
   constraints: [
