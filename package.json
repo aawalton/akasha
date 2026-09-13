@@ -68,7 +68,14 @@
         "key": "shift+enter",
         "command": "opsAgentTree.openLineInSeatTerminal",
         "when": "terminalFocus && opsAgentTree.seatTerminalFocused"
-      }
+      },
+      { "key": "ctrl+alt+a", "command": "workbench.view.extension.opsAgents" },
+      { "key": "ctrl+alt+d", "command": "workbench.view.extension.opsDomains" },
+      { "key": "ctrl+alt+w", "command": "workbench.view.extension.opsWork" },
+      { "key": "ctrl+alt+p", "command": "workbench.view.extension.opsPages" },
+      { "key": "ctrl+alt+c", "command": "workbench.view.extension.opsCommands" },
+      { "key": "ctrl+alt+s", "command": "workbench.view.extension.opsServices" },
+      { "key": "ctrl+alt+t", "command": "opsTranscript.open" }
     ],
     "menus": {
       "view/title": [

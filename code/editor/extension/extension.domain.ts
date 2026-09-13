@@ -145,6 +145,19 @@ export const extension = {
       invariantKind: "departure",
       statement: "A panel's top row carries how many rows hang directly beneath it.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A panel opens by Ctrl+Alt and the first letter of that panel's name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The transcript opens by Ctrl+Alt+T, as a panel opens by its own letter.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A panel's shortcut reaches the editor rather than the shell while a terminal holds focus.",
+    },
   ],
   typescriptConfig: "json",
 } as const satisfies Domain
