@@ -6,6 +6,7 @@ import * as Knowledge from "akasha/temper/crafting-addon/modules/craft-knowledge
 import { LANG } from "akasha/temper/crafting-addon/modules/craft-lang-index/craft-lang-index.module.code.ts"
 import * as Research from "akasha/temper/crafting-addon/modules/craft-research/craft-research.module.code.ts"
 import * as Utilities from "akasha/temper/crafting-addon/modules/craft-utilities/craft-utilities.module.code.ts"
+import { recordInstrumentMs } from "akasha/temper/crafting-addon/modules/crafting-slot-handler-stats/crafting-slot-handler-stats.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
 
 export interface CraftSkillEntry {
@@ -304,7 +305,9 @@ export function updateInventory(): undefined {
     if (dataType !== undefined && puffer !== undefined) {
       dataType.setupCallback = (control: Control, slot: unknown) => {
         puffer(control as never, slot as never)
+        const markStart = GetGameTimeMilliseconds()
         ItemMark.setItemMark(control, 1)
+        recordInstrumentMs("rowMark", GetGameTimeMilliseconds() - markStart)
       }
     }
   }

@@ -1,6 +1,7 @@
+import { recordNestedInstrumentMs } from "akasha/temper/crafting-addon/modules/crafting-slot-handler-stats/crafting-slot-handler-stats.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
 
-export function getCharacters(): string[] {
+function buildCharacters(this: void): string[] {
   const seen: Record<string, boolean> = {}
   const orderedIndex: string[] = []
   const add = (name: string): undefined => {
@@ -17,4 +18,11 @@ export function getCharacters(): string[] {
   }
   table.sort(orderedIndex)
   return orderedIndex
+}
+
+export function getCharacters(): string[] {
+  const start = GetGameTimeMilliseconds()
+  const built = buildCharacters()
+  recordNestedInstrumentMs("getCharacters", GetGameTimeMilliseconds() - start)
+  return built
 }

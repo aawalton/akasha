@@ -1,3 +1,4 @@
+import { recordInstrumentMs } from "akasha/temper/crafting-addon/modules/crafting-slot-handler-stats/crafting-slot-handler-stats.module.code.ts"
 import {
   getMasterWritVouchers,
   isWritCompleted,
@@ -126,7 +127,9 @@ export function hookLists(this: void): undefined {
             dataType,
             "setupCallback",
             (rowControl: Control, data: InventoryRowSlotData) => {
+              const flagStart = GetGameTimeMilliseconds()
               flagListItem(list.link, rowControl, data)
+              recordInstrumentMs("writMark", GetGameTimeMilliseconds() - flagStart)
             }
           )
         }
