@@ -5,6 +5,8 @@ import type { Held } from "akasha/pages/modules/file-name/page-file-name.module.
 
 const DOMAIN = "domain"
 
+const PAGE_TYPE = "page-type"
+
 function besideIn(standing: Standing): Held | null {
   if (standing.pages.length !== 2) return null
   const holding = standing.holds(standing.folder)
@@ -24,6 +26,9 @@ export function aDomainWithItsParts(standing: Standing): readonly string[] {
   }
   if (!standing.extending(String(page.pageTypeSlug), DOMAIN)) {
     return [`\`${page.slug}\` is a \`${page.pageTypeSlug}\` rather than a domain`]
+  }
+  if (standing.extending(String(page.pageTypeSlug), PAGE_TYPE)) {
+    return [`\`${page.slug}\` is a page type, which has a shape of its own`]
   }
   const said: string[] = []
   const parts = new Set<string>([

@@ -96,6 +96,20 @@ test("a subfolder this page's own folder property names is a part of that page",
   expect(judged(["Icons/held.dds"], ["models.domain.ts"])).toHaveLength(1)
 })
 
+test("a page type is refused, since a page type with its parts is a shape of its own", () => {
+  const made = folderFrom({
+    folder: FOLDER,
+    pageTypes: PAGE_TYPES,
+    extending: (pageTypeSlug, wanted) =>
+      (wanted === "domain" && DOMAINS.has(pageTypeSlug)) || wanted === pageTypeSlug,
+    declared: () => DECLARED,
+    holds: holdsAt,
+  })
+  const said = aDomainWithItsParts(made(["models.page-type.ts"]))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("a page type")
+})
+
 test("a folder holding two pages is refused", () => {
   const said = judged([], ["models.domain.ts", "other.domain.ts"])
   expect(said).toHaveLength(1)

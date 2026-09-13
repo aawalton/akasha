@@ -19,6 +19,14 @@ export const aDomainWithItsParts = {
     },
     {
       invariantKind: "departure",
+      statement: "A page type is beneath domain and has a shape of its own, so it is refused here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No folder takes this shape and that one at once.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The folder takes the name that page gives its folder.",
     },
     {
