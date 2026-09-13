@@ -37,6 +37,7 @@ export const temperCommands = {
     "module/master-craft-trace-reading",
     "module/master-writ-probe-reading",
     "module/name-ordering",
+    "module/venue-trace-saying",
   ],
   invariants: [
     {
