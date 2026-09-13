@@ -8,11 +8,15 @@ export const bewareOfChicken0033V4c24TheFoxTrap1280864 = {
   position: 33,
   publishedAt: "2023-07-18",
   unit: "words",
-  externalId: "1280864",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1280864",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1280864/v4c24-the-fox-trap",
+    },
+  ],
   title: "v4c24: The Fox Trap",
   ownLength: 1890,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1280864/v4c24-the-fox-trap",
   prose: "txt",
 } as const satisfies StoryChapterRead

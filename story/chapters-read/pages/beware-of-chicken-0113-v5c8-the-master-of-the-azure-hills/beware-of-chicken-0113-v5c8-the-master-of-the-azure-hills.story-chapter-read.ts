@@ -12,9 +12,13 @@ export const bewareOfChicken0113V5c8TheMasterOfTheAzureHills = {
   unit: "words",
   completedAt: "2026-06-29T18:55:22.510Z",
   publishedAt: "2024-06-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1659185/v5c8-the-master-of-the-azure-hills",
-  externalId: "1659185",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1659185",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1659185/v5c8-the-master-of-the-azure-hills",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

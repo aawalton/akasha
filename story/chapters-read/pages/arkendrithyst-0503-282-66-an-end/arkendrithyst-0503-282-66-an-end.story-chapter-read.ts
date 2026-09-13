@@ -8,11 +8,15 @@ export const arkendrithyst050328266AnEnd = {
   position: 503,
   publishedAt: "2024-04-20",
   unit: "words",
-  externalId: "1604144",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1604144",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1604144/282-66-an-end",
+    },
+  ],
   title: "282, 6/6, An End",
   ownLength: 3579,
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1604144/282-66-an-end",
   prose: "txt",
 } as const satisfies StoryChapterRead

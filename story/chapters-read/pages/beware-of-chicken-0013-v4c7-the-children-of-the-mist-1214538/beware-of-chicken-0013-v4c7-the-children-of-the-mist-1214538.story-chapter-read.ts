@@ -8,11 +8,15 @@ export const bewareOfChicken0013V4c7TheChildrenOfTheMist1214538 = {
   position: 13,
   publishedAt: "2023-05-16",
   unit: "words",
-  externalId: "1214538",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1214538",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1214538/v4c7-the-children-of-the-mist",
+    },
+  ],
   title: "v4c7: The Children of the Mist",
   ownLength: 2406,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1214538/v4c7-the-children-of-the-mist",
   prose: "txt",
 } as const satisfies StoryChapterRead

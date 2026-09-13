@@ -12,9 +12,13 @@ export const bewareOfChicken0077V4c62TheTournamentArcCurse = {
   unit: "words",
   completedAt: "2026-06-29T18:54:03.959Z",
   publishedAt: "2023-11-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1423620/v4c62-the-tournament-arc-curse",
-  externalId: "1423620",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1423620",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1423620/v4c62-the-tournament-arc-curse",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

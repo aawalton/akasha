@@ -12,9 +12,13 @@ export const bewareOfChicken0017V4c11TheSeniorDisciple = {
   unit: "words",
   completedAt: "2026-06-29T18:51:54.179Z",
   publishedAt: "2023-05-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1224170/v4c11-the-senior-disciple",
-  externalId: "1224170",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1224170",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1224170/v4c11-the-senior-disciple",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

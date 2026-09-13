@@ -8,11 +8,15 @@ export const azarinthHealer0007AzarinthHealerBookOneEditedByPortalBooks = {
   position: 7,
   publishedAt: "2022-11-08",
   unit: "words",
-  externalId: "1035092",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1035092",
+      externalLink:
+        "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1035092/azarinth-healer-book-one-edited-by-portal-books",
+    },
+  ],
   title: "Azarinth Healer - Book One - Edited by Portal Books - Out December 1st",
   ownLength: 309,
-  externalLink:
-    "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1035092/azarinth-healer-book-one-edited-by-portal-books",
   prose: "txt",
 } as const satisfies StoryChapterRead

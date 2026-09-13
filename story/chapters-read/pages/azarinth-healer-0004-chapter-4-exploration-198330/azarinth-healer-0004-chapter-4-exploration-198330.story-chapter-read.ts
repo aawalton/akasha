@@ -8,11 +8,15 @@ export const azarinthHealer0004Chapter4Exploration198330 = {
   position: 4,
   publishedAt: "2018-03-03",
   unit: "words",
-  externalId: "198330",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "198330",
+      externalLink:
+        "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/198330/chapter-4-exploration",
+    },
+  ],
   title: "Chapter 4 Exploration",
   ownLength: 2918,
-  externalLink:
-    "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/198330/chapter-4-exploration",
   prose: "txt",
 } as const satisfies StoryChapterRead

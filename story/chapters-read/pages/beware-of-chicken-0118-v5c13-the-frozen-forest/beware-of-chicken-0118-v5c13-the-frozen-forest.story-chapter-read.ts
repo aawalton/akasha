@@ -12,9 +12,13 @@ export const bewareOfChicken0118V5c13TheFrozenForest = {
   unit: "words",
   completedAt: "2026-06-29T18:55:32.973Z",
   publishedAt: "2024-06-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1681519/v5c13-the-frozen-forest",
-  externalId: "1681519",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1681519",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1681519/v5c13-the-frozen-forest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

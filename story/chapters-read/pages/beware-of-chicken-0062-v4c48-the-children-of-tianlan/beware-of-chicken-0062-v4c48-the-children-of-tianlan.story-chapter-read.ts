@@ -12,9 +12,13 @@ export const bewareOfChicken0062V4c48TheChildrenOfTianlan = {
   unit: "words",
   completedAt: "2026-06-29T18:53:30.607Z",
   publishedAt: "2023-10-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1367220/v4c48-the-children-of-tianlan",
-  externalId: "1367220",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1367220",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1367220/v4c48-the-children-of-tianlan",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

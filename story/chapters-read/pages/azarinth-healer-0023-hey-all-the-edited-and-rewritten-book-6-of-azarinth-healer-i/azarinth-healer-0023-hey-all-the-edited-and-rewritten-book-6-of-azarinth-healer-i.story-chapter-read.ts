@@ -11,9 +11,13 @@ export const azarinthHealer0023HeyAllTheEditedAndRewrittenBook6OfAzarinthHealerI
   ownLength: 111,
   unit: "words",
   publishedAt: "2026-02-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/3012772/hey-all-the-edited-and-rewritten-book-6-of-azarinth",
-  externalId: "3012772",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3012772",
+      externalLink:
+        "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/3012772/hey-all-the-edited-and-rewritten-book-6-of-azarinth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

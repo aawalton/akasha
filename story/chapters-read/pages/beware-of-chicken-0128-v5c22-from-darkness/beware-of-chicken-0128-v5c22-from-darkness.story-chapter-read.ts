@@ -12,9 +12,13 @@ export const bewareOfChicken0128V5c22FromDarkness = {
   unit: "words",
   completedAt: "2026-06-29T18:55:54.365Z",
   publishedAt: "2024-07-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1723426/v5c22-from-darkness",
-  externalId: "1723426",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1723426",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1723426/v5c22-from-darkness",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

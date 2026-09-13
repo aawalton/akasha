@@ -8,11 +8,15 @@ export const bewareOfChicken0060InterludeTensionInTheGrassSea1362932 = {
   position: 60,
   publishedAt: "2023-10-03",
   unit: "words",
-  externalId: "1362932",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1362932",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1362932/interlude-tension-in-the-grass-sea",
+    },
+  ],
   title: "Interlude: Tension in the Grass Sea",
   ownLength: 2927,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1362932/interlude-tension-in-the-grass-sea",
   prose: "txt",
 } as const satisfies StoryChapterRead

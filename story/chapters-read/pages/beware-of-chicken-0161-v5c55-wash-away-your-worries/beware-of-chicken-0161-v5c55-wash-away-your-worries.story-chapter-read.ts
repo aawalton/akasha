@@ -12,9 +12,13 @@ export const bewareOfChicken0161V5c55WashAwayYourWorries = {
   unit: "words",
   completedAt: "2026-06-29T18:56:49.766Z",
   publishedAt: "2024-10-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1867299/v5c55-wash-away-your-worries",
-  externalId: "1867299",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1867299",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1867299/v5c55-wash-away-your-worries",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

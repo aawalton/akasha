@@ -12,9 +12,13 @@ export const bewareOfChicken0144V5c38EndsJustifyTheMeans = {
   unit: "words",
   completedAt: "2026-06-29T18:56:13.646Z",
   publishedAt: "2024-08-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1782739/v5c38-ends-justify-the-means",
-  externalId: "1782739",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1782739",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1782739/v5c38-ends-justify-the-means",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

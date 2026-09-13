@@ -8,11 +8,15 @@ export const beneathTheDragoneyeMoons0013CatchupArtwork814021 = {
   position: 13,
   publishedAt: "2021-12-27",
   unit: "words",
-  externalId: "814021",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "814021",
+      externalLink:
+        "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/814021/catchup-artwork",
+    },
+  ],
   title: "Catchup Artwork!",
   ownLength: 48,
-  externalLink:
-    "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/814021/catchup-artwork",
   prose: "txt",
 } as const satisfies StoryChapterRead

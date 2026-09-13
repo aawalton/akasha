@@ -12,9 +12,13 @@ export const bewareOfChicken0131V5c25PreludeToTheNight = {
   unit: "words",
   completedAt: "2026-06-29T19:01:18.881Z",
   publishedAt: "2024-07-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1732517/v5c25-prelude-to-the-night",
-  externalId: "1732517",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1732517",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1732517/v5c25-prelude-to-the-night",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

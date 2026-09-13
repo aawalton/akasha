@@ -8,11 +8,15 @@ export const bewareOfChicken0035V4c26TheMountaineerAndTheCraftsman1287232 = {
   position: 35,
   publishedAt: "2023-07-24",
   unit: "words",
-  externalId: "1287232",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1287232",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1287232/v4c26-the-mountaineer-and-the-craftsman",
+    },
+  ],
   title: "v4c26: The Mountaineer and the Craftsman",
   ownLength: 2850,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1287232/v4c26-the-mountaineer-and-the-craftsman",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -8,11 +8,15 @@ export const bewareOfChicken0052V4c39SellingMoonlight1336135 = {
   position: 52,
   publishedAt: "2023-09-08",
   unit: "words",
-  externalId: "1336135",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1336135",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1336135/v4c39-selling-moonlight",
+    },
+  ],
   title: "v4c39: Selling Moonlight",
   ownLength: 3424,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1336135/v4c39-selling-moonlight",
   prose: "txt",
 } as const satisfies StoryChapterRead

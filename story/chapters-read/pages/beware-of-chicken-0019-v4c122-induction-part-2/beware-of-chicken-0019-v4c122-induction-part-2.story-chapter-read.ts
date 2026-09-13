@@ -8,11 +8,15 @@ export const bewareOfChicken0019V4c122InductionPart2 = {
   position: 19,
   publishedAt: "2023-06-01",
   unit: "words",
-  externalId: "1231649",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1231649",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1231649/v4c122-induction-part-2",
+    },
+  ],
   title: "v4c12.2: Induction part 2",
   ownLength: 2053,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1231649/v4c122-induction-part-2",
   prose: "txt",
 } as const satisfies StoryChapterRead

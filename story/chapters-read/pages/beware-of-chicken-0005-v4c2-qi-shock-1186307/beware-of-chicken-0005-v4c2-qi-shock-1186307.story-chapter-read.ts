@@ -8,11 +8,15 @@ export const bewareOfChicken0005V4c2QiShock1186307 = {
   position: 5,
   publishedAt: "2023-04-20",
   unit: "words",
-  externalId: "1186307",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1186307",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1186307/v4c2-qi-shock",
+    },
+  ],
   title: "v4c2: Qi Shock",
   ownLength: 2167,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1186307/v4c2-qi-shock",
   prose: "txt",
 } as const satisfies StoryChapterRead

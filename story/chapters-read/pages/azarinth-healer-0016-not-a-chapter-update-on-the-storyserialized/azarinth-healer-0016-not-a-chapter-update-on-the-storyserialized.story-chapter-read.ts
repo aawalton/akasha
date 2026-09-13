@@ -8,11 +8,15 @@ export const azarinthHealer0016NotAChapterUpdateOnTheStoryserialized = {
   position: 16,
   publishedAt: "2023-12-31",
   unit: "words",
-  externalId: "1460641",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1460641",
+      externalLink:
+        "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1460641/not-a-chapter-update-on-the-storyserialized-version",
+    },
+  ],
   title: "Not a chapter - Update on the story/serialized version",
   ownLength: 488,
-  externalLink:
-    "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1460641/not-a-chapter-update-on-the-storyserialized-version",
   prose: "txt",
 } as const satisfies StoryChapterRead

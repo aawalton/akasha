@@ -8,11 +8,15 @@ export const beneathTheDragoneyeMoons0002Dedication765885 = {
   position: 2,
   publishedAt: "2021-10-13",
   unit: "words",
-  externalId: "765885",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "765885",
+      externalLink:
+        "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/765885/dedication",
+    },
+  ],
   title: "Dedication",
   ownLength: 117,
-  externalLink:
-    "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/765885/dedication",
   prose: "txt",
 } as const satisfies StoryChapterRead

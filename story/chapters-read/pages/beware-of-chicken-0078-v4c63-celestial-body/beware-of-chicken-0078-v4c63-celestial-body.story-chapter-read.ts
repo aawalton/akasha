@@ -12,9 +12,13 @@ export const bewareOfChicken0078V4c63CelestialBody = {
   unit: "words",
   completedAt: "2026-06-29T18:54:06.123Z",
   publishedAt: "2023-11-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1425934/v4c63-celestial-body",
-  externalId: "1425934",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1425934",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1425934/v4c63-celestial-body",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

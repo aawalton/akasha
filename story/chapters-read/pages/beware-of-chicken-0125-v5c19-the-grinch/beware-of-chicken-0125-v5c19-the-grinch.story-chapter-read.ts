@@ -12,9 +12,13 @@ export const bewareOfChicken0125V5c19TheGrinch = {
   unit: "words",
   completedAt: "2026-06-29T18:55:48.075Z",
   publishedAt: "2024-07-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1705319/v5c19-the-grinch",
-  externalId: "1705319",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1705319",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1705319/v5c19-the-grinch",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const bewareOfChicken0046V4c34HuntingTheBeetle = {
   unit: "words",
   completedAt: "2026-06-29T18:52:56.213Z",
   publishedAt: "2023-08-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1321310/v4c34-hunting-the-beetle",
-  externalId: "1321310",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1321310",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1321310/v4c34-hunting-the-beetle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

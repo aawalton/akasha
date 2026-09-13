@@ -8,11 +8,15 @@ export const bewareOfChicken0109V5c4WhereTheOrchidGrows1645979 = {
   position: 109,
   publishedAt: "2024-05-22",
   unit: "words",
-  externalId: "1645979",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1645979",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1645979/v5c4-where-the-orchid-grows",
+    },
+  ],
   title: "v5c4: Where the Orchid Grows",
   ownLength: 2987,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1645979/v5c4-where-the-orchid-grows",
   prose: "txt",
 } as const satisfies StoryChapterRead

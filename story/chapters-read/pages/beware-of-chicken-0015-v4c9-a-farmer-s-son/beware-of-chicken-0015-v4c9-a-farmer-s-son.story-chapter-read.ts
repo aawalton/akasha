@@ -12,9 +12,13 @@ export const bewareOfChicken0015V4c9AFarmerSSon = {
   unit: "words",
   completedAt: "2026-06-29T18:51:49.973Z",
   publishedAt: "2023-05-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1219827/v4c9-a-farmers-son",
-  externalId: "1219827",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1219827",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1219827/v4c9-a-farmers-son",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

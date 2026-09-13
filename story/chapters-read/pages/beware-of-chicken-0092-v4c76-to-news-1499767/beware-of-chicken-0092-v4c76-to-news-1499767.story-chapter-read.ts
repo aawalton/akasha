@@ -8,11 +8,15 @@ export const bewareOfChicken0092V4c76ToNews1499767 = {
   position: 92,
   publishedAt: "2024-01-30",
   unit: "words",
-  externalId: "1499767",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1499767",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1499767/v4c76-to-news",
+    },
+  ],
   title: "v4c76: To News",
   ownLength: 1912,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1499767/v4c76-to-news",
   prose: "txt",
 } as const satisfies StoryChapterRead

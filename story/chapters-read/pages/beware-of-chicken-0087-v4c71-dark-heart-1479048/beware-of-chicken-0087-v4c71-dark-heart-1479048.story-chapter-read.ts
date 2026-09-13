@@ -8,11 +8,15 @@ export const bewareOfChicken0087V4c71DarkHeart1479048 = {
   position: 87,
   publishedAt: "2024-01-16",
   unit: "words",
-  externalId: "1479048",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1479048",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1479048/v4c71-dark-heart",
+    },
+  ],
   title: "v4c71: Dark Heart",
   ownLength: 2900,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1479048/v4c71-dark-heart",
   prose: "txt",
 } as const satisfies StoryChapterRead

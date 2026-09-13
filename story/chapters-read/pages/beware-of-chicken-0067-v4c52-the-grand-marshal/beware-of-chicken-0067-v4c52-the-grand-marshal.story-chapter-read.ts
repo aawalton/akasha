@@ -12,9 +12,13 @@ export const bewareOfChicken0067V4c52TheGrandMarshal = {
   unit: "words",
   completedAt: "2026-06-29T18:53:41.767Z",
   publishedAt: "2023-10-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1385977/v4c52-the-grand-marshal",
-  externalId: "1385977",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1385977",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1385977/v4c52-the-grand-marshal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

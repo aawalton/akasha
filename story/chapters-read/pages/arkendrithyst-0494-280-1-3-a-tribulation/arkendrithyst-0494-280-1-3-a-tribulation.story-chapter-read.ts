@@ -12,9 +12,13 @@ export const arkendrithyst049428013ATribulation = {
   unit: "words",
   completedAt: "2026-06-29T22:25:32.088Z",
   publishedAt: "2024-04-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1603932/280-13-a-tribulation",
-  externalId: "1603932",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1603932",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1603932/280-13-a-tribulation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const bewareOfChicken0146V5c40SanctuaryBreached = {
   unit: "words",
   completedAt: "2026-06-29T18:56:17.954Z",
   publishedAt: "2024-09-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1790424/v5c40-sanctuary-breached",
-  externalId: "1790424",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1790424",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1790424/v5c40-sanctuary-breached",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

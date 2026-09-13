@@ -12,9 +12,13 @@ export const bewareOfChicken0167V5c60TheSparksOfLightning = {
   unit: "words",
   completedAt: "2026-06-29T18:57:02.199Z",
   publishedAt: "2024-11-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1887685/v5c60-the-sparks-of-lightning",
-  externalId: "1887685",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1887685",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1887685/v5c60-the-sparks-of-lightning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

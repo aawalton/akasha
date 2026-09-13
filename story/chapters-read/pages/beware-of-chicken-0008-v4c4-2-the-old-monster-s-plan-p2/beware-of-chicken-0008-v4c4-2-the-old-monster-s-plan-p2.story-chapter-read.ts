@@ -12,9 +12,13 @@ export const bewareOfChicken0008V4c42TheOldMonsterSPlanP2 = {
   unit: "words",
   completedAt: "2026-06-29T18:51:34.689Z",
   publishedAt: "2023-04-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1195278/v4c42-the-old-monsters-plan-p2",
-  externalId: "1195278",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1195278",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1195278/v4c42-the-old-monsters-plan-p2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

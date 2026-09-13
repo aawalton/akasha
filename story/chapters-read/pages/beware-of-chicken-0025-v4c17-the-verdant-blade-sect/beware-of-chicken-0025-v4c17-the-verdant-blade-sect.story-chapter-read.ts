@@ -12,9 +12,13 @@ export const bewareOfChicken0025V4c17TheVerdantBladeSect = {
   unit: "words",
   completedAt: "2026-06-29T18:52:11.565Z",
   publishedAt: "2023-06-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1254955/v4c17-the-verdant-blade-sect",
-  externalId: "1254955",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1254955",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1254955/v4c17-the-verdant-blade-sect",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

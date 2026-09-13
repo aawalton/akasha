@@ -12,9 +12,13 @@ export const bewareOfChicken0063V4c49ThePlansOfMortals = {
   unit: "words",
   completedAt: "2026-06-29T18:53:33.188Z",
   publishedAt: "2023-10-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1376689/v4c49-the-plans-of-mortals",
-  externalId: "1376689",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1376689",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1376689/v4c49-the-plans-of-mortals",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

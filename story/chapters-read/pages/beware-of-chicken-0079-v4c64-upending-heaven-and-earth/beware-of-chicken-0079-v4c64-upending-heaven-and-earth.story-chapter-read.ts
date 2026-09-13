@@ -12,9 +12,13 @@ export const bewareOfChicken0079V4c64UpendingHeavenAndEarth = {
   unit: "words",
   completedAt: "2026-06-29T18:54:08.173Z",
   publishedAt: "2023-12-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1429433/v4c64-upending-heaven-and-earth",
-  externalId: "1429433",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1429433",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1429433/v4c64-upending-heaven-and-earth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

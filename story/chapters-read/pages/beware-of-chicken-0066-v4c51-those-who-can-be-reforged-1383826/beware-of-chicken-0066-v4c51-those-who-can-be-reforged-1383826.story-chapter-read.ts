@@ -8,11 +8,15 @@ export const bewareOfChicken0066V4c51ThoseWhoCanBeReforged1383826 = {
   position: 66,
   publishedAt: "2023-10-24",
   unit: "words",
-  externalId: "1383826",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1383826",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1383826/v4c51-those-who-can-be-reforged",
+    },
+  ],
   title: "v4c51: Those who can be Reforged",
   ownLength: 1798,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1383826/v4c51-those-who-can-be-reforged",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -8,11 +8,15 @@ export const bewareOfChicken0047V4c35TheGrassSeaCastleCrashers1324390 = {
   position: 47,
   publishedAt: "2023-08-28",
   unit: "words",
-  externalId: "1324390",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1324390",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1324390/v4c35-the-grass-sea-castle-crashers",
+    },
+  ],
   title: "v4c35: The Grass Sea Castle Crashers",
   ownLength: 3748,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1324390/v4c35-the-grass-sea-castle-crashers",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -8,11 +8,15 @@ export const azarinthHealer0011Book2IsOutAudiobookAsWellNow1186719 = {
   position: 11,
   publishedAt: "2023-04-20",
   unit: "words",
-  externalId: "1186719",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1186719",
+      externalLink:
+        "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1186719/book-2-is-out-audiobook-as-well-now",
+    },
+  ],
   title: "Book 2 is out. Audiobook as well now.",
   ownLength: 352,
-  externalLink:
-    "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1186719/book-2-is-out-audiobook-as-well-now",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -8,11 +8,15 @@ export const bewareOfChicken0016V4c10Boundaries1222026 = {
   position: 16,
   publishedAt: "2023-05-23",
   unit: "words",
-  externalId: "1222026",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1222026",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1222026/v4c10-boundaries",
+    },
+  ],
   title: "v4c10 Boundaries",
   ownLength: 1753,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1222026/v4c10-boundaries",
   prose: "txt",
 } as const satisfies StoryChapterRead

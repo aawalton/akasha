@@ -8,11 +8,15 @@ export const bewareOfChicken0039V4c30TheHeartAndSoul1296870 = {
   position: 39,
   publishedAt: "2023-08-02",
   unit: "words",
-  externalId: "1296870",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1296870",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1296870/v4c30-the-heart-and-soul",
+    },
+  ],
   title: "v4c30: The Heart and Soul",
   ownLength: 1885,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1296870/v4c30-the-heart-and-soul",
   prose: "txt",
 } as const satisfies StoryChapterRead

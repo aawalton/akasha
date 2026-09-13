@@ -12,9 +12,13 @@ export const bewareOfChicken0044V4c33TheTyrantOrTheGuardianPart1 = {
   unit: "words",
   completedAt: "2026-06-29T18:52:51.863Z",
   publishedAt: "2023-08-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1309703/v4c33-the-tyrant-or-the-guardian-part-1",
-  externalId: "1309703",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1309703",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1309703/v4c33-the-tyrant-or-the-guardian-part-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

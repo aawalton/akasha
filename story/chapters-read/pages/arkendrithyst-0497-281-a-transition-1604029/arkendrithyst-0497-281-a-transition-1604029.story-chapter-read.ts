@@ -8,11 +8,15 @@ export const arkendrithyst0497281ATransition1604029 = {
   position: 497,
   publishedAt: "2024-04-20",
   unit: "words",
-  externalId: "1604029",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1604029",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1604029/281-a-transition",
+    },
+  ],
   title: "281, A Transition",
   ownLength: 8032,
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1604029/281-a-transition",
   prose: "txt",
 } as const satisfies StoryChapterRead

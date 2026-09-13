@@ -8,12 +8,16 @@ export const azarinthHealer0015AzarinthHealerBook3OutTodayOnAmazonAnd = {
   position: 15,
   publishedAt: "2023-12-11",
   unit: "words",
-  externalId: "1439950",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1439950",
+      externalLink:
+        "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1439950/azarinth-healer-book-3-out-today-on-amazon-and",
+    },
+  ],
   title:
     "Azarinth Healer – Book 3 – Out today on Amazon and Audible! Massive edits. M a s s I v e.",
   ownLength: 607,
-  externalLink:
-    "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1439950/azarinth-healer-book-3-out-today-on-amazon-and",
   prose: "txt",
 } as const satisfies StoryChapterRead

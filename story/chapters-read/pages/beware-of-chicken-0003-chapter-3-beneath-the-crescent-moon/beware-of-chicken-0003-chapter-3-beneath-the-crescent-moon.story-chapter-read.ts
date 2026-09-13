@@ -12,9 +12,13 @@ export const bewareOfChicken0003Chapter3BeneathTheCrescentMoon = {
   unit: "words",
   completedAt: "2026-06-29T18:51:24.493Z",
   publishedAt: "2021-01-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/614658/chapter-3-beneath-the-crescent-moon",
-  externalId: "614658",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "614658",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/614658/chapter-3-beneath-the-crescent-moon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

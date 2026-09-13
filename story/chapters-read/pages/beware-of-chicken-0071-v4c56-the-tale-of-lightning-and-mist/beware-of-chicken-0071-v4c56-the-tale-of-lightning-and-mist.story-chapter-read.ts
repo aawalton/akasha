@@ -12,9 +12,13 @@ export const bewareOfChicken0071V4c56TheTaleOfLightningAndMist = {
   unit: "words",
   completedAt: "2026-06-29T18:53:51.168Z",
   publishedAt: "2023-11-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1396303/v4c56-the-tale-of-lightning-and-mist",
-  externalId: "1396303",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1396303",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1396303/v4c56-the-tale-of-lightning-and-mist",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

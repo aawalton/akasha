@@ -8,11 +8,15 @@ export const bewareOfChicken0110V5c5HearthAndHome1648536 = {
   position: 110,
   publishedAt: "2024-05-24",
   unit: "words",
-  externalId: "1648536",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1648536",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1648536/v5c5-hearth-and-home",
+    },
+  ],
   title: "v5c5: Hearth and Home",
   ownLength: 2127,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1648536/v5c5-hearth-and-home",
   prose: "txt",
 } as const satisfies StoryChapterRead

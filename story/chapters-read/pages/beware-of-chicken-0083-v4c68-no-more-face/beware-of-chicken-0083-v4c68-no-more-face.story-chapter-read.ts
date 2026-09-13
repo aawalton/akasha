@@ -12,9 +12,13 @@ export const bewareOfChicken0083V4c68NoMoreFace = {
   unit: "words",
   completedAt: "2026-06-29T18:54:17.400Z",
   publishedAt: "2023-12-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1439452/v4c68-no-more-face",
-  externalId: "1439452",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1439452",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1439452/v4c68-no-more-face",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const bewareOfChicken0151V5c45CrackedButUnbroken = {
   unit: "words",
   completedAt: "2026-06-29T18:56:28.392Z",
   publishedAt: "2024-09-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1818850/v5c45-cracked-but-unbroken",
-  externalId: "1818850",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1818850",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1818850/v5c45-cracked-but-unbroken",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

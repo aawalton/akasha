@@ -8,11 +8,15 @@ export const bewareOfChicken0082V4c67TheTrial1436168 = {
   position: 82,
   publishedAt: "2023-12-08",
   unit: "words",
-  externalId: "1436168",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1436168",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1436168/v4c67-the-trial",
+    },
+  ],
   title: "v4c67: The Trial",
   ownLength: 2323,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1436168/v4c67-the-trial",
   prose: "txt",
 } as const satisfies StoryChapterRead

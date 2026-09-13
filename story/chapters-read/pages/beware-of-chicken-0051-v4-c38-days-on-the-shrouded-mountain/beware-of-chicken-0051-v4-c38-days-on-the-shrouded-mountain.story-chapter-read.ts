@@ -12,9 +12,13 @@ export const bewareOfChicken0051V4C38DaysOnTheShroudedMountain = {
   unit: "words",
   completedAt: "2026-06-29T18:53:07.727Z",
   publishedAt: "2023-09-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1334283/v4-c38-days-on-the-shrouded-mountain",
-  externalId: "1334283",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1334283",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1334283/v4-c38-days-on-the-shrouded-mountain",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

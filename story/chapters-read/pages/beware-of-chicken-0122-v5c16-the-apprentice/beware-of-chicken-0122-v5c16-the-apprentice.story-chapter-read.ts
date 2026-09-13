@@ -12,9 +12,13 @@ export const bewareOfChicken0122V5c16TheApprentice = {
   unit: "words",
   completedAt: "2026-06-29T18:55:41.838Z",
   publishedAt: "2024-06-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1695928/v5c16-the-apprentice",
-  externalId: "1695928",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1695928",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1695928/v5c16-the-apprentice",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

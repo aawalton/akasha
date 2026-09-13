@@ -12,9 +12,13 @@ export const bewareOfChicken0104V4c82AndTheFirstDaysOfWinter = {
   unit: "words",
   completedAt: "2026-06-29T18:55:03.588Z",
   publishedAt: "2024-03-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1548504/v4c82-and-the-first-days-of-winter",
-  externalId: "1548504",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1548504",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1548504/v4c82-and-the-first-days-of-winter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

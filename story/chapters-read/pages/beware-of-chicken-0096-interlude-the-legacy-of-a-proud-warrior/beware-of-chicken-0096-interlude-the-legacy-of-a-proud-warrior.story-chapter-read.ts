@@ -12,9 +12,13 @@ export const bewareOfChicken0096InterludeTheLegacyOfAProudWarrior = {
   unit: "words",
   completedAt: "2026-06-29T18:54:44.630Z",
   publishedAt: "2024-02-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1511645/interlude-the-legacy-of-a-proud-warrior",
-  externalId: "1511645",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1511645",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1511645/interlude-the-legacy-of-a-proud-warrior",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

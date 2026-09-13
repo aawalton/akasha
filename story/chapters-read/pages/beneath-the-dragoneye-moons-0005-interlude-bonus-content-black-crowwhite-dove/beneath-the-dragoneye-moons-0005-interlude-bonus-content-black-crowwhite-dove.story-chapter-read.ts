@@ -8,11 +8,15 @@ export const beneathTheDragoneyeMoons0005InterludeBonusContentBlackCrowwhiteDove
   position: 5,
   publishedAt: "2021-02-28",
   unit: "words",
-  externalId: "639242",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "639242",
+      externalLink:
+        "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/639242/interlude-bonus-content-black-crowwhite-dove",
+    },
+  ],
   title: "Interlude - Bonus Content - Black Crow//White Dove",
   ownLength: 315,
-  externalLink:
-    "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/639242/interlude-bonus-content-black-crowwhite-dove",
   prose: "txt",
 } as const satisfies StoryChapterRead

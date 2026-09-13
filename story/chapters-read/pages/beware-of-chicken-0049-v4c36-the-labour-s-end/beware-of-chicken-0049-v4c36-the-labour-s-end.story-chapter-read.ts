@@ -12,9 +12,13 @@ export const bewareOfChicken0049V4c36TheLabourSEnd = {
   unit: "words",
   completedAt: "2026-06-29T18:53:02.860Z",
   publishedAt: "2023-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1330145/v4c36-the-labours-end",
-  externalId: "1330145",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1330145",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1330145/v4c36-the-labours-end",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

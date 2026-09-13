@@ -12,9 +12,13 @@ export const bewareOfChicken0040V4Interlude1TheWanderers = {
   unit: "words",
   completedAt: "2026-06-29T18:52:43.123Z",
   publishedAt: "2023-08-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1299143/v4-interlude-1-the-wanderers",
-  externalId: "1299143",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1299143",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1299143/v4-interlude-1-the-wanderers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

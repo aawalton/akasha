@@ -12,9 +12,13 @@ export const bewareOfChicken0010V4c5AcrossTheFace = {
   unit: "words",
   completedAt: "2026-06-29T18:51:38.917Z",
   publishedAt: "2023-05-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1200675/v4c5-across-the-face",
-  externalId: "1200675",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1200675",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1200675/v4c5-across-the-face",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

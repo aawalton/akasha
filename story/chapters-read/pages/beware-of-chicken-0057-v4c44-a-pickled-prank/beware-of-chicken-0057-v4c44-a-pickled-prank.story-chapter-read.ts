@@ -12,9 +12,13 @@ export const bewareOfChicken0057V4c44APickledPrank = {
   unit: "words",
   completedAt: "2026-06-29T18:53:20.270Z",
   publishedAt: "2023-09-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1354736/v4c44-a-pickled-prank",
-  externalId: "1354736",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1354736",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1354736/v4c44-a-pickled-prank",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

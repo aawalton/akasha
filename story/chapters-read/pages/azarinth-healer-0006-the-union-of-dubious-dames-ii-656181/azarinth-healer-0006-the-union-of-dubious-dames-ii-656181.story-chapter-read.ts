@@ -8,11 +8,15 @@ export const azarinthHealer0006TheUnionOfDubiousDamesIi656181 = {
   position: 6,
   publishedAt: "2021-04-01",
   unit: "words",
-  externalId: "656181",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "656181",
+      externalLink:
+        "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/656181/the-union-of-dubious-dames-ii",
+    },
+  ],
   title: "The Union of Dubious Dames II",
   ownLength: 2289,
-  externalLink:
-    "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/656181/the-union-of-dubious-dames-ii",
   prose: "txt",
 } as const satisfies StoryChapterRead

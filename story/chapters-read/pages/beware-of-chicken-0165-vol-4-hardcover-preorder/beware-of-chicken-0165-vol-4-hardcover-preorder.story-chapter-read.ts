@@ -12,9 +12,13 @@ export const bewareOfChicken0165Vol4HardcoverPreorder = {
   unit: "words",
   completedAt: "2026-06-29T18:56:58.040Z",
   publishedAt: "2024-11-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1878397/vol-4-hardcover-preorder",
-  externalId: "1878397",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1878397",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1878397/vol-4-hardcover-preorder",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

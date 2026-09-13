@@ -12,9 +12,13 @@ export const bewareOfChicken0073V4c58AboutTime = {
   unit: "words",
   completedAt: "2026-06-29T18:53:55.497Z",
   publishedAt: "2023-11-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1403312/v4c58-about-time",
-  externalId: "1403312",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1403312",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1403312/v4c58-about-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

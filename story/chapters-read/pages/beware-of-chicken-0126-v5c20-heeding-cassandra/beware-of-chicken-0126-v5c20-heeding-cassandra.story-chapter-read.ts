@@ -12,9 +12,13 @@ export const bewareOfChicken0126V5c20HeedingCassandra = {
   unit: "words",
   completedAt: "2026-06-29T18:55:50.193Z",
   publishedAt: "2024-07-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1707829/v5c20-heeding-cassandra",
-  externalId: "1707829",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1707829",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1707829/v5c20-heeding-cassandra",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

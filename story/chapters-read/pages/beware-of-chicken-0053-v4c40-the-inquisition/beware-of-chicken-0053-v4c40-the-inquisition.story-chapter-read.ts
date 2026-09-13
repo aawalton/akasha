@@ -12,9 +12,13 @@ export const bewareOfChicken0053V4c40TheInquisition = {
   unit: "words",
   completedAt: "2026-06-29T18:53:12.078Z",
   publishedAt: "2023-09-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1339125/v4c40-the-inquisition",
-  externalId: "1339125",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1339125",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1339125/v4c40-the-inquisition",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const bewareOfChicken0168V5c61ShenheSOath = {
   unit: "words",
   completedAt: "2026-06-29T18:57:04.289Z",
   publishedAt: "2024-11-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1891428/v5c61-shenhes-oath",
-  externalId: "1891428",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1891428",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1891428/v5c61-shenhes-oath",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

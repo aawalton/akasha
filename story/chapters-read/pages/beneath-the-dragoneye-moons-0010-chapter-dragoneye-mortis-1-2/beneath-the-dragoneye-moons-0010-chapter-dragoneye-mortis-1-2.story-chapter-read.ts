@@ -10,9 +10,13 @@ export const beneathTheDragoneyeMoons0010ChapterDragoneyeMortis12 = {
   ownLength: 3326,
   unit: "words",
   publishedAt: "2021-08-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/733090/chapter-dragoneye-mortis-12",
-  externalId: "733090",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "733090",
+      externalLink:
+        "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/733090/chapter-dragoneye-mortis-12",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

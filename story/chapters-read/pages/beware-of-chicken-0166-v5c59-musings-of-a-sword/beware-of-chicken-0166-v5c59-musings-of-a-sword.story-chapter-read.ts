@@ -12,9 +12,13 @@ export const bewareOfChicken0166V5c59MusingsOfASword = {
   unit: "words",
   completedAt: "2026-06-29T18:56:59.998Z",
   publishedAt: "2024-11-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1882180/v5c59-musings-of-a-sword",
-  externalId: "1882180",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1882180",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1882180/v5c59-musings-of-a-sword",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

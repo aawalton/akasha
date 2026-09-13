@@ -8,11 +8,15 @@ export const beneathTheDragoneyeMoons0008WorldbuildingWhatCausedTheDeadzone73147
   position: 8,
   publishedAt: "2021-08-10",
   unit: "words",
-  externalId: "731474",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "731474",
+      externalLink:
+        "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/731474/worldbuilding-what-caused-the-deadzone",
+    },
+  ],
   title: "Worldbuilding - What caused the deadzone?",
   ownLength: 411,
-  externalLink:
-    "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/731474/worldbuilding-what-caused-the-deadzone",
   prose: "txt",
 } as const satisfies StoryChapterRead

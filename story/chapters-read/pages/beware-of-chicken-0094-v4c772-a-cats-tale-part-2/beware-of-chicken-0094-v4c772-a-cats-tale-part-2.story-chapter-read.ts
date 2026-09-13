@@ -8,11 +8,15 @@ export const bewareOfChicken0094V4c772ACatsTalePart2 = {
   position: 94,
   publishedAt: "2024-02-04",
   unit: "words",
-  externalId: "1505901",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1505901",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1505901/v4c772-a-cats-tale-part-2",
+    },
+  ],
   title: "v4c77.2: A Cat's Tale Part 2",
   ownLength: 1961,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1505901/v4c772-a-cats-tale-part-2",
   prose: "txt",
 } as const satisfies StoryChapterRead

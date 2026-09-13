@@ -10,9 +10,13 @@ export const azarinthHealer0007AzarinthHealerBookOneEditedByPortalBooksOutDecemb
   ownLength: 309,
   unit: "words",
   publishedAt: "2022-11-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1035092/azarinth-healer-book-one-edited-by-portal-books",
-  externalId: "1035092",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1035092",
+      externalLink:
+        "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1035092/azarinth-healer-book-one-edited-by-portal-books",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

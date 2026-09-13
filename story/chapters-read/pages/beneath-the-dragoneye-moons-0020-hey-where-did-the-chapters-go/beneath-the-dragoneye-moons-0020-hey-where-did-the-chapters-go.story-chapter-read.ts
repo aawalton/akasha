@@ -10,9 +10,13 @@ export const beneathTheDragoneyeMoons0020HeyWhereDidTheChaptersGo = {
   ownLength: 80,
   unit: "words",
   publishedAt: "2023-01-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/1094165/hey-where-did-the-chapters-go",
-  externalId: "1094165",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1094165",
+      externalLink:
+        "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/1094165/hey-where-did-the-chapters-go",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

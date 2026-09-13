@@ -10,9 +10,13 @@ export const beneathTheDragoneyeMoons0005InterludeBonusContentBlackCrowWhiteDove
   ownLength: 315,
   unit: "words",
   publishedAt: "2021-02-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/639242/interlude-bonus-content-black-crowwhite-dove",
-  externalId: "639242",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "639242",
+      externalLink:
+        "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/639242/interlude-bonus-content-black-crowwhite-dove",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

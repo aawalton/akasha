@@ -12,9 +12,13 @@ export const bewareOfChicken0105EpilogueTheNorthWindBlows = {
   unit: "words",
   completedAt: "2026-06-29T18:55:05.681Z",
   publishedAt: "2024-03-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1550977/epilogue-the-north-wind-blows",
-  externalId: "1550977",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1550977",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1550977/epilogue-the-north-wind-blows",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

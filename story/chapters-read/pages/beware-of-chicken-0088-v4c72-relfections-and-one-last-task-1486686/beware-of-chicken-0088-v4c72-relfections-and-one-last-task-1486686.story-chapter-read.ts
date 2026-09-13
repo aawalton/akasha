@@ -8,11 +8,15 @@ export const bewareOfChicken0088V4c72RelfectionsAndOneLastTask1486686 = {
   position: 88,
   publishedAt: "2024-01-19",
   unit: "words",
-  externalId: "1486686",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1486686",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1486686/v4c72-relfections-and-one-last-task",
+    },
+  ],
   title: "v4c72: Relfections and One Last Task",
   ownLength: 2138,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1486686/v4c72-relfections-and-one-last-task",
   prose: "txt",
 } as const satisfies StoryChapterRead

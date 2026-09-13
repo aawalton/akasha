@@ -12,9 +12,13 @@ export const bewareOfChicken0127V5c21Preparations = {
   unit: "words",
   completedAt: "2026-06-29T18:55:52.302Z",
   publishedAt: "2024-07-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1720703/v5c21-preparations",
-  externalId: "1720703",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1720703",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1720703/v5c21-preparations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

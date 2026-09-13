@@ -8,11 +8,15 @@ export const azarinthHealer0022MyNewStoryIsOutOnRoyalroadJourneyTo = {
   position: 22,
   publishedAt: "2025-10-25",
   unit: "words",
-  externalId: "2704677",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2704677",
+      externalLink:
+        "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/2704677/my-new-story-is-out-on-royalroad-journey-to-veresavir",
+    },
+  ],
   title: "My new story is out on Royalroad - Journey to Veresavir, check it out if you like!",
   ownLength: 131,
-  externalLink:
-    "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/2704677/my-new-story-is-out-on-royalroad-journey-to-veresavir",
   prose: "txt",
 } as const satisfies StoryChapterRead

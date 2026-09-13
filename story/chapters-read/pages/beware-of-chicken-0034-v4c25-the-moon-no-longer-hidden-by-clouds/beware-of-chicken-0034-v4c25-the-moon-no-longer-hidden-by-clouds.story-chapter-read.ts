@@ -12,9 +12,13 @@ export const bewareOfChicken0034V4c25TheMoonNoLongerHiddenByClouds = {
   unit: "words",
   completedAt: "2026-06-29T18:52:30.590Z",
   publishedAt: "2023-07-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1285348/v4c25-the-moon-no-longer-hidden-by-clouds",
-  externalId: "1285348",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1285348",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1285348/v4c25-the-moon-no-longer-hidden-by-clouds",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

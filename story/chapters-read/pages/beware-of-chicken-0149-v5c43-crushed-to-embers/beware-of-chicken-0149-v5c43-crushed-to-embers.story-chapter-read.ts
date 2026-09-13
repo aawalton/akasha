@@ -12,9 +12,13 @@ export const bewareOfChicken0149V5c43CrushedToEmbers = {
   unit: "words",
   completedAt: "2026-06-29T18:56:24.081Z",
   publishedAt: "2024-09-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1811180/v5c43-crushed-to-embers",
-  externalId: "1811180",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1811180",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1811180/v5c43-crushed-to-embers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

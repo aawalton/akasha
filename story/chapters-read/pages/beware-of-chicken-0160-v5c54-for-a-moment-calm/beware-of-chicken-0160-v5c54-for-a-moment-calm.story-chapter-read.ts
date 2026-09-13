@@ -12,9 +12,13 @@ export const bewareOfChicken0160V5c54ForAMomentCalm = {
   unit: "words",
   completedAt: "2026-06-29T18:56:47.592Z",
   publishedAt: "2024-10-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1864031/v5c54-for-a-moment-calm",
-  externalId: "1864031",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1864031",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1864031/v5c54-for-a-moment-calm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

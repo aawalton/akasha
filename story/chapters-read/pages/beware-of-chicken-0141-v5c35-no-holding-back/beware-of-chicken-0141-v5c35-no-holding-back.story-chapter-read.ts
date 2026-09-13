@@ -12,9 +12,13 @@ export const bewareOfChicken0141V5c35NoHoldingBack = {
   unit: "words",
   completedAt: "2026-06-29T18:56:07.679Z",
   publishedAt: "2024-08-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1766332/v5c35-no-holding-back",
-  externalId: "1766332",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1766332",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1766332/v5c35-no-holding-back",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

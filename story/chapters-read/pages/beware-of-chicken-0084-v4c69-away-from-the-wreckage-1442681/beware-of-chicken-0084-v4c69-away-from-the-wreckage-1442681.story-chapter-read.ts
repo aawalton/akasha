@@ -8,11 +8,15 @@ export const bewareOfChicken0084V4c69AwayFromTheWreckage1442681 = {
   position: 84,
   publishedAt: "2023-12-14",
   unit: "words",
-  externalId: "1442681",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1442681",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1442681/v4c69-away-from-the-wreckage",
+    },
+  ],
   title: "v4c69: Away from the Wreckage",
   ownLength: 2863,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1442681/v4c69-away-from-the-wreckage",
   prose: "txt",
 } as const satisfies StoryChapterRead

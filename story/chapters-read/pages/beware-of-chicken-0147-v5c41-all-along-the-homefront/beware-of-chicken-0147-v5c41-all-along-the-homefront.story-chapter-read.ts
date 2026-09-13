@@ -12,9 +12,13 @@ export const bewareOfChicken0147V5c41AllAlongTheHomefront = {
   unit: "words",
   completedAt: "2026-06-29T18:56:19.851Z",
   publishedAt: "2024-09-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1793231/v5c41-all-along-the-homefront",
-  externalId: "1793231",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1793231",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1793231/v5c41-all-along-the-homefront",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

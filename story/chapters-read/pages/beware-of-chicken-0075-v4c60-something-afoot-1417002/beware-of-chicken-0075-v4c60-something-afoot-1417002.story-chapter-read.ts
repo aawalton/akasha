@@ -8,11 +8,15 @@ export const bewareOfChicken0075V4c60SomethingAfoot1417002 = {
   position: 75,
   publishedAt: "2023-11-21",
   unit: "words",
-  externalId: "1417002",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1417002",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1417002/v4c60-something-afoot",
+    },
+  ],
   title: "v4c60: Something Afoot",
   ownLength: 1760,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1417002/v4c60-something-afoot",
   prose: "txt",
 } as const satisfies StoryChapterRead

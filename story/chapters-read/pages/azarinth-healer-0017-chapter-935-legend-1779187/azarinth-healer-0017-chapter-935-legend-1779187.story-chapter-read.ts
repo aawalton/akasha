@@ -8,11 +8,15 @@ export const azarinthHealer0017Chapter935Legend1779187 = {
   position: 17,
   publishedAt: "2024-08-29",
   unit: "words",
-  externalId: "1779187",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1779187",
+      externalLink:
+        "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1779187/chapter-935-legend",
+    },
+  ],
   title: "Chapter 935 Legend",
   ownLength: 3789,
-  externalLink:
-    "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1779187/chapter-935-legend",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -8,11 +8,15 @@ export const bewareOfChicken0069V4c54CrabsInABucket1391011 = {
   position: 69,
   publishedAt: "2023-10-31",
   unit: "words",
-  externalId: "1391011",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1391011",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1391011/v4c54-crabs-in-a-bucket",
+    },
+  ],
   title: "v4c54: Crabs in a Bucket",
   ownLength: 2514,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1391011/v4c54-crabs-in-a-bucket",
   prose: "txt",
 } as const satisfies StoryChapterRead

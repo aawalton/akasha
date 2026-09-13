@@ -12,9 +12,13 @@ export const bewareOfChicken0157V5c51TheCleanupBegins = {
   unit: "words",
   completedAt: "2026-06-29T18:56:41.124Z",
   publishedAt: "2024-10-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1852521/v5c51-the-cleanup-begins",
-  externalId: "1852521",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1852521",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1852521/v5c51-the-cleanup-begins",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

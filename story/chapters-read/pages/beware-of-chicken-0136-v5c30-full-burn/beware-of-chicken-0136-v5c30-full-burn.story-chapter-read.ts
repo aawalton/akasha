@@ -12,9 +12,13 @@ export const bewareOfChicken0136V5c30FullBurn = {
   unit: "words",
   completedAt: "2026-06-29T19:01:29.094Z",
   publishedAt: "2024-08-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1747901/v5c30-full-burn",
-  externalId: "1747901",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1747901",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1747901/v5c30-full-burn",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

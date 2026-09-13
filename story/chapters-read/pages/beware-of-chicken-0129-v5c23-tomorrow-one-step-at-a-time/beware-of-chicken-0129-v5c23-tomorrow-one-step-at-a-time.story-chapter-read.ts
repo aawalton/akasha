@@ -12,9 +12,13 @@ export const bewareOfChicken0129V5c23TomorrowOneStepAtATime = {
   unit: "words",
   completedAt: "2026-06-29T18:55:56.574Z",
   publishedAt: "2024-07-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1725971/v5c23-tomorrow-one-step-at-a-time",
-  externalId: "1725971",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1725971",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1725971/v5c23-tomorrow-one-step-at-a-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const arkendrithyst0504283Epilogue1AReturn = {
   unit: "words",
   completedAt: "2026-06-29T22:25:54.505Z",
   publishedAt: "2024-05-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1651437/283-epilogue-1-a-return",
-  externalId: "1651437",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1651437",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1651437/283-epilogue-1-a-return",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -8,11 +8,15 @@ export const azarinthHealer0008AzarinthHealerBookOneIsOutToday1053282 = {
   position: 8,
   publishedAt: "2022-12-01",
   unit: "words",
-  externalId: "1053282",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1053282",
+      externalLink:
+        "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1053282/azarinth-healer-book-one-is-out-today",
+    },
+  ],
   title: "Azarinth Healer Book One is out today :)",
   ownLength: 146,
-  externalLink:
-    "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1053282/azarinth-healer-book-one-is-out-today",
   prose: "txt",
 } as const satisfies StoryChapterRead

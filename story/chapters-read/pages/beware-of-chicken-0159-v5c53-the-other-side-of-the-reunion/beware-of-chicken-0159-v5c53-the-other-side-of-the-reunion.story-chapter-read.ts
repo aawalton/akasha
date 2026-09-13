@@ -12,9 +12,13 @@ export const bewareOfChicken0159V5c53TheOtherSideOfTheReunion = {
   unit: "words",
   completedAt: "2026-06-29T18:56:45.469Z",
   publishedAt: "2024-10-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1859187/v5c53-the-other-side-of-the-reunion",
-  externalId: "1859187",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1859187",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1859187/v5c53-the-other-side-of-the-reunion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

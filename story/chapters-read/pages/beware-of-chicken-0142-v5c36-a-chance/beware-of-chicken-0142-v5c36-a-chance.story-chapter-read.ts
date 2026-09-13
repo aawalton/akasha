@@ -12,9 +12,13 @@ export const bewareOfChicken0142V5c36AChance = {
   unit: "words",
   completedAt: "2026-06-29T18:56:09.628Z",
   publishedAt: "2024-08-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1776168/v5c36-a-chance",
-  externalId: "1776168",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1776168",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1776168/v5c36-a-chance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

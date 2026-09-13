@@ -10,9 +10,13 @@ export const azarinthHealer0022MyNewStoryIsOutOnRoyalroadJourneyToVeresavirCheck
   ownLength: 131,
   unit: "words",
   publishedAt: "2025-10-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/2704677/my-new-story-is-out-on-royalroad-journey-to-veresavir",
-  externalId: "2704677",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2704677",
+      externalLink:
+        "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/2704677/my-new-story-is-out-on-royalroad-journey-to-veresavir",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

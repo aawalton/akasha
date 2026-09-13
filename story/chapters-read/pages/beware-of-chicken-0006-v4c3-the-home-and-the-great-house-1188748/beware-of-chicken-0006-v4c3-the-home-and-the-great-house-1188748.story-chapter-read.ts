@@ -8,11 +8,15 @@ export const bewareOfChicken0006V4c3TheHomeAndTheGreatHouse1188748 = {
   position: 6,
   publishedAt: "2023-04-22",
   unit: "words",
-  externalId: "1188748",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1188748",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1188748/v4c3-the-home-and-the-great-house",
+    },
+  ],
   title: "v4c3: The Home, and The Great House",
   ownLength: 2304,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1188748/v4c3-the-home-and-the-great-house",
   prose: "txt",
 } as const satisfies StoryChapterRead

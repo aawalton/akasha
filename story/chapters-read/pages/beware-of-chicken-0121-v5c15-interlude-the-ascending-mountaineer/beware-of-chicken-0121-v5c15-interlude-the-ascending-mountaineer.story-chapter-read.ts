@@ -12,9 +12,13 @@ export const bewareOfChicken0121V5c15InterludeTheAscendingMountaineer = {
   unit: "words",
   completedAt: "2026-06-29T18:55:39.784Z",
   publishedAt: "2024-06-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1693303/v5c15-interlude-the-ascending-mountaineer",
-  externalId: "1693303",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1693303",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1693303/v5c15-interlude-the-ascending-mountaineer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

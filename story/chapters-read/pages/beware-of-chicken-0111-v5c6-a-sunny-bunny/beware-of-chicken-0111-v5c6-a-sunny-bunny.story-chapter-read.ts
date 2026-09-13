@@ -12,9 +12,13 @@ export const bewareOfChicken0111V5c6ASunnyBunny = {
   unit: "words",
   completedAt: "2026-06-29T18:55:18.590Z",
   publishedAt: "2024-05-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1651083/v5c6-a-sunny-bunny",
-  externalId: "1651083",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1651083",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1651083/v5c6-a-sunny-bunny",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

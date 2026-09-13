@@ -12,9 +12,13 @@ export const bewareOfChicken0153V5c47TheQuietSetsInPart1 = {
   unit: "words",
   completedAt: "2026-06-29T18:56:32.369Z",
   publishedAt: "2024-09-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1824315/v5c47-the-quiet-sets-in-part-1",
-  externalId: "1824315",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1824315",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1824315/v5c47-the-quiet-sets-in-part-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

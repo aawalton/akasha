@@ -8,11 +8,15 @@ export const arkendrithyst0505284Epilogue2GeorgeGetsASystem1669855 = {
   position: 505,
   publishedAt: "2024-06-09",
   unit: "words",
-  externalId: "1669855",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1669855",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1669855/284-epilogue-2-george-gets-a-system",
+    },
+  ],
   title: "284 - Epilogue 2, George gets a System",
   ownLength: 20640,
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1669855/284-epilogue-2-george-gets-a-system",
   prose: "txt",
 } as const satisfies StoryChapterRead

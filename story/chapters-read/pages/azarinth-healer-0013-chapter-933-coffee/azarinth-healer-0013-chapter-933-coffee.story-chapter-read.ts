@@ -10,9 +10,13 @@ export const azarinthHealer0013Chapter933Coffee = {
   ownLength: 2750,
   unit: "words",
   publishedAt: "2023-11-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1416117/chapter-933-coffee",
-  externalId: "1416117",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1416117",
+      externalLink:
+        "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1416117/chapter-933-coffee",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

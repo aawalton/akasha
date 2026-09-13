@@ -8,11 +8,15 @@ export const bewareOfChicken0108V5c3ATigersHomecoming = {
   position: 108,
   publishedAt: "2024-05-18",
   unit: "words",
-  externalId: "1641709",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1641709",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1641709/v5c3-a-tigers-homecoming",
+    },
+  ],
   title: "v5c3: A Tiger's Homecoming",
   ownLength: 1781,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1641709/v5c3-a-tigers-homecoming",
   prose: "txt",
 } as const satisfies StoryChapterRead

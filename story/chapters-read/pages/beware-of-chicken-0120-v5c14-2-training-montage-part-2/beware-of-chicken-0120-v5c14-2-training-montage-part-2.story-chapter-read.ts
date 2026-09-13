@@ -12,9 +12,13 @@ export const bewareOfChicken0120V5c142TrainingMontagePart2 = {
   unit: "words",
   completedAt: "2026-06-29T18:55:37.589Z",
   publishedAt: "2024-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1690478/v5c142-training-montage-part-2",
-  externalId: "1690478",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1690478",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1690478/v5c142-training-montage-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

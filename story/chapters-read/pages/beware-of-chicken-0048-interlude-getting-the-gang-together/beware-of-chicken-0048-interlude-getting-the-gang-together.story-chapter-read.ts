@@ -12,9 +12,13 @@ export const bewareOfChicken0048InterludeGettingTheGangTogether = {
   unit: "words",
   completedAt: "2026-06-29T18:53:00.671Z",
   publishedAt: "2023-08-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1327745/interlude-getting-the-gang-together",
-  externalId: "1327745",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1327745",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1327745/interlude-getting-the-gang-together",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

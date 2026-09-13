@@ -10,9 +10,13 @@ export const beneathTheDragoneyeMoons0021ButWaitThereSMore = {
   ownLength: 146,
   unit: "words",
   publishedAt: "2025-08-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/2546951/but-wait-theres-more",
-  externalId: "2546951",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2546951",
+      externalLink:
+        "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/2546951/but-wait-theres-more",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

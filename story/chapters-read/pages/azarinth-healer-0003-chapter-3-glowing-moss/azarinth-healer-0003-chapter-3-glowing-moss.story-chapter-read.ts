@@ -10,9 +10,13 @@ export const azarinthHealer0003Chapter3GlowingMoss = {
   ownLength: 3544,
   unit: "words",
   publishedAt: "2018-03-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/198179/chapter-3-glowing-moss",
-  externalId: "198179",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "198179",
+      externalLink:
+        "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/198179/chapter-3-glowing-moss",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

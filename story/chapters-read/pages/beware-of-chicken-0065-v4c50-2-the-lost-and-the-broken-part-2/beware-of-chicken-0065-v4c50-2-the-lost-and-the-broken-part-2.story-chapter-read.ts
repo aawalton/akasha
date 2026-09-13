@@ -12,9 +12,13 @@ export const bewareOfChicken0065V4c502TheLostAndTheBrokenPart2 = {
   unit: "words",
   completedAt: "2026-06-29T18:53:37.690Z",
   publishedAt: "2023-10-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1380911/v4c502-the-lost-and-the-broken-part-2",
-  externalId: "1380911",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1380911",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1380911/v4c502-the-lost-and-the-broken-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

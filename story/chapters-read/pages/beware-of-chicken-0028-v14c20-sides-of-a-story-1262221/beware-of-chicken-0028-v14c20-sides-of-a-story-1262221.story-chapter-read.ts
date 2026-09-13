@@ -8,11 +8,15 @@ export const bewareOfChicken0028V14c20SidesOfAStory1262221 = {
   position: 28,
   publishedAt: "2023-06-30",
   unit: "words",
-  externalId: "1262221",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1262221",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1262221/v14c20-sides-of-a-story",
+    },
+  ],
   title: "v14c20: Sides of a Story",
   ownLength: 2506,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1262221/v14c20-sides-of-a-story",
   prose: "txt",
 } as const satisfies StoryChapterRead

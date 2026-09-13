@@ -10,9 +10,13 @@ export const beneathTheDragoneyeMoons0001ImageGallery = {
   ownLength: 96,
   unit: "words",
   publishedAt: "2021-09-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/749352/image-gallery",
-  externalId: "749352",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "749352",
+      externalLink:
+        "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/749352/image-gallery",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

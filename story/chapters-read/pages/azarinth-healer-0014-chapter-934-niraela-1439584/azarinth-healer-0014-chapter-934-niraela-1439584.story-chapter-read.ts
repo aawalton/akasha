@@ -8,11 +8,15 @@ export const azarinthHealer0014Chapter934Niraela1439584 = {
   position: 14,
   publishedAt: "2023-12-11",
   unit: "words",
-  externalId: "1439584",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1439584",
+      externalLink:
+        "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1439584/chapter-934-niraela",
+    },
+  ],
   title: "Chapter 934 Niraela",
   ownLength: 3009,
-  externalLink:
-    "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1439584/chapter-934-niraela",
   prose: "txt",
 } as const satisfies StoryChapterRead

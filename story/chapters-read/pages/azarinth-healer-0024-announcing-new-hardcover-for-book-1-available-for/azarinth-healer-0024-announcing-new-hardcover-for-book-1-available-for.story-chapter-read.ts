@@ -8,12 +8,16 @@ export const azarinthHealer0024AnnouncingNewHardcoverForBook1AvailableFor = {
   position: 24,
   publishedAt: "2026-03-13",
   unit: "words",
-  externalId: "3149032",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3149032",
+      externalLink:
+        "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/3149032/announcing-new-hardcover-for-book-1-available",
+    },
+  ],
   title:
     "Announcing new hardcover for book 1 available for pre-order! Not a chapter again, I'm sorry.",
   ownLength: 84,
-  externalLink:
-    "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/3149032/announcing-new-hardcover-for-book-1-available",
   prose: "txt",
 } as const satisfies StoryChapterRead

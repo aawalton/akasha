@@ -8,11 +8,15 @@ export const bewareOfChicken0055V4c42FortyYearsAndFortyMore1349716 = {
   position: 55,
   publishedAt: "2023-09-21",
   unit: "words",
-  externalId: "1349716",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1349716",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1349716/v4c42-forty-years-and-forty-more",
+    },
+  ],
   title: "v4c42: Forty Years, and Forty More",
   ownLength: 1645,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1349716/v4c42-forty-years-and-forty-more",
   prose: "txt",
 } as const satisfies StoryChapterRead

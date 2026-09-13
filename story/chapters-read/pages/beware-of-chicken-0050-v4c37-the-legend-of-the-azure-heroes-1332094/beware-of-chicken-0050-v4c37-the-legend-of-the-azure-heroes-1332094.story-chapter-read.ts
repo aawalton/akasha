@@ -8,11 +8,15 @@ export const bewareOfChicken0050V4c37TheLegendOfTheAzureHeroes1332094 = {
   position: 50,
   publishedAt: "2023-09-04",
   unit: "words",
-  externalId: "1332094",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1332094",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1332094/v4c37-the-legend-of-the-azure-heroes",
+    },
+  ],
   title: "v4c37: The Legend of the Azure Heroes",
   ownLength: 2904,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1332094/v4c37-the-legend-of-the-azure-heroes",
   prose: "txt",
 } as const satisfies StoryChapterRead

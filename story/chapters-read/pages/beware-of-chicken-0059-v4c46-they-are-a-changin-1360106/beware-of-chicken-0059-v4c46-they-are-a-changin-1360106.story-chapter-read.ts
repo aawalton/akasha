@@ -8,11 +8,15 @@ export const bewareOfChicken0059V4c46TheyAreAChangin1360106 = {
   position: 59,
   publishedAt: "2023-10-01",
   unit: "words",
-  externalId: "1360106",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1360106",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1360106/v4c46-they-are-a-changin",
+    },
+  ],
   title: "v4c46: They are a Changin'",
   ownLength: 2036,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1360106/v4c46-they-are-a-changin",
   prose: "txt",
 } as const satisfies StoryChapterRead

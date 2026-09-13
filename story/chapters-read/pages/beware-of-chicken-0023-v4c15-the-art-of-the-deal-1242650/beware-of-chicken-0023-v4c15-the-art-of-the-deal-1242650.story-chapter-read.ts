@@ -8,11 +8,15 @@ export const bewareOfChicken0023V4c15TheArtOfTheDeal1242650 = {
   position: 23,
   publishedAt: "2023-06-12",
   unit: "words",
-  externalId: "1242650",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1242650",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1242650/v4c15-the-art-of-the-deal",
+    },
+  ],
   title: "v4c15: The Art of the Deal",
   ownLength: 1529,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1242650/v4c15-the-art-of-the-deal",
   prose: "txt",
 } as const satisfies StoryChapterRead

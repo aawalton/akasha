@@ -8,11 +8,15 @@ export const bewareOfChicken0107V5c2TheStrongestTechnique1639444 = {
   position: 107,
   publishedAt: "2024-05-17",
   unit: "words",
-  externalId: "1639444",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1639444",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1639444/v5c2-the-strongest-technique",
+    },
+  ],
   title: "v5c2: The Strongest Technique",
   ownLength: 2294,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1639444/v5c2-the-strongest-technique",
   prose: "txt",
 } as const satisfies StoryChapterRead

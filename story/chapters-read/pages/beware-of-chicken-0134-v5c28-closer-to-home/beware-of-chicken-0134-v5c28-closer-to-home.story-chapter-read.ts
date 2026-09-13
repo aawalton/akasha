@@ -12,9 +12,13 @@ export const bewareOfChicken0134V5c28CloserToHome = {
   unit: "words",
   completedAt: "2026-06-29T19:01:24.949Z",
   publishedAt: "2024-08-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1742779/v5c28-closer-to-home",
-  externalId: "1742779",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1742779",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1742779/v5c28-closer-to-home",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

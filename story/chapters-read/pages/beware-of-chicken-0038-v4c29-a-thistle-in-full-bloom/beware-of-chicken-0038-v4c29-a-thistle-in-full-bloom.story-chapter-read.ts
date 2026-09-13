@@ -12,9 +12,13 @@ export const bewareOfChicken0038V4c29AThistleInFullBloom = {
   unit: "words",
   completedAt: "2026-06-29T18:52:39.152Z",
   publishedAt: "2023-07-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1294583/v4c29-a-thistle-in-full-bloom",
-  externalId: "1294583",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1294583",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1294583/v4c29-a-thistle-in-full-bloom",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

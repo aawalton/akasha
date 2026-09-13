@@ -8,11 +8,15 @@ export const azarinthHealer0012Chapter932Purpose1216108 = {
   position: 12,
   publishedAt: "2023-05-17",
   unit: "words",
-  externalId: "1216108",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1216108",
+      externalLink:
+        "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1216108/chapter-932-purpose",
+    },
+  ],
   title: "Chapter 932 Purpose",
   ownLength: 3285,
-  externalLink:
-    "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1216108/chapter-932-purpose",
   prose: "txt",
 } as const satisfies StoryChapterRead

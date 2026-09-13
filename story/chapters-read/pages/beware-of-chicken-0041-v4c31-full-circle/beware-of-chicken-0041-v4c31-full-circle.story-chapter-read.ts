@@ -12,9 +12,13 @@ export const bewareOfChicken0041V4c31FullCircle = {
   unit: "words",
   completedAt: "2026-06-29T18:52:45.169Z",
   publishedAt: "2023-08-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1302391/v4c31-full-circle",
-  externalId: "1302391",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1302391",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1302391/v4c31-full-circle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

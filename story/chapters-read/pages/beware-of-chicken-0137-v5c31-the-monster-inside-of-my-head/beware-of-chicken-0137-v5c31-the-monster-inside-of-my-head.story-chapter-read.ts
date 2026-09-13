@@ -12,9 +12,13 @@ export const bewareOfChicken0137V5c31TheMonsterInsideOfMyHead = {
   unit: "words",
   completedAt: "2026-06-29T18:55:58.767Z",
   publishedAt: "2024-08-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1752122/v5c31-the-monster-inside-of-my-head",
-  externalId: "1752122",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1752122",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1752122/v5c31-the-monster-inside-of-my-head",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

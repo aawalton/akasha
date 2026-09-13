@@ -12,9 +12,13 @@ export const bewareOfChicken0130V5c24ThePlumAndTheFoxes = {
   unit: "words",
   completedAt: "2026-06-29T19:01:16.749Z",
   publishedAt: "2024-07-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1728657/v5c24-the-plum-and-the-foxes",
-  externalId: "1728657",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1728657",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1728657/v5c24-the-plum-and-the-foxes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

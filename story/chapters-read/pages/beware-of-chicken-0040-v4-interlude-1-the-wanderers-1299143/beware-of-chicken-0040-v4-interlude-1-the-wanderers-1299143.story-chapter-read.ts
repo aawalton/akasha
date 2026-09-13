@@ -8,11 +8,15 @@ export const bewareOfChicken0040V4Interlude1TheWanderers1299143 = {
   position: 40,
   publishedAt: "2023-08-04",
   unit: "words",
-  externalId: "1299143",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1299143",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1299143/v4-interlude-1-the-wanderers",
+    },
+  ],
   title: "v4 Interlude 1: The Wanderers",
   ownLength: 1850,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1299143/v4-interlude-1-the-wanderers",
   prose: "txt",
 } as const satisfies StoryChapterRead

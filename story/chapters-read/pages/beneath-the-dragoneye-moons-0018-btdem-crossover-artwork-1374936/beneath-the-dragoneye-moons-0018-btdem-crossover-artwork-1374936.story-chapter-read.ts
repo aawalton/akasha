@@ -8,11 +8,15 @@ export const beneathTheDragoneyeMoons0018BtdemCrossoverArtwork1374936 = {
   position: 18,
   publishedAt: "2023-10-15",
   unit: "words",
-  externalId: "1374936",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1374936",
+      externalLink:
+        "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/1374936/btdem-crossover-artwork",
+    },
+  ],
   title: "BTDEM Crossover Artwork!",
   ownLength: 258,
-  externalLink:
-    "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/1374936/btdem-crossover-artwork",
   prose: "txt",
 } as const satisfies StoryChapterRead

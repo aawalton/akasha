@@ -8,11 +8,15 @@ export const bewareOfChicken0104V4c82AndTheFirstDaysOfWinter1548504 = {
   position: 104,
   publishedAt: "2024-03-10",
   unit: "words",
-  externalId: "1548504",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1548504",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1548504/v4c82-and-the-first-days-of-winter",
+    },
+  ],
   title: "V4c82: And the First Days of Winter",
   ownLength: 2535,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1548504/v4c82-and-the-first-days-of-winter",
   prose: "txt",
 } as const satisfies StoryChapterRead

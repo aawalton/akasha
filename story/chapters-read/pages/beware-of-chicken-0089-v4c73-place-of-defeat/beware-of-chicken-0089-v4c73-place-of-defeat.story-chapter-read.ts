@@ -12,9 +12,13 @@ export const bewareOfChicken0089V4c73PlaceOfDefeat = {
   unit: "words",
   completedAt: "2026-06-29T18:54:30.279Z",
   publishedAt: "2024-01-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1490210/v4c73-place-of-defeat",
-  externalId: "1490210",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1490210",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1490210/v4c73-place-of-defeat",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

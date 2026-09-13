@@ -12,9 +12,13 @@ export const bewareOfChicken0155V5c49TheMostReliableSeniorBrother = {
   unit: "words",
   completedAt: "2026-06-29T18:56:36.683Z",
   publishedAt: "2024-10-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1836770/v5c49-the-most-reliable-senior-brother",
-  externalId: "1836770",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1836770",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1836770/v5c49-the-most-reliable-senior-brother",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

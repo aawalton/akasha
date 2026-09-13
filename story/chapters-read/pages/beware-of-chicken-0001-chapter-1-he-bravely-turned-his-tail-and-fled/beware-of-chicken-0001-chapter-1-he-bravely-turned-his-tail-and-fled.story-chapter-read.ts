@@ -12,9 +12,13 @@ export const bewareOfChicken0001Chapter1HeBravelyTurnedHisTailAndFled = {
   unit: "words",
   completedAt: "2026-06-29T18:51:19.654Z",
   publishedAt: "2021-01-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/614481/chapter-1-he-bravely-turned-his-tail-and-fled",
-  externalId: "614481",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "614481",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/614481/chapter-1-he-bravely-turned-his-tail-and-fled",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

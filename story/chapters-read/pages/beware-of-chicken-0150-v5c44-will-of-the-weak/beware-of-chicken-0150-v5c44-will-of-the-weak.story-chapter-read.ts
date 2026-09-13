@@ -12,9 +12,13 @@ export const bewareOfChicken0150V5c44WillOfTheWeak = {
   unit: "words",
   completedAt: "2026-06-29T18:56:26.265Z",
   publishedAt: "2024-09-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1812995/v5c44-will-of-the-weak",
-  externalId: "1812995",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1812995",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1812995/v5c44-will-of-the-weak",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

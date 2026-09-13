@@ -10,9 +10,13 @@ export const beneathTheDragoneyeMoons0003Chapter1Rebirth = {
   ownLength: 2698,
   unit: "words",
   publishedAt: "2020-09-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/561246/chapter-1-rebirth",
-  externalId: "561246",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "561246",
+      externalLink:
+        "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/561246/chapter-1-rebirth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

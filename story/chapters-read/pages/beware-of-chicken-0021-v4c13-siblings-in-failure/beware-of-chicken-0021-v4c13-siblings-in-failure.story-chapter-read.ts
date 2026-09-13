@@ -12,9 +12,13 @@ export const bewareOfChicken0021V4c13SiblingsInFailure = {
   unit: "words",
   completedAt: "2026-06-29T18:52:03.057Z",
   publishedAt: "2023-06-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1237592/v4c13-siblings-in-failure",
-  externalId: "1237592",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1237592",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1237592/v4c13-siblings-in-failure",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

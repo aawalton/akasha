@@ -8,11 +8,15 @@ export const bewareOfChicken0057V4c44APickledPrank1354736 = {
   position: 57,
   publishedAt: "2023-09-26",
   unit: "words",
-  externalId: "1354736",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1354736",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1354736/v4c44-a-pickled-prank",
+    },
+  ],
   title: "v4c44: A Pickled Prank",
   ownLength: 2283,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1354736/v4c44-a-pickled-prank",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -8,11 +8,15 @@ export const bewareOfChicken0062V4c48TheChildrenOfTianlan1367220 = {
   position: 62,
   publishedAt: "2023-10-08",
   unit: "words",
-  externalId: "1367220",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1367220",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1367220/v4c48-the-children-of-tianlan",
+    },
+  ],
   title: "v4c48: The Children of Tianlan",
   ownLength: 3029,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1367220/v4c48-the-children-of-tianlan",
   prose: "txt",
 } as const satisfies StoryChapterRead

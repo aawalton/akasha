@@ -12,9 +12,13 @@ export const bewareOfChicken0133V5c27NoPlanSurvivesFirstContactPart2 = {
   unit: "words",
   completedAt: "2026-06-29T19:01:22.875Z",
   publishedAt: "2024-07-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1738874/v5c27-no-plan-survives-first-contact-part-2",
-  externalId: "1738874",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1738874",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1738874/v5c27-no-plan-survives-first-contact-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

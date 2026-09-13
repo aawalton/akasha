@@ -8,11 +8,15 @@ export const beneathTheDragoneyeMoons0016ChapterMeanwhileTheSidekicks1154408 = {
   position: 16,
   publishedAt: "2023-04-01",
   unit: "words",
-  externalId: "1154408",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1154408",
+      externalLink:
+        "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/1154408/chapter-meanwhile-the-sidekicks",
+    },
+  ],
   title: "Chapter ??? - Meanwhile, the sidekicks",
   ownLength: 914,
-  externalLink:
-    "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/1154408/chapter-meanwhile-the-sidekicks",
   prose: "txt",
 } as const satisfies StoryChapterRead

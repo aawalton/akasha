@@ -8,11 +8,15 @@ export const bewareOfChicken0102V4c81LastDaysOfFall1542165 = {
   position: 102,
   publishedAt: "2024-03-05",
   unit: "words",
-  externalId: "1542165",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1542165",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1542165/v4c81-last-days-of-fall",
+    },
+  ],
   title: "v4c81: Last Days of Fall",
   ownLength: 2026,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1542165/v4c81-last-days-of-fall",
   prose: "txt",
 } as const satisfies StoryChapterRead

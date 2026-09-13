@@ -12,9 +12,13 @@ export const bewareOfChicken0081V4c66ExcecutionerSBlade = {
   unit: "words",
   completedAt: "2026-06-29T18:54:12.370Z",
   publishedAt: "2023-12-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1433996/v4c66-excecutioners-blade",
-  externalId: "1433996",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1433996",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1433996/v4c66-excecutioners-blade",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

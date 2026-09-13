@@ -10,9 +10,13 @@ export const azarinthHealer0009Chapter930Shelter = {
   ownLength: 3232,
   unit: "words",
   publishedAt: "2023-03-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1149664/chapter-930-shelter",
-  externalId: "1149664",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1149664",
+      externalLink:
+        "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1149664/chapter-930-shelter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

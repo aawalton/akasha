@@ -12,9 +12,13 @@ export const bewareOfChicken0097InterludeTheManOfIronAndStone = {
   unit: "words",
   completedAt: "2026-06-29T18:54:46.625Z",
   publishedAt: "2024-02-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1525190/interlude-the-man-of-iron-and-stone",
-  externalId: "1525190",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1525190",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1525190/interlude-the-man-of-iron-and-stone",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

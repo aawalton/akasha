@@ -8,11 +8,15 @@ export const bewareOfChicken0056V4c43Perserverance1351817 = {
   position: 56,
   publishedAt: "2023-09-23",
   unit: "words",
-  externalId: "1351817",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1351817",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1351817/v4c43-perserverance",
+    },
+  ],
   title: "v4c43: Perserverance",
   ownLength: 3723,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1351817/v4c43-perserverance",
   prose: "txt",
 } as const satisfies StoryChapterRead

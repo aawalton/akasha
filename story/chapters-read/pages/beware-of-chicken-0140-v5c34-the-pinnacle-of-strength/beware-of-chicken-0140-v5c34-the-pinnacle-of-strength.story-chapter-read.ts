@@ -12,9 +12,13 @@ export const bewareOfChicken0140V5c34ThePinnacleOfStrength = {
   unit: "words",
   completedAt: "2026-06-29T18:56:05.566Z",
   publishedAt: "2024-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1762172/v5c34-the-pinnacle-of-strength",
-  externalId: "1762172",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1762172",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1762172/v5c34-the-pinnacle-of-strength",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

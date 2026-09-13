@@ -8,11 +8,15 @@ export const bewareOfChicken0090V4c74ToTheNorth1492805 = {
   position: 90,
   publishedAt: "2024-01-24",
   unit: "words",
-  externalId: "1492805",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1492805",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1492805/v4c74-to-the-north",
+    },
+  ],
   title: "v4c74: To the North",
   ownLength: 2649,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1492805/v4c74-to-the-north",
   prose: "txt",
 } as const satisfies StoryChapterRead

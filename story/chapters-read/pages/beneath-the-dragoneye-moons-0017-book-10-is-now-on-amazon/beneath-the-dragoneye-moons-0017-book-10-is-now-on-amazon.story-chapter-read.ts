@@ -10,9 +10,13 @@ export const beneathTheDragoneyeMoons0017Book10IsNowOnAmazon = {
   ownLength: 65,
   unit: "words",
   publishedAt: "2023-05-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/1224011/book-10-is-now-on-amazon",
-  externalId: "1224011",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1224011",
+      externalLink:
+        "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/1224011/book-10-is-now-on-amazon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

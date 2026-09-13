@@ -8,11 +8,15 @@ export const bewareOfChicken0002Chapter2RiceFarming101614571 = {
   position: 2,
   publishedAt: "2021-01-14",
   unit: "words",
-  externalId: "614571",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "614571",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/614571/chapter-2-rice-farming-101",
+    },
+  ],
   title: "Chapter 2: Rice Farming 101",
   ownLength: 1288,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/614571/chapter-2-rice-farming-101",
   prose: "txt",
 } as const satisfies StoryChapterRead

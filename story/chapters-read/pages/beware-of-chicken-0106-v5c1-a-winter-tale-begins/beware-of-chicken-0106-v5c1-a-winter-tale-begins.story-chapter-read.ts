@@ -12,9 +12,13 @@ export const bewareOfChicken0106V5c1AWinterTaleBegins = {
   unit: "words",
   completedAt: "2026-06-29T18:55:07.662Z",
   publishedAt: "2024-05-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1635547/v5c1-a-winter-tale-begins",
-  externalId: "1635547",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1635547",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1635547/v5c1-a-winter-tale-begins",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

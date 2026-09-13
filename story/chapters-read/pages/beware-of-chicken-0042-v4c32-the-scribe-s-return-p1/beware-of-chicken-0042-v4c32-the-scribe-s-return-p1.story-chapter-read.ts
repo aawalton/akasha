@@ -12,9 +12,13 @@ export const bewareOfChicken0042V4c32TheScribeSReturnP1 = {
   unit: "words",
   completedAt: "2026-06-29T18:52:47.262Z",
   publishedAt: "2023-08-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1304502/v4c32-the-scribes-return-p1",
-  externalId: "1304502",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1304502",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1304502/v4c32-the-scribes-return-p1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

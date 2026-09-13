@@ -12,9 +12,13 @@ export const bewareOfChicken0054V4c41TheRumblingOnTheHorizon = {
   unit: "words",
   completedAt: "2026-06-29T18:53:14.168Z",
   publishedAt: "2023-09-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1347406/v4c41-the-rumbling-on-the-horizon",
-  externalId: "1347406",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1347406",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1347406/v4c41-the-rumbling-on-the-horizon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

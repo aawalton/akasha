@@ -8,11 +8,15 @@ export const bewareOfChicken0095V4c78ReapingAHarvest1509309 = {
   position: 95,
   publishedAt: "2024-02-07",
   unit: "words",
-  externalId: "1509309",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1509309",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1509309/v4c78-reaping-a-harvest",
+    },
+  ],
   title: "v4c78: Reaping a Harvest",
   ownLength: 2339,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1509309/v4c78-reaping-a-harvest",
   prose: "txt",
 } as const satisfies StoryChapterRead

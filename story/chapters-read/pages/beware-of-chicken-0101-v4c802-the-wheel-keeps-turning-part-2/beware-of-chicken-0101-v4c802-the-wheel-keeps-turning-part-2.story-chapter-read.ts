@@ -8,11 +8,15 @@ export const bewareOfChicken0101V4c802TheWheelKeepsTurningPart2 = {
   position: 101,
   publishedAt: "2024-03-01",
   unit: "words",
-  externalId: "1537350",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1537350",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1537350/v4c802-the-wheel-keeps-turning-part-2",
+    },
+  ],
   title: "v4c80.2: The Wheel Keeps Turning Part 2",
   ownLength: 2493,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1537350/v4c802-the-wheel-keeps-turning-part-2",
   prose: "txt",
 } as const satisfies StoryChapterRead

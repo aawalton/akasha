@@ -10,9 +10,13 @@ export const beneathTheDragoneyeMoons0007ChapterTheCovenOfFabulousWitchesIii = {
   ownLength: 2546,
   unit: "words",
   publishedAt: "2021-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/656182/chapter-the-coven-of-fabulous-witches-iii",
-  externalId: "656182",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "656182",
+      externalLink:
+        "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/656182/chapter-the-coven-of-fabulous-witches-iii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

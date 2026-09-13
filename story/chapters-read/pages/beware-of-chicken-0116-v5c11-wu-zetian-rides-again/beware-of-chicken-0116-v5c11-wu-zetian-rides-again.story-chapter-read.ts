@@ -12,9 +12,13 @@ export const bewareOfChicken0116V5c11WuZetianRidesAgain = {
   unit: "words",
   completedAt: "2026-06-29T18:55:28.867Z",
   publishedAt: "2024-06-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1669538/v5c11-wu-zetian-rides-again",
-  externalId: "1669538",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1669538",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1669538/v5c11-wu-zetian-rides-again",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

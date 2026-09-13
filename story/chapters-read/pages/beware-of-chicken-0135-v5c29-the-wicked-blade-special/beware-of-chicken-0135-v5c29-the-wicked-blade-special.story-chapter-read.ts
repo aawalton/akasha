@@ -12,9 +12,13 @@ export const bewareOfChicken0135V5c29TheWickedBladeSpecial = {
   unit: "words",
   completedAt: "2026-06-29T19:01:26.971Z",
   publishedAt: "2024-08-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1745171/v5c29-the-wicked-blade-special",
-  externalId: "1745171",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1745171",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1745171/v5c29-the-wicked-blade-special",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

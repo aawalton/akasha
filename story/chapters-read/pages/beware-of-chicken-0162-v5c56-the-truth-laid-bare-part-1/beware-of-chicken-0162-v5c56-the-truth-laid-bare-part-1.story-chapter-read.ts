@@ -12,9 +12,13 @@ export const bewareOfChicken0162V5c56TheTruthLaidBarePart1 = {
   unit: "words",
   completedAt: "2026-06-29T18:56:51.874Z",
   publishedAt: "2024-10-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1871582/v5c56-the-truth-laid-bare-part-1",
-  externalId: "1871582",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1871582",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1871582/v5c56-the-truth-laid-bare-part-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

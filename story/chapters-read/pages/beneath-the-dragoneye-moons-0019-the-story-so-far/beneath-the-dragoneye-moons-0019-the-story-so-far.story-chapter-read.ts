@@ -10,9 +10,13 @@ export const beneathTheDragoneyeMoons0019TheStorySoFar = {
   ownLength: 2718,
   unit: "words",
   publishedAt: "2023-04-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/1169352/the-story-so-far",
-  externalId: "1169352",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1169352",
+      externalLink:
+        "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/1169352/the-story-so-far",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

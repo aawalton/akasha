@@ -12,9 +12,13 @@ export const bewareOfChicken0037V4c28TheCapacityForIndependance = {
   unit: "words",
   completedAt: "2026-06-29T18:52:37.140Z",
   publishedAt: "2023-07-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1292643/v4c28-the-capacity-for-independance",
-  externalId: "1292643",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1292643",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1292643/v4c28-the-capacity-for-independance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

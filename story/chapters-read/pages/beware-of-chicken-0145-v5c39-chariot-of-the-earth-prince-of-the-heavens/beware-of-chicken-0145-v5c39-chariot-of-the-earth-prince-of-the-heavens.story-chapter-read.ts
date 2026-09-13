@@ -12,9 +12,13 @@ export const bewareOfChicken0145V5c39ChariotOfTheEarthPrinceOfTheHeavens = {
   unit: "words",
   completedAt: "2026-06-29T18:56:15.858Z",
   publishedAt: "2024-09-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1787240/v5c39-chariot-of-the-earth-prince-of-the-heavens",
-  externalId: "1787240",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1787240",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1787240/v5c39-chariot-of-the-earth-prince-of-the-heavens",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const bewareOfChicken0098InterludeInheritanceOfRaggedLeaves = {
   unit: "words",
   completedAt: "2026-06-29T18:54:50.488Z",
   publishedAt: "2024-02-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1528881/interlude-inheritance-of-ragged-leaves",
-  externalId: "1528881",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1528881",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1528881/interlude-inheritance-of-ragged-leaves",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

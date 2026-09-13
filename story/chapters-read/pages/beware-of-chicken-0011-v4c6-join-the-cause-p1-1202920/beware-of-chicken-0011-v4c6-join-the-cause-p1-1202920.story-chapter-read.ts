@@ -8,11 +8,15 @@ export const bewareOfChicken0011V4c6JoinTheCauseP11202920 = {
   position: 11,
   publishedAt: "2023-05-05",
   unit: "words",
-  externalId: "1202920",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1202920",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1202920/v4c6-join-the-cause-p1",
+    },
+  ],
   title: "v4c6: Join the Cause p1",
   ownLength: 2411,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1202920/v4c6-join-the-cause-p1",
   prose: "txt",
 } as const satisfies StoryChapterRead

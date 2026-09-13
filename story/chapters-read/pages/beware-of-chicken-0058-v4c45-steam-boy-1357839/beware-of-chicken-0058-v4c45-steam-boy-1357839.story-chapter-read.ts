@@ -8,11 +8,15 @@ export const bewareOfChicken0058V4c45SteamBoy1357839 = {
   position: 58,
   publishedAt: "2023-09-29",
   unit: "words",
-  externalId: "1357839",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1357839",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1357839/v4c45-steam-boy",
+    },
+  ],
   title: "v4c45: Steam Boy",
   ownLength: 2954,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1357839/v4c45-steam-boy",
   prose: "txt",
 } as const satisfies StoryChapterRead

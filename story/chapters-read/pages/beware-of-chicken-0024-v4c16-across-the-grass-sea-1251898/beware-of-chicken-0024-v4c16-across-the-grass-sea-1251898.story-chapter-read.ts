@@ -8,11 +8,15 @@ export const bewareOfChicken0024V4c16AcrossTheGrassSea1251898 = {
   position: 24,
   publishedAt: "2023-06-20",
   unit: "words",
-  externalId: "1251898",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1251898",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1251898/v4c16-across-the-grass-sea",
+    },
+  ],
   title: "v4c16: Across the Grass Sea",
   ownLength: 1667,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1251898/v4c16-across-the-grass-sea",
   prose: "txt",
 } as const satisfies StoryChapterRead

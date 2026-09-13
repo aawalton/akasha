@@ -8,11 +8,15 @@ export const beneathTheDragoneyeMoons0014ChapterTheWish1875405 = {
   position: 14,
   publishedAt: "2022-04-01",
   unit: "words",
-  externalId: "875405",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "875405",
+      externalLink:
+        "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/875405/chapter-the-wish-1",
+    },
+  ],
   title: "Chapter ??? - The Wish 1",
   ownLength: 2309,
-  externalLink:
-    "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/875405/chapter-the-wish-1",
   prose: "txt",
 } as const satisfies StoryChapterRead

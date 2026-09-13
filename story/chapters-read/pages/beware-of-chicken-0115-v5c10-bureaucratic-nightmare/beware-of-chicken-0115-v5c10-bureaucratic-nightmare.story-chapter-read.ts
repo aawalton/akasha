@@ -12,9 +12,13 @@ export const bewareOfChicken0115V5c10BureaucraticNightmare = {
   unit: "words",
   completedAt: "2026-06-29T18:55:26.736Z",
   publishedAt: "2024-06-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1665673/v5c10-bureaucratic-nightmare",
-  externalId: "1665673",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1665673",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1665673/v5c10-bureaucratic-nightmare",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

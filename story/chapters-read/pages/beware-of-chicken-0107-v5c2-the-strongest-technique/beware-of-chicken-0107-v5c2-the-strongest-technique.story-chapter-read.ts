@@ -12,9 +12,13 @@ export const bewareOfChicken0107V5c2TheStrongestTechnique = {
   unit: "words",
   completedAt: "2026-06-29T18:55:09.668Z",
   publishedAt: "2024-05-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1639444/v5c2-the-strongest-technique",
-  externalId: "1639444",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1639444",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1639444/v5c2-the-strongest-technique",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

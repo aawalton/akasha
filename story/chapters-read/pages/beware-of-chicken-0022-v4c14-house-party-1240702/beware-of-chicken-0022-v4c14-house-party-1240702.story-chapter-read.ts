@@ -8,11 +8,15 @@ export const bewareOfChicken0022V4c14HouseParty1240702 = {
   position: 22,
   publishedAt: "2023-06-10",
   unit: "words",
-  externalId: "1240702",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1240702",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1240702/v4c14-house-party",
+    },
+  ],
   title: "v4c14: House Party",
   ownLength: 2303,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1240702/v4c14-house-party",
   prose: "txt",
 } as const satisfies StoryChapterRead

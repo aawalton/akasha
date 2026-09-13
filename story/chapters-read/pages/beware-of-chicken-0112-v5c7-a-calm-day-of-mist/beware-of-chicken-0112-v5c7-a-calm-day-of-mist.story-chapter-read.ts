@@ -12,9 +12,13 @@ export const bewareOfChicken0112V5c7ACalmDayOfMist = {
   unit: "words",
   completedAt: "2026-06-29T18:55:20.615Z",
   publishedAt: "2024-05-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1655095/v5c7-a-calm-day-of-mist",
-  externalId: "1655095",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1655095",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1655095/v5c7-a-calm-day-of-mist",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

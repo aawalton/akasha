@@ -8,11 +8,15 @@ export const bewareOfChicken0027V4c19ThePlansOfMen1260111 = {
   position: 27,
   publishedAt: "2023-06-28",
   unit: "words",
-  externalId: "1260111",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1260111",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1260111/v4c19-the-plans-of-men",
+    },
+  ],
   title: "v4c19: The Plans of Men",
   ownLength: 2044,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1260111/v4c19-the-plans-of-men",
   prose: "txt",
 } as const satisfies StoryChapterRead

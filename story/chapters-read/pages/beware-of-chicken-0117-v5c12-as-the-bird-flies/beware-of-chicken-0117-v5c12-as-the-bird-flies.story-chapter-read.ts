@@ -12,9 +12,13 @@ export const bewareOfChicken0117V5c12AsTheBirdFlies = {
   unit: "words",
   completedAt: "2026-06-29T18:55:31.009Z",
   publishedAt: "2024-06-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1672171/v5c12-as-the-bird-flies",
-  externalId: "1672171",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1672171",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1672171/v5c12-as-the-bird-flies",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

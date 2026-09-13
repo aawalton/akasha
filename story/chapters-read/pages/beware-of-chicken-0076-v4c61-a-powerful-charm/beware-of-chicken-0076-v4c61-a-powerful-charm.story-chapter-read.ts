@@ -12,9 +12,13 @@ export const bewareOfChicken0076V4c61APowerfulCharm = {
   unit: "words",
   completedAt: "2026-06-29T18:54:01.548Z",
   publishedAt: "2023-11-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1421464/v4c61-a-powerful-charm",
-  externalId: "1421464",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1421464",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1421464/v4c61-a-powerful-charm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

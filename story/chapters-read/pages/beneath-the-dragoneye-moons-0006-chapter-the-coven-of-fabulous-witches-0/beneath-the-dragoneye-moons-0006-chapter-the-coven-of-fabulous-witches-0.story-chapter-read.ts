@@ -10,9 +10,13 @@ export const beneathTheDragoneyeMoons0006ChapterTheCovenOfFabulousWitches0 = {
   ownLength: 254,
   unit: "words",
   publishedAt: "2021-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/656177/chapter-the-coven-of-fabulous-witches-0",
-  externalId: "656177",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "656177",
+      externalLink:
+        "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/656177/chapter-the-coven-of-fabulous-witches-0",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

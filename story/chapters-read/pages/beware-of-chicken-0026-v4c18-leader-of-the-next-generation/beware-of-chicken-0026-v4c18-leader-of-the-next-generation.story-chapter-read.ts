@@ -12,9 +12,13 @@ export const bewareOfChicken0026V4c18LeaderOfTheNextGeneration = {
   unit: "words",
   completedAt: "2026-06-29T18:52:13.592Z",
   publishedAt: "2023-06-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1257104/v4c18-leader-of-the-next-generation",
-  externalId: "1257104",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1257104",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1257104/v4c18-leader-of-the-next-generation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

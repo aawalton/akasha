@@ -12,9 +12,13 @@ export const bewareOfChicken0088V4c72RelfectionsAndOneLastTask = {
   unit: "words",
   completedAt: "2026-06-29T18:54:28.246Z",
   publishedAt: "2024-01-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1486686/v4c72-relfections-and-one-last-task",
-  externalId: "1486686",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1486686",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1486686/v4c72-relfections-and-one-last-task",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

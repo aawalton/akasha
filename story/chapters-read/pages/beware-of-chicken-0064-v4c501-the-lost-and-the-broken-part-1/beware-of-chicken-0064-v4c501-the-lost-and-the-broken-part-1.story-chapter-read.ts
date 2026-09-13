@@ -8,11 +8,15 @@ export const bewareOfChicken0064V4c501TheLostAndTheBrokenPart1 = {
   position: 64,
   publishedAt: "2023-10-18",
   unit: "words",
-  externalId: "1378605",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1378605",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1378605/v4c501-the-lost-and-the-broken-part-1",
+    },
+  ],
   title: "v4c50.1: The Lost and the Broken Part 1",
   ownLength: 2253,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1378605/v4c501-the-lost-and-the-broken-part-1",
   prose: "txt",
 } as const satisfies StoryChapterRead

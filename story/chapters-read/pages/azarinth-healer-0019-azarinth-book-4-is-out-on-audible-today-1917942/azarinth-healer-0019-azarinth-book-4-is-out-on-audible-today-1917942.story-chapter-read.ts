@@ -8,11 +8,15 @@ export const azarinthHealer0019AzarinthBook4IsOutOnAudibleToday1917942 = {
   position: 19,
   publishedAt: "2024-11-22",
   unit: "words",
-  externalId: "1917942",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1917942",
+      externalLink:
+        "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1917942/azarinth-book-4-is-out-on-audible-today",
+    },
+  ],
   title: "Azarinth Book 4 is out on audible today!",
   ownLength: 156,
-  externalLink:
-    "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1917942/azarinth-book-4-is-out-on-audible-today",
   prose: "txt",
 } as const satisfies StoryChapterRead

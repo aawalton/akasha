@@ -12,9 +12,13 @@ export const bewareOfChicken0156V5c50TheCracksShow = {
   unit: "words",
   completedAt: "2026-06-29T18:56:39.213Z",
   publishedAt: "2024-10-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1838284/v5c50-the-cracks-show",
-  externalId: "1838284",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1838284",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1838284/v5c50-the-cracks-show",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

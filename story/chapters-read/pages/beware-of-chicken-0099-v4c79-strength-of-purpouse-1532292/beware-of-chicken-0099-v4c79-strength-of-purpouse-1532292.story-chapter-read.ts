@@ -8,11 +8,15 @@ export const bewareOfChicken0099V4c79StrengthOfPurpouse1532292 = {
   position: 99,
   publishedAt: "2024-02-26",
   unit: "words",
-  externalId: "1532292",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1532292",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1532292/v4c79-strength-of-purpouse",
+    },
+  ],
   title: "v4c79: Strength of Purpouse",
   ownLength: 2145,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1532292/v4c79-strength-of-purpouse",
   prose: "txt",
 } as const satisfies StoryChapterRead

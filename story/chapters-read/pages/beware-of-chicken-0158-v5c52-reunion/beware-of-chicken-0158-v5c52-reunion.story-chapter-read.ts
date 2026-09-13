@@ -12,9 +12,13 @@ export const bewareOfChicken0158V5c52Reunion = {
   unit: "words",
   completedAt: "2026-06-29T18:56:43.309Z",
   publishedAt: "2024-10-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1855827/v5c52-reunion",
-  externalId: "1855827",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1855827",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1855827/v5c52-reunion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

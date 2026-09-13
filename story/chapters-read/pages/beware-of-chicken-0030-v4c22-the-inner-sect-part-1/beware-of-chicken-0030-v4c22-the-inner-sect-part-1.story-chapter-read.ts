@@ -12,9 +12,13 @@ export const bewareOfChicken0030V4c22TheInnerSectPart1 = {
   unit: "words",
   completedAt: "2026-06-29T18:52:22.169Z",
   publishedAt: "2023-07-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1267377/v4c22-the-inner-sect-part-1",
-  externalId: "1267377",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1267377",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1267377/v4c22-the-inner-sect-part-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

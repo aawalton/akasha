@@ -10,9 +10,13 @@ export const azarinthHealer0008AzarinthHealerBookOneIsOutToday = {
   ownLength: 146,
   unit: "words",
   publishedAt: "2022-12-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1053282/azarinth-healer-book-one-is-out-today",
-  externalId: "1053282",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1053282",
+      externalLink:
+        "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1053282/azarinth-healer-book-one-is-out-today",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const bewareOfChicken0123V5c17InTheEmperorSNameLeaveNoneAlive = {
   unit: "words",
   completedAt: "2026-06-29T18:55:43.795Z",
   publishedAt: "2024-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1699933/v5c17-in-the-emperors-name-leave-none-alive",
-  externalId: "1699933",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1699933",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1699933/v5c17-in-the-emperors-name-leave-none-alive",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

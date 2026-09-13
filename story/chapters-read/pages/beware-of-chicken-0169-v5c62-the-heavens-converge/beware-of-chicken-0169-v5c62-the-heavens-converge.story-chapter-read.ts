@@ -12,9 +12,13 @@ export const bewareOfChicken0169V5c62TheHeavensConverge = {
   unit: "words",
   completedAt: "2026-06-29T18:57:06.376Z",
   publishedAt: "2024-11-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1895119/v5c62-the-heavens-converge",
-  externalId: "1895119",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1895119",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1895119/v5c62-the-heavens-converge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const bewareOfChicken0036V4c27TheLifeBefore = {
   unit: "words",
   completedAt: "2026-06-29T18:52:34.997Z",
   publishedAt: "2023-07-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1289463/v4c27-the-life-before",
-  externalId: "1289463",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1289463",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1289463/v4c27-the-life-before",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

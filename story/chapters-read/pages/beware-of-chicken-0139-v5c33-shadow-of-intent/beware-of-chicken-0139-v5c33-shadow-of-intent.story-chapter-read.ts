@@ -12,9 +12,13 @@ export const bewareOfChicken0139V5c33ShadowOfIntent = {
   unit: "words",
   completedAt: "2026-06-29T18:56:03.507Z",
   publishedAt: "2024-08-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1757466/v5c33-shadow-of-intent",
-  externalId: "1757466",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1757466",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1757466/v5c33-shadow-of-intent",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

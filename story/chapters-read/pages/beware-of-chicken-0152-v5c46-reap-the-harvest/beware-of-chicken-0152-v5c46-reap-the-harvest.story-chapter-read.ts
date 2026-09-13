@@ -12,9 +12,13 @@ export const bewareOfChicken0152V5c46ReapTheHarvest = {
   unit: "words",
   completedAt: "2026-06-29T18:56:30.334Z",
   publishedAt: "2024-09-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1822101/v5c46-reap-the-harvest",
-  externalId: "1822101",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1822101",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1822101/v5c46-reap-the-harvest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

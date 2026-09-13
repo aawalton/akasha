@@ -12,9 +12,13 @@ export const bewareOfChicken0082V4c67TheTrial = {
   unit: "words",
   completedAt: "2026-06-29T18:54:14.451Z",
   publishedAt: "2023-12-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1436168/v4c67-the-trial",
-  externalId: "1436168",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1436168",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1436168/v4c67-the-trial",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

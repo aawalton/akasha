@@ -8,11 +8,15 @@ export const bewareOfChicken0085V4c70Aftermath11445639 = {
   position: 85,
   publishedAt: "2023-12-17",
   unit: "words",
-  externalId: "1445639",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1445639",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1445639/v4c70-aftermath-1",
+    },
+  ],
   title: "v4c70: Aftermath 1",
   ownLength: 1782,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1445639/v4c70-aftermath-1",
   prose: "txt",
 } as const satisfies StoryChapterRead

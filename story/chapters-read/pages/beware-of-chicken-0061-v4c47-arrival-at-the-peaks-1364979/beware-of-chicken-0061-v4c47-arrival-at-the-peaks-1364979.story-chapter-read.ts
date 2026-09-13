@@ -8,11 +8,15 @@ export const bewareOfChicken0061V4c47ArrivalAtThePeaks1364979 = {
   position: 61,
   publishedAt: "2023-10-05",
   unit: "words",
-  externalId: "1364979",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1364979",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1364979/v4c47-arrival-at-the-peaks",
+    },
+  ],
   title: "v4c47: Arrival at the Peaks",
   ownLength: 2003,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1364979/v4c47-arrival-at-the-peaks",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -8,11 +8,15 @@ export const bewareOfChicken0074V4c59Escalate1407049 = {
   position: 74,
   publishedAt: "2023-11-13",
   unit: "words",
-  externalId: "1407049",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1407049",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1407049/v4c59-escalate",
+    },
+  ],
   title: "v4c59: Escalate",
   ownLength: 2358,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1407049/v4c59-escalate",
   prose: "txt",
 } as const satisfies StoryChapterRead

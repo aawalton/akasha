@@ -12,9 +12,13 @@ export const bewareOfChicken0114V5c9ThePlum = {
   unit: "words",
   completedAt: "2026-06-29T18:55:24.664Z",
   publishedAt: "2024-06-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1661630/v5c9-the-plum",
-  externalId: "1661630",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1661630",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1661630/v5c9-the-plum",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

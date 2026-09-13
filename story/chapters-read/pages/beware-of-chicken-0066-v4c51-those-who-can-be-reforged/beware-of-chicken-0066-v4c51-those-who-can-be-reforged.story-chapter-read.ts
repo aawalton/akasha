@@ -12,9 +12,13 @@ export const bewareOfChicken0066V4c51ThoseWhoCanBeReforged = {
   unit: "words",
   completedAt: "2026-06-29T18:53:39.672Z",
   publishedAt: "2023-10-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1383826/v4c51-those-who-can-be-reforged",
-  externalId: "1383826",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1383826",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1383826/v4c51-those-who-can-be-reforged",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

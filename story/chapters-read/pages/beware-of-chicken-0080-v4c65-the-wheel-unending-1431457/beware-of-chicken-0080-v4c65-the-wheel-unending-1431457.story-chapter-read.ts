@@ -8,11 +8,15 @@ export const bewareOfChicken0080V4c65TheWheelUnending1431457 = {
   position: 80,
   publishedAt: "2023-12-04",
   unit: "words",
-  externalId: "1431457",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1431457",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1431457/v4c65-the-wheel-unending",
+    },
+  ],
   title: "v4c65: The Wheel Unending",
   ownLength: 2213,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1431457/v4c65-the-wheel-unending",
   prose: "txt",
 } as const satisfies StoryChapterRead

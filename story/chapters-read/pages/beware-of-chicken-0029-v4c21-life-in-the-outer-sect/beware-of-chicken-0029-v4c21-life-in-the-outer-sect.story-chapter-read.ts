@@ -12,9 +12,13 @@ export const bewareOfChicken0029V4c21LifeInTheOuterSect = {
   unit: "words",
   completedAt: "2026-06-29T18:52:19.996Z",
   publishedAt: "2023-07-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1264311/v4c21-life-in-the-outer-sect",
-  externalId: "1264311",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1264311",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1264311/v4c21-life-in-the-outer-sect",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

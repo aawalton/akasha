@@ -8,11 +8,15 @@ export const arkendrithyst0504283Epilogue1AReturn1651437 = {
   position: 504,
   publishedAt: "2024-05-26",
   unit: "words",
-  externalId: "1651437",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1651437",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1651437/283-epilogue-1-a-return",
+    },
+  ],
   title: "283 - Epilogue 1, A Return",
   ownLength: 17578,
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1651437/283-epilogue-1-a-return",
   prose: "txt",
 } as const satisfies StoryChapterRead

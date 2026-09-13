@@ -8,11 +8,15 @@ export const bewareOfChicken0017V4c11TheSeniorDisciple1224170 = {
   position: 17,
   publishedAt: "2023-05-25",
   unit: "words",
-  externalId: "1224170",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1224170",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1224170/v4c11-the-senior-disciple",
+    },
+  ],
   title: "v4c11: The Senior Disciple",
   ownLength: 3907,
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1224170/v4c11-the-senior-disciple",
   prose: "txt",
 } as const satisfies StoryChapterRead

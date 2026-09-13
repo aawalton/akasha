@@ -12,9 +12,13 @@ export const bewareOfChicken0070V4c55LuckOfACultivator = {
   unit: "words",
   completedAt: "2026-06-29T18:53:49.132Z",
   publishedAt: "2023-11-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1393532/v4c55-luck-of-a-cultivator",
-  externalId: "1393532",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1393532",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1393532/v4c55-luck-of-a-cultivator",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

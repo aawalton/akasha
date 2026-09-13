@@ -10,9 +10,13 @@ export const azarinthHealer0021HeyAllBook5OfAzarinthHealerIsOutTodayOnAudibleKi 
   ownLength: 925,
   unit: "words",
   publishedAt: "2025-04-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/2241843/hey-all-book-5-of-azarinth-healer-is-out-today",
-  externalId: "2241843",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2241843",
+      externalLink:
+        "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/2241843/hey-all-book-5-of-azarinth-healer-is-out-today",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
