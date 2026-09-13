@@ -6,6 +6,7 @@ export const hooksInventorySettings = {
   slug: "hooks-inventory-settings",
   definition: "one player's inventory settings, read and written for a browser",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
