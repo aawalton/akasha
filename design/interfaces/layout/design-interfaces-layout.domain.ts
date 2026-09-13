@@ -43,7 +43,6 @@ export const designInterfacesLayout = {
     "module/use-column-count",
     "module/use-load-more",
     "module/use-sidebar-state",
-    "module/use-stable-scroll",
     "module/virtual-card-grid",
   ],
 } as const satisfies Domain
