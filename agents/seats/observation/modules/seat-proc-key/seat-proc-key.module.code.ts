@@ -68,10 +68,6 @@ export function seatProcKeyPresence(key: SeatProcKey, procRoot: string = PROC): 
   return reading.ticks === key.startTicks ? "present" : "absent"
 }
 
-export function seatProcKeyStands(key: SeatProcKey): boolean {
-  return seatProcKeyPresence(key) === "present"
-}
-
 export function statedProcessPresence(stated: unknown, procRoot: string = PROC): SeatPresence {
   if (typeof stated !== "string" || stated === "") return "unknown"
   const key = parseSeatProcKey(stated)
