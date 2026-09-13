@@ -61,5 +61,10 @@ export const directiveKept = {
       invariantKind: "absence",
       statement: "Nothing here says which rules an agent is held to.",
     },
+    {
+      invariantKind: "constraint",
+      statement:
+        "Carving out one clean turn this refuses leaves a different clean turn refused instead.",
+    },
   ],
 } as const satisfies ModelTest
