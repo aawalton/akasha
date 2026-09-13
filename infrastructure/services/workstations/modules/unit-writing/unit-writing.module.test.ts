@@ -94,10 +94,17 @@ test("a service stating no schedule is written no timer", () => {
   expect(timerUnitText(pageOf({ systemd: { schedule: "  " } }))).toBe(null)
 })
 
-test("a service needing secrets sources them before it starts", () => {
+test("a service needing secrets reads them before it starts", () => {
   expect(serviceUnitText(pageOf({ needsSecrets: true }))).toContain(
-    'set -a; [ -f "%h/.secrets.env" ] && . "%h/.secrets.env"; exec'
+    'set -a; . "%h/.secrets.env" || exit 78; exec'
   )
+})
+
+test("a service that cannot read the secrets it needs leaves rather than starting without them", () => {
+  const text = serviceUnitText(pageOf({ needsSecrets: true }))
+  expect(text).toContain("|| exit 78")
+  expect(text).not.toContain("[ -f ")
+  expect(text).not.toContain("SuccessExitStatus=143 79 78")
 })
 
 test("a service stating nothing about secrets is handed none", () => {

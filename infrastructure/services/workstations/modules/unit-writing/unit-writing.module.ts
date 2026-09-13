@@ -40,6 +40,15 @@ export const unitWriting = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A service that cannot read those secrets leaves rather than starting without them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The exit that leaving is is not one the unit counts as a success.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A service reaching here has its command lines settled already.",
     },
     {

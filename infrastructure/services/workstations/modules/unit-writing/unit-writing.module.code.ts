@@ -9,6 +9,7 @@ const DEFAULT_RESTART = "always"
 const DEFAULT_TARGET = "default.target"
 const TIMER_TARGET = "timers.target"
 const SECRETS_FILE = "%h/.secrets.env"
+const NO_SECRETS = 78
 
 export const RESTART_EXIT = 79
 
@@ -44,7 +45,7 @@ function header(given: Service): string {
 function shelled(given: Service, one: string): string {
   const inner =
     given.service.needsSecrets === true
-      ? `set -a; [ -f "${SECRETS_FILE}" ] && . "${SECRETS_FILE}"; exec ${one}`
+      ? `set -a; . "${SECRETS_FILE}" || exit ${NO_SECRETS}; exec ${one}`
       : `exec ${one}`
   return `/usr/bin/env bash -c '${inner}'`
 }
