@@ -1,5 +1,10 @@
 import { basename } from "node:path"
 import type { Standing } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts"
+import {
+  looseFilesIn,
+  namedAsAsked,
+  onePageIn,
+} from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/one-page-only/one-page-only.module.code.ts"
 import { saidInside } from "akasha/checks/modules/shape-saying/shape-saying.module.code.ts"
 import type { Held } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
@@ -17,41 +22,20 @@ function besideIn(standing: Standing): Held | null {
 
 export function aDomainWithItsParts(standing: Standing): readonly string[] {
   const beside = besideIn(standing)
-  const page = standing.pages.find((one) => one !== beside)
-  if (page === undefined) return ["it holds no page of its own"]
-  if (standing.pages.length > (beside === null ? 1 : 2)) {
-    return [
-      `it holds ${standing.pages.length} pages rather than one: ${saidInside(standing.folder, standing.pages)}`,
-    ]
-  }
+  const answered = onePageIn(standing, beside)
+  if ("refusal" in answered) return [answered.refusal]
+  const page = answered.page
   if (!standing.extending(String(page.pageTypeSlug), DOMAIN)) {
     return [`\`${page.slug}\` is a \`${page.pageTypeSlug}\` rather than a domain`]
   }
   if (standing.extending(String(page.pageTypeSlug), PAGE_TYPE)) {
     return [`\`${page.slug}\` is a page type, which has a shape of its own`]
   }
-  const said: string[] = []
   const parts = new Set<string>([
     ...standing.parts(page),
     ...(beside === null ? [] : standing.parts(beside)),
   ])
-  const loose = standing.files.filter((one) => !parts.has(one))
-  if (loose.length > 0) {
-    said.push(
-      `${loose.length} files are no part of \`${page.slug}\`: ${saidInside(standing.folder, loose)}`
-    )
-  }
-  const named = basename(standing.folder)
-  const wants = standing.naming(standing.folder)
-  if (wants !== null && wants.name === null) {
-    said.push(
-      `it wants a name this check cannot work out: \`${page.slug}\` calls its folder \`${wants.gives}\`, which is what the page above it is named`
-    )
-  } else if (wants !== null && wants.name !== named) {
-    said.push(
-      `it is named \`${named}\` rather than \`${wants.name}\`, what \`${page.slug}\` calls its folder`
-    )
-  }
+  const said: string[] = [...looseFilesIn(standing, page, parts), ...namedAsAsked(standing, page)]
   const declared = standing.declared(standing.folder)
   const stray = standing.subfolders.filter((at) => {
     if (standing.held.has(basename(at))) return false

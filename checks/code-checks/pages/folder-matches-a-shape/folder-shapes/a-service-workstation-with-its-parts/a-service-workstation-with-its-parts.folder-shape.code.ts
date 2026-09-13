@@ -1,4 +1,8 @@
 import type { Standing } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts"
+import {
+  looseFilesIn,
+  onePageIn,
+} from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/one-page-only/one-page-only.module.code.ts"
 import { saidInside } from "akasha/checks/modules/shape-saying/shape-saying.module.code.ts"
 
 export const HOLDS = ["service-workstations"]
@@ -6,24 +10,14 @@ export const HOLDS = ["service-workstations"]
 const SERVICE = "service-workstation"
 
 export function aServiceWorkstationWithItsParts(standing: Standing): readonly string[] {
-  const page = standing.pages[0]
-  if (page === undefined) return ["it holds no page of its own"]
-  if (standing.pages.length > 1) {
-    return [
-      `it holds ${standing.pages.length} pages rather than one: ${saidInside(standing.folder, standing.pages)}`,
-    ]
-  }
+  const answered = onePageIn(standing)
+  if ("refusal" in answered) return [answered.refusal]
+  const page = answered.page
   if (page.pageTypeSlug !== SERVICE) {
     return [`\`${page.slug}\` is a \`${page.pageTypeSlug}\` rather than a \`${SERVICE}\``]
   }
-  const said: string[] = []
   const parts = new Set<string>(standing.parts(page))
-  const loose = standing.files.filter((one) => !parts.has(one))
-  if (loose.length > 0) {
-    said.push(
-      `${loose.length} files are no part of \`${page.slug}\`: ${saidInside(standing.folder, loose)}`
-    )
-  }
+  const said: string[] = [...looseFilesIn(standing, page, parts)]
   if (standing.subfolders.length > 0) {
     said.push(
       `${standing.subfolders.length} subfolders sit in it, and a service holds none: ${saidInside(standing.folder, standing.subfolders)}`

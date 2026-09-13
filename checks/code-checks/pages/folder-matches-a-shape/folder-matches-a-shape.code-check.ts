@@ -8,6 +8,7 @@ export const folderMatchesAShape = {
   parts: [
     "module/folder-grouping",
     "module/folder-naming",
+    "module/one-page-only",
     "module/one-type-only",
     "module/property-pages",
     "module/shape-loading",
