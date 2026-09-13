@@ -12,7 +12,12 @@ export const jisoo = {
   unit: "minutes",
   status: "following",
   rank: "B",
-  externalId: "6UZ0ba50XreR4TM8u322gs",
-  externalLink: "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs",
-  lastSyncedAt: "2026-02-25",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6UZ0ba50XreR4TM8u322gs",
+      externalLink: "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs",
+      lastSyncedAt: "2026-02-25",
+    },
+  ],
 } as const satisfies Artist

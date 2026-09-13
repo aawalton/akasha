@@ -5,9 +5,13 @@ export const evynneHollens = {
   type: "artist",
   slug: "evynne-hollens",
   title: "Evynne Hollens",
-  externalId: "02c48970-d78f-449c-a391-bbf22a7fddfc",
-  externalLink: "https://musicbrainz.org/artist/02c48970-d78f-449c-a391-bbf22a7fddfc",
   unit: "minutes",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "02c48970-d78f-449c-a391-bbf22a7fddfc",
+      externalLink: "https://musicbrainz.org/artist/02c48970-d78f-449c-a391-bbf22a7fddfc",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
 } as const satisfies Artist

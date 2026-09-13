@@ -12,8 +12,13 @@ export const reneeRapp = {
   unit: "minutes",
   status: "following",
   rank: "B",
-  externalId: "2hUYKu1x0UZQXvzCmggvSn",
-  externalLink: "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2hUYKu1x0UZQXvzCmggvSn",
+      externalLink: "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
   tags: ["Indie Pop Storyteller"],
 } as const satisfies Artist

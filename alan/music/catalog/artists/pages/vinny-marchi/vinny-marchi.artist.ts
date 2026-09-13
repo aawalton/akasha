@@ -12,8 +12,13 @@ export const vinnyMarchi = {
   unit: "minutes",
   status: "following",
   rank: "B",
-  externalId: "5USAMqcbMAzF3HBmeD5pJF",
-  externalLink: "https://open.spotify.com/artist/5USAMqcbMAzF3HBmeD5pJF",
-  lastSyncedAt: "2026-02-25",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5USAMqcbMAzF3HBmeD5pJF",
+      externalLink: "https://open.spotify.com/artist/5USAMqcbMAzF3HBmeD5pJF",
+      lastSyncedAt: "2026-02-25",
+    },
+  ],
   tags: ["Folk"],
 } as const satisfies Artist

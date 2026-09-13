@@ -12,8 +12,13 @@ export const girlInRed = {
   unit: "minutes",
   status: "archived",
   rank: "C",
-  externalId: "3uwAm6vQy7kWPS2bciKWx9",
-  externalLink: "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9",
-  lastSyncedAt: "2025-09-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3uwAm6vQy7kWPS2bciKWx9",
+      externalLink: "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
   tags: ["Indie Pop Storyteller"],
 } as const satisfies Artist

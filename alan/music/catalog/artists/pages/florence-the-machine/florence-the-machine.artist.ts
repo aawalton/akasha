@@ -12,8 +12,13 @@ export const florenceTheMachine = {
   unit: "minutes",
   status: "following",
   rank: "B",
-  externalId: "1moxjboGR7GNWYIMWsRjgG",
-  externalLink: "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG",
-  lastSyncedAt: "2026-02-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1moxjboGR7GNWYIMWsRjgG",
+      externalLink: "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG",
+      lastSyncedAt: "2026-02-14",
+    },
+  ],
   tags: ["Indie Pop Storyteller"],
 } as const satisfies Artist

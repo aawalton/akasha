@@ -12,8 +12,13 @@ export const ledZeppelin = {
   unit: "minutes",
   status: "archived",
   rank: "C",
-  externalId: "36QJpDe2go2KgaRleHCDTp",
-  externalLink: "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp",
-  lastSyncedAt: "2025-09-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "36QJpDe2go2KgaRleHCDTp",
+      externalLink: "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
   tags: ["Classic Rock"],
 } as const satisfies Artist

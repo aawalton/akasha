@@ -12,8 +12,13 @@ export const elvisPresley = {
   unit: "minutes",
   status: "archived",
   rank: "C",
-  externalId: "43ZHCT0cAZBISjO8DG9PnE",
-  externalLink: "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE",
-  lastSyncedAt: "2025-09-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "43ZHCT0cAZBISjO8DG9PnE",
+      externalLink: "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
   tags: ["Classic Rock"],
 } as const satisfies Artist

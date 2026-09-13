@@ -12,8 +12,13 @@ export const lindseyStirling = {
   unit: "minutes",
   status: "following",
   rank: "B",
-  externalId: "378dH6EszOLFShpRzAQkVM",
-  externalLink: "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM",
-  lastSyncedAt: "2026-02-08",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "378dH6EszOLFShpRzAQkVM",
+      externalLink: "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM",
+      lastSyncedAt: "2026-02-08",
+    },
+  ],
   tags: ["Instrumental"],
 } as const satisfies Artist

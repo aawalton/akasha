@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquare = {
   unit: "minutes",
   status: "in-progress",
   rank: "B",
-  externalId: "1GRl6sRyLg9ToOohIE2wW5",
-  externalLink: "https://open.spotify.com/artist/1GRl6sRyLg9ToOohIE2wW5",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1GRl6sRyLg9ToOohIE2wW5",
+      externalLink: "https://open.spotify.com/artist/1GRl6sRyLg9ToOohIE2wW5",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Artist

@@ -12,7 +12,12 @@ export const sabrinaCarpenter = {
   unit: "minutes",
   status: "following",
   rank: "B",
-  externalId: "74KM79TiuVKeVCqs8QtB0B",
-  externalLink: "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B",
-  lastSyncedAt: "2026-02-25",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "74KM79TiuVKeVCqs8QtB0B",
+      externalLink: "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B",
+      lastSyncedAt: "2026-02-25",
+    },
+  ],
 } as const satisfies Artist

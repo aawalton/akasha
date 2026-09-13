@@ -12,8 +12,13 @@ export const tomLehrer = {
   unit: "minutes",
   status: "completed",
   rank: "B",
-  externalId: "5iNvbRVX9W8t1RpD2SHpAO",
-  externalLink: "https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO",
-  lastSyncedAt: "2025-09-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5iNvbRVX9W8t1RpD2SHpAO",
+      externalLink: "https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
   tags: ["Satire"],
 } as const satisfies Artist

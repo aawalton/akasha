@@ -12,8 +12,13 @@ export const celticWoman = {
   unit: "minutes",
   status: "following",
   rank: "B",
-  externalId: "6NWtt9pNOL2Gx7kBykdE5x",
-  externalLink: "https://open.spotify.com/artist/6NWtt9pNOL2Gx7kBykdE5x",
-  lastSyncedAt: "2026-02-23",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6NWtt9pNOL2Gx7kBykdE5x",
+      externalLink: "https://open.spotify.com/artist/6NWtt9pNOL2Gx7kBykdE5x",
+      lastSyncedAt: "2026-02-23",
+    },
+  ],
   tags: ["Celtic"],
 } as const satisfies Artist

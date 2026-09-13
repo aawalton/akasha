@@ -12,7 +12,12 @@ export const adele = {
   unit: "minutes",
   status: "following",
   rank: "B",
-  externalId: "4dpARuHxo51G3z768sgnrY",
-  externalLink: "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY",
-  lastSyncedAt: "2026-03-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4dpARuHxo51G3z768sgnrY",
+      externalLink: "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY",
+      lastSyncedAt: "2026-03-13",
+    },
+  ],
 } as const satisfies Artist

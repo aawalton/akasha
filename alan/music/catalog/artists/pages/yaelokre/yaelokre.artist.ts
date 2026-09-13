@@ -12,8 +12,13 @@ export const yaelokre = {
   unit: "minutes",
   status: "following",
   rank: "B",
-  externalId: "3rRyfgGByetsaaujkjQ7rY",
-  externalLink: "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3rRyfgGByetsaaujkjQ7rY",
+      externalLink: "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
   tags: ["Folk"],
 } as const satisfies Artist

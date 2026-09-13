@@ -12,8 +12,13 @@ export const greenDay = {
   unit: "minutes",
   status: "archived",
   rank: "D",
-  externalId: "7oPftvlwr6VrsViSDV7fJY",
-  externalLink: "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7oPftvlwr6VrsViSDV7fJY",
+      externalLink: "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
   tags: ["Alternative Rock"],
 } as const satisfies Artist

@@ -12,8 +12,13 @@ export const epicTheMusical = {
   unit: "minutes",
   status: "completed",
   rank: "B",
-  externalId: "2kdmTOXncgNHSuYVMhdd5I",
-  externalLink: "https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I",
-  lastSyncedAt: "2025-09-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2kdmTOXncgNHSuYVMhdd5I",
+      externalLink: "https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
   tags: ["Musical Theater"],
 } as const satisfies Artist

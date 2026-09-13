@@ -12,8 +12,13 @@ export const backstreetBoys = {
   unit: "minutes",
   status: "completed",
   rank: "C",
-  externalId: "5rSXSAkZ67PYJSvpUpkOr7",
-  externalLink: "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7",
-  lastSyncedAt: "2025-09-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5rSXSAkZ67PYJSvpUpkOr7",
+      externalLink: "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
   tags: ["Boy Bands"],
 } as const satisfies Artist

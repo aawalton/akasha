@@ -12,8 +12,13 @@ export const jadaFacer = {
   unit: "minutes",
   status: "archived",
   rank: "C",
-  externalId: "4k51JgB5G0e33QYVpbcPuf",
-  externalLink: "https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf",
-  lastSyncedAt: "2025-09-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4k51JgB5G0e33QYVpbcPuf",
+      externalLink: "https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
   tags: ["Modern Pop"],
 } as const satisfies Artist

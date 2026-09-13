@@ -12,8 +12,13 @@ export const rockapella = {
   unit: "minutes",
   status: "following",
   rank: "C",
-  externalId: "1AFSUleuDTapVhm5zUf4ix",
-  externalLink: "https://open.spotify.com/artist/1AFSUleuDTapVhm5zUf4ix",
-  lastSyncedAt: "2026-03-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1AFSUleuDTapVhm5zUf4ix",
+      externalLink: "https://open.spotify.com/artist/1AFSUleuDTapVhm5zUf4ix",
+      lastSyncedAt: "2026-03-09",
+    },
+  ],
   tags: ["Classic Rock"],
 } as const satisfies Artist

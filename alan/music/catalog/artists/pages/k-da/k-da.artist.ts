@@ -12,7 +12,12 @@ export const kDa = {
   unit: "minutes",
   status: "following",
   rank: "A",
-  externalId: "4gOc8TsQed9eqnqJct2c5v",
-  externalLink: "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4gOc8TsQed9eqnqJct2c5v",
+      externalLink: "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Artist

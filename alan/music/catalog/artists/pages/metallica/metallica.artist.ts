@@ -12,8 +12,13 @@ export const metallica = {
   unit: "minutes",
   status: "archived",
   rank: "C",
-  externalId: "2ye2Wgw4gimLv2eAKyk1NB",
-  externalLink: "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB",
-  lastSyncedAt: "2025-09-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2ye2Wgw4gimLv2eAKyk1NB",
+      externalLink: "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
   tags: ["Alternative Rock"],
 } as const satisfies Artist

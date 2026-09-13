@@ -12,8 +12,13 @@ export const weirdAlYankovic = {
   unit: "minutes",
   status: "archived",
   rank: "C",
-  externalId: "1bDWGdIC2hardyt55nlQgG",
-  externalLink: "https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1bDWGdIC2hardyt55nlQgG",
+      externalLink: "https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
   tags: ["Satire"],
 } as const satisfies Artist

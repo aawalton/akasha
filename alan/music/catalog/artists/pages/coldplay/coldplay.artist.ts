@@ -12,8 +12,13 @@ export const coldplay = {
   unit: "minutes",
   status: "following",
   rank: "B",
-  externalId: "4gzpq5DPGxSnKTe4SA8HAU",
-  externalLink: "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4gzpq5DPGxSnKTe4SA8HAU",
+      externalLink: "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
   tags: ["Alternative Rock"],
 } as const satisfies Artist

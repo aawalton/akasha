@@ -12,8 +12,13 @@ export const snailMail = {
   unit: "minutes",
   status: "archived",
   rank: "D",
-  externalId: "4QkSD9TRUnMtI8Fq1jXJJe",
-  externalLink: "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe",
-  lastSyncedAt: "2025-09-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4QkSD9TRUnMtI8Fq1jXJJe",
+      externalLink: "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
   tags: ["Indie Pop Storyteller"],
 } as const satisfies Artist

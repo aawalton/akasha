@@ -12,8 +12,13 @@ export const nickelCreek = {
   unit: "minutes",
   status: "following",
   rank: "B",
-  externalId: "3bcLBxvaI7GsBzGp3WHnwQ",
-  externalLink: "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3bcLBxvaI7GsBzGp3WHnwQ",
+      externalLink: "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
   tags: ["Folk"],
 } as const satisfies Artist

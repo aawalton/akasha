@@ -12,8 +12,13 @@ export const nsync = {
   unit: "minutes",
   status: "archived",
   rank: "C",
-  externalId: "6Ff53KvcvAj5U7Z1vojB5o",
-  externalLink: "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o",
-  lastSyncedAt: "2025-09-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Ff53KvcvAj5U7Z1vojB5o",
+      externalLink: "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
   tags: ["Boy Bands"],
 } as const satisfies Artist

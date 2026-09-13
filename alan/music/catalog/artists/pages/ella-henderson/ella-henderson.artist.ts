@@ -12,7 +12,12 @@ export const ellaHenderson = {
   unit: "minutes",
   status: "archived",
   rank: "C",
-  externalId: "7nDsS0l5ZAzMedVRKPP8F1",
-  externalLink: "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7nDsS0l5ZAzMedVRKPP8F1",
+      externalLink: "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Artist

@@ -12,8 +12,13 @@ export const gracieAbrams = {
   unit: "minutes",
   status: "following",
   rank: "B",
-  externalId: "4tuJ0bMpJh08umKkEXKUI5",
-  externalLink: "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5",
-  lastSyncedAt: "2026-02-08",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4tuJ0bMpJh08umKkEXKUI5",
+      externalLink: "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5",
+      lastSyncedAt: "2026-02-08",
+    },
+  ],
   tags: ["Indie Pop Storyteller"],
 } as const satisfies Artist

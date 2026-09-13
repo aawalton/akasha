@@ -12,8 +12,13 @@ export const alexandria = {
   unit: "minutes",
   status: "following",
   rank: "A",
-  externalId: "0SQG4wPVUlfbmbGQfqB47y",
-  externalLink: "https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y",
-  lastSyncedAt: "2026-02-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0SQG4wPVUlfbmbGQfqB47y",
+      externalLink: "https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y",
+      lastSyncedAt: "2026-02-20",
+    },
+  ],
   tags: ["Celtic"],
 } as const satisfies Artist

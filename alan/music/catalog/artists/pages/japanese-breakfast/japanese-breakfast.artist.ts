@@ -12,8 +12,13 @@ export const japaneseBreakfast = {
   unit: "minutes",
   status: "completed",
   rank: "C",
-  externalId: "7MoIc5s9KXolCBH1fy9kkw",
-  externalLink: "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw",
-  lastSyncedAt: "2025-09-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7MoIc5s9KXolCBH1fy9kkw",
+      externalLink: "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
   tags: ["Indie Pop Storyteller"],
 } as const satisfies Artist

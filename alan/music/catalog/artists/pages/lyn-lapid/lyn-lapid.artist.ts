@@ -12,8 +12,13 @@ export const lynLapid = {
   unit: "minutes",
   status: "following",
   rank: "B",
-  externalId: "4pfy05cNNTacuOQ6SiSu4v",
-  externalLink: "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4pfy05cNNTacuOQ6SiSu4v",
+      externalLink: "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
   tags: ["Indie Pop Storyteller"],
 } as const satisfies Artist

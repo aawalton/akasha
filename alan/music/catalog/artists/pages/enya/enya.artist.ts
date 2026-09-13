@@ -12,8 +12,13 @@ export const enya = {
   unit: "minutes",
   status: "following",
   rank: "A",
-  externalId: "6uothxMWeLWIhsGeF7cyo4",
-  externalLink: "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4",
-  lastSyncedAt: "2026-02-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6uothxMWeLWIhsGeF7cyo4",
+      externalLink: "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4",
+      lastSyncedAt: "2026-02-14",
+    },
+  ],
   tags: ["Celtic"],
 } as const satisfies Artist

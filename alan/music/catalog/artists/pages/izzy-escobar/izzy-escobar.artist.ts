@@ -12,7 +12,12 @@ export const izzyEscobar = {
   unit: "minutes",
   status: "following",
   rank: "B",
-  externalId: "63iuP8EumHpqaaMKyi0pxO",
-  externalLink: "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO",
-  lastSyncedAt: "2026-02-16",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "63iuP8EumHpqaaMKyi0pxO",
+      externalLink: "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO",
+      lastSyncedAt: "2026-02-16",
+    },
+  ],
 } as const satisfies Artist

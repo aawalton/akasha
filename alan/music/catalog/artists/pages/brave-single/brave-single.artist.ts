@@ -12,7 +12,12 @@ export const braveSingle = {
   unit: "words",
   status: "not-started",
   publishedAt: "2013-10-24",
-  externalId: "0jwXY6SUdlJRt7VQsOpcrk",
-  externalLink: "https://open.spotify.com/album/0jwXY6SUdlJRt7VQsOpcrk",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0jwXY6SUdlJRt7VQsOpcrk",
+      externalLink: "https://open.spotify.com/album/0jwXY6SUdlJRt7VQsOpcrk",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Artist

@@ -12,8 +12,13 @@ export const michaelJackson = {
   unit: "minutes",
   status: "archived",
   rank: "C",
-  externalId: "3fMbdgg4jU18AjLCKBhRSm",
-  externalLink: "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3fMbdgg4jU18AjLCKBhRSm",
+      externalLink: "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
   tags: ["Classic Rock"],
 } as const satisfies Artist

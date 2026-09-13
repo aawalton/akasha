@@ -12,8 +12,13 @@ export const pentatonix = {
   unit: "minutes",
   status: "following",
   rank: "B",
-  externalId: "26AHtbjWKiwYzsoGoUZq53",
-  externalLink: "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53",
-  lastSyncedAt: "2026-02-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "26AHtbjWKiwYzsoGoUZq53",
+      externalLink: "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53",
+      lastSyncedAt: "2026-02-09",
+    },
+  ],
   tags: ["Instrumental"],
 } as const satisfies Artist

@@ -12,8 +12,13 @@ export const jennaRaine = {
   unit: "minutes",
   status: "following",
   rank: "B",
-  externalId: "3aHe9rMa5HFTjXHw8tEz0A",
-  externalLink: "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3aHe9rMa5HFTjXHw8tEz0A",
+      externalLink: "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
   tags: ["Indie Pop Storyteller"],
 } as const satisfies Artist

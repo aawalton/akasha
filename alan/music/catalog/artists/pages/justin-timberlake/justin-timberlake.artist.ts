@@ -12,8 +12,13 @@ export const justinTimberlake = {
   unit: "minutes",
   status: "archived",
   rank: "D",
-  externalId: "31TPClRtHm23RisEBtV3X7",
-  externalLink: "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7",
-  lastSyncedAt: "2025-09-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "31TPClRtHm23RisEBtV3X7",
+      externalLink: "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
   tags: ["Boy Bands"],
 } as const satisfies Artist

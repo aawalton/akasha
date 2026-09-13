@@ -12,8 +12,13 @@ export const emei = {
   unit: "minutes",
   status: "following",
   rank: "B",
-  externalId: "7E2aQQjErJocovYFjYLzWU",
-  externalLink: "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7E2aQQjErJocovYFjYLzWU",
+      externalLink: "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
   tags: ["Indie Pop Storyteller"],
 } as const satisfies Artist

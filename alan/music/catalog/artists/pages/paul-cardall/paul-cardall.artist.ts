@@ -12,8 +12,13 @@ export const paulCardall = {
   unit: "minutes",
   status: "following",
   rank: "B",
-  externalId: "7FQRbf8gbKw8KZQZAJWxH2",
-  externalLink: "https://open.spotify.com/artist/7FQRbf8gbKw8KZQZAJWxH2",
-  lastSyncedAt: "2026-03-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7FQRbf8gbKw8KZQZAJWxH2",
+      externalLink: "https://open.spotify.com/artist/7FQRbf8gbKw8KZQZAJWxH2",
+      lastSyncedAt: "2026-03-01",
+    },
+  ],
   tags: ["Instrumental"],
 } as const satisfies Artist

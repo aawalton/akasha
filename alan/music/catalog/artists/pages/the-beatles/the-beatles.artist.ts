@@ -12,8 +12,13 @@ export const theBeatles = {
   unit: "minutes",
   status: "archived",
   rank: "D",
-  externalId: "3WrFJ7ztbogyGnTHbHJFl2",
-  externalLink: "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
-  lastSyncedAt: "2025-09-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3WrFJ7ztbogyGnTHbHJFl2",
+      externalLink: "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
   tags: ["Classic Rock"],
 } as const satisfies Artist

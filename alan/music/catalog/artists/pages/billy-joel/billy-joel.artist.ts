@@ -12,8 +12,13 @@ export const billyJoel = {
   unit: "minutes",
   status: "archived",
   rank: "C",
-  externalId: "6zFYqv1mOsgBRQbae3JJ9e",
-  externalLink: "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e",
-  lastSyncedAt: "2025-09-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6zFYqv1mOsgBRQbae3JJ9e",
+      externalLink: "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
   tags: ["Classic Rock"],
 } as const satisfies Artist

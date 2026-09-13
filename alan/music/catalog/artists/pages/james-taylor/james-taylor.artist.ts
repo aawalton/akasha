@@ -12,8 +12,13 @@ export const jamesTaylor = {
   unit: "minutes",
   status: "following",
   rank: "B",
-  externalId: "0vn7UBvSQECKJm2817Yf1P",
-  externalLink: "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P",
-  lastSyncedAt: "2026-02-23",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0vn7UBvSQECKJm2817Yf1P",
+      externalLink: "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P",
+      lastSyncedAt: "2026-02-23",
+    },
+  ],
   tags: ["Classic Rock"],
 } as const satisfies Artist

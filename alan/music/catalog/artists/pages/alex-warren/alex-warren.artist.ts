@@ -12,7 +12,12 @@ export const alexWarren = {
   unit: "minutes",
   status: "following",
   rank: "A",
-  externalId: "0fTSzq9jAh4c36UVb4V7CB",
-  externalLink: "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB",
-  lastSyncedAt: "2026-02-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0fTSzq9jAh4c36UVb4V7CB",
+      externalLink: "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
 } as const satisfies Artist

@@ -12,8 +12,13 @@ export const linkinPark = {
   unit: "minutes",
   status: "archived",
   rank: "C",
-  externalId: "6XyY86QOPPrYVGvF9ch6wz",
-  externalLink: "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz",
-  lastSyncedAt: "2025-09-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6XyY86QOPPrYVGvF9ch6wz",
+      externalLink: "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
   tags: ["Alternative Rock"],
 } as const satisfies Artist

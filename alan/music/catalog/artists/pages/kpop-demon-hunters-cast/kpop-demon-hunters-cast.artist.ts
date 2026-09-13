@@ -12,7 +12,12 @@ export const kpopDemonHuntersCast = {
   unit: "minutes",
   status: "following",
   rank: "S",
-  externalId: "7mW7Tv7NvywKKXqafZo0Lc",
-  externalLink: "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7mW7Tv7NvywKKXqafZo0Lc",
+      externalLink: "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Artist

@@ -10,7 +10,12 @@ export const byuVocalPoint = {
   ownProgress: 0,
   unit: "minutes",
   status: "not-started",
-  externalId: "5zhxxb24WP6q6rbLHAn2UQ",
-  externalLink: "https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5zhxxb24WP6q6rbLHAn2UQ",
+      externalLink: "https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Artist

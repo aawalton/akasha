@@ -12,8 +12,13 @@ export const katyPerry = {
   unit: "minutes",
   status: "completed",
   rank: "D",
-  externalId: "6jJ0s89eD6GaHleKKya26X",
-  externalLink: "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X",
-  lastSyncedAt: "2025-09-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6jJ0s89eD6GaHleKKya26X",
+      externalLink: "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
   tags: ["Modern Pop"],
 } as const satisfies Artist

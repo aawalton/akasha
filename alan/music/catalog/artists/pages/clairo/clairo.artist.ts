@@ -12,8 +12,13 @@ export const clairo = {
   unit: "minutes",
   status: "archived",
   rank: "C",
-  externalId: "3l0CmX0FuQjFxr8SK7Vqag",
-  externalLink: "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag",
-  lastSyncedAt: "2025-09-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3l0CmX0FuQjFxr8SK7Vqag",
+      externalLink: "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
   tags: ["Indie Pop Storyteller"],
 } as const satisfies Artist

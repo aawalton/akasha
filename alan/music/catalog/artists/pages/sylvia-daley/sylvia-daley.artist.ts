@@ -12,7 +12,12 @@ export const sylviaDaley = {
   unit: "minutes",
   status: "following",
   rank: "A",
-  externalId: "03dXd2zBbBJvX60Oap8Lgo",
-  externalLink: "https://open.spotify.com/artist/03dXd2zBbBJvX60Oap8Lgo",
-  lastSyncedAt: "2026-02-17",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "03dXd2zBbBJvX60Oap8Lgo",
+      externalLink: "https://open.spotify.com/artist/03dXd2zBbBJvX60Oap8Lgo",
+      lastSyncedAt: "2026-02-17",
+    },
+  ],
 } as const satisfies Artist

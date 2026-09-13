@@ -12,8 +12,13 @@ export const thePianoGuys = {
   unit: "minutes",
   status: "following",
   rank: "A",
-  externalId: "0jW6R8CVyVohuUJVcuweDI",
-  externalLink: "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI",
-  lastSyncedAt: "2026-02-23",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0jW6R8CVyVohuUJVcuweDI",
+      externalLink: "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI",
+      lastSyncedAt: "2026-02-23",
+    },
+  ],
   tags: ["Instrumental"],
 } as const satisfies Artist

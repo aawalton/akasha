@@ -12,8 +12,13 @@ export const ejae = {
   unit: "minutes",
   status: "following",
   rank: "A",
-  externalId: "0RMJOzHDhAKY1o2j0W0vxY",
-  externalLink: "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY",
-  lastSyncedAt: "2026-03-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0RMJOzHDhAKY1o2j0W0vxY",
+      externalLink: "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY",
+      lastSyncedAt: "2026-03-09",
+    },
+  ],
   tags: ["K-Pop", "Modern Pop"],
 } as const satisfies Artist

@@ -12,8 +12,13 @@ export const phoebeBridgers = {
   unit: "minutes",
   status: "following",
   rank: "B",
-  externalId: "1r1uxoy19fzMxunt3ONAkG",
-  externalLink: "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG",
-  lastSyncedAt: "2026-02-07",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1r1uxoy19fzMxunt3ONAkG",
+      externalLink: "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG",
+      lastSyncedAt: "2026-02-07",
+    },
+  ],
   tags: ["Indie Pop Storyteller"],
 } as const satisfies Artist

@@ -12,8 +12,13 @@ export const harryStyles = {
   unit: "minutes",
   status: "archived",
   rank: "C",
-  externalId: "6KImCVD70vtIoJWnq6nGn3",
-  externalLink: "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3",
-  lastSyncedAt: "2025-09-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6KImCVD70vtIoJWnq6nGn3",
+      externalLink: "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
   tags: ["Boy Bands"],
 } as const satisfies Artist

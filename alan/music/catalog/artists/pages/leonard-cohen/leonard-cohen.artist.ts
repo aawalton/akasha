@@ -12,8 +12,13 @@ export const leonardCohen = {
   unit: "minutes",
   status: "archived",
   rank: "C",
-  externalId: "5l8VQNuIg0turYE1VtM9zV",
-  externalLink: "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV",
-  lastSyncedAt: "2025-10-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5l8VQNuIg0turYE1VtM9zV",
+      externalLink: "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
   tags: ["Folk"],
 } as const satisfies Artist
