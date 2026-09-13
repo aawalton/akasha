@@ -46,7 +46,7 @@ export const olwenPagesSystemDisplay = {
       statement:
         "A screen finds a page type's component by walking the types that page type extends.",
       workingMemory:
-        "The groups are landed and nothing reads them. `code/component-property-groups/component-property-group.page-type.ts` holds a component's code, test and test fixtures as tsx. Its six pages sit in `pages/types/properties/` and each is declared optional on `pages/types/page-type.page-type.ts`: page-component, page-badge-component, page-row-component, page-card-component, property-badge-component, property-row-component.",
+        "A group's code is loaded today by `createRequire` on a computed path, which no browser can do, so the search has to end in a barrel of literal imports, written by a generator through `bodiesFor` at `commands/modules/change-preparing/change-preparing.module.code.ts:150`. No module yields a page type's ancestors in order: the climb is inlined at `pages/types/modules/declared-properties/declared-properties.module.code.ts:186` and copied twice in `path-claiming`. Nothing reads the six groups yet.",
     },
   ],
 } as const satisfies Initiative
