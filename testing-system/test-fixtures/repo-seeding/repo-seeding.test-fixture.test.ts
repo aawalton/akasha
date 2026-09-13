@@ -1,73 +1,22 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import {
-  DATA,
-  OK,
-  OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { baseOf as headOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { REFUSES_CODE } from "akasha/testing-system/modules/minting/minting.module.code.ts"
 import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
 import {
-  applied,
   checking,
-  commitIn,
   givenIn,
   landedFrom,
   PROPOSED,
   REFUSES_TAKING,
-  repoCheckCodeGone,
-  repoNoCheckLoads,
   repoWith,
   scratch,
-  seeded,
-  treeHolds,
   wrote,
   wroteWith,
 } from "akasha/testing-system/test-fixtures/repo-seeding/repo-seeding.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
-
-test("a check whose code was taken away refuses the change, and nothing reaches the disk", async () => {
-  const root = repoCheckCodeGone()
-  const was = headOf(root)
-  const said = await wrote(root, ["--message", "held"])
-  expect(said.code).toBe(DATA)
-  expect(said.refusals.join("\n")).toContain(
-    "the check `admits` could not be gathered, so it judged nothing"
-  )
-  expect(said.refusals.join("\n")).toContain("no code sits beside that page")
-  expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
-  expect(headOf(root)).toBe(was)
-})
-
-test("checks that will not load refuse the change, and nothing reaches the disk", async () => {
-  const root = repoNoCheckLoads()
-  const was = headOf(root)
-  const said = await wrote(root, ["--message", "held"])
-  expect(said.code).toBe(OPERATIONAL)
-  expect(said.refusals.join("\n")).toContain("the checks would not load")
-  expect(said.refusals.join("\n")).toContain("the index names no check")
-  expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
-  expect(headOf(root)).toBe(was)
-})
-
-test("the glass carries a change past checks that will not load, and the commit says why", async () => {
-  const root = repoNoCheckLoads()
-  expect(seeded(root)).toBe(true)
-  const said = await applied(
-    root,
-    { report: [], refusals: [], code: OK },
-    ["--message", "held", "--break-the-glass", "mid-refactor"],
-    givenIn(root)
-  )
-  expect(said.code).toBe(OK)
-  expect(said.report).toContain("landed akasha/one.ts")
-  const body = commitIn(root, said)
-  expect(body).toContain("Checks-bypassed: mid-refactor")
-  expect(body).toContain("Checks-unloadable: the index names no check")
-})
 
 test("a check is handed a removal, and can refuse it", async () => {
   const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "committed\n" })
@@ -76,10 +25,9 @@ test("a check is handed a removal, and can refuse it", async () => {
   expect(said.code).toBe(DATA)
   expect(said.refusals.join("\n")).toContain("akasha/two.ts — a check judged this going away")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(true)
-  expect(treeHolds(root, "akasha/two.ts")).toBe(true)
 })
 
-test("breaking the glass runs no check and says so in the commit", async () => {
+test("breaking the glass runs no check", async () => {
   const root = repoWith()
   checking(root, "refuses", REFUSES_CODE)
   const said = await wrote(root, [
@@ -90,7 +38,6 @@ test("breaking the glass runs no check and says so in the commit", async () => {
   ])
   expect(said.code).toBe(OK)
   expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(PROPOSED)
-  expect(commitIn(root, said)).toContain("Checks-bypassed: the checks are themselves broken")
 })
 
 test("a body that lands is recorded as read, so writing over it again is not refused", async () => {

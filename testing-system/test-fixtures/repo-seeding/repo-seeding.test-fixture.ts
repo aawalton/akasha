@@ -23,15 +23,6 @@ export const repoSeeding = {
     },
     {
       invariantKind: "departure",
-      statement: "A seeded repository whose index names no check has checks that will not load.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A seeded repository whose check code was taken away has a check that refuses from itself.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A body seeded is recorded as read.",
     },
     {

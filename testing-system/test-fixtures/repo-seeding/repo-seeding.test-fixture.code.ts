@@ -1,8 +1,6 @@
-import { cpSync, existsSync, rmSync } from "node:fs"
-import { join } from "node:path"
+import { cpSync, existsSync } from "node:fs"
 import { blobIdOf, recordRead } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { appendEdits } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Phase } from "akasha/checks/modules/checking/checking.module.code.ts"
 import {
   answeredWith,
@@ -27,10 +25,8 @@ import {
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import {
-  identitiesTakenFrom,
   noImportersFiled,
   pageFiled,
-  valueTakenFrom,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { INDEX_AT } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { bytesOf as bytes } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
@@ -49,8 +45,6 @@ export const REPO_AT = rootOf(import.meta.dir)
 
 const TWO_AT = "akasha/two.ts"
 
-const CHECK_CODE_AT = "akasha/admits.code-check.code.ts"
-
 export const PROPOSED = "proposed\n"
 
 export const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
@@ -60,8 +54,6 @@ const SEAT_AT = "akasha/agents/seats/pages/tester.seat.ts"
 const SEAT = "seat"
 
 const TESTER = "tester"
-
-const CHECK = "code-check"
 
 const ADMITS = "admits"
 
@@ -127,19 +119,6 @@ export function repoWith(
   return repoAt(scratch.rootFor("akasha-repo-seeding-"), named)
 }
 
-export function repoCheckCodeGone(): string {
-  const root = repoWith()
-  rmSync(join(root, CHECK_CODE_AT))
-  return root
-}
-
-export function repoNoCheckLoads(): string {
-  const root = repoWith()
-  identitiesTakenFrom(root, CHECK)
-  valueTakenFrom(root, CHECK, ADMITS)
-  return root
-}
-
 export function checking(
   root: string,
   slug: string,
@@ -164,22 +143,10 @@ export const givenIn = (root: string) => ({
   agentId: AGENT,
 })
 
-export const bodyIn = (root: string): string => put(root, "body.txt", PROPOSED)
-
-export function heldIn(root: string, path: string): string {
-  return git(root, ["show", `HEAD:${path}`])
-}
-
-export function treeHolds(root: string, path: string): boolean {
-  return git(root, ["ls-tree", "--name-only", "HEAD", path]).trim() === path
-}
-
 const APPLYING: Readonly<Record<string, string>> = {
   "--message": "message",
   "--break-the-glass": "break-the-glass",
 }
-
-const COMMITTED = "committed as "
 
 function applyingIn(argv: readonly string[]): Readonly<Record<string, string>> {
   const said: Record<string, string> = {}
@@ -233,12 +200,6 @@ export async function wroteWith(
   return await applied(root, await landedFrom(argv, given), argv, given)
 }
 
-export function commitIn(root: string, said: Answer, pretty = "%B"): string {
-  const line = said.report.find((one) => one.startsWith(COMMITTED))
-  if (line === undefined) return ""
-  return git(root, ["log", "-1", `--pretty=${pretty}`, line.slice(COMMITTED.length)])
-}
-
 export async function drafting(
   root: string,
   said: readonly string[],
@@ -259,23 +220,3 @@ export async function wrote(
 }
 
 export const THREE_AT = "akasha/three.ts"
-
-export const holds = (root: string, path: string): boolean => existsSync(join(root, path))
-
-export function seeded(root: string): boolean {
-  const held = [
-    {
-      kind: "replace" as const,
-      path: "akasha/one.ts",
-      contentFrom: "committed\n",
-      contentTo: PROPOSED,
-    },
-  ]
-  return !("why" in appendEdits(root, SEAT_AT, held))
-}
-
-export function reaching(held: number[]): () => undefined {
-  return (): undefined => {
-    held.push(1)
-  }
-}
