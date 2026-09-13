@@ -43,17 +43,6 @@ export function classifyRateLimitDeath(text: string): boolean {
   return lastAssistant.isApiErrorMessage === true && lastAssistant.apiErrorStatus === 429
 }
 
-export function extractServedModel(text: string): string | null {
-  let served: string | null = null
-  for (const msg of parseSessionLines(text)) {
-    if (msg.type !== "assistant") continue
-    if (msg.isApiErrorMessage === true) continue
-    const model = msg.message.model
-    if (model?.startsWith("claude-")) served = model
-  }
-  return served
-}
-
 const SessionIdLine = shape.looseObject({ sessionId: shape.string().min(1) })
 
 export function readTranscriptSessionId(text: string): string | null {
