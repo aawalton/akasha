@@ -147,7 +147,7 @@ test("a page type whose page holds no body refuses", async () => {
   expect(said.refused ?? "").toMatch(/holds no body/)
 })
 
-test("each part of the retype is reached at the address that part names", async () => {
+test("the file's move is the one rung reached, the rest being modules called", async () => {
   const reached: string[] = []
   const root = repoIn()
   const world = worldAt(root, textIn(root), (over, at, given) => {
@@ -158,13 +158,5 @@ test("each part of the retype is reached at the address that part names", async 
   const said = await changePagePageType(world, { at: ONE_PAGE, to: SPARE_TYPE })
 
   expect(said.refused).toBeNull()
-  expect(new Set(reached)).toEqual(
-    new Set([
-      "change-mechanical-file/move-file",
-      "change-mechanical-file-content/change-imports",
-      "change-mechanical-file-content/rename-page-address",
-      "change-mechanical-file-content/change-page-page-type",
-      "change-mechanical-file-content/change-file-content",
-    ])
-  )
+  expect(new Set(reached)).toEqual(new Set(["change-mechanical-file/move-file"]))
 })

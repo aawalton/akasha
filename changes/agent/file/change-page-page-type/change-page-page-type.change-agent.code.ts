@@ -1,20 +1,21 @@
+import { restatedIn } from "akasha/changes/modules/address-restating/address-restating.module.code.ts"
 import {
   gathered,
   missing,
   refusing,
 } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { repointed } from "akasha/changes/modules/import-repointing/import-repointing.module.code.ts"
 import { claimedIn } from "akasha/changes/modules/page-claiming/page-claiming.module.code.ts"
 import { pageIn } from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
-import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { pageTypeRestated } from "akasha/changes/modules/page-type-restating/page-type-restating.module.code.ts"
+import {
+  carrying,
+  reach,
+  type World,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { importingOf } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-
-const CHANGE_IMPORTS = "change-mechanical-file-content/change-imports"
-
-const CHANGE_PAGE_PAGE_TYPE = "change-mechanical-file-content/change-page-page-type"
-
-const RENAME_PAGE_ADDRESS = "change-mechanical-file-content/rename-page-address"
 
 const MOVE_FILE = "change-mechanical-file/move-file"
 
@@ -78,38 +79,35 @@ export async function changePagePageType(
   const movedOver = Object.fromEntries(moved)
   const carried: Answer[] = []
   let over = world
-  const addressed = await reach(over, RENAME_PAGE_ADDRESS, {
-    was: `${said.pageType}/${said.slug}`,
-    now: `${type.slug}/${said.slug}`,
-  })
-  if (addressed.said.refused !== null) return addressed.said
-  carried.push(addressed.said)
-  over = addressed.world
-  const restated = await reach(over, CHANGE_PAGE_PAGE_TYPE, { at: given.at, to: given.to })
-  if (restated.said.refused !== null) return restated.said
-  carried.push(restated.said)
-  over = restated.world
+  const was = `${said.pageType}/${said.slug}`
+  const addressed = restatedIn(over, new Map([[was, `${type.slug}/${said.slug}`]]))
+  if (addressed.refused !== null) return addressed
+  carried.push(addressed)
+  over = carrying(over, addressed)
+  const restated = pageTypeRestated(over, { at: given.at, to: given.to })
+  if (restated.refused !== null) return restated
+  carried.push(restated)
+  over = carrying(over, restated)
   for (const [one, next] of moved) {
     if (over.bodyOf(one) === null) return refusing(`\`${one}\` could not be read`)
-    const carrying = await reach(over, MOVE_FILE, { from: one, to: next })
-    if (carrying.said.refused !== null) return carrying.said
-    carried.push(carrying.said)
-    over = carrying.world
-    const answer = await reach(over, CHANGE_IMPORTS, { was: one, now: next, moved: movedOver })
-    if (answer.said.refused !== null) return answer.said
-    carried.push(answer.said)
-    over = answer.world
+    const held = await reach(over, MOVE_FILE, { from: one, to: next })
+    if (held.said.refused !== null) return held.said
+    carried.push(held.said)
+    over = held.world
+    const answer = repointed(over, { was: one, now: next, moved: movedOver })
+    if (answer.refused !== null) return answer
+    carried.push(answer)
+    over = carrying(over, answer)
   }
   for (const path of reading.importers) {
     if (moved.has(path)) continue
-    const text = over.textOf(path)
-    if (text === null) {
+    if (over.textOf(path) === null) {
       return refusing(`\`${path}\` names a path that moved and could not be read`)
     }
-    const answer = await reach(over, CHANGE_IMPORTS, { was: path, now: path, moved: movedOver })
-    if (answer.said.refused !== null) return answer.said
-    carried.push(answer.said)
-    over = answer.world
+    const answer = repointed(over, { was: path, now: path, moved: movedOver })
+    if (answer.refused !== null) return answer
+    carried.push(answer)
+    over = carrying(over, answer)
   }
   return gathered(carried)
 }

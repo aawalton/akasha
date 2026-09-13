@@ -31,7 +31,11 @@ export const changePagePageType = {
     {
       invariantKind: "departure",
       statement:
-        "The body's page type and the type it satisfies are restated by the change this reaches.",
+        "The modules restating an address, a page type and a body's names are called rather than reached.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The body's page type and the type it satisfies are restated in the same answer.",
     },
     {
       invariantKind: "departure",
