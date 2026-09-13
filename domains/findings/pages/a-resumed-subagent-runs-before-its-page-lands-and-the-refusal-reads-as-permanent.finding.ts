@@ -4,7 +4,7 @@ export const aResumedSubagentRunsBeforeItsPageLandsAndTheRefusalReadsAsPermanent
   id: "01a0914c-261e-768e-978f-ed20b3c7333b",
   type: "finding",
   slug: "a-resumed-subagent-runs-before-its-page-lands-and-the-refusal-reads-as-permanent",
-  domain: "domain/seat-system",
+  domain: "page-type/seat",
   claim:
     "A subagent's page is put up at SubagentStart and taken away at SubagentStop by the `state-subagent` hook. Both are detached landings it does not wait for, while it begins its turn at once, so a resumed subagent can run with no page: the stop has taken the page away and the put-up has not landed. With no page every change call is refused through `noPageSaid`. Three causes sit behind that one refusal and cannot be told apart: the put-up is still queued, the put-up refused, or no put-up was ever fired. The first two clear on a start event rather than on elapsed time, each SubagentStart firing a fresh put-up; whether waiting inside one turn clears them is unknown. `landingAgain` retries only where the reason names the lock or a put-back, so a landing refused for anything else is retried by nothing. A take-down also drops the reading record, so the agent owes its required reading again.",
   evidence:
