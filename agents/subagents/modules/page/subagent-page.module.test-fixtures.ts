@@ -1,4 +1,5 @@
 import { join } from "node:path"
+import type { Went } from "akasha/agents/subagents/modules/landing-again/subagent-landing-again.module.code.ts"
 import { standingSubagentsOf } from "akasha/agents/subagents/modules/page/subagent-page.module.code.ts"
 import { slugOf } from "akasha/agents/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
 import { took } from "akasha/agents/subagents/modules/presence/subagent-presence.module.code.ts"
@@ -6,7 +7,6 @@ import {
   landingNaming,
   RETURNED,
 } from "akasha/agents/subagents/modules/presence/subagent-presence.module.test-fixtures.ts"
-import type { Went } from "akasha/agents/subagents/modules/subagent-landing-again/subagent-landing-again.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   listedFiled,

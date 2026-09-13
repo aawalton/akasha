@@ -4,6 +4,10 @@ import { join } from "node:path"
 import { readingIn } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import { refusalsKept } from "akasha/agents/modules/refusals-keeping/refusals-keeping.module.code.ts"
 import {
+  landingAgain,
+  worthAnotherTry,
+} from "akasha/agents/subagents/modules/landing-again/subagent-landing-again.module.code.ts"
+import {
   agentIdOf,
   pathOf,
   slugOf,
@@ -64,10 +68,6 @@ import {
   whyIn,
 } from "akasha/agents/subagents/modules/presence/subagent-presence.module.test-fixtures.ts"
 import { refusalsSaid } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
-import {
-  landingAgain,
-  worthAnotherTry,
-} from "akasha/agents/subagents/modules/subagent-landing-again/subagent-landing-again.module.code.ts"
 import { livenessOf } from "akasha/agents/subagents/modules/subagent-liveness/subagent-liveness.module.code.ts"
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
