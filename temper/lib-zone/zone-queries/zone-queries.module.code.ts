@@ -1,5 +1,5 @@
-import { asZoneDataEntry } from "akasha/temper/lib-zone/zone-casts/zone-casts.module.code.ts"
-import { LIB_NAME } from "akasha/temper/lib-zone/zone-constants/zone-constants.module.code.ts"
+import { asZoneDataEntry } from "akasha/temper/lib-zone/modules/zone-casts/zone-casts.module.code.ts"
+import { LIB_NAME } from "akasha/temper/lib-zone/modules/zone-constants/zone-constants.module.code.ts"
 import {
   checkMaxZoneIndicesAndIds,
   parseLuaCapture,

@@ -16,7 +16,7 @@ import type { ScribingCatalogData } from "akasha/temper/capture-shapes/modules/s
 import type { SkillCatalogLine } from "akasha/temper/capture-shapes/modules/skill-catalog/skill-catalog.module.code.ts"
 import type { TraitResearchCatalogCraftType } from "akasha/temper/capture-shapes/modules/trait-research-catalog/trait-research-catalog.module.code.ts"
 import type { TributePatronCatalogEntry } from "akasha/temper/capture-shapes/modules/tribute-catalog/tribute-catalog.module.code.ts"
-import type { ZoneCompletionCatalogZone } from "akasha/temper/capture-shapes/zone-completion-catalog/zone-completion-catalog.module.code.ts"
+import type { ZoneCompletionCatalogZone } from "akasha/temper/capture-shapes/modules/zone-completion-catalog/zone-completion-catalog.module.code.ts"
 
 export interface CatalogPayload {
   achievementCatalog?: AchievementCatalogData

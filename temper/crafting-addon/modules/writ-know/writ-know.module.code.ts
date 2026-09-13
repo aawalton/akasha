@@ -4,14 +4,14 @@ import type {
   Know,
   KnowArgs,
   KnowKind,
-} from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
-import { KNOW } from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
+} from "akasha/temper/crafting-addon/modules/writ-types/writ-types.module.code.ts"
+import { KNOW } from "akasha/temper/crafting-addon/modules/writ-types/writ-types.module.code.ts"
 import {
   COLOR_ORANGE,
   COLOR_RED,
   color,
-} from "akasha/temper/crafting-addon/writ-util/writ-util.module.code.ts"
-import "akasha/temper/crafting-addon/writ-public-api/writ-public-api.module.code.ts"
+} from "akasha/temper/crafting-addon/modules/writ-util/writ-util.module.code.ts"
+import "akasha/temper/crafting-addon/modules/writ-public-api/writ-public-api.module.code.ts"
 
 export function newKnow(args: KnowArgs): Know {
   const o: Know = {

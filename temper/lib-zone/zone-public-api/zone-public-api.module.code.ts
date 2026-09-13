@@ -1,5 +1,5 @@
-import { asGlobalObjectTable } from "akasha/temper/lib-zone/zone-casts/zone-casts.module.code.ts"
-import { LIB_NAME } from "akasha/temper/lib-zone/zone-constants/zone-constants.module.code.ts"
+import { asGlobalObjectTable } from "akasha/temper/lib-zone/modules/zone-casts/zone-casts.module.code.ts"
+import { LIB_NAME } from "akasha/temper/lib-zone/modules/zone-constants/zone-constants.module.code.ts"
 import { lib } from "akasha/temper/lib-zone/zone-lib-state/zone-lib-state.module.code.ts"
 import { UI_STRINGS_EN } from "akasha/temper/lib-zone/zone-ui-strings/zone-ui-strings.module.code.ts"
 

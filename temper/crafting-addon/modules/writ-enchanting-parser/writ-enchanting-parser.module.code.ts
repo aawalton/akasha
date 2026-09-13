@@ -1,15 +1,15 @@
 import { startNewEvent as logStartNewEvent } from "akasha/temper/crafting-addon/modules/writ-log/writ-log.module.code.ts"
-import { matRowFromName } from "akasha/temper/crafting-addon/writ-mat-row/writ-mat-row.module.code.ts"
-import { EN_ASPECT_GOLD } from "akasha/temper/crafting-addon/writ-required-skill/writ-required-skill.module.code.ts"
+import { matRowFromName } from "akasha/temper/crafting-addon/modules/writ-mat-row/writ-mat-row.module.code.ts"
+import { EN_ASPECT_GOLD } from "akasha/temper/crafting-addon/modules/writ-required-skill/writ-required-skill.module.code.ts"
 import type {
   KnowList,
   MatList,
   MatRow,
   Parser,
-} from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
-import { fail } from "akasha/temper/crafting-addon/writ-util/writ-util.module.code.ts"
-import { toWritFields } from "akasha/temper/crafting-addon/writ-writ-fields/writ-writ-fields.module.code.ts"
-import "akasha/temper/crafting-addon/writ-public-api/writ-public-api.module.code.ts"
+} from "akasha/temper/crafting-addon/modules/writ-types/writ-types.module.code.ts"
+import { fail } from "akasha/temper/crafting-addon/modules/writ-util/writ-util.module.code.ts"
+import { toWritFields } from "akasha/temper/crafting-addon/modules/writ-writ-fields/writ-writ-fields.module.code.ts"
+import "akasha/temper/crafting-addon/modules/writ-public-api/writ-public-api.module.code.ts"
 
 interface RUNE {
   name: string

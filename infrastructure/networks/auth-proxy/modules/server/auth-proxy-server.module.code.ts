@@ -18,7 +18,7 @@ import {
   forwardToOutbound,
   openOutbound,
   type WsBridgeData,
-} from "akasha/infrastructure/networks/auth-proxy/ws-bridge/ws-bridge.module.code.ts"
+} from "akasha/infrastructure/networks/auth-proxy/modules/ws-bridge/ws-bridge.module.code.ts"
 import type { Server } from "bun"
 
 async function handler(req: Request, server: Server<WsBridgeData>): Promise<Response | undefined> {

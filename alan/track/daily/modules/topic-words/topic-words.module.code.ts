@@ -6,7 +6,7 @@ import {
   type WriteOutcome,
   writeIntelligenceTopics,
   writeWisdomWords,
-} from "akasha/alan/track/daily/write-daily-points/write-daily-points.module.code.ts"
+} from "akasha/alan/track/daily/modules/write-daily-points/write-daily-points.module.code.ts"
 import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
 import {
   AKASHA,

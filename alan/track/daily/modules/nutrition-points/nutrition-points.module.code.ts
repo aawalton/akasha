@@ -2,7 +2,7 @@ import { loadDayPlantGrams } from "akasha/alan/track/daily/modules/nutrition-gra
 import {
   type WriteOutcome,
   writeNutritionPoints,
-} from "akasha/alan/track/daily/write-daily-points/write-daily-points.module.code.ts"
+} from "akasha/alan/track/daily/modules/write-daily-points/write-daily-points.module.code.ts"
 
 export async function rollupNutritionForDay(
   dayStr: string

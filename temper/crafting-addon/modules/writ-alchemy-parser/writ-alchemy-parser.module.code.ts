@@ -12,19 +12,19 @@ import {
 import {
   listTotal,
   matRowFromName,
-} from "akasha/temper/crafting-addon/writ-mat-row/writ-mat-row.module.code.ts"
+} from "akasha/temper/crafting-addon/modules/writ-mat-row/writ-mat-row.module.code.ts"
 import {
   AL_LABORATORY_USE,
   AL_POTION_4X,
-} from "akasha/temper/crafting-addon/writ-required-skill/writ-required-skill.module.code.ts"
+} from "akasha/temper/crafting-addon/modules/writ-required-skill/writ-required-skill.module.code.ts"
 import type {
   GoldAmount,
   KnowList,
   MatList,
   Parser,
-} from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
-import { fail } from "akasha/temper/crafting-addon/writ-util/writ-util.module.code.ts"
-import { toWritFields } from "akasha/temper/crafting-addon/writ-writ-fields/writ-writ-fields.module.code.ts"
+} from "akasha/temper/crafting-addon/modules/writ-types/writ-types.module.code.ts"
+import { fail } from "akasha/temper/crafting-addon/modules/writ-util/writ-util.module.code.ts"
+import { toWritFields } from "akasha/temper/crafting-addon/modules/writ-writ-fields/writ-writ-fields.module.code.ts"
 
 interface AlchemyParser extends Parser {
   is_poison: boolean | undefined

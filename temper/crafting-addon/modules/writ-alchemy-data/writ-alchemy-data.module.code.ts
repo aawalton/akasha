@@ -1,5 +1,5 @@
 import { add as logAdd } from "akasha/temper/crafting-addon/modules/writ-log/writ-log.module.code.ts"
-import "akasha/temper/crafting-addon/writ-public-api/writ-public-api.module.code.ts"
+import "akasha/temper/crafting-addon/modules/writ-public-api/writ-public-api.module.code.ts"
 
 export interface Effect {
   effect_id: number
@@ -12,7 +12,7 @@ export interface Reagent {
   name: string
   effects: Record<string, Effect | undefined>
   mat?:
-    | import("akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts").MatRow
+    | import("akasha/temper/crafting-addon/modules/writ-types/writ-types.module.code.ts").MatRow
     | undefined
 }
 

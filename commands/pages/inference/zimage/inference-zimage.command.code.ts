@@ -39,12 +39,12 @@ import {
   runComfyGraph,
 } from "akasha/infrastructure/inference/clients/modules/comfy-client/comfy-client.module.code.ts"
 import { drawSeed } from "akasha/infrastructure/inference/clients/modules/inference-seed/inference-seed.module.code.ts"
-import { buildModelGraph } from "akasha/infrastructure/inference/generations/zimage/graph/zimage-graph.module.code.ts"
+import { buildModelGraph } from "akasha/infrastructure/inference/generations/zimage/modules/graph/zimage-graph.module.code.ts"
 import {
   MODEL_IDS,
   MODELS,
   toModelId,
-} from "akasha/infrastructure/inference/generations/zimage/models/zimage-models.module.code.ts"
+} from "akasha/infrastructure/inference/generations/zimage/modules/models/zimage-models.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 
 const DEFAULT_PORT = "8678"

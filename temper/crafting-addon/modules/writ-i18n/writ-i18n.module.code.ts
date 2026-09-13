@@ -4,9 +4,9 @@ import { GEAR } from "akasha/temper/crafting-addon/modules/writ-i18n-gear/writ-i
 import { MAT } from "akasha/temper/crafting-addon/modules/writ-i18n-mat/writ-i18n-mat.module.code.ts"
 import { MOTIF } from "akasha/temper/crafting-addon/modules/writ-i18n-motif/writ-i18n-motif.module.code.ts"
 import { SET } from "akasha/temper/crafting-addon/modules/writ-i18n-set/writ-i18n-set.module.code.ts"
-import { SHORTEN } from "akasha/temper/crafting-addon/writ-ui-strings-shorten/writ-ui-strings-shorten.module.code.ts"
-import { STATIC_STRINGS } from "akasha/temper/crafting-addon/writ-ui-strings-static/writ-ui-strings-static.module.code.ts"
-import "akasha/temper/crafting-addon/writ-public-api/writ-public-api.module.code.ts"
+import { SHORTEN } from "akasha/temper/crafting-addon/modules/writ-ui-strings-shorten/writ-ui-strings-shorten.module.code.ts"
+import { STATIC_STRINGS } from "akasha/temper/crafting-addon/modules/writ-ui-strings-static/writ-ui-strings-static.module.code.ts"
+import "akasha/temper/crafting-addon/modules/writ-public-api/writ-public-api.module.code.ts"
 
 export interface StrHow {
   name: string

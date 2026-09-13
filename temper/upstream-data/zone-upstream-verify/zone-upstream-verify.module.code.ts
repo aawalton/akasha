@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import { GEO_DATA_REFERENCE_TABLE } from "akasha/temper/lib-zone/zone-geo-data/zone-geo-data.module.code.ts"
+import { GEO_DATA_REFERENCE_TABLE } from "akasha/temper/lib-zone/modules/zone-geo-data/zone-geo-data.module.code.ts"
 import { PRELOADED_ZONE_NAMES } from "akasha/temper/lib-zone/zone-names-data/zone-names-data.module.code.ts"
 import { PUBLIC_DUNGEON_MAP_IDS } from "akasha/temper/lib-zone/zone-public-dungeon-map-ids/zone-public-dungeon-map-ids.module.code.ts"
 import { makeLuaVm } from "akasha/temper/lua-runner/modules/lua-vm/lua-vm.module.code.ts"
@@ -11,7 +11,7 @@ import {
   upstreamLeavesIn,
 } from "akasha/temper/upstream-data/modules/upstream-leaf-reading/upstream-leaf-reading.module.code.ts"
 import type { Ruling } from "akasha/temper/upstream-data/modules/upstream-libraries/upstream-libraries.module.code.ts"
-import { ESO_STUBS } from "akasha/temper/upstream-data/zone-eso-stubs/zone-eso-stubs.module.code.ts"
+import { ESO_STUBS } from "akasha/temper/upstream-data/modules/zone-eso-stubs/zone-eso-stubs.module.code.ts"
 
 const DATA_FILE = "LibZone/LibZone_Data.lua"
 

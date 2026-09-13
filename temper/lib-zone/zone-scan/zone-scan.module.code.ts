@@ -1,7 +1,7 @@
 import {
   asSavedVarsTable,
   asZoneDataEntry,
-} from "akasha/temper/lib-zone/zone-casts/zone-casts.module.code.ts"
+} from "akasha/temper/lib-zone/modules/zone-casts/zone-casts.module.code.ts"
 import {
   addDebugInfoSubTable,
   checkMaxZoneIndicesAndIds,

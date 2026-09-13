@@ -4,7 +4,7 @@ import { addonsDir } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso
 import { makeLuaVm } from "akasha/temper/lua-runner/modules/lua-vm/lua-vm.module.code.ts"
 import { SERIALIZE_TS_LUA } from "akasha/temper/upstream-data/modules/ts-lua-serializer/ts-lua-serializer.module.code.ts"
 import { PACKAGE_OF } from "akasha/temper/upstream-data/modules/upstream-libraries/upstream-libraries.module.code.ts"
-import { ESO_STUBS } from "akasha/temper/upstream-data/zone-eso-stubs/zone-eso-stubs.module.code.ts"
+import { ESO_STUBS } from "akasha/temper/upstream-data/modules/zone-eso-stubs/zone-eso-stubs.module.code.ts"
 
 const DATA_SOURCE = join(addonsDir(), "LibZone", "LibZone_Data.lua")
 const GEO_SOURCE = join(addonsDir(), "LibZone", "LibZone_GeoData.lua")
