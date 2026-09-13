@@ -1,9 +1,9 @@
-import { seatNameForAgent } from "akasha/agents/seats/observation/modules/presence-read/seat-presence-read.module.code.ts"
+import { seatNameForAgent } from "akasha/agents/seats/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import {
   formatSeatProcKey,
   parseSeatProcKey,
   readProcStartTicks,
-} from "akasha/agents/seats/observation/modules/proc-key/seat-proc-key.module.code.ts"
+} from "akasha/agents/seats/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 import { akashaObservedOf } from "akasha/agents/seats/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
 import { keepBeside } from "akasha/agents/seats/page/modules/seat-beside/seat-beside.module.code.ts"
 

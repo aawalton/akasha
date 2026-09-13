@@ -1,5 +1,5 @@
-import { agentPresence } from "akasha/agents/seats/observation/modules/presence-read/seat-presence-read.module.code.ts"
-import type { SeatPresence } from "akasha/agents/seats/observation/modules/proc-key/seat-proc-key.module.code.ts"
+import { agentPresence } from "akasha/agents/seats/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
+import type { SeatPresence } from "akasha/agents/seats/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 import {
   frontmatterFromHistory,
   nameFromHistory,

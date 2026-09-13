@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { SeatPresence } from "akasha/agents/seats/observation/modules/proc-key/seat-proc-key.module.code.ts"
+import type { SeatPresence } from "akasha/agents/seats/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 import {
   readSeatTurn,
   type SeatTurnRecords,

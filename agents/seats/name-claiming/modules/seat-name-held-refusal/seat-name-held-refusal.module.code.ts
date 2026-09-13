@@ -2,7 +2,7 @@ import {
   DECLARING_MODULE,
   decideSpawnGuard,
 } from "akasha/agents/seats/name-claiming/modules/spawn-guard/spawn-guard.module.code.ts"
-import type { SeatPresence } from "akasha/agents/seats/observation/modules/proc-key/seat-proc-key.module.code.ts"
+import type { SeatPresence } from "akasha/agents/seats/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 import { ruleText } from "akasha/alan/harness/rules-engine/modules/instructions-rule/instructions-rule.module.code.ts"
 
 export interface NameHolder {

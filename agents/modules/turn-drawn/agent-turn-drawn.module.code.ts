@@ -1,4 +1,4 @@
-import { seatNameForAgent } from "akasha/agents/seats/observation/modules/presence-read/seat-presence-read.module.code.ts"
+import { seatNameForAgent } from "akasha/agents/seats/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import { colorOfState } from "akasha/agents/seats/observation/seat-turn/modules/turn-color/seat-turn-color.module.code.ts"
 import { seatTurnStateOf } from "akasha/agents/seats/observation/seat-turn/modules/turn-state/seat-turn-state.module.code.ts"
 

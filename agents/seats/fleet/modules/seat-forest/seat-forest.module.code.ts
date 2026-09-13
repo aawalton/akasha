@@ -1,5 +1,5 @@
 import { FLEET } from "akasha/agents/seats/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
-import { statedProcessPresence } from "akasha/agents/seats/observation/modules/proc-key/seat-proc-key.module.code.ts"
+import { statedProcessPresence } from "akasha/agents/seats/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 import { pageFromHistory } from "akasha/agents/seats/page/modules/history/seat-page-history.module.code.ts"
 import {
   akashaHolderProcessOf,

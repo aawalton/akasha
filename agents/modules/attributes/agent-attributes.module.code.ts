@@ -1,4 +1,4 @@
-import { seatNameForAgent } from "akasha/agents/seats/observation/modules/presence-read/seat-presence-read.module.code.ts"
+import { seatNameForAgent } from "akasha/agents/seats/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import {
   pageTextOf,
   pageValuesOf,

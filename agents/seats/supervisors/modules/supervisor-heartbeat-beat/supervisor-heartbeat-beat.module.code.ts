@@ -4,7 +4,7 @@ import { composedNameOf } from "akasha/agents/seats/name/modules/seat-rename/sea
 import {
   formatSeatProcKey,
   readSeatProcKey,
-} from "akasha/agents/seats/observation/modules/proc-key/seat-proc-key.module.code.ts"
+} from "akasha/agents/seats/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 import {
   type BeatReport,
   beat,
