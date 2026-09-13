@@ -20,6 +20,20 @@ export function isKnowledgeItem(
   )
 }
 
+export type ResolvedActionSource =
+  | "ordered-rule"
+  | "item-rule"
+  | "item-verdict-outbox"
+  | "locked-unlock"
+  | "no-match"
+
+export interface ResolvedAction {
+  action: string
+  destination?: string
+  ruleSource: ResolvedActionSource
+  ruleIndex?: number
+}
+
 export interface InventoryItemData {
   itemId: number
   itemName: string
@@ -60,6 +74,7 @@ export interface InventoryItemData {
   known?: boolean
   junk?: boolean
   junkable?: boolean
+  resolvedAction?: ResolvedAction
 }
 
 export interface PlacedFurnishingData {

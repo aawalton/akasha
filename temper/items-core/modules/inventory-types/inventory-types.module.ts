@@ -15,5 +15,18 @@ export const inventoryTypes = {
       invariantKind: "departure",
       statement: "A capture taken before a field was recorded leaves that field off the item.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "An item carries as `resolvedAction` the action and place the addon last resolved it to.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An item the addon's rules have not walked carries no `resolvedAction`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A `resolvedAction` names a rule index only where an ordered rule resolved it.",
+    },
   ],
 } as const satisfies Module

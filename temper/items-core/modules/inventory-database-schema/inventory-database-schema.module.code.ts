@@ -43,6 +43,21 @@ const itemSchema = z
     known: z.boolean().optional(),
     junk: z.boolean().optional(),
     junkable: z.boolean().optional(),
+    resolvedAction: z
+      .object({
+        action: z.string(),
+        destination: z.string().optional(),
+        ruleSource: z.enum([
+          "ordered-rule",
+          "item-rule",
+          "item-verdict-outbox",
+          "locked-unlock",
+          "no-match",
+        ]),
+        ruleIndex: z.number().optional(),
+      })
+      .strict()
+      .optional(),
   })
   .strict()
 

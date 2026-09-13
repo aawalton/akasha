@@ -12,6 +12,7 @@ import {
 } from "akasha/temper/items-addon/modules/inventory-item-rule-verdict-store/inventory-item-rule-verdict-store.module.code.ts"
 import { setItemIsJunkGated } from "akasha/temper/items-addon/modules/inventory-junk-queue/inventory-junk-queue.module.code.ts"
 import { refreshLockOverlays } from "akasha/temper/items-addon/modules/inventory-lock-overlay/inventory-lock-overlay.module.code.ts"
+import { recordResolvedAction } from "akasha/temper/items-addon/modules/inventory-resolved-action-record/inventory-resolved-action-record.module.code.ts"
 import {
   applyAction,
   clearAllPendingActions,
@@ -22,6 +23,7 @@ import { dispatchUseActions } from "akasha/temper/items-addon/modules/inventory-
 import { resolveEntryAllocation } from "akasha/temper/items-addon/modules/inventory-rules-eval-allocation/inventory-rules-eval-allocation.module.code.ts"
 import { setRescanInventoryRef } from "akasha/temper/items-addon/modules/inventory-rules-rescan-ref/inventory-rules-rescan-ref.module.code.ts"
 import type { UseAllocation } from "akasha/temper/items-addon/modules/inventory-rules-types/inventory-rules-types.module.code.ts"
+import type { ResolvedActionSource } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import type {
   ItemAction,
   StockScope,
@@ -36,6 +38,7 @@ import {
 import type { ItemFacts } from "akasha/temper/items-rules-eval/modules/item-facts/item-facts.module.code.ts"
 export interface MatchedRuleResult {
   ruleIndex: number
+  ruleSource: ResolvedActionSource
   action: ItemAction
   destination: string | undefined
   targetQuantity: number | undefined
@@ -66,6 +69,7 @@ export function findMatchedRule(
     if (verdictAction !== undefined) {
       return {
         ruleIndex: -1,
+        ruleSource: "item-verdict-outbox",
         action: verdictAction,
         destination: undefined,
         targetQuantity: undefined,
@@ -89,6 +93,7 @@ export function findMatchedRule(
       })
       return {
         ruleIndex: -1,
+        ruleSource: "item-rule",
         action: itemRule.action,
         destination: resolved.destination,
         targetQuantity: resolved.targetQuantity,
@@ -113,6 +118,7 @@ export function findMatchedRule(
     if (getEffectiveItemRuleAction(lockedItemId, compiled) === "unlock") {
       return {
         ruleIndex: -1,
+        ruleSource: "locked-unlock",
         action: "unlock",
         destination: undefined,
         targetQuantity: undefined,
@@ -128,6 +134,7 @@ export function findMatchedRule(
       if (result.verdict.kind !== "matched") continue
       return {
         ruleIndex: i,
+        ruleSource: "ordered-rule",
         action: "unlock",
         destination: result.resolvedDestination ?? rule.destination,
         targetQuantity: undefined,
@@ -157,6 +164,7 @@ export function findMatchedRule(
 
   return {
     ruleIndex: matchedIndex,
+    ruleSource: "ordered-rule",
     action: outcome.action,
     destination: resolved.destination,
     targetQuantity: resolved.targetQuantity,
@@ -187,11 +195,21 @@ function evaluateRulesInner(
 
   const matched = findMatchedRule(bagId, slotIndex, claims, stockGroups)
   if (matched === undefined) {
+    if (getCompiledConfig() !== undefined) {
+      recordResolvedAction(bagId, slotIndex, { action: "nothing", ruleSource: "no-match" })
+    }
     if (!IsItemPlayerLocked(bagId, slotIndex) && IsItemJunk(bagId, slotIndex)) {
       setItemIsJunkGated(bagId, slotIndex, false)
     }
     return undefined
   }
+
+  recordResolvedAction(bagId, slotIndex, {
+    action: matched.action,
+    destination: matched.destination,
+    ruleSource: matched.ruleSource,
+    ruleIndex: matched.ruleSource === "ordered-rule" ? matched.ruleIndex : undefined,
+  })
 
   if (matched.action === "move-to" && matched.destination !== undefined) {
     if (matched.destination.startsWith("character:")) {

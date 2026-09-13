@@ -81,6 +81,7 @@ export const temperItemsAddon = {
     "module/inventory-public-api",
     "module/inventory-quest-annotations",
     "module/inventory-quest-relevance",
+    "module/inventory-resolved-action-record",
     "module/inventory-rules-buy-core",
     "module/inventory-rules-classify",
     "module/inventory-rules-conditions-render",
@@ -191,6 +192,29 @@ export const temperItemsAddon = {
       invariantKind: "departure",
       statement:
         "The reading outside the game resolves an item to the action and place this addon resolves it to.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A captured item the rules walked carries the action and place the rules resolved it to.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That record is written by the run that resolved the item and by no other run.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The rules walk the backpack, the worn items, and the bank's bags at a bank visit.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "The rules walk neither the craft bag, nor house storage, nor the furniture vault, nor a guild bank.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A captured item those bags hold carries no such record.",
     },
     {
       invariantKind: "departure",

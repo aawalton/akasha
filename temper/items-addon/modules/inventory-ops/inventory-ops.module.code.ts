@@ -21,16 +21,22 @@ import {
   getGuildBankLocationKey,
   getLocationKeyForBag,
 } from "akasha/temper/items-addon/modules/inventory-location-keys/inventory-location-keys.module.code.ts"
+import { carryResolvedActionsForward } from "akasha/temper/items-addon/modules/inventory-resolved-action-record/inventory-resolved-action-record.module.code.ts"
 import { ensureLocation } from "akasha/temper/items-addon/modules/inventory-saved-variables/inventory-saved-variables.module.code.ts"
 import { getDatabase } from "akasha/temper/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+import type { ItemData } from "akasha/temper/items-addon/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 
 function scanLocation(key: string, displayName: string, bags: number[]): undefined {
   const location = ensureLocation(key, displayName)
+  const previous: Record<number, Record<number, ItemData>> = {}
   for (const bagId of bags) {
+    previous[bagId] = location.bags[bagId] ?? {}
     location.bags[bagId] = {}
   }
   for (const bagId of bags) {
-    location.bags[bagId] = scanBag(bagId)
+    const scanned = scanBag(bagId)
+    carryResolvedActionsForward(previous[bagId], scanned)
+    location.bags[bagId] = scanned
     const size = GetBagSize(bagId)
     if (size > 0) {
       location.bagSizes[bagId] = size
@@ -51,8 +57,17 @@ export function updateSlot(bagId: number, slotIndex: number): undefined {
     location.bags[bagId] = {}
   }
 
+  const previousItem = location.bags[bagId][slotIndex]
   const item = extractItemData(bagId, slotIndex)
   if (item) {
+    if (
+      previousItem !== undefined &&
+      previousItem.resolvedAction !== undefined &&
+      previousItem.itemLink === item.itemLink &&
+      previousItem.stackCount === item.stackCount
+    ) {
+      item.resolvedAction = previousItem.resolvedAction
+    }
     location.bags[bagId][slotIndex] = item
   } else {
     delete location.bags[bagId][slotIndex]
