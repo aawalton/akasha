@@ -10,8 +10,13 @@ export const defianceOfTheFall0085Chapter1406Rebirth = {
   ownLength: 2945,
   unit: "words",
   publishedAt: "2026-03-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3112752/chapter-1406-rebirth",
-  externalId: "3112752",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3112752",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3112752/chapter-1406-rebirth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const defianceOfTheFall0012Chapter1337EveritDraom = {
   ownLength: 3077,
   unit: "words",
   publishedAt: "2025-06-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2354399/chapter-1337-everit-draom",
-  externalId: "2354399",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2354399",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2354399/chapter-1337-everit-draom",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

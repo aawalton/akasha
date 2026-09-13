@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0068Chapter63Introductio
   ownLength: 1897,
   unit: "words",
   publishedAt: "2026-05-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3423760/chapter-63-introduction",
-  externalId: "3423760",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3423760",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3423760/chapter-63-introduction",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

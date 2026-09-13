@@ -10,8 +10,13 @@ export const defianceOfTheFall0055Chapter1378ExplorersGuild = {
   ownLength: 3043,
   unit: "words",
   publishedAt: "2025-11-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2766637/chapter-1378-explorers-guild",
-  externalId: "2766637",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2766637",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2766637/chapter-1378-explorers-guild",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

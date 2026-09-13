@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0034Chapter32Refuge = {
   ownLength: 2177,
   unit: "words",
   publishedAt: "2026-04-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3282262/chapter-32-refuge",
-  externalId: "3282262",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3282262",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3282262/chapter-32-refuge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

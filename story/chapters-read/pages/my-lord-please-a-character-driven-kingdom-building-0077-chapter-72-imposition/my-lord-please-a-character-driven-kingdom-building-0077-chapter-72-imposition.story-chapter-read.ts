@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0077Chapter72Imposition 
   ownLength: 1920,
   unit: "words",
   publishedAt: "2026-06-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3497789/chapter-72-imposition",
-  externalId: "3497789",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3497789",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3497789/chapter-72-imposition",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

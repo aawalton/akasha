@@ -10,8 +10,13 @@ export const forgeOfDestiny0352Threads312Frost1 = {
   ownLength: 2138,
   unit: "words",
   publishedAt: "2023-06-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1239456/threads-312-frost-1",
-  externalId: "1239456",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1239456",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1239456/threads-312-frost-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

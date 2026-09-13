@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0021Chapter20Collapse = 
   ownLength: 2330,
   unit: "words",
   publishedAt: "2026-04-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3226892/chapter-20-collapse",
-  externalId: "3226892",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3226892",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3226892/chapter-20-collapse",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

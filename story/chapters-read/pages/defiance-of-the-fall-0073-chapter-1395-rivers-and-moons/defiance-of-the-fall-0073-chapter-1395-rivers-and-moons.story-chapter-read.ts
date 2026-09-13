@@ -10,8 +10,13 @@ export const defianceOfTheFall0073Chapter1395RiversAndMoons = {
   ownLength: 3151,
   unit: "words",
   publishedAt: "2026-01-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2933316/chapter-1395-rivers-and-moons",
-  externalId: "2933316",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2933316",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2933316/chapter-1395-rivers-and-moons",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

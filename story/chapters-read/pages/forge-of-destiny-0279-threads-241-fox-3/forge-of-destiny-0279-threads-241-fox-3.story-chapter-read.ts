@@ -10,8 +10,13 @@ export const forgeOfDestiny0279Threads241Fox3 = {
   ownLength: 2255,
   unit: "words",
   publishedAt: "2022-08-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/979472/threads-241-fox-3",
-  externalId: "979472",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "979472",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/979472/threads-241-fox-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

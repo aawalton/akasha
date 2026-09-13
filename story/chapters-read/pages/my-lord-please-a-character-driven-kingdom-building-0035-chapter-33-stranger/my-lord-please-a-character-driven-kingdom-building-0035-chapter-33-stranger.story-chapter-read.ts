@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0035Chapter33Stranger = 
   ownLength: 2151,
   unit: "words",
   publishedAt: "2026-04-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3286464/chapter-33-stranger",
-  externalId: "3286464",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3286464",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3286464/chapter-33-stranger",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

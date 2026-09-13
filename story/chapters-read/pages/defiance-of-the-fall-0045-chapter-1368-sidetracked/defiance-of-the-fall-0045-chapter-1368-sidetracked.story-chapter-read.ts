@@ -10,8 +10,13 @@ export const defianceOfTheFall0045Chapter1368Sidetracked = {
   ownLength: 3247,
   unit: "words",
   publishedAt: "2025-10-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2694497/chapter-1368-sidetracked",
-  externalId: "2694497",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2694497",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2694497/chapter-1368-sidetracked",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

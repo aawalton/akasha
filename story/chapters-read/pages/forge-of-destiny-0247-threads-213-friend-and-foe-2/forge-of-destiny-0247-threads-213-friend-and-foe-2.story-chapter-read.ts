@@ -10,8 +10,13 @@ export const forgeOfDestiny0247Threads213FriendAndFoe2 = {
   ownLength: 2422,
   unit: "words",
   publishedAt: "2022-05-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/903967/threads-213-friend-and-foe-2",
-  externalId: "903967",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "903967",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/903967/threads-213-friend-and-foe-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

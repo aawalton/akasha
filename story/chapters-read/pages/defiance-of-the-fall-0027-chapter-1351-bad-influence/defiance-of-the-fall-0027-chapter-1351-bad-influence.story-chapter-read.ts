@@ -10,8 +10,13 @@ export const defianceOfTheFall0027Chapter1351BadInfluence = {
   ownLength: 3156,
   unit: "words",
   publishedAt: "2025-09-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2587946/chapter-1351-bad-influence",
-  externalId: "2587946",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2587946",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2587946/chapter-1351-bad-influence",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

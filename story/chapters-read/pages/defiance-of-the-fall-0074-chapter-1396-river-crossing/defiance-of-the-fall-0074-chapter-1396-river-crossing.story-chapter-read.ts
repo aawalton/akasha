@@ -10,8 +10,13 @@ export const defianceOfTheFall0074Chapter1396RiverCrossing = {
   ownLength: 3019,
   unit: "words",
   publishedAt: "2026-01-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2939831/chapter-1396-river-crossing",
-  externalId: "2939831",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2939831",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2939831/chapter-1396-river-crossing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

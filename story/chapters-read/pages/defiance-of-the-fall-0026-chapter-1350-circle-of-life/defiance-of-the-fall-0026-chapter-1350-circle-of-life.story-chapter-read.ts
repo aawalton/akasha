@@ -10,8 +10,13 @@ export const defianceOfTheFall0026Chapter1350CircleOfLife = {
   ownLength: 3203,
   unit: "words",
   publishedAt: "2025-09-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2582142/chapter-1350-circle-of-life",
-  externalId: "2582142",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2582142",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2582142/chapter-1350-circle-of-life",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

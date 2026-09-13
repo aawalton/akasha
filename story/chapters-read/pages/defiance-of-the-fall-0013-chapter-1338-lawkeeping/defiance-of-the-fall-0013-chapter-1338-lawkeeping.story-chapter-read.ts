@@ -10,8 +10,13 @@ export const defianceOfTheFall0013Chapter1338Lawkeeping = {
   ownLength: 3145,
   unit: "words",
   publishedAt: "2025-06-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2361724/chapter-1338-lawkeeping",
-  externalId: "2361724",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2361724",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2361724/chapter-1338-lawkeeping",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0029Chapter27Adoption = 
   ownLength: 2203,
   unit: "words",
   publishedAt: "2026-04-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3261338/chapter-27-adoption",
-  externalId: "3261338",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3261338",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3261338/chapter-27-adoption",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

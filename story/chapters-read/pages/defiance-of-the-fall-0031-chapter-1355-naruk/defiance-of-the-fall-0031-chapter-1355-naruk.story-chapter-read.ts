@@ -10,8 +10,13 @@ export const defianceOfTheFall0031Chapter1355Naruk = {
   ownLength: 3321,
   unit: "words",
   publishedAt: "2025-09-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2610765/chapter-1355-naruk",
-  externalId: "2610765",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2610765",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2610765/chapter-1355-naruk",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

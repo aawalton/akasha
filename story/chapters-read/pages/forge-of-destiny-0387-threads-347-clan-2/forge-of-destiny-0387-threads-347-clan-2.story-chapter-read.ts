@@ -10,8 +10,13 @@ export const forgeOfDestiny0387Threads347Clan2 = {
   ownLength: 2412,
   unit: "words",
   publishedAt: "2023-11-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1412077/threads-347-clan-2",
-  externalId: "1412077",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1412077",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1412077/threads-347-clan-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

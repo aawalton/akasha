@@ -10,8 +10,13 @@ export const forgeOfDestiny0220Threads188Return7 = {
   ownLength: 1486,
   unit: "words",
   publishedAt: "2022-02-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/850430/threads-188-return-7",
-  externalId: "850430",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "850430",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/850430/threads-188-return-7",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

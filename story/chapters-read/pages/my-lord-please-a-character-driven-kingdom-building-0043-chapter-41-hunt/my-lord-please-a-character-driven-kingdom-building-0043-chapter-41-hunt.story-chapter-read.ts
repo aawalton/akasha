@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0043Chapter41Hunt = {
   ownLength: 1970,
   unit: "words",
   publishedAt: "2026-04-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3314250/chapter-41-hunt",
-  externalId: "3314250",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3314250",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3314250/chapter-41-hunt",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

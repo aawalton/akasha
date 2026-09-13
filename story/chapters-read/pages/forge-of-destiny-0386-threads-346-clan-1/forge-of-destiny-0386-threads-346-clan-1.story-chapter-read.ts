@@ -10,8 +10,13 @@ export const forgeOfDestiny0386Threads346Clan1 = {
   ownLength: 2396,
   unit: "words",
   publishedAt: "2023-11-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1408303/threads-346-clan-1",
-  externalId: "1408303",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1408303",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1408303/threads-346-clan-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

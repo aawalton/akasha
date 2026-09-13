@@ -10,8 +10,13 @@ export const defianceOfTheFall0003Chapter2ANewWorld = {
   ownLength: 1502,
   unit: "words",
   publishedAt: "2019-05-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359138/chapter-2-a-new-world",
-  externalId: "359138",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "359138",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359138/chapter-2-a-new-world",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

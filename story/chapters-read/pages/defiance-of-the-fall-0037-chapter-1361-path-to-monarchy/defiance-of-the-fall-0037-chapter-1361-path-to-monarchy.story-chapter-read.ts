@@ -10,8 +10,13 @@ export const defianceOfTheFall0037Chapter1361PathToMonarchy = {
   ownLength: 3088,
   unit: "words",
   publishedAt: "2025-10-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2646395/chapter-1361-path-to-monarchy",
-  externalId: "2646395",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2646395",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2646395/chapter-1361-path-to-monarchy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

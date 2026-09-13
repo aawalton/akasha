@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0047Chapter43Misread = {
   ownLength: 2341,
   unit: "words",
   publishedAt: "2026-04-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3321623/chapter-43-misread",
-  externalId: "3321623",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3321623",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3321623/chapter-43-misread",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

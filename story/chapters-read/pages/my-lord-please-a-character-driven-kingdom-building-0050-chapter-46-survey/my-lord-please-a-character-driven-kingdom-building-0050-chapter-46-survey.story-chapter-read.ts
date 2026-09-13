@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0050Chapter46Survey = {
   ownLength: 2062,
   unit: "words",
   publishedAt: "2026-04-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3334172/chapter-46-survey",
-  externalId: "3334172",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3334172",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3334172/chapter-46-survey",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

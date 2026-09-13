@@ -10,8 +10,13 @@ export const defianceOfTheFall0047Chapter1370WelcomeToTheBorder = {
   ownLength: 3017,
   unit: "words",
   publishedAt: "2025-10-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2706947/chapter-1370-welcome-to-the-border",
-  externalId: "2706947",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2706947",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2706947/chapter-1370-welcome-to-the-border",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

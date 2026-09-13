@@ -10,8 +10,13 @@ export const forgeOfDestiny0253Threads219SecondDay3 = {
   ownLength: 2491,
   unit: "words",
   publishedAt: "2022-05-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/917456/threads-219-second-day-3",
-  externalId: "917456",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "917456",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/917456/threads-219-second-day-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

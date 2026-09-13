@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0023Chapter22Adjustment 
   ownLength: 3682,
   unit: "words",
   publishedAt: "2026-04-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3235701/chapter-22-adjustment",
-  externalId: "3235701",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3235701",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3235701/chapter-22-adjustment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const defianceOfTheFall0049Chapter1372PoisedMeadows = {
   ownLength: 3126,
   unit: "words",
   publishedAt: "2025-10-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2717610/chapter-1372-poised-meadows",
-  externalId: "2717610",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2717610",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2717610/chapter-1372-poised-meadows",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

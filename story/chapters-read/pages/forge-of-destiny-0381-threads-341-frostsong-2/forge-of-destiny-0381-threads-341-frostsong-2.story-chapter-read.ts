@@ -10,8 +10,13 @@ export const forgeOfDestiny0381Threads341Frostsong2 = {
   ownLength: 1865,
   unit: "words",
   publishedAt: "2023-10-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1376512/threads-341-frostsong-2",
-  externalId: "1376512",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1376512",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1376512/threads-341-frostsong-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

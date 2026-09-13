@@ -10,8 +10,13 @@ export const defianceOfTheFall0065Chapter1388AKeyInAScar = {
   ownLength: 3046,
   unit: "words",
   publishedAt: "2025-12-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2833560/chapter-1388-a-key-in-a-scar",
-  externalId: "2833560",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2833560",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2833560/chapter-1388-a-key-in-a-scar",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

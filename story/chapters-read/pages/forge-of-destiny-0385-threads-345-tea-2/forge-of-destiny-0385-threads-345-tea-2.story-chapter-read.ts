@@ -10,8 +10,13 @@ export const forgeOfDestiny0385Threads345Tea2 = {
   ownLength: 1579,
   unit: "words",
   publishedAt: "2023-11-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1394646/threads-345-tea-2",
-  externalId: "1394646",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1394646",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1394646/threads-345-tea-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const defianceOfTheFall0056Chapter1379MiracleLodge = {
   ownLength: 3083,
   unit: "words",
   publishedAt: "2025-11-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2772575/chapter-1379-miracle-lodge",
-  externalId: "2772575",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2772575",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2772575/chapter-1379-miracle-lodge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

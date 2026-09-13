@@ -10,8 +10,13 @@ export const defianceOfTheFall0033Chapter1357FateThroughChaos = {
   ownLength: 3129,
   unit: "words",
   publishedAt: "2025-09-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2623392/chapter-1357-fate-through-chaos",
-  externalId: "2623392",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2623392",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2623392/chapter-1357-fate-through-chaos",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

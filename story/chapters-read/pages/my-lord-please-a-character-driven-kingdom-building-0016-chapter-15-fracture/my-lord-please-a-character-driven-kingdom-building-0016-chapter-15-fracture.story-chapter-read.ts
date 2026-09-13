@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0016Chapter15Fracture = 
   ownLength: 2509,
   unit: "words",
   publishedAt: "2026-03-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3212908/chapter-15-fracture",
-  externalId: "3212908",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3212908",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3212908/chapter-15-fracture",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

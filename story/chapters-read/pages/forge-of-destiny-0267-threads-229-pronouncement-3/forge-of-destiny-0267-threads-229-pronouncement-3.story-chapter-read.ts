@@ -10,8 +10,13 @@ export const forgeOfDestiny0267Threads229Pronouncement3 = {
   ownLength: 2535,
   unit: "words",
   publishedAt: "2022-07-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/944028/threads-229-pronouncement-3",
-  externalId: "944028",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "944028",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/944028/threads-229-pronouncement-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

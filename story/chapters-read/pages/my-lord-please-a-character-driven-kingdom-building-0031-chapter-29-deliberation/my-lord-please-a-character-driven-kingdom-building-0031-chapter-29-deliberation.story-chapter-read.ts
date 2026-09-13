@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0031Chapter29Deliberatio
   ownLength: 2119,
   unit: "words",
   publishedAt: "2026-04-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3269246/chapter-29-deliberation",
-  externalId: "3269246",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3269246",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3269246/chapter-29-deliberation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

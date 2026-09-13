@@ -10,8 +10,13 @@ export const forgeOfDestiny0232Threads200Festival1 = {
   ownLength: 2028,
   unit: "words",
   publishedAt: "2022-03-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/869066/threads-200-festival-1",
-  externalId: "869066",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "869066",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/869066/threads-200-festival-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const defianceOfTheFall0082Chapter1403Betrayal = {
   ownLength: 3191,
   unit: "words",
   publishedAt: "2026-01-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2991936/chapter-1403-betrayal",
-  externalId: "2991936",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2991936",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2991936/chapter-1403-betrayal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

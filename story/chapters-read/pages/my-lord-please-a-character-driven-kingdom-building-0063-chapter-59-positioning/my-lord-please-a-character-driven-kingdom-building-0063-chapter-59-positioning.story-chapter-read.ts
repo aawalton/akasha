@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0063Chapter59Positioning
   ownLength: 1980,
   unit: "words",
   publishedAt: "2026-05-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3391678/chapter-59-positioning",
-  externalId: "3391678",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3391678",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3391678/chapter-59-positioning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

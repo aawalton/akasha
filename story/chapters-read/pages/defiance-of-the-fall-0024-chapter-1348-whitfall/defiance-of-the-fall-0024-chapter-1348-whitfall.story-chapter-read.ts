@@ -10,8 +10,13 @@ export const defianceOfTheFall0024Chapter1348Whitfall = {
   ownLength: 2768,
   unit: "words",
   publishedAt: "2025-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2569098/chapter-1348-whitfall",
-  externalId: "2569098",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2569098",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2569098/chapter-1348-whitfall",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

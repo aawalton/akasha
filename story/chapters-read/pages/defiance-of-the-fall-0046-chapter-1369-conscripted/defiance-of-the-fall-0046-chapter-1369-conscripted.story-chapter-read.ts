@@ -10,8 +10,13 @@ export const defianceOfTheFall0046Chapter1369Conscripted = {
   ownLength: 3287,
   unit: "words",
   publishedAt: "2025-10-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2699355/chapter-1369-conscripted",
-  externalId: "2699355",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2699355",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2699355/chapter-1369-conscripted",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

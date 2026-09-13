@@ -10,8 +10,13 @@ export const defianceOfTheFall0077Chapter1399TheFishermanAndTheOriole = {
   ownLength: 2949,
   unit: "words",
   publishedAt: "2026-01-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2962117/chapter-1399-the-fisherman-and-the-oriole",
-  externalId: "2962117",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2962117",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2962117/chapter-1399-the-fisherman-and-the-oriole",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

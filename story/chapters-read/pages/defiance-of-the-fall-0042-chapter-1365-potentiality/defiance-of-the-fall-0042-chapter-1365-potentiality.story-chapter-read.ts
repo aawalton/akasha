@@ -10,8 +10,13 @@ export const defianceOfTheFall0042Chapter1365Potentiality = {
   ownLength: 3085,
   unit: "words",
   publishedAt: "2025-10-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2676567/chapter-1365-potentiality",
-  externalId: "2676567",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2676567",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2676567/chapter-1365-potentiality",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const defianceOfTheFall0083Chapter1404Burden = {
   ownLength: 2973,
   unit: "words",
   publishedAt: "2026-02-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3002275/chapter-1404-burden",
-  externalId: "3002275",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3002275",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3002275/chapter-1404-burden",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

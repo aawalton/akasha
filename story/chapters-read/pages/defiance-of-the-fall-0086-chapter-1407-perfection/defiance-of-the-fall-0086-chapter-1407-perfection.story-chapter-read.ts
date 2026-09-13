@@ -10,8 +10,13 @@ export const defianceOfTheFall0086Chapter1407Perfection = {
   ownLength: 2890,
   unit: "words",
   publishedAt: "2026-03-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3119872/chapter-1407-perfection",
-  externalId: "3119872",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3119872",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3119872/chapter-1407-perfection",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

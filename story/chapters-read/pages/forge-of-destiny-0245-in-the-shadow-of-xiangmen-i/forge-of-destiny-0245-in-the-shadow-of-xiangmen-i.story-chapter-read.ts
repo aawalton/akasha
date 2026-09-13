@@ -10,8 +10,13 @@ export const forgeOfDestiny0245InTheShadowOfXiangmenI = {
   ownLength: 506,
   unit: "words",
   publishedAt: "2022-05-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/901297/in-the-shadow-of-xiangmen-i",
-  externalId: "901297",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "901297",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/901297/in-the-shadow-of-xiangmen-i",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

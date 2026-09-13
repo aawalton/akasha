@@ -10,8 +10,13 @@ export const forgeOfDestiny0363Threads323Parting9 = {
   ownLength: 2309,
   unit: "words",
   publishedAt: "2023-07-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1288153/threads-323-parting-9",
-  externalId: "1288153",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1288153",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1288153/threads-323-parting-9",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const defianceOfTheFall0040NoChapterToday = {
   ownLength: 84,
   unit: "words",
   publishedAt: "2025-10-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2663905/no-chapter-today",
-  externalId: "2663905",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2663905",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2663905/no-chapter-today",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

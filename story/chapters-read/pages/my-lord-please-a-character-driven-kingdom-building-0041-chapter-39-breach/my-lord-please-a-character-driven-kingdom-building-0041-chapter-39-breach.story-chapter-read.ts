@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0041Chapter39Breach = {
   ownLength: 2278,
   unit: "words",
   publishedAt: "2026-04-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3306040/chapter-39-breach",
-  externalId: "3306040",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3306040",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3306040/chapter-39-breach",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

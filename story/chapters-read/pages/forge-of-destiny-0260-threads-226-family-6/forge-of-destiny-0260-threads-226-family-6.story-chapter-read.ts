@@ -10,8 +10,13 @@ export const forgeOfDestiny0260Threads226Family6 = {
   ownLength: 2755,
   unit: "words",
   publishedAt: "2022-06-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/934039/threads-226-family-6",
-  externalId: "934039",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "934039",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/934039/threads-226-family-6",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

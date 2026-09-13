@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0098Chapter93Consequence
   ownLength: 2395,
   unit: "words",
   publishedAt: "2026-07-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3649890/chapter-93-consequence",
-  externalId: "3649890",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3649890",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3649890/chapter-93-consequence",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

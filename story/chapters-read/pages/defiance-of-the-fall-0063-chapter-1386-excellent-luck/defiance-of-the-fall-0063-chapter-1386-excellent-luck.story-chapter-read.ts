@@ -10,8 +10,13 @@ export const defianceOfTheFall0063Chapter1386ExcellentLuck = {
   ownLength: 3013,
   unit: "words",
   publishedAt: "2025-12-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2819088/chapter-1386-excellent-luck",
-  externalId: "2819088",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2819088",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2819088/chapter-1386-excellent-luck",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

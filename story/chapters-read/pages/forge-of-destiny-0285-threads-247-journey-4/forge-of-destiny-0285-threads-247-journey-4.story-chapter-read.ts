@@ -10,8 +10,13 @@ export const forgeOfDestiny0285Threads247Journey4 = {
   ownLength: 1649,
   unit: "words",
   publishedAt: "2022-09-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/994788/threads-247-journey-4",
-  externalId: "994788",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "994788",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/994788/threads-247-journey-4",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

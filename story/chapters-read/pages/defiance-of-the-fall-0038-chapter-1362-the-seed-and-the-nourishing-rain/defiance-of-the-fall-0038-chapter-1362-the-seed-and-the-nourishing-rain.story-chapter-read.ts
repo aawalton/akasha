@@ -10,8 +10,13 @@ export const defianceOfTheFall0038Chapter1362TheSeedAndTheNourishingRain = {
   ownLength: 2989,
   unit: "words",
   publishedAt: "2025-10-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2653786/chapter-1362-the-seed-and-the-nourishing-rain",
-  externalId: "2653786",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2653786",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2653786/chapter-1362-the-seed-and-the-nourishing-rain",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

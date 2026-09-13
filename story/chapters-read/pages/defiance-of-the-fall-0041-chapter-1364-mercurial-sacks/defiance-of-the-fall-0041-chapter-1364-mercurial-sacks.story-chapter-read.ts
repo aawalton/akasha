@@ -10,8 +10,13 @@ export const defianceOfTheFall0041Chapter1364MercurialSacks = {
   ownLength: 2841,
   unit: "words",
   publishedAt: "2025-10-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2672167/chapter-1364-mercurial-sacks",
-  externalId: "2672167",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2672167",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2672167/chapter-1364-mercurial-sacks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0086Chapter81Burden = {
   ownLength: 1867,
   unit: "words",
   publishedAt: "2026-06-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3562722/chapter-81-burden",
-  externalId: "3562722",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3562722",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3562722/chapter-81-burden",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

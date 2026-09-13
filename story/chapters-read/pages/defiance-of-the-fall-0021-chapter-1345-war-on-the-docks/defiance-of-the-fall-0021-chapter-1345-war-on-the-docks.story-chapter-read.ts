@@ -10,8 +10,13 @@ export const defianceOfTheFall0021Chapter1345WarOnTheDocks = {
   ownLength: 3142,
   unit: "words",
   publishedAt: "2025-08-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2547413/chapter-1345-war-on-the-docks",
-  externalId: "2547413",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2547413",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2547413/chapter-1345-war-on-the-docks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

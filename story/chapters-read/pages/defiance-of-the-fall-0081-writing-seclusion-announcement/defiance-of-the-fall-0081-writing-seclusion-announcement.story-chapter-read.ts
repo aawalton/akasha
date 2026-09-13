@@ -10,8 +10,13 @@ export const defianceOfTheFall0081WritingSeclusionAnnouncement = {
   ownLength: 290,
   unit: "words",
   publishedAt: "2026-01-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2989113/writing-seclusion-announcement",
-  externalId: "2989113",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2989113",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2989113/writing-seclusion-announcement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

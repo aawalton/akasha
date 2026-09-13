@@ -10,8 +10,13 @@ export const forgeOfDestiny0404Threads364Maps5 = {
   ownLength: 2604,
   unit: "words",
   publishedAt: "2024-02-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1528709/threads-364-maps-5",
-  externalId: "1528709",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1528709",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1528709/threads-364-maps-5",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

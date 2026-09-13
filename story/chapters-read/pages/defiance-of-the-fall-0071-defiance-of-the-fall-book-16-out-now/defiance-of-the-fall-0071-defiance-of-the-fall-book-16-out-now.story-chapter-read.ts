@@ -10,8 +10,13 @@ export const defianceOfTheFall0071DefianceOfTheFallBook16OutNow = {
   ownLength: 68,
   unit: "words",
   publishedAt: "2025-12-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2873848/defiance-of-the-fall-book-16-out-now",
-  externalId: "2873848",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2873848",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2873848/defiance-of-the-fall-book-16-out-now",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

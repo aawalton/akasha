@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0048Chapter44Familiarity
   ownLength: 2343,
   unit: "words",
   publishedAt: "2026-04-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3325858/chapter-44-familiarity",
-  externalId: "3325858",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3325858",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3325858/chapter-44-familiarity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

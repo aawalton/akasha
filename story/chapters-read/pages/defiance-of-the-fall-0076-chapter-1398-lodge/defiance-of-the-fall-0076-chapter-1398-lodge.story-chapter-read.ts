@@ -10,8 +10,13 @@ export const defianceOfTheFall0076Chapter1398Lodge = {
   ownLength: 3044,
   unit: "words",
   publishedAt: "2026-01-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2955651/chapter-1398-lodge",
-  externalId: "2955651",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2955651",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2955651/chapter-1398-lodge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

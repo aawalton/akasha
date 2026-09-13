@@ -10,8 +10,13 @@ export const defianceOfTheFall0050Chapter1373StatusQuo = {
   ownLength: 3160,
   unit: "words",
   publishedAt: "2025-11-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2726770/chapter-1373-status-quo",
-  externalId: "2726770",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2726770",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2726770/chapter-1373-status-quo",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

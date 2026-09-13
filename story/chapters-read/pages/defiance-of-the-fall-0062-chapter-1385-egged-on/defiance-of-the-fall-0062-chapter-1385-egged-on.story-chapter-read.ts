@@ -10,8 +10,13 @@ export const defianceOfTheFall0062Chapter1385EggedOn = {
   ownLength: 3106,
   unit: "words",
   publishedAt: "2025-12-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2812931/chapter-1385-egged-on",
-  externalId: "2812931",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2812931",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2812931/chapter-1385-egged-on",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

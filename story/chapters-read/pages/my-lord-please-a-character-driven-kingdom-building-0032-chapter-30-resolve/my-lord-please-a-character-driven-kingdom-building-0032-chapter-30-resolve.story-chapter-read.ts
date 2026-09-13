@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0032Chapter30Resolve = {
   ownLength: 2050,
   unit: "words",
   publishedAt: "2026-04-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3273704/chapter-30-resolve",
-  externalId: "3273704",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3273704",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3273704/chapter-30-resolve",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

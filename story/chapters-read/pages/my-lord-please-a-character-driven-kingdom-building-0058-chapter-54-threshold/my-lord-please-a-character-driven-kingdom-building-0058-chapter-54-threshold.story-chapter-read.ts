@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0058Chapter54Threshold =
   ownLength: 1921,
   unit: "words",
   publishedAt: "2026-05-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3367635/chapter-54-threshold",
-  externalId: "3367635",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3367635",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3367635/chapter-54-threshold",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

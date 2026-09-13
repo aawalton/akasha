@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0064Chapter60Convergence
   ownLength: 2391,
   unit: "words",
   publishedAt: "2026-05-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3396086/chapter-60-convergence",
-  externalId: "3396086",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3396086",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3396086/chapter-60-convergence",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const defianceOfTheFall0067Chapter1390ThePressureOfAWorld = {
   ownLength: 3149,
   unit: "words",
   publishedAt: "2025-12-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2850502/chapter-1390-the-pressure-of-a-world",
-  externalId: "2850502",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2850502",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2850502/chapter-1390-the-pressure-of-a-world",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

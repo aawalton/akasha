@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0054Chapter50Assessment 
   ownLength: 2090,
   unit: "words",
   publishedAt: "2026-05-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3350257/chapter-50-assessment",
-  externalId: "3350257",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3350257",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3350257/chapter-50-assessment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

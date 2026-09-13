@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0079Chapter74Implication
   ownLength: 2261,
   unit: "words",
   publishedAt: "2026-06-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3506364/chapter-74-implication",
-  externalId: "3506364",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3506364",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3506364/chapter-74-implication",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

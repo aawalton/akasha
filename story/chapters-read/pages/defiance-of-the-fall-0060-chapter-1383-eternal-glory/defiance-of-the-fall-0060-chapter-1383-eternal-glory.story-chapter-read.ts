@@ -10,8 +10,13 @@ export const defianceOfTheFall0060Chapter1383EternalGlory = {
   ownLength: 3113,
   unit: "words",
   publishedAt: "2025-11-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2798776/chapter-1383-eternal-glory",
-  externalId: "2798776",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2798776",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2798776/chapter-1383-eternal-glory",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

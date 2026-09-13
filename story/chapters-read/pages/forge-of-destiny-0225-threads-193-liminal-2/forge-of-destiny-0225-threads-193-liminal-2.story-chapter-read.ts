@@ -10,8 +10,13 @@ export const forgeOfDestiny0225Threads193Liminal2 = {
   ownLength: 2220,
   unit: "words",
   publishedAt: "2022-03-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/858850/threads-193-liminal-2",
-  externalId: "858850",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "858850",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/858850/threads-193-liminal-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

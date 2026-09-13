@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0053Chapter49Weight = {
   ownLength: 2050,
   unit: "words",
   publishedAt: "2026-05-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3346625/chapter-49-weight",
-  externalId: "3346625",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3346625",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3346625/chapter-49-weight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

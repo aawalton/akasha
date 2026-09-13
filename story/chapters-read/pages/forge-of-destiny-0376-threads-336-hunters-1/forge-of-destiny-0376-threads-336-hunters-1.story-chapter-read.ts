@@ -10,8 +10,13 @@ export const forgeOfDestiny0376Threads336Hunters1 = {
   ownLength: 1915,
   unit: "words",
   publishedAt: "2023-09-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1350388/threads-336-hunters-1",
-  externalId: "1350388",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1350388",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1350388/threads-336-hunters-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

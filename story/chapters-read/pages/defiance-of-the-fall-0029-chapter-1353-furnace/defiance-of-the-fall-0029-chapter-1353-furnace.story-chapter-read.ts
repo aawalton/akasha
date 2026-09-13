@@ -10,8 +10,13 @@ export const defianceOfTheFall0029Chapter1353Furnace = {
   ownLength: 2882,
   unit: "words",
   publishedAt: "2025-09-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2600265/chapter-1353-furnace",
-  externalId: "2600265",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2600265",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2600265/chapter-1353-furnace",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

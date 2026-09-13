@@ -10,8 +10,13 @@ export const defianceOfTheFall0052Chapter1375Anima = {
   ownLength: 2946,
   unit: "words",
   publishedAt: "2025-11-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2746636/chapter-1375-anima",
-  externalId: "2746636",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2746636",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2746636/chapter-1375-anima",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

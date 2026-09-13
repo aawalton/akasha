@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0097Chapter92Rhythm = {
   ownLength: 3006,
   unit: "words",
   publishedAt: "2026-07-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3640906/chapter-92-rhythm",
-  externalId: "3640906",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3640906",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3640906/chapter-92-rhythm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

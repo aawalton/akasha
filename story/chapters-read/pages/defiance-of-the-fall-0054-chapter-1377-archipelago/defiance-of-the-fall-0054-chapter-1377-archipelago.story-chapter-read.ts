@@ -10,8 +10,13 @@ export const defianceOfTheFall0054Chapter1377Archipelago = {
   ownLength: 3358,
   unit: "words",
   publishedAt: "2025-11-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2759699/chapter-1377-archipelago",
-  externalId: "2759699",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2759699",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2759699/chapter-1377-archipelago",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

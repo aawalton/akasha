@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0022Chapter21Bend = {
   ownLength: 3465,
   unit: "words",
   publishedAt: "2026-04-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3232097/chapter-21-bend",
-  externalId: "3232097",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3232097",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3232097/chapter-21-bend",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

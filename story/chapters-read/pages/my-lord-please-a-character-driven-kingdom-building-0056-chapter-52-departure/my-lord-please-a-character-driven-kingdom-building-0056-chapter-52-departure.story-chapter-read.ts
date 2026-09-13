@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0056Chapter52Departure =
   ownLength: 2162,
   unit: "words",
   publishedAt: "2026-05-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3359081/chapter-52-departure",
-  externalId: "3359081",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3359081",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3359081/chapter-52-departure",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

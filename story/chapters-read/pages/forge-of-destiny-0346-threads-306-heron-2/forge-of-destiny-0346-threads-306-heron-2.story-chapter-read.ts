@@ -10,8 +10,13 @@ export const forgeOfDestiny0346Threads306Heron2 = {
   ownLength: 2488,
   unit: "words",
   publishedAt: "2023-05-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1214476/threads-306-heron-2",
-  externalId: "1214476",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1214476",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1214476/threads-306-heron-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

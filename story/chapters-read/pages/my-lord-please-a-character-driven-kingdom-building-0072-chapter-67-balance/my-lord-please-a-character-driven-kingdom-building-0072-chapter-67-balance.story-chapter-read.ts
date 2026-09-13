@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0072Chapter67Balance = {
   ownLength: 2576,
   unit: "words",
   publishedAt: "2026-05-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3454637/chapter-67-balance",
-  externalId: "3454637",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3454637",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3454637/chapter-67-balance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

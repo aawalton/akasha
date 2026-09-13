@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0028Chapter26Conception 
   ownLength: 1948,
   unit: "words",
   publishedAt: "2026-04-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3257220/chapter-26-conception",
-  externalId: "3257220",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3257220",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3257220/chapter-26-conception",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

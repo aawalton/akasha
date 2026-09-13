@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0049Chapter45Iron = {
   ownLength: 2317,
   unit: "words",
   publishedAt: "2026-04-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3329948/chapter-45-iron",
-  externalId: "3329948",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3329948",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3329948/chapter-45-iron",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

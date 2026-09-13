@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0085Chapter80Ridge = {
   ownLength: 1924,
   unit: "words",
   publishedAt: "2026-06-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3553458/chapter-80-ridge",
-  externalId: "3553458",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3553458",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3553458/chapter-80-ridge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0011Chapter10Leverage = 
   ownLength: 2388,
   unit: "words",
   publishedAt: "2026-03-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3202270/chapter-10-leverage",
-  externalId: "3202270",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3202270",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3202270/chapter-10-leverage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

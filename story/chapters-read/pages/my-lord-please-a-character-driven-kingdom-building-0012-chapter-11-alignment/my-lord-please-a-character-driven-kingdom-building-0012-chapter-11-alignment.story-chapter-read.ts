@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0012Chapter11Alignment =
   ownLength: 1977,
   unit: "words",
   publishedAt: "2026-03-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3202966/chapter-11-alignment",
-  externalId: "3202966",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3202966",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3202966/chapter-11-alignment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

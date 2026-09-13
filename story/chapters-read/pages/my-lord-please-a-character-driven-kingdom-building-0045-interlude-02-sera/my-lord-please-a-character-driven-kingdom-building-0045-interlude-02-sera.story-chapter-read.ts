@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0045Interlude02Sera = {
   ownLength: 2040,
   unit: "words",
   publishedAt: "2026-04-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3318297/interlude-02-sera",
-  externalId: "3318297",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3318297",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3318297/interlude-02-sera",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

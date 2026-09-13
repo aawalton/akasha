@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0025Chapter23Mantle = {
   ownLength: 2222,
   unit: "words",
   publishedAt: "2026-04-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3244481/chapter-23-mantle",
-  externalId: "3244481",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3244481",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3244481/chapter-23-mantle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

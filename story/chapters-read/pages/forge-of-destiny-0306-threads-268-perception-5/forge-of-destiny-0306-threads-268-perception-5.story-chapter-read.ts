@@ -10,8 +10,13 @@ export const forgeOfDestiny0306Threads268Perception5 = {
   ownLength: 1811,
   unit: "words",
   publishedAt: "2022-12-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1059019/threads-268-perception-5",
-  externalId: "1059019",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1059019",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1059019/threads-268-perception-5",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

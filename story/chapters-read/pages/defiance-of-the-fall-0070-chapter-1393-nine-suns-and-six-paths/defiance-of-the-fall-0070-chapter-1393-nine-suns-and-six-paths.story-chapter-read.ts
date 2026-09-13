@@ -10,8 +10,13 @@ export const defianceOfTheFall0070Chapter1393NineSunsAndSixPaths = {
   ownLength: 3457,
   unit: "words",
   publishedAt: "2025-12-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2867943/chapter-1393-nine-suns-and-six-paths",
-  externalId: "2867943",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2867943",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2867943/chapter-1393-nine-suns-and-six-paths",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

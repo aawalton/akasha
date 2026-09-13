@@ -10,8 +10,13 @@ export const defianceOfTheFall0001PrologueWelcomeToTheMultiVerse = {
   ownLength: 1230,
   unit: "words",
   publishedAt: "2019-05-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359118/prologue-welcome-to-the-multi-verse",
-  externalId: "359118",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "359118",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359118/prologue-welcome-to-the-multi-verse",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

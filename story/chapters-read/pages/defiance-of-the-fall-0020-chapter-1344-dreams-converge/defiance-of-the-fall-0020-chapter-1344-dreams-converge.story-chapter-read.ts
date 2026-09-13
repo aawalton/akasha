@@ -10,8 +10,13 @@ export const defianceOfTheFall0020Chapter1344DreamsConverge = {
   ownLength: 2991,
   unit: "words",
   publishedAt: "2025-08-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2539332/chapter-1344-dreams-converge",
-  externalId: "2539332",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2539332",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2539332/chapter-1344-dreams-converge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const defianceOfTheFall0006Chapter5Stranded = {
   ownLength: 1269,
   unit: "words",
   publishedAt: "2019-05-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359143/chapter-5-stranded",
-  externalId: "359143",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "359143",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359143/chapter-5-stranded",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const defianceOfTheFall0007Chapter6BornForCarnage = {
   ownLength: 1633,
   unit: "words",
   publishedAt: "2019-05-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359379/chapter-6-born-for-carnage",
-  externalId: "359379",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "359379",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359379/chapter-6-born-for-carnage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

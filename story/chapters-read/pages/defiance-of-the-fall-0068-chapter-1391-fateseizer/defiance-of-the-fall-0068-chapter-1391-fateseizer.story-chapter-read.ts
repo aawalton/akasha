@@ -10,8 +10,13 @@ export const defianceOfTheFall0068Chapter1391Fateseizer = {
   ownLength: 3088,
   unit: "words",
   publishedAt: "2025-12-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2853850/chapter-1391-fateseizer",
-  externalId: "2853850",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2853850",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2853850/chapter-1391-fateseizer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

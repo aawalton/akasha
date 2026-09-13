@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0070Chapter65Underlayer 
   ownLength: 1915,
   unit: "words",
   publishedAt: "2026-05-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3440589/chapter-65-underlayer",
-  externalId: "3440589",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3440589",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3440589/chapter-65-underlayer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0060Chapter56Talia = {
   ownLength: 2274,
   unit: "words",
   publishedAt: "2026-05-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3375779/chapter-56-talia",
-  externalId: "3375779",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3375779",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3375779/chapter-56-talia",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

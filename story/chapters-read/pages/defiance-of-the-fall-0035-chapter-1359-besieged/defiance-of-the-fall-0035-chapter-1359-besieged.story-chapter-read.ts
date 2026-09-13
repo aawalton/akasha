@@ -10,8 +10,13 @@ export const defianceOfTheFall0035Chapter1359Besieged = {
   ownLength: 2977,
   unit: "words",
   publishedAt: "2025-09-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2635945/chapter-1359-besieged",
-  externalId: "2635945",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2635945",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2635945/chapter-1359-besieged",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const forgeOfDestiny0261InterludeTruth = {
   ownLength: 1805,
   unit: "words",
   publishedAt: "2022-06-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/936879/interlude-truth",
-  externalId: "936879",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "936879",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/936879/interlude-truth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

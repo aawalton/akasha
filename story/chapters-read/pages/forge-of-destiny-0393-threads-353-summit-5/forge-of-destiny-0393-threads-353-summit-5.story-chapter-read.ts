@@ -10,8 +10,13 @@ export const forgeOfDestiny0393Threads353Summit5 = {
   ownLength: 1915,
   unit: "words",
   publishedAt: "2023-12-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1447443/threads-353-summit-5",
-  externalId: "1447443",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1447443",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1447443/threads-353-summit-5",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

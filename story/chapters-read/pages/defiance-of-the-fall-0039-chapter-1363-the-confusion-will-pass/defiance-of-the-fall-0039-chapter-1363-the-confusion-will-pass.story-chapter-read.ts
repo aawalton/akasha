@@ -10,8 +10,13 @@ export const defianceOfTheFall0039Chapter1363TheConfusionWillPass = {
   ownLength: 3034,
   unit: "words",
   publishedAt: "2025-10-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2658903/chapter-1363-the-confusion-will-pass",
-  externalId: "2658903",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2658903",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2658903/chapter-1363-the-confusion-will-pass",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

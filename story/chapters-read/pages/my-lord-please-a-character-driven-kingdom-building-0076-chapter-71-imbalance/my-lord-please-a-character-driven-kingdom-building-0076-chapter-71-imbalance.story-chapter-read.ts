@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0076Chapter71Imbalance =
   ownLength: 2239,
   unit: "words",
   publishedAt: "2026-06-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3488712/chapter-71-imbalance",
-  externalId: "3488712",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3488712",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3488712/chapter-71-imbalance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const forgeOfDestiny0240Threads207OpeningDay5 = {
   ownLength: 2037,
   unit: "words",
   publishedAt: "2022-04-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/881790/threads-207-opening-day-5",
-  externalId: "881790",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "881790",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/881790/threads-207-opening-day-5",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

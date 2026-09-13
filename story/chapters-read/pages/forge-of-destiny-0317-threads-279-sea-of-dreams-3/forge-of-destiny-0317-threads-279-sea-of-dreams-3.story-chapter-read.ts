@@ -10,8 +10,13 @@ export const forgeOfDestiny0317Threads279SeaOfDreams3 = {
   ownLength: 2644,
   unit: "words",
   publishedAt: "2023-01-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1098110/threads-279-sea-of-dreams-3",
-  externalId: "1098110",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1098110",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1098110/threads-279-sea-of-dreams-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

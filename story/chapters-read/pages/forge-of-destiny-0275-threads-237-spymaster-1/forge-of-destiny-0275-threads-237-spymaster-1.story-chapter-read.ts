@@ -10,8 +10,13 @@ export const forgeOfDestiny0275Threads237Spymaster1 = {
   ownLength: 1952,
   unit: "words",
   publishedAt: "2022-08-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/969188/threads-237-spymaster-1",
-  externalId: "969188",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "969188",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/969188/threads-237-spymaster-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

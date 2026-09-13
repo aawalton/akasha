@@ -10,8 +10,13 @@ export const forgeOfDestiny0397Threads357Disruption3 = {
   ownLength: 2676,
   unit: "words",
   publishedAt: "2024-01-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1491401/threads-357-disruption-3",
-  externalId: "1491401",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1491401",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1491401/threads-357-disruption-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

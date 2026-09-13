@@ -10,8 +10,13 @@ export const defianceOfTheFall0066Chapter1389Sabotage = {
   ownLength: 3053,
   unit: "words",
   publishedAt: "2025-12-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2839528/chapter-1389-sabotage",
-  externalId: "2839528",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2839528",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2839528/chapter-1389-sabotage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

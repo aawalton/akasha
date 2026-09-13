@@ -10,8 +10,13 @@ export const defianceOfTheFall0017Chapter1342GrandDream = {
   ownLength: 3227,
   unit: "words",
   publishedAt: "2025-06-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2390514/chapter-1342-grand-dream",
-  externalId: "2390514",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2390514",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2390514/chapter-1342-grand-dream",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

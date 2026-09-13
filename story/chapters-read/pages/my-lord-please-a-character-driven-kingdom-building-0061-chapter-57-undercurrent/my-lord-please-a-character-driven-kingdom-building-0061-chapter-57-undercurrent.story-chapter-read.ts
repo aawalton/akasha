@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0061Chapter57Undercurren
   ownLength: 2121,
   unit: "words",
   publishedAt: "2026-05-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3379428/chapter-57-undercurrent",
-  externalId: "3379428",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3379428",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3379428/chapter-57-undercurrent",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

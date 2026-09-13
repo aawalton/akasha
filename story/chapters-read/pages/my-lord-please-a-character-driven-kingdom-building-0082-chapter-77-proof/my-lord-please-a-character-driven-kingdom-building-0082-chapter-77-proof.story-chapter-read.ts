@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0082Chapter77Proof = {
   ownLength: 2517,
   unit: "words",
   publishedAt: "2026-06-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3530548/chapter-77-proof",
-  externalId: "3530548",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3530548",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3530548/chapter-77-proof",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

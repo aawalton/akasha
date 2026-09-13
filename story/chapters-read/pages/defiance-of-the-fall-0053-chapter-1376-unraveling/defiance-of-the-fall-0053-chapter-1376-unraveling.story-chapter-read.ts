@@ -10,8 +10,13 @@ export const defianceOfTheFall0053Chapter1376Unraveling = {
   ownLength: 3204,
   unit: "words",
   publishedAt: "2025-11-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2752797/chapter-1376-unraveling",
-  externalId: "2752797",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2752797",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2752797/chapter-1376-unraveling",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

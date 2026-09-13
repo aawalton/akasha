@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0013Chapter12Deviation =
   ownLength: 2271,
   unit: "words",
   publishedAt: "2026-03-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3204564/chapter-12-deviation",
-  externalId: "3204564",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3204564",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3204564/chapter-12-deviation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

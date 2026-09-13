@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0017Chapter16Measure = {
   ownLength: 2038,
   unit: "words",
   publishedAt: "2026-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3216665/chapter-16-measure",
-  externalId: "3216665",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3216665",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3216665/chapter-16-measure",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

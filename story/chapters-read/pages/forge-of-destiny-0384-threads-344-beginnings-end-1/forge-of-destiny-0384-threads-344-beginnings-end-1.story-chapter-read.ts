@@ -10,8 +10,13 @@ export const forgeOfDestiny0384Threads344BeginningsEnd1 = {
   ownLength: 1932,
   unit: "words",
   publishedAt: "2023-10-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1386690/threads-344-beginnings-end-1",
-  externalId: "1386690",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1386690",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1386690/threads-344-beginnings-end-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

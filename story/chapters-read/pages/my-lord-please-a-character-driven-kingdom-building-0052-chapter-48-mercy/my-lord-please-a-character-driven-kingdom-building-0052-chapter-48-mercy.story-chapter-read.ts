@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0052Chapter48Mercy = {
   ownLength: 1834,
   unit: "words",
   publishedAt: "2026-05-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3342316/chapter-48-mercy",
-  externalId: "3342316",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3342316",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3342316/chapter-48-mercy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

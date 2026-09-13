@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0088Chapter83Divergence 
   ownLength: 1983,
   unit: "words",
   publishedAt: "2026-06-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3576241/chapter-83-divergence",
-  externalId: "3576241",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3576241",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3576241/chapter-83-divergence",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

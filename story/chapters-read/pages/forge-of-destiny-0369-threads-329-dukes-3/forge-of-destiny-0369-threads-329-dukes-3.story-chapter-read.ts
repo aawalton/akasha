@@ -10,8 +10,13 @@ export const forgeOfDestiny0369Threads329Dukes3 = {
   ownLength: 1860,
   unit: "words",
   publishedAt: "2023-08-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1317881/threads-329-dukes-3",
-  externalId: "1317881",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1317881",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1317881/threads-329-dukes-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const forgeOfDestiny0348Threads308Traditions2 = {
   ownLength: 2060,
   unit: "words",
   publishedAt: "2023-05-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1221934/threads-308-traditions-2",
-  externalId: "1221934",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1221934",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1221934/threads-308-traditions-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

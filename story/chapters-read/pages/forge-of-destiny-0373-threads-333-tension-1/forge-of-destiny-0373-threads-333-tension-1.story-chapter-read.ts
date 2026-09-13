@@ -10,8 +10,13 @@ export const forgeOfDestiny0373Threads333Tension1 = {
   ownLength: 1898,
   unit: "words",
   publishedAt: "2023-09-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1340086/threads-333-tension-1",
-  externalId: "1340086",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1340086",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1340086/threads-333-tension-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

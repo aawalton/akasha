@@ -10,8 +10,13 @@ export const defianceOfTheFall0079Chapter1401Immortal = {
   ownLength: 2962,
   unit: "words",
   publishedAt: "2026-01-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2978535/chapter-1401-immortal",
-  externalId: "2978535",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2978535",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2978535/chapter-1401-immortal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

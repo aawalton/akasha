@@ -10,8 +10,13 @@ export const forgeOfDestiny0332InterludeWintersEndTourPart2 = {
   ownLength: 1691,
   unit: "words",
   publishedAt: "2023-03-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1150427/interlude-winters-end-tour-part-2",
-  externalId: "1150427",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1150427",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1150427/interlude-winters-end-tour-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

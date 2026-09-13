@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0055Chapter51Irregularit
   ownLength: 1988,
   unit: "words",
   publishedAt: "2026-05-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3354713/chapter-51-irregularity",
-  externalId: "3354713",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3354713",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3354713/chapter-51-irregularity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

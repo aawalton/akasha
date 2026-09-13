@@ -10,8 +10,13 @@ export const forgeOfDestiny0268Threads230Thunder1 = {
   ownLength: 2182,
   unit: "words",
   publishedAt: "2022-07-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/946605/threads-230--thunder-1",
-  externalId: "946605",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "946605",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/946605/threads-230--thunder-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

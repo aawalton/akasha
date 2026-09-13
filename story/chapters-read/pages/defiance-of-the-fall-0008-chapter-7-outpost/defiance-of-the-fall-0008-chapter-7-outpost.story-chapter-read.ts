@@ -10,8 +10,13 @@ export const defianceOfTheFall0008Chapter7Outpost = {
   ownLength: 1533,
   unit: "words",
   publishedAt: "2019-05-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359476/chapter-7-outpost",
-  externalId: "359476",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "359476",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359476/chapter-7-outpost",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

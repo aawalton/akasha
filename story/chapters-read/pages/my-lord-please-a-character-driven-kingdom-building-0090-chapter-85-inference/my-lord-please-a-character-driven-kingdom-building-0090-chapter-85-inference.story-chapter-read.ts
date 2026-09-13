@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0090Chapter85Inference =
   ownLength: 2216,
   unit: "words",
   publishedAt: "2026-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3585668/chapter-85-inference",
-  externalId: "3585668",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3585668",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3585668/chapter-85-inference",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

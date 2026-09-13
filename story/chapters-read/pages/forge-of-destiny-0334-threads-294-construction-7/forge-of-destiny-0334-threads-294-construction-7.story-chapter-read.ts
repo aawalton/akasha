@@ -10,8 +10,13 @@ export const forgeOfDestiny0334Threads294Construction7 = {
   ownLength: 2022,
   unit: "words",
   publishedAt: "2023-04-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1157292/threads-294-construction-7",
-  externalId: "1157292",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1157292",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1157292/threads-294-construction-7",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const defianceOfTheFall0059Chapter1382Crushing = {
   ownLength: 2882,
   unit: "words",
   publishedAt: "2025-11-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2792760/chapter-1382-crushing",
-  externalId: "2792760",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2792760",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2792760/chapter-1382-crushing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

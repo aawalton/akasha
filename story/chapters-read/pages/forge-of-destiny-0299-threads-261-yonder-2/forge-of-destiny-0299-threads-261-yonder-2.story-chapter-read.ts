@@ -10,8 +10,13 @@ export const forgeOfDestiny0299Threads261Yonder2 = {
   ownLength: 1913,
   unit: "words",
   publishedAt: "2022-11-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1036970/threads-261-yonder-2",
-  externalId: "1036970",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1036970",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1036970/threads-261-yonder-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

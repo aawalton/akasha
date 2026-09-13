@@ -10,8 +10,13 @@ export const defianceOfTheFall0009ContinueReadingOnKindleKindleUnlimitedAnd = {
   ownLength: 144,
   unit: "words",
   publishedAt: "2021-05-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/685135/continue-reading-on-kindle-kindle-unlimited-and",
-  externalId: "685135",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "685135",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/685135/continue-reading-on-kindle-kindle-unlimited-and",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

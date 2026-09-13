@@ -10,8 +10,13 @@ export const forgeOfDestiny0273Threads235Expanse1 = {
   ownLength: 2298,
   unit: "words",
   publishedAt: "2022-08-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/963786/threads-235-expanse-1",
-  externalId: "963786",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "963786",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/963786/threads-235-expanse-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

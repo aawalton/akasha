@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0066Interlude03Talia = {
   ownLength: 4861,
   unit: "words",
   publishedAt: "2026-05-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3408384/interlude-03-talia",
-  externalId: "3408384",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3408384",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3408384/interlude-03-talia",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

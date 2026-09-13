@@ -10,8 +10,13 @@ export const defianceOfTheFall0004Chapter3BattleTactics = {
   ownLength: 1608,
   unit: "words",
   publishedAt: "2019-05-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359140/chapter-3-battle-tactics",
-  externalId: "359140",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "359140",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359140/chapter-3-battle-tactics",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

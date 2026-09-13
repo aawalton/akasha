@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0010Chapter9Strain = {
   ownLength: 2191,
   unit: "words",
   publishedAt: "2026-03-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3202166/chapter-9-strain",
-  externalId: "3202166",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3202166",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3202166/chapter-9-strain",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

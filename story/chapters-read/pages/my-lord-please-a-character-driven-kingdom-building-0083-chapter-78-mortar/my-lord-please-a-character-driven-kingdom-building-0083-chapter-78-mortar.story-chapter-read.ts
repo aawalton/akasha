@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0083Chapter78Mortar = {
   ownLength: 1975,
   unit: "words",
   publishedAt: "2026-06-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3539140/chapter-78-mortar",
-  externalId: "3539140",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3539140",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3539140/chapter-78-mortar",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

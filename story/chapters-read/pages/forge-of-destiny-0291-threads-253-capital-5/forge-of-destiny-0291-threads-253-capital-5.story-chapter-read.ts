@@ -10,8 +10,13 @@ export const forgeOfDestiny0291Threads253Capital5 = {
   ownLength: 2293,
   unit: "words",
   publishedAt: "2022-10-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1010242/threads-253-capital-5",
-  externalId: "1010242",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1010242",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1010242/threads-253-capital-5",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

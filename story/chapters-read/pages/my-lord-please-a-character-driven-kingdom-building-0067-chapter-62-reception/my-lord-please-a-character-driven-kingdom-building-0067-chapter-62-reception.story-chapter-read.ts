@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0067Chapter62Reception =
   ownLength: 2010,
   unit: "words",
   publishedAt: "2026-05-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3415036/chapter-62-reception",
-  externalId: "3415036",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3415036",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3415036/chapter-62-reception",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

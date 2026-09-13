@@ -10,8 +10,13 @@ export const defianceOfTheFall0051Chapter1374PrimalLife = {
   ownLength: 3039,
   unit: "words",
   publishedAt: "2025-11-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2738461/chapter-1374-primal-life",
-  externalId: "2738461",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2738461",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2738461/chapter-1374-primal-life",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0096Chapter91Boundaries 
   ownLength: 2022,
   unit: "words",
   publishedAt: "2026-07-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3636208/chapter-91-boundaries",
-  externalId: "3636208",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3636208",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3636208/chapter-91-boundaries",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

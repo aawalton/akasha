@@ -10,8 +10,13 @@ export const forgeOfDestiny0398Threads358Cornerstone1 = {
   ownLength: 1683,
   unit: "words",
   publishedAt: "2024-01-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1494898/threads-358-cornerstone-1",
-  externalId: "1494898",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1494898",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1494898/threads-358-cornerstone-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

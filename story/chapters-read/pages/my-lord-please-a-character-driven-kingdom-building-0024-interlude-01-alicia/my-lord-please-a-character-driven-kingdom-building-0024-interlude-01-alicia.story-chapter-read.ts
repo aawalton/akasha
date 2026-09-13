@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0024Interlude01Alicia = 
   ownLength: 2607,
   unit: "words",
   publishedAt: "2026-04-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3240053/interlude-01-alicia",
-  externalId: "3240053",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3240053",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3240053/interlude-01-alicia",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

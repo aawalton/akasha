@@ -10,8 +10,13 @@ export const defianceOfTheFall0014Chapter1339HuntingGods = {
   ownLength: 3232,
   unit: "words",
   publishedAt: "2025-06-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2366755/chapter-1339-hunting-gods",
-  externalId: "2366755",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2366755",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2366755/chapter-1339-hunting-gods",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

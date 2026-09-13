@@ -10,8 +10,13 @@ export const forgeOfDestiny0379Threads339Multitude = {
   ownLength: 1844,
   unit: "words",
   publishedAt: "2023-10-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1369163/threads-339-multitude",
-  externalId: "1369163",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1369163",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1369163/threads-339-multitude",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

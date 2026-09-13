@@ -10,8 +10,13 @@ export const defianceOfTheFall0032Chapter1356Mox = {
   ownLength: 3508,
   unit: "words",
   publishedAt: "2025-09-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2618007/chapter-1356-mox",
-  externalId: "2618007",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2618007",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2618007/chapter-1356-mox",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const forgeOfDestiny0366Threads326SummitApproach2 = {
   ownLength: 3142,
   unit: "words",
   publishedAt: "2023-08-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1298859/threads-326-summit-approach-2",
-  externalId: "1298859",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1298859",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1298859/threads-326-summit-approach-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

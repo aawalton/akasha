@@ -10,8 +10,13 @@ export const forgeOfDestiny0322Threads284WintersEnd3 = {
   ownLength: 2423,
   unit: "words",
   publishedAt: "2023-02-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1113284/threads-284-winters-end-3",
-  externalId: "1113284",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1113284",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1113284/threads-284-winters-end-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

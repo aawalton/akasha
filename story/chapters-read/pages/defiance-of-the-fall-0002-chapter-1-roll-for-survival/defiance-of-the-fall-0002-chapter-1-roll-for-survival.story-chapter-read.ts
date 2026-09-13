@@ -10,8 +10,13 @@ export const defianceOfTheFall0002Chapter1RollForSurvival = {
   ownLength: 1563,
   unit: "words",
   publishedAt: "2019-05-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359137/chapter-1-roll-for-survival",
-  externalId: "359137",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "359137",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359137/chapter-1-roll-for-survival",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const defianceOfTheFall0084Chapter1405SevonaYetNotSevona = {
   ownLength: 2786,
   unit: "words",
   publishedAt: "2026-03-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3105652/chapter-1405-sevona-yet-not-sevona",
-  externalId: "3105652",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3105652",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3105652/chapter-1405-sevona-yet-not-sevona",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

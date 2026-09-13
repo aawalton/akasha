@@ -10,8 +10,13 @@ export const defianceOfTheFall0057Chapter1380AFrogAndADream = {
   ownLength: 3374,
   unit: "words",
   publishedAt: "2025-11-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2778319/chapter-1380-a-frog-and-a-dream",
-  externalId: "2778319",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2778319",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2778319/chapter-1380-a-frog-and-a-dream",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

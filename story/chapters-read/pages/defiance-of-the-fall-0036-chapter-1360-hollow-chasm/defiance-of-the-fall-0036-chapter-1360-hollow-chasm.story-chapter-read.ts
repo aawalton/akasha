@@ -10,8 +10,13 @@ export const defianceOfTheFall0036Chapter1360HollowChasm = {
   ownLength: 2847,
   unit: "words",
   publishedAt: "2025-09-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2641072/chapter-1360-hollow-chasm",
-  externalId: "2641072",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2641072",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2641072/chapter-1360-hollow-chasm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

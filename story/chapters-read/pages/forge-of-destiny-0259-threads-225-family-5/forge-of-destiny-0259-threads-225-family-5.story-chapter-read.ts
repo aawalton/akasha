@@ -10,8 +10,13 @@ export const forgeOfDestiny0259Threads225Family5 = {
   ownLength: 1983,
   unit: "words",
   publishedAt: "2022-06-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/931874/threads-225-family-5",
-  externalId: "931874",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "931874",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/931874/threads-225-family-5",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

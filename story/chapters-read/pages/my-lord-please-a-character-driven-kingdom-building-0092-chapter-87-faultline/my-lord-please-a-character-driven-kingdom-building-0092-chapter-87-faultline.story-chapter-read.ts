@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0092Chapter87Faultline =
   ownLength: 2214,
   unit: "words",
   publishedAt: "2026-06-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3603881/chapter-87-faultline",
-  externalId: "3603881",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3603881",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3603881/chapter-87-faultline",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

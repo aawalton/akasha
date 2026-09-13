@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0089Chapter84Unveiled = 
   ownLength: 2028,
   unit: "words",
   publishedAt: "2026-06-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3576258/chapter-84-unveiled",
-  externalId: "3576258",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3576258",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3576258/chapter-84-unveiled",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

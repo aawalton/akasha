@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0078Chapter73Disparity =
   ownLength: 1889,
   unit: "words",
   publishedAt: "2026-06-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3506346/chapter-73-disparity",
-  externalId: "3506346",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3506346",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3506346/chapter-73-disparity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
