@@ -16,5 +16,10 @@ export const inventoryRulesEval = {
       invariantKind: "departure",
       statement: "Every backpack slot in one judging shares the claims and the stock groups.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "Judging a slot answers the rule it matched, so a caller wanting that judges once.",
+    },
   ],
 } as const satisfies Module

@@ -170,10 +170,11 @@ export function evaluateRules(
   slotIndex: number,
   claims?: Map<CharacterId, Set<string>>,
   stockGroups?: ReadonlyMap<string, ReadonlySet<number>>
-): undefined {
+): MatchedRuleResult | undefined {
   const start = GetGameTimeMilliseconds()
-  evaluateRulesInner(bagId, slotIndex, claims, stockGroups)
+  const matched = evaluateRulesInner(bagId, slotIndex, claims, stockGroups)
   recordSettlingMs("evaluateRules", GetGameTimeMilliseconds() - start)
+  return matched
 }
 
 function evaluateRulesInner(
@@ -181,7 +182,7 @@ function evaluateRulesInner(
   slotIndex: number,
   claims?: Map<CharacterId, Set<string>>,
   stockGroups?: ReadonlyMap<string, ReadonlySet<number>>
-): undefined {
+): MatchedRuleResult | undefined {
   clearPendingAction(bagId, slotIndex)
 
   const matched = findMatchedRule(bagId, slotIndex, claims, stockGroups)
@@ -189,7 +190,7 @@ function evaluateRulesInner(
     if (!IsItemPlayerLocked(bagId, slotIndex) && IsItemJunk(bagId, slotIndex)) {
       setItemIsJunkGated(bagId, slotIndex, false)
     }
-    return
+    return undefined
   }
 
   if (matched.action === "move-to" && matched.destination !== undefined) {
@@ -202,7 +203,7 @@ function evaluateRulesInner(
         if (IsItemJunk(bagId, slotIndex)) {
           setItemIsJunkGated(bagId, slotIndex, false)
         }
-        return
+        return matched
       }
     }
   }
@@ -220,6 +221,7 @@ function evaluateRulesInner(
   if (matched.action !== "sell" && IsItemJunk(bagId, slotIndex)) {
     setItemIsJunkGated(bagId, slotIndex, false)
   }
+  return matched
 }
 
 function computeBackpackStockGroups(): ReadonlyMap<string, ReadonlySet<number>> | undefined {

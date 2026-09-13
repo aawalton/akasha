@@ -25,7 +25,7 @@ import {
 } from "akasha/temper/items-addon/modules/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
 import {
   evaluateRules,
-  findMatchedRule,
+  type MatchedRuleResult,
 } from "akasha/temper/items-addon/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"
 import { slotKey } from "akasha/temper/items-addon/modules/inventory-slot-key/inventory-slot-key.module.code.ts"
 import { getTemperCharactersData } from "akasha/temper/items-addon/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
@@ -77,8 +77,12 @@ function collectBankWithdrawals(
 ): { bagId: number; slotIndex: number; dest: string; ruleIndex: number }[] {
   const withdrawals: { bagId: number; slotIndex: number; dest: string; ruleIndex: number }[] = []
 
-  function collectBackpackRequired(this: void, bag: number, slot: number): undefined {
-    const matched = findMatchedRule(bag, slot)
+  function collectBackpackRequired(
+    this: void,
+    bag: number,
+    slot: number,
+    matched: MatchedRuleResult | undefined
+  ): undefined {
     if (matched !== undefined && isBackpackRequiredAction(matched.action, matched.destination)) {
       if (isVendorCrossCharDestination(matched.destination)) return
       withdrawals.push({
@@ -95,21 +99,22 @@ function collectBankWithdrawals(
   if (ctx.isBank) {
     const bankSize = GetBagSize(BAG_BANK)
     for (let slot = 0; slot < bankSize; slot++) {
-      evaluateRules(BAG_BANK, slot, claims)
-      collectBackpackRequired(BAG_BANK, slot)
+      collectBackpackRequired(BAG_BANK, slot, evaluateRules(BAG_BANK, slot, claims))
     }
     if (IsESOPlusSubscriber()) {
       const subBankSize = GetBagSize(BAG_SUBSCRIBER_BANK)
       for (let slot = 0; slot < subBankSize; slot++) {
-        evaluateRules(BAG_SUBSCRIBER_BANK, slot, claims)
-        collectBackpackRequired(BAG_SUBSCRIBER_BANK, slot)
+        collectBackpackRequired(
+          BAG_SUBSCRIBER_BANK,
+          slot,
+          evaluateRules(BAG_SUBSCRIBER_BANK, slot, claims)
+        )
       }
     }
   } else if (ctx.isHouseStorage) {
     const storageSize = GetBagSize(ctx.bankingBag)
     for (let slot = 0; slot < storageSize; slot++) {
-      evaluateRules(ctx.bankingBag, slot, claims)
-      collectBackpackRequired(ctx.bankingBag, slot)
+      collectBackpackRequired(ctx.bankingBag, slot, evaluateRules(ctx.bankingBag, slot, claims))
     }
   }
 
