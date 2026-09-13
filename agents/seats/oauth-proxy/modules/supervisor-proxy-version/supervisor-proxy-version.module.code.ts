@@ -2,7 +2,7 @@ import { computeModelGatewayTreeVersion } from "akasha/agents/models/gateway/mod
 import {
   type OAuthProxyState,
   readProxyState,
-} from "akasha/agents/seats/oauth-proxy/modules/proxy-state/seat-proxy-state.module.code.ts"
+} from "akasha/agents/seats/oauth-proxy/modules/seat-proxy-state/seat-proxy-state.module.code.ts"
 import {
   respawnOAuthProxy,
   type SpawnOAuthProxyArgs,

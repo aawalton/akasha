@@ -12,7 +12,7 @@ import { transportLogFlushed } from "akasha/agents/models/gateway/modules/transp
 import {
   clearProxyState,
   writeProxyStateQuietly,
-} from "akasha/agents/seats/oauth-proxy/modules/proxy-state/seat-proxy-state.module.code.ts"
+} from "akasha/agents/seats/oauth-proxy/modules/seat-proxy-state/seat-proxy-state.module.code.ts"
 import {
   fileSink,
   LOG_MAX_BYTES,
