@@ -5,7 +5,7 @@ export const indexAnswersAreLevelWithTheChange = {
   type: "code-check",
   slug: "index-answers-are-level-with-the-change",
   definition: "the check refusing a change whose index answers differ from what its files turn",
-  runsOnChange: false,
+  runsOnChange: true,
   runsOnDeploy: false,
   runsOnWorktree: false,
   runsOnAudit: false,
@@ -40,7 +40,11 @@ export const indexAnswersAreLevelWithTheChange = {
     },
     {
       invariantKind: "departure",
-      statement: "This check judges at no phase until Alan turns it on.",
+      statement: "This check judges at change and at no other phase.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An audit is a change turning nothing, so there is nothing here for it to judge.",
     },
   ],
   check: { maxCpuSeconds: 5 },
