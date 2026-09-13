@@ -6,6 +6,7 @@ export const changeCalculationHeldType = {
   slug: "change-calculation-held-type",
   changeMode: "change-mode-change",
   changeTargetType: "change-target-type/page-type",
+  changeTargetSubtype: "change-target-subtype/page-type-page",
   definition: "every calculation naming its own property's type rather than restating that kind",
   code: "ts",
   test: "ts",

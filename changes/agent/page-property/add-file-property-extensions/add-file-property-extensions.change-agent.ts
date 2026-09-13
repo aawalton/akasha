@@ -6,6 +6,7 @@ export const addFilePropertyExtensions = {
   slug: "add-file-property-extensions",
   changeMode: "change-mode-add",
   changeTargetType: "change-target-type/page-type",
+  changeTargetSubtype: "change-target-subtype/page-type-page",
   definition: "every file property told the endings the files that property has are named with",
   code: "ts",
   test: "ts",

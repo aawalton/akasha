@@ -6,6 +6,7 @@ export const addPagePropertyTypes = {
   slug: "add-page-property-types",
   changeMode: "change-mode-add",
   changeTargetType: "change-target-type/page-type",
+  changeTargetSubtype: "change-target-subtype/page-type-page",
   definition: "every page property of one page type turned over to the code writing its type",
   code: "ts",
   test: "ts",
