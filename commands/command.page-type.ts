@@ -180,6 +180,7 @@ export const command = {
       statement:
         "A command that wrote before it threw says in its refusal what that command wrote.",
     },
+    { invariantKind: "departure", statement: "A command takes no two arguments spelled alike." },
   ],
   directives: [
     {
