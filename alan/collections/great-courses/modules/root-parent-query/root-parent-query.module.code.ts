@@ -1,3 +1,4 @@
+import { syncedFrom } from "akasha/alan/collections/externals/modules/external-identity-reading/external-identity-reading.module.code.ts"
 import {
   pageTitled,
   textAt,
@@ -11,6 +12,7 @@ import {
 const GREAT_COURSES_COLLECTION_SLUG = "great-courses-collection"
 const ROOT_TIMER_TITLE = "The Great Courses"
 const SYNC_INTERVAL_DAYS = 30
+const SOURCE = "the-great-courses"
 
 function todayYYYYMMDD(): string {
   return daysAgoYYYYMMDD(0)
@@ -27,13 +29,15 @@ function daysAgoYYYYMMDD(days: number): string {
 
 export async function shouldRunGreatCoursesSync(): Promise<boolean> {
   try {
-    const root = await pageTitled(GREAT_COURSES_COLLECTION_SLUG, ROOT_TIMER_TITLE, ["lastSyncedAt"])
+    const keys = ["lastSyncedAt", "externalIdentity"]
+    const root = await pageTitled(GREAT_COURSES_COLLECTION_SLUG, ROOT_TIMER_TITLE, keys)
     if (root === null) {
       console.log(`${ROOT_TIMER_TITLE} root not found, running sync anyway`)
       return true
     }
 
-    const lastSyncedAt = textAt(root, "lastSyncedAt")
+    const held = root.values["externalIdentity"]
+    const lastSyncedAt = syncedFrom(held, SOURCE) ?? textAt(root, "lastSyncedAt")
     if (lastSyncedAt == null) return true
 
     const shouldRun = lastSyncedAt < daysAgoYYYYMMDD(SYNC_INTERVAL_DAYS)

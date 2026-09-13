@@ -1,3 +1,4 @@
+import { idFrom } from "akasha/alan/collections/externals/modules/external-identity-reading/external-identity-reading.module.code.ts"
 import {
   everyRow,
   textAt,
@@ -5,10 +6,13 @@ import {
 
 const GREAT_COURSE_SLUG = "great-course"
 
+const SOURCE = "the-great-courses"
+
 export async function findAllCourses(): Promise<Map<string, string>> {
   const courseMap = new Map<string, string>()
-  for (const row of await everyRow(GREAT_COURSE_SLUG, ["slug", "externalId"])) {
-    const externalId = textAt(row, "externalId")
+  const keys = ["slug", "externalId", "externalIdentity"]
+  for (const row of await everyRow(GREAT_COURSE_SLUG, keys)) {
+    const externalId = idFrom(row.values["externalIdentity"], SOURCE) ?? textAt(row, "externalId")
     const slug = textAt(row, "slug")
     if (externalId != null && slug != null) courseMap.set(externalId, slug)
   }
