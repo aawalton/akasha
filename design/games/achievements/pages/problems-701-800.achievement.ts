@@ -11,5 +11,4 @@ export const problems701800 = {
   ownProgress: 0,
   unit: "words",
   status: "not-started",
-  externalLink: "https://projecteuler.net/",
 } as const satisfies Achievement

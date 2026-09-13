@@ -12,5 +12,4 @@ export const problems101200 = {
   unit: "words",
   status: "in-progress",
   rank: "A",
-  externalLink: "https://projecteuler.net/",
 } as const satisfies Achievement
