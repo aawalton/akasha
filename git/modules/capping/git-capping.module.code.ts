@@ -24,8 +24,6 @@ const NETWORK_CEILING_MS = 10_000
 
 export const PUSH_CEILING_MS = 1_800_000
 
-const CAPPED_CEILING_MS = 10_000
-
 const EMPTY = new Uint8Array()
 
 export function ranGit(
@@ -71,13 +69,4 @@ export function git(
 ): GitResult {
   const raw = gitBytes(root, args, ceilingMs)
   return { code: raw.code, stdout: new TextDecoder().decode(raw.stdout).trim(), stderr: raw.stderr }
-}
-
-export function gitCapped(
-  root: string,
-  args: readonly string[],
-  ceilingMs: number = CAPPED_CEILING_MS
-): GitResult {
-  const proc = ranGit(root, args, { ceilingMs })
-  return { code: proc.code, stdout: gitTextOf(proc.stdout), stderr: gitTextOf(proc.stderr) }
 }
