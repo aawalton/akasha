@@ -3,136 +3,62 @@ import {
   removePropertyFromPageType,
   runChange,
 } from "akasha/changes/agent/page-type/remove-property-from-page-type/remove-property-from-page-type.change-agent.code.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
-  OWNER_AT,
-  PROPERTY_AT,
-} from "akasha/changes/agent/page-type/remove-property-from-page-type/remove-property-from-page-type.change-agent.test-fixtures.ts"
-import { refusing, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
-import type { Reaching, World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+  catching,
+  refusingAt,
+  worldOf,
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { listing } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 
-const PROPERTY = "build-folder-property/web-directory"
+const OWNER_AT = "thrumming/moots/moot.page-type.ts"
 
-const VALUE = "change-mechanical-file-content/remove-property-value"
+const PROPERTY = "moot-property/sung-at"
 
-const RECORD = "change-mechanical-file-content/remove-property-record"
+const RUNG = "change-mechanical-page-type/remove-property-from-page-type"
 
-const SAID_NO = "that change said no"
+const REACHED: string[] = []
+
+const NOWHERE: World = worldOf({})
 
 type Reached = { readonly at: string; readonly given: Record<string, unknown> }
 
-type Holding = {
-  readonly path?: string
-  readonly listed?: boolean
-  readonly owner?: boolean
-  readonly parted?: boolean
-  readonly refuses?: boolean
-}
-
-function catching(seen: Reached[], refuses: boolean): Reaching {
-  return (_world, at, given) => {
-    seen.push({ at, given: given as Record<string, unknown> })
-    return Promise.resolve(refuses ? refusing(SAID_NO) : stating([]))
-  }
-}
-
-function worldFor(seen: Reached[], holding: Holding = {}): World {
-  const path = holding.path ?? PROPERTY_AT
-  return {
-    ...worldOf({}),
-    index: {
-      listedAt: () => (holding.listed === false ? [] : [{ path, id: path }]),
-      pageByPath: (one: string) => {
-        if (one !== OWNER_AT) return null
-        if (holding.owner === false) return null
-        if (holding.parted === false) return { slug: "ios-app" }
-        return { slug: "ios-app", parts: [PROPERTY] }
-      },
-    } as never,
-    reaching: catching(seen, holding.refuses === true),
-  }
-}
-
-async function answering(
-  seen: Reached[],
-  given: Partial<Parameters<typeof removePropertyFromPageType>[1]> = {},
-  holding: Holding = {}
-) {
-  return await removePropertyFromPageType(worldFor(seen, holding), {
-    at: OWNER_AT,
-    property: PROPERTY,
-    ...given,
-  })
-}
-
-test("the property goes from among the page type's parts in the same answer", async () => {
+test("a page type is handed to the mechanical change taking a property off one", async () => {
   const seen: Reached[] = []
-  await answering(seen)
-  expect(seen[0]?.at).toBe(VALUE)
-  expect(seen[0]?.given.at).toBe(OWNER_AT)
-  expect(seen[0]?.given.key).toBe("parts")
-  expect(seen[0]?.given.value).toBe(PROPERTY)
+
+  const said = await removePropertyFromPageType(
+    { ...NOWHERE, reaching: catching(seen) },
+    { at: OWNER_AT, property: PROPERTY }
+  )
+
+  expect(said.refused).toBeNull()
+  expect(seen[0]?.at).toBe(RUNG)
+  expect(seen[0]?.given).toEqual({ at: OWNER_AT, property: PROPERTY })
 })
 
-test("a page type that declares a property without parting it loses the declaration alone", async () => {
-  const seen: Reached[] = []
-  const said = await answering(seen, {}, { parted: false })
-  expect(said.refused).toBe(null)
-  expect(seen.map((one) => one.at)).toEqual([RECORD])
-  expect(seen[0]?.given.key).toBe("properties")
-  expect(seen[0]?.given.is).toBe(PROPERTY)
+test("no change but that one rung is reached", async () => {
+  REACHED.length = 0
+
+  await removePropertyFromPageType(
+    { ...NOWHERE, reaching: listing(REACHED) },
+    { at: OWNER_AT, property: PROPERTY }
+  )
+
+  expect(REACHED).toEqual([RUNG])
 })
 
-test("the declaration taken out is the one naming that property", async () => {
-  const seen: Reached[] = []
-  await answering(seen)
-  expect(seen[1]?.at).toBe(RECORD)
-  expect(seen[1]?.given.key).toBe("properties")
-  expect(seen[1]?.given.where).toBe("pageProperty")
-  expect(seen[1]?.given.is).toBe(PROPERTY)
-})
+test("a refusal from that change is the refusal this act gives", async () => {
+  const said = await removePropertyFromPageType(
+    { ...NOWHERE, reaching: refusingAt([], RUNG) },
+    { at: OWNER_AT, property: PROPERTY }
+  )
 
-test("the part goes first, then the declaration", async () => {
-  const seen: Reached[] = []
-  await answering(seen)
-  expect(seen.map((one) => one.at)).toEqual([VALUE, RECORD])
-})
-
-test("the type a page type has is left to the generator that writes it", async () => {
-  const seen: Reached[] = []
-  await answering(seen)
-  expect(seen.some((one) => one.at.endsWith("type-member"))).toBe(false)
-})
-
-test("a refusal from a change this reaches is the refusal this gives", async () => {
-  const seen: Reached[] = []
-  const said = await answering(seen, {}, { refuses: true })
-  expect(said.refused).toBe(SAID_NO)
-  expect(seen).toHaveLength(1)
-})
-
-test("a slug naming no page property is refused before any body is worked out", async () => {
-  const seen: Reached[] = []
-  const said = await answering(seen, {}, { listed: false })
-  expect(said.refused).toContain("names no page property")
-  expect(seen).toHaveLength(0)
-})
-
-test("a slug carrying no page type is refused", async () => {
-  const seen: Reached[] = []
-  const said = await answering(seen, { property: "web-directory" })
-  expect(said.refused).toContain("names no page property")
-  expect(seen).toHaveLength(0)
-})
-
-test("a path naming no page type is refused before any body is worked out", async () => {
-  const seen: Reached[] = []
-  const said = await answering(seen, {}, { owner: false })
-  expect(said.refused).toContain("names no page type")
-  expect(seen).toHaveLength(0)
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain(RUNG)
 })
 
 test("an argument the change was handed no value for is refused by its key", async () => {
-  const said = await runChange(worldFor([]), { at: OWNER_AT })
-  expect(said.refused).toContain("property")
+  const said = await runChange({ ...NOWHERE, reaching: catching([]) }, { at: OWNER_AT })
+
+  expect(said.refused ?? "").toContain("property")
 })

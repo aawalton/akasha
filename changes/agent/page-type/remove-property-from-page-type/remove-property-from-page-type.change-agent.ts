@@ -10,28 +10,14 @@ export const removePropertyFromPageType = {
   definition: "one page property taken off one page type",
   code: "ts",
   test: "ts",
-  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A property goes from the page type's data.",
+      statement: "A page type is handed to the mechanical change taking a property off one.",
     },
     {
       invariantKind: "departure",
-      statement: "The declaration taken out is the one naming that property.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The property goes from among the page type's parts in the same answer.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The part taken out is keyed `parts` rather than looked for under a second key.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A page type that declares a property without parting it loses the declaration alone.",
+      statement: "The part and the declaration are that change's one answer.",
     },
     {
       invariantKind: "departure",
@@ -39,43 +25,23 @@ export const removePropertyFromPageType = {
     },
     {
       invariantKind: "departure",
-      statement: "The part goes first then the declaration.",
+      statement: "A refusal from that change is the refusal this act gives.",
     },
     {
       invariantKind: "departure",
-      statement: "A slug naming no page property is refused before any body is worked out.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path naming no page type is refused before any body is worked out.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A refusal from a change this reaches is the refusal this gives.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Each edit is worked out over the body the edit before it left.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Taking each part out is left to the mechanical changes.",
+      statement: "The generator writes the page type's own type again from what this leaves.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here spells an import.",
+      statement: "Nothing here works out a body of its own.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes the type a page type has.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The generator writes that type again from the page type this leaves.",
+      statement: "Nothing here reads the index.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads a page of the type the property was declared on.",
+      statement: "No change but that one rung is reached.",
     },
   ],
   changeKind: "change-checked",
