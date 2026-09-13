@@ -85,6 +85,16 @@ export const modelTest = {
       statement:
         "Zero refusals over two runs of 214 clean cases bounds the rate under one in 140, not at zero.",
     },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A closed list judges a sign the wording carries, not whether work could have gone on.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A turn can fail Alan outside all five rules, and no case here names such a failure.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
