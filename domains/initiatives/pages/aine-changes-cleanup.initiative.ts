@@ -14,6 +14,8 @@ export const aineChangesCleanup = {
     },
     {
       statement: "Every target type, subtype and mode that together make sense has a change.",
+      workingMemory:
+        "Twenty subtypes by eight modes, and most empty cells are nonsense. Alan settled these: there is one root manifest, so nothing adds a manifest and nothing adds a way in; where the pages of a page type sit is not a page type's concern, so nothing carries every page of one type. No file of entries is committed, so no key is put into one or taken off one. The cells worth filling were `change-property-on-page-type` and `remove-page-property`.",
     },
   ],
 } as const satisfies Initiative
