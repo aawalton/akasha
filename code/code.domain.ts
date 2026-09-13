@@ -16,7 +16,6 @@ export const code = {
     "domain/editor",
     "module/name-series",
     "module/package-manifest",
-    "module/shape-progress",
     "page-type/app-routes",
     "page-type/component",
     "page-type/container-recipe",
