@@ -10,12 +10,6 @@ export const athenaCommandArguments = {
   intents: [
     {
       statement:
-        "One reader reads every command's arguments from the pages, refusing what no page names.",
-      workingMemory:
-        "`takenFor` is the one reader, and the check's three blind spots are mended: module code under `commands/pages`, a call followed one file on, a dynamic `await import()`. It refuses 15 over three commands at `9b56121c79b`, still `experimental`. The flip is measured safe: the change phase judges only paths a change carries, and no closure of 176 slugs holds those three, so only `alan tracking` blocks it. `parse-args` has one importer, `seat-resume`, which `sr` reaches by a flag. Alan's.\n",
-    },
-    {
-      statement:
         "A command's code reads its arguments through a type generated from its argument pages.",
       workingMemory:
         "234 of 237 by the check at `9b56121c79b`: 15 refusals over three commands. Two are settled: `change apply`, where saying nothing is the instruction to land, and `change draft` with it. The third is `alan tracking`, and it is a property of the command: `file-arguing`'s `readIn` pairs each `--file-path` with the `--content-file` after it, while `takingIn` keys a repeating argument by slug and records no place, so a converted call would accept an unpaired path where today it refuses. Alan's.\n",
