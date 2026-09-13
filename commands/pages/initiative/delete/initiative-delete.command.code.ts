@@ -14,10 +14,13 @@ import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code
 import { initiativeDelete as page } from "akasha/commands/pages/initiative/delete/initiative-delete.command.ts"
 import { initiativesDrawn } from "akasha/domains/modules/work-initiatives/work-initiatives.module.code.ts"
 import {
-  listedByPath,
   type Named,
   namersOf,
+  valueByPath,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+
+const ID = "id"
 
 const CARRIES = "change-mechanical/remove-file-of-any-kind"
 
@@ -61,8 +64,9 @@ export function namingOver(found: readonly Named[], path: string): readonly Name
 }
 
 function namingIn(root: string, path: string): readonly Named[] {
-  const listed = listedByPath(root, path)[0]
-  return listed === undefined ? [] : namingOver(namersOf(root, listed.id), path)
+  const value = valueByPath(root, path)
+  const id = value === null ? null : textAt(value, ID)
+  return id === null ? [] : namingOver(namersOf(root, id), path)
 }
 
 async function away(
