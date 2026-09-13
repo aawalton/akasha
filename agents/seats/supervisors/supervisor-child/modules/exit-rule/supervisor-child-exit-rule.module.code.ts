@@ -4,7 +4,7 @@ import {
   type ChildExitStatus,
   STOP_REASON as DB_STOP_REASON,
   type ShutdownExitWrite,
-} from "akasha/agents/seats/supervisors/supervisor-child/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+} from "akasha/agents/seats/supervisors/supervisor-child/modules/exit-decide/supervisor-child-exit-decide.module.code.ts"
 import {
   askRule,
   type RuleAnswer,

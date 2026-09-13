@@ -6,7 +6,7 @@ import {
 } from "akasha/agents/seats/supervisors/supervisor-actions/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
 import type { PendingAgentAction } from "akasha/agents/seats/supervisors/supervisor-actions/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
 import type { InteractiveSessionBoot } from "akasha/agents/seats/supervisors/supervisor-boot/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
-import { LIVE_CHILD_EXIT_RULE } from "akasha/agents/seats/supervisors/supervisor-child/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+import { LIVE_CHILD_EXIT_RULE } from "akasha/agents/seats/supervisors/supervisor-child/modules/exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { LIVE_IDLE_RULE } from "akasha/agents/seats/supervisors/supervisor-idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"

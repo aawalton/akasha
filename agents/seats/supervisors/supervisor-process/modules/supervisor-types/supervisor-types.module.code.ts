@@ -1,4 +1,4 @@
-import type { ChildExitStatus } from "akasha/agents/seats/supervisors/supervisor-child/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+import type { ChildExitStatus } from "akasha/agents/seats/supervisors/supervisor-child/modules/exit-decide/supervisor-child-exit-decide.module.code.ts"
 
 export type PipedProc = {
   stdin: import("bun").FileSink

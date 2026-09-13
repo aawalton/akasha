@@ -6,8 +6,8 @@ import type {
   ChildExitClassification,
   ChildExitObservation,
   ChildExitStatus,
-} from "akasha/agents/seats/supervisors/supervisor-child/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
-import { STOP_REASON } from "akasha/agents/seats/supervisors/supervisor-child/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+} from "akasha/agents/seats/supervisors/supervisor-child/modules/exit-decide/supervisor-child-exit-decide.module.code.ts"
+import { STOP_REASON } from "akasha/agents/seats/supervisors/supervisor-child/modules/exit-decide/supervisor-child-exit-decide.module.code.ts"
 import type { IdleObservation } from "akasha/agents/seats/supervisors/supervisor-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import {
   type DeferredRestartConfig,

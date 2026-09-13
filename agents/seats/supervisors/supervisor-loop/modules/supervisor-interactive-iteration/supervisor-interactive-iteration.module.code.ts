@@ -14,9 +14,9 @@ import type {
   InteractiveOpts,
   InteractiveSessionBoot,
 } from "akasha/agents/seats/supervisors/supervisor-boot/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
+import { LIVE_CHILD_EXIT_RULE } from "akasha/agents/seats/supervisors/supervisor-child/modules/exit-rule/supervisor-child-exit-rule.module.code.ts"
+import { spawnOrAdoptChild } from "akasha/agents/seats/supervisors/supervisor-child/modules/spawn/supervisor-child-spawn.module.code.ts"
 import { createAgent } from "akasha/agents/seats/supervisors/supervisor-child/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
-import { LIVE_CHILD_EXIT_RULE } from "akasha/agents/seats/supervisors/supervisor-child/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
-import { spawnOrAdoptChild } from "akasha/agents/seats/supervisors/supervisor-child/modules/supervisor-child-spawn/supervisor-child-spawn.module.code.ts"
 import {
   applyCarriedName,
   buildIterationSpawnOpts,

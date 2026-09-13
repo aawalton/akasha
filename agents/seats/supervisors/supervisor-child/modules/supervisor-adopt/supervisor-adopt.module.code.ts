@@ -9,8 +9,8 @@ import {
   readClaudeConfigDeclaration,
   reconcileClaudeConfig,
 } from "akasha/agents/seats/supervisors/supervisor-account/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"
-import type { ChildExitStatus } from "akasha/agents/seats/supervisors/supervisor-child/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
-import type { ChildExitRuleSource } from "akasha/agents/seats/supervisors/supervisor-child/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+import type { ChildExitStatus } from "akasha/agents/seats/supervisors/supervisor-child/modules/exit-decide/supervisor-child-exit-decide.module.code.ts"
+import type { ChildExitRuleSource } from "akasha/agents/seats/supervisors/supervisor-child/modules/exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { buildSupervisorEnv } from "akasha/agents/seats/supervisors/supervisor-child/modules/supervisor-env/supervisor-env.module.code.ts"
 import {
   HOME_DIR,
