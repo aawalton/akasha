@@ -7,10 +7,6 @@ export const amyHarnessImprovements = {
   domain: "domain/alan-harness",
   persona: "amy",
   intents: [
-    { statement: "Each app has a tile drawing the age of the stalest reading its tiles show." },
-    { statement: "Tapping that tile reloads every tile of its app." },
-    { statement: "Every tile's reloads are kept where the freshness tile can read them." },
-    { statement: "The freshness tile draws what of those reloads is compact enough to draw." },
     { statement: "The heartbeat is set from the grant measured rather than from a guess." },
   ],
   constraints: [
