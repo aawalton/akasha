@@ -1,20 +1,5 @@
 import { reloadUI } from "akasha/temper/ui-reload/modules/reload-ui/reload-ui.module.code.ts"
 
-export function parseSlashCommands(this: void, args: string, lowerString?: boolean): string[] {
-  const doLower = lowerString ?? false
-  const options: string[] = []
-  for (const [param] of string.gmatch(args, "([^%s]+)%s*")) {
-    if (param !== undefined && param !== "") {
-      if (doLower === true) {
-        options[options.length] = string.lower(param)
-      } else {
-        options[options.length] = param
-      }
-    }
-  }
-  return options
-}
-
 export function slashCommands(this: void): undefined {
   const leaveGroup = (): undefined => {
     if (IsUnitGrouped("player")) {

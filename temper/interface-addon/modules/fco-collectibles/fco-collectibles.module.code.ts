@@ -300,17 +300,6 @@ function buildExcludedMountIdsLibShifterBox(
   updateExcludedMountIdsShifterBox(parentCtrl)
 }
 
-export function getExcludedMountIdsLibShifterBox(
-  this: void,
-  parentCtrl: Control | undefined
-): ShifterBox | undefined {
-  if (parentCtrl === undefined) {
-    return undefined
-  }
-  updateExcludedMountIdsLibShifterBox(parentCtrl)
-  return excludedMountIdsShifterBoxControl
-}
-
 export function updateExcludedMountIdsLibShifterBox(
   this: void,
   parentCtrl: Control | undefined

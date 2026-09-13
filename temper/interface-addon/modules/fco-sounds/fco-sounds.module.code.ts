@@ -222,17 +222,6 @@ function buildSoundsLibShifterBox(this: void, parentCtrl: Control | undefined): 
   updateDisableSoundsLibShifterBox(parentCtrl)
 }
 
-export function getSoundsLibShifterBox(
-  this: void,
-  parentCtrl: Control | undefined
-): ShifterBox | undefined {
-  if (parentCtrl === undefined) {
-    return undefined
-  }
-  updateSoundsLibShifterBox(parentCtrl)
-  return DISABLE_SOUNDS_SHIFTER_BOX_CONTROL.current
-}
-
 export function updateSoundsLibShifterBox(this: void, parentCtrl: Control | undefined): undefined {
   if (parentCtrl === undefined) {
     return

@@ -129,13 +129,6 @@ export function getMailSettings(this: void): MailSettings {
   error("FCOCS mail: settings table missing")
 }
 
-const ARROW_STR = " |u16:0::|u"
-
-export function cleanSubMenuLabelText(this: void, labelTextWithArrow: string): string {
-  const [result] = string.gsub(labelTextWithArrow, ARROW_STR, "")
-  return result
-}
-
 export function mailTextShortener(this: void, entryData: string): string {
   const stringLength = string.len(entryData)
   if (stringLength > 50) {
@@ -202,14 +195,4 @@ export function getEditBoxByFieldType(
   fieldType: MailFieldType
 ): MailEditControl | undefined {
   return MAIL_SEND_EDIT_FIELDS[fieldType]
-}
-
-export function isAnyFavoriteSettingEnabled(this: void): boolean {
-  const settingsFavorites = getMailSettings().mailFavorites
-  for (const [, isEnabled] of pairs(settingsFavorites)) {
-    if (isEnabled === true) {
-      return true
-    }
-  }
-  return false
 }
