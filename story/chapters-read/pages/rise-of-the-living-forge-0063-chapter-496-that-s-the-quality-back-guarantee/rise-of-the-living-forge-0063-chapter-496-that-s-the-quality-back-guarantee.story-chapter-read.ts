@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0063Chapter496ThatSTheQualityBackGuarantee = {
   position: 63,
   ownLength: 2062,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2658517/chapter-496-thats-the-quality-back-guarantee",
-  externalId: "2658517",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2658517",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2658517/chapter-496-thats-the-quality-back-guarantee",
+    },
+  ],
   publishedAt: "2025-10-07",
   ownProgress: 2062,
   completedAt: "2026-06-29T20:00:27.121Z",

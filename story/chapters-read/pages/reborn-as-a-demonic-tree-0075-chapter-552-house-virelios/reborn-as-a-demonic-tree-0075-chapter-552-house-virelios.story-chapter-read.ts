@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0075Chapter552HouseVirelios = {
   position: 75,
   ownLength: 2727,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3211826/chapter-552-house-virelios",
-  externalId: "3211826",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3211826",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3211826/chapter-552-house-virelios",
+    },
+  ],
   publishedAt: "2026-03-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

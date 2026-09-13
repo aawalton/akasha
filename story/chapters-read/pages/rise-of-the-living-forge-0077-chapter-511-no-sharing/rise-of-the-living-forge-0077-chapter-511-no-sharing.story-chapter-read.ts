@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0077Chapter511NoSharing = {
   position: 77,
   ownLength: 1551,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2731888/chapter-511-no-sharing",
-  externalId: "2731888",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2731888",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2731888/chapter-511-no-sharing",
+    },
+  ],
   publishedAt: "2025-11-04",
   ownProgress: 1551,
   completedAt: "2026-06-29T20:00:53.780Z",

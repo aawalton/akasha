@@ -9,10 +9,14 @@ export const riseOfTheDragonQueenEvolutionprogression00033WrathOfTheRavenous = {
   position: 3,
   ownLength: 2507,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2550126/3-wrath-of-the-ravenous",
-  externalId: "2550126",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2550126",
+      externalLink:
+        "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2550126/3-wrath-of-the-ravenous",
+    },
+  ],
   publishedAt: "2025-08-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

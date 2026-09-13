@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0081Chapter515Body = {
   position: 81,
   ownLength: 1839,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2751909/chapter-515-body",
-  externalId: "2751909",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2751909",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2751909/chapter-515-body",
+    },
+  ],
   publishedAt: "2025-11-11",
   ownProgress: 1839,
   completedAt: "2026-06-29T20:01:01.522Z",

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0040Chapter473Trash = {
   position: 40,
   ownLength: 2259,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2515276/chapter-473-trash",
-  externalId: "2515276",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2515276",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2515276/chapter-473-trash",
+    },
+  ],
   publishedAt: "2025-08-13",
   ownProgress: 2259,
   completedAt: "2026-06-29T19:59:44.027Z",

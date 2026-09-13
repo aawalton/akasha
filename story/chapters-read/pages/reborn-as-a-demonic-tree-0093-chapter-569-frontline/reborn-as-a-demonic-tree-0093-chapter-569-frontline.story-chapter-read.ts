@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0093Chapter569Frontline = {
   position: 93,
   ownLength: 2120,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3415297/chapter-569-frontline",
-  externalId: "3415297",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3415297",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3415297/chapter-569-frontline",
+    },
+  ],
   publishedAt: "2026-05-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

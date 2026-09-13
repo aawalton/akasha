@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0004Chapter4Tiers = {
   position: 4,
   ownLength: 2267,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1460015/chapter-4-tiers",
-  externalId: "1460015",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1460015",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1460015/chapter-4-tiers",
+    },
+  ],
   publishedAt: "2023-12-30",
   ownProgress: 2267,
   completedAt: "2026-06-29T19:58:35.165Z",

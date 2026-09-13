@@ -9,10 +9,14 @@ export const riseOfTheDragonQueenEvolutionprogression001010TheWisp = {
   position: 10,
   ownLength: 1861,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2615730/10-the-wisp",
-  externalId: "2615730",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2615730",
+      externalLink:
+        "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2615730/10-the-wisp",
+    },
+  ],
   publishedAt: "2025-09-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

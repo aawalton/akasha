@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0138Chapter138FLUFFY = {
   position: 138,
   ownLength: 2023,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3524252/chapter-138-f-l-u-f-f-y",
-  externalId: "3524252",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3524252",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3524252/chapter-138-f-l-u-f-f-y",
+    },
+  ],
   publishedAt: "2026-06-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

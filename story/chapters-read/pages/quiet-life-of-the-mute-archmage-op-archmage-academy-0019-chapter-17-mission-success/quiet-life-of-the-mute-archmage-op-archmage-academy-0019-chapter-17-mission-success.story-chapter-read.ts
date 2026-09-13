@@ -9,10 +9,14 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0019Chapter17MissionSucc
   position: 19,
   ownLength: 2080,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3474949/chapter-17-mission-success",
-  externalId: "3474949",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3474949",
+      externalLink:
+        "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3474949/chapter-17-mission-success",
+    },
+  ],
   publishedAt: "2026-05-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

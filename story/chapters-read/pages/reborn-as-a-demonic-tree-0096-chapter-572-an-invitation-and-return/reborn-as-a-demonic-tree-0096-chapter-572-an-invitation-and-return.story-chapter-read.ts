@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0096Chapter572AnInvitationAndReturn = {
   position: 96,
   ownLength: 2759,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3445511/chapter-572-an-invitation-and-return",
-  externalId: "3445511",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3445511",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3445511/chapter-572-an-invitation-and-return",
+    },
+  ],
   publishedAt: "2026-05-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0064Chapter497BadTiming = {
   position: 64,
   ownLength: 1603,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2661113/chapter-497-bad-timing",
-  externalId: "2661113",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2661113",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2661113/chapter-497-bad-timing",
+    },
+  ],
   publishedAt: "2025-10-08",
   ownProgress: 1603,
   completedAt: "2026-06-29T20:00:29.049Z",

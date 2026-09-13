@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0054Chapter532PrimordialForceOfAbsorption = {
   position: 54,
   ownLength: 2651,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3029724/chapter-532-primordial-force-of-absorption",
-  externalId: "3029724",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3029724",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3029724/chapter-532-primordial-force-of-absorption",
+    },
+  ],
   publishedAt: "2026-02-09",
   ownProgress: 2651,
   completedAt: "2026-06-29T19:03:23.075Z",

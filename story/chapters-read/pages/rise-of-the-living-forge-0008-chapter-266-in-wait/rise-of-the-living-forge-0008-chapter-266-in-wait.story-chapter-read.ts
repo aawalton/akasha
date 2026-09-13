@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0008Chapter266InWait = {
   position: 8,
   ownLength: 2068,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1779557/chapter-266-in-wait",
-  externalId: "1779557",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1779557",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1779557/chapter-266-in-wait",
+    },
+  ],
   publishedAt: "2024-08-29",
   ownProgress: 2068,
   completedAt: "2026-06-29T19:58:42.899Z",

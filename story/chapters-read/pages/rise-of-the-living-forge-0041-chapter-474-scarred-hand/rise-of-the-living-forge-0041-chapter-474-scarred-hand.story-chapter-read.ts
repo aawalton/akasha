@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0041Chapter474ScarredHand = {
   position: 41,
   ownLength: 2181,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2517956/chapter-474-scarred-hand",
-  externalId: "2517956",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2517956",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2517956/chapter-474-scarred-hand",
+    },
+  ],
   publishedAt: "2025-08-14",
   ownProgress: 2181,
   completedAt: "2026-06-29T19:59:45.994Z",

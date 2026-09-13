@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0029Chapter460ACallEndOfBook7 = {
   position: 29,
   ownLength: 3140,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2446702/chapter-460-a-call-end-of-book-7",
-  externalId: "2446702",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2446702",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2446702/chapter-460-a-call-end-of-book-7",
+    },
+  ],
   publishedAt: "2025-07-18",
   ownProgress: 3140,
   completedAt: "2026-06-29T19:02:29.999Z",

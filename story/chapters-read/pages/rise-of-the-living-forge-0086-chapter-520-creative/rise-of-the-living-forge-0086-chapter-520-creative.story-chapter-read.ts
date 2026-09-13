@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0086Chapter520Creative = {
   position: 86,
   ownLength: 1676,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2774914/chapter-520-creative",
-  externalId: "2774914",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2774914",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2774914/chapter-520-creative",
+    },
+  ],
   publishedAt: "2025-11-19",
   ownProgress: 1676,
   completedAt: "2026-06-29T20:01:11.099Z",

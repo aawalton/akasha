@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0070Chapter504Sooner = {
   position: 70,
   ownLength: 1980,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2691312/chapter-504-sooner",
-  externalId: "2691312",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2691312",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2691312/chapter-504-sooner",
+    },
+  ],
   publishedAt: "2025-10-20",
   ownProgress: 1980,
   completedAt: "2026-06-29T20:00:40.480Z",

@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0091Chapter91GetOffMe = {
   position: 91,
   ownLength: 1972,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3078556/chapter-91-get-off-me",
-  externalId: "3078556",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3078556",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3078556/chapter-91-get-off-me",
+    },
+  ],
   publishedAt: "2026-02-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

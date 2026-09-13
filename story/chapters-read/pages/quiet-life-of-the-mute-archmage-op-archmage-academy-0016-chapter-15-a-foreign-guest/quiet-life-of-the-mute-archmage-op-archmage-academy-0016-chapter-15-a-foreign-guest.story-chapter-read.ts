@@ -9,10 +9,14 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0016Chapter15AForeignGue
   position: 16,
   ownLength: 1950,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3457720/chapter-15-a-foreign-guest",
-  externalId: "3457720",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3457720",
+      externalLink:
+        "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3457720/chapter-15-a-foreign-guest",
+    },
+  ],
   publishedAt: "2026-05-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

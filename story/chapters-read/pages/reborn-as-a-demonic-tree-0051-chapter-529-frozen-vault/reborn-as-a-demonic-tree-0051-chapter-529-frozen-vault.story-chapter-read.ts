@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0051Chapter529FrozenVault = {
   position: 51,
   ownLength: 2673,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2972277/chapter-529-frozen-vault",
-  externalId: "2972277",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2972277",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2972277/chapter-529-frozen-vault",
+    },
+  ],
   publishedAt: "2026-01-23",
   ownProgress: 2673,
   completedAt: "2026-06-29T19:03:16.875Z",

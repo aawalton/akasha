@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0083Chapter83TimeToCultivate = {
   position: 83,
   ownLength: 2454,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3006376/chapter-83-time-to-cultivate",
-  externalId: "3006376",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3006376",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3006376/chapter-83-time-to-cultivate",
+    },
+  ],
   publishedAt: "2026-02-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

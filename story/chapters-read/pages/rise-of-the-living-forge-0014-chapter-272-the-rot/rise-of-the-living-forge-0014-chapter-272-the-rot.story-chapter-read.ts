@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0014Chapter272TheRot = {
   position: 14,
   ownLength: 2048,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1798578/chapter-272-the-rot",
-  externalId: "1798578",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1798578",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1798578/chapter-272-the-rot",
+    },
+  ],
   publishedAt: "2024-09-11",
   ownProgress: 2048,
   completedAt: "2026-06-29T19:58:54.410Z",

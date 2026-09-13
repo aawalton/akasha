@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0126Chapter126GoldenArchCity = {
   position: 126,
   ownLength: 2195,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3393680/chapter-126-golden-arch-city",
-  externalId: "3393680",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3393680",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3393680/chapter-126-golden-arch-city",
+    },
+  ],
   publishedAt: "2026-05-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

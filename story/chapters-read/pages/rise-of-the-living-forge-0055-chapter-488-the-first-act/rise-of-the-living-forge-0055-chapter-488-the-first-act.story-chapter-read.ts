@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0055Chapter488TheFirstAct = {
   position: 55,
   ownLength: 2495,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2620301/chapter-488-the-first-act",
-  externalId: "2620301",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2620301",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2620301/chapter-488-the-first-act",
+    },
+  ],
   publishedAt: "2025-09-22",
   ownProgress: 2495,
   completedAt: "2026-06-29T20:00:11.648Z",

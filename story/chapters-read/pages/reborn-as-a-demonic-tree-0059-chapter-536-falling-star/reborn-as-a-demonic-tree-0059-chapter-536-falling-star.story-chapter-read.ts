@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0059Chapter536FallingStar = {
   position: 59,
   ownLength: 2969,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3068868/chapter-536-falling-star",
-  externalId: "3068868",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3068868",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3068868/chapter-536-falling-star",
+    },
+  ],
   publishedAt: "2026-02-18",
   ownProgress: 2969,
   completedAt: "2026-06-29T19:03:33.641Z",

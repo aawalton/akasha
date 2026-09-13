@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0105Chapter105ALookInThePast23 = {
   position: 105,
   ownLength: 1974,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3193697/chapter-105-a-look-in-the-past23",
-  externalId: "3193697",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3193697",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3193697/chapter-105-a-look-in-the-past23",
+    },
+  ],
   publishedAt: "2026-03-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

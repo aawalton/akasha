@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0004Chapter3AuraOfFear = {
   position: 4,
   ownLength: 1502,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081345/chapter-3-aura-of-fear",
-  externalId: "1081345",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1081345",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081345/chapter-3-aura-of-fear",
+    },
+  ],
   publishedAt: "2023-01-07",
   ownProgress: 1502,
   completedAt: "2026-06-29T19:01:37.207Z",

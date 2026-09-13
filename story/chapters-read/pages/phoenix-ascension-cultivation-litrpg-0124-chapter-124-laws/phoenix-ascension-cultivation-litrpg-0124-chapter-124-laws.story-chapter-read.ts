@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0124Chapter124Laws = {
   position: 124,
   ownLength: 3268,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3376123/chapter-124-laws",
-  externalId: "3376123",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3376123",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3376123/chapter-124-laws",
+    },
+  ],
   publishedAt: "2026-05-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

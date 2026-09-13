@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0082Chapter516Coremaxxing = {
   position: 82,
   ownLength: 1621,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2754867/chapter-516-coremaxxing",
-  externalId: "2754867",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2754867",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2754867/chapter-516-coremaxxing",
+    },
+  ],
   publishedAt: "2025-11-12",
   ownProgress: 1621,
   completedAt: "2026-06-29T20:01:03.503Z",

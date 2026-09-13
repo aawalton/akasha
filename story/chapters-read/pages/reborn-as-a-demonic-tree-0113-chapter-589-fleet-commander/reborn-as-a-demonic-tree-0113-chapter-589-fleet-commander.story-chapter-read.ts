@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0113Chapter589FleetCommander = {
   position: 113,
   ownLength: 2369,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3628444/chapter-589-fleet-commander",
-  externalId: "3628444",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3628444",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3628444/chapter-589-fleet-commander",
+    },
+  ],
   publishedAt: "2026-07-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

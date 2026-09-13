@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0119Chapter595StrengthsAndWeaknesses = {
   position: 119,
   ownLength: 2433,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3721291/chapter-595-strengths-and-weaknesses",
-  externalId: "3721291",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3721291",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3721291/chapter-595-strengths-and-weaknesses",
+    },
+  ],
   publishedAt: "2026-07-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

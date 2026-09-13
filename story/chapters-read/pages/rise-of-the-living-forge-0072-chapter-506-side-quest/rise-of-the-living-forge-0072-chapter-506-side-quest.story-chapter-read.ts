@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0072Chapter506SideQuest = {
   position: 72,
   ownLength: 1968,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2699123/chapter-506-side-quest",
-  externalId: "2699123",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2699123",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2699123/chapter-506-side-quest",
+    },
+  ],
   publishedAt: "2025-10-23",
   ownProgress: 1968,
   completedAt: "2026-06-29T20:00:44.101Z",

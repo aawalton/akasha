@@ -9,10 +9,14 @@ export const riseOfTheDragonQueenEvolutionprogression001919Blackmail = {
   position: 19,
   ownLength: 2242,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2694462/19-blackmail",
-  externalId: "2694462",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2694462",
+      externalLink:
+        "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2694462/19-blackmail",
+    },
+  ],
   publishedAt: "2025-10-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

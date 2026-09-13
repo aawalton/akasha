@@ -9,10 +9,14 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0011Chapter11TheWhiteRai
   position: 11,
   ownLength: 2127,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3414369/chapter-11-the-white-rain-part-1",
-  externalId: "3414369",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3414369",
+      externalLink:
+        "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3414369/chapter-11-the-white-rain-part-1",
+    },
+  ],
   publishedAt: "2026-05-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

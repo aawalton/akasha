@@ -9,10 +9,14 @@ export const phoenixHealer0002PhoenixHealerOnAmazon = {
   position: 2,
   ownLength: 90,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/96871/phoenix-healer/chapter/3253019/phoenix-healer-on-amazon",
-  externalId: "3253019",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3253019",
+      externalLink:
+        "https://www.royalroad.com/fiction/96871/phoenix-healer/chapter/3253019/phoenix-healer-on-amazon",
+    },
+  ],
   publishedAt: "2026-04-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0031Chapter29TheManicMag
   position: 31,
   ownLength: 2538,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3629029/chapter-29-the-manic-mage",
-  externalId: "3629029",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3629029",
+      externalLink:
+        "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3629029/chapter-29-the-manic-mage",
+    },
+  ],
   publishedAt: "2026-07-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

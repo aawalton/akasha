@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0054Chapter487Sunset = {
   position: 54,
   ownLength: 2076,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2610366/chapter-487-sunset",
-  externalId: "2610366",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2610366",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2610366/chapter-487-sunset",
+    },
+  ],
   publishedAt: "2025-09-18",
   ownProgress: 2076,
   completedAt: "2026-06-29T20:00:09.853Z",

@@ -9,10 +9,14 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0030Chapter28BattleAgain
   position: 30,
   ownLength: 2497,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3614034/chapter-28-battle-against-the-wyverns",
-  externalId: "3614034",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3614034",
+      externalLink:
+        "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3614034/chapter-28-battle-against-the-wyverns",
+    },
+  ],
   publishedAt: "2026-06-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

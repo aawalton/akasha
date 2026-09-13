@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0033Chapter511InvasionEndOfBook8 = {
   position: 33,
   ownLength: 2809,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2836647/chapter-511-invasion-end-of-book-8",
-  externalId: "2836647",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2836647",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2836647/chapter-511-invasion-end-of-book-8",
+    },
+  ],
   publishedAt: "2025-12-10",
   ownProgress: 2809,
   completedAt: "2026-06-29T19:02:38.309Z",

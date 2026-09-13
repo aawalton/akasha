@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0027Chapter459PrecautionaryMeasures = {
   position: 27,
   ownLength: 2044,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2457153/chapter-459-precautionary-measures",
-  externalId: "2457153",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2457153",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2457153/chapter-459-precautionary-measures",
+    },
+  ],
   publishedAt: "2025-07-22",
   ownProgress: 2044,
   completedAt: "2026-06-29T19:59:19.454Z",

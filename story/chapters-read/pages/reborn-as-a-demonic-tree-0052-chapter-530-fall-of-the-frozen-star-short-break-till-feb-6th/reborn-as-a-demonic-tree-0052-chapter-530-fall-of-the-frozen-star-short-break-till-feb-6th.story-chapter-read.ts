@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0052Chapter530FallOfTheFrozenStarShortBreakTill
   position: 52,
   ownLength: 2880,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2981932/chapter-530-fall-of-the-frozen-star-short-break",
-  externalId: "2981932",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2981932",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2981932/chapter-530-fall-of-the-frozen-star-short-break",
+    },
+  ],
   publishedAt: "2026-01-26",
   ownProgress: 2880,
   completedAt: "2026-06-29T19:03:18.967Z",

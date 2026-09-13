@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0131Chapter131KillSteal = {
   position: 131,
   ownLength: 2446,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3445006/chapter-131-kill-steal",
-  externalId: "3445006",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3445006",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3445006/chapter-131-kill-steal",
+    },
+  ],
   publishedAt: "2026-05-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

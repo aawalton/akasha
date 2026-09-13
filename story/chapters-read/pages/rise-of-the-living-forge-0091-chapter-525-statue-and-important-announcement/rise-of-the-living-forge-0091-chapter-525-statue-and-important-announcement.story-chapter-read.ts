@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0091Chapter525StatueAndImportantAnnouncement = 
   position: 91,
   ownLength: 1645,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2815375/chapter-525-statue-important-announcement",
-  externalId: "2815375",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2815375",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2815375/chapter-525-statue-important-announcement",
+    },
+  ],
   publishedAt: "2025-12-03",
   ownProgress: 1645,
   completedAt: "2026-06-29T20:01:20.749Z",

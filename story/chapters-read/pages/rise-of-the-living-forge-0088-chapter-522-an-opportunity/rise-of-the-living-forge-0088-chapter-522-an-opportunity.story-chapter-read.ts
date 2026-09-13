@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0088Chapter522AnOpportunity = {
   position: 88,
   ownLength: 1546,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2795018/chapter-522-an-opportunity",
-  externalId: "2795018",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2795018",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2795018/chapter-522-an-opportunity",
+    },
+  ],
   publishedAt: "2025-11-26",
   ownProgress: 1546,
   completedAt: "2026-06-29T20:01:14.966Z",

@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0114Chapter114Heist = {
   position: 114,
   ownLength: 3710,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3278846/chapter-114-heist",
-  externalId: "3278846",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3278846",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3278846/chapter-114-heist",
+    },
+  ],
   publishedAt: "2026-04-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

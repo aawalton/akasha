@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0094Chapter570TheSwarm = {
   position: 94,
   ownLength: 2961,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3424044/chapter-570-the-swarm",
-  externalId: "3424044",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3424044",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3424044/chapter-570-the-swarm",
+    },
+  ],
   publishedAt: "2026-05-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

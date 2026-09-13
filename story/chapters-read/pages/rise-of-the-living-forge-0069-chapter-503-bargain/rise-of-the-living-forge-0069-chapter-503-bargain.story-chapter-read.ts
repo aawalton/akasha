@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0069Chapter503Bargain = {
   position: 69,
   ownLength: 1780,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2681182/chapter-503-bargain",
-  externalId: "2681182",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2681182",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2681182/chapter-503-bargain",
+    },
+  ],
   publishedAt: "2025-10-16",
   ownProgress: 1780,
   completedAt: "2026-06-29T20:00:38.552Z",

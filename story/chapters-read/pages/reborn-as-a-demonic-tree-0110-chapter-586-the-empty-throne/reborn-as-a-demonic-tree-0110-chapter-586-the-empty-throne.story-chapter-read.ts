@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0110Chapter586TheEmptyThrone = {
   position: 110,
   ownLength: 2518,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3595763/chapter-586-the-empty-throne",
-  externalId: "3595763",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3595763",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3595763/chapter-586-the-empty-throne",
+    },
+  ],
   publishedAt: "2026-06-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

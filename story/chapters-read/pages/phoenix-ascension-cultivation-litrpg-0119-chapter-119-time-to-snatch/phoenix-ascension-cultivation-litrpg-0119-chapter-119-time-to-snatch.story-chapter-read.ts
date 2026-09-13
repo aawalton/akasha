@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0119Chapter119TimeToSnatch = {
   position: 119,
   ownLength: 1712,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3326692/chapter-119-time-to-snatch",
-  externalId: "3326692",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3326692",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3326692/chapter-119-time-to-snatch",
+    },
+  ],
   publishedAt: "2026-04-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0117Chapter593Manipulation = {
   position: 117,
   ownLength: 2965,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3703376/chapter-593-manipulation",
-  externalId: "3703376",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3703376",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3703376/chapter-593-manipulation",
+    },
+  ],
   publishedAt: "2026-07-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

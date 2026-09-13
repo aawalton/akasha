@@ -9,10 +9,14 @@ export const ratGirlEvolutionLabRatToUnrivaled00077FueledByFlame = {
   position: 7,
   ownLength: 2288,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2572861/7-fueled-by-flame",
-  externalId: "2572861",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2572861",
+      externalLink:
+        "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2572861/7-fueled-by-flame",
+    },
+  ],
   publishedAt: "2025-09-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

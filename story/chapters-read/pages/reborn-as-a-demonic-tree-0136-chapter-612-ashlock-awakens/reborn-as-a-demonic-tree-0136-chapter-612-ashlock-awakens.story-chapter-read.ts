@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0136Chapter612AshlockAwakens = {
   position: 136,
   ownLength: 3014,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3901704/chapter-612-ashlock-awakens",
-  externalId: "3901704",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3901704",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3901704/chapter-612-ashlock-awakens",
+    },
+  ],
   publishedAt: "2026-09-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

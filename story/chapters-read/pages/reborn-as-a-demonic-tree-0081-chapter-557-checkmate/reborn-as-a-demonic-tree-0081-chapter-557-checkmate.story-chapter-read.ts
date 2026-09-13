@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0081Chapter557Checkmate = {
   position: 81,
   ownLength: 2469,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3257520/chapter-557-checkmate",
-  externalId: "3257520",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3257520",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3257520/chapter-557-checkmate",
+    },
+  ],
   publishedAt: "2026-04-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

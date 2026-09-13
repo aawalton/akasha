@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0097Chapter97Breakthroughs = {
   position: 97,
   ownLength: 2039,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3127543/chapter-97-breakthroughs",
-  externalId: "3127543",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3127543",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3127543/chapter-97-breakthroughs",
+    },
+  ],
   publishedAt: "2026-03-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

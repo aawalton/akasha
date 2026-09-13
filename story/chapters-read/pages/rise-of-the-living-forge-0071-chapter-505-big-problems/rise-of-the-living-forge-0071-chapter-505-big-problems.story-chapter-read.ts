@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0071Chapter505BigProblems = {
   position: 71,
   ownLength: 1876,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2693994/chapter-505-big-problems",
-  externalId: "2693994",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2693994",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2693994/chapter-505-big-problems",
+    },
+  ],
   publishedAt: "2025-10-21",
   ownProgress: 1876,
   completedAt: "2026-06-29T20:00:42.268Z",

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0035Chapter468Practice = {
   position: 35,
   ownLength: 1616,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2497067/chapter-468-practice",
-  externalId: "2497067",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2497067",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2497067/chapter-468-practice",
+    },
+  ],
   publishedAt: "2025-08-06",
   ownProgress: 1616,
   completedAt: "2026-06-29T19:59:34.669Z",

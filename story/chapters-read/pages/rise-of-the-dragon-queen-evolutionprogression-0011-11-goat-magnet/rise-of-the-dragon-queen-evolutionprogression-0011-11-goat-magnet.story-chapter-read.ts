@@ -9,10 +9,14 @@ export const riseOfTheDragonQueenEvolutionprogression001111GoatMagnet = {
   position: 11,
   ownLength: 3152,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2623404/11-goat-magnet",
-  externalId: "2623404",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2623404",
+      externalLink:
+        "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2623404/11-goat-magnet",
+    },
+  ],
   publishedAt: "2025-09-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

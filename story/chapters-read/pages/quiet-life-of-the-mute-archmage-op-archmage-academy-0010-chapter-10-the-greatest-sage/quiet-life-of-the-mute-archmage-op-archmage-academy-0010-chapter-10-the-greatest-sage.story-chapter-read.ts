@@ -9,10 +9,14 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0010Chapter10TheGreatest
   position: 10,
   ownLength: 2708,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3402548/chapter-10-the-greatest-sage",
-  externalId: "3402548",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3402548",
+      externalLink:
+        "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3402548/chapter-10-the-greatest-sage",
+    },
+  ],
   publishedAt: "2026-05-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

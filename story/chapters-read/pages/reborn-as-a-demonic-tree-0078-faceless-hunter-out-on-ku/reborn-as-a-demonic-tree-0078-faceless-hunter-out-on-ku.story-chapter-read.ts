@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0078FacelessHunterOutOnKu = {
   position: 78,
   ownLength: 214,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3238849/faceless-hunter-out-on-ku",
-  externalId: "3238849",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3238849",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3238849/faceless-hunter-out-on-ku",
+    },
+  ],
   publishedAt: "2026-04-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

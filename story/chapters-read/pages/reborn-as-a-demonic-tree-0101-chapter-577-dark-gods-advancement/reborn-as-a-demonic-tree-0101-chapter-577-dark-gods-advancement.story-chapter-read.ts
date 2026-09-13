@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0101Chapter577DarkGodsAdvancement = {
   position: 101,
   ownLength: 2745,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3498878/chapter-577-dark-gods-advancement",
-  externalId: "3498878",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3498878",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3498878/chapter-577-dark-gods-advancement",
+    },
+  ],
   publishedAt: "2026-06-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

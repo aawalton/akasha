@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0026Chapter458AuraFarming = {
   position: 26,
   ownLength: 1593,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2454469/chapter-458-aura-farming",
-  externalId: "2454469",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2454469",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2454469/chapter-458-aura-farming",
+    },
+  ],
   publishedAt: "2025-07-21",
   ownProgress: 1593,
   completedAt: "2026-06-29T19:59:17.567Z",

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0024Chapter456ClassAct = {
   position: 24,
   ownLength: 2122,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2440154/chapter-456-class-act",
-  externalId: "2440154",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2440154",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2440154/chapter-456-class-act",
+    },
+  ],
   publishedAt: "2025-07-16",
   ownProgress: 2122,
   completedAt: "2026-06-29T19:59:13.666Z",

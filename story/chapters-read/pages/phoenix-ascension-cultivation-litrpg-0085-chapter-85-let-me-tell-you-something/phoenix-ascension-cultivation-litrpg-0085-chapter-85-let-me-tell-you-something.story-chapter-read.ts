@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0085Chapter85LetMeTellYouSomething
   position: 85,
   ownLength: 2552,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3022693/chapter-85-let-me-tell-you-something",
-  externalId: "3022693",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3022693",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3022693/chapter-85-let-me-tell-you-something",
+    },
+  ],
   publishedAt: "2026-02-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

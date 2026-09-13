@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0090Chapter90FoundationEstablishme
   position: 90,
   ownLength: 2670,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3068912/chapter-90-foundation-establishment",
-  externalId: "3068912",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3068912",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3068912/chapter-90-foundation-establishment",
+    },
+  ],
   publishedAt: "2026-02-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

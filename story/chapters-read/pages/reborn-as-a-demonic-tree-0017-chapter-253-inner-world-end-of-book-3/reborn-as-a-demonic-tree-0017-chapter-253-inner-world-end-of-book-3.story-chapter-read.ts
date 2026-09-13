@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0017Chapter253InnerWorldEndOfBook3 = {
   position: 17,
   ownLength: 3736,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1541682/chapter-253-inner-world-end-of-book-3",
-  externalId: "1541682",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1541682",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1541682/chapter-253-inner-world-end-of-book-3",
+    },
+  ],
   publishedAt: "2024-03-04",
   ownProgress: 3736,
   completedAt: "2026-06-29T19:02:04.187Z",

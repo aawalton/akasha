@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0067Chapter544SummoningTheAbyss = {
   position: 67,
   ownLength: 2557,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3141305/chapter-544-summoning-the-abyss",
-  externalId: "3141305",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3141305",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3141305/chapter-544-summoning-the-abyss",
+    },
+  ],
   publishedAt: "2026-03-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0037Chapter470Break = {
   position: 37,
   ownLength: 2604,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2502418/chapter-470-break",
-  externalId: "2502418",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2502418",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2502418/chapter-470-break",
+    },
+  ],
   publishedAt: "2025-08-08",
   ownProgress: 2604,
   completedAt: "2026-06-29T19:59:38.525Z",

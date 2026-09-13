@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0090Chapter566TheCelestialInkDragon = {
   position: 90,
   ownLength: 2725,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3383665/chapter-566-the-celestial-ink-dragon",
-  externalId: "3383665",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3383665",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3383665/chapter-566-the-celestial-ink-dragon",
+    },
+  ],
   publishedAt: "2026-05-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

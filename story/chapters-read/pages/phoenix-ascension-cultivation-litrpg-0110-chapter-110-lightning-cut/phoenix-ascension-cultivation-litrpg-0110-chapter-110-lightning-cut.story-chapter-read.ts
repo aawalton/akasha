@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0110Chapter110LightningCut = {
   position: 110,
   ownLength: 2363,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3240126/chapter-110-lightning-cut",
-  externalId: "3240126",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3240126",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3240126/chapter-110-lightning-cut",
+    },
+  ],
   publishedAt: "2026-04-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

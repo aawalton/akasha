@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0141Chapter141ALittleTooFar = {
   position: 141,
   ownLength: 2410,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3558688/chapter-141-a-little-too-far",
-  externalId: "3558688",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3558688",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3558688/chapter-141-a-little-too-far",
+    },
+  ],
   publishedAt: "2026-06-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0083Chapter559MarkedForDeath = {
   position: 83,
   ownLength: 2213,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3278272/chapter-559-marked-for-death",
-  externalId: "3278272",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3278272",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3278272/chapter-559-marked-for-death",
+    },
+  ],
   publishedAt: "2026-04-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

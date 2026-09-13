@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0143Chapter143Thievery = {
   position: 143,
   ownLength: 2135,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3581343/chapter-143-thievery",
-  externalId: "3581343",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3581343",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3581343/chapter-143-thievery",
+    },
+  ],
   publishedAt: "2026-06-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

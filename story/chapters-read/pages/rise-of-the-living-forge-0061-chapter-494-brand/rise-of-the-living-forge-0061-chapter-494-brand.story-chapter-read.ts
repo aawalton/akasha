@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0061Chapter494Brand = {
   position: 61,
   ownLength: 1713,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2643522/chapter-494-brand",
-  externalId: "2643522",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2643522",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2643522/chapter-494-brand",
+    },
+  ],
   publishedAt: "2025-10-01",
   ownProgress: 1713,
   completedAt: "2026-06-29T20:00:23.283Z",

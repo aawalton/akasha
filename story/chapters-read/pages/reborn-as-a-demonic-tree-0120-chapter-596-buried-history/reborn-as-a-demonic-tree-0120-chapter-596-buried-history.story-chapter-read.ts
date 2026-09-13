@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0120Chapter596BuriedHistory = {
   position: 120,
   ownLength: 2457,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3734173/chapter-596-buried-history",
-  externalId: "3734173",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3734173",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3734173/chapter-596-buried-history",
+    },
+  ],
   publishedAt: "2026-07-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

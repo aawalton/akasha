@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0089Chapter523Eager = {
   position: 89,
   ownLength: 1767,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2797881/chapter-523-eager",
-  externalId: "2797881",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2797881",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2797881/chapter-523-eager",
+    },
+  ],
   publishedAt: "2025-11-27",
   ownProgress: 1767,
   completedAt: "2026-06-29T20:01:16.978Z",

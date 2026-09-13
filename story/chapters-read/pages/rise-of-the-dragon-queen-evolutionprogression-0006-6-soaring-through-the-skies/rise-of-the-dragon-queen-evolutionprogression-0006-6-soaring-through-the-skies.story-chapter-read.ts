@@ -9,10 +9,14 @@ export const riseOfTheDragonQueenEvolutionprogression00066SoaringThroughTheSkies
   position: 6,
   ownLength: 2358,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2579994/6-soaring-through-the-skies",
-  externalId: "2579994",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2579994",
+      externalLink:
+        "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2579994/6-soaring-through-the-skies",
+    },
+  ],
   publishedAt: "2025-09-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

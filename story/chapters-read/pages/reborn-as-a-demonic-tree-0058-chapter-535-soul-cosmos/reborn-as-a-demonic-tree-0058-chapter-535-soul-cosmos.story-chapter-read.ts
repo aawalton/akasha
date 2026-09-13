@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0058Chapter535SoulCosmos = {
   position: 58,
   ownLength: 3030,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3060525/chapter-535-soul-cosmos",
-  externalId: "3060525",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3060525",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3060525/chapter-535-soul-cosmos",
+    },
+  ],
   publishedAt: "2026-02-16",
   ownProgress: 3030,
   completedAt: "2026-06-29T19:03:31.457Z",

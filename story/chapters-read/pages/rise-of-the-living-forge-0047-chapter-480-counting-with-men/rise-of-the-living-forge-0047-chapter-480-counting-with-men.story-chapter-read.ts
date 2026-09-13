@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0047Chapter480CountingWithMen = {
   position: 47,
   ownLength: 1632,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2588705/chapter-480-counting-with-men",
-  externalId: "2588705",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2588705",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2588705/chapter-480-counting-with-men",
+    },
+  ],
   publishedAt: "2025-09-10",
   ownProgress: 1632,
   completedAt: "2026-06-29T19:59:56.949Z",

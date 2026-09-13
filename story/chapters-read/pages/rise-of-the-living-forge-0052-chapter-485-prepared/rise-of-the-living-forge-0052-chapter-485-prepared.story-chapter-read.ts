@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0052Chapter485Prepared = {
   position: 52,
   ownLength: 1625,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2605047/chapter-485-prepared",
-  externalId: "2605047",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2605047",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2605047/chapter-485-prepared",
+    },
+  ],
   publishedAt: "2025-09-16",
   ownProgress: 1625,
   completedAt: "2026-06-29T20:00:06.271Z",

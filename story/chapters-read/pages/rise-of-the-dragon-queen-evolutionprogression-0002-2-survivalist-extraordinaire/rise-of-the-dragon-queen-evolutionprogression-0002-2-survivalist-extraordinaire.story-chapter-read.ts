@@ -9,10 +9,14 @@ export const riseOfTheDragonQueenEvolutionprogression00022SurvivalistExtraordina
   position: 2,
   ownLength: 3306,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2539156/2-survivalist-extraordinaire",
-  externalId: "2539156",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2539156",
+      externalLink:
+        "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2539156/2-survivalist-extraordinaire",
+    },
+  ],
   publishedAt: "2025-08-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

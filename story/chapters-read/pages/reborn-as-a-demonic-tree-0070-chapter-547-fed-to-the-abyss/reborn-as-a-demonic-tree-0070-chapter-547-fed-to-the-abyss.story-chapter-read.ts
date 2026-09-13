@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0070Chapter547FedToTheAbyss = {
   position: 70,
   ownLength: 2631,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3166762/chapter-547-fed-to-the-abyss",
-  externalId: "3166762",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3166762",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3166762/chapter-547-fed-to-the-abyss",
+    },
+  ],
   publishedAt: "2026-03-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

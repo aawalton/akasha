@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0165Chapter165SpecialMethod = {
   position: 165,
   ownLength: 2278,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3838163/chapter-165-special-method",
-  externalId: "3838163",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3838163",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3838163/chapter-165-special-method",
+    },
+  ],
   publishedAt: "2026-08-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0062Chapter539AngelOfDarkness = {
   position: 62,
   ownLength: 2868,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3099349/chapter-539-angel-of-darkness",
-  externalId: "3099349",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3099349",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3099349/chapter-539-angel-of-darkness",
+    },
+  ],
   publishedAt: "2026-02-27",
   ownProgress: 2868,
   completedAt: "2026-06-29T19:03:39.948Z",

@@ -9,10 +9,14 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0029Chapter27TimeToGetTo
   position: 29,
   ownLength: 3044,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3596106/chapter-27-time-to-get-to-work",
-  externalId: "3596106",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3596106",
+      externalLink:
+        "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3596106/chapter-27-time-to-get-to-work",
+    },
+  ],
   publishedAt: "2026-06-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

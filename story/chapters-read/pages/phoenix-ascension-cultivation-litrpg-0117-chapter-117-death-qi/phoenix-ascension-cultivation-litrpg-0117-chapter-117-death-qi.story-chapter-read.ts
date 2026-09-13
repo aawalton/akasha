@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0117Chapter117DeathQi = {
   position: 117,
   ownLength: 2154,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3306847/chapter-117-death-qi",
-  externalId: "3306847",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3306847",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3306847/chapter-117-death-qi",
+    },
+  ],
   publishedAt: "2026-04-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

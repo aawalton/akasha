@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0171Chapter171TowardTheFourCornerS
   position: 171,
   ownLength: 2374,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3901460/chapter-171-toward-the-four-corner-sword-realm",
-  externalId: "3901460",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3901460",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3901460/chapter-171-toward-the-four-corner-sword-realm",
+    },
+  ],
   publishedAt: "2026-09-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0095Chapter95TunicOfTheLonePhoenix
   position: 95,
   ownLength: 2184,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3109749/chapter-95-tunic-of-the-lone-phoenix",
-  externalId: "3109749",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3109749",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3109749/chapter-95-tunic-of-the-lone-phoenix",
+    },
+  ],
   publishedAt: "2026-03-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0111Chapter587Humiliation = {
   position: 111,
   ownLength: 2513,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3608996/chapter-587-humiliation",
-  externalId: "3608996",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3608996",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3608996/chapter-587-humiliation",
+    },
+  ],
   publishedAt: "2026-06-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

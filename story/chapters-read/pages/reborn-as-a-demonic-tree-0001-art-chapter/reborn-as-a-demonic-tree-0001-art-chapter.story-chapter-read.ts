@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0001ArtChapter = {
   position: 1,
   ownLength: 501,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1130395/art-chapter",
-  externalId: "1130395",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1130395",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1130395/art-chapter",
+    },
+  ],
   publishedAt: "2023-03-06",
   ownProgress: 501,
   completedAt: "2026-06-29T19:01:31.040Z",

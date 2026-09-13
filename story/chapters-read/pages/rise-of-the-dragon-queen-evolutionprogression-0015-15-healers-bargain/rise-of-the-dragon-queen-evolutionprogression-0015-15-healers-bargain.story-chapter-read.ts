@@ -9,10 +9,14 @@ export const riseOfTheDragonQueenEvolutionprogression001515HealersBargain = {
   position: 15,
   ownLength: 1853,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2658469/15-healers-bargain",
-  externalId: "2658469",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2658469",
+      externalLink:
+        "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2658469/15-healers-bargain",
+    },
+  ],
   publishedAt: "2025-10-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

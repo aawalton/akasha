@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0036Chapter514ASilentAdmirer = {
   position: 36,
   ownLength: 3028,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2856874/chapter-514-a-silent-admirer",
-  externalId: "2856874",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2856874",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2856874/chapter-514-a-silent-admirer",
+    },
+  ],
   publishedAt: "2025-12-17",
   ownProgress: 3028,
   completedAt: "2026-06-29T19:02:44.814Z",

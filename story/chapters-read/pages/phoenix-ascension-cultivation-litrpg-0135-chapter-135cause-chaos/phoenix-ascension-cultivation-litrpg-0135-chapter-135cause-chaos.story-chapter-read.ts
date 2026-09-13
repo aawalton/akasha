@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0135Chapter135causeChaos = {
   position: 135,
   ownLength: 2435,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3493476/chapter-135cause-chaos",
-  externalId: "3493476",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3493476",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3493476/chapter-135cause-chaos",
+    },
+  ],
   publishedAt: "2026-06-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

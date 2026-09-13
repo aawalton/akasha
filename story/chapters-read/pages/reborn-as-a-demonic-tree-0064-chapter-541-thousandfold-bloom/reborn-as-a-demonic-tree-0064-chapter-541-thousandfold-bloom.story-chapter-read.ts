@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0064Chapter541ThousandfoldBloom = {
   position: 64,
   ownLength: 2227,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3116714/chapter-541-thousandfold-bloom",
-  externalId: "3116714",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3116714",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3116714/chapter-541-thousandfold-bloom",
+    },
+  ],
   publishedAt: "2026-03-04",
   ownProgress: 2227,
   completedAt: "2026-06-29T19:03:43.981Z",

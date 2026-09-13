@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0053Chapter531SpeakingWithHerFather = {
   position: 53,
   ownLength: 2777,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3019726/chapter-531-speaking-with-her-father",
-  externalId: "3019726",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3019726",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3019726/chapter-531-speaking-with-her-father",
+    },
+  ],
   publishedAt: "2026-02-06",
   ownProgress: 2777,
   completedAt: "2026-06-29T19:03:21.002Z",

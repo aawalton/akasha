@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0081Chapter81ShortFight = {
   position: 81,
   ownLength: 2086,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2988669/chapter-81-short-fight",
-  externalId: "2988669",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2988669",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2988669/chapter-81-short-fight",
+    },
+  ],
   publishedAt: "2026-01-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0010Chapter9Thunderstruck = {
   position: 10,
   ownLength: 1739,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081593/chapter-9-thunderstruck",
-  externalId: "1081593",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1081593",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081593/chapter-9-thunderstruck",
+    },
+  ],
   publishedAt: "2023-01-07",
   ownProgress: 1739,
   completedAt: "2026-06-29T19:01:49.569Z",

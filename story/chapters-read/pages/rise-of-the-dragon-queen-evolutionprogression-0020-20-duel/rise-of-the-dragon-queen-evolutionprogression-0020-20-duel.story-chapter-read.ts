@@ -9,10 +9,14 @@ export const riseOfTheDragonQueenEvolutionprogression002020Duel = {
   position: 20,
   ownLength: 1990,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2704614/20-duel",
-  externalId: "2704614",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2704614",
+      externalLink:
+        "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2704614/20-duel",
+    },
+  ],
   publishedAt: "2025-10-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

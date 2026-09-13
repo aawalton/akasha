@@ -9,10 +9,14 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0035Chapter33FuryOfTheWo
   position: 35,
   ownLength: 2809,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3695492/chapter-33-fury-of-the-world",
-  externalId: "3695492",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3695492",
+      externalLink:
+        "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3695492/chapter-33-fury-of-the-world",
+    },
+  ],
   publishedAt: "2026-07-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

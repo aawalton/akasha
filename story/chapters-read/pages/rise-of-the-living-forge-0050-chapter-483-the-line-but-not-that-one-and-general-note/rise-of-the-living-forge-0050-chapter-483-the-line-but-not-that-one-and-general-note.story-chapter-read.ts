@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0050Chapter483TheLineButNotThatOneAndGeneralNot
   position: 50,
   ownLength: 1783,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2595297/chapter-483-the-line-but-not-that-one-general",
-  externalId: "2595297",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2595297",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2595297/chapter-483-the-line-but-not-that-one-general",
+    },
+  ],
   publishedAt: "2025-09-12",
   ownProgress: 1783,
   completedAt: "2026-06-29T20:00:02.493Z",

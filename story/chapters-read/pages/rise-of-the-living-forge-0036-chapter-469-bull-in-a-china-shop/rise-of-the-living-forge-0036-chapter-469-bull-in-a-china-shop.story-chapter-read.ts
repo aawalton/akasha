@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0036Chapter469BullInAChinaShop = {
   position: 36,
   ownLength: 1834,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2499735/chapter-469-bull-in-a-china-shop",
-  externalId: "2499735",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2499735",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2499735/chapter-469-bull-in-a-china-shop",
+    },
+  ],
   publishedAt: "2025-08-07",
   ownProgress: 1834,
   completedAt: "2026-06-29T19:59:36.591Z",

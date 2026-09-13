@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0023Chapter455ThatSASet = {
   position: 23,
   ownLength: 1549,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2437202/chapter-455-thats-a-set",
-  externalId: "2437202",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2437202",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2437202/chapter-455-thats-a-set",
+    },
+  ],
   publishedAt: "2025-07-15",
   ownProgress: 1549,
   completedAt: "2026-06-29T19:59:11.779Z",

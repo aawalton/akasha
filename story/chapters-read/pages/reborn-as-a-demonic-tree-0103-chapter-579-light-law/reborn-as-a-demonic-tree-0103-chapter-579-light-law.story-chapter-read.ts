@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0103Chapter579LightLaw = {
   position: 103,
   ownLength: 2442,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3521041/chapter-579-light-law",
-  externalId: "3521041",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3521041",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3521041/chapter-579-light-law",
+    },
+  ],
   publishedAt: "2026-06-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const riseOfTheDragonQueenEvolutionprogression002121AspectsAre = {
   position: 21,
   ownLength: 1997,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2733072/21-aspects-are",
-  externalId: "2733072",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2733072",
+      externalLink:
+        "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2733072/21-aspects-are",
+    },
+  ],
   publishedAt: "2025-11-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

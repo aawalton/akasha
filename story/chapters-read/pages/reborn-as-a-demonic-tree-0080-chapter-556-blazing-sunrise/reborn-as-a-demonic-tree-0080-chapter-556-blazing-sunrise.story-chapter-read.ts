@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0080Chapter556BlazingSunrise = {
   position: 80,
   ownLength: 2738,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3249112/chapter-556-blazing-sunrise",
-  externalId: "3249112",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3249112",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3249112/chapter-556-blazing-sunrise",
+    },
+  ],
   publishedAt: "2026-04-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

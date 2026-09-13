@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0090Chapter524FightingChance = {
   position: 90,
   ownLength: 1740,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2813586/chapter-524-fighting-chance",
-  externalId: "2813586",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2813586",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2813586/chapter-524-fighting-chance",
+    },
+  ],
   publishedAt: "2025-12-03",
   ownProgress: 1740,
   completedAt: "2026-06-29T20:01:18.951Z",

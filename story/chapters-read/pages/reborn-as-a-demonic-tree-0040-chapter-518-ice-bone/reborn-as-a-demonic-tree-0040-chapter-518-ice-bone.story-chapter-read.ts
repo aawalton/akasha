@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0040Chapter518IceBone = {
   position: 40,
   ownLength: 2956,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2890710/chapter-518-ice-bone",
-  externalId: "2890710",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2890710",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2890710/chapter-518-ice-bone",
+    },
+  ],
   publishedAt: "2025-12-29",
   ownProgress: 2956,
   completedAt: "2026-06-29T19:02:53.042Z",

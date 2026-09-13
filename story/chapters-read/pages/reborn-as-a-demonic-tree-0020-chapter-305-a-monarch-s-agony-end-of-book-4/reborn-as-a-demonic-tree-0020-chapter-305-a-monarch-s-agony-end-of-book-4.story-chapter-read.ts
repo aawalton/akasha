@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0020Chapter305AMonarchSAgonyEndOfBook4 = {
   position: 20,
   ownLength: 3241,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1672930/chapter-305-a-monarchs-agony-end-of-book-4",
-  externalId: "1672930",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1672930",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1672930/chapter-305-a-monarchs-agony-end-of-book-4",
+    },
+  ],
   publishedAt: "2024-06-11",
   ownProgress: 3241,
   completedAt: "2026-06-29T19:02:10.596Z",

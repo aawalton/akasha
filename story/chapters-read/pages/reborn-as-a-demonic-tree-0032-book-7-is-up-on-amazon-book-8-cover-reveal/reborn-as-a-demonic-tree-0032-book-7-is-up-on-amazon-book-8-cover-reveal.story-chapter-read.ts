@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0032Book7IsUpOnAmazonBook8CoverReveal = {
   position: 32,
   ownLength: 175,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2626947/book-7-is-up-on-amazon-book-8-cover-reveal",
-  externalId: "2626947",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2626947",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2626947/book-7-is-up-on-amazon-book-8-cover-reveal",
+    },
+  ],
   publishedAt: "2025-09-25",
   ownProgress: 175,
   completedAt: "2026-06-29T19:02:36.269Z",

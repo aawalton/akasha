@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0126Chapter602BlackenedRoots = {
   position: 126,
   ownLength: 2250,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3796872/chapter-602-blackened-roots",
-  externalId: "3796872",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3796872",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3796872/chapter-602-blackened-roots",
+    },
+  ],
   publishedAt: "2026-08-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

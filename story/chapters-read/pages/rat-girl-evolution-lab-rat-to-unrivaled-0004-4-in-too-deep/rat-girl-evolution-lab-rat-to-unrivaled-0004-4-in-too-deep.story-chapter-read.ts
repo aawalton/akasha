@@ -9,10 +9,14 @@ export const ratGirlEvolutionLabRatToUnrivaled00044InTooDeep = {
   position: 4,
   ownLength: 2625,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2572828/4-in-too-deep",
-  externalId: "2572828",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2572828",
+      externalLink:
+        "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2572828/4-in-too-deep",
+    },
+  ],
   publishedAt: "2025-09-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0084Chapter518Tubs = {
   position: 84,
   ownLength: 2025,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2769275/chapter-518-tubs",
-  externalId: "2769275",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2769275",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2769275/chapter-518-tubs",
+    },
+  ],
   publishedAt: "2025-11-17",
   ownProgress: 2025,
   completedAt: "2026-06-29T20:01:07.390Z",

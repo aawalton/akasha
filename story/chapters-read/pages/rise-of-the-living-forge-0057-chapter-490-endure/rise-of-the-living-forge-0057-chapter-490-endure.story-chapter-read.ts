@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0057Chapter490Endure = {
   position: 57,
   ownLength: 1649,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2625600/chapter-490-endure",
-  externalId: "2625600",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2625600",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2625600/chapter-490-endure",
+    },
+  ],
   publishedAt: "2025-09-24",
   ownProgress: 1649,
   completedAt: "2026-06-29T20:00:15.509Z",

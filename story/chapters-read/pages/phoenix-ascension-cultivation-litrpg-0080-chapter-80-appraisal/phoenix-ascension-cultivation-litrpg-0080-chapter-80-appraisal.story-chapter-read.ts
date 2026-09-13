@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0080Chapter80Appraisal = {
   position: 80,
   ownLength: 2099,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2981973/chapter-80-appraisal",
-  externalId: "2981973",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2981973",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2981973/chapter-80-appraisal",
+    },
+  ],
   publishedAt: "2026-01-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

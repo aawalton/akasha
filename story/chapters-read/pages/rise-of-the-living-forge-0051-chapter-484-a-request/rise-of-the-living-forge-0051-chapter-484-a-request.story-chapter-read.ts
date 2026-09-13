@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0051Chapter484ARequest = {
   position: 51,
   ownLength: 1623,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2602428/chapter-484-a-request",
-  externalId: "2602428",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2602428",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2602428/chapter-484-a-request",
+    },
+  ],
   publishedAt: "2025-09-15",
   ownProgress: 1623,
   completedAt: "2026-06-29T20:00:04.435Z",

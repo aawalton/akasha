@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0145Chapter145Invitation = {
   position: 145,
   ownLength: 2195,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3609404/chapter-145-invitation",
-  externalId: "3609404",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3609404",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3609404/chapter-145-invitation",
+    },
+  ],
   publishedAt: "2026-06-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

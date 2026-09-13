@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0105Chapter581Archdemon = {
   position: 105,
   ownLength: 2758,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3544254/chapter-581-archdemon",
-  externalId: "3544254",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3544254",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3544254/chapter-581-archdemon",
+    },
+  ],
   publishedAt: "2026-06-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

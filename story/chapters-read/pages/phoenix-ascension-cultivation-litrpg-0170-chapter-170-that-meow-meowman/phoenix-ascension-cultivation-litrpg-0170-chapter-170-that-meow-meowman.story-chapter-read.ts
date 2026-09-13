@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0170Chapter170ThatMeowMeowman = {
   position: 170,
   ownLength: 2682,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3892313/chapter-170-that-meow-meowman",
-  externalId: "3892313",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3892313",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3892313/chapter-170-that-meow-meowman",
+    },
+  ],
   publishedAt: "2026-08-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

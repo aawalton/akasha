@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0099Chapter575Envy = {
   position: 99,
   ownLength: 2627,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3479791/chapter-575-envy",
-  externalId: "3479791",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3479791",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3479791/chapter-575-envy",
+    },
+  ],
   publishedAt: "2026-06-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

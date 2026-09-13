@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0034Chapter512CelestialWarStartOfBook9 = {
   position: 34,
   ownLength: 3047,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2842525/chapter-512-celestial-war-start-of-book-9",
-  externalId: "2842525",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2842525",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2842525/chapter-512-celestial-war-start-of-book-9",
+    },
+  ],
   publishedAt: "2025-12-12",
   ownProgress: 3047,
   completedAt: "2026-06-29T19:02:40.372Z",

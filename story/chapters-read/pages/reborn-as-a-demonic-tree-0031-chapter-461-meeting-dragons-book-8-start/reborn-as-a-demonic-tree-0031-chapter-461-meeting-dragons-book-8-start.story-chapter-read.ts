@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0031Chapter461MeetingDragonsBook8Start = {
   position: 31,
   ownLength: 3328,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2473772/chapter-461-meeting-dragons-book-8-start",
-  externalId: "2473772",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2473772",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2473772/chapter-461-meeting-dragons-book-8-start",
+    },
+  ],
   publishedAt: "2025-07-28",
   ownProgress: 3328,
   completedAt: "2026-06-29T19:02:34.053Z",

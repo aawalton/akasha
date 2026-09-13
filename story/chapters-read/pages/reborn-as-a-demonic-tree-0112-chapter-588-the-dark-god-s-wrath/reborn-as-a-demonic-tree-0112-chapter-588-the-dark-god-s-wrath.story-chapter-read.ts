@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0112Chapter588TheDarkGodSWrath = {
   position: 112,
   ownLength: 2596,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3618605/chapter-588-the-dark-gods-wrath",
-  externalId: "3618605",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3618605",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3618605/chapter-588-the-dark-gods-wrath",
+    },
+  ],
   publishedAt: "2026-07-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

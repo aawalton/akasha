@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0042Chapter475AndImportantAnnouncement = {
   position: 42,
   ownLength: 1764,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2520600/chapter-475-important-announcement",
-  externalId: "2520600",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2520600",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2520600/chapter-475-important-announcement",
+    },
+  ],
   publishedAt: "2025-08-15",
   ownProgress: 1764,
   completedAt: "2026-06-29T19:59:47.779Z",

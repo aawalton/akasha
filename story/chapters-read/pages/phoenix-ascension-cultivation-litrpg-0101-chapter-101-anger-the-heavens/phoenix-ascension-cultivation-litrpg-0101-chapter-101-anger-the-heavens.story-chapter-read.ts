@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0101Chapter101AngerTheHeavens = {
   position: 101,
   ownLength: 2370,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3160045/chapter-101-anger-the-heavens",
-  externalId: "3160045",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3160045",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3160045/chapter-101-anger-the-heavens",
+    },
+  ],
   publishedAt: "2026-03-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

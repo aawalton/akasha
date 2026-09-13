@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0157Chapter157ISurrender = {
   position: 157,
   ownLength: 2132,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3759020/chapter-157-i-surrender",
-  externalId: "3759020",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3759020",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3759020/chapter-157-i-surrender",
+    },
+  ],
   publishedAt: "2026-08-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

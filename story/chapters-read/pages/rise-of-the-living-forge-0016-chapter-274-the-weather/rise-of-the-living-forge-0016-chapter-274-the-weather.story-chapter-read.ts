@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0016Chapter274TheWeather = {
   position: 16,
   ownLength: 2180,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1801500/chapter-274-the-weather",
-  externalId: "1801500",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1801500",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1801500/chapter-274-the-weather",
+    },
+  ],
   publishedAt: "2024-09-13",
   ownProgress: 2180,
   completedAt: "2026-06-29T19:58:58.270Z",

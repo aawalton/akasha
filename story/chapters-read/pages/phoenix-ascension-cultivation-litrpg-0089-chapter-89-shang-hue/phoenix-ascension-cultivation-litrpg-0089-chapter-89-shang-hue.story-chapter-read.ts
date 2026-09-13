@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0089Chapter89ShangHue = {
   position: 89,
   ownLength: 2324,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3060557/chapter-89-shang-hue",
-  externalId: "3060557",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3060557",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3060557/chapter-89-shang-hue",
+    },
+  ],
   publishedAt: "2026-02-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

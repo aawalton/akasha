@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0045Chapter523LurkingShadow = {
   position: 45,
   ownLength: 2390,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2927547/chapter-523-lurking-shadow",
-  externalId: "2927547",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2927547",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2927547/chapter-523-lurking-shadow",
+    },
+  ],
   publishedAt: "2026-01-09",
   ownProgress: 2390,
   completedAt: "2026-06-29T19:03:03.704Z",

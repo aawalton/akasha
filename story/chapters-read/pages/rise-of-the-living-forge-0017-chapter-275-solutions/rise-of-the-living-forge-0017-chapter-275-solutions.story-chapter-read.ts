@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0017Chapter275Solutions = {
   position: 17,
   ownLength: 1753,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1805972/chapter-275-solutions",
-  externalId: "1805972",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1805972",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1805972/chapter-275-solutions",
+    },
+  ],
   publishedAt: "2024-09-16",
   ownProgress: 1753,
   completedAt: "2026-06-29T19:59:00.188Z",

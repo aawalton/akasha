@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0122Chapter598TroublesOfThePatriarch = {
   position: 122,
   ownLength: 2805,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3752398/chapter-598-troubles-of-the-patriarch",
-  externalId: "3752398",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3752398",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3752398/chapter-598-troubles-of-the-patriarch",
+    },
+  ],
   publishedAt: "2026-07-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

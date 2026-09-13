@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0055AnnouncementTreeDeluxeEditionAudiobookNewSe
   position: 55,
   ownLength: 224,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3032714/announcement-tree-deluxe-edition-audiobook-new",
-  externalId: "3032714",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3032714",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3032714/announcement-tree-deluxe-edition-audiobook-new",
+    },
+  ],
   publishedAt: "2026-02-10",
   ownProgress: 224,
   completedAt: "2026-06-29T19:03:25.385Z",

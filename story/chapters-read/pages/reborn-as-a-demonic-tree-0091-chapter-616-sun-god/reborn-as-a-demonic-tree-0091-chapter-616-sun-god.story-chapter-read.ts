@@ -7,12 +7,16 @@ export const rebornAsADemonicTree0091Chapter616SunGod = {
   position: 91,
   publishedAt: "2026-09-11",
   unit: "words",
-  externalId: "3945562",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3945562",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3945562/chapter-616-sun-god",
+    },
+  ],
   title: "Chapter 616: Sun God",
   story: "story-read/reborn-as-a-demonic-tree",
   ownLength: 2907,
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3945562/chapter-616-sun-god",
   prose: "txt",
 } as const satisfies StoryChapterRead

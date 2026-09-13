@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0098Chapter574ImportanceOfSouls = {
   position: 98,
   ownLength: 2629,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3466416/chapter-574-importance-of-souls",
-  externalId: "3466416",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3466416",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3466416/chapter-574-importance-of-souls",
+    },
+  ],
   publishedAt: "2026-05-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0025Chapter457OptionsOptions = {
   position: 25,
   ownLength: 1594,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2443060/chapter-457-options-options",
-  externalId: "2443060",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2443060",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2443060/chapter-457-options-options",
+    },
+  ],
   publishedAt: "2025-07-17",
   ownProgress: 1594,
   completedAt: "2026-06-29T19:59:15.690Z",

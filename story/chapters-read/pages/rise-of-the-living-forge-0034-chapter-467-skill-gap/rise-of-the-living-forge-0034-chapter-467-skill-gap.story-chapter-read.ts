@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0034Chapter467SkillGap = {
   position: 34,
   ownLength: 1828,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2494321/chapter-467-skill-gap",
-  externalId: "2494321",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2494321",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2494321/chapter-467-skill-gap",
+    },
+  ],
   publishedAt: "2025-08-05",
   ownProgress: 1828,
   completedAt: "2026-06-29T19:59:32.760Z",

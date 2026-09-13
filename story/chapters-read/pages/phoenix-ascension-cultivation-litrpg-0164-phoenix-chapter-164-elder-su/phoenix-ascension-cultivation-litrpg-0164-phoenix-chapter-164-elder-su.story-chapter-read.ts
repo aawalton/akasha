@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0164PhoenixChapter164ElderSu = {
   position: 164,
   ownLength: 2999,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3828933/phoenix-chapter-164-elder-su",
-  externalId: "3828933",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3828933",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3828933/phoenix-chapter-164-elder-su",
+    },
+  ],
   publishedAt: "2026-08-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0067Chapter500BadBadIdea = {
   position: 67,
   ownLength: 1987,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2676207/chapter-500-bad-bad-idea",
-  externalId: "2676207",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2676207",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2676207/chapter-500-bad-bad-idea",
+    },
+  ],
   publishedAt: "2025-10-14",
   ownProgress: 1987,
   completedAt: "2026-06-29T20:00:34.824Z",

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0080Chapter514Productive = {
   position: 80,
   ownLength: 2071,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2748824/chapter-514-productive",
-  externalId: "2748824",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2748824",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2748824/chapter-514-productive",
+    },
+  ],
   publishedAt: "2025-11-10",
   ownProgress: 2071,
   completedAt: "2026-06-29T20:00:59.594Z",

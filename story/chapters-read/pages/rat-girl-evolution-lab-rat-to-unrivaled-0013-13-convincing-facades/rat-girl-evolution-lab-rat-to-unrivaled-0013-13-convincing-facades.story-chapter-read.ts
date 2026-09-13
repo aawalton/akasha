@@ -9,10 +9,14 @@ export const ratGirlEvolutionLabRatToUnrivaled001313ConvincingFacades = {
   position: 13,
   ownLength: 2266,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2634970/13-convincing-facades",
-  externalId: "2634970",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2634970",
+      externalLink:
+        "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2634970/13-convincing-facades",
+    },
+  ],
   publishedAt: "2025-09-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

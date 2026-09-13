@@ -9,10 +9,14 @@ export const ratGirlEvolutionLabRatToUnrivaled00066ANewAwakening = {
   position: 6,
   ownLength: 2412,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2572855/6-a-new-awakening",
-  externalId: "2572855",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2572855",
+      externalLink:
+        "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2572855/6-a-new-awakening",
+    },
+  ],
   publishedAt: "2025-09-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0037Chapter515NestOfRats = {
   position: 37,
   ownLength: 2723,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2862698/chapter-515-nest-of-rats",
-  externalId: "2862698",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2862698",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2862698/chapter-515-nest-of-rats",
+    },
+  ],
   publishedAt: "2025-12-19",
   ownProgress: 2723,
   completedAt: "2026-06-29T19:02:46.970Z",

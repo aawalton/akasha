@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0155Chapter155Thief = {
   position: 155,
   ownLength: 2318,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3734398/chapter-155-thief",
-  externalId: "3734398",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3734398",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3734398/chapter-155-thief",
+    },
+  ],
   publishedAt: "2026-07-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

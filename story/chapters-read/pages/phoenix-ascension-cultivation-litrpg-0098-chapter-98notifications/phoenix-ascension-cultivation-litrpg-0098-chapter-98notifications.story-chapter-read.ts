@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0098Chapter98notifications = {
   position: 98,
   ownLength: 1977,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3134759/chapter-98notifications",
-  externalId: "3134759",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3134759",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3134759/chapter-98notifications",
+    },
+  ],
   publishedAt: "2026-03-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

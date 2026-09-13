@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0014Chapter169SatisfyingRevengeStartOfBook3 = {
   position: 14,
   ownLength: 3059,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1372087/chapter-169-satisfying-revenge-start-of-book-3",
-  externalId: "1372087",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1372087",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1372087/chapter-169-satisfying-revenge-start-of-book-3",
+    },
+  ],
   publishedAt: "2023-10-12",
   ownProgress: 3059,
   completedAt: "2026-06-29T19:01:57.832Z",

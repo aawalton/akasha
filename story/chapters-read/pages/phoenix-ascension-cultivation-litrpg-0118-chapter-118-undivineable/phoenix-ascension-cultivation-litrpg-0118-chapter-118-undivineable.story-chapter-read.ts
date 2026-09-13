@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0118Chapter118Undivineable = {
   position: 118,
   ownLength: 2128,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3318236/chapter-118-undivineable",
-  externalId: "3318236",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3318236",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3318236/chapter-118-undivineable",
+    },
+  ],
   publishedAt: "2026-04-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

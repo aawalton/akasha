@@ -9,10 +9,14 @@ export const riseOfTheDragonQueenEvolutionprogression001616Training = {
   position: 16,
   ownLength: 2164,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2659020/16-training",
-  externalId: "2659020",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2659020",
+      externalLink:
+        "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2659020/16-training",
+    },
+  ],
   publishedAt: "2025-10-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

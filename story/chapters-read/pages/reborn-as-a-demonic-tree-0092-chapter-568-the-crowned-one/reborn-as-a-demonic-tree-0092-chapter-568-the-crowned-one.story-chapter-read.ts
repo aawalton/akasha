@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0092Chapter568TheCrownedOne = {
   position: 92,
   ownLength: 2230,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3400799/chapter-568-the-crowned-one",
-  externalId: "3400799",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3400799",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3400799/chapter-568-the-crowned-one",
+    },
+  ],
   publishedAt: "2026-05-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const ratGirlEvolutionLabRatToUnrivaled001111TroubledLivingWaters = {
   position: 11,
   ownLength: 2390,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2594183/11-troubled-living-waters",
-  externalId: "2594183",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2594183",
+      externalLink:
+        "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2594183/11-troubled-living-waters",
+    },
+  ],
   publishedAt: "2025-09-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

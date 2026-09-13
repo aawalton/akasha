@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0026Chapter408InterludeConversingWithAGodTreeSt
   position: 26,
   ownLength: 3230,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2087194/chapter-408-interlude-conversing-with-a-god-tree",
-  externalId: "2087194",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2087194",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2087194/chapter-408-interlude-conversing-with-a-god-tree",
+    },
+  ],
   publishedAt: "2025-02-24",
   ownProgress: 3230,
   completedAt: "2026-06-29T19:02:23.220Z",

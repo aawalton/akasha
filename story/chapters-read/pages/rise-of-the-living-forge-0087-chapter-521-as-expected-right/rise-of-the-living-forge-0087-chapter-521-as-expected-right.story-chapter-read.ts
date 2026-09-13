@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0087Chapter521AsExpectedRight = {
   position: 87,
   ownLength: 1848,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2777737/chapter-521-as-expectedright",
-  externalId: "2777737",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2777737",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2777737/chapter-521-as-expectedright",
+    },
+  ],
   publishedAt: "2025-11-20",
   ownProgress: 1848,
   completedAt: "2026-06-29T20:01:13.016Z",

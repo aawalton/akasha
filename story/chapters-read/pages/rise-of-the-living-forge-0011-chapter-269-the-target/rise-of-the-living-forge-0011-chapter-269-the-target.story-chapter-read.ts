@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0011Chapter269TheTarget = {
   position: 11,
   ownLength: 1718,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1789679/chapter-269-the-target",
-  externalId: "1789679",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1789679",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1789679/chapter-269-the-target",
+    },
+  ],
   publishedAt: "2024-09-05",
   ownProgress: 1718,
   completedAt: "2026-06-29T19:58:48.674Z",

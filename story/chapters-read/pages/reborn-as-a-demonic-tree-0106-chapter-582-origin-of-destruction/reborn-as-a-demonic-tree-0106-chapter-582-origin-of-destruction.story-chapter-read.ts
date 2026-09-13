@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0106Chapter582OriginOfDestruction = {
   position: 106,
   ownLength: 2882,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3553693/chapter-582-origin-of-destruction",
-  externalId: "3553693",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3553693",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3553693/chapter-582-origin-of-destruction",
+    },
+  ],
   publishedAt: "2026-06-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

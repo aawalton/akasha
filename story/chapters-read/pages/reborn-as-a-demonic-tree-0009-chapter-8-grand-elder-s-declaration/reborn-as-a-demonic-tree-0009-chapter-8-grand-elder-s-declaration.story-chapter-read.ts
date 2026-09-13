@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0009Chapter8GrandElderSDeclaration = {
   position: 9,
   ownLength: 1610,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081560/chapter-8-grand-elders-declaration",
-  externalId: "1081560",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1081560",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081560/chapter-8-grand-elders-declaration",
+    },
+  ],
   publishedAt: "2023-01-07",
   ownProgress: 1610,
   completedAt: "2026-06-29T19:01:47.653Z",

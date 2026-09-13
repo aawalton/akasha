@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0076Chapter510MakingMonsters = {
   position: 76,
   ownLength: 2078,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2717383/chapter-510-making-monsters",
-  externalId: "2717383",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2717383",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2717383/chapter-510-making-monsters",
+    },
+  ],
   publishedAt: "2025-10-30",
   ownProgress: 2078,
   completedAt: "2026-06-29T20:00:51.850Z",

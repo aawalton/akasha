@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0059Chapter492Dash = {
   position: 59,
   ownLength: 1539,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2638170/chapter-492-dash",
-  externalId: "2638170",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2638170",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2638170/chapter-492-dash",
+    },
+  ],
   publishedAt: "2025-09-29",
   ownProgress: 1539,
   completedAt: "2026-06-29T20:00:19.553Z",

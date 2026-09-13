@@ -9,10 +9,14 @@ export const ratGirlEvolutionLabRatToUnrivaled00099CuttingThroughTheHaze = {
   position: 9,
   ownLength: 2443,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2580955/9-cutting-through-the-haze",
-  externalId: "2580955",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2580955",
+      externalLink:
+        "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2580955/9-cutting-through-the-haze",
+    },
+  ],
   publishedAt: "2025-09-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0018Chapter276Tests = {
   position: 18,
   ownLength: 1539,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-book-6-stubbing-in-3/chapter/1807523/chapter-276-tests",
-  externalId: "1807523",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1807523",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-book-6-stubbing-in-3/chapter/1807523/chapter-276-tests",
+    },
+  ],
   publishedAt: "2024-09-17",
   ownProgress: 1539,
   completedAt: "2026-06-29T19:59:02.114Z",

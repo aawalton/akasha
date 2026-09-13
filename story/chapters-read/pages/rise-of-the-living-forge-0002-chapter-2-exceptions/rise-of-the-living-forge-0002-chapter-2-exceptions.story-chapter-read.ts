@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0002Chapter2Exceptions = {
   position: 2,
   ownLength: 2756,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1459956/chapter-2-exceptions",
-  externalId: "1459956",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1459956",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1459956/chapter-2-exceptions",
+    },
+  ],
   publishedAt: "2023-12-30",
   ownProgress: 2756,
   completedAt: "2026-06-29T19:58:31.420Z",

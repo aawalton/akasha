@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0129Chapter605TheEmpireHasFallen = {
   position: 129,
   ownLength: 2486,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3826968/chapter-605-the-empire-has-fallen",
-  externalId: "3826968",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3826968",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3826968/chapter-605-the-empire-has-fallen",
+    },
+  ],
   publishedAt: "2026-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

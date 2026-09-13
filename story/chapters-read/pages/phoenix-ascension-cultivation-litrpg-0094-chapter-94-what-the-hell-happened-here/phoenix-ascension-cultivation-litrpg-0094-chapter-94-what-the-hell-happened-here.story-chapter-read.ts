@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0094Chapter94WhatTheHellHappenedHe
   position: 94,
   ownLength: 2805,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3103008/chapter-94-what-the-hell-happened-here",
-  externalId: "3103008",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3103008",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3103008/chapter-94-what-the-hell-happened-here",
+    },
+  ],
   publishedAt: "2026-02-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

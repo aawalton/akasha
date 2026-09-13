@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0100Chapter100Tribulation = {
   position: 100,
   ownLength: 2420,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3152632/chapter-100-tribulation",
-  externalId: "3152632",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3152632",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3152632/chapter-100-tribulation",
+    },
+  ],
   publishedAt: "2026-03-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

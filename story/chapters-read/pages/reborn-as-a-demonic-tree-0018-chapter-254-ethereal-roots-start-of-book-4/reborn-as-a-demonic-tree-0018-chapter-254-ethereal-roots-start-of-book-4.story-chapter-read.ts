@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0018Chapter254EtherealRootsStartOfBook4 = {
   position: 18,
   ownLength: 2804,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1546730/chapter-254-ethereal-roots-start-of-book-4",
-  externalId: "1546730",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1546730",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1546730/chapter-254-ethereal-roots-start-of-book-4",
+    },
+  ],
   publishedAt: "2024-03-08",
   ownProgress: 2804,
   completedAt: "2026-06-29T19:02:06.485Z",

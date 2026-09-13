@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0093Chapter93HowInteresting = {
   position: 93,
   ownLength: 2871,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3092782/chapter-93-how-interesting",
-  externalId: "3092782",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3092782",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3092782/chapter-93-how-interesting",
+    },
+  ],
   publishedAt: "2026-02-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

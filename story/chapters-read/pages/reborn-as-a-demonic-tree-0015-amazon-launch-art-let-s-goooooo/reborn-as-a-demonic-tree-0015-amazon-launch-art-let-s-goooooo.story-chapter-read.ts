@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0015AmazonLaunchArtLetSGoooooo = {
   position: 15,
   ownLength: 442,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1408847/amazon-launch-art-lets-goooooo",
-  externalId: "1408847",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1408847",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1408847/amazon-launch-art-lets-goooooo",
+    },
+  ],
   publishedAt: "2023-11-14",
   ownProgress: 442,
   completedAt: "2026-06-29T19:01:59.976Z",

@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0012Chapter11PassageOfTime = {
   position: 12,
   ownLength: 2213,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081686/chapter-11-passage-of-time",
-  externalId: "1081686",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1081686",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081686/chapter-11-passage-of-time",
+    },
+  ],
   publishedAt: "2023-01-07",
   ownProgress: 2213,
   completedAt: "2026-06-29T19:01:53.676Z",

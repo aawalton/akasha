@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0060Chapter493APlanAndAnnouncement = {
   position: 60,
   ownLength: 1516,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2640525/chapter-493-a-plan-announcement",
-  externalId: "2640525",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2640525",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2640525/chapter-493-a-plan-announcement",
+    },
+  ],
   publishedAt: "2025-09-30",
   ownProgress: 1516,
   completedAt: "2026-06-29T20:00:21.450Z",

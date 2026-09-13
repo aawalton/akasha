@@ -7,12 +7,16 @@ export const phoenixAscensionCultivationLitrpg0175Chapter175MyKill = {
   position: 175,
   publishedAt: "2026-09-13",
   unit: "words",
-  externalId: "3951754",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3951754",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3951754/chapter-175-my-kill",
+    },
+  ],
   title: "Chapter 175: My kill!!",
   story: "story-read/phoenix-ascension-cultivation-litrpg",
   ownLength: 2149,
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3951754/chapter-175-my-kill",
   prose: "txt",
 } as const satisfies StoryChapterRead

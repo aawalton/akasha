@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0100Chapter576StellaSTrueStrength = {
   position: 100,
   ownLength: 2712,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3490130/chapter-576-stellas-true-strength",
-  externalId: "3490130",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3490130",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3490130/chapter-576-stellas-true-strength",
+    },
+  ],
   publishedAt: "2026-06-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

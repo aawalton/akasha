@@ -9,10 +9,14 @@ export const ratGirlEvolutionLabRatToUnrivaled00055SearchForTruth = {
   position: 5,
   ownLength: 2513,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2572842/5-search-for-truth",
-  externalId: "2572842",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2572842",
+      externalLink:
+        "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2572842/5-search-for-truth",
+    },
+  ],
   publishedAt: "2025-09-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

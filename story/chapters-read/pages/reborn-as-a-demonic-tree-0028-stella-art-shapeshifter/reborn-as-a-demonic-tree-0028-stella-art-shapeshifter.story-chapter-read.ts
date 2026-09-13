@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0028StellaArtShapeshifter = {
   position: 28,
   ownLength: 468,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2417843/stella-art-shapeshifter",
-  externalId: "2417843",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2417843",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2417843/stella-art-shapeshifter",
+    },
+  ],
   publishedAt: "2025-07-08",
   ownProgress: 468,
   completedAt: "2026-06-29T19:02:27.853Z",

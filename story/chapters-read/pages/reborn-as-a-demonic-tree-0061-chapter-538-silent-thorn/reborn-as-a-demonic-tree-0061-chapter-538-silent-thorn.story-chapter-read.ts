@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0061Chapter538SilentThorn = {
   position: 61,
   ownLength: 2305,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3092096/chapter-538-silent-thorn",
-  externalId: "3092096",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3092096",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3092096/chapter-538-silent-thorn",
+    },
+  ],
   publishedAt: "2026-02-25",
   ownProgress: 2305,
   completedAt: "2026-06-29T19:03:37.682Z",

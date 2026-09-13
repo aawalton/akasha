@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0022Book5CoverFanArt = {
   position: 22,
   ownLength: 166,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1753217/book-5-cover-fan-art",
-  externalId: "1753217",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1753217",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1753217/book-5-cover-fan-art",
+    },
+  ],
   publishedAt: "2024-08-11",
   ownProgress: 166,
   completedAt: "2026-06-29T19:02:14.634Z",

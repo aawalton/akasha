@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0006Chapter265Specifics = {
   position: 6,
   ownLength: 1822,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1771239/chapter-265-specifics",
-  externalId: "1771239",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1771239",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1771239/chapter-265-specifics",
+    },
+  ],
   publishedAt: "2024-08-23",
   ownProgress: 1822,
   completedAt: "2026-06-29T19:58:39.015Z",

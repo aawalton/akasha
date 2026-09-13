@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0002Chapter1AScrumptiousMeal = {
   position: 2,
   ownLength: 1955,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081244/chapter-1-a-scrumptious-meal",
-  externalId: "1081244",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1081244",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081244/chapter-1-a-scrumptious-meal",
+    },
+  ],
   publishedAt: "2023-01-07",
   ownProgress: 1955,
   completedAt: "2026-06-29T19:01:33.057Z",

@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0024Chapter366IncomingStormStartOfBook6 = {
   position: 24,
   ownLength: 3240,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1888997/chapter-366-incoming-storm-start-of-book-6",
-  externalId: "1888997",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1888997",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1888997/chapter-366-incoming-storm-start-of-book-6",
+    },
+  ],
   publishedAt: "2024-11-06",
   ownProgress: 3240,
   completedAt: "2026-06-29T19:02:18.871Z",

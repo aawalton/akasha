@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0104Chapter580ADarkDeal = {
   position: 104,
   ownLength: 2791,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3530814/chapter-580-a-dark-deal",
-  externalId: "3530814",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3530814",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3530814/chapter-580-a-dark-deal",
+    },
+  ],
   publishedAt: "2026-06-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

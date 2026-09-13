@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0023Chapter365SpectacleEndOfBook5 = {
   position: 23,
   ownLength: 3466,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1885120/chapter-365-spectacle-end-of-book-5",
-  externalId: "1885120",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1885120",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1885120/chapter-365-spectacle-end-of-book-5",
+    },
+  ],
   publishedAt: "2024-11-04",
   ownProgress: 3466,
   completedAt: "2026-06-29T19:02:16.682Z",

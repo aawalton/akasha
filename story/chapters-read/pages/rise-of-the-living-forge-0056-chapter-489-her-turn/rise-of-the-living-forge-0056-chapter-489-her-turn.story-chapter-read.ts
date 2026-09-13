@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0056Chapter489HerTurn = {
   position: 56,
   ownLength: 1669,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2622926/chapter-489-her-turn",
-  externalId: "2622926",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2622926",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2622926/chapter-489-her-turn",
+    },
+  ],
   publishedAt: "2025-09-23",
   ownProgress: 1669,
   completedAt: "2026-06-29T20:00:13.580Z",

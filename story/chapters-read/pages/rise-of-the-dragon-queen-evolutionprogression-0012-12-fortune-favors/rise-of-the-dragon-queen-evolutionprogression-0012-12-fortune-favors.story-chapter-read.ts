@@ -9,10 +9,14 @@ export const riseOfTheDragonQueenEvolutionprogression001212FortuneFavors = {
   position: 12,
   ownLength: 2662,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2633911/12-fortune-favors",
-  externalId: "2633911",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2633911",
+      externalLink:
+        "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2633911/12-fortune-favors",
+    },
+  ],
   publishedAt: "2025-09-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0077Chapter554ABloodyFiend = {
   position: 77,
   ownLength: 2817,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3228271/chapter-554-a-bloody-fiend",
-  externalId: "3228271",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3228271",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3228271/chapter-554-a-bloody-fiend",
+    },
+  ],
   publishedAt: "2026-04-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

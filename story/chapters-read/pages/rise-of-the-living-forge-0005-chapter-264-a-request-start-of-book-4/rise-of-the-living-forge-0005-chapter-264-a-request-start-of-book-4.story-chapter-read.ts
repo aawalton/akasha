@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0005Chapter264ARequestStartOfBook4 = {
   position: 5,
   ownLength: 1748,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1769793/chapter-264-a-request-start-of-book-4",
-  externalId: "1769793",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1769793",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1769793/chapter-264-a-request-start-of-book-4",
+    },
+  ],
   publishedAt: "2024-08-22",
   ownProgress: 1748,
   completedAt: "2026-06-29T19:58:37.091Z",

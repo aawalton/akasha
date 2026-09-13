@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0087Chapter87Recipe = {
   position: 87,
   ownLength: 1976,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3037897/chapter-87-recipe",
-  externalId: "3037897",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3037897",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3037897/chapter-87-recipe",
+    },
+  ],
   publishedAt: "2026-02-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

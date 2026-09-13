@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0015Chapter273TheCoin = {
   position: 15,
   ownLength: 1745,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1800127/chapter-273-the-coin",
-  externalId: "1800127",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1800127",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1800127/chapter-273-the-coin",
+    },
+  ],
   publishedAt: "2024-09-12",
   ownProgress: 1745,
   completedAt: "2026-06-29T19:58:56.351Z",

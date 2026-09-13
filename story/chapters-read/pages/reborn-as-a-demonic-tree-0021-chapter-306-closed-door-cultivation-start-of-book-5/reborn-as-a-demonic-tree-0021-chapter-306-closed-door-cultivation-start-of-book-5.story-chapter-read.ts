@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0021Chapter306ClosedDoorCultivationStartOfBook5
   position: 21,
   ownLength: 2717,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1681028/chapter-306-closed-door-cultivation-start-of-book",
-  externalId: "1681028",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1681028",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1681028/chapter-306-closed-door-cultivation-start-of-book",
+    },
+  ],
   publishedAt: "2024-06-17",
   ownProgress: 2717,
   completedAt: "2026-06-29T19:02:12.527Z",

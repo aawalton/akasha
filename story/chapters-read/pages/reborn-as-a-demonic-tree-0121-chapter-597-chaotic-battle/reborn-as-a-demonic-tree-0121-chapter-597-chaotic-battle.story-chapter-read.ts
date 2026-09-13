@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0121Chapter597ChaoticBattle = {
   position: 121,
   ownLength: 2637,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3743210/chapter-597-chaotic-battle",
-  externalId: "3743210",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3743210",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3743210/chapter-597-chaotic-battle",
+    },
+  ],
   publishedAt: "2026-07-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

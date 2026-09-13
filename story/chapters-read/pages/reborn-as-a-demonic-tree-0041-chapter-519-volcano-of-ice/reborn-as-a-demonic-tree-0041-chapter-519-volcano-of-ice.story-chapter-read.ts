@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0041Chapter519VolcanoOfIce = {
   position: 41,
   ownLength: 3320,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2896441/chapter-519-volcano-of-ice",
-  externalId: "2896441",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2896441",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2896441/chapter-519-volcano-of-ice",
+    },
+  ],
   publishedAt: "2025-12-31",
   ownProgress: 3320,
   completedAt: "2026-06-29T19:02:55.044Z",

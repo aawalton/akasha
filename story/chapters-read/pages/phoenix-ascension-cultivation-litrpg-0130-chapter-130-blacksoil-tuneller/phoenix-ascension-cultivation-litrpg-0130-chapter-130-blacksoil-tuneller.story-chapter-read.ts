@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0130Chapter130BlacksoilTuneller = 
   position: 130,
   ownLength: 2971,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3440575/chapter-130-blacksoil-tuneller",
-  externalId: "3440575",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3440575",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3440575/chapter-130-blacksoil-tuneller",
+    },
+  ],
   publishedAt: "2026-05-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

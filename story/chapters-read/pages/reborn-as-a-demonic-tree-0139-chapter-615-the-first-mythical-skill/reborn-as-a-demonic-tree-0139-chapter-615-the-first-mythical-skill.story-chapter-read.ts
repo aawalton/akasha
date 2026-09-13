@@ -7,12 +7,16 @@ export const rebornAsADemonicTree0139Chapter615TheFirstMythicalSkill = {
   position: 139,
   publishedAt: "2026-09-09",
   unit: "words",
-  externalId: "3936083",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3936083",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3936083/chapter-615-the-first-mythical-skill",
+    },
+  ],
   title: "Chapter 615: The First Mythical Skill",
   story: "story-read/reborn-as-a-demonic-tree",
   ownLength: 2254,
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3936083/chapter-615-the-first-mythical-skill",
   prose: "txt",
 } as const satisfies StoryChapterRead

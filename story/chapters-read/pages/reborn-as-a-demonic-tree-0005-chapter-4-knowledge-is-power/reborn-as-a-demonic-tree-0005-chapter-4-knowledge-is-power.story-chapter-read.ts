@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0005Chapter4KnowledgeIsPower = {
   position: 5,
   ownLength: 2032,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081384/chapter-4-knowledge-is-power",
-  externalId: "1081384",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1081384",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081384/chapter-4-knowledge-is-power",
+    },
+  ],
   publishedAt: "2023-01-07",
   ownProgress: 2032,
   completedAt: "2026-06-29T19:01:39.127Z",

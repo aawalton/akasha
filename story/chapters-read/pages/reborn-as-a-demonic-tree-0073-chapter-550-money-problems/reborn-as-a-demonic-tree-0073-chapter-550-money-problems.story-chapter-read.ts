@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0073Chapter550MoneyProblems = {
   position: 73,
   ownLength: 3150,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3193382/chapter-550-money-problems",
-  externalId: "3193382",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3193382",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3193382/chapter-550-money-problems",
+    },
+  ],
   publishedAt: "2026-03-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0125Chapter125Epilogue = {
   position: 125,
   ownLength: 1739,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3383810/chapter-125-epilogue",
-  externalId: "3383810",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3383810",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3383810/chapter-125-epilogue",
+    },
+  ],
   publishedAt: "2026-05-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

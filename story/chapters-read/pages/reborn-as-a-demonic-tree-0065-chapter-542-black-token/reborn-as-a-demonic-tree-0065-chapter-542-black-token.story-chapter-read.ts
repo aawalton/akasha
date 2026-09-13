@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0065Chapter542BlackToken = {
   position: 65,
   ownLength: 2730,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3124014/chapter-542-black-token",
-  externalId: "3124014",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3124014",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3124014/chapter-542-black-token",
+    },
+  ],
   publishedAt: "2026-03-06",
   ownProgress: 2730,
   completedAt: "2026-06-29T19:03:46.020Z",

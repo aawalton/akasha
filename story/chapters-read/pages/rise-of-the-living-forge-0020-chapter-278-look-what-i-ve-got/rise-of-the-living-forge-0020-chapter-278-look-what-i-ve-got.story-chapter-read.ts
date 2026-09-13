@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0020Chapter278LookWhatIVeGot = {
   position: 20,
   ownLength: 3158,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-book-6-stubbing-in-3/chapter/1811987/chapter-278-look-what-ive-got",
-  externalId: "1811987",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1811987",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-book-6-stubbing-in-3/chapter/1811987/chapter-278-look-what-ive-got",
+    },
+  ],
   publishedAt: "2024-09-20",
   ownProgress: 3158,
   completedAt: "2026-06-29T19:59:05.975Z",

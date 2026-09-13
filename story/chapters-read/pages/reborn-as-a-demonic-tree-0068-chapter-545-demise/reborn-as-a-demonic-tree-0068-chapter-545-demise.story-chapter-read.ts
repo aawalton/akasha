@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0068Chapter545Demise = {
   position: 68,
   ownLength: 3103,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3148769/chapter-545-demise",
-  externalId: "3148769",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3148769",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3148769/chapter-545-demise",
+    },
+  ],
   publishedAt: "2026-03-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

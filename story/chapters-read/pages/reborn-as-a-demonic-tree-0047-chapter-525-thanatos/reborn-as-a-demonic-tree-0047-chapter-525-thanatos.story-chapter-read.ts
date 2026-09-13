@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0047Chapter525Thanatos = {
   position: 47,
   ownLength: 3207,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2943236/chapter-525-thanatos",
-  externalId: "2943236",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2943236",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2943236/chapter-525-thanatos",
+    },
+  ],
   publishedAt: "2026-01-14",
   ownProgress: 3207,
   completedAt: "2026-06-29T19:03:08.674Z",

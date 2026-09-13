@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0042Chapter520ArtOfCruelty = {
   position: 42,
   ownLength: 2833,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2906083/chapter-520-art-of-cruelty",
-  externalId: "2906083",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2906083",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2906083/chapter-520-art-of-cruelty",
+    },
+  ],
   publishedAt: "2026-01-02",
   ownProgress: 2833,
   completedAt: "2026-06-29T19:02:57.115Z",

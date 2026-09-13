@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0096Chapter96CultivationIsPain = {
   position: 96,
   ownLength: 2132,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3117304/chapter-96-cultivation-is-pain",
-  externalId: "3117304",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3117304",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3117304/chapter-96-cultivation-is-pain",
+    },
+  ],
   publishedAt: "2026-03-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

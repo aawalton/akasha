@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0147Chapter147CleaningTheDantian =
   position: 147,
   ownLength: 2554,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3634978/chapter-147-cleaning-the-dantian",
-  externalId: "3634978",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3634978",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3634978/chapter-147-cleaning-the-dantian",
+    },
+  ],
   publishedAt: "2026-07-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

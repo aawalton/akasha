@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0134Chapter610ExpensiveToFeed = {
   position: 134,
   ownLength: 2570,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3878417/chapter-610-expensive-to-feed",
-  externalId: "3878417",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3878417",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3878417/chapter-610-expensive-to-feed",
+    },
+  ],
   publishedAt: "2026-08-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

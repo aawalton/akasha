@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0027Announcement = {
   position: 27,
   ownLength: 552,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2262632/announcement",
-  externalId: "2262632",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2262632",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2262632/announcement",
+    },
+  ],
   publishedAt: "2025-05-07",
   ownProgress: 552,
   completedAt: "2026-06-29T19:02:25.476Z",

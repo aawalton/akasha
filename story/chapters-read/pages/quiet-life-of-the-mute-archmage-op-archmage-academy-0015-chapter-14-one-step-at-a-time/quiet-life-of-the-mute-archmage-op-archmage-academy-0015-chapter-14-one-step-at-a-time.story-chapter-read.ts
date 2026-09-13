@@ -9,10 +9,14 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0015Chapter14OneStepAtAT
   position: 15,
   ownLength: 1860,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3441693/chapter-14-one-step-at-a-time",
-  externalId: "3441693",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3441693",
+      externalLink:
+        "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3441693/chapter-14-one-step-at-a-time",
+    },
+  ],
   publishedAt: "2026-05-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

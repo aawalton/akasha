@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0048Chapter526RichGirl = {
   position: 48,
   ownLength: 2755,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2949709/chapter-526-rich-girl",
-  externalId: "2949709",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2949709",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2949709/chapter-526-rich-girl",
+    },
+  ],
   publishedAt: "2026-01-16",
   ownProgress: 2755,
   completedAt: "2026-06-29T19:03:10.762Z",

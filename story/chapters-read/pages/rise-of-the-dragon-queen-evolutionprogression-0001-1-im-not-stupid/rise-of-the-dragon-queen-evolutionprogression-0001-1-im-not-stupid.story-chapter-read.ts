@@ -9,10 +9,14 @@ export const riseOfTheDragonQueenEvolutionprogression00011ImNotStupid = {
   position: 1,
   ownLength: 2169,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2532783/1-im-not-stupid",
-  externalId: "2532783",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2532783",
+      externalLink:
+        "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2532783/1-im-not-stupid",
+    },
+  ],
   publishedAt: "2025-08-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

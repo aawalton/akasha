@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0122Chapter122Dragonkin = {
   position: 122,
   ownLength: 2017,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3355440/chapter-122-dragonkin",
-  externalId: "3355440",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3355440",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3355440/chapter-122-dragonkin",
+    },
+  ],
   publishedAt: "2026-05-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

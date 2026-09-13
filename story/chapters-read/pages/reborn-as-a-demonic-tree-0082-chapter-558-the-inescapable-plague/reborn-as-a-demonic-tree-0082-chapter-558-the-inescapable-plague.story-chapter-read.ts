@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0082Chapter558TheInescapablePlague = {
   position: 82,
   ownLength: 2248,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3269464/chapter-558-the-inescapable-plague",
-  externalId: "3269464",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3269464",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3269464/chapter-558-the-inescapable-plague",
+    },
+  ],
   publishedAt: "2026-04-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

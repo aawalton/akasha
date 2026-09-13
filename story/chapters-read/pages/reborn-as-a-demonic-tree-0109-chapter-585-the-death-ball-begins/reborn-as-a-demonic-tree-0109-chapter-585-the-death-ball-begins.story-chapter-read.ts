@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0109Chapter585TheDeathBallBegins = {
   position: 109,
   ownLength: 3124,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3585938/chapter-585-the-death-ball-begins",
-  externalId: "3585938",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3585938",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3585938/chapter-585-the-death-ball-begins",
+    },
+  ],
   publishedAt: "2026-06-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

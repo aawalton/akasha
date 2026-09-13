@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0089Chapter565ParentingTroubles = {
   position: 89,
   ownLength: 2817,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3334375/chapter-565-parenting-troubles",
-  externalId: "3334375",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3334375",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3334375/chapter-565-parenting-troubles",
+    },
+  ],
   publishedAt: "2026-04-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

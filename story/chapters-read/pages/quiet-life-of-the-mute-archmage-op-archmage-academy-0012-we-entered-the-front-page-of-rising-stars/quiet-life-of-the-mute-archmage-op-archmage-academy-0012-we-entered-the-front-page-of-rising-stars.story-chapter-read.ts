@@ -9,10 +9,14 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0012WeEnteredTheFrontPag
   position: 12,
   ownLength: 253,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3415251/we-entered-the-front-page-of-rising-stars-in-just",
-  externalId: "3415251",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3415251",
+      externalLink:
+        "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3415251/we-entered-the-front-page-of-rising-stars-in-just",
+    },
+  ],
   publishedAt: "2026-05-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

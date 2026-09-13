@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0158Chapter158GreedySword = {
   position: 158,
   ownLength: 3666,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3770208/chapter-158-greedy-sword",
-  externalId: "3770208",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3770208",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3770208/chapter-158-greedy-sword",
+    },
+  ],
   publishedAt: "2026-08-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

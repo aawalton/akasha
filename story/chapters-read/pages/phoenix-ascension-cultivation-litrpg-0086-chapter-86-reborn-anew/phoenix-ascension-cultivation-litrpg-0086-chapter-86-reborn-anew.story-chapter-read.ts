@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0086Chapter86RebornAnew = {
   position: 86,
   ownLength: 2416,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3031267/chapter-86-reborn-anew",
-  externalId: "3031267",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3031267",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3031267/chapter-86-reborn-anew",
+    },
+  ],
   publishedAt: "2026-02-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

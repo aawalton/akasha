@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0134Chapter134Refining = {
   position: 134,
   ownLength: 2006,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3479560/chapter-134-refining",
-  externalId: "3479560",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3479560",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3479560/chapter-134-refining",
+    },
+  ],
   publishedAt: "2026-06-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

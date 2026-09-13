@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0063Chapter540CultistsOfTheEye = {
   position: 63,
   ownLength: 2965,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3109283/chapter-540-cultists-of-the-eye",
-  externalId: "3109283",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3109283",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3109283/chapter-540-cultists-of-the-eye",
+    },
+  ],
   publishedAt: "2026-03-02",
   ownProgress: 2965,
   completedAt: "2026-06-29T19:03:41.928Z",

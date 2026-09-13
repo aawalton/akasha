@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0120Chapter120LetTheAuctionBegin =
   position: 120,
   ownLength: 1916,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3338572/chapter-120-let-the-auction-begin",
-  externalId: "3338572",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3338572",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3338572/chapter-120-let-the-auction-begin",
+    },
+  ],
   publishedAt: "2026-04-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

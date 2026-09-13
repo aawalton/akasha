@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0082Chapter82ShesCheating = {
   position: 82,
   ownLength: 2506,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2999354/chapter-82-shes-cheating",
-  externalId: "2999354",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2999354",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2999354/chapter-82-shes-cheating",
+    },
+  ],
   publishedAt: "2026-01-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

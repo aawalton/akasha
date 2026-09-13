@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0007Chapter6SnacksBeforeWinter = {
   position: 7,
   ownLength: 1567,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081482/chapter-6-snacks-before-winter",
-  externalId: "1081482",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1081482",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081482/chapter-6-snacks-before-winter",
+    },
+  ],
   publishedAt: "2023-01-07",
   ownProgress: 1567,
   completedAt: "2026-06-29T19:01:43.589Z",

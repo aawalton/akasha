@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0127Chapter603Freedom = {
   position: 127,
   ownLength: 2891,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3805615/chapter-603-freedom",
-  externalId: "3805615",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3805615",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3805615/chapter-603-freedom",
+    },
+  ],
   publishedAt: "2026-08-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

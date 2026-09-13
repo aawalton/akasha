@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0032Chapter465Gifts = {
   position: 32,
   ownLength: 2164,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2484286/chapter-465-gifts",
-  externalId: "2484286",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2484286",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2484286/chapter-465-gifts",
+    },
+  ],
   publishedAt: "2025-08-01",
   ownProgress: 2164,
   completedAt: "2026-06-29T19:59:28.929Z",

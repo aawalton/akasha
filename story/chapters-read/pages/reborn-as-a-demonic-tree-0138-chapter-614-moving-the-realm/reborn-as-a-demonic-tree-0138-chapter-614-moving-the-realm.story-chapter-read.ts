@@ -8,11 +8,15 @@ export const rebornAsADemonicTree0138Chapter614MovingTheRealm = {
   position: 138,
   publishedAt: "2026-09-07",
   unit: "words",
-  externalId: "3926633",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3926633",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3926633/chapter-614-moving-the-realm",
+    },
+  ],
   title: "Chapter 614: Moving the Realm",
   ownLength: 3065,
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3926633/chapter-614-moving-the-realm",
   prose: "txt",
 } as const satisfies StoryChapterRead

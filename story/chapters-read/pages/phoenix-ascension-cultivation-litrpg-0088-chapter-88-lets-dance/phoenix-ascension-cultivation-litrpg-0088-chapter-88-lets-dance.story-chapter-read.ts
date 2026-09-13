@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0088Chapter88LetsDance = {
   position: 88,
   ownLength: 2089,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3054664/chapter-88-lets-dance",
-  externalId: "3054664",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3054664",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3054664/chapter-88-lets-dance",
+    },
+  ],
   publishedAt: "2026-02-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

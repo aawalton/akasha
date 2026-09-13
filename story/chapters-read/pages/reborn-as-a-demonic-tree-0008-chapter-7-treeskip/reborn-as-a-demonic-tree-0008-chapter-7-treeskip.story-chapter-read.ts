@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0008Chapter7Treeskip = {
   position: 8,
   ownLength: 2123,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081533/chapter-7-treeskip",
-  externalId: "1081533",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1081533",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081533/chapter-7-treeskip",
+    },
+  ],
   publishedAt: "2023-01-07",
   ownProgress: 2123,
   completedAt: "2026-06-29T19:01:45.652Z",

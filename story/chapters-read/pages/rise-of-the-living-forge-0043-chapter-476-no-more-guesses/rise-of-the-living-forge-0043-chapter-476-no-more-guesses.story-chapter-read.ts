@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0043Chapter476NoMoreGuesses = {
   position: 43,
   ownLength: 1864,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2571371/chapter-476-no-more-guesses",
-  externalId: "2571371",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2571371",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2571371/chapter-476-no-more-guesses",
+    },
+  ],
   publishedAt: "2025-09-03",
   ownProgress: 1864,
   completedAt: "2026-06-29T19:59:49.558Z",

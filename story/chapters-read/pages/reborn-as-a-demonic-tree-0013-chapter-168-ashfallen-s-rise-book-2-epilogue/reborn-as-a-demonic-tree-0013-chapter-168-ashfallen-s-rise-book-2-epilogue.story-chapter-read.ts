@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0013Chapter168AshfallenSRiseBook2Epilogue = {
   position: 13,
   ownLength: 2788,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1371055/chapter-168-ashfallens-rise-book-2-epilogue",
-  externalId: "1371055",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1371055",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1371055/chapter-168-ashfallens-rise-book-2-epilogue",
+    },
+  ],
   publishedAt: "2023-10-11",
   ownProgress: 2788,
   completedAt: "2026-06-29T19:01:55.782Z",

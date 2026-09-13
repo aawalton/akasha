@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0003Chapter3Forge = {
   position: 3,
   ownLength: 1891,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1459977/chapter-3-forge",
-  externalId: "1459977",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1459977",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1459977/chapter-3-forge",
+    },
+  ],
   publishedAt: "2023-12-30",
   ownProgress: 1891,
   completedAt: "2026-06-29T19:58:33.230Z",

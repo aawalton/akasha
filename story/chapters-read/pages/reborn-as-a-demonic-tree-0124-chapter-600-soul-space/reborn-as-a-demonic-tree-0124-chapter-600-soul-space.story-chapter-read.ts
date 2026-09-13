@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0124Chapter600SoulSpace = {
   position: 124,
   ownLength: 3281,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3774626/chapter-600-soul-space",
-  externalId: "3774626",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3774626",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3774626/chapter-600-soul-space",
+    },
+  ],
   publishedAt: "2026-08-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

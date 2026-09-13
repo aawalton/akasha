@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0043Chapter521Riftwalker = {
   position: 43,
   ownLength: 2580,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2914719/chapter-521-riftwalker",
-  externalId: "2914719",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2914719",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2914719/chapter-521-riftwalker",
+    },
+  ],
   publishedAt: "2026-01-05",
   ownProgress: 2580,
   completedAt: "2026-06-29T19:02:59.360Z",

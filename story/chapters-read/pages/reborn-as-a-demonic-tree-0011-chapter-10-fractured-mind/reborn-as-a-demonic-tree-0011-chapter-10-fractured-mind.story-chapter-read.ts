@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0011Chapter10FracturedMind = {
   position: 11,
   ownLength: 1797,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081631/chapter-10-fractured-mind",
-  externalId: "1081631",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1081631",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081631/chapter-10-fractured-mind",
+    },
+  ],
   publishedAt: "2023-01-07",
   ownProgress: 1797,
   completedAt: "2026-06-29T19:01:51.581Z",

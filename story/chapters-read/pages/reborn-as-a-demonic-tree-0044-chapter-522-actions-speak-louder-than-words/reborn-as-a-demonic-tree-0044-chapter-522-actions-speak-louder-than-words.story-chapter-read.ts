@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0044Chapter522ActionsSpeakLouderThanWords = {
   position: 44,
   ownLength: 2897,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2921131/chapter-522-actions-speak-louder-than-words",
-  externalId: "2921131",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2921131",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2921131/chapter-522-actions-speak-louder-than-words",
+    },
+  ],
   publishedAt: "2026-01-07",
   ownProgress: 2897,
   completedAt: "2026-06-29T19:03:01.558Z",

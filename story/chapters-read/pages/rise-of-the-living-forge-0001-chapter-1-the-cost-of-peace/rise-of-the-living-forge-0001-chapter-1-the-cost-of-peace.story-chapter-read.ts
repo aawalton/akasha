@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0001Chapter1TheCostOfPeace = {
   position: 1,
   ownLength: 3591,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1459943/chapter-1-the-cost-of-peace",
-  externalId: "1459943",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1459943",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1459943/chapter-1-the-cost-of-peace",
+    },
+  ],
   publishedAt: "2023-12-30",
   ownProgress: 3591,
   completedAt: "2026-06-29T19:58:29.469Z",

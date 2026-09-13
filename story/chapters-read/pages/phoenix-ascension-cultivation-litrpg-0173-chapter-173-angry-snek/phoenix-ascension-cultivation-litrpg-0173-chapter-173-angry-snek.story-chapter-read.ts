@@ -8,11 +8,15 @@ export const phoenixAscensionCultivationLitrpg0173Chapter173AngrySnek = {
   position: 173,
   publishedAt: "2026-09-07",
   unit: "words",
-  externalId: "3926389",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3926389",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3926389/chapter-173-angry-snek",
+    },
+  ],
   title: "Chapter 173: Angry Snek",
   ownLength: 2108,
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3926389/chapter-173-angry-snek",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0139Chapter139SecondMe = {
   position: 139,
   ownLength: 2118,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3538964/chapter-139-second-me",
-  externalId: "3538964",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3538964",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3538964/chapter-139-second-me",
+    },
+  ],
   publishedAt: "2026-06-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

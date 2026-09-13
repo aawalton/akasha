@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0079Chapter555TheRadiantDawn = {
   position: 79,
   ownLength: 2388,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3240304/chapter-555-the-radiant-dawn",
-  externalId: "3240304",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3240304",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3240304/chapter-555-the-radiant-dawn",
+    },
+  ],
   publishedAt: "2026-04-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

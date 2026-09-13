@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0039Chapter517HumbleBeginnings = {
   position: 39,
   ownLength: 2780,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2882882/chapter-517-humble-beginnings",
-  externalId: "2882882",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2882882",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2882882/chapter-517-humble-beginnings",
+    },
+  ],
   publishedAt: "2025-12-26",
   ownProgress: 2780,
   completedAt: "2026-06-29T19:02:51.060Z",

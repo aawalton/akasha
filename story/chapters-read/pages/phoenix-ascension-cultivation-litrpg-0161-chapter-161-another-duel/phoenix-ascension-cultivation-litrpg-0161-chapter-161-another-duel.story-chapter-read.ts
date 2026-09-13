@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0161Chapter161AnotherDuel = {
   position: 161,
   ownLength: 2048,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3798740/chapter-161-another-duel",
-  externalId: "3798740",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3798740",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3798740/chapter-161-another-duel",
+    },
+  ],
   publishedAt: "2026-08-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

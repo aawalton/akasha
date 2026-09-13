@@ -9,10 +9,14 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0026Chapter24Tension = {
   position: 26,
   ownLength: 2506,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3554157/chapter-24-tension",
-  externalId: "3554157",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3554157",
+      externalLink:
+        "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3554157/chapter-24-tension",
+    },
+  ],
   publishedAt: "2026-06-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

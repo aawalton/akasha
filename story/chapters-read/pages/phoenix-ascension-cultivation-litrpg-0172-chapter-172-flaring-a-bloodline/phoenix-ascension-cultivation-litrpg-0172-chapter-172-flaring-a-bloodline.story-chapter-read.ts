@@ -8,11 +8,15 @@ export const phoenixAscensionCultivationLitrpg0172Chapter172FlaringABloodline = 
   position: 172,
   publishedAt: "2026-09-06",
   unit: "words",
-  externalId: "3921621",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3921621",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3921621/chapter-172-flaring-a-bloodline",
+    },
+  ],
   title: "Chapter 172: Flaring a Bloodline",
   ownLength: 1938,
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3921621/chapter-172-flaring-a-bloodline",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0007Chapter7EomaSBakery 
   position: 7,
   ownLength: 2219,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3390588/chapter-7-eomas-bakery",
-  externalId: "3390588",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3390588",
+      externalLink:
+        "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3390588/chapter-7-eomas-bakery",
+    },
+  ],
   publishedAt: "2026-05-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

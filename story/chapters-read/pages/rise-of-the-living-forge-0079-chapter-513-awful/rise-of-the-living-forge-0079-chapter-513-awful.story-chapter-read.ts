@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0079Chapter513Awful = {
   position: 79,
   ownLength: 1615,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2737796/chapter-513-awful",
-  externalId: "2737796",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2737796",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2737796/chapter-513-awful",
+    },
+  ],
   publishedAt: "2025-11-06",
   ownProgress: 1615,
   completedAt: "2026-06-29T20:00:57.733Z",

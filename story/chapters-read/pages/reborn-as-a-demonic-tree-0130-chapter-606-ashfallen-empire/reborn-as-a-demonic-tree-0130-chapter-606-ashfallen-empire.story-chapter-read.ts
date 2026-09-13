@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0130Chapter606AshfallenEmpire = {
   position: 130,
   ownLength: 2561,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3835852/chapter-606-ashfallen-empire",
-  externalId: "3835852",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3835852",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3835852/chapter-606-ashfallen-empire",
+    },
+  ],
   publishedAt: "2026-08-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

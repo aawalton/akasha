@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0050Chapter528BettingOneSSoul = {
   position: 50,
   ownLength: 2920,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2965421/chapter-528-betting-ones-soul",
-  externalId: "2965421",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2965421",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2965421/chapter-528-betting-ones-soul",
+    },
+  ],
   publishedAt: "2026-01-21",
   ownProgress: 2920,
   completedAt: "2026-06-29T19:03:14.882Z",

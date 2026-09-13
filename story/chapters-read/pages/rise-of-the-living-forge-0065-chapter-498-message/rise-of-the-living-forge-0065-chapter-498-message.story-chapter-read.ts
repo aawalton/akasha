@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0065Chapter498Message = {
   position: 65,
   ownLength: 1546,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2663683/chapter-498-message",
-  externalId: "2663683",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2663683",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2663683/chapter-498-message",
+    },
+  ],
   publishedAt: "2025-10-09",
   ownProgress: 1546,
   completedAt: "2026-06-29T20:00:30.978Z",

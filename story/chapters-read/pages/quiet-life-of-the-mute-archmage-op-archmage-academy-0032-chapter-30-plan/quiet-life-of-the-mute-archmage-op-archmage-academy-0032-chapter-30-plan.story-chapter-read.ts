@@ -9,10 +9,14 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0032Chapter30Plan = {
   position: 32,
   ownLength: 2763,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3650418/chapter-30-plan",
-  externalId: "3650418",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3650418",
+      externalLink:
+        "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3650418/chapter-30-plan",
+    },
+  ],
   publishedAt: "2026-07-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

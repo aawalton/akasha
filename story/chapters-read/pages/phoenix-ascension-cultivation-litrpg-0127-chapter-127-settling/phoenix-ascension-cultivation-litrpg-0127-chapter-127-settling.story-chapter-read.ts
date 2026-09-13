@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0127Chapter127Settling = {
   position: 127,
   ownLength: 2486,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3406361/chapter-127-settling",
-  externalId: "3406361",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3406361",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3406361/chapter-127-settling",
+    },
+  ],
   publishedAt: "2026-05-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0073Chapter507Roadblock = {
   position: 73,
   ownLength: 1552,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2709354/chapter-507-roadblock",
-  externalId: "2709354",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2709354",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2709354/chapter-507-roadblock",
+    },
+  ],
   publishedAt: "2025-10-27",
   ownProgress: 1552,
   completedAt: "2026-06-29T20:00:46.074Z",

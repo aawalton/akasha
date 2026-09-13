@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0116Chapter592ArchdemonSummoning = {
   position: 116,
   ownLength: 2525,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3690763/chapter-592-archdemon-summoning",
-  externalId: "3690763",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3690763",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3690763/chapter-592-archdemon-summoning",
+    },
+  ],
   publishedAt: "2026-07-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

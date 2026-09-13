@@ -7,12 +7,16 @@ export const phoenixAscensionCultivationLitrpg0174Chapter174Eaten = {
   position: 174,
   publishedAt: "2026-09-11",
   unit: "words",
-  externalId: "3945127",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3945127",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3945127/chapter-174-eaten",
+    },
+  ],
   title: "Chapter 174: Eaten",
   story: "story-read/phoenix-ascension-cultivation-litrpg",
   ownLength: 2368,
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3945127/chapter-174-eaten",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0033Chapter31TheDescent 
   position: 33,
   ownLength: 2993,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3664004/chapter-31-the-descent",
-  externalId: "3664004",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3664004",
+      externalLink:
+        "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3664004/chapter-31-the-descent",
+    },
+  ],
   publishedAt: "2026-07-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

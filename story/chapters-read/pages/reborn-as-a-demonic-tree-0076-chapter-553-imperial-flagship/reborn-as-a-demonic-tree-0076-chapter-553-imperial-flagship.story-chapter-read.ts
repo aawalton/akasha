@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0076Chapter553ImperialFlagship = {
   position: 76,
   ownLength: 2599,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3219654/chapter-553-imperial-flagship",
-  externalId: "3219654",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3219654",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3219654/chapter-553-imperial-flagship",
+    },
+  ],
   publishedAt: "2026-04-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

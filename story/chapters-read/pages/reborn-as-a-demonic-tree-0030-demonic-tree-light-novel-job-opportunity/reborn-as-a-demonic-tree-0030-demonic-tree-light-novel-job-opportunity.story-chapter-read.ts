@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0030DemonicTreeLightNovelJobOpportunity = {
   position: 30,
   ownLength: 588,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2458521/demonic-tree-light-novel-job-opportunity",
-  externalId: "2458521",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2458521",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2458521/demonic-tree-light-novel-job-opportunity",
+    },
+  ],
   publishedAt: "2025-07-23",
   ownProgress: 588,
   completedAt: "2026-06-29T19:02:32.064Z",

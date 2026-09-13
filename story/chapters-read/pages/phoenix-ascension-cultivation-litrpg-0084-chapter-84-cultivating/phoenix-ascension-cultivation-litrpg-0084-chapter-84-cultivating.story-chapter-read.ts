@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0084Chapter84Cultivating = {
   position: 84,
   ownLength: 1741,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3013303/chapter-84-cultivating",
-  externalId: "3013303",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3013303",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3013303/chapter-84-cultivating",
+    },
+  ],
   publishedAt: "2026-02-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

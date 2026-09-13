@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0069Chapter546DarkChild = {
   position: 69,
   ownLength: 2902,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3159337/chapter-546-dark-child",
-  externalId: "3159337",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3159337",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3159337/chapter-546-dark-child",
+    },
+  ],
   publishedAt: "2026-03-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

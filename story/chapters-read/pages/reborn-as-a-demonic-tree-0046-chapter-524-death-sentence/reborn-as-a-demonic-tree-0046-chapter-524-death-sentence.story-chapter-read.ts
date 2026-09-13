@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0046Chapter524DeathSentence = {
   position: 46,
   ownLength: 2791,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2936646/chapter-524-death-sentence",
-  externalId: "2936646",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2936646",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2936646/chapter-524-death-sentence",
+    },
+  ],
   publishedAt: "2026-01-12",
   ownProgress: 2791,
   completedAt: "2026-06-29T19:03:06.596Z",

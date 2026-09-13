@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0025Chapter407NewBeginningsEndOfBook6 = {
   position: 25,
   ownLength: 3722,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2073020/chapter-407-new-beginnings-end-of-book-6",
-  externalId: "2073020",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2073020",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2073020/chapter-407-new-beginnings-end-of-book-6",
+    },
+  ],
   publishedAt: "2025-02-17",
   ownProgress: 3722,
   completedAt: "2026-06-29T19:02:21.000Z",

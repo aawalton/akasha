@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0074Chapter508Delivery = {
   position: 74,
   ownLength: 1697,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2711718/chapter-508-delivery",
-  externalId: "2711718",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2711718",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2711718/chapter-508-delivery",
+    },
+  ],
   publishedAt: "2025-10-28",
   ownProgress: 1697,
   completedAt: "2026-06-29T20:00:47.998Z",

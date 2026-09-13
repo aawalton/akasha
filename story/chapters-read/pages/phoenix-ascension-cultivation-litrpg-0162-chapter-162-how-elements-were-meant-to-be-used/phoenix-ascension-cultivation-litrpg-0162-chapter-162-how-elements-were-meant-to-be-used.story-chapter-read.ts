@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0162Chapter162HowElementsWereMeant
   position: 162,
   ownLength: 1922,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3807713/chapter-162-how-elements-were-meant-to-be-used",
-  externalId: "3807713",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3807713",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3807713/chapter-162-how-elements-were-meant-to-be-used",
+    },
+  ],
   publishedAt: "2026-08-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

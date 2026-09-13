@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0060Chapter537TestingAGeneral = {
   position: 60,
   ownLength: 2748,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3075520/chapter-537-testing-a-general",
-  externalId: "3075520",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3075520",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3075520/chapter-537-testing-a-general",
+    },
+  ],
   publishedAt: "2026-02-20",
   ownProgress: 2748,
   completedAt: "2026-06-29T19:03:35.619Z",

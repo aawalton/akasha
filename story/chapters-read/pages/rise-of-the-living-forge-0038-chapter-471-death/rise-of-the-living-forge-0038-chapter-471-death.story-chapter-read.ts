@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0038Chapter471Death = {
   position: 38,
   ownLength: 1986,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2509764/chapter-471-death",
-  externalId: "2509764",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2509764",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2509764/chapter-471-death",
+    },
+  ],
   publishedAt: "2025-08-11",
   ownProgress: 1986,
   completedAt: "2026-06-29T19:59:40.458Z",

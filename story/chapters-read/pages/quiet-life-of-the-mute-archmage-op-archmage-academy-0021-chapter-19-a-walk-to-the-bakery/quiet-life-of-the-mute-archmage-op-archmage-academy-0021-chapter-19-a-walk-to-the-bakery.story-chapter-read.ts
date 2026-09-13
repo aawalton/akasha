@@ -9,10 +9,14 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0021Chapter19AWalkToTheB
   position: 21,
   ownLength: 1707,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3498096/chapter-19-a-walk-to-the-bakery",
-  externalId: "3498096",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3498096",
+      externalLink:
+        "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3498096/chapter-19-a-walk-to-the-bakery",
+    },
+  ],
   publishedAt: "2026-06-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

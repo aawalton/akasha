@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0048Chapter481ThereWasOne = {
   position: 48,
   ownLength: 2075,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2590160/chapter-481-there-was-one",
-  externalId: "2590160",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2590160",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2590160/chapter-481-there-was-one",
+    },
+  ],
   publishedAt: "2025-09-10",
   ownProgress: 2075,
   completedAt: "2026-06-29T19:59:58.759Z",

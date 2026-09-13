@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0085Chapter561DomainOfTheAetherialStartOfBook10
   position: 85,
   ownLength: 2316,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3297903/chapter-561-domain-of-the-aetherial-start-of-book",
-  externalId: "3297903",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3297903",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3297903/chapter-561-domain-of-the-aetherial-start-of-book",
+    },
+  ],
   publishedAt: "2026-04-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

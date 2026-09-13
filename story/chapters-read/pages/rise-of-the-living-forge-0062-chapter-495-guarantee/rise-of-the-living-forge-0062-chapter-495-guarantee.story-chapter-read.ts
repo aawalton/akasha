@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0062Chapter495Guarantee = {
   position: 62,
   ownLength: 1766,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2646104/chapter-495-guarantee",
-  externalId: "2646104",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2646104",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2646104/chapter-495-guarantee",
+    },
+  ],
   publishedAt: "2025-10-02",
   ownProgress: 1766,
   completedAt: "2026-06-29T20:00:25.157Z",

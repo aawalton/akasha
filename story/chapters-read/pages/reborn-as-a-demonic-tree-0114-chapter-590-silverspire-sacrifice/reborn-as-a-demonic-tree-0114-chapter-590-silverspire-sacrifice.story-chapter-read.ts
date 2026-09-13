@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0114Chapter590SilverspireSacrifice = {
   position: 114,
   ownLength: 2654,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3672633/chapter-590-silverspire-sacrifice",
-  externalId: "3672633",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3672633",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3672633/chapter-590-silverspire-sacrifice",
+    },
+  ],
   publishedAt: "2026-07-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

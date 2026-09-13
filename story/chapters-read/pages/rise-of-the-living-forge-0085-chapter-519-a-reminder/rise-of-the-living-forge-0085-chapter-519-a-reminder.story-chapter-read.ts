@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0085Chapter519AReminder = {
   position: 85,
   ownLength: 1506,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2772080/chapter-519-a-reminder",
-  externalId: "2772080",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2772080",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2772080/chapter-519-a-reminder",
+    },
+  ],
   publishedAt: "2025-11-18",
   ownProgress: 1506,
   completedAt: "2026-06-29T20:01:09.302Z",

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0066Chapter499TrulyMonstrous = {
   position: 66,
   ownLength: 1588,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2673411/chapter-499-truly-monstrous",
-  externalId: "2673411",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2673411",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2673411/chapter-499-truly-monstrous",
+    },
+  ],
   publishedAt: "2025-10-13",
   ownProgress: 1588,
   completedAt: "2026-06-29T20:00:32.896Z",

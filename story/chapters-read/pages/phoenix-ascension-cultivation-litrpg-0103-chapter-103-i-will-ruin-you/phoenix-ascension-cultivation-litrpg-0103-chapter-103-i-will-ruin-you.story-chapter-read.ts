@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0103Chapter103IWillRuinYou = {
   position: 103,
   ownLength: 1880,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3177957/chapter-103-i-will-ruin-you",
-  externalId: "3177957",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3177957",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3177957/chapter-103-i-will-ruin-you",
+    },
+  ],
   publishedAt: "2026-03-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

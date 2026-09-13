@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0049Chapter4822ndTimeSTheCharm = {
   position: 49,
   ownLength: 1597,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2592726/chapter-482-2nd-times-the-charm",
-  externalId: "2592726",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2592726",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2592726/chapter-482-2nd-times-the-charm",
+    },
+  ],
   publishedAt: "2025-09-11",
   ownProgress: 1597,
   completedAt: "2026-06-29T20:00:00.703Z",

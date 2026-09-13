@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0102Chapter102Sneaky = {
   position: 102,
   ownLength: 2697,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3166859/chapter-102-sneaky",
-  externalId: "3166859",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3166859",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3166859/chapter-102-sneaky",
+    },
+  ],
   publishedAt: "2026-03-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

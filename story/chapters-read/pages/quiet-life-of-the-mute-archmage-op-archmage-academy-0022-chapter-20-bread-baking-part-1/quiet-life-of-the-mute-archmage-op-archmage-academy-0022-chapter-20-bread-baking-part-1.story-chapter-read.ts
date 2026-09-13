@@ -9,10 +9,14 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0022Chapter20BreadBaking
   position: 22,
   ownLength: 2600,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3516440/chapter-20-bread-baking-part-1",
-  externalId: "3516440",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3516440",
+      externalLink:
+        "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3516440/chapter-20-bread-baking-part-1",
+    },
+  ],
   publishedAt: "2026-06-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

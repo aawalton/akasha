@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0108Chapter108Soil = {
   position: 108,
   ownLength: 2110,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3220210/chapter-108-soil",
-  externalId: "3220210",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3220210",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3220210/chapter-108-soil",
+    },
+  ],
   publishedAt: "2026-04-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0005Chapter5SigsugMarket
   position: 5,
   ownLength: 2271,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3389195/chapter-5-sigsug-market",
-  externalId: "3389195",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3389195",
+      externalLink:
+        "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3389195/chapter-5-sigsug-market",
+    },
+  ],
   publishedAt: "2026-05-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

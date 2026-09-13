@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0010Chapter268Dinner = {
   position: 10,
   ownLength: 1986,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1788315/chapter-268-dinner",
-  externalId: "1788315",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1788315",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1788315/chapter-268-dinner",
+    },
+  ],
   publishedAt: "2024-09-04",
   ownProgress: 1986,
   completedAt: "2026-06-29T19:58:46.740Z",

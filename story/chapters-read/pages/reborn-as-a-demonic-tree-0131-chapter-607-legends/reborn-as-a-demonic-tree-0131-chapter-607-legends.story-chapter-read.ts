@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0131Chapter607Legends = {
   position: 131,
   ownLength: 3027,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3844912/chapter-607-legends",
-  externalId: "3844912",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3844912",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3844912/chapter-607-legends",
+    },
+  ],
   publishedAt: "2026-08-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

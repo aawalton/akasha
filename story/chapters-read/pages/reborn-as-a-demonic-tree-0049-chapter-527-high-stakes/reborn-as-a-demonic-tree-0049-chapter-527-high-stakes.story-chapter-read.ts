@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0049Chapter527HighStakes = {
   position: 49,
   ownLength: 3190,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2958960/chapter-527-high-stakes",
-  externalId: "2958960",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2958960",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2958960/chapter-527-high-stakes",
+    },
+  ],
   publishedAt: "2026-01-19",
   ownProgress: 3190,
   completedAt: "2026-06-29T19:03:12.841Z",

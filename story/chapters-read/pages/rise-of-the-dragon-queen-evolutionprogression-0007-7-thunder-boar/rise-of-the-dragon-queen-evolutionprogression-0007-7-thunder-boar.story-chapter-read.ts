@@ -9,10 +9,14 @@ export const riseOfTheDragonQueenEvolutionprogression00077ThunderBoar = {
   position: 7,
   ownLength: 2597,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2585237/7-thunder-boar",
-  externalId: "2585237",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2585237",
+      externalLink:
+        "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2585237/7-thunder-boar",
+    },
+  ],
   publishedAt: "2025-09-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

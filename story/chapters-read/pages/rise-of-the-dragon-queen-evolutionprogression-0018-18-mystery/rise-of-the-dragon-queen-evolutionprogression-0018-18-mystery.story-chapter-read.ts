@@ -9,10 +9,14 @@ export const riseOfTheDragonQueenEvolutionprogression001818Mystery = {
   position: 18,
   ownLength: 1949,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2669181/18-mystery",
-  externalId: "2669181",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2669181",
+      externalLink:
+        "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2669181/18-mystery",
+    },
+  ],
   publishedAt: "2025-10-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

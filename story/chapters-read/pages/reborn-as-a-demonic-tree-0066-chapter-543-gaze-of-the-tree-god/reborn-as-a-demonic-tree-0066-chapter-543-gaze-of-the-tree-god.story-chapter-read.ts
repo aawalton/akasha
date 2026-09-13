@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0066Chapter543GazeOfTheTreeGod = {
   position: 66,
   ownLength: 3260,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3134198/chapter-543-gaze-of-the-tree-god",
-  externalId: "3134198",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3134198",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3134198/chapter-543-gaze-of-the-tree-god",
+    },
+  ],
   publishedAt: "2026-03-09",
   ownProgress: 394,
   prose: "txt",

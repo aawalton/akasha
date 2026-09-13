@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0006Chapter5ATotallyFriendlyTree = {
   position: 6,
   ownLength: 2301,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081426/chapter-5-a-totally-friendly-tree",
-  externalId: "1081426",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1081426",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081426/chapter-5-a-totally-friendly-tree",
+    },
+  ],
   publishedAt: "2023-01-07",
   ownProgress: 2301,
   completedAt: "2026-06-29T19:01:41.281Z",

@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0057Chapter534PrimordialIceCore = {
   position: 57,
   ownLength: 2823,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3051298/chapter-534-primordial-ice-core",
-  externalId: "3051298",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3051298",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3051298/chapter-534-primordial-ice-core",
+    },
+  ],
   publishedAt: "2026-02-13",
   ownProgress: 2823,
   completedAt: "2026-06-29T19:03:29.536Z",

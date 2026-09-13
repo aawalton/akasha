@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0132Chapter608AshboundOrder = {
   position: 132,
   ownLength: 2820,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3859999/chapter-608-ashbound-order",
-  externalId: "3859999",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3859999",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3859999/chapter-608-ashbound-order",
+    },
+  ],
   publishedAt: "2026-08-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

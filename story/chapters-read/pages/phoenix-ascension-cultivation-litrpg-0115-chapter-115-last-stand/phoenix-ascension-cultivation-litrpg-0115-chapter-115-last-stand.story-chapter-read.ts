@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0115Chapter115LastStand = {
   position: 115,
   ownLength: 2443,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3291037/chapter-115-last-stand",
-  externalId: "3291037",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3291037",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3291037/chapter-115-last-stand",
+    },
+  ],
   publishedAt: "2026-04-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

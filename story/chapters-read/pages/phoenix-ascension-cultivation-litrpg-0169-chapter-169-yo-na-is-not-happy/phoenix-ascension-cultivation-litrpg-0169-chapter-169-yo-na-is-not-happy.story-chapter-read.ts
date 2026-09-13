@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0169Chapter169YoNaIsNotHappy = {
   position: 169,
   ownLength: 1930,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3887045/chapter-169-yo-na-is-not-happy",
-  externalId: "3887045",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3887045",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3887045/chapter-169-yo-na-is-not-happy",
+    },
+  ],
   publishedAt: "2026-08-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0035Chapter513EncroachingDesolation = {
   position: 35,
   ownLength: 3008,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2851704/chapter-513-encroaching-desolation",
-  externalId: "2851704",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2851704",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2851704/chapter-513-encroaching-desolation",
+    },
+  ],
   publishedAt: "2025-12-16",
   ownProgress: 3008,
   completedAt: "2026-06-29T19:02:42.486Z",

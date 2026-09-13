@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0068Chapter501And502TheCrimsonNightAndImportant
   position: 68,
   ownLength: 3954,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2678621/chapter-501-502-the-crimson-night-important-announcement",
-  externalId: "2678621",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2678621",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2678621/chapter-501-502-the-crimson-night-important-announcement",
+    },
+  ],
   publishedAt: "2025-10-15",
   ownProgress: 3954,
   completedAt: "2026-06-29T20:00:36.615Z",

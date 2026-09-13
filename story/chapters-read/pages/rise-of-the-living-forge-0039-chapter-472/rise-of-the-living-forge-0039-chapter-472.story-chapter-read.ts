@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0039Chapter472 = {
   position: 39,
   ownLength: 1753,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2512522/chapter-472",
-  externalId: "2512522",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2512522",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2512522/chapter-472",
+    },
+  ],
   publishedAt: "2025-08-12",
   ownProgress: 1753,
   completedAt: "2026-06-29T19:59:42.245Z",

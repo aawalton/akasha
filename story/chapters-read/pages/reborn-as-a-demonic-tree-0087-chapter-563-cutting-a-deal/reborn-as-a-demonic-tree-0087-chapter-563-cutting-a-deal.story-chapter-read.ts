@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0087Chapter563CuttingADeal = {
   position: 87,
   ownLength: 2401,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3314464/chapter-563-cutting-a-deal",
-  externalId: "3314464",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3314464",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3314464/chapter-563-cutting-a-deal",
+    },
+  ],
   publishedAt: "2026-04-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

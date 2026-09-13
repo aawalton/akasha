@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0088Chapter564EmpoweredFruitsAndMushrooms = {
   position: 88,
   ownLength: 2412,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3326153/chapter-564-empowered-fruits-and-mushrooms",
-  externalId: "3326153",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3326153",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3326153/chapter-564-empowered-fruits-and-mushrooms",
+    },
+  ],
   publishedAt: "2026-04-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

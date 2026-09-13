@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0144Chapter144AllHailThePhoenix = 
   position: 144,
   ownLength: 2066,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3598137/chapter-144-all-hail-the-phoenix",
-  externalId: "3598137",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3598137",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3598137/chapter-144-all-hail-the-phoenix",
+    },
+  ],
   publishedAt: "2026-06-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

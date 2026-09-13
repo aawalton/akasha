@@ -9,10 +9,14 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0024Chapter22TheReturnOf
   position: 24,
   ownLength: 3819,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3532349/chapter-22-the-return-of-phragons",
-  externalId: "3532349",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3532349",
+      externalLink:
+        "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3532349/chapter-22-the-return-of-phragons",
+    },
+  ],
   publishedAt: "2026-06-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

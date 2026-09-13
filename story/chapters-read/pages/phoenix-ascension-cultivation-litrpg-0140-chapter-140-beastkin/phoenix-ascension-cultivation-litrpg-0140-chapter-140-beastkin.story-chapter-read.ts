@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0140Chapter140Beastkin = {
   position: 140,
   ownLength: 2694,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3549529/chapter-140-beastkin",
-  externalId: "3549529",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3549529",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3549529/chapter-140-beastkin",
+    },
+  ],
   publishedAt: "2026-06-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

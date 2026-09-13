@@ -9,10 +9,14 @@ export const riseOfTheDragonQueenEvolutionprogression00088IHaveShoes = {
   position: 8,
   ownLength: 2318,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2598063/8-i-have-shoes",
-  externalId: "2598063",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2598063",
+      externalLink:
+        "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2598063/8-i-have-shoes",
+    },
+  ],
   publishedAt: "2025-09-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

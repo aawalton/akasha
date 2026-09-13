@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0044Chapter477TheWorst = {
   position: 44,
   ownLength: 1930,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2574033/chapter-477-the-worst",
-  externalId: "2574033",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2574033",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2574033/chapter-477-the-worst",
+    },
+  ],
   publishedAt: "2025-09-04",
   ownProgress: 1930,
   completedAt: "2026-06-29T19:59:51.375Z",

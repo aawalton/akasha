@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0083Chapter517TheGuardian = {
   position: 83,
   ownLength: 2075,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2757737/chapter-517-the-guardian",
-  externalId: "2757737",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2757737",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2757737/chapter-517-the-guardian",
+    },
+  ],
   publishedAt: "2025-11-13",
   ownProgress: 2075,
   completedAt: "2026-06-29T20:01:05.452Z",

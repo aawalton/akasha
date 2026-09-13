@@ -9,10 +9,14 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0037Updates = {
   position: 37,
   ownLength: 94,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3779243/updates",
-  externalId: "3779243",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3779243",
+      externalLink:
+        "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3779243/updates",
+    },
+  ],
   publishedAt: "2026-08-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0107Chapter107CoreFormationCore = 
   position: 107,
   ownLength: 1983,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3212175/chapter-107-core-formation-core",
-  externalId: "3212175",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3212175",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3212175/chapter-107-core-formation-core",
+    },
+  ],
   publishedAt: "2026-03-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const riseOfTheDragonQueenEvolutionprogression001717MoonJuice = {
   position: 17,
   ownLength: 2116,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2669162/17-moon-juice",
-  externalId: "2669162",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2669162",
+      externalLink:
+        "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2669162/17-moon-juice",
+    },
+  ],
   publishedAt: "2025-10-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0045Chapter478Mouth = {
   position: 45,
   ownLength: 2236,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2576795/chapter-478-mouth",
-  externalId: "2576795",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2576795",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2576795/chapter-478-mouth",
+    },
+  ],
   publishedAt: "2025-09-05",
   ownProgress: 2236,
   completedAt: "2026-06-29T19:59:53.153Z",

@@ -9,10 +9,14 @@ export const riseOfTheDragonQueenEvolutionprogression001313ExtraSpecialIngredien
   position: 13,
   ownLength: 1849,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2641312/13-extra-special-ingredient",
-  externalId: "2641312",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2641312",
+      externalLink:
+        "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2641312/13-extra-special-ingredient",
+    },
+  ],
   publishedAt: "2025-09-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

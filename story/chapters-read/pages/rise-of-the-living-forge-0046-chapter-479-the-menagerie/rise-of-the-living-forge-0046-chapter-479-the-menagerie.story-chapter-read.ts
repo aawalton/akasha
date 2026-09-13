@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0046Chapter479TheMenagerie = {
   position: 46,
   ownLength: 1958,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2584730/chapter-479-the-menagerie",
-  externalId: "2584730",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2584730",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2584730/chapter-479-the-menagerie",
+    },
+  ],
   publishedAt: "2025-09-08",
   ownProgress: 1958,
   completedAt: "2026-06-29T19:59:54.955Z",

@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0056Chapter533MonarchOfFlame = {
   position: 56,
   ownLength: 2796,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3037525/chapter-533-monarch-of-flame",
-  externalId: "3037525",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3037525",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3037525/chapter-533-monarch-of-flame",
+    },
+  ],
   publishedAt: "2026-02-11",
   ownProgress: 2796,
   completedAt: "2026-06-29T19:03:27.465Z",

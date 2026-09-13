@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0097Chapter573StellaSReturn = {
   position: 97,
   ownLength: 3003,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3454852/chapter-573-stellas-return",
-  externalId: "3454852",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3454852",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3454852/chapter-573-stellas-return",
+    },
+  ],
   publishedAt: "2026-05-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

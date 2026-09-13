@@ -9,10 +9,14 @@ export const rebornAsADemonicTree0038Chapter516FleshfruitTree = {
   position: 38,
   ownLength: 2934,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2870968/chapter-516-fleshfruit-tree",
-  externalId: "2870968",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2870968",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2870968/chapter-516-fleshfruit-tree",
+    },
+  ],
   publishedAt: "2025-12-22",
   ownProgress: 2934,
   completedAt: "2026-06-29T19:02:49.065Z",

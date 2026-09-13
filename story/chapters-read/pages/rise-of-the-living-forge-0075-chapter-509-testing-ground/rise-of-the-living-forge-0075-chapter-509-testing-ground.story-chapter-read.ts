@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0075Chapter509TestingGround = {
   position: 75,
   ownLength: 1762,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2714570/chapter-509-testing-ground",
-  externalId: "2714570",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2714570",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2714570/chapter-509-testing-ground",
+    },
+  ],
   publishedAt: "2025-10-29",
   ownProgress: 1762,
   completedAt: "2026-06-29T20:00:49.918Z",

@@ -9,10 +9,14 @@ export const riseOfTheDragonQueenEvolutionprogression00055TheFamiliarHorn = {
   position: 5,
   ownLength: 2096,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2569014/5-the-familiar-horn",
-  externalId: "2569014",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2569014",
+      externalLink:
+        "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2569014/5-the-familiar-horn",
+    },
+  ],
   publishedAt: "2025-09-02",
   prose: "txt",
 } as const satisfies StoryChapterRead
