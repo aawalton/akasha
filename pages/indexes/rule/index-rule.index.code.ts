@@ -1,8 +1,8 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { digestOf } from "akasha/code/bodies/modules/carried-file/carried-file.module.code.ts"
-import { speltIn } from "akasha/code/modules/rule/code-rule.module.code.ts"
 import { typed } from "akasha/code/modules/typing/code-typing.module.code.ts"
+import { speltIn } from "akasha/code/reading/modules/rule/code-rule.module.code.ts"
 import type { Entry } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import { under } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
@@ -16,8 +16,10 @@ const READ = "read/at-path"
 
 const BY_READER = "read/by-reader"
 
-const READER = new URL("../../../code/modules/rule/code-rule.module.code.ts", import.meta.url)
-  .pathname
+const READER = new URL(
+  "../../../code/reading/modules/rule/code-rule.module.code.ts",
+  import.meta.url
+).pathname
 
 const ENDING = ".jsonl"
 
