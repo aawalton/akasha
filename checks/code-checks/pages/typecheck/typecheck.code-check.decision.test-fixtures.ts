@@ -19,6 +19,7 @@ import {
   relationFiled,
   shapeAdded,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { indexIn } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { shadowAsked, shadowFor } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
@@ -268,6 +269,12 @@ export const CHAINED =
 
 export function holding(): string {
   return staged({ "akasha/one.ts": "export const one = 1\n" })
+}
+
+export function unindexed(): string {
+  const root = holding()
+  rmSync(indexIn(root), { recursive: true })
+  return root
 }
 
 export function calling(): string {

@@ -52,6 +52,7 @@ import {
   THING_AT,
   TWO_BREAKS,
   twinned,
+  unindexed,
   unreached,
   WHOLE,
   WITHOUT,
@@ -335,8 +336,7 @@ test("an index standing and naming no importer is an answer, so the change alone
 })
 
 test("a change naming no TypeScript under the akasha folder asks the index nothing", async () => {
-  const root = holding()
-  rmSync(join(root, ".git"), { recursive: true })
+  const root = unindexed()
   expect(await judged(change(root, { "akasha/notes.txt": "nothing to compile\n" }))).toEqual([])
 })
 
