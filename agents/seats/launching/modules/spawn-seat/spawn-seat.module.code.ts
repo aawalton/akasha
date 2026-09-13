@@ -1,3 +1,5 @@
+import { seatByName } from "akasha/agents/seats/fleet/modules/by-name/seat-by-name.module.code.ts"
+import { isValidSeatName } from "akasha/agents/seats/fleet/modules/handle/seat-handle.module.code.ts"
 import {
   type LaunchSeatResult,
   launchSeatUnderTmux,
@@ -7,8 +9,6 @@ import {
   principalIsPerson,
   refuseAnswering,
 } from "akasha/agents/seats/modules/answering/seat-answering.module.code.ts"
-import { seatByName } from "akasha/agents/seats/modules/by-name/seat-by-name.module.code.ts"
-import { isValidSeatName } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
 import { stateSpawnedSeat } from "akasha/agents/seats/modules/state-spawned-seat/state-spawned-seat.module.code.ts"
 import {
   FLEET,

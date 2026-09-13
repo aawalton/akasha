@@ -1,8 +1,8 @@
-import { principalSeatIdOf } from "akasha/agents/seats/modules/principal/seat-principal.module.code.ts"
 import {
   type Seated,
   seatsPresent,
-} from "akasha/agents/seats/modules/roster/seat-roster.module.code.ts"
+} from "akasha/agents/seats/fleet/modules/roster/seat-roster.module.code.ts"
+import { principalSeatIdOf } from "akasha/agents/seats/modules/principal/seat-principal.module.code.ts"
 
 export function childrenAmong(
   parentAgentId: string,

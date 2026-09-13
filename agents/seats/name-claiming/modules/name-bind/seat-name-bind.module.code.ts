@@ -1,5 +1,5 @@
-import { seatByName } from "akasha/agents/seats/modules/by-name/seat-by-name.module.code.ts"
-import { isValidSeatName } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
+import { seatByName } from "akasha/agents/seats/fleet/modules/by-name/seat-by-name.module.code.ts"
+import { isValidSeatName } from "akasha/agents/seats/fleet/modules/handle/seat-handle.module.code.ts"
 import { gatherAgentNameBindInput } from "akasha/agents/seats/name-claiming/modules/agent-name-bind/agent-name-bind.module.code.ts"
 import {
   claimed,

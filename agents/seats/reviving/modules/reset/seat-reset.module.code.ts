@@ -1,3 +1,4 @@
+import { resolveSeatTargetCli } from "akasha/agents/seats/fleet/modules/handle/seat-handle.module.code.ts"
 import {
   killSeatSession,
   launchSeatUnderTmux,
@@ -7,7 +8,6 @@ import {
   isSeatMode,
   SEAT_MODE_HEADLESS,
 } from "akasha/agents/seats/launching/modules/modes/seat-modes.module.code.ts"
-import { resolveSeatTargetCli } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
 import { principalSeatNameOf } from "akasha/agents/seats/modules/principal/seat-principal.module.code.ts"
 import { stateSpawnedSeat } from "akasha/agents/seats/modules/state-spawned-seat/state-spawned-seat.module.code.ts"
 import {

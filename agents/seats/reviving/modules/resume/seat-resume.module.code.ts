@@ -1,4 +1,10 @@
 import { readTranscriptMtimeMs } from "akasha/agents/modules/io-probe/io-probe.module.code.ts"
+import { seatRecord } from "akasha/agents/seats/fleet/modules/facts/seat-facts.module.code.ts"
+import {
+  NONE_NAMED,
+  resolveSeatTargetCli,
+  resolveSeatTargetFromFlagOrEnv,
+} from "akasha/agents/seats/fleet/modules/handle/seat-handle.module.code.ts"
 import {
   holdSeatPaneOpen,
   killSeatSession,
@@ -17,12 +23,6 @@ import {
   setRequestedAction,
   waitForActionCleared,
 } from "akasha/agents/seats/modules/action/seat-action.module.code.ts"
-import { seatRecord } from "akasha/agents/seats/modules/facts/seat-facts.module.code.ts"
-import {
-  NONE_NAMED,
-  resolveSeatTargetCli,
-  resolveSeatTargetFromFlagOrEnv,
-} from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
 import { parseWindowDuration } from "akasha/agents/seats/modules/window-duration/window-duration.module.code.ts"
 import { sweepSupersededAgentTrees } from "akasha/agents/seats/reviving/modules/recovery/seat-recovery.module.code.ts"
 import {
