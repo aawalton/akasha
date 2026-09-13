@@ -60,6 +60,10 @@ const TOLD = "This is what you wrote to Alan, and it breaks a rule he holds. Wri
 
 const STOP_GATES = "stop-gates"
 
+const POSITIVES = "positives"
+
+const TEST = "model-test"
+
 const HOOK_TYPE = "inference-hook"
 
 export const GATES = {
@@ -102,6 +106,34 @@ function noting(
   } catch {}
 }
 
+export function positiveFor(
+  seat: string,
+  about: string,
+  prompt: string,
+  answer: string,
+  at: Date
+): string {
+  return `${JSON.stringify({ ranAt: at.toISOString(), seat, about, prompt, said: answer })}\n`
+}
+
+function recordingPositives(
+  root: string,
+  seat: string,
+  asking: readonly Putting[],
+  answers: readonly string[]
+): undefined {
+  const at = new Date()
+  for (let one = 0; one < asking.length; one += 1) {
+    const put = asking[one]
+    const answer = answers[one] ?? ""
+    if (put === undefined || !endsYes(answer)) continue
+    try {
+      const line = positiveFor(seat, put.about, put.prompt, answer, at)
+      recorded(root, valuedAt(root, TEST, put.test).path, line, POSITIVES)
+    } catch {}
+  }
+}
+
 export const JUDGES: readonly Putter[] = [
   directiveKept,
   oneAtATimeKept,
@@ -129,6 +161,7 @@ export const SCOPE: readonly string[] = [
   "A rule the model answers yes on comes back in that rule's own words.",
   "A model reached by no call leaves the turn unjudged.",
   "How far each run got is recorded beside this hook's page, whether or not a model was reached.",
+  "A rule answered yes on is kept beside the test that asked it, with the turn and the answer.",
 ]
 
 export function personIn(listed: readonly Valued[], agent: string): string | null {
@@ -183,6 +216,7 @@ function judging(root: string, agent: string, asked: string, turn: string): Answ
   }
   const held = holding(asking, answers)
   noting(root, agent, held === LET_THROUGH ? GATES.clean : GATES.open, asking.length)
+  recordingPositives(root, agent, asking, answers)
   return held
 }
 

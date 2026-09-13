@@ -105,5 +105,10 @@ export const keepAlanDirectives = {
       statement:
         "One seat ended all 28 of its turns with a subagent still to report, so none were judged.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A rule answered yes on is kept beside the test that asked it, turn and answer both.",
+    },
   ],
 } as const satisfies InferenceHook

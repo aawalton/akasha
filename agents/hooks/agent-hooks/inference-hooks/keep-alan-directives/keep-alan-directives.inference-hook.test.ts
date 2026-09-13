@@ -5,6 +5,7 @@ import {
   JUDGES,
   lineFor,
   personIn,
+  positiveFor,
   SCOPE,
   stillWorking,
   type Valued,
@@ -105,8 +106,18 @@ test("each judge puts what was asked and what was written beside its rule", () =
 })
 
 const PUT: readonly Putting[] = [
-  { statement: "One At A Time: Ask one thing.", prompt: "the first" },
-  { statement: "No Commentary: Say less.", prompt: "the second" },
+  {
+    statement: "One At A Time: Ask one thing.",
+    prompt: "the first",
+    about: "One At A Time",
+    test: "one-at-a-time-kept",
+  },
+  {
+    statement: "No Commentary: Say less.",
+    prompt: "the second",
+    about: "No Commentary",
+    test: "no-commentary-kept",
+  },
 ]
 
 test("a model reached by no call leaves the turn unjudged", () => {
@@ -161,4 +172,30 @@ test("a subagent still working and a shell still working are two gates", () => {
 
 test("the scope says each run is recorded whether or not a model was reached", () => {
   expect(SCOPE.join("\n")).toContain("How far each run got is recorded")
+})
+
+test("each judge names the rule it asked and the test it came from", () => {
+  for (const one of JUDGES.flatMap((judge) => judge(TURN))) {
+    expect(one.statement.startsWith(`${one.about}:`)).toBe(true)
+    expect(one.test).not.toBe("")
+  }
+  expect(new Set(JUDGES.flatMap((judge) => judge(TURN)).map((one) => one.test)).size).toBe(4)
+})
+
+test("a line kept for a yes holds what was put and what came back", () => {
+  expect(
+    positiveFor(
+      "a",
+      "No Commentary",
+      "the whole prompt",
+      "QUOTED\nYES",
+      new Date("2026-09-13T08:00:00.000Z")
+    )
+  ).toBe(
+    '{"ranAt":"2026-09-13T08:00:00.000Z","seat":"a","about":"No Commentary","prompt":"the whole prompt","said":"QUOTED\\nYES"}\n'
+  )
+})
+
+test("a line kept for a yes ends in a newline, so lines append rather than run together", () => {
+  expect(positiveFor("a", "One At A Time", "put", "YES", new Date()).endsWith("}\n")).toBe(true)
 })

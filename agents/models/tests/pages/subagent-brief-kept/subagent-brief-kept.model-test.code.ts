@@ -8,4 +8,4 @@ const JUDGED = "No Commentary"
 
 export const { asking, keeping } = judgingOf(test.prompt, JUDGED)
 
-export const subagentBriefKept = puttingOf(test.prompt, JUDGED)
+export const subagentBriefKept = puttingOf(test.prompt, JUDGED, test.slug)

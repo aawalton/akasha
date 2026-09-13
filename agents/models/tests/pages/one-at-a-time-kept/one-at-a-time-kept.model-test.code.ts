@@ -8,4 +8,4 @@ const JUDGED = "One At A Time"
 
 export const { asking, keeping } = judgingOf(test.prompt, JUDGED)
 
-export const oneAtATimeKept = puttingOf(test.prompt, JUDGED)
+export const oneAtATimeKept = puttingOf(test.prompt, JUDGED, test.slug)
