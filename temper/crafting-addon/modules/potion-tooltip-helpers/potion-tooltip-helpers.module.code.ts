@@ -87,11 +87,6 @@ export function isScreenRightHalf(this: void, sender: Control): boolean {
   return sender.GetLeft() > x
 }
 
-export function isScreenLowerHalf(this: void, sender: Control): boolean {
-  const [, y] = GuiRoot.GetCenter()
-  return sender.GetTop() > y
-}
-
 export function showAnnoucement(this: void, text: string): undefined {
   const message = CENTER_SCREEN_ANNOUNCE.CreateMessageParams(
     CSA_CATEGORY_SMALL_TEXT,

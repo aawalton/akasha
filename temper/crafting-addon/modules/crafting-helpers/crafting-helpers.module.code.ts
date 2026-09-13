@@ -1,4 +1,3 @@
-import { FURNISHER } from "akasha/temper/crafting-addon/modules/craft-furnisher/craft-furnisher.module.code.ts"
 import { RawItemTypes } from "akasha/temper/crafting-addon/modules/craft-item-types/craft-item-types.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
 
@@ -107,26 +106,6 @@ export function nilCheckSet(root: object, set: unknown, ...args: (string | numbe
   return current
 }
 
-export function nilCheckSetIfNil(
-  root: object,
-  defaultValue: unknown,
-  ...args: (string | number)[]
-): unknown {
-  let current = istable(root) ? root : error("NilCheckSetIfNil: root is not a table")
-  for (const [i, key] of ipairs(args)) {
-    if (current[key] === undefined) {
-      current[key] = i !== args.length ? {} : defaultValue
-    }
-    if (i === args.length) {
-      return current[key]
-    }
-    const next = current[key]
-    current = istable(next) ? next : error("NilCheckSetIfNil: intermediate value is not a table")
-  }
-
-  return current
-}
-
 export function isPublishedItem(itemId: number): boolean {
   const itemName: string | undefined = GetItemLinkName(
     string.format("|H1:item:%u:6:1:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0|h|h", itemId)
@@ -157,70 +136,6 @@ export const CHAT: ChatProxy = {
   Print(str) {
     STATE.Chat.Print(str)
   },
-}
-
-export function findUnidentifiedFurnishingRecipes(startIndex: number, endIndex: number): undefined {
-  const exists: Record<number, true> = {}
-  for (const [, recipeId] of ipairs(FURNISHER.recipelist)) {
-    exists[recipeId] = true
-  }
-
-  const unknown: number[] = []
-
-  const suffix = ":" + 364 + ":" + 50 + ":0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:10000:0|h|h"
-
-  d("Searching in range " + startIndex + " .. " + endIndex)
-
-  for (let i = startIndex; i <= endIndex; i++) {
-    let isUnknown = false
-    let link = ""
-    if (exists[i] === undefined) {
-      link = "|H1:item:" + i + suffix
-      const name = GetItemLinkName(link)
-      if (string.find(name, "Praxis:")[0] !== undefined) {
-        isUnknown = true
-      } else if (string.find(name, "Blueprint:")[0] !== undefined) {
-        isUnknown = true
-      } else if (string.find(name, "Diagram:")[0] !== undefined) {
-        isUnknown = true
-      } else if (string.find(name, "Pattern:")[0] !== undefined) {
-        isUnknown = true
-      } else if (string.find(name, "Formula:")[0] !== undefined) {
-        isUnknown = true
-      } else if (string.find(name, "Sketch:")[0] !== undefined) {
-        isUnknown = true
-      } else if (string.find(name, "Design:")[0] !== undefined) {
-        isUnknown = true
-      } else if (string.find(name, "Recipe:")[0] !== undefined) {
-        isUnknown = true
-      }
-    }
-    if (isUnknown) {
-      d(i + " - " + link)
-      unknown.push(i)
-    }
-  }
-  if (unknown.length > 1) {
-    let unknownIds = ""
-    for (const [, id] of ipairs(unknown)) {
-      unknownIds = unknownIds + id + ","
-    }
-    d(unknownIds)
-  } else {
-    d("No unknown furnishing recipes found in range.")
-  }
-}
-
-export function listWayshrines(startIndex?: number, endIndex?: number): undefined {
-  startIndex = startIndex === undefined ? 1 : startIndex
-  endIndex = endIndex === undefined ? GetNumFastTravelNodes() : endIndex
-  if (endIndex > GetNumFastTravelNodes()) {
-    endIndex = GetNumFastTravelNodes()
-  }
-  for (let i = startIndex; i <= endIndex; i++) {
-    const [, name] = GetFastTravelNodeInfo(i)
-    d(i + ": " + name)
-  }
 }
 
 export function hideControl(controlName: string): undefined {

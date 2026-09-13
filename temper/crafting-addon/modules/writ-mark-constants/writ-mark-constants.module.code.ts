@@ -1,6 +1,5 @@
 export const ADDON_NAME = "TemperMasterWritInventoryMarker"
 export const ADDON_TITLE = "Master Writ Inventory Marker"
-export const SAVED_VARIABLES_NAME = "TemperMasterWritInventoryMarker_SavedVariables"
 
 export type MarkerState = "doable" | "completed" | "unknown"
 
