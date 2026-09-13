@@ -35,4 +35,14 @@ export const seat = {
     "service-workstation/sweep-log-days",
     "service-workstation/sweep-supervisor-logs",
   ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A domain beside the seat page type names everything done to a seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each thing done to a seat is a domain naming the modules that do it.",
+    },
+  ],
 } as const satisfies Domain
