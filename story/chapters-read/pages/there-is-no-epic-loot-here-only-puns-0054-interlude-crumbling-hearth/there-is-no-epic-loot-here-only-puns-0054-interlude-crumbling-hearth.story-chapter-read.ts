@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0054InterludeCrumblingHearth = {
   position: 54,
   ownLength: 2991,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/203206/interlude-crumbling-hearth",
-  externalId: "203206",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "203206",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/203206/interlude-crumbling-hearth",
+    },
+  ],
   publishedAt: "2018-03-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0032Chapter31EdwardExplains 
   position: 32,
   ownLength: 615,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/933941/chapter-31-edward-explains",
-  externalId: "933941",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "933941",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/933941/chapter-31-edward-explains",
+    },
+  ],
   publishedAt: "2022-06-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0225202PickMiAndMi = {
   position: 225,
   ownLength: 5938,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1638838/202-pick-mi-and-mi",
-  externalId: "1638838",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1638838",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1638838/202-pick-mi-and-mi",
+    },
+  ],
   publishedAt: "2024-05-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

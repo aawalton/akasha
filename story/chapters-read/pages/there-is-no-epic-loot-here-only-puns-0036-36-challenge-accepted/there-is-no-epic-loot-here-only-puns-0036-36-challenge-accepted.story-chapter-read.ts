@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns003636ChallengeAccepted = {
   position: 36,
   ownLength: 2817,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/192700/36-challenge-accepted",
-  externalId: "192700",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "192700",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/192700/36-challenge-accepted",
+    },
+  ],
   publishedAt: "2018-02-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

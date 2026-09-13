@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0006Chapter6Iris = {
   position: 6,
   ownLength: 3993,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3237182/chapter-6-iris",
-  externalId: "3237182",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3237182",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3237182/chapter-6-iris",
+    },
+  ],
   publishedAt: "2026-04-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

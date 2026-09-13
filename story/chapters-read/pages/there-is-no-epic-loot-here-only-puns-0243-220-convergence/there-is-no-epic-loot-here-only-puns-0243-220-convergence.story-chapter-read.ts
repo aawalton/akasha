@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0243220Convergence = {
   position: 243,
   ownLength: 4595,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2430678/220-convergence",
-  externalId: "2430678",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2430678",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2430678/220-convergence",
+    },
+  ],
   publishedAt: "2025-07-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

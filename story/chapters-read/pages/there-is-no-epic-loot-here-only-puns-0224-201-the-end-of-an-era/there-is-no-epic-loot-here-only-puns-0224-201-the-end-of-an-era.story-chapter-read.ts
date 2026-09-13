@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0224201TheEndOfAnEra = {
   position: 224,
   ownLength: 2128,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1637181/201-the-end-of-an-era",
-  externalId: "1637181",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1637181",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1637181/201-the-end-of-an-era",
+    },
+  ],
   publishedAt: "2024-05-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

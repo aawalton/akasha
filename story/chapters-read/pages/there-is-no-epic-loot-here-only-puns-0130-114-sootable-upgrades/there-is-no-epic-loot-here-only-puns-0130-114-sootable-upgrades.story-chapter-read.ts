@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0130114SootableUpgrades = {
   position: 130,
   ownLength: 1699,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/453503/114-sootable-upgrades",
-  externalId: "453503",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "453503",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/453503/114-sootable-upgrades",
+    },
+  ],
   publishedAt: "2020-02-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

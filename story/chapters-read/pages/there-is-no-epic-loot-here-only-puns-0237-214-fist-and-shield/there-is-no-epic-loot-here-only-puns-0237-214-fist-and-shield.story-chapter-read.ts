@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0237214FistAndShield = {
   position: 237,
   ownLength: 2309,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1947392/214-fist-and-shield",
-  externalId: "1947392",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1947392",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1947392/214-fist-and-shield",
+    },
+  ],
   publishedAt: "2024-12-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

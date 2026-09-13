@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0197176ALittleOverkill = {
   position: 197,
   ownLength: 3585,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1211193/176-a-little-overkill",
-  externalId: "1211193",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1211193",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1211193/176-a-little-overkill",
+    },
+  ],
   publishedAt: "2023-05-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

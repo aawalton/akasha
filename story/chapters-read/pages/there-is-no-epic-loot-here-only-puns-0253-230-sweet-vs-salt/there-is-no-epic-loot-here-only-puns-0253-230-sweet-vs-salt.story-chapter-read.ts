@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0253230SweetVsSalt = {
   position: 253,
   ownLength: 2949,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2864464/230-sweet-vs-salt",
-  externalId: "2864464",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2864464",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2864464/230-sweet-vs-salt",
+    },
+  ],
   publishedAt: "2025-12-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

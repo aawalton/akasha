@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0018Chapter17TheNewestWaiter
   position: 18,
   ownLength: 2604,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/923236/chapter-17-the-newest-waiter",
-  externalId: "923236",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "923236",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/923236/chapter-17-the-newest-waiter",
+    },
+  ],
   publishedAt: "2022-06-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

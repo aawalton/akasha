@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns004040SeeingTheMushroomForTheForest = 
   position: 40,
   ownLength: 2762,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/194788/40-seeing-the-mushroom-for-the-forest",
-  externalId: "194788",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "194788",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/194788/40-seeing-the-mushroom-for-the-forest",
+    },
+  ],
   publishedAt: "2018-02-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

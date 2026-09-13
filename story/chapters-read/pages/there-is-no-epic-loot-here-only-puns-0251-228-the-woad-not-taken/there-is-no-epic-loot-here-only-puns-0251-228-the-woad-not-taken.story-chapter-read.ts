@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0251228TheWoadNotTaken = {
   position: 251,
   ownLength: 3559,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2827950/228-the-woad-not-taken",
-  externalId: "2827950",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2827950",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2827950/228-the-woad-not-taken",
+    },
+  ],
   publishedAt: "2025-12-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

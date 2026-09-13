@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns003737TheNuanceOfDungeonBuilding = {
   position: 37,
   ownLength: 2554,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/194172/37-the-nuance-of-dungeon-building",
-  externalId: "194172",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "194172",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/194172/37-the-nuance-of-dungeon-building",
+    },
+  ],
   publishedAt: "2018-02-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

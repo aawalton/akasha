@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns003838BigShowdownInLittleDungeon = {
   position: 38,
   ownLength: 1772,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/194173/38-big-showdown-in-little-dungeon",
-  externalId: "194173",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "194173",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/194173/38-big-showdown-in-little-dungeon",
+    },
+  ],
   publishedAt: "2018-02-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

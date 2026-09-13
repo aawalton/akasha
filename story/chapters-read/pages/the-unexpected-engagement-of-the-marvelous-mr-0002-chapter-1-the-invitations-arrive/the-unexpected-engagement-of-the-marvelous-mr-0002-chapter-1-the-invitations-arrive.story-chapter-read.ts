@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0002Chapter1TheInvitationsAr
   position: 2,
   ownLength: 2179,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/910666/chapter-1-the-invitations-arrive",
-  externalId: "910666",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "910666",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/910666/chapter-1-the-invitations-arrive",
+    },
+  ],
   publishedAt: "2022-05-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

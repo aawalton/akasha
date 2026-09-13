@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0249226LianItOnThick = {
   position: 249,
   ownLength: 4173,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2762402/226-lian-it-on-thick",
-  externalId: "2762402",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2762402",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2762402/226-lian-it-on-thick",
+    },
+  ],
   publishedAt: "2025-11-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

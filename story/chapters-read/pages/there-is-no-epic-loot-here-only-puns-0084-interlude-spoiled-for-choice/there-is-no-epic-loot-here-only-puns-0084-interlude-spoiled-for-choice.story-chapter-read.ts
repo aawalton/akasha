@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0084InterludeSpoiledForChoice = {
   position: 84,
   ownLength: 5649,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/321966/interlude-spoiled-for-choice",
-  externalId: "321966",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "321966",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/321966/interlude-spoiled-for-choice",
+    },
+  ],
   publishedAt: "2019-01-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

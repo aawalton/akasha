@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0210188SchoolsOut = {
   position: 210,
   ownLength: 3642,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1423113/188-schools-out",
-  externalId: "1423113",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1423113",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1423113/188-schools-out",
+    },
+  ],
   publishedAt: "2023-11-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

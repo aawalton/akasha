@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0024Chapter24Awake = {
   position: 24,
   ownLength: 2194,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3306024/chapter-24-awake",
-  externalId: "3306024",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3306024",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3306024/chapter-24-awake",
+    },
+  ],
   publishedAt: "2026-04-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

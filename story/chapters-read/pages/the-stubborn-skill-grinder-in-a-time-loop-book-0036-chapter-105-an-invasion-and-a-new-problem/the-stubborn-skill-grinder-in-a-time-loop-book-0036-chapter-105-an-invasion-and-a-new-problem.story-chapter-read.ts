@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0036Chapter105AnInvasionAndAN
   position: 36,
   ownLength: 22607,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2783918/chapter-105-an-invasion-a-new-problem",
-  externalId: "2783918",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2783918",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2783918/chapter-105-an-invasion-a-new-problem",
+    },
+  ],
   publishedAt: "2025-11-22",
   ownProgress: 22607,
   completedAt: "2026-06-29T20:05:15.383Z",

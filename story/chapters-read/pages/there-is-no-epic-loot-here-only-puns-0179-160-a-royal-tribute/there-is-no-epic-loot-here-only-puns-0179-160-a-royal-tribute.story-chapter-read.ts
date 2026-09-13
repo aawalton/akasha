@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0179160ARoyalTribute = {
   position: 179,
   ownLength: 3893,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/958483/160-a-royal-tribute",
-  externalId: "958483",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "958483",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/958483/160-a-royal-tribute",
+    },
+  ],
   publishedAt: "2022-07-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0045InterludeCheesecake = {
   position: 45,
   ownLength: 1955,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/196297/interlude-cheesecake",
-  externalId: "196297",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "196297",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/196297/interlude-cheesecake",
+    },
+  ],
   publishedAt: "2018-02-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

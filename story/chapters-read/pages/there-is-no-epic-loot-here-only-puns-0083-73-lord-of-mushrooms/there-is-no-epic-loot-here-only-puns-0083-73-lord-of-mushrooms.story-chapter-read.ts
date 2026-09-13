@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns008373LordOfMushrooms = {
   position: 83,
   ownLength: 4114,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/319455/73-lord-of-mushrooms",
-  externalId: "319455",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "319455",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/319455/73-lord-of-mushrooms",
+    },
+  ],
   publishedAt: "2018-12-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

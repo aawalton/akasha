@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0258235Primd = {
   position: 258,
   ownLength: 3086,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/3099413/235-primd",
-  externalId: "3099413",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3099413",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/3099413/235-primd",
+    },
+  ],
   publishedAt: "2026-02-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

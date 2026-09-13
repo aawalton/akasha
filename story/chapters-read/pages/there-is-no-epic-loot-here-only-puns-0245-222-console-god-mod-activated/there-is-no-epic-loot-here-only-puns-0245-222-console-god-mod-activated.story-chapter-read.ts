@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0245222ConsoleGodModActivated = {
   position: 245,
   ownLength: 3242,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2538613/222-console-god-mod-activated",
-  externalId: "2538613",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2538613",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2538613/222-console-god-mod-activated",
+    },
+  ],
   publishedAt: "2025-08-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

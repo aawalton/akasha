@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0039Chapter38RaphaelSStory =
   position: 39,
   ownLength: 2776,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/938712/chapter-38-raphaels-story",
-  externalId: "938712",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "938712",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/938712/chapter-38-raphaels-story",
+    },
+  ],
   publishedAt: "2022-06-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

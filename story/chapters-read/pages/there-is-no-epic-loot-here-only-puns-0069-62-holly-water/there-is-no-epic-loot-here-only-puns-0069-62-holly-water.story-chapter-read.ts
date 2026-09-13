@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns006962HollyWater = {
   position: 69,
   ownLength: 4434,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/233319/62-holly-water",
-  externalId: "233319",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "233319",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/233319/62-holly-water",
+    },
+  ],
   publishedAt: "2018-07-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

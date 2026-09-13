@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0108InterludeDungeonEducation = {
   position: 108,
   ownLength: 4357,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/359088/interlude-dungeon-education",
-  externalId: "359088",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "359088",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/359088/interlude-dungeon-education",
+    },
+  ],
   publishedAt: "2019-05-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

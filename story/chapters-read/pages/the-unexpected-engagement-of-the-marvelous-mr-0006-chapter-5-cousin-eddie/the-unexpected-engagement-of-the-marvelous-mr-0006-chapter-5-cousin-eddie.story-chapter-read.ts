@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0006Chapter5CousinEddie = {
   position: 6,
   ownLength: 1765,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/914143/chapter-5-cousin-eddie",
-  externalId: "914143",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "914143",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/914143/chapter-5-cousin-eddie",
+    },
+  ],
   publishedAt: "2022-05-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

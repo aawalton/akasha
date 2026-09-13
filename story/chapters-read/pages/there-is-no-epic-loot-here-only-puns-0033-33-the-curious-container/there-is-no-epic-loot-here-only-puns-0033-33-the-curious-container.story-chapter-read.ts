@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns003333TheCuriousContainer = {
   position: 33,
   ownLength: 2922,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/191954/33-the-curious-container",
-  externalId: "191954",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "191954",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/191954/33-the-curious-container",
+    },
+  ],
   publishedAt: "2018-02-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

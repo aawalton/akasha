@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0020Chapter19WhatTheThiefLea
   position: 20,
   ownLength: 1925,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/924656/chapter-19-what-the-thief-learned",
-  externalId: "924656",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "924656",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/924656/chapter-19-what-the-thief-learned",
+    },
+  ],
   publishedAt: "2022-06-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

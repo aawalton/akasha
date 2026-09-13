@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0025Chapter25ShaveOrDye = {
   position: 25,
   ownLength: 2169,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3310149/chapter-25-shave-or-dye",
-  externalId: "3310149",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3310149",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3310149/chapter-25-shave-or-dye",
+    },
+  ],
   publishedAt: "2026-04-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

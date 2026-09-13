@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0125109QuickiesAndSquidies = {
   position: 125,
   ownLength: 3591,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/410696/109-quickies-and-squidies",
-  externalId: "410696",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "410696",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/410696/109-quickies-and-squidies",
+    },
+  ],
   publishedAt: "2019-10-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0126110HungryPython = {
   position: 126,
   ownLength: 2890,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/422239/110-hungry-python",
-  externalId: "422239",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "422239",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/422239/110-hungry-python",
+    },
+  ],
   publishedAt: "2019-11-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

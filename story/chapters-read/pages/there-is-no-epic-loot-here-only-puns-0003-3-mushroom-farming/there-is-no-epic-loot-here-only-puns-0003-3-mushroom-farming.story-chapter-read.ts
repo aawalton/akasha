@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns00033MushroomFarming = {
   position: 3,
   ownLength: 1668,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/185489/3-mushroom-farming",
-  externalId: "185489",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "185489",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/185489/3-mushroom-farming",
+    },
+  ],
   publishedAt: "2018-01-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

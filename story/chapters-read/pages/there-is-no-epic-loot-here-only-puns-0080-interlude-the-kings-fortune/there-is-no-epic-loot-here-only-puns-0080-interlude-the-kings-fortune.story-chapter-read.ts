@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0080InterludeTheKingsFortune = {
   position: 80,
   ownLength: 3495,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/310680/interlude-the-kings-fortune",
-  externalId: "310680",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "310680",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/310680/interlude-the-kings-fortune",
+    },
+  ],
   publishedAt: "2018-11-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

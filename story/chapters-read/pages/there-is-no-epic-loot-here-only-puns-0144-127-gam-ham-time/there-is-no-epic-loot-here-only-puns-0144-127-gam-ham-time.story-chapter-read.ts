@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0144127GamHamTime = {
   position: 144,
   ownLength: 3600,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/580665/127-gam-ham-time",
-  externalId: "580665",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "580665",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/580665/127-gam-ham-time",
+    },
+  ],
   publishedAt: "2020-11-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

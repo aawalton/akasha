@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0184165SpongeGuardian = {
   position: 184,
   ownLength: 3523,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1009360/165-sponge-guardian",
-  externalId: "1009360",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1009360",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1009360/165-sponge-guardian",
+    },
+  ],
   publishedAt: "2022-10-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

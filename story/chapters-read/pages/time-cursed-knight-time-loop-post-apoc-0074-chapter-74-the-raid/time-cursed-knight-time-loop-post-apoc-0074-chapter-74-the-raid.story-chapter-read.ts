@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0074Chapter74TheRaid = {
   position: 74,
   ownLength: 2170,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3595476/chapter-74-the-raid",
-  externalId: "3595476",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3595476",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3595476/chapter-74-the-raid",
+    },
+  ],
   publishedAt: "2026-06-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

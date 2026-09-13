@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0047Chapter46AnotherLetter =
   position: 47,
   ownLength: 466,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/943052/chapter-46-another-letter",
-  externalId: "943052",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "943052",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/943052/chapter-46-another-letter",
+    },
+  ],
   publishedAt: "2022-07-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

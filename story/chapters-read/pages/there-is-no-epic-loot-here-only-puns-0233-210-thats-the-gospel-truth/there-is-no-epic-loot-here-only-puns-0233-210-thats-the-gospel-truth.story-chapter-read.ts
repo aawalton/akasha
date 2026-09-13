@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0233210ThatsTheGospelTruth = {
   position: 233,
   ownLength: 2882,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1729458/210-thats-the-gospel-truth",
-  externalId: "1729458",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1729458",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1729458/210-thats-the-gospel-truth",
+    },
+  ],
   publishedAt: "2024-07-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

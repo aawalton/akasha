@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0220198BookingIt = {
   position: 220,
   ownLength: 3149,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1455382/198-booking-it",
-  externalId: "1455382",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1455382",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1455382/198-booking-it",
+    },
+  ],
   publishedAt: "2023-12-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

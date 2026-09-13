@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0049Epilogue = {
   position: 49,
   ownLength: 1309,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/943712/epilogue",
-  externalId: "943712",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "943712",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/943712/epilogue",
+    },
+  ],
   publishedAt: "2022-07-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

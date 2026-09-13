@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0041Chapter110TrainProtectSys
   position: 41,
   ownLength: 7835,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2908457/chapter-110-train-protect-system-space-die-repeat",
-  externalId: "2908457",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2908457",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2908457/chapter-110-train-protect-system-space-die-repeat",
+    },
+  ],
   publishedAt: "2026-01-03",
   ownProgress: 7835,
   completedAt: "2026-06-29T20:05:25.396Z",

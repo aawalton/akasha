@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns005251HappyAccidents = {
   position: 52,
   ownLength: 4039,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/200603/51-happy-accidents",
-  externalId: "200603",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "200603",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/200603/51-happy-accidents",
+    },
+  ],
   publishedAt: "2018-03-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns003030AGentleman = {
   position: 30,
   ownLength: 1504,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/190912/30-a-gentleman",
-  externalId: "190912",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "190912",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/190912/30-a-gentleman",
+    },
+  ],
   publishedAt: "2018-01-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

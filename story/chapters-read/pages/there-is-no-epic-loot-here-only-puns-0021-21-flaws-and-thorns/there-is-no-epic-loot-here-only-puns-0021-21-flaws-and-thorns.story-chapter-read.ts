@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns002121FlawsAndThorns = {
   position: 21,
   ownLength: 2542,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/188972/21-flaws-and-thorns",
-  externalId: "188972",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "188972",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/188972/21-flaws-and-thorns",
+    },
+  ],
   publishedAt: "2018-01-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0026Chapter25AtTheHospital =
   position: 26,
   ownLength: 1865,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/928922/chapter-25-at-the-hospital",
-  externalId: "928922",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "928922",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/928922/chapter-25-at-the-hospital",
+    },
+  ],
   publishedAt: "2022-06-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

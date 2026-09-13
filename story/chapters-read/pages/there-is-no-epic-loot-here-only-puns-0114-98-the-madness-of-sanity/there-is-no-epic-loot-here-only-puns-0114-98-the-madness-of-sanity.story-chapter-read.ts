@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns011498TheMadnessOfSanity = {
   position: 114,
   ownLength: 3836,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/373865/98-the-madness-of-sanity",
-  externalId: "373865",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "373865",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/373865/98-the-madness-of-sanity",
+    },
+  ],
   publishedAt: "2019-06-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

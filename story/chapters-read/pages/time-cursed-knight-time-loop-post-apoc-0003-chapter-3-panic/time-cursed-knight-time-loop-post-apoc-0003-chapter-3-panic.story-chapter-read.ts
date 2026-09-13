@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0003Chapter3Panic = {
   position: 3,
   ownLength: 5876,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3237163/chapter-3-panic",
-  externalId: "3237163",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3237163",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3237163/chapter-3-panic",
+    },
+  ],
   publishedAt: "2026-04-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

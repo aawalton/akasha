@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0014Chapter13AConversationIn
   position: 14,
   ownLength: 1495,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/919844/chapter-13-a-conversation-in-a-cab",
-  externalId: "919844",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "919844",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/919844/chapter-13-a-conversation-in-a-cab",
+    },
+  ],
   publishedAt: "2022-06-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

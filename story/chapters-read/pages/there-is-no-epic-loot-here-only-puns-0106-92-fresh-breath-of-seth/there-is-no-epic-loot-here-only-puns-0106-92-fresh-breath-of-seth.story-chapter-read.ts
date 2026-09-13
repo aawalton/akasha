@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns010692FreshBreathOfSeth = {
   position: 106,
   ownLength: 4199,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/356820/92-fresh-breath-of-seth",
-  externalId: "356820",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "356820",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/356820/92-fresh-breath-of-seth",
+    },
+  ],
   publishedAt: "2019-04-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

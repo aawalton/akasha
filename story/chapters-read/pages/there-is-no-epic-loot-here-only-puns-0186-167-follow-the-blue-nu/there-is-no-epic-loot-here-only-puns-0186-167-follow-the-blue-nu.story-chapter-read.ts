@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0186167FollowTheBlueNu = {
   position: 186,
   ownLength: 3417,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1045214/167-follow-the-blue-nu",
-  externalId: "1045214",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1045214",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1045214/167-follow-the-blue-nu",
+    },
+  ],
   publishedAt: "2022-11-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

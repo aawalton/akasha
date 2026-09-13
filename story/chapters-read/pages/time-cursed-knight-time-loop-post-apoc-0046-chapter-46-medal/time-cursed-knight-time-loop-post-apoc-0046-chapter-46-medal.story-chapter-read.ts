@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0046Chapter46Medal = {
   position: 46,
   ownLength: 2056,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3419342/chapter-46-medal",
-  externalId: "3419342",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3419342",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3419342/chapter-46-medal",
+    },
+  ],
   publishedAt: "2026-05-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

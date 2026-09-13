@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns003232CatchAndMist = {
   position: 32,
   ownLength: 3663,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/191688/32-catch-and-mist",
-  externalId: "191688",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "191688",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/191688/32-catch-and-mist",
+    },
+  ],
   publishedAt: "2018-02-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

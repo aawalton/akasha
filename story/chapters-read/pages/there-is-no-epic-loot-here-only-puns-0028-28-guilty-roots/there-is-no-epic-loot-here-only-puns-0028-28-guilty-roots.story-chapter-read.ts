@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns002828GuiltyRoots = {
   position: 28,
   ownLength: 2079,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/190765/28-guilty-roots",
-  externalId: "190765",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "190765",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/190765/28-guilty-roots",
+    },
+  ],
   publishedAt: "2018-01-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

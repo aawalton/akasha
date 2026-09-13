@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns007668WorldWideWeb = {
   position: 76,
   ownLength: 3526,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/295243/68-world-wide-web",
-  externalId: "295243",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "295243",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/295243/68-world-wide-web",
+    },
+  ],
   publishedAt: "2018-10-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

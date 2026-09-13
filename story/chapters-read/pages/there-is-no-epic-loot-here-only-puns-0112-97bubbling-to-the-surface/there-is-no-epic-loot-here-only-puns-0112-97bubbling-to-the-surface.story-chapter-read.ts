@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns011297bubblingToTheSurface = {
   position: 112,
   ownLength: 3248,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/366266/97bubbling-to-the-surface",
-  externalId: "366266",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "366266",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/366266/97bubbling-to-the-surface",
+    },
+  ],
   publishedAt: "2019-05-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

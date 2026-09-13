@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0004Chapter3LadySerrsComtess
   position: 4,
   ownLength: 2257,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/912789/chapter-3-lady-serrs-comtess",
-  externalId: "912789",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "912789",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/912789/chapter-3-lady-serrs-comtess",
+    },
+  ],
   publishedAt: "2022-05-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

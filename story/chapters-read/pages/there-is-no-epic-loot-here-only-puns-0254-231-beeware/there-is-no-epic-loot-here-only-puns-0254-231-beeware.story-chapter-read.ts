@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0254231Beeware = {
   position: 254,
   ownLength: 3270,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2949781/231-beeware",
-  externalId: "2949781",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2949781",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2949781/231-beeware",
+    },
+  ],
   publishedAt: "2026-01-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

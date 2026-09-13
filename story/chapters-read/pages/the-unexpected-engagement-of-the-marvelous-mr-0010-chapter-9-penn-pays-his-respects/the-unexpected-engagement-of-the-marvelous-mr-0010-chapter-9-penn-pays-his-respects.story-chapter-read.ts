@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0010Chapter9PennPaysHisRespe
   position: 10,
   ownLength: 2235,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/917204/chapter-9-penn-pays-his-respects",
-  externalId: "917204",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "917204",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/917204/chapter-9-penn-pays-his-respects",
+    },
+  ],
   publishedAt: "2022-05-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

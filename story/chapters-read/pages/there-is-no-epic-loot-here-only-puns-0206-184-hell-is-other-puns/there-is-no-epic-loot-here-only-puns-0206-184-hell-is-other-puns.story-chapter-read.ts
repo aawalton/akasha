@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0206184HellIsOtherPuns = {
   position: 206,
   ownLength: 3969,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1329679/184-hell-is-other-puns",
-  externalId: "1329679",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1329679",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1329679/184-hell-is-other-puns",
+    },
+  ],
   publishedAt: "2023-09-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

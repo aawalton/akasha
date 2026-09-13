@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0029Chapter29Harpy = {
   position: 29,
   ownLength: 2974,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3321604/chapter-29-harpy",
-  externalId: "3321604",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3321604",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3321604/chapter-29-harpy",
+    },
+  ],
   publishedAt: "2026-04-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

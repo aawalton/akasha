@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns00099QuissingTheDungeon = {
   position: 9,
   ownLength: 1758,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/187302/9-quissing-the-dungeon",
-  externalId: "187302",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "187302",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/187302/9-quissing-the-dungeon",
+    },
+  ],
   publishedAt: "2018-01-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns007567KeysAndDoors = {
   position: 75,
   ownLength: 2963,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/290834/67-keys-and-doors",
-  externalId: "290834",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "290834",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/290834/67-keys-and-doors",
+    },
+  ],
   publishedAt: "2018-09-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

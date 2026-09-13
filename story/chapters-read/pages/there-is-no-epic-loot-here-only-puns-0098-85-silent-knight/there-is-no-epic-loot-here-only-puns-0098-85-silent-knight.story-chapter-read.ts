@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns009885SilentKnight = {
   position: 98,
   ownLength: 4827,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/349452/85-silent-knight",
-  externalId: "349452",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "349452",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/349452/85-silent-knight",
+    },
+  ],
   publishedAt: "2019-04-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

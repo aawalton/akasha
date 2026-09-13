@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns002323NatureVsNurture = {
   position: 23,
   ownLength: 2053,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/189131/23-nature-vs-nurture",
-  externalId: "189131",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "189131",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/189131/23-nature-vs-nurture",
+    },
+  ],
   publishedAt: "2018-01-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

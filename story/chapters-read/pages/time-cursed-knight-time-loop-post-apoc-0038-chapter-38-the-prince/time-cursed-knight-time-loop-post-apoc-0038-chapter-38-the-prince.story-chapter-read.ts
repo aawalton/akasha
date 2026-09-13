@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0038Chapter38ThePrince = {
   position: 38,
   ownLength: 2087,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3367607/chapter-38-the-prince",
-  externalId: "3367607",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3367607",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3367607/chapter-38-the-prince",
+    },
+  ],
   publishedAt: "2026-05-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

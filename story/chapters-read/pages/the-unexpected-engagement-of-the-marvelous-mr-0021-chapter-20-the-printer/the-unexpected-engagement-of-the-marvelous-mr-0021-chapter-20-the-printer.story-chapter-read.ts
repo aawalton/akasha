@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0021Chapter20ThePrinter = {
   position: 21,
   ownLength: 2180,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/925340/chapter-20-the-printer",
-  externalId: "925340",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "925340",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/925340/chapter-20-the-printer",
+    },
+  ],
   publishedAt: "2022-06-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

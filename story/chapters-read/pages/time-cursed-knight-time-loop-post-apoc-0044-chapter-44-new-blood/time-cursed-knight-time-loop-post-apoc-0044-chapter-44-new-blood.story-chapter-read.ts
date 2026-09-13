@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0044Chapter44NewBlood = {
   position: 44,
   ownLength: 2702,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3400579/chapter-44-new-blood",
-  externalId: "3400579",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3400579",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3400579/chapter-44-new-blood",
+    },
+  ],
   publishedAt: "2026-05-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns004645NuPointOfView = {
   position: 46,
   ownLength: 4321,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/196333/45-nu-point-of-view",
-  externalId: "196333",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "196333",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/196333/45-nu-point-of-view",
+    },
+  ],
   publishedAt: "2018-02-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

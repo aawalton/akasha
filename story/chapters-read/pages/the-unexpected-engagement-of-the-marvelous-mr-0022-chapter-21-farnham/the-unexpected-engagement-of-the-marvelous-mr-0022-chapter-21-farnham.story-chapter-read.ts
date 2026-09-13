@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0022Chapter21Farnham = {
   position: 22,
   ownLength: 1789,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/926672/chapter-21-farnham",
-  externalId: "926672",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "926672",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/926672/chapter-21-farnham",
+    },
+  ],
   publishedAt: "2022-06-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

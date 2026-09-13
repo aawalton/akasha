@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns008574BlindTruth = {
   position: 85,
   ownLength: 4191,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/325894/74-blind-truth",
-  externalId: "325894",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "325894",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/325894/74-blind-truth",
+    },
+  ],
   publishedAt: "2019-01-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

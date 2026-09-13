@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0044Chapter112TheWarCouncilAn
   position: 44,
   ownLength: 13381,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/3261095/chapter-112-the-war-council-formal-duel",
-  externalId: "3261095",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3261095",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/3261095/chapter-112-the-war-council-formal-duel",
+    },
+  ],
   publishedAt: "2026-04-11",
   ownProgress: 13381,
   completedAt: "2026-06-29T20:05:31.258Z",

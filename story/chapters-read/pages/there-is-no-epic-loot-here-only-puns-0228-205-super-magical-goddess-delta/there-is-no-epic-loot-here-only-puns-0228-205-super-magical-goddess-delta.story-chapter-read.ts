@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0228205SuperMagicalGoddessDelta = {
   position: 228,
   ownLength: 3385,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1664048/205-super-magical-goddess-delta",
-  externalId: "1664048",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1664048",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1664048/205-super-magical-goddess-delta",
+    },
+  ],
   publishedAt: "2024-06-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

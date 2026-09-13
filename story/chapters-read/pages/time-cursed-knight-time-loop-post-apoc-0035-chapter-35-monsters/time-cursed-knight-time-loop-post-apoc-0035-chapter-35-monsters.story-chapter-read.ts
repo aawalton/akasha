@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0035Chapter35Monsters = {
   position: 35,
   ownLength: 2111,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3354945/chapter-35-monsters",
-  externalId: "3354945",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3354945",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3354945/chapter-35-monsters",
+    },
+  ],
   publishedAt: "2026-05-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

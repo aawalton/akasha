@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns011196DoorToDoor = {
   position: 111,
   ownLength: 3604,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/364488/96-door-to-door",
-  externalId: "364488",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "364488",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/364488/96-door-to-door",
+    },
+  ],
   publishedAt: "2019-05-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

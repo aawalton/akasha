@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns009180MotherVsMother = {
   position: 91,
   ownLength: 4034,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/346026/80-mother-vs-mother",
-  externalId: "346026",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "346026",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/346026/80-mother-vs-mother",
+    },
+  ],
   publishedAt: "2019-03-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

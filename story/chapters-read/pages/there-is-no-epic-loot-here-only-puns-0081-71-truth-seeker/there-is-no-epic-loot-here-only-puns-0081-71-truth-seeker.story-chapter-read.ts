@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns008171TruthSeeker = {
   position: 81,
   ownLength: 3883,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/312375/71-truth-seeker",
-  externalId: "312375",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "312375",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/312375/71-truth-seeker",
+    },
+  ],
   publishedAt: "2018-12-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

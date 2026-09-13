@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0159141HardlyNuYa = {
   position: 159,
   ownLength: 2985,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/727903/141-hardly-nu-ya",
-  externalId: "727903",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "727903",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/727903/141-hardly-nu-ya",
+    },
+  ],
   publishedAt: "2021-08-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

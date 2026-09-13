@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns006157TheMusicalTrap = {
   position: 61,
   ownLength: 3520,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/217314/57-the-musical-trap",
-  externalId: "217314",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "217314",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/217314/57-the-musical-trap",
+    },
+  ],
   publishedAt: "2018-05-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0039Chapter39TheImperialChronicle =
   position: 39,
   ownLength: 2926,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3371866/chapter-39-the-imperial-chronicle",
-  externalId: "3371866",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3371866",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3371866/chapter-39-the-imperial-chronicle",
+    },
+  ],
   publishedAt: "2026-05-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

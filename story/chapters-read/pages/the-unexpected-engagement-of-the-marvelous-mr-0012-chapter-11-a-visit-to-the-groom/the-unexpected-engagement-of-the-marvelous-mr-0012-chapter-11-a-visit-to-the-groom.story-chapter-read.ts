@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0012Chapter11AVisitToTheGroo
   position: 12,
   ownLength: 2879,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/918613/chapter-11-a-visit-to-the-groom",
-  externalId: "918613",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "918613",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/918613/chapter-11-a-visit-to-the-groom",
+    },
+  ],
   publishedAt: "2022-06-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

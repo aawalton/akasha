@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0180161UppingTheGame = {
   position: 180,
   ownLength: 3208,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/973898/161-upping-the-game",
-  externalId: "973898",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "973898",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/973898/161-upping-the-game",
+    },
+  ],
   publishedAt: "2022-08-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0165147AMazeIng = {
   position: 165,
   ownLength: 3071,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/805227/147-a-maze-ing",
-  externalId: "805227",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "805227",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/805227/147-a-maze-ing",
+    },
+  ],
   publishedAt: "2021-12-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

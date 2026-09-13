@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0172154GentleProgress = {
   position: 172,
   ownLength: 3473,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/889114/154-gentle-progress",
-  externalId: "889114",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "889114",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/889114/154-gentle-progress",
+    },
+  ],
   publishedAt: "2022-04-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns008272InfernoAtTheGrove = {
   position: 82,
   ownLength: 5854,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/313835/72-inferno-at-the-grove",
-  externalId: "313835",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "313835",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/313835/72-inferno-at-the-grove",
+    },
+  ],
   publishedAt: "2018-12-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

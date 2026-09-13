@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns00088WhatWickedWebWeWeave = {
   position: 8,
   ownLength: 1582,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/186504/8-what-wicked-web-we-weave",
-  externalId: "186504",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "186504",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/186504/8-what-wicked-web-we-weave",
+    },
+  ],
   publishedAt: "2018-01-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

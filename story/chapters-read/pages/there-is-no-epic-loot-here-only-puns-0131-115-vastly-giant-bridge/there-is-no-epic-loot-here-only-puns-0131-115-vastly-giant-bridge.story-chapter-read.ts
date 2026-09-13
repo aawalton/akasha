@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0131115VastlyGiantBridge = {
   position: 131,
   ownLength: 2212,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/456447/115-vastly-giant-bridge",
-  externalId: "456447",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "456447",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/456447/115-vastly-giant-bridge",
+    },
+  ],
   publishedAt: "2020-02-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

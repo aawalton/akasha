@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0191InterludeBurdenOfTheThrone = {
   position: 191,
   ownLength: 3627,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1098662/interlude-burden-of-the-throne",
-  externalId: "1098662",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1098662",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1098662/interlude-burden-of-the-throne",
+    },
+  ],
   publishedAt: "2023-01-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

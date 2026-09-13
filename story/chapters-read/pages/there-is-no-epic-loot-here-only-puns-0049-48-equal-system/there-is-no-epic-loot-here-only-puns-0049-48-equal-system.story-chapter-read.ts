@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns004948EqualSystem = {
   position: 49,
   ownLength: 3319,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/198416/48-equal-system",
-  externalId: "198416",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "198416",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/198416/48-equal-system",
+    },
+  ],
   publishedAt: "2018-03-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

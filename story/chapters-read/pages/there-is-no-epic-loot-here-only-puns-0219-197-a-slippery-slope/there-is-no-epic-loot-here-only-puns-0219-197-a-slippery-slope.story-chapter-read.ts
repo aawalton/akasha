@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0219197ASlipperySlope = {
   position: 219,
   ownLength: 3270,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1451733/197-a-slippery-slope",
-  externalId: "1451733",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1451733",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1451733/197-a-slippery-slope",
+    },
+  ],
   publishedAt: "2023-12-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

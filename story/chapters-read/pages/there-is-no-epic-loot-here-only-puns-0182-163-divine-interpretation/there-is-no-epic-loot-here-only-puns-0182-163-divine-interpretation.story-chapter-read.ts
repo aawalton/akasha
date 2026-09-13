@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0182163DivineInterpretation = {
   position: 182,
   ownLength: 3339,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/996604/163-divine-interpretation",
-  externalId: "996604",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "996604",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/996604/163-divine-interpretation",
+    },
+  ],
   publishedAt: "2022-09-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0036Chapter35TheDancingGlass
   position: 36,
   ownLength: 2555,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/936649/chapter-35-the-dancing-glass",
-  externalId: "936649",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "936649",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/936649/chapter-35-the-dancing-glass",
+    },
+  ],
   publishedAt: "2022-06-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns009986OhHolyKnight = {
   position: 99,
   ownLength: 4180,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/350912/86-oh-holy-knight",
-  externalId: "350912",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "350912",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/350912/86-oh-holy-knight",
+    },
+  ],
   publishedAt: "2019-04-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

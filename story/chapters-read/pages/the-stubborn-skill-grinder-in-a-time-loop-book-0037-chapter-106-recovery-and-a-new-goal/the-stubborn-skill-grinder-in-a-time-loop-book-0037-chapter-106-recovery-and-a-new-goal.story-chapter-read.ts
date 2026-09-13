@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0037Chapter106RecoveryAndANew
   position: 37,
   ownLength: 10028,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2824966/chapter-106-recovery-a-new-goal",
-  externalId: "2824966",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2824966",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2824966/chapter-106-recovery-a-new-goal",
+    },
+  ],
   publishedAt: "2025-12-06",
   ownProgress: 10028,
   completedAt: "2026-06-29T20:05:17.438Z",

@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0007Chapter6TheExchangeOfLet
   position: 7,
   ownLength: 2156,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/914716/chapter-6-the-exchange-of-letters",
-  externalId: "914716",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "914716",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/914716/chapter-6-the-exchange-of-letters",
+    },
+  ],
   publishedAt: "2022-05-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

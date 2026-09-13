@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0143126SliversOfSilver = {
   position: 143,
   ownLength: 1890,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/578723/126-slivers-of-silver",
-  externalId: "578723",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "578723",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/578723/126-slivers-of-silver",
+    },
+  ],
   publishedAt: "2020-11-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

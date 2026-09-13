@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns00066TheCappedLimit = {
   position: 6,
   ownLength: 2555,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/185868/6-the-capped-limit",
-  externalId: "185868",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "185868",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/185868/6-the-capped-limit",
+    },
+  ],
   publishedAt: "2018-01-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

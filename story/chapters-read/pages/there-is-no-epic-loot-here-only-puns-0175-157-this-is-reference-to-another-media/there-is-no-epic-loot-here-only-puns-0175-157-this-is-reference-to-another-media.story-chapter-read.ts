@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0175157ThisIsReferenceToAnotherMedia =
   position: 175,
   ownLength: 3275,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/920858/157-this-is-reference-to-another-media",
-  externalId: "920858",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "920858",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/920858/157-this-is-reference-to-another-media",
+    },
+  ],
   publishedAt: "2022-06-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

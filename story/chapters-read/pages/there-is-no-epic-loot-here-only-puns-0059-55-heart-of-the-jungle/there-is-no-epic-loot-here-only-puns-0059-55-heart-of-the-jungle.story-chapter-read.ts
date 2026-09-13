@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns005955HeartOfTheJungle = {
   position: 59,
   ownLength: 3170,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/211880/55-heart-of-the-jungle",
-  externalId: "211880",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "211880",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/211880/55-heart-of-the-jungle",
+    },
+  ],
   publishedAt: "2018-04-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

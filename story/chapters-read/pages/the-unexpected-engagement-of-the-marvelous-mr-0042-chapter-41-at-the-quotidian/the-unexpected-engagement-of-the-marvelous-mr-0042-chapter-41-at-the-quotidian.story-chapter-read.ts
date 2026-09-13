@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0042Chapter41AtTheQuotidian 
   position: 42,
   ownLength: 753,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/940191/chapter-41-at-the-quotidian",
-  externalId: "940191",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "940191",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/940191/chapter-41-at-the-quotidian",
+    },
+  ],
   publishedAt: "2022-07-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

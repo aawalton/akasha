@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0035Chapter34HaleyAndFitzmon
   position: 35,
   ownLength: 3390,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/935364/chapter-34-haley-and-fitzmon",
-  externalId: "935364",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "935364",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/935364/chapter-34-haley-and-fitzmon",
+    },
+  ],
   publishedAt: "2022-06-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

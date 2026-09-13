@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0234211LorsaLore = {
   position: 234,
   ownLength: 2322,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1748136/211-lorsa-lore",
-  externalId: "1748136",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1748136",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1748136/211-lorsa-lore",
+    },
+  ],
   publishedAt: "2024-08-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

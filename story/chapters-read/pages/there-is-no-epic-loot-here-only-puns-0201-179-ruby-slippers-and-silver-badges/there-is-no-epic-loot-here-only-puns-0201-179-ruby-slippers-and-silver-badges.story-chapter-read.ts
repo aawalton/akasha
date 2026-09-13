@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0201179RubySlippersAndSilverBadges = {
   position: 201,
   ownLength: 3251,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1242626/179-ruby-slippers-and-silver-badges",
-  externalId: "1242626",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1242626",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1242626/179-ruby-slippers-and-silver-badges",
+    },
+  ],
   publishedAt: "2023-06-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

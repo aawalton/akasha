@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0008Chapter7WeShallSee = {
   position: 8,
   ownLength: 1457,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/915375/chapter-7-we-shall-see",
-  externalId: "915375",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "915375",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/915375/chapter-7-we-shall-see",
+    },
+  ],
   publishedAt: "2022-05-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

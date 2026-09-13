@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns002525Slimers = {
   position: 25,
   ownLength: 2292,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/189630/25-slimers",
-  externalId: "189630",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "189630",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/189630/25-slimers",
+    },
+  ],
   publishedAt: "2018-01-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

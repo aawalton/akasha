@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0011Chapter11FireIsComing = {
   position: 11,
   ownLength: 2332,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3261314/chapter-11-fire-is-coming",
-  externalId: "3261314",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3261314",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3261314/chapter-11-fire-is-coming",
+    },
+  ],
   publishedAt: "2026-04-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

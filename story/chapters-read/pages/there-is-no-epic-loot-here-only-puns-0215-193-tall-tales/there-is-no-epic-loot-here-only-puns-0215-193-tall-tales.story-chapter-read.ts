@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0215193TallTales = {
   position: 215,
   ownLength: 3037,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1444811/193-tall-tales",
-  externalId: "1444811",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1444811",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1444811/193-tall-tales",
+    },
+  ],
   publishedAt: "2023-12-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

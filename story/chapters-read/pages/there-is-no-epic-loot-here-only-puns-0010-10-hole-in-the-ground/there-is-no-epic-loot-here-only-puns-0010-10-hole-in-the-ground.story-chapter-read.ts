@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns001010HoleInTheGround = {
   position: 10,
   ownLength: 2281,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/187799/10-hole-in-the-ground",
-  externalId: "187799",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "187799",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/187799/10-hole-in-the-ground",
+    },
+  ],
   publishedAt: "2018-01-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

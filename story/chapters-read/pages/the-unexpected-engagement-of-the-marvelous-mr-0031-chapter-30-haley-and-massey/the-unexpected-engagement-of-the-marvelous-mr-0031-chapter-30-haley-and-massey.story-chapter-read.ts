@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0031Chapter30HaleyAndMassey 
   position: 31,
   ownLength: 2684,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/933233/chapter-30-haley-and-massey",
-  externalId: "933233",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "933233",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/933233/chapter-30-haley-and-massey",
+    },
+  ],
   publishedAt: "2022-06-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

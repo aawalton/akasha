@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0127111JackBeNimbleJackBeOhNo = {
   position: 127,
   ownLength: 2364,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/425931/111-jack-be-nimble-jack-be-oh-no",
-  externalId: "425931",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "425931",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/425931/111-jack-be-nimble-jack-be-oh-no",
+    },
+  ],
   publishedAt: "2019-11-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

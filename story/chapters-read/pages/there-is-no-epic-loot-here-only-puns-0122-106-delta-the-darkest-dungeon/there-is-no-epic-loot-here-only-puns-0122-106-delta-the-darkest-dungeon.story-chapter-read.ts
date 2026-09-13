@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0122106DeltaTheDarkestDungeon = {
   position: 122,
   ownLength: 3266,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/400640/106-delta-the-darkest-dungeon",
-  externalId: "400640",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "400640",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/400640/106-delta-the-darkest-dungeon",
+    },
+  ],
   publishedAt: "2019-09-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

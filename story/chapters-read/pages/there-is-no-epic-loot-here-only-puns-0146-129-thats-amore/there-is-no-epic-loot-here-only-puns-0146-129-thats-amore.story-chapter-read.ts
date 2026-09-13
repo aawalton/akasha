@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0146129ThatsAmore = {
   position: 146,
   ownLength: 2071,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/584063/129-thats-amore",
-  externalId: "584063",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "584063",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/584063/129-thats-amore",
+    },
+  ],
   publishedAt: "2020-11-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

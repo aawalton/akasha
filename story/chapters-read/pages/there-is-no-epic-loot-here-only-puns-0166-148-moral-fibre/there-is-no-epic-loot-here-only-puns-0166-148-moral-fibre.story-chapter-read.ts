@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0166148MoralFibre = {
   position: 166,
   ownLength: 2977,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/816471/148-moral-fibre",
-  externalId: "816471",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "816471",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/816471/148-moral-fibre",
+    },
+  ],
   publishedAt: "2022-01-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

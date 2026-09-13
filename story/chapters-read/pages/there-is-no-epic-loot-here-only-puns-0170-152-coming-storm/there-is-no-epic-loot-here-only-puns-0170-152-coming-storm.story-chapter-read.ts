@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0170152ComingStorm = {
   position: 170,
   ownLength: 3379,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/871412/152-coming-storm",
-  externalId: "871412",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "871412",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/871412/152-coming-storm",
+    },
+  ],
   publishedAt: "2022-03-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

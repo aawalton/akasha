@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0145128OdeToDeo = {
   position: 145,
   ownLength: 3662,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/582189/128-ode-to-deo",
-  externalId: "582189",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "582189",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/582189/128-ode-to-deo",
+    },
+  ],
   publishedAt: "2020-11-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

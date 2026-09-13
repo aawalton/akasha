@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0246223WeAreRats = {
   position: 246,
   ownLength: 2663,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2702682/223-we-are-rats",
-  externalId: "2702682",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2702682",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2702682/223-we-are-rats",
+    },
+  ],
   publishedAt: "2025-10-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

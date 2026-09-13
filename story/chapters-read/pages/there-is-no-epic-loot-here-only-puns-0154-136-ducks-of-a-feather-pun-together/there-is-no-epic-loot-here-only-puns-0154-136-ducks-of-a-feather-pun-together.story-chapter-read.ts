@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0154136DucksOfAFeatherPunTogether = {
   position: 154,
   ownLength: 4786,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/694226/136-ducks-of-a-feather-pun-together",
-  externalId: "694226",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "694226",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/694226/136-ducks-of-a-feather-pun-together",
+    },
+  ],
   publishedAt: "2021-06-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

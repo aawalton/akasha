@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0117101HowToBeADungeon = {
   position: 117,
   ownLength: 3192,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/378472/101-how-to-be-a-dungeon",
-  externalId: "378472",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "378472",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/378472/101-how-to-be-a-dungeon",
+    },
+  ],
   publishedAt: "2019-07-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0169151HighwireHaywire = {
   position: 169,
   ownLength: 2717,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/864580/151-highwire-haywire",
-  externalId: "864580",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "864580",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/864580/151-highwire-haywire",
+    },
+  ],
   publishedAt: "2022-03-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

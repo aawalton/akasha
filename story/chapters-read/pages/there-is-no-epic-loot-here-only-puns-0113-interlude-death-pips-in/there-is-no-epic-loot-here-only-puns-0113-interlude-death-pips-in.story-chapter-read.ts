@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0113InterludeDeathPipsIn = {
   position: 113,
   ownLength: 3715,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/370172/interlude-death-pips-in",
-  externalId: "370172",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "370172",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/370172/interlude-death-pips-in",
+    },
+  ],
   publishedAt: "2019-06-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

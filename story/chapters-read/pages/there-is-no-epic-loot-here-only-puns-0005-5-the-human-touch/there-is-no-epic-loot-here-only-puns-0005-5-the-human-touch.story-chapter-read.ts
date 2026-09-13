@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns00055TheHumanTouch = {
   position: 5,
   ownLength: 2805,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/185660/5-the-human-touch",
-  externalId: "185660",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "185660",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/185660/5-the-human-touch",
+    },
+  ],
   publishedAt: "2018-01-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

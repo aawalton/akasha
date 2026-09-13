@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns002020ABoaryEnd = {
   position: 20,
   ownLength: 3745,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/188762/20-a-boary-end",
-  externalId: "188762",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "188762",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/188762/20-a-boary-end",
+    },
+  ],
   publishedAt: "2018-01-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

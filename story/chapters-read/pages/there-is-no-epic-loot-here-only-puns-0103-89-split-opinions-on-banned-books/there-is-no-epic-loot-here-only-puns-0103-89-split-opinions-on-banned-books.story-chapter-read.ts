@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns010389SplitOpinionsOnBannedBooks = {
   position: 103,
   ownLength: 4879,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/354193/89-split-opinions-on-banned-books",
-  externalId: "354193",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "354193",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/354193/89-split-opinions-on-banned-books",
+    },
+  ],
   publishedAt: "2019-04-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

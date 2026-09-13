@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0050Chapter50Family = {
   position: 50,
   ownLength: 2951,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3445190/chapter-50-family",
-  externalId: "3445190",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3445190",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3445190/chapter-50-family",
+    },
+  ],
   publishedAt: "2026-05-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

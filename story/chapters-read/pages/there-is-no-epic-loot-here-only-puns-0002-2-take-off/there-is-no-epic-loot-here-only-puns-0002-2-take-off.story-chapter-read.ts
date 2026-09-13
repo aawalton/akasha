@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns00022TakeOff = {
   position: 2,
   ownLength: 1411,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/185488/2-take-off",
-  externalId: "185488",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "185488",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/185488/2-take-off",
+    },
+  ],
   publishedAt: "2018-01-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

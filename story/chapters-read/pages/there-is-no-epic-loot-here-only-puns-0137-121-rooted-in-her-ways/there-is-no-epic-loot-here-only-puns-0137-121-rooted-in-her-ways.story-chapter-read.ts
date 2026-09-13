@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0137121RootedInHerWays = {
   position: 137,
   ownLength: 1934,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/525192/121-rooted-in-her-ways",
-  externalId: "525192",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "525192",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/525192/121-rooted-in-her-ways",
+    },
+  ],
   publishedAt: "2020-07-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

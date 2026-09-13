@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0211189TheDemonDiva = {
   position: 211,
   ownLength: 3909,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1440421/189-the-demon-diva",
-  externalId: "1440421",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1440421",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1440421/189-the-demon-diva",
+    },
+  ],
   publishedAt: "2023-12-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

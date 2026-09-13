@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns011095AllActionNoTalk = {
   position: 110,
   ownLength: 3495,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/362621/95-all-action-no-talk",
-  externalId: "362621",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "362621",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/362621/95-all-action-no-talk",
+    },
+  ],
   publishedAt: "2019-05-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0236213NpcVsMvp = {
   position: 236,
   ownLength: 3295,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1833482/213-npc-vs-mvp",
-  externalId: "1833482",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1833482",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1833482/213-npc-vs-mvp",
+    },
+  ],
   publishedAt: "2024-10-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0259236TheThingAboutWizards = {
   position: 259,
   ownLength: 3146,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/3204219/236-the-thing-about-wizards",
-  externalId: "3204219",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3204219",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/3204219/236-the-thing-about-wizards",
+    },
+  ],
   publishedAt: "2026-03-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns00011SmashingStart = {
   position: 1,
   ownLength: 1348,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/185054/1-smashing-start",
-  externalId: "185054",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "185054",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/185054/1-smashing-start",
+    },
+  ],
   publishedAt: "2018-01-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

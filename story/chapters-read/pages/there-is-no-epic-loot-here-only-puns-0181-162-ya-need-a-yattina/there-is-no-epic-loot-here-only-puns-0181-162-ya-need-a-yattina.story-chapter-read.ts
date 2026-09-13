@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0181162YaNeedAYattina = {
   position: 181,
   ownLength: 3961,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/974535/162-ya-need-a-yattina",
-  externalId: "974535",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "974535",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/974535/162-ya-need-a-yattina",
+    },
+  ],
   publishedAt: "2022-08-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

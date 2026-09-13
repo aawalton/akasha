@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0033Chapter32WinfieldSOneFol
   position: 33,
   ownLength: 1377,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/933959/chapter-32-winfields-one-folly",
-  externalId: "933959",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "933959",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/933959/chapter-32-winfields-one-folly",
+    },
+  ],
   publishedAt: "2022-06-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

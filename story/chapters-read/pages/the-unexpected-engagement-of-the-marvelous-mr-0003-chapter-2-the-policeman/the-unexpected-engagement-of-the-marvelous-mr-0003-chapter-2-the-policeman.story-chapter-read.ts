@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0003Chapter2ThePoliceman = {
   position: 3,
   ownLength: 2279,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/911390/chapter-2-the-policeman",
-  externalId: "911390",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "911390",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/911390/chapter-2-the-policeman",
+    },
+  ],
   publishedAt: "2022-05-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

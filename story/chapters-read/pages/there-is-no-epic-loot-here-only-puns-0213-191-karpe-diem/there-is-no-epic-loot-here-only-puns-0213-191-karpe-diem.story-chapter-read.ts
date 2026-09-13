@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0213191KarpeDiem = {
   position: 213,
   ownLength: 3430,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1442597/191-karpe-diem",
-  externalId: "1442597",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1442597",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1442597/191-karpe-diem",
+    },
+  ],
   publishedAt: "2023-12-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

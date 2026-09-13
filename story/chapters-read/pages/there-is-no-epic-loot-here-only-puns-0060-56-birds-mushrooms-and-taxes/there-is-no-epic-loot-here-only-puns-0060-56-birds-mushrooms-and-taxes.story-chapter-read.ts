@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns006056BirdsMushroomsAndTaxes = {
   position: 60,
   ownLength: 3634,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/213689/56-birds-mushrooms-and-taxes",
-  externalId: "213689",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "213689",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/213689/56-birds-mushrooms-and-taxes",
+    },
+  ],
   publishedAt: "2018-05-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns001212TheNatureOfGiveAndTake = {
   position: 12,
   ownLength: 3190,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/188318/12-the-nature-of-give-and-take",
-  externalId: "188318",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "188318",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/188318/12-the-nature-of-give-and-take",
+    },
+  ],
   publishedAt: "2018-01-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

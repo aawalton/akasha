@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns008978MazeOfLife = {
   position: 89,
   ownLength: 3015,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/339207/78-maze-of-life",
-  externalId: "339207",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "339207",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/339207/78-maze-of-life",
+    },
+  ],
   publishedAt: "2019-03-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

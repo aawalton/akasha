@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns003939LostInTranslation = {
   position: 39,
   ownLength: 2408,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/194617/39-lost-in-translation",
-  externalId: "194617",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "194617",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/194617/39-lost-in-translation",
+    },
+  ],
   publishedAt: "2018-02-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

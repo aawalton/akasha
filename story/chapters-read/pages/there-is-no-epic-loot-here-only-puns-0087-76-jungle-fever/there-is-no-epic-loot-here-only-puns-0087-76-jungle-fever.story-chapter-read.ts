@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns008776JungleFever = {
   position: 87,
   ownLength: 3618,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/335013/76-jungle-fever",
-  externalId: "335013",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "335013",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/335013/76-jungle-fever",
+    },
+  ],
   publishedAt: "2019-02-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

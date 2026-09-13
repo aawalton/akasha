@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns007164TheTreeOfWisdom = {
   position: 71,
   ownLength: 4554,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/236827/64-the-tree-of-wisdom",
-  externalId: "236827",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "236827",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/236827/64-the-tree-of-wisdom",
+    },
+  ],
   publishedAt: "2018-07-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

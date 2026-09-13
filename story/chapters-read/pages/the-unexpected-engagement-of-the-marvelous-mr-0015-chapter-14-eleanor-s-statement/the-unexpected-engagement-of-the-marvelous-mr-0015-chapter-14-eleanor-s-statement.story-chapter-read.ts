@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0015Chapter14EleanorSStateme
   position: 15,
   ownLength: 2174,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/920552/chapter-14-eleanors-statement",
-  externalId: "920552",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "920552",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/920552/chapter-14-eleanors-statement",
+    },
+  ],
   publishedAt: "2022-06-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

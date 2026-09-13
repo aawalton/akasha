@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns004141BusyLittleBee = {
   position: 41,
   ownLength: 1988,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/195230/41-busy-little-bee",
-  externalId: "195230",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "195230",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/195230/41-busy-little-bee",
+    },
+  ],
   publishedAt: "2018-02-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

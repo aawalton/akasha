@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0029Chapter28HaleyAndEdward 
   position: 29,
   ownLength: 2659,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/931665/chapter-28-haley-and-edward",
-  externalId: "931665",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "931665",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/931665/chapter-28-haley-and-edward",
+    },
+  ],
   publishedAt: "2022-06-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

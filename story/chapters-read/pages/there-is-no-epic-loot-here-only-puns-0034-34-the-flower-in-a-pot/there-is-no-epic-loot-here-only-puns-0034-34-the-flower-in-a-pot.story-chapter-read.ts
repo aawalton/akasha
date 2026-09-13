@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns003434TheFlowerInAPot = {
   position: 34,
   ownLength: 3046,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/192055/34-the-flower-in-a-pot",
-  externalId: "192055",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "192055",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/192055/34-the-flower-in-a-pot",
+    },
+  ],
   publishedAt: "2018-02-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

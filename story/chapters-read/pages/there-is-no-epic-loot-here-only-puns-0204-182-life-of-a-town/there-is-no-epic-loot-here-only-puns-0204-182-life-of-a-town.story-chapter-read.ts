@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0204182LifeOfATown = {
   position: 204,
   ownLength: 2843,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1307552/182-life-of-a-town",
-  externalId: "1307552",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1307552",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1307552/182-life-of-a-town",
+    },
+  ],
   publishedAt: "2023-08-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

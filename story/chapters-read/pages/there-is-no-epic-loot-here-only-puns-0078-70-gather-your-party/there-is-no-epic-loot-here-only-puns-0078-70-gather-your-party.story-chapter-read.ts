@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns007870GatherYourParty = {
   position: 78,
   ownLength: 3876,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/298963/70-gather-your-party",
-  externalId: "298963",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "298963",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/298963/70-gather-your-party",
+    },
+  ],
   publishedAt: "2018-10-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

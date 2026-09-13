@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0138122TreesACompany = {
   position: 138,
   ownLength: 2408,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/540725/122-trees-a-company",
-  externalId: "540725",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "540725",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/540725/122-trees-a-company",
+    },
+  ],
   publishedAt: "2020-08-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0009Chapter8Preparations = {
   position: 9,
   ownLength: 1400,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/916057/chapter-8-preparations",
-  externalId: "916057",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "916057",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/916057/chapter-8-preparations",
+    },
+  ],
   publishedAt: "2022-05-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

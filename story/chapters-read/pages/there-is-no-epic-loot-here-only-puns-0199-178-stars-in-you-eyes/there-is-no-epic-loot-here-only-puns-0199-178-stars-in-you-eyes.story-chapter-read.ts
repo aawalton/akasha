@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0199178StarsInYouEyes = {
   position: 199,
   ownLength: 2016,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1220240/178-stars-in-you-eyes",
-  externalId: "1220240",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1220240",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1220240/178-stars-in-you-eyes",
+    },
+  ],
   publishedAt: "2023-05-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

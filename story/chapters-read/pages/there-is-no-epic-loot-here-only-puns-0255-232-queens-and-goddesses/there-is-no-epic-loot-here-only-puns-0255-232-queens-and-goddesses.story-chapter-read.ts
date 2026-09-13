@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0255232QueensAndGoddesses = {
   position: 255,
   ownLength: 3277,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2979846/232-queens-and-goddesses",
-  externalId: "2979846",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2979846",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2979846/232-queens-and-goddesses",
+    },
+  ],
   publishedAt: "2026-01-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

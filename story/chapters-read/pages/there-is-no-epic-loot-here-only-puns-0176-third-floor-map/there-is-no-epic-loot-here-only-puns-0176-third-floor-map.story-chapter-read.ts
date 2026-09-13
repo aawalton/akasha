@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0176ThirdFloorMap = {
   position: 176,
   ownLength: 93,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/920861/third-floor-map",
-  externalId: "920861",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "920861",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/920861/third-floor-map",
+    },
+  ],
   publishedAt: "2022-06-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

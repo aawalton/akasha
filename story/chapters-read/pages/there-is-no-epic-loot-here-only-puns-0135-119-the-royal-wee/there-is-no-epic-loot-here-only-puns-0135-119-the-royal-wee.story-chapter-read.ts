@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0135119TheRoyalWee = {
   position: 135,
   ownLength: 2675,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/504884/119-the-royal-wee",
-  externalId: "504884",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "504884",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/504884/119-the-royal-wee",
+    },
+  ],
   publishedAt: "2020-06-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

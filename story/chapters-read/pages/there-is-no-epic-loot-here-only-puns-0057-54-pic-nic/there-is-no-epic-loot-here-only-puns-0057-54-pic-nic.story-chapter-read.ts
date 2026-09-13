@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns005754PicNic = {
   position: 57,
   ownLength: 3788,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/209228/54-pic-nic",
-  externalId: "209228",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "209228",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/209228/54-pic-nic",
+    },
+  ],
   publishedAt: "2018-04-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0058Chapter58Memories = {
   position: 58,
   ownLength: 2689,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3493053/chapter-58-memories",
-  externalId: "3493053",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3493053",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3493053/chapter-58-memories",
+    },
+  ],
   publishedAt: "2026-06-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

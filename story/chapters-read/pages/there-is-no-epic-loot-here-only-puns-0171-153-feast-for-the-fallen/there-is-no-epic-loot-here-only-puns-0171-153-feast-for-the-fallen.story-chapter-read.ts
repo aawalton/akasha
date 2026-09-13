@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0171153FeastForTheFallen = {
   position: 171,
   ownLength: 3324,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/877394/153-feast-for-the-fallen",
-  externalId: "877394",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "877394",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/877394/153-feast-for-the-fallen",
+    },
+  ],
   publishedAt: "2022-04-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

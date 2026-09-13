@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0064Chapter64Sponsorship = {
   position: 64,
   ownLength: 3405,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3530777/chapter-64-sponsorship",
-  externalId: "3530777",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3530777",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3530777/chapter-64-sponsorship",
+    },
+  ],
   publishedAt: "2026-06-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

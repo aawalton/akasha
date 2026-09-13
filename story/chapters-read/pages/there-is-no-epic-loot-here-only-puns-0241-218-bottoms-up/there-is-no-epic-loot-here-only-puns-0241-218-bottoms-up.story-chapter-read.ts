@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0241218BottomsUp = {
   position: 241,
   ownLength: 3072,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2408788/218-bottoms-up",
-  externalId: "2408788",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2408788",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2408788/218-bottoms-up",
+    },
+  ],
   publishedAt: "2025-07-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

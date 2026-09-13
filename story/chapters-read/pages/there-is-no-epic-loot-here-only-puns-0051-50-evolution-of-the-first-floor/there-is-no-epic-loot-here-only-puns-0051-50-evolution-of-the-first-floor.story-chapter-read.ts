@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns005150EvolutionOfTheFirstFloor = {
   position: 51,
   ownLength: 1751,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/199046/50-evolution-of-the-first-floor",
-  externalId: "199046",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "199046",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/199046/50-evolution-of-the-first-floor",
+    },
+  ],
   publishedAt: "2018-03-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

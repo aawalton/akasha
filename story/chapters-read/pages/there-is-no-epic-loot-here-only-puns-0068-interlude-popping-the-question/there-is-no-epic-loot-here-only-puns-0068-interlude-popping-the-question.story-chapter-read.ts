@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0068InterludePoppingTheQuestion = {
   position: 68,
   ownLength: 3332,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/231922/interlude-popping-the-question",
-  externalId: "231922",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "231922",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/231922/interlude-popping-the-question",
+    },
+  ],
   publishedAt: "2018-07-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

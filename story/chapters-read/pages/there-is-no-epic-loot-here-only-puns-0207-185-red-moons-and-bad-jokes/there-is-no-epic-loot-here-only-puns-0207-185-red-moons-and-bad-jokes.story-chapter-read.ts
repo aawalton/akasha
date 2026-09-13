@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0207185RedMoonsAndBadJokes = {
   position: 207,
   ownLength: 3597,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1336070/185-red-moons-and-bad-jokes",
-  externalId: "1336070",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1336070",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1336070/185-red-moons-and-bad-jokes",
+    },
+  ],
   publishedAt: "2023-09-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns002727LevellingDown = {
   position: 27,
   ownLength: 2119,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/190391/27-levelling-down",
-  externalId: "190391",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "190391",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/190391/27-levelling-down",
+    },
+  ],
   publishedAt: "2018-01-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

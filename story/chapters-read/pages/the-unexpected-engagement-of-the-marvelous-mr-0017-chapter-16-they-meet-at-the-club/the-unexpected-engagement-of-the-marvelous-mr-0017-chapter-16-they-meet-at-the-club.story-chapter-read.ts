@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0017Chapter16TheyMeetAtTheCl
   position: 17,
   ownLength: 2034,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/922511/chapter-16-they-meet-at-the-club",
-  externalId: "922511",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "922511",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/922511/chapter-16-they-meet-at-the-club",
+    },
+  ],
   publishedAt: "2022-06-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

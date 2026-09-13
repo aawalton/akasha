@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0043Chapter42TheFavor = {
   position: 43,
   ownLength: 3637,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/941599/chapter-42-the-favor",
-  externalId: "941599",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "941599",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/941599/chapter-42-the-favor",
+    },
+  ],
   publishedAt: "2022-07-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

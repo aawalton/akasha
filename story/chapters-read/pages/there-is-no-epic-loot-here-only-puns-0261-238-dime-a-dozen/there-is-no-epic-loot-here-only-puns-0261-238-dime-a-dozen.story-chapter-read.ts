@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0261238DimeADozen = {
   position: 261,
   ownLength: 3817,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/3272006/238-dime-a-dozen",
-  externalId: "3272006",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3272006",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/3272006/238-dime-a-dozen",
+    },
+  ],
   publishedAt: "2026-04-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

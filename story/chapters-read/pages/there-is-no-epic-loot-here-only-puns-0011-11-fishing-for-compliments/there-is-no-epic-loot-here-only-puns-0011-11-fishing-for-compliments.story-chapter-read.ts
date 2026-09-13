@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns001111FishingForCompliments = {
   position: 11,
   ownLength: 3046,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/188317/11-fishing-for-compliments",
-  externalId: "188317",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "188317",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/188317/11-fishing-for-compliments",
+    },
+  ],
   publishedAt: "2018-01-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

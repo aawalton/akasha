@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0048Chapter47AnotherWalk = {
   position: 48,
   ownLength: 1654,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/943700/chapter-47-another-walk",
-  externalId: "943700",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "943700",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/943700/chapter-47-another-walk",
+    },
+  ],
   publishedAt: "2022-07-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

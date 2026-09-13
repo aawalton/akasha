@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0167149TheCostOfMagic = {
   position: 167,
   ownLength: 3923,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/824862/149-the-cost-of-magic",
-  externalId: "824862",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "824862",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/824862/149-the-cost-of-magic",
+    },
+  ],
   publishedAt: "2022-01-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

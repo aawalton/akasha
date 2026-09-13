@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns003131JapingAbout = {
   position: 31,
   ownLength: 3347,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/191065/31-japing-about",
-  externalId: "191065",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "191065",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/191065/31-japing-about",
+    },
+  ],
   publishedAt: "2018-01-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

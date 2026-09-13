@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0001IntroductionLettersToThe
   position: 1,
   ownLength: 627,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/910114/introduction-letters-to-the-editor-of-the-quotidian",
-  externalId: "910114",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "910114",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/910114/introduction-letters-to-the-editor-of-the-quotidian",
+    },
+  ],
   publishedAt: "2022-05-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0005Chapter4TheEveningAndMor
   position: 5,
   ownLength: 2442,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/913461/chapter-4-the-evening-and-morning-editions",
-  externalId: "913461",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "913461",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/913461/chapter-4-the-evening-and-morning-editions",
+    },
+  ],
   publishedAt: "2022-05-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

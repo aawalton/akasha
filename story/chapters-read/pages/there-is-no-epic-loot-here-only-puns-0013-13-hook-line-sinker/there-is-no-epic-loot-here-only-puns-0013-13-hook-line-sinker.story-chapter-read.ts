@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns001313HookLineSinker = {
   position: 13,
   ownLength: 2787,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/188320/13-hook-line-sinker",
-  externalId: "188320",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "188320",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/188320/13-hook-line-sinker",
+    },
+  ],
   publishedAt: "2018-01-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

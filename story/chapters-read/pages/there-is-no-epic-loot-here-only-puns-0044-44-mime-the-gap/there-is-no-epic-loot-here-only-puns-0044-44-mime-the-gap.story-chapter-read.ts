@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns004444MimeTheGap = {
   position: 44,
   ownLength: 3322,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/196093/44-mime-the-gap",
-  externalId: "196093",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "196093",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/196093/44-mime-the-gap",
+    },
+  ],
   publishedAt: "2018-02-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

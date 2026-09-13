@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0248225Objection = {
   position: 248,
   ownLength: 3870,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2744761/225-objection",
-  externalId: "2744761",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2744761",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2744761/225-objection",
+    },
+  ],
   publishedAt: "2025-11-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

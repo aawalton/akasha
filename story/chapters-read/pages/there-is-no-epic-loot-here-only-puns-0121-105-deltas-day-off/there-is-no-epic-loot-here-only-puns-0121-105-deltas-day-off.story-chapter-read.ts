@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0121105DeltasDayOff = {
   position: 121,
   ownLength: 3042,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/393874/105-deltas-day-off",
-  externalId: "393874",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "393874",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/393874/105-deltas-day-off",
+    },
+  ],
   publishedAt: "2019-08-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

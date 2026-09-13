@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0041Chapter41TheForge = {
   position: 41,
   ownLength: 2912,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3387457/chapter-41-the-forge",
-  externalId: "3387457",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3387457",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3387457/chapter-41-the-forge",
+    },
+  ],
   publishedAt: "2026-05-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

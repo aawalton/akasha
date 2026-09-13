@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0189169ThereBeDragonsAndWorseMushrooms
   position: 189,
   ownLength: 4110,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1084290/169-there-be-dragons-and-worse-mushrooms",
-  externalId: "1084290",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1084290",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1084290/169-there-be-dragons-and-worse-mushrooms",
+    },
+  ],
   publishedAt: "2023-01-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

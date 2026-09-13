@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns007063WyinOrLose = {
   position: 70,
   ownLength: 4500,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/236535/63-wyin-or-lose",
-  externalId: "236535",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "236535",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/236535/63-wyin-or-lose",
+    },
+  ],
   publishedAt: "2018-07-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

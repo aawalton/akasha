@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns006460TheStarOfTheShow = {
   position: 64,
   ownLength: 4216,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/227320/60-the-star-of-the-show",
-  externalId: "227320",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "227320",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/227320/60-the-star-of-the-show",
+    },
+  ],
   publishedAt: "2018-06-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

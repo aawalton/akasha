@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns004847DeltaDoesDanger = {
   position: 48,
   ownLength: 2652,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/197512/47-delta-does-danger",
-  externalId: "197512",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "197512",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/197512/47-delta-does-danger",
+    },
+  ],
   publishedAt: "2018-02-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

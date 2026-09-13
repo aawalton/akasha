@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0158140DancingQueeN = {
   position: 158,
   ownLength: 3226,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/718023/140-dancing-quee-n",
-  externalId: "718023",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "718023",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/718023/140-dancing-quee-n",
+    },
+  ],
   publishedAt: "2021-07-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

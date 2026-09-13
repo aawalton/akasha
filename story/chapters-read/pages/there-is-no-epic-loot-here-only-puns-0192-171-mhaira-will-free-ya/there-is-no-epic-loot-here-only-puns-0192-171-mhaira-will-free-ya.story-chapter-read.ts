@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0192171MhairaWillFreeYa = {
   position: 192,
   ownLength: 3570,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1144646/171-mhaira-will-free-ya",
-  externalId: "1144646",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1144646",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1144646/171-mhaira-will-free-ya",
+    },
+  ],
   publishedAt: "2023-03-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

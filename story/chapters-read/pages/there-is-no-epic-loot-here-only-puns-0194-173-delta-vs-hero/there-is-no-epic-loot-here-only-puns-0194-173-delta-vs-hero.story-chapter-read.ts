@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0194173DeltaVsHero = {
   position: 194,
   ownLength: 3296,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1151805/173-delta-vs-hero",
-  externalId: "1151805",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1151805",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1151805/173-delta-vs-hero",
+    },
+  ],
   publishedAt: "2023-03-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

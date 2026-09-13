@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns007366TendingTheMoon = {
   position: 73,
   ownLength: 3747,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/282534/66-tending-the-moon",
-  externalId: "282534",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "282534",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/282534/66-tending-the-moon",
+    },
+  ],
   publishedAt: "2018-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

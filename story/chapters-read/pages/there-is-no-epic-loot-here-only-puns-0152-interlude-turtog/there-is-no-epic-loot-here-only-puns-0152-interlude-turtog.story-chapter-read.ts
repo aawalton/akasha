@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0152InterludeTurtog = {
   position: 152,
   ownLength: 5227,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/677841/interlude-turtog",
-  externalId: "677841",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "677841",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/677841/interlude-turtog",
+    },
+  ],
   publishedAt: "2021-05-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

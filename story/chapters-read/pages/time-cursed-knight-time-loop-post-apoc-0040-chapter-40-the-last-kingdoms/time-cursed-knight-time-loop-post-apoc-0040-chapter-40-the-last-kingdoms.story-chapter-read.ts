@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0040Chapter40TheLastKingdoms = {
   position: 40,
   ownLength: 3685,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3383344/chapter-40-the-last-kingdoms",
-  externalId: "3383344",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3383344",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3383344/chapter-40-the-last-kingdoms",
+    },
+  ],
   publishedAt: "2026-05-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

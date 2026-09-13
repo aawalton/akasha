@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0059Chapter59EffectiveImmediately =
   position: 59,
   ownLength: 3725,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3497773/chapter-59-effective-immediately",
-  externalId: "3497773",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3497773",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3497773/chapter-59-effective-immediately",
+    },
+  ],
   publishedAt: "2026-06-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

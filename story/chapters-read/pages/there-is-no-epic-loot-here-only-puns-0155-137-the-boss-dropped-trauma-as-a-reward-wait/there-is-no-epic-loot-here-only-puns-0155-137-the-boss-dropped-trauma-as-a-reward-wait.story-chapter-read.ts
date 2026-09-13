@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0155137TheBossDroppedTraumaAsARewardWa
   position: 155,
   ownLength: 2708,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/706490/137-the-boss-dropped-trauma-as-a-reward-wait",
-  externalId: "706490",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "706490",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/706490/137-the-boss-dropped-trauma-as-a-reward-wait",
+    },
+  ],
   publishedAt: "2021-06-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

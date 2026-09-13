@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0042Chapter111EarningAdmissio
   position: 42,
   ownLength: 11055,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/3060601/chapter-111-earning-admission-fair-square",
-  externalId: "3060601",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3060601",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/3060601/chapter-111-earning-admission-fair-square",
+    },
+  ],
   publishedAt: "2026-02-16",
   ownProgress: 11055,
   completedAt: "2026-06-29T20:05:27.345Z",

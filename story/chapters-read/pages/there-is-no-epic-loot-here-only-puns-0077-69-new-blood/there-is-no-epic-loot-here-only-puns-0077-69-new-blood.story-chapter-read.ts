@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns007769NewBlood = {
   position: 77,
   ownLength: 4552,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/297057/69-new-blood",
-  externalId: "297057",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "297057",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/297057/69-new-blood",
+    },
+  ],
   publishedAt: "2018-10-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

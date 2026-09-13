@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0072Chapter72TheMetropolis = {
   position: 72,
   ownLength: 2817,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3585648/chapter-72-the-metropolis",
-  externalId: "3585648",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3585648",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3585648/chapter-72-the-metropolis",
+    },
+  ],
   publishedAt: "2026-06-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

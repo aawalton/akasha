@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns001616DuckForTraps = {
   position: 16,
   ownLength: 1463,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/188480/16-duck-for-traps",
-  externalId: "188480",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "188480",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/188480/16-duck-for-traps",
+    },
+  ],
   publishedAt: "2018-01-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

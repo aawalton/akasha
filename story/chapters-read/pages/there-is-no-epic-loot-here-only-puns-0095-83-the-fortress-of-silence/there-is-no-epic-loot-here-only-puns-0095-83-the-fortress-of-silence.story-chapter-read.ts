@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns009583TheFortressOfSilence = {
   position: 95,
   ownLength: 3588,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/347727/83-the-fortress-of-silence",
-  externalId: "347727",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "347727",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/347727/83-the-fortress-of-silence",
+    },
+  ],
   publishedAt: "2019-03-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

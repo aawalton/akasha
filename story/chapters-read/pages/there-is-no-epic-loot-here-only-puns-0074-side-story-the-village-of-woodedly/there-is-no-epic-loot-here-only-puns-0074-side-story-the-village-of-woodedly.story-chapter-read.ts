@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0074SideStoryTheVillageOfWoodedly = {
   position: 74,
   ownLength: 3762,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/289529/side-story-the-village-of-woodedly",
-  externalId: "289529",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "289529",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/289529/side-story-the-village-of-woodedly",
+    },
+  ],
   publishedAt: "2018-09-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

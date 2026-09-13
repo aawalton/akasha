@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0217195TaxEvasion2 = {
   position: 217,
   ownLength: 2766,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1446876/195-tax-evasion2",
-  externalId: "1446876",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1446876",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1446876/195-tax-evasion2",
+    },
+  ],
   publishedAt: "2023-12-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

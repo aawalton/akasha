@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns00044ThePiggyInTheMiddle = {
   position: 4,
   ownLength: 2148,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/185601/4-the-piggy-in-the-middle",
-  externalId: "185601",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "185601",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/185601/4-the-piggy-in-the-middle",
+    },
+  ],
   publishedAt: "2018-01-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

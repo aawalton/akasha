@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns010793AKingsGrudge = {
   position: 107,
   ownLength: 3921,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/357549/93-a-kings-grudge",
-  externalId: "357549",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "357549",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/357549/93-a-kings-grudge",
+    },
+  ],
   publishedAt: "2019-04-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

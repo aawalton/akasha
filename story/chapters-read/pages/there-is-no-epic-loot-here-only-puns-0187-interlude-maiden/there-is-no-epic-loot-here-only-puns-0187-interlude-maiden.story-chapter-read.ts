@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0187InterludeMaiden = {
   position: 187,
   ownLength: 3437,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1060940/interlude-maiden",
-  externalId: "1060940",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1060940",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1060940/interlude-maiden",
+    },
+  ],
   publishedAt: "2022-12-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

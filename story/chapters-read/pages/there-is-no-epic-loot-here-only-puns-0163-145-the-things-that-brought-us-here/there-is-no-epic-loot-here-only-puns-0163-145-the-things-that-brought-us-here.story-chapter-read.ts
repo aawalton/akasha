@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0163145TheThingsThatBroughtUsHere = {
   position: 163,
   ownLength: 3539,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/762749/145-the-things-that-brought-us-here",
-  externalId: "762749",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "762749",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/762749/145-the-things-that-brought-us-here",
+    },
+  ],
   publishedAt: "2021-10-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

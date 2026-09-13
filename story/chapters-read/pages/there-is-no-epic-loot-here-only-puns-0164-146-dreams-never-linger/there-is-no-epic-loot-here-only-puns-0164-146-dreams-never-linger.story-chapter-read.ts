@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0164146DreamsNeverLinger = {
   position: 164,
   ownLength: 3070,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/795938/146-dreams-never-linger",
-  externalId: "795938",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "795938",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/795938/146-dreams-never-linger",
+    },
+  ],
   publishedAt: "2021-11-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0040Chapter109TheEdgeOfSystem
   position: 40,
   ownLength: 8613,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2885568/chapter-109-the-edge-of-system-space-ii",
-  externalId: "2885568",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2885568",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2885568/chapter-109-the-edge-of-system-space-ii",
+    },
+  ],
   publishedAt: "2025-12-27",
   ownProgress: 8613,
   completedAt: "2026-06-29T20:05:23.394Z",

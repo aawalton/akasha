@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0173155RaveIsland = {
   position: 173,
   ownLength: 3542,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/900659/155-rave-island",
-  externalId: "900659",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "900659",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/900659/155-rave-island",
+    },
+  ],
   publishedAt: "2022-05-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns010490TheDungeonAndHerVillage = {
   position: 104,
   ownLength: 4182,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/355154/90-the-dungeon-and-her-village",
-  externalId: "355154",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "355154",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/355154/90-the-dungeon-and-her-village",
+    },
+  ],
   publishedAt: "2019-04-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

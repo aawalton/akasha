@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns011599BetaToThePunch = {
   position: 115,
   ownLength: 3141,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/376452/99-beta-to-the-punch",
-  externalId: "376452",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "376452",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/376452/99-beta-to-the-punch",
+    },
+  ],
   publishedAt: "2019-06-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

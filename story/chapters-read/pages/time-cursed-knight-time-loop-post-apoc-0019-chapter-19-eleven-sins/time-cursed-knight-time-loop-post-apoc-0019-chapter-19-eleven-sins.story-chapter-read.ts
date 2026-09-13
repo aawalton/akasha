@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0019Chapter19ElevenSins = {
   position: 19,
   ownLength: 3372,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3291416/chapter-19-eleven-sins",
-  externalId: "3291416",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3291416",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3291416/chapter-19-eleven-sins",
+    },
+  ],
   publishedAt: "2026-04-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

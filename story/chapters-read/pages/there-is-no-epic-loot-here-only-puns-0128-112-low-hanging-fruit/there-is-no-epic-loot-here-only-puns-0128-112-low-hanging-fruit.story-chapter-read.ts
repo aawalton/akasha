@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0128112LowHangingFruit = {
   position: 128,
   ownLength: 4046,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/436204/112-low-hanging-fruit",
-  externalId: "436204",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "436204",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/436204/112-low-hanging-fruit",
+    },
+  ],
   publishedAt: "2019-12-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

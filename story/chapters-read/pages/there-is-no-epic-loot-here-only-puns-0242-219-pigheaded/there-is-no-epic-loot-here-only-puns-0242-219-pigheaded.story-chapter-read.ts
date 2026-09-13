@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0242219Pigheaded = {
   position: 242,
   ownLength: 3409,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2412447/219-pigheaded",
-  externalId: "2412447",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2412447",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2412447/219-pigheaded",
+    },
+  ],
   publishedAt: "2025-07-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0200InterludeAsGoodAsGold = {
   position: 200,
   ownLength: 3620,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1242615/interlude-as-good-as-gold",
-  externalId: "1242615",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1242615",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1242615/interlude-as-good-as-gold",
+    },
+  ],
   publishedAt: "2023-06-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

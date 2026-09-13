@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0150133IHaveAwokenAndIHaveChosenViolen
   position: 150,
   ownLength: 3766,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/621913/133-i-have-awoken-and-i-have-chosen-violence",
-  externalId: "621913",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "621913",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/621913/133-i-have-awoken-and-i-have-chosen-violence",
+    },
+  ],
   publishedAt: "2021-01-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

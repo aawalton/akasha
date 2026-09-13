@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0257234PlayerVersusPlayer = {
   position: 257,
   ownLength: 3435,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/3052862/234-player-versus-player",
-  externalId: "3052862",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3052862",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/3052862/234-player-versus-player",
+    },
+  ],
   publishedAt: "2026-02-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

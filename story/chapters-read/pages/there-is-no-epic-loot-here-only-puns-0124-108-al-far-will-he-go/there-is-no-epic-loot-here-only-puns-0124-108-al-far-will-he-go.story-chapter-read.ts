@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0124108AlFarWillHeGo = {
   position: 124,
   ownLength: 5413,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/409944/108-al-far-will-he-go",
-  externalId: "409944",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "409944",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/409944/108-al-far-will-he-go",
+    },
+  ],
   publishedAt: "2019-10-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

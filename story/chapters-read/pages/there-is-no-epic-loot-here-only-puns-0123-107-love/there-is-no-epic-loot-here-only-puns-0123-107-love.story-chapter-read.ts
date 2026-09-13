@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0123107Love = {
   position: 123,
   ownLength: 3534,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/402842/107-love",
-  externalId: "402842",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "402842",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/402842/107-love",
+    },
+  ],
   publishedAt: "2019-09-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

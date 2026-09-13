@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0041Chapter40AnHonorToServeY
   position: 41,
   ownLength: 363,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/940186/chapter-40-an-honor-to-serve-you",
-  externalId: "940186",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "940186",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/940186/chapter-40-an-honor-to-serve-you",
+    },
+  ],
   publishedAt: "2022-07-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

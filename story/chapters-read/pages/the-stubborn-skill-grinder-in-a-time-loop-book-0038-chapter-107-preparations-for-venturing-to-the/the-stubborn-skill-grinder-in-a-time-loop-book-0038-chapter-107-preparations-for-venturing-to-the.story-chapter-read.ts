@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0038Chapter107PreparationsFor
   position: 38,
   ownLength: 10012,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2845492/chapter-107-preparations-for-venturing-to-the",
-  externalId: "2845492",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2845492",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2845492/chapter-107-preparations-for-venturing-to-the",
+    },
+  ],
   publishedAt: "2025-12-13",
   ownProgress: 10012,
   completedAt: "2026-06-29T20:05:19.393Z",

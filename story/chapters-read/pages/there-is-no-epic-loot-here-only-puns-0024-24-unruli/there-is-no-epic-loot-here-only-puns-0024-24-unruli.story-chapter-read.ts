@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns002424Unruli = {
   position: 24,
   ownLength: 2267,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/189526/24-unruli",
-  externalId: "189526",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "189526",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/189526/24-unruli",
+    },
+  ],
   publishedAt: "2018-01-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns006661ThisDungeonBelongsToNoland = {
   position: 66,
   ownLength: 3734,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/229665/61-this-dungeon-belongs-to-noland",
-  externalId: "229665",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "229665",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/229665/61-this-dungeon-belongs-to-noland",
+    },
+  ],
   publishedAt: "2018-07-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

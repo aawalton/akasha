@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns005653DevineBobbing = {
   position: 56,
   ownLength: 4189,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/207351/53-devine-bobbing",
-  externalId: "207351",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "207351",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/207351/53-devine-bobbing",
+    },
+  ],
   publishedAt: "2018-04-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

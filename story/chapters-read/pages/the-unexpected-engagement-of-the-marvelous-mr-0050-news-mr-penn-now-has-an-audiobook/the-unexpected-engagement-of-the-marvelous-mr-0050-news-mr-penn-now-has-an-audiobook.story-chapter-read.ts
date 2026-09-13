@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0050NewsMrPennNowHasAnAudiob
   position: 50,
   ownLength: 151,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/3496946/news-mr-penn-now-has-an-audiobook",
-  externalId: "3496946",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3496946",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/3496946/news-mr-penn-now-has-an-audiobook",
+    },
+  ],
   publishedAt: "2026-06-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

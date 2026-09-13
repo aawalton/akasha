@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns009382JackAndDeltaGoDownATunnel = {
   position: 93,
   ownLength: 3766,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/347066/82-jack-and-delta-go-down-a-tunnel",
-  externalId: "347066",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "347066",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/347066/82-jack-and-delta-go-down-a-tunnel",
+    },
+  ],
   publishedAt: "2019-03-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

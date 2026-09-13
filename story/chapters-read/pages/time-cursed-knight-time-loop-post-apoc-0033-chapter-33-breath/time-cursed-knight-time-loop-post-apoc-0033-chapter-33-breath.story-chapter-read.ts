@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0033Chapter33Breath = {
   position: 33,
   ownLength: 3325,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3337901/chapter-33-breath",
-  externalId: "3337901",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3337901",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3337901/chapter-33-breath",
+    },
+  ],
   publishedAt: "2026-04-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

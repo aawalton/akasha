@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0216194ItsNotAllDoomAndGloom = {
   position: 216,
   ownLength: 3251,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1446108/194-its-not-all-doom-and-gloom",
-  externalId: "1446108",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1446108",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1446108/194-its-not-all-doom-and-gloom",
+    },
+  ],
   publishedAt: "2023-12-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

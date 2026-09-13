@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0149132FreeRangeWar = {
   position: 149,
   ownLength: 3024,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/593573/132-free-range-war",
-  externalId: "593573",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "593573",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/593573/132-free-range-war",
+    },
+  ],
   publishedAt: "2020-12-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

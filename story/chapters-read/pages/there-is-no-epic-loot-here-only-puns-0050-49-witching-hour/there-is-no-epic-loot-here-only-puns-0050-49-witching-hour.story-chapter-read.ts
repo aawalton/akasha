@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns005049WitchingHour = {
   position: 50,
   ownLength: 3840,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/198892/49-witching-hour",
-  externalId: "198892",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "198892",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/198892/49-witching-hour",
+    },
+  ],
   publishedAt: "2018-03-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

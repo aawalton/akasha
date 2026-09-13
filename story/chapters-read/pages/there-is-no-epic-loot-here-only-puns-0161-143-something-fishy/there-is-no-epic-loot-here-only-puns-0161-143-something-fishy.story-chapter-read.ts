@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0161143SomethingFishy = {
   position: 161,
   ownLength: 3020,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/751211/143-something-fishy",
-  externalId: "751211",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "751211",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/751211/143-something-fishy",
+    },
+  ],
   publishedAt: "2021-09-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

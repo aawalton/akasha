@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0240217IdiotsWithASmile = {
   position: 240,
   ownLength: 2463,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2163482/217-idiots-with-a-smile",
-  externalId: "2163482",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2163482",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2163482/217-idiots-with-a-smile",
+    },
+  ],
   publishedAt: "2025-03-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

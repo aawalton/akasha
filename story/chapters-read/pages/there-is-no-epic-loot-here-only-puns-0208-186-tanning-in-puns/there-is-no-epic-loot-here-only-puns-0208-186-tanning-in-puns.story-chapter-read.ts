@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0208186TanningInPuns = {
   position: 208,
   ownLength: 3285,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1375126/186-tanning-in-puns",
-  externalId: "1375126",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1375126",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1375126/186-tanning-in-puns",
+    },
+  ],
   publishedAt: "2023-10-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

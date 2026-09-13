@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0065MapUpdates = {
   position: 65,
   ownLength: 75,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/228095/map-updates",
-  externalId: "228095",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "228095",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/228095/map-updates",
+    },
+  ],
   publishedAt: "2018-06-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

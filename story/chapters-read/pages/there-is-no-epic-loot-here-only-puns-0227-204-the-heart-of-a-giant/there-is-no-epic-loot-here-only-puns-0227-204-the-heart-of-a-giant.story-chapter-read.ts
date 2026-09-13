@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0227204TheHeartOfAGiant = {
   position: 227,
   ownLength: 3065,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1654878/204-the-heart-of-a-giant",
-  externalId: "1654878",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1654878",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1654878/204-the-heart-of-a-giant",
+    },
+  ],
   publishedAt: "2024-05-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

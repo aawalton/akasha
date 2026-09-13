@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0153135TwinkleTwinkleLittle = {
   position: 153,
   ownLength: 3689,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/682501/135-twinkle-twinkle-little",
-  externalId: "682501",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "682501",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/682501/135-twinkle-twinkle-little",
+    },
+  ],
   publishedAt: "2021-05-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

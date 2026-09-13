@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns006359Deolicious = {
   position: 63,
   ownLength: 4044,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/226528/59-deolicious",
-  externalId: "226528",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "226528",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/226528/59-deolicious",
+    },
+  ],
   publishedAt: "2018-06-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

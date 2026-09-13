@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0120104SpringOfTheSoul = {
   position: 120,
   ownLength: 3249,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/391577/104-spring-of-the-soul",
-  externalId: "391577",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "391577",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/391577/104-spring-of-the-soul",
+    },
+  ],
   publishedAt: "2019-08-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

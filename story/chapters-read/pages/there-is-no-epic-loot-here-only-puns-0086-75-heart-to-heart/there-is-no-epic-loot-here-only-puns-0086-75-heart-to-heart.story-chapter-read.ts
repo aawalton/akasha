@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns008675HeartToHeart = {
   position: 86,
   ownLength: 4083,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/328319/75-heart-to-heart",
-  externalId: "328319",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "328319",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/328319/75-heart-to-heart",
+    },
+  ],
   publishedAt: "2019-01-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0190170TheShattering = {
   position: 190,
   ownLength: 3367,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1084822/170-the-shattering",
-  externalId: "1084822",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1084822",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1084822/170-the-shattering",
+    },
+  ],
   publishedAt: "2023-01-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

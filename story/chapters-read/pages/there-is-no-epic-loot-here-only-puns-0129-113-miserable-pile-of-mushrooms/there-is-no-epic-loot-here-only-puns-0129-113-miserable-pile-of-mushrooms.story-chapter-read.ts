@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0129113MiserablePileOfMushrooms = {
   position: 129,
   ownLength: 2078,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/438570/113-miserable-pile-of-mushrooms",
-  externalId: "438570",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "438570",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/438570/113-miserable-pile-of-mushrooms",
+    },
+  ],
   publishedAt: "2019-12-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

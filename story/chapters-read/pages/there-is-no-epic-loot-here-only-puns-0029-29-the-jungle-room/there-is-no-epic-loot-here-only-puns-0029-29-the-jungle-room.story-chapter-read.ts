@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns002929TheJungleRoom = {
   position: 29,
   ownLength: 1924,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/190808/29-the-jungle-room",
-  externalId: "190808",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "190808",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/190808/29-the-jungle-room",
+    },
+  ],
   publishedAt: "2018-01-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

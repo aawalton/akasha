@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0195174GoneHome = {
   position: 195,
   ownLength: 4238,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1163345/174-gone-home",
-  externalId: "1163345",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1163345",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1163345/174-gone-home",
+    },
+  ],
   publishedAt: "2023-04-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

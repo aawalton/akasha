@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns001818IAmDeo = {
   position: 18,
   ownLength: 2041,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/188584/18-i-am-deo",
-  externalId: "188584",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "188584",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/188584/18-i-am-deo",
+    },
+  ],
   publishedAt: "2018-01-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

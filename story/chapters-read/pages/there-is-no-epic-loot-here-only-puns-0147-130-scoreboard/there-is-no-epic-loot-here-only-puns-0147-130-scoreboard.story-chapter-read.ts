@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0147130Scoreboard = {
   position: 147,
   ownLength: 2642,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/587192/130-scoreboard",
-  externalId: "587192",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "587192",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/587192/130-scoreboard",
+    },
+  ],
   publishedAt: "2020-11-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

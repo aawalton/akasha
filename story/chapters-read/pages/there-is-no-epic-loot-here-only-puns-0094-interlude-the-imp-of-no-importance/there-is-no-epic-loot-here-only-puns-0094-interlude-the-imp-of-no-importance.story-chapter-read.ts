@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0094InterludeTheImpOfNoImportance = {
   position: 94,
   ownLength: 3301,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/347349/interlude-the-imp-of-no-importance",
-  externalId: "347349",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "347349",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/347349/interlude-the-imp-of-no-importance",
+    },
+  ],
   publishedAt: "2019-03-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

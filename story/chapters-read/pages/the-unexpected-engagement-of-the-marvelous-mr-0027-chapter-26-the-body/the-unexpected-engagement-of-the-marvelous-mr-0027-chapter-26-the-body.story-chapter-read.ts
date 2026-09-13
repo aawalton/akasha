@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0027Chapter26TheBody = {
   position: 27,
   ownLength: 1180,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/929617/chapter-26-the-body",
-  externalId: "929617",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "929617",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/929617/chapter-26-the-body",
+    },
+  ],
   publishedAt: "2022-06-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

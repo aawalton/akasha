@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0214192SkyHighScuttleLow = {
   position: 214,
   ownLength: 3328,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1443495/192-sky-high-scuttle-low",
-  externalId: "1443495",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1443495",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1443495/192-sky-high-scuttle-low",
+    },
+  ],
   publishedAt: "2023-12-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0044Chapter43EleanorWaiting 
   position: 44,
   ownLength: 1220,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/942341/chapter-43-eleanor-waiting",
-  externalId: "942341",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "942341",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/942341/chapter-43-eleanor-waiting",
+    },
+  ],
   publishedAt: "2022-07-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

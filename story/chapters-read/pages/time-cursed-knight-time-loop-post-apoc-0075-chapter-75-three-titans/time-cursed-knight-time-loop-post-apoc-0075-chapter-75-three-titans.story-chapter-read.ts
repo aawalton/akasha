@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0075Chapter75ThreeTitans = {
   position: 75,
   ownLength: 2981,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3608710/chapter-75-three-titans",
-  externalId: "3608710",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3608710",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3608710/chapter-75-three-titans",
+    },
+  ],
   publishedAt: "2026-06-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns010288XanatosGambitNoThisIsADeltaGambl
   position: 102,
   ownLength: 5053,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/353021/88-xanatos-gambit-no-this-is-a-delta-gamble",
-  externalId: "353021",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "353021",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/353021/88-xanatos-gambit-no-this-is-a-delta-gamble",
+    },
+  ],
   publishedAt: "2019-04-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

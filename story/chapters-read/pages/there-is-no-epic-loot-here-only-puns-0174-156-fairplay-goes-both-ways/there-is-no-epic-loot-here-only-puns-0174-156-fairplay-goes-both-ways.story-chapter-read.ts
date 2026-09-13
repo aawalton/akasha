@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0174156FairplayGoesBothWays = {
   position: 174,
   ownLength: 3505,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/911112/156-fairplay-goes-both-ways",
-  externalId: "911112",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "911112",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/911112/156-fairplay-goes-both-ways",
+    },
+  ],
   publishedAt: "2022-05-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

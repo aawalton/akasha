@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0046Chapter45TheArrest = {
   position: 46,
   ownLength: 1604,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/943036/chapter-45-the-arrest",
-  externalId: "943036",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "943036",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/943036/chapter-45-the-arrest",
+    },
+  ],
   publishedAt: "2022-07-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

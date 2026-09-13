@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0007Chapter7ThePromise = {
   position: 7,
   ownLength: 5312,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3244466/chapter-7-the-promise",
-  externalId: "3244466",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3244466",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3244466/chapter-7-the-promise",
+    },
+  ],
   publishedAt: "2026-04-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

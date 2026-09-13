@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0160142Catfished = {
   position: 160,
   ownLength: 3190,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/734068/142-catfished",
-  externalId: "734068",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "734068",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/734068/142-catfished",
+    },
+  ],
   publishedAt: "2021-08-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

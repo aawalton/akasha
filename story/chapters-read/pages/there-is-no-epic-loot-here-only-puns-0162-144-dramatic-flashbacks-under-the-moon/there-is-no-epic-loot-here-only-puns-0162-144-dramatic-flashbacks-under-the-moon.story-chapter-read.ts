@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0162144DramaticFlashbacksUnderTheMoon 
   position: 162,
   ownLength: 3542,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/757689/144-dramatic-flashbacks-under-the-moon",
-  externalId: "757689",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "757689",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/757689/144-dramatic-flashbacks-under-the-moon",
+    },
+  ],
   publishedAt: "2021-09-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

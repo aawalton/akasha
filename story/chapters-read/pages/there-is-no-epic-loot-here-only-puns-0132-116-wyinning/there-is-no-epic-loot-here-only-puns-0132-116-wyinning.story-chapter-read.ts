@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0132116Wyinning = {
   position: 132,
   ownLength: 2388,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/460178/116-wyinning",
-  externalId: "460178",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "460178",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/460178/116-wyinning",
+    },
+  ],
   publishedAt: "2020-02-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns009684ForWhomTheDungeonTrolls = {
   position: 96,
   ownLength: 5050,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/347908/84-for-whom-the-dungeon-trolls",
-  externalId: "347908",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "347908",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/347908/84-for-whom-the-dungeon-trolls",
+    },
+  ],
   publishedAt: "2019-03-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

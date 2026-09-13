@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0133117TheBuzzAboutShrooms = {
   position: 133,
   ownLength: 2264,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/463969/117-the-buzz-about-shrooms",
-  externalId: "463969",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "463969",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/463969/117-the-buzz-about-shrooms",
+    },
+  ],
   publishedAt: "2020-03-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

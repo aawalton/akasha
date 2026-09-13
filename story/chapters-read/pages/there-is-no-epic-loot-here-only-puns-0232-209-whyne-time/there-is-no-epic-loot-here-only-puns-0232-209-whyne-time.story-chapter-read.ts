@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0232209WhyneTime = {
   position: 232,
   ownLength: 2524,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1702322/209-whyne-time",
-  externalId: "1702322",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1702322",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1702322/209-whyne-time",
+    },
+  ],
   publishedAt: "2024-07-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

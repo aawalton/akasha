@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0011Chapter10TheAftermath = 
   position: 11,
   ownLength: 3143,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/917957/chapter-10-the-aftermath",
-  externalId: "917957",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "917957",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/917957/chapter-10-the-aftermath",
+    },
+  ],
   publishedAt: "2022-05-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

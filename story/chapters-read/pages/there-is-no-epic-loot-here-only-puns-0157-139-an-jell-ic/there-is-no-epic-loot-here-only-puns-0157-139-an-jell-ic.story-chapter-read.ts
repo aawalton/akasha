@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0157139AnJellIc = {
   position: 157,
   ownLength: 3425,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/713857/139-an-jell-ic",
-  externalId: "713857",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "713857",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/713857/139-an-jell-ic",
+    },
+  ],
   publishedAt: "2021-07-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

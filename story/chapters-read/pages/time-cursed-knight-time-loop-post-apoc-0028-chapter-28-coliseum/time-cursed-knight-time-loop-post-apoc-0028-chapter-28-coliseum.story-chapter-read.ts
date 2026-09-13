@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0028Chapter28Coliseum = {
   position: 28,
   ownLength: 2259,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3318224/chapter-28-coliseum",
-  externalId: "3318224",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3318224",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3318224/chapter-28-coliseum",
+    },
+  ],
   publishedAt: "2026-04-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

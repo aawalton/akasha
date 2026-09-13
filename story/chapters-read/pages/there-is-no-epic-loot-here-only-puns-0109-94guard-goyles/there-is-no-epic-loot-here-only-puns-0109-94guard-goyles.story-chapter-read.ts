@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns010994guardGoyles = {
   position: 109,
   ownLength: 3389,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/360600/94guard-goyles",
-  externalId: "360600",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "360600",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/360600/94guard-goyles",
+    },
+  ],
   publishedAt: "2019-05-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

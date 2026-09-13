@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0151134TheOtherSide = {
   position: 151,
   ownLength: 3718,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/634868/134-the-other-side",
-  externalId: "634868",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "634868",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/634868/134-the-other-side",
+    },
+  ],
   publishedAt: "2021-02-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

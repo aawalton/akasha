@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0025Chapter24TheRescue = {
   position: 25,
   ownLength: 3658,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/928210/chapter-24-the-rescue",
-  externalId: "928210",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "928210",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/928210/chapter-24-the-rescue",
+    },
+  ],
   publishedAt: "2022-06-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

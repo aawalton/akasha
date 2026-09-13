@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns001717AlongCameASpider = {
   position: 17,
   ownLength: 2399,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/188567/17-along-came-a-spider",
-  externalId: "188567",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "188567",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/188567/17-along-came-a-spider",
+    },
+  ],
   publishedAt: "2018-01-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

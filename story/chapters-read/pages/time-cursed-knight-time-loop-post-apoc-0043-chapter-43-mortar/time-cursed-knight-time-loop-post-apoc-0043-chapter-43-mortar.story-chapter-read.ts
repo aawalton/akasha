@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0043Chapter43Mortar = {
   position: 43,
   ownLength: 3314,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3396063/chapter-43-mortar",
-  externalId: "3396063",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3396063",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3396063/chapter-43-mortar",
+    },
+  ],
   publishedAt: "2026-05-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

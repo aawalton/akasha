@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0252229PreachingToTheChoir = {
   position: 252,
   ownLength: 3002,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2847053/229-preaching-to-the-choir",
-  externalId: "2847053",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2847053",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2847053/229-preaching-to-the-choir",
+    },
+  ],
   publishedAt: "2025-12-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

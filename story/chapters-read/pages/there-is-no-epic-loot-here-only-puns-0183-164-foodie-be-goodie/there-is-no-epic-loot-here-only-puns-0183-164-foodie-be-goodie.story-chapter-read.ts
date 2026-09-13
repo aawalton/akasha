@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0183164FoodieBeGoodie = {
   position: 183,
   ownLength: 4358,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/997996/164-foodie-be-goodie",
-  externalId: "997996",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "997996",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/997996/164-foodie-be-goodie",
+    },
+  ],
   publishedAt: "2022-09-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

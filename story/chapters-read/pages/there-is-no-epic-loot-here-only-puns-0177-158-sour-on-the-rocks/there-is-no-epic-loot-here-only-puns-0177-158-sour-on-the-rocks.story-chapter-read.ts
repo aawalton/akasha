@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0177158SourOnTheRocks = {
   position: 177,
   ownLength: 3168,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/937417/158-sour-on-the-rocks",
-  externalId: "937417",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "937417",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/937417/158-sour-on-the-rocks",
+    },
+  ],
   publishedAt: "2022-06-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

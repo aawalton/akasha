@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0168150RingingEndorsement = {
   position: 168,
   ownLength: 3315,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/859898/150-ringing-endorsement",
-  externalId: "859898",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "859898",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/859898/150-ringing-endorsement",
+    },
+  ],
   publishedAt: "2022-03-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

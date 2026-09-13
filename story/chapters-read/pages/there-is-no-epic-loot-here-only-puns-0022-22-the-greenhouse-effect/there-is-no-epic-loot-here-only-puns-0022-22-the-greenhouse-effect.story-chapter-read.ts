@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns002222TheGreenhouseEffect = {
   position: 22,
   ownLength: 2403,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/189010/22-the-greenhouse-effect",
-  externalId: "189010",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "189010",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/189010/22-the-greenhouse-effect",
+    },
+  ],
   publishedAt: "2018-01-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns005352Griminology = {
   position: 53,
   ownLength: 3354,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/201782/52-griminology",
-  externalId: "201782",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "201782",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/201782/52-griminology",
+    },
+  ],
   publishedAt: "2018-03-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

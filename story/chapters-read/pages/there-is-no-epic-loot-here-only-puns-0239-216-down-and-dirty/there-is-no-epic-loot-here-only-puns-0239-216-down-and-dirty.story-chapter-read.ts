@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns0239216DownAndDirty = {
   position: 239,
   ownLength: 2208,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2137542/216-down-and-dirty",
-  externalId: "2137542",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2137542",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2137542/216-down-and-dirty",
+    },
+  ],
   publishedAt: "2025-03-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theUnexpectedEngagementOfTheMarvelousMr0040Chapter39TheWalkHome = {
   position: 40,
   ownLength: 5261,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/939425/chapter-39-the-walk-home",
-  externalId: "939425",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "939425",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/939425/chapter-39-the-walk-home",
+    },
+  ],
   publishedAt: "2022-07-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

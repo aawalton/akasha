@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns004746BalladOfTheGreat = {
   position: 47,
   ownLength: 2456,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/197058/46-ballad-of-the-great",
-  externalId: "197058",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "197058",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/197058/46-ballad-of-the-great",
+    },
+  ],
   publishedAt: "2018-02-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

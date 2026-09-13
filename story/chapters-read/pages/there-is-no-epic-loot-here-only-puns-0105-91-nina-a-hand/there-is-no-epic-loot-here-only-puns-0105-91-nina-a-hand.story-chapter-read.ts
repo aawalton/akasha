@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns010591NinaAHand = {
   position: 105,
   ownLength: 4300,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/356149/91-nina-a-hand",
-  externalId: "356149",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "356149",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/356149/91-nina-a-hand",
+    },
+  ],
   publishedAt: "2019-04-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

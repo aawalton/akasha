@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0056Chapter56RoyalBall = {
   position: 56,
   ownLength: 2905,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3484044/chapter-56-royal-ball",
-  externalId: "3484044",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3484044",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3484044/chapter-56-royal-ball",
+    },
+  ],
   publishedAt: "2026-06-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thereIsNoEpicLootHereOnlyPuns004343RaleishTheThought = {
   position: 43,
   ownLength: 3405,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/195372/43-raleish-the-thought",
-  externalId: "195372",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "195372",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/195372/43-raleish-the-thought",
+    },
+  ],
   publishedAt: "2018-02-18",
   prose: "txt",
 } as const satisfies StoryChapterRead
