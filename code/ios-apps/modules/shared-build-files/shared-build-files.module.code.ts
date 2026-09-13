@@ -50,7 +50,7 @@ function scriptsOf(root: string, named: readonly string[]): Gathered {
     const slug = textAt(one.value, "slug")
     if (slug !== null && wanted.has(slug)) found.set(slug, one)
   }
-  const missing = named.filter((slug) => !found.has(slug))
+  const missing = named.filter((slug) => !found.has(slug)).sort()
   if (missing.length > 0) {
     return {
       why: `the ${APP} page type names ${missing.join(", ")}, and no ${SCRIPT} page carries that slug`,
