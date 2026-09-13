@@ -67,6 +67,11 @@ export const modelTest = {
       statement:
         "A prompt is measured against the cases rather than what the cases were mined from.",
     },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A sign named by description refuses about one clean case in two hundred, whatever the wording.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
