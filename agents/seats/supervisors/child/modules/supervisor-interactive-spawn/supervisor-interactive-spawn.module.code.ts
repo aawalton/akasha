@@ -1,6 +1,16 @@
 import { buildInteractiveCLIArgs } from "akasha/agents/claude-code/modules/claude-launch-args/claude-launch-args.module.code.ts"
 import { seatNameForAgent } from "akasha/agents/seats/observation/modules/presence-read/seat-presence-read.module.code.ts"
 import { isPendingReExec } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
+import {
+  resolveAgentEffortLevel,
+  resolveAutoCompactWindow,
+  resolveFallbackModel,
+  resolveResumeThresholds,
+  resolveSubagentModel,
+  resolveSubagentSpawnDepth,
+  resolveToolTimeout,
+  resolveWorkerModel,
+} from "akasha/agents/seats/supervisors/account/modules/supervisor-account-config/supervisor-account-config.module.code.ts"
 import { materializeBootPrompt } from "akasha/agents/seats/supervisors/boot/modules/supervisor-boot-prompt/supervisor-boot-prompt.module.code.ts"
 import { stage } from "akasha/agents/seats/supervisors/boot/modules/supervisor-boot-stage/supervisor-boot-stage.module.code.ts"
 import type {
@@ -14,16 +24,6 @@ import {
   resolveSubagentDefinitions,
 } from "akasha/agents/seats/supervisors/child/modules/supervisor-spawn-agents/supervisor-spawn-agents.module.code.ts"
 import { materializeSpawnSettings } from "akasha/agents/seats/supervisors/child/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
-import {
-  resolveAgentEffortLevel,
-  resolveAutoCompactWindow,
-  resolveFallbackModel,
-  resolveResumeThresholds,
-  resolveSubagentModel,
-  resolveSubagentSpawnDepth,
-  resolveToolTimeout,
-  resolveWorkerModel,
-} from "akasha/agents/seats/supervisors/modules/supervisor-account-config/supervisor-account-config.module.code.ts"
 import type { CarriedAgentName } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
 import type { ClearRebindDeps } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
 import type { SeatResume } from "akasha/agents/seats/supervisors/process/modules/supervisor-args/supervisor-args.module.code.ts"

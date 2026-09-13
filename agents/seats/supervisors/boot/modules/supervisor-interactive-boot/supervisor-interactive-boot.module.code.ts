@@ -8,6 +8,7 @@ import {
   SUPERVISOR_HANDOFF_ENV_KEYS,
 } from "akasha/agents/seats/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
 import { setProxyOwnerAgentIdForSelfHeal } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
+import { selectAccountAndWriteCredential } from "akasha/agents/seats/supervisors/account/modules/supervisor-agent/supervisor-agent.module.code.ts"
 import { claimSeatSupervision } from "akasha/agents/seats/supervisors/boot/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
 import type {
   InteractiveBootArgs,
@@ -28,7 +29,6 @@ import {
   AGENT_MODE_INTERACTIVE,
   stateSeatDefaults,
 } from "akasha/agents/seats/supervisors/child/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"
-import { selectAccountAndWriteCredential } from "akasha/agents/seats/supervisors/modules/supervisor-agent/supervisor-agent.module.code.ts"
 import {
   configDirForAccount,
   LOG,

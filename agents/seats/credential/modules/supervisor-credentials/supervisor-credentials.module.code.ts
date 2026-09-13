@@ -21,8 +21,8 @@ import {
   type SupervisorOAuthProxyHandle,
   spawnOrAdoptOAuthProxy,
 } from "akasha/agents/seats/oauth-proxy/modules/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
+import { writePacingSnapshot } from "akasha/agents/seats/supervisors/account/modules/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"
 import { guardTick } from "akasha/agents/seats/supervisors/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
-import { writePacingSnapshot } from "akasha/agents/seats/supervisors/modules/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"
 import {
   configDirForAccount,
   LOG,

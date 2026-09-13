@@ -4,14 +4,14 @@ import {
   refuseMissingCwd,
 } from "akasha/agents/claude-code/modules/claude-launch-args/claude-launch-args.module.code.ts"
 import type { SupervisorHandoff } from "akasha/agents/seats/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
-import type { ChildExitStatus } from "akasha/agents/seats/supervisors/child/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
-import type { ChildExitRuleSource } from "akasha/agents/seats/supervisors/child/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
-import { buildSupervisorEnv } from "akasha/agents/seats/supervisors/child/modules/supervisor-env/supervisor-env.module.code.ts"
 import {
   CLAUDE_CONFIG_PATH,
   readClaudeConfigDeclaration,
   reconcileClaudeConfig,
-} from "akasha/agents/seats/supervisors/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"
+} from "akasha/agents/seats/supervisors/account/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"
+import type { ChildExitStatus } from "akasha/agents/seats/supervisors/child/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+import type { ChildExitRuleSource } from "akasha/agents/seats/supervisors/child/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+import { buildSupervisorEnv } from "akasha/agents/seats/supervisors/child/modules/supervisor-env/supervisor-env.module.code.ts"
 import { resolveRemoteControlEnv } from "akasha/agents/seats/supervisors/modules/supervisor-remote-control-env/supervisor-remote-control-env.module.code.ts"
 import {
   HOME_DIR,
