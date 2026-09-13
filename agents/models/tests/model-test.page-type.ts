@@ -7,6 +7,7 @@ export const modelTest = {
   definition: "a prompt and the labelled cases that say whether it works",
   pluralSlug: "model-tests",
   parts: [
+    "file-property/positives",
     "model-test/directive-kept",
     "model-test/directives-kept",
     "model-test/no-commentary-kept",
@@ -30,6 +31,13 @@ export const modelTest = {
     { pageProperty: "relation-property/model-family", required: true, many: false },
     { pageProperty: "text-property/prompt", required: true, many: false },
     { pageProperty: "page-property-entry/cases", required: false, many: false },
+    {
+      pageProperty: "file-property/positives",
+      required: false,
+      many: false,
+      uncommitted: true,
+      default: "jsonl",
+    },
   ],
   invariants: [
     {
