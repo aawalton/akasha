@@ -15,25 +15,8 @@ const PLAYER_ARMOR_TRAIT_ESO_ID_TO_INDEX: Record<number, number> = {
   [ITEM_TRAIT_TYPE_ARMOR_ORNATE]: 10,
   [ITEM_TRAIT_TYPE_ARMOR_INTRICATE]: 11,
 }
-const PLAYER_ARMOR_TRAIT_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
-  [ITEM_TRAIT_TYPE_NONE]: "no-trait",
-  [ITEM_TRAIT_TYPE_ARMOR_DIVINES]: "divines",
-  [ITEM_TRAIT_TYPE_ARMOR_IMPENETRABLE]: "impenetrable",
-  [ITEM_TRAIT_TYPE_ARMOR_INFUSED]: "infused",
-  [ITEM_TRAIT_TYPE_ARMOR_PROLIFIC]: "invigorating",
-  [ITEM_TRAIT_TYPE_ARMOR_NIRNHONED]: "nirnhoned",
-  [ITEM_TRAIT_TYPE_ARMOR_REINFORCED]: "reinforced",
-  [ITEM_TRAIT_TYPE_ARMOR_STURDY]: "sturdy",
-  [ITEM_TRAIT_TYPE_ARMOR_TRAINING]: "training",
-  [ITEM_TRAIT_TYPE_ARMOR_WELL_FITTED]: "well-fitted",
-  [ITEM_TRAIT_TYPE_ARMOR_ORNATE]: "ornate",
-  [ITEM_TRAIT_TYPE_ARMOR_INTRICATE]: "intricate",
-}
 export function getPlayerArmorTraitIndex(esoId: number): number {
   return PLAYER_ARMOR_TRAIT_ESO_ID_TO_INDEX[esoId] ?? 0
-}
-export function getPlayerArmorTraitTemperId(esoId: number): string {
-  return PLAYER_ARMOR_TRAIT_ESO_ID_TO_TEMPER_ID[esoId] ?? "no-trait"
 }
 
 const PLAYER_WEAPON_TRAIT_ESO_ID_TO_INDEX: Record<number, number> = {
@@ -50,25 +33,8 @@ const PLAYER_WEAPON_TRAIT_ESO_ID_TO_INDEX: Record<number, number> = {
   [ITEM_TRAIT_TYPE_WEAPON_ORNATE]: 10,
   [ITEM_TRAIT_TYPE_WEAPON_INTRICATE]: 11,
 }
-const PLAYER_WEAPON_TRAIT_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
-  [ITEM_TRAIT_TYPE_NONE]: "no-trait",
-  [ITEM_TRAIT_TYPE_WEAPON_CHARGED]: "charged",
-  [ITEM_TRAIT_TYPE_WEAPON_DECISIVE]: "decisive",
-  [ITEM_TRAIT_TYPE_WEAPON_DEFENDING]: "defending",
-  [ITEM_TRAIT_TYPE_WEAPON_INFUSED]: "infused",
-  [ITEM_TRAIT_TYPE_WEAPON_NIRNHONED]: "nirnhoned",
-  [ITEM_TRAIT_TYPE_WEAPON_POWERED]: "powered",
-  [ITEM_TRAIT_TYPE_WEAPON_PRECISE]: "precise",
-  [ITEM_TRAIT_TYPE_WEAPON_SHARPENED]: "sharpened",
-  [ITEM_TRAIT_TYPE_WEAPON_TRAINING]: "training",
-  [ITEM_TRAIT_TYPE_WEAPON_ORNATE]: "ornate",
-  [ITEM_TRAIT_TYPE_WEAPON_INTRICATE]: "intricate",
-}
 export function getPlayerWeaponTraitIndex(esoId: number): number {
   return PLAYER_WEAPON_TRAIT_ESO_ID_TO_INDEX[esoId] ?? 0
-}
-export function getPlayerWeaponTraitTemperId(esoId: number): string {
-  return PLAYER_WEAPON_TRAIT_ESO_ID_TO_TEMPER_ID[esoId] ?? "no-trait"
 }
 
 const PLAYER_JEWELRY_TRAIT_ESO_ID_TO_INDEX: Record<number, number> = {
@@ -85,25 +51,8 @@ const PLAYER_JEWELRY_TRAIT_ESO_ID_TO_INDEX: Record<number, number> = {
   [ITEM_TRAIT_TYPE_JEWELRY_ORNATE]: 10,
   [ITEM_TRAIT_TYPE_JEWELRY_INTRICATE]: 11,
 }
-const PLAYER_JEWELRY_TRAIT_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
-  [ITEM_TRAIT_TYPE_NONE]: "no-trait",
-  [ITEM_TRAIT_TYPE_JEWELRY_ARCANE]: "arcane",
-  [ITEM_TRAIT_TYPE_JEWELRY_BLOODTHIRSTY]: "bloodthirsty",
-  [ITEM_TRAIT_TYPE_JEWELRY_HARMONY]: "harmony",
-  [ITEM_TRAIT_TYPE_JEWELRY_HEALTHY]: "healthy",
-  [ITEM_TRAIT_TYPE_JEWELRY_INFUSED]: "infused",
-  [ITEM_TRAIT_TYPE_JEWELRY_PROTECTIVE]: "protective",
-  [ITEM_TRAIT_TYPE_JEWELRY_ROBUST]: "robust",
-  [ITEM_TRAIT_TYPE_JEWELRY_SWIFT]: "swift",
-  [ITEM_TRAIT_TYPE_JEWELRY_TRIUNE]: "triune",
-  [ITEM_TRAIT_TYPE_JEWELRY_ORNATE]: "ornate",
-  [ITEM_TRAIT_TYPE_JEWELRY_INTRICATE]: "intricate",
-}
 export function getPlayerJewelryTraitIndex(esoId: number): number {
   return PLAYER_JEWELRY_TRAIT_ESO_ID_TO_INDEX[esoId] ?? 0
-}
-export function getPlayerJewelryTraitTemperId(esoId: number): string {
-  return PLAYER_JEWELRY_TRAIT_ESO_ID_TO_TEMPER_ID[esoId] ?? "no-trait"
 }
 
 const PLAYER_ARMOR_ENCHANT_ESO_ID_TO_INDEX: Record<number, number> = {
@@ -114,19 +63,8 @@ const PLAYER_ARMOR_ENCHANT_ESO_ID_TO_INDEX: Record<number, number> = {
   [ENCHANTMENT_SEARCH_CATEGORY_PRISMATIC_DEFENSE]: 4,
 }
 
-const PLAYER_ARMOR_ENCHANT_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
-  [ENCHANTMENT_SEARCH_CATEGORY_NONE]: "no-enchant",
-  [ENCHANTMENT_SEARCH_CATEGORY_HEALTH]: "health",
-  [ENCHANTMENT_SEARCH_CATEGORY_MAGICKA]: "magicka",
-  [ENCHANTMENT_SEARCH_CATEGORY_STAMINA]: "stamina",
-  [ENCHANTMENT_SEARCH_CATEGORY_PRISMATIC_DEFENSE]: "prismatic-defense",
-}
-
 export function getPlayerArmorEnchantIndex(esoId: number): number {
   return PLAYER_ARMOR_ENCHANT_ESO_ID_TO_INDEX[esoId] ?? 0
-}
-export function getPlayerArmorEnchantTemperId(esoId: number): string {
-  return PLAYER_ARMOR_ENCHANT_ESO_ID_TO_TEMPER_ID[esoId] ?? "no-enchant"
 }
 
 const PLAYER_WEAPON_ENCHANT_ESO_ID_TO_INDEX: Record<number, number> = {
@@ -146,28 +84,8 @@ const PLAYER_WEAPON_ENCHANT_ESO_ID_TO_INDEX: Record<number, number> = {
   [ENCHANTMENT_SEARCH_CATEGORY_BEFOULED_WEAPON]: 13,
   [ENCHANTMENT_SEARCH_CATEGORY_PRISMATIC_ONSLAUGHT]: 14,
 }
-const PLAYER_WEAPON_ENCHANT_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
-  [ENCHANTMENT_SEARCH_CATEGORY_NONE]: "no-enchant",
-  [ENCHANTMENT_SEARCH_CATEGORY_BERSERKER]: "weapon-damage",
-  [ENCHANTMENT_SEARCH_CATEGORY_ABSORB_HEALTH]: "absorb-health",
-  [ENCHANTMENT_SEARCH_CATEGORY_ABSORB_MAGICKA]: "absorb-magicka",
-  [ENCHANTMENT_SEARCH_CATEGORY_ABSORB_STAMINA]: "absorb-stamina",
-  [ENCHANTMENT_SEARCH_CATEGORY_REDUCE_ARMOR]: "crushing",
-  [ENCHANTMENT_SEARCH_CATEGORY_DAMAGE_HEALTH]: "decrease-health",
-  [ENCHANTMENT_SEARCH_CATEGORY_FIERY_WEAPON]: "flame",
-  [ENCHANTMENT_SEARCH_CATEGORY_FROZEN_WEAPON]: "frost",
-  [ENCHANTMENT_SEARCH_CATEGORY_CHARGED_WEAPON]: "shock",
-  [ENCHANTMENT_SEARCH_CATEGORY_POISONED_WEAPON]: "poison",
-  [ENCHANTMENT_SEARCH_CATEGORY_REDUCE_POWER]: "weakening",
-  [ENCHANTMENT_SEARCH_CATEGORY_DAMAGE_SHIELD]: "hardening",
-  [ENCHANTMENT_SEARCH_CATEGORY_BEFOULED_WEAPON]: "foulness",
-  [ENCHANTMENT_SEARCH_CATEGORY_PRISMATIC_ONSLAUGHT]: "prismatic-onslaught",
-}
 export function getPlayerWeaponEnchantIndex(esoId: number): number {
   return PLAYER_WEAPON_ENCHANT_ESO_ID_TO_INDEX[esoId] ?? 0
-}
-export function getPlayerWeaponEnchantTemperId(esoId: number): string {
-  return PLAYER_WEAPON_ENCHANT_ESO_ID_TO_TEMPER_ID[esoId] ?? "no-enchant"
 }
 
 const PLAYER_JEWELRY_ENCHANT_ESO_ID_TO_INDEX: Record<number, number> = {
@@ -193,34 +111,8 @@ const PLAYER_JEWELRY_ENCHANT_ESO_ID_TO_INDEX: Record<number, number> = {
   [ENCHANTMENT_SEARCH_CATEGORY_INCREASE_POTION_EFFECTIVENESS]: 19,
   [ENCHANTMENT_SEARCH_CATEGORY_REDUCE_POTION_COOLDOWN]: 20,
 }
-const PLAYER_JEWELRY_ENCHANT_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
-  [ENCHANTMENT_SEARCH_CATEGORY_NONE]: "no-enchant",
-  [ENCHANTMENT_SEARCH_CATEGORY_INCREASE_PHYSICAL_DAMAGE]: "increase-physical-harm",
-  [ENCHANTMENT_SEARCH_CATEGORY_INCREASE_SPELL_DAMAGE]: "increase-magical-harm",
-  [ENCHANTMENT_SEARCH_CATEGORY_MAGICKA_REGEN]: "magicka-recovery",
-  [ENCHANTMENT_SEARCH_CATEGORY_STAMINA_REGEN]: "stamina-recovery",
-  [ENCHANTMENT_SEARCH_CATEGORY_HEALTH_REGEN]: "health-recovery",
-  [ENCHANTMENT_SEARCH_CATEGORY_PRISMATIC_REGEN]: "prismatic-recovery",
-  [ENCHANTMENT_SEARCH_CATEGORY_REDUCE_SPELL_COST]: "reduce-spell-cost",
-  [ENCHANTMENT_SEARCH_CATEGORY_REDUCE_FEAT_COST]: "reduce-feat-cost",
-  [ENCHANTMENT_SEARCH_CATEGORY_REDUCE_POWER]: "reduce-skill-cost",
-  [ENCHANTMENT_SEARCH_CATEGORY_FIRE_RESISTANT]: "flame-resist",
-  [ENCHANTMENT_SEARCH_CATEGORY_FROST_RESISTANT]: "frost-resist",
-  [ENCHANTMENT_SEARCH_CATEGORY_SHOCK_RESISTANT]: "shock-resist",
-  [ENCHANTMENT_SEARCH_CATEGORY_POISON_RESISTANT]: "poison-resist",
-  [ENCHANTMENT_SEARCH_CATEGORY_DISEASE_RESISTANT]: "disease-resist",
-  [ENCHANTMENT_SEARCH_CATEGORY_DECREASE_PHYSICAL_DAMAGE]: "decrease-physical-harm",
-  [ENCHANTMENT_SEARCH_CATEGORY_DECREASE_SPELL_DAMAGE]: "decrease-spell-harm",
-  [ENCHANTMENT_SEARCH_CATEGORY_INCREASE_BASH_DAMAGE]: "bashing",
-  [ENCHANTMENT_SEARCH_CATEGORY_REDUCE_BLOCK_AND_BASH]: "bracing",
-  [ENCHANTMENT_SEARCH_CATEGORY_INCREASE_POTION_EFFECTIVENESS]: "potion-boost",
-  [ENCHANTMENT_SEARCH_CATEGORY_REDUCE_POTION_COOLDOWN]: "potion-speed",
-}
 export function getPlayerJewelryEnchantIndex(esoId: number): number {
   return PLAYER_JEWELRY_ENCHANT_ESO_ID_TO_INDEX[esoId] ?? 0
-}
-export function getPlayerJewelryEnchantTemperId(esoId: number): string {
-  return PLAYER_JEWELRY_ENCHANT_ESO_ID_TO_TEMPER_ID[esoId] ?? "no-enchant"
 }
 
 const PLAYER_WEAPON_TYPE_ESO_ID_TO_INDEX: Record<number, number> = {
@@ -238,24 +130,6 @@ const PLAYER_WEAPON_TYPE_ESO_ID_TO_INDEX: Record<number, number> = {
   [WEAPONTYPE_HEALING_STAFF]: 11,
   [WEAPONTYPE_SWORD]: 12,
 }
-const PLAYER_WEAPON_TYPE_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
-  [WEAPONTYPE_AXE]: "axe",
-  [WEAPONTYPE_TWO_HANDED_AXE]: "battleaxe",
-  [WEAPONTYPE_BOW]: "bow",
-  [WEAPONTYPE_DAGGER]: "dagger",
-  [WEAPONTYPE_TWO_HANDED_SWORD]: "greatsword",
-  [WEAPONTYPE_FROST_STAFF]: "ice-staff",
-  [WEAPONTYPE_FIRE_STAFF]: "inferno-staff",
-  [WEAPONTYPE_LIGHTNING_STAFF]: "lightning-staff",
-  [WEAPONTYPE_HAMMER]: "mace",
-  [WEAPONTYPE_TWO_HANDED_HAMMER]: "maul",
-  [WEAPONTYPE_NONE]: "no-type",
-  [WEAPONTYPE_HEALING_STAFF]: "restoration-staff",
-  [WEAPONTYPE_SWORD]: "sword",
-}
 export function getPlayerWeaponTypeIndex(esoId: number): number {
   return PLAYER_WEAPON_TYPE_ESO_ID_TO_INDEX[esoId] ?? 0
-}
-export function getPlayerWeaponTypeTemperId(esoId: number): string {
-  return PLAYER_WEAPON_TYPE_ESO_ID_TO_TEMPER_ID[esoId] ?? "no-type"
 }
