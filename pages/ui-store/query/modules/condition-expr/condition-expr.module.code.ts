@@ -16,6 +16,7 @@ import {
   isPromotedKey,
   PROMOTED_COLUMN,
 } from "akasha/pages/access/modules/routing-core/routing-core.module.code.ts"
+import { isPropertyPath } from "akasha/pages/core/filter/modules/property-path/property-path.module.code.ts"
 import type { PageConditionLike } from "akasha/pages/ui-store/sql/modules/options/options.module.code.ts"
 import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
 
@@ -63,6 +64,7 @@ export function conditionToExpr(cond: PageConditionLike, alias = "p"): BoolExpr 
     if (first === undefined) throw new Error("conditionToExpr: empty 'or' disjunction")
     return rest.reduce<BoolExpr>((acc, e) => or(acc, e), first)
   }
+  if (isPropertyPath(cond.key)) return null
   if ("eq" in cond) {
     return eq(propRef(pathFor(alias, cond.key)), lit(cond.eq))
   }

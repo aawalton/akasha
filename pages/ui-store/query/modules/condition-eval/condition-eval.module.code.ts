@@ -2,9 +2,14 @@ import {
   isPromotedKey,
   PROMOTED_COLUMN,
 } from "akasha/pages/access/modules/routing-core/routing-core.module.code.ts"
+import {
+  isPropertyPath,
+  reachedIn,
+} from "akasha/pages/core/filter/modules/property-path/property-path.module.code.ts"
 import { pageHasNonEmptyContentKey } from "akasha/pages/core/schema/modules/content-tier/content-tier.module.code.ts"
 import {
   asPageRecord,
+  asPageRow,
   asRecord,
   attributesOf,
   type PageRow,
@@ -14,6 +19,16 @@ import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-nev
 import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
 
 const MISSING = Symbol("missing")
+
+const AT_THE_PATH = "value-at-the-path"
+
+function asCondition(value: Record<string, unknown>): PageConditionLike {
+  return value as PageConditionLike
+}
+
+function rowHolding(row: PageRow, held: unknown): PageRow {
+  return asPageRow({ ...asPageRecord(row), attributes: { [AT_THE_PATH]: held } })
+}
 
 function promotedValue(row: PageRow, key: string): unknown {
   if (!isPromotedKey(key)) return MISSING
@@ -92,6 +107,12 @@ export function conditionMatches(cond: PageConditionLike, row: PageRow): boolean
       throw new Error("conditionMatches: empty 'or' disjunction is not supported")
     }
     return cond.or.some((c) => conditionMatches(c, row))
+  }
+  if (isPropertyPath(cond.key)) {
+    const reached = reachedIn(attributesOf(row), cond.key)
+    const held = reached.length === 0 ? [null] : reached
+    const at = asCondition({ ...asRecord(cond), key: AT_THE_PATH })
+    return held.some((one) => conditionMatches(at, rowHolding(row, one)))
   }
   if ("eq" in cond) {
     const promoted = promotedValue(row, cond.key)
