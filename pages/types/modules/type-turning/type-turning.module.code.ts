@@ -9,7 +9,7 @@ import {
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
-import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { besideAt, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 const HOLDS = "ts"
 
@@ -26,10 +26,16 @@ function generatedReader(facing: Facing, reading: Reading, path: string): boolea
   return false
 }
 
+function generatedBeside(facing: Facing, path: string): boolean {
+  const at = besideAt(path, TYPES, HOLDS)
+  return at !== null && generatedIn(facing, at)
+}
+
 function readByGenerated(root: string, paths: readonly string[]): boolean {
   const reading = readingIn(root)
   const facing = facingOn(reading)
   for (const path of paths) {
+    if (generatedBeside(facing, path)) return true
     if (generatedReader(facing, reading, path)) return true
   }
   return false

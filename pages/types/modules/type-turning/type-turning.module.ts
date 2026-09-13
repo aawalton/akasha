@@ -27,6 +27,10 @@ export const typeTurning = {
     },
     {
       invariantKind: "departure",
+      statement: "A change naming a page a generated type sits beside could turn a type.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A path a generated body imports could turn a type whether the change writes or takes it.",
     },

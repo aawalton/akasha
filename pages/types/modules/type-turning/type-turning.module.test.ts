@@ -121,6 +121,14 @@ test("a path a generated body imports, left with no body, could turn a type", ()
   expect(turnedBy(leaving(rootWhereTypesAreGenerated(A_GENERATED_BODY), null))).toBe(true)
 })
 
+test("a change naming a page a generated type sits beside could turn a type", () => {
+  const root = rootWhereTypesAreGenerated(AN_AUTHORED_BODY)
+
+  expect(turnedBy({ root, changed: [A_THING_AT], before: () => null, after: () => null })).toBe(
+    true
+  )
+})
+
 test("a path only an authored body imports could turn nothing", () => {
   expect(turnedBy(leaving(rootWhereTypesAreGenerated(AN_AUTHORED_BODY), null))).toBe(false)
 })
