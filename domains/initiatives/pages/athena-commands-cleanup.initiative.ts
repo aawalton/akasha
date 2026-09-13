@@ -9,7 +9,6 @@ export const athenaCommandsCleanup = {
   intents: [],
   constraints: [
     "Every landing in this repository runs through the command system, so a fault landed here stops every agent at once.",
-    "An intent whose next move is unclear has that question written into its working memory, and the work goes on.",
     "The work goes on until every intent left on a child initiative is blocked on Alan.",
     "A subagent lands its own change, and the coordinating seat keeps the child pages.",
     "A spelling two arguments share is settled by Alan rather than by whichever agent lands on it first.",
