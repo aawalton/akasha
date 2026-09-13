@@ -12,6 +12,11 @@ export const clairoSexyToSomeone = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-05-23",
-  externalId: "281y6GLUpFfmSyBO7JMLfU",
-  externalLink: "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "281y6GLUpFfmSyBO7JMLfU",
+      externalLink: "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const clairoCloserToYou = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-06-26",
-  externalId: "08cNjr1Fd1HqZE4m2ylB2p",
-  externalLink: "https://open.spotify.com/album/08cNjr1Fd1HqZE4m2ylB2p",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "08cNjr1Fd1HqZE4m2ylB2p",
+      externalLink: "https://open.spotify.com/album/08cNjr1Fd1HqZE4m2ylB2p",
+    },
+  ],
 } as const satisfies Release

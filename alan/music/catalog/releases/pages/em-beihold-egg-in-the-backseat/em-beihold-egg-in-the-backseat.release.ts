@@ -13,6 +13,11 @@ export const emBeiholdEggInTheBackseat = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-07-22",
-  externalId: "1iHhuUxL99xxbDjlLwHV8W",
-  externalLink: "https://open.spotify.com/album/1iHhuUxL99xxbDjlLwHV8W",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1iHhuUxL99xxbDjlLwHV8W",
+      externalLink: "https://open.spotify.com/album/1iHhuUxL99xxbDjlLwHV8W",
+    },
+  ],
 } as const satisfies Release

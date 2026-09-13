@@ -12,7 +12,12 @@ export const ellaHendersonLetSGoHomeTogetherCharlieHedgesEddieCraigExtendedRemix
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-09",
-  externalId: "5efsif0EADLalqRsHLj0Jz",
-  externalLink: "https://open.spotify.com/album/5efsif0EADLalqRsHLj0Jz",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5efsif0EADLalqRsHLj0Jz",
+      externalLink: "https://open.spotify.com/album/5efsif0EADLalqRsHLj0Jz",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

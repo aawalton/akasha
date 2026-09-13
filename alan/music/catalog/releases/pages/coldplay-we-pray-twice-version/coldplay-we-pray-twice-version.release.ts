@@ -12,6 +12,11 @@ export const coldplayWePrayTwiceVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-04-17",
-  externalId: "0QOAUAUR20fpa2SK1J0yGy",
-  externalLink: "https://open.spotify.com/album/0QOAUAUR20fpa2SK1J0yGy",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0QOAUAUR20fpa2SK1J0yGy",
+      externalLink: "https://open.spotify.com/album/0QOAUAUR20fpa2SK1J0yGy",
+    },
+  ],
 } as const satisfies Release

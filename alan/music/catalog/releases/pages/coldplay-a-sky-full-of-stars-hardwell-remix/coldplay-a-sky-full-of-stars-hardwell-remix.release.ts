@@ -12,6 +12,11 @@ export const coldplayASkyFullOfStarsHardwellRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-12-01",
-  externalId: "0CvMcLab5Xb0KL7gsQfhhv",
-  externalLink: "https://open.spotify.com/album/0CvMcLab5Xb0KL7gsQfhhv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0CvMcLab5Xb0KL7gsQfhhv",
+      externalLink: "https://open.spotify.com/album/0CvMcLab5Xb0KL7gsQfhhv",
+    },
+  ],
 } as const satisfies Release

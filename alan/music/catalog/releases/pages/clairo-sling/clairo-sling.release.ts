@@ -12,6 +12,11 @@ export const clairoSling = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-07-16",
-  externalId: "32ium7Cxb1Xwp2MLzH2459",
-  externalLink: "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "32ium7Cxb1Xwp2MLzH2459",
+      externalLink: "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459",
+    },
+  ],
 } as const satisfies Release

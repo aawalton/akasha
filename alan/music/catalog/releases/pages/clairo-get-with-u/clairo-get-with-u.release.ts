@@ -13,6 +13,11 @@ export const clairoGetWithU = {
   status: "completed",
   rank: "D",
   publishedAt: "2017-04-15",
-  externalId: "5y7QSRmltWRcrT6AnAtitI",
-  externalLink: "https://open.spotify.com/album/5y7QSRmltWRcrT6AnAtitI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5y7QSRmltWRcrT6AnAtitI",
+      externalLink: "https://open.spotify.com/album/5y7QSRmltWRcrT6AnAtitI",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const clairoDiary001 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-05-25",
-  externalId: "4LD79sp9RPrgjeVpmmtf3S",
-  externalLink: "https://open.spotify.com/album/4LD79sp9RPrgjeVpmmtf3S",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4LD79sp9RPrgjeVpmmtf3S",
+      externalLink: "https://open.spotify.com/album/4LD79sp9RPrgjeVpmmtf3S",
+    },
+  ],
 } as const satisfies Release

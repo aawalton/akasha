@@ -12,7 +12,12 @@ export const ellaHendersonDreamOnMeStripped = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-13",
-  externalId: "74p1PeahdTavbtYM1CzCMs",
-  externalLink: "https://open.spotify.com/album/74p1PeahdTavbtYM1CzCMs",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "74p1PeahdTavbtYM1CzCMs",
+      externalLink: "https://open.spotify.com/album/74p1PeahdTavbtYM1CzCMs",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

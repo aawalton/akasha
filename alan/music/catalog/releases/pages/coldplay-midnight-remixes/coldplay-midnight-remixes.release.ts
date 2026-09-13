@@ -12,6 +12,11 @@ export const coldplayMidnightRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-05-12",
-  externalId: "0nh0bp0UH6N9mxlRRZhn3O",
-  externalLink: "https://open.spotify.com/album/0nh0bp0UH6N9mxlRRZhn3O",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0nh0bp0UH6N9mxlRRZhn3O",
+      externalLink: "https://open.spotify.com/album/0nh0bp0UH6N9mxlRRZhn3O",
+    },
+  ],
 } as const satisfies Release

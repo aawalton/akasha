@@ -12,7 +12,12 @@ export const ellaHendersonAlibiLiveAcousticVersion = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-02-09",
-  externalId: "4508odBEojE3ak0ADZRoKy",
-  externalLink: "https://open.spotify.com/album/4508odBEojE3ak0ADZRoKy",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4508odBEojE3ak0ADZRoKy",
+      externalLink: "https://open.spotify.com/album/4508odBEojE3ak0ADZRoKy",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

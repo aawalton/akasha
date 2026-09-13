@@ -12,6 +12,11 @@ export const coldplayLetSomebodyGoOfenbachRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-04-15",
-  externalId: "7lbSZjlBsWuXtR3WqsdOSN",
-  externalLink: "https://open.spotify.com/album/7lbSZjlBsWuXtR3WqsdOSN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7lbSZjlBsWuXtR3WqsdOSN",
+      externalLink: "https://open.spotify.com/album/7lbSZjlBsWuXtR3WqsdOSN",
+    },
+  ],
 } as const satisfies Release

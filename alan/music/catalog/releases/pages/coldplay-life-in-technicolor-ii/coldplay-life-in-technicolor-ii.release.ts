@@ -12,6 +12,11 @@ export const coldplayLifeInTechnicolorIi = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2009-01-30",
-  externalId: "0He4NsgYFCODLfBKH0y3ln",
-  externalLink: "https://open.spotify.com/album/0He4NsgYFCODLfBKH0y3ln",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0He4NsgYFCODLfBKH0y3ln",
+      externalLink: "https://open.spotify.com/album/0He4NsgYFCODLfBKH0y3ln",
+    },
+  ],
 } as const satisfies Release

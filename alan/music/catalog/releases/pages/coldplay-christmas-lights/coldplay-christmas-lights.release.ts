@@ -12,6 +12,11 @@ export const coldplayChristmasLights = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2010-12-01",
-  externalId: "06CvxUVwS8h2aJYcCtApgy",
-  externalLink: "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "06CvxUVwS8h2aJYcCtApgy",
+      externalLink: "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy",
+    },
+  ],
 } as const satisfies Release

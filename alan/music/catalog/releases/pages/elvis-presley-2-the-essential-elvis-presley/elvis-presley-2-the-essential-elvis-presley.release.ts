@@ -12,6 +12,11 @@ export const elvisPresley2TheEssentialElvisPresley = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2007-01-01",
-  externalId: "3X3rFfVKCW58sKMO0UXkwO",
-  externalLink: "https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3X3rFfVKCW58sKMO0UXkwO",
+      externalLink: "https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO",
+    },
+  ],
 } as const satisfies Release

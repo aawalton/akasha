@@ -12,6 +12,11 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriends = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-06-06",
-  externalId: "1CEODgTmTwLyabvwd7HBty",
-  externalLink: "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1CEODgTmTwLyabvwd7HBty",
+      externalLink: "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty",
+    },
+  ],
 } as const satisfies Release

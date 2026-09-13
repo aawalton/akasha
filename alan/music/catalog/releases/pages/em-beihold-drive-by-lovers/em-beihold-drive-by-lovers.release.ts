@@ -13,6 +13,11 @@ export const emBeiholdDriveByLovers = {
   status: "completed",
   rank: "B",
   publishedAt: "2021-01-29",
-  externalId: "6QPKDiPisHERDdzj3Pj0tR",
-  externalLink: "https://open.spotify.com/album/6QPKDiPisHERDdzj3Pj0tR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6QPKDiPisHERDdzj3Pj0tR",
+      externalLink: "https://open.spotify.com/album/6QPKDiPisHERDdzj3Pj0tR",
+    },
+  ],
 } as const satisfies Release

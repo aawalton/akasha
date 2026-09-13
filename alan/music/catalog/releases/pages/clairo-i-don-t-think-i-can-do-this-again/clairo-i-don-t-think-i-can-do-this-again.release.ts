@@ -12,6 +12,11 @@ export const clairoIDonTThinkICanDoThisAgain = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-08-21",
-  externalId: "2PMTYwJd3ui0erw8OJMvC4",
-  externalLink: "https://open.spotify.com/album/2PMTYwJd3ui0erw8OJMvC4",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2PMTYwJd3ui0erw8OJMvC4",
+      externalLink: "https://open.spotify.com/album/2PMTYwJd3ui0erw8OJMvC4",
+    },
+  ],
 } as const satisfies Release

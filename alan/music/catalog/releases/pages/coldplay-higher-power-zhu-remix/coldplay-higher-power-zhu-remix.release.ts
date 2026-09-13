@@ -12,6 +12,11 @@ export const coldplayHigherPowerZhuRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-05-20",
-  externalId: "0kqW9S1stTTI6dsC6JztJf",
-  externalLink: "https://open.spotify.com/album/0kqW9S1stTTI6dsC6JztJf",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0kqW9S1stTTI6dsC6JztJf",
+      externalLink: "https://open.spotify.com/album/0kqW9S1stTTI6dsC6JztJf",
+    },
+  ],
 } as const satisfies Release

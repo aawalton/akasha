@@ -12,6 +12,11 @@ export const coldplayBiutyful = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-06",
-  externalId: "574iaZA34RiT9rM1F2s2IM",
-  externalLink: "https://open.spotify.com/album/574iaZA34RiT9rM1F2s2IM",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "574iaZA34RiT9rM1F2s2IM",
+      externalLink: "https://open.spotify.com/album/574iaZA34RiT9rM1F2s2IM",
+    },
+  ],
 } as const satisfies Release

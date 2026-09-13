@@ -12,7 +12,12 @@ export const ellaHendersonOnSeComprendSansParlerLetSGoHomeTogether = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-05-21",
-  externalId: "2RxT1X0QkEIzHsxnAZ0VJl",
-  externalLink: "https://open.spotify.com/album/2RxT1X0QkEIzHsxnAZ0VJl",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2RxT1X0QkEIzHsxnAZ0VJl",
+      externalLink: "https://open.spotify.com/album/2RxT1X0QkEIzHsxnAZ0VJl",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

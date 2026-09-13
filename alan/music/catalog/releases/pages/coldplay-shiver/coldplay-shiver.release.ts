@@ -12,6 +12,11 @@ export const coldplayShiver = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2000-03-06",
-  externalId: "2rd83EFsdLMTyrgVizvpxX",
-  externalLink: "https://open.spotify.com/album/2rd83EFsdLMTyrgVizvpxX",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2rd83EFsdLMTyrgVizvpxX",
+      externalLink: "https://open.spotify.com/album/2rd83EFsdLMTyrgVizvpxX",
+    },
+  ],
 } as const satisfies Release

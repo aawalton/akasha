@@ -12,6 +12,11 @@ export const elvisPresley2HowGreatThouArt = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1967-02-01",
-  externalId: "7N1t7WzloZyMj95jk6CSCt",
-  externalLink: "https://open.spotify.com/album/7N1t7WzloZyMj95jk6CSCt",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7N1t7WzloZyMj95jk6CSCt",
+      externalLink: "https://open.spotify.com/album/7N1t7WzloZyMj95jk6CSCt",
+    },
+  ],
 } as const satisfies Release

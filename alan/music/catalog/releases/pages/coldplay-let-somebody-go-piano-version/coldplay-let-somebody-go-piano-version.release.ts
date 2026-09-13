@@ -12,6 +12,11 @@ export const coldplayLetSomebodyGoPianoVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-03-18",
-  externalId: "1mbwiDXEr8l6mK7o76dqyu",
-  externalLink: "https://open.spotify.com/album/1mbwiDXEr8l6mK7o76dqyu",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1mbwiDXEr8l6mK7o76dqyu",
+      externalLink: "https://open.spotify.com/album/1mbwiDXEr8l6mK7o76dqyu",
+    },
+  ],
 } as const satisfies Release

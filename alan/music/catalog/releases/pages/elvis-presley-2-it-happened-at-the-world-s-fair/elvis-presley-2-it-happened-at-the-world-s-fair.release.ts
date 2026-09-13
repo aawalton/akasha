@@ -12,6 +12,11 @@ export const elvisPresley2ItHappenedAtTheWorldSFair = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1963-03-15",
-  externalId: "13FZKAhL3sU3xOGUmAuSV9",
-  externalLink: "https://open.spotify.com/album/13FZKAhL3sU3xOGUmAuSV9",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "13FZKAhL3sU3xOGUmAuSV9",
+      externalLink: "https://open.spotify.com/album/13FZKAhL3sU3xOGUmAuSV9",
+    },
+  ],
 } as const satisfies Release

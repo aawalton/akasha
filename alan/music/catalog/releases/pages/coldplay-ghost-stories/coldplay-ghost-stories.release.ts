@@ -12,6 +12,11 @@ export const coldplayGhostStories = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-05-16",
-  externalId: "2G4AUqfwxcV1UdQjm2ouYr",
-  externalLink: "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2G4AUqfwxcV1UdQjm2ouYr",
+      externalLink: "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr",
+    },
+  ],
 } as const satisfies Release

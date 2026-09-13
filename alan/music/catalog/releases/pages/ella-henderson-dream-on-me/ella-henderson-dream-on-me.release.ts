@@ -12,7 +12,12 @@ export const ellaHendersonDreamOnMe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-02",
-  externalId: "6YR3EVz9Cd981Vss9jl3AN",
-  externalLink: "https://open.spotify.com/album/6YR3EVz9Cd981Vss9jl3AN",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6YR3EVz9Cd981Vss9jl3AN",
+      externalLink: "https://open.spotify.com/album/6YR3EVz9Cd981Vss9jl3AN",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

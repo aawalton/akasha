@@ -12,7 +12,12 @@ export const ellaHendersonIGoDancingFeatEllaHendersonJoelCorryRemix = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-03-03",
-  externalId: "5rOCUxXjUK0XnoNqBY17US",
-  externalLink: "https://open.spotify.com/album/5rOCUxXjUK0XnoNqBY17US",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5rOCUxXjUK0XnoNqBY17US",
+      externalLink: "https://open.spotify.com/album/5rOCUxXjUK0XnoNqBY17US",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

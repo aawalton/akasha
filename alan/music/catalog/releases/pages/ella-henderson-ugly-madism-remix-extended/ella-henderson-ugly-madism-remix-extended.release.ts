@@ -12,7 +12,12 @@ export const ellaHendersonUglyMadismRemixExtended = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-04-01",
-  externalId: "78qGqDhgEoKXeckXx89Hwb",
-  externalLink: "https://open.spotify.com/album/78qGqDhgEoKXeckXx89Hwb",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "78qGqDhgEoKXeckXx89Hwb",
+      externalLink: "https://open.spotify.com/album/78qGqDhgEoKXeckXx89Hwb",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

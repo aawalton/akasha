@@ -12,6 +12,11 @@ export const coldplayAHeadFullOfDreams = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-12-04",
-  externalId: "3cfAM8b8KqJRoIzt3zLKqw",
-  externalLink: "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3cfAM8b8KqJRoIzt3zLKqw",
+      externalLink: "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw",
+    },
+  ],
 } as const satisfies Release

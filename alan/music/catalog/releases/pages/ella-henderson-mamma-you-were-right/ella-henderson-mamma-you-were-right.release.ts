@@ -12,7 +12,12 @@ export const ellaHendersonMammaYouWereRight = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-03-08",
-  externalId: "68M4jklzOpy5sSOtfL7Xxj",
-  externalLink: "https://open.spotify.com/album/68M4jklzOpy5sSOtfL7Xxj",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "68M4jklzOpy5sSOtfL7Xxj",
+      externalLink: "https://open.spotify.com/album/68M4jklzOpy5sSOtfL7Xxj",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

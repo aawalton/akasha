@@ -12,7 +12,12 @@ export const ellaHendersonGlorious = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-08",
-  externalId: "4vzUW9Ehl9eFz59bvzazJ0",
-  externalLink: "https://open.spotify.com/album/4vzUW9Ehl9eFz59bvzazJ0",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4vzUW9Ehl9eFz59bvzazJ0",
+      externalLink: "https://open.spotify.com/album/4vzUW9Ehl9eFz59bvzazJ0",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

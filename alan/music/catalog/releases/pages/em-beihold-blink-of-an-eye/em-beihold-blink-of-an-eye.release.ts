@@ -13,6 +13,11 @@ export const emBeiholdBlinkOfAnEye = {
   status: "completed",
   rank: "B",
   publishedAt: "2019-05-17",
-  externalId: "6j83vg2XVpVBE9Ys89s3gy",
-  externalLink: "https://open.spotify.com/album/6j83vg2XVpVBE9Ys89s3gy",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6j83vg2XVpVBE9Ys89s3gy",
+      externalLink: "https://open.spotify.com/album/6j83vg2XVpVBE9Ys89s3gy",
+    },
+  ],
 } as const satisfies Release

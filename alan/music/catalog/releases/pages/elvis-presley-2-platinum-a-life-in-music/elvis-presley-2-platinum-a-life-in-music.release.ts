@@ -12,6 +12,11 @@ export const elvisPresley2PlatinumALifeInMusic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1997-07-15",
-  externalId: "0gv5aiVS1WBUZOKeb7YawE",
-  externalLink: "https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0gv5aiVS1WBUZOKeb7YawE",
+      externalLink: "https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE",
+    },
+  ],
 } as const satisfies Release

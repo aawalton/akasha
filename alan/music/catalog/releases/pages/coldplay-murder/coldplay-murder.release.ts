@@ -12,6 +12,11 @@ export const coldplayMurder = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2003-01-01",
-  externalId: "67eXmDByt2bonypIe2vJsN",
-  externalLink: "https://open.spotify.com/album/67eXmDByt2bonypIe2vJsN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "67eXmDByt2bonypIe2vJsN",
+      externalLink: "https://open.spotify.com/album/67eXmDByt2bonypIe2vJsN",
+    },
+  ],
 } as const satisfies Release

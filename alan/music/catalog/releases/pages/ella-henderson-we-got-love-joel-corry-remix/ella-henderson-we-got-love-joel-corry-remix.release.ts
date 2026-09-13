@@ -12,7 +12,12 @@ export const ellaHendersonWeGotLoveJoelCorryRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-12-13",
-  externalId: "5DT6VaKBkGR2KyQDgXEuom",
-  externalLink: "https://open.spotify.com/album/5DT6VaKBkGR2KyQDgXEuom",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5DT6VaKBkGR2KyQDgXEuom",
+      externalLink: "https://open.spotify.com/album/5DT6VaKBkGR2KyQDgXEuom",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

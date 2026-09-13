@@ -12,6 +12,11 @@ export const elvisPresley2ElvisAtStax = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-08-05",
-  externalId: "3EHxFLhmgSGEBmJ7tFXwRz",
-  externalLink: "https://open.spotify.com/album/3EHxFLhmgSGEBmJ7tFXwRz",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3EHxFLhmgSGEBmJ7tFXwRz",
+      externalLink: "https://open.spotify.com/album/3EHxFLhmgSGEBmJ7tFXwRz",
+    },
+  ],
 } as const satisfies Release

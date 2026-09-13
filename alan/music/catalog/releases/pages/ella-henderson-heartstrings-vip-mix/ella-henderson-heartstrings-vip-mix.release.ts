@@ -12,7 +12,12 @@ export const ellaHendersonHeartstringsVipMix = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-10-28",
-  externalId: "7E3SayHsbR7LjOTGXsTVnM",
-  externalLink: "https://open.spotify.com/album/7E3SayHsbR7LjOTGXsTVnM",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7E3SayHsbR7LjOTGXsTVnM",
+      externalLink: "https://open.spotify.com/album/7E3SayHsbR7LjOTGXsTVnM",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

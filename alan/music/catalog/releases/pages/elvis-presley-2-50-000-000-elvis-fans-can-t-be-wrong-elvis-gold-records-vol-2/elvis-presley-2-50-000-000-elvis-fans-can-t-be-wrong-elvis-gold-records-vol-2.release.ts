@@ -12,6 +12,11 @@ export const elvisPresley250000000ElvisFansCanTBeWrongElvisGoldRecordsVol2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1959-11-13",
-  externalId: "0s357yjkkRrf0KCXtnISGe",
-  externalLink: "https://open.spotify.com/album/0s357yjkkRrf0KCXtnISGe",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0s357yjkkRrf0KCXtnISGe",
+      externalLink: "https://open.spotify.com/album/0s357yjkkRrf0KCXtnISGe",
+    },
+  ],
 } as const satisfies Release

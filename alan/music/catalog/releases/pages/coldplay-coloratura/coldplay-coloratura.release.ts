@@ -12,6 +12,11 @@ export const coldplayColoratura = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-07-23",
-  externalId: "0G0WNcM706ASd6n7UxXuKu",
-  externalLink: "https://open.spotify.com/album/0G0WNcM706ASd6n7UxXuKu",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0G0WNcM706ASd6n7UxXuKu",
+      externalLink: "https://open.spotify.com/album/0G0WNcM706ASd6n7UxXuKu",
+    },
+  ],
 } as const satisfies Release

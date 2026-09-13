@@ -12,6 +12,11 @@ export const elvisPresley2PrinceFromAnotherPlanetLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-11-12",
-  externalId: "1GX2nOfzF9HpmuikfC7BrQ",
-  externalLink: "https://open.spotify.com/album/1GX2nOfzF9HpmuikfC7BrQ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1GX2nOfzF9HpmuikfC7BrQ",
+      externalLink: "https://open.spotify.com/album/1GX2nOfzF9HpmuikfC7BrQ",
+    },
+  ],
 } as const satisfies Release

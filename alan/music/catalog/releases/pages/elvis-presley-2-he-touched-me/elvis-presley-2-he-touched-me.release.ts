@@ -12,6 +12,11 @@ export const elvisPresley2HeTouchedMe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1972-04-03",
-  externalId: "4BcD1RBud4U2DAqByYFBi2",
-  externalLink: "https://open.spotify.com/album/4BcD1RBud4U2DAqByYFBi2",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4BcD1RBud4U2DAqByYFBi2",
+      externalLink: "https://open.spotify.com/album/4BcD1RBud4U2DAqByYFBi2",
+    },
+  ],
 } as const satisfies Release

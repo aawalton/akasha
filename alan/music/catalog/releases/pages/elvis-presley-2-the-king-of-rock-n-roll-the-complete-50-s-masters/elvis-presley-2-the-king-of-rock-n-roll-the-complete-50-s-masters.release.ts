@@ -12,6 +12,11 @@ export const elvisPresley2TheKingOfRockNRollTheComplete50SMasters = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1992-06-23",
-  externalId: "7xTRLTNmw8geW9MXaDfyqI",
-  externalLink: "https://open.spotify.com/album/7xTRLTNmw8geW9MXaDfyqI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7xTRLTNmw8geW9MXaDfyqI",
+      externalLink: "https://open.spotify.com/album/7xTRLTNmw8geW9MXaDfyqI",
+    },
+  ],
 } as const satisfies Release

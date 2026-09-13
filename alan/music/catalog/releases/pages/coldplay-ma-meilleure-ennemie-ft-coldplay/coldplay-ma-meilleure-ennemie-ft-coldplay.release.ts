@@ -12,6 +12,11 @@ export const coldplayMaMeilleureEnnemieFtColdplay = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-04-04",
-  externalId: "26yUJYL8DYzp2HunSKzmsG",
-  externalLink: "https://open.spotify.com/album/26yUJYL8DYzp2HunSKzmsG",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "26yUJYL8DYzp2HunSKzmsG",
+      externalLink: "https://open.spotify.com/album/26yUJYL8DYzp2HunSKzmsG",
+    },
+  ],
 } as const satisfies Release

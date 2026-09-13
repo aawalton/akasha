@@ -12,6 +12,11 @@ export const elvisPresley2ElvisCountry = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1971-01-02",
-  externalId: "5nFIESxbIeBxoREzNMzzbN",
-  externalLink: "https://open.spotify.com/album/5nFIESxbIeBxoREzNMzzbN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5nFIESxbIeBxoREzNMzzbN",
+      externalLink: "https://open.spotify.com/album/5nFIESxbIeBxoREzNMzzbN",
+    },
+  ],
 } as const satisfies Release

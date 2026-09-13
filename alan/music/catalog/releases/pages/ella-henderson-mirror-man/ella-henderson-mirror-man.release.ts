@@ -12,7 +12,12 @@ export const ellaHendersonMirrorMan = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-12-30",
-  externalId: "4ITGqq0PqvdCjnaylLyqLS",
-  externalLink: "https://open.spotify.com/album/4ITGqq0PqvdCjnaylLyqLS",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4ITGqq0PqvdCjnaylLyqLS",
+      externalLink: "https://open.spotify.com/album/4ITGqq0PqvdCjnaylLyqLS",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

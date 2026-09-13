@@ -12,7 +12,12 @@ export const ellaHendersonHurricane = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-09-17",
-  externalId: "06J9dABYtcM4blnT4cIpsS",
-  externalLink: "https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "06J9dABYtcM4blnT4cIpsS",
+      externalLink: "https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

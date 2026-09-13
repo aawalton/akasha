@@ -12,6 +12,11 @@ export const elvisPresley2ElvisInConcertLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1977-10-03",
-  externalId: "7GZErkhcfVoYBzOCjVeo1R",
-  externalLink: "https://open.spotify.com/album/7GZErkhcfVoYBzOCjVeo1R",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7GZErkhcfVoYBzOCjVeo1R",
+      externalLink: "https://open.spotify.com/album/7GZErkhcfVoYBzOCjVeo1R",
+    },
+  ],
 } as const satisfies Release

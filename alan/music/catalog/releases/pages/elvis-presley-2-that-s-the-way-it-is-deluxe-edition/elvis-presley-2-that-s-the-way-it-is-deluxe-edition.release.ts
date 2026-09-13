@@ -12,6 +12,11 @@ export const elvisPresley2ThatSTheWayItIsDeluxeEdition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1970-11-11",
-  externalId: "2J7LSpd6suKj8qd9MkjuGK",
-  externalLink: "https://open.spotify.com/album/2J7LSpd6suKj8qd9MkjuGK",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2J7LSpd6suKj8qd9MkjuGK",
+      externalLink: "https://open.spotify.com/album/2J7LSpd6suKj8qd9MkjuGK",
+    },
+  ],
 } as const satisfies Release

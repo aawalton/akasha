@@ -12,7 +12,12 @@ export const ellaHendersonThisIsRealAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-15",
-  externalId: "7wklaCjvJ3GQWIMYOKJUJo",
-  externalLink: "https://open.spotify.com/album/7wklaCjvJ3GQWIMYOKJUJo",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7wklaCjvJ3GQWIMYOKJUJo",
+      externalLink: "https://open.spotify.com/album/7wklaCjvJ3GQWIMYOKJUJo",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

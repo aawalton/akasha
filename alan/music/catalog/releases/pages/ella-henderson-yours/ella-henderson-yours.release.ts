@@ -12,7 +12,12 @@ export const ellaHendersonYours = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-12-15",
-  externalId: "4znlcYQXxUuXeC2khQf88h",
-  externalLink: "https://open.spotify.com/album/4znlcYQXxUuXeC2khQf88h",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4znlcYQXxUuXeC2khQf88h",
+      externalLink: "https://open.spotify.com/album/4znlcYQXxUuXeC2khQf88h",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

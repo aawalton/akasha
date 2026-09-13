@@ -12,6 +12,11 @@ export const chaislynSidetracked = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-08-11",
-  externalId: "0U59gfuWk7sG0IGRV5vOws",
-  externalLink: "https://open.spotify.com/album/0U59gfuWk7sG0IGRV5vOws",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0U59gfuWk7sG0IGRV5vOws",
+      externalLink: "https://open.spotify.com/album/0U59gfuWk7sG0IGRV5vOws",
+    },
+  ],
 } as const satisfies Release

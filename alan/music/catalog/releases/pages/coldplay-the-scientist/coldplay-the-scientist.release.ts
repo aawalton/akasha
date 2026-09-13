@@ -12,6 +12,11 @@ export const coldplayTheScientist = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2002-08-05",
-  externalId: "4FtNaWzjhO9OXCRFEsSmuI",
-  externalLink: "https://open.spotify.com/album/4FtNaWzjhO9OXCRFEsSmuI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4FtNaWzjhO9OXCRFEsSmuI",
+      externalLink: "https://open.spotify.com/album/4FtNaWzjhO9OXCRFEsSmuI",
+    },
+  ],
 } as const satisfies Release

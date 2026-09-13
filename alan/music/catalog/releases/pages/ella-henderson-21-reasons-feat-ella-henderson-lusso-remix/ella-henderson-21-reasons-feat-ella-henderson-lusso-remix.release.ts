@@ -12,7 +12,12 @@ export const ellaHenderson21ReasonsFeatEllaHendersonLussoRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-08",
-  externalId: "5OdbJtxQEoZlORwTNLcFiQ",
-  externalLink: "https://open.spotify.com/album/5OdbJtxQEoZlORwTNLcFiQ",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5OdbJtxQEoZlORwTNLcFiQ",
+      externalLink: "https://open.spotify.com/album/5OdbJtxQEoZlORwTNLcFiQ",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

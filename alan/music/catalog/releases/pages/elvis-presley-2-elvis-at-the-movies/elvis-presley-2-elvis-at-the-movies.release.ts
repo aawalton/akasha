@@ -12,6 +12,11 @@ export const elvisPresley2ElvisAtTheMovies = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2007-04-01",
-  externalId: "01RkRLNlP4C4aYCCzT3VRm",
-  externalLink: "https://open.spotify.com/album/01RkRLNlP4C4aYCCzT3VRm",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "01RkRLNlP4C4aYCCzT3VRm",
+      externalLink: "https://open.spotify.com/album/01RkRLNlP4C4aYCCzT3VRm",
+    },
+  ],
 } as const satisfies Release

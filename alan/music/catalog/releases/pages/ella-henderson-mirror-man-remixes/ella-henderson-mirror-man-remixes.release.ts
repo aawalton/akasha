@@ -12,7 +12,12 @@ export const ellaHendersonMirrorManRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-03-08",
-  externalId: "0OhwCsLPxOHso0fR56m7pN",
-  externalLink: "https://open.spotify.com/album/0OhwCsLPxOHso0fR56m7pN",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0OhwCsLPxOHso0fR56m7pN",
+      externalLink: "https://open.spotify.com/album/0OhwCsLPxOHso0fR56m7pN",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

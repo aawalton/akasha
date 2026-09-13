@@ -12,7 +12,12 @@ export const ellaHendersonLifelineFeatEllaHenderson = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-08-04",
-  externalId: "6cXVZGm8DdsT8QZpfeUST1",
-  externalLink: "https://open.spotify.com/album/6cXVZGm8DdsT8QZpfeUST1",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6cXVZGm8DdsT8QZpfeUST1",
+      externalLink: "https://open.spotify.com/album/6cXVZGm8DdsT8QZpfeUST1",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

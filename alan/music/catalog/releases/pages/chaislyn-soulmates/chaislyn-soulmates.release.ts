@@ -12,6 +12,11 @@ export const chaislynSoulmates = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-02",
-  externalId: "40ObQxWvt56zul3OaUMrQx",
-  externalLink: "https://open.spotify.com/album/40ObQxWvt56zul3OaUMrQx",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "40ObQxWvt56zul3OaUMrQx",
+      externalLink: "https://open.spotify.com/album/40ObQxWvt56zul3OaUMrQx",
+    },
+  ],
 } as const satisfies Release

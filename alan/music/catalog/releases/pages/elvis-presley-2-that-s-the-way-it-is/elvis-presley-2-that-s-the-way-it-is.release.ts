@@ -12,6 +12,11 @@ export const elvisPresley2ThatSTheWayItIs = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1970-11-01",
-  externalId: "5Daouulcid6tWztS39KWhc",
-  externalLink: "https://open.spotify.com/album/5Daouulcid6tWztS39KWhc",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5Daouulcid6tWztS39KWhc",
+      externalLink: "https://open.spotify.com/album/5Daouulcid6tWztS39KWhc",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const ellaHendersonLetSGoHomeTogetherMotiRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-23",
-  externalId: "29TEQj74Hb0FObdoPXY5IN",
-  externalLink: "https://open.spotify.com/album/29TEQj74Hb0FObdoPXY5IN",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "29TEQj74Hb0FObdoPXY5IN",
+      externalLink: "https://open.spotify.com/album/29TEQj74Hb0FObdoPXY5IN",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

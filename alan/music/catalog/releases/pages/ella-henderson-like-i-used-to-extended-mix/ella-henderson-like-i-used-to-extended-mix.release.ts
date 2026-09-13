@@ -12,7 +12,12 @@ export const ellaHendersonLikeIUsedToExtendedMix = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-04-28",
-  externalId: "5eOvb3wPBmdxchCpW3qUQi",
-  externalLink: "https://open.spotify.com/album/5eOvb3wPBmdxchCpW3qUQi",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5eOvb3wPBmdxchCpW3qUQi",
+      externalLink: "https://open.spotify.com/album/5eOvb3wPBmdxchCpW3qUQi",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

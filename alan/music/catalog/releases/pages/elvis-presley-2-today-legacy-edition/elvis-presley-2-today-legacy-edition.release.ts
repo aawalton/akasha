@@ -12,6 +12,11 @@ export const elvisPresley2TodayLegacyEdition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1975-05-07",
-  externalId: "1NABHde4P06V7SyuYRRm2x",
-  externalLink: "https://open.spotify.com/album/1NABHde4P06V7SyuYRRm2x",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1NABHde4P06V7SyuYRRm2x",
+      externalLink: "https://open.spotify.com/album/1NABHde4P06V7SyuYRRm2x",
+    },
+  ],
 } as const satisfies Release

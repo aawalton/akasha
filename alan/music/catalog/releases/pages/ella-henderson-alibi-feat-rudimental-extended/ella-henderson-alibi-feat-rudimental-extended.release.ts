@@ -12,7 +12,12 @@ export const ellaHendersonAlibiFeatRudimentalExtended = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-01-26",
-  externalId: "7wQiPmZw9wYOWmL5PHWR2V",
-  externalLink: "https://open.spotify.com/album/7wQiPmZw9wYOWmL5PHWR2V",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7wQiPmZw9wYOWmL5PHWR2V",
+      externalLink: "https://open.spotify.com/album/7wQiPmZw9wYOWmL5PHWR2V",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

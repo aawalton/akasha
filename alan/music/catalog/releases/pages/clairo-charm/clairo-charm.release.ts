@@ -12,6 +12,11 @@ export const clairoCharm = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-07-12",
-  externalId: "1KNUCVXgIxKUGiuEB8eG0i",
-  externalLink: "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1KNUCVXgIxKUGiuEB8eG0i",
+      externalLink: "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i",
+    },
+  ],
 } as const satisfies Release

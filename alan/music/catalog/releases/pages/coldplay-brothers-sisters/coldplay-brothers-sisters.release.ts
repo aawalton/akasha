@@ -12,6 +12,11 @@ export const coldplayBrothersSisters = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1999-04-26",
-  externalId: "1As5m9qcOZtuFzdlzCkrzI",
-  externalLink: "https://open.spotify.com/album/1As5m9qcOZtuFzdlzCkrzI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1As5m9qcOZtuFzdlzCkrzI",
+      externalLink: "https://open.spotify.com/album/1As5m9qcOZtuFzdlzCkrzI",
+    },
+  ],
 } as const satisfies Release

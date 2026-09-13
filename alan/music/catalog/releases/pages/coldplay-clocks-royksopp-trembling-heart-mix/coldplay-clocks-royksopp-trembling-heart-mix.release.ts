@@ -12,6 +12,11 @@ export const coldplayClocksRoyksoppTremblingHeartMix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2003-07-21",
-  externalId: "4yGYKNWgAGMJrhxv7OVWia",
-  externalLink: "https://open.spotify.com/album/4yGYKNWgAGMJrhxv7OVWia",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4yGYKNWgAGMJrhxv7OVWia",
+      externalLink: "https://open.spotify.com/album/4yGYKNWgAGMJrhxv7OVWia",
+    },
+  ],
 } as const satisfies Release

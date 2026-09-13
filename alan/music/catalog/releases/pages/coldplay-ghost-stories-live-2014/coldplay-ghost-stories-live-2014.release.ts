@@ -12,6 +12,11 @@ export const coldplayGhostStoriesLive2014 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-11-21",
-  externalId: "1hNS0RsxPTFjmKXCgmjSLS",
-  externalLink: "https://open.spotify.com/album/1hNS0RsxPTFjmKXCgmjSLS",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1hNS0RsxPTFjmKXCgmjSLS",
+      externalLink: "https://open.spotify.com/album/1hNS0RsxPTFjmKXCgmjSLS",
+    },
+  ],
 } as const satisfies Release

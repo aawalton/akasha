@@ -12,6 +12,11 @@ export const clairoDrown = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-08-01",
-  externalId: "22y4jRBJ3WK5plaTLg0Vn4",
-  externalLink: "https://open.spotify.com/album/22y4jRBJ3WK5plaTLg0Vn4",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "22y4jRBJ3WK5plaTLg0Vn4",
+      externalLink: "https://open.spotify.com/album/22y4jRBJ3WK5plaTLg0Vn4",
+    },
+  ],
 } as const satisfies Release

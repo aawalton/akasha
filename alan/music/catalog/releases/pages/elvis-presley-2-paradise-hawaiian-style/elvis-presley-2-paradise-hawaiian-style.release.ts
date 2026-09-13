@@ -12,6 +12,11 @@ export const elvisPresley2ParadiseHawaiianStyle = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1966-06-01",
-  externalId: "4n4oa8ac6Wyy5zE8iv42Nc",
-  externalLink: "https://open.spotify.com/album/4n4oa8ac6Wyy5zE8iv42Nc",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4n4oa8ac6Wyy5zE8iv42Nc",
+      externalLink: "https://open.spotify.com/album/4n4oa8ac6Wyy5zE8iv42Nc",
+    },
+  ],
 } as const satisfies Release

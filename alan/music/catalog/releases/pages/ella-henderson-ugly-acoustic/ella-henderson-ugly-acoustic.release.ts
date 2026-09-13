@@ -12,7 +12,12 @@ export const ellaHendersonUglyAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-03-25",
-  externalId: "7FzKc1HYPRsswwUBLQzF82",
-  externalLink: "https://open.spotify.com/album/7FzKc1HYPRsswwUBLQzF82",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7FzKc1HYPRsswwUBLQzF82",
+      externalLink: "https://open.spotify.com/album/7FzKc1HYPRsswwUBLQzF82",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const coldplayMyUniverseGalantisRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-11",
-  externalId: "7eMHMiz2uvtDDMbvKRJxlP",
-  externalLink: "https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7eMHMiz2uvtDDMbvKRJxlP",
+      externalLink: "https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP",
+    },
+  ],
 } as const satisfies Release

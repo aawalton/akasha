@@ -12,6 +12,11 @@ export const coldplayMidnightKygoRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-06-09",
-  externalId: "7tI4UrXr27WbduHuVJlCp5",
-  externalLink: "https://open.spotify.com/album/7tI4UrXr27WbduHuVJlCp5",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7tI4UrXr27WbduHuVJlCp5",
+      externalLink: "https://open.spotify.com/album/7tI4UrXr27WbduHuVJlCp5",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const ellaHendersonRiskItAllJustKiddinVipMix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-09-24",
-  externalId: "2jnjbG7ivKi3rD3QySIc5y",
-  externalLink: "https://open.spotify.com/album/2jnjbG7ivKi3rD3QySIc5y",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2jnjbG7ivKi3rD3QySIc5y",
+      externalLink: "https://open.spotify.com/album/2jnjbG7ivKi3rD3QySIc5y",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

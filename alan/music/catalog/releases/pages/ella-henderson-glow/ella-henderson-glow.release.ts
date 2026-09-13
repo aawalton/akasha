@@ -12,7 +12,12 @@ export const ellaHendersonGlow = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-09-22",
-  externalId: "5yGLjvZtaCbgryBobK5R1h",
-  externalLink: "https://open.spotify.com/album/5yGLjvZtaCbgryBobK5R1h",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5yGLjvZtaCbgryBobK5R1h",
+      externalLink: "https://open.spotify.com/album/5yGLjvZtaCbgryBobK5R1h",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

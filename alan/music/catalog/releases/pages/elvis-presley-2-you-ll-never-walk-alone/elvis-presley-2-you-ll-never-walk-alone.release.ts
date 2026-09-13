@@ -12,6 +12,11 @@ export const elvisPresley2YouLlNeverWalkAlone = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1971-03-22",
-  externalId: "7ALDFjZESEjAGB6lKAxwAA",
-  externalLink: "https://open.spotify.com/album/7ALDFjZESEjAGB6lKAxwAA",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7ALDFjZESEjAGB6lKAxwAA",
+      externalLink: "https://open.spotify.com/album/7ALDFjZESEjAGB6lKAxwAA",
+    },
+  ],
 } as const satisfies Release

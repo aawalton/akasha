@@ -12,6 +12,11 @@ export const coldplayFlags = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-21",
-  externalId: "4JYjZh7R8F7Na5x1lVqOl9",
-  externalLink: "https://open.spotify.com/album/4JYjZh7R8F7Na5x1lVqOl9",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4JYjZh7R8F7Na5x1lVqOl9",
+      externalLink: "https://open.spotify.com/album/4JYjZh7R8F7Na5x1lVqOl9",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const chaislynMrNiceTry = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-13",
-  externalId: "6kl9UuLfB181aBGBbpqwmB",
-  externalLink: "https://open.spotify.com/album/6kl9UuLfB181aBGBbpqwmB",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6kl9UuLfB181aBGBbpqwmB",
+      externalLink: "https://open.spotify.com/album/6kl9UuLfB181aBGBbpqwmB",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const ellaHendersonWeGotLove = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-01",
-  externalId: "4GtslEn7rHERVWRlqrYehy",
-  externalLink: "https://open.spotify.com/album/4GtslEn7rHERVWRlqrYehy",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4GtslEn7rHERVWRlqrYehy",
+      externalLink: "https://open.spotify.com/album/4GtslEn7rHERVWRlqrYehy",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

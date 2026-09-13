@@ -12,6 +12,11 @@ export const elvisPresley2ElvisSingsTheWonderfulWorldOfChristmas = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1971-10-20",
-  externalId: "67WNQsweOZ94qxgAUDGXAk",
-  externalLink: "https://open.spotify.com/album/67WNQsweOZ94qxgAUDGXAk",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "67WNQsweOZ94qxgAUDGXAk",
+      externalLink: "https://open.spotify.com/album/67WNQsweOZ94qxgAUDGXAk",
+    },
+  ],
 } as const satisfies Release

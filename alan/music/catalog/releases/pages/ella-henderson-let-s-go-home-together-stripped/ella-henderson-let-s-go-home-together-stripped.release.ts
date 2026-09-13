@@ -12,7 +12,12 @@ export const ellaHendersonLetSGoHomeTogetherStripped = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-03-11",
-  externalId: "6hcBHK0n7wQygb6UN3MvKf",
-  externalLink: "https://open.spotify.com/album/6hcBHK0n7wQygb6UN3MvKf",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6hcBHK0n7wQygb6UN3MvKf",
+      externalLink: "https://open.spotify.com/album/6hcBHK0n7wQygb6UN3MvKf",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const ellaHendersonUnderTheSunWithAlokSwitchDiscoVipMix = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-07-26",
-  externalId: "1Hdbmv53nrcfnmqPJRKeMJ",
-  externalLink: "https://open.spotify.com/album/1Hdbmv53nrcfnmqPJRKeMJ",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Hdbmv53nrcfnmqPJRKeMJ",
+      externalLink: "https://open.spotify.com/album/1Hdbmv53nrcfnmqPJRKeMJ",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

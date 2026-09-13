@@ -12,6 +12,11 @@ export const chaislynShadesOfPink = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-02-11",
-  externalId: "0Un5mXCszpRHXq2w3bqNWl",
-  externalLink: "https://open.spotify.com/album/0Un5mXCszpRHXq2w3bqNWl",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0Un5mXCszpRHXq2w3bqNWl",
+      externalLink: "https://open.spotify.com/album/0Un5mXCszpRHXq2w3bqNWl",
+    },
+  ],
 } as const satisfies Release

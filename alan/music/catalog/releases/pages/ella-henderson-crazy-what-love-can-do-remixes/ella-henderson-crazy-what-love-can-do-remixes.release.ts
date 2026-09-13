@@ -12,7 +12,12 @@ export const ellaHendersonCrazyWhatLoveCanDoRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-07",
-  externalId: "4pMtHrpoLAkye23NIswVFu",
-  externalLink: "https://open.spotify.com/album/4pMtHrpoLAkye23NIswVFu",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4pMtHrpoLAkye23NIswVFu",
+      externalLink: "https://open.spotify.com/album/4pMtHrpoLAkye23NIswVFu",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

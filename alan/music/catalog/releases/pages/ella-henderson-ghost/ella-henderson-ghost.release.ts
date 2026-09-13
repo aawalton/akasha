@@ -12,7 +12,12 @@ export const ellaHendersonGhost = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-06-08",
-  externalId: "6MAEuDumUgxsWaEWA6lddg",
-  externalLink: "https://open.spotify.com/album/6MAEuDumUgxsWaEWA6lddg",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6MAEuDumUgxsWaEWA6lddg",
+      externalLink: "https://open.spotify.com/album/6MAEuDumUgxsWaEWA6lddg",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

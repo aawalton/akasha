@@ -12,6 +12,11 @@ export const coldplayEverglow = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-10",
-  externalId: "6LRAUvjNMdUieHc8RcpHQU",
-  externalLink: "https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6LRAUvjNMdUieHc8RcpHQU",
+      externalLink: "https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU",
+    },
+  ],
 } as const satisfies Release

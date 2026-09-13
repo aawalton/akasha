@@ -12,6 +12,11 @@ export const elvisPresley2FromTheVaults50s = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-03-18",
-  externalId: "6bl6q2RIVWKMaTLkC3vN2A",
-  externalLink: "https://open.spotify.com/album/6bl6q2RIVWKMaTLkC3vN2A",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6bl6q2RIVWKMaTLkC3vN2A",
+      externalLink: "https://open.spotify.com/album/6bl6q2RIVWKMaTLkC3vN2A",
+    },
+  ],
 } as const satisfies Release

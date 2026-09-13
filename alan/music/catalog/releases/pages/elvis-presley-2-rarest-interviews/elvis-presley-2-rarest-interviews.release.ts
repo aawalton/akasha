@@ -12,6 +12,11 @@ export const elvisPresley2RarestInterviews = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-06",
-  externalId: "4ktodEbLViD57MvJ1a93cE",
-  externalLink: "https://open.spotify.com/album/4ktodEbLViD57MvJ1a93cE",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4ktodEbLViD57MvJ1a93cE",
+      externalLink: "https://open.spotify.com/album/4ktodEbLViD57MvJ1a93cE",
+    },
+  ],
 } as const satisfies Release

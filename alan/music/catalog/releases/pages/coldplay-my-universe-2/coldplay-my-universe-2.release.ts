@@ -12,6 +12,11 @@ export const coldplayMyUniverse2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-09-24",
-  externalId: "39McjovZ3M6n5SFtNmWTdp",
-  externalLink: "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "39McjovZ3M6n5SFtNmWTdp",
+      externalLink: "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp",
+    },
+  ],
 } as const satisfies Release

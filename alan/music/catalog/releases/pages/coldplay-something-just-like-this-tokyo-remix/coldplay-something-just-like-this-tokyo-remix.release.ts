@@ -12,6 +12,11 @@ export const coldplaySomethingJustLikeThisTokyoRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-06-23",
-  externalId: "2i3pQGt2uzVfWL8LeFewmI",
-  externalLink: "https://open.spotify.com/album/2i3pQGt2uzVfWL8LeFewmI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2i3pQGt2uzVfWL8LeFewmI",
+      externalLink: "https://open.spotify.com/album/2i3pQGt2uzVfWL8LeFewmI",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const coldplayMyUniverseDavidGuettaRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-13",
-  externalId: "4LcW19D6W1nHpvcJV5s2QI",
-  externalLink: "https://open.spotify.com/album/4LcW19D6W1nHpvcJV5s2QI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4LcW19D6W1nHpvcJV5s2QI",
+      externalLink: "https://open.spotify.com/album/4LcW19D6W1nHpvcJV5s2QI",
+    },
+  ],
 } as const satisfies Release

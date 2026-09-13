@@ -12,6 +12,11 @@ export const coldplayWePray = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-08-23",
-  externalId: "3dZE98f3OlxeQlm9qWYekK",
-  externalLink: "https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3dZE98f3OlxeQlm9qWYekK",
+      externalLink: "https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK",
+    },
+  ],
 } as const satisfies Release

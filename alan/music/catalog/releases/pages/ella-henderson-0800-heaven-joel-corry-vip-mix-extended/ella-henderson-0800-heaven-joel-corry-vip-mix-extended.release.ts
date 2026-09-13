@@ -12,7 +12,12 @@ export const ellaHenderson0800HeavenJoelCorryVipMixExtended = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-06-29",
-  externalId: "61B3slikDQ6EArlh9SZcBh",
-  externalLink: "https://open.spotify.com/album/61B3slikDQ6EArlh9SZcBh",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "61B3slikDQ6EArlh9SZcBh",
+      externalLink: "https://open.spotify.com/album/61B3slikDQ6EArlh9SZcBh",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

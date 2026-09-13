@@ -12,7 +12,12 @@ export const ellaHendersonNoSleepGravagerzRemix = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-05-12",
-  externalId: "05JkGTqXB3oxTu5Yjm3GGb",
-  externalLink: "https://open.spotify.com/album/05JkGTqXB3oxTu5Yjm3GGb",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "05JkGTqXB3oxTu5Yjm3GGb",
+      externalLink: "https://open.spotify.com/album/05JkGTqXB3oxTu5Yjm3GGb",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

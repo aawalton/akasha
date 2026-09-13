@@ -12,6 +12,11 @@ export const clairoFlamingHotCheetos = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-06-14",
-  externalId: "7r4hiK0374MEgTiD5KRDMS",
-  externalLink: "https://open.spotify.com/album/7r4hiK0374MEgTiD5KRDMS",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7r4hiK0374MEgTiD5KRDMS",
+      externalLink: "https://open.spotify.com/album/7r4hiK0374MEgTiD5KRDMS",
+    },
+  ],
 } as const satisfies Release

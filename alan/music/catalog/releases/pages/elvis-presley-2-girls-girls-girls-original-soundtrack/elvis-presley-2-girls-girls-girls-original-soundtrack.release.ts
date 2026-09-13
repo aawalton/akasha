@@ -12,6 +12,11 @@ export const elvisPresley2GirlsGirlsGirlsOriginalSoundtrack = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-06-13",
-  externalId: "5vmxbvmSOpkagYXntuVDlo",
-  externalLink: "https://open.spotify.com/album/5vmxbvmSOpkagYXntuVDlo",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5vmxbvmSOpkagYXntuVDlo",
+      externalLink: "https://open.spotify.com/album/5vmxbvmSOpkagYXntuVDlo",
+    },
+  ],
 } as const satisfies Release

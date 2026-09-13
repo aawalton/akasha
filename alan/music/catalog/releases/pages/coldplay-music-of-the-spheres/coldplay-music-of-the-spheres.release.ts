@@ -12,6 +12,11 @@ export const coldplayMusicOfTheSpheres = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-15",
-  externalId: "06mXfvDsRZNfnsGZvX2zpb",
-  externalLink: "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "06mXfvDsRZNfnsGZvX2zpb",
+      externalLink: "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb",
+    },
+  ],
 } as const satisfies Release

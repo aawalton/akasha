@@ -12,6 +12,11 @@ export const elvisPresley2FromNashvilleToMemphisTheEssential60sMastersI = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1993-09-28",
-  externalId: "2NQk9PwXk5xL8UPOdEvBVr",
-  externalLink: "https://open.spotify.com/album/2NQk9PwXk5xL8UPOdEvBVr",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2NQk9PwXk5xL8UPOdEvBVr",
+      externalLink: "https://open.spotify.com/album/2NQk9PwXk5xL8UPOdEvBVr",
+    },
+  ],
 } as const satisfies Release

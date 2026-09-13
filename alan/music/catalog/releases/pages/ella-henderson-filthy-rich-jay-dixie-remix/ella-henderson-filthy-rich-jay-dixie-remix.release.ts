@@ -12,7 +12,12 @@ export const ellaHendersonFilthyRichJayDixieRemix = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-11-15",
-  externalId: "3ewrAfBv58rllcB3Br0mtE",
-  externalLink: "https://open.spotify.com/album/3ewrAfBv58rllcB3Br0mtE",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ewrAfBv58rllcB3Br0mtE",
+      externalLink: "https://open.spotify.com/album/3ewrAfBv58rllcB3Br0mtE",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

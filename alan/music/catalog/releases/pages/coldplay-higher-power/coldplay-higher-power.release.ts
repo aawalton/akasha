@@ -12,6 +12,11 @@ export const coldplayHigherPower = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-05-07",
-  externalId: "6wiPmk3powmcz3G7zr6krg",
-  externalLink: "https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6wiPmk3powmcz3G7zr6krg",
+      externalLink: "https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg",
+    },
+  ],
 } as const satisfies Release

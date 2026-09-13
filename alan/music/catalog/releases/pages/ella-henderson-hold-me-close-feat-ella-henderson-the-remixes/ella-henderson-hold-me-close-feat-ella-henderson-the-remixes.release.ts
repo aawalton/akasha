@@ -12,7 +12,12 @@ export const ellaHendersonHoldMeCloseFeatEllaHendersonTheRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-22",
-  externalId: "4X6WuO5w50bPzeRWuwSTms",
-  externalLink: "https://open.spotify.com/album/4X6WuO5w50bPzeRWuwSTms",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4X6WuO5w50bPzeRWuwSTms",
+      externalLink: "https://open.spotify.com/album/4X6WuO5w50bPzeRWuwSTms",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

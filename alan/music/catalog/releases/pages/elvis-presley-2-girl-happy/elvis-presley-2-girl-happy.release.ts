@@ -12,6 +12,11 @@ export const elvisPresley2GirlHappy = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1965-03-01",
-  externalId: "4z27tEwwMNEILdVX1Sy40L",
-  externalLink: "https://open.spotify.com/album/4z27tEwwMNEILdVX1Sy40L",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4z27tEwwMNEILdVX1Sy40L",
+      externalLink: "https://open.spotify.com/album/4z27tEwwMNEILdVX1Sy40L",
+    },
+  ],
 } as const satisfies Release

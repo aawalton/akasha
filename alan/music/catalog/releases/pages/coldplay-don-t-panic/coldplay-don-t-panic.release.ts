@@ -12,6 +12,11 @@ export const coldplayDonTPanic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2001-03-19",
-  externalId: "36Z4YfJRuw3r2VeHgNQbrF",
-  externalLink: "https://open.spotify.com/album/36Z4YfJRuw3r2VeHgNQbrF",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "36Z4YfJRuw3r2VeHgNQbrF",
+      externalLink: "https://open.spotify.com/album/36Z4YfJRuw3r2VeHgNQbrF",
+    },
+  ],
 } as const satisfies Release

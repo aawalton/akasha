@@ -12,6 +12,11 @@ export const elvisPresley2IGotLucky = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1971-10-01",
-  externalId: "7qg0rZIEQEN926D0VB8XJW",
-  externalLink: "https://open.spotify.com/album/7qg0rZIEQEN926D0VB8XJW",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7qg0rZIEQEN926D0VB8XJW",
+      externalLink: "https://open.spotify.com/album/7qg0rZIEQEN926D0VB8XJW",
+    },
+  ],
 } as const satisfies Release

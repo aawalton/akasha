@@ -12,6 +12,11 @@ export const elvisPresley2Clambake = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1967-10-23",
-  externalId: "6rgQTKAl5UXrWhPUKuIGFN",
-  externalLink: "https://open.spotify.com/album/6rgQTKAl5UXrWhPUKuIGFN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6rgQTKAl5UXrWhPUKuIGFN",
+      externalLink: "https://open.spotify.com/album/6rgQTKAl5UXrWhPUKuIGFN",
+    },
+  ],
 } as const satisfies Release

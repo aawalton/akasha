@@ -12,6 +12,11 @@ export const elvisPresley2KingCreole = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1958-09-19",
-  externalId: "7hdMmwpZmRf8efyh7G2pOl",
-  externalLink: "https://open.spotify.com/album/7hdMmwpZmRf8efyh7G2pOl",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7hdMmwpZmRf8efyh7G2pOl",
+      externalLink: "https://open.spotify.com/album/7hdMmwpZmRf8efyh7G2pOl",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const coldplayLive2003 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2003-11-01",
-  externalId: "3JMOZD2qixTTLRW9I6JuF4",
-  externalLink: "https://open.spotify.com/album/3JMOZD2qixTTLRW9I6JuF4",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3JMOZD2qixTTLRW9I6JuF4",
+      externalLink: "https://open.spotify.com/album/3JMOZD2qixTTLRW9I6JuF4",
+    },
+  ],
 } as const satisfies Release

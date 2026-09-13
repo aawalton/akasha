@@ -12,6 +12,11 @@ export const elvisPresley2SunsetBoulevard = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-08-01",
-  externalId: "4zUZv055gk4daN0VusN3gw",
-  externalLink: "https://open.spotify.com/album/4zUZv055gk4daN0VusN3gw",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4zUZv055gk4daN0VusN3gw",
+      externalLink: "https://open.spotify.com/album/4zUZv055gk4daN0VusN3gw",
+    },
+  ],
 } as const satisfies Release

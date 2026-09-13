@@ -12,6 +12,11 @@ export const elvisPresley2DoubleTrouble = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1967-06-01",
-  externalId: "4iG8jdsZogHikgE4uEyo5k",
-  externalLink: "https://open.spotify.com/album/4iG8jdsZogHikgE4uEyo5k",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4iG8jdsZogHikgE4uEyo5k",
+      externalLink: "https://open.spotify.com/album/4iG8jdsZogHikgE4uEyo5k",
+    },
+  ],
 } as const satisfies Release

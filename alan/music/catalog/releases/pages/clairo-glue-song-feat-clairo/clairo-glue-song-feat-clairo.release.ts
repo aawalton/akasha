@@ -12,6 +12,11 @@ export const clairoGlueSongFeatClairo = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-04-17",
-  externalId: "6iyBE8qGDt42MyBvtPNuMk",
-  externalLink: "https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6iyBE8qGDt42MyBvtPNuMk",
+      externalLink: "https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk",
+    },
+  ],
 } as const satisfies Release

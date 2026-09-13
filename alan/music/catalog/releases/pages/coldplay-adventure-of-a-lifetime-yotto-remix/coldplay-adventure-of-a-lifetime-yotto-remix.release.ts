@@ -12,6 +12,11 @@ export const coldplayAdventureOfALifetimeYottoRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-03-28",
-  externalId: "6HtLkpRPDhS1wUcDzE50hd",
-  externalLink: "https://open.spotify.com/album/6HtLkpRPDhS1wUcDzE50hd",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6HtLkpRPDhS1wUcDzE50hd",
+      externalLink: "https://open.spotify.com/album/6HtLkpRPDhS1wUcDzE50hd",
+    },
+  ],
 } as const satisfies Release

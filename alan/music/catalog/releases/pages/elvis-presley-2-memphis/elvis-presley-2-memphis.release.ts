@@ -12,6 +12,11 @@ export const elvisPresley2Memphis = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-08-09",
-  externalId: "27naxukVSz1Z1OWCXjwSky",
-  externalLink: "https://open.spotify.com/album/27naxukVSz1Z1OWCXjwSky",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "27naxukVSz1Z1OWCXjwSky",
+      externalLink: "https://open.spotify.com/album/27naxukVSz1Z1OWCXjwSky",
+    },
+  ],
 } as const satisfies Release

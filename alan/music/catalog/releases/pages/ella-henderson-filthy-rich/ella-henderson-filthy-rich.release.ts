@@ -12,7 +12,12 @@ export const ellaHendersonFilthyRich = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-10-04",
-  externalId: "4EZKTohECt4rz0GL4LShK2",
-  externalLink: "https://open.spotify.com/album/4EZKTohECt4rz0GL4LShK2",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4EZKTohECt4rz0GL4LShK2",
+      externalLink: "https://open.spotify.com/album/4EZKTohECt4rz0GL4LShK2",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

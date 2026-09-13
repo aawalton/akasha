@@ -12,7 +12,12 @@ export const ellaHenderson21ReasonsFeatEllaHendersonToyboyRobinRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-17",
-  externalId: "6srx0nL3zkToIGE6gMLueY",
-  externalLink: "https://open.spotify.com/album/6srx0nL3zkToIGE6gMLueY",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6srx0nL3zkToIGE6gMLueY",
+      externalLink: "https://open.spotify.com/album/6srx0nL3zkToIGE6gMLueY",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

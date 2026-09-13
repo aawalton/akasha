@@ -12,7 +12,12 @@ export const ellaHendersonCrazyWhatLoveCanDoWithBeckyHillGrafixRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-16",
-  externalId: "4YcFWeVpcoc8VZdKud5bKT",
-  externalLink: "https://open.spotify.com/album/4YcFWeVpcoc8VZdKud5bKT",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4YcFWeVpcoc8VZdKud5bKT",
+      externalLink: "https://open.spotify.com/album/4YcFWeVpcoc8VZdKud5bKT",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

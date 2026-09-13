@@ -12,7 +12,12 @@ export const ellaHenderson21ReasonsFeatEllaHendersonBillenTedRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-15",
-  externalId: "35ZFK1ox0sKpOmCbPQaaHG",
-  externalLink: "https://open.spotify.com/album/35ZFK1ox0sKpOmCbPQaaHG",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "35ZFK1ox0sKpOmCbPQaaHG",
+      externalLink: "https://open.spotify.com/album/35ZFK1ox0sKpOmCbPQaaHG",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

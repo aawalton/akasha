@@ -12,6 +12,11 @@ export const elvisPresley2ElvisSingsFlamingStar = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1968-10-01",
-  externalId: "3xHHQWEtennMsfZ65t9Brv",
-  externalLink: "https://open.spotify.com/album/3xHHQWEtennMsfZ65t9Brv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3xHHQWEtennMsfZ65t9Brv",
+      externalLink: "https://open.spotify.com/album/3xHHQWEtennMsfZ65t9Brv",
+    },
+  ],
 } as const satisfies Release

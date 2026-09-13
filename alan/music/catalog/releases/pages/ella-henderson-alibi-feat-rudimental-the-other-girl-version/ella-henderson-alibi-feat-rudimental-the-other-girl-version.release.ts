@@ -12,7 +12,12 @@ export const ellaHendersonAlibiFeatRudimentalTheOtherGirlVersion = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-04-05",
-  externalId: "75bEjPHQvYKs10nNjHpTeR",
-  externalLink: "https://open.spotify.com/album/75bEjPHQvYKs10nNjHpTeR",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "75bEjPHQvYKs10nNjHpTeR",
+      externalLink: "https://open.spotify.com/album/75bEjPHQvYKs10nNjHpTeR",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

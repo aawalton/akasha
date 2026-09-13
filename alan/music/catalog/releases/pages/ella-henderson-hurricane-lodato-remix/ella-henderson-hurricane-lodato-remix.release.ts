@@ -12,7 +12,12 @@ export const ellaHendersonHurricaneLodatoRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-19",
-  externalId: "6bW8KetniBLhXMxqzs6T2D",
-  externalLink: "https://open.spotify.com/album/6bW8KetniBLhXMxqzs6T2D",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6bW8KetniBLhXMxqzs6T2D",
+      externalLink: "https://open.spotify.com/album/6bW8KetniBLhXMxqzs6T2D",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

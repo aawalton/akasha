@@ -12,6 +12,11 @@ export const elvisPresley2IfICanDreamElvisPresleyWithTheRoyalPhilharmonicOrchest
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-10-30",
-  externalId: "3BYCjGZjrTkilIY7U25fNt",
-  externalLink: "https://open.spotify.com/album/3BYCjGZjrTkilIY7U25fNt",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3BYCjGZjrTkilIY7U25fNt",
+      externalLink: "https://open.spotify.com/album/3BYCjGZjrTkilIY7U25fNt",
+    },
+  ],
 } as const satisfies Release

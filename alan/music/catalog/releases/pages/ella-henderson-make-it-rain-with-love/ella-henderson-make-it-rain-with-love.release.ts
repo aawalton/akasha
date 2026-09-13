@@ -12,7 +12,12 @@ export const ellaHendersonMakeItRainWithLove = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-11-22",
-  externalId: "5dxEGl5cQtIxqmsBZI3Cr7",
-  externalLink: "https://open.spotify.com/album/5dxEGl5cQtIxqmsBZI3Cr7",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5dxEGl5cQtIxqmsBZI3Cr7",
+      externalLink: "https://open.spotify.com/album/5dxEGl5cQtIxqmsBZI3Cr7",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

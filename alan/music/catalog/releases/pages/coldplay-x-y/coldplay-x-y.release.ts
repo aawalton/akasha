@@ -12,6 +12,11 @@ export const coldplayXY = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2005-06-07",
-  externalId: "4E7bV0pzG0LciBSWTszra6",
-  externalLink: "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4E7bV0pzG0LciBSWTszra6",
+      externalLink: "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6",
+    },
+  ],
 } as const satisfies Release

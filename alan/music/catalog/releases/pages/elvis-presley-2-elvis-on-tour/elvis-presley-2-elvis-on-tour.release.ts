@@ -12,6 +12,11 @@ export const elvisPresley2ElvisOnTour = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-12-02",
-  externalId: "7GsLjMQBwLaKbXHTV9s11S",
-  externalLink: "https://open.spotify.com/album/7GsLjMQBwLaKbXHTV9s11S",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7GsLjMQBwLaKbXHTV9s11S",
+      externalLink: "https://open.spotify.com/album/7GsLjMQBwLaKbXHTV9s11S",
+    },
+  ],
 } as const satisfies Release

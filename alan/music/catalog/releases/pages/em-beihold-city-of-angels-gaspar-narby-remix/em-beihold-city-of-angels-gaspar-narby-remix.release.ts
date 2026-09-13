@@ -13,6 +13,11 @@ export const emBeiholdCityOfAngelsGasparNarbyRemix = {
   status: "completed",
   rank: "B",
   publishedAt: "2020-09-30",
-  externalId: "3TXqYQuKpxAoMMdLfwzdzQ",
-  externalLink: "https://open.spotify.com/album/3TXqYQuKpxAoMMdLfwzdzQ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3TXqYQuKpxAoMMdLfwzdzQ",
+      externalLink: "https://open.spotify.com/album/3TXqYQuKpxAoMMdLfwzdzQ",
+    },
+  ],
 } as const satisfies Release

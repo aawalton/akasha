@@ -12,7 +12,12 @@ export const ellaHendersonUnderTheSunWithAlok = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-05-31",
-  externalId: "4PP92BFZLs8PMzJoKtNn5I",
-  externalLink: "https://open.spotify.com/album/4PP92BFZLs8PMzJoKtNn5I",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4PP92BFZLs8PMzJoKtNn5I",
+      externalLink: "https://open.spotify.com/album/4PP92BFZLs8PMzJoKtNn5I",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

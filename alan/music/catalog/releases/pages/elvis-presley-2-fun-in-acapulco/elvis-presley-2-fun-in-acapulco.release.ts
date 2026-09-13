@@ -12,6 +12,11 @@ export const elvisPresley2FunInAcapulco = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1963-11-15",
-  externalId: "6HKnyw3DYCaD1wdmzez463",
-  externalLink: "https://open.spotify.com/album/6HKnyw3DYCaD1wdmzez463",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6HKnyw3DYCaD1wdmzez463",
+      externalLink: "https://open.spotify.com/album/6HKnyw3DYCaD1wdmzez463",
+    },
+  ],
 } as const satisfies Release

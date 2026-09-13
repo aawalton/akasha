@@ -12,7 +12,12 @@ export const ellaHendersonAlibiFeatRudimentalJoelCorryRemix = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-03-01",
-  externalId: "5dY7Ol2aeGlG0LdeIkIrdG",
-  externalLink: "https://open.spotify.com/album/5dY7Ol2aeGlG0LdeIkIrdG",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5dY7Ol2aeGlG0LdeIkIrdG",
+      externalLink: "https://open.spotify.com/album/5dY7Ol2aeGlG0LdeIkIrdG",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const elvisPresley2WalkAMileInMyShoesTheEssential70sMasters = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1995-01-01",
-  externalId: "5mzwE7oF97fP2vxdtgf6HH",
-  externalLink: "https://open.spotify.com/album/5mzwE7oF97fP2vxdtgf6HH",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5mzwE7oF97fP2vxdtgf6HH",
+      externalLink: "https://open.spotify.com/album/5mzwE7oF97fP2vxdtgf6HH",
+    },
+  ],
 } as const satisfies Release

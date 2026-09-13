@@ -12,7 +12,12 @@ export const ellaHendersonWeGotLoveHugelRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-01-10",
-  externalId: "43AEZKgV25P86xv13m0N1U",
-  externalLink: "https://open.spotify.com/album/43AEZKgV25P86xv13m0N1U",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "43AEZKgV25P86xv13m0N1U",
+      externalLink: "https://open.spotify.com/album/43AEZKgV25P86xv13m0N1U",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

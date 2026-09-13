@@ -12,6 +12,11 @@ export const coldplayVioletHill = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-05-06",
-  externalId: "2Pc9C27OlgTTtjvFxulqgG",
-  externalLink: "https://open.spotify.com/album/2Pc9C27OlgTTtjvFxulqgG",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Pc9C27OlgTTtjvFxulqgG",
+      externalLink: "https://open.spotify.com/album/2Pc9C27OlgTTtjvFxulqgG",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const clairoBags = {
   status: "completed",
   rank: "B",
   publishedAt: "2019-05-24",
-  externalId: "5DOj6Si38rUhxAqGK0zlaY",
-  externalLink: "https://open.spotify.com/album/5DOj6Si38rUhxAqGK0zlaY",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5DOj6Si38rUhxAqGK0zlaY",
+      externalLink: "https://open.spotify.com/album/5DOj6Si38rUhxAqGK0zlaY",
+    },
+  ],
 } as const satisfies Release

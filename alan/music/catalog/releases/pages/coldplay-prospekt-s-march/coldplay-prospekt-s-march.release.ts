@@ -12,6 +12,11 @@ export const coldplayProspektSMarch = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-06-06",
-  externalId: "0PpuVbbyLfgq8HrESvt2d4",
-  externalLink: "https://open.spotify.com/album/0PpuVbbyLfgq8HrESvt2d4",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0PpuVbbyLfgq8HrESvt2d4",
+      externalLink: "https://open.spotify.com/album/0PpuVbbyLfgq8HrESvt2d4",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const elvisPresley2Sunrise = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1999-02-09",
-  externalId: "24fuuMZK67jwheidhRGOQb",
-  externalLink: "https://open.spotify.com/album/24fuuMZK67jwheidhRGOQb",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "24fuuMZK67jwheidhRGOQb",
+      externalLink: "https://open.spotify.com/album/24fuuMZK67jwheidhRGOQb",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const coldplayOvertura = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-07-20",
-  externalId: "2D9sJsmo3tSSxkxrMkEoei",
-  externalLink: "https://open.spotify.com/album/2D9sJsmo3tSSxkxrMkEoei",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2D9sJsmo3tSSxkxrMkEoei",
+      externalLink: "https://open.spotify.com/album/2D9sJsmo3tSSxkxrMkEoei",
+    },
+  ],
 } as const satisfies Release

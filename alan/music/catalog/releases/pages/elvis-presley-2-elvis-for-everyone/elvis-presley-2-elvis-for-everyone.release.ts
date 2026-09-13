@@ -12,6 +12,11 @@ export const elvisPresley2ElvisForEveryone = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1965-07-19",
-  externalId: "5xKTHMQU0bNNC471jCCKP8",
-  externalLink: "https://open.spotify.com/album/5xKTHMQU0bNNC471jCCKP8",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5xKTHMQU0bNNC471jCCKP8",
+      externalLink: "https://open.spotify.com/album/5xKTHMQU0bNNC471jCCKP8",
+    },
+  ],
 } as const satisfies Release

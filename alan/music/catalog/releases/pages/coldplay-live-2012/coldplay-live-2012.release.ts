@@ -12,6 +12,11 @@ export const coldplayLive2012 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-11-16",
-  externalId: "2OkEsqGTfu8PWRrNHzfr0m",
-  externalLink: "https://open.spotify.com/album/2OkEsqGTfu8PWRrNHzfr0m",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2OkEsqGTfu8PWRrNHzfr0m",
+      externalLink: "https://open.spotify.com/album/2OkEsqGTfu8PWRrNHzfr0m",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const elvisPresley2RaisedOnRock = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1973-10-01",
-  externalId: "2ZRE01JESBDtXwXckqGZY6",
-  externalLink: "https://open.spotify.com/album/2ZRE01JESBDtXwXckqGZY6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2ZRE01JESBDtXwXckqGZY6",
+      externalLink: "https://open.spotify.com/album/2ZRE01JESBDtXwXckqGZY6",
+    },
+  ],
 } as const satisfies Release

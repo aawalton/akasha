@@ -12,7 +12,12 @@ export const ellaHenderson0800HeavenSymmetrikRemixExtended = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-06-23",
-  externalId: "5D7WfU6ypRsAkb6znVNkm0",
-  externalLink: "https://open.spotify.com/album/5D7WfU6ypRsAkb6znVNkm0",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5D7WfU6ypRsAkb6znVNkm0",
+      externalLink: "https://open.spotify.com/album/5D7WfU6ypRsAkb6znVNkm0",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

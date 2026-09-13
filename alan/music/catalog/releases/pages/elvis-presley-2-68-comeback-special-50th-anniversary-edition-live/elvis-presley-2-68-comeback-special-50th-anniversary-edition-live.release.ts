@@ -12,6 +12,11 @@ export const elvisPresley268ComebackSpecial50thAnniversaryEditionLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-11-30",
-  externalId: "62CwfDeiM9t81FaFHebuUm",
-  externalLink: "https://open.spotify.com/album/62CwfDeiM9t81FaFHebuUm",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "62CwfDeiM9t81FaFHebuUm",
+      externalLink: "https://open.spotify.com/album/62CwfDeiM9t81FaFHebuUm",
+    },
+  ],
 } as const satisfies Release

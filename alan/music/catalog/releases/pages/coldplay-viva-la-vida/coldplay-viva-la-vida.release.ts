@@ -12,6 +12,11 @@ export const coldplayVivaLaVida = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-06-12",
-  externalId: "2JJtOvxbxzUJsDVVyYZZPJ",
-  externalLink: "https://open.spotify.com/album/2JJtOvxbxzUJsDVVyYZZPJ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2JJtOvxbxzUJsDVVyYZZPJ",
+      externalLink: "https://open.spotify.com/album/2JJtOvxbxzUJsDVVyYZZPJ",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const clairoLiveAtElectricLady = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-05-12",
-  externalId: "2bxBgkzYqo9WBQgl0ZraY6",
-  externalLink: "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2bxBgkzYqo9WBQgl0ZraY6",
+      externalLink: "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const coldplayCharlieBrown = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-04-03",
-  externalId: "6UYr6OSxWSWkE2JLTo5SnD",
-  externalLink: "https://open.spotify.com/album/6UYr6OSxWSWkE2JLTo5SnD",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6UYr6OSxWSWkE2JLTo5SnD",
+      externalLink: "https://open.spotify.com/album/6UYr6OSxWSWkE2JLTo5SnD",
+    },
+  ],
 } as const satisfies Release

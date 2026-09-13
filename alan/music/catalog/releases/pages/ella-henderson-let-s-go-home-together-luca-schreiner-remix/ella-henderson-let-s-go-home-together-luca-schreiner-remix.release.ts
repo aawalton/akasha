@@ -12,7 +12,12 @@ export const ellaHendersonLetSGoHomeTogetherLucaSchreinerRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-02-18",
-  externalId: "1bywIoMIeyI0OtOnxq0aZy",
-  externalLink: "https://open.spotify.com/album/1bywIoMIeyI0OtOnxq0aZy",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1bywIoMIeyI0OtOnxq0aZy",
+      externalLink: "https://open.spotify.com/album/1bywIoMIeyI0OtOnxq0aZy",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

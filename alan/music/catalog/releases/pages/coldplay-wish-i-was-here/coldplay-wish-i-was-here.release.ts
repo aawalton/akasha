@@ -12,6 +12,11 @@ export const coldplayWishIWasHere = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-07-11",
-  externalId: "3ehc0OQ4fmdsVLhQp5SBTE",
-  externalLink: "https://open.spotify.com/album/3ehc0OQ4fmdsVLhQp5SBTE",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ehc0OQ4fmdsVLhQp5SBTE",
+      externalLink: "https://open.spotify.com/album/3ehc0OQ4fmdsVLhQp5SBTE",
+    },
+  ],
 } as const satisfies Release

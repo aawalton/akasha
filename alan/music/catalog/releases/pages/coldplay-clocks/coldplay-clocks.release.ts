@@ -12,6 +12,11 @@ export const coldplayClocks = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2003-03-24",
-  externalId: "1hnFNY7vQA0VipdplCdhPJ",
-  externalLink: "https://open.spotify.com/album/1hnFNY7vQA0VipdplCdhPJ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1hnFNY7vQA0VipdplCdhPJ",
+      externalLink: "https://open.spotify.com/album/1hnFNY7vQA0VipdplCdhPJ",
+    },
+  ],
 } as const satisfies Release

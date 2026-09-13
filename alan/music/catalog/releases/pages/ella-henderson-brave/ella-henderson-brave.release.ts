@@ -12,7 +12,12 @@ export const ellaHendersonBrave = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-01-07",
-  externalId: "0mPhbDbLpPeCnjm35rSkql",
-  externalLink: "https://open.spotify.com/album/0mPhbDbLpPeCnjm35rSkql",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0mPhbDbLpPeCnjm35rSkql",
+      externalLink: "https://open.spotify.com/album/0mPhbDbLpPeCnjm35rSkql",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const coldplayWePrayJasleenRoyalVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-02-13",
-  externalId: "7hvPIynnfNUqcj0QjJ3K1W",
-  externalLink: "https://open.spotify.com/album/7hvPIynnfNUqcj0QjJ3K1W",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7hvPIynnfNUqcj0QjJ3K1W",
+      externalLink: "https://open.spotify.com/album/7hvPIynnfNUqcj0QjJ3K1W",
+    },
+  ],
 } as const satisfies Release

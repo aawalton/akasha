@@ -12,7 +12,12 @@ export const ellaHendersonLetSGoHomeTogetherMajesticExtendedRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-30",
-  externalId: "3QrF1aizOKo0zyYDL2T5wB",
-  externalLink: "https://open.spotify.com/album/3QrF1aizOKo0zyYDL2T5wB",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3QrF1aizOKo0zyYDL2T5wB",
+      externalLink: "https://open.spotify.com/album/3QrF1aizOKo0zyYDL2T5wB",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

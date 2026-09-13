@@ -12,7 +12,12 @@ export const ellaHendersonReact = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-01-13",
-  externalId: "1qTvyAKYIrtJV09kYJ8PUa",
-  externalLink: "https://open.spotify.com/album/1qTvyAKYIrtJV09kYJ8PUa",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1qTvyAKYIrtJV09kYJ8PUa",
+      externalLink: "https://open.spotify.com/album/1qTvyAKYIrtJV09kYJ8PUa",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

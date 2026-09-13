@@ -12,6 +12,11 @@ export const coldplayKaleidoscopeEp = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-07-13",
-  externalId: "0CE9VXSH70pz4BQzMPm9gO",
-  externalLink: "https://open.spotify.com/album/0CE9VXSH70pz4BQzMPm9gO",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0CE9VXSH70pz4BQzMPm9gO",
+      externalLink: "https://open.spotify.com/album/0CE9VXSH70pz4BQzMPm9gO",
+    },
+  ],
 } as const satisfies Release

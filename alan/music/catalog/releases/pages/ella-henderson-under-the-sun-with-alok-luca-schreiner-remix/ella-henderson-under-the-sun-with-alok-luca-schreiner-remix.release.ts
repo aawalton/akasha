@@ -12,7 +12,12 @@ export const ellaHendersonUnderTheSunWithAlokLucaSchreinerRemix = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-07-05",
-  externalId: "38G5TwwOgw5sTZfNJ1Is59",
-  externalLink: "https://open.spotify.com/album/38G5TwwOgw5sTZfNJ1Is59",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "38G5TwwOgw5sTZfNJ1Is59",
+      externalLink: "https://open.spotify.com/album/38G5TwwOgw5sTZfNJ1Is59",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

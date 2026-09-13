@@ -12,6 +12,11 @@ export const clairoBrooklynBabySpotifySingles = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-07-11",
-  externalId: "3BVT8znNQvlb22E3ZMu6Uc",
-  externalLink: "https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3BVT8znNQvlb22E3ZMu6Uc",
+      externalLink: "https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc",
+    },
+  ],
 } as const satisfies Release

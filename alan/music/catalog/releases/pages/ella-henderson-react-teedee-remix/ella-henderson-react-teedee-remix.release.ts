@@ -12,7 +12,12 @@ export const ellaHendersonReactTeedeeRemix = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-02-24",
-  externalId: "3KRUikSz8prvyPb777Oeee",
-  externalLink: "https://open.spotify.com/album/3KRUikSz8prvyPb777Oeee",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3KRUikSz8prvyPb777Oeee",
+      externalLink: "https://open.spotify.com/album/3KRUikSz8prvyPb777Oeee",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

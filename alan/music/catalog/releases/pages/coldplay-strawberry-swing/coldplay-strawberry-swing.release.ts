@@ -12,6 +12,11 @@ export const coldplayStrawberrySwing = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2009-09-13",
-  externalId: "5JyRcNcdZ8uf5vGH4b6ljZ",
-  externalLink: "https://open.spotify.com/album/5JyRcNcdZ8uf5vGH4b6ljZ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5JyRcNcdZ8uf5vGH4b6ljZ",
+      externalLink: "https://open.spotify.com/album/5JyRcNcdZ8uf5vGH4b6ljZ",
+    },
+  ],
 } as const satisfies Release

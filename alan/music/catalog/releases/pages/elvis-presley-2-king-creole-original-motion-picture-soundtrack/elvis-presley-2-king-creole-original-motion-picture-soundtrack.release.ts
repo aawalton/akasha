@@ -12,6 +12,11 @@ export const elvisPresley2KingCreoleOriginalMotionPictureSoundtrack = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-06-20",
-  externalId: "0Ug0zviYvvK9g3GyBDNklu",
-  externalLink: "https://open.spotify.com/album/0Ug0zviYvvK9g3GyBDNklu",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0Ug0zviYvvK9g3GyBDNklu",
+      externalLink: "https://open.spotify.com/album/0Ug0zviYvvK9g3GyBDNklu",
+    },
+  ],
 } as const satisfies Release

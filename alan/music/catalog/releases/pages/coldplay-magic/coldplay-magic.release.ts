@@ -12,6 +12,11 @@ export const coldplayMagic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-03-03",
-  externalId: "4cCfFozyo6JC8acN8uIP7u",
-  externalLink: "https://open.spotify.com/album/4cCfFozyo6JC8acN8uIP7u",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4cCfFozyo6JC8acN8uIP7u",
+      externalLink: "https://open.spotify.com/album/4cCfFozyo6JC8acN8uIP7u",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const coldplayFeelslikeimfallinginlove = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-06-21",
-  externalId: "6RjTapeTvms8jSeIRGc5Ve",
-  externalLink: "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6RjTapeTvms8jSeIRGc5Ve",
+      externalLink: "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve",
+    },
+  ],
 } as const satisfies Release

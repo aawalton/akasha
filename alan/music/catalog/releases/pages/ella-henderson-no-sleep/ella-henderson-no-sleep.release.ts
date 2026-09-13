@@ -12,7 +12,12 @@ export const ellaHendersonNoSleep = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-03-17",
-  externalId: "6mf8HZ3jitYeIlejz9Lq9p",
-  externalLink: "https://open.spotify.com/album/6mf8HZ3jitYeIlejz9Lq9p",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6mf8HZ3jitYeIlejz9Lq9p",
+      externalLink: "https://open.spotify.com/album/6mf8HZ3jitYeIlejz9Lq9p",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

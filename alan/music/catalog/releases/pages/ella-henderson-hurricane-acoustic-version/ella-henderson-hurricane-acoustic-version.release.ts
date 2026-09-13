@@ -12,7 +12,12 @@ export const ellaHendersonHurricaneAcousticVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-26",
-  externalId: "69XUoQgDdcktIwDqCugjPy",
-  externalLink: "https://open.spotify.com/album/69XUoQgDdcktIwDqCugjPy",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "69XUoQgDdcktIwDqCugjPy",
+      externalLink: "https://open.spotify.com/album/69XUoQgDdcktIwDqCugjPy",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

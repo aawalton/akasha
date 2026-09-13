@@ -12,6 +12,11 @@ export const clairoNomad = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-06-28",
-  externalId: "6Utl8nDyt1rOSXA2vOnqdq",
-  externalLink: "https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Utl8nDyt1rOSXA2vOnqdq",
+      externalLink: "https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq",
+    },
+  ],
 } as const satisfies Release

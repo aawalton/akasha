@@ -12,6 +12,11 @@ export const coldplayOrphansArabesque = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-10-24",
-  externalId: "1SnoyXTgl1jmhfmPwpKDCI",
-  externalLink: "https://open.spotify.com/album/1SnoyXTgl1jmhfmPwpKDCI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1SnoyXTgl1jmhfmPwpKDCI",
+      externalLink: "https://open.spotify.com/album/1SnoyXTgl1jmhfmPwpKDCI",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const coldplayEverydayLife = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-22",
-  externalId: "2FeyIYDDAQqcOJKOKhvHdr",
-  externalLink: "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2FeyIYDDAQqcOJKOKhvHdr",
+      externalLink: "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr",
+    },
+  ],
 } as const satisfies Release

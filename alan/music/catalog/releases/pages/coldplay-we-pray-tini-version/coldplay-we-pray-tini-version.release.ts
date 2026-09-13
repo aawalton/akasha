@@ -12,6 +12,11 @@ export const coldplayWePrayTiniVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-06",
-  externalId: "7JTrcbIR88dkMfNvdxcZBO",
-  externalLink: "https://open.spotify.com/album/7JTrcbIR88dkMfNvdxcZBO",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7JTrcbIR88dkMfNvdxcZBO",
+      externalLink: "https://open.spotify.com/album/7JTrcbIR88dkMfNvdxcZBO",
+    },
+  ],
 } as const satisfies Release

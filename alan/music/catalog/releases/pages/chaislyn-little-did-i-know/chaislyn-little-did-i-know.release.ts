@@ -12,6 +12,11 @@ export const chaislynLittleDidIKnow = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-11-06",
-  externalId: "7a8g1qUgPRFZhurR9TclvG",
-  externalLink: "https://open.spotify.com/album/7a8g1qUgPRFZhurR9TclvG",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7a8g1qUgPRFZhurR9TclvG",
+      externalLink: "https://open.spotify.com/album/7a8g1qUgPRFZhurR9TclvG",
+    },
+  ],
 } as const satisfies Release

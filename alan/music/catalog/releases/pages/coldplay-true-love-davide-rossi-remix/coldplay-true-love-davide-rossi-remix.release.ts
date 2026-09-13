@@ -12,6 +12,11 @@ export const coldplayTrueLoveDavideRossiRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-12-01",
-  externalId: "5TJzsFUF2RUzrje51UmkhG",
-  externalLink: "https://open.spotify.com/album/5TJzsFUF2RUzrje51UmkhG",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5TJzsFUF2RUzrje51UmkhG",
+      externalLink: "https://open.spotify.com/album/5TJzsFUF2RUzrje51UmkhG",
+    },
+  ],
 } as const satisfies Release

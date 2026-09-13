@@ -13,6 +13,11 @@ export const clairoPrettyGirl = {
   status: "completed",
   rank: "C",
   publishedAt: "2017-08-04",
-  externalId: "1c3h074NQBbcLPGNsXwO08",
-  externalLink: "https://open.spotify.com/album/1c3h074NQBbcLPGNsXwO08",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1c3h074NQBbcLPGNsXwO08",
+      externalLink: "https://open.spotify.com/album/1c3h074NQBbcLPGNsXwO08",
+    },
+  ],
 } as const satisfies Release

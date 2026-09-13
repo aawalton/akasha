@@ -12,7 +12,12 @@ export const ellaHendersonUnderTheSunWithAlokSwitchDiscoKcLightsRemixExtended = 
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-08-02",
-  externalId: "1rGQ12SP0h0JWCSkhgGYIN",
-  externalLink: "https://open.spotify.com/album/1rGQ12SP0h0JWCSkhgGYIN",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1rGQ12SP0h0JWCSkhgGYIN",
+      externalLink: "https://open.spotify.com/album/1rGQ12SP0h0JWCSkhgGYIN",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

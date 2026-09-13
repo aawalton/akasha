@@ -12,6 +12,11 @@ export const elvisPresley2ElvisFool = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1973-07-16",
-  externalId: "3gpHiNAmT5oXVxe6ewTGuN",
-  externalLink: "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3gpHiNAmT5oXVxe6ewTGuN",
+      externalLink: "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN",
+    },
+  ],
 } as const satisfies Release

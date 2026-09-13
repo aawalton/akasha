@@ -13,7 +13,12 @@ export const ejaeDinnerMateOriginalTelevisionSoundtrackPt5 = {
   status: "completed",
   rank: "A",
   publishedAt: "2020-06-16",
-  externalId: "3MR5SSiKdO3doI0Uz4I9x2",
-  externalLink: "https://open.spotify.com/album/3MR5SSiKdO3doI0Uz4I9x2",
-  lastSyncedAt: "2025-11-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3MR5SSiKdO3doI0Uz4I9x2",
+      externalLink: "https://open.spotify.com/album/3MR5SSiKdO3doI0Uz4I9x2",
+      lastSyncedAt: "2025-11-04",
+    },
+  ],
 } as const satisfies Release

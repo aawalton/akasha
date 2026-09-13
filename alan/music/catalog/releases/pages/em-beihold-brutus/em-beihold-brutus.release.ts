@@ -13,6 +13,11 @@ export const emBeiholdBrutus = {
   status: "completed",
   rank: "A",
   publishedAt: "2025-07-18",
-  externalId: "0alrjw1UQpZ2Ct5XWfnEjS",
-  externalLink: "https://open.spotify.com/album/0alrjw1UQpZ2Ct5XWfnEjS",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0alrjw1UQpZ2Ct5XWfnEjS",
+      externalLink: "https://open.spotify.com/album/0alrjw1UQpZ2Ct5XWfnEjS",
+    },
+  ],
 } as const satisfies Release

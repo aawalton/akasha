@@ -12,6 +12,11 @@ export const elvisPresley2TheWonderOfYouElvisPresleyWithTheRoyalPhilharmonicOrch
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-10-21",
-  externalId: "6oWz2hJ89n9mKarg3SO9ou",
-  externalLink: "https://open.spotify.com/album/6oWz2hJ89n9mKarg3SO9ou",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6oWz2hJ89n9mKarg3SO9ou",
+      externalLink: "https://open.spotify.com/album/6oWz2hJ89n9mKarg3SO9ou",
+    },
+  ],
 } as const satisfies Release

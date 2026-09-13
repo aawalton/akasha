@@ -12,6 +12,11 @@ export const elvisPresley2AlmostInLove = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1970-10-01",
-  externalId: "37RnDHLg68pu4owUWJYmMt",
-  externalLink: "https://open.spotify.com/album/37RnDHLg68pu4owUWJYmMt",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "37RnDHLg68pu4owUWJYmMt",
+      externalLink: "https://open.spotify.com/album/37RnDHLg68pu4owUWJYmMt",
+    },
+  ],
 } as const satisfies Release

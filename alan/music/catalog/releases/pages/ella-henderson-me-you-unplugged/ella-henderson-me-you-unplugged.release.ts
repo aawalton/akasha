@@ -12,7 +12,12 @@ export const ellaHendersonMeYouUnplugged = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-08-29",
-  externalId: "2z7tmSVSe6xdbv2qhIsJ0O",
-  externalLink: "https://open.spotify.com/album/2z7tmSVSe6xdbv2qhIsJ0O",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2z7tmSVSe6xdbv2qhIsJ0O",
+      externalLink: "https://open.spotify.com/album/2z7tmSVSe6xdbv2qhIsJ0O",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

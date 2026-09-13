@@ -12,7 +12,12 @@ export const ellaHendersonCrazyWhatLoveCanDo = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-04-08",
-  externalId: "0GnxssqYa2RU9EdWHhZ707",
-  externalLink: "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0GnxssqYa2RU9EdWHhZ707",
+      externalLink: "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

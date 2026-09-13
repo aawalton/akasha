@@ -12,7 +12,12 @@ export const ellaHendersonBraveAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-01-28",
-  externalId: "0moObTfsJiVZCaZsAwP3wK",
-  externalLink: "https://open.spotify.com/album/0moObTfsJiVZCaZsAwP3wK",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0moObTfsJiVZCaZsAwP3wK",
+      externalLink: "https://open.spotify.com/album/0moObTfsJiVZCaZsAwP3wK",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const coldplayTheBlueRoom = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1999-10-11",
-  externalId: "3MVb2CWB36x7VwYo5sZmf2",
-  externalLink: "https://open.spotify.com/album/3MVb2CWB36x7VwYo5sZmf2",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3MVb2CWB36x7VwYo5sZmf2",
+      externalLink: "https://open.spotify.com/album/3MVb2CWB36x7VwYo5sZmf2",
+    },
+  ],
 } as const satisfies Release

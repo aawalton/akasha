@@ -12,6 +12,11 @@ export const elvisPresley2Spinout = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1966-10-24",
-  externalId: "3ZxrkkUoGwgAJHxtsmYi8M",
-  externalLink: "https://open.spotify.com/album/3ZxrkkUoGwgAJHxtsmYi8M",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ZxrkkUoGwgAJHxtsmYi8M",
+      externalLink: "https://open.spotify.com/album/3ZxrkkUoGwgAJHxtsmYi8M",
+    },
+  ],
 } as const satisfies Release

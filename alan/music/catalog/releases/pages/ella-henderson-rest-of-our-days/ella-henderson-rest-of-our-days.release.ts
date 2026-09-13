@@ -12,7 +12,12 @@ export const ellaHendersonRestOfOurDays = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-10-27",
-  externalId: "50L3qkwrnkqHoEwOT6bp12",
-  externalLink: "https://open.spotify.com/album/50L3qkwrnkqHoEwOT6bp12",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "50L3qkwrnkqHoEwOT6bp12",
+      externalLink: "https://open.spotify.com/album/50L3qkwrnkqHoEwOT6bp12",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const elvisPresley2Speedway = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1968-05-20",
-  externalId: "27rnGQx6avdqjPq8gtKs7D",
-  externalLink: "https://open.spotify.com/album/27rnGQx6avdqjPq8gtKs7D",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "27rnGQx6avdqjPq8gtKs7D",
+      externalLink: "https://open.spotify.com/album/27rnGQx6avdqjPq8gtKs7D",
+    },
+  ],
 } as const satisfies Release

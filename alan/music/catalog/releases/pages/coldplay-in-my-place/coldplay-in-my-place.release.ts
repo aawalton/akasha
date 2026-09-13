@@ -12,6 +12,11 @@ export const coldplayInMyPlace = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2002-08-05",
-  externalId: "2fycwGrq4XpHHWoLR4hOzF",
-  externalLink: "https://open.spotify.com/album/2fycwGrq4XpHHWoLR4hOzF",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2fycwGrq4XpHHWoLR4hOzF",
+      externalLink: "https://open.spotify.com/album/2fycwGrq4XpHHWoLR4hOzF",
+    },
+  ],
 } as const satisfies Release

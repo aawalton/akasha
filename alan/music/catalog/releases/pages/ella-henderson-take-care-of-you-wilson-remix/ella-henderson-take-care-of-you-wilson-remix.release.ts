@@ -12,7 +12,12 @@ export const ellaHendersonTakeCareOfYouWilsonRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-24",
-  externalId: "3nzo6crUng1enyTSYHE8wX",
-  externalLink: "https://open.spotify.com/album/3nzo6crUng1enyTSYHE8wX",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3nzo6crUng1enyTSYHE8wX",
+      externalLink: "https://open.spotify.com/album/3nzo6crUng1enyTSYHE8wX",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const elvisPresley2ElvisPresleyChristmasDuets = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-10-10",
-  externalId: "0dZHOzNT3CYfHmK2yOW7oV",
-  externalLink: "https://open.spotify.com/album/0dZHOzNT3CYfHmK2yOW7oV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0dZHOzNT3CYfHmK2yOW7oV",
+      externalLink: "https://open.spotify.com/album/0dZHOzNT3CYfHmK2yOW7oV",
+    },
+  ],
 } as const satisfies Release

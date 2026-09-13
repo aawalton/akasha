@@ -12,6 +12,11 @@ export const coldplayParachutes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2000-07-10",
-  externalId: "6ZG5lRT77aJ3btmArcykra",
-  externalLink: "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6ZG5lRT77aJ3btmArcykra",
+      externalLink: "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra",
+    },
+  ],
 } as const satisfies Release

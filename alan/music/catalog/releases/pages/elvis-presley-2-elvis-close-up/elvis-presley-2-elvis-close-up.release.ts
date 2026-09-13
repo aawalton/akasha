@@ -12,6 +12,11 @@ export const elvisPresley2ElvisCloseUp = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2003-04-01",
-  externalId: "3kBT5ef0KWAuZokS4IWV7C",
-  externalLink: "https://open.spotify.com/album/3kBT5ef0KWAuZokS4IWV7C",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3kBT5ef0KWAuZokS4IWV7C",
+      externalLink: "https://open.spotify.com/album/3kBT5ef0KWAuZokS4IWV7C",
+    },
+  ],
 } as const satisfies Release

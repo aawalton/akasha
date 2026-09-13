@@ -12,7 +12,12 @@ export const ellaHendersonAlibiFeatRudimentalShapesVipMix = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-02-16",
-  externalId: "6ktR6Qucm21hfatJTtQzmJ",
-  externalLink: "https://open.spotify.com/album/6ktR6Qucm21hfatJTtQzmJ",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6ktR6Qucm21hfatJTtQzmJ",
+      externalLink: "https://open.spotify.com/album/6ktR6Qucm21hfatJTtQzmJ",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

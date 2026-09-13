@@ -12,6 +12,11 @@ export const elvisPresley2FrankieJohnny = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1966-01-01",
-  externalId: "2yyCsy9h9vEepo2nrWSsjw",
-  externalLink: "https://open.spotify.com/album/2yyCsy9h9vEepo2nrWSsjw",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2yyCsy9h9vEepo2nrWSsjw",
+      externalLink: "https://open.spotify.com/album/2yyCsy9h9vEepo2nrWSsjw",
+    },
+  ],
 } as const satisfies Release

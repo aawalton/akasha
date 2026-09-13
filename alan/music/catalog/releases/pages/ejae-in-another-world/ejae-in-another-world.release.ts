@@ -13,7 +13,12 @@ export const ejaeInAnotherWorld = {
   status: "completed",
   rank: "A",
   publishedAt: "2025-10-24",
-  externalId: "2PKwr5WeVaZlX6coR33aQ3",
-  externalLink: "https://open.spotify.com/album/2PKwr5WeVaZlX6coR33aQ3",
-  lastSyncedAt: "2025-10-28",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2PKwr5WeVaZlX6coR33aQ3",
+      externalLink: "https://open.spotify.com/album/2PKwr5WeVaZlX6coR33aQ3",
+      lastSyncedAt: "2025-10-28",
+    },
+  ],
 } as const satisfies Release

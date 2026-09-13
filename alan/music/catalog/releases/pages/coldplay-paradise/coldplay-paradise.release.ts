@@ -12,6 +12,11 @@ export const coldplayParadise = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2011-09-09",
-  externalId: "4DvSBRBGE20LBDoMOWjwmj",
-  externalLink: "https://open.spotify.com/album/4DvSBRBGE20LBDoMOWjwmj",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4DvSBRBGE20LBDoMOWjwmj",
+      externalLink: "https://open.spotify.com/album/4DvSBRBGE20LBDoMOWjwmj",
+    },
+  ],
 } as const satisfies Release

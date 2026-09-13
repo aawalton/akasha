@@ -12,6 +12,11 @@ export const coldplayCharlieBrownDaveAudeRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-02-24",
-  externalId: "5VeBLqypDgNfRglTd4kGGK",
-  externalLink: "https://open.spotify.com/album/5VeBLqypDgNfRglTd4kGGK",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5VeBLqypDgNfRglTd4kGGK",
+      externalLink: "https://open.spotify.com/album/5VeBLqypDgNfRglTd4kGGK",
+    },
+  ],
 } as const satisfies Release

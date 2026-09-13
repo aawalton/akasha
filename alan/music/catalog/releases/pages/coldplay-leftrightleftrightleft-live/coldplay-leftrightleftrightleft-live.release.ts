@@ -12,6 +12,11 @@ export const coldplayLeftrightleftrightleftLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2009-05-15",
-  externalId: "3pboBm7GTa6V5dFXXCt52b",
-  externalLink: "https://open.spotify.com/album/3pboBm7GTa6V5dFXXCt52b",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3pboBm7GTa6V5dFXXCt52b",
+      externalLink: "https://open.spotify.com/album/3pboBm7GTa6V5dFXXCt52b",
+    },
+  ],
 } as const satisfies Release

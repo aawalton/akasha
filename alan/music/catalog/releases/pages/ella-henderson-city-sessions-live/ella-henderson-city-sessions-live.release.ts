@@ -12,7 +12,12 @@ export const ellaHendersonCitySessionsLive = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-02-28",
-  externalId: "3vnyq72BdxeUA1RotT2yc1",
-  externalLink: "https://open.spotify.com/album/3vnyq72BdxeUA1RotT2yc1",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3vnyq72BdxeUA1RotT2yc1",
+      externalLink: "https://open.spotify.com/album/3vnyq72BdxeUA1RotT2yc1",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

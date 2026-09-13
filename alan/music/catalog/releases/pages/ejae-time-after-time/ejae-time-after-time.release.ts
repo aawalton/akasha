@@ -12,7 +12,12 @@ export const ejaeTimeAfterTime = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2026-02-06",
-  externalId: "24KhrK7jpSwwNDWvKr04NO",
-  externalLink: "https://open.spotify.com/album/24KhrK7jpSwwNDWvKr04NO",
-  lastSyncedAt: "2026-03-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "24KhrK7jpSwwNDWvKr04NO",
+      externalLink: "https://open.spotify.com/album/24KhrK7jpSwwNDWvKr04NO",
+      lastSyncedAt: "2026-03-09",
+    },
+  ],
 } as const satisfies Release

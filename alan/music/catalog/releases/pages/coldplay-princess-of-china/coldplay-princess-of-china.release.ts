@@ -12,6 +12,11 @@ export const coldplayPrincessOfChina = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-06-01",
-  externalId: "3yddXawPNWK9qUDqB2UMY7",
-  externalLink: "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3yddXawPNWK9qUDqB2UMY7",
+      externalLink: "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7",
+    },
+  ],
 } as const satisfies Release

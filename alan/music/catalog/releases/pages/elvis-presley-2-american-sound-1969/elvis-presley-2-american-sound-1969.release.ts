@@ -12,6 +12,11 @@ export const elvisPresley2AmericanSound1969 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-08-23",
-  externalId: "45su93rMPo8auQWHK3JaqF",
-  externalLink: "https://open.spotify.com/album/45su93rMPo8auQWHK3JaqF",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "45su93rMPo8auQWHK3JaqF",
+      externalLink: "https://open.spotify.com/album/45su93rMPo8auQWHK3JaqF",
+    },
+  ],
 } as const satisfies Release

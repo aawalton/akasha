@@ -12,7 +12,12 @@ export const ellaHendersonDreamOnMeRogerSanchezRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-30",
-  externalId: "2r8jQtXEk9O7BcA4WcOOeq",
-  externalLink: "https://open.spotify.com/album/2r8jQtXEk9O7BcA4WcOOeq",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2r8jQtXEk9O7BcA4WcOOeq",
+      externalLink: "https://open.spotify.com/album/2r8jQtXEk9O7BcA4WcOOeq",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

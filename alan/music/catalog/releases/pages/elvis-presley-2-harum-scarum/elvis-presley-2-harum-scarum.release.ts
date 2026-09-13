@@ -12,6 +12,11 @@ export const elvisPresley2HarumScarum = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1965-11-01",
-  externalId: "0DDokriMy7L6hseGI6Ju7C",
-  externalLink: "https://open.spotify.com/album/0DDokriMy7L6hseGI6Ju7C",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0DDokriMy7L6hseGI6Ju7C",
+      externalLink: "https://open.spotify.com/album/0DDokriMy7L6hseGI6Ju7C",
+    },
+  ],
 } as const satisfies Release

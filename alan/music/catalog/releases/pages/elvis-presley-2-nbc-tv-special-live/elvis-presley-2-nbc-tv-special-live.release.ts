@@ -12,6 +12,11 @@ export const elvisPresley2NbcTvSpecialLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1968-11-22",
-  externalId: "4OaxrDxZe97lotUT4cxoRX",
-  externalLink: "https://open.spotify.com/album/4OaxrDxZe97lotUT4cxoRX",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4OaxrDxZe97lotUT4cxoRX",
+      externalLink: "https://open.spotify.com/album/4OaxrDxZe97lotUT4cxoRX",
+    },
+  ],
 } as const satisfies Release

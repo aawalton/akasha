@@ -12,7 +12,12 @@ export const ellaHendersonAlibiFeatRudimentalTribbsRemix = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-03-22",
-  externalId: "7467JFsBgPOToBr2nuhUE4",
-  externalLink: "https://open.spotify.com/album/7467JFsBgPOToBr2nuhUE4",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7467JFsBgPOToBr2nuhUE4",
+      externalLink: "https://open.spotify.com/album/7467JFsBgPOToBr2nuhUE4",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

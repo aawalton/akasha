@@ -12,7 +12,12 @@ export const ellaHendersonOneDoorClosesFeatBreland = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-03-21",
-  externalId: "5AOYmjNyAFYXsceGhAB6Dr",
-  externalLink: "https://open.spotify.com/album/5AOYmjNyAFYXsceGhAB6Dr",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5AOYmjNyAFYXsceGhAB6Dr",
+      externalLink: "https://open.spotify.com/album/5AOYmjNyAFYXsceGhAB6Dr",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const coldplay2000Miles = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2003-12-02",
-  externalId: "0Uk9J6k7ZV1SCsezKHCg6w",
-  externalLink: "https://open.spotify.com/album/0Uk9J6k7ZV1SCsezKHCg6w",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0Uk9J6k7ZV1SCsezKHCg6w",
+      externalLink: "https://open.spotify.com/album/0Uk9J6k7ZV1SCsezKHCg6w",
+    },
+  ],
 } as const satisfies Release

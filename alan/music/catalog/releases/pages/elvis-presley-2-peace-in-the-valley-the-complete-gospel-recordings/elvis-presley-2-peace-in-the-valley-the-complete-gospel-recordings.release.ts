@@ -12,6 +12,11 @@ export const elvisPresley2PeaceInTheValleyTheCompleteGospelRecordings = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1999-11-17",
-  externalId: "0aErTlK9VurHpgFTdA0T8V",
-  externalLink: "https://open.spotify.com/album/0aErTlK9VurHpgFTdA0T8V",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0aErTlK9VurHpgFTdA0T8V",
+      externalLink: "https://open.spotify.com/album/0aErTlK9VurHpgFTdA0T8V",
+    },
+  ],
 } as const satisfies Release

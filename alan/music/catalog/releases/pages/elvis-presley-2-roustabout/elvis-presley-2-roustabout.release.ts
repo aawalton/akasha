@@ -12,6 +12,11 @@ export const elvisPresley2Roustabout = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1964-10-19",
-  externalId: "7wxRGT2I9DKlMUo62cLuoV",
-  externalLink: "https://open.spotify.com/album/7wxRGT2I9DKlMUo62cLuoV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7wxRGT2I9DKlMUo62cLuoV",
+      externalLink: "https://open.spotify.com/album/7wxRGT2I9DKlMUo62cLuoV",
+    },
+  ],
 } as const satisfies Release

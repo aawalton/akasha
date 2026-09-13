@@ -12,6 +12,11 @@ export const elvisPresley2BossaNovaBabyTheUltimateElvisPresleyPartyAlbum = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-06-04",
-  externalId: "4RaW2vsKwtP8AxXVAgZyZN",
-  externalLink: "https://open.spotify.com/album/4RaW2vsKwtP8AxXVAgZyZN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4RaW2vsKwtP8AxXVAgZyZN",
+      externalLink: "https://open.spotify.com/album/4RaW2vsKwtP8AxXVAgZyZN",
+    },
+  ],
 } as const satisfies Release

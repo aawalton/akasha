@@ -12,6 +12,11 @@ export const coldplayLiveInBuenosAires = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-12-07",
-  externalId: "19CvkGjYpifkdwgVJSbog2",
-  externalLink: "https://open.spotify.com/album/19CvkGjYpifkdwgVJSbog2",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "19CvkGjYpifkdwgVJSbog2",
+      externalLink: "https://open.spotify.com/album/19CvkGjYpifkdwgVJSbog2",
+    },
+  ],
 } as const satisfies Release

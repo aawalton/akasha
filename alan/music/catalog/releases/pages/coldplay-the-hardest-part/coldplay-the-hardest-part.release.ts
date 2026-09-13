@@ -12,6 +12,11 @@ export const coldplayTheHardestPart = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2006-04-06",
-  externalId: "2dlacdThpQkKMsjHIomtu8",
-  externalLink: "https://open.spotify.com/album/2dlacdThpQkKMsjHIomtu8",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2dlacdThpQkKMsjHIomtu8",
+      externalLink: "https://open.spotify.com/album/2dlacdThpQkKMsjHIomtu8",
+    },
+  ],
 } as const satisfies Release

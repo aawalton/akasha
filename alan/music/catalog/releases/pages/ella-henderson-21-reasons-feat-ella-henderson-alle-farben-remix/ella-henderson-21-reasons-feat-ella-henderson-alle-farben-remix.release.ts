@@ -12,7 +12,12 @@ export const ellaHenderson21ReasonsFeatEllaHendersonAlleFarbenRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-22",
-  externalId: "6N5kDEZ0GeHb4E9adH1Q9x",
-  externalLink: "https://open.spotify.com/album/6N5kDEZ0GeHb4E9adH1Q9x",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6N5kDEZ0GeHb4E9adH1Q9x",
+      externalLink: "https://open.spotify.com/album/6N5kDEZ0GeHb4E9adH1Q9x",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

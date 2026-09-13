@@ -12,6 +12,11 @@ export const elvisPresley2KissinCousins = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1964-04-01",
-  externalId: "6pmtghRWm6C8EsD48dKmTi",
-  externalLink: "https://open.spotify.com/album/6pmtghRWm6C8EsD48dKmTi",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6pmtghRWm6C8EsD48dKmTi",
+      externalLink: "https://open.spotify.com/album/6pmtghRWm6C8EsD48dKmTi",
+    },
+  ],
 } as const satisfies Release

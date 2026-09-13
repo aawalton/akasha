@@ -12,7 +12,12 @@ export const ellaHendersonRiskItAllAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-09-10",
-  externalId: "3ktN8lAbG1r45q0DqoN8Bl",
-  externalLink: "https://open.spotify.com/album/3ktN8lAbG1r45q0DqoN8Bl",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ktN8lAbG1r45q0DqoN8Bl",
+      externalLink: "https://open.spotify.com/album/3ktN8lAbG1r45q0DqoN8Bl",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

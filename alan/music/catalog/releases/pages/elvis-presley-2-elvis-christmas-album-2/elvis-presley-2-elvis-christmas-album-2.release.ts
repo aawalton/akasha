@@ -12,6 +12,11 @@ export const elvisPresley2ElvisChristmasAlbum2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-11-20",
-  externalId: "3MKn8SNvHkWbpSdG09Lepl",
-  externalLink: "https://open.spotify.com/album/3MKn8SNvHkWbpSdG09Lepl",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3MKn8SNvHkWbpSdG09Lepl",
+      externalLink: "https://open.spotify.com/album/3MKn8SNvHkWbpSdG09Lepl",
+    },
+  ],
 } as const satisfies Release

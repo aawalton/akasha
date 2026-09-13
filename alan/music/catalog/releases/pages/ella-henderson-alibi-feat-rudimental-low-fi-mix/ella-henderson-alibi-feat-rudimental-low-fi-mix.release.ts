@@ -12,7 +12,12 @@ export const ellaHendersonAlibiFeatRudimentalLowFiMix = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-05-03",
-  externalId: "6i6HsPYeP1di8n8LNCuuEk",
-  externalLink: "https://open.spotify.com/album/6i6HsPYeP1di8n8LNCuuEk",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6i6HsPYeP1di8n8LNCuuEk",
+      externalLink: "https://open.spotify.com/album/6i6HsPYeP1di8n8LNCuuEk",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

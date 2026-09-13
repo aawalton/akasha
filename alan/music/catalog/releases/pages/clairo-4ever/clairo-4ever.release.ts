@@ -12,6 +12,11 @@ export const clairo4ever = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-04-27",
-  externalId: "4xnTJLqtZcXaj1QHO0GMjt",
-  externalLink: "https://open.spotify.com/album/4xnTJLqtZcXaj1QHO0GMjt",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4xnTJLqtZcXaj1QHO0GMjt",
+      externalLink: "https://open.spotify.com/album/4xnTJLqtZcXaj1QHO0GMjt",
+    },
+  ],
 } as const satisfies Release

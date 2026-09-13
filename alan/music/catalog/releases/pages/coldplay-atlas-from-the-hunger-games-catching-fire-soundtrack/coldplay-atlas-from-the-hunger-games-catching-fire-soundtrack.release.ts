@@ -12,6 +12,11 @@ export const coldplayAtlasFromTheHungerGamesCatchingFireSoundtrack = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-01-01",
-  externalId: "1aJ1PDNjC6ZzEu74BkmGE4",
-  externalLink: "https://open.spotify.com/album/1aJ1PDNjC6ZzEu74BkmGE4",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1aJ1PDNjC6ZzEu74BkmGE4",
+      externalLink: "https://open.spotify.com/album/1aJ1PDNjC6ZzEu74BkmGE4",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const ellaHendersonHurricaneVipRemixExtendedMix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-12",
-  externalId: "6hkLWhcIZbS9giwRmoGXam",
-  externalLink: "https://open.spotify.com/album/6hkLWhcIZbS9giwRmoGXam",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6hkLWhcIZbS9giwRmoGXam",
+      externalLink: "https://open.spotify.com/album/6hkLWhcIZbS9giwRmoGXam",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

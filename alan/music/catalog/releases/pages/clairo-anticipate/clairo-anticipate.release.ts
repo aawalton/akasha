@@ -12,6 +12,11 @@ export const clairoAnticipate = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-06-02",
-  externalId: "1hy99Geeqk41ERKiyLz0b1",
-  externalLink: "https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1hy99Geeqk41ERKiyLz0b1",
+      externalLink: "https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1",
+    },
+  ],
 } as const satisfies Release

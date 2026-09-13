@@ -12,6 +12,11 @@ export const clairoBubbleGum = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-02-22",
-  externalId: "4IlnBRDEsHcr9EWxmbgMC2",
-  externalLink: "https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4IlnBRDEsHcr9EWxmbgMC2",
+      externalLink: "https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2",
+    },
+  ],
 } as const satisfies Release

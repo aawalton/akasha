@@ -12,6 +12,11 @@ export const coldplayHypnotised = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-03-02",
-  externalId: "165kxlULHc34us8oU420iw",
-  externalLink: "https://open.spotify.com/album/165kxlULHc34us8oU420iw",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "165kxlULHc34us8oU420iw",
+      externalLink: "https://open.spotify.com/album/165kxlULHc34us8oU420iw",
+    },
+  ],
 } as const satisfies Release

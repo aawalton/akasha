@@ -12,6 +12,11 @@ export const clairoAfterMidnightFeatClairo = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-03-16",
-  externalId: "6xsvkBbeMsrk6HPDBsJEwS",
-  externalLink: "https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6xsvkBbeMsrk6HPDBsJEwS",
+      externalLink: "https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS",
+    },
+  ],
 } as const satisfies Release

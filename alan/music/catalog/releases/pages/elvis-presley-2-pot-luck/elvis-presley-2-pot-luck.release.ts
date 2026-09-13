@@ -12,6 +12,11 @@ export const elvisPresley2PotLuck = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1962-06-05",
-  externalId: "2g4kvBYEZoUaO5rMmR4CJI",
-  externalLink: "https://open.spotify.com/album/2g4kvBYEZoUaO5rMmR4CJI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2g4kvBYEZoUaO5rMmR4CJI",
+      externalLink: "https://open.spotify.com/album/2g4kvBYEZoUaO5rMmR4CJI",
+    },
+  ],
 } as const satisfies Release

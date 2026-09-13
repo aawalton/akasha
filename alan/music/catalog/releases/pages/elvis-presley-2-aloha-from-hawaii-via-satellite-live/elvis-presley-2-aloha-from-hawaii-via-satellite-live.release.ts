@@ -12,6 +12,11 @@ export const elvisPresley2AlohaFromHawaiiViaSatelliteLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1973-02-02",
-  externalId: "6AUihdKWdT5evm91G7wirB",
-  externalLink: "https://open.spotify.com/album/6AUihdKWdT5evm91G7wirB",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6AUihdKWdT5evm91G7wirB",
+      externalLink: "https://open.spotify.com/album/6AUihdKWdT5evm91G7wirB",
+    },
+  ],
 } as const satisfies Release

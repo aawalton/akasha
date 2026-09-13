@@ -12,6 +12,11 @@ export const elvisPresley2TheHomeRecordings = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1999-04-01",
-  externalId: "1ZaRcNyh6Nv2h9CktbJaEV",
-  externalLink: "https://open.spotify.com/album/1ZaRcNyh6Nv2h9CktbJaEV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1ZaRcNyh6Nv2h9CktbJaEV",
+      externalLink: "https://open.spotify.com/album/1ZaRcNyh6Nv2h9CktbJaEV",
+    },
+  ],
 } as const satisfies Release

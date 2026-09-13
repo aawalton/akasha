@@ -12,6 +12,11 @@ export const chaislynMakeBelieve = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-06-21",
-  externalId: "5l9wYwEdKQfhjRJIEuBOP6",
-  externalLink: "https://open.spotify.com/album/5l9wYwEdKQfhjRJIEuBOP6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5l9wYwEdKQfhjRJIEuBOP6",
+      externalLink: "https://open.spotify.com/album/5l9wYwEdKQfhjRJIEuBOP6",
+    },
+  ],
 } as const satisfies Release

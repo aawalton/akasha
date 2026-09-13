@@ -12,6 +12,11 @@ export const coldplayARushOfBloodToTheHead = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2002-08-27",
-  externalId: "0RHX9XECH8IVI3LNgWDpmQ",
-  externalLink: "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0RHX9XECH8IVI3LNgWDpmQ",
+      externalLink: "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ",
+    },
+  ],
 } as const satisfies Release

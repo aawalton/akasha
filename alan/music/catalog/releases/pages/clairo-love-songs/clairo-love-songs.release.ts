@@ -12,6 +12,11 @@ export const clairoLoveSongs = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-10-09",
-  externalId: "4bPgrWgCXGtFkieGEJRioB",
-  externalLink: "https://open.spotify.com/album/4bPgrWgCXGtFkieGEJRioB",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4bPgrWgCXGtFkieGEJRioB",
+      externalLink: "https://open.spotify.com/album/4bPgrWgCXGtFkieGEJRioB",
+    },
+  ],
 } as const satisfies Release

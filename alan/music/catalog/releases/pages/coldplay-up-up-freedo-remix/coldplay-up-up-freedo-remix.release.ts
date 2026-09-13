@@ -12,6 +12,11 @@ export const coldplayUpUpFreedoRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-09-16",
-  externalId: "46ElgN92j4wktUnUkxUFKR",
-  externalLink: "https://open.spotify.com/album/46ElgN92j4wktUnUkxUFKR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "46ElgN92j4wktUnUkxUFKR",
+      externalLink: "https://open.spotify.com/album/46ElgN92j4wktUnUkxUFKR",
+    },
+  ],
 } as const satisfies Release

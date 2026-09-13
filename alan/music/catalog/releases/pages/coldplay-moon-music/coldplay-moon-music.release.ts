@@ -12,6 +12,11 @@ export const coldplayMoonMusic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-10-04",
-  externalId: "5SGtrmYbIo0Dsg4kJ4qjM6",
-  externalLink: "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5SGtrmYbIo0Dsg4kJ4qjM6",
+      externalLink: "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6",
+    },
+  ],
 } as const satisfies Release

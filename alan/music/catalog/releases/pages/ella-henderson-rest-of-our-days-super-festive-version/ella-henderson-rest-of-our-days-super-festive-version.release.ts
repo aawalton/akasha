@@ -12,7 +12,12 @@ export const ellaHendersonRestOfOurDaysSuperFestiveVersion = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-12-15",
-  externalId: "57VGLVjkm1EGEQGs1MsTwV",
-  externalLink: "https://open.spotify.com/album/57VGLVjkm1EGEQGs1MsTwV",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "57VGLVjkm1EGEQGs1MsTwV",
+      externalLink: "https://open.spotify.com/album/57VGLVjkm1EGEQGs1MsTwV",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

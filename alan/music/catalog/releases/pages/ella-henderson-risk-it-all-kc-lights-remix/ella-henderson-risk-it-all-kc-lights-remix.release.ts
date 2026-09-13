@@ -12,7 +12,12 @@ export const ellaHendersonRiskItAllKcLightsRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-08",
-  externalId: "4s8w74CnABI1jBQlpHOJAY",
-  externalLink: "https://open.spotify.com/album/4s8w74CnABI1jBQlpHOJAY",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4s8w74CnABI1jBQlpHOJAY",
+      externalLink: "https://open.spotify.com/album/4s8w74CnABI1jBQlpHOJAY",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

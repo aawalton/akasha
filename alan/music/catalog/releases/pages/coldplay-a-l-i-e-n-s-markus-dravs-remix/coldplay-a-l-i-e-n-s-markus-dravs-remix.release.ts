@@ -12,6 +12,11 @@ export const coldplayALIENSMarkusDravsRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-07-21",
-  externalId: "3pg2wMCqJzTksen01JRptU",
-  externalLink: "https://open.spotify.com/album/3pg2wMCqJzTksen01JRptU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3pg2wMCqJzTksen01JRptU",
+      externalLink: "https://open.spotify.com/album/3pg2wMCqJzTksen01JRptU",
+    },
+  ],
 } as const satisfies Release

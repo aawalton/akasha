@@ -12,6 +12,11 @@ export const coldplayOrphansMuziRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-04",
-  externalId: "2BFaHYLKy6IvNfD0zi5EQW",
-  externalLink: "https://open.spotify.com/album/2BFaHYLKy6IvNfD0zi5EQW",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2BFaHYLKy6IvNfD0zi5EQW",
+      externalLink: "https://open.spotify.com/album/2BFaHYLKy6IvNfD0zi5EQW",
+    },
+  ],
 } as const satisfies Release

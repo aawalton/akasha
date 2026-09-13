@@ -12,6 +12,11 @@ export const elvisPresley2LetSBeFriendsExpandedEdition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1970-04-01",
-  externalId: "1Y2xJiEIq4l8FMSLNTyzwd",
-  externalLink: "https://open.spotify.com/album/1Y2xJiEIq4l8FMSLNTyzwd",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Y2xJiEIq4l8FMSLNTyzwd",
+      externalLink: "https://open.spotify.com/album/1Y2xJiEIq4l8FMSLNTyzwd",
+    },
+  ],
 } as const satisfies Release

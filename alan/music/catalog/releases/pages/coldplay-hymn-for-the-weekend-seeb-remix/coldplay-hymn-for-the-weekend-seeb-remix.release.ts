@@ -12,6 +12,11 @@ export const coldplayHymnForTheWeekendSeebRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-03-25",
-  externalId: "0ezwRysfWCrR5tDgpBwkIw",
-  externalLink: "https://open.spotify.com/album/0ezwRysfWCrR5tDgpBwkIw",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0ezwRysfWCrR5tDgpBwkIw",
+      externalLink: "https://open.spotify.com/album/0ezwRysfWCrR5tDgpBwkIw",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const clairoBetterSgLewisXClairo = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-07-06",
-  externalId: "2lZmVu1fNVLtqPyhRiDdsd",
-  externalLink: "https://open.spotify.com/album/2lZmVu1fNVLtqPyhRiDdsd",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2lZmVu1fNVLtqPyhRiDdsd",
+      externalLink: "https://open.spotify.com/album/2lZmVu1fNVLtqPyhRiDdsd",
+    },
+  ],
 } as const satisfies Release

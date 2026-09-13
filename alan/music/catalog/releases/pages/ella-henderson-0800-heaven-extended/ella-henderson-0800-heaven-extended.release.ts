@@ -12,7 +12,12 @@ export const ellaHenderson0800HeavenExtended = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-06-09",
-  externalId: "5QyvzRFIeneqKtdDsyuxMP",
-  externalLink: "https://open.spotify.com/album/5QyvzRFIeneqKtdDsyuxMP",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5QyvzRFIeneqKtdDsyuxMP",
+      externalLink: "https://open.spotify.com/album/5QyvzRFIeneqKtdDsyuxMP",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const elvisPresley2ElvisSingsLeiberAndStoller = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1980-06-01",
-  externalId: "1nqDrIknqoUl758F8trs8H",
-  externalLink: "https://open.spotify.com/album/1nqDrIknqoUl758F8trs8H",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1nqDrIknqoUl758F8trs8H",
+      externalLink: "https://open.spotify.com/album/1nqDrIknqoUl758F8trs8H",
+    },
+  ],
 } as const satisfies Release

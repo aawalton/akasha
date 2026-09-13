@@ -12,6 +12,11 @@ export const coldplayGodPutASmileUponYourFace = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2003-07-07",
-  externalId: "5ZHXwTzxonEauEvYWIgBfw",
-  externalLink: "https://open.spotify.com/album/5ZHXwTzxonEauEvYWIgBfw",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5ZHXwTzxonEauEvYWIgBfw",
+      externalLink: "https://open.spotify.com/album/5ZHXwTzxonEauEvYWIgBfw",
+    },
+  ],
 } as const satisfies Release

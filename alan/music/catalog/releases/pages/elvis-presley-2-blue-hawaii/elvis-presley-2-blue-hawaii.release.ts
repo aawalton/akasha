@@ -12,6 +12,11 @@ export const elvisPresley2BlueHawaii = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1961-10-20",
-  externalId: "7xe8VI48TxUpU1IIo0RfGi",
-  externalLink: "https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7xe8VI48TxUpU1IIo0RfGi",
+      externalLink: "https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi",
+    },
+  ],
 } as const satisfies Release

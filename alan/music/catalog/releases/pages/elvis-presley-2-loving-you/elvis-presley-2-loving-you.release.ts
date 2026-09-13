@@ -12,6 +12,11 @@ export const elvisPresley2LovingYou = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1957-06-20",
-  externalId: "7KZSeiE569txmIxoNBQLS2",
-  externalLink: "https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7KZSeiE569txmIxoNBQLS2",
+      externalLink: "https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2",
+    },
+  ],
 } as const satisfies Release

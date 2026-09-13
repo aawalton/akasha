@@ -12,6 +12,11 @@ export const coldplayHigherPowerTiestoRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-06-04",
-  externalId: "31uapL5Q92IadPRWycdPKK",
-  externalLink: "https://open.spotify.com/album/31uapL5Q92IadPRWycdPKK",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "31uapL5Q92IadPRWycdPKK",
+      externalLink: "https://open.spotify.com/album/31uapL5Q92IadPRWycdPKK",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const coldplayAllMyLovePnauXColdplay = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-11-29",
-  externalId: "5ndvwHbg1XuPobvdNIhguO",
-  externalLink: "https://open.spotify.com/album/5ndvwHbg1XuPobvdNIhguO",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5ndvwHbg1XuPobvdNIhguO",
+      externalLink: "https://open.spotify.com/album/5ndvwHbg1XuPobvdNIhguO",
+    },
+  ],
 } as const satisfies Release

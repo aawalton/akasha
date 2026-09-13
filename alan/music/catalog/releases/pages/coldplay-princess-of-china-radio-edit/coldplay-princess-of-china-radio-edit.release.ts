@@ -12,6 +12,11 @@ export const coldplayPrincessOfChinaRadioEdit = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-04-13",
-  externalId: "5O8q5vQVJIaCuDpC01AtaP",
-  externalLink: "https://open.spotify.com/album/5O8q5vQVJIaCuDpC01AtaP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5O8q5vQVJIaCuDpC01AtaP",
+      externalLink: "https://open.spotify.com/album/5O8q5vQVJIaCuDpC01AtaP",
+    },
+  ],
 } as const satisfies Release

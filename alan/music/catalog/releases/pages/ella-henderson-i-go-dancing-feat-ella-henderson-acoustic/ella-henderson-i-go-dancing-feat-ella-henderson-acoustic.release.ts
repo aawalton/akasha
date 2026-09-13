@@ -12,7 +12,12 @@ export const ellaHendersonIGoDancingFeatEllaHendersonAcoustic = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-06-09",
-  externalId: "6U3g1EK81qlcLQWTN04ibr",
-  externalLink: "https://open.spotify.com/album/6U3g1EK81qlcLQWTN04ibr",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6U3g1EK81qlcLQWTN04ibr",
+      externalLink: "https://open.spotify.com/album/6U3g1EK81qlcLQWTN04ibr",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

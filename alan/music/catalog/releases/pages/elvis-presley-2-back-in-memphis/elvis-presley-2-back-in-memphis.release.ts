@@ -12,6 +12,11 @@ export const elvisPresley2BackInMemphis = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1969-10-15",
-  externalId: "7j8nXZAzFktPwQOHqLGSKm",
-  externalLink: "https://open.spotify.com/album/7j8nXZAzFktPwQOHqLGSKm",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7j8nXZAzFktPwQOHqLGSKm",
+      externalLink: "https://open.spotify.com/album/7j8nXZAzFktPwQOHqLGSKm",
+    },
+  ],
 } as const satisfies Release

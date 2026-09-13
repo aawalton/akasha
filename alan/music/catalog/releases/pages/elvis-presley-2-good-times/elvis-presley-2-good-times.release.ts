@@ -12,6 +12,11 @@ export const elvisPresley2GoodTimes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1974-05-20",
-  externalId: "0bVlE6dhJEsCzCX2CWrOCw",
-  externalLink: "https://open.spotify.com/album/0bVlE6dhJEsCzCX2CWrOCw",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0bVlE6dhJEsCzCX2CWrOCw",
+      externalLink: "https://open.spotify.com/album/0bVlE6dhJEsCzCX2CWrOCw",
+    },
+  ],
 } as const satisfies Release

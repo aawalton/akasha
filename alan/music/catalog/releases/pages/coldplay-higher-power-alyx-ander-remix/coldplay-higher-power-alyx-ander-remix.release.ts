@@ -12,6 +12,11 @@ export const coldplayHigherPowerAlyxAnderRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-07-05",
-  externalId: "5QuWXn0Hco1qqQh3xbZQWW",
-  externalLink: "https://open.spotify.com/album/5QuWXn0Hco1qqQh3xbZQWW",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5QuWXn0Hco1qqQh3xbZQWW",
+      externalLink: "https://open.spotify.com/album/5QuWXn0Hco1qqQh3xbZQWW",
+    },
+  ],
 } as const satisfies Release

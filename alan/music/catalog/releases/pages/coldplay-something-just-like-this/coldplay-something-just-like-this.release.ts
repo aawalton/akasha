@@ -12,6 +12,11 @@ export const coldplaySomethingJustLikeThis = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-02-22",
-  externalId: "7IzpJkWQqgz1BTutQvSitX",
-  externalLink: "https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7IzpJkWQqgz1BTutQvSitX",
+      externalLink: "https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX",
+    },
+  ],
 } as const satisfies Release

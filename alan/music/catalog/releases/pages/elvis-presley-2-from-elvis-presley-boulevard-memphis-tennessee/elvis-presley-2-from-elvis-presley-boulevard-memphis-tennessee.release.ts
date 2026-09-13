@@ -12,6 +12,11 @@ export const elvisPresley2FromElvisPresleyBoulevardMemphisTennessee = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1976-05-01",
-  externalId: "6Kc8A5gqFZjDUeq77xSAK6",
-  externalLink: "https://open.spotify.com/album/6Kc8A5gqFZjDUeq77xSAK6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Kc8A5gqFZjDUeq77xSAK6",
+      externalLink: "https://open.spotify.com/album/6Kc8A5gqFZjDUeq77xSAK6",
+    },
+  ],
 } as const satisfies Release

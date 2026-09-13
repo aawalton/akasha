@@ -12,6 +12,11 @@ export const coldplayASkyFullOfStarsRobinSchulzRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-07-31",
-  externalId: "1QpCQWJU6BLupL1LgQoNXW",
-  externalLink: "https://open.spotify.com/album/1QpCQWJU6BLupL1LgQoNXW",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1QpCQWJU6BLupL1LgQoNXW",
+      externalLink: "https://open.spotify.com/album/1QpCQWJU6BLupL1LgQoNXW",
+    },
+  ],
 } as const satisfies Release

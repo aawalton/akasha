@@ -12,7 +12,12 @@ export const ellaHendersonBraveLucaSchreinerRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-02-11",
-  externalId: "4vQK9hMZF4ksD5h9qB9NWq",
-  externalLink: "https://open.spotify.com/album/4vQK9hMZF4ksD5h9qB9NWq",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4vQK9hMZF4ksD5h9qB9NWq",
+      externalLink: "https://open.spotify.com/album/4vQK9hMZF4ksD5h9qB9NWq",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

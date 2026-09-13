@@ -12,6 +12,11 @@ export const elvisPresley2RecordedLiveOnStageInMemphis = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1974-06-15",
-  externalId: "07d8ncb9ZMze3PXFhIuPxR",
-  externalLink: "https://open.spotify.com/album/07d8ncb9ZMze3PXFhIuPxR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "07d8ncb9ZMze3PXFhIuPxR",
+      externalLink: "https://open.spotify.com/album/07d8ncb9ZMze3PXFhIuPxR",
+    },
+  ],
 } as const satisfies Release

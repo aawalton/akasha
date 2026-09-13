@@ -12,7 +12,12 @@ export const ellaHendersonHardWork = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-01-06",
-  externalId: "0eN2o7Um2ZoOZxZLCd36X4",
-  externalLink: "https://open.spotify.com/album/0eN2o7Um2ZoOZxZLCd36X4",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0eN2o7Um2ZoOZxZLCd36X4",
+      externalLink: "https://open.spotify.com/album/0eN2o7Um2ZoOZxZLCd36X4",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

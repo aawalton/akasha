@@ -12,7 +12,12 @@ export const ellaHendersonRestOfOurDaysLiveFromLondon = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-12-01",
-  externalId: "3Lh8EpTON4JKp7o8qGyjcp",
-  externalLink: "https://open.spotify.com/album/3Lh8EpTON4JKp7o8qGyjcp",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3Lh8EpTON4JKp7o8qGyjcp",
+      externalLink: "https://open.spotify.com/album/3Lh8EpTON4JKp7o8qGyjcp",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

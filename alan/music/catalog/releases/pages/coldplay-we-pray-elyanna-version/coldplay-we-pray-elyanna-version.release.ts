@@ -12,6 +12,11 @@ export const coldplayWePrayElyannaVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-20",
-  externalId: "7EAQXnF7TwFUHYC2UtIQq6",
-  externalLink: "https://open.spotify.com/album/7EAQXnF7TwFUHYC2UtIQq6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7EAQXnF7TwFUHYC2UtIQq6",
+      externalLink: "https://open.spotify.com/album/7EAQXnF7TwFUHYC2UtIQq6",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const elvisPresley2HarumScarumOriginalSoundtrack = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-01-08",
-  externalId: "3M8hQJhN0yThsGIqKL7rfO",
-  externalLink: "https://open.spotify.com/album/3M8hQJhN0yThsGIqKL7rfO",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3M8hQJhN0yThsGIqKL7rfO",
+      externalLink: "https://open.spotify.com/album/3M8hQJhN0yThsGIqKL7rfO",
+    },
+  ],
 } as const satisfies Release

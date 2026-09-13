@@ -12,6 +12,11 @@ export const elvisPresley2GirlsGirlsGirls = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1962-11-12",
-  externalId: "6wH0jlf2q1yCprUO5XWSdz",
-  externalLink: "https://open.spotify.com/album/6wH0jlf2q1yCprUO5XWSdz",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6wH0jlf2q1yCprUO5XWSdz",
+      externalLink: "https://open.spotify.com/album/6wH0jlf2q1yCprUO5XWSdz",
+    },
+  ],
 } as const satisfies Release

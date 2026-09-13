@@ -12,6 +12,11 @@ export const coldplaySpeedOfSound = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2005-05-23",
-  externalId: "0rQTtNDDfCYNWijQz3ghQf",
-  externalLink: "https://open.spotify.com/album/0rQTtNDDfCYNWijQz3ghQf",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0rQTtNDDfCYNWijQz3ghQf",
+      externalLink: "https://open.spotify.com/album/0rQTtNDDfCYNWijQz3ghQf",
+    },
+  ],
 } as const satisfies Release

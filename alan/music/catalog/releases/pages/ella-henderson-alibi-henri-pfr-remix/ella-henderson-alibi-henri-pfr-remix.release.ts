@@ -12,7 +12,12 @@ export const ellaHendersonAlibiHenriPfrRemix = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-04-12",
-  externalId: "667SyWnWSEJhdIePKT28A4",
-  externalLink: "https://open.spotify.com/album/667SyWnWSEJhdIePKT28A4",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "667SyWnWSEJhdIePKT28A4",
+      externalLink: "https://open.spotify.com/album/667SyWnWSEJhdIePKT28A4",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

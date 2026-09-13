@@ -12,6 +12,11 @@ export const elvisPresley2MoodyBlue = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1977-07-19",
-  externalId: "08bROKoMarHS0jRzZOEv08",
-  externalLink: "https://open.spotify.com/album/08bROKoMarHS0jRzZOEv08",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "08bROKoMarHS0jRzZOEv08",
+      externalLink: "https://open.spotify.com/album/08bROKoMarHS0jRzZOEv08",
+    },
+  ],
 } as const satisfies Release

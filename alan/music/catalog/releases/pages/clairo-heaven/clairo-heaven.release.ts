@@ -12,6 +12,11 @@ export const clairoHeaven = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-09-07",
-  externalId: "26tFSM2HfVCB0a4OLVxU4f",
-  externalLink: "https://open.spotify.com/album/26tFSM2HfVCB0a4OLVxU4f",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "26tFSM2HfVCB0a4OLVxU4f",
+      externalLink: "https://open.spotify.com/album/26tFSM2HfVCB0a4OLVxU4f",
+    },
+  ],
 } as const satisfies Release

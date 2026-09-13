@@ -12,6 +12,11 @@ export const coldplayLetSomebodyGoKygoRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-03-11",
-  externalId: "7EZAIhKzfjXbAsL0hrQjGF",
-  externalLink: "https://open.spotify.com/album/7EZAIhKzfjXbAsL0hrQjGF",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7EZAIhKzfjXbAsL0hrQjGF",
+      externalLink: "https://open.spotify.com/album/7EZAIhKzfjXbAsL0hrQjGF",
+    },
+  ],
 } as const satisfies Release

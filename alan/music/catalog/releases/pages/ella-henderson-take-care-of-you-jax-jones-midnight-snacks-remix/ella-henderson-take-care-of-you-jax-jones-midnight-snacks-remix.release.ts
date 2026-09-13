@@ -12,7 +12,12 @@ export const ellaHendersonTakeCareOfYouJaxJonesMidnightSnacksRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-17",
-  externalId: "1rVVVFTXLoDAINmB3ONgLN",
-  externalLink: "https://open.spotify.com/album/1rVVVFTXLoDAINmB3ONgLN",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1rVVVFTXLoDAINmB3ONgLN",
+      externalLink: "https://open.spotify.com/album/1rVVVFTXLoDAINmB3ONgLN",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

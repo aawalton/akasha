@@ -12,6 +12,11 @@ export const elvisPresley2Elvis301Hits = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2002-09-24",
-  externalId: "0QVoYzGd1p8Z3ohEaM0lsc",
-  externalLink: "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0QVoYzGd1p8Z3ohEaM0lsc",
+      externalLink: "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc",
+    },
+  ],
 } as const satisfies Release

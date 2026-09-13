@@ -12,6 +12,11 @@ export const coldplayHaveYourselfAMerryLittleChristmasJoWhileyBbcRadio1Session =
   unit: "minutes",
   status: "completed",
   publishedAt: "2001-11-30",
-  externalId: "1sPu7EQ1vbjG3A5GOqMVam",
-  externalLink: "https://open.spotify.com/album/1sPu7EQ1vbjG3A5GOqMVam",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1sPu7EQ1vbjG3A5GOqMVam",
+      externalLink: "https://open.spotify.com/album/1sPu7EQ1vbjG3A5GOqMVam",
+    },
+  ],
 } as const satisfies Release

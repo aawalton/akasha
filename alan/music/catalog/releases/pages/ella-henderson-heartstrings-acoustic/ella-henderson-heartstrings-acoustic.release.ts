@@ -12,7 +12,12 @@ export const ellaHendersonHeartstringsAcoustic = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-10-07",
-  externalId: "4fGDRDHDL80LbCOLVXuJeg",
-  externalLink: "https://open.spotify.com/album/4fGDRDHDL80LbCOLVXuJeg",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4fGDRDHDL80LbCOLVXuJeg",
+      externalLink: "https://open.spotify.com/album/4fGDRDHDL80LbCOLVXuJeg",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

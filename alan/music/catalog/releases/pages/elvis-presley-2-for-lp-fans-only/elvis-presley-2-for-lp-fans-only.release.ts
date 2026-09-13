@@ -12,6 +12,11 @@ export const elvisPresley2ForLpFansOnly = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1959-01-23",
-  externalId: "1NVsMlJgD5GHf0CT1IewbU",
-  externalLink: "https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1NVsMlJgD5GHf0CT1IewbU",
+      externalLink: "https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const coldplayHurtsLikeHeaven = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2011-10-24",
-  externalId: "4mTRjo752lDXWzflHdMJh5",
-  externalLink: "https://open.spotify.com/album/4mTRjo752lDXWzflHdMJh5",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4mTRjo752lDXWzflHdMJh5",
+      externalLink: "https://open.spotify.com/album/4mTRjo752lDXWzflHdMJh5",
+    },
+  ],
 } as const satisfies Release

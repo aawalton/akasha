@@ -12,6 +12,11 @@ export const elvisPresley2HisHandInMine = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1960-11-23",
-  externalId: "0OflUemnHFws5bKzEbBVV3",
-  externalLink: "https://open.spotify.com/album/0OflUemnHFws5bKzEbBVV3",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0OflUemnHFws5bKzEbBVV3",
+      externalLink: "https://open.spotify.com/album/0OflUemnHFws5bKzEbBVV3",
+    },
+  ],
 } as const satisfies Release

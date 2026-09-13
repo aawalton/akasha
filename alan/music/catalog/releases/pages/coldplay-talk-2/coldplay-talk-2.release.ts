@@ -12,6 +12,11 @@ export const coldplayTalk2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2005-12-19",
-  externalId: "5PqZvEQFscV66LOl52oGBS",
-  externalLink: "https://open.spotify.com/album/5PqZvEQFscV66LOl52oGBS",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5PqZvEQFscV66LOl52oGBS",
+      externalLink: "https://open.spotify.com/album/5PqZvEQFscV66LOl52oGBS",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const coldplayASkyFullOfStars2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-06-29",
-  externalId: "2jQB4YEh4xWhloG21IueUf",
-  externalLink: "https://open.spotify.com/album/2jQB4YEh4xWhloG21IueUf",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2jQB4YEh4xWhloG21IueUf",
+      externalLink: "https://open.spotify.com/album/2jQB4YEh4xWhloG21IueUf",
+    },
+  ],
 } as const satisfies Release

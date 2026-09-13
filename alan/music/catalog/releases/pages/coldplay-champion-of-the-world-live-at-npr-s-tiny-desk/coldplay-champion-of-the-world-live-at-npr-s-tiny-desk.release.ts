@@ -12,6 +12,11 @@ export const coldplayChampionOfTheWorldLiveAtNprSTinyDesk = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-03-16",
-  externalId: "1YFEfpOP0NJFr4my1WZJgA",
-  externalLink: "https://open.spotify.com/album/1YFEfpOP0NJFr4my1WZJgA",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1YFEfpOP0NJFr4my1WZJgA",
+      externalLink: "https://open.spotify.com/album/1YFEfpOP0NJFr4my1WZJgA",
+    },
+  ],
 } as const satisfies Release

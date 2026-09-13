@@ -12,6 +12,11 @@ export const elvisPresley2PotluckWithElvis = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-06-23",
-  externalId: "0NX8mdPVWy72gnIL8VHvs3",
-  externalLink: "https://open.spotify.com/album/0NX8mdPVWy72gnIL8VHvs3",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0NX8mdPVWy72gnIL8VHvs3",
+      externalLink: "https://open.spotify.com/album/0NX8mdPVWy72gnIL8VHvs3",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const emBeiholdCityOfAngelsNeanderthalRemix = {
   status: "completed",
   rank: "B",
   publishedAt: "2020-09-25",
-  externalId: "70Bx3bDPHiOO2K9OUDIIpR",
-  externalLink: "https://open.spotify.com/album/70Bx3bDPHiOO2K9OUDIIpR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "70Bx3bDPHiOO2K9OUDIIpR",
+      externalLink: "https://open.spotify.com/album/70Bx3bDPHiOO2K9OUDIIpR",
+    },
+  ],
 } as const satisfies Release

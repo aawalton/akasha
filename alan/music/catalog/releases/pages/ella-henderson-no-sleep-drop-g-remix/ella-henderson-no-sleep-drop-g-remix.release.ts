@@ -12,7 +12,12 @@ export const ellaHendersonNoSleepDropGRemix = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-04-28",
-  externalId: "7cftkTm1F6q3heuheJ8g9i",
-  externalLink: "https://open.spotify.com/album/7cftkTm1F6q3heuheJ8g9i",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7cftkTm1F6q3heuheJ8g9i",
+      externalLink: "https://open.spotify.com/album/7cftkTm1F6q3heuheJ8g9i",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

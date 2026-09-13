@@ -12,6 +12,11 @@ export const coldplayMyUniverseSugaSRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-09-26",
-  externalId: "3oWWeH4gpNsJG0KyGaBoEd",
-  externalLink: "https://open.spotify.com/album/3oWWeH4gpNsJG0KyGaBoEd",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3oWWeH4gpNsJG0KyGaBoEd",
+      externalLink: "https://open.spotify.com/album/3oWWeH4gpNsJG0KyGaBoEd",
+    },
+  ],
 } as const satisfies Release

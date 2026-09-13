@@ -12,7 +12,12 @@ export const ellaHendersonLetSGoHomeTogetherMadismExtendedRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-16",
-  externalId: "5vArhREYyuPiEVdbMd8xjY",
-  externalLink: "https://open.spotify.com/album/5vArhREYyuPiEVdbMd8xjY",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5vArhREYyuPiEVdbMd8xjY",
+      externalLink: "https://open.spotify.com/album/5vArhREYyuPiEVdbMd8xjY",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

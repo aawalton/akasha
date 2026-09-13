@@ -12,6 +12,11 @@ export const coldplayUpUp = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-04-22",
-  externalId: "39CemyWzo6fJbvbAyICDrj",
-  externalLink: "https://open.spotify.com/album/39CemyWzo6fJbvbAyICDrj",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "39CemyWzo6fJbvbAyICDrj",
+      externalLink: "https://open.spotify.com/album/39CemyWzo6fJbvbAyICDrj",
+    },
+  ],
 } as const satisfies Release

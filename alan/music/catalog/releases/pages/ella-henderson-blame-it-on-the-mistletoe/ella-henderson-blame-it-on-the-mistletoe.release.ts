@@ -12,7 +12,12 @@ export const ellaHendersonBlameItOnTheMistletoe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-04",
-  externalId: "3MuX8Afd4KC0kGIBOstzxs",
-  externalLink: "https://open.spotify.com/album/3MuX8Afd4KC0kGIBOstzxs",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3MuX8Afd4KC0kGIBOstzxs",
+      externalLink: "https://open.spotify.com/album/3MuX8Afd4KC0kGIBOstzxs",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

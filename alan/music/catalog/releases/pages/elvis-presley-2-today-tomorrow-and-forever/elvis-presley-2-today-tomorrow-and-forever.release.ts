@@ -12,6 +12,11 @@ export const elvisPresley2TodayTomorrowAndForever = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2002-06-25",
-  externalId: "3O7z4kPJ3LlowdWvyeHWpS",
-  externalLink: "https://open.spotify.com/album/3O7z4kPJ3LlowdWvyeHWpS",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3O7z4kPJ3LlowdWvyeHWpS",
+      externalLink: "https://open.spotify.com/album/3O7z4kPJ3LlowdWvyeHWpS",
+    },
+  ],
 } as const satisfies Release

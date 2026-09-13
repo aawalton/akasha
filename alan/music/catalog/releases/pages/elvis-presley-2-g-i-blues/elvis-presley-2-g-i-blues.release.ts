@@ -12,6 +12,11 @@ export const elvisPresley2GIBlues = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1960-09-23",
-  externalId: "1TqAYM0PTj6TDdzTcY8VGT",
-  externalLink: "https://open.spotify.com/album/1TqAYM0PTj6TDdzTcY8VGT",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1TqAYM0PTj6TDdzTcY8VGT",
+      externalLink: "https://open.spotify.com/album/1TqAYM0PTj6TDdzTcY8VGT",
+    },
+  ],
 } as const satisfies Release

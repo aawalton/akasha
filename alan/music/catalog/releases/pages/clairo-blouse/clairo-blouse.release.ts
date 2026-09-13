@@ -12,6 +12,11 @@ export const clairoBlouse = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-06-11",
-  externalId: "1t9GLJU4I8KOrXM86qGJCo",
-  externalLink: "https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1t9GLJU4I8KOrXM86qGJCo",
+      externalLink: "https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo",
+    },
+  ],
 } as const satisfies Release

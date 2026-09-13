@@ -13,6 +13,11 @@ export const clairo2HoldU = {
   status: "completed",
   rank: "C",
   publishedAt: "2017-04-13",
-  externalId: "3SvkaUOCDaJPS2Guc4qChc",
-  externalLink: "https://open.spotify.com/album/3SvkaUOCDaJPS2Guc4qChc",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3SvkaUOCDaJPS2Guc4qChc",
+      externalLink: "https://open.spotify.com/album/3SvkaUOCDaJPS2Guc4qChc",
+    },
+  ],
 } as const satisfies Release

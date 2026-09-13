@@ -12,6 +12,11 @@ export const coldplayHigherPowerAcousticVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-06-15",
-  externalId: "4VsMbx69vl5FmhkosEa9By",
-  externalLink: "https://open.spotify.com/album/4VsMbx69vl5FmhkosEa9By",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4VsMbx69vl5FmhkosEa9By",
+      externalLink: "https://open.spotify.com/album/4VsMbx69vl5FmhkosEa9By",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const chaislynRhymeOrReason = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-02-14",
-  externalId: "5sVzWvkKeVITAFcpjs7HOl",
-  externalLink: "https://open.spotify.com/album/5sVzWvkKeVITAFcpjs7HOl",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5sVzWvkKeVITAFcpjs7HOl",
+      externalLink: "https://open.spotify.com/album/5sVzWvkKeVITAFcpjs7HOl",
+    },
+  ],
 } as const satisfies Release

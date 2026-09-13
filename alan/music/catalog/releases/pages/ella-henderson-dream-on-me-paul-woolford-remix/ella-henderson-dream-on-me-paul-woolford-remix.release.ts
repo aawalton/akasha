@@ -12,7 +12,12 @@ export const ellaHendersonDreamOnMePaulWoolfordRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-06",
-  externalId: "1iHLzKo1LahtYrEdGWvVgl",
-  externalLink: "https://open.spotify.com/album/1iHLzKo1LahtYrEdGWvVgl",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1iHLzKo1LahtYrEdGWvVgl",
+      externalLink: "https://open.spotify.com/album/1iHLzKo1LahtYrEdGWvVgl",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

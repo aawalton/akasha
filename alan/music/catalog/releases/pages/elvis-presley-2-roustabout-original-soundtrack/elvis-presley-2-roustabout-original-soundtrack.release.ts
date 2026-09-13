@@ -12,6 +12,11 @@ export const elvisPresley2RoustaboutOriginalSoundtrack = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-06-27",
-  externalId: "4B6QlvxYaXW4nBNN2OChXI",
-  externalLink: "https://open.spotify.com/album/4B6QlvxYaXW4nBNN2OChXI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4B6QlvxYaXW4nBNN2OChXI",
+      externalLink: "https://open.spotify.com/album/4B6QlvxYaXW4nBNN2OChXI",
+    },
+  ],
 } as const satisfies Release

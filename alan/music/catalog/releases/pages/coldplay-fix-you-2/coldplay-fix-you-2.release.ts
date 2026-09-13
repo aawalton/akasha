@@ -12,6 +12,11 @@ export const coldplayFixYou2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2005-09-05",
-  externalId: "6CbCdwVGEff1wKT5bxNtOR",
-  externalLink: "https://open.spotify.com/album/6CbCdwVGEff1wKT5bxNtOR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6CbCdwVGEff1wKT5bxNtOR",
+      externalLink: "https://open.spotify.com/album/6CbCdwVGEff1wKT5bxNtOR",
+    },
+  ],
 } as const satisfies Release

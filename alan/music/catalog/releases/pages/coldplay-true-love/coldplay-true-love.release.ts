@@ -12,6 +12,11 @@ export const coldplayTrueLove = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-08-14",
-  externalId: "5WBIRgdTtnf2cYfoSHSLEb",
-  externalLink: "https://open.spotify.com/album/5WBIRgdTtnf2cYfoSHSLEb",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5WBIRgdTtnf2cYfoSHSLEb",
+      externalLink: "https://open.spotify.com/album/5WBIRgdTtnf2cYfoSHSLEb",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const ellaHendersonTakeCareOfYouAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-03",
-  externalId: "3PyP1NAg6qIQQc4z15ZIkz",
-  externalLink: "https://open.spotify.com/album/3PyP1NAg6qIQQc4z15ZIkz",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3PyP1NAg6qIQQc4z15ZIkz",
+      externalLink: "https://open.spotify.com/album/3PyP1NAg6qIQQc4z15ZIkz",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

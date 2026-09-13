@@ -12,6 +12,11 @@ export const elvisPresley2BlueHawaiiOriginalSoundtrack = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-06-18",
-  externalId: "3NebgTz1kuqklVUruq3xIM",
-  externalLink: "https://open.spotify.com/album/3NebgTz1kuqklVUruq3xIM",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3NebgTz1kuqklVUruq3xIM",
+      externalLink: "https://open.spotify.com/album/3NebgTz1kuqklVUruq3xIM",
+    },
+  ],
 } as const satisfies Release

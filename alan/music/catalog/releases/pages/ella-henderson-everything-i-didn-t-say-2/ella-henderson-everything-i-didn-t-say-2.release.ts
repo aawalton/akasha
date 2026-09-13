@@ -12,7 +12,12 @@ export const ellaHendersonEverythingIDidnTSay2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-03-11",
-  externalId: "7sb53RUF8x70PzjPmDxF0Q",
-  externalLink: "https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7sb53RUF8x70PzjPmDxF0Q",
+      externalLink: "https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

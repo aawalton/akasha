@@ -12,7 +12,12 @@ export const ellaHendersonLighterFeatKsiEllaHendersonAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-08-28",
-  externalId: "6INxj18FKxPT0rnS5ZZ7rL",
-  externalLink: "https://open.spotify.com/album/6INxj18FKxPT0rnS5ZZ7rL",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6INxj18FKxPT0rnS5ZZ7rL",
+      externalLink: "https://open.spotify.com/album/6INxj18FKxPT0rnS5ZZ7rL",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

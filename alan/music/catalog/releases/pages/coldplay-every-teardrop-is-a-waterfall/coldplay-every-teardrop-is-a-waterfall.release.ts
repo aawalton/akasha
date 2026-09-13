@@ -12,6 +12,11 @@ export const coldplayEveryTeardropIsAWaterfall = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2011-06-24",
-  externalId: "167lFNaglzjVhEDB7smSFL",
-  externalLink: "https://open.spotify.com/album/167lFNaglzjVhEDB7smSFL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "167lFNaglzjVhEDB7smSFL",
+      externalLink: "https://open.spotify.com/album/167lFNaglzjVhEDB7smSFL",
+    },
+  ],
 } as const satisfies Release

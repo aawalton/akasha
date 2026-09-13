@@ -13,6 +13,11 @@ export const coldplayAllMyLove = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-08-22",
-  externalId: "5N2PVskrF5Sl7cLsIKMwfT",
-  externalLink: "https://open.spotify.com/album/5N2PVskrF5Sl7cLsIKMwfT",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5N2PVskrF5Sl7cLsIKMwfT",
+      externalLink: "https://open.spotify.com/album/5N2PVskrF5Sl7cLsIKMwfT",
+    },
+  ],
 } as const satisfies Release

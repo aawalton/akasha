@@ -12,6 +12,11 @@ export const coldplayPrincessOfChinaAndreSobotaRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-06-03",
-  externalId: "5GMAB2CiYfO711PUbJHMp4",
-  externalLink: "https://open.spotify.com/album/5GMAB2CiYfO711PUbJHMp4",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5GMAB2CiYfO711PUbJHMp4",
+      externalLink: "https://open.spotify.com/album/5GMAB2CiYfO711PUbJHMp4",
+    },
+  ],
 } as const satisfies Release

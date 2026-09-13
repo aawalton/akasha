@@ -12,6 +12,11 @@ export const elvisPresley2ChristmasWithElvisAndTheRoyalPhilharmonicOrchestraDelu
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-11-24",
-  externalId: "11FCLUM5m9GiuxjGEoTVF5",
-  externalLink: "https://open.spotify.com/album/11FCLUM5m9GiuxjGEoTVF5",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "11FCLUM5m9GiuxjGEoTVF5",
+      externalLink: "https://open.spotify.com/album/11FCLUM5m9GiuxjGEoTVF5",
+    },
+  ],
 } as const satisfies Release

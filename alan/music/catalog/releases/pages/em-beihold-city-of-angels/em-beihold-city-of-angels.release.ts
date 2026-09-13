@@ -13,6 +13,11 @@ export const emBeiholdCityOfAngels = {
   status: "completed",
   rank: "B",
   publishedAt: "2020-08-14",
-  externalId: "4BRgcC0EZ4Tpvh28F7yQ5E",
-  externalLink: "https://open.spotify.com/album/4BRgcC0EZ4Tpvh28F7yQ5E",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4BRgcC0EZ4Tpvh28F7yQ5E",
+      externalLink: "https://open.spotify.com/album/4BRgcC0EZ4Tpvh28F7yQ5E",
+    },
+  ],
 } as const satisfies Release

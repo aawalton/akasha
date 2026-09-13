@@ -12,6 +12,11 @@ export const elvisPresley2PromisedLand = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1975-01-08",
-  externalId: "47pECKZZzoUQ2aug4zJLGv",
-  externalLink: "https://open.spotify.com/album/47pECKZZzoUQ2aug4zJLGv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "47pECKZZzoUQ2aug4zJLGv",
+      externalLink: "https://open.spotify.com/album/47pECKZZzoUQ2aug4zJLGv",
+    },
+  ],
 } as const satisfies Release

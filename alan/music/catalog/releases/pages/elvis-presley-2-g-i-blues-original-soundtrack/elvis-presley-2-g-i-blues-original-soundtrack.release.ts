@@ -12,6 +12,11 @@ export const elvisPresley2GIBluesOriginalSoundtrack = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-06-16",
-  externalId: "2LGvLhAdNrFhzkxpi2WSb4",
-  externalLink: "https://open.spotify.com/album/2LGvLhAdNrFhzkxpi2WSb4",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2LGvLhAdNrFhzkxpi2WSb4",
+      externalLink: "https://open.spotify.com/album/2LGvLhAdNrFhzkxpi2WSb4",
+    },
+  ],
 } as const satisfies Release

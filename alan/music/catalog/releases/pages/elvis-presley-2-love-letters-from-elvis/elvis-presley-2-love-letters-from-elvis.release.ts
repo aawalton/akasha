@@ -12,6 +12,11 @@ export const elvisPresley2LoveLettersFromElvis = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1971-06-16",
-  externalId: "3kf5iEHqvuKch85eAvWrGO",
-  externalLink: "https://open.spotify.com/album/3kf5iEHqvuKch85eAvWrGO",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3kf5iEHqvuKch85eAvWrGO",
+      externalLink: "https://open.spotify.com/album/3kf5iEHqvuKch85eAvWrGO",
+    },
+  ],
 } as const satisfies Release

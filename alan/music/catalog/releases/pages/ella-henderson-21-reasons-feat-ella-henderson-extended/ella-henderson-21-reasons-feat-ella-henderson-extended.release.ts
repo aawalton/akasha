@@ -12,7 +12,12 @@ export const ellaHenderson21ReasonsFeatEllaHendersonExtended = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-04-29",
-  externalId: "6r3hkwiRLqcPc2xJgHLjvd",
-  externalLink: "https://open.spotify.com/album/6r3hkwiRLqcPc2xJgHLjvd",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6r3hkwiRLqcPc2xJgHLjvd",
+      externalLink: "https://open.spotify.com/album/6r3hkwiRLqcPc2xJgHLjvd",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

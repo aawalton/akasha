@@ -12,6 +12,11 @@ export const elvisPresley2ElvisAsRecordedAtMadisonSquareGardenLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1972-06-01",
-  externalId: "3jEgFCvP4h9ENjnoyystsy",
-  externalLink: "https://open.spotify.com/album/3jEgFCvP4h9ENjnoyystsy",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3jEgFCvP4h9ENjnoyystsy",
+      externalLink: "https://open.spotify.com/album/3jEgFCvP4h9ENjnoyystsy",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const ellaHendersonUnderTheSunAcoustic = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-07-12",
-  externalId: "5BI65O6aMBFi8diwVzyeYP",
-  externalLink: "https://open.spotify.com/album/5BI65O6aMBFi8diwVzyeYP",
-  lastSyncedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5BI65O6aMBFi8diwVzyeYP",
+      externalLink: "https://open.spotify.com/album/5BI65O6aMBFi8diwVzyeYP",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
 } as const satisfies Release

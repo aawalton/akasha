@@ -12,6 +12,11 @@ export const elvisPresley2ElvisGoldRecordsVol4 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1968-01-22",
-  externalId: "3ufobt4J5vaT3z7lgUub6a",
-  externalLink: "https://open.spotify.com/album/3ufobt4J5vaT3z7lgUub6a",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ufobt4J5vaT3z7lgUub6a",
+      externalLink: "https://open.spotify.com/album/3ufobt4J5vaT3z7lgUub6a",
+    },
+  ],
 } as const satisfies Release
