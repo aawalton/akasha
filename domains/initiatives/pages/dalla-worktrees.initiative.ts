@@ -11,7 +11,7 @@ export const dallaWorktrees = {
       statement:
         "A deployed service gets every file it needs from the pages service at its deployed commit.",
       workingMemory:
-        "A `bun --preload` plugin resolving every `akasha/` specifier through `/read` with `at` runs repository code with nothing of it on disk; bun cannot import a URL directly. `/read` takes `at` and refuses a commit the repository lacks. A property held outside the commit is read off the checkout whatever commit is named, by `/read` and by `/file`. Still on disk for a service: the index families git ignores (value, shapes, path, listing, import), `node_modules` with a native binary, and the loader.",
+        "`/read` takes `at`, and a property outside the commit reads off the checkout whatever commit is named. `deploy-file-closure` already walks tracked files only, so it is the per-service manifest at a commit. The npm tree stays off the pages service: resolved from `node_modules` here, installed remotely from the tracked `package.json` and `bun.lock`. `path`, `listing` and `import` are reached only from changes and checks, so `value` and `shapes` are the only families blocking a service.",
     },
     {
       statement: "No deployed service runs out of a worktree.",
