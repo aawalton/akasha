@@ -1,4 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
+import { keepBuilt } from "akasha/pages/indexes/modules/keeping/index-keeping.module.code.ts"
 import {
   beneath,
   INDEX_AT,
@@ -6,6 +7,7 @@ import {
   overlaidOn,
   readFrom,
   readingAt,
+  readingBuilding,
   readingNone,
 } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
@@ -56,6 +58,22 @@ test("a reading off the disk answers the three reads of the index it is rooted a
     '{"path":"one"}',
     '{"path":"two"}',
   ])
+})
+
+test("an index carrying no mark saying it is whole is read as an index that is not there", () => {
+  const at = seeded()
+
+  expect(readingAt(at).holds("")).toBe(false)
+  expect(readingBuilding(at).holds("")).toBe(true)
+})
+
+test("the two readings differ at the root alone, however whole the index is", () => {
+  const at = seeded()
+  expect(everythingUnder(readingAt(at), "")).toEqual(everythingUnder(readingBuilding(at), ""))
+  keepBuilt(at)
+
+  expect(readingAt(at).holds("")).toBe(true)
+  expect(readingBuilding(at).holds("")).toBe(true)
 })
 
 test("a reading answers the directory that reading reads from", () => {

@@ -36,7 +36,7 @@ import {
 import type { Filing } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import {
   indexIn,
-  readingAt,
+  readingBuilding,
 } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import {
   pagesUnder,
@@ -144,7 +144,7 @@ export function refreshedFrom(
   drift.push(reconcile(shaped, root, put, done))
   const carrying = shapesFiled(source, shapesIn(values), pageTypeSlugsIn(values))
   drift.push(reconcile(carrying, root, put, done))
-  const known = knownIn(readingAt(root), (path) => valueAt(path, repo))
+  const known = knownIn(readingBuilding(root), (path) => valueAt(path, repo))
   const beside = bodiesAt(repo)
   const filed = held.map((one) =>
     relationIn(
@@ -232,7 +232,9 @@ export function indexingAt(root: string, repo: string): Indexing {
         after: one.after,
       }))
       pending.clear()
-      const found = settlingOver(readingAt(root, repo), repo, moving, (path) => valueAt(path, repo))
+      const found = settlingOver(readingBuilding(root, repo), repo, moving, (path) =>
+        valueAt(path, repo)
+      )
       filedInto(root, found.filings)
       return [...found.noted, ...found.refusedBefore, ...found.refused]
     },

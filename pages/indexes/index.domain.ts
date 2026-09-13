@@ -174,6 +174,14 @@ export const index = {
     },
     {
       invariantKind: "departure",
+      statement: "An index saying nothing is an index that is missing, however much sits under it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refresh part way through says nothing, so nobody reads it as an index.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A refresh takes away every path under the index that the pages do not imply, but for that mark.",
     },

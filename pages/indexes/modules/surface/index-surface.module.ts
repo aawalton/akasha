@@ -156,6 +156,24 @@ export const indexSurface = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A reading of a published index answers its root by the mark saying that index is whole.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A reading a refresh takes over its own half-written index answers that root by the directory.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Those two differ at the root alone, and every other path is answered alike.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A reading built over a half-written index is reached from the refresh alone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Whether a path in the repository is a path under the index is answered here.",
     },
   ],

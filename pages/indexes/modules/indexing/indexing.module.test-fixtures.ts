@@ -22,7 +22,7 @@ import {
 import { shapesAt } from "akasha/pages/indexes/modules/property-shaping/property-shaping.module.code.ts"
 import { everyPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { settlingOver } from "akasha/pages/indexes/modules/settling/index-settling.module.code.ts"
-import { readingAt } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
+import { readingBuilding } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { pathsRead, readerAt, ruleWhole } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
@@ -126,7 +126,7 @@ export const linesIn = (at: string): readonly string[] =>
 export const said = (at: string): unknown => JSON.parse(linesIn(at)[0] ?? "")
 
 export const shapeFiled = (root: string, pageTypeSlug: string, slug: string): unknown =>
-  shapesAt(readingAt(root)).get(`${pageTypeSlug}/${slug}`) ?? null
+  shapesAt(readingBuilding(root)).get(`${pageTypeSlug}/${slug}`) ?? null
 
 export const noteShaped = (pageTypeSlug: string, targetPageTypeSlug: string | null): unknown => ({
   pageTypeSlug,
@@ -186,13 +186,13 @@ export function worldsApart(): Worlds {
 
 export function unreadAfterRebuild(): readonly string[] {
   const { rebuilt } = worldsApart()
-  const reading = readingAt(rebuilt)
+  const reading = readingBuilding(rebuilt)
   const read = pathsRead(reading)
   return everyPath(reading).filter((one) => typedCode(one) && !read.has(one))
 }
 
 export function wholeAfterRebuild(): boolean {
-  const reading = readingAt(worldsApart().rebuilt)
+  const reading = readingBuilding(worldsApart().rebuilt)
   return ruleWhole(reading, everyPath(reading))
 }
 
@@ -302,7 +302,8 @@ function uniqueKindRespelled(unique: string): readonly string[] {
   const { tree, root } = grounded()
   const at = join(tree, "id.text-property.ts")
   const moving = [{ path: at, before: bodyOf(idPage), after: bodyOf({ ...idPage, unique }) }]
-  return settlingOver(readingAt(root), tree, moving, (path) => valueAt(path, tree)).filings.map(
+  const read = readingBuilding(root)
+  return settlingOver(read, tree, moving, (path) => valueAt(path, tree)).filings.map(
     (one) => one.at
   )
 }

@@ -4,6 +4,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { dropBuilt } from "akasha/pages/indexes/modules/keeping/index-keeping.module.code.ts"
 import {
   everyOfType,
   everyPath,
@@ -205,6 +206,16 @@ test("every reader is refused where the index stands nowhere, whatever it was as
   expect(() => listedById(root, A)).toThrow(/is not an index naming none/)
   expect(() => everyPath(root)).toThrow(/is not an index naming none/)
   expect(() => listedByPath(root, "akasha/a.module.ts")).toThrow(/is not an index naming none/)
+})
+
+test("every reader is refused where a refresh left the index part way through", () => {
+  const root = rootAt()
+  pathFiled(root, "akasha/a.module.ts", [{ path: "akasha/a.module.ts", id: A }])
+  idFiled(root, A, [{ path: "akasha/a.module.ts", id: A }])
+  dropBuilt(indexIn(root))
+
+  expect(() => listedById(root, A)).toThrow(/is not an index naming none/)
+  expect(() => everyPath(root)).toThrow(/is not an index naming none/)
 })
 
 test("a refusal names the directory the reading read from rather than a path under a root", () => {

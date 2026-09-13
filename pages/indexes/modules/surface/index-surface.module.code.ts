@@ -40,10 +40,10 @@ function linesOf(at: string): readonly string[] {
   return body === null ? [] : body.split("\n").filter((one) => one !== "")
 }
 
-export function readingAt(index: string, repo: string | null = null): Reading {
+function readingOver(index: string, repo: string | null, holds: (at: string) => boolean): Reading {
   const held = new Map<string, readonly string[]>()
   const reading: Reading = {
-    holds: (at) => existsSync(join(index, at)),
+    holds,
     listing: (at) => {
       try {
         return readdirSync(join(index, at), { withFileTypes: true }).map((one) => ({
@@ -65,6 +65,14 @@ export function readingAt(index: string, repo: string | null = null): Reading {
   }
   READ_FROM.set(reading, index)
   return reading
+}
+
+export function readingAt(index: string, repo: string | null = null): Reading {
+  return readingOver(index, repo, (at) => existsSync(join(index, at === ROOT ? BUILT_AT : at)))
+}
+
+export function readingBuilding(index: string, repo: string | null = null): Reading {
+  return readingOver(index, repo, (at) => existsSync(join(index, at)))
 }
 
 export function readingNone(): Reading {
