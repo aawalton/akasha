@@ -6,9 +6,7 @@ export const amyHarnessImprovements = {
   slug: "amy-harness-improvements",
   domain: "domain/alan-harness",
   persona: "amy",
-  intents: [
-    { statement: "The heartbeat is set from the grant measured rather than from a guess." },
-  ],
+
   constraints: [
     "This initiative stays when its last intent goes, rather than dying as a finished initiative does.",
   ],
