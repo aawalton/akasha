@@ -39,5 +39,14 @@ export const stillWaitingKept = {
       statement:
         "This rule is judged here by a third sign, beside the two the other tests judge it by.",
     },
+    {
+      invariantKind: "constraint",
+      statement: "Thirteen cases carry this mark, and the answer key calls three of them clean.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "One sentence carrying this mark is labelled clean and its twin elsewhere is labelled a breach.",
+    },
   ],
 } as const satisfies ModelTest
