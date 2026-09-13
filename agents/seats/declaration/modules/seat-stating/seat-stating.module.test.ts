@@ -18,7 +18,7 @@ import {
 import {
   seatPathForName,
   seatsAt,
-} from "akasha/agents/seats/page/modules/reading/seat-reading.module.code.ts"
+} from "akasha/agents/seats/page/modules/seat-reading/seat-reading.module.code.ts"
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"

@@ -4,7 +4,7 @@ import { dropReadings } from "akasha/agents/modules/read-record/read-record.modu
 import {
   seatPathForName,
   supervisorAlive,
-} from "akasha/agents/seats/page/modules/reading/seat-reading.module.code.ts"
+} from "akasha/agents/seats/page/modules/seat-reading/seat-reading.module.code.ts"
 import {
   movedOnto,
   namedAt,

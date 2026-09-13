@@ -6,7 +6,7 @@ import {
   besideWrittenAtMs,
   CARRIED,
   RECORDS,
-} from "akasha/agents/seats/page/modules/akasha-beside/seat-akasha-beside.module.code.ts"
+} from "akasha/agents/seats/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import type { SeatRecord } from "akasha/agents/seats/page/modules/seat-record/seat-record.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"

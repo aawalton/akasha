@@ -5,7 +5,7 @@ import { seatTurnStateOf } from "akasha/agents/seats/observation/seat-turn/modul
 import {
   akashaRoot,
   akashaSeatsThatExist,
-} from "akasha/agents/seats/page/modules/akasha-beside/seat-akasha-beside.module.code.ts"
+} from "akasha/agents/seats/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import {
   decide,
   type Held,

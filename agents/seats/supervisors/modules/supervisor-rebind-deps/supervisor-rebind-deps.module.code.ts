@@ -1,7 +1,7 @@
 import { principalOf } from "akasha/agents/seats/declaration/modules/seat-principal/seat-principal.module.code.ts"
 import { launchFrom } from "akasha/agents/seats/name/modules/seat-flex/seat-flex.module.code.ts"
 import { seatNameForAgent } from "akasha/agents/seats/observation/modules/presence-read/seat-presence-read.module.code.ts"
-import { akashaSeatIdForName } from "akasha/agents/seats/page/modules/akasha-beside/seat-akasha-beside.module.code.ts"
+import { akashaSeatIdForName } from "akasha/agents/seats/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { pageValuesOf } from "akasha/agents/seats/page/modules/values/seat-page-values.module.code.ts"
 import {
   createAgent,

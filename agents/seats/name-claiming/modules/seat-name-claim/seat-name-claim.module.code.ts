@@ -2,7 +2,7 @@ import { readFileSync } from "node:fs"
 import {
   seatPathForName,
   supervisorAlive,
-} from "akasha/agents/seats/page/modules/reading/seat-reading.module.code.ts"
+} from "akasha/agents/seats/page/modules/seat-reading/seat-reading.module.code.ts"
 import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 import { statedIn } from "akasha/utils/process/modules/proc-reading/proc-reading.module.code.ts"
 

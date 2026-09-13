@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { messageNamed } from "akasha/agents/messaging/modules/message-naming/message-naming.module.code.ts"
-import { akashaSeatIdForName } from "akasha/agents/seats/page/modules/akasha-beside/seat-akasha-beside.module.code.ts"
+import { akashaSeatIdForName } from "akasha/agents/seats/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import {
   landBodies,
   landRemovals,

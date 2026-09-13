@@ -5,7 +5,7 @@ import {
   CARRIED,
   type Kind,
   RECORDS,
-} from "akasha/agents/seats/page/modules/akasha-beside/seat-akasha-beside.module.code.ts"
+} from "akasha/agents/seats/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
