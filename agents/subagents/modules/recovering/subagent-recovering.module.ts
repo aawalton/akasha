@@ -4,7 +4,7 @@ export const subagentRecovering = {
   id: "01a08d67-3a64-7f77-bb80-0d2661de12d7",
   type: "module",
   slug: "subagent-recovering",
-  definition: "what a subagent left unlanded, moved onto the seat that dispatched it",
+  definition: "what a subagent left beside its page, moved onto the seat that dispatched it",
   code: "ts",
   test: "ts",
   invariants: [
@@ -30,7 +30,7 @@ export const subagentRecovering = {
     },
     {
       invariantKind: "departure",
-      statement: "A line appended says which subagent left it and when the seat took it.",
+      statement: "An edit appended says which subagent left it and when the seat took it.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +43,7 @@ export const subagentRecovering = {
     },
     {
       invariantKind: "departure",
-      statement: "Every line one move appends says the same time.",
+      statement: "Every edit one move appends says the same time.",
     },
     {
       invariantKind: "departure",
@@ -56,6 +56,26 @@ export const subagentRecovering = {
     {
       invariantKind: "departure",
       statement: "One blank line parts the refusals of two subagents.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The readings beside a subagent's page are what that subagent has read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading appended says the agent id that reading was made by.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The agent id is read off the page that is going.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page stating no agent id moves no reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading appended is beside the seat rather than among the seat's own readings.",
     },
     {
       invariantKind: "departure",

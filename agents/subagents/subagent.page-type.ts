@@ -73,11 +73,7 @@ export const subagent = {
     },
     {
       invariantKind: "departure",
-      statement: "The readings a subagent made go with its page rather than moving onto that seat.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "Those readings move onto that seat as the unlanded edits do.",
+      statement: "The readings a subagent made move onto that seat as its unlanded edits do.",
     },
     {
       invariantKind: "gap",

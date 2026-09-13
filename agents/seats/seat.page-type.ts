@@ -16,6 +16,7 @@ export const seat = {
     "boolean-property/on-call",
     "boolean-property/send-in-flight",
     "file-property/subagent-edits",
+    "file-property/subagent-reads",
     "file-property/subagent-refusals",
     "instant-property/restart-armed-at",
     "number-property/context-tokens",
@@ -114,6 +115,13 @@ export const seat = {
     },
     {
       pageProperty: "file-property/subagent-edits",
+      required: false,
+      many: false,
+      uncommitted: true,
+      default: "jsonl",
+    },
+    {
+      pageProperty: "file-property/subagent-reads",
       required: false,
       many: false,
       uncommitted: true,

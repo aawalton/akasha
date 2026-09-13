@@ -1,10 +1,10 @@
 import { createHash } from "node:crypto"
-import { appendFileSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { appendFileSync, existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { reads } from "akasha/agents/properties/reads.file-property.ts"
 import { exclusively } from "akasha/files/modules/exclusive/exclusive.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
+import { partFiled, partUnfiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { uncommittedBesideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 const SEAT = "seat"
@@ -57,6 +57,10 @@ export function blobIdOf(bytes: Uint8Array): string {
 
 const HELD = "jsonl"
 
+export function readsBesideAt(page: string): string | null {
+  return uncommittedBesideAt(page, reads.propertySlug, HELD)
+}
+
 export type Owner = {
   readonly agentId: string
   readonly at: string
@@ -89,7 +93,7 @@ type Beside = {
 function besideIn(root: string, agentId: string): Beside | null {
   const page = pagesOfAgents(root).get(agentId)
   if (page === undefined) return null
-  const at = uncommittedBesideAt(page, reads.propertySlug, HELD)
+  const at = readsBesideAt(page)
   return at === null ? null : { page, at }
 }
 
@@ -256,6 +260,19 @@ export function dropReadings(root: string, paths: readonly string[]): undefined 
       keptIn(one.at, (held) => !gone.has(held.path))
     } catch {}
   }
+}
+
+export function readingsDropped(root: string, page: string): undefined {
+  const at = readsBesideAt(page)
+  if (at === null) return undefined
+  const full = join(root, at)
+  if (!existsSync(full)) return undefined
+  exclusively(full, (): undefined => {
+    rmSync(full, { force: true })
+    partUnfiled(root, at)
+    return undefined
+  })
+  return undefined
 }
 
 export type Swept = {

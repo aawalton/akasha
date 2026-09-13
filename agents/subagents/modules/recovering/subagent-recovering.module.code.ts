@@ -1,10 +1,15 @@
 import { appendFileSync, mkdirSync, readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
+  readingsDropped,
+  readsBesideAt,
+} from "akasha/agents/modules/read-record/read-record.module.code.ts"
+import {
   refusalsAt,
   refusalsKept,
 } from "akasha/agents/modules/refusals-keeping/refusals-keeping.module.code.ts"
 import { subagentEdits } from "akasha/agents/seats/properties/subagent-edits.file-property.ts"
+import { subagentReads } from "akasha/agents/seats/properties/subagent-reads.file-property.ts"
 import { subagentRefusals } from "akasha/agents/seats/properties/subagent-refusals.file-property.ts"
 import {
   droppedAll,
@@ -17,6 +22,7 @@ import {
   partedIn,
   uncommittedBesideAt,
 } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { textUnder } from "akasha/pages/modules/value/page-value.module.code.ts"
 import {
   textAt as statedIn,
   type Value,
@@ -25,6 +31,8 @@ import {
 const EDITS_HELD = "jsonl"
 
 const REFUSALS_HELD = "txt"
+
+const READS_HELD = "jsonl"
 
 const PARTED = "\n\n"
 
@@ -36,9 +44,13 @@ const PAGE_TYPE = "type"
 
 const PRINCIPAL = "principalSeatName"
 
+const AGENT_ID = "agentId"
+
 export const LEFT_BY = "leftBy"
 
 export const CARRIED_AT = "carriedAt"
+
+export const READ_BY = "readBy"
 
 export type Moved = {
   readonly edits: number
@@ -53,6 +65,10 @@ export function seatEditsAt(seatPage: string): string | null {
 
 export function seatRefusalsAt(seatPage: string): string | null {
   return uncommittedBesideAt(seatPage, subagentRefusals.propertySlug, REFUSALS_HELD)
+}
+
+export function seatReadsAt(seatPage: string): string | null {
+  return uncommittedBesideAt(seatPage, subagentReads.propertySlug, READS_HELD)
 }
 
 export function namedAt(page: string): string {
@@ -80,7 +96,7 @@ function appended(root: string, page: string, at: string, text: string): undefin
   return undefined
 }
 
-function markedIn(line: string, named: string, at: string): string {
+function marked(line: string, said: Readonly<Record<string, string>>): string {
   let read: unknown
   try {
     read = JSON.parse(line)
@@ -88,15 +104,34 @@ function markedIn(line: string, named: string, at: string): string {
     return line
   }
   if (typeof read !== "object" || read === null || Array.isArray(read)) return line
-  return JSON.stringify({ [LEFT_BY]: named, [CARRIED_AT]: at, ...(read as object) })
+  return JSON.stringify({ ...said, ...(read as object) })
 }
 
 export function editsSaid(lines: readonly string[], named: string, at: string): string {
-  return lines.map((one) => `${markedIn(one, named, at)}\n`).join("")
+  return lines.map((one) => `${marked(one, { [LEFT_BY]: named, [CARRIED_AT]: at })}\n`).join("")
+}
+
+export function readsSaid(lines: readonly string[], agentId: string): string {
+  return lines.map((one) => `${marked(one, { [READ_BY]: agentId })}\n`).join("")
 }
 
 export function refusalsSaid(named: string, held: string): string {
   return `${named}${PARTED}${held.trim()}${PARTED}`
+}
+
+function readingsMoved(root: string, seatPage: string, subagentPage: string): undefined {
+  const to = seatReadsAt(seatPage)
+  const from = readsBesideAt(subagentPage)
+  if (to === null || from === null) return undefined
+  const agentId = textUnder(root, subagentPage, AGENT_ID)
+  if (agentId === null) return undefined
+  const held = textAt(root, from)
+  if (held === null) return undefined
+  const lines = held.split("\n").filter((one) => one.trim() !== "")
+  if (lines.length === 0) return undefined
+  appended(root, seatPage, to, readsSaid(lines, agentId))
+  readingsDropped(root, subagentPage)
+  return undefined
 }
 
 export function movedOnto(root: string, seatPage: string, subagentPage: string): Moved {
@@ -113,6 +148,7 @@ export function movedOnto(root: string, seatPage: string, subagentPage: string):
     appended(root, seatPage, refusalsTo, refusalsSaid(named, refused))
     refusalsKept(root, subagentPage, [])
   }
+  readingsMoved(root, seatPage, subagentPage)
   return { edits: lines.length, refusals: refused !== null }
 }
 

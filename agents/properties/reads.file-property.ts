@@ -32,7 +32,11 @@ export const reads = {
     },
     {
       invariantKind: "departure",
-      statement: "The readings of an agent whose page goes go with that page.",
+      statement: "A subagent's readings move onto its seat before that subagent's page goes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading this file still holds when its page goes is taken away with that page.",
     },
     {
       invariantKind: "departure",

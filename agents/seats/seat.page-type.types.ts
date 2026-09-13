@@ -14,6 +14,7 @@ import type { RotatedSessionUuid } from "akasha/agents/seats/properties/rotated-
 import type { SeatPersona } from "akasha/agents/seats/properties/seat-persona.relation-property.types.ts"
 import type { StartMode } from "akasha/agents/seats/properties/start-mode.text-property.types.ts"
 import type { SubagentEdits } from "akasha/agents/seats/properties/subagent-edits.file-property.types.ts"
+import type { SubagentReads } from "akasha/agents/seats/properties/subagent-reads.file-property.types.ts"
 import type { SubagentRefusals } from "akasha/agents/seats/properties/subagent-refusals.file-property.types.ts"
 import type { SupervisorProcess } from "akasha/agents/seats/properties/supervisor-process.process-property.types.ts"
 import type { TranscriptPath } from "akasha/agents/seats/properties/transcript-path.text-property.types.ts"
@@ -40,5 +41,6 @@ export type Seat = Agent & {
   reExecAsk?: ReExecAsk
   rotatedSessionUuid?: RotatedSessionUuid
   subagentEdits?: SubagentEdits
+  subagentReads?: SubagentReads
   subagentRefusals?: SubagentRefusals
 }

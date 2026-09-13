@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, readFileSync } from "node:fs"
+import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { readsBesideAt } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import {
   refusalsAt,
   refusalsKept,
@@ -12,8 +13,11 @@ import {
   LEFT_BY,
   movedOnto,
   namedAt,
+  READ_BY,
+  readsSaid,
   refusalsSaid,
   seatEditsAt,
+  seatReadsAt,
   seatRefusalsAt,
 } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
@@ -32,6 +36,12 @@ const UNDER = "agents/subagents/pages/tester-abc/tester-abc.subagent.ts"
 const ROW: FileChange = { kind: "remove", path: "one.md" }
 
 const OTHER: FileChange = { kind: "remove", path: "two.md" }
+
+const AGENT_ID = "01a09573-2604-7000-98dd-c04bec8e0696--abc"
+
+const READING = JSON.stringify({ path: "one.md", oid: "aaa", seenAt: 1, carriedOid: null })
+
+const READING_TOO = JSON.stringify({ path: "two.md", oid: "bbb", seenAt: 2, carriedOid: null })
 
 function bodyAt(root: string, at: string | null): string {
   if (at === null) return ""
@@ -52,6 +62,28 @@ function keptIn(root: string): readonly Record<string, string>[] {
     .split("\n")
     .filter((one) => one !== "")
     .map((one) => JSON.parse(one) as Record<string, string>)
+}
+
+function readingsKept(root: string): readonly Record<string, string>[] {
+  return bodyAt(root, seatReadsAt(SEAT))
+    .split("\n")
+    .filter((one) => one !== "")
+    .map((one) => JSON.parse(one) as Record<string, string>)
+}
+
+function subagentPaged(root: string, page: string, agentId: string | null): undefined {
+  folderFor(root, page)
+  const said = agentId === null ? "" : `, agentId: "${agentId}"`
+  writeFileSync(join(root, page), `export const page = { type: "subagent"${said} }\n`)
+  return undefined
+}
+
+function readingsPut(root: string, page: string, lines: readonly string[]): undefined {
+  const at = readsBesideAt(page)
+  if (at === null) return undefined
+  folderFor(root, page)
+  writeFileSync(join(root, at), lines.map((one) => `${one}\n`).join(""))
+  return undefined
 }
 
 test("the edits a subagent never landed are appended to the seat", () => {
@@ -175,4 +207,60 @@ test("a subagent page naming no seat moves nothing", () => {
 test("a path that is no page keeps nothing", () => {
   expect(seatEditsAt("notes.md")).toBe(null)
   expect(seatRefusalsAt("notes.md")).toBe(null)
+  expect(seatReadsAt("notes.md")).toBe(null)
+})
+
+test("the readings a subagent made are appended to the seat", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  subagentPaged(root, UNDER, AGENT_ID)
+  readingsPut(root, UNDER, [READING, READING_TOO])
+  movedOnto(root, SEAT, UNDER)
+
+  expect(readingsKept(root).map((one) => one.path)).toEqual(["one.md", "two.md"])
+})
+
+test("a reading the seat keeps says the agent id it was made by", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  subagentPaged(root, UNDER, AGENT_ID)
+  readingsPut(root, UNDER, [READING])
+  movedOnto(root, SEAT, UNDER)
+
+  expect(readingsKept(root)[0]?.[READ_BY]).toBe(AGENT_ID)
+})
+
+test("the readings moved are taken from beside the subagent", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  subagentPaged(root, UNDER, AGENT_ID)
+  readingsPut(root, UNDER, [READING])
+  movedOnto(root, SEAT, UNDER)
+
+  expect(bodyAt(root, readsBesideAt(UNDER))).toBe("")
+  movedOnto(root, SEAT, UNDER)
+  expect(readingsKept(root).length).toBe(1)
+})
+
+test("a page stating no agent id moves no reading", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  subagentPaged(root, UNDER, null)
+  readingsPut(root, UNDER, [READING])
+  movedOnto(root, SEAT, UNDER)
+
+  expect(bodyAt(root, readsBesideAt(UNDER))).toBe(`${READING}\n`)
+  expect(bodyAt(root, seatReadsAt(SEAT))).toBe("")
+})
+
+test("a reading the seat keeps is beside the seat rather than among the seat's own", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  subagentPaged(root, UNDER, AGENT_ID)
+  readingsPut(root, UNDER, [READING])
+  movedOnto(root, SEAT, UNDER)
+
+  expect(bodyAt(root, readsBesideAt(SEAT))).toBe("")
+  expect(seatReadsAt(SEAT)).toBe(
+    "agents/seats/pages/tester/tester.seat.subagent-reads.uncommitted.jsonl"
+  )
+})
+
+test("a reading that reads as no object is appended unchanged", () => {
+  expect(readsSaid(["not an object"], AGENT_ID)).toBe("not an object\n")
 })
