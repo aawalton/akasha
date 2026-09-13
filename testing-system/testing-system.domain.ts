@@ -20,8 +20,6 @@ export const testingSystem = {
     "module/waiting",
     "module/walking",
     "page-type/test-fixture",
-    "test-fixture/page-holding",
-    "test-fixture/repo-seeding",
   ],
   invariants: [
     {
