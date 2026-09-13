@@ -1,12 +1,12 @@
 import { describe, expect, test } from "bun:test"
 import {
   artistSlugOf,
-  mintSongSlug,
+  catalogueNamesFrom,
+  catalogueSlugBase,
+  catalogueSlugFor,
+  mintCatalogueSlug,
   slugifyName,
-  songNamesFrom,
-  songSlugBase,
-  songSlugFor,
-} from "akasha/alan/music/catalog/modules/song-slug/song-slug.module.code.ts"
+} from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
 
 describe("slugifyName", () => {
   test("lowercases and joins words with a dash", () => {
@@ -53,28 +53,30 @@ describe("artistSlugOf", () => {
 
 describe("songSlugBase", () => {
   test("is the artist slug followed by the slugged title", () => {
-    expect(songSlugBase("queen", "Bohemian Rhapsody")).toBe("queen-bohemian-rhapsody")
+    expect(catalogueSlugBase("queen", "Bohemian Rhapsody")).toBe("queen-bohemian-rhapsody")
   })
 
   test("holds a title that would otherwise run past the length", () => {
-    const base = songSlugBase("queen", "word ".repeat(60))
+    const base = catalogueSlugBase("queen", "word ".repeat(60))
     expect(base.length).toBeLessThanOrEqual(100)
     expect(base.startsWith("queen-word")).toBe(true)
   })
 
   test("is the artist slug followed by untitled when the title slugs to nothing", () => {
-    expect(songSlugBase("queen", "")).toBe("queen-untitled")
+    expect(catalogueSlugBase("queen", "")).toBe("queen-untitled")
   })
 })
 
 describe("mintSongSlug", () => {
   test("gives the base when the base is free", () => {
-    expect(mintSongSlug("queen", "Bohemian Rhapsody", new Set())).toBe("queen-bohemian-rhapsody")
+    expect(mintCatalogueSlug("queen", "Bohemian Rhapsody", new Set())).toBe(
+      "queen-bohemian-rhapsody"
+    )
   })
 
   test("gives the base numbered two when the base is taken", () => {
     const taken = new Set(["queen-bohemian-rhapsody"])
-    expect(mintSongSlug("queen", "Bohemian Rhapsody", taken)).toBe("queen-bohemian-rhapsody-2")
+    expect(mintCatalogueSlug("queen", "Bohemian Rhapsody", taken)).toBe("queen-bohemian-rhapsody-2")
   })
 
   test("takes the next free number rather than the count taken", () => {
@@ -83,30 +85,30 @@ describe("mintSongSlug", () => {
       "queen-bohemian-rhapsody-2",
       "queen-bohemian-rhapsody-4",
     ])
-    expect(mintSongSlug("queen", "Bohemian Rhapsody", taken)).toBe("queen-bohemian-rhapsody-3")
+    expect(mintCatalogueSlug("queen", "Bohemian Rhapsody", taken)).toBe("queen-bohemian-rhapsody-3")
   })
 
   test("never gives the base numbered one", () => {
     const taken = new Set(["queen-under-pressure"])
-    expect(mintSongSlug("queen", "Under Pressure", taken)).not.toBe("queen-under-pressure-1")
+    expect(mintCatalogueSlug("queen", "Under Pressure", taken)).not.toBe("queen-under-pressure-1")
   })
 
   test("throws once a thousand collisions sit on one base", () => {
     const taken = new Set(["queen-one"])
     for (let nth = 2; nth <= 1000; nth += 1) taken.add(`queen-one-${nth}`)
-    expect(() => mintSongSlug("queen", "One", taken)).toThrow(/1000 songs are already filed/)
+    expect(() => mintCatalogueSlug("queen", "One", taken)).toThrow(/1000 songs are already filed/)
   })
 
   test("holds a long artist and title inside a hundred characters", () => {
-    const minted = mintSongSlug("the-".repeat(20), "A Very Long Title ".repeat(20), new Set())
+    const minted = mintCatalogueSlug("the-".repeat(20), "A Very Long Title ".repeat(20), new Set())
     expect(minted.length).toBeLessThanOrEqual(100)
   })
 
   test("holds a numbered slug inside a hundred characters too", () => {
     const artist = "a-really-rather-long-band-name-that-goes-on"
     const title = "A Really Rather Long Song Title That Also Goes On And On And On"
-    const base = songSlugBase(artist, title)
-    const minted = mintSongSlug(artist, title, new Set([base]))
+    const base = catalogueSlugBase(artist, title)
+    const minted = mintCatalogueSlug(artist, title, new Set([base]))
     expect(base.length).toBeLessThanOrEqual(100)
     expect(minted.length).toBeLessThanOrEqual(100)
     expect(minted).not.toBe(base)
@@ -115,7 +117,7 @@ describe("mintSongSlug", () => {
 
 describe("songNamesFrom", () => {
   test("takes every slug and files the ones naming an external id", () => {
-    const names = songNamesFrom([
+    const names = catalogueNamesFrom([
       { slug: "queen-one", externalId: "mbid-one" },
       { slug: "queen-two", externalId: null },
       { slug: "queen-three" },
@@ -129,32 +131,32 @@ describe("songNamesFrom", () => {
 
 describe("songSlugFor", () => {
   test("keeps the name an existing song already has", () => {
-    const names = songNamesFrom([{ slug: "queen-bo-rhap", externalId: "mbid-one" }])
-    expect(songSlugFor(names, "queen", "Bohemian Rhapsody", "mbid-one")).toBe("queen-bo-rhap")
+    const names = catalogueNamesFrom([{ slug: "queen-bo-rhap", externalId: "mbid-one" }])
+    expect(catalogueSlugFor(names, "queen", "Bohemian Rhapsody", "mbid-one")).toBe("queen-bo-rhap")
   })
 
   test("keeps the existing name even where the title slugs to something else", () => {
-    const names = songNamesFrom([{ slug: "queen-old-name", externalId: "mbid-one" }])
-    songSlugFor(names, "queen", "A Wholly Different Title", "mbid-one")
+    const names = catalogueNamesFrom([{ slug: "queen-old-name", externalId: "mbid-one" }])
+    catalogueSlugFor(names, "queen", "A Wholly Different Title", "mbid-one")
     expect(names.taken.has("queen-a-wholly-different-title")).toBe(false)
   })
 
   test("gives a name to a song the catalogue does not hold", () => {
-    const names = songNamesFrom([])
-    expect(songSlugFor(names, "queen", "Bohemian Rhapsody", "mbid-one")).toBe(
+    const names = catalogueNamesFrom([])
+    expect(catalogueSlugFor(names, "queen", "Bohemian Rhapsody", "mbid-one")).toBe(
       "queen-bohemian-rhapsody"
     )
   })
 
   test("takes the name it gave so a later song collides with it", () => {
-    const names = songNamesFrom([])
-    expect(songSlugFor(names, "queen", "One", "mbid-one")).toBe("queen-one")
-    expect(songSlugFor(names, "queen", "One", "mbid-two")).toBe("queen-one-2")
+    const names = catalogueNamesFrom([])
+    expect(catalogueSlugFor(names, "queen", "One", "mbid-one")).toBe("queen-one")
+    expect(catalogueSlugFor(names, "queen", "One", "mbid-two")).toBe("queen-one-2")
   })
 
   test("gives the same name twice for the same external id", () => {
-    const names = songNamesFrom([])
-    const first = songSlugFor(names, "queen", "One", "mbid-one")
-    expect(songSlugFor(names, "queen", "One", "mbid-one")).toBe(first)
+    const names = catalogueNamesFrom([])
+    const first = catalogueSlugFor(names, "queen", "One", "mbid-one")
+    expect(catalogueSlugFor(names, "queen", "One", "mbid-one")).toBe(first)
   })
 })

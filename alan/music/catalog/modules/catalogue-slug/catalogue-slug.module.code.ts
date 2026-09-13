@@ -5,7 +5,7 @@ const FALLBACK_NAME = "untitled"
 
 const COLLISION_CEILING = 1000
 
-export type SongNames = {
+export type CatalogueNames = {
   readonly taken: Set<string>
   readonly filed: Map<string, string>
 }
@@ -23,16 +23,16 @@ export function artistSlugOf(name: string): string {
   return shortenedToWords(slugifyName(name), STEM_CEILING)
 }
 
-export function songSlugBase(artistSlug: string, title: string): string {
+export function catalogueSlugBase(artistSlug: string, title: string): string {
   return shortenedToWords(`${artistSlug}-${slugifyName(title)}`, STEM_CEILING)
 }
 
-export function mintSongSlug(
+export function mintCatalogueSlug(
   artistSlug: string,
   title: string,
   taken: ReadonlySet<string>
 ): string {
-  const base = songSlugBase(artistSlug, title)
+  const base = catalogueSlugBase(artistSlug, title)
   if (!taken.has(base)) return base
   for (let nth = 2; nth <= COLLISION_CEILING; nth += 1) {
     const numbered = `-${nth}`
@@ -44,9 +44,9 @@ export function mintSongSlug(
   )
 }
 
-export function songNamesFrom(
+export function catalogueNamesFrom(
   rows: Iterable<{ readonly slug: string; readonly externalId?: string | null }>
-): SongNames {
+): CatalogueNames {
   const taken = new Set<string>()
   const filed = new Map<string, string>()
   for (const row of rows) {
@@ -57,15 +57,15 @@ export function songNamesFrom(
   return { taken, filed }
 }
 
-export function songSlugFor(
-  names: SongNames,
+export function catalogueSlugFor(
+  names: CatalogueNames,
   artistSlug: string,
   title: string,
   externalId: string
 ): string {
   const held = names.filed.get(externalId)
   if (held !== undefined) return held
-  const minted = mintSongSlug(artistSlug, title, names.taken)
+  const minted = mintCatalogueSlug(artistSlug, title, names.taken)
   names.taken.add(minted)
   names.filed.set(externalId, minted)
   return minted

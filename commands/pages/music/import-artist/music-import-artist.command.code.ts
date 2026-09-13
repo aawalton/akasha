@@ -3,6 +3,7 @@ import {
   type Catalogue,
   catalogueIn,
 } from "akasha/alan/music/catalog/modules/catalogue-held/catalogue-held.module.code.ts"
+import { catalogueSlugFor } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
 import { searchLyrics } from "akasha/alan/music/catalog/modules/lrclib-client/lrclib-client.module.code.ts"
 import {
   lyricsFieldsOf,
@@ -36,7 +37,6 @@ import type {
   MbRecording,
   MbWork,
 } from "akasha/alan/music/catalog/modules/musicbrainz-schema/musicbrainz-schema.module.code.ts"
-import { songSlugFor } from "akasha/alan/music/catalog/modules/song-slug/song-slug.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   landedMechanically,
@@ -253,7 +253,7 @@ type Asked = { readonly slug: string; readonly fields: SongFields; readonly titl
 
 function askedOf(catalogue: Catalogue, artistSlug: string, fields: SongFields): Asked {
   const named = songIdIn(fields) ?? fields.title
-  const slug = songSlugFor(catalogue.names, artistSlug, fields.title, named)
+  const slug = catalogueSlugFor(catalogue.names, artistSlug, fields.title, named)
   return { slug, fields, title: fields.title }
 }
 

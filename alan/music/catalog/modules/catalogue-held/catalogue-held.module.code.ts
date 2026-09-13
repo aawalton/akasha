@@ -1,10 +1,10 @@
 import { idFrom } from "akasha/alan/collections/externals/modules/external-identity-reading/external-identity-reading.module.code.ts"
-import { identityHeld } from "akasha/alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.code.ts"
 import {
   artistSlugOf,
-  type SongNames,
-  songNamesFrom,
-} from "akasha/alan/music/catalog/modules/song-slug/song-slug.module.code.ts"
+  type CatalogueNames,
+  catalogueNamesFrom,
+} from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
+import { identityHeld } from "akasha/alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   textIn,
@@ -19,7 +19,10 @@ const MUSICBRAINZ = "musicbrainz"
 
 const IDENTITY = "externalIdentity"
 
-export type Catalogue = { readonly names: SongNames; readonly held: ReadonlyMap<string, Value> }
+export type Catalogue = {
+  readonly names: CatalogueNames
+  readonly held: ReadonlyMap<string, Value>
+}
 
 export type Named = { readonly slug: string; readonly was: Value }
 
@@ -33,7 +36,7 @@ export function catalogueIn(root: string): Catalogue {
     rows.push({ slug, externalId: idFrom(stated, MUSICBRAINZ) })
     held.set(slug, one.value)
   }
-  return { names: songNamesFrom(rows), held }
+  return { names: catalogueNamesFrom(rows), held }
 }
 
 export function artistIn(root: string, mbid: string, name: string): Named {

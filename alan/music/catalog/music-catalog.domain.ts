@@ -13,7 +13,7 @@ export const musicCatalog = {
     "module/musicbrainz-client",
     "module/musicbrainz-map",
     "module/musicbrainz-schema",
-    "module/song-slug",
+    "module/catalogue-slug",
     "page-type/artist",
     "page-type/artist-collection",
     "page-type/release",
