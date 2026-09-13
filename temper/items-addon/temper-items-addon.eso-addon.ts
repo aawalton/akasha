@@ -204,5 +204,10 @@ export const temperItemsAddon = {
       invariantKind: "absence",
       statement: "Nothing here reads a guild trader's listings.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A visit to the bank moves every item the rules send there, however many there are.",
+    },
   ],
 } as const satisfies EsoAddon
