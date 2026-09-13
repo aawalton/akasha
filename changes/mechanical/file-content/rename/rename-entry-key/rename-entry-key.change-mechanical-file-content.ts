@@ -6,6 +6,7 @@ export const renameEntryKey = {
   slug: "rename-entry-key",
   changeMode: "change-mode-rename",
   changeTargetType: "change-target-type/file-content",
+  changeTargetSubtype: "change-target-subtype/file-content-entry-key",
   definition: "one key of every entry beside a page spelled anew, keeping its place and its value",
   code: "ts",
   test: "ts",

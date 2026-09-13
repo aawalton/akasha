@@ -6,6 +6,7 @@ export const addTypeMember = {
   slug: "add-type-member",
   changeMode: "change-mode-add",
   changeTargetType: "change-target-type/file-content",
+  changeTargetSubtype: "change-target-subtype/file-content-code",
   definition: "one member put into an exported object type",
   code: "ts",
   test: "ts",

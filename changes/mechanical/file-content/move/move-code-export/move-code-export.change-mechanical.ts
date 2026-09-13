@@ -6,6 +6,7 @@ export const moveCodeExport = {
   slug: "move-code-export",
   changeMode: "change-mode-move",
   changeTargetType: "change-target-type/file-content",
+  changeTargetSubtype: "change-target-subtype/file-content-code",
   definition: "one export moved from one code body to another, with every importer repointed",
   code: "ts",
   test: "ts",

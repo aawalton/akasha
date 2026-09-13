@@ -6,6 +6,7 @@ export const changeFileContent = {
   slug: "change-file-content",
   changeMode: "change-mode-change",
   changeTargetType: "change-target-type/file-content",
+  changeTargetSubtype: "change-target-subtype/file-content",
   definition: "one passage of one body replaced by another, with nothing else judged",
   code: "ts",
   test: "ts",
