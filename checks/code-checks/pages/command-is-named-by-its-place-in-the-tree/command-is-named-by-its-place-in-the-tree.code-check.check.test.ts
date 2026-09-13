@@ -66,3 +66,47 @@ test("a namespace naming a command leaves that command judged, though it did not
 test("a namespace naming a command already in its own folder is let through", () => {
   expect(judged(landing(rooted(UNDER), { [NS_AT]: namespaceBody() }))).toEqual([])
 })
+
+const MOD = "01a08d69-0b2e-7103-8000-000000000003"
+
+const MOD_AT = "commands/pages/warbling/humming/modules/trilling/trilling.module.ts"
+
+const MOD_CODE = "commands/pages/warbling/humming/modules/trilling/trilling.module.code.ts"
+
+const CMD_CODE = "commands/pages/warbling/humming/warbling-humming.command.code.ts"
+
+const BYTES = new TextEncoder()
+
+function bare(): string {
+  const root = scratch.rootFor("akasha-command-arriving-")
+  founded(root)
+  typed(root, "domain", "page")
+  typed(root, "module", "domain")
+  typed(root, "command", "module")
+  typed(root, "namespace", "domain")
+  declaring(root, "parts", { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain" })
+  pageFiled(root, NS, NS_AT)
+  claiming(root, NS_AT, NS_AT, NS)
+  listedFiled(root, "namespace", "warbling", [{ path: NS_AT, id: NS }])
+  return root
+}
+
+function arriving(): Change {
+  return landing(bare(), {
+    [UNDER]: BYTES.encode(
+      `export const held = { id: ${JSON.stringify(CMD)}, pageTypeSlug: "command", ` +
+        `slug: "warbling-humming", parts: ["module/trilling"] }\n`
+    ),
+    [CMD_CODE]: BYTES.encode(
+      `import { trilling } from "akasha/${MOD_CODE}"\nexport const said = trilling\n`
+    ),
+    [MOD_AT]: BYTES.encode(
+      `export const held = { id: ${JSON.stringify(MOD)}, pageTypeSlug: "module", slug: "trilling" }\n`
+    ),
+    [MOD_CODE]: BYTES.encode(`export function trilling(): string {\n  return "trilling"\n}\n`),
+  })
+}
+
+test("a module whose only importer is a command the same landing adds is let through", () => {
+  expect(judged(arriving())).toEqual([])
+})

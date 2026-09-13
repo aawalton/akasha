@@ -1,9 +1,7 @@
 import { dirname } from "node:path"
 import { filedById, namesIn } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
-import {
-  filesIn,
-  foldersIn,
-} from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
+import { filesIn } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { namedUnder, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
@@ -218,22 +216,22 @@ export function namedAt(path: string, kinds: Kinds): Named | null {
 
 const TREES = new WeakMap<Shadow, Tree>()
 
+const UNDER_PAGES = `${PAGES_AT}/`
+
+function pagesOfTypes(shadow: Shadow, kinds: ReadonlySet<string>): readonly string[] {
+  const found: string[] = []
+  for (const slug of kinds) {
+    for (const one of shadow.index.everyOfType(slug)) {
+      if (one.path.startsWith(UNDER_PAGES)) found.push(one.path)
+    }
+  }
+  return found
+}
+
 function treeIn(shadow: Shadow, kinds: Kinds): Tree {
   const levels = new Set<string>()
-  const modules: string[] = []
-  const left = [PAGES_AT]
-  while (left.length > 0) {
-    const folder = left.pop()
-    if (folder === undefined) continue
-    for (const file of filesIn(shadow.root, folder)) {
-      const one = namedAt(file, kinds)
-      if (one === null) continue
-      if (one.module) modules.push(file)
-      else levels.add(folder)
-    }
-    left.push(...foldersIn(shadow.root, folder))
-  }
-  return { levels, modules: modules.sort() }
+  for (const one of pagesOfTypes(shadow, kinds.tree)) levels.add(dirname(one))
+  return { levels, modules: [...pagesOfTypes(shadow, kinds.modules)].sort() }
 }
 
 export function treeUnder(shadow: Shadow, kinds: Kinds): Tree {
@@ -244,12 +242,31 @@ export function treeUnder(shadow: Shadow, kinds: Kinds): Tree {
   return made
 }
 
-function reachingOver(shadow: Shadow): (folder: string) => readonly string[] {
+export type Files = (folder: string) => readonly string[]
+
+export function filesCarriedIn(root: string): Files {
+  return (folder) => filesIn(root, folder)
+}
+
+export function filesLeftBy(change: Change): Files {
+  const base = change.base ?? null
+  return (folder) => {
+    const held = new Set<string>(filesIn(change.root, folder, base))
+    for (const one of change.changed) {
+      if (dirname(one) !== folder) continue
+      if (change.after(one) === null) held.delete(one)
+      else held.add(one)
+    }
+    return [...held].sort()
+  }
+}
+
+function reachingOver(shadow: Shadow, files: Files): (folder: string) => readonly string[] {
   return (folder) => {
     const found = new Set<string>()
-    for (const file of filesIn(shadow.root, folder)) {
+    for (const file of files(folder)) {
       for (const one of shadow.index.importersOf(file)) {
-        if (one.startsWith(`${folder}/`) || !one.startsWith(`${PAGES_AT}/`)) continue
+        if (one.startsWith(`${folder}/`) || !one.startsWith(UNDER_PAGES)) continue
         found.add(dirname(one))
       }
     }
@@ -257,8 +274,12 @@ function reachingOver(shadow: Shadow): (folder: string) => readonly string[] {
   }
 }
 
-export function placingBy(shadow: Shadow, kinds: Kinds): Placing {
-  const reaching = reachingOver(shadow)
+export function placingBy(
+  shadow: Shadow,
+  kinds: Kinds,
+  files: Files = filesCarriedIn(shadow.root)
+): Placing {
+  const reaching = reachingOver(shadow, files)
   return (path) =>
     placeReasonIn(path, {
       levels: treeUnder(shadow, kinds).levels,
@@ -266,9 +287,13 @@ export function placingBy(shadow: Shadow, kinds: Kinds): Placing {
     })
 }
 
-export function judgingBy(shadow: Shadow, kinds: Kinds): Judging {
+export function judgingBy(
+  shadow: Shadow,
+  kinds: Kinds,
+  files: Files = filesCarriedIn(shadow.root)
+): Judging {
   const known = shadow.index.knownIn()
-  const placing = placingBy(shadow, kinds)
+  const placing = placingBy(shadow, kinds, files)
   return (id, path, named) => {
     const namer = shadow.index.idsNaming(id, PARTS)[0]
     if (namer === undefined) return null

@@ -81,6 +81,24 @@ export const commandIsNamedByItsPlaceInTheTree = {
     },
     {
       invariantKind: "departure",
+      statement: "A page the change adds counts among the pages reaching a module.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A level the change adds is a level of the tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The levels and the modules of the tree are read from the index the change leaves.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The files of a module's own folder are what git carries there as the change leaves it.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A module reached from two levels with no level above both sits in `commands/modules`.",
     },
