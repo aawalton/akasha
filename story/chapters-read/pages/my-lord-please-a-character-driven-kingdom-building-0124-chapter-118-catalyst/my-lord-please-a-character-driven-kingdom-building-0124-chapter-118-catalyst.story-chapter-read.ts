@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0124Chapter118Catalyst =
   ownLength: 1938,
   unit: "words",
   publishedAt: "2026-08-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3854904/chapter-118-catalyst",
-  externalId: "3854904",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3854904",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3854904/chapter-118-catalyst",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

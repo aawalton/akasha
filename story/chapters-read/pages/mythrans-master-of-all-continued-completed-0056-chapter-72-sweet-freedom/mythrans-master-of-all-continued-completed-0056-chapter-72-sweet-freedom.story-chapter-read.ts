@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0056Chapter72SweetFreedom = {
   ownLength: 4707,
   unit: "words",
   publishedAt: "2016-11-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/101227/chapter-72-sweet-freedom",
-  externalId: "101227",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "101227",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/101227/chapter-72-sweet-freedom",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0055Chapter71ANightInJail = {
   ownLength: 5218,
   unit: "words",
   publishedAt: "2016-11-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/101113/chapter-71-a-night-in-jail",
-  externalId: "101113",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "101113",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/101113/chapter-71-a-night-in-jail",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

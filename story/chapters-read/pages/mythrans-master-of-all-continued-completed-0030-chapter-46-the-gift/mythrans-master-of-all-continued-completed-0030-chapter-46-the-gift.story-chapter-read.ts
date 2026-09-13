@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0030Chapter46TheGift = {
   ownLength: 2821,
   unit: "words",
   publishedAt: "2016-10-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/96899/chapter-46-the-gift",
-  externalId: "96899",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "96899",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/96899/chapter-46-the-gift",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

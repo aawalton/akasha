@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0040Chapter56ShoppingNewArc = 
   ownLength: 2051,
   unit: "words",
   publishedAt: "2016-10-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/98641/chapter-56-shopping-new-arc",
-  externalId: "98641",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "98641",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/98641/chapter-56-shopping-new-arc",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

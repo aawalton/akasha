@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0017Chapter33ALoophole = {
   ownLength: 2826,
   unit: "words",
   publishedAt: "2016-09-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/94762/chapter-33-a-loophole",
-  externalId: "94762",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "94762",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/94762/chapter-33-a-loophole",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

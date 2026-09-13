@@ -10,7 +10,13 @@ export const savageDivinity0228Chapter226 = {
   ownLength: 3162,
   unit: "words",
   publishedAt: "2017-07-03",
-  externalLink: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/146375/chapter-226",
-  externalId: "146375",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "146375",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/146375/chapter-226",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

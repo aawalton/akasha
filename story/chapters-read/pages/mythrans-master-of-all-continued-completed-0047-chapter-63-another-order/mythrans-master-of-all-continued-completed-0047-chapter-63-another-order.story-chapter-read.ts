@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0047Chapter63AnotherOrder = {
   ownLength: 4693,
   unit: "words",
   publishedAt: "2016-10-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/99757/chapter-63-another-order",
-  externalId: "99757",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "99757",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/99757/chapter-63-another-order",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

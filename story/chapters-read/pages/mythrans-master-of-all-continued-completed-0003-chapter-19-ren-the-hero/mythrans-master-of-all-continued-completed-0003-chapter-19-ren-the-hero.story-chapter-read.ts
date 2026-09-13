@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0003Chapter19RenTheHero = {
   ownLength: 2570,
   unit: "words",
   publishedAt: "2016-09-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/91472/chapter-19-ren-the-hero",
-  externalId: "91472",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "91472",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/91472/chapter-19-ren-the-hero",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

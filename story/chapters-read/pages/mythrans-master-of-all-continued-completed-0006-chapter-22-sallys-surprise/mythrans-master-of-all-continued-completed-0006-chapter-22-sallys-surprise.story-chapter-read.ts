@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0006Chapter22SallysSurprise = 
   ownLength: 3172,
   unit: "words",
   publishedAt: "2016-09-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/92244/chapter-22-sallys-surprise",
-  externalId: "92244",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "92244",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/92244/chapter-22-sallys-surprise",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

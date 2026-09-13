@@ -12,8 +12,13 @@ export const theLegendOfRandidlyGhosthound0589Chapter2324 = {
   unit: "words",
   completedAt: "2026-06-29T22:01:21.158Z",
   publishedAt: "2023-11-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/1410558/chapter-2324",
-  externalId: "1410558",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1410558",
+      externalLink:
+        "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/1410558/chapter-2324",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0026Chapter42BasicLabor = {
   ownLength: 2480,
   unit: "words",
   publishedAt: "2016-10-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/96201/chapter-42-basic-labor",
-  externalId: "96201",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "96201",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/96201/chapter-42-basic-labor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

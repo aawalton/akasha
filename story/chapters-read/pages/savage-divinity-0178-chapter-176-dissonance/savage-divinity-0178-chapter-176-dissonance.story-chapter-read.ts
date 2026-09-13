@@ -10,8 +10,13 @@ export const savageDivinity0178Chapter176Dissonance = {
   ownLength: 2937,
   unit: "words",
   publishedAt: "2017-02-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/120286/chapter-176-dissonance",
-  externalId: "120286",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "120286",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/120286/chapter-176-dissonance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

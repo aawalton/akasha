@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0115Chapter109Questions 
   ownLength: 2142,
   unit: "words",
   publishedAt: "2026-08-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3783531/chapter-109-questions",
-  externalId: "3783531",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3783531",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3783531/chapter-109-questions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

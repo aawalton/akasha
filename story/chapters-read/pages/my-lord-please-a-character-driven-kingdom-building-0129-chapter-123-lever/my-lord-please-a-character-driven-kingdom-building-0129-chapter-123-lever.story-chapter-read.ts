@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0129Chapter123Lever = {
   ownLength: 2009,
   unit: "words",
   publishedAt: "2026-08-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3891683/chapter-123-lever",
-  externalId: "3891683",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3891683",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3891683/chapter-123-lever",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

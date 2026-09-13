@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0127Chapter121Signs = {
   ownLength: 1940,
   unit: "words",
   publishedAt: "2026-08-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3878112/chapter-121-signs",
-  externalId: "3878112",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3878112",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3878112/chapter-121-signs",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

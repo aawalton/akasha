@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0033Chapter49AConfession = {
   ownLength: 2008,
   unit: "words",
   publishedAt: "2016-10-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/97389/chapter-49-a-confession",
-  externalId: "97389",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "97389",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/97389/chapter-49-a-confession",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0122Chapter116Reserves =
   ownLength: 2126,
   unit: "words",
   publishedAt: "2026-08-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3835601/chapter-116-reserves",
-  externalId: "3835601",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3835601",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3835601/chapter-116-reserves",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0028Chapter44HardAtWork = {
   ownLength: 2602,
   unit: "words",
   publishedAt: "2016-10-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/96615/chapter-44-hard-at-work",
-  externalId: "96615",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "96615",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/96615/chapter-44-hard-at-work",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

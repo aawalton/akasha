@@ -10,8 +10,13 @@ export const savageDivinity0195Chapter193Turmoil = {
   ownLength: 3048,
   unit: "words",
   publishedAt: "2017-04-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/129130/chapter-193-turmoil",
-  externalId: "129130",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "129130",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/129130/chapter-193-turmoil",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

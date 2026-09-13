@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0046Chapter62LetThemEatCake = 
   ownLength: 2662,
   unit: "words",
   publishedAt: "2016-10-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/99620/chapter-62-let-them-eat-cake",
-  externalId: "99620",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "99620",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/99620/chapter-62-let-them-eat-cake",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

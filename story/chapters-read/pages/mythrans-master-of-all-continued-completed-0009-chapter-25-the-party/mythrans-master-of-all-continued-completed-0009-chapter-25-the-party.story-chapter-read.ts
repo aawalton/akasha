@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0009Chapter25TheParty = {
   ownLength: 3663,
   unit: "words",
   publishedAt: "2016-09-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/92829/chapter-25-the-party",
-  externalId: "92829",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "92829",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/92829/chapter-25-the-party",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

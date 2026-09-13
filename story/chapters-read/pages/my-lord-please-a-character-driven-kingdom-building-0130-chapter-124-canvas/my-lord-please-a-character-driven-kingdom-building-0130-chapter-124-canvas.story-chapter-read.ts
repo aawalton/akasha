@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0130Chapter124Canvas = {
   ownLength: 2243,
   unit: "words",
   publishedAt: "2026-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3901451/chapter-124-canvas",
-  externalId: "3901451",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3901451",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3901451/chapter-124-canvas",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

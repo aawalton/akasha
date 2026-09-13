@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0054Chapter70Whaaaaat = {
   ownLength: 2580,
   unit: "words",
   publishedAt: "2016-11-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/100944/chapter-70-whaaaaat",
-  externalId: "100944",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "100944",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/100944/chapter-70-whaaaaat",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

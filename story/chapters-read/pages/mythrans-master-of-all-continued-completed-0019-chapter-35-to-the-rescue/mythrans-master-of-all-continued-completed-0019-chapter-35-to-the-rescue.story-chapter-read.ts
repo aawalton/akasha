@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0019Chapter35ToTheRescue = {
   ownLength: 2039,
   unit: "words",
   publishedAt: "2016-09-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/95113/chapter-35-to-the-rescue",
-  externalId: "95113",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "95113",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/95113/chapter-35-to-the-rescue",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0126Chapter120Framework 
   ownLength: 2578,
   unit: "words",
   publishedAt: "2026-08-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3868647/chapter-120-framework",
-  externalId: "3868647",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3868647",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3868647/chapter-120-framework",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

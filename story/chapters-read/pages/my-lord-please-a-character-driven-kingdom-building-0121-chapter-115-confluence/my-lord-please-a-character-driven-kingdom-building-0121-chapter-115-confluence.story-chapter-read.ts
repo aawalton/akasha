@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0121Chapter115Confluence
   ownLength: 2109,
   unit: "words",
   publishedAt: "2026-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3826744/chapter-115-confluence",
-  externalId: "3826744",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3826744",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3826744/chapter-115-confluence",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0021Chapter37Revelation = {
   ownLength: 2229,
   unit: "words",
   publishedAt: "2016-09-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/95379/chapter-37-revelation",
-  externalId: "95379",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "95379",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/95379/chapter-37-revelation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0010Chapter26TheHospital = {
   ownLength: 2866,
   unit: "words",
   publishedAt: "2016-09-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/92997/chapter-26-the-hospital",
-  externalId: "92997",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "92997",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/92997/chapter-26-the-hospital",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

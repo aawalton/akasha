@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0039Chapter55SayingGoodbye = {
   ownLength: 2338,
   unit: "words",
   publishedAt: "2016-10-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/98455/chapter-55-saying-goodbye",
-  externalId: "98455",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "98455",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/98455/chapter-55-saying-goodbye",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0104Chapter99Shelter = {
   ownLength: 2279,
   unit: "words",
   publishedAt: "2026-07-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3698441/chapter-99-shelter",
-  externalId: "3698441",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3698441",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3698441/chapter-99-shelter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

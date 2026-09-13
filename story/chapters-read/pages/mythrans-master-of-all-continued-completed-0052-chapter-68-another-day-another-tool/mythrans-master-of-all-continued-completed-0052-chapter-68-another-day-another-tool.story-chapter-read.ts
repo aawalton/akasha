@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0052Chapter68AnotherDayAnother
   ownLength: 3777,
   unit: "words",
   publishedAt: "2016-10-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/100540/chapter-68-another-day-another-tool",
-  externalId: "100540",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "100540",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/100540/chapter-68-another-day-another-tool",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

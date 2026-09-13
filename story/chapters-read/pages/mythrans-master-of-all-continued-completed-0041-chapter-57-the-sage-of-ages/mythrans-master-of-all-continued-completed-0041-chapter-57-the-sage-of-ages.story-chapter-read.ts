@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0041Chapter57TheSageOfAges = {
   ownLength: 2648,
   unit: "words",
   publishedAt: "2016-10-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/98793/chapter-57-the-sage-of-ages",
-  externalId: "98793",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "98793",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/98793/chapter-57-the-sage-of-ages",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

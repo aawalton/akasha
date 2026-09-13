@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0001Chapter17Aftermath = {
   ownLength: 2258,
   unit: "words",
   publishedAt: "2016-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/90880/chapter-17-aftermath",
-  externalId: "90880",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "90880",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/90880/chapter-17-aftermath",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

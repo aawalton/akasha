@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0053Chapter69ToTheBowTrees = {
   ownLength: 2809,
   unit: "words",
   publishedAt: "2016-11-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/100784/chapter-69-to-the-bow-trees",
-  externalId: "100784",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "100784",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/100784/chapter-69-to-the-bow-trees",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

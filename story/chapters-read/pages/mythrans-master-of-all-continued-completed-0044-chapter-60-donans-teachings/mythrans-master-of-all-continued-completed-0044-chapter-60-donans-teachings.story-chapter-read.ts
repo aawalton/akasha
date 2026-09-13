@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0044Chapter60DonansTeachings =
   ownLength: 3941,
   unit: "words",
   publishedAt: "2016-10-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/99279/chapter-60-donans-teachings",
-  externalId: "99279",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "99279",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/99279/chapter-60-donans-teachings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

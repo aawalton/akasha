@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0022Chapter38TheresMore = {
   ownLength: 2462,
   unit: "words",
   publishedAt: "2016-09-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/95551/chapter-38-theres-more",
-  externalId: "95551",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "95551",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/95551/chapter-38-theres-more",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

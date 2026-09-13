@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0048Chapter64BackAtTheMines = 
   ownLength: 3961,
   unit: "words",
   publishedAt: "2016-10-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/99906/chapter-64-back-at-the-mines",
-  externalId: "99906",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "99906",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/99906/chapter-64-back-at-the-mines",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

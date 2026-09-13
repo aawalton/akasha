@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0024Chapter40ANormalDay = {
   ownLength: 2040,
   unit: "words",
   publishedAt: "2016-10-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/95877/chapter-40-a-normal-day",
-  externalId: "95877",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "95877",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/95877/chapter-40-a-normal-day",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

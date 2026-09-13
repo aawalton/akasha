@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0100Chapter95Routine = {
   ownLength: 2013,
   unit: "words",
   publishedAt: "2026-07-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3667800/chapter-95-routine",
-  externalId: "3667800",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3667800",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3667800/chapter-95-routine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0103Chapter98Inquiries =
   ownLength: 2042,
   unit: "words",
   publishedAt: "2026-07-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3690495/chapter-98-inquiries",
-  externalId: "3690495",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3690495",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3690495/chapter-98-inquiries",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

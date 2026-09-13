@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0008Chapter24AForgottenFriend 
   ownLength: 3003,
   unit: "words",
   publishedAt: "2016-09-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/92646/chapter-24-a-forgotten-friend",
-  externalId: "92646",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "92646",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/92646/chapter-24-a-forgotten-friend",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

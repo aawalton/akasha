@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0037Chapter53TheTripBack = {
   ownLength: 2654,
   unit: "words",
   publishedAt: "2016-10-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/98113/chapter-53-the-trip-back",
-  externalId: "98113",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "98113",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/98113/chapter-53-the-trip-back",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0049Chapter65OreDelivery = {
   ownLength: 2753,
   unit: "words",
   publishedAt: "2016-10-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/100078/chapter-65-ore-delivery",
-  externalId: "100078",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "100078",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/100078/chapter-65-ore-delivery",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

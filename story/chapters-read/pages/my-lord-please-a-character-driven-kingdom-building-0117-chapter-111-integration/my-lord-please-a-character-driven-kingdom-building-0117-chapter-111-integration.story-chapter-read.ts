@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0117Chapter111Integratio
   ownLength: 2131,
   unit: "words",
   publishedAt: "2026-08-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3796570/chapter-111-integration",
-  externalId: "3796570",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3796570",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3796570/chapter-111-integration",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

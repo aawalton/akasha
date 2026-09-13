@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0102Chapter97Permanence 
   ownLength: 2074,
   unit: "words",
   publishedAt: "2026-07-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3681635/chapter-97-permanence",
-  externalId: "3681635",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3681635",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3681635/chapter-97-permanence",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

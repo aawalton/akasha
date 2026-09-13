@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0032Chapter48NiceBoots = {
   ownLength: 2218,
   unit: "words",
   publishedAt: "2016-10-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/97233/chapter-48-nice-boots",
-  externalId: "97233",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "97233",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/97233/chapter-48-nice-boots",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

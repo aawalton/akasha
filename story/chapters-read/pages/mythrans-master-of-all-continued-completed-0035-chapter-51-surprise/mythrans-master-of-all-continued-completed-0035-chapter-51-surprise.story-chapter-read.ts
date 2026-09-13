@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0035Chapter51Surprise = {
   ownLength: 3456,
   unit: "words",
   publishedAt: "2016-10-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/97772/chapter-51-surprise",
-  externalId: "97772",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "97772",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/97772/chapter-51-surprise",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

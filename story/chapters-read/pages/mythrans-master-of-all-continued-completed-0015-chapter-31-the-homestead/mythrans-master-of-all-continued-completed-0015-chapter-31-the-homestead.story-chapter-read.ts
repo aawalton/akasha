@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0015Chapter31TheHomestead = {
   ownLength: 2733,
   unit: "words",
   publishedAt: "2016-09-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/94441/chapter-31-the-homestead",
-  externalId: "94441",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "94441",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/94441/chapter-31-the-homestead",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

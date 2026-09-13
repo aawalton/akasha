@@ -10,8 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0036Chapter52HealingX2 = {
   ownLength: 3059,
   unit: "words",
   publishedAt: "2016-10-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/97933/chapter-52-healing-x2",
-  externalId: "97933",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "97933",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/97933/chapter-52-healing-x2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

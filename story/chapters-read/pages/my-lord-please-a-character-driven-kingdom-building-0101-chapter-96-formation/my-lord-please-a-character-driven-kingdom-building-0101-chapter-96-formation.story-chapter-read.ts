@@ -10,8 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0101Chapter96Formation =
   ownLength: 2182,
   unit: "words",
   publishedAt: "2026-07-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3672377/chapter-96-formation",
-  externalId: "3672377",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3672377",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3672377/chapter-96-formation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
