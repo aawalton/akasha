@@ -9,6 +9,8 @@ export const aineChangesCleanup = {
   intents: [
     {
       statement: "A change reaches only changes acting on the target type that change acts on.",
+      workingMemory:
+        "A change's target type is what it is handed rather than what it writes. A wide change answers in one pass and never reaches a rung once for each item. Work it may no longer reach becomes a module call, and a rung nothing reaches then goes. The page-type sweeps take one rung for each act. Prose and page-property each take mechanical rungs of their own.",
     },
     {
       statement: "Every target type, subtype and mode that together make sense has a change.",
