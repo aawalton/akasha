@@ -102,7 +102,11 @@ export const NOTHING_SWEPT: Swept = { agent: 0, stale: 0 }
 
 export function cleared(root: string, agentId: string | null, source: string): Swept {
   if (!replacing(source)) return NOTHING_SWEPT
-  return sweptReadings(root, agentId, Date.now() - KEPT_FOR)
+  try {
+    return sweptReadings(root, agentId, Date.now() - KEPT_FOR)
+  } catch {
+    return NOTHING_SWEPT
+  }
 }
 
 export function took(swept: Swept): boolean {

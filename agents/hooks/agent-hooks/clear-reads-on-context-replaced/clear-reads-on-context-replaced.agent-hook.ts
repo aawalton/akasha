@@ -83,6 +83,11 @@ export const clearReadsOnContextReplaced = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "An index that will not answer which agents there are is a record that cannot be reached.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A record that was not there is no clearing.",
     },
     {

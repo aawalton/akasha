@@ -192,6 +192,11 @@ test("a record that is not there is no clearing", () => {
   expect(oidHeld(root, ONE)).toBeNull()
 })
 
+test("an index that will not answer which agents there are leaves every record as it is", () => {
+  const root = scratch.rootFor("akasha-clearing-")
+  expect(cleared(root, ONE, "startup")).toEqual(NOTHING_SWEPT)
+})
+
 test("an agent no page names is no clearing either", () => {
   const root = rooted()
   expect(took(cleared(root, NOBODY, "startup"))).toBe(false)
