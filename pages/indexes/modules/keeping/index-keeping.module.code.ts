@@ -2,7 +2,11 @@ import { existsSync, mkdirSync, renameSync, rmdirSync, rmSync, writeFileSync } f
 import { dirname, join } from "node:path"
 import type { Entry } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import type { Filing, Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
-import { indexAt } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
+import {
+  BUILT_AT,
+  BUILT_SAID,
+  indexAt,
+} from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { walkedUnder } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
 import { textThere } from "akasha/utils/fs/modules/text-there/text-there.module.code.ts"
 import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
@@ -118,19 +122,38 @@ export function reconcile(
   return { added: added.sort(), changed: changed.sort() }
 }
 
+const STILL_WHOLE =
+  "the index says it is whole, so nothing is taken away from it — the mark comes off as a rebuild opens and goes back on once that rebuild has taken away what it takes away"
+
+export function builtThere(root: string): boolean {
+  return existsSync(join(root, BUILT_AT))
+}
+
+export function keepBuilt(root: string): undefined {
+  mkdirSync(root, { recursive: true })
+  const near = join(root, `${BUILT_AT}.${process.pid}.part`)
+  writeFileSync(near, BUILT_SAID)
+  renameSync(near, join(root, BUILT_AT))
+}
+
+export function dropBuilt(root: string): undefined {
+  rmSync(join(root, BUILT_AT), { force: true })
+}
+
 export function takenAway(
   entries: readonly Entry[],
   root: string,
   put: boolean,
   done: string[] = []
 ): readonly string[] {
+  if (put && builtThere(root)) throw new Error(STILL_WHOLE)
   const wanted = new Set(entries.map((one) => one.at))
   const went: string[] = []
   const where = done.length
   let took = 0
   for (const one of existsSync(root) ? walkedUnder(root, () => true) : []) {
     const at = one.slice(root.length + 1)
-    if (wanted.has(at)) continue
+    if (at === BUILT_AT || wanted.has(at)) continue
     went.push(at)
     if (!put) continue
     done[where] = stageSaid(TAKING_AWAY, TAKEN_AWAY, took, at)

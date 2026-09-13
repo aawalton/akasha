@@ -15,6 +15,7 @@ import {
   VOCABULARY,
 } from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
 import {
+  type Indexing,
   indexingAt,
   refreshedFrom,
 } from "akasha/pages/indexes/modules/indexing/indexing.module.code.ts"
@@ -240,6 +241,48 @@ export function pathBlocked(root: string, at: string): undefined {
   const blocked = pathFile(root, at)
   rmSync(root, { recursive: true, force: true })
   mkdirSync(join(blocked, "inside"), { recursive: true })
+}
+
+function blockedInPlace(root: string, at: string): undefined {
+  const blocked = pathFile(root, at)
+  rmSync(blocked, { force: true })
+  mkdirSync(join(blocked, "inside"), { recursive: true })
+}
+
+export function aRefreshedWorld(): Pair {
+  const held = aWorldWithOnePage()
+  refreshedFrom(held.tree, held.root, held.tree)
+  return held
+}
+
+export function aRefreshBlocked(): Pair {
+  const held = aRefreshedWorld()
+  blockedInPlace(held.root, "a.domain.ts")
+  return held
+}
+
+export function aSettleWithNoUnique(): Indexing {
+  const tree = heldAt()
+  const [at, value] = aProperty("8", "note", "text-property")
+  const body = bodyOf(value)
+  const indexing = indexingAt(heldAt(), tree)
+  indexing.wrote(put(tree, at, body), body, null)
+  return indexing
+}
+
+export type FileHeld = {
+  readonly indexing: Indexing
+  readonly root: string
+  readonly ran: string
+}
+
+export function aFileHeldNotLoaded(): FileHeld {
+  const { tree, root } = grounded()
+  const ran = join(tree, "ran")
+  const body = writingTo(ran)
+  const indexing = indexingAt(root, tree)
+  indexing.wrote(put(tree, "x.module.code.ts", body), body, null)
+  return { indexing, root, ran }
 }
 
 export const pathsFiledIn = (root: string): readonly string[] =>

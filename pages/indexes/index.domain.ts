@@ -170,7 +170,12 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement: "A refresh takes away every path under the index that the pages do not imply.",
+      statement: "An index says whether it is whole, in a mark at the top of that index.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A refresh takes away every path under the index that the pages do not imply, but for that mark.",
     },
     {
       invariantKind: "departure",

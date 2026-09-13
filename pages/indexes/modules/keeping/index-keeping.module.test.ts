@@ -3,13 +3,20 @@ import { existsSync, readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
 import {
   bodiesFrom,
+  builtThere,
+  dropBuilt,
   filedUnder,
+  keepBuilt,
   keepDelta,
   reconcile,
   takenAway,
   wholeOf,
 } from "akasha/pages/indexes/modules/keeping/index-keeping.module.code.ts"
-import { indexAt } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
+import {
+  BUILT_AT,
+  BUILT_SAID,
+  indexAt,
+} from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
@@ -238,4 +245,34 @@ test("what one repair wrote is named beside what the repair before it wrote", ()
   takenAway([{ at: TWO, line: "{}" }], root, true, done)
 
   expect(done).toEqual(["held — 1 file written", "taking away — 1 file taken away"])
+})
+
+test("the mark saying an index is whole goes on and comes off again", () => {
+  const root = rootAt()
+
+  keepBuilt(root)
+
+  expect(builtThere(root)).toBe(true)
+  expect(bodyAt(root, BUILT_AT)).toBe(BUILT_SAID)
+
+  dropBuilt(root)
+
+  expect(builtThere(root)).toBe(false)
+})
+
+test("taking anything away from an index saying it is whole is refused", () => {
+  const root = rootAt()
+  writing(root, GONE, "{}\n")
+  keepBuilt(root)
+
+  expect(() => takenAway([], root, true)).toThrow("says it is whole")
+
+  expect(bodyAt(root, GONE)).toBe("{}\n")
+})
+
+test("the mark is no path a repair names as one the pages no longer imply", () => {
+  const root = rootAt()
+  keepBuilt(root)
+
+  expect(takenAway([{ at: AT, line: "{}" }], root, false)).toEqual([])
 })

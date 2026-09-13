@@ -13,6 +13,8 @@ import {
 } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import {
   type Drift,
+  dropBuilt,
+  keepBuilt,
   keepDelta,
   type Laid,
   reconcile,
@@ -106,7 +108,10 @@ export function refreshedFrom(
   put = true,
   done: string[] = []
 ): Refreshed {
-  if (put) mkdirSync(root, { recursive: true })
+  if (put) {
+    mkdirSync(root, { recursive: true })
+    dropBuilt(root)
+  }
   const held: { readonly path: string; readonly value: Value }[] = []
   for (const path of pagesUnder(tree)) {
     const value = valueAt(path, repo)
@@ -174,6 +179,8 @@ export function refreshedFrom(
     ...imported,
     ...ruled,
   ]
+  const went = takenAway(every, root, put, done)
+  if (put) keepBuilt(root)
   return {
     pages: held.length,
     entries:
@@ -186,7 +193,7 @@ export function refreshedFrom(
       shaped.length +
       carrying.length,
     refused: filed.flatMap((one) => one.refused),
-    drift: drifting(drift, takenAway(every, root, put, done)),
+    drift: drifting(drift, went),
   }
 }
 

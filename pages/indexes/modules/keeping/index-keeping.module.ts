@@ -119,6 +119,22 @@ export const indexKeeping = {
       statement: "A repair writing no file names nothing there.",
     },
     {
+      invariantKind: "departure",
+      statement: "A mark at the top of an index says that index is whole.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That mark goes on once everything the pages no longer imply has been taken away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That mark is the one path under an index no entry names and a repair keeps.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Taking anything away from an index still carrying that mark is refused.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here decides whether a refresh should run.",
     },

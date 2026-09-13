@@ -76,5 +76,14 @@ export const indexing = {
       invariantKind: "departure",
       statement: "A caller wanting none of that naming hands in no list.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A refresh takes the mark saying the index is whole off as it opens and puts it back as it closes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refresh that stopped part way leaves no mark.",
+    },
   ],
 } as const satisfies Module

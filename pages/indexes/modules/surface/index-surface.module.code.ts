@@ -13,6 +13,10 @@ const SLASH = "/"
 
 export const INDEX_AT = ".indexes"
 
+export const BUILT_AT = ".built"
+
+export const BUILT_SAID = "the index this sits in is whole\n"
+
 const READ_FROM = new WeakMap<Reading, string>()
 
 export function readFrom(reading: Reading): string {

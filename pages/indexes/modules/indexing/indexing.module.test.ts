@@ -17,6 +17,10 @@ import {
 import {
   A,
   A_WITH_CODE,
+  aFileHeldNotLoaded,
+  aRefreshBlocked,
+  aRefreshedWorld,
+  aSettleWithNoUnique,
   aSource,
   aTarget,
   aWorldDeclaringNothing,
@@ -32,7 +36,6 @@ import {
   D,
   edgeFile,
   grounded,
-  heldAt,
   IMPORTS,
   IMPORTS_AT,
   idFile,
@@ -57,10 +60,10 @@ import {
   tookAway,
   untouchedAfter,
   worldsApart,
-  writingTo,
   wrotePages,
   wroteText,
 } from "akasha/pages/indexes/modules/indexing/indexing.module.test-fixtures.ts"
+import { builtThere } from "akasha/pages/indexes/modules/keeping/index-keeping.module.code.ts"
 import { readerNow } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import { everyFileUnder } from "akasha/testing-system/modules/walking/walking.module.code.ts"
 
@@ -287,14 +290,7 @@ test("pages carrying no property that declares a unique are refused rather than 
 })
 
 test("a settle over pages declaring no unique is refused rather than filed empty", () => {
-  const tree = heldAt()
-  const root = heldAt()
-  const indexing = indexingAt(root, tree)
-  const [at, value] = aProperty("8", "note", "text-property")
-  const body = bodyOf(value)
-  indexing.wrote(put(tree, at, body), body, null)
-
-  expect(() => indexing.settle()).toThrow("no property carrying a `unique`")
+  expect(() => aSettleWithNoUnique().settle()).toThrow("no property carrying a `unique`")
 })
 
 test("a world carrying a page and declaring no property at all is refused", () => {
@@ -355,11 +351,7 @@ test("a file taken away leaves none of the edges it left", () => {
 })
 
 test("a file a page property holds is not loaded, so it is neither run nor read as a page", () => {
-  const { tree, root } = grounded()
-  const ran = join(tree, "ran")
-  const body = writingTo(ran)
-  const indexing = indexingAt(root, tree)
-  indexing.wrote(put(tree, "x.module.code.ts", body), body, null)
+  const { indexing, root, ran } = aFileHeldNotLoaded()
 
   expect(indexing.settle()).toEqual([])
   expect(existsSync(ran)).toBe(false)
@@ -389,4 +381,16 @@ test("a path the index stores is relative to the repository root", () => {
 test("a unique kind respelled to the scope it already named files nothing for a page left alone", () => {
   expect(untouchedAfter("page")).toBe(false)
   expect(untouchedAfter("page-type")).toBe(true)
+})
+
+test("a refresh that ran through leaves the index saying it is whole", () => {
+  expect(builtThere(aRefreshedWorld().root)).toBe(true)
+})
+
+test("a refresh that stopped part way leaves the index saying nothing", () => {
+  const { tree, root } = aRefreshBlocked()
+
+  expect(() => refreshedFrom(tree, root, tree)).toThrow()
+
+  expect(builtThere(root)).toBe(false)
 })

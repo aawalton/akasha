@@ -3,6 +3,7 @@ import { dirname, join } from "node:path"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import { refreshedWhole } from "akasha/pages/indexes/modules/indexing/indexing.module.code.ts"
+import { BUILT_AT } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { readerAt } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
@@ -42,7 +43,7 @@ export function put(tree: string, at: string, body: string): string {
 }
 
 export function butTheStamp(found: readonly string[]): readonly string[] {
-  const stamped = ["/stamp.jsonl ", `/${readerAt()} `]
+  const stamped = ["/stamp.jsonl ", `/${BUILT_AT} `, `/${readerAt()} `]
   return found.filter((one) => !stamped.some((at) => one.startsWith(at)))
 }
 
