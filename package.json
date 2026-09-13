@@ -26,7 +26,8 @@
         { "id": "opsDomains", "title": "Domains", "icon": "$(type-hierarchy)" },
         { "id": "opsWork", "title": "Work", "icon": "$(checklist)" },
         { "id": "opsPages", "title": "Page Types", "icon": "$(symbol-structure)" },
-        { "id": "opsCommands", "title": "Commands", "icon": "$(terminal)" }
+        { "id": "opsCommands", "title": "Commands", "icon": "$(terminal)" },
+        { "id": "opsServices", "title": "Services", "icon": "$(server)" }
       ]
     },
     "views": {
@@ -34,7 +35,8 @@
       "opsDomains": [{ "id": "opsDomainTree", "name": "Domains" }],
       "opsWork": [{ "id": "opsWorkTree", "name": "Work" }],
       "opsPages": [{ "id": "opsPageTree", "name": "Page Types" }],
-      "opsCommands": [{ "id": "opsCommandTree", "name": "Commands" }]
+      "opsCommands": [{ "id": "opsCommandTree", "name": "Commands" }],
+      "opsServices": [{ "id": "opsServiceTree", "name": "Services" }]
     },
     "commands": [
       { "command": "agentTerminalName.syncNow", "title": "Ops Terminal Rename: Sync Now" },
@@ -45,6 +47,7 @@
       { "command": "opsWorkTree.refreshNow", "title": "Ops Work: Refresh Now", "icon": "$(refresh)" },
       { "command": "opsPageTree.refreshNow", "title": "Ops Page Types: Refresh Now", "icon": "$(refresh)" },
       { "command": "opsCommandTree.refreshNow", "title": "Ops Commands: Refresh Now", "icon": "$(refresh)" },
+      { "command": "opsServiceTree.refreshNow", "title": "Ops Services: Refresh Now", "icon": "$(refresh)" },
       { "command": "opsAgentTree.runStop", "category": "Ops Agents", "title": "Stop" },
       { "command": "opsAgentTree.runResume", "category": "Ops Agents", "title": "Resume" },
       { "command": "opsAgentTree.runReset", "category": "Ops Agents", "title": "Reset" },
@@ -67,7 +70,8 @@
         { "command": "opsDomainTree.refreshNow", "when": "view == opsDomainTree", "group": "navigation" },
         { "command": "opsWorkTree.refreshNow", "when": "view == opsWorkTree", "group": "navigation" },
         { "command": "opsPageTree.refreshNow", "when": "view == opsPageTree", "group": "navigation" },
-        { "command": "opsCommandTree.refreshNow", "when": "view == opsCommandTree", "group": "navigation" }
+        { "command": "opsCommandTree.refreshNow", "when": "view == opsCommandTree", "group": "navigation" },
+        { "command": "opsServiceTree.refreshNow", "when": "view == opsServiceTree", "group": "navigation" }
       ],
       "view/item/context": [
         {

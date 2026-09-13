@@ -17,6 +17,7 @@ import {
 } from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
 import * as pageTree from "akasha/code/editor/extension/modules/page-tree-panel/page-tree-panel.module.code.ts"
 import * as seatEnter from "akasha/code/editor/extension/modules/seat-terminal-enter/seat-terminal-enter.module.code.ts"
+import * as serviceTree from "akasha/code/editor/extension/modules/service-tree-panel/service-tree-panel.module.code.ts"
 import * as statusBar from "akasha/code/editor/extension/modules/status-bar-panel/status-bar-panel.module.code.ts"
 import * as terminalRename from "akasha/code/editor/extension/modules/terminal-renaming/terminal-renaming.module.code.ts"
 import * as transcript from "akasha/code/editor/extension/modules/transcript-panel/transcript-panel.module.code.ts"
@@ -37,6 +38,7 @@ const features = (
   { name: "work-tree", start: async () => workTree.activate(context) },
   { name: "page-tree", start: async () => pageTree.activate(context) },
   { name: "command-tree", start: async () => commandTree.activate(context) },
+  { name: "service-tree", start: async () => serviceTree.activate(context) },
   { name: "status-bar", start: async () => statusBar.activate(context) },
   { name: "editor-layout", start: async () => editorLayout.activate(context) },
   { name: "seat-terminal-enter", start: async () => seatEnter.activate(vscode, context, say) },
