@@ -1,5 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
-import { keepBuilt } from "akasha/pages/indexes/modules/keeping/index-keeping.module.code.ts"
+import { join } from "node:path"
+import {
+  keepBuilt,
+  keepWhole,
+} from "akasha/pages/indexes/modules/keeping/index-keeping.module.code.ts"
 import {
   beneath,
   INDEX_AT,
@@ -106,6 +110,44 @@ test("an entry file is read at the first ask and one copy of it is held", () => 
 
   expect(reading.lines("identity/page/id/one.jsonl")).toEqual(['{"id":"one"}'])
   expect(readingAt(at).lines("identity/page/id/one.jsonl")).toEqual(['{"id":"held"}'])
+})
+
+test("a fresh reading reads an entry file again once the writer renames one into place", () => {
+  const at = seeded()
+  expect(readingAt(at).lines("identity/page/id/one.jsonl")).toEqual(['{"id":"one"}'])
+  keepWhole(join(at, "identity/page/id/one.jsonl"), ['{"id":"renamed"}'], at)
+
+  expect(readingAt(at).lines("identity/page/id/one.jsonl")).toEqual(['{"id":"renamed"}'])
+})
+
+test("a fresh reading reads an entry file again where the body changed and its width did not", () => {
+  const at = seeded()
+  expect(readingAt(at).lines("identity/page/id/one.jsonl")).toEqual(['{"id":"one"}'])
+  put(at, "identity/page/id/one.jsonl", '{"id":"two"}\n')
+
+  expect(readingAt(at).lines("identity/page/id/one.jsonl")).toEqual(['{"id":"two"}'])
+})
+
+test("a fresh reading answers no lines for an entry file the writer took away", () => {
+  const at = seeded()
+  expect(readingAt(at).lines("identity/page/id/one.jsonl")).toEqual(['{"id":"one"}'])
+  keepWhole(join(at, "identity/page/id/one.jsonl"), [], at)
+
+  expect(readingAt(at).lines("identity/page/id/one.jsonl")).toEqual([])
+})
+
+test("a poll over fresh readings sees the entry file a writer lands while that poll runs", () => {
+  const at = seeded()
+  const held = join(at, "identity/page/id/landing.jsonl")
+  expect(readingAt(at).lines("identity/page/id/landing.jsonl")).toEqual([])
+  let saw: readonly string[] = []
+  for (let tries = 0; tries < 5; tries += 1) {
+    if (tries === 2) keepWhole(held, ['{"id":"landed"}'], at)
+    saw = readingAt(at).lines("identity/page/id/landing.jsonl")
+    if (saw.length > 0) break
+  }
+
+  expect(saw).toEqual(['{"id":"landed"}'])
 })
 
 test("a file the change touches answers its own lines, and every other file answers the index", () => {

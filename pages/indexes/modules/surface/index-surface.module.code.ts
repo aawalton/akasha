@@ -1,4 +1,4 @@
-import { existsSync, readdirSync } from "node:fs"
+import { existsSync, readdirSync, statSync } from "node:fs"
 import { join } from "node:path"
 import type {
   Child,
@@ -35,9 +35,67 @@ export function indexAt(indexName: string, ...parts: readonly string[]): string 
   return join(INDEX_AT, indexName, ...parts)
 }
 
+const HELD_AT_MOST = 64_000_000
+
+type Kept = {
+  readonly mark: string
+  readonly lines: readonly string[]
+}
+
+const HELD = new Map<string, Kept>()
+
+const HOLDING = { width: 0 }
+
+function widthOf(lines: readonly string[]): number {
+  let found = 0
+  for (const one of lines) found += one.length + 1
+  return found
+}
+
+function markOf(at: string): string | null {
+  try {
+    const said = statSync(at, { bigint: true })
+    return `${said.ino}:${said.size}:${said.mtimeNs}`
+  } catch {
+    return null
+  }
+}
+
+function forgotten(at: string): undefined {
+  const found = HELD.get(at)
+  if (found === undefined) return
+  HOLDING.width -= widthOf(found.lines)
+  HELD.delete(at)
+}
+
+function keeping(at: string, mark: string, lines: readonly string[]): undefined {
+  forgotten(at)
+  const width = widthOf(lines)
+  if (width > HELD_AT_MOST) return
+  HELD.set(at, { mark, lines })
+  HOLDING.width += width
+  for (const one of [...HELD.keys()]) {
+    if (HOLDING.width <= HELD_AT_MOST) return
+    if (one !== at) forgotten(one)
+  }
+}
+
 function linesOf(at: string): readonly string[] {
+  const mark = markOf(at)
+  if (mark === null) {
+    forgotten(at)
+    return []
+  }
+  const found = HELD.get(at)
+  if (found !== undefined && found.mark === mark) {
+    HELD.delete(at)
+    HELD.set(at, found)
+    return found.lines
+  }
   const body = textThere(at)
-  return body === null ? [] : body.split("\n").filter((one) => one !== "")
+  const lines = body === null ? [] : body.split("\n").filter((one) => one !== "")
+  keeping(at, mark, lines)
+  return lines
 }
 
 function readingOver(index: string, repo: string | null, holds: (at: string) => boolean): Reading {

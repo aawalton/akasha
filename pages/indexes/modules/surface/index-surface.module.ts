@@ -60,6 +60,32 @@ export const indexSurface = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "An entry file unmoved since it was last read is answered from the copy held rather than read again.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An entry file is unmoved where its inode, its width and when it was written are as they were.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A writer lands an entry file by renaming one into place, so its inode moves.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading made later answers the entry file on disk rather than the copy held.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No copy held answers for a body written after that copy was read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The copies held are bounded, and the ones asked for longest ago go first.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A reader takes that surface rather than reaching for the disk.",
     },
     {
