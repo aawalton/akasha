@@ -48,19 +48,19 @@ export const temperItemsRulesEval = {
     },
     {
       invariantKind: "departure",
-      statement: "The environment with every lookup is handed in rather than reached for.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "No code here reaches the game client.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A missing item fact is not a signal the environment could not answer.",
     },
     {
       invariantKind: "departure",
       statement: "A missing market value passes a zero threshold rather than going indeterminate.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The environment with every lookup is handed in rather than reached for.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No code here reaches the game client.",
     },
   ],
 } as const satisfies Domain
