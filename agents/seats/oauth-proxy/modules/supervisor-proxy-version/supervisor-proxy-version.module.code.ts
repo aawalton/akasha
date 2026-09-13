@@ -3,13 +3,13 @@ import {
   type OAuthProxyState,
   readProxyState,
 } from "akasha/agents/seats/modules/proxy-state/seat-proxy-state.module.code.ts"
-import { LOG } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
-import { setOAuthProxyHandle } from "akasha/agents/seats/supervisors/modules/supervisor-state/supervisor-state.module.code.ts"
 import {
   respawnOAuthProxy,
   type SpawnOAuthProxyArgs,
   type SupervisorOAuthProxyHandle,
-} from "akasha/seat-system/oauth-proxy/modules/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
+} from "akasha/agents/seats/oauth-proxy/modules/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
+import { LOG } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
+import { setOAuthProxyHandle } from "akasha/agents/seats/supervisors/modules/supervisor-state/supervisor-state.module.code.ts"
 import { pidAliveOrRefuse } from "akasha/utils/process/modules/pid-signal/pid-signal.module.code.ts"
 
 export interface RespawnProxyDeps {

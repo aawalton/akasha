@@ -8,6 +8,11 @@ import {
   DOORS as EFFECT_DOORS,
   markedOn,
 } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
+import type { ProxyAdoptionRuleSource } from "akasha/agents/seats/oauth-proxy/modules/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
+import {
+  type SupervisorOAuthProxyHandle,
+  spawnOrAdoptOAuthProxy,
+} from "akasha/agents/seats/oauth-proxy/modules/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
 import {
   configDirForAccount,
   LOG,
@@ -21,11 +26,6 @@ import {
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
-import type { ProxyAdoptionRuleSource } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
-import {
-  type SupervisorOAuthProxyHandle,
-  spawnOrAdoptOAuthProxy,
-} from "akasha/seat-system/oauth-proxy/modules/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
 import {
   isAccountTerminal,
   markAccountTerminal,

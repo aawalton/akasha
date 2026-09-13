@@ -1,3 +1,5 @@
+import { askProxyAdoption } from "akasha/agents/seats/oauth-proxy/modules/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
+import { askProxyLiveness } from "akasha/agents/seats/oauth-proxy/modules/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"
 import { askReExecJitterMs } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-jitter-rule/supervisor-self-heal-jitter-rule.module.code.ts"
 import { setSelfHealIdleProbe } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import type { SeatResume } from "akasha/agents/seats/supervisors/modules/supervisor-args/supervisor-args.module.code.ts"
@@ -27,8 +29,6 @@ import type { CarriedAgentName } from "akasha/agents/seats/supervisors/modules/s
 import { isShuttingDown } from "akasha/agents/seats/supervisors/modules/supervisor-state/supervisor-state.module.code.ts"
 import { recordTermiosState } from "akasha/agents/seats/supervisors/modules/supervisor-terminal/supervisor-terminal.module.code.ts"
 import type { AgentProcess } from "akasha/agents/seats/supervisors/modules/supervisor-types/supervisor-types.module.code.ts"
-import { askProxyAdoption } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
-import { askProxyLiveness } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"
 
 export async function runInteractive(
   prompt: string,

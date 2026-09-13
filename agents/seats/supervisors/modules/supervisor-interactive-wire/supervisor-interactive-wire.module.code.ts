@@ -1,3 +1,4 @@
+import { triggerProxySwap } from "akasha/agents/seats/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { buildAgentActionSubsystem } from "akasha/agents/seats/supervisors/modules/supervisor-agent-action/supervisor-agent-action.module.code.ts"
 import {
   clearRequestedAction,
@@ -25,7 +26,6 @@ import type {
   AgentProcess,
   InheritedProc,
 } from "akasha/agents/seats/supervisors/modules/supervisor-types/supervisor-types.module.code.ts"
-import { triggerProxySwap } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 
 export interface IterationWiring {
   actionSubsystem: ReturnType<typeof buildAgentActionSubsystem>

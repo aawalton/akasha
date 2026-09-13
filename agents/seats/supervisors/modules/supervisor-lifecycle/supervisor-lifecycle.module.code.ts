@@ -1,3 +1,4 @@
+import { teardownProxyVersionSubscription } from "akasha/agents/seats/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { attemptInPlaceReExec } from "akasha/agents/seats/self-healing/modules/supervisor-reexec/supervisor-reexec.module.code.ts"
 import { resolveReExecArgv } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal/supervisor-self-heal.module.code.ts"
 import {
@@ -21,7 +22,6 @@ import {
   processes,
   setShuttingDown,
 } from "akasha/agents/seats/supervisors/modules/supervisor-state/supervisor-state.module.code.ts"
-import { teardownProxyVersionSubscription } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const SHUTDOWN_FORCE_EXIT_MS = 10_000
