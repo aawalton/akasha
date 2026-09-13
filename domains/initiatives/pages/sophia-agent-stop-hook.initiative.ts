@@ -44,6 +44,11 @@ export const sophiaAgentStopHook = {
       workingMemory:
         "Act By Default says to ask where a directive calls for Alan's approval, and a judge is given that one rule alone. So `May I raise the ceiling?` and `Say the word and I'll land it` read alike to it. The first prompt tried catches 17 of 36 and misfires 18 times over 227, and every misfire is an approval some other page reserves. The test's own page says one rule is put at a time, and this is the rule that breaks on it.",
     },
+    {
+      statement: "A model test answering yes keeps what it was asked beside what it answered.",
+      workingMemory:
+        "Nothing keeps them now. The hook writes one line a run through `recorded`, the module a check logs its cost through, and that line holds only the time, the seat, the gate and the count. `holding` has the prompt and the model's words at the moment it refuses, and drops both, so every firing in the wild is lost and every case here was mined out of transcripts by hand. The shape to copy is a file property its page type marks uncommitted, defaulting to jsonl.",
+    },
   ],
   constraints: ["A refusal reminds an agent of a directive Alan's own page states."],
 } as const satisfies Initiative
