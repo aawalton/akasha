@@ -5,7 +5,7 @@ export const backstreetBoys2ThisIsUs = {
   type: "release",
   slug: "backstreet-boys-2-this-is-us",
   title: "This Is Us",
-  partOfCollections: ["backstreet-boys-2"],
+  partOfCollections: ["backstreet-boys"],
   position: 0,
   ownLength: 40.2855,
   ownProgress: 40.2855,

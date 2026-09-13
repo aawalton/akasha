@@ -5,7 +5,7 @@ export const backstreetBoys2Millennium20 = {
   type: "release",
   slug: "backstreet-boys-2-millennium-2-0",
   title: "Millennium 2.0",
-  partOfCollections: ["backstreet-boys-2"],
+  partOfCollections: ["backstreet-boys"],
   position: 0,
   ownLength: 100.312317,
   ownProgress: 100.312317,

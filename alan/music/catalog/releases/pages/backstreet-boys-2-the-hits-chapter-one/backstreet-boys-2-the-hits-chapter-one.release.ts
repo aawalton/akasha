@@ -5,7 +5,7 @@ export const backstreetBoys2TheHitsChapterOne = {
   type: "release",
   slug: "backstreet-boys-2-the-hits-chapter-one",
   title: "The Hits--Chapter One",
-  partOfCollections: ["backstreet-boys-2"],
+  partOfCollections: ["backstreet-boys"],
   position: 0,
   ownLength: 52.145667,
   ownProgress: 52.145667,

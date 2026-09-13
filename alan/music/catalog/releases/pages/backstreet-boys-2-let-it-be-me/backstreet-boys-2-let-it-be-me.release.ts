@@ -5,7 +5,7 @@ export const backstreetBoys2LetItBeMe = {
   type: "release",
   slug: "backstreet-boys-2-let-it-be-me",
   title: "Let It Be Me",
-  partOfCollections: ["backstreet-boys-2"],
+  partOfCollections: ["backstreet-boys"],
   position: 0,
   ownLength: 3.734333,
   ownProgress: 3.734333,

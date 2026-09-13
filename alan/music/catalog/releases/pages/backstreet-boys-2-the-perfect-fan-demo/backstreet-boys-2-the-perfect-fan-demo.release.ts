@@ -5,7 +5,7 @@ export const backstreetBoys2ThePerfectFanDemo = {
   type: "release",
   slug: "backstreet-boys-2-the-perfect-fan-demo",
   title: "The Perfect Fan (Demo)",
-  partOfCollections: ["backstreet-boys-2"],
+  partOfCollections: ["backstreet-boys"],
   position: 0,
   ownLength: 4.610667,
   ownProgress: 4.610667,

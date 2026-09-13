@@ -5,7 +5,7 @@ export const backstreetBoys2DonTGoBreakingMyHeartTheRemixes = {
   type: "release",
   slug: "backstreet-boys-2-don-t-go-breaking-my-heart-the-remixes",
   title: "Don't Go Breaking My Heart (The Remixes)",
-  partOfCollections: ["backstreet-boys-2"],
+  partOfCollections: ["backstreet-boys"],
   position: 0,
   ownLength: 13.727783,
   ownProgress: 13.727783,

@@ -5,7 +5,7 @@ export const backstreetBoys2LetItBeMeDenisFirstRemix = {
   type: "release",
   slug: "backstreet-boys-2-let-it-be-me-denis-first-remix",
   title: "Let It Be Me (Denis First Remix)",
-  partOfCollections: ["backstreet-boys-2"],
+  partOfCollections: ["backstreet-boys"],
   position: 0,
   ownLength: 3.3739,
   ownProgress: 3.3739,

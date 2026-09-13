@@ -5,7 +5,7 @@ export const backstreetBoys2BlackBlue = {
   type: "release",
   slug: "backstreet-boys-2-black-blue",
   title: "Black & Blue",
-  partOfCollections: ["backstreet-boys-2"],
+  partOfCollections: ["backstreet-boys"],
   position: 0,
   ownLength: 47.932167,
   ownProgress: 47.932167,

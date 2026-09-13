@@ -5,7 +5,7 @@ export const backstreetBoys2Nkotbsb = {
   type: "release",
   slug: "backstreet-boys-2-nkotbsb",
   title: "NKOTBSB",
-  partOfCollections: ["backstreet-boys-2"],
+  partOfCollections: ["backstreet-boys"],
   position: 0,
   ownLength: 54.79615,
   ownProgress: 54.79615,

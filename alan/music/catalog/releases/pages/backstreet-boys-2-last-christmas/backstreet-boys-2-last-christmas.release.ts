@@ -5,7 +5,7 @@ export const backstreetBoys2LastChristmas = {
   type: "release",
   slug: "backstreet-boys-2-last-christmas",
   title: "Last Christmas",
-  partOfCollections: ["backstreet-boys-2"],
+  partOfCollections: ["backstreet-boys"],
   position: 0,
   ownLength: 3.7764,
   ownProgress: 3.7764,

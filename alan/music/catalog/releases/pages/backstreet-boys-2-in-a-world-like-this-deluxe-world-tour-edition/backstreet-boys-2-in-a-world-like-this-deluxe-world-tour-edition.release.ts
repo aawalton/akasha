@@ -5,7 +5,7 @@ export const backstreetBoys2InAWorldLikeThisDeluxeWorldTourEdition = {
   type: "release",
   slug: "backstreet-boys-2-in-a-world-like-this-deluxe-world-tour-edition",
   title: "In a World Like This (Deluxe World Tour Edition)",
-  partOfCollections: ["backstreet-boys-2"],
+  partOfCollections: ["backstreet-boys"],
   position: 0,
   ownLength: 69.467567,
   ownProgress: 69.467567,

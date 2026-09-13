@@ -1,9 +1,9 @@
 import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.types.ts"
 
-export const backstreetBoys2 = {
+export const backstreetBoys = {
   id: "01a06803-676b-7000-98d1-69e3e109f37a",
   type: "artist",
-  slug: "backstreet-boys-2",
+  slug: "backstreet-boys",
   title: "Backstreet Boys",
   partOfCollections: ["artists"],
   position: 0,

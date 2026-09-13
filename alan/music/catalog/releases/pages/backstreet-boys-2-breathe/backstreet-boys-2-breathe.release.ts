@@ -5,7 +5,7 @@ export const backstreetBoys2Breathe = {
   type: "release",
   slug: "backstreet-boys-2-breathe",
   title: "Breathe",
-  partOfCollections: ["backstreet-boys-2"],
+  partOfCollections: ["backstreet-boys"],
   position: 0,
   ownLength: 3.108217,
   ownProgress: 3.108217,
