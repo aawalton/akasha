@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
-
-export const renderEquipmentMappings = {
-  id: "01a06340-4914-70b0-b3cb-73786590fdb1",
-  type: "module",
-  slug: "render-equipment-mappings",
-  definition: "the player equipment index and id tables the capture addon reads",
-  code: "ts",
-} as const satisfies Module
