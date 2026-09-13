@@ -19,13 +19,8 @@ export const copyPropertyOnEveryPage = {
         "The pages written are the pages of that page type and of every page type beneath that type.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "Which pages have the key is read from the values the index files for each page type.",
-    },
-    {
       invariantKind: "absence",
-      statement: "No page body is read to find out which pages have the key.",
+      statement: "Nothing here reads a page's own body.",
     },
     {
       invariantKind: "departure",
@@ -51,8 +46,7 @@ export const copyPropertyOnEveryPage = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The value is handed on as the body spells that value rather than as text to quote.",
+      statement: "The value is written as the body spells that value rather than as text to quote.",
     },
     {
       invariantKind: "departure",
@@ -80,24 +74,27 @@ export const copyPropertyOnEveryPage = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the page that drew the refusal.",
+      statement: "A refusal over a page names that page.",
     },
     {
       invariantKind: "departure",
-      statement: "Each page is reached over the edits the pages before that page left.",
+      statement: "The edits are worked out by the change reached.",
     },
     {
       invariantKind: "departure",
-      statement: "Putting the key in is left to the mechanical change that puts a key in.",
+      statement: "That change acts on a page type, as this one does.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Each change composed here is reached through the runner rather than by an import.",
+      statement: "That change is reached through the runner rather than by an import.",
     },
     {
       invariantKind: "absence",
       statement: "Nothing here works out a body of its own.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads the index.",
     },
   ],
   changeKind: "change-mechanical",

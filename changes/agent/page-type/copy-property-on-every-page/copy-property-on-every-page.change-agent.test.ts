@@ -5,7 +5,10 @@ import {
 } from "akasha/changes/agent/page-type/copy-property-on-every-page/copy-property-on-every-page.change-agent.code.ts"
 import { bodiesIn, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { worldOfType } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
-import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
+import {
+  listing,
+  running,
+} from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 
 const ONE_AT = "thrumming/chapters/pages/one.story-chapter-read.ts"
@@ -204,4 +207,13 @@ test("an argument this change was handed no value for is refused by the key", as
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toMatch(/`page-type` names what this change is handed/)
+})
+
+test("the one change reached is the mechanical change acting on a page type", async () => {
+  const seen: string[] = []
+  const world = worldOfType(COPYING.pageType, BODIES, DECLARED, VALUES, listing(seen))
+
+  await copyPropertyOnEveryPage(world, COPYING)
+
+  expect(seen).toEqual(["change-mechanical-page-type/copy-property-on-every-page"])
 })
