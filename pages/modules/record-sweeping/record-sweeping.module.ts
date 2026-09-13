@@ -64,5 +64,9 @@ export const recordSweeping = {
       invariantKind: "departure",
       statement: "Nothing is taken away unless the sweep is asked to.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A stream whose turn does not come is left as that stream is and counted.",
+    },
   ],
 } as const satisfies Module

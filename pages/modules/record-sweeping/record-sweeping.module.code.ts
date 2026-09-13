@@ -176,15 +176,22 @@ export function sweepRecords(argv: readonly string[]): number {
   const now = Date.now()
   let dropped = 0
   let swept = 0
+  let busy = 0
   for (const one of streams) {
-    const took = sweptStream(root, one, now)
+    let took = 0
+    try {
+      took = sweptStream(root, one, now)
+    } catch {
+      busy += 1
+      continue
+    }
     if (took === 0) continue
     dropped += took
     swept += 1
   }
   process.stderr.write(
     `dropped ${String(dropped)} line(s) past the window from ${String(swept)} of ` +
-      `${String(streams.length)} stream(s)\n`
+      `${String(streams.length)} stream(s); ${String(busy)} whose turn did not come\n`
   )
   return 0
 }
