@@ -89,6 +89,11 @@ export const addPropertyRecord = {
       invariantKind: "departure",
       statement: "A record spelling a key with quotes that key does not need is refused.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "An `after` stated where the page states the key already is refused rather than dropped.",
+    },
   ],
   changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent
