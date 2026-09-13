@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
-
-export const temperEsoCompanion = {
-  id: "01a0607b-e918-7716-b148-74f2d8795d54",
-  type: "module",
-  slug: "temper-eso-companion",
-  definition: "the companions data file, rendered from pages",
-  code: "ts",
-} as const satisfies Module

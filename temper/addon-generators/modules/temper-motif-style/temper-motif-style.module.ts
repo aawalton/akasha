@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
-
-export const temperMotifStyle = {
-  id: "01a0607b-e91c-7c00-87a3-fe91119fc0ed",
-  type: "module",
-  slug: "temper-motif-style",
-  definition: "the motif styles data file, rendered from pages",
-  code: "ts",
-} as const satisfies Module
