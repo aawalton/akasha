@@ -1,12 +1,12 @@
-import { FLEET } from "akasha/agents/seats/modules/compose-seat-name/compose-seat-name.module.code.ts"
-import { pageFromHistory } from "akasha/agents/seats/modules/page-history/seat-page-history.module.code.ts"
-import { statedProcessPresence } from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
-import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   akashaHolderProcessOf,
   akashaRunningModeOf,
   akashaSeatIdForName,
-} from "akasha/seat-system/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+} from "akasha/agents/seats/modules/akasha-beside/seat-akasha-beside.module.code.ts"
+import { FLEET } from "akasha/agents/seats/modules/compose-seat-name/compose-seat-name.module.code.ts"
+import { pageFromHistory } from "akasha/agents/seats/modules/page-history/seat-page-history.module.code.ts"
+import { statedProcessPresence } from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
+import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   akashaSeatsStated,
   akashaSeatValuesOf,

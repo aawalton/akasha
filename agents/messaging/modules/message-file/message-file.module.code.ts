@@ -1,5 +1,6 @@
 import { existsSync } from "node:fs"
 import { messageNamed } from "akasha/agents/messaging/modules/message-naming/message-naming.module.code.ts"
+import { akashaSeatIdForName } from "akasha/agents/seats/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import {
   landBodies,
   landRemovals,
@@ -21,7 +22,6 @@ import {
   composedFor,
   pagesAtFor,
 } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
-import { akashaSeatIdForName } from "akasha/seat-system/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
 const PAGE_TYPE = "message"
 

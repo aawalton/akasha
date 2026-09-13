@@ -2,6 +2,10 @@ import { resolve } from "node:path"
 import type { ProcLivenessEntry } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.code.ts"
 import { scanProcEntries } from "akasha/agents/modules/proc-scan/proc-scan.module.code.ts"
 import { dropReadings } from "akasha/agents/modules/read-record/read-record.module.code.ts"
+import {
+  akashaHolderProcessOf,
+  akashaSeatsThatExist,
+} from "akasha/agents/seats/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { parseSeatProcKey } from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
 import { transcriptOf } from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"
 import {
@@ -51,10 +55,6 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { agentSubagentSweep as page } from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.ts"
-import {
-  akashaHolderProcessOf,
-  akashaSeatsThatExist,
-} from "akasha/seat-system/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
 export const TAKE = "change-mechanical/remove-file-of-any-kind"
 

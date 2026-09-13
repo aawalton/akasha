@@ -1,4 +1,10 @@
 import { existsSync } from "node:fs"
+import {
+  type Beside,
+  CARRIED,
+  type Kind,
+  RECORDS,
+} from "akasha/agents/seats/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { akashaSeatRelPath } from "akasha/agents/seats/modules/page-akasha/seat-page-akasha.module.code.ts"
 import {
   AKASHA,
@@ -15,12 +21,6 @@ import {
   mergeUncommitted,
   removeUncommitted as removeAkasha,
 } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
-import {
-  type Beside,
-  CARRIED,
-  type Kind,
-  RECORDS,
-} from "akasha/seat-system/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
 export function bare(held: unknown): unknown {
   if (held === null || typeof held !== "object" || Array.isArray(held)) return held

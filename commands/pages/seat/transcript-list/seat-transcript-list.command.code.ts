@@ -1,3 +1,4 @@
+import { akashaSeatsThatExist } from "akasha/agents/seats/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import {
   DATA,
@@ -7,7 +8,6 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { seatTranscriptList as page } from "akasha/commands/pages/seat/transcript-list/seat-transcript-list.command.ts"
-import { akashaSeatsThatExist } from "akasha/seat-system/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { akashaSeatRecordOf } from "akasha/seat-system/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
 
 const TRANSCRIPT_KEY = "transcript-path"
