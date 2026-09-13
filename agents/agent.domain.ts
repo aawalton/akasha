@@ -23,6 +23,7 @@ export const agent = {
     "module/proc-scan",
     "module/read-record",
     "module/refusals-keeping",
+    "module/stray-process",
     "module/tool-access",
     "page-type/agent",
     "page-type/agent-settings",

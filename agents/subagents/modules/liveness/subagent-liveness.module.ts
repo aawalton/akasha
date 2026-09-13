@@ -67,6 +67,10 @@ export const subagentLiveness = {
       statement: "A reading that ends in an error carries what was thrown into that reason.",
     },
     {
+      invariantKind: "departure",
+      statement: "A reading is asked for by the ids a process carries as well as by a page.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes that reason anywhere.",
     },

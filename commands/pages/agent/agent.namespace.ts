@@ -6,6 +6,7 @@ export const agent = {
   slug: "agent",
   definition: "the agents at work and the pages each one has",
   parts: [
+    "command/agent-strays",
     "command/agent-subagent-stop",
     "command/agent-subagent-sweep",
     "command/agent-turn-color-list",

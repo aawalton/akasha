@@ -34,25 +34,36 @@ export function namedAmong(nodes: readonly SubagentNode[], own: string): boolean
   return nodes.some((one) => one.agentId === own || namedAmong(one.children, own))
 }
 
-function actingAs(root: string, page: string): Acting | null {
-  const value = valueAt(page, root)
-  const agentId = value === null ? null : textAt(value, AGENT_ID)
-  if (agentId === null) return null
+export function actingIn(agentId: string): Acting | null {
   const mark = agentId.indexOf(SUBAGENT_MARK)
   if (mark <= 0) return null
   return { seatId: agentId.slice(0, mark), own: agentId.slice(mark + SUBAGENT_MARK.length) }
+}
+
+function actingAs(root: string, page: string): Acting | null {
+  const value = valueAt(page, root)
+  const agentId = value === null ? null : textAt(value, AGENT_ID)
+  return agentId === null ? null : actingIn(agentId)
+}
+
+export async function readFor(acting: Acting): Promise<Read> {
+  try {
+    const named = transcriptOf(acting.seatId)?.value
+    if (named === undefined || named === "") return { liveness: "unread", why: NO_TRANSCRIPT }
+    const running = await createSubagentReader().forSeat(acting.seatId, named)
+    return namedAmong(running, acting.own)
+      ? { liveness: "working", why: RUNS }
+      : { liveness: "returned", why: HAS_RETURNED }
+  } catch (thrown) {
+    return { liveness: "unread", why: thrownAs(thrown) }
+  }
 }
 
 export async function readOf(root: string, page: string, own?: string): Promise<Read> {
   try {
     const acting = actingAs(root, page)
     if (acting === null) return { liveness: "unread", why: NO_AGENT_ID }
-    const named = transcriptOf(acting.seatId)?.value
-    if (named === undefined || named === "") return { liveness: "unread", why: NO_TRANSCRIPT }
-    const running = await createSubagentReader().forSeat(acting.seatId, named)
-    return namedAmong(running, own ?? acting.own)
-      ? { liveness: "working", why: RUNS }
-      : { liveness: "returned", why: HAS_RETURNED }
+    return await readFor(own === undefined ? acting : { seatId: acting.seatId, own })
   } catch (thrown) {
     return { liveness: "unread", why: thrownAs(thrown) }
   }
