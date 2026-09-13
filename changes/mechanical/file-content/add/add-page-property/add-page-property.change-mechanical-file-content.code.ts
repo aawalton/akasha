@@ -6,6 +6,7 @@ import {
 import type { Said } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { withProperty } from "akasha/changes/modules/literal-splicing/literal-splicing.module.code.ts"
 import {
+  afterFaultIn,
   keyFaultIn,
   keyOf,
   literalIn,
@@ -66,6 +67,8 @@ export function addPageProperty(world: World, given: AddPagePropertyAsked): Said
   if (held !== undefined) {
     return refusing(`\`${given.key}\` is stated already, so \`${value}\` is a restatement`)
   }
+  const placed = afterFaultIn(owner, given.after)
+  if (placed !== null) return refusing(placed)
   const put = `${given.key}: ${value}`
   return stating(spliced(given.at, text, withProperty(text, source, owner, put, given.after)))
 }

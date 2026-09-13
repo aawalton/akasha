@@ -23,6 +23,17 @@ export function keyOf(held: ts.PropertyAssignment): string | null {
   return ts.isIdentifier(name) || ts.isStringLiteral(name) ? name.text : null
 }
 
+export function afterFaultIn(
+  owner: ts.ObjectLiteralExpression,
+  after: string | undefined
+): string | null {
+  if (after === undefined) return null
+  const named = owner.properties.some(
+    (each) => ts.isPropertyAssignment(each) && keyOf(each) === after
+  )
+  return named ? null : `\`${after}\` is stated nowhere, so \`after\` names no place`
+}
+
 export function literalIn(source: ts.SourceFile): ts.ObjectLiteralExpression | null {
   for (const statement of source.statements) {
     if (!ts.isVariableStatement(statement) || !exported(statement)) continue

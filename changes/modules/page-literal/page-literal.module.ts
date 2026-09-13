@@ -39,6 +39,16 @@ export const pageLiteral = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The fault in an `after` the object states nowhere is worded here rather than by each caller.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An `after` the object states has no fault, and no `after` stated has none either.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A key stating anything but text is left out of the text answered.",
     },
     {

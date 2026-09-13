@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  afterFaultIn,
   boundIn,
   keyOf,
   listIn,
@@ -64,6 +65,20 @@ test("a body exporting no object literal answers no object", () => {
 
 test("the name answered is the name the exported object is bound to", () => {
   expect(boundIn(sourceOf())).toBe("held")
+})
+
+test("an `after` the object states has no fault", () => {
+  expect(afterFaultIn(literalIn(sourceOf()) as never, "definition")).toBeNull()
+})
+
+test("an `after` the object states nowhere is a fault naming that `after`", () => {
+  expect(afterFaultIn(literalIn(sourceOf()) as never, "pluralSlug")).toBe(
+    "`pluralSlug` is stated nowhere, so `after` names no place"
+  )
+})
+
+test("no `after` stated has no fault", () => {
+  expect(afterFaultIn(literalIn(sourceOf()) as never, undefined)).toBeNull()
 })
 
 test("a body exporting no object literal is bound to no name", () => {

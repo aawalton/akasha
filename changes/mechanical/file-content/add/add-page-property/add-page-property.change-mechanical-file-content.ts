@@ -42,7 +42,7 @@ export const addPageProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "The key is written last where `after` names no such property.",
+      statement: "An `after` naming no property the page states is refused rather than dropped.",
     },
     {
       invariantKind: "departure",

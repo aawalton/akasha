@@ -46,10 +46,11 @@ test("the key is written after the property `after` names", () => {
   expect(bodyOf(said, () => BODY)).toBe(GAINED_AFTER_SLUG)
 })
 
-test("the key is written last where `after` names no such property", () => {
+test("an `after` naming no property the page states is refused rather than dropped", () => {
   const said = addPageProperty(worldOf(HELD), { ...SECTION_OF, after: "definition" })
 
-  expect(bodyOf(said, () => BODY)).toBe(GAINED_LAST)
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("`definition` is stated nowhere, so `after` names no place")
 })
 
 test("the key is written last where no `after` is stated", () => {
