@@ -91,7 +91,3 @@ export function refuseFlex(
   )
   return refusals
 }
-
-export function flexLine(record: FlexRecord | null): string {
-  return `  ${"flex".padEnd(8)} ${record === null ? "— none stated" : record.value}`
-}
