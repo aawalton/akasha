@@ -9,10 +9,14 @@ export const thePrimalHunter0180Chapter1306ArachnecNest = {
   position: 180,
   ownLength: 2793,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3341387/chapter-1306-arachnec-nest",
-  externalId: "3341387",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3341387",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3341387/chapter-1306-arachnec-nest",
+    },
+  ],
   publishedAt: "2026-05-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

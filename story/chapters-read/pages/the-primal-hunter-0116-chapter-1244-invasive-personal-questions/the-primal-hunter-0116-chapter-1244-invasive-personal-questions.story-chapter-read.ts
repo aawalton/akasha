@@ -9,10 +9,14 @@ export const thePrimalHunter0116Chapter1244InvasivePersonalQuestions = {
   position: 116,
   ownLength: 2622,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2991436/chapter-1244-invasive-personal-questions",
-  externalId: "2991436",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2991436",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2991436/chapter-1244-invasive-personal-questions",
+    },
+  ],
   publishedAt: "2026-01-29",
   ownProgress: 2622,
   completedAt: "2026-06-29T19:34:11.475Z",

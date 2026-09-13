@@ -9,10 +9,14 @@ export const thePrimalHunter0230Chapter1356AJustifiablyAngryHorde = {
   position: 230,
   ownLength: 2736,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3689644/chapter-1356-a-justifiably-angry-horde",
-  externalId: "3689644",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3689644",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3689644/chapter-1356-a-justifiably-angry-horde",
+    },
+  ],
   publishedAt: "2026-07-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

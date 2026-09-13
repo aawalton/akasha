@@ -9,10 +9,14 @@ export const thePrimalHunter0216Chapter1342AFrostyEncounter = {
   position: 216,
   ownLength: 3095,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3607908/chapter-1342-a-frosty-encounter",
-  externalId: "3607908",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3607908",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3607908/chapter-1342-a-frosty-encounter",
+    },
+  ],
   publishedAt: "2026-06-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

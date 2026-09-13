@@ -9,10 +9,14 @@ export const thePrimalHunter0183Chapter1309PrecariousCircumstances = {
   position: 183,
   ownLength: 2898,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3382553/chapter-1309-precarious-circumstances",
-  externalId: "3382553",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3382553",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3382553/chapter-1309-precarious-circumstances",
+    },
+  ],
   publishedAt: "2026-05-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

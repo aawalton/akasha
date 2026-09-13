@@ -9,10 +9,14 @@ export const thePrimalHunter0155Chapter1282NevermoreTimeOrMaybeJustAlchemy = {
   position: 155,
   ownLength: 2844,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3210829/chapter-1282-nevermore-time-or-maybe-just-alchemy",
-  externalId: "3210829",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3210829",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3210829/chapter-1282-nevermore-time-or-maybe-just-alchemy",
+    },
+  ],
   publishedAt: "2026-03-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thePrimalHunter0142Chapter1269TakingStockOneLastTime = {
   position: 142,
   ownLength: 2667,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3119433/chapter-1269-taking-stock-one-last-time",
-  externalId: "3119433",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3119433",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3119433/chapter-1269-taking-stock-one-last-time",
+    },
+  ],
   publishedAt: "2026-03-05",
   ownProgress: 2667,
   completedAt: "2026-06-29T19:34:47.802Z",

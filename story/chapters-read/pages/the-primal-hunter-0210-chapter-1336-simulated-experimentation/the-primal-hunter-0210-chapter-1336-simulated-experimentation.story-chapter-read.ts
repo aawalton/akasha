@@ -9,10 +9,14 @@ export const thePrimalHunter0210Chapter1336SimulatedExperimentation = {
   position: 210,
   ownLength: 3002,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3552557/chapter-1336-simulated-experimentation",
-  externalId: "3552557",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3552557",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3552557/chapter-1336-simulated-experimentation",
+    },
+  ],
   publishedAt: "2026-06-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

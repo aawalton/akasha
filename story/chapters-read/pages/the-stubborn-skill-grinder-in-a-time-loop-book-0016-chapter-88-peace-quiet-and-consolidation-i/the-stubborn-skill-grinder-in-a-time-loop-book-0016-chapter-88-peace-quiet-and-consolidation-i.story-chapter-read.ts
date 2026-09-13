@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0016Chapter88PeaceQuietAndCon
   position: 16,
   ownLength: 8236,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2277622/chapter-88-peace-quiet-consolidation-i",
-  externalId: "2277622",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2277622",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2277622/chapter-88-peace-quiet-consolidation-i",
+    },
+  ],
   publishedAt: "2025-05-14",
   ownProgress: 8236,
   completedAt: "2026-06-29T20:04:35.113Z",

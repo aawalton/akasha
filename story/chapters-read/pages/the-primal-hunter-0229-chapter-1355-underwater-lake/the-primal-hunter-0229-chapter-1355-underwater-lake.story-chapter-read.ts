@@ -9,10 +9,14 @@ export const thePrimalHunter0229Chapter1355UnderwaterLake = {
   position: 229,
   ownLength: 2912,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3685132/chapter-1355-underwater-lake",
-  externalId: "3685132",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3685132",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3685132/chapter-1355-underwater-lake",
+    },
+  ],
   publishedAt: "2026-07-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

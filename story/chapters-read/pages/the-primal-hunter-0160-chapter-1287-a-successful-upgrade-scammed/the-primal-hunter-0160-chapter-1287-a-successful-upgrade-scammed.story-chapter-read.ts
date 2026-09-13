@@ -9,10 +9,14 @@ export const thePrimalHunter0160Chapter1287ASuccessfulUpgradeScammed = {
   position: 160,
   ownLength: 2841,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3239186/chapter-1287-a-successful-upgrade-scammed",
-  externalId: "3239186",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3239186",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3239186/chapter-1287-a-successful-upgrade-scammed",
+    },
+  ],
   publishedAt: "2026-04-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

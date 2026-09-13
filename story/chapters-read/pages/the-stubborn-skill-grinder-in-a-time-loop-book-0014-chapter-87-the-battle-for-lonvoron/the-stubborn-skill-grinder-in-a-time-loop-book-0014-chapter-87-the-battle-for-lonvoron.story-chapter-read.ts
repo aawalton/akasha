@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0014Chapter87TheBattleForLonv
   position: 14,
   ownLength: 24879,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2261284/chapter-87-the-battle-for-lonvoron",
-  externalId: "2261284",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2261284",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2261284/chapter-87-the-battle-for-lonvoron",
+    },
+  ],
   publishedAt: "2025-05-07",
   ownProgress: 24879,
   completedAt: "2026-06-29T20:04:31.188Z",

@@ -9,10 +9,14 @@ export const thePrimalHunter0189Chapter1315EndlessTonguesOfTheForerunners = {
   position: 189,
   ownLength: 2891,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3418688/chapter-1315-endless-tongues-of-the-forerunners",
-  externalId: "3418688",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3418688",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3418688/chapter-1315-endless-tongues-of-the-forerunners",
+    },
+  ],
   publishedAt: "2026-05-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

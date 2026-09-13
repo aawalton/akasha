@@ -9,10 +9,14 @@ export const thePrimalHunter0207Chapter1333TerritoryBeacon = {
   position: 207,
   ownLength: 2760,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3529701/chapter-1333-territory-beacon",
-  externalId: "3529701",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3529701",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3529701/chapter-1333-territory-beacon",
+    },
+  ],
   publishedAt: "2026-06-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

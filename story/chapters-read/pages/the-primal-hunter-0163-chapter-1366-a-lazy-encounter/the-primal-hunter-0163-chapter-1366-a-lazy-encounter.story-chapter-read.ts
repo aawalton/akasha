@@ -9,10 +9,14 @@ export const thePrimalHunter0163Chapter1366ALazyEncounter = {
   position: 163,
   ownLength: 2915,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3751230/chapter-1366-a-lazy-encounter",
-  externalId: "3751230",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3751230",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3751230/chapter-1366-a-lazy-encounter",
+    },
+  ],
   publishedAt: "2026-07-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

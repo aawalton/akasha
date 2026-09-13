@@ -9,10 +9,14 @@ export const thePrimalHunter0170Chapter1297HowOneWouldExpect = {
   position: 170,
   ownLength: 2757,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3296843/chapter-1297-how-one-would-expect",
-  externalId: "3296843",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3296843",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3296843/chapter-1297-how-one-would-expect",
+    },
+  ],
   publishedAt: "2026-04-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thePrimalHunter0124Chapter1252QuestionableDungeonDesign = {
   position: 124,
   ownLength: 2789,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3033376/chapter-1252-questionable-dungeon-design",
-  externalId: "3033376",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3033376",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3033376/chapter-1252-questionable-dungeon-design",
+    },
+  ],
   publishedAt: "2026-02-10",
   ownProgress: 2789,
   completedAt: "2026-06-29T19:34:26.889Z",

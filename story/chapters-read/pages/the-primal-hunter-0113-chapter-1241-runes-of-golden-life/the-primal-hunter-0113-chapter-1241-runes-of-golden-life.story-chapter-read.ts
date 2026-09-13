@@ -9,10 +9,14 @@ export const thePrimalHunter0113Chapter1241RunesOfGoldenLife = {
   position: 113,
   ownLength: 2807,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2981257/chapter-1241-runes-of-golden-life",
-  externalId: "2981257",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2981257",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2981257/chapter-1241-runes-of-golden-life",
+    },
+  ],
   publishedAt: "2026-01-26",
   ownProgress: 2807,
   completedAt: "2026-06-29T19:32:50.990Z",

@@ -9,10 +9,14 @@ export const thePrimalHunter0143Chapter1270ATotallyStandardHumanBEvolution = {
   position: 143,
   ownLength: 2830,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3123386/chapter-1270-a-totally-standard-humanb-evolution",
-  externalId: "3123386",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3123386",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3123386/chapter-1270-a-totally-standard-humanb-evolution",
+    },
+  ],
   publishedAt: "2026-03-06",
   ownProgress: 2830,
   completedAt: "2026-06-29T19:34:49.636Z",

@@ -9,10 +9,14 @@ export const thePrimalHunter0220Chapter1346StormyWithAChanceOfFlamesAndArrows = 
   position: 220,
   ownLength: 2912,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3627240/chapter-1346-stormy-with-a-chance-of-flames-arrows",
-  externalId: "3627240",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3627240",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3627240/chapter-1346-stormy-with-a-chance-of-flames-arrows",
+    },
+  ],
   publishedAt: "2026-07-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thePrimalHunter0226Chapter1352CentralDomain = {
   position: 226,
   ownLength: 3003,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3671563/chapter-1352-central-domain",
-  externalId: "3671563",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3671563",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3671563/chapter-1352-central-domain",
+    },
+  ],
   publishedAt: "2026-07-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

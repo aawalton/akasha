@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0026Chapter97TrainTeachDieRep
   position: 26,
   ownLength: 17014,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2633712/chapter-97-train-teach-die-repeat-iii",
-  externalId: "2633712",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2633712",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2633712/chapter-97-train-teach-die-repeat-iii",
+    },
+  ],
   publishedAt: "2025-09-27",
   ownProgress: 17014,
   completedAt: "2026-06-29T20:04:54.499Z",

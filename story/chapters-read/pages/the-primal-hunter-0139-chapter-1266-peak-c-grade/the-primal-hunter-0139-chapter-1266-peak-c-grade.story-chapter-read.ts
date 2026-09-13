@@ -9,10 +9,14 @@ export const thePrimalHunter0139Chapter1266PeakCGrade = {
   position: 139,
   ownLength: 2787,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3108568/chapter-1266-peak-c-grade",
-  externalId: "3108568",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3108568",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3108568/chapter-1266-peak-c-grade",
+    },
+  ],
   publishedAt: "2026-03-02",
   ownProgress: 2787,
   completedAt: "2026-06-29T19:34:42.230Z",

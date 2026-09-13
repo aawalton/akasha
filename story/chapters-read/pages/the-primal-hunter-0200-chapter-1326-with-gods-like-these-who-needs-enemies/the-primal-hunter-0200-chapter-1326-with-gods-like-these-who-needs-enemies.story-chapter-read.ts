@@ -9,10 +9,14 @@ export const thePrimalHunter0200Chapter1326WithGodsLikeTheseWhoNeedsEnemies = {
   position: 200,
   ownLength: 2993,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3487873/chapter-1326-with-gods-like-these-who-needs-enemies",
-  externalId: "3487873",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3487873",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3487873/chapter-1326-with-gods-like-these-who-needs-enemies",
+    },
+  ],
   publishedAt: "2026-06-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

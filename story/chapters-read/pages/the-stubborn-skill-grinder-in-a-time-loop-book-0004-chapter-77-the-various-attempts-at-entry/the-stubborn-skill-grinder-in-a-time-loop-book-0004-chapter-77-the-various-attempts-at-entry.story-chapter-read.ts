@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0004Chapter77TheVariousAttemp
   position: 4,
   ownLength: 20583,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2077768/chapter-77-the-various-attempts-at-entry",
-  externalId: "2077768",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2077768",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2077768/chapter-77-the-various-attempts-at-entry",
+    },
+  ],
   publishedAt: "2025-02-20",
   ownProgress: 20583,
   completedAt: "2026-06-29T20:04:10.547Z",

@@ -9,10 +9,14 @@ export const thePrimalHunter0228Chapter1354AVeryUnwelcomingDesert = {
   position: 228,
   ownLength: 2932,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3680783/chapter-1354-a-very-unwelcoming-desert",
-  externalId: "3680783",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3680783",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3680783/chapter-1354-a-very-unwelcoming-desert",
+    },
+  ],
   publishedAt: "2026-07-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

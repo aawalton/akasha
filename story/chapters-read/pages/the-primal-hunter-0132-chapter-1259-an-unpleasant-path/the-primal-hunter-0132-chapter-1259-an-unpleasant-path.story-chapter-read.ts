@@ -9,10 +9,14 @@ export const thePrimalHunter0132Chapter1259AnUnpleasantPath = {
   position: 132,
   ownLength: 2707,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3071467/chapter-1259-an-unpleasant-path",
-  externalId: "3071467",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3071467",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3071467/chapter-1259-an-unpleasant-path",
+    },
+  ],
   publishedAt: "2026-02-19",
   ownProgress: 2707,
   completedAt: "2026-06-29T19:35:10.054Z",

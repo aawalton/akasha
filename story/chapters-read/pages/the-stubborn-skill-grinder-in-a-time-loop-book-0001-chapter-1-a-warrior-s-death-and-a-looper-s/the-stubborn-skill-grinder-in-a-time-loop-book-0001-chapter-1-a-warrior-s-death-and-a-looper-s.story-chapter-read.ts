@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0001Chapter1AWarriorSDeathAnd
   position: 1,
   ownLength: 7917,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/1559299/chapter-1-a-warriors-death-and-a-loopers-beginning",
-  externalId: "1559299",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1559299",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/1559299/chapter-1-a-warriors-death-and-a-loopers-beginning",
+    },
+  ],
   publishedAt: "2024-03-18",
   ownProgress: 7917,
   completedAt: "2026-06-29T20:04:04.718Z",

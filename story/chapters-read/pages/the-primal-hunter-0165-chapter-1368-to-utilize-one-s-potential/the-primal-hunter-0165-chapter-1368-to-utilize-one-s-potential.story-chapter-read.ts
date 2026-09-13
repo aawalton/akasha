@@ -9,10 +9,14 @@ export const thePrimalHunter0165Chapter1368ToUtilizeOneSPotential = {
   position: 165,
   ownLength: 2813,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3768799/chapter-1368-to-utilize-ones-potential",
-  externalId: "3768799",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3768799",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3768799/chapter-1368-to-utilize-ones-potential",
+    },
+  ],
   publishedAt: "2026-08-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thePrimalHunter0151Chapter1278AWayBEtterJake = {
   position: 151,
   ownLength: 2890,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3188372/chapter-1278-a-way-better-jake",
-  externalId: "3188372",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3188372",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3188372/chapter-1278-a-way-better-jake",
+    },
+  ],
   publishedAt: "2026-03-24",
   ownProgress: 2890,
   completedAt: "2026-06-29T19:35:04.549Z",

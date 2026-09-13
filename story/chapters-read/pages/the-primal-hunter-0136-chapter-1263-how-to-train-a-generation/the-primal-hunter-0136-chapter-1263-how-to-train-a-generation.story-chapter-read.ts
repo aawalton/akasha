@@ -9,10 +9,14 @@ export const thePrimalHunter0136Chapter1263HowToTrainAGeneration = {
   position: 136,
   ownLength: 3075,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3091513/chapter-1263-how-to-train-a-generation",
-  externalId: "3091513",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3091513",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3091513/chapter-1263-how-to-train-a-generation",
+    },
+  ],
   publishedAt: "2026-02-25",
   ownProgress: 3075,
   completedAt: "2026-06-29T19:35:17.769Z",

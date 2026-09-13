@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0005Chapter78PortBellgrave = 
   position: 5,
   ownLength: 19090,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2093771/chapter-78-port-bellgrave",
-  externalId: "2093771",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2093771",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2093771/chapter-78-port-bellgrave",
+    },
+  ],
   publishedAt: "2025-02-28",
   ownProgress: 19090,
   completedAt: "2026-06-29T20:04:12.521Z",

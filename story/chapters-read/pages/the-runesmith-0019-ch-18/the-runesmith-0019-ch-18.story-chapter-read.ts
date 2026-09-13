@@ -9,9 +9,13 @@ export const theRunesmith0019Ch18 = {
   position: 19,
   ownLength: 4681,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/31474/magic-smithing/chapter/491044/ch-18",
-  externalId: "491044",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "491044",
+      externalLink: "https://www.royalroad.com/fiction/31474/magic-smithing/chapter/491044/ch-18",
+    },
+  ],
   publishedAt: "2020-05-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

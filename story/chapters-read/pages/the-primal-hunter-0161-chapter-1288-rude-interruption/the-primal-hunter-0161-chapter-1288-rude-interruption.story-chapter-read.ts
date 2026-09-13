@@ -9,10 +9,14 @@ export const thePrimalHunter0161Chapter1288RudeInterruption = {
   position: 161,
   ownLength: 2583,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3243736/chapter-1288-rude-interruption",
-  externalId: "3243736",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3243736",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3243736/chapter-1288-rude-interruption",
+    },
+  ],
   publishedAt: "2026-04-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

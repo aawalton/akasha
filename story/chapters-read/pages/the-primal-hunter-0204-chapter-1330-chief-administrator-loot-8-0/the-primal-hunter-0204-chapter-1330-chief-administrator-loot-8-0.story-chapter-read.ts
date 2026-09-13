@@ -9,10 +9,14 @@ export const thePrimalHunter0204Chapter1330ChiefAdministratorLoot80 = {
   position: 204,
   ownLength: 3029,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3514896/chapter-1330-chief-administrator-loot-80",
-  externalId: "3514896",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3514896",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3514896/chapter-1330-chief-administrator-loot-80",
+    },
+  ],
   publishedAt: "2026-06-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

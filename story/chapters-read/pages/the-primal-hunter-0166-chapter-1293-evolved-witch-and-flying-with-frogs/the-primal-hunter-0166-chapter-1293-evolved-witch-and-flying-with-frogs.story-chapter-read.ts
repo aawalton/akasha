@@ -9,10 +9,14 @@ export const thePrimalHunter0166Chapter1293EvolvedWitchAndFlyingWithFrogs = {
   position: 166,
   ownLength: 2724,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3272941/chapter-1293-evolved-witch-flying-with-frogs",
-  externalId: "3272941",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3272941",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3272941/chapter-1293-evolved-witch-flying-with-frogs",
+    },
+  ],
   publishedAt: "2026-04-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

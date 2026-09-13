@@ -9,10 +9,14 @@ export const thePrimalHunter0152Chapter1279Technically = {
   position: 152,
   ownLength: 2909,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3192723/chapter-1279-technically",
-  externalId: "3192723",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3192723",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3192723/chapter-1279-technically",
+    },
+  ],
   publishedAt: "2026-03-25",
   ownProgress: 1579,
   prose: "txt",

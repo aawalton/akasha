@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0013Chapter86TheConfrontation
   position: 13,
   ownLength: 19402,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2234070/chapter-86-the-confrontation-the-alliance",
-  externalId: "2234070",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2234070",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2234070/chapter-86-the-confrontation-the-alliance",
+    },
+  ],
   publishedAt: "2025-04-27",
   ownProgress: 19402,
   completedAt: "2026-06-29T20:04:29.078Z",

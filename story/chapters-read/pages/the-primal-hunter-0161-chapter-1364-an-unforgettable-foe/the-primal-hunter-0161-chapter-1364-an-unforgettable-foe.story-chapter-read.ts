@@ -9,10 +9,14 @@ export const thePrimalHunter0161Chapter1364AnUnforgettableFoe = {
   position: 161,
   ownLength: 2791,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3742101/chapter-1364-an-unforgettable-foe",
-  externalId: "3742101",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3742101",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3742101/chapter-1364-an-unforgettable-foe",
+    },
+  ],
   publishedAt: "2026-07-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

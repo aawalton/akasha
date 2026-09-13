@@ -9,10 +9,14 @@ export const thePrimalHunter0121Chapter1249APairOfDungeonCriticsAtWork = {
   position: 121,
   ownLength: 2851,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3015405/chapter-1249-a-pair-of-dungeon-critics-at-work",
-  externalId: "3015405",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3015405",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3015405/chapter-1249-a-pair-of-dungeon-critics-at-work",
+    },
+  ],
   publishedAt: "2026-02-05",
   ownProgress: 2851,
   completedAt: "2026-06-29T19:34:20.998Z",

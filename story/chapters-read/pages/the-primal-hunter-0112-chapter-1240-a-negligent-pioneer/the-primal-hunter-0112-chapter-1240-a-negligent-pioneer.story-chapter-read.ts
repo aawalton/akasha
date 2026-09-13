@@ -9,10 +9,14 @@ export const thePrimalHunter0112Chapter1240ANegligentPioneer = {
   position: 112,
   ownLength: 2727,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2971649/chapter-1240-a-negligent-pioneer",
-  externalId: "2971649",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2971649",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2971649/chapter-1240-a-negligent-pioneer",
+    },
+  ],
   publishedAt: "2026-01-23",
   ownProgress: 2727,
   completedAt: "2026-06-29T19:32:49.068Z",

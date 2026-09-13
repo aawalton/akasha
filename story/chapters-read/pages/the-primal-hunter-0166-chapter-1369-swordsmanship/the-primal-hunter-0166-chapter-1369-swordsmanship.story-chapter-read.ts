@@ -9,10 +9,14 @@ export const thePrimalHunter0166Chapter1369Swordsmanship = {
   position: 166,
   ownLength: 2816,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3773546/chapter-1369-swordsmanship",
-  externalId: "3773546",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3773546",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3773546/chapter-1369-swordsmanship",
+    },
+  ],
   publishedAt: "2026-08-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

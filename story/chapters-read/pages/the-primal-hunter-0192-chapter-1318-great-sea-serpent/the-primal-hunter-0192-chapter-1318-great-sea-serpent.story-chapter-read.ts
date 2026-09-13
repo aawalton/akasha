@@ -9,10 +9,14 @@ export const thePrimalHunter0192Chapter1318GreatSeaSerpent = {
   position: 192,
   ownLength: 2726,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3432105/chapter-1318-great-sea-serpent",
-  externalId: "3432105",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3432105",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3432105/chapter-1318-great-sea-serpent",
+    },
+  ],
   publishedAt: "2026-05-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

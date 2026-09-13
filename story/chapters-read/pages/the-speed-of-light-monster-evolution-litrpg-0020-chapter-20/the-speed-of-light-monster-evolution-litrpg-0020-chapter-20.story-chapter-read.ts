@@ -9,10 +9,14 @@ export const theSpeedOfLightMonsterEvolutionLitrpg0020Chapter20 = {
   position: 20,
   ownLength: 1947,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2583728/chapter-20",
-  externalId: "2583728",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2583728",
+      externalLink:
+        "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2583728/chapter-20",
+    },
+  ],
   publishedAt: "2025-09-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

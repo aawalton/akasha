@@ -9,10 +9,14 @@ export const thePrimalHunter0129Chapter1257AginianCrisisProtocol = {
   position: 129,
   ownLength: 2877,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3063309/chapter-1257-aginian-crisis-protocol",
-  externalId: "3063309",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3063309",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3063309/chapter-1257-aginian-crisis-protocol",
+    },
+  ],
   publishedAt: "2026-02-17",
   ownProgress: 2877,
   completedAt: "2026-06-29T19:34:36.446Z",

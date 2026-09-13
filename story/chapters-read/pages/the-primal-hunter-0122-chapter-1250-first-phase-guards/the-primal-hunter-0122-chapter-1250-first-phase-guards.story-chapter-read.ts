@@ -9,10 +9,14 @@ export const thePrimalHunter0122Chapter1250FirstPhaseGuards = {
   position: 122,
   ownLength: 2880,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3019022/chapter-1250-first-phase-guards",
-  externalId: "3019022",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3019022",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3019022/chapter-1250-first-phase-guards",
+    },
+  ],
   publishedAt: "2026-02-06",
   ownProgress: 2880,
   completedAt: "2026-06-29T19:34:22.889Z",

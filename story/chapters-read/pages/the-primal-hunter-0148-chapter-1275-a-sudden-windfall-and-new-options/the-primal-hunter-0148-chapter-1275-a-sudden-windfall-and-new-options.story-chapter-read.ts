@@ -9,10 +9,14 @@ export const thePrimalHunter0148Chapter1275ASuddenWindfallAndNewOptions = {
   position: 148,
   ownLength: 3288,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3148110/chapter-1275-a-sudden-windfall-new-options",
-  externalId: "3148110",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3148110",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3148110/chapter-1275-a-sudden-windfall-new-options",
+    },
+  ],
   publishedAt: "2026-03-13",
   ownProgress: 3288,
   completedAt: "2026-06-29T19:34:59.041Z",

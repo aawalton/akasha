@@ -9,10 +9,14 @@ export const thePrimalHunter0125Chapter1253RisingTide = {
   position: 125,
   ownLength: 2947,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3036844/chapter-1253-rising-tide",
-  externalId: "3036844",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3036844",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3036844/chapter-1253-rising-tide",
+    },
+  ],
   publishedAt: "2026-02-11",
   ownProgress: 2947,
   completedAt: "2026-06-29T19:34:28.817Z",

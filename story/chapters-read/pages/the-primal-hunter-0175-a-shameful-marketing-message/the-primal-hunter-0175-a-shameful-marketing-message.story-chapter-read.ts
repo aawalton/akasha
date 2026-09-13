@@ -9,10 +9,14 @@ export const thePrimalHunter0175AShamefulMarketingMessage = {
   position: 175,
   ownLength: 280,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3313504/a-shameful-marketing-message",
-  externalId: "3313504",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3313504",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3313504/a-shameful-marketing-message",
+    },
+  ],
   publishedAt: "2026-04-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thePrimalHunter0158Chapter1285ASeasonedSwordsman = {
   position: 158,
   ownLength: 2634,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3222697/chapter-1285-a-seasoned-swordsman",
-  externalId: "3222697",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3222697",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3222697/chapter-1285-a-seasoned-swordsman",
+    },
+  ],
   publishedAt: "2026-04-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

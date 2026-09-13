@@ -9,10 +9,14 @@ export const thePrimalHunter0133Chapter1260CGradeClassEvolutionQuest = {
   position: 133,
   ownLength: 2736,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3074701/chapter-1260-c-grade-class-evolution-quest",
-  externalId: "3074701",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3074701",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3074701/chapter-1260-c-grade-class-evolution-quest",
+    },
+  ],
   publishedAt: "2026-02-20",
   ownProgress: 2736,
   completedAt: "2026-06-29T19:35:11.970Z",

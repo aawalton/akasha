@@ -9,10 +9,14 @@ export const thePrimalHunter0128Chapter1256ImportantRuleForProperDungeonBosses =
   position: 128,
   ownLength: 2773,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3059892/chapter-1256-important-rule-for-proper-dungeon",
-  externalId: "3059892",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3059892",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3059892/chapter-1256-important-rule-for-proper-dungeon",
+    },
+  ],
   publishedAt: "2026-02-16",
   ownProgress: 2773,
   completedAt: "2026-06-29T19:34:34.655Z",

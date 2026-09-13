@@ -9,10 +9,14 @@ export const thePrimalHunter0130PremiumEditionHardcovers = {
   position: 130,
   ownLength: 226,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3063580/premium-edition-hardcovers",
-  externalId: "3063580",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3063580",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3063580/premium-edition-hardcovers",
+    },
+  ],
   publishedAt: "2026-02-17",
   ownProgress: 226,
   completedAt: "2026-06-29T19:35:06.348Z",

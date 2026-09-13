@@ -7,12 +7,16 @@ export const thePrimalHunter0176Chapter1379HomeInvasion = {
   position: 176,
   publishedAt: "2026-09-10",
   unit: "words",
-  externalId: "3939690",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3939690",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3939690/chapter-1379-home-invasion",
+    },
+  ],
   title: "Chapter 1379 - Home Invasion",
   story: "story-read/the-primal-hunter",
   ownLength: 2594,
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3939690/chapter-1379-home-invasion",
   prose: "txt",
 } as const satisfies StoryChapterRead

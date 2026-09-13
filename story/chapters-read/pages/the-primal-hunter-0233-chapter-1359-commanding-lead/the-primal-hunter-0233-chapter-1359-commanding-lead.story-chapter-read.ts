@@ -9,10 +9,14 @@ export const thePrimalHunter0233Chapter1359CommandingLead = {
   position: 233,
   ownLength: 2751,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3711248/chapter-1359-commanding-lead",
-  externalId: "3711248",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3711248",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3711248/chapter-1359-commanding-lead",
+    },
+  ],
   publishedAt: "2026-07-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

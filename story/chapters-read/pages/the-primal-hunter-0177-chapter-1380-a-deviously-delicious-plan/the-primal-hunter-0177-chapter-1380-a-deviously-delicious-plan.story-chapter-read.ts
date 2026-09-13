@@ -7,12 +7,16 @@ export const thePrimalHunter0177Chapter1380ADeviouslyDeliciousPlan = {
   position: 177,
   publishedAt: "2026-09-11",
   unit: "words",
-  externalId: "3944480",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3944480",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3944480/chapter-1380-a-deviously-delicious-plan",
+    },
+  ],
   title: "Chapter 1380 - A Deviously Delicious Plan",
   story: "story-read/the-primal-hunter",
   ownLength: 2874,
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3944480/chapter-1380-a-deviously-delicious-plan",
   prose: "txt",
 } as const satisfies StoryChapterRead

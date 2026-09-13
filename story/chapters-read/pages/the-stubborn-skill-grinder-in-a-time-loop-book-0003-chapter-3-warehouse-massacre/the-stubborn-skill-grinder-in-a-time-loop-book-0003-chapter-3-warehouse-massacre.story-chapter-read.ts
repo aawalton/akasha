@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0003Chapter3WarehouseMassacre
   position: 3,
   ownLength: 5920,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/1559938/chapter-3-warehouse-massacre",
-  externalId: "1559938",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1559938",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/1559938/chapter-3-warehouse-massacre",
+    },
+  ],
   publishedAt: "2024-03-19",
   ownProgress: 5920,
   completedAt: "2026-06-29T20:04:08.579Z",

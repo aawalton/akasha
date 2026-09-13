@@ -9,10 +9,14 @@ export const thePrimalHunter0184Chapter1310StuckInTheMiddle = {
   position: 184,
   ownLength: 2637,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3386728/chapter-1310-stuck-in-the-middle",
-  externalId: "3386728",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3386728",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3386728/chapter-1310-stuck-in-the-middle",
+    },
+  ],
   publishedAt: "2026-05-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

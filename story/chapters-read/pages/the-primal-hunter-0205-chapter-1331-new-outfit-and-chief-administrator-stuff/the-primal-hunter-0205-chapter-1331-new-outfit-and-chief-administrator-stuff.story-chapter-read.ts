@@ -9,10 +9,14 @@ export const thePrimalHunter0205Chapter1331NewOutfitAndChiefAdministratorStuff =
   position: 205,
   ownLength: 2647,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3519865/chapter-1331-new-outfit-chief-administrator-stuff",
-  externalId: "3519865",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3519865",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3519865/chapter-1331-new-outfit-chief-administrator-stuff",
+    },
+  ],
   publishedAt: "2026-06-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

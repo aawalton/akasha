@@ -9,10 +9,14 @@ export const thePrimalHunter0131Chapter1258AGhastlyDomain = {
   position: 131,
   ownLength: 3005,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3068278/chapter-1258-a-ghastly-domain",
-  externalId: "3068278",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3068278",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3068278/chapter-1258-a-ghastly-domain",
+    },
+  ],
   publishedAt: "2026-02-18",
   ownProgress: 3005,
   completedAt: "2026-06-29T19:35:08.129Z",

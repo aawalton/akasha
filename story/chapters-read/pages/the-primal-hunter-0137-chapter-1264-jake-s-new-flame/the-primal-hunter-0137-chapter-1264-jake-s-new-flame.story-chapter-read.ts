@@ -9,10 +9,14 @@ export const thePrimalHunter0137Chapter1264JakeSNewFlame = {
   position: 137,
   ownLength: 2854,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3095138/chapter-1264-jakes-new-flame",
-  externalId: "3095138",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3095138",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3095138/chapter-1264-jakes-new-flame",
+    },
+  ],
   publishedAt: "2026-02-26",
   ownProgress: 2854,
   completedAt: "2026-06-29T19:34:38.385Z",

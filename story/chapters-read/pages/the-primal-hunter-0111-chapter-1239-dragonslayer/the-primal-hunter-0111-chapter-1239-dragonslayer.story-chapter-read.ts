@@ -9,10 +9,14 @@ export const thePrimalHunter0111Chapter1239Dragonslayer = {
   position: 111,
   ownLength: 2809,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2968231/chapter-1239-dragonslayer",
-  externalId: "2968231",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2968231",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2968231/chapter-1239-dragonslayer",
+    },
+  ],
   publishedAt: "2026-01-22",
   ownProgress: 2809,
   completedAt: "2026-06-29T19:32:47.248Z",

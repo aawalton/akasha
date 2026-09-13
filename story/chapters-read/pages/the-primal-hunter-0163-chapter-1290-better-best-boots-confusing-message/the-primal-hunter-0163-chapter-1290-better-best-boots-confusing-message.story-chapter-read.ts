@@ -9,10 +9,14 @@ export const thePrimalHunter0163Chapter1290BetterBestBootsConfusingMessage = {
   position: 163,
   ownLength: 2981,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3252119/chapter-1290-better-best-boots-confusing-message",
-  externalId: "3252119",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3252119",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3252119/chapter-1290-better-best-boots-confusing-message",
+    },
+  ],
   publishedAt: "2026-04-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

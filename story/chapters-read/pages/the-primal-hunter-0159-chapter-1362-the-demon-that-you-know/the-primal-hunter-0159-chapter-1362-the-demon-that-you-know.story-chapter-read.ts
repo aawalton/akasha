@@ -9,10 +9,14 @@ export const thePrimalHunter0159Chapter1362TheDemonThatYouKnow = {
   position: 159,
   ownLength: 2826,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3733054/chapter-1362-the-demon-that-you-know",
-  externalId: "3733054",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3733054",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3733054/chapter-1362-the-demon-that-you-know",
+    },
+  ],
   publishedAt: "2026-07-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

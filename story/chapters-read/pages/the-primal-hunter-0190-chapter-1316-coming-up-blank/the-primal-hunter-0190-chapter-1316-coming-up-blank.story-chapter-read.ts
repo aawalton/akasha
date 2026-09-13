@@ -9,10 +9,14 @@ export const thePrimalHunter0190Chapter1316ComingUpBlank = {
   position: 190,
   ownLength: 2961,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3422952/chapter-1316-coming-up-blank",
-  externalId: "3422952",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3422952",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3422952/chapter-1316-coming-up-blank",
+    },
+  ],
   publishedAt: "2026-05-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thePrimalHunter0138Chapter1265GoBigOrGoHome = {
   position: 138,
   ownLength: 2872,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3098664/chapter-1265-go-big-or-go-home",
-  externalId: "3098664",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3098664",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3098664/chapter-1265-go-big-or-go-home",
+    },
+  ],
   publishedAt: "2026-02-27",
   ownProgress: 2872,
   completedAt: "2026-06-29T19:34:40.313Z",

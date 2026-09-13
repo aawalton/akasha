@@ -9,10 +9,14 @@ export const thePrimalHunter0232Chapter1358UnethicalTourOfDuty = {
   position: 232,
   ownLength: 2674,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3706834/chapter-1358-unethical-tour-of-duty",
-  externalId: "3706834",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3706834",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3706834/chapter-1358-unethical-tour-of-duty",
+    },
+  ],
   publishedAt: "2026-07-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

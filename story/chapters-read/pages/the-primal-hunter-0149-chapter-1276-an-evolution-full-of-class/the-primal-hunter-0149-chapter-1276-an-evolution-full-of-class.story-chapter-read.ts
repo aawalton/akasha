@@ -9,10 +9,14 @@ export const thePrimalHunter0149Chapter1276AnEvolutionFullOfClass = {
   position: 149,
   ownLength: 2884,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3158666/chapter-1276-an-evolution-full-of-class",
-  externalId: "3158666",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3158666",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3158666/chapter-1276-an-evolution-full-of-class",
+    },
+  ],
   publishedAt: "2026-03-16",
   ownProgress: 2884,
   completedAt: "2026-06-29T19:35:00.947Z",

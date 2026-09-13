@@ -9,10 +9,14 @@ export const thePrimalHunter0171Chapter1298AmbushingThePursuers = {
   position: 171,
   ownLength: 2977,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3301089/chapter-1298-ambushing-the-pursuers",
-  externalId: "3301089",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3301089",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3301089/chapter-1298-ambushing-the-pursuers",
+    },
+  ],
   publishedAt: "2026-04-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

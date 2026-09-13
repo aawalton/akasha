@@ -9,10 +9,14 @@ export const thePrimalHunter0167Chapter1370ADanceOfBlades = {
   position: 167,
   ownLength: 2894,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3778093/chapter-1370-a-dance-of-blades",
-  externalId: "3778093",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3778093",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3778093/chapter-1370-a-dance-of-blades",
+    },
+  ],
   publishedAt: "2026-08-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

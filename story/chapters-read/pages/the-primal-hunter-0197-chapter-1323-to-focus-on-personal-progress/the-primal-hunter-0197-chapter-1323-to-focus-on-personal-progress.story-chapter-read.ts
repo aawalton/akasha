@@ -9,10 +9,14 @@ export const thePrimalHunter0197Chapter1323ToFocusOnPersonalProgress = {
   position: 197,
   ownLength: 2783,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3465265/chapter-1323-to-focus-on-personal-progress",
-  externalId: "3465265",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3465265",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3465265/chapter-1323-to-focus-on-personal-progress",
+    },
+  ],
   publishedAt: "2026-05-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

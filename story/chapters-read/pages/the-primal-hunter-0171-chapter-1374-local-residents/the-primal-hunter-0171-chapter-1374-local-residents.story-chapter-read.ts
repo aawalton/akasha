@@ -8,11 +8,15 @@ export const thePrimalHunter0171Chapter1374LocalResidents = {
   position: 171,
   publishedAt: "2026-09-03",
   unit: "words",
-  externalId: "3905096",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3905096",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3905096/chapter-1374-local-residents",
+    },
+  ],
   title: "Chapter 1374 - Local Residents",
   ownLength: 2657,
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3905096/chapter-1374-local-residents",
   prose: "txt",
 } as const satisfies StoryChapterRead

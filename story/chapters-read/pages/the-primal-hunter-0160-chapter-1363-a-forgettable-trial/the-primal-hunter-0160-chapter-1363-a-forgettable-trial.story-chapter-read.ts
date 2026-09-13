@@ -9,10 +9,14 @@ export const thePrimalHunter0160Chapter1363AForgettableTrial = {
   position: 160,
   ownLength: 2860,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3737679/chapter-1363-a-forgettable-trial",
-  externalId: "3737679",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3737679",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3737679/chapter-1363-a-forgettable-trial",
+    },
+  ],
   publishedAt: "2026-07-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

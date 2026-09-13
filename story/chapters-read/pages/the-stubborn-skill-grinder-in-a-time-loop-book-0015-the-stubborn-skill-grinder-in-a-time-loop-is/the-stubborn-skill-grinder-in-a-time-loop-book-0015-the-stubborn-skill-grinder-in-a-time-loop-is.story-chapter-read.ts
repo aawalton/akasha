@@ -10,10 +10,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0015TheStubbornSkillGrinderIn
   position: 15,
   ownLength: 89,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2276108/the-stubborn-skill-grinder-in-a-time-loop-is-available",
-  externalId: "2276108",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2276108",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2276108/the-stubborn-skill-grinder-in-a-time-loop-is-available",
+    },
+  ],
   publishedAt: "2025-05-13",
   ownProgress: 89,
   completedAt: "2026-06-29T20:04:33.144Z",

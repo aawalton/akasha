@@ -9,10 +9,14 @@ export const thePrimalHunter0156Chapter1283MoteOfProgress = {
   position: 156,
   ownLength: 3199,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3214677/chapter-1283-mote-of-progress",
-  externalId: "3214677",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3214677",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3214677/chapter-1283-mote-of-progress",
+    },
+  ],
   publishedAt: "2026-03-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

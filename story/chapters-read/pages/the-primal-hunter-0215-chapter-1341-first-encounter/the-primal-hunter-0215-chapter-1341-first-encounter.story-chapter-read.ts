@@ -9,10 +9,14 @@ export const thePrimalHunter0215Chapter1341FirstEncounter = {
   position: 215,
   ownLength: 2726,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3594587/chapter-1341-first-encounter",
-  externalId: "3594587",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3594587",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3594587/chapter-1341-first-encounter",
+    },
+  ],
   publishedAt: "2026-06-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

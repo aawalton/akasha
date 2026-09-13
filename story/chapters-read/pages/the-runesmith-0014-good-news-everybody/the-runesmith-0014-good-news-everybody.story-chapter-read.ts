@@ -9,10 +9,14 @@ export const theRunesmith0014GoodNewsEverybody = {
   position: 14,
   ownLength: 456,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/31474/magic-smithing/chapter/485332/good-news-everybody",
-  externalId: "485332",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "485332",
+      externalLink:
+        "https://www.royalroad.com/fiction/31474/magic-smithing/chapter/485332/good-news-everybody",
+    },
+  ],
   publishedAt: "2020-04-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

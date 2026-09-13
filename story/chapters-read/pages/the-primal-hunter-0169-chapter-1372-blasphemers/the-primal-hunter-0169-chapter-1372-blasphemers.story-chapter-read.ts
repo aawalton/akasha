@@ -9,10 +9,14 @@ export const thePrimalHunter0169Chapter1372Blasphemers = {
   position: 169,
   ownLength: 2766,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3896136/chapter-1372-blasphemers",
-  externalId: "3896136",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3896136",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3896136/chapter-1372-blasphemers",
+    },
+  ],
   publishedAt: "2026-09-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

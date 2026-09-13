@@ -9,10 +9,14 @@ export const thePrimalHunter0144Chapter1271PrimalHunterSSpiritOfMan = {
   position: 144,
   ownLength: 3453,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3133642/chapter-1271-primal-hunters-spirit-of-man",
-  externalId: "3133642",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3133642",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3133642/chapter-1271-primal-hunters-spirit-of-man",
+    },
+  ],
   publishedAt: "2026-03-09",
   ownProgress: 3453,
   completedAt: "2026-06-29T19:34:51.437Z",

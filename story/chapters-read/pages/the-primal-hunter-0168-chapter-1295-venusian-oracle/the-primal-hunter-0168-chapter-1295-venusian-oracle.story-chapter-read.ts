@@ -9,10 +9,14 @@ export const thePrimalHunter0168Chapter1295VenusianOracle = {
   position: 168,
   ownLength: 2747,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3281562/chapter-1295-venusian-oracle",
-  externalId: "3281562",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3281562",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3281562/chapter-1295-venusian-oracle",
+    },
+  ],
   publishedAt: "2026-04-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

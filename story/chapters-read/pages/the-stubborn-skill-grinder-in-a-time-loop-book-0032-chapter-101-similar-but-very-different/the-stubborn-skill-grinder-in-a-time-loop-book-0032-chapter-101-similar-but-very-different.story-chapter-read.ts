@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0032Chapter101SimilarButVeryD
   position: 32,
   ownLength: 13457,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2704041/chapter-101-similar-but-very-different",
-  externalId: "2704041",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2704041",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2704041/chapter-101-similar-but-very-different",
+    },
+  ],
   publishedAt: "2025-10-25",
   ownProgress: 13457,
   completedAt: "2026-06-29T20:05:06.998Z",

@@ -9,10 +9,14 @@ export const thePrimalHunter0109Chapter1237DragonHunter6 = {
   position: 109,
   ownLength: 3439,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2961506/chapter-1237-dragon-hunter-6",
-  externalId: "2961506",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2961506",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2961506/chapter-1237-dragon-hunter-6",
+    },
+  ],
   publishedAt: "2026-01-20",
   ownProgress: 3439,
   completedAt: "2026-06-29T19:32:43.413Z",

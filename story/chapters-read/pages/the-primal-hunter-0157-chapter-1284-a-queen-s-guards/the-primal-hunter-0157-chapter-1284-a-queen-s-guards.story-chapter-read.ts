@@ -9,10 +9,14 @@ export const thePrimalHunter0157Chapter1284AQueenSGuards = {
   position: 157,
   ownLength: 3511,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3218599/chapter-1284-a-queens-guards",
-  externalId: "3218599",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3218599",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3218599/chapter-1284-a-queens-guards",
+    },
+  ],
   publishedAt: "2026-04-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

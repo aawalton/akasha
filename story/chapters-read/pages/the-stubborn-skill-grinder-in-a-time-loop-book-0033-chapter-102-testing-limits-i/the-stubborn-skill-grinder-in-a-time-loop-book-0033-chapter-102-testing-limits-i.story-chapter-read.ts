@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0033Chapter102TestingLimitsI 
   position: 33,
   ownLength: 15250,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2723029/chapter-102-testing-limits-i",
-  externalId: "2723029",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2723029",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2723029/chapter-102-testing-limits-i",
+    },
+  ],
   publishedAt: "2025-11-01",
   ownProgress: 15250,
   completedAt: "2026-06-29T20:05:09.109Z",

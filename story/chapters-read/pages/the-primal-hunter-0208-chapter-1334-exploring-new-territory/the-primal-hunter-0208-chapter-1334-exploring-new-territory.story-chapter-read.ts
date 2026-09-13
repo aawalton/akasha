@@ -9,10 +9,14 @@ export const thePrimalHunter0208Chapter1334ExploringNewTerritory = {
   position: 208,
   ownLength: 2824,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3543044/chapter-1334-exploring-new-territory",
-  externalId: "3543044",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3543044",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3543044/chapter-1334-exploring-new-territory",
+    },
+  ],
   publishedAt: "2026-06-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -8,11 +8,15 @@ export const thePrimalHunter0172Chapter1375InnerCity = {
   position: 172,
   publishedAt: "2026-09-04",
   unit: "words",
-  externalId: "3911621",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3911621",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3911621/chapter-1375-inner-city",
+    },
+  ],
   title: "Chapter 1375 - Inner City",
   ownLength: 2740,
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3911621/chapter-1375-inner-city",
   prose: "txt",
 } as const satisfies StoryChapterRead

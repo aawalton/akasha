@@ -9,10 +9,14 @@ export const thePrimalHunter0165Chapter1292NegotiatingWithFrogs101 = {
   position: 165,
   ownLength: 2790,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3268417/chapter-1292-negotiating-with-frogs-101",
-  externalId: "3268417",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3268417",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3268417/chapter-1292-negotiating-with-frogs-101",
+    },
+  ],
   publishedAt: "2026-04-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

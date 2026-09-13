@@ -9,10 +9,14 @@ export const thePrimalHunter0231Chapter1357TrioOfOverpoweredManiacs = {
   position: 231,
   ownLength: 2817,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3702233/chapter-1357-trio-of-overpowered-maniacs",
-  externalId: "3702233",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3702233",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3702233/chapter-1357-trio-of-overpowered-maniacs",
+    },
+  ],
   publishedAt: "2026-07-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

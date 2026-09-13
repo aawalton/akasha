@@ -9,10 +9,14 @@ export const thePrimalHunter0218Chapter1344NotHisPeers = {
   position: 218,
   ownLength: 2613,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3617572/chapter-1344-not-his-peers",
-  externalId: "3617572",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3617572",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3617572/chapter-1344-not-his-peers",
+    },
+  ],
   publishedAt: "2026-07-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

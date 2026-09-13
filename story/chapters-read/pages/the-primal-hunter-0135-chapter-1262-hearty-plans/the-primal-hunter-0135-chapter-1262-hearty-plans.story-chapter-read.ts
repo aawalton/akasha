@@ -9,10 +9,14 @@ export const thePrimalHunter0135Chapter1262HeartyPlans = {
   position: 135,
   ownLength: 2738,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3088057/chapter-1262-hearty-plans",
-  externalId: "3088057",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3088057",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3088057/chapter-1262-hearty-plans",
+    },
+  ],
   publishedAt: "2026-02-24",
   ownProgress: 2738,
   completedAt: "2026-06-29T19:35:15.841Z",

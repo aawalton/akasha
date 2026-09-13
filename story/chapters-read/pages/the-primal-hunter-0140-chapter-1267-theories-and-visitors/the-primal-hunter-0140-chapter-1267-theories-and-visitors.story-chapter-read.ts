@@ -9,10 +9,14 @@ export const thePrimalHunter0140Chapter1267TheoriesAndVisitors = {
   position: 140,
   ownLength: 2953,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3112172/chapter-1267-theories-visitors",
-  externalId: "3112172",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3112172",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3112172/chapter-1267-theories-visitors",
+    },
+  ],
   publishedAt: "2026-03-03",
   ownProgress: 2953,
   completedAt: "2026-06-29T19:34:44.199Z",

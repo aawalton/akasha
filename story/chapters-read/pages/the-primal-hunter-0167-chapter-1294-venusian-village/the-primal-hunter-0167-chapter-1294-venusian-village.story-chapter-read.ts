@@ -9,10 +9,14 @@ export const thePrimalHunter0167Chapter1294VenusianVillage = {
   position: 167,
   ownLength: 3138,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3277199/chapter-1294-venusian-village",
-  externalId: "3277199",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3277199",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3277199/chapter-1294-venusian-village",
+    },
+  ],
   publishedAt: "2026-04-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thePrimalHunter0221Chapter1347AnInextinguishableFlame = {
   position: 221,
   ownLength: 2754,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3640024/chapter-1347-an-inextinguishable-flame",
-  externalId: "3640024",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3640024",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3640024/chapter-1347-an-inextinguishable-flame",
+    },
+  ],
   publishedAt: "2026-07-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

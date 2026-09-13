@@ -9,10 +9,14 @@ export const thePrimalHunter0225Chapter1351FortunateEncounters = {
   position: 225,
   ownLength: 2732,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3658087/chapter-1351-fortunate-encounters",
-  externalId: "3658087",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3658087",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3658087/chapter-1351-fortunate-encounters",
+    },
+  ],
   publishedAt: "2026-07-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

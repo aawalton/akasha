@@ -9,10 +9,14 @@ export const thePrimalHunter0222Chapter1348ExtinguishedFlame = {
   position: 222,
   ownLength: 2625,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3644657/chapter-1348-extinguished-flame",
-  externalId: "3644657",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3644657",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3644657/chapter-1348-extinguished-flame",
+    },
+  ],
   publishedAt: "2026-07-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thePrimalHunter0126Chapter1254FinallyFinalBossTime = {
   position: 126,
   ownLength: 2742,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3040185/chapter-1254-finally-final-boss-time",
-  externalId: "3040185",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3040185",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3040185/chapter-1254-finally-final-boss-time",
+    },
+  ],
   publishedAt: "2026-02-12",
   ownProgress: 2742,
   completedAt: "2026-06-29T19:34:30.793Z",

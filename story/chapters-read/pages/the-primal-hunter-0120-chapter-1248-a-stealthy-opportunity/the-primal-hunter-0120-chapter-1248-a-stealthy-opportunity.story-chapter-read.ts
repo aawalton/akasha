@@ -9,10 +9,14 @@ export const thePrimalHunter0120Chapter1248AStealthyOpportunity = {
   position: 120,
   ownLength: 2836,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3012186/chapter-1248-a-stealthy-opportunity",
-  externalId: "3012186",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3012186",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3012186/chapter-1248-a-stealthy-opportunity",
+    },
+  ],
   publishedAt: "2026-02-04",
   ownProgress: 2836,
   completedAt: "2026-06-29T19:34:19.068Z",

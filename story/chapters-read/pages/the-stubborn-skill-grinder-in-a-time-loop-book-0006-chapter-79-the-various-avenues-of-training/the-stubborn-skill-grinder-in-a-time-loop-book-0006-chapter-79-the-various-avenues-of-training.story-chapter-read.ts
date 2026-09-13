@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0006Chapter79TheVariousAvenue
   position: 6,
   ownLength: 20759,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2104515/chapter-79-the-various-avenues-of-training",
-  externalId: "2104515",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2104515",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2104515/chapter-79-the-various-avenues-of-training",
+    },
+  ],
   publishedAt: "2025-03-05",
   ownProgress: 20759,
   completedAt: "2026-06-29T20:04:14.628Z",

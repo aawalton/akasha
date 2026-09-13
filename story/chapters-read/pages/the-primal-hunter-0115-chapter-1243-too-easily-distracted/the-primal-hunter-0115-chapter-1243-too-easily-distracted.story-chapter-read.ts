@@ -9,10 +9,14 @@ export const thePrimalHunter0115Chapter1243TooEasilyDistracted = {
   position: 115,
   ownLength: 2791,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2988147/chapter-1243-too-easily-distracted",
-  externalId: "2988147",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2988147",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2988147/chapter-1243-too-easily-distracted",
+    },
+  ],
   publishedAt: "2026-01-28",
   ownProgress: 2791,
   completedAt: "2026-06-29T19:34:09.549Z",

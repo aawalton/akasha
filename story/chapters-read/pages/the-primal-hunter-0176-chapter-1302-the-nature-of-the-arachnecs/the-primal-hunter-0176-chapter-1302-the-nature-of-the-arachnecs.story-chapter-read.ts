@@ -9,10 +9,14 @@ export const thePrimalHunter0176Chapter1302TheNatureOfTheArachnecs = {
   position: 176,
   ownLength: 2594,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3324975/chapter-1302-the-nature-of-the-arachnecs",
-  externalId: "3324975",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3324975",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3324975/chapter-1302-the-nature-of-the-arachnecs",
+    },
+  ],
   publishedAt: "2026-04-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

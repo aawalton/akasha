@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0009Chapter82PortBellgraveRev
   position: 9,
   ownLength: 22816,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2160276/chapter-82-port-bellgrave-revisited-ii",
-  externalId: "2160276",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2160276",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2160276/chapter-82-port-bellgrave-revisited-ii",
+    },
+  ],
   publishedAt: "2025-03-29",
   ownProgress: 22816,
   completedAt: "2026-06-29T20:04:20.697Z",

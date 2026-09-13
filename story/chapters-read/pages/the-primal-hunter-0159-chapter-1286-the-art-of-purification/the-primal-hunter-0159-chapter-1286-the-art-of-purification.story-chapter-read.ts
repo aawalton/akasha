@@ -9,10 +9,14 @@ export const thePrimalHunter0159Chapter1286TheArtOfPurification = {
   position: 159,
   ownLength: 2935,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3227183/chapter-1286-the-art-of-purification",
-  externalId: "3227183",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3227183",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3227183/chapter-1286-the-art-of-purification",
+    },
+  ],
   publishedAt: "2026-04-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

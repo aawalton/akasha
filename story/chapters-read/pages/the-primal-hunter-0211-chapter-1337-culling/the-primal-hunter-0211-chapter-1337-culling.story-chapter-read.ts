@@ -9,10 +9,14 @@ export const thePrimalHunter0211Chapter1337Culling = {
   position: 211,
   ownLength: 2847,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3557136/chapter-1337-culling",
-  externalId: "3557136",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3557136",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3557136/chapter-1337-culling",
+    },
+  ],
   publishedAt: "2026-06-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

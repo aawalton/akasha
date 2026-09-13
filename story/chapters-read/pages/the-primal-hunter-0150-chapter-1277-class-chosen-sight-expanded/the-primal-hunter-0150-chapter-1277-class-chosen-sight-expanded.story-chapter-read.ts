@@ -9,10 +9,14 @@ export const thePrimalHunter0150Chapter1277ClassChosenSightExpanded = {
   position: 150,
   ownLength: 2920,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3184374/chapter-1277-class-chosen-sight-expanded",
-  externalId: "3184374",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3184374",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3184374/chapter-1277-class-chosen-sight-expanded",
+    },
+  ],
   publishedAt: "2026-03-23",
   ownProgress: 2920,
   completedAt: "2026-06-29T19:35:02.738Z",

@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0018Chapter90TheUnintendedCon
   position: 18,
   ownLength: 8696,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2412658/chapter-90-the-unintended-consequences-of-true",
-  externalId: "2412658",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2412658",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2412658/chapter-90-the-unintended-consequences-of-true",
+    },
+  ],
   publishedAt: "2025-07-06",
   ownProgress: 8696,
   completedAt: "2026-06-29T20:04:39.043Z",

@@ -9,10 +9,14 @@ export const thePrimalHunter0214Chapter1340APeacefulFaction = {
   position: 214,
   ownLength: 2866,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3589421/chapter-1340-a-peaceful-faction",
-  externalId: "3589421",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3589421",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3589421/chapter-1340-a-peaceful-faction",
+    },
+  ],
   publishedAt: "2026-06-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

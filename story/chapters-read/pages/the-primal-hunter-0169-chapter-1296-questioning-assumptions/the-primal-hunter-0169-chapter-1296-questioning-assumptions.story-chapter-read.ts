@@ -9,10 +9,14 @@ export const thePrimalHunter0169Chapter1296QuestioningAssumptions = {
   position: 169,
   ownLength: 2850,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3285622/chapter-1296-questioning-assumptions",
-  externalId: "3285622",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3285622",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3285622/chapter-1296-questioning-assumptions",
+    },
+  ],
   publishedAt: "2026-04-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

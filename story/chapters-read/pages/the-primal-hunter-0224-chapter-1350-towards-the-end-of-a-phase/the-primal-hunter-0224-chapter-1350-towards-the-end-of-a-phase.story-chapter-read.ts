@@ -9,10 +9,14 @@ export const thePrimalHunter0224Chapter1350TowardsTheEndOfAPhase = {
   position: 224,
   ownLength: 2896,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3653608/chapter-1350-towards-the-end-of-a-phase",
-  externalId: "3653608",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3653608",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3653608/chapter-1350-towards-the-end-of-a-phase",
+    },
+  ],
   publishedAt: "2026-07-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

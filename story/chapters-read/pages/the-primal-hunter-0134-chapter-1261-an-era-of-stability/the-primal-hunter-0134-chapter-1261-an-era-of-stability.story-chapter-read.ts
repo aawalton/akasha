@@ -9,10 +9,14 @@ export const thePrimalHunter0134Chapter1261AnEraOfStability = {
   position: 134,
   ownLength: 3125,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3084296/chapter-1261-an-era-of-stability",
-  externalId: "3084296",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3084296",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3084296/chapter-1261-an-era-of-stability",
+    },
+  ],
   publishedAt: "2026-02-23",
   ownProgress: 3125,
   completedAt: "2026-06-29T19:35:13.897Z",

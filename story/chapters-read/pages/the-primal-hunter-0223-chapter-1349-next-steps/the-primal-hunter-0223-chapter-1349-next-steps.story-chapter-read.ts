@@ -9,10 +9,14 @@ export const thePrimalHunter0223Chapter1349NextSteps = {
   position: 223,
   ownLength: 2578,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3649138/chapter-1349-next-steps",
-  externalId: "3649138",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3649138",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3649138/chapter-1349-next-steps",
+    },
+  ],
   publishedAt: "2026-07-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

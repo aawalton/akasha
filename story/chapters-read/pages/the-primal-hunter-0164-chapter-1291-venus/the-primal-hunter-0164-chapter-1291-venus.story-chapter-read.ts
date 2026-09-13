@@ -9,10 +9,14 @@ export const thePrimalHunter0164Chapter1291Venus = {
   position: 164,
   ownLength: 2786,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3256353/chapter-1291-venus",
-  externalId: "3256353",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3256353",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3256353/chapter-1291-venus",
+    },
+  ],
   publishedAt: "2026-04-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

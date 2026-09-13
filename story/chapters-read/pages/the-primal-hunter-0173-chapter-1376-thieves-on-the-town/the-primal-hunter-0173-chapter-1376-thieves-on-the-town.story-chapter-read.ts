@@ -8,11 +8,15 @@ export const thePrimalHunter0173Chapter1376ThievesOnTheTown = {
   position: 173,
   publishedAt: "2026-09-07",
   unit: "words",
-  externalId: "3925433",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3925433",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3925433/chapter-1376-thieves-on-the-town",
+    },
+  ],
   title: "Chapter 1376 - Thieves On the Town",
   ownLength: 2618,
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3925433/chapter-1376-thieves-on-the-town",
   prose: "txt",
 } as const satisfies StoryChapterRead

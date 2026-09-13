@@ -9,10 +9,14 @@ export const thePrimalHunter0193Chapter1319ReflectingOnQuestionableDiplomacy = {
   position: 193,
   ownLength: 2615,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3444301/chapter-1319-reflecting-on-questionable-diplomacy",
-  externalId: "3444301",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3444301",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3444301/chapter-1319-reflecting-on-questionable-diplomacy",
+    },
+  ],
   publishedAt: "2026-05-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

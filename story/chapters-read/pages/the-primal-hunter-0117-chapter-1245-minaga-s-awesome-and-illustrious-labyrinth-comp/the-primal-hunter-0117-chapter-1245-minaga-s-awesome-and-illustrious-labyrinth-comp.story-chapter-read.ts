@@ -9,10 +9,14 @@ export const thePrimalHunter0117Chapter1245MinagaSAwesomeAndIllustriousLabyrinth
   position: 117,
   ownLength: 2645,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2995214/chapter-1245-minagas-awesome-and-illustrious-labyrinth",
-  externalId: "2995214",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2995214",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2995214/chapter-1245-minagas-awesome-and-illustrious-labyrinth",
+    },
+  ],
   publishedAt: "2026-01-30",
   ownProgress: 2645,
   completedAt: "2026-06-29T19:34:13.394Z",

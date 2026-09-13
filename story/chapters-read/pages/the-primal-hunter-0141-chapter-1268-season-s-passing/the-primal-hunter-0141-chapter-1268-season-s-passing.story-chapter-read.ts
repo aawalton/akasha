@@ -9,10 +9,14 @@ export const thePrimalHunter0141Chapter1268SeasonSPassing = {
   position: 141,
   ownLength: 2802,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3116100/chapter-1268-seasons-passing",
-  externalId: "3116100",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3116100",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3116100/chapter-1268-seasons-passing",
+    },
+  ],
   publishedAt: "2026-03-04",
   ownProgress: 2802,
   completedAt: "2026-06-29T19:34:46.008Z",

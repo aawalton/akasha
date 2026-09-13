@@ -9,10 +9,14 @@ export const thePrimalHunter0123Chapter1251SecondFinalPhase = {
   position: 123,
   ownLength: 3029,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3029123/chapter-1251-second-final-phase",
-  externalId: "3029123",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3029123",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3029123/chapter-1251-second-final-phase",
+    },
+  ],
   publishedAt: "2026-02-09",
   ownProgress: 3029,
   completedAt: "2026-06-29T19:34:24.822Z",

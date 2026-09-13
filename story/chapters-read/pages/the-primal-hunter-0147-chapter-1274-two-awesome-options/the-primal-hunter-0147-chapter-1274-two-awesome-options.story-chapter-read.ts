@@ -9,10 +9,14 @@ export const thePrimalHunter0147Chapter1274TwoAwesomeOptions = {
   position: 147,
   ownLength: 3201,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3144163/chapter-1274-two-awesome-options",
-  externalId: "3144163",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3144163",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3144163/chapter-1274-two-awesome-options",
+    },
+  ],
   publishedAt: "2026-03-12",
   ownProgress: 3201,
   completedAt: "2026-06-29T19:34:57.252Z",

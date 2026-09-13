@@ -9,10 +9,14 @@ export const thePrimalHunter0146Chapter1273AnEvenBEtterAndProfessionalEvolution 
   position: 146,
   ownLength: 3443,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3140706/chapter-1273-an-even-better-professional-evolution",
-  externalId: "3140706",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3140706",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3140706/chapter-1273-an-even-better-professional-evolution",
+    },
+  ],
   publishedAt: "2026-03-11",
   ownProgress: 3443,
   completedAt: "2026-06-29T19:34:55.338Z",

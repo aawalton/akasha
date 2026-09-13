@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0007Chapter80AChaoticStartToA
   position: 7,
   ownLength: 17464,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2127308/chapter-80-a-chaotic-start-to-a-new-long-loop",
-  externalId: "2127308",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2127308",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2127308/chapter-80-a-chaotic-start-to-a-new-long-loop",
+    },
+  ],
   publishedAt: "2025-03-15",
   ownProgress: 17464,
   completedAt: "2026-06-29T20:04:16.478Z",

@@ -9,10 +9,14 @@ export const thePrimalHunter0168Chapter1371WeirdStatues = {
   position: 168,
   ownLength: 2687,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3890670/chapter-1371-weird-statues",
-  externalId: "3890670",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3890670",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3890670/chapter-1371-weird-statues",
+    },
+  ],
   publishedAt: "2026-08-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

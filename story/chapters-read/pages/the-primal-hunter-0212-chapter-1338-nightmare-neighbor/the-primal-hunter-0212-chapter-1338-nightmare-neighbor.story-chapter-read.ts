@@ -9,10 +9,14 @@ export const thePrimalHunter0212Chapter1338NightmareNeighbor = {
   position: 212,
   ownLength: 2676,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3561731/chapter-1338-nightmare-neighbor",
-  externalId: "3561731",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3561731",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3561731/chapter-1338-nightmare-neighbor",
+    },
+  ],
   publishedAt: "2026-06-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

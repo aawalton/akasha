@@ -9,10 +9,14 @@ export const thePrimalHunter0201Chapter1327ChiefAdministratorSelectionCometh = {
   position: 201,
   ownLength: 2714,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3492399/chapter-1327-chief-administrator-selection-cometh",
-  externalId: "3492399",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3492399",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3492399/chapter-1327-chief-administrator-selection-cometh",
+    },
+  ],
   publishedAt: "2026-06-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

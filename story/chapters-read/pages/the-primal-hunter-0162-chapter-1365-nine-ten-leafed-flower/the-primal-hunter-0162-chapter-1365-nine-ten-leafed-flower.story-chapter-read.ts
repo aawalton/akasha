@@ -9,10 +9,14 @@ export const thePrimalHunter0162Chapter1365NineTenLeafedFlower = {
   position: 162,
   ownLength: 2839,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3746634/chapter-1365-nineten-leafed-flower",
-  externalId: "3746634",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3746634",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3746634/chapter-1365-nineten-leafed-flower",
+    },
+  ],
   publishedAt: "2026-07-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

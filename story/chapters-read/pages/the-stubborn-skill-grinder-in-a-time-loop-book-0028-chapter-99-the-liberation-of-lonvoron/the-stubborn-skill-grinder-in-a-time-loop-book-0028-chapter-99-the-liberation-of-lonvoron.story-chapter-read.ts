@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0028Chapter99TheLiberationOfL
   position: 28,
   ownLength: 15179,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2668648/chapter-99-the-liberation-of-lonvoron",
-  externalId: "2668648",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2668648",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2668648/chapter-99-the-liberation-of-lonvoron",
+    },
+  ],
   publishedAt: "2025-10-11",
   ownProgress: 15179,
   completedAt: "2026-06-29T20:04:58.586Z",

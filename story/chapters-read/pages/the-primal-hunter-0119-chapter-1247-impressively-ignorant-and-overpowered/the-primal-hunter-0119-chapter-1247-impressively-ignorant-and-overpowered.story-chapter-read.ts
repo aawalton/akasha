@@ -9,10 +9,14 @@ export const thePrimalHunter0119Chapter1247ImpressivelyIgnorantAndOverpowered = 
   position: 119,
   ownLength: 2851,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3008878/chapter-1247-impressively-ignorant-overpowered",
-  externalId: "3008878",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3008878",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3008878/chapter-1247-impressively-ignorant-overpowered",
+    },
+  ],
   publishedAt: "2026-02-03",
   ownProgress: 2851,
   completedAt: "2026-06-29T19:34:17.134Z",

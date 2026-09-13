@@ -9,10 +9,14 @@ export const thePrimalHunter0174Chapter1301ShamanisticArts = {
   position: 174,
   ownLength: 2786,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3313498/chapter-1301-shamanistic-arts",
-  externalId: "3313498",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3313498",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3313498/chapter-1301-shamanistic-arts",
+    },
+  ],
   publishedAt: "2026-04-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0023Chapter94DiversifyingTheB
   position: 23,
   ownLength: 17178,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2579689/chapter-94-diversifying-the-basics-iii",
-  externalId: "2579689",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2579689",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2579689/chapter-94-diversifying-the-basics-iii",
+    },
+  ],
   publishedAt: "2025-09-06",
   ownProgress: 17178,
   completedAt: "2026-06-29T20:04:48.482Z",

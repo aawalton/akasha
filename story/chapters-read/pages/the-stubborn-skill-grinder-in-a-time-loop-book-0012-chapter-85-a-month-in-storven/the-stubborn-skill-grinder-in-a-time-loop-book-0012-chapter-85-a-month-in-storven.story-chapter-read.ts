@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0012Chapter85AMonthInStorven 
   position: 12,
   ownLength: 21869,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2220618/chapter-85-a-month-in-storven",
-  externalId: "2220618",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2220618",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2220618/chapter-85-a-month-in-storven",
+    },
+  ],
   publishedAt: "2025-04-21",
   ownProgress: 21869,
   completedAt: "2026-06-29T20:04:26.961Z",

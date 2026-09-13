@@ -9,10 +9,14 @@ export const thePrimalHunter0235Chapter1361GoldenFlowersOfAbundance = {
   position: 235,
   ownLength: 2667,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3720198/chapter-1361-golden-flowers-of-abundance",
-  externalId: "3720198",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3720198",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3720198/chapter-1361-golden-flowers-of-abundance",
+    },
+  ],
   publishedAt: "2026-07-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

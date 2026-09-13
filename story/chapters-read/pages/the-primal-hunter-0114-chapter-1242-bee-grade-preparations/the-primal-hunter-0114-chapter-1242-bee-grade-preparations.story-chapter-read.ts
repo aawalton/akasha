@@ -9,10 +9,14 @@ export const thePrimalHunter0114Chapter1242BeeGradePreparations = {
   position: 114,
   ownLength: 2913,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2984757/chapter-1242-bee-grade-preparations",
-  externalId: "2984757",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2984757",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2984757/chapter-1242-bee-grade-preparations",
+    },
+  ],
   publishedAt: "2026-01-27",
   ownProgress: 2913,
   completedAt: "2026-06-29T19:34:07.620Z",

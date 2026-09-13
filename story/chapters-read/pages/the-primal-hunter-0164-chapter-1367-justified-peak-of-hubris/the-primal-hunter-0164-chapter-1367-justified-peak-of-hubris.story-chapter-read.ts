@@ -9,10 +9,14 @@ export const thePrimalHunter0164Chapter1367JustifiedPeakOfHubris = {
   position: 164,
   ownLength: 2736,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3763946/chapter-1367-justified-peak-of-hubris",
-  externalId: "3763946",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3763946",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3763946/chapter-1367-justified-peak-of-hubris",
+    },
+  ],
   publishedAt: "2026-08-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

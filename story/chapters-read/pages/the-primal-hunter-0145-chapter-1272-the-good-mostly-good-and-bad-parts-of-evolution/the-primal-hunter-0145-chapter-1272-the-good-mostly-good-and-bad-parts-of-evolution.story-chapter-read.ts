@@ -9,10 +9,14 @@ export const thePrimalHunter0145Chapter1272TheGoodMostlyGoodAndBadPartsOfEvoluti
   position: 145,
   ownLength: 3056,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3137144/chapter-1272-the-good-mostly-good-and-bad-parts",
-  externalId: "3137144",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3137144",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3137144/chapter-1272-the-good-mostly-good-and-bad-parts",
+    },
+  ],
   publishedAt: "2026-03-10",
   ownProgress: 3056,
   completedAt: "2026-06-29T19:34:53.387Z",

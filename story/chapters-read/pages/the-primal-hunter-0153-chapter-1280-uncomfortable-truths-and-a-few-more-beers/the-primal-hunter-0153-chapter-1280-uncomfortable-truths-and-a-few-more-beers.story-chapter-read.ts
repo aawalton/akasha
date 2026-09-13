@@ -9,10 +9,14 @@ export const thePrimalHunter0153Chapter1280UncomfortableTruthsAndAFewMoreBeers =
   position: 153,
   ownLength: 2821,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3196344/chapter-1280-uncomfortable-truths-a-few-more-beers",
-  externalId: "3196344",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3196344",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3196344/chapter-1280-uncomfortable-truths-a-few-more-beers",
+    },
+  ],
   publishedAt: "2026-03-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

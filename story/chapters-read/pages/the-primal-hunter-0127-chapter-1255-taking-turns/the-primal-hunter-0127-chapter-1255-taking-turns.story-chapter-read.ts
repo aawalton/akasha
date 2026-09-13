@@ -9,10 +9,14 @@ export const thePrimalHunter0127Chapter1255TakingTurns = {
   position: 127,
   ownLength: 2534,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3050554/chapter-1255-taking-turns",
-  externalId: "3050554",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3050554",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3050554/chapter-1255-taking-turns",
+    },
+  ],
   publishedAt: "2026-02-13",
   ownProgress: 2534,
   completedAt: "2026-06-29T19:34:32.709Z",

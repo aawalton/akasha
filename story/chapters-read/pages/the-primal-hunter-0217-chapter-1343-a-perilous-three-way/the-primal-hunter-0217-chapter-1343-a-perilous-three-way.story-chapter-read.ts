@@ -9,10 +9,14 @@ export const thePrimalHunter0217Chapter1343APerilousThreeWay = {
   position: 217,
   ownLength: 2618,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3612652/chapter-1343-a-perilous-three-way",
-  externalId: "3612652",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3612652",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3612652/chapter-1343-a-perilous-three-way",
+    },
+  ],
   publishedAt: "2026-06-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

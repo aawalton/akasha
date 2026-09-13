@@ -9,10 +9,14 @@ export const thePrimalHunter0177Chapter1303WelcomeToThe = {
   position: 177,
   ownLength: 2856,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3329292/chapter-1303-welcome-to-the",
-  externalId: "3329292",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3329292",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3329292/chapter-1303-welcome-to-the",
+    },
+  ],
   publishedAt: "2026-04-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

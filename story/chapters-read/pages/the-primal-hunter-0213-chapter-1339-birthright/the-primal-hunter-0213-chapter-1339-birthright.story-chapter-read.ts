@@ -9,10 +9,14 @@ export const thePrimalHunter0213Chapter1339Birthright = {
   position: 213,
   ownLength: 3145,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3584799/chapter-1339-birthright",
-  externalId: "3584799",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3584799",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3584799/chapter-1339-birthright",
+    },
+  ],
   publishedAt: "2026-06-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const thePrimalHunter0219Chapter1345FireAndFists = {
   position: 219,
   ownLength: 2801,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3622337/chapter-1345-fire-fists",
-  externalId: "3622337",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3622337",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3622337/chapter-1345-fire-fists",
+    },
+  ],
   publishedAt: "2026-07-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

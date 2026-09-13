@@ -9,10 +9,14 @@ export const thePrimalHunter0118Chapter1246TheConceptOfDeath = {
   position: 118,
   ownLength: 2685,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3005291/chapter-1246-the-concept-of-death",
-  externalId: "3005291",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3005291",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3005291/chapter-1246-the-concept-of-death",
+    },
+  ],
   publishedAt: "2026-02-02",
   ownProgress: 2685,
   completedAt: "2026-06-29T19:34:15.183Z",

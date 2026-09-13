@@ -9,10 +9,14 @@ export const thePrimalHunter0185Chapter1311ADrasticMoodShift = {
   position: 185,
   ownLength: 2789,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3390859/chapter-1311-a-drastic-mood-shift",
-  externalId: "3390859",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3390859",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3390859/chapter-1311-a-drastic-mood-shift",
+    },
+  ],
   publishedAt: "2026-05-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

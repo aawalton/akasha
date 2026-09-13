@@ -9,10 +9,14 @@ export const thePrimalHunter0172Chapter1299DeathOfTheDeathstalkers = {
   position: 172,
   ownLength: 3025,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3305334/chapter-1299-death-of-the-deathstalkers",
-  externalId: "3305334",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3305334",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3305334/chapter-1299-death-of-the-deathstalkers",
+    },
+  ],
   publishedAt: "2026-04-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

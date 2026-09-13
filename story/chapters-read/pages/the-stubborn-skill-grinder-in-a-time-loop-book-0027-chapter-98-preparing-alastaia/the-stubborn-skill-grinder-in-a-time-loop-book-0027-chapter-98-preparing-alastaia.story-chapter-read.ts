@@ -9,10 +9,14 @@ export const theStubbornSkillGrinderInATimeLoopBook0027Chapter98PreparingAlastai
   position: 27,
   ownLength: 13193,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2651509/chapter-98-preparing-alastaia",
-  externalId: "2651509",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2651509",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2651509/chapter-98-preparing-alastaia",
+    },
+  ],
   publishedAt: "2025-10-04",
   ownProgress: 13193,
   completedAt: "2026-06-29T20:04:56.481Z",

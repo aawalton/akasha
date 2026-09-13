@@ -9,10 +9,14 @@ export const thePrimalHunter0206Chapter1332WorldOfTheExaltedPrima = {
   position: 206,
   ownLength: 2635,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3524629/chapter-1332-world-of-the-exalted-prima",
-  externalId: "3524629",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3524629",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3524629/chapter-1332-world-of-the-exalted-prima",
+    },
+  ],
   publishedAt: "2026-06-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

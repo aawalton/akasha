@@ -8,11 +8,15 @@ export const thePrimalHunter0174Chapter1377TakingAdvantageOfTheSituation = {
   position: 174,
   publishedAt: "2026-09-08",
   unit: "words",
-  externalId: "3930294",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3930294",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3930294/chapter-1377-taking-advantage-of-the-situation",
+    },
+  ],
   title: "Chapter 1377 - Taking Advantage of the Situation",
   ownLength: 2699,
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3930294/chapter-1377-taking-advantage-of-the-situation",
   prose: "txt",
 } as const satisfies StoryChapterRead

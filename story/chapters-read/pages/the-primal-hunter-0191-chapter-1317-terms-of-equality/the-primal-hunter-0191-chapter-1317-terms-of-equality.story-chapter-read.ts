@@ -9,10 +9,14 @@ export const thePrimalHunter0191Chapter1317TermsOfEquality = {
   position: 191,
   ownLength: 2986,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3427915/chapter-1317-terms-of-equality",
-  externalId: "3427915",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3427915",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3427915/chapter-1317-terms-of-equality",
+    },
+  ],
   publishedAt: "2026-05-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

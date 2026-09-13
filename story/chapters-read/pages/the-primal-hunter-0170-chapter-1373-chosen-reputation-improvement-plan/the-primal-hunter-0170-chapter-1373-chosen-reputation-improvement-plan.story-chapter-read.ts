@@ -9,10 +9,14 @@ export const thePrimalHunter0170Chapter1373ChosenReputationImprovementPlan = {
   position: 170,
   ownLength: 2887,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3900643/chapter-1373-chosen-reputation-improvement-plan",
-  externalId: "3900643",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3900643",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3900643/chapter-1373-chosen-reputation-improvement-plan",
+    },
+  ],
   publishedAt: "2026-09-02",
   prose: "txt",
 } as const satisfies StoryChapterRead
