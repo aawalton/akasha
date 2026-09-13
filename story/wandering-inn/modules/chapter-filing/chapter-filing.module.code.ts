@@ -1,3 +1,4 @@
+import { linkFrom } from "akasha/alan/collections/externals/modules/external-identity-reading/external-identity-reading.module.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
@@ -14,11 +15,14 @@ import {
   STORY_PAGE_TYPE,
   STORY_SLUG,
 } from "akasha/story/wandering-inn/modules/chapter/chapter.module.code.ts"
+import { textIn } from "akasha/utils/narrow/modules/text-in/text-in.module.code.ts"
 
 const PUT = "change-mechanical/add-file-of-any-kind"
 const PROSE = "prose"
 const TXT = "txt"
 const WORDS = "words"
+const SOURCE = "the-wandering-inn"
+const IDENTITY = "externalIdentity"
 
 class FilingRefused extends Error {}
 
@@ -51,7 +55,7 @@ export function filedChapterLinks(): ReadonlySet<string> {
     const asked = asking(akashaRoot(), {
       pageTypeSlug: CHAPTER_PAGE_TYPE,
       where: { [key]: { is: STORY_ADDRESS } },
-      keys: ["externalLink"],
+      keys: ["externalLink", IDENTITY],
     })
     if ("refused" in asked) {
       throw new FilingRefused(
@@ -60,8 +64,8 @@ export function filedChapterLinks(): ReadonlySet<string> {
       )
     }
     for (const row of asked.rows) {
-      const link = row["externalLink"]
-      if (typeof link === "string" && link !== "") links.add(link)
+      const link = linkFrom(row[IDENTITY], SOURCE) ?? textIn(row["externalLink"])
+      if (link !== null) links.add(link)
     }
   }
   if (links.size === 0) {
@@ -92,7 +96,7 @@ export async function fileChapter(chapter: Filing): Promise<string> {
     position: chapter.position,
     ownLength: countChapterWords(chapter.text),
     unit: WORDS,
-    externalLink: chapter.url,
+    externalIdentity: [{ source: SOURCE, externalLink: chapter.url }],
     prose: TXT,
   }
   const day = publishedDayOf(chapter.url)

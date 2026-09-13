@@ -31,6 +31,18 @@ export const chapterFiling = {
     },
     {
       invariantKind: "departure",
+      statement: "That link is read off the chapter's record of the wandering inn.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A chapter stating no such record is known by the flat link it states instead.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A chapter filed here states its link as one record of the wandering inn.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An answer holding no chapter is a broken read rather than an empty shelf.",
     },
     {
