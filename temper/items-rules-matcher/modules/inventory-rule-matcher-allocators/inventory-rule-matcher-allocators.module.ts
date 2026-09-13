@@ -6,6 +6,7 @@ export const inventoryRuleMatcherAllocators = {
   slug: "inventory-rule-matcher-allocators",
   definition: "how many of a matched item a rule takes, and what the allocation is charged against",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
