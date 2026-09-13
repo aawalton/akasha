@@ -2,13 +2,11 @@ import { join, resolve } from "node:path"
 import { ranAsHook } from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
 import { shownIn } from "akasha/agents/hooks/modules/path-showing/path-showing.module.code.ts"
 import { insideOf, settled } from "akasha/agents/hooks/modules/settling/settling.module.code.ts"
-import { dataAt } from "akasha/files/modules/git-place/git-place.module.code.ts"
+import { INDEX_AT } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 
 const HOOK = "block-akasha-reads"
 
 const FILE_PATH = "file_path"
-
-const DATA_AT = dataAt()
 
 export const SCOPE: readonly string[] = [
   "block-akasha-reads refuses a Read landing anywhere inside this checkout, and stands aside",
@@ -31,7 +29,7 @@ export const SCOPE: readonly string[] = [
   "    nowhere.",
   "  - a shell read. `cat`, `head` and `sed -n` are Bash calls, and this hook is handed none.",
   "    They record nothing either, so a file read that way remains unread.",
-  "  - `.git/data`. The index is derived from the pages and is nobody's required reading, so a",
+  `  - \`${INDEX_AT}\`. The index is derived from the pages and is nobody's required reading, so a`,
   "    Read of it is let through. The edits hook guards writing it; this does not guard reading it.",
   "  - a path inside akasha that is a link pointing out of it. The read lands outside, so it is",
   "    stood aside. A path is judged by where it lands, never by how it is spelled.",
@@ -69,7 +67,7 @@ export function refusalIn(filePath: string, from: string, root: string): string 
   const here = settled(root)
   const at = settled(resolve(from, filePath))
   if (!insideOf(here, at)) return null
-  return insideOf(settled(join(here, DATA_AT)), at) ? null : refusalFor(shownIn(here, at))
+  return insideOf(settled(join(here, INDEX_AT)), at) ? null : refusalFor(shownIn(here, at))
 }
 
 async function ran(): Promise<number> {

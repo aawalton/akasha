@@ -5,6 +5,7 @@ import {
   refusalIn,
   SCOPE,
 } from "akasha/agents/hooks/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.code.ts"
+import { INDEX_AT } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
@@ -63,11 +64,11 @@ test("a Read outside the checkout is let through", () => {
   expect(refusalIn(join(awayAt(), "held.ts"), root, root)).toBeNull()
 })
 
-test("the index is no page, so a Read of .git/data is let through", () => {
+test("the index is no page, so a Read of it is let through", () => {
   const root = worldAt()
-  mkdirSync(join(root, ".git", "data"), { recursive: true })
-  writeFileSync(join(root, ".git", "data", "one.jsonl"), "{}\n")
-  expect(refusalIn(join(root, ".git", "data", "one.jsonl"), root, root)).toBeNull()
+  mkdirSync(join(root, INDEX_AT), { recursive: true })
+  writeFileSync(join(root, INDEX_AT, "one.jsonl"), "{}\n")
+  expect(refusalIn(join(root, INDEX_AT, "one.jsonl"), root, root)).toBeNull()
 })
 
 test("a link inside the checkout pointing out of it is let through", () => {
@@ -100,8 +101,8 @@ test("a file that is not there yet is judged by where it would land", () => {
   expect(refusalIn(join(root, "one", "unborn.ts"), root, root)).not.toBeNull()
 })
 
-test("what this does not reach is printed, and names Grep and Glob", () => {
+test("what this does not reach is printed, and names Grep and Glob and the index", () => {
   expect(SCOPE.join("\n")).toContain("NOT REACHED")
   expect(SCOPE.join("\n")).toContain("Grep and Glob")
-  expect(SCOPE.join("\n")).toContain(".git/data")
+  expect(SCOPE.join("\n")).toContain(INDEX_AT)
 })

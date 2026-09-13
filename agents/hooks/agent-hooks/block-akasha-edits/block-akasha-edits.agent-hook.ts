@@ -73,7 +73,7 @@ export const blockAkashaEdits = {
     {
       directiveKind: "rule",
       name: "The Index Is Akasha",
-      act: "Guard `.git/data` as the akasha folder is guarded.",
+      act: "Guard the index as the akasha folder is guarded.",
       warrant: "The pages and the index are two halves of one store.",
       aids: [
         "Derived state is still not yours to write.",

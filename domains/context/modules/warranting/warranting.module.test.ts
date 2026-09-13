@@ -29,6 +29,7 @@ import {
   OTHER,
   OWED,
   PATH,
+  pagedFor,
   readAt,
   rootWith,
   SEAT_AT,
@@ -144,6 +145,7 @@ test("a reading whose mechanical id is the body there now answers for it", () =>
 test("when the body was read is not asked, only which body", () => {
   const root = rootWith()
   const oid = writing(root, PATH, "one\n")
+  pagedFor(root, AGENT)
   recordRead(root, AGENT, { path: PATH, oid, seenAt: 0, carriedOid: null })
   expect(unreadIn(root, AGENT, [PATH])).toEqual([])
 })
@@ -400,6 +402,7 @@ test("a warrant owed of a taboo term is said before every warrant that is not", 
 
 test("a taboo term's page is handed back, and the same call again is let through", () => {
   const root = rootWith([{ slug: "chain", code: chainOf({ [A]: [TERM_AT] }) }])
+  pagedFor(root, AGENT)
   const first = unreadIn(root, AGENT, [A])[0]
   expect(first).toContain(`akasha read --file-path ${TERM_AT}`)
   expect(first).not.toContain(AGAIN)

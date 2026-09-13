@@ -4,9 +4,9 @@ import {
   recordRead,
   SUBAGENT_MARK,
 } from "akasha/agents/modules/read-record/read-record.module.code.ts"
+import { agentPaged } from "akasha/agents/modules/read-record/read-record.module.test-fixtures.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import type { Warrant } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
-import { dataAt } from "akasha/files/modules/git-place/git-place.module.code.ts"
 import {
   idFiled,
   listedFiled,
@@ -37,7 +37,7 @@ const WARRANTING_IN = "domains/context/modules/warranting"
 
 const CONTEXT_WARRANT = "context-warrant"
 
-export const SEEDED_AT = dataAt("warrant")
+export const SEEDED_AT = "seeded/warrants"
 
 const MINTED = "a warrant seeded for a test"
 
@@ -188,6 +188,12 @@ export function rootWith(every: readonly Said[] = [{ slug: "says-so" }]): string
   return root
 }
 
+export function pagedFor(root: string, agentId: string): undefined {
+  if (agentId === AGENT) return agentPaged(root, agentId, "one", SEAT_AT)
+  if (agentId === UNDER) return agentPaged(root, agentId, "one-suba", SUB_AT)
+  return agentPaged(root, agentId)
+}
+
 export function readAt(
   root: string,
   agentId: string,
@@ -196,6 +202,7 @@ export function readAt(
   was: string | null = null,
   reach: number | null = null
 ): undefined {
+  pagedFor(root, agentId)
   recordRead(root, agentId, { path, oid, seenAt: 1, carriedOid: was, readThrough: reach })
 }
 

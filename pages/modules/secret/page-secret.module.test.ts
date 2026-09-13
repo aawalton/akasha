@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { copyFileSync, existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { dataIn } from "akasha/files/modules/git-place/git-place.module.code.ts"
+import { gitIn } from "akasha/files/modules/git-place/git-place.module.code.ts"
 import {
   cipherFor,
   keysBeside,
@@ -87,11 +87,11 @@ test("what is composed is encrypted, names its keys in the open, and decrypts ba
   expect(keysBeside(root, PAGE)).toEqual(["access-token", "refresh-token"])
 })
 
-test("no plaintext reaches the disk, so the store the scratch sat in is never made", () => {
+test("no plaintext reaches the disk, so nothing is made under the folder git does not track", () => {
   const root = rooted()
   const said = cipherFor(root, PAGE, held({ "access-token": "one" }))
   expect(said.text).not.toBeNull()
-  expect(existsSync(dataIn(root, "sops"))).toBe(false)
+  expect(existsSync(gitIn(root))).toBe(false)
 })
 
 test("the name given for the file settles which rule encrypts, though no file sits there", () => {

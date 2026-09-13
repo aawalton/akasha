@@ -9,6 +9,7 @@ import {
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { nothingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { mintedId } from "akasha/testing-system/modules/minting/minting.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 export const AGENT = "01a04e96-c80a-79ef-819f-a455a96a0e54"
@@ -35,28 +36,38 @@ const SEAT = "seat"
 
 const SUBAGENT = "subagent"
 
-const SUB_ID = "01a04e96-c80a-79ef-819f-00000000000"
+const SEAT_SLUG_FROM = 24
 
-function seatFiled(root: string, slug: string, id: string): undefined {
-  const path = `agents/seats/pages/${slug}/${slug}.seat.ts`
+export function seatPaged(root: string, id: string, slug: string, at?: string): undefined {
+  const path = at ?? `agents/seats/pages/${slug}/${slug}.seat.ts`
   listedFiled(root, SEAT, slug, [{ path, id }])
   valueAlsoFiled(root, SEAT, [{ path, value: { id, pageTypeSlug: SEAT, slug } }])
+  return undefined
 }
 
-function subagentFiled(root: string, slug: string, id: string, agentId: string): undefined {
-  const path = `agents/subagents/pages/${slug}/${slug}.subagent.ts`
+export function subagentPaged(root: string, agentId: string, slug: string, at?: string): undefined {
+  const path = at ?? `agents/subagents/pages/${slug}/${slug}.subagent.ts`
+  const id = mintedId(slug)
   listedFiled(root, SUBAGENT, slug, [{ path, id }])
   valueAlsoFiled(root, SUBAGENT, [{ path, value: { id, pageTypeSlug: SUBAGENT, slug, agentId } }])
+  return undefined
+}
+
+export function agentPaged(root: string, agentId: string, slug?: string, at?: string): undefined {
+  const cut = agentId.indexOf(SUBAGENT_MARK)
+  if (cut < 0) return seatPaged(root, agentId, slug ?? `seat-${agentId.slice(SEAT_SLUG_FROM)}`, at)
+  const under = agentId.slice(cut + SUBAGENT_MARK.length)
+  return subagentPaged(root, agentId, slug ?? under, at)
 }
 
 export function rootedAs(named: string): string {
   const root = scratch.rootFor(named)
   nothingFiled(root)
-  seatFiled(root, "astra", AGENT)
-  seatFiled(root, "nimue", OTHER)
-  subagentFiled(root, "astra-sub-one", `${SUB_ID}1`, UNDER)
-  subagentFiled(root, "astra-sub-two", `${SUB_ID}2`, UNDER_TOO)
-  subagentFiled(root, "nimue-sub-three", `${SUB_ID}3`, UNDER_OTHER)
+  seatPaged(root, AGENT, "astra")
+  seatPaged(root, OTHER, "nimue")
+  subagentPaged(root, UNDER, "astra-sub-one")
+  subagentPaged(root, UNDER_TOO, "astra-sub-two")
+  subagentPaged(root, UNDER_OTHER, "nimue-sub-three")
   return root
 }
 

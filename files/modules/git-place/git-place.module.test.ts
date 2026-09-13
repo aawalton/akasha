@@ -3,8 +3,6 @@ import {
   CACHE,
   DATA,
   DEPLOYS,
-  dataAt,
-  dataIn,
   GIT_AT,
   gitIn,
   HANDOFF,
@@ -20,20 +18,6 @@ import {
   TREES,
 } from "akasha/files/modules/git-place/git-place.module.code.ts"
 
-test("the place sits under the folder git does not track", () => {
-  expect(dataAt()).toBe(".git/data")
-  expect(dataIn("/repo")).toBe("/repo/.git/data")
-})
-
-test("a subtree is answered under the place, so what owns it never spells the place", () => {
-  expect(dataAt("reads")).toBe(".git/data/reads")
-  expect(dataIn("/repo", "reads", "path")).toBe("/repo/.git/data/reads/path")
-})
-
-test("the place under a root is the place itself, taken from that root", () => {
-  expect(dataIn("/repo", "held")).toBe(`/repo/${dataAt("held")}`)
-})
-
 test("the folder git does not track is answered both under a root and on its own", () => {
   expect(GIT_AT).toBe(".git")
   expect(gitIn("/repo")).toBe("/repo/.git")
@@ -44,7 +28,7 @@ test("every name akasha keeps sits under that folder", () => {
 })
 
 test("every store akasha keeps is named here", () => {
-  expect([...STORES].sort()).toEqual([CACHE, DATA, DEPLOYS, TREES].sort())
+  expect([...STORES].sort()).toEqual([CACHE, DEPLOYS, TREES].sort())
 })
 
 test("a store is answered both under a root and on its own", () => {
@@ -52,8 +36,9 @@ test("a store is answered both under a root and on its own", () => {
   expect(storeIn("/repo", CACHE, "parse")).toBe("/repo/.git/cache/parse")
 })
 
-test("the data store is one of the stores, answered by a name of its own", () => {
-  expect(dataAt("sops")).toBe(storeAt(DATA, "sops"))
+test("a subtree is answered under a store, so what owns it never spells the store", () => {
+  expect(storeAt(CACHE, "parse", "held")).toBe(".git/cache/parse/held")
+  expect(storeIn("/repo", CACHE, "held")).toBe(`/repo/${storeAt(CACHE, "held")}`)
 })
 
 test("what akasha keeps is every store and every hold a landing takes", () => {
@@ -90,6 +75,6 @@ test("the push hand-off is a path akasha keeps no longer, since nothing hands a 
   expect(LEFT).toContain(HANDOFF)
 })
 
-test("the sops scratch is a path akasha keeps no longer, since no plaintext is written", () => {
-  expect(LEFT).toContain(`${DATA}/sops`)
+test("the data store is a path akasha keeps no longer, since nothing writes under it", () => {
+  expect(LEFT).toContain(DATA)
 })
