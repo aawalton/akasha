@@ -12,6 +12,11 @@ export const thePianoGuys3LetItSnowWinterWonderland = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-12-10",
-  externalId: "2fp9hFtrXdaUuLLzjwN311",
-  externalLink: "https://open.spotify.com/album/2fp9hFtrXdaUuLLzjwN311",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2fp9hFtrXdaUuLLzjwN311",
+      externalLink: "https://open.spotify.com/album/2fp9hFtrXdaUuLLzjwN311",
+    },
+  ],
 } as const satisfies Release

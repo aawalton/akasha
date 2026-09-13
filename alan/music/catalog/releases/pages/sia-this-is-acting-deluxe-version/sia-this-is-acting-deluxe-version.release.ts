@@ -12,7 +12,12 @@ export const siaThisIsActingDeluxeVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-10-21",
-  externalId: "2eV6DIPDnGl1idcjww6xyX",
-  externalLink: "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2eV6DIPDnGl1idcjww6xyX",
+      externalLink: "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

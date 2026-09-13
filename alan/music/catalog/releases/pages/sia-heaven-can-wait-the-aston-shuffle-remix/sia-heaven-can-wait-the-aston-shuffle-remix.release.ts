@@ -12,7 +12,12 @@ export const siaHeavenCanWaitTheAstonShuffleRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-05-24",
-  externalId: "6fUjIqkNJY56xS62ild7D1",
-  externalLink: "https://open.spotify.com/album/6fUjIqkNJY56xS62ild7D1",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6fUjIqkNJY56xS62ild7D1",
+      externalLink: "https://open.spotify.com/album/6fUjIqkNJY56xS62ild7D1",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

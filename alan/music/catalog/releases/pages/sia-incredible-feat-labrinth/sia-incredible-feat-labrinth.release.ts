@@ -12,7 +12,12 @@ export const siaIncredibleFeatLabrinth = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-04-05",
-  externalId: "5ZoC2lrruEGZJCKppgOYoV",
-  externalLink: "https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5ZoC2lrruEGZJCKppgOYoV",
+      externalLink: "https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

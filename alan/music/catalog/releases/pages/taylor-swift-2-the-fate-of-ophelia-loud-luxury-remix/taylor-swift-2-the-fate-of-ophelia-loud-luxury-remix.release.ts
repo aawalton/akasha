@@ -12,7 +12,12 @@ export const taylorSwift2TheFateOfOpheliaLoudLuxuryRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-11-06",
-  externalId: "1Ed98OfVXz3CiJcupzuLTo",
-  externalLink: "https://open.spotify.com/album/1Ed98OfVXz3CiJcupzuLTo",
-  lastSyncedAt: "2025-11-29",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Ed98OfVXz3CiJcupzuLTo",
+      externalLink: "https://open.spotify.com/album/1Ed98OfVXz3CiJcupzuLTo",
+      lastSyncedAt: "2025-11-29",
+    },
+  ],
 } as const satisfies Release

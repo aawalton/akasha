@@ -12,6 +12,11 @@ export const taylorSwift2RedDeluxeEdition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-10-22",
-  externalId: "1KlU96Hw9nlvqpBPlSqcTV",
-  externalLink: "https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1KlU96Hw9nlvqpBPlSqcTV",
+      externalLink: "https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV",
+    },
+  ],
 } as const satisfies Release

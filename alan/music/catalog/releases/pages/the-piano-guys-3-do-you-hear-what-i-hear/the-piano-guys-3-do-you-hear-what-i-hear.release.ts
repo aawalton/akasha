@@ -12,6 +12,11 @@ export const thePianoGuys3DoYouHearWhatIHear = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-16",
-  externalId: "1hWJzHY1qH128xdlDI6liK",
-  externalLink: "https://open.spotify.com/album/1hWJzHY1qH128xdlDI6liK",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1hWJzHY1qH128xdlDI6liK",
+      externalLink: "https://open.spotify.com/album/1hWJzHY1qH128xdlDI6liK",
+    },
+  ],
 } as const satisfies Release

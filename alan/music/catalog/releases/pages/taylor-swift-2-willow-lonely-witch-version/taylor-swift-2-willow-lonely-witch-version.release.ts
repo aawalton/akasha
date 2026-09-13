@@ -12,6 +12,11 @@ export const taylorSwift2WillowLonelyWitchVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-15",
-  externalId: "77wvNMSdOowJgpJx1kcKqc",
-  externalLink: "https://open.spotify.com/album/77wvNMSdOowJgpJx1kcKqc",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "77wvNMSdOowJgpJx1kcKqc",
+      externalLink: "https://open.spotify.com/album/77wvNMSdOowJgpJx1kcKqc",
+    },
+  ],
 } as const satisfies Release

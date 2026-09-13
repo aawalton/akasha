@@ -12,6 +12,11 @@ export const taylorSwift2MidnightsTheTilDawnEdition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-05-26",
-  externalId: "1fnJ7k0bllNfL1kVdNVW1A",
-  externalLink: "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1fnJ7k0bllNfL1kVdNVW1A",
+      externalLink: "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A",
+    },
+  ],
 } as const satisfies Release

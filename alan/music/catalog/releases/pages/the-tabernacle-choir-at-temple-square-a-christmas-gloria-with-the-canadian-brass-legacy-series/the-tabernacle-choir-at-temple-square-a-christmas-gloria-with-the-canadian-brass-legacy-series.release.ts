@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareAChristmasGloriaWithTheCanadianBras
   unit: "minutes",
   status: "not-started",
   publishedAt: "1998-01-01",
-  externalId: "6EtPA92UzidFl4cboa8YJG",
-  externalLink: "https://open.spotify.com/album/6EtPA92UzidFl4cboa8YJG",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6EtPA92UzidFl4cboa8YJG",
+      externalLink: "https://open.spotify.com/album/6EtPA92UzidFl4cboa8YJG",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

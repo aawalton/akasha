@@ -12,7 +12,12 @@ export const siaReasonableWoman = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-05-03",
-  externalId: "2JYsCq8rOuQXkwv9BtJEa8",
-  externalLink: "https://open.spotify.com/album/2JYsCq8rOuQXkwv9BtJEa8",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2JYsCq8rOuQXkwv9BtJEa8",
+      externalLink: "https://open.spotify.com/album/2JYsCq8rOuQXkwv9BtJEa8",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const theHoldernessFamilyBestOfThe90s = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-03-26",
-  externalId: "4TNCD6MbalOKHh7cGI5JTi",
-  externalLink: "https://open.spotify.com/album/4TNCD6MbalOKHh7cGI5JTi",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4TNCD6MbalOKHh7cGI5JTi",
+      externalLink: "https://open.spotify.com/album/4TNCD6MbalOKHh7cGI5JTi",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

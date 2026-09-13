@@ -12,6 +12,11 @@ export const taylorSwift2WillowTheWitchCollection = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-16",
-  externalId: "6WzAiEDGTU7KmEyGwLpBXB",
-  externalLink: "https://open.spotify.com/album/6WzAiEDGTU7KmEyGwLpBXB",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6WzAiEDGTU7KmEyGwLpBXB",
+      externalLink: "https://open.spotify.com/album/6WzAiEDGTU7KmEyGwLpBXB",
+    },
+  ],
 } as const satisfies Release

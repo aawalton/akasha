@@ -12,6 +12,11 @@ export const theBeatles2LiveAtTheBbcRemastered = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1994-11-30",
-  externalId: "2EowTulHWqSY6QZfTDf5vW",
-  externalLink: "https://open.spotify.com/album/2EowTulHWqSY6QZfTDf5vW",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2EowTulHWqSY6QZfTDf5vW",
+      externalLink: "https://open.spotify.com/album/2EowTulHWqSY6QZfTDf5vW",
+    },
+  ],
 } as const satisfies Release

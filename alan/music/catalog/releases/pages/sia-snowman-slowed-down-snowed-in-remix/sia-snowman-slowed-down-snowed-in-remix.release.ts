@@ -12,7 +12,12 @@ export const siaSnowmanSlowedDownSnowedInRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-29",
-  externalId: "7Ktba0IWwrAyFpoUNc0bL8",
-  externalLink: "https://open.spotify.com/album/7Ktba0IWwrAyFpoUNc0bL8",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7Ktba0IWwrAyFpoUNc0bL8",
+      externalLink: "https://open.spotify.com/album/7Ktba0IWwrAyFpoUNc0bL8",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

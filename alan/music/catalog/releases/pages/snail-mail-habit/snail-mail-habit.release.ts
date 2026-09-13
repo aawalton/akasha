@@ -13,6 +13,11 @@ export const snailMailHabit = {
   status: "not-started",
   rank: "D",
   publishedAt: "2016-07-12",
-  externalId: "3u9aqsJAlEpt7QJ1wFZ6SU",
-  externalLink: "https://open.spotify.com/album/3u9aqsJAlEpt7QJ1wFZ6SU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3u9aqsJAlEpt7QJ1wFZ6SU",
+      externalLink: "https://open.spotify.com/album/3u9aqsJAlEpt7QJ1wFZ6SU",
+    },
+  ],
 } as const satisfies Release

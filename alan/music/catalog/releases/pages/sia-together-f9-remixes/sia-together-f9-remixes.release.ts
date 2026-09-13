@@ -12,7 +12,12 @@ export const siaTogetherF9Remixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-10",
-  externalId: "6PdvaA2LDIPEdlaSPFUyEg",
-  externalLink: "https://open.spotify.com/album/6PdvaA2LDIPEdlaSPFUyEg",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6PdvaA2LDIPEdlaSPFUyEg",
+      externalLink: "https://open.spotify.com/album/6PdvaA2LDIPEdlaSPFUyEg",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

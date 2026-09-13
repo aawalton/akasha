@@ -12,6 +12,11 @@ export const taylorSwift2LavenderHazeAcousticVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-03-31",
-  externalId: "6eKdbTio5viiwJ5FE5J8wU",
-  externalLink: "https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6eKdbTio5viiwJ5FE5J8wU",
+      externalLink: "https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const thePianoGuys3MoonlightDubhouseRemixFeatBraxtek = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-03-05",
-  externalId: "6Bt10tFZyIkjWebcrReBMC",
-  externalLink: "https://open.spotify.com/album/6Bt10tFZyIkjWebcrReBMC",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Bt10tFZyIkjWebcrReBMC",
+      externalLink: "https://open.spotify.com/album/6Bt10tFZyIkjWebcrReBMC",
+    },
+  ],
 } as const satisfies Release

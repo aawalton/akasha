@@ -12,6 +12,11 @@ export const taylorSwift2LoveStoryTaylorSVersionElviraRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-03-23",
-  externalId: "3x4gaf5IPyFQNrxZY07CXA",
-  externalLink: "https://open.spotify.com/album/3x4gaf5IPyFQNrxZY07CXA",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3x4gaf5IPyFQNrxZY07CXA",
+      externalLink: "https://open.spotify.com/album/3x4gaf5IPyFQNrxZY07CXA",
+    },
+  ],
 } as const satisfies Release

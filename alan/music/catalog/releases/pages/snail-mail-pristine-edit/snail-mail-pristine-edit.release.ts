@@ -12,6 +12,11 @@ export const snailMailPristineEdit = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-03-21",
-  externalId: "1Q6X2j4XGxy1u5D2pehFh5",
-  externalLink: "https://open.spotify.com/album/1Q6X2j4XGxy1u5D2pehFh5",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Q6X2j4XGxy1u5D2pehFh5",
+      externalLink: "https://open.spotify.com/album/1Q6X2j4XGxy1u5D2pehFh5",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const siaThundercloudsMkRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-10-23",
-  externalId: "4juBcD36LP8AzJQ5Fm1AT7",
-  externalLink: "https://open.spotify.com/album/4juBcD36LP8AzJQ5Fm1AT7",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4juBcD36LP8AzJQ5Fm1AT7",
+      externalLink: "https://open.spotify.com/album/4juBcD36LP8AzJQ5Fm1AT7",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

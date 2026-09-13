@@ -12,7 +12,12 @@ export const siaUnstoppableTheRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-28",
-  externalId: "0o83iaAMM8MAPQ1LivQbtU",
-  externalLink: "https://open.spotify.com/album/0o83iaAMM8MAPQ1LivQbtU",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0o83iaAMM8MAPQ1LivQbtU",
+      externalLink: "https://open.spotify.com/album/0o83iaAMM8MAPQ1LivQbtU",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

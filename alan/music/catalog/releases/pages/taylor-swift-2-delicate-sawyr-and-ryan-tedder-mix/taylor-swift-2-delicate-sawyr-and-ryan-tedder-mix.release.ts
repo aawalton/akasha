@@ -12,6 +12,11 @@ export const taylorSwift2DelicateSawyrAndRyanTedderMix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-05-25",
-  externalId: "7HEXQkjBNiZilJcTWXwLOA",
-  externalLink: "https://open.spotify.com/album/7HEXQkjBNiZilJcTWXwLOA",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7HEXQkjBNiZilJcTWXwLOA",
+      externalLink: "https://open.spotify.com/album/7HEXQkjBNiZilJcTWXwLOA",
+    },
+  ],
 } as const satisfies Release

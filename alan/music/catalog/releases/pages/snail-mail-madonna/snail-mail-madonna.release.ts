@@ -12,6 +12,11 @@ export const snailMailMadonna = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-10-27",
-  externalId: "0Hi9hqNHvmk7hUPjrAQu0V",
-  externalLink: "https://open.spotify.com/album/0Hi9hqNHvmk7hUPjrAQu0V",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0Hi9hqNHvmk7hUPjrAQu0V",
+      externalLink: "https://open.spotify.com/album/0Hi9hqNHvmk7hUPjrAQu0V",
+    },
+  ],
 } as const satisfies Release

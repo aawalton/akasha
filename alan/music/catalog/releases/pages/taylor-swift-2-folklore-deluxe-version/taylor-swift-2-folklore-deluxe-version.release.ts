@@ -12,6 +12,11 @@ export const taylorSwift2FolkloreDeluxeVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-08-18",
-  externalId: "1pzvBxYgT6OVwJLtHkrdQK",
-  externalLink: "https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1pzvBxYgT6OVwJLtHkrdQK",
+      externalLink: "https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK",
+    },
+  ],
 } as const satisfies Release

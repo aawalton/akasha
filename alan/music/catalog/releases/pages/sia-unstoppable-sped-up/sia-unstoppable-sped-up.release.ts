@@ -12,7 +12,12 @@ export const siaUnstoppableSpedUp = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-27",
-  externalId: "6j7tZ4XuGr81dfaoAvNRdA",
-  externalLink: "https://open.spotify.com/album/6j7tZ4XuGr81dfaoAvNRdA",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6j7tZ4XuGr81dfaoAvNRdA",
+      externalLink: "https://open.spotify.com/album/6j7tZ4XuGr81dfaoAvNRdA",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

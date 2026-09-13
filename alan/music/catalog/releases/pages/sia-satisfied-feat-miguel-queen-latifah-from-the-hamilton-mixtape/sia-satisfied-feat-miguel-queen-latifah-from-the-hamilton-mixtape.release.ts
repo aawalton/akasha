@@ -12,7 +12,12 @@ export const siaSatisfiedFeatMiguelQueenLatifahFromTheHamiltonMixtape = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-11",
-  externalId: "7mdlorW25vJP1FmjzLzPR6",
-  externalLink: "https://open.spotify.com/album/7mdlorW25vJP1FmjzLzPR6",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7mdlorW25vJP1FmjzLzPR6",
+      externalLink: "https://open.spotify.com/album/7mdlorW25vJP1FmjzLzPR6",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

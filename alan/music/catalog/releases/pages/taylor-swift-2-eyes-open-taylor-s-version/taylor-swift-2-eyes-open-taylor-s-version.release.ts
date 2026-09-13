@@ -12,6 +12,11 @@ export const taylorSwift2EyesOpenTaylorSVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-12",
-  externalId: "6AeF9IkXFpHz5H3wUNX3L3",
-  externalLink: "https://open.spotify.com/album/6AeF9IkXFpHz5H3wUNX3L3",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6AeF9IkXFpHz5H3wUNX3L3",
+      externalLink: "https://open.spotify.com/album/6AeF9IkXFpHz5H3wUNX3L3",
+    },
+  ],
 } as const satisfies Release

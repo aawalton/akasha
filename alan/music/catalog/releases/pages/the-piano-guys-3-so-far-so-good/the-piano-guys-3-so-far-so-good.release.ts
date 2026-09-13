@@ -12,6 +12,11 @@ export const thePianoGuys3SoFarSoGood = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-01-01",
-  externalId: "1hMT6Q6mbvD1KlOccOM5cR",
-  externalLink: "https://open.spotify.com/album/1hMT6Q6mbvD1KlOccOM5cR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1hMT6Q6mbvD1KlOccOM5cR",
+      externalLink: "https://open.spotify.com/album/1hMT6Q6mbvD1KlOccOM5cR",
+    },
+  ],
 } as const satisfies Release

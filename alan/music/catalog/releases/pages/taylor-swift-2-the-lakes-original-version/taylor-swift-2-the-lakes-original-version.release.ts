@@ -12,6 +12,11 @@ export const taylorSwift2TheLakesOriginalVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-07-24",
-  externalId: "40cMfQDrBCDmOaWZuNEmKq",
-  externalLink: "https://open.spotify.com/album/40cMfQDrBCDmOaWZuNEmKq",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "40cMfQDrBCDmOaWZuNEmKq",
+      externalLink: "https://open.spotify.com/album/40cMfQDrBCDmOaWZuNEmKq",
+    },
+  ],
 } as const satisfies Release

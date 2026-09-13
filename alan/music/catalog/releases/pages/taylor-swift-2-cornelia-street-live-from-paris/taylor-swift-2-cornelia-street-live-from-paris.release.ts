@@ -12,6 +12,11 @@ export const taylorSwift2CorneliaStreetLiveFromParis = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-18",
-  externalId: "4CF0YV0iNyfKoDt9jHbGj7",
-  externalLink: "https://open.spotify.com/album/4CF0YV0iNyfKoDt9jHbGj7",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4CF0YV0iNyfKoDt9jHbGj7",
+      externalLink: "https://open.spotify.com/album/4CF0YV0iNyfKoDt9jHbGj7",
+    },
+  ],
 } as const satisfies Release

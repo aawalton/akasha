@@ -13,7 +13,12 @@ export const sylviaDaleyRubikSCube = {
   status: "completed",
   rank: "A",
   publishedAt: "2025-06-13",
-  externalId: "0SrF3yAkusA7eeBzLeYSzr",
-  externalLink: "https://open.spotify.com/album/0SrF3yAkusA7eeBzLeYSzr",
-  lastSyncedAt: "2025-11-15",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0SrF3yAkusA7eeBzLeYSzr",
+      externalLink: "https://open.spotify.com/album/0SrF3yAkusA7eeBzLeYSzr",
+      lastSyncedAt: "2025-11-15",
+    },
+  ],
 } as const satisfies Release

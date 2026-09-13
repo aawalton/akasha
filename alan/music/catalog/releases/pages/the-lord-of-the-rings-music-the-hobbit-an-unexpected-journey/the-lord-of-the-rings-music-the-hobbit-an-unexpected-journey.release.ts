@@ -12,7 +12,12 @@ export const theLordOfTheRingsMusicTheHobbitAnUnexpectedJourney = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2012-12-11",
-  externalId: "6v6VCAaPl3G08OeNhuk6za",
-  externalLink: "https://open.spotify.com/album/6v6VCAaPl3G08OeNhuk6za",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6v6VCAaPl3G08OeNhuk6za",
+      externalLink: "https://open.spotify.com/album/6v6VCAaPl3G08OeNhuk6za",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

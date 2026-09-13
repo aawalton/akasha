@@ -12,6 +12,11 @@ export const thePianoGuys3IAinTWorried = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-07-28",
-  externalId: "6MD5ohf7WTMyyUCvvI8ZFR",
-  externalLink: "https://open.spotify.com/album/6MD5ohf7WTMyyUCvvI8ZFR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6MD5ohf7WTMyyUCvvI8ZFR",
+      externalLink: "https://open.spotify.com/album/6MD5ohf7WTMyyUCvvI8ZFR",
+    },
+  ],
 } as const satisfies Release

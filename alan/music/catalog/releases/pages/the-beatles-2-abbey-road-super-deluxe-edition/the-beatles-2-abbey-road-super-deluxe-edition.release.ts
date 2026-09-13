@@ -12,6 +12,11 @@ export const theBeatles2AbbeyRoadSuperDeluxeEdition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-09-27",
-  externalId: "5iT3F2EhjVQVrO4PKhsP8c",
-  externalLink: "https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5iT3F2EhjVQVrO4PKhsP8c",
+      externalLink: "https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c",
+    },
+  ],
 } as const satisfies Release

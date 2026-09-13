@@ -12,6 +12,11 @@ export const thePianoGuys3RockMeetsRachmaninoffAfterSRachmaninoffSPreludeInCShar
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-09-11",
-  externalId: "7gdz3rYqaisrsYjIX9KSXN",
-  externalLink: "https://open.spotify.com/album/7gdz3rYqaisrsYjIX9KSXN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7gdz3rYqaisrsYjIX9KSXN",
+      externalLink: "https://open.spotify.com/album/7gdz3rYqaisrsYjIX9KSXN",
+    },
+  ],
 } as const satisfies Release

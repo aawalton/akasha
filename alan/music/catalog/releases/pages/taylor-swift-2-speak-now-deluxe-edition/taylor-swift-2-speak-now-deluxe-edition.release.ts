@@ -12,6 +12,11 @@ export const taylorSwift2SpeakNowDeluxeEdition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2010-10-25",
-  externalId: "5EpMjweRD573ASl7uNiHym",
-  externalLink: "https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5EpMjweRD573ASl7uNiHym",
+      externalLink: "https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const theBeatles2LetItBeNakedRemastered = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-01-01",
-  externalId: "4KYcffwC5HgjJLdpQU9SjC",
-  externalLink: "https://open.spotify.com/album/4KYcffwC5HgjJLdpQU9SjC",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4KYcffwC5HgjJLdpQU9SjC",
+      externalLink: "https://open.spotify.com/album/4KYcffwC5HgjJLdpQU9SjC",
+    },
+  ],
 } as const satisfies Release

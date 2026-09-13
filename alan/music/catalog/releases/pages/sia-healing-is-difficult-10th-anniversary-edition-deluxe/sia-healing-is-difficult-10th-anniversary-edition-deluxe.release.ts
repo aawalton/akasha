@@ -12,7 +12,12 @@ export const siaHealingIsDifficult10thAnniversaryEditionDeluxe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2003-01-01",
-  externalId: "077wcp5NLTdkFGSAttyfmG",
-  externalLink: "https://open.spotify.com/album/077wcp5NLTdkFGSAttyfmG",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "077wcp5NLTdkFGSAttyfmG",
+      externalLink: "https://open.spotify.com/album/077wcp5NLTdkFGSAttyfmG",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const snailMailLush = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-06-08",
-  externalId: "2ZlrWJ4Ev4DhG6mRo5h1AP",
-  externalLink: "https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2ZlrWJ4Ev4DhG6mRo5h1AP",
+      externalLink: "https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP",
+    },
+  ],
 } as const satisfies Release

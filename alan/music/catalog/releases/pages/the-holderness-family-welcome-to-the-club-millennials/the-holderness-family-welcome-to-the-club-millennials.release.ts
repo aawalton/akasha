@@ -12,7 +12,12 @@ export const theHoldernessFamilyWelcomeToTheClubMillennials = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-04-13",
-  externalId: "17RHu5RX4zG6gzMfM5Huve",
-  externalLink: "https://open.spotify.com/album/17RHu5RX4zG6gzMfM5Huve",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "17RHu5RX4zG6gzMfM5Huve",
+      externalLink: "https://open.spotify.com/album/17RHu5RX4zG6gzMfM5Huve",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

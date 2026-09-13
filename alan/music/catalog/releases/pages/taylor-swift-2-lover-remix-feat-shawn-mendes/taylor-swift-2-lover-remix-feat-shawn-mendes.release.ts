@@ -12,6 +12,11 @@ export const taylorSwift2LoverRemixFeatShawnMendes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-13",
-  externalId: "2UfvnX1YYeC2cExMQTMbXC",
-  externalLink: "https://open.spotify.com/album/2UfvnX1YYeC2cExMQTMbXC",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2UfvnX1YYeC2cExMQTMbXC",
+      externalLink: "https://open.spotify.com/album/2UfvnX1YYeC2cExMQTMbXC",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const thePianoGuys3TestDriveFromHowToTrainYourDragon = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-06-13",
-  externalId: "0zXNw8iyZ3lDZ1jCJpKL1V",
-  externalLink: "https://open.spotify.com/album/0zXNw8iyZ3lDZ1jCJpKL1V",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0zXNw8iyZ3lDZ1jCJpKL1V",
+      externalLink: "https://open.spotify.com/album/0zXNw8iyZ3lDZ1jCJpKL1V",
+    },
+  ],
 } as const satisfies Release

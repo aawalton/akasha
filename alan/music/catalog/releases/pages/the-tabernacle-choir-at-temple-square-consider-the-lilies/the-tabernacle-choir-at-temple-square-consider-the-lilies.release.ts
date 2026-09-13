@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareConsiderTheLilies = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2003-05-06",
-  externalId: "2KjH0jHwyXlV9mis5mcfJf",
-  externalLink: "https://open.spotify.com/album/2KjH0jHwyXlV9mis5mcfJf",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2KjH0jHwyXlV9mis5mcfJf",
+      externalLink: "https://open.spotify.com/album/2KjH0jHwyXlV9mis5mcfJf",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const thePianoGuys3WhenYouReGone = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-08-05",
-  externalId: "1hsrPDPkjpeHlI6Tf5tALg",
-  externalLink: "https://open.spotify.com/album/1hsrPDPkjpeHlI6Tf5tALg",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1hsrPDPkjpeHlI6Tf5tALg",
+      externalLink: "https://open.spotify.com/album/1hsrPDPkjpeHlI6Tf5tALg",
+    },
+  ],
 } as const satisfies Release

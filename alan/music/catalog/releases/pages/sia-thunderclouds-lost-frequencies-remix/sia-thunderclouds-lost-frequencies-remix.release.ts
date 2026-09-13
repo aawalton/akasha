@@ -12,7 +12,12 @@ export const siaThundercloudsLostFrequenciesRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-10-26",
-  externalId: "3ZCUD4V3CptIsIByS3QL8q",
-  externalLink: "https://open.spotify.com/album/3ZCUD4V3CptIsIByS3QL8q",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ZCUD4V3CptIsIByS3QL8q",
+      externalLink: "https://open.spotify.com/album/3ZCUD4V3CptIsIByS3QL8q",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

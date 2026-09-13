@@ -12,7 +12,12 @@ export const theHoldernessFamilyQuarantunesVolOne = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-17",
-  externalId: "0LiTRvhnM2a2AN1f3zrXEX",
-  externalLink: "https://open.spotify.com/album/0LiTRvhnM2a2AN1f3zrXEX",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0LiTRvhnM2a2AN1f3zrXEX",
+      externalLink: "https://open.spotify.com/album/0LiTRvhnM2a2AN1f3zrXEX",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

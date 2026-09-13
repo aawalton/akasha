@@ -12,7 +12,12 @@ export const siaGimmeChristmas = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-01",
-  externalId: "7ohxk0aNpEgt1t2cMRkxcX",
-  externalLink: "https://open.spotify.com/album/7ohxk0aNpEgt1t2cMRkxcX",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7ohxk0aNpEgt1t2cMRkxcX",
+      externalLink: "https://open.spotify.com/album/7ohxk0aNpEgt1t2cMRkxcX",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

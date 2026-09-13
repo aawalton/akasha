@@ -12,7 +12,12 @@ export const siaYouVeChanged = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2010-09-24",
-  externalId: "4ktb3nnXOGXNNnvWyjhhaq",
-  externalLink: "https://open.spotify.com/album/4ktb3nnXOGXNNnvWyjhhaq",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4ktb3nnXOGXNNnvWyjhhaq",
+      externalLink: "https://open.spotify.com/album/4ktb3nnXOGXNNnvWyjhhaq",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

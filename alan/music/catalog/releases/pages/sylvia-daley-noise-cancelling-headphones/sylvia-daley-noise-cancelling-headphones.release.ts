@@ -13,7 +13,12 @@ export const sylviaDaleyNoiseCancellingHeadphones = {
   status: "completed",
   rank: "A",
   publishedAt: "2025-04-02",
-  externalId: "3bxaT1jkEPA20noOfZBJ3e",
-  externalLink: "https://open.spotify.com/album/3bxaT1jkEPA20noOfZBJ3e",
-  lastSyncedAt: "2025-11-15",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3bxaT1jkEPA20noOfZBJ3e",
+      externalLink: "https://open.spotify.com/album/3bxaT1jkEPA20noOfZBJ3e",
+      lastSyncedAt: "2025-11-15",
+    },
+  ],
 } as const satisfies Release

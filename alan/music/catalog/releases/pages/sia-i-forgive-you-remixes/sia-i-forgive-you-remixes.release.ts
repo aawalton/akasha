@@ -12,7 +12,12 @@ export const siaIForgiveYouRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-27",
-  externalId: "57aBdbmYeOzOdKpVM1FihB",
-  externalLink: "https://open.spotify.com/album/57aBdbmYeOzOdKpVM1FihB",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "57aBdbmYeOzOdKpVM1FihB",
+      externalLink: "https://open.spotify.com/album/57aBdbmYeOzOdKpVM1FihB",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

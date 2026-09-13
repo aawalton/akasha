@@ -12,7 +12,12 @@ export const siaSomersault = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2007-06-20",
-  externalId: "2Gzi1MVApjmZw3FpNjDHAQ",
-  externalLink: "https://open.spotify.com/album/2Gzi1MVApjmZw3FpNjDHAQ",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Gzi1MVApjmZw3FpNjDHAQ",
+      externalLink: "https://open.spotify.com/album/2Gzi1MVApjmZw3FpNjDHAQ",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

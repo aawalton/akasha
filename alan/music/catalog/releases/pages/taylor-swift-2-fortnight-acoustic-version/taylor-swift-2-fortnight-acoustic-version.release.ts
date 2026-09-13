@@ -12,6 +12,11 @@ export const taylorSwift2FortnightAcousticVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-07-09",
-  externalId: "5IYMYmX28qpI6OEnQhdazX",
-  externalLink: "https://open.spotify.com/album/5IYMYmX28qpI6OEnQhdazX",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5IYMYmX28qpI6OEnQhdazX",
+      externalLink: "https://open.spotify.com/album/5IYMYmX28qpI6OEnQhdazX",
+    },
+  ],
 } as const satisfies Release

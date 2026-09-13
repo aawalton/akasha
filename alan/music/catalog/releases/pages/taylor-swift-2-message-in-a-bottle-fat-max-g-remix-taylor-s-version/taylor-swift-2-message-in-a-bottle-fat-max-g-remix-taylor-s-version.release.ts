@@ -12,6 +12,11 @@ export const taylorSwift2MessageInABottleFatMaxGRemixTaylorSVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-01-21",
-  externalId: "6d8IUfMwq7HGCnR2efXjdm",
-  externalLink: "https://open.spotify.com/album/6d8IUfMwq7HGCnR2efXjdm",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6d8IUfMwq7HGCnR2efXjdm",
+      externalLink: "https://open.spotify.com/album/6d8IUfMwq7HGCnR2efXjdm",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const snailMailSnailMailOnAudiotreeLive = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2017-06-15",
-  externalId: "0ItjJEW5I7DaUQC0ktMVcl",
-  externalLink: "https://open.spotify.com/album/0ItjJEW5I7DaUQC0ktMVcl",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0ItjJEW5I7DaUQC0ktMVcl",
+      externalLink: "https://open.spotify.com/album/0ItjJEW5I7DaUQC0ktMVcl",
+    },
+  ],
 } as const satisfies Release

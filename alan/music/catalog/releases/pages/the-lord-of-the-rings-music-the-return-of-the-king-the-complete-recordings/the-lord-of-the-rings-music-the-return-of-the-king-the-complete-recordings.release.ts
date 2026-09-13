@@ -13,7 +13,12 @@ export const theLordOfTheRingsMusicTheReturnOfTheKingTheCompleteRecordings = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2003-11-24",
-  externalId: "2Re6RMBEfD8iv1HMxLMdzI",
-  externalLink: "https://open.spotify.com/album/2Re6RMBEfD8iv1HMxLMdzI",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Re6RMBEfD8iv1HMxLMdzI",
+      externalLink: "https://open.spotify.com/album/2Re6RMBEfD8iv1HMxLMdzI",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

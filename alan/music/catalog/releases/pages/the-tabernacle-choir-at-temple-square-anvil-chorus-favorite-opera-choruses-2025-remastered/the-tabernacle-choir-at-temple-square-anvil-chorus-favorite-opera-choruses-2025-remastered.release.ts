@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareAnvilChorusFavoriteOperaChoruses202
   unit: "minutes",
   status: "not-started",
   publishedAt: "1967-12-26",
-  externalId: "4UrNlquTYE4jjDN5t2pBeA",
-  externalLink: "https://open.spotify.com/album/4UrNlquTYE4jjDN5t2pBeA",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4UrNlquTYE4jjDN5t2pBeA",
+      externalLink: "https://open.spotify.com/album/4UrNlquTYE4jjDN5t2pBeA",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

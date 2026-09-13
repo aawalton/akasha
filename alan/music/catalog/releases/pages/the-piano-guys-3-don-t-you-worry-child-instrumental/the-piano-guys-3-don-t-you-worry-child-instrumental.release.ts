@@ -12,6 +12,11 @@ export const thePianoGuys3DonTYouWorryChildInstrumental = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-07-30",
-  externalId: "48yKxFKvUmuBx99afSoJi0",
-  externalLink: "https://open.spotify.com/album/48yKxFKvUmuBx99afSoJi0",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "48yKxFKvUmuBx99afSoJi0",
+      externalLink: "https://open.spotify.com/album/48yKxFKvUmuBx99afSoJi0",
+    },
+  ],
 } as const satisfies Release

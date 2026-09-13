@@ -12,7 +12,12 @@ export const siaYouReNeverFullyDressedWithoutASmile2014FilmVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-10-22",
-  externalId: "3S9fcmRyIt5K4jwh7wXmKG",
-  externalLink: "https://open.spotify.com/album/3S9fcmRyIt5K4jwh7wXmKG",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3S9fcmRyIt5K4jwh7wXmKG",
+      externalLink: "https://open.spotify.com/album/3S9fcmRyIt5K4jwh7wXmKG",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

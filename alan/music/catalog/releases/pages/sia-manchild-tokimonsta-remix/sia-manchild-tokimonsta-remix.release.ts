@@ -12,7 +12,12 @@ export const siaManchildTokimonstaRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-01",
-  externalId: "52328WXPKDhZVhSeCsl91E",
-  externalLink: "https://open.spotify.com/album/52328WXPKDhZVhSeCsl91E",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "52328WXPKDhZVhSeCsl91E",
+      externalLink: "https://open.spotify.com/album/52328WXPKDhZVhSeCsl91E",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

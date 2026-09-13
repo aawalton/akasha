@@ -12,6 +12,11 @@ export const theBeatles2RubberSoulRemastered2009 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1965-12-03",
-  externalId: "50o7kf2wLwVmOTVYJOTplm",
-  externalLink: "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "50o7kf2wLwVmOTVYJOTplm",
+      externalLink: "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm",
+    },
+  ],
 } as const satisfies Release

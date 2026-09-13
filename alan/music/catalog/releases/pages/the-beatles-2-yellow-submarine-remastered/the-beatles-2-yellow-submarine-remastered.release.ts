@@ -12,6 +12,11 @@ export const theBeatles2YellowSubmarineRemastered = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1969-01-17",
-  externalId: "1gKZ5A1ndFqbcrWtW85cCy",
-  externalLink: "https://open.spotify.com/album/1gKZ5A1ndFqbcrWtW85cCy",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1gKZ5A1ndFqbcrWtW85cCy",
+      externalLink: "https://open.spotify.com/album/1gKZ5A1ndFqbcrWtW85cCy",
+    },
+  ],
 } as const satisfies Release

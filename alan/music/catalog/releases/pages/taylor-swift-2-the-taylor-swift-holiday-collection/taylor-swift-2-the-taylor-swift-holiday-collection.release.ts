@@ -12,6 +12,11 @@ export const taylorSwift2TheTaylorSwiftHolidayCollection = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-12-02",
-  externalId: "7vzYp7FrKnTRoktBYsx9SF",
-  externalLink: "https://open.spotify.com/album/7vzYp7FrKnTRoktBYsx9SF",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7vzYp7FrKnTRoktBYsx9SF",
+      externalLink: "https://open.spotify.com/album/7vzYp7FrKnTRoktBYsx9SF",
+    },
+  ],
 } as const satisfies Release

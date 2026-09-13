@@ -12,7 +12,12 @@ export const siaLetSLove = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-09-11",
-  externalId: "4t9C75dy0UtR4JE7vNYQRr",
-  externalLink: "https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4t9C75dy0UtR4JE7vNYQRr",
+      externalLink: "https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

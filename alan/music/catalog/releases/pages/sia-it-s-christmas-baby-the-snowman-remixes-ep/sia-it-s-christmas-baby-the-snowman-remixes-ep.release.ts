@@ -12,7 +12,12 @@ export const siaItSChristmasBabyTheSnowmanRemixesEp = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-11-22",
-  externalId: "5InDNvtWWOUeH5khdHBFnb",
-  externalLink: "https://open.spotify.com/album/5InDNvtWWOUeH5khdHBFnb",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5InDNvtWWOUeH5khdHBFnb",
+      externalLink: "https://open.spotify.com/album/5InDNvtWWOUeH5khdHBFnb",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

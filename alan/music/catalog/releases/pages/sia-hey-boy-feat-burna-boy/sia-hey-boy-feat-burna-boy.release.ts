@@ -12,7 +12,12 @@ export const siaHeyBoyFeatBurnaBoy = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-01-14",
-  externalId: "6D5QsBpU0KqSssaD1CH64Q",
-  externalLink: "https://open.spotify.com/album/6D5QsBpU0KqSssaD1CH64Q",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6D5QsBpU0KqSssaD1CH64Q",
+      externalLink: "https://open.spotify.com/album/6D5QsBpU0KqSssaD1CH64Q",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const siaHeyBoy = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-19",
-  externalId: "3khsmnYmmsMJ0IMW8OvLKF",
-  externalLink: "https://open.spotify.com/album/3khsmnYmmsMJ0IMW8OvLKF",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3khsmnYmmsMJ0IMW8OvLKF",
+      externalLink: "https://open.spotify.com/album/3khsmnYmmsMJ0IMW8OvLKF",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

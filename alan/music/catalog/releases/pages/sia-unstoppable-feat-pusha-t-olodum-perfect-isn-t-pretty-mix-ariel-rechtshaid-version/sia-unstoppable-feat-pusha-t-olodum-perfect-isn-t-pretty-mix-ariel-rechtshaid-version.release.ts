@@ -13,7 +13,12 @@ export const siaUnstoppableFeatPushaTOlodumPerfectIsnTPrettyMixArielRechtshaidVe
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-07-13",
-  externalId: "0la6BRXH5AvwJ83vZLwkFW",
-  externalLink: "https://open.spotify.com/album/0la6BRXH5AvwJ83vZLwkFW",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0la6BRXH5AvwJ83vZLwkFW",
+      externalLink: "https://open.spotify.com/album/0la6BRXH5AvwJ83vZLwkFW",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

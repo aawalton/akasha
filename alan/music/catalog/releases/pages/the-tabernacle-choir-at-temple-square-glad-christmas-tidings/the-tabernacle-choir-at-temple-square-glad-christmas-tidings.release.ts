@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareGladChristmasTidings = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2011-09-06",
-  externalId: "3PK9LfjX2ULQFrDpCy8l4h",
-  externalLink: "https://open.spotify.com/album/3PK9LfjX2ULQFrDpCy8l4h",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3PK9LfjX2ULQFrDpCy8l4h",
+      externalLink: "https://open.spotify.com/album/3PK9LfjX2ULQFrDpCy8l4h",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

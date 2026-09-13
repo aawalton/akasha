@@ -12,6 +12,11 @@ export const thePianoGuys3SomeoneYouLoved = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-08-23",
-  externalId: "6ueqbqheTXOv1vkf0KUWZT",
-  externalLink: "https://open.spotify.com/album/6ueqbqheTXOv1vkf0KUWZT",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6ueqbqheTXOv1vkf0KUWZT",
+      externalLink: "https://open.spotify.com/album/6ueqbqheTXOv1vkf0KUWZT",
+    },
+  ],
 } as const satisfies Release

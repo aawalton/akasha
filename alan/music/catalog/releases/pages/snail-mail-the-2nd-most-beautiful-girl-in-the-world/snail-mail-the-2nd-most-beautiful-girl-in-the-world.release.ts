@@ -12,6 +12,11 @@ export const snailMailThe2ndMostBeautifulGirlInTheWorld = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-06-23",
-  externalId: "4YixIuvYEJY1bKBFcCRzgN",
-  externalLink: "https://open.spotify.com/album/4YixIuvYEJY1bKBFcCRzgN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4YixIuvYEJY1bKBFcCRzgN",
+      externalLink: "https://open.spotify.com/album/4YixIuvYEJY1bKBFcCRzgN",
+    },
+  ],
 } as const satisfies Release

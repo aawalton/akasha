@@ -12,6 +12,11 @@ export const taylorSwift2WildestDreamsR3habRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-01-01",
-  externalId: "4vkDxA22dFzObjOY1nnXPk",
-  externalLink: "https://open.spotify.com/album/4vkDxA22dFzObjOY1nnXPk",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4vkDxA22dFzObjOY1nnXPk",
+      externalLink: "https://open.spotify.com/album/4vkDxA22dFzObjOY1nnXPk",
+    },
+  ],
 } as const satisfies Release

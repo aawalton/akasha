@@ -12,6 +12,11 @@ export const thePianoGuys3WeddingSeason = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-05-09",
-  externalId: "3as8She7GPehem51TTF585",
-  externalLink: "https://open.spotify.com/album/3as8She7GPehem51TTF585",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3as8She7GPehem51TTF585",
+      externalLink: "https://open.spotify.com/album/3as8She7GPehem51TTF585",
+    },
+  ],
 } as const satisfies Release

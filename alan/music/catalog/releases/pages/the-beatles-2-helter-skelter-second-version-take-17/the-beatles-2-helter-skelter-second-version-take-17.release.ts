@@ -12,6 +12,11 @@ export const theBeatles2HelterSkelterSecondVersionTake17 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-09-19",
-  externalId: "3LgOIvd2pEdCbxqmpqQktL",
-  externalLink: "https://open.spotify.com/album/3LgOIvd2pEdCbxqmpqQktL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3LgOIvd2pEdCbxqmpqQktL",
+      externalLink: "https://open.spotify.com/album/3LgOIvd2pEdCbxqmpqQktL",
+    },
+  ],
 } as const satisfies Release

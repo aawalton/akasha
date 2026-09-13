@@ -12,6 +12,11 @@ export const taylorSwift2WildestDreamsTaylorSVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-09-17",
-  externalId: "5hxKw2PurC0i1VVJMAntDU",
-  externalLink: "https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5hxKw2PurC0i1VVJMAntDU",
+      externalLink: "https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareChristmasDayInTheMorning = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-10-16",
-  externalId: "2g0TTgF51qQDQZyiRPPAda",
-  externalLink: "https://open.spotify.com/album/2g0TTgF51qQDQZyiRPPAda",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2g0TTgF51qQDQZyiRPPAda",
+      externalLink: "https://open.spotify.com/album/2g0TTgF51qQDQZyiRPPAda",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

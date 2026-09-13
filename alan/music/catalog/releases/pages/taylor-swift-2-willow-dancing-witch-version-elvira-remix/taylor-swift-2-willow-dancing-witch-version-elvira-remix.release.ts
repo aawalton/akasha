@@ -12,6 +12,11 @@ export const taylorSwift2WillowDancingWitchVersionElviraRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-13",
-  externalId: "23u5rTisTUAWuQxaDft11P",
-  externalLink: "https://open.spotify.com/album/23u5rTisTUAWuQxaDft11P",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "23u5rTisTUAWuQxaDft11P",
+      externalLink: "https://open.spotify.com/album/23u5rTisTUAWuQxaDft11P",
+    },
+  ],
 } as const satisfies Release

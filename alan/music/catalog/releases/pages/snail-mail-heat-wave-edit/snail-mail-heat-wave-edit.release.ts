@@ -12,6 +12,11 @@ export const snailMailHeatWaveEdit = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-04-26",
-  externalId: "4nOZ4HWtYXyH5ITPhtgYYn",
-  externalLink: "https://open.spotify.com/album/4nOZ4HWtYXyH5ITPhtgYYn",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4nOZ4HWtYXyH5ITPhtgYYn",
+      externalLink: "https://open.spotify.com/album/4nOZ4HWtYXyH5ITPhtgYYn",
+    },
+  ],
 } as const satisfies Release

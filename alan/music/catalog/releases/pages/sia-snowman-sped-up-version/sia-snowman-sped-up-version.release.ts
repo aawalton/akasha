@@ -12,7 +12,12 @@ export const siaSnowmanSpedUpVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-07",
-  externalId: "4ZGx4gR1GCT5i5zOHsRX6T",
-  externalLink: "https://open.spotify.com/album/4ZGx4gR1GCT5i5zOHsRX6T",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4ZGx4gR1GCT5i5zOHsRX6T",
+      externalLink: "https://open.spotify.com/album/4ZGx4gR1GCT5i5zOHsRX6T",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

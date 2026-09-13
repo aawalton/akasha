@@ -13,6 +13,11 @@ export const snailMailPristine = {
   status: "not-started",
   rank: "D",
   publishedAt: "2018-03-21",
-  externalId: "7lyLXAeuKA2N3TdcUceYEh",
-  externalLink: "https://open.spotify.com/album/7lyLXAeuKA2N3TdcUceYEh",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7lyLXAeuKA2N3TdcUceYEh",
+      externalLink: "https://open.spotify.com/album/7lyLXAeuKA2N3TdcUceYEh",
+    },
+  ],
 } as const satisfies Release

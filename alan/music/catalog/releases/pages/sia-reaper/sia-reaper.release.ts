@@ -12,7 +12,12 @@ export const siaReaper = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-01-07",
-  externalId: "4cZvCzmaSXgx42AMO222Nu",
-  externalLink: "https://open.spotify.com/album/4cZvCzmaSXgx42AMO222Nu",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4cZvCzmaSXgx42AMO222Nu",
+      externalLink: "https://open.spotify.com/album/4cZvCzmaSXgx42AMO222Nu",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

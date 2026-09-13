@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareAmericaSChoir = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2004-07-13",
-  externalId: "6hbycX1PENcvVxcQ7EoFCh",
-  externalLink: "https://open.spotify.com/album/6hbycX1PENcvVxcQ7EoFCh",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6hbycX1PENcvVxcQ7EoFCh",
+      externalLink: "https://open.spotify.com/album/6hbycX1PENcvVxcQ7EoFCh",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const siaTheGreatestFeatKendrickLamarKdaRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-12-23",
-  externalId: "6xkWiBoloz4Yry0onALtJO",
-  externalLink: "https://open.spotify.com/album/6xkWiBoloz4Yry0onALtJO",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6xkWiBoloz4Yry0onALtJO",
+      externalLink: "https://open.spotify.com/album/6xkWiBoloz4Yry0onALtJO",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const theHoldernessFamilyBestOf2022 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-01-04",
-  externalId: "6KDOeB7js8yCDMXNfZLdE6",
-  externalLink: "https://open.spotify.com/album/6KDOeB7js8yCDMXNfZLdE6",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6KDOeB7js8yCDMXNfZLdE6",
+      externalLink: "https://open.spotify.com/album/6KDOeB7js8yCDMXNfZLdE6",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

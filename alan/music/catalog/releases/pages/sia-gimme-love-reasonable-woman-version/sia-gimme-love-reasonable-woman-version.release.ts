@@ -12,7 +12,12 @@ export const siaGimmeLoveReasonableWomanVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-09-29",
-  externalId: "7vBUOM5FjyNAnbmxZTSWOu",
-  externalLink: "https://open.spotify.com/album/7vBUOM5FjyNAnbmxZTSWOu",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7vBUOM5FjyNAnbmxZTSWOu",
+      externalLink: "https://open.spotify.com/album/7vBUOM5FjyNAnbmxZTSWOu",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

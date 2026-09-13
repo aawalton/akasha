@@ -12,6 +12,11 @@ export const taylorSwift2SpeakNowWorldTourLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2010-10-25",
-  externalId: "6fyR4wBPwLHKcRtxgd4sGh",
-  externalLink: "https://open.spotify.com/album/6fyR4wBPwLHKcRtxgd4sGh",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6fyR4wBPwLHKcRtxgd4sGh",
+      externalLink: "https://open.spotify.com/album/6fyR4wBPwLHKcRtxgd4sGh",
+    },
+  ],
 } as const satisfies Release

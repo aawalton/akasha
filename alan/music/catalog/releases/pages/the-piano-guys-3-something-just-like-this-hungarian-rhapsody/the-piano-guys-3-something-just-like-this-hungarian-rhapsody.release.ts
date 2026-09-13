@@ -12,6 +12,11 @@ export const thePianoGuys3SomethingJustLikeThisHungarianRhapsody = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-01-26",
-  externalId: "1F1IX4M5peq9lduLhUriXu",
-  externalLink: "https://open.spotify.com/album/1F1IX4M5peq9lduLhUriXu",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1F1IX4M5peq9lduLhUriXu",
+      externalLink: "https://open.spotify.com/album/1F1IX4M5peq9lduLhUriXu",
+    },
+  ],
 } as const satisfies Release

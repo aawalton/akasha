@@ -12,6 +12,11 @@ export const thePianoGuys3WhatAreWordsFeatPeterHollensEvynneHollens = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-05-13",
-  externalId: "79KdrBJ8WgikPcPZH5KUNL",
-  externalLink: "https://open.spotify.com/album/79KdrBJ8WgikPcPZH5KUNL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "79KdrBJ8WgikPcPZH5KUNL",
+      externalLink: "https://open.spotify.com/album/79KdrBJ8WgikPcPZH5KUNL",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const taylorSwift2Willow90STrendRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-06-14",
-  externalId: "5C41iVpK8HXCe3qlLL3I38",
-  externalLink: "https://open.spotify.com/album/5C41iVpK8HXCe3qlLL3I38",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5C41iVpK8HXCe3qlLL3I38",
+      externalLink: "https://open.spotify.com/album/5C41iVpK8HXCe3qlLL3I38",
+    },
+  ],
 } as const satisfies Release

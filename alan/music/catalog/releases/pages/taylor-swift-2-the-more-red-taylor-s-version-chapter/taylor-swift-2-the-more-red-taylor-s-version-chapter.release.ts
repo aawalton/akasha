@@ -12,6 +12,11 @@ export const taylorSwift2TheMoreRedTaylorSVersionChapter = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-12",
-  externalId: "1qEs8XpGGduMUF7jfAs5l3",
-  externalLink: "https://open.spotify.com/album/1qEs8XpGGduMUF7jfAs5l3",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1qEs8XpGGduMUF7jfAs5l3",
+      externalLink: "https://open.spotify.com/album/1qEs8XpGGduMUF7jfAs5l3",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const snailMailSpotifySingles = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-06-29",
-  externalId: "0mR7W6agdgHVdqHdz7KMRN",
-  externalLink: "https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0mR7W6agdgHVdqHdz7KMRN",
+      externalLink: "https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN",
+    },
+  ],
 } as const satisfies Release

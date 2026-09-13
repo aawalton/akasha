@@ -12,6 +12,11 @@ export const snailMailBenFranklin = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-10-13",
-  externalId: "2VfCI8EO1rfuGF0VmcM57O",
-  externalLink: "https://open.spotify.com/album/2VfCI8EO1rfuGF0VmcM57O",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2VfCI8EO1rfuGF0VmcM57O",
+      externalLink: "https://open.spotify.com/album/2VfCI8EO1rfuGF0VmcM57O",
+    },
+  ],
 } as const satisfies Release

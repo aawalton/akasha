@@ -12,7 +12,12 @@ export const siaLetSLoveCesqeauxRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-30",
-  externalId: "3HDqvoFE42A8Z8Hg8nC9FC",
-  externalLink: "https://open.spotify.com/album/3HDqvoFE42A8Z8Hg8nC9FC",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3HDqvoFE42A8Z8Hg8nC9FC",
+      externalLink: "https://open.spotify.com/album/3HDqvoFE42A8Z8Hg8nC9FC",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

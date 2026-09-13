@@ -12,7 +12,12 @@ export const siaIfTheEarthIsSpinningJamesHurrKarstenSollorsRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-04-25",
-  externalId: "1DGaaOVz8va4ekb7TogenX",
-  externalLink: "https://open.spotify.com/album/1DGaaOVz8va4ekb7TogenX",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1DGaaOVz8va4ekb7TogenX",
+      externalLink: "https://open.spotify.com/album/1DGaaOVz8va4ekb7TogenX",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

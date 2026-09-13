@@ -12,6 +12,11 @@ export const thePianoGuys3Limitless = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-11-09",
-  externalId: "4PPZ216h9xlTOsjXPUMlPw",
-  externalLink: "https://open.spotify.com/album/4PPZ216h9xlTOsjXPUMlPw",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4PPZ216h9xlTOsjXPUMlPw",
+      externalLink: "https://open.spotify.com/album/4PPZ216h9xlTOsjXPUMlPw",
+    },
+  ],
 } as const satisfies Release

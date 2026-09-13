@@ -12,6 +12,11 @@ export const taylorSwift2ChristmasTreeFarmOldTimeyVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-22",
-  externalId: "5f4rbgZJhYp4hgswKri00b",
-  externalLink: "https://open.spotify.com/album/5f4rbgZJhYp4hgswKri00b",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5f4rbgZJhYp4hgswKri00b",
+      externalLink: "https://open.spotify.com/album/5f4rbgZJhYp4hgswKri00b",
+    },
+  ],
 } as const satisfies Release

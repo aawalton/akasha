@@ -12,7 +12,12 @@ export const siaGimmeLoveSpedUpVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-01",
-  externalId: "2nfcNzckHUiViMcWQ1Fdqw",
-  externalLink: "https://open.spotify.com/album/2nfcNzckHUiViMcWQ1Fdqw",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2nfcNzckHUiViMcWQ1Fdqw",
+      externalLink: "https://open.spotify.com/album/2nfcNzckHUiViMcWQ1Fdqw",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const theBeatles2TheBeatlesRemastered = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1968-11-22",
-  externalId: "1klALx0u4AavZNEvC4LrTL",
-  externalLink: "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1klALx0u4AavZNEvC4LrTL",
+      externalLink: "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareChristmasWithTheChoirAndOrchestraVo
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-08-15",
-  externalId: "52iODMaecPeef2NOgrVZ9c",
-  externalLink: "https://open.spotify.com/album/52iODMaecPeef2NOgrVZ9c",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "52iODMaecPeef2NOgrVZ9c",
+      externalLink: "https://open.spotify.com/album/52iODMaecPeef2NOgrVZ9c",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

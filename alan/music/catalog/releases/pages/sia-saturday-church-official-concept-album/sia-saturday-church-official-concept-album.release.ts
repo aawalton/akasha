@@ -12,7 +12,12 @@ export const siaSaturdayChurchOfficialConceptAlbum = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-08-22",
-  externalId: "5MUbWieT5aVx5oVtrSgHxG",
-  externalLink: "https://open.spotify.com/album/5MUbWieT5aVx5oVtrSgHxG",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5MUbWieT5aVx5oVtrSgHxG",
+      externalLink: "https://open.spotify.com/album/5MUbWieT5aVx5oVtrSgHxG",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

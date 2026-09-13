@@ -12,6 +12,11 @@ export const taylorSwift2YouAllOverMeFeatMarenMorrisTaylorSVersionFromTheVault =
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-03-26",
-  externalId: "5xd9LleY1wqsgKVTwLoXYI",
-  externalLink: "https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5xd9LleY1wqsgKVTwLoXYI",
+      externalLink: "https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI",
+    },
+  ],
 } as const satisfies Release

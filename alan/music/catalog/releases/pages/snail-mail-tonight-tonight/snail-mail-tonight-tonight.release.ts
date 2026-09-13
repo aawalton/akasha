@@ -12,6 +12,11 @@ export const snailMailTonightTonight = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-07-31",
-  externalId: "6uA83XxtcMRScfFCt0xV8m",
-  externalLink: "https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6uA83XxtcMRScfFCt0xV8m",
+      externalLink: "https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m",
+    },
+  ],
 } as const satisfies Release

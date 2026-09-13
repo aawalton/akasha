@@ -12,6 +12,11 @@ export const theBeatles2RevolverSuperDeluxe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-28",
-  externalId: "7C221PnWhYGv8Tc0xSbfdc",
-  externalLink: "https://open.spotify.com/album/7C221PnWhYGv8Tc0xSbfdc",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7C221PnWhYGv8Tc0xSbfdc",
+      externalLink: "https://open.spotify.com/album/7C221PnWhYGv8Tc0xSbfdc",
+    },
+  ],
 } as const satisfies Release

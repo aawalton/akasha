@@ -12,6 +12,11 @@ export const taylorSwift2CardiganCabinInCandlelightVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-30",
-  externalId: "3kqqalY92DENp7FiztDOjH",
-  externalLink: "https://open.spotify.com/album/3kqqalY92DENp7FiztDOjH",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3kqqalY92DENp7FiztDOjH",
+      externalLink: "https://open.spotify.com/album/3kqqalY92DENp7FiztDOjH",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const thePianoGuys3GoldenHour = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-21",
-  externalId: "54UrEWWtZyZLVN3BWZHSwL",
-  externalLink: "https://open.spotify.com/album/54UrEWWtZyZLVN3BWZHSwL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "54UrEWWtZyZLVN3BWZHSwL",
+      externalLink: "https://open.spotify.com/album/54UrEWWtZyZLVN3BWZHSwL",
+    },
+  ],
 } as const satisfies Release

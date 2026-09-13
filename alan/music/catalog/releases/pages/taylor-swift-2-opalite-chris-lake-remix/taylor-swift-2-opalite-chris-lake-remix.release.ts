@@ -12,7 +12,12 @@ export const taylorSwift2OpaliteChrisLakeRemix = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2026-02-20",
-  externalId: "1OioQUIAwZ6PE2V7UJUHX2",
-  externalLink: "https://open.spotify.com/album/1OioQUIAwZ6PE2V7UJUHX2",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1OioQUIAwZ6PE2V7UJUHX2",
+      externalLink: "https://open.spotify.com/album/1OioQUIAwZ6PE2V7UJUHX2",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

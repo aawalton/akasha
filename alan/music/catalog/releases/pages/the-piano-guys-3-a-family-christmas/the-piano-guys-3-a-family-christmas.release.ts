@@ -12,6 +12,11 @@ export const thePianoGuys3AFamilyChristmas = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-10-21",
-  externalId: "1NrV9Ijb8Dk4yWv5LdYT09",
-  externalLink: "https://open.spotify.com/album/1NrV9Ijb8Dk4yWv5LdYT09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1NrV9Ijb8Dk4yWv5LdYT09",
+      externalLink: "https://open.spotify.com/album/1NrV9Ijb8Dk4yWv5LdYT09",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const siaWaterfall = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-03-10",
-  externalId: "4j8Wr17zfsvxEpeTXHbrmL",
-  externalLink: "https://open.spotify.com/album/4j8Wr17zfsvxEpeTXHbrmL",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4j8Wr17zfsvxEpeTXHbrmL",
+      externalLink: "https://open.spotify.com/album/4j8Wr17zfsvxEpeTXHbrmL",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

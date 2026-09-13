@@ -12,6 +12,11 @@ export const theBeatles21Remastered = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2000-11-13",
-  externalId: "7vEJAtP3KgKSpOHVgwm3Eh",
-  externalLink: "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7vEJAtP3KgKSpOHVgwm3Eh",
+      externalLink: "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh",
+    },
+  ],
 } as const satisfies Release

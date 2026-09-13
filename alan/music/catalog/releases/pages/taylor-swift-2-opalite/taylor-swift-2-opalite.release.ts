@@ -12,7 +12,12 @@ export const taylorSwift2Opalite = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2026-02-06",
-  externalId: "3evV0p6SkiOZFt1rtWRco9",
-  externalLink: "https://open.spotify.com/album/3evV0p6SkiOZFt1rtWRco9",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3evV0p6SkiOZFt1rtWRco9",
+      externalLink: "https://open.spotify.com/album/3evV0p6SkiOZFt1rtWRco9",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

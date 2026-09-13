@@ -12,6 +12,11 @@ export const theBeatles2MagicalMysteryTourRemastered = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1967-11-27",
-  externalId: "2BtE7qm1qzM80p9vLSiXkj",
-  externalLink: "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2BtE7qm1qzM80p9vLSiXkj",
+      externalLink: "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj",
+    },
+  ],
 } as const satisfies Release

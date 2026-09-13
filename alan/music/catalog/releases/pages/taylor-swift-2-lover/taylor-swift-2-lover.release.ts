@@ -12,6 +12,11 @@ export const taylorSwift2Lover = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-08-23",
-  externalId: "1NAmidJlEaVgA3MpcPFYGq",
-  externalLink: "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1NAmidJlEaVgA3MpcPFYGq",
+      externalLink: "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq",
+    },
+  ],
 } as const satisfies Release

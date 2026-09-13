@@ -12,6 +12,11 @@ export const taylorSwift2FearlessPlatinumEdition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-11-11",
-  externalId: "43OpbkiiIxJO8ktIB777Nn",
-  externalLink: "https://open.spotify.com/album/43OpbkiiIxJO8ktIB777Nn",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "43OpbkiiIxJO8ktIB777Nn",
+      externalLink: "https://open.spotify.com/album/43OpbkiiIxJO8ktIB777Nn",
+    },
+  ],
 } as const satisfies Release

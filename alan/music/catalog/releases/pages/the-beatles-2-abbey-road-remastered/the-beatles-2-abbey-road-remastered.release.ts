@@ -12,6 +12,11 @@ export const theBeatles2AbbeyRoadRemastered = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1969-09-26",
-  externalId: "0ETFjACtuP2ADo6LFhL6HN",
-  externalLink: "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0ETFjACtuP2ADo6LFhL6HN",
+      externalLink: "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const thePianoGuys3Unstoppable = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-04",
-  externalId: "5c64PoL4sf6fNsiwzsiDwK",
-  externalLink: "https://open.spotify.com/album/5c64PoL4sf6fNsiwzsiDwK",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5c64PoL4sf6fNsiwzsiDwK",
+      externalLink: "https://open.spotify.com/album/5c64PoL4sf6fNsiwzsiDwK",
+    },
+  ],
 } as const satisfies Release

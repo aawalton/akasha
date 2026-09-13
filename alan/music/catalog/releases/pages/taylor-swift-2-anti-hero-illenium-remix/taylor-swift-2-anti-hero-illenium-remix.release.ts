@@ -12,6 +12,11 @@ export const taylorSwift2AntiHeroIlleniumRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-18",
-  externalId: "20wq0dFrgEhhulGXqnb4A6",
-  externalLink: "https://open.spotify.com/album/20wq0dFrgEhhulGXqnb4A6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "20wq0dFrgEhhulGXqnb4A6",
+      externalLink: "https://open.spotify.com/album/20wq0dFrgEhhulGXqnb4A6",
+    },
+  ],
 } as const satisfies Release

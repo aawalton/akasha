@@ -12,7 +12,12 @@ export const siaUnstoppableSlowedReverb = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-26",
-  externalId: "6EU7M6V56X2zp4LHlpHESC",
-  externalLink: "https://open.spotify.com/album/6EU7M6V56X2zp4LHlpHESC",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6EU7M6V56X2zp4LHlpHESC",
+      externalLink: "https://open.spotify.com/album/6EU7M6V56X2zp4LHlpHESC",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

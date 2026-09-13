@@ -12,7 +12,12 @@ export const siaRidingOnMyBikeFromAtHomeWithTheKids = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-08-21",
-  externalId: "68CycIbYcixJDbzd5xyeku",
-  externalLink: "https://open.spotify.com/album/68CycIbYcixJDbzd5xyeku",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "68CycIbYcixJDbzd5xyeku",
+      externalLink: "https://open.spotify.com/album/68CycIbYcixJDbzd5xyeku",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

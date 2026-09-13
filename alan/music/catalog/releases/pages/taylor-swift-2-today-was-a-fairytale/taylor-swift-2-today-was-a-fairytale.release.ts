@@ -12,6 +12,11 @@ export const taylorSwift2TodayWasAFairytale = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2010-01-01",
-  externalId: "2JK0T590oG0pJckY9HRniL",
-  externalLink: "https://open.spotify.com/album/2JK0T590oG0pJckY9HRniL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2JK0T590oG0pJckY9HRniL",
+      externalLink: "https://open.spotify.com/album/2JK0T590oG0pJckY9HRniL",
+    },
+  ],
 } as const satisfies Release

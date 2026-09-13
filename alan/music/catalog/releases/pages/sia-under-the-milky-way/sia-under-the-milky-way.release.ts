@@ -12,7 +12,12 @@ export const siaUnderTheMilkyWay = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2010-01-26",
-  externalId: "1qmlkgO15eRvbMI6ohZSy8",
-  externalLink: "https://open.spotify.com/album/1qmlkgO15eRvbMI6ohZSy8",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1qmlkgO15eRvbMI6ohZSy8",
+      externalLink: "https://open.spotify.com/album/1qmlkgO15eRvbMI6ohZSy8",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

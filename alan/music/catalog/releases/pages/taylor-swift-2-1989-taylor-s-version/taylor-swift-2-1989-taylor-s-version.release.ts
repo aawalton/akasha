@@ -12,6 +12,11 @@ export const taylorSwift21989TaylorSVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-10-26",
-  externalId: "64LU4c1nfjz1t4VnGhagcg",
-  externalLink: "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "64LU4c1nfjz1t4VnGhagcg",
+      externalLink: "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg",
+    },
+  ],
 } as const satisfies Release

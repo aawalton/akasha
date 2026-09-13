@@ -12,6 +12,11 @@ export const taylorSwift2YouReNotSorryCsiRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-02-07",
-  externalId: "5sZIjREu3s225wwqJkgsYV",
-  externalLink: "https://open.spotify.com/album/5sZIjREu3s225wwqJkgsYV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5sZIjREu3s225wwqJkgsYV",
+      externalLink: "https://open.spotify.com/album/5sZIjREu3s225wwqJkgsYV",
+    },
+  ],
 } as const satisfies Release

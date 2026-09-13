@@ -12,6 +12,11 @@ export const taylorSwift2LoveStoryTaylorSVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-02-12",
-  externalId: "4j2syEjl3h1To8KbRgvmJn",
-  externalLink: "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4j2syEjl3h1To8KbRgvmJn",
+      externalLink: "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn",
+    },
+  ],
 } as const satisfies Release

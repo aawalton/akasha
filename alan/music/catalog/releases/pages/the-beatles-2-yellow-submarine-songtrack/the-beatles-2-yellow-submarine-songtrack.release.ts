@@ -12,6 +12,11 @@ export const theBeatles2YellowSubmarineSongtrack = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1999-09-13",
-  externalId: "0XRZpF083HqgygM0v1hQyE",
-  externalLink: "https://open.spotify.com/album/0XRZpF083HqgygM0v1hQyE",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0XRZpF083HqgygM0v1hQyE",
+      externalLink: "https://open.spotify.com/album/0XRZpF083HqgygM0v1hQyE",
+    },
+  ],
 } as const satisfies Release

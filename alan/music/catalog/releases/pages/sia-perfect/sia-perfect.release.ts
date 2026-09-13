@@ -12,7 +12,12 @@ export const siaPerfect = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-05",
-  externalId: "4EgafMzPEdYTKsNuCiCfFg",
-  externalLink: "https://open.spotify.com/album/4EgafMzPEdYTKsNuCiCfFg",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4EgafMzPEdYTKsNuCiCfFg",
+      externalLink: "https://open.spotify.com/album/4EgafMzPEdYTKsNuCiCfFg",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

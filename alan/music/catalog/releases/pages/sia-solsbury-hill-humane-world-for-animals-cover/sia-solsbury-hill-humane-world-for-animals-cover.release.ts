@@ -12,7 +12,12 @@ export const siaSolsburyHillHumaneWorldForAnimalsCover = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-02-13",
-  externalId: "4zHCSSa9EGQZ4rUMwEZltE",
-  externalLink: "https://open.spotify.com/album/4zHCSSa9EGQZ4rUMwEZltE",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4zHCSSa9EGQZ4rUMwEZltE",
+      externalLink: "https://open.spotify.com/album/4zHCSSa9EGQZ4rUMwEZltE",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

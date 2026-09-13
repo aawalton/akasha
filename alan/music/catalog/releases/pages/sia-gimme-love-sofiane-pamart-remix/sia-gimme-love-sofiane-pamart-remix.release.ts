@@ -12,7 +12,12 @@ export const siaGimmeLoveSofianePamartRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-17",
-  externalId: "1pD0juD4fXUUIDsgGt9xrI",
-  externalLink: "https://open.spotify.com/album/1pD0juD4fXUUIDsgGt9xrI",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1pD0juD4fXUUIDsgGt9xrI",
+      externalLink: "https://open.spotify.com/album/1pD0juD4fXUUIDsgGt9xrI",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

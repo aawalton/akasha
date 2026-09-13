@@ -12,6 +12,11 @@ export const taylorSwift2Reputation = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-11-10",
-  externalId: "6DEjYFkNZh67HP7R9PSZvv",
-  externalLink: "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6DEjYFkNZh67HP7R9PSZvv",
+      externalLink: "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv",
+    },
+  ],
 } as const satisfies Release

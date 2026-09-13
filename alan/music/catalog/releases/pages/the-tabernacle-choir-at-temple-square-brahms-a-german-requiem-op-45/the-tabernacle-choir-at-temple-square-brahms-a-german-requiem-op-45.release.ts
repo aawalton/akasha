@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareBrahmsAGermanRequiemOp45 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1999-09-01",
-  externalId: "0rB5SYhB3zx9KDFRyKgFi9",
-  externalLink: "https://open.spotify.com/album/0rB5SYhB3zx9KDFRyKgFi9",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0rB5SYhB3zx9KDFRyKgFi9",
+      externalLink: "https://open.spotify.com/album/0rB5SYhB3zx9KDFRyKgFi9",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

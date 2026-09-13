@@ -12,6 +12,11 @@ export const thePianoGuys3ThankGodIDoBeStillMySoul = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-09-29",
-  externalId: "5ADjxuuwroxFeFmKQAAvn6",
-  externalLink: "https://open.spotify.com/album/5ADjxuuwroxFeFmKQAAvn6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5ADjxuuwroxFeFmKQAAvn6",
+      externalLink: "https://open.spotify.com/album/5ADjxuuwroxFeFmKQAAvn6",
+    },
+  ],
 } as const satisfies Release

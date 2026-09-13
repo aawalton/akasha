@@ -12,7 +12,12 @@ export const siaOneMillionBullets = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-11-27",
-  externalId: "5e3NhKpTMuFHXozhaWfxDw",
-  externalLink: "https://open.spotify.com/album/5e3NhKpTMuFHXozhaWfxDw",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5e3NhKpTMuFHXozhaWfxDw",
+      externalLink: "https://open.spotify.com/album/5e3NhKpTMuFHXozhaWfxDw",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

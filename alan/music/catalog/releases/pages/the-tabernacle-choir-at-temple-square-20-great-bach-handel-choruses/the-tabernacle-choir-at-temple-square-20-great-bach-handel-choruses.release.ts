@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquare20GreatBachHandelChoruses = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1959-01-01",
-  externalId: "3sCGPUj7X9ht9uMLYjCZAr",
-  externalLink: "https://open.spotify.com/album/3sCGPUj7X9ht9uMLYjCZAr",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3sCGPUj7X9ht9uMLYjCZAr",
+      externalLink: "https://open.spotify.com/album/3sCGPUj7X9ht9uMLYjCZAr",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const thePianoGuys3WaterfallFeatRichardElliott = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-05-26",
-  externalId: "21sRscW4WG2yM6LdOfPKOe",
-  externalLink: "https://open.spotify.com/album/21sRscW4WG2yM6LdOfPKOe",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "21sRscW4WG2yM6LdOfPKOe",
+      externalLink: "https://open.spotify.com/album/21sRscW4WG2yM6LdOfPKOe",
+    },
+  ],
 } as const satisfies Release

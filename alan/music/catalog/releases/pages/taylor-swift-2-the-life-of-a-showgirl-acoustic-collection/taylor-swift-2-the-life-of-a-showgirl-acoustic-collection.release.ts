@@ -12,7 +12,12 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollection = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-11-07",
-  externalId: "6QNMhoV8V0u7cFuhhUBOn7",
-  externalLink: "https://open.spotify.com/album/6QNMhoV8V0u7cFuhhUBOn7",
-  lastSyncedAt: "2025-11-29",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6QNMhoV8V0u7cFuhhUBOn7",
+      externalLink: "https://open.spotify.com/album/6QNMhoV8V0u7cFuhhUBOn7",
+      lastSyncedAt: "2025-11-29",
+    },
+  ],
 } as const satisfies Release

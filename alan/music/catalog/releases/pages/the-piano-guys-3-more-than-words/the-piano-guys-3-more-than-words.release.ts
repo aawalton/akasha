@@ -12,6 +12,11 @@ export const thePianoGuys3MoreThanWords = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-09-11",
-  externalId: "4yl3dQ5Y7Lhg53ofj1sQSm",
-  externalLink: "https://open.spotify.com/album/4yl3dQ5Y7Lhg53ofj1sQSm",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4yl3dQ5Y7Lhg53ofj1sQSm",
+      externalLink: "https://open.spotify.com/album/4yl3dQ5Y7Lhg53ofj1sQSm",
+    },
+  ],
 } as const satisfies Release

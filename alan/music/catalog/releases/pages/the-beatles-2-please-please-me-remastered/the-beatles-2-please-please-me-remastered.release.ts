@@ -12,6 +12,11 @@ export const theBeatles2PleasePleaseMeRemastered = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1963-03-22",
-  externalId: "3KzAvEXcqJKBF97HrXwlgf",
-  externalLink: "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3KzAvEXcqJKBF97HrXwlgf",
+      externalLink: "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf",
+    },
+  ],
 } as const satisfies Release

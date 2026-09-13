@@ -12,7 +12,12 @@ export const siaHeliumSiaVsDavidGuettaAfrojack = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-01-25",
-  externalId: "0daLYYl9X1oTURdFNjRf1I",
-  externalLink: "https://open.spotify.com/album/0daLYYl9X1oTURdFNjRf1I",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0daLYYl9X1oTURdFNjRf1I",
+      externalLink: "https://open.spotify.com/album/0daLYYl9X1oTURdFNjRf1I",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

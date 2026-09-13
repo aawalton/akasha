@@ -12,7 +12,12 @@ export const theHoldernessFamilyBestOfThe2000s = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-06",
-  externalId: "4kvDpznALdCW8YzJ5gFlHc",
-  externalLink: "https://open.spotify.com/album/4kvDpznALdCW8YzJ5gFlHc",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4kvDpznALdCW8YzJ5gFlHc",
+      externalLink: "https://open.spotify.com/album/4kvDpznALdCW8YzJ5gFlHc",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

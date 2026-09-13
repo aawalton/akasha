@@ -12,6 +12,11 @@ export const thePianoGuys3Landslide = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-10-18",
-  externalId: "6BUZTu3OY8K7NDNyLeOvcE",
-  externalLink: "https://open.spotify.com/album/6BUZTu3OY8K7NDNyLeOvcE",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6BUZTu3OY8K7NDNyLeOvcE",
+      externalLink: "https://open.spotify.com/album/6BUZTu3OY8K7NDNyLeOvcE",
+    },
+  ],
 } as const satisfies Release

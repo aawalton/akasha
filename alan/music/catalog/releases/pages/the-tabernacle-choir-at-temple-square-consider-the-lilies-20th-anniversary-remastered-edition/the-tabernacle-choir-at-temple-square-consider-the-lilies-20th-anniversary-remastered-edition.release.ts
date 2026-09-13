@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareConsiderTheLilies20thAnniversaryRem
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-05-05",
-  externalId: "6KwkY5vBBknN8Kl7cPGx8J",
-  externalLink: "https://open.spotify.com/album/6KwkY5vBBknN8Kl7cPGx8J",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6KwkY5vBBknN8Kl7cPGx8J",
+      externalLink: "https://open.spotify.com/album/6KwkY5vBBknN8Kl7cPGx8J",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

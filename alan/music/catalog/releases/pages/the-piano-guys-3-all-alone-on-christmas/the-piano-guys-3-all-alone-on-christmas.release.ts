@@ -12,6 +12,11 @@ export const thePianoGuys3AllAloneOnChristmas = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-12-06",
-  externalId: "5EcpnZGAYJ1w8s68bKQK00",
-  externalLink: "https://open.spotify.com/album/5EcpnZGAYJ1w8s68bKQK00",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5EcpnZGAYJ1w8s68bKQK00",
+      externalLink: "https://open.spotify.com/album/5EcpnZGAYJ1w8s68bKQK00",
+    },
+  ],
 } as const satisfies Release

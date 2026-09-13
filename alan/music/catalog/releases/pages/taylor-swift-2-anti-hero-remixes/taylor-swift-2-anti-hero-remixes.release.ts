@@ -12,6 +12,11 @@ export const taylorSwift2AntiHeroRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-11",
-  externalId: "7irmI5g3OLC1gUXlxysOWt",
-  externalLink: "https://open.spotify.com/album/7irmI5g3OLC1gUXlxysOWt",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7irmI5g3OLC1gUXlxysOWt",
+      externalLink: "https://open.spotify.com/album/7irmI5g3OLC1gUXlxysOWt",
+    },
+  ],
 } as const satisfies Release

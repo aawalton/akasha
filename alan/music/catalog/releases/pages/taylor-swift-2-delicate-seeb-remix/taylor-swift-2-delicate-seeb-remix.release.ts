@@ -12,6 +12,11 @@ export const taylorSwift2DelicateSeebRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-06-08",
-  externalId: "7gU675c7KZ54MzEcL1O3px",
-  externalLink: "https://open.spotify.com/album/7gU675c7KZ54MzEcL1O3px",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7gU675c7KZ54MzEcL1O3px",
+      externalLink: "https://open.spotify.com/album/7gU675c7KZ54MzEcL1O3px",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const siaImmortalQueenFeatChakaKhanBiancaCosta = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-05-31",
-  externalId: "04TeOM7SKW4d0Th4bd0KDq",
-  externalLink: "https://open.spotify.com/album/04TeOM7SKW4d0Th4bd0KDq",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "04TeOM7SKW4d0Th4bd0KDq",
+      externalLink: "https://open.spotify.com/album/04TeOM7SKW4d0Th4bd0KDq",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

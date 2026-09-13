@@ -12,7 +12,12 @@ export const siaIForgiveYouChromeoRemixRadioEdit = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-13",
-  externalId: "23MEFQe6rT4UgP2JUPU9b7",
-  externalLink: "https://open.spotify.com/album/23MEFQe6rT4UgP2JUPU9b7",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "23MEFQe6rT4UgP2JUPU9b7",
+      externalLink: "https://open.spotify.com/album/23MEFQe6rT4UgP2JUPU9b7",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

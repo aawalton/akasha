@@ -12,6 +12,11 @@ export const theBeatles2TheBeatles196219662023Edition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-10",
-  externalId: "39Ti6Be9Ak2d6YbxlQo0Ba",
-  externalLink: "https://open.spotify.com/album/39Ti6Be9Ak2d6YbxlQo0Ba",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "39Ti6Be9Ak2d6YbxlQo0Ba",
+      externalLink: "https://open.spotify.com/album/39Ti6Be9Ak2d6YbxlQo0Ba",
+    },
+  ],
 } as const satisfies Release

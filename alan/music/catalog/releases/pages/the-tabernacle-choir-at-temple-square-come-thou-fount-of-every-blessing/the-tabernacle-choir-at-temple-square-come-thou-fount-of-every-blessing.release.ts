@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareComeThouFountOfEveryBlessing = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2009-03-24",
-  externalId: "5KBh51ANKKCou1u1QEQaC3",
-  externalLink: "https://open.spotify.com/album/5KBh51ANKKCou1u1QEQaC3",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5KBh51ANKKCou1u1QEQaC3",
+      externalLink: "https://open.spotify.com/album/5KBh51ANKKCou1u1QEQaC3",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

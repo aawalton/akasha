@@ -12,6 +12,11 @@ export const theBeatles2SgtPepperSLonelyHeartsClubBandRemastered = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1967-06-01",
-  externalId: "6QaVfG1pHYl1z15ZxkvVDW",
-  externalLink: "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6QaVfG1pHYl1z15ZxkvVDW",
+      externalLink: "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW",
+    },
+  ],
 } as const satisfies Release

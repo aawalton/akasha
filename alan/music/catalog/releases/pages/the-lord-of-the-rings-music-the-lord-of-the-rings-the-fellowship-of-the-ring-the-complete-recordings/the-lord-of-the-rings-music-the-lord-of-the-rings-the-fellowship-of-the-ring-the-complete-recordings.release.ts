@@ -12,7 +12,12 @@ export const theLordOfTheRingsMusicTheLordOfTheRingsTheFellowshipOfTheRingTheCom
   unit: "minutes",
   status: "completed",
   publishedAt: "2001-01-01",
-  externalId: "55RTkgUCP7t80hiTUhATMH",
-  externalLink: "https://open.spotify.com/album/55RTkgUCP7t80hiTUhATMH",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "55RTkgUCP7t80hiTUhATMH",
+      externalLink: "https://open.spotify.com/album/55RTkgUCP7t80hiTUhATMH",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

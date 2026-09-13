@@ -12,6 +12,11 @@ export const thePianoGuys3AvatarTheTheme = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-06-21",
-  externalId: "6owJynSJhOtUZU85CGndvN",
-  externalLink: "https://open.spotify.com/album/6owJynSJhOtUZU85CGndvN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6owJynSJhOtUZU85CGndvN",
+      externalLink: "https://open.spotify.com/album/6owJynSJhOtUZU85CGndvN",
+    },
+  ],
 } as const satisfies Release

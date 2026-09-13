@@ -12,7 +12,12 @@ export const siaMtgDaSiaAngelByTheWings = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-07-20",
-  externalId: "7KYLDnvpL3yGcLLxRYgFfu",
-  externalLink: "https://open.spotify.com/album/7KYLDnvpL3yGcLLxRYgFfu",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7KYLDnvpL3yGcLLxRYgFfu",
+      externalLink: "https://open.spotify.com/album/7KYLDnvpL3yGcLLxRYgFfu",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

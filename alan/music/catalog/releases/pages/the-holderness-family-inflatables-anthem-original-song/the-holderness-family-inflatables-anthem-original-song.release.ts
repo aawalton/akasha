@@ -12,7 +12,12 @@ export const theHoldernessFamilyInflatablesAnthemOriginalSong = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-12-13",
-  externalId: "4UIFInb5vNhPohy27DyMDo",
-  externalLink: "https://open.spotify.com/album/4UIFInb5vNhPohy27DyMDo",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4UIFInb5vNhPohy27DyMDo",
+      externalLink: "https://open.spotify.com/album/4UIFInb5vNhPohy27DyMDo",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

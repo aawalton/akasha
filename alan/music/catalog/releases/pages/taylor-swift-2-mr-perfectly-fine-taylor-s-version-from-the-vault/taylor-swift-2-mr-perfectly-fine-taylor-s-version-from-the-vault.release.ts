@@ -12,6 +12,11 @@ export const taylorSwift2MrPerfectlyFineTaylorSVersionFromTheVault = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-07",
-  externalId: "2MbdQUj7tAaaBBhUwJE3KG",
-  externalLink: "https://open.spotify.com/album/2MbdQUj7tAaaBBhUwJE3KG",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2MbdQUj7tAaaBBhUwJE3KG",
+      externalLink: "https://open.spotify.com/album/2MbdQUj7tAaaBBhUwJE3KG",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const thePianoGuys3UnsungHero = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-06-28",
-  externalId: "6l0aWPFshYJEZBSrvpDc5b",
-  externalLink: "https://open.spotify.com/album/6l0aWPFshYJEZBSrvpDc5b",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6l0aWPFshYJEZBSrvpDc5b",
+      externalLink: "https://open.spotify.com/album/6l0aWPFshYJEZBSrvpDc5b",
+    },
+  ],
 } as const satisfies Release

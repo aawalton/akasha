@@ -12,7 +12,12 @@ export const siaFreeMe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-06-09",
-  externalId: "4FFE30tFDFOFeSCHeR49C0",
-  externalLink: "https://open.spotify.com/album/4FFE30tFDFOFeSCHeR49C0",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4FFE30tFDFOFeSCHeR49C0",
+      externalLink: "https://open.spotify.com/album/4FFE30tFDFOFeSCHeR49C0",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

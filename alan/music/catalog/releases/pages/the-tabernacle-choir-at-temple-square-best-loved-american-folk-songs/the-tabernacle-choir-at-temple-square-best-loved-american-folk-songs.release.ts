@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareBestLovedAmericanFolkSongs = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1966-08-16",
-  externalId: "0wSCGEsqHqTSChM7tyMsIZ",
-  externalLink: "https://open.spotify.com/album/0wSCGEsqHqTSChM7tyMsIZ",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0wSCGEsqHqTSChM7tyMsIZ",
+      externalLink: "https://open.spotify.com/album/0wSCGEsqHqTSChM7tyMsIZ",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

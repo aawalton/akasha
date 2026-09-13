@@ -12,6 +12,11 @@ export const thePianoGuys3MainTitleFromJurassicPark = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-06-10",
-  externalId: "0DeZzjVFrU1WjC29FJ5KKN",
-  externalLink: "https://open.spotify.com/album/0DeZzjVFrU1WjC29FJ5KKN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0DeZzjVFrU1WjC29FJ5KKN",
+      externalLink: "https://open.spotify.com/album/0DeZzjVFrU1WjC29FJ5KKN",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const taylorSwift2ICanDoItWithABrokenHeartDombreskyRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-13",
-  externalId: "3WNGsnTetig4bJbw2BMbK7",
-  externalLink: "https://open.spotify.com/album/3WNGsnTetig4bJbw2BMbK7",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3WNGsnTetig4bJbw2BMbK7",
+      externalLink: "https://open.spotify.com/album/3WNGsnTetig4bJbw2BMbK7",
+    },
+  ],
 } as const satisfies Release

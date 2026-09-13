@@ -12,6 +12,11 @@ export const thePianoGuys3Ordinary = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-07-18",
-  externalId: "7JbHdiHzFR2tdz7s7DiZhr",
-  externalLink: "https://open.spotify.com/album/7JbHdiHzFR2tdz7s7DiZhr",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7JbHdiHzFR2tdz7s7DiZhr",
+      externalLink: "https://open.spotify.com/album/7JbHdiHzFR2tdz7s7DiZhr",
+    },
+  ],
 } as const satisfies Release

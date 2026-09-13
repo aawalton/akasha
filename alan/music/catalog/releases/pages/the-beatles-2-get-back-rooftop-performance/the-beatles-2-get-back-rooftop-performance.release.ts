@@ -12,6 +12,11 @@ export const theBeatles2GetBackRooftopPerformance = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-01-28",
-  externalId: "6emgUTDksZyhhWmtjM9FCs",
-  externalLink: "https://open.spotify.com/album/6emgUTDksZyhhWmtjM9FCs",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6emgUTDksZyhhWmtjM9FCs",
+      externalLink: "https://open.spotify.com/album/6emgUTDksZyhhWmtjM9FCs",
+    },
+  ],
 } as const satisfies Release

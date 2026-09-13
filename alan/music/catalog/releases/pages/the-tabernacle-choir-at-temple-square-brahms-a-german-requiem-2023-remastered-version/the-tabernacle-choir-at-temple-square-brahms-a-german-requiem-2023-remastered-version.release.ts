@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareBrahmsAGermanRequiem2023RemasteredV
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-12-15",
-  externalId: "2exuhE8xK8dnw8ifnBSzco",
-  externalLink: "https://open.spotify.com/album/2exuhE8xK8dnw8ifnBSzco",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2exuhE8xK8dnw8ifnBSzco",
+      externalLink: "https://open.spotify.com/album/2exuhE8xK8dnw8ifnBSzco",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const siaThatSLifeFeatMacMillerSia = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-06-20",
-  externalId: "1a7behQFUiQ9iHjSJxiZXE",
-  externalLink: "https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1a7behQFUiQ9iHjSJxiZXE",
+      externalLink: "https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

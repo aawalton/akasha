@@ -12,6 +12,11 @@ export const taylorSwift2YouNeedToCalmDownCleanBanditRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-08-20",
-  externalId: "531nfs5NPsmkRC1LJb1cdj",
-  externalLink: "https://open.spotify.com/album/531nfs5NPsmkRC1LJb1cdj",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "531nfs5NPsmkRC1LJb1cdj",
+      externalLink: "https://open.spotify.com/album/531nfs5NPsmkRC1LJb1cdj",
+    },
+  ],
 } as const satisfies Release

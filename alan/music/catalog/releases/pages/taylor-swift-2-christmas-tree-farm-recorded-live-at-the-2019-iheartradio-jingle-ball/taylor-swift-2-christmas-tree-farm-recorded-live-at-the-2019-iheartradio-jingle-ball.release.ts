@@ -12,6 +12,11 @@ export const taylorSwift2ChristmasTreeFarmRecordedLiveAtThe2019IheartradioJingle
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-19",
-  externalId: "5lIglDJlPaEoqVl2hhi3O0",
-  externalLink: "https://open.spotify.com/album/5lIglDJlPaEoqVl2hhi3O0",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5lIglDJlPaEoqVl2hhi3O0",
+      externalLink: "https://open.spotify.com/album/5lIglDJlPaEoqVl2hhi3O0",
+    },
+  ],
 } as const satisfies Release

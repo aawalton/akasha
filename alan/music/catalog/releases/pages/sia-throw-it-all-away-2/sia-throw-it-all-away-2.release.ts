@@ -12,7 +12,12 @@ export const siaThrowItAllAway2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2006-05-15",
-  externalId: "0rudG2KLXaP2kBq4w53rXO",
-  externalLink: "https://open.spotify.com/album/0rudG2KLXaP2kBq4w53rXO",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0rudG2KLXaP2kBq4w53rXO",
+      externalLink: "https://open.spotify.com/album/0rudG2KLXaP2kBq4w53rXO",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

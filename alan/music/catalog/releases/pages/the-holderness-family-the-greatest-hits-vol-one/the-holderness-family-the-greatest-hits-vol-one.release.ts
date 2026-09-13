@@ -12,7 +12,12 @@ export const theHoldernessFamilyTheGreatestHitsVolOne = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-10-21",
-  externalId: "5msHeA78v7nyq2HgitoTmG",
-  externalLink: "https://open.spotify.com/album/5msHeA78v7nyq2HgitoTmG",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5msHeA78v7nyq2HgitoTmG",
+      externalLink: "https://open.spotify.com/album/5msHeA78v7nyq2HgitoTmG",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

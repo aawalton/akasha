@@ -12,6 +12,11 @@ export const taylorSwift2RedTaylorSVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-12",
-  externalId: "6kZ42qRrzov54LcAk4onW9",
-  externalLink: "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6kZ42qRrzov54LcAk4onW9",
+      externalLink: "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9",
+    },
+  ],
 } as const satisfies Release

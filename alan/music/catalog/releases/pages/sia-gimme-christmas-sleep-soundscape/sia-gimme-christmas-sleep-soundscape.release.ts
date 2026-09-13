@@ -12,7 +12,12 @@ export const siaGimmeChristmasSleepSoundscape = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-09-10",
-  externalId: "0ynrXCnhZnaP0B7Kt2BW7B",
-  externalLink: "https://open.spotify.com/album/0ynrXCnhZnaP0B7Kt2BW7B",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0ynrXCnhZnaP0B7Kt2BW7B",
+      externalLink: "https://open.spotify.com/album/0ynrXCnhZnaP0B7Kt2BW7B",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

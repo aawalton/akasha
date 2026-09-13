@@ -12,6 +12,11 @@ export const thePianoGuys3IWantYouBack = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-03-23",
-  externalId: "5a7vLKSs4aC23TWkl9Bwa8",
-  externalLink: "https://open.spotify.com/album/5a7vLKSs4aC23TWkl9Bwa8",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5a7vLKSs4aC23TWkl9Bwa8",
+      externalLink: "https://open.spotify.com/album/5a7vLKSs4aC23TWkl9Bwa8",
+    },
+  ],
 } as const satisfies Release

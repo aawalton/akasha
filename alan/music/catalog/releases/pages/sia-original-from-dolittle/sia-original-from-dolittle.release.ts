@@ -12,7 +12,12 @@ export const siaOriginalFromDolittle = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-01-10",
-  externalId: "00CTugKcgZzpPJKpmeNdDS",
-  externalLink: "https://open.spotify.com/album/00CTugKcgZzpPJKpmeNdDS",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "00CTugKcgZzpPJKpmeNdDS",
+      externalLink: "https://open.spotify.com/album/00CTugKcgZzpPJKpmeNdDS",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const thePianoGuys3Chill = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-22",
-  externalId: "7iCG2ULUgJYAuR5FrTyOcW",
-  externalLink: "https://open.spotify.com/album/7iCG2ULUgJYAuR5FrTyOcW",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7iCG2ULUgJYAuR5FrTyOcW",
+      externalLink: "https://open.spotify.com/album/7iCG2ULUgJYAuR5FrTyOcW",
+    },
+  ],
 } as const satisfies Release

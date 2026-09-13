@@ -12,6 +12,11 @@ export const thePianoGuys3WalkingTheWireLargo = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-10-24",
-  externalId: "2DFj2e7BhSYUkeVSEwdwfu",
-  externalLink: "https://open.spotify.com/album/2DFj2e7BhSYUkeVSEwdwfu",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2DFj2e7BhSYUkeVSEwdwfu",
+      externalLink: "https://open.spotify.com/album/2DFj2e7BhSYUkeVSEwdwfu",
+    },
+  ],
 } as const satisfies Release

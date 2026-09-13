@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareComeComeYeSaintsLegacySeries = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1997-02-01",
-  externalId: "6NBec4QtjgYjF6Zv81ljRO",
-  externalLink: "https://open.spotify.com/album/6NBec4QtjgYjF6Zv81ljRO",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6NBec4QtjgYjF6Zv81ljRO",
+      externalLink: "https://open.spotify.com/album/6NBec4QtjgYjF6Zv81ljRO",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

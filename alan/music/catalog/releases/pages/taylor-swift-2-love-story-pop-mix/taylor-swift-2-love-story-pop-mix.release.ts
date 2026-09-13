@@ -12,6 +12,11 @@ export const taylorSwift2LoveStoryPopMix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-02-07",
-  externalId: "1iab5rfjNpGhoPlFzPyp4k",
-  externalLink: "https://open.spotify.com/album/1iab5rfjNpGhoPlFzPyp4k",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1iab5rfjNpGhoPlFzPyp4k",
+      externalLink: "https://open.spotify.com/album/1iab5rfjNpGhoPlFzPyp4k",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const siaSavedMyLife = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-02",
-  externalId: "1kKYFo3YmUCRmT1tUj31wp",
-  externalLink: "https://open.spotify.com/album/1kKYFo3YmUCRmT1tUj31wp",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1kKYFo3YmUCRmT1tUj31wp",
+      externalLink: "https://open.spotify.com/album/1kKYFo3YmUCRmT1tUj31wp",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

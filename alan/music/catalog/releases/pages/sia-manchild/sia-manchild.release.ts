@@ -12,7 +12,12 @@ export const siaManchild = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-04-28",
-  externalId: "4T3bAELPl0l8HhqKMp7Z8I",
-  externalLink: "https://open.spotify.com/album/4T3bAELPl0l8HhqKMp7Z8I",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4T3bAELPl0l8HhqKMp7Z8I",
+      externalLink: "https://open.spotify.com/album/4T3bAELPl0l8HhqKMp7Z8I",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

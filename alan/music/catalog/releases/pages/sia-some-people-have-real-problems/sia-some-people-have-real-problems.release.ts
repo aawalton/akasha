@@ -12,7 +12,12 @@ export const siaSomePeopleHaveRealProblems = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-01-01",
-  externalId: "6jwrliQ4758qVYMtdgQtZt",
-  externalLink: "https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6jwrliQ4758qVYMtdgQtZt",
+      externalLink: "https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

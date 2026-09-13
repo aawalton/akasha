@@ -12,7 +12,12 @@ export const siaMusicSongsFromAndInspiredByTheMotionPicture = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-02-12",
-  externalId: "7nA0EdSRuxzUqkA7kMSer7",
-  externalLink: "https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7nA0EdSRuxzUqkA7kMSer7",
+      externalLink: "https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

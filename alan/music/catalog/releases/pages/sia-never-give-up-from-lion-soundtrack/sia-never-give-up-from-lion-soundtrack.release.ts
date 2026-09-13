@@ -12,7 +12,12 @@ export const siaNeverGiveUpFromLionSoundtrack = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-18",
-  externalId: "3pOA3oohNOrloauSH9rd8n",
-  externalLink: "https://open.spotify.com/album/3pOA3oohNOrloauSH9rd8n",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3pOA3oohNOrloauSH9rd8n",
+      externalLink: "https://open.spotify.com/album/3pOA3oohNOrloauSH9rd8n",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

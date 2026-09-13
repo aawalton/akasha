@@ -12,7 +12,12 @@ export const siaStreetXStreetLafc = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-07-25",
-  externalId: "0JRb0dJsfPJtDJ5MIIpGZF",
-  externalLink: "https://open.spotify.com/album/0JRb0dJsfPJtDJ5MIIpGZF",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0JRb0dJsfPJtDJ5MIIpGZF",
+      externalLink: "https://open.spotify.com/album/0JRb0dJsfPJtDJ5MIIpGZF",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

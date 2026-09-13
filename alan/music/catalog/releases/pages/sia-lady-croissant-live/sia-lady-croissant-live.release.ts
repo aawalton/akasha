@@ -12,7 +12,12 @@ export const siaLadyCroissantLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2007-01-01",
-  externalId: "6WJcRNkvprk9oyJuiLHT5H",
-  externalLink: "https://open.spotify.com/album/6WJcRNkvprk9oyJuiLHT5H",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6WJcRNkvprk9oyJuiLHT5H",
+      externalLink: "https://open.spotify.com/album/6WJcRNkvprk9oyJuiLHT5H",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

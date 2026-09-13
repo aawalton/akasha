@@ -12,6 +12,11 @@ export const taylorSwift2OnlyTheYoungFeaturedInMissAmericana = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-01-31",
-  externalId: "5LGsh3kexUfi3qkIIxb8vK",
-  externalLink: "https://open.spotify.com/album/5LGsh3kexUfi3qkIIxb8vK",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5LGsh3kexUfi3qkIIxb8vK",
+      externalLink: "https://open.spotify.com/album/5LGsh3kexUfi3qkIIxb8vK",
+    },
+  ],
 } as const satisfies Release

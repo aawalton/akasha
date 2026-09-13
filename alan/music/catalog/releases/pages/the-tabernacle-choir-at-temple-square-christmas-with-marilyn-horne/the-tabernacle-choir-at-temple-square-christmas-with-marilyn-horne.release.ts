@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareChristmasWithMarilynHorne = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1983-01-01",
-  externalId: "6eWejYoFRGjs18lnf7xlt7",
-  externalLink: "https://open.spotify.com/album/6eWejYoFRGjs18lnf7xlt7",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6eWejYoFRGjs18lnf7xlt7",
+      externalLink: "https://open.spotify.com/album/6eWejYoFRGjs18lnf7xlt7",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

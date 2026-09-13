@@ -12,7 +12,12 @@ export const siaHassHassLofiRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-04-25",
-  externalId: "11ZFNsxNhXEe6BfpouqiIP",
-  externalLink: "https://open.spotify.com/album/11ZFNsxNhXEe6BfpouqiIP",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "11ZFNsxNhXEe6BfpouqiIP",
+      externalLink: "https://open.spotify.com/album/11ZFNsxNhXEe6BfpouqiIP",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

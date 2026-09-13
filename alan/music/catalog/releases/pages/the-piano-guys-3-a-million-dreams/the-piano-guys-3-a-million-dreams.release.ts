@@ -12,6 +12,11 @@ export const thePianoGuys3AMillionDreams = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-03-16",
-  externalId: "0sj2cr7lXdkxL1OYGxZedU",
-  externalLink: "https://open.spotify.com/album/0sj2cr7lXdkxL1OYGxZedU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0sj2cr7lXdkxL1OYGxZedU",
+      externalLink: "https://open.spotify.com/album/0sj2cr7lXdkxL1OYGxZedU",
+    },
+  ],
 } as const satisfies Release

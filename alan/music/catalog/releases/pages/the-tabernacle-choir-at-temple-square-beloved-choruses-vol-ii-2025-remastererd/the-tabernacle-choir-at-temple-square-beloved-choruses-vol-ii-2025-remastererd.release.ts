@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareBelovedChorusesVolIi2025Remastererd
   unit: "minutes",
   status: "completed",
   publishedAt: "1964-12-21",
-  externalId: "5KnEBKRJmWjc7iQKEeBfZY",
-  externalLink: "https://open.spotify.com/album/5KnEBKRJmWjc7iQKEeBfZY",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5KnEBKRJmWjc7iQKEeBfZY",
+      externalLink: "https://open.spotify.com/album/5KnEBKRJmWjc7iQKEeBfZY",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

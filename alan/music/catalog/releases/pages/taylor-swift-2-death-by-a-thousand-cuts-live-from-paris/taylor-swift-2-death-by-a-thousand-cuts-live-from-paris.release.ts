@@ -12,6 +12,11 @@ export const taylorSwift2DeathByAThousandCutsLiveFromParis = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-17",
-  externalId: "5nDpkszadFMGW6ZSYM9Q1V",
-  externalLink: "https://open.spotify.com/album/5nDpkszadFMGW6ZSYM9Q1V",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5nDpkszadFMGW6ZSYM9Q1V",
+      externalLink: "https://open.spotify.com/album/5nDpkszadFMGW6ZSYM9Q1V",
+    },
+  ],
 } as const satisfies Release

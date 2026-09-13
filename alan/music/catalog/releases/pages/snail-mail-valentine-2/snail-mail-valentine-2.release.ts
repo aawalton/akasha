@@ -12,6 +12,11 @@ export const snailMailValentine2 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-09-15",
-  externalId: "4gYRifAy47Kiw1k152e6hv",
-  externalLink: "https://open.spotify.com/album/4gYRifAy47Kiw1k152e6hv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4gYRifAy47Kiw1k152e6hv",
+      externalLink: "https://open.spotify.com/album/4gYRifAy47Kiw1k152e6hv",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const taylorSwift2LoverFirstDanceRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-26",
-  externalId: "6Ou4LWiU2Vu2V7KdHzw9At",
-  externalLink: "https://open.spotify.com/album/6Ou4LWiU2Vu2V7KdHzw9At",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Ou4LWiU2Vu2V7KdHzw9At",
+      externalLink: "https://open.spotify.com/album/6Ou4LWiU2Vu2V7KdHzw9At",
+    },
+  ],
 } as const satisfies Release

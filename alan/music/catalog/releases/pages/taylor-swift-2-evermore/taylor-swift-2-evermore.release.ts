@@ -12,6 +12,11 @@ export const taylorSwift2Evermore = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-11",
-  externalId: "2Xoteh7uEpea4TohMxjtaq",
-  externalLink: "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Xoteh7uEpea4TohMxjtaq",
+      externalLink: "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq",
+    },
+  ],
 } as const satisfies Release

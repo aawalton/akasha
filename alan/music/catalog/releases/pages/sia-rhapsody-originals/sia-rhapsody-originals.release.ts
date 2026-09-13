@@ -12,7 +12,12 @@ export const siaRhapsodyOriginals = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-01-01",
-  externalId: "1vSGerCBuSzmif0ye8pMhj",
-  externalLink: "https://open.spotify.com/album/1vSGerCBuSzmif0ye8pMhj",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1vSGerCBuSzmif0ye8pMhj",
+      externalLink: "https://open.spotify.com/album/1vSGerCBuSzmif0ye8pMhj",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

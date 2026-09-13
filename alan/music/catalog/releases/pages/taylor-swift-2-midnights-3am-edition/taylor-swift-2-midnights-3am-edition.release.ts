@@ -12,6 +12,11 @@ export const taylorSwift2Midnights3amEdition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-22",
-  externalId: "3lS1y25WAhcqJDATJK70Mq",
-  externalLink: "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3lS1y25WAhcqJDATJK70Mq",
+      externalLink: "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq",
+    },
+  ],
 } as const satisfies Release

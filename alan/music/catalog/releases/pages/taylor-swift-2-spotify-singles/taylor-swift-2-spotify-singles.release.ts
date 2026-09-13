@@ -12,6 +12,11 @@ export const taylorSwift2SpotifySingles = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-04-13",
-  externalId: "74utZeTCeaXy01BjOddyv8",
-  externalLink: "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "74utZeTCeaXy01BjOddyv8",
+      externalLink: "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8",
+    },
+  ],
 } as const satisfies Release

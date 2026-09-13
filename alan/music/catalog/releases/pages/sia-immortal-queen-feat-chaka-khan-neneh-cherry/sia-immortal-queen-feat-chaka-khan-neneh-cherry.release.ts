@@ -12,7 +12,12 @@ export const siaImmortalQueenFeatChakaKhanNenehCherry = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-08-16",
-  externalId: "10PRsSg1UHMMHmrVU8rdQQ",
-  externalLink: "https://open.spotify.com/album/10PRsSg1UHMMHmrVU8rdQQ",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "10PRsSg1UHMMHmrVU8rdQQ",
+      externalLink: "https://open.spotify.com/album/10PRsSg1UHMMHmrVU8rdQQ",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

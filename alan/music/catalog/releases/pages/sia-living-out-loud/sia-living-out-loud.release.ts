@@ -12,7 +12,12 @@ export const siaLivingOutLoud = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-02-03",
-  externalId: "0t7EBnbzVx0Ekhi6PHsyrh",
-  externalLink: "https://open.spotify.com/album/0t7EBnbzVx0Ekhi6PHsyrh",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0t7EBnbzVx0Ekhi6PHsyrh",
+      externalLink: "https://open.spotify.com/album/0t7EBnbzVx0Ekhi6PHsyrh",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const taylorSwift2BadBlood = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-05-17",
-  externalId: "1Tv3rrFNdXGtTeP1plX2xE",
-  externalLink: "https://open.spotify.com/album/1Tv3rrFNdXGtTeP1plX2xE",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Tv3rrFNdXGtTeP1plX2xE",
+      externalLink: "https://open.spotify.com/album/1Tv3rrFNdXGtTeP1plX2xE",
+    },
+  ],
 } as const satisfies Release

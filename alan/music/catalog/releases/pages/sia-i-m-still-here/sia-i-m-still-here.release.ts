@@ -12,7 +12,12 @@ export const siaIMStillHere = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-10-12",
-  externalId: "61rbnX1w8qupnV0CyNH1Or",
-  externalLink: "https://open.spotify.com/album/61rbnX1w8qupnV0CyNH1Or",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "61rbnX1w8qupnV0CyNH1Or",
+      externalLink: "https://open.spotify.com/album/61rbnX1w8qupnV0CyNH1Or",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

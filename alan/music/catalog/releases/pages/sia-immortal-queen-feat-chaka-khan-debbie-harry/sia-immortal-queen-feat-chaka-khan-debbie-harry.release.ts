@@ -12,7 +12,12 @@ export const siaImmortalQueenFeatChakaKhanDebbieHarry = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-08-30",
-  externalId: "6DTDpU2pW8MJgUHLPvNoNi",
-  externalLink: "https://open.spotify.com/album/6DTDpU2pW8MJgUHLPvNoNi",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6DTDpU2pW8MJgUHLPvNoNi",
+      externalLink: "https://open.spotify.com/album/6DTDpU2pW8MJgUHLPvNoNi",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

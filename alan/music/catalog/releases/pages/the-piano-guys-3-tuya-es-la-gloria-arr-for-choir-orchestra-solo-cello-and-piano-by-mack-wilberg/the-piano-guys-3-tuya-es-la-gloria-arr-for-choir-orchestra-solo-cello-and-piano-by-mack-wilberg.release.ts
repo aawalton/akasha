@@ -12,6 +12,11 @@ export const thePianoGuys3TuyaEsLaGloriaArrForChoirOrchestraSoloCelloAndPianoByM
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-09-08",
-  externalId: "6noGPvT1FO8MP3r1pkMlTS",
-  externalLink: "https://open.spotify.com/album/6noGPvT1FO8MP3r1pkMlTS",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6noGPvT1FO8MP3r1pkMlTS",
+      externalLink: "https://open.spotify.com/album/6noGPvT1FO8MP3r1pkMlTS",
+    },
+  ],
 } as const satisfies Release

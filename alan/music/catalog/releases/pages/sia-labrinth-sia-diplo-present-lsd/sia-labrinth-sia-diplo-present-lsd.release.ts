@@ -12,7 +12,12 @@ export const siaLabrinthSiaDiploPresentLsd = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-04-12",
-  externalId: "0ujHQ5WCLuKJQXOqXpGtpf",
-  externalLink: "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0ujHQ5WCLuKJQXOqXpGtpf",
+      externalLink: "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const thePianoGuys3ItSGonnaBeOkayWithCliffRichard = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-04-14",
-  externalId: "1o1nGRSY4e3ixTYjD36GYS",
-  externalLink: "https://open.spotify.com/album/1o1nGRSY4e3ixTYjD36GYS",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1o1nGRSY4e3ixTYjD36GYS",
+      externalLink: "https://open.spotify.com/album/1o1nGRSY4e3ixTYjD36GYS",
+    },
+  ],
 } as const satisfies Release

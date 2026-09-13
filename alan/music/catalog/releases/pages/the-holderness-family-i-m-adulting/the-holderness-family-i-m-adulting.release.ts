@@ -12,7 +12,12 @@ export const theHoldernessFamilyIMAdulting = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-09-29",
-  externalId: "2mPDw6UcLtbdcYhLuTUDay",
-  externalLink: "https://open.spotify.com/album/2mPDw6UcLtbdcYhLuTUDay",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2mPDw6UcLtbdcYhLuTUDay",
+      externalLink: "https://open.spotify.com/album/2mPDw6UcLtbdcYhLuTUDay",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

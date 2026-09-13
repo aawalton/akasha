@@ -12,7 +12,12 @@ export const siaSaltedWoundFromTheFiftyShadesOfGreySoundtrack = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-01-27",
-  externalId: "72KO15RSLNUVAqcQbgorYP",
-  externalLink: "https://open.spotify.com/album/72KO15RSLNUVAqcQbgorYP",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "72KO15RSLNUVAqcQbgorYP",
+      externalLink: "https://open.spotify.com/album/72KO15RSLNUVAqcQbgorYP",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

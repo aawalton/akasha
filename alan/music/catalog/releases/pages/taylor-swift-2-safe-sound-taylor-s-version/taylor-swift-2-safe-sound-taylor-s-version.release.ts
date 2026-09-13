@@ -12,6 +12,11 @@ export const taylorSwift2SafeSoundTaylorSVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-12",
-  externalId: "4eZKjfeKPSwd6NYsmlKjuR",
-  externalLink: "https://open.spotify.com/album/4eZKjfeKPSwd6NYsmlKjuR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4eZKjfeKPSwd6NYsmlKjuR",
+      externalLink: "https://open.spotify.com/album/4eZKjfeKPSwd6NYsmlKjuR",
+    },
+  ],
 } as const satisfies Release

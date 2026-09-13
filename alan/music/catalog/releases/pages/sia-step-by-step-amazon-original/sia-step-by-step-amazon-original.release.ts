@@ -12,7 +12,12 @@ export const siaStepByStepAmazonOriginal = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-09-21",
-  externalId: "6BiJg12jXySG2hIFOnSjSV",
-  externalLink: "https://open.spotify.com/album/6BiJg12jXySG2hIFOnSjSV",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6BiJg12jXySG2hIFOnSjSV",
+      externalLink: "https://open.spotify.com/album/6BiJg12jXySG2hIFOnSjSV",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

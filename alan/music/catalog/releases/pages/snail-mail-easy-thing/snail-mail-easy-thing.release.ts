@@ -12,6 +12,11 @@ export const snailMailEasyThing = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-09-13",
-  externalId: "1IMObMG6eLRwu6ZVTkACWa",
-  externalLink: "https://open.spotify.com/album/1IMObMG6eLRwu6ZVTkACWa",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1IMObMG6eLRwu6ZVTkACWa",
+      externalLink: "https://open.spotify.com/album/1IMObMG6eLRwu6ZVTkACWa",
+    },
+  ],
 } as const satisfies Release

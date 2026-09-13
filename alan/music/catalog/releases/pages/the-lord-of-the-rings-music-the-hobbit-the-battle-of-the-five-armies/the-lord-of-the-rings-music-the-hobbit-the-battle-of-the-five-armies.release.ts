@@ -13,7 +13,12 @@ export const theLordOfTheRingsMusicTheHobbitTheBattleOfTheFiveArmies = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2014-12-23",
-  externalId: "7o3egq23BKR7OCn5dlpFan",
-  externalLink: "https://open.spotify.com/album/7o3egq23BKR7OCn5dlpFan",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7o3egq23BKR7OCn5dlpFan",
+      externalLink: "https://open.spotify.com/album/7o3egq23BKR7OCn5dlpFan",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

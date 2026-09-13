@@ -12,6 +12,11 @@ export const theBeatles2NowAndThen = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-02",
-  externalId: "2qQP2NgOoH6HqknnbpJmIk",
-  externalLink: "https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2qQP2NgOoH6HqknnbpJmIk",
+      externalLink: "https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk",
+    },
+  ],
 } as const satisfies Release

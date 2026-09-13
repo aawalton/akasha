@@ -12,6 +12,11 @@ export const taylorSwift2AllTooWell10MinuteVersionTheShortFilm = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-11",
-  externalId: "2O1NYIBQCUobrL97A2Unk8",
-  externalLink: "https://open.spotify.com/album/2O1NYIBQCUobrL97A2Unk8",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2O1NYIBQCUobrL97A2Unk8",
+      externalLink: "https://open.spotify.com/album/2O1NYIBQCUobrL97A2Unk8",
+    },
+  ],
 } as const satisfies Release

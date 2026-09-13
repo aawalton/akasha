@@ -12,6 +12,11 @@ export const taylorSwift2AllTooWellSadGirlAutumnVersionRecordedAtLongPondStudios
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-18",
-  externalId: "4qgs0gHJBgycj5SKqafFOB",
-  externalLink: "https://open.spotify.com/album/4qgs0gHJBgycj5SKqafFOB",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4qgs0gHJBgycj5SKqafFOB",
+      externalLink: "https://open.spotify.com/album/4qgs0gHJBgycj5SKqafFOB",
+    },
+  ],
 } as const satisfies Release

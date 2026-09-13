@@ -12,6 +12,11 @@ export const snailMailTwoLegsSnailMailVersion = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-04-23",
-  externalId: "3RmEXZXd4bdfVB2WMnc9IX",
-  externalLink: "https://open.spotify.com/album/3RmEXZXd4bdfVB2WMnc9IX",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3RmEXZXd4bdfVB2WMnc9IX",
+      externalLink: "https://open.spotify.com/album/3RmEXZXd4bdfVB2WMnc9IX",
+    },
+  ],
 } as const satisfies Release

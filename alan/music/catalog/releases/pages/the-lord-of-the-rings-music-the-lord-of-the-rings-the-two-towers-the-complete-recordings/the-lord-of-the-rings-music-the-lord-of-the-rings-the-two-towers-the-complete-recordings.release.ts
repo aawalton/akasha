@@ -12,7 +12,12 @@ export const theLordOfTheRingsMusicTheLordOfTheRingsTheTwoTowersTheCompleteRecor
   unit: "minutes",
   status: "not-started",
   publishedAt: "2002-01-01",
-  externalId: "1MrqY9fdmJFExV6cWhxgQ6",
-  externalLink: "https://open.spotify.com/album/1MrqY9fdmJFExV6cWhxgQ6",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1MrqY9fdmJFExV6cWhxgQ6",
+      externalLink: "https://open.spotify.com/album/1MrqY9fdmJFExV6cWhxgQ6",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

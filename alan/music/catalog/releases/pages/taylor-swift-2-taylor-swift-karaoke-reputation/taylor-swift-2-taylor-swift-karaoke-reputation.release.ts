@@ -12,6 +12,11 @@ export const taylorSwift2TaylorSwiftKaraokeReputation = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-03-09",
-  externalId: "1MHuZZrGT36cXLxAQ5cLP3",
-  externalLink: "https://open.spotify.com/album/1MHuZZrGT36cXLxAQ5cLP3",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1MHuZZrGT36cXLxAQ5cLP3",
+      externalLink: "https://open.spotify.com/album/1MHuZZrGT36cXLxAQ5cLP3",
+    },
+  ],
 } as const satisfies Release

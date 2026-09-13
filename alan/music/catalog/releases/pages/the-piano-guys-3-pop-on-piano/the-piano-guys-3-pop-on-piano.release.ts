@@ -12,7 +12,12 @@ export const thePianoGuys3PopOnPiano = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2026-01-09",
-  externalId: "0xaKxMnwxahtBt2cxgbaYH",
-  externalLink: "https://open.spotify.com/album/0xaKxMnwxahtBt2cxgbaYH",
-  lastSyncedAt: "2026-01-23",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0xaKxMnwxahtBt2cxgbaYH",
+      externalLink: "https://open.spotify.com/album/0xaKxMnwxahtBt2cxgbaYH",
+      lastSyncedAt: "2026-01-23",
+    },
+  ],
 } as const satisfies Release

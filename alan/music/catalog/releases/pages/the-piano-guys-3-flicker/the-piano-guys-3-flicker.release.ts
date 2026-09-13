@@ -12,6 +12,11 @@ export const thePianoGuys3Flicker = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-11-09",
-  externalId: "6f37zhIhkiLiXps8NRDbdK",
-  externalLink: "https://open.spotify.com/album/6f37zhIhkiLiXps8NRDbdK",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6f37zhIhkiLiXps8NRDbdK",
+      externalLink: "https://open.spotify.com/album/6f37zhIhkiLiXps8NRDbdK",
+    },
+  ],
 } as const satisfies Release

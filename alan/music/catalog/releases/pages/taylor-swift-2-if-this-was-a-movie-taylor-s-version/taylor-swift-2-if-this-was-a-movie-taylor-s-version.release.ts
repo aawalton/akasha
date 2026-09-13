@@ -12,6 +12,11 @@ export const taylorSwift2IfThisWasAMovieTaylorSVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-09",
-  externalId: "6IZm7NfvWyXp952VF36Z5F",
-  externalLink: "https://open.spotify.com/album/6IZm7NfvWyXp952VF36Z5F",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6IZm7NfvWyXp952VF36Z5F",
+      externalLink: "https://open.spotify.com/album/6IZm7NfvWyXp952VF36Z5F",
+    },
+  ],
 } as const satisfies Release

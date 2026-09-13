@@ -12,6 +12,11 @@ export const theBeatles2AHardDaySNightRemastered = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1964-07-10",
-  externalId: "6wCttLq0ADzkPgtRnUihLV",
-  externalLink: "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6wCttLq0ADzkPgtRnUihLV",
+      externalLink: "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV",
+    },
+  ],
 } as const satisfies Release

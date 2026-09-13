@@ -12,6 +12,11 @@ export const thePianoGuys3SweetChildOMine = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-09-10",
-  externalId: "3CIgrdHPEJLe2ziTYY0Sex",
-  externalLink: "https://open.spotify.com/album/3CIgrdHPEJLe2ziTYY0Sex",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3CIgrdHPEJLe2ziTYY0Sex",
+      externalLink: "https://open.spotify.com/album/3CIgrdHPEJLe2ziTYY0Sex",
+    },
+  ],
 } as const satisfies Release

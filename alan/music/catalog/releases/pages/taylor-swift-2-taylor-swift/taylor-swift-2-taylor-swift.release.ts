@@ -12,6 +12,11 @@ export const taylorSwift2TaylorSwift = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2006-10-24",
-  externalId: "7mzrIsaAjnXihW3InKjlC3",
-  externalLink: "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7mzrIsaAjnXihW3InKjlC3",
+      externalLink: "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3",
+    },
+  ],
 } as const satisfies Release

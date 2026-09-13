@@ -12,7 +12,12 @@ export const siaThisIsActing10thAnniversaryEdition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2026-01-29",
-  externalId: "2LaW7npYOD7TzJHdpkqLuk",
-  externalLink: "https://open.spotify.com/album/2LaW7npYOD7TzJHdpkqLuk",
-  lastSyncedAt: "2026-02-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2LaW7npYOD7TzJHdpkqLuk",
+      externalLink: "https://open.spotify.com/album/2LaW7npYOD7TzJHdpkqLuk",
+      lastSyncedAt: "2026-02-10",
+    },
+  ],
 } as const satisfies Release

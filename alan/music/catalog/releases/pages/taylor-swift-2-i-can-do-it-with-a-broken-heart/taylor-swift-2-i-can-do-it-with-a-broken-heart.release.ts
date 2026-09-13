@@ -12,6 +12,11 @@ export const taylorSwift2ICanDoItWithABrokenHeart = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-07-16",
-  externalId: "3yVqF1TOg60hk9ehgMj3na",
-  externalLink: "https://open.spotify.com/album/3yVqF1TOg60hk9ehgMj3na",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3yVqF1TOg60hk9ehgMj3na",
+      externalLink: "https://open.spotify.com/album/3yVqF1TOg60hk9ehgMj3na",
+    },
+  ],
 } as const satisfies Release

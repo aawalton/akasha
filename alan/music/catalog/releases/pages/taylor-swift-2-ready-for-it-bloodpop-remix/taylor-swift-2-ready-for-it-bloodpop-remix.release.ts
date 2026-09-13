@@ -12,6 +12,11 @@ export const taylorSwift2ReadyForItBloodpopRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-12-01",
-  externalId: "45fMDoh9dhhQicddIZzhKM",
-  externalLink: "https://open.spotify.com/album/45fMDoh9dhhQicddIZzhKM",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "45fMDoh9dhhQicddIZzhKM",
+      externalLink: "https://open.spotify.com/album/45fMDoh9dhhQicddIZzhKM",
+    },
+  ],
 } as const satisfies Release

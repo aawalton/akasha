@@ -12,7 +12,12 @@ export const theHoldernessFamilyFantasyFootballAnthem = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-09-09",
-  externalId: "72J9nRJcxP6AQxMabKUEV9",
-  externalLink: "https://open.spotify.com/album/72J9nRJcxP6AQxMabKUEV9",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "72J9nRJcxP6AQxMabKUEV9",
+      externalLink: "https://open.spotify.com/album/72J9nRJcxP6AQxMabKUEV9",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

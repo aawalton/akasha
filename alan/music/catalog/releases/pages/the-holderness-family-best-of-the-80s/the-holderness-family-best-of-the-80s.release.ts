@@ -12,7 +12,12 @@ export const theHoldernessFamilyBestOfThe80s = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-28",
-  externalId: "5ciGBaY02IkpnpPJdzR6cc",
-  externalLink: "https://open.spotify.com/album/5ciGBaY02IkpnpPJdzR6cc",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5ciGBaY02IkpnpPJdzR6cc",
+      externalLink: "https://open.spotify.com/album/5ciGBaY02IkpnpPJdzR6cc",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

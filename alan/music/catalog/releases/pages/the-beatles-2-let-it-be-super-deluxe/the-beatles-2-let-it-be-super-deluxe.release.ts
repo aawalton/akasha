@@ -12,6 +12,11 @@ export const theBeatles2LetItBeSuperDeluxe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-15",
-  externalId: "1BdxbYp1FaNejpDgtDo25V",
-  externalLink: "https://open.spotify.com/album/1BdxbYp1FaNejpDgtDo25V",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1BdxbYp1FaNejpDgtDo25V",
+      externalLink: "https://open.spotify.com/album/1BdxbYp1FaNejpDgtDo25V",
+    },
+  ],
 } as const satisfies Release

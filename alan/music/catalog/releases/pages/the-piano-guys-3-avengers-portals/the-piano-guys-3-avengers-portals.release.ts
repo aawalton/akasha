@@ -12,6 +12,11 @@ export const thePianoGuys3AvengersPortals = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-08",
-  externalId: "3XF9a3HI2K79TQsGtAjDPc",
-  externalLink: "https://open.spotify.com/album/3XF9a3HI2K79TQsGtAjDPc",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3XF9a3HI2K79TQsGtAjDPc",
+      externalLink: "https://open.spotify.com/album/3XF9a3HI2K79TQsGtAjDPc",
+    },
+  ],
 } as const satisfies Release

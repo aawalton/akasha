@@ -12,6 +12,11 @@ export const taylorSwift2SpeakNowTaylorSVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-07-07",
-  externalId: "5AEDGbliTTfjOB8TSm1sxt",
-  externalLink: "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5AEDGbliTTfjOB8TSm1sxt",
+      externalLink: "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt",
+    },
+  ],
 } as const satisfies Release

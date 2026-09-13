@@ -12,6 +12,11 @@ export const theBeatles2Love = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2006-11-17",
-  externalId: "1Ye7yrA7vAlQnoooj8yDXb",
-  externalLink: "https://open.spotify.com/album/1Ye7yrA7vAlQnoooj8yDXb",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Ye7yrA7vAlQnoooj8yDXb",
+      externalLink: "https://open.spotify.com/album/1Ye7yrA7vAlQnoooj8yDXb",
+    },
+  ],
 } as const satisfies Release

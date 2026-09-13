@@ -12,7 +12,12 @@ export const siaUnstoppable = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-01-21",
-  externalId: "1o1ElG9Z0MKQ7IDHhua1fK",
-  externalLink: "https://open.spotify.com/album/1o1ElG9Z0MKQ7IDHhua1fK",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1o1ElG9Z0MKQ7IDHhua1fK",
+      externalLink: "https://open.spotify.com/album/1o1ElG9Z0MKQ7IDHhua1fK",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

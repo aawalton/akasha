@@ -12,6 +12,11 @@ export const taylorSwift2FolkloreTheLongPondStudioSessionsFromTheDisneySpecialDe
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-25",
-  externalId: "0PZ7lAru5FDFHuirTkWe9Z",
-  externalLink: "https://open.spotify.com/album/0PZ7lAru5FDFHuirTkWe9Z",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0PZ7lAru5FDFHuirTkWe9Z",
+      externalLink: "https://open.spotify.com/album/0PZ7lAru5FDFHuirTkWe9Z",
+    },
+  ],
 } as const satisfies Release

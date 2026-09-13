@@ -12,7 +12,12 @@ export const siaTripleJLiveAtTheWirelessBigDayOut2011 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-15",
-  externalId: "4DKjALtZlfNn9v4SCu3vtI",
-  externalLink: "https://open.spotify.com/album/4DKjALtZlfNn9v4SCu3vtI",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4DKjALtZlfNn9v4SCu3vtI",
+      externalLink: "https://open.spotify.com/album/4DKjALtZlfNn9v4SCu3vtI",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

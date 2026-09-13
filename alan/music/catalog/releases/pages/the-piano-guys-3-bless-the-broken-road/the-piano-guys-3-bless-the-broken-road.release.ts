@@ -12,6 +12,11 @@ export const thePianoGuys3BlessTheBrokenRoad = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-24",
-  externalId: "0lAKUFlibEe6yMQmhvMF09",
-  externalLink: "https://open.spotify.com/album/0lAKUFlibEe6yMQmhvMF09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0lAKUFlibEe6yMQmhvMF09",
+      externalLink: "https://open.spotify.com/album/0lAKUFlibEe6yMQmhvMF09",
+    },
+  ],
 } as const satisfies Release

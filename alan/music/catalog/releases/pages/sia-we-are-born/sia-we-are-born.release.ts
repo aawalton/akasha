@@ -12,7 +12,12 @@ export const siaWeAreBorn = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2010-06-21",
-  externalId: "55vXDESMdISZiIBL1GMsWr",
-  externalLink: "https://open.spotify.com/album/55vXDESMdISZiIBL1GMsWr",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "55vXDESMdISZiIBL1GMsWr",
+      externalLink: "https://open.spotify.com/album/55vXDESMdISZiIBL1GMsWr",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

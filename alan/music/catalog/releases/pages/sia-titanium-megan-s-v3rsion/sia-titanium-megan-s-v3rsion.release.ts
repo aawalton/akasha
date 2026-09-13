@@ -12,7 +12,12 @@ export const siaTitaniumMeganSV3rsion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-01-09",
-  externalId: "1nFSFPGbTNi9mIRvOwspc9",
-  externalLink: "https://open.spotify.com/album/1nFSFPGbTNi9mIRvOwspc9",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1nFSFPGbTNi9mIRvOwspc9",
+      externalLink: "https://open.spotify.com/album/1nFSFPGbTNi9mIRvOwspc9",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const taylorSwift2TheArcherLiveFromParis = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-17",
-  externalId: "2A1msASmUbUdaZyeOxpbAD",
-  externalLink: "https://open.spotify.com/album/2A1msASmUbUdaZyeOxpbAD",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2A1msASmUbUdaZyeOxpbAD",
+      externalLink: "https://open.spotify.com/album/2A1msASmUbUdaZyeOxpbAD",
+    },
+  ],
 } as const satisfies Release

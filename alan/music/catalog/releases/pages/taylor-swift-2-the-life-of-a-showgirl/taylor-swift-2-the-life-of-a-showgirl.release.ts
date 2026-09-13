@@ -13,7 +13,12 @@ export const taylorSwift2TheLifeOfAShowgirl = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-10-03",
-  externalId: "4a6NzYL1YHRUgx9e3YZI6I",
-  externalLink: "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4a6NzYL1YHRUgx9e3YZI6I",
+      externalLink: "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

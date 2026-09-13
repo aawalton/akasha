@@ -12,7 +12,12 @@ export const siaHeyBoyTheRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-01-22",
-  externalId: "2Rzazh4w70Hx1HU9CEREbZ",
-  externalLink: "https://open.spotify.com/album/2Rzazh4w70Hx1HU9CEREbZ",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Rzazh4w70Hx1HU9CEREbZ",
+      externalLink: "https://open.spotify.com/album/2Rzazh4w70Hx1HU9CEREbZ",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const taylorSwift2AntiHeroFeatBleachers = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-08",
-  externalId: "18DEtVsRVQ4rxqnOIAPwRB",
-  externalLink: "https://open.spotify.com/album/18DEtVsRVQ4rxqnOIAPwRB",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "18DEtVsRVQ4rxqnOIAPwRB",
+      externalLink: "https://open.spotify.com/album/18DEtVsRVQ4rxqnOIAPwRB",
+    },
+  ],
 } as const satisfies Release

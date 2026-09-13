@@ -12,7 +12,12 @@ export const siaUnstoppableR3habRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-08",
-  externalId: "3qWCIK0fqmaaSTLoqoWsaz",
-  externalLink: "https://open.spotify.com/album/3qWCIK0fqmaaSTLoqoWsaz",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3qWCIK0fqmaaSTLoqoWsaz",
+      externalLink: "https://open.spotify.com/album/3qWCIK0fqmaaSTLoqoWsaz",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

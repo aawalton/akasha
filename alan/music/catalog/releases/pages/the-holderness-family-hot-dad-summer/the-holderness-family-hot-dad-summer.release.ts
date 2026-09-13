@@ -12,7 +12,12 @@ export const theHoldernessFamilyHotDadSummer = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-01",
-  externalId: "3hLu8UFdpJF80hhA90GAls",
-  externalLink: "https://open.spotify.com/album/3hLu8UFdpJF80hhA90GAls",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3hLu8UFdpJF80hhA90GAls",
+      externalLink: "https://open.spotify.com/album/3hLu8UFdpJF80hhA90GAls",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

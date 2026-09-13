@@ -12,6 +12,11 @@ export const thePianoGuys3RollingInTheDeep = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-09-11",
-  externalId: "2Jy7wRJN7Y0msbgYnw9NrO",
-  externalLink: "https://open.spotify.com/album/2Jy7wRJN7Y0msbgYnw9NrO",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Jy7wRJN7Y0msbgYnw9NrO",
+      externalLink: "https://open.spotify.com/album/2Jy7wRJN7Y0msbgYnw9NrO",
+    },
+  ],
 } as const satisfies Release

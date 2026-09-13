@@ -12,7 +12,12 @@ export const siaGeniusBanxRanxRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-07-06",
-  externalId: "1Xo1BbCbbXo9RkrjFFgGyH",
-  externalLink: "https://open.spotify.com/album/1Xo1BbCbbXo9RkrjFFgGyH",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Xo1BbCbbXo9RkrjFFgGyH",
+      externalLink: "https://open.spotify.com/album/1Xo1BbCbbXo9RkrjFFgGyH",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

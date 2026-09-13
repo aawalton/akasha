@@ -12,7 +12,12 @@ export const siaYouCanDoAnythingMtgDaSiaWithJasonDerulo = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-01-10",
-  externalId: "3gZ64K8yS6ZqYToAEvqFFt",
-  externalLink: "https://open.spotify.com/album/3gZ64K8yS6ZqYToAEvqFFt",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3gZ64K8yS6ZqYToAEvqFFt",
+      externalLink: "https://open.spotify.com/album/3gZ64K8yS6ZqYToAEvqFFt",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

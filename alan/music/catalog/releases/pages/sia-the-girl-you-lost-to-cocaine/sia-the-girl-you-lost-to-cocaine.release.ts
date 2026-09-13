@@ -12,7 +12,12 @@ export const siaTheGirlYouLostToCocaine = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-01-01",
-  externalId: "0psPpltnZMSDnU67ma2hID",
-  externalLink: "https://open.spotify.com/album/0psPpltnZMSDnU67ma2hID",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0psPpltnZMSDnU67ma2hID",
+      externalLink: "https://open.spotify.com/album/0psPpltnZMSDnU67ma2hID",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

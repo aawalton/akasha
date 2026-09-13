@@ -12,7 +12,12 @@ export const siaNoNewFriendsRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-05-16",
-  externalId: "32xFYr17qgtcvVsDqVZHf7",
-  externalLink: "https://open.spotify.com/album/32xFYr17qgtcvVsDqVZHf7",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "32xFYr17qgtcvVsDqVZHf7",
+      externalLink: "https://open.spotify.com/album/32xFYr17qgtcvVsDqVZHf7",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareCalledToServe = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2008-01-01",
-  externalId: "5dPfAMpoutlRwwwg73PyWC",
-  externalLink: "https://open.spotify.com/album/5dPfAMpoutlRwwwg73PyWC",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5dPfAMpoutlRwwwg73PyWC",
+      externalLink: "https://open.spotify.com/album/5dPfAMpoutlRwwwg73PyWC",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

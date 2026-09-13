@@ -12,6 +12,11 @@ export const thePianoGuys3LoveMeLikeIAm = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-03-24",
-  externalId: "7v728oCxcPTk0T41T23V1D",
-  externalLink: "https://open.spotify.com/album/7v728oCxcPTk0T41T23V1D",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7v728oCxcPTk0T41T23V1D",
+      externalLink: "https://open.spotify.com/album/7v728oCxcPTk0T41T23V1D",
+    },
+  ],
 } as const satisfies Release

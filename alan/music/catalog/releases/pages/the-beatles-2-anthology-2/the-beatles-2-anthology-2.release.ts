@@ -12,6 +12,11 @@ export const theBeatles2Anthology2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1996-03-18",
-  externalId: "3Lf8VA23cMAl5imbABTZoo",
-  externalLink: "https://open.spotify.com/album/3Lf8VA23cMAl5imbABTZoo",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3Lf8VA23cMAl5imbABTZoo",
+      externalLink: "https://open.spotify.com/album/3Lf8VA23cMAl5imbABTZoo",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const siaUnstoppableClarenceClarityRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-21",
-  externalId: "6Se0Auz6TJwAsSdAgI3QhR",
-  externalLink: "https://open.spotify.com/album/6Se0Auz6TJwAsSdAgI3QhR",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Se0Auz6TJwAsSdAgI3QhR",
+      externalLink: "https://open.spotify.com/album/6Se0Auz6TJwAsSdAgI3QhR",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

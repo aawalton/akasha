@@ -12,7 +12,12 @@ export const siaHereIAmFromTheDumplinOriginalMotionPictureSoundtrack = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-09-14",
-  externalId: "0Azr6asv0PO6raP0Di8DoI",
-  externalLink: "https://open.spotify.com/album/0Azr6asv0PO6raP0Di8DoI",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0Azr6asv0PO6raP0Di8DoI",
+      externalLink: "https://open.spotify.com/album/0Azr6asv0PO6raP0Di8DoI",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

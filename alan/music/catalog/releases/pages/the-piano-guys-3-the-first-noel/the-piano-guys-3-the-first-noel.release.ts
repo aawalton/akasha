@@ -12,6 +12,11 @@ export const thePianoGuys3TheFirstNoel = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-12-13",
-  externalId: "4Rfi5LT9TRUREM6FRg4AQV",
-  externalLink: "https://open.spotify.com/album/4Rfi5LT9TRUREM6FRg4AQV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4Rfi5LT9TRUREM6FRg4AQV",
+      externalLink: "https://open.spotify.com/album/4Rfi5LT9TRUREM6FRg4AQV",
+    },
+  ],
 } as const satisfies Release

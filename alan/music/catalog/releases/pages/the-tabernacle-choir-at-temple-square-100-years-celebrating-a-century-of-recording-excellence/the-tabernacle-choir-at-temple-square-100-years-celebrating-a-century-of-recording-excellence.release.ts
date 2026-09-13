@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquare100YearsCelebratingACenturyOfRecord
   unit: "minutes",
   status: "not-started",
   publishedAt: "2010-06-15",
-  externalId: "6RtntjH8642XPZ7lXcOnSn",
-  externalLink: "https://open.spotify.com/album/6RtntjH8642XPZ7lXcOnSn",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6RtntjH8642XPZ7lXcOnSn",
+      externalLink: "https://open.spotify.com/album/6RtntjH8642XPZ7lXcOnSn",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

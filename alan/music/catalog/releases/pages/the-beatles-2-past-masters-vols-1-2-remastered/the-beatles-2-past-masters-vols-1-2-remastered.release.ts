@@ -12,6 +12,11 @@ export const theBeatles2PastMastersVols12Remastered = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1988-03-07",
-  externalId: "3GmCXW10kLxmZrEY0JpRlw",
-  externalLink: "https://open.spotify.com/album/3GmCXW10kLxmZrEY0JpRlw",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3GmCXW10kLxmZrEY0JpRlw",
+      externalLink: "https://open.spotify.com/album/3GmCXW10kLxmZrEY0JpRlw",
+    },
+  ],
 } as const satisfies Release

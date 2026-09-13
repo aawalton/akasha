@@ -12,7 +12,12 @@ export const siaReasonableRemixes2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-11-15",
-  externalId: "0qDgEVS660Z42F7DddEUqn",
-  externalLink: "https://open.spotify.com/album/0qDgEVS660Z42F7DddEUqn",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0qDgEVS660Z42F7DddEUqn",
+      externalLink: "https://open.spotify.com/album/0qDgEVS660Z42F7DddEUqn",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

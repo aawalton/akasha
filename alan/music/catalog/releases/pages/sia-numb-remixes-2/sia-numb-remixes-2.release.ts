@@ -12,7 +12,12 @@ export const siaNumbRemixes2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-07-15",
-  externalId: "4sWLp70CtgtwDgj4aiigQV",
-  externalLink: "https://open.spotify.com/album/4sWLp70CtgtwDgj4aiigQV",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4sWLp70CtgtwDgj4aiigQV",
+      externalLink: "https://open.spotify.com/album/4sWLp70CtgtwDgj4aiigQV",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

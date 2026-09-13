@@ -12,6 +12,11 @@ export const taylorSwift2ThisLoveTaylorSVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-05-06",
-  externalId: "3In1CblWZswwun5MhOa10y",
-  externalLink: "https://open.spotify.com/album/3In1CblWZswwun5MhOa10y",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3In1CblWZswwun5MhOa10y",
+      externalLink: "https://open.spotify.com/album/3In1CblWZswwun5MhOa10y",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const thePianoGuys3ClassicalMovieSoundtracks = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-09-19",
-  externalId: "0wShLZqfVszY7hoGyM55WU",
-  externalLink: "https://open.spotify.com/album/0wShLZqfVszY7hoGyM55WU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0wShLZqfVszY7hoGyM55WU",
+      externalLink: "https://open.spotify.com/album/0wShLZqfVszY7hoGyM55WU",
+    },
+  ],
 } as const satisfies Release

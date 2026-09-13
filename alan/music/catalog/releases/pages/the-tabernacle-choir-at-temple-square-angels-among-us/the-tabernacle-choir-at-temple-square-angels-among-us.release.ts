@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareAngelsAmongUs = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-10-18",
-  externalId: "79rvWXhkXby4BMxFR0tp2g",
-  externalLink: "https://open.spotify.com/album/79rvWXhkXby4BMxFR0tp2g",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "79rvWXhkXby4BMxFR0tp2g",
+      externalLink: "https://open.spotify.com/album/79rvWXhkXby4BMxFR0tp2g",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

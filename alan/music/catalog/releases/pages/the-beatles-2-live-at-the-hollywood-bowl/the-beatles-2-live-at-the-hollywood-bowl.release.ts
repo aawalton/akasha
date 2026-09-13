@@ -12,6 +12,11 @@ export const theBeatles2LiveAtTheHollywoodBowl = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-09-09",
-  externalId: "0n9SWDBEftKwq09B01Pwzw",
-  externalLink: "https://open.spotify.com/album/0n9SWDBEftKwq09B01Pwzw",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0n9SWDBEftKwq09B01Pwzw",
+      externalLink: "https://open.spotify.com/album/0n9SWDBEftKwq09B01Pwzw",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const siaHassHass = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-10-26",
-  externalId: "7F8VISoJUWFEY57b66QZxC",
-  externalLink: "https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7F8VISoJUWFEY57b66QZxC",
+      externalLink: "https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

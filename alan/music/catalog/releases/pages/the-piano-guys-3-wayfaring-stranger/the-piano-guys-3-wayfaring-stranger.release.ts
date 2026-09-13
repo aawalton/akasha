@@ -12,6 +12,11 @@ export const thePianoGuys3WayfaringStranger = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-04-14",
-  externalId: "0ZUIyAAGMqGNBKKaJk4vJX",
-  externalLink: "https://open.spotify.com/album/0ZUIyAAGMqGNBKKaJk4vJX",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0ZUIyAAGMqGNBKKaJk4vJX",
+      externalLink: "https://open.spotify.com/album/0ZUIyAAGMqGNBKKaJk4vJX",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const theBeatles2Beatles64MusicFromTheDisneyDocumentary = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-11-22",
-  externalId: "6Ov3BKM3fPEW1V6DtjQQar",
-  externalLink: "https://open.spotify.com/album/6Ov3BKM3fPEW1V6DtjQQar",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Ov3BKM3fPEW1V6DtjQQar",
+      externalLink: "https://open.spotify.com/album/6Ov3BKM3fPEW1V6DtjQQar",
+    },
+  ],
 } as const satisfies Release

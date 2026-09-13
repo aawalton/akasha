@@ -12,6 +12,11 @@ export const thePianoGuys3PicturesAtAnExhibition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-22",
-  externalId: "4AHhW9QiXILmC8lMwClxUn",
-  externalLink: "https://open.spotify.com/album/4AHhW9QiXILmC8lMwClxUn",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4AHhW9QiXILmC8lMwClxUn",
+      externalLink: "https://open.spotify.com/album/4AHhW9QiXILmC8lMwClxUn",
+    },
+  ],
 } as const satisfies Release

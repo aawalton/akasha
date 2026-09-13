@@ -12,7 +12,12 @@ export const theHoldernessFamilyQuarantineQueen = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-28",
-  externalId: "1gZPbQXfb3NaAyqZMiw9IE",
-  externalLink: "https://open.spotify.com/album/1gZPbQXfb3NaAyqZMiw9IE",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1gZPbQXfb3NaAyqZMiw9IE",
+      externalLink: "https://open.spotify.com/album/1gZPbQXfb3NaAyqZMiw9IE",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

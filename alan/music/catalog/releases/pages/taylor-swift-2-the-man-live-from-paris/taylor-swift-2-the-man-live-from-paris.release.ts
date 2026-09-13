@@ -12,6 +12,11 @@ export const taylorSwift2TheManLiveFromParis = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-02-18",
-  externalId: "6l7iXnb2Y4yDR9zag3kckA",
-  externalLink: "https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6l7iXnb2Y4yDR9zag3kckA",
+      externalLink: "https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA",
+    },
+  ],
 } as const satisfies Release

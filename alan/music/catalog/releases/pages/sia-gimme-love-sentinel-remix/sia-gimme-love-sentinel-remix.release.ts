@@ -12,7 +12,12 @@ export const siaGimmeLoveSentinelRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-12-01",
-  externalId: "34J0bHVtAsMfK7drJ8EhhF",
-  externalLink: "https://open.spotify.com/album/34J0bHVtAsMfK7drJ8EhhF",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "34J0bHVtAsMfK7drJ8EhhF",
+      externalLink: "https://open.spotify.com/album/34J0bHVtAsMfK7drJ8EhhF",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

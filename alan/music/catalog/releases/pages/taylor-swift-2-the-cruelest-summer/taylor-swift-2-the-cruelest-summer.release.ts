@@ -12,6 +12,11 @@ export const taylorSwift2TheCruelestSummer = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-10-19",
-  externalId: "12A1Byk8EpqzaHSw12nKyW",
-  externalLink: "https://open.spotify.com/album/12A1Byk8EpqzaHSw12nKyW",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "12A1Byk8EpqzaHSw12nKyW",
+      externalLink: "https://open.spotify.com/album/12A1Byk8EpqzaHSw12nKyW",
+    },
+  ],
 } as const satisfies Release

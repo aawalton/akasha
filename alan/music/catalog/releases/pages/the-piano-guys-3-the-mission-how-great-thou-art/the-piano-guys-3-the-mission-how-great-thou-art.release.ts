@@ -12,6 +12,11 @@ export const thePianoGuys3TheMissionHowGreatThouArt = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-30",
-  externalId: "0AS4ZbdCF6WQJQ1sUP0Wgo",
-  externalLink: "https://open.spotify.com/album/0AS4ZbdCF6WQJQ1sUP0Wgo",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0AS4ZbdCF6WQJQ1sUP0Wgo",
+      externalLink: "https://open.spotify.com/album/0AS4ZbdCF6WQJQ1sUP0Wgo",
+    },
+  ],
 } as const satisfies Release

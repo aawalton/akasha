@@ -12,7 +12,12 @@ export const taylorSwift2TheFateOfOpheliaAloneInMyTowerAcousticVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-10-31",
-  externalId: "60pPcuYWCIAdcErvx2TLGB",
-  externalLink: "https://open.spotify.com/album/60pPcuYWCIAdcErvx2TLGB",
-  lastSyncedAt: "2025-11-29",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "60pPcuYWCIAdcErvx2TLGB",
+      externalLink: "https://open.spotify.com/album/60pPcuYWCIAdcErvx2TLGB",
+      lastSyncedAt: "2025-11-29",
+    },
+  ],
 } as const satisfies Release

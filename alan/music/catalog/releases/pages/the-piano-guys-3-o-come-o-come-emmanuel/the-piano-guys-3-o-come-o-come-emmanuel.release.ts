@@ -12,6 +12,11 @@ export const thePianoGuys3OComeOComeEmmanuel = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-11-01",
-  externalId: "2s8owMRViyWBnztyAUNG2i",
-  externalLink: "https://open.spotify.com/album/2s8owMRViyWBnztyAUNG2i",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2s8owMRViyWBnztyAUNG2i",
+      externalLink: "https://open.spotify.com/album/2s8owMRViyWBnztyAUNG2i",
+    },
+  ],
 } as const satisfies Release

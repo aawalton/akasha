@@ -12,6 +12,11 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylist = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-11-09",
-  externalId: "1MPAXuTVL2Ej5x0JHiSPq8",
-  externalLink: "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1MPAXuTVL2Ej5x0JHiSPq8",
+      externalLink: "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8",
+    },
+  ],
 } as const satisfies Release

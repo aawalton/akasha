@@ -12,7 +12,12 @@ export const siaGimmeChristmasLofiSoundscape = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-09-10",
-  externalId: "4nAUevRrNryD4J53nDtIpT",
-  externalLink: "https://open.spotify.com/album/4nAUevRrNryD4J53nDtIpT",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4nAUevRrNryD4J53nDtIpT",
+      externalLink: "https://open.spotify.com/album/4nAUevRrNryD4J53nDtIpT",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

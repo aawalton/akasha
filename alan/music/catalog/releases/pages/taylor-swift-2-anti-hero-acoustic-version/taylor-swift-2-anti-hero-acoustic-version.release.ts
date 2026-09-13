@@ -12,6 +12,11 @@ export const taylorSwift2AntiHeroAcousticVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-25",
-  externalId: "5vgWXUueeEU2labRz6TlNv",
-  externalLink: "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5vgWXUueeEU2labRz6TlNv",
+      externalLink: "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv",
+    },
+  ],
 } as const satisfies Release

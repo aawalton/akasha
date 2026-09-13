@@ -12,6 +12,11 @@ export const taylorSwift2SweeterThanFiction = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-10-21",
-  externalId: "11e4xCXllbvk8pWc1cCas1",
-  externalLink: "https://open.spotify.com/album/11e4xCXllbvk8pWc1cCas1",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "11e4xCXllbvk8pWc1cCas1",
+      externalLink: "https://open.spotify.com/album/11e4xCXllbvk8pWc1cCas1",
+    },
+  ],
 } as const satisfies Release

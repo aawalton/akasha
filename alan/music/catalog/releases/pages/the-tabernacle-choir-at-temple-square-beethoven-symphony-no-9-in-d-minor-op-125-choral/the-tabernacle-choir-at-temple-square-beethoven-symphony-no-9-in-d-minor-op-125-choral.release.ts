@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareBeethovenSymphonyNo9InDMinorOp125Ch
   unit: "minutes",
   status: "completed",
   publishedAt: "1966-01-01",
-  externalId: "3xcaMOxOdfwFci1MxIaX4Y",
-  externalLink: "https://open.spotify.com/album/3xcaMOxOdfwFci1MxIaX4Y",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3xcaMOxOdfwFci1MxIaX4Y",
+      externalLink: "https://open.spotify.com/album/3xcaMOxOdfwFci1MxIaX4Y",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

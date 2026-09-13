@@ -12,6 +12,11 @@ export const theBeatles2OnAirLiveAtTheBbcVol2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-11-11",
-  externalId: "4On0Hf7VJC1jz5gXY2cU8p",
-  externalLink: "https://open.spotify.com/album/4On0Hf7VJC1jz5gXY2cU8p",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4On0Hf7VJC1jz5gXY2cU8p",
+      externalLink: "https://open.spotify.com/album/4On0Hf7VJC1jz5gXY2cU8p",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const taylorSwift2DaylightLiveFromParis = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-17",
-  externalId: "2apcAEM6coXOMnHitrpRDk",
-  externalLink: "https://open.spotify.com/album/2apcAEM6coXOMnHitrpRDk",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2apcAEM6coXOMnHitrpRDk",
+      externalLink: "https://open.spotify.com/album/2apcAEM6coXOMnHitrpRDk",
+    },
+  ],
 } as const satisfies Release

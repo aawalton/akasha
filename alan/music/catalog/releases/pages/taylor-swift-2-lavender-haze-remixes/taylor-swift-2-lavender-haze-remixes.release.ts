@@ -12,6 +12,11 @@ export const taylorSwift2LavenderHazeRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-03-03",
-  externalId: "5LyzI39gkePgpHz38bEQIr",
-  externalLink: "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5LyzI39gkePgpHz38bEQIr",
+      externalLink: "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr",
+    },
+  ],
 } as const satisfies Release

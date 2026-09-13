@@ -12,6 +12,11 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthology = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-04-19",
-  externalId: "5H7ixXZfsNMGbIE5OBSpcb",
-  externalLink: "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5H7ixXZfsNMGbIE5OBSpcb",
+      externalLink: "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb",
+    },
+  ],
 } as const satisfies Release

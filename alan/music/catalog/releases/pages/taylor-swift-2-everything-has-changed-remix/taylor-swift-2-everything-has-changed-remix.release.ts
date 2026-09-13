@@ -12,6 +12,11 @@ export const taylorSwift2EverythingHasChangedRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-01-01",
-  externalId: "7CoqvPGCLHm7LbgH2Pz9aY",
-  externalLink: "https://open.spotify.com/album/7CoqvPGCLHm7LbgH2Pz9aY",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7CoqvPGCLHm7LbgH2Pz9aY",
+      externalLink: "https://open.spotify.com/album/7CoqvPGCLHm7LbgH2Pz9aY",
+    },
+  ],
 } as const satisfies Release

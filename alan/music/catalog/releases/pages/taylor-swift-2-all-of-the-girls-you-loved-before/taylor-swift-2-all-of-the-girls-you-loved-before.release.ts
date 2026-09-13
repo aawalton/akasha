@@ -12,6 +12,11 @@ export const taylorSwift2AllOfTheGirlsYouLovedBefore = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-08-23",
-  externalId: "1Uauz6ql2dIPvIOH4JiuhD",
-  externalLink: "https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Uauz6ql2dIPvIOH4JiuhD",
+      externalLink: "https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD",
+    },
+  ],
 } as const satisfies Release

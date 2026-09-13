@@ -12,7 +12,12 @@ export const taylorSwift2TheFateOfOpheliaTheChainsmokersRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-11-28",
-  externalId: "264e9sevSUiitcQeM1y1C5",
-  externalLink: "https://open.spotify.com/album/264e9sevSUiitcQeM1y1C5",
-  lastSyncedAt: "2025-11-29",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "264e9sevSUiitcQeM1y1C5",
+      externalLink: "https://open.spotify.com/album/264e9sevSUiitcQeM1y1C5",
+      lastSyncedAt: "2025-11-29",
+    },
+  ],
 } as const satisfies Release

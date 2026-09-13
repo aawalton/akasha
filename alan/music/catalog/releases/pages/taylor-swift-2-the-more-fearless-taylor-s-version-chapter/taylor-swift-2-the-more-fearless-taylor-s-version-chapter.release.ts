@@ -12,6 +12,11 @@ export const taylorSwift2TheMoreFearlessTaylorSVersionChapter = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-09",
-  externalId: "6MMVrrxnNgGKg04ze1Pemw",
-  externalLink: "https://open.spotify.com/album/6MMVrrxnNgGKg04ze1Pemw",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6MMVrrxnNgGKg04ze1Pemw",
+      externalLink: "https://open.spotify.com/album/6MMVrrxnNgGKg04ze1Pemw",
+    },
+  ],
 } as const satisfies Release

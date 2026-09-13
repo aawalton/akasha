@@ -12,7 +12,12 @@ export const taylorSwift2OpaliteSkreamRemix = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2026-02-19",
-  externalId: "6WNAGQ9MfrSyOFbMc66pCz",
-  externalLink: "https://open.spotify.com/album/6WNAGQ9MfrSyOFbMc66pCz",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6WNAGQ9MfrSyOFbMc66pCz",
+      externalLink: "https://open.spotify.com/album/6WNAGQ9MfrSyOFbMc66pCz",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

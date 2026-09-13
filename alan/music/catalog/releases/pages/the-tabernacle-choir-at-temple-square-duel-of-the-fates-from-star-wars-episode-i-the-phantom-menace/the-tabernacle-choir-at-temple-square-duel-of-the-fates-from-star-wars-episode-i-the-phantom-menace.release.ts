@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareDuelOfTheFatesFromStarWarsEpisodeIT
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-05-01",
-  externalId: "6YBaiUNSpq9tLKKAK2UbdV",
-  externalLink: "https://open.spotify.com/album/6YBaiUNSpq9tLKKAK2UbdV",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6YBaiUNSpq9tLKKAK2UbdV",
+      externalLink: "https://open.spotify.com/album/6YBaiUNSpq9tLKKAK2UbdV",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

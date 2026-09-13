@@ -12,7 +12,12 @@ export const siaLetSLoveRobinSchulzRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-06",
-  externalId: "0juTrTwj325hZKbkTSxhWl",
-  externalLink: "https://open.spotify.com/album/0juTrTwj325hZKbkTSxhWl",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0juTrTwj325hZKbkTSxhWl",
+      externalLink: "https://open.spotify.com/album/0juTrTwj325hZKbkTSxhWl",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

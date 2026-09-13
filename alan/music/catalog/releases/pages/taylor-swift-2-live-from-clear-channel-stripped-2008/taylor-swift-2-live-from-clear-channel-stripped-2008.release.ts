@@ -12,6 +12,11 @@ export const taylorSwift2LiveFromClearChannelStripped2008 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-06-28",
-  externalId: "1ycoesYxIFymXWebfmz828",
-  externalLink: "https://open.spotify.com/album/1ycoesYxIFymXWebfmz828",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1ycoesYxIFymXWebfmz828",
+      externalLink: "https://open.spotify.com/album/1ycoesYxIFymXWebfmz828",
+    },
+  ],
 } as const satisfies Release

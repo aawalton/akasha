@@ -12,7 +12,12 @@ export const siaTogether = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-20",
-  externalId: "4TM7wmWEakp4xk1ZffVkL8",
-  externalLink: "https://open.spotify.com/album/4TM7wmWEakp4xk1ZffVkL8",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4TM7wmWEakp4xk1ZffVkL8",
+      externalLink: "https://open.spotify.com/album/4TM7wmWEakp4xk1ZffVkL8",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

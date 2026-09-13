@@ -12,7 +12,12 @@ export const siaLetSLoveDavidGuettaMortenFutureRaveRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-23",
-  externalId: "5ycDNsggvTkFJsxkPu6Vzr",
-  externalLink: "https://open.spotify.com/album/5ycDNsggvTkFJsxkPu6Vzr",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5ycDNsggvTkFJsxkPu6Vzr",
+      externalLink: "https://open.spotify.com/album/5ycDNsggvTkFJsxkPu6Vzr",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

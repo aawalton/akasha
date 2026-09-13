@@ -12,7 +12,12 @@ export const siaImmortalQueenFeatChakaKhanEve = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-08-02",
-  externalId: "3bIMMjzboZD5thhPhRZ8Sn",
-  externalLink: "https://open.spotify.com/album/3bIMMjzboZD5thhPhRZ8Sn",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3bIMMjzboZD5thhPhRZ8Sn",
+      externalLink: "https://open.spotify.com/album/3bIMMjzboZD5thhPhRZ8Sn",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

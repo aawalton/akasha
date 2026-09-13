@@ -12,6 +12,11 @@ export const thePianoGuys3Uncharted = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-10-28",
-  externalId: "6nNCnm0zCnx2CF033KpEVd",
-  externalLink: "https://open.spotify.com/album/6nNCnm0zCnx2CF033KpEVd",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6nNCnm0zCnx2CF033KpEVd",
+      externalLink: "https://open.spotify.com/album/6nNCnm0zCnx2CF033KpEVd",
+    },
+  ],
 } as const satisfies Release

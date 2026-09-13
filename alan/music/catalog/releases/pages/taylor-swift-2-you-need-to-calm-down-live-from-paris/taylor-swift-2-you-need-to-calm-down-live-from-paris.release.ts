@@ -12,6 +12,11 @@ export const taylorSwift2YouNeedToCalmDownLiveFromParis = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-17",
-  externalId: "1w1zVWd1JmsqAgfCw117Ra",
-  externalLink: "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1w1zVWd1JmsqAgfCw117Ra",
+      externalLink: "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra",
+    },
+  ],
 } as const satisfies Release

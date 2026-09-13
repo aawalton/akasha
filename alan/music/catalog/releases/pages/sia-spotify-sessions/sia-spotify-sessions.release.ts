@@ -12,7 +12,12 @@ export const siaSpotifySessions = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-04-13",
-  externalId: "2fBKreCrztEPXW5bUIgBTf",
-  externalLink: "https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2fBKreCrztEPXW5bUIgBTf",
+      externalLink: "https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

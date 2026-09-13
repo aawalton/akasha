@@ -12,7 +12,12 @@ export const siaGimmeLoveArminVanBuurenRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-10-20",
-  externalId: "7EMCPnAtiom6pK0oTqufM5",
-  externalLink: "https://open.spotify.com/album/7EMCPnAtiom6pK0oTqufM5",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7EMCPnAtiom6pK0oTqufM5",
+      externalLink: "https://open.spotify.com/album/7EMCPnAtiom6pK0oTqufM5",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

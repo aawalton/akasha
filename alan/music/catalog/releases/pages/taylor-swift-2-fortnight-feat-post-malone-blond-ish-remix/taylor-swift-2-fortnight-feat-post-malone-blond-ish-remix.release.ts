@@ -12,6 +12,11 @@ export const taylorSwift2FortnightFeatPostMaloneBlondIshRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-05-22",
-  externalId: "1agEHpWnELaZHWzcbGDCpu",
-  externalLink: "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1agEHpWnELaZHWzcbGDCpu",
+      externalLink: "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu",
+    },
+  ],
 } as const satisfies Release

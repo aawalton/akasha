@@ -12,6 +12,11 @@ export const taylorSwift2CarolinaFromTheMotionPictureWhereTheCrawdadsSing = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-24",
-  externalId: "5Bwg2XxrjTlrNy6BC7KQZf",
-  externalLink: "https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5Bwg2XxrjTlrNy6BC7KQZf",
+      externalLink: "https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const thePianoGuys3GoldenFromKpopDemonHunters = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-10-03",
-  externalId: "3gkmPBZ0QBV38LkAjmFhl5",
-  externalLink: "https://open.spotify.com/album/3gkmPBZ0QBV38LkAjmFhl5",
-  lastSyncedAt: "2026-01-23",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3gkmPBZ0QBV38LkAjmFhl5",
+      externalLink: "https://open.spotify.com/album/3gkmPBZ0QBV38LkAjmFhl5",
+      lastSyncedAt: "2026-01-23",
+    },
+  ],
 } as const satisfies Release

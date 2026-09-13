@@ -12,6 +12,11 @@ export const taylorSwift2EvermoreDeluxeVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-01-07",
-  externalId: "6AORtDjduMM3bupSWzbTSG",
-  externalLink: "https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6AORtDjduMM3bupSWzbTSG",
+      externalLink: "https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG",
+    },
+  ],
 } as const satisfies Release

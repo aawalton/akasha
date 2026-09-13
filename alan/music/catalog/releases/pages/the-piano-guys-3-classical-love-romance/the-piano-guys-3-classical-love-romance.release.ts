@@ -12,7 +12,12 @@ export const thePianoGuys3ClassicalLoveRomance = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-10-17",
-  externalId: "3QW5fyyw0ZbG5F9LKMtDG9",
-  externalLink: "https://open.spotify.com/album/3QW5fyyw0ZbG5F9LKMtDG9",
-  lastSyncedAt: "2026-01-23",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3QW5fyyw0ZbG5F9LKMtDG9",
+      externalLink: "https://open.spotify.com/album/3QW5fyyw0ZbG5F9LKMtDG9",
+      lastSyncedAt: "2026-01-23",
+    },
+  ],
 } as const satisfies Release

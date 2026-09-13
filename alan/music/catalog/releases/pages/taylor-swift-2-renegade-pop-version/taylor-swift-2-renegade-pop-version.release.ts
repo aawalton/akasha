@@ -12,6 +12,11 @@ export const taylorSwift2RenegadePopVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-08-17",
-  externalId: "49yiYOnz2UyaNl72xvDERt",
-  externalLink: "https://open.spotify.com/album/49yiYOnz2UyaNl72xvDERt",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "49yiYOnz2UyaNl72xvDERt",
+      externalLink: "https://open.spotify.com/album/49yiYOnz2UyaNl72xvDERt",
+    },
+  ],
 } as const satisfies Release

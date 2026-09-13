@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareChristmasWithTheMormonTabernacleCho
   unit: "minutes",
   status: "not-started",
   publishedAt: "2009-11-03",
-  externalId: "0seLRXtzDlFp73cr3Yq6Mo",
-  externalLink: "https://open.spotify.com/album/0seLRXtzDlFp73cr3Yq6Mo",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0seLRXtzDlFp73cr3Yq6Mo",
+      externalLink: "https://open.spotify.com/album/0seLRXtzDlFp73cr3Yq6Mo",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

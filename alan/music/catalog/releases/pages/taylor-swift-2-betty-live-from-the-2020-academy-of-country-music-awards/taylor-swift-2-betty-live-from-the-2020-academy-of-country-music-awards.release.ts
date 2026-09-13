@@ -12,6 +12,11 @@ export const taylorSwift2BettyLiveFromThe2020AcademyOfCountryMusicAwards = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-09-18",
-  externalId: "5smqkYeHq9jKRbaXpy3TpL",
-  externalLink: "https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5smqkYeHq9jKRbaXpy3TpL",
+      externalLink: "https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL",
+    },
+  ],
 } as const satisfies Release

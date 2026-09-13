@@ -13,7 +13,12 @@ export const sylviaDaleySecure = {
   status: "completed",
   rank: "A",
   publishedAt: "2025-07-25",
-  externalId: "2S3cLVwgzC38s8pmB4dQLu",
-  externalLink: "https://open.spotify.com/album/2S3cLVwgzC38s8pmB4dQLu",
-  lastSyncedAt: "2025-11-15",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2S3cLVwgzC38s8pmB4dQLu",
+      externalLink: "https://open.spotify.com/album/2S3cLVwgzC38s8pmB4dQLu",
+      lastSyncedAt: "2025-11-15",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const thePianoGuys3Lullaby = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-29",
-  externalId: "12IxRMkpVq8XKsexwaKeiJ",
-  externalLink: "https://open.spotify.com/album/12IxRMkpVq8XKsexwaKeiJ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "12IxRMkpVq8XKsexwaKeiJ",
+      externalLink: "https://open.spotify.com/album/12IxRMkpVq8XKsexwaKeiJ",
+    },
+  ],
 } as const satisfies Release

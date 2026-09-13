@@ -12,7 +12,12 @@ export const taylorSwift2OpaliteBuntRemix = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2026-02-19",
-  externalId: "5oO9uwBHZAawqYnmPpVUUi",
-  externalLink: "https://open.spotify.com/album/5oO9uwBHZAawqYnmPpVUUi",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5oO9uwBHZAawqYnmPpVUUi",
+      externalLink: "https://open.spotify.com/album/5oO9uwBHZAawqYnmPpVUUi",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

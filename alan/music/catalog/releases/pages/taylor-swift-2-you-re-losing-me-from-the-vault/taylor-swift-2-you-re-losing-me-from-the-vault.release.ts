@@ -12,6 +12,11 @@ export const taylorSwift2YouReLosingMeFromTheVault = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-29",
-  externalId: "5q3jthpn2h59P7pe2gmAl7",
-  externalLink: "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5q3jthpn2h59P7pe2gmAl7",
+      externalLink: "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7",
+    },
+  ],
 } as const satisfies Release

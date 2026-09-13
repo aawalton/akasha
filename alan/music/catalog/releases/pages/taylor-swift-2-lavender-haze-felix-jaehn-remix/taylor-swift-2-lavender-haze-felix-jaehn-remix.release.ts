@@ -12,6 +12,11 @@ export const taylorSwift2LavenderHazeFelixJaehnRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-02-10",
-  externalId: "5h060Rb0cfAGuny0L51zqV",
-  externalLink: "https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5h060Rb0cfAGuny0L51zqV",
+      externalLink: "https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV",
+    },
+  ],
 } as const satisfies Release

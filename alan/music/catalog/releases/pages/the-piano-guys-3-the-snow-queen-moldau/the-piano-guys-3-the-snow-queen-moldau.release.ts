@@ -12,6 +12,11 @@ export const thePianoGuys3TheSnowQueenMoldau = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-12-06",
-  externalId: "6aigfcdnKVotNXERI2tkcZ",
-  externalLink: "https://open.spotify.com/album/6aigfcdnKVotNXERI2tkcZ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6aigfcdnKVotNXERI2tkcZ",
+      externalLink: "https://open.spotify.com/album/6aigfcdnKVotNXERI2tkcZ",
+    },
+  ],
 } as const satisfies Release

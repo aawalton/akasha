@@ -12,6 +12,11 @@ export const thePianoGuys3MusicBoxDancer = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-12-02",
-  externalId: "5JfMSWjO3ZcPh1L1DiiwWp",
-  externalLink: "https://open.spotify.com/album/5JfMSWjO3ZcPh1L1DiiwWp",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5JfMSWjO3ZcPh1L1DiiwWp",
+      externalLink: "https://open.spotify.com/album/5JfMSWjO3ZcPh1L1DiiwWp",
+    },
+  ],
 } as const satisfies Release

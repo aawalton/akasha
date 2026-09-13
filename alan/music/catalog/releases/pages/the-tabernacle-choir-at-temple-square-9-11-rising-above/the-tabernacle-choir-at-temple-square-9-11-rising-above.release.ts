@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquare911RisingAbove = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2011-09-13",
-  externalId: "0J8hQLxbCtsARDb2UzUKtD",
-  externalLink: "https://open.spotify.com/album/0J8hQLxbCtsARDb2UzUKtD",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0J8hQLxbCtsARDb2UzUKtD",
+      externalLink: "https://open.spotify.com/album/0J8hQLxbCtsARDb2UzUKtD",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

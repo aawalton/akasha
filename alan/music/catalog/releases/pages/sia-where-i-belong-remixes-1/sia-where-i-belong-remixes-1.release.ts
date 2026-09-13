@@ -12,7 +12,12 @@ export const siaWhereIBelongRemixes1 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-01-01",
-  externalId: "107iMC5POFsLRFBz2m9TKo",
-  externalLink: "https://open.spotify.com/album/107iMC5POFsLRFBz2m9TKo",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "107iMC5POFsLRFBz2m9TKo",
+      externalLink: "https://open.spotify.com/album/107iMC5POFsLRFBz2m9TKo",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

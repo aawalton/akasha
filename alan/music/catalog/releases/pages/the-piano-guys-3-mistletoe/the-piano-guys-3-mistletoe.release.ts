@@ -12,6 +12,11 @@ export const thePianoGuys3Mistletoe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-12-09",
-  externalId: "4tPB4mfJ6h6Pkvw33HLlA8",
-  externalLink: "https://open.spotify.com/album/4tPB4mfJ6h6Pkvw33HLlA8",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4tPB4mfJ6h6Pkvw33HLlA8",
+      externalLink: "https://open.spotify.com/album/4tPB4mfJ6h6Pkvw33HLlA8",
+    },
+  ],
 } as const satisfies Release

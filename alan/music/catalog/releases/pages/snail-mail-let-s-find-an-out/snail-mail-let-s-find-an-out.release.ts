@@ -12,6 +12,11 @@ export const snailMailLetSFindAnOut = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-05-16",
-  externalId: "4fNK9dogBxTjtYmD8e2NXF",
-  externalLink: "https://open.spotify.com/album/4fNK9dogBxTjtYmD8e2NXF",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4fNK9dogBxTjtYmD8e2NXF",
+      externalLink: "https://open.spotify.com/album/4fNK9dogBxTjtYmD8e2NXF",
+    },
+  ],
 } as const satisfies Release

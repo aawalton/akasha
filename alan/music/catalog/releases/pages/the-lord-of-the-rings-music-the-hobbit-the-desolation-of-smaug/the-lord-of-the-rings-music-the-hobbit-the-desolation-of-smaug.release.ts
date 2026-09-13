@@ -13,7 +13,12 @@ export const theLordOfTheRingsMusicTheHobbitTheDesolationOfSmaug = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2013-12-10",
-  externalId: "3MCUHjDo3wSm2QuLh1Fyrf",
-  externalLink: "https://open.spotify.com/album/3MCUHjDo3wSm2QuLh1Fyrf",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3MCUHjDo3wSm2QuLh1Fyrf",
+      externalLink: "https://open.spotify.com/album/3MCUHjDo3wSm2QuLh1Fyrf",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

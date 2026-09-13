@@ -12,6 +12,11 @@ export const thePianoGuys3EyeOfTheTiger = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-01",
-  externalId: "6eh2tjjOIwkNAWSWfLRysq",
-  externalLink: "https://open.spotify.com/album/6eh2tjjOIwkNAWSWfLRysq",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6eh2tjjOIwkNAWSWfLRysq",
+      externalLink: "https://open.spotify.com/album/6eh2tjjOIwkNAWSWfLRysq",
+    },
+  ],
 } as const satisfies Release

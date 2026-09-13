@@ -12,6 +12,11 @@ export const taylorSwift2Ronan = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-09-08",
-  externalId: "4T5606j6qpkQrWlwbKPLOp",
-  externalLink: "https://open.spotify.com/album/4T5606j6qpkQrWlwbKPLOp",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4T5606j6qpkQrWlwbKPLOp",
+      externalLink: "https://open.spotify.com/album/4T5606j6qpkQrWlwbKPLOp",
+    },
+  ],
 } as const satisfies Release

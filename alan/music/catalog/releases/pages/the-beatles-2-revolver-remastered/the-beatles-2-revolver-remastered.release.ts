@@ -12,6 +12,11 @@ export const theBeatles2RevolverRemastered = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1966-08-05",
-  externalId: "3PRoXYsngSwjEQWR5PsHWR",
-  externalLink: "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3PRoXYsngSwjEQWR5PsHWR",
+      externalLink: "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR",
+    },
+  ],
 } as const satisfies Release

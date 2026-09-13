@@ -12,7 +12,12 @@ export const siaGetMe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2000-01-01",
-  externalId: "2wpIozbP9fxGC0aBYk8yZV",
-  externalLink: "https://open.spotify.com/album/2wpIozbP9fxGC0aBYk8yZV",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2wpIozbP9fxGC0aBYk8yZV",
+      externalLink: "https://open.spotify.com/album/2wpIozbP9fxGC0aBYk8yZV",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

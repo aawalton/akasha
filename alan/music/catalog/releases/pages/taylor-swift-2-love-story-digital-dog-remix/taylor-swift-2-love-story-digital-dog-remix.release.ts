@@ -12,6 +12,11 @@ export const taylorSwift2LoveStoryDigitalDogRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-02-07",
-  externalId: "2Z2KdJE0nGGu0qdWA45mza",
-  externalLink: "https://open.spotify.com/album/2Z2KdJE0nGGu0qdWA45mza",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Z2KdJE0nGGu0qdWA45mza",
+      externalLink: "https://open.spotify.com/album/2Z2KdJE0nGGu0qdWA45mza",
+    },
+  ],
 } as const satisfies Release

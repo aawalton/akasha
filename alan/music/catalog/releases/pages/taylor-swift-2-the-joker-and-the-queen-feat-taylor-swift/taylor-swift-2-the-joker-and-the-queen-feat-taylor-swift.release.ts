@@ -12,6 +12,11 @@ export const taylorSwift2TheJokerAndTheQueenFeatTaylorSwift = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-02-11",
-  externalId: "0vkAczpFKCazPKaoLtnBr0",
-  externalLink: "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0vkAczpFKCazPKaoLtnBr0",
+      externalLink: "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0",
+    },
+  ],
 } as const satisfies Release

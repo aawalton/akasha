@@ -12,7 +12,12 @@ export const theTabernacleChoirAtTempleSquareAMerryLittleChristmas = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-10-12",
-  externalId: "6MyTvjoYtasYWJ8kvdxjPS",
-  externalLink: "https://open.spotify.com/album/6MyTvjoYtasYWJ8kvdxjPS",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6MyTvjoYtasYWJ8kvdxjPS",
+      externalLink: "https://open.spotify.com/album/6MyTvjoYtasYWJ8kvdxjPS",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const thePianoGuys3EyesClosed = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-09-15",
-  externalId: "1zQMETG90H8xjGo4lpnDf8",
-  externalLink: "https://open.spotify.com/album/1zQMETG90H8xjGo4lpnDf8",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1zQMETG90H8xjGo4lpnDf8",
+      externalLink: "https://open.spotify.com/album/1zQMETG90H8xjGo4lpnDf8",
+    },
+  ],
 } as const satisfies Release
