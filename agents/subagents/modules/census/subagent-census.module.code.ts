@@ -5,7 +5,7 @@ import {
   type ProcLivenessEntry,
 } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.code.ts"
 import { SUBAGENT_MARK } from "akasha/agents/modules/read-record/read-record.module.code.ts"
-import { supervisorsRootDir } from "akasha/agents/seats/supervisors/supervisor-log/modules/supervisor-log-path/supervisor-log-path.module.code.ts"
+import { supervisorsRootDir } from "akasha/agents/seats/supervisors/supervisor-log/modules/path/supervisor-log-path.module.code.ts"
 import { LOG_AT } from "akasha/agents/subagents/modules/presence/subagent-presence.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"

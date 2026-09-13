@@ -4,7 +4,7 @@ import {
   runtimeRootDir,
   supervisorSocketPath,
   supervisorsRootDir,
-} from "akasha/agents/seats/supervisors/supervisor-log/modules/supervisor-log-path/supervisor-log-path.module.code.ts"
+} from "akasha/agents/seats/supervisors/supervisor-log/modules/path/supervisor-log-path.module.code.ts"
 
 const AGENT = "01a07eb0-c517-7000-9ee4-cfc39576ac24"
 

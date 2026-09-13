@@ -6,6 +6,7 @@ import { bootInteractiveSession } from "akasha/agents/seats/supervisors/supervis
 import type { InteractiveOpts } from "akasha/agents/seats/supervisors/supervisor-boot/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 import { finalizeInteractiveExit } from "akasha/agents/seats/supervisors/supervisor-child/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"
+import { buildLoopState } from "akasha/agents/seats/supervisors/supervisor-loop/modules/state/supervisor-loop-state.module.code.ts"
 import {
   acquireIterationChild,
   assembleIterationProcess,
@@ -17,7 +18,6 @@ import {
   wireIteration,
 } from "akasha/agents/seats/supervisors/supervisor-loop/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"
 import { dispatchPostExitOutcome } from "akasha/agents/seats/supervisors/supervisor-loop/modules/supervisor-iteration-outcome/supervisor-iteration-outcome.module.code.ts"
-import { buildLoopState } from "akasha/agents/seats/supervisors/supervisor-loop/modules/supervisor-loop-state/supervisor-loop-state.module.code.ts"
 import type { SeatResume } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-args/supervisor-args.module.code.ts"
 import { decideBootResume } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-args/supervisor-args.module.code.ts"
 import {

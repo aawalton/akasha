@@ -13,13 +13,13 @@ import {
   clearProxyState,
   writeProxyStateQuietly,
 } from "akasha/agents/seats/oauth-proxy/modules/seat-proxy-state/seat-proxy-state.module.code.ts"
+import { supervisorSocketPath } from "akasha/agents/seats/supervisors/supervisor-log/modules/path/supervisor-log-path.module.code.ts"
 import {
   fileSink,
   LOG_MAX_BYTES,
   redirectConsoleToSink,
   seatPageSink,
 } from "akasha/agents/seats/supervisors/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"
-import { supervisorSocketPath } from "akasha/agents/seats/supervisors/supervisor-log/modules/supervisor-log-path/supervisor-log-path.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export const CONSOLE_SOURCE = "oauth-proxy-console"

@@ -4,11 +4,11 @@ const HANDED: (readonly string[])[] = []
 let CODE = 0
 
 const sweeping = await import(
-  "akasha/agents/seats/supervisors/supervisor-log/modules/supervisor-log-sweeping/supervisor-log-sweeping.module.code.ts"
+  "akasha/agents/seats/supervisors/supervisor-log/modules/sweeping/supervisor-log-sweeping.module.code.ts"
 )
 
 mock.module(
-  "akasha/agents/seats/supervisors/supervisor-log/modules/supervisor-log-sweeping/supervisor-log-sweeping.module.code.ts",
+  "akasha/agents/seats/supervisors/supervisor-log/modules/sweeping/supervisor-log-sweeping.module.code.ts",
   () => ({
     ...sweeping,
     sweepSupervisorLogs: (argv: readonly string[]) => {
