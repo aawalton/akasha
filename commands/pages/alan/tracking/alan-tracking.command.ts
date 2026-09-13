@@ -56,6 +56,11 @@ export const alanTracking = {
       statement: "Every flag `file-arguing` takes is taken here but the glass and `--restated`.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "One call names one `--file-path` and one `--content-file`, and several files take several calls.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here breaks the glass.",
     },
