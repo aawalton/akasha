@@ -5,7 +5,7 @@ export const weirdAlYankovic2PermanentRecordAlInTheBox = {
   type: "release",
   slug: "weird-al-yankovic-2-permanent-record-al-in-the-box",
   title: "Permanent Record: Al In The Box",
-  partOfCollections: ["weird-al-yankovic-2"],
+  partOfCollections: ["weird-al-yankovic"],
   position: 0,
   ownLength: 180.001933,
   ownProgress: 0,

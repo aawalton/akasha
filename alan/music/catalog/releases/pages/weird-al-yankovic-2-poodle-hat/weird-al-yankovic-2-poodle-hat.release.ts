@@ -5,7 +5,7 @@ export const weirdAlYankovic2PoodleHat = {
   type: "release",
   slug: "weird-al-yankovic-2-poodle-hat",
   title: "Poodle Hat",
-  partOfCollections: ["weird-al-yankovic-2"],
+  partOfCollections: ["weird-al-yankovic"],
   position: 0,
   ownLength: 54.7006,
   ownProgress: 0,

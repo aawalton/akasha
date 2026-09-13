@@ -5,7 +5,7 @@ export const weirdAlYankovic2MandatoryFun = {
   type: "release",
   slug: "weird-al-yankovic-2-mandatory-fun",
   title: "Mandatory Fun",
-  partOfCollections: ["weird-al-yankovic-2"],
+  partOfCollections: ["weird-al-yankovic"],
   position: 0,
   ownLength: 45.440167,
   ownProgress: 0,

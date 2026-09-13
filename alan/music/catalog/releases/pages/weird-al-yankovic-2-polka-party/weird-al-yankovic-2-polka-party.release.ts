@@ -5,7 +5,7 @@ export const weirdAlYankovic2PolkaParty = {
   type: "release",
   slug: "weird-al-yankovic-2-polka-party",
   title: "Polka Party",
-  partOfCollections: ["weird-al-yankovic-2"],
+  partOfCollections: ["weird-al-yankovic"],
   position: 0,
   ownLength: 34.09615,
   ownProgress: 0,

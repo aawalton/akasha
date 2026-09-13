@@ -5,7 +5,7 @@ export const weirdAlYankovic2Polkamania = {
   type: "release",
   slug: "weird-al-yankovic-2-polkamania",
   title: "Polkamania!",
-  partOfCollections: ["weird-al-yankovic-2"],
+  partOfCollections: ["weird-al-yankovic"],
   position: 0,
   ownLength: 4.1008,
   ownProgress: 0,

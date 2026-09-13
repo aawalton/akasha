@@ -5,7 +5,7 @@ export const weirdAlYankovic2RunningWithScissors = {
   type: "release",
   slug: "weird-al-yankovic-2-running-with-scissors",
   title: "Running With Scissors",
-  partOfCollections: ["weird-al-yankovic-2"],
+  partOfCollections: ["weird-al-yankovic"],
   position: 0,
   ownLength: 49.880167,
   ownProgress: 0,

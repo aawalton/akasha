@@ -5,7 +5,7 @@ export const weirdAlYankovic2StraightOuttaLynwood = {
   type: "release",
   slug: "weird-al-yankovic-2-straight-outta-lynwood",
   title: "Straight Outta Lynwood",
-  partOfCollections: ["weird-al-yankovic-2"],
+  partOfCollections: ["weird-al-yankovic"],
   position: 0,
   ownLength: 47.8304,
   ownProgress: 0,

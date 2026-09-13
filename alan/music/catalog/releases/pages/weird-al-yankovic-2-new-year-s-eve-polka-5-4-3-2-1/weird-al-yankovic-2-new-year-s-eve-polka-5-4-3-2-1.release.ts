@@ -5,7 +5,7 @@ export const weirdAlYankovic2NewYearSEvePolka54321 = {
   type: "release",
   slug: "weird-al-yankovic-2-new-year-s-eve-polka-5-4-3-2-1",
   title: "New Year’s Eve Polka (5-4-3-2-1)",
-  partOfCollections: ["weird-al-yankovic-2"],
+  partOfCollections: ["weird-al-yankovic"],
   position: 0,
   ownLength: 1.705583,
   ownProgress: 0,

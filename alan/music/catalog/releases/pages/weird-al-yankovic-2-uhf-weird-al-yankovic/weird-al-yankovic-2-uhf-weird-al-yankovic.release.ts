@@ -5,7 +5,7 @@ export const weirdAlYankovic2UhfWeirdAlYankovic = {
   type: "release",
   slug: "weird-al-yankovic-2-uhf-weird-al-yankovic",
   title: 'UHF: "Weird Al" Yankovic',
-  partOfCollections: ["weird-al-yankovic-2"],
+  partOfCollections: ["weird-al-yankovic"],
   position: 0,
   ownLength: 42.538817,
   ownProgress: 0,

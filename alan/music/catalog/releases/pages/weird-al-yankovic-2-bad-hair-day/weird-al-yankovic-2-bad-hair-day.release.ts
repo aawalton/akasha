@@ -5,7 +5,7 @@ export const weirdAlYankovic2BadHairDay = {
   type: "release",
   slug: "weird-al-yankovic-2-bad-hair-day",
   title: "Bad Hair Day",
-  partOfCollections: ["weird-al-yankovic-2"],
+  partOfCollections: ["weird-al-yankovic"],
   position: 0,
   ownLength: 42.306833,
   ownProgress: 0,
