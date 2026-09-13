@@ -5,6 +5,8 @@ export const changePagePagePropertyText = {
   type: "change-agent",
   slug: "change-page-page-property-text",
   changeMode: "change-mode-change",
+  changeTargetType: "change-target-type/file-content",
+  changeTargetSubtype: "change-target-subtype/file-content-page-property-value-prose",
   definition: "the whole value one text property of one page has, stated anew in other words",
   code: "ts",
   test: "ts",

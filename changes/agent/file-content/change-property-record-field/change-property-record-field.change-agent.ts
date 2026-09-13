@@ -5,6 +5,8 @@ export const changePropertyRecordField = {
   type: "change-agent",
   slug: "change-property-record-field",
   changeMode: "change-mode-change",
+  changeTargetType: "change-target-type/file-content",
+  changeTargetSubtype: "change-target-subtype/file-content-page-property-value-prose",
   definition: "one field of one record a page's many-valued property has, stated anew",
   code: "ts",
   test: "ts",

@@ -5,6 +5,8 @@ export const moveCodeExport = {
   type: "change-agent",
   slug: "move-code-export",
   changeMode: "change-mode-move",
+  changeTargetType: "change-target-type/file-content",
+  changeTargetSubtype: "change-target-subtype/file-content-code",
   definition: "one export moved to another code body, judged by the checks a landing runs",
   code: "ts",
   test: "ts",

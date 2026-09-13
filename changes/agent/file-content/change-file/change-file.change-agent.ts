@@ -5,6 +5,8 @@ export const changeFile = {
   type: "change-agent",
   slug: "change-file",
   changeMode: "change-mode-change",
+  changeTargetType: "change-target-type/file-content",
+  changeTargetSubtype: "change-target-subtype/file-content",
   definition: "one passage of one body replaced, judged by the checks a landing runs",
   code: "ts",
   test: "ts",

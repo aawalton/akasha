@@ -5,6 +5,8 @@ export const movePropertyValue = {
   type: "change-agent",
   slug: "move-property-value",
   changeMode: "change-mode-move",
+  changeTargetType: "change-target-type/file-content",
+  changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
   definition:
     "one value carried into place in the list a page property holds, judged by the checks a landing runs",
   code: "ts",

@@ -5,6 +5,8 @@ export const removePackageAlias = {
   type: "change-agent",
   slug: "remove-package-alias",
   changeMode: "change-mode-remove",
+  changeTargetType: "change-target-type/file-content",
+  changeTargetSubtype: "change-target-subtype/file-content-manifest",
   definition: "the alias a renamed package was reached under taken out of every manifest",
   code: "ts",
   test: "ts",

@@ -5,6 +5,8 @@ export const renameCodeToken = {
   type: "change-agent",
   slug: "rename-code-token",
   changeMode: "change-mode-rename",
+  changeTargetType: "change-target-type/file-content",
+  changeTargetSubtype: "change-target-subtype/file-content-code",
   definition: "a name a code file declares renamed wherever it reaches, exported or not",
   code: "ts",
   test: "ts",

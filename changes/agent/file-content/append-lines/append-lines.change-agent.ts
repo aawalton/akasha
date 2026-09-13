@@ -5,6 +5,8 @@ export const appendLines = {
   type: "change-agent",
   slug: "append-lines",
   changeMode: "change-mode-append",
+  changeTargetType: "change-target-type/file-content",
+  changeTargetSubtype: "change-target-subtype/file-content",
   definition: "content put at the end of what one path holds, judged by the checks a landing runs",
   code: "ts",
   test: "ts",

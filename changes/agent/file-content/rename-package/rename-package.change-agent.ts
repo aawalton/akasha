@@ -5,6 +5,8 @@ export const renamePackage = {
   type: "change-agent",
   slug: "rename-package",
   changeMode: "change-mode-rename",
+  changeTargetType: "change-target-type/file-content",
+  changeTargetSubtype: "change-target-subtype/file-content",
   definition:
     "a package renamed wherever that package is named, in its manifest and in every specifier reaching it",
   code: "ts",

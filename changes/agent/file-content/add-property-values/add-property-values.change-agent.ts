@@ -5,6 +5,8 @@ export const addPropertyValues = {
   type: "change-agent",
   slug: "add-property-values",
   changeMode: "change-mode-add",
+  changeTargetType: "change-target-type/file-content",
+  changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
   definition: "many values put into the properties their lines name, in one call",
   code: "ts",
   test: "ts",
