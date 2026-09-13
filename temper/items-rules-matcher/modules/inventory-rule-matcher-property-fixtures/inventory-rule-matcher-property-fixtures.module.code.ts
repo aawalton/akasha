@@ -101,7 +101,7 @@ export const ITEM_RULE_LIST_ARB = fc
 
 export const CLASSIFIED_ITEM_LIST_ARB = fc.array(CLASSIFIED_ITEM_ARB, { maxLength: 25 })
 
-function ruleMatchesItem(rule: CategoryRule, item: ClassifiedInventoryItem): boolean {
+export function ruleMatchesItem(rule: CategoryRule, item: ClassifiedInventoryItem): boolean {
   if (rule.categoryId === ALL_CATEGORIES_ID) return true
   return item.nodeIds.includes(rule.categoryId)
 }

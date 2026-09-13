@@ -6,10 +6,19 @@ export const inventoryRuleMatcher = {
   slug: "inventory-rule-matcher",
   definition: "every item each rule affects, found by trying the compiled rules over the holdings",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "An item is taken by the first rule the item matches.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule that is off shows what that rule would have taken.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An item no rule claims falls to the implicit terminal rule.",
     },
     {
       invariantKind: "departure",
