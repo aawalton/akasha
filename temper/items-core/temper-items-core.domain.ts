@@ -30,7 +30,6 @@ export const temperItemsCore = {
     "module/inventory-grouping-types",
     "module/inventory-guild-bank-filter",
     "module/inventory-guild-bank-types",
-    "module/inventory-item-test-utils",
     "module/inventory-logging-types",
     "module/inventory-net-worth",
     "module/inventory-net-worth-types",

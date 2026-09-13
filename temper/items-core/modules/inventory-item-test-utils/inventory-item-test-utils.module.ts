@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
-
-export const inventoryItemTestUtils = {
-  id: "01a060c5-3c20-763c-be6d-a077fbb806de",
-  type: "module",
-  slug: "inventory-item-test-utils",
-  definition: "an inventory item built for a test",
-  code: "ts",
-} as const satisfies Module

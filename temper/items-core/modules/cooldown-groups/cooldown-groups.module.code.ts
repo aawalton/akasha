@@ -6,15 +6,6 @@ export type CooldownGroupKey =
   | "fighters-guild"
   | "undaunted"
 
-export const COOLDOWN_GROUP_KEYS: readonly CooldownGroupKey[] = [
-  "rftw",
-  "cyrodiil-towns",
-  "imperial-city",
-  "mages-guild",
-  "fighters-guild",
-  "undaunted",
-] as const
-
 export interface CooldownGroup {
   readonly patterns: readonly string[]
   readonly key: CooldownGroupKey
