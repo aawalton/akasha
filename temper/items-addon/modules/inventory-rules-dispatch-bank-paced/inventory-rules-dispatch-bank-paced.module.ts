@@ -47,6 +47,20 @@ export const inventoryRulesDispatchBankPaced = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A move is issued again only where issuing it again could land it, whatever attempts it has left.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Nothing left the source since it was issued and the target has no room: that move could not land.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What the source held is read afresh each time the move is issued.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A move given up on leaves the moves after it alone.",
     },
     {

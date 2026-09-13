@@ -43,6 +43,14 @@ interface IssuedMove {
   attempts: number
 }
 
+function retryCouldHelp(move: IssuedMove, srcStack: number): boolean {
+  if (srcStack < move.stackAtIssue) return true
+  if (move.targetBag === BAG_VIRTUAL) return true
+  const [targetStack, targetMax] = GetSlotStackSize(move.targetBag, move.targetSlot)
+  if (targetStack === 0) return true
+  return targetMax - targetStack >= srcStack - move.expectedRemaining
+}
+
 function namedMove(move: IssuedMove): BankTracePacedMove {
   const [stackNow] = GetSlotStackSize(move.sourceBag, move.sourceSlot)
   const named: BankTracePacedMove = {
@@ -198,6 +206,8 @@ export function startPacedBankChain(
     const serial = settleSerial
     for (const move of batch) {
       move.attempts++
+      const [stackNow] = GetSlotStackSize(move.sourceBag, move.sourceSlot)
+      move.stackAtIssue = stackNow
       stats.issued++
       bankMoveItem(move.sourceBag, move.sourceSlot, move.targetBag, move.targetSlot, move.count)
     }
@@ -239,6 +249,13 @@ export function startPacedBankChain(
         continue
       }
       unconfirmed[unconfirmed.length] = namedMove(move)
+      if (!retryCouldHelp(move, srcStack)) {
+        d(
+          `[${ADDON_NAME}] Bank move from bag ${move.sourceBag} slot ${move.sourceSlot} cannot land where it was aimed, leaving it to the next visit`
+        )
+        leftHere++
+        continue
+      }
       if (move.attempts >= MAX_PACED_BANK_ATTEMPTS) {
         d(
           `[${ADDON_NAME}] Paced bank dispatch stalled at bag ${move.sourceBag} slot ${move.sourceSlot}, leaving it`
