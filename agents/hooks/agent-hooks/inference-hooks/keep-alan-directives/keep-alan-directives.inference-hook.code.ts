@@ -198,11 +198,11 @@ async function ran(): Promise<number> {
     noting(root, null, GATES.payload)
     return ASIDE
   }
+  const agent = seatIn(process.env)
   if (payload[ACTIVE] === true) {
-    noting(root, null, GATES.held)
+    noting(root, agent, GATES.held)
     return ASIDE
   }
-  const agent = seatIn(process.env)
   if (agent === null) {
     noting(root, null, GATES.seat)
     return ASIDE
