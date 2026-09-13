@@ -150,6 +150,11 @@ export const noUnusedExports = {
       statement:
         "The `BUILD_ENV` a manifest's code exports is reached by the deploy building that app.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The `measured` a performance's code exports is reached by the command measuring it.",
+    },
   ],
   check: { maxCpuSeconds: 30 },
   audit: { maxCpuSeconds: 120 },

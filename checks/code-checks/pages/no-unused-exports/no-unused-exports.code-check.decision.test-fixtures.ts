@@ -45,6 +45,11 @@ export const CHECK_AT = "akasha/held-thing.code-check.check.code.ts"
 
 export const CHECK_TEXT = "export const heldThing = (): number => 1\n\nexport const spare = 2\n"
 
+export const PERFORMANCE_AT = "akasha/held.performance.code.ts"
+
+export const PERFORMANCE_TEXT =
+  "export const measured = (): number => 1\n\nexport const spare = 2\n"
+
 export const MANIFEST_AT = "akasha/held.manifest.code.ts"
 
 export const MANIFEST_TEXT = "export const BUILD_ENV = [] as const\n\nexport const spare = 2\n"
@@ -90,6 +95,7 @@ export function rooted(): string {
   typed(root, "change-guard", "domain")
   typed(root, "code-check", "domain")
   typed(root, "manifest", "domain")
+  typed(root, "performance", "domain")
   noImportersFiled(root)
   return root
 }

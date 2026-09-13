@@ -26,6 +26,8 @@ import {
   MANIFEST_TEXT,
   PAGE_AT,
   PAGE_TEXT,
+  PERFORMANCE_AT,
+  PERFORMANCE_TEXT,
   READER,
   ROOT_AT,
   ROOT_TEXT,
@@ -221,6 +223,15 @@ test("a name React Router reaches a root route by is spared and another is judge
 
 test("the `BUILD_ENV` a manifest's code exports is spared and another beside it is judged", () => {
   const said = judging(landing(rooted(), { [MANIFEST_AT]: bytesOf(MANIFEST_TEXT) })).map(
+    (one) => one.reason
+  )
+
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`spare`")
+})
+
+test("the `measured` a performance's code exports is spared and another beside it is judged", () => {
+  const said = judging(landing(rooted(), { [PERFORMANCE_AT]: bytesOf(PERFORMANCE_TEXT) })).map(
     (one) => one.reason
   )
 
