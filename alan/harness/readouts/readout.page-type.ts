@@ -10,6 +10,7 @@ export const readout = {
     "boolean-property/readout-enabled",
     "instant-property/last-value-at",
     "instant-property/went-silent-at",
+    "module-property-group/reading",
     "number-property/last-value",
     "number-property/last-value-falls-per-hour",
     "number-property/place",
@@ -29,6 +30,7 @@ export const readout = {
   ],
   extends: ["page-type/module"],
   properties: [
+    { pageProperty: "module-property-group/reading", required: false, many: false },
     { pageProperty: "text-property/label", required: true, many: false },
     { pageProperty: "text-property/unit", required: false, many: false },
     { pageProperty: "number-property/place", required: true, many: false },

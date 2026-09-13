@@ -12,6 +12,7 @@ import type { NoneLeftEmoji } from "akasha/alan/harness/readouts/properties/none
 import type { NoneLeftWords } from "akasha/alan/harness/readouts/properties/none-left-words.text-property.types.ts"
 import type { Place } from "akasha/alan/harness/readouts/properties/place.number-property.types.ts"
 import type { ReadLiveFrom } from "akasha/alan/harness/readouts/properties/read-live-from.relation-property.types.ts"
+import type { Reading } from "akasha/alan/harness/readouts/properties/reading.module-property-group.ts"
 import type { ReadoutEnabled } from "akasha/alan/harness/readouts/properties/readout-enabled.boolean-property.types.ts"
 import type { Scale } from "akasha/alan/harness/readouts/properties/scale.relation-property.types.ts"
 import type { Unit } from "akasha/alan/harness/readouts/properties/unit.text-property.types.ts"
@@ -20,6 +21,7 @@ import type { WireKey } from "akasha/alan/harness/readouts/properties/wire-key.t
 import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export type Readout = Module & {
+  reading?: Reading
   label: Label
   unit?: Unit
   place: Place
