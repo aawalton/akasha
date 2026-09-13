@@ -183,6 +183,19 @@ export const noUnusedExports = {
     },
     {
       invariantKind: "departure",
+      statement: "The `carriedIn` the carried-file module exports is reached by a container stage.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The `serving` the run-serving module exports is reached by the relay spawning it.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A module states for itself which of its values a runner reaches by path.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A route's code, a root route and an app layout are route modules.",
     },
     {

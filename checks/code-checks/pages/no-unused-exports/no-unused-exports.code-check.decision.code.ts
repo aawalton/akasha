@@ -124,6 +124,11 @@ const BY_FILE: ReadonlyMap<string, ReadonlySet<string>> = new Map([
   [TUNNEL_ROUTES, TUNNELED],
 ])
 
+const BY_SLUG: ReadonlyMap<string, ReadonlySet<string>> = new Map([
+  ["carried-file", new Set(["carriedIn"])],
+  ["run-serving", new Set(["serving"])],
+])
+
 const NOTHING: ReadonlySet<string> = new Set()
 
 const PROVING: ReadonlySet<string> = new Set(["test", "test-fixtures"])
@@ -281,6 +286,8 @@ export function sparedIn(
   if (lua !== null) return new Set([lua])
   const beside = reachedBeside(said)
   if (beside !== null) return beside
+  const bySlug = BY_SLUG.get(said.slug)
+  if (bySlug !== undefined) return bySlug
   if (groupCoded(said, groups)) return new Set([WRITES])
   return pageNamed(path, pageTypes) ? new Set([exportedAs(said.slug)]) : NOTHING
 }
