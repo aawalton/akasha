@@ -22,7 +22,7 @@ export const STORES: readonly string[] = [CACHE, DATA, DEPLOYS, TREES]
 
 export const KEPT: readonly string[] = [...STORES, LANDING_LOCK, HARNESS_LANDING_LOCK]
 
-export const LEFT: readonly string[] = [`${DATA}/reads/agent`, HANDOFF, INDEXES]
+export const LEFT: readonly string[] = [`${DATA}/reads/agent`, `${DATA}/sops`, HANDOFF, INDEXES]
 
 export function keptAt(name: string): string {
   return join(GIT_AT, name)

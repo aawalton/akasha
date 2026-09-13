@@ -89,3 +89,7 @@ test("the index is a path akasha keeps no longer, since the index left this fold
 test("the push hand-off is a path akasha keeps no longer, since nothing hands a push off", () => {
   expect(LEFT).toContain(HANDOFF)
 })
+
+test("the sops scratch is a path akasha keeps no longer, since no plaintext is written", () => {
+  expect(LEFT).toContain(`${DATA}/sops`)
+})
