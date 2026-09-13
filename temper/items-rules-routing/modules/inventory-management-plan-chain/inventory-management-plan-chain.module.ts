@@ -14,6 +14,14 @@ export const inventoryManagementPlanChain = {
     },
     {
       invariantKind: "departure",
+      statement: "What a character already holds counts towards that character's own target first.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No character both deposits and withdraws one stocked item.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A tier takes up to the count the tier names.",
     },
     {

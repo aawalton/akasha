@@ -17,6 +17,10 @@ import {
 } from "akasha/temper/items-rules-core/modules/use-destination-context-builder/use-destination-context-builder.module.code.ts"
 import { planUseDestinationsForStack } from "akasha/temper/items-rules-core/modules/use-destination-resolver/use-destination-resolver.module.code.ts"
 import type { CharacterId } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
+import {
+  stockHeldForEntries,
+  stockSourceCharId,
+} from "akasha/temper/items-rules-routing/modules/inventory-management-plan-chain/inventory-management-plan-chain.module.code.ts"
 
 export function fillUseAllocationsInPlace(
   rules: readonly CompiledOrderedRule[],
@@ -51,6 +55,10 @@ export function fillUseAllocationsInPlace(
       for (const entry of entries) stockItemIds.add(entry.item.itemId)
     }
     const stockAllocatedPerChar = new Map<CharacterId, number>()
+    const stockHeldPerChar = isStockByPriority
+      ? stockHeldForEntries(entries)
+      : new Map<CharacterId, number>()
+    const stockKeptPerChar = new Map<CharacterId, number>()
     for (const entry of entries) {
       if (entry.useAllocation !== undefined) continue
       if (isStockByPriority) {
@@ -76,7 +84,12 @@ export function fillUseAllocationsInPlace(
           ensureStockCtx(),
           claims,
           predicate,
-          stockAllocatedPerChar
+          stockAllocatedPerChar,
+          {
+            heldPerChar: stockHeldPerChar,
+            keptPerChar: stockKeptPerChar,
+            sourceCharId: stockSourceCharId(entry),
+          }
         )
         entry.useAllocation = allocation
         continue

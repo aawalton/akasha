@@ -198,7 +198,9 @@ export function buildHeldStockScenario(
   const itemId = 70_001
   const itemName = "Generic Stockable"
   const stockAffected: AffectedItem[] = []
-  const locations: Record<string, ReturnType<typeof makeLocation>> = {}
+  const locations: Record<string, ReturnType<typeof makeLocation>> = {
+    Bank: makeLocation("Bank", { 2: {} }, { 2: 240 }),
+  }
   const characters: Record<string, { displayName: string }> = {}
 
   holdings.forEach(([charId, held], idx) => {

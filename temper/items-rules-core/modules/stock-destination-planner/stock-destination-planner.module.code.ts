@@ -20,6 +20,50 @@ function readGroupStock(
   return sum
 }
 
+export interface StockHolding {
+  readonly heldPerChar: ReadonlyMap<CharacterId, number>
+  readonly keptPerChar: Map<CharacterId, number>
+  readonly sourceCharId?: CharacterId
+}
+
+export function stockHeldByCharacter(
+  held: readonly (readonly [string, number])[]
+): Map<CharacterId, number> {
+  const perChar = new Map<CharacterId, number>()
+  for (const [charId, count] of held) {
+    const id = charId as CharacterId
+    perChar.set(id, (perChar.get(id) ?? 0) + count)
+  }
+  return perChar
+}
+
+function stockOrder(
+  priority: readonly CharacterId[],
+  sourceCharId: CharacterId | undefined
+): readonly CharacterId[] {
+  if (sourceCharId === undefined) return priority
+  if (!priority.includes(sourceCharId)) return priority
+  return [sourceCharId, ...priority.filter((one) => one !== sourceCharId)]
+}
+
+function stockNeed(
+  charId: CharacterId,
+  targetQuantity: number,
+  ctx: StockDestinationContext,
+  itemIds: ReadonlySet<number>,
+  allocatedHere: Map<CharacterId, number>,
+  holding: StockHolding | undefined
+): number {
+  if (holding === undefined) {
+    return targetQuantity - readGroupStock(ctx, itemIds, charId) - (allocatedHere.get(charId) ?? 0)
+  }
+  const held = holding.heldPerChar.get(charId) ?? 0
+  if (charId === holding.sourceCharId) {
+    return Math.min(targetQuantity, held) - (holding.keptPerChar.get(charId) ?? 0)
+  }
+  return targetQuantity - held - (allocatedHere.get(charId) ?? 0)
+}
+
 export function planStockDestinationsForStack(
   groupKey: string,
   itemIds: ReadonlySet<number>,
@@ -28,23 +72,26 @@ export function planStockDestinationsForStack(
   ctx: StockDestinationContext,
   claims: Map<CharacterId, Set<string>>,
   eligibilityPredicate?: (charId: CharacterId) => boolean,
-  allocatedPerChar?: Map<CharacterId, number>
+  allocatedPerChar?: Map<CharacterId, number>,
+  holding?: StockHolding
 ): readonly CharacterId[] {
   if (stackCount <= 0) return []
   if (targetQuantity <= 0) return []
   const allocations: CharacterId[] = []
   const allocatedHere = allocatedPerChar ?? new Map<CharacterId, number>()
-  for (const charId of ctx.characterPriority) {
+  for (const charId of stockOrder(ctx.characterPriority, holding?.sourceCharId)) {
     if (allocations.length >= stackCount) break
     if (eligibilityPredicate !== undefined && !eligibilityPredicate(charId)) continue
-    const currentStock = readGroupStock(ctx, itemIds, charId)
-    const alreadyClaimed = allocatedHere.get(charId) ?? 0
-    const need = targetQuantity - currentStock - alreadyClaimed
+    const need = stockNeed(charId, targetQuantity, ctx, itemIds, allocatedHere, holding)
     if (need <= 0) continue
     const remaining = stackCount - allocations.length
     const emit = Math.min(need, remaining)
     for (let i = 0; i < emit; i++) allocations.push(charId)
-    allocatedHere.set(charId, alreadyClaimed + emit)
+    if (holding !== undefined && charId === holding.sourceCharId) {
+      holding.keptPerChar.set(charId, (holding.keptPerChar.get(charId) ?? 0) + emit)
+    } else {
+      allocatedHere.set(charId, (allocatedHere.get(charId) ?? 0) + emit)
+    }
     const existing = claims.get(charId)
     if (existing === undefined) {
       claims.set(charId, new Set([groupKey]))
@@ -63,7 +110,8 @@ export function planStockDestinationsForChain(
   stockCtx: StockDestinationContext,
   resolvers: EligibilityResolvers,
   claims: Map<CharacterId, Set<string>>,
-  allocatedPerChar?: Map<CharacterId, number>
+  allocatedPerChar?: Map<CharacterId, number>,
+  holding?: StockHolding
 ): readonly TierAllocation[] {
   if (stackCount <= 0 || chain.length === 0) return []
   const allocations: TierAllocation[] = []
@@ -87,7 +135,8 @@ export function planStockDestinationsForChain(
         stockCtx,
         claims,
         predicate,
-        chainAllocatedPerChar
+        chainAllocatedPerChar,
+        holding
       )
       const groupedByChar = new Map<CharacterId, number>()
       for (const id of allocation) {

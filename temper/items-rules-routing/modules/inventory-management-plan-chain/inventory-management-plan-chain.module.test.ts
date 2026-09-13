@@ -215,3 +215,59 @@ describe("A stock item already with the character stocking it is left where it i
     expect(plan.sessions).toHaveLength(0)
   })
 })
+
+const LOCKPICK_HOLDINGS: readonly (readonly [string, number])[] = [
+  ["1000", 202],
+  ["1001", 202],
+  ["1002", 184],
+  ["1003", 200],
+  ["1004", 200],
+  ["1005", 200],
+  ["1006", 200],
+  ["1007", 200],
+  ["1008", 200],
+  ["1009", 200],
+  ["1010", 198],
+  ["1011", 198],
+  ["1012", 200],
+  ["1013", 198],
+  ["1014", 204],
+  ["1015", 215],
+  ["1016", 200],
+  ["1017", 204],
+  ["1018", 200],
+  ["1019", 200],
+]
+
+describe("No character both deposits and withdraws one stocked item.", () => {
+  test("twenty characters each near their lockpick target round trip nothing", () => {
+    const built = buildHeldStockScenario(LOCKPICK_HOLDINGS, 200)
+    const sums = sumPlanByCharacterAndLabel(planned([built.stockRule, built.sellRule], built))
+    const roundTripped: string[] = []
+    LOCKPICK_HOLDINGS.forEach((_, at) => {
+      const name = `Char${String(at)}`
+      const deposited = sums.get(`${name}:Deposit`) ?? 0
+      const withdrawn = sums.get(`${name}:Withdraw`) ?? 0
+      if (deposited > 0 && withdrawn > 0) {
+        roundTripped.push(
+          `${name} deposits ${String(deposited)} and withdraws ${String(withdrawn)}`
+        )
+      }
+    })
+    expect(roundTripped).toEqual([])
+  })
+
+  test("a character over their target deposits the surplus and withdraws nothing", () => {
+    const built = buildHeldStockScenario(LOCKPICK_HOLDINGS, 200)
+    const sums = sumPlanByCharacterAndLabel(planned([built.stockRule, built.sellRule], built))
+    expect(sums.get("Char0:Withdraw") ?? 0).toBe(0)
+    expect(sums.get("Char0:Deposit") ?? 0).toBe(2)
+  })
+
+  test("a character under their target withdraws the shortfall and deposits nothing", () => {
+    const built = buildHeldStockScenario(LOCKPICK_HOLDINGS, 200)
+    const sums = sumPlanByCharacterAndLabel(planned([built.stockRule, built.sellRule], built))
+    expect(sums.get("Char2:Deposit") ?? 0).toBe(0)
+    expect(sums.get("Char2:Withdraw") ?? 0).toBe(16)
+  })
+})

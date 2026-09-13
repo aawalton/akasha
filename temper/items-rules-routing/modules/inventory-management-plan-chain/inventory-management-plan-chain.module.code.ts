@@ -1,4 +1,5 @@
 import type { InventoryItemData } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+import { classifyLocation } from "akasha/temper/items-core/modules/location-classify/location-classify.module.code.ts"
 import type { TierAllocation } from "akasha/temper/items-rules-core/modules/destination-chain-types/destination-chain-types.module.code.ts"
 import type { EligibilityResolvers } from "akasha/temper/items-rules-core/modules/eligibility-predicate-composer/eligibility-predicate-composer.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
@@ -9,7 +10,11 @@ import type {
 } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { RuleMatcherContext } from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { buildStockDestinationContext } from "akasha/temper/items-rules-core/modules/stock-destination-context-builder/stock-destination-context-builder.module.code.ts"
-import { planStockDestinationsForChain } from "akasha/temper/items-rules-core/modules/stock-destination-planner/stock-destination-planner.module.code.ts"
+import {
+  planStockDestinationsForChain,
+  type StockHolding,
+  stockHeldByCharacter,
+} from "akasha/temper/items-rules-core/modules/stock-destination-planner/stock-destination-planner.module.code.ts"
 import type { CharacterId } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 
 export interface ChainExpansionRow {
@@ -17,6 +22,22 @@ export interface ChainExpansionRow {
   readonly destination: MoveToDestination
   readonly sourceSlotCount: number
   readonly directAct: boolean
+}
+
+export function stockSourceCharId(entry: AffectedItem): CharacterId | undefined {
+  if (classifyLocation(entry.locationKey) !== "character") return undefined
+  return entry.locationKey as CharacterId
+}
+
+export function stockHeldForEntries(
+  entries: readonly AffectedItem[]
+): ReadonlyMap<CharacterId, number> {
+  const held: [string, number][] = []
+  for (const entry of entries) {
+    if (classifyLocation(entry.locationKey) !== "character") continue
+    held.push([entry.locationKey, entry.quantity ?? entry.item.stackCount])
+  }
+  return stockHeldByCharacter(held)
 }
 
 function buildChainEligibilityResolvers(context: RuleMatcherContext): EligibilityResolvers {
@@ -33,7 +54,12 @@ function expandChainEntryIntoRows(
   sourceSlotCount: number,
   context: RuleMatcherContext,
   claims: Map<CharacterId, Set<string>>,
-  group?: { itemIds: ReadonlySet<number>; allocatedPerChar: Map<CharacterId, number> }
+  group?: {
+    itemIds: ReadonlySet<number>
+    allocatedPerChar: Map<CharacterId, number>
+    heldPerChar: ReadonlyMap<CharacterId, number>
+    keptPerChar: Map<CharacterId, number>
+  }
 ): { rows: readonly ChainExpansionRow[]; residue: number } {
   const chain = rule.destinationChain
   if (chain === undefined || chain.length === 0) return { rows: [], residue: 0 }
@@ -43,6 +69,14 @@ function expandChainEntryIntoRows(
   const resolvers = buildChainEligibilityResolvers(context)
   const groupKey = group !== undefined ? `stock:rule:${rule.id}` : `stock:${entry.item.itemId}`
   const itemIds = group?.itemIds ?? new Set([entry.item.itemId])
+  const holding: StockHolding | undefined =
+    group === undefined
+      ? undefined
+      : {
+          heldPerChar: group.heldPerChar,
+          keptPerChar: group.keptPerChar,
+          sourceCharId: stockSourceCharId(entry),
+        }
   const tierAllocations = planStockDestinationsForChain(
     groupKey,
     itemIds,
@@ -51,7 +85,8 @@ function expandChainEntryIntoRows(
     stockCtx,
     resolvers,
     claims,
-    group?.allocatedPerChar
+    group?.allocatedPerChar,
+    holding
   )
   const rows = tierAllocations.map((tierAlloc, idx) =>
     buildChainRowForAllocation(entry, idx === 0 ? sourceSlotCount : 0, tierAlloc)
@@ -121,7 +156,12 @@ export function processChainRule(
   } = args
   const groupItemIds = new Set<number>()
   for (const { entry } of merged) groupItemIds.add(entry.item.itemId)
-  const group = { itemIds: groupItemIds, allocatedPerChar: new Map<CharacterId, number>() }
+  const group = {
+    itemIds: groupItemIds,
+    allocatedPerChar: new Map<CharacterId, number>(),
+    heldPerChar: stockHeldForEntries(merged.map(({ entry }) => entry)),
+    keptPerChar: new Map<CharacterId, number>(),
+  }
   for (const { entry, sourceSlotCount } of merged) {
     const expansion = expandChainEntryIntoRows(
       rule,
