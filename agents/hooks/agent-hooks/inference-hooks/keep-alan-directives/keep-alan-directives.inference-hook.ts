@@ -91,5 +91,10 @@ export const keepAlanDirectives = {
       statement:
         "A seat with a background command open when its turn ends has that turn judged by nothing.",
     },
+    {
+      invariantKind: "constraint",
+      statement:
+        "Three runs in six reached no model while a bulk measurement ran on the same gateway.",
+    },
   ],
 } as const satisfies InferenceHook
