@@ -47,7 +47,7 @@ export const sophiaAgentStopHook = {
     {
       statement: "A model test answering yes keeps what it was asked beside what it answered.",
       workingMemory:
-        "Nothing keeps them now. The hook writes one line a run through `recorded`, the module a check logs its cost through, and that line holds only the time, the seat, the gate and the count. `holding` has the prompt and the model's words at the moment it refuses, and drops both, so every firing in the wild is lost and every case here was mined out of transcripts by hand. The shape to copy is a file property its page type marks uncommitted, defaulting to jsonl.",
+        "Live on the hook. Every yes writes the rule, the whole prompt and the model's words to `<test>.model-test.positives.uncommitted.jsonl` beside the test that asked, through the appender the cost logs use, and every yes is kept rather than the first alone. All four judges resolve a path. What is still not kept is a yes from `akasha model test`, where a run over the cases would write thousands of lines the key already holds.\n",
     },
   ],
   constraints: ["A refusal reminds an agent of a directive Alan's own page states."],
