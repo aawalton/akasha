@@ -22,6 +22,15 @@ else
   echo "OK: url-scheme seam SKIPPED — NATIVE_SHELL_URL_SCHEME=0 (CFBundleURLTypes removed)."
 fi
 
+if [[ "$PICTURE_INTENT_ENABLED" == "1" ]]; then
+  "$PB" -c "Delete :NSCameraUsageDescription" "$PLIST" 2>/dev/null || true
+  "$PB" -c "Add :NSCameraUsageDescription string ${CAMERA_USAGE_DESC}" "$PLIST"
+  echo "OK: NSCameraUsageDescription applied to $PLIST"
+else
+  "$PB" -c "Delete :NSCameraUsageDescription" "$PLIST" 2>/dev/null || true
+  echo "OK: camera usage-description seam SKIPPED — NATIVE_SHELL_PICTURE_INTENT=0 (key removed)."
+fi
+
 if [[ "$HEALTHKIT_ENABLED" == "1" ]]; then
   "$PB" -c "Delete :NSHealthShareUsageDescription" "$PLIST" 2>/dev/null || true
   "$PB" -c "Add :NSHealthShareUsageDescription string ${HEALTH_SHARE_DESC}" "$PLIST"

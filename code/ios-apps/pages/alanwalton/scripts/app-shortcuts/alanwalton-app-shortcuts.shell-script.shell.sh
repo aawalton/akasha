@@ -2,7 +2,7 @@
 # Sourced by alanwalton-ios-seam, in the shell that runs it, and cut from
 # 08-shortcuts-and-keychain.sh when that seam moved into akasha. It reads the names
 # the seam set and is not a program of its own.
-if [[ "$WALLPAPER_INTENT_ENABLED" == "1" || "$HEALTH_SAMPLES_INTENT_ENABLED" == "1" ]]; then
+if [[ "$WALLPAPER_INTENT_ENABLED" == "1" || "$HEALTH_SAMPLES_INTENT_ENABLED" == "1" || "$PICTURE_INTENT_ENABLED" == "1" ]]; then
 {
 cat <<'SWIFT_PROVIDER_HEAD'
 
@@ -33,6 +33,16 @@ cat <<'SWIFT_PROVIDER_HEALTH_SAMPLES'
             systemImageName: "waveform.path.ecg"
         )
 SWIFT_PROVIDER_HEALTH_SAMPLES
+fi
+if [[ "$PICTURE_INTENT_ENABLED" == "1" ]]; then
+cat <<'SWIFT_PROVIDER_PICTURE'
+        AppShortcut(
+            intent: TakePictureIntent(),
+            phrases: ["Take a picture with \(.applicationName)"],
+            shortTitle: "Take Picture",
+            systemImageName: "camera"
+        )
+SWIFT_PROVIDER_PICTURE
 fi
 cat <<'SWIFT_PROVIDER_TAIL'
     }
