@@ -7,7 +7,21 @@ export const inferenceHook = {
   definition: "an agent hook that asks a model",
   pluralSlug: "inference-hooks",
   extends: ["page-type/agent-hook"],
-  parts: ["inference-hook/keep-alan-directives"],
-  invariants: [],
+  parts: ["file-property/stop-gates", "inference-hook/keep-alan-directives"],
+  properties: [
+    {
+      pageProperty: "file-property/stop-gates",
+      required: false,
+      many: false,
+      uncommitted: true,
+      default: "jsonl",
+    },
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A hook here records how far each of its runs got, beside its own page.",
+    },
+  ],
   types: "ts",
 } as const satisfies PageType
