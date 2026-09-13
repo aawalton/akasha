@@ -1,17 +1,18 @@
-import { appendFileSync, existsSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { appendFileSync, mkdirSync } from "node:fs"
+import { dirname, join, relative } from "node:path"
+import { clearings } from "akasha/agents/hooks/agent-hooks/properties/clearings.file-property.ts"
 import {
   ASIDE,
   parseHookPayload,
   SCOPE_FLAG,
 } from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
 import {
-  READS_AT,
   SUBAGENT_MARK,
   type Swept,
   sweptReadings,
 } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { uncommittedBesideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 const HOOK = "clear-reads-on-context-replaced"
 
@@ -19,7 +20,13 @@ export const NAMED = "AGENT_ID"
 
 const ACTING = "agent_id"
 
-const CLEARINGS_AT = `${READS_AT}/clearings.jsonl`
+const CODE_ENDING = ".code.ts"
+
+const HELD = "jsonl"
+
+export function pageOfCode(at: string): string {
+  return at.endsWith(CODE_ENDING) ? `${at.slice(0, -CODE_ENDING.length)}.ts` : at
+}
 
 const REPLACING: readonly string[] = ["startup", "clear", "compact"]
 
@@ -45,29 +52,30 @@ export const SCOPE: readonly string[] = [
   "agent must hold again is read with `--full`, which passes the record over.",
   "",
   "WHAT IS TAKEN AWAY:",
-  `  every reading under \`${READS_AT}/path\` held by the agent whose context went.`,
+  "  every reading in the file beside the page of the agent whose context went.",
   `  That agent is the seat \`${NAMED}\` names, or, where the payload names an \`${ACTING}\`, the`,
   `    subagent \`<seat>${SUBAGENT_MARK}<${ACTING}>\` acting under it. The harness raises this event`,
   "    for a subagent's own session as well as a seat's, and both arrive carrying the seat's",
   `    \`${NAMED}\`, so the payload is the only thing that tells the two apart.`,
   "  With none named, no agent's own readings go, and the stale ones below still do.",
   "  every reading last seen more than a day ago, whoever holds it.",
-  "  The record is keyed by path and then by agent, so one agent's readings are found by",
-  "    reaching every path in the record rather than by opening one folder. That sweep of the",
-  "    record costs the same whether or not it also weighs what it passes, and a context being",
-  "    replaced is the one moment slow enough to spend it, so the two are one sweep.",
-  "  A directory the sweep leaves holding nothing goes with what was under it.",
+  "  The record is one file for each agent, and the agents are read from the index, so both",
+  "    sweeps open the same handful of files. That costs the same whether or not it also weighs",
+  "    what it passes, and a context being replaced is the one moment slow enough to spend it,",
+  "    so the two are one sweep.",
+  "  A file the sweep empties is left holding nothing rather than taken, because the page it",
+  "    sits beside is still there.",
   "  A record that was not there is no clearing, and this says so rather than claiming one.",
   "",
   "WHAT IS WRITTEN DOWN:",
-  `  one line in \`${CLEARINGS_AT}\` for each source that replaces, naming the agent, the source,`,
+  "  one line beside this hook's own page for each source that replaces, naming the agent, the",
+  "    source,",
   "    whether a record was there to take, and how many stale readings went. This is the only",
   "    trace a clearing leaves, because a wrong agent, a right agent and no agent at all take",
   "    the same path through this code.",
-  "  Nothing is written where the record folder is not there already.",
   "",
-  "This hook acts rather than judges, and it is why the folder it removes and the mark that opens",
-  "a subagent's name are spelled from constants the reading module owns rather than written again.",
+  "This hook acts rather than judges, and it is why the property its note sits under and the mark",
+  "that opens a subagent's name are spelled from pages rather than written again.",
   "",
   "NOT REACHED. Each measured against this hook, not supposed:",
   "  a source this does not name, which leaves the record in place rather than guessing at it",
@@ -101,8 +109,11 @@ export function took(swept: Swept): boolean {
   return swept.agent > 0
 }
 
+const PAGE_AT = relative(rootOf(import.meta.path), pageOfCode(import.meta.path))
+
 export function clearingsAt(root: string): string {
-  return join(root, CLEARINGS_AT)
+  const at = uncommittedBesideAt(PAGE_AT, clearings.propertySlug, HELD)
+  return at === null ? "" : join(root, at)
 }
 
 export function noted(
@@ -112,7 +123,8 @@ export function noted(
   swept: Swept
 ): undefined {
   const at = clearingsAt(root)
-  if (!existsSync(dirname(at))) return
+  if (at === "") return
+  mkdirSync(dirname(at), { recursive: true })
   const said = {
     at: new Date().toISOString(),
     agentId,

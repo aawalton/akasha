@@ -1,6 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync, mkdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { join } from "node:path"
 import {
   ACTING_NAMED,
   agentIdsOf,
@@ -9,9 +8,8 @@ import {
   carryReadings,
   dropReadings,
   partly,
-  READS_AT,
-  readingFileAt,
   readingIn,
+  readsFileAt,
   recordRead,
   SEAT_NAMED,
   SUBAGENT_MARK,
@@ -25,7 +23,10 @@ import {
   AGENT,
   B,
   DAY,
+  NOBODY,
   OTHER,
+  rawAt,
+  rooted,
   scratch,
   thinAt,
   UNDER,
@@ -43,61 +44,73 @@ test("an empty body still has an id", () => {
   expect(blobIdOf(new Uint8Array())).toBe("e69de29bb2d1d6434b8b29ae775ad8c2e48c5391")
 })
 
-test("a reading is found by path, then by agent", () => {
-  const at = readingFileAt("/r", AGENT, "akasha/x/y.ts")
-  expect(at).toBe(join("/r", READS_AT, "path", "akasha/x/y.ts", "agent", "id", `${AGENT}.jsonl`))
+test("an agent's readings sit in one file beside that agent's own page", () => {
+  const root = rooted()
+  expect(readsFileAt(root, AGENT)).toBe(
+    join(root, "agents/seats/pages/astra/astra.seat.reads.uncommitted.jsonl")
+  )
+  expect(readsFileAt(root, UNDER)).toBe(
+    join(
+      root,
+      "agents/subagents/pages/astra-sub-one/astra-sub-one.subagent.reads.uncommitted.jsonl"
+    )
+  )
+})
+
+test("an agent no page names holds no reading, and a read of one records nothing", () => {
+  const root = rooted()
+  expect(readsFileAt(root, NOBODY)).toBeNull()
+  recordRead(root, NOBODY, { path: A, oid: "one", seenAt: 1, carriedOid: null })
+  expect(readingIn(root, NOBODY, A)).toBeNull()
 })
 
 test("a reading recorded is the reading read back", () => {
-  const root = scratch.rootFor("akasha-reading-")
+  const root = rooted()
   const held = { path: "akasha/a.ts", oid: "abc123", seenAt: 1788000000000, carriedOid: null }
   recordRead(root, AGENT, held)
   expect(readingIn(root, AGENT, "akasha/a.ts")).toEqual(held)
 })
 
-test("a reading of a path replaces the one before it", () => {
-  const root = scratch.rootFor("akasha-reading-")
+test("the last line naming a path is that path's reading", () => {
+  const root = rooted()
   recordRead(root, AGENT, { path: "akasha/a.ts", oid: "one", seenAt: 1, carriedOid: null })
   recordRead(root, AGENT, { path: "akasha/a.ts", oid: "two", seenAt: 2, carriedOid: null })
   expect(readingIn(root, AGENT, "akasha/a.ts")?.oid).toBe("two")
 })
 
 test("one agent's reading is not another's", () => {
-  const root = scratch.rootFor("akasha-reading-")
+  const root = rooted()
   recordRead(root, AGENT, { path: "akasha/a.ts", oid: "one", seenAt: 1, carriedOid: null })
-  expect(readingIn(root, "another-agent", "akasha/a.ts")).toBeNull()
+  expect(readingIn(root, OTHER, "akasha/a.ts")).toBeNull()
 })
 
 test("a path never read reads as nothing", () => {
-  const root = scratch.rootFor("akasha-reading-")
+  const root = rooted()
   expect(readingIn(root, AGENT, "akasha/never.ts")).toBeNull()
 })
 
-test("a line that will not parse reads as nothing", () => {
-  const root = scratch.rootFor("akasha-reading-")
-  const at = readingFileAt(root, AGENT, "akasha/bad.ts")
-  mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, "{ not json\n")
+test("a line that will not parse reads as nothing, and the lines beside it still read", () => {
+  const root = rooted()
+  rawAt(root, `{ not json\n${JSON.stringify({ path: A, oid: "one", seenAt: 1 })}\n`)
   expect(readingIn(root, AGENT, "akasha/bad.ts")).toBeNull()
+  expect(readingIn(root, AGENT, A)?.oid).toBe("one")
 })
 
 test("a line missing what a reading carries reads as nothing", () => {
-  const root = scratch.rootFor("akasha-reading-")
-  const at = readingFileAt(root, AGENT, "akasha/thin.ts")
-  mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, `${JSON.stringify({ path: "akasha/thin.ts", oid: "abc" })}\n`)
+  const root = rooted()
+  thinAt(root, { path: "akasha/thin.ts", oid: "abc" })
   expect(readingIn(root, AGENT, "akasha/thin.ts")).toBeNull()
 })
 
 test("a line saying nothing of a mechanical change left none behind", () => {
-  const root = scratch.rootFor("akasha-reading-")
-  thinAt(root, A, { path: A, oid: "abc", seenAt: 1 })
+  const root = rooted()
+  thinAt(root, { path: A, oid: "abc", seenAt: 1 })
   expect(readingIn(root, AGENT, A)).toEqual({ path: A, oid: "abc", seenAt: 1, carriedOid: null })
 })
 
 test("a mechanical id said as nothing at all is read as none", () => {
-  const root = scratch.rootFor("akasha-reading-")
-  thinAt(root, A, { path: A, oid: "abc", seenAt: 1, carriedOid: "" })
+  const root = rooted()
+  thinAt(root, { path: A, oid: "abc", seenAt: 1, carriedOid: "" })
   expect(readingIn(root, AGENT, A)?.carriedOid).toBeNull()
 })
 
@@ -125,8 +138,8 @@ test("a carry chains off the mechanical id, and the body read stays pinned", () 
   expect(carriedInto(held, { was: A, now: B, from: "one" }, "three")).toBeNull()
 })
 
-test("a carried reading is at the new path and the old file is gone", () => {
-  const root = scratch.rootFor("akasha-reading-")
+test("a carried reading is at the new path and the old path reads as nothing", () => {
+  const root = rooted()
   const was = writing(root, A, "one\n")
   const now = writing(root, B, "two\n")
   recordRead(root, AGENT, { path: A, oid: was, seenAt: 1, carriedOid: null })
@@ -138,27 +151,25 @@ test("a carried reading is at the new path and the old file is gone", () => {
     carriedOid: now,
   })
   expect(readingIn(root, AGENT, A)).toBeNull()
-  expect(existsSync(readingFileAt(root, AGENT, A))).toBe(false)
 })
 
 test("a body rewritten where it is keeps its path and gains the mechanical id", () => {
-  const root = scratch.rootFor("akasha-reading-")
+  const root = rooted()
   const was = blobIdOf(new TextEncoder().encode("one\n"))
   const now = writing(root, A, "two\n")
   recordRead(root, AGENT, { path: A, oid: was, seenAt: 1, carriedOid: null })
   carryReadings(root, [{ was: A, now: A, from: was }])
   expect(readingIn(root, AGENT, A)).toEqual({ path: A, oid: was, seenAt: 1, carriedOid: now })
-  expect(existsSync(readingFileAt(root, AGENT, A))).toBe(true)
 })
 
 test("every agent holding the body is carried, not the first one found", () => {
-  const root = scratch.rootFor("akasha-reading-")
+  const root = rooted()
   const was = writing(root, A, "one\n")
   const now = writing(root, B, "two\n")
   for (const one of [AGENT, OTHER]) {
     recordRead(root, one, { path: A, oid: was, seenAt: 1, carriedOid: null })
   }
-  expect(agentIdsOf(root, A)).toEqual([OTHER, AGENT])
+  expect(agentIdsOf(root, A)).toEqual([OTHER, AGENT].sort())
   carryReadings(root, [{ was: A, now: B, from: was }])
   for (const one of [AGENT, OTHER]) {
     expect(readingIn(root, one, B)?.carriedOid).toBe(now)
@@ -167,7 +178,7 @@ test("every agent holding the body is carried, not the first one found", () => {
 })
 
 test("a removal forgets the reading, for every agent holding one", () => {
-  const root = scratch.rootFor("akasha-reading-")
+  const root = rooted()
   for (const one of [AGENT, OTHER]) {
     recordRead(root, one, { path: A, oid: "one", seenAt: 1, carriedOid: null })
     recordRead(root, one, { path: B, oid: "two", seenAt: 1, carriedOid: null })
@@ -175,16 +186,15 @@ test("a removal forgets the reading, for every agent holding one", () => {
   dropReadings(root, [A])
   for (const one of [AGENT, OTHER]) {
     expect(readingIn(root, one, A)).toBeNull()
-    expect(existsSync(readingFileAt(root, one, A))).toBe(false)
     expect(readingIn(root, one, B)?.oid).toBe("two")
   }
 })
 
 test("forgetting a reading nobody holds takes nothing away and throws nothing", () => {
-  const root = scratch.rootFor("akasha-reading-")
+  const root = rooted()
   recordRead(root, AGENT, { path: B, oid: "two", seenAt: 1, carriedOid: null })
   expect(() => dropReadings(root, [A])).not.toThrow()
-  expect(() => dropReadings(scratch.rootFor("akasha-reading-"), [A])).not.toThrow()
+  expect(() => dropReadings(rooted(), [A])).not.toThrow()
   expect(readingIn(root, AGENT, B)?.oid).toBe("two")
 })
 
@@ -233,28 +243,29 @@ test("an acting name without a seat named is not honoured either", () => {
 })
 
 test("a subagent's readings sit under its own name and not its seat's", () => {
-  const root = scratch.rootFor("akasha-reading-")
+  const root = rooted()
   recordRead(root, UNDER, { path: A, oid: "one", seenAt: 1, carriedOid: null })
   expect(readingIn(root, UNDER, A)?.oid).toBe("one")
   expect(readingIn(root, AGENT, A)).toBeNull()
 })
 
 test("a seat's readings do not sit under its subagent's name", () => {
-  const root = scratch.rootFor("akasha-reading-")
+  const root = rooted()
   recordRead(root, AGENT, { path: A, oid: "one", seenAt: 1, carriedOid: null })
   expect(readingIn(root, UNDER, A)).toBeNull()
 })
 
-test("a composite owner is a folder of its own beside the seat's", () => {
-  const root = scratch.rootFor("akasha-reading-")
+test("a composite owner has a file of its own beside its seat's", () => {
+  const root = rooted()
   for (const one of [AGENT, UNDER]) {
     recordRead(root, one, { path: A, oid: one, seenAt: 1, carriedOid: null })
   }
-  expect(agentIdsOf(root, A)).toEqual([AGENT, UNDER])
+  expect(readsFileAt(root, AGENT)).not.toBe(readsFileAt(root, UNDER))
+  expect(agentIdsOf(root, A)).toEqual([AGENT, UNDER].sort())
 })
 
 test("a sweep takes the agent it names and leaves another agent's fresh reading", () => {
-  const root = scratch.rootFor("akasha-reading-")
+  const root = rooted()
   const now = Date.now()
   for (const one of [AGENT, OTHER]) {
     recordRead(root, one, { path: A, oid: one, seenAt: now, carriedOid: null })
@@ -265,7 +276,7 @@ test("a sweep takes the agent it names and leaves another agent's fresh reading"
 })
 
 test("a sweep takes every reading last seen before the moment it is handed", () => {
-  const root = scratch.rootFor("akasha-reading-")
+  const root = rooted()
   const now = Date.now()
   recordRead(root, AGENT, { path: A, oid: "old", seenAt: now - DAY - 1, carriedOid: null })
   recordRead(root, OTHER, { path: B, oid: "new", seenAt: now, carriedOid: null })
@@ -274,37 +285,35 @@ test("a sweep takes every reading last seen before the moment it is handed", () 
   expect(readingIn(root, OTHER, B)?.oid).toBe("new")
 })
 
-test("a sweep leaves behind no directory holding nothing", () => {
-  const root = scratch.rootFor("akasha-reading-")
+test("a sweep empties the file rather than leaving a line nothing reads", () => {
+  const root = rooted()
   recordRead(root, AGENT, { path: A, oid: "one", seenAt: 1, carriedOid: null })
   sweptReadings(root, null, Date.now() - DAY)
-  expect(existsSync(join(root, READS_AT, "path", "akasha"))).toBe(false)
+  expect(readingIn(root, AGENT, A)).toBeNull()
 })
 
 test("a sweep over a record that is not there takes nothing and throws nothing", () => {
-  const root = scratch.rootFor("akasha-reading-")
+  const root = rooted()
   expect(sweptReadings(root, AGENT, Date.now())).toEqual({ agent: 0, stale: 0 })
 })
 
 test("a reading whose line will not parse is swept as stale", () => {
-  const root = scratch.rootFor("akasha-reading-")
-  const at = readingFileAt(root, AGENT, A)
-  mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, "{ not json\n")
+  const root = rooted()
+  rawAt(root, "{ not json\n")
   expect(sweptReadings(root, null, 0).stale).toBe(1)
-  expect(existsSync(at)).toBe(false)
+  expect(readingIn(root, AGENT, A)).toBeNull()
 })
 
 test("a line carrying no reach into the body means the whole body reached the agent", () => {
-  const root = scratch.rootFor("akasha-reading-")
-  thinAt(root, A, { path: A, oid: "abc", seenAt: 1, carriedOid: null })
+  const root = rooted()
+  thinAt(root, { path: A, oid: "abc", seenAt: 1, carriedOid: null })
   const held = readingIn(root, AGENT, A)
   expect(partly(held)).toBe(false)
   expect(sameBody(held, "abc")).toBe(true)
 })
 
 test("a reach into the body is written and read back", () => {
-  const root = scratch.rootFor("akasha-reading-")
+  const root = rooted()
   recordRead(root, AGENT, { path: A, oid: "abc", seenAt: 1, carriedOid: null, readThrough: 42 })
   expect(readingIn(root, AGENT, A)?.readThrough).toBe(42)
 })
@@ -317,9 +326,9 @@ test("a reading carrying a reach into the body answers no body", () => {
 })
 
 test("a reach that is no whole line count is no reach", () => {
-  const root = scratch.rootFor("akasha-reading-")
+  const root = rooted()
   for (const said of [0, -1, 1.5, "7", null]) {
-    thinAt(root, A, { path: A, oid: "abc", seenAt: 1, carriedOid: null, readThrough: said })
+    thinAt(root, { path: A, oid: "abc", seenAt: 1, carriedOid: null, readThrough: said })
     expect(partly(readingIn(root, AGENT, A))).toBe(false)
   }
 })
@@ -332,12 +341,12 @@ test("a carry moves how far into the body the agent had read", () => {
 })
 
 test("a line the record already holds answers under the key that line was written with", () => {
-  const root = scratch.rootFor("akasha-reading-")
+  const root = rooted()
   const was = { path: A, oid: "one", seenAt: 1 }
-  thinAt(root, A, { ...was, mechanicalOid: "two" })
+  thinAt(root, { ...was, mechanicalOid: "two" })
   expect(sameBody(readingIn(root, AGENT, A), "two")).toBe(true)
-  thinAt(root, A, { ...was, carriedOid: null, mechanicalOid: "two" })
+  thinAt(root, { ...was, carriedOid: null, mechanicalOid: "two" })
   expect(sameBody(readingIn(root, AGENT, A), "two")).toBe(true)
-  thinAt(root, A, { ...was, carriedOid: "three", mechanicalOid: "two" })
+  thinAt(root, { ...was, carriedOid: "three", mechanicalOid: "two" })
   expect(sameBody(readingIn(root, AGENT, A), "three")).toBe(true)
 })

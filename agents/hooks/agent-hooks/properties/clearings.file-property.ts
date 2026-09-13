@@ -1,0 +1,35 @@
+import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
+
+export const clearings = {
+  id: "01a09c42-2954-7ac4-b9bf-76a533d55823",
+  type: "file-property",
+  slug: "clearings",
+  propertySlug: "clearings",
+  definition: "the contexts a hook cleared, one line for each",
+  extensions: ["jsonl"],
+  runsFileLength: false,
+  generated: true,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "One line has one clearing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line names the agent cleared, or says none was named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line is appended rather than written over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Lines are kept outside the commit.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No author writes a line here by hand.",
+    },
+  ],
+  types: "ts",
+} as const satisfies FileProperty

@@ -23,6 +23,7 @@ export const agentHook = {
     "agent-hook/state-compacting",
     "agent-hook/state-subagent",
     "agent-hook/weigh-bash-call",
+    "file-property/clearings",
     "page-type/inference-hook",
     "select-property/runs-at",
     "text-property/over-tools",
@@ -31,6 +32,13 @@ export const agentHook = {
   properties: [
     { pageProperty: "select-property/runs-at", required: true, many: true, maxCount: null },
     { pageProperty: "text-property/over-tools", required: false, many: true, maxCount: null },
+    {
+      pageProperty: "file-property/clearings",
+      required: false,
+      many: false,
+      uncommitted: true,
+      default: "jsonl",
+    },
   ],
   invariants: [
     {

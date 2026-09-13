@@ -11,7 +11,7 @@ export const agentId = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An agent id names the folder an agent's readings are kept in.",
+      statement: "An agent id reaches the page whose readings are that agent's.",
     },
     {
       invariantKind: "departure",

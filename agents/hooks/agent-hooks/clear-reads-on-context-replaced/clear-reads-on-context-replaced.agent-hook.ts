@@ -92,11 +92,19 @@ export const clearReadsOnContextReplaced = {
     },
     {
       invariantKind: "departure",
-      statement: "The note written down sits beside the records that note is written about.",
+      statement: "The note written down sits beside this hook's own page.",
     },
     {
       invariantKind: "departure",
-      statement: "Nothing is written down in a tree with no record folder.",
+      statement: "A record the sweep empties is left holding nothing rather than taken away.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Nothing proves this hook clears a record in the tree this hook sits in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Proving that would write a record into that tree, which is another agent's.",
     },
     {
       invariantKind: "departure",

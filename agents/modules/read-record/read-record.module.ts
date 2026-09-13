@@ -11,11 +11,15 @@ export const readRecord = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reading is found by path and then by agent.",
+      statement: "A reading is found by agent and then by path.",
     },
     {
       invariantKind: "departure",
-      statement: "Which agents read a path is one listing rather than an ask of every agent.",
+      statement: "Which agents read a path is asked of every agent, there being few of them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which agents there are is read from the index rather than from a folder.",
     },
     {
       invariantKind: "departure",
@@ -56,7 +60,11 @@ export const readRecord = {
     },
     {
       invariantKind: "departure",
-      statement: "The record sits beside the index under `.git/data`.",
+      statement: "An agent's readings sit in one file beside that agent's own page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An agent no page names holds no reading, and a read of one records nothing.",
     },
     {
       invariantKind: "departure",
@@ -68,7 +76,7 @@ export const readRecord = {
     },
     {
       invariantKind: "departure",
-      statement: "The record keeps the last reading of a path and drops every earlier reading.",
+      statement: "A reading is appended, and the last line naming a path is that path's reading.",
     },
     {
       invariantKind: "departure",
@@ -126,7 +134,7 @@ export const readRecord = {
     },
     {
       invariantKind: "departure",
-      statement: "A removal takes the whole folder a path's readings sit in.",
+      statement: "Forgetting a reading writes the file again without the lines that go.",
     },
     {
       invariantKind: "departure",
@@ -134,11 +142,11 @@ export const readRecord = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading whose line will not read is swept as one last seen before then.",
+      statement: "A reading whose line will not read goes with the next write of that file.",
     },
     {
       invariantKind: "departure",
-      statement: "A directory a sweep leaves holding nothing goes with what was under it.",
+      statement: "A writer of one of these files takes a lock keyed on that file.",
     },
     {
       invariantKind: "departure",
