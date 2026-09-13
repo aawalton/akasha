@@ -86,5 +86,10 @@ export const keepAlanDirectives = {
       statement:
         "Each run records the gate it stopped at, so a turn unjudged is told from one judged.",
     },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A seat with a background command open when its turn ends has that turn judged by nothing.",
+    },
   ],
 } as const satisfies InferenceHook
