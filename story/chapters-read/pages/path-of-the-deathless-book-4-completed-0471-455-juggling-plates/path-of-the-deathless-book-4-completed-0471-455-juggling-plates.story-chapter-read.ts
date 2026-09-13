@@ -7,12 +7,16 @@ export const pathOfTheDeathlessBook4Completed0471455JugglingPlates = {
   position: 471,
   publishedAt: "2026-09-10",
   unit: "words",
-  externalId: "3940361",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3940361",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3940361/455-juggling-plates",
+    },
+  ],
   title: "455 Juggling Plates",
   story: "story-read/path-of-the-deathless-book-4-completed",
   ownLength: 6606,
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3940361/455-juggling-plates",
   prose: "txt",
 } as const satisfies StoryChapterRead

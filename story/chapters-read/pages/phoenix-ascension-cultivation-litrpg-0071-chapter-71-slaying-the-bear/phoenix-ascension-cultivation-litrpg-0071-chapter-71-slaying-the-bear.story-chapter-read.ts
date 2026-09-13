@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0071Chapter71SlayingTheBear = {
   position: 71,
   ownLength: 2420,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2915056/chapter-71-slaying-the-bear",
-  externalId: "2915056",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2915056",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2915056/chapter-71-slaying-the-bear",
+    },
+  ],
   publishedAt: "2026-01-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

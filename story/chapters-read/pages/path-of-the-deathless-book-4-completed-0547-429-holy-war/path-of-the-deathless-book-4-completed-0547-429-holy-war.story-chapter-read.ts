@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0547429HolyWar = {
   position: 547,
   ownLength: 5940,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3800971/429-holy-war",
-  externalId: "3800971",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3800971",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3800971/429-holy-war",
+    },
+  ],
   publishedAt: "2026-08-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

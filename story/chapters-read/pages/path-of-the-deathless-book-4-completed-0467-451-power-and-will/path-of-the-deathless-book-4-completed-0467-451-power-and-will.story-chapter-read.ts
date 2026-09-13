@@ -8,11 +8,15 @@ export const pathOfTheDeathlessBook4Completed0467451PowerAndWill = {
   position: 467,
   publishedAt: "2026-09-05",
   unit: "words",
-  externalId: "3917058",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3917058",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3917058/451-power-and-will",
+    },
+  ],
   title: "451 Power and Will",
   ownLength: 6164,
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3917058/451-power-and-will",
   prose: "txt",
 } as const satisfies StoryChapterRead

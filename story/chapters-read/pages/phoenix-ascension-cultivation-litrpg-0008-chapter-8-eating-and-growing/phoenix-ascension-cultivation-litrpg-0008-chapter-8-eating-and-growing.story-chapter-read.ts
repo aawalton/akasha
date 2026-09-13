@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0008Chapter8EatingAndGrowing = {
   position: 8,
   ownLength: 1720,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2525678/chapter-8-eating-and-growing",
-  externalId: "2525678",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525678",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2525678/chapter-8-eating-and-growing",
+    },
+  ],
   publishedAt: "2025-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

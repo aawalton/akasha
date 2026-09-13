@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0520403IiCuckolds = {
   position: 520,
   ownLength: 4187,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3664515/403-ii-cuckolds",
-  externalId: "3664515",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3664515",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3664515/403-ii-cuckolds",
+    },
+  ],
   publishedAt: "2026-07-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

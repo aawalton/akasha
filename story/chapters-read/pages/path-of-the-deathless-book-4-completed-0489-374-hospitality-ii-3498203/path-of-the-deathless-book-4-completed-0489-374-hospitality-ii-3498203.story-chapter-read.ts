@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0489374HospitalityIi3498203 = {
   position: 489,
   ownLength: 5523,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3498203/374-hospitality-ii",
-  externalId: "3498203",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3498203",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3498203/374-hospitality-ii",
+    },
+  ],
   publishedAt: "2026-06-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

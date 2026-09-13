@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0305253IiMetamorphosisIv2915439 = {
   position: 305,
   ownLength: 2473,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2915439/253-ii-metamorphosis-iv",
-  externalId: "2915439",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2915439",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2915439/253-ii-metamorphosis-iv",
+    },
+  ],
   publishedAt: "2026-01-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

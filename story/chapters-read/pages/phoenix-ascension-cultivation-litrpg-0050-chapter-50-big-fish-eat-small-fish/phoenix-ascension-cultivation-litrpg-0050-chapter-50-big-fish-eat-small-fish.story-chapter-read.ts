@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0050Chapter50BigFishEatSmallFish =
   position: 50,
   ownLength: 2782,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2769917/chapter-50-big-fish-eat-small-fish",
-  externalId: "2769917",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2769917",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2769917/chapter-50-big-fish-eat-small-fish",
+    },
+  ],
   publishedAt: "2025-11-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

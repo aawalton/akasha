@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0551433Unforgiven = {
   position: 551,
   ownLength: 5349,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3818416/433-unforgiven",
-  externalId: "3818416",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3818416",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3818416/433-unforgiven",
+    },
+  ],
   publishedAt: "2026-08-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

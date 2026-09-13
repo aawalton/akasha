@@ -9,10 +9,14 @@ export const pathToProsperityLitrpgVol12Stubbed0003B1Chapter3Understanding = {
   position: 3,
   ownLength: 1419,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/89323/path-to-prosperity-litrpg-vol-12-stubbed/chapter/1697660/b1-chapter-3-understanding",
-  externalId: "1697660",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1697660",
+      externalLink:
+        "https://www.royalroad.com/fiction/89323/path-to-prosperity-litrpg-vol-12-stubbed/chapter/1697660/b1-chapter-3-understanding",
+    },
+  ],
   publishedAt: "2024-06-29",
   ownProgress: 1419,
   completedAt: "2026-06-29T21:36:23.286Z",

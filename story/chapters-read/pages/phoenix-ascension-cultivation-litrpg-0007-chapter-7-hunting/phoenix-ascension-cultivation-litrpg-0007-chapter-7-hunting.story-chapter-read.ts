@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0007Chapter7Hunting = {
   position: 7,
   ownLength: 2196,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2525660/chapter-7-hunting",
-  externalId: "2525660",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525660",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2525660/chapter-7-hunting",
+    },
+  ],
   publishedAt: "2025-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

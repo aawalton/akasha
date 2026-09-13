@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0566448Mythology = {
   position: 566,
   ownLength: 4922,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3901370/448-mythology",
-  externalId: "3901370",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3901370",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3901370/448-mythology",
+    },
+  ],
   publishedAt: "2026-09-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

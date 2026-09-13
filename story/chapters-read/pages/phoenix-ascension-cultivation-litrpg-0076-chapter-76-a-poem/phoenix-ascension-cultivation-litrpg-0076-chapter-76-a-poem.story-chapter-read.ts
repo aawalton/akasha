@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0076Chapter76APoem = {
   position: 76,
   ownLength: 2656,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2953557/chapter-76-a-poem",
-  externalId: "2953557",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2953557",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2953557/chapter-76-a-poem",
+    },
+  ],
   publishedAt: "2026-01-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

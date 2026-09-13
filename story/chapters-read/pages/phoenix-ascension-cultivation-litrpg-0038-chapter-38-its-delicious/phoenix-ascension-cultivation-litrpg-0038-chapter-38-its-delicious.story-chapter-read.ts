@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0038Chapter38ItsDelicious = {
   position: 38,
   ownLength: 2711,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2691563/chapter-38-its-delicious",
-  externalId: "2691563",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2691563",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2691563/chapter-38-its-delicious",
+    },
+  ],
   publishedAt: "2025-10-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

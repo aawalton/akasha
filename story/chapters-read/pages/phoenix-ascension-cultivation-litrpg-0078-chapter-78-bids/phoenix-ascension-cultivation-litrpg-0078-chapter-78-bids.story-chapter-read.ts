@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0078Chapter78Bids = {
   position: 78,
   ownLength: 2131,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2965934/chapter-78-bids",
-  externalId: "2965934",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2965934",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2965934/chapter-78-bids",
+    },
+  ],
   publishedAt: "2026-01-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

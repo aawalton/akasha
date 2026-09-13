@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0384294IiPathOfTheCheflessI3057499 
   position: 384,
   ownLength: 5867,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3057499/294-ii-path-of-the-chefless-i",
-  externalId: "3057499",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3057499",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3057499/294-ii-path-of-the-chefless-i",
+    },
+  ],
   publishedAt: "2026-02-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

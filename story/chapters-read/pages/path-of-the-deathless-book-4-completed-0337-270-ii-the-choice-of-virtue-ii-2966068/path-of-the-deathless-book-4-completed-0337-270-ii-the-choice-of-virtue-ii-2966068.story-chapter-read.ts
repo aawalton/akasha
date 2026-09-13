@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0337270IiTheChoiceOfVirtueIi2966068
   position: 337,
   ownLength: 2370,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2966068/270-ii-the-choice-of-virtue-ii",
-  externalId: "2966068",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2966068",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2966068/270-ii-the-choice-of-virtue-ii",
+    },
+  ],
   publishedAt: "2026-01-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

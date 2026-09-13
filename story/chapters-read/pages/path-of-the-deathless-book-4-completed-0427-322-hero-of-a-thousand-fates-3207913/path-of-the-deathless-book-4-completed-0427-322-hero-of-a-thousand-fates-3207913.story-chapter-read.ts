@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0427322HeroOfAThousandFates3207913 
   position: 427,
   ownLength: 5144,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3207913/322-hero-of-a-thousand-fates",
-  externalId: "3207913",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3207913",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3207913/322-hero-of-a-thousand-fates",
+    },
+  ],
   publishedAt: "2026-03-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

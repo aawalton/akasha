@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0049Chapter49BeastCore = {
   position: 49,
   ownLength: 2526,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2764351/chapter-49-beast-core",
-  externalId: "2764351",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2764351",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2764351/chapter-49-beast-core",
+    },
+  ],
   publishedAt: "2025-11-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

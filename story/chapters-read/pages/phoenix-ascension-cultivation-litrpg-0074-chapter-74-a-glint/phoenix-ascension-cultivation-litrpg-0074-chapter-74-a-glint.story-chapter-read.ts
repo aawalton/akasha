@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0074Chapter74AGlint = {
   position: 74,
   ownLength: 2770,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2937317/chapter-74-a-glint",
-  externalId: "2937317",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2937317",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2937317/chapter-74-a-glint",
+    },
+  ],
   publishedAt: "2026-01-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

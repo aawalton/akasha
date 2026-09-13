@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0027Chapter27RewardsAndSurprises =
   position: 27,
   ownLength: 2667,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2626289/chapter-27-rewards-and-surprises",
-  externalId: "2626289",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2626289",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2626289/chapter-27-rewards-and-surprises",
+    },
+  ],
   publishedAt: "2025-09-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

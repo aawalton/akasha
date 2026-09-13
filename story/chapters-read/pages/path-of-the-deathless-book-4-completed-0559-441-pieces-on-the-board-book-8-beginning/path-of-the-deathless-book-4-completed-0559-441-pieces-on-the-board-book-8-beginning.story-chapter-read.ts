@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0559441PiecesOnTheBoardBook8Beginni
   position: 559,
   ownLength: 6973,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3864265/441-pieces-on-the-board-book-8-beginning",
-  externalId: "3864265",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3864265",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3864265/441-pieces-on-the-board-book-8-beginning",
+    },
+  ],
   publishedAt: "2026-08-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

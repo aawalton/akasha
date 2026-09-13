@@ -8,11 +8,15 @@ export const pathOfTheDeathlessBook4Completed0567449LooseEnds = {
   position: 567,
   publishedAt: "2026-09-03",
   unit: "words",
-  externalId: "3905721",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3905721",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3905721/449-loose-ends",
+    },
+  ],
   title: "449 Loose Ends",
   ownLength: 5590,
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3905721/449-loose-ends",
   prose: "txt",
 } as const satisfies StoryChapterRead

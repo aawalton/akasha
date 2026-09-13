@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0265233IRage2859544 = {
   position: 265,
   ownLength: 2873,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2859544/233-i-rage",
-  externalId: "2859544",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2859544",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2859544/233-i-rage",
+    },
+  ],
   publishedAt: "2025-12-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

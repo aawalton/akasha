@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0415Book1OfficialRelease3164764 = {
   position: 415,
   ownLength: 110,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3164764/book-1-official-release",
-  externalId: "3164764",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3164764",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3164764/book-1-official-release",
+    },
+  ],
   publishedAt: "2026-03-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

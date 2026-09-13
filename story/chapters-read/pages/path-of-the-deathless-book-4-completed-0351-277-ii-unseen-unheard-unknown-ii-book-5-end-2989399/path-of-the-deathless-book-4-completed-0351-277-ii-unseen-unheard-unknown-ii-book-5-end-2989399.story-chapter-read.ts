@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0351277IiUnseenUnheardUnknownIiBook
   position: 351,
   ownLength: 2461,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2989399/277-ii-unseen-unheard-unknown-ii-book-5-end",
-  externalId: "2989399",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2989399",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2989399/277-ii-unseen-unheard-unknown-ii-book-5-end",
+    },
+  ],
   publishedAt: "2026-01-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

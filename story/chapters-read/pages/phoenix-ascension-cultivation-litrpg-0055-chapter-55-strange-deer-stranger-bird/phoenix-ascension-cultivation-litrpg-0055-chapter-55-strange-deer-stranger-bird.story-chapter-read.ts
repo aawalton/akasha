@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0055Chapter55StrangeDeerStrangerBi
   position: 55,
   ownLength: 4361,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2804074/chapter-55-strange-deer-stranger-bird",
-  externalId: "2804074",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2804074",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2804074/chapter-55-strange-deer-stranger-bird",
+    },
+  ],
   publishedAt: "2025-11-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0374289IDowntimeI3029705 = {
   position: 374,
   ownLength: 3370,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3029705/289-i-downtime-i",
-  externalId: "3029705",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3029705",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3029705/289-i-downtime-i",
+    },
+  ],
   publishedAt: "2026-02-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

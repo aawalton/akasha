@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0531413Heir = {
   position: 531,
   ownLength: 6274,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3715978/413-heir",
-  externalId: "3715978",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3715978",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3715978/413-heir",
+    },
+  ],
   publishedAt: "2026-07-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

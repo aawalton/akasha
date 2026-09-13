@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0525407TheStormThatDreamedIi = {
   position: 525,
   ownLength: 4959,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3685683/407-the-storm-that-dreamed-ii",
-  externalId: "3685683",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3685683",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3685683/407-the-storm-that-dreamed-ii",
+    },
+  ],
   publishedAt: "2026-07-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

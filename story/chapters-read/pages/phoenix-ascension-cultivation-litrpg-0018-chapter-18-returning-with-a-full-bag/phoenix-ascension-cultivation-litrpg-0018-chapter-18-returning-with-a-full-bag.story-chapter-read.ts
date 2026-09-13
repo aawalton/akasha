@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0018Chapter18ReturningWithAFullBag
   position: 18,
   ownLength: 2564,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2571064/chapter-18-returning-with-a-full-bag",
-  externalId: "2571064",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2571064",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2571064/chapter-18-returning-with-a-full-bag",
+    },
+  ],
   publishedAt: "2025-09-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

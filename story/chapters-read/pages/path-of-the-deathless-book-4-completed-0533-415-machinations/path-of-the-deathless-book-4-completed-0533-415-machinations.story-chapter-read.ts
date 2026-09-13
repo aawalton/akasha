@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0533415Machinations = {
   position: 533,
   ownLength: 5299,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3725208/415-machinations",
-  externalId: "3725208",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3725208",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3725208/415-machinations",
+    },
+  ],
   publishedAt: "2026-07-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

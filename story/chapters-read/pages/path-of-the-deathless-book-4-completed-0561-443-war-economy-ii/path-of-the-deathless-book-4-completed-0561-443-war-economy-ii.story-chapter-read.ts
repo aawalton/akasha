@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0561443WarEconomyIi = {
   position: 561,
   ownLength: 5622,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3873031/443-war-economy-ii",
-  externalId: "3873031",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3873031",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3873031/443-war-economy-ii",
+    },
+  ],
   publishedAt: "2026-08-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

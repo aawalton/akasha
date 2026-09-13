@@ -7,12 +7,16 @@ export const pathOfTheDeathlessBook4Completed0473456EnemyUnknown = {
   position: 473,
   publishedAt: "2026-09-11",
   unit: "words",
-  externalId: "3945215",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3945215",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3945215/456-enemy-unknown",
+    },
+  ],
   title: "456 Enemy Unknown",
   story: "story-read/path-of-the-deathless-book-4-completed",
   ownLength: 5347,
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3945215/456-enemy-unknown",
   prose: "txt",
 } as const satisfies StoryChapterRead

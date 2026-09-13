@@ -8,11 +8,15 @@ export const pathOfTheDeathlessBook4Completed0568450Intrusion = {
   position: 568,
   publishedAt: "2026-09-04",
   unit: "words",
-  externalId: "3912342",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3912342",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3912342/450-intrusion",
+    },
+  ],
   title: "450 Intrusion",
   ownLength: 5131,
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3912342/450-intrusion",
   prose: "txt",
 } as const satisfies StoryChapterRead

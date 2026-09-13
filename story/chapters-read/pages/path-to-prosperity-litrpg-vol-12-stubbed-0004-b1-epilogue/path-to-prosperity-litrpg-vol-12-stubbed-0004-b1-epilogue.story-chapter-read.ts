@@ -9,10 +9,14 @@ export const pathToProsperityLitrpgVol12Stubbed0004B1Epilogue = {
   position: 4,
   ownLength: 593,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/89323/path-to-prosperity-litrpg-vol-12-stubbed/chapter/1753488/b1-epilogue",
-  externalId: "1753488",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1753488",
+      externalLink:
+        "https://www.royalroad.com/fiction/89323/path-to-prosperity-litrpg-vol-12-stubbed/chapter/1753488/b1-epilogue",
+    },
+  ],
   publishedAt: "2024-08-11",
   ownProgress: 593,
   completedAt: "2026-06-29T21:36:25.398Z",

@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0444337TheBoilingToad3282610 = {
   position: 444,
   ownLength: 5663,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3282610/337-the-boiling-toad",
-  externalId: "3282610",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3282610",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3282610/337-the-boiling-toad",
+    },
+  ],
   publishedAt: "2026-04-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

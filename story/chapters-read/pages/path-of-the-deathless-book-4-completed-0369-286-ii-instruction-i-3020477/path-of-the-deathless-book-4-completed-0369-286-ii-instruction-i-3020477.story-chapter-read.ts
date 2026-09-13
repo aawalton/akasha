@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0369286IiInstructionI3020477 = {
   position: 369,
   ownLength: 2351,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3020477/286-ii-instruction-i",
-  externalId: "3020477",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3020477",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3020477/286-ii-instruction-i",
+    },
+  ],
   publishedAt: "2026-02-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

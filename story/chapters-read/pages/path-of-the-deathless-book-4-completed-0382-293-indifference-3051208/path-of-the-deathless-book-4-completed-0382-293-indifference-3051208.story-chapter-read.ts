@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0382293Indifference3051208 = {
   position: 382,
   ownLength: 5419,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3051208/293-indifference",
-  externalId: "3051208",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3051208",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3051208/293-indifference",
+    },
+  ],
   publishedAt: "2026-02-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

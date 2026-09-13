@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0565447TheDevilsWeGetToKnow = {
   position: 565,
   ownLength: 6407,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3896803/447-the-devils-we-get-to-know",
-  externalId: "3896803",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3896803",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3896803/447-the-devils-we-get-to-know",
+    },
+  ],
   publishedAt: "2026-09-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

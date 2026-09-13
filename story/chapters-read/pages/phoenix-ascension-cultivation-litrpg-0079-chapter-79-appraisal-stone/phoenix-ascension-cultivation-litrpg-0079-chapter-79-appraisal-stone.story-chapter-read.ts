@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0079Chapter79AppraisalStone = {
   position: 79,
   ownLength: 2221,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2975816/chapter-79-appraisal-stone",
-  externalId: "2975816",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2975816",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2975816/chapter-79-appraisal-stone",
+    },
+  ],
   publishedAt: "2026-01-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

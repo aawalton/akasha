@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0031Chapter31SpiritSpringSource = 
   position: 31,
   ownLength: 2565,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2651651/chapter-31-spirit-spring-source",
-  externalId: "2651651",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2651651",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2651651/chapter-31-spirit-spring-source",
+    },
+  ],
   publishedAt: "2025-10-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

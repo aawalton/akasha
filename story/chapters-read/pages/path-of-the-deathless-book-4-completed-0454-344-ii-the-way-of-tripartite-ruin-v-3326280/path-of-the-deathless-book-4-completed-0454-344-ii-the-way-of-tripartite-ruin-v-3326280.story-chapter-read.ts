@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0454344IiTheWayOfTripartiteRuinV332
   position: 454,
   ownLength: 2660,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3326280/344-ii-the-way-of-tripartite-ruin-v",
-  externalId: "3326280",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3326280",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3326280/344-ii-the-way-of-tripartite-ruin-v",
+    },
+  ],
   publishedAt: "2026-04-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

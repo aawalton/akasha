@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0032Chapter32DragonsFlames = {
   position: 32,
   ownLength: 2302,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2656283/chapter-32-dragons-flames",
-  externalId: "2656283",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2656283",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2656283/chapter-32-dragons-flames",
+    },
+  ],
   publishedAt: "2025-10-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

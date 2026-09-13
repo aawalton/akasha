@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0472358IiTruthIsAWeaponI3415411 = {
   position: 472,
   ownLength: 2395,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3415411/358-ii-truth-is-a-weapon-i",
-  externalId: "3415411",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3415411",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3415411/358-ii-truth-is-a-weapon-i",
+    },
+  ],
   publishedAt: "2026-05-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

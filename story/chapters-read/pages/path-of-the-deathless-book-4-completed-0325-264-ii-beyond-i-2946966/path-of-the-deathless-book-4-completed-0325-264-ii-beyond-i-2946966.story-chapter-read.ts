@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0325264IiBeyondI2946966 = {
   position: 325,
   ownLength: 3548,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2946966/264-ii-beyond-i",
-  externalId: "2946966",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2946966",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2946966/264-ii-beyond-i",
+    },
+  ],
   publishedAt: "2026-01-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

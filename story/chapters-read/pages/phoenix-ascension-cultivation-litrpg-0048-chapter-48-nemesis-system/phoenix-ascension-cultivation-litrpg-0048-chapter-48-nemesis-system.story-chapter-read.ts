@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0048Chapter48NemesisSystem = {
   position: 48,
   ownLength: 1982,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2755708/chapter-48-nemesis-system",
-  externalId: "2755708",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2755708",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2755708/chapter-48-nemesis-system",
+    },
+  ],
   publishedAt: "2025-11-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

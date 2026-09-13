@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0270235IDietaryI2865882 = {
   position: 270,
   ownLength: 3288,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2865882/235-i-dietary-i",
-  externalId: "2865882",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2865882",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2865882/235-i-dietary-i",
+    },
+  ],
   publishedAt: "2025-12-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

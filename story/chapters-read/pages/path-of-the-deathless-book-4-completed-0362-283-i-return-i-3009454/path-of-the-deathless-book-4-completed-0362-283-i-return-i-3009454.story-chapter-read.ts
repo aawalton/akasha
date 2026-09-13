@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0362283IReturnI3009454 = {
   position: 362,
   ownLength: 3043,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3009454/283-i-return-i",
-  externalId: "3009454",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3009454",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3009454/283-i-return-i",
+    },
+  ],
   publishedAt: "2026-02-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

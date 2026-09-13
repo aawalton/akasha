@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0002Chapter2Mother = {
   position: 2,
   ownLength: 2508,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2525619/chapter-2-mother",
-  externalId: "2525619",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525619",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2525619/chapter-2-mother",
+    },
+  ],
   publishedAt: "2025-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

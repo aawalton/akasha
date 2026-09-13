@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0284243IInsightI2882843 = {
   position: 284,
   ownLength: 2679,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2882843/243-i-insight-i",
-  externalId: "2882843",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2882843",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2882843/243-i-insight-i",
+    },
+  ],
   publishedAt: "2025-12-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

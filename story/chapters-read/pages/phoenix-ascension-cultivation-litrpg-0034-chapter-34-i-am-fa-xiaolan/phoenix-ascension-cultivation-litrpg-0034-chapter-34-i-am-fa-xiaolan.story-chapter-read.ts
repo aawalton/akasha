@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0034Chapter34IAmFaXiaolan = {
   position: 34,
   ownLength: 3104,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2668953/chapter-34-i-am-fa-xiaolan",
-  externalId: "2668953",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2668953",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2668953/chapter-34-i-am-fa-xiaolan",
+    },
+  ],
   publishedAt: "2025-10-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

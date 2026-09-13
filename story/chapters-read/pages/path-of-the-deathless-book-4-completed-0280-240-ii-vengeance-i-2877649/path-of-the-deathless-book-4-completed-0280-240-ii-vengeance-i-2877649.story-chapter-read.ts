@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0280240IiVengeanceI2877649 = {
   position: 280,
   ownLength: 2558,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2877649/240-ii-vengeance-i",
-  externalId: "2877649",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2877649",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2877649/240-ii-vengeance-i",
+    },
+  ],
   publishedAt: "2025-12-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

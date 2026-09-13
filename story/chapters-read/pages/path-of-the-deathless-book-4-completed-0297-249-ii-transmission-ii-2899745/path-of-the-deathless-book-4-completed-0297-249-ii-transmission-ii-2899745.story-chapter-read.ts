@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0297249IiTransmissionIi2899745 = {
   position: 297,
   ownLength: 2939,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2899745/249-ii-transmission-ii",
-  externalId: "2899745",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2899745",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2899745/249-ii-transmission-ii",
+    },
+  ],
   publishedAt: "2026-01-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

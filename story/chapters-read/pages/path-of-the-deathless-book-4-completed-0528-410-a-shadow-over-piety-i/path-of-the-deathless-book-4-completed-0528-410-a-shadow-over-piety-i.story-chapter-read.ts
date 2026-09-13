@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0528410AShadowOverPietyI = {
   position: 528,
   ownLength: 6295,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3703050/410-a-shadow-over-piety-i",
-  externalId: "3703050",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3703050",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3703050/410-a-shadow-over-piety-i",
+    },
+  ],
   publishedAt: "2026-07-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

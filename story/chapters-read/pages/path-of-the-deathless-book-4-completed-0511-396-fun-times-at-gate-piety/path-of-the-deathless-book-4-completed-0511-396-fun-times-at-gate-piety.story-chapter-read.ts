@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0511396FunTimesAtGatePiety = {
   position: 511,
   ownLength: 6525,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3620035/396-fun-times-at-gate-piety",
-  externalId: "3620035",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3620035",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3620035/396-fun-times-at-gate-piety",
+    },
+  ],
   publishedAt: "2026-07-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

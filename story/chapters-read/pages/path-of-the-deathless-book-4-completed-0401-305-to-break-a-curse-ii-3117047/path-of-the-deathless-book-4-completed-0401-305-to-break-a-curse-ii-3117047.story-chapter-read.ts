@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0401305ToBreakACurseIi3117047 = {
   position: 401,
   ownLength: 5458,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3117047/305-to-break-a-curse-ii",
-  externalId: "3117047",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3117047",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3117047/305-to-break-a-curse-ii",
+    },
+  ],
   publishedAt: "2026-03-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0353278IiCounterMetamorphosis299273
   position: 353,
   ownLength: 2427,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2992734/278-ii-counter-metamorphosis",
-  externalId: "2992734",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2992734",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2992734/278-ii-counter-metamorphosis",
+    },
+  ],
   publishedAt: "2026-01-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

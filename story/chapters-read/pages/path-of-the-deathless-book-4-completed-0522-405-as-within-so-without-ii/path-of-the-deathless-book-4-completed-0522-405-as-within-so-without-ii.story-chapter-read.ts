@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0522405AsWithinSoWithoutIi = {
   position: 522,
   ownLength: 6055,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3676874/405-as-within-so-without-ii",
-  externalId: "3676874",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3676874",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3676874/405-as-within-so-without-ii",
+    },
+  ],
   publishedAt: "2026-07-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

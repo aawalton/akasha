@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0061Chapter61RefiningPillsIv = {
   position: 61,
   ownLength: 4252,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2845599/chapter-61-refining-pills-iv",
-  externalId: "2845599",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2845599",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2845599/chapter-61-refining-pills-iv",
+    },
+  ],
   publishedAt: "2025-12-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0421317IiToBearACurseI3185442 = {
   position: 421,
   ownLength: 2383,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3185442/317-ii-to-bear-a-curse-i",
-  externalId: "3185442",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3185442",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3185442/317-ii-to-bear-a-curse-i",
+    },
+  ],
   publishedAt: "2026-03-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

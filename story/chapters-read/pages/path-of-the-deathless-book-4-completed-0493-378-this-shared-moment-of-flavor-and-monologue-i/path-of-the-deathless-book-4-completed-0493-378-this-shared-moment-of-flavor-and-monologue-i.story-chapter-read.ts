@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0493378ThisSharedMomentOfFlavorAndM
   position: 493,
   ownLength: 4918,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3521161/378-this-shared-moment-of-flavor-and-monologue",
-  externalId: "3521161",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3521161",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3521161/378-this-shared-moment-of-flavor-and-monologue",
+    },
+  ],
   publishedAt: "2026-06-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

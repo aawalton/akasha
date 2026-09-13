@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0064Chapter64Failure = {
   position: 64,
   ownLength: 2169,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2865687/chapter-64-failure",
-  externalId: "2865687",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2865687",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2865687/chapter-64-failure",
+    },
+  ],
   publishedAt: "2025-12-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

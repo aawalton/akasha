@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0352278ICounterMetamorphosisBook6Be
   position: 352,
   ownLength: 3115,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2991945/278-i-counter-metamorphosis-book-6-beginning",
-  externalId: "2991945",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2991945",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2991945/278-i-counter-metamorphosis-book-6-beginning",
+    },
+  ],
   publishedAt: "2026-01-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

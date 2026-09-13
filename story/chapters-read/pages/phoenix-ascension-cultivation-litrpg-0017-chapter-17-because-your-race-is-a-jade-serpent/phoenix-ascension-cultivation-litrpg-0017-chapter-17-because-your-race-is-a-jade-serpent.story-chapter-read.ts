@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0017Chapter17BecauseYourRaceIsAJad
   position: 17,
   ownLength: 2219,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2566448/chapter-17-because-your-race-is-a-jade-serpent",
-  externalId: "2566448",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2566448",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2566448/chapter-17-because-your-race-is-a-jade-serpent",
+    },
+  ],
   publishedAt: "2025-09-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

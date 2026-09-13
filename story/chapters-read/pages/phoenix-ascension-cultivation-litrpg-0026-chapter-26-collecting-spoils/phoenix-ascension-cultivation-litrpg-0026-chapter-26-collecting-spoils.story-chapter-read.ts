@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0026Chapter26CollectingSpoils = {
   position: 26,
   ownLength: 1945,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2620993/chapter-26-collecting-spoils",
-  externalId: "2620993",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2620993",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2620993/chapter-26-collecting-spoils",
+    },
+  ],
   publishedAt: "2025-09-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

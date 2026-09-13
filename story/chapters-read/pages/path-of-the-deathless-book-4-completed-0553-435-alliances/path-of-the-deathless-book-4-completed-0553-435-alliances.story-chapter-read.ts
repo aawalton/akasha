@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0553435Alliances = {
   position: 553,
   ownLength: 5040,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3831094/435-alliances",
-  externalId: "3831094",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3831094",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3831094/435-alliances",
+    },
+  ],
   publishedAt: "2026-08-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

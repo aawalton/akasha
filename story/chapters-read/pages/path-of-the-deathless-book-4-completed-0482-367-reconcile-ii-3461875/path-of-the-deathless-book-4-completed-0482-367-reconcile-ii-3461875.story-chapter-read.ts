@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0482367ReconcileIi3461875 = {
   position: 482,
   ownLength: 6142,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3461875/367-reconcile-ii",
-  externalId: "3461875",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3461875",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3461875/367-reconcile-ii",
+    },
+  ],
   publishedAt: "2026-05-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

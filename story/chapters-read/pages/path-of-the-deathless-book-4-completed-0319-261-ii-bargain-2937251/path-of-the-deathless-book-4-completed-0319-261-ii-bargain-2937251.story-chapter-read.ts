@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0319261IiBargain2937251 = {
   position: 319,
   ownLength: 2596,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2937251/261-ii-bargain",
-  externalId: "2937251",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2937251",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2937251/261-ii-bargain",
+    },
+  ],
   publishedAt: "2026-01-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

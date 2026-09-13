@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0348276IUnseenUnheardUnknownI298526
   position: 348,
   ownLength: 3039,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2985265/276-i-unseen-unheard-unknown-i",
-  externalId: "2985265",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2985265",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2985265/276-i-unseen-unheard-unknown-i",
+    },
+  ],
   publishedAt: "2026-01-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

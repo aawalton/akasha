@@ -7,12 +7,16 @@ export const pathOfTheDeathlessBook4Completed0472Book4IsOut = {
   position: 472,
   publishedAt: "2026-09-11",
   unit: "words",
-  externalId: "3945035",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3945035",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3945035/book-4-is-out",
+    },
+  ],
   title: "BOOK 4 IS OUT",
   story: "story-read/path-of-the-deathless-book-4-completed",
   ownLength: 93,
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3945035/book-4-is-out",
   prose: "txt",
 } as const satisfies StoryChapterRead

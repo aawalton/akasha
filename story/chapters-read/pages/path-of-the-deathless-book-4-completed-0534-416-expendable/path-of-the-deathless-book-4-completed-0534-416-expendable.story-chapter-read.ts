@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0534416Expendable = {
   position: 534,
   ownLength: 6517,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3733850/416-expendable",
-  externalId: "3733850",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3733850",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3733850/416-expendable",
+    },
+  ],
   publishedAt: "2026-07-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

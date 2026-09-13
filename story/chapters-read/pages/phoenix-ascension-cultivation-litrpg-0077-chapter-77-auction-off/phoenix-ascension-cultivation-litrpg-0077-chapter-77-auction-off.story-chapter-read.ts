@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0077Chapter77AuctionOff = {
   position: 77,
   ownLength: 2533,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2959256/chapter-77-auction-off",
-  externalId: "2959256",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2959256",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2959256/chapter-77-auction-off",
+    },
+  ],
   publishedAt: "2026-01-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

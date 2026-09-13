@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0039Chapter39FlamingPhoenix = {
   position: 39,
   ownLength: 2384,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2697285/chapter-39-flaming-phoenix",
-  externalId: "2697285",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2697285",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2697285/chapter-39-flaming-phoenix",
+    },
+  ],
   publishedAt: "2025-10-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

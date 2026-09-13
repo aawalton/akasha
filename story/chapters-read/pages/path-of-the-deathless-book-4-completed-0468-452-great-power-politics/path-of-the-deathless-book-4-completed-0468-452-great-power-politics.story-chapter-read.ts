@@ -8,11 +8,15 @@ export const pathOfTheDeathlessBook4Completed0468452GreatPowerPolitics = {
   position: 468,
   publishedAt: "2026-09-07",
   unit: "words",
-  externalId: "3926192",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3926192",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3926192/452-great-power-politics",
+    },
+  ],
   title: "452 Great Power Politics",
   ownLength: 5107,
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3926192/452-great-power-politics",
   prose: "txt",
 } as const satisfies StoryChapterRead

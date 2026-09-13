@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0563445TheBattleAfterTheBattle = {
   position: 563,
   ownLength: 5153,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3882625/445-the-battle-after-the-battle",
-  externalId: "3882625",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3882625",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3882625/445-the-battle-after-the-battle",
+    },
+  ],
   publishedAt: "2026-08-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

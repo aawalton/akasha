@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0461350TheTruthWithoutTheLieWithin3
   position: 461,
   ownLength: 5424,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3359424/350-the-truth-without-the-lie-within",
-  externalId: "3359424",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3359424",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3359424/350-the-truth-without-the-lie-within",
+    },
+  ],
   publishedAt: "2026-05-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0016Chapter16IAlwaysLovedSerpentBa
   position: 16,
   ownLength: 2249,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2559807/chapter-16-i-always-loved-serpent-barbecue",
-  externalId: "2559807",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2559807",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2559807/chapter-16-i-always-loved-serpent-barbecue",
+    },
+  ],
   publishedAt: "2025-08-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

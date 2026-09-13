@@ -9,10 +9,14 @@ export const pathToProsperityLitrpgVol12Stubbed0006B3Prologue = {
   position: 6,
   ownLength: 379,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/89323/path-to-prosperity-litrpg-vol-12-stubbed/chapter/1878719/b3-prologue",
-  externalId: "1878719",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1878719",
+      externalLink:
+        "https://www.royalroad.com/fiction/89323/path-to-prosperity-litrpg-vol-12-stubbed/chapter/1878719/b3-prologue",
+    },
+  ],
   publishedAt: "2024-11-01",
   ownProgress: 379,
   completedAt: "2026-06-29T21:36:29.176Z",

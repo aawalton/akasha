@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0546428DivineReciprocity = {
   position: 546,
   ownLength: 4845,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3796495/428-divine-reciprocity",
-  externalId: "3796495",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3796495",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3796495/428-divine-reciprocity",
+    },
+  ],
   publishedAt: "2026-08-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

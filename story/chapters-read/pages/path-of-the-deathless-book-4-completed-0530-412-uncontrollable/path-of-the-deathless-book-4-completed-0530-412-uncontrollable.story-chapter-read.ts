@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0530412Uncontrollable = {
   position: 530,
   ownLength: 6826,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3711919/412-uncontrollable",
-  externalId: "3711919",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3711919",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3711919/412-uncontrollable",
+    },
+  ],
   publishedAt: "2026-07-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

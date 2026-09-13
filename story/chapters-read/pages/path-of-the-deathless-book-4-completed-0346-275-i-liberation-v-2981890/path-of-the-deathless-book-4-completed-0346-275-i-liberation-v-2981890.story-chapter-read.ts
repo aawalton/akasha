@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0346275ILiberationV2981890 = {
   position: 346,
   ownLength: 4331,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2981890/275-i-liberation-v",
-  externalId: "2981890",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2981890",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2981890/275-i-liberation-v",
+    },
+  ],
   publishedAt: "2026-01-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

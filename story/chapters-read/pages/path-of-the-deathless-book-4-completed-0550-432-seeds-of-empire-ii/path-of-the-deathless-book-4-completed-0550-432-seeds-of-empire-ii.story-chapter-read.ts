@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0550432SeedsOfEmpireIi = {
   position: 550,
   ownLength: 5196,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3814281/432-seeds-of-empire-ii",
-  externalId: "3814281",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3814281",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3814281/432-seeds-of-empire-ii",
+    },
+  ],
   publishedAt: "2026-08-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0070Chapter70Threatening = {
   position: 70,
   ownLength: 2453,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2909638/chapter-70-threatening",
-  externalId: "2909638",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2909638",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2909638/chapter-70-threatening",
+    },
+  ],
   publishedAt: "2026-01-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

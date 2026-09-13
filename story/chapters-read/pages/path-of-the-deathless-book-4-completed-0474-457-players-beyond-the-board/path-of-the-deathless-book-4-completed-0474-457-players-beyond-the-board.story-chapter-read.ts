@@ -7,12 +7,16 @@ export const pathOfTheDeathlessBook4Completed0474457PlayersBeyondTheBoard = {
   position: 474,
   publishedAt: "2026-09-12",
   unit: "words",
-  externalId: "3949506",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3949506",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3949506/457-players-beyond-the-board",
+    },
+  ],
   title: "457 Players Beyond the Board",
   story: "story-read/path-of-the-deathless-book-4-completed",
   ownLength: 5160,
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3949506/457-players-beyond-the-board",
   prose: "txt",
 } as const satisfies StoryChapterRead

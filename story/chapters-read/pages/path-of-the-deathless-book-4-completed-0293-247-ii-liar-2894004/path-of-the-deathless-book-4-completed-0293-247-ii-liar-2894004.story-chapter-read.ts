@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0293247IiLiar2894004 = {
   position: 293,
   ownLength: 2504,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2894004/247-ii-liar",
-  externalId: "2894004",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2894004",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2894004/247-ii-liar",
+    },
+  ],
   publishedAt: "2025-12-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0020Chapter20YouHaveAbsorbedJadeSe
   position: 20,
   ownLength: 3403,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2585259/chapter-20-you-have-absorbed-jade-serpent-core",
-  externalId: "2585259",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2585259",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2585259/chapter-20-you-have-absorbed-jade-serpent-core",
+    },
+  ],
   publishedAt: "2025-09-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

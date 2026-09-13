@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0480365Fault3450430 = {
   position: 480,
   ownLength: 4919,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3450430/365-fault",
-  externalId: "3450430",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3450430",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3450430/365-fault",
+    },
+  ],
   publishedAt: "2026-05-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

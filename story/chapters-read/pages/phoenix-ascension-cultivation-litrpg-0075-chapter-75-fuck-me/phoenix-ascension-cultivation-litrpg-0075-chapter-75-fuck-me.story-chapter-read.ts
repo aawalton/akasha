@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0075Chapter75FuckMe = {
   position: 75,
   ownLength: 2358,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2943782/chapter-75-fuck-me",
-  externalId: "2943782",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2943782",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2943782/chapter-75-fuck-me",
+    },
+  ],
   publishedAt: "2026-01-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

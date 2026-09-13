@@ -9,10 +9,14 @@ export const pathToProsperityLitrpgVol12Stubbed0002B1Chapter2Ego = {
   position: 2,
   ownLength: 1381,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/89323/path-to-prosperity-litrpg-vol-12-stubbed/chapter/1697659/b1-chapter-2-ego",
-  externalId: "1697659",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1697659",
+      externalLink:
+        "https://www.royalroad.com/fiction/89323/path-to-prosperity-litrpg-vol-12-stubbed/chapter/1697659/b1-chapter-2-ego",
+    },
+  ],
   publishedAt: "2024-06-29",
   ownProgress: 1381,
   completedAt: "2026-06-29T21:36:21.257Z",

@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0068Chapter68IWantToSellPills = {
   position: 68,
   ownLength: 2719,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2891253/chapter-68-i-want-to-sell-pills",
-  externalId: "2891253",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2891253",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2891253/chapter-68-i-want-to-sell-pills",
+    },
+  ],
   publishedAt: "2025-12-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

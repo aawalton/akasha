@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0527409TheOneWhoDecidesIi = {
   position: 527,
   ownLength: 5204,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3694760/409-the-one-who-decides-ii",
-  externalId: "3694760",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3694760",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3694760/409-the-one-who-decides-ii",
+    },
+  ],
   publishedAt: "2026-07-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

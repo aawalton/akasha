@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0500385ContenderIi3558255 = {
   position: 500,
   ownLength: 5286,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3558255/385-contender-ii",
-  externalId: "3558255",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3558255",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3558255/385-contender-ii",
+    },
+  ],
   publishedAt: "2026-06-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

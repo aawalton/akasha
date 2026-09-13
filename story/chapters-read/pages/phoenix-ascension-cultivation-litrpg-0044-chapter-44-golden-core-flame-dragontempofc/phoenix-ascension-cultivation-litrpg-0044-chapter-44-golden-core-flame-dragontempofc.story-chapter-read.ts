@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0044Chapter44GoldenCoreFlameDragon
   position: 44,
   ownLength: 1733,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2729851/chapter-44-golden-core-flame-dragontempofc",
-  externalId: "2729851",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2729851",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2729851/chapter-44-golden-core-flame-dragontempofc",
+    },
+  ],
   publishedAt: "2025-11-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

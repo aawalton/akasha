@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0332267IiFuryAloneIsButImpotence295
   position: 332,
   ownLength: 1782,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2958874/267-ii-fury-alone-is-but-impotence",
-  externalId: "2958874",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2958874",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2958874/267-ii-fury-alone-is-but-impotence",
+    },
+  ],
   publishedAt: "2026-01-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

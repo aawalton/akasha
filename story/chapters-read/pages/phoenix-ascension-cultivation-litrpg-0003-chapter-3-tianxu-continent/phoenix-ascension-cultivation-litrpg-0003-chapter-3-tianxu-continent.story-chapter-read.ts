@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0003Chapter3TianxuContinent = {
   position: 3,
   ownLength: 3015,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2525640/chapter-3-tianxu-continent",
-  externalId: "2525640",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525640",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2525640/chapter-3-tianxu-continent",
+    },
+  ],
   publishedAt: "2025-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

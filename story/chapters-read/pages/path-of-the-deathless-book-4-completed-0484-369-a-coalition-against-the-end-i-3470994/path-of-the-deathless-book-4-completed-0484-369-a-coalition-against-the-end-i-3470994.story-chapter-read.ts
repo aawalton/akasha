@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0484369ACoalitionAgainstTheEndI3470
   position: 484,
   ownLength: 5283,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3470994/369-a-coalition-against-the-end-i",
-  externalId: "3470994",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3470994",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3470994/369-a-coalition-against-the-end-i",
+    },
+  ],
   publishedAt: "2026-05-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

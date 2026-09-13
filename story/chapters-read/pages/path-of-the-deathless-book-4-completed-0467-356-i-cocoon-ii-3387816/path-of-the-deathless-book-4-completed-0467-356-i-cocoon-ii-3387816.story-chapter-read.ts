@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0467356ICocoonIi3387816 = {
   position: 467,
   ownLength: 2977,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3387816/356-i-cocoon-ii",
-  externalId: "3387816",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3387816",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3387816/356-i-cocoon-ii",
+    },
+  ],
   publishedAt: "2026-05-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0030Chapter30KoiFish = {
   position: 30,
   ownLength: 3440,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2644287/chapter-30-koi-fish",
-  externalId: "2644287",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2644287",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2644287/chapter-30-koi-fish",
+    },
+  ],
   publishedAt: "2025-10-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

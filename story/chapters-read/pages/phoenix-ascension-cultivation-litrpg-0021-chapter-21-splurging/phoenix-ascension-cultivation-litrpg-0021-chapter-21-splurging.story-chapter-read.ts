@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0021Chapter21Splurging = {
   position: 21,
   ownLength: 2455,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2590947/chapter-21-splurging",
-  externalId: "2590947",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2590947",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2590947/chapter-21-splurging",
+    },
+  ],
   publishedAt: "2025-09-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

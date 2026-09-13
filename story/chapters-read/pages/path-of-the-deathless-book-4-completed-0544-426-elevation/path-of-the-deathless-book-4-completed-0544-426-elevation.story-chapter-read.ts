@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0544426Elevation = {
   position: 544,
   ownLength: 5605,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3783462/426-elevation",
-  externalId: "3783462",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3783462",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3783462/426-elevation",
+    },
+  ],
   publishedAt: "2026-08-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

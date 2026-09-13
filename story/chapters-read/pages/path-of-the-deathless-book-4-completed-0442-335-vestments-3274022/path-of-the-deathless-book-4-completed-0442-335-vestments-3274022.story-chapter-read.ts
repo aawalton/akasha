@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0442335Vestments3274022 = {
   position: 442,
   ownLength: 4896,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3274022/335-vestments",
-  externalId: "3274022",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3274022",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3274022/335-vestments",
+    },
+  ],
   publishedAt: "2026-04-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0005Chapter5GoldenCore = {
   position: 5,
   ownLength: 2643,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2525655/chapter-5-golden-core",
-  externalId: "2525655",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525655",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2525655/chapter-5-golden-core",
+    },
+  ],
   publishedAt: "2025-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

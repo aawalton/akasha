@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0035Chapter35IWillNeverGiveUp = {
   position: 35,
   ownLength: 2200,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2674326/chapter-35-i-will-never-give-up",
-  externalId: "2674326",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2674326",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2674326/chapter-35-i-will-never-give-up",
+    },
+  ],
   publishedAt: "2025-10-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

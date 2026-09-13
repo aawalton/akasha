@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0359281IiLoss3003020 = {
   position: 359,
   ownLength: 3973,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3003020/281-ii-loss",
-  externalId: "3003020",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3003020",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3003020/281-ii-loss",
+    },
+  ],
   publishedAt: "2026-02-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

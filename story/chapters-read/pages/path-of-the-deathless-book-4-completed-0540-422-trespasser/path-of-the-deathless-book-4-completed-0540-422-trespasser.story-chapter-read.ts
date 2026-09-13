@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0540422Trespasser = {
   position: 540,
   ownLength: 4945,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3764716/422-trespasser",
-  externalId: "3764716",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3764716",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3764716/422-trespasser",
+    },
+  ],
   publishedAt: "2026-08-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

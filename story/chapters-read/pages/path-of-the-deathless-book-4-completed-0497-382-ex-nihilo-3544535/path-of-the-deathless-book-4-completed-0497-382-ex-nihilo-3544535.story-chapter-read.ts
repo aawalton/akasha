@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0497382ExNihilo3544535 = {
   position: 497,
   ownLength: 5449,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3544535/382-ex-nihilo",
-  externalId: "3544535",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3544535",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3544535/382-ex-nihilo",
+    },
+  ],
   publishedAt: "2026-06-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

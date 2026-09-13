@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0013Chapter13MothersVoice = {
   position: 13,
   ownLength: 2653,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2547088/chapter-13-mothers-voice",
-  externalId: "2547088",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2547088",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2547088/chapter-13-mothers-voice",
+    },
+  ],
   publishedAt: "2025-08-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

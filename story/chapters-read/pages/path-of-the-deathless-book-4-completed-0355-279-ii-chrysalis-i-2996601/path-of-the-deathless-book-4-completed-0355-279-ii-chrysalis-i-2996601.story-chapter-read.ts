@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0355279IiChrysalisI2996601 = {
   position: 355,
   ownLength: 2267,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2996601/279-ii-chrysalis-i",
-  externalId: "2996601",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2996601",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2996601/279-ii-chrysalis-i",
+    },
+  ],
   publishedAt: "2026-01-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0274237CoverUpI2871575 = {
   position: 274,
   ownLength: 3889,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2871575/237-cover-up-i",
-  externalId: "2871575",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2871575",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2871575/237-cover-up-i",
+    },
+  ],
   publishedAt: "2025-12-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

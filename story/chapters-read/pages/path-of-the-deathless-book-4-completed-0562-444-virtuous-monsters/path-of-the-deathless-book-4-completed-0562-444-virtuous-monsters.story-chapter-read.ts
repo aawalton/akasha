@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0562444VirtuousMonsters = {
   position: 562,
   ownLength: 7066,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3878046/444-virtuous-monsters",
-  externalId: "3878046",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3878046",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3878046/444-virtuous-monsters",
+    },
+  ],
   publishedAt: "2026-08-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

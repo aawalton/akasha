@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0558440OverdueEndsBook7End = {
   position: 558,
   ownLength: 7058,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3854849/440-overdue-ends-book-7-end",
-  externalId: "3854849",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3854849",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3854849/440-overdue-ends-book-7-end",
+    },
+  ],
   publishedAt: "2026-08-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

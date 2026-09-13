@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0504389TheBrokenButUnbreakableI3581
   position: 504,
   ownLength: 6759,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3581308/389-the-broken-but-unbreakable-i",
-  externalId: "3581308",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3581308",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3581308/389-the-broken-but-unbreakable-i",
+    },
+  ],
   publishedAt: "2026-06-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

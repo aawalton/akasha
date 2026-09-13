@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0321262IiAcceleratedI2940420 = {
   position: 321,
   ownLength: 2503,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2940420/262-ii-accelerated-i",
-  externalId: "2940420",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2940420",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2940420/262-ii-accelerated-i",
+    },
+  ],
   publishedAt: "2026-01-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

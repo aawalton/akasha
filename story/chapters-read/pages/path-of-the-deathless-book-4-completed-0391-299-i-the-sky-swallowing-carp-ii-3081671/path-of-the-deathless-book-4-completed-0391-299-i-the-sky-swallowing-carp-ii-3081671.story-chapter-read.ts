@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0391299ITheSkySwallowingCarpIi30816
   position: 391,
   ownLength: 3926,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3081671/299-i-the-sky-swallowing-carp-ii",
-  externalId: "3081671",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3081671",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3081671/299-i-the-sky-swallowing-carp-ii",
+    },
+  ],
   publishedAt: "2026-02-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

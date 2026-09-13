@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0361282IiGrieve3006725 = {
   position: 361,
   ownLength: 2017,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3006725/282-ii-grieve",
-  externalId: "3006725",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3006725",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3006725/282-ii-grieve",
+    },
+  ],
   publishedAt: "2026-02-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0516401TheEnemyOfMyEnemyIsButTheDog
   position: 516,
   ownLength: 5237,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3645849/401-the-enemy-of-my-enemy-is-but-the-dog-on-my",
-  externalId: "3645849",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3645849",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3645849/401-the-enemy-of-my-enemy-is-but-the-dog-on-my",
+    },
+  ],
   publishedAt: "2026-07-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

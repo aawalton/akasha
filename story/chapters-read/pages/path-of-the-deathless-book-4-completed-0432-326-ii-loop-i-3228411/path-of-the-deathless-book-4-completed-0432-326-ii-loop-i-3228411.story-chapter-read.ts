@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0432326IiLoopI3228411 = {
   position: 432,
   ownLength: 2365,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3228411/326-ii-loop-i",
-  externalId: "3228411",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3228411",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3228411/326-ii-loop-i",
+    },
+  ],
   publishedAt: "2026-04-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

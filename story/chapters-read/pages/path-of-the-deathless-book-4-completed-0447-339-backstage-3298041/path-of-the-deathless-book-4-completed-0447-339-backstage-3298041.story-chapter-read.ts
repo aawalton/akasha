@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0447339Backstage3298041 = {
   position: 447,
   ownLength: 5706,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3298041/339-backstage",
-  externalId: "3298041",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3298041",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3298041/339-backstage",
+    },
+  ],
   publishedAt: "2026-04-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0333268NothingIsGrantedEverythingIs
   position: 333,
   ownLength: 4575,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2959527/268-nothing-is-granted-everything-is-taken",
-  externalId: "2959527",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2959527",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2959527/268-nothing-is-granted-everything-is-taken",
+    },
+  ],
   publishedAt: "2026-01-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

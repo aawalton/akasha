@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0024Chapter24MultiColoredBeacon = 
   position: 24,
   ownLength: 4251,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2608302/chapter-24-multi-colored-beacon",
-  externalId: "2608302",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2608302",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2608302/chapter-24-multi-colored-beacon",
+    },
+  ],
   publishedAt: "2025-09-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

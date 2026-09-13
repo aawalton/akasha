@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0510395Awakenings = {
   position: 510,
   ownLength: 5174,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3608639/395-awakenings",
-  externalId: "3608639",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3608639",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3608639/395-awakenings",
+    },
+  ],
   publishedAt: "2026-06-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

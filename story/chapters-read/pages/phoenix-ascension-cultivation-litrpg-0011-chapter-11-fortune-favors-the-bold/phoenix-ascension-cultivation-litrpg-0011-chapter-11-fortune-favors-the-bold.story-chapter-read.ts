@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0011Chapter11FortuneFavorsTheBold 
   position: 11,
   ownLength: 2438,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2532250/chapter-11-fortune-favors-the-bold",
-  externalId: "2532250",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2532250",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2532250/chapter-11-fortune-favors-the-bold",
+    },
+  ],
   publishedAt: "2025-08-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0269234IiiCoping2865408 = {
   position: 269,
   ownLength: 1567,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2865408/234-iii-coping",
-  externalId: "2865408",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2865408",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2865408/234-iii-coping",
+    },
+  ],
   publishedAt: "2025-12-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

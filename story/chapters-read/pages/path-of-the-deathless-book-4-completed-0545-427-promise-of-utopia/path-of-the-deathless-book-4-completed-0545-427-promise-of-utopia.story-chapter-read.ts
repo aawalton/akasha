@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0545427PromiseOfUtopia = {
   position: 545,
   ownLength: 4650,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3787824/427-promise-of-utopia",
-  externalId: "3787824",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3787824",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3787824/427-promise-of-utopia",
+    },
+  ],
   publishedAt: "2026-08-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

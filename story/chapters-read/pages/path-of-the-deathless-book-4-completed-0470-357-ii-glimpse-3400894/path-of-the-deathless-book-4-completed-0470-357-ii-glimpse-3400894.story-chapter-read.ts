@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0470357IiGlimpse3400894 = {
   position: 470,
   ownLength: 1897,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3400894/357-ii-glimpse",
-  externalId: "3400894",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3400894",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3400894/357-ii-glimpse",
+    },
+  ],
   publishedAt: "2026-05-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

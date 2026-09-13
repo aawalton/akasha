@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0291246IiBackstoryIi2891223 = {
   position: 291,
   ownLength: 1953,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2891223/246-ii-backstory-ii",
-  externalId: "2891223",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2891223",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2891223/246-ii-backstory-ii",
+    },
+  ],
   publishedAt: "2025-12-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

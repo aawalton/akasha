@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0481366ReconcileI3455047 = {
   position: 481,
   ownLength: 5170,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3455047/366-reconcile-i",
-  externalId: "3455047",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3455047",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3455047/366-reconcile-i",
+    },
+  ],
   publishedAt: "2026-05-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

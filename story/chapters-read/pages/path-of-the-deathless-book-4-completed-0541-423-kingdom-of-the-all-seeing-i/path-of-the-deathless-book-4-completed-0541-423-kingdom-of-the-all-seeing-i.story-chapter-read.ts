@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0541423KingdomOfTheAllSeeingI = {
   position: 541,
   ownLength: 4772,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3769658/423-kingdom-of-the-all-seeing-i",
-  externalId: "3769658",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3769658",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3769658/423-kingdom-of-the-all-seeing-i",
+    },
+  ],
   publishedAt: "2026-08-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

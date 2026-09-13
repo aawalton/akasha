@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0276238ICancerI2874350 = {
   position: 276,
   ownLength: 3201,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2874350/238-i-cancer-i",
-  externalId: "2874350",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2874350",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2874350/238-i-cancer-i",
+    },
+  ],
   publishedAt: "2025-12-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

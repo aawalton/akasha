@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0512397TheRightToolsI = {
   position: 512,
   ownLength: 4836,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3623462/397-the-right-tools-i",
-  externalId: "3623462",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3623462",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3623462/397-the-right-tools-i",
+    },
+  ],
   publishedAt: "2026-07-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0037Chapter37CounterAttack = {
   position: 37,
   ownLength: 2507,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2686806/chapter-37-counter-attack",
-  externalId: "2686806",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2686806",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2686806/chapter-37-counter-attack",
+    },
+  ],
   publishedAt: "2025-10-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

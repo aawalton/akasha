@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0066Chapter66AlreadyAtTheFirstLaye
   position: 66,
   ownLength: 2209,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2877692/chapter-66-already-at-the-first-layer",
-  externalId: "2877692",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2877692",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2877692/chapter-66-already-at-the-first-layer",
+    },
+  ],
   publishedAt: "2025-12-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

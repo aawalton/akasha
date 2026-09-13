@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0428323ParagonI3211946 = {
   position: 428,
   ownLength: 5441,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3211946/323-paragon-i",
-  externalId: "3211946",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3211946",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3211946/323-paragon-i",
+    },
+  ],
   publishedAt: "2026-03-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

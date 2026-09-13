@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0263232IFeed2856816 = {
   position: 263,
   ownLength: 3826,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2856816/232-i-feed",
-  externalId: "2856816",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2856816",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2856816/232-i-feed",
+    },
+  ],
   publishedAt: "2025-12-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

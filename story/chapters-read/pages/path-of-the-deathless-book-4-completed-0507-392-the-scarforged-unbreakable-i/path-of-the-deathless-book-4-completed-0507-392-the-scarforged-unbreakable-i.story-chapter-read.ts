@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0507392TheScarforgedUnbreakableI = 
   position: 507,
   ownLength: 6146,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3596578/392-the-scarforged-unbreakable-i",
-  externalId: "3596578",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3596578",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3596578/392-the-scarforged-unbreakable-i",
+    },
+  ],
   publishedAt: "2026-06-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

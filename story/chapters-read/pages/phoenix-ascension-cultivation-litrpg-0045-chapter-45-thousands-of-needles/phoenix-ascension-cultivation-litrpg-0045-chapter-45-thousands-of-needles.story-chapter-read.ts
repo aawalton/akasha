@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0045Chapter45ThousandsOfNeedles = 
   position: 45,
   ownLength: 2726,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2735636/chapter-45-thousands-of-needles",
-  externalId: "2735636",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2735636",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2735636/chapter-45-thousands-of-needles",
+    },
+  ],
   publishedAt: "2025-11-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0022Chapter22StealthyAssassin = {
   position: 22,
   ownLength: 2484,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2597831/chapter-22-stealthy-assassin",
-  externalId: "2597831",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2597831",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2597831/chapter-22-stealthy-assassin",
+    },
+  ],
   publishedAt: "2025-09-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

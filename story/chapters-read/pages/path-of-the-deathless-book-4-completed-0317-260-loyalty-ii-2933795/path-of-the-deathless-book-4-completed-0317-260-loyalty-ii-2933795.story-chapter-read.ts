@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0317260LoyaltyIi2933795 = {
   position: 317,
   ownLength: 5386,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2933795/260-loyalty-ii",
-  externalId: "2933795",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2933795",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2933795/260-loyalty-ii",
+    },
+  ],
   publishedAt: "2026-01-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

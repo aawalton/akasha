@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0053Chapter53DemonicQiExpulsion = 
   position: 53,
   ownLength: 2452,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2789980/chapter-53-demonic-qi-expulsion",
-  externalId: "2789980",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2789980",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2789980/chapter-53-demonic-qi-expulsion",
+    },
+  ],
   publishedAt: "2025-11-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

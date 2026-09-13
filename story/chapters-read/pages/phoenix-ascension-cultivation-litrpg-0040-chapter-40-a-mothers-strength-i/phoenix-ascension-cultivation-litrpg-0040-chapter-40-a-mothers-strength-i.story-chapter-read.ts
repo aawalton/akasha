@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0040Chapter40AMothersStrengthI = {
   position: 40,
   ownLength: 2911,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2704676/chapter-40-a-mothers-strength-i",
-  externalId: "2704676",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2704676",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2704676/chapter-40-a-mothers-strength-i",
+    },
+  ],
   publishedAt: "2025-10-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

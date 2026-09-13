@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0065Chapter65AwakeningMeridians = 
   position: 65,
   ownLength: 2249,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2871521/chapter-65-awakening-meridians",
-  externalId: "2871521",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2871521",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2871521/chapter-65-awakening-meridians",
+    },
+  ],
   publishedAt: "2025-12-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

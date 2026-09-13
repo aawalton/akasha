@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0477362SplitIii3437290 = {
   position: 477,
   ownLength: 4724,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3437290/362-split-iii",
-  externalId: "3437290",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3437290",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3437290/362-split-iii",
+    },
+  ],
   publishedAt: "2026-05-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

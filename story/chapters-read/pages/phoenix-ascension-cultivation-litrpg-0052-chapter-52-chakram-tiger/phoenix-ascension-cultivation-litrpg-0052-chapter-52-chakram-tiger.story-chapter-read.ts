@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0052Chapter52ChakramTiger = {
   position: 52,
   ownLength: 2198,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2784554/chapter-52-chakram-tiger",
-  externalId: "2784554",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2784554",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2784554/chapter-52-chakram-tiger",
+    },
+  ],
   publishedAt: "2025-11-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0036Chapter36TheresTrouble = {
   position: 36,
   ownLength: 3332,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2679637/chapter-36-theres-trouble",
-  externalId: "2679637",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2679637",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2679637/chapter-36-theres-trouble",
+    },
+  ],
   publishedAt: "2025-10-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

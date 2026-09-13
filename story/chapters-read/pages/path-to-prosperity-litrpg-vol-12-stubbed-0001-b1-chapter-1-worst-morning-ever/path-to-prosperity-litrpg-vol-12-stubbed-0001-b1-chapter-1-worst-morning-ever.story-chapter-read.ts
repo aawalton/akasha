@@ -9,10 +9,14 @@ export const pathToProsperityLitrpgVol12Stubbed0001B1Chapter1WorstMorningEver = 
   position: 1,
   ownLength: 762,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/89323/path-to-prosperity-litrpg-vol-12-stubbed/chapter/1697652/b1-chapter-1-worst-morning-ever",
-  externalId: "1697652",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1697652",
+      externalLink:
+        "https://www.royalroad.com/fiction/89323/path-to-prosperity-litrpg-vol-12-stubbed/chapter/1697652/b1-chapter-1-worst-morning-ever",
+    },
+  ],
   publishedAt: "2024-06-29",
   ownProgress: 762,
   completedAt: "2026-06-29T21:36:19.412Z",

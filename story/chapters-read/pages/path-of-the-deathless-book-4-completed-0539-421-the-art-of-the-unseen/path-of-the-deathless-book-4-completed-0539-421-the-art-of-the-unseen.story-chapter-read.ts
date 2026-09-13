@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0539421TheArtOfTheUnseen = {
   position: 539,
   ownLength: 5495,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3756022/421-the-art-of-the-unseen",
-  externalId: "3756022",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3756022",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3756022/421-the-art-of-the-unseen",
+    },
+  ],
   publishedAt: "2026-08-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

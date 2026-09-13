@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0526408TheOneWhoDecidesI = {
   position: 526,
   ownLength: 5486,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3690441/408-the-one-who-decides-i",
-  externalId: "3690441",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3690441",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3690441/408-the-one-who-decides-i",
+    },
+  ],
   publishedAt: "2026-07-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0029Chapter29TinyBloodLord = {
   position: 29,
   ownLength: 2137,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2638913/chapter-29-tiny-blood-lord",
-  externalId: "2638913",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2638913",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2638913/chapter-29-tiny-blood-lord",
+    },
+  ],
   publishedAt: "2025-09-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

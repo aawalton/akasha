@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0046Chapter46UndergoingRebirth = {
   position: 46,
   ownLength: 2789,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2744068/chapter-46-undergoing-rebirth",
-  externalId: "2744068",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2744068",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2744068/chapter-46-undergoing-rebirth",
+    },
+  ],
   publishedAt: "2025-11-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

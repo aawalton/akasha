@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0425320Curse3DoubleSubversion320137
   position: 425,
   ownLength: 4912,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3201372/320-curse-3-double-subversion",
-  externalId: "3201372",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3201372",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3201372/320-curse-3-double-subversion",
+    },
+  ],
   publishedAt: "2026-03-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

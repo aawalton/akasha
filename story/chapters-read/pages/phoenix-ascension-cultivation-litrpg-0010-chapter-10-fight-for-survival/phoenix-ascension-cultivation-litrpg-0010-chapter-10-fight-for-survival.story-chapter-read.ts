@@ -9,10 +9,14 @@ export const phoenixAscensionCultivationLitrpg0010Chapter10FightForSurvival = {
   position: 10,
   ownLength: 3520,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2530765/chapter-10-fight-for-survival",
-  externalId: "2530765",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2530765",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2530765/chapter-10-fight-for-survival",
+    },
+  ],
   publishedAt: "2025-08-19",
   prose: "txt",
 } as const satisfies StoryChapterRead
