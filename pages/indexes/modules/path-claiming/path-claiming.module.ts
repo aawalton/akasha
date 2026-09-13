@@ -4,7 +4,7 @@ export const pathClaiming = {
   id: "01a08205-e6f0-73c3-9c32-f05a518dd3f3",
   type: "module",
   slug: "path-claiming",
-  definition: "the paths a page's value claims",
+  definition: "the paths a page's value claims, and the page a path is claimed by",
   code: "ts",
   test: "ts",
   invariants: [
@@ -155,6 +155,36 @@ export const pathClaiming = {
     {
       invariantKind: "gap",
       statement: "A folder a build writes is told apart here from a folder that is not.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page claiming a path is answered from that path rather than from an index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the naming grammar reads as a page of a known type is its own page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path named for a page is claimed by that page in the same folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path no grammar names is claimed by whichever page type declares that name outright.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a name is read against each folder above the path in turn.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The claimant is the page of that type sitting in the folder the name is read against.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder holding no page of that type leaves the path claimed by nothing.",
     },
   ],
 } as const satisfies Module

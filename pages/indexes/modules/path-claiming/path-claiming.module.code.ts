@@ -5,8 +5,11 @@ import type {
   UncommittedBy,
 } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+import { filesIn } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
 import {
   besideAt,
+  pageOf,
+  partedIn,
   secretAt,
   uncommittedAt,
 } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
@@ -297,4 +300,62 @@ export function claimsOf(
     }
   }
   return found
+}
+
+const TS = ".ts"
+
+const HELD = "ts"
+
+function typesNaming(
+  named: string,
+  fileProperties: FilePropertiesBy,
+  folders: FoldersBy
+): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const [pageTypeSlug, carried] of fileProperties) {
+    for (const fileName of carried.values()) {
+      if (fileName === named) found.add(pageTypeSlug)
+    }
+  }
+  for (const [pageTypeSlug, carried] of folders) {
+    for (const folderName of carried.values()) {
+      if (folderName === named) found.add(pageTypeSlug)
+    }
+  }
+  return found
+}
+
+function pagedOfTypeIn(root: string, folder: string, types: ReadonlySet<string>): string | null {
+  for (const one of filesIn(root, folder)) {
+    const said = partedIn(one)
+    if (said === null || said.sections.length > 0 || said.held !== HELD) continue
+    if (types.has(said.pageType)) return one
+  }
+  return null
+}
+
+export function claimantOf(
+  root: string,
+  path: string,
+  pageTypes: ReadonlySet<string>,
+  fileProperties: FilePropertiesBy,
+  folders: FoldersBy = NO_FOLDERS
+): string | null {
+  const said = partedIn(path)
+  if (said !== null && pageTypes.has(said.pageType)) {
+    return join(dirname(path), `${pageOf(said)}${TS}`)
+  }
+  let folder = dirname(path)
+  if (folder === ".") folder = ""
+  for (;;) {
+    const named = folder === "" ? path : path.slice(folder.length + 1)
+    const types = typesNaming(named, fileProperties, folders)
+    if (types.size > 0) {
+      const found = pagedOfTypeIn(root, folder, types)
+      if (found !== null) return found
+    }
+    if (folder === "") return null
+    const up = dirname(folder)
+    folder = up === "." ? "" : up
+  }
 }
