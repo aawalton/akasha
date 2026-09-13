@@ -15,6 +15,8 @@ import {
 
 export type Read = { readonly known: Shaped; readonly value: Value } | { readonly refused: string }
 
+const ID = "id"
+
 export function pageIn(world: World, at: string): Value | null {
   const said = partedIn(at)
   if (said === null || said.sections.length > 0) return null
@@ -22,13 +24,10 @@ export function pageIn(world: World, at: string): Value | null {
 }
 
 export function namersIn(world: World, at: string, propertySlug: string): readonly Named[] {
-  const found: Named[] = []
-  for (const one of world.index.listedByPath(at)) {
-    for (const namer of world.index.namersOf(one.id)) {
-      if (namer.propertySlug === propertySlug) found.push(namer)
-    }
-  }
-  return found
+  const value = pageIn(world, at)
+  const id = value === null ? null : textAt(value, ID)
+  if (id === null) return []
+  return world.index.namersOf(id).filter((one) => one.propertySlug === propertySlug)
 }
 
 export function targetsIn(known: Shaped, value: Value, key: string): readonly string[] {
