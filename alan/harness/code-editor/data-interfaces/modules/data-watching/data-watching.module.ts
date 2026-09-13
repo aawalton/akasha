@@ -88,5 +88,9 @@ export const dataWatching = {
       invariantKind: "absence",
       statement: "No picture here is taken on a beat.",
     },
+    {
+      invariantKind: "absence",
+      statement: "No picture here is made from committed pages alone.",
+    },
   ],
 } as const satisfies Module

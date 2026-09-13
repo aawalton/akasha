@@ -21,9 +21,6 @@ import {
 } from "akasha/alan/harness/code-editor/data-interfaces/modules/status-bar-composing/status-bar-composing.module.code.ts"
 import {
   agentTreeLine,
-  commandTreeLine,
-  domainTreeLine,
-  pageTreeLine,
   serviceTreeLine,
   workTreeLine,
 } from "akasha/alan/harness/code-editor/data-interfaces/modules/tree-drawing/tree-drawing.module.code.ts"
@@ -163,42 +160,6 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
         holds: either(seatFiles, oneOf(turnStatePages), oneOf(initiativePages)),
         movesWithIndex: true,
         line: () => workTreeLine(root),
-        held: NOTHING_WRITTEN,
-        waking: null,
-      },
-    ],
-    [
-      "domain-tree",
-      {
-        cooldownMs: 1_000,
-        folders: [],
-        holds: () => false,
-        movesWithIndex: true,
-        line: () => domainTreeLine(root),
-        held: NOTHING_WRITTEN,
-        waking: null,
-      },
-    ],
-    [
-      "page-tree",
-      {
-        cooldownMs: 1_000,
-        folders: [],
-        holds: () => false,
-        movesWithIndex: true,
-        line: () => pageTreeLine(root),
-        held: NOTHING_WRITTEN,
-        waking: null,
-      },
-    ],
-    [
-      "command-tree",
-      {
-        cooldownMs: 1_000,
-        folders: [],
-        holds: () => false,
-        movesWithIndex: true,
-        line: () => commandTreeLine(root),
         held: NOTHING_WRITTEN,
         waking: null,
       },

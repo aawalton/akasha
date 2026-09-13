@@ -45,12 +45,11 @@ export const codeEditorDataInterface = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One service writes every file here.",
+      statement: "A landing writes the file of every picture made from committed pages alone.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A landing writes as well the file of every picture made from committed pages alone.",
+      statement: "One service writes every other file here.",
     },
     {
       invariantKind: "departure",
