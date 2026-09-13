@@ -43,6 +43,10 @@ export const serviceTreePanel = {
     },
     {
       invariantKind: "departure",
+      statement: "The kinds counted are the rows that are a kind rather than the top row.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The badge counts rows while the description counts services.",
     },
     {

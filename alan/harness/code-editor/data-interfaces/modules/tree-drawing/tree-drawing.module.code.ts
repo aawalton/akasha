@@ -260,6 +260,17 @@ function serviceRow(root: string, node: ServiceNode): ServiceTreeRow {
 }
 
 export function serviceTreeLine(root: string): string {
-  const roots = assembleServiceTree(root).map((node) => serviceRow(root, node))
+  const under = assembleServiceTree(root).map((node) => serviceRow(root, node))
+  const roots: readonly ServiceTreeRow[] = [
+    {
+      kind: "root",
+      key: "root",
+      label: "services",
+      at: null,
+      color: null,
+      detail: null,
+      children: under,
+    },
+  ]
   return JSON.stringify({ roots } satisfies ServiceTreeState)
 }

@@ -59,17 +59,17 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
       tree.replace(state.roots)
       const rows = countRows(state.roots)
       const services = countOfKind(state.roots, "service")
+      const kinds = countOfKind(state.roots, "kind")
       known = services
       describe()
       view.badge = { value: rows, tooltip: rows === 1 ? "1 row" : `${rows} rows` }
       view.message = undefined
       output.appendLine(
-        `[${trigger}] ${rows} row(s), ${services} of them services, ` +
-          `under ${state.roots.length} kind(s)`
+        `[${trigger}] ${rows} row(s), ${services} of them services, under ${kinds} kind(s)`
       )
       recordObservation(FEATURE, {
         outcome: "ok",
-        counts: { rows, services, kinds: state.roots.length },
+        counts: { rows, services, kinds },
       })
     } catch (err) {
       output.appendLine(`[${trigger}] drawing failed: ${String(err)}`)
