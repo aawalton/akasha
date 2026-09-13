@@ -10,94 +10,42 @@ export const addPropertyToPageType = {
   definition: "one page property declared on one page type",
   code: "ts",
   test: "ts",
-  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A property is declared in the page type's data.",
+      statement: "A page type is handed to the mechanical change declaring a property on one.",
     },
     {
       invariantKind: "departure",
-      statement: "The declaration is put in as a record rather than as the text of a record.",
+      statement: "The declaration and the part are that change's one answer.",
     },
     {
       invariantKind: "departure",
-      statement: "The property is named among the page type's parts in the same answer.",
+      statement: "The count is handed in named `max-count` and handed on named `maxCount`.",
     },
     {
       invariantKind: "departure",
-      statement: "The part is put in keyed `parts` rather than under a second key.",
+      statement: "`required` and `many` are handed in as text and handed on as truths.",
     },
     {
       invariantKind: "departure",
-      statement: "A page type naming no part yet gains its first part under that same key.",
+      statement: "A refusal from that change is the refusal this act gives.",
     },
     {
       invariantKind: "departure",
-      statement: "A declaration with many values states a count.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A count the change is not told is stated as nothing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A declaration with one value states no count.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A property sitting outside the page type's folder is declared the same way.",
+      statement: "The generator writes the page type's own type again from what this leaves.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes the type a page type has.",
+      statement: "Nothing here works out a body of its own.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here spells an import.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The generator writes that type again from the page type this leaves.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page type stating its type in a file of its own is no exception.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A slug naming no page property is refused before any body is worked out.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path naming no page type is refused before any body is worked out.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Each edit is worked out over the body the edit before it left.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Putting each part in is left to the mechanical changes.",
+      statement: "Nothing here reads the index.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes a page of the type the property was declared on.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The count is handed in named `max-count` and written into the declaration named `maxCount`.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A property another page type already names among its parts is left named by two here.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A page type taking a property another page type parts declares it and names no part.",
+      statement: "No change but that one rung is reached.",
     },
   ],
   changeKind: "change-checked",
