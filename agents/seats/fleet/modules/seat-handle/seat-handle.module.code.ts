@@ -2,7 +2,7 @@ import {
   type Seated,
   seatRoster,
   seatsStanding,
-} from "akasha/agents/seats/fleet/modules/roster/seat-roster.module.code.ts"
+} from "akasha/agents/seats/fleet/modules/seat-roster/seat-roster.module.code.ts"
 import { inputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 import { textIn } from "akasha/utils/narrow/modules/text-in/text-in.module.code.ts"

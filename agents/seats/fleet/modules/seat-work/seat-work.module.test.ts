@@ -3,7 +3,7 @@ import {
   foldSeatWork,
   louder,
   type SeatHolding,
-} from "akasha/agents/seats/fleet/modules/work/seat-work.module.code.ts"
+} from "akasha/agents/seats/fleet/modules/seat-work/seat-work.module.code.ts"
 
 const WORK = "a-thing-to-do"
 

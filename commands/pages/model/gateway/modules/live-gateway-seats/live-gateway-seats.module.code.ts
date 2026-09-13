@@ -3,7 +3,7 @@ import {
   liveProxySeats,
   seatsNewestFirst,
 } from "akasha/agents/models/gateway/modules/proxy-seats/proxy-seats.module.code.ts"
-import { seatsPresent } from "akasha/agents/seats/fleet/modules/roster/seat-roster.module.code.ts"
+import { seatsPresent } from "akasha/agents/seats/fleet/modules/seat-roster/seat-roster.module.code.ts"
 import { readProxyState } from "akasha/agents/seats/oauth-proxy/modules/proxy-state/seat-proxy-state.module.code.ts"
 import { pidAliveOrRefuse } from "akasha/utils/process/modules/pid-signal/pid-signal.module.code.ts"
 

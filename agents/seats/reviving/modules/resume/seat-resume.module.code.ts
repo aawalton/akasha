@@ -1,10 +1,10 @@
 import { readTranscriptMtimeMs } from "akasha/agents/modules/io-probe/io-probe.module.code.ts"
-import { seatRecord } from "akasha/agents/seats/fleet/modules/facts/seat-facts.module.code.ts"
+import { seatRecord } from "akasha/agents/seats/fleet/modules/seat-facts/seat-facts.module.code.ts"
 import {
   NONE_NAMED,
   resolveSeatTargetCli,
   resolveSeatTargetFromFlagOrEnv,
-} from "akasha/agents/seats/fleet/modules/handle/seat-handle.module.code.ts"
+} from "akasha/agents/seats/fleet/modules/seat-handle/seat-handle.module.code.ts"
 import {
   holdSeatPaneOpen,
   killSeatSession,

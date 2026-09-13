@@ -5,7 +5,7 @@ import {
   statedOf,
 } from "akasha/agents/seats/declaration/modules/seat-stated/seat-stated.module.code.ts"
 import { stateSpawnedSeat } from "akasha/agents/seats/declaration/modules/state-spawned-seat/state-spawned-seat.module.code.ts"
-import { resolveSeatTargetCli } from "akasha/agents/seats/fleet/modules/handle/seat-handle.module.code.ts"
+import { resolveSeatTargetCli } from "akasha/agents/seats/fleet/modules/seat-handle/seat-handle.module.code.ts"
 import {
   killSeatSession,
   launchSeatUnderTmux,

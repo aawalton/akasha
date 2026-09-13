@@ -1,4 +1,4 @@
-import { seatRecord } from "akasha/agents/seats/fleet/modules/facts/seat-facts.module.code.ts"
+import { seatRecord } from "akasha/agents/seats/fleet/modules/seat-facts/seat-facts.module.code.ts"
 import { decideSubagentGuard } from "akasha/agents/subagents/modules/guard/subagent-guard.module.code.ts"
 import { standingSubagentsOf } from "akasha/agents/subagents/modules/page/subagent-page.module.code.ts"
 import { inputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"

@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
 import type { SubagentPage } from "akasha/agents/modules/page-reading/agent-page-reading.module.code.ts"
-import type { ForestRow } from "akasha/agents/seats/fleet/modules/forest/seat-forest.module.code.ts"
+import type { ForestRow } from "akasha/agents/seats/fleet/modules/seat-forest/seat-forest.module.code.ts"
 import {
   type ForestSaid,
   forestOver,
   NOW,
   type Reading,
-} from "akasha/agents/seats/fleet/modules/forest-reading/seat-forest-reading.module.code.ts"
+} from "akasha/agents/seats/fleet/modules/seat-forest-reading/seat-forest-reading.module.code.ts"
 import {
   SEAT_TURN_STATES,
   type SeatTurnReading,

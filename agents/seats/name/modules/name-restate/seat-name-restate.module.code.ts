@@ -1,5 +1,5 @@
-import { seatByName } from "akasha/agents/seats/fleet/modules/by-name/seat-by-name.module.code.ts"
-import { isValidSeatName } from "akasha/agents/seats/fleet/modules/handle/seat-handle.module.code.ts"
+import { seatByName } from "akasha/agents/seats/fleet/modules/seat-by-name/seat-by-name.module.code.ts"
+import { isValidSeatName } from "akasha/agents/seats/fleet/modules/seat-handle/seat-handle.module.code.ts"
 import { movesWithTheAttributes } from "akasha/agents/seats/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { refuseSeatName } from "akasha/agents/seats/name-claiming/modules/name-bind/seat-name-bind.module.code.ts"
 import { pageTextOf } from "akasha/agents/seats/page/modules/page-values/seat-page-values.module.code.ts"
