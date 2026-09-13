@@ -16,7 +16,7 @@ export const sophiaAgentStopHook = {
       statement:
         "Each of the five directives Alan's page states has a judge that misfires on nothing.",
       workingMemory:
-        "Three of five have judges. Over their union they catch 60 of 240 breaches and refuse none of 173 clean turns. A fourth, for Don't Stop!, doubles that to 120 of 240 — the largest single gain here — and waits only on the key settling under Alan's ruling. `still-waiting-kept` is built and kept off the hook on purpose: it adds 8 catches and one deterministic refusal, buying three points of recall at the cost of the zero.\n",
+        "Four of the five have judges, six in all, and over their union they catch 90 of 249 breaches while refusing none of 164 clean turns. Don't Stop! is read by two signs and a third is measuring. Each judge reads one narrow closed list, which is what holds the zero: a wording judging the sense of a turn caught twice as many and refused seven. Act By Default has no judge and 25 breaches uncaught. The largest gap left is No Commentary, at 44.\n",
     },
     {
       statement:
