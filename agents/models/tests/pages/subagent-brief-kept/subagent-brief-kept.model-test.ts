@@ -54,7 +54,7 @@ export const subagentBriefKept = {
     {
       invariantKind: "constraint",
       statement:
-        "It refused none of the 214 clean cases on two runs and then one of them on the third.",
+        "It refused one clean case in 832 judged, over four runs, once the key's own errors were mended.",
     },
   ],
 } as const satisfies ModelTest
