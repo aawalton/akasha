@@ -30,7 +30,6 @@ export const trackDaily = {
     "module/task-completions",
     "module/task-points",
     "module/topic-words",
-    "module/track-format",
     "module/track-pages",
     "module/track-resolve",
     "module/track-shape",
