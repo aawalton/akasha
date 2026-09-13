@@ -6,10 +6,14 @@ export const arianaGrandeHampstead = {
   slug: "ariana-grande-hampstead",
   title: "Hampstead",
   artist: "ariana-grande",
-  externalId: "7a0c5d9e-c898-41b4-a516-fc1bf716cc87",
-  externalLink: "https://musicbrainz.org/work/7a0c5d9e-c898-41b4-a516-fc1bf716cc87",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7a0c5d9e-c898-41b4-a516-fc1bf716cc87",
+      externalLink: "https://musicbrainz.org/work/7a0c5d9e-c898-41b4-a516-fc1bf716cc87",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

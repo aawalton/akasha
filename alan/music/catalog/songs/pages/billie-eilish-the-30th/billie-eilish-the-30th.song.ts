@@ -6,10 +6,14 @@ export const billieEilishThe30th = {
   slug: "billie-eilish-the-30th",
   title: "The 30th",
   artist: "billie-eilish",
-  externalId: "5f6dfe98-2c2c-41dc-b54b-677740858c3e",
-  externalLink: "https://musicbrainz.org/work/5f6dfe98-2c2c-41dc-b54b-677740858c3e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5f6dfe98-2c2c-41dc-b54b-677740858c3e",
+      externalLink: "https://musicbrainz.org/work/5f6dfe98-2c2c-41dc-b54b-677740858c3e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

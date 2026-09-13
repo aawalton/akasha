@@ -6,10 +6,14 @@ export const auroraSomewhereElse = {
   slug: "aurora-somewhere-else",
   title: "SOMEWHERE ELSE",
   artist: "aurora",
-  externalId: "4368ec16-3f0c-4fb3-b550-83387b5084af",
-  externalLink: "https://musicbrainz.org/work/4368ec16-3f0c-4fb3-b550-83387b5084af",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4368ec16-3f0c-4fb3-b550-83387b5084af",
+      externalLink: "https://musicbrainz.org/work/4368ec16-3f0c-4fb3-b550-83387b5084af",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   lyricsSource: "lrclib",

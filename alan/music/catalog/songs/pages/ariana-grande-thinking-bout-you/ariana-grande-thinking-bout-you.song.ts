@@ -6,10 +6,14 @@ export const arianaGrandeThinkingBoutYou = {
   slug: "ariana-grande-thinking-bout-you",
   title: "Thinking Bout You",
   artist: "ariana-grande",
-  externalId: "be94a4a5-8cd2-4ca7-a036-dc5256a63343",
-  externalLink: "https://musicbrainz.org/work/be94a4a5-8cd2-4ca7-a036-dc5256a63343",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "be94a4a5-8cd2-4ca7-a036-dc5256a63343",
+      externalLink: "https://musicbrainz.org/work/be94a4a5-8cd2-4ca7-a036-dc5256a63343",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

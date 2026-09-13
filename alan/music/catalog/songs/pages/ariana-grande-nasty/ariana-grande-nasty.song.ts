@@ -6,10 +6,14 @@ export const arianaGrandeNasty = {
   slug: "ariana-grande-nasty",
   title: "nasty",
   artist: "ariana-grande",
-  externalId: "fe5aaf8c-2197-49e8-be92-721383a9b69e",
-  externalLink: "https://musicbrainz.org/work/fe5aaf8c-2197-49e8-be92-721383a9b69e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "fe5aaf8c-2197-49e8-be92-721383a9b69e",
+      externalLink: "https://musicbrainz.org/work/fe5aaf8c-2197-49e8-be92-721383a9b69e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

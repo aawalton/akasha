@@ -6,10 +6,14 @@ export const billieEilishBadGuy = {
   slug: "billie-eilish-bad-guy",
   title: "bad guy",
   artist: "billie-eilish",
-  externalId: "06c9031d-476f-4d08-be46-72fc581cbe6a",
-  externalLink: "https://musicbrainz.org/work/06c9031d-476f-4d08-be46-72fc581cbe6a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "06c9031d-476f-4d08-be46-72fc581cbe6a",
+      externalLink: "https://musicbrainz.org/work/06c9031d-476f-4d08-be46-72fc581cbe6a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

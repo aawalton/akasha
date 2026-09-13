@@ -6,10 +6,14 @@ export const arianaGrandeWarm = {
   slug: "ariana-grande-warm",
   title: "warm",
   artist: "ariana-grande",
-  externalId: "c20288f0-aec2-4be4-a54a-71d687d5eed0",
-  externalLink: "https://musicbrainz.org/work/c20288f0-aec2-4be4-a54a-71d687d5eed0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c20288f0-aec2-4be4-a54a-71d687d5eed0",
+      externalLink: "https://musicbrainz.org/work/c20288f0-aec2-4be4-a54a-71d687d5eed0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

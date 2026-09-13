@@ -6,10 +6,14 @@ export const auroraRunningWithTheWolvesWolfwalkersVersion = {
   slug: "aurora-running-with-the-wolves-wolfwalkers-version",
   title: "Running with the Wolves (WolfWalkers Version)",
   artist: "aurora",
-  externalId: "c8607ee2-d2bf-4e6f-abcd-444f992db3ea",
-  externalLink: "https://musicbrainz.org/work/c8607ee2-d2bf-4e6f-abcd-444f992db3ea",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c8607ee2-d2bf-4e6f-abcd-444f992db3ea",
+      externalLink: "https://musicbrainz.org/work/c8607ee2-d2bf-4e6f-abcd-444f992db3ea",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

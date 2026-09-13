@@ -6,10 +6,14 @@ export const arianaGrandeLastChristmas = {
   slug: "ariana-grande-last-christmas",
   title: "Last Christmas",
   artist: "ariana-grande",
-  externalId: "8e438d29-bc0b-3cfe-8c47-17e14113a3c3",
-  externalLink: "https://musicbrainz.org/work/8e438d29-bc0b-3cfe-8c47-17e14113a3c3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8e438d29-bc0b-3cfe-8c47-17e14113a3c3",
+      externalLink: "https://musicbrainz.org/work/8e438d29-bc0b-3cfe-8c47-17e14113a3c3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

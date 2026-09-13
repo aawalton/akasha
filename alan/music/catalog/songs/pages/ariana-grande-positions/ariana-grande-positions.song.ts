@@ -6,10 +6,14 @@ export const arianaGrandePositions = {
   slug: "ariana-grande-positions",
   title: "positions",
   artist: "ariana-grande",
-  externalId: "a225b3d5-bb35-4de3-bf0c-ef3f54dc0084",
-  externalLink: "https://musicbrainz.org/work/a225b3d5-bb35-4de3-bf0c-ef3f54dc0084",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a225b3d5-bb35-4de3-bf0c-ef3f54dc0084",
+      externalLink: "https://musicbrainz.org/work/a225b3d5-bb35-4de3-bf0c-ef3f54dc0084",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

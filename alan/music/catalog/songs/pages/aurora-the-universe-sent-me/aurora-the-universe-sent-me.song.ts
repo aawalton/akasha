@@ -6,10 +6,14 @@ export const auroraTheUniverseSentMe = {
   slug: "aurora-the-universe-sent-me",
   title: "The Universe Sent Me",
   artist: "aurora",
-  externalId: "26d29272-0967-487d-896e-a9578a04c808",
-  externalLink: "https://musicbrainz.org/work/26d29272-0967-487d-896e-a9578a04c808",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "26d29272-0967-487d-896e-a9578a04c808",
+      externalLink: "https://musicbrainz.org/work/26d29272-0967-487d-896e-a9578a04c808",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   lyricsSource: "lrclib",

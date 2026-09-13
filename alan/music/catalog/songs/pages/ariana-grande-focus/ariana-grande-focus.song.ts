@@ -6,10 +6,14 @@ export const arianaGrandeFocus = {
   slug: "ariana-grande-focus",
   title: "Focus",
   artist: "ariana-grande",
-  externalId: "2a5cc6ba-8bd0-49ca-a2e9-1841422c8481",
-  externalLink: "https://musicbrainz.org/work/2a5cc6ba-8bd0-49ca-a2e9-1841422c8481",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2a5cc6ba-8bd0-49ca-a2e9-1841422c8481",
+      externalLink: "https://musicbrainz.org/work/2a5cc6ba-8bd0-49ca-a2e9-1841422c8481",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

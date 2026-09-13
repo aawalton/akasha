@@ -6,10 +6,14 @@ export const billieEilishBlue = {
   slug: "billie-eilish-blue",
   title: "BLUE",
   artist: "billie-eilish",
-  externalId: "a97737f7-a1c2-4c2e-92ad-d5cf48ffd1ce",
-  externalLink: "https://musicbrainz.org/work/a97737f7-a1c2-4c2e-92ad-d5cf48ffd1ce",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a97737f7-a1c2-4c2e-92ad-d5cf48ffd1ce",
+      externalLink: "https://musicbrainz.org/work/a97737f7-a1c2-4c2e-92ad-d5cf48ffd1ce",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

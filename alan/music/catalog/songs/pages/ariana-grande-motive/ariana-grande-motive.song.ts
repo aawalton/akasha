@@ -6,10 +6,14 @@ export const arianaGrandeMotive = {
   slug: "ariana-grande-motive",
   title: "motive",
   artist: "ariana-grande",
-  externalId: "6a6e99dc-64f6-40b9-bc55-9a344f5c43aa",
-  externalLink: "https://musicbrainz.org/work/6a6e99dc-64f6-40b9-bc55-9a344f5c43aa",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6a6e99dc-64f6-40b9-bc55-9a344f5c43aa",
+      externalLink: "https://musicbrainz.org/work/6a6e99dc-64f6-40b9-bc55-9a344f5c43aa",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

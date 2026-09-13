@@ -6,10 +6,14 @@ export const arianaGrandeDanceToThis = {
   slug: "ariana-grande-dance-to-this",
   title: "Dance to This",
   artist: "ariana-grande",
-  externalId: "1566c412-4381-4e93-9577-3734c1ac1c1d",
-  externalLink: "https://musicbrainz.org/work/1566c412-4381-4e93-9577-3734c1ac1c1d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1566c412-4381-4e93-9577-3734c1ac1c1d",
+      externalLink: "https://musicbrainz.org/work/1566c412-4381-4e93-9577-3734c1ac1c1d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

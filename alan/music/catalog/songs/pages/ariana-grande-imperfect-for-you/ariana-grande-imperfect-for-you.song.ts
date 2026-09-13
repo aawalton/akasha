@@ -6,10 +6,14 @@ export const arianaGrandeImperfectForYou = {
   slug: "ariana-grande-imperfect-for-you",
   title: "imperfect for you",
   artist: "ariana-grande",
-  externalId: "203efb6c-2edf-41ce-bd0b-9ba4f399f1c1",
-  externalLink: "https://musicbrainz.org/work/203efb6c-2edf-41ce-bd0b-9ba4f399f1c1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "203efb6c-2edf-41ce-bd0b-9ba4f399f1c1",
+      externalLink: "https://musicbrainz.org/work/203efb6c-2edf-41ce-bd0b-9ba4f399f1c1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const auroraItHappenedQuiet = {
   slug: "aurora-it-happened-quiet",
   title: "It Happened Quiet",
   artist: "aurora",
-  externalId: "71e5c2f0-ff2e-4a84-8353-13136d39c405",
-  externalLink: "https://musicbrainz.org/work/71e5c2f0-ff2e-4a84-8353-13136d39c405",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "71e5c2f0-ff2e-4a84-8353-13136d39c405",
+      externalLink: "https://musicbrainz.org/work/71e5c2f0-ff2e-4a84-8353-13136d39c405",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

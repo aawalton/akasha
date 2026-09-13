@@ -6,10 +6,14 @@ export const arianaGrandeOffTheTable = {
   slug: "ariana-grande-off-the-table",
   title: "off the table",
   artist: "ariana-grande",
-  externalId: "4594fd4d-cfb5-417f-8b71-245df81fd8eb",
-  externalLink: "https://musicbrainz.org/work/4594fd4d-cfb5-417f-8b71-245df81fd8eb",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4594fd4d-cfb5-417f-8b71-245df81fd8eb",
+      externalLink: "https://musicbrainz.org/work/4594fd4d-cfb5-417f-8b71-245df81fd8eb",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

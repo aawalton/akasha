@@ -6,10 +6,14 @@ export const arianaGrandeBadIdea = {
   slug: "ariana-grande-bad-idea",
   title: "bad idea",
   artist: "ariana-grande",
-  externalId: "3ae9c039-fb9e-401a-b38a-6a45534fa3ba",
-  externalLink: "https://musicbrainz.org/work/3ae9c039-fb9e-401a-b38a-6a45534fa3ba",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3ae9c039-fb9e-401a-b38a-6a45534fa3ba",
+      externalLink: "https://musicbrainz.org/work/3ae9c039-fb9e-401a-b38a-6a45534fa3ba",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

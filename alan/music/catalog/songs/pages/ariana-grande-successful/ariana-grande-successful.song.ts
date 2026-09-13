@@ -6,10 +6,14 @@ export const arianaGrandeSuccessful = {
   slug: "ariana-grande-successful",
   title: "successful",
   artist: "ariana-grande",
-  externalId: "97244411-b3c5-494f-8171-d4683d140817",
-  externalLink: "https://musicbrainz.org/work/97244411-b3c5-494f-8171-d4683d140817",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "97244411-b3c5-494f-8171-d4683d140817",
+      externalLink: "https://musicbrainz.org/work/97244411-b3c5-494f-8171-d4683d140817",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const billieEilishBuryAFriend = {
   slug: "billie-eilish-bury-a-friend",
   title: "bury a friend",
   artist: "billie-eilish",
-  externalId: "6f5d9995-4319-44fc-b008-cb70679fab78",
-  externalLink: "https://musicbrainz.org/work/6f5d9995-4319-44fc-b008-cb70679fab78",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6f5d9995-4319-44fc-b008-cb70679fab78",
+      externalLink: "https://musicbrainz.org/work/6f5d9995-4319-44fc-b008-cb70679fab78",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

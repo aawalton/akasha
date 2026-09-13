@@ -6,10 +6,14 @@ export const billieEilishMyBoy = {
   slug: "billie-eilish-my-boy",
   title: "my boy",
   artist: "billie-eilish",
-  externalId: "d750625e-d2d3-4c60-92f6-c5ae9b1e1b10",
-  externalLink: "https://musicbrainz.org/work/d750625e-d2d3-4c60-92f6-c5ae9b1e1b10",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d750625e-d2d3-4c60-92f6-c5ae9b1e1b10",
+      externalLink: "https://musicbrainz.org/work/d750625e-d2d3-4c60-92f6-c5ae9b1e1b10",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

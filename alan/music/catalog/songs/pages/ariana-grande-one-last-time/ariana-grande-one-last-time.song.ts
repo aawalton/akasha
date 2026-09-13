@@ -6,10 +6,14 @@ export const arianaGrandeOneLastTime = {
   slug: "ariana-grande-one-last-time",
   title: "One Last Time",
   artist: "ariana-grande",
-  externalId: "e89c9f93-2fa9-4134-b74f-1863433c6e38",
-  externalLink: "https://musicbrainz.org/work/e89c9f93-2fa9-4134-b74f-1863433c6e38",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e89c9f93-2fa9-4134-b74f-1863433c6e38",
+      externalLink: "https://musicbrainz.org/work/e89c9f93-2fa9-4134-b74f-1863433c6e38",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

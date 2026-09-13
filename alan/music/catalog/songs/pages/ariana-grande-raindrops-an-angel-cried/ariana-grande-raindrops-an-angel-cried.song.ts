@@ -6,10 +6,14 @@ export const arianaGrandeRaindropsAnAngelCried = {
   slug: "ariana-grande-raindrops-an-angel-cried",
   title: "raindrops (an angel cried)",
   artist: "ariana-grande",
-  externalId: "ee6d1ed0-059c-4bc8-88b9-0b733834375e",
-  externalLink: "https://musicbrainz.org/work/ee6d1ed0-059c-4bc8-88b9-0b733834375e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ee6d1ed0-059c-4bc8-88b9-0b733834375e",
+      externalLink: "https://musicbrainz.org/work/ee6d1ed0-059c-4bc8-88b9-0b733834375e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

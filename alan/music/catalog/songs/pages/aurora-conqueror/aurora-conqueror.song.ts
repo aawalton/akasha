@@ -6,10 +6,14 @@ export const auroraConqueror = {
   slug: "aurora-conqueror",
   title: "Conqueror",
   artist: "aurora",
-  externalId: "67069a6f-2b9f-48dd-b633-9789792b2072",
-  externalLink: "https://musicbrainz.org/work/67069a6f-2b9f-48dd-b633-9789792b2072",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "67069a6f-2b9f-48dd-b633-9789792b2072",
+      externalLink: "https://musicbrainz.org/work/67069a6f-2b9f-48dd-b633-9789792b2072",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

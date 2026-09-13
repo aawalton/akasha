@@ -6,10 +6,14 @@ export const arianaGrandeYouCanTStopTheBeat = {
   slug: "ariana-grande-you-can-t-stop-the-beat",
   title: "You Can’t Stop the Beat",
   artist: "ariana-grande",
-  externalId: "b3e33d13-b0b1-35fa-b575-b63c75c59599",
-  externalLink: "https://musicbrainz.org/work/b3e33d13-b0b1-35fa-b575-b63c75c59599",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b3e33d13-b0b1-35fa-b575-b63c75c59599",
+      externalLink: "https://musicbrainz.org/work/b3e33d13-b0b1-35fa-b575-b63c75c59599",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

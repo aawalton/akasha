@@ -6,10 +6,14 @@ export const auroraAwakening = {
   slug: "aurora-awakening",
   title: "Awakening",
   artist: "aurora",
-  externalId: "576b6d67-7c33-4de2-85e4-1ef562343cbe",
-  externalLink: "https://musicbrainz.org/work/576b6d67-7c33-4de2-85e4-1ef562343cbe",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "576b6d67-7c33-4de2-85e4-1ef562343cbe",
+      externalLink: "https://musicbrainz.org/work/576b6d67-7c33-4de2-85e4-1ef562343cbe",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

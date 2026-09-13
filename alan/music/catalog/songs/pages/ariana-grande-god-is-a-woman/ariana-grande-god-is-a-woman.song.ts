@@ -6,10 +6,14 @@ export const arianaGrandeGodIsAWoman = {
   slug: "ariana-grande-god-is-a-woman",
   title: "God is a woman",
   artist: "ariana-grande",
-  externalId: "b7f117d7-5e23-4c96-bdf7-7890ecd93d89",
-  externalLink: "https://musicbrainz.org/work/b7f117d7-5e23-4c96-bdf7-7890ecd93d89",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b7f117d7-5e23-4c96-bdf7-7890ecd93d89",
+      externalLink: "https://musicbrainz.org/work/b7f117d7-5e23-4c96-bdf7-7890ecd93d89",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

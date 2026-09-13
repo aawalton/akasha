@@ -6,10 +6,14 @@ export const arianaGrandeSupernatural = {
   slug: "ariana-grande-supernatural",
   title: "supernatural",
   artist: "ariana-grande",
-  externalId: "2ff91c20-2753-4df2-9aae-07bc5cc33ab8",
-  externalLink: "https://musicbrainz.org/work/2ff91c20-2753-4df2-9aae-07bc5cc33ab8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2ff91c20-2753-4df2-9aae-07bc5cc33ab8",
+      externalLink: "https://musicbrainz.org/work/2ff91c20-2753-4df2-9aae-07bc5cc33ab8",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

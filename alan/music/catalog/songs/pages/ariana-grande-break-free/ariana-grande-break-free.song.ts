@@ -6,10 +6,14 @@ export const arianaGrandeBreakFree = {
   slug: "ariana-grande-break-free",
   title: "Break Free",
   artist: "ariana-grande",
-  externalId: "764c6278-a9f8-43f3-82cb-14bf65e57b21",
-  externalLink: "https://musicbrainz.org/work/764c6278-a9f8-43f3-82cb-14bf65e57b21",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "764c6278-a9f8-43f3-82cb-14bf65e57b21",
+      externalLink: "https://musicbrainz.org/work/764c6278-a9f8-43f3-82cb-14bf65e57b21",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

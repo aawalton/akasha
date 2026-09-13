@@ -6,10 +6,14 @@ export const billieEilishLimbo = {
   slug: "billie-eilish-limbo",
   title: "Limbo",
   artist: "billie-eilish",
-  externalId: "da723e82-4050-4c35-be55-5ad2f1626ed2",
-  externalLink: "https://musicbrainz.org/work/da723e82-4050-4c35-be55-5ad2f1626ed2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "da723e82-4050-4c35-be55-5ad2f1626ed2",
+      externalLink: "https://musicbrainz.org/work/da723e82-4050-4c35-be55-5ad2f1626ed2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

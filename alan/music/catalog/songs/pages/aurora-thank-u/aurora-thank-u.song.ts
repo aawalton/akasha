@@ -6,10 +6,14 @@ export const auroraThankU = {
   slug: "aurora-thank-u",
   title: "Thank U",
   artist: "aurora",
-  externalId: "3f7a0082-90c1-3904-80b1-299b5e939336",
-  externalLink: "https://musicbrainz.org/work/3f7a0082-90c1-3904-80b1-299b5e939336",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3f7a0082-90c1-3904-80b1-299b5e939336",
+      externalLink: "https://musicbrainz.org/work/3f7a0082-90c1-3904-80b1-299b5e939336",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

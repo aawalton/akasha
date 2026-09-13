@@ -6,10 +6,14 @@ export const arianaGrandeDonTDreamItSOver = {
   slug: "ariana-grande-don-t-dream-it-s-over",
   title: "Don’t Dream It’s Over",
   artist: "ariana-grande",
-  externalId: "af5f9107-0141-3aae-b3df-b94aa14f02c8",
-  externalLink: "https://musicbrainz.org/work/af5f9107-0141-3aae-b3df-b94aa14f02c8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "af5f9107-0141-3aae-b3df-b94aa14f02c8",
+      externalLink: "https://musicbrainz.org/work/af5f9107-0141-3aae-b3df-b94aa14f02c8",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

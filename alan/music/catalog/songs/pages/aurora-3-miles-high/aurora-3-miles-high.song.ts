@@ -6,10 +6,14 @@ export const aurora3MilesHigh = {
   slug: "aurora-3-miles-high",
   title: "3 Miles High",
   artist: "aurora",
-  externalId: "f6067b6d-991a-4895-bb1c-ccd1d06251df",
-  externalLink: "https://musicbrainz.org/work/f6067b6d-991a-4895-bb1c-ccd1d06251df",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f6067b6d-991a-4895-bb1c-ccd1d06251df",
+      externalLink: "https://musicbrainz.org/work/f6067b6d-991a-4895-bb1c-ccd1d06251df",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

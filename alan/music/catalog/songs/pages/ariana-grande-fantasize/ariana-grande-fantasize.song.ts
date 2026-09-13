@@ -6,10 +6,14 @@ export const arianaGrandeFantasize = {
   slug: "ariana-grande-fantasize",
   title: "Fantasize",
   artist: "ariana-grande",
-  externalId: "dd7e2ca0-0ff0-4ec6-8dcc-613358a458cf",
-  externalLink: "https://musicbrainz.org/work/dd7e2ca0-0ff0-4ec6-8dcc-613358a458cf",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "dd7e2ca0-0ff0-4ec6-8dcc-613358a458cf",
+      externalLink: "https://musicbrainz.org/work/dd7e2ca0-0ff0-4ec6-8dcc-613358a458cf",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

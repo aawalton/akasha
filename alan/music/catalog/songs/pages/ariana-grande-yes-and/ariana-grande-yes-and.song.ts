@@ -6,10 +6,14 @@ export const arianaGrandeYesAnd = {
   slug: "ariana-grande-yes-and",
   title: "yes, and?",
   artist: "ariana-grande",
-  externalId: "7ce57060-337d-4f3a-8c7b-fe0c30271c2b",
-  externalLink: "https://musicbrainz.org/work/7ce57060-337d-4f3a-8c7b-fe0c30271c2b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7ce57060-337d-4f3a-8c7b-fe0c30271c2b",
+      externalLink: "https://musicbrainz.org/work/7ce57060-337d-4f3a-8c7b-fe0c30271c2b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

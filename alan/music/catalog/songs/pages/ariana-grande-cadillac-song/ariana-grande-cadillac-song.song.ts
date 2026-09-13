@@ -6,10 +6,14 @@ export const arianaGrandeCadillacSong = {
   slug: "ariana-grande-cadillac-song",
   title: "Cadillac Song",
   artist: "ariana-grande",
-  externalId: "d8159d2c-3207-49c1-8d95-81fc593e09cf",
-  externalLink: "https://musicbrainz.org/work/d8159d2c-3207-49c1-8d95-81fc593e09cf",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d8159d2c-3207-49c1-8d95-81fc593e09cf",
+      externalLink: "https://musicbrainz.org/work/d8159d2c-3207-49c1-8d95-81fc593e09cf",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

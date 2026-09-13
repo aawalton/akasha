@@ -6,10 +6,14 @@ export const billieEilish61818 = {
   slug: "billie-eilish-6-18-18",
   title: "6.18.18",
   artist: "billie-eilish",
-  externalId: "f6ab7b1d-7ff7-4ff8-bfe4-5cae250ca675",
-  externalLink: "https://musicbrainz.org/work/f6ab7b1d-7ff7-4ff8-bfe4-5cae250ca675",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f6ab7b1d-7ff7-4ff8-bfe4-5cae250ca675",
+      externalLink: "https://musicbrainz.org/work/f6ab7b1d-7ff7-4ff8-bfe4-5cae250ca675",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "solo",

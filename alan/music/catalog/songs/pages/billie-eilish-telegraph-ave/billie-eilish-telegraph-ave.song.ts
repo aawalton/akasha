@@ -6,10 +6,14 @@ export const billieEilishTelegraphAve = {
   slug: "billie-eilish-telegraph-ave",
   title: "Telegraph Ave.",
   artist: "billie-eilish",
-  externalId: "e34966a4-f200-4908-8fe4-d02b46c6cfdf",
-  externalLink: "https://musicbrainz.org/work/e34966a4-f200-4908-8fe4-d02b46c6cfdf",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e34966a4-f200-4908-8fe4-d02b46c6cfdf",
+      externalLink: "https://musicbrainz.org/work/e34966a4-f200-4908-8fe4-d02b46c6cfdf",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

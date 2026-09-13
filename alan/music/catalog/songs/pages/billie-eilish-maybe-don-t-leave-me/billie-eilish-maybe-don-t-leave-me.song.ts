@@ -6,10 +6,14 @@ export const billieEilishMaybeDonTLeaveMe = {
   slug: "billie-eilish-maybe-don-t-leave-me",
   title: "Maybe Don’t Leave Me",
   artist: "billie-eilish",
-  externalId: "fbeabc4d-a9f8-4ee2-8886-bd4787ca8104",
-  externalLink: "https://musicbrainz.org/work/fbeabc4d-a9f8-4ee2-8886-bd4787ca8104",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "fbeabc4d-a9f8-4ee2-8886-bd4787ca8104",
+      externalLink: "https://musicbrainz.org/work/fbeabc4d-a9f8-4ee2-8886-bd4787ca8104",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

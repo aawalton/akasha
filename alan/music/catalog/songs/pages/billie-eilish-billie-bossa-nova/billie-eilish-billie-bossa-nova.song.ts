@@ -6,10 +6,14 @@ export const billieEilishBillieBossaNova = {
   slug: "billie-eilish-billie-bossa-nova",
   title: "Billie Bossa Nova",
   artist: "billie-eilish",
-  externalId: "e778d68e-3e92-4b99-8d9b-712db81153c8",
-  externalLink: "https://musicbrainz.org/work/e778d68e-3e92-4b99-8d9b-712db81153c8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e778d68e-3e92-4b99-8d9b-712db81153c8",
+      externalLink: "https://musicbrainz.org/work/e778d68e-3e92-4b99-8d9b-712db81153c8",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

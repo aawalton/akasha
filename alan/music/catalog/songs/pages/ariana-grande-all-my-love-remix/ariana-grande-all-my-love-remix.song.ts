@@ -6,10 +6,14 @@ export const arianaGrandeAllMyLoveRemix = {
   slug: "ariana-grande-all-my-love-remix",
   title: "All My Love (remix)",
   artist: "ariana-grande",
-  externalId: "7f3ba842-16ca-42d3-8d87-68f1606c5ae2",
-  externalLink: "https://musicbrainz.org/work/7f3ba842-16ca-42d3-8d87-68f1606c5ae2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7f3ba842-16ca-42d3-8d87-68f1606c5ae2",
+      externalLink: "https://musicbrainz.org/work/7f3ba842-16ca-42d3-8d87-68f1606c5ae2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

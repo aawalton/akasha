@@ -6,10 +6,14 @@ export const arianaGrande3435 = {
   slug: "ariana-grande-34-35",
   title: "34+35",
   artist: "ariana-grande",
-  externalId: "738d42ab-a9fa-4fa5-a77f-be4d705feaf9",
-  externalLink: "https://musicbrainz.org/work/738d42ab-a9fa-4fa5-a77f-be4d705feaf9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "738d42ab-a9fa-4fa5-a77f-be4d705feaf9",
+      externalLink: "https://musicbrainz.org/work/738d42ab-a9fa-4fa5-a77f-be4d705feaf9",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

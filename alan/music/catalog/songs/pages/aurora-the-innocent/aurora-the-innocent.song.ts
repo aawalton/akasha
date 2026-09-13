@@ -6,10 +6,14 @@ export const auroraTheInnocent = {
   slug: "aurora-the-innocent",
   title: "The Innocent",
   artist: "aurora",
-  externalId: "9d52c4a4-dcb7-4fb1-be64-87646f608de6",
-  externalLink: "https://musicbrainz.org/work/9d52c4a4-dcb7-4fb1-be64-87646f608de6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9d52c4a4-dcb7-4fb1-be64-87646f608de6",
+      externalLink: "https://musicbrainz.org/work/9d52c4a4-dcb7-4fb1-be64-87646f608de6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

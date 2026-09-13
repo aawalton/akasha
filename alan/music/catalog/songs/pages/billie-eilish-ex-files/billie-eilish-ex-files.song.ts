@@ -6,10 +6,14 @@ export const billieEilishExFiles = {
   slug: "billie-eilish-ex-files",
   title: "ex files",
   artist: "billie-eilish",
-  externalId: "96f7d5ad-db82-459d-b347-f51c43bf9209",
-  externalLink: "https://musicbrainz.org/work/96f7d5ad-db82-459d-b347-f51c43bf9209",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "96f7d5ad-db82-459d-b347-f51c43bf9209",
+      externalLink: "https://musicbrainz.org/work/96f7d5ad-db82-459d-b347-f51c43bf9209",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

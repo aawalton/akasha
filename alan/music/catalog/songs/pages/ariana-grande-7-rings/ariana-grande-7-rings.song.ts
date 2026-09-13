@@ -6,10 +6,14 @@ export const arianaGrande7Rings = {
   slug: "ariana-grande-7-rings",
   title: "7 rings",
   artist: "ariana-grande",
-  externalId: "c5627afa-416f-4854-8db3-a29a5ece4654",
-  externalLink: "https://musicbrainz.org/work/c5627afa-416f-4854-8db3-a29a5ece4654",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c5627afa-416f-4854-8db3-a29a5ece4654",
+      externalLink: "https://musicbrainz.org/work/c5627afa-416f-4854-8db3-a29a5ece4654",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const arianaGrandeBadToYou = {
   slug: "ariana-grande-bad-to-you",
   title: "Bad to You",
   artist: "ariana-grande",
-  externalId: "3650e75c-6c93-48dc-a685-264dabdd8ed4",
-  externalLink: "https://musicbrainz.org/work/3650e75c-6c93-48dc-a685-264dabdd8ed4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3650e75c-6c93-48dc-a685-264dabdd8ed4",
+      externalLink: "https://musicbrainz.org/work/3650e75c-6c93-48dc-a685-264dabdd8ed4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

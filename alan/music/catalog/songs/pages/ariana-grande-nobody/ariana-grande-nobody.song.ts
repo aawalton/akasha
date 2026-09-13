@@ -6,10 +6,14 @@ export const arianaGrandeNobody = {
   slug: "ariana-grande-nobody",
   title: "Nobody",
   artist: "ariana-grande",
-  externalId: "ec77fa28-b3a5-4211-a33c-1d78160f57a1",
-  externalLink: "https://musicbrainz.org/work/ec77fa28-b3a5-4211-a33c-1d78160f57a1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ec77fa28-b3a5-4211-a33c-1d78160f57a1",
+      externalLink: "https://musicbrainz.org/work/ec77fa28-b3a5-4211-a33c-1d78160f57a1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

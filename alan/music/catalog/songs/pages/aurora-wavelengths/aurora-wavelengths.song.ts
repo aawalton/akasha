@@ -6,10 +6,14 @@ export const auroraWavelengths = {
   slug: "aurora-wavelengths",
   title: "WAVELENGTHS",
   artist: "aurora",
-  externalId: "7178863d-3bed-4bb1-abcf-e3c907fc7505",
-  externalLink: "https://musicbrainz.org/work/7178863d-3bed-4bb1-abcf-e3c907fc7505",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7178863d-3bed-4bb1-abcf-e3c907fc7505",
+      externalLink: "https://musicbrainz.org/work/7178863d-3bed-4bb1-abcf-e3c907fc7505",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   lyricsSource: "lrclib",

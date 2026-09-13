@@ -6,10 +6,14 @@ export const arianaGrandeEveryday = {
   slug: "ariana-grande-everyday",
   title: "Everyday",
   artist: "ariana-grande",
-  externalId: "1c057afd-6f3a-4cea-b30d-6f53658708cb",
-  externalLink: "https://musicbrainz.org/work/1c057afd-6f3a-4cea-b30d-6f53658708cb",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1c057afd-6f3a-4cea-b30d-6f53658708cb",
+      externalLink: "https://musicbrainz.org/work/1c057afd-6f3a-4cea-b30d-6f53658708cb",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const arianaGrandeAlmostIsNeverEnough = {
   slug: "ariana-grande-almost-is-never-enough",
   title: "Almost Is Never Enough",
   artist: "ariana-grande",
-  externalId: "8f2f0e2f-4b0e-48ac-a9f4-a6fe2b5a7c24",
-  externalLink: "https://musicbrainz.org/work/8f2f0e2f-4b0e-48ac-a9f4-a6fe2b5a7c24",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8f2f0e2f-4b0e-48ac-a9f4-a6fe2b5a7c24",
+      externalLink: "https://musicbrainz.org/work/8f2f0e2f-4b0e-48ac-a9f4-a6fe2b5a7c24",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

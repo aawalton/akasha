@@ -6,10 +6,14 @@ export const arianaGrandeSafetyNet = {
   slug: "ariana-grande-safety-net",
   title: "safety net",
   artist: "ariana-grande",
-  externalId: "9fd87837-c788-4f15-931e-870fcfff4d23",
-  externalLink: "https://musicbrainz.org/work/9fd87837-c788-4f15-931e-870fcfff4d23",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9fd87837-c788-4f15-931e-870fcfff4d23",
+      externalLink: "https://musicbrainz.org/work/9fd87837-c788-4f15-931e-870fcfff4d23",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

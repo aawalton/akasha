@@ -6,10 +6,14 @@ export const auroraTheThing = {
   slug: "aurora-the-thing",
   title: "THE THING",
   artist: "aurora",
-  externalId: "59d6c953-01f0-48c8-a90a-09d7914ec078",
-  externalLink: "https://musicbrainz.org/work/59d6c953-01f0-48c8-a90a-09d7914ec078",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "59d6c953-01f0-48c8-a90a-09d7914ec078",
+      externalLink: "https://musicbrainz.org/work/59d6c953-01f0-48c8-a90a-09d7914ec078",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   lyricsSource: "lrclib",

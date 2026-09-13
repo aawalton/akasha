@@ -6,10 +6,14 @@ export const auroraWrangelIsland = {
   slug: "aurora-wrangel-island",
   title: "Wrangel Island",
   artist: "aurora",
-  externalId: "5366d8bc-bece-49ea-af40-d539f7e7016b",
-  externalLink: "https://musicbrainz.org/work/5366d8bc-bece-49ea-af40-d539f7e7016b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5366d8bc-bece-49ea-af40-d539f7e7016b",
+      externalLink: "https://musicbrainz.org/work/5366d8bc-bece-49ea-af40-d539f7e7016b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

@@ -6,10 +6,14 @@ export const arianaGrandeTattooedHeart = {
   slug: "ariana-grande-tattooed-heart",
   title: "Tattooed Heart",
   artist: "ariana-grande",
-  externalId: "17553fc0-8152-4548-8510-b6e3872e6254",
-  externalLink: "https://musicbrainz.org/work/17553fc0-8152-4548-8510-b6e3872e6254",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "17553fc0-8152-4548-8510-b6e3872e6254",
+      externalLink: "https://musicbrainz.org/work/17553fc0-8152-4548-8510-b6e3872e6254",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const arianaGrandeMetHimLastNight = {
   slug: "ariana-grande-met-him-last-night",
   title: "Met Him Last Night",
   artist: "ariana-grande",
-  externalId: "5c47c2ed-41cf-4ee6-af5c-f819aa6fa2ad",
-  externalLink: "https://musicbrainz.org/work/5c47c2ed-41cf-4ee6-af5c-f819aa6fa2ad",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5c47c2ed-41cf-4ee6-af5c-f819aa6fa2ad",
+      externalLink: "https://musicbrainz.org/work/5c47c2ed-41cf-4ee6-af5c-f819aa6fa2ad",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

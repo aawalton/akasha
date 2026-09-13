@@ -6,10 +6,14 @@ export const auroraABoyLikeYou = {
   slug: "aurora-a-boy-like-you",
   title: "A BOY LIKE YOU",
   artist: "aurora",
-  externalId: "383effe2-76ee-454d-ae03-e6e73467fa7b",
-  externalLink: "https://musicbrainz.org/work/383effe2-76ee-454d-ae03-e6e73467fa7b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "383effe2-76ee-454d-ae03-e6e73467fa7b",
+      externalLink: "https://musicbrainz.org/work/383effe2-76ee-454d-ae03-e6e73467fa7b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   lyricsSource: "lrclib",

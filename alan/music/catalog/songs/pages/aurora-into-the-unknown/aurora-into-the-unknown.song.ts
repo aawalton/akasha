@@ -6,10 +6,14 @@ export const auroraIntoTheUnknown = {
   slug: "aurora-into-the-unknown",
   title: "Into the Unknown",
   artist: "aurora",
-  externalId: "4aefb4ed-8e57-42a3-ae70-819983a6b268",
-  externalLink: "https://musicbrainz.org/work/4aefb4ed-8e57-42a3-ae70-819983a6b268",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4aefb4ed-8e57-42a3-ae70-819983a6b268",
+      externalLink: "https://musicbrainz.org/work/4aefb4ed-8e57-42a3-ae70-819983a6b268",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

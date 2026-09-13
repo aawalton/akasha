@@ -6,10 +6,14 @@ export const auroraYouKeepMeCrawling = {
   slug: "aurora-you-keep-me-crawling",
   title: "You Keep Me Crawling",
   artist: "aurora",
-  externalId: "38ea70b2-f2ea-4c3e-9cad-b45febb15301",
-  externalLink: "https://musicbrainz.org/work/38ea70b2-f2ea-4c3e-9cad-b45febb15301",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "38ea70b2-f2ea-4c3e-9cad-b45febb15301",
+      externalLink: "https://musicbrainz.org/work/38ea70b2-f2ea-4c3e-9cad-b45febb15301",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const arianaGrandeDieForYou = {
   slug: "ariana-grande-die-for-you",
   title: "Die for You",
   artist: "ariana-grande",
-  externalId: "9f6b1fe4-458c-467c-88b6-39209961250f",
-  externalLink: "https://musicbrainz.org/work/9f6b1fe4-458c-467c-88b6-39209961250f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9f6b1fe4-458c-467c-88b6-39209961250f",
+      externalLink: "https://musicbrainz.org/work/9f6b1fe4-458c-467c-88b6-39209961250f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

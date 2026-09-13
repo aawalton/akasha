@@ -6,10 +6,14 @@ export const auroraHunger = {
   slug: "aurora-hunger",
   title: "Hunger",
   artist: "aurora",
-  externalId: "efa6d3c6-28ef-483c-9b17-f214e096fe24",
-  externalLink: "https://musicbrainz.org/work/efa6d3c6-28ef-483c-9b17-f214e096fe24",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "efa6d3c6-28ef-483c-9b17-f214e096fe24",
+      externalLink: "https://musicbrainz.org/work/efa6d3c6-28ef-483c-9b17-f214e096fe24",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

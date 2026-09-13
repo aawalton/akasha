@@ -6,10 +6,14 @@ export const arianaGrandeBabyI = {
   slug: "ariana-grande-baby-i",
   title: "Baby I",
   artist: "ariana-grande",
-  externalId: "cc4a9125-540b-436e-bc63-ecea09a9a9a8",
-  externalLink: "https://musicbrainz.org/work/cc4a9125-540b-436e-bc63-ecea09a9a9a8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "cc4a9125-540b-436e-bc63-ecea09a9a9a8",
+      externalLink: "https://musicbrainz.org/work/cc4a9125-540b-436e-bc63-ecea09a9a9a8",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

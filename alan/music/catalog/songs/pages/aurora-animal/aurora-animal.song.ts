@@ -6,10 +6,14 @@ export const auroraAnimal = {
   slug: "aurora-animal",
   title: "Animal",
   artist: "aurora",
-  externalId: "c0125a33-540a-44f3-bb22-6ff19fc8f728",
-  externalLink: "https://musicbrainz.org/work/c0125a33-540a-44f3-bb22-6ff19fc8f728",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c0125a33-540a-44f3-bb22-6ff19fc8f728",
+      externalLink: "https://musicbrainz.org/work/c0125a33-540a-44f3-bb22-6ff19fc8f728",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

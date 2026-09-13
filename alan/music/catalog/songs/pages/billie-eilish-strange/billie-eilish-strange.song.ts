@@ -6,10 +6,14 @@ export const billieEilishStrange = {
   slug: "billie-eilish-strange",
   title: "strange",
   artist: "billie-eilish",
-  externalId: "bc6128e3-03e5-4875-b077-032ef64b0136",
-  externalLink: "https://musicbrainz.org/work/bc6128e3-03e5-4875-b077-032ef64b0136",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bc6128e3-03e5-4875-b077-032ef64b0136",
+      externalLink: "https://musicbrainz.org/work/bc6128e3-03e5-4875-b077-032ef64b0136",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

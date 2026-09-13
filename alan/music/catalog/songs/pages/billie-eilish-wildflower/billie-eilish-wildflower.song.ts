@@ -6,10 +6,14 @@ export const billieEilishWildflower = {
   slug: "billie-eilish-wildflower",
   title: "WILDFLOWER",
   artist: "billie-eilish",
-  externalId: "6ce3e6f5-8a41-4dd3-967a-8be19ff7a25e",
-  externalLink: "https://musicbrainz.org/work/6ce3e6f5-8a41-4dd3-967a-8be19ff7a25e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6ce3e6f5-8a41-4dd3-967a-8be19ff7a25e",
+      externalLink: "https://musicbrainz.org/work/6ce3e6f5-8a41-4dd3-967a-8be19ff7a25e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

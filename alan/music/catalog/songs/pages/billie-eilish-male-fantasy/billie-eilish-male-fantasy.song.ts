@@ -6,10 +6,14 @@ export const billieEilishMaleFantasy = {
   slug: "billie-eilish-male-fantasy",
   title: "Male Fantasy",
   artist: "billie-eilish",
-  externalId: "3b8a5b19-468e-4e60-9c6d-c310bf4f755a",
-  externalLink: "https://musicbrainz.org/work/3b8a5b19-468e-4e60-9c6d-c310bf4f755a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3b8a5b19-468e-4e60-9c6d-c310bf4f755a",
+      externalLink: "https://musicbrainz.org/work/3b8a5b19-468e-4e60-9c6d-c310bf4f755a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const billieEilishTheDiner = {
   slug: "billie-eilish-the-diner",
   title: "THE DINER",
   artist: "billie-eilish",
-  externalId: "80b2b437-eaa4-4232-aaed-7e9f1f675684",
-  externalLink: "https://musicbrainz.org/work/80b2b437-eaa4-4232-aaed-7e9f1f675684",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "80b2b437-eaa4-4232-aaed-7e9f1f675684",
+      externalLink: "https://musicbrainz.org/work/80b2b437-eaa4-4232-aaed-7e9f1f675684",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const billieEilishGuess = {
   slug: "billie-eilish-guess",
   title: "Guess",
   artist: "billie-eilish",
-  externalId: "959b1e8f-62ab-428c-abcc-88f14a28e508",
-  externalLink: "https://musicbrainz.org/work/959b1e8f-62ab-428c-abcc-88f14a28e508",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "959b1e8f-62ab-428c-abcc-88f14a28e508",
+      externalLink: "https://musicbrainz.org/work/959b1e8f-62ab-428c-abcc-88f14a28e508",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

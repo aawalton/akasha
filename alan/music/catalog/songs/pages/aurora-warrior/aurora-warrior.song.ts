@@ -6,10 +6,14 @@ export const auroraWarrior = {
   slug: "aurora-warrior",
   title: "Warrior",
   artist: "aurora",
-  externalId: "0280cc1e-f51a-4a6a-8a07-c8d2c2aa7a2f",
-  externalLink: "https://musicbrainz.org/work/0280cc1e-f51a-4a6a-8a07-c8d2c2aa7a2f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0280cc1e-f51a-4a6a-8a07-c8d2c2aa7a2f",
+      externalLink: "https://musicbrainz.org/work/0280cc1e-f51a-4a6a-8a07-c8d2c2aa7a2f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

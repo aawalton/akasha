@@ -6,10 +6,14 @@ export const arianaGrandeForGood = {
   slug: "ariana-grande-for-good",
   title: "For Good",
   artist: "ariana-grande",
-  externalId: "e0259bdb-17bf-4ba0-bcaf-5a7d2014857b",
-  externalLink: "https://musicbrainz.org/work/e0259bdb-17bf-4ba0-bcaf-5a7d2014857b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e0259bdb-17bf-4ba0-bcaf-5a7d2014857b",
+      externalLink: "https://musicbrainz.org/work/e0259bdb-17bf-4ba0-bcaf-5a7d2014857b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

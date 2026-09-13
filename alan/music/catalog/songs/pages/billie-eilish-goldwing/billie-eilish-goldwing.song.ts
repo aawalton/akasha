@@ -6,10 +6,14 @@ export const billieEilishGoldwing = {
   slug: "billie-eilish-goldwing",
   title: "GOLDWING",
   artist: "billie-eilish",
-  externalId: "4a145f8d-bf24-4497-a41d-e7947346b5a4",
-  externalLink: "https://musicbrainz.org/work/4a145f8d-bf24-4497-a41d-e7947346b5a4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4a145f8d-bf24-4497-a41d-e7947346b5a4",
+      externalLink: "https://musicbrainz.org/work/4a145f8d-bf24-4497-a41d-e7947346b5a4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

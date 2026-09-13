@@ -6,10 +6,14 @@ export const auroraFrozenPeaks = {
   slug: "aurora-frozen-peaks",
   title: "Frozen Peaks",
   artist: "aurora",
-  externalId: "4a57bc63-217b-4cd3-8ec0-a6c8fa45680d",
-  externalLink: "https://musicbrainz.org/work/4a57bc63-217b-4cd3-8ec0-a6c8fa45680d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4a57bc63-217b-4cd3-8ec0-a6c8fa45680d",
+      externalLink: "https://musicbrainz.org/work/4a57bc63-217b-4cd3-8ec0-a6c8fa45680d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

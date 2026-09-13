@@ -6,10 +6,14 @@ export const auroraDanceOnTheMoon = {
   slug: "aurora-dance-on-the-moon",
   title: "Dance on the Moon",
   artist: "aurora",
-  externalId: "219fbf1e-5f0a-4ab3-851c-518987baf969",
-  externalLink: "https://musicbrainz.org/work/219fbf1e-5f0a-4ab3-851c-518987baf969",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "219fbf1e-5f0a-4ab3-851c-518987baf969",
+      externalLink: "https://musicbrainz.org/work/219fbf1e-5f0a-4ab3-851c-518987baf969",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

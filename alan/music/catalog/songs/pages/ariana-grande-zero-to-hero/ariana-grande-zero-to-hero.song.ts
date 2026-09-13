@@ -6,10 +6,14 @@ export const arianaGrandeZeroToHero = {
   slug: "ariana-grande-zero-to-hero",
   title: "Zero to Hero",
   artist: "ariana-grande",
-  externalId: "b5dbac6b-b842-3ab6-8882-a24426270e99",
-  externalLink: "https://musicbrainz.org/work/b5dbac6b-b842-3ab6-8882-a24426270e99",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b5dbac6b-b842-3ab6-8882-a24426270e99",
+      externalLink: "https://musicbrainz.org/work/b5dbac6b-b842-3ab6-8882-a24426270e99",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

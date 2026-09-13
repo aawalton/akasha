@@ -6,10 +6,14 @@ export const billieEilishTheEndOfTheWorld = {
   slug: "billie-eilish-the-end-of-the-world",
   title: "The End of the World",
   artist: "billie-eilish",
-  externalId: "ba0396cf-832d-4c15-a09b-3deb5f3557a8",
-  externalLink: "https://musicbrainz.org/work/ba0396cf-832d-4c15-a09b-3deb5f3557a8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ba0396cf-832d-4c15-a09b-3deb5f3557a8",
+      externalLink: "https://musicbrainz.org/work/ba0396cf-832d-4c15-a09b-3deb5f3557a8",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

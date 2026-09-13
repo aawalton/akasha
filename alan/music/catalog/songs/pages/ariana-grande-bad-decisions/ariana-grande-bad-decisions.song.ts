@@ -6,10 +6,14 @@ export const arianaGrandeBadDecisions = {
   slug: "ariana-grande-bad-decisions",
   title: "Bad Decisions",
   artist: "ariana-grande",
-  externalId: "60615a1e-ae63-4ff4-90f5-6f18c1c19efe",
-  externalLink: "https://musicbrainz.org/work/60615a1e-ae63-4ff4-90f5-6f18c1c19efe",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "60615a1e-ae63-4ff4-90f5-6f18c1c19efe",
+      externalLink: "https://musicbrainz.org/work/60615a1e-ae63-4ff4-90f5-6f18c1c19efe",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

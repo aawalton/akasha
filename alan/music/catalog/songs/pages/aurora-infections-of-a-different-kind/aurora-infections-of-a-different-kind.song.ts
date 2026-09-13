@@ -6,10 +6,14 @@ export const auroraInfectionsOfADifferentKind = {
   slug: "aurora-infections-of-a-different-kind",
   title: "Infections of a Different Kind",
   artist: "aurora",
-  externalId: "e7dd0918-6223-48e7-be1c-62626dc25dbf",
-  externalLink: "https://musicbrainz.org/work/e7dd0918-6223-48e7-be1c-62626dc25dbf",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e7dd0918-6223-48e7-be1c-62626dc25dbf",
+      externalLink: "https://musicbrainz.org/work/e7dd0918-6223-48e7-be1c-62626dc25dbf",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

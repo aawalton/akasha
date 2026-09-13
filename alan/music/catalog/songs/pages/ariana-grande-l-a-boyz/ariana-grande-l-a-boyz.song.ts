@@ -6,10 +6,14 @@ export const arianaGrandeLABoyz = {
   slug: "ariana-grande-l-a-boyz",
   title: "L.A. Boyz",
   artist: "ariana-grande",
-  externalId: "5a826084-fdb6-4de6-907e-6ef379f049ec",
-  externalLink: "https://musicbrainz.org/work/5a826084-fdb6-4de6-907e-6ef379f049ec",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5a826084-fdb6-4de6-907e-6ef379f049ec",
+      externalLink: "https://musicbrainz.org/work/5a826084-fdb6-4de6-907e-6ef379f049ec",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

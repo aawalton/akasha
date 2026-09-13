@@ -6,10 +6,14 @@ export const arianaGrandeRightThere = {
   slug: "ariana-grande-right-there",
   title: "Right There",
   artist: "ariana-grande",
-  externalId: "9b41bb33-53a1-42f2-8bb2-b4692b4d1a21",
-  externalLink: "https://musicbrainz.org/work/9b41bb33-53a1-42f2-8bb2-b4692b4d1a21",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9b41bb33-53a1-42f2-8bb2-b4692b4d1a21",
+      externalLink: "https://musicbrainz.org/work/9b41bb33-53a1-42f2-8bb2-b4692b4d1a21",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

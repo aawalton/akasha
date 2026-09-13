@@ -6,10 +6,14 @@ export const arianaGrandeTestDrive = {
   slug: "ariana-grande-test-drive",
   title: "test drive",
   artist: "ariana-grande",
-  externalId: "52e6be2c-3294-49ce-bbc1-6d4bdc8385c0",
-  externalLink: "https://musicbrainz.org/work/52e6be2c-3294-49ce-bbc1-6d4bdc8385c0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "52e6be2c-3294-49ce-bbc1-6d4bdc8385c0",
+      externalLink: "https://musicbrainz.org/work/52e6be2c-3294-49ce-bbc1-6d4bdc8385c0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

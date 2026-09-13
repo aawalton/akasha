@@ -6,10 +6,14 @@ export const billieEilishGettingOlder = {
   slug: "billie-eilish-getting-older",
   title: "Getting Older",
   artist: "billie-eilish",
-  externalId: "543b7d16-5083-4618-ad8e-9fed1c8fba78",
-  externalLink: "https://musicbrainz.org/work/543b7d16-5083-4618-ad8e-9fed1c8fba78",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "543b7d16-5083-4618-ad8e-9fed1c8fba78",
+      externalLink: "https://musicbrainz.org/work/543b7d16-5083-4618-ad8e-9fed1c8fba78",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

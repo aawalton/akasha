@@ -6,10 +6,14 @@ export const billieEilishComeOutAndPlay = {
   slug: "billie-eilish-come-out-and-play",
   title: "come out and play",
   artist: "billie-eilish",
-  externalId: "2ad3135e-8e2f-4f80-b98f-46574797695c",
-  externalLink: "https://musicbrainz.org/work/2ad3135e-8e2f-4f80-b98f-46574797695c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2ad3135e-8e2f-4f80-b98f-46574797695c",
+      externalLink: "https://musicbrainz.org/work/2ad3135e-8e2f-4f80-b98f-46574797695c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

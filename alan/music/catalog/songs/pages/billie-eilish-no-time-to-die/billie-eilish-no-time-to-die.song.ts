@@ -6,10 +6,14 @@ export const billieEilishNoTimeToDie = {
   slug: "billie-eilish-no-time-to-die",
   title: "No Time to Die",
   artist: "billie-eilish",
-  externalId: "ce59432d-3dcd-4a21-bdf3-92e3d6bb7b94",
-  externalLink: "https://musicbrainz.org/work/ce59432d-3dcd-4a21-bdf3-92e3d6bb7b94",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ce59432d-3dcd-4a21-bdf3-92e3d6bb7b94",
+      externalLink: "https://musicbrainz.org/work/ce59432d-3dcd-4a21-bdf3-92e3d6bb7b94",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

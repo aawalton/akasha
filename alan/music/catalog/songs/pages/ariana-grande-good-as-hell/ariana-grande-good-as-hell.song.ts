@@ -6,10 +6,14 @@ export const arianaGrandeGoodAsHell = {
   slug: "ariana-grande-good-as-hell",
   title: "Good as Hell",
   artist: "ariana-grande",
-  externalId: "e55c3b0e-e8e1-4794-9ff9-6967d4b577c2",
-  externalLink: "https://musicbrainz.org/work/e55c3b0e-e8e1-4794-9ff9-6967d4b577c2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e55c3b0e-e8e1-4794-9ff9-6967d4b577c2",
+      externalLink: "https://musicbrainz.org/work/e55c3b0e-e8e1-4794-9ff9-6967d4b577c2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const billieEilishBad = {
   slug: "billie-eilish-bad",
   title: "Bad",
   artist: "billie-eilish",
-  externalId: "b06efbd2-1520-37d8-bb17-c27093451c42",
-  externalLink: "https://musicbrainz.org/work/b06efbd2-1520-37d8-bb17-c27093451c42",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b06efbd2-1520-37d8-bb17-c27093451c42",
+      externalLink: "https://musicbrainz.org/work/b06efbd2-1520-37d8-bb17-c27093451c42",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

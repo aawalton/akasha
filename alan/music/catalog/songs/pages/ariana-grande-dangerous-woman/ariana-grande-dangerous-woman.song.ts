@@ -6,10 +6,14 @@ export const arianaGrandeDangerousWoman = {
   slug: "ariana-grande-dangerous-woman",
   title: "Dangerous Woman",
   artist: "ariana-grande",
-  externalId: "abb0e248-2ba3-4994-9e71-f0c8d5797eb1",
-  externalLink: "https://musicbrainz.org/work/abb0e248-2ba3-4994-9e71-f0c8d5797eb1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "abb0e248-2ba3-4994-9e71-f0c8d5797eb1",
+      externalLink: "https://musicbrainz.org/work/abb0e248-2ba3-4994-9e71-f0c8d5797eb1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

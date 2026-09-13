@@ -6,10 +6,14 @@ export const auroraBlackWaterLilies = {
   slug: "aurora-black-water-lilies",
   title: "Black Water Lilies",
   artist: "aurora",
-  externalId: "a9851e89-d7af-47d2-a026-a461d1d441db",
-  externalLink: "https://musicbrainz.org/work/a9851e89-d7af-47d2-a026-a461d1d441db",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a9851e89-d7af-47d2-a026-a461d1d441db",
+      externalLink: "https://musicbrainz.org/work/a9851e89-d7af-47d2-a026-a461d1d441db",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const arianaGrandeIntro = {
   slug: "ariana-grande-intro",
   title: "Intro",
   artist: "ariana-grande",
-  externalId: "7703d087-51e0-4071-8402-1870b7d86ec8",
-  externalLink: "https://musicbrainz.org/work/7703d087-51e0-4071-8402-1870b7d86ec8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7703d087-51e0-4071-8402-1870b7d86ec8",
+      externalLink: "https://musicbrainz.org/work/7703d087-51e0-4071-8402-1870b7d86ec8",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

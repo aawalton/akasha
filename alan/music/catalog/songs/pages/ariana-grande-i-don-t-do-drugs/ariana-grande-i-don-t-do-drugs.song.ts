@@ -6,10 +6,14 @@ export const arianaGrandeIDonTDoDrugs = {
   slug: "ariana-grande-i-don-t-do-drugs",
   title: "I Don’t Do Drugs",
   artist: "ariana-grande",
-  externalId: "b3978c22-8ffe-4c10-a91d-38feafe90b55",
-  externalLink: "https://musicbrainz.org/work/b3978c22-8ffe-4c10-a91d-38feafe90b55",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b3978c22-8ffe-4c10-a91d-38feafe90b55",
+      externalLink: "https://musicbrainz.org/work/b3978c22-8ffe-4c10-a91d-38feafe90b55",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

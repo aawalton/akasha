@@ -6,10 +6,14 @@ export const arianaGrandeGiveItUp = {
   slug: "ariana-grande-give-it-up",
   title: "Give It Up",
   artist: "ariana-grande",
-  externalId: "4bd3990e-3b88-4e88-8d8b-9e770fc2e1d2",
-  externalLink: "https://musicbrainz.org/work/4bd3990e-3b88-4e88-8d8b-9e770fc2e1d2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4bd3990e-3b88-4e88-8d8b-9e770fc2e1d2",
+      externalLink: "https://musicbrainz.org/work/4bd3990e-3b88-4e88-8d8b-9e770fc2e1d2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

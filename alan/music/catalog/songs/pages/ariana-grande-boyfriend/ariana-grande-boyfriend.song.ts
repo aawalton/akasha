@@ -6,10 +6,14 @@ export const arianaGrandeBoyfriend = {
   slug: "ariana-grande-boyfriend",
   title: "boyfriend",
   artist: "ariana-grande",
-  externalId: "72d58b76-1f7d-4a46-a331-19a1e94cbf05",
-  externalLink: "https://musicbrainz.org/work/72d58b76-1f7d-4a46-a331-19a1e94cbf05",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "72d58b76-1f7d-4a46-a331-19a1e94cbf05",
+      externalLink: "https://musicbrainz.org/work/72d58b76-1f7d-4a46-a331-19a1e94cbf05",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

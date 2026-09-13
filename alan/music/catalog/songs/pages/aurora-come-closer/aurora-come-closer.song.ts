@@ -6,10 +6,14 @@ export const auroraComeCloser = {
   slug: "aurora-come-closer",
   title: "COME CLOSER",
   artist: "aurora",
-  externalId: "e6316a8d-35ac-42a0-9710-a946fd45f9ed",
-  externalLink: "https://musicbrainz.org/work/e6316a8d-35ac-42a0-9710-a946fd45f9ed",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e6316a8d-35ac-42a0-9710-a946fd45f9ed",
+      externalLink: "https://musicbrainz.org/work/e6316a8d-35ac-42a0-9710-a946fd45f9ed",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   lyricsSource: "lrclib",

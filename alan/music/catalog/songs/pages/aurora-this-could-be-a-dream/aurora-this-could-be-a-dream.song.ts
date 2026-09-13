@@ -6,10 +6,14 @@ export const auroraThisCouldBeADream = {
   slug: "aurora-this-could-be-a-dream",
   title: "This Could Be a Dream",
   artist: "aurora",
-  externalId: "f2dfa16d-2f97-4675-9adb-09c75ceac3c8",
-  externalLink: "https://musicbrainz.org/work/f2dfa16d-2f97-4675-9adb-09c75ceac3c8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f2dfa16d-2f97-4675-9adb-09c75ceac3c8",
+      externalLink: "https://musicbrainz.org/work/f2dfa16d-2f97-4675-9adb-09c75ceac3c8",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

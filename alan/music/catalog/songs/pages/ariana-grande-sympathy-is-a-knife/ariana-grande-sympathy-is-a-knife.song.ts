@@ -6,10 +6,14 @@ export const arianaGrandeSympathyIsAKnife = {
   slug: "ariana-grande-sympathy-is-a-knife",
   title: "Sympathy is a knife",
   artist: "ariana-grande",
-  externalId: "f02efe54-3687-4f77-8702-c7d39254c5f8",
-  externalLink: "https://musicbrainz.org/work/f02efe54-3687-4f77-8702-c7d39254c5f8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f02efe54-3687-4f77-8702-c7d39254c5f8",
+      externalLink: "https://musicbrainz.org/work/f02efe54-3687-4f77-8702-c7d39254c5f8",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

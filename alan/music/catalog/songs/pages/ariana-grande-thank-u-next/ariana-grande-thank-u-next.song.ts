@@ -6,10 +6,14 @@ export const arianaGrandeThankUNext = {
   slug: "ariana-grande-thank-u-next",
   title: "thank u, next",
   artist: "ariana-grande",
-  externalId: "21ad6b3f-69f6-4ae1-af2d-5ec99372d169",
-  externalLink: "https://musicbrainz.org/work/21ad6b3f-69f6-4ae1-af2d-5ec99372d169",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "21ad6b3f-69f6-4ae1-af2d-5ec99372d169",
+      externalLink: "https://musicbrainz.org/work/21ad6b3f-69f6-4ae1-af2d-5ec99372d169",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

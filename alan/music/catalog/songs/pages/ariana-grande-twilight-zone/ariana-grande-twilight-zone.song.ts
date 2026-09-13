@@ -6,10 +6,14 @@ export const arianaGrandeTwilightZone = {
   slug: "ariana-grande-twilight-zone",
   title: "twilight zone",
   artist: "ariana-grande",
-  externalId: "eded856f-03ba-4df3-a56a-2b9715617be6",
-  externalLink: "https://musicbrainz.org/work/eded856f-03ba-4df3-a56a-2b9715617be6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "eded856f-03ba-4df3-a56a-2b9715617be6",
+      externalLink: "https://musicbrainz.org/work/eded856f-03ba-4df3-a56a-2b9715617be6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

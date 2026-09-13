@@ -6,10 +6,14 @@ export const arianaGrandeDandelion = {
   slug: "ariana-grande-dandelion",
   title: "dandelion",
   artist: "ariana-grande",
-  externalId: "ed7e1ac0-10eb-47cd-9ea5-ded05b629991",
-  externalLink: "https://musicbrainz.org/work/ed7e1ac0-10eb-47cd-9ea5-ded05b629991",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ed7e1ac0-10eb-47cd-9ea5-ded05b629991",
+      externalLink: "https://musicbrainz.org/work/ed7e1ac0-10eb-47cd-9ea5-ded05b629991",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const billieEilishBornBlue = {
   slug: "billie-eilish-born-blue",
   title: "BORN BLUE",
   artist: "billie-eilish",
-  externalId: "8a964dbd-c714-43bf-87d6-72d5089d1fd4",
-  externalLink: "https://musicbrainz.org/work/8a964dbd-c714-43bf-87d6-72d5089d1fd4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8a964dbd-c714-43bf-87d6-72d5089d1fd4",
+      externalLink: "https://musicbrainz.org/work/8a964dbd-c714-43bf-87d6-72d5089d1fd4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

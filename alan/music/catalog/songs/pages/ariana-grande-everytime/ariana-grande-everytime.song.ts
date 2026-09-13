@@ -6,10 +6,14 @@ export const arianaGrandeEverytime = {
   slug: "ariana-grande-everytime",
   title: "everytime",
   artist: "ariana-grande",
-  externalId: "59ec0a26-1487-4ab1-b30e-1127c769aae4",
-  externalLink: "https://musicbrainz.org/work/59ec0a26-1487-4ab1-b30e-1127c769aae4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "59ec0a26-1487-4ab1-b30e-1127c769aae4",
+      externalLink: "https://musicbrainz.org/work/59ec0a26-1487-4ab1-b30e-1127c769aae4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

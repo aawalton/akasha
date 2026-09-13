@@ -6,10 +6,14 @@ export const arianaGrandeSantaTellMe = {
   slug: "ariana-grande-santa-tell-me",
   title: "Santa Tell Me",
   artist: "ariana-grande",
-  externalId: "4e0a4288-95cf-4476-aa85-4ae21e80d8c2",
-  externalLink: "https://musicbrainz.org/work/4e0a4288-95cf-4476-aa85-4ae21e80d8c2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4e0a4288-95cf-4476-aa85-4ae21e80d8c2",
+      externalLink: "https://musicbrainz.org/work/4e0a4288-95cf-4476-aa85-4ae21e80d8c2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

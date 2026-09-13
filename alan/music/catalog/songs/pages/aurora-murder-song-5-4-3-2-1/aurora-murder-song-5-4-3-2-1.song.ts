@@ -6,10 +6,14 @@ export const auroraMurderSong54321 = {
   slug: "aurora-murder-song-5-4-3-2-1",
   title: "Murder Song (5, 4, 3, 2, 1)",
   artist: "aurora",
-  externalId: "be4abc7b-528d-4974-bc3a-dc777834edf4",
-  externalLink: "https://musicbrainz.org/work/be4abc7b-528d-4974-bc3a-dc777834edf4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "be4abc7b-528d-4974-bc3a-dc777834edf4",
+      externalLink: "https://musicbrainz.org/work/be4abc7b-528d-4974-bc3a-dc777834edf4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

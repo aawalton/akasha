@@ -6,10 +6,14 @@ export const auroraBango = {
   slug: "aurora-bango",
   title: "Bango",
   artist: "aurora",
-  externalId: "93049a8d-41f2-4dad-85f0-e71c0312a13b",
-  externalLink: "https://musicbrainz.org/work/93049a8d-41f2-4dad-85f0-e71c0312a13b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "93049a8d-41f2-4dad-85f0-e71c0312a13b",
+      externalLink: "https://musicbrainz.org/work/93049a8d-41f2-4dad-85f0-e71c0312a13b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

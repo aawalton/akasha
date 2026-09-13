@@ -6,10 +6,14 @@ export const arianaGrandeWithoutLove = {
   slug: "ariana-grande-without-love",
   title: "Without Love",
   artist: "ariana-grande",
-  externalId: "2802f105-1f19-3538-a716-08efe5abad72",
-  externalLink: "https://musicbrainz.org/work/2802f105-1f19-3538-a716-08efe5abad72",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2802f105-1f19-3538-a716-08efe5abad72",
+      externalLink: "https://musicbrainz.org/work/2802f105-1f19-3538-a716-08efe5abad72",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

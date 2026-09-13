@@ -6,10 +6,14 @@ export const arianaGrandeTheLightIsComing = {
   slug: "ariana-grande-the-light-is-coming",
   title: "the light is coming",
   artist: "ariana-grande",
-  externalId: "88fdac53-4c71-4902-be67-54e1ed70910c",
-  externalLink: "https://musicbrainz.org/work/88fdac53-4c71-4902-be67-54e1ed70910c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "88fdac53-4c71-4902-be67-54e1ed70910c",
+      externalLink: "https://musicbrainz.org/work/88fdac53-4c71-4902-be67-54e1ed70910c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

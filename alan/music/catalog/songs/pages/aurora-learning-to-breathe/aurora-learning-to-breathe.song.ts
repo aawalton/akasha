@@ -6,10 +6,14 @@ export const auroraLearningToBreathe = {
   slug: "aurora-learning-to-breathe",
   title: "Learning to Breathe",
   artist: "aurora",
-  externalId: "eecac4c4-562e-46fa-8762-96d58b929dc4",
-  externalLink: "https://musicbrainz.org/work/eecac4c4-562e-46fa-8762-96d58b929dc4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "eecac4c4-562e-46fa-8762-96d58b929dc4",
+      externalLink: "https://musicbrainz.org/work/eecac4c4-562e-46fa-8762-96d58b929dc4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

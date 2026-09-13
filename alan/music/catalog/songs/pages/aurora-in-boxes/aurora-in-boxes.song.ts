@@ -6,10 +6,14 @@ export const auroraInBoxes = {
   slug: "aurora-in-boxes",
   title: "In Boxes",
   artist: "aurora",
-  externalId: "ed204146-b91a-4a05-b012-c457f2067a6d",
-  externalLink: "https://musicbrainz.org/work/ed204146-b91a-4a05-b012-c457f2067a6d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ed204146-b91a-4a05-b012-c457f2067a6d",
+      externalLink: "https://musicbrainz.org/work/ed204146-b91a-4a05-b012-c457f2067a6d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

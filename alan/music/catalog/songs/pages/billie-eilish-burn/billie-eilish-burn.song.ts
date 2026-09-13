@@ -6,10 +6,14 @@ export const billieEilishBurn = {
   slug: "billie-eilish-burn",
   title: "&burn",
   artist: "billie-eilish",
-  externalId: "a8d7dd94-c737-4283-a549-9610fbf863ce",
-  externalLink: "https://musicbrainz.org/work/a8d7dd94-c737-4283-a549-9610fbf863ce",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a8d7dd94-c737-4283-a549-9610fbf863ce",
+      externalLink: "https://musicbrainz.org/work/a8d7dd94-c737-4283-a549-9610fbf863ce",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const auroraAllIsSoftInside = {
   slug: "aurora-all-is-soft-inside",
   title: "All Is Soft Inside",
   artist: "aurora",
-  externalId: "23f8e867-e494-4226-94a5-b6207f29a657",
-  externalLink: "https://musicbrainz.org/work/23f8e867-e494-4226-94a5-b6207f29a657",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "23f8e867-e494-4226-94a5-b6207f29a657",
+      externalLink: "https://musicbrainz.org/work/23f8e867-e494-4226-94a5-b6207f29a657",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

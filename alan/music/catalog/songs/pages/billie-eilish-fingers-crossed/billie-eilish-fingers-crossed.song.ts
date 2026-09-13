@@ -6,10 +6,14 @@ export const billieEilishFingersCrossed = {
   slug: "billie-eilish-fingers-crossed",
   title: "Fingers Crossed",
   artist: "billie-eilish",
-  externalId: "65d335b9-89f7-4dfe-8911-4e13108286c0",
-  externalLink: "https://musicbrainz.org/work/65d335b9-89f7-4dfe-8911-4e13108286c0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "65d335b9-89f7-4dfe-8911-4e13108286c0",
+      externalLink: "https://musicbrainz.org/work/65d335b9-89f7-4dfe-8911-4e13108286c0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const arianaGrandeSweetener = {
   slug: "ariana-grande-sweetener",
   title: "sweetener",
   artist: "ariana-grande",
-  externalId: "c84d34d7-7a6f-4a7c-8ef8-2d27e20cf743",
-  externalLink: "https://musicbrainz.org/work/c84d34d7-7a6f-4a7c-8ef8-2d27e20cf743",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c84d34d7-7a6f-4a7c-8ef8-2d27e20cf743",
+      externalLink: "https://musicbrainz.org/work/c84d34d7-7a6f-4a7c-8ef8-2d27e20cf743",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

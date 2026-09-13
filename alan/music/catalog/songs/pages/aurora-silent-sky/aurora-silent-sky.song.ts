@@ -6,10 +6,14 @@ export const auroraSilentSky = {
   slug: "aurora-silent-sky",
   title: "Silent Sky",
   artist: "aurora",
-  externalId: "787cc6e3-5fd9-4730-b486-09fa618ad6cd",
-  externalLink: "https://musicbrainz.org/work/787cc6e3-5fd9-4730-b486-09fa618ad6cd",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "787cc6e3-5fd9-4730-b486-09fa618ad6cd",
+      externalLink: "https://musicbrainz.org/work/787cc6e3-5fd9-4730-b486-09fa618ad6cd",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

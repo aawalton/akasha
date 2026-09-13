@@ -6,10 +6,14 @@ export const billieEilishListenBeforeIGo = {
   slug: "billie-eilish-listen-before-i-go",
   title: "listen before i go",
   artist: "billie-eilish",
-  externalId: "136522e5-ba6c-4350-9202-f564976a43d1",
-  externalLink: "https://musicbrainz.org/work/136522e5-ba6c-4350-9202-f564976a43d1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "136522e5-ba6c-4350-9202-f564976a43d1",
+      externalLink: "https://musicbrainz.org/work/136522e5-ba6c-4350-9202-f564976a43d1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

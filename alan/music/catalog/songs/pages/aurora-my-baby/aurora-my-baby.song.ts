@@ -6,10 +6,14 @@ export const auroraMyBaby = {
   slug: "aurora-my-baby",
   title: "MY BABY",
   artist: "aurora",
-  externalId: "6accab02-9406-49ca-9857-c426baf8e06c",
-  externalLink: "https://musicbrainz.org/work/6accab02-9406-49ca-9857-c426baf8e06c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6accab02-9406-49ca-9857-c426baf8e06c",
+      externalLink: "https://musicbrainz.org/work/6accab02-9406-49ca-9857-c426baf8e06c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   lyricsSource: "lrclib",

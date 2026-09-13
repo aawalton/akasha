@@ -6,10 +6,14 @@ export const billieEilishUKnowWhatSUp = {
   slug: "billie-eilish-u-know-what-s-up",
   title: "U Know What’s Up",
   artist: "billie-eilish",
-  externalId: "45b4e247-ac18-4583-84e6-5ec2f90b61a9",
-  externalLink: "https://musicbrainz.org/work/45b4e247-ac18-4583-84e6-5ec2f90b61a9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "45b4e247-ac18-4583-84e6-5ec2f90b61a9",
+      externalLink: "https://musicbrainz.org/work/45b4e247-ac18-4583-84e6-5ec2f90b61a9",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

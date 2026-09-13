@@ -6,10 +6,14 @@ export const billieEilishAnotherStupidSong = {
   slug: "billie-eilish-another-stupid-song",
   title: "another stupid song",
   artist: "billie-eilish",
-  externalId: "26e23d15-8b14-476f-9d0e-16404b4435dc",
-  externalLink: "https://musicbrainz.org/work/26e23d15-8b14-476f-9d0e-16404b4435dc",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "26e23d15-8b14-476f-9d0e-16404b4435dc",
+      externalLink: "https://musicbrainz.org/work/26e23d15-8b14-476f-9d0e-16404b4435dc",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

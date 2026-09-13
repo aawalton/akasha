@@ -6,10 +6,14 @@ export const arianaGrandeTrueLove = {
   slug: "ariana-grande-true-love",
   title: "True Love",
   artist: "ariana-grande",
-  externalId: "a9e509b1-f1f8-4a7a-8593-5d03daae408b",
-  externalLink: "https://musicbrainz.org/work/a9e509b1-f1f8-4a7a-8593-5d03daae408b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a9e509b1-f1f8-4a7a-8593-5d03daae408b",
+      externalLink: "https://musicbrainz.org/work/a9e509b1-f1f8-4a7a-8593-5d03daae408b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

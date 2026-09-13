@@ -6,10 +6,14 @@ export const arianaGrandePiano = {
   slug: "ariana-grande-piano",
   title: "Piano",
   artist: "ariana-grande",
-  externalId: "efc1df0c-9a48-43f6-9415-c08af6ef4f7b",
-  externalLink: "https://musicbrainz.org/work/efc1df0c-9a48-43f6-9415-c08af6ef4f7b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "efc1df0c-9a48-43f6-9415-c08af6ef4f7b",
+      externalLink: "https://musicbrainz.org/work/efc1df0c-9a48-43f6-9415-c08af6ef4f7b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

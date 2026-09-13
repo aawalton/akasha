@@ -6,10 +6,14 @@ export const arianaGrandeSometimes = {
   slug: "ariana-grande-sometimes",
   title: "Sometimes",
   artist: "ariana-grande",
-  externalId: "9555d836-0483-486c-b90f-f08eb66c8c3a",
-  externalLink: "https://musicbrainz.org/work/9555d836-0483-486c-b90f-f08eb66c8c3a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9555d836-0483-486c-b90f-f08eb66c8c3a",
+      externalLink: "https://musicbrainz.org/work/9555d836-0483-486c-b90f-f08eb66c8c3a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

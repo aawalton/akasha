@@ -6,10 +6,14 @@ export const arianaGrandeMakeUp = {
   slug: "ariana-grande-make-up",
   title: "make up",
   artist: "ariana-grande",
-  externalId: "74219af4-5733-4333-a751-e465dda3ffed",
-  externalLink: "https://musicbrainz.org/work/74219af4-5733-4333-a751-e465dda3ffed",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "74219af4-5733-4333-a751-e465dda3ffed",
+      externalLink: "https://musicbrainz.org/work/74219af4-5733-4333-a751-e465dda3ffed",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

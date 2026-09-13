@@ -6,10 +6,14 @@ export const arianaGrandeTime = {
   slug: "ariana-grande-time",
   title: "Time",
   artist: "ariana-grande",
-  externalId: "8f587596-84b4-4583-b559-e43de0bd3718",
-  externalLink: "https://musicbrainz.org/work/8f587596-84b4-4583-b559-e43de0bd3718",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8f587596-84b4-4583-b559-e43de0bd3718",
+      externalLink: "https://musicbrainz.org/work/8f587596-84b4-4583-b559-e43de0bd3718",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

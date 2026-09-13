@@ -6,10 +6,14 @@ export const arianaGrandeMyFavoritePart = {
   slug: "ariana-grande-my-favorite-part",
   title: "My Favorite Part",
   artist: "ariana-grande",
-  externalId: "c5175673-e2e2-4fbe-b8c3-0038a6bb72eb",
-  externalLink: "https://musicbrainz.org/work/c5175673-e2e2-4fbe-b8c3-0038a6bb72eb",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c5175673-e2e2-4fbe-b8c3-0038a6bb72eb",
+      externalLink: "https://musicbrainz.org/work/c5175673-e2e2-4fbe-b8c3-0038a6bb72eb",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

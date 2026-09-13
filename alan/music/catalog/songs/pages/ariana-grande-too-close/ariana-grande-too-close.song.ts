@@ -6,10 +6,14 @@ export const arianaGrandeTooClose = {
   slug: "ariana-grande-too-close",
   title: "Too Close",
   artist: "ariana-grande",
-  externalId: "6115c215-ef85-4c6c-ac8d-6308f11b4c2e",
-  externalLink: "https://musicbrainz.org/work/6115c215-ef85-4c6c-ac8d-6308f11b4c2e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6115c215-ef85-4c6c-ac8d-6308f11b4c2e",
+      externalLink: "https://musicbrainz.org/work/6115c215-ef85-4c6c-ac8d-6308f11b4c2e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const arianaGrandeDearOldShiz = {
   slug: "ariana-grande-dear-old-shiz",
   title: "Dear Old Shiz",
   artist: "ariana-grande",
-  externalId: "c69d9717-ddc6-4747-951d-09b110af97e5",
-  externalLink: "https://musicbrainz.org/work/c69d9717-ddc6-4747-951d-09b110af97e5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c69d9717-ddc6-4747-951d-09b110af97e5",
+      externalLink: "https://musicbrainz.org/work/c69d9717-ddc6-4747-951d-09b110af97e5",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

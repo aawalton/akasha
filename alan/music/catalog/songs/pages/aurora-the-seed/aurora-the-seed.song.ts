@@ -6,10 +6,14 @@ export const auroraTheSeed = {
   slug: "aurora-the-seed",
   title: "The Seed",
   artist: "aurora",
-  externalId: "43f7f67b-3e08-4a98-a26e-2026b10d3fa0",
-  externalLink: "https://musicbrainz.org/work/43f7f67b-3e08-4a98-a26e-2026b10d3fa0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "43f7f67b-3e08-4a98-a26e-2026b10d3fa0",
+      externalLink: "https://musicbrainz.org/work/43f7f67b-3e08-4a98-a26e-2026b10d3fa0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const arianaGrandeIWishIHatedYou = {
   slug: "ariana-grande-i-wish-i-hated-you",
   title: "i wish i hated you",
   artist: "ariana-grande",
-  externalId: "4bacb923-79cd-46c9-8d36-80fe942850b6",
-  externalLink: "https://musicbrainz.org/work/4bacb923-79cd-46c9-8d36-80fe942850b6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4bacb923-79cd-46c9-8d36-80fe942850b6",
+      externalLink: "https://musicbrainz.org/work/4bacb923-79cd-46c9-8d36-80fe942850b6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

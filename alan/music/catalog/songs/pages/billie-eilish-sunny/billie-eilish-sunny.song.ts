@@ -6,10 +6,14 @@ export const billieEilishSunny = {
   slug: "billie-eilish-sunny",
   title: "Sunny",
   artist: "billie-eilish",
-  externalId: "508118f4-56ef-318f-aeae-04ad21759e68",
-  externalLink: "https://musicbrainz.org/work/508118f4-56ef-318f-aeae-04ad21759e68",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "508118f4-56ef-318f-aeae-04ad21759e68",
+      externalLink: "https://musicbrainz.org/work/508118f4-56ef-318f-aeae-04ad21759e68",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

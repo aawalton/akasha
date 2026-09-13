@@ -6,10 +6,14 @@ export const arianaGrandePeteDavidson = {
   slug: "ariana-grande-pete-davidson",
   title: "pete davidson",
   artist: "ariana-grande",
-  externalId: "dbe81153-81fb-4009-a2a7-27e78d8d05ce",
-  externalLink: "https://musicbrainz.org/work/dbe81153-81fb-4009-a2a7-27e78d8d05ce",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "dbe81153-81fb-4009-a2a7-27e78d8d05ce",
+      externalLink: "https://musicbrainz.org/work/dbe81153-81fb-4009-a2a7-27e78d8d05ce",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

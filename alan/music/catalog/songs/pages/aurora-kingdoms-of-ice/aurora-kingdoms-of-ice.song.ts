@@ -6,10 +6,14 @@ export const auroraKingdomsOfIce = {
   slug: "aurora-kingdoms-of-ice",
   title: "Kingdoms of Ice",
   artist: "aurora",
-  externalId: "80ac1fa8-a5ae-4ca3-b0b6-636ab4137e5c",
-  externalLink: "https://musicbrainz.org/work/80ac1fa8-a5ae-4ca3-b0b6-636ab4137e5c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "80ac1fa8-a5ae-4ca3-b0b6-636ab4137e5c",
+      externalLink: "https://musicbrainz.org/work/80ac1fa8-a5ae-4ca3-b0b6-636ab4137e5c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

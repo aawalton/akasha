@@ -6,10 +6,14 @@ export const auroraCompanionship = {
   slug: "aurora-companionship",
   title: "Companionship",
   artist: "aurora",
-  externalId: "9235a327-1483-4e04-a47b-9429b4a220b3",
-  externalLink: "https://musicbrainz.org/work/9235a327-1483-4e04-a47b-9429b4a220b3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9235a327-1483-4e04-a47b-9429b4a220b3",
+      externalLink: "https://musicbrainz.org/work/9235a327-1483-4e04-a47b-9429b4a220b3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

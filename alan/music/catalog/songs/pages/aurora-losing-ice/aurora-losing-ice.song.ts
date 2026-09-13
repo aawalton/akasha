@@ -6,10 +6,14 @@ export const auroraLosingIce = {
   slug: "aurora-losing-ice",
   title: "Losing Ice",
   artist: "aurora",
-  externalId: "46e6c53c-9ff5-461b-ac0b-b645a6cfe2f5",
-  externalLink: "https://musicbrainz.org/work/46e6c53c-9ff5-461b-ac0b-b645a6cfe2f5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "46e6c53c-9ff5-461b-ac0b-b645a6cfe2f5",
+      externalLink: "https://musicbrainz.org/work/46e6c53c-9ff5-461b-ac0b-b645a6cfe2f5",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

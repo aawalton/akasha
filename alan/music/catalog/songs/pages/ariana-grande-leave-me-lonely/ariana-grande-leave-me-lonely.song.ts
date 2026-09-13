@@ -6,10 +6,14 @@ export const arianaGrandeLeaveMeLonely = {
   slug: "ariana-grande-leave-me-lonely",
   title: "Leave Me Lonely",
   artist: "ariana-grande",
-  externalId: "da3f0e90-6a3e-4838-9453-514c4497f246",
-  externalLink: "https://musicbrainz.org/work/da3f0e90-6a3e-4838-9453-514c4497f246",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "da3f0e90-6a3e-4838-9453-514c4497f246",
+      externalLink: "https://musicbrainz.org/work/da3f0e90-6a3e-4838-9453-514c4497f246",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

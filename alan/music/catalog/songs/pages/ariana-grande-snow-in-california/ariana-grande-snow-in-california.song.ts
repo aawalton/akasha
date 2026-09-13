@@ -6,10 +6,14 @@ export const arianaGrandeSnowInCalifornia = {
   slug: "ariana-grande-snow-in-california",
   title: "Snow in California",
   artist: "ariana-grande",
-  externalId: "4bd0921e-537d-405a-b9df-00ffcdd393ab",
-  externalLink: "https://musicbrainz.org/work/4bd0921e-537d-405a-b9df-00ffcdd393ab",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4bd0921e-537d-405a-b9df-00ffcdd393ab",
+      externalLink: "https://musicbrainz.org/work/4bd0921e-537d-405a-b9df-00ffcdd393ab",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const billieEilishIDidnTChangeMyNumber = {
   slug: "billie-eilish-i-didn-t-change-my-number",
   title: "I Didn’t Change My Number",
   artist: "billie-eilish",
-  externalId: "ac61a0fa-3546-4eba-bf40-777b1a692906",
-  externalLink: "https://musicbrainz.org/work/ac61a0fa-3546-4eba-bf40-777b1a692906",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ac61a0fa-3546-4eba-bf40-777b1a692906",
+      externalLink: "https://musicbrainz.org/work/ac61a0fa-3546-4eba-bf40-777b1a692906",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

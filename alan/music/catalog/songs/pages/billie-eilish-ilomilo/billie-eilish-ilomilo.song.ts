@@ -6,10 +6,14 @@ export const billieEilishIlomilo = {
   slug: "billie-eilish-ilomilo",
   title: "ilomilo",
   artist: "billie-eilish",
-  externalId: "79df5dad-8c17-41c4-b706-5fe5c9b6c9c3",
-  externalLink: "https://musicbrainz.org/work/79df5dad-8c17-41c4-b706-5fe5c9b6c9c3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "79df5dad-8c17-41c4-b706-5fe5c9b6c9c3",
+      externalLink: "https://musicbrainz.org/work/79df5dad-8c17-41c4-b706-5fe5c9b6c9c3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

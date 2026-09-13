@@ -6,10 +6,14 @@ export const billieEilishLoVasAOlvidar = {
   slug: "billie-eilish-lo-vas-a-olvidar",
   title: "Lo vas a olvidar",
   artist: "billie-eilish",
-  externalId: "e1047e91-58a5-4847-a8c9-a8372477d290",
-  externalLink: "https://musicbrainz.org/work/e1047e91-58a5-4847-a8c9-a8372477d290",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e1047e91-58a5-4847-a8c9-a8372477d290",
+      externalLink: "https://musicbrainz.org/work/e1047e91-58a5-4847-a8c9-a8372477d290",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

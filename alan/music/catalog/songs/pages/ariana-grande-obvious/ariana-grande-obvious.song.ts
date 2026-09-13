@@ -6,10 +6,14 @@ export const arianaGrandeObvious = {
   slug: "ariana-grande-obvious",
   title: "obvious",
   artist: "ariana-grande",
-  externalId: "388c06d5-43b7-42ab-98f2-214acd844616",
-  externalLink: "https://musicbrainz.org/work/388c06d5-43b7-42ab-98f2-214acd844616",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "388c06d5-43b7-42ab-98f2-214acd844616",
+      externalLink: "https://musicbrainz.org/work/388c06d5-43b7-42ab-98f2-214acd844616",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

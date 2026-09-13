@@ -6,10 +6,14 @@ export const billieEilishHalleySComet = {
   slug: "billie-eilish-halley-s-comet",
   title: "Halley’s Comet",
   artist: "billie-eilish",
-  externalId: "4ad19067-b543-4a1e-9c70-7f2367ecb91b",
-  externalLink: "https://musicbrainz.org/work/4ad19067-b543-4a1e-9c70-7f2367ecb91b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4ad19067-b543-4a1e-9c70-7f2367ecb91b",
+      externalLink: "https://musicbrainz.org/work/4ad19067-b543-4a1e-9c70-7f2367ecb91b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

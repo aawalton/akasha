@@ -6,10 +6,14 @@ export const arianaGrandeProblem = {
   slug: "ariana-grande-problem",
   title: "Problem",
   artist: "ariana-grande",
-  externalId: "2078d63c-69ad-4696-8e04-82ef6735a669",
-  externalLink: "https://musicbrainz.org/work/2078d63c-69ad-4696-8e04-82ef6735a669",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2078d63c-69ad-4696-8e04-82ef6735a669",
+      externalLink: "https://musicbrainz.org/work/2078d63c-69ad-4696-8e04-82ef6735a669",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

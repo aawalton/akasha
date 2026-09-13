@@ -6,10 +6,14 @@ export const auroraArrivalOfSpring = {
   slug: "aurora-arrival-of-spring",
   title: "Arrival of Spring",
   artist: "aurora",
-  externalId: "35295b77-b090-4709-b205-3813495548c5",
-  externalLink: "https://musicbrainz.org/work/35295b77-b090-4709-b205-3813495548c5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "35295b77-b090-4709-b205-3813495548c5",
+      externalLink: "https://musicbrainz.org/work/35295b77-b090-4709-b205-3813495548c5",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

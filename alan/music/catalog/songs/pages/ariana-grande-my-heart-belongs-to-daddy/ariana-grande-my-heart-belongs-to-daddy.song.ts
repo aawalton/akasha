@@ -6,10 +6,14 @@ export const arianaGrandeMyHeartBelongsToDaddy = {
   slug: "ariana-grande-my-heart-belongs-to-daddy",
   title: "My Heart Belongs to Daddy",
   artist: "ariana-grande",
-  externalId: "f913cde7-5418-3a1d-bbe5-01f1b65c688e",
-  externalLink: "https://musicbrainz.org/work/f913cde7-5418-3a1d-bbe5-01f1b65c688e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f913cde7-5418-3a1d-bbe5-01f1b65c688e",
+      externalLink: "https://musicbrainz.org/work/f913cde7-5418-3a1d-bbe5-01f1b65c688e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

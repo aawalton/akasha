@@ -6,10 +6,14 @@ export const arianaGrandeMyHair = {
   slug: "ariana-grande-my-hair",
   title: "my hair",
   artist: "ariana-grande",
-  externalId: "f323d6ff-af12-473c-b5a4-fedac89e2549",
-  externalLink: "https://musicbrainz.org/work/f323d6ff-af12-473c-b5a4-fedac89e2549",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f323d6ff-af12-473c-b5a4-fedac89e2549",
+      externalLink: "https://musicbrainz.org/work/f323d6ff-af12-473c-b5a4-fedac89e2549",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

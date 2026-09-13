@@ -6,10 +6,14 @@ export const auroraAcrossTheUniverse = {
   slug: "aurora-across-the-universe",
   title: "Across the Universe",
   artist: "aurora",
-  externalId: "236fc506-2afa-3c4c-b5f9-50640c56cd9b",
-  externalLink: "https://musicbrainz.org/work/236fc506-2afa-3c4c-b5f9-50640c56cd9b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "236fc506-2afa-3c4c-b5f9-50640c56cd9b",
+      externalLink: "https://musicbrainz.org/work/236fc506-2afa-3c4c-b5f9-50640c56cd9b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

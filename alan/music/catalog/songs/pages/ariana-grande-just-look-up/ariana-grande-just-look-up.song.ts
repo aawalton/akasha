@@ -6,10 +6,14 @@ export const arianaGrandeJustLookUp = {
   slug: "ariana-grande-just-look-up",
   title: "Just Look Up",
   artist: "ariana-grande",
-  externalId: "6281e728-29f5-45b3-a466-c7fa96528d82",
-  externalLink: "https://musicbrainz.org/work/6281e728-29f5-45b3-a466-c7fa96528d82",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6281e728-29f5-45b3-a466-c7fa96528d82",
+      externalLink: "https://musicbrainz.org/work/6281e728-29f5-45b3-a466-c7fa96528d82",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

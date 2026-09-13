@@ -6,10 +6,14 @@ export const billieEilishBitchesBrokenHearts = {
   slug: "billie-eilish-bitches-broken-hearts",
   title: "bitches broken hearts",
   artist: "billie-eilish",
-  externalId: "2e63fa9c-0010-4ae8-9690-47b9efd1dcbd",
-  externalLink: "https://musicbrainz.org/work/2e63fa9c-0010-4ae8-9690-47b9efd1dcbd",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2e63fa9c-0010-4ae8-9690-47b9efd1dcbd",
+      externalLink: "https://musicbrainz.org/work/2e63fa9c-0010-4ae8-9690-47b9efd1dcbd",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

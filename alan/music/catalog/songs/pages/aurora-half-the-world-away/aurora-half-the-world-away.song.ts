@@ -6,10 +6,14 @@ export const auroraHalfTheWorldAway = {
   slug: "aurora-half-the-world-away",
   title: "Half the World Away",
   artist: "aurora",
-  externalId: "e8f3e2c8-7ad3-48cf-9394-616d1aca0708",
-  externalLink: "https://musicbrainz.org/work/e8f3e2c8-7ad3-48cf-9394-616d1aca0708",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e8f3e2c8-7ad3-48cf-9394-616d1aca0708",
+      externalLink: "https://musicbrainz.org/work/e8f3e2c8-7ad3-48cf-9394-616d1aca0708",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

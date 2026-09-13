@@ -6,10 +6,14 @@ export const auroraSomeTypeOfSkin = {
   slug: "aurora-some-type-of-skin",
   title: "Some Type of Skin",
   artist: "aurora",
-  externalId: "90d0ad13-a202-4487-9c23-709b08085994",
-  externalLink: "https://musicbrainz.org/work/90d0ad13-a202-4487-9c23-709b08085994",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "90d0ad13-a202-4487-9c23-709b08085994",
+      externalLink: "https://musicbrainz.org/work/90d0ad13-a202-4487-9c23-709b08085994",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

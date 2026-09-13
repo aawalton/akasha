@@ -6,10 +6,14 @@ export const arianaGrandeOverTheRainbow = {
   slug: "ariana-grande-over-the-rainbow",
   title: "Over the Rainbow",
   artist: "ariana-grande",
-  externalId: "f8217125-b460-3902-8903-82979e3785ee",
-  externalLink: "https://musicbrainz.org/work/f8217125-b460-3902-8903-82979e3785ee",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f8217125-b460-3902-8903-82979e3785ee",
+      externalLink: "https://musicbrainz.org/work/f8217125-b460-3902-8903-82979e3785ee",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

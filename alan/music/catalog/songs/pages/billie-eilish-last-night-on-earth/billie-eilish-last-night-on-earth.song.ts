@@ -6,10 +6,14 @@ export const billieEilishLastNightOnEarth = {
   slug: "billie-eilish-last-night-on-earth",
   title: "Last Night on Earth",
   artist: "billie-eilish",
-  externalId: "f92ce0f8-c077-3ded-a787-ca6b43e146b5",
-  externalLink: "https://musicbrainz.org/work/f92ce0f8-c077-3ded-a787-ca6b43e146b5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f92ce0f8-c077-3ded-a787-ca6b43e146b5",
+      externalLink: "https://musicbrainz.org/work/f92ce0f8-c077-3ded-a787-ca6b43e146b5",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

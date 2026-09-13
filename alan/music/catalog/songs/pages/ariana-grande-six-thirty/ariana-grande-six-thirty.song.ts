@@ -6,10 +6,14 @@ export const arianaGrandeSixThirty = {
   slug: "ariana-grande-six-thirty",
   title: "six thirty",
   artist: "ariana-grande",
-  externalId: "3bab5d21-bc9c-44a5-a6df-4945eb6f387c",
-  externalLink: "https://musicbrainz.org/work/3bab5d21-bc9c-44a5-a6df-4945eb6f387c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3bab5d21-bc9c-44a5-a6df-4945eb6f387c",
+      externalLink: "https://musicbrainz.org/work/3bab5d21-bc9c-44a5-a6df-4945eb6f387c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

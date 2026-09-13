@@ -6,10 +6,14 @@ export const auroraRunaway = {
   slug: "aurora-runaway",
   title: "Runaway",
   artist: "aurora",
-  externalId: "0200883f-75ce-4a49-90e9-3305f331844b",
-  externalLink: "https://musicbrainz.org/work/0200883f-75ce-4a49-90e9-3305f331844b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0200883f-75ce-4a49-90e9-3305f331844b",
+      externalLink: "https://musicbrainz.org/work/0200883f-75ce-4a49-90e9-3305f331844b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

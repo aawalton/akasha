@@ -6,10 +6,14 @@ export const arianaGrandeStuckWithU = {
   slug: "ariana-grande-stuck-with-u",
   title: "Stuck with U",
   artist: "ariana-grande",
-  externalId: "a29bb527-d829-4d0c-8901-f7dbad28325d",
-  externalLink: "https://musicbrainz.org/work/a29bb527-d829-4d0c-8901-f7dbad28325d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a29bb527-d829-4d0c-8901-f7dbad28325d",
+      externalLink: "https://musicbrainz.org/work/a29bb527-d829-4d0c-8901-f7dbad28325d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

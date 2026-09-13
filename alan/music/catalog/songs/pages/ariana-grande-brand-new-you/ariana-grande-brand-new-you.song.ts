@@ -6,10 +6,14 @@ export const arianaGrandeBrandNewYou = {
   slug: "ariana-grande-brand-new-you",
   title: "Brand New You",
   artist: "ariana-grande",
-  externalId: "d86a28a4-984a-4137-b1dd-04a886afaef2",
-  externalLink: "https://musicbrainz.org/work/d86a28a4-984a-4137-b1dd-04a886afaef2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d86a28a4-984a-4137-b1dd-04a886afaef2",
+      externalLink: "https://musicbrainz.org/work/d86a28a4-984a-4137-b1dd-04a886afaef2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

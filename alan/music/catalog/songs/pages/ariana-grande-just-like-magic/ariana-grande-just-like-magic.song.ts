@@ -6,10 +6,14 @@ export const arianaGrandeJustLikeMagic = {
   slug: "ariana-grande-just-like-magic",
   title: "just like magic",
   artist: "ariana-grande",
-  externalId: "8ad9a295-c6ba-4dbc-8bbc-e49250ec8938",
-  externalLink: "https://musicbrainz.org/work/8ad9a295-c6ba-4dbc-8bbc-e49250ec8938",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8ad9a295-c6ba-4dbc-8bbc-e49250ec8938",
+      externalLink: "https://musicbrainz.org/work/8ad9a295-c6ba-4dbc-8bbc-e49250ec8938",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const billieEilishLAmourDeMaVie = {
   slug: "billie-eilish-l-amour-de-ma-vie",
   title: "L’AMOUR DE MA VIE",
   artist: "billie-eilish",
-  externalId: "93393adf-2f14-466c-bf05-e86e990370a6",
-  externalLink: "https://musicbrainz.org/work/93393adf-2f14-466c-bf05-e86e990370a6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "93393adf-2f14-466c-bf05-e86e990370a6",
+      externalLink: "https://musicbrainz.org/work/93393adf-2f14-466c-bf05-e86e990370a6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

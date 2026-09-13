@@ -6,10 +6,14 @@ export const arianaGrandeMamaIMABigGirlNow = {
   slug: "ariana-grande-mama-i-m-a-big-girl-now",
   title: "Mama, I’m a Big Girl Now",
   artist: "ariana-grande",
-  externalId: "c2048970-f983-3778-a3a9-d6e1ac501797",
-  externalLink: "https://musicbrainz.org/work/c2048970-f983-3778-a3a9-d6e1ac501797",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c2048970-f983-3778-a3a9-d6e1ac501797",
+      externalLink: "https://musicbrainz.org/work/c2048970-f983-3778-a3a9-d6e1ac501797",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

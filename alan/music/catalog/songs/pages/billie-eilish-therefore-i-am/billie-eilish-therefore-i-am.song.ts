@@ -6,10 +6,14 @@ export const billieEilishThereforeIAm = {
   slug: "billie-eilish-therefore-i-am",
   title: "Therefore I Am",
   artist: "billie-eilish",
-  externalId: "35117fd6-7860-48d5-8d33-4731b13c3816",
-  externalLink: "https://musicbrainz.org/work/35117fd6-7860-48d5-8d33-4731b13c3816",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "35117fd6-7860-48d5-8d33-4731b13c3816",
+      externalLink: "https://musicbrainz.org/work/35117fd6-7860-48d5-8d33-4731b13c3816",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const billieEilishTearMyselfApart = {
   slug: "billie-eilish-tear-myself-apart",
   title: "Tear Myself Apart",
   artist: "billie-eilish",
-  externalId: "1a27ada0-c7ec-48fa-9543-a72fd4fd2e9c",
-  externalLink: "https://musicbrainz.org/work/1a27ada0-c7ec-48fa-9543-a72fd4fd2e9c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1a27ada0-c7ec-48fa-9543-a72fd4fd2e9c",
+      externalLink: "https://musicbrainz.org/work/1a27ada0-c7ec-48fa-9543-a72fd4fd2e9c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

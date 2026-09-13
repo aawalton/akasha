@@ -6,10 +6,14 @@ export const billieEilish1TrueLove = {
   slug: "billie-eilish-1-true-love",
   title: "1 True Love",
   artist: "billie-eilish",
-  externalId: "997a5b50-5d0c-490f-bea6-e223c26b5f2e",
-  externalLink: "https://musicbrainz.org/work/997a5b50-5d0c-490f-bea6-e223c26b5f2e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "997a5b50-5d0c-490f-bea6-e223c26b5f2e",
+      externalLink: "https://musicbrainz.org/work/997a5b50-5d0c-490f-bea6-e223c26b5f2e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

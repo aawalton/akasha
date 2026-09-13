@@ -6,10 +6,14 @@ export const arianaGrandeALittleMoreHomework = {
   slug: "ariana-grande-a-little-more-homework",
   title: "A Little More Homework",
   artist: "ariana-grande",
-  externalId: "56884741-604d-4b31-8caf-b096b095ae68",
-  externalLink: "https://musicbrainz.org/work/56884741-604d-4b31-8caf-b096b095ae68",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "56884741-604d-4b31-8caf-b096b095ae68",
+      externalLink: "https://musicbrainz.org/work/56884741-604d-4b31-8caf-b096b095ae68",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

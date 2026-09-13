@@ -6,10 +6,14 @@ export const arianaGrandeResearch = {
   slug: "ariana-grande-research",
   title: "Research",
   artist: "ariana-grande",
-  externalId: "d44bd5d3-75f2-4054-bda2-e2a4e432701b",
-  externalLink: "https://musicbrainz.org/work/d44bd5d3-75f2-4054-bda2-e2a4e432701b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d44bd5d3-75f2-4054-bda2-e2a4e432701b",
+      externalLink: "https://musicbrainz.org/work/d44bd5d3-75f2-4054-bda2-e2a4e432701b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

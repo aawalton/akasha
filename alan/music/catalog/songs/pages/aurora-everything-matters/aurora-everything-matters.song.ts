@@ -6,10 +6,14 @@ export const auroraEverythingMatters = {
   slug: "aurora-everything-matters",
   title: "Everything Matters",
   artist: "aurora",
-  externalId: "2fdf2dff-5f8a-460a-a9a8-0fcc717e04d7",
-  externalLink: "https://musicbrainz.org/work/2fdf2dff-5f8a-460a-a9a8-0fcc717e04d7",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2fdf2dff-5f8a-460a-a9a8-0fcc717e04d7",
+      externalLink: "https://musicbrainz.org/work/2fdf2dff-5f8a-460a-a9a8-0fcc717e04d7",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

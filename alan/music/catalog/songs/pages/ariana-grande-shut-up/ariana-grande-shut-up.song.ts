@@ -6,10 +6,14 @@ export const arianaGrandeShutUp = {
   slug: "ariana-grande-shut-up",
   title: "shut up",
   artist: "ariana-grande",
-  externalId: "660bb459-44f6-4757-aff2-c1d5bcb24098",
-  externalLink: "https://musicbrainz.org/work/660bb459-44f6-4757-aff2-c1d5bcb24098",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "660bb459-44f6-4757-aff2-c1d5bcb24098",
+      externalLink: "https://musicbrainz.org/work/660bb459-44f6-4757-aff2-c1d5bcb24098",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

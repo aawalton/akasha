@@ -6,10 +6,14 @@ export const arianaGrandeBangBang = {
   slug: "ariana-grande-bang-bang",
   title: "Bang Bang",
   artist: "ariana-grande",
-  externalId: "a5067caf-7bf1-41ac-9564-f202659d1690",
-  externalLink: "https://musicbrainz.org/work/a5067caf-7bf1-41ac-9564-f202659d1690",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a5067caf-7bf1-41ac-9564-f202659d1690",
+      externalLink: "https://musicbrainz.org/work/a5067caf-7bf1-41ac-9564-f202659d1690",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

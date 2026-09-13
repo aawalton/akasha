@@ -6,10 +6,14 @@ export const arianaGrandeSaveYourTears = {
   slug: "ariana-grande-save-your-tears",
   title: "Save Your Tears",
   artist: "ariana-grande",
-  externalId: "c54dc70f-3d01-4560-b5e8-e8cbe12bf4b2",
-  externalLink: "https://musicbrainz.org/work/c54dc70f-3d01-4560-b5e8-e8cbe12bf4b2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c54dc70f-3d01-4560-b5e8-e8cbe12bf4b2",
+      externalLink: "https://musicbrainz.org/work/c54dc70f-3d01-4560-b5e8-e8cbe12bf4b2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

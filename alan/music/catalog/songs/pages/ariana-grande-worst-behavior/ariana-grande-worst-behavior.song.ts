@@ -6,10 +6,14 @@ export const arianaGrandeWorstBehavior = {
   slug: "ariana-grande-worst-behavior",
   title: "worst behavior",
   artist: "ariana-grande",
-  externalId: "daf8e16f-1414-44c4-a0eb-0b26ed9d660d",
-  externalLink: "https://musicbrainz.org/work/daf8e16f-1414-44c4-a0eb-0b26ed9d660d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "daf8e16f-1414-44c4-a0eb-0b26ed9d660d",
+      externalLink: "https://musicbrainz.org/work/daf8e16f-1414-44c4-a0eb-0b26ed9d660d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

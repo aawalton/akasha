@@ -6,10 +6,14 @@ export const arianaGrandeFakeSmile = {
   slug: "ariana-grande-fake-smile",
   title: "fake smile",
   artist: "ariana-grande",
-  externalId: "d3467912-987d-49a6-b76d-a9e395fe923b",
-  externalLink: "https://musicbrainz.org/work/d3467912-987d-49a6-b76d-a9e395fe923b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d3467912-987d-49a6-b76d-a9e395fe923b",
+      externalLink: "https://musicbrainz.org/work/d3467912-987d-49a6-b76d-a9e395fe923b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

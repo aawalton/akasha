@@ -6,10 +6,14 @@ export const billieEilishVideoGames = {
   slug: "billie-eilish-video-games",
   title: "Video Games",
   artist: "billie-eilish",
-  externalId: "dca9c2c2-ffbc-4ab6-9dee-c32deb3438d4",
-  externalLink: "https://musicbrainz.org/work/dca9c2c2-ffbc-4ab6-9dee-c32deb3438d4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "dca9c2c2-ffbc-4ab6-9dee-c32deb3438d4",
+      externalLink: "https://musicbrainz.org/work/dca9c2c2-ffbc-4ab6-9dee-c32deb3438d4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

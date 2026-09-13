@@ -6,10 +6,14 @@ export const arianaGrandeBorderline = {
   slug: "ariana-grande-borderline",
   title: "borderline",
   artist: "ariana-grande",
-  externalId: "c6b616e6-ced1-4692-b1ca-42a9c0f7e2d9",
-  externalLink: "https://musicbrainz.org/work/c6b616e6-ced1-4692-b1ca-42a9c0f7e2d9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c6b616e6-ced1-4692-b1ca-42a9c0f7e2d9",
+      externalLink: "https://musicbrainz.org/work/c6b616e6-ced1-4692-b1ca-42a9c0f7e2d9",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

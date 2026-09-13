@@ -6,10 +6,14 @@ export const billieEilishOxytocin = {
   slug: "billie-eilish-oxytocin",
   title: "Oxytocin",
   artist: "billie-eilish",
-  externalId: "cbd51937-25cc-4e17-aa0a-f9c733a05ab9",
-  externalLink: "https://musicbrainz.org/work/cbd51937-25cc-4e17-aa0a-f9c733a05ab9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "cbd51937-25cc-4e17-aa0a-f9c733a05ab9",
+      externalLink: "https://musicbrainz.org/work/cbd51937-25cc-4e17-aa0a-f9c733a05ab9",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

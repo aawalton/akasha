@@ -6,10 +6,14 @@ export const arianaGrandeNasa = {
   slug: "ariana-grande-nasa",
   title: "NASA",
   artist: "ariana-grande",
-  externalId: "d62ba737-11ca-4ae3-bdf4-93b3205dd15e",
-  externalLink: "https://musicbrainz.org/work/d62ba737-11ca-4ae3-bdf4-93b3205dd15e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d62ba737-11ca-4ae3-bdf4-93b3205dd15e",
+      externalLink: "https://musicbrainz.org/work/d62ba737-11ca-4ae3-bdf4-93b3205dd15e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

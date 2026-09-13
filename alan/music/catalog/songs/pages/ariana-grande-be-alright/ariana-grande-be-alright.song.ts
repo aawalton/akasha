@@ -6,10 +6,14 @@ export const arianaGrandeBeAlright = {
   slug: "ariana-grande-be-alright",
   title: "Be Alright",
   artist: "ariana-grande",
-  externalId: "67d75471-1309-4572-8b51-75e94f3f8612",
-  externalLink: "https://musicbrainz.org/work/67d75471-1309-4572-8b51-75e94f3f8612",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "67d75471-1309-4572-8b51-75e94f3f8612",
+      externalLink: "https://musicbrainz.org/work/67d75471-1309-4572-8b51-75e94f3f8612",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

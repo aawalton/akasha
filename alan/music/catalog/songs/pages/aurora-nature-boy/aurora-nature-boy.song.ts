@@ -6,10 +6,14 @@ export const auroraNatureBoy = {
   slug: "aurora-nature-boy",
   title: "Nature Boy",
   artist: "aurora",
-  externalId: "2e99ea26-6e86-3c23-879b-ecf44ab840fd",
-  externalLink: "https://musicbrainz.org/work/2e99ea26-6e86-3c23-879b-ecf44ab840fd",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2e99ea26-6e86-3c23-879b-ecf44ab840fd",
+      externalLink: "https://musicbrainz.org/work/2e99ea26-6e86-3c23-879b-ecf44ab840fd",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

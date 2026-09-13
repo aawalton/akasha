@@ -6,10 +6,14 @@ export const billieEilishFreaks = {
   slug: "billie-eilish-freaks",
   title: "Freaks",
   artist: "billie-eilish",
-  externalId: "50cca196-9ef2-454e-88e0-56863fdab25d",
-  externalLink: "https://musicbrainz.org/work/50cca196-9ef2-454e-88e0-56863fdab25d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "50cca196-9ef2-454e-88e0-56863fdab25d",
+      externalLink: "https://musicbrainz.org/work/50cca196-9ef2-454e-88e0-56863fdab25d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

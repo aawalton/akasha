@@ -6,10 +6,14 @@ export const arianaGrandeREM = {
   slug: "ariana-grande-r-e-m",
   title: "R.E.M",
   artist: "ariana-grande",
-  externalId: "9ce41b08-6c87-4776-9dc6-aa645ee7b8c8",
-  externalLink: "https://musicbrainz.org/work/9ce41b08-6c87-4776-9dc6-aa645ee7b8c8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9ce41b08-6c87-4776-9dc6-aa645ee7b8c8",
+      externalLink: "https://musicbrainz.org/work/9ce41b08-6c87-4776-9dc6-aa645ee7b8c8",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

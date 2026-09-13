@@ -6,10 +6,14 @@ export const billieEilishEverybodyDies = {
   slug: "billie-eilish-everybody-dies",
   title: "Everybody Dies",
   artist: "billie-eilish",
-  externalId: "610dc24d-f72f-4f22-b577-99b9bc8f2105",
-  externalLink: "https://musicbrainz.org/work/610dc24d-f72f-4f22-b577-99b9bc8f2105",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "610dc24d-f72f-4f22-b577-99b9bc8f2105",
+      externalLink: "https://musicbrainz.org/work/610dc24d-f72f-4f22-b577-99b9bc8f2105",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const arianaGrandeBye = {
   slug: "ariana-grande-bye",
   title: "bye",
   artist: "ariana-grande",
-  externalId: "92f286f7-2d62-42c9-8256-ff7e842ed10a",
-  externalLink: "https://musicbrainz.org/work/92f286f7-2d62-42c9-8256-ff7e842ed10a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "92f286f7-2d62-42c9-8256-ff7e842ed10a",
+      externalLink: "https://musicbrainz.org/work/92f286f7-2d62-42c9-8256-ff7e842ed10a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

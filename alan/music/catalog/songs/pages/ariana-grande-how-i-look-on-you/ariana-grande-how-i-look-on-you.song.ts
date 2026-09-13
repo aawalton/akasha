@@ -6,10 +6,14 @@ export const arianaGrandeHowILookOnYou = {
   slug: "ariana-grande-how-i-look-on-you",
   title: "How I Look on You",
   artist: "ariana-grande",
-  externalId: "e0a4d3d4-fe51-4c09-9369-f00ec9c65309",
-  externalLink: "https://musicbrainz.org/work/e0a4d3d4-fe51-4c09-9369-f00ec9c65309",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e0a4d3d4-fe51-4c09-9369-f00ec9c65309",
+      externalLink: "https://musicbrainz.org/work/e0a4d3d4-fe51-4c09-9369-f00ec9c65309",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

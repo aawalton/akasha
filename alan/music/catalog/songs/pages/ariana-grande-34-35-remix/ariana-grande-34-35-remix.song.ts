@@ -6,10 +6,14 @@ export const arianaGrande3435Remix = {
   slug: "ariana-grande-34-35-remix",
   title: "34+35 (remix)",
   artist: "ariana-grande",
-  externalId: "1ae8cc10-9bcd-4244-b2b1-3e2f88dddd06",
-  externalLink: "https://musicbrainz.org/work/1ae8cc10-9bcd-4244-b2b1-3e2f88dddd06",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1ae8cc10-9bcd-4244-b2b1-3e2f88dddd06",
+      externalLink: "https://musicbrainz.org/work/1ae8cc10-9bcd-4244-b2b1-3e2f88dddd06",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

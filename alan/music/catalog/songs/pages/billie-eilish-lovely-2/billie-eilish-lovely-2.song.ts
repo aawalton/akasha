@@ -6,10 +6,14 @@ export const billieEilishLovely2 = {
   slug: "billie-eilish-lovely-2",
   title: "lovely",
   artist: "billie-eilish",
-  externalId: "9164af15-8d8f-470a-8c06-0718b24bc4cf",
-  externalLink: "https://musicbrainz.org/work/9164af15-8d8f-470a-8c06-0718b24bc4cf",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9164af15-8d8f-470a-8c06-0718b24bc4cf",
+      externalLink: "https://musicbrainz.org/work/9164af15-8d8f-470a-8c06-0718b24bc4cf",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

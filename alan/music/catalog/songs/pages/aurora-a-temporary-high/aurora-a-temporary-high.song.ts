@@ -6,10 +6,14 @@ export const auroraATemporaryHigh = {
   slug: "aurora-a-temporary-high",
   title: "A Temporary High",
   artist: "aurora",
-  externalId: "0497b490-20e9-4cd6-b998-4f25ed12ed19",
-  externalLink: "https://musicbrainz.org/work/0497b490-20e9-4cd6-b998-4f25ed12ed19",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0497b490-20e9-4cd6-b998-4f25ed12ed19",
+      externalLink: "https://musicbrainz.org/work/0497b490-20e9-4cd6-b998-4f25ed12ed19",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const billieEilishSixFeetUnder = {
   slug: "billie-eilish-six-feet-under",
   title: "Six Feet Under",
   artist: "billie-eilish",
-  externalId: "c10c966a-65c9-4e8a-ade7-868d4dade77d",
-  externalLink: "https://musicbrainz.org/work/c10c966a-65c9-4e8a-ade7-868d4dade77d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c10c966a-65c9-4e8a-ade7-868d4dade77d",
+      externalLink: "https://musicbrainz.org/work/c10c966a-65c9-4e8a-ade7-868d4dade77d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

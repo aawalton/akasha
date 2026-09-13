@@ -6,10 +6,14 @@ export const auroraPinkMoon = {
   slug: "aurora-pink-moon",
   title: "Pink Moon",
   artist: "aurora",
-  externalId: "90a98928-f58a-3607-b534-ae5cb5e3e429",
-  externalLink: "https://musicbrainz.org/work/90a98928-f58a-3607-b534-ae5cb5e3e429",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "90a98928-f58a-3607-b534-ae5cb5e3e429",
+      externalLink: "https://musicbrainz.org/work/90a98928-f58a-3607-b534-ae5cb5e3e429",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

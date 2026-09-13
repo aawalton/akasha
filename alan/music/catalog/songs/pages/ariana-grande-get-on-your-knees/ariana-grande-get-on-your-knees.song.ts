@@ -6,10 +6,14 @@ export const arianaGrandeGetOnYourKnees = {
   slug: "ariana-grande-get-on-your-knees",
   title: "Get on Your Knees",
   artist: "ariana-grande",
-  externalId: "47ef00c7-fe59-4a6e-b937-8a716fc6bf27",
-  externalLink: "https://musicbrainz.org/work/47ef00c7-fe59-4a6e-b937-8a716fc6bf27",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "47ef00c7-fe59-4a6e-b937-8a716fc6bf27",
+      externalLink: "https://musicbrainz.org/work/47ef00c7-fe59-4a6e-b937-8a716fc6bf27",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

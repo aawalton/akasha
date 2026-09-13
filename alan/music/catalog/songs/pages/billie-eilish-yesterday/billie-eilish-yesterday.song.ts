@@ -6,10 +6,14 @@ export const billieEilishYesterday = {
   slug: "billie-eilish-yesterday",
   title: "Yesterday",
   artist: "billie-eilish",
-  externalId: "0c80db24-389e-3620-8e0b-84dc2b7c009a",
-  externalLink: "https://musicbrainz.org/work/0c80db24-389e-3620-8e0b-84dc2b7c009a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0c80db24-389e-3620-8e0b-84dc2b7c009a",
+      externalLink: "https://musicbrainz.org/work/0c80db24-389e-3620-8e0b-84dc2b7c009a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

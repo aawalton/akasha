@@ -6,10 +6,14 @@ export const arianaGrandeTheWay = {
   slug: "ariana-grande-the-way",
   title: "The Way",
   artist: "ariana-grande",
-  externalId: "695398e2-7398-4689-95cc-5ec0a97183cd",
-  externalLink: "https://musicbrainz.org/work/695398e2-7398-4689-95cc-5ec0a97183cd",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "695398e2-7398-4689-95cc-5ec0a97183cd",
+      externalLink: "https://musicbrainz.org/work/695398e2-7398-4689-95cc-5ec0a97183cd",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

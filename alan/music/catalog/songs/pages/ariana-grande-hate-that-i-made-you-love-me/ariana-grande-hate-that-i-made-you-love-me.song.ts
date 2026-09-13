@@ -6,10 +6,14 @@ export const arianaGrandeHateThatIMadeYouLoveMe = {
   slug: "ariana-grande-hate-that-i-made-you-love-me",
   title: "hate that i made you love me",
   artist: "ariana-grande",
-  externalId: "0a5275fb-630a-44ed-9346-5e64ac1f830a",
-  externalLink: "https://musicbrainz.org/work/0a5275fb-630a-44ed-9346-5e64ac1f830a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0a5275fb-630a-44ed-9346-5e64ac1f830a",
+      externalLink: "https://musicbrainz.org/work/0a5275fb-630a-44ed-9346-5e64ac1f830a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

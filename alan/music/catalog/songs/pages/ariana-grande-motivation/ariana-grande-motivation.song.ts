@@ -6,10 +6,14 @@ export const arianaGrandeMotivation = {
   slug: "ariana-grande-motivation",
   title: "Motivation",
   artist: "ariana-grande",
-  externalId: "b3d01a08-d801-4857-9563-a778bb7f1470",
-  externalLink: "https://musicbrainz.org/work/b3d01a08-d801-4857-9563-a778bb7f1470",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b3d01a08-d801-4857-9563-a778bb7f1470",
+      externalLink: "https://musicbrainz.org/work/b3d01a08-d801-4857-9563-a778bb7f1470",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

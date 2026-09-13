@@ -6,10 +6,14 @@ export const arianaGrandeAdore = {
   slug: "ariana-grande-adore",
   title: "Adore",
   artist: "ariana-grande",
-  externalId: "664f655a-0eb9-45ea-a7bc-65f704c97a8f",
-  externalLink: "https://musicbrainz.org/work/664f655a-0eb9-45ea-a7bc-65f704c97a8f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "664f655a-0eb9-45ea-a7bc-65f704c97a8f",
+      externalLink: "https://musicbrainz.org/work/664f655a-0eb9-45ea-a7bc-65f704c97a8f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

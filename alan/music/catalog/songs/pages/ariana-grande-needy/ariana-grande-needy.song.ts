@@ -6,10 +6,14 @@ export const arianaGrandeNeedy = {
   slug: "ariana-grande-needy",
   title: "needy",
   artist: "ariana-grande",
-  externalId: "db238bb2-23e9-42e4-9d00-21f654742602",
-  externalLink: "https://musicbrainz.org/work/db238bb2-23e9-42e4-9d00-21f654742602",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "db238bb2-23e9-42e4-9d00-21f654742602",
+      externalLink: "https://musicbrainz.org/work/db238bb2-23e9-42e4-9d00-21f654742602",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

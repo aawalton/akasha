@@ -6,10 +6,14 @@ export const auroraHaveYouSeenMeDanceAlone = {
   slug: "aurora-have-you-seen-me-dance-alone",
   title: "HAVE YOU SEEN ME DANCE ALONE",
   artist: "aurora",
-  externalId: "94edfe87-1da2-4eb5-b5f0-83e8fb292b1e",
-  externalLink: "https://musicbrainz.org/work/94edfe87-1da2-4eb5-b5f0-83e8fb292b1e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "94edfe87-1da2-4eb5-b5f0-83e8fb292b1e",
+      externalLink: "https://musicbrainz.org/work/94edfe87-1da2-4eb5-b5f0-83e8fb292b1e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   lyricsSource: "lrclib",

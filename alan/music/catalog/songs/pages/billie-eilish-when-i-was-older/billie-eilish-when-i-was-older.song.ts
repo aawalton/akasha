@@ -6,10 +6,14 @@ export const billieEilishWhenIWasOlder = {
   slug: "billie-eilish-when-i-was-older",
   title: "WHEN I WAS OLDER",
   artist: "billie-eilish",
-  externalId: "62f538a4-8c6f-4556-b908-52d539754169",
-  externalLink: "https://musicbrainz.org/work/62f538a4-8c6f-4556-b908-52d539754169",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "62f538a4-8c6f-4556-b908-52d539754169",
+      externalLink: "https://musicbrainz.org/work/62f538a4-8c6f-4556-b908-52d539754169",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

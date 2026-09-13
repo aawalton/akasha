@@ -6,10 +6,14 @@ export const billieEilishSkinny = {
   slug: "billie-eilish-skinny",
   title: "SKINNY",
   artist: "billie-eilish",
-  externalId: "d8cc850d-10be-4895-8b2f-eb6cd9dee77c",
-  externalLink: "https://musicbrainz.org/work/d8cc850d-10be-4895-8b2f-eb6cd9dee77c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d8cc850d-10be-4895-8b2f-eb6cd9dee77c",
+      externalLink: "https://musicbrainz.org/work/d8cc850d-10be-4895-8b2f-eb6cd9dee77c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

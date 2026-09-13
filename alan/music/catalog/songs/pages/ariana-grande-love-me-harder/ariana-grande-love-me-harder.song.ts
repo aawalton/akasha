@@ -6,10 +6,14 @@ export const arianaGrandeLoveMeHarder = {
   slug: "ariana-grande-love-me-harder",
   title: "Love Me Harder",
   artist: "ariana-grande",
-  externalId: "7822a325-e093-4794-8b34-d311f9058fb9",
-  externalLink: "https://musicbrainz.org/work/7822a325-e093-4794-8b34-d311f9058fb9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7822a325-e093-4794-8b34-d311f9058fb9",
+      externalLink: "https://musicbrainz.org/work/7822a325-e093-4794-8b34-d311f9058fb9",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

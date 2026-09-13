@@ -6,10 +6,14 @@ export const arianaGrandeKnewBetterForeverBoy = {
   slug: "ariana-grande-knew-better-forever-boy",
   title: "Knew Better / Forever Boy",
   artist: "ariana-grande",
-  externalId: "c92185e9-ea35-4abb-94eb-1892349dd09f",
-  externalLink: "https://musicbrainz.org/work/c92185e9-ea35-4abb-94eb-1892349dd09f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c92185e9-ea35-4abb-94eb-1892349dd09f",
+      externalLink: "https://musicbrainz.org/work/c92185e9-ea35-4abb-94eb-1892349dd09f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

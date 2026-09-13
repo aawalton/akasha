@@ -6,10 +6,14 @@ export const arianaGrandeLoveLanguage = {
   slug: "ariana-grande-love-language",
   title: "Love Language",
   artist: "ariana-grande",
-  externalId: "d0d5383e-a7c5-4d4d-ae2a-9cc83dd10901",
-  externalLink: "https://musicbrainz.org/work/d0d5383e-a7c5-4d4d-ae2a-9cc83dd10901",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d0d5383e-a7c5-4d4d-ae2a-9cc83dd10901",
+      externalLink: "https://musicbrainz.org/work/d0d5383e-a7c5-4d4d-ae2a-9cc83dd10901",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

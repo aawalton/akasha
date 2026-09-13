@@ -6,10 +6,14 @@ export const arianaGrandeLovinIt = {
   slug: "ariana-grande-lovin-it",
   title: "Lovin' It",
   artist: "ariana-grande",
-  externalId: "0b7b0187-1507-4a4d-9ad3-fc201c0e1c64",
-  externalLink: "https://musicbrainz.org/work/0b7b0187-1507-4a4d-9ad3-fc201c0e1c64",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0b7b0187-1507-4a4d-9ad3-fc201c0e1c64",
+      externalLink: "https://musicbrainz.org/work/0b7b0187-1507-4a4d-9ad3-fc201c0e1c64",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

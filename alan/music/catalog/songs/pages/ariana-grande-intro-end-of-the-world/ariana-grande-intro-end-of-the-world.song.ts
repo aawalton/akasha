@@ -6,10 +6,14 @@ export const arianaGrandeIntroEndOfTheWorld = {
   slug: "ariana-grande-intro-end-of-the-world",
   title: "intro (end of the world)",
   artist: "ariana-grande",
-  externalId: "6b9833f7-cb71-43eb-b351-b08d85989a54",
-  externalLink: "https://musicbrainz.org/work/6b9833f7-cb71-43eb-b351-b08d85989a54",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6b9833f7-cb71-43eb-b351-b08d85989a54",
+      externalLink: "https://musicbrainz.org/work/6b9833f7-cb71-43eb-b351-b08d85989a54",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

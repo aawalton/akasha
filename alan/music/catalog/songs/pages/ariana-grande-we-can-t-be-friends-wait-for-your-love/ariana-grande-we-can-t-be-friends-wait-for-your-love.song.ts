@@ -6,10 +6,14 @@ export const arianaGrandeWeCanTBeFriendsWaitForYourLove = {
   slug: "ariana-grande-we-can-t-be-friends-wait-for-your-love",
   title: "we can’t be friends (wait for your love)",
   artist: "ariana-grande",
-  externalId: "44fcf2e3-bb28-4d36-96a0-d9922bce5bea",
-  externalLink: "https://musicbrainz.org/work/44fcf2e3-bb28-4d36-96a0-d9922bce5bea",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "44fcf2e3-bb28-4d36-96a0-d9922bce5bea",
+      externalLink: "https://musicbrainz.org/work/44fcf2e3-bb28-4d36-96a0-d9922bce5bea",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

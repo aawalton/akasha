@@ -6,10 +6,14 @@ export const arianaGrandeThankGoodness = {
   slug: "ariana-grande-thank-goodness",
   title: "Thank Goodness",
   artist: "ariana-grande",
-  externalId: "6fa3f776-469c-4975-b9b8-48f6a7fdf998",
-  externalLink: "https://musicbrainz.org/work/6fa3f776-469c-4975-b9b8-48f6a7fdf998",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6fa3f776-469c-4975-b9b8-48f6a7fdf998",
+      externalLink: "https://musicbrainz.org/work/6fa3f776-469c-4975-b9b8-48f6a7fdf998",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

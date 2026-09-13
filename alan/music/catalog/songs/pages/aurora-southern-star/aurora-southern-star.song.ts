@@ -6,10 +6,14 @@ export const auroraSouthernStar = {
   slug: "aurora-southern-star",
   title: "Southern Star",
   artist: "aurora",
-  externalId: "71ce3ee9-d4dc-4b9a-acd7-2901bd771c24",
-  externalLink: "https://musicbrainz.org/work/71ce3ee9-d4dc-4b9a-acd7-2901bd771c24",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "71ce3ee9-d4dc-4b9a-acd7-2901bd771c24",
+      externalLink: "https://musicbrainz.org/work/71ce3ee9-d4dc-4b9a-acd7-2901bd771c24",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

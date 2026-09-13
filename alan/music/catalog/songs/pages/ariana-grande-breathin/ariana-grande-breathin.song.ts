@@ -6,10 +6,14 @@ export const arianaGrandeBreathin = {
   slug: "ariana-grande-breathin",
   title: "breathin",
   artist: "ariana-grande",
-  externalId: "3c1bfde3-719c-480d-a0e3-ef8ab749a5c3",
-  externalLink: "https://musicbrainz.org/work/3c1bfde3-719c-480d-a0e3-ef8ab749a5c3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3c1bfde3-719c-480d-a0e3-ef8ab749a5c3",
+      externalLink: "https://musicbrainz.org/work/3c1bfde3-719c-480d-a0e3-ef8ab749a5c3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

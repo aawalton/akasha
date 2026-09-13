@@ -6,10 +6,14 @@ export const arianaGrandeOneInAMillion = {
   slug: "ariana-grande-one-in-a-million",
   title: "One in a Million",
   artist: "ariana-grande",
-  externalId: "655e9216-c27a-4ab0-96e3-5a3aed94764e",
-  externalLink: "https://musicbrainz.org/work/655e9216-c27a-4ab0-96e3-5a3aed94764e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "655e9216-c27a-4ab0-96e3-5a3aed94764e",
+      externalLink: "https://musicbrainz.org/work/655e9216-c27a-4ab0-96e3-5a3aed94764e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

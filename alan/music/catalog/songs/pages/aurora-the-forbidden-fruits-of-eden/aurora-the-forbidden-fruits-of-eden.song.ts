@@ -6,10 +6,14 @@ export const auroraTheForbiddenFruitsOfEden = {
   slug: "aurora-the-forbidden-fruits-of-eden",
   title: "The Forbidden Fruits of Eden",
   artist: "aurora",
-  externalId: "b9c28777-3d3f-4d19-beed-6775d1e7d117",
-  externalLink: "https://musicbrainz.org/work/b9c28777-3d3f-4d19-beed-6775d1e7d117",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b9c28777-3d3f-4d19-beed-6775d1e7d117",
+      externalLink: "https://musicbrainz.org/work/b9c28777-3d3f-4d19-beed-6775d1e7d117",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

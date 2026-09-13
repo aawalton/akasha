@@ -6,10 +6,14 @@ export const arianaGrandePov = {
   slug: "ariana-grande-pov",
   title: "pov",
   artist: "ariana-grande",
-  externalId: "f5667373-b047-45d2-a300-b82cd0605550",
-  externalLink: "https://musicbrainz.org/work/f5667373-b047-45d2-a300-b82cd0605550",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f5667373-b047-45d2-a300-b82cd0605550",
+      externalLink: "https://musicbrainz.org/work/f5667373-b047-45d2-a300-b82cd0605550",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

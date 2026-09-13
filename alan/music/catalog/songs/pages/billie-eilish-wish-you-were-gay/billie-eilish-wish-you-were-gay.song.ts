@@ -6,10 +6,14 @@ export const billieEilishWishYouWereGay = {
   slug: "billie-eilish-wish-you-were-gay",
   title: "wish you were gay",
   artist: "billie-eilish",
-  externalId: "7c1dcb26-7f80-45ef-9e10-df298df7b7bf",
-  externalLink: "https://musicbrainz.org/work/7c1dcb26-7f80-45ef-9e10-df298df7b7bf",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7c1dcb26-7f80-45ef-9e10-df298df7b7bf",
+      externalLink: "https://musicbrainz.org/work/7c1dcb26-7f80-45ef-9e10-df298df7b7bf",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

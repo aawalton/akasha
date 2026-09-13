@@ -6,10 +6,14 @@ export const billieEilishKen = {
   slug: "billie-eilish-ken",
   title: "KEN",
   artist: "billie-eilish",
-  externalId: "e8445176-d057-4cca-b336-528b9e756ca0",
-  externalLink: "https://musicbrainz.org/work/e8445176-d057-4cca-b336-528b9e756ca0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e8445176-d057-4cca-b336-528b9e756ca0",
+      externalLink: "https://musicbrainz.org/work/e8445176-d057-4cca-b336-528b9e756ca0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

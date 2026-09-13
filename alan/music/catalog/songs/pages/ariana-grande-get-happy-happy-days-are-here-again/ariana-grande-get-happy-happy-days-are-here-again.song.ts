@@ -6,10 +6,14 @@ export const arianaGrandeGetHappyHappyDaysAreHereAgain = {
   slug: "ariana-grande-get-happy-happy-days-are-here-again",
   title: "Get Happy / Happy Days Are Here Again",
   artist: "ariana-grande",
-  externalId: "0add257a-b0cf-3421-8a28-8147a1eb3be5",
-  externalLink: "https://musicbrainz.org/work/0add257a-b0cf-3421-8a28-8147a1eb3be5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0add257a-b0cf-3421-8a28-8147a1eb3be5",
+      externalLink: "https://musicbrainz.org/work/0add257a-b0cf-3421-8a28-8147a1eb3be5",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

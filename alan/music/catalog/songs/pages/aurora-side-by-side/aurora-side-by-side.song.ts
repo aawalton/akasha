@@ -6,10 +6,14 @@ export const auroraSideBySide = {
   slug: "aurora-side-by-side",
   title: "SIDE BY SIDE",
   artist: "aurora",
-  externalId: "54071568-fdbe-4a91-8eea-223c157b345a",
-  externalLink: "https://musicbrainz.org/work/54071568-fdbe-4a91-8eea-223c157b345a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "54071568-fdbe-4a91-8eea-223c157b345a",
+      externalLink: "https://musicbrainz.org/work/54071568-fdbe-4a91-8eea-223c157b345a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   lyricsSource: "lrclib",

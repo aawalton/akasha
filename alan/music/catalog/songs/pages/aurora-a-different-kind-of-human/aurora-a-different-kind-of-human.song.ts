@@ -6,10 +6,14 @@ export const auroraADifferentKindOfHuman = {
   slug: "aurora-a-different-kind-of-human",
   title: "A Different Kind of Human",
   artist: "aurora",
-  externalId: "fd16913a-e4c6-4168-bbd4-7ecb73342cb0",
-  externalLink: "https://musicbrainz.org/work/fd16913a-e4c6-4168-bbd4-7ecb73342cb0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "fd16913a-e4c6-4168-bbd4-7ecb73342cb0",
+      externalLink: "https://musicbrainz.org/work/fd16913a-e4c6-4168-bbd4-7ecb73342cb0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

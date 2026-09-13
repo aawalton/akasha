@@ -6,10 +6,14 @@ export const arianaGrandeTrueStory = {
   slug: "ariana-grande-true-story",
   title: "true story",
   artist: "ariana-grande",
-  externalId: "9e2e20d5-76a7-405e-a8ea-3f877d6c3485",
-  externalLink: "https://musicbrainz.org/work/9e2e20d5-76a7-405e-a8ea-3f877d6c3485",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9e2e20d5-76a7-405e-a8ea-3f877d6c3485",
+      externalLink: "https://musicbrainz.org/work/9e2e20d5-76a7-405e-a8ea-3f877d6c3485",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const billieEilishNda = {
   slug: "billie-eilish-nda",
   title: "NDA",
   artist: "billie-eilish",
-  externalId: "991938e8-cbe0-4f93-bdcb-c161cfc3d695",
-  externalLink: "https://musicbrainz.org/work/991938e8-cbe0-4f93-bdcb-c161cfc3d695",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "991938e8-cbe0-4f93-bdcb-c161cfc3d695",
+      externalLink: "https://musicbrainz.org/work/991938e8-cbe0-4f93-bdcb-c161cfc3d695",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const arianaGrandeBlazed = {
   slug: "ariana-grande-blazed",
   title: "blazed",
   artist: "ariana-grande",
-  externalId: "c3cbd845-79bc-444f-89be-21b0ccdf2ee6",
-  externalLink: "https://musicbrainz.org/work/c3cbd845-79bc-444f-89be-21b0ccdf2ee6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c3cbd845-79bc-444f-89be-21b0ccdf2ee6",
+      externalLink: "https://musicbrainz.org/work/c3cbd845-79bc-444f-89be-21b0ccdf2ee6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

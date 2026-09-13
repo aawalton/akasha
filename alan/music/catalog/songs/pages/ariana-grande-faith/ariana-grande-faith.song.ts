@@ -6,10 +6,14 @@ export const arianaGrandeFaith = {
   slug: "ariana-grande-faith",
   title: "Faith",
   artist: "ariana-grande",
-  externalId: "900751bc-d0a6-4806-b769-ca4128d3c063",
-  externalLink: "https://musicbrainz.org/work/900751bc-d0a6-4806-b769-ca4128d3c063",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "900751bc-d0a6-4806-b769-ca4128d3c063",
+      externalLink: "https://musicbrainz.org/work/900751bc-d0a6-4806-b769-ca4128d3c063",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

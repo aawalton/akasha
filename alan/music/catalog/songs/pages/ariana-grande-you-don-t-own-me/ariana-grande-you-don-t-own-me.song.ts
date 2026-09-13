@@ -6,10 +6,14 @@ export const arianaGrandeYouDonTOwnMe = {
   slug: "ariana-grande-you-don-t-own-me",
   title: "You Don’t Own Me",
   artist: "ariana-grande",
-  externalId: "296474ba-ba4b-3879-bdff-1636752d37e2",
-  externalLink: "https://musicbrainz.org/work/296474ba-ba4b-3879-bdff-1636752d37e2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "296474ba-ba4b-3879-bdff-1636752d37e2",
+      externalLink: "https://musicbrainz.org/work/296474ba-ba4b-3879-bdff-1636752d37e2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

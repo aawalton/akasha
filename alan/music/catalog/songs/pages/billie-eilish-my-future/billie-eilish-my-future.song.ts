@@ -6,10 +6,14 @@ export const billieEilishMyFuture = {
   slug: "billie-eilish-my-future",
   title: "my future",
   artist: "billie-eilish",
-  externalId: "a8581db9-4f02-4b03-96ac-10cf405f672c",
-  externalLink: "https://musicbrainz.org/work/a8581db9-4f02-4b03-96ac-10cf405f672c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a8581db9-4f02-4b03-96ac-10cf405f672c",
+      externalLink: "https://musicbrainz.org/work/a8581db9-4f02-4b03-96ac-10cf405f672c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

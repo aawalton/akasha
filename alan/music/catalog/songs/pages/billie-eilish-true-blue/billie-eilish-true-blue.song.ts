@@ -6,10 +6,14 @@ export const billieEilishTrueBlue = {
   slug: "billie-eilish-true-blue",
   title: "TRUE BLUE",
   artist: "billie-eilish",
-  externalId: "f2acbf2a-dea7-4c2b-afa2-b4a1d284c511",
-  externalLink: "https://musicbrainz.org/work/f2acbf2a-dea7-4c2b-afa2-b4a1d284c511",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f2acbf2a-dea7-4c2b-afa2-b4a1d284c511",
+      externalLink: "https://musicbrainz.org/work/f2acbf2a-dea7-4c2b-afa2-b4a1d284c511",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

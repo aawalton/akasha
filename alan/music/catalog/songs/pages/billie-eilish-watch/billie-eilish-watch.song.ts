@@ -6,10 +6,14 @@ export const billieEilishWatch = {
   slug: "billie-eilish-watch",
   title: "watch",
   artist: "billie-eilish",
-  externalId: "18d11606-c11e-4910-a92a-464b640ed029",
-  externalLink: "https://musicbrainz.org/work/18d11606-c11e-4910-a92a-464b640ed029",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "18d11606-c11e-4910-a92a-464b640ed029",
+      externalLink: "https://musicbrainz.org/work/18d11606-c11e-4910-a92a-464b640ed029",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

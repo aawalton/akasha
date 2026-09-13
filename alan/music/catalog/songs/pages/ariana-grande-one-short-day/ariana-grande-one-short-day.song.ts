@@ -6,10 +6,14 @@ export const arianaGrandeOneShortDay = {
   slug: "ariana-grande-one-short-day",
   title: "One Short Day",
   artist: "ariana-grande",
-  externalId: "fc8b976a-3704-4480-88a6-d995d16d093e",
-  externalLink: "https://musicbrainz.org/work/fc8b976a-3704-4480-88a6-d995d16d093e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "fc8b976a-3704-4480-88a6-d995d16d093e",
+      externalLink: "https://musicbrainz.org/work/fc8b976a-3704-4480-88a6-d995d16d093e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

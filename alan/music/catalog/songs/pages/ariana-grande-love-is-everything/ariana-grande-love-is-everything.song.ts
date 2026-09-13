@@ -6,10 +6,14 @@ export const arianaGrandeLoveIsEverything = {
   slug: "ariana-grande-love-is-everything",
   title: "Love Is Everything",
   artist: "ariana-grande",
-  externalId: "ca535430-223d-4478-8558-0b8e73fddfa4",
-  externalLink: "https://musicbrainz.org/work/ca535430-223d-4478-8558-0b8e73fddfa4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ca535430-223d-4478-8558-0b8e73fddfa4",
+      externalLink: "https://musicbrainz.org/work/ca535430-223d-4478-8558-0b8e73fddfa4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

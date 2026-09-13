@@ -6,10 +6,14 @@ export const billieEilishGoodbye = {
   slug: "billie-eilish-goodbye",
   title: "goodbye",
   artist: "billie-eilish",
-  externalId: "6a17fb4b-2190-4d64-b369-fed846ab42d2",
-  externalLink: "https://musicbrainz.org/work/6a17fb4b-2190-4d64-b369-fed846ab42d2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6a17fb4b-2190-4d64-b369-fed846ab42d2",
+      externalLink: "https://musicbrainz.org/work/6a17fb4b-2190-4d64-b369-fed846ab42d2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

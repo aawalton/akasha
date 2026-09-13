@@ -6,10 +6,14 @@ export const arianaGrandeHowItSDone = {
   slug: "ariana-grande-how-it-s-done",
   title: "How It’s Done",
   artist: "ariana-grande",
-  externalId: "241734df-db59-4929-85e1-14360f47120e",
-  externalLink: "https://musicbrainz.org/work/241734df-db59-4929-85e1-14360f47120e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "241734df-db59-4929-85e1-14360f47120e",
+      externalLink: "https://musicbrainz.org/work/241734df-db59-4929-85e1-14360f47120e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

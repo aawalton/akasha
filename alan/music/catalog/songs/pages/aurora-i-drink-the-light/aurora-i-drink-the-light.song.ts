@@ -6,10 +6,14 @@ export const auroraIDrinkTheLight = {
   slug: "aurora-i-drink-the-light",
   title: "I DRINK THE LIGHT",
   artist: "aurora",
-  externalId: "56aad9c7-0460-4d78-80f6-274a4d9569c0",
-  externalLink: "https://musicbrainz.org/work/56aad9c7-0460-4d78-80f6-274a4d9569c0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "56aad9c7-0460-4d78-80f6-274a4d9569c0",
+      externalLink: "https://musicbrainz.org/work/56aad9c7-0460-4d78-80f6-274a4d9569c0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   lyricsSource: "lrclib",

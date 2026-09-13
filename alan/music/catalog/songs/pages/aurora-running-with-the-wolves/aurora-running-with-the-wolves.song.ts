@@ -6,10 +6,14 @@ export const auroraRunningWithTheWolves = {
   slug: "aurora-running-with-the-wolves",
   title: "Running with the Wolves",
   artist: "aurora",
-  externalId: "9670461f-23ca-424e-8ad4-603b40a75eb6",
-  externalLink: "https://musicbrainz.org/work/9670461f-23ca-424e-8ad4-603b40a75eb6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9670461f-23ca-424e-8ad4-603b40a75eb6",
+      externalLink: "https://musicbrainz.org/work/9670461f-23ca-424e-8ad4-603b40a75eb6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

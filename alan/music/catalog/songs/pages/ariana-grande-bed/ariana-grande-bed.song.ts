@@ -6,10 +6,14 @@ export const arianaGrandeBed = {
   slug: "ariana-grande-bed",
   title: "Bed",
   artist: "ariana-grande",
-  externalId: "137813bf-29be-46e9-897c-1a6eb358818a",
-  externalLink: "https://musicbrainz.org/work/137813bf-29be-46e9-897c-1a6eb358818a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "137813bf-29be-46e9-897c-1a6eb358818a",
+      externalLink: "https://musicbrainz.org/work/137813bf-29be-46e9-897c-1a6eb358818a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

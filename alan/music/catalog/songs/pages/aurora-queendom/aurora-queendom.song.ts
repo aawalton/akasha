@@ -6,10 +6,14 @@ export const auroraQueendom = {
   slug: "aurora-queendom",
   title: "Queendom",
   artist: "aurora",
-  externalId: "1a82dfbf-326a-4912-a5cd-687deb2ebeb0",
-  externalLink: "https://musicbrainz.org/work/1a82dfbf-326a-4912-a5cd-687deb2ebeb0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1a82dfbf-326a-4912-a5cd-687deb2ebeb0",
+      externalLink: "https://musicbrainz.org/work/1a82dfbf-326a-4912-a5cd-687deb2ebeb0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const arianaGrandeWhereIsTheLove = {
   slug: "ariana-grande-where-is-the-love",
   title: "Where Is the Love?",
   artist: "ariana-grande",
-  externalId: "ec4b3465-08a3-3136-8fe2-f396bb200eac",
-  externalLink: "https://musicbrainz.org/work/ec4b3465-08a3-3136-8fe2-f396bb200eac",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ec4b3465-08a3-3136-8fe2-f396bb200eac",
+      externalLink: "https://musicbrainz.org/work/ec4b3465-08a3-3136-8fe2-f396bb200eac",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

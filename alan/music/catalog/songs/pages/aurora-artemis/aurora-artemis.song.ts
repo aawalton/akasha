@@ -6,10 +6,14 @@ export const auroraArtemis = {
   slug: "aurora-artemis",
   title: "Artemis",
   artist: "aurora",
-  externalId: "430b1cd9-51c3-44f9-a061-f01b5f248007",
-  externalLink: "https://musicbrainz.org/work/430b1cd9-51c3-44f9-a061-f01b5f248007",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "430b1cd9-51c3-44f9-a061-f01b5f248007",
+      externalLink: "https://musicbrainz.org/work/430b1cd9-51c3-44f9-a061-f01b5f248007",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

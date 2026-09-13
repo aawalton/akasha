@@ -6,10 +6,14 @@ export const billieEilishWinner = {
   slug: "billie-eilish-winner",
   title: "Winner",
   artist: "billie-eilish",
-  externalId: "af40fe56-5e2f-4f7e-8b03-a1ca5528ba45",
-  externalLink: "https://musicbrainz.org/work/af40fe56-5e2f-4f7e-8b03-a1ca5528ba45",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "af40fe56-5e2f-4f7e-8b03-a1ca5528ba45",
+      externalLink: "https://musicbrainz.org/work/af40fe56-5e2f-4f7e-8b03-a1ca5528ba45",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

@@ -6,10 +6,14 @@ export const arianaGrandeBetterOff = {
   slug: "ariana-grande-better-off",
   title: "better off",
   artist: "ariana-grande",
-  externalId: "e9419c15-c359-4c82-91da-08dfafe158d5",
-  externalLink: "https://musicbrainz.org/work/e9419c15-c359-4c82-91da-08dfafe158d5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e9419c15-c359-4c82-91da-08dfafe158d5",
+      externalLink: "https://musicbrainz.org/work/e9419c15-c359-4c82-91da-08dfafe158d5",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

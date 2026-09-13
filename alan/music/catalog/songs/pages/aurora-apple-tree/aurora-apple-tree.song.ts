@@ -6,10 +6,14 @@ export const auroraAppleTree = {
   slug: "aurora-apple-tree",
   title: "Apple Tree",
   artist: "aurora",
-  externalId: "3658ba97-b1c5-4f5e-87e5-85ce17e62d5f",
-  externalLink: "https://musicbrainz.org/work/3658ba97-b1c5-4f5e-87e5-85ce17e62d5f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3658ba97-b1c5-4f5e-87e5-85ce17e62d5f",
+      externalLink: "https://musicbrainz.org/work/3658ba97-b1c5-4f5e-87e5-85ce17e62d5f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

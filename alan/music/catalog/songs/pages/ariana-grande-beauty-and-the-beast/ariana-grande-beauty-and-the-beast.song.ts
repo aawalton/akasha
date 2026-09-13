@@ -6,10 +6,14 @@ export const arianaGrandeBeautyAndTheBeast = {
   slug: "ariana-grande-beauty-and-the-beast",
   title: "Beauty and the Beast",
   artist: "ariana-grande",
-  externalId: "dea11511-4254-3ae2-b6c3-906ea502668a",
-  externalLink: "https://musicbrainz.org/work/dea11511-4254-3ae2-b6c3-906ea502668a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "dea11511-4254-3ae2-b6c3-906ea502668a",
+      externalLink: "https://musicbrainz.org/work/dea11511-4254-3ae2-b6c3-906ea502668a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const arianaGrandeYouLlNeverKnow = {
   slug: "ariana-grande-you-ll-never-know",
   title: "You’ll Never Know",
   artist: "ariana-grande",
-  externalId: "20c6c070-26b8-41a4-9266-dab0f343a36d",
-  externalLink: "https://musicbrainz.org/work/20c6c070-26b8-41a4-9266-dab0f343a36d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "20c6c070-26b8-41a4-9266-dab0f343a36d",
+      externalLink: "https://musicbrainz.org/work/20c6c070-26b8-41a4-9266-dab0f343a36d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

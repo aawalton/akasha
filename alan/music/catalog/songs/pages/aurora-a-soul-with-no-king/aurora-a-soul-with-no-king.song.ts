@@ -6,10 +6,14 @@ export const auroraASoulWithNoKing = {
   slug: "aurora-a-soul-with-no-king",
   title: "A Soul With No King",
   artist: "aurora",
-  externalId: "4ad32540-a447-442f-be07-b89b172fcb2b",
-  externalLink: "https://musicbrainz.org/work/4ad32540-a447-442f-be07-b89b172fcb2b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4ad32540-a447-442f-be07-b89b172fcb2b",
+      externalLink: "https://musicbrainz.org/work/4ad32540-a447-442f-be07-b89b172fcb2b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

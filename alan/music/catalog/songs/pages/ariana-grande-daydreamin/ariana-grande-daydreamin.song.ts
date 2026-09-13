@@ -6,10 +6,14 @@ export const arianaGrandeDaydreamin = {
   slug: "ariana-grande-daydreamin",
   title: "Daydreamin’",
   artist: "ariana-grande",
-  externalId: "c788d6b1-258a-459f-8907-6eb47d5c67d3",
-  externalLink: "https://musicbrainz.org/work/c788d6b1-258a-459f-8907-6eb47d5c67d3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c788d6b1-258a-459f-8907-6eb47d5c67d3",
+      externalLink: "https://musicbrainz.org/work/c788d6b1-258a-459f-8907-6eb47d5c67d3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

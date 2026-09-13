@@ -6,10 +6,14 @@ export const arianaGrandeBreakYourHeartRightBack = {
   slug: "ariana-grande-break-your-heart-right-back",
   title: "Break Your Heart Right Back",
   artist: "ariana-grande",
-  externalId: "3e872908-4273-4cb3-b3a3-b8e80e0a19c8",
-  externalLink: "https://musicbrainz.org/work/3e872908-4273-4cb3-b3a3-b8e80e0a19c8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3e872908-4273-4cb3-b3a3-b8e80e0a19c8",
+      externalLink: "https://musicbrainz.org/work/3e872908-4273-4cb3-b3a3-b8e80e0a19c8",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

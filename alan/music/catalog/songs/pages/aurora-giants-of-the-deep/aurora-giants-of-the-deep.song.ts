@@ -6,10 +6,14 @@ export const auroraGiantsOfTheDeep = {
   slug: "aurora-giants-of-the-deep",
   title: "Giants of the Deep",
   artist: "aurora",
-  externalId: "adaac1ba-1e26-47cf-b5c2-b96f28d5de72",
-  externalLink: "https://musicbrainz.org/work/adaac1ba-1e26-47cf-b5c2-b96f28d5de72",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "adaac1ba-1e26-47cf-b5c2-b96f28d5de72",
+      externalLink: "https://musicbrainz.org/work/adaac1ba-1e26-47cf-b5c2-b96f28d5de72",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

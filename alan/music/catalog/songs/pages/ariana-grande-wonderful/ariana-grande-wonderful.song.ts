@@ -6,10 +6,14 @@ export const arianaGrandeWonderful = {
   slug: "ariana-grande-wonderful",
   title: "Wonderful",
   artist: "ariana-grande",
-  externalId: "60f57d98-4955-4bd4-be63-94dcaa63d6db",
-  externalLink: "https://musicbrainz.org/work/60f57d98-4955-4bd4-be63-94dcaa63d6db",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "60f57d98-4955-4bd4-be63-94dcaa63d6db",
+      externalLink: "https://musicbrainz.org/work/60f57d98-4955-4bd4-be63-94dcaa63d6db",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

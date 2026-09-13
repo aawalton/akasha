@@ -6,10 +6,14 @@ export const arianaGrandeMoonlight = {
   slug: "ariana-grande-moonlight",
   title: "Moonlight",
   artist: "ariana-grande",
-  externalId: "c74896b9-7f3a-4a3d-b17a-badd2eb64eb1",
-  externalLink: "https://musicbrainz.org/work/c74896b9-7f3a-4a3d-b17a-badd2eb64eb1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c74896b9-7f3a-4a3d-b17a-badd2eb64eb1",
+      externalLink: "https://musicbrainz.org/work/c74896b9-7f3a-4a3d-b17a-badd2eb64eb1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

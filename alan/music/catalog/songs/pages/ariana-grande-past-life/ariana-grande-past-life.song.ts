@@ -6,10 +6,14 @@ export const arianaGrandePastLife = {
   slug: "ariana-grande-past-life",
   title: "past life",
   artist: "ariana-grande",
-  externalId: "f605e0f6-4f56-49cb-a7e6-9f501841eb7c",
-  externalLink: "https://musicbrainz.org/work/f605e0f6-4f56-49cb-a7e6-9f501841eb7c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f605e0f6-4f56-49cb-a7e6-9f501841eb7c",
+      externalLink: "https://musicbrainz.org/work/f605e0f6-4f56-49cb-a7e6-9f501841eb7c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

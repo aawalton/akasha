@@ -6,10 +6,14 @@ export const auroraPlease = {
   slug: "aurora-please",
   title: "PLEASE",
   artist: "aurora",
-  externalId: "afe9b68f-8c1c-4e31-bea7-9c691734b9a6",
-  externalLink: "https://musicbrainz.org/work/afe9b68f-8c1c-4e31-bea7-9c691734b9a6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "afe9b68f-8c1c-4e31-bea7-9c691734b9a6",
+      externalLink: "https://musicbrainz.org/work/afe9b68f-8c1c-4e31-bea7-9c691734b9a6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   lyricsSource: "lrclib",

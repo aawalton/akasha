@@ -6,10 +6,14 @@ export const auroraHelvegen = {
   slug: "aurora-helvegen",
   title: "Helvegen",
   artist: "aurora",
-  externalId: "13b0d677-6033-4608-bf23-a707ed514d6b",
-  externalLink: "https://musicbrainz.org/work/13b0d677-6033-4608-bf23-a707ed514d6b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "13b0d677-6033-4608-bf23-a707ed514d6b",
+      externalLink: "https://musicbrainz.org/work/13b0d677-6033-4608-bf23-a707ed514d6b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

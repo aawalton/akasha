@@ -6,10 +6,14 @@ export const billieEilishCallMeBack = {
   slug: "billie-eilish-call-me-back",
   title: "Call Me Back",
   artist: "billie-eilish",
-  externalId: "fdcf502f-2123-4da8-ae04-de5476516571",
-  externalLink: "https://musicbrainz.org/work/fdcf502f-2123-4da8-ae04-de5476516571",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "fdcf502f-2123-4da8-ae04-de5476516571",
+      externalLink: "https://musicbrainz.org/work/fdcf502f-2123-4da8-ae04-de5476516571",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

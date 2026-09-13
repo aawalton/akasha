@@ -6,10 +6,14 @@ export const billieEilishOverheated = {
   slug: "billie-eilish-overheated",
   title: "OverHeated",
   artist: "billie-eilish",
-  externalId: "08baf83f-789d-4eed-977f-67c193156e7a",
-  externalLink: "https://musicbrainz.org/work/08baf83f-789d-4eed-977f-67c193156e7a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "08baf83f-789d-4eed-977f-67c193156e7a",
+      externalLink: "https://musicbrainz.org/work/08baf83f-789d-4eed-977f-67c193156e7a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const auroraUnderStars = {
   slug: "aurora-under-stars",
   title: "Under Stars",
   artist: "aurora",
-  externalId: "0c7b93d8-caf4-477e-9fc4-2766888fd2c3",
-  externalLink: "https://musicbrainz.org/work/0c7b93d8-caf4-477e-9fc4-2766888fd2c3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0c7b93d8-caf4-477e-9fc4-2766888fd2c3",
+      externalLink: "https://musicbrainz.org/work/0c7b93d8-caf4-477e-9fc4-2766888fd2c3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

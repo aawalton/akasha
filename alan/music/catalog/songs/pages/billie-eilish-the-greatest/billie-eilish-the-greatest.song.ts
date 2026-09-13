@@ -6,10 +6,14 @@ export const billieEilishTheGreatest = {
   slug: "billie-eilish-the-greatest",
   title: "THE GREATEST",
   artist: "billie-eilish",
-  externalId: "435b82d3-2bab-46ab-8386-a026fed5624b",
-  externalLink: "https://musicbrainz.org/work/435b82d3-2bab-46ab-8386-a026fed5624b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "435b82d3-2bab-46ab-8386-a026fed5624b",
+      externalLink: "https://musicbrainz.org/work/435b82d3-2bab-46ab-8386-a026fed5624b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

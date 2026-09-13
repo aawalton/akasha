@@ -6,10 +6,14 @@ export const arianaGrandePopularSong = {
   slug: "ariana-grande-popular-song",
   title: "Popular Song",
   artist: "ariana-grande",
-  externalId: "504fffb0-eddb-4768-aa59-18a5cd2b0ae9",
-  externalLink: "https://musicbrainz.org/work/504fffb0-eddb-4768-aa59-18a5cd2b0ae9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "504fffb0-eddb-4768-aa59-18a5cd2b0ae9",
+      externalLink: "https://musicbrainz.org/work/504fffb0-eddb-4768-aa59-18a5cd2b0ae9",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

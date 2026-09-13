@@ -6,10 +6,14 @@ export const arianaGrandeMyEverything = {
   slug: "ariana-grande-my-everything",
   title: "My Everything",
   artist: "ariana-grande",
-  externalId: "82cf564f-5bdc-4f9e-bb7d-85a75ea247c2",
-  externalLink: "https://musicbrainz.org/work/82cf564f-5bdc-4f9e-bb7d-85a75ea247c2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "82cf564f-5bdc-4f9e-bb7d-85a75ea247c2",
+      externalLink: "https://musicbrainz.org/work/82cf564f-5bdc-4f9e-bb7d-85a75ea247c2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const arianaGrandeMonopoly = {
   slug: "ariana-grande-monopoly",
   title: "Monopoly",
   artist: "ariana-grande",
-  externalId: "e09bce07-36b2-45fd-aa16-2d7106eb5237",
-  externalLink: "https://musicbrainz.org/work/e09bce07-36b2-45fd-aa16-2d7106eb5237",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e09bce07-36b2-45fd-aa16-2d7106eb5237",
+      externalLink: "https://musicbrainz.org/work/e09bce07-36b2-45fd-aa16-2d7106eb5237",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

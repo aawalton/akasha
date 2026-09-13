@@ -6,10 +6,14 @@ export const arianaGrandeWinterThings = {
   slug: "ariana-grande-winter-things",
   title: "Winter Things",
   artist: "ariana-grande",
-  externalId: "e84114d6-dd29-474b-a8eb-ac8d461196dd",
-  externalLink: "https://musicbrainz.org/work/e84114d6-dd29-474b-a8eb-ac8d461196dd",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e84114d6-dd29-474b-a8eb-ac8d461196dd",
+      externalLink: "https://musicbrainz.org/work/e84114d6-dd29-474b-a8eb-ac8d461196dd",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

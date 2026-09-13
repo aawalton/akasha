@@ -6,10 +6,14 @@ export const arianaGrandeComeSoFarGotSoFarToGo = {
   slug: "ariana-grande-come-so-far-got-so-far-to-go",
   title: "Come So Far (Got So Far to Go)",
   artist: "ariana-grande",
-  externalId: "889afbb5-32a2-3e51-a4dc-f56db21b5f0d",
-  externalLink: "https://musicbrainz.org/work/889afbb5-32a2-3e51-a4dc-f56db21b5f0d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "889afbb5-32a2-3e51-a4dc-f56db21b5f0d",
+      externalLink: "https://musicbrainz.org/work/889afbb5-32a2-3e51-a4dc-f56db21b5f0d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

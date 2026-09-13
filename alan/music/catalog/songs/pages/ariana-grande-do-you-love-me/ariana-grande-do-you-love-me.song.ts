@@ -6,10 +6,14 @@ export const arianaGrandeDoYouLoveMe = {
   slug: "ariana-grande-do-you-love-me",
   title: "Do You Love Me",
   artist: "ariana-grande",
-  externalId: "2035da4e-ed02-3811-b134-7674fbcb92d7",
-  externalLink: "https://musicbrainz.org/work/2035da4e-ed02-3811-b134-7674fbcb92d7",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2035da4e-ed02-3811-b134-7674fbcb92d7",
+      externalLink: "https://musicbrainz.org/work/2035da4e-ed02-3811-b134-7674fbcb92d7",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

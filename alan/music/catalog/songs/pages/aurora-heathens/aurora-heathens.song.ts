@@ -6,10 +6,14 @@ export const auroraHeathens = {
   slug: "aurora-heathens",
   title: "Heathens",
   artist: "aurora",
-  externalId: "6577c3ae-3a6f-469f-a278-c81babff2746",
-  externalLink: "https://musicbrainz.org/work/6577c3ae-3a6f-469f-a278-c81babff2746",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6577c3ae-3a6f-469f-a278-c81babff2746",
+      externalLink: "https://musicbrainz.org/work/6577c3ae-3a6f-469f-a278-c81babff2746",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

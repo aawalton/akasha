@@ -6,10 +6,14 @@ export const arianaGrandeEternalSunshine = {
   slug: "ariana-grande-eternal-sunshine",
   title: "eternal sunshine",
   artist: "ariana-grande",
-  externalId: "10138ca6-66ca-407b-8ba0-8f754796ff07",
-  externalLink: "https://musicbrainz.org/work/10138ca6-66ca-407b-8ba0-8f754796ff07",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "10138ca6-66ca-407b-8ba0-8f754796ff07",
+      externalLink: "https://musicbrainz.org/work/10138ca6-66ca-407b-8ba0-8f754796ff07",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

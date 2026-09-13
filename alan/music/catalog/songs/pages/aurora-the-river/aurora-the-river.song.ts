@@ -6,10 +6,14 @@ export const auroraTheRiver = {
   slug: "aurora-the-river",
   title: "The River",
   artist: "aurora",
-  externalId: "495d41e1-4bbd-4571-bf81-42013d0e842e",
-  externalLink: "https://musicbrainz.org/work/495d41e1-4bbd-4571-bf81-42013d0e842e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "495d41e1-4bbd-4571-bf81-42013d0e842e",
+      externalLink: "https://musicbrainz.org/work/495d41e1-4bbd-4571-bf81-42013d0e842e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

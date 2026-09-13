@@ -6,10 +6,14 @@ export const billieEilish8 = {
   slug: "billie-eilish-8",
   title: "8",
   artist: "billie-eilish",
-  externalId: "ea39d187-f68d-432d-b975-8a8f5131b229",
-  externalLink: "https://musicbrainz.org/work/ea39d187-f68d-432d-b975-8a8f5131b229",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ea39d187-f68d-432d-b975-8a8f5131b229",
+      externalLink: "https://musicbrainz.org/work/ea39d187-f68d-432d-b975-8a8f5131b229",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

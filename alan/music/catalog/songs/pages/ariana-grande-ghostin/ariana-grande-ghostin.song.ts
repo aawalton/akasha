@@ -6,10 +6,14 @@ export const arianaGrandeGhostin = {
   slug: "ariana-grande-ghostin",
   title: "ghostin",
   artist: "ariana-grande",
-  externalId: "bba54d4b-35e9-4703-b763-7c15aeeda3bc",
-  externalLink: "https://musicbrainz.org/work/bba54d4b-35e9-4703-b763-7c15aeeda3bc",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bba54d4b-35e9-4703-b763-7c15aeeda3bc",
+      externalLink: "https://musicbrainz.org/work/bba54d4b-35e9-4703-b763-7c15aeeda3bc",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

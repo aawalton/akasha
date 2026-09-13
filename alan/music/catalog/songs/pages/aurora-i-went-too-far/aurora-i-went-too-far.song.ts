@@ -6,10 +6,14 @@ export const auroraIWentTooFar = {
   slug: "aurora-i-went-too-far",
   title: "I Went Too Far",
   artist: "aurora",
-  externalId: "1540738c-a75f-4e63-8b38-b0757366514b",
-  externalLink: "https://musicbrainz.org/work/1540738c-a75f-4e63-8b38-b0757366514b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1540738c-a75f-4e63-8b38-b0757366514b",
+      externalLink: "https://musicbrainz.org/work/1540738c-a75f-4e63-8b38-b0757366514b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

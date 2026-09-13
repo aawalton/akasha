@@ -6,10 +6,14 @@ export const billieEilishWhenThePartySOver = {
   slug: "billie-eilish-when-the-party-s-over",
   title: "when the party’s over",
   artist: "billie-eilish",
-  externalId: "d8b3a1df-c7a0-4e58-8c31-f8a88c6f96bb",
-  externalLink: "https://musicbrainz.org/work/d8b3a1df-c7a0-4e58-8c31-f8a88c6f96bb",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d8b3a1df-c7a0-4e58-8c31-f8a88c6f96bb",
+      externalLink: "https://musicbrainz.org/work/d8b3a1df-c7a0-4e58-8c31-f8a88c6f96bb",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

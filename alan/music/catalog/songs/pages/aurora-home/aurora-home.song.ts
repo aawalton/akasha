@@ -6,10 +6,14 @@ export const auroraHome = {
   slug: "aurora-home",
   title: "Home",
   artist: "aurora",
-  externalId: "d47bfc98-821f-4fda-b4d7-322f4dc359c6",
-  externalLink: "https://musicbrainz.org/work/d47bfc98-821f-4fda-b4d7-322f4dc359c6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d47bfc98-821f-4fda-b4d7-322f4dc359c6",
+      externalLink: "https://musicbrainz.org/work/d47bfc98-821f-4fda-b4d7-322f4dc359c6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

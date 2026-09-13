@@ -6,10 +6,14 @@ export const billieEilishIdontwannabeyouanymore = {
   slug: "billie-eilish-idontwannabeyouanymore",
   title: "idontwannabeyouanymore",
   artist: "billie-eilish",
-  externalId: "1ed1c00c-a459-4aba-97ee-4bc8a33b25d3",
-  externalLink: "https://musicbrainz.org/work/1ed1c00c-a459-4aba-97ee-4bc8a33b25d3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1ed1c00c-a459-4aba-97ee-4bc8a33b25d3",
+      externalLink: "https://musicbrainz.org/work/1ed1c00c-a459-4aba-97ee-4bc8a33b25d3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

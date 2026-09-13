@@ -6,10 +6,14 @@ export const auroraLucky = {
   slug: "aurora-lucky",
   title: "Lucky",
   artist: "aurora",
-  externalId: "0e24cbef-6442-4e21-998d-ab1d08b795ed",
-  externalLink: "https://musicbrainz.org/work/0e24cbef-6442-4e21-998d-ab1d08b795ed",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0e24cbef-6442-4e21-998d-ab1d08b795ed",
+      externalLink: "https://musicbrainz.org/work/0e24cbef-6442-4e21-998d-ab1d08b795ed",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

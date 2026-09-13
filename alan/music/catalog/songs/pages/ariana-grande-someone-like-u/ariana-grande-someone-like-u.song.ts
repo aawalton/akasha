@@ -6,10 +6,14 @@ export const arianaGrandeSomeoneLikeU = {
   slug: "ariana-grande-someone-like-u",
   title: "someone like u",
   artist: "ariana-grande",
-  externalId: "37894bde-af3a-4f79-8063-d01d13372cb4",
-  externalLink: "https://musicbrainz.org/work/37894bde-af3a-4f79-8063-d01d13372cb4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "37894bde-af3a-4f79-8063-d01d13372cb4",
+      externalLink: "https://musicbrainz.org/work/37894bde-af3a-4f79-8063-d01d13372cb4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

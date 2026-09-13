@@ -6,10 +6,14 @@ export const auroraUntitled = {
   slug: "aurora-untitled",
   title: "イントゥ・ジ・アンノウン〜心のままに",
   artist: "aurora",
-  externalId: "31623786-2076-48d9-b32a-09849643935b",
-  externalLink: "https://musicbrainz.org/work/31623786-2076-48d9-b32a-09849643935b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "31623786-2076-48d9-b32a-09849643935b",
+      externalLink: "https://musicbrainz.org/work/31623786-2076-48d9-b32a-09849643935b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

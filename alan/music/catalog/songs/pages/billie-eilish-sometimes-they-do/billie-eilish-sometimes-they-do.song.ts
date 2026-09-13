@@ -6,10 +6,14 @@ export const billieEilishSometimesTheyDo = {
   slug: "billie-eilish-sometimes-they-do",
   title: "Sometimes They Do",
   artist: "billie-eilish",
-  externalId: "0f5c4876-f8aa-4ff3-83b0-73d486416289",
-  externalLink: "https://musicbrainz.org/work/0f5c4876-f8aa-4ff3-83b0-73d486416289",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0f5c4876-f8aa-4ff3-83b0-73d486416289",
+      externalLink: "https://musicbrainz.org/work/0f5c4876-f8aa-4ff3-83b0-73d486416289",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

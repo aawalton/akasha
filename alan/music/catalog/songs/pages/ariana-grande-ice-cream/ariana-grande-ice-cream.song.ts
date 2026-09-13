@@ -6,10 +6,14 @@ export const arianaGrandeIceCream = {
   slug: "ariana-grande-ice-cream",
   title: "Ice Cream",
   artist: "ariana-grande",
-  externalId: "686db009-9a5e-452c-9bc0-518f2ac29fd1",
-  externalLink: "https://musicbrainz.org/work/686db009-9a5e-452c-9bc0-518f2ac29fd1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "686db009-9a5e-452c-9bc0-518f2ac29fd1",
+      externalLink: "https://musicbrainz.org/work/686db009-9a5e-452c-9bc0-518f2ac29fd1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

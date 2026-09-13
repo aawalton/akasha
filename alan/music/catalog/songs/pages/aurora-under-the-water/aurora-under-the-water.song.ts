@@ -6,10 +6,14 @@ export const auroraUnderTheWater = {
   slug: "aurora-under-the-water",
   title: "Under the Water",
   artist: "aurora",
-  externalId: "301cc408-49e7-4ca4-9b99-abc3ab8e1745",
-  externalLink: "https://musicbrainz.org/work/301cc408-49e7-4ca4-9b99-abc3ab8e1745",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "301cc408-49e7-4ca4-9b99-abc3ab8e1745",
+      externalLink: "https://musicbrainz.org/work/301cc408-49e7-4ca4-9b99-abc3ab8e1745",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

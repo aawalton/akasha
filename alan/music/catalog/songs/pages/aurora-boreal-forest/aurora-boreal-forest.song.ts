@@ -6,10 +6,14 @@ export const auroraBorealForest = {
   slug: "aurora-boreal-forest",
   title: "Boreal Forest",
   artist: "aurora",
-  externalId: "d3ba201f-079c-4f50-8e74-6fcecc524fe6",
-  externalLink: "https://musicbrainz.org/work/d3ba201f-079c-4f50-8e74-6fcecc524fe6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d3ba201f-079c-4f50-8e74-6fcecc524fe6",
+      externalLink: "https://musicbrainz.org/work/d3ba201f-079c-4f50-8e74-6fcecc524fe6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

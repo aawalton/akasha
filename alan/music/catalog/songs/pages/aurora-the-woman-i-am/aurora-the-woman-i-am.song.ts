@@ -6,10 +6,14 @@ export const auroraTheWomanIAm = {
   slug: "aurora-the-woman-i-am",
   title: "The Woman I Am",
   artist: "aurora",
-  externalId: "a43eed81-264f-4486-adbb-4c71b82c1148",
-  externalLink: "https://musicbrainz.org/work/a43eed81-264f-4486-adbb-4c71b82c1148",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a43eed81-264f-4486-adbb-4c71b82c1148",
+      externalLink: "https://musicbrainz.org/work/a43eed81-264f-4486-adbb-4c71b82c1148",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

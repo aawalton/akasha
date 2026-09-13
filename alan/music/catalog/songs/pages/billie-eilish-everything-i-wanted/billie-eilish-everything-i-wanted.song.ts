@@ -6,10 +6,14 @@ export const billieEilishEverythingIWanted = {
   slug: "billie-eilish-everything-i-wanted",
   title: "everything i wanted",
   artist: "billie-eilish",
-  externalId: "925e99ae-619a-4bb0-9799-2de17ab68bec",
-  externalLink: "https://musicbrainz.org/work/925e99ae-619a-4bb0-9799-2de17ab68bec",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "925e99ae-619a-4bb0-9799-2de17ab68bec",
+      externalLink: "https://musicbrainz.org/work/925e99ae-619a-4bb0-9799-2de17ab68bec",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

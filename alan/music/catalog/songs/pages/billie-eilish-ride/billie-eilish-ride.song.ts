@@ -6,10 +6,14 @@ export const billieEilishRide = {
   slug: "billie-eilish-ride",
   title: "Ride",
   artist: "billie-eilish",
-  externalId: "e1525b05-6c03-4e78-9ac8-628267051720",
-  externalLink: "https://musicbrainz.org/work/e1525b05-6c03-4e78-9ac8-628267051720",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e1525b05-6c03-4e78-9ac8-628267051720",
+      externalLink: "https://musicbrainz.org/work/e1525b05-6c03-4e78-9ac8-628267051720",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

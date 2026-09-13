@@ -6,10 +6,14 @@ export const billieEilishUntitled = {
   slug: "billie-eilish-untitled",
   title: "!!!!!!!",
   artist: "billie-eilish",
-  externalId: "2942b400-fb80-4690-a698-433d301724ea",
-  externalLink: "https://musicbrainz.org/work/2942b400-fb80-4690-a698-433d301724ea",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2942b400-fb80-4690-a698-433d301724ea",
+      externalLink: "https://musicbrainz.org/work/2942b400-fb80-4690-a698-433d301724ea",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

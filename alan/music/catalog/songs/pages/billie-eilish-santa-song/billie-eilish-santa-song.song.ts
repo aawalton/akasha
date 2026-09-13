@@ -6,10 +6,14 @@ export const billieEilishSantaSong = {
   slug: "billie-eilish-santa-song",
   title: "Santa Song",
   artist: "billie-eilish",
-  externalId: "2fa3279e-1235-4e1b-8ec3-71f978c3852f",
-  externalLink: "https://musicbrainz.org/work/2fa3279e-1235-4e1b-8ec3-71f978c3852f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2fa3279e-1235-4e1b-8ec3-71f978c3852f",
+      externalLink: "https://musicbrainz.org/work/2fa3279e-1235-4e1b-8ec3-71f978c3852f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

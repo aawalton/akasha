@@ -6,10 +6,14 @@ export const auroraRingTheAlarm = {
   slug: "aurora-ring-the-alarm",
   title: "RING THE ALARM",
   artist: "aurora",
-  externalId: "d302bbb8-d8d3-4e63-be6b-6817b594ebdc",
-  externalLink: "https://musicbrainz.org/work/d302bbb8-d8d3-4e63-be6b-6817b594ebdc",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d302bbb8-d8d3-4e63-be6b-6817b594ebdc",
+      externalLink: "https://musicbrainz.org/work/d302bbb8-d8d3-4e63-be6b-6817b594ebdc",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   lyricsSource: "lrclib",

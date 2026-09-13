@@ -6,10 +6,14 @@ export const arianaGrandeOhSanta = {
   slug: "ariana-grande-oh-santa",
   title: "Oh Santa!",
   artist: "ariana-grande",
-  externalId: "ab956891-dbf7-44e0-8ae9-8e26e696f0b7",
-  externalLink: "https://musicbrainz.org/work/ab956891-dbf7-44e0-8ae9-8e26e696f0b7",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ab956891-dbf7-44e0-8ae9-8e26e696f0b7",
+      externalLink: "https://musicbrainz.org/work/ab956891-dbf7-44e0-8ae9-8e26e696f0b7",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const arianaGrandeNotJustOnChristmas = {
   slug: "ariana-grande-not-just-on-christmas",
   title: "Not Just on Christmas",
   artist: "ariana-grande",
-  externalId: "71fd777c-6bd7-4c9a-a8f0-8d589b89e861",
-  externalLink: "https://musicbrainz.org/work/71fd777c-6bd7-4c9a-a8f0-8d589b89e861",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "71fd777c-6bd7-4c9a-a8f0-8d589b89e861",
+      externalLink: "https://musicbrainz.org/work/71fd777c-6bd7-4c9a-a8f0-8d589b89e861",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

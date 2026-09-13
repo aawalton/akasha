@@ -6,10 +6,14 @@ export const auroraBloodInTheWine = {
   slug: "aurora-blood-in-the-wine",
   title: "Blood in the Wine",
   artist: "aurora",
-  externalId: "64b9d85a-90ed-4758-a3bc-277421c54d75",
-  externalLink: "https://musicbrainz.org/work/64b9d85a-90ed-4758-a3bc-277421c54d75",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "64b9d85a-90ed-4758-a3bc-277421c54d75",
+      externalLink: "https://musicbrainz.org/work/64b9d85a-90ed-4758-a3bc-277421c54d75",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

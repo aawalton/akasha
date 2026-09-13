@@ -6,10 +6,14 @@ export const billieEilishHotlineBling = {
   slug: "billie-eilish-hotline-bling",
   title: "Hotline Bling",
   artist: "billie-eilish",
-  externalId: "1d6f5a61-e53b-4ac7-bd46-8557a0435347",
-  externalLink: "https://musicbrainz.org/work/1d6f5a61-e53b-4ac7-bd46-8557a0435347",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1d6f5a61-e53b-4ac7-bd46-8557a0435347",
+      externalLink: "https://musicbrainz.org/work/1d6f5a61-e53b-4ac7-bd46-8557a0435347",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

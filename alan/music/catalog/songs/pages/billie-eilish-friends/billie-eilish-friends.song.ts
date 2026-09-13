@@ -6,10 +6,14 @@ export const billieEilishFriends = {
   slug: "billie-eilish-friends",
   title: "Friends",
   artist: "billie-eilish",
-  externalId: "4591cc25-2e07-4969-ba66-6f4f0f508e81",
-  externalLink: "https://musicbrainz.org/work/4591cc25-2e07-4969-ba66-6f4f0f508e81",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4591cc25-2e07-4969-ba66-6f4f0f508e81",
+      externalLink: "https://musicbrainz.org/work/4591cc25-2e07-4969-ba66-6f4f0f508e81",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

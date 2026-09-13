@@ -6,10 +6,14 @@ export const auroraInAMinute = {
   slug: "aurora-in-a-minute",
   title: "IN A MINUTE",
   artist: "aurora",
-  externalId: "63d05f11-9a9d-467a-9493-cc638891e343",
-  externalLink: "https://musicbrainz.org/work/63d05f11-9a9d-467a-9493-cc638891e343",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "63d05f11-9a9d-467a-9493-cc638891e343",
+      externalLink: "https://musicbrainz.org/work/63d05f11-9a9d-467a-9493-cc638891e343",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   lyricsSource: "lrclib",

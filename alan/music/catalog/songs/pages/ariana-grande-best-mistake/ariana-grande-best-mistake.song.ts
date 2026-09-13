@@ -6,10 +6,14 @@ export const arianaGrandeBestMistake = {
   slug: "ariana-grande-best-mistake",
   title: "Best Mistake",
   artist: "ariana-grande",
-  externalId: "83a8fb6b-784e-4abc-adc9-aa349c25f096",
-  externalLink: "https://musicbrainz.org/work/83a8fb6b-784e-4abc-adc9-aa349c25f096",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "83a8fb6b-784e-4abc-adc9-aa349c25f096",
+      externalLink: "https://musicbrainz.org/work/83a8fb6b-784e-4abc-adc9-aa349c25f096",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const arianaGrandeGotHerOwn = {
   slug: "ariana-grande-got-her-own",
   title: "Got Her Own",
   artist: "ariana-grande",
-  externalId: "0e41f8c6-7bcd-4f6d-a52f-077441613a1d",
-  externalLink: "https://musicbrainz.org/work/0e41f8c6-7bcd-4f6d-a52f-077441613a1d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0e41f8c6-7bcd-4f6d-a52f-077441613a1d",
+      externalLink: "https://musicbrainz.org/work/0e41f8c6-7bcd-4f6d-a52f-077441613a1d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

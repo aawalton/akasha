@@ -6,10 +6,14 @@ export const auroraInBottles = {
   slug: "aurora-in-bottles",
   title: "In Bottles",
   artist: "aurora",
-  externalId: "62e9ac10-139c-43be-aecf-cdf11721ce58",
-  externalLink: "https://musicbrainz.org/work/62e9ac10-139c-43be-aecf-cdf11721ce58",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "62e9ac10-139c-43be-aecf-cdf11721ce58",
+      externalLink: "https://musicbrainz.org/work/62e9ac10-139c-43be-aecf-cdf11721ce58",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

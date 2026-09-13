@@ -6,10 +6,14 @@ export const arianaGrandeWestSide = {
   slug: "ariana-grande-west-side",
   title: "west side",
   artist: "ariana-grande",
-  externalId: "4184f032-f0d1-4524-81be-da52c65006d4",
-  externalLink: "https://musicbrainz.org/work/4184f032-f0d1-4524-81be-da52c65006d4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4184f032-f0d1-4524-81be-da52c65006d4",
+      externalLink: "https://musicbrainz.org/work/4184f032-f0d1-4524-81be-da52c65006d4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

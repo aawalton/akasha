@@ -6,10 +6,14 @@ export const auroraGentleEarthquakes = {
   slug: "aurora-gentle-earthquakes",
   title: "Gentle Earthquakes",
   artist: "aurora",
-  externalId: "d0e659cf-643f-4cfa-a1e3-ae6b597f6f6f",
-  externalLink: "https://musicbrainz.org/work/d0e659cf-643f-4cfa-a1e3-ae6b597f6f6f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d0e659cf-643f-4cfa-a1e3-ae6b597f6f6f",
+      externalLink: "https://musicbrainz.org/work/d0e659cf-643f-4cfa-a1e3-ae6b597f6f6f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

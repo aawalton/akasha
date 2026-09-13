@@ -6,10 +6,14 @@ export const billieEilishChihiro = {
   slug: "billie-eilish-chihiro",
   title: "CHIHIRO",
   artist: "billie-eilish",
-  externalId: "37e62215-5eee-4fbd-996d-711be8517782",
-  externalLink: "https://musicbrainz.org/work/37e62215-5eee-4fbd-996d-711be8517782",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "37e62215-5eee-4fbd-996d-711be8517782",
+      externalLink: "https://musicbrainz.org/work/37e62215-5eee-4fbd-996d-711be8517782",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

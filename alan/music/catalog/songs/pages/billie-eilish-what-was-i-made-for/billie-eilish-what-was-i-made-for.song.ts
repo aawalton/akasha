@@ -6,10 +6,14 @@ export const billieEilishWhatWasIMadeFor = {
   slug: "billie-eilish-what-was-i-made-for",
   title: "What Was I Made For?",
   artist: "billie-eilish",
-  externalId: "3a301a39-2be9-420b-ae82-ec7869c77ce8",
-  externalLink: "https://musicbrainz.org/work/3a301a39-2be9-420b-ae82-ec7869c77ce8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3a301a39-2be9-420b-ae82-ec7869c77ce8",
+      externalLink: "https://musicbrainz.org/work/3a301a39-2be9-420b-ae82-ec7869c77ce8",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

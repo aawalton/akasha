@@ -6,10 +6,14 @@ export const auroraForgottenLove = {
   slug: "aurora-forgotten-love",
   title: "Forgotten Love",
   artist: "aurora",
-  externalId: "576914a2-4a1e-47b6-b71a-3af47efa50b2",
-  externalLink: "https://musicbrainz.org/work/576914a2-4a1e-47b6-b71a-3af47efa50b2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "576914a2-4a1e-47b6-b71a-3af47efa50b2",
+      externalLink: "https://musicbrainz.org/work/576914a2-4a1e-47b6-b71a-3af47efa50b2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

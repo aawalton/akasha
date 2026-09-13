@@ -6,10 +6,14 @@ export const arianaGrandeHandsOnMe = {
   slug: "ariana-grande-hands-on-me",
   title: "Hands on Me",
   artist: "ariana-grande",
-  externalId: "53c58e94-9a5a-4b0c-8dc5-216b58aec474",
-  externalLink: "https://musicbrainz.org/work/53c58e94-9a5a-4b0c-8dc5-216b58aec474",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "53c58e94-9a5a-4b0c-8dc5-216b58aec474",
+      externalLink: "https://musicbrainz.org/work/53c58e94-9a5a-4b0c-8dc5-216b58aec474",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

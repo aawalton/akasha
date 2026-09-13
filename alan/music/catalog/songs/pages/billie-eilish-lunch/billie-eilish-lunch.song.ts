@@ -6,10 +6,14 @@ export const billieEilishLunch = {
   slug: "billie-eilish-lunch",
   title: "LUNCH",
   artist: "billie-eilish",
-  externalId: "7e79557a-2452-44d9-8e71-585228633fb8",
-  externalLink: "https://musicbrainz.org/work/7e79557a-2452-44d9-8e71-585228633fb8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7e79557a-2452-44d9-8e71-585228633fb8",
+      externalLink: "https://musicbrainz.org/work/7e79557a-2452-44d9-8e71-585228633fb8",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

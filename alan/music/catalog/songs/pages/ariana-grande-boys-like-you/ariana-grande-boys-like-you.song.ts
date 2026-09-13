@@ -6,10 +6,14 @@ export const arianaGrandeBoysLikeYou = {
   slug: "ariana-grande-boys-like-you",
   title: "Boys Like You",
   artist: "ariana-grande",
-  externalId: "b3c54b64-94a9-4b82-90fa-1aa3b75364dd",
-  externalLink: "https://musicbrainz.org/work/b3c54b64-94a9-4b82-90fa-1aa3b75364dd",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b3c54b64-94a9-4b82-90fa-1aa3b75364dd",
+      externalLink: "https://musicbrainz.org/work/b3c54b64-94a9-4b82-90fa-1aa3b75364dd",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

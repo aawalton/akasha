@@ -6,10 +6,14 @@ export const auroraHarpSealPup = {
   slug: "aurora-harp-seal-pup",
   title: "Harp Seal Pup",
   artist: "aurora",
-  externalId: "6dab663f-ee91-4f41-b98e-2394046f847a",
-  externalLink: "https://musicbrainz.org/work/6dab663f-ee91-4f41-b98e-2394046f847a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6dab663f-ee91-4f41-b98e-2394046f847a",
+      externalLink: "https://musicbrainz.org/work/6dab663f-ee91-4f41-b98e-2394046f847a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song
