@@ -1,5 +1,4 @@
 import {
-  DOORS as PUSH_DOORS,
   type Doors as PushDoors,
   pushedIn,
 } from "akasha/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.code.ts"
@@ -18,7 +17,6 @@ import {
 import { credentialOf } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import type { PageOf } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
-import { secretsIn } from "akasha/pages/modules/secret/page-secret.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 const DEFAULT_LOG_PREFIX = "[oauth]"
@@ -42,15 +40,6 @@ export type Doors = {
   readonly push: PushDoors
   readonly now: () => number
   readonly warned: (line: string) => undefined
-}
-
-export const DOORS: Doors = {
-  secretsRead: secretsIn,
-  push: PUSH_DOORS,
-  now: () => Date.now(),
-  warned: (line) => {
-    console.error(line)
-  },
 }
 
 export async function renewedIn(args: {
