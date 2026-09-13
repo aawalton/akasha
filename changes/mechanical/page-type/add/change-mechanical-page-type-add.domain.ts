@@ -5,7 +5,7 @@ export const changeMechanicalPageTypeAdd = {
   type: "domain",
   slug: "change-mechanical-page-type-add",
   definition: "a mechanical change putting a key on every page of one page type",
-  parts: [],
+  parts: ["change-mechanical-page-type/add-property-to-every-page"],
   invariants: [
     {
       invariantKind: "departure",
