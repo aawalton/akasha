@@ -342,15 +342,9 @@ function appendedIn(root: string, page: string, line: string, under: string): st
   return filling.at
 }
 
-export function recordCost(
-  root: string,
-  page: string,
-  cost: Cost,
-  under: string = ENTRIES
-): string | null {
+export function recorded(root: string, page: string, line: string, under: string): string | null {
   const turn = partAt(page, under, FIRST_PART)
   if (turn === null) return null
-  const line = lineFor(cost)
   try {
     return exclusively(
       join(root, turn),
@@ -361,4 +355,13 @@ export function recordCost(
     if (!existsSync(join(root, page))) throw new Error(`\`${page}\` ${NAMES_NO_PAGE}`)
     return null
   }
+}
+
+export function recordCost(
+  root: string,
+  page: string,
+  cost: Cost,
+  under: string = ENTRIES
+): string | null {
+  return recorded(root, page, lineFor(cost), under)
 }

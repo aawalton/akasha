@@ -252,5 +252,9 @@ export const checkCost = {
       statement:
         "A line whose next file cannot be named is appended to the full file rather than refused.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A line that is no cost is appended beside a page the same way a cost is.",
+    },
   ],
 } as const satisfies Module
