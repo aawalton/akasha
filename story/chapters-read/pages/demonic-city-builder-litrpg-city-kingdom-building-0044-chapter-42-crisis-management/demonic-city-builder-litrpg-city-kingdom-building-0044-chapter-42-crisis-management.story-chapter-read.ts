@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0044Chapter42CrisisManag
   ownLength: 2812,
   unit: "words",
   publishedAt: "2026-07-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3660527/chapter-42-crisis-management",
-  externalId: "3660527",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3660527",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3660527/chapter-42-crisis-management",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

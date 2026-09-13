@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0037Chapter35FindTheUnde
   ownLength: 2104,
   unit: "words",
   publishedAt: "2026-06-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3587389/chapter-35-find-the-underlying-issue",
-  externalId: "3587389",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3587389",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3587389/chapter-35-find-the-underlying-issue",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

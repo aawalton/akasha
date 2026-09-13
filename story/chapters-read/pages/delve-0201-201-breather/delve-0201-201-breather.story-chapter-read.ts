@@ -10,8 +10,12 @@ export const delve0201201Breather = {
   ownLength: 5121,
   unit: "words",
   publishedAt: "2022-08-07",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/965421/201-breather",
-  externalId: "965421",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "965421",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/965421/201-breather",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

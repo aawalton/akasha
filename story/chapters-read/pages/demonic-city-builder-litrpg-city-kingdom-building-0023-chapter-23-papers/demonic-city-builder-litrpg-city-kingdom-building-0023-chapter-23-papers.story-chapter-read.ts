@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0023Chapter23Papers = {
   ownLength: 1694,
   unit: "words",
   publishedAt: "2026-05-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3470571/chapter-23-papers",
-  externalId: "3470571",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3470571",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3470571/chapter-23-papers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

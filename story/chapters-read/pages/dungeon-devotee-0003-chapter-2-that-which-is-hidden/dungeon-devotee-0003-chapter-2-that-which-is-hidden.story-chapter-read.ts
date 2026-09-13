@@ -12,9 +12,13 @@ export const dungeonDevotee0003Chapter2ThatWhichIsHidden = {
   unit: "words",
   completedAt: "2026-06-29T22:37:06.948Z",
   publishedAt: "2022-02-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/848363/chapter-2-that-which-is-hidden",
-  externalId: "848363",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "848363",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/848363/chapter-2-that-which-is-hidden",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

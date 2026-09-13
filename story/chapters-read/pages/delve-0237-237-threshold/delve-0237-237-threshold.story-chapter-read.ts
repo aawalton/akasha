@@ -10,8 +10,12 @@ export const delve0237237Threshold = {
   ownLength: 3527,
   unit: "words",
   publishedAt: "2023-07-09",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1271479/237-threshold",
-  externalId: "1271479",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1271479",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1271479/237-threshold",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,12 @@ export const delve0250250Debut = {
   ownLength: 2933,
   unit: "words",
   publishedAt: "2023-11-12",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1405978/250-debut",
-  externalId: "1405978",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1405978",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1405978/250-debut",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

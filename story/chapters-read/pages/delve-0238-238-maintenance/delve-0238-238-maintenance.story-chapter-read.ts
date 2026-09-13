@@ -10,8 +10,12 @@ export const delve0238238Maintenance = {
   ownLength: 5391,
   unit: "words",
   publishedAt: "2023-07-23",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1286257/238-maintenance",
-  externalId: "1286257",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1286257",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1286257/238-maintenance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

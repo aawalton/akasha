@@ -10,8 +10,12 @@ export const delve0214214Unity = {
   ownLength: 3112,
   unit: "words",
   publishedAt: "2022-12-11",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1060694/214-unity",
-  externalId: "1060694",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1060694",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1060694/214-unity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,12 @@ export const delve0223223Control = {
   ownLength: 4315,
   unit: "words",
   publishedAt: "2023-03-05",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1129208/223-control",
-  externalId: "1129208",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1129208",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1129208/223-control",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

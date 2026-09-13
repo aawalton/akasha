@@ -10,8 +10,12 @@ export const delve0215215Outing = {
   ownLength: 4274,
   unit: "words",
   publishedAt: "2022-12-18",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1065817/215-outing",
-  externalId: "1065817",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1065817",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1065817/215-outing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

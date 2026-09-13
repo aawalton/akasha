@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0007Chapter7LibraryAndGardens = {
   ownLength: 2319,
   unit: "words",
   publishedAt: "2026-05-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3445540/chapter-7-library-and-gardens",
-  externalId: "3445540",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3445540",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3445540/chapter-7-library-and-gardens",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

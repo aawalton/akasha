@@ -10,8 +10,12 @@ export const delve0225225Shakedown = {
   ownLength: 3750,
   unit: "words",
   publishedAt: "2023-03-19",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1142275/225-shakedown",
-  externalId: "1142275",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1142275",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1142275/225-shakedown",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

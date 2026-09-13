@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0016Chapter16SunkCost = 
   ownLength: 3285,
   unit: "words",
   publishedAt: "2026-05-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3440560/chapter-16-sunk-cost",
-  externalId: "3440560",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3440560",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3440560/chapter-16-sunk-cost",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,12 @@ export const delve0273273Backup = {
   ownLength: 4074,
   unit: "words",
   publishedAt: "2025-12-14",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/2847324/273-backup",
-  externalId: "2847324",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2847324",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/2847324/273-backup",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

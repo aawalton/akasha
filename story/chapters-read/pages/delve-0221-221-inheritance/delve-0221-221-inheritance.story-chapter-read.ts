@@ -10,8 +10,12 @@ export const delve0221221Inheritance = {
   ownLength: 3252,
   unit: "words",
   publishedAt: "2023-02-12",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1111803/221-inheritance",
-  externalId: "1111803",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1111803",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1111803/221-inheritance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const delve0199199Unprecedented = {
   ownLength: 3896,
   unit: "words",
   publishedAt: "2022-07-24",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/955185/199-unprecedented",
-  externalId: "955185",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "955185",
+      externalLink:
+        "https://www.royalroad.com/fiction/25225/delve/chapter/955185/199-unprecedented",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

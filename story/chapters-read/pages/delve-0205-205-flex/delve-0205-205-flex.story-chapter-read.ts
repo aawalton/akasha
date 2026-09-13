@@ -10,8 +10,12 @@ export const delve0205205Flex = {
   ownLength: 4218,
   unit: "words",
   publishedAt: "2022-09-18",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/996468/205-flex",
-  externalId: "996468",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "996468",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/996468/205-flex",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,12 @@ export const delve0259259Impression = {
   ownLength: 3705,
   unit: "words",
   publishedAt: "2024-02-04",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1505883/259-impression",
-  externalId: "1505883",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1505883",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1505883/259-impression",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

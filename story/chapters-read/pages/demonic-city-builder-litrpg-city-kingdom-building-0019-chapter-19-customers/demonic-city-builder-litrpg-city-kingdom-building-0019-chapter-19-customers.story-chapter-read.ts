@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0019Chapter19Customers =
   ownLength: 1261,
   unit: "words",
   publishedAt: "2026-05-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3447930/chapter-19-customers",
-  externalId: "3447930",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3447930",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3447930/chapter-19-customers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

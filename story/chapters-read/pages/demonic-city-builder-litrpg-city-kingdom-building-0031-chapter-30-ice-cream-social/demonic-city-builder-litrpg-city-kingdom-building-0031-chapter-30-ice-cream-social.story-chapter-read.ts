@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0031Chapter30IceCreamSoc
   ownLength: 2202,
   unit: "words",
   publishedAt: "2026-06-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3532377/chapter-30-ice-cream-social",
-  externalId: "3532377",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3532377",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3532377/chapter-30-ice-cream-social",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,12 @@ export const delve0227227Risk = {
   ownLength: 4509,
   unit: "words",
   publishedAt: "2023-04-09",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1163431/227-risk",
-  externalId: "1163431",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1163431",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1163431/227-risk",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

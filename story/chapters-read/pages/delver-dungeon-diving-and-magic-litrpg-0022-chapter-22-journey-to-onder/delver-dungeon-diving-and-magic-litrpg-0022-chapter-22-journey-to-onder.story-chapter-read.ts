@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0022Chapter22JourneyToOnder = {
   ownLength: 2400,
   unit: "words",
   publishedAt: "2026-06-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3515854/chapter-22-journey-to-onder",
-  externalId: "3515854",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3515854",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3515854/chapter-22-journey-to-onder",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

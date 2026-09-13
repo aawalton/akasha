@@ -10,8 +10,12 @@ export const delve0264264Business = {
   ownLength: 3822,
   unit: "words",
   publishedAt: "2024-05-27",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1652253/264-business",
-  externalId: "1652253",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1652253",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1652253/264-business",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

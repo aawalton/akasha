@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0035Chapter35MageSJournal = {
   ownLength: 2106,
   unit: "words",
   publishedAt: "2026-06-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3581113/chapter-35-mages-journal",
-  externalId: "3581113",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3581113",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3581113/chapter-35-mages-journal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

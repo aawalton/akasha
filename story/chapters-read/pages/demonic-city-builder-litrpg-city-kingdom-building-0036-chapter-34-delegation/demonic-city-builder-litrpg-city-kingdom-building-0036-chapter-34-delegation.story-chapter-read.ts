@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0036Chapter34Delegation 
   ownLength: 2395,
   unit: "words",
   publishedAt: "2026-06-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3577906/chapter-34-delegation",
-  externalId: "3577906",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3577906",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3577906/chapter-34-delegation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

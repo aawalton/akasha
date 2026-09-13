@@ -12,9 +12,13 @@ export const dungeonDevotee0007Chapter6NoLostLittleGirl = {
   unit: "words",
   completedAt: "2026-06-29T22:39:15.339Z",
   publishedAt: "2022-03-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/855726/chapter-6-no-lost-little-girl",
-  externalId: "855726",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "855726",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/855726/chapter-6-no-lost-little-girl",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

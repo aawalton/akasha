@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0013Chapter13OrgChart = 
   ownLength: 2220,
   unit: "words",
   publishedAt: "2026-05-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3428002/chapter-13-org-chart",
-  externalId: "3428002",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3428002",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3428002/chapter-13-org-chart",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

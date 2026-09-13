@@ -10,8 +10,12 @@ export const delve0228228Plea = {
   ownLength: 2989,
   unit: "words",
   publishedAt: "2023-04-16",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1180160/228-plea",
-  externalId: "1180160",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1180160",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1180160/228-plea",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

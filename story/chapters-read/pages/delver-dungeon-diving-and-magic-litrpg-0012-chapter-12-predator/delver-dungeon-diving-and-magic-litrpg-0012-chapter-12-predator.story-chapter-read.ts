@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0012Chapter12Predator = {
   ownLength: 2166,
   unit: "words",
   publishedAt: "2026-05-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3470777/chapter-12-predator",
-  externalId: "3470777",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3470777",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3470777/chapter-12-predator",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

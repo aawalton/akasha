@@ -10,8 +10,12 @@ export const delve0233233Bloodmarsh = {
   ownLength: 2507,
   unit: "words",
   publishedAt: "2023-06-04",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1234581/233-bloodmarsh",
-  externalId: "1234581",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1234581",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1234581/233-bloodmarsh",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

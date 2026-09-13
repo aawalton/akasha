@@ -10,8 +10,13 @@ export const delve0246246Inhospitable = {
   ownLength: 4479,
   unit: "words",
   publishedAt: "2023-10-01",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1360090/246-inhospitable",
-  externalId: "1360090",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1360090",
+      externalLink:
+        "https://www.royalroad.com/fiction/25225/delve/chapter/1360090/246-inhospitable",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonDevotee0012Chapter10HintsOfThePastAndInklingsOfTheFuture = {
   unit: "words",
   completedAt: "2026-06-29T22:39:25.265Z",
   publishedAt: "2022-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/939655/chapter-10-hints-of-the-past-and-inklings-of-the",
-  externalId: "939655",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "939655",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/939655/chapter-10-hints-of-the-past-and-inklings-of-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

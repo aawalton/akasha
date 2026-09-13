@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0022Chapter22Autonomy = 
   ownLength: 2487,
   unit: "words",
   publishedAt: "2026-05-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3466881/chapter-22-autonomy",
-  externalId: "3466881",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3466881",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3466881/chapter-22-autonomy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

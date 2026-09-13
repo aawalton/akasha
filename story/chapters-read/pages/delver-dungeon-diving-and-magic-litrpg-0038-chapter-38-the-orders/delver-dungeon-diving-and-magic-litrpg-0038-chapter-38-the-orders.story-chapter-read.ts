@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0038Chapter38TheOrders = {
   ownLength: 2111,
   unit: "words",
   publishedAt: "2026-07-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3623352/chapter-38-the-orders",
-  externalId: "3623352",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3623352",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3623352/chapter-38-the-orders",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

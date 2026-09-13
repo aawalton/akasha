@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0030Chapter29Maps = {
   ownLength: 1597,
   unit: "words",
   publishedAt: "2026-06-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3522413/chapter-29-maps",
-  externalId: "3522413",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3522413",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3522413/chapter-29-maps",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

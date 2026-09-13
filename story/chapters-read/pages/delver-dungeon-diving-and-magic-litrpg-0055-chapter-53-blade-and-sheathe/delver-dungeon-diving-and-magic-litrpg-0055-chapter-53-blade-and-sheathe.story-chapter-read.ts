@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0055Chapter53BladeAndSheathe = {
   ownLength: 2046,
   unit: "words",
   publishedAt: "2026-08-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3796920/chapter-53-blade-and-sheathe",
-  externalId: "3796920",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3796920",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3796920/chapter-53-blade-and-sheathe",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

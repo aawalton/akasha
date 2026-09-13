@@ -12,9 +12,13 @@ export const dungeonDevotee0030Chapter26WhenItRains = {
   unit: "words",
   completedAt: "2026-06-29T22:40:05.622Z",
   publishedAt: "2023-11-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1393424/chapter-26-when-it-rains",
-  externalId: "1393424",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1393424",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1393424/chapter-26-when-it-rains",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

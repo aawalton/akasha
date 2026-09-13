@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0027Chapter27Haven = {
   ownLength: 1693,
   unit: "words",
   publishedAt: "2026-06-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3539370/chapter-27-haven",
-  externalId: "3539370",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3539370",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3539370/chapter-27-haven",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

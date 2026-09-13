@@ -10,8 +10,12 @@ export const delve0178178Proposition = {
   ownLength: 4059,
   unit: "words",
   publishedAt: "2022-01-16",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/825753/178-proposition",
-  externalId: "825753",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "825753",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/825753/178-proposition",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

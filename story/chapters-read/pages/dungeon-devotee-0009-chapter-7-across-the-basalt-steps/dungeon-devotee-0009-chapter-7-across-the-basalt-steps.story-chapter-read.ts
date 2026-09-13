@@ -12,9 +12,13 @@ export const dungeonDevotee0009Chapter7AcrossTheBasaltSteps = {
   unit: "words",
   completedAt: "2026-06-29T22:39:19.200Z",
   publishedAt: "2022-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/875407/chapter-7-across-the-basalt-steps",
-  externalId: "875407",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "875407",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/875407/chapter-7-across-the-basalt-steps",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

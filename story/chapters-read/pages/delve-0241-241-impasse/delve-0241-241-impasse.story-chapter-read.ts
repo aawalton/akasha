@@ -10,8 +10,12 @@ export const delve0241241Impasse = {
   ownLength: 3184,
   unit: "words",
   publishedAt: "2023-08-20",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1316118/241-impasse",
-  externalId: "1316118",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1316118",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1316118/241-impasse",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

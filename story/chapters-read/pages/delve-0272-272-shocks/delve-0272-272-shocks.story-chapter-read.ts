@@ -10,8 +10,12 @@ export const delve0272272Shocks = {
   ownLength: 2202,
   unit: "words",
   publishedAt: "2025-09-07",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/2580914/272-shocks",
-  externalId: "2580914",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2580914",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/2580914/272-shocks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

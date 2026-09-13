@@ -12,9 +12,13 @@ export const dungeonDevotee0016Chapter14TheUnrealTouchesBack = {
   unit: "words",
   completedAt: "2026-06-29T22:39:34.614Z",
   publishedAt: "2022-11-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1029198/chapter-14-the-unreal-touches-back",
-  externalId: "1029198",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1029198",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1029198/chapter-14-the-unreal-touches-back",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

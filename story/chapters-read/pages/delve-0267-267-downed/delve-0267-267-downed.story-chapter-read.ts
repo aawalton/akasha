@@ -10,8 +10,12 @@ export const delve0267267Downed = {
   ownLength: 3369,
   unit: "words",
   publishedAt: "2024-09-08",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1793368/267-downed",
-  externalId: "1793368",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1793368",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1793368/267-downed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

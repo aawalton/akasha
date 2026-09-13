@@ -10,8 +10,12 @@ export const delve0220220Expanded = {
   ownLength: 4177,
   unit: "words",
   publishedAt: "2023-02-05",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1106013/220-expanded",
-  externalId: "1106013",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1106013",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1106013/220-expanded",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

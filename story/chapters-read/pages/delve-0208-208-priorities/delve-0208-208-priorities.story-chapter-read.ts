@@ -10,8 +10,12 @@ export const delve0208208Priorities = {
   ownLength: 4150,
   unit: "words",
   publishedAt: "2022-10-16",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1017030/208-priorities",
-  externalId: "1017030",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1017030",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1017030/208-priorities",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

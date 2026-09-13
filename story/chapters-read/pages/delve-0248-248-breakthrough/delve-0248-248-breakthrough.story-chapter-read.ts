@@ -10,8 +10,13 @@ export const delve0248248Breakthrough = {
   ownLength: 3244,
   unit: "words",
   publishedAt: "2023-10-22",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1381938/248-breakthrough",
-  externalId: "1381938",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1381938",
+      externalLink:
+        "https://www.royalroad.com/fiction/25225/delve/chapter/1381938/248-breakthrough",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

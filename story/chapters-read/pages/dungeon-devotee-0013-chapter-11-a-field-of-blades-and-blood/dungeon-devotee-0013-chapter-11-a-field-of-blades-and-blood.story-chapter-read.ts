@@ -12,9 +12,13 @@ export const dungeonDevotee0013Chapter11AFieldOfBladesAndBlood = {
   unit: "words",
   completedAt: "2026-06-29T22:39:27.288Z",
   publishedAt: "2022-08-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/961377/chapter-11-a-field-of-blades-and-blood",
-  externalId: "961377",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "961377",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/961377/chapter-11-a-field-of-blades-and-blood",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,12 @@ export const delve0260260Pitch = {
   ownLength: 3839,
   unit: "words",
   publishedAt: "2024-02-11",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1514036/260-pitch",
-  externalId: "1514036",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1514036",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1514036/260-pitch",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0011Chapter11IceWitch = {
   ownLength: 2235,
   unit: "words",
   publishedAt: "2026-05-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3466449/chapter-11-ice-witch",
-  externalId: "3466449",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3466449",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3466449/chapter-11-ice-witch",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

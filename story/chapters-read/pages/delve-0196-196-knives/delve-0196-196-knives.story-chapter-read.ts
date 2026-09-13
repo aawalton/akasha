@@ -10,8 +10,12 @@ export const delve0196196Knives = {
   ownLength: 4139,
   unit: "words",
   publishedAt: "2022-06-26",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/935714/196-knives",
-  externalId: "935714",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "935714",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/935714/196-knives",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

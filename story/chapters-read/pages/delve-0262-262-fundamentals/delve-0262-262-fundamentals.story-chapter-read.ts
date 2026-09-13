@@ -10,8 +10,13 @@ export const delve0262262Fundamentals = {
   ownLength: 2816,
   unit: "words",
   publishedAt: "2024-03-03",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1539772/262-fundamentals",
-  externalId: "1539772",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1539772",
+      externalLink:
+        "https://www.royalroad.com/fiction/25225/delve/chapter/1539772/262-fundamentals",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

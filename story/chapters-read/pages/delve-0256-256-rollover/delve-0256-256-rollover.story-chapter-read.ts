@@ -10,8 +10,12 @@ export const delve0256256Rollover = {
   ownLength: 3593,
   unit: "words",
   publishedAt: "2024-01-07",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1468552/256-rollover",
-  externalId: "1468552",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1468552",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1468552/256-rollover",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

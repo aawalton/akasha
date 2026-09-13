@@ -10,8 +10,12 @@ export const delve0195195Stealth = {
   ownLength: 5511,
   unit: "words",
   publishedAt: "2022-06-12",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/925749/195-stealth",
-  externalId: "925749",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "925749",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/925749/195-stealth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

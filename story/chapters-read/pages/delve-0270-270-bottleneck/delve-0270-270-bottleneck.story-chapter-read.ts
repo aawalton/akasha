@@ -10,8 +10,12 @@ export const delve0270270Bottleneck = {
   ownLength: 2748,
   unit: "words",
   publishedAt: "2024-12-10",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1949001/270-bottleneck",
-  externalId: "1949001",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1949001",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1949001/270-bottleneck",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

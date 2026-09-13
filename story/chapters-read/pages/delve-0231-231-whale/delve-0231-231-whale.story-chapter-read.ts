@@ -10,8 +10,12 @@ export const delve0231231Whale = {
   ownLength: 3710,
   unit: "words",
   publishedAt: "2023-05-14",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1212514/231-whale",
-  externalId: "1212514",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1212514",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1212514/231-whale",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

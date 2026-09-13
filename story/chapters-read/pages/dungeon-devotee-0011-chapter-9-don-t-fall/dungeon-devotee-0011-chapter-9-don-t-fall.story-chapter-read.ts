@@ -12,9 +12,13 @@ export const dungeonDevotee0011Chapter9DonTFall = {
   unit: "words",
   completedAt: "2026-06-29T22:39:23.160Z",
   publishedAt: "2022-06-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/918659/chapter-9-dont-fall",
-  externalId: "918659",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "918659",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/918659/chapter-9-dont-fall",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

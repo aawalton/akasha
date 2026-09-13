@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0061Chapter58BloodOfAnOwl = {
   ownLength: 2277,
   unit: "words",
   publishedAt: "2026-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3901721/chapter-58-blood-of-an-owl",
-  externalId: "3901721",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3901721",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3901721/chapter-58-blood-of-an-owl",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

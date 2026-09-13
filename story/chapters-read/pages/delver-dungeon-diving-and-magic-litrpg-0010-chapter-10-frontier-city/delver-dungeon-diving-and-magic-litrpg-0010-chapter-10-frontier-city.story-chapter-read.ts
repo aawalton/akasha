@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0010Chapter10FrontierCity = {
   ownLength: 2281,
   unit: "words",
   publishedAt: "2026-05-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3461660/chapter-10-frontier-city",
-  externalId: "3461660",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3461660",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3461660/chapter-10-frontier-city",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

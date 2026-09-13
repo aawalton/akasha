@@ -10,8 +10,12 @@ export const delve0198198Unrelenting = {
   ownLength: 4528,
   unit: "words",
   publishedAt: "2022-07-10",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/945543/198-unrelenting",
-  externalId: "945543",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "945543",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/945543/198-unrelenting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

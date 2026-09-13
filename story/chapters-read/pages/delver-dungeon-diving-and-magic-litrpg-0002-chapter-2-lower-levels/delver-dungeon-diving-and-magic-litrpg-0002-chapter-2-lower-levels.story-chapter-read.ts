@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0002Chapter2LowerLevels = {
   ownLength: 2682,
   unit: "words",
   publishedAt: "2026-05-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3442723/chapter-2-lower-levels",
-  externalId: "3442723",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3442723",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3442723/chapter-2-lower-levels",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

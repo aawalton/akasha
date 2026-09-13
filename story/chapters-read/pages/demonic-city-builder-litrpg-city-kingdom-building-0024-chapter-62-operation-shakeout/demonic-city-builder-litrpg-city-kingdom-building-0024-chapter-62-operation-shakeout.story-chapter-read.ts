@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0024Chapter62OperationSh
   ownLength: 2225,
   unit: "words",
   publishedAt: "2026-09-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3903132/chapter-62-operation-shakeout",
-  externalId: "3903132",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3903132",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3903132/chapter-62-operation-shakeout",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

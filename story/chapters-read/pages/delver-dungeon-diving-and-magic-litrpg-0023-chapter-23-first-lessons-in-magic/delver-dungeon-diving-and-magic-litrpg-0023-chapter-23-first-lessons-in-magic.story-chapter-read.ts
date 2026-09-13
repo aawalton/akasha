@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0023Chapter23FirstLessonsInMagic =
   ownLength: 2432,
   unit: "words",
   publishedAt: "2026-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3521069/chapter-23-first-lessons-in-magic",
-  externalId: "3521069",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3521069",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3521069/chapter-23-first-lessons-in-magic",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

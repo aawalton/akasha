@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0034Chapter33ABTesting =
   ownLength: 2853,
   unit: "words",
   publishedAt: "2026-06-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3564402/chapter-33-ab-testing",
-  externalId: "3564402",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3564402",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3564402/chapter-33-ab-testing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

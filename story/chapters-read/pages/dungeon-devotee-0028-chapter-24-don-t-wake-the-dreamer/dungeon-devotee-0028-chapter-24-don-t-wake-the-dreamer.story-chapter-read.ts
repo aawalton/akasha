@@ -12,9 +12,13 @@ export const dungeonDevotee0028Chapter24DonTWakeTheDreamer = {
   unit: "words",
   completedAt: "2026-06-29T22:40:01.087Z",
   publishedAt: "2023-09-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1329629/chapter-24-dont-wake-the-dreamer",
-  externalId: "1329629",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1329629",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1329629/chapter-24-dont-wake-the-dreamer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

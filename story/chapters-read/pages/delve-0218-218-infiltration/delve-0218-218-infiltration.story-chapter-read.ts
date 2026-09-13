@@ -10,8 +10,13 @@ export const delve0218218Infiltration = {
   ownLength: 3617,
   unit: "words",
   publishedAt: "2023-01-15",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1088246/218-infiltration",
-  externalId: "1088246",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1088246",
+      externalLink:
+        "https://www.royalroad.com/fiction/25225/delve/chapter/1088246/218-infiltration",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

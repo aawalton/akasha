@@ -10,8 +10,13 @@ export const delve0234234Unsupervised = {
   ownLength: 3375,
   unit: "words",
   publishedAt: "2023-06-11",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1241774/234-unsupervised",
-  externalId: "1241774",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1241774",
+      externalLink:
+        "https://www.royalroad.com/fiction/25225/delve/chapter/1241774/234-unsupervised",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

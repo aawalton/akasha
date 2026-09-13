@@ -10,8 +10,12 @@ export const delve0183183Welcome = {
   ownLength: 3453,
   unit: "words",
   publishedAt: "2022-02-20",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/849274/183-welcome",
-  externalId: "849274",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "849274",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/849274/183-welcome",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

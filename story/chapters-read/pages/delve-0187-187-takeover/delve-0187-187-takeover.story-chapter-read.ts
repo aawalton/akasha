@@ -10,8 +10,12 @@ export const delve0187187Takeover = {
   ownLength: 4494,
   unit: "words",
   publishedAt: "2022-04-03",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/876665/187-takeover",
-  externalId: "876665",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "876665",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/876665/187-takeover",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

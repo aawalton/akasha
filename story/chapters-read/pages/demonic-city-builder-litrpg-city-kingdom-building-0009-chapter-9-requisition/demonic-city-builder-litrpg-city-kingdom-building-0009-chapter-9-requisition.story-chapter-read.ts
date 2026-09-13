@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0009Chapter9Requisition 
   ownLength: 1349,
   unit: "words",
   publishedAt: "2026-05-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423605/chapter-9-requisition",
-  externalId: "3423605",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3423605",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423605/chapter-9-requisition",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

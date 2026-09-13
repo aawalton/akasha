@@ -10,8 +10,12 @@ export const delve0212212Opportunity = {
   ownLength: 3392,
   unit: "words",
   publishedAt: "2022-11-20",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1044832/212-opportunity",
-  externalId: "1044832",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1044832",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1044832/212-opportunity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0038Chapter36Compliance 
   ownLength: 2308,
   unit: "words",
   publishedAt: "2026-06-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3595957/chapter-36-compliance",
-  externalId: "3595957",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3595957",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3595957/chapter-36-compliance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

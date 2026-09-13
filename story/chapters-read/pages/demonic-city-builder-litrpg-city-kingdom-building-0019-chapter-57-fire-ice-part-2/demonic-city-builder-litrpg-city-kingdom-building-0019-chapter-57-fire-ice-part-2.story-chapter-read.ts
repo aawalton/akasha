@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0019Chapter57FireIcePart
   ownLength: 2295,
   unit: "words",
   publishedAt: "2026-08-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3861535/chapter-57-fire-ice-part-2",
-  externalId: "3861535",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3861535",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3861535/chapter-57-fire-ice-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

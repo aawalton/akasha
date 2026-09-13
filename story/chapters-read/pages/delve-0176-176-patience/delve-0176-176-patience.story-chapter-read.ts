@@ -10,8 +10,12 @@ export const delve0176176Patience = {
   ownLength: 5561,
   unit: "words",
   publishedAt: "2021-12-26",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/813296/176-patience",
-  externalId: "813296",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "813296",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/813296/176-patience",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

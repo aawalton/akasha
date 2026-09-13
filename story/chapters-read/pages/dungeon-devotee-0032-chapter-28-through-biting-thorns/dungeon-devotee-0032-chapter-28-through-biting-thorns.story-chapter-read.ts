@@ -11,9 +11,13 @@ export const dungeonDevotee0032Chapter28ThroughBitingThorns = {
   ownProgress: 8625,
   unit: "words",
   publishedAt: "2024-01-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1463238/chapter-28-through-biting-thorns",
-  externalId: "1463238",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1463238",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1463238/chapter-28-through-biting-thorns",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

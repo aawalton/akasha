@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0019Chapter19TheGardens = {
   ownLength: 2052,
   unit: "words",
   publishedAt: "2026-06-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3502443/chapter-19-the-gardens",
-  externalId: "3502443",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3502443",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3502443/chapter-19-the-gardens",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

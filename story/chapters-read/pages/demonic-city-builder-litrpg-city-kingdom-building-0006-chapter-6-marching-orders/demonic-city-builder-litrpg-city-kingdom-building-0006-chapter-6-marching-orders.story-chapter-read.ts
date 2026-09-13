@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0006Chapter6MarchingOrde
   ownLength: 1247,
   unit: "words",
   publishedAt: "2026-05-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423563/chapter-6-marching-orders",
-  externalId: "3423563",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3423563",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423563/chapter-6-marching-orders",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

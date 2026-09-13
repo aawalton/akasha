@@ -10,8 +10,12 @@ export const delve0226226Anchorage = {
   ownLength: 4132,
   unit: "words",
   publishedAt: "2023-04-02",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1155401/226-anchorage",
-  externalId: "1155401",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1155401",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1155401/226-anchorage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

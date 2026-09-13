@@ -10,8 +10,12 @@ export const delve0251251Homecoming = {
   ownLength: 4079,
   unit: "words",
   publishedAt: "2023-11-19",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1414714/251-homecoming",
-  externalId: "1414714",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1414714",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1414714/251-homecoming",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0026Chapter26Pursued = {
   ownLength: 1962,
   unit: "words",
   publishedAt: "2026-06-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3535307/chapter-26-pursued",
-  externalId: "3535307",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3535307",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3535307/chapter-26-pursued",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

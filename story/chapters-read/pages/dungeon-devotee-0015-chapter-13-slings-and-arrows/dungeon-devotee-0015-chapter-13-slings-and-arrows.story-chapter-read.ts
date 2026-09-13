@@ -12,9 +12,13 @@ export const dungeonDevotee0015Chapter13SlingsAndArrows = {
   unit: "words",
   completedAt: "2026-06-29T22:39:32.488Z",
   publishedAt: "2022-10-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1006260/chapter-13-slings-and-arrows",
-  externalId: "1006260",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1006260",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1006260/chapter-13-slings-and-arrows",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

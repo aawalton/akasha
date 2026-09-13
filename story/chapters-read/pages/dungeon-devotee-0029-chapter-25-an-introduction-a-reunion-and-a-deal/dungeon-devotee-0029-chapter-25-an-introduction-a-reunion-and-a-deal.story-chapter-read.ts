@@ -12,9 +12,13 @@ export const dungeonDevotee0029Chapter25AnIntroductionAReunionAndADeal = {
   unit: "words",
   completedAt: "2026-06-29T22:40:03.547Z",
   publishedAt: "2023-10-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1360943/chapter-25-an-introduction-a-reunion-and-a-deal",
-  externalId: "1360943",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1360943",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1360943/chapter-25-an-introduction-a-reunion-and-a-deal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

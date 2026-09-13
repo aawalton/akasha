@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0010Chapter49TheDealOfAL
   ownLength: 2483,
   unit: "words",
   publishedAt: "2026-08-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3775975/chapter-49-the-deal-of-a-lifetime-part-2",
-  externalId: "3775975",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3775975",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3775975/chapter-49-the-deal-of-a-lifetime-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

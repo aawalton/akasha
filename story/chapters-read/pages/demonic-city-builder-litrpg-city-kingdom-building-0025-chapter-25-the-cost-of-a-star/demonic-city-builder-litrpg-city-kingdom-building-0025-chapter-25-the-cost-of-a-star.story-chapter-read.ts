@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0025Chapter25TheCostOfAS
   ownLength: 2067,
   unit: "words",
   publishedAt: "2026-06-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3481184/chapter-25-the-cost-of-a-star",
-  externalId: "3481184",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3481184",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3481184/chapter-25-the-cost-of-a-star",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

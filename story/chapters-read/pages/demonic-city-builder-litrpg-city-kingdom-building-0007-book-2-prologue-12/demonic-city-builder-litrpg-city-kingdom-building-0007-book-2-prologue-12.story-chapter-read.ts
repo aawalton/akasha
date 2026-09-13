@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0007Book2Prologue12 = {
   ownLength: 2117,
   unit: "words",
   publishedAt: "2026-08-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3753810/book-2-prologue-12",
-  externalId: "3753810",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3753810",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3753810/book-2-prologue-12",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

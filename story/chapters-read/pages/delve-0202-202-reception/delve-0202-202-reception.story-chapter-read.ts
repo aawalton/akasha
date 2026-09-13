@@ -10,8 +10,12 @@ export const delve0202202Reception = {
   ownLength: 4490,
   unit: "words",
   publishedAt: "2022-08-21",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/976197/202-reception",
-  externalId: "976197",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "976197",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/976197/202-reception",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

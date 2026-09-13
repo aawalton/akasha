@@ -10,8 +10,12 @@ export const delve0257257Blunt = {
   ownLength: 3011,
   unit: "words",
   publishedAt: "2024-01-14",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1476753/257-blunt",
-  externalId: "1476753",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1476753",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1476753/257-blunt",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

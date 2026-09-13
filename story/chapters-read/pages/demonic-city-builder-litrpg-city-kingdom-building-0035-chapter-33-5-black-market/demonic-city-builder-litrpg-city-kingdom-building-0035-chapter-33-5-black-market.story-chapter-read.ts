@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0035Chapter335BlackMarke
   ownLength: 1918,
   unit: "words",
   publishedAt: "2026-06-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3567296/chapter-335-black-market",
-  externalId: "3567296",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3567296",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3567296/chapter-335-black-market",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

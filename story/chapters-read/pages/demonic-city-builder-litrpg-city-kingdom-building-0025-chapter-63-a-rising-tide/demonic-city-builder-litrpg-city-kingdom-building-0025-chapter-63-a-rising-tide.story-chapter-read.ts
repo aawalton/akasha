@@ -8,11 +8,15 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0025Chapter63ARisingTide
   position: 25,
   publishedAt: "2026-09-04",
   unit: "words",
-  externalId: "3912670",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3912670",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3912670/chapter-63-a-rising-tide",
+    },
+  ],
   title: "Chapter 63 - A Rising Tide",
   ownLength: 2397,
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3912670/chapter-63-a-rising-tide",
   prose: "txt",
 } as const satisfies StoryChapterRead

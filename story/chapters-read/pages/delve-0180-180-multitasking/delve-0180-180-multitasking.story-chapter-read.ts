@@ -10,8 +10,12 @@ export const delve0180180Multitasking = {
   ownLength: 5464,
   unit: "words",
   publishedAt: "2022-01-30",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/834765/180-multitasking",
-  externalId: "834765",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "834765",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/834765/180-multitasking",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0033Chapter33Ambush = {
   ownLength: 2131,
   unit: "words",
   publishedAt: "2026-06-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3567474/chapter-33-ambush",
-  externalId: "3567474",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3567474",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3567474/chapter-33-ambush",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

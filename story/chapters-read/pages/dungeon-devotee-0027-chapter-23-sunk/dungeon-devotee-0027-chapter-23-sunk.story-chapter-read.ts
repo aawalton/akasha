@@ -12,9 +12,13 @@ export const dungeonDevotee0027Chapter23Sunk = {
   unit: "words",
   completedAt: "2026-06-29T22:39:58.698Z",
   publishedAt: "2023-08-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1296365/chapter-23-sunk",
-  externalId: "1296365",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1296365",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1296365/chapter-23-sunk",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

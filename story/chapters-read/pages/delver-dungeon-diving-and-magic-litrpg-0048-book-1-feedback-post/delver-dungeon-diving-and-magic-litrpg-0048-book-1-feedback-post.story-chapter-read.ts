@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0048Book1FeedbackPost = {
   ownLength: 107,
   unit: "words",
   publishedAt: "2026-07-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3712449/book-1-feedback-post",
-  externalId: "3712449",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3712449",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3712449/book-1-feedback-post",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

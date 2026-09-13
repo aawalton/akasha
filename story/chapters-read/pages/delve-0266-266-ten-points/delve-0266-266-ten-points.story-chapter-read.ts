@@ -10,8 +10,12 @@ export const delve0266266TenPoints = {
   ownLength: 3523,
   unit: "words",
   publishedAt: "2024-08-18",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1763522/266-ten-points",
-  externalId: "1763522",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1763522",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1763522/266-ten-points",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

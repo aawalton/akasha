@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0056Chapter54TheDralk = {
   ownLength: 2035,
   unit: "words",
   publishedAt: "2026-08-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3814673/chapter-54-the-dralk",
-  externalId: "3814673",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3814673",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3814673/chapter-54-the-dralk",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0008Chapter8CampAndRockLizard = {
   ownLength: 2112,
   unit: "words",
   publishedAt: "2026-05-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3450272/chapter-8-camp-and-rock-lizard",
-  externalId: "3450272",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3450272",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3450272/chapter-8-camp-and-rock-lizard",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

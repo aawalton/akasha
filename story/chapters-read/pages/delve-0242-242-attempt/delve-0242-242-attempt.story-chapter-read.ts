@@ -10,8 +10,12 @@ export const delve0242242Attempt = {
   ownLength: 3009,
   unit: "words",
   publishedAt: "2023-08-27",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1323393/242-attempt",
-  externalId: "1323393",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1323393",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1323393/242-attempt",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

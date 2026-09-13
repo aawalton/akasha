@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0037Chapter37LoyalMercenaries = {
   ownLength: 2049,
   unit: "words",
   publishedAt: "2026-06-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3590539/chapter-37-loyal-mercenaries",
-  externalId: "3590539",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3590539",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3590539/chapter-37-loyal-mercenaries",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

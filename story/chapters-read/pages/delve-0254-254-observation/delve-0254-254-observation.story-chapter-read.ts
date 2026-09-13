@@ -10,8 +10,12 @@ export const delve0254254Observation = {
   ownLength: 3087,
   unit: "words",
   publishedAt: "2023-12-17",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1445687/254-observation",
-  externalId: "1445687",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1445687",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1445687/254-observation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

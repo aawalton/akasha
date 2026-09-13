@@ -11,9 +11,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0049Chapter47Spreadsheet
     ownLength: 2084,
     unit: "words",
     publishedAt: "2026-07-23",
-    externalLink:
-      "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3713496/chapter-47-spreadsheets-part-1-announcement-for",
-    externalId: "3713496",
-    source: "royal-road",
+    externalIdentity: [
+      {
+        source: "royal-road",
+        externalId: "3713496",
+        externalLink:
+          "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3713496/chapter-47-spreadsheets-part-1-announcement-for",
+      },
+    ],
     prose: "txt",
   } as const satisfies StoryChapterRead

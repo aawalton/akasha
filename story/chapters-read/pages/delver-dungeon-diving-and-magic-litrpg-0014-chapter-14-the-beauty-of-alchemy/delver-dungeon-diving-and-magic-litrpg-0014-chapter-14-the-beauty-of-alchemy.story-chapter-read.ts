@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0014Chapter14TheBeautyOfAlchemy = 
   ownLength: 1926,
   unit: "words",
   publishedAt: "2026-06-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3479839/chapter-14-the-beauty-of-alchemy",
-  externalId: "3479839",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3479839",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3479839/chapter-14-the-beauty-of-alchemy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

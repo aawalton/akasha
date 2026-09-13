@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0003Chapter3Automaton = {
   ownLength: 2274,
   unit: "words",
   publishedAt: "2026-05-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3442836/chapter-3-automaton",
-  externalId: "3442836",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3442836",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3442836/chapter-3-automaton",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

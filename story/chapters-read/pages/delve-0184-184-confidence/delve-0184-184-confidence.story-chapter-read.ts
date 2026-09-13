@@ -10,8 +10,12 @@ export const delve0184184Confidence = {
   ownLength: 4152,
   unit: "words",
   publishedAt: "2022-03-06",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/859003/184-confidence",
-  externalId: "859003",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "859003",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/859003/184-confidence",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

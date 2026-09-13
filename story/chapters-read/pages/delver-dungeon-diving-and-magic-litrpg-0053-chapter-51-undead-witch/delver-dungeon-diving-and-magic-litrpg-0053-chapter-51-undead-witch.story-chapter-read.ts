@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0053Chapter51UndeadWitch = {
   ownLength: 1966,
   unit: "words",
   publishedAt: "2026-08-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3769971/chapter-51-undead-witch",
-  externalId: "3769971",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3769971",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3769971/chapter-51-undead-witch",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

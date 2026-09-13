@@ -10,8 +10,12 @@ export const delve0177177Debugging = {
   ownLength: 5953,
   unit: "words",
   publishedAt: "2022-01-09",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/821063/177-debugging",
-  externalId: "821063",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "821063",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/821063/177-debugging",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

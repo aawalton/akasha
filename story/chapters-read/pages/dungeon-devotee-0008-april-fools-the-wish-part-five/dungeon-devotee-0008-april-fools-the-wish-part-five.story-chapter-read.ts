@@ -12,9 +12,13 @@ export const dungeonDevotee0008AprilFoolsTheWishPartFive = {
   unit: "words",
   completedAt: "2026-06-29T22:39:17.180Z",
   publishedAt: "2022-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/875406/april-fools-the-wish-part-five",
-  externalId: "875406",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "875406",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/875406/april-fools-the-wish-part-five",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

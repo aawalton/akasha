@@ -10,8 +10,12 @@ export const delve0243243Nadir = {
   ownLength: 3583,
   unit: "words",
   publishedAt: "2023-09-03",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1331169/243-nadir",
-  externalId: "1331169",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1331169",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1331169/243-nadir",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

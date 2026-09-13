@@ -10,8 +10,12 @@ export const delve0235235Worrying = {
   ownLength: 3324,
   unit: "words",
   publishedAt: "2023-06-25",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1257097/235-worrying",
-  externalId: "1257097",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1257097",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1257097/235-worrying",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

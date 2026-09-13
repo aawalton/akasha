@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0015Chapter15Corrupted = {
   ownLength: 2710,
   unit: "words",
   publishedAt: "2026-06-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3484332/chapter-15-corrupted",
-  externalId: "3484332",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3484332",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3484332/chapter-15-corrupted",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

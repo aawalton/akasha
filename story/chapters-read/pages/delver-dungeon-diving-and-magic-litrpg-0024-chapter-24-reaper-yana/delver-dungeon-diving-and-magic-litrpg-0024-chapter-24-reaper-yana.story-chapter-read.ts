@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0024Chapter24ReaperYana = {
   ownLength: 1931,
   unit: "words",
   publishedAt: "2026-06-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3525672/chapter-24-reaper-yana",
-  externalId: "3525672",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3525672",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3525672/chapter-24-reaper-yana",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

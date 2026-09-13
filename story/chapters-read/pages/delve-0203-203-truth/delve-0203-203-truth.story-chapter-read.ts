@@ -10,8 +10,12 @@ export const delve0203203Truth = {
   ownLength: 4479,
   unit: "words",
   publishedAt: "2022-08-28",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/981133/203-truth",
-  externalId: "981133",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "981133",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/981133/203-truth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

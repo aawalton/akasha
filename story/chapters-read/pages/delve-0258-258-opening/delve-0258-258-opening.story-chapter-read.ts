@@ -10,8 +10,12 @@ export const delve0258258Opening = {
   ownLength: 3475,
   unit: "words",
   publishedAt: "2024-01-21",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1489226/258-opening",
-  externalId: "1489226",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1489226",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1489226/258-opening",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

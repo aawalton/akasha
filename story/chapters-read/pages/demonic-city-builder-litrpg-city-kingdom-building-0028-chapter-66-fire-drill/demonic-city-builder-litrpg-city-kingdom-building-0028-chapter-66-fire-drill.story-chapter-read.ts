@@ -7,12 +7,16 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0028Chapter66FireDrill =
   position: 28,
   publishedAt: "2026-09-10",
   unit: "words",
-  externalId: "3937544",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3937544",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3937544/chapter-66-fire-drill",
+    },
+  ],
   title: "Chapter 66 - Fire Drill",
   story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   ownLength: 2169,
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3937544/chapter-66-fire-drill",
   prose: "txt",
 } as const satisfies StoryChapterRead

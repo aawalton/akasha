@@ -12,9 +12,13 @@ export const dungeonDevotee0026Chapter22EveryoneBreaks = {
   unit: "words",
   completedAt: "2026-06-29T22:39:56.391Z",
   publishedAt: "2023-07-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1264368/chapter-22-everyone-breaks",
-  externalId: "1264368",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1264368",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1264368/chapter-22-everyone-breaks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

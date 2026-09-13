@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0017Chapter17MyPrecious = {
   ownLength: 2556,
   unit: "words",
   publishedAt: "2026-06-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3493373/chapter-17-my-precious",
-  externalId: "3493373",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3493373",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3493373/chapter-17-my-precious",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

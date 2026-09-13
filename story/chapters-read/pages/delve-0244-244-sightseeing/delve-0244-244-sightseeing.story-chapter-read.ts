@@ -10,8 +10,12 @@ export const delve0244244Sightseeing = {
   ownLength: 3880,
   unit: "words",
   publishedAt: "2023-09-17",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1345405/244-sightseeing",
-  externalId: "1345405",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1345405",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1345405/244-sightseeing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

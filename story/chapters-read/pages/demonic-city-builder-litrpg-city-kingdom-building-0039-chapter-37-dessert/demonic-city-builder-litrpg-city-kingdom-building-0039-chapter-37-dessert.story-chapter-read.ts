@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0039Chapter37Dessert = {
   ownLength: 2450,
   unit: "words",
   publishedAt: "2026-06-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3610464/chapter-37-dessert",
-  externalId: "3610464",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3610464",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3610464/chapter-37-dessert",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

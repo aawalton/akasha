@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0020Chapter58RedClaws = 
   ownLength: 2481,
   unit: "words",
   publishedAt: "2026-08-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3867382/chapter-58-red-claws",
-  externalId: "3867382",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3867382",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3867382/chapter-58-red-claws",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

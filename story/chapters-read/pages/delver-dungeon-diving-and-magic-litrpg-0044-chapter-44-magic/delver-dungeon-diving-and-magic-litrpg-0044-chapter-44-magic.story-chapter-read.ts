@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0044Chapter44Magic = {
   ownLength: 2496,
   unit: "words",
   publishedAt: "2026-07-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3681929/chapter-44-magic",
-  externalId: "3681929",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3681929",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3681929/chapter-44-magic",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

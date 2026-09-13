@@ -10,8 +10,13 @@ export const delve0222222Organization = {
   ownLength: 3724,
   unit: "words",
   publishedAt: "2023-02-19",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1117550/222-organization",
-  externalId: "1117550",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1117550",
+      externalLink:
+        "https://www.royalroad.com/fiction/25225/delve/chapter/1117550/222-organization",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

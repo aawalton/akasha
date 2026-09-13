@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0018Chapter18OpenTicket 
   ownLength: 3022,
   unit: "words",
   publishedAt: "2026-05-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3445491/chapter-18-open-ticket",
-  externalId: "3445491",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3445491",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3445491/chapter-18-open-ticket",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonDevotee0014Chapter12AmongTheCharcoalTrees = {
   unit: "words",
   completedAt: "2026-06-29T22:39:29.371Z",
   publishedAt: "2022-09-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/984536/chapter-12-among-the-charcoal-trees",
-  externalId: "984536",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "984536",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/984536/chapter-12-among-the-charcoal-trees",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

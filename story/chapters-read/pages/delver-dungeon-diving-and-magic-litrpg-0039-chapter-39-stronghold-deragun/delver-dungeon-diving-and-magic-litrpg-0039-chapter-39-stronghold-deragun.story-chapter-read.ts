@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0039Chapter39StrongholdDeragun = {
   ownLength: 2288,
   unit: "words",
   publishedAt: "2026-07-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3641161/chapter-39-stronghold-deragun",
-  externalId: "3641161",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3641161",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3641161/chapter-39-stronghold-deragun",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

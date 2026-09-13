@@ -10,8 +10,13 @@ export const delve0265265Surveillance = {
   ownLength: 3322,
   unit: "words",
   publishedAt: "2024-06-30",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1698720/265-surveillance",
-  externalId: "1698720",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1698720",
+      externalLink:
+        "https://www.royalroad.com/fiction/25225/delve/chapter/1698720/265-surveillance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

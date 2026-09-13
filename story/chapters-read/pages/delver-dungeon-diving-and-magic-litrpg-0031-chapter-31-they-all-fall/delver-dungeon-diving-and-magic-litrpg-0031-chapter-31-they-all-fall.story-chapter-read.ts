@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0031Chapter31TheyAllFall = {
   ownLength: 1865,
   unit: "words",
   publishedAt: "2026-06-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3558094/chapter-31-they-all-fall",
-  externalId: "3558094",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3558094",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3558094/chapter-31-they-all-fall",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

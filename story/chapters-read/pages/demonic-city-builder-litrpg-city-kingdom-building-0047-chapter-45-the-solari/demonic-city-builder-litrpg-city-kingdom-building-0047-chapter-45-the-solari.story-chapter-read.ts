@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0047Chapter45TheSolari =
   ownLength: 3978,
   unit: "words",
   publishedAt: "2026-07-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3692197/chapter-45-the-solari",
-  externalId: "3692197",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3692197",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3692197/chapter-45-the-solari",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

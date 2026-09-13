@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0013Chapter13MasterMage = {
   ownLength: 2372,
   unit: "words",
   publishedAt: "2026-05-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3474740/chapter-13-master-mage",
-  externalId: "3474740",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3474740",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3474740/chapter-13-master-mage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

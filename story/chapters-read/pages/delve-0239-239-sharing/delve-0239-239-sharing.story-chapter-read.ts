@@ -10,8 +10,12 @@ export const delve0239239Sharing = {
   ownLength: 3335,
   unit: "words",
   publishedAt: "2023-07-30",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1293609/239-sharing",
-  externalId: "1293609",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1293609",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1293609/239-sharing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

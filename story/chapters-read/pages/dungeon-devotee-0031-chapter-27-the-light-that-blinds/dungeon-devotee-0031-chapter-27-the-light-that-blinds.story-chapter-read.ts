@@ -12,9 +12,13 @@ export const dungeonDevotee0031Chapter27TheLightThatBlinds = {
   unit: "words",
   completedAt: "2026-06-29T22:40:07.729Z",
   publishedAt: "2023-12-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1429035/chapter-27-the-light-that-blinds",
-  externalId: "1429035",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1429035",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1429035/chapter-27-the-light-that-blinds",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

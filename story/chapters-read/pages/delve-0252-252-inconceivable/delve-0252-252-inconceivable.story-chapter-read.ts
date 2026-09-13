@@ -10,8 +10,13 @@ export const delve0252252Inconceivable = {
   ownLength: 4489,
   unit: "words",
   publishedAt: "2023-11-26",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1422531/252-inconceivable",
-  externalId: "1422531",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1422531",
+      externalLink:
+        "https://www.royalroad.com/fiction/25225/delve/chapter/1422531/252-inconceivable",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

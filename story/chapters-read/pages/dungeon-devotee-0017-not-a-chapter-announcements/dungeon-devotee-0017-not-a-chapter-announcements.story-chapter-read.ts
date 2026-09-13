@@ -12,9 +12,13 @@ export const dungeonDevotee0017NotAChapterAnnouncements = {
   unit: "words",
   completedAt: "2026-06-29T22:39:36.620Z",
   publishedAt: "2022-11-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1049120/not-a-chapter-announcements",
-  externalId: "1049120",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1049120",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1049120/not-a-chapter-announcements",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

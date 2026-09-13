@@ -10,8 +10,12 @@ export const delve0271271Refreshment = {
   ownLength: 3452,
   unit: "words",
   publishedAt: "2025-05-18",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/2287653/271-refreshment",
-  externalId: "2287653",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2287653",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/2287653/271-refreshment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

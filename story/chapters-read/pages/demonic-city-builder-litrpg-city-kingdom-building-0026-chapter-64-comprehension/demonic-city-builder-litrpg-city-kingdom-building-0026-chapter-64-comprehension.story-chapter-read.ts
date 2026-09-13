@@ -8,11 +8,15 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0026Chapter64Comprehensi
   position: 26,
   publishedAt: "2026-09-08",
   unit: "words",
-  externalId: "3928232",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3928232",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3928232/chapter-64-comprehension",
+    },
+  ],
   title: "Chapter 64 - Comprehension",
   ownLength: 3858,
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3928232/chapter-64-comprehension",
   prose: "txt",
 } as const satisfies StoryChapterRead

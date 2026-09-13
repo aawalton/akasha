@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0020Chapter20PrivateLibrary = {
   ownLength: 1905,
   unit: "words",
   publishedAt: "2026-06-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3506574/chapter-20-private-library",
-  externalId: "3506574",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3506574",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3506574/chapter-20-private-library",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

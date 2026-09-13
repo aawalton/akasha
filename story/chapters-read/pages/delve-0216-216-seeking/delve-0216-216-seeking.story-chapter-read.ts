@@ -10,8 +10,12 @@ export const delve0216216Seeking = {
   ownLength: 4468,
   unit: "words",
   publishedAt: "2022-12-25",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1070979/216-seeking",
-  externalId: "1070979",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1070979",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1070979/216-seeking",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

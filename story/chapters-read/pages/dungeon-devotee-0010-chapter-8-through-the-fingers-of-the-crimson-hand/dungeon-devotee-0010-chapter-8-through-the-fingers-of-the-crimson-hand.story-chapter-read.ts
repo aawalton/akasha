@@ -12,9 +12,13 @@ export const dungeonDevotee0010Chapter8ThroughTheFingersOfTheCrimsonHand = {
   unit: "words",
   completedAt: "2026-06-29T22:39:21.271Z",
   publishedAt: "2022-05-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/898442/chapter-8-through-the-fingers-of-the-crimson-hand",
-  externalId: "898442",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "898442",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/898442/chapter-8-through-the-fingers-of-the-crimson-hand",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

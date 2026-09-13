@@ -10,8 +10,12 @@ export const delve0253253Plunge = {
   ownLength: 3351,
   unit: "words",
   publishedAt: "2023-12-10",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1438471/253-plunge",
-  externalId: "1438471",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1438471",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1438471/253-plunge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

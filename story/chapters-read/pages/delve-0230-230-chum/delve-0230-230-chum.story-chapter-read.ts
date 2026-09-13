@@ -10,8 +10,12 @@ export const delve0230230Chum = {
   ownLength: 3562,
   unit: "words",
   publishedAt: "2023-05-07",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1205244/230-chum",
-  externalId: "1205244",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1205244",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1205244/230-chum",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

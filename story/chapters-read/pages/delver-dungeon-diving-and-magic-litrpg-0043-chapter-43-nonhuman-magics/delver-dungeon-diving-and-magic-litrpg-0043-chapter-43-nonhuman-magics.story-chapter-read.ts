@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0043Chapter43NonhumanMagics = {
   ownLength: 2129,
   unit: "words",
   publishedAt: "2026-07-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3677216/chapter-43-nonhuman-magics",
-  externalId: "3677216",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3677216",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3677216/chapter-43-nonhuman-magics",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

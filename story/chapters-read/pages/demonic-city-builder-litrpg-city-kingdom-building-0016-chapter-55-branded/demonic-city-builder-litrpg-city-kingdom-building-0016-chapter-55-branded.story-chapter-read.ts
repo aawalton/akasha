@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0016Chapter55Branded = {
   ownLength: 2686,
   unit: "words",
   publishedAt: "2026-08-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3837257/chapter-55-branded",
-  externalId: "3837257",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3837257",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3837257/chapter-55-branded",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

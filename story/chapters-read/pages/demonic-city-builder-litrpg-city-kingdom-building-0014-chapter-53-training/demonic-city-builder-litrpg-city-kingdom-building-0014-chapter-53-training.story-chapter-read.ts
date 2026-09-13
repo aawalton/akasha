@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0014Chapter53Training = 
   ownLength: 2461,
   unit: "words",
   publishedAt: "2026-08-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3816074/chapter-53-training",
-  externalId: "3816074",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3816074",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3816074/chapter-53-training",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

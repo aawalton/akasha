@@ -10,8 +10,12 @@ export const delve0193193Cult = {
   ownLength: 4930,
   unit: "words",
   publishedAt: "2022-05-29",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/916420/193-cult",
-  externalId: "916420",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "916420",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/916420/193-cult",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

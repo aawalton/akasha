@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0024Chapter24Obligations
   ownLength: 1952,
   unit: "words",
   publishedAt: "2026-06-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3476175/chapter-24-obligations",
-  externalId: "3476175",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3476175",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3476175/chapter-24-obligations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

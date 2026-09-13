@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0001Chapter1TheFinePrint
   ownLength: 2539,
   unit: "words",
   publishedAt: "2026-05-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423389/chapter-1-the-fine-print",
-  externalId: "3423389",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3423389",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423389/chapter-1-the-fine-print",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

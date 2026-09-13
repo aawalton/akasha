@@ -12,9 +12,13 @@ export const dungeonDevotee0018Chapter15TheTrueValueOfACupOfAle = {
   unit: "words",
   completedAt: "2026-06-29T22:39:38.652Z",
   publishedAt: "2022-12-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1053682/chapter-15-the-true-value-of-a-cup-of-ale",
-  externalId: "1053682",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1053682",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1053682/chapter-15-the-true-value-of-a-cup-of-ale",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

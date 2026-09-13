@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0026Chapter26IDidnTAgree
   ownLength: 2632,
   unit: "words",
   publishedAt: "2026-06-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3490483/chapter-26-i-didnt-agree-to-this",
-  externalId: "3490483",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3490483",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3490483/chapter-26-i-didnt-agree-to-this",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

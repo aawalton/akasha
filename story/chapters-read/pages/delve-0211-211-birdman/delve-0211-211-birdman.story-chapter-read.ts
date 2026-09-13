@@ -10,8 +10,12 @@ export const delve0211211Birdman = {
   ownLength: 4457,
   unit: "words",
   publishedAt: "2022-11-13",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1039074/211-birdman",
-  externalId: "1039074",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1039074",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1039074/211-birdman",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

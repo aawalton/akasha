@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0013Chapter52Boom = {
   ownLength: 2270,
   unit: "words",
   publishedAt: "2026-08-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3807039/chapter-52-boom",
-  externalId: "3807039",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3807039",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3807039/chapter-52-boom",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

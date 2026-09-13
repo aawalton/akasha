@@ -10,8 +10,12 @@ export const delve0249249Lucid = {
   ownLength: 3728,
   unit: "words",
   publishedAt: "2023-10-29",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1389020/249-lucid",
-  externalId: "1389020",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1389020",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1389020/249-lucid",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

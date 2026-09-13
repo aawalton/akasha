@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0058Chapter56TheCouncilOfDralk = {
   ownLength: 1925,
   unit: "words",
   publishedAt: "2026-08-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3864543/chapter-56-the-council-of-dralk",
-  externalId: "3864543",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3864543",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3864543/chapter-56-the-council-of-dralk",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

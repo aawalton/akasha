@@ -10,8 +10,12 @@ export const delve0207207Council = {
   ownLength: 5228,
   unit: "words",
   publishedAt: "2022-10-02",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1006634/207-council",
-  externalId: "1006634",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1006634",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1006634/207-council",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

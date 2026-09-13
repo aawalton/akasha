@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0009Chapter9UniqueClass = {
   ownLength: 2455,
   unit: "words",
   publishedAt: "2026-05-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3454879/chapter-9-unique-class",
-  externalId: "3454879",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3454879",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3454879/chapter-9-unique-class",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

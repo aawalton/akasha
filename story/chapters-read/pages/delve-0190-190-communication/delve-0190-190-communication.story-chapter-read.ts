@@ -10,8 +10,13 @@ export const delve0190190Communication = {
   ownLength: 4343,
   unit: "words",
   publishedAt: "2022-05-01",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/897944/190-communication",
-  externalId: "897944",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "897944",
+      externalLink:
+        "https://www.royalroad.com/fiction/25225/delve/chapter/897944/190-communication",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

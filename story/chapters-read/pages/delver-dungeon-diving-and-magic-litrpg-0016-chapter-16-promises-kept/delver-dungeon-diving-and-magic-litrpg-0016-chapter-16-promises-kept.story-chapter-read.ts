@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0016Chapter16PromisesKept = {
   ownLength: 2228,
   unit: "words",
   publishedAt: "2026-06-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3488961/chapter-16-promises-kept",
-  externalId: "3488961",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3488961",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3488961/chapter-16-promises-kept",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

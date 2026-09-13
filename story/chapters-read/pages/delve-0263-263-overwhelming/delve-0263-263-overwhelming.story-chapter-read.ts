@@ -10,8 +10,13 @@ export const delve0263263Overwhelming = {
   ownLength: 3621,
   unit: "words",
   publishedAt: "2024-05-05",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1624064/263-overwhelming",
-  externalId: "1624064",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1624064",
+      externalLink:
+        "https://www.royalroad.com/fiction/25225/delve/chapter/1624064/263-overwhelming",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

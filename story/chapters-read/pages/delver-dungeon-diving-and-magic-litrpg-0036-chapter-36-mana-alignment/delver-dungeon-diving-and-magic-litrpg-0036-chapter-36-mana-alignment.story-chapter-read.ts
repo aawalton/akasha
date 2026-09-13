@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0036Chapter36ManaAlignment = {
   ownLength: 1980,
   unit: "words",
   publishedAt: "2026-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3585959/chapter-36-mana-alignment",
-  externalId: "3585959",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3585959",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3585959/chapter-36-mana-alignment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

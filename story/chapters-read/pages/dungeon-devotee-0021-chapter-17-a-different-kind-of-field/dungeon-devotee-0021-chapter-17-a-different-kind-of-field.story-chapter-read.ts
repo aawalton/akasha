@@ -12,9 +12,13 @@ export const dungeonDevotee0021Chapter17ADifferentKindOfField = {
   unit: "words",
   completedAt: "2026-06-29T22:39:45.373Z",
   publishedAt: "2023-02-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1102972/chapter-17-a-different-kind-of-field",
-  externalId: "1102972",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1102972",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1102972/chapter-17-a-different-kind-of-field",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

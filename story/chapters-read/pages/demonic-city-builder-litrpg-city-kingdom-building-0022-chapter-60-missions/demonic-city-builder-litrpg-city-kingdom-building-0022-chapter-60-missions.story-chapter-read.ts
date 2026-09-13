@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0022Chapter60Missions = 
   ownLength: 2086,
   unit: "words",
   publishedAt: "2026-08-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3880199/chapter-60-missions",
-  externalId: "3880199",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3880199",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3880199/chapter-60-missions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

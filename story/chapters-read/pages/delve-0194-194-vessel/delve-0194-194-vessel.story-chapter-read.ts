@@ -10,8 +10,12 @@ export const delve0194194Vessel = {
   ownLength: 4482,
   unit: "words",
   publishedAt: "2022-06-05",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/920920/194-vessel",
-  externalId: "920920",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "920920",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/920920/194-vessel",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

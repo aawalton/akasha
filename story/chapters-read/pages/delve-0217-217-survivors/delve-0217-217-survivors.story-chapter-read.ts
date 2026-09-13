@@ -10,8 +10,12 @@ export const delve0217217Survivors = {
   ownLength: 2776,
   unit: "words",
   publishedAt: "2023-01-08",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1081909/217-survivors",
-  externalId: "1081909",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1081909",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1081909/217-survivors",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const delve0179179TimeManagement = {
   ownLength: 5396,
   unit: "words",
   publishedAt: "2022-01-23",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/830084/179-time-management",
-  externalId: "830084",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "830084",
+      externalLink:
+        "https://www.royalroad.com/fiction/25225/delve/chapter/830084/179-time-management",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

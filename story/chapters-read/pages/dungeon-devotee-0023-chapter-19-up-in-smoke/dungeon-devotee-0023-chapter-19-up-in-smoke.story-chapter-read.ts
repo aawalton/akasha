@@ -12,9 +12,13 @@ export const dungeonDevotee0023Chapter19UpInSmoke = {
   unit: "words",
   completedAt: "2026-06-29T22:39:50.049Z",
   publishedAt: "2023-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1154990/chapter-19-up-in-smoke",
-  externalId: "1154990",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1154990",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1154990/chapter-19-up-in-smoke",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0034Chapter34KolasSStronghold = {
   ownLength: 1947,
   unit: "words",
   publishedAt: "2026-06-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3576499/chapter-34-kolass-stronghold",
-  externalId: "3576499",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3576499",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3576499/chapter-34-kolass-stronghold",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

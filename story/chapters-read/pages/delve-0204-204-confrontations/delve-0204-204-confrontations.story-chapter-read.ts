@@ -10,8 +10,13 @@ export const delve0204204Confrontations = {
   ownLength: 4151,
   unit: "words",
   publishedAt: "2022-09-04",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/986223/204-confrontations",
-  externalId: "986223",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "986223",
+      externalLink:
+        "https://www.royalroad.com/fiction/25225/delve/chapter/986223/204-confrontations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0029Chapter28NewHires = 
   ownLength: 2344,
   unit: "words",
   publishedAt: "2026-06-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3512470/chapter-28-new-hires",
-  externalId: "3512470",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3512470",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3512470/chapter-28-new-hires",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonDevotee0006Chapter5SignsOfLifeAndTheAzureFox = {
   unit: "words",
   completedAt: "2026-06-29T22:37:13.398Z",
   publishedAt: "2022-02-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/850365/chapter-5-signs-of-life-and-the-azure-fox",
-  externalId: "850365",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "850365",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/850365/chapter-5-signs-of-life-and-the-azure-fox",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

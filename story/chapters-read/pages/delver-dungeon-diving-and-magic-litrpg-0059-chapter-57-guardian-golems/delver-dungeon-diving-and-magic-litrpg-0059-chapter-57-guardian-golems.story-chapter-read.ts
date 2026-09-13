@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0059Chapter57GuardianGolems = {
   ownLength: 2418,
   unit: "words",
   publishedAt: "2026-08-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3873407/chapter-57-guardian-golems",
-  externalId: "3873407",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3873407",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3873407/chapter-57-guardian-golems",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

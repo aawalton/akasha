@@ -10,8 +10,12 @@ export const delve0185185Promotion = {
   ownLength: 4506,
   unit: "words",
   publishedAt: "2022-03-13",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/863579/185-promotion",
-  externalId: "863579",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "863579",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/863579/185-promotion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

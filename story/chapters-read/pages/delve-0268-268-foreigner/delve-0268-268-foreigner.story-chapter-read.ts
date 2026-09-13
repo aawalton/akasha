@@ -10,8 +10,12 @@ export const delve0268268Foreigner = {
   ownLength: 3233,
   unit: "words",
   publishedAt: "2024-09-22",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1814246/268-foreigner",
-  externalId: "1814246",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1814246",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1814246/268-foreigner",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

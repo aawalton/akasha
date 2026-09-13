@@ -10,8 +10,12 @@ export const delve0247247Onion = {
   ownLength: 3741,
   unit: "words",
   publishedAt: "2023-10-15",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1374604/247-onion",
-  externalId: "1374604",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1374604",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1374604/247-onion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

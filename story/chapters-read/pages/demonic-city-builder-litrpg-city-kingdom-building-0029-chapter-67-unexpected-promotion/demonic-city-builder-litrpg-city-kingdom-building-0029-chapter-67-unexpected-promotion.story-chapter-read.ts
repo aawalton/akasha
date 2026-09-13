@@ -7,12 +7,16 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0029Chapter67UnexpectedP
   position: 29,
   publishedAt: "2026-09-11",
   unit: "words",
-  externalId: "3945989",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3945989",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3945989/chapter-67-unexpected-promotion",
+    },
+  ],
   title: "Chapter 67 - Unexpected Promotion",
   story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   ownLength: 2016,
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3945989/chapter-67-unexpected-promotion",
   prose: "txt",
 } as const satisfies StoryChapterRead

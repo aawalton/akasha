@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0007Chapter7Ceremony = {
   ownLength: 1916,
   unit: "words",
   publishedAt: "2026-05-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423564/chapter-7-ceremony",
-  externalId: "3423564",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3423564",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423564/chapter-7-ceremony",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

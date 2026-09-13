@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0046Chapter46AncientSerpent = {
   ownLength: 2100,
   unit: "words",
   publishedAt: "2026-07-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3703413/chapter-46-ancient-serpent",
-  externalId: "3703413",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3703413",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3703413/chapter-46-ancient-serpent",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

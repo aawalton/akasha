@@ -10,8 +10,12 @@ export const delve0269269Redeemed = {
   ownLength: 2658,
   unit: "words",
   publishedAt: "2024-10-27",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1870358/269-redeemed",
-  externalId: "1870358",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1870358",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1870358/269-redeemed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

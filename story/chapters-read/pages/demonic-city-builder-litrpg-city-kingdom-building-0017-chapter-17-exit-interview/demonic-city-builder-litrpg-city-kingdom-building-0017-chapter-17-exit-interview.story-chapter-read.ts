@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0017Chapter17ExitIntervi
   ownLength: 2394,
   unit: "words",
   publishedAt: "2026-05-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3444267/chapter-17-exit-interview",
-  externalId: "3444267",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3444267",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3444267/chapter-17-exit-interview",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

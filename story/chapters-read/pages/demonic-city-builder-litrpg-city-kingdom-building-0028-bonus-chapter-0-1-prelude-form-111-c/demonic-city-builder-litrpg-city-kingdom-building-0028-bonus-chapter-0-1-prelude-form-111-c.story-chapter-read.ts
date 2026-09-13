@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0028BonusChapter01Prelud
   ownLength: 2176,
   unit: "words",
   publishedAt: "2026-06-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3506608/bonus-chapter-01-prelude-form-111-c",
-  externalId: "3506608",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3506608",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3506608/bonus-chapter-01-prelude-form-111-c",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

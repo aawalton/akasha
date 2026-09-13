@@ -12,9 +12,13 @@ export const dungeonDevotee0004Chapter3WidowsAndWagers = {
   unit: "words",
   completedAt: "2026-06-29T22:37:08.958Z",
   publishedAt: "2022-02-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/848908/chapter-3-widows-and-wagers",
-  externalId: "848908",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "848908",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/848908/chapter-3-widows-and-wagers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

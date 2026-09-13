@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0005Chapter5TheVishtenTribe = {
   ownLength: 2281,
   unit: "words",
   publishedAt: "2026-05-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3443180/chapter-5-the-vishten-tribe",
-  externalId: "3443180",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3443180",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3443180/chapter-5-the-vishten-tribe",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

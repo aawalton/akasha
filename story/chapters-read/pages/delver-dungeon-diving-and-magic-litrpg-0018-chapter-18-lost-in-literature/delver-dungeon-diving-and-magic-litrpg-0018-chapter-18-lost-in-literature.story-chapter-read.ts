@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0018Chapter18LostInLiterature = {
   ownLength: 1688,
   unit: "words",
   publishedAt: "2026-06-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3498074/chapter-18-lost-in-literature",
-  externalId: "3498074",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3498074",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3498074/chapter-18-lost-in-literature",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

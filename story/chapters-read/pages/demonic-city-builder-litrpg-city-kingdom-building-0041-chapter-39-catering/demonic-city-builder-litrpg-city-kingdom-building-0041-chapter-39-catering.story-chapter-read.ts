@@ -10,9 +10,13 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0041Chapter39Catering = 
   ownLength: 2950,
   unit: "words",
   publishedAt: "2026-07-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3629733/chapter-39-catering",
-  externalId: "3629733",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3629733",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3629733/chapter-39-catering",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

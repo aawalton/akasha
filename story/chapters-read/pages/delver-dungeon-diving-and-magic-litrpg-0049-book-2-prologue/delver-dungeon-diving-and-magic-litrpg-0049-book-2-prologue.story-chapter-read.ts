@@ -10,9 +10,13 @@ export const delverDungeonDivingAndMagicLitrpg0049Book2Prologue = {
   ownLength: 1656,
   unit: "words",
   publishedAt: "2026-07-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3721320/book-2-prologue",
-  externalId: "3721320",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3721320",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3721320/book-2-prologue",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

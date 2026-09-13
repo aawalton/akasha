@@ -10,8 +10,12 @@ export const delve0188188Proximity = {
   ownLength: 4361,
   unit: "words",
   publishedAt: "2022-04-10",
-  externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/882088/188-proximity",
-  externalId: "882088",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "882088",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/882088/188-proximity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
