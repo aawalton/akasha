@@ -8,6 +8,7 @@ export const indexIdentity = {
   name: "identity",
   code: "ts",
   test: "ts",
+  tracked: true,
   invariants: [
     {
       invariantKind: "departure",

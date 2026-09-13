@@ -47,7 +47,11 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement: "Git tracks nothing under `.indexes`.",
+      statement: "Git holds the answers of an index whose own page says so, and no others.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change carries those answers among its own file changes.",
     },
 
     {

@@ -8,6 +8,7 @@ export const indexRelation = {
   name: "relation",
   code: "ts",
   test: "ts",
+  tracked: true,
   invariants: [
     {
       invariantKind: "departure",
