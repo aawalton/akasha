@@ -10,7 +10,7 @@ export const rule26fb56ce = {
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "lockpicks",
-  displayOrder: 35,
+  displayOrder: 36,
   action: "fence-launder",
   active: true,
   updatedAt: "2026-05-31T18:39:21.682Z",
