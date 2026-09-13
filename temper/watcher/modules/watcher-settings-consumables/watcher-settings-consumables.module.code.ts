@@ -6,6 +6,7 @@ import {
 import type { AutomationSettings } from "akasha/temper/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import { computeItemStock } from "akasha/temper/items-core/modules/compute-item-stock/compute-item-stock.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+import { InventoryRuleSettingsShape } from "akasha/temper/items-rules-core/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
   CharacterBuildInput,
@@ -94,12 +95,23 @@ export async function compileCharacterPriority(
   return characters.map((one) => one.esoCharacterId)
 }
 
-function isRuleSettings(value: unknown): value is InventoryRuleSettings {
-  return typeof value === "object" && value !== null && "version" in value && value.version === 2
+function saidWrong(
+  issues: readonly { readonly path: readonly PropertyKey[]; readonly message: string }[]
+): string {
+  return issues
+    .map((issue) => `\`${issue.path.join(".") || "the settings themselves"}\` ${issue.message}`)
+    .join("; ")
 }
 
 export function toRuleSettings(value: unknown): InventoryRuleSettings {
-  return isRuleSettings(value) ? value : { version: 2, rules: [] }
+  if (value == null) return { version: 2, rules: [] }
+  const read = InventoryRuleSettingsShape.safeParse(value)
+  if (read.success) return read.data
+  throw new Error(
+    `the inventory settings this account holds are no version 2 rule set, so they are neither ` +
+      `compiled into the addon nor written back, and what the addon already holds stays: ` +
+      saidWrong(read.error.issues)
+  )
 }
 
 export async function compileWantedConsumables(

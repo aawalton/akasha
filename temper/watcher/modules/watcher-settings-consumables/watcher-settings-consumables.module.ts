@@ -52,7 +52,15 @@ export const watcherSettingsConsumables = {
     },
     {
       invariantKind: "departure",
-      statement: "Settings not marked version 2 are answered as an empty version 2 rule set.",
+      statement: "An account holding no inventory settings at all is answered an empty rule set.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Inventory settings the shape refuses raise, naming every field at fault.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A raise leaves the config the addon holds as it is and writes no settings back.",
     },
     {
       invariantKind: "departure",

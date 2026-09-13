@@ -204,16 +204,38 @@ const SELL_EVERYTHING: InventoryRuleSettings = {
   rules: [{ id: "sell-all", categoryId: "all", action: "sell" }],
 }
 
-test("settings not marked version 2 become an empty version 2 set", () => {
+test("an account holding no inventory settings at all is answered an empty rule set", () => {
   expect(toRuleSettings(undefined)).toEqual(EMPTY_SETTINGS)
   expect(toRuleSettings(null)).toEqual(EMPTY_SETTINGS)
-  expect(
-    toRuleSettings({ version: 1, rules: [{ id: "sell-all", categoryId: "all", action: "sell" }] })
-  ).toEqual(EMPTY_SETTINGS)
 })
 
-test("settings marked version 2 are answered unchanged", () => {
-  expect(toRuleSettings(SELL_EVERYTHING)).toBe(SELL_EVERYTHING)
+test("settings marked version 2 are answered with every rule they carry", () => {
+  const held = toRuleSettings({
+    ...SELL_EVERYTHING,
+    itemRules: [{ id: "i1", itemId: 45855, itemName: "Ancestor Silk", action: "sell" }],
+    buyRules: [
+      { id: "b1", itemId: 30357, itemName: "Lockpick", targetQuantity: 4000, source: "merchant" },
+    ],
+    laterKey: { anything: true },
+  })
+  expect(held.rules).toEqual(SELL_EVERYTHING.rules)
+  expect(held.itemRules?.[0]?.itemId).toBe(45855)
+  expect(held.buyRules?.[0]?.targetQuantity).toBe(4000)
+  expect(held).toMatchObject({ laterKey: { anything: true } })
+})
+
+test("settings the shape refuses raise naming the field at fault", () => {
+  expect(() => toRuleSettings({ version: 1, rules: [] })).toThrow("`version`")
+  expect(() =>
+    toRuleSettings({ version: 2, rules: [{ id: "a", categoryId: "all", action: "burn" }] })
+  ).toThrow("`rules.0.action`")
+  expect(() => toRuleSettings("nope")).toThrow("no version 2 rule set")
+})
+
+test("nothing the guard refuses is ever answered as an empty rule set", () => {
+  for (const refused of ["nope", [], { version: 1, rules: [] }, { version: 2 }]) {
+    expect(() => toRuleSettings(refused)).toThrow()
+  }
 })
 
 test("a user with no snapshot is a no-snapshot failure", async () => {

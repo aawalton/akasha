@@ -298,6 +298,49 @@ test("the rules the settings blob still holds are passed over for the rule pages
   expect(result.content).toContain("currency-gold")
 })
 
+test("a settings blob the shape refuses stops the compile and writes no side file", async () => {
+  const recorded = recorder()
+  const { seams } = seamsFor(
+    { ...SETTINGS_WITHOUT_INVENTORY, inventory: { version: 1, rules: [] } },
+    recorded,
+    [A_RULE]
+  )
+  await expect(
+    runExportSettings(
+      BEFORE,
+      NO_CLIENT,
+      { userId: "alan", inventoryConfigPath: "/var/tmp/inventory.lua" },
+      seams
+    )
+  ).rejects.toThrow("no version 2 rule set")
+  expect(recorded.written).toEqual([])
+})
+
+test("a buy rule the shape refuses stops the compile rather than dropping that rule", async () => {
+  const recorded = recorder()
+  const { seams } = seamsFor(
+    {
+      ...SETTINGS_WITHOUT_INVENTORY,
+      inventory: {
+        version: 2,
+        rules: [],
+        buyRules: [{ id: "b1", itemId: 64710, itemName: "Tri-Restoration", targetQuantity: 200 }],
+      },
+    },
+    recorded,
+    [A_RULE]
+  )
+  await expect(
+    runExportSettings(
+      BEFORE,
+      NO_CLIENT,
+      { userId: "alan", inventoryConfigPath: "/var/tmp/inventory.lua" },
+      seams
+    )
+  ).rejects.toThrow("`buyRules.0.source`")
+  expect(recorded.written).toEqual([])
+})
+
 const A_BODY = JSON.stringify({
   inventory: { version: 2, rules: [] },
   logging: { actionReports: "minimal" },

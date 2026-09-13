@@ -59,11 +59,11 @@ export const watcherImportItemRuleVerdicts = {
     },
     {
       invariantKind: "departure",
-      statement: "Unreadable settings read as an empty rule set.",
+      statement: "Settings the shape refuses raise rather than reading as an empty rule set.",
     },
     {
       invariantKind: "departure",
-      statement: "Writing an empty rule set loses those settings.",
+      statement: "A raise leaves the settings beside the page as the account already has them.",
     },
     {
       invariantKind: "departure",

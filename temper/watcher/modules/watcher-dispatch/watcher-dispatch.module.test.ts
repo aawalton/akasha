@@ -38,6 +38,7 @@ interface Tweaks {
   exportTasksModified: boolean
   exportTasksHash: string | null
   exportTasksError: Error | null
+  exportSettingsError: Error | null
   completionError: Error | null
   dataMiningModified: boolean
   reportError: Error | null
@@ -47,6 +48,7 @@ const CALM: Tweaks = {
   exportTasksModified: false,
   exportTasksHash: null,
   exportTasksError: null,
+  exportSettingsError: null,
   completionError: null,
   dataMiningModified: false,
   reportError: null,
@@ -116,6 +118,7 @@ function harness(tweaks: Partial<Tweaks> = {}): Harness {
     },
     exportSettings: async (content) => {
       calls.push("exportSettings")
+      if (t.exportSettingsError !== null) throw t.exportSettingsError
       return { content, modified: false, inventoryConfigSideFileHash: null }
     },
     exportTasks: async (content) => {
@@ -311,6 +314,26 @@ test("an import that throws holds the export back rather than exporting stale da
   expect(stateOf(result.operations, "tasks")).toBe("skipped")
   expect(stateOf(result.operations, "charactersConfig")).toBe("skipped")
   expect(at.calls).not.toContain("exportTasks")
+})
+
+test("a settings export that refuses leaves the addon's config alone and the run alive", async () => {
+  const refusal = "the inventory settings this account holds are no version 2 rule set"
+  const at = harness({ exportSettingsError: new Error(refusal) })
+  const result = await dispatch(
+    "inventory",
+    CONTENT,
+    FAKE_TOKEN,
+    FAKE_URL,
+    optionsFor(at, { inventoryConfigPath: PRESENT_ADDON_CONFIG })
+  )
+  expect(stateOf(result.operations, "itemRuleVerdicts")).toBe("synced")
+  expect(stateOf(result.operations, "inventory")).toBe("synced")
+  expect(stateOf(result.operations, "inventoryConfig")).toBe("upload_failed")
+  expect(result.operations.find((o) => o.name === "inventoryConfig")?.detail).toBe(refusal)
+  expect(result.inventoryConfigSideFileHash).toBeNull()
+  expect(result.writeBack).toBeNull()
+  expect(result.ok).toBe(false)
+  expect(result.error).toBeUndefined()
 })
 
 test("every kind of file reports the import operations its table names", async () => {

@@ -43,6 +43,11 @@ export const watcherDispatch = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "An export that throws fails its own operation alone, carrying what it said, and writes no side file.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The companions import runs beside the companion-builds export.",
     },
     {

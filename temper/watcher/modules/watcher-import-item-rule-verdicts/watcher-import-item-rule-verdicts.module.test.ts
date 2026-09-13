@@ -316,6 +316,29 @@ test("an entry refused part way through the queue does not stop the entries afte
   )
 })
 
+test("inventory settings the shape refuses raise rather than being written back emptied", async () => {
+  const content = savedVariables(accountWith("@alan", verdictEntry(123, "Foo", "sell")))
+  const written: unknown[] = []
+  await expect(
+    runImportItemRuleVerdicts(
+      content,
+      knownUserSource("user-1"),
+      recordingLog([]),
+      fakeStore(
+        {
+          present: true,
+          inventory: {
+            version: 1,
+            rules: [{ id: "keep-me", categoryId: "all", action: "nothing" }],
+          },
+        },
+        written
+      )
+    )
+  ).rejects.toThrow("no version 2 rule set")
+  expect(written).toEqual([])
+})
+
 test("inventory settings that are not JSON raise rather than being written", async () => {
   const content = savedVariables(accountWith("@alan", verdictEntry(123, "Foo", "sell")))
   const written: unknown[] = []

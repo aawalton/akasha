@@ -31,6 +31,16 @@ export const watcherExportSettings = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The item rules and buy rules the settings blob holds reach the compiled block as the blob has them.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A settings blob the shape refuses stops the export and leaves the side file as it is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The indent is taken from the content before any block is replaced.",
     },
     {
