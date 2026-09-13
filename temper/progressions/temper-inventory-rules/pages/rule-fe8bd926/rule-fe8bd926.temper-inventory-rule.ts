@@ -9,7 +9,7 @@ export const ruleFe8bd926 = {
   destination: "bank",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "scrolls",
-  displayOrder: 82,
+  displayOrder: 34,
   action: "move-to",
   active: true,
   updatedAt: "2026-09-13T14:39:00.855Z",
