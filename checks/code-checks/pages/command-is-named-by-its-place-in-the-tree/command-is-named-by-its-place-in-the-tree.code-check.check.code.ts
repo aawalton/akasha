@@ -25,6 +25,9 @@ import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { pageNamed } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { valueIn } from "akasha/pages/modules/value/page-value.module.code.ts"
+import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+
+const ID = "id"
 
 const kindsHeld = new WeakMap<Shadow, Kinds>()
 
@@ -77,8 +80,9 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
       const listed = filedById(known, reached.id)
       if (listed !== null) judge(listed.path, reached.id)
     }
-    const filed = shadow.index.listedByPath(path).find((each) => each.path === path)
-    if (filed !== undefined) judge(path, filed.id)
+    const value = shadow.pageOf(path)
+    const id = value === null ? null : textAt(value, ID)
+    if (id !== null) judge(path, id)
   }
   const placing = placingBy(shadow, kinds)
   for (const path of treeUnder(shadow, kinds).modules) {
