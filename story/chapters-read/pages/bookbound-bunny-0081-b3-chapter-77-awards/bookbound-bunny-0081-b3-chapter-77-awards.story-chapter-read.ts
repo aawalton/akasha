@@ -10,9 +10,13 @@ export const bookboundBunny0081B3Chapter77Awards = {
   ownLength: 2286,
   unit: "words",
   publishedAt: "2026-08-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3807477/b3-chapter-77-awards",
-  externalId: "3807477",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3807477",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3807477/b3-chapter-77-awards",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

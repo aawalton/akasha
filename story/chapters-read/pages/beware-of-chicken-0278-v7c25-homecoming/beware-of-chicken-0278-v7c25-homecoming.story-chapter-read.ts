@@ -12,9 +12,13 @@ export const bewareOfChicken0278V7c25Homecoming = {
   unit: "words",
   completedAt: "2026-06-29T19:00:58.033Z",
   publishedAt: "2026-02-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3007520/v7c25-homecoming",
-  externalId: "3007520",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3007520",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3007520/v7c25-homecoming",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

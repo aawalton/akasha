@@ -10,9 +10,13 @@ export const bookboundBunny0087B3Chapter83WoodlandEncounter = {
   ownLength: 2221,
   unit: "words",
   publishedAt: "2026-08-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3870634/b3-chapter-83-woodland-encounter",
-  externalId: "3870634",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3870634",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3870634/b3-chapter-83-woodland-encounter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

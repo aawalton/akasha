@@ -12,9 +12,13 @@ export const bewareOfChicken0265V7c12InterludeMaidMatters = {
   unit: "words",
   completedAt: "2026-06-29T19:00:30.365Z",
   publishedAt: "2025-12-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2846175/v7c12-interlude-maid-matters",
-  externalId: "2846175",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2846175",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2846175/v7c12-interlude-maid-matters",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

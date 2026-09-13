@@ -12,9 +12,13 @@ export const bewareOfChicken0215V6c27HeadingSouth = {
   unit: "words",
   completedAt: "2026-06-29T18:58:44.340Z",
   publishedAt: "2025-05-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2301712/v6c27-heading-south",
-  externalId: "2301712",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2301712",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2301712/v6c27-heading-south",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

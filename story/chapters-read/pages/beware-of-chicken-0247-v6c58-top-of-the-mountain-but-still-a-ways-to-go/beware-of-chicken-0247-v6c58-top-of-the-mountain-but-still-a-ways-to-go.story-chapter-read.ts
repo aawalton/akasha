@@ -12,9 +12,13 @@ export const bewareOfChicken0247V6c58TopOfTheMountainButStillAWaysToGo = {
   unit: "words",
   completedAt: "2026-06-29T18:59:52.241Z",
   publishedAt: "2025-08-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2547562/v6c58-top-of-the-mountain-but-still-a-ways-to",
-  externalId: "2547562",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2547562",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2547562/v6c58-top-of-the-mountain-but-still-a-ways-to",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

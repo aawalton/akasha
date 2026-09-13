@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0077Book5Chapter20DamnedAcco
   ownLength: 4925,
   unit: "words",
   publishedAt: "2026-05-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3466867/book-5-chapter-20-damned-accolades",
-  externalId: "3466867",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3466867",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3466867/book-5-chapter-20-damned-accolades",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

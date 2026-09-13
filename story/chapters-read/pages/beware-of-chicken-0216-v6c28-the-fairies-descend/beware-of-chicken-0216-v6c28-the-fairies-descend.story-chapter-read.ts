@@ -12,9 +12,13 @@ export const bewareOfChicken0216V6c28TheFairiesDescend = {
   unit: "words",
   completedAt: "2026-06-29T18:58:46.312Z",
   publishedAt: "2025-05-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2308573/v6c28-the-fairies-descend",
-  externalId: "2308573",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2308573",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2308573/v6c28-the-fairies-descend",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

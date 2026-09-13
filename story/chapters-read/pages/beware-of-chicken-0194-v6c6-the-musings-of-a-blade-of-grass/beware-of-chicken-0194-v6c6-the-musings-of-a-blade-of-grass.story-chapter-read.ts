@@ -12,9 +12,13 @@ export const bewareOfChicken0194V6c6TheMusingsOfABladeOfGrass = {
   unit: "words",
   completedAt: "2026-06-29T18:57:58.640Z",
   publishedAt: "2025-03-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2140530/v6c6-the-musings-of-a-blade-of-grass",
-  externalId: "2140530",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2140530",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2140530/v6c6-the-musings-of-a-blade-of-grass",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

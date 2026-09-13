@@ -12,9 +12,13 @@ export const bewareOfChicken0277V7c24WanderingAGiant = {
   unit: "words",
   completedAt: "2026-06-29T19:00:55.748Z",
   publishedAt: "2026-02-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3000910/v7c24-wandering-a-giant",
-  externalId: "3000910",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3000910",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3000910/v7c24-wandering-a-giant",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

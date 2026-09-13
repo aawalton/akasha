@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0090NoUpdateToday = {
   ownLength: 160,
   unit: "words",
   publishedAt: "2026-08-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3805925/no-update-today",
-  externalId: "3805925",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3805925",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3805925/no-update-today",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

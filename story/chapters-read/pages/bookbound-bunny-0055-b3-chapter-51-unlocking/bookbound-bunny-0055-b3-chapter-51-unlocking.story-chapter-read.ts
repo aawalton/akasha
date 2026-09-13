@@ -10,9 +10,13 @@ export const bookboundBunny0055B3Chapter51Unlocking = {
   ownLength: 2142,
   unit: "words",
   publishedAt: "2026-06-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3512980/b3-chapter-51-unlocking",
-  externalId: "3512980",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3512980",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3512980/b3-chapter-51-unlocking",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const bookboundBunny0030B3Chapter26FinalFight = {
   ownLength: 2325,
   unit: "words",
   publishedAt: "2026-04-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3242166/b3-chapter-26-final-fight",
-  externalId: "3242166",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3242166",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3242166/b3-chapter-26-final-fight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

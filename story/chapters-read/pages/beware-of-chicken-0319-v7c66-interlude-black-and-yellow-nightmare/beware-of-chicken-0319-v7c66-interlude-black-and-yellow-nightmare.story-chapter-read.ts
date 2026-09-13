@@ -10,9 +10,13 @@ export const bewareOfChicken0319V7c66InterludeBlackAndYellowNightmare = {
   ownLength: 3762,
   unit: "words",
   publishedAt: "2026-06-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3499145/v7c66-interlude-black-and-yellow-nightmare",
-  externalId: "3499145",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3499145",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3499145/v7c66-interlude-black-and-yellow-nightmare",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

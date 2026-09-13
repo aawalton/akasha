@@ -12,9 +12,13 @@ export const bewareOfChicken0257V7c4TheMoonAndTheEarth = {
   unit: "words",
   completedAt: "2026-06-29T19:00:13.489Z",
   publishedAt: "2025-11-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2791150/v7c4-the-moon-and-the-earth",
-  externalId: "2791150",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2791150",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2791150/v7c4-the-moon-and-the-earth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

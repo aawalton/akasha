@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook001919Respite = {
   ownLength: 1155,
   unit: "words",
   publishedAt: "2024-10-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1869562/19-respite",
-  externalId: "1869562",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1869562",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1869562/19-respite",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

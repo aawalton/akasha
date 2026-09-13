@@ -12,9 +12,13 @@ export const bewareOfChicken0205V6c17TheForgingOfABlade = {
   unit: "words",
   completedAt: "2026-06-29T18:58:22.668Z",
   publishedAt: "2025-04-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2229007/v6c17-the-forging-of-a-blade",
-  externalId: "2229007",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2229007",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2229007/v6c17-the-forging-of-a-blade",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0062Book5Chapter5ThatWhichTr
   ownLength: 3525,
   unit: "words",
   publishedAt: "2026-03-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3193642/book-5-chapter-5-that-which-transcends",
-  externalId: "3193642",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3193642",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3193642/book-5-chapter-5-that-which-transcends",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

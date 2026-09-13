@@ -12,9 +12,13 @@ export const bewareOfChicken0206V6c18FallingFromTheSummit = {
   unit: "words",
   completedAt: "2026-06-29T18:58:24.769Z",
   publishedAt: "2025-04-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2232169/v6c18-falling-from-the-summit",
-  externalId: "2232169",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2232169",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2232169/v6c18-falling-from-the-summit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

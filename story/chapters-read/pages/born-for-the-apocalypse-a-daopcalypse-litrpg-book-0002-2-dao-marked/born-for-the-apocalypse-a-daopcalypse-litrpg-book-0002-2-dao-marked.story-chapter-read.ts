@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook00022DaoMarked = {
   ownLength: 1722,
   unit: "words",
   publishedAt: "2023-02-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1105316/2-dao-marked",
-  externalId: "1105316",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1105316",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1105316/2-dao-marked",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

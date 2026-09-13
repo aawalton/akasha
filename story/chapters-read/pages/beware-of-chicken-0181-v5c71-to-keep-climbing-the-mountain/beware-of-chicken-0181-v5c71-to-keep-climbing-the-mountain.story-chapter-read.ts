@@ -12,9 +12,13 @@ export const bewareOfChicken0181V5c71ToKeepClimbingTheMountain = {
   unit: "words",
   completedAt: "2026-06-29T18:57:31.667Z",
   publishedAt: "2024-11-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1933019/v5c71-to-keep-climbing-the-mountain",
-  externalId: "1933019",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1933019",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1933019/v5c71-to-keep-climbing-the-mountain",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

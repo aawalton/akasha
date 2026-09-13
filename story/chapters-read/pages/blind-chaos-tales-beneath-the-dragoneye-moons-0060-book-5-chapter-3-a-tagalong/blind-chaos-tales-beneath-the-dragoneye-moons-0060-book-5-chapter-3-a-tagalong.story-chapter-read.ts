@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0060Book5Chapter3ATagalong =
   ownLength: 5739,
   unit: "words",
   publishedAt: "2026-03-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3141551/book-5-chapter-3-a-tagalong",
-  externalId: "3141551",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3141551",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3141551/book-5-chapter-3-a-tagalong",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

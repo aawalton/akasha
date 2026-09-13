@@ -10,9 +10,13 @@ export const bookboundBunny0058B3Chapter54UnveilingPotential = {
   ownLength: 2329,
   unit: "words",
   publishedAt: "2026-06-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3546310/b3-chapter-54-unveiling-potential",
-  externalId: "3546310",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3546310",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3546310/b3-chapter-54-unveiling-potential",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

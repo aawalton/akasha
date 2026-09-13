@@ -10,9 +10,13 @@ export const bookboundBunny0037B3Chapter33Praise = {
   ownLength: 2222,
   unit: "words",
   publishedAt: "2026-04-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3308073/b3-chapter-33-praise",
-  externalId: "3308073",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3308073",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3308073/b3-chapter-33-praise",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0001TheStorySoFar = {
   ownLength: 740,
   unit: "words",
   publishedAt: "2025-11-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2765788/the-story-so-far",
-  externalId: "2765788",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2765788",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2765788/the-story-so-far",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

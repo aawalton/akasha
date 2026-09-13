@@ -10,9 +10,13 @@ export const bookboundBunny0044B3Chapter40Library = {
   ownLength: 2403,
   unit: "words",
   publishedAt: "2026-05-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3385345/b3-chapter-40-library",
-  externalId: "3385345",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3385345",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3385345/b3-chapter-40-library",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

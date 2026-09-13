@@ -10,9 +10,13 @@ export const bookboundBunny0032B3Chapter28Rivalry = {
   ownLength: 2131,
   unit: "words",
   publishedAt: "2026-04-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3259436/b3-chapter-28-rivalry",
-  externalId: "3259436",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3259436",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3259436/b3-chapter-28-rivalry",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

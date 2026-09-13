@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0052Book4Chapter47SeeingIi =
   ownLength: 6612,
   unit: "words",
   publishedAt: "2026-01-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2989242/book-4-chapter-47-seeing-ii",
-  externalId: "2989242",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2989242",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2989242/book-4-chapter-47-seeing-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

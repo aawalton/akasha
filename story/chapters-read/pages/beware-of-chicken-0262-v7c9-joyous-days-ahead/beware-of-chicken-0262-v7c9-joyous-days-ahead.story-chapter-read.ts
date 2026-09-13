@@ -12,9 +12,13 @@ export const bewareOfChicken0262V7c9JoyousDaysAhead = {
   unit: "words",
   completedAt: "2026-06-29T19:00:24.149Z",
   publishedAt: "2025-12-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2823602/v7c9-joyous-days-ahead",
-  externalId: "2823602",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2823602",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2823602/v7c9-joyous-days-ahead",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

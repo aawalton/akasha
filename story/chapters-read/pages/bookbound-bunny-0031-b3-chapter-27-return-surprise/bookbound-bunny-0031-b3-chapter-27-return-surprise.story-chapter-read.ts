@@ -10,9 +10,13 @@ export const bookboundBunny0031B3Chapter27ReturnSurprise = {
   ownLength: 2014,
   unit: "words",
   publishedAt: "2026-04-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3250759/b3-chapter-27-return-surprise",
-  externalId: "3250759",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3250759",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3250759/b3-chapter-27-return-surprise",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

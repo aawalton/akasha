@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook001818CarpeDiem = {
   ownLength: 1947,
   unit: "words",
   publishedAt: "2023-03-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1142342/18-carpe-diem",
-  externalId: "1142342",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1142342",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1142342/18-carpe-diem",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

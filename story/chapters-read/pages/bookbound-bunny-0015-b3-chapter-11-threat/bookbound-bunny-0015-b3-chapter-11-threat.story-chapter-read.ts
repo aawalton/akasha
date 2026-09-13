@@ -10,9 +10,13 @@ export const bookboundBunny0015B3Chapter11Threat = {
   ownLength: 2289,
   unit: "words",
   publishedAt: "2026-02-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3093620/b3-chapter-11-threat",
-  externalId: "3093620",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3093620",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3093620/b3-chapter-11-threat",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

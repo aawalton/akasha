@@ -10,9 +10,13 @@ export const bookboundBunny0052B3Chapter48GameOfGlyphs = {
   ownLength: 2566,
   unit: "words",
   publishedAt: "2026-06-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3481594/b3-chapter-48-game-of-glyphs",
-  externalId: "3481594",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3481594",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3481594/b3-chapter-48-game-of-glyphs",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const bookboundBunny0072B3Chapter68Flashy = {
   ownLength: 2302,
   unit: "words",
   publishedAt: "2026-07-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3705323/b3-chapter-68-flashy",
-  externalId: "3705323",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3705323",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3705323/b3-chapter-68-flashy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

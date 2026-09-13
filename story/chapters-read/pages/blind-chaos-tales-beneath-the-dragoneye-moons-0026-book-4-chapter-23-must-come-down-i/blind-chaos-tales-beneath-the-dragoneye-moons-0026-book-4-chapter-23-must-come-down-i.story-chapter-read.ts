@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0026Book4Chapter23MustComeDo
   ownLength: 3621,
   unit: "words",
   publishedAt: "2025-10-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2697267/book-4-chapter-23-must-come-down-i",
-  externalId: "2697267",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2697267",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2697267/book-4-chapter-23-must-come-down-i",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

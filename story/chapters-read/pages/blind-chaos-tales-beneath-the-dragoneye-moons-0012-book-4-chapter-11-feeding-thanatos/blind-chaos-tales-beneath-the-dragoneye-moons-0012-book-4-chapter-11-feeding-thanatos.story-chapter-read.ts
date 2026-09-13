@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0012Book4Chapter11FeedingTha
   ownLength: 8652,
   unit: "words",
   publishedAt: "2025-08-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2547658/book-4-chapter-11-feeding-thanatos",
-  externalId: "2547658",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2547658",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2547658/book-4-chapter-11-feeding-thanatos",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

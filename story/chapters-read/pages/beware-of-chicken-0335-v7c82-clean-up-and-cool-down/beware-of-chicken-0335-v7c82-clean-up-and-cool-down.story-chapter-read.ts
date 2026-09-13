@@ -10,9 +10,13 @@ export const bewareOfChicken0335V7c82CleanUpAndCoolDown = {
   ownLength: 1855,
   unit: "words",
   publishedAt: "2026-07-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3703103/v7c82-clean-up-and-cool-down",
-  externalId: "3703103",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3703103",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3703103/v7c82-clean-up-and-cool-down",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

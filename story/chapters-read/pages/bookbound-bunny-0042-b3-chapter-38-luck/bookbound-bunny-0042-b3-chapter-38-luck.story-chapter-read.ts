@@ -10,9 +10,13 @@ export const bookboundBunny0042B3Chapter38Luck = {
   ownLength: 2225,
   unit: "words",
   publishedAt: "2026-05-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3365280/b3-chapter-38-luck",
-  externalId: "3365280",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3365280",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3365280/b3-chapter-38-luck",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

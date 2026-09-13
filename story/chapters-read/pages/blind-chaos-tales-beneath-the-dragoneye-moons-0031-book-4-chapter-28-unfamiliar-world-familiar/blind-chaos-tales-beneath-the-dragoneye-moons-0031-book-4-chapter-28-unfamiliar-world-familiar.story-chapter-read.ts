@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0031Book4Chapter28Unfamiliar
   ownLength: 3790,
   unit: "words",
   publishedAt: "2025-11-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2755917/book-4-chapter-28-unfamiliar-world-familiar-strife",
-  externalId: "2755917",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2755917",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2755917/book-4-chapter-28-unfamiliar-world-familiar-strife",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

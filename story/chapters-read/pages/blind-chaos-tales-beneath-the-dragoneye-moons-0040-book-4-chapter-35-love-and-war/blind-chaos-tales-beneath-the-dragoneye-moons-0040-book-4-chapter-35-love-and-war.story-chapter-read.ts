@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0040Book4Chapter35LoveAndWar
   ownLength: 5715,
   unit: "words",
   publishedAt: "2025-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2857234/book-4-chapter-35-love-and-war",
-  externalId: "2857234",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2857234",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2857234/book-4-chapter-35-love-and-war",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

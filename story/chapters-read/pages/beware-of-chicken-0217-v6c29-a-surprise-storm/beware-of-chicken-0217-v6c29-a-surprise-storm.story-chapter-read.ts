@@ -12,9 +12,13 @@ export const bewareOfChicken0217V6c29ASurpriseStorm = {
   unit: "words",
   completedAt: "2026-06-29T18:58:48.338Z",
   publishedAt: "2025-05-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2313667/v6c29-a-surprise-storm",
-  externalId: "2313667",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2313667",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2313667/v6c29-a-surprise-storm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

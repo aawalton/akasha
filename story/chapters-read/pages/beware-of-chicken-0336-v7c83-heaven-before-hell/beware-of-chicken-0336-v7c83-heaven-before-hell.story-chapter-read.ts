@@ -10,9 +10,13 @@ export const bewareOfChicken0336V7c83HeavenBeforeHell = {
   ownLength: 3723,
   unit: "words",
   publishedAt: "2026-07-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3712635/v7c83-heaven-before-hell",
-  externalId: "3712635",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3712635",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3712635/v7c83-heaven-before-hell",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const bookboundBunny0085B3Chapter81WatchfulGaze = {
   ownLength: 2217,
   unit: "words",
   publishedAt: "2026-08-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3846830/b3-chapter-81-watchful-gaze",
-  externalId: "3846830",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3846830",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3846830/b3-chapter-81-watchful-gaze",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

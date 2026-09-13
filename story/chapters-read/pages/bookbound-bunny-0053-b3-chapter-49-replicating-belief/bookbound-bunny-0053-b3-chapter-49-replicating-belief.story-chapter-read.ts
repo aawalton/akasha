@@ -10,9 +10,13 @@ export const bookboundBunny0053B3Chapter49ReplicatingBelief = {
   ownLength: 2269,
   unit: "words",
   publishedAt: "2026-06-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3490841/b3-chapter-49-replicating-belief",
-  externalId: "3490841",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3490841",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3490841/b3-chapter-49-replicating-belief",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

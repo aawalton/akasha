@@ -10,9 +10,13 @@ export const bookboundBunny0047B3Chapter43Seeding = {
   ownLength: 2113,
   unit: "words",
   publishedAt: "2026-05-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3417157/b3-chapter-43-seeding",
-  externalId: "3417157",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3417157",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3417157/b3-chapter-43-seeding",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

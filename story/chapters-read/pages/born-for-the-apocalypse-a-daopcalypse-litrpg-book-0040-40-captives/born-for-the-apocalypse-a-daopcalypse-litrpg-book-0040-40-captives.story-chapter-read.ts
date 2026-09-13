@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook004040Captives = {
   ownLength: 2437,
   unit: "words",
   publishedAt: "2025-01-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2004622/40-captives",
-  externalId: "2004622",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2004622",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2004622/40-captives",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

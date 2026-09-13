@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0019Book4Chapter17AncientHis
   ownLength: 4752,
   unit: "words",
   publishedAt: "2025-10-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2644317/book-4-chapter-17-ancient-history-i",
-  externalId: "2644317",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2644317",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2644317/book-4-chapter-17-ancient-history-i",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook003333Approach = {
   ownLength: 1439,
   unit: "words",
   publishedAt: "2024-12-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1970680/33-approach",
-  externalId: "1970680",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1970680",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1970680/33-approach",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

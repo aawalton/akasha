@@ -10,9 +10,13 @@ export const bookboundBunny0020B3Chapter16Treasures = {
   ownLength: 2236,
   unit: "words",
   publishedAt: "2026-03-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3142677/b3-chapter-16-treasures",
-  externalId: "3142677",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3142677",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3142677/b3-chapter-16-treasures",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const bewareOfChicken0235V6c46SeniorBrotherSDayAtTheOffice = {
   unit: "words",
   completedAt: "2026-06-29T18:59:26.768Z",
   publishedAt: "2025-07-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2455918/v6c46-senior-brothers-day-at-the-office",
-  externalId: "2455918",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2455918",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2455918/v6c46-senior-brothers-day-at-the-office",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

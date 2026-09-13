@@ -10,9 +10,13 @@ export const bookboundBunny0071B3Chapter67Dreaming = {
   ownLength: 2159,
   unit: "words",
   publishedAt: "2026-07-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3692549/b3-chapter-67-dreaming",
-  externalId: "3692549",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3692549",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3692549/b3-chapter-67-dreaming",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

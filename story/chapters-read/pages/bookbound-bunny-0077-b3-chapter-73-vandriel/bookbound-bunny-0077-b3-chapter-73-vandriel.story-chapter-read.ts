@@ -10,9 +10,13 @@ export const bookboundBunny0077B3Chapter73Vandriel = {
   ownLength: 2282,
   unit: "words",
   publishedAt: "2026-08-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3766819/b3-chapter-73-vandriel",
-  externalId: "3766819",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3766819",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3766819/b3-chapter-73-vandriel",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

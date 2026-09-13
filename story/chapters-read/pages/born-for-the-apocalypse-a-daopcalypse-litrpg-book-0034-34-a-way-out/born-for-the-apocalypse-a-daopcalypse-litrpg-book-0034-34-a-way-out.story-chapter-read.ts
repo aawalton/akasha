@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook003434AWayOut = {
   ownLength: 1248,
   unit: "words",
   publishedAt: "2025-01-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1993459/34-a-way-out",
-  externalId: "1993459",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1993459",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1993459/34-a-way-out",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0011Book4Chapter10AFrozenCal
   ownLength: 4862,
   unit: "words",
   publishedAt: "2025-08-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2539688/book-4-chapter-10-a-frozen-calm",
-  externalId: "2539688",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2539688",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2539688/book-4-chapter-10-a-frozen-calm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const bewareOfChicken0207V6c19OldWounds = {
   unit: "words",
   completedAt: "2026-06-29T18:58:26.869Z",
   publishedAt: "2025-04-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2239730/v6c19-old-wounds",
-  externalId: "2239730",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2239730",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2239730/v6c19-old-wounds",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

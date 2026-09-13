@@ -12,9 +12,13 @@ export const bewareOfChicken0226V6c37TheMasterOfTheForest = {
   unit: "words",
   completedAt: "2026-06-29T18:59:07.452Z",
   publishedAt: "2025-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2381079/v6c37-the-master-of-the-forest",
-  externalId: "2381079",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2381079",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2381079/v6c37-the-master-of-the-forest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

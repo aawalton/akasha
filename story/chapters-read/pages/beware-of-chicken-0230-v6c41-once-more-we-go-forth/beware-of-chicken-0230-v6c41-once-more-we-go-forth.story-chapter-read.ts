@@ -12,9 +12,13 @@ export const bewareOfChicken0230V6c41OnceMoreWeGoForth = {
   unit: "words",
   completedAt: "2026-06-29T18:59:16.762Z",
   publishedAt: "2025-07-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2407040/v6c41-once-more-we-go-forth",
-  externalId: "2407040",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2407040",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2407040/v6c41-once-more-we-go-forth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

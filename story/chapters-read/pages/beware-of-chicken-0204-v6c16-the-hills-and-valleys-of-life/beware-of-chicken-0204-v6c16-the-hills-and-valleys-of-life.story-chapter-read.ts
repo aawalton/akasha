@@ -12,9 +12,13 @@ export const bewareOfChicken0204V6c16TheHillsAndValleysOfLife = {
   unit: "words",
   completedAt: "2026-06-29T18:58:20.505Z",
   publishedAt: "2025-04-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2221439/v6c16-the-hills-and-valleys-of-life",
-  externalId: "2221439",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2221439",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2221439/v6c16-the-hills-and-valleys-of-life",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

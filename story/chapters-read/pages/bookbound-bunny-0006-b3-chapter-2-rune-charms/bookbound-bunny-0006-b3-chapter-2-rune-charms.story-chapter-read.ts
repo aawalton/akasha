@@ -10,9 +10,13 @@ export const bookboundBunny0006B3Chapter2RuneCharms = {
   ownLength: 2167,
   unit: "words",
   publishedAt: "2026-02-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3014288/b3-chapter-2-rune-charms",
-  externalId: "3014288",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3014288",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3014288/b3-chapter-2-rune-charms",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

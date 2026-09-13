@@ -10,9 +10,13 @@ export const bookboundBunny0036B3Chapter32BackToClass = {
   ownLength: 2044,
   unit: "words",
   publishedAt: "2026-04-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3299525/b3-chapter-32-back-to-class",
-  externalId: "3299525",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3299525",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3299525/b3-chapter-32-back-to-class",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0041Book4Chapter36AvynasOffe
   ownLength: 3693,
   unit: "words",
   publishedAt: "2025-12-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2863142/book-4-chapter-36-avynas-offer",
-  externalId: "2863142",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2863142",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2863142/book-4-chapter-36-avynas-offer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const bookboundBunny0009B3Chapter5Roaming = {
   ownLength: 2443,
   unit: "words",
   publishedAt: "2026-02-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3039016/b3-chapter-5-roaming",
-  externalId: "3039016",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3039016",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3039016/b3-chapter-5-roaming",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

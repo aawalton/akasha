@@ -12,9 +12,13 @@ export const bewareOfChicken0245V6c56JourneyThroughTheSky = {
   unit: "words",
   completedAt: "2026-06-29T18:59:47.962Z",
   publishedAt: "2025-08-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2516163/v6c56-journey-through-the-sky",
-  externalId: "2516163",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2516163",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2516163/v6c56-journey-through-the-sky",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

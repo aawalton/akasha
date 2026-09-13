@@ -12,9 +12,13 @@ export const bewareOfChicken0221V6c33BlessingsOnTheNewYear = {
   unit: "words",
   completedAt: "2026-06-29T18:58:56.895Z",
   publishedAt: "2025-06-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2338914/v6c33-blessings-on-the-new-year",
-  externalId: "2338914",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2338914",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2338914/v6c33-blessings-on-the-new-year",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

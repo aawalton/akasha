@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0081Book5Chapter24ASeriesOfH
   ownLength: 4128,
   unit: "words",
   publishedAt: "2026-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3586291/book-5-chapter-24-a-series-of-hunts-i",
-  externalId: "3586291",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3586291",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3586291/book-5-chapter-24-a-series-of-hunts-i",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

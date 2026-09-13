@@ -12,9 +12,13 @@ export const bewareOfChicken0190V6c2TheForestAndTheTreesPart1 = {
   unit: "words",
   completedAt: "2026-06-29T18:57:50.180Z",
   publishedAt: "2025-03-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2118990/v6c2-the-forest-and-the-trees-part-1",
-  externalId: "2118990",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2118990",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2118990/v6c2-the-forest-and-the-trees-part-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

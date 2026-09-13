@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook003636Timing = {
   ownLength: 1026,
   unit: "words",
   publishedAt: "2025-01-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1997367/36-timing",
-  externalId: "1997367",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1997367",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1997367/36-timing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

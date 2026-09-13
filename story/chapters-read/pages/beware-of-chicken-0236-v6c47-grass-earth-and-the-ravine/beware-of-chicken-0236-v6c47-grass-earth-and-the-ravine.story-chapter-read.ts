@@ -12,9 +12,13 @@ export const bewareOfChicken0236V6c47GrassEarthAndTheRavine = {
   unit: "words",
   completedAt: "2026-06-29T18:59:28.967Z",
   publishedAt: "2025-07-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2461409/v6c47-grass-earth-and-the-ravine",
-  externalId: "2461409",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2461409",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2461409/v6c47-grass-earth-and-the-ravine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

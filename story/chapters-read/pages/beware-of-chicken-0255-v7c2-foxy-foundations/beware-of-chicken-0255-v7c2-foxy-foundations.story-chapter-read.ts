@@ -12,9 +12,13 @@ export const bewareOfChicken0255V7c2FoxyFoundations = {
   unit: "words",
   completedAt: "2026-06-29T19:00:08.960Z",
   publishedAt: "2025-11-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2776703/v7c2-foxy-foundations",
-  externalId: "2776703",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2776703",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2776703/v7c2-foxy-foundations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

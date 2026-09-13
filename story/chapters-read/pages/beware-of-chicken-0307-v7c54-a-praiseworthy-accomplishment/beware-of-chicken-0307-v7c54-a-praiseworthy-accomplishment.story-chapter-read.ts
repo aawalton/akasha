@@ -10,9 +10,13 @@ export const bewareOfChicken0307V7c54APraiseworthyAccomplishment = {
   ownLength: 2178,
   unit: "words",
   publishedAt: "2026-05-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3348152/v7c54-a-praiseworthy-accomplishment",
-  externalId: "3348152",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3348152",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3348152/v7c54-a-praiseworthy-accomplishment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const bewareOfChicken0171V5c64CoursePlotted = {
   unit: "words",
   completedAt: "2026-06-29T18:57:10.475Z",
   publishedAt: "2024-11-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1906299/v5c64-course-plotted",
-  externalId: "1906299",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1906299",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1906299/v5c64-course-plotted",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

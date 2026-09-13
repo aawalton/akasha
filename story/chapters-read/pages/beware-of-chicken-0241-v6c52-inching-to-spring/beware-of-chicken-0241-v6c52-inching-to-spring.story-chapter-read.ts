@@ -12,9 +12,13 @@ export const bewareOfChicken0241V6c52InchingToSpring = {
   unit: "words",
   completedAt: "2026-06-29T18:59:39.841Z",
   publishedAt: "2025-08-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2493277/v6c52-inching-to-spring",
-  externalId: "2493277",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2493277",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2493277/v6c52-inching-to-spring",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const bewareOfChicken0283V7c30TheFallOfTheWuPart1 = {
   unit: "words",
   completedAt: "2026-06-29T19:01:08.663Z",
   publishedAt: "2026-02-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3076953/v7c30-the-fall-of-the-wu-part-1",
-  externalId: "3076953",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3076953",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3076953/v7c30-the-fall-of-the-wu-part-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

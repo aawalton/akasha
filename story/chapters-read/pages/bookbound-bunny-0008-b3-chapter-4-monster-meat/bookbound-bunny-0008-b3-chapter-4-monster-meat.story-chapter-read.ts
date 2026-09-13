@@ -10,9 +10,13 @@ export const bookboundBunny0008B3Chapter4MonsterMeat = {
   ownLength: 2099,
   unit: "words",
   publishedAt: "2026-02-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3032163/b3-chapter-4-monster-meat",
-  externalId: "3032163",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3032163",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3032163/b3-chapter-4-monster-meat",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const bewareOfChicken0330V7c77ImperialMandate = {
   ownLength: 2225,
   unit: "words",
   publishedAt: "2026-07-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3656129/v7c77-imperial-mandate",
-  externalId: "3656129",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3656129",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3656129/v7c77-imperial-mandate",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

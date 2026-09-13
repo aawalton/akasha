@@ -12,9 +12,13 @@ export const bewareOfChicken0269V7c16AManHasThreeMasks = {
   unit: "words",
   completedAt: "2026-06-29T19:00:38.874Z",
   publishedAt: "2026-01-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2916268/v7c16-a-man-has-three-masks",
-  externalId: "2916268",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2916268",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2916268/v7c16-a-man-has-three-masks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

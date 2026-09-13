@@ -10,9 +10,13 @@ export const bewareOfChicken0314V7c61YellowTide = {
   ownLength: 2882,
   unit: "words",
   publishedAt: "2026-05-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3451757/v7c61-yellow-tide",
-  externalId: "3451757",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3451757",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3451757/v7c61-yellow-tide",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

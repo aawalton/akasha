@@ -10,9 +10,13 @@ export const bookboundBunny0079B3Chapter75AnInvitation = {
   ownLength: 2656,
   unit: "words",
   publishedAt: "2026-08-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3785774/b3-chapter-75-an-invitation",
-  externalId: "3785774",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3785774",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3785774/b3-chapter-75-an-invitation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

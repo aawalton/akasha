@@ -12,9 +12,13 @@ export const bewareOfChicken0259V7c6GrowingAroundAThistle = {
   unit: "words",
   completedAt: "2026-06-29T19:00:17.896Z",
   publishedAt: "2025-11-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2802358/v7c6-growing-around-a-thistle",
-  externalId: "2802358",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2802358",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2802358/v7c6-growing-around-a-thistle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

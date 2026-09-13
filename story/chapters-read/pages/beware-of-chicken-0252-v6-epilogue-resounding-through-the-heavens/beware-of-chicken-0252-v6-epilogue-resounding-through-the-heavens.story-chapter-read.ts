@@ -12,9 +12,13 @@ export const bewareOfChicken0252V6EpilogueResoundingThroughTheHeavens = {
   unit: "words",
   completedAt: "2026-06-29T19:00:02.697Z",
   publishedAt: "2025-09-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2577257/v6-epilogue-resounding-through-the-heavens",
-  externalId: "2577257",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2577257",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2577257/v6-epilogue-resounding-through-the-heavens",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

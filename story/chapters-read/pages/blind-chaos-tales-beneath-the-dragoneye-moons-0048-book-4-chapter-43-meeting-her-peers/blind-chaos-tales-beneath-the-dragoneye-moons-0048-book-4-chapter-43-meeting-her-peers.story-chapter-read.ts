@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0048Book4Chapter43MeetingHer
   ownLength: 5847,
   unit: "words",
   publishedAt: "2026-01-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2943682/book-4-chapter-43-meeting-her-peers",
-  externalId: "2943682",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2943682",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2943682/book-4-chapter-43-meeting-her-peers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

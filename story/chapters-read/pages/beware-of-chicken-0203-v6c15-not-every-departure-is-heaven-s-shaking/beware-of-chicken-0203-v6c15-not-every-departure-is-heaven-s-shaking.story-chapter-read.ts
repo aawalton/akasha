@@ -12,9 +12,13 @@ export const bewareOfChicken0203V6c15NotEveryDepartureIsHeavenSShaking = {
   unit: "words",
   completedAt: "2026-06-29T18:58:18.103Z",
   publishedAt: "2025-04-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2197377/v6c15-not-every-departure-is-heavens-shaking",
-  externalId: "2197377",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2197377",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2197377/v6c15-not-every-departure-is-heavens-shaking",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

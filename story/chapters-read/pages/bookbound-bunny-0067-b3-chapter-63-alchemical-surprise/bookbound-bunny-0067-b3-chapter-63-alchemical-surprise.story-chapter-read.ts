@@ -10,9 +10,13 @@ export const bookboundBunny0067B3Chapter63AlchemicalSurprise = {
   ownLength: 2267,
   unit: "words",
   publishedAt: "2026-07-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3651717/b3-chapter-63-alchemical-surprise",
-  externalId: "3651717",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3651717",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3651717/b3-chapter-63-alchemical-surprise",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

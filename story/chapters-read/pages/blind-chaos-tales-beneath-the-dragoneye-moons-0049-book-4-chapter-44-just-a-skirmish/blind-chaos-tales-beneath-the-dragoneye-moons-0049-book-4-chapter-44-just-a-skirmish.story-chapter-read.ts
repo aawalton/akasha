@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0049Book4Chapter44JustASkirm
   ownLength: 5422,
   unit: "words",
   publishedAt: "2026-01-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2950196/book-4-chapter-44-just-a-skirmish",
-  externalId: "2950196",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2950196",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2950196/book-4-chapter-44-just-a-skirmish",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0073Book5Chapter16AWildAnniv
   ownLength: 5534,
   unit: "words",
   publishedAt: "2026-05-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3372401/book-5-chapter-16-a-wild-anniversary-ii",
-  externalId: "3372401",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3372401",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3372401/book-5-chapter-16-a-wild-anniversary-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const bewareOfChicken0249V6c60MountainsAndHills = {
   unit: "words",
   completedAt: "2026-06-29T18:59:56.432Z",
   publishedAt: "2025-08-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2558079/v6c60-mountains-and-hills",
-  externalId: "2558079",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2558079",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2558079/v6c60-mountains-and-hills",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

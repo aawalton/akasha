@@ -12,9 +12,13 @@ export const bewareOfChicken0280V7c27AFineDayForAConspiracy = {
   unit: "words",
   completedAt: "2026-06-29T19:01:02.284Z",
   publishedAt: "2026-02-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3021091/v7c27-a-fine-day-for-a-conspiracy",
-  externalId: "3021091",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3021091",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3021091/v7c27-a-fine-day-for-a-conspiracy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

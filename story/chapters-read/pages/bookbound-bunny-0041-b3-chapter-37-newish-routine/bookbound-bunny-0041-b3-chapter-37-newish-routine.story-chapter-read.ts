@@ -10,9 +10,13 @@ export const bookboundBunny0041B3Chapter37NewishRoutine = {
   ownLength: 2153,
   unit: "words",
   publishedAt: "2026-05-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3356786/b3-chapter-37-newish-routine",
-  externalId: "3356786",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3356786",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3356786/b3-chapter-37-newish-routine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

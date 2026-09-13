@@ -10,9 +10,13 @@ export const bewareOfChicken0304V7c51ToStrideForwardUndaunted = {
   ownLength: 2389,
   unit: "words",
   publishedAt: "2026-04-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3323060/v7c51-to-stride-forward-undaunted",
-  externalId: "3323060",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3323060",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3323060/v7c51-to-stride-forward-undaunted",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

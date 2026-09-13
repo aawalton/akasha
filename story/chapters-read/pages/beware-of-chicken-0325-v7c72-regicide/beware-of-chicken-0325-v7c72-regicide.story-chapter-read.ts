@@ -10,9 +10,13 @@ export const bewareOfChicken0325V7c72Regicide = {
   ownLength: 2185,
   unit: "words",
   publishedAt: "2026-06-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3597550/v7c72-regicide",
-  externalId: "3597550",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3597550",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3597550/v7c72-regicide",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

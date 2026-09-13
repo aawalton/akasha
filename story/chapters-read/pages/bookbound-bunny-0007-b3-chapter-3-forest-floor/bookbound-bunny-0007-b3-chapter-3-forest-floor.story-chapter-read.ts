@@ -10,9 +10,13 @@ export const bookboundBunny0007B3Chapter3ForestFloor = {
   ownLength: 2121,
   unit: "words",
   publishedAt: "2026-02-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3021235/b3-chapter-3-forest-floor",
-  externalId: "3021235",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3021235",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3021235/b3-chapter-3-forest-floor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

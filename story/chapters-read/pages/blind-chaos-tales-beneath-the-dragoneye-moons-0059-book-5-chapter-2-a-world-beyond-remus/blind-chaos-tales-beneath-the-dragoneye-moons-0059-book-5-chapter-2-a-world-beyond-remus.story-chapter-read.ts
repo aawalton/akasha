@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0059Book5Chapter2AWorldBeyon
   ownLength: 5290,
   unit: "words",
   publishedAt: "2026-03-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3124476/book-5-chapter-2-a-world-beyond-remus",
-  externalId: "3124476",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3124476",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3124476/book-5-chapter-2-a-world-beyond-remus",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

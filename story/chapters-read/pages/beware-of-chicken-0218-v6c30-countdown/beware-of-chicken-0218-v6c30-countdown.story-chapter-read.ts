@@ -12,9 +12,13 @@ export const bewareOfChicken0218V6c30Countdown = {
   unit: "words",
   completedAt: "2026-06-29T18:58:50.378Z",
   publishedAt: "2025-05-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2318621/v6c30-countdown",
-  externalId: "2318621",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2318621",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2318621/v6c30-countdown",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

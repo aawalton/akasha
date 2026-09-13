@@ -12,9 +12,13 @@ export const bewareOfChicken0263V7c10TheVirtuousSReward = {
   unit: "words",
   completedAt: "2026-06-29T19:00:26.077Z",
   publishedAt: "2025-12-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2834480/v7c10-the-virtuouss-reward",
-  externalId: "2834480",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2834480",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2834480/v7c10-the-virtuouss-reward",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

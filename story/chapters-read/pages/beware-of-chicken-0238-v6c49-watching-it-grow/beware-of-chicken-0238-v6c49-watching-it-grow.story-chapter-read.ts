@@ -12,9 +12,13 @@ export const bewareOfChicken0238V6c49WatchingItGrow = {
   unit: "words",
   completedAt: "2026-06-29T18:59:33.112Z",
   publishedAt: "2025-07-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2474869/v6c49-watching-it-grow",
-  externalId: "2474869",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2474869",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2474869/v6c49-watching-it-grow",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

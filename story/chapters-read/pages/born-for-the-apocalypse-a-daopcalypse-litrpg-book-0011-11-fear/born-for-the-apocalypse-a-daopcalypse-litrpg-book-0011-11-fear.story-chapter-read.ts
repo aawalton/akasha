@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook001111Fear = {
   ownLength: 1083,
   unit: "words",
   publishedAt: "2023-02-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1115939/11-fear",
-  externalId: "1115939",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1115939",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1115939/11-fear",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

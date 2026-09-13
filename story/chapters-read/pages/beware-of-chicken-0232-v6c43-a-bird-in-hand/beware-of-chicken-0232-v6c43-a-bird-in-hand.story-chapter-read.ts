@@ -12,9 +12,13 @@ export const bewareOfChicken0232V6c43ABirdInHand = {
   unit: "words",
   completedAt: "2026-06-29T18:59:20.730Z",
   publishedAt: "2025-07-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2417909/v6c43-a-bird-in-hand",
-  externalId: "2417909",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2417909",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2417909/v6c43-a-bird-in-hand",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

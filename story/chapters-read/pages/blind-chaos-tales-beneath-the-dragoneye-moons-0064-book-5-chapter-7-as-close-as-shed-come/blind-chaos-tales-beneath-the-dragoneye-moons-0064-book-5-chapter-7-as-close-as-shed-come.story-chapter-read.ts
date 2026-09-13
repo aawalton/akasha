@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0064Book5Chapter7AsCloseAsSh
   ownLength: 4354,
   unit: "words",
   publishedAt: "2026-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3219961/book-5-chapter-7-as-close-as-shed-come",
-  externalId: "3219961",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3219961",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3219961/book-5-chapter-7-as-close-as-shed-come",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

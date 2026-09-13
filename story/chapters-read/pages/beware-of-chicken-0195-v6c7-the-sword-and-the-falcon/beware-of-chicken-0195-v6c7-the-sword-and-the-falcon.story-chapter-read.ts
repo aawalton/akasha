@@ -12,9 +12,13 @@ export const bewareOfChicken0195V6c7TheSwordAndTheFalcon = {
   unit: "words",
   completedAt: "2026-06-29T18:58:00.669Z",
   publishedAt: "2025-03-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2144876/v6c7-the-sword-and-the-falcon",
-  externalId: "2144876",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2144876",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2144876/v6c7-the-sword-and-the-falcon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

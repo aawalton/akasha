@@ -10,9 +10,13 @@ export const bewareOfChicken0326V7c73AshesToAshes = {
   ownLength: 2447,
   unit: "words",
   publishedAt: "2026-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3615301/v7c73-ashes-to-ashes",
-  externalId: "3615301",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3615301",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3615301/v7c73-ashes-to-ashes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

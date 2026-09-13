@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook001616Crescendo = {
   ownLength: 2971,
   unit: "words",
   publishedAt: "2023-03-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1129652/16-crescendo",
-  externalId: "1129652",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1129652",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1129652/16-crescendo",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

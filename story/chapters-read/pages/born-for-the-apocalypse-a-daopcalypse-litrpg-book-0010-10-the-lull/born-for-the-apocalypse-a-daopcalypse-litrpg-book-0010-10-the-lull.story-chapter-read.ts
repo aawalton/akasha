@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook001010TheLull = {
   ownLength: 1258,
   unit: "words",
   publishedAt: "2023-02-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1114332/10-the-lull",
-  externalId: "1114332",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1114332",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1114332/10-the-lull",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

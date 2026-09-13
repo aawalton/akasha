@@ -12,9 +12,13 @@ export const bewareOfChicken0173V5c65TheExpertsOfTheEmpire = {
   unit: "words",
   completedAt: "2026-06-29T18:57:14.887Z",
   publishedAt: "2024-11-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1909934/v5c65-the-experts-of-the-empire",
-  externalId: "1909934",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1909934",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1909934/v5c65-the-experts-of-the-empire",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

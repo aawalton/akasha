@@ -10,9 +10,13 @@ export const bookboundBunny0014B3Chapter10Flowers = {
   ownLength: 2680,
   unit: "words",
   publishedAt: "2026-02-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3086542/b3-chapter-10-flowers",
-  externalId: "3086542",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3086542",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3086542/b3-chapter-10-flowers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

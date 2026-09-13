@@ -10,9 +10,13 @@ export const bookboundBunny0080B3Chapter76HiddenTalents = {
   ownLength: 2815,
   unit: "words",
   publishedAt: "2026-08-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3798602/b3-chapter-76-hidden-talents",
-  externalId: "3798602",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3798602",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3798602/b3-chapter-76-hidden-talents",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

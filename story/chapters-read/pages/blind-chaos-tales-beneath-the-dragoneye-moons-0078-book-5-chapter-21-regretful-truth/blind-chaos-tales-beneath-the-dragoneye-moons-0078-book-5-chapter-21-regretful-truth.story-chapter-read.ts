@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0078Book5Chapter21RegretfulT
   ownLength: 4674,
   unit: "words",
   publishedAt: "2026-06-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3489257/book-5-chapter-21-regretful-truth",
-  externalId: "3489257",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3489257",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3489257/book-5-chapter-21-regretful-truth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

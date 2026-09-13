@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0055Book4Chapter50Obstrepero
   ownLength: 6143,
   unit: "words",
   publishedAt: "2026-02-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3020258/book-4-chapter-50-obstreperous",
-  externalId: "3020258",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3020258",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3020258/book-4-chapter-50-obstreperous",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

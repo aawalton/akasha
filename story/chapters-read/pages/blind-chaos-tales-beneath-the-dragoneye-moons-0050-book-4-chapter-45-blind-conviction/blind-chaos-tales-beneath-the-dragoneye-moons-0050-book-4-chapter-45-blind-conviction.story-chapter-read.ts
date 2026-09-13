@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0050Book4Chapter45BlindConvi
   ownLength: 3029,
   unit: "words",
   publishedAt: "2026-01-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2965895/book-4-chapter-45-blind-conviction",
-  externalId: "2965895",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2965895",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2965895/book-4-chapter-45-blind-conviction",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

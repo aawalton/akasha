@@ -12,9 +12,13 @@ export const bewareOfChicken0248V6c59ShortButSweetReunion = {
   unit: "words",
   completedAt: "2026-06-29T18:59:54.365Z",
   publishedAt: "2025-08-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2553446/v6c59-short-but-sweet-reunion",
-  externalId: "2553446",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2553446",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2553446/v6c59-short-but-sweet-reunion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const bookboundBunny0069B3Chapter65CasualTime = {
   ownLength: 2342,
   unit: "words",
   publishedAt: "2026-07-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3674477/b3-chapter-65-casual-time",
-  externalId: "3674477",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3674477",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3674477/b3-chapter-65-casual-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

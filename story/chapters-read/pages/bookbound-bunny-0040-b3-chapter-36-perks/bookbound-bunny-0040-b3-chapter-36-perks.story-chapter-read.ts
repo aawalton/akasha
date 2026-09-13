@@ -10,9 +10,13 @@ export const bookboundBunny0040B3Chapter36Perks = {
   ownLength: 2032,
   unit: "words",
   publishedAt: "2026-05-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3344447/b3-chapter-36-perks",
-  externalId: "3344447",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3344447",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3344447/b3-chapter-36-perks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

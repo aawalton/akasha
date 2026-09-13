@@ -12,9 +12,13 @@ export const bewareOfChicken0225V6c36ReturnToTheForest = {
   unit: "words",
   completedAt: "2026-06-29T18:59:05.405Z",
   publishedAt: "2025-06-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2373427/v6c36-return-to-the-forest",
-  externalId: "2373427",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2373427",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2373427/v6c36-return-to-the-forest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

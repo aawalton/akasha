@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook002525RunJackRun = {
   ownLength: 1099,
   unit: "words",
   publishedAt: "2024-11-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1896078/25-run-jack-run",
-  externalId: "1896078",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1896078",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1896078/25-run-jack-run",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

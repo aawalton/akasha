@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook004343PrimordialClaw = {
   ownLength: 1696,
   unit: "words",
   publishedAt: "2025-01-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2011420/43-primordial-claw",
-  externalId: "2011420",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2011420",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2011420/43-primordial-claw",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const bewareOfChicken0196V6c8BrightAndEarly = {
   unit: "words",
   completedAt: "2026-06-29T18:58:02.789Z",
   publishedAt: "2025-03-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2151204/v6c8-bright-and-early",
-  externalId: "2151204",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2151204",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2151204/v6c8-bright-and-early",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

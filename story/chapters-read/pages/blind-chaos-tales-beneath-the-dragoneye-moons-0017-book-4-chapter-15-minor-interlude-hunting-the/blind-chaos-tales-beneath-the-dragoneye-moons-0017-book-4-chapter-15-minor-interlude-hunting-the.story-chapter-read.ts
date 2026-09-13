@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0017Book4Chapter15MinorInter
   ownLength: 2901,
   unit: "words",
   publishedAt: "2025-09-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2626386/book-4-chapter-15-minor-interlude-hunting-the",
-  externalId: "2626386",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2626386",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2626386/book-4-chapter-15-minor-interlude-hunting-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const bookboundBunny0088B3Chapter84Platinum = {
   ownLength: 2360,
   unit: "words",
   publishedAt: "2026-09-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3894143/b3-chapter-84-platinum",
-  externalId: "3894143",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3894143",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3894143/b3-chapter-84-platinum",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

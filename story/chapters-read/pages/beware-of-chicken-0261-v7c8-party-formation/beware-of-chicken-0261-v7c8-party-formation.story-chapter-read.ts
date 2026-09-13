@@ -12,9 +12,13 @@ export const bewareOfChicken0261V7c8PartyFormation = {
   unit: "words",
   completedAt: "2026-06-29T19:00:22.048Z",
   publishedAt: "2025-12-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2817265/v7c8-party-formation",
-  externalId: "2817265",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2817265",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2817265/v7c8-party-formation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const bewareOfChicken0274V7c21EchosOfTheGong = {
   unit: "words",
   completedAt: "2026-06-29T19:00:49.855Z",
   publishedAt: "2026-01-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2973542/v7c21-echos-of-the-gong",
-  externalId: "2973542",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2973542",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2973542/v7c21-echos-of-the-gong",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

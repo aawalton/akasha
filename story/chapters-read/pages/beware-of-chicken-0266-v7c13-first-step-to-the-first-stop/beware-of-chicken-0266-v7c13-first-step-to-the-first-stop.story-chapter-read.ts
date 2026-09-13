@@ -12,9 +12,13 @@ export const bewareOfChicken0266V7c13FirstStepToTheFirstStop = {
   unit: "words",
   completedAt: "2026-06-29T19:00:32.562Z",
   publishedAt: "2025-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2855011/v7c13-first-step-to-the-first-stop",
-  externalId: "2855011",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2855011",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2855011/v7c13-first-step-to-the-first-stop",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

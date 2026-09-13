@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0004Book4Chapter3UnexpectedA
   ownLength: 6436,
   unit: "words",
   publishedAt: "2025-07-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2479581/book-4-chapter-3-unexpected-and-unseen",
-  externalId: "2479581",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2479581",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2479581/book-4-chapter-3-unexpected-and-unseen",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

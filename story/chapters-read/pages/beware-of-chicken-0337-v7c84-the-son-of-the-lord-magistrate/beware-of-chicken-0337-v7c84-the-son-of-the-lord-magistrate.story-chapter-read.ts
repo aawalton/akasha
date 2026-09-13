@@ -10,9 +10,13 @@ export const bewareOfChicken0337V7c84TheSonOfTheLordMagistrate = {
   ownLength: 2355,
   unit: "words",
   publishedAt: "2026-07-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3720184/v7c84-the-son-of-the-lord-magistrate",
-  externalId: "3720184",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3720184",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3720184/v7c84-the-son-of-the-lord-magistrate",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

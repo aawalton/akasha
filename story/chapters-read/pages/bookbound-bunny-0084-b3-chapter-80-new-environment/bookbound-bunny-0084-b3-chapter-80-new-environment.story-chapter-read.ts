@@ -10,9 +10,13 @@ export const bookboundBunny0084B3Chapter80NewEnvironment = {
   ownLength: 2212,
   unit: "words",
   publishedAt: "2026-08-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3837683/b3-chapter-80-new-environment",
-  externalId: "3837683",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3837683",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3837683/b3-chapter-80-new-environment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

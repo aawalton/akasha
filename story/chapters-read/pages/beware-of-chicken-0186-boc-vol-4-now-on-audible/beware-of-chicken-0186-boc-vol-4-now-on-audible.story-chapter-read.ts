@@ -12,9 +12,13 @@ export const bewareOfChicken0186BocVol4NowOnAudible = {
   unit: "words",
   completedAt: "2026-06-29T18:57:41.617Z",
   publishedAt: "2024-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1961474/boc-vol-4-now-on-audible",
-  externalId: "1961474",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1961474",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1961474/boc-vol-4-now-on-audible",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

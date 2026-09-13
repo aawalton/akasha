@@ -10,9 +10,13 @@ export const bookboundBunny0029B3Chapter25DangerousPair = {
   ownLength: 2232,
   unit: "words",
   publishedAt: "2026-04-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3230025/b3-chapter-25-dangerous-pair",
-  externalId: "3230025",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3230025",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3230025/b3-chapter-25-dangerous-pair",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

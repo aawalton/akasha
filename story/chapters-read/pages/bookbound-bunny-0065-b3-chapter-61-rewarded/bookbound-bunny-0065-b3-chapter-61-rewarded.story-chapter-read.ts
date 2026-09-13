@@ -10,9 +10,13 @@ export const bookboundBunny0065B3Chapter61Rewarded = {
   ownLength: 2447,
   unit: "words",
   publishedAt: "2026-07-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3630181/b3-chapter-61--rewarded",
-  externalId: "3630181",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3630181",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3630181/b3-chapter-61--rewarded",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

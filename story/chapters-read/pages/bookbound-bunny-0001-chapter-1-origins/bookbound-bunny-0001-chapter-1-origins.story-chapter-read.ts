@@ -10,9 +10,13 @@ export const bookboundBunny0001Chapter1Origins = {
   ownLength: 2557,
   unit: "words",
   publishedAt: "2025-01-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/2030608/chapter-1-origins",
-  externalId: "2030608",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2030608",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/2030608/chapter-1-origins",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

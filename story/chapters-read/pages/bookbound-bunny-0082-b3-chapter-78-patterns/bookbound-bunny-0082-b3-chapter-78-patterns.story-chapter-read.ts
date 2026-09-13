@@ -10,9 +10,13 @@ export const bookboundBunny0082B3Chapter78Patterns = {
   ownLength: 2213,
   unit: "words",
   publishedAt: "2026-08-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3816504/b3-chapter-78-patterns",
-  externalId: "3816504",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3816504",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3816504/b3-chapter-78-patterns",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

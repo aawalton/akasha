@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0079Book5Chapter22FacingALeg
   ownLength: 3825,
   unit: "words",
   publishedAt: "2026-06-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3498386/book-5-chapter-22-facing-a-legend",
-  externalId: "3498386",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3498386",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3498386/book-5-chapter-22-facing-a-legend",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

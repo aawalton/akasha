@@ -12,9 +12,13 @@ export const bewareOfChicken0233V6c44AMostEnjoyableJourney = {
   unit: "words",
   completedAt: "2026-06-29T18:59:22.762Z",
   publishedAt: "2025-07-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2423314/v6c44-a-most-enjoyable-journey",
-  externalId: "2423314",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2423314",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2423314/v6c44-a-most-enjoyable-journey",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

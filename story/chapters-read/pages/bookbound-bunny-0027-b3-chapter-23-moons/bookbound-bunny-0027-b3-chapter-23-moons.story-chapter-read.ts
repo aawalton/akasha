@@ -10,9 +10,13 @@ export const bookboundBunny0027B3Chapter23Moons = {
   ownLength: 2121,
   unit: "words",
   publishedAt: "2026-03-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3213299/b3-chapter-23-moons",
-  externalId: "3213299",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3213299",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3213299/b3-chapter-23-moons",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

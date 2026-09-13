@@ -10,9 +10,13 @@ export const bewareOfChicken0327V7c74DustAndRebirth = {
   ownLength: 2733,
   unit: "words",
   publishedAt: "2026-07-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3624996/v7c74-dust-and-rebirth",
-  externalId: "3624996",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3624996",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3624996/v7c74-dust-and-rebirth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

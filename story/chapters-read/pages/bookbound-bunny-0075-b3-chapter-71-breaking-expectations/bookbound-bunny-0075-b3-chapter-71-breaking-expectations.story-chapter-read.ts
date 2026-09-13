@@ -10,9 +10,13 @@ export const bookboundBunny0075B3Chapter71BreakingExpectations = {
   ownLength: 2437,
   unit: "words",
   publishedAt: "2026-07-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3735927/b3-chapter-71-breaking-expectations",
-  externalId: "3735927",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3735927",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3735927/b3-chapter-71-breaking-expectations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

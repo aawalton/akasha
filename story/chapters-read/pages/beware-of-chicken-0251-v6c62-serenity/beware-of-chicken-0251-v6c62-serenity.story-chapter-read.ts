@@ -12,9 +12,13 @@ export const bewareOfChicken0251V6c62Serenity = {
   unit: "words",
   completedAt: "2026-06-29T19:00:00.539Z",
   publishedAt: "2025-09-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2572135/v6c62-ningjing-serenity",
-  externalId: "2572135",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2572135",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2572135/v6c62-ningjing-serenity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const bewareOfChicken0300V7c47SmallTalk = {
   ownLength: 2186,
   unit: "words",
   publishedAt: "2026-04-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3254467/v7c47-small-talk",
-  externalId: "3254467",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3254467",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3254467/v7c47-small-talk",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const bewareOfChicken0281V7c28AdventureAndAShow = {
   unit: "words",
   completedAt: "2026-06-29T19:01:04.234Z",
   publishedAt: "2026-02-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3061887/v7c28-adventure-and-a-show",
-  externalId: "3061887",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3061887",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3061887/v7c28-adventure-and-a-show",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

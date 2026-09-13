@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0075Book5Chapter18ThoseWhoHu
   ownLength: 5041,
   unit: "words",
   publishedAt: "2026-05-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3433655/book-5-chapter-18-those-who-hunt",
-  externalId: "3433655",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3433655",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3433655/book-5-chapter-18-those-who-hunt",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

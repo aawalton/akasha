@@ -12,9 +12,13 @@ export const bewareOfChicken0187MerryChristmas = {
   unit: "words",
   completedAt: "2026-06-29T18:57:43.638Z",
   publishedAt: "2024-12-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1973295/merry-christmas",
-  externalId: "1973295",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1973295",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1973295/merry-christmas",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook003535Honor = {
   ownLength: 1146,
   unit: "words",
   publishedAt: "2025-01-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1995369/35-honor",
-  externalId: "1995369",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1995369",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1995369/35-honor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

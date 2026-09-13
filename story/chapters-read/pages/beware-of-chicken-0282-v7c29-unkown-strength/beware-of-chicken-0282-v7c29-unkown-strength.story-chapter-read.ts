@@ -12,9 +12,13 @@ export const bewareOfChicken0282V7c29UnkownStrength = {
   unit: "words",
   completedAt: "2026-06-29T19:01:06.650Z",
   publishedAt: "2026-02-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3073261/v7c29-unkown-strength",
-  externalId: "3073261",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3073261",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3073261/v7c29-unkown-strength",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

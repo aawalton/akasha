@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0013Book4Chapter12ABitOfASie
   ownLength: 4905,
   unit: "words",
   publishedAt: "2025-09-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2596000/book-4-chapter-12-a-bit-of-a-siege",
-  externalId: "2596000",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2596000",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2596000/book-4-chapter-12-a-bit-of-a-siege",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

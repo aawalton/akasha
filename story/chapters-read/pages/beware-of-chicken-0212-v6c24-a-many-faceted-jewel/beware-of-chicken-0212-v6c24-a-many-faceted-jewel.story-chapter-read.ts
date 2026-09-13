@@ -12,9 +12,13 @@ export const bewareOfChicken0212V6c24AManyFacetedJewel = {
   unit: "words",
   completedAt: "2026-06-29T18:58:38.058Z",
   publishedAt: "2025-05-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2270560/v6c24-a-many-faceted-jewel",
-  externalId: "2270560",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2270560",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2270560/v6c24-a-many-faceted-jewel",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

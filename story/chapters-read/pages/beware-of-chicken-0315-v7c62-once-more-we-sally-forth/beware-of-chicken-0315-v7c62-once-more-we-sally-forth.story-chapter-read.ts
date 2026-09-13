@@ -10,9 +10,13 @@ export const bewareOfChicken0315V7c62OnceMoreWeSallyForth = {
   ownLength: 2335,
   unit: "words",
   publishedAt: "2026-05-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3463210/v7c62-once-more-we-sally-forth",
-  externalId: "3463210",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3463210",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3463210/v7c62-once-more-we-sally-forth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

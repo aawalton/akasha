@@ -12,9 +12,13 @@ export const bewareOfChicken0179MerchShopIsNowOpenForEveryone = {
   unit: "words",
   completedAt: "2026-06-29T18:57:27.396Z",
   publishedAt: "2024-11-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1925909/merch-shop-is-now-open-for-everyone",
-  externalId: "1925909",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1925909",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1925909/merch-shop-is-now-open-for-everyone",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

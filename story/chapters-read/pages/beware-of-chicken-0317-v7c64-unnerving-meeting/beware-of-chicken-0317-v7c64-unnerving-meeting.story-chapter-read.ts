@@ -10,9 +10,13 @@ export const bewareOfChicken0317V7c64UnnervingMeeting = {
   ownLength: 2148,
   unit: "words",
   publishedAt: "2026-06-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3485587/v7c64-unnerving-meeting",
-  externalId: "3485587",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3485587",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3485587/v7c64-unnerving-meeting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const bewareOfChicken0223V6c34TranquilMorning = {
   unit: "words",
   completedAt: "2026-06-29T18:59:01.054Z",
   publishedAt: "2025-06-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2362330/v6c34-tranquil-morning",
-  externalId: "2362330",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2362330",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2362330/v6c34-tranquil-morning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

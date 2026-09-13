@@ -10,9 +10,13 @@ export const bookboundBunny0078B3Chapter74BurningBright = {
   ownLength: 2372,
   unit: "words",
   publishedAt: "2026-08-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3776349/b3-chapter-74-burning-bright",
-  externalId: "3776349",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3776349",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3776349/b3-chapter-74-burning-bright",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

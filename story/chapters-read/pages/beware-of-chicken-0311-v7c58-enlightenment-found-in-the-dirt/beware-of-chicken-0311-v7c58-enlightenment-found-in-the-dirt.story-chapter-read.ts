@@ -10,9 +10,13 @@ export const bewareOfChicken0311V7c58EnlightenmentFoundInTheDirt = {
   ownLength: 1958,
   unit: "words",
   publishedAt: "2026-05-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3421078/v7c58-enlightenment-found-in-the-dirt",
-  externalId: "3421078",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3421078",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3421078/v7c58-enlightenment-found-in-the-dirt",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const bookboundBunny0050B3Chapter46Decay = {
   ownLength: 2249,
   unit: "words",
   publishedAt: "2026-05-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3447398/b3-chapter-46-decay",
-  externalId: "3447398",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3447398",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3447398/b3-chapter-46-decay",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

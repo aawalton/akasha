@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0045Book4Chapter40TheHourgla
   ownLength: 6375,
   unit: "words",
   publishedAt: "2026-01-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2906533/book-4-chapter-40-the-hourglass-emptied",
-  externalId: "2906533",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2906533",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2906533/book-4-chapter-40-the-hourglass-emptied",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

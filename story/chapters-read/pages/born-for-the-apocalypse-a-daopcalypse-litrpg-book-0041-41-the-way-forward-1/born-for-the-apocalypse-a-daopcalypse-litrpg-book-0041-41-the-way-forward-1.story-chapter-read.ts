@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook004141TheWayForward1 = {
   ownLength: 2198,
   unit: "words",
   publishedAt: "2025-01-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2008193/41-the-way-forward-1",
-  externalId: "2008193",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2008193",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2008193/41-the-way-forward-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

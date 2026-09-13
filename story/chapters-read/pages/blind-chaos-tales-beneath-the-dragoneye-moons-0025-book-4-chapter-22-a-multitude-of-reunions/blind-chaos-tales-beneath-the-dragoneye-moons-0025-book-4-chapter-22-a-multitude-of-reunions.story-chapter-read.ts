@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0025Book4Chapter22AMultitude
   ownLength: 3714,
   unit: "words",
   publishedAt: "2025-10-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2684755/book-4-chapter-22-a-multitude-of-reunions",
-  externalId: "2684755",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2684755",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2684755/book-4-chapter-22-a-multitude-of-reunions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

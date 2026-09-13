@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook001515Scum = {
   ownLength: 1664,
   unit: "words",
   publishedAt: "2023-02-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1125107/15-scum",
-  externalId: "1125107",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1125107",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1125107/15-scum",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

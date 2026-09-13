@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0014TemporaryScheduleChange 
   ownLength: 187,
   unit: "words",
   publishedAt: "2025-09-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2603145/temporary-schedule-change",
-  externalId: "2603145",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2603145",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2603145/temporary-schedule-change",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

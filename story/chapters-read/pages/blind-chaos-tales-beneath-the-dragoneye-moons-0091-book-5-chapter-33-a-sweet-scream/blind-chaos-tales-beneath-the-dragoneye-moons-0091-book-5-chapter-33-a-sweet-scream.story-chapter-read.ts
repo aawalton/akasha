@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0091Book5Chapter33ASweetScre
   ownLength: 4795,
   unit: "words",
   publishedAt: "2026-08-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3836198/book-5-chapter-33-a-sweet-scream",
-  externalId: "3836198",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3836198",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3836198/book-5-chapter-33-a-sweet-scream",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

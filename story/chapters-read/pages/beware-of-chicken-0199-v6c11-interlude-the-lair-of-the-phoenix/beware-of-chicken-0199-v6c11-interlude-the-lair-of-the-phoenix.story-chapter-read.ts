@@ -12,9 +12,13 @@ export const bewareOfChicken0199V6c11InterludeTheLairOfThePhoenix = {
   unit: "words",
   completedAt: "2026-06-29T18:58:09.082Z",
   publishedAt: "2025-04-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2167636/v6c11-interlude-the-lair-of-the-phoenix",
-  externalId: "2167636",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2167636",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2167636/v6c11-interlude-the-lair-of-the-phoenix",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

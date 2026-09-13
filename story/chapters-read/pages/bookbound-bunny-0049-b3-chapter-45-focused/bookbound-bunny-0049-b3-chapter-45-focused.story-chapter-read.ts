@@ -10,9 +10,13 @@ export const bookboundBunny0049B3Chapter45Focused = {
   ownLength: 2862,
   unit: "words",
   publishedAt: "2026-05-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3435033/b3-chapter-45-focused",
-  externalId: "3435033",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3435033",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3435033/b3-chapter-45-focused",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

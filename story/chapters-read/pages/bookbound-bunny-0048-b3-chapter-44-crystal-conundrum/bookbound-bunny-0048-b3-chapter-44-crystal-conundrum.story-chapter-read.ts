@@ -10,9 +10,13 @@ export const bookboundBunny0048B3Chapter44CrystalConundrum = {
   ownLength: 2336,
   unit: "words",
   publishedAt: "2026-05-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3426264/b3-chapter-44-crystal-conundrum",
-  externalId: "3426264",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3426264",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3426264/b3-chapter-44-crystal-conundrum",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

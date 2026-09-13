@@ -10,9 +10,13 @@ export const bookboundBunny0034B3Chapter30Climb = {
   ownLength: 2183,
   unit: "words",
   publishedAt: "2026-04-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3280006/b3-chapter-30-climb",
-  externalId: "3280006",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3280006",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3280006/b3-chapter-30-climb",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

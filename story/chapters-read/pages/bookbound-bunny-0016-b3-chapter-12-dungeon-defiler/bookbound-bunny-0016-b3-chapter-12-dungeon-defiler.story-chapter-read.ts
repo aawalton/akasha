@@ -10,9 +10,13 @@ export const bookboundBunny0016B3Chapter12DungeonDefiler = {
   ownLength: 2340,
   unit: "words",
   publishedAt: "2026-03-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3110821/b3-chapter-12-dungeon-defiler",
-  externalId: "3110821",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3110821",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3110821/b3-chapter-12-dungeon-defiler",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

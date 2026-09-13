@@ -12,9 +12,13 @@ export const bewareOfChicken0285V7c32TheWorkContinuesInLightAndShadow = {
   unit: "words",
   completedAt: "2026-06-29T19:01:12.762Z",
   publishedAt: "2026-02-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3093660/v7c32-the-work-continues-in-light-and-shadow",
-  externalId: "3093660",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3093660",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3093660/v7c32-the-work-continues-in-light-and-shadow",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

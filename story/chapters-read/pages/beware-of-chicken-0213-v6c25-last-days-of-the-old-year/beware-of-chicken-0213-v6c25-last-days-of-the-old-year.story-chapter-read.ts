@@ -12,9 +12,13 @@ export const bewareOfChicken0213V6c25LastDaysOfTheOldYear = {
   unit: "words",
   completedAt: "2026-06-29T18:58:40.248Z",
   publishedAt: "2025-05-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2292004/v6c25-last-days-of-the-old-year",
-  externalId: "2292004",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2292004",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2292004/v6c25-last-days-of-the-old-year",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

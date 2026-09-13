@@ -10,9 +10,13 @@ export const bewareOfChicken0320V7v67SeedsInTheAshes = {
   ownLength: 2113,
   unit: "words",
   publishedAt: "2026-06-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3550544/v7v67-seeds-in-the-ashes",
-  externalId: "3550544",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3550544",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3550544/v7v67-seeds-in-the-ashes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

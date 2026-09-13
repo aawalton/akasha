@@ -10,9 +10,13 @@ export const bewareOfChicken0313V7c60AnUninvitedGuest = {
   ownLength: 2116,
   unit: "words",
   publishedAt: "2026-05-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3438404/v7c60-an-uninvited-guest",
-  externalId: "3438404",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3438404",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3438404/v7c60-an-uninvited-guest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

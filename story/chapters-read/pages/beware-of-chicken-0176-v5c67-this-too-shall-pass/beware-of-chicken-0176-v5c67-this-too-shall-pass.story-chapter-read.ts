@@ -12,9 +12,13 @@ export const bewareOfChicken0176V5c67ThisTooShallPass = {
   unit: "words",
   completedAt: "2026-06-29T18:57:20.991Z",
   publishedAt: "2024-11-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1915767/v5c67-this-too-shall-pass",
-  externalId: "1915767",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1915767",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1915767/v5c67-this-too-shall-pass",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

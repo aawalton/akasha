@@ -12,9 +12,13 @@ export const bewareOfChicken0275V7c22CyclesOfPeace = {
   unit: "words",
   completedAt: "2026-06-29T19:00:51.747Z",
   publishedAt: "2026-01-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2986611/v7c22-cycles-of-peace",
-  externalId: "2986611",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2986611",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2986611/v7c22-cycles-of-peace",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

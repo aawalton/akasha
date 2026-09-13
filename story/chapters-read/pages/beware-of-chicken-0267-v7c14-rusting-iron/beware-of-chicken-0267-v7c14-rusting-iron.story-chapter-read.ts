@@ -12,9 +12,13 @@ export const bewareOfChicken0267V7c14RustingIron = {
   unit: "words",
   completedAt: "2026-06-29T19:00:34.670Z",
   publishedAt: "2025-12-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2860189/v7c14-rusting-iron",
-  externalId: "2860189",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2860189",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2860189/v7c14-rusting-iron",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

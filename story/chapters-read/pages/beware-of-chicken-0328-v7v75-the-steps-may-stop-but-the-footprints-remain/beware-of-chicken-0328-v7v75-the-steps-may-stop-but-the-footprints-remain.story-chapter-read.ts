@@ -10,9 +10,13 @@ export const bewareOfChicken0328V7v75TheStepsMayStopButTheFootprintsRemain = {
   ownLength: 1892,
   unit: "words",
   publishedAt: "2026-07-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3633574/v7v75-the-steps-may-stop-but-the-footprints-remain",
-  externalId: "3633574",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3633574",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3633574/v7v75-the-steps-may-stop-but-the-footprints-remain",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

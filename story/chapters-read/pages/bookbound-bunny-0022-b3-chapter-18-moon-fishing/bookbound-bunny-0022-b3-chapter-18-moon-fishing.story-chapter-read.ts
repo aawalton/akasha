@@ -10,9 +10,13 @@ export const bookboundBunny0022B3Chapter18MoonFishing = {
   ownLength: 1855,
   unit: "words",
   publishedAt: "2026-03-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3160899/b3-chapter-18-moon-fishing",
-  externalId: "3160899",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3160899",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3160899/b3-chapter-18-moon-fishing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

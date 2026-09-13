@@ -10,9 +10,13 @@ export const bookboundBunny0025B3Chapter21Competing = {
   ownLength: 2531,
   unit: "words",
   publishedAt: "2026-03-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3186643/b3-chapter-21-competing",
-  externalId: "3186643",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3186643",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3186643/b3-chapter-21-competing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

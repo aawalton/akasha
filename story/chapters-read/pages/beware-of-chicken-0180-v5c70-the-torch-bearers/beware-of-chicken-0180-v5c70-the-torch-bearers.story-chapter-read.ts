@@ -12,9 +12,13 @@ export const bewareOfChicken0180V5c70TheTorchBearers = {
   unit: "words",
   completedAt: "2026-06-29T18:57:29.482Z",
   publishedAt: "2024-11-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1929750/v5c70-the-torch-bearers",
-  externalId: "1929750",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1929750",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1929750/v5c70-the-torch-bearers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const bewareOfChicken0333V7c80TheTriumph = {
   ownLength: 2570,
   unit: "words",
   publishedAt: "2026-07-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3687301/v7c80-the-triumph",
-  externalId: "3687301",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3687301",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3687301/v7c80-the-triumph",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

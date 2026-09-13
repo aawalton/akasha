@@ -10,9 +10,13 @@ export const bookboundBunny0035B3Chapter31Rest = {
   ownLength: 2167,
   unit: "words",
   publishedAt: "2026-04-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3288371/b3-chapter-31-rest",
-  externalId: "3288371",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3288371",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3288371/b3-chapter-31-rest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const bewareOfChicken0220V6c32AnotherCycle = {
   unit: "words",
   completedAt: "2026-06-29T18:58:54.670Z",
   publishedAt: "2025-06-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2334221/v6c32-another-cycle",
-  externalId: "2334221",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2334221",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2334221/v6c32-another-cycle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

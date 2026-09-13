@@ -10,9 +10,13 @@ export const bookboundBunny0028B3Chapter24Vigilant = {
   ownLength: 2109,
   unit: "words",
   publishedAt: "2026-04-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3221256/b3-chapter-24-vigilant",
-  externalId: "3221256",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3221256",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3221256/b3-chapter-24-vigilant",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const bewareOfChicken0264V7c11TheCultivatingBusiness = {
   unit: "words",
   completedAt: "2026-06-29T19:00:28.330Z",
   publishedAt: "2025-12-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2840529/v7c11-the-cultivating-business",
-  externalId: "2840529",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2840529",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2840529/v7c11-the-cultivating-business",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

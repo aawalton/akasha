@@ -10,9 +10,13 @@ export const bewareOfChicken0297V7c44StolenMoment = {
   ownLength: 2025,
   unit: "words",
   publishedAt: "2026-04-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3225057/v7c44-stolen-moment",
-  externalId: "3225057",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3225057",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3225057/v7c44-stolen-moment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

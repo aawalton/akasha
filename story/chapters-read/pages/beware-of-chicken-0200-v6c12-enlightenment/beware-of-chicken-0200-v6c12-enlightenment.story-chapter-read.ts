@@ -12,9 +12,13 @@ export const bewareOfChicken0200V6c12Enlightenment = {
   unit: "words",
   completedAt: "2026-06-29T18:58:11.074Z",
   publishedAt: "2025-04-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2172918/v6c12-enlightenment",
-  externalId: "2172918",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2172918",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2172918/v6c12-enlightenment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

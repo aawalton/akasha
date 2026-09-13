@@ -10,9 +10,13 @@ export const bookboundBunny0074B3Chapter70OpeningAct = {
   ownLength: 2344,
   unit: "words",
   publishedAt: "2026-07-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3723085/b3-chapter-70-opening-act",
-  externalId: "3723085",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3723085",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3723085/b3-chapter-70-opening-act",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

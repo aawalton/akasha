@@ -10,9 +10,13 @@ export const bewareOfChicken0293V7c40TheJollyFatty = {
   ownLength: 2020,
   unit: "words",
   publishedAt: "2026-03-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3186538/v7c40-the-jolly-fatty",
-  externalId: "3186538",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3186538",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3186538/v7c40-the-jolly-fatty",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

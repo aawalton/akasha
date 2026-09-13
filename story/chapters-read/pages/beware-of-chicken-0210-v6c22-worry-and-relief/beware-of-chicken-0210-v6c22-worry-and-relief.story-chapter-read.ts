@@ -12,9 +12,13 @@ export const bewareOfChicken0210V6c22WorryAndRelief = {
   unit: "words",
   completedAt: "2026-06-29T18:58:34.138Z",
   publishedAt: "2025-05-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2261399/v6c22-worry-and-relief",
-  externalId: "2261399",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2261399",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2261399/v6c22-worry-and-relief",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

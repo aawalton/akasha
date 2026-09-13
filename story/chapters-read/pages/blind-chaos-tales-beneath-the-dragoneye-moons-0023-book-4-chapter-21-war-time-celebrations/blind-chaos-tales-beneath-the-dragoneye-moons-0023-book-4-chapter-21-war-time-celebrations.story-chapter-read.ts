@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0023Book4Chapter21WarTimeCel
   ownLength: 5191,
   unit: "words",
   publishedAt: "2025-10-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2679444/book-4-chapter-21-war-time-celebrations",
-  externalId: "2679444",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2679444",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2679444/book-4-chapter-21-war-time-celebrations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

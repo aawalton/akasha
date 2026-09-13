@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook001414Kesagiri = {
   ownLength: 1065,
   unit: "words",
   publishedAt: "2023-02-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1123431/14-kesagiri",
-  externalId: "1123431",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1123431",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1123431/14-kesagiri",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

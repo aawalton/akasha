@@ -10,9 +10,13 @@ export const bookboundBunny0060B3Chapter56SoloingWithGlyphs = {
   ownLength: 2391,
   unit: "words",
   publishedAt: "2026-06-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3564891/b3-chapter-56-soloing-with-glyphs",
-  externalId: "3564891",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3564891",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3564891/b3-chapter-56-soloing-with-glyphs",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

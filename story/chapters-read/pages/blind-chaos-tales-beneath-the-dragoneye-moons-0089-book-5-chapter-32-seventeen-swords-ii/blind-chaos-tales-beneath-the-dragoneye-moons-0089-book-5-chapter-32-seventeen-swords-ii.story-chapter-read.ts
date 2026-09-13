@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0089Book5Chapter32SeventeenS
   ownLength: 6479,
   unit: "words",
   publishedAt: "2026-08-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3784137/book-5-chapter-32-seventeen-swords-ii",
-  externalId: "3784137",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3784137",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3784137/book-5-chapter-32-seventeen-swords-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

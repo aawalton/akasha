@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0063Book5Chapter6ArSuelleThe
   ownLength: 4604,
   unit: "words",
   publishedAt: "2026-03-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3201362/book-5-chapter-6-ar-suelle-the-city-of-arts",
-  externalId: "3201362",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3201362",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3201362/book-5-chapter-6-ar-suelle-the-city-of-arts",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

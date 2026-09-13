@@ -10,9 +10,13 @@ export const bewareOfChicken0334V7c81Reunions = {
   ownLength: 2389,
   unit: "words",
   publishedAt: "2026-07-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3695978/v7c81-reunions",
-  externalId: "3695978",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3695978",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3695978/v7c81-reunions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

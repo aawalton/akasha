@@ -12,9 +12,13 @@ export const bewareOfChicken0254V7c1AWeekOfCelebration = {
   unit: "words",
   completedAt: "2026-06-29T19:00:06.872Z",
   publishedAt: "2025-11-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2770960/v7c1-a-week-of-celebration",
-  externalId: "2770960",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2770960",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2770960/v7c1-a-week-of-celebration",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

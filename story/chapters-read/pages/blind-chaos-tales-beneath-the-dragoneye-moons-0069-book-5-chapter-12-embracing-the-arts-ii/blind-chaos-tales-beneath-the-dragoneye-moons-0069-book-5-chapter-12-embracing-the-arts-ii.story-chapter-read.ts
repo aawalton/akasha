@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0069Book5Chapter12EmbracingT
   ownLength: 5430,
   unit: "words",
   publishedAt: "2026-04-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3314842/book-5-chapter-12-embracing-the-arts-ii",
-  externalId: "3314842",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3314842",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3314842/book-5-chapter-12-embracing-the-arts-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

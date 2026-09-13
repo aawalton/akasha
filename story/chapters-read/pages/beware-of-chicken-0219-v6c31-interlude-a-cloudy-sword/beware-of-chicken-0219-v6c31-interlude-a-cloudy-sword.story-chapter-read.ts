@@ -12,9 +12,13 @@ export const bewareOfChicken0219V6c31InterludeACloudySword = {
   unit: "words",
   completedAt: "2026-06-29T18:58:52.569Z",
   publishedAt: "2025-06-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2326416/v6c31-interlude-a-cloudy-sword",
-  externalId: "2326416",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2326416",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2326416/v6c31-interlude-a-cloudy-sword",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

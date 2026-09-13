@@ -10,9 +10,13 @@ export const bewareOfChicken0298V7c45WelcomingTheEarth = {
   ownLength: 2145,
   unit: "words",
   publishedAt: "2026-04-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3233251/v7c45-welcoming-the-earth",
-  externalId: "3233251",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3233251",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3233251/v7c45-welcoming-the-earth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

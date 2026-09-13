@@ -10,9 +10,13 @@ export const bewareOfChicken0302V7c49WindDown = {
   ownLength: 2024,
   unit: "words",
   publishedAt: "2026-04-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3303287/v7c49-wind-down",
-  externalId: "3303287",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3303287",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3303287/v7c49-wind-down",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

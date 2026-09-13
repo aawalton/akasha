@@ -10,9 +10,13 @@ export const bewareOfChicken0323V7c70Tribulation = {
   ownLength: 2601,
   unit: "words",
   publishedAt: "2026-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3582621/v7c70-tribulation",
-  externalId: "3582621",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3582621",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3582621/v7c70-tribulation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

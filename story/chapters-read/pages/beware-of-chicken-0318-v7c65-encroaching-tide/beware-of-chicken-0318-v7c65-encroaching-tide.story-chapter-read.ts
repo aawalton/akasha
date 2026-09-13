@@ -10,9 +10,13 @@ export const bewareOfChicken0318V7c65EncroachingTide = {
   ownLength: 2316,
   unit: "words",
   publishedAt: "2026-06-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3494665/v7c65-encroaching-tide",
-  externalId: "3494665",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3494665",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3494665/v7c65-encroaching-tide",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

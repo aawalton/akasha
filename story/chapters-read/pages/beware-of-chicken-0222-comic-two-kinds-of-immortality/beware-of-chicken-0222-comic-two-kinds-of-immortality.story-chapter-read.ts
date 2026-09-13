@@ -12,9 +12,13 @@ export const bewareOfChicken0222ComicTwoKindsOfImmortality = {
   unit: "words",
   completedAt: "2026-06-29T18:58:58.964Z",
   publishedAt: "2025-06-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2356525/comic-two-kinds-of-immortality",
-  externalId: "2356525",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2356525",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2356525/comic-two-kinds-of-immortality",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0010Book4Chapter9BricksOfWis
   ownLength: 7404,
   unit: "words",
   publishedAt: "2025-08-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2534407/book-4-chapter-9-bricks-of-wisdom",
-  externalId: "2534407",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2534407",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2534407/book-4-chapter-9-bricks-of-wisdom",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

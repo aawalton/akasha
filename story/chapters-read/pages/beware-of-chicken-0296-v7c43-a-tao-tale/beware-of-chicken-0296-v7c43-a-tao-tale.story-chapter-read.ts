@@ -10,9 +10,13 @@ export const bewareOfChicken0296V7c43ATaoTale = {
   ownLength: 2690,
   unit: "words",
   publishedAt: "2026-03-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3213091/v7c43-a-tao-tale",
-  externalId: "3213091",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3213091",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3213091/v7c43-a-tao-tale",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

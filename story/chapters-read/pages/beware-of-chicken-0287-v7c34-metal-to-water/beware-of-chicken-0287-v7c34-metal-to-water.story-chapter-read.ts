@@ -11,9 +11,13 @@ export const bewareOfChicken0287V7c34MetalToWater = {
   ownProgress: 619,
   unit: "words",
   publishedAt: "2026-03-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3114187/v7c34-metal-to-water",
-  externalId: "3114187",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3114187",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3114187/v7c34-metal-to-water",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

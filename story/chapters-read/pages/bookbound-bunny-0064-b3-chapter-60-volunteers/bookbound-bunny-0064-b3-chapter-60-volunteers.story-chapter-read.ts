@@ -10,9 +10,13 @@ export const bookboundBunny0064B3Chapter60Volunteers = {
   ownLength: 2308,
   unit: "words",
   publishedAt: "2026-07-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3620487/b3-chapter-60-volunteers",
-  externalId: "3620487",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3620487",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3620487/b3-chapter-60-volunteers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const bookboundBunny0063B3Chapter59InkyRequest = {
   ownLength: 2344,
   unit: "words",
   publishedAt: "2026-06-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3610845/b3-chapter-59-inky-request",
-  externalId: "3610845",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3610845",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3610845/b3-chapter-59-inky-request",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const bookboundBunny0018B3Chapter14Negotiation = {
   ownLength: 2330,
   unit: "words",
   publishedAt: "2026-03-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3125531/b3-chapter-14-negotiation",
-  externalId: "3125531",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3125531",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3125531/b3-chapter-14-negotiation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

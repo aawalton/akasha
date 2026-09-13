@@ -12,9 +12,13 @@ export const bewareOfChicken0198V6c10AGlimpseOfConnections = {
   unit: "words",
   completedAt: "2026-06-29T18:58:06.977Z",
   publishedAt: "2025-03-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2162326/v6c10-a-glimpse-of-connections",
-  externalId: "2162326",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2162326",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2162326/v6c10-a-glimpse-of-connections",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

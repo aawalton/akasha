@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook002727SocialPariahDoomsda
   ownLength: 1242,
   unit: "words",
   publishedAt: "2024-11-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1905871/27-social-pariah-doomsday-prepper",
-  externalId: "1905871",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1905871",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1905871/27-social-pariah-doomsday-prepper",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

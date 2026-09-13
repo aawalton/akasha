@@ -12,9 +12,13 @@ export const bewareOfChicken0178V5c69AReassuringPlace = {
   unit: "words",
   completedAt: "2026-06-29T18:57:25.351Z",
   publishedAt: "2024-11-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1924762/v5c69-a-reassuring-place",
-  externalId: "1924762",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1924762",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1924762/v5c69-a-reassuring-place",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

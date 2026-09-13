@@ -12,9 +12,13 @@ export const bewareOfChicken0197V6c9HeSAFunGuy = {
   unit: "words",
   completedAt: "2026-06-29T18:58:04.800Z",
   publishedAt: "2025-03-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2155900/v6c9-hes-a-fun-guy",
-  externalId: "2155900",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2155900",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2155900/v6c9-hes-a-fun-guy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

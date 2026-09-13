@@ -10,9 +10,13 @@ export const bookboundBunny0005B3Chapter1AnticipationAndPreparation = {
   ownLength: 2513,
   unit: "words",
   publishedAt: "2026-02-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3007598/b3-chapter-1-anticipation-and-preparation",
-  externalId: "3007598",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3007598",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3007598/b3-chapter-1-anticipation-and-preparation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

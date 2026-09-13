@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0035Book4Chapter30WithVaried
   ownLength: 4415,
   unit: "words",
   publishedAt: "2025-11-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2781698/book-4-chapter-30-with-varied-dramatics",
-  externalId: "2781698",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2781698",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2781698/book-4-chapter-30-with-varied-dramatics",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

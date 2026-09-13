@@ -10,9 +10,13 @@ export const bookboundBunny0062B3Chapter58Replication = {
   ownLength: 2472,
   unit: "words",
   publishedAt: "2026-06-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3587799/b3-chapter-58-replication",
-  externalId: "3587799",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3587799",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3587799/b3-chapter-58-replication",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

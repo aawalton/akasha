@@ -10,9 +10,13 @@ export const bookboundBunny0026B3Chapter22FinalThree = {
   ownLength: 2133,
   unit: "words",
   publishedAt: "2026-03-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3194849/b3-chapter-22-final-three",
-  externalId: "3194849",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3194849",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3194849/b3-chapter-22-final-three",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

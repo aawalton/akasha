@@ -10,9 +10,13 @@ export const bookboundBunny0089B3Chapter85FestivalsEnd = {
   ownLength: 2462,
   unit: "words",
   publishedAt: "2026-09-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3903527/b3-chapter-85-festivals-end",
-  externalId: "3903527",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3903527",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3903527/b3-chapter-85-festivals-end",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

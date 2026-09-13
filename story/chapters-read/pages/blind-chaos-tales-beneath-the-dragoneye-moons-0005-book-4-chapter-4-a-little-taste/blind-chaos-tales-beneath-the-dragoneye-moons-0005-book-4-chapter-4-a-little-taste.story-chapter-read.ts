@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0005Book4Chapter4ALittleTast
   ownLength: 6872,
   unit: "words",
   publishedAt: "2025-08-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2485043/book-4-chapter-4-a-little-taste",
-  externalId: "2485043",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2485043",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2485043/book-4-chapter-4-a-little-taste",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0003Book4Chapter2HerWorldvie
   ownLength: 7376,
   unit: "words",
   publishedAt: "2025-07-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2473975/book-4-chapter-2-her-worldview",
-  externalId: "2473975",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2473975",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2473975/book-4-chapter-2-her-worldview",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

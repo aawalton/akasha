@@ -12,9 +12,13 @@ export const bewareOfChicken0270V7c17IronChefs = {
   unit: "words",
   completedAt: "2026-06-29T19:00:41.052Z",
   publishedAt: "2026-01-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2922404/v7c17-iron-chefs",
-  externalId: "2922404",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2922404",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2922404/v7c17-iron-chefs",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

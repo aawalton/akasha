@@ -12,9 +12,13 @@ export const bewareOfChicken0279V7c26StepOne = {
   unit: "words",
   completedAt: "2026-06-29T19:01:00.049Z",
   publishedAt: "2026-02-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3017262/v7c26-step-one",
-  externalId: "3017262",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3017262",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3017262/v7c26-step-one",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

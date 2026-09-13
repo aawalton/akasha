@@ -12,9 +12,13 @@ export const bewareOfChicken0188V6PrologueACultivatorSGuideToWasteRemoval = {
   unit: "words",
   completedAt: "2026-06-29T18:57:45.648Z",
   publishedAt: "2025-02-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2089145/v6-prologue-a-cultivators-guide-to-waste-removal",
-  externalId: "2089145",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2089145",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2089145/v6-prologue-a-cultivators-guide-to-waste-removal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

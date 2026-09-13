@@ -12,9 +12,13 @@ export const bewareOfChicken0268V7c15MasterOfIron = {
   unit: "words",
   completedAt: "2026-06-29T19:00:36.751Z",
   publishedAt: "2025-12-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2866104/v7c15-master-of-iron",
-  externalId: "2866104",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2866104",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2866104/v7c15-master-of-iron",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

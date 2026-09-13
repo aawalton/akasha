@@ -12,9 +12,13 @@ export const bewareOfChicken0256V7c3SteamAndGlass = {
   unit: "words",
   completedAt: "2026-06-29T19:00:11.090Z",
   publishedAt: "2025-11-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2782763/v7c3-steam-and-glass",
-  externalId: "2782763",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2782763",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2782763/v7c3-steam-and-glass",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

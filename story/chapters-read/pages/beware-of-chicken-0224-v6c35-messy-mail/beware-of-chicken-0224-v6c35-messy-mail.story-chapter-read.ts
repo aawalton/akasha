@@ -12,9 +12,13 @@ export const bewareOfChicken0224V6c35MessyMail = {
   unit: "words",
   completedAt: "2026-06-29T18:59:03.177Z",
   publishedAt: "2025-06-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2368055/v6c35-messy-mail",
-  externalId: "2368055",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2368055",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2368055/v6c35-messy-mail",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

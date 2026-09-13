@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0080Book5Chapter23FriendsAnd
   ownLength: 5514,
   unit: "words",
   publishedAt: "2026-06-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3554048/book-5-chapter-23-friends-and-threats",
-  externalId: "3554048",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3554048",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3554048/book-5-chapter-23-friends-and-threats",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

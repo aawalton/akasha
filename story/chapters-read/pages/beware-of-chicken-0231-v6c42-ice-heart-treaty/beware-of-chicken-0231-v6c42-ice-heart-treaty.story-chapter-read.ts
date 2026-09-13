@@ -12,9 +12,13 @@ export const bewareOfChicken0231V6c42IceHeartTreaty = {
   unit: "words",
   completedAt: "2026-06-29T18:59:18.815Z",
   publishedAt: "2025-07-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2410105/v6c42-ice-heart-treaty",
-  externalId: "2410105",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2410105",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2410105/v6c42-ice-heart-treaty",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

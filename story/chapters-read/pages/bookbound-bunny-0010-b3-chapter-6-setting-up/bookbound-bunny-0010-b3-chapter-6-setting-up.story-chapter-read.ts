@@ -10,9 +10,13 @@ export const bookboundBunny0010B3Chapter6SettingUp = {
   ownLength: 2127,
   unit: "words",
   publishedAt: "2026-02-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3052733/b3-chapter-6-setting-up",
-  externalId: "3052733",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3052733",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3052733/b3-chapter-6-setting-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

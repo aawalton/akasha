@@ -10,9 +10,13 @@ export const bookboundBunny0076B3Chapter72Showdown = {
   ownLength: 2596,
   unit: "words",
   publishedAt: "2026-07-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3744885/b3-chapter-72-showdown",
-  externalId: "3744885",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3744885",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3744885/b3-chapter-72-showdown",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

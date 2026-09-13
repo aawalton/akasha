@@ -12,9 +12,13 @@ export const bewareOfChicken0273V7c20TillTheLand = {
   unit: "words",
   completedAt: "2026-06-29T19:00:47.601Z",
   publishedAt: "2026-01-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2963403/v7c20-till-the-land",
-  externalId: "2963403",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2963403",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2963403/v7c20-till-the-land",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const bewareOfChicken0172BewareOfChickenSpecialAnnouncement = {
   unit: "words",
   completedAt: "2026-06-29T18:57:12.830Z",
   publishedAt: "2024-11-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1907722/beware-of-chicken-special-announcement",
-  externalId: "1907722",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1907722",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1907722/beware-of-chicken-special-announcement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

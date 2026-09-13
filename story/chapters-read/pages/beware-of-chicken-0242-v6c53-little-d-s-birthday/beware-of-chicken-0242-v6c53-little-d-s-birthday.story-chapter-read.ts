@@ -12,9 +12,13 @@ export const bewareOfChicken0242V6c53LittleDSBirthday = {
   unit: "words",
   completedAt: "2026-06-29T18:59:41.943Z",
   publishedAt: "2025-08-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2498552/v6c53-little-ds-birthday",
-  externalId: "2498552",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2498552",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2498552/v6c53-little-ds-birthday",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

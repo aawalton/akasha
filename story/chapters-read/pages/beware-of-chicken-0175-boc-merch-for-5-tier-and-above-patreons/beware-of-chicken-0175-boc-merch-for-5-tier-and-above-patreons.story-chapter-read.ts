@@ -12,9 +12,13 @@ export const bewareOfChicken0175BocMerchFor5TierAndAbovePatreons = {
   unit: "words",
   completedAt: "2026-06-29T18:57:18.963Z",
   publishedAt: "2024-11-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1915390/boc-merch-for-5-tier-and-above-patreons",
-  externalId: "1915390",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1915390",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1915390/boc-merch-for-5-tier-and-above-patreons",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

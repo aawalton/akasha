@@ -11,9 +11,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0056Book4Chapter51MinorInter
     ownLength: 3348,
     unit: "words",
     publishedAt: "2026-02-11",
-    externalLink:
-      "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3038099/book-4-chapter-51-minor-interlude-sentinel-night",
-    externalId: "3038099",
-    source: "royal-road",
+    externalIdentity: [
+      {
+        source: "royal-road",
+        externalId: "3038099",
+        externalLink:
+          "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3038099/book-4-chapter-51-minor-interlude-sentinel-night",
+      },
+    ],
     prose: "txt",
   } as const satisfies StoryChapterRead

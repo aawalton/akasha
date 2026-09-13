@@ -10,9 +10,13 @@ export const bewareOfChicken0305V7c52PrivateTour = {
   ownLength: 2201,
   unit: "words",
   publishedAt: "2026-04-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3331308/v7c52-private-tour",
-  externalId: "3331308",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3331308",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3331308/v7c52-private-tour",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const bookboundBunny0033B3Chapter29Passes = {
   ownLength: 2135,
   unit: "words",
   publishedAt: "2026-04-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3271321/b3-chapter-29-passes",
-  externalId: "3271321",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3271321",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3271321/b3-chapter-29-passes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

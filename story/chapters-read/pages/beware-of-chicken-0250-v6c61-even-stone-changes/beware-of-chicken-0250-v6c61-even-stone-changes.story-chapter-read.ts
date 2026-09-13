@@ -12,9 +12,13 @@ export const bewareOfChicken0250V6c61EvenStoneChanges = {
   unit: "words",
   completedAt: "2026-06-29T18:59:58.457Z",
   publishedAt: "2025-09-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2566246/v6c61-even-stone-changes",
-  externalId: "2566246",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2566246",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2566246/v6c61-even-stone-changes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

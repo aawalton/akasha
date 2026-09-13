@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0024MajorAnnouncement = {
   ownLength: 1937,
   unit: "words",
   publishedAt: "2025-10-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2681904/major-announcement",
-  externalId: "2681904",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2681904",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2681904/major-announcement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

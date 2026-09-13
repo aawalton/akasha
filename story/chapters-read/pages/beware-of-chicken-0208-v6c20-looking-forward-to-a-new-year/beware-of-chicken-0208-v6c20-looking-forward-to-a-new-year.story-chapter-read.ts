@@ -12,9 +12,13 @@ export const bewareOfChicken0208V6c20LookingForwardToANewYear = {
   unit: "words",
   completedAt: "2026-06-29T18:58:29.858Z",
   publishedAt: "2025-05-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2248181/v6c20-looking-forward-to-a-new-year",
-  externalId: "2248181",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2248181",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2248181/v6c20-looking-forward-to-a-new-year",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0016Book4Chapter14AReturnToC
   ownLength: 4008,
   unit: "words",
   publishedAt: "2025-09-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2613846/book-4-chapter-14-a-return-to-consistency",
-  externalId: "2613846",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2613846",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2613846/book-4-chapter-14-a-return-to-consistency",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

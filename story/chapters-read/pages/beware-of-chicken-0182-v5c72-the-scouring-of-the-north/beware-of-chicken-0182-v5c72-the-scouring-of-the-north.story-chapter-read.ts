@@ -12,9 +12,13 @@ export const bewareOfChicken0182V5c72TheScouringOfTheNorth = {
   unit: "words",
   completedAt: "2026-06-29T18:57:33.692Z",
   publishedAt: "2024-12-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1936252/v5c72-the-scouring-of-the-north",
-  externalId: "1936252",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1936252",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1936252/v5c72-the-scouring-of-the-north",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

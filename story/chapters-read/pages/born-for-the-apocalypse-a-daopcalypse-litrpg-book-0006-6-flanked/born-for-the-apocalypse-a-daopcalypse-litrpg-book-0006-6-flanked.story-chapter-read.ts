@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook00066Flanked = {
   ownLength: 1209,
   unit: "words",
   publishedAt: "2023-02-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1110200/6-flanked",
-  externalId: "1110200",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1110200",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1110200/6-flanked",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

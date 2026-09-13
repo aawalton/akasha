@@ -10,9 +10,13 @@ export const bewareOfChicken0322V7c69Surrounded = {
   ownLength: 1847,
   unit: "words",
   publishedAt: "2026-06-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3564784/v7c69-surrounded",
-  externalId: "3564784",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3564784",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3564784/v7c69-surrounded",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

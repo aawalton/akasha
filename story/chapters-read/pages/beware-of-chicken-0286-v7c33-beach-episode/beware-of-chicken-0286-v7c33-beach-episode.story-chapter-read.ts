@@ -12,9 +12,13 @@ export const bewareOfChicken0286V7c33BeachEpisode = {
   unit: "words",
   completedAt: "2026-06-29T19:01:14.631Z",
   publishedAt: "2026-03-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3106474/v7c33-beach-episode",
-  externalId: "3106474",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3106474",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3106474/v7c33-beach-episode",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

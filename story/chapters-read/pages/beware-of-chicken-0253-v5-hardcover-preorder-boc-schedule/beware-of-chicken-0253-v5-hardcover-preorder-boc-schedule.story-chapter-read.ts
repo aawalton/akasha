@@ -12,9 +12,13 @@ export const bewareOfChicken0253V5HardcoverPreorderBocSchedule = {
   unit: "words",
   completedAt: "2026-06-29T19:00:04.780Z",
   publishedAt: "2025-11-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2727482/v5-hardcover-preorderboc-schedule",
-  externalId: "2727482",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2727482",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2727482/v5-hardcover-preorderboc-schedule",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

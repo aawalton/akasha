@@ -12,9 +12,13 @@ export const bewareOfChicken0202V6c14InterludeTheBestBoy = {
   unit: "words",
   completedAt: "2026-06-29T18:58:16.202Z",
   publishedAt: "2025-04-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2191798/v6c14-interlude-the-best-boy",
-  externalId: "2191798",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2191798",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2191798/v6c14-interlude-the-best-boy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

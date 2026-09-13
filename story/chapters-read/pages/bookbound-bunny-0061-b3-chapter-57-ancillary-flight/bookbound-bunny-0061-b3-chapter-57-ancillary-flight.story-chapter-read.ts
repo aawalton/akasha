@@ -10,9 +10,13 @@ export const bookboundBunny0061B3Chapter57AncillaryFlight = {
   ownLength: 2148,
   unit: "words",
   publishedAt: "2026-06-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3578285/b3-chapter-57-ancillary-flight",
-  externalId: "3578285",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3578285",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3578285/b3-chapter-57-ancillary-flight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

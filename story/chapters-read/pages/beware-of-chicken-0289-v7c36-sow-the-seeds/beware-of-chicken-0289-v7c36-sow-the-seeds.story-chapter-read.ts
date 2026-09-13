@@ -10,9 +10,13 @@ export const bewareOfChicken0289V7c36SowTheSeeds = {
   ownLength: 2341,
   unit: "words",
   publishedAt: "2026-03-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3128685/v7c36-sow-the-seeds",
-  externalId: "3128685",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3128685",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3128685/v7c36-sow-the-seeds",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

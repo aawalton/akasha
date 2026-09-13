@@ -12,9 +12,13 @@ export const bewareOfChicken0209V6c21SouthOfThePineBelt = {
   unit: "words",
   completedAt: "2026-06-29T18:58:32.061Z",
   publishedAt: "2025-05-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2255753/v6c21-south-of-the-pine-belt",
-  externalId: "2255753",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2255753",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2255753/v6c21-south-of-the-pine-belt",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

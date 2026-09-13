@@ -12,9 +12,13 @@ export const bewareOfChicken0174V5c66TheNobleArts = {
   unit: "words",
   completedAt: "2026-06-29T18:57:16.877Z",
   publishedAt: "2024-11-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1913638/v5c66-the-noble-arts",
-  externalId: "1913638",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1913638",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1913638/v5c66-the-noble-arts",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

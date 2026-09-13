@@ -10,9 +10,13 @@ export const bookboundBunny0039B3Chapter35ElectiveSwing = {
   ownLength: 2477,
   unit: "words",
   publishedAt: "2026-04-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3335879/b3-chapter-35-elective-swing",
-  externalId: "3335879",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3335879",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3335879/b3-chapter-35-elective-swing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

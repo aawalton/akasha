@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook002929ThreeBlades = {
   ownLength: 1633,
   unit: "words",
   publishedAt: "2024-11-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1931122/29-three-blades",
-  externalId: "1931122",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1931122",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1931122/29-three-blades",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

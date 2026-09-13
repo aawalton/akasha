@@ -8,11 +8,15 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0092HealthBreak = {
   position: 92,
   publishedAt: "2026-09-08",
   unit: "words",
-  externalId: "3929345",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3929345",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3929345/health-break",
+    },
+  ],
   title: "Health Break",
   ownLength: 196,
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3929345/health-break",
   prose: "txt",
 } as const satisfies StoryChapterRead

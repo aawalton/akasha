@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0054Book4Chapter49Splinters 
   ownLength: 4912,
   unit: "words",
   publishedAt: "2026-02-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3013285/book-4-chapter-49-splinters",
-  externalId: "3013285",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3013285",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3013285/book-4-chapter-49-splinters",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

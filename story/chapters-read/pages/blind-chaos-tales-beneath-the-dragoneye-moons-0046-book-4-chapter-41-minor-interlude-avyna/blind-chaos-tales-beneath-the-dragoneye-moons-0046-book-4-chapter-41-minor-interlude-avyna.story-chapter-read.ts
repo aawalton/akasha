@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0046Book4Chapter41MinorInter
   ownLength: 2353,
   unit: "words",
   publishedAt: "2026-01-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2921522/book-4-chapter-41-minor-interlude-avyna-absolution",
-  externalId: "2921522",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2921522",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2921522/book-4-chapter-41-minor-interlude-avyna-absolution",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

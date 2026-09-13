@@ -10,9 +10,13 @@ export const bookboundBunny0011B3Chapter7Perimeter = {
   ownLength: 2274,
   unit: "words",
   publishedAt: "2026-02-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3062037/b3-chapter-7-perimeter",
-  externalId: "3062037",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3062037",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3062037/b3-chapter-7-perimeter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

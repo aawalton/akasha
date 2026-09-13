@@ -12,9 +12,13 @@ export const bewareOfChicken0193V6c5ThroughAFalconSEyes = {
   unit: "words",
   completedAt: "2026-06-29T18:57:56.411Z",
   publishedAt: "2025-03-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2135975/v6c5-through-a-falcons-eyes",
-  externalId: "2135975",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2135975",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2135975/v6c5-through-a-falcons-eyes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

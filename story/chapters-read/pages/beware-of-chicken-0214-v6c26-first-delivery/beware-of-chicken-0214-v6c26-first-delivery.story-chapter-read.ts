@@ -12,9 +12,13 @@ export const bewareOfChicken0214V6c26FirstDelivery = {
   unit: "words",
   completedAt: "2026-06-29T18:58:42.364Z",
   publishedAt: "2025-05-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2296827/v6c26-first-delivery",
-  externalId: "2296827",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2296827",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2296827/v6c26-first-delivery",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const bookboundBunny0083B3Chapter79PreludeToTheHunt = {
   ownLength: 2054,
   unit: "words",
   publishedAt: "2026-08-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3828825/b3-chapter-79-prelude-to-the-hunt",
-  externalId: "3828825",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3828825",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3828825/b3-chapter-79-prelude-to-the-hunt",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

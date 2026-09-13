@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0092Book5Chapter34BoundlessE
   ownLength: 5071,
   unit: "words",
   publishedAt: "2026-08-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3845281/book-5-chapter-34-boundless-expectations",
-  externalId: "3845281",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3845281",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3845281/book-5-chapter-34-boundless-expectations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const bookboundBunny0019B3Chapter15Explanation = {
   ownLength: 2210,
   unit: "words",
   publishedAt: "2026-03-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3135742/b3-chapter-15-explanation",
-  externalId: "3135742",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3135742",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3135742/b3-chapter-15-explanation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

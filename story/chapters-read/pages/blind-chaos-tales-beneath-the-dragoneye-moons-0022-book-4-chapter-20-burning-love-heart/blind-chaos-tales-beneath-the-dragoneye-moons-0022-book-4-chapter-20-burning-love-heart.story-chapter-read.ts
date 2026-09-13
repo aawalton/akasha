@@ -10,9 +10,13 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0022Book4Chapter20BurningLov
   ownLength: 5737,
   unit: "words",
   publishedAt: "2025-10-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2666942/book-4-chapter-20-burning-love-heart",
-  externalId: "2666942",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2666942",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2666942/book-4-chapter-20-burning-love-heart",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
