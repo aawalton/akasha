@@ -26,5 +26,14 @@ export const checkNumeric = {
       statement:
         "An item with no value signal satisfies a zero threshold under <= and nothing higher.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A zero market-value threshold under <= is meant to take an item whose market value is unknown.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A missing merchant value and a missing replacement cost each count as zero.",
+    },
   ],
 } as const satisfies Module
