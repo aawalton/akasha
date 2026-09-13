@@ -27,6 +27,33 @@ const logger = createLogger("itemCache")
 const HIDE_MINI_MAP = true
 const MINIMAP_FADE_DURATION = ZO_ONE_SECOND_IN_MILLISECONDS
 
+interface SlotUpdateTally {
+  count: number
+  totalMs: number
+  maxMs: number
+}
+
+const MASTER_LIST: SlotUpdateTally = { count: 0, totalMs: 0, maxMs: 0 }
+const PIN_REFRESH: SlotUpdateTally = { count: 0, totalMs: 0, maxMs: 0 }
+
+function tally(this: void, into: SlotUpdateTally, ms: number): undefined {
+  into.count = into.count + 1
+  into.totalMs = into.totalMs + ms
+  if (ms > into.maxMs) {
+    into.maxMs = ms
+  }
+}
+
+function tallySaid(this: void, label: string, held: SlotUpdateTally): string {
+  return `  ${label}: n=${held.count} total=${held.totalMs}ms max=${held.maxMs}ms`
+}
+
+function reportSlotUpdateStats(this: void): undefined {
+  d("[LostTreasure] backpack slot-update handler since load:")
+  d(tallySaid("masterList", MASTER_LIST))
+  d(tallySaid("pinRefresh", PIN_REFRESH))
+}
+
 function slotAdded(this: void, bagId: number, slotIndex: number, newSlotData: SlotData): undefined {
   if (bagId !== BAG_BACKPACK) {
     return
@@ -161,16 +188,22 @@ export function initializeItemCache(this: void): undefined {
       if (bagId !== BAG_BACKPACK) {
         return
       }
+      const masterStart = GetGameTimeMilliseconds()
       itemCacheBuildMasterLists()
+      tally(MASTER_LIST, GetGameTimeMilliseconds() - masterStart)
       lostTreasure.processQueue(
         LOST_TREASURE_PIN_TYPE_TREASURE,
         function (this: void): undefined {
+          const refreshStart = GetGameTimeMilliseconds()
           lostTreasure.refreshPinTypePins(LOST_TREASURE_PIN_TYPE_TREASURE)
+          tally(PIN_REFRESH, GetGameTimeMilliseconds() - refreshStart)
         },
         "EVENT_INVENTORY_SINGLE_SLOT_UPDATE"
       )
     }
   )
+
+  SLASH_COMMANDS["/ltstats"] = reportSlotUpdateStats
 
   logger.Debug("initialized")
 }
