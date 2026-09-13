@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0011Chapter10SkillEvo
   ownLength: 2120,
   unit: "words",
   publishedAt: "2026-07-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3708220/chapter-10-skill-evolution",
-  externalId: "3708220",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3708220",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3708220/chapter-10-skill-evolution",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

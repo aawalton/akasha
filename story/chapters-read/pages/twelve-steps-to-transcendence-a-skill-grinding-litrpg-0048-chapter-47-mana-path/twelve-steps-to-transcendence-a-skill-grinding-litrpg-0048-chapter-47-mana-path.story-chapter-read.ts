@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0048Chapter47ManaPath
   ownLength: 1788,
   unit: "words",
   publishedAt: "2026-09-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3897685/chapter-47-mana-path",
-  externalId: "3897685",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3897685",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3897685/chapter-47-mana-path",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

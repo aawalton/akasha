@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0028Chapter27Marcus =
   ownLength: 1943,
   unit: "words",
   publishedAt: "2026-08-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3784366/chapter-27-marcus",
-  externalId: "3784366",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3784366",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3784366/chapter-27-marcus",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

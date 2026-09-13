@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0012Chapter11WhenTheS
   ownLength: 2246,
   unit: "words",
   publishedAt: "2026-07-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3712723/chapter-11-when-the-sky-burned",
-  externalId: "3712723",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3712723",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3712723/chapter-11-when-the-sky-burned",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0001Chapter1NewWorld 
   ownLength: 2624,
   unit: "words",
   publishedAt: "2026-07-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701682/chapter-1-new-world",
-  externalId: "3701682",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3701682",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701682/chapter-1-new-world",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

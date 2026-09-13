@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0026Chapter25SkillFus
   ownLength: 2132,
   unit: "words",
   publishedAt: "2026-08-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3775188/chapter-25-skill-fusion",
-  externalId: "3775188",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3775188",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3775188/chapter-25-skill-fusion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0007Chapter7NewSkills
   ownLength: 2559,
   unit: "words",
   publishedAt: "2026-07-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701724/chapter-7-new-skills",
-  externalId: "3701724",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3701724",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701724/chapter-7-new-skills",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

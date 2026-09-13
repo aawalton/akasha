@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0039Chapter38ItsTime 
   ownLength: 1843,
   unit: "words",
   publishedAt: "2026-08-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3836407/chapter-38-its-time",
-  externalId: "3836407",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3836407",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3836407/chapter-38-its-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

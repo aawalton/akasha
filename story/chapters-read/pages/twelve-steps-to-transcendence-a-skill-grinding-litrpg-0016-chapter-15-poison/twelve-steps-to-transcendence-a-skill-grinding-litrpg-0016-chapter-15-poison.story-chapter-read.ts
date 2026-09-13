@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0016Chapter15Poison =
   ownLength: 2009,
   unit: "words",
   publishedAt: "2026-07-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3729975/chapter-15-poison",
-  externalId: "3729975",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3729975",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3729975/chapter-15-poison",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

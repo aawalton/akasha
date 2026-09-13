@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0023Chapter22OnTheHun
   ownLength: 2059,
   unit: "words",
   publishedAt: "2026-08-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3760789/chapter-22-on-the-hunt",
-  externalId: "3760789",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3760789",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3760789/chapter-22-on-the-hunt",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0003Chapter3StartOfTh
   ownLength: 2365,
   unit: "words",
   publishedAt: "2026-07-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701708/chapter-3-start-of-the-grind",
-  externalId: "3701708",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3701708",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701708/chapter-3-start-of-the-grind",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

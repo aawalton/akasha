@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0036Chapter35Mana = {
   ownLength: 1937,
   unit: "words",
   publishedAt: "2026-08-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3819150/chapter-35-mana",
-  externalId: "3819150",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3819150",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3819150/chapter-35-mana",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0041Chapter40Adapting
   ownLength: 1747,
   unit: "words",
   publishedAt: "2026-08-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3845513/chapter-40-adapting",
-  externalId: "3845513",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3845513",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3845513/chapter-40-adapting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

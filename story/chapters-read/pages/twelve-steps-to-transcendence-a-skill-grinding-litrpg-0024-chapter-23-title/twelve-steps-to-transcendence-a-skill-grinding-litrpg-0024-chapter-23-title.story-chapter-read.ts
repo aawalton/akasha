@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0024Chapter23Title = 
   ownLength: 1973,
   unit: "words",
   publishedAt: "2026-08-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3765624/chapter-23-title",
-  externalId: "3765624",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3765624",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3765624/chapter-23-title",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

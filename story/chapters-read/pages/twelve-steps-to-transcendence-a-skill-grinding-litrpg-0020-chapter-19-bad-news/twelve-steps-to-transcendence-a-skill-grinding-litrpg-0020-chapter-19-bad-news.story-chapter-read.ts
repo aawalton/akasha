@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0020Chapter19BadNews 
   ownLength: 2140,
   unit: "words",
   publishedAt: "2026-07-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3748209/chapter-19-bad-news",
-  externalId: "3748209",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3748209",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3748209/chapter-19-bad-news",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

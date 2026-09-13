@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0018Chapter17OhNo = {
   ownLength: 1885,
   unit: "words",
   publishedAt: "2026-07-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3739101/chapter-17-oh-no",
-  externalId: "3739101",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3739101",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3739101/chapter-17-oh-no",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

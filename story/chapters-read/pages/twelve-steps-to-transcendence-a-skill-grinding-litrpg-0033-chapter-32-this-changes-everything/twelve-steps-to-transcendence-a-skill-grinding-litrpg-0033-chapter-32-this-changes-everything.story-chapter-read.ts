@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0033Chapter32ThisChan
   ownLength: 1744,
   unit: "words",
   publishedAt: "2026-08-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3806111/chapter-32-this-changes-everything",
-  externalId: "3806111",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3806111",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3806111/chapter-32-this-changes-everything",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

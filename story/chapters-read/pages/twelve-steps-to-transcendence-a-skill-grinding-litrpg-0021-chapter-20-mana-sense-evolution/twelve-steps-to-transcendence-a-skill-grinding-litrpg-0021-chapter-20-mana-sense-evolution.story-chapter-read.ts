@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0021Chapter20ManaSens
   ownLength: 2210,
   unit: "words",
   publishedAt: "2026-07-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3752907/chapter-20-mana-sense-evolution",
-  externalId: "3752907",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3752907",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3752907/chapter-20-mana-sense-evolution",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

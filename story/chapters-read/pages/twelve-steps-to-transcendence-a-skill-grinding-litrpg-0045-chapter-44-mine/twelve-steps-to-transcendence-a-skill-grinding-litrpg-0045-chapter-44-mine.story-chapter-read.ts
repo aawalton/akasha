@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0045Chapter44Mine = {
   ownLength: 1690,
   unit: "words",
   publishedAt: "2026-08-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3874065/chapter-44-mine",
-  externalId: "3874065",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3874065",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3874065/chapter-44-mine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

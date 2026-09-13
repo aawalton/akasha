@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0043Chapter42Treasure
   ownLength: 1420,
   unit: "words",
   publishedAt: "2026-08-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3864943/chapter-42-treasure",
-  externalId: "3864943",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3864943",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3864943/chapter-42-treasure",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

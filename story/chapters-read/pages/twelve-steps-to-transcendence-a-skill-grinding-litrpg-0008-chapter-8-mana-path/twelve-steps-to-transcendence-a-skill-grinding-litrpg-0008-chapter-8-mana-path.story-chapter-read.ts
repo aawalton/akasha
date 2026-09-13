@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0008Chapter8ManaPath 
   ownLength: 2632,
   unit: "words",
   publishedAt: "2026-07-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701729/chapter-8-mana-path",
-  externalId: "3701729",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3701729",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701729/chapter-8-mana-path",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0006Chapter6Tier1 = {
   ownLength: 1504,
   unit: "words",
   publishedAt: "2026-07-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701720/chapter-6-tier-1",
-  externalId: "3701720",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3701720",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701720/chapter-6-tier-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

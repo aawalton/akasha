@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0015Chapter14HowDoYou
   ownLength: 2230,
   unit: "words",
   publishedAt: "2026-07-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3725982/chapter-14-how-do-you-kill-something-that-wont",
-  externalId: "3725982",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3725982",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3725982/chapter-14-how-do-you-kill-something-that-wont",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

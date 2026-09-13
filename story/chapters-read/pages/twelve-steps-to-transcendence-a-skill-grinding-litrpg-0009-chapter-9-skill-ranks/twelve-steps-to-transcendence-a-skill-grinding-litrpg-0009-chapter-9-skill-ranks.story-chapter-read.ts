@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0009Chapter9SkillRank
   ownLength: 2781,
   unit: "words",
   publishedAt: "2026-07-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701734/chapter-9-skill-ranks",
-  externalId: "3701734",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3701734",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701734/chapter-9-skill-ranks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

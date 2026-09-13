@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0044Chapter43Unwelcom
   ownLength: 1876,
   unit: "words",
   publishedAt: "2026-08-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3869457/chapter-43-unwelcome-guests",
-  externalId: "3869457",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3869457",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3869457/chapter-43-unwelcome-guests",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

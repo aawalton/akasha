@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0040Chapter39Entering
   ownLength: 1700,
   unit: "words",
   publishedAt: "2026-08-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3840543/chapter-39-entering-the-rift",
-  externalId: "3840543",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3840543",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3840543/chapter-39-entering-the-rift",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

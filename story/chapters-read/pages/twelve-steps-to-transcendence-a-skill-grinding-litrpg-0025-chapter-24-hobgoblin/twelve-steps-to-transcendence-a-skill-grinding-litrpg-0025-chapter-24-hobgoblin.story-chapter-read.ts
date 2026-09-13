@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0025Chapter24Hobgobli
   ownLength: 1798,
   unit: "words",
   publishedAt: "2026-08-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3770459/chapter-24-hobgoblin",
-  externalId: "3770459",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3770459",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3770459/chapter-24-hobgoblin",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

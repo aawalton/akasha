@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0005Chapter5Training 
   ownLength: 2323,
   unit: "words",
   publishedAt: "2026-07-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701714/chapter-5-training",
-  externalId: "3701714",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3701714",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701714/chapter-5-training",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0017Chapter16ShardHun
   ownLength: 2680,
   unit: "words",
   publishedAt: "2026-07-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3734732/chapter-16-shard-hunting",
-  externalId: "3734732",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3734732",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3734732/chapter-16-shard-hunting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

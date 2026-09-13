@@ -11,8 +11,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0010PatreonScheduleTi
     ownLength: 277,
     unit: "words",
     publishedAt: "2026-07-21",
-    externalLink:
-      "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3705330/patreon-schedule-timezones-and-another-note",
-    externalId: "3705330",
+    externalIdentity: [
+      {
+        source: "royal-road",
+        externalId: "3705330",
+        externalLink:
+          "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3705330/patreon-schedule-timezones-and-another-note",
+      },
+    ],
     prose: "txt",
   } as const satisfies StoryChapterRead

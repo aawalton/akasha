@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0034Chapter33Luck = {
   ownLength: 1736,
   unit: "words",
   publishedAt: "2026-08-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3810571/chapter-33-luck",
-  externalId: "3810571",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3810571",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3810571/chapter-33-luck",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

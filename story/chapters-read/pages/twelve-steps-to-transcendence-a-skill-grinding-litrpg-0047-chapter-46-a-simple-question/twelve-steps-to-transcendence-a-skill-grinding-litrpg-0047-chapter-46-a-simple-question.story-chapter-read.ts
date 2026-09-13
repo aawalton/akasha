@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0047Chapter46ASimpleQ
   ownLength: 1915,
   unit: "words",
   publishedAt: "2026-08-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3887351/chapter-46-a-simple-question",
-  externalId: "3887351",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3887351",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3887351/chapter-46-a-simple-question",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

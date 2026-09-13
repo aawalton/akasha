@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0046Chapter45Checking
   ownLength: 1881,
   unit: "words",
   publishedAt: "2026-08-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3879046/chapter-45-checking-his-loot",
-  externalId: "3879046",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3879046",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3879046/chapter-45-checking-his-loot",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

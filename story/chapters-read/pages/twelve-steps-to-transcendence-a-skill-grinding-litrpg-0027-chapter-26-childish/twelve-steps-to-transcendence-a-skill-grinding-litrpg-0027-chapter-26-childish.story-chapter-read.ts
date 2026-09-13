@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0027Chapter26Childish
   ownLength: 3661,
   unit: "words",
   publishedAt: "2026-08-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3779497/chapter-26-childish",
-  externalId: "3779497",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3779497",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3779497/chapter-26-childish",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

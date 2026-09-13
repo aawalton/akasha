@@ -10,8 +10,13 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0014Chapter13Goblins 
   ownLength: 2412,
   unit: "words",
   publishedAt: "2026-07-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3721809/chapter-13-goblins",
-  externalId: "3721809",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3721809",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3721809/chapter-13-goblins",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
