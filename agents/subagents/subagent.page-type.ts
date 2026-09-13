@@ -72,6 +72,18 @@ export const subagent = {
         "The edits a subagent leaves unlanded move onto the seat that dispatched it as its page goes.",
     },
     {
+      invariantKind: "departure",
+      statement: "The readings a subagent made go with its page rather than moving onto that seat.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Those readings move onto that seat as the unlanded edits do.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A subagent whose page comes back out of history takes those readings back.",
+    },
+    {
       invariantKind: "gap",
       statement: "A page for a subagent that is no longer running goes.",
     },
