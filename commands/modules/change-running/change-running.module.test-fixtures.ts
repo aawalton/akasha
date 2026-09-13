@@ -1,6 +1,5 @@
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { removePage } from "akasha/changes/agent/file/remove-page/remove-page.change-agent.code.ts"
 import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { editsIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
@@ -9,6 +8,7 @@ import {
   type Loaded,
   loadedAt,
 } from "akasha/changes/runners/modules/change-loading/change-loading.module.code.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
   OPERATIONAL,
   refusedBy,
@@ -88,10 +88,12 @@ export function givenIn(): Readonly<Record<string, string>> {
   return given
 }
 
+const REMOVE_PAGE_ADDRESS = "change-agent/remove-page"
+
 const REMOVE_PAGE: Loaded = {
   run: (world, said) => {
     given = said as Readonly<Record<string, string>>
-    return removePage(world, said as { at: string })
+    return running(world, REMOVE_PAGE_ADDRESS, said)
   },
   guards: [],
 }
@@ -199,7 +201,7 @@ function asking(path: string, message: string): string {
 }
 
 export async function loading(world: World, at: string): Promise<Loaded | string> {
-  if (at === "change-agent/remove-page") return REMOVE_PAGE
+  if (at === REMOVE_PAGE_ADDRESS) return REMOVE_PAGE
   return await loadedAt(world, at)
 }
 
