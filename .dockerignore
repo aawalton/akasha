@@ -4,6 +4,7 @@
 
 # === Version control & tooling ===
 .git
+.indexes
 .claude
 .sops.yaml
 biome.json
