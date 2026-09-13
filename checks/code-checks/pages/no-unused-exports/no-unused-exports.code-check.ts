@@ -59,6 +59,10 @@ export const noUnusedExports = {
       statement: "A specifier naming a package rather than a path reads as reaching no file.",
     },
     {
+      invariantKind: "gap",
+      statement: "A value reached only from files nothing runs reads as reached.",
+    },
+    {
       invariantKind: "departure",
       statement: "A value its own file never names and only a test names is unreached.",
     },
