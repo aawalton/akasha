@@ -162,8 +162,8 @@ export function NotificationsTab({ active }: NotificationsTabProps) {
           />
         </InputPanelCard.Row>
         <InputPanelCard.Row
-          label="Auto-Stack on Load"
-          description="Automatically consolidate partial stacks when logging in."
+          label="Auto-Stack"
+          description="Automatically consolidate partial stacks when logging in and at a banker."
         >
           <div className="flex h-9 items-center">
             <Switch
