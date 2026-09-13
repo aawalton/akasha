@@ -121,6 +121,14 @@ export const noUnusedExports = {
       statement:
         "The `work` a computed property's code exports is reached by the engine working it.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The `runGuard` a change guard's code exports is reached by the change loader.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The name made from a check's slug is reached by the runner running that check.",
+    },
   ],
   check: { maxCpuSeconds: 30 },
   audit: { maxCpuSeconds: 120 },

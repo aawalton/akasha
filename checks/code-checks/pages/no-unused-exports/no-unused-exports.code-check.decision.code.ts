@@ -49,6 +49,12 @@ const COMPUTED = "computed-property"
 
 const WORK = "work"
 
+const GUARD = "change-guard"
+
+const RUN_GUARD = "runGuard"
+
+const CHECK = "code-check"
+
 function toldApart(name: string): boolean {
   return name !== ANYTHING && name !== DEFAULT
 }
@@ -154,6 +160,13 @@ function luaNamed(path: string, said: Parted, bodyOf: Bodied): string | null {
   return held === null ? null : textAt(held, LUA_EXPORT)
 }
 
+function reachedBeside(said: Parted): string | null {
+  if (besideCode(said, COMPUTED)) return WORK
+  if (besideCode(said, GUARD)) return RUN_GUARD
+  if (besideCode(said, COMMAND) || besideCode(said, CHECK)) return exportedAs(said.slug)
+  return null
+}
+
 export function sparedIn(
   path: string,
   pageTypes: ReadonlySet<string>,
@@ -164,9 +177,9 @@ export function sparedIn(
   if (uncommittedNamed(path)) return nameFor(`${pageOf(said)}.${HELD}`)
   const lua = luaNamed(path, said, bodyOf)
   if (lua !== null) return lua
-  if (besideCode(said, COMPUTED)) return WORK
-  if (!besideCode(said, COMMAND) && !pageNamed(path, pageTypes)) return null
-  return exportedAs(said.slug)
+  const beside = reachedBeside(said)
+  if (beside !== null) return beside
+  return pageNamed(path, pageTypes) ? exportedAs(said.slug) : null
 }
 
 export type Unreached = {
