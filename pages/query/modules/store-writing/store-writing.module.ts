@@ -33,38 +33,12 @@ export const storeWriting = {
       statement: "A read answers with a whole body and the commit the body was read at.",
     },
     {
-      invariantKind: "departure",
-      statement: "A patch writes back the bodies the patch read.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A patch states the commit its bodies were read at.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A patch a write landed under is refused rather than told the patch won.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A patch leaving every body as that body stood writes nothing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page is taken away by the page type and the name the page is reached by.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A write stating the keys a page would have is refused for want of a renderer.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A write naming a row inside a page is refused for want of a way to address a row.",
-    },
-
-    {
       invariantKind: "absence",
       statement: "Nothing here renders a page's body.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here addresses a row inside a page.",
     },
   ],
 } as const satisfies Module

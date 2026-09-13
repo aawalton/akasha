@@ -12,8 +12,6 @@ export type Sleeper = (ms: number) => Promise<void>
 
 export type Given = Readonly<Record<string, string | readonly string[]>>
 
-export type Value = string | number | boolean | readonly string[]
-
 export type QueryRow = { readonly at?: string; readonly values: Record<string, unknown> }
 
 export type QueryAnswer = {
@@ -50,34 +48,7 @@ export type Found =
   | ({ readonly ok: true } & Read)
   | { readonly ok: false; readonly why: string; readonly status?: number }
 
-export type Changing = (bodies: readonly Body[]) => readonly Put[] | null
-
-export type Compared =
-  | { readonly outcome: "won"; readonly at: string }
-  | {
-      readonly outcome: "lost"
-      readonly key: string
-      readonly expected: string
-      readonly found: string
-      readonly why: string
-    }
-  | { readonly outcome: "absent"; readonly why: string }
-  | { readonly outcome: "failed"; readonly why: string; readonly status?: number }
-
 const WRITER_SHAPE = /^[^<>]+<[^<>@\s]+@[^<>@\s]+>$/
-
-const NO_RENDER_SAYS =
-  "the store writes a path and a whole body, and nothing in akasha renders a page's body out of the keys it carries, so these values cannot become the file this would write"
-
-const NO_ROW_SAYS =
-  "a row stands inside a page's body rather than at a path of its own, and nothing the store answers addresses one, so nothing here can reach the row this names"
-
-const INSTEAD_SAYS =
-  "land it with `writeFiles` or `patchFiles` naming the path and the whole body, or through the akasha command line"
-
-function refusedFor(act: string, named: string, saying: string): Written {
-  return { ok: false, why: `\`${act} ${named}\` did not land: ${saying} — ${INSTEAD_SAYS}` }
-}
 
 function commitIn(body: unknown): { at: string | null; wrote: readonly string[] } | null {
   if (typeof body !== "object" || body === null) return null
@@ -196,143 +167,4 @@ export async function readPages(
   if (pages.length === 0) return { ok: false, why: "a read carries at least one page" }
   const what = `a read of ${pages.map((one) => `${one.pageTypeSlug}/${one.slug}`).join(", ")}`
   return finding(what, { pages: [...pages] }, fetcher, rest)
-}
-
-export async function patchFiles(
-  paths: readonly string[],
-  changing: Changing,
-  writer: string,
-  message: string,
-  fetcher: Fetcher = pagesFetcher(),
-  rest: Sleeper = sleep
-): Promise<Written> {
-  const found = await readFiles(paths, fetcher, rest)
-  if (!found.ok) return { ok: false, why: found.why, status: found.status }
-  const puts = changing(found.bodies)
-  if (puts === null || puts.length === 0) {
-    return { ok: false, why: `a patch of ${paths.join(", ")} left every body as it stood` }
-  }
-  return writeFiles(puts, writer, message, fetcher, rest, found.at)
-}
-
-export async function writePage(
-  pageType: string,
-  name: string,
-  _values: Readonly<Record<string, Value>>,
-  _writer: string,
-  _fetcher: Fetcher = pagesFetcher(),
-  _rest: Sleeper = sleep
-): Promise<Written> {
-  return refusedFor("write", `${pageType}/${name}`, NO_RENDER_SAYS)
-}
-
-export async function patchPage(
-  pageType: string,
-  name: string,
-  _values: Readonly<Record<string, Value>>,
-  _writer: string,
-  _fetcher: Fetcher = pagesFetcher(),
-  _rest: Sleeper = sleep
-): Promise<Written> {
-  return refusedFor("patch", `${pageType}/${name}`, NO_RENDER_SAYS)
-}
-
-export async function patchState(
-  pageType: string,
-  name: string,
-  _values: Readonly<Record<string, unknown>>,
-  _writer: string,
-  _fetcher: Fetcher = pagesFetcher(),
-  _rest: Sleeper = sleep
-): Promise<Written> {
-  return refusedFor("patch-state", `${pageType}/${name}`, NO_RENDER_SAYS)
-}
-
-export async function removePage(
-  pageType: string,
-  name: string,
-  writer: string,
-  fetcher: Fetcher = pagesFetcher(),
-  rest: Sleeper = sleep
-): Promise<Written> {
-  const named = `${pageType}/${name}`
-  const found = await readPages([{ pageTypeSlug: pageType, slug: name }], fetcher, rest)
-  if (!found.ok) return { ok: false, why: found.why, status: found.status }
-  if (found.unplaced.length > 0) {
-    return { ok: false, why: `\`remove ${named}\` did not land: no page stands at ${named}` }
-  }
-  const paths = found.bodies.map((one) => one.path)
-  return removeFiles(paths, writer, `remove ${named}`, fetcher, rest, found.at)
-}
-
-export async function writeRow(
-  pageType: string,
-  parentName: string,
-  _values: Readonly<Record<string, unknown>>,
-  _writer: string,
-  _fetcher: Fetcher = pagesFetcher(),
-  _rest: Sleeper = sleep
-): Promise<Written> {
-  return refusedFor("write-row", `${pageType}/${parentName}`, NO_ROW_SAYS)
-}
-
-export async function patchRow(
-  pageType: string,
-  parentName: string,
-  _values: Readonly<Record<string, unknown>>,
-  _writer: string,
-  _fetcher: Fetcher = pagesFetcher(),
-  _rest: Sleeper = sleep
-): Promise<Written> {
-  return refusedFor("patch-row", `${pageType}/${parentName}`, NO_ROW_SAYS)
-}
-
-export async function writeRows(
-  pageType: string,
-  parentName: string,
-  _rows: readonly Readonly<Record<string, unknown>>[],
-  _writer: string,
-  _fetcher: Fetcher = pagesFetcher(),
-  _rest: Sleeper = sleep
-): Promise<Written> {
-  return refusedFor("write-row", `${pageType}/${parentName}`, NO_ROW_SAYS)
-}
-
-export async function patchRows(
-  pageType: string,
-  parentName: string,
-  _rows: readonly Readonly<Record<string, unknown>>[],
-  _writer: string,
-  _fetcher: Fetcher = pagesFetcher(),
-  _rest: Sleeper = sleep
-): Promise<Written> {
-  return refusedFor("patch-row", `${pageType}/${parentName}`, NO_ROW_SAYS)
-}
-
-export async function removeRow(
-  pageType: string,
-  parentName: string,
-  _named: string,
-  _writer: string,
-  _fetcher: Fetcher = pagesFetcher(),
-  _rest: Sleeper = sleep
-): Promise<Written> {
-  return refusedFor("remove-row", `${pageType}/${parentName}`, NO_ROW_SAYS)
-}
-
-export async function patchPageIfMatch(
-  pageType: string,
-  name: string,
-  _key: string,
-  _expected: string | null,
-  _values: Readonly<Record<string, Value>>,
-  _writer: string,
-  _clear: readonly string[] = [],
-  _fetcher: Fetcher = pagesFetcher(),
-  _rest: Sleeper = sleep
-): Promise<Compared> {
-  return {
-    outcome: "failed",
-    why: `\`patch-if ${pageType}/${name}\` compared nothing: ${NO_RENDER_SAYS} — ${INSTEAD_SAYS}`,
-  }
 }
