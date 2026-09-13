@@ -34,6 +34,10 @@ export const seatCalls = {
     },
     {
       invariantKind: "departure",
+      statement: "A revive names the notice rather than carrying that notice's words.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A resume into a terminal states the interactive mode.",
     },
     {

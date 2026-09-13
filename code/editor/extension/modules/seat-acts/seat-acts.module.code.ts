@@ -7,7 +7,6 @@ import {
 import type { ToggleTarget } from "akasha/code/editor/extension/modules/invoked-seat/invoked-seat.module.code.ts"
 import {
   interactiveCall,
-  NOTICES_CALL,
   resetCall,
   revivingCall,
   type SeatCall,
@@ -17,7 +16,6 @@ import { columnForSeat } from "akasha/code/editor/extension/modules/seat-showing
 import { readSeatLookup } from "akasha/code/editor/extension/modules/seat-terminals/seat-terminals.module.code.ts"
 import {
   attachCommandLine,
-  resumePromptIn,
   type SeatStep,
 } from "akasha/code/editor/extension/modules/seat-toggles/seat-toggles.module.code.ts"
 import * as vscode from "vscode"
@@ -49,14 +47,9 @@ async function performStep(seat: ToggleTarget, step: SeatStep): Promise<undefine
     case "stop":
       await runSeat(stopCall(seat.name))
       return undefined
-    case "revive": {
-      const said = await callHarness(NOTICES_CALL.slug, NOTICES_CALL.exported, NOTICES_CALL.args, {
-        timeout: LANDING_TIMEOUT_MS,
-      })
-      const prompt = resumePromptIn(said)
-      await runSeat(revivingCall(seat.name, prompt))
+    case "revive":
+      await runSeat(revivingCall(seat.name))
       return undefined
-    }
     case "resume-interactive":
       return resumeInteractive(seat)
     case "attach":

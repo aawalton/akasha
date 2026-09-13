@@ -7,7 +7,6 @@ export const seat = {
   definition: "the seats akasha carries and what runs them",
   parts: [
     "command/seat-messaged",
-    "command/seat-notice-list",
     "command/seat-refresh-settings",
     "command/seat-reset",
     "command/seat-resume",

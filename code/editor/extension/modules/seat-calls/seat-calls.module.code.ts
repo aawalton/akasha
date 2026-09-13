@@ -1,4 +1,3 @@
-import { seatNoticeList } from "akasha/commands/pages/seat/notice-list/seat-notice-list.command.ts"
 import { seatReset } from "akasha/commands/pages/seat/reset/seat-reset.command.ts"
 import { seatResume } from "akasha/commands/pages/seat/resume/seat-resume.command.ts"
 import { seatSupervisorStop } from "akasha/commands/pages/seat/supervisor/stop/seat-supervisor-stop.command.ts"
@@ -6,7 +5,9 @@ import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.mo
 
 const FORCED = "--force"
 
-const PROMPTED = "--prompt"
+const NOTICED = "--notice"
+
+const EDITOR_REVIVE = "editor-revive"
 
 const STARTED = "--start-mode"
 
@@ -22,8 +23,6 @@ function asking(one: { readonly slug: string }, args: readonly string[]): SeatCa
   return { slug: one.slug, exported: exportedAs(one.slug), args }
 }
 
-export const NOTICES_CALL: SeatCall = asking(seatNoticeList, [])
-
 export function stopCall(name: string): SeatCall {
   return asking(seatSupervisorStop, [name, FORCED])
 }
@@ -32,8 +31,8 @@ export function resetCall(name: string): SeatCall {
   return asking(seatReset, [name])
 }
 
-export function revivingCall(name: string, prompt: string): SeatCall {
-  return asking(seatResume, [name, PROMPTED, prompt])
+export function revivingCall(name: string): SeatCall {
+  return asking(seatResume, [name, NOTICED, EDITOR_REVIVE])
 }
 
 export function interactiveCall(name: string): SeatCall {

@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import {
   interactiveCall,
-  NOTICES_CALL,
   resetCall,
   revivingCall,
   type SeatCall,
@@ -12,10 +11,9 @@ import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.mo
 const SEAT = "aranya"
 
 const EVERY: readonly SeatCall[] = [
-  NOTICES_CALL,
   stopCall(SEAT),
   resetCall(SEAT),
-  revivingCall(SEAT, "carry on"),
+  revivingCall(SEAT),
   interactiveCall(SEAT),
 ]
 
@@ -33,25 +31,21 @@ test("a reset names the seat and nothing else", () => {
   expect(resetCall(SEAT).args).toEqual([SEAT])
 })
 
-test("a revive carries the prompt the harness answered", () => {
-  expect(revivingCall(SEAT, "carry on").args).toEqual([SEAT, "--prompt", "carry on"])
+test("a revive names the notice rather than carrying that notice's words", () => {
+  expect(revivingCall(SEAT).args).toEqual([SEAT, "--notice", "editor-revive"])
 })
 
 test("a resume into a terminal states the interactive mode", () => {
   expect(interactiveCall(SEAT).args).toEqual([SEAT, "--start-mode", "interactive"])
 })
 
-test("asking for the prompt takes no argument", () => {
-  expect(NOTICES_CALL.args).toEqual([])
-})
-
 test("a revive and an interactive resume are the one command, asked differently", () => {
-  expect(revivingCall(SEAT, "x").slug).toBe(interactiveCall(SEAT).slug)
-  expect(revivingCall(SEAT, "x").args).not.toEqual(interactiveCall(SEAT).args)
+  expect(revivingCall(SEAT).slug).toBe(interactiveCall(SEAT).slug)
+  expect(revivingCall(SEAT).args).not.toEqual(interactiveCall(SEAT).args)
 })
 
-test("a stop, a reset, a resume and a notice are four commands", () => {
-  expect(new Set(EVERY.map((one) => one.slug)).size).toBe(4)
+test("a stop, a reset and a resume are three commands", () => {
+  expect(new Set(EVERY.map((one) => one.slug)).size).toBe(3)
 })
 
 test("a call names the seat by its name rather than by its id", () => {

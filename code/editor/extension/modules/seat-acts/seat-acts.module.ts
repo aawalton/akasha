@@ -38,7 +38,7 @@ export const seatActs = {
     },
     {
       invariantKind: "departure",
-      statement: "A revive asks the harness for its prompt rather than composing that prompt here.",
+      statement: "A revive names the notice rather than carrying that notice's words.",
     },
     {
       invariantKind: "departure",

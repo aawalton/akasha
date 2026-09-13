@@ -6,6 +6,7 @@ export const composeNotices = {
   slug: "compose-notices",
   definition: "every notice page rendered as one JSON object of notice slug to text",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

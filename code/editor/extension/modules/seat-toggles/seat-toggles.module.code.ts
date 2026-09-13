@@ -1,6 +1,5 @@
 import type { SeatMode } from "akasha/code/editor/extension/modules/seat-mode/seat-mode.module.code.ts"
 import { SEAT_ATTACH_FN } from "akasha/shell/terminal/modules/terminal-seat-marks/terminal-seat-marks.module.code.ts"
-import { z } from "zod"
 
 export interface SeatToggleState {
   readonly running: boolean
@@ -24,12 +23,6 @@ export function planRunToggle(state: SeatToggleState): readonly SeatStep[] {
 export function planReset(state: SeatToggleState): readonly SeatStep[] {
   const reset: SeatStep = { kind: "reset" }
   return state.place === "interactive" ? [reset, { kind: "attach" }] : [reset]
-}
-
-const EditorReviveZ = z.object({ "editor-revive": z.string().min(1) })
-
-export function resumePromptIn(said: string): string {
-  return EditorReviveZ.parse(JSON.parse(said))["editor-revive"]
 }
 
 const SEAT_NAME_RE = /^[a-z0-9][a-z0-9-]*$/
