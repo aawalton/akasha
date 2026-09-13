@@ -35,6 +35,14 @@ export const subagentReads = {
       statement: "This file goes once the last line it holds has gone back.",
     },
     {
+      invariantKind: "absence",
+      statement: "No sweep reaches a line kept for a subagent that never comes back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a line goes with the seat's own page.",
+    },
+    {
       invariantKind: "departure",
       statement: "Lines are kept outside the commit.",
     },
