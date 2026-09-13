@@ -5,7 +5,7 @@ export const nsync2HomeForChristmas = {
   type: "release",
   slug: "nsync-2-home-for-christmas",
   title: "Home For Christmas",
-  partOfCollections: ["nsync-2"],
+  partOfCollections: ["nsync"],
   position: 0,
   ownLength: 56.10235,
   ownProgress: 56.10235,

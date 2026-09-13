@@ -5,7 +5,7 @@ export const nsync2HomeForChristmasDeluxeVersion = {
   type: "release",
   slug: "nsync-2-home-for-christmas-deluxe-version",
   title: "Home For Christmas (Deluxe Version)",
-  partOfCollections: ["nsync-2"],
+  partOfCollections: ["nsync"],
   position: 0,
   ownLength: 64.355567,
   ownProgress: 64.355567,

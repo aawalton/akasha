@@ -5,7 +5,7 @@ export const nsync2Celebrity = {
   type: "release",
   slug: "nsync-2-celebrity",
   title: "Celebrity",
-  partOfCollections: ["nsync-2"],
+  partOfCollections: ["nsync"],
   position: 0,
   ownLength: 49.769917,
   ownProgress: 49.769917,

@@ -1,9 +1,9 @@
 import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.types.ts"
 
-export const nsync2 = {
+export const nsync = {
   id: "01a06803-676c-7001-b569-8494638e9b28",
   type: "artist",
-  slug: "nsync-2",
+  slug: "nsync",
   title: "*NSYNC",
   partOfCollections: ["artists"],
   position: 0,

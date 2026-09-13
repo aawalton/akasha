@@ -5,7 +5,7 @@ export const nsync2Nsync = {
   type: "release",
   slug: "nsync-2-nsync",
   title: "*NSYNC",
-  partOfCollections: ["nsync-2"],
+  partOfCollections: ["nsync"],
   position: 0,
   ownLength: 56.223917,
   ownProgress: 56.223917,

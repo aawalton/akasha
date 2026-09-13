@@ -5,7 +5,7 @@ export const nsync2TheMeaningOfChristmas = {
   type: "release",
   slug: "nsync-2-the-meaning-of-christmas",
   title: "The Meaning Of Christmas",
-  partOfCollections: ["nsync-2"],
+  partOfCollections: ["nsync"],
   position: 0,
   ownLength: 55.459467,
   ownProgress: 55.459467,
