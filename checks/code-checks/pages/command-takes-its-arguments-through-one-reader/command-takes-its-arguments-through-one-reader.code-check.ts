@@ -145,6 +145,11 @@ export const commandTakesItsArgumentsThroughOneReader = {
       statement:
         "A helper reading a foreign command line is refused where a module judged here exports it.",
     },
+    {
+      invariantKind: "absence",
+      statement:
+        "Words a file run as a script reads under `import.meta.main` are read by nothing here.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
