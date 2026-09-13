@@ -33,7 +33,7 @@ import {
 } from "akasha/pages/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import { useOptionListLookup } from "akasha/pages/ui/supabase/modules/use-option-list-lookup/use-option-list-lookup.module.code.ts"
 import { viewDataOfPage } from "akasha/pages/ui/supabase/modules/view-data-of-page/view-data-of-page.module.code.ts"
-import { deriveViewTargetSlugs } from "akasha/pages/ui-store/query/view-target-slugs/view-target-slugs.module.code.ts"
+import { deriveViewTargetSlugs } from "akasha/pages/ui-store/query/modules/view-target-slugs/view-target-slugs.module.code.ts"
 import { buildPageHref } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
 import {
   type PageTypeSlug,

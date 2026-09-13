@@ -24,20 +24,20 @@ import {
 import {
   transformAssignmentExpression,
   transformAssignmentStatement,
-} from "akasha/design/language/lua-compiler/visit-assignments/visit-assignments.module.code.ts"
-import { transformBinaryOperationHolder } from "akasha/design/language/lua-compiler/visit-binary-operation-deps/visit-binary-operation-deps.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/visit-assignments/visit-assignments.module.code.ts"
+import { transformBinaryOperationHolder } from "akasha/design/language/lua-compiler/modules/visit-binary-operation-deps/visit-binary-operation-deps.module.code.ts"
 import {
   type BitOperator,
   isBitOperator,
   transformBinaryBitOperation,
-} from "akasha/design/language/lua-compiler/visit-bit/visit-bit.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/visit-bit/visit-bit.module.code.ts"
 import {
   isCompoundAssignmentToken,
   transformCompoundAssignmentExpression,
   transformCompoundAssignmentStatement,
   unwrapCompoundAssignmentToken,
-} from "akasha/design/language/lua-compiler/visit-compound/visit-compound.module.code.ts"
-import { requireTransformTypeOfBinaryExpression } from "akasha/design/language/lua-compiler/visit-typeof-deps/visit-typeof-deps.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/visit-compound/visit-compound.module.code.ts"
+import { requireTransformTypeOfBinaryExpression } from "akasha/design/language/lua-compiler/modules/visit-typeof-deps/visit-typeof-deps.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import * as ts from "typescript"
 

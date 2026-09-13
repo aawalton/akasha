@@ -6,60 +6,60 @@ import {
   transformElementAccessExpression,
   transformPropertyAccessExpression,
   transformQualifiedName,
-} from "akasha/design/language/lua-compiler/visit-access/visit-access.module.code.ts"
-import { transformAwaitExpression } from "akasha/design/language/lua-compiler/visit-async-await/visit-async-await.module.code.ts"
-import { transformBlock } from "akasha/design/language/lua-compiler/visit-block/visit-block.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/visit-access/visit-access.module.code.ts"
+import { transformAwaitExpression } from "akasha/design/language/lua-compiler/modules/visit-async-await/visit-async-await.module.code.ts"
+import { transformBlock } from "akasha/design/language/lua-compiler/modules/visit-block/visit-block.module.code.ts"
 import {
   transformBreakStatement,
   transformContinueStatement,
-} from "akasha/design/language/lua-compiler/visit-break-continue/visit-break-continue.module.code.ts"
-import { transformCallExpression } from "akasha/design/language/lua-compiler/visit-call/visit-call.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/visit-break-continue/visit-break-continue.module.code.ts"
+import { transformCallExpression } from "akasha/design/language/lua-compiler/modules/visit-call/visit-call.module.code.ts"
 import {
   transformConditionalExpression,
   transformIfStatement,
-} from "akasha/design/language/lua-compiler/visit-conditional/visit-conditional.module.code.ts"
-import { transformDeleteExpression } from "akasha/design/language/lua-compiler/visit-delete/visit-delete.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/visit-conditional/visit-conditional.module.code.ts"
+import { transformDeleteExpression } from "akasha/design/language/lua-compiler/modules/visit-delete/visit-delete.module.code.ts"
 import {
   transformDoStatement,
   transformWhileStatement,
-} from "akasha/design/language/lua-compiler/visit-do-while/visit-do-while.module.code.ts"
-import { transformEnumDeclaration } from "akasha/design/language/lua-compiler/visit-enum/visit-enum.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/visit-do-while/visit-do-while.module.code.ts"
+import { transformEnumDeclaration } from "akasha/design/language/lua-compiler/modules/visit-enum/visit-enum.module.code.ts"
 import {
   transformThrowStatement,
   transformTryStatement,
-} from "akasha/design/language/lua-compiler/visit-errors/visit-errors.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/visit-errors/visit-errors.module.code.ts"
 import {
   transformExportAssignment,
   transformExportDeclaration,
-} from "akasha/design/language/lua-compiler/visit-export/visit-export.module.code.ts"
-import { transformExpressionStatement } from "akasha/design/language/lua-compiler/visit-expression-statement/visit-expression-statement.module.code.ts"
-import { transformForStatement } from "akasha/design/language/lua-compiler/visit-for/visit-for.module.code.ts"
-import { transformForInStatement } from "akasha/design/language/lua-compiler/visit-for-in/visit-for-in.module.code.ts"
-import { transformForOfStatement } from "akasha/design/language/lua-compiler/visit-for-of/visit-for-of.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/visit-export/visit-export.module.code.ts"
+import { transformExpressionStatement } from "akasha/design/language/lua-compiler/modules/visit-expression-statement/visit-expression-statement.module.code.ts"
+import { transformForStatement } from "akasha/design/language/lua-compiler/modules/visit-for/visit-for.module.code.ts"
+import { transformForInStatement } from "akasha/design/language/lua-compiler/modules/visit-for-in/visit-for-in.module.code.ts"
+import { transformForOfStatement } from "akasha/design/language/lua-compiler/modules/visit-for-of/visit-for-of.module.code.ts"
 import {
   transformFunctionDeclaration,
   transformFunctionLikeDeclaration,
   transformYieldExpression,
-} from "akasha/design/language/lua-compiler/visit-function/visit-function.module.code.ts"
-import { transformIdentifierExpression } from "akasha/design/language/lua-compiler/visit-identifier/visit-identifier.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/visit-function/visit-function.module.code.ts"
+import { transformIdentifierExpression } from "akasha/design/language/lua-compiler/modules/visit-identifier/visit-identifier.module.code.ts"
 import {
   transformExternalModuleReference,
   transformImportDeclaration,
   transformImportEqualsDeclaration,
-} from "akasha/design/language/lua-compiler/visit-import/visit-import.module.code.ts"
-import { literalVisitors } from "akasha/design/language/lua-compiler/visit-literal/visit-literal.module.code.ts"
-import { transformModuleDeclaration } from "akasha/design/language/lua-compiler/visit-namespace/visit-namespace.module.code.ts"
-import { transformNewExpression } from "akasha/design/language/lua-compiler/visit-new/visit-new.module.code.ts"
-import { transformReturnStatement } from "akasha/design/language/lua-compiler/visit-return/visit-return.module.code.ts"
-import { transformSourceFileNode } from "akasha/design/language/lua-compiler/visit-source-file/visit-source-file.module.code.ts"
-import { transformSpreadElement } from "akasha/design/language/lua-compiler/visit-spread/visit-spread.module.code.ts"
-import { transformSwitchStatement } from "akasha/design/language/lua-compiler/visit-switch/visit-switch.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/visit-import/visit-import.module.code.ts"
+import { literalVisitors } from "akasha/design/language/lua-compiler/modules/visit-literal/visit-literal.module.code.ts"
+import { transformModuleDeclaration } from "akasha/design/language/lua-compiler/modules/visit-namespace/visit-namespace.module.code.ts"
+import { transformNewExpression } from "akasha/design/language/lua-compiler/modules/visit-new/visit-new.module.code.ts"
+import { transformReturnStatement } from "akasha/design/language/lua-compiler/modules/visit-return/visit-return.module.code.ts"
+import { transformSourceFileNode } from "akasha/design/language/lua-compiler/modules/visit-source-file/visit-source-file.module.code.ts"
+import { transformSpreadElement } from "akasha/design/language/lua-compiler/modules/visit-spread/visit-spread.module.code.ts"
+import { transformSwitchStatement } from "akasha/design/language/lua-compiler/modules/visit-switch/visit-switch.module.code.ts"
 import {
   transformTaggedTemplateExpression,
   transformTemplateExpression,
-} from "akasha/design/language/lua-compiler/visit-template/visit-template.module.code.ts"
-import { transformTypeOfExpression } from "akasha/design/language/lua-compiler/visit-typeof/visit-typeof.module.code.ts"
-import { typescriptVisitors } from "akasha/design/language/lua-compiler/visit-typescript/visit-typescript.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/visit-template/visit-template.module.code.ts"
+import { transformTypeOfExpression } from "akasha/design/language/lua-compiler/modules/visit-typeof/visit-typeof.module.code.ts"
+import { typescriptVisitors } from "akasha/design/language/lua-compiler/modules/visit-typescript/visit-typescript.module.code.ts"
 import {
   transformPostfixUnaryExpression,
   transformPrefixUnaryExpression,

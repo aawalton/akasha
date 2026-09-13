@@ -9,10 +9,10 @@ import {
   ScopeType,
 } from "akasha/design/language/lua-compiler/modules/scope/scope.module.code.ts"
 import { isAssignmentPattern } from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
-import { transformAssignment } from "akasha/design/language/lua-compiler/visit-assignments/visit-assignments.module.code.ts"
-import { transformBlockOrStatement } from "akasha/design/language/lua-compiler/visit-block/visit-block.module.code.ts"
-import { transformAssignmentPattern } from "akasha/design/language/lua-compiler/visit-destructuring-assignments/visit-destructuring-assignments.module.code.ts"
-import { transformIdentifier } from "akasha/design/language/lua-compiler/visit-identifier/visit-identifier.module.code.ts"
+import { transformAssignment } from "akasha/design/language/lua-compiler/modules/visit-assignments/visit-assignments.module.code.ts"
+import { transformBlockOrStatement } from "akasha/design/language/lua-compiler/modules/visit-block/visit-block.module.code.ts"
+import { transformAssignmentPattern } from "akasha/design/language/lua-compiler/modules/visit-destructuring-assignments/visit-destructuring-assignments.module.code.ts"
+import { transformIdentifier } from "akasha/design/language/lua-compiler/modules/visit-identifier/visit-identifier.module.code.ts"
 import {
   checkVariableDeclarationList,
   transformBindingPattern,

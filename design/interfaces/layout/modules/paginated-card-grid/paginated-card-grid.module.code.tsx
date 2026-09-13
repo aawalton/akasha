@@ -3,7 +3,7 @@
 import { LoadMoreButton } from "akasha/design/interfaces/layout/modules/load-more-button/load-more-button.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import { useLoadMore } from "akasha/design/interfaces/layout/modules/use-load-more/use-load-more.module.code.ts"
-import { VirtualCardGrid } from "akasha/design/interfaces/layout/virtual-card-grid/virtual-card-grid.module.code.tsx"
+import { VirtualCardGrid } from "akasha/design/interfaces/layout/modules/virtual-card-grid/virtual-card-grid.module.code.tsx"
 import { type ReactNode, useEffect, useRef, useState } from "react"
 
 const VIRTUALIZATION_THRESHOLD = 50

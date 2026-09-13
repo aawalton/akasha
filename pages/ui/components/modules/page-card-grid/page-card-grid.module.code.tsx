@@ -4,7 +4,7 @@ import { LoadMoreButton } from "akasha/design/interfaces/layout/modules/load-mor
 import { PanelDefaultOpenProvider } from "akasha/design/interfaces/layout/modules/panel-default-open-context/panel-default-open-context.module.code.tsx"
 import { useColumnCount } from "akasha/design/interfaces/layout/modules/use-column-count/use-column-count.module.code.tsx"
 import { useLoadMore } from "akasha/design/interfaces/layout/modules/use-load-more/use-load-more.module.code.ts"
-import { VirtualCardGrid } from "akasha/design/interfaces/layout/virtual-card-grid/virtual-card-grid.module.code.tsx"
+import { VirtualCardGrid } from "akasha/design/interfaces/layout/modules/virtual-card-grid/virtual-card-grid.module.code.tsx"
 import type { ReactNode } from "react"
 
 const VIRTUALIZATION_THRESHOLD = 50

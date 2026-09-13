@@ -1,6 +1,6 @@
 import type { FunctionVisitor } from "akasha/design/language/lua-compiler/modules/context-visitors/context-visitors.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import { wrapInStatement } from "akasha/design/language/lua-compiler/visit-expression-statement/visit-expression-statement.module.code.ts"
+import { wrapInStatement } from "akasha/design/language/lua-compiler/modules/visit-expression-statement/visit-expression-statement.module.code.ts"
 import * as ts from "typescript"
 
 export const transformVoidExpression: FunctionVisitor<ts.VoidExpression> = (node, context) => {
