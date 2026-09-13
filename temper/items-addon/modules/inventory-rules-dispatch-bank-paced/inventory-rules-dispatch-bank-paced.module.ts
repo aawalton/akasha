@@ -4,21 +4,30 @@ export const inventoryRulesDispatchBankPaced = {
   id: "01a06258-b530-7ef5-9ff0-40428a6c5232",
   type: "module",
   slug: "inventory-rules-dispatch-bank-paced",
-  definition: "the chain of bank moves issued a batch at a time with a cooldown between batches",
+  definition: "sending a visit's bank moves inside the stack-move limit the game enforces",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A batch holds fifty moves, and the next batch waits five seconds.",
+      statement:
+        "The game allows a hundred stack moves in any ten seconds, and that is the budget.",
     },
     {
       invariantKind: "departure",
-      statement: "The five seconds a batch waits are counted from when that batch was issued.",
+      statement: "Withdrawals and deposits spend one budget, because the game counts them as one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The budget is spent by what was sent, so a move sent again spends from it again.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A batch the game has taken every move of is settled at once rather than waited out.",
+        "The budget is measured over the last ten seconds rather than from a window start.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A move is confirmed on its own, so one straggler holds no other move up.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +39,11 @@ export const inventoryRulesDispatchBankPaced = {
     },
     {
       invariantKind: "departure",
-      statement: "A move a cooldown ends with nothing taken from its slot is issued again.",
+      statement: "How long to wait before calling a move failed is its own quantity, and shorter.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A move unconfirmed at that deadline is issued again until its attempts run out.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +59,7 @@ export const inventoryRulesDispatchBankPaced = {
     },
     {
       invariantKind: "departure",
-      statement: "A chain closing the bank ended tells its caller nothing.",
+      statement: "A chain the bank closed on tells its caller it settled all the same.",
     },
   ],
 } as const satisfies Module

@@ -14,8 +14,8 @@ import {
 } from "akasha/temper/items-addon/modules/inventory-rules-dispatch-bank-paced-confirm/inventory-rules-dispatch-bank-paced-confirm.module.code.ts"
 
 const PACED_BANK_NS = `${ADDON_NAME}_PacedBank`
-const PACED_BANK_BATCH_SIZE = 50
-const PACED_BANK_COOLDOWN_MS = 5000
+const STACK_MOVE_LIMIT = 100
+const STACK_MOVE_WINDOW_MS = 10000
 const PACED_BANK_CONFIRM_MS = 1500
 const MAX_PACED_BANK_ATTEMPTS = 4
 
@@ -23,6 +23,11 @@ let pacedBankRunning = false
 
 export function isPacedBankRunning(): boolean {
   return pacedBankRunning
+}
+
+interface StackMoveSend {
+  atMs: number
+  count: number
 }
 
 interface IssuedMove {
@@ -71,8 +76,7 @@ export function startPacedBankChain(
     rounds,
   }
   let firstIssueMs: number | undefined
-  let windowStartMs = 0
-  let issuedInWindow = 0
+  let sends: StackMoveSend[] = []
   let confirmedSinceIssue = 0
   let settleSerial = 0
   let inFlight: IssuedMove[] = []
@@ -99,15 +103,21 @@ export function startPacedBankChain(
 
   function roomInWindow(): number {
     const now = GetGameTimeMilliseconds()
-    if (now - windowStartMs >= PACED_BANK_COOLDOWN_MS) {
-      windowStartMs = now
-      issuedInWindow = 0
+    const kept: StackMoveSend[] = []
+    let sent = 0
+    for (const send of sends) {
+      if (now - send.atMs >= STACK_MOVE_WINDOW_MS) continue
+      kept[kept.length] = send
+      sent += send.count
     }
-    return PACED_BANK_BATCH_SIZE - issuedInWindow
+    sends = kept
+    return STACK_MOVE_LIMIT - sent
   }
 
   function waitForWindow(): undefined {
-    const rest = PACED_BANK_COOLDOWN_MS - (GetGameTimeMilliseconds() - windowStartMs)
+    const oldest = sends[0]
+    const rest =
+      oldest === undefined ? 1 : STACK_MOVE_WINDOW_MS - (GetGameTimeMilliseconds() - oldest.atMs)
     zo_callLater(
       function (this: void): undefined {
         issueBatch()
@@ -150,8 +160,8 @@ export function startPacedBankChain(
       return
     }
     inFlight = batch
-    issuedInWindow += batch.length
     const issuedAt = GetGameTimeMilliseconds()
+    sends[sends.length] = { atMs: issuedAt, count: batch.length }
     if (firstIssueMs === undefined) firstIssueMs = issuedAt
     confirmedSinceIssue = 0
     settleSerial++
