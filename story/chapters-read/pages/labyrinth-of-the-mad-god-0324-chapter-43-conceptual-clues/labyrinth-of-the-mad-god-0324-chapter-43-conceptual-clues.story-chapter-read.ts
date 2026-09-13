@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0324Chapter43ConceptualClues = {
   ownLength: 1650,
   unit: "words",
   publishedAt: "2026-07-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3628195/chapter-43-conceptual-clues",
-  externalId: "3628195",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3628195",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3628195/chapter-43-conceptual-clues",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

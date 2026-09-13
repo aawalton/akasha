@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0257Chapter75CauseForCelebration = {
   ownLength: 1746,
   unit: "words",
   publishedAt: "2025-12-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2822178/chapter-75-cause-for-celebration",
-  externalId: "2822178",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2822178",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2822178/chapter-75-cause-for-celebration",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

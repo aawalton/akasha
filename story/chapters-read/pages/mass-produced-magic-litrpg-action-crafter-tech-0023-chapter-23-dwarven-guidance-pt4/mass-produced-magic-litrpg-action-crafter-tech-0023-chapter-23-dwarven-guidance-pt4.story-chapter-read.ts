@@ -10,9 +10,13 @@ export const massProducedMagicLitrpgActionCrafterTech0023Chapter23DwarvenGuidanc
   ownLength: 2134,
   unit: "words",
   publishedAt: "2024-12-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1942141/chapter-23-dwarven-guidance-pt4",
-  externalId: "1942141",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1942141",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1942141/chapter-23-dwarven-guidance-pt4",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

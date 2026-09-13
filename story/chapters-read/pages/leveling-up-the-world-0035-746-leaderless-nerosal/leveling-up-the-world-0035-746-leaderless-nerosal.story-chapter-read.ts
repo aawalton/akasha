@@ -12,9 +12,13 @@ export const levelingUpTheWorld0035746LeaderlessNerosal = {
   unit: "words",
   completedAt: "2026-06-29T22:41:22.287Z",
   publishedAt: "2023-05-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1216366/746-leaderless-nerosal",
-  externalId: "1216366",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1216366",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1216366/746-leaderless-nerosal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

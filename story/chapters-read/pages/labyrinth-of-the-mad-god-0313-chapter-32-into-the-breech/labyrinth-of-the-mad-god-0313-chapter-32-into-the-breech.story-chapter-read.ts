@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0313Chapter32IntoTheBreech = {
   ownLength: 2468,
   unit: "words",
   publishedAt: "2026-05-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3415052/chapter-32-into-the-breech",
-  externalId: "3415052",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3415052",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3415052/chapter-32-into-the-breech",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

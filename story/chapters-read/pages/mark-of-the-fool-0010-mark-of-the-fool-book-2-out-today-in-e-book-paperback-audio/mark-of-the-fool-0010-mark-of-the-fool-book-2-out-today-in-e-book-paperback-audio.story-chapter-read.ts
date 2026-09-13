@@ -11,9 +11,13 @@ export const markOfTheFool0010MarkOfTheFoolBook2OutTodayInEBookPaperbackAudio = 
   ownLength: 150,
   unit: "words",
   publishedAt: "2023-01-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1084047/mark-of-the-fool-book-2-out-today-in-e-book-paperback",
-  externalId: "1084047",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1084047",
+      externalLink:
+        "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1084047/mark-of-the-fool-book-2-out-today-in-e-book-paperback",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

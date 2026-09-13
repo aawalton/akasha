@@ -10,9 +10,13 @@ export const massProducedMagicLitrpgActionCrafterTech0025Chapter25TheGardens = {
   ownLength: 2032,
   unit: "words",
   publishedAt: "2024-12-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1946982/chapter-25-the-gardens",
-  externalId: "1946982",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1946982",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1946982/chapter-25-the-gardens",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

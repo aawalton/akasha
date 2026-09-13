@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0321Chapter40AmbushersAmbushed = {
   ownLength: 1972,
   unit: "words",
   publishedAt: "2026-06-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3544007/chapter-40-ambushers-ambushed",
-  externalId: "3544007",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3544007",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3544007/chapter-40-ambushers-ambushed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation002121Upgrades = {
   ownLength: 4096,
   unit: "words",
   publishedAt: "2024-07-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1713927/21-upgrades",
-  externalId: "1713927",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1713927",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1713927/21-upgrades",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

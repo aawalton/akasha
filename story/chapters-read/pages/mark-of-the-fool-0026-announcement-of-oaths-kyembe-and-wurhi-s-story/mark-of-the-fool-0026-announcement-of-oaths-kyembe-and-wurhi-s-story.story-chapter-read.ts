@@ -10,9 +10,13 @@ export const markOfTheFool0026AnnouncementOfOathsKyembeAndWurhiSStory = {
   ownLength: 282,
   unit: "words",
   publishedAt: "2025-09-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/2618263/announcement-of-oaths-kyembe-and-wurhis-story",
-  externalId: "2618263",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2618263",
+      externalLink:
+        "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/2618263/announcement-of-oaths-kyembe-and-wurhis-story",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

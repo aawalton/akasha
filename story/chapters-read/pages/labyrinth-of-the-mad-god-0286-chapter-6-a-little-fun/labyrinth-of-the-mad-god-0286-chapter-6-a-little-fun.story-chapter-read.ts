@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0286Chapter6ALittleFun = {
   ownLength: 1877,
   unit: "words",
   publishedAt: "2026-02-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3075532/chapter-6-a-little-fun",
-  externalId: "3075532",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3075532",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3075532/chapter-6-a-little-fun",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

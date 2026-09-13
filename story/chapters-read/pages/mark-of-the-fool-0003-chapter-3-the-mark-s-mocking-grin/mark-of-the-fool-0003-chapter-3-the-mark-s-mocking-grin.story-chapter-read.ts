@@ -12,9 +12,13 @@ export const markOfTheFool0003Chapter3TheMarkSMockingGrin = {
   unit: "words",
   completedAt: "2026-06-29T20:10:53.435Z",
   publishedAt: "2021-04-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/656985/chapter-3-the-marks-mocking-grin",
-  externalId: "656985",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "656985",
+      externalLink:
+        "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/656985/chapter-3-the-marks-mocking-grin",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

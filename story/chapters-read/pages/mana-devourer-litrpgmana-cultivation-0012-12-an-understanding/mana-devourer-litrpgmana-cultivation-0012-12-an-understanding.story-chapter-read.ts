@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation001212AnUnderstanding = {
   ownLength: 3742,
   unit: "words",
   publishedAt: "2024-07-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1702733/12-an-understanding",
-  externalId: "1702733",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1702733",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1702733/12-an-understanding",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

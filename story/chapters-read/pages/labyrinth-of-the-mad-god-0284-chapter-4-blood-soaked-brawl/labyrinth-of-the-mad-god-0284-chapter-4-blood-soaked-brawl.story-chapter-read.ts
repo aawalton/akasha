@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0284Chapter4BloodSoakedBrawl = {
   ownLength: 2608,
   unit: "words",
   publishedAt: "2026-02-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3051316/chapter-4-blood-soaked-brawl",
-  externalId: "3051316",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3051316",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3051316/chapter-4-blood-soaked-brawl",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

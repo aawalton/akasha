@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0289Chapter9AbilityAdvancementSkillTrainingAnd 
   ownLength: 2174,
   unit: "words",
   publishedAt: "2026-03-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3109294/chapter-9-ability-advancement-skill-training-and",
-  externalId: "3109294",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3109294",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3109294/chapter-9-ability-advancement-skill-training-and",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

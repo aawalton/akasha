@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0294Chapter14DiscerningEye = {
   ownLength: 2858,
   unit: "words",
   publishedAt: "2026-03-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3174340/chapter-14-discerning-eye",
-  externalId: "3174340",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3174340",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3174340/chapter-14-discerning-eye",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

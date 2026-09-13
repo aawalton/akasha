@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0254Chapter72LendingAHand = {
   ownLength: 1739,
   unit: "words",
   publishedAt: "2025-11-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2801421/chapter-72-lending-a-hand",
-  externalId: "2801421",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2801421",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2801421/chapter-72-lending-a-hand",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

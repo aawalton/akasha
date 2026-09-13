@@ -10,9 +10,13 @@ export const lazyLoopsAnIdleLitrpgOpToArchmage004242Loop1Part22 = {
   ownLength: 2129,
   unit: "words",
   publishedAt: "2026-07-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/168961/lazy-loops-an-idle-litrpg-op-to-archmage/chapter/3626820/42-loop-1-part-22",
-  externalId: "3626820",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3626820",
+      externalLink:
+        "https://www.royalroad.com/fiction/168961/lazy-loops-an-idle-litrpg-op-to-archmage/chapter/3626820/42-loop-1-part-22",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

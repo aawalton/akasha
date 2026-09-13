@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0307Chapter26LightShieldAndWand = {
   ownLength: 1943,
   unit: "words",
   publishedAt: "2026-04-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3325877/chapter-26-light-shield-and-wand",
-  externalId: "3325877",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3325877",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3325877/chapter-26-light-shield-and-wand",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

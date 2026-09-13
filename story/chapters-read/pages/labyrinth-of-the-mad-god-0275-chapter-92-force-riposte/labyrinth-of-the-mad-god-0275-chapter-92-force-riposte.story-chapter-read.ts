@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0275Chapter92ForceRiposte = {
   ownLength: 1512,
   unit: "words",
   publishedAt: "2026-01-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2943248/chapter-92-force-riposte",
-  externalId: "2943248",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2943248",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2943248/chapter-92-force-riposte",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

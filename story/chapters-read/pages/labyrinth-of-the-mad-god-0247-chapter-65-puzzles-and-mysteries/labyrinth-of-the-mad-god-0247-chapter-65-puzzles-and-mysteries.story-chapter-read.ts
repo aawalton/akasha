@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0247Chapter65PuzzlesAndMysteries = {
   ownLength: 2053,
   unit: "words",
   publishedAt: "2025-11-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2755559/chapter-65-puzzles-and-mysteries",
-  externalId: "2755559",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2755559",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2755559/chapter-65-puzzles-and-mysteries",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

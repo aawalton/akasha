@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0314Chapter33SophiasStruggle = {
   ownLength: 1484,
   unit: "words",
   publishedAt: "2026-05-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3433014/chapter-33-sophias-struggle",
-  externalId: "3433014",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3433014",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3433014/chapter-33-sophias-struggle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

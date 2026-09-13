@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0263Chapter80MetalAndMana = {
   ownLength: 1715,
   unit: "words",
   publishedAt: "2025-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2856880/chapter-80-metal-and-mana",
-  externalId: "2856880",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2856880",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2856880/chapter-80-metal-and-mana",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

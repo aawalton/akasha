@@ -10,9 +10,13 @@ export const markOfTheFool0031MarkOfTheWebtoonNotAnAprilFoolSJokeFoolWebtoonJu =
   ownLength: 373,
   unit: "words",
   publishedAt: "2026-04-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/3220550/mark-of-the-webtoon-not-an-april-fools-joke-fool",
-  externalId: "3220550",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3220550",
+      externalLink:
+        "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/3220550/mark-of-the-webtoon-not-an-april-fools-joke-fool",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const levelingUpTheWorld0024558TrueHunter = {
   unit: "words",
   completedAt: "2026-06-29T22:40:59.543Z",
   publishedAt: "2022-07-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/960331/558-true-hunter",
-  externalId: "960331",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "960331",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/960331/558-true-hunter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0298Chapter18SkitteringSkirmish = {
   ownLength: 2687,
   unit: "words",
   publishedAt: "2026-03-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3211604/chapter-18-skittering-skirmish",
-  externalId: "3211604",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3211604",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3211604/chapter-18-skittering-skirmish",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

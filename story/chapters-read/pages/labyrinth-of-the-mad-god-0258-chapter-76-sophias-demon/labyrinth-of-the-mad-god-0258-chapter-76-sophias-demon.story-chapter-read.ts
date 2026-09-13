@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0258Chapter76SophiasDemon = {
   ownLength: 1710,
   unit: "words",
   publishedAt: "2025-12-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2830654/chapter-76-sophias-demon",
-  externalId: "2830654",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2830654",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2830654/chapter-76-sophias-demon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

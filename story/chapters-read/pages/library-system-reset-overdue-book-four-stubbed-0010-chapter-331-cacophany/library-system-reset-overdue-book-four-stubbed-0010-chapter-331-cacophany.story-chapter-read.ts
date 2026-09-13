@@ -10,9 +10,13 @@ export const librarySystemResetOverdueBookFourStubbed0010Chapter331Cacophany = {
   ownLength: 2228,
   unit: "words",
   publishedAt: "2025-10-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/2701203/chapter-331-cacophany",
-  externalId: "2701203",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2701203",
+      externalLink:
+        "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/2701203/chapter-331-cacophany",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

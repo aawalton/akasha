@@ -12,9 +12,13 @@ export const levelingUpTheWorld0029651VillageMaster = {
   unit: "words",
   completedAt: "2026-06-29T22:41:09.784Z",
   publishedAt: "2022-12-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1058190/651-village-master",
-  externalId: "1058190",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1058190",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1058190/651-village-master",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation00011ARudeAwakening = {
   ownLength: 4446,
   unit: "words",
   publishedAt: "2024-06-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1697774/1-a-rude-awakening",
-  externalId: "1697774",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1697774",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1697774/1-a-rude-awakening",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

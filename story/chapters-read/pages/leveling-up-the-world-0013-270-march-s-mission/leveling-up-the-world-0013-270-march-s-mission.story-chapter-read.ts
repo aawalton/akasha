@@ -12,9 +12,13 @@ export const levelingUpTheWorld0013270MarchSMission = {
   unit: "words",
   completedAt: "2026-06-29T22:40:34.876Z",
   publishedAt: "2021-09-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/758068/270-marchs-mission",
-  externalId: "758068",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "758068",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/758068/270-marchs-mission",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

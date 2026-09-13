@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0266Chapter83Nightsong = {
   ownLength: 1754,
   unit: "words",
   publishedAt: "2025-12-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2877209/chapter-83-nightsong",
-  externalId: "2877209",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2877209",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2877209/chapter-83-nightsong",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

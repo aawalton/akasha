@@ -12,9 +12,13 @@ export const levelingUpTheWorld0023472NewAwakeningTrial = {
   unit: "words",
   completedAt: "2026-06-29T22:40:56.493Z",
   publishedAt: "2022-04-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/893955/472-new-awakening-trial",
-  externalId: "893955",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "893955",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/893955/472-new-awakening-trial",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

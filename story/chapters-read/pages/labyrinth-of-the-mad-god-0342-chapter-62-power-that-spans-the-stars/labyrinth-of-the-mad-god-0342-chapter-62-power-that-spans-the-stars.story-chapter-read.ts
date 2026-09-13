@@ -8,11 +8,15 @@ export const labyrinthOfTheMadGod0342Chapter62PowerThatSpansTheStars = {
   position: 342,
   publishedAt: "2026-09-07",
   unit: "words",
-  externalId: "3926295",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3926295",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3926295/chapter-62-power-that-spans-the-stars",
+    },
+  ],
   title: "Chapter 62: Power that Spans the Stars",
   ownLength: 2888,
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3926295/chapter-62-power-that-spans-the-stars",
   prose: "txt",
 } as const satisfies StoryChapterRead

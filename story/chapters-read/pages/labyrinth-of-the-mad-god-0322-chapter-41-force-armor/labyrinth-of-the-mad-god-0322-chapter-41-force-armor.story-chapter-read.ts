@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0322Chapter41ForceArmor = {
   ownLength: 2007,
   unit: "words",
   publishedAt: "2026-06-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3562747/chapter-41-force-armor",
-  externalId: "3562747",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3562747",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3562747/chapter-41-force-armor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

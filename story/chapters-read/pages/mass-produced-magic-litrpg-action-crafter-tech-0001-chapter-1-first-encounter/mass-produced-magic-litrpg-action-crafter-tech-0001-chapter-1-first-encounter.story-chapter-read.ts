@@ -10,9 +10,13 @@ export const massProducedMagicLitrpgActionCrafterTech0001Chapter1FirstEncounter 
   ownLength: 1237,
   unit: "words",
   publishedAt: "2024-11-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1908006/chapter-1-first-encounter",
-  externalId: "1908006",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1908006",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1908006/chapter-1-first-encounter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

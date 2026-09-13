@@ -11,9 +11,13 @@ export const markOfTheFool0015MarkOfTheFool7LaunchesInEbookAndPaperback = {
   ownProgress: 6,
   unit: "words",
   publishedAt: "2024-05-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1637393/mark-of-the-fool-7-launches-in-ebook-and-paperback",
-  externalId: "1637393",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1637393",
+      externalLink:
+        "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1637393/mark-of-the-fool-7-launches-in-ebook-and-paperback",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

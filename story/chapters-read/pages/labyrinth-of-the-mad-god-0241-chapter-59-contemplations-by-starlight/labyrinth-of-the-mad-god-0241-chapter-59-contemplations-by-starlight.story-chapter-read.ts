@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0241Chapter59ContemplationsByStarlight = {
   ownLength: 1467,
   unit: "words",
   publishedAt: "2025-10-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2714936/chapter-59-contemplations-by-starlight",
-  externalId: "2714936",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2714936",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2714936/chapter-59-contemplations-by-starlight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

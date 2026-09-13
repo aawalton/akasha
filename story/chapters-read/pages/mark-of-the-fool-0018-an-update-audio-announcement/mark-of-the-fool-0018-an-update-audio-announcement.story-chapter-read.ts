@@ -10,9 +10,13 @@ export const markOfTheFool0018AnUpdateAudioAnnouncement = {
   ownLength: 322,
   unit: "words",
   publishedAt: "2024-12-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1951195/an-update-audio-announcement",
-  externalId: "1951195",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1951195",
+      externalLink:
+        "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1951195/an-update-audio-announcement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

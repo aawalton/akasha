@@ -12,9 +12,13 @@ export const levelingUpTheWorld0016382GriffinNests = {
   unit: "words",
   completedAt: "2026-06-29T22:40:41.804Z",
   publishedAt: "2022-01-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/829225/382-griffin-nests",
-  externalId: "829225",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "829225",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/829225/382-griffin-nests",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation004545Contract = {
   ownLength: 2926,
   unit: "words",
   publishedAt: "2024-08-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1744708/45-contract",
-  externalId: "1744708",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1744708",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1744708/45-contract",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

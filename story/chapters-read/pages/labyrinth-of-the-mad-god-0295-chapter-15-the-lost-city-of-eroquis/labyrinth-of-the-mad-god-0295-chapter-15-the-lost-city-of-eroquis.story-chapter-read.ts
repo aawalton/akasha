@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0295Chapter15TheLostCityOfEroquis = {
   ownLength: 1796,
   unit: "words",
   publishedAt: "2026-03-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3185131/chapter-15-the-lost-city-of-eroquis",
-  externalId: "3185131",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3185131",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3185131/chapter-15-the-lost-city-of-eroquis",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

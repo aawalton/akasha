@@ -10,9 +10,13 @@ export const markOfTheFool0017FoolRelatedAnnouncementMarkOfTheFool8OutInEbookAn 
   ownLength: 173,
   unit: "words",
   publishedAt: "2024-09-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1808687/fool-related-announcement-mark-of-the-fool-8-out",
-  externalId: "1808687",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1808687",
+      externalLink:
+        "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1808687/fool-related-announcement-mark-of-the-fool-8-out",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

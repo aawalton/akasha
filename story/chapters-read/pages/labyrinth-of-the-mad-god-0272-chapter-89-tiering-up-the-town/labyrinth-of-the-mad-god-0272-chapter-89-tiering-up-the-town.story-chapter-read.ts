@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0272Chapter89TieringUpTheTown = {
   ownLength: 2083,
   unit: "words",
   publishedAt: "2026-01-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2921134/chapter-89-tiering-up-the-town",
-  externalId: "2921134",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2921134",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2921134/chapter-89-tiering-up-the-town",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

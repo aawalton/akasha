@@ -12,9 +12,13 @@ export const levelingUpTheWorld0039847EastDomain = {
   unit: "words",
   completedAt: "2026-06-29T22:41:31.235Z",
   publishedAt: "2023-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1446091/847-east-domain",
-  externalId: "1446091",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1446091",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1446091/847-east-domain",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0267Chapter84ShadyCave = {
   ownLength: 1603,
   unit: "words",
   publishedAt: "2025-12-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2882888/chapter-84-shady-cave",
-  externalId: "2882888",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2882888",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2882888/chapter-84-shady-cave",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

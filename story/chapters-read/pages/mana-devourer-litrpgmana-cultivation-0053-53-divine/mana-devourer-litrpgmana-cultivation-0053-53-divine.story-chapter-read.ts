@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation005353Divine = {
   ownLength: 3189,
   unit: "words",
   publishedAt: "2024-09-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1819162/53-divine",
-  externalId: "1819162",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1819162",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1819162/53-divine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

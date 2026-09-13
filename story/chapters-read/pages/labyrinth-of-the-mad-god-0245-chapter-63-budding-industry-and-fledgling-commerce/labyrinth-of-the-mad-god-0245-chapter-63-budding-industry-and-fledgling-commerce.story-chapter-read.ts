@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0245Chapter63BuddingIndustryAndFledglingCommerc
   ownLength: 2097,
   unit: "words",
   publishedAt: "2025-11-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2741270/chapter-63-budding-industry-and-fledgling-commerce",
-  externalId: "2741270",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2741270",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2741270/chapter-63-budding-industry-and-fledgling-commerce",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

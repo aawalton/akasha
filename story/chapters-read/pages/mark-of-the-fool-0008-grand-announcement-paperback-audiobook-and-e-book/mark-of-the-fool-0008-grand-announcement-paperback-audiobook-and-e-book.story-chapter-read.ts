@@ -11,9 +11,13 @@ export const markOfTheFool0008GrandAnnouncementPaperbackAudiobookAndEBook = {
   ownProgress: 206,
   unit: "words",
   publishedAt: "2022-06-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/934176/grand-announcement-paperback-audiobook-and-e-book",
-  externalId: "934176",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "934176",
+      externalLink:
+        "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/934176/grand-announcement-paperback-audiobook-and-e-book",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

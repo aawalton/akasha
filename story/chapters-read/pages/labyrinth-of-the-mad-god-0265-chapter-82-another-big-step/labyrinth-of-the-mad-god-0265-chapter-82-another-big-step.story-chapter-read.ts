@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0265Chapter82AnotherBigStep = {
   ownLength: 1429,
   unit: "words",
   publishedAt: "2025-12-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2870978/chapter-82-another-big-step",
-  externalId: "2870978",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2870978",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2870978/chapter-82-another-big-step",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

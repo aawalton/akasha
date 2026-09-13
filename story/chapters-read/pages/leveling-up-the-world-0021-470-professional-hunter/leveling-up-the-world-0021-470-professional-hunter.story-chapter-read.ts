@@ -12,9 +12,13 @@ export const levelingUpTheWorld0021470ProfessionalHunter = {
   unit: "words",
   completedAt: "2026-06-29T22:40:52.457Z",
   publishedAt: "2022-04-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/892517/470-professional-hunter",
-  externalId: "892517",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "892517",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/892517/470-professional-hunter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

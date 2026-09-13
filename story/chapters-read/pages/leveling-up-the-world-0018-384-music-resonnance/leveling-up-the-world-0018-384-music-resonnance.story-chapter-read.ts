@@ -12,9 +12,13 @@ export const levelingUpTheWorld0018384MusicResonnance = {
   unit: "words",
   completedAt: "2026-06-29T22:40:45.902Z",
   publishedAt: "2022-01-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/830554/384-music-resonnance",
-  externalId: "830554",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "830554",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/830554/384-music-resonnance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

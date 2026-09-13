@@ -12,9 +12,13 @@ export const levelingUpTheWorld0037845AChaliceRealmEncounter = {
   unit: "words",
   completedAt: "2026-06-29T22:41:26.507Z",
   publishedAt: "2023-12-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1444248/845-a-chalice-realm-encounter",
-  externalId: "1444248",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1444248",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1444248/845-a-chalice-realm-encounter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

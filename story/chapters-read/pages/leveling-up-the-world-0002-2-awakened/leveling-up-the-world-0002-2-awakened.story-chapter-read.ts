@@ -12,9 +12,13 @@ export const levelingUpTheWorld00022Awakened = {
   unit: "words",
   completedAt: "2026-06-29T22:40:11.819Z",
   publishedAt: "2021-01-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/609169/2-awakened",
-  externalId: "609169",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "609169",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/609169/2-awakened",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

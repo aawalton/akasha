@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0285Chapter5PredatorVersusPredator = {
   ownLength: 2715,
   unit: "words",
   publishedAt: "2026-02-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3060531/chapter-5-predator-versus-predator",
-  externalId: "3060531",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3060531",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3060531/chapter-5-predator-versus-predator",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

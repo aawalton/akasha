@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation001616DeathCart = {
   ownLength: 3528,
   unit: "words",
   publishedAt: "2024-07-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1707264/16-death-cart",
-  externalId: "1707264",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1707264",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1707264/16-death-cart",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

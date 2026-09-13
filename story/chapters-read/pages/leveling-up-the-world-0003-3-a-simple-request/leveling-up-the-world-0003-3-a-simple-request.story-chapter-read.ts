@@ -12,9 +12,13 @@ export const levelingUpTheWorld00033ASimpleRequest = {
   unit: "words",
   completedAt: "2026-06-29T22:40:13.653Z",
   publishedAt: "2021-01-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/609558/3-a-simple-request",
-  externalId: "609558",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "609558",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/609558/3-a-simple-request",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

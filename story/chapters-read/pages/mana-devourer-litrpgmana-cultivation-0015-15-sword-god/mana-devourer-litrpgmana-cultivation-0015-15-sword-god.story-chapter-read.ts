@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation001515SwordGod = {
   ownLength: 3497,
   unit: "words",
   publishedAt: "2024-07-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1705861/15-sword-god",
-  externalId: "1705861",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1705861",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1705861/15-sword-god",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const levelingUpTheWorld0032654ImposedRestrictions = {
   unit: "words",
   completedAt: "2026-06-29T22:41:16.084Z",
   publishedAt: "2022-12-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1060563/654-imposed-restrictions",
-  externalId: "1060563",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1060563",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1060563/654-imposed-restrictions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

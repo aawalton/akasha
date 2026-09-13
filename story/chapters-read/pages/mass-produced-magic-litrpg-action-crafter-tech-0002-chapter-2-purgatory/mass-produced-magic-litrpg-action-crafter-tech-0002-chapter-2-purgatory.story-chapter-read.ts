@@ -10,9 +10,13 @@ export const massProducedMagicLitrpgActionCrafterTech0002Chapter2Purgatory = {
   ownLength: 2379,
   unit: "words",
   publishedAt: "2024-11-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1908012/chapter-2-purgatory",
-  externalId: "1908012",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1908012",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1908012/chapter-2-purgatory",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

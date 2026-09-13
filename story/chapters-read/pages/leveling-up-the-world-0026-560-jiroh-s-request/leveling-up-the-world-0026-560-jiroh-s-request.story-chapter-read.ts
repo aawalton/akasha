@@ -12,9 +12,13 @@ export const levelingUpTheWorld0026560JirohSRequest = {
   unit: "words",
   completedAt: "2026-06-29T22:41:03.473Z",
   publishedAt: "2022-08-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/961909/560-jirohs-request",
-  externalId: "961909",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "961909",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/961909/560-jirohs-request",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

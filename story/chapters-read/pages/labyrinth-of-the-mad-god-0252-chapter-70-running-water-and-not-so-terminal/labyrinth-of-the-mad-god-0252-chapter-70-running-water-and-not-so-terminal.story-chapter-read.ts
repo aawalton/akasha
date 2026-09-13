@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0252Chapter70RunningWaterAndNotSoTerminal = {
   ownLength: 2060,
   unit: "words",
   publishedAt: "2025-11-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2789607/chapter-70-running-water-and-not-so-terminal-velocity",
-  externalId: "2789607",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2789607",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2789607/chapter-70-running-water-and-not-so-terminal-velocity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

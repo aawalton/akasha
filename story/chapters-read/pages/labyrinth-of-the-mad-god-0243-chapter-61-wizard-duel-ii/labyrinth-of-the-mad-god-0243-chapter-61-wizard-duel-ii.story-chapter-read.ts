@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0243Chapter61WizardDuelIi = {
   ownLength: 1502,
   unit: "words",
   publishedAt: "2025-11-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2729505/chapter-61-wizard-duel-ii",
-  externalId: "2729505",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2729505",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2729505/chapter-61-wizard-duel-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

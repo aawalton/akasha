@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0331Chapter50TheDevouringBlade = {
   ownLength: 1664,
   unit: "words",
   publishedAt: "2026-07-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3733956/chapter-50-the-devouring-blade",
-  externalId: "3733956",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3733956",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3733956/chapter-50-the-devouring-blade",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0327Chapter46XuthusReturn = {
   ownLength: 2134,
   unit: "words",
   publishedAt: "2026-07-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3672386/chapter-46-xuthus-return",
-  externalId: "3672386",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3672386",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3672386/chapter-46-xuthus-return",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

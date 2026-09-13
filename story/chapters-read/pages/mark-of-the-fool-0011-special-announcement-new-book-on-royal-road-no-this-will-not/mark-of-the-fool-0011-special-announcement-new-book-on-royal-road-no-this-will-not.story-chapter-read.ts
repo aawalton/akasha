@@ -10,9 +10,13 @@ export const markOfTheFool0011SpecialAnnouncementNewBookOnRoyalRoadNoThisWillNot
   ownLength: 180,
   unit: "words",
   publishedAt: "2023-08-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1319037/special-announcement-new-book-on-royal-road-no",
-  externalId: "1319037",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1319037",
+      externalLink:
+        "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1319037/special-announcement-new-book-on-royal-road-no",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

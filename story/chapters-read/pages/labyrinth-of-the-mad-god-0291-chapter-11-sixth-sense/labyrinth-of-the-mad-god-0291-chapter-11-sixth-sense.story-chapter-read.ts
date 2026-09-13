@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0291Chapter11SixthSense = {
   ownLength: 1973,
   unit: "words",
   publishedAt: "2026-03-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3133995/chapter-11-sixth-sense",
-  externalId: "3133995",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3133995",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3133995/chapter-11-sixth-sense",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0268Chapter85GrimTidings = {
   ownLength: 1703,
   unit: "words",
   publishedAt: "2025-12-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2890727/chapter-85-grim-tidings",
-  externalId: "2890727",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2890727",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2890727/chapter-85-grim-tidings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

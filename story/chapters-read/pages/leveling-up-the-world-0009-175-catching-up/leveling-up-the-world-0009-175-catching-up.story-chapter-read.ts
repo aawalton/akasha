@@ -12,9 +12,13 @@ export const levelingUpTheWorld0009175CatchingUp = {
   unit: "words",
   completedAt: "2026-06-29T22:40:26.306Z",
   publishedAt: "2021-06-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/705494/175-catching-up",
-  externalId: "705494",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "705494",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/705494/175-catching-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

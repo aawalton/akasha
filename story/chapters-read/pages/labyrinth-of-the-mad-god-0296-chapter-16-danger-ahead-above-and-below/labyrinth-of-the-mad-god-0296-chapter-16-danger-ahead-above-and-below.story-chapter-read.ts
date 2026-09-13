@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0296Chapter16DangerAheadAboveAndBelow = {
   ownLength: 2094,
   unit: "words",
   publishedAt: "2026-03-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3184896/chapter-16-danger-ahead-above-and-below",
-  externalId: "3184896",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3184896",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3184896/chapter-16-danger-ahead-above-and-below",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

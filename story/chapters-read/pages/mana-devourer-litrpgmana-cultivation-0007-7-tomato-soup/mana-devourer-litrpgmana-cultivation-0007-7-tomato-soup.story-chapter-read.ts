@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation00077TomatoSoup = {
   ownLength: 2512,
   unit: "words",
   publishedAt: "2024-06-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1697784/7-tomato-soup",
-  externalId: "1697784",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1697784",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1697784/7-tomato-soup",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

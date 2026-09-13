@@ -12,9 +12,13 @@ export const levelingUpTheWorld0040848AgentsOfTheOrder = {
   unit: "words",
   completedAt: "2026-06-29T22:41:33.305Z",
   publishedAt: "2023-12-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1448226/848-agents-of-the-order",
-  externalId: "1448226",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1448226",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1448226/848-agents-of-the-order",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

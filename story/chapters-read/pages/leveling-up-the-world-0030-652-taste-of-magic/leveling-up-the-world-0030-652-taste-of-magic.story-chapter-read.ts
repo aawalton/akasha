@@ -12,9 +12,13 @@ export const levelingUpTheWorld0030652TasteOfMagic = {
   unit: "words",
   completedAt: "2026-06-29T22:41:11.907Z",
   publishedAt: "2022-12-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1059143/652-taste-of-magic",
-  externalId: "1059143",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1059143",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1059143/652-taste-of-magic",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

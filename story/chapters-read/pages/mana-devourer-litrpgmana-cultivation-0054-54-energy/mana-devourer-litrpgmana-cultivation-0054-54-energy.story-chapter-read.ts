@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation005454Energy = {
   ownLength: 2856,
   unit: "words",
   publishedAt: "2024-11-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1920982/54-energy",
-  externalId: "1920982",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1920982",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1920982/54-energy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const massProducedMagicLitrpgActionCrafterTech0027Chapter27TheGardensPt3 
   ownLength: 2165,
   unit: "words",
   publishedAt: "2024-12-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1953688/chapter-27-the-gardens-pt-3",
-  externalId: "1953688",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1953688",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1953688/chapter-27-the-gardens-pt-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

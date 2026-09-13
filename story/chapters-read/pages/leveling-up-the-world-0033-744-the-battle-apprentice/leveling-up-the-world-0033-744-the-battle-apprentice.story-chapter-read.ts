@@ -12,9 +12,13 @@ export const levelingUpTheWorld0033744TheBattleApprentice = {
   unit: "words",
   completedAt: "2026-06-29T22:41:18.279Z",
   publishedAt: "2023-05-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1214297/744-the-battle-apprentice",
-  externalId: "1214297",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1214297",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1214297/744-the-battle-apprentice",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

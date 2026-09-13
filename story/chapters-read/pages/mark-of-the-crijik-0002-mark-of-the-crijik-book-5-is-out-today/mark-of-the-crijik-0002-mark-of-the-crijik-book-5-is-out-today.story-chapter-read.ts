@@ -10,9 +10,13 @@ export const markOfTheCrijik0002MarkOfTheCrijikBook5IsOutToday = {
   ownLength: 373,
   unit: "words",
   publishedAt: "2024-03-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/50243/mark-of-the-crijik/chapter/1544417/mark-of-the-crijik-book-5-is-out-today",
-  externalId: "1544417",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1544417",
+      externalLink:
+        "https://www.royalroad.com/fiction/50243/mark-of-the-crijik/chapter/1544417/mark-of-the-crijik-book-5-is-out-today",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

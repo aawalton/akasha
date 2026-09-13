@@ -12,9 +12,13 @@ export const levelingUpTheWorld0004AdventureArcChapter85JourneyThroughTheWildern
   unit: "words",
   completedAt: "2026-06-29T22:40:15.527Z",
   publishedAt: "2021-03-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/653568/adventure-arc-chapter-85-journey-through-the-wilderness",
-  externalId: "653568",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "653568",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/653568/adventure-arc-chapter-85-journey-through-the-wilderness",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

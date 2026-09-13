@@ -12,9 +12,13 @@ export const markOfTheFool0006Chapter6CoinTricksAndFireLight = {
   unit: "words",
   completedAt: "2026-06-29T20:10:59.188Z",
   publishedAt: "2021-04-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/658603/chapter-6-coin-tricks-and-fire-light",
-  externalId: "658603",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "658603",
+      externalLink:
+        "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/658603/chapter-6-coin-tricks-and-fire-light",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

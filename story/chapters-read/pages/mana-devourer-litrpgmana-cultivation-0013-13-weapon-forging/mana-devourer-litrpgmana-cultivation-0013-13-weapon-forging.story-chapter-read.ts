@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation001313WeaponForging = {
   ownLength: 3703,
   unit: "words",
   publishedAt: "2024-07-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1703116/13-weapon-forging",
-  externalId: "1703116",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1703116",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1703116/13-weapon-forging",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

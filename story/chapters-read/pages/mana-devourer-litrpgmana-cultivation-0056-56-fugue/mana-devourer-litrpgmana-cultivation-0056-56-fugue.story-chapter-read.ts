@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation005656Fugue = {
   ownLength: 2544,
   unit: "words",
   publishedAt: "2025-07-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/2443675/56-fugue",
-  externalId: "2443675",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2443675",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/2443675/56-fugue",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

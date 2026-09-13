@@ -12,9 +12,13 @@ export const levelingUpTheWorld0038846FourthMoonstone = {
   unit: "words",
   completedAt: "2026-06-29T22:41:29.322Z",
   publishedAt: "2023-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1445553/846-fourth-moonstone",
-  externalId: "1445553",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1445553",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1445553/846-fourth-moonstone",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

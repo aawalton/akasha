@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0269Chapter86EmergencyQuest = {
   ownLength: 1811,
   unit: "words",
   publishedAt: "2025-12-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2896452/chapter-86-emergency-quest",
-  externalId: "2896452",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2896452",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2896452/chapter-86-emergency-quest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

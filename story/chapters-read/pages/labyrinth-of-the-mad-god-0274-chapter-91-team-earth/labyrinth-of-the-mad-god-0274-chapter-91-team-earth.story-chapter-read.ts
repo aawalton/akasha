@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0274Chapter91TeamEarth = {
   ownLength: 2264,
   unit: "words",
   publishedAt: "2026-01-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2936654/chapter-91-team-earth",
-  externalId: "2936654",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2936654",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2936654/chapter-91-team-earth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

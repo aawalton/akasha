@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0277Chapter94NoRegretsForWordsUnspoken = {
   ownLength: 2136,
   unit: "words",
   publishedAt: "2026-01-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2958970/chapter-94-no-regrets-for-words-unspoken",
-  externalId: "2958970",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2958970",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2958970/chapter-94-no-regrets-for-words-unspoken",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

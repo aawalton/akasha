@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0255Chapter73BadTimingAndNewFriends = {
   ownLength: 1625,
   unit: "words",
   publishedAt: "2025-12-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2809893/chapter-73-bad-timing-and-new-friends",
-  externalId: "2809893",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2809893",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2809893/chapter-73-bad-timing-and-new-friends",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

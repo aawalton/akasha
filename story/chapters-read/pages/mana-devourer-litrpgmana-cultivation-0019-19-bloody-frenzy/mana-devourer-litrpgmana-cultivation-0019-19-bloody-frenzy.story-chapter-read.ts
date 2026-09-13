@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation001919BloodyFrenzy = {
   ownLength: 3037,
   unit: "words",
   publishedAt: "2024-07-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1711241/19-bloody-frenzy",
-  externalId: "1711241",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1711241",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1711241/19-bloody-frenzy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

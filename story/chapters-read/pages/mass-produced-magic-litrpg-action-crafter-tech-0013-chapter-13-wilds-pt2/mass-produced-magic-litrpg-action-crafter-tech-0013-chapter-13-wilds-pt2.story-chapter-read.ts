@@ -10,9 +10,13 @@ export const massProducedMagicLitrpgActionCrafterTech0013Chapter13WildsPt2 = {
   ownLength: 1974,
   unit: "words",
   publishedAt: "2024-11-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1909990/chapter-13-wilds-pt2",
-  externalId: "1909990",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1909990",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1909990/chapter-13-wilds-pt2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

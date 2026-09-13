@@ -10,9 +10,13 @@ export const librarySystemResetOverdueBookFourStubbed0008Chapter265NonethelessSt
   ownLength: 2207,
   unit: "words",
   publishedAt: "2025-02-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/2088102/chapter-265-nonetheless-start-book-5",
-  externalId: "2088102",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2088102",
+      externalLink:
+        "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/2088102/chapter-265-nonetheless-start-book-5",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

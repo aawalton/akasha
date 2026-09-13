@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0262Chapter79UnexpectedPublishment = {
   ownLength: 1555,
   unit: "words",
   publishedAt: "2025-12-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2850837/chapter-79-unexpected-publishment",
-  externalId: "2850837",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2850837",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2850837/chapter-79-unexpected-publishment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

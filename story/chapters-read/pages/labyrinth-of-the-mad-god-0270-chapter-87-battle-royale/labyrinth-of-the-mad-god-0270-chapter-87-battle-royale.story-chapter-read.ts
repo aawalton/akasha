@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0270Chapter87BattleRoyale = {
   ownLength: 1818,
   unit: "words",
   publishedAt: "2026-01-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2906089/chapter-87-battle-royale",
-  externalId: "2906089",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2906089",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2906089/chapter-87-battle-royale",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

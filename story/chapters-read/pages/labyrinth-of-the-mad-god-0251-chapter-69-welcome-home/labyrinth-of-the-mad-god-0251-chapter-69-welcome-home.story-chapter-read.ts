@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0251Chapter69WelcomeHome = {
   ownLength: 2867,
   unit: "words",
   publishedAt: "2025-11-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2783752/chapter-69-welcome-home",
-  externalId: "2783752",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2783752",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2783752/chapter-69-welcome-home",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

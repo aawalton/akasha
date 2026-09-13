@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0279EpilogueWrathOfTheMadGod = {
   ownLength: 1849,
   unit: "words",
   publishedAt: "2026-01-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2972286/epilogue-wrath-of-the-mad-god",
-  externalId: "2972286",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2972286",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2972286/epilogue-wrath-of-the-mad-god",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

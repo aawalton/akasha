@@ -12,9 +12,13 @@ export const markOfTheFool0016MarkOfTheFool6AudiobookLaunchChapterLaterTodayAfte
   unit: "words",
   completedAt: "2026-07-14T12:47:27.515Z",
   publishedAt: "2024-07-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1739697/mark-of-the-fool-6-audiobook-launch-chapter-later",
-  externalId: "1739697",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1739697",
+      externalLink:
+        "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1739697/mark-of-the-fool-6-audiobook-launch-chapter-later",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

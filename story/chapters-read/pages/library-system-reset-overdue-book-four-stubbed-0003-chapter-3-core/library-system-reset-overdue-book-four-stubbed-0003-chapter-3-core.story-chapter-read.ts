@@ -10,9 +10,13 @@ export const librarySystemResetOverdueBookFourStubbed0003Chapter3Core = {
   ownLength: 1488,
   unit: "words",
   publishedAt: "2023-10-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/1382343/chapter-3-core",
-  externalId: "1382343",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1382343",
+      externalLink:
+        "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/1382343/chapter-3-core",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

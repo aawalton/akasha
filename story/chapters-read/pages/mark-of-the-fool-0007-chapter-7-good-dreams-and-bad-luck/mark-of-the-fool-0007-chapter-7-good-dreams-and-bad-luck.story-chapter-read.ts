@@ -12,9 +12,13 @@ export const markOfTheFool0007Chapter7GoodDreamsAndBadLuck = {
   unit: "words",
   completedAt: "2026-06-29T20:11:01.060Z",
   publishedAt: "2021-04-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/659447/chapter-7-good-dreams-and-bad-luck",
-  externalId: "659447",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "659447",
+      externalLink:
+        "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/659447/chapter-7-good-dreams-and-bad-luck",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

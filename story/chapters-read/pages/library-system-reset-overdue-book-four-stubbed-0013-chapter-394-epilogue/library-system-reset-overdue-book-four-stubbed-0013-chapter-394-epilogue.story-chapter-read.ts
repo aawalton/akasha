@@ -10,9 +10,13 @@ export const librarySystemResetOverdueBookFourStubbed0013Chapter394Epilogue = {
   ownLength: 1442,
   unit: "words",
   publishedAt: "2026-04-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/3307921/chapter-394-epilogue",
-  externalId: "3307921",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3307921",
+      externalLink:
+        "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/3307921/chapter-394-epilogue",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

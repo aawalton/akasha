@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation004040Class = {
   ownLength: 4149,
   unit: "words",
   publishedAt: "2024-07-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1738195/40-class",
-  externalId: "1738195",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1738195",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1738195/40-class",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

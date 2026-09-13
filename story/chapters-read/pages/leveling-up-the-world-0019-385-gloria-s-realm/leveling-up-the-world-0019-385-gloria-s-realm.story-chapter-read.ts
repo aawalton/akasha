@@ -12,9 +12,13 @@ export const levelingUpTheWorld0019385GloriaSRealm = {
   unit: "words",
   completedAt: "2026-06-29T22:40:47.906Z",
   publishedAt: "2022-01-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/831532/385-glorias-realm",
-  externalId: "831532",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "831532",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/831532/385-glorias-realm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

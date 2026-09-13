@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0337Chapter56Dreadeater = {
   ownLength: 3224,
   unit: "words",
   publishedAt: "2026-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3826753/chapter-56-dreadeater",
-  externalId: "3826753",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3826753",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3826753/chapter-56-dreadeater",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

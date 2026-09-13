@@ -10,9 +10,13 @@ export const massProducedMagicLitrpgActionCrafterTech0006Chapter6WheresTheTutori
   ownLength: 2418,
   unit: "words",
   publishedAt: "2024-11-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1908024/chapter-6-wheres-the-tutorial-pt4",
-  externalId: "1908024",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1908024",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1908024/chapter-6-wheres-the-tutorial-pt4",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

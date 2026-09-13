@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0311Chapter30AdvancementBooster = {
   ownLength: 1989,
   unit: "words",
   publishedAt: "2026-05-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3383413/chapter-30-advancement-booster",
-  externalId: "3383413",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3383413",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3383413/chapter-30-advancement-booster",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

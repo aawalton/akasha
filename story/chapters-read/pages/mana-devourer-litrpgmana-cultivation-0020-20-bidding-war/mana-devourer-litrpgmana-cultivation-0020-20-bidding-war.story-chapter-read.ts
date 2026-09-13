@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation002020BiddingWar = {
   ownLength: 2603,
   unit: "words",
   publishedAt: "2024-07-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1712493/20-bidding-war",
-  externalId: "1712493",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1712493",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1712493/20-bidding-war",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

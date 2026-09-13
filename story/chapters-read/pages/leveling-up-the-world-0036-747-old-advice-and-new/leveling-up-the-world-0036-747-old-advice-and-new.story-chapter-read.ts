@@ -12,9 +12,13 @@ export const levelingUpTheWorld0036747OldAdviceAndNew = {
   unit: "words",
   completedAt: "2026-06-29T22:41:24.366Z",
   publishedAt: "2023-05-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1217375/747-old-advice-and-new",
-  externalId: "1217375",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1217375",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1217375/747-old-advice-and-new",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

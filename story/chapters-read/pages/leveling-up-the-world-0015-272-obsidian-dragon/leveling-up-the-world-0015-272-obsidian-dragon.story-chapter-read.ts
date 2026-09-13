@@ -12,9 +12,13 @@ export const levelingUpTheWorld0015272ObsidianDragon = {
   unit: "words",
   completedAt: "2026-06-29T22:40:39.712Z",
   publishedAt: "2021-09-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/759177/272-obsidian-dragon",
-  externalId: "759177",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "759177",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/759177/272-obsidian-dragon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

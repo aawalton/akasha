@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0329Chapter48TacticsAndTeamwork = {
   ownLength: 1601,
   unit: "words",
   publishedAt: "2026-07-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3703141/chapter-48-tactics-and-teamwork",
-  externalId: "3703141",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3703141",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3703141/chapter-48-tactics-and-teamwork",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0330Chapter49RainyDay = {
   ownLength: 1747,
   unit: "words",
   publishedAt: "2026-07-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3721071/chapter-49-rainy-day",
-  externalId: "3721071",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3721071",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3721071/chapter-49-rainy-day",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

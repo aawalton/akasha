@@ -10,9 +10,13 @@ export const massProducedMagicLitrpgActionCrafterTech0032Chapter32SupplyRunPt4 =
   ownLength: 2167,
   unit: "words",
   publishedAt: "2024-12-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1968553/chapter-32-supply-run-pt-4",
-  externalId: "1968553",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1968553",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1968553/chapter-32-supply-run-pt-4",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

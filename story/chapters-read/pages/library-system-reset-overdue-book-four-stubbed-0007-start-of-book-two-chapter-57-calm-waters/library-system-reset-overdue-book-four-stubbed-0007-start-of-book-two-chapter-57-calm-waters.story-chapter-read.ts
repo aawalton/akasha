@@ -10,9 +10,13 @@ export const librarySystemResetOverdueBookFourStubbed0007StartOfBookTwoChapter57
   ownLength: 2830,
   unit: "words",
   publishedAt: "2024-01-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/1465526/start-of-book-two-chapter-57-calm-waters",
-  externalId: "1465526",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1465526",
+      externalLink:
+        "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/1465526/start-of-book-two-chapter-57-calm-waters",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

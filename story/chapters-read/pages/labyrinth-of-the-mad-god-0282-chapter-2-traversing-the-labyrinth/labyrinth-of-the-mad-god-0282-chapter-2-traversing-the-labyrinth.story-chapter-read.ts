@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0282Chapter2TraversingTheLabyrinth = {
   ownLength: 2198,
   unit: "words",
   publishedAt: "2026-02-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3019745/chapter-2-traversing-the-labyrinth",
-  externalId: "3019745",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3019745",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3019745/chapter-2-traversing-the-labyrinth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0288Chapter8BladeWorldSparringSession = {
   ownLength: 1723,
   unit: "words",
   publishedAt: "2026-02-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3099357/chapter-8-blade-world-sparring-session",
-  externalId: "3099357",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3099357",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3099357/chapter-8-blade-world-sparring-session",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

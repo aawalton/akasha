@@ -10,9 +10,13 @@ export const markOfTheFool0027AnnouncementOathsLaunchesToday = {
   ownLength: 297,
   unit: "words",
   publishedAt: "2025-09-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/2622628/announcement-oaths-launches-today",
-  externalId: "2622628",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2622628",
+      externalLink:
+        "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/2622628/announcement-oaths-launches-today",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

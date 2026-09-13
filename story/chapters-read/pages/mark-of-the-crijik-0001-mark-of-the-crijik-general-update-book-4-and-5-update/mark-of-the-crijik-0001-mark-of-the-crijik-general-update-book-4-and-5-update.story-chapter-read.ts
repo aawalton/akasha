@@ -10,9 +10,13 @@ export const markOfTheCrijik0001MarkOfTheCrijikGeneralUpdateBook4And5Update = {
   ownLength: 3038,
   unit: "words",
   publishedAt: "2024-02-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/50243/mark-of-the-crijik/chapter/1528438/mark-of-the-crijik-general-update-book-4-and-5",
-  externalId: "1528438",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1528438",
+      externalLink:
+        "https://www.royalroad.com/fiction/50243/mark-of-the-crijik/chapter/1528438/mark-of-the-crijik-general-update-book-4-and-5",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

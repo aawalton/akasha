@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0250Chapter68GuestLecture = {
   ownLength: 1759,
   unit: "words",
   publishedAt: "2025-11-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2775560/chapter-68-guest-lecture",
-  externalId: "2775560",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2775560",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2775560/chapter-68-guest-lecture",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

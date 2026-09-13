@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0248Chapter66TrialOfMastery = {
   ownLength: 2582,
   unit: "words",
   publishedAt: "2025-11-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2761289/chapter-66-trial-of-mastery",
-  externalId: "2761289",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2761289",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2761289/chapter-66-trial-of-mastery",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

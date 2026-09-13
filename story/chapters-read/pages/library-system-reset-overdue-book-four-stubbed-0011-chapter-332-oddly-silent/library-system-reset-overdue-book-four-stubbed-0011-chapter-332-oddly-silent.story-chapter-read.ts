@@ -10,9 +10,13 @@ export const librarySystemResetOverdueBookFourStubbed0011Chapter332OddlySilent =
   ownLength: 2045,
   unit: "words",
   publishedAt: "2025-10-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/2701252/chapter-332-oddly-silent",
-  externalId: "2701252",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2701252",
+      externalLink:
+        "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/2701252/chapter-332-oddly-silent",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const librarySystemResetOverdueBookFourStubbed0012Chapter393Drevicia = {
   ownLength: 2184,
   unit: "words",
   publishedAt: "2026-04-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/3307911/chapter-393-drevicia",
-  externalId: "3307911",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3307911",
+      externalLink:
+        "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/3307911/chapter-393-drevicia",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const markOfTheFool0028CrossPostedFromPatreonIUhNeedSomeHelp = {
   ownLength: 303,
   unit: "words",
   publishedAt: "2025-09-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/2628041/cross-posted-from-patreon-i-uh-need-some-help",
-  externalId: "2628041",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2628041",
+      externalLink:
+        "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/2628041/cross-posted-from-patreon-i-uh-need-some-help",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

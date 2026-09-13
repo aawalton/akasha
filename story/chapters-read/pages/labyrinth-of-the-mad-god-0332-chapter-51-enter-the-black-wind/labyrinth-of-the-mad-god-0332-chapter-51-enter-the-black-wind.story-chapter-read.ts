@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0332Chapter51EnterTheBlackWind = {
   ownLength: 2088,
   unit: "words",
   publishedAt: "2026-07-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3752166/chapter-51-enter-the-black-wind",
-  externalId: "3752166",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3752166",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3752166/chapter-51-enter-the-black-wind",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

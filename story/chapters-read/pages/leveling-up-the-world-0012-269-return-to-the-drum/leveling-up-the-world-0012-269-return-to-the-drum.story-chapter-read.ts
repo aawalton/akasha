@@ -12,9 +12,13 @@ export const levelingUpTheWorld0012269ReturnToTheDrum = {
   unit: "words",
   completedAt: "2026-06-29T22:40:32.866Z",
   publishedAt: "2021-09-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/757519/269-return-to-the-drum",
-  externalId: "757519",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "757519",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/757519/269-return-to-the-drum",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

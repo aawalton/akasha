@@ -10,9 +10,13 @@ export const massProducedMagicLitrpgActionCrafterTech0021Chapter21DwarvenGuidanc
   ownLength: 2585,
   unit: "words",
   publishedAt: "2024-12-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1934675/chapter-21-dwarven-guidance-pt2-aika",
-  externalId: "1934675",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1934675",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1934675/chapter-21-dwarven-guidance-pt2-aika",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

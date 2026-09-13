@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation00044Consequence = {
   ownLength: 2089,
   unit: "words",
   publishedAt: "2024-06-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1697780/4-consequence",
-  externalId: "1697780",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1697780",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1697780/4-consequence",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

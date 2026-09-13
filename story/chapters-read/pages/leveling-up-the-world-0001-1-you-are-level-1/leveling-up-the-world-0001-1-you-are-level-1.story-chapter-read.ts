@@ -12,9 +12,13 @@ export const levelingUpTheWorld00011YouAreLevel1 = {
   unit: "words",
   completedAt: "2026-06-29T22:40:09.771Z",
   publishedAt: "2021-01-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/608419/1-you-are-level-1",
-  externalId: "608419",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "608419",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/608419/1-you-are-level-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

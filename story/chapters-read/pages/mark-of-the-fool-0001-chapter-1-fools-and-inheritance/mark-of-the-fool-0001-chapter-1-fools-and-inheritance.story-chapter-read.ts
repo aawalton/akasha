@@ -12,9 +12,13 @@ export const markOfTheFool0001Chapter1FoolsAndInheritance = {
   unit: "words",
   completedAt: "2026-06-29T20:10:49.536Z",
   publishedAt: "2021-03-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/653183/chapter-1-fools-and-inheritance",
-  externalId: "653183",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "653183",
+      externalLink:
+        "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/653183/chapter-1-fools-and-inheritance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

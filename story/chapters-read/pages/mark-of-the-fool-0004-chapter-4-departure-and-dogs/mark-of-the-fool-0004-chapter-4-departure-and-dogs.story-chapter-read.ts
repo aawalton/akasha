@@ -12,9 +12,13 @@ export const markOfTheFool0004Chapter4DepartureAndDogs = {
   unit: "words",
   completedAt: "2026-06-29T20:10:55.347Z",
   publishedAt: "2021-04-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/657750/chapter-4-departure-and-dogs",
-  externalId: "657750",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "657750",
+      externalLink:
+        "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/657750/chapter-4-departure-and-dogs",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

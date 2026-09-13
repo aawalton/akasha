@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0315Chapter34DreadbeastQuarantineZone = {
   ownLength: 1991,
   unit: "words",
   publishedAt: "2026-05-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3445241/chapter-34-dreadbeast-quarantine-zone",
-  externalId: "3445241",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3445241",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3445241/chapter-34-dreadbeast-quarantine-zone",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

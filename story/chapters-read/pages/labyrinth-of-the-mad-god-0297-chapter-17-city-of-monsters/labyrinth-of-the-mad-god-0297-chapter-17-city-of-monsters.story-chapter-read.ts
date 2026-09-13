@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0297Chapter17CityOfMonsters = {
   ownLength: 2617,
   unit: "words",
   publishedAt: "2026-03-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3200858/chapter-17-city-of-monsters",
-  externalId: "3200858",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3200858",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3200858/chapter-17-city-of-monsters",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

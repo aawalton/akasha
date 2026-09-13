@@ -12,9 +12,13 @@ export const levelingUpTheWorld0042850GreenMoonVisit = {
   unit: "words",
   completedAt: "2026-06-29T22:41:36.952Z",
   publishedAt: "2023-12-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1452138/850-green-moon-visit",
-  externalId: "1452138",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1452138",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1452138/850-green-moon-visit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const markOfTheFool0009TheAmazonLaunchOfMarkOfTheFoolPaperbackAudioAndKi 
   ownLength: 363,
   unit: "words",
   publishedAt: "2022-09-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/998100/the-amazon-launch-of-mark-of-the-fool-paperback",
-  externalId: "998100",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "998100",
+      externalLink:
+        "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/998100/the-amazon-launch-of-mark-of-the-fool-paperback",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

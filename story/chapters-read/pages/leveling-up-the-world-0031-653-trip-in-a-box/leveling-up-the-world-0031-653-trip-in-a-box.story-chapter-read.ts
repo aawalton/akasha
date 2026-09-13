@@ -12,9 +12,13 @@ export const levelingUpTheWorld0031653TripInABox = {
   unit: "words",
   completedAt: "2026-06-29T22:41:14.063Z",
   publishedAt: "2022-12-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1059911/653-trip-in-a-box",
-  externalId: "1059911",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1059911",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1059911/653-trip-in-a-box",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

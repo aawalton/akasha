@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0320Chapter39StealthVersusStealth = {
   ownLength: 1693,
   unit: "words",
   publishedAt: "2026-06-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3530569/chapter-39-stealth-versus-stealth",
-  externalId: "3530569",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3530569",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3530569/chapter-39-stealth-versus-stealth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const levelingUpTheWorld0011177TwoEmblems = {
   unit: "words",
   completedAt: "2026-06-29T22:40:30.757Z",
   publishedAt: "2021-06-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/706580/177-two-emblems",
-  externalId: "706580",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "706580",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/706580/177-two-emblems",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

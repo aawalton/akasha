@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0280Chapter0AFriendlyLittleRecap = {
   ownLength: 4207,
   unit: "words",
   publishedAt: "2026-01-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2995858/chapter-0-a-friendly-little-recap",
-  externalId: "2995858",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2995858",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2995858/chapter-0-a-friendly-little-recap",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

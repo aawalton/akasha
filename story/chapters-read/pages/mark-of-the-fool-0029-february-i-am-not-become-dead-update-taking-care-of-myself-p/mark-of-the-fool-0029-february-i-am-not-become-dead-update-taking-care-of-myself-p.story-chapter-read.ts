@@ -11,9 +11,13 @@ export const markOfTheFool0029FebruaryIAmNotBecomeDeadUpdateTakingCareOfMyselfP 
   ownLength: 806,
   unit: "words",
   publishedAt: "2026-03-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/3103279/february-i-am-not-become-dead-update-taking-care",
-  externalId: "3103279",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3103279",
+      externalLink:
+        "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/3103279/february-i-am-not-become-dead-update-taking-care",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

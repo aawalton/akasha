@@ -10,9 +10,13 @@ export const massProducedMagicLitrpgActionCrafterTech0009Chapter9WheresTheTutori
   ownLength: 2703,
   unit: "words",
   publishedAt: "2024-11-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1909155/chapter-9-wheres-the-tutorial-pt7",
-  externalId: "1909155",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1909155",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1909155/chapter-9-wheres-the-tutorial-pt7",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

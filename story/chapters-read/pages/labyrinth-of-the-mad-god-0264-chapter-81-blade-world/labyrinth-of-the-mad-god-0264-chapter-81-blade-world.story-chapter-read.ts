@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0264Chapter81BladeWorld = {
   ownLength: 2045,
   unit: "words",
   publishedAt: "2025-12-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2862921/chapter-81-blade-world",
-  externalId: "2862921",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2862921",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2862921/chapter-81-blade-world",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

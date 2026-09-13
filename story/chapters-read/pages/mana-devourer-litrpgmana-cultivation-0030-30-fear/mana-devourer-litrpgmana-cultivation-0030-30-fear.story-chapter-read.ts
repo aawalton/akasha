@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation003030Fear = {
   ownLength: 4074,
   unit: "words",
   publishedAt: "2024-07-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1725372/30-fear",
-  externalId: "1725372",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1725372",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1725372/30-fear",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const levelingUpTheWorld0008174OldComplications = {
   unit: "words",
   completedAt: "2026-06-29T22:40:24.172Z",
   publishedAt: "2021-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/704851/174-old-complications",
-  externalId: "704851",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "704851",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/704851/174-old-complications",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

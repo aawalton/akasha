@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0273Chapter90PlacingThePortal = {
   ownLength: 2092,
   unit: "words",
   publishedAt: "2026-01-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2927564/chapter-90-placing-the-portal",
-  externalId: "2927564",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2927564",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2927564/chapter-90-placing-the-portal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation00033Devour = {
   ownLength: 2994,
   unit: "words",
   publishedAt: "2024-06-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1697778/3-devour",
-  externalId: "1697778",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1697778",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1697778/3-devour",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

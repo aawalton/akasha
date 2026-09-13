@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0271Chapter88BonusObjective = {
   ownLength: 1668,
   unit: "words",
   publishedAt: "2026-01-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2914728/chapter-88-bonus-objective",
-  externalId: "2914728",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2914728",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2914728/chapter-88-bonus-objective",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

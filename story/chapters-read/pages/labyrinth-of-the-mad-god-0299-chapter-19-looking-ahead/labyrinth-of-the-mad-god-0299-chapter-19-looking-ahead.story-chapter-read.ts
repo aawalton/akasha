@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0299Chapter19LookingAhead = {
   ownLength: 2276,
   unit: "words",
   publishedAt: "2026-04-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3228050/chapter-19-looking-ahead",
-  externalId: "3228050",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3228050",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3228050/chapter-19-looking-ahead",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

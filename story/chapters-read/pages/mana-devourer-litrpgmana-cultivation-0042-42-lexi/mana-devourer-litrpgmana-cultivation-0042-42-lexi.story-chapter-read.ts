@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation004242Lexi = {
   ownLength: 3671,
   unit: "words",
   publishedAt: "2024-08-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1740728/42-lexi",
-  externalId: "1740728",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1740728",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1740728/42-lexi",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

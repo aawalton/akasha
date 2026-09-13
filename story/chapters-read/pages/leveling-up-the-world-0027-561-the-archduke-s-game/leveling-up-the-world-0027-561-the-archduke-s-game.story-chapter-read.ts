@@ -12,9 +12,13 @@ export const levelingUpTheWorld0027561TheArchdukeSGame = {
   unit: "words",
   completedAt: "2026-06-29T22:41:05.568Z",
   publishedAt: "2022-08-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/963719/561-the-archdukes-game",
-  externalId: "963719",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "963719",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/963719/561-the-archdukes-game",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

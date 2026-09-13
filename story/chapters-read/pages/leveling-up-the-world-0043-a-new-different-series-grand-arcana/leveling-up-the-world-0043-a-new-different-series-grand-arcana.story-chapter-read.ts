@@ -10,9 +10,13 @@ export const levelingUpTheWorld0043ANewDifferentSeriesGrandArcana = {
   ownLength: 225,
   unit: "words",
   publishedAt: "2026-08-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/3755248/a-new-different-series-grand-arcana",
-  externalId: "3755248",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3755248",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/3755248/a-new-different-series-grand-arcana",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

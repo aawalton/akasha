@@ -12,9 +12,13 @@ export const markOfTheFool0002Chapter2UldarSLegacy = {
   unit: "words",
   completedAt: "2026-06-29T20:10:51.504Z",
   publishedAt: "2021-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/656291/chapter-2-uldars-legacy",
-  externalId: "656291",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "656291",
+      externalLink:
+        "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/656291/chapter-2-uldars-legacy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

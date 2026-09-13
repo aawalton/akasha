@@ -12,9 +12,13 @@ export const levelingUpTheWorld0041849LackOfInhabitants = {
   unit: "words",
   completedAt: "2026-06-29T22:41:35.167Z",
   publishedAt: "2023-12-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1449809/849-lack-of-inhabitants",
-  externalId: "1449809",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1449809",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1449809/849-lack-of-inhabitants",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

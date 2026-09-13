@@ -12,9 +12,13 @@ export const levelingUpTheWorld0017383BackHome = {
   unit: "words",
   completedAt: "2026-06-29T22:40:43.941Z",
   publishedAt: "2022-01-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/829969/383-back-home",
-  externalId: "829969",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "829969",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/829969/383-back-home",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

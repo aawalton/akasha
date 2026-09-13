@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation00022FightOrDie = {
   ownLength: 2378,
   unit: "words",
   publishedAt: "2024-06-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1697777/2-fight-or-die",
-  externalId: "1697777",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1697777",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1697777/2-fight-or-die",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

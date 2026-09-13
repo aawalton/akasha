@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0287Chapter7PastAndFutureGrowth = {
   ownLength: 2880,
   unit: "words",
   publishedAt: "2026-02-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3084952/chapter-7-past-and-future-growth",
-  externalId: "3084952",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3084952",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3084952/chapter-7-past-and-future-growth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

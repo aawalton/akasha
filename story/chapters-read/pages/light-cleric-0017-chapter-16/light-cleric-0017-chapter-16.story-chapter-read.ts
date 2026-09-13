@@ -10,8 +10,13 @@ export const lightCleric0017Chapter16 = {
   ownLength: 3717,
   unit: "words",
   publishedAt: "2021-06-26",
-  externalLink: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/705924/chapter-16",
-  externalId: "705924",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "705924",
+      externalLink:
+        "https://www.royalroad.com/fiction/38443/light-cleric/chapter/705924/chapter-16",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const levelingUpTheWorld0025559OldNewHome = {
   unit: "words",
   completedAt: "2026-06-29T22:41:01.550Z",
   publishedAt: "2022-08-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/961068/559-old-new-home",
-  externalId: "961068",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "961068",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/961068/559-old-new-home",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

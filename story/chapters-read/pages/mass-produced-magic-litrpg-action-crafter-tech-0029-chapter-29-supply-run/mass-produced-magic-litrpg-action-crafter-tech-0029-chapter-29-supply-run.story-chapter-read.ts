@@ -10,9 +10,13 @@ export const massProducedMagicLitrpgActionCrafterTech0029Chapter29SupplyRun = {
   ownLength: 3123,
   unit: "words",
   publishedAt: "2024-12-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1958368/chapter-29-supply-run",
-  externalId: "1958368",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1958368",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1958368/chapter-29-supply-run",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

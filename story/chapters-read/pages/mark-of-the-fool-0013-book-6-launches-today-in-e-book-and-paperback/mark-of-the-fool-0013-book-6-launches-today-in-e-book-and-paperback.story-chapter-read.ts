@@ -10,9 +10,13 @@ export const markOfTheFool0013Book6LaunchesTodayInEBookAndPaperback = {
   ownLength: 183,
   unit: "words",
   publishedAt: "2024-02-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1509759/book-6-launches-today-in-e-book-and-paperback",
-  externalId: "1509759",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1509759",
+      externalLink:
+        "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1509759/book-6-launches-today-in-e-book-and-paperback",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

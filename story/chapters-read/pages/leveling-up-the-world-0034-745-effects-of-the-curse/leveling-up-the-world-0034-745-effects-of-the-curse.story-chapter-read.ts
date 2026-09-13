@@ -12,9 +12,13 @@ export const levelingUpTheWorld0034745EffectsOfTheCurse = {
   unit: "words",
   completedAt: "2026-06-29T22:41:20.411Z",
   publishedAt: "2023-05-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1215290/745-effects-of-the-curse",
-  externalId: "1215290",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1215290",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1215290/745-effects-of-the-curse",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

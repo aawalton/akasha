@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation004848Death = {
   ownLength: 2980,
   unit: "words",
   publishedAt: "2024-08-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1751369/48-death",
-  externalId: "1751369",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1751369",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1751369/48-death",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation00066Helldog = {
   ownLength: 3813,
   unit: "words",
   publishedAt: "2024-06-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1697782/6-helldog",
-  externalId: "1697782",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1697782",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1697782/6-helldog",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

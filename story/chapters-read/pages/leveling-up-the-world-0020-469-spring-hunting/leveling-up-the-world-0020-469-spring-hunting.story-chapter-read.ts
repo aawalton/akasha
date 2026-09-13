@@ -12,9 +12,13 @@ export const levelingUpTheWorld0020469SpringHunting = {
   unit: "words",
   completedAt: "2026-06-29T22:40:50.190Z",
   publishedAt: "2022-04-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/892097/469-spring-hunting",
-  externalId: "892097",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "892097",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/892097/469-spring-hunting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

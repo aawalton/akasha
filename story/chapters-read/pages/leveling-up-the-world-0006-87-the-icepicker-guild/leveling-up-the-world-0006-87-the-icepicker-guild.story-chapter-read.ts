@@ -12,9 +12,13 @@ export const levelingUpTheWorld000687TheIcepickerGuild = {
   unit: "words",
   completedAt: "2026-06-29T22:40:19.658Z",
   publishedAt: "2021-03-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/654517/87-the-icepicker-guild",
-  externalId: "654517",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "654517",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/654517/87-the-icepicker-guild",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

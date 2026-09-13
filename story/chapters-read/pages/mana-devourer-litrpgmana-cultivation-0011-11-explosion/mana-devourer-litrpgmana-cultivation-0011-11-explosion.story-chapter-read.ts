@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation001111Explosion = {
   ownLength: 3638,
   unit: "words",
   publishedAt: "2024-07-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1701881/11-explosion",
-  externalId: "1701881",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1701881",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1701881/11-explosion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

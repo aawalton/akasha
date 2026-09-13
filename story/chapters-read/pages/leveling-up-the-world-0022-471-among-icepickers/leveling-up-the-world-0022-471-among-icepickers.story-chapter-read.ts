@@ -12,9 +12,13 @@ export const levelingUpTheWorld0022471AmongIcepickers = {
   unit: "words",
   completedAt: "2026-06-29T22:40:54.565Z",
   publishedAt: "2022-04-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/893164/471-among-icepickers",
-  externalId: "893164",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "893164",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/893164/471-among-icepickers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

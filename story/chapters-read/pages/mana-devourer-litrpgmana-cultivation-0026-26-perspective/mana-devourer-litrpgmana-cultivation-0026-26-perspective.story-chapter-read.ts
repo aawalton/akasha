@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation002626Perspective = {
   ownLength: 3285,
   unit: "words",
   publishedAt: "2024-07-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1719994/26-perspective",
-  externalId: "1719994",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1719994",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1719994/26-perspective",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const levelingUpTheWorld0010176GuildTrials = {
   unit: "words",
   completedAt: "2026-06-29T22:40:28.544Z",
   publishedAt: "2021-06-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/705989/176-guild-trials",
-  externalId: "705989",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "705989",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/705989/176-guild-trials",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

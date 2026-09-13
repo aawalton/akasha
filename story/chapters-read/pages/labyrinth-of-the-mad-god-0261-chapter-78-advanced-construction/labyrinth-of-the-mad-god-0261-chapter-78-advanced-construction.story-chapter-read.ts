@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0261Chapter78AdvancedConstruction = {
   ownLength: 1777,
   unit: "words",
   publishedAt: "2025-12-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2842534/chapter-78-advanced-construction",
-  externalId: "2842534",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2842534",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2842534/chapter-78-advanced-construction",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

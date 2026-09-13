@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0341Chapter6061LordOfNightmares = {
   ownLength: 3714,
   unit: "words",
   publishedAt: "2026-08-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3891703/chapter-60-61-lord-of-nightmares",
-  externalId: "3891703",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3891703",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3891703/chapter-60-61-lord-of-nightmares",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0335Chapter54BirthOfAnArtifact = {
   ownLength: 1474,
   unit: "words",
   publishedAt: "2026-08-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3796584/chapter-54-birth-of-an-artifact",
-  externalId: "3796584",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3796584",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3796584/chapter-54-birth-of-an-artifact",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

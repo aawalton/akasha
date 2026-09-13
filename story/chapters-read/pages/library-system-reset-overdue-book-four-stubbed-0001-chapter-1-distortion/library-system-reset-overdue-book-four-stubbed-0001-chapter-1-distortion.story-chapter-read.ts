@@ -10,9 +10,13 @@ export const librarySystemResetOverdueBookFourStubbed0001Chapter1Distortion = {
   ownLength: 2637,
   unit: "words",
   publishedAt: "2023-10-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/1380407/chapter-1-distortion",
-  externalId: "1380407",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1380407",
+      externalLink:
+        "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/1380407/chapter-1-distortion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

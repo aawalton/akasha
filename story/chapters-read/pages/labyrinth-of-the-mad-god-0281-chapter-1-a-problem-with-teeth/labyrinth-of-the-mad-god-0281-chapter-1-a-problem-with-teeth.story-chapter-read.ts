@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0281Chapter1AProblemWithTeeth = {
   ownLength: 2396,
   unit: "words",
   publishedAt: "2026-02-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3005998/chapter-1-a-problem-with-teeth",
-  externalId: "3005998",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3005998",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3005998/chapter-1-a-problem-with-teeth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

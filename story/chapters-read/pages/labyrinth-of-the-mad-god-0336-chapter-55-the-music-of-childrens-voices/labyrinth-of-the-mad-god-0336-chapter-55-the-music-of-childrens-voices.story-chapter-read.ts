@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0336Chapter55TheMusicOfChildrensVoices = {
   ownLength: 1408,
   unit: "words",
   publishedAt: "2026-08-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3814374/chapter-55-the-music-of-childrens-voices",
-  externalId: "3814374",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3814374",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3814374/chapter-55-the-music-of-childrens-voices",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

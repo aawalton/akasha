@@ -12,9 +12,13 @@ export const levelingUpTheWorld0028650NewRules = {
   unit: "words",
   completedAt: "2026-06-29T22:41:07.697Z",
   publishedAt: "2022-12-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1057557/650-new-rules",
-  externalId: "1057557",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1057557",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1057557/650-new-rules",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

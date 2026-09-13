@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation003636Calm = {
   ownLength: 3265,
   unit: "words",
   publishedAt: "2024-07-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1733138/36-calm",
-  externalId: "1733138",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1733138",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1733138/36-calm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

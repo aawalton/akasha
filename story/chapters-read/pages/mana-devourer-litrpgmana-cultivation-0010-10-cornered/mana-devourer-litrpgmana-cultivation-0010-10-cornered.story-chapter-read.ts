@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation001010Cornered = {
   ownLength: 3483,
   unit: "words",
   publishedAt: "2024-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1700174/10-cornered",
-  externalId: "1700174",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1700174",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1700174/10-cornered",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

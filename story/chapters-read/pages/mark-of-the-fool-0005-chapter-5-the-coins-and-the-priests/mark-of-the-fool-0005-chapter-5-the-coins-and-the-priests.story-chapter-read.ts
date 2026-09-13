@@ -12,9 +12,13 @@ export const markOfTheFool0005Chapter5TheCoinsAndThePriests = {
   unit: "words",
   completedAt: "2026-06-29T20:10:57.266Z",
   publishedAt: "2021-04-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/658350/chapter-5-the-coins-and-the-priests",
-  externalId: "658350",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "658350",
+      externalLink:
+        "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/658350/chapter-5-the-coins-and-the-priests",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

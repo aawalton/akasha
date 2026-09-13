@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0305Chapter24AuroraRising = {
   ownLength: 1904,
   unit: "words",
   publishedAt: "2026-04-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3297723/chapter-24-aurora-rising",
-  externalId: "3297723",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3297723",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3297723/chapter-24-aurora-rising",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

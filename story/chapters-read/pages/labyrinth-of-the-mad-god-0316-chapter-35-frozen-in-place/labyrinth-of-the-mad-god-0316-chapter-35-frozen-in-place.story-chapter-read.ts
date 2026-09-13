@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0316Chapter35FrozenInPlace = {
   ownLength: 2062,
   unit: "words",
   publishedAt: "2026-05-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3466165/chapter-35-frozen-in-place",
-  externalId: "3466165",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3466165",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3466165/chapter-35-frozen-in-place",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

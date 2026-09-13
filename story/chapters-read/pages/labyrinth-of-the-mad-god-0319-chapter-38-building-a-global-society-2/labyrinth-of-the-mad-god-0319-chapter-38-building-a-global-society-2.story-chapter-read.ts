@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0319Chapter38BuildingAGlobalSociety2 = {
   ownLength: 1952,
   unit: "words",
   publishedAt: "2026-06-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3510718/chapter-38-building-a-global-society-2",
-  externalId: "3510718",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3510718",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3510718/chapter-38-building-a-global-society-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

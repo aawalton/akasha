@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0339Chapter58RidingADinosaurIntoBattle = {
   ownLength: 2166,
   unit: "words",
   publishedAt: "2026-08-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3859736/chapter-58-riding-a-dinosaur-into-battle",
-  externalId: "3859736",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3859736",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3859736/chapter-58-riding-a-dinosaur-into-battle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

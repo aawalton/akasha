@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0290Chapter10PainfulLessonsInEvasion = {
   ownLength: 1986,
   unit: "words",
   publishedAt: "2026-03-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3124024/chapter-10-painful-lessons-in-evasion",
-  externalId: "3124024",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3124024",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3124024/chapter-10-painful-lessons-in-evasion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

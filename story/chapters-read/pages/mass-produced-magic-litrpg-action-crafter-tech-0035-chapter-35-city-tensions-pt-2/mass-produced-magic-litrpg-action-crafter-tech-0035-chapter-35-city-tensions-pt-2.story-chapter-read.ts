@@ -10,9 +10,13 @@ export const massProducedMagicLitrpgActionCrafterTech0035Chapter35CityTensionsPt
   ownLength: 1963,
   unit: "words",
   publishedAt: "2024-12-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1976675/chapter-35-city-tensions-pt-2",
-  externalId: "1976675",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1976675",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1976675/chapter-35-city-tensions-pt-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

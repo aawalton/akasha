@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0317Chapter36WhichWayShouldWeGo = {
   ownLength: 1539,
   unit: "words",
   publishedAt: "2026-06-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3479513/chapter-36-which-way-should-we-go",
-  externalId: "3479513",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3479513",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3479513/chapter-36-which-way-should-we-go",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

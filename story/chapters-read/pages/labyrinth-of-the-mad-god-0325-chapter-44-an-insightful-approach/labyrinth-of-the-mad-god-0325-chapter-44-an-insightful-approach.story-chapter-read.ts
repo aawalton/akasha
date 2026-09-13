@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0325Chapter44AnInsightfulApproach = {
   ownLength: 2139,
   unit: "words",
   publishedAt: "2026-07-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3640917/chapter-44-an-insightful-approach",
-  externalId: "3640917",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3640917",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3640917/chapter-44-an-insightful-approach",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0256Chapter74TheDarkCrystalCavern = {
   ownLength: 1661,
   unit: "words",
   publishedAt: "2025-12-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2816051/chapter-74-the-dark-crystal-cavern",
-  externalId: "2816051",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2816051",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2816051/chapter-74-the-dark-crystal-cavern",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

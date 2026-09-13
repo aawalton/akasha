@@ -10,9 +10,13 @@ export const manaDevourerLitrpgmanaCultivation003131SecondMeeting = {
   ownLength: 3944,
   unit: "words",
   publishedAt: "2024-07-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1726603/31-second-meeting",
-  externalId: "1726603",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1726603",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1726603/31-second-meeting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

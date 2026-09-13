@@ -12,9 +12,13 @@ export const levelingUpTheWorld0014271InTheMirror = {
   unit: "words",
   completedAt: "2026-06-29T22:40:37.670Z",
   publishedAt: "2021-09-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/758578/271-in-the-mirror",
-  externalId: "758578",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "758578",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/758578/271-in-the-mirror",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
