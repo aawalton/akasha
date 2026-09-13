@@ -1,4 +1,4 @@
-import { folderOf } from "akasha/code/paths/modules/path-between/code-path-between.module.code.ts"
+import { folderOf } from "akasha/code/paths/modules/code-path-between/code-path-between.module.code.ts"
 import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { uncommittedHeld } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"

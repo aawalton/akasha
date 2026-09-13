@@ -11,7 +11,7 @@ import {
   segmentingOver,
 } from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"
 import type { Holds } from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/folder-naming/folder-naming.module.code.ts"
-import { folderOf } from "akasha/code/paths/modules/path-between/code-path-between.module.code.ts"
+import { folderOf } from "akasha/code/paths/modules/code-path-between/code-path-between.module.code.ts"
 import { heldIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 export const MANIFEST_AT = "akasha/one/manifests/one-manifests.manifest.ts"
