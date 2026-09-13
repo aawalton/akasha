@@ -40,5 +40,17 @@ export const indexFiling = {
       invariantKind: "departure",
       statement: "A body already at that path is left as the caller wrote it.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A body is bound to the name the slug that value states makes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value stating no slug is bound to `held`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body written here is named as every check over a tree wants a page named.",
+    },
   ],
 } as const satisfies Module

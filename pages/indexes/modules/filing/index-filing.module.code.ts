@@ -5,6 +5,7 @@ import { indexIn } from "akasha/pages/indexes/modules/surface/index-surface.modu
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
 import { indexShapes } from "akasha/pages/indexes/shapes/index-shapes.index.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
+import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 
 const ENDING = ".jsonl"
 
@@ -19,6 +20,8 @@ const NO_SCOPE = ""
 const ID = "id"
 
 const SLUG = "slug"
+
+const HELD = "held"
 
 type Carried = {
   readonly path?: unknown
@@ -75,11 +78,20 @@ export function namedFiled(
   written(root, join(indexRelation.name, PAGE, ID, id, propertySlug, naming), lines)
 }
 
-function bodyWritten(root: string, path: string, value: unknown): undefined {
+function namedIn(value: Readonly<Record<string, unknown>>): string {
+  const slug = value[SLUG]
+  return typeof slug === "string" ? exportedAs(slug) : HELD
+}
+
+function bodyWritten(
+  root: string,
+  path: string,
+  value: Readonly<Record<string, unknown>>
+): undefined {
   const at = join(root, path)
   if (existsSync(at)) return
   mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, `export const held = ${JSON.stringify(value)}\n`)
+  writeFileSync(at, `export const ${namedIn(value)} = ${JSON.stringify(value)}\n`)
 }
 
 function pagedIn(one: Carried): string | null {
@@ -96,7 +108,8 @@ export function valueAlsoFiled(
   added(root, join(indexValue.name, pageTypeSlug), lines)
   for (const one of lines as readonly Carried[]) {
     const path = pagedIn(one)
-    if (path !== null) bodyWritten(root, path, one.value)
+    const value = one.value
+    if (path !== null && value !== undefined) bodyWritten(root, path, value)
   }
 }
 
