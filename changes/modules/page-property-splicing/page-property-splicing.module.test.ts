@@ -154,3 +154,110 @@ test("one splice comes out for each key written", () => {
 
   expect(spots).toHaveLength(2)
 })
+
+const HELD_AT = "thrumming/moots/held.moot-call.ts"
+
+const HELD = `export const held = {
+  slug: "held",
+  parts: ["moot/one", "moot/two"],
+  properties: [
+    { mooted: "one", weight: 1 },
+    { mooted: "two", weight: 2 },
+  ],
+} as const satisfies MootCall
+`
+
+function heldMade(written: readonly Written[]): readonly FileChange[] | string {
+  return editsFor(worldOf({ [HELD_AT]: HELD }), { path: HELD_AT, written })
+}
+
+function heldBody(written: readonly Written[]): string {
+  const made = heldMade(written)
+  if (typeof made === "string") return made
+  return bodiesIn(stating(made), worldOf({ [HELD_AT]: HELD }).base).get(HELD_AT) ?? ""
+}
+
+test("a value put into a list falls after the values that list holds", () => {
+  expect(heldBody([{ written: "listed", key: "parts", value: `"moot/three"` }])).toContain(
+    `["moot/one", "moot/two", "moot/three"]`
+  )
+})
+
+test("a value put in where the caller says the key is sorted falls in that order", () => {
+  const body = heldBody([{ written: "listed", key: "parts", value: `"moot/alpha"`, sorted: true }])
+
+  expect(body).toContain(`["moot/alpha", "moot/one", "moot/two"]`)
+})
+
+test("a key the page states nowhere gains that value as its one value in a list", () => {
+  expect(heldBody([{ written: "listed", key: "namers", value: `"moot/one"` }])).toContain(
+    `namers: ["moot/one"],`
+  )
+})
+
+test("a value the list holds already is refused rather than held twice", () => {
+  expect(heldMade([{ written: "listed", key: "parts", value: `"moot/one"` }])).toContain(
+    'holds `"moot/one"` already'
+  )
+})
+
+test("a key holding one value rather than a list is refused as a restatement", () => {
+  expect(heldMade([{ written: "listed", key: "slug", value: `"other"` }])).toContain(
+    "holds one value"
+  )
+})
+
+test("the first of the values named that a list holds is the one that goes", () => {
+  const body = heldBody([
+    { written: "valueGone", key: "parts", values: ["moot/three", "moot/two"] },
+  ])
+
+  expect(body).toContain(`parts: ["moot/one"],`)
+})
+
+test("a list holding none of the values named is refused by its key", () => {
+  const made = heldMade([{ written: "valueGone", key: "parts", values: ["moot/nine"] }])
+
+  expect(made).toContain("`parts` holds no `moot/nine`")
+})
+
+test("a key holding no list has no value taken out of it", () => {
+  const made = heldMade([{ written: "valueGone", key: "slug", values: ["held"] }])
+
+  expect(made).toContain("holds no list")
+})
+
+test("a record put into a list falls after the records that list holds", () => {
+  const body = heldBody([
+    { written: "recorded", key: "properties", record: `{ mooted: "three", weight: 3 }` },
+  ])
+
+  expect(body).toContain(`{ mooted: "two", weight: 2 },\n    { mooted: "three", weight: 3 },`)
+})
+
+test("a record the list holds already is refused rather than held twice", () => {
+  const made = heldMade([
+    { written: "recorded", key: "properties", record: `{ mooted: "one", weight: 1 }` },
+  ])
+
+  expect(made).toContain("holds that record already")
+})
+
+test("the record that goes is the one stating the text named under the field named", () => {
+  const body = heldBody([{ written: "recordGone", key: "properties", where: "mooted", is: "two" }])
+
+  expect(body).toContain(`{ mooted: "one", weight: 1 },`)
+  expect(body).not.toContain(`{ mooted: "two", weight: 2 },`)
+})
+
+test("a key stating no record is refused rather than answered as no edit", () => {
+  const made = heldMade([{ written: "recordGone", key: "parts", where: "mooted", is: "two" }])
+
+  expect(made).toContain("no record is stated under `parts`")
+})
+
+test("a key no record of which states that text is refused", () => {
+  const made = heldMade([{ written: "recordGone", key: "properties", where: "mooted", is: "nine" }])
+
+  expect(made).toContain("no record under `properties` states `nine` under `mooted`")
+})
