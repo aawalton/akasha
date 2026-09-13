@@ -5,7 +5,7 @@ import {
   describeAckTimeout,
   setRequestedAction,
   waitForActionCleared,
-} from "akasha/agents/seats/supervisors/modules/action/seat-action.module.code.ts"
+} from "akasha/agents/seats/supervisors/supervisor-actions/modules/action/seat-action.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { fleet } from "akasha/commands/arguments/pages/fleet.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"

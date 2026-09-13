@@ -7,13 +7,13 @@ import { handleVersionUpdate } from "akasha/agents/seats/self-healing/modules/su
 import { SUPERVISOR_SCRIPT } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { buildHeartbeatMonitor } from "akasha/agents/seats/supervisors/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"
 import { startLimitResumeMonitor } from "akasha/agents/seats/supervisors/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"
-import { pollAgentAction } from "akasha/agents/seats/supervisors/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.code.ts"
 import { startWaitResumeMonitor } from "akasha/agents/seats/supervisors/modules/supervisor-wait-resume/supervisor-wait-resume.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   getAgentActionHandler,
   getOAuthProxyHandle,
 } from "akasha/agents/seats/supervisors/process/modules/supervisor-state/supervisor-state.module.code.ts"
+import { pollAgentAction } from "akasha/agents/seats/supervisors/supervisor-actions/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.code.ts"
 
 export type PerAgentMonitors = {
   heartbeatTimer: ReturnType<typeof setInterval>

@@ -1,12 +1,6 @@
 import { triggerProxySwap } from "akasha/agents/seats/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import type { InteractiveSessionBoot } from "akasha/agents/seats/supervisors/boot/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 import { LIVE_CHILD_EXIT_RULE } from "akasha/agents/seats/supervisors/child/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
-import { buildAgentActionSubsystem } from "akasha/agents/seats/supervisors/modules/supervisor-agent-action/supervisor-agent-action.module.code.ts"
-import {
-  clearRequestedAction,
-  consumeThenProxySwap,
-} from "akasha/agents/seats/supervisors/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
-import type { PendingAgentAction } from "akasha/agents/seats/supervisors/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
 import { wireSessionRotatedWatcher } from "akasha/agents/seats/supervisors/modules/supervisor-clear-rebind-wire/supervisor-clear-rebind-wire.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/modules/supervisor-console/supervisor-console.module.code.ts"
 import { LIVE_DEFERRED_RESTART_RULE } from "akasha/agents/seats/supervisors/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
@@ -26,6 +20,12 @@ import type {
   AgentProcess,
   InheritedProc,
 } from "akasha/agents/seats/supervisors/process/modules/supervisor-types/supervisor-types.module.code.ts"
+import { buildAgentActionSubsystem } from "akasha/agents/seats/supervisors/supervisor-actions/modules/supervisor-agent-action/supervisor-agent-action.module.code.ts"
+import {
+  clearRequestedAction,
+  consumeThenProxySwap,
+} from "akasha/agents/seats/supervisors/supervisor-actions/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
+import type { PendingAgentAction } from "akasha/agents/seats/supervisors/supervisor-actions/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
 
 export interface IterationWiring {
   actionSubsystem: ReturnType<typeof buildAgentActionSubsystem>

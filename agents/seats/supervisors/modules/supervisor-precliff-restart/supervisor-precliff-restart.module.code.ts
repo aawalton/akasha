@@ -1,9 +1,9 @@
 import { statSync } from "node:fs"
-import { requestedActionOf } from "akasha/agents/seats/supervisors/modules/control/seat-control.module.code.ts"
 import type {
   PreCliffObservation,
   PreCliffRestartRuleSource,
 } from "akasha/agents/seats/supervisors/modules/supervisor-precliff-restart-rule/supervisor-precliff-restart-rule.module.code.ts"
+import { requestedActionOf } from "akasha/agents/seats/supervisors/supervisor-actions/modules/control/seat-control.module.code.ts"
 
 const PRECLIFF_INTERVAL_MS = 60_000
 

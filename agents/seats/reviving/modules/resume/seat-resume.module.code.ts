@@ -39,7 +39,7 @@ import {
   describeAckTimeout,
   setRequestedAction,
   waitForActionCleared,
-} from "akasha/agents/seats/supervisors/modules/action/seat-action.module.code.ts"
+} from "akasha/agents/seats/supervisors/supervisor-actions/modules/action/seat-action.module.code.ts"
 import {
   dataError,
   exitCodeForThrowable,
