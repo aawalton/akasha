@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0173Chapter132ChampionsOfEarth = {
   ownLength: 3705,
   unit: "words",
   publishedAt: "2025-05-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2295861/chapter-132-champions-of-earth",
-  externalId: "2295861",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2295861",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2295861/chapter-132-champions-of-earth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

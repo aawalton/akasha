@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0207Chapter25FreeFromGravitysEmbrace = {
   ownLength: 1774,
   unit: "words",
   publishedAt: "2025-08-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2510186/chapter-25-free-from-gravitys-embrace",
-  externalId: "2510186",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2510186",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2510186/chapter-25-free-from-gravitys-embrace",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

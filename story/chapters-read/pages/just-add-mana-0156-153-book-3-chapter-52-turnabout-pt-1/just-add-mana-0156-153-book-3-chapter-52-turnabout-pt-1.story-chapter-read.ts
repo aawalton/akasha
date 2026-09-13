@@ -10,9 +10,13 @@ export const justAddMana0156153Book3Chapter52TurnaboutPt1 = {
   ownLength: 3311,
   unit: "words",
   publishedAt: "2026-06-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3589070/153-book-3-chapter-52-turnabout-pt-1",
-  externalId: "3589070",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3589070",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3589070/153-book-3-chapter-52-turnabout-pt-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

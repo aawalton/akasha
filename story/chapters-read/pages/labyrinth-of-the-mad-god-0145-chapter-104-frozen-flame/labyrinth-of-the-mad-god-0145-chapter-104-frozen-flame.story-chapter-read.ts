@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0145Chapter104FrozenFlame = {
   ownLength: 2358,
   unit: "words",
   publishedAt: "2025-03-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2132801/chapter-104-frozen-flame",
-  externalId: "2132801",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2132801",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2132801/chapter-104-frozen-flame",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

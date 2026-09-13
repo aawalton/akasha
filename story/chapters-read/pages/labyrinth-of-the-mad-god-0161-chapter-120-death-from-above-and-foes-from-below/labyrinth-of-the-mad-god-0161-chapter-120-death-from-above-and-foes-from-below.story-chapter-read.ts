@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0161Chapter120DeathFromAboveAndFoesFromBelow = 
   ownLength: 1570,
   unit: "words",
   publishedAt: "2025-04-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2225458/chapter-120-death-from-above-and-foes-from-below",
-  externalId: "2225458",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2225458",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2225458/chapter-120-death-from-above-and-foes-from-below",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

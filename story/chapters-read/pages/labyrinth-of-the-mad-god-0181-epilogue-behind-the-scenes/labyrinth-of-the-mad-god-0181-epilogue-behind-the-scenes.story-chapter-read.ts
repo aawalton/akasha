@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0181EpilogueBehindTheScenes = {
   ownLength: 661,
   unit: "words",
   publishedAt: "2025-06-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2335897/epilogue-behind-the-scenes",
-  externalId: "2335897",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2335897",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2335897/epilogue-behind-the-scenes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

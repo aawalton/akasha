@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0150Chapter109PoweringUp = {
   ownLength: 2272,
   unit: "words",
   publishedAt: "2025-03-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2157560/chapter-109-powering-up",
-  externalId: "2157560",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2157560",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2157560/chapter-109-powering-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

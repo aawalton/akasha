@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0238Chapter55KillingIntent = {
   ownLength: 2028,
   unit: "words",
   publishedAt: "2025-10-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2691706/chapter-55-killing-intent",
-  externalId: "2691706",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2691706",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2691706/chapter-55-killing-intent",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

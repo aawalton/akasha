@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0048Chapter18NickToTheRescue = {
   ownLength: 1601,
   unit: "words",
   publishedAt: "2024-08-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1778413/chapter-18-nick-to-the-rescue",
-  externalId: "1778413",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1778413",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1778413/chapter-18-nick-to-the-rescue",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

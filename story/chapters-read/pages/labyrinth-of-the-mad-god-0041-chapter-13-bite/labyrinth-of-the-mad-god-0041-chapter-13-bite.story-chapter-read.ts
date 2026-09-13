@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0041Chapter13Bite = {
   ownLength: 1686,
   unit: "words",
   publishedAt: "2024-08-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1761514/chapter-13-bite",
-  externalId: "1761514",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1761514",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1761514/chapter-13-bite",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0051Chapter20StrategySession = {
   ownLength: 1643,
   unit: "words",
   publishedAt: "2024-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1785455/chapter-20-strategy-session",
-  externalId: "1785455",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1785455",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1785455/chapter-20-strategy-session",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

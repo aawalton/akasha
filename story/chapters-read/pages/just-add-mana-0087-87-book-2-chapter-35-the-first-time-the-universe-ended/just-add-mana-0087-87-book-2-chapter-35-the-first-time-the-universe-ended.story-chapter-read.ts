@@ -12,9 +12,13 @@ export const justAddMana008787Book2Chapter35TheFirstTimeTheUniverseEnded = {
   unit: "words",
   completedAt: "2026-06-29T18:50:36.892Z",
   publishedAt: "2026-01-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2945560/87-book-2-chapter-35-the-first-time-the-universe",
-  externalId: "2945560",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2945560",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2945560/87-book-2-chapter-35-the-first-time-the-universe",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

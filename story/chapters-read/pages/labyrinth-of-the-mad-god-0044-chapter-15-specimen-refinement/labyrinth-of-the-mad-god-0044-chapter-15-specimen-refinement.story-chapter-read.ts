@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0044Chapter15SpecimenRefinement = {
   ownLength: 1776,
   unit: "words",
   publishedAt: "2024-08-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1768582/chapter-15-specimen-refinement",
-  externalId: "1768582",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1768582",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1768582/chapter-15-specimen-refinement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

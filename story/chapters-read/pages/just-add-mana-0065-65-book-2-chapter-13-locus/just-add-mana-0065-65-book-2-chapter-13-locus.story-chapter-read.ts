@@ -12,9 +12,13 @@ export const justAddMana006565Book2Chapter13Locus = {
   unit: "words",
   completedAt: "2026-06-29T18:49:50.287Z",
   publishedAt: "2025-11-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2791976/65-book-2-chapter-13-locus",
-  externalId: "2791976",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2791976",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2791976/65-book-2-chapter-13-locus",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

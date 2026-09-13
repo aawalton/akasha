@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0086Chapter47Checkmate = {
   ownLength: 1563,
   unit: "words",
   publishedAt: "2024-11-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1885125/chapter-47-checkmate",
-  externalId: "1885125",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1885125",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1885125/chapter-47-checkmate",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

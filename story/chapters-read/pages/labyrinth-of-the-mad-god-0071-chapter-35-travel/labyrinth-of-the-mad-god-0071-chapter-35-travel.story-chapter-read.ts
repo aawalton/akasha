@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0071Chapter35Travel = {
   ownLength: 1876,
   unit: "words",
   publishedAt: "2024-10-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1839297/chapter-35-travel",
-  externalId: "1839297",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1839297",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1839297/chapter-35-travel",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

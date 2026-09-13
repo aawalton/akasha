@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0162Chapter121MenVersusMachine = {
   ownLength: 1636,
   unit: "words",
   publishedAt: "2025-04-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2230894/chapter-121-men-versus-machine",
-  externalId: "2230894",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2230894",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2230894/chapter-121-men-versus-machine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

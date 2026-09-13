@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0192Chapter10DemonicTestDrive = {
   ownLength: 2539,
   unit: "words",
   publishedAt: "2025-07-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2416754/chapter-10-demonic-test-drive",
-  externalId: "2416754",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2416754",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2416754/chapter-10-demonic-test-drive",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

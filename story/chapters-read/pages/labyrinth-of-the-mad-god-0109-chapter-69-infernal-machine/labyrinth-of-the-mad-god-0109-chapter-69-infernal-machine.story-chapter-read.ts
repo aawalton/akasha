@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0109Chapter69InfernalMachine = {
   ownLength: 1441,
   unit: "words",
   publishedAt: "2024-12-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1974813/chapter-69-infernal-machine",
-  externalId: "1974813",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1974813",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1974813/chapter-69-infernal-machine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

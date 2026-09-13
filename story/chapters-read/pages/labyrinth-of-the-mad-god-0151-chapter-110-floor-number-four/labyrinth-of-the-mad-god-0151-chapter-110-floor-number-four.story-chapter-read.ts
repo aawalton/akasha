@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0151Chapter110FloorNumberFour = {
   ownLength: 1710,
   unit: "words",
   publishedAt: "2025-03-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2164028/chapter-110-floor-number-four",
-  externalId: "2164028",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2164028",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2164028/chapter-110-floor-number-four",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

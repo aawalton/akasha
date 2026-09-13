@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0226Chapter43PierceAndPeel = {
   ownLength: 2012,
   unit: "words",
   publishedAt: "2025-09-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2620695/chapter-43-pierce-and-peel",
-  externalId: "2620695",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2620695",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2620695/chapter-43-pierce-and-peel",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

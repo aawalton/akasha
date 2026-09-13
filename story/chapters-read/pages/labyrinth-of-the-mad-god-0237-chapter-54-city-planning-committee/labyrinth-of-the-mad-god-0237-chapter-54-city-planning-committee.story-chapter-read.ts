@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0237Chapter54CityPlanningCommittee = {
   ownLength: 2645,
   unit: "words",
   publishedAt: "2025-10-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2684315/chapter-54-city-planning-committee",
-  externalId: "2684315",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2684315",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2684315/chapter-54-city-planning-committee",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const justAddMana005959Book2Chapter7Alchemy101Pt2 = {
   unit: "words",
   completedAt: "2026-06-29T18:49:37.485Z",
   publishedAt: "2025-11-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2751768/59-book-2-chapter-7-alchemy-101-pt-2",
-  externalId: "2751768",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2751768",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2751768/59-book-2-chapter-7-alchemy-101-pt-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0107Chapter67Outmatched = {
   ownLength: 1588,
   unit: "words",
   publishedAt: "2024-12-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1966641/chapter-67-outmatched",
-  externalId: "1966641",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1966641",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1966641/chapter-67-outmatched",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

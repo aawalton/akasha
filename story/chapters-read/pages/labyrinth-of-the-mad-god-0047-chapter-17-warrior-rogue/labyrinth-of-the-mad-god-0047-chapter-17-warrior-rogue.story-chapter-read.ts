@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0047Chapter17WarriorRogue = {
   ownLength: 1638,
   unit: "words",
   publishedAt: "2024-08-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1775451/chapter-17-warrior-rogue",
-  externalId: "1775451",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1775451",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1775451/chapter-17-warrior-rogue",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

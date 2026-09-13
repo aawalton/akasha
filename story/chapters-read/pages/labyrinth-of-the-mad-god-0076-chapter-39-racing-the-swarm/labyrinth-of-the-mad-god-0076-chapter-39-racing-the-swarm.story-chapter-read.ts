@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0076Chapter39RacingTheSwarm = {
   ownLength: 1590,
   unit: "words",
   publishedAt: "2024-10-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1853519/chapter-39-racing-the-swarm",
-  externalId: "1853519",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1853519",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1853519/chapter-39-racing-the-swarm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

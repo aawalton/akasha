@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0199Chapter17Monster = {
   ownLength: 2331,
   unit: "words",
   publishedAt: "2025-07-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2460291/chapter-17-monster",
-  externalId: "2460291",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2460291",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2460291/chapter-17-monster",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0059Chapter26BugBattle = {
   ownLength: 1585,
   unit: "words",
   publishedAt: "2024-09-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1806218/chapter-26-bug-battle",
-  externalId: "1806218",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1806218",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1806218/chapter-26-bug-battle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

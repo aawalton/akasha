@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0060Chapter27DamageHealer = {
   ownLength: 1924,
   unit: "words",
   publishedAt: "2024-09-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1809164/chapter-27-damage-healer",
-  externalId: "1809164",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1809164",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1809164/chapter-27-damage-healer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0202Chapter20MageSight = {
   ownLength: 1869,
   unit: "words",
   publishedAt: "2025-07-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2479261/chapter-20-mage-sight",
-  externalId: "2479261",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2479261",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2479261/chapter-20-mage-sight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const justAddMana005656Book2Chapter4SwordAndSorceryPt4 = {
   unit: "words",
   completedAt: "2026-06-29T18:49:30.394Z",
   publishedAt: "2025-11-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2731755/56-book-2-chapter-4-sword-and-sorcery-pt-4",
-  externalId: "2731755",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2731755",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2731755/56-book-2-chapter-4-sword-and-sorcery-pt-4",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

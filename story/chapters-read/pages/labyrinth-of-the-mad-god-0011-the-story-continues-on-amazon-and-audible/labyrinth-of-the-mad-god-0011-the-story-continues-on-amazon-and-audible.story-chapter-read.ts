@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0011TheStoryContinuesOnAmazonAndAudible = {
   ownLength: 238,
   unit: "words",
   publishedAt: "2023-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1330851/the-story-continues-on-amazon-and-audible",
-  externalId: "1330851",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1330851",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1330851/the-story-continues-on-amazon-and-audible",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

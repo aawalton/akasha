@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0180Chapter139Diamond = {
   ownLength: 2805,
   unit: "words",
   publishedAt: "2025-06-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2335892/chapter-139-diamond",
-  externalId: "2335892",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2335892",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2335892/chapter-139-diamond",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

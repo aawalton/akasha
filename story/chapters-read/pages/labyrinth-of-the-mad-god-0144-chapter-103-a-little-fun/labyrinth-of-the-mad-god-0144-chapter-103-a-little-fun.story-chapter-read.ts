@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0144Chapter103ALittleFun = {
   ownLength: 2306,
   unit: "words",
   publishedAt: "2025-03-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2126591/chapter-103-a-little-fun",
-  externalId: "2126591",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2126591",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2126591/chapter-103-a-little-fun",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0175Chapter134DarkMoment = {
   ownLength: 3993,
   unit: "words",
   publishedAt: "2025-05-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2307617/chapter-134-dark-moment",
-  externalId: "2307617",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2307617",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2307617/chapter-134-dark-moment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

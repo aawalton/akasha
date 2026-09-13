@@ -12,9 +12,13 @@ export const justAddMana0046Chapter46Yeast = {
   unit: "words",
   completedAt: "2026-06-29T18:49:09.163Z",
   publishedAt: "2025-10-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2668488/chapter-46-yeast",
-  externalId: "2668488",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2668488",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2668488/chapter-46-yeast",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0028Chapter3MovingOnUp = {
   ownLength: 1698,
   unit: "words",
   publishedAt: "2024-07-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1730646/chapter-3-moving-on-up",
-  externalId: "1730646",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1730646",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1730646/chapter-3-moving-on-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

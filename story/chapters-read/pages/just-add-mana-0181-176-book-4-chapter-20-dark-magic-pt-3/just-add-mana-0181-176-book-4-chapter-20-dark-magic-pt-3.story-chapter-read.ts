@@ -10,9 +10,13 @@ export const justAddMana0181176Book4Chapter20DarkMagicPt3 = {
   ownLength: 3452,
   unit: "words",
   publishedAt: "2026-08-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3848214/176-book-4-chapter-20-dark-magic-pt-3",
-  externalId: "3848214",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3848214",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3848214/176-book-4-chapter-20-dark-magic-pt-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

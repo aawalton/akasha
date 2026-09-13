@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0057Chapter25AnUnfortunateChangeOfScenery = {
   ownLength: 1604,
   unit: "words",
   publishedAt: "2024-09-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1801792/chapter-25-an-unfortunate-change-of-scenery",
-  externalId: "1801792",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1801792",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1801792/chapter-25-an-unfortunate-change-of-scenery",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

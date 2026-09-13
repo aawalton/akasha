@@ -12,9 +12,13 @@ export const justAddMana0049Chapter49Epilogue1Cale = {
   unit: "words",
   completedAt: "2026-06-29T18:49:15.273Z",
   publishedAt: "2025-10-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2686223/chapter-49-epilogue-1-cale",
-  externalId: "2686223",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2686223",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2686223/chapter-49-epilogue-1-cale",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

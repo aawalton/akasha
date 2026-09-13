@@ -10,9 +10,13 @@ export const justAddMana0160Book3DeletedSceneMagicalFoci = {
   ownLength: 1839,
   unit: "words",
   publishedAt: "2026-07-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3631372/book-3-deleted-scene-magical-foci",
-  externalId: "3631372",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3631372",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3631372/book-3-deleted-scene-magical-foci",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0091Chapter52CloseCall = {
   ownLength: 1249,
   unit: "words",
   publishedAt: "2024-11-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1905868/chapter-52-close-call",
-  externalId: "1905868",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1905868",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1905868/chapter-52-close-call",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

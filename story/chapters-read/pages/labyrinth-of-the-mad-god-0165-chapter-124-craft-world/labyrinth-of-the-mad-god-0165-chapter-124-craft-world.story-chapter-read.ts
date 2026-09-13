@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0165Chapter124CraftWorld = {
   ownLength: 2295,
   unit: "words",
   publishedAt: "2025-05-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2249930/chapter-124-craft-world",
-  externalId: "2249930",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2249930",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2249930/chapter-124-craft-world",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

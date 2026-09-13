@@ -10,9 +10,13 @@ export const justAddMana0174169Book4Chapter13TheBranchAndTheBloomPt5 = {
   ownLength: 2860,
   unit: "words",
   publishedAt: "2026-08-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3777759/169-book-4-chapter-13-the-branch-and-the-bloom",
-  externalId: "3777759",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3777759",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3777759/169-book-4-chapter-13-the-branch-and-the-bloom",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

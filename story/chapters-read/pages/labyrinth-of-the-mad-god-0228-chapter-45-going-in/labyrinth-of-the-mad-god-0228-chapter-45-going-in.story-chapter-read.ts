@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0228Chapter45GoingIn = {
   ownLength: 2291,
   unit: "words",
   publishedAt: "2025-09-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2631360/chapter-45-going-in",
-  externalId: "2631360",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2631360",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2631360/chapter-45-going-in",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

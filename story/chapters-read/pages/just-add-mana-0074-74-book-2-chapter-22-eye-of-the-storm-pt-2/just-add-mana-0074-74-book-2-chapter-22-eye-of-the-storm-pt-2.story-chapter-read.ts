@@ -12,9 +12,13 @@ export const justAddMana007474Book2Chapter22EyeOfTheStormPt2 = {
   unit: "words",
   completedAt: "2026-06-29T18:50:10.578Z",
   publishedAt: "2025-12-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2853152/74-book-2-chapter-22-eye-of-the-storm-pt-2",
-  externalId: "2853152",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2853152",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2853152/74-book-2-chapter-22-eye-of-the-storm-pt-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

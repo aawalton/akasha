@@ -12,9 +12,13 @@ export const justAddMana0036Chapter36ImpromptuLecture = {
   unit: "words",
   completedAt: "2026-06-29T18:48:47.909Z",
   publishedAt: "2025-09-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2610044/chapter-36-impromptu-lecture",
-  externalId: "2610044",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2610044",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2610044/chapter-36-impromptu-lecture",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

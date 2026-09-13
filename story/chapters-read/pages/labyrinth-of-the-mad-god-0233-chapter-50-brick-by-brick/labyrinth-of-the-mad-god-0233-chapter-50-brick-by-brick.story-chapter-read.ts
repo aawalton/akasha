@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0233Chapter50BrickByBrick = {
   ownLength: 1958,
   unit: "words",
   publishedAt: "2025-10-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2661524/chapter-50-brick-by-brick",
-  externalId: "2661524",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2661524",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2661524/chapter-50-brick-by-brick",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

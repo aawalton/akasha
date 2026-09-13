@@ -12,9 +12,13 @@ export const justAddMana0031Chapter31Recovery = {
   unit: "words",
   completedAt: "2026-06-29T18:48:36.786Z",
   publishedAt: "2025-09-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2579362/chapter-31-recovery",
-  externalId: "2579362",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2579362",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2579362/chapter-31-recovery",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

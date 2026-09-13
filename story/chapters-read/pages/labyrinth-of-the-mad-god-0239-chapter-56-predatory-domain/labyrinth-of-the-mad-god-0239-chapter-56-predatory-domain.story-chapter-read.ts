@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0239Chapter56PredatoryDomain = {
   ownLength: 2145,
   unit: "words",
   publishedAt: "2025-10-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2696951/chapter-56-predatory-domain",
-  externalId: "2696951",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2696951",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2696951/chapter-56-predatory-domain",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

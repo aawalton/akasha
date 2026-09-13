@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0081Chapter43Shapeshifter = {
   ownLength: 1708,
   unit: "words",
   publishedAt: "2024-10-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1868230/chapter-43-shapeshifter",
-  externalId: "1868230",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1868230",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1868230/chapter-43-shapeshifter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0215Chapter33LoomingShowdown = {
   ownLength: 2450,
   unit: "words",
   publishedAt: "2025-08-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2558510/chapter-33-looming-showdown",
-  externalId: "2558510",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2558510",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2558510/chapter-33-looming-showdown",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

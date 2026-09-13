@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0075Chapter38IntermissionSophiaAndDevin3 = {
   ownLength: 1683,
   unit: "words",
   publishedAt: "2024-10-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1850400/chapter-38-intermission-sophia-and-devin-3",
-  externalId: "1850400",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1850400",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1850400/chapter-38-intermission-sophia-and-devin-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

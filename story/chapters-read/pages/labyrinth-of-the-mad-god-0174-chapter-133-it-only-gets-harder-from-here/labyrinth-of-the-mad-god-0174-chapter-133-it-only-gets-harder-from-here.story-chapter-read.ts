@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0174Chapter133ItOnlyGetsHarderFromHere = {
   ownLength: 1809,
   unit: "words",
   publishedAt: "2025-05-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2300838/chapter-133-it-only-gets-harder-from-here",
-  externalId: "2300838",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2300838",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2300838/chapter-133-it-only-gets-harder-from-here",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const justAddMana009090Book2Chapter38TempleOfVitality = {
   unit: "words",
   completedAt: "2026-06-29T18:50:44.450Z",
   publishedAt: "2026-01-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2967956/90-book-2-chapter-38-temple-of-vitality",
-  externalId: "2967956",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2967956",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2967956/90-book-2-chapter-38-temple-of-vitality",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

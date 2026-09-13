@@ -12,9 +12,13 @@ export const justAddMana008484Book2Chapter32RedWeavePt2 = {
   unit: "words",
   completedAt: "2026-06-29T18:50:31.106Z",
   publishedAt: "2026-01-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2923493/84-book-2-chapter-32-red-weave-pt-2",
-  externalId: "2923493",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2923493",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2923493/84-book-2-chapter-32-red-weave-pt-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

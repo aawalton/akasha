@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0098Chapter59Parley = {
   ownLength: 1827,
   unit: "words",
   publishedAt: "2024-12-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1936268/chapter-59-parley",
-  externalId: "1936268",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1936268",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1936268/chapter-59-parley",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

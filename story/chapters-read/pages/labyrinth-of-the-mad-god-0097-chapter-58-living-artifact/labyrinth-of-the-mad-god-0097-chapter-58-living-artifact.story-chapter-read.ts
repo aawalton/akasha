@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0097Chapter58LivingArtifact = {
   ownLength: 1624,
   unit: "words",
   publishedAt: "2024-11-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1930992/chapter-58-living-artifact",
-  externalId: "1930992",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1930992",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1930992/chapter-58-living-artifact",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

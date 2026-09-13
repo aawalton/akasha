@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0204Chapter22DivergingPaths = {
   ownLength: 2461,
   unit: "words",
   publishedAt: "2025-08-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2492019/chapter-22-diverging-paths",
-  externalId: "2492019",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2492019",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2492019/chapter-22-diverging-paths",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

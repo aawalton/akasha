@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0031Chapter5DecisionsDecisions = {
   ownLength: 1975,
   unit: "words",
   publishedAt: "2024-07-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1736944/chapter-5-decisions-decisions",
-  externalId: "1736944",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1736944",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1736944/chapter-5-decisions-decisions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

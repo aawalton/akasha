@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0217Chapter35MeetTheTeam = {
   ownLength: 2657,
   unit: "words",
   publishedAt: "2025-09-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2571712/chapter-35-meet-the-team",
-  externalId: "2571712",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2571712",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2571712/chapter-35-meet-the-team",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const justAddMana0048Chapter48BakingBreadPt2 = {
   unit: "words",
   completedAt: "2026-06-29T18:49:13.177Z",
   publishedAt: "2025-10-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2680945/chapter-48-baking-bread-pt-2",
-  externalId: "2680945",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2680945",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2680945/chapter-48-baking-bread-pt-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

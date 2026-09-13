@@ -10,9 +10,13 @@ export const justAddMana0145142Book3Chapter41OfWandsAndStakes = {
   ownLength: 2887,
   unit: "words",
   publishedAt: "2026-05-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3468682/142-book-3-chapter-41-of-wands-and-stakes",
-  externalId: "3468682",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3468682",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3468682/142-book-3-chapter-41-of-wands-and-stakes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

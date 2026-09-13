@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0219Chapter37ArmadaWurm = {
   ownLength: 1853,
   unit: "words",
   publishedAt: "2025-09-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2585158/chapter-37-armada-wurm",
-  externalId: "2585158",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2585158",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2585158/chapter-37-armada-wurm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

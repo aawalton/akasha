@@ -12,9 +12,13 @@ export const justAddMana0030Chapter30AClassAct = {
   unit: "words",
   completedAt: "2026-06-29T18:48:34.692Z",
   publishedAt: "2025-09-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2573724/chapter-30-a-class-act",
-  externalId: "2573724",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2573724",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2573724/chapter-30-a-class-act",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

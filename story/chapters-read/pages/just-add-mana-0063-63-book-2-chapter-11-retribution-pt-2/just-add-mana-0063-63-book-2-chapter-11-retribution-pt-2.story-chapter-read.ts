@@ -12,9 +12,13 @@ export const justAddMana006363Book2Chapter11RetributionPt2 = {
   unit: "words",
   completedAt: "2026-06-29T18:49:46.164Z",
   publishedAt: "2025-11-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2777618/63-book-2-chapter-11-retribution-pt-2",
-  externalId: "2777618",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2777618",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2777618/63-book-2-chapter-11-retribution-pt-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

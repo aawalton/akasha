@@ -10,9 +10,13 @@ export const justAddMana0164159Book4Chapter3OverpoweredMagicDuelPt3 = {
   ownLength: 2718,
   unit: "words",
   publishedAt: "2026-07-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3675792/159-book-4-chapter-3-overpowered-magic-duel-pt",
-  externalId: "3675792",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3675792",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3675792/159-book-4-chapter-3-overpowered-magic-duel-pt",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

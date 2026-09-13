@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0055Chapter23SupplyRun = {
   ownLength: 2220,
   unit: "words",
   publishedAt: "2024-09-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1795735/chapter-23-supply-run",
-  externalId: "1795735",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1795735",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1795735/chapter-23-supply-run",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

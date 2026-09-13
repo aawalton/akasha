@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0124Chapter83Raptor = {
   ownLength: 1598,
   unit: "words",
   publishedAt: "2025-01-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2033180/chapter-83-raptor",
-  externalId: "2033180",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2033180",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2033180/chapter-83-raptor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

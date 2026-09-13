@@ -12,9 +12,13 @@ export const justAddMana0051Chapter51Epilogue3Sternkessel = {
   unit: "words",
   completedAt: "2026-06-29T18:49:19.481Z",
   publishedAt: "2025-10-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2698801/chapter-51-epilogue-3-sternkessel",
-  externalId: "2698801",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2698801",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2698801/chapter-51-epilogue-3-sternkessel",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

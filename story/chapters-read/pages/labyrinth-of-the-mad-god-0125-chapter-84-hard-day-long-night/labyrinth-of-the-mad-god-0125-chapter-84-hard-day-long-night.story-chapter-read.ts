@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0125Chapter84HardDayLongNight = {
   ownLength: 1554,
   unit: "words",
   publishedAt: "2025-01-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2036761/chapter-84-hard-day-long-night",
-  externalId: "2036761",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2036761",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2036761/chapter-84-hard-day-long-night",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0224Chapter41WorldsStrongest = {
   ownLength: 1854,
   unit: "words",
   publishedAt: "2025-09-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2608137/chapter-41-worlds-strongest",
-  externalId: "2608137",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2608137",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2608137/chapter-41-worlds-strongest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const justAddMana0039Chapter39FireResonancePt1 = {
   unit: "words",
   completedAt: "2026-06-29T18:48:53.948Z",
   publishedAt: "2025-09-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2622637/chapter-39-fire-resonance-pt-1",
-  externalId: "2622637",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2622637",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2622637/chapter-39-fire-resonance-pt-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

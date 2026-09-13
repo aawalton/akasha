@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0114Chapter73TheEverSurgingBlade = {
   ownLength: 1518,
   unit: "words",
   publishedAt: "2025-01-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1990325/chapter-73-the-ever-surging-blade",
-  externalId: "1990325",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1990325",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1990325/chapter-73-the-ever-surging-blade",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

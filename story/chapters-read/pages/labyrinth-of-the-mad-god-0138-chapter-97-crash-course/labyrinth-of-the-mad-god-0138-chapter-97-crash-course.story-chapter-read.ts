@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0138Chapter97CrashCourse = {
   ownLength: 1687,
   unit: "words",
   publishedAt: "2025-02-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2095482/chapter-97-crash-course",
-  externalId: "2095482",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2095482",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2095482/chapter-97-crash-course",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

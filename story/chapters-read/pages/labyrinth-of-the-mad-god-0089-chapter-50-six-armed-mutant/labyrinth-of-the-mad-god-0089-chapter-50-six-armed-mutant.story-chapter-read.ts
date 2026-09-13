@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0089Chapter50SixArmedMutant = {
   ownLength: 1651,
   unit: "words",
   publishedAt: "2024-11-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1897946/chapter-50-six-armed-mutant",
-  externalId: "1897946",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1897946",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1897946/chapter-50-six-armed-mutant",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

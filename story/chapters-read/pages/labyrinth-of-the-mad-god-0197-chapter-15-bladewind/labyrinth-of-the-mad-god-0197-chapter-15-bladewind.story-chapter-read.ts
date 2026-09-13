@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0197Chapter15Bladewind = {
   ownLength: 2433,
   unit: "words",
   publishedAt: "2025-07-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2446540/chapter-15-bladewind",
-  externalId: "2446540",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2446540",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2446540/chapter-15-bladewind",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

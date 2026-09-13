@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0045Chapter16Samples = {
   ownLength: 1770,
   unit: "words",
   publishedAt: "2024-08-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1771453/chapter-16-samples",
-  externalId: "1771453",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1771453",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1771453/chapter-16-samples",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const justAddMana0033Chapter33SecretsAndSorceryPt2 = {
   unit: "words",
   completedAt: "2026-06-29T18:48:41.265Z",
   publishedAt: "2025-09-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2592508/chapter-33-secrets-and-sorcery-pt-2",
-  externalId: "2592508",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2592508",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2592508/chapter-33-secrets-and-sorcery-pt-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

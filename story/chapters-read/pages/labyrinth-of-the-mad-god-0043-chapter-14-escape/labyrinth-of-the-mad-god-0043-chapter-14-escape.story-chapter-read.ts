@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0043Chapter14Escape = {
   ownLength: 1765,
   unit: "words",
   publishedAt: "2024-08-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1765708/chapter-14-escape",
-  externalId: "1765708",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1765708",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1765708/chapter-14-escape",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0190Chapter8MagicArmorAndArcaneShield = {
   ownLength: 2683,
   unit: "words",
   publishedAt: "2025-07-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2403881/chapter-8-magic-armor-and-arcane-shield",
-  externalId: "2403881",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2403881",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2403881/chapter-8-magic-armor-and-arcane-shield",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

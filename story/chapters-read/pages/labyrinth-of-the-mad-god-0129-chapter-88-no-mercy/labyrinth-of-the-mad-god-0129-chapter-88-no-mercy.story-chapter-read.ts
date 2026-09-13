@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0129Chapter88NoMercy = {
   ownLength: 1795,
   unit: "words",
   publishedAt: "2025-02-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2053877/chapter-88-no-mercy",
-  externalId: "2053877",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2053877",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2053877/chapter-88-no-mercy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

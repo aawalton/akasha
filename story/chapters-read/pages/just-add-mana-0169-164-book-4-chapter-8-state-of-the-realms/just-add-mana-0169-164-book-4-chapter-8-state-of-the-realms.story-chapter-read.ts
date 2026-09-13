@@ -10,9 +10,13 @@ export const justAddMana0169164Book4Chapter8StateOfTheRealms = {
   ownLength: 3292,
   unit: "words",
   publishedAt: "2026-07-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3724342/164-book-4-chapter-8-state-of-the-realms",
-  externalId: "3724342",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3724342",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3724342/164-book-4-chapter-8-state-of-the-realms",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

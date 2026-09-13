@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0104ConceptArt1955064 = {
   ownLength: 10,
   unit: "words",
   publishedAt: "2024-12-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1955064/concept-art",
-  externalId: "1955064",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1955064",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1955064/concept-art",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

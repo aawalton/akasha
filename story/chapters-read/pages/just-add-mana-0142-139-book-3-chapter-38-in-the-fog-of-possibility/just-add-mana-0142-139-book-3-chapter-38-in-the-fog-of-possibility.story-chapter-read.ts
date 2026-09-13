@@ -10,9 +10,13 @@ export const justAddMana0142139Book3Chapter38InTheFogOfPossibility = {
   ownLength: 3446,
   unit: "words",
   publishedAt: "2026-05-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3436042/139-book-3-chapter-38-in-the-fog-of-possibility",
-  externalId: "3436042",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3436042",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3436042/139-book-3-chapter-38-in-the-fog-of-possibility",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const justAddMana0052Chapter52Epilogue4Akkau = {
   unit: "words",
   completedAt: "2026-06-29T18:49:21.898Z",
   publishedAt: "2025-10-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2703847/chapter-52-epilogue-4-akkau",
-  externalId: "2703847",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2703847",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2703847/chapter-52-epilogue-4-akkau",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

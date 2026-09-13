@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0069Chapter34Pda = {
   ownLength: 1877,
   unit: "words",
   publishedAt: "2024-10-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1834895/chapter-34-pda",
-  externalId: "1834895",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1834895",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1834895/chapter-34-pda",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

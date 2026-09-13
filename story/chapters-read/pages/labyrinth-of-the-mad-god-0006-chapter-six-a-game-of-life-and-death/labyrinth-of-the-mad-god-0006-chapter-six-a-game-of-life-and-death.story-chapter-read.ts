@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0006ChapterSixAGameOfLifeAndDeath = {
   ownLength: 1839,
   unit: "words",
   publishedAt: "2023-09-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1331821/chapter-six-a-game-of-life-and-death",
-  externalId: "1331821",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1331821",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1331821/chapter-six-a-game-of-life-and-death",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0209Chapter27ABondUnlikeAnyOther = {
   ownLength: 2057,
   unit: "words",
   publishedAt: "2025-08-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2520994/chapter-27-a-bond-unlike-any-other",
-  externalId: "2520994",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2520994",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2520994/chapter-27-a-bond-unlike-any-other",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const justAddMana0167162Book4Chapter6DivineDomain = {
   ownLength: 3629,
   unit: "words",
   publishedAt: "2026-07-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3706505/162-book-4-chapter-6-divine-domain",
-  externalId: "3706505",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3706505",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3706505/162-book-4-chapter-6-divine-domain",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

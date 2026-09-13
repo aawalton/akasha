@@ -8,11 +8,15 @@ export const justAddMana0187182Book4Chapter26TheBlackVaultPt3 = {
   position: 187,
   publishedAt: "2026-09-05",
   unit: "words",
-  externalId: "3916007",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3916007",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3916007/182-book-4-chapter-26-the-black-vault-pt-3",
+    },
+  ],
   title: "182 — Book 4, Chapter 26 — The Black Vault, Pt 3",
   ownLength: 3582,
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3916007/182-book-4-chapter-26-the-black-vault-pt-3",
   prose: "txt",
 } as const satisfies StoryChapterRead

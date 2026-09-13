@@ -10,9 +10,13 @@ export const justAddMana0178173Book4Chapter17RipplesInBrightscale = {
   ownLength: 4020,
   unit: "words",
   publishedAt: "2026-08-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3817601/173-book-4-chapter-17-ripples-in-brightscale",
-  externalId: "3817601",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3817601",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3817601/173-book-4-chapter-17-ripples-in-brightscale",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

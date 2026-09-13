@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0169Chapter128BlightStoryIi = {
   ownLength: 2611,
   unit: "words",
   publishedAt: "2025-05-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2274495/chapter-128-blight-story-ii",
-  externalId: "2274495",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2274495",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2274495/chapter-128-blight-story-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

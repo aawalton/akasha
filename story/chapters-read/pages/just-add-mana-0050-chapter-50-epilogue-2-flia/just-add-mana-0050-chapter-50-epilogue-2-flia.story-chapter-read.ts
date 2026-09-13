@@ -12,9 +12,13 @@ export const justAddMana0050Chapter50Epilogue2Flia = {
   unit: "words",
   completedAt: "2026-06-29T18:49:17.385Z",
   publishedAt: "2025-10-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2693739/chapter-50-epilogue-2-flia",
-  externalId: "2693739",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2693739",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2693739/chapter-50-epilogue-2-flia",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

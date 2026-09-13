@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0032Chapter6PickingAPath = {
   ownLength: 1921,
   unit: "words",
   publishedAt: "2024-07-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1739680/chapter-6-picking-a-path",
-  externalId: "1739680",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1739680",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1739680/chapter-6-picking-a-path",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

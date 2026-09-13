@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0096Chapter57FlameWroughtFinale = {
   ownLength: 1939,
   unit: "words",
   publishedAt: "2024-11-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1927606/chapter-57-flame-wrought-finale",
-  externalId: "1927606",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1927606",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1927606/chapter-57-flame-wrought-finale",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

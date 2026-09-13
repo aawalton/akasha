@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0186Chapter4ItsGoodToBeHome = {
   ownLength: 1833,
   unit: "words",
   publishedAt: "2025-06-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2379793/chapter-4-its-good-to-be-home",
-  externalId: "2379793",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2379793",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2379793/chapter-4-its-good-to-be-home",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

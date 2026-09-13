@@ -12,9 +12,13 @@ export const justAddMana0101101Book2Chapter49TheGift = {
   unit: "words",
   completedAt: "2026-06-29T18:51:07.288Z",
   publishedAt: "2026-02-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3063069/101-book-2-chapter-49-the-gift",
-  externalId: "3063069",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3063069",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3063069/101-book-2-chapter-49-the-gift",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

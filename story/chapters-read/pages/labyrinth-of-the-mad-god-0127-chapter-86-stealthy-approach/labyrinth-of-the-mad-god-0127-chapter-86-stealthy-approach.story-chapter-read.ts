@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0127Chapter86StealthyApproach = {
   ownLength: 1763,
   unit: "words",
   publishedAt: "2025-02-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2046006/chapter-86-stealthy-approach",
-  externalId: "2046006",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2046006",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2046006/chapter-86-stealthy-approach",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

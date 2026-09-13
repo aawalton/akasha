@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0080Chapter42TacticalWithdrawal = {
   ownLength: 1548,
   unit: "words",
   publishedAt: "2024-10-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1864993/chapter-42-tactical-withdrawal",
-  externalId: "1864993",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1864993",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1864993/chapter-42-tactical-withdrawal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

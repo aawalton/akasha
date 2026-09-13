@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0153Chapter112Blizzard = {
   ownLength: 1894,
   unit: "words",
   publishedAt: "2025-04-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2174713/chapter-112-blizzard",
-  externalId: "2174713",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2174713",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2174713/chapter-112-blizzard",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

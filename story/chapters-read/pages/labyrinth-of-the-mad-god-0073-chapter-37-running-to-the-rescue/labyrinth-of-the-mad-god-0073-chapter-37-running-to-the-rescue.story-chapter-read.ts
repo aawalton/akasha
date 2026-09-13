@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0073Chapter37RunningToTheRescue = {
   ownLength: 1538,
   unit: "words",
   publishedAt: "2024-10-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1845676/chapter-37-running-to-the-rescue",
-  externalId: "1845676",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1845676",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1845676/chapter-37-running-to-the-rescue",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

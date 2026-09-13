@@ -12,9 +12,13 @@ export const justAddMana009393Book2Chapter41AcademicRevelations = {
   unit: "words",
   completedAt: "2026-06-29T18:50:50.595Z",
   publishedAt: "2026-01-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2991204/93-book-2-chapter-41-academic-revelations",
-  externalId: "2991204",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2991204",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2991204/93-book-2-chapter-41-academic-revelations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

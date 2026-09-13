@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0156Chapter115OutOfTheFreezerAndIntoTheFire = {
   ownLength: 1807,
   unit: "words",
   publishedAt: "2025-04-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2193685/chapter-115-out-of-the-freezer-and-into-the-fire",
-  externalId: "2193685",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2193685",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2193685/chapter-115-out-of-the-freezer-and-into-the-fire",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

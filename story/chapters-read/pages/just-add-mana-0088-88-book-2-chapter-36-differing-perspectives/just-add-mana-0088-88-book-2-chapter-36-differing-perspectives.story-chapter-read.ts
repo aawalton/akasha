@@ -12,9 +12,13 @@ export const justAddMana008888Book2Chapter36DifferingPerspectives = {
   unit: "words",
   completedAt: "2026-06-29T18:50:39.010Z",
   publishedAt: "2026-01-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2952142/88-book-2-chapter-36-differing-perspectives",
-  externalId: "2952142",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2952142",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2952142/88-book-2-chapter-36-differing-perspectives",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

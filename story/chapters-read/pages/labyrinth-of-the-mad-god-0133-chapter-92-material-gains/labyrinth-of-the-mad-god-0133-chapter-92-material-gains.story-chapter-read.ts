@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0133Chapter92MaterialGains = {
   ownLength: 1707,
   unit: "words",
   publishedAt: "2025-02-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2073024/chapter-92-material-gains",
-  externalId: "2073024",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2073024",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2073024/chapter-92-material-gains",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

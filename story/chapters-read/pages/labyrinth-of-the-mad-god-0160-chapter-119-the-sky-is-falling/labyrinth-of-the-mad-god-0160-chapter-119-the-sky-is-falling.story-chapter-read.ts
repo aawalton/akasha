@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0160Chapter119TheSkyIsFalling = {
   ownLength: 1634,
   unit: "words",
   publishedAt: "2025-04-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2220149/chapter-119-the-sky-is-falling",
-  externalId: "2220149",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2220149",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2220149/chapter-119-the-sky-is-falling",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

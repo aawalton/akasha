@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0185Chapter3RebuildingCivilization = {
   ownLength: 1805,
   unit: "words",
   publishedAt: "2025-06-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2372238/chapter-3-rebuilding-civilization",
-  externalId: "2372238",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2372238",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2372238/chapter-3-rebuilding-civilization",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

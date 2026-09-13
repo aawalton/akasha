@@ -12,9 +12,13 @@ export const justAddMana0104IntermissionRealmwatcherSDiariesFishingMagic = {
   unit: "words",
   completedAt: "2026-06-29T18:51:13.299Z",
   publishedAt: "2026-02-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3087780/intermission-realmwatchers-diaries-fishing-magic",
-  externalId: "3087780",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3087780",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3087780/intermission-realmwatchers-diaries-fishing-magic",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

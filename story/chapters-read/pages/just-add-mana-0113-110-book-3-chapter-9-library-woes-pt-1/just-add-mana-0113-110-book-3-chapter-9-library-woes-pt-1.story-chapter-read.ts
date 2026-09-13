@@ -10,9 +10,13 @@ export const justAddMana0113110Book3Chapter9LibraryWoesPt1 = {
   ownLength: 3194,
   unit: "words",
   publishedAt: "2026-03-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3161936/110-book-3-chapter-9-library-woes-pt-1",
-  externalId: "3161936",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3161936",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3161936/110-book-3-chapter-9-library-woes-pt-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

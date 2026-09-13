@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0036Chapter9SterileDevastation = {
   ownLength: 1609,
   unit: "words",
   publishedAt: "2024-08-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1748688/chapter-9-sterile-devastation",
-  externalId: "1748688",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1748688",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1748688/chapter-9-sterile-devastation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

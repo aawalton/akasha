@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0227Chapter44ATurnForTheWorse = {
   ownLength: 2268,
   unit: "words",
   publishedAt: "2025-09-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2626011/chapter-44-a-turn-for-the-worse",
-  externalId: "2626011",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2626011",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2626011/chapter-44-a-turn-for-the-worse",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

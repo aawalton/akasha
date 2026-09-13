@@ -12,9 +12,13 @@ export const justAddMana006868Book2Chapter16Apprenticeships = {
   unit: "words",
   completedAt: "2026-06-29T18:49:57.769Z",
   publishedAt: "2025-12-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2812159/68-book-2-chapter-16-apprenticeships",
-  externalId: "2812159",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2812159",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2812159/68-book-2-chapter-16-apprenticeships",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

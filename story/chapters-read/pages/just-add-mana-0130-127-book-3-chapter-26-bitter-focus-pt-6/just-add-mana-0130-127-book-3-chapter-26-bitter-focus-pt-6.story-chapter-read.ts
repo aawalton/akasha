@@ -10,9 +10,13 @@ export const justAddMana0130127Book3Chapter26BitterFocusPt6 = {
   ownLength: 3813,
   unit: "words",
   publishedAt: "2026-04-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3317337/127-book-3-chapter-26-bitter-focus-pt-6",
-  externalId: "3317337",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3317337",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3317337/127-book-3-chapter-26-bitter-focus-pt-6",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

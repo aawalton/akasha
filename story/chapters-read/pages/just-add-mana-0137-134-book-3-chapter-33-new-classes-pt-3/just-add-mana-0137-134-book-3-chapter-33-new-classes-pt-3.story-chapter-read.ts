@@ -10,9 +10,13 @@ export const justAddMana0137134Book3Chapter33NewClassesPt3 = {
   ownLength: 3084,
   unit: "words",
   publishedAt: "2026-05-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3386410/134-book-3-chapter-33-new-classes-pt-3",
-  externalId: "3386410",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3386410",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3386410/134-book-3-chapter-33-new-classes-pt-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0234Chapter51JoyousReunion = {
   ownLength: 2274,
   unit: "words",
   publishedAt: "2025-10-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2666561/chapter-51-joyous-reunion",
-  externalId: "2666561",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2666561",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2666561/chapter-51-joyous-reunion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

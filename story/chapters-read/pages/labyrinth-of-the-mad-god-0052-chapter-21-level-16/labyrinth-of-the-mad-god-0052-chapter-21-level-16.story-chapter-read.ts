@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0052Chapter21Level16 = {
   ownLength: 1927,
   unit: "words",
   publishedAt: "2024-09-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1788433/chapter-21-level-16",
-  externalId: "1788433",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1788433",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1788433/chapter-21-level-16",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

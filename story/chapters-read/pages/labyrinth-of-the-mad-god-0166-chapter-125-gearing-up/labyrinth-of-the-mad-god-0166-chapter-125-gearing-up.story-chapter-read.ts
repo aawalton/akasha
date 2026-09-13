@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0166Chapter125GearingUp = {
   ownLength: 2316,
   unit: "words",
   publishedAt: "2025-05-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2257632/chapter-125-gearing-up",
-  externalId: "2257632",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2257632",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2257632/chapter-125-gearing-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

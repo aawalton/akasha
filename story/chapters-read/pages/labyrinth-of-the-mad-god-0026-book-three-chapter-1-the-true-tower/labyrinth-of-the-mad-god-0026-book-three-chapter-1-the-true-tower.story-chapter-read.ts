@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0026BookThreeChapter1TheTrueTower = {
   ownLength: 1606,
   unit: "words",
   publishedAt: "2024-07-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1725634/book-three-chapter-1-the-true-tower",
-  externalId: "1725634",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1725634",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1725634/book-three-chapter-1-the-true-tower",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

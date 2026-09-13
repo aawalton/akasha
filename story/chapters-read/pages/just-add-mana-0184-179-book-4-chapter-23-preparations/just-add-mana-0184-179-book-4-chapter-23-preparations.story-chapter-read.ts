@@ -10,9 +10,13 @@ export const justAddMana0184179Book4Chapter23Preparations = {
   ownLength: 3664,
   unit: "words",
   publishedAt: "2026-08-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3881688/179-book-4-chapter-23-preparations",
-  externalId: "3881688",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3881688",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3881688/179-book-4-chapter-23-preparations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

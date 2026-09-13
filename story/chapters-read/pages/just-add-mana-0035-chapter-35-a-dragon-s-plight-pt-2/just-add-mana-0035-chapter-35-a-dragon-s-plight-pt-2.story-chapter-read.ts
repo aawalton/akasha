@@ -12,9 +12,13 @@ export const justAddMana0035Chapter35ADragonSPlightPt2 = {
   unit: "words",
   completedAt: "2026-06-29T18:48:45.593Z",
   publishedAt: "2025-09-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2604776/chapter-35-a-dragons-plight-pt-2",
-  externalId: "2604776",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2604776",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2604776/chapter-35-a-dragons-plight-pt-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

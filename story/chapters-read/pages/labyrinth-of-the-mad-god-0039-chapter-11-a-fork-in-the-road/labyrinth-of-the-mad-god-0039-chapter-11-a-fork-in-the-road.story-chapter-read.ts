@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0039Chapter11AForkInTheRoad = {
   ownLength: 1629,
   unit: "words",
   publishedAt: "2024-08-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1755478/chapter-11-a-fork-in-the-road",
-  externalId: "1755478",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1755478",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1755478/chapter-11-a-fork-in-the-road",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

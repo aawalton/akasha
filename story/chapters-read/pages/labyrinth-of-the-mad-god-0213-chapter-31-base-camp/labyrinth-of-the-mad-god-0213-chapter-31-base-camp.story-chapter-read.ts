@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0213Chapter31BaseCamp = {
   ownLength: 1946,
   unit: "words",
   publishedAt: "2025-08-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2547275/chapter-31-base-camp",
-  externalId: "2547275",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2547275",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2547275/chapter-31-base-camp",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

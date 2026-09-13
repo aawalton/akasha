@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0117Chapter76RapidProgress = {
   ownLength: 1849,
   unit: "words",
   publishedAt: "2025-01-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2003211/chapter-76-rapid-progress",
-  externalId: "2003211",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2003211",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2003211/chapter-76-rapid-progress",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

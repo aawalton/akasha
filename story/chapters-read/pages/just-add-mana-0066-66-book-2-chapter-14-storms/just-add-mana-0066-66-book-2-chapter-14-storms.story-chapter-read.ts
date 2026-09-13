@@ -12,9 +12,13 @@ export const justAddMana006666Book2Chapter14Storms = {
   unit: "words",
   completedAt: "2026-06-29T18:49:53.433Z",
   publishedAt: "2025-11-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2797710/66-book-2-chapter-14-storms",
-  externalId: "2797710",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2797710",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2797710/66-book-2-chapter-14-storms",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

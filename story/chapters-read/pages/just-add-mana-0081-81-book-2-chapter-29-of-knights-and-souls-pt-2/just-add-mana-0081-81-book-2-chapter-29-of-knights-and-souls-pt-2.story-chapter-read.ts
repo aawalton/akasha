@@ -12,9 +12,13 @@ export const justAddMana008181Book2Chapter29OfKnightsAndSoulsPt2 = {
   unit: "words",
   completedAt: "2026-06-29T18:50:25.163Z",
   publishedAt: "2026-01-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2898374/81-book-2-chapter-29-of-knights-and-souls-pt-2",
-  externalId: "2898374",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2898374",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2898374/81-book-2-chapter-29-of-knights-and-souls-pt-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

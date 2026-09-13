@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0121Chapter80ReadyToRoll = {
   ownLength: 1723,
   unit: "words",
   publishedAt: "2025-01-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2020740/chapter-80-ready-to-roll",
-  externalId: "2020740",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2020740",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2020740/chapter-80-ready-to-roll",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

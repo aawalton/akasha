@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0093Chapter54TheBigGuns = {
   ownLength: 1717,
   unit: "words",
   publishedAt: "2024-11-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1915002/chapter-54-the-big-guns",
-  externalId: "1915002",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1915002",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1915002/chapter-54-the-big-guns",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

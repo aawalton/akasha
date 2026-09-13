@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0123Chapter82DangerAbove = {
   ownLength: 1631,
   unit: "words",
   publishedAt: "2025-01-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2028146/chapter-82-danger-above",
-  externalId: "2028146",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2028146",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2028146/chapter-82-danger-above",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

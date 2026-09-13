@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0177Chapter136TheFinalAct = {
   ownLength: 1773,
   unit: "words",
   publishedAt: "2025-05-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2317660/chapter-136-the-final-act",
-  externalId: "2317660",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2317660",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2317660/chapter-136-the-final-act",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

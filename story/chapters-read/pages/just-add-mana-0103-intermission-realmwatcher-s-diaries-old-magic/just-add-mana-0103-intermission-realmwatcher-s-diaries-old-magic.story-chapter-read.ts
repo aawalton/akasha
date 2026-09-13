@@ -12,9 +12,13 @@ export const justAddMana0103IntermissionRealmwatcherSDiariesOldMagic = {
   unit: "words",
   completedAt: "2026-06-29T18:51:11.206Z",
   publishedAt: "2026-02-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3078286/intermission-realmwatchers-diaries-old-magic",
-  externalId: "3078286",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3078286",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3078286/intermission-realmwatchers-diaries-old-magic",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

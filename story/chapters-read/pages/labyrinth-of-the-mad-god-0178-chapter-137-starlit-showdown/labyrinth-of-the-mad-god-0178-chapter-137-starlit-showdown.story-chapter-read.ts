@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0178Chapter137StarlitShowdown = {
   ownLength: 2916,
   unit: "words",
   publishedAt: "2025-06-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2325289/chapter-137-starlit-showdown",
-  externalId: "2325289",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2325289",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2325289/chapter-137-starlit-showdown",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

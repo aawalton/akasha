@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0116Chapter75BaredBladesByMidnight = {
   ownLength: 1373,
   unit: "words",
   publishedAt: "2025-01-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1999403/chapter-75-bared-blades-by-midnight",
-  externalId: "1999403",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1999403",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1999403/chapter-75-bared-blades-by-midnight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0082Chapter44Teamwork = {
   ownLength: 1538,
   unit: "words",
   publishedAt: "2024-10-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1872703/chapter-44-teamwork",
-  externalId: "1872703",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1872703",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1872703/chapter-44-teamwork",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

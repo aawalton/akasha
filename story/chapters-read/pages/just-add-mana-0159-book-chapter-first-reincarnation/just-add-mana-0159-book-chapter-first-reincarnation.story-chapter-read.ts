@@ -10,9 +10,13 @@ export const justAddMana0159BookChapterFirstReincarnation = {
   ownLength: 883,
   unit: "words",
   publishedAt: "2026-07-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3621916/book-chapter-first-reincarnation",
-  externalId: "3621916",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3621916",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3621916/book-chapter-first-reincarnation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0158Chapter117BreathingEasy = {
   ownLength: 1884,
   unit: "words",
   publishedAt: "2025-04-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2207570/chapter-117-breathing-easy",
-  externalId: "2207570",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2207570",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2207570/chapter-117-breathing-easy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

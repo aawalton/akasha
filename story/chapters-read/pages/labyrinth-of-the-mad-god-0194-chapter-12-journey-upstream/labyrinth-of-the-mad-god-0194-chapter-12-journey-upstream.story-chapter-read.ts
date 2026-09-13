@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0194Chapter12JourneyUpstream = {
   ownLength: 2102,
   unit: "words",
   publishedAt: "2025-07-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2427504/chapter-12-journey-upstream",
-  externalId: "2427504",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2427504",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2427504/chapter-12-journey-upstream",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

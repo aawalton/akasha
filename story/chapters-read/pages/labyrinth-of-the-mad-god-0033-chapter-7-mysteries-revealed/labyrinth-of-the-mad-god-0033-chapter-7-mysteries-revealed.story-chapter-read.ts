@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0033Chapter7MysteriesRevealed = {
   ownLength: 1551,
   unit: "words",
   publishedAt: "2024-08-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1742279/chapter-7-mysteries-revealed",
-  externalId: "1742279",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1742279",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1742279/chapter-7-mysteries-revealed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

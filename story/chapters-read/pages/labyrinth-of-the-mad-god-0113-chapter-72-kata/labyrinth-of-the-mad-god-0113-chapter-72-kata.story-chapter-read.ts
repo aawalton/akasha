@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0113Chapter72Kata = {
   ownLength: 1522,
   unit: "words",
   publishedAt: "2025-01-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1986625/chapter-72-kata",
-  externalId: "1986625",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1986625",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1986625/chapter-72-kata",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

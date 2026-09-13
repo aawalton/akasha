@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0179Chapter138TheFateOfEarth = {
   ownLength: 2708,
   unit: "words",
   publishedAt: "2025-06-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2330577/chapter-138-the-fate-of-earth",
-  externalId: "2330577",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2330577",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2330577/chapter-138-the-fate-of-earth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

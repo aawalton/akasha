@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0049Chapter19BattlefieldReunion = {
   ownLength: 1687,
   unit: "words",
   publishedAt: "2024-08-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1781252/chapter-19-battlefield-reunion",
-  externalId: "1781252",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1781252",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1781252/chapter-19-battlefield-reunion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

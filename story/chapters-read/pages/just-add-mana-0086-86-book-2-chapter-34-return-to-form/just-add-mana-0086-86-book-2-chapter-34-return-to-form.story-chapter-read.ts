@@ -12,9 +12,13 @@ export const justAddMana008686Book2Chapter34ReturnToForm = {
   unit: "words",
   completedAt: "2026-06-29T18:50:35.002Z",
   publishedAt: "2026-01-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2938981/86-book-2-chapter-34-return-to-form",
-  externalId: "2938981",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2938981",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2938981/86-book-2-chapter-34-return-to-form",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

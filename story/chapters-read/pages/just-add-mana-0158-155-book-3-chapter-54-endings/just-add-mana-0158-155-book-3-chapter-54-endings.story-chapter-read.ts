@@ -10,9 +10,13 @@ export const justAddMana0158155Book3Chapter54Endings = {
   ownLength: 4149,
   unit: "words",
   publishedAt: "2026-06-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3612276/155-book-3-chapter-54-endings",
-  externalId: "3612276",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3612276",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3612276/155-book-3-chapter-54-endings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

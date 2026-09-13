@@ -12,9 +12,13 @@ export const justAddMana0105102Book3Chapter1NoblesseOblige = {
   unit: "words",
   completedAt: "2026-06-29T18:51:15.763Z",
   publishedAt: "2026-02-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3094846/102-book-3-chapter-1-noblesse-oblige",
-  externalId: "3094846",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3094846",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3094846/102-book-3-chapter-1-noblesse-oblige",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

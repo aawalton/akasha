@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0029Chapter4AbilityMasterySystem = {
   ownLength: 1458,
   unit: "words",
   publishedAt: "2024-07-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1733290/chapter-4-ability-mastery-system",
-  externalId: "1733290",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1733290",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1733290/chapter-4-ability-mastery-system",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

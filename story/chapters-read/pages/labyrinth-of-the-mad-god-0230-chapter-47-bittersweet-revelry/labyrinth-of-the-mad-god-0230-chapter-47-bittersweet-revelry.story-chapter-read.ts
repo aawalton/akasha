@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0230Chapter47BittersweetRevelry = {
   ownLength: 2122,
   unit: "words",
   publishedAt: "2025-10-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2643970/chapter-47-bittersweet-revelry",
-  externalId: "2643970",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2643970",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2643970/chapter-47-bittersweet-revelry",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

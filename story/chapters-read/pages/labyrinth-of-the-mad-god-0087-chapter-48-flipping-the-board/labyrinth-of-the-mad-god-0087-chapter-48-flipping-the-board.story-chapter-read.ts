@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0087Chapter48FlippingTheBoard = {
   ownLength: 1442,
   unit: "words",
   publishedAt: "2024-11-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1889001/chapter-48-flipping-the-board",
-  externalId: "1889001",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1889001",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1889001/chapter-48-flipping-the-board",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

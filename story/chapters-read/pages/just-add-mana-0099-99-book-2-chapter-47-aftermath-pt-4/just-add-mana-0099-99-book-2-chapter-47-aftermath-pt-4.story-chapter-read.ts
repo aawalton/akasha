@@ -12,9 +12,13 @@ export const justAddMana009999Book2Chapter47AftermathPt4 = {
   unit: "words",
   completedAt: "2026-06-29T18:51:03.064Z",
   publishedAt: "2026-02-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3039970/99-book-2-chapter-47-aftermath-pt-4",
-  externalId: "3039970",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3039970",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3039970/99-book-2-chapter-47-aftermath-pt-4",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

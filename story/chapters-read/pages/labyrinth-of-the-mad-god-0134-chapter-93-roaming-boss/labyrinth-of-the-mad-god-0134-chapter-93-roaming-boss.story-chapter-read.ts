@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0134Chapter93RoamingBoss = {
   ownLength: 1621,
   unit: "words",
   publishedAt: "2025-02-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2077190/chapter-93-roaming-boss",
-  externalId: "2077190",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2077190",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2077190/chapter-93-roaming-boss",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

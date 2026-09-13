@@ -7,12 +7,16 @@ export const justAddMana0189184Book4Chapter28TheGrandDesignPt1 = {
   position: 189,
   publishedAt: "2026-09-10",
   unit: "words",
-  externalId: "3939321",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3939321",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3939321/184-book-4-chapter-28-the-grand-design-pt-1",
+    },
+  ],
   title: "184 — Book 4, Chapter 28 — The Grand Design, Pt 1",
   story: "story-read/just-add-mana",
   ownLength: 3259,
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3939321/184-book-4-chapter-28-the-grand-design-pt-1",
   prose: "txt",
 } as const satisfies StoryChapterRead

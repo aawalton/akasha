@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0171Chapter130EnhancedEvolution = {
   ownLength: 2130,
   unit: "words",
   publishedAt: "2025-05-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2284280/chapter-130-enhanced-evolution",
-  externalId: "2284280",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2284280",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2284280/chapter-130-enhanced-evolution",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

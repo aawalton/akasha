@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0198Chapter16TravellingCompanion = {
   ownLength: 1786,
   unit: "words",
   publishedAt: "2025-07-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2454840/chapter-16-travelling-companion",
-  externalId: "2454840",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2454840",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2454840/chapter-16-travelling-companion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

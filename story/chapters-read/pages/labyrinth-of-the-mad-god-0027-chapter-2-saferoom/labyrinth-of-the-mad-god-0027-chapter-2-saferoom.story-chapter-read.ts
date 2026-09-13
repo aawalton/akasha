@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0027Chapter2Saferoom = {
   ownLength: 1651,
   unit: "words",
   publishedAt: "2024-07-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1728039/chapter-2-saferoom",
-  externalId: "1728039",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1728039",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1728039/chapter-2-saferoom",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

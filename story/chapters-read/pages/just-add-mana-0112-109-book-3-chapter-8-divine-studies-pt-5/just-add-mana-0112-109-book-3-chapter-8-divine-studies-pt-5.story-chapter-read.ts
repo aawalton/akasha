@@ -10,9 +10,13 @@ export const justAddMana0112109Book3Chapter8DivineStudiesPt5 = {
   ownLength: 3251,
   unit: "words",
   publishedAt: "2026-03-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3151188/109-book-3-chapter-8-divine-studies-pt-5",
-  externalId: "3151188",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3151188",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3151188/109-book-3-chapter-8-divine-studies-pt-5",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

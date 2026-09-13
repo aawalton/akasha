@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0108Chapter68Takeaway = {
   ownLength: 1632,
   unit: "words",
   publishedAt: "2024-12-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1971465/chapter-68-takeaway",
-  externalId: "1971465",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1971465",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1971465/chapter-68-takeaway",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

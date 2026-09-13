@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0106Chapter66Kiki = {
   ownLength: 1636,
   unit: "words",
   publishedAt: "2024-12-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1963230/chapter-66-kiki",
-  externalId: "1963230",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1963230",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1963230/chapter-66-kiki",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

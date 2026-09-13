@@ -10,9 +10,13 @@ export const justAddMana0139136Book3Chapter35Reconstitution = {
   ownLength: 2965,
   unit: "words",
   publishedAt: "2026-05-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3403595/136-book-3-chapter-35-reconstitution",
-  externalId: "3403595",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3403595",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3403595/136-book-3-chapter-35-reconstitution",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

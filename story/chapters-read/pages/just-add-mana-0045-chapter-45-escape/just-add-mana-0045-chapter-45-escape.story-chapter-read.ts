@@ -12,9 +12,13 @@ export const justAddMana0045Chapter45Escape = {
   unit: "words",
   completedAt: "2026-06-29T18:49:06.887Z",
   publishedAt: "2025-10-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2663432/chapter-45-escape",
-  externalId: "2663432",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2663432",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2663432/chapter-45-escape",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

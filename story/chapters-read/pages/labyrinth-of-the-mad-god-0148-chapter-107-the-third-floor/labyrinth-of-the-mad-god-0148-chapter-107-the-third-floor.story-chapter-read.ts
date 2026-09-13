@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0148Chapter107TheThirdFloor = {
   ownLength: 1732,
   unit: "words",
   publishedAt: "2025-03-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2148297/chapter-107-the-third-floor",
-  externalId: "2148297",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2148297",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2148297/chapter-107-the-third-floor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

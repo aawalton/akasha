@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0184Chapter2DawnOfANewEra = {
   ownLength: 2328,
   unit: "words",
   publishedAt: "2025-06-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2372885/chapter-2-dawn-of-a-new-era",
-  externalId: "2372885",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2372885",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2372885/chapter-2-dawn-of-a-new-era",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

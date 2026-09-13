@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0004ChapterFourTutorialTheSearingIsle = {
   ownLength: 2971,
   unit: "words",
   publishedAt: "2023-09-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1331023/chapter-four-tutorial-the-searing-isle",
-  externalId: "1331023",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1331023",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1331023/chapter-four-tutorial-the-searing-isle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

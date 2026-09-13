@@ -12,9 +12,13 @@ export const justAddMana0038Chapter38StatusUpdate = {
   unit: "words",
   completedAt: "2026-06-29T18:48:52.086Z",
   publishedAt: "2025-09-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2627877/chapter-38-status-update",
-  externalId: "2627877",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2627877",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2627877/chapter-38-status-update",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

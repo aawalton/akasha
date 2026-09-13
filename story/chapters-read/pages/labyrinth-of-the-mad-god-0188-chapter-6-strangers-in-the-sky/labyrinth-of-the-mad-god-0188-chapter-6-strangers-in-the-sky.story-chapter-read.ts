@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0188Chapter6StrangersInTheSky = {
   ownLength: 2559,
   unit: "words",
   publishedAt: "2025-06-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2390321/chapter-6-strangers-in-the-sky",
-  externalId: "2390321",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2390321",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2390321/chapter-6-strangers-in-the-sky",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

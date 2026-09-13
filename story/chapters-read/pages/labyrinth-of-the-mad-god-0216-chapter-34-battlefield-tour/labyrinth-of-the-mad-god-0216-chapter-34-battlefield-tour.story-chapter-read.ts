@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0216Chapter34BattlefieldTour = {
   ownLength: 2463,
   unit: "words",
   publishedAt: "2025-09-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2566183/chapter-34-battlefield-tour",
-  externalId: "2566183",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2566183",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2566183/chapter-34-battlefield-tour",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

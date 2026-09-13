@@ -10,9 +10,13 @@ export const justAddMana0144141Book3Chapter40BloodOfExtinction = {
   ownLength: 3141,
   unit: "words",
   publishedAt: "2026-05-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3460349/141-book-3-chapter-40-blood-of-extinction",
-  externalId: "3460349",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3460349",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3460349/141-book-3-chapter-40-blood-of-extinction",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

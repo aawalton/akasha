@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0176Chapter135GuardianOfTheTower = {
   ownLength: 1734,
   unit: "words",
   publishedAt: "2025-05-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2312390/chapter-135-guardian-of-the-tower",
-  externalId: "2312390",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2312390",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2312390/chapter-135-guardian-of-the-tower",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

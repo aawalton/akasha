@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0046FridayConceptArt1771455 = {
   ownLength: 14,
   unit: "words",
   publishedAt: "2024-08-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1771455/friday-concept-art",
-  externalId: "1771455",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1771455",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1771455/friday-concept-art",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

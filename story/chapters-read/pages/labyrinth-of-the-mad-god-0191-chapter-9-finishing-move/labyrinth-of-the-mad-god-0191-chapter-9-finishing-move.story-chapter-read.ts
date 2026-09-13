@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0191Chapter9FinishingMove = {
   ownLength: 2228,
   unit: "words",
   publishedAt: "2025-07-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2409307/chapter-9-finishing-move",
-  externalId: "2409307",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2409307",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2409307/chapter-9-finishing-move",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

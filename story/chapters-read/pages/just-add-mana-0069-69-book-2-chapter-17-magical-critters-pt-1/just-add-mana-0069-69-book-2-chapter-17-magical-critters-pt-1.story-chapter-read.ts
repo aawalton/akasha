@@ -12,9 +12,13 @@ export const justAddMana006969Book2Chapter17MagicalCrittersPt1 = {
   unit: "words",
   completedAt: "2026-06-29T18:49:59.921Z",
   publishedAt: "2025-12-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2818158/69-book-2-chapter-17-magical-critters-pt-1",
-  externalId: "2818158",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2818158",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2818158/69-book-2-chapter-17-magical-critters-pt-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

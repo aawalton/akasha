@@ -11,9 +11,13 @@ export const justAddMana0107104Book3Chapter3CatchingUp = {
   ownProgress: 2375,
   unit: "words",
   publishedAt: "2026-03-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3111867/104-book-3-chapter-3-catching-up",
-  externalId: "3111867",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3111867",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3111867/104-book-3-chapter-3-catching-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

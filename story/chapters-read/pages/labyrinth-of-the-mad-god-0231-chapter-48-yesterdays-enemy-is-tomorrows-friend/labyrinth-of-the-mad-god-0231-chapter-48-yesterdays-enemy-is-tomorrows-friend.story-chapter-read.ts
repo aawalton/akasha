@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0231Chapter48YesterdaysEnemyIsTomorrowsFriend =
   ownLength: 2175,
   unit: "words",
   publishedAt: "2025-10-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2649326/chapter-48-yesterdays-enemy-is-tomorrows-friend",
-  externalId: "2649326",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2649326",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2649326/chapter-48-yesterdays-enemy-is-tomorrows-friend",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

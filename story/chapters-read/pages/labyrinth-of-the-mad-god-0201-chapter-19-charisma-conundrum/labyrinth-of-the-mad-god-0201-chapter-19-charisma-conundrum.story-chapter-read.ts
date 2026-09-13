@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0201Chapter19CharismaConundrum = {
   ownLength: 2336,
   unit: "words",
   publishedAt: "2025-07-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2473615/chapter-19-charisma-conundrum",
-  externalId: "2473615",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2473615",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2473615/chapter-19-charisma-conundrum",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

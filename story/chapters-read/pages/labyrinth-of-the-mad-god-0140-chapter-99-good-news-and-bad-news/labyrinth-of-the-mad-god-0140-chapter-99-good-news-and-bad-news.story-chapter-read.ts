@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0140Chapter99GoodNewsAndBadNews = {
   ownLength: 1760,
   unit: "words",
   publishedAt: "2025-03-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2106255/chapter-99-good-news-and-bad-news",
-  externalId: "2106255",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2106255",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2106255/chapter-99-good-news-and-bad-news",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

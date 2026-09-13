@@ -10,9 +10,13 @@ export const justAddMana0185180Book4Chapter24TheBlackVaultPt1 = {
   ownLength: 3728,
   unit: "words",
   publishedAt: "2026-09-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3895768/180-book-4-chapter-24-the-black-vault-pt-1",
-  externalId: "3895768",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3895768",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3895768/180-book-4-chapter-24-the-black-vault-pt-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

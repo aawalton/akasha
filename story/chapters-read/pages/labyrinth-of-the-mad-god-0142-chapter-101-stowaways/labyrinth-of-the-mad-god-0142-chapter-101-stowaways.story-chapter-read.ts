@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0142Chapter101Stowaways = {
   ownLength: 2008,
   unit: "words",
   publishedAt: "2025-03-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2118011/chapter-101-stowaways",
-  externalId: "2118011",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2118011",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2118011/chapter-101-stowaways",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

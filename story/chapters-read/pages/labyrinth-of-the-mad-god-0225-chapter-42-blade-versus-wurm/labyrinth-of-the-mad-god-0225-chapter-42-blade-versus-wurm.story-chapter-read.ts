@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0225Chapter42BladeVersusWurm = {
   ownLength: 2545,
   unit: "words",
   publishedAt: "2025-09-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2613424/chapter-42-blade-versus-wurm",
-  externalId: "2613424",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2613424",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2613424/chapter-42-blade-versus-wurm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

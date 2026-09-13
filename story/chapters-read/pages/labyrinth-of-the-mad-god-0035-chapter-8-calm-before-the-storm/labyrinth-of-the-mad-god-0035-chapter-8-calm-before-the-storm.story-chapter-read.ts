@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0035Chapter8CalmBeforeTheStorm = {
   ownLength: 1815,
   unit: "words",
   publishedAt: "2024-08-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1746060/chapter-8-calm-before-the-storm",
-  externalId: "1746060",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1746060",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1746060/chapter-8-calm-before-the-storm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0132Chapter91VerticalEscape = {
   ownLength: 1656,
   unit: "words",
   publishedAt: "2025-02-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2067340/chapter-91-vertical-escape",
-  externalId: "2067340",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2067340",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2067340/chapter-91-vertical-escape",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

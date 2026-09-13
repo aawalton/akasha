@@ -12,9 +12,13 @@ export const justAddMana0037Chapter37LeviathanSBlessing = {
   unit: "words",
   completedAt: "2026-06-29T18:48:49.990Z",
   publishedAt: "2025-09-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2615351/chapter-37-leviathans-blessing",
-  externalId: "2615351",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2615351",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2615351/chapter-37-leviathans-blessing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

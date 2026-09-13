@@ -10,9 +10,13 @@ export const justAddMana0140137Book3Chapter36Reclamation = {
   ownLength: 3243,
   unit: "words",
   publishedAt: "2026-05-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3418322/137-book-3-chapter-36-reclamation",
-  externalId: "3418322",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3418322",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3418322/137-book-3-chapter-36-reclamation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

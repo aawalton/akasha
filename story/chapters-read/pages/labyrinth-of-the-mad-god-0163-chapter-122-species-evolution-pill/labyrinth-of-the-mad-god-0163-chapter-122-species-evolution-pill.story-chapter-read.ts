@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0163Chapter122SpeciesEvolutionPill = {
   ownLength: 1974,
   unit: "words",
   publishedAt: "2025-04-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2238714/chapter-122-species-evolution-pill",
-  externalId: "2238714",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2238714",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2238714/chapter-122-species-evolution-pill",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

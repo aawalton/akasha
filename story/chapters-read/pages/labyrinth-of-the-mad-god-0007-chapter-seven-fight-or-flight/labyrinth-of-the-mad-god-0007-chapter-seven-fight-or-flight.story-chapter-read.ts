@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0007ChapterSevenFightOrFlight = {
   ownLength: 3468,
   unit: "words",
   publishedAt: "2023-09-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1331875/chapter-seven-fight-or-flight",
-  externalId: "1331875",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1331875",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1331875/chapter-seven-fight-or-flight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

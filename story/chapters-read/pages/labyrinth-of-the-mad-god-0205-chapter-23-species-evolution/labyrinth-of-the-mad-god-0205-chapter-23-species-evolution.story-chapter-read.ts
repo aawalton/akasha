@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0205Chapter23SpeciesEvolution = {
   ownLength: 2248,
   unit: "words",
   publishedAt: "2025-08-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2497426/chapter-23-species-evolution",
-  externalId: "2497426",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2497426",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2497426/chapter-23-species-evolution",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

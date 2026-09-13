@@ -10,9 +10,13 @@ export const justAddMana0155152Book3Chapter51DragonstormPt10 = {
   ownLength: 4104,
   unit: "words",
   publishedAt: "2026-06-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3579810/152-book-3-chapter-51-dragonstorm-pt-10",
-  externalId: "3579810",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3579810",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3579810/152-book-3-chapter-51-dragonstorm-pt-10",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

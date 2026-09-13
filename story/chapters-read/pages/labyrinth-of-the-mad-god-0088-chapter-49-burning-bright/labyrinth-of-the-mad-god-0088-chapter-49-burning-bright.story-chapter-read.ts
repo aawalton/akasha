@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0088Chapter49BurningBright = {
   ownLength: 1993,
   unit: "words",
   publishedAt: "2024-11-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1892820/chapter-49-burning-bright",
-  externalId: "1892820",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1892820",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1892820/chapter-49-burning-bright",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

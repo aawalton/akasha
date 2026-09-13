@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0101Chapter62Cliffhanger = {
   ownLength: 1668,
   unit: "words",
   publishedAt: "2024-12-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1948298/chapter-62-cliffhanger",
-  externalId: "1948298",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1948298",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1948298/chapter-62-cliffhanger",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

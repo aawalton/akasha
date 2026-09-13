@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0220MajorAnnouncement = {
   ownLength: 323,
   unit: "words",
   publishedAt: "2025-09-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2587074/major-announcement",
-  externalId: "2587074",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2587074",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2587074/major-announcement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

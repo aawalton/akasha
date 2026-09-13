@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0157Chapter116TheFloorIsLava = {
   ownLength: 2498,
   unit: "words",
   publishedAt: "2025-04-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2201968/chapter-116-the-floor-is-lava",
-  externalId: "2201968",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2201968",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2201968/chapter-116-the-floor-is-lava",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

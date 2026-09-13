@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0063Chapter29Shaun = {
   ownLength: 1751,
   unit: "words",
   publishedAt: "2024-09-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1816693/chapter-29-shaun",
-  externalId: "1816693",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1816693",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1816693/chapter-29-shaun",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

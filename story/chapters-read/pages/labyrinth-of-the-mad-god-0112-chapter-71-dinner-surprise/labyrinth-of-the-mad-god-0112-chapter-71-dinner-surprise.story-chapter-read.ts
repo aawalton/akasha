@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0112Chapter71DinnerSurprise = {
   ownLength: 2691,
   unit: "words",
   publishedAt: "2024-12-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1982710/chapter-71-dinner-surprise",
-  externalId: "1982710",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1982710",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1982710/chapter-71-dinner-surprise",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

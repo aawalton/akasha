@@ -12,9 +12,13 @@ export const justAddMana006767Book2Chapter15Scattered = {
   unit: "words",
   completedAt: "2026-06-29T18:49:55.241Z",
   publishedAt: "2025-11-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2803472/67-book-2-chapter-15-scattered",
-  externalId: "2803472",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2803472",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2803472/67-book-2-chapter-15-scattered",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

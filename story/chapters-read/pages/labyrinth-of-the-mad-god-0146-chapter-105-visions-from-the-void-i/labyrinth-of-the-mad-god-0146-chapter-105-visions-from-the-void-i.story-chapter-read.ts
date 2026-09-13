@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0146Chapter105VisionsFromTheVoidI = {
   ownLength: 2228,
   unit: "words",
   publishedAt: "2025-03-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2137325/chapter-105-visions-from-the-void-i",
-  externalId: "2137325",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2137325",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2137325/chapter-105-visions-from-the-void-i",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

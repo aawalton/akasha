@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0200Chapter18Voidbear = {
   ownLength: 3151,
   unit: "words",
   publishedAt: "2025-07-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2466050/chapter-18-voidbear",
-  externalId: "2466050",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2466050",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2466050/chapter-18-voidbear",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

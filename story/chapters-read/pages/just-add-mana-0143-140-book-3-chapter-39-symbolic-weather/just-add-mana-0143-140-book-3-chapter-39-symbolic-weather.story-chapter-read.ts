@@ -10,9 +10,13 @@ export const justAddMana0143140Book3Chapter39SymbolicWeather = {
   ownLength: 2618,
   unit: "words",
   publishedAt: "2026-05-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3448605/140-book-3-chapter-39--symbolic-weather",
-  externalId: "3448605",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3448605",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3448605/140-book-3-chapter-39--symbolic-weather",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

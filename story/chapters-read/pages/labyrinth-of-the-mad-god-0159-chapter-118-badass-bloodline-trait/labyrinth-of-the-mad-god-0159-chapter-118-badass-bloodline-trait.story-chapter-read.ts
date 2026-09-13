@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0159Chapter118BadassBloodlineTrait = {
   ownLength: 1688,
   unit: "words",
   publishedAt: "2025-04-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2212856/chapter-118-badass-bloodline-trait",
-  externalId: "2212856",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2212856",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2212856/chapter-118-badass-bloodline-trait",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

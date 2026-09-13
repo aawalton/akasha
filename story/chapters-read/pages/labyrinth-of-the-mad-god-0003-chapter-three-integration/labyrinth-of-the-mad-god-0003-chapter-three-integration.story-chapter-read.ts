@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0003ChapterThreeIntegration = {
   ownLength: 2319,
   unit: "words",
   publishedAt: "2023-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1330805/chapter-three-integration",
-  externalId: "1330805",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1330805",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1330805/chapter-three-integration",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

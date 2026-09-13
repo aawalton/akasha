@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0232Chapter49ItsTimeToStartBuilding = {
   ownLength: 2568,
   unit: "words",
   publishedAt: "2025-10-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2656255/chapter-49-its-time-to-start-building",
-  externalId: "2656255",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2656255",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2656255/chapter-49-its-time-to-start-building",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

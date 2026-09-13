@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0008ChapterEightTurfWar = {
   ownLength: 1798,
   unit: "words",
   publishedAt: "2023-09-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1334042/chapter-eight-turf-war",
-  externalId: "1334042",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1334042",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1334042/chapter-eight-turf-war",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

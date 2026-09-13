@@ -12,9 +12,13 @@ export const justAddMana0106103Book3Chapter2DungeonDelving = {
   unit: "words",
   completedAt: "2026-06-29T18:51:17.638Z",
   publishedAt: "2026-02-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3101875/103-book-3-chapter-2-dungeon-delving",
-  externalId: "3101875",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3101875",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3101875/103-book-3-chapter-2-dungeon-delving",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

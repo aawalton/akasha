@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0002ChapterTwoWelcomeToTheSystem = {
   ownLength: 1614,
   unit: "words",
   publishedAt: "2023-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1330741/chapter-two-welcome-to-the-system",
-  externalId: "1330741",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1330741",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1330741/chapter-two-welcome-to-the-system",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

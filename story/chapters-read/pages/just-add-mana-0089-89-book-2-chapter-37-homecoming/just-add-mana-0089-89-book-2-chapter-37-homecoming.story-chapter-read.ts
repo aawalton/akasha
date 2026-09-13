@@ -12,9 +12,13 @@ export const justAddMana008989Book2Chapter37Homecoming = {
   unit: "words",
   completedAt: "2026-06-29T18:50:40.943Z",
   publishedAt: "2026-01-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2961243/89-book-2-chapter-37-homecoming",
-  externalId: "2961243",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2961243",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2961243/89-book-2-chapter-37-homecoming",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

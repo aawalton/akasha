@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0094Chapter55MagicBagCrafting = {
   ownLength: 1372,
   unit: "words",
   publishedAt: "2024-11-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1918636/chapter-55-magic-bag-crafting",
-  externalId: "1918636",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1918636",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1918636/chapter-55-magic-bag-crafting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

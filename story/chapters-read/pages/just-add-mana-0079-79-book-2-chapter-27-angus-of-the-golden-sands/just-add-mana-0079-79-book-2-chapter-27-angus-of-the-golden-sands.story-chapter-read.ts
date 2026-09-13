@@ -12,9 +12,13 @@ export const justAddMana007979Book2Chapter27AngusOfTheGoldenSands = {
   unit: "words",
   completedAt: "2026-06-29T18:50:21.108Z",
   publishedAt: "2025-12-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2884223/79-book-2-chapter-27-angus-of-the-golden-sands",
-  externalId: "2884223",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2884223",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2884223/79-book-2-chapter-27-angus-of-the-golden-sands",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

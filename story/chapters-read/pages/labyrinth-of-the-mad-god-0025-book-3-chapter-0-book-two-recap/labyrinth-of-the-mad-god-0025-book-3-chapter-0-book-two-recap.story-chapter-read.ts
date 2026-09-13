@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0025Book3Chapter0BookTwoRecap = {
   ownLength: 1462,
   unit: "words",
   publishedAt: "2024-07-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1724175/book-3-chapter-0-book-two-recap",
-  externalId: "1724175",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1724175",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1724175/book-3-chapter-0-book-two-recap",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

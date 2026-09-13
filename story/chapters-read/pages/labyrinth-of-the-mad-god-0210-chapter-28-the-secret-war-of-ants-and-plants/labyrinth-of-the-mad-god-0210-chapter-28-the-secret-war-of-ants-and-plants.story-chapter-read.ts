@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0210Chapter28TheSecretWarOfAntsAndPlants = {
   ownLength: 1961,
   unit: "words",
   publishedAt: "2025-08-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2528698/chapter-28-the-secret-war-of-ants-and-plants",
-  externalId: "2528698",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2528698",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2528698/chapter-28-the-secret-war-of-ants-and-plants",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0064Chapter30ViewOfTheCenter = {
   ownLength: 1716,
   unit: "words",
   publishedAt: "2024-09-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1820206/chapter-30-view-of-the-center",
-  externalId: "1820206",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1820206",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1820206/chapter-30-view-of-the-center",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

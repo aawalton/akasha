@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0187Chapter5ChangesWithoutAndWithin = {
   ownLength: 2037,
   unit: "words",
   publishedAt: "2025-06-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2384975/chapter-5-changes-without-and-within",
-  externalId: "2384975",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2384975",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2384975/chapter-5-changes-without-and-within",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

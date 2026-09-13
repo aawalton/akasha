@@ -10,9 +10,13 @@ export const justAddMana0123120Book3Chapter19ManaCalibrationPt1 = {
   ownLength: 3316,
   unit: "words",
   publishedAt: "2026-04-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3251833/120-book-3-chapter-19-mana-calibration-pt-1",
-  externalId: "3251833",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3251833",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3251833/120-book-3-chapter-19-mana-calibration-pt-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

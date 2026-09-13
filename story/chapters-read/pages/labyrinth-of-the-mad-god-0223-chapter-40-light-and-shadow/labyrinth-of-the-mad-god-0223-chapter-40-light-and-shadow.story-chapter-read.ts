@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0223Chapter40LightAndShadow = {
   ownLength: 1629,
   unit: "words",
   publishedAt: "2025-09-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2602815/chapter-40-light-and-shadow",
-  externalId: "2602815",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2602815",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2602815/chapter-40-light-and-shadow",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

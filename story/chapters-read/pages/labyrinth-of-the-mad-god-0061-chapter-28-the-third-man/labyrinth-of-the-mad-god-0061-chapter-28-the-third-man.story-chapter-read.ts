@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0061Chapter28TheThirdMan = {
   ownLength: 1831,
   unit: "words",
   publishedAt: "2024-09-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1812256/chapter-28-the-third-man",
-  externalId: "1812256",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1812256",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1812256/chapter-28-the-third-man",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

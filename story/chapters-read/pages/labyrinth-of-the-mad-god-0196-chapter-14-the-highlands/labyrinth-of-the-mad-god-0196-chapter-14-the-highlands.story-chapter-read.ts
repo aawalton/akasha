@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0196Chapter14TheHighlands = {
   ownLength: 2083,
   unit: "words",
   publishedAt: "2025-07-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2440596/chapter-14-the-highlands",
-  externalId: "2440596",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2440596",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2440596/chapter-14-the-highlands",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

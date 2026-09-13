@@ -10,9 +10,13 @@ export const labyrinthOfTheMadGod0131Chapter90CrystalAndFlame = {
   ownLength: 2031,
   unit: "words",
   publishedAt: "2025-02-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2063332/chapter-90-crystal-and-flame",
-  externalId: "2063332",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2063332",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2063332/chapter-90-crystal-and-flame",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
