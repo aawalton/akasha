@@ -29,7 +29,7 @@ import {
   resolveAttributes,
   scan,
 } from "akasha/agents/seats/declaration/modules/seat-resolve/seat-resolve.module.code.ts"
-import { statedNow } from "akasha/agents/seats/declaration/modules/stated/seat-stated.module.code.ts"
+import { statedNow } from "akasha/agents/seats/declaration/modules/seat-stated/seat-stated.module.code.ts"
 import {
   composeSeatName,
   personPrincipals,

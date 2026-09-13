@@ -1,10 +1,10 @@
 import { principalSeatNameOf } from "akasha/agents/seats/declaration/modules/seat-principal/seat-principal.module.code.ts"
-import { stateSpawnedSeat } from "akasha/agents/seats/declaration/modules/state-spawned-seat/state-spawned-seat.module.code.ts"
 import {
   pageWouldCompose,
   type Stated,
   statedOf,
-} from "akasha/agents/seats/declaration/modules/stated/seat-stated.module.code.ts"
+} from "akasha/agents/seats/declaration/modules/seat-stated/seat-stated.module.code.ts"
+import { stateSpawnedSeat } from "akasha/agents/seats/declaration/modules/state-spawned-seat/state-spawned-seat.module.code.ts"
 import { resolveSeatTargetCli } from "akasha/agents/seats/fleet/modules/handle/seat-handle.module.code.ts"
 import {
   killSeatSession,

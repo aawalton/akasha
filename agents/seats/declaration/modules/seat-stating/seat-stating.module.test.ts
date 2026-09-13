@@ -14,7 +14,7 @@ import {
   tookSeat,
   typedFrom,
   unfiled,
-} from "akasha/agents/seats/declaration/modules/stating/seat-stating.module.code.ts"
+} from "akasha/agents/seats/declaration/modules/seat-stating/seat-stating.module.code.ts"
 import {
   seatPathForName,
   seatsAt,

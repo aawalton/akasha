@@ -1,4 +1,4 @@
-import { seatWhoami } from "akasha/agents/seats/declaration/modules/whoami/seat-whoami.module.code.ts"
+import { seatWhoami } from "akasha/agents/seats/declaration/modules/seat-whoami/seat-whoami.module.code.ts"
 import { seatRoster } from "akasha/agents/seats/fleet/modules/roster/seat-roster.module.code.ts"
 import {
   agentHolderProcess,

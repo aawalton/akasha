@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { onCallRolesIn } from "akasha/agents/seats/declaration/modules/role-on-call/seat-role-on-call.module.code.ts"
+import { onCallRolesIn } from "akasha/agents/seats/declaration/modules/seat-role-on-call/seat-role-on-call.module.code.ts"
 
 test("a role holding true under the on-call key is on call", () => {
   expect([...onCallRolesIn([{ value: { slug: "handler", onCall: true } }])]).toEqual(["handler"])

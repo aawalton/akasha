@@ -3,12 +3,12 @@ import {
   type Declaration,
   type Mode,
 } from "akasha/agents/modules/attributes/agent-attributes.module.code.ts"
-import { run } from "akasha/agents/seats/declaration/modules/running/seat-running.module.code.ts"
 import type { Args } from "akasha/agents/seats/declaration/modules/seat-args/seat-args.module.code.ts"
 import {
   modeRefusal,
   principalRefusal,
 } from "akasha/agents/seats/declaration/modules/seat-args/seat-args.module.code.ts"
+import { run } from "akasha/agents/seats/declaration/modules/seat-running/seat-running.module.code.ts"
 
 export interface SeatStatement {
   readonly agentId: string

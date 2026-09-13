@@ -2,10 +2,10 @@ import {
   attributesOf,
   recordedModeOf,
 } from "akasha/agents/modules/attributes/agent-attributes.module.code.ts"
-import { run } from "akasha/agents/seats/declaration/modules/running/seat-running.module.code.ts"
 import type { Args } from "akasha/agents/seats/declaration/modules/seat-args/seat-args.module.code.ts"
 import { onCallOf } from "akasha/agents/seats/declaration/modules/seat-on-call/seat-on-call.module.code.ts"
 import { defaultSlots } from "akasha/agents/seats/declaration/modules/seat-resolve/seat-resolve.module.code.ts"
+import { run } from "akasha/agents/seats/declaration/modules/seat-running/seat-running.module.code.ts"
 import { seatNameForAgent } from "akasha/agents/seats/observation/modules/presence-read/seat-presence-read.module.code.ts"
 import { nameFromHistory } from "akasha/agents/seats/page/modules/page-history/seat-page-history.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
