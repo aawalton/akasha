@@ -6,11 +6,12 @@ export const index = {
   slug: "index",
   definition: "one question the pages can be asked, answered by reading one file",
   pluralSlug: "indexes",
-  parts: ["text-property/index-name"],
+  parts: ["boolean-property/index-tracked", "text-property/index-name"],
   extends: ["page-type/module"],
   properties: [
     { pageProperty: "text-property/index-name", required: true, many: false },
     { pageProperty: "code-file-property/test", required: true, many: false },
+    { pageProperty: "boolean-property/index-tracked", required: false, many: false },
   ],
   invariants: [
     {
@@ -44,6 +45,10 @@ export const index = {
     {
       invariantKind: "gap",
       statement: "No index is ever built anew; every write lays a delta over what is there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An index states whether git holds the answers that index files.",
     },
   ],
   types: "ts",
