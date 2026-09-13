@@ -1,10 +1,10 @@
 import type { ChangeTargetSubtype } from "akasha/changes/targets/subtypes/change-target-subtype.page-type.types.ts"
 
-export const fileContentCode = {
-  id: "01a07c7a-1d86-7649-a845-20b1ea1df964",
+export const fileContentEntryKey = {
+  id: "01a09b5c-a94c-7b54-98ae-46591f50d4cb",
   type: "change-target-subtype",
-  slug: "file-content-code",
-  definition: "a body read as code",
+  slug: "file-content-entry-key",
+  definition: "a body read as the keys an entry beside a page states its values under",
   changeTargetType: "change-target-type/file-content",
   parent: "change-target-subtype/file-content",
 } as const satisfies ChangeTargetSubtype

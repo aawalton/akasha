@@ -6,4 +6,5 @@ export const fileContentPagePropertyKey = {
   slug: "file-content-page-property-key",
   definition: "a body read as the keys a page states its values under",
   changeTargetType: "change-target-type/file-content",
+  parent: "change-target-subtype/file-content-page",
 } as const satisfies ChangeTargetSubtype

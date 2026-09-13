@@ -9,7 +9,9 @@ export const changeTargetSubtype = {
   parts: [
     "change-target-subtype/file",
     "change-target-subtype/file-code",
+    "change-target-subtype/file-content",
     "change-target-subtype/file-content-code",
+    "change-target-subtype/file-content-entry-key",
     "change-target-subtype/file-content-manifest",
     "change-target-subtype/file-content-page",
     "change-target-subtype/file-content-page-property-key",

@@ -6,4 +6,5 @@ export const fileContentManifest = {
   slug: "file-content-manifest",
   definition: "a body read as the ways a package manifest declares",
   changeTargetType: "change-target-type/file-content",
+  parent: "change-target-subtype/file-content",
 } as const satisfies ChangeTargetSubtype
