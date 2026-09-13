@@ -1,4 +1,8 @@
 import {
+  computeReExecJitterMs,
+  resolveMaxReExecJitterMs,
+} from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-jitter-decide/supervisor-self-heal-jitter-decide.module.code.ts"
+import {
   classifyChildExit,
   collapseChildExitStatus,
   decideShutdownExitWrite,
@@ -49,10 +53,6 @@ import {
   str,
 } from "akasha/commands/modules/argument-narrowing/argument-narrowing.module.code.ts"
 import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
-import {
-  computeReExecJitterMs,
-  resolveMaxReExecJitterMs,
-} from "akasha/seat-system/self-healing/modules/supervisor-self-heal-jitter-decide/supervisor-self-heal-jitter-decide.module.code.ts"
 
 function sub(
   value: unknown,

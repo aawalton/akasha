@@ -5,6 +5,10 @@ import {
 } from "akasha/agents/messaging/modules/supervisor-message-claim/supervisor-message-claim.module.code.ts"
 import { redeliveryHoldoff } from "akasha/agents/messaging/modules/supervisor-redelivery-holdoff/supervisor-redelivery-holdoff.module.code.ts"
 import { readOwnTranscriptTail } from "akasha/agents/modules/io-probe/io-probe.module.code.ts"
+import {
+  setCurrentAgentIdForSelfHeal,
+  setCurrentSessionIdForSelfHeal,
+} from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { claimSeatSupervision } from "akasha/agents/seats/supervisors/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
 import { createAgent } from "akasha/agents/seats/supervisors/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
 import type { SeatResume } from "akasha/agents/seats/supervisors/modules/supervisor-args/supervisor-args.module.code.ts"
@@ -41,10 +45,6 @@ import type {
   InheritedProc,
 } from "akasha/agents/seats/supervisors/modules/supervisor-types/supervisor-types.module.code.ts"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
-import {
-  setCurrentAgentIdForSelfHeal,
-  setCurrentSessionIdForSelfHeal,
-} from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 
 export async function openIteration(args: {
   agentId: string | null

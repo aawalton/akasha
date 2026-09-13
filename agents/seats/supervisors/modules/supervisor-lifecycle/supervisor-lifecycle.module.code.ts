@@ -1,3 +1,11 @@
+import { attemptInPlaceReExec } from "akasha/agents/seats/self-healing/modules/supervisor-reexec/supervisor-reexec.module.code.ts"
+import { resolveReExecArgv } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal/supervisor-self-heal.module.code.ts"
+import {
+  getCurrentAgentIdForSelfHeal,
+  isPendingReExec,
+  SUPERVISOR_SCRIPT,
+  teardownVersionSubscription,
+} from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import type { ChildExitRuleSource } from "akasha/agents/seats/supervisors/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
 import { takeSeatPage } from "akasha/agents/seats/supervisors/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
@@ -14,14 +22,6 @@ import {
   setShuttingDown,
 } from "akasha/agents/seats/supervisors/modules/supervisor-state/supervisor-state.module.code.ts"
 import { teardownProxyVersionSubscription } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
-import { attemptInPlaceReExec } from "akasha/seat-system/self-healing/modules/supervisor-reexec/supervisor-reexec.module.code.ts"
-import { resolveReExecArgv } from "akasha/seat-system/self-healing/modules/supervisor-self-heal/supervisor-self-heal.module.code.ts"
-import {
-  getCurrentAgentIdForSelfHeal,
-  isPendingReExec,
-  SUPERVISOR_SCRIPT,
-  teardownVersionSubscription,
-} from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const SHUTDOWN_FORCE_EXIT_MS = 10_000

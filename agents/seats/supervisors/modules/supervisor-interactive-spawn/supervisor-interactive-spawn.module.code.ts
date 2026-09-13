@@ -1,5 +1,6 @@
 import { buildInteractiveCLIArgs } from "akasha/agents/claude-code/modules/claude-launch-args/claude-launch-args.module.code.ts"
 import { seatNameForAgent } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
+import { isPendingReExec } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import {
   resolveAgentEffortLevel,
   resolveAutoCompactWindow,
@@ -31,7 +32,6 @@ import {
 import { materializeSpawnSettings } from "akasha/agents/seats/supervisors/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
 import { setOAuthProxyHandle } from "akasha/agents/seats/supervisors/modules/supervisor-state/supervisor-state.module.code.ts"
 import type { AgentProcess } from "akasha/agents/seats/supervisors/modules/supervisor-types/supervisor-types.module.code.ts"
-import { isPendingReExec } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 
 export type SeatSpawnDecider = (
   agentId: string | null,

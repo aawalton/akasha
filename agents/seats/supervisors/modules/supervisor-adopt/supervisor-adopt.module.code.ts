@@ -3,6 +3,7 @@ import {
   buildClaudeArgv,
   refuseMissingCwd,
 } from "akasha/agents/claude-code/modules/claude-launch-args/claude-launch-args.module.code.ts"
+import type { SupervisorHandoff } from "akasha/agents/seats/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
 import type { ChildExitStatus } from "akasha/agents/seats/supervisors/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import type { ChildExitRuleSource } from "akasha/agents/seats/supervisors/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import {
@@ -22,7 +23,6 @@ import {
 } from "akasha/agents/seats/supervisors/modules/supervisor-exec/supervisor-exec.module.code.ts"
 import { resolveRemoteControlEnv } from "akasha/agents/seats/supervisors/modules/supervisor-remote-control-env/supervisor-remote-control-env.module.code.ts"
 import type { InheritedProc } from "akasha/agents/seats/supervisors/modules/supervisor-types/supervisor-types.module.code.ts"
-import type { SupervisorHandoff } from "akasha/seat-system/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
 import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
 
 export function adoptInheritedProc(pid: number, childExitRule: ChildExitRuleSource): InheritedProc {

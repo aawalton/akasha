@@ -12,7 +12,7 @@ import {
   repoRootOf,
   type VersionWatch,
   workspaceNaming,
-} from "akasha/seat-system/self-healing/modules/supervisor-file-version/supervisor-file-version.module.code.ts"
+} from "akasha/agents/seats/self-healing/modules/supervisor-file-version/supervisor-file-version.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

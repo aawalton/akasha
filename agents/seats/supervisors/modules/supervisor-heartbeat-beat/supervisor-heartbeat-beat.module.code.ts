@@ -14,6 +14,10 @@ import { composedNameOf } from "akasha/agents/seats/modules/rename/seat-rename.m
 import { clearRotated } from "akasha/agents/seats/modules/rotated-session/seat-rotated-session.module.code.ts"
 import { keepSession } from "akasha/agents/seats/modules/session/seat-session.module.code.ts"
 import { keepTranscript } from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"
+import {
+  getCurrentAgentIdForSelfHeal,
+  getCurrentSessionIdForSelfHeal,
+} from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
 import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
@@ -22,10 +26,6 @@ import {
   resolveRoots,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import {
-  getCurrentAgentIdForSelfHeal,
-  getCurrentSessionIdForSelfHeal,
-} from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const MODULE = "module"
