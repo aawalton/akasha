@@ -10,23 +10,13 @@ export const emberInventoryRules = {
     {
       statement: "A merchant or a banker opens without a wait Alan notices.",
       workingMemory:
-        "cf2ac8b stops a rule run at the first match; 0e0adca deletes a second whole judgement of every bank slot inside the withdraw sweep. evaluateRules n=695 is exactly backpack 215 plus bank 240 plus 240, so the counts name the walks. refreshPanel 208-403ms is the bank action panel, not the item browser, and is a third full walk of both bank bags to render one summary line. Never cache a slot's verdict across sweeps: the first locks the slot it judged, so the second must judge it afresh.",
-    },
-    {
-      statement: "A banker stacks what the bags hold that will stack.",
-      workingMemory:
-        "StackBag(bagId) is the whole of what the game exposes. A visit stacks the backpack and the storage it opened, both bank bags where Alan subscribes, and a bank closed early stacks too. e14fb69 waits for the moves to arrive first, and Alan's trace shows that working: backpack 24 to 21 on an aborted close. StackBag does reach a bank bag after the bank shuts, bag 2 going 50 to 49 on that close and bag 6 going 46 to 45 on a later one, so the call stays and nothing here is left open.",
+        "cf2ac8b stops a rule run at the first match; 0e0adca judges each bank slot once in the withdraw sweep; ab9376db has the bank action panel count from that sweep rather than making a third of its own. Together: open handler 3559ms to 488ms, panel 272ms to 16ms, sweep 509ms to 297ms, facts built 1510 to 730. A merchant is 35ms. Never cache a slot's verdict across sweeps: the first locks the slot it judged, so the second must judge it afresh.",
     },
     {
       statement:
         "A visit to the banker moves every item the rules send there, however many there are.",
       workingMemory:
-        "The game allows a hundred stack moves per ten seconds across withdrawals and deposits together; Alan's fifty-every-five was a halving of that, taken when he had forgotten moves go both ways. b81c289 spends the real budget over a sliding ten seconds, and counts what was sent so a straggler sent again spends again. A batch of 26 confirmed 23, then retried the same 3 over three rounds, confirming none, and aborted at 5096ms. Reopening the bank moved both stragglers at once.",
-    },
-    {
-      statement: "An Experience Commendation the character carries reaches the bank.",
-      workingMemory:
-        "Alan handed the link for Major Experience Commendation (224714, scrolls) and asked for Move to Bank for now. fe8bd926 is that rule: scrolls whose name holds `commendation`, non-stolen, to bank. explain read against the game's own compiled config matches it at index 40, ahead of 263273e9, which takes every other scroll to house storage, so the rule is live in Alan's client. 298663dd narrows the cascade that had claimed it. Left: watch one reach the bank in play.",
+        "The game allows a hundred stack moves per ten seconds across withdrawals and deposits together, and b81c289 spends that over a sliding ten seconds. 5ae05aa offers a partial slot only where it takes the whole move, and stops the caller dropping the reservation that had aimed three stacks at one slot; b4855e82 re-issues a move only where that could land it. A batch of 26 was confirming 23 and aborting at 5096ms; 23 now go in 769ms with no retry. Left: a batch past the hundred.",
     },
   ],
   constraints: [
