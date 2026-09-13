@@ -964,7 +964,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 20,
+            "numCompleted": 21,
             "numRequired": 30
           }
         }
@@ -3071,7 +3071,7 @@
         "39475": {
           "morph1": {
             "name": "Inner Rage",
-            "rank": 3
+            "rank": 4
           },
           "abilityIndex": 3,
           "atMorph": true,
@@ -13029,8 +13029,8 @@
     "carryCapacity": 60
   },
   "dailyWrits": {
-    "date": "2026-09-12",
-    "completed": 7
+    "completed": 7,
+    "date": "2026-09-13"
   },
   "dailyWritStates": {
     "completed": {
@@ -13051,7 +13051,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-12"
+    "date": "2026-09-13"
   },
   "motifKnowledge": {
     "1": {
