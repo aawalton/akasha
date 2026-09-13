@@ -8,8 +8,8 @@ import {
   launchSeatUnderTmux,
   liveSessionHolds,
 } from "akasha/agents/seats/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
-import { DEFAULT_ACCOUNT } from "akasha/agents/seats/launching/modules/launching/seat-launching.module.code.ts"
 import { SEAT_MODE_HEADLESS } from "akasha/agents/seats/launching/modules/seat-modes/seat-modes.module.code.ts"
+import { DEFAULT_ACCOUNT } from "akasha/agents/seats/launching/seat-launching.module.code.ts"
 import {
   decideSpawnGuard,
   type SpawnGuardDecision,

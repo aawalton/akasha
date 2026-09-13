@@ -10,11 +10,11 @@ import {
   killSeatSession,
   launchSeatUnderTmux,
 } from "akasha/agents/seats/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
-import { DEFAULT_ACCOUNT } from "akasha/agents/seats/launching/modules/launching/seat-launching.module.code.ts"
 import {
   isSeatMode,
   SEAT_MODE_HEADLESS,
 } from "akasha/agents/seats/launching/modules/seat-modes/seat-modes.module.code.ts"
+import { DEFAULT_ACCOUNT } from "akasha/agents/seats/launching/seat-launching.module.code.ts"
 import { composeSeatName } from "akasha/agents/seats/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { flexInName } from "akasha/agents/seats/name/modules/seat-flex/seat-flex.module.code.ts"
 import { mintNamedAgent } from "akasha/agents/seats/name-claiming/modules/seat-name-bind/seat-name-bind.module.code.ts"

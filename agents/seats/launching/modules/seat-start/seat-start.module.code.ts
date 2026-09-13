@@ -12,7 +12,6 @@ import {
   resolveOptionalSeatId,
 } from "akasha/agents/seats/fleet/modules/seat-handle/seat-handle.module.code.ts"
 import { launchSeatUnderTmux } from "akasha/agents/seats/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
-import { DEFAULT_ACCOUNT } from "akasha/agents/seats/launching/modules/launching/seat-launching.module.code.ts"
 import {
   isSeatMode,
   SEAT_MODE_HEADLESS,
@@ -23,6 +22,7 @@ import {
   type StatedIdentity,
   spawnSeat,
 } from "akasha/agents/seats/launching/modules/spawn-seat/spawn-seat.module.code.ts"
+import { DEFAULT_ACCOUNT } from "akasha/agents/seats/launching/seat-launching.module.code.ts"
 import {
   composeSeatName,
   FLEET,

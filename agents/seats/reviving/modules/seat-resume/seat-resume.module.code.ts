@@ -11,13 +11,13 @@ import {
   launchSeatUnderTmux,
   respawnSeatUnderTmux,
 } from "akasha/agents/seats/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
-import { DEFAULT_ACCOUNT } from "akasha/agents/seats/launching/modules/launching/seat-launching.module.code.ts"
 import {
   isSeatMode,
   SEAT_MODE_HEADLESS,
   SEAT_MODE_INTERACTIVE,
   SEAT_MODES,
 } from "akasha/agents/seats/launching/modules/seat-modes/seat-modes.module.code.ts"
+import { DEFAULT_ACCOUNT } from "akasha/agents/seats/launching/seat-launching.module.code.ts"
 import { parseWindowDuration } from "akasha/agents/seats/modules/window-duration/window-duration.module.code.ts"
 import { resumeSeat as relaunchStoppedSeat } from "akasha/agents/seats/reviving/modules/resume-seat/resume-seat.module.code.ts"
 import {
